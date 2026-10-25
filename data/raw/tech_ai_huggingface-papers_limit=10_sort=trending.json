@@ -35,7 +35,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 113570,
+      "github_stars": 113735,
       "project_page": null
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2610.23374",
       "arxiv_url": "https://arxiv.org/abs/2610.23374",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.23374.png",
-      "upvotes": 98,
+      "upvotes": 100,
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
@@ -149,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/HazyResearch/ncm",
-      "github_stars": 941,
+      "github_stars": 969,
       "project_page": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm"
     },
     {
@@ -172,26 +172,26 @@
       "project_page": "https://wuyoscar.github.io/ISC-Bench"
     },
     {
-      "id": "2407.16741",
-      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
-      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
+      "id": "2309.06180",
+      "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
+      "authors": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)",
       "organization_name": null,
       "organization_fullname": null,
       "organization_avatar": null,
-      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
-      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2407.16741",
-      "arxiv_url": "https://arxiv.org/abs/2407.16741",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
-      "upvotes": 90,
-      "num_comments": 7,
-      "published_at": "2024-07-23T13:50:43.000Z",
-      "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 91738,
+      "summary": "High throughput serving of large language models (LLMs) requires batching\nsufficiently many requests at a time. However, existing systems struggle\nbecause the key-value cache (KV cache) memory for each request is huge and\ngrows and shrinks dynamically. When managed inefficiently, this memory can be\nsignificantly wasted by fragmentation and redundant duplication, limiting the\nbatch size. To address this problem, we propose PagedAttention, an attention\nalgorithm inspired by the classical virtual memory and paging techniques in\noperating systems. On top of it, we build vLLM, an LLM serving system that\nachieves (1) near-zero waste in KV cache memory and (2) flexible sharing of KV\ncache within and across requests to further reduce memory usage. Our\nevaluations show that vLLM improves the throughput of popular LLMs by\n2-4times with the same level of latency compared to the state-of-the-art\nsystems, such as FasterTransformer and Orca. The improvement is more pronounced\nwith longer sequences, larger models, and more complex decoding algorithms.\nvLLM's source code is publicly available at\nhttps://github.com/vllm-project/vllm",
+      "ai_summary": "PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.",
+      "hf_url": "https://huggingface.co/papers/2309.06180",
+      "arxiv_url": "https://arxiv.org/abs/2309.06180",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2309.06180.png",
+      "upvotes": 77,
+      "num_comments": 1,
+      "published_at": "2023-09-12T08:50:04.000Z",
+      "github_repo": "https://github.com/vllm-project/vllm",
+      "github_stars": 86094,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-25T03:31:41.705514+00:00"
+  "fetched_at": "2026-10-25T08:58:31.407728+00:00"
 }

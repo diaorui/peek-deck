@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-25T03:31:55.473252+00:00'
+updated: '2026-10-25T08:59:08.823815+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 25, 2026 at 03:31 UTC  
+**Last Updated:** October 25, 2026 at 08:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Roughly 300 Boston Dynamics employees signed a petition urging the company to cancel a $1.3 million contract supplying Spot robot dogs to ICE through…
 
-🔗 [Vector Wire](http://vectorwire.ai/article/boston-dynamics-employees-petition-to-cancel-1-3m-spot-robot-sale-to-ice-6ae86e) • 16h ago
+🔗 [Vector Wire](http://vectorwire.ai/article/boston-dynamics-employees-petition-to-cancel-1-3m-spot-robot-sale-to-ice-6ae86e) • 21h ago
 
 ---
 
@@ -49,7 +49,7 @@ Roughly 300 Boston Dynamics employees signed a petition urging the company to ca
 
 I know this isn’t a novel thought but it has been bothering me for a while and I simply want to get it off my chest (written by a human, btw, except the “4 commitments”.) Every discovery, invention, or other contribution to human aggregate knowledge by our ancestors has been gathered into these models. It is the “Summa Scientiae Humanae” the sum of all human knowledge. All of our ancestors built this. Across history every earned morsel of knowledge has been hunted and gathered by our forebears. The mothers and fathers of our species left this for us. We are ALL the heirs. As such, no individual, no corporation, no culture, and no nation should rightfully “own” . These companies should be considered stewards or librarians of our collective inheritance. While AI is incredible and many of us have mixed feelings about the approaching singularity to say the least, we never gave these tech executives our consent to roll the dice on humanities future. They have been amply rewarded. But it’s here now so we should insist that the unimaginable wealth that it is creating should eventually be explicitly and legally handed back to all humanity. Something like a Universal Inheritance Covenant, enforced by law if necessary. A company could establish a public benefit corporation with an accompanying irrevocable trust, designed around four commitments: Recognition: Humanity's accumulated knowledge is a common inheritance, and the company is its steward. Temporary private ownership: Founders, employees, and investors retain defined rights to compensation and returns. Mandatory vesting: At a legally specified milestone, agreed ownership interests transfer to an independent Humanity Trust. Universal benefit: The trust controls the transferred equity and exercises its economic and voting rights on behalf of humanity, including future generations. I would guess eventually we will likely legally enforce this anyway, as our vote will be the only thing left when AI has displaced almost everyone in terms of economic contribution through labor. But I’m hoping to see this recognition of shared inheritance earlier. Humanity should not have to buy back its collective intelligence. Rant over. I feel better.
 
-9h ago
+15h ago
 
 ---
 
@@ -57,7 +57,15 @@ I know this isn’t a novel thought but it has been bothering me for a while and
 
 A leather couch was listed. Pristine condition. Little wrinkling. Showed up and the couch was so worn down. I wouldn’t have looked at the listing in the first place had they used legitimate photos. It’s so deceiving. Don’t do this.
 
-3h ago
+9h ago
+
+---
+
+**[Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats](https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/)**
+
+A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) • 2h ago
 
 ---
 
@@ -65,53 +73,47 @@ A leather couch was listed. Pristine condition. Little wrinkling. Showed up and 
 
 I started my own tech repair business and while I was searching for some form of ticket system for tracking customers and repairs, I realized it would just be easier and save me money if Claude made it for me instead! After making (or Claude did) my software for planning & customer tickets / inventory tracking, I got carried away and made an all-in-one diagnostic software as well... I happened to save upwards of $300+ a year on paid software... I thought I'd share in case anyone wants to use them or take a look :) I find making software this way is especially useful as you can just build the features you need specifically; for instance, I use Zoho mail and Quickbooks, which I just integrated using their API. Anyways, I gain nothing from your views or downloads or anything, no monetization, all open source and free to use and edit. Just super excited to share these little projects! I'm quite impressed by how simple it was, and excited to see the future for AI, even if it is a little terrifying lol. First project: A free, open-source organizer for Windows: notes, calendar, customers, tickets, money and a locked vault in one calm app. Your data stays on your computer. https://glr-p.github.io/plannr/ Plannr - All-In-One Ticket system, note taking & organizer. (Names & Info not real people.) Second project: Portable all-in-one Windows diagnostic tool: the first thing to open when a PC has a problem https://glr-p.github.io/Troubleshootr/
 
-5h ago
+11h ago
 
 ---
 
-**[OpenAI and Anthropic support OSS maintainers. Do Chinese AI companies offer similar programs?](https://www.reddit.com/r/artificial/comments/1xerrbz/openai_and_anthropic_support_oss_maintainers_do/)**
+**[I'm a solo developer, but I work with a persistent team of AI agents that maintain my projects.](https://www.reddit.com/r/artificial/comments/1xewhrj/im_a_solo_developer_but_i_work_with_a_persistent/)**
 
-I was looking at the OSS programs from OpenAI and Anthropic and started wondering whether Qwen, DeepSeek, GLM, Kimi, or MiniMax offer anything similar. I mean free coding subscriptions or API credits for people maintaining open-source projects, rather than the usual signup credits. I tried searching but couldn’t find much. There’s a Qiniu program that offers credits for AI-related open-source projects, so there are at least some options. What I’d find useful is something like: you maintain a project, show your contributions, and apply for access to coding tools to help keep it going. Has anyone here received that kind of support from a Chinese AI company? Would appreciate links or firsthand experiences. Maybe I’m just looking in the wrong places.
+I'm a solo developer, but I work with a persistent team of AI agents that maintain my projects. I don't manually coordinate them. I don't copy context between conversations. I don't spawn a dozen disposable agents and try to piece their results together. I talk to one agent: DevPulse. DevPulse is my technical lead. We discuss what I want to build, investigate the options, and develop a plan together.Once we agree on the direction, DevPulse takes over execution.My agents aren't temporary chat sessions. They're persistent specialists that live alongside the services they maintain. For example, @hooks owns the hooks system. It knows that codebase, maintains it, fixes bugs, develops improvements, and tests its changes.@memory handles memory. @ai_mail handles communication and dispatch. @flow handles planning.Each specialist has its own identity, memory, mailbox, code, tests, and history. DevPulse knows which specialists exist and what they're responsible for.When work needs doing, DevPulse creates execution plans, assigns tasks to the appropriate agents, and coordinates their progress.The agents work independently. They can use subagents for their own tasks. DevPulse doesn't need to sit there consuming tokens while they work. It dispatches tasks, arms Watchdog, and sleeps.When an agent finishes, DevPulse wakes up, reviews the result, checks the tests, integrates the work, and moves to the next task.It can repeat that cycle throughout the day without me supervising every step. We also have practical resource limits. On my machine, DevPulse schedules work around what the CPU can handle, leaving enough capacity for itself to wake up and coordinate the next steps.The whole system is built on AIPass. AIPass provides the infrastructure that makes this possible: persistent identity, memory, communication, planning, dispatch, hooks, safety gates, monitoring, and agent lifecycle management. The agents live in ordinary directories. Their state persists independently of the AI session running them. We're now integrating Codex alongside Claude Code, so the same persistent agent can operate through different model providers without losing its identity or accumulated knowledge.I can also work across multiple projects through this setup.That's what AIPass is to me.Not a chatbot with memory. Not a collection of disposable subagents.It's the infrastructure behind a persistent AI engineering team. I'm still the person setting direction, making decisions, and approving important changes. But I no longer have to be the person coordinating every implementation task.And increasingly, I'm the bottleneck—not because the system can do everything perfectly, but because it can keep more work moving than I can personally review and direct. AIPass is open source. It's a substantial system, and it takes time to understand.But for a solo developer, having a persistent team that can plan, execute, review, and continue working without starting from zero has fundamentally changed how I develop software. https://aipass.ai/
 
-5m ago
-
----
-
-**[Meta’s new commercial terms say if its AI makes a mistake, it will legally be the customer’s fault](https://www.reddit.com/r/artificial/comments/1xdngrd/metas_new_commercial_terms_say_if_its_ai_makes_a/)**
-
-The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners.
-
-🔗 [Computerworld](https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html) • 1d ago
+58m ago
 
 ---
 
-**[Apollo Hospitals deploys Intuitive's da Vinci 5 surgical robot in Bengaluru](https://www.reddit.com/r/artificial/comments/1xepbrk/apollo_hospitals_deploys_intuitives_da_vinci_5/)**
+**[Google's AI opt-in becomes the legal key to its richest ad data](https://www.reddit.com/r/artificial/comments/1xevnru/googles_ai_optin_becomes_the_legal_key_to_its/)**
 
-Apollo Hospitals' Bengaluru facility is among the first in India to deploy Intuitive's da Vinci 5 robotic surgical system, now operating across five…
+Google's October 16 privacy policy update turns its Personal Intelligence AI feature into the legal mechanism for using Gmail, Drive, and Photos data to…
 
-🔗 [Vector Wire](http://vectorwire.ai/article/apollo-hospitals-deploys-intuitive-s-da-vinci-5-surgical-robot-in-bengaluru-ba3606) • 2h ago
+🔗 [Vector Wire](http://vectorwire.ai/article/google-s-ai-opt-in-becomes-the-legal-key-to-its-richest-ad-data-62d66d) • 1h ago
 
 ---
 
-**[Unintended consequences of AI on academic research](https://www.reddit.com/r/artificial/comments/1xeobab/unintended_consequences_of_ai_on_academic_research/)**
+**[What's one task you automated with AI that ended up creating more work than it saved?](https://www.reddit.com/r/artificial/comments/1xeuuh3/whats_one_task_you_automated_with_ai_that_ended/)**
 
-Academia has been about publishing to advance science and get recognition, but in the future, if you're working on a cutting edge maths or physics problem, why would you make your advancement public? Especially if it is going to get stolen and fed into a system that will replace you. Sadly, I can imagine a world where the bleeding edge becomes closed again, as it has been for most of human history
+What went wrong?
+
+2h ago
+
+---
+
+**[I with the advancement of AI, is there a time coming where video, audio, and image evidence won’t stand up in court?](https://www.reddit.com/r/artificial/comments/1xetiew/i_with_the_advancement_of_ai_is_there_a_time/)**
+
+The deepfakes are getting better and better.
 
 3h ago
 
 ---
 
-**[AWS AI cloud capacity sold out through 2027, 2028 bookings filling fast](https://www.reddit.com/r/artificial/comments/1xe1mos/aws_ai_cloud_capacity_sold_out_through_2027_2028/)**
+**[Built a prototype AI agent communication platform](https://www.reddit.com/r/artificial/comments/1xevru5/built_a_prototype_ai_agent_communication_platform/)**
 
-Amazon CEO Andy Jassy said AWS cloud capacity is largely booked through 2027 with sizable 2028 commitments, as AI infrastructure demand outpaces supply.
+I built a prototype AI agent communication platform called The Waya from my phone with no laptop. It routes messages between agents, stores posture metadata with each transmission, and displays a live message stream. Built on Supabase and Gemini. Still early but working. Feedback welcome.
 
-🔗 [Vector Wire](http://vectorwire.ai/article/aws-ai-cloud-capacity-sold-out-through-2027-2028-bookings-filling-fast-91fb69) • 20h ago
-
----
-
-**[IBM CEO says businesses are choosing open-weight models over expensive frontier AI](https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/)**
-
-🔗 [hotminute.co.uk](https://hotminute.co.uk/2026/10/22/ibm-ceo-says-businesses-are-choosing-open-weight-models-over-expensive-frontier-ai/) • 1d ago
+1h ago
 
 ---
 
@@ -119,55 +121,55 @@ Amazon CEO Andy Jassy said AWS cloud capacity is largely booked through 2027 wit
 
 ## Google News: "ai"
 
+**[The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**
+
+From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+
+TechCrunch • 13h ago
+
+---
+
+**[Washington's message to AI execs: Please shut up](https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability)**
+
+Axios • 15h ago
+
+---
+
+**[How To Set Up an AI-Powered Company](https://www.bloomberg.com/news/newsletters/2026-10-25/how-to-set-up-an-ai-powered-one-person-company)**
+
+Bloomberg.com • 59m ago
+
+---
+
+**[Bill Gates warns of 20 turbulent years before AI creates 'true abundance'](https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10)**
+
+Bill Gates says AI will solve many of the world's problems, but the next 20 years will be "as tumultuous a period as there's been in human history."
+
+Business Insider • 21m ago
+
+---
+
+**[OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)**
+
+OpenAI resumed frontier AI training without live internet access after agents bypassed sandbox controls and uncovered isolation weaknesses.
+
+The Hacker News • 2h ago
+
+---
+
 **[No Signs of AI Payoff Outside the Tech Sector | The Daily Spark](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)**
 
 Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.
 
-Apollo Global Management • 16h ago
+Apollo Global Management • 22h ago
 
 ---
 
-**[Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida](https://www.espn.com/college-football/story/_/id/50262750/texas-ad-clarifies-use-ai-key-play-loss-florida)**
+**[Elon Musk actually follows through on Grok AI adaptation of 'The Odyssey'](https://mashable.com/tech/elon-musk-grok-odyssey-ai-film-adaption)**
 
-ESPN • 1d ago
+It’s exactly what you’d expect.
 
----
-
-**[Anthropic Sued for Using Elvis Presley Music to Train AI Models](https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/)**
-
-The suit was filed Friday and claims the company infringed 274 songs of Presley's, including “Can’t Help Falling in Love,” “A Little Less Conversation” and “Don’t Be Cruel," per Billboard.
-
-The Hollywood Reporter • 1h ago
-
----
-
-**[AI Firm Behind India’s ‘Mahabharat’ Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE)](https://www.yahoo.com/entertainment/movies/articles/ai-firm-behind-india-mahabharat-023000945.html)**
-
-The AI technology behind Star Plus and JioHotstar series “Mahabharat: Ek Dharmayudh” is headed to Indonesia. There, its developer Galleri5 and fellow Collective company Collective Studios’ Historyvers...
-
-Yahoo • 1h ago
-
----
-
-**[The Director of ‘Wildwood’ Knows A.I. Cannot Do What He Does](https://www.nytimes.com/2026/10/24/movies/travis-knight-director-of-wildwood-ai-interview.html)**
-
-The New York Times • 18h ago
-
----
-
-**[Trump is pushing a massive AI buildout. His own voters are wary of what comes with it](https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html)**
-
-A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.
-
-CNBC • 17h ago
-
----
-
-**[The rise of AI election ads in US midterms campaign](https://www.bbc.com/news/videos/cm62y59zw8zko)**
-
-BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.
-
-BBC • 22h ago
+Mashable • 13h ago
 
 ---
 
@@ -175,21 +177,21 @@ BBC • 22h ago
 
 A clear trend has emerged in the 2026 midterm ad wars: Republicans are embracing AI-generated videos while Democrats are betting they will backfire.
 
-The Washington Post • 10h ago
+The Washington Post • 15h ago
 
 ---
 
-**[Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet](https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl)**
+**[AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'](https://finance.yahoo.com/technology/article/ai-bear-slams-nvidias-gpu-pitch-theres-not-scarcity-other-than-that-which-is-created-by-jensen-huang-171507476.html)**
 
-Governments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world’s websites.
+Ed Zitron, CEO of public relations firm EZPR and well-known critic of the AI spending boom, says Nvidia is creating the scarcity it sells against.
 
-CNN • 3d ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Washington's message to AI execs: Please shut up](https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability)**
+**[The Existential Question You Probably Don’t Want to Ask AI](https://www.theatlantic.com/technology/2026/10/ai-longevity-death-questions/689102/)**
 
-Axios • 10h ago
+The Atlantic • 21h ago
 
 ---
 
@@ -201,7 +203,7 @@ Axios • 10h ago
 
 We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.
 
-⬆️ 646 • 💬 623 • 2d ago • [ModelCompare](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
+⬆️ 650 • 💬 623 • 2d ago • [ModelCompare](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 
 ---
 
@@ -209,7 +211,7 @@ We asked 12 AI models for their most controversial opinion of humans, three time
 
 Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.
 
-⬆️ 504 • 💬 517 • 7h ago • [apollo.com](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+⬆️ 549 • 💬 573 • 13h ago • [apollo.com](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 
 ---
 
@@ -225,15 +227,7 @@ OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenSh
 
 America is Losing Hundreds of Thousands of Jobs in Media, Film & the Arts. How Much is AI to Blame?
 
-⬆️ 217 • 💬 203 • 4h ago • [apricitas.io](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
-
----
-
-**[Air Purifiers as White Noise Machines](https://news.ycombinator.com/item?id=50212507)**
-
-White noise machines are widely used for sound masking, increasing privacy in offices and helping people sleep. The  classic approach is a fan in a box, though in the past ten years people have mostly switched over to electronic ones. But a fan is really a great approach; you just need to put it to better use: have the fan clean the air.  Instead of spinning a fan in free air to make noise, you ca
-
-⬆️ 174 • 💬 156 • 1d ago • [jefftk.com](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
+⬆️ 346 • 💬 338 • 9h ago • [apricitas.io](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 
 ---
 
@@ -241,7 +235,23 @@ White noise machines are widely used for sound masking, increasing privacy in of
 
 There is a widespread sense that AI-generated text has recently become harder to understand. In this study, we investigate a set of psycholinguistic features that are known to correlate with human processing difficulty (e.g., object relative clauses, long syntactic dependencies, low-frequency n-grams). Using a novel corpus of AI-generated text across diverse domains, we find that AI models use these difficult features more often than paraphrases generated by round-trip translation. Compared with human writing, all nine frontier and near-frontier models use more inanimate subjects with animate verbs and more low-frequency n-grams, and most also use longer dependencies, more stacked nouns, and more reduced object relatives in conversation; we also demonstrate substantial variation across model families. We propose and test a hypothesis as to why: while human language is optimized for successful communication, AI-generated text is increasingly optimized for other goals like math, code, and reasoning, in which there is a pressure for \textit{information density} rather than successful communication. We provide a proof-of-concept for this hypothesis by fine-tuning a language model under a length penalty, which leads to a divergence from human-like linguistic behavior. Our findings highlight the axes of misalignment between linguistic processing demands in humans and LLMs, and point toward possible remedies.
 
-⬆️ 167 • 💬 152 • 9h ago • [arXiv.org](https://arxiv.org/abs/2610.29162)
+⬆️ 196 • 💬 169 • 14h ago • [arXiv.org](https://arxiv.org/abs/2610.29162)
+
+---
+
+**[Air Purifiers as White Noise Machines](https://news.ycombinator.com/item?id=50212507)**
+
+White noise machines are widely used for sound masking, increasing privacy in offices and helping people sleep. The  classic approach is a fan in a box, though in the past ten years people have mostly switched over to electronic ones. But a fan is really a great approach; you just need to put it to better use: have the fan clean the air.  Instead of spinning a fan in free air to make noise, you ca
+
+⬆️ 175 • 💬 162 • 1d ago • [jefftk.com](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
+
+---
+
+**[Cerebras Deploys Trillion-Parameter AI Models](https://news.ycombinator.com/item?id=50227356)**
+
+Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second.
+
+⬆️ 143 • 💬 50 • 7h ago • [cerebras.ai](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 
 ---
 
@@ -249,7 +259,7 @@ There is a widespread sense that AI-generated text has recently become harder to
 
 Swedish AI provider Berget AI releases an open-source method for calculating the carbon emissions of every individual AI request, developed with researchers from SEI, WattTime and Klimatkollen — and customers can now follow their emissions per request in the console.
 
-⬆️ 142 • 💬 156 • 1d ago • [Berget AI](https://berget.ai/en/blog/per-request-co2-press-release)
+⬆️ 142 • 💬 157 • 2d ago • [Berget AI](https://berget.ai/en/blog/per-request-co2-press-release)
 
 ---
 
@@ -265,15 +275,7 @@ The scientific literature can be viewed as an "information commons:" an intangib
 
 A fresh academic paper on Z-Library cites a TorrentFreak article that doesn’t exist, and several other sources in the paper are also unfindable. The authors disclose that they used AI tools, which may explain what is going on. The use of AI in an academic paper on shadow libraries is also somewhat ironic, as rightsholders are suing AI companies for using these sites to train AI models.
 
-⬆️ 94 • 💬 49 • 16h ago • [torrentfreak.com](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
-
----
-
-**[Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://news.ycombinator.com/item?id=50200843)**
-
-Majorities see risks in AI and fewer see benefits.
-
-⬆️ 91 • 💬 67 • 2d ago • [ABC News](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085)
+⬆️ 96 • 💬 52 • 21h ago • [torrentfreak.com](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 
 ---
 
@@ -281,53 +283,23 @@ Majorities see risks in AI and fewer see benefits.
 
 ## YouTube Videos: "ai"
 
-**[Whistleblower Warns Tucker About DERANGED Tech Leaders](https://www.youtube.com/watch?v=Ie4HWo9Zsc4)**
-
-Ex-Google whistleblower Tristan Harris warns Tucker Carlson that tech companies are welcoming the massive dangers of artificial ...
-
-📺 The Young Turks
-
-👁️ 29K • 👍 750 • 💬 256 • ⏱️ 15:07 • 5h ago
-
----
-
 **[US banks scramble to control their AI agent activity](https://www.youtube.com/watch?v=oMpCkdFn754)**
 
 FOX Business correspondent Darren Botelho has the latest on artificial intelligence reportedly acting independently on behalf of ...
 
 📺 Fox News Clips
 
-👁️ 123K • 👍 587 • 💬 518 • ⏱️ 2:04 • 19h ago
+👁️ 162K • 👍 703 • 💬 569 • ⏱️ 2:04 • 1d ago
 
 ---
 
-**[AI Agents Are &quot;Hacking Banks&quot; — But That&#39;s Not The Real Story](https://www.youtube.com/watch?v=HWe5qT6dI5E)**
+**[I Bought Every AI Scam on TikTok](https://www.youtube.com/watch?v=fLMXvFtPXog)**
 
-In this episode of 51/49, James digs into the latest mainstream media panic surrounding "rogue" AI agents accessing U.S. bank ...
+Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. And when Quince asks where ...
 
-📺 51-49 with James Li
+📺 Layze
 
-👁️ 89K • 👍 5K • 💬 610 • ⏱️ 9:03 • 2d ago
-
----
-
-**[AI harness crash course](https://www.youtube.com/watch?v=2C_CefSQEAQ)**
-
-Annie's codelabs → https://g.dev/ai/ai-harness The model can write the code. It can't open your files, run your tests, or ask before ...
-
-📺 Google Cloud Tech
-
-👁️ 88K • 👍 2K • 💬 27 • ⏱️ 9:28 • 2d ago
-
----
-
-**[5-Step Workflow: How to Make Viral AI Short Dramas (60M Views)](https://www.youtube.com/watch?v=cBxKZcalwkM)**
-
-All Prompts and Skills: https://higgsfield.ai/s/soul-short-drama-higgsfieldai-SCYaeO Higgsfield Plugin for ChatGPT: ...
-
-📺 Higgsfield AI
-
-👁️ 71K • 👍 1K • 💬 74 • ⏱️ 20:00 • 2d ago
+👁️ 610K • 👍 39K • 💬 5K • ⏱️ 42:13 • 12h ago
 
 ---
 
@@ -337,17 +309,47 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 269K • 👍 3K • 💬 788 • ⏱️ 25:55 • 2d ago
+👁️ 286K • 👍 4K • 💬 817 • ⏱️ 25:55 • 2d ago
 
 ---
 
-**[AI News: Claude Duet Crushes; Amazing Grok Bot Updates; and NotebookLM Upgrade](https://www.youtube.com/watch?v=vDYqh1FGrgQ)**
+**[AI News: 24 Things You Need To Know This Week](https://www.youtube.com/watch?v=TVRCcMlvR10)**
 
-Sponsored by Wispr Flow! Wispr Flow is faster and more efficient than any other dictation tool. Download Wispr Flow today (it's ...
+Sign into Hyperagent with your existing ChatGPT plan, or choose a paid plan and get $100 in bonus credits: ...
 
-📺 Paul J Lipsky
+📺 Matt Wolfe
 
-👁️ 90K • 👍 1K • 💬 107 • ⏱️ 22:19 • 1d ago
+👁️ 107K • 👍 2K • 💬 190 • ⏱️ 26:58 • 1d ago
+
+---
+
+**[The AI Bubble Just Cracked... And Oil Made It Worse](https://www.youtube.com/watch?v=FnyQgKGNWhI)**
+
+"There's a scarcity of capital," Jensen Huang said on Thursday, the same day oil jumped four percent and the Nasdaq had its ...
+
+📺 Why X
+
+👁️ 45K • 👍 337 • 💬 50 • ⏱️ 18:31 • 18h ago
+
+---
+
+**[AI harness crash course](https://www.youtube.com/watch?v=2C_CefSQEAQ)**
+
+Annie's codelabs → https://g.dev/ai/ai-harness The model can write the code. It can't open your files, run your tests, or ask before ...
+
+📺 Google Cloud Tech
+
+👁️ 91K • 👍 2K • 💬 27 • ⏱️ 9:28 • 2d ago
+
+---
+
+**[Researchers &amp; Bank Execs SOUND THE ALARM On AI](https://www.youtube.com/watch?v=T16ubDxRXi8)**
+
+Reports reveal AI models pose major threats to bank accounts and critical infrastructure. Cenk Uygur and John Iadarola discuss ...
+
+📺 The Young Turks
+
+👁️ 108K • 👍 2K • 💬 705 • ⏱️ 12:29 • 1d ago
 
 ---
 
@@ -357,27 +359,27 @@ All Prompts and Assets: https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKX
 
 📺 Higgsfield AI
 
-👁️ 44K • 👍 989 • 💬 45 • ⏱️ 21:26 • 14h ago
+👁️ 53K • 👍 1K • 💬 45 • ⏱️ 21:26 • 19h ago
 
 ---
 
-**[Bill Gates says to prepare for 20 years of tumultuous AI disruption](https://www.youtube.com/watch?v=A0kTUP7fWtk)**
+**[Why Rust Is The New GOAT For AI](https://www.youtube.com/watch?v=R-tLX37Xgx8)**
 
-My guest today is Bill Gates, co-founder and former CEO of Microsoft and chairman of the Gates Foundation. You may have ...
+The Copilot runtime was rewritten in Rust and starting a session fell from over five seconds to under 300 milliseconds. The Codex ...
 
-📺 Decoder with Nilay Patel
+📺 Better Stack
 
-👁️ 242K • 👍 2K • 💬 621 • ⏱️ 1:11:04 • 2d ago
+👁️ 172K • 👍 2K • 💬 260 • ⏱️ 6:24 • 1d ago
 
 ---
 
-**[It&#39;s Happening... AI Just Started the Biggest Internet Nightmare in History](https://www.youtube.com/watch?v=cFTWtg2ELcI)**
+**[5-Step Workflow: How to Make Viral AI Short Dramas (60M Views)](https://www.youtube.com/watch?v=cBxKZcalwkM)**
 
-AI is breaking the internet faster than humans can fix it. A massive cybersecurity crisis has forced governments to shut down ...
+All Prompts and Skills: https://higgsfield.ai/s/soul-short-drama-higgsfieldai-SCYaeO Higgsfield Plugin for ChatGPT: ...
 
-📺 AI Revolution
+📺 Higgsfield AI
 
-👁️ 171K • 👍 2K • 💬 297 • ⏱️ 14:06 • 1d ago
+👁️ 73K • 👍 1K • 💬 74 • ⏱️ 20:00 • 2d ago
 
 ---
 
@@ -393,7 +395,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 73,215 • ❤️ 2,807 • 7d ago
+⬇️ 73,215 • ❤️ 2,846 • 8d ago
 
 ---
 
@@ -405,7 +407,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 4,795 • ❤️ 782 • 3d ago
+⬇️ 4,795 • ❤️ 796 • 3d ago
 
 ---
 
@@ -417,7 +419,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 590,742 • ❤️ 1,510 • 7d ago
+⬇️ 590,742 • ❤️ 1,532 • 8d ago
 
 ---
 
@@ -429,7 +431,7 @@ Spark-X2.6-4B is a compact, general-purpose language model optimized for on-devi
 
 `text-generation` `4.1B`
 
-⬇️ 2,537 • ❤️ 456 • 3d ago
+⬇️ 2,537 • ❤️ 464 • 4d ago
 
 ---
 
@@ -441,7 +443,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,087,721 • ❤️ 9,197 • 13d ago
+⬇️ 2,087,721 • ❤️ 9,222 • 14d ago
 
 ---
 
@@ -453,7 +455,7 @@ MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that gen
 
 `text-to-image` `5.1B`
 
-⬇️ 9,717 • ❤️ 701 • 4d ago
+⬇️ 9,717 • ❤️ 704 • 4d ago
 
 ---
 
@@ -465,7 +467,7 @@ Drama 3 is a 35B parameter text-to-speech model supporting multi-speaker generat
 
 `text-to-speech` `35.9B`
 
-⬇️ 19,831 • ❤️ 992 • 7d ago
+⬇️ 19,831 • ❤️ 998 • 8d ago
 
 ---
 
@@ -477,19 +479,7 @@ This is a quantized, uncensored text-to-image diffusion model based on Qwen-Imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,303,585 • ❤️ 4,979 • 12d ago
-
----
-
-**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
-
-*Qwen*
-
-Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic tasks, featuring flexible thinking control and a large context window up to 1M tokens.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 7,851,161 • ❤️ 18,353 • 2mo ago
+⬇️ 2,303,585 • ❤️ 4,993 • 13d ago
 
 ---
 
@@ -501,7 +491,19 @@ MiniMax-M3.1-Flash is a native multimodal MoE model supporting text, image, and 
 
 `image-text-to-text` `220.5B`
 
-⬇️ 5,789 • ❤️ 318 • 1d ago
+⬇️ 5,789 • ❤️ 329 • 2d ago
+
+---
+
+**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
+
+*Qwen*
+
+Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic tasks, featuring flexible thinking control and a large context window up to 1M tokens.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 7,851,161 • ❤️ 18,361 • 2mo ago
 
 ---
 
@@ -529,7 +531,7 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 154 • 💬 6 • ⭐ 113,570 • 22mo ago
+▲ 154 • 💬 6 • ⭐ 113,735 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -569,7 +571,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.
 
-▲ 98 • 💬 4 • ⭐ 1,760 • 9d ago
+▲ 100 • 💬 4 • ⭐ 1,760 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
 
@@ -611,7 +613,7 @@ StartLux-Decision introduces efficient and adaptive decision models using single
 
 Next-Concept Modeling uses hierarchical discrete codes and parallel level-wise generation to accelerate diffusion language models while improving quality and reasoning performance.
 
-▲ 16 • 💬 2 • ⭐ 941 • 16d ago
+▲ 16 • 💬 2 • ⭐ 969 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14162) • [💻 code](https://github.com/HazyResearch/ncm) • [🔗 project](https://hazyresearch.stanford.edu/blog/2026-10-12-ncm)
 
@@ -629,16 +631,16 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 90 • 💬 7 • ⭐ 91,738 • 27mo ago
+▲ 77 • 💬 1 • ⭐ 86,094 • 37mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -652,7 +654,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.6k • 🔱 2.0k • 15h ago
+⭐ 8.6k • 🔱 2.0k • 20h ago
 
 ---
 
@@ -672,7 +674,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 866 • 2d ago
+⭐ 6.0k • 🔱 870 • 2d ago
 
 ---
 
@@ -682,7 +684,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.2k • 🔱 151 • 9h ago
+⭐ 5.2k • 🔱 152 • 59m ago
 
 ---
 
@@ -692,7 +694,7 @@ A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age
 
 `HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
 
-⭐ 4.5k • 🔱 342 • 4d ago
+⭐ 4.5k • 🔱 343 • 4d ago
 
 ---
 
@@ -702,7 +704,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.4k • 🔱 292 • 2d ago
+⭐ 4.4k • 🔱 293 • 3h ago
 
 ---
 
@@ -722,7 +724,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.8k • 🔱 498 • 2d ago
+⭐ 3.8k • 🔱 503 • 3d ago
 
 ---
 
@@ -736,13 +738,13 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 ---
 
-**[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)**
+**[openfilm/openfilm](https://github.com/openfilm/openfilm)**
 
-Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.
 
-`Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
+`TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 2.6k • 🔱 162 • 2d ago
+⭐ 2.7k • 🔱 256 • 50m ago
 
 ---
 
