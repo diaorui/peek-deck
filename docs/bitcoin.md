@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-25T17:26:50.688721+00:00'
+updated: '2026-10-25T19:53:19.168175+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 25, 2026 at 17:26 UTC  
+**Last Updated:** October 25, 2026 at 19:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,625.90
+### $80,831.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -1.4%  
-**30d:** -4.3%  
-**90d:** +26.4%  
-**1y:** -29.6%  
+**24h:** +0.1%  
+**7d:** -1.6%  
+**30d:** -4.6%  
+**90d:** +26.1%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1623.37B
+**Market Cap:** $1618.65B
 Rank #1
 
-**Circulating Supply:** 20,103,359 BTC
+**Circulating Supply:** 20,103,409 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.0%
+-36.1%
 
 **All-Time Low:** $67.81
-+118987.2%
++118637.6%
 
 ---
 
@@ -123,7 +123,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[Just bought my first Bitcoin, and immediately lost 3%.... Let's go???](https://www.reddit.com/r/Bitcoin/comments/1xcq2xz/just_bought_my_first_bitcoin_and_immediately_lost/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -163,27 +163,11 @@ Forbes • 1d ago
 
 ---
 
-**[XRP Held Flat This Week While Bitcoin, Ethereum and Solana Fell. Is It Breaking Away From Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/xrp-held-flat-week-while-165559407.html)**
+**[NC woman lost all her savings at a gas-station bitcoin machine. A new law could force refunds — but not until January](https://finance.yahoo.com/markets/crypto/articles/nc-woman-lost-her-savings-130000102.html)**
 
-XRP barely budged this week while Bitcoin, Ethereum, and Solana tumbled, sparking talk of a long-awaited decoupling. But the correlation data, the ETF flows, and a brutal 30-day track record tell a more complicated story.
+Attorney General Jeff Jackson says an investigation is underway. New protections come with strings attached. Here's what the law covers and how kiosk scams work.
 
-Yahoo Finance • 30m ago
-
----
-
-**[Strategy Booked an $8.3 Billion Bitcoin Loss Last Quarter. Could Q3 Show a Gain?](https://finance.yahoo.com/markets/crypto/articles/strategy-booked-8-3-billion-162916836.html)**
-
-Strategy absorbed a staggering paper loss last quarter as Bitcoin slumped, but the cryptocurrency then staged a powerful rally that could flip the script entirely. Whether Q3 delivers a blockbuster reversal depends on one number investors are watching closely.
-
-Yahoo Finance • 57m ago
-
----
-
-**[Bitcoin Analysis: BTC Slipped Below $80,000 Again. Is $77,600 the Next Stop?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-analysis-btc-slipped-below-163207536.html)**
-
-Bitcoin keeps slipping below a price level that its largest holders paid to get in, and a specific cluster of leveraged bets sits just overhead, ready to make any recovery harder than it looks.
-
-Yahoo Finance • 54m ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -195,25 +179,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Loses $80,000 as $200 Million in Leverage Unwinds in an Hour](https://finance.yahoo.com/markets/crypto/articles/bitcoin-loses-80-000-200-154722552.html)**
+**[Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide](https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide)**
 
-Bitcoin fell below $80,000 as more than $200 million in leveraged crypto positions were liquidated in one hour.
+Bitcoin ETFs finished the week with $301 million in net inflows, ending a two-week losing streak, despite two straight days of outflows.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin steadies near $80,400 after weekend selloff, Fed decision looms](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035)**
-
-Investing.com • 2h ago
+Decrypt • 5h ago
 
 ---
 
-**[Bitcoin (BTC) price recovers to $81,700 as memecoins lead altcoin rebound](https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13)**
+**[Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike](https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million)**
 
-Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%, with pepe up 13%.
+Investors this week were buying bitcoin ETFs but that all changed on Thursday.
 
-CoinDesk • 2d ago
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -221,7 +199,27 @@ CoinDesk • 2d ago
 
 Spot bitcoin ETFs posted a second straight day of outflows on Friday, and BitMEX co-founder Arthur Hayes said overnight that he had sold out of his fund's directional book, writing "I dumped it all."
 
-The Block • 23h ago
+The Block • 1d ago
+
+---
+
+**['God, that ain’t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center](https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1)**
+
+13WMAZ • 2d ago
+
+---
+
+**[Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-today-btc-recovers-052418630.html)**
+
+Investing.com -- Bitcoin was up around $80,400 on Sunday, as it steadied after a sharp weekend selloff and investors assessed heavy cryptocurrency liquidations ahead of the Federal Reserve’s upcoming interest rate decision.
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613)**
+
+Investing.com • 1d ago
 
 ---
 
@@ -233,7 +231,7 @@ The Block • 23h ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 558 • 💬 358 • 20h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 567 • 💬 380 • 23h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -247,7 +245,7 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 2 • 💬 0 • 13m ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 3 • 💬 0 • 2h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -256,14 +254,6 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...
 
 ⬆️ 1 • 💬 0 • 4d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
-
----
-
-**[Bitcoin Pizza Day: The $700M Pizza Story That Changed Crypto History](https://news.ycombinator.com/item?id=50144299)**
-
-Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.
-
-⬆️ 1 • 💬 0 • 6d ago • [BuyMePizza](https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas)
 
 ---
 
@@ -277,13 +267,13 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
+**[Bitcoin Falls Below 80k. Here&#39;s WHY (Wealth Preservation)](https://www.youtube.com/watch?v=hnF4Q1CCYbA)**
 
-Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
+Massive liquidations just knocked Bitcoin below $80000 — and if you're feeling the pain, you're not alone. Today we look at what ...
 
-📺 Gareth Soloway
+📺 Digital Asset News
 
-👁️ 94K • 👍 3K • 💬 186 • ⏱️ 15:40 • 21h ago
+👁️ 6K • 👍 237 • 💬 15 • ⏱️ 31:25 • 4h ago
 
 ---
 
@@ -293,37 +283,37 @@ Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 2K • 💬 103 • ⏱️ 21:54 • 19h ago
+👁️ 39K • 👍 2K • 💬 107 • ⏱️ 21:54 • 21h ago
 
 ---
 
-**[Bitcoin: A Precarious Position](https://www.youtube.com/watch?v=eN6dpreDIk4)**
+**[Bitcoin Was Supposed to Be Digital Gold. So Why Is It Falling?](https://www.youtube.com/watch?v=R6bkuuecJ_E)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+On Thursday, October 22nd, tech stocks got hammered and scared money ran for cover. Bitcoin, the coin built for the day ...
 
-📺 Benjamin Cowen
+📺 Why X
 
-👁️ 142K • 👍 4K • 💬 218 • ⏱️ 19:51 • 1d ago
-
----
-
-**[Why Is Bitcoin &amp; Crypto Falling? What&#39;s Happening?](https://www.youtube.com/watch?v=oPPqbtTFjuw)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Trade on BTCC & 10% ...
-
-📺 Aaron Bennett
-
-👁️ 17K • 👍 374 • 💬 62 • ⏱️ 9:55 • 1d ago
+👁️ 12K • 👍 107 • 💬 48 • ⏱️ 18:42 • 7h ago
 
 ---
 
-**[Is Real Estate Dead? Grant Cardone’s New Bitcoin Strategy](https://www.youtube.com/watch?v=h7-2Pj_ouHc)**
+**[AI Is Breaking Into Everything! Could It Send Bitcoin to Zero?!](https://www.youtube.com/watch?v=gwKZjLdVjWw)**
 
-Grant Cardone has been buying apartment complexes for forty years. Eighteen months ago he started putting Bitcoin into the ...
+A wave of reported AI-driven cyberattacks has Bitcoiners questioning the security of banks, internet infrastructure, and the entire ...
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 21K • 👍 350 • 💬 120 • ⏱️ 29:52 • 2d ago
+👁️ 8K • 👍 555 • 💬 69 • ⏱️ 51:18 • 4h ago
+
+---
+
+**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
+
+Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
+
+📺 Gareth Soloway
+
+👁️ 100K • 👍 3K • 💬 185 • ⏱️ 15:40 • 23h ago
 
 ---
 
@@ -333,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 91K • 👍 2K • 💬 89 • ⏱️ 51:29 • 1d ago
+👁️ 94K • 👍 2K • 💬 89 • ⏱️ 51:29 • 1d ago
 
 ---
 
@@ -343,17 +333,7 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 20K • 👍 687 • 💬 54 • ⏱️ 10:08 • 10h ago
-
----
-
-**[SHOCKING CRYPTO NEWS! HUGE XRP LEDGER, ETHEREUM, &amp; BITCOIN BUG FIXES!](https://www.youtube.com/watch?v=edq-5peAAH4)**
-
-Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime Minister Netanyahu calls for plan to use crypto ...
-
-📺 Thinking Crypto
-
-👁️ 19K • 👍 700 • 💬 57 • ⏱️ 17:37 • 1d ago
+👁️ 22K • 👍 713 • 💬 48 • ⏱️ 10:08 • 12h ago
 
 ---
 
@@ -363,17 +343,27 @@ Opening Statement & Video Context 0:00-2:08 Analysis 2:08-11:35 Trade where I Tr
 
 📺 Wolves of Crypto
 
-👁️ 9K • 👍 260 • 💬 55 • ⏱️ 11:36 • 9h ago
+👁️ 10K • 👍 280 • 💬 54 • ⏱️ 11:36 • 11h ago
 
 ---
 
-**[The Bitcoin vs Tech Stocks Signal Has Flipped Bullish](https://www.youtube.com/watch?v=HP8u1Hd9No0)**
+**[BITCOIN - IT JUST HAPPENED (UNDER $80K!)](https://www.youtube.com/watch?v=Lac0cXNf1Yk)**
 
-Tech stocks are selling off, and Bitcoin is holding. Today's Chart of the Day looks at Bitcoin priced in tech stocks, the ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Bitcoin Magazine
+📺 My Financial Friend
 
-👁️ 8K • 👍 85 • 💬 20 • ⏱️ 7:48 • 1d ago
+👁️ 14K • 👍 338 • 💬 127 • ⏱️ 10:41 • 1d ago
+
+---
+
+**[Why Is Bitcoin &amp; Crypto Falling? What&#39;s Happening?](https://www.youtube.com/watch?v=oPPqbtTFjuw)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Trade on BTCC & 10% ...
+
+📺 Aaron Bennett
+
+👁️ 17K • 👍 375 • 💬 62 • ⏱️ 9:55 • 1d ago
 
 ---
 

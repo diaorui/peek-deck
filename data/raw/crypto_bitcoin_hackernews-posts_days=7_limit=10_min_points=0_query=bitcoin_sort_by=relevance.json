@@ -9,8 +9,8 @@
       "url": "https://stealmybitcoin.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50224916",
       "author": "cloudlandsdev",
-      "points": 558,
-      "num_comments": 358,
+      "points": 567,
+      "num_comments": 380,
       "created_at": "2026-10-24T20:30:31Z",
       "object_id": "50224916",
       "image": null,
@@ -37,7 +37,7 @@
       "url": "https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285",
       "hn_url": "https://news.ycombinator.com/item?id=50233756",
       "author": "rbanffy",
-      "points": 2,
+      "points": 3,
       "num_comments": 0,
       "created_at": "2026-10-25T17:13:35Z",
       "object_id": "50233756",
@@ -61,20 +61,6 @@
       "site_name": "Delving Bitcoin"
     },
     {
-      "title": "Bitcoin Pizza Day: The $700M Pizza Story That Changed Crypto History",
-      "url": "https://buymepizza.com/blog/bitcoin-pizza-day-the-incredible-story-of-10000-bitcoin-for-two-pizzas",
-      "hn_url": "https://news.ycombinator.com/item?id=50144299",
-      "author": "shydrablack",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-10-18T19:14:45Z",
-      "object_id": "50144299",
-      "image": "https://buymepizza.com/favicon-512x512.png",
-      "description": "Accept crypto tips & donations directly to your personal wallet with 0% fees. The free BuyMeACoffee alternative for creators and streamers.",
-      "favicon": "https://buymepizza.com/apple-touch-icon.png",
-      "site_name": "BuyMePizza"
-    },
-    {
       "title": "OpenAI trims valuation target to $1.25T after pitching higher price",
       "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc",
       "hn_url": "https://news.ycombinator.com/item?id=50209513",
@@ -89,7 +75,7 @@
       "site_name": "ft.com"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-25T17:26:29.449823+00:00"
+  "fetched_at": "2026-10-25T19:52:48.548057+00:00"
 }
