@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-25T19:53:19.168175+00:00'
+updated: '2026-10-25T22:20:18.595268+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 25, 2026 at 19:53 UTC  
+**Last Updated:** October 25, 2026 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,831.73
+### $80,465.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -1.6%  
+**24h:** -0.4%  
+**7d:** -1.7%  
 **30d:** -4.6%  
-**90d:** +26.1%  
+**90d:** +26.0%  
 **1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1618.65B
+**Market Cap:** $1616.21B
 Rank #1
 
 **Circulating Supply:** 20,103,409 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.1%
+-36.2%
 
 **All-Time Low:** $67.81
-+118637.6%
++118463.6%
 
 ---
 
@@ -163,11 +163,11 @@ Forbes • 1d ago
 
 ---
 
-**[NC woman lost all her savings at a gas-station bitcoin machine. A new law could force refunds — but not until January](https://finance.yahoo.com/markets/crypto/articles/nc-woman-lost-her-savings-130000102.html)**
+**[Mike Alfred Says He Would Bet $1 Million Bitcoin Reaches $100,000 Before $60,000](https://finance.yahoo.com/markets/crypto/articles/mike-alfred-says-bet-1-213000700.html)**
 
-Attorney General Jeff Jackson says an investigation is underway. New protections come with strings attached. Here's what the law covers and how kiosk scams work.
+Investor Mike Alfred said he is willing to bet up to $1 million in cash that bitcoin (CRYPTO: $BTC) will reach $100...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -179,47 +179,49 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoin steadies near $80,400 after weekend selloff, Fed decision looms](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035)**
+
+Investing.com • 7h ago
+
+---
+
+**[Can Bitcoin Double in Value During the Next Crypto Bull Market?](https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/)**
+
+Bitcoin's future growth rate could look very different from its historical growth rate.
+
+The Motley Fool • 15m ago
+
+---
+
 **[Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide](https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide)**
 
 Bitcoin ETFs finished the week with $301 million in net inflows, ending a two-week losing streak, despite two straight days of outflows.
 
-Decrypt • 5h ago
+Decrypt • 8h ago
 
 ---
 
-**[Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike](https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million)**
+**[Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks](https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/)**
 
-Investors this week were buying bitcoin ETFs but that all changed on Thursday.
+Veteran Wall Street investor Jordi Visser dismissed Chamath Palihapitiya’s warning that Bitcoin (BTC) will go to zero as “completely just a joke,” predicting that the sell-off in AI stocks could bottom within the next two weeks.Speaking on Anthony Pompliano’s podcast on Saturday, Visser pushed back…
 
-Bitcoin Magazine • 2d ago
-
----
-
-**[Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000](https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608)**
-
-Spot bitcoin ETFs posted a second straight day of outflows on Friday, and BitMEX co-founder Arthur Hayes said overnight that he had sold out of his fund's directional book, writing "I dumped it all."
-
-The Block • 1d ago
+TradingView • 6h ago
 
 ---
 
-**['God, that ain’t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center](https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1)**
+**[Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries](https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations)**
 
-13WMAZ • 2d ago
+Bitcoin has sunk to its weakest level in more than one month.
 
----
-
-**[Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-today-btc-recovers-052418630.html)**
-
-Investing.com -- Bitcoin was up around $80,400 on Sunday, as it steadied after a sharp weekend selloff and investors assessed heavy cryptocurrency liquidations ahead of the Federal Reserve’s upcoming interest rate decision.
-
-Yahoo Finance • 14h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613)**
+**[Bitcoin Slips Below $80K As Peter Schiff Warns Of ‘Very Long Weekend’ For BTC Investors — Mike McGlone Says ‘Don’t Fight The Fed’](https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-below-80k-peter-095919461.html)**
 
-Investing.com • 1d ago
+McGlone said IBIT trades at about three times the volatility of TLT and pointed to a possible "Bitcoin $10,000 Reversion Path."
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -231,7 +233,7 @@ Investing.com • 1d ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 567 • 💬 380 • 23h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 578 • 💬 398 • 1d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -245,7 +247,7 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 3 • 💬 0 • 2h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 3 • 💬 0 • 5h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -267,43 +269,13 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Falls Below 80k. Here&#39;s WHY (Wealth Preservation)](https://www.youtube.com/watch?v=hnF4Q1CCYbA)**
-
-Massive liquidations just knocked Bitcoin below $80000 — and if you're feeling the pain, you're not alone. Today we look at what ...
-
-📺 Digital Asset News
-
-👁️ 6K • 👍 237 • 💬 15 • ⏱️ 31:25 • 4h ago
-
----
-
-**[$10 Trilion Global Market Bloodbath Sends Bitcoin Below $80K!](https://www.youtube.com/watch?v=logsxx7PJbE)**
-
-Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen below $80000, and fear is spreading across financial ...
-
-📺 Simply Bitcoin
-
-👁️ 39K • 👍 2K • 💬 107 • ⏱️ 21:54 • 21h ago
-
----
-
-**[Bitcoin Was Supposed to Be Digital Gold. So Why Is It Falling?](https://www.youtube.com/watch?v=R6bkuuecJ_E)**
-
-On Thursday, October 22nd, tech stocks got hammered and scared money ran for cover. Bitcoin, the coin built for the day ...
-
-📺 Why X
-
-👁️ 12K • 👍 107 • 💬 48 • ⏱️ 18:42 • 7h ago
-
----
-
 **[AI Is Breaking Into Everything! Could It Send Bitcoin to Zero?!](https://www.youtube.com/watch?v=gwKZjLdVjWw)**
 
 A wave of reported AI-driven cyberattacks has Bitcoiners questioning the security of banks, internet infrastructure, and the entire ...
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 555 • 💬 69 • ⏱️ 51:18 • 4h ago
+👁️ 13K • 👍 733 • 💬 86 • ⏱️ 51:18 • 7h ago
 
 ---
 
@@ -313,7 +285,67 @@ Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for th
 
 📺 Gareth Soloway
 
-👁️ 100K • 👍 3K • 💬 185 • ⏱️ 15:40 • 23h ago
+👁️ 104K • 👍 3K • 💬 188 • ⏱️ 15:40 • 1d ago
+
+---
+
+**[Crypto Investors Are In Serious Trouble (market crash)](https://www.youtube.com/watch?v=H5xwP4rA1nM)**
+
+Crypto holders really need to hear this.. Altcoin Daily Merch: https://altcoindailyshop.myshopify.com Unlock $500 Deposit ...
+
+📺 Altcoin Daily
+
+👁️ 59K • 👍 2K • 💬 225 • ⏱️ 9:22 • 1d ago
+
+---
+
+**[$10 Trilion Global Market Bloodbath Sends Bitcoin Below $80K!](https://www.youtube.com/watch?v=logsxx7PJbE)**
+
+Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen below $80000, and fear is spreading across financial ...
+
+📺 Simply Bitcoin
+
+👁️ 40K • 👍 2K • 💬 113 • ⏱️ 21:54 • 23h ago
+
+---
+
+**[Bitcoin Was Supposed to Be Digital Gold. So Why Is It Falling?](https://www.youtube.com/watch?v=R6bkuuecJ_E)**
+
+On Thursday, October 22nd, tech stocks got hammered and scared money ran for cover. Bitcoin, the coin built for the day ...
+
+📺 Why X
+
+👁️ 13K • 👍 117 • 💬 50 • ⏱️ 18:42 • 10h ago
+
+---
+
+**[What Is Happening To CRYPTO?! I Warned You....Here’s What Happens NEXT](https://www.youtube.com/watch?v=wFFt0cPvdrI)**
+
+CCV Risk Models & Intelligence System — Start your free trial:https://app.cryptocapitalventure.ai Bitcoin is below $80K, and in this ...
+
+📺 Crypto Capital Venture
+
+👁️ 25K • 👍 730 • 💬 124 • ⏱️ 15:13 • 1d ago
+
+---
+
+**[I Tested One of the Most Efficient Bitcoin Home Miners](https://www.youtube.com/watch?v=10_iwU06cNM)**
+
+This tiny Bitcoin miner packs some seriously impressive hardware, but is it actually as efficient as advertised? I've been testing the ...
+
+📺 Your Friend Andy
+
+👁️ 13K • 👍 300 • 💬 180 • ⏱️ 17:08 • 2d ago
+
+---
+
+**[Bitcoin: A Precarious Position](https://www.youtube.com/watch?v=eN6dpreDIk4)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 150K • 👍 4K • 💬 221 • ⏱️ 19:51 • 1d ago
 
 ---
 
@@ -323,47 +355,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 94K • 👍 2K • 💬 89 • ⏱️ 51:29 • 1d ago
+👁️ 97K • 👍 3K • 💬 90 • ⏱️ 51:29 • 1d ago
 
 ---
 
-**[THIS IS NEXT FOR BITCOIN... *prepare now*](https://www.youtube.com/watch?v=B8s-6teYezI)**
+**[I Can&#39;t Stay Silent about this Crypto Crash Any Longer!](https://www.youtube.com/watch?v=Ihq9QTkRYM4)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+Bitcoin & Crypto are CRASHING!? (Here Is My Plan) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 Crypto Rover
+📺 Altcoin Daily
 
-👁️ 22K • 👍 713 • 💬 48 • ⏱️ 10:08 • 12h ago
-
----
-
-**[BITCOIN: This Is Where It All Begins... (SOON)](https://www.youtube.com/watch?v=Hnvrx1ZepeM)**
-
-Opening Statement & Video Context 0:00-2:08 Analysis 2:08-11:35 Trade where I Trade! Bitunix Exchange • 15% lifetime fee ...
-
-📺 Wolves of Crypto
-
-👁️ 10K • 👍 280 • 💬 54 • ⏱️ 11:36 • 11h ago
-
----
-
-**[BITCOIN - IT JUST HAPPENED (UNDER $80K!)](https://www.youtube.com/watch?v=Lac0cXNf1Yk)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 14K • 👍 338 • 💬 127 • ⏱️ 10:41 • 1d ago
-
----
-
-**[Why Is Bitcoin &amp; Crypto Falling? What&#39;s Happening?](https://www.youtube.com/watch?v=oPPqbtTFjuw)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Trade on BTCC & 10% ...
-
-📺 Aaron Bennett
-
-👁️ 17K • 👍 375 • 💬 62 • ⏱️ 9:55 • 1d ago
+👁️ 66K • 👍 2K • 💬 129 • ⏱️ 11:08 • 1d ago
 
 ---
 
