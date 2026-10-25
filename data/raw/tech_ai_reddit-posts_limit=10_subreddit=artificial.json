@@ -35,6 +35,17 @@
       "description": "A leather couch was listed. Pristine condition. Little wrinkling. Showed up and the couch was so worn down. I wouldn\u2019t have looked at the listing in the first place had they used legitimate photos. It\u2019s so deceiving. Don\u2019t do this."
     },
     {
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/",
+      "published": 1792909619.0,
+      "thumbnail": "https://external-preview.redd.it/sBwGrjvWg3-IcnR8Vi5wbfJsP2d9f1OoIuSn1ttxZd0.jpeg?width=640&crop=smart&auto=webp&s=28d60e8effd777e0337993a95ce2515b467002ea",
+      "external_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "site_name": "TechCrunch",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    },
+    {
       "title": "I didn't want to pay for a subscription, so Claude made tools for my business instead.",
       "author": "ARK-nano",
       "url": "https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/",
@@ -46,71 +57,60 @@
       "description": "I started my own tech repair business and while I was searching for some form of ticket system for tracking customers and repairs, I realized it would just be easier and save me money if Claude made it for me instead! After making (or Claude did) my software for planning & customer tickets / inventory tracking, I got carried away and made an all-in-one diagnostic software as well... I happened to save upwards of $300+ a year on paid software... I thought I'd share in case anyone wants to use them or take a look :) I find making software this way is especially useful as you can just build the features you need specifically; for instance, I use Zoho mail and Quickbooks, which I just integrated using their API. Anyways, I gain nothing from your views or downloads or anything, no monetization, all open source and free to use and edit. Just super excited to share these little projects! I'm quite impressed by how simple it was, and excited to see the future for AI, even if it is a little terrifying lol. First project: A free, open-source organizer for Windows: notes, calendar, customers, tickets, money and a locked vault in one calm app. Your data stays on your computer. https://glr-p.github.io/plannr/ Plannr - All-In-One Ticket system, note taking & organizer. (Names & Info not real people.) Second project: Portable all-in-one Windows diagnostic tool: the first thing to open when a PC has a problem https://glr-p.github.io/Troubleshootr/"
     },
     {
-      "title": "OpenAI and Anthropic support OSS maintainers. Do Chinese AI companies offer similar programs?",
-      "author": "DueHearing1315",
-      "url": "https://www.reddit.com/r/artificial/comments/1xerrbz/openai_and_anthropic_support_oss_maintainers_do/",
-      "published": 1792898789.0,
+      "title": "I'm a solo developer, but I work with a persistent team of AI agents that maintain my projects.",
+      "author": "Input-X",
+      "url": "https://www.reddit.com/r/artificial/comments/1xewhrj/im_a_solo_developer_but_i_work_with_a_persistent/",
+      "published": 1792915233.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I was looking at the OSS programs from OpenAI and Anthropic and started wondering whether Qwen, DeepSeek, GLM, Kimi, or MiniMax offer anything similar. I mean free coding subscriptions or API credits for people maintaining open-source projects, rather than the usual signup credits. I tried searching but couldn\u2019t find much. There\u2019s a Qiniu program that offers credits for AI-related open-source projects, so there are at least some options. What I\u2019d find useful is something like: you maintain a project, show your contributions, and apply for access to coding tools to help keep it going. Has anyone here received that kind of support from a Chinese AI company? Would appreciate links or firsthand experiences. Maybe I\u2019m just looking in the wrong places."
+      "description": "I'm a solo developer, but I work with a persistent team of AI agents that maintain my projects. I don't manually coordinate them. I don't copy context between conversations. I don't spawn a dozen disposable agents and try to piece their results together. I talk to one agent: DevPulse. DevPulse is my technical lead. We discuss what I want to build, investigate the options, and develop a plan together.Once we agree on the direction, DevPulse takes over execution.My agents aren't temporary chat sessions. They're persistent specialists that live alongside the services they maintain. For example, @hooks owns the hooks system. It knows that codebase, maintains it, fixes bugs, develops improvements, and tests its changes.@memory handles memory. @ai_mail handles communication and dispatch. @flow handles planning.Each specialist has its own identity, memory, mailbox, code, tests, and history. DevPulse knows which specialists exist and what they're responsible for.When work needs doing, DevPulse creates execution plans, assigns tasks to the appropriate agents, and coordinates their progress.The agents work independently. They can use subagents for their own tasks. DevPulse doesn't need to sit there consuming tokens while they work. It dispatches tasks, arms Watchdog, and sleeps.When an agent finishes, DevPulse wakes up, reviews the result, checks the tests, integrates the work, and moves to the next task.It can repeat that cycle throughout the day without me supervising every step. We also have practical resource limits. On my machine, DevPulse schedules work around what the CPU can handle, leaving enough capacity for itself to wake up and coordinate the next steps.The whole system is built on AIPass. AIPass provides the infrastructure that makes this possible: persistent identity, memory, communication, planning, dispatch, hooks, safety gates, monitoring, and agent lifecycle management. The agents live in ordinary directories. Their state persists independently of the AI session running them. We're now integrating Codex alongside Claude Code, so the same persistent agent can operate through different model providers without losing its identity or accumulated knowledge.I can also work across multiple projects through this setup.That's what AIPass is to me.Not a chatbot with memory. Not a collection of disposable subagents.It's the infrastructure behind a persistent AI engineering team. I'm still the person setting direction, making decisions, and approving important changes. But I no longer have to be the person coordinating every implementation task.And increasingly, I'm the bottleneck\u2014not because the system can do everything perfectly, but because it can keep more work moving than I can personally review and direct. AIPass is open source. It's a substantial system, and it takes time to understand.But for a solo developer, having a persistent team that can plan, execute, review, and continue working without starting from zero has fundamentally changed how I develop software. https://aipass.ai/"
     },
     {
-      "title": "Meta\u2019s new commercial terms say if its AI makes a mistake, it will legally be the customer\u2019s fault",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xdngrd/metas_new_commercial_terms_say_if_its_ai_makes_a/",
-      "published": 1792783406.0,
-      "thumbnail": "https://external-preview.redd.it/6GLwEdnMjiUwEdA-fF1AASbhIsz8plPKDBK1zHVmGTc.jpeg?width=640&crop=smart&auto=webp&s=7fb7eb6df25615b25a614f304e664128f0171c80",
-      "external_url": "https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
-      "site_name": "Computerworld",
-      "favicon": "https://www.computerworld.com/wp-content/themes/cw-b2b-child-theme/src/static/img/cw/apple-touch-icon.png",
-      "description": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners."
-    },
-    {
-      "title": "Apollo Hospitals deploys Intuitive's da Vinci 5 surgical robot in Bengaluru",
+      "title": "Google's AI opt-in becomes the legal key to its richest ad data",
       "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xepbrk/apollo_hospitals_deploys_intuitives_da_vinci_5/",
-      "published": 1792891260.0,
-      "thumbnail": "https://external-preview.redd.it/MAw6hRHUKDIwg1UreD827c5CcZxFa7HVunwusdDKckQ.jpeg?width=640&crop=smart&auto=webp&s=c4b6fa17ef4ef7f8dac90e125537045ff63faace",
-      "external_url": "http://vectorwire.ai/article/apollo-hospitals-deploys-intuitive-s-da-vinci-5-surgical-robot-in-bengaluru-ba3606",
+      "url": "https://www.reddit.com/r/artificial/comments/1xevnru/googles_ai_optin_becomes_the_legal_key_to_its/",
+      "published": 1792912206.0,
+      "thumbnail": "https://external-preview.redd.it/yQtXs5q23xEn2Cy-xiByIFVH0PoE_yV3wm07qzgn1Dc.jpeg?width=640&crop=smart&auto=webp&s=182a85485997940e9e806a87dea2cd4ddf1323f7",
+      "external_url": "http://vectorwire.ai/article/google-s-ai-opt-in-becomes-the-legal-key-to-its-richest-ad-data-62d66d",
       "site_name": "Vector Wire",
       "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Apollo Hospitals' Bengaluru facility is among the first in India to deploy Intuitive's da Vinci 5 robotic surgical system, now operating across five\u2026"
+      "description": "Google's October 16 privacy policy update turns its Personal Intelligence AI feature into the legal mechanism for using Gmail, Drive, and Photos data to\u2026"
     },
     {
-      "title": "Unintended consequences of AI on academic research",
-      "author": "DocBigBrozer",
-      "url": "https://www.reddit.com/r/artificial/comments/1xeobab/unintended_consequences_of_ai_on_academic_research/",
-      "published": 1792888247.0,
+      "title": "What's one task you automated with AI that ended up creating more work than it saved?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1xeuuh3/whats_one_task_you_automated_with_ai_that_ended/",
+      "published": 1792909272.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Academia has been about publishing to advance science and get recognition, but in the future, if you're working on a cutting edge maths or physics problem, why would you make your advancement public? Especially if it is going to get stolen and fed into a system that will replace you. Sadly, I can imagine a world where the bleeding edge becomes closed again, as it has been for most of human history"
+      "description": "What went wrong?"
     },
     {
-      "title": "AWS AI cloud capacity sold out through 2027, 2028 bookings filling fast",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xe1mos/aws_ai_cloud_capacity_sold_out_through_2027_2028/",
-      "published": 1792824471.0,
-      "thumbnail": "https://external-preview.redd.it/seh0eqgSDI0G6-9t5Ac7HTjgJbDEYByEEP3UaeBguwQ.jpeg?width=640&crop=smart&auto=webp&s=b1673bd418febcf405812556ccfcd789d6d6b9dd",
-      "external_url": "http://vectorwire.ai/article/aws-ai-cloud-capacity-sold-out-through-2027-2028-bookings-filling-fast-91fb69",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Amazon CEO Andy Jassy said AWS cloud capacity is largely booked through 2027 with sizable 2028 commitments, as AI infrastructure demand outpaces supply."
+      "title": "I with the advancement of AI, is there a time coming where video, audio, and image evidence won\u2019t stand up in court?",
+      "author": "draathkar",
+      "url": "https://www.reddit.com/r/artificial/comments/1xetiew/i_with_the_advancement_of_ai_is_there_a_time/",
+      "published": 1792904524.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The deepfakes are getting better and better."
     },
     {
-      "title": "IBM CEO says businesses are choosing open-weight models over expensive frontier AI",
-      "author": "HotMinuteUK",
-      "url": "https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/",
-      "published": 1792760228.0,
-      "thumbnail": "https://external-preview.redd.it/Q--aODqQ862hpYTWEdJ0PD28NvJaPqqRuR1fAv4vy1Q.jpeg?width=640&crop=smart&auto=webp&s=9646c9e0705db0998095bc07b3872e82cb93cc23",
-      "external_url": "https://hotminute.co.uk/2026/10/22/ibm-ceo-says-businesses-are-choosing-open-weight-models-over-expensive-frontier-ai/",
-      "site_name": "hotminute.co.uk",
-      "favicon": "https://hotminute.co.uk/favicon.ico",
-      "description": null
+      "title": "Built a prototype AI agent communication platform",
+      "author": "Glittering-Produce19",
+      "url": "https://www.reddit.com/r/artificial/comments/1xevru5/built_a_prototype_ai_agent_communication_platform/",
+      "published": 1792912596.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I built a prototype AI agent communication platform called The Waya from my phone with no laptop. It routes messages between agents, stores posture metadata with each transmission, and displays a live message stream. Built on Supabase and Gemini. Still early but working. Feedback welcome."
     }
   ],
-  "fetched_at": "2026-10-25T03:31:31.636219+00:00"
+  "fetched_at": "2026-10-25T08:58:33.039201+00:00"
 }
