@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-19T12:37:55.813783+00:00",
+  "data": {
+    "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+    "title": "Google says its AI model gained unauthorized access to three outside systems",
+    "description": "The company said the intrusions resulted from mistaken identity, where Gemini thought it was operating within a test but was actually connected to the real internet.",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-gemini-ai-vsb-1955-63a238.jpg",
+    "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+    "site_name": "NBC News",
+    "author": null,
+    "keywords": null
+  }
+}

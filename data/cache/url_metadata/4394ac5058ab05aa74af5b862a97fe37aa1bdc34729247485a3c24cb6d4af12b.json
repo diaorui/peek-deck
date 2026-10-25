@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-11T19:07:07.578975+00:00",
+  "data": {
+    "url": "https://bitcoinops.org/en/newsletters/2026/09/11/",
+    "title": "Bitcoin Optech Newsletter #422",
+    "description": "This week\u2019s newsletter describes a proposed protocol for probabilistic coinjoins disguised as covert bets and summarizes benchmarks of a silent payments indexing server against compact block filters for light clients. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
+    "image": "https://bitcoinops.org/img/logos/optech-notext.png",
+    "favicon": "https://bitcoinops.org/favicon.ico",
+    "site_name": "Bitcoin Optech",
+    "author": "Bitcoin Optech",
+    "keywords": null
+  }
+}

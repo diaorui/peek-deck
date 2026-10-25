@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-15T12:01:29.229482+00:00",
+  "data": {
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "title": "Dropping eBPF CPU Cost by About 90% With Memoization (Not AI Gen)",
+    "description": "My brother and I spent a lot of time designing our eBPF security agent to be really fast from the ground up, but recently we discovered we could make it much faster using memoization!\nA couple of weeks ago, I profiled the eBPF code and found that the most expensive part of the protection isn\u2019t actually enforcing a policy (allow/deny), but figuring out which policy applies to a given file open.",
+    "image": "https://nathannaveen.dev/",
+    "favicon": "https://nathannaveen.dev/apple-touch-icon.png",
+    "site_name": "nathan naveen",
+    "author": null,
+    "keywords": "homepage,blog,eBPF"
+  }
+}

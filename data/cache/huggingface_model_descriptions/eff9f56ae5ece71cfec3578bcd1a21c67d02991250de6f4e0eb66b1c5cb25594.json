@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-21T19:06:43.993712+00:00",
+  "data": "Qwen-Image-2.1-GGUF is a quantized text-to-image diffusion model optimized for local inference via ComfyUI. It enables high-quality image generation with flexible VRAM/RAM offloading options, supporting various quantization levels for balanced performance and size.",
+  "model_id": "abenzerps/Qwen-Image-2.1-GGUF"
+}

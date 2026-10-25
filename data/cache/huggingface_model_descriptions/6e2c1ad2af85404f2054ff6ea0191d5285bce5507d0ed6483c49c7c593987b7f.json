@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-17T12:43:02.625969+00:00",
+  "data": "Swift-Qwen3.8-27B is a fine-tuned Qwen3.8-27B model that achieves a x1.95 speed-up and reduces thinking tokens by 58.3% with minimal performance loss, making it ideal for efficient reasoning tasks.",
+  "model_id": "ukisai/Swift-Qwen3.8-27b"
+}

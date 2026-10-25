@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "bitcoin",
+  "site": null,
+  "search_query": "bitcoin",
+  "articles": [
+    {
+      "headline": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+      "source": "Decrypt News",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rWmdfOUVyM2tZU2xxR1VTeV9qWXNlNXdscEhGZFVDQjN4RC1qR1BtaEVySHJ2ZXNzdEl0SG55RGV3Q0Y5T3dFX2hsc205M2Z3QjZVZkItSGRIV0Ewdk5LdWs5QkJreFBsTTNoUF9PNnZtcGxkeGhLeS1uVVE?oc=5",
+      "pub_date": 1791223948.0,
+      "article_url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
+      "description": "The SEC approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin and Ethereum list on a U.S. exchange."
+    },
+    {
+      "headline": "Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeWE4WWZoQ3NTV0ZJekhCSzRkUXVuR1prRzR3Zi16blBhbTZKTHpoT2ZKYldVNjY4VEJqVVJQQW5zLUFaS1diY05JMGpHMXBHZUQyQkExb05BMVdVQVdVRFBSUHpVb1FXOUQtYTQ5V0NwMjVnek9JQUlGNnBVQlBWQ0xqRXV6bF92T3p6eVhfOHE1OTN5aFhHRjZUalZndWw3RV95NnZmTmE4M2FXZ1gtd1YwS0NRVzlpX01Hd096NGdNMkxOazhwd3Z1UXdVZ2tkcV9B?oc=5",
+      "pub_date": 1791206301.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/05/trump-just-gave-everyone-a-shocking-40-trillion-reason-to-buy-bitcoin-and-quickly/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Live updates: Bitcoin under pressure as rates continue to rise",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVG1NLW5VMWZlbjE0N3BKVDRMazkwelg1VVlqZ1JRdGduaEV5QU50dmdFOWxSRkRYMjVKb2wwRUdacVRnZE11bWwybjQ0MHJHT25BNzhCWjR6ODQ5U3kteW9VTkhhaXF3ajNLMW5lUVZReHA0QmdiaWZWUTBNcklWNFRrMGFaY2E4TFNfZXJNaW5tVTNWVnF3OVkwUlpwYlJER1ZPb2p1V3lJd3NaMlFRMmJ1dXB5eXc3RC1hRFFONA?oc=5",
+      "pub_date": 1791231576.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/97b4f28ff8ca049f44f902478ac64ea3c9dea4a9-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "A weak September jobs report may have taken a rate hike off the table, but bitcoin is still stuck below $87,000, with FOMC minutes due Wednesday."
+    },
+    {
+      "headline": "Strategy buys 334 more bitcoin and $176M of STRC stock",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONjd5YWtNc1AwUnhKZGdHU0pPM3VJY3hZNXowaWZMYU5LSTFNRzRVRm54SWl0cW12OF9iR3MxTjhSZ1lzMDMwSnEwQ0lRZ2cxcEstVDRXUUZrS1M0RjBHUkI3MXNLVHR5QjZJNFBBVG04QWpfRmJGOVUyUGdmRTk1NWFhVQ?oc=5",
+      "pub_date": 1791216701.0,
+      "article_url": "https://finance.yahoo.com/video/strategy-buys-334-more-bitcoin-161141891.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/42c094607c7f58cea62f0cb61be97487fc685ce23fcb4463fb31ee3e13075ffd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-1005_0414.png",
+      "description": "Scott Melker breaks down major crypto news, including Strategy's (MSTR) latest bitcoin (BTC-USD) purchases and share buybacks, Intercontinental Exchange (ICE) partnering with OKX for tokenized 24/7 stock trading, Bloomberg Terminal integrating Hyperliquid data, community banks suing over crypto charters, the collapse of ethereum (ETH-USD) Layer 2 network Blast, and the IMF placing strict limits on El Salvador's bitcoin policies.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
+    },
+    {
+      "headline": "Strategy Returns to Profitability on $21 Billion 3Q Gain",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDhSLVA3ZFIwUExsMEJPZFJadmYxdExYLVdkT1RpNmF0Ung0RE9YTXdZeXg2cGc2bmxEY1lnMm44VzNwSUtYY0ZpZ3IyRTEtT1JQQjZUMXdkVkJ3QnBXYUFOejdqZHZzRE40bFJwZE9ieDVFV2czdl9jZEZHZE40WWctbHFiQ3JVVEptYk0xVi1qUlFHdjdQaVVaRXE4MW5HeFR6UjNDWHh6bVVNUnlhNEhrVVY?oc=5",
+      "pub_date": 1791203159.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-05/strategy-returns-to-profitability-on-21-billion-unrealized-gain",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Is Strategy's Bitcoin Machine Broken? Peter Schiff Says It Is",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcks1ZnRYeDIxdXVTd1E4Z0YwVzJBTHZVSThtelQ2SEdtaUJ3cC1obFJhdHhtTnVFQWtKNTRKbC1TSGM2cTBNNEJNbzBjNnhnaWN1Ujc2WmFkNWRubnhRajFoYzByN3YyTWxaNlh4dzlrdDlJS1FDM0N5WEdCVF9TM3JhSmZwYlNRUndfdWlvZGVoX2dDdEMtbURsaWtMUFFrUzhQYVB1Ti12TjdwNmhJX1VLWG1mRVFTaUNR?oc=5",
+      "pub_date": 1791228633.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:541dd3e77094b:0-is-strategy-s-bitcoin-machine-broken-peter-schiff-says-it-is/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Longtime crypto skeptic Peter Schiff over the weekend claimed Strategy NASDAQ:MSTR can no longer fund its Bitcoin CRYPTO:BTCUSD purchases.Why Schiff Says Strategy\u2019s Funding Is StuckSchiff said in a podcast update that Strategy\u2019s Stretch preferred stock, STRC NASDAQ:STRC, has climbed back to about\u2026"
+    },
+    {
+      "headline": "Bitcoin headed 'in bullish direction' as investors bet on Fed pause: Chart of the Day",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmZubFF3QVFPY3cwX1dGR3BxWFNzSnliMlZSNXJONi0yYjREM3VjWkxFMHFTRzBMeG5QS25PX05abmhfOTdWN1BnOFcxX1BlWFIyY296emdlVGFqUHFIN24xZXQ1cGtaUDFqZ3pxSXNpOUlVaDhOeDdRQklSTGM1MDhXSTRPeFJzNnU5MUc4SWpidUFsekE0eGh4dFQ4WllMaC1XUThKcE83a0RFWllLMTNwMmFTdk1RaVBSS2hLU1ctOXlpYUJZY1RPdkl3UUZoU2VIYzJB?oc=5",
+      "pub_date": 1791029191.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-headed-in-bullish-direction-as-investors-bet-on-fed-pause-chart-of-the-day-120631623.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/393326e91db40474cfc400eae152eec66e1c7d70465f355f0b19c3f6aefa18f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Faa2838c4-abbe-45e3-8ec0-b40c4cf424c2",
+      "description": "Bitcoin jumped above $86,000 on Friday after a cooler-than-expected jobs report."
+    },
+    {
+      "headline": "Bitcoin hovers above $86k as softer jobs data offsets pressure from high yields",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEYzY2IzSm5NRVo5N09UbWxNdFV0bFNUTFpqV3p6Z294aVRNMlhaRjJQTkM2UHFuRzNWN0pNaVZoX0RmRk1Jem5yYlRWTjJPRlhQNkdtb2RoQS00dER0TzQ0Y01aTExMZkJlRzB0YzNaMmE2SUR2dkQ5by1La0pmdW9kdXZSWkFTd2NMNkZTckVBYVNVRU1CWk1rUEJaRjk5NE1vaV9ZWUt2WTVtV0h0RlVfS3E1MFFQR2wybDZoVkNWTFpveUlhd2tKVjRUWXdR?oc=5",
+      "pub_date": 1791213144.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZW1adnJQLUhLZUtFZWZGTjduTkRnaVhUOGszcjB2QTliSTY0eUdpZ3VkQ2hnS0dzdi01V0FEakoxU3REalNLaXN5ZmVPOHRsRnJrc2lPTGFESFJsT3Vyb0hMTlNudmRSZXI4emhpOHlpWUNfUWl0QW9xU0FjQTFyN2RKVFY0RlBibTlPbmdBTjdpZEVCQXFWVElhOFZDeDV1LTh1czIxZ051ZkJvdEhVYjdrdGItUUxKbGJpZlBra2M?oc=5",
+      "pub_date": 1791174205.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a17752186ff0623fb937e54d56cd8fc0c03c654e-1512x846.png?auto=format&q=75",
+      "description": "Bitcoin came within about $500 of its late-September peak before sellers pushed it back under $86,000. It's the second rally in a week to stall."
+    },
+    {
+      "headline": "Strive adds 2,000 bitcoin in biggest buy since June, closes in on MARA",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVhLWElpN3k0X2F2cEZkUEFBRVd2U2R5LVlnX2FaMUpzU2JNMmVqenlMbjJJaUhQN2p5MWJCS0ZtMG1ic3JTaDdUc1BTel8ySzZLWkFTdHVMRHpsbkg0Z0JObUg5QXRaa0toZllMRWd6NnFnai1VWEdRSUpqWWFoX0JFT3p5XzN4UWFVR1k2X093N0ZvZXFFR2thT0JieE95WmNMZjFZblNqdHhsYTBTSUtzQU5HNGRFTXc?oc=5",
+      "pub_date": 1791212580.0,
+      "article_url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240513_Bitcoin_News_10.jpg",
+      "description": "Strive's bitcoin holdings climbed to 29,462 BTC, while Metaplanet overtook Twenty One after adding a net 1,000 BTC, raising the bar for the number-two spot."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-10-06T02:24:25.671720+00:00"
+}
