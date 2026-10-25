@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-24T23:32:37.377404+00:00'
+updated: '2026-10-25T03:31:55.481950+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 24, 2026 at 23:32 UTC  
+**Last Updated:** October 25, 2026 at 03:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,584.42
+### $80,921.09
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.1%  
-**7d:** -1.7%  
+**7d:** -1.2%  
 **30d:** -4.1%  
 **90d:** +26.6%  
-**1y:** -27.7%  
+**1y:** -29.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1619.20B
+**Market Cap:** $1625.86B
 Rank #1
 
-**Circulating Supply:** 20,103,015 BTC
+**Circulating Supply:** 20,103,046 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.1%
+-35.9%
 
 **All-Time Low:** $67.81
-+118681.9%
++119170.0%
 
 ---
 
@@ -157,17 +157,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Can Bitcoin Get Back Above $85,000 in November?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-back-above-85-000-214039495.html)**
+**[Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
 
-Bitcoin fell just $150 short of $85,000 before sellers took over, and now four price levels, restless ETF flows, spiking oil prices, and a looming election stand between the crypto and a November recovery.
-
-Yahoo Finance • 1h ago
+Forbes • 16h ago
 
 ---
 
-**[Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
+**[Is Bitcoin a Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-now-122000654.html)**
 
-Forbes • 12h ago
+Forget this year's lackluster returns. Bitcoin could be the top-performing asset of the next decade.
+
+Yahoo Finance • 15h ago
 
 ---
 
@@ -175,7 +175,7 @@ Forbes • 12h ago
 
 Bitcoin trades below $83,000, the level Benjamin Cowen says would void his bearish path through the Fed, oil and bonds.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 12h ago
 
 The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.
 
-CoinDesk • 7h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -195,29 +195,31 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Would you take out a mortgage backed by bitcoin?](https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1)**
-
-Financial Times • 2d ago
-
----
-
 **[Is Bitcoin Dead? CZ Says Those Calls Have Marked the Best Times to Buy](https://247wallst.com/investing/cryptocurrency/2026/10/24/is-bitcoin-dead-cz-says-those-calls-have-marked-the-best-times-to-buy/)**
 
 Is Bitcoin dead? Searches just hit their highest since FTX, and CZ says such claims have marked the best times to buy. Here is the record.
 
-24/7 Wall St. • 7h ago
+24/7 Wall St. • 11h ago
 
 ---
 
-**['God, that ain’t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center](https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1)**
+**[IBIT: I'm Waiting For $75,000 Bitcoin (NASDAQ:IBIT)](https://seekingalpha.com/article/4957230-ibit-im-waiting-for-75000-bitcoin)**
 
-13WMAZ • 1d ago
+Seeking Alpha • 12h ago
 
 ---
 
-**[This Top Investment Strategist Thinks a Bitcoin Supercycle Is Coming Soon. Here's Why He's Wrong.](https://www.fool.com/investing/2026/10/23/this-top-investment-strategist-thinks-a-bitcoin-su/)**
+**[Bitcoin – Why Coinbase warns BTC could fall to $75K amid macro risks](https://ambcrypto.com/bitcoin-why-coinbase-warns-btc-could-fall-to-75k-amid-macro-risks/)**
 
-Believing in a Bitcoin supercycle doesn't really change how to invest in it.
+Options traders were actively hedging against downside risks.
+
+AMBCrypto • 3h ago
+
+---
+
+**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
+
+Cardano could be headed for a big comeback in 2027.
 
 The Motley Fool • 1d ago
 
@@ -231,7 +233,7 @@ The Motley Fool • 1d ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 338 • 💬 170 • 3h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 428 • 💬 260 • 7h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -269,33 +271,23 @@ Accept crypto tips & donations directly to your personal wallet with 0% fees. Th
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
-
-Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
-
-📺 Gareth Soloway
-
-👁️ 24K • 👍 2K • 💬 137 • ⏱️ 15:40 • 3h ago
-
----
-
 **[$10 Trilion Global Market Bloodbath Sends Bitcoin Below $80K!](https://www.youtube.com/watch?v=logsxx7PJbE)**
 
 Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen below $80000, and fear is spreading across financial ...
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 378 • 💬 45 • ⏱️ 21:54 • 1h ago
+👁️ 14K • 👍 1K • 💬 98 • ⏱️ 21:54 • 5h ago
 
 ---
 
-**[Be Careful Investing In Crypto Right Now (#1 Bitcoin Mistake)](https://www.youtube.com/watch?v=H5xwP4rA1nM)**
+**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
 
-Crypto holders really need to hear this.. Altcoin Daily Merch: https://altcoindailyshop.myshopify.com Unlock $500 Deposit ...
+Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
 
-📺 Altcoin Daily
+📺 Gareth Soloway
 
-👁️ 4K • 👍 587 • 💬 58 • ⏱️ 9:22 • 1h ago
+👁️ 55K • 👍 2K • 💬 177 • ⏱️ 15:40 • 7h ago
 
 ---
 
@@ -305,7 +297,17 @@ Tech stocks are selling off, and Bitcoin is holding. Today's Chart of the Day lo
 
 📺 Bitcoin Magazine
 
-👁️ 4K • 👍 61 • 💬 18 • ⏱️ 7:48 • 7h ago
+👁️ 6K • 👍 69 • 💬 18 • ⏱️ 7:48 • 11h ago
+
+---
+
+**[Crypto Investors Are In Serious Trouble (market crash)](https://www.youtube.com/watch?v=H5xwP4rA1nM)**
+
+Crypto holders really need to hear this.. Altcoin Daily Merch: https://altcoindailyshop.myshopify.com Unlock $500 Deposit ...
+
+📺 Altcoin Daily
+
+👁️ 20K • 👍 1K • 💬 139 • ⏱️ 9:22 • 5h ago
 
 ---
 
@@ -315,47 +317,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 57K • 👍 2K • 💬 80 • ⏱️ 51:29 • 10h ago
-
----
-
-**[Why Is Bitcoin &amp; Crypto Falling? What&#39;s Happening?](https://www.youtube.com/watch?v=oPPqbtTFjuw)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Trade on BTCC & 10% ...
-
-📺 Aaron Bennett
-
-👁️ 14K • 👍 328 • 💬 42 • ⏱️ 9:55 • 14h ago
-
----
-
-**[Insane Conspiracy Theory To Crash The Banking System Exposed!! Got Bitcoin?](https://www.youtube.com/watch?v=LoyGJbV-5Xc)**
-
-Chamath says AI and quantum computing will hack Bitcoin and send it to zero. Dante breaks down why cryptographers like Dan ...
-
-📺 Simply Bitcoin
-
-👁️ 33K • 👍 2K • 💬 125 • ⏱️ 20:55 • 1d ago
-
----
-
-**[BITCOIN - IT JUST HAPPENED (UNDER $80K!)](https://www.youtube.com/watch?v=Lac0cXNf1Yk)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 10K • 👍 290 • 💬 125 • ⏱️ 10:41 • 7h ago
-
----
-
-**[I Tested One of the Most Efficient Bitcoin Home Miners](https://www.youtube.com/watch?v=10_iwU06cNM)**
-
-This tiny Bitcoin miner packs some seriously impressive hardware, but is it actually as efficient as advertised? I've been testing the ...
-
-📺 Your Friend Andy
-
-👁️ 10K • 👍 247 • 💬 146 • ⏱️ 17:08 • 1d ago
+👁️ 68K • 👍 2K • 💬 84 • ⏱️ 51:29 • 14h ago
 
 ---
 
@@ -365,7 +327,47 @@ Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cr
 
 📺 Simply Bitcoin
 
-👁️ 62K • 👍 2K • 💬 242 • ⏱️ 18:14 • 2d ago
+👁️ 63K • 👍 2K • 💬 239 • ⏱️ 18:14 • 2d ago
+
+---
+
+**[BITCOIN - IT JUST HAPPENED (UNDER $80K!)](https://www.youtube.com/watch?v=Lac0cXNf1Yk)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 12K • 👍 313 • 💬 128 • ⏱️ 10:41 • 11h ago
+
+---
+
+**[This Bull Market Will Be THE Most Dangerous In Bitcoin&#39;s History (Pitfalls To Avoid)](https://www.youtube.com/watch?v=xu39s1-MNdI)**
+
+Bull Markets can be dangerous and I believe this one will be the most dangerous of all. (Pitfalls To Avoid) In this video, we're ...
+
+📺 Brad Long
+
+👁️ 14K • 👍 311 • 💬 59 • ⏱️ 6:39 • 1d ago
+
+---
+
+**[Markets are breaking everywhere. Bitcoin went quiet](https://www.youtube.com/watch?v=DP3lqE3jHgU)**
+
+Japan's stock market is falling, French ten-year yields hit 5% for the first time since 2002, Chinese stocks are on an eleven-week ...
+
+📺 Yahoo Finance
+
+👁️ 43K • 👍 687 • 💬 201 • ⏱️ 14:53 • 2d ago
+
+---
+
+**[Is Real Estate Dead? Grant Cardone’s New Bitcoin Strategy](https://www.youtube.com/watch?v=h7-2Pj_ouHc)**
+
+Grant Cardone has been buying apartment complexes for forty years. Eighteen months ago he started putting Bitcoin into the ...
+
+📺 Yahoo Finance
+
+👁️ 20K • 👍 333 • 💬 118 • ⏱️ 29:52 • 1d ago
 
 ---
 
