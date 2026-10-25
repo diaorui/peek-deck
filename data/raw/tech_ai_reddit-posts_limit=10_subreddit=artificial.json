@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/",
+      "published": 1792909619.0,
+      "thumbnail": "https://external-preview.redd.it/sBwGrjvWg3-IcnR8Vi5wbfJsP2d9f1OoIuSn1ttxZd0.jpeg?width=640&crop=smart&auto=webp&s=28d60e8effd777e0337993a95ce2515b467002ea",
+      "external_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "site_name": "TechCrunch",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    },
+    {
       "title": "Boston Dynamics employees petition to cancel $1.3M Spot robot sale to ICE",
       "author": "VectorWireAI",
       "url": "https://www.reddit.com/r/artificial/comments/1xe5pqg/boston_dynamics_employees_petition_to_cancel_13m/",
@@ -13,15 +24,59 @@
       "description": "Roughly 300 Boston Dynamics employees signed a petition urging the company to cancel a $1.3 million contract supplying Spot robot dogs to ICE through\u2026"
     },
     {
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/",
-      "published": 1792909619.0,
-      "thumbnail": "https://external-preview.redd.it/sBwGrjvWg3-IcnR8Vi5wbfJsP2d9f1OoIuSn1ttxZd0.jpeg?width=640&crop=smart&auto=webp&s=28d60e8effd777e0337993a95ce2515b467002ea",
-      "external_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "site_name": "TechCrunch",
-      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
-      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+      "title": "Izwi 0.1.0: fully local voice AI (TTS, ASR, voice chat) for Mac, Linux, and Windows",
+      "author": "zinyando",
+      "url": "https://www.reddit.com/r/artificial/comments/1xf7dyg/izwi_010_fully_local_voice_ai_tts_asr_voice_chat/",
+      "published": 1792947058.0,
+      "thumbnail": "https://preview.redd.it/w59jjq3x7nxh1.png?width=140&height=95&auto=webp&s=724ad0091b868e4e3bdd87450c9312001b28dadd",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://preview.redd.it/w59jjq3x7nxh1.png?width=1172&format=png&auto=webp&s=59d56bb30e5dad94ccf3f9525eb57cd19c56e5ef I\u2019ve been building Izwi for a few months now and just shipped 0.1.0, the first stable release after months of public betas. It\u2019s free and Apache-2.0. It\u2019s a desktop app (plus a web UI, CLI and local server) for the voice side of local AI: Real-time voice conversations: local ASR \u2192 LLM \u2192 TTS TTS, voice cloning from a short sample, and voice design from a text description A Studio for long form audio like audiobooks Transcription with speaker diarization and forced alignment An OpenAI-compatible /v1 API (chat completions, audio/speech, audio/transcriptions), so existing code can point at localhost Models it runs today: TTS: Qwen3-TTS, Kokoro-82M, Fish Audio S2 Pro, VibeVoice, Voxtral TTS, LFM2.5 Audio ASR: Parakeet TDT v3, Whisper large-v3-turbo, Qwen3-ASR, Granite Speech 4.1, Nemotron 3.5 ASR, Voxtral Mini Diarization: Sortformer, Nemotron 3 diarization Chat: Qwen3.5, 3.6 and 3.8, LFM2.5 Inference runs natively in Rust on Candle, with our own Metal and CUDA work, so there\u2019s no Python environment to manage. Repo: https://github.com/izwi-ai/izwi Download: https://izwiai.com I\u2019d love feedback on which models to add next, and on anything that breaks on your hardware."
+    },
+    {
+      "title": "AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/",
+      "published": 1792946000.0,
+      "thumbnail": "https://external-preview.redd.it/N4x2iKfPwaMNotZyxhAkvBr6-IyJQ1Xd6bF0taZBVf4.jpeg?width=640&crop=smart&auto=webp&s=d82e0f1cab73f9e926d18544a4eeba3d093bc33e",
+      "external_url": "http://vectorwire.ai/article/ai-agent-containment-fails-at-every-stack-layer-from-hypervisor-to-iam-948563",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the\u2026"
+    },
+    {
+      "title": "AgiBot's 110-Robot Sync Demo Proves Fleet Scheduling, Not Fleet Readiness",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xf31xh/agibots_110robot_sync_demo_proves_fleet/",
+      "published": 1792936678.0,
+      "thumbnail": "https://external-preview.redd.it/ZbHd0TcMyEAr7tSUQwxND6e8QjWobur3N9PnzSDkk50.jpeg?width=640&crop=smart&auto=webp&s=0356312847d7cfd54ce67b4b717865a20e278f28",
+      "external_url": "http://vectorwire.ai/article/agibot-s-110-robot-sync-demo-proves-fleet-scheduling-not-fleet-readiness-65e054",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "AgiBot's 110-humanoid swarm demo and DEEP Robotics' embodied-AI benchmarks show fleet coordination outpacing single-robot reliability, the real\u2026"
+    },
+    {
+      "title": "Solidigm pulled its IPO and neocloud credit spreads are blowing out ahead of hyperscaler earnings",
+      "author": "perspicacity_ai",
+      "url": "https://www.reddit.com/r/artificial/comments/1xf68po/solidigm_pulled_its_ipo_and_neocloud_credit/",
+      "published": 1792944388.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Solidigm scrapped its IPO this week, and credit default swap spreads across neocloud companies have been widening while their stocks fall. The timing puts the AI buildout's funding under its first real stress test just days before the biggest hyperscalers report. Nvidia has moved beyond selling chips into effectively financing parts of the AI buildout, which puts an unusual amount of balance-sheet weight on one company. If neocloud borrowing costs keep climbing and new equity raises stay shut, the biggest buyers of Nvidia hardware start running low on cash to spend. Funds moved into defensives this week, and neocloud borrowers look like the group with the least cushion if capex guidance disappoints. Does Nvidia absorb the first hit, or do neocloud credit spreads crack before the stock moves?"
+    },
+    {
+      "title": "LLM Tokens and Context Windows: Why AI Forgets Your Conversation",
+      "author": "Overall-Beach-9801",
+      "url": "https://www.reddit.com/r/artificial/comments/1xf53kg/llm_tokens_and_context_windows_why_ai_forgets/",
+      "published": 1792941666.0,
+      "thumbnail": "https://external-preview.redd.it/GkKwitPd9rNbT0cI2fRbhyqW1DAaCJ5DuPLr2Vhai-w.png?width=640&crop=smart&auto=webp&s=50f6ff64d63dcfa00c92f8396ca078eee03168d6",
+      "external_url": "https://medium.com/@behind-the-stack/llm-tokens-and-context-windows-why-ai-forgets-your-conversation-9fe769f76629?sk=a766b0a282a91231ad9b33b8cdb0c024",
+      "site_name": "medium.com",
+      "favicon": null,
+      "description": "I wrote a short article on LLM tokens and context windows\u2014why an assistant can \u201cforget\u201d instructions that are still visible in your chat. It\u2019s part of my Behind the AI Stack series. Give it a read and let me know what you think. Anything unclear or worth exploring further?"
     },
     {
       "title": "AI is humanities collective inheritance and should be legally treated as such",
@@ -55,62 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "A Dreamina listing popped up advertising Seedance 2.5 access for $0.29 a month. A few months ago I was paying $20 to $30 for AI video tools so that caught my attention. But I haven't gone through checkout yet and I can't tell if $0.29 is an intro charge, what it renews at, or how it compares to the Seedance 2.0 references I've seen elsewhere. The real question for me is credits. If I need three usable ten second clips and each one takes about four attempts to get right, that's twelve generations for 30 seconds of usable output. If $0.29 only covers a couple of those attempts the sticker price doesn't mean much. I'd need to know included credits, cost per generation, and any length or resolution limits before comparing it to a $30 plan. Has anyone actually seen the checkout terms? Curious what the real allowance looks like and what an extra generation costs once you burn through credits."
-    },
-    {
-      "title": "I didn't want to pay for a subscription, so Claude made tools for my business instead.",
-      "author": "ARK-nano",
-      "url": "https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/",
-      "published": 1792878091.0,
-      "thumbnail": "https://preview.redd.it/xd9d2xqvihxh1.png?width=140&height=86&auto=webp&s=ba21151e08622e69ace8c1fb464e353b118de6de",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I started my own tech repair business and while I was searching for some form of ticket system for tracking customers and repairs, I realized it would just be easier and save me money if Claude made it for me instead! After making (or Claude did) my software for planning & customer tickets / inventory tracking, I got carried away and made an all-in-one diagnostic software as well... I happened to save upwards of $300+ a year on paid software... I thought I'd share in case anyone wants to use them or take a look :) I find making software this way is especially useful as you can just build the features you need specifically; for instance, I use Zoho mail and Quickbooks, which I just integrated using their API. Anyways, I gain nothing from your views or downloads or anything, no monetization, all open source and free to use and edit. Just super excited to share these little projects! I'm quite impressed by how simple it was, and excited to see the future for AI, even if it is a little terrifying lol. First project: A free, open-source organizer for Windows: notes, calendar, customers, tickets, money and a locked vault in one calm app. Your data stays on your computer. https://glr-p.github.io/plannr/ Plannr - All-In-One Ticket system, note taking & organizer. (Names & Info not real people.) Second project: Portable all-in-one Windows diagnostic tool: the first thing to open when a PC has a problem https://glr-p.github.io/Troubleshootr/"
-    },
-    {
-      "title": "I with the advancement of AI, is there a time coming where video, audio, and image evidence won\u2019t stand up in court?",
-      "author": "draathkar",
-      "url": "https://www.reddit.com/r/artificial/comments/1xetiew/i_with_the_advancement_of_ai_is_there_a_time/",
-      "published": 1792904524.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The deepfakes are getting better and better."
-    },
-    {
-      "title": "What's one task you automated with AI that ended up creating more work than it saved?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1xeuuh3/whats_one_task_you_automated_with_ai_that_ended/",
-      "published": 1792909272.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What went wrong?"
-    },
-    {
-      "title": "Why I cloned myself with AI",
-      "author": "Emojinapp",
-      "url": "https://www.reddit.com/r/artificial/comments/1xf09hr/why_i_cloned_myself_with_ai/",
-      "published": 1792928688.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Everything I'll leave behind shows what I did. Photos, videos, years of messages. None of it explains how I thought, why I believed what I believed, or what I'd make of something I never got to see. So I cloned myself, so the people I love can still ask \"how would he have thought about this?\" and get a real answer. I built EchoVault, an app where you train an AI version of yourself, called an Echo, while you're still alive. It doesn't scrape your digital exhaust. It asks you questions through regular check-ins and builds a model of your memories, values and reasoning, which you can explore as a 3D brain. You decide what goes in and who eventually gets access. It can be interacted with text voice and video. Would you want a version of you to exist after you're gone? https://apps.apple.com/us/app/echovault-ai/id6762042028"
-    },
-    {
-      "title": "Google's AI opt-in becomes the legal key to its richest ad data",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xevnru/googles_ai_optin_becomes_the_legal_key_to_its/",
-      "published": 1792912206.0,
-      "thumbnail": "https://external-preview.redd.it/yQtXs5q23xEn2Cy-xiByIFVH0PoE_yV3wm07qzgn1Dc.jpeg?width=640&crop=smart&auto=webp&s=182a85485997940e9e806a87dea2cd4ddf1323f7",
-      "external_url": "http://vectorwire.ai/article/google-s-ai-opt-in-becomes-the-legal-key-to-its-richest-ad-data-62d66d",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Google's October 16 privacy policy update turns its Personal Intelligence AI feature into the legal mechanism for using Gmail, Drive, and Photos data to\u2026"
     }
   ],
-  "fetched_at": "2026-10-25T13:39:33.592476+00:00"
+  "fetched_at": "2026-10-25T17:26:30.000869+00:00"
 }
