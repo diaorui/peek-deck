@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-25T03:31:55.481950+00:00'
+updated: '2026-10-25T08:59:08.831439+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 25, 2026 at 03:31 UTC  
+**Last Updated:** October 25, 2026 at 08:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,33 +44,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -1.2%  
-**30d:** -4.1%  
-**90d:** +26.6%  
-**1y:** -29.4%  
+**24h:** -0.2%  
+**7d:** -1.9%  
+**30d:** -4.8%  
+**90d:** +25.7%  
+**1y:** -29.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1625.86B
+**Market Cap:** $1614.81B
 Rank #1
 
-**Circulating Supply:** 20,103,046 BTC
+**Circulating Supply:** 20,103,187 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.9%
+-36.3%
 
 **All-Time Low:** $67.81
-+119170.0%
++118356.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 51
+### 54
 **NEUTRAL**
 
 ---
@@ -129,13 +129,13 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[HODL onto your sats y'all](https://www.reddit.com/r/Bitcoin/comments/1xd4y95/hodl_onto_your_sats_yall/)**
 
-1d ago
+2d ago
 
 ---
 
 **[Touching grass will set you free from bitcoin 🍃](https://www.reddit.com/r/Bitcoin/comments/1xd3rzi/touching_grass_will_set_you_free_from_bitcoin/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
 
-Forbes • 16h ago
+Forbes • 1h ago
 
 ---
 
@@ -167,15 +167,7 @@ Forbes • 16h ago
 
 Forget this year's lackluster returns. Bitcoin could be the top-performing asset of the next decade.
 
-Yahoo Finance • 15h ago
-
----
-
-**[Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html)**
-
-Bitcoin trades below $83,000, the level Benjamin Cowen says would void his bearish path through the Fed, oil and bonds.
-
-Yahoo Finance • 16h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -183,7 +175,27 @@ Yahoo Finance • 16h ago
 
 The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.
 
-CoinDesk • 11h ago
+CoinDesk • 16h ago
+
+---
+
+**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613)**
+
+Investing.com • 1d ago
+
+---
+
+**['God, that ain’t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center](https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1)**
+
+13WMAZ • 2d ago
+
+---
+
+**[NIP Group set to generate $15m in Bitcoin per month after third purchase of Bitcoin mining capacity](https://www.dust2.us/news/79244/nip-group-set-to-generate-15m-in-bitcoin-per-month-after-third-purchase-of-bitcoin-mining-capacity)**
+
+NIP Group hope further investment into Bitcoin will help their probability in the long run.
+
+Dust2.us • 10h ago
 
 ---
 
@@ -195,33 +207,15 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Is Bitcoin Dead? CZ Says Those Calls Have Marked the Best Times to Buy](https://247wallst.com/investing/cryptocurrency/2026/10/24/is-bitcoin-dead-cz-says-those-calls-have-marked-the-best-times-to-buy/)**
+**[Massachusetts police officer heads off Bitcoin scam targeting Maine woman](https://www.bangordailynews.com/2026/10/22/new-england/bitcoin-scam-targeting-maine-woman/)**
 
-Is Bitcoin dead? Searches just hit their highest since FTX, and CZ says such claims have marked the best times to buy. Here is the record.
-
-24/7 Wall St. • 11h ago
+Bangor Daily News • 2d ago
 
 ---
 
-**[IBIT: I'm Waiting For $75,000 Bitcoin (NASDAQ:IBIT)](https://seekingalpha.com/article/4957230-ibit-im-waiting-for-75000-bitcoin)**
+**[Bitcoin ATM service to shut down in Oregon under settlement](https://www.oregonlive.com/business/2026/10/bitcoin-atm-service-to-shut-down-in-oregon-under-settlement.html)**
 
-Seeking Alpha • 12h ago
-
----
-
-**[Bitcoin – Why Coinbase warns BTC could fall to $75K amid macro risks](https://ambcrypto.com/bitcoin-why-coinbase-warns-btc-could-fall-to-75k-amid-macro-risks/)**
-
-Options traders were actively hedging against downside risks.
-
-AMBCrypto • 3h ago
-
----
-
-**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
-
-Cardano could be headed for a big comeback in 2027.
-
-The Motley Fool • 1d ago
+OregonLive.com • 2d ago
 
 ---
 
@@ -233,7 +227,7 @@ The Motley Fool • 1d ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 428 • 💬 260 • 7h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 471 • 💬 295 • 12h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -241,7 +235,7 @@ A PHP security challenge. Find the hidden bitcoin key. First person to get the w
 
 Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?
 
-⬆️ 8 • 💬 3 • 3d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
+⬆️ 8 • 💬 3 • 4d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
 
 ---
 
@@ -277,7 +271,7 @@ Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 98 • ⏱️ 21:54 • 5h ago
+👁️ 28K • 👍 1K • 💬 103 • ⏱️ 21:54 • 10h ago
 
 ---
 
@@ -287,27 +281,17 @@ Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for th
 
 📺 Gareth Soloway
 
-👁️ 55K • 👍 2K • 💬 177 • ⏱️ 15:40 • 7h ago
+👁️ 74K • 👍 3K • 💬 153 • ⏱️ 15:40 • 12h ago
 
 ---
 
-**[The Bitcoin vs Tech Stocks Signal Has Flipped Bullish](https://www.youtube.com/watch?v=HP8u1Hd9No0)**
+**[THIS IS NEXT FOR BITCOIN... *prepare now*](https://www.youtube.com/watch?v=B8s-6teYezI)**
 
-Tech stocks are selling off, and Bitcoin is holding. Today's Chart of the Day looks at Bitcoin priced in tech stocks, the ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
 
-📺 Bitcoin Magazine
+📺 Crypto Rover
 
-👁️ 6K • 👍 69 • 💬 18 • ⏱️ 7:48 • 11h ago
-
----
-
-**[Crypto Investors Are In Serious Trouble (market crash)](https://www.youtube.com/watch?v=H5xwP4rA1nM)**
-
-Crypto holders really need to hear this.. Altcoin Daily Merch: https://altcoindailyshop.myshopify.com Unlock $500 Deposit ...
-
-📺 Altcoin Daily
-
-👁️ 20K • 👍 1K • 💬 139 • ⏱️ 9:22 • 5h ago
+👁️ 2K • 👍 254 • 💬 45 • ⏱️ 10:08 • 1h ago
 
 ---
 
@@ -317,17 +301,37 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 68K • 👍 2K • 💬 84 • ⏱️ 51:29 • 14h ago
+👁️ 79K • 👍 2K • 💬 89 • ⏱️ 51:29 • 19h ago
 
 ---
 
-**[AI Is Breaking Into Everything! Is This the End of Bitcoin?](https://www.youtube.com/watch?v=Q5chQKSOirc)**
+**[Crypto Investors Are In Serious Trouble (market crash)](https://www.youtube.com/watch?v=H5xwP4rA1nM)**
 
-Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cryptography, and Bitcoin self-custody face new ...
+Crypto holders really need to hear this.. Altcoin Daily Merch: https://altcoindailyshop.myshopify.com Unlock $500 Deposit ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 63K • 👍 2K • 💬 239 • ⏱️ 18:14 • 2d ago
+👁️ 38K • 👍 2K • 💬 181 • ⏱️ 9:22 • 11h ago
+
+---
+
+**[Blockstream Executive Peter Bain: Institutional Clients Say BItcoin &quot;Poised for a Big Bull Run&quot;](https://www.youtube.com/watch?v=W7l_EBQrVzA)**
+
+Bitcoin is holding $81K through an equity selloff, a rising 10-year and unrest in Europe, and Blockstream CMO Peter Bain calls ...
+
+📺 Bitcoin Magazine
+
+👁️ 6K • 👍 55 • 💬 22 • ⏱️ 9:21 • 13h ago
+
+---
+
+**[Why Is Bitcoin &amp; Crypto Falling? What&#39;s Happening?](https://www.youtube.com/watch?v=oPPqbtTFjuw)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Trade on BTCC & 10% ...
+
+📺 Aaron Bennett
+
+👁️ 16K • 👍 361 • 💬 62 • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -337,37 +341,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 313 • 💬 128 • ⏱️ 10:41 • 11h ago
+👁️ 13K • 👍 327 • 💬 129 • ⏱️ 10:41 • 17h ago
 
 ---
 
-**[This Bull Market Will Be THE Most Dangerous In Bitcoin&#39;s History (Pitfalls To Avoid)](https://www.youtube.com/watch?v=xu39s1-MNdI)**
+**[97% Of Bitcoin’s Price Is Explained By The Power Law | Santostasi &amp; Perrenod](https://www.youtube.com/watch?v=zgZZjXMilkE)**
 
-Bull Markets can be dangerous and I believe this one will be the most dangerous of all. (Pitfalls To Avoid) In this video, we're ...
+CHECK OUT TBL PULSE: https://thebitcoinlayer.com/ In this episode, Nik welcomes back Dr. Giovanni Santostasi and Dr.
 
-📺 Brad Long
+📺 The Bitcoin Layer
 
-👁️ 14K • 👍 311 • 💬 59 • ⏱️ 6:39 • 1d ago
-
----
-
-**[Markets are breaking everywhere. Bitcoin went quiet](https://www.youtube.com/watch?v=DP3lqE3jHgU)**
-
-Japan's stock market is falling, French ten-year yields hit 5% for the first time since 2002, Chinese stocks are on an eleven-week ...
-
-📺 Yahoo Finance
-
-👁️ 43K • 👍 687 • 💬 201 • ⏱️ 14:53 • 2d ago
+👁️ 6K • 👍 135 • 💬 20 • ⏱️ 40:25 • 1d ago
 
 ---
 
-**[Is Real Estate Dead? Grant Cardone’s New Bitcoin Strategy](https://www.youtube.com/watch?v=h7-2Pj_ouHc)**
+**[AI Is Breaking Into Everything! Is This the End of Bitcoin?](https://www.youtube.com/watch?v=Q5chQKSOirc)**
 
-Grant Cardone has been buying apartment complexes for forty years. Eighteen months ago he started putting Bitcoin into the ...
+Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cryptography, and Bitcoin self-custody face new ...
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 20K • 👍 333 • 💬 118 • ⏱️ 29:52 • 1d ago
+👁️ 64K • 👍 2K • 💬 240 • ⏱️ 18:14 • 2d ago
 
 ---
 
