@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-25T08:59:08.831439+00:00'
+updated: '2026-10-25T13:40:08.285085+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 25, 2026 at 08:59 UTC  
+**Last Updated:** October 25, 2026 at 13:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,921.09
+### $80,460.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -1.9%  
-**30d:** -4.8%  
+**24h:** +0.2%  
+**7d:** -2.0%  
+**30d:** -4.9%  
 **90d:** +25.7%  
 **1y:** -29.9%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1614.81B
+**Market Cap:** $1613.17B
 Rank #1
 
-**Circulating Supply:** 20,103,187 BTC
+**Circulating Supply:** 20,103,303 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.3%
+-36.4%
 
 **All-Time Low:** $67.81
-+118356.0%
++118236.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not one government currency has preserved its purchasing power over the past decade.](https://www.reddit.com/r/Bitcoin/comments/1xde1vw/not_one_government_currency_has_preserved_its/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The McRib Rally Is Back The McRib Rally Is Back
 
-1d ago
+2d ago
 
 ---
 
@@ -95,7 +95,7 @@ The McRib Rally Is Back The McRib Rally Is Back
 
 Available in every Swiss post office
 
-1d ago
+2d ago
 
 ---
 
@@ -109,7 +109,7 @@ sheeesh lol
 
 **[Which one of you is it?](https://www.reddit.com/r/Bitcoin/comments/1xdcilp/which_one_of_you_is_it/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -117,7 +117,7 @@ sheeesh lol
 
 Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin. Same watts, double duty. The Avalon Mini 3 is a perfect space heater. ✌🏻
 
-1d ago
+2d ago
 
 ---
 
@@ -153,21 +153,37 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 **[Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom](https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
 **[Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
 
-Forbes • 1h ago
+Forbes • 1d ago
 
 ---
 
-**[Is Bitcoin a Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-now-122000654.html)**
+**[JPMorgan projects 10% annual Bitcoin returns over the next decade — but won't recommend buying it](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-projects-10-annual-bitcoin-110000061.html)**
 
-Forget this year's lackluster returns. Bitcoin could be the top-performing asset of the next decade.
+Analysts say Bitcoin could surpass stocks, bonds and gold over the next 10 years but warn the cryptocurrency is volatile.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[NC woman lost all her savings at a gas-station bitcoin machine. A new law could force refunds — but not until January](https://finance.yahoo.com/markets/crypto/articles/nc-woman-lost-her-savings-130000102.html)**
+
+Attorney General Jeff Jackson says an investigation is underway. New protections come with strings attached. Here's what the law covers and how kiosk scams work.
+
+Yahoo Finance • 40m ago
+
+---
+
+**[With Oil Prices Rising, Bitcoin Remains Stuck Below $85,000. Here's Why I'm Still Buying Bitcoin Right Now.](https://finance.yahoo.com/markets/crypto/articles/oil-prices-rising-bitcoin-remains-122100745.html)**
+
+If history is any guide, pain at the pump should not result in pain for Bitcoin investors.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,7 +191,7 @@ Yahoo Finance • 20h ago
 
 The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.
 
-CoinDesk • 16h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -185,9 +201,19 @@ Investing.com • 1d ago
 
 ---
 
-**['God, that ain’t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center](https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1)**
+**[Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike](https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million)**
 
-13WMAZ • 2d ago
+Investors this week were buying bitcoin ETFs but that all changed on Thursday.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?](https://www.fool.com/investing/2026/10/25/sec-approves-leveraged-bitcoin-and-ethereum-funds/)**
+
+Just because you can multiply daily moves, doesn't mean you should.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -195,27 +221,7 @@ Investing.com • 1d ago
 
 NIP Group hope further investment into Bitcoin will help their probability in the long run.
 
-Dust2.us • 10h ago
-
----
-
-**[Bitcoin Core Ends Long Embargoes For Bugs AI Can Rediscover](https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes)**
-
-Bitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Massachusetts police officer heads off Bitcoin scam targeting Maine woman](https://www.bangordailynews.com/2026/10/22/new-england/bitcoin-scam-targeting-maine-woman/)**
-
-Bangor Daily News • 2d ago
-
----
-
-**[Bitcoin ATM service to shut down in Oregon under settlement](https://www.oregonlive.com/business/2026/10/bitcoin-atm-service-to-shut-down-in-oregon-under-settlement.html)**
-
-OregonLive.com • 2d ago
+Dust2.us • 15h ago
 
 ---
 
@@ -227,7 +233,7 @@ OregonLive.com • 2d ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 471 • 💬 295 • 12h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 531 • 💬 326 • 17h ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -271,7 +277,7 @@ Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 1K • 💬 103 • ⏱️ 21:54 • 10h ago
+👁️ 33K • 👍 2K • 💬 101 • ⏱️ 21:54 • 15h ago
 
 ---
 
@@ -281,7 +287,7 @@ Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for th
 
 📺 Gareth Soloway
 
-👁️ 74K • 👍 3K • 💬 153 • ⏱️ 15:40 • 12h ago
+👁️ 86K • 👍 3K • 💬 212 • ⏱️ 15:40 • 17h ago
 
 ---
 
@@ -291,7 +297,27 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 254 • 💬 45 • ⏱️ 10:08 • 1h ago
+👁️ 14K • 👍 579 • 💬 36 • ⏱️ 10:08 • 6h ago
+
+---
+
+**[The Bitcoin Chart Alt Holders Have Waited For | Ran Neuner](https://www.youtube.com/watch?v=eArtx9VXJ0E)**
+
+Ran Neuner, founder and CEO of Crypto Banter, joins me to break down why he thinks this is crypto's first real bull market.
+
+📺 Kyle Chasse crypto
+
+👁️ 24K • 👍 644 • 💬 65 • ⏱️ 51:01 • 1d ago
+
+---
+
+**[Insane Conspiracy Theory To Crash The Banking System Exposed!! Got Bitcoin?](https://www.youtube.com/watch?v=LoyGJbV-5Xc)**
+
+Chamath says AI and quantum computing will hack Bitcoin and send it to zero. Dante breaks down why cryptographers like Dan ...
+
+📺 Simply Bitcoin
+
+👁️ 35K • 👍 2K • 💬 136 • ⏱️ 20:55 • 1d ago
 
 ---
 
@@ -301,27 +327,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 79K • 👍 2K • 💬 89 • ⏱️ 51:29 • 19h ago
-
----
-
-**[Crypto Investors Are In Serious Trouble (market crash)](https://www.youtube.com/watch?v=H5xwP4rA1nM)**
-
-Crypto holders really need to hear this.. Altcoin Daily Merch: https://altcoindailyshop.myshopify.com Unlock $500 Deposit ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 181 • ⏱️ 9:22 • 11h ago
-
----
-
-**[Blockstream Executive Peter Bain: Institutional Clients Say BItcoin &quot;Poised for a Big Bull Run&quot;](https://www.youtube.com/watch?v=W7l_EBQrVzA)**
-
-Bitcoin is holding $81K through an equity selloff, a rising 10-year and unrest in Europe, and Blockstream CMO Peter Bain calls ...
-
-📺 Bitcoin Magazine
-
-👁️ 6K • 👍 55 • 💬 22 • ⏱️ 9:21 • 13h ago
+👁️ 85K • 👍 2K • 💬 89 • ⏱️ 51:29 • 1d ago
 
 ---
 
@@ -331,37 +337,37 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 16K • 👍 361 • 💬 62 • ⏱️ 9:55 • 1d ago
+👁️ 16K • 👍 369 • 💬 62 • ⏱️ 9:55 • 1d ago
 
 ---
 
-**[BITCOIN - IT JUST HAPPENED (UNDER $80K!)](https://www.youtube.com/watch?v=Lac0cXNf1Yk)**
+**[Bitcoin Could Swing 30% Either Way In The Next Two Months | Gracy Chen](https://www.youtube.com/watch?v=N3gg9r8ptp8)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Bitcoin #Crypto #finance Bitget CEO Gracy Chen breaks down the $388M exchange hack, how attackers exploited a third-party ...
 
-📺 My Financial Friend
+📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 327 • 💬 129 • ⏱️ 10:41 • 17h ago
-
----
-
-**[97% Of Bitcoin’s Price Is Explained By The Power Law | Santostasi &amp; Perrenod](https://www.youtube.com/watch?v=zgZZjXMilkE)**
-
-CHECK OUT TBL PULSE: https://thebitcoinlayer.com/ In this episode, Nik welcomes back Dr. Giovanni Santostasi and Dr.
-
-📺 The Bitcoin Layer
-
-👁️ 6K • 👍 135 • 💬 20 • ⏱️ 40:25 • 1d ago
+👁️ 11K • 👍 263 • 💬 124 • ⏱️ 36:38 • 1d ago
 
 ---
 
-**[AI Is Breaking Into Everything! Is This the End of Bitcoin?](https://www.youtube.com/watch?v=Q5chQKSOirc)**
+**[BITCOIN: QUICK ANALYSIS TODAY!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=1rFknKwIXOc)**
 
-Can AI hack Bitcoin? Bitcoin security, AI hacking, quantum computing, Bitcoin cryptography, and Bitcoin self-custody face new ...
+Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): https://partner.blofin.com/d/RT1M Get ...
 
-📺 Simply Bitcoin
+📺 Road To $1 Million USD
 
-👁️ 64K • 👍 2K • 💬 240 • ⏱️ 18:14 • 2d ago
+👁️ 8K • 👍 207 • 💬 27 • ⏱️ 6:40 • 2d ago
+
+---
+
+**[EMERGENCY ARTHUR HAYES JUST DUMPED EVERYTHING! BITCOIN and Crypto Crash Coming?](https://www.youtube.com/watch?v=1i4zDfEbLR4)**
+
+EMERGENCY ARTHUR HAYES JUST DUMPED EVERYTHING! ETH, UNI, ENA! Crypto Crash Coming? Support The O Show ...
+
+📺 CryptoWendyO
+
+👁️ 14K • 👍 417 • 💬 7 • ⏱️ 21:16 • 20h ago
 
 ---
 

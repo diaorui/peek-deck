@@ -5,24 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
+      "headline": "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXFUdG1TaTRveTk3VUhFclVvNVNiUzNHZHA1Tm12SVF6X1I5ZVJoVHl5eW90UWZoVnBZN1ZlM2RDX19FMXRGVFI0LXV5Z3lqc0QybW1BU1NnWGRnUWpnd2dFMlB0TGV3TmMyUnJpTDJyaDN3YlI5dmhMUG9CODJZRHJKTnNxMUVwVHp4OHRpSEJaUmVXS3hPY21B?oc=5",
-      "pub_date": 1792740900.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-once-073500742.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c12e5b52bf191233fa1aca133375bbccf7b85c2e518fa42d991c1e9fb40d3e88/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0532a53f2f27b66bbd5857063f39fc84.jpg",
-      "description": "Cardano could be headed for a big comeback in 2027."
-    },
-    {
-      "headline": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUs2UU05ZUVHUUV3OXFUMmI2RUEyWFRkeGRCLW5lRmQ2OVJyREUzcXE0WjFPRFRfV0dUYXRBTG1jU1RFQ3JEZlVwWHlteUkzVHQwLV9CZHV3UVpzWk5DYmVHRVJyZE5KbnZwZU1CU2tLSUQxTUpjNXFVeHI1MEs5T1cwVlFhcG1WVm4taFpXWlRKYjIyeW52NExjRDczbFZleng5clhZcTluRVEyZmphdUFWamwtRk45MFNqSF9abVh4emc?oc=5",
-      "pub_date": 1792731574.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcERwb1gtZDlLV2R2MFFHMDBOa29UZVFTVjFMaGxFNE53Wk55RUM2eGk3WUhxb0F0Q3hnUnRJV1B6LVR3Nzc3NEtndlh6ZG1RRm85T01VWF9TY3ZqaVM2czR1WlU2THExRUJDa3JwWHduTlBzeTRjQ1EtRFdqRUlOR1dOQUR0R1hZMEF3dW0wR3BCdmlmNTZqdTVucTNJQnFNQ1Ata3BvTQ?oc=5",
+      "pub_date": 1792920720.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/sec-approves-leveraged-bitcoin-ethereum-093200523.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cf62da50fd049c349bcf7caba8100613445936e11bbeabd1702cf16c134e5ff5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F122ae5a7efa22bb57253963c2e55f9c1.jpg",
+      "description": "Just because you can multiply daily moves, doesn't mean you should."
     },
     {
       "headline": "Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets\u2014Which Is Gaining Ground?",
@@ -35,6 +25,36 @@
       "description": "Bitcoin CRYPTO:BTCUSD held roughly 57% of the digital asset market as of Oct. 10, its highest share since November 2022, according to Glassnode and Fasanara Digital.Why Capital Stayed Concentrated in BitcoinGlassnode and Fasanara Digital wrote in the report that smaller tokens fell roughly 52% from\u2026"
     },
     {
+      "headline": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUs2UU05ZUVHUUV3OXFUMmI2RUEyWFRkeGRCLW5lRmQ2OVJyREUzcXE0WjFPRFRfV0dUYXRBTG1jU1RFQ3JEZlVwWHlteUkzVHQwLV9CZHV3UVpzWk5DYmVHRVJyZE5KbnZwZU1CU2tLSUQxTUpjNXFVeHI1MEs5T1cwVlFhcG1WVm4taFpXWlRKYjIyeW52NExjRDczbFZleng5clhZcTluRVEyZmphdUFWamwtRk45MFNqSF9abVh4emc?oc=5",
+      "pub_date": 1792731574.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
+    },
+    {
+      "headline": "XRP ETFs buck Bitcoin and Ethereum outflows \u2013 Can price follow?",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUtveG9xbFR5YTY0aEtwa0E3eDNoeDMyWm1HcXF6RVJDRGhWaU9UVHBRU1hiQ3NTOXVoakxJRDZPWFV4YXg4ajdSN21ZU3NDVm1LSEQ4ajNaNHZKRVVXaEJJajNaczNOZWR1V3hYZHpTYWs0aVJVMWx4ZVV2MVVwdkIxb013RHRfZjVr?oc=5",
+      "pub_date": 1792926032.0,
+      "article_url": "https://ambcrypto.com/xrp-etfs-buck-bitcoin-and-ethereum-outflows-can-price-follow/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/10/Lazaro-2026-10-25T085825.727.jpg",
+      "description": "XRP\u2019s recovery faces a key test as ETF demand improves but bearish momentum and liquidation risks keep traders cautious."
+    },
+    {
+      "headline": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPei1jcHJQVGVid29ZNFlWelF1eTdnU050dTNzUVhLS3kxY21pOFg3TnNiMGJJYjhuVjVsRG9yZURZNW1mOVZhalhiY2x6MkY3MVdQQ210Yk1oYnFWbGNscThWdUxjOXBiWVZmMDQzenE3WHJ4eThfejcxVVVqRUlSdmFrcDFybTBzcm5DYVFqTm9QZl9XcXhqVw?oc=5",
+      "pub_date": 1792743300.0,
+      "article_url": "https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891827%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
+      "description": "Cardano could be headed for a big comeback in 2027."
+    },
+    {
       "headline": "Glamsterdam on Hoodi Postponed",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -45,16 +65,6 @@
       "description": "The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has..."
     },
     {
-      "headline": "Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTG9aTDZIa3o5cGhBeFZLYWFJUS1MWno0WHplZ18wZnNwZTBjV2VxcGY3VGpWcElRRUg0QjRyajc4ZjVjdlNFV3c2S0pFVjUzZGlTYWlNeUx5ZzJ6QTYzT2JtUFBRQkVMa2l4X1Zaa0llU1U3d2NrSl9vUERCc2V1WkNhck0tZjM0R2lYM2w3cU4zQm9rTjFQTE5IQ3BjMERXdVJYWHAxSlRlZlUzUGxfb3hPMTlTdw?oc=5",
-      "pub_date": 1792677300.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/03/20210323_Uniswap_V3.jpg",
-      "description": "The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes."
-    },
-    {
       "headline": "Lookonchain: Ethereum OG Sells 1,000 ETH",
       "source": "Blockchain News",
       "source_url": "https://blockchain.news",
@@ -63,6 +73,16 @@
       "article_url": "https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-1-000-eth",
       "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
       "description": "Lookonchain reports another Ethereum OG who bought 100,000 ETH at $0.31 during the ICO sold 1,000 ETH six hours ago."
+    },
+    {
+      "headline": "Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTG9aTDZIa3o5cGhBeFZLYWFJUS1MWno0WHplZ18wZnNwZTBjV2VxcGY3VGpWcElRRUg0QjRyajc4ZjVjdlNFV3c2S0pFVjUzZGlTYWlNeUx5ZzJ6QTYzT2JtUFBRQkVMa2l4X1Zaa0llU1U3d2NrSl9vUERCc2V1WkNhck0tZjM0R2lYM2w3cU4zQm9rTjFQTE5IQ3BjMERXdVJYWHAxSlRlZlUzUGxfb3hPMTlTdw?oc=5",
+      "pub_date": 1792677300.0,
+      "article_url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/03/20210323_Uniswap_V3.jpg",
+      "description": "The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes."
     },
     {
       "headline": "Bitcoin Loses $80,000 as $200 Million in Leverage Unwinds in an Hour",
@@ -83,28 +103,8 @@
       "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62515868/bitcoin-ethereum-xrp-dogecoin-crypto-genius-act",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Ethereum's long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0ZSZ1Y1ZnpfR2dJSlhvUUJfdXg0SXlvVnFidUsyOVJjbThRLWFGSXY4cEhCM051OHhuZXVNWmNESWd5bHE5WFgxVjB0Y2ctWFZEMXNCbHlNQVdkal9qSmtFMGlYeWRiVDRWYzROak55TGJkR1BOc0ZGZTkwbTNBR2d4b1lkazhpRUh4Vi1aRWdOMWVJNERyVENJaUlFVHlWYUUxX29zMmlGY0l2OEtIWmNfdDF0dlFCNGc?oc=5",
-      "pub_date": 1792716037.0,
-      "article_url": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/glamsterdam-security-cover-fixed-2.webp",
-      "description": "Ethereum postponed a crucial Glamsterdam testnet deployment on Hoodi as developers investigate security concerns."
-    },
-    {
-      "headline": "Lisk: Bridge initiation window closes for transfers to Ethereum - 24 Oct 2026",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3NkZW5ReEJhM0tMdnJWS2M3NVQybktsM2hkREFMMHltV3NQNGNSZ3BhNGJLdndQTVFuOHRDR3V3ak5ObVNEcDRBQlR0X0pnRm1teWc4SzVnR3lrU3VlQ2RSb0ZtWWY3SjBzdUU1X1A5dVZwbGdodW9JZWMyQ0kzQTVaWXpYNWUydzN3MFd0WDl2MDVBazZZaW04Rm1rUnEyM1ZBcmNYU0NNdm02SVNsNmNnclR5eDFyQ3B3a0NOcFRDc2NQOXcyZjNZdlAzdHBDbDRXeg?oc=5",
-      "pub_date": 1792850416.0,
-      "article_url": "https://www.tradingview.com/news/coinmarketcal:fafeb65dc094b:0-lisk-bridge-initiation-window-closes-for-transfers-to-ethereum-24-oct-2026/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Lisk users have until 24 October 2026 to start bridging assets from Lisk Chain to Ethereum. The bridge process takes about eight days, and every withdrawal must be claimed on Ethereum by the end of 2 November.The deadline applies to assets including LSK. The eight-day bridge process leaves users wh\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-25T08:58:49.943252+00:00"
+  "fetched_at": "2026-10-25T13:39:52.905832+00:00"
 }
