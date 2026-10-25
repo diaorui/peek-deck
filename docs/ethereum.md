@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-25T17:26:50.692920+00:00'
+updated: '2026-10-25T19:53:19.172320+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 25, 2026 at 17:26 UTC  
+**Last Updated:** October 25, 2026 at 19:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -2.1%  
-**30d:** -12.5%  
-**90d:** +22.7%  
-**1y:** -43.3%  
+**24h:** +0.2%  
+**7d:** -2.3%  
+**30d:** -12.7%  
+**90d:** +22.4%  
+**1y:** -43.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.11B
+**Market Cap:** $286.92B
 Rank #2
 
 **Circulating Supply:** 122,161,275 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.3%
+-52.5%
 
 **All-Time Low:** $0.43
-+544702.4%
++542335.1%
 
 ---
 
@@ -104,7 +104,7 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 2d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 3d ago
 
 ---
 
@@ -118,7 +118,7 @@ Dshackle is a load balancer that sits between your app and your blockchain upstr
 
 **[Blast L2 is shutting down October 26. Withdraw your funds and export your transaction history before it's too late.](https://www.reddit.com/r/ethereum/comments/1xbwf1m/blast_l2_is_shutting_down_october_26_withdraw/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -150,27 +150,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana. Which Chain Benefits More?](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-nearly-900-million-tokenized-183043798.html)**
+
+JPMorgan just parked nearly $900 million in tokenized funds across Ethereum and Solana, but the fine print reveals one chain got a much bigger piece of the deal than the headlines suggest.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Price Prediction: ETH Dipped Below $2,300 This Week. Where Is the Next Floor?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-eth-dipped-174244827.html)**
+
+Ethereum just broke through a level investors counted on to hold, and the next stop down is closer than most realize. Two converging pressures are making a recovery harder than the charts alone suggest.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[XRP Held Flat This Week While Bitcoin, Ethereum and Solana Fell. Is It Breaking Away From Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/xrp-held-flat-week-while-165559407.html)**
 
 XRP barely budged this week while Bitcoin, Ethereum, and Solana tumbled, sparking talk of a long-awaited decoupling. But the correlation data, the ETF flows, and a brutal 30-day track record tell a more complicated story.
 
-Yahoo Finance • 30m ago
-
----
-
-**[Grok AI Ethereum Price Prediction: Token Guide](https://bitcoinfoundation.org/news/analysis/grok-ai-the-ethereum-prediction-token-tokenomics-and-risks/)**
-
-Grok AI crypto claims to predict Ethereum prices using AI. Full guide covers the token's price, how predictions work, tokenomics and scam risks.
-
-Bitcoin Foundation • 3h ago
-
----
-
-**[SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?](https://www.fool.com/investing/2026/10/25/sec-approves-leveraged-bitcoin-and-ethereum-funds/)**
-
-Just because you can multiply daily moves, doesn't mean you should.
-
-The Motley Fool • 7h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -190,19 +190,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Current price of Ethereum for October 23, 2026](https://fortune.com/article/price-of-ethereum-10-23-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
-
----
-
 **[XRP ETFs buck Bitcoin and Ethereum outflows – Can price follow?](https://ambcrypto.com/xrp-etfs-buck-bitcoin-and-ethereum-outflows-can-price-follow/)**
 
 XRP’s recovery faces a key test as ETF demand improves but bearish momentum and liquidation risks keep traders cautious.
 
-AMBCrypto • 6h ago
+AMBCrypto • 8h ago
+
+---
+
+**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/)**
+
+Cardano could be headed for a big comeback in 2027.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -214,19 +214,17 @@ The Block • 3d ago
 
 ---
 
-**[Lookonchain: Ethereum OG Sells 1,000 ETH](https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-1-000-eth)**
-
-Lookonchain reports another Ethereum OG who bought 100,000 ETH at $0.31 during the ICO sold 1,000 ETH six hours ago.
-
-Blockchain News • 1d ago
-
----
-
 **[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-ethereum.org • 2d ago
+ethereum.org • 3d ago
+
+---
+
+**[Ethereum Price Faces Deeper Downside Risk as October ETH ETF Outflows Reach $1 Billion](https://www.benzinga.com/crypto/26/10/62579999/ethereum-price-faces-deeper-downside-risk-as-october-eth-etf-outflows-reach-1-billion)**
+
+Benzinga • 2h ago
 
 ---
 
@@ -234,13 +232,13 @@ ethereum.org • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🤔 Who Still Buys Ethereum? - ETH Crypto Analysis](https://www.youtube.com/watch?v=SXuJxqe7AFI)**
+**[Raoul Pal :&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=s5ML9SCXElE)**
 
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Software: ...
+Raoul Pal believes crypto may be entering a much bigger phase as AI, global liquidity, and blockchain infrastructure begin to ...
 
-📺 Bitcoin Strategy
+📺 Crypto Nutshell
 
-👁️ 5K • 👍 59 • 💬 9 • ⏱️ 11:50 • 1d ago
+👁️ 1K • 👍 64 • 💬 22 • ⏱️ 24:09 • 3h ago
 
 ---
 
@@ -250,17 +248,57 @@ Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we t
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 234 • 💬 23 • ⏱️ 13:01 • 6h ago
+👁️ 10K • 👍 268 • 💬 23 • ⏱️ 13:01 • 9h ago
 
 ---
 
-**[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
+**[🤔 Who Still Buys Ethereum? - ETH Crypto Analysis](https://www.youtube.com/watch?v=SXuJxqe7AFI)**
 
-Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves through the crypto market! Today's crypto news ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Software: ...
 
-📺 Discover Crypto
+📺 Bitcoin Strategy
 
-👁️ 11K • 👍 246 • 💬 41 • ⏱️ 1:00:00 • 1d ago
+👁️ 5K • 👍 62 • 💬 9 • ⏱️ 11:50 • 1d ago
+
+---
+
+**[Tom Lee: SHOCKING $22,000 Ethereum Price Prediction (Fact-Checked)](https://www.youtube.com/watch?v=0smYMt7Kjts)**
+
+Tom Lee says $22000 is his LOW target for Ethereum this cycle. I went through every number in his TOKEN2049 Singapore ...
+
+📺 JM Crypto
+
+👁️ 7K • 👍 95 • 💬 30 • ⏱️ 25:11 • 2d ago
+
+---
+
+**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=EJRuObXl8Ck)**
+
+Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than most investors realize. In this video, the Strategy ...
+
+📺 Crypto Nutshell
+
+👁️ 11K • 👍 112 • 💬 43 • ⏱️ 20:11 • 2d ago
+
+---
+
+**[My Live Trading Bot Built with Claude Code - Passive Income using Ethereum Day Trading](https://www.youtube.com/watch?v=yNIzPkK0gB8)**
+
+Complete Tutorial Guide: https://tr.ee/tPdNUp The build connects live trading, day trading, live trading strategy, claude ai free ...
+
+📺 Tyler Reeves
+
+👁️ 4K • 👍 22 • 💬 19 • ⏱️ 6:08 • 11h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=X7r5eo6lphk)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 2K • 👍 82 • 💬 2 • ⏱️ 6:56 • 7h ago
 
 ---
 
@@ -270,65 +308,27 @@ Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime M
 
 📺 Thinking Crypto
 
-👁️ 19K • 👍 700 • 💬 57 • ⏱️ 17:37 • 1d ago
+👁️ 19K • 👍 701 • 💬 57 • ⏱️ 17:37 • 1d ago
 
 ---
 
-**[🔥 Ethereum Bulls Are Back! What&#39;s Next for ETH?](https://www.youtube.com/watch?v=9IOYYaJcPmI)**
+**[Ethereum CANCELS Upgrade (This Could Get UGLY)](https://www.youtube.com/watch?v=XZ3rfPo6oLg)**
 
-Ethereum Bulls Are Back! What's Next for ETH? Ethereum has bounced back, putting buyers back in focus. Will this recovery ...
+Ethereum's canceled upgrade could spell trouble for ETH and send shockwaves through the crypto market! Today's crypto news ...
 
-📺 Colitco
+📺 Discover Crypto
 
-👁️ 199 • ⏱️ 0:15 • 1d ago
-
----
-
-**[Bitcoin vs Ethereum What&#39;s the REAL Difference?](https://www.youtube.com/watch?v=XPVXOE8wAkE)**
-
-Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were built for very different purposes. Bitcoin was ...
-
-📺 That crypto show
-
-👁️ 206 • 👍 2 • 💬 2 • ⏱️ 0:44 • 1d ago
+👁️ 11K • 👍 248 • 💬 39 • ⏱️ 1:00:00 • 2d ago
 
 ---
 
-**[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=BlrY6SREarU)**
+**[JPMorgan Put Bank Deposits on Ethereum](https://www.youtube.com/watch?v=ej5y6UPYJx4)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+JPMorgan just put bank deposits on Ethereum. On October 19, JPMorgan announced JPM Coin is live on Ethereum. These are ...
 
-📺 Crypto Nutshell
+📺 Alexander Lorenzo
 
-👁️ 15K • 👍 218 • 💬 33 • ⏱️ 21:17 • 2d ago
-
----
-
-**[Big Move Coming in Ethereum! | Technical Analysis](https://www.youtube.com/watch?v=sBwfbd-WFSo)**
-
-Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...
-
-📺 Pushkar Raj Thakur: Stock Market Educator 📈
-
-👁️ 104K • 👍 1K • 💬 180 • ⏱️ 6:03 • 2d ago
-
----
-
-**[JPM Coin goes public on Ethereum — why public matters](https://www.youtube.com/watch?v=oBxrDuZ6Q64)**
-
-📺 Digital Asset News
-
-👁️ 504 • 👍 18 • 💬 1 • ⏱️ 1:56 • 22h ago
-
----
-
-**[Bitcoin, Ethereum &amp; Altcoins: Where I’m Buying and Shorting (Live Trading)](https://www.youtube.com/watch?v=jBaaLUPTQdY)**
-
-Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the only major asset holding range support this ...
-
-📺 Crypto Banter
-
-👁️ 11K • 👍 198 • 💬 17 • ⏱️ 49:05 • 1d ago
+👁️ 4K • 👍 244 • 💬 11 • ⏱️ 2:50 • 2d ago
 
 ---
 
