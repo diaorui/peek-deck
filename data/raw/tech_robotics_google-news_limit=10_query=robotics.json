@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Exclusive: Formic raises fresh funding to put more robots on factory floors",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3UxRmgwU3N1RnJDaFExYWNwcHRJYWpRcVBhTkpwQ29QMUo2SHFqSGZFMGNWbUxyRC1lWXFJQzRoOGtmU0FVbjBVUGpzLXY5QWduUWdrUmVzVW5hSTN3akFFRXFsVWZqeXB4YjBFQ3VMS0tHTWx4bXJ5eTdxSWZWVGFldFg?oc=5",
-      "pub_date": 1792683759.0,
-      "article_url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "One small leap for a muscle, one giant step for robotics",
       "source": "ETH Z\u00fcrich",
       "source_url": "https://ethz.ch",
@@ -35,34 +25,24 @@
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
-      "headline": "Wearable system captures human activity data for robot training",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bHZ4cnNieE1JZHZYazh2VjZaeUt1U1FJY2xTeWNzV29uOHF1NUJGUExQOVRLZWJmLVRIUEROMUF1dk52a25jd2oyMEkxWUdtY2dJT195Q3dhTlprWG9LQ09pdHhvOExFb2JVSHRTQVdiZWxCeFlDcUl3?oc=5",
-      "pub_date": 1792857606.0,
-      "article_url": "https://techxplore.com/news/2026-10-wearable-captures-human-robot.html",
-      "image": null,
-      "description": null
+      "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
+      "pub_date": 1792792759.0,
+      "article_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
     },
     {
-      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
-      "pub_date": 1792744160.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Unitree developing AI system to let humanoid robots improve themselves",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
-      "pub_date": 1792675812.0,
-      "article_url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
-      "image": null,
-      "description": null
+      "headline": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
+      "source": "Global Times",
+      "source_url": "https://www.globaltimes.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80QVQxRktxem15Uy02NkFZcGRVb1Y3czV3ZHFpU0x3UEJBOU5yMXJ1RzZlMkxLdmFQb3RIZC1qTHVGNm1ZT1BmTEdjX3hNTU9mX2hBSWNwbDBrYmN1bHdfcG53?oc=5",
+      "pub_date": 1792897140.0,
+      "article_url": "https://www.globaltimes.cn/page/202610/1372888.shtml",
+      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/769f8f28-90cd-4fde-b250-759abf8efb3a.jpeg",
+      "description": "China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24."
     },
     {
       "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
@@ -75,14 +55,14 @@
       "description": null
     },
     {
-      "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
-      "pub_date": 1792792759.0,
-      "article_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
-      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+      "headline": "Agile ONE SN Humanoid Robot Bundles Nvidia\u2019s Robotics Stack",
+      "source": "TechRepublic",
+      "source_url": "https://www.techrepublic.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA?oc=5",
+      "pub_date": 1792748808.0,
+      "article_url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
+      "image": "https://assets.techrepublic.com/uploads/2026/10/nvidia-isaac-platform.jpeg?f=jpeg",
+      "description": "Nvidia and Agile Robots unveiled Agile ONE SN, a compact humanoid with AI training tools. Explore its features, specifications, and planned 2027 release."
     },
     {
       "headline": "Subaquatic robot leverages biomimetics for natural movement",
@@ -95,16 +75,36 @@
       "description": "Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That\u2019s exactly what a research group at North Carolina State University has been working on."
     },
     {
-      "headline": "Agile ONE SN Humanoid Robot Bundles Nvidia\u2019s Robotics Stack",
-      "source": "TechRepublic",
-      "source_url": "https://www.techrepublic.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA?oc=5",
-      "pub_date": 1792748808.0,
-      "article_url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
-      "image": "https://assets.techrepublic.com/uploads/2026/10/nvidia-isaac-platform.jpeg?f=jpeg",
-      "description": "Nvidia and Agile Robots unveiled Agile ONE SN, a compact humanoid with AI training tools. Explore its features, specifications, and planned 2027 release."
+      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
+      "pub_date": 1792744160.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Researchers open autonomous robotics learning to the world",
+      "source": "Stanford Report",
+      "source_url": "https://news.stanford.edu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
+      "pub_date": 1792673724.0,
+      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Are Delivery Robots Scanning You Into a Database Scarier Than Flock?",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PaTVqVkFBeHhCQzBCOVNoemhjbkM1d1g0eFFKMm9aMk16a05yQ2M5RjV3blQyNlNWQlFnTzJ0dzJhYVdtbGlWWjY1YndNNVNEbDIyQUdnQ2M5Z1QwZVRtdkNvOXkwZnFSdkU4M3NXWERtRjZCWnRSSE1lQQ?oc=5",
+      "pub_date": 1792940220.0,
+      "article_url": "https://futurism.com/robots-and-machines/delivery-robots-database-flock",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/delivery-robots-database-flock.jpg?quality=85&w=2048",
+      "description": "A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-25T13:39:55.131399+00:00"
+  "fetched_at": "2026-10-25T17:26:48.240171+00:00"
 }

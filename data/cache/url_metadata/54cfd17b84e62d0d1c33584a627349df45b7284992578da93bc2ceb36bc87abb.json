@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-25T17:26:24.557123+00:00",
+  "data": {
+    "url": "http://vectorwire.ai/article/ai-agent-containment-fails-at-every-stack-layer-from-hypervisor-to-iam-948563",
+    "title": "AI Agent Containment Fails at Every Stack Layer",
+    "description": "OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the\u2026",
+    "image": "https://vectorwire.ai/img/91c19540-476a-41d7-bab5-e84548b5e4e0?ar=16x9",
+    "favicon": "http://vectorwire.ai/apple-icon.png",
+    "site_name": "Vector Wire",
+    "author": "Vector Wire",
+    "keywords": "AI news,AI intelligence,model benchmarks,AI funding,AI regulation,AI policy,frontier models,AI research,AI industry tracker"
+  }
+}
