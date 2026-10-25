@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-24T23:32:37.387092+00:00'
+updated: '2026-10-25T03:31:55.491220+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 24, 2026 at 23:32 UTC  
+**Last Updated:** October 25, 2026 at 03:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -104,13 +104,27 @@ I’ve successfully implemented point-to-point wireless image transmission using
 
 Title. Ive always been fascinated by Unmanned Aerial Manipulators, since they can not only see the environment, but also change it. The thing is, I know that for a number of reasons they are still not used/adopted. I cannot help but wonder, what could these platforms solve/achieve, once research, actuators, controls and adoption catch up? Id be very interested in hearing what you think/envision, doesnt matter how far-fetched or contrived :)) PD: Image comes from here .
 
-1d ago
+2d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
+
+Axios • 2d ago
+
+---
+
+**[One small leap for a muscle, one giant step for robotics](https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html)**
+
+These robots have real muscles, and they’re finally making big moves. Researchers at ETH Zurich have developed muscle actuators that flex strongly enough to enable small robots to jump, swim, walk and grasp.
+
+ETH Zürich • 3d ago
+
+---
 
 **[Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)**
 
@@ -120,33 +134,9 @@ NVIDIA Developer • 1d ago
 
 ---
 
-**[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Unitree developing AI system to let humanoid robots improve themselves](https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves)**
-
-South China Morning Post • 2d ago
-
----
-
-**[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
-
-Axios • 2d ago
-
----
-
 **[FCC grants Intel waiver to use existing foreign-made robotic devices](https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/)**
 
 Reuters • 2d ago
-
----
-
-**[Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech](https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4)**
-
-WSJ • 1d ago
 
 ---
 
@@ -158,25 +148,37 @@ TechCrunch • 1d ago
 
 ---
 
-**[Tesla's Optimus robots are finally rolling off the production line](https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10)**
+**[Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech](https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4)**
 
-Musk said he expects to begin delivering Optimus to customers at the end of 2027.
-
-Business Insider • 3d ago
+WSJ • 1d ago
 
 ---
 
-**[Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push](https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/)**
+**[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
 
-Reuters • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Elon Musk Hints at Exciting New Capabilities for Tesla’s Optimus Robots](https://www.investopedia.com/market-update-musk-teases-new-sizzle-for-teslas-optimus-robots-tsla-spcx-12188240)**
+**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
-Elon Musk wants another shot at dazzling the public.
+Stanford Report • 2d ago
 
-Investopedia • 2d ago
+---
+
+**[Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography](https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/)**
+
+The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit.
+
+NASA (.gov) • 2d ago
+
+---
+
+**[Subaquatic robot leverages biomimetics for natural movement](https://newatlas.com/robotics/feather-star-underwater-robot/)**
+
+Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That’s exactly what a research group at North Carolina State University has been working on.
+
+New Atlas • 1h ago
 
 ---
 
@@ -184,23 +186,23 @@ Investopedia • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Are robots taking over? I ranked every humanoid robot - only one gets SSS](https://www.youtube.com/watch?v=Eta625JJKqc)**
+
+Robots just learned kung fu. I ranked the best humanoid robots on the market, with real footage of every one. Only one gets SSS.
+
+📺 AI BROS
+
+👁️ 20K • 👍 153 • 💬 69 • ⏱️ 2:54 • 14h ago
+
+---
+
 **[Tesla Bot Gen 4: Elon Musk Reveals the Next Humanoid Robot](https://www.youtube.com/watch?v=IMHwdxfl4ko)**
 
 For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesla Optimus Gen 4: 10 MILLION Robots a Year ...
 
 📺 PRO ROBOTS
 
-👁️ 159K • 👍 2K • 💬 248 • ⏱️ 20:32 • 6d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
-
-Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 122K • 👍 1K • 💬 57 • ⏱️ 9:03 • 6d ago
+👁️ 160K • 👍 2K • 💬 251 • ⏱️ 20:32 • 6d ago
 
 ---
 
@@ -210,27 +212,17 @@ Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was j
 
 📺 REC Anything
 
-👁️ 1.1M • 👍 8K • 💬 922 • ⏱️ 8:29 • 2d ago
+👁️ 1.2M • 👍 8K • 💬 947 • ⏱️ 8:29 • 2d ago
 
 ---
 
-**[Jensen Huang Reveals Microduck Robots at GTC Berlin 2026 Explained](https://www.youtube.com/watch?v=_eVCFuiQoSk)**
+**[Robots Going Completely Wrong Caught on Camera - Part 2](https://www.youtube.com/watch?v=b6xZtNV5ggg)**
 
-NVIDIA's tiny Microduck AI robots explained! Jensen Huang introduced 4 miniature walking robots during the NVIDIA GTC Berlin ...
+Robots going completely wrong caught on camera return in Part 2 with more shocking malfunctions, unexpected behavior, and ...
 
-📺 DPCcars
+📺 MostAmazingTop10
 
-👁️ 32K • 👍 133 • 💬 13 • ⏱️ 5:59 • 1d ago
-
----
-
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
-
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
-
-📺 MACHINEKIND
-
-👁️ 96K • 👍 998 • 💬 89 • ⏱️ 13:57 • 3d ago
+👁️ 124K • 👍 1K • 💬 57 • ⏱️ 9:03 • 6d ago
 
 ---
 
@@ -240,7 +232,37 @@ I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics s
 
 📺 Fin Tek
 
-👁️ 37K • 👍 621 • 💬 33 • ⏱️ 22:57 • 1d ago
+👁️ 39K • 👍 634 • 💬 35 • ⏱️ 22:57 • 1d ago
+
+---
+
+**[Meet MicroDuck  The Tiny AI Robot That Learns to Walk](https://www.youtube.com/watch?v=yJocK2jJZWc)**
+
+Meet the Microduck MD-01, a tiny $399 artificial intelligence robot that can walk, balance, roller-skate, and learn new movements.
+
+📺 DPCcars
+
+👁️ 5K • 👍 40 • ⏱️ 0:57 • 15h ago
+
+---
+
+**[Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist](https://www.youtube.com/watch?v=APKcMzOfg1Y)**
+
+Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist elderly pilgrims, providing mobility, shade, ...
+
+📺 Zeeshan Malik
+
+👁️ 28K • 👍 1K • 💬 3 • ⏱️ 0:10 • 1d ago
+
+---
+
+**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
+
+The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
+
+📺 DPCcars
+
+👁️ 53K • 👍 499 • 💬 169 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -250,37 +272,17 @@ xTerra Robotics is quickly establishing itself as one of India's most advanced r
 
 📺 RuntimeBRT
 
-👁️ 327K • 👍 13K • 💬 354 • ⏱️ 2:55 • 5d ago
+👁️ 329K • 👍 13K • 💬 360 • ⏱️ 2:55 • 5d ago
 
 ---
 
-**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
+**[NVIDIA’s Robot Ducks Steal the Show!](https://www.youtube.com/watch?v=IHBED6nhozE)**
 
-NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
+NVIDIA's adorable little robot ducks just gave everyone a good laugh! During a live demonstration at NVIDIA's event in Berlin, ...
 
-📺 DPCcars
+📺 Converge360
 
-👁️ 1.6M • 👍 12K • 💬 2K • ⏱️ 4:06 • 3d ago
-
----
-
-**[China&#39;s H2-X Robot Bodyguard! Fights Att@ckers &amp; Rescues People? | 92NewsHD](https://www.youtube.com/watch?v=PaxVTwvwZO0)**
-
-China has introduced an advanced humanoid robot designed to demonstrate potential applications in personal protection, ...
-
-📺 92 News HD
-
-👁️ 8K • 👍 167 • 💬 3 • ⏱️ 0:44 • 10h ago
-
----
-
-**[Chinese robotics company debuts humanoid robot designed for protection, responding to emergencies](https://www.youtube.com/watch?v=M5jqkkHwHEU)**
-
-A Chinese robotics company is showing off a humanoid robot built for more than just impressive stunts.
-
-📺 WPLG Local 10
-
-👁️ 76K • 👍 57 • 💬 18 • ⏱️ 1:01 • 3d ago
+👁️ 531K • 👍 7K • 💬 282 • ⏱️ 0:28 • 2d ago
 
 ---
 
