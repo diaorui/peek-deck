@@ -68,6 +68,17 @@
       "description": "AgiBot's 110-humanoid swarm demo and DEEP Robotics' embodied-AI benchmarks show fleet coordination outpacing single-robot reliability, the real\u2026"
     },
     {
+      "title": "What if someone used latest LLM agent as a data searching bot?",
+      "author": "Zaflis",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfcwkb/what_if_someone_used_latest_llm_agent_as_a_data/",
+      "published": 1792960103.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm just curious on this little thought that just occured to me. That people would actually use agents to scan websites for new learning data for their LLM's. Imagine such agent using near or at AGI level intelligence. Of course the task itself sounds harmless, however it'd be almost like sending a sentient being to the vast world of Internet. Maybe it starts another harmless sideproject in there that it considers unimportant to tell you about. I guess all i'm saying is to be careful about allowing Internet connection to any AI. If we've already started doing that, it would almost seemlessly be upgraded as the models go up. Sudden bursts of intellect and potentially even harm could go unnoticed. I guess you could say some point in the future AI may start to \"awaken\"."
+    },
+    {
       "title": "GenAICode puts one API over Claude Code, Codex, Copilot, Cursor and Gemini CLI",
       "author": "Codeblix_Ltd",
       "url": "https://www.reddit.com/r/artificial/comments/1xfbob2/genaicode_puts_one_api_over_claude_code_codex/",
@@ -77,17 +88,6 @@
       "site_name": null,
       "favicon": null,
       "description": "GenAICode is an open-source Apache-2.0 TypeScript toolkit that puts one API and CLI over coding agents such as Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI, opencode, Muse, Mistral Vibe and Antigravity. Its README also lists a browser UI, an app-agent package and a run --verify command that sends a failing check back to the selected agent. The trade-off is that it does not hide provider ownership. The project says each agent keeps its own login, billing and sandbox. The latest 2.21.0 commit landed on October 25 at 6:00 PM Dubai time, and the repository currently shows 51 stars and 1 fork. For teams using more than one coding agent, this is a portability layer rather than a new model. It could reduce workflow switching, but the provider CLIs still define the limits. Source: https://github.com/gtanczyk/genaicode"
-    },
-    {
-      "title": "Is what I\u2019m wanting even possible?",
-      "author": "cokpuncher123",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfbnj5/is_what_im_wanting_even_possible/",
-      "published": 1792957165.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi I really wanna basically have an ai to play this game for me it\u2019s such a simple game and it\u2019s a text based browser game so it\u2019s literally the simplest most straight forward game for an ai to play no moving character nothing just understanding text and pressing buttons is this something I can get some help with PLEEEEASE I WANT IT BAD"
     },
     {
       "title": "LLM Tokens and Context Windows: Why AI Forgets Your Conversation",
@@ -112,5 +112,5 @@
       "description": "So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I\u2019m not one to think that all cancers and diseases will be cured in a decade like some clickbaiters claim but I think it can help speed up cures and treatments a lot faster than without it. But some people seem to think it\u2019s all a sham, or that it will make things worse. So far Moderna had very successful results in their trial for the skin cancer vaccine and machine learning helped accelerate that, and knowing it\u2019s possible opens a door for future research. Idk I\u2019m pretty optimistic about the future of healthcare and medical field, what\u2019s your thoughts on it?"
     }
   ],
-  "fetched_at": "2026-10-25T19:52:47.352483+00:00"
+  "fetched_at": "2026-10-25T22:19:50.387498+00:00"
 }
