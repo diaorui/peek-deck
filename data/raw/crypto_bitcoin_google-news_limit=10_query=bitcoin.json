@@ -15,16 +15,6 @@
       "description": null
     },
     {
-      "headline": "Can Bitcoin Get Back Above $85,000 in November?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlhsWE5fQl85bGV5RFlhZHRUNVFFdU9jVUpOUTJIV21FYm9xZy0zZWE5WldzVm5URlR4UE5oVzJMdVktSElIa3hVSU9WX1JKak5oWmFGS01DdzZhNlBQSWY3WU51M1haR2EtS3JjYlVXWHdPdUF2TEUxc2VQbjJKRU9ScmFyRUlTekFJRVNTZmVKaEYy?oc=5",
-      "pub_date": 1792878039.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-back-above-85-000-214039495.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a1c287e3f0c71d3e7f6330ba710df2bc63996747d7c25b4182426e3c47e6d2b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fde1123179865fc534724b1f1efe19a15.jpg",
-      "description": "Bitcoin fell just $150 short of $85,000 before sellers took over, and now four price levels, restless ETF flows, spiking oil prices, and a looming election stand between the crypto and a November recovery."
-    },
-    {
       "headline": "Bitcoin \u2018Going To Zero\u2019\u2014Sudden Shock Flip Sparks Imminent Price Crash Fears",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -33,6 +23,16 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Is Bitcoin a Buy Right Now?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbERtMndtNUtLYmtlbTcyLUdkWHFLaVlnQ2VpZVdNMl9yWGRqUXEwVGJMeHdwVDBWVVY5aXE1eGtHbmdFMm5NOGlsT1ZsbXUxV2xSRVVCSW5hSU9TZ1pMNldhWmNUMS1zUDZzbVJ2enZxRldxZUd1RHBqOXI3OTJwY1lqbWUtUTA?oc=5",
+      "pub_date": 1792844400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-now-122000654.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7b214cb7cf8c499a4e83553e224564041a884bc7e4f482d356aba52bfba58b8f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd51c02aea4b4ed16d1c794574e318b6e.jpg",
+      "description": "Forget this year's lackluster returns. Bitcoin could be the top-performing asset of the next decade."
     },
     {
       "headline": "Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow",
@@ -65,16 +65,6 @@
       "description": "Bitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received."
     },
     {
-      "headline": "Would you take out a mortgage backed by bitcoin?",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0tFVGl1YkJMN3E4VFVEX3IyY1NkeC05NmZqbHBuY01iNGw4UTExcUQ4Yjc2QnAwcUF4dVZCZ3prNUg0dld2TVVkcnFyR0dOZGNpLTRUR0ZOZ0xYMFpxaFBtaElzUndQdHRJWnp2TTY3bnVCWHBBTGpxZWlGRHFLUjhYX3g?oc=5",
-      "pub_date": 1792681203.0,
-      "article_url": "https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Is Bitcoin Dead? CZ Says Those Calls Have Marked the Best Times to Buy",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -85,26 +75,36 @@
       "description": "Is Bitcoin dead? Searches just hit their highest since FTX, and CZ says such claims have marked the best times to buy. Here is the record."
     },
     {
-      "headline": "'God, that ain\u2019t good' | Fire at Soperton bitcoin mining facility sends two workers to Augusta burn center",
-      "source": "13WMAZ",
-      "source_url": "https://www.13wmaz.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZlV1NzhLUWNHVUh6b2tCMmRrd25BUTM0MGpZbURPWnBfMW83WWw2MXJfOEhDSkdPc1hCcF9qanZBRGhDR2s0YXF3RGxUZ2ZjQ3BJMVNLSklfeTllZ1loMHJwQk1MN2MySHBnVjY5ZmVtN2lrUERiNWljSjlfNV9PTFlyNWRvSEVtWjBQd1VHMy12WXRsZGtiWU02ejFUeWlGcDJQa0Mwdy1pWVN4Q1pGTDV1LWJzc2VOaXQ1V0IzSDFnOXBLam9JY0hSekExR0E4U3UyYnRySjZ0bTluc0Z4UE4wa0tHU1Y0MzlUOWV0VVVocm5GZWc?oc=5",
-      "pub_date": 1792724820.0,
-      "article_url": "https://www.13wmaz.com/article/news/local/fire-at-soperton-bitcoin-mining-facility-sends-two-workers-to-augusta-burn-center/93-5cb3ed7c-f033-442a-a43a-710f5d251ed1",
+      "headline": "IBIT: I'm Waiting For $75,000 Bitcoin (NASDAQ:IBIT)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzUDh2RG9vZndIRVl1ZEo5bkx0RndtM19RaVphRUhzQl9zMkNEOTFpSkY1SGR3TzlkN1hyRk5EaUdlOFlPX1Z5RG9aNFROc1pFUDBEYmo4dFo0M2lPS2JWemJvV3hVekwxU2ZaT3pZMVNUWjBLNWplck1pNWFTbWM?oc=5",
+      "pub_date": 1792852798.0,
+      "article_url": "https://seekingalpha.com/article/4957230-ibit-im-waiting-for-75000-bitcoin",
       "image": null,
       "description": null
     },
     {
-      "headline": "This Top Investment Strategist Thinks a Bitcoin Supercycle Is Coming Soon. Here's Why He's Wrong.",
+      "headline": "Bitcoin \u2013 Why Coinbase warns BTC could fall to $75K amid macro risks",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnVJdDhtdGxqTGQwZG1xZXZTQjUyUFMzSUpTN2xiVHBTTDVGS0lGRllEa0NGU1BlVlZOUDdmalNZbmd6RnZyRE92V05xWGdzdE5zbXRtWnlWbXpXdm0yVk9fNElMMVpTOGt5dXM5cENEOXpOck9VakZKeXIzSlV1ZzBaMm5hcm1SMnh6T2R5amhSUQ?oc=5",
+      "pub_date": 1792886446.0,
+      "article_url": "https://ambcrypto.com/bitcoin-why-coinbase-warns-btc-could-fall-to-75k-amid-macro-risks/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/10/Bitcoin-FI-1-1-e1792840441897.jpg",
+      "description": "Options traders were actively hedging against downside risks."
+    },
+    {
+      "headline": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXlneDNUQmpaak1iY3BrcS1RLVpuVHpCd1Etd1NlMlRxOWtjWEVwZWdHTjlTRm1KVkJ5T2xySDJ4eWRlTlo3MFdpY05oQXhqZ1FMZ0FFZUg5eGxKUE1JWlEteXNwWmNURGFjdWNFS0c4YWZ3MEhQSGhCeDVBRjFpYS1fMld0S2NDYzdrWWVQRHJTc1VOLUJXSw?oc=5",
-      "pub_date": 1792738800.0,
-      "article_url": "https://www.fool.com/investing/2026/10/23/this-top-investment-strategist-thinks-a-bitcoin-su/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891136%2Fbitcoin-as-a-bait-blockchain-cryptocurrency-trap.jpg&w=1200&op=resize",
-      "description": "Believing in a Bitcoin supercycle doesn't really change how to invest in it."
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPei1jcHJQVGVid29ZNFlWelF1eTdnU050dTNzUVhLS3kxY21pOFg3TnNiMGJJYjhuVjVsRG9yZURZNW1mOVZhalhiY2x6MkY3MVdQQ210Yk1oYnFWbGNscThWdUxjOXBiWVZmMDQzenE3WHJ4eThfejcxVVVqRUlSdmFrcDFybTBzcm5DYVFqTm9QZl9XcXhqVw?oc=5",
+      "pub_date": 1792743300.0,
+      "article_url": "https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891827%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
+      "description": "Cardano could be headed for a big comeback in 2027."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T23:32:31.449250+00:00"
+  "fetched_at": "2026-10-25T03:31:52.000004+00:00"
 }
