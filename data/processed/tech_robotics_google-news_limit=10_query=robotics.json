@@ -5,36 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
-      "source": "NVIDIA Developer",
-      "source_url": "https://developer.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB?oc=5",
-      "pub_date": 1792768213.0,
-      "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
-      "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
-    },
-    {
-      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
-      "pub_date": 1792744160.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Unitree developing AI system to let humanoid robots improve themselves",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmVQNnY5c2p2Y0hzUTdtajJPYlBIZEwxTzBXUWkxNHlHNmM0SlhxSFlXejhUYjgxVTFGMm92a0xadUJvaXBNbTExOUZQYkZyV3RZMTVUc0h4bjIxYU51XzMwVjFvdjJuR0psTlZFNExaY0tULU0wUU42cm5XUGh2ZmdEV2dKX0FQWWgxYlBaeW1pM21PVkU3ME5GMDVCNVRtX3BMM0UwN3lTQmhGdUQzUlZuVjVMWEQ1Q1Y3U2pn0gG-AUFVX3lxTE9zOTVxWTZzTmhUbGg0Q2lXTTFnSk5uNDVweDY2ZEIyYjRiTTJiSlFmMlhMNHVLLURUU1Rvb3lZNEJnRG9TRlNtNFUzbHY1b0VnQ01sdmQ1VjhEOVQ3b1RCaGttQWJ4WjBnSVZtd0RBbEFVMVFiT0c5VTkweS1aeFNsSExQY0t0TU9vdVBqZlhHVEFzY1ktaVc4eHpPRXhNWTFJQ19ERW5ySjF2bXBkeGxjNDFoVWg1VHFlSEhnOXc?oc=5",
-      "pub_date": 1792675812.0,
-      "article_url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Exclusive: Formic raises fresh funding to put more robots on factory floors",
       "source": "Axios",
       "source_url": "https://www.axios.com",
@@ -45,22 +15,32 @@
       "description": null
     },
     {
+      "headline": "One small leap for a muscle, one giant step for robotics",
+      "source": "ETH Z\u00fcrich",
+      "source_url": "https://ethz.ch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1JFQXE1bVNLaGl0WG9DM0hGeHR2SUZWMllveFBnMkMwbWNEVTZSNzlieHhzdEVESWJhOFUzRFJ6LWoxdkdFSDBNSkEtZmcyLXI1SDE0eDY1UW5jbVVnX1hBeXdOSHBmUGRaV29zMm9leE0wZlFfNFo5dTc0YkFkMXZoSEtDcEdRVVQtWFZXNmkzV0FtYVppUTVmR09MMG1aQjJGQkZmTkxWejk1cWZnREJlMkFlbWh1?oc=5",
+      "pub_date": 1792627200.0,
+      "article_url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html",
+      "image": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.290801338.png",
+      "description": "These robots have real muscles, and they\u2019re finally making big moves. Researchers at ETH Zurich have developed muscle actuators that flex strongly enough to enable small robots to jump, swim, walk and grasp."
+    },
+    {
+      "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
+      "source": "NVIDIA Developer",
+      "source_url": "https://developer.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB?oc=5",
+      "pub_date": 1792768213.0,
+      "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
+      "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
+    },
+    {
       "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
       "pub_date": 1792702800.0,
       "article_url": "https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGNJTkdncS1GRkJwWWRvMHZMMkFFTks1c1ZrTnpTU3gxN3dVbXBLemxiRTZVaFRmLUZoY2dWSm5tVU10QXRpQ2Z6RHZDZElwMEswMllSN2MxSlFBbFZpWEZmWlJfUHZCYVRlU1hjWDB2cnVKQW1vWUJZcUNSRURlZG53TzBzUkQ4UUtKcHJoTkZBbTlNeEVLbW1Nc3V5dTA?oc=5",
-      "pub_date": 1792771025.0,
-      "article_url": "https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4",
       "image": null,
       "description": null
     },
@@ -75,36 +55,56 @@
       "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
     },
     {
-      "headline": "Tesla's Optimus robots are finally rolling off the production line",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5",
-      "pub_date": 1792622220.0,
-      "article_url": "https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10",
-      "image": "https://i.insider.com/6ad93ea9dc67b5b4d01f6415?width=1200&format=jpeg",
-      "description": "Musk said he expects to begin delivering Optimus to customers at the end of 2027."
-    },
-    {
-      "headline": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2hUYVoxVEgxUmdpSW1qZ0ZlcTJnRUJPLVhjUS12cExoTDBZbFlfNHVmejZoVFhBZ3VxNTc1NThRVkZnVTNvVUJXYThLcTduSjlGVkVlX0xiTDhNSkNjN09lblZJeVZEWW9BZXRqS05PY2tBRUxzU3NaSFlxdDY2V1JGMHBpbFdzRlIwTlRXQ2twVHN5MEhIQjVIMXJQVzlzWHo5aFo2alM4X1hjSlBEcGVlZ0V3WHhrN2cybWxKTU5Edw?oc=5",
-      "pub_date": 1792676853.0,
-      "article_url": "https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/",
+      "headline": "Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGNJTkdncS1GRkJwWWRvMHZMMkFFTks1c1ZrTnpTU3gxN3dVbXBLemxiRTZVaFRmLUZoY2dWSm5tVU10QXRpQ2Z6RHZDZElwMEswMllSN2MxSlFBbFZpWEZmWlJfUHZCYVRlU1hjWDB2cnVKQW1vWUJZcUNSRURlZG53TzBzUkQ4UUtKcHJoTkZBbTlNeEVLbW1Nc3V5dTA?oc=5",
+      "pub_date": 1792770900.0,
+      "article_url": "https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4",
       "image": null,
       "description": null
     },
     {
-      "headline": "Elon Musk Hints at Exciting New Capabilities for Tesla\u2019s Optimus Robots",
-      "source": "Investopedia",
-      "source_url": "https://www.investopedia.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZE1LOWU4cjFfcFZnMGhzbXdselAySTdKVjZXcGQ3VjZGNkFKTWZYaEhLelp4dDZoOUlNaXZJeG5BUlFoLS0yUGtSWjR5Y1BGS3ZDaFU3NlUxVDFTUmpkZXRqV0YwMVVEeGd2TUJMSWRQcTkwVFBIWkxac01CajQxQTdXbk1fWU5LTE5sZjhKdHZ3TGM3Ym5JMThmM004ZHdET3NlcXB2MnVGbjljWHRz?oc=5",
-      "pub_date": 1792688215.0,
-      "article_url": "https://www.investopedia.com/market-update-musk-teases-new-sizzle-for-teslas-optimus-robots-tsla-spcx-12188240",
-      "image": "https://www.investopedia.com/thmb/sqaqI1A1Cv6RZpZy_M_l9YocYco=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2299322627-97defd81eda6469491f9ddf2a7e1cd81.jpg",
-      "description": "Elon Musk wants another shot at dazzling the public."
+      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
+      "pub_date": 1792744160.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Researchers open autonomous robotics learning to the world",
+      "source": "Stanford Report",
+      "source_url": "https://news.stanford.edu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
+      "pub_date": 1792673724.0,
+      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJkX0hkUF9kVmtVS0VhQXpLV0JFN3BrUFRLcjI3R1ItajhpRS03cm5yamlzVW1lQ2RJUWNabGlLVE5jb2stSmJma1lYaFVoWWxfM3ZnQ3M0eXp6N1NYdWwtRU1QcWhvZm80bEExdHV4S3J6V0hmYlgyLUhqb3BycUtaZVRkY0JFOWFLX2dDckVOMkhxVXZWcnRSVGU4Mk0wTHJUZ3ZYRlhyNUt3bHFDeEpMM0U3bEVEQ0U5Qzlsc0t3OC1j?oc=5",
+      "pub_date": 1792690723.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
+      "image": "https://images-assets.nasa.gov/image/jsc2026e037789/jsc2026e037789~large.jpg",
+      "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
+    },
+    {
+      "headline": "Subaquatic robot leverages biomimetics for natural movement",
+      "source": "New Atlas",
+      "source_url": "https://newatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SWGEzVXNqVUhoQlV3VjlHYUFlNnAtNTlDbkZIRE9TeWUwWXd0MmdWcDNadVJBV1JMLVlnRHMwODluajNpTnhJdjJaVGJnMjlwTGlQRk9BelJ2cGNPRFF6RGZPUzFteU5xOVMzZw?oc=5",
+      "pub_date": 1792894393.0,
+      "article_url": "https://newatlas.com/robotics/feather-star-underwater-robot/",
+      "image": "https://assets.newatlas.com/dims4/default/4535412/2147483647/strip/true/crop/1448x760+0+102/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F68%2F19%2F2008336948509ad112e43375b98a%2Ffeather-star-in-turquoise-waters.jpeg&na.image_optimisation=0",
+      "description": "Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That\u2019s exactly what a research group at North Carolina State University has been working on."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-24T23:32:35.603419+00:00"
+  "fetched_at": "2026-10-25T03:31:51.587206+00:00"
 }

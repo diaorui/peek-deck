@@ -16,27 +16,8 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 18844,
+      "github_stars": 19127,
       "project_page": "https://harness2.github.io/"
-    },
-    {
-      "id": "2508.02739",
-      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The success of large-scale pre-training paradigm, exemplified by Large\nLanguage Models (LLMs), has inspired the development of Time Series Foundation\nModels (TSFMs). However, their application to financial candlestick (K-line)\ndata remains limited, often underperforming non-pre-trained architectures.\nMoreover, existing TSFMs often overlook crucial downstream tasks such as\nvolatility prediction and synthetic data generation. To address these\nlimitations, we propose Kronos, a unified, scalable pre-training framework\ntailored to financial K-line modeling. Kronos introduces a specialized\ntokenizer that discretizes continuous market information into token sequences,\npreserving both price dynamics and trade activity patterns. We pre-train Kronos\nusing an autoregressive objective on a massive, multi-market corpus of over 12\nbillion K-line records from 45 global exchanges, enabling it to learn nuanced\ntemporal and cross-asset representations. Kronos excels in a zero-shot setting\nacross a diverse set of financial tasks. On benchmark datasets, Kronos boosts\nprice series forecasting RankIC by 93% over the leading TSFM and 87% over the\nbest non-pre-trained baseline. It also achieves a 9% lower MAE in volatility\nforecasting and a 22% improvement in generative fidelity for synthetic K-line\nsequences. These results establish Kronos as a robust, versatile foundation\nmodel for end-to-end financial time series analysis. Our pre-trained model is\npublicly available at https://github.com/shiyu-coder/Kronos.",
-      "ai_summary": "Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.",
-      "hf_url": "https://huggingface.co/papers/2508.02739",
-      "arxiv_url": "https://arxiv.org/abs/2508.02739",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
-      "upvotes": 62,
-      "num_comments": 4,
-      "published_at": "2025-08-02T09:15:59.000Z",
-      "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 43514,
-      "project_page": null
     },
     {
       "id": "2412.20138",
@@ -58,6 +39,25 @@
       "project_page": null
     },
     {
+      "id": "2508.02739",
+      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The success of large-scale pre-training paradigm, exemplified by Large\nLanguage Models (LLMs), has inspired the development of Time Series Foundation\nModels (TSFMs). However, their application to financial candlestick (K-line)\ndata remains limited, often underperforming non-pre-trained architectures.\nMoreover, existing TSFMs often overlook crucial downstream tasks such as\nvolatility prediction and synthetic data generation. To address these\nlimitations, we propose Kronos, a unified, scalable pre-training framework\ntailored to financial K-line modeling. Kronos introduces a specialized\ntokenizer that discretizes continuous market information into token sequences,\npreserving both price dynamics and trade activity patterns. We pre-train Kronos\nusing an autoregressive objective on a massive, multi-market corpus of over 12\nbillion K-line records from 45 global exchanges, enabling it to learn nuanced\ntemporal and cross-asset representations. Kronos excels in a zero-shot setting\nacross a diverse set of financial tasks. On benchmark datasets, Kronos boosts\nprice series forecasting RankIC by 93% over the leading TSFM and 87% over the\nbest non-pre-trained baseline. It also achieves a 9% lower MAE in volatility\nforecasting and a 22% improvement in generative fidelity for synthetic K-line\nsequences. These results establish Kronos as a robust, versatile foundation\nmodel for end-to-end financial time series analysis. Our pre-trained model is\npublicly available at https://github.com/shiyu-coder/Kronos.",
+      "ai_summary": "Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.",
+      "hf_url": "https://huggingface.co/papers/2508.02739",
+      "arxiv_url": "https://arxiv.org/abs/2508.02739",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
+      "upvotes": 62,
+      "num_comments": 4,
+      "published_at": "2025-08-02T09:15:59.000Z",
+      "github_repo": "https://github.com/shiyu-coder/Kronos",
+      "github_stars": 43575,
+      "project_page": null
+    },
+    {
       "id": "2609.18063",
       "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
       "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
@@ -73,7 +73,7 @@
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 6898,
+      "github_stars": 6954,
       "project_page": null
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
-      "github_stars": 1720,
+      "github_stars": 1760,
       "project_page": "https://openmoss.ai/MOSS-Image/"
     },
     {
@@ -168,30 +168,30 @@
       "num_comments": 1,
       "published_at": "2026-03-04T07:55:34.000Z",
       "github_repo": "https://github.com/wuyoscar/ISC-Bench",
-      "github_stars": 2280,
+      "github_stars": 2313,
       "project_page": "https://wuyoscar.github.io/ISC-Bench"
     },
     {
-      "id": "2610.28698",
-      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-      "authors": "Kuan Zhang, Yukun Chen, Zhihao Yang et al. (11 authors)",
-      "organization_name": "THUSI-Lab",
-      "organization_fullname": "Tsinghua Spatial Intelligence Lab",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/669a6a4a7f28c43e09b7a6f5/0K36706OPoFd7oKA9p00w.png",
-      "summary": "Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, controls, and objectives remains unclear. We investigate this question through a controlled study of continued pre-training (CPT) across three axes: data volume, diversity, and model size. Our 120 training configurations span four model sizes from 0.8B to 27B, six data budgets from 50 to 1,600 hours, and five mixtures ranging from Minecraft-only data to diverse multi-world corpora. We assess performance and generalization using three-level validation losses and gameplay benchmarks from in-corpus worlds to unseen worlds. Our results show: (1) more data improves in-corpus performance, diversity improves transfer to related worlds with limited gains in distant worlds, and model size improves data efficiency but generalizes worse to distant worlds under single-world training; (2) we observe an early interface phase with broad cross-world benefits and a later world phase with gains narrowed to in-corpus and related worlds, and fit an empirical scaling law relating validation loss to data volume, diversity and model size; and (3) our models are competitive with Minecraft specialists and frontier models in 3D worlds, and perform best in real-time settings. However, the limits of imitation and persistent gaps in distant worlds suggest that building generalist embodied agents requires richer training stages beyond continued pre-training.",
-      "ai_summary": "Continued pre-training across data scale, diversity, and model size improves embodied learning in virtual worlds but reveals limits in distant-world generalization, motivating richer training beyond imitation.",
-      "hf_url": "https://huggingface.co/papers/2610.28698",
-      "arxiv_url": "https://arxiv.org/abs/2610.28698",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.28698.png",
-      "upvotes": 73,
-      "num_comments": 2,
-      "published_at": "2026-10-19T20:00:00.000Z",
-      "github_repo": "https://github.com/THUSI-Lab/GameScaling",
-      "github_stars": 341,
-      "project_page": "https://gamescaling.github.io"
+      "id": "2407.16741",
+      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
+      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
+      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2407.16741",
+      "arxiv_url": "https://arxiv.org/abs/2407.16741",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
+      "upvotes": 90,
+      "num_comments": 7,
+      "published_at": "2024-07-23T13:50:43.000Z",
+      "github_repo": "https://github.com/opendevin/opendevin",
+      "github_stars": 91738,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-24T23:32:25.918240+00:00"
+  "fetched_at": "2026-10-25T03:31:41.705514+00:00"
 }

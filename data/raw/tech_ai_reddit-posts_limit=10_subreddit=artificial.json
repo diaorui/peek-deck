@@ -24,6 +24,39 @@
       "description": "I know this isn\u2019t a novel thought but it has been bothering me for a while and I simply want to get it off my chest (written by a human, btw, except the \u201c4 commitments\u201d.) Every discovery, invention, or other contribution to human aggregate knowledge by our ancestors has been gathered into these models. It is the \u201cSumma Scientiae Humanae\u201d the sum of all human knowledge. All of our ancestors built this. Across history every earned morsel of knowledge has been hunted and gathered by our forebears. The mothers and fathers of our species left this for us. We are ALL the heirs. As such, no individual, no corporation, no culture, and no nation should rightfully \u201cown\u201d . These companies should be considered stewards or librarians of our collective inheritance. While AI is incredible and many of us have mixed feelings about the approaching singularity to say the least, we never gave these tech executives our consent to roll the dice on humanities future. They have been amply rewarded. But it\u2019s here now so we should insist that the unimaginable wealth that it is creating should eventually be explicitly and legally handed back to all humanity. Something like a Universal Inheritance Covenant, enforced by law if necessary. A company could establish a public benefit corporation with an accompanying irrevocable trust, designed around four commitments: Recognition: Humanity's accumulated knowledge is a common inheritance, and the company is its steward. Temporary private ownership: Founders, employees, and investors retain defined rights to compensation and returns. Mandatory vesting: At a legally specified milestone, agreed ownership interests transfer to an independent Humanity Trust. Universal benefit: The trust controls the transferred equity and exercises its economic and voting rights on behalf of humanity, including future generations. I would guess eventually we will likely legally enforce this anyway, as our vote will be the only thing left when AI has displaced almost everyone in terms of economic contribution through labor. But I\u2019m hoping to see this recognition of shared inheritance earlier. Humanity should not have to buy back its collective intelligence. Rant over. I feel better."
     },
     {
+      "title": "People are starting to use AI for FB Marketplace listings and it\u2019s making me mad",
+      "author": "bayls215",
+      "url": "https://www.reddit.com/r/artificial/comments/1xenhio/people_are_starting_to_use_ai_for_fb_marketplace/",
+      "published": 1792885905.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A leather couch was listed. Pristine condition. Little wrinkling. Showed up and the couch was so worn down. I wouldn\u2019t have looked at the listing in the first place had they used legitimate photos. It\u2019s so deceiving. Don\u2019t do this."
+    },
+    {
+      "title": "I didn't want to pay for a subscription, so Claude made tools for my business instead.",
+      "author": "ARK-nano",
+      "url": "https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/",
+      "published": 1792878091.0,
+      "thumbnail": "https://preview.redd.it/xd9d2xqvihxh1.png?width=140&height=86&auto=webp&s=ba21151e08622e69ace8c1fb464e353b118de6de",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I started my own tech repair business and while I was searching for some form of ticket system for tracking customers and repairs, I realized it would just be easier and save me money if Claude made it for me instead! After making (or Claude did) my software for planning & customer tickets / inventory tracking, I got carried away and made an all-in-one diagnostic software as well... I happened to save upwards of $300+ a year on paid software... I thought I'd share in case anyone wants to use them or take a look :) I find making software this way is especially useful as you can just build the features you need specifically; for instance, I use Zoho mail and Quickbooks, which I just integrated using their API. Anyways, I gain nothing from your views or downloads or anything, no monetization, all open source and free to use and edit. Just super excited to share these little projects! I'm quite impressed by how simple it was, and excited to see the future for AI, even if it is a little terrifying lol. First project: A free, open-source organizer for Windows: notes, calendar, customers, tickets, money and a locked vault in one calm app. Your data stays on your computer. https://glr-p.github.io/plannr/ Plannr - All-In-One Ticket system, note taking & organizer. (Names & Info not real people.) Second project: Portable all-in-one Windows diagnostic tool: the first thing to open when a PC has a problem https://glr-p.github.io/Troubleshootr/"
+    },
+    {
+      "title": "OpenAI and Anthropic support OSS maintainers. Do Chinese AI companies offer similar programs?",
+      "author": "DueHearing1315",
+      "url": "https://www.reddit.com/r/artificial/comments/1xerrbz/openai_and_anthropic_support_oss_maintainers_do/",
+      "published": 1792898789.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I was looking at the OSS programs from OpenAI and Anthropic and started wondering whether Qwen, DeepSeek, GLM, Kimi, or MiniMax offer anything similar. I mean free coding subscriptions or API credits for people maintaining open-source projects, rather than the usual signup credits. I tried searching but couldn\u2019t find much. There\u2019s a Qiniu program that offers credits for AI-related open-source projects, so there are at least some options. What I\u2019d find useful is something like: you maintain a project, show your contributions, and apply for access to coding tools to help keep it going. Has anyone here received that kind of support from a Chinese AI company? Would appreciate links or firsthand experiences. Maybe I\u2019m just looking in the wrong places."
+    },
+    {
       "title": "Meta\u2019s new commercial terms say if its AI makes a mistake, it will legally be the customer\u2019s fault",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1xdngrd/metas_new_commercial_terms_say_if_its_ai_makes_a/",
@@ -35,15 +68,26 @@
       "description": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners."
     },
     {
-      "title": "Quiz: characters, words and tokens are different measures of text length, and LLM limits use tokens",
-      "author": "ClickOk5811",
-      "url": "https://www.reddit.com/r/artificial/comments/1xedvbq/quiz_characters_words_and_tokens_are_different/",
-      "published": 1792861298.0,
+      "title": "Apollo Hospitals deploys Intuitive's da Vinci 5 surgical robot in Bengaluru",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xepbrk/apollo_hospitals_deploys_intuitives_da_vinci_5/",
+      "published": 1792891260.0,
+      "thumbnail": "https://external-preview.redd.it/MAw6hRHUKDIwg1UreD827c5CcZxFa7HVunwusdDKckQ.jpeg?width=640&crop=smart&auto=webp&s=c4b6fa17ef4ef7f8dac90e125537045ff63faace",
+      "external_url": "http://vectorwire.ai/article/apollo-hospitals-deploys-intuitive-s-da-vinci-5-surgical-robot-in-bengaluru-ba3606",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Apollo Hospitals' Bengaluru facility is among the first in India to deploy Intuitive's da Vinci 5 robotic surgical system, now operating across five\u2026"
+    },
+    {
+      "title": "Unintended consequences of AI on academic research",
+      "author": "DocBigBrozer",
+      "url": "https://www.reddit.com/r/artificial/comments/1xeobab/unintended_consequences_of_ai_on_academic_research/",
+      "published": 1792888247.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Short true-or-false quiz on text length in LLMs. Details vary by model and tokenizer, so treat the answers as general behavior and check the one you use. The same sentence in English and in Portuguese or Japanese uses about the same number of tokens. One word is one token. A model\u2019s context window limit applies only to your prompt. Two different models will report the same token count for the same text. A long number or an unusual identifier is usually one token. Answers below. . . . Answers: False in general. Tokenizers are trained on text distributions, and many split non-English text into more tokens than a similar English sentence. The size of the gap depends on the tokenizer. False. Common words are often one token, but rarer words get split into pieces. For English, a rough rule of thumb is that a token is somewhat less than one word. Code, punctuation and numbers behave differently. False. The window covers input and output together, and some models also count internal reasoning tokens. A long prompt leaves less room for the answer, and the maximum output has its own separate limit. False. Different model families use different tokenizers, so the same text can have different counts. A count from one provider\u2019s tokenizer is only an estimate for another. Usually false. Long numbers and rare strings, like IDs or hashes, are often split into several tokens. Why it matters in practice: Cost and limits are in tokens, so estimating from characters or words can be off, especially for non-English text, code and structured data. A \u201cmax N characters\u201d rule in a UI doesn\u2019t map to a token budget. Use the tokenizer or token-counting tool for the model you actually call before sizing prompts. Which of these did you assume was true when you started?"
+      "description": "Academia has been about publishing to advance science and get recognition, but in the future, if you're working on a cutting edge maths or physics problem, why would you make your advancement public? Especially if it is going to get stolen and fed into a system that will replace you. Sadly, I can imagine a world where the bleeding edge becomes closed again, as it has been for most of human history"
     },
     {
       "title": "AWS AI cloud capacity sold out through 2027, 2028 bookings filling fast",
@@ -66,51 +110,7 @@
       "site_name": "hotminute.co.uk",
       "favicon": "https://hotminute.co.uk/favicon.ico",
       "description": null
-    },
-    {
-      "title": "Ok Since When Did Knowledge Become Intelligence?",
-      "author": "SuzannahB1001",
-      "url": "https://www.reddit.com/r/artificial/comments/1xeey7f/ok_since_when_did_knowledge_become_intelligence/",
-      "published": 1792863914.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've been involved in technology for nearly 30 years, and I've watched some extraordinary developments. Artificial intelligence is undoubtedly one of them, but I'm becoming increasingly curious about the assumption that AI is somehow more intelligent than humanity at this juncture. Really? According to whom, and by what measure? AI systems have access to what amounts to an extraordinary library of human knowledge. Imagine swallowing the entire Encyclopaedia Britannica, everything written before it and a good deal of what has been published since. Impressive? Absolutely. But possessing information and knowing how, when and why to apply it are entirely different things. And this is where I believe current AI has some rather significant gaps. Nuance. Nuance is not simply recognising patterns or providing a technically correct response. It involves understanding context, intention, circumstances, consequences and sometimes the significance of what hasn't been said. It requires knowing when the obvious answer isn't necessarily the right one. I recently had an interesting experience asking two AI systems to examine some court orders. Both initially approached the outcome by assessing individual items, essentially counting what had been granted and what hadn't. What they missed was my actual objective. I had gone into court wanting one particular outcome, and I had achieved it. Everything else was a bonus. Both systems had the information. Both could interpret the words. Yet neither initially appreciated the significance of what I was trying to accomplish. It took further conversation, explanation and correction before the penny dropped. And there's another dimension to this. Human experience brings something to judgement that cannot simply be measured by the amount of information available. A mother raising children, a nurse comforting someone in distress, or a person navigating thirty years of professional relationships may recognise subtleties that aren't immediately apparent in the information presented. Experience does count for a lot. That doesn't make us infallible. My god, we're really good at getting things wrong all the time and over and over again! But our intelligence is shaped by experience, emotion, relationships, consequences and an enormous capacity to adapt to circumstances. AI can recognise and reason about many of those things too but it can also get a bee in it's bonnet as well. Recognising a nuance and consistently applying nuanced judgement are not necessarily the same thing. I ask because I am encountering this quite often when using AI. It's like it misses context and goes off on these inexplicable tangents. Does this happen to other users?"
-    },
-    {
-      "title": "Short overview of models that i used",
-      "author": "Blazej_kb",
-      "url": "https://www.reddit.com/r/artificial/comments/1xelqv9/short_overview_of_models_that_i_used/",
-      "published": 1792880932.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "chatgpt - best for daily use, good customization, swear if i tell him to, big limits, doesn\u2019t block questions, just uses worse model, boring, no personality grok - lot of free uses, can generate / use a lot of photos for free, great customization, cool personality, isn\u2019t boring does what i tell him to do without unnecessary crap, most stupid of those 3 claude - frighteningly smart, if it doesn\u2019t support file type it makes its own interpreter, low amount of tokens for free, locks you out after reaching limit what are your thoughts about these 3?"
-    },
-    {
-      "title": "I didn't want to pay for a subscription, so Claude made tools for my business instead.",
-      "author": "ARK-nano",
-      "url": "https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/",
-      "published": 1792878091.0,
-      "thumbnail": "https://preview.redd.it/xd9d2xqvihxh1.png?width=140&height=86&auto=webp&s=ba21151e08622e69ace8c1fb464e353b118de6de",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I started my own tech repair business and while I was searching for some form of ticket system for tracking customers and repairs, I realized it would just be easier and save me money if Claude made it for me instead! After making (or Claude did) my software for planning & customer tickets / inventory tracking, I got carried away and made an all-in-one diagnostic software as well... I happened to save upwards of $300+ a year on paid software... I thought I'd share in case anyone wants to use them or take a look :) I find making software this way is especially useful as you can just build the features you need specifically; for instance, I use Zoho mail and Quickbooks, which I just integrated using their API. Anyways, I gain nothing from your views or downloads or anything, no monetization, all open source and free to use and edit. Just super excited to share these little projects! I'm quite impressed by how simple it was, and excited to see the future for AI, even if it is a little terrifying lol. First project: A free, open-source organizer for Windows: notes, calendar, customers, tickets, money and a locked vault in one calm app. Your data stays on your computer. https://glr-p.github.io/plannr/ Plannr - All-In-One Ticket system, note taking & organizer. (Names & Info not real people.) Second project: Portable all-in-one Windows diagnostic tool: the first thing to open when a PC has a problem https://glr-p.github.io/Troubleshootr/"
-    },
-    {
-      "title": "GPT and Claude Or GPT and Argon/Antigravity?",
-      "author": "jsmith19977",
-      "url": "https://www.reddit.com/r/artificial/comments/1xebc1d/gpt_and_claude_or_gpt_and_argonantigravity/",
-      "published": 1792855175.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Trying to decide which combination is the best use of money. I do coding and security work. Signed up for the top google level this month and trying to get up to speed on antigravity, feels clunky compared to claude and gpt having the standard Gemini chats completely separate from the coding solutions."
     }
   ],
-  "fetched_at": "2026-10-24T23:32:14.663453+00:00"
+  "fetched_at": "2026-10-25T03:31:31.636219+00:00"
 }
