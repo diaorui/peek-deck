@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 19127,
+      "github_stars": 19389,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 43575,
+      "github_stars": 43684,
       "project_page": null
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2610.23374",
       "arxiv_url": "https://arxiv.org/abs/2610.23374",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.23374.png",
-      "upvotes": 100,
+      "upvotes": 102,
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
@@ -111,7 +111,7 @@
       "num_comments": 3,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 2517,
+      "github_stars": 2549,
       "project_page": "https://nanomuse.cn/"
     },
     {
@@ -130,8 +130,27 @@
       "num_comments": 4,
       "published_at": "2026-10-11T20:00:00.000Z",
       "github_repo": "https://github.com/StartLuxLabs/StartLux-Decision",
-      "github_stars": 1489,
+      "github_stars": 1520,
       "project_page": "https://decision.startlux.com/"
+    },
+    {
+      "id": "2610.05416",
+      "title": "Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training",
+      "authors": "Shuyuan Tu, Qi Tian, Yinming Huang et al. (11 authors)",
+      "organization_name": "Tencent-Hunyuan",
+      "organization_fullname": "Tencent Hunyuan",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
+      "summary": "Natively training joint video-audio generation models at higher resolutions empowers them to learn richer visual details and sharper motion dynamics. However, full attention incurs quadratic cost and, as resolution increases, spreads attention over increasingly redundant tokens, diluting learning signals for informative content and disrupting pretrained priors. Existing sparse attention methods either target training-free acceleration or overlook the unique structure of joint video-audio data, where cross-modal interactions are inherently concentrated around sound-producing regions. To address this, we propose Prism, a dynamic sparse attention framework for natively training joint video-audio generation models at 2K. In particular, Prism organizes the token sequence into spatiotemporal macro-zones, enabling the attention structure to adapt to local content. For each zone, it estimates local information structure via video feature variance along the channel and feature norms from the audio-to-video cross-attention, jointly capturing how visual content varies directionally and how strongly audio influences each visual region. Based on these signals, Prism dynamically assigns a tailored block shape to each zone, applying finer partitioning along axes of rapid visual content variation and strong audio-visual coupling. This encourages tokens within each block to remain semantically coherent, allowing block-level features to capture both visual content and joint video-audio interaction patterns. Prism further adopts a hybrid block selection strategy to dynamically determine per-query sparsity. Experiments show that Prism achieves 2.5times training speedup compared to full attention, while surpassing it in generation quality.",
+      "ai_summary": "Prism accelerates native joint video-audio generation at 2K by using dynamic sparse attention guided by local visual variance and audio-visual cross-attention to preserve semantic coherence and cross-modal interactions.",
+      "hf_url": "https://huggingface.co/papers/2610.05416",
+      "arxiv_url": "https://arxiv.org/abs/2610.05416",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.05416.png",
+      "upvotes": 23,
+      "num_comments": 1,
+      "published_at": "2026-10-03T20:00:00.000Z",
+      "github_repo": "https://github.com/Tencent-Hunyuan/Prism",
+      "github_stars": 1092,
+      "project_page": "https://francis-rings.github.io/Prism/"
     },
     {
       "id": "2610.14162",
@@ -170,28 +189,9 @@
       "github_repo": "https://github.com/wuyoscar/ISC-Bench",
       "github_stars": 2313,
       "project_page": "https://wuyoscar.github.io/ISC-Bench"
-    },
-    {
-      "id": "2309.06180",
-      "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
-      "authors": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "High throughput serving of large language models (LLMs) requires batching\nsufficiently many requests at a time. However, existing systems struggle\nbecause the key-value cache (KV cache) memory for each request is huge and\ngrows and shrinks dynamically. When managed inefficiently, this memory can be\nsignificantly wasted by fragmentation and redundant duplication, limiting the\nbatch size. To address this problem, we propose PagedAttention, an attention\nalgorithm inspired by the classical virtual memory and paging techniques in\noperating systems. On top of it, we build vLLM, an LLM serving system that\nachieves (1) near-zero waste in KV cache memory and (2) flexible sharing of KV\ncache within and across requests to further reduce memory usage. Our\nevaluations show that vLLM improves the throughput of popular LLMs by\n2-4times with the same level of latency compared to the state-of-the-art\nsystems, such as FasterTransformer and Orca. The improvement is more pronounced\nwith longer sequences, larger models, and more complex decoding algorithms.\nvLLM's source code is publicly available at\nhttps://github.com/vllm-project/vllm",
-      "ai_summary": "PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.",
-      "hf_url": "https://huggingface.co/papers/2309.06180",
-      "arxiv_url": "https://arxiv.org/abs/2309.06180",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2309.06180.png",
-      "upvotes": 77,
-      "num_comments": 1,
-      "published_at": "2023-09-12T08:50:04.000Z",
-      "github_repo": "https://github.com/vllm-project/vllm",
-      "github_stars": 86094,
-      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-25T08:58:31.407728+00:00"
+  "fetched_at": "2026-10-25T13:39:44.837783+00:00"
 }
