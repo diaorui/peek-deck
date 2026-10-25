@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Exclusive: Formic raises fresh funding to put more robots on factory floors",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3UxRmgwU3N1RnJDaFExYWNwcHRJYWpRcVBhTkpwQ29QMUo2SHFqSGZFMGNWbUxyRC1lWXFJQzRoOGtmU0FVbjBVUGpzLXY5QWduUWdrUmVzVW5hSTN3akFFRXFsVWZqeXB4YjBFQ3VMS0tHTWx4bXJ5eTdxSWZWVGFldFg?oc=5",
-      "pub_date": 1792683759.0,
-      "article_url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "One small leap for a muscle, one giant step for robotics",
       "source": "ETH Z\u00fcrich",
       "source_url": "https://ethz.ch",
@@ -25,62 +15,12 @@
       "description": "These robots have real muscles, and they\u2019re finally making big moves. Researchers at ETH Zurich have developed muscle actuators that flex strongly enough to enable small robots to jump, swim, walk and grasp."
     },
     {
-      "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
-      "source": "NVIDIA Developer",
-      "source_url": "https://developer.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB?oc=5",
-      "pub_date": 1792768213.0,
-      "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
-      "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
-    },
-    {
-      "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
-      "pub_date": 1792702800.0,
-      "article_url": "https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
-      "pub_date": 1792792759.0,
-      "article_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
-      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-    },
-    {
-      "headline": "Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGNJTkdncS1GRkJwWWRvMHZMMkFFTks1c1ZrTnpTU3gxN3dVbXBLemxiRTZVaFRmLUZoY2dWSm5tVU10QXRpQ2Z6RHZDZElwMEswMllSN2MxSlFBbFZpWEZmWlJfUHZCYVRlU1hjWDB2cnVKQW1vWUJZcUNSRURlZG53TzBzUkQ4UUtKcHJoTkZBbTlNeEVLbW1Nc3V5dTA?oc=5",
-      "pub_date": 1792770900.0,
-      "article_url": "https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
-      "pub_date": 1792744160.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Researchers open autonomous robotics learning to the world",
-      "source": "Stanford Report",
-      "source_url": "https://news.stanford.edu",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
-      "pub_date": 1792673724.0,
-      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
+      "headline": "Wearable system captures human activity data for robot training",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bHZ4cnNieE1JZHZYazh2VjZaeUt1U1FJY2xTeWNzV29uOHF1NUJGUExQOVRLZWJmLVRIUEROMUF1dk52a25jd2oyMEkxWUdtY2dJT195Q3dhTlprWG9LQ09pdHhvOExFb2JVSHRTQVdiZWxCeFlDcUl3?oc=5",
+      "pub_date": 1792857606.0,
+      "article_url": "https://techxplore.com/news/2026-10-wearable-captures-human-robot.html",
       "image": null,
       "description": null
     },
@@ -95,16 +35,76 @@
       "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
     },
     {
-      "headline": "Subaquatic robot leverages biomimetics for natural movement",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SWGEzVXNqVUhoQlV3VjlHYUFlNnAtNTlDbkZIRE9TeWUwWXd0MmdWcDNadVJBV1JMLVlnRHMwODluajNpTnhJdjJaVGJnMjlwTGlQRk9BelJ2cGNPRFF6RGZPUzFteU5xOVMzZw?oc=5",
-      "pub_date": 1792894393.0,
-      "article_url": "https://newatlas.com/robotics/feather-star-underwater-robot/",
-      "image": "https://assets.newatlas.com/dims4/default/4535412/2147483647/strip/true/crop/1448x760+0+102/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F68%2F19%2F2008336948509ad112e43375b98a%2Ffeather-star-in-turquoise-waters.jpeg&na.image_optimisation=0",
-      "description": "Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That\u2019s exactly what a research group at North Carolina State University has been working on."
+      "headline": "Researchers open autonomous robotics learning to the world",
+      "source": "Stanford Report",
+      "source_url": "https://news.stanford.edu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
+      "pub_date": 1792673724.0,
+      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelB5RGp4MWRYbXM5d3ctdS1MTkJQaUktaVZmZW50UC03N0Yxb0lfUXNwNjJ0SFljanVhbTR3NFFGOFBxWjNaNmNPWHBwVmZFUXBvcjBLbkpaQXg2ZklkTmhUcWVLekJzY3kybkZjU2thQjFJYzAxMDd6bjhxNWZ0bjFHSlpYeXFPRlhFcEpTcDNLOFY5d0xNMEJDQQ?oc=5",
+      "pub_date": 1792845971.0,
+      "article_url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/ekarobotics-featured.jpg",
+      "description": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale."
+    },
+    {
+      "headline": "Prediction: Robotics Will Be the Biggest Industrials Story of 2027. Here Are 2 Stocks to Buy Before Then.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3E5bjdiRTJTQWRFQTB1dWZFWkJHQnVTdk1uMENtcFZxV1lPTl94cnZoNW5FczZxRzRwSm14OF8tZ0tFRTRKQVQwdkFGLTZxR1JyLXdHeVNvbnNYem4taUl3TXJ2V3FnNlp3MTN2eFBaWFcyTHhMMVB0R3JrN1JvMDV0bmNlV29kZHc5R2xKVXFqNEZWLVdacA?oc=5",
+      "pub_date": 1792787400.0,
+      "article_url": "https://www.fool.com/investing/2026/10/23/prediction-robotics-will-be-the-biggest-industrial/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890242%2Fgettyimages-1296686780-1-copy.jpg&w=1200&op=resize",
+      "description": "Want to profit from robotics trends? These two stocks could help you do it."
+    },
+    {
+      "headline": "This robot parks your car at the airport, and you get to keep the keys",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnVST3dOa3YzUUZ0Q2ZpNFhGTkkxYmVrbzlKVnJnOUdTXzBhVEdZN3hEQnYwTWtBRUczVzJnMzZZMy00dEV2MmZzQzA1OWJOU2NaMk95d3hZc1pqeHJ6UVBMTEo0V2RmamdGcEd2SWdoWEdhc0pTSmhuNXVodU92N01na1laaUZNSjA5QmY4SnlIV19HWF9GZjJwR0VSTGkwc2RkMzFZNDBEQUFpaGVBNA?oc=5",
+      "pub_date": 1792772128.0,
+      "article_url": "https://interestingengineering.com/videos/this-robot-parks-your-car-at-the-airport-and-you-get-to-keep-the-keys",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/ie-h_cfa4de.jpg",
+      "description": "London Gatwick has started letting passengers hand their cars to Stan, an autonomous valet robot from Paris-based Stanley Robotics that lifts vehicles by their tyres and parks them in a secure, robot-only car park."
+    },
+    {
+      "headline": "NVIDIA Expands Isaac Tools for Robot Training, Simulation and Deployment",
+      "source": "HPCwire",
+      "source_url": "https://www.hpcwire.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXQyTjZ5Z1VBZVByXzlpdE9JTWQ0M0FRd1RXNTZrZ1BkbGNYNk1RdkF3QjVBRVRfVmRRbnFZaVNUTzBBOTBIY3pfdGllQzBrR0k1bXVjdks0VG5Ka1FPMGdjVlFUeWd3Ukx3WFlxZmR2X2dpanlmVWdocmpiN2xfRHlMWElpMGk0Vm1hUEZRNTlTaURDMTdFcW5LYW9BUWFPMS1BT1ROb2V0d0h1V0lhTHJobks?oc=5",
+      "pub_date": 1792807145.0,
+      "article_url": "https://www.hpcwire.com/aiwire/2026/10/23/nvidia-expands-isaac-tools-for-robot-training-simulation-and-deployment/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "'The beginning of The Matrix': Unitree is developing an AI system that will let humanoid robots self-improve \u2014 and Tesla should be worried",
+      "source": "TechRadar",
+      "source_url": "https://www.techradar.com",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQS0VMNm1VbGU1LTRhUlVXaC1Yazdxd1djX0JyUURyNzhVWDVqZF80Y3cyd1dlb3ZucWZsMWFqcjN0TjBXckIxbUpBRE40NWp2UmE3S3ZyZDcxSWhMVEtYTXA3dVBkMmM5Q2t2T1lRVzFpcVJnZFNHbFRDX0IzYzdZa0J6clVhMmNXZ1NURUZqTUwydGlPYk9GczcxbjdPZXRYNzRhVHlTYkFHYnpVQ3VZbGk1emhCWV9BalMxWlhINmVCdnlIWWpmM0htOFc4QmJfQ1hobmg1YlR3eUp2X09JNG9kYmJscVhPLW9NRHVIeGlaSHVkSkVxWDdTbEtZMFIySGw3SU5ST3lwbGFNcTJVX0VlTzRkZUU?oc=5",
+      "pub_date": 1792839600.0,
+      "article_url": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week",
+      "image": "https://cdn.mos.cms.futurecdn.net/V2rMm5vvzgypJFNAvyFpjE-2000-80.jpg",
+      "description": "We've got robotics updates from Unitree, Tesla, and Figure, as the companies announce their latest progress."
+    },
+    {
+      "headline": "The Robot I Didn\u2019t Expect to Build",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Y19oRWRwaE5wbmd2OFhPZUsxdUVyLU9yTm9lUDJLdEZkT1U5NWdjdWdYRG9oWF9TRVpHT1N3TzZQbjI3cDBIYjdBcXdlTWNLckkwYndTbkdLblpLN2xNNG80V01MaDBGVHhz?oc=5",
+      "pub_date": 1792414880.0,
+      "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68441166&width=1200&height=600&coordinates=0%2C1537%2C0%2C1538",
+      "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-25T03:31:51.587206+00:00"
+  "fetched_at": "2026-10-25T08:59:07.264771+00:00"
 }
