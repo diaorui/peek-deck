@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-25T17:26:50.695125+00:00'
+updated: '2026-10-25T19:53:19.174502+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 25, 2026 at 17:26 UTC  
+**Last Updated:** October 25, 2026 at 19:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,93 +32,87 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Jensen Huang brought four Microduck robots onstage during his keynote at NVIDIA GTC Berlin](https://www.reddit.com/r/robotics/comments/1xdaqlq/jensen_huang_brought_four_microduck_robots/)**
+**[CBR-II update (V3): smoother gait + trying to stand on one leg](https://www.reddit.com/r/robotics/comments/1xf3s92/cbrii_update_v3_smoother_gait_trying_to_stand_on/)**
 
-2d ago
+Hey all, here's a small update on CBR-II, my DIY biped. This is the third iteration. Clip 1 (V3): It walks a lot more confidently now, with much less jitter. The only harsh moment left is when a "stop" comes right after "forward". It plants its front foot and slams it into the floor pretty loudly. Clip 2 (V1): The original version, for comparison. Clip 3 (V3): Attempting to balance on one leg :) In sim it nails this every time. In real life it's far from perfect, but you can definitely tell what it's trying to do. I think this is the end of the road for this project (at least for this year). I was thinking about jumps (and secretly dreaming of a backflip), but the hardware is just too fragile. Today alone it broke a joint three times and snapped a GT2 belt. And not where it bends around the pulley, it just snapped from tension in the middle of a straight run. Thanks to everyone who followed along and gave feedback on the previous posts!
 
----
-
-**[Check out my upgraded 12-DOF Spider Robot with new 3D-printed parts, WiFi control, an OLED display, and cool animations.](https://www.reddit.com/r/robotics/comments/1xd5f2t/check_out_my_upgraded_12dof_spider_robot_with_new/)**
-
-Watch the full build tutorial on the Robot LK YouTube channel. Visit RobotLK.com for robotics tutorials, project details, and more DIY electronics projects. Follow Robot LK for more exciting robotics and technology projects!
-
-2d ago
+5h ago
 
 ---
 
-**[Army’s new robotics technician course combines hardware modification, coding and systems integration](https://www.reddit.com/r/robotics/comments/1xdbpii/armys_new_robotics_technician_course_combines/)**
+**[Meet the star of #NVIDIAGTC Berlin ... Microduck.](https://www.reddit.com/r/robotics/comments/1xfagiq/meet_the_star_of_nvidiagtc_berlin_microduck/)**
 
-The U.S. Army’s first 10 warrant officers in its new 390A Robotics Technician specialty completed a 19-week course covering robotic hardware, software, sensors and communications. The training includes working through communications failures, unavailable navigation systems and situations where internet-connected AI tools aren’t accessible. Instructors deliberately introduce failures so students have to revise their solutions. One exercise involved modifying a quadcopter with a camera and integrating mesh communications to maintain connectivity when individual connections were disrupted. The article also looks at the overlap with industrial robotics training, where changing a gripper, vision configuration or robot program can require understanding several connected systems.
+Microduck from Pollen Robotics. I had the opportunity to meet up with the team here to learn about this, and it's not only a cute little robot, it's one very impressive development tool 👏 "A tiny biped for reinforcement learning" I attended NVIDIA GTC Berlin as a guest of NVIDIA EMEA.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-u-s-army-is-training-a-new-kind-of-robotics-technician) • 2d ago
-
----
-
-**[Jensen Huang's keynote and robotic lineup was impressive, but people seem to be captivated by something else](https://www.reddit.com/r/robotics/comments/1xdb2an/jensen_huangs_keynote_and_robotic_lineup_was/)**
-
-I just saw the keynote from Jensen Huang where he introduced the robotic platform Microduck. It’s an interesting direction for compact autonomous machines. It's most noteworthy part is seeing how it handles real-world spatial computing and edge AI processing in such a tiny form factor. My feed was mostly inundated by people talking about this cute little robot. With all those advanced humanoid in the background, it's interesting how this tiny robot got the spotlight. Maybe it's just social media algorithm or maybe it's just because people like little cute things, but I find the contrast peculiar.
-
-🔗 [youtu.be](https://youtu.be/qWiYWCWZ_HA) • 2d ago
+1h ago
 
 ---
 
-**[DIY iToF + RGB rig: first metric room map and Gaussian splat, still offline](https://www.reddit.com/r/robotics/comments/1xd3cxx/diy_itof_rgb_rig_first_metric_room_map_and/)**
+**[Used an Octopus Pro + 6x TMC2209 to drive a 6-axis 3D-printed robot arm (not a 3D printer!)](https://www.reddit.com/r/robotics/comments/1xfbmjt/used_an_octopus_pro_6x_tmc2209_to_drive_a_6axis/)**
 
-Update on my home-lab RGB-D build: a 320×240 epc660-class iToF engineering sample paired with a Raspberry Pi camera. I am the builder and made the video. The rig now produces live coloured depth. The mapping pipeline is offline: recover camera poses from recorded RGB frames, use iToF for metric scale, then fuse the depth and train a Gaussian splat in the same coordinates. Multi-view voxel voting removed 27,675 floating points in this capture. The calibration work mattered more than the rendering. Edge alignment improved from a 2.2 px to a 1.0 px median in our test. Bright-object spill/saturation still needed conditional handling. This is not a general accuracy claim. Remaining problems: incomplete room coverage, dark walls disappearing, and Pi camera intrinsics that still need a checkerboard check. Real-time Gaussian SLAM is the goal; this result is an offline reconstruction. EP16 shows the captures, fixes and remaining failures: https://www.youtube.com/watch?v=pyPj_dCDZm0 For a rig like this, would you validate intrinsics and depth scale independently first, or move to joint optimisation once the initial alignment is stable? Image: AI-assisted episode thumbnail; the episode contains the actual sensor captures.
-
-2d ago
+15m ago
 
 ---
 
-**[My robotics home lab with Claude as lab assistant](https://www.reddit.com/r/robotics/comments/1xda65j/my_robotics_home_lab_with_claude_as_lab_assistant/)**
+**[Two months to prepare for humanoid robotics research .. your feedback matters :)](https://www.reddit.com/r/robotics/comments/1xf5mww/two_months_to_prepare_for_humanoid_robotics/)**
 
-2d ago
+I’m starting a master’s in two months, working on vision-guided grasping and end-effector integration for humanoid robots. I have experience in Mechanical Design mainly .. have worked with ROS, and computer vision in college but want a better understanding of humanoids as a complete system. My rough plan is below: start with anatomy and hardware, then arm movement and control, then some simulation. I learn best through practical examples rather than heavy maths. Any recommendations for accessible resources, or changes you’d make to the plan? Also happy to connect with anyone interested in studying together.
 
----
-
-**[A curated index of 125+ vision-language-action papers with open-source code - updated daily](https://www.reddit.com/r/robotics/comments/1xdbjv5/a_curated_index_of_125_visionlanguageaction/)**
-
-The index collects VLA and robot foundation-model work and links each entry's arXiv page, PDF and code repository. It covers vision-language-action models, manipulation, sim-to-real transfer and the benchmarks around them; every paper is tagged by topic and summarised in plain language, with the paper's own figures on the page. Currently 125+ VLA papers, refreshed as new work appears.
-
-🔗 [Robotics Research Hub](https://papers.tinrobotics.com/topics/vla/) • 2d ago
+4h ago
 
 ---
 
-**[Need help on designing a robot](https://www.reddit.com/r/robotics/comments/1xdgozc/need_help_on_designing_a_robot/)**
+**[Cubic Doggo update: Wouf's first steps](https://www.reddit.com/r/robotics/comments/1xey15u/cubic_doggo_update_woufs_first_steps/)**
 
-Hi all, I'm designing a simple but communicative robot that can either be controlled via puppetry or via servos. How should I design the robot so it can be controlled both ways? Should it be controlled by wires and elastic for the puppetry and servos for the autonomous mode? Once it's finished, I will put up some pictures of my robot, Crystal. Any suggestions? Thanks, Daniel L :)
+Took me a while to work up the nerve to dig into the sloth-speed-servo bug since my last post. Firmware debugging never fails to scare the heck out of me, phew... Turns out the culprit was the latency from reading servo position/velocity/effort values, technically the trademark of smart servos like ST3215. Each read took like 3–5 ms for three servos, and it looks like synchronous read isn't supported yet in the ST3215 C++ SMS_STS library. Does anyone know if it already exists somewhere? For now, feedback reading is disabled on Wouf. With ST3215 servos, although the servo speed is still lower than the Dynamixels used in Doggo, Wouf is walking much faster than expected! And yeah, I think I messed up the turning algorithm again somehow, lol Still, I think this is a good sign that the ST3215-based design can work for a walking robot, and I really like their mechanical sound. Will work on summarizing the build in the next few days. May not have the read function (basically input for reinforcement learning) at the moment though, depending on how difficult it is to develop the sync read firmware. GitHub: https://github.com/SphericalCowww/CubicDoggo_07B
 
-2d ago
-
----
-
-**[Point-to-Point Wireless Image Transmission with LR2021](https://www.reddit.com/r/robotics/comments/1xd9ccx/pointtopoint_wireless_image_transmission_with/)**
-
-I’ve successfully implemented point-to-point wireless image transmission using two custom-designed LR2021 nodes at Makerfabs. Traditional LoRa sensor applications focus on small data packets; this demo explores the LR2021's capabilities for larger data transfers. I used two nodes equipped with Makerfabs-designed LR2021 modules; I've successfully demonstrated point-to-point wireless image transmission. All the transmission information can be shown on the OLED display. Technical Highlights High-speed FLRC: Supports PHY data rates up to 2.6 Mbps. FLRP Protocol: Supports high-speed burst transmission, data segmentation, acknowledgments, and retransmissions. Flexible Applications: Enables exploration of larger data transfers, including images, firmware updates, and remote monitoring. Ongoing Research With basic wireless image transmission working, I’m now evaluating actual transfer throughput, effective communication range, link reliability under interference, and power consumption during high-speed bursts. I’d love to hear your thoughts and ideas on LR2021. What applications would you explore with it?
-
-2d ago
+10h ago
 
 ---
 
-**[What could Aerial Manipulators achieve/solve?](https://www.reddit.com/r/robotics/comments/1xczo06/what_could_aerial_manipulators_achievesolve/)**
+**[Raspberry Pi Pico Driving a robot arm](https://www.reddit.com/r/robotics/comments/1xfa5qz/raspberry_pi_pico_driving_a_robot_arm/)**
 
-Title. Ive always been fascinated by Unmanned Aerial Manipulators, since they can not only see the environment, but also change it. The thing is, I know that for a number of reasons they are still not used/adopted. I cannot help but wonder, what could these platforms solve/achieve, once research, actuators, controls and adoption catch up? Id be very interested in hearing what you think/envision, doesnt matter how far-fetched or contrived :)) PD: Image comes from here .
+Source code and more info here: https://github.com/AdrianCX/picohive-robotarm Controlled via internal web page (gamepad, keyboard), LLMs, MQTT, with an openGL visualizer
 
-2d ago
+1h ago
+
+---
+
+**[RealMan ECO65 bring-up: a shared MCP backend, MuJoCo twin, and a 5° hardware test](https://www.reddit.com/r/robotics/comments/1xf9oo0/realman_eco65_bringup_a_shared_mcp_backend_mujoco/)**
+
+I’m building a robot lab in a Gaussian-splat reconstruction of my office. Today the RealMan ECO65 (on loan) finally moved: J1 +5° at 5% speed and back. Then I switched its Wi-Fi to client mode, lost access, and discovered I had no Ethernet cable. The software side has one shared backend for Codex and Claude, revision-checked edits, a MuJoCo twin and link/desk collision checks. The MCP motion interface is still simulation-only; the physical move was a separate controller session. The twin is a nominal model, not validated hardware behaviour. EP19 shows the build and the failures. The J1 visual is a labelled replay of the logged command. https://www.youtube.com/watch?v=1ZrYGwZJQto For those running an arm in a home lab: what was the first mismatch you found between your twin and the hardware?
+
+1h ago
+
+---
+
+**[Four-legged robot solves giant Rubik's Cube without using hands](https://www.reddit.com/r/robotics/comments/1xf218z/fourlegged_robot_solves_giant_rubiks_cube_without/)**
+
+ETH Zurich’s ANYmal solved a 10-pound Rubik’s Cube three times using only its feet, taking around eight to nine minutes per attempt. The trick combined computer vision and a traditional cube-solving algorithm with reinforcement learning that taught the robot how to balance, apply force, and correct mistakes. Beyond the fun demo, could “pedipulation” make future robots more useful by letting them open doors, turn valves, or move obstacles without needing hands?
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/four-legged-robot-solves-rubik-cube) • 6h ago
+
+---
+
+**[Day 363 of building Asimov 1. Testing new grippers so it can pick things up and work with them!](https://www.reddit.com/r/robotics/comments/1xeabg7/day_363_of_building_asimov_1_testing_new_grippers/)**
+
+Adding grippers to Asimov 1. The arms have been strong enough for a while. Now it’s time to use them for manipulation! Quick note, if you’re seeing Asimov 1 for the first time, it's a fully open-source humanoid robot built from off-the-shelf parts, so you can build one yourself. https://github.com/menloresearch/asimov-1/
+
+1d ago
+
+---
+
+**[Cycloidal Drive Help](https://www.reddit.com/r/robotics/comments/1xf4aqe/cycloidal_drive_help/)**
+
+Hello everyone, I would like to know some good sites and guides on how to design cycloidal drives for stepper motors (NEMA 17). I have been looking on YouTube and some sites but mostly i didn't learn anything about what is needed from my side and what I need to calculate. I have made few attempts at printing these drives and all of them are off by some millimeters, and they are getting stuck after few turns.
+
+5h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[One small leap for a muscle, one giant step for robotics](https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html)**
-
-These robots have real muscles, and they’re finally making big moves. Researchers at ETH Zurich have developed muscle actuators that flex strongly enough to enable small robots to jump, swim, walk and grasp.
-
-ETH Zürich • 3d ago
-
----
 
 **[Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)**
 
@@ -128,19 +122,19 @@ NVIDIA Developer • 2d ago
 
 ---
 
+**[110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment](https://www.globaltimes.cn/page/202610/1372888.shtml)**
+
+China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24.
+
+Global Times • 16h ago
+
+---
+
 **[Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)**
 
 The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
 
 TechCrunch • 1d ago
-
----
-
-**[110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment](https://www.globaltimes.cn/page/202610/1372888.shtml)**
-
-China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24.
-
-Global Times • 14h ago
 
 ---
 
@@ -162,7 +156,7 @@ TechRepublic • 2d ago
 
 Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That’s exactly what a research group at North Carolina State University has been working on.
 
-New Atlas • 15h ago
+New Atlas • 17h ago
 
 ---
 
@@ -182,7 +176,15 @@ Stanford Report • 3d ago
 
 A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent.
 
-Futurism • 2h ago
+Futurism • 4h ago
+
+---
+
+**[Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics](https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/)**
+
+Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe.
+
+The Robot Report • 6h ago
 
 ---
 
@@ -190,33 +192,13 @@ Futurism • 2h ago
 
 ## YouTube Videos: "robotics"
 
-**[Old Phones Are Becoming Robots?!?](https://www.youtube.com/watch?v=FiyUagHO37Y)**
+**[Microducks Stole NVIDIA’s Show](https://www.youtube.com/watch?v=cgOZPijdl7w)**
 
-Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ Weekly ...
+Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his commands... mostly Microduck is a ...
 
-📺 Matt Wolfe
+📺 Techy or Not
 
-👁️ 39K • 👍 1K • 💬 42 • ⏱️ 1:04 • 1d ago
-
----
-
-**[America&#39;s Biggest Homebuilder Just Handed 1,250 Homes to Canadian Robots](https://www.youtube.com/watch?v=llTUNsJyRA0)**
-
-Get the book, The True North Files (60 Canadian inventions, rated and dated): ...
-
-📺 True North Invents
-
-👁️ 14K • 👍 120 • 💬 7 • ⏱️ 11:50 • 22h ago
-
----
-
-**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
-
-NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
-
-📺 DPCcars
-
-👁️ 1.9M • 👍 12K • 💬 2K • ⏱️ 4:06 • 3d ago
+👁️ 9K • 👍 247 • 💬 3 • ⏱️ 1:46 • 13h ago
 
 ---
 
@@ -226,67 +208,87 @@ Robots just learned kung fu. I ranked the best humanoid robots on the market, wi
 
 📺 AI BROS
 
-👁️ 20K • 👍 677 • 💬 70 • ⏱️ 2:54 • 1d ago
+👁️ 20K • 👍 678 • 💬 70 • ⏱️ 2:54 • 1d ago
 
 ---
 
-**[Top 10 Arduino Projects #arduinoproject #arduino #top10 #top10ardujnoprojects #iot #robotics #robot](https://www.youtube.com/watch?v=WS0T66TU2VQ)**
+**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
 
-Top 10 Arduino Projects #arduinoproject #arduino #top10 #top10ardujnoprojects #iot #robotics #robot.
+The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
 
-📺 Robotos
+📺 DPCcars
 
-👁️ 80K • 👍 1K • 💬 5 • ⏱️ 0:55 • 3d ago
-
----
-
-**[Microducks Stole NVIDIA’s Show](https://www.youtube.com/watch?v=cgOZPijdl7w)**
-
-Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his commands... mostly Microduck is a ...
-
-📺 Techy or Not
-
-👁️ 7K • 👍 201 • 💬 3 • ⏱️ 1:46 • 11h ago
+👁️ 55K • 👍 519 • 💬 171 • ⏱️ 2:30 • 4d ago
 
 ---
 
-**[Day 34 Meet the viral NVIDIA Microduck robot! 🦆🤖 #Robotics #TechLab#sensor #electronics #experiment](https://www.youtube.com/watch?v=fKrufw3hTa0)**
+**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
 
-Title: Meet the Viral Microduck Robot! ​Description: Watch the amazing, 3D-printed Microduck robot come to life on the ...
+Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
 
-📺 TechLab Projects
+📺 REC Anything
 
-👁️ 10K • 👍 38 • 💬 3 • ⏱️ 0:19 • 1d ago
-
----
-
-**[NVIDIA’s Robot Ducks Steal the Show!](https://www.youtube.com/watch?v=IHBED6nhozE)**
-
-NVIDIA's adorable little robot ducks just gave everyone a good laugh! During a live demonstration at NVIDIA's event in Berlin, ...
-
-📺 Converge360
-
-👁️ 535K • 👍 7K • 💬 283 • ⏱️ 0:28 • 2d ago
+👁️ 1.4M • 👍 9K • 💬 1K • ⏱️ 8:29 • 3d ago
 
 ---
 
-**[Buy Robot for ₹35,000 (Physical AI is here)](https://www.youtube.com/watch?v=vGUDjHWM83c)**
+**[99% of You Will Miss the $2.5T Robotic Stack (My Full Map)](https://www.youtube.com/watch?v=OMDj6el4AbY)**
 
-A robot for just ₹35000 that learns on its own. Physical AI is here. Meet MicroDuck, a 25 cm open source robot from Hugging ...
+I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics stack for physical AI. Get a free $55 when you trade $25 ...
 
-📺 CryptoWala
+📺 Fin Tek
 
-👁️ 171K • 👍 8K • 💬 169 • ⏱️ 2:56 • 2d ago
+👁️ 45K • 👍 704 • 💬 38 • ⏱️ 22:57 • 2d ago
 
 ---
 
-**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
+**[This robot is India&#39;s answer to Boston Dynamics](https://www.youtube.com/watch?v=HgmaxBWkk5w)**
 
-Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
+xTerra Robotics is quickly establishing itself as one of India's most advanced robotics startups, transitioning from an academic ...
+
+📺 RuntimeBRT
+
+👁️ 359K • 👍 14K • 💬 380 • ⏱️ 2:55 • 6d ago
+
+---
+
+**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
+
+NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
+
+📺 DPCcars
+
+👁️ 1.9M • 👍 13K • 💬 2K • ⏱️ 4:06 • 3d ago
+
+---
+
+**[America&#39;s Biggest Homebuilder Just Handed 1,250 Homes to Canadian Robots](https://www.youtube.com/watch?v=llTUNsJyRA0)**
+
+Get the book, The True North Files (60 Canadian inventions, rated and dated): ...
+
+📺 True North Invents
+
+👁️ 14K • 👍 122 • 💬 7 • ⏱️ 11:50 • 1d ago
+
+---
+
+**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+
+China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
 
 📺 MACHINEKIND
 
-👁️ 12K • 👍 173 • 💬 25 • ⏱️ 13:25 • 1d ago
+👁️ 109K • 👍 1K • 💬 100 • ⏱️ 13:57 • 4d ago
+
+---
+
+**[Meet Our New #1 Robot Vacuum of 2026](https://www.youtube.com/watch?v=pKTyYxIRckM)**
+
+MOVA V70 Ultra Complete at Amazon: https://geni.us/CIMX8Bm Our Top 20 Robot Vacuums at the Vacuum Wars website: ...
+
+📺 Vacuum Wars
+
+👁️ 41K • 👍 592 • 💬 133 • ⏱️ 8:39 • 1d ago
 
 ---
 

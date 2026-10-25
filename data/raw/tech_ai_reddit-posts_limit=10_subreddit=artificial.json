@@ -46,6 +46,17 @@
       "description": "OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the\u2026"
     },
     {
+      "title": "Solidigm pulled its IPO and neocloud credit spreads are blowing out ahead of hyperscaler earnings",
+      "author": "perspicacity_ai",
+      "url": "https://www.reddit.com/r/artificial/comments/1xf68po/solidigm_pulled_its_ipo_and_neocloud_credit/",
+      "published": 1792944388.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Solidigm scrapped its IPO this week, and credit default swap spreads across neocloud companies have been widening while their stocks fall. The timing puts the AI buildout's funding under its first real stress test just days before the biggest hyperscalers report. Nvidia has moved beyond selling chips into effectively financing parts of the AI buildout, which puts an unusual amount of balance-sheet weight on one company. If neocloud borrowing costs keep climbing and new equity raises stay shut, the biggest buyers of Nvidia hardware start running low on cash to spend. Funds moved into defensives this week, and neocloud borrowers look like the group with the least cushion if capex guidance disappoints. Does Nvidia absorb the first hit, or do neocloud credit spreads crack before the stock moves?"
+    },
+    {
       "title": "AgiBot's 110-Robot Sync Demo Proves Fleet Scheduling, Not Fleet Readiness",
       "author": "VectorWireAI",
       "url": "https://www.reddit.com/r/artificial/comments/1xf31xh/agibots_110robot_sync_demo_proves_fleet/",
@@ -57,15 +68,26 @@
       "description": "AgiBot's 110-humanoid swarm demo and DEEP Robotics' embodied-AI benchmarks show fleet coordination outpacing single-robot reliability, the real\u2026"
     },
     {
-      "title": "Solidigm pulled its IPO and neocloud credit spreads are blowing out ahead of hyperscaler earnings",
-      "author": "perspicacity_ai",
-      "url": "https://www.reddit.com/r/artificial/comments/1xf68po/solidigm_pulled_its_ipo_and_neocloud_credit/",
-      "published": 1792944388.0,
+      "title": "GenAICode puts one API over Claude Code, Codex, Copilot, Cursor and Gemini CLI",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfbob2/genaicode_puts_one_api_over_claude_code_codex/",
+      "published": 1792957218.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Solidigm scrapped its IPO this week, and credit default swap spreads across neocloud companies have been widening while their stocks fall. The timing puts the AI buildout's funding under its first real stress test just days before the biggest hyperscalers report. Nvidia has moved beyond selling chips into effectively financing parts of the AI buildout, which puts an unusual amount of balance-sheet weight on one company. If neocloud borrowing costs keep climbing and new equity raises stay shut, the biggest buyers of Nvidia hardware start running low on cash to spend. Funds moved into defensives this week, and neocloud borrowers look like the group with the least cushion if capex guidance disappoints. Does Nvidia absorb the first hit, or do neocloud credit spreads crack before the stock moves?"
+      "description": "GenAICode is an open-source Apache-2.0 TypeScript toolkit that puts one API and CLI over coding agents such as Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI, opencode, Muse, Mistral Vibe and Antigravity. Its README also lists a browser UI, an app-agent package and a run --verify command that sends a failing check back to the selected agent. The trade-off is that it does not hide provider ownership. The project says each agent keeps its own login, billing and sandbox. The latest 2.21.0 commit landed on October 25 at 6:00 PM Dubai time, and the repository currently shows 51 stars and 1 fork. For teams using more than one coding agent, this is a portability layer rather than a new model. It could reduce workflow switching, but the provider CLIs still define the limits. Source: https://github.com/gtanczyk/genaicode"
+    },
+    {
+      "title": "Is what I\u2019m wanting even possible?",
+      "author": "cokpuncher123",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfbnj5/is_what_im_wanting_even_possible/",
+      "published": 1792957165.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi I really wanna basically have an ai to play this game for me it\u2019s such a simple game and it\u2019s a text based browser game so it\u2019s literally the simplest most straight forward game for an ai to play no moving character nothing just understanding text and pressing buttons is this something I can get some help with PLEEEEASE I WANT IT BAD"
     },
     {
       "title": "LLM Tokens and Context Windows: Why AI Forgets Your Conversation",
@@ -79,38 +101,16 @@
       "description": "I wrote a short article on LLM tokens and context windows\u2014why an assistant can \u201cforget\u201d instructions that are still visible in your chat. It\u2019s part of my Behind the AI Stack series. Give it a read and let me know what you think. Anything unclear or worth exploring further?"
     },
     {
-      "title": "AI is humanities collective inheritance and should be legally treated as such",
-      "author": "Guinean",
-      "url": "https://www.reddit.com/r/artificial/comments/1xefah4/ai_is_humanities_collective_inheritance_and/",
-      "published": 1792864739.0,
+      "title": "Why are people so pessimistic about AI potentially revolutionizing healthcare?",
+      "author": "GloomyRing5596",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/",
+      "published": 1792953890.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I know this isn\u2019t a novel thought but it has been bothering me for a while and I simply want to get it off my chest (written by a human, btw, except the \u201c4 commitments\u201d.) Every discovery, invention, or other contribution to human aggregate knowledge by our ancestors has been gathered into these models. It is the \u201cSumma Scientiae Humanae\u201d the sum of all human knowledge. All of our ancestors built this. Across history every earned morsel of knowledge has been hunted and gathered by our forebears. The mothers and fathers of our species left this for us. We are ALL the heirs. As such, no individual, no corporation, no culture, and no nation should rightfully \u201cown\u201d . These companies should be considered stewards or librarians of our collective inheritance. While AI is incredible and many of us have mixed feelings about the approaching singularity to say the least, we never gave these tech executives our consent to roll the dice on humanities future. They have been amply rewarded. But it\u2019s here now so we should insist that the unimaginable wealth that it is creating should eventually be explicitly and legally handed back to all humanity. Something like a Universal Inheritance Covenant, enforced by law if necessary. A company could establish a public benefit corporation with an accompanying irrevocable trust, designed around four commitments: Recognition: Humanity's accumulated knowledge is a common inheritance, and the company is its steward. Temporary private ownership: Founders, employees, and investors retain defined rights to compensation and returns. Mandatory vesting: At a legally specified milestone, agreed ownership interests transfer to an independent Humanity Trust. Universal benefit: The trust controls the transferred equity and exercises its economic and voting rights on behalf of humanity, including future generations. I would guess eventually we will likely legally enforce this anyway, as our vote will be the only thing left when AI has displaced almost everyone in terms of economic contribution through labor. But I\u2019m hoping to see this recognition of shared inheritance earlier. Humanity should not have to buy back its collective intelligence. Rant over. I feel better."
-    },
-    {
-      "title": "People are starting to use AI for FB Marketplace listings and it\u2019s making me mad",
-      "author": "bayls215",
-      "url": "https://www.reddit.com/r/artificial/comments/1xenhio/people_are_starting_to_use_ai_for_fb_marketplace/",
-      "published": 1792885905.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A leather couch was listed. Pristine condition. Little wrinkling. Showed up and the couch was so worn down. I wouldn\u2019t have looked at the listing in the first place had they used legitimate photos. It\u2019s so deceiving. Don\u2019t do this."
-    },
-    {
-      "title": "Dreamina's $0.29 video listing: promo price or cheaper inference?",
-      "author": "Civil_Way7162",
-      "url": "https://www.reddit.com/r/artificial/comments/1xezo94/dreaminas_029_video_listing_promo_price_or/",
-      "published": 1792926707.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A Dreamina listing popped up advertising Seedance 2.5 access for $0.29 a month. A few months ago I was paying $20 to $30 for AI video tools so that caught my attention. But I haven't gone through checkout yet and I can't tell if $0.29 is an intro charge, what it renews at, or how it compares to the Seedance 2.0 references I've seen elsewhere. The real question for me is credits. If I need three usable ten second clips and each one takes about four attempts to get right, that's twelve generations for 30 seconds of usable output. If $0.29 only covers a couple of those attempts the sticker price doesn't mean much. I'd need to know included credits, cost per generation, and any length or resolution limits before comparing it to a $30 plan. Has anyone actually seen the checkout terms? Curious what the real allowance looks like and what an extra generation costs once you burn through credits."
+      "description": "So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I\u2019m not one to think that all cancers and diseases will be cured in a decade like some clickbaiters claim but I think it can help speed up cures and treatments a lot faster than without it. But some people seem to think it\u2019s all a sham, or that it will make things worse. So far Moderna had very successful results in their trial for the skin cancer vaccine and machine learning helped accelerate that, and knowing it\u2019s possible opens a door for future research. Idk I\u2019m pretty optimistic about the future of healthcare and medical field, what\u2019s your thoughts on it?"
     }
   ],
-  "fetched_at": "2026-10-25T17:26:30.000869+00:00"
+  "fetched_at": "2026-10-25T19:52:47.352483+00:00"
 }

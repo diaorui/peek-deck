@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "One small leap for a muscle, one giant step for robotics",
-      "source": "ETH Z\u00fcrich",
-      "source_url": "https://ethz.ch",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1JFQXE1bVNLaGl0WG9DM0hGeHR2SUZWMllveFBnMkMwbWNEVTZSNzlieHhzdEVESWJhOFUzRFJ6LWoxdkdFSDBNSkEtZmcyLXI1SDE0eDY1UW5jbVVnX1hBeXdOSHBmUGRaV29zMm9leE0wZlFfNFo5dTc0YkFkMXZoSEtDcEdRVVQtWFZXNmkzV0FtYVppUTVmR09MMG1aQjJGQkZmTkxWejk1cWZnREJlMkFlbWh1?oc=5",
-      "pub_date": 1792627200.0,
-      "article_url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html",
-      "image": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.290801338.png",
-      "description": "These robots have real muscles, and they\u2019re finally making big moves. Researchers at ETH Zurich have developed muscle actuators that flex strongly enough to enable small robots to jump, swim, walk and grasp."
-    },
-    {
       "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
       "source": "NVIDIA Developer",
       "source_url": "https://developer.nvidia.com",
@@ -25,16 +15,6 @@
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
-      "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
-      "pub_date": 1792792759.0,
-      "article_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
-      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-    },
-    {
       "headline": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
       "source": "Global Times",
       "source_url": "https://www.globaltimes.cn",
@@ -43,6 +23,16 @@
       "article_url": "https://www.globaltimes.cn/page/202610/1372888.shtml",
       "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/769f8f28-90cd-4fde-b250-759abf8efb3a.jpeg",
       "description": "China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24."
+    },
+    {
+      "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
+      "pub_date": 1792792759.0,
+      "article_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
     },
     {
       "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
@@ -103,8 +93,18 @@
       "article_url": "https://futurism.com/robots-and-machines/delivery-robots-database-flock",
       "image": "https://futurism.com/wp-content/uploads/2026/10/delivery-robots-database-flock.jpg?quality=85&w=2048",
       "description": "A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent."
+    },
+    {
+      "headline": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHBmbFFOZ0dZVGNLQmdLMUlQMXhJZ1U2TDF1RGVhdDVKdlFTeUxJWHkycXZZWDNKTjd2dDF1SWx4MEZGMFRncVZDUzZYaUZxcU5PMk9VbldJWHF6TXBLWnF6d2xzU05vSTREOFM2R1Vza3BubVptTXZMVjJuSjl4VnBMb2ZBMDJOQTQ5dDR0QWxnclZKeDN5VzFlYjdjZTJNdEpN?oc=5",
+      "pub_date": 1792933047.0,
+      "article_url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/Sereact_UniversalRobots_Zalando-featured.jpg",
+      "description": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-25T17:26:48.240171+00:00"
+  "fetched_at": "2026-10-25T19:53:10.249392+00:00"
 }
