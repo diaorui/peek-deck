@@ -5,6 +5,26 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana. Which Chain Benefits More?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDU2amNrM09INFZtb0pRUXNOQkV1c29IRmdDNGNHdzlFd1BaZE8yWERqZ1pjeVFmSFE2R3NVeFQtbkJiSkVrVE5Ec0JTbkM2OVhjZDF4X3VfWlV0cHpKejBJMkVyS0dQTHBvWUtkVFU5bDlMbGNaNlJ4S2MxX3dyUVV0MUdJaDZmeGVUdEQwQ3haMG1lWHVHcGF0QnA3Ynl3aUw0Qg?oc=5",
+      "pub_date": 1792953043.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-nearly-900-million-tokenized-183043798.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3cd99dd2d48f11674b65cf0d47b7e8ff52a808ae67cfe718f47e78105dbf0aa8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F92bc2722fea8e1ce9fb9540bfe732136.jpg",
+      "description": "JPMorgan just parked nearly $900 million in tokenized funds across Ethereum and Solana, but the fine print reveals one chain got a much bigger piece of the deal than the headlines suggest."
+    },
+    {
+      "headline": "Ethereum Price Prediction: ETH Dipped Below $2,300 This Week. Where Is the Next Floor?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEsxM252MUp4THMxdGxWeEZud1E2REplME9XUWxTOGdHbEZOdEtwZWpJUHkzNTdaVk5KWjFtckJkbmQ0NjF4UW9rQ3JMaUl6ai01S3VzVUM5dHZwaUtWTzBySDJ5SF9fcWh2dlloWTN0TTk2V1A5Wmlndm9TTkRUcy1jMHQxTzdsZ01kN0Y5SHowMXVreXREWlMtd0w5TkpRSE5v?oc=5",
+      "pub_date": 1792950164.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-eth-dipped-174244827.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/80c9e7471c374784d8d35b0fa6fa8d6cb8ec3728948c0026ee95cd1fab262618/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F1545a3eb5a98fbcd22113218a98d3c19.jpg",
+      "description": "Ethereum just broke through a level investors counted on to hold, and the next stop down is closer than most realize. Two converging pressures are making a recovery harder than the charts alone suggest."
+    },
+    {
       "headline": "XRP Held Flat This Week While Bitcoin, Ethereum and Solana Fell. Is It Breaking Away From Bitcoin?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -13,26 +33,6 @@
       "article_url": "https://finance.yahoo.com/markets/crypto/articles/xrp-held-flat-week-while-165559407.html",
       "image": "https://s.yimg.com/lo/mysterio/api/c3aa7eb3477ee813aa9162d6286501a717ce90a7a5b07fbc7c471013861a417a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ff2e24e5516e3fc6b21a187610a07139f.jpg",
       "description": "XRP barely budged this week while Bitcoin, Ethereum, and Solana tumbled, sparking talk of a long-awaited decoupling. But the correlation data, the ETF flows, and a brutal 30-day track record tell a more complicated story."
-    },
-    {
-      "headline": "Grok AI Ethereum Price Prediction: Token Guide",
-      "source": "Bitcoin Foundation",
-      "source_url": "https://bitcoinfoundation.org",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkstREU5ZFlicjY0aHl2MFF4YUVjQXUwVndhbHhuVmROV004YUliNnFndjhEV1lJVWxYS3hhUjg0b29nUjFxWkdWdjYxZlZIM3VQRWRCdFFVVDZJSV96d3AtSXF1REVMNlV1UGhOSE9MY2xVREE1ZzdOME03bkRBMWNPZlRSVy1GeUh4bEtPNFZfWlFNU00ydjhvSGg4SnBpUGJqQVlB?oc=5",
-      "pub_date": 1792936557.0,
-      "article_url": "https://bitcoinfoundation.org/news/analysis/grok-ai-the-ethereum-prediction-token-tokenomics-and-risks/",
-      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/grok-ai-the-ethereum-prediction-token-tokenomics-and-risks.webp",
-      "description": "Grok AI crypto claims to predict Ethereum prices using AI. Full guide covers the token's price, how predictions work, tokenomics and scam risks."
-    },
-    {
-      "headline": "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnVqNFZtMWdtM21HSVg5VVlNanRuNU45bWJjRXhDaWZCekNRWEtmaFRkNFJqZXRPOHRGZG9vZFBJUWpqa0N4UUxJYnREdTVNXzdGY3hhUzg5RmV1TFBoa0dFMV8wcHNyV3p3YmU2X0VNU0V0TDFTcUJDVldVT0ZReU5lYllPQ1BBVjZ0d1FhQ3JaWXZsRTRF?oc=5",
-      "pub_date": 1792923120.0,
-      "article_url": "https://www.fool.com/investing/2026/10/25/sec-approves-leveraged-bitcoin-and-ethereum-funds/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890546%2Fquestioning-investor.jpg&w=1200&op=resize",
-      "description": "Just because you can multiply daily moves, doesn't mean you should."
     },
     {
       "headline": "Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets\u2014Which Is Gaining Ground?",
@@ -55,16 +55,6 @@
       "description": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
     },
     {
-      "headline": "Current price of Ethereum for October 23, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5",
-      "pub_date": 1792761466.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-23-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-23.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
       "headline": "XRP ETFs buck Bitcoin and Ethereum outflows \u2013 Can price follow?",
       "source": "AMBCrypto",
       "source_url": "https://ambcrypto.com",
@@ -73,6 +63,16 @@
       "article_url": "https://ambcrypto.com/xrp-etfs-buck-bitcoin-and-ethereum-outflows-can-price-follow/",
       "image": "https://ambcrypto.com/wp-content/uploads/2026/10/Lazaro-2026-10-25T085825.727.jpg",
       "description": "XRP\u2019s recovery faces a key test as ETF demand improves but bearish momentum and liquidation risks keep traders cautious."
+    },
+    {
+      "headline": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPei1jcHJQVGVid29ZNFlWelF1eTdnU050dTNzUVhLS3kxY21pOFg3TnNiMGJJYjhuVjVsRG9yZURZNW1mOVZhalhiY2x6MkY3MVdQQ210Yk1oYnFWbGNscThWdUxjOXBiWVZmMDQzenE3WHJ4eThfejcxVVVqRUlSdmFrcDFybTBzcm5DYVFqTm9QZl9XcXhqVw?oc=5",
+      "pub_date": 1792743300.0,
+      "article_url": "https://www.fool.com/investing/2026/10/23/not-bitcoin-not-ethereum-this-once-popular-cryptoc/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891827%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
+      "description": "Cardano could be headed for a big comeback in 2027."
     },
     {
       "headline": "Uniswap's aggregator hooks go live on Ethereum, Base and Robinhood Chain",
@@ -85,16 +85,6 @@
       "description": "The hooks bring liquidity from outside platforms into Uniswap v4 to help find better trading routes."
     },
     {
-      "headline": "Lookonchain: Ethereum OG Sells 1,000 ETH",
-      "source": "Blockchain News",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HM2VPSUhZeFo3RnFDdVpuTXFoSTVnYlkzY09VVjJoSzRoZW5PejRJN2JoNTFjakx0UUpqVloxSFZ5LWJ4dG5EQVhEVjMyY2dpYlhNSUZLYTZVTXk4TzdScHQtamVhMXRKb29qeFg0NEplZDduWkV0ZG1RWURrZw?oc=5",
-      "pub_date": 1792780740.0,
-      "article_url": "https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-1-000-eth",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Lookonchain reports another Ethereum OG who bought 100,000 ETH at $0.31 during the ICO sold 1,000 ETH six hours ago."
-    },
-    {
       "headline": "Glamsterdam on Hoodi Postponed",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -103,8 +93,18 @@
       "article_url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
       "image": "https://blog.ethereum.org/images/eth-org.jpeg",
       "description": "The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has..."
+    },
+    {
+      "headline": "Ethereum Price Faces Deeper Downside Risk as October ETH ETF Outflows Reach $1 Billion",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM1JuQ05kaDlYY0RLdlpfOVR2cmNXajRvcjd5NDM1alVobG9rZmRvZVR1OXhZb0FFdUpGaEphRjl1OHpDeDg2ejR1alYya3dfZExZbmZ2OE5GV3ZZdlRJY3JvY2pEZ1ZYQU5qRS1vYjAzejJxUkh3azFScmJFUE05SS1feHNtM2V6OFo3ZG1lamQyRVlmZXpxMkJSQm9TX3RVSEVXbnd5S1NhdWpsS2d5NGtLZEhfWi1OTnQxbUZBTnN6RGhEb09IamE1V1M?oc=5",
+      "pub_date": 1792948508.0,
+      "article_url": "https://www.benzinga.com/crypto/26/10/62579999/ethereum-price-faces-deeper-downside-risk-as-october-eth-etf-outflows-reach-1-billion",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-25T17:26:45.600529+00:00"
+  "fetched_at": "2026-10-25T19:53:12.766518+00:00"
 }
