@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-25T08:58:33.032304+00:00",
+  "data": {
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "title": "How Cerebras Deploys Trillion-Parameter AI Models",
+    "description": "Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000\u20132,000+ tokens per second.",
+    "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
+    "favicon": "https://cdn.sanity.io/images/e4qjo92p/production/e7a55ae5ab7e2c4fdfd4e66a51f628d1f2f44207-967x967.png?w=512&h=512&fit=max&auto=format",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

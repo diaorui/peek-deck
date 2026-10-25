@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-25T03:31:55.491220+00:00'
+updated: '2026-10-25T08:59:08.839612+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 25, 2026 at 03:31 UTC  
+**Last Updated:** October 25, 2026 at 08:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Watch the full build tutorial on the Robot LK YouTube channel. Visit RobotLK.com for robotics tutorials, project details, and more DIY electronics projects. Follow Robot LK for more exciting robotics and technology projects!
 
-1d ago
+2d ago
 
 ---
 
@@ -66,7 +66,7 @@ I just saw the keynote from Jensen Huang where he introduced the robotic platfor
 
 Update on my home-lab RGB-D build: a 320×240 epc660-class iToF engineering sample paired with a Raspberry Pi camera. I am the builder and made the video. The rig now produces live coloured depth. The mapping pipeline is offline: recover camera poses from recorded RGB frames, use iToF for metric scale, then fuse the depth and train a Gaussian splat in the same coordinates. Multi-view voxel voting removed 27,675 floating points in this capture. The calibration work mattered more than the rendering. Edge alignment improved from a 2.2 px to a 1.0 px median in our test. Bright-object spill/saturation still needed conditional handling. This is not a general accuracy claim. Remaining problems: incomplete room coverage, dark walls disappearing, and Pi camera intrinsics that still need a checkerboard check. Real-time Gaussian SLAM is the goal; this result is an offline reconstruction. EP16 shows the captures, fixes and remaining failures: https://www.youtube.com/watch?v=pyPj_dCDZm0 For a rig like this, would you validate intrinsics and depth scale independently first, or move to joint optimisation once the initial alignment is stable? Image: AI-assisted episode thumbnail; the episode contains the actual sensor captures.
 
-1d ago
+2d ago
 
 ---
 
@@ -112,12 +112,6 @@ Title. Ive always been fascinated by Unmanned Aerial Manipulators, since they ca
 
 ## Google News: "robotics"
 
-**[Exclusive: Formic raises fresh funding to put more robots on factory floors](https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments)**
-
-Axios • 2d ago
-
----
-
 **[One small leap for a muscle, one giant step for robotics](https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html)**
 
 These robots have real muscles, and they’re finally making big moves. Researchers at ETH Zurich have developed muscle actuators that flex strongly enough to enable small robots to jump, swim, walk and grasp.
@@ -126,43 +120,9 @@ ETH Zürich • 3d ago
 
 ---
 
-**[Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)**
+**[Wearable system captures human activity data for robot training](https://techxplore.com/news/2026-10-wearable-captures-human-robot.html)**
 
-Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead.
-
-NVIDIA Developer • 1d ago
-
----
-
-**[FCC grants Intel waiver to use existing foreign-made robotic devices](https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/)**
-
-Reuters • 2d ago
-
----
-
-**[Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)**
-
-The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
-
-TechCrunch • 1d ago
-
----
-
-**[Lasers, Robots and AI: The Fight to Save Salmon Goes High-Tech](https://www.wsj.com/articles/lasers-robots-and-ai-the-fight-to-save-salmon-goes-high-tech-52d8c6e4)**
-
-WSJ • 1d ago
-
----
-
-**[Unitree Founder Now Expects Robots Breakthrough as Soon as 2028](https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
-
-Stanford Report • 2d ago
+Tech Xplore • 16h ago
 
 ---
 
@@ -174,11 +134,55 @@ NASA (.gov) • 2d ago
 
 ---
 
-**[Subaquatic robot leverages biomimetics for natural movement](https://newatlas.com/robotics/feather-star-underwater-robot/)**
+**[Researchers open autonomous robotics learning to the world](https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook)**
 
-Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That’s exactly what a research group at North Carolina State University has been working on.
+Stanford Report • 2d ago
 
-New Atlas • 1h ago
+---
+
+**[Eka Robotics raises $150M to scale its vision-force-action model for robots](https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/)**
+
+Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale.
+
+The Robot Report • 20h ago
+
+---
+
+**[Prediction: Robotics Will Be the Biggest Industrials Story of 2027. Here Are 2 Stocks to Buy Before Then.](https://www.fool.com/investing/2026/10/23/prediction-robotics-will-be-the-biggest-industrial/)**
+
+Want to profit from robotics trends? These two stocks could help you do it.
+
+The Motley Fool • 1d ago
+
+---
+
+**[This robot parks your car at the airport, and you get to keep the keys](https://interestingengineering.com/videos/this-robot-parks-your-car-at-the-airport-and-you-get-to-keep-the-keys)**
+
+London Gatwick has started letting passengers hand their cars to Stan, an autonomous valet robot from Paris-based Stanley Robotics that lifts vehicles by their tyres and parks them in a secure, robot-only car park.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[NVIDIA Expands Isaac Tools for Robot Training, Simulation and Deployment](https://www.hpcwire.com/aiwire/2026/10/23/nvidia-expands-isaac-tools-for-robot-training-simulation-and-deployment/)**
+
+HPCwire • 1d ago
+
+---
+
+**['The beginning of The Matrix': Unitree is developing an AI system that will let humanoid robots self-improve — and Tesla should be worried](https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week)**
+
+We've got robotics updates from Unitree, Tesla, and Figure, as the companies announce their latest progress.
+
+TechRadar • 21h ago
+
+---
+
+**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
+
+Agility Robotics’ first practical robotic worker is nothing like I dreamed
+
+IEEE Spectrum • 5d ago
 
 ---
 
@@ -192,7 +196,7 @@ Robots just learned kung fu. I ranked the best humanoid robots on the market, wi
 
 📺 AI BROS
 
-👁️ 20K • 👍 153 • 💬 69 • ⏱️ 2:54 • 14h ago
+👁️ 20K • 👍 153 • 💬 69 • ⏱️ 2:54 • 19h ago
 
 ---
 
@@ -202,17 +206,17 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Tesl
 
 📺 PRO ROBOTS
 
-👁️ 160K • 👍 2K • 💬 251 • ⏱️ 20:32 • 6d ago
+👁️ 162K • 👍 2K • 💬 251 • ⏱️ 20:32 • 6d ago
 
 ---
 
-**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
+**[Microducks Stole NVIDIA’s Show](https://www.youtube.com/watch?v=cgOZPijdl7w)**
 
-Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
+Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his commands... mostly Microduck is a ...
 
-📺 REC Anything
+📺 Techy or Not
 
-👁️ 1.2M • 👍 8K • 💬 947 • ⏱️ 8:29 • 2d ago
+👁️ 1K • 👍 40 • 💬 1 • ⏱️ 1:46 • 2h ago
 
 ---
 
@@ -222,37 +226,17 @@ Robots going completely wrong caught on camera return in Part 2 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 124K • 👍 1K • 💬 57 • ⏱️ 9:03 • 6d ago
+👁️ 127K • 👍 1K • 💬 59 • ⏱️ 9:03 • 6d ago
 
 ---
 
-**[99% of You Will Miss the Robotic Stack (My Full Map)](https://www.youtube.com/watch?v=OMDj6el4AbY)**
+**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
 
-I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics stack for physical AI. Get a free $55 when you trade $25 ...
+Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
 
-📺 Fin Tek
+📺 REC Anything
 
-👁️ 39K • 👍 634 • 💬 35 • ⏱️ 22:57 • 1d ago
-
----
-
-**[Meet MicroDuck  The Tiny AI Robot That Learns to Walk](https://www.youtube.com/watch?v=yJocK2jJZWc)**
-
-Meet the Microduck MD-01, a tiny $399 artificial intelligence robot that can walk, balance, roller-skate, and learn new movements.
-
-📺 DPCcars
-
-👁️ 5K • 👍 40 • ⏱️ 0:57 • 15h ago
-
----
-
-**[Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist](https://www.youtube.com/watch?v=APKcMzOfg1Y)**
-
-Witness the future of pilgrimage in Makkah. This incredible robot is designed to assist elderly pilgrims, providing mobility, shade, ...
-
-📺 Zeeshan Malik
-
-👁️ 28K • 👍 1K • 💬 3 • ⏱️ 0:10 • 1d ago
+👁️ 1.2M • 👍 8K • 💬 984 • ⏱️ 8:29 • 2d ago
 
 ---
 
@@ -262,7 +246,17 @@ The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredibl
 
 📺 DPCcars
 
-👁️ 53K • 👍 499 • 💬 169 • ⏱️ 2:30 • 3d ago
+👁️ 54K • 👍 507 • 💬 169 • ⏱️ 2:30 • 3d ago
+
+---
+
+**[99% of You Will Miss the Robotic Stack (My Full Map)](https://www.youtube.com/watch?v=OMDj6el4AbY)**
+
+I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics stack for physical AI. Get a free $55 when you trade $25 ...
+
+📺 Fin Tek
+
+👁️ 40K • 👍 665 • 💬 35 • ⏱️ 22:57 • 1d ago
 
 ---
 
@@ -272,7 +266,7 @@ xTerra Robotics is quickly establishing itself as one of India's most advanced r
 
 📺 RuntimeBRT
 
-👁️ 329K • 👍 13K • 💬 360 • ⏱️ 2:55 • 5d ago
+👁️ 342K • 👍 13K • 💬 369 • ⏱️ 2:55 • 6d ago
 
 ---
 
@@ -282,7 +276,17 @@ NVIDIA's adorable little robot ducks just gave everyone a good laugh! During a l
 
 📺 Converge360
 
-👁️ 531K • 👍 7K • 💬 282 • ⏱️ 0:28 • 2d ago
+👁️ 532K • 👍 7K • 💬 283 • ⏱️ 0:28 • 2d ago
+
+---
+
+**[Toyota&#39;s Walk Me: The chair that swaps wheels for robotic legs](https://www.youtube.com/watch?v=1ZD1w9FYABI)**
+
+Toyota's Walk Me, a four-legged mobility chair designed to climb stairs and help riders into cars, has won the Red Dot: Luminary ...
+
+📺 Interesting Engineering Explains
+
+👁️ 30K • 👍 753 • 💬 74 • ⏱️ 1:22 • 13h ago
 
 ---
 
