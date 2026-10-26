@@ -5,12 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Put Your A.I. Agents to Work With These 5 Killer Tasks",
+      "headline": "Opinion | The A.I. Boom Looks a Lot Like the Housing Bubble",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVM3eS0zbjY1QVZYMl92Ym80ZHZ2MTJ2ZTVycG8xY2FrWjAzSHlOODNKUmhWTkhuN1RqSm9TeXJPLXBzM0s3YUhKY2ttZVpENjlVQmRpbGIxazBISmNnYkExbFR1RnMtSGRaTVlYaFdxYzlHOTJvT1JjMDBzVnE0UnRieGJabm0tZ1lWYXJEcnlYeTBobWRMNjY0QWxVeG8?oc=5",
-      "pub_date": 1792918860.0,
-      "article_url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjJUaXZ4MW0xNTEwVWFNZGYtS200cHVkX3lKYnhhNGlxNFZaWU50SXFtaFlqYjI0eS11SVVtUTM5cjRJTncybGpzMjREZ29Md1dWU2FzbUV3SGFMcmNHZUd3ZDRrMWlJeVdyUVA4R0lfcUFzVnBrM19KZ2p3eXlTeGJySm9IM2dE?oc=5",
+      "pub_date": 1792933207.0,
+      "article_url": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
       "image": null,
       "description": null
     },
@@ -25,54 +25,64 @@
       "description": null
     },
     {
-      "headline": "From agriculture to AI-griculture: How tech is changing farming",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdGlCMGQ2enc1SjFqUHhYNGQzQ0w5aWVaSjlON0pieGstQnlwdjJkbWwzdUc3elMwemZPX3A3bDNETDBTRm9NQ21kaTQweWhPN19yRXg5WGZFejQ?oc=5",
-      "pub_date": 1792973589.0,
-      "article_url": "https://www.bbc.com/news/articles/cw80zk9k51j1o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/34b7/live/93f2a830-cefc-11f1-accf-3309656ad0bb.jpg",
-      "description": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology."
+      "headline": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0hIc09wcC1xcjlvazNhRnBtTUdRS1BzaHhmMlFjcXcwejdZOF81T1ktekRjSXoxaUFvbVM2a1Q3dXc1UkNPSnZiOUVRY3pGZ0JCQU1BTW1jWWVRV2pvZmRrazlDNmhfcW1SMTFqYkxTNExjazV5NTloOUZHMkZsazJkQUdQMUnSAYwBQVVfeXFMUENBS2U3QWF2ankzUFZPc2o5NnN4YVdZcURROVdRdFhtR0FoczM5N09sdlpNcEZDTW10c1JneXNDam15MldDc0pPcm9IRFA4OGhjRzdKbUFtSUlwcnQxc0N5QTEwZDZxQTFjQmFCU2pNcC12ZVBUQzRpX29BOEdkU1oySTEyb3hTbERzUHk?oc=5",
+      "pub_date": 1792990576.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108246651-1767105043132-108246651-1767103912282-gettyimages-2248717434-JAPAN_FII.jpeg?v=1767105059&w=1920&h=1080",
+      "description": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers."
     },
     {
-      "headline": "Watch Slow AI Buildout Could Be Inflationary: Natixis' Herrero",
+      "headline": "Anthropic taps a deep well of distrust in this rural town",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGJ0WTZNWVZycEJsRzZSeVNUNF95YnlNVktLZXZlcHRYQ1NObmozZzFLQjRUbFpNSzBFTzBMODhmMm5oYkRoMzdOaWJVMmhCcHlNUEZ1YUhJZ0dQSXVqTXdpREMtU2NxMnM2XzFBckZpaXhhUUdPQVN0YjhOb0dRUlJNalJwWnU5VzF6MnllQjBMUFU?oc=5",
+      "pub_date": 1792987215.0,
+      "article_url": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/dji-0962.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The first rainfall in months splashes off the windshield as the local mayor drives to the site of what could be Anthropic\u2019s first AI data center in Australia."
+    },
+    {
+      "headline": "Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlZXTG9jeV9wQk42U2hTX0ZCVnJ5Qng2bnRVb3RpYlpXcVlpLUVWNlhRZGM1eEFKeXA4NUl3eFREdV81UFZkaFY2U0cxSllxZ2dWcUFoUFdyeWVnNF9QaEFIUk1kNUFzcGFKVmlOUmh2TlRhRl9sc0FsUW93LUZxcVNRT2Z6NFdFd2I2dDByVjFXdjF1SnBuSFl0bmlLQlUtMXBhc3ZVcnJFX2w2WFE?oc=5",
-      "pub_date": 1792972800.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-10-26/slow-ai-buildout-could-be-inflationary-natixis-herrero-video",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RlX3A3ZENOMTJhNU5CRi12a0swUnlCSmtzbnJYQnRfQ1Z5NnpBVU9GdkRSUHNEXzZwSS0xc1FGRTlId3FnTWYzY1RCSWZHbkltc1dVRWMtSWNfSXFyLUJkcTRHSUV4MndxNVdONjRkSzBfRU44X1k4YjZqTVFfaWgzWE9QMHd1VWZsS1RUUmpxWTZBcHlHMXMxX25vNzhrOXViWGxXTUlVMUtoV05HQkhUZw?oc=5",
+      "pub_date": 1792992900.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/bitcoin-dips-below-80-000-as-ai-related-market-selloff-deepens",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI bot accessed public voter data through Georgia data hub, state says",
-      "source": "WSB-TV",
-      "source_url": "https://www.wsbtv.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPal9vVmpkaFg0NWVhbWg3OXd2Sm5mS1FCeEwzVDY4UlRZaFVrQUpwQU1iMUJtSG0wckpmOVA2b3RoRnRpRVlOZlpTWE51U2loT05Vc3ByV01fakNQVXZONk0wc2hwM1F2cTduZGlCaklsQXh3MkxwaDFzLWNvN3MtendyZlpzWVVFYS02T0tqM0VVTS1xeWhvMm5Kcm0tZFFuYlJTWXU4NTRyaUhlZ2JJRkxlNWlRdTkzZzZpZVlMeHVCaXBCaUpxLWNR0gHeAUFVX3lxTE5Td08yR3lWM3k4YnlJbmVtQ2dJVWJwY2paRlNLN010d1RNVVExVXBRVE1CckdHV0VpNGU2bTEwb3Azc0dWV182b1dzU1Y5enF2VklZT3c4a2N1b0tZbmZoU3dPY3ZCUzdvWDFpdFFyQ0ZCeld4Ty12ZGxjN2pTRTR5WEI1MzZ0cmtUZ2VORkc3Zk4tTnltdDZ1TWJ0aEpoT0szMmtmZ3ZKeWpjVXg4LWRpSkRLZVl6c0xuaUtrQTM1S2dGZl9idDNKYmlrSkxDcUpmaFFQd2pqWlFKWERtQQ?oc=5",
-      "pub_date": 1792959157.0,
-      "article_url": "https://www.wsbtv.com/news/local/ai-bot-accessed-public-voter-data-through-georgia-data-hub-state-says/QTO3EXUTWNHGNIPJGZHF6YDH3A/",
-      "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F3F53XVMKYRAAZIA6KGUZ553ZTE.jpg?auth=4d6971d29a532af722e9a3b966201d4d8f27587021b72866f2456b3245aad30a&width=1200&height=630&smart=true",
-      "description": "Georgia\u2019s data hub is a place where information is made available for people and systems to access."
+      "headline": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
+      "source": "Apollo Global Management",
+      "source_url": "https://www.apollo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHZjSE5HWVFmaFJNNVJMV09Sc1BWRGZVb0FhazlOQlFCY2hRV1VzSEtyNzh6WnhqWUhVSHV2NWpJanBrZm9rdGkwaW9MbS1FUnhTUkc4MDJ6SkI4T3YwWEdsY19HbW9LWG9ZNXRxOENPX2hrZWhCb2tVUEd0c29yNWxTdzRwMURoTVZaOXR1M0ptUEJEc1JpVFpJT0ZSZ29FYlA1LWRLTnNBNkVmVnNr?oc=5",
+      "pub_date": 1792838699.0,
+      "article_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+      "description": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates."
     },
     {
-      "headline": "Claude AI accessed publicly available Georgia voter data, Anthropic confirms",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1V0TEFXVkRST0oyRUxLRmM1eDlNVXpWU1Z6eUpMdmZ3cUhrYjJDeEtKbUJRUWJfVHEzRXBfMTZMYldqdlMwX0hSTFRNTkJmQmJvX25ycU8xM01Bc1hUUHItTzhqVXZ5UXVLMFVUeTBMRHN0Q3hfcUtXTDNzZldoRkl1U2NKVHRvRXFIbEJ5ODhXcGRtcDhKYVAydlZwd3ZSZjBDQnI1YmdNUS1iZXhHQTNHb0dIN2FN0gG-AUFVX3lxTE50STBSNzFDRHpBSjBJSDhWYU1HaGtyWVRUa1pOdEhZc1k4N0xOSmotektxSk84RXI3OXAxTm91eGU4NHJwM1dVUThmcFZQVDkteVhPcXh1dldhVmxuNHNrVW5QQVB3YTlVaWxiQkRwUHg4VmQxbWFXUWdHSGZGc3hwUUppa0ZRM0wyQ3dFeTY5bnZ3UFdpZWxKZHB3UjhDWXI1TmQ2aWhmMGdicy14Z25RNHNLY3V3TVlaOFBnWkE?oc=5",
-      "pub_date": 1792972800.0,
-      "article_url": "https://www.foxbusiness.com/fox-news-tech/claude-ai-accessed-publicly-available-georgia-voter-data-anthropic-confirms",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/voting-sticker.jpg?ve=1&tl=1",
-      "description": "Officials said the AI bot accessed publicly available voter data through the state's data hub but did not access voter files or Georgia's voter registration system."
+      "headline": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHBfUzFwS0VPeFU2VnBfLWxLcTRuOUdQbFU5YU5rV3BDTUhyUUtBU1VXdm50eHhzZ2pzTDZUWGp0YXJ1WEtfdUZjSGRHb0xnTjRhOUEtTXdtUG9GNkphZGN2WUtEMGd0VG5sbTc1SWFiRmxzUkhxUzNzZTF4NmFZNDBZTEJPUVV3c3lRdFRlb3RXUTNwcUN6MEVvdFk1Zk1tYlFsV3YyejdOa1U?oc=5",
+      "pub_date": 1792947720.0,
+      "article_url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "image": "https://i.insider.com/6ade1f21ab741a2ebdf111c1?width=1200&format=jpeg",
+      "description": "Only tech companies are seeing growth from the AI boom, Apollo Global Management said."
     },
     {
-      "headline": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5",
-      "pub_date": 1792967915.0,
-      "article_url": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
-      "image": null,
-      "description": null
+      "headline": "Expect significant economic fallout if the AI boom falters: Economist",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHdEcE1hRWlsV3BoaTRfc2RER0pSMGpTRHpDdzUxTEt6NVdvUldlQjFKR1NPSlFIaEZKcVRKSU1WWDEwd2U4YUlUcHlpUjRvZHRXZmdEaWh6ODJoWXo2ekx6TDFSLVBPZ19LRW5tMGpULXk0bmNPTXVkcTBSblNuaHhaNDlQWUd3NnJhUGd2MS1uX3cyRjlrTFJPV1RkNHVmYWRxaTVJY0hsclYtanA1Vg?oc=5",
+      "pub_date": 1792988122.0,
+      "article_url": "https://www.cnbc.com/video/2026/10/26/expect-significant-economic-fallout-if-the-ai-boom-falters-economist.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108461618-17929759441792975942-49233206624-1080pnbcnews.jpg?v=1792975943&w=1920&h=1080",
+      "description": "Constance Hunter, Chief Economist and Head of Research at Economist Enterprise, says AI-related exports are buoying Asian economies, while AI-driven equity gains are supporting U.S. consumption. She warns that the concentration of growth leaves economies exposed if the AI boom falters."
     },
     {
       "headline": "China increasingly depends on copying American AI",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "China\u2019s first AI film hits theaters, but people aren\u2019t rushing to see it",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUxPbjlkWmZEM2l2U1l4cmlEUzMwa1JsYUF3SWVhOG81ajYwNGlFR0hiYXY0YkdZOGk2U1E3M1F4TjlncnhvbzVoUG1vcW5kWW1OSTNkVTNEUURSajlfYlJhbEZwbnR3YkZYVkFmNzkyQXc3Y2QzTGVodDkwcDhQQkZ4X3hSVnhkdnpUZjNrNmNxZw?oc=5",
-      "pub_date": 1792923909.0,
-      "article_url": "https://www.nbcnews.com/world/asia/china-first-ai-film-sanxingdui-future-past-rcna605164",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-china-ai-movie-Sanxingdui-mn-1210-b7153f.jpg",
-      "description": "Early ticket sales for \u201cSanxingdui: Future Past\u201d were sluggish as filmmakers try to take the technology from short-form video to the big screen."
-    },
-    {
-      "headline": "As the US and China form AI blocs, countries are increasingly torn between them",
+      "headline": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple",
       "source": "AP News",
       "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakhwUzlHbnJOemg0S0x1WlNQSUZIaEtpZlNSd0JtZmszRlg2S3QtTzZla3o2WjdDdTlhUFk0M0UteG84UTA4TndIbUgycFJrTFhlTG4yRXQ2STNDOFBuWE10eDhfcVRuLTNJbWRTRkhMSDZzSXVrcGdCZmpkVG9jS3loUQ?oc=5",
-      "pub_date": 1792901100.0,
-      "article_url": "https://apnews.com/article/china-us-ai-blocs-9974a3e5dc955a93935d131a4aeb8886",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBhUVVyVGdmdjJJVDc0ZHR2QVlwSV9CZWpaSS1PWWpSN2VXZThCTW1VdXVoNGJTQWFpbVZOZjg5WjczQ083cFhEMmNRZ0YxWXNDel9QWnJQVlJVeFRJenF6OTZBVEtoRjA4dVpCMzJoYXNIT0pGZ1VGUklVWVRvTmJ4R3lRNFpXTlFtV0RkUGRfX0J3SmxGbkJ0WVpVZTdaTk5GMVc4QmpGT1pH?oc=5",
+      "pub_date": 1792925820.0,
+      "article_url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T00:34:30.340616+00:00"
+  "fetched_at": "2026-10-26T05:48:56.166493+00:00"
 }
