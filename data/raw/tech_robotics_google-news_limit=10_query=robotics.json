@@ -15,62 +15,32 @@
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
-      "headline": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmpvY1pGQzRtcWpnV1JBQXNwUGowRmNUcEFfV3NBX3BFR3ptTjl1UUpDZm5ackljOE1Kb1FrOWtKdEk0V1FzVE5VNUdUc01rQkgtcGFuQkltZThqMTM5NGpQc2lJeW5MYnRsY041dzMySzdONWJGRWYwV2ZqRE9CTDlrZnd5WFFSMl9FdUliTEZzQUJXZk5paExQZEQzSVVOLV84alNFdw?oc=5",
-      "pub_date": 1793036700.0,
-      "article_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
-      "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+      "headline": "Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1uODNBTHNBOE5uNEJjQndCY1dqZkc3RGkxcVY5NHNuSzh1Nm1UbTZMSGVCdmhSaHBicTctdkUzd2gxTzZyWnJ3bkEteVlXeUFmRW5GX3FPbHJ6R05paGZjTk5PWHFpWWhrX1dCYm5uQjkzLWtTM0duNDhyVHlmRkxxNXpZLUIyUVNKalVOR3ljSVNBbGVmMDl0dDlQLW1fTFlUVlNidTRDV214czhF0gG0AUFVX3lxTE5xbXBvd3A3dU5MRklvQnBWV0k2RVNPcU1lRDdGLUFTbEp3QlZWVEcwWk5pTnRwWExqRTZfbWhnanNhbDB5dVRkVUxNVHNJYzl3U2NiaHZlNEdPTDRMNnl4bk5ZcHlGOXVRakFtdXlGSjNjcl9JVUVhTlM2Q0ZXT203VlZraWFPNzlqRnhCRHRXYVJGYUVnelM5em1OLVpuQXpaX0Fza3BvQy1UalhZZVNOTk9rRQ?oc=5",
+      "pub_date": 1793048629.0,
+      "article_url": "https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330",
+      "image": "https://i.abcnewsfe.com/a/fbe5ef73-2312-4f94-aa20-a01d4315953b/AdventHealth-ht-er-261026_1793031672199_hpMain_16x9.jpg?w=1600",
+      "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
     },
     {
-      "headline": "Toyota takes on Tesla and China in humanoid robot race",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
-      "pub_date": 1792962006.0,
-      "article_url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
+      "headline": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQQ1V6eW1MMDgtWXhxTmRhQ1d0X0NnQUZRY0ZsekgxZ0V5UHdyQ1JVNllTMkFHT3dqV0IwdGxOOEp6ajhpX2k0UENveWt0Rmc1SFVfWDlXWXhjVFFDbER5NWczUzMxY08xME5CX3NYdkdvM0Q1bE1IVjd30gF_QVVfeXFMUGJvcUFSdjBuYl9PaDZ6NjdzOWRncVVMRW1BMDV2b3dELXprc041cXI2OGV0cDBiX05JMHItNWJ1cU1sRGt6S1BTdVl4cUpNSXhLMWI0X1NjQjFFRTBkTmJLajRreVBOS3FKT09VSkwxZWwydzZSaTVhandqNDQwZw?oc=5",
+      "pub_date": 1793054059.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108355638-1787909091760-JOHN_THUMB.jpg?v=1787909129&w=1920&h=1080",
+      "description": "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity."
     },
     {
-      "headline": "Intrinsic CEO Wendy Tan White on \u2018Democratizing\u2019 Robotics",
-      "source": "Time Magazine",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWF0NDhRdzg4T01LUjRlU2h0YXNIb2xlaWpuZnJFVUFLUW0zN3lrdEZkRzkzQ1RPMWhMRi1oUV9HZGZ0ajhVUDFwbnYxd005N2E2NkpBZUxiV2U5TXNJNWdHeWN3RzFSTkZSbE56dnZySUpQVm9EVERSUGJlSmFibEVR?oc=5",
-      "pub_date": 1792974314.0,
-      "article_url": "https://time.com/article/2026/10/26/intrinsic-ceo-wendy-tan-white-interview/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt405ea01ce59d3c75/6ade981bac57f923293d2712/image001_(4).jpg?branch=production&width=1600&quality=75&auto=webp&crop=16:9",
-      "description": "Tan White discusses how she sees robotics helping small manufacturers, Intrinsic\u2019s relationship with Google, and skills for the AI age."
-    },
-    {
-      "headline": "Hairy Armor For Combat Robot? It\u2019s Not Terrible!",
-      "source": "Hackaday",
-      "source_url": "https://hackaday.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGdncThPUnFTcDZwVjVRSzRMWHNKTm5udm4yVlI5R3hybEZSdU5fUWZqNDUxdWd0aDd3VmVERzNnX3kybmI2TVZua2FVa1l0VEpwTVBGaURfUFRuZGNTbm9PaUhJVVFRREhyRmpsZjJ5ckRNblNkVWJ4c1lRbUxQOWJpMUM?oc=5",
-      "pub_date": 1793001600.0,
-      "article_url": "https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/I-made-a-HAIRY-combat-robot-in-48hrs-26-38-screenshot.png",
-      "description": "[Angus] of Maker\u2019s Muse enjoys combat robotics, in which contenders zip about in an arena, attempting to disable one another with weapons that lift, spin, and smash. He got a funny idea a sho\u2026"
-    },
-    {
-      "headline": "Are Delivery Robots Scanning You Into a Database Scarier Than Flock?",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PaTVqVkFBeHhCQzBCOVNoemhjbkM1d1g0eFFKMm9aMk16a05yQ2M5RjV3blQyNlNWQlFnTzJ0dzJhYVdtbGlWWjY1YndNNVNEbDIyQUdnQ2M5Z1QwZVRtdkNvOXkwZnFSdkU4M3NXWERtRjZCWnRSSE1lQQ?oc=5",
-      "pub_date": 1792940220.0,
-      "article_url": "https://futurism.com/robots-and-machines/delivery-robots-database-flock",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/delivery-robots-database-flock.jpg?quality=85&w=2048",
-      "description": "A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent."
-    },
-    {
-      "headline": "Robots set world record with synchronised dancing",
-      "source": "Sky News",
-      "source_url": "https://news.sky.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdi1rdlF3amZuS0xNOUZzR05lUFdISXZ3Wl9CMzlmaTR4QU1PdUlsZkVnTUZ1ZUxsUTUwWXFqS0hUa0VkdmJyOXZHUnIzcnNBekktRTFBM1A5R0Y3cEFQSWxhaW1WSHBocXRLSlhveURfZWpTQXF3aXhIUklSRVJ0UlpDQXdPWDVsd2xPbFVB?oc=5",
-      "pub_date": 1793016262.0,
-      "article_url": "https://news.sky.com/video/robots-set-world-record-with-synchronised-dancing-13603980",
+      "headline": "AI factory designer Foundry Robotics makes massive expansion into East Bay",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnNUeExaUG1CRkUydzJDTTR1NDdxWm9lQnFhUXVYcDE3WktJSjhTbmo4cjVqWUZybEFMVE4xX2ZHeE5QUjhtaHNKbVBMY1k1bUFjY002Y0RUNlpiZjVfZllEblNvMGJ1TWk1VkE5RGRQN3NWWTVOTUJiSVhxUldwSzF5RUlsS3lPZlE3a3ZSS1NKZVpoc3ZncXc2TlNSNzhG?oc=5",
+      "pub_date": 1793050200.0,
+      "article_url": "https://www.bizjournals.com/sanfrancisco/news/2026/10/26/foundry-robotics-emeryville-expansion.html",
       "image": null,
       "description": null
     },
@@ -85,26 +55,56 @@
       "description": null
     },
     {
-      "headline": "Twenty teams compete in ninth annual Lake County robotics scrimmage",
-      "source": "WFTV",
-      "source_url": "https://www.wftv.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdUNmWkpNbUM2ZDB4NjQzTG5rWmIxdV9VQjBYNklUNGxBbGRGQWM3OTdYenFQWFdlY001M1VHcUp5eWlJSUo2cnd5bVBmRkpWd0FGakxiQjVoRUhiemctT1RiR2VMX2sxdTdOZl80cTB1R3VsTGlDX3MxZF9iSmZlVGc3bnVLSV9SOXNJUTA1NlZpOEh6cE5ZMmVLOGMtNjB6VHh4ZHRNNHRvRUFOYjhTSzBOamRaMmJZazh2UHBOdkE1Z9IB1gFBVV95cUxQZW1sYjdyRm1QaFZCdWtvZGw5UzYwY25LU01lRmlGUV8xTHlRNUszUVpsMjlQbkdqMnhGT3ViQk10MmtCMkdGemdqU1FuZ1JWZFpOWjFqNlRsbi1kLUFRZXNleXBNQzZlaTBBT3BtOXI1ZDBacVkyQmxrVmxLWExfbjNXQkozZC1vVEk1eVBpbkpBbEgyQXpuR0I4QU9zLUZ0bjljek5fR0R3SzhLOUVCTTNFMWVTd0xYSHNNaXliVDhSNlEtTndnODUxWWhWd3ZjMEEzc0FB?oc=5",
-      "pub_date": 1793035136.0,
-      "article_url": "https://www.wftv.com/news/local/twenty-teams-compete-ninth-annual-lake-county-robotics-scrimmage/WHO3LLUK6BG4LADVN6WROSADIM/",
-      "image": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSNB2ZAUH3NG6XJXZAV56BE7EKE.jpg?auth=752f5d1fb792b434698bd15b09d2d95d17485d9d0327a259b3643fe918d4ed13&width=1200&height=630&smart=true",
-      "description": "Cypress Ridge Elementary and Aurelia M. Cole Academy won excellence awards at the recent Lake County Robotics Scrimmage."
+      "headline": "Week Begins with Robotics Prep for Spacewalk and Advanced Research",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWC1zdnNEWXQwVmM2VDk2TGZxYWZNc3hfclFHT2gwT3Q0aHlDQVJNTF9FTnFwZ3pVUWZ0MDRkSmJ3dzVZbk1seDVJOG00dC1sMm9NaC1RQTNNaDcwM2FjUTY3NXExb2lBeHhUdFMxeE1YSFVySFFwWHduUC1EQUUzdmtObzYzLVdRYjU0YVcteGljZWw3ZEV4V1FjSVM2MUtmbXlXQlIxRnZ6aEUwNHRqV0RqQzVEbjI2WUE?oc=5",
+      "pub_date": 1793029918.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/",
+      "image": "https://images-assets.nasa.gov/image/iss073e0273067/iss073e0273067~large.jpg",
+      "description": "Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station\u2019s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday\u2019s schedule."
     },
     {
-      "headline": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZklWdGNtbFB2Z2RnTURKVFdvS0tjb2c1VHV4bWVQb3AtNmR1dDFGUWNiXzJkeWhMaHNwYlpfTEpVajl5NlZSYTJ1M01pdThNdnd5dzZPY0VaSkdzOEp0UTlyZE5aSHFoSDRTU3k0UFBpaTh1Q2kwRUliQzI2Y0poeXV0MTg3YWx5aFFXaWFqTzRYTTFwQU1zeWRPRTFqMFgzbUVvc1ZSUUQ0U2RnQUF5eXZYb1JXd2M?oc=5",
-      "pub_date": 1792775911.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
-      "description": "Company says foreign-made robotic vehicles are crucial to US chip production."
+      "headline": "Move Over, Tesla: This Robotics Stock Is the Better Buy",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0VlN2llUVU4dEpJMzNvQlhNRmw0OVNLYUpwZFRmTjJIclJncy14NXVVS1F3RHVnMl8zd1Bidk1DLVJhQVpMT2JwUkkzejV5VVhfdjZFNVl6U1BjMzNrdVF3Ul8xTV9QTE1kWEZIN01rS0g5Z3FTVTdkZExxaVp3M3J1UGZMdHM3MFpnaU5ONGhhdw?oc=5",
+      "pub_date": 1793040383.0,
+      "article_url": "https://www.fool.com/investing/2026/10/26/move-over-tesla-this-robotics-stock-is-better/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891368%2Fadvanced-robotics-assembly-line-getty.jpg&w=1200&op=resize",
+      "description": "Tesla is looking to start manufacturing its Optimus robots, but this industrial giant has been helping factories automate for decades."
+    },
+    {
+      "headline": "Are Delivery Robots Scanning You Into a Database Scarier Than Flock?",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PaTVqVkFBeHhCQzBCOVNoemhjbkM1d1g0eFFKMm9aMk16a05yQ2M5RjV3blQyNlNWQlFnTzJ0dzJhYVdtbGlWWjY1YndNNVNEbDIyQUdnQ2M5Z1QwZVRtdkNvOXkwZnFSdkU4M3NXWERtRjZCWnRSSE1lQQ?oc=5",
+      "pub_date": 1792940220.0,
+      "article_url": "https://futurism.com/robots-and-machines/delivery-robots-database-flock",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/delivery-robots-database-flock.jpg?quality=85&w=2048",
+      "description": "A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent."
+    },
+    {
+      "headline": "Hairy Armor For Combat Robot? It\u2019s Not Terrible!",
+      "source": "Hackaday",
+      "source_url": "https://hackaday.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGdncThPUnFTcDZwVjVRSzRMWHNKTm5udm4yVlI5R3hybEZSdU5fUWZqNDUxdWd0aDd3VmVERzNnX3kybmI2TVZua2FVa1l0VEpwTVBGaURfUFRuZGNTbm9PaUhJVVFRREhyRmpsZjJ5ckRNblNkVWJ4c1lRbUxQOWJpMUM?oc=5",
+      "pub_date": 1793001600.0,
+      "article_url": "https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/I-made-a-HAIRY-combat-robot-in-48hrs-26-38-screenshot.png",
+      "description": "[Angus] of Maker\u2019s Muse enjoys combat robotics, in which contenders zip about in an arena, attempting to disable one another with weapons that lift, spin, and smash. He got a funny idea a sho\u2026"
+    },
+    {
+      "headline": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
+      "source": "Global Times",
+      "source_url": "https://www.globaltimes.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80QVQxRktxem15Uy02NkFZcGRVb1Y3czV3ZHFpU0x3UEJBOU5yMXJ1RzZlMkxLdmFQb3RIZC1qTHVGNm1ZT1BmTEdjX3hNTU9mX2hBSWNwbDBrYmN1bHdfcG53?oc=5",
+      "pub_date": 1792897140.0,
+      "article_url": "https://www.globaltimes.cn/page/202610/1372888.shtml",
+      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/769f8f28-90cd-4fde-b250-759abf8efb3a.jpeg",
+      "description": "China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T18:49:07.887812+00:00"
+  "fetched_at": "2026-10-26T23:02:46.165842+00:00"
 }
