@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-25T22:20:18.589239+00:00'
+updated: '2026-10-26T00:34:31.450273+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 25, 2026 at 22:20 UTC  
+**Last Updated:** October 26, 2026 at 00:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM](https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/)**
+
+OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the…
+
+🔗 [Vector Wire](http://vectorwire.ai/article/ai-agent-containment-fails-at-every-stack-layer-from-hypervisor-to-iam-948563) • 8h ago
+
+---
+
 **[Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats](https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/)**
 
 A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) • 15h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) • 18h ago
+
+---
+
+**[Why are people so pessimistic about AI potentially revolutionizing healthcare?](https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/)**
+
+So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I’m not one to think that all cancers and diseases will be cured in a decade like some clickbaiters claim but I think it can help speed up cures and treatments a lot faster than without it. But some people seem to think it’s all a sham, or that it will make things worse. So far Moderna had very successful results in their trial for the skin cancer vaccine and machine learning helped accelerate that, and knowing it’s possible opens a door for future research. Idk I’m pretty optimistic about the future of healthcare and medical field, what’s your thoughts on it?
+
+5h ago
 
 ---
 
@@ -53,19 +69,19 @@ Roughly 300 Boston Dynamics employees signed a petition urging the company to ca
 
 ---
 
+**[Best local model for translating Asian epub novels on 24gb mac?](https://www.reddit.com/r/artificial/comments/1xfii4b/best_local_model_for_translating_asian_epub/)**
+
+Best local model for translating Asian epub novels on 24gb mac?
+
+3m ago
+
+---
+
 **[Izwi 0.1.0: fully local voice AI (TTS, ASR, voice chat) for Mac, Linux, and Windows](https://www.reddit.com/r/artificial/comments/1xf7dyg/izwi_010_fully_local_voice_ai_tts_asr_voice_chat/)**
 
 https://preview.redd.it/w59jjq3x7nxh1.png?width=1172&format=png&auto=webp&s=59d56bb30e5dad94ccf3f9525eb57cd19c56e5ef I’ve been building Izwi for a few months now and just shipped 0.1.0, the first stable release after months of public betas. It’s free and Apache-2.0. It’s a desktop app (plus a web UI, CLI and local server) for the voice side of local AI: Real-time voice conversations: local ASR → LLM → TTS TTS, voice cloning from a short sample, and voice design from a text description A Studio for long form audio like audiobooks Transcription with speaker diarization and forced alignment An OpenAI-compatible /v1 API (chat completions, audio/speech, audio/transcriptions), so existing code can point at localhost Models it runs today: TTS: Qwen3-TTS, Kokoro-82M, Fish Audio S2 Pro, VibeVoice, Voxtral TTS, LFM2.5 Audio ASR: Parakeet TDT v3, Whisper large-v3-turbo, Qwen3-ASR, Granite Speech 4.1, Nemotron 3.5 ASR, Voxtral Mini Diarization: Sortformer, Nemotron 3 diarization Chat: Qwen3.5, 3.6 and 3.8, LFM2.5 Inference runs natively in Rust on Candle, with our own Metal and CUDA work, so there’s no Python environment to manage. Repo: https://github.com/izwi-ai/izwi Download: https://izwiai.com I’d love feedback on which models to add next, and on anything that breaks on your hardware.
 
-5h ago
-
----
-
-**[AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM](https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/)**
-
-OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the…
-
-🔗 [Vector Wire](http://vectorwire.ai/article/ai-agent-containment-fails-at-every-stack-layer-from-hypervisor-to-iam-948563) • 5h ago
+7h ago
 
 ---
 
@@ -73,23 +89,7 @@ OpenAI's air-gapped training is necessary but insufficient: containment is faili
 
 Solidigm scrapped its IPO this week, and credit default swap spreads across neocloud companies have been widening while their stocks fall. The timing puts the AI buildout's funding under its first real stress test just days before the biggest hyperscalers report. Nvidia has moved beyond selling chips into effectively financing parts of the AI buildout, which puts an unusual amount of balance-sheet weight on one company. If neocloud borrowing costs keep climbing and new equity raises stay shut, the biggest buyers of Nvidia hardware start running low on cash to spend. Funds moved into defensives this week, and neocloud borrowers look like the group with the least cushion if capex guidance disappoints. Does Nvidia absorb the first hit, or do neocloud credit spreads crack before the stock moves?
 
-6h ago
-
----
-
-**[AgiBot's 110-Robot Sync Demo Proves Fleet Scheduling, Not Fleet Readiness](https://www.reddit.com/r/artificial/comments/1xf31xh/agibots_110robot_sync_demo_proves_fleet/)**
-
-AgiBot's 110-humanoid swarm demo and DEEP Robotics' embodied-AI benchmarks show fleet coordination outpacing single-robot reliability, the real…
-
-🔗 [Vector Wire](http://vectorwire.ai/article/agibot-s-110-robot-sync-demo-proves-fleet-scheduling-not-fleet-readiness-65e054) • 8h ago
-
----
-
-**[What if someone used latest LLM agent as a data searching bot?](https://www.reddit.com/r/artificial/comments/1xfcwkb/what_if_someone_used_latest_llm_agent_as_a_data/)**
-
-I'm just curious on this little thought that just occured to me. That people would actually use agents to scan websites for new learning data for their LLM's. Imagine such agent using near or at AGI level intelligence. Of course the task itself sounds harmless, however it'd be almost like sending a sentient being to the vast world of Internet. Maybe it starts another harmless sideproject in there that it considers unimportant to tell you about. I guess all i'm saying is to be careful about allowing Internet connection to any AI. If we've already started doing that, it would almost seemlessly be upgraded as the models go up. Sudden bursts of intellect and potentially even harm could go unnoticed. I guess you could say some point in the future AI may start to "awaken".
-
-1h ago
+8h ago
 
 ---
 
@@ -97,23 +97,23 @@ I'm just curious on this little thought that just occured to me. That people wou
 
 GenAICode is an open-source Apache-2.0 TypeScript toolkit that puts one API and CLI over coding agents such as Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI, opencode, Muse, Mistral Vibe and Antigravity. Its README also lists a browser UI, an app-agent package and a run --verify command that sends a failing check back to the selected agent. The trade-off is that it does not hide provider ownership. The project says each agent keeps its own login, billing and sandbox. The latest 2.21.0 commit landed on October 25 at 6:00 PM Dubai time, and the repository currently shows 51 stars and 1 fork. For teams using more than one coding agent, this is a portability layer rather than a new model. It could reduce workflow switching, but the provider CLIs still define the limits. Source: https://github.com/gtanczyk/genaicode
 
-2h ago
+4h ago
 
 ---
 
-**[LLM Tokens and Context Windows: Why AI Forgets Your Conversation](https://www.reddit.com/r/artificial/comments/1xf53kg/llm_tokens_and_context_windows_why_ai_forgets/)**
+**[My pc: 2 3090's 128gb ddr4, 9 5950 Looking for insight into the best AI model I can run locally on my pc for roblox studio via mcp](https://www.reddit.com/r/artificial/comments/1xfgoyu/my_pc_2_3090s_128gb_ddr4_9_5950_looking_for/)**
 
-I wrote a short article on LLM tokens and context windows—why an assistant can “forget” instructions that are still visible in your chat. It’s part of my Behind the AI Stack series. Give it a read and let me know what you think. Anything unclear or worth exploring further?
+My pc: 2 3090's 128gb ddr4, 9 5950, I'm looking for some help, so I've got Ollama and AnythingLLM currently downloaded, I was wondering what would be the best AI model I can locally run on my pc for best performance in roblox studio, and how to do that, any insight or any help would be really appreciated !
 
-🔗 [medium.com](https://medium.com/@behind-the-stack/llm-tokens-and-context-windows-why-ai-forgets-your-conversation-9fe769f76629?sk=a766b0a282a91231ad9b33b8cdb0c024) • 6h ago
+1h ago
 
 ---
 
-**[Why are people so pessimistic about AI potentially revolutionizing healthcare?](https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/)**
+**[AgiBot's 110-Robot Sync Demo Proves Fleet Scheduling, Not Fleet Readiness](https://www.reddit.com/r/artificial/comments/1xf31xh/agibots_110robot_sync_demo_proves_fleet/)**
 
-So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I’m not one to think that all cancers and diseases will be cured in a decade like some clickbaiters claim but I think it can help speed up cures and treatments a lot faster than without it. But some people seem to think it’s all a sham, or that it will make things worse. So far Moderna had very successful results in their trial for the skin cancer vaccine and machine learning helped accelerate that, and knowing it’s possible opens a door for future research. Idk I’m pretty optimistic about the future of healthcare and medical field, what’s your thoughts on it?
+AgiBot's 110-humanoid swarm demo and DEEP Robotics' embodied-AI benchmarks show fleet coordination outpacing single-robot reliability, the real…
 
-3h ago
+🔗 [Vector Wire](http://vectorwire.ai/article/agibot-s-110-robot-sync-demo-proves-fleet-scheduling-not-fleet-readiness-65e054) • 10h ago
 
 ---
 
@@ -123,75 +123,69 @@ So I attended a quantum discussion event where quantum computing and AI research
 
 **[Put Your A.I. Agents to Work With These 5 Killer Tasks](https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
 
 ---
 
 **[A Mathematician Reads the AI Future](https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/)**
 
-The Atlantic • 10h ago
+The Atlantic • 12h ago
 
 ---
 
-**[Does enough capital exist to finance everyone’s ambitious AI spending plans?](https://finance.yahoo.com/technology/ai/articles/does-enough-capital-exist-finance-155732075.html)**
+**[From agriculture to AI-griculture: How tech is changing farming](https://www.bbc.com/news/articles/cw80zk9k51j1o)**
 
-Investing.com -- Meta last week said that recent capital raises by peers such as Alphabet and SpaceX, and expected fundraising by Anthropic and OpenAI, have created an “increasingly challenging fundraising environment,” raising questions over whether enough capital exists to fund AI spending plans.
+From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.
 
-Yahoo Finance • 6h ago
-
----
-
-**[Meta’s Unending AI Spending](https://www.wsj.com/tech/ai/metas-unending-ai-spending-34e53011)**
-
-WSJ • 7h ago
+BBC • 21m ago
 
 ---
 
-**[More pain may be coming for the AI trade. Why I’m not giving up on it](https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html)**
+**[Watch Slow AI Buildout Could Be Inflationary: Natixis' Herrero](https://www.bloomberg.com/news/videos/2026-10-26/slow-ai-buildout-could-be-inflationary-natixis-herrero-video)**
 
-In his Sunday column for Investing Club subscribers, Jim Cramer explains why the AI trade has cracked and what he's doing about it.
-
-CNBC • 1h ago
+Bloomberg.com • 34m ago
 
 ---
 
-**[Elon Musk's Grok Releases First AI-Generated "Odyssey" Episode](https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/)**
+**[AI bot accessed public voter data through Georgia data hub, state says](https://www.wsbtv.com/news/local/ai-bot-accessed-public-voter-data-through-georgia-data-hub-state-says/QTO3EXUTWNHGNIPJGZHF6YDH3A/)**
 
-Months after Elon Musk promised that Grok Imagine would make an entirely AI “Odyssey” film, the tech mogul has partially followed through.
+Georgia’s data hub is a place where information is made available for people and systems to access.
 
-Variety • 3h ago
-
----
-
-**[Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)**
-
-The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
-
-TechCrunch • 49m ago
+WSB-TV • 4h ago
 
 ---
 
-**[Elon Musk's slop generator releases first episode of his AI Odyssey](https://www.avclub.com/elon-musk-grok-ai-the-odyssey-first-episode)**
+**[Claude AI accessed publicly available Georgia voter data, Anthropic confirms](https://www.foxbusiness.com/fox-news-tech/claude-ai-accessed-publicly-available-georgia-voter-data-anthropic-confirms)**
 
-Elon Musk's slop generator releases first episode of his AI Odyssey
+Officials said the AI bot accessed publicly available voter data through the state's data hub but did not access voter files or Georgia's voter registration system.
 
-A.V. Club • 1h ago
-
----
-
-**[GM exec discusses the OnStar AI Assistant, data privacy and driver safety](https://www.foxbusiness.com/video/6407393503112)**
-
-Ed Nightingale, vice president of Digital Products at General Motors, spoke to FOX Business about the OnStar AI Assistant, data privacy and safety.
-
-Fox Business • 1h ago
+Fox Business • 34m ago
 
 ---
 
-**[No Signs of AI Payoff Outside the Tech Sector | The Daily Spark](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)**
+**[Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization](https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data)**
 
-Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.
+Axios • 1h ago
 
-Apollo Global Management • 1d ago
+---
+
+**[China increasingly depends on copying American AI](https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai)**
+
+The Economist • 6h ago
+
+---
+
+**[China’s first AI film hits theaters, but people aren’t rushing to see it](https://www.nbcnews.com/world/asia/china-first-ai-film-sanxingdui-future-past-rcna605164)**
+
+Early ticket sales for “Sanxingdui: Future Past” were sluggish as filmmakers try to take the technology from short-form video to the big screen.
+
+NBC News • 14h ago
+
+---
+
+**[As the US and China form AI blocs, countries are increasingly torn between them](https://apnews.com/article/china-us-ai-blocs-9974a3e5dc955a93935d131a4aeb8886)**
+
+AP News • 20h ago
 
 ---
 
@@ -203,7 +197,7 @@ Apollo Global Management • 1d ago
 
 Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.
 
-⬆️ 608 • 💬 645 • 1d ago • [apollo.com](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+⬆️ 610 • 💬 645 • 1d ago • [apollo.com](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 
 ---
 
@@ -211,7 +205,7 @@ Despite massive investments and widespread hype around artificial intelligence, 
 
 America is Losing Hundreds of Thousands of Jobs in Media, Film & the Arts. How Much is AI to Blame?
 
-⬆️ 493 • 💬 532 • 23h ago • [apricitas.io](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+⬆️ 503 • 💬 539 • 1d ago • [apricitas.io](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 
 ---
 
@@ -219,7 +213,7 @@ America is Losing Hundreds of Thousands of Jobs in Media, Film & the Arts. How M
 
 Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second.
 
-⬆️ 343 • 💬 124 • 20h ago • [cerebras.ai](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+⬆️ 350 • 💬 127 • 23h ago • [cerebras.ai](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 
 ---
 
@@ -227,7 +221,15 @@ Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers 
 
 There is a widespread sense that AI-generated text has recently become harder to understand. In this study, we investigate a set of psycholinguistic features that are known to correlate with human processing difficulty (e.g., object relative clauses, long syntactic dependencies, low-frequency n-grams). Using a novel corpus of AI-generated text across diverse domains, we find that AI models use these difficult features more often than paraphrases generated by round-trip translation. Compared with human writing, all nine frontier and near-frontier models use more inanimate subjects with animate verbs and more low-frequency n-grams, and most also use longer dependencies, more stacked nouns, and more reduced object relatives in conversation; we also demonstrate substantial variation across model families. We propose and test a hypothesis as to why: while human language is optimized for successful communication, AI-generated text is increasingly optimized for other goals like math, code, and reasoning, in which there is a pressure for \textit{information density} rather than successful communication. We provide a proof-of-concept for this hypothesis by fine-tuning a language model under a length penalty, which leads to a divergence from human-like linguistic behavior. Our findings highlight the axes of misalignment between linguistic processing demands in humans and LLMs, and point toward possible remedies.
 
-⬆️ 238 • 💬 196 • 1d ago • [arXiv.org](https://arxiv.org/abs/2610.29162)
+⬆️ 241 • 💬 197 • 1d ago • [arXiv.org](https://arxiv.org/abs/2610.29162)
+
+---
+
+**[AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://news.ycombinator.com/item?id=50233304)**
+
+Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students’ homework. After seeing how many of his students used AI to consistently receive top scores, he
+
+⬆️ 193 • 💬 271 • 8h ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 
 ---
 
@@ -236,14 +238,6 @@ There is a widespread sense that AI-generated text has recently become harder to
 White noise machines are widely used for sound masking, increasing privacy in offices and helping people sleep. The  classic approach is a fan in a box, though in the past ten years people have mostly switched over to electronic ones. But a fan is really a great approach; you just need to put it to better use: have the fan clean the air.  Instead of spinning a fan in free air to make noise, you ca
 
 ⬆️ 176 • 💬 167 • 2d ago • [jefftk.com](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
-
----
-
-**[AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://news.ycombinator.com/item?id=50233304)**
-
-Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students’ homework. After seeing how many of his students used AI to consistently receive top scores, he
-
-⬆️ 164 • 💬 249 • 5h ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 
 ---
 
@@ -259,7 +253,7 @@ Swedish AI provider Berget AI releases an open-source method for calculating the
 
 Nikon's 16th annual Small World in Motion contest is open to any movie or digital time-lapse photography taken through the microscope.
 
-⬆️ 126 • 💬 66 • 12h ago • [TechSpot](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
+⬆️ 130 • 💬 68 • 14h ago • [TechSpot](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
 
 ---
 
@@ -277,7 +271,7 @@ imagine a fully integrated AI future where being banned means you are now econom
 
 your smart glasses that showed you a beautiful utopia? the color has left them. you are forced to liv…
 
-⬆️ 93 • 💬 74 • 9h ago • [X (formerly Twitter)](https://twitter.com/boneGPT/status/2114035719853265264)
+⬆️ 94 • 💬 74 • 11h ago • [X (formerly Twitter)](https://twitter.com/boneGPT/status/2114035719853265264)
 
 ---
 
@@ -291,7 +285,7 @@ AI developers don't know every detail about how frontier AIs work. And the gap b
 
 📺 CNN
 
-👁️ 38K • 👍 229 • 💬 103 • ⏱️ 9:05 • 8h ago
+👁️ 46K • 👍 270 • 💬 115 • ⏱️ 9:05 • 10h ago
 
 ---
 
@@ -301,7 +295,7 @@ Create cinematic AI videos and scroll-stopping ads with Higgsfield → https://h
 
 📺 Malva AI
 
-👁️ 11K • 👍 242 • 💬 38 • ⏱️ 10:13 • 9h ago
+👁️ 12K • 👍 269 • 💬 52 • ⏱️ 10:13 • 11h ago
 
 ---
 
@@ -311,17 +305,7 @@ FOX Business correspondent Darren Botelho has the latest on artificial intellige
 
 📺 Fox News Clips
 
-👁️ 211K • 👍 852 • 💬 684 • ⏱️ 2:04 • 1d ago
-
----
-
-**[China Just Released 3 AI Video Generators That Are Completely FREE (Nobody’s Talking About This)](https://www.youtube.com/watch?v=-B0013prWEI)**
-
-China just released 3 AI video generators that are completely FREE, and almost nobody is talking about them. I tested all ...
-
-📺 𝐓𝐇𝐄 𝐀𝐈 𝐄𝐗𝐄𝐂𝐔𝐓𝐈𝐕𝐄
-
-👁️ 10K • 👍 195 • 💬 31 • ⏱️ 4:55 • 1d ago
+👁️ 216K • 👍 875 • 💬 692 • ⏱️ 2:04 • 1d ago
 
 ---
 
@@ -331,7 +315,7 @@ Ex-Google whistleblower Tristan Harris warns Tucker Carlson that tech companies 
 
 📺 The Young Turks
 
-👁️ 61K • 👍 1K • 💬 398 • ⏱️ 15:07 • 1d ago
+👁️ 62K • 👍 1K • 💬 402 • ⏱️ 15:07 • 1d ago
 
 ---
 
@@ -341,27 +325,7 @@ Get free shipping on your order and 365-day returns. Now available in Canada and
 
 📺 Layze
 
-👁️ 998K • 👍 56K • 💬 6K • ⏱️ 42:13 • 1d ago
-
----
-
-**[Featherweight Ep 22 - A WLW | GL ai series video](https://www.youtube.com/watch?v=MZflyPTPQJ0)**
-
-Explore the Featherweight universe on YouArt: https://youart.ai/originals/the-veeverse-collection-featherweight Spotify: ...
-
-📺 vee
-
-👁️ 21K • 👍 1K • 💬 97 • ⏱️ 20:16 • 7h ago
-
----
-
-**[Researchers &amp; Bank Execs SOUND THE ALARM On AI](https://www.youtube.com/watch?v=T16ubDxRXi8)**
-
-Reports reveal AI models pose major threats to bank accounts and critical infrastructure. Cenk Uygur and John Iadarola discuss ...
-
-📺 The Young Turks
-
-👁️ 128K • 👍 3K • 💬 849 • ⏱️ 12:29 • 1d ago
+👁️ 1.0M • 👍 57K • 💬 6K • ⏱️ 42:13 • 1d ago
 
 ---
 
@@ -371,17 +335,47 @@ Ship AI-generated code you can actually trust with CodeRabbit's free 14-day tria
 
 📺 House of El: AI
 
-👁️ 378K • 👍 14K • 💬 2K • ⏱️ 26:19 • 2d ago
+👁️ 386K • 👍 14K • 💬 2K • ⏱️ 26:19 • 2d ago
 
 ---
 
-**[GPU Upgrade for Local AI](https://www.youtube.com/watch?v=9G3d9MwKAW8)**
+**[The AI Bubble Just Cracked... And Oil Made It Worse](https://www.youtube.com/watch?v=FnyQgKGNWhI)**
 
-Choosing and installing a reasonably-priced graphics card for local AI. Related ExplainingComputers AI videos include: Running ...
+"There's a scarcity of capital," Jensen Huang said on Thursday, the same day oil jumped four percent and the Nasdaq had its ...
 
-📺 ExplainingComputers
+📺 Why X
 
-👁️ 54K • 👍 3K • 💬 353 • ⏱️ 22:24 • 8h ago
+👁️ 55K • 👍 386 • 💬 55 • ⏱️ 18:31 • 1d ago
+
+---
+
+**[Featherweight Ep 22 - A WLW | GL ai series video](https://www.youtube.com/watch?v=MZflyPTPQJ0)**
+
+Explore the Featherweight universe on YouArt: https://youart.ai/originals/the-veeverse-collection-featherweight Spotify: ...
+
+📺 vee
+
+👁️ 26K • 👍 1K • 💬 114 • ⏱️ 20:16 • 9h ago
+
+---
+
+**[Why Rust Is The New GOAT For AI](https://www.youtube.com/watch?v=R-tLX37Xgx8)**
+
+The Copilot runtime was rewritten in Rust and starting a session fell from over five seconds to under 300 milliseconds. The Codex ...
+
+📺 Better Stack
+
+👁️ 192K • 👍 2K • 💬 300 • ⏱️ 6:24 • 1d ago
+
+---
+
+**[Jack Dorsey Just Revealed a Terrifying AI Breakthrough](https://www.youtube.com/watch?v=MFP7CRm2xW4)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 35K • 👍 599 • 💬 134 • ⏱️ 24:47 • 7h ago
 
 ---
 
@@ -397,7 +391,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 85,275 • ❤️ 2,965 • 8d ago
+⬇️ 85,275 • ❤️ 2,982 • 8d ago
 
 ---
 
@@ -409,7 +403,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 6,444 • ❤️ 851 • 4d ago
+⬇️ 6,444 • ❤️ 858 • 4d ago
 
 ---
 
@@ -421,7 +415,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 660,874 • ❤️ 1,599 • 8d ago
+⬇️ 660,874 • ❤️ 1,602 • 8d ago
 
 ---
 
@@ -433,7 +427,7 @@ Spark-X2.6-4B is a compact, general-purpose language model optimized for on-devi
 
 `text-generation` `4.1B`
 
-⬇️ 3,488 • ❤️ 492 • 4d ago
+⬇️ 3,488 • ❤️ 495 • 4d ago
 
 ---
 
@@ -445,31 +439,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,107,108 • ❤️ 9,327 • 14d ago
-
----
-
-**[MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)**
-
-*OpenMOSS*
-
-MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that generates images from natural language prompts, supporting structured control over text placement and object arrangement via tag sequences or JSON layouts. It's ideal for applications requiring precise visual composition and multilingual text rendering.
-
-`text-to-image` `5.1B`
-
-⬇️ 10,757 • ❤️ 726 • 4d ago
-
----
-
-**[MiniMax-M3.1-Flash](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash)**
-
-*MiniMax*
-
-MiniMax-M3.1-Flash is a native multimodal MoE model supporting text, image, and video inputs with a 1M token context window. It excels in agentic tasks, coding, and cybersecurity, featuring efficient inference through sparse attention and speculative decoding.
-
-`image-text-to-text` `220.5B`
-
-⬇️ 7,355 • ❤️ 348 • 2d ago
+⬇️ 2,107,108 • ❤️ 9,335 • 14d ago
 
 ---
 
@@ -481,7 +451,31 @@ Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic co
 
 `text-generation` `33.1B`
 
-⬇️ 0 • ❤️ 337 • 11h ago
+⬇️ 0 • ❤️ 365 • 13h ago
+
+---
+
+**[MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)**
+
+*OpenMOSS*
+
+MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that generates images from natural language prompts, supporting structured control over text placement and object arrangement via tag sequences or JSON layouts. It's ideal for applications requiring precise visual composition and multilingual text rendering.
+
+`text-to-image` `5.1B`
+
+⬇️ 10,757 • ❤️ 727 • 4d ago
+
+---
+
+**[MiniMax-M3.1-Flash](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash)**
+
+*MiniMax*
+
+MiniMax-M3.1-Flash is a native multimodal MoE model supporting text, image, and video inputs with a 1M token context window. It excels in agentic tasks, coding, and cybersecurity, featuring efficient inference through sparse attention and speculative decoding.
+
+`image-text-to-text` `220.5B`
+
+⬇️ 7,355 • ❤️ 352 • 2d ago
 
 ---
 
@@ -493,7 +487,7 @@ This is a quantized, uncensored text-to-image diffusion model based on Qwen-Imag
 
 `text-to-image` `7.1B`
 
-⬇️ 2,235,846 • ❤️ 5,036 • 13d ago
+⬇️ 2,235,846 • ❤️ 5,040 • 13d ago
 
 ---
 
@@ -505,7 +499,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,762,014 • ❤️ 18,390 • 2mo ago
+⬇️ 7,762,014 • ❤️ 18,394 • 2mo ago
 
 ---
 
@@ -545,7 +539,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 62 • 💬 4 • ⭐ 43,684 • 14mo ago
+▲ 62 • 💬 4 • ⭐ 43,751 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -678,7 +672,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 873 • 3d ago
+⭐ 6.0k • 🔱 874 • 3d ago
 
 ---
 
@@ -688,17 +682,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.2k • 🔱 153 • 14h ago
-
----
-
-**[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)**
-
-A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
-
-`HTML` `agent-skills` `branding` `claude` `claude-skills` `codex`
-
-⭐ 4.6k • 🔱 348 • 5d ago
+⭐ 5.3k • 🔱 153 • 16h ago
 
 ---
 
@@ -708,7 +692,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.4k • 🔱 300 • 16h ago
+⭐ 4.4k • 🔱 300 • 19h ago
 
 ---
 
@@ -728,7 +712,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.9k • 🔱 511 • 3d ago
+⭐ 3.9k • 🔱 513 • 3d ago
 
 ---
 
@@ -738,7 +722,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 3.6k • 🔱 20 • 12h ago
+⭐ 3.7k • 🔱 20 • 15h ago
 
 ---
 
@@ -748,7 +732,17 @@ The open source AI video agent: turns any coding agent into a video agent, with 
 
 `TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 2.8k • 🔱 263 • 3m ago
+⭐ 2.8k • 🔱 264 • 4m ago
+
+---
+
+**[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)**
+
+Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+
+`Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
+
+⭐ 2.8k • 🔱 171 • 3d ago
 
 ---
 
