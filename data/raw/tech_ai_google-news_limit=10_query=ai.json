@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic\u2019s Claude AI model accessed Georgia voter data in US",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5",
-      "pub_date": 1793012640.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
-      "image": "https://i.guim.co.uk/img/media/53e6ecce82d90c5106536d7c112f492e510cdf2b/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40954f68ff4ba677c6380f7e70775b7d",
-      "description": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics project"
-    },
-    {
-      "headline": "SpaceX secures $40B in financing for GPUs as Elon Musk warns of AI cloud industry consolidation",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHdHVDQ4cEFQWWU5N2VPa1E2akxVVjk2c2tiMHRDaXExNHhoN0dKZGhNdUtCb0p1SFZkaDh2QVdMZ3BnYk5hdG53NUNnWVdIV3NwLVRTd3Z4NjJNUExhS3NkUXU5WjZiWlRod19NVElOalMzUkxmVXlQLVdmZWg1VXdBa1JlNzNYZkRtTzBTOWUyVU1CQ0ZrOW52S2w3LVBLU2VRQmpKUEgyM3ZEeWZ0cEIwaGQySzRIUUVWQdIBwgFBVV95cUxQX045QWpsRXhXUW9VNW15T0EtdlUxd1hUMGNHc1c1eGdteGZZNWxJbndDZkZIUUROcWFTYzB1UnJNdkxJV051THlQd3dwX0I0WGM1VWR6UzRKSzZJbklpOFZIRG1EYWk1S0hZdi1CdGJFM2Z2MDhyRkZaTHBvSk5PTjNBaWlmT0hTOXV6cVk0QkdsNURqWVh1NHltTThJOTNRRmlZV0NQVEdpSU5TZ0FxeUxZdGIzYXJMbHpLUWJhY0Fudw?oc=5",
-      "pub_date": 1793008020.0,
-      "article_url": "https://www.foxbusiness.com/technology/spacex-secures-40b-financing-gpus-elon-musk-warns-ai-cloud-industry-consolidation",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/elon-musk.jpg?ve=1&tl=1",
-      "description": "SpaceX closed $40 billion in debt financing for GPU purchases as Elon Musk warns AI debt markets have shut off access for most companies."
-    },
-    {
-      "headline": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "headline": "Anthropic IPO live updates: AI lab expects to spend at least $542B on data centers in coming years",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5",
-      "pub_date": 1792975020.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "description": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs."
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5",
+      "pub_date": 1793040000.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
+      "description": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission."
     },
     {
-      "headline": "Why Musk Is Predicting \u2018Guppy-Level Death\u2019 for Scores of A.I. Companies",
+      "headline": "Can Marissa Mayer, Yahoo\u2019s Former CEO, Help Fix A.I.\u2019s Gender Problem?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN21WSmdYWUhzd2FDQnpUR0lSMDNpMmxVbG1udmU5cUh3Ujd2WGlMWFJyOEVlWGtxUzd6d1REcXNySEk0V1pFa05pMjFSSFhTQ3ozWm1BbGlMaUhGT3NfQ2o4YlhDZ21wTlE3ZUZVSHV5Qm1CUzVsYUpsME91LXc4WGM1cWFwTEtX?oc=5",
-      "pub_date": 1793016665.0,
-      "article_url": "https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5KSFZOcEVLQzZ6OTNXOWJENzBVZEpaWFdtcnd0NXZlRS10VEdmcnRMODJ0Y3ZWX2ZfME1PdU41M2RrM2pwb25ZT2FpWTlvTFpQbVRHSXFFM0hsNlNlS1REQk5hdjlOSG5aeGNtSnlBQWt3MThtUFhNakt5TzRKU0E3MkZ5Zw?oc=5",
+      "pub_date": 1793036348.0,
+      "article_url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "How AI Is Complicating The Hiring Process For Job Seekers",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkxtUlFMNXdkbnFwUzFhUWxXZGFWRkY0UVgyRnVWSEhVcFZzdGdvZlZrR1ZMN1MxSndhUEZpemRsdkctVkNxOWhkVWR2MENTUHY2VFRPdGlSc2l3aEVPQUFuRjFZRjNCRXVwcjZLejUyMHBkLVNlb3AzVko5MjRUVEFGeElBcDdfTTdkZTBBV2ZrcXhIZmlyYVpjZTlDSDdrbGo1S283aG1RbVhGREdxcTJrcVFaSHZC?oc=5",
-      "pub_date": 1793016000.0,
-      "article_url": "https://www.forbes.com/sites/carolinecastrillon/2026/10/26/how-ai-is-complicating-the-hiring-process-for-job-seekers/",
+      "headline": "Ex-Yahoo CEO Marissa Mayer slammed for using AI to write daughter's birthday tribute",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUQ4Yi1IVzRxY2xuUURRaHVYMl96ZzAxRE4xc3RQSnk5akh6bEkzNUFPcENEM1JqVGVobXI1b0RobFg0S0tRamU3bjNJTFFOOXZoVmZpVHQ5TzlTX1B6dW5XcU1pOURuYkZ4cDY0MV84S0VNbXg1d2EwQXUtenZzbW9PVmRmTTZVYUppc3g1UVBuNDZjWFo0OUtNUGNvYnV1OFlOLS1EeFBEaFhCcXZPTE5VN0VNaUNsNHk4?oc=5",
+      "pub_date": 1793038903.0,
+      "article_url": "https://nypost.com/2026/10/26/tech/ex-yahoo-ceo-marissa-mayer-slammed-for-using-ai-to-write-daughters-birthday-tribute/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-jxmgr4k2p-1793033512609.jpg?quality=75&strip=all&1793019125&w=1200",
+      "description": "Marissa Mayer may be a tech visionary as the former CEO of Yahoo and Google\u2019s first female engineer, but there\u2019s one simple task she couldn\u2019t handle on her own."
+    },
+    {
+      "headline": "Marissa Mayer Hit for Asking AI to Name 3 Special Qualities",
+      "source": "Mediaite",
+      "source_url": "https://www.mediaite.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUkp5Yi1lSm00VVBtNjVZeDd5WjN3aHlaQ0JicDBhT04wYjg1Wk1nRklRQkxJR3dscExjQWxKVHJwOUs0SmFleXE5UzAyMW5XRVdPN25vUkVDd0lGLUl4b0dTaExZVXZ0WnQzUjQ3QnBId0JfM2NqZjRSMVU5VC03dFdTTW9uYkdYbXExcWh2VU14Qm5lVjZfYjFFUHdPazdlM1VpV3JRQ2FwcFYycEtUTmJNZnY1RTlXU0ZwT1RIYXNlYTJkN1NWeGNnaHVaQnNpamtPWHNEcEEzUzdYLU95RUdoQzZuUkRPLXQwRGZZQTNVemg5VWNZWg?oc=5",
+      "pub_date": 1793036580.0,
+      "article_url": "https://www.mediaite.com/media/tech/marissa-mayer-mocked-for-asking-her-ai-chatbot-to-help-with-impossible-task-of-naming-3-qualities-that-make-her-daughter-special/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Real-World AI Hacks Accelerate",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemdaNmpJTW5rYXlWTmEzOTdUdUU0enBJY01PME1qSWEwUUZhZ2Y3cWl6dDZMOVppWFhYajZabHJYcjJPcjJidDk2QjNrV1ZWRkpUZ2wwRGR6dmZHa3hpcktIeWdNWk5ZVlAyeDUtSmlXWHdPN1lFZzdadGNTWlV6RzB6bw?oc=5",
-      "pub_date": 1793016432.0,
-      "article_url": "https://www.wsj.com/pro/cybersecurity/real-world-ai-hacks-accelerate-d0dba9f6",
+      "headline": "From Compliance to Competitive Advantage: How AI Is Transforming Cannabis Operations",
+      "source": "MJBizDaily",
+      "source_url": "https://mjbizdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1ViMkJvSDVvRGU4YTI3VmNiUVh1SWs5dHhleFoxSThYd3g3WlV4ZkljQjZDWnpJeGJscmNxdzBTZTF3MHJzclM2SjdIS1pkTVpRSFVoNGc2UTFSWVh1dS1Od2VXaWhQMG5CZ0tjUHBnVEtjcTVmdW01YzlNMW01TENSWHpnVnlrS0ZkYTdnUEVwUkpOME1vaTUxUWxWR3VDbnd0WXh3dTUwMjN4aEJmWmZnRVRJZHA0YVFpdTlXWnRBQQ?oc=5",
+      "pub_date": 1793039927.0,
+      "article_url": "https://mjbizdaily.com/sponsored/from-compliance-to-competitive-advantage-how-ai-is-transforming-cannabis-operations/618553/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Meta announces $95 billion stock offering to fund AI expansion",
+      "headline": "In China, the AI bubble has already burst",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
+      "pub_date": 1793031587.0,
+      "article_url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The markets are starting to act seriously weird. Blame AI",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16T3BsVmIwcktFNjNLM2hQYVRGZUItX053emx0aWM3Z0U2Ukk0NEIzNWlYblRlZ185UWQ0M0xOTW9nNHkxZHUwVGxzcS1BY2tualUtOVctTFhSMFN0R09pcC10OGNNVUdYYUJsdHE3NUw?oc=5",
+      "pub_date": 1793012415.0,
+      "article_url": "https://www.cnn.com/2026/10/26/business/markets-bonds-stocks-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287379335.jpg?c=16x9&q=w_800,c_fill",
+      "description": "AI\u2019s shaky balance sheets raise questions about circular financing that investors have long questioned but the industry and many traders have swept under the rug."
+    },
+    {
+      "headline": "Brown student maps the hidden global labor powering AI",
+      "source": "Brown University",
+      "source_url": "https://www.brown.edu",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBueGlIUUZiOG8weFZYU0UzM2o4cXNNRWFmN256cmNBeXc0a1lXaXoyd1NYZFNHLWd2U0U5dEljWkoyN2VTWXYyc05Qc2dNM2k2c3hkaktGSGJhTnVsLVRsTVhiMA?oc=5",
+      "pub_date": 1793014027.0,
+      "article_url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+      "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-10/Dataworkers.jpg?h=f6430484&itok=1eq5-wXm",
+      "description": "Cunyan Ma\u2019s interactive tool exposes the power structure that extracts low-wage labor from data workers in the Global South to make everyday AI algorithms function."
+    },
+    {
+      "headline": "Microsoft offers buyouts to 60,000 workers as it pours money into AI",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXJHaTJ5V1ZSN0VTUnlTaWg2a01sU21ybHExWjdCVDdEcU1QSUF0ZlVDRnd4NjRHOU1fdFl4SlNMc1hhQnN4ZDNiNi1JV2JJZmZ4S0N0SmdRVklSbjFQMnJqMnZjTy1WVTV4SGFZWnVDai1SaGw3RWJxbXR4NDZ6bTFtVUk4YjVvcFJIaHMwend2R1VoQ0JZeQ?oc=5",
+      "pub_date": 1793036398.0,
+      "article_url": "https://www.cbsnews.com/news/microsoft-buyouts-60000-workers-artificial-intelligence-layoffs/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/26/49c99e3d-f122-4ddc-8cb0-dadfcb1f5bef/thumbnail/1200x630/cfadae0294ce23bd22724588cac915c8/gettyimages-2300241788.jpg",
+      "description": "Roughly a quarter of Microsoft's workforce will be eligible for a \"voluntary exit offer\" as the company tries to shed workers."
+    },
+    {
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV0gFwQVVfeXFMTmZORnFJWGJWQ296RnRpdXY1aFRXRElQZWw2Y3dpNWFtekxSZlc4eTc5NEJuVWFSLUFLWDNfOWV4aGxBTENheXpVMXo0Z0ZmQVRjSVo2bGo2MnFqdGVlSVNrNnJIbEdWZTIzQklXQmEwNQ?oc=5",
-      "pub_date": 1793014482.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108438640-1792524033556-gettyimages-2299270358-avdoc26tlot1j.jpeg?v=1792524150&w=1920&h=1080",
-      "description": "Meta said Monday it is planning to raise a total of $95 billion to support itsi nvestments in AI infrastructure and super intelligence."
-    },
-    {
-      "headline": "Meta Seeks Up to $95 Billion in Equity to Fund AI Spending",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHl6X0k4eXZDNWpjUnRsTnFqV0JpNjZ0UEpqLVhrbDhvVWpXX3oxNnlmRHJXUFRTbkwwZEczb2hVemlLekxxRWZ5dDEtM3Frb2VwdHA4Vll0VGdIUUdSalIzTjAwS3FzRWJCdm9nNHRFcmNTZWtLemFKbnZlb1BtbDBRMmVkZXFXVUdYUUNxZk9zeHUzVnFIMVhIcGNwcmRiQ0RvNmZuZ09DZGRU?oc=5",
-      "pub_date": 1793013165.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Meta Will Offer Up to $95 Billion in Stock. What That Means for Its Big AI Push.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10bm9vdXZ0RDJuVWNfMGo5bnQtLTJ6b2c3WTlMNExXaEsyOUpiNEd0cGt0YVNldlZHNEtvaThTOXV3LUpBVEFmcmNOOTBSZDNPbTBmNGlFVzgwYkFqQmY2eExVUjR6UEEtNk1hNzdkWEgtTWs2bTZNbGl2a0hOUQ?oc=5",
-      "pub_date": 1793017020.0,
-      "article_url": "https://www.barrons.com/articles/meta-stock-price-share-offer-ai-0284be59",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "It took just 12 hours for an AI start-up founded by ex-DOGE staffers to break into Anthropic",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGRfa29NR1l4a19INEZWSXZWakhia2ZKTnRpQTVYeFNTUXRhdURvSTltbV9RRVJkbzVndVhsMUg0Y3N1MkZVNm11QVB5ZWtFVlhGY2NSSkp1MU84Qm0taWMtcURQcm9EbjZFTjV4Sk9NMTFwLV9Xc1BqM3RqWFhlLWpQZl8tOHJwdktBT2kxTUV6d2ZnWXg1cWwyVWtNSVl2UVA2LU1mWkNlcFZKd1BhNlpRbXZMeGZ0SEdR?oc=5",
-      "pub_date": 1793016016.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AU5DFV7TFPUXR2LK7HVIQ6IQLE.JPG&w=1440",
-      "description": "The start-up firm Cathedral\u2019s ability to penetrate sensitive programs at one of the nation's leading AI companies comes amid mounting concerns about security in the global AI race."
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNklNQlZSV0JkMk95ODdwQ3Fac1ZNbHJWMUFsMjIwbFB1UndnS29RNFNNcXN6X3FGVEx4dEFYWWtnQkhwMU5SQ1NHa2ZmVDZlMmZfT0F4VHRfelNCOWFvYnBwMV9SWkVMZ1pRTTNwNTh2NzNTWXlwVdIBfkFVX3lxTE5LZTNUMTJWT0hXQ2xBU2otcjZSWUQ5YkVrY1NJSkQxZ01BNHBrMnlSOEpIQ0tuVTZmb0dJZFA4MUluS3BHeUR3cVQxS3Q5VVVXN3hpWnVZMExOUDBiUHZra2tWM3VhWVBJVXBudEVXdDRCcC1iMk9hY2ZaM0FBZw?oc=5",
+      "pub_date": 1793029930.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
+      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T12:23:34.077157+00:00"
+  "fetched_at": "2026-10-26T18:49:07.525521+00:00"
 }
