@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-26T12:23:35.772727+00:00'
+updated: '2026-10-26T18:49:10.566500+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 26, 2026 at 12:23 UTC  
+**Last Updated:** October 26, 2026 at 18:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -4.9%  
-**30d:** -13.4%  
-**90d:** +21.8%  
-**1y:** -43.5%  
+**24h:** -1.4%  
+**7d:** -5.2%  
+**30d:** -13.7%  
+**90d:** +21.4%  
+**1y:** -43.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $284.26B
+**Market Cap:** $283.22B
 Rank #2
 
 **Circulating Supply:** 122,164,245 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-53.1%
 
 **All-Time Low:** $0.43
-+537219.4%
++535272.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did I just do?", I end up explaining internal txns, token transfers, method IDs and why there's WETH in there. Etherscan is great if you know what you're looking at. For everyone else it's a wall of hex. So I built Simplorer. You open a transaction or an address and it tells you in one sentence what happened. Same swap, two views: Etherscan: https://etherscan.io/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer: https://simplorer.app/ethereum/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer says "0xc850…87b7 swapped 0.72 ETH for 1,378.06 USDT on Relay". Below that you see who sent and got what (part of it went through Uniswap) and the fee in ETH and dollars. A few things it does: - names the apps people actually use, a few hundred of them (Uniswap, Aave, Lido, 1inch, Curve, Pendle, OpenSea...) - approvals in plain words, like "allowed Uniswap to move any amount of its USDC", with a note on what that means and how to take it back - Safes and smart accounts show up as the account that acted, not as some contract call - bridges show where the coins went on the other side (Across, Stargate, LayerZero, CCTP) - fake tokens copying a real ticker and address poisoning transfers get a warning Most transactions from normal wallets come out as one clean sentence. If it can't name something it says "an app we don't know yet" instead of guessing. Data comes from Blockscout and a public node. No account, no ads. It's still in beta and I'm sure some transactions read weird. If you find one, send it to me. That's honestly the most useful feedback I can get.
 
-3h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tickets and if anyone any single being can sponser or offer me that ticket please My profile is kidna ticket less i need that ticket 😭 FYI : I am a 3rd year Computer science engineering student at Mumbai University and ofc i have too many financial constraints to afford one
 
-17h ago
+23h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 3d ago
 
 ---
 
@@ -144,7 +144,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-3d ago
+4d ago
 
 ---
 
@@ -152,11 +152,57 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.](https://finance.yahoo.com/markets/crypto/articles/not-bitcoin-not-ethereum-once-073500742.html)**
+**[Ethena (ENA) Rose 9% This Week as Ethereum Fell 4%. Can It Keep Outrunning ETH?](https://finance.yahoo.com/markets/crypto/articles/ethena-ena-rose-9-week-183056726.html)**
 
-Cardano could be headed for a big comeback in 2027.
+Ethena's ENA token climbed while Ethereum stumbled, even as a major crypto trader dumped millions of dollars worth of it. The real reason behind that price surge raises serious questions about whether genuine demand is driving the rally or something else entirely.
 
-Yahoo Finance • 3d ago
+Yahoo Finance • 18m ago
+
+---
+
+**[Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up](https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines)**
+
+The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.
+
+CoinDesk • 2h ago
+
+---
+
+**[Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows](https://www.tradingview.com/news/financemagnates:79c912d24094b:0-why-is-crypto-going-down-bitcoin-tests-80-000-as-ethereum-xrp-and-dogecoin-sink-to-august-lows/)**
+
+Crypto prices kept sliding today (Monday), with Bitcoin (BTC) at $79,979 on Binance at 08:22 UTC, about 6% below last Wednesday's high of $84,898. Ether, XRP and Dogecoin fell to their lowest prices since August.The selloff started on Thursday, when worries about how artificial intelligence spendin…
+
+TradingView • 10h ago
+
+---
+
+**[Most big cryptocurrencies fall on Sui, Ethereum drops](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-fall-on-sui-ethereum-drops-8c9e448b-6821903d8382)**
+
+MarketWatch • 4h ago
+
+---
+
+**[Current price of Ethereum for October 26, 2026](https://fortune.com/article/price-of-ethereum-10-26-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 6h ago
+
+---
+
+**[Tom Lee insists 'crypto bull market is underway' as Bitmine adds 10,452 ETH](https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743)**
+
+The company holds 4.95% of Ethereum's supply, with $15 billion in combined crypto, cash, marketable securities, and other investments.
+
+The Block • 4h ago
+
+---
+
+**[Circle gives its Bitcoin-backed token one balance across Ethereum and Arc](https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/)**
+
+Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback.
+
+CryptoSlate • 3h ago
 
 ---
 
@@ -168,19 +214,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows](https://www.financemagnates.com/trending/why-is-crypto-going-down-bitcoin-tests-80000-as-ethereum-xrp-and-dogecoin-sink-to-august-lows/)**
-
-Crypto fell after a tech selloff and $773.5M of ETF outflows. My charts show bitcoin on $80,000 with $75,055 next, and ether and XRP on their last supports.
-
-Finance Magnates • 3h ago
-
----
-
 **[Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?](https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/)**
 
 Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need.
 
-24/7 Wall St. • 12h ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -188,43 +226,7 @@ Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover whi
 
 Ethereum Foundation-linked address 0x5CB…22059 sold 2785 ETH worth $6.42 million on Cowswap, following a prior deposit at $2534 when prices have since...
 
-Blockchain News • 15h ago
-
----
-
-**[Ethereum delays Glamsterdam test after security devs flag risk to existing contracts](https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts)**
-
-Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.
-
-CoinDesk • 3d ago
-
----
-
-**[Is It Better to Buy Bitcoin or Ethereum in 2026?](https://financefeeds.com/is-it-better-to-buy-bitcoin-or-ethereum-in-2026/)**
-
-Bitcoin suits investors who want direct crypto exposure, while Ethereum appeals to those seeking smart contracts, staking, stablecoins, and blockchain
-
-FinanceFeeds • 20m ago
-
----
-
-**[Ethereum Price Faces Deeper Downside Risk as October ETH ETF Outflows Reach $1 Billion](https://www.benzinga.com/crypto/26/10/62579999/ethereum-price-faces-deeper-downside-risk-as-october-eth-etf-outflows-reach-1-billion)**
-
-Benzinga • 19h ago
-
----
-
-**[Sony-backed Soneium plans native SONEIUM token for onchain entertainment](https://cryptobriefing.com/soneium-plans-native-soneium-token/)**
-
-Soneium unveils tokenized IP, entertainment investment products and plans for $SONEIUM as it expands its blockchain ecosystem for the AI era.
-
-Crypto Briefing • 1h ago
-
----
-
-**[JPMorgan Brings Deposit Token to Ethereum for Institutional Clients](https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients)**
-
-Bloomberg.com • 7d ago
+Blockchain News • 21h ago
 
 ---
 
@@ -232,63 +234,13 @@ Bloomberg.com • 7d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Raoul Pal :&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=s5ML9SCXElE)**
+**[BitMine is closing in on owning 5% of all Ethereum.](https://www.youtube.com/watch?v=AMKQNSYTgUY)**
 
-Raoul Pal believes crypto may be entering a much bigger phase as AI, global liquidity, and blockchain infrastructure begin to ...
+BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no single company has approached before. Strategy ...
 
-📺 Crypto Nutshell
+📺 Yahoo Finance
 
-👁️ 8K • 👍 130 • 💬 25 • ⏱️ 24:09 • 20h ago
-
----
-
-**[CRITICAL MOMENT FOR ETH TODAY! (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=jMu3SzHjx6M)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 62 • 👍 4 • 💬 1 • ⏱️ 4:51 • 1h ago
-
----
-
-**[🤔 Who Still Buys Ethereum? - ETH Crypto Analysis](https://www.youtube.com/watch?v=SXuJxqe7AFI)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 6K • 👍 66 • 💬 9 • ⏱️ 11:50 • 1d ago
-
----
-
-**[👾 Sommi Meets A Genius (Discuss Ethereum)](https://www.youtube.com/watch?v=yzCkVgUPlv4)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 878 • 👍 120 • 💬 9 • ⏱️ 12:45 • 4h ago
-
----
-
-**[Michael Saylor Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=EJRuObXl8Ck)**
-
-Michael Saylor says Strategy is built to survive a far deeper Bitcoin crash than most investors realize. In this video, the Strategy ...
-
-📺 Crypto Nutshell
-
-👁️ 11K • 👍 115 • 💬 41 • ⏱️ 20:11 • 2d ago
-
----
-
-**[IF YOU HOLD XRP, SOL, ETH OR INJ YOU MUST WATCH NOW...](https://www.youtube.com/watch?v=BNc7u-wtaoE)**
-
-Uphold | Your XRP, Working Harder Than Ever ▸ Sign Up to Uphold: https://uphold.com/sensei ▸ Earn XRP Rewards: 4% Elite ...
-
-📺 Crypto Sensei
-
-👁️ 14K • 👍 506 • 💬 83 • ⏱️ 16:45 • 9h ago
+👁️ 1K • 👍 74 • 💬 50 • ⏱️ 14:51 • 1h ago
 
 ---
 
@@ -298,37 +250,87 @@ Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we t
 
 📺 More Crypto Online
 
-👁️ 14K • 👍 305 • 💬 15 • ⏱️ 13:01 • 1d ago
+👁️ 14K • 👍 308 • 💬 15 • ⏱️ 13:01 • 1d ago
 
 ---
 
-**[Tom Lee: SHOCKING $22,000 Ethereum Price Prediction (Fact-Checked)](https://www.youtube.com/watch?v=0smYMt7Kjts)**
+**[🤔 Who Still Buys Ethereum? - ETH Crypto Analysis](https://www.youtube.com/watch?v=SXuJxqe7AFI)**
 
-Tom Lee says $22000 is his LOW target for Ethereum this cycle. I went through every number in his TOKEN2049 Singapore ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Software: ...
 
-📺 JM Crypto
+📺 Bitcoin Strategy
 
-👁️ 8K • 👍 102 • 💬 30 • ⏱️ 25:11 • 2d ago
-
----
-
-**[I&#39;m Risking $1,010 That ETH Keeps Falling (Day 7 · $100k Challenge)](https://www.youtube.com/watch?v=jqi097wRkdw)**
-
-I'm risking $1010 (1% of my account) on one trade: a short on Ethereum. ETH is down about 6% in 10 days and stuck under its ...
-
-📺 PaperTrade Hub
-
-👁️ 31 • 💬 1 • ⏱️ 0:21 • 5h ago
+👁️ 6K • 👍 68 • 💬 10 • ⏱️ 11:50 • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum und Altcoins weiterhin eine PLAGE, LONG? Neeeeee lass mal ...](https://www.youtube.com/watch?v=T_5LVnctYRY)**
+**[Bitcoin, Ethereum &amp; Altcoins: Where I’m Buying and Shorting (Live Trading)](https://www.youtube.com/watch?v=jBaaLUPTQdY)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the only major asset holding range support this ...
 
-📺 Krypto Trading & Investing
+📺 Crypto Banter
 
-👁️ 4K • 👍 448 • 💬 90 • ⏱️ 25:06 • 7h ago
+👁️ 11K • 👍 200 • 💬 17 • ⏱️ 49:05 • 2d ago
+
+---
+
+**[SHOCKING CRYPTO NEWS! HUGE XRP LEDGER, ETHEREUM, &amp; BITCOIN BUG FIXES!](https://www.youtube.com/watch?v=edq-5peAAH4)**
+
+Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime Minister Netanyahu calls for plan to use crypto ...
+
+📺 Thinking Crypto
+
+👁️ 20K • 👍 718 • 💬 57 • ⏱️ 17:37 • 2d ago
+
+---
+
+**[Fastest Horse? 🐎🚀 SOL vs NEAR vs ETH, Quantum Dilution, China + Gold vs BTC](https://www.youtube.com/watch?v=vpcBKMVa3jA)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 68K • 👍 3K • 💬 140 • ⏱️ 47:37 • 23h ago
+
+---
+
+**[Ethereum Analysis: A New Buying Opportunity In the Crypto Market #ethereum #crypto #trading #trader](https://www.youtube.com/watch?v=9_F8-_73jQo)**
+
+Watch the full analysis in the link below: https://youtu.be/PGe7Fdo9N4g ✔️ Daily Forex market and global gold (XAU/USD) ...
+
+📺 UtoFX
+
+👁️ 149 • 👍 5 • ⏱️ 1:00 • 2d ago
+
+---
+
+**[Ethereum Price Pullback: What MACD and OBV Reveal](https://www.youtube.com/watch?v=_UUsSPnUzks)**
+
+Ethereum is pulling back alongside Bitcoin and the broader crypto market after closing above its previous high. We examine ...
+
+📺 Hack Your Crypto - Brian Longest
+
+👁️ 217 • 👍 1 • 💬 1 • ⏱️ 0:44 • 2d ago
+
+---
+
+**[🔥 Ethereum Bulls Are Back! What&#39;s Next for ETH?](https://www.youtube.com/watch?v=9IOYYaJcPmI)**
+
+Ethereum Bulls Are Back! What's Next for ETH? Ethereum has bounced back, putting buyers back in focus. Will this recovery ...
+
+📺 Colitco
+
+👁️ 306 • ⏱️ 0:15 • 2d ago
+
+---
+
+**[Bitcoin vs Ethereum What&#39;s the REAL Difference?](https://www.youtube.com/watch?v=XPVXOE8wAkE)**
+
+Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were built for very different purposes. Bitcoin was ...
+
+📺 That crypto show
+
+👁️ 227 • 👍 3 • 💬 2 • ⏱️ 0:44 • 2d ago
 
 ---
 

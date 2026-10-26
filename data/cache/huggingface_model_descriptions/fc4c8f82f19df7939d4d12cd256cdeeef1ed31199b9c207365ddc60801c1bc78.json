@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-26T18:49:09.460699+00:00",
+  "data": "This GGUF model provides non-uniform quantizations (GSQ-RCO) of DeepSeek-V4.1-Flash-1017, a 763B parameter MoE model with a 1M context window. It enables efficient text generation on a single 12GB GPU by optimizing precision per tensor.",
+  "model_id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
+}

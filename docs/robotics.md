@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-26T12:23:35.775949+00:00'
+updated: '2026-10-26T18:49:10.569733+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 26, 2026 at 12:23 UTC  
+**Last Updated:** October 26, 2026 at 18:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey all, here's a small update on CBR-II, my DIY biped. This is the third iteration. Clip 1 (V3): It walks a lot more confidently now, with much less jitter. The only harsh moment left is when a "stop" comes right after "forward". It plants its front foot and slams it into the floor pretty loudly. Clip 2 (V1): The original version, for comparison. Clip 3 (V3): Attempting to balance on one leg :) In sim it nails this every time. In real life it's far from perfect, but you can definitely tell what it's trying to do. I think this is the end of the road for this project (at least for this year). I was thinking about jumps (and secretly dreaming of a backflip), but the hardware is just too fragile. Today alone it broke a joint three times and snapped a GT2 belt. And not where it bends around the pulley, it just snapped from tension in the middle of a straight run. Thanks to everyone who followed along and gave feedback on the previous posts!
 
-21h ago
+1d ago
 
 ---
 
@@ -44,13 +44,13 @@ Hey all, here's a small update on CBR-II, my DIY biped. This is the third iterat
 
 Microduck from Pollen Robotics. I had the opportunity to meet up with the team here to learn about this, and it's not only a cute little robot, it's one very impressive development tool 👏 "A tiny biped for reinforcement learning" I attended NVIDIA GTC Berlin as a guest of NVIDIA EMEA.
 
-17h ago
+23h ago
 
 ---
 
 **[Used an Octopus Pro + 6x TMC2209 to drive a 6-axis 3D-printed robot arm (not a 3D printer!)](https://www.reddit.com/r/robotics/comments/1xfbmjt/used_an_octopus_pro_6x_tmc2209_to_drive_a_6axis/)**
 
-16h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ Microduck from Pollen Robotics. I had the opportunity to meet up with the team h
 
 I’m starting a master’s in two months, working on vision-guided grasping and end-effector integration for humanoid robots. I have experience in Mechanical Design mainly .. have worked with ROS, and computer vision in college but want a better understanding of humanoids as a complete system. My rough plan is below: start with anatomy and hardware, then arm movement and control, then some simulation. I learn best through practical examples rather than heavy maths. Any recommendations for accessible resources, or changes you’d make to the plan? Also happy to connect with anyone interested in studying together.
 
-20h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ Took me a while to work up the nerve to dig into the sloth-speed-servo bug since
 
 Source code and more info here: https://github.com/AdrianCX/picohive-robotarm Controlled via internal web page (gamepad, keyboard), LLMs, MQTT, with an openGL visualizer
 
-17h ago
+1d ago
 
 ---
 
@@ -82,7 +82,7 @@ Source code and more info here: https://github.com/AdrianCX/picohive-robotarm Co
 
 I’m building a robot lab in a Gaussian-splat reconstruction of my office. Today the RealMan ECO65 (on loan) finally moved: J1 +5° at 5% speed and back. Then I switched its Wi-Fi to client mode, lost access, and discovered I had no Ethernet cable. The software side has one shared backend for Codex and Claude, revision-checked edits, a MuJoCo twin and link/desk collision checks. The MCP motion interface is still simulation-only; the physical move was a separate controller session. The twin is a nominal model, not validated hardware behaviour. EP19 shows the build and the failures. The J1 visual is a labelled replay of the logged command. https://www.youtube.com/watch?v=1ZrYGwZJQto For those running an arm in a home lab: what was the first mismatch you found between your twin and the hardware?
 
-18h ago
+1d ago
 
 ---
 
@@ -90,7 +90,7 @@ I’m building a robot lab in a Gaussian-splat reconstruction of my office. Toda
 
 ETH Zurich’s ANYmal solved a 10-pound Rubik’s Cube three times using only its feet, taking around eight to nine minutes per attempt. The trick combined computer vision and a traditional cube-solving algorithm with reinforcement learning that taught the robot how to balance, apply force, and correct mistakes. Beyond the fun demo, could “pedipulation” make future robots more useful by letting them open doors, turn valves, or move obstacles without needing hands?
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/four-legged-robot-solves-rubik-cube) • 23h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/four-legged-robot-solves-rubik-cube) • 1d ago
 
 ---
 
@@ -98,7 +98,7 @@ ETH Zurich’s ANYmal solved a 10-pound Rubik’s Cube three times using only it
 
 Adding grippers to Asimov 1. The arms have been strong enough for a while. Now it’s time to use them for manipulation! Quick note, if you’re seeing Asimov 1 for the first time, it's a fully open-source humanoid robot built from off-the-shelf parts, so you can build one yourself. https://github.com/menloresearch/asimov-1/
 
-1d ago
+2d ago
 
 ---
 
@@ -106,7 +106,7 @@ Adding grippers to Asimov 1. The arms have been strong enough for a while. Now i
 
 Hello everyone, I would like to know some good sites and guides on how to design cycloidal drives for stepper motors (NEMA 17). I have been looking on YouTube and some sites but mostly i didn't learn anything about what is needed from my side and what I need to calculate. I have made few attempts at printing these drives and all of them are off by some millimeters, and they are getting stuck after few turns.
 
-21h ago
+1d ago
 
 ---
 
@@ -114,65 +114,33 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 ## Google News: "robotics"
 
-**[Toyota takes on Tesla and China in humanoid robot race](https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1)**
-
-Financial Times • 15h ago
-
----
-
-**['The beginning of The Matrix': Unitree is developing an AI system that will let humanoid robots self-improve — and Tesla should be worried](https://tech.yahoo.com/ai/meta-ai/articles/beginning-matrix-unitree-developing-ai-110000127.html)**
-
-We've got robotics updates from Unitree, Tesla, and Figure, as the companies announce their latest progress.
-
-Yahoo Tech • 2d ago
-
----
-
-**[Watch: Four-legged robot solves giant Rubik’s Cube without using hands](https://interestingengineering.com/ai-robotics/four-legged-robot-solves-rubik-cube)**
-
-Researchers from ETH Zurich’s Robotic Systems Lab have taught one of its four-legged ANYmal robots to solve a giant Rubik's Cube using its feet.
-
-Interesting Engineering • 23h ago
-
----
-
-**[110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment](https://www.globaltimes.cn/page/202610/1372888.shtml)**
-
-China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24.
-
-Global Times • 1d ago
-
----
-
-**[KOID: Unitree And The Arrival Of Pure Play Humanoid Robotics (NASDAQ:KOID)](https://seekingalpha.com/article/4957414-koid-unitree-and-the-arrival-of-pure-play-humanoid-robotics)**
-
-KOID's recent rebalance elevated Unitree, a profitable pure-play humanoid robotics leader. Click here to find out why KOID ETF is a Buy.
-
-Seeking Alpha • 2h ago
-
----
-
-**[Agile ONE SN Humanoid Robot Bundles Nvidia’s Robotics Stack](https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/)**
-
-Nvidia and Agile Robots unveiled Agile ONE SN, a compact humanoid with AI training tools. Explore its features, specifications, and planned 2027 release.
-
-TechRepublic • 3d ago
-
----
-
 **[Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)**
 
 Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead.
 
-NVIDIA Developer • 2d ago
+NVIDIA Developer • 3d ago
 
 ---
 
-**[Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs](https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/)**
+**[This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)**
 
-Company says foreign-made robotic vehicles are crucial to US chip production.
+Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.
 
-Ars Technica • 2d ago
+TechCrunch • 1h ago
+
+---
+
+**[Toyota takes on Tesla and China in humanoid robot race](https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1)**
+
+Financial Times • 21h ago
+
+---
+
+**[Intrinsic CEO Wendy Tan White on ‘Democratizing’ Robotics](https://time.com/article/2026/10/26/intrinsic-ceo-wendy-tan-white-interview/)**
+
+Tan White discusses how she sees robotics helping small manufacturers, Intrinsic’s relationship with Google, and skills for the AI age.
+
+Time Magazine • 18h ago
 
 ---
 
@@ -180,15 +148,43 @@ Ars Technica • 2d ago
 
 [Angus] of Maker’s Muse enjoys combat robotics, in which contenders zip about in an arena, attempting to disable one another with weapons that lift, spin, and smash. He got a funny idea a sho…
 
-Hackaday • 4h ago
+Hackaday • 10h ago
 
 ---
 
-**[Finger-controlled robo beetle sports artificial muscles & two-way feedback](https://newatlas.com/robotics/beetlebot-robotic-beetle/)**
+**[Are Delivery Robots Scanning You Into a Database Scarier Than Flock?](https://futurism.com/robots-and-machines/delivery-robots-database-flock)**
 
-Insects have long been a source of inspiration for robotics engineers. They are small, agile, and can squeeze into spaces where people can’t. Such robots are very useful for space exploration, inspecting industrial equipment, and even carrying out search-and-rescue operations. For certain purposes,…
+A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent.
 
-New Atlas • 1d ago
+Futurism • 1d ago
+
+---
+
+**[Robots set world record with synchronised dancing](https://news.sky.com/video/robots-set-world-record-with-synchronised-dancing-13603980)**
+
+Sky News • 6h ago
+
+---
+
+**[Autonomous Construction Firm Bedrock Hits $4.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[Twenty teams compete in ninth annual Lake County robotics scrimmage](https://www.wftv.com/news/local/twenty-teams-compete-ninth-annual-lake-county-robotics-scrimmage/WHO3LLUK6BG4LADVN6WROSADIM/)**
+
+Cypress Ridge Elementary and Aurelia M. Cole Academy won excellence awards at the recent Lake County Robotics Scrimmage.
+
+WFTV • 1h ago
+
+---
+
+**[Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs](https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/)**
+
+Company says foreign-made robotic vehicles are crucial to US chip production.
+
+Ars Technica • 3d ago
 
 ---
 
@@ -202,7 +198,7 @@ Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! Fr
 
 📺 VisionX Lab
 
-👁️ 64K • 👍 2K • 💬 154 • ⏱️ 0:59 • 18h ago
+👁️ 97K • 👍 2K • 💬 206 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -212,17 +208,7 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai
 
 📺 InsideAI
 
-👁️ 1.2M • 👍 25K • 💬 3K • ⏱️ 15:05 • 18h ago
-
----
-
-**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
-
-Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
-
-📺 VisionX Lab
-
-👁️ 119K • 👍 2K • 💬 170 • ⏱️ 0:11 • 17h ago
+👁️ 1.5M • 👍 30K • 💬 3K • ⏱️ 15:05 • 1d ago
 
 ---
 
@@ -232,7 +218,7 @@ The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredibl
 
 📺 DPCcars
 
-👁️ 57K • 👍 522 • 💬 174 • ⏱️ 2:30 • 4d ago
+👁️ 58K • 👍 527 • 💬 175 • ⏱️ 2:30 • 5d ago
 
 ---
 
@@ -252,7 +238,7 @@ China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall 
 
 📺 MACHINEKIND
 
-👁️ 120K • 👍 1K • 💬 105 • ⏱️ 13:57 • 5d ago
+👁️ 124K • 👍 1K • 💬 110 • ⏱️ 13:57 • 5d ago
 
 ---
 
@@ -262,7 +248,27 @@ Thank you to Quince for sponsoring this video! Elevate your wardrobe essentials 
 
 📺 Xyla Foxlin
 
-👁️ 176K • 👍 6K • 💬 410 • ⏱️ 14:36 • 1d ago
+👁️ 196K • 👍 6K • 💬 431 • ⏱️ 14:36 • 2d ago
+
+---
+
+**[I Built an AI-Powered Automatic Lockpick Machine!](https://www.youtube.com/watch?v=o4AUKGdScNI)**
+
+I built an ESP32 and AI-powered lockpicking machine capable of opening locks automatically. The entire frame and mechanics ...
+
+📺 Dr.Kun Dániel
+
+👁️ 102K • 👍 1K • 💬 163 • ⏱️ 3:28 • 2d ago
+
+---
+
+**[Microducks Stole NVIDIA’s Show](https://www.youtube.com/watch?v=cgOZPijdl7w)**
+
+Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his commands... mostly Microduck is a ...
+
+📺 Techy or Not
+
+👁️ 18K • 👍 593 • 💬 5 • ⏱️ 1:46 • 1d ago
 
 ---
 
@@ -272,7 +278,7 @@ Robots just learned kung fu. I ranked the best humanoid robots on the market, wi
 
 📺 AI BROS
 
-👁️ 21K • 👍 689 • 💬 72 • ⏱️ 2:54 • 1d ago
+👁️ 21K • 👍 691 • 💬 72 • ⏱️ 2:54 • 2d ago
 
 ---
 
@@ -282,17 +288,7 @@ Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was j
 
 📺 REC Anything
 
-👁️ 1.6M • 👍 10K • 💬 1K • ⏱️ 8:29 • 3d ago
-
----
-
-**[Microduck MD 01 – This $399 AI Robot Can Walk, Skate and Learn!](https://www.youtube.com/watch?v=vW94WKqkTJc)**
-
-Meet the Microduck MD-01, a tiny $399 artificial intelligence robot that can walk, balance, roller-skate, and learn new movements ...
-
-📺 DPCcars
-
-👁️ 37K • 👍 152 • 💬 22 • ⏱️ 2:21 • 1d ago
+👁️ 1.6M • 👍 10K • 💬 1K • ⏱️ 8:29 • 4d ago
 
 ---
 
