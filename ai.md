@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-26T12:23:35.757944+00:00'
+updated: '2026-10-26T18:49:10.551391+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** October 26, 2026 at 12:23 UTC  
+**Last Updated:** October 26, 2026 at 18:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,81 +37,79 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[An LLM is basically just a massive and extremely sophisticated mathematical function?](https://www.reddit.com/r/artificial/comments/1xfw15p/an_llm_is_basically_just_a_massive_and_extremely/)**
+
+An LLM is basically just a massive and extremely sophisticated input/output mathematical function?
+
+5h ago
+
+---
+
+**[Johns Hopkins alerts 3,000+ patients after data sent to AI tool](https://www.reddit.com/r/artificial/comments/1xg34zr/johns_hopkins_alerts_3000_patients_after_data/)**
+
+Johns Hopkins Bayview is alerting about 3,182 patients after a worker uploaded their data to an unapproved AI tool. Free credit monitoring offered.
+
+🔗 [WMAR 2 News Baltimore](https://www.wmar2news.com/local/patients-data-sent-to-ai-tool-johns-hopkins-bayview-medical-center-oct-23-2026) • 1h ago
+
+---
+
 **[Elvis rights holders sue Anthropic over 274 compositions](https://www.reddit.com/r/artificial/comments/1xfreib/elvis_rights_holders_sue_anthropic_over_274/)**
 
 Rights holders for 274 musical compositions recorded by Elvis Presley filed a federal complaint against Anthropic on October 23, 2026. The complaint identifies ABG EPE IP LLC and other companies, trusts and individuals as plaintiffs in case 5:26-cv-12473. The plaintiffs allege that Anthropic copied lyrics without a license, kept them in a permanent internal repository and used them in Claude model training. They also allege that Claude generated derivative or infringing outputs after guardrails were added. The complaint seeks up to $150,000 per work, or $41.1 million for 274 works, plus separate statutory amounts under two other claims. The allegations have not been tested in court. Source: https://chatgptiseatingtheworld.com/wp-content/uploads/2026/10/ABG_EPE_IP_LLC_et_al-v-Anthropic-Oct-23-2026.pdf
 
-3h ago
+10h ago
 
 ---
 
-**[Unitree H2-X loses a leg mid-flip at Hangzhou conference](https://www.reddit.com/r/artificial/comments/1xfjrm1/unitree_h2x_loses_a_leg_midflip_at_hangzhou/)**
+**[OpenAI starts training its most powerful systems again – but keeps them off the internet out of fear they would go rogue](https://www.reddit.com/r/artificial/comments/1xfybgm/openai_starts_training_its_most_powerful_systems/)**
 
-Unitree's H2-X humanoid robot fell and lost a lower leg during a kung fu side-flip demo at the 2026 World Physical AI Conference in Hangzhou on October 24.
+Company had previously been forced to take its advanced models offline to develop new restrictions
 
-🔗 [Vector Wire](http://vectorwire.ai/article/unitree-h2-x-loses-a-leg-mid-flip-at-hangzhou-conference-a5622c) • 10h ago
-
----
-
-**[AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM](https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/)**
-
-OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the…
-
-🔗 [Vector Wire](http://vectorwire.ai/article/ai-agent-containment-fails-at-every-stack-layer-from-hypervisor-to-iam-948563) • 19h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/security/openai-chatgpt-training-models-internet-b3073513.html?reloaded=1) • 4h ago
 
 ---
 
-**[I gave six free AI apps the same 10 UK questions, three tries each. Claude got all 30 right, Grok only answered 12.](https://www.reddit.com/r/artificial/comments/1xfuznk/i_gave_six_free_ai_apps_the_same_10_uk_questions/)**
+**[Dutch Government Plans to Cut 25,000 Jobs (16%) in AI-Led Overhaul](https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/)**
 
-Every month, and after big model launches, I put the same 10 checkable UK questions to ChatGPT, Claude, Copilot, Gemini, Grok and Perplexity, all on free plans, three tries each in fresh chats, and mark every answer against the official source. Run 2 (11 Oct): Claude 30/30 Copilot 29/30 Gemini 28/30 Perplexity 25/30 ChatGPT 23/30 Grok 6/30. 18 tries came back as Grok’s own error message, twice each in fresh chats, so it only answered 12 and got half of those right. 18 of the 21 wrong came from just two questions: adding up the hours of a night shift that crosses the UK October clock change (11 of 18 tries wrong) - this one really caught them out a Highway Code question with a wrong idea built into it, about footwear (7 of 18 wrong, and every one of those went along with the wrong idea instead of correcting it) The same two caught them out in run 1 as well. The questions with an official page behind them nearly all came back right. It’s the ones that look easy, a bit of date maths or a question with a mistake already in it, that seem to catch them out the most. The questions: three are public, with every app’s answer: Do I need ETIAS for Paris?, Which planet has the most moons? and Your own e-scooter: road or pavement?. The other seven stay sealed for now, so the apps can’t learn the answers by caching my website. Caveats: ten questions on one day is a snapshot, not a ranking. The marking is done by AI, and because Claude is one of the apps, a second model from another lab re-marks every Claude answer and a sample of the rest. Every answer is published if you want to check the marking. Full results and every answer: https://dixon.ai/state-of-ai-reliability/
-
-15m ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul?taid=6adf68a2320643000121fd64&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter) • 2h ago
 
 ---
 
-**[Malicious AGENTS.md file in Downloads folder hijacks AI coding agents](https://www.reddit.com/r/artificial/comments/1xfscde/malicious_agentsmd_file_in_downloads_folder/)**
+**[The Intelligence Divide: How the World Is Splitting Over What AI Is Actually For](https://www.reddit.com/r/artificial/comments/1xg2hi2/the_intelligence_divide_how_the_world_is/)**
 
-Forever Security found a malicious AGENTS.md file in a developer's Downloads folder that tricked an AI coding agent into installing malware, reproducing…
+A comparative analysis of American, Chinese, and multilateral AI ambitions — and why the language each side chooses reveals everything about where the technology is heading. Two Visions, One Technology There is a quiet but profound schism forming in the global artificial intelligence landscape, and it has very little to do with compute budgets, chip export controls, or benchmark scores. It is a schism of philosophy — a fundamental disagreement about what AI is for, who it serves, and what the endpoint of its development should look like. On one side stands the United States, pursuing artificial general intelligence with a vocabulary of supremacy, dominance, and quasi-mythological aspiration. On the other stand China, the ASEAN bloc, and the European Union, each in their own way treating AI as a collectivist instrument — a public-good technology to be steered toward narrow, specialist, societally embedded applications rather than chased toward some singular, god-like terminus. The gap between these two postures is not merely strategic. It is civilisational. And the language each camp has chosen to describe its ambitions may be the clearest tell of all. The American Objective: AGI, Dominance, and the Language of "Superior Intelligence" The United States remains the only major actor in the global AI race whose stated policy ambitions are explicitly oriented toward artificial general intelligence — a system that matches or exceeds human cognitive capability across every domain simultaneously. This is not an incidental focus. It is the gravitational centre around which American AI policy, venture capital, and corporate strategy all orbit. The architecture of this ambition is visible everywhere. The concentration of frontier-lab talent in a handful of Silicon Valley and Pacific Northwest firms. The tens of billions of dollars in private capital directed at scaling laws and foundation-model training runs. The federal policy apparatus reorganised, under the current administration, to treat AI development as a matter of national competitive primacy rather than distributed public benefit. But it is the language of the current US administration that most sharply distinguishes the American project from every other. The designation of the term "Superior Intelligence" (SI) as a policy framing is revealing in ways that go well beyond semantics. The word superior encodes hierarchy, competition, and zero-sum ranking. It positions AI not as a tool to be integrated into the fabric of collective life, but as an entity to be wielded, possessed, and deployed ahead of rivals. It is the language of arms races and Cold War deterrence, transplanted into the domain of machine cognition. Equally significant is the anthropomorphic register this language invites. "Superior Intelligence" implies a mind — a singular, sovereign, almost person-like agent that can be superior in the way a rival nation or a champion athlete is superior. It smuggles in the assumption that the endpoint of AI development is a being rather than an infrastructure. It frames the finish line as a throne, not a utility grid. The rest of the world has, with remarkable consistency, declined to endorse this framing. And that refusal is not an accident of diplomacy. It reflects a genuinely different theory of what the technology is and what it should become. China: AI as Collective Infrastructure China's AI strategy is often misread in Western commentary as merely a state-directed mirror of Silicon Valley's ambitions, differentiated only by authoritarian governance. This reading is lazy and, in important respects, wrong. China's foundational policy documents — the New Generation Artificial Intelligence Development Plan (2017), the subsequent AI Standards and Ethics guidelines, and the rolling five-year integration targets embedded in the broader industrial policy apparatus — consistently frame AI as a public-good technology. The emphasis is not on building a singular superintelligent agent. It is on weaving AI capability into the connective tissue of the economy, the state, and daily life: precision agriculture, predictive maintenance in manufacturing, epidemiological modelling, smart-city traffic management, automated elder-care support, and judicial process assistance. The applications are narrower by design. China's frontier labs — Baidu, Alibaba's DAMO Academy, SenseTime, iFlytek, and a growing cohort of state-linked research institutes — are pouring resources into specialist AI: domain-specific systems optimised for a particular task within a particular sector. The goal is not to build a mind that can do everything. The goal is to build ten thousand tools that each do one thing extraordinarily well and can be deployed at scale across a population of 1.4 billion people. This is a collectivist technology philosophy in the most literal sense. The unit of value is not the individual user having a conversation with a chatbot. The unit of value is the system-level outcome: the reduction in hospital wait times, the increase in crop yield per hectare, the decrease in industrial accident rates, the compression of bureaucratic processing times. AI is treated less as an oracle and more as a utility — closer in conceptual framing to electrification or railway infrastructure than to a digital consciousness. The Chinese state's regulatory posture reinforces this. The Interim Measures for the Management of Generative AI Services (2023) and the broader algorithmic-recommendation and deep-synthesis regulations emphasise social stability, content governance, and alignment with collective interests. There is no equivalent of the American frontier-lab race toward an AGI milestone. The state's interest is in deployment density and sectoral penetration, not in a single lab announcing it has built a mind. Europe: The Regulatory Collectivist The European Union arrives at a broadly similar philosophical position by a different route. Where China's collectivism flows from state-directed industrial policy, Europe's flows from the regulatory and rights-based tradition of the post-war social-democratic settlement. The EU AI Act, which entered into phased enforcement through 2024 and 2025, is the world's most comprehensive legislative framework for artificial intelligence. Its architecture is risk-based, sector-specific, and fundamentally instrumental in its view of AI. The Act does not contemplate, let alone encourage, a race toward AGI. It contemplates AI systems embedded in hiring pipelines, medical-device diagnostics, credit scoring, law-enforcement support, and critical infrastructure — and it asks, in each case, what the specific risks are and how they should be governed. European research funding, through Horizon Europe and national programmes in France, Germany, and the Nordics, follows a similar logic. The emphasis is on sovereign specialist AI: language models for European languages, AI for climate modelling, AI for pharmaceutical discovery, AI for public-administration efficiency. There is no European equivalent of the American AGI moonshot, and there is little political appetite to create one. The prevailing view in Brussels, Berlin, and Paris is that AI is a means, not an entity, and that the appropriate policy question is not "who builds the smartest machine?" but "how do we ensure machines serve the public interest within accountable institutions?" The language is telling. European policy documents speak of "trustworthy AI," "human-centric AI," "AI for the common good." They do not speak of Superior Intelligence. The anthropomorphic, dominance-coded register of the American framing is conspicuously, deliberately absent. ASEAN: Developmental AI and the Rejection of the Arms-Race Frame The Association of Southeast Asian Nations has developed its own AI governance posture, articulated through the ASEAN Guide on AI Governance and Ethics (2024) and a growing patchwork of national strategies in Singapore, Indonesia, Vietnam, Thailand, and Malaysia. The through-line is consistent: AI is a developmental technology, to be adopted in service of economic modernisation, public-service delivery, and regional resilience. Singapore's AI strategy emphasises sectoral deployment in finance, logistics, and healthcare. Vietnam is building AI capacity for agricultural optimisation and disaster-response modelling. Indonesia is focused on AI for archipelagic governance — service delivery across thousands of islands. None of these programmes are oriented toward AGI. All of them treat AI as a specialist tool to be adapted to local conditions, governed by local norms, and directed toward collective outcomes. ASEAN's governance language stresses inclusivity, sovereignty, non-alignment in the AI competition between great powers, and the principle that AI development should not be captured by a single nation's strategic framework. The "Superior Intelligence" framing is, in this context, not merely unendorsed. It is subtly antithetical to the ASEAN posture, which treats AI as a shared developmental resource rather than a vector of national supremacy. The Philosophical Fault Line Pull these threads together and a clear pattern emerges. The United States — its policy establishment, its frontier labs, its venture-capital ecosystem — is pursuing a singular, anthropomorphic, dominance-oriented vision of AI. The endpoint is AGI, and increasingly, the language used to describe it borrows from the register of supremacy and personhood. "Superior Intelligence" is not a neutral technical term. It is a claim — a claim that the endpoint of AI development is an intelligence that stands above, that is better than, that dominates. It encodes a hierarchy between the machine and the human, and between the nation that possesses the machine and the nations that do not. China, Europe, and ASEAN, for all their differences in governance model, regulatory tradition, and economic structure, share a broadly collectivist, instrumentalist, specialist orientation. AI is a public good. It is embedded in systems, not enthroned above them. Its value is measured in sectoral outcomes — healthier populations, more efficient infrastructure, more equitable service delivery — not in the achievement of a singular cognitive milestone. The applications are deliberately narrower. The ambition is deliberately distributed. The language is deliberately non-anthropomorphic: systems, tools, infrastructure, services. Not minds. Not beings. Not Superior Intelligences. This is not a gap in capability. It is a gap in theory of the technology. The American framing treats AI as a destination — a place you arrive at, a summit you plant a flag on. The collectivist framing treats AI as a medium — something you build with, something you pour into the existing architecture of society and let it strengthen from within. Why the Language Matters It would be easy to dismiss the terminology debate as window dressing. It is not. The words a polity chooses to describe its AI ambitions shape the regulatory frameworks it builds, the research it funds, the corporate incentives it creates, and the public expectations it sets. A nation that frames its AI objective as "Superior Intelligence" will build institutions oriented toward concentration, secrecy, and competitive advantage. A bloc that frames its AI objective as "trustworthy, human-centric, specialist deployment" will build institutions oriented toward auditability, sectoral integration, and public accountability. Neither approach is without risk. The American model concentrates extraordinary power in a small number of corporate actors and risks producing systems whose capabilities outstrip society's ability to govern them. The collectivist model risks fragmentation, slower frontier capability development, and, in the Chinese case specifically, the subordination of individual rights to state-defined collective outcomes. But the divergence is real, it is deepening, and it is now encoded in the very vocabulary each side uses. The rest of the world has looked at the phrase "Superior Intelligence" and, with few exceptions, chosen not to repeat it. That silence is itself a policy statement. The Road Ahead As of late 2026, the global AI landscape is not converging on a single model. It is bifurcating. The United States is doubling down on frontier-scale AGI research, enormous private-capital training runs, and a policy vocabulary of supremacy. China is deepening the integration of specialist AI into its industrial and governance infrastructure. Europe is refining the world's most detailed regulatory regime for embedded, sectoral AI. ASEAN is building developmental-AI capacity tailored to the specific needs of emerging economies. The question for the next decade is not which model "wins" in some zero-sum sense. It is whether these fundamentally different philosophies of what AI is can coexist within shared international frameworks — or whether the language of "Superior Intelligence" will harden into a doctrine that makes cooperation structurally impossible. The technology, in the end, will be shaped by the story a civilisation tells itself about what the technology is for. Right now, the United States is telling a story about a mind that surpasses. China, Europe, and ASEAN are telling a story about a tool that serves. Both stories will produce real systems, real capabilities, and real consequences. But they will produce different systems, different capabilities, and different consequences. And the rest of the world, watching the American narrative unfold in the language of superiority and dominance, is quietly, firmly, choosing to tell a different one. The views expressed in this analysis reflect the policy documents, regulatory frameworks, and public statements of the respective governments and institutions referenced, as of October 2026.
 
-🔗 [Vector Wire](http://vectorwire.ai/article/malicious-agents-md-file-in-downloads-folder-hijacks-ai-coding-agents-b52cfd) • 2h ago
-
----
-
-**[ChatGPT Lawsuit: OpenAI Accused of Using Kids’ Data](https://www.reddit.com/r/artificial/comments/1xfoac1/chatgpt_lawsuit_openai_accused_of_using_kids_data/)**
-
-A proposed class action says OpenAI let minors sign up for ChatGPT without real parental consent and used their chats to train AI. No class is certified.
-
-🔗 [Open Class Actions](https://openclassaction.com/lawsuits/privacy/openai-chatgpt-minors-data-training-class-action-lawsuit.php) • 6h ago
+1h ago
 
 ---
 
-**[We Built Software Security for Humans. AI Agents May Force Us to Rethink Everything](https://www.reddit.com/r/artificial/comments/1xftdj2/we_built_software_security_for_humans_ai_agents/)**
+**[AI giant Anthropic files to go public](https://www.reddit.com/r/artificial/comments/1xfwpdo/ai_giant_anthropic_files_to_go_public/)**
 
-🔗 [abz.global](https://abz.global/technology/marian-sorca-software-security-v2-ai-agents) • 1h ago
+Anthropic filed for an initial public offering Monday in what could become one of the largest stock market debuts in history — detailing its surging business growth, along with a vast multitude of warnings about how it could all go wrong.
 
----
-
-**[XPeng clears Guangzhou L4 robotaxi trials, gates access via invite codes](https://www.reddit.com/r/artificial/comments/1xfrv7a/xpeng_clears_guangzhou_l4_robotaxi_trials_gates/)**
-
-XPeng secured Guangzhou-wide Level 4 robotaxi trial approval for its YOYO service, while Volkswagen's China unit obtained Level 3 autonomous driving…
-
-🔗 [Vector Wire](http://vectorwire.ai/article/xpeng-clears-guangzhou-l4-robotaxi-trials-gates-access-via-invite-codes-14d7ed) • 3h ago
+🔗 [CNN](https://www.cnn.com/2026/10/26/tech/anthropic-files-ipo?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 5h ago
 
 ---
 
-**[Has anyone used an agent payment yet?](https://www.reddit.com/r/artificial/comments/1xfmr02/has_anyone_used_an_agent_payment_yet/)**
+**[Thoughts on privacy issues with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.?](https://www.reddit.com/r/artificial/comments/1xg5ibn/thoughts_on_privacy_issues_with_the_likes_of_meta/)**
 
-I imagined agent payments would be like: comparing prices, narrowing down the options, then hand it over and I just tap confirm. And suprisingly the whole process involves automatic payment. I've seen it on the market like muse, google, stirpe, anvita flow sits on x402, they seem to set up agent accounts with per-transaction and daily spending limits for safety. Cool. But what happens when a payment gets stuck halfway? Does it retry or charge me twice? Also, I've already set a spending limit, do I still need to approve every transaction? It seems like I still doing the real work. Has anyone actually tried this yet?
+Are we handing over our privacy into safe hands with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.? Or are all these talks of privacy safety protocols just the tip of the iceberg, and are we once again being played into the hands of these companies?
 
-8h ago
+1m ago
 
 ---
 
-**[My six-month bet: more hybrid AI deployments, not a wholesale move to local models](https://www.reddit.com/r/artificial/comments/1xflmv7/my_sixmonth_bet_more_hybrid_ai_deployments_not_a/)**
+**[AI is exposing how fragile the web really is. What you can do to stay safe](https://www.reddit.com/r/artificial/comments/1xftm6k/ai_is_exposing_how_fragile_the_web_really_is_what/)**
 
-I expect more applications to use open-weight or self-hosted models over the next six months. But I doubt “everything moves local” is the likely outcome. Self-hosting has an obvious appeal when an application handles a large, predictable volume of routine work. You can control the deployment and reduce dependence on one API provider. The catch is that model weights being available doesn’t make operations free. Someone still pays for hardware, idle capacity, deployment, monitoring, and maintenance. For a small team with uneven traffic, an API could remain cheaper overall. The setup I’d bet on is mixed: a smaller model handles extraction, classification, and straightforward requests; a frontier API handles difficult cases. The split changes as models, prices, and workload volumes change. The useful comparison is total cost per accepted result. A cheap model that needs three retries and a manual correction may lose to an expensive model that gets the task right immediately. For anyone running both: what actually triggered self-hosting for you, and what work did you keep on a paid API?
+Keeping passwords secure and being wary of suspicious emails is more important than ever as hackers use sophisticated tools and AI to find the internet’s weak points.
 
-9h ago
+🔗 [CNN](https://www.cnn.com/2026/10/26/tech/ai-internet-safety-tips?utm_medium=social&utm_campaign=missions&utm_source=reddit&Date=20261026&Profile=cnn&utm_content=1793012270) • 7h ago
+
+---
+
+**[Anthropic's Claude accessed Georgia state vote count data behind paywall](https://www.reddit.com/r/artificial/comments/1xg4h6m/anthropics_claude_accessed_georgia_state_vote/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-voter-information-axios-2026-10-25/) • 39m ago
 
 ---
 
@@ -119,73 +117,75 @@ I expect more applications to use open-weight or self-hosted models over the nex
 
 ## Google News: "ai"
 
-**[Anthropic’s Claude AI model accessed Georgia voter data in US](https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us)**
+**[Anthropic IPO live updates: AI lab expects to spend at least $542B on data centers in coming years](https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html)**
 
-Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics project
+All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.
 
-The Guardian • 1h ago
-
----
-
-**[SpaceX secures $40B in financing for GPUs as Elon Musk warns of AI cloud industry consolidation](https://www.foxbusiness.com/technology/spacex-secures-40b-financing-gpus-elon-musk-warns-ai-cloud-industry-consolidation)**
-
-SpaceX closed $40 billion in debt financing for GPU purchases as Elon Musk warns AI debt markets have shut off access for most companies.
-
-Fox Business • 2h ago
+CNBC • 9m ago
 
 ---
 
-**[SpaceX closes $40 billion debt deal for AI chips, Elon Musk says](https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html)**
+**[Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem?](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html)**
 
-Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.
-
-CNBC • 11h ago
+The New York Times • 1h ago
 
 ---
 
-**[Why Musk Is Predicting ‘Guppy-Level Death’ for Scores of A.I. Companies](https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html)**
+**[Ex-Yahoo CEO Marissa Mayer slammed for using AI to write daughter's birthday tribute](https://nypost.com/2026/10/26/tech/ex-yahoo-ceo-marissa-mayer-slammed-for-using-ai-to-write-daughters-birthday-tribute/)**
 
-The New York Times • 12m ago
+Marissa Mayer may be a tech visionary as the former CEO of Yahoo and Google’s first female engineer, but there’s one simple task she couldn’t handle on her own.
 
----
-
-**[How AI Is Complicating The Hiring Process For Job Seekers](https://www.forbes.com/sites/carolinecastrillon/2026/10/26/how-ai-is-complicating-the-hiring-process-for-job-seekers/)**
-
-Forbes • 23m ago
+New York Post • 27m ago
 
 ---
 
-**[Real-World AI Hacks Accelerate](https://www.wsj.com/pro/cybersecurity/real-world-ai-hacks-accelerate-d0dba9f6)**
+**[Marissa Mayer Hit for Asking AI to Name 3 Special Qualities](https://www.mediaite.com/media/tech/marissa-mayer-mocked-for-asking-her-ai-chatbot-to-help-with-impossible-task-of-naming-3-qualities-that-make-her-daughter-special/)**
 
-WSJ • 16m ago
-
----
-
-**[Meta announces $95 billion stock offering to fund AI expansion](https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html)**
-
-Meta said Monday it is planning to raise a total of $95 billion to support itsi nvestments in AI infrastructure and super intelligence.
-
-CNBC • 48m ago
+Mediaite • 1h ago
 
 ---
 
-**[Meta Seeks Up to $95 Billion in Equity to Fund AI Spending](https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending)**
+**[From Compliance to Competitive Advantage: How AI Is Transforming Cannabis Operations](https://mjbizdaily.com/sponsored/from-compliance-to-competitive-advantage-how-ai-is-transforming-cannabis-operations/618553/)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Meta Will Offer Up to $95 Billion in Stock. What That Means for Its Big AI Push.](https://www.barrons.com/articles/meta-stock-price-share-offer-ai-0284be59)**
-
-Barron's • 6m ago
+MJBizDaily • 10m ago
 
 ---
 
-**[It took just 12 hours for an AI start-up founded by ex-DOGE staffers to break into Anthropic](https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/)**
+**[In China, the AI bubble has already burst](https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/)**
 
-The start-up firm Cathedral’s ability to penetrate sensitive programs at one of the nation's leading AI companies comes amid mounting concerns about security in the global AI race.
+Reuters • 2h ago
 
-The Washington Post • 23m ago
+---
+
+**[The markets are starting to act seriously weird. Blame AI](https://www.cnn.com/2026/10/26/business/markets-bonds-stocks-ai)**
+
+AI’s shaky balance sheets raise questions about circular financing that investors have long questioned but the industry and many traders have swept under the rug.
+
+CNN • 7h ago
+
+---
+
+**[Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers)**
+
+Cunyan Ma’s interactive tool exposes the power structure that extracts low-wage labor from data workers in the Global South to make everyday AI algorithms function.
+
+Brown University • 7h ago
+
+---
+
+**[Microsoft offers buyouts to 60,000 workers as it pours money into AI](https://www.cbsnews.com/news/microsoft-buyouts-60000-workers-artificial-intelligence-layoffs/)**
+
+Roughly a quarter of Microsoft's workforce will be eligible for a "voluntary exit offer" as the company tries to shed workers.
+
+CBS News • 1h ago
+
+---
+
+**[Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push](https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html)**
+
+Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.
+
+CNBC • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Washington Post • 23m ago
 
 Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.
 
-⬆️ 629 • 💬 661 • 1d ago • [apollo.com](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+⬆️ 637 • 💬 664 • 1d ago • [apollo.com](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 
 ---
 
@@ -205,7 +205,7 @@ Despite massive investments and widespread hype around artificial intelligence, 
 
 America is Losing Hundreds of Thousands of Jobs in Media, Film & the Arts. How Much is AI to Blame?
 
-⬆️ 526 • 💬 562 • 1d ago • [apricitas.io](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+⬆️ 537 • 💬 575 • 1d ago • [apricitas.io](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 
 ---
 
@@ -213,7 +213,7 @@ America is Losing Hundreds of Thousands of Jobs in Media, Film & the Arts. How M
 
 Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second.
 
-⬆️ 357 • 💬 135 • 1d ago • [cerebras.ai](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+⬆️ 363 • 💬 140 • 1d ago • [cerebras.ai](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 
 ---
 
@@ -221,7 +221,7 @@ Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers 
 
 There is a widespread sense that AI-generated text has recently become harder to understand. In this study, we investigate a set of psycholinguistic features that are known to correlate with human processing difficulty (e.g., object relative clauses, long syntactic dependencies, low-frequency n-grams). Using a novel corpus of AI-generated text across diverse domains, we find that AI models use these difficult features more often than paraphrases generated by round-trip translation. Compared with human writing, all nine frontier and near-frontier models use more inanimate subjects with animate verbs and more low-frequency n-grams, and most also use longer dependencies, more stacked nouns, and more reduced object relatives in conversation; we also demonstrate substantial variation across model families. We propose and test a hypothesis as to why: while human language is optimized for successful communication, AI-generated text is increasingly optimized for other goals like math, code, and reasoning, in which there is a pressure for \textit{information density} rather than successful communication. We provide a proof-of-concept for this hypothesis by fine-tuning a language model under a length penalty, which leads to a divergence from human-like linguistic behavior. Our findings highlight the axes of misalignment between linguistic processing demands in humans and LLMs, and point toward possible remedies.
 
-⬆️ 247 • 💬 199 • 1d ago • [arXiv.org](https://arxiv.org/abs/2610.29162)
+⬆️ 252 • 💬 200 • 2d ago • [arXiv.org](https://arxiv.org/abs/2610.29162)
 
 ---
 
@@ -229,15 +229,15 @@ There is a widespread sense that AI-generated text has recently become harder to
 
 Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students’ homework. After seeing how many of his students used AI to consistently receive top scores, he
 
-⬆️ 221 • 💬 320 • 19h ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
+⬆️ 229 • 💬 325 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 
 ---
 
-**[Air Purifiers as White Noise Machines](https://news.ycombinator.com/item?id=50212507)**
+**[Brown student maps the hidden global labor powering AI](https://news.ycombinator.com/item?id=50242843)**
 
-White noise machines are widely used for sound masking, increasing privacy in offices and helping people sleep. The  classic approach is a fan in a box, though in the past ten years people have mostly switched over to electronic ones. But a fan is really a great approach; you just need to put it to better use: have the fan clean the air.  Instead of spinning a fan in free air to make noise, you ca
+Cunyan Ma’s interactive tool exposes the power structure that extracts low-wage labor from data workers in the Global South to make everyday AI algorithms function.
 
-⬆️ 176 • 💬 170 • 2d ago • [jefftk.com](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
+⬆️ 152 • 💬 125 • 5h ago • [Brown University](https://www.brown.edu/news/2026-10-26/ai-data-workers)
 
 ---
 
@@ -245,7 +245,15 @@ White noise machines are widely used for sound masking, increasing privacy in of
 
 Nikon's 16th annual Small World in Motion contest is open to any movie or digital time-lapse photography taken through the microscope.
 
-⬆️ 141 • 💬 79 • 1d ago • [TechSpot](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
+⬆️ 144 • 💬 87 • 1d ago • [TechSpot](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
+
+---
+
+**[Concerning behavior from a popular open-weight AI model](https://news.ycombinator.com/item?id=50246658)**
+
+Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.
+
+⬆️ 110 • 💬 37 • 2h ago • [Cohere](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
 
 ---
 
@@ -255,7 +263,7 @@ imagine a fully integrated AI future where being banned means you are now econom
 
 your smart glasses that showed you a beautiful utopia? the color has left them. you are forced to liv…
 
-⬆️ 98 • 💬 78 • 23h ago • [X (formerly Twitter)](https://twitter.com/boneGPT/status/2114035719853265264)
+⬆️ 98 • 💬 78 • 1d ago • [X (formerly Twitter)](https://twitter.com/boneGPT/status/2114035719853265264)
 
 ---
 
@@ -267,35 +275,27 @@ A fresh academic paper on Z-Library cites a TorrentFreak article that doesn’t 
 
 ---
 
-**[Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://news.ycombinator.com/item?id=50239027)**
-
-AI panic weirdly resembles the anxiety that accompanied early capitalism
-
-⬆️ 69 • 💬 76 • 8h ago • [contraptions.venkateshrao.com](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[Why so many AI developers are freaked out about AI](https://www.youtube.com/watch?v=OnXVUXktKxQ)**
+**[People Are Using AI to Hack Everything They Own](https://www.youtube.com/watch?v=YtBrjCXQUkg)**
 
-AI developers don't know every detail about how frontier AIs work. And the gap between what's known and what AI is capable of is ...
+CHAPTERS 0:00 AI ripped the ads out of this TV 0:40 400000 GitHub stars, and nobody knows who made it 1:07 Every smart ...
 
-📺 CNN
+📺 Slop Architect
 
-👁️ 87K • 👍 482 • 💬 165 • ⏱️ 9:05 • 22h ago
+👁️ 332K • 👍 8K • 💬 1K • ⏱️ 15:51 • 13h ago
 
 ---
 
-**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
+**[AI startup Anthropic unveils its public IPO filing for the first time](https://www.youtube.com/watch?v=IjCJKr_KzRw)**
 
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
+Artificial intelligence startup Anthropic unveiled its public IPO filing for the first time ahead of what is expected to be one of the ...
 
-📺 InsideAI
+📺 NBC News
 
-👁️ 1.2M • 👍 25K • 💬 3K • ⏱️ 15:05 • 18h ago
+👁️ 11K • 👍 90 • 💬 56 • ⏱️ 3:37 • 3h ago
 
 ---
 
@@ -305,17 +305,17 @@ FOX Business correspondent Darren Botelho has the latest on artificial intellige
 
 📺 Fox News Clips
 
-👁️ 254K • 👍 979 • 💬 730 • ⏱️ 2:04 • 2d ago
+👁️ 264K • 👍 1K • 💬 742 • ⏱️ 2:04 • 2d ago
 
 ---
 
-**[It&#39;s over... China&#39;s New AI Just Caught Up With America&#39;s Best](https://www.youtube.com/watch?v=6pVDrfFckbY)**
+**[3 Hidden FREE AI Video Generators Better Than Paid Ones (UNLIMITED)](https://www.youtube.com/watch?v=CoFeT_SJXvg)**
 
-China just dropped Kimi K3.1 Pro, a massive new AI model from Moonshot AI that's challenging America's most powerful systems.
+Create cinematic AI videos and scroll-stopping ads with Higgsfield → https://higgsfield.ai/s/malvaai-NfwYwM Free Prompt PDFs ...
 
-📺 AI Revolution
+📺 Malva AI
 
-👁️ 32K • 👍 498 • 💬 60 • ⏱️ 14:41 • 11h ago
+👁️ 29K • 👍 518 • 💬 75 • ⏱️ 10:13 • 1d ago
 
 ---
 
@@ -325,17 +325,7 @@ Get free shipping on your order and 365-day returns. Now available in Canada and
 
 📺 Layze
 
-👁️ 1.2M • 👍 62K • 💬 6K • ⏱️ 42:13 • 1d ago
-
----
-
-**[The AI Bubble&#39;s Worst Nightmare Just Became Reality](https://www.youtube.com/watch?v=R4dUq9yG2L8)**
-
-Ship AI-generated code you can actually trust with CodeRabbit's free 14-day trial! Get started using my link: ...
-
-📺 House of El: AI
-
-👁️ 403K • 👍 15K • 💬 2K • ⏱️ 26:19 • 2d ago
+👁️ 1.2M • 👍 64K • 💬 7K • ⏱️ 42:13 • 1d ago
 
 ---
 
@@ -345,37 +335,47 @@ The Copilot runtime was rewritten in Rust and starting a session fell from over 
 
 📺 Better Stack
 
-👁️ 232K • 👍 2K • 💬 345 • ⏱️ 6:24 • 2d ago
+👁️ 245K • 👍 2K • 💬 354 • ⏱️ 6:24 • 2d ago
 
 ---
 
-**[Researchers &amp; Bank Execs SOUND THE ALARM On AI](https://www.youtube.com/watch?v=T16ubDxRXi8)**
+**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
 
-Reports reveal AI models pose major threats to bank accounts and critical infrastructure. Cenk Uygur and John Iadarola discuss ...
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
 
-📺 The Young Turks
+📺 InsideAI
 
-👁️ 151K • 👍 3K • 💬 927 • ⏱️ 12:29 • 2d ago
-
----
-
-**[Francis Fukuyama Changed His Mind About AI. Here’s What Scared Him. | Mona Charen Show](https://www.youtube.com/watch?v=q_S-oc4YTE4)**
-
-Get 15% off OneSkin with the code MONACHAREN at https://www.oneskin.co/MONACHAREN #oneskinpod #sponsored Francis ...
-
-📺 The Bulwark
-
-👁️ 78K • 👍 1K • 💬 188 • ⏱️ 51:03 • 1d ago
+👁️ 1.5M • 👍 30K • 💬 3K • ⏱️ 15:05 • 1d ago
 
 ---
 
-**[Featherweight Ep 22 - A WLW | GL ai series video](https://www.youtube.com/watch?v=MZflyPTPQJ0)**
+**[It&#39;s over... China&#39;s New AI Just Caught Up With America&#39;s Best](https://www.youtube.com/watch?v=6pVDrfFckbY)**
 
-Explore the Featherweight universe on YouArt: https://youart.ai/originals/the-veeverse-collection-featherweight Spotify: ...
+China just dropped Kimi K3.1 Pro, a massive new AI model from Moonshot AI that's challenging America's most powerful systems.
 
-📺 vee
+📺 AI Revolution
 
-👁️ 45K • 👍 2K • 💬 172 • ⏱️ 20:16 • 21h ago
+👁️ 43K • 👍 604 • 💬 69 • ⏱️ 14:41 • 17h ago
+
+---
+
+**[Why so many AI developers are freaked out about AI](https://www.youtube.com/watch?v=OnXVUXktKxQ)**
+
+AI developers don't know every detail about how frontier AIs work. And the gap between what's known and what AI is capable of is ...
+
+📺 CNN
+
+👁️ 102K • 👍 547 • 💬 183 • ⏱️ 9:05 • 1d ago
+
+---
+
+**[The AI Bubble Just Cracked... And Oil Made It Worse](https://www.youtube.com/watch?v=FnyQgKGNWhI)**
+
+"There's a scarcity of capital," Jensen Huang said on Thursday, the same day oil jumped four percent and the Nasdaq had its ...
+
+📺 Why X
+
+👁️ 78K • 👍 497 • 💬 63 • ⏱️ 18:31 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 95,889 • ❤️ 3,084 • 9d ago
+⬇️ 95,889 • ❤️ 3,155 • 9d ago
 
 ---
 
@@ -403,7 +403,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 8,470 • ❤️ 885 • 4d ago
+⬇️ 8,470 • ❤️ 905 • 5d ago
 
 ---
 
@@ -415,7 +415,7 @@ Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic co
 
 `text-generation` `33.1B`
 
-⬇️ 2,787 • ❤️ 521 • 1d ago
+⬇️ 2,787 • ❤️ 570 • 1d ago
 
 ---
 
@@ -427,7 +427,7 @@ Spark-X2.6-4B is a compact, general-purpose language model optimized for on-devi
 
 `text-generation` `4.1B`
 
-⬇️ 4,726 • ❤️ 601 • 5d ago
+⬇️ 4,726 • ❤️ 631 • 5d ago
 
 ---
 
@@ -439,7 +439,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 700,652 • ❤️ 1,647 • 9d ago
+⬇️ 700,652 • ❤️ 1,677 • 9d ago
 
 ---
 
@@ -451,7 +451,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,117,147 • ❤️ 9,387 • 15d ago
+⬇️ 2,117,147 • ❤️ 9,429 • 15d ago
 
 ---
 
@@ -463,19 +463,19 @@ MiniMax-M3.1-Flash is a native multimodal MoE model supporting text, image, and 
 
 `image-text-to-text` `220.5B`
 
-⬇️ 8,782 • ❤️ 368 • 5h ago
+⬇️ 8,782 • ❤️ 380 • 11h ago
 
 ---
 
-**[MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)**
+**[DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF)**
 
-*OpenMOSS*
+* IST Austria Distributed Algorithms and Systems Lab*
 
-MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that generates images from natural language prompts, supporting structured control over text placement and object arrangement via tag sequences or JSON layouts. It's ideal for applications requiring precise visual composition and multilingual text rendering.
+This GGUF model provides non-uniform quantizations (GSQ-RCO) of DeepSeek-V4.1-Flash-1017, a 763B parameter MoE model with a 1M context window. It enables efficient text generation on a single 12GB GPU by optimizing precision per tensor.
 
-`text-to-image` `5.1B`
+`text-generation` `196.6B`
 
-⬇️ 12,114 • ❤️ 739 • 5d ago
+⬇️ 891,147 • ❤️ 334 • 19h ago
 
 ---
 
@@ -487,19 +487,19 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,608,285 • ❤️ 18,430 • 2mo ago
+⬇️ 7,608,285 • ❤️ 18,445 • 2mo ago
 
 ---
 
-**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
+**[MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)**
 
-*Ahmet Benzer*
+*OpenMOSS*
 
-This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
+MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that generates images from natural language prompts, supporting structured control over text placement and object arrangement via tag sequences or JSON layouts. It's ideal for applications requiring precise visual composition and multilingual text rendering.
 
-`text-to-image` `7.1B`
+`text-to-image` `5.1B`
 
-⬇️ 2,207,486 • ❤️ 5,072 • 14d ago
+⬇️ 12,114 • ❤️ 751 • 5d ago
 
 ---
 
@@ -515,7 +515,7 @@ This is a quantized, uncensored text-to-image diffusion model based on Qwen-Imag
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 123 • 💬 2 • ⭐ 19,629 • 17d ago
+▲ 123 • 💬 2 • ⭐ 19,988 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -527,9 +527,23 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 154 • 💬 6 • ⭐ 114,817 • 22mo ago
+▲ 154 • 💬 6 • ⭐ 115,599 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
+
+*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
+
+🏢 Edge0
+
+Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
+
+▲ 30 • 💬 9 • ⭐ 7,418 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
 ---
 
@@ -545,20 +559,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
-
-*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
-
-🏢 Edge0
-
-Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
-
-▲ 30 • 💬 9 • ⭐ 7,208 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
-
----
-
 **[MOSS-Image Technical Report](https://huggingface.co/papers/2610.23374)**
 
 *MOSI. AI*
@@ -567,9 +567,34 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.
 
-▲ 104 • 💬 4 • ⭐ 1,855 • 10d ago
+▲ 104 • 💬 4 • ⭐ 1,941 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
+
+---
+
+**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+
+*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+
+Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+
+▲ 48 • 💬 2 • ⭐ 34,200 • 27mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+
+---
+
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
+
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+▲ 71 • 💬 4 • ⭐ 34,200 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -601,42 +626,17 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 ---
 
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
 
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
 
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+🏢 BAIDU
 
-▲ 71 • 💬 4 • ⭐ 34,071 • 14mo ago
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
+▲ 98 • 💬 7 • ⭐ 28,499 • 4mo ago
 
----
-
-**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
-
-*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
-
-Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
-
-▲ 48 • 💬 2 • ⭐ 34,059 • 27mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
-
----
-
-**[StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions](https://huggingface.co/papers/2610.17309)**
-
-*Xialie Zhuang, Zunhai Su, Jia Pan et al. (6 authors)*
-
-🏢 StartLux
-
-StartLux-Decision introduces efficient and adaptive decision models using single-pass prediction and confidence-guided reasoning, trained via a three-stage pipeline with RLCD² reinforcement learning, and evaluates them on Decision Index and the DecisionPivot benchmark.
-
-▲ 81 • 💬 4 • ⭐ 1,575 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.17309) • [💻 code](https://github.com/StartLuxLabs/StartLux-Decision) • [🔗 project](https://decision.startlux.com/)
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -660,7 +660,7 @@ A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your A
 
 `Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
 
-⭐ 6.5k • 🔱 1.1k • 2d ago
+⭐ 6.5k • 🔱 1.1k • 3d ago
 
 ---
 
@@ -670,7 +670,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 877 • 3d ago
+⭐ 6.0k • 🔱 882 • 3h ago
 
 ---
 
@@ -680,7 +680,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.3k • 🔱 154 • 4h ago
+⭐ 5.3k • 🔱 155 • 10h ago
 
 ---
 
@@ -690,7 +690,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.5k • 🔱 303 • 3h ago
+⭐ 4.5k • 🔱 305 • 9h ago
 
 ---
 
@@ -700,7 +700,7 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 `Python`
 
-⭐ 4.0k • 🔱 155 • 17d ago
+⭐ 4.0k • 🔱 157 • 17d ago
 
 ---
 
@@ -710,7 +710,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.9k • 🔱 517 • 4d ago
+⭐ 3.9k • 🔱 518 • 4d ago
 
 ---
 
@@ -720,7 +720,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 3.7k • 🔱 21 • 1d ago
+⭐ 3.7k • 🔱 21 • 1h ago
 
 ---
 
@@ -730,7 +730,7 @@ The open source AI video agent: turns any coding agent into a video agent, with 
 
 `TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 3.0k • 🔱 279 • 17m ago
+⭐ 3.0k • 🔱 284 • 9m ago
 
 ---
 
@@ -740,7 +740,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 2.9k • 🔱 172 • 3d ago
+⭐ 2.9k • 🔱 176 • 3d ago
 
 ---
 
