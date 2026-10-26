@@ -5,12 +5,42 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Exclusive: Formic raises fresh funding to put more robots on factory floors",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3UxRmgwU3N1RnJDaFExYWNwcHRJYWpRcVBhTkpwQ29QMUo2SHFqSGZFMGNWbUxyRC1lWXFJQzRoOGtmU0FVbjBVUGpzLXY5QWduUWdrUmVzVW5hSTN3akFFRXFsVWZqeXB4YjBFQ3VMS0tHTWx4bXJ5eTdxSWZWVGFldFg?oc=5",
-      "pub_date": 1792683759.0,
-      "article_url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments",
+      "headline": "Toyota takes on Tesla and China in humanoid robot race",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
+      "pub_date": 1792962006.0,
+      "article_url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
+      "source": "Global Times",
+      "source_url": "https://www.globaltimes.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80QVQxRktxem15Uy02NkFZcGRVb1Y3czV3ZHFpU0x3UEJBOU5yMXJ1RzZlMkxLdmFQb3RIZC1qTHVGNm1ZT1BmTEdjX3hNTU9mX2hBSWNwbDBrYmN1bHdfcG53?oc=5",
+      "pub_date": 1792897140.0,
+      "article_url": "https://www.globaltimes.cn/page/202610/1372888.shtml",
+      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/769f8f28-90cd-4fde-b250-759abf8efb3a.jpeg",
+      "description": "China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24."
+    },
+    {
+      "headline": "Agile ONE SN Humanoid Robot Bundles Nvidia\u2019s Robotics Stack",
+      "source": "TechRepublic",
+      "source_url": "https://www.techrepublic.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA?oc=5",
+      "pub_date": 1792748808.0,
+      "article_url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
+      "image": "https://assets.techrepublic.com/uploads/2026/10/nvidia-isaac-platform.jpeg?f=jpeg",
+      "description": "Nvidia and Agile Robots unveiled Agile ONE SN, a compact humanoid with AI training tools. Explore its features, specifications, and planned 2027 release."
+    },
+    {
+      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
+      "pub_date": 1792744160.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
       "image": null,
       "description": null
     },
@@ -25,14 +55,14 @@
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
-      "headline": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
-      "source": "Global Times",
-      "source_url": "https://www.globaltimes.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80QVQxRktxem15Uy02NkFZcGRVb1Y3czV3ZHFpU0x3UEJBOU5yMXJ1RzZlMkxLdmFQb3RIZC1qTHVGNm1ZT1BmTEdjX3hNTU9mX2hBSWNwbDBrYmN1bHdfcG53?oc=5",
-      "pub_date": 1792897140.0,
-      "article_url": "https://www.globaltimes.cn/page/202610/1372888.shtml",
-      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/769f8f28-90cd-4fde-b250-759abf8efb3a.jpeg",
-      "description": "China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24."
+      "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
+      "pub_date": 1792792759.0,
+      "article_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
     },
     {
       "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
@@ -65,46 +95,16 @@
       "description": "Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That\u2019s exactly what a research group at North Carolina State University has been working on."
     },
     {
-      "headline": "Agile ONE SN Humanoid Robot Bundles Nvidia\u2019s Robotics Stack",
-      "source": "TechRepublic",
-      "source_url": "https://www.techrepublic.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA?oc=5",
-      "pub_date": 1792748808.0,
-      "article_url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
-      "image": "https://assets.techrepublic.com/uploads/2026/10/nvidia-isaac-platform.jpeg?f=jpeg",
-      "description": "Nvidia and Agile Robots unveiled Agile ONE SN, a compact humanoid with AI training tools. Explore its features, specifications, and planned 2027 release."
-    },
-    {
-      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
-      "pub_date": 1792744160.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Researchers open autonomous robotics learning to the world",
-      "source": "Stanford Report",
-      "source_url": "https://news.stanford.edu",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
-      "pub_date": 1792673724.0,
-      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJkX0hkUF9kVmtVS0VhQXpLV0JFN3BrUFRLcjI3R1ItajhpRS03cm5yamlzVW1lQ2RJUWNabGlLVE5jb2stSmJma1lYaFVoWWxfM3ZnQ3M0eXp6N1NYdWwtRU1QcWhvZm80bEExdHV4S3J6V0hmYlgyLUhqb3BycUtaZVRkY0JFOWFLX2dDckVOMkhxVXZWcnRSVGU4Mk0wTHJUZ3ZYRlhyNUt3bHFDeEpMM0U3bEVEQ0U5Qzlsc0t3OC1j?oc=5",
-      "pub_date": 1792690634.0,
-      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
-      "image": "https://images-assets.nasa.gov/image/jsc2026e037789/jsc2026e037789~large.jpg",
-      "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
+      "headline": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelB5RGp4MWRYbXM5d3ctdS1MTkJQaUktaVZmZW50UC03N0Yxb0lfUXNwNjJ0SFljanVhbTR3NFFGOFBxWjNaNmNPWHBwVmZFUXBvcjBLbkpaQXg2ZklkTmhUcWVLekJzY3kybkZjU2thQjFJYzAxMDd6bjhxNWZ0bjFHSlpYeXFPRlhFcEpTcDNLOFY5d0xNMEJDQQ?oc=5",
+      "pub_date": 1792845971.0,
+      "article_url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/ekarobotics-featured.jpg",
+      "description": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-25T22:20:11.206035+00:00"
+  "fetched_at": "2026-10-26T00:34:19.225618+00:00"
 }
