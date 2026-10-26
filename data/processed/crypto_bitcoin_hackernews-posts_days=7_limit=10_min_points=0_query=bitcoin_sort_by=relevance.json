@@ -9,14 +9,28 @@
       "url": "https://stealmybitcoin.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50224916",
       "author": "cloudlandsdev",
-      "points": 584,
-      "num_comments": 434,
+      "points": 597,
+      "num_comments": 439,
       "created_at": "2026-10-24T20:30:31Z",
       "object_id": "50224916",
       "image": null,
       "description": "A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.",
       "favicon": "https://stealmybitcoin.com/favicon.svg",
       "site_name": "stealmybitcoin.com"
+    },
+    {
+      "title": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "hn_url": "https://news.ycombinator.com/item?id=50237379",
+      "author": "davikr",
+      "points": 60,
+      "num_comments": 9,
+      "created_at": "2026-10-26T00:15:17Z",
+      "object_id": "50237379",
+      "image": "https://opengraph.githubassets.com/1c34d833fdca9a4559becb96a60ea376d7aefd537dc32e41af8bff3cbafe5ff9/KillaBoi/StealMyBitcoin-PoC",
+      "description": "A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     },
     {
       "title": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
@@ -47,20 +61,6 @@
       "site_name": "gizmodo.com"
     },
     {
-      "title": "Steal My Bitcoin CTF PoC",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "hn_url": "https://news.ycombinator.com/item?id=50237379",
-      "author": "davikr",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-10-26T00:15:17Z",
-      "object_id": "50237379",
-      "image": "https://opengraph.githubassets.com/1c34d833fdca9a4559becb96a60ea376d7aefd537dc32e41af8bff3cbafe5ff9/KillaBoi/StealMyBitcoin-PoC",
-      "description": "A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Cost-Bounded Bitcoin Transaction Filtering Language",
       "url": "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966",
       "hn_url": "https://news.ycombinator.com/item?id=50183504",
@@ -77,5 +77,5 @@
   ],
   "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-26T00:33:57.325168+00:00"
+  "fetched_at": "2026-10-26T05:48:23.760735+00:00"
 }
