@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-26T00:34:31.455479+00:00'
+updated: '2026-10-26T05:48:57.852474+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 26, 2026 at 00:34 UTC  
+**Last Updated:** October 26, 2026 at 05:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,465.01
+### $80,192.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -3.3%  
-**30d:** -4.9%  
-**90d:** +25.5%  
-**1y:** -29.7%  
+**24h:** -0.3%  
+**7d:** -3.4%  
+**30d:** -5.0%  
+**90d:** +25.4%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1611.99B
+**Market Cap:** $1611.01B
 Rank #1
 
-**Circulating Supply:** 20,103,409 BTC
+**Circulating Supply:** 20,103,596 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -36.4%
 
 **All-Time Low:** $67.81
-+118162.8%
++118077.3%
 
 ---
 
@@ -129,13 +129,13 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[HODL onto your sats y'all](https://www.reddit.com/r/Bitcoin/comments/1xd4y95/hodl_onto_your_sats_yall/)**
 
-2d ago
+3d ago
 
 ---
 
 **[Touching grass will set you free from bitcoin 🍃](https://www.reddit.com/r/Bitcoin/comments/1xd3rzi/touching_grass_will_set_you_free_from_bitcoin/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -157,47 +157,63 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Bitcoin ‘Goes to Zero’ After a Hack, Chamath Palihapitiya Predicts](https://finance.yahoo.com/markets/crypto/articles/bitcoin-goes-zero-hack-chamath-205007801.html)**
+
+Billionaire investor Chamath Palihapitiya says Bitcoin has a ceiling on its value and believes a future hack could eventually send it to zero. Why Palihapitiya Thinks Bitcoin Is Capped Palihapitiya told the Moonshots podcast that traditional crypto lacks the fungibility...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
 
 Forbes • 1d ago
 
 ---
 
-**[Bitcoin and Gold Hit a Historic First in 2026. The Two “Safe Havens” Are Now the Worst Assets](https://finance.yahoo.com/markets/crypto/articles/bitcoin-gold-hit-historic-first-234000060.html)**
+**[Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks](https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/)**
 
-Bitcoin and gold rank as the worst major assets of 2026, a first in Charlie Bilello's data. See why oil and the Fed hurt both.
+Veteran Wall Street investor Jordi Visser dismissed Chamath Palihapitiya’s warning that Bitcoin (BTC) will go to zero as “completely just a joke,” predicting that the sell-off in AI stocks could bottom within the next two weeks.Speaking on Anthony Pompliano’s podcast on Saturday, Visser pushed back…
 
-Yahoo Finance • 54m ago
-
----
-
-**[Strategy (MSTR), Strive (ASST) must balance bitcoin (BTC) purchases, preferred stock dividends](https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends)**
-
-The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.
-
-CoinDesk • 1d ago
+TradingView • 14h ago
 
 ---
 
-**[Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-today-btc-recovers-052418630.html)**
+**[Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments](https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments)**
 
-Investing.com -- Bitcoin was up around $80,400 on Sunday, as it steadied after a sharp weekend selloff and investors assessed heavy cryptocurrency liquidations ahead of the Federal Reserve’s upcoming interest rate decision.
+Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.
 
-Yahoo Finance • 19h ago
-
----
-
-**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613)**
-
-Investing.com • 1d ago
+CoinDesk • 33m ago
 
 ---
 
-**[Current price of Bitcoin for October 23, 2026](https://fortune.com/article/price-of-bitcoin-10-23-2026/)**
+**[Bitcoin Falls Below $80,000: Is Benjamin Cowen's Bearish Q4 Roadmap Playing Out?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-80-000-032051576.html)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bitcoin price dips under $80,000 as Benjamin Cowen checks off 2 of 9 bearish steps. See what the Fed and PCE could change.
 
-Fortune • 2d ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens](https://www.bloomberg.com/news/articles/2026-10-26/bitcoin-dips-below-80-000-as-ai-related-market-selloff-deepens)**
+
+Bloomberg.com • 13m ago
+
+---
+
+**[Despite exit, Vivek Ramaswamy maintains influence at investment firm](https://www.cincinnati.com/story/news/politics/2026/10/26/vivek-ramaswamy-firm-strive-inc-influence-controlled-company-investor/92274576007/)**
+
+Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics.
+
+Cincinnati Enquirer • 1h ago
+
+---
+
+**[Muneeb Ali says Bitcoin has about two years to start its post-quantum upgrade](https://www.tradingview.com/news/cryptobriefing:3c89cb97c094b:0-muneeb-ali-says-bitcoin-has-about-two-years-to-start-its-post-quantum-upgrade/)**
+
+Bitcoin has a deadline problem, and Muneeb Ali wants everyone to start counting.Speaking at Token2049 Singapore on October 8, 2026, the Stacks co-founder said Bitcoin has roughly two years to upgrade, then about two more years to move coins before quantum computing risks intensify.Ali's keynote spl…
+
+TradingView • 10h ago
 
 ---
 
@@ -205,23 +221,7 @@ Fortune • 2d ago
 
 Bitcoin ETFs finished the week with $301 million in net inflows, ending a two-week losing streak, despite two straight days of outflows.
 
-Decrypt • 10h ago
-
----
-
-**[Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike](https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million)**
-
-Investors this week were buying bitcoin ETFs but that all changed on Thursday.
-
-Bitcoin Magazine • 2d ago
-
----
-
-**[Can Bitcoin Double in Value During the Next Crypto Bull Market?](https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/)**
-
-Bitcoin's future growth rate could look very different from its historical growth rate.
-
-The Motley Fool • 2h ago
+Decrypt • 15h ago
 
 ---
 
@@ -233,7 +233,15 @@ The Motley Fool • 2h ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 584 • 💬 434 • 1d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 597 • 💬 439 • 1d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+
+---
+
+**[Steal My Bitcoin CTF PoC](https://news.ycombinator.com/item?id=50237379)**
+
+A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
+
+⬆️ 60 • 💬 9 • 5h ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
 ---
 
@@ -247,15 +255,7 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 3 • 💬 0 • 7h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
-
----
-
-**[Steal My Bitcoin CTF PoC](https://news.ycombinator.com/item?id=50237379)**
-
-A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
-
-⬆️ 1 • 💬 0 • 19m ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+⬆️ 3 • 💬 0 • 12h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -271,13 +271,13 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: Bears Regaining Control](https://www.youtube.com/watch?v=bWdXPK3Hlok)**
+**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 977 • 💬 87 • ⏱️ 32:21 • 2h ago
+👁️ 16K • 👍 848 • 💬 68 • ⏱️ 13:36 • 6h ago
 
 ---
 
@@ -287,87 +287,85 @@ Before You Buy the Crypto Dip, WATCH THIS!! ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 337 • 💬 26 • ⏱️ 11:13 • 55m ago
+👁️ 27K • 👍 1K • 💬 70 • ⏱️ 11:13 • 6h ago
 
 ---
 
-**[AI Is Breaking The Internet! | Could It Send Bitcoin to Zero?](https://www.youtube.com/watch?v=gwKZjLdVjWw)**
+**[$3 Million Bitcoin ARMS RACE - Pentagon Admits BTC Gives US Power Over China](https://www.youtube.com/watch?v=xFvpd8HOQc8)**
 
-A wave of reported AI-driven cyberattacks has Bitcoiners questioning the security of banks, internet infrastructure, and the entire ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
 
-📺 Simply Bitcoin
+📺 Bitcoin News Alerts
 
-👁️ 17K • 👍 826 • 💬 98 • ⏱️ 51:18 • 9h ago
-
----
-
-**[(HERE IT COMES) This Has Happened 19 Out Of 19 Times. Crypto Holders Get Ready For 2027.](https://www.youtube.com/watch?v=wCQnv_T7hDw)**
-
-CCV Risk Models & Intelligence System - Start your free trial: https://app.cryptocapitalventure.ai/ Crypto in 2027 could be setting ...
-
-📺 Crypto Capital Venture
-
-👁️ 15K • 👍 538 • 💬 90 • ⏱️ 11:33 • 6h ago
+👁️ 3K • 👍 192 • 💬 59 • ⏱️ 15:16 • 7h ago
 
 ---
 
-**[Bitcoin Was Supposed to Be Digital Gold. So Why Is It Falling?](https://www.youtube.com/watch?v=R6bkuuecJ_E)**
-
-On Thursday, October 22nd, tech stocks got hammered and scared money ran for cover. Bitcoin, the coin built for the day ...
-
-📺 Why X
-
-👁️ 14K • 👍 123 • 💬 50 • ⏱️ 18:42 • 12h ago
-
----
-
-**[$10 Trilion Global Market Bloodbath Sends Bitcoin Below $80K!](https://www.youtube.com/watch?v=logsxx7PJbE)**
-
-Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen below $80000, and fear is spreading across financial ...
-
-📺 Simply Bitcoin
-
-👁️ 42K • 👍 2K • 💬 113 • ⏱️ 21:54 • 1d ago
-
----
-
-**[Bitcoin: A Precarious Position](https://www.youtube.com/watch?v=eN6dpreDIk4)**
+**[Bitcoin: Bears Regaining Control](https://www.youtube.com/watch?v=bWdXPK3Hlok)**
 
 Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 153K • 👍 4K • 💬 221 • ⏱️ 19:51 • 1d ago
+👁️ 55K • 👍 2K • 💬 167 • ⏱️ 32:21 • 7h ago
 
 ---
 
-**[BITCOIN: IT’s A TRAP!!!!!!!! [urgent]](https://www.youtube.com/watch?v=whywCBJv26M)**
+**[BITCOIN: NEW WEEK ANALYSIS!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=mC6fDI6qLf4)**
 
-Bitcoin trap.
+Free Trading Course https://rt1m.com/free 15% Cashback on Trading Fees: https://partner.blofin.com/d/RT1M Get Up To A ...
 
-📺 MMCrypto
+📺 Road To $1 Million USD
 
-👁️ 71K • 👍 2K • 💬 396 • ⏱️ 4:18 • 1d ago
-
----
-
-**[Will Bitcoin Survive Quantum Computing? | Jordi Visser](https://www.youtube.com/watch?v=huUoyFrZW08)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 99K • 👍 3K • 💬 90 • ⏱️ 51:29 • 1d ago
+👁️ 8K • 👍 316 • 💬 39 • ⏱️ 5:51 • 9h ago
 
 ---
 
-**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
+**[AI Is Breaking The Internet! Could It Send Bitcoin to Zero?](https://www.youtube.com/watch?v=gwKZjLdVjWw)**
 
-Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
+A wave of reported AI-driven cyberattacks has Bitcoiners questioning the security of banks, internet infrastructure, and the entire ...
 
-📺 Gareth Soloway
+📺 Simply Bitcoin
 
-👁️ 107K • 👍 3K • 💬 188 • ⏱️ 15:40 • 1d ago
+👁️ 21K • 👍 927 • 💬 109 • ⏱️ 51:18 • 14h ago
+
+---
+
+**[INSANE BITCOIN AND STOCK BLOODBATH EXPECTED TOMORROW?! #xrp #stockmarket  #bitcoin #finance](https://www.youtube.com/watch?v=C1FTYAjTioI)**
+
+📺 CryptoWendyO
+
+👁️ 2K • 👍 150 • 💬 7 • ⏱️ 1:58 • 4h ago
+
+---
+
+**[CRYPTO IS DOOMED?! WHAT DOES THE FUTURE LOOK LIKE? (AI BITCOIN CYBER ATTACKS ALTCOIN SEASON)](https://www.youtube.com/watch?v=wybSUImKO7s)**
+
+CRYPTO IS DOOMED?! WHAT DOES THE FUTURE LOOK LIKE? (AI BITCOIN CYBER ATTACKS ALTCOIN SEASON) CRYPTO ...
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 302 • 💬 11 • ⏱️ 7:05 • 12h ago
+
+---
+
+**[Spending USD, Or Bitcoin Instead?](https://www.youtube.com/watch?v=sAfpURsWnCk)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why it's important to earn and spend ...
+
+📺 Bitcoin University
+
+👁️ 5K • 👍 304 • 💬 84 • ⏱️ 5:19 • 15h ago
+
+---
+
+**[This Altcoin Might Become The No.1 Coin Passing Bitcoin The Crypto Market Might 7x In 12 Months](https://www.youtube.com/watch?v=GuijLmuweDc)**
+
+Expectations and price predictions are sky high right now in the cryptocurrency market. I wonder just how many people outside of ...
+
+📺 The Modern Investor
+
+👁️ 15K • 👍 865 • 💬 229 • ⏱️ 28:50 • 1d ago
 
 ---
 
