@@ -2,6 +2,28 @@
   "subreddit": "ethereum",
   "posts": [
     {
+      "title": "Daily General Discussion October 26, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xfntwu/daily_general_discussion_october_26_2026/",
+      "published": 1792990885.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "I got tired of explaining Etherscan to friends, so I built an explorer that just says what happened",
+      "author": "dawidr",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xfr9s8/i_got_tired_of_explaining_etherscan_to_friends_so/",
+      "published": 1793003926.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi r/ethereum, Every time a friend sends me an Etherscan link and asks \"what did I just do?\", I end up explaining internal txns, token transfers, method IDs and why there's WETH in there. Etherscan is great if you know what you're looking at. For everyone else it's a wall of hex. So I built Simplorer. You open a transaction or an address and it tells you in one sentence what happened. Same swap, two views: Etherscan: https://etherscan.io/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer: https://simplorer.app/ethereum/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer says \"0xc850\u202687b7 swapped 0.72 ETH for 1,378.06 USDT on Relay\". Below that you see who sent and got what (part of it went through Uniswap) and the fee in ETH and dollars. A few things it does: - names the apps people actually use, a few hundred of them (Uniswap, Aave, Lido, 1inch, Curve, Pendle, OpenSea...) - approvals in plain words, like \"allowed Uniswap to move any amount of its USDC\", with a note on what that means and how to take it back - Safes and smart accounts show up as the account that acted, not as some contract call - bridges show where the coins went on the other side (Across, Stargate, LayerZero, CCTP) - fake tokens copying a real ticker and address poisoning transfers get a warning Most transactions from normal wallets come out as one clean sentence. If it can't name something it says \"an app we don't know yet\" instead of guessing. Data comes from Blockscout and a public node. No account, no ads. It's still in beta and I'm sure some transactions read weird. If you find one, send it to me. That's honestly the most useful feedback I can get."
+    },
+    {
       "title": "Daily General Discussion October 25, 2026",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1xethvc/daily_general_discussion_october_25_2026/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. \u200bThe transfer status shows as \"completed\" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. \u200bSince the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? \u200bAny advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind."
-    },
-    {
-      "title": "Daily General Discussion October 22, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1xc9jkc/daily_general_discussion_october_22_2026/",
-      "published": 1792645271.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Dshackle Load Balancer v0.18",
-      "author": "splix",
-      "url": "https://www.reddit.com/r/ethereum/comments/1xck2m3/dshackle_load_balancer_v018/",
-      "published": 1792679209.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Dshackle is a load balancer that sits between your app and your blockchain upstreams (your own Geth, Infura, QuickNode, any mix of them). It tracks each upstream's block height, sync state and supported methods, and routes each request to one that is healthy and caught up. - JSON-RPC over HTTP and WebSocket - Automatic failover and retry - Tracking upstream status - Height-aware method routing - Chain-aware caching (in-memory or Redis) v0.18 is a rewrite from Kotlin/JVM to Rust. There are no new features. Config, API and behaviour are the same. Memory use is down ~75% and latency is 10\u201320% lower. https://github.com/emeraldpay/dshackle"
     }
   ],
-  "fetched_at": "2026-10-26T00:34:02.437608+00:00"
+  "fetched_at": "2026-10-26T12:23:02.561475+00:00"
 }
