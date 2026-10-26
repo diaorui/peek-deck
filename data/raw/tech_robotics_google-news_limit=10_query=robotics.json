@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
-      "source": "Global Times",
-      "source_url": "https://www.globaltimes.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80QVQxRktxem15Uy02NkFZcGRVb1Y3czV3ZHFpU0x3UEJBOU5yMXJ1RzZlMkxLdmFQb3RIZC1qTHVGNm1ZT1BmTEdjX3hNTU9mX2hBSWNwbDBrYmN1bHdfcG53?oc=5",
-      "pub_date": 1792897140.0,
-      "article_url": "https://www.globaltimes.cn/page/202610/1372888.shtml",
-      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/769f8f28-90cd-4fde-b250-759abf8efb3a.jpeg",
-      "description": "China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24."
-    },
-    {
       "headline": "Toyota takes on Tesla and China in humanoid robot race",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -23,16 +13,6 @@
       "article_url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Agile ONE SN Humanoid Robot Bundles Nvidia\u2019s Robotics Stack",
-      "source": "TechRepublic",
-      "source_url": "https://www.techrepublic.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA?oc=5",
-      "pub_date": 1792748808.0,
-      "article_url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
-      "image": "https://assets.techrepublic.com/uploads/2026/10/nvidia-isaac-platform.jpeg?f=jpeg",
-      "description": "Nvidia and Agile Robots unveiled Agile ONE SN, a compact humanoid with AI training tools. Explore its features, specifications, and planned 2027 release."
     },
     {
       "headline": "'The beginning of The Matrix': Unitree is developing an AI system that will let humanoid robots self-improve \u2014 and Tesla should be worried",
@@ -45,34 +25,44 @@
       "description": "We've got robotics updates from Unitree, Tesla, and Figure, as the companies announce their latest progress."
     },
     {
-      "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWpQUlU0X1BFN3AwQUU0Mnk5Tko1ZTRqdUx0UVViOG9pTVBHLXU2b0hydy04XzlvN1NKWXdmRnNDbHVLQmxHWVpIV0t5azlNRHZBeVRVOEVGZkhoUGNKX0M2cFI4ZHE2bk94RXpxUWtkQlNaSmQ3TmhFSzdXYk1PWFN5M1VzdXh2Z3JHMWxvNmNfbFBWQVpNT0VHY2I3RUVqRDBfQW9zSEptRnB3LWJTRWRFVEw?oc=5",
-      "pub_date": 1792744160.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
-      "image": null,
-      "description": null
+      "headline": "Watch: Four-legged robot solves giant Rubik\u2019s Cube without using hands",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlhIenByWmhvUDEyTjBSRVlKOFdBNi1feTBLdTNWSThOSEh5SDBKQ3dPMXJ6Zmk5aEJqWTd6V3dVZlZ3UzVtSjA1azlqT1hPZFAtT0JEcmxSSlVXMW5LVW9CU0NWcTFrOHN1Q3lWZFZlZXBUVzkxRm5YM0tGRVh1TzhTQjRXeWh6Y2c?oc=5",
+      "pub_date": 1792933440.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/four-legged-robot-solves-rubik-cube",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/cube-solved.jpg",
+      "description": "Researchers from ETH Zurich\u2019s Robotic Systems Lab have taught one of its four-legged ANYmal robots to solve a giant Rubik's Cube using its feet."
     },
     {
-      "headline": "Figure AI's Robot Endures 13-Day Walk, 200-Hour Sorting Test",
-      "source": "\uc870\uc120\uc77c\ubcf4",
-      "source_url": "https://www.chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWpWLUw4QXVJWDN4NExIWm00cjhsTGQzMXFhYkJ1dWg5WEVJakJQcVE1a2pMZVFESDRwSG05VmVlR0NhTXVJVEY2aktTNERDLXF0eUt1bTBDeG1ZaG10YkU5S0dpUFdKWHJTZ29GalFTOU5pNXlwNGpMeE1DTE54dlZSUTdfR1Yx?oc=5",
-      "pub_date": 1792992754.0,
-      "article_url": "https://www.chosun.com/english/industry-en/2026/10/26/PWEXG3OIKVAM7N2O7YP6O6T5II/",
-      "image": "https://www.chosun.com/resizer/v2/FWJFQRTSJNCFDI3MTW2UK5TBWE.gif?auth=f9994d724c7df7fef5fc1cd8494267b81dcc53047b911e18c8c1f4ba606ba715&width=480&height=252&smart=true",
-      "description": "Figure AIs Robot Endures 13-Day Walk, 200-Hour Sorting Test Extreme tests identify faults, prove reliability for factories and logistics customers"
+      "headline": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
+      "source": "Global Times",
+      "source_url": "https://www.globaltimes.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80QVQxRktxem15Uy02NkFZcGRVb1Y3czV3ZHFpU0x3UEJBOU5yMXJ1RzZlMkxLdmFQb3RIZC1qTHVGNm1ZT1BmTEdjX3hNTU9mX2hBSWNwbDBrYmN1bHdfcG53?oc=5",
+      "pub_date": 1792897140.0,
+      "article_url": "https://www.globaltimes.cn/page/202610/1372888.shtml",
+      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/769f8f28-90cd-4fde-b250-759abf8efb3a.jpeg",
+      "description": "China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24."
     },
     {
-      "headline": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZklWdGNtbFB2Z2RnTURKVFdvS0tjb2c1VHV4bWVQb3AtNmR1dDFGUWNiXzJkeWhMaHNwYlpfTEpVajl5NlZSYTJ1M01pdThNdnd5dzZPY0VaSkdzOEp0UTlyZE5aSHFoSDRTU3k0UFBpaTh1Q2kwRUliQzI2Y0poeXV0MTg3YWx5aFFXaWFqTzRYTTFwQU1zeWRPRTFqMFgzbUVvc1ZSUUQ0U2RnQUF5eXZYb1JXd2M?oc=5",
-      "pub_date": 1792775911.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
-      "description": "Company says foreign-made robotic vehicles are crucial to US chip production."
+      "headline": "KOID: Unitree And The Arrival Of Pure Play Humanoid Robotics (NASDAQ:KOID)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGNLeXFBcGNVQnZEUVZfZzlSNGRWSFhPVnM1Sy15QWhDRzNUZDk4V3YyMW43cEtFbmdjcU1mVHdkUy1DUVZsZThNUGFyTmg0OExGNUdBU2FRemVISzR0dU1DX0hRdVN5aTdsUjZaeEpkaHRIY0VGbDh2WllfbERud25fVE9RZnZjWWhHQk1MamwzU2M4VVZIZUFZUFZYZ2xXWmc?oc=5",
+      "pub_date": 1793006793.0,
+      "article_url": "https://seekingalpha.com/article/4957414-koid-unitree-and-the-arrival-of-pure-play-humanoid-robotics",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1447095269/image_1447095269.jpg?io=getty-c-w1536",
+      "description": "KOID's recent rebalance elevated Unitree, a profitable pure-play humanoid robotics leader. Click here to find out why KOID ETF is a Buy."
+    },
+    {
+      "headline": "Agile ONE SN Humanoid Robot Bundles Nvidia\u2019s Robotics Stack",
+      "source": "TechRepublic",
+      "source_url": "https://www.techrepublic.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA?oc=5",
+      "pub_date": 1792748808.0,
+      "article_url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
+      "image": "https://assets.techrepublic.com/uploads/2026/10/nvidia-isaac-platform.jpeg?f=jpeg",
+      "description": "Nvidia and Agile Robots unveiled Agile ONE SN, a compact humanoid with AI training tools. Explore its features, specifications, and planned 2027 release."
     },
     {
       "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
@@ -85,6 +75,26 @@
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
+      "headline": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZklWdGNtbFB2Z2RnTURKVFdvS0tjb2c1VHV4bWVQb3AtNmR1dDFGUWNiXzJkeWhMaHNwYlpfTEpVajl5NlZSYTJ1M01pdThNdnd5dzZPY0VaSkdzOEp0UTlyZE5aSHFoSDRTU3k0UFBpaTh1Q2kwRUliQzI2Y0poeXV0MTg3YWx5aFFXaWFqTzRYTTFwQU1zeWRPRTFqMFgzbUVvc1ZSUUQ0U2RnQUF5eXZYb1JXd2M?oc=5",
+      "pub_date": 1792775911.0,
+      "article_url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
+      "description": "Company says foreign-made robotic vehicles are crucial to US chip production."
+    },
+    {
+      "headline": "Hairy Armor For Combat Robot? It\u2019s Not Terrible!",
+      "source": "Hackaday",
+      "source_url": "https://hackaday.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGdncThPUnFTcDZwVjVRSzRMWHNKTm5udm4yVlI5R3hybEZSdU5fUWZqNDUxdWd0aDd3VmVERzNnX3kybmI2TVZua2FVa1l0VEpwTVBGaURfUFRuZGNTbm9PaUhJVVFRREhyRmpsZjJ5ckRNblNkVWJ4c1lRbUxQOWJpMUM?oc=5",
+      "pub_date": 1793001600.0,
+      "article_url": "https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/I-made-a-HAIRY-combat-robot-in-48hrs-26-38-screenshot.png",
+      "description": "[Angus] of Maker\u2019s Muse enjoys combat robotics, in which contenders zip about in an arena, attempting to disable one another with weapons that lift, spin, and smash. He got a funny idea a sho\u2026"
+    },
+    {
       "headline": "Finger-controlled robo beetle sports artificial muscles & two-way feedback",
       "source": "New Atlas",
       "source_url": "https://newatlas.com",
@@ -93,18 +103,8 @@
       "article_url": "https://newatlas.com/robotics/beetlebot-robotic-beetle/",
       "image": "https://assets.newatlas.com/dims4/default/d8bee45/2147483647/strip/true/crop/2484x1304+0+176/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fec%2Fb1%2Fbb235e3247b0bc75532eed511057%2Ffigure2.jpeg&na.image_optimisation=0",
       "description": "Insects have long been a source of inspiration for robotics engineers. They are small, agile, and can squeeze into spaces where people can\u2019t. Such robots are very useful for space exploration, inspecting industrial equipment, and even carrying out search-and-rescue operations. For certain purposes,\u2026"
-    },
-    {
-      "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
-      "pub_date": 1792792759.0,
-      "article_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
-      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T05:48:45.955996+00:00"
+  "fetched_at": "2026-10-26T12:23:22.167409+00:00"
 }

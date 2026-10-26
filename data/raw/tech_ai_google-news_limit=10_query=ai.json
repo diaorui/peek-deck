@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Opinion | The A.I. Boom Looks a Lot Like the Housing Bubble",
+      "headline": "Anthropic\u2019s Claude AI model accessed Georgia voter data in US",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5",
+      "pub_date": 1793012640.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+      "image": "https://i.guim.co.uk/img/media/53e6ecce82d90c5106536d7c112f492e510cdf2b/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40954f68ff4ba677c6380f7e70775b7d",
+      "description": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics project"
+    },
+    {
+      "headline": "SpaceX secures $40B in financing for GPUs as Elon Musk warns of AI cloud industry consolidation",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHdHVDQ4cEFQWWU5N2VPa1E2akxVVjk2c2tiMHRDaXExNHhoN0dKZGhNdUtCb0p1SFZkaDh2QVdMZ3BnYk5hdG53NUNnWVdIV3NwLVRTd3Z4NjJNUExhS3NkUXU5WjZiWlRod19NVElOalMzUkxmVXlQLVdmZWg1VXdBa1JlNzNYZkRtTzBTOWUyVU1CQ0ZrOW52S2w3LVBLU2VRQmpKUEgyM3ZEeWZ0cEIwaGQySzRIUUVWQdIBwgFBVV95cUxQX045QWpsRXhXUW9VNW15T0EtdlUxd1hUMGNHc1c1eGdteGZZNWxJbndDZkZIUUROcWFTYzB1UnJNdkxJV051THlQd3dwX0I0WGM1VWR6UzRKSzZJbklpOFZIRG1EYWk1S0hZdi1CdGJFM2Z2MDhyRkZaTHBvSk5PTjNBaWlmT0hTOXV6cVk0QkdsNURqWVh1NHltTThJOTNRRmlZV0NQVEdpSU5TZ0FxeUxZdGIzYXJMbHpLUWJhY0Fudw?oc=5",
+      "pub_date": 1793008020.0,
+      "article_url": "https://www.foxbusiness.com/technology/spacex-secures-40b-financing-gpus-elon-musk-warns-ai-cloud-industry-consolidation",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/elon-musk.jpg?ve=1&tl=1",
+      "description": "SpaceX closed $40 billion in debt financing for GPU purchases as Elon Musk warns AI debt markets have shut off access for most companies."
+    },
+    {
+      "headline": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5",
+      "pub_date": 1792975020.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "description": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs."
+    },
+    {
+      "headline": "Why Musk Is Predicting \u2018Guppy-Level Death\u2019 for Scores of A.I. Companies",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjJUaXZ4MW0xNTEwVWFNZGYtS200cHVkX3lKYnhhNGlxNFZaWU50SXFtaFlqYjI0eS11SVVtUTM5cjRJTncybGpzMjREZ29Md1dWU2FzbUV3SGFMcmNHZUd3ZDRrMWlJeVdyUVA4R0lfcUFzVnBrM19KZ2p3eXlTeGJySm9IM2dE?oc=5",
-      "pub_date": 1792933207.0,
-      "article_url": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN21WSmdYWUhzd2FDQnpUR0lSMDNpMmxVbG1udmU5cUh3Ujd2WGlMWFJyOEVlWGtxUzd6d1REcXNySEk0V1pFa05pMjFSSFhTQ3ozWm1BbGlMaUhGT3NfQ2o4YlhDZ21wTlE3ZUZVSHV5Qm1CUzVsYUpsME91LXc4WGM1cWFwTEtX?oc=5",
+      "pub_date": 1793016665.0,
+      "article_url": "https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "A Mathematician Reads the AI Future",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nX0k5c01pTjlvYy1JNHdqdWE4M0xaNkwwZjFkeUJadGpBY2dCQnhadC1KTVEzcHJjQkc4MEJGR2stMFk4SUN1NzRiZEJoVjJIeWc4N2poU2pMRUJHaEROMmlWdGxCSmdQcWxnZ0JvWFFNR0d0SlVLMjBB?oc=5",
-      "pub_date": 1792929600.0,
-      "article_url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "headline": "How AI Is Complicating The Hiring Process For Job Seekers",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkxtUlFMNXdkbnFwUzFhUWxXZGFWRkY0UVgyRnVWSEhVcFZzdGdvZlZrR1ZMN1MxSndhUEZpemRsdkctVkNxOWhkVWR2MENTUHY2VFRPdGlSc2l3aEVPQUFuRjFZRjNCRXVwcjZLejUyMHBkLVNlb3AzVko5MjRUVEFGeElBcDdfTTdkZTBBV2ZrcXhIZmlyYVpjZTlDSDdrbGo1S283aG1RbVhGREdxcTJrcVFaSHZC?oc=5",
+      "pub_date": 1793016000.0,
+      "article_url": "https://www.forbes.com/sites/carolinecastrillon/2026/10/26/how-ai-is-complicating-the-hiring-process-for-job-seekers/",
       "image": null,
       "description": null
     },
     {
-      "headline": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+      "headline": "Real-World AI Hacks Accelerate",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemdaNmpJTW5rYXlWTmEzOTdUdUU0enBJY01PME1qSWEwUUZhZ2Y3cWl6dDZMOVppWFhYajZabHJYcjJPcjJidDk2QjNrV1ZWRkpUZ2wwRGR6dmZHa3hpcktIeWdNWk5ZVlAyeDUtSmlXWHdPN1lFZzdadGNTWlV6RzB6bw?oc=5",
+      "pub_date": 1793016432.0,
+      "article_url": "https://www.wsj.com/pro/cybersecurity/real-world-ai-hacks-accelerate-d0dba9f6",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta announces $95 billion stock offering to fund AI expansion",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0hIc09wcC1xcjlvazNhRnBtTUdRS1BzaHhmMlFjcXcwejdZOF81T1ktekRjSXoxaUFvbVM2a1Q3dXc1UkNPSnZiOUVRY3pGZ0JCQU1BTW1jWWVRV2pvZmRrazlDNmhfcW1SMTFqYkxTNExjazV5NTloOUZHMkZsazJkQUdQMUnSAYwBQVVfeXFMUENBS2U3QWF2ankzUFZPc2o5NnN4YVdZcURROVdRdFhtR0FoczM5N09sdlpNcEZDTW10c1JneXNDam15MldDc0pPcm9IRFA4OGhjRzdKbUFtSUlwcnQxc0N5QTEwZDZxQTFjQmFCU2pNcC12ZVBUQzRpX29BOEdkU1oySTEyb3hTbERzUHk?oc=5",
-      "pub_date": 1792990576.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108246651-1767105043132-108246651-1767103912282-gettyimages-2248717434-JAPAN_FII.jpeg?v=1767105059&w=1920&h=1080",
-      "description": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers."
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV0gFwQVVfeXFMTmZORnFJWGJWQ296RnRpdXY1aFRXRElQZWw2Y3dpNWFtekxSZlc4eTc5NEJuVWFSLUFLWDNfOWV4aGxBTENheXpVMXo0Z0ZmQVRjSVo2bGo2MnFqdGVlSVNrNnJIbEdWZTIzQklXQmEwNQ?oc=5",
+      "pub_date": 1793014482.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108438640-1792524033556-gettyimages-2299270358-avdoc26tlot1j.jpeg?v=1792524150&w=1920&h=1080",
+      "description": "Meta said Monday it is planning to raise a total of $95 billion to support itsi nvestments in AI infrastructure and super intelligence."
     },
     {
-      "headline": "Anthropic taps a deep well of distrust in this rural town",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGJ0WTZNWVZycEJsRzZSeVNUNF95YnlNVktLZXZlcHRYQ1NObmozZzFLQjRUbFpNSzBFTzBMODhmMm5oYkRoMzdOaWJVMmhCcHlNUEZ1YUhJZ0dQSXVqTXdpREMtU2NxMnM2XzFBckZpaXhhUUdPQVN0YjhOb0dRUlJNalJwWnU5VzF6MnllQjBMUFU?oc=5",
-      "pub_date": 1792987215.0,
-      "article_url": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/dji-0962.jpg?c=16x9&q=w_800,c_fill",
-      "description": "The first rainfall in months splashes off the windshield as the local mayor drives to the site of what could be Anthropic\u2019s first AI data center in Australia."
-    },
-    {
-      "headline": "Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens",
+      "headline": "Meta Seeks Up to $95 Billion in Equity to Fund AI Spending",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RlX3A3ZENOMTJhNU5CRi12a0swUnlCSmtzbnJYQnRfQ1Z5NnpBVU9GdkRSUHNEXzZwSS0xc1FGRTlId3FnTWYzY1RCSWZHbkltc1dVRWMtSWNfSXFyLUJkcTRHSUV4MndxNVdONjRkSzBfRU44X1k4YjZqTVFfaWgzWE9QMHd1VWZsS1RUUmpxWTZBcHlHMXMxX25vNzhrOXViWGxXTUlVMUtoV05HQkhUZw?oc=5",
-      "pub_date": 1792992900.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/bitcoin-dips-below-80-000-as-ai-related-market-selloff-deepens",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHl6X0k4eXZDNWpjUnRsTnFqV0JpNjZ0UEpqLVhrbDhvVWpXX3oxNnlmRHJXUFRTbkwwZEczb2hVemlLekxxRWZ5dDEtM3Frb2VwdHA4Vll0VGdIUUdSalIzTjAwS3FzRWJCdm9nNHRFcmNTZWtLemFKbnZlb1BtbDBRMmVkZXFXVUdYUUNxZk9zeHUzVnFIMVhIcGNwcmRiQ0RvNmZuZ09DZGRU?oc=5",
+      "pub_date": 1793013165.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending",
       "image": null,
       "description": null
     },
     {
-      "headline": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
-      "source": "Apollo Global Management",
-      "source_url": "https://www.apollo.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHZjSE5HWVFmaFJNNVJMV09Sc1BWRGZVb0FhazlOQlFCY2hRV1VzSEtyNzh6WnhqWUhVSHV2NWpJanBrZm9rdGkwaW9MbS1FUnhTUkc4MDJ6SkI4T3YwWEdsY19HbW9LWG9ZNXRxOENPX2hrZWhCb2tVUEd0c29yNWxTdzRwMURoTVZaOXR1M0ptUEJEc1JpVFpJT0ZSZ29FYlA1LWRLTnNBNkVmVnNr?oc=5",
-      "pub_date": 1792838699.0,
-      "article_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
-      "description": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates."
-    },
-    {
-      "headline": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHBfUzFwS0VPeFU2VnBfLWxLcTRuOUdQbFU5YU5rV3BDTUhyUUtBU1VXdm50eHhzZ2pzTDZUWGp0YXJ1WEtfdUZjSGRHb0xnTjRhOUEtTXdtUG9GNkphZGN2WUtEMGd0VG5sbTc1SWFiRmxzUkhxUzNzZTF4NmFZNDBZTEJPUVV3c3lRdFRlb3RXUTNwcUN6MEVvdFk1Zk1tYlFsV3YyejdOa1U?oc=5",
-      "pub_date": 1792947720.0,
-      "article_url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-      "image": "https://i.insider.com/6ade1f21ab741a2ebdf111c1?width=1200&format=jpeg",
-      "description": "Only tech companies are seeing growth from the AI boom, Apollo Global Management said."
-    },
-    {
-      "headline": "Expect significant economic fallout if the AI boom falters: Economist",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHdEcE1hRWlsV3BoaTRfc2RER0pSMGpTRHpDdzUxTEt6NVdvUldlQjFKR1NPSlFIaEZKcVRKSU1WWDEwd2U4YUlUcHlpUjRvZHRXZmdEaWh6ODJoWXo2ekx6TDFSLVBPZ19LRW5tMGpULXk0bmNPTXVkcTBSblNuaHhaNDlQWUd3NnJhUGd2MS1uX3cyRjlrTFJPV1RkNHVmYWRxaTVJY0hsclYtanA1Vg?oc=5",
-      "pub_date": 1792988122.0,
-      "article_url": "https://www.cnbc.com/video/2026/10/26/expect-significant-economic-fallout-if-the-ai-boom-falters-economist.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108461618-17929759441792975942-49233206624-1080pnbcnews.jpg?v=1792975943&w=1920&h=1080",
-      "description": "Constance Hunter, Chief Economist and Head of Research at Economist Enterprise, says AI-related exports are buoying Asian economies, while AI-driven equity gains are supporting U.S. consumption. She warns that the concentration of growth leaves economies exposed if the AI boom falters."
-    },
-    {
-      "headline": "China increasingly depends on copying American AI",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaW9HM2JjOUNBblBtb1dTQkI5bThOdTFZVUh0ZDZ1WTVJbHZsN200YVhSNlUzc2ZtYnRmdFFHU1JzRVBWeUVOLXVQcDdZR3M1eVZLbnJkczlzNVNIQll2dEV0c2w0MzgtczdtOUpDZGJ5OWJnTVcwYXBUR0F0R19EdmJBV3BTVEcyQmVGZFNmUEZUa0JuSTd3LVptNGRJWnlWaV9IcGIzQktXV0pSOUE?oc=5",
-      "pub_date": 1792950275.0,
-      "article_url": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+      "headline": "Meta Will Offer Up to $95 Billion in Stock. What That Means for Its Big AI Push.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10bm9vdXZ0RDJuVWNfMGo5bnQtLTJ6b2c3WTlMNExXaEsyOUpiNEd0cGt0YVNldlZHNEtvaThTOXV3LUpBVEFmcmNOOTBSZDNPbTBmNGlFVzgwYkFqQmY2eExVUjR6UEEtNk1hNzdkWEgtTWs2bTZNbGl2a0hOUQ?oc=5",
+      "pub_date": 1793017020.0,
+      "article_url": "https://www.barrons.com/articles/meta-stock-price-share-offer-ai-0284be59",
       "image": null,
       "description": null
     },
     {
-      "headline": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBhUVVyVGdmdjJJVDc0ZHR2QVlwSV9CZWpaSS1PWWpSN2VXZThCTW1VdXVoNGJTQWFpbVZOZjg5WjczQ083cFhEMmNRZ0YxWXNDel9QWnJQVlJVeFRJenF6OTZBVEtoRjA4dVpCMzJoYXNIT0pGZ1VGUklVWVRvTmJ4R3lRNFpXTlFtV0RkUGRfX0J3SmxGbkJ0WVpVZTdaTk5GMVc4QmpGT1pH?oc=5",
-      "pub_date": 1792925820.0,
-      "article_url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
-      "image": null,
-      "description": null
+      "headline": "It took just 12 hours for an AI start-up founded by ex-DOGE staffers to break into Anthropic",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGRfa29NR1l4a19INEZWSXZWakhia2ZKTnRpQTVYeFNTUXRhdURvSTltbV9RRVJkbzVndVhsMUg0Y3N1MkZVNm11QVB5ZWtFVlhGY2NSSkp1MU84Qm0taWMtcURQcm9EbjZFTjV4Sk9NMTFwLV9Xc1BqM3RqWFhlLWpQZl8tOHJwdktBT2kxTUV6d2ZnWXg1cWwyVWtNSVl2UVA2LU1mWkNlcFZKd1BhNlpRbXZMeGZ0SEdR?oc=5",
+      "pub_date": 1793016016.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AU5DFV7TFPUXR2LK7HVIQ6IQLE.JPG&w=1440",
+      "description": "The start-up firm Cathedral\u2019s ability to penetrate sensitive programs at one of the nation's leading AI companies comes amid mounting concerns about security in the global AI race."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T05:48:56.166493+00:00"
+  "fetched_at": "2026-10-26T12:23:34.077157+00:00"
 }

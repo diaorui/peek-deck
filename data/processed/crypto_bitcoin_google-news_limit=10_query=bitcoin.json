@@ -15,16 +15,6 @@
       "description": null
     },
     {
-      "headline": "Bitcoin \u2018Goes to Zero\u2019 After a Hack, Chamath Palihapitiya Predicts",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOalREVGdETGFHV0VfWnhRdWVhVTVGbGJkcjk5NHo2R3pTM3FyTXBDQVpVUmFOS1I4V1phNGNFREZrd1Y3T2J2dGZEaElIbzhPNU05M0ZoVzlDTV9TSlNNcUZnNXE5MVlSNUFjWEFGblRrOGhmOGxuNFNBNUFNVng0MjdwVjdETDZSd0xyRzZSdU9LaVI0NlhrRlZqVQ?oc=5",
-      "pub_date": 1792788607.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-goes-zero-hack-chamath-205007801.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/61ebca9c11f75e74fa695120914f4556bb8e98a7e0c504d2a82f1999c15e41cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F0111e91a6a8710b93b547feb088911e4.jpg",
-      "description": "Billionaire investor Chamath Palihapitiya says Bitcoin has a ceiling on its value and believes a future hack could eventually send it to zero. Why Palihapitiya Thinks Bitcoin Is Capped Palihapitiya told the Moonshots podcast that traditional crypto lacks the fungibility..."
-    },
-    {
       "headline": "Bitcoin \u2018Going To Zero\u2019\u2014Sudden Shock Flip Sparks Imminent Price Crash Fears",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -35,76 +25,86 @@
       "description": null
     },
     {
-      "headline": "Jordi Visser Calls Chamath Palihapitiya\u2019s Bitcoin Going To Zero Tale \u2018Completely Just A Joke,\u2019 Says AI Sell-Off Could Bottom In Two Weeks",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOR3BxcUkwenJUZFdyQzN2amZJbDlvS0k5N2hrdnBxLWpacV9TUkNncmY2M0ZXblZnUUd1TzFab3ZaYUpiNF93ZmFsMmhUOWNiZ0duSTNjLVlUMmtwTmZaOHVnUUlWd1k2dzE0N1hyTkV6WWx0cXAzMUtRNGZPWjhMSS1iWWRPUU5RYUJ0dUdvR1lzYjJsa0ZoZUQwTTJENkdfMmZDSWVlNVQzcnpHYUtNWXE0YmtISE9zM0UwUlI5VVJ1NTBqZHpRZHNFczZtN3pWbWxSUmVZc3pWZlkwSzN6ZWJubS1za2lkd3FBb2tKM2NJalNHVTJkVE5YUFZPeTdQZTh2ZW1KUnNtVTlKREczbDhPUEVrLTNqMW1CNHVxd3U?oc=5",
-      "pub_date": 1792943179.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Veteran Wall Street investor Jordi Visser dismissed Chamath Palihapitiya\u2019s warning that Bitcoin (BTC) will go to zero as \u201ccompletely just a joke,\u201d predicting that the sell-off in AI stocks could bottom within the next two weeks.Speaking on Anthony Pompliano\u2019s\u00a0podcast on Saturday, Visser pushed back\u2026"
-    },
-    {
-      "headline": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+      "headline": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTBGRFRId3JiZ2Jjc3M3YkZLbFZXdTJkMzlrdThuUFVtY0FhTG1sY3JRZlQ2bDJPbWR5LXdJaUR1NERUSzJwS3E4a3VUbHo4R044TnVFdDJ5VDItSlN0OWVyd0pPZV9GYkpFSExwSjB6UTBFajJDMnVJaENDSEhURTdwMTVVaU5hQzFrT19YMGNHUnJCOEdzdFQ5ZGd5T3hHZGZqUHR3R1NJM3J2YWtwZzc3bmJ3YjlwczRvZVRNUGVBZk5Famc?oc=5",
-      "pub_date": 1792991720.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw."
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRG1BR05haWR4TWNNT3U5a3RLTFBDTGd1VXNFajhROUJNSndYLXZnVGJVbkpFOUJ4OERTOFhhQmZNOEhtOHMxOUpJMU10WnUwb01DUEZack9LWTVjYjhacEdmaThvaHI5UHllZzVfVG9fSEpzcG5YbEItdDI0NDlfNUxPZnJ5M3BZSlFHVGV0b3hXUUh0VlZqX1EyNVFNd1MwUHY4M19NR0JkbUZSQk43bUJZNUNudw?oc=5",
+      "pub_date": 1793013873.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bf9272d06a5476928a866fea961f9bba82e9422-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
     },
     {
-      "headline": "Bitcoin Falls Below $80,000: Is Benjamin Cowen's Bearish Q4 Roadmap Playing Out?",
+      "headline": "Franklin Templeton\u2019s New ETFs Could Make Millions of Investors Own Bitcoin Without Realizing It",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUZCaTVZNlhldzJiS0ZmMkEtc1ZCVVE4aUNsNUEwaGxGRnl2Mmg3QjlzbXhBSzZEWjhldmFDUlpUU3gzLXdGVWV1UzFSeUt5TVJPTXZYTTRTdFRqcjlsMTNubFZDNDNlSjdoc193cER6dzlTdENzMS0ybkNlazJtUTdjMzlNbmJQaS10QXFSbzNWQXJJeHc?oc=5",
-      "pub_date": 1792984800.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-80-000-032051576.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c3f5d0c074c863338a05ec14bf713cbee3f12a13a1019a222b3553c027f2a478/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Ff6202d862f68318182aa3dfae7ec63e9.png",
-      "description": "Bitcoin price dips under $80,000 as Benjamin Cowen checks off 2 of 9 bearish steps. See what the Fed and PCE could change."
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWW1mUS1YbUtaLVUyTjB1a2pRMFVnVHprU0FuRlF4TlVsY3ZSZUJ5UndfekRvdnBMMjl1WFpOci1YT0NXOGZtd3d5dTJCOHFrcl94cFlQTHpOWm1SV1FXQUhrcGlMdlRMdmt5ZTlkYlpxTVRrWi1GaGd5SDduODEwS3hvTVplSGtlbW9hVmNQUEN2MEt2ZnRVNm5NbWVXdDhuWEtWdjFn?oc=5",
+      "pub_date": 1793014935.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/franklin-templeton-etfs-could-millions-114215159.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a02a90cc8189964a3fb2fc199f43e725d4a2eb6b2f5dfdc8c6cc15d6915cb316/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F33eaad1ff247e12901ea30ac75ab6215",
+      "description": "Franklin Templeton\u2019s proposed FBEQ and FIBT ETFs combine US stocks with Bitcoin exposure funded by reinvested dividends. Their indexes started with 95% in equities and\u2026"
+    },
+    {
+      "headline": "A $68 million BTC price bet is targeting a surge to $90,000 after U.S. mid-term vote: Crypto Daily",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXlLNG9LeDNreS0zbjF6Z0FZSnFFeUtCcVM1bjJDRHhBOHFjQUxBTUhoczlYX28zWHJOYU9JSnhGMGt0NTF4NHhqb05DT1R4VkRjWmFpeXVKdGM3c3JXSEhCbHlXN3pOSjFnM1hKcDdQc2t5ZnBNSFlHS3otUGI4c2UzTnE5bUxhZk02YXJVVXhVd3ZEUkxNYm5vOFZRdGxLQWhmeVB0d2hyc2Fzd2NiWHRjNGZ3bUx0LU9HS25yeVU1bjdDYndmSTgzUGJzQQ?oc=5",
+      "pub_date": 1793015587.0,
+      "article_url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/eaa9360be3cda44b478d1a1ebabcc06a490f11a1-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "The day ahead in crypto: Oct. 26, 2026"
+    },
+    {
+      "headline": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty \u2014 PHP2Shell challenge tested claims that AI makes exploiting vulnerabilities easy",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMHBwUElwOVJwd2pmLU1lbGl2RUE3R3dhWHM2OF9yZTd4dVFYWkFaTHRZSGNBZWZDSEdTWjNMQm8zTDc0SUhTVnVLbUZkZFYxM0I3WlNoT1U4X054dEFMajBaN0tKWHdoOENkUzV2eTVad3VPZDZDczltOTVYZ2pHM0pOdi1ONEVTemxFVDRILVEwZWZOclF3WU9sX0ZpT3FPQzFiQWVHWW55QmpadmotRXFKZFp4aUxJLVpjVmJGb3hGOFlaNzZYcnJYTjEyTklHcnZ1Zm5kVWdxNjVJQklXck1SR0lnWll2Tk5BRkViRG04a3JDOERrX0dRenZ4TG5tWFFxY0FNRktCeVM4aGIxTkptUVZaSHpQTUQ2T3diRUFDWmVLRExYUWZTbFJWQUNWdW1fVEszczhLUDVLc3UxWDBEaXoyRXBrTHZBU1ZCVVUwUjFOcUs5VS1DN29fTmVMQi1HSjFn?oc=5",
+      "pub_date": 1793010600.0,
+      "article_url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
+      "image": "https://cdn.mos.cms.futurecdn.net/nR46h5GnedCeKyZtVqZr3L-1920-80.jpg",
+      "description": "A Bitcoin hacking challenge is daring security researchers to exploit critical PHP vulnerabilities and steal the cryptocurrency, putting claims about real-world exploitability to the test."
+    },
+    {
+      "headline": "More than half of all bitcoin can't be tied to a known owner, Galaxy found",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53bTZCYTNmLVBicVYxMUE4RmVhb3kzVXl5aWVubW1WX1JwdDdMYUN3dDFnNjd3OURSaWhJWTkzNE9Rck16T2R2RUpKSG9LREozUHJDdl9zdUxYSXVXWHQta19IQzR1R2VyY0x2UDU2Vzg0V2tLRnFFRHBwcw?oc=5",
+      "pub_date": 1793013501.0,
+      "article_url": "https://qz.com/galaxy-bitcoin-supply-unattributed-owner-research-102626",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1304014744-300x200.jpg",
+      "description": "The unattributed coins may belong to individuals in self-custody, lost wallets or institutions Galaxy has not identified"
+    },
+    {
+      "headline": "Can Bitcoin Double in Value During the Next Crypto Bull Market?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTEwMUN6bUZwelJVV1oxaUNlQmo0SE1BaTUxaEk3WEU1c2NLYmdKSkZ1bDFuRXNYRHQyMldDQ2JSbktfbFEtdUxUVTdZTVBpY1Bzb21yZXg3V1lJb1U2aTFxaGxqdWlHWU9wR21yWkdVYWRHdFlkZHBjWkFPUldNQjY2azF2RXc0R1o1Z1c1RkpQMmNLZU13?oc=5",
+      "pub_date": 1792969320.0,
+      "article_url": "https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891441%2Fbitcoin-on-wall-street.jpg&w=1200&op=resize",
+      "description": "Bitcoin's future growth rate could look very different from its historical growth rate."
+    },
+    {
+      "headline": "Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPekhJZjZObno3dWhGQ0VmejR1c044RlBhdExpLUpueDBQX2ZXUy1mSHlnVGtpZy05TkpaLVhGVEZsTzJqbGhtamw1Vi1RTnFiNWc0WHV2b29xMFVRZ3IwajhOSmdYc25rY1d2Q0JsY0hVejkxX3FOTnFtQnlibFlUMEVrc3JCeC1WVnZjT0VORkhtdTRn?oc=5",
+      "pub_date": 1792992956.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80-000-053556739.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e59e74e5a329415db06c869b1ffd838f6b20f0c6aefbbfd2f637559d13f67678/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F5537f5409750e8624376302399c2428a.jpg",
+      "description": "Bitcoin retreated below $80,000 on Monday as broader risk-off sentiment ahead of a Federal Reserve meeting and concerns over the artificial intelligence trade weighed on cryptocurrencies."
     },
     {
       "headline": "Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RlX3A3ZENOMTJhNU5CRi12a0swUnlCSmtzbnJYQnRfQ1Z5NnpBVU9GdkRSUHNEXzZwSS0xc1FGRTlId3FnTWYzY1RCSWZHbkltc1dVRWMtSWNfSXFyLUJkcTRHSUV4MndxNVdONjRkSzBfRU44X1k4YjZqTVFfaWgzWE9QMHd1VWZsS1RUUmpxWTZBcHlHMXMxX25vNzhrOXViWGxXTUlVMUtoV05HQkhUZw?oc=5",
-      "pub_date": 1792992900.0,
+      "pub_date": 1793012187.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/bitcoin-dips-below-80-000-as-ai-related-market-selloff-deepens",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Despite exit, Vivek Ramaswamy maintains influence at investment firm",
-      "source": "Cincinnati Enquirer",
-      "source_url": "https://www.cincinnati.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGxWQ3ZYZVB2LUJ2a1YxcWtTWWc3M195Y2VGUUtrSFNVa0QtUU5DT3B0SE1iZzVXLVJ4czltTWplOFRTN2JtOEVUbHNEWVU4TEx0WlF5UFA2THNPSlo0THJQQnZXRExuOThvTEtjalFzRXRXWlNVNjlpdndqSnVEck9tSmxqeUJwNlNLNmJfQmJsUm8xSmVxWXlUclJnSHNwSHEzUmxXazRLTjJxOGZad0Q5M2JGYllpTVJZVndNbXNUMUtxTkVMM0JocnIyU3RyNHJvMEljSQ?oc=5",
-      "pub_date": 1792989062.0,
-      "article_url": "https://www.cincinnati.com/story/news/politics/2026/10/26/vivek-ramaswamy-firm-strive-inc-influence-controlled-company-investor/92274576007/",
-      "image": "https://www.cincinnati.com/gcdn/authoring/authoring-images/2026/05/02/PCIN/89902673007-vivek-ramaswamy-anderson-township-town-hall-5139.jpg?crop=3299,1857,x0,y171&width=3200&height=1802&format=pjpg&auto=webp",
-      "description": "Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics."
-    },
-    {
-      "headline": "Muneeb Ali says Bitcoin has about two years to start its post-quantum upgrade",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNclRZdV9iTFhxVmhFalFEeWJ3XzVPVmNuMDdyUUI4OUhpR05zZm8teGdMZElyT3ZYYmtUaVR3UFpfcWl3Zl9PS2JoMXdIbUpCWFVGOThCeFB2VzM3bk9la2NWVFM2WGVyRXkxZXNEb3o4ZXdJdmVIb0VSdFB5QlJ4VFQyV0toYnR5LWNSbkcxTmF3WGZtdDBuZG9iNDE5Y0JMSEozTk5Fc05NZWN5TXlQRXEwcndZLUhuMDh4TnRhRTFMRjk3Qm8ySUU4SWFONFk0OU4wcmRCUXJydw?oc=5",
-      "pub_date": 1792955085.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:3c89cb97c094b:0-muneeb-ali-says-bitcoin-has-about-two-years-to-start-its-post-quantum-upgrade/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin has a deadline problem, and Muneeb Ali wants everyone to start counting.Speaking at Token2049 Singapore on October 8, 2026, the Stacks co-founder said Bitcoin has roughly two years to upgrade, then about two more years to move coins before quantum computing risks intensify.Ali's keynote spl\u2026"
-    },
-    {
-      "headline": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2RIdEYxUkFCazBpXzVzUUItWUNnNURnUTRTNTRXV1AwX3dPUjlwNnBJQ3lFNnJ5Qmp5YlozVFYzLWVqbjV2X1JEemU3WEdjRl9Ea2cwTjRvaHR6R1Nwb3RmdC1xcUdnMFdOd05RdTBqWVF0c0lVSVducnpIUlQzWVZ3R3c5T2tFOXdqOTBnR2tZU3Jh?oc=5",
-      "pub_date": 1792936863.0,
-      "article_url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
-      "description": "Bitcoin ETFs finished the week with $301 million in net inflows, ending a two-week losing streak, despite two straight days of outflows."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T05:48:47.358731+00:00"
+  "fetched_at": "2026-10-26T12:23:16.875273+00:00"
 }

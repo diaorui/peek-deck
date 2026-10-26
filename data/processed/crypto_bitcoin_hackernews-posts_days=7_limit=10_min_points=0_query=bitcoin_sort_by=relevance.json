@@ -9,8 +9,8 @@
       "url": "https://stealmybitcoin.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50224916",
       "author": "cloudlandsdev",
-      "points": 597,
-      "num_comments": 439,
+      "points": 609,
+      "num_comments": 442,
       "created_at": "2026-10-24T20:30:31Z",
       "object_id": "50224916",
       "image": null,
@@ -23,8 +23,8 @@
       "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
       "hn_url": "https://news.ycombinator.com/item?id=50237379",
       "author": "davikr",
-      "points": 60,
-      "num_comments": 9,
+      "points": 133,
+      "num_comments": 34,
       "created_at": "2026-10-26T00:15:17Z",
       "object_id": "50237379",
       "image": "https://opengraph.githubassets.com/1c34d833fdca9a4559becb96a60ea376d7aefd537dc32e41af8bff3cbafe5ff9/KillaBoi/StealMyBitcoin-PoC",
@@ -51,7 +51,7 @@
       "url": "https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285",
       "hn_url": "https://news.ycombinator.com/item?id=50233756",
       "author": "rbanffy",
-      "points": 3,
+      "points": 4,
       "num_comments": 0,
       "created_at": "2026-10-25T17:13:35Z",
       "object_id": "50233756",
@@ -77,5 +77,5 @@
   ],
   "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-10-26T05:48:23.760735+00:00"
+  "fetched_at": "2026-10-26T12:22:57.286069+00:00"
 }
