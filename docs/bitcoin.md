@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-26T18:49:10.560252+00:00'
+updated: '2026-10-26T23:02:49.216128+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 26, 2026 at 18:49 UTC  
+**Last Updated:** October 26, 2026 at 23:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -3.5%  
-**30d:** -5.1%  
-**90d:** +25.3%  
-**1y:** -29.8%  
+**24h:** -0.1%  
+**7d:** -3.7%  
+**30d:** -5.4%  
+**90d:** +24.9%  
+**1y:** -30.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1609.62B
+**Market Cap:** $1605.86B
 Rank #1
 
-**Circulating Supply:** 20,103,909 BTC
+**Circulating Supply:** 20,103,946 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.5%
+-36.6%
 
 **All-Time Low:** $67.81
-+117966.7%
++117699.7%
 
 ---
 
@@ -155,23 +155,29 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 A Bitcoin hacking challenge is daring security researchers to exploit critical PHP vulnerabilities and steal the cryptocurrency, putting claims about real-world exploitability to the test.
 
-Tom's Hardware • 8h ago
+Tom's Hardware • 12h ago
 
 ---
 
-**[Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80-000-053556739.html)**
+**[‘Guppy-Level Death’—Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets](https://www.forbes.com/sites/digital-assets/2026/10/26/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
 
-Bitcoin retreated below $80,000 on Monday as broader risk-off sentiment ahead of a Federal Reserve meeting and concerns over the artificial intelligence trade weighed on cryptocurrencies.
-
-Yahoo Finance • 13h ago
+Forbes • 12h ago
 
 ---
 
-**[Anthropic Could Be Worth More Than Bitcoin by Year-End, Polymarket Traders Say](https://finance.yahoo.com/technology/ai/articles/anthropic-could-worth-more-bitcoin-183130253.html)**
+**[What If You Had Put $1,000 Into Bitcoin, Ethereum, XRP and Solana 5 Years Ago?](https://finance.yahoo.com/markets/crypto/articles/had-put-1-000-bitcoin-213022522.html)**
 
-Just five years after its founding, Anthropic could become more valuable than all Bitcoin (CRYPTO: BTC) in circulation, with Polymarket traders giving the AI company a 77% chance of overtaking the cryptocurrency before year-end. Anthropic filed its IPO prospectus Monday,...
+Buying crypto at the peak of a massive rally sounds like a disaster waiting to happen, but the results across Bitcoin, Ethereum, XRP, and Solana over the past five years tell a far more complicated story than you might expect.
 
-Yahoo Finance • 17m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Crypto Market Today, Oct. 26: Bitcoin Slips Below $80,000 as Fed Decision Looms](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-oct-26-212502358.html)**
+
+Major cryptocurrencies weakened amid broader risk aversion as traders await the Fed decision.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,37 +185,23 @@ Yahoo Finance • 17m ago
 
 Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics.
 
-Cincinnati Enquirer • 2h ago
+Cincinnati Enquirer • 6h ago
 
 ---
 
-**[Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom](https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom)**
+**[Live news: Oil tumbles and brazil stocks plunge as markets brace for a pivotal week](https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink)**
 
-Bloomberg.com • 3d ago
+Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions.
 
----
-
-**[Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares](https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699)**
-
-Strategy did not buy or sell any bitcoin last week, instead opting to repurchase approximately 2.07 million STRC shares for $204.9 million.
-
-The Block • 5h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Will a $20 Billion Bitcoin Windfall Fuel a Massive MicroStrategy Short Squeeze Oct. 29?](https://finance.yahoo.com/markets/crypto/articles/20-billion-bitcoin-windfall-fuel-151519036.html)**
+**[Will Bitcoin Hit $100,000 Before the End of 2026?](https://www.fool.com/investing/2026/10/26/will-bitcoin-hit-100-000-before-the-end-of-2026/)**
 
-Strategy reports earnings October 29 after three brutal quarters of multibillion-dollar Bitcoin markdowns, and a massive reversal in fair value accounting could send short sellers scrambling before the week is out.
+The top cryptocurrency has been a hot buy in recent months.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy (MSTR), Strive (ASST) must balance bitcoin (BTC) purchases, preferred stock dividends](https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends)**
-
-The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.
-
-CoinDesk • 2d ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -217,15 +209,23 @@ CoinDesk • 2d ago
 
 Bathhouse once used Bitcoin-mining computers to heat its pools. As the company prepares to open at Dallas' Granada Theater, will it bring that technology along?
 
-D Magazine • 3h ago
+D Magazine • 8h ago
 
 ---
 
-**[More than half of all bitcoin can't be tied to a known owner, Galaxy found](https://qz.com/galaxy-bitcoin-supply-unattributed-owner-research-102626)**
+**[Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80-000-053556739.html)**
 
-The unattributed coins may belong to individuals in self-custody, lost wallets or institutions Galaxy has not identified
+Bitcoin retreated below $80,000 on Monday as broader risk-off sentiment ahead of a Federal Reserve meeting and concerns over the artificial intelligence trade weighed on cryptocurrencies.
 
-Quartz • 7h ago
+Yahoo Finance • 17h ago
+
+---
+
+**[Bitcoin holds near $80,000 as oil retreats and the Fed decision looms](https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms)**
+
+Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.
+
+CoinDesk • 11h ago
 
 ---
 
@@ -237,7 +237,7 @@ Quartz • 7h ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 612 • 💬 446 • 1d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 614 • 💬 449 • 2d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -245,7 +245,7 @@ A PHP security challenge. Find the hidden bitcoin key. First person to get the w
 
 A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
-⬆️ 161 • 💬 45 • 18h ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+⬆️ 163 • 💬 50 • 22h ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
 ---
 
@@ -259,13 +259,13 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 4 • 💬 0 • 1d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 4 • 💬 1 • 1d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50245177)**
 
-⬆️ 1 • 💬 0 • 3h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 1 • 💬 0 • 7h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -281,7 +281,7 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 On Sunday evening, 25 October, unauthorised parties gained access to part of our systems. The vulnerability was fixed immediately.
 
-⬆️ 2 • 💬 0 • 1h ago • [Bitonic](https://bitonic.nl/en/news/308/security-incident-at-bitonic)
+⬆️ 2 • 💬 0 • 5h ago • [Bitonic](https://bitonic.nl/en/news/308/security-incident-at-bitonic)
 
 ---
 
@@ -289,7 +289,7 @@ On Sunday evening, 25 October, unauthorised parties gained access to part of our
 
 Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.
 
-⬆️ 2 • 💬 0 • 3h ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+⬆️ 2 • 💬 0 • 7h ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 
 ---
 
@@ -297,23 +297,13 @@ Despite putting over 20 years into the technology, Micron is sticking with the t
 
 ## YouTube Videos: "bitcoin"
 
-**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
-
-Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 1K • 💬 94 • ⏱️ 13:36 • 19h ago
-
----
-
 **[Bitcoin’s $80K Moment of Truth… Will It Hold?](https://www.youtube.com/watch?v=g5mv3de7VeE)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 553 • 💬 79 • ⏱️ 36:59 • 1h ago
+👁️ 22K • 👍 622 • 💬 101 • ⏱️ 36:59 • 6h ago
 
 ---
 
@@ -323,27 +313,37 @@ CCV Risk Models & Intelligence System — Start your free trial: https://app.cry
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 247 • 💬 40 • ⏱️ 11:43 • 2h ago
+👁️ 10K • 👍 397 • 💬 51 • ⏱️ 11:43 • 7h ago
 
 ---
 
-**[Bitcoin has to HOLD THIS LEVEL — major VOLATILITY ahead!](https://www.youtube.com/watch?v=Js5HGbSv1n4)**
+**[Election Mayhem Incoming🚨Is Bitcoin Ready?](https://www.youtube.com/watch?v=053Ezo9cazU)**
 
-Bitcoin has to hold this level. I break down the demand zone, the liquidity inducement trap, my total market cap plan and the long ...
+Bitcoin slipped below 80K as Iran fears, Brazil's election and the US midterms rattle markets. We cover Strategy pausing bitcoin ...
 
-📺 100XClub
+📺 Paul Barron Network
 
-👁️ 8K • 👍 563 • 💬 67 • ⏱️ 13:41 • 8h ago
+👁️ 23K • 👍 805 • 💬 109 • ⏱️ 16:19 • 4h ago
 
 ---
 
-**[Federal Reserve Issues WARNING to Every American Holding Crypto (Before October 28)](https://www.youtube.com/watch?v=IP0IiOQ6FK4)**
+**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
 
-On October 7, the Federal Reserve released the minutes of its September meeting: "most participants assessed that another ...
+Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
 
-📺 Cole Mercer
+📺 Simply Bitcoin
 
-👁️ 7K • 👍 177 • 💬 21 • ⏱️ 24:44 • 12h ago
+👁️ 31K • 👍 1K • 💬 96 • ⏱️ 13:36 • 1d ago
+
+---
+
+**[Bitcoin Could Hit $1 Million, But There&#39;s a Catch](https://www.youtube.com/watch?v=E6H66lCD0sM)**
+
+Book a call with us so we can help you break into finance (investment banking, hedge funds, venture capital, private equity jobs ...
+
+📺 Chris Haroun
+
+👁️ 2K • 👍 44 • ⏱️ 0:40 • 6h ago
 
 ---
 
@@ -353,47 +353,47 @@ Before You Buy the Crypto Dip, WATCH THIS!! ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 2K • 💬 110 • ⏱️ 11:13 • 19h ago
+👁️ 63K • 👍 2K • 💬 99 • ⏱️ 11:13 • 23h ago
 
 ---
 
-**[$10 Trilion Global Market Bloodbath Sends Bitcoin Below $80K!](https://www.youtube.com/watch?v=logsxx7PJbE)**
+**[$3 Million Bitcoin ARMS RACE - Pentagon Admits BTC Gives US Power Over China](https://www.youtube.com/watch?v=xFvpd8HOQc8)**
 
-Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen below $80000, and fear is spreading across financial ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
 
-📺 Simply Bitcoin
+📺 Bitcoin News Alerts
 
-👁️ 46K • 👍 2K • 💬 118 • ⏱️ 21:54 • 1d ago
-
----
-
-**[BITCOIN: The Big Move Is Coming! (this week) - BTC Price Prediction Today](https://www.youtube.com/watch?v=Jkge3ROuS98)**
-
-Want a free $5040 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 8K • 👍 373 • 💬 66 • ⏱️ 15:25 • 6h ago
+👁️ 6K • 👍 248 • 💬 131 • ⏱️ 15:16 • 1d ago
 
 ---
 
-**[Bitcoin Just Confirmed A Failed Cycle](https://www.youtube.com/watch?v=_XLtRp9BcZM)**
+**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
 
-LAST CHANCE TO CLAIM 30% discount FOR LIFE on the Cycle Trading indicator here: https://www.cftrading.co.uk (use code ...
+Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
 
-📺 Camel Finance
+📺 Gareth Soloway
 
-👁️ 15K • 👍 769 • ⏱️ 15:27 • 10h ago
+👁️ 122K • 👍 4K • 💬 194 • ⏱️ 15:40 • 2d ago
 
 ---
 
-**[Do NOT Short Bitcoin Untill You Watch This! [Money Monday EP.1]](https://www.youtube.com/watch?v=b277rLC5XO0)**
+**[Will Bitcoin Survive Quantum Computing? | Jordi Visser](https://www.youtube.com/watch?v=huUoyFrZW08)**
 
-Welcome to Money Heist Mondays, Episode 1! Dylan takes the Captain's chair live at the US Open as the Chart Hackers team ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Chart Hackers
+📺 Anthony Pompliano
 
-👁️ 5K • 👍 291 • 💬 13 • ⏱️ 1:20:20 • 1h ago
+👁️ 114K • 👍 3K • 💬 208 • ⏱️ 51:29 • 2d ago
+
+---
+
+**[Bitcoin Was Supposed to Be Digital Gold. So Why Is It Falling?](https://www.youtube.com/watch?v=R6bkuuecJ_E)**
+
+On Thursday, October 22nd, tech stocks got hammered and scared money ran for cover. Bitcoin, the coin built for the day ...
+
+📺 Why X
+
+👁️ 22K • 👍 198 • 💬 62 • ⏱️ 18:42 • 1d ago
 
 ---
 

@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic IPO live updates: AI lab expects to spend at least $542B on data centers in coming years",
+      "headline": "Anthropic's IPO plans: Record losses, AI risks and growth potential outlined in the S-1",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5",
-      "pub_date": 1793040000.0,
+      "pub_date": 1793051460.0,
       "article_url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
       "description": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission."
+    },
+    {
+      "headline": "Anthropic reveals $80 billion loss, huge spending spree ahead of IPO",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmtWbG0yMEZxRVdUU19lZmdvNkZCZ0M5eEFKbE9uUVBOaFVDWGdtNkgzbzRxb1FIcE9TRi1FR2dqTl9IUTEtMnVPRjV1QmtrdTlJSk83YWdrX2JnU0h2R1ZnVDBGTERnY3ZyZ29lX21uSDlFcnY2OUpoUEt2ZFJULU9hQ1dnY1hzWTRvblVrS1ByRFZ6WDdCRUVQZU9idnkyYUdETWdGbnlldHdraFkteWdsR0JfdmRGd3c?oc=5",
+      "pub_date": 1793027772.0,
+      "article_url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-anthropic-rs-a69c46.jpg",
+      "description": "The company warned that AI could \u201cpose catastrophic or existential risks to humanity\u201d as cybersecurity fears grow."
+    },
+    {
+      "headline": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
+      "pub_date": 1793050260.0,
+      "article_url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Can Marissa Mayer, Yahoo\u2019s Former CEO, Help Fix A.I.\u2019s Gender Problem?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5KSFZOcEVLQzZ6OTNXOWJENzBVZEpaWFdtcnd0NXZlRS10VEdmcnRMODJ0Y3ZWX2ZfME1PdU41M2RrM2pwb25ZT2FpWTlvTFpQbVRHSXFFM0hsNlNlS1REQk5hdjlOSG5aeGNtSnlBQWt3MThtUFhNakt5TzRKU0E3MkZ5Zw?oc=5",
-      "pub_date": 1793036348.0,
+      "pub_date": 1793055035.0,
       "article_url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Ex-Yahoo CEO Marissa Mayer slammed for using AI to write daughter's birthday tribute",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUQ4Yi1IVzRxY2xuUURRaHVYMl96ZzAxRE4xc3RQSnk5akh6bEkzNUFPcENEM1JqVGVobXI1b0RobFg0S0tRamU3bjNJTFFOOXZoVmZpVHQ5TzlTX1B6dW5XcU1pOURuYkZ4cDY0MV84S0VNbXg1d2EwQXUtenZzbW9PVmRmTTZVYUppc3g1UVBuNDZjWFo0OUtNUGNvYnV1OFlOLS1EeFBEaFhCcXZPTE5VN0VNaUNsNHk4?oc=5",
-      "pub_date": 1793038903.0,
-      "article_url": "https://nypost.com/2026/10/26/tech/ex-yahoo-ceo-marissa-mayer-slammed-for-using-ai-to-write-daughters-birthday-tribute/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-jxmgr4k2p-1793033512609.jpg?quality=75&strip=all&1793019125&w=1200",
-      "description": "Marissa Mayer may be a tech visionary as the former CEO of Yahoo and Google\u2019s first female engineer, but there\u2019s one simple task she couldn\u2019t handle on her own."
-    },
-    {
-      "headline": "Marissa Mayer Hit for Asking AI to Name 3 Special Qualities",
-      "source": "Mediaite",
-      "source_url": "https://www.mediaite.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUkp5Yi1lSm00VVBtNjVZeDd5WjN3aHlaQ0JicDBhT04wYjg1Wk1nRklRQkxJR3dscExjQWxKVHJwOUs0SmFleXE5UzAyMW5XRVdPN25vUkVDd0lGLUl4b0dTaExZVXZ0WnQzUjQ3QnBId0JfM2NqZjRSMVU5VC03dFdTTW9uYkdYbXExcWh2VU14Qm5lVjZfYjFFUHdPazdlM1VpV3JRQ2FwcFYycEtUTmJNZnY1RTlXU0ZwT1RIYXNlYTJkN1NWeGNnaHVaQnNpamtPWHNEcEEzUzdYLU95RUdoQzZuUkRPLXQwRGZZQTNVemg5VWNZWg?oc=5",
-      "pub_date": 1793036580.0,
-      "article_url": "https://www.mediaite.com/media/tech/marissa-mayer-mocked-for-asking-her-ai-chatbot-to-help-with-impossible-task-of-naming-3-qualities-that-make-her-daughter-special/",
+      "headline": "Former Yahoo CEO Needed AI to Help Describe What Makes Her Own Daughter Special",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMS1ZQVdMdGNGdVYzdXcweVdROHl5TWtJX0lxLUhjMW51NnkyRDF5d0c4LXBtaGFDaE52cWlxSmg1LVpJNTl0NUlwaGNpdzlsdXRQTk1id2x5SEsxNzFadDdYM2sweFQ2blBfMjZhM1Rra1VCYWt6dkQwNlB0ZDlLR3ZfYzFpcUMtbURvVk1aY3V4Y21iRi1pOGI2VnF4WVNSVXRTaEdLTnVUcjJXaTh3?oc=5",
+      "pub_date": 1793051148.0,
+      "article_url": "https://gizmodo.com/former-yahoo-ceo-needed-ai-to-help-describe-what-makes-her-own-daughter-special-2000830868",
       "image": null,
       "description": null
     },
     {
-      "headline": "From Compliance to Competitive Advantage: How AI Is Transforming Cannabis Operations",
-      "source": "MJBizDaily",
-      "source_url": "https://mjbizdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1ViMkJvSDVvRGU4YTI3VmNiUVh1SWs5dHhleFoxSThYd3g3WlV4ZkljQjZDWnpJeGJscmNxdzBTZTF3MHJzclM2SjdIS1pkTVpRSFVoNGc2UTFSWVh1dS1Od2VXaWhQMG5CZ0tjUHBnVEtjcTVmdW01YzlNMW01TENSWHpnVnlrS0ZkYTdnUEVwUkpOME1vaTUxUWxWR3VDbnd0WXh3dTUwMjN4aEJmWmZnRVRJZHA0YVFpdTlXWnRBQQ?oc=5",
-      "pub_date": 1793039927.0,
-      "article_url": "https://mjbizdaily.com/sponsored/from-compliance-to-competitive-advantage-how-ai-is-transforming-cannabis-operations/618553/",
+      "headline": "Former Yahoo CEO Marissa Mayer Says She Used AI to Identify What's Special About Her Daughter",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORTgzbWEwbFNJbDEySE5KM0pTemc0dDlCU0F0TGVCcEVQQXJLdGRyQ1FIVHM2RUFBRWpWc3l4ejN4ZlNsUTZjSjRUWVdxalU3Rzh4aWFsX3JTdzBINzZhbWhSeFdjamFPOHZiS0h1MjFFZzFkclVNYVhrRFpsN1NobF9LNk12X2ZReE0wRm96WUt0Z2Jv?oc=5",
+      "pub_date": 1793035106.0,
+      "article_url": "https://futurism.com/artificial-intelligence/yahoo-ceo-marissa-mayer-motherhood-ai-startup",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/yahoo-ceo-marissa-mayer-motherhood-ai-startup.jpg?w=1200",
+      "description": "Ex-Yahoo CEO Marissa Mayer has a new AI startup, which she's using to automate the fundamental tasks of parenthood."
+    },
+    {
+      "headline": "Women's jobs show greater vulnerability to AI than men's",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51aHllOXU4UmxkcEFkWEVHRjBTRmEwTzFmX3YwZndXdzJHdi16cUJRblczd29Qd01TeExFNHFaSEsxSGpFTGdhRU5JQWFWSXlhSmVXOUtTeGhzSUNEMjQ4?oc=5",
+      "pub_date": 1793053580.0,
+      "article_url": "https://www.axios.com/2026/10/26/ai-jobs-men-women",
       "image": null,
       "description": null
     },
     {
-      "headline": "In China, the AI bubble has already burst",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
-      "pub_date": 1793031587.0,
-      "article_url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
-      "image": null,
-      "description": null
+      "headline": "Grok Says Its AI-Generated Version of \u2018The Odyssey\u2019 Is \u2018Not Historically Accurate\u2019",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSE9tQzJpUFg1WGx4RlNNd1JnMnBzaXdiY2Y4U0xTNmgwcGZhRnR2NVcyemp2YmRHTEJ3SDAxVTY5NnJYMjc5WkZ2MEJ5LW1ldzUtM0N4YVA4Z1hQTC1GTTkwTVVHRHd0MzRpVjJCdlAtZnJ5Z1d3VU5iSXZDSGxoUEJqNDh2X2ZBQkRXdjRRSE9xY3ZXajEwNXAtWHBUbzRRR1pkY3RaUlBVNWs?oc=5",
+      "pub_date": 1793054400.0,
+      "article_url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/191:100/w_1280,c_limit/MCDODYS_UV008.jpg",
+      "description": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan\u2019s mythological epic, the bot itself admitted defeat."
     },
     {
-      "headline": "The markets are starting to act seriously weird. Blame AI",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16T3BsVmIwcktFNjNLM2hQYVRGZUItX053emx0aWM3Z0U2Ukk0NEIzNWlYblRlZ185UWQ0M0xOTW9nNHkxZHUwVGxzcS1BY2tualUtOVctTFhSMFN0R09pcC10OGNNVUdYYUJsdHE3NUw?oc=5",
-      "pub_date": 1793012415.0,
-      "article_url": "https://www.cnn.com/2026/10/26/business/markets-bonds-stocks-ai",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287379335.jpg?c=16x9&q=w_800,c_fill",
-      "description": "AI\u2019s shaky balance sheets raise questions about circular financing that investors have long questioned but the industry and many traders have swept under the rug."
+      "headline": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTJaSVEwZnRJVGsxeTg2ZmFoNVdobHp6eVdoTFpBYjRjVDFkaGtzT29DdXZKXzJYNk9tWDJvQUROdDVTdUZBV0FBRG5LYlFWVjBvQzlSSlAxRXI1R1FGZ0JUYm16a3BjcTBfaDV5SUFzUnI5MkhXQUtuY3JKY19ack10bWtFQy1XT0Fia2RqYktTclR2a0hWbFNDWWRieEh1LXc?oc=5",
+      "pub_date": 1792963876.0,
+      "article_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
     },
     {
-      "headline": "Brown student maps the hidden global labor powering AI",
-      "source": "Brown University",
-      "source_url": "https://www.brown.edu",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBueGlIUUZiOG8weFZYU0UzM2o4cXNNRWFmN256cmNBeXc0a1lXaXoyd1NYZFNHLWd2U0U5dEljWkoyN2VTWXYyc05Qc2dNM2k2c3hkaktGSGJhTnVsLVRsTVhiMA?oc=5",
-      "pub_date": 1793014027.0,
-      "article_url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-      "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-10/Dataworkers.jpg?h=f6430484&itok=1eq5-wXm",
-      "description": "Cunyan Ma\u2019s interactive tool exposes the power structure that extracts low-wage labor from data workers in the Global South to make everyday AI algorithms function."
-    },
-    {
-      "headline": "Microsoft offers buyouts to 60,000 workers as it pours money into AI",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXJHaTJ5V1ZSN0VTUnlTaWg2a01sU21ybHExWjdCVDdEcU1QSUF0ZlVDRnd4NjRHOU1fdFl4SlNMc1hhQnN4ZDNiNi1JV2JJZmZ4S0N0SmdRVklSbjFQMnJqMnZjTy1WVTV4SGFZWnVDai1SaGw3RWJxbXR4NDZ6bTFtVUk4YjVvcFJIaHMwend2R1VoQ0JZeQ?oc=5",
-      "pub_date": 1793036398.0,
-      "article_url": "https://www.cbsnews.com/news/microsoft-buyouts-60000-workers-artificial-intelligence-layoffs/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/26/49c99e3d-f122-4ddc-8cb0-dadfcb1f5bef/thumbnail/1200x630/cfadae0294ce23bd22724588cac915c8/gettyimages-2300241788.jpg",
-      "description": "Roughly a quarter of Microsoft's workforce will be eligible for a \"voluntary exit offer\" as the company tries to shed workers."
-    },
-    {
-      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNklNQlZSV0JkMk95ODdwQ3Fac1ZNbHJWMUFsMjIwbFB1UndnS29RNFNNcXN6X3FGVEx4dEFYWWtnQkhwMU5SQ1NHa2ZmVDZlMmZfT0F4VHRfelNCOWFvYnBwMV9SWkVMZ1pRTTNwNTh2NzNTWXlwVdIBfkFVX3lxTE5LZTNUMTJWT0hXQ2xBU2otcjZSWUQ5YkVrY1NJSkQxZ01BNHBrMnlSOEpIQ0tuVTZmb0dJZFA4MUluS3BHeUR3cVQxS3Q5VVVXN3hpWnVZMExOUDBiUHZra2tWM3VhWVBJVXBudEVXdDRCcC1iMk9hY2ZaM0FBZw?oc=5",
-      "pub_date": 1793029930.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
-      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency."
+      "headline": "Elon Musk\u2019s Anti-Woke AI \u2018The Odyssey\u2019 Movie Ripped as \u201cSoulless Slop\u201d After Criticizing Nolan",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObG4wWHcxaWk4dGFBSWlETWlCQ0g4Y0Z4R3lnOUVpbTlwZU4yRGp5Ynh1RnZaeWJmd1MyVTJBbEg4Q1lKa0FzYkh2ejJHSGRuNWF5Ymw3SkhiWGFsRHQ3aFJtNGVOQ0lYQVdYdFdHRmhETWhzQmw4bWVRckd6VS1jUXU2eWJ0Zmp5QnZYSnFnQlQxSnFPZ1AzSHdzZ1o?oc=5",
+      "pub_date": 1793030842.0,
+      "article_url": "https://www.hollywoodreporter.com/movies/movie-news/elon-musk-ai-the-odyssey-reviews-1236740003/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/AI-Odyessyy.png?crop=0px%2C0px%2C3445px%2C1928px&resize=1440%2C810",
+      "description": "The tech titan\u2019s anti-woke, Grok-fueled take on \u2018The Odyssey\u2019 gets called \"zombie-like.\""
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T18:49:07.525521+00:00"
+  "fetched_at": "2026-10-26T23:02:47.421157+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-26T18:49:10.569733+00:00'
+updated: '2026-10-26T23:02:49.225675+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 26, 2026 at 18:49 UTC  
+**Last Updated:** October 26, 2026 at 23:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ Hey all, here's a small update on CBR-II, my DIY biped. This is the third iterat
 
 Microduck from Pollen Robotics. I had the opportunity to meet up with the team here to learn about this, and it's not only a cute little robot, it's one very impressive development tool 👏 "A tiny biped for reinforcement learning" I attended NVIDIA GTC Berlin as a guest of NVIDIA EMEA.
 
-23h ago
+1d ago
 
 ---
 
 **[Used an Octopus Pro + 6x TMC2209 to drive a 6-axis 3D-printed robot arm (not a 3D printer!)](https://www.reddit.com/r/robotics/comments/1xfbmjt/used_an_octopus_pro_6x_tmc2209_to_drive_a_6axis/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -122,33 +122,47 @@ NVIDIA Developer • 3d ago
 
 ---
 
-**[This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)**
+**[Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News](https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330)**
 
-Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.
+A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
 
-TechCrunch • 1h ago
-
----
-
-**[Toyota takes on Tesla and China in humanoid robot race](https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1)**
-
-Financial Times • 21h ago
+ABC News - Breaking News, Latest News and Videos • 1h ago
 
 ---
 
-**[Intrinsic CEO Wendy Tan White on ‘Democratizing’ Robotics](https://time.com/article/2026/10/26/intrinsic-ceo-wendy-tan-white-interview/)**
+**[BlackBerry reinvented: CEO sees big opportunities AI-powered robots](https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html)**
 
-Tan White discusses how she sees robotics helping small manufacturers, Intrinsic’s relationship with Google, and skills for the AI age.
+BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.
 
-Time Magazine • 18h ago
+CNBC • 28m ago
 
 ---
 
-**[Hairy Armor For Combat Robot? It’s Not Terrible!](https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/)**
+**[AI factory designer Foundry Robotics makes massive expansion into East Bay](https://www.bizjournals.com/sanfrancisco/news/2026/10/26/foundry-robotics-emeryville-expansion.html)**
 
-[Angus] of Maker’s Muse enjoys combat robotics, in which contenders zip about in an arena, attempting to disable one another with weapons that lift, spin, and smash. He got a funny idea a sho…
+The Business Journals • 1h ago
 
-Hackaday • 10h ago
+---
+
+**[Autonomous Construction Firm Bedrock Hits $4.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation)**
+
+Bloomberg.com • 11h ago
+
+---
+
+**[Week Begins with Robotics Prep for Spacewalk and Advanced Research](https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/)**
+
+Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station’s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday’s schedule.
+
+NASA (.gov) • 7h ago
+
+---
+
+**[Move Over, Tesla: This Robotics Stock Is the Better Buy](https://www.fool.com/investing/2026/10/26/move-over-tesla-this-robotics-stock-is-better/)**
+
+Tesla is looking to start manufacturing its Optimus robots, but this industrial giant has been helping factories automate for decades.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -160,31 +174,19 @@ Futurism • 1d ago
 
 ---
 
-**[Robots set world record with synchronised dancing](https://news.sky.com/video/robots-set-world-record-with-synchronised-dancing-13603980)**
+**[Hairy Armor For Combat Robot? It’s Not Terrible!](https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/)**
 
-Sky News • 6h ago
+[Angus] of Maker’s Muse enjoys combat robotics, in which contenders zip about in an arena, attempting to disable one another with weapons that lift, spin, and smash. He got a funny idea a sho…
 
----
-
-**[Autonomous Construction Firm Bedrock Hits $4.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation)**
-
-Bloomberg.com • 6h ago
+Hackaday • 15h ago
 
 ---
 
-**[Twenty teams compete in ninth annual Lake County robotics scrimmage](https://www.wftv.com/news/local/twenty-teams-compete-ninth-annual-lake-county-robotics-scrimmage/WHO3LLUK6BG4LADVN6WROSADIM/)**
+**[110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment](https://www.globaltimes.cn/page/202610/1372888.shtml)**
 
-Cypress Ridge Elementary and Aurelia M. Cole Academy won excellence awards at the recent Lake County Robotics Scrimmage.
+China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24.
 
-WFTV • 1h ago
-
----
-
-**[Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs](https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/)**
-
-Company says foreign-made robotic vehicles are crucial to US chip production.
-
-Ars Technica • 3d ago
+Global Times • 1d ago
 
 ---
 
@@ -198,7 +200,7 @@ Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! Fr
 
 📺 VisionX Lab
 
-👁️ 97K • 👍 2K • 💬 206 • ⏱️ 0:59 • 1d ago
+👁️ 110K • 👍 3K • 💬 225 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -208,7 +210,27 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai
 
 📺 InsideAI
 
-👁️ 1.5M • 👍 30K • 💬 3K • ⏱️ 15:05 • 1d ago
+👁️ 1.6M • 👍 32K • 💬 3K • ⏱️ 15:05 • 1d ago
+
+---
+
+**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
+
+NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
+
+📺 DPCcars
+
+👁️ 48K • 👍 250 • 💬 64 • ⏱️ 4:22 • 8h ago
+
+---
+
+**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
+
+Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
+
+📺 MACHINEKIND
+
+👁️ 17K • 👍 205 • 💬 30 • ⏱️ 13:25 • 2d ago
 
 ---
 
@@ -218,7 +240,7 @@ The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredibl
 
 📺 DPCcars
 
-👁️ 58K • 👍 527 • 💬 175 • ⏱️ 2:30 • 5d ago
+👁️ 58K • 👍 529 • 💬 161 • ⏱️ 2:30 • 5d ago
 
 ---
 
@@ -228,17 +250,7 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 2.0M • 👍 13K • 💬 2K • ⏱️ 4:06 • 4d ago
-
----
-
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
-
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
-
-📺 MACHINEKIND
-
-👁️ 124K • 👍 1K • 💬 110 • ⏱️ 13:57 • 5d ago
+👁️ 2.0M • 👍 13K • 💬 2K • ⏱️ 4:06 • 5d ago
 
 ---
 
@@ -248,17 +260,17 @@ Thank you to Quince for sponsoring this video! Elevate your wardrobe essentials 
 
 📺 Xyla Foxlin
 
-👁️ 196K • 👍 6K • 💬 431 • ⏱️ 14:36 • 2d ago
+👁️ 208K • 👍 6K • 💬 445 • ⏱️ 14:36 • 2d ago
 
 ---
 
-**[I Built an AI-Powered Automatic Lockpick Machine!](https://www.youtube.com/watch?v=o4AUKGdScNI)**
+**[DIY AI Lockpicking Robot: ESP32 + Claude AI Opens Any Lock!](https://www.youtube.com/watch?v=o4AUKGdScNI)**
 
 I built an ESP32 and AI-powered lockpicking machine capable of opening locks automatically. The entire frame and mechanics ...
 
 📺 Dr.Kun Dániel
 
-👁️ 102K • 👍 1K • 💬 163 • ⏱️ 3:28 • 2d ago
+👁️ 116K • 👍 1K • 💬 173 • ⏱️ 3:28 • 2d ago
 
 ---
 
@@ -268,7 +280,7 @@ Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his c
 
 📺 Techy or Not
 
-👁️ 18K • 👍 593 • 💬 5 • ⏱️ 1:46 • 1d ago
+👁️ 20K • 👍 636 • 💬 5 • ⏱️ 1:46 • 1d ago
 
 ---
 
@@ -279,16 +291,6 @@ Robots just learned kung fu. I ranked the best humanoid robots on the market, wi
 📺 AI BROS
 
 👁️ 21K • 👍 691 • 💬 72 • ⏱️ 2:54 • 2d ago
-
----
-
-**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
-
-Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
-
-📺 REC Anything
-
-👁️ 1.6M • 👍 10K • 💬 1K • ⏱️ 8:29 • 4d ago
 
 ---
 
