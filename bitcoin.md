@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-25T22:20:18.595268+00:00'
+updated: '2026-10-26T00:34:31.455479+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 25, 2026 at 22:20 UTC  
+**Last Updated:** October 26, 2026 at 00:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,33 +44,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -1.7%  
-**30d:** -4.6%  
-**90d:** +26.0%  
+**24h:** -0.7%  
+**7d:** -3.3%  
+**30d:** -4.9%  
+**90d:** +25.5%  
 **1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1616.21B
+**Market Cap:** $1611.99B
 Rank #1
 
 **Circulating Supply:** 20,103,409 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.2%
+-36.4%
 
 **All-Time Low:** $67.81
-+118463.6%
++118162.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 54
+### 50
 **NEUTRAL**
 
 ---
@@ -163,11 +163,11 @@ Forbes • 1d ago
 
 ---
 
-**[Mike Alfred Says He Would Bet $1 Million Bitcoin Reaches $100,000 Before $60,000](https://finance.yahoo.com/markets/crypto/articles/mike-alfred-says-bet-1-213000700.html)**
+**[Bitcoin and Gold Hit a Historic First in 2026. The Two “Safe Havens” Are Now the Worst Assets](https://finance.yahoo.com/markets/crypto/articles/bitcoin-gold-hit-historic-first-234000060.html)**
 
-Investor Mike Alfred said he is willing to bet up to $1 million in cash that bitcoin (CRYPTO: $BTC) will reach $100...
+Bitcoin and gold rank as the worst major assets of 2026, a first in Charlie Bilello's data. See why oil and the Fed hurt both.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -179,17 +179,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin steadies near $80,400 after weekend selloff, Fed decision looms](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035)**
+**[Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-today-btc-recovers-052418630.html)**
 
-Investing.com • 7h ago
+Investing.com -- Bitcoin was up around $80,400 on Sunday, as it steadied after a sharp weekend selloff and investors assessed heavy cryptocurrency liquidations ahead of the Federal Reserve’s upcoming interest rate decision.
+
+Yahoo Finance • 19h ago
 
 ---
 
-**[Can Bitcoin Double in Value During the Next Crypto Bull Market?](https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/)**
+**[Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows](https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613)**
 
-Bitcoin's future growth rate could look very different from its historical growth rate.
+Investing.com • 1d ago
 
-The Motley Fool • 15m ago
+---
+
+**[Current price of Bitcoin for October 23, 2026](https://fortune.com/article/price-of-bitcoin-10-23-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2d ago
 
 ---
 
@@ -197,31 +205,23 @@ The Motley Fool • 15m ago
 
 Bitcoin ETFs finished the week with $301 million in net inflows, ending a two-week losing streak, despite two straight days of outflows.
 
-Decrypt • 8h ago
+Decrypt • 10h ago
 
 ---
 
-**[Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks](https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/)**
+**[Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike](https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million)**
 
-Veteran Wall Street investor Jordi Visser dismissed Chamath Palihapitiya’s warning that Bitcoin (BTC) will go to zero as “completely just a joke,” predicting that the sell-off in AI stocks could bottom within the next two weeks.Speaking on Anthony Pompliano’s podcast on Saturday, Visser pushed back…
+Investors this week were buying bitcoin ETFs but that all changed on Thursday.
 
-TradingView • 6h ago
-
----
-
-**[Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries](https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations)**
-
-Bitcoin has sunk to its weakest level in more than one month.
-
-CoinDesk • 1d ago
+Bitcoin Magazine • 2d ago
 
 ---
 
-**[Bitcoin Slips Below $80K As Peter Schiff Warns Of ‘Very Long Weekend’ For BTC Investors — Mike McGlone Says ‘Don’t Fight The Fed’](https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-below-80k-peter-095919461.html)**
+**[Can Bitcoin Double in Value During the Next Crypto Bull Market?](https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/)**
 
-McGlone said IBIT trades at about three times the volatility of TLT and pointed to a possible "Bitcoin $10,000 Reversion Path."
+Bitcoin's future growth rate could look very different from its historical growth rate.
 
-Yahoo Finance • 12h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -233,7 +233,7 @@ Yahoo Finance • 12h ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 578 • 💬 398 • 1d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 584 • 💬 434 • 1d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -247,7 +247,15 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 3 • 💬 0 • 5h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 3 • 💬 0 • 7h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+
+---
+
+**[Steal My Bitcoin CTF PoC](https://news.ycombinator.com/item?id=50237379)**
+
+A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
+
+⬆️ 1 • 💬 0 • 19m ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
 ---
 
@@ -259,53 +267,47 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 ---
 
-**[OpenAI trims valuation target to $1.25T after pitching higher price](https://news.ycombinator.com/item?id=50209513)**
-
-⬆️ 7 • 💬 0 • 2d ago • [ft.com](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[AI Is Breaking Into Everything! Could It Send Bitcoin to Zero?!](https://www.youtube.com/watch?v=gwKZjLdVjWw)**
+**[Bitcoin: Bears Regaining Control](https://www.youtube.com/watch?v=bWdXPK3Hlok)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 12K • 👍 977 • 💬 87 • ⏱️ 32:21 • 2h ago
+
+---
+
+**[Crypto Holders: Bitcoin’s Next Move Could TRAP Everyone!!](https://www.youtube.com/watch?v=hlRUHUW6bXM)**
+
+Before You Buy the Crypto Dip, WATCH THIS!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 3K • 👍 337 • 💬 26 • ⏱️ 11:13 • 55m ago
+
+---
+
+**[AI Is Breaking The Internet! | Could It Send Bitcoin to Zero?](https://www.youtube.com/watch?v=gwKZjLdVjWw)**
 
 A wave of reported AI-driven cyberattacks has Bitcoiners questioning the security of banks, internet infrastructure, and the entire ...
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 733 • 💬 86 • ⏱️ 51:18 • 7h ago
+👁️ 17K • 👍 826 • 💬 98 • ⏱️ 51:18 • 9h ago
 
 ---
 
-**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
+**[(HERE IT COMES) This Has Happened 19 Out Of 19 Times. Crypto Holders Get Ready For 2027.](https://www.youtube.com/watch?v=wCQnv_T7hDw)**
 
-Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
+CCV Risk Models & Intelligence System - Start your free trial: https://app.cryptocapitalventure.ai/ Crypto in 2027 could be setting ...
 
-📺 Gareth Soloway
+📺 Crypto Capital Venture
 
-👁️ 104K • 👍 3K • 💬 188 • ⏱️ 15:40 • 1d ago
-
----
-
-**[Crypto Investors Are In Serious Trouble (market crash)](https://www.youtube.com/watch?v=H5xwP4rA1nM)**
-
-Crypto holders really need to hear this.. Altcoin Daily Merch: https://altcoindailyshop.myshopify.com Unlock $500 Deposit ...
-
-📺 Altcoin Daily
-
-👁️ 59K • 👍 2K • 💬 225 • ⏱️ 9:22 • 1d ago
-
----
-
-**[$10 Trilion Global Market Bloodbath Sends Bitcoin Below $80K!](https://www.youtube.com/watch?v=logsxx7PJbE)**
-
-Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen below $80000, and fear is spreading across financial ...
-
-📺 Simply Bitcoin
-
-👁️ 40K • 👍 2K • 💬 113 • ⏱️ 21:54 • 23h ago
+👁️ 15K • 👍 538 • 💬 90 • ⏱️ 11:33 • 6h ago
 
 ---
 
@@ -315,27 +317,17 @@ On Thursday, October 22nd, tech stocks got hammered and scared money ran for cov
 
 📺 Why X
 
-👁️ 13K • 👍 117 • 💬 50 • ⏱️ 18:42 • 10h ago
+👁️ 14K • 👍 123 • 💬 50 • ⏱️ 18:42 • 12h ago
 
 ---
 
-**[What Is Happening To CRYPTO?! I Warned You....Here’s What Happens NEXT](https://www.youtube.com/watch?v=wFFt0cPvdrI)**
+**[$10 Trilion Global Market Bloodbath Sends Bitcoin Below $80K!](https://www.youtube.com/watch?v=logsxx7PJbE)**
 
-CCV Risk Models & Intelligence System — Start your free trial:https://app.cryptocapitalventure.ai Bitcoin is below $80K, and in this ...
+Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen below $80000, and fear is spreading across financial ...
 
-📺 Crypto Capital Venture
+📺 Simply Bitcoin
 
-👁️ 25K • 👍 730 • 💬 124 • ⏱️ 15:13 • 1d ago
-
----
-
-**[I Tested One of the Most Efficient Bitcoin Home Miners](https://www.youtube.com/watch?v=10_iwU06cNM)**
-
-This tiny Bitcoin miner packs some seriously impressive hardware, but is it actually as efficient as advertised? I've been testing the ...
-
-📺 Your Friend Andy
-
-👁️ 13K • 👍 300 • 💬 180 • ⏱️ 17:08 • 2d ago
+👁️ 42K • 👍 2K • 💬 113 • ⏱️ 21:54 • 1d ago
 
 ---
 
@@ -345,7 +337,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 150K • 👍 4K • 💬 221 • ⏱️ 19:51 • 1d ago
+👁️ 153K • 👍 4K • 💬 221 • ⏱️ 19:51 • 1d ago
+
+---
+
+**[BITCOIN: IT’s A TRAP!!!!!!!! [urgent]](https://www.youtube.com/watch?v=whywCBJv26M)**
+
+Bitcoin trap.
+
+📺 MMCrypto
+
+👁️ 71K • 👍 2K • 💬 396 • ⏱️ 4:18 • 1d ago
 
 ---
 
@@ -355,17 +357,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 97K • 👍 3K • 💬 90 • ⏱️ 51:29 • 1d ago
+👁️ 99K • 👍 3K • 💬 90 • ⏱️ 51:29 • 1d ago
 
 ---
 
-**[I Can&#39;t Stay Silent about this Crypto Crash Any Longer!](https://www.youtube.com/watch?v=Ihq9QTkRYM4)**
+**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
 
-Bitcoin & Crypto are CRASHING!? (Here Is My Plan) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
 
-📺 Altcoin Daily
+📺 Gareth Soloway
 
-👁️ 66K • 👍 2K • 💬 129 • ⏱️ 11:08 • 1d ago
+👁️ 107K • 👍 3K • 💬 188 • ⏱️ 15:40 • 1d ago
 
 ---
 
