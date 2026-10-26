@@ -112,5 +112,5 @@
       "description": "Dshackle is a load balancer that sits between your app and your blockchain upstreams (your own Geth, Infura, QuickNode, any mix of them). It tracks each upstream's block height, sync state and supported methods, and routes each request to one that is healthy and caught up. - JSON-RPC over HTTP and WebSocket - Automatic failover and retry - Tracking upstream status - Height-aware method routing - Chain-aware caching (in-memory or Redis) v0.18 is a rewrite from Kotlin/JVM to Rust. There are no new features. Config, API and behaviour are the same. Memory use is down ~75% and latency is 10\u201320% lower. https://github.com/emeraldpay/dshackle"
     }
   ],
-  "fetched_at": "2026-10-25T22:20:03.916108+00:00"
+  "fetched_at": "2026-10-26T00:34:02.437608+00:00"
 }
