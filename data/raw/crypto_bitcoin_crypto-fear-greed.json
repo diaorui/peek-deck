@@ -1,13 +1,8 @@
 {
-  "current_value": 54,
+  "current_value": 50,
   "current_classification": "Neutral",
-  "current_timestamp": 1792886400,
+  "current_timestamp": 1792972800,
   "historical": [
-    {
-      "value": 37,
-      "timestamp": 1761350400,
-      "classification": "Fear"
-    },
     {
       "value": 40,
       "timestamp": 1761436800,
@@ -1832,7 +1827,12 @@
       "value": 54,
       "timestamp": 1792886400,
       "classification": "Neutral"
+    },
+    {
+      "value": 50,
+      "timestamp": 1792972800,
+      "classification": "Neutral"
     }
   ],
-  "fetched_at": "2026-10-25T17:26:23.945429+00:00"
+  "fetched_at": "2026-10-26T00:33:55.425071+00:00"
 }

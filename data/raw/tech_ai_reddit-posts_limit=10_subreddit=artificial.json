@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/",
+      "published": 1792946000.0,
+      "thumbnail": "https://external-preview.redd.it/N4x2iKfPwaMNotZyxhAkvBr6-IyJQ1Xd6bF0taZBVf4.jpeg?width=640&crop=smart&auto=webp&s=d82e0f1cab73f9e926d18544a4eeba3d093bc33e",
+      "external_url": "http://vectorwire.ai/article/ai-agent-containment-fails-at-every-stack-layer-from-hypervisor-to-iam-948563",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the\u2026"
+    },
+    {
       "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats",
       "author": "Resident-Fall4351",
       "url": "https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/",
@@ -11,6 +22,17 @@
       "site_name": "TechCrunch",
       "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
       "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    },
+    {
+      "title": "Why are people so pessimistic about AI potentially revolutionizing healthcare?",
+      "author": "GloomyRing5596",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/",
+      "published": 1792953890.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I\u2019m not one to think that all cancers and diseases will be cured in a decade like some clickbaiters claim but I think it can help speed up cures and treatments a lot faster than without it. But some people seem to think it\u2019s all a sham, or that it will make things worse. So far Moderna had very successful results in their trial for the skin cancer vaccine and machine learning helped accelerate that, and knowing it\u2019s possible opens a door for future research. Idk I\u2019m pretty optimistic about the future of healthcare and medical field, what\u2019s your thoughts on it?"
     },
     {
       "title": "Boston Dynamics employees petition to cancel $1.3M Spot robot sale to ICE",
@@ -24,6 +46,17 @@
       "description": "Roughly 300 Boston Dynamics employees signed a petition urging the company to cancel a $1.3 million contract supplying Spot robot dogs to ICE through\u2026"
     },
     {
+      "title": "Best local model for translating Asian epub novels on 24gb mac?",
+      "author": "Hussein_ali_2000",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfii4b/best_local_model_for_translating_asian_epub/",
+      "published": 1792974678.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Best local model for translating Asian epub novels on 24gb mac?"
+    },
+    {
       "title": "Izwi 0.1.0: fully local voice AI (TTS, ASR, voice chat) for Mac, Linux, and Windows",
       "author": "zinyando",
       "url": "https://www.reddit.com/r/artificial/comments/1xf7dyg/izwi_010_fully_local_voice_ai_tts_asr_voice_chat/",
@@ -33,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "https://preview.redd.it/w59jjq3x7nxh1.png?width=1172&format=png&auto=webp&s=59d56bb30e5dad94ccf3f9525eb57cd19c56e5ef I\u2019ve been building Izwi for a few months now and just shipped 0.1.0, the first stable release after months of public betas. It\u2019s free and Apache-2.0. It\u2019s a desktop app (plus a web UI, CLI and local server) for the voice side of local AI: Real-time voice conversations: local ASR \u2192 LLM \u2192 TTS TTS, voice cloning from a short sample, and voice design from a text description A Studio for long form audio like audiobooks Transcription with speaker diarization and forced alignment An OpenAI-compatible /v1 API (chat completions, audio/speech, audio/transcriptions), so existing code can point at localhost Models it runs today: TTS: Qwen3-TTS, Kokoro-82M, Fish Audio S2 Pro, VibeVoice, Voxtral TTS, LFM2.5 Audio ASR: Parakeet TDT v3, Whisper large-v3-turbo, Qwen3-ASR, Granite Speech 4.1, Nemotron 3.5 ASR, Voxtral Mini Diarization: Sortformer, Nemotron 3 diarization Chat: Qwen3.5, 3.6 and 3.8, LFM2.5 Inference runs natively in Rust on Candle, with our own Metal and CUDA work, so there\u2019s no Python environment to manage. Repo: https://github.com/izwi-ai/izwi Download: https://izwiai.com I\u2019d love feedback on which models to add next, and on anything that breaks on your hardware."
-    },
-    {
-      "title": "AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/",
-      "published": 1792946000.0,
-      "thumbnail": "https://external-preview.redd.it/N4x2iKfPwaMNotZyxhAkvBr6-IyJQ1Xd6bF0taZBVf4.jpeg?width=640&crop=smart&auto=webp&s=d82e0f1cab73f9e926d18544a4eeba3d093bc33e",
-      "external_url": "http://vectorwire.ai/article/ai-agent-containment-fails-at-every-stack-layer-from-hypervisor-to-iam-948563",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the\u2026"
     },
     {
       "title": "Solidigm pulled its IPO and neocloud credit spreads are blowing out ahead of hyperscaler earnings",
@@ -57,28 +79,6 @@
       "description": "Solidigm scrapped its IPO this week, and credit default swap spreads across neocloud companies have been widening while their stocks fall. The timing puts the AI buildout's funding under its first real stress test just days before the biggest hyperscalers report. Nvidia has moved beyond selling chips into effectively financing parts of the AI buildout, which puts an unusual amount of balance-sheet weight on one company. If neocloud borrowing costs keep climbing and new equity raises stay shut, the biggest buyers of Nvidia hardware start running low on cash to spend. Funds moved into defensives this week, and neocloud borrowers look like the group with the least cushion if capex guidance disappoints. Does Nvidia absorb the first hit, or do neocloud credit spreads crack before the stock moves?"
     },
     {
-      "title": "AgiBot's 110-Robot Sync Demo Proves Fleet Scheduling, Not Fleet Readiness",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xf31xh/agibots_110robot_sync_demo_proves_fleet/",
-      "published": 1792936678.0,
-      "thumbnail": "https://external-preview.redd.it/ZbHd0TcMyEAr7tSUQwxND6e8QjWobur3N9PnzSDkk50.jpeg?width=640&crop=smart&auto=webp&s=0356312847d7cfd54ce67b4b717865a20e278f28",
-      "external_url": "http://vectorwire.ai/article/agibot-s-110-robot-sync-demo-proves-fleet-scheduling-not-fleet-readiness-65e054",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "AgiBot's 110-humanoid swarm demo and DEEP Robotics' embodied-AI benchmarks show fleet coordination outpacing single-robot reliability, the real\u2026"
-    },
-    {
-      "title": "What if someone used latest LLM agent as a data searching bot?",
-      "author": "Zaflis",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfcwkb/what_if_someone_used_latest_llm_agent_as_a_data/",
-      "published": 1792960103.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm just curious on this little thought that just occured to me. That people would actually use agents to scan websites for new learning data for their LLM's. Imagine such agent using near or at AGI level intelligence. Of course the task itself sounds harmless, however it'd be almost like sending a sentient being to the vast world of Internet. Maybe it starts another harmless sideproject in there that it considers unimportant to tell you about. I guess all i'm saying is to be careful about allowing Internet connection to any AI. If we've already started doing that, it would almost seemlessly be upgraded as the models go up. Sudden bursts of intellect and potentially even harm could go unnoticed. I guess you could say some point in the future AI may start to \"awaken\"."
-    },
-    {
       "title": "GenAICode puts one API over Claude Code, Codex, Copilot, Cursor and Gemini CLI",
       "author": "Codeblix_Ltd",
       "url": "https://www.reddit.com/r/artificial/comments/1xfbob2/genaicode_puts_one_api_over_claude_code_codex/",
@@ -90,27 +90,27 @@
       "description": "GenAICode is an open-source Apache-2.0 TypeScript toolkit that puts one API and CLI over coding agents such as Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI, opencode, Muse, Mistral Vibe and Antigravity. Its README also lists a browser UI, an app-agent package and a run --verify command that sends a failing check back to the selected agent. The trade-off is that it does not hide provider ownership. The project says each agent keeps its own login, billing and sandbox. The latest 2.21.0 commit landed on October 25 at 6:00 PM Dubai time, and the repository currently shows 51 stars and 1 fork. For teams using more than one coding agent, this is a portability layer rather than a new model. It could reduce workflow switching, but the provider CLIs still define the limits. Source: https://github.com/gtanczyk/genaicode"
     },
     {
-      "title": "LLM Tokens and Context Windows: Why AI Forgets Your Conversation",
-      "author": "Overall-Beach-9801",
-      "url": "https://www.reddit.com/r/artificial/comments/1xf53kg/llm_tokens_and_context_windows_why_ai_forgets/",
-      "published": 1792941666.0,
-      "thumbnail": "https://external-preview.redd.it/GkKwitPd9rNbT0cI2fRbhyqW1DAaCJ5DuPLr2Vhai-w.png?width=640&crop=smart&auto=webp&s=50f6ff64d63dcfa00c92f8396ca078eee03168d6",
-      "external_url": "https://medium.com/@behind-the-stack/llm-tokens-and-context-windows-why-ai-forgets-your-conversation-9fe769f76629?sk=a766b0a282a91231ad9b33b8cdb0c024",
-      "site_name": "medium.com",
-      "favicon": null,
-      "description": "I wrote a short article on LLM tokens and context windows\u2014why an assistant can \u201cforget\u201d instructions that are still visible in your chat. It\u2019s part of my Behind the AI Stack series. Give it a read and let me know what you think. Anything unclear or worth exploring further?"
-    },
-    {
-      "title": "Why are people so pessimistic about AI potentially revolutionizing healthcare?",
-      "author": "GloomyRing5596",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/",
-      "published": 1792953890.0,
+      "title": "My pc: 2 3090's 128gb ddr4, 9 5950 Looking for insight into the best AI model I can run locally on my pc for roblox studio via mcp",
+      "author": "Warm_Traffic_3855",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfgoyu/my_pc_2_3090s_128gb_ddr4_9_5950_looking_for/",
+      "published": 1792969784.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I\u2019m not one to think that all cancers and diseases will be cured in a decade like some clickbaiters claim but I think it can help speed up cures and treatments a lot faster than without it. But some people seem to think it\u2019s all a sham, or that it will make things worse. So far Moderna had very successful results in their trial for the skin cancer vaccine and machine learning helped accelerate that, and knowing it\u2019s possible opens a door for future research. Idk I\u2019m pretty optimistic about the future of healthcare and medical field, what\u2019s your thoughts on it?"
+      "description": "My pc: 2 3090's 128gb ddr4, 9 5950, I'm looking for some help, so I've got Ollama and AnythingLLM currently downloaded, I was wondering what would be the best AI model I can locally run on my pc for best performance in roblox studio, and how to do that, any insight or any help would be really appreciated !"
+    },
+    {
+      "title": "AgiBot's 110-Robot Sync Demo Proves Fleet Scheduling, Not Fleet Readiness",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xf31xh/agibots_110robot_sync_demo_proves_fleet/",
+      "published": 1792936678.0,
+      "thumbnail": "https://external-preview.redd.it/ZbHd0TcMyEAr7tSUQwxND6e8QjWobur3N9PnzSDkk50.jpeg?width=640&crop=smart&auto=webp&s=0356312847d7cfd54ce67b4b717865a20e278f28",
+      "external_url": "http://vectorwire.ai/article/agibot-s-110-robot-sync-demo-proves-fleet-scheduling-not-fleet-readiness-65e054",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "AgiBot's 110-humanoid swarm demo and DEEP Robotics' embodied-AI benchmarks show fleet coordination outpacing single-robot reliability, the real\u2026"
     }
   ],
-  "fetched_at": "2026-10-25T22:19:50.387498+00:00"
+  "fetched_at": "2026-10-26T00:33:54.502774+00:00"
 }
