@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Toyota takes on Tesla and China in humanoid robot race",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
-      "pub_date": 1792962006.0,
-      "article_url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
       "source": "Global Times",
       "source_url": "https://www.globaltimes.cn",
@@ -23,6 +13,16 @@
       "article_url": "https://www.globaltimes.cn/page/202610/1372888.shtml",
       "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/769f8f28-90cd-4fde-b250-759abf8efb3a.jpeg",
       "description": "China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24."
+    },
+    {
+      "headline": "Toyota takes on Tesla and China in humanoid robot race",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
+      "pub_date": 1792962006.0,
+      "article_url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Agile ONE SN Humanoid Robot Bundles Nvidia\u2019s Robotics Stack",
@@ -35,6 +35,16 @@
       "description": "Nvidia and Agile Robots unveiled Agile ONE SN, a compact humanoid with AI training tools. Explore its features, specifications, and planned 2027 release."
     },
     {
+      "headline": "'The beginning of The Matrix': Unitree is developing an AI system that will let humanoid robots self-improve \u2014 and Tesla should be worried",
+      "source": "Yahoo Tech",
+      "source_url": "https://tech.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3ozVWJnQjFWeFBmbDdGaDZIMWluaDF0b0s3Sm1iRnNvdlJwWkx5V1RIcGxhcTVhMHI3enhTS1FJVGJ6Mmd0ZWU0czNrR3h1NjgtRDE5ZHV0Z2plOFl3VXFCUDRtNHdCZVV6azhNc3JjczJuNVczU1NhUy13SHdfejdqNnBray0xYlZTUGhUQ2QxX2NTMEIwN3Bubm4?oc=5",
+      "pub_date": 1792839600.0,
+      "article_url": "https://tech.yahoo.com/ai/meta-ai/articles/beginning-matrix-unitree-developing-ai-110000127.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b373acf55cf9f4a63d6cae5d6494a0f1d0ddf4bd5c4322ee60da6051bdd84330/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2F0e64d12048d6a513fdeb4a6ff8981a56.jpg",
+      "description": "We've got robotics updates from Unitree, Tesla, and Figure, as the companies announce their latest progress."
+    },
+    {
       "headline": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -43,6 +53,26 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Figure AI's Robot Endures 13-Day Walk, 200-Hour Sorting Test",
+      "source": "\uc870\uc120\uc77c\ubcf4",
+      "source_url": "https://www.chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWpWLUw4QXVJWDN4NExIWm00cjhsTGQzMXFhYkJ1dWg5WEVJakJQcVE1a2pMZVFESDRwSG05VmVlR0NhTXVJVEY2aktTNERDLXF0eUt1bTBDeG1ZaG10YkU5S0dpUFdKWHJTZ29GalFTOU5pNXlwNGpMeE1DTE54dlZSUTdfR1Yx?oc=5",
+      "pub_date": 1792992754.0,
+      "article_url": "https://www.chosun.com/english/industry-en/2026/10/26/PWEXG3OIKVAM7N2O7YP6O6T5II/",
+      "image": "https://www.chosun.com/resizer/v2/FWJFQRTSJNCFDI3MTW2UK5TBWE.gif?auth=f9994d724c7df7fef5fc1cd8494267b81dcc53047b911e18c8c1f4ba606ba715&width=480&height=252&smart=true",
+      "description": "Figure AIs Robot Endures 13-Day Walk, 200-Hour Sorting Test Extreme tests identify faults, prove reliability for factories and logistics customers"
+    },
+    {
+      "headline": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZklWdGNtbFB2Z2RnTURKVFdvS0tjb2c1VHV4bWVQb3AtNmR1dDFGUWNiXzJkeWhMaHNwYlpfTEpVajl5NlZSYTJ1M01pdThNdnd5dzZPY0VaSkdzOEp0UTlyZE5aSHFoSDRTU3k0UFBpaTh1Q2kwRUliQzI2Y0poeXV0MTg3YWx5aFFXaWFqTzRYTTFwQU1zeWRPRTFqMFgzbUVvc1ZSUUQ0U2RnQUF5eXZYb1JXd2M?oc=5",
+      "pub_date": 1792775911.0,
+      "article_url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
+      "description": "Company says foreign-made robotic vehicles are crucial to US chip production."
     },
     {
       "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
@@ -55,6 +85,16 @@
       "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
+      "headline": "Finger-controlled robo beetle sports artificial muscles & two-way feedback",
+      "source": "New Atlas",
+      "source_url": "https://newatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBub3N5TVJtQ3FtVnFHQlVTcTRybTBoTjY2alZDV3o3MTI4N1k1bTBXekhtaFpCekxjblo2TjRMRU1SVU1icXAzaFY1c28yVWNFSEo2Wmw0N21TaUZ4R042Qzl1NmFlQQ?oc=5",
+      "pub_date": 1792919480.0,
+      "article_url": "https://newatlas.com/robotics/beetlebot-robotic-beetle/",
+      "image": "https://assets.newatlas.com/dims4/default/d8bee45/2147483647/strip/true/crop/2484x1304+0+176/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fec%2Fb1%2Fbb235e3247b0bc75532eed511057%2Ffigure2.jpeg&na.image_optimisation=0",
+      "description": "Insects have long been a source of inspiration for robotics engineers. They are small, agile, and can squeeze into spaces where people can\u2019t. Such robots are very useful for space exploration, inspecting industrial equipment, and even carrying out search-and-rescue operations. For certain purposes,\u2026"
+    },
+    {
       "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -63,48 +103,8 @@
       "article_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
       "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-    },
-    {
-      "headline": "FCC grants Intel waiver to use existing foreign-made robotic devices",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
-      "pub_date": 1792748850.0,
-      "article_url": "https://www.reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Are Delivery Robots Scanning You Into a Database Scarier Than Flock?",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PaTVqVkFBeHhCQzBCOVNoemhjbkM1d1g0eFFKMm9aMk16a05yQ2M5RjV3blQyNlNWQlFnTzJ0dzJhYVdtbGlWWjY1YndNNVNEbDIyQUdnQ2M5Z1QwZVRtdkNvOXkwZnFSdkU4M3NXWERtRjZCWnRSSE1lQQ?oc=5",
-      "pub_date": 1792940220.0,
-      "article_url": "https://futurism.com/robots-and-machines/delivery-robots-database-flock",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/delivery-robots-database-flock.jpg?quality=85&w=2048",
-      "description": "A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent."
-    },
-    {
-      "headline": "Subaquatic robot leverages biomimetics for natural movement",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SWGEzVXNqVUhoQlV3VjlHYUFlNnAtNTlDbkZIRE9TeWUwWXd0MmdWcDNadVJBV1JMLVlnRHMwODluajNpTnhJdjJaVGJnMjlwTGlQRk9BelJ2cGNPRFF6RGZPUzFteU5xOVMzZw?oc=5",
-      "pub_date": 1792894393.0,
-      "article_url": "https://newatlas.com/robotics/feather-star-underwater-robot/",
-      "image": "https://assets.newatlas.com/dims4/default/4535412/2147483647/strip/true/crop/1448x760+0+102/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F68%2F19%2F2008336948509ad112e43375b98a%2Ffeather-star-in-turquoise-waters.jpeg&na.image_optimisation=0",
-      "description": "Exploring the underwater world requires robots that can move as naturally as fish and, ideally, blend in as much as possible. That\u2019s exactly what a research group at North Carolina State University has been working on."
-    },
-    {
-      "headline": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelB5RGp4MWRYbXM5d3ctdS1MTkJQaUktaVZmZW50UC03N0Yxb0lfUXNwNjJ0SFljanVhbTR3NFFGOFBxWjNaNmNPWHBwVmZFUXBvcjBLbkpaQXg2ZklkTmhUcWVLekJzY3kybkZjU2thQjFJYzAxMDd6bjhxNWZ0bjFHSlpYeXFPRlhFcEpTcDNLOFY5d0xNMEJDQQ?oc=5",
-      "pub_date": 1792845971.0,
-      "article_url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/ekarobotics-featured.jpg",
-      "description": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T00:34:19.225618+00:00"
+  "fetched_at": "2026-10-26T05:48:45.955996+00:00"
 }
