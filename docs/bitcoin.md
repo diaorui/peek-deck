@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-26T05:48:57.852474+00:00'
+updated: '2026-10-26T12:23:35.766493+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 26, 2026 at 05:48 UTC  
+**Last Updated:** October 26, 2026 at 12:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,192.77
+### $80,355.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -3.4%  
+**24h:** -0.1%  
+**7d:** -3.3%  
 **30d:** -5.0%  
-**90d:** +25.4%  
-**1y:** -29.8%  
+**90d:** +25.5%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1611.01B
+**Market Cap:** $1612.33B
 Rank #1
 
 **Circulating Supply:** 20,103,596 BTC
@@ -64,7 +64,7 @@ Rank #1
 -36.4%
 
 **All-Time Low:** $67.81
-+118077.3%
++118168.7%
 
 ---
 
@@ -109,7 +109,7 @@ sheeesh lol
 
 **[Which one of you is it?](https://www.reddit.com/r/Bitcoin/comments/1xdcilp/which_one_of_you_is_it/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -117,7 +117,7 @@ sheeesh lol
 
 Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin. Same watts, double duty. The Avalon Mini 3 is a perfect space heater. ✌🏻
 
-2d ago
+3d ago
 
 ---
 
@@ -153,75 +153,75 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 **[Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom](https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom)**
 
-Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin ‘Goes to Zero’ After a Hack, Chamath Palihapitiya Predicts](https://finance.yahoo.com/markets/crypto/articles/bitcoin-goes-zero-hack-chamath-205007801.html)**
-
-Billionaire investor Chamath Palihapitiya says Bitcoin has a ceiling on its value and believes a future hack could eventually send it to zero. Why Palihapitiya Thinks Bitcoin Is Capped Palihapitiya told the Moonshots podcast that traditional crypto lacks the fungibility...
-
-Yahoo Finance • 2d ago
+Bloomberg.com • 3d ago
 
 ---
 
 **[Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/10/24/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
 
-Forbes • 1d ago
+Forbes • 2d ago
 
 ---
 
-**[Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks](https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/)**
+**[Bitcoin holds near $80,000 as oil retreats and the Fed decision looms](https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms)**
 
-Veteran Wall Street investor Jordi Visser dismissed Chamath Palihapitiya’s warning that Bitcoin (BTC) will go to zero as “completely just a joke,” predicting that the sell-off in AI stocks could bottom within the next two weeks.Speaking on Anthony Pompliano’s podcast on Saturday, Visser pushed back…
+Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.
 
-TradingView • 14h ago
-
----
-
-**[Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments](https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments)**
-
-Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.
-
-CoinDesk • 33m ago
+CoinDesk • 59m ago
 
 ---
 
-**[Bitcoin Falls Below $80,000: Is Benjamin Cowen's Bearish Q4 Roadmap Playing Out?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-80-000-032051576.html)**
+**[Franklin Templeton’s New ETFs Could Make Millions of Investors Own Bitcoin Without Realizing It](https://finance.yahoo.com/markets/crypto/articles/franklin-templeton-etfs-could-millions-114215159.html)**
 
-Bitcoin price dips under $80,000 as Benjamin Cowen checks off 2 of 9 bearish steps. See what the Fed and PCE could change.
+Franklin Templeton’s proposed FBEQ and FIBT ETFs combine US stocks with Bitcoin exposure funded by reinvested dividends. Their indexes started with 95% in equities and…
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 41m ago
+
+---
+
+**[A $68 million BTC price bet is targeting a surge to $90,000 after U.S. mid-term vote: Crypto Daily](https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000)**
+
+The day ahead in crypto: Oct. 26, 2026
+
+CoinDesk • 30m ago
+
+---
+
+**[Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty — PHP2Shell challenge tested claims that AI makes exploiting vulnerabilities easy](https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy)**
+
+A Bitcoin hacking challenge is daring security researchers to exploit critical PHP vulnerabilities and steal the cryptocurrency, putting claims about real-world exploitability to the test.
+
+Tom's Hardware • 1h ago
+
+---
+
+**[More than half of all bitcoin can't be tied to a known owner, Galaxy found](https://qz.com/galaxy-bitcoin-supply-unattributed-owner-research-102626)**
+
+The unattributed coins may belong to individuals in self-custody, lost wallets or institutions Galaxy has not identified
+
+Quartz • 1h ago
+
+---
+
+**[Can Bitcoin Double in Value During the Next Crypto Bull Market?](https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/)**
+
+Bitcoin's future growth rate could look very different from its historical growth rate.
+
+The Motley Fool • 13h ago
+
+---
+
+**[Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80-000-053556739.html)**
+
+Bitcoin retreated below $80,000 on Monday as broader risk-off sentiment ahead of a Federal Reserve meeting and concerns over the artificial intelligence trade weighed on cryptocurrencies.
+
+Yahoo Finance • 6h ago
 
 ---
 
 **[Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens](https://www.bloomberg.com/news/articles/2026-10-26/bitcoin-dips-below-80-000-as-ai-related-market-selloff-deepens)**
 
-Bloomberg.com • 13m ago
-
----
-
-**[Despite exit, Vivek Ramaswamy maintains influence at investment firm](https://www.cincinnati.com/story/news/politics/2026/10/26/vivek-ramaswamy-firm-strive-inc-influence-controlled-company-investor/92274576007/)**
-
-Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics.
-
-Cincinnati Enquirer • 1h ago
-
----
-
-**[Muneeb Ali says Bitcoin has about two years to start its post-quantum upgrade](https://www.tradingview.com/news/cryptobriefing:3c89cb97c094b:0-muneeb-ali-says-bitcoin-has-about-two-years-to-start-its-post-quantum-upgrade/)**
-
-Bitcoin has a deadline problem, and Muneeb Ali wants everyone to start counting.Speaking at Token2049 Singapore on October 8, 2026, the Stacks co-founder said Bitcoin has roughly two years to upgrade, then about two more years to move coins before quantum computing risks intensify.Ali's keynote spl…
-
-TradingView • 10h ago
-
----
-
-**[Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide](https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide)**
-
-Bitcoin ETFs finished the week with $301 million in net inflows, ending a two-week losing streak, despite two straight days of outflows.
-
-Decrypt • 15h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -233,7 +233,7 @@ Decrypt • 15h ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 597 • 💬 439 • 1d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 609 • 💬 442 • 1d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -241,7 +241,7 @@ A PHP security challenge. Find the hidden bitcoin key. First person to get the w
 
 A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
-⬆️ 60 • 💬 9 • 5h ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+⬆️ 133 • 💬 34 • 12h ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
 ---
 
@@ -249,13 +249,13 @@ A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
 Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?
 
-⬆️ 8 • 💬 3 • 4d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
+⬆️ 8 • 💬 3 • 5d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
 
 ---
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 3 • 💬 0 • 12h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 4 • 💬 0 • 19h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -271,23 +271,23 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 ## YouTube Videos: "bitcoin"
 
-**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
-
-Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 848 • 💬 68 • ⏱️ 13:36 • 6h ago
-
----
-
 **[Crypto Holders: Bitcoin’s Next Move Could TRAP Everyone!!](https://www.youtube.com/watch?v=hlRUHUW6bXM)**
 
 Before You Buy the Crypto Dip, WATCH THIS!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus ...
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 70 • ⏱️ 11:13 • 6h ago
+👁️ 47K • 👍 2K • 💬 90 • ⏱️ 11:13 • 12h ago
+
+---
+
+**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
+
+Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 1K • 💬 79 • ⏱️ 13:36 • 13h ago
 
 ---
 
@@ -297,7 +297,37 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 192 • 💬 59 • ⏱️ 15:16 • 7h ago
+👁️ 5K • 👍 224 • 💬 110 • ⏱️ 15:16 • 14h ago
+
+---
+
+**[Cathie Wood :&quot;Something Is VERY Wrong With Bitcoin &amp; Nobody Is Talking About it&quot;](https://www.youtube.com/watch?v=Ys-xmBEMU48)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 127 • 💬 21 • ⏱️ 22:28 • 8h ago
+
+---
+
+**[BITCOIN: EMERGENCY STREAM!!!! BLOODBATH!!](https://www.youtube.com/watch?v=PNmIG7gYTzY)**
+
+BULLMANIA INNER CIRCLE: https://bullmania.com/ Newsletter: https://bullmania.com/subscribe Bullmania Arena: ...
+
+📺 Ivan on Tech
+
+👁️ 11K • 👍 864 • 💬 41 • ⏱️ 49:19 • 2h ago
+
+---
+
+**[BTC Short Squeeze, AI, USA Debt, and Altcoin Updates](https://www.youtube.com/watch?v=ZRwB05OlrGw)**
+
+Bottom sellers, Bitcoin squeeze, Ai agents, debt, and more BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 121 • 1h ago
 
 ---
 
@@ -307,65 +337,37 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 55K • 👍 2K • 💬 167 • ⏱️ 32:21 • 7h ago
+👁️ 96K • 👍 3K • 💬 208 • ⏱️ 32:21 • 13h ago
 
 ---
 
-**[BITCOIN: NEW WEEK ANALYSIS!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=mC6fDI6qLf4)**
+**[Crypto Investors Are In Serious Trouble (market crash)](https://www.youtube.com/watch?v=H5xwP4rA1nM)**
 
-Free Trading Course https://rt1m.com/free 15% Cashback on Trading Fees: https://partner.blofin.com/d/RT1M Get Up To A ...
+Crypto holders really need to hear this.. Altcoin Daily Merch: https://altcoindailyshop.myshopify.com Unlock $500 Deposit ...
 
-📺 Road To $1 Million USD
+📺 Altcoin Daily
 
-👁️ 8K • 👍 316 • 💬 39 • ⏱️ 5:51 • 9h ago
-
----
-
-**[AI Is Breaking The Internet! Could It Send Bitcoin to Zero?](https://www.youtube.com/watch?v=gwKZjLdVjWw)**
-
-A wave of reported AI-driven cyberattacks has Bitcoiners questioning the security of banks, internet infrastructure, and the entire ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 927 • 💬 109 • ⏱️ 51:18 • 14h ago
+👁️ 64K • 👍 3K • 💬 236 • ⏱️ 9:22 • 1d ago
 
 ---
 
-**[INSANE BITCOIN AND STOCK BLOODBATH EXPECTED TOMORROW?! #xrp #stockmarket  #bitcoin #finance](https://www.youtube.com/watch?v=C1FTYAjTioI)**
+**[Bitcoin Was Supposed to Be Digital Gold. So Why Is It Falling?](https://www.youtube.com/watch?v=R6bkuuecJ_E)**
 
-📺 CryptoWendyO
+On Thursday, October 22nd, tech stocks got hammered and scared money ran for cover. Bitcoin, the coin built for the day ...
 
-👁️ 2K • 👍 150 • 💬 7 • ⏱️ 1:58 • 4h ago
+📺 Why X
 
----
-
-**[CRYPTO IS DOOMED?! WHAT DOES THE FUTURE LOOK LIKE? (AI BITCOIN CYBER ATTACKS ALTCOIN SEASON)](https://www.youtube.com/watch?v=wybSUImKO7s)**
-
-CRYPTO IS DOOMED?! WHAT DOES THE FUTURE LOOK LIKE? (AI BITCOIN CYBER ATTACKS ALTCOIN SEASON) CRYPTO ...
-
-📺 CryptoWendyO
-
-👁️ 6K • 👍 302 • 💬 11 • ⏱️ 7:05 • 12h ago
+👁️ 19K • 👍 172 • 💬 57 • ⏱️ 18:42 • 1d ago
 
 ---
 
-**[Spending USD, Or Bitcoin Instead?](https://www.youtube.com/watch?v=sAfpURsWnCk)**
+**[Bitcoin Just Confirmed A Failed Cycle](https://www.youtube.com/watch?v=_XLtRp9BcZM)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why it's important to earn and spend ...
+LAST CHANCE TO CLAIM 30% discount FOR LIFE on the Cycle Trading indicator here: https://www.cftrading.co.uk (use code ...
 
-📺 Bitcoin University
+📺 Camel Finance
 
-👁️ 5K • 👍 304 • 💬 84 • ⏱️ 5:19 • 15h ago
-
----
-
-**[This Altcoin Might Become The No.1 Coin Passing Bitcoin The Crypto Market Might 7x In 12 Months](https://www.youtube.com/watch?v=GuijLmuweDc)**
-
-Expectations and price predictions are sky high right now in the cryptocurrency market. I wonder just how many people outside of ...
-
-📺 The Modern Investor
-
-👁️ 15K • 👍 865 • 💬 229 • ⏱️ 28:50 • 1d ago
+👁️ 5K • 👍 466 • ⏱️ 15:27 • 3h ago
 
 ---
 

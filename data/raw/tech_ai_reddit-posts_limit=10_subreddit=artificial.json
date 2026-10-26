@@ -2,15 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/",
-      "published": 1792946000.0,
-      "thumbnail": "https://external-preview.redd.it/N4x2iKfPwaMNotZyxhAkvBr6-IyJQ1Xd6bF0taZBVf4.jpeg?width=640&crop=smart&auto=webp&s=d82e0f1cab73f9e926d18544a4eeba3d093bc33e",
-      "external_url": "http://vectorwire.ai/article/ai-agent-containment-fails-at-every-stack-layer-from-hypervisor-to-iam-948563",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the\u2026"
+      "title": "Elvis rights holders sue Anthropic over 274 compositions",
+      "author": "andrewaltair",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfreib/elvis_rights_holders_sue_anthropic_over_274/",
+      "published": 1793004431.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Rights holders for 274 musical compositions recorded by Elvis Presley filed a federal complaint against Anthropic on October 23, 2026. The complaint identifies ABG EPE IP LLC and other companies, trusts and individuals as plaintiffs in case 5:26-cv-12473. The plaintiffs allege that Anthropic copied lyrics without a license, kept them in a permanent internal repository and used them in Claude model training. They also allege that Claude generated derivative or infringing outputs after guardrails were added. The complaint seeks up to $150,000 per work, or $41.1 million for 274 works, plus separate statutory amounts under two other claims. The allegations have not been tested in court. Source: https://chatgptiseatingtheworld.com/wp-content/uploads/2026/10/ABG_EPE_IP_LLC_et_al-v-Anthropic-Oct-23-2026.pdf"
     },
     {
       "title": "Unitree H2-X loses a leg mid-flip at Hangzhou conference",
@@ -24,15 +24,37 @@
       "description": "Unitree's H2-X humanoid robot fell and lost a lower leg during a kung fu side-flip demo at the 2026 World Physical AI Conference in Hangzhou on October 24."
     },
     {
-      "title": "My six-month bet: more hybrid AI deployments, not a wholesale move to local models",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1xflmv7/my_sixmonth_bet_more_hybrid_ai_deployments_not_a/",
-      "published": 1792983751.0,
+      "title": "AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/",
+      "published": 1792946000.0,
+      "thumbnail": "https://external-preview.redd.it/N4x2iKfPwaMNotZyxhAkvBr6-IyJQ1Xd6bF0taZBVf4.jpeg?width=640&crop=smart&auto=webp&s=d82e0f1cab73f9e926d18544a4eeba3d093bc33e",
+      "external_url": "http://vectorwire.ai/article/ai-agent-containment-fails-at-every-stack-layer-from-hypervisor-to-iam-948563",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the\u2026"
+    },
+    {
+      "title": "I gave six free AI apps the same 10 UK questions, three tries each. Claude got all 30 right, Grok only answered 12.",
+      "author": "BazingaBen",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfuznk/i_gave_six_free_ai_apps_the_same_10_uk_questions/",
+      "published": 1793016483.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I expect more applications to use open-weight or self-hosted models over the next six months. But I doubt \u201ceverything moves local\u201d is the likely outcome. Self-hosting has an obvious appeal when an application handles a large, predictable volume of routine work. You can control the deployment and reduce dependence on one API provider. The catch is that model weights being available doesn\u2019t make operations free. Someone still pays for hardware, idle capacity, deployment, monitoring, and maintenance. For a small team with uneven traffic, an API could remain cheaper overall. The setup I\u2019d bet on is mixed: a smaller model handles extraction, classification, and straightforward requests; a frontier API handles difficult cases. The split changes as models, prices, and workload volumes change. The useful comparison is total cost per accepted result. A cheap model that needs three retries and a manual correction may lose to an expensive model that gets the task right immediately. For anyone running both: what actually triggered self-hosting for you, and what work did you keep on a paid API?"
+      "description": "Every month, and after big model launches, I put the same 10 checkable UK questions to ChatGPT, Claude, Copilot, Gemini, Grok and Perplexity, all on free plans, three tries each in fresh chats, and mark every answer against the official source. Run 2 (11 Oct): Claude 30/30 Copilot 29/30 Gemini 28/30 Perplexity 25/30 ChatGPT 23/30 Grok 6/30. 18 tries came back as Grok\u2019s own error message, twice each in fresh chats, so it only answered 12 and got half of those right. 18 of the 21 wrong came from just two questions: adding up the hours of a night shift that crosses the UK October clock change (11 of 18 tries wrong) - this one really caught them out a Highway Code question with a wrong idea built into it, about footwear (7 of 18 wrong, and every one of those went along with the wrong idea instead of correcting it) The same two caught them out in run 1 as well. The questions with an official page behind them nearly all came back right. It\u2019s the ones that look easy, a bit of date maths or a question with a mistake already in it, that seem to catch them out the most. The questions: three are public, with every app\u2019s answer: Do I need ETIAS for Paris?, Which planet has the most moons? and Your own e-scooter: road or pavement?. The other seven stay sealed for now, so the apps can\u2019t learn the answers by caching my website. Caveats: ten questions on one day is a snapshot, not a ranking. The marking is done by AI, and because Claude is one of the apps, a second model from another lab re-marks every Claude answer and a sample of the rest. Every answer is published if you want to check the marking. Full results and every answer: https://dixon.ai/state-of-ai-reliability/"
+    },
+    {
+      "title": "Malicious AGENTS.md file in Downloads folder hijacks AI coding agents",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfscde/malicious_agentsmd_file_in_downloads_folder/",
+      "published": 1793007909.0,
+      "thumbnail": "https://external-preview.redd.it/omC4BWvEyB3P1_thcBok9szE1sEwC8MoSjoO_bq2_Ro.jpeg?width=640&crop=smart&auto=webp&s=23cdb555d97d6c3dda6fc8cde635e2810c0d1718",
+      "external_url": "http://vectorwire.ai/article/malicious-agents-md-file-in-downloads-folder-hijacks-ai-coding-agents-b52cfd",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Forever Security found a malicious AGENTS.md file in a developer's Downloads folder that tricked an AI coding agent into installing malware, reproducing\u2026"
     },
     {
       "title": "ChatGPT Lawsuit: OpenAI Accused of Using Kids\u2019 Data",
@@ -46,15 +68,26 @@
       "description": "A proposed class action says OpenAI let minors sign up for ChatGPT without real parental consent and used their chats to train AI. No class is certified."
     },
     {
-      "title": "Any coding agent vendors actually using DeepInfer or deepseek-recipe yet?",
-      "author": "pingzawa162",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfn2ur/any_coding_agent_vendors_actually_using_deepinfer/",
-      "published": 1792988303.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "title": "We Built Software Security for Humans. AI Agents May Force Us to Rethink Everything",
+      "author": "Frequent-Football984",
+      "url": "https://www.reddit.com/r/artificial/comments/1xftdj2/we_built_software_security_for_humans_ai_agents/",
+      "published": 1793011444.0,
+      "thumbnail": "https://external-preview.redd.it/j-XLHutDTG1PSkMHpHhiR-_LMPLvfydIqqTq8RT8DMM.jpeg?width=640&crop=smart&auto=webp&s=7f425ad6781c2fddbff0369b1bd2be0b56fb78cf",
+      "external_url": "https://abz.global/technology/marian-sorca-software-security-v2-ai-agents",
+      "site_name": "abz.global",
       "favicon": null,
-      "description": "I\u2019m not an infra person, so I might be missing something. I just want a coding agent running DeepSeek V4.1 Flash 1017 that\u2019s cheap and behaves like the official API, not a slightly worse imitation. Saw DeepSeek open-sourced DeepInfer and deepseek-recipe. My understanding: DeepInfer is the inference engine, deepseek-recipe keeps self-hosted output aligned with the official API. Has any coding agent vendor adopted either publicly? Or is this still DIY with Blackwell? I don\u2019t want to rent GPUs and debug CUDA. If no vendor has picked it up, just tell me to use the official API and wait."
+      "description": null
+    },
+    {
+      "title": "XPeng clears Guangzhou L4 robotaxi trials, gates access via invite codes",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfrv7a/xpeng_clears_guangzhou_l4_robotaxi_trials_gates/",
+      "published": 1793006133.0,
+      "thumbnail": "https://external-preview.redd.it/0ViRYofeJ0RYc-TCPcEVavALJyZv94IJrvIzuG8AfQg.jpeg?width=640&crop=smart&auto=webp&s=1cdd5799eb802b6babc6647868c5a13e3ad24514",
+      "external_url": "http://vectorwire.ai/article/xpeng-clears-guangzhou-l4-robotaxi-trials-gates-access-via-invite-codes-14d7ed",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "XPeng secured Guangzhou-wide Level 4 robotaxi trial approval for its YOYO service, while Volkswagen's China unit obtained Level 3 autonomous driving\u2026"
     },
     {
       "title": "Has anyone used an agent payment yet?",
@@ -68,49 +101,16 @@
       "description": "I imagined agent payments would be like: comparing prices, narrowing down the options, then hand it over and I just tap confirm. And suprisingly the whole process involves automatic payment. I've seen it on the market like muse, google, stirpe, anvita flow sits on x402, they seem to set up agent accounts with per-transaction and daily spending limits for safety. Cool. But what happens when a payment gets stuck halfway? Does it retry or charge me twice? Also, I've already set a spending limit, do I still need to approve every transaction? It seems like I still doing the real work. Has anyone actually tried this yet?"
     },
     {
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/",
-      "published": 1792909619.0,
-      "thumbnail": "https://external-preview.redd.it/sBwGrjvWg3-IcnR8Vi5wbfJsP2d9f1OoIuSn1ttxZd0.jpeg?width=640&crop=smart&auto=webp&s=28d60e8effd777e0337993a95ce2515b467002ea",
-      "external_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "site_name": "TechCrunch",
-      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
-      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-    },
-    {
-      "title": "Why are people so pessimistic about AI potentially revolutionizing healthcare?",
-      "author": "GloomyRing5596",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/",
-      "published": 1792953890.0,
+      "title": "My six-month bet: more hybrid AI deployments, not a wholesale move to local models",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1xflmv7/my_sixmonth_bet_more_hybrid_ai_deployments_not_a/",
+      "published": 1792983751.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I\u2019m not one to think that all cancers and diseases will be cured in a decade like some clickbaiters claim but I think it can help speed up cures and treatments a lot faster than without it. But some people seem to think it\u2019s all a sham, or that it will make things worse. So far Moderna had very successful results in their trial for the skin cancer vaccine and machine learning helped accelerate that, and knowing it\u2019s possible opens a door for future research. Idk I\u2019m pretty optimistic about the future of healthcare and medical field, what\u2019s your thoughts on it?"
-    },
-    {
-      "title": "The AI Access Problem Most European Businesses Have Not Checked For",
-      "author": "Some-Technology4413",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfjqk2/the_ai_access_problem_most_european_businesses/",
-      "published": 1792978131.0,
-      "thumbnail": "https://external-preview.redd.it/5Ju5JoxR62MzTMDYvwx49P6TZ-CLTMavmmEzroRmtzc.jpeg?width=640&crop=smart&auto=webp&s=cce61213fbe9e5d97284302a0a51108771e6fa02",
-      "external_url": "https://eu.entrepreneur.com/technology/the-ai-access-problem-most-european-businesses-have-not-checked-for",
-      "site_name": "Entrepreneur Europe",
-      "favicon": "https://eu.entrepreneur.com/wp-content/uploads/sites/9/2025/03/cropped-Ent_Logo_Circle_Black_300.png?w=180",
-      "description": "It is one thing to know that people inside your company are using AI. It is another to know what those AI tools can see once they are connected to the rest of the business."
-    },
-    {
-      "title": "Claude code to codex and back again, same conversation.",
-      "author": "Input-X",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfnnt8/claude_code_to_codex_and_back_again_same/",
-      "published": 1792990313.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Curious how do you work with claude code and codex. Was working on this idea I had today. What if claude code while working could switch to codex and visversa. I actually built it out today, its pretty good. So basically when claude code switched to codex, it switches to codex cli. It works like auto compact, best i can describe. The command is triggered by me, claude or codex, can also trigger in flight, it doesn't stop the agent. The agent just continues with the handover. Its interesting to see it work. Lot of wiring and inventing to try get codex to run exactly like claude does in my setup. Id say u can get 90% there, codex is just missing some pieces. Has anybody done something like this. I have it working pretty good, but if anyone else did it ill love to see where they landed."
+      "description": "I expect more applications to use open-weight or self-hosted models over the next six months. But I doubt \u201ceverything moves local\u201d is the likely outcome. Self-hosting has an obvious appeal when an application handles a large, predictable volume of routine work. You can control the deployment and reduce dependence on one API provider. The catch is that model weights being available doesn\u2019t make operations free. Someone still pays for hardware, idle capacity, deployment, monitoring, and maintenance. For a small team with uneven traffic, an API could remain cheaper overall. The setup I\u2019d bet on is mixed: a smaller model handles extraction, classification, and straightforward requests; a frontier API handles difficult cases. The split changes as models, prices, and workload volumes change. The useful comparison is total cost per accepted result. A cheap model that needs three retries and a manual correction may lose to an expensive model that gets the task right immediately. For anyone running both: what actually triggered self-hosting for you, and what work did you keep on a paid API?"
     }
   ],
-  "fetched_at": "2026-10-26T05:48:26.339644+00:00"
+  "fetched_at": "2026-10-26T12:23:02.092068+00:00"
 }
