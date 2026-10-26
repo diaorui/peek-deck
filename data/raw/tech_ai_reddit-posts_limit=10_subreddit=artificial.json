@@ -13,6 +13,61 @@
       "description": "OpenAI's air-gapped training is necessary but insufficient: containment is failing from hypervisor escapes to overprivileged IAM roles faster than the\u2026"
     },
     {
+      "title": "Unitree H2-X loses a leg mid-flip at Hangzhou conference",
+      "author": "VectorWireAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfjrm1/unitree_h2x_loses_a_leg_midflip_at_hangzhou/",
+      "published": 1792978216.0,
+      "thumbnail": "https://external-preview.redd.it/fFImLDK5u3ITUvBam4Zm6hvKRXNdRAlfZIAK4JduqZE.jpeg?width=640&crop=smart&auto=webp&s=72523ca085bfbe19804fb30c0307b594fd24ffc0",
+      "external_url": "http://vectorwire.ai/article/unitree-h2-x-loses-a-leg-mid-flip-at-hangzhou-conference-a5622c",
+      "site_name": "Vector Wire",
+      "favicon": "http://vectorwire.ai/apple-icon.png",
+      "description": "Unitree's H2-X humanoid robot fell and lost a lower leg during a kung fu side-flip demo at the 2026 World Physical AI Conference in Hangzhou on October 24."
+    },
+    {
+      "title": "My six-month bet: more hybrid AI deployments, not a wholesale move to local models",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1xflmv7/my_sixmonth_bet_more_hybrid_ai_deployments_not_a/",
+      "published": 1792983751.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I expect more applications to use open-weight or self-hosted models over the next six months. But I doubt \u201ceverything moves local\u201d is the likely outcome. Self-hosting has an obvious appeal when an application handles a large, predictable volume of routine work. You can control the deployment and reduce dependence on one API provider. The catch is that model weights being available doesn\u2019t make operations free. Someone still pays for hardware, idle capacity, deployment, monitoring, and maintenance. For a small team with uneven traffic, an API could remain cheaper overall. The setup I\u2019d bet on is mixed: a smaller model handles extraction, classification, and straightforward requests; a frontier API handles difficult cases. The split changes as models, prices, and workload volumes change. The useful comparison is total cost per accepted result. A cheap model that needs three retries and a manual correction may lose to an expensive model that gets the task right immediately. For anyone running both: what actually triggered self-hosting for you, and what work did you keep on a paid API?"
+    },
+    {
+      "title": "ChatGPT Lawsuit: OpenAI Accused of Using Kids\u2019 Data",
+      "author": "openclassactions2",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfoac1/chatgpt_lawsuit_openai_accused_of_using_kids_data/",
+      "published": 1792992522.0,
+      "thumbnail": "https://external-preview.redd.it/wTzx8DP0m-czeoUiOJat6SuaUkV4U-1URhSSdrHmO84.jpeg?width=640&crop=smart&auto=webp&s=899d197b36b39886fff1c236386a445cf7c376e7",
+      "external_url": "https://openclassaction.com/lawsuits/privacy/openai-chatgpt-minors-data-training-class-action-lawsuit.php",
+      "site_name": "Open Class Actions",
+      "favicon": "https://openclassaction.com/apple-touch-icon.png",
+      "description": "A proposed class action says OpenAI let minors sign up for ChatGPT without real parental consent and used their chats to train AI. No class is certified."
+    },
+    {
+      "title": "Any coding agent vendors actually using DeepInfer or deepseek-recipe yet?",
+      "author": "pingzawa162",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfn2ur/any_coding_agent_vendors_actually_using_deepinfer/",
+      "published": 1792988303.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m not an infra person, so I might be missing something. I just want a coding agent running DeepSeek V4.1 Flash 1017 that\u2019s cheap and behaves like the official API, not a slightly worse imitation. Saw DeepSeek open-sourced DeepInfer and deepseek-recipe. My understanding: DeepInfer is the inference engine, deepseek-recipe keeps self-hosted output aligned with the official API. Has any coding agent vendor adopted either publicly? Or is this still DIY with Blackwell? I don\u2019t want to rent GPUs and debug CUDA. If no vendor has picked it up, just tell me to use the official API and wait."
+    },
+    {
+      "title": "Has anyone used an agent payment yet?",
+      "author": "SpreadUsual4084",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfmr02/has_anyone_used_an_agent_payment_yet/",
+      "published": 1792987260.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I imagined agent payments would be like: comparing prices, narrowing down the options, then hand it over and I just tap confirm. And suprisingly the whole process involves automatic payment. I've seen it on the market like muse, google, stirpe, anvita flow sits on x402, they seem to set up agent accounts with per-transaction and daily spending limits for safety. Cool. But what happens when a payment gets stuck halfway? Does it retry or charge me twice? Also, I've already set a spending limit, do I still need to approve every transaction? It seems like I still doing the real work. Has anyone actually tried this yet?"
+    },
+    {
       "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats",
       "author": "Resident-Fall4351",
       "url": "https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/",
@@ -35,82 +90,27 @@
       "description": "So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I\u2019m not one to think that all cancers and diseases will be cured in a decade like some clickbaiters claim but I think it can help speed up cures and treatments a lot faster than without it. But some people seem to think it\u2019s all a sham, or that it will make things worse. So far Moderna had very successful results in their trial for the skin cancer vaccine and machine learning helped accelerate that, and knowing it\u2019s possible opens a door for future research. Idk I\u2019m pretty optimistic about the future of healthcare and medical field, what\u2019s your thoughts on it?"
     },
     {
-      "title": "Boston Dynamics employees petition to cancel $1.3M Spot robot sale to ICE",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xe5pqg/boston_dynamics_employees_petition_to_cancel_13m/",
-      "published": 1792839553.0,
-      "thumbnail": "https://external-preview.redd.it/qga9pTH5BatBvXZR4OOZpwPxI67x7D60b9KiKqEYXkY.jpeg?width=640&crop=smart&auto=webp&s=e7243419a8482fc924ab12dcbda3d33b1ad73ef2",
-      "external_url": "http://vectorwire.ai/article/boston-dynamics-employees-petition-to-cancel-1-3m-spot-robot-sale-to-ice-6ae86e",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "Roughly 300 Boston Dynamics employees signed a petition urging the company to cancel a $1.3 million contract supplying Spot robot dogs to ICE through\u2026"
+      "title": "The AI Access Problem Most European Businesses Have Not Checked For",
+      "author": "Some-Technology4413",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfjqk2/the_ai_access_problem_most_european_businesses/",
+      "published": 1792978131.0,
+      "thumbnail": "https://external-preview.redd.it/5Ju5JoxR62MzTMDYvwx49P6TZ-CLTMavmmEzroRmtzc.jpeg?width=640&crop=smart&auto=webp&s=cce61213fbe9e5d97284302a0a51108771e6fa02",
+      "external_url": "https://eu.entrepreneur.com/technology/the-ai-access-problem-most-european-businesses-have-not-checked-for",
+      "site_name": "Entrepreneur Europe",
+      "favicon": "https://eu.entrepreneur.com/wp-content/uploads/sites/9/2025/03/cropped-Ent_Logo_Circle_Black_300.png?w=180",
+      "description": "It is one thing to know that people inside your company are using AI. It is another to know what those AI tools can see once they are connected to the rest of the business."
     },
     {
-      "title": "Best local model for translating Asian epub novels on 24gb mac?",
-      "author": "Hussein_ali_2000",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfii4b/best_local_model_for_translating_asian_epub/",
-      "published": 1792974678.0,
+      "title": "Claude code to codex and back again, same conversation.",
+      "author": "Input-X",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfnnt8/claude_code_to_codex_and_back_again_same/",
+      "published": 1792990313.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Best local model for translating Asian epub novels on 24gb mac?"
-    },
-    {
-      "title": "Izwi 0.1.0: fully local voice AI (TTS, ASR, voice chat) for Mac, Linux, and Windows",
-      "author": "zinyando",
-      "url": "https://www.reddit.com/r/artificial/comments/1xf7dyg/izwi_010_fully_local_voice_ai_tts_asr_voice_chat/",
-      "published": 1792947058.0,
-      "thumbnail": "https://preview.redd.it/w59jjq3x7nxh1.png?width=140&height=95&auto=webp&s=724ad0091b868e4e3bdd87450c9312001b28dadd",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://preview.redd.it/w59jjq3x7nxh1.png?width=1172&format=png&auto=webp&s=59d56bb30e5dad94ccf3f9525eb57cd19c56e5ef I\u2019ve been building Izwi for a few months now and just shipped 0.1.0, the first stable release after months of public betas. It\u2019s free and Apache-2.0. It\u2019s a desktop app (plus a web UI, CLI and local server) for the voice side of local AI: Real-time voice conversations: local ASR \u2192 LLM \u2192 TTS TTS, voice cloning from a short sample, and voice design from a text description A Studio for long form audio like audiobooks Transcription with speaker diarization and forced alignment An OpenAI-compatible /v1 API (chat completions, audio/speech, audio/transcriptions), so existing code can point at localhost Models it runs today: TTS: Qwen3-TTS, Kokoro-82M, Fish Audio S2 Pro, VibeVoice, Voxtral TTS, LFM2.5 Audio ASR: Parakeet TDT v3, Whisper large-v3-turbo, Qwen3-ASR, Granite Speech 4.1, Nemotron 3.5 ASR, Voxtral Mini Diarization: Sortformer, Nemotron 3 diarization Chat: Qwen3.5, 3.6 and 3.8, LFM2.5 Inference runs natively in Rust on Candle, with our own Metal and CUDA work, so there\u2019s no Python environment to manage. Repo: https://github.com/izwi-ai/izwi Download: https://izwiai.com I\u2019d love feedback on which models to add next, and on anything that breaks on your hardware."
-    },
-    {
-      "title": "Solidigm pulled its IPO and neocloud credit spreads are blowing out ahead of hyperscaler earnings",
-      "author": "perspicacity_ai",
-      "url": "https://www.reddit.com/r/artificial/comments/1xf68po/solidigm_pulled_its_ipo_and_neocloud_credit/",
-      "published": 1792944388.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Solidigm scrapped its IPO this week, and credit default swap spreads across neocloud companies have been widening while their stocks fall. The timing puts the AI buildout's funding under its first real stress test just days before the biggest hyperscalers report. Nvidia has moved beyond selling chips into effectively financing parts of the AI buildout, which puts an unusual amount of balance-sheet weight on one company. If neocloud borrowing costs keep climbing and new equity raises stay shut, the biggest buyers of Nvidia hardware start running low on cash to spend. Funds moved into defensives this week, and neocloud borrowers look like the group with the least cushion if capex guidance disappoints. Does Nvidia absorb the first hit, or do neocloud credit spreads crack before the stock moves?"
-    },
-    {
-      "title": "GenAICode puts one API over Claude Code, Codex, Copilot, Cursor and Gemini CLI",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfbob2/genaicode_puts_one_api_over_claude_code_codex/",
-      "published": 1792957218.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "GenAICode is an open-source Apache-2.0 TypeScript toolkit that puts one API and CLI over coding agents such as Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI, opencode, Muse, Mistral Vibe and Antigravity. Its README also lists a browser UI, an app-agent package and a run --verify command that sends a failing check back to the selected agent. The trade-off is that it does not hide provider ownership. The project says each agent keeps its own login, billing and sandbox. The latest 2.21.0 commit landed on October 25 at 6:00 PM Dubai time, and the repository currently shows 51 stars and 1 fork. For teams using more than one coding agent, this is a portability layer rather than a new model. It could reduce workflow switching, but the provider CLIs still define the limits. Source: https://github.com/gtanczyk/genaicode"
-    },
-    {
-      "title": "My pc: 2 3090's 128gb ddr4, 9 5950 Looking for insight into the best AI model I can run locally on my pc for roblox studio via mcp",
-      "author": "Warm_Traffic_3855",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfgoyu/my_pc_2_3090s_128gb_ddr4_9_5950_looking_for/",
-      "published": 1792969784.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "My pc: 2 3090's 128gb ddr4, 9 5950, I'm looking for some help, so I've got Ollama and AnythingLLM currently downloaded, I was wondering what would be the best AI model I can locally run on my pc for best performance in roblox studio, and how to do that, any insight or any help would be really appreciated !"
-    },
-    {
-      "title": "AgiBot's 110-Robot Sync Demo Proves Fleet Scheduling, Not Fleet Readiness",
-      "author": "VectorWireAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xf31xh/agibots_110robot_sync_demo_proves_fleet/",
-      "published": 1792936678.0,
-      "thumbnail": "https://external-preview.redd.it/ZbHd0TcMyEAr7tSUQwxND6e8QjWobur3N9PnzSDkk50.jpeg?width=640&crop=smart&auto=webp&s=0356312847d7cfd54ce67b4b717865a20e278f28",
-      "external_url": "http://vectorwire.ai/article/agibot-s-110-robot-sync-demo-proves-fleet-scheduling-not-fleet-readiness-65e054",
-      "site_name": "Vector Wire",
-      "favicon": "http://vectorwire.ai/apple-icon.png",
-      "description": "AgiBot's 110-humanoid swarm demo and DEEP Robotics' embodied-AI benchmarks show fleet coordination outpacing single-robot reliability, the real\u2026"
+      "description": "Curious how do you work with claude code and codex. Was working on this idea I had today. What if claude code while working could switch to codex and visversa. I actually built it out today, its pretty good. So basically when claude code switched to codex, it switches to codex cli. It works like auto compact, best i can describe. The command is triggered by me, claude or codex, can also trigger in flight, it doesn't stop the agent. The agent just continues with the handover. Its interesting to see it work. Lot of wiring and inventing to try get codex to run exactly like claude does in my setup. Id say u can get 90% there, codex is just missing some pieces. Has anybody done something like this. I have it working pretty good, but if anyone else did it ill love to see where they landed."
     }
   ],
-  "fetched_at": "2026-10-26T00:33:54.502774+00:00"
+  "fetched_at": "2026-10-26T05:48:26.339644+00:00"
 }
