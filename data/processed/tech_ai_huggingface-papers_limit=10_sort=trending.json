@@ -149,7 +149,7 @@
       "num_comments": 1,
       "published_at": "2026-10-03T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/Prism",
-      "github_stars": 1233,
+      "github_stars": 1268,
       "project_page": "https://francis-rings.github.io/Prism/"
     },
     {
@@ -164,11 +164,11 @@
       "hf_url": "https://huggingface.co/papers/2610.08699",
       "arxiv_url": "https://arxiv.org/abs/2610.08699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.08699.png",
-      "upvotes": 120,
+      "upvotes": 121,
       "num_comments": 3,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 2613,
+      "github_stars": 2639,
       "project_page": "https://nanomuse.cn/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-26T18:48:44.099561+00:00"
+  "fetched_at": "2026-10-26T23:02:29.554390+00:00"
 }
