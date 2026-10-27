@@ -5,24 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Why Now Is the Time to Add and Hold BTC",
-      "source": "Galaxy",
-      "source_url": "https://www.galaxy.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GR3VpcXVZQWNKZWp6WnpJV0J1eFpwVmM5TGw5cnR3dFpYcnB1S05ULTVOeG53Y1NPU0VjWU1rUTVPdTF4Q3JVaW5OTWEzUXZKR0lwdDJHVVNLd2VDNjFuMmxtd1N5TUVFNUN3SkxpVVdKQS13MDdvVHlR?oc=5",
-      "pub_date": 1793059586.0,
-      "article_url": "https://www.galaxy.com/insights/research/why-now-bitcoin-buy-hold-2026",
-      "image": "https://images.ctfassets.net/h62aj7eo1csj/3VgHnklzYiXa0VqFeDIFqv/c8ddc42462da0c401c1c69ab56b58d3b/Bitcoin-13_Orange-2.png?w=1200&h=675&fit=fill&q=60&fm=jpg&fl=progressive",
-      "description": "We believe the bottom is in. Selling pressure has diminished, the debasement case has strengthened, and the crowd has left."
-    },
-    {
-      "headline": "\u2018Guppy-Level Death\u2019\u2014Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUU1WjhqQVRuTU1vTDZsWWN1NDdnaVdidk94ZjhoQW9UT0pidlo5Mm9rcTFpTElzM19NTDNWX0NydDBQTFhmVmc2bmtzY0RfOXBJa2dIMmNZWTFEYnIxNFZSdXJRZk9XODdyUVlFc1dzZERaZzMxY3luOGFQbExjRWZ4aVR5enRhWDh6MGF2YmtPSkJYZFVVVGg0VnVFdG9ucUFHVlRMSnBvOGFpVV9VTWdkRnpraEJOQWhyNlJSUU1aTmhDTzEyNA?oc=5",
-      "pub_date": 1793012100.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/26/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/",
-      "image": null,
-      "description": null
+      "headline": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObnVWTXZiOHQxLU5jVFIybmFjOU1hMlN2RTFWTld2Y1dJdk9CMUlhT0xNRjJTaFFMQkNIQUR6QTk3UjA1Q2lGVVVPa1pMY2h6WThXZENMQXNqMjY3SDN5Sl84dk9JVnFhTDBlUHU3NWdaUXVDM1lqRGRVb0FxdGxtYkl0bVJidTRFemxIRGFRb2xsR3ZUOU4zQ3U4YTJGdlEta0VFTFQ4RFZ6U0VJOHY5azlvaGdhNUxS?oc=5",
+      "pub_date": 1793128172.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2afbe744d06bace230a6d51ecc0b980fc57010e-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure."
     },
     {
       "headline": "Tom Lee Sees \u2018One of the Biggest Rallies of Our Lifetime\u2019 as $10.8B Bitcoin Options Expiry Looms",
@@ -35,34 +25,74 @@
       "description": "Tom Lee\u2019s bullish market outlook faces a near-term test as roughly $10.8 billion in Deribit Bitcoin options approach expiry. BlackRock\u2019s IBIT attracted $110.3 million on\u2026"
     },
     {
-      "headline": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUJYd1NwUlZqdkNUQ0pGdENSMVVaYzZ4dTNGMFJKNExGQzY3QUllOW9WQmpXZjdSbGR3M0xSN1BOQUpDdllJbER0dVI0SE5ZWWRfX0QwaUVVc0FlVVJZOGFGdENGWDVyd2wyVHZBSnZGNFY0clYyU19PQUhmRDJHb1ljbEppUkZnWE05bzhXeklvSW1RTndiVmZiNlExWl9HVmVKWnJ4ZHlHWnp5VFhiRzhyS0luWVNxU2VPYmx2VnJDQUdERFE?oc=5",
-      "pub_date": 1793100765.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d9786ace14e73654f21a94a72d9d19a3f66730e-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied, with the DeFi index down 1.8% as the Fed begins a two-day meeting."
+      "headline": "Separation of assets: Thieves beat ex, take $10K and Bitcoin-stuffed tablet in Capitol Hill heist",
+      "source": "CHS Capitol Hill Seattle News",
+      "source_url": "https://www.capitolhillseattle.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWlEtYmlaUEQxTlNfVUl4cGYtLXNRcE9lanZ5dldBVUF0blhXUGExX3JDdmNnSHhiXzFteHVqdEVRNU1CMW5fOGRnVVRXTGVKRG1WSFRUS09henRxQjBqM0hJYkhpQ1A2U0pndzNmZDJOSXl0UVV5eHNoWlMzU0hVY0NURW81UnVzUkFxTVU5aFJoajVYczdBT2wyM2gyZlIyczBzUmFSOHBOU3ZFNjhSZ3pLUTQ4TTVtc2hqMXdFcHF0VFZSanBVc2dCbTVKOFVxUnRnWg?oc=5",
+      "pub_date": 1793121975.0,
+      "article_url": "https://www.capitolhillseattle.com/2026/10/separation-of-assets-thieves-beat-ex-take-10k-and-bitcoin-stuffed-tablet-in-capitol-hill-heist/",
+      "image": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/03/cropped-crowbuttonfavicon_FINAL.png?fit=512%2C512&ssl=1",
+      "description": "Police say an early-morning apartment robbery on Capitol Hill netted a pair of thieves $10,000 in cash and a tablet tied to nearly $250,000 in cryptocurrency \u2014 a target the victim said was li\u2026"
     },
     {
-      "headline": "Luxor Technology raises $16M to expand AI hardware brokerage and compute trading",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXJHWklqVWctR29sdGJIczJFUlh6Z1dFTHBaNGZfQ0RNUzExSHRMWm5Vd2p5ZHdsaXZxcjVRVElQZ3JaQjhzUGo0ek9vdGtxMWhKSklzeV8wSHBfSmJOVU5iMElCVXEtUEFiTnNBRmNQNG5lRVBIMWVEVEd2R1Q4U1lZRkl0R25LX0JDUWRIVTVGRU9lRV83TjlxeHM5ODRkUjNQclJwNXZFSVREckJCTkhlTlBDaGdQRGxqM2dORXJ2NHM?oc=5",
-      "pub_date": 1793106830.0,
-      "article_url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/aee234db418da001bf5ae613c8da62131873c838-1330x998.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Luxor is building price indexes and future contracts for compute power, adapting its Bitcoin hashprice derivative model for AI workloads."
+      "headline": "\u2018CryptoDad\u2019 on stablecoins, bitcoin\u2019s role in a portfolio and why he does not directly own any crypto",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWDJOVW9DalhSdDdQY0hMU0l5ZGpPcXNuX2czcDQxblA0OWhLejdXTGpudXNVbEdYaEUwSjNqOHllTXpFNkNsRWxmY1d5RDZaOU9CR3AxcHdrQndlZE50eGh3ZkFONG8yZjVQMHh4REtHRDJDQ1ZhVTA5NkpVMVJoUjFrZEUyMnJUYVVmU3JwMlFBVFktV0tJeTQtdmFMWXkwRzVQaXdoU2xnRlpJbzFNN1JFdEFrZjN4QUl4SGtpOWdpb3B3U21GS0FLWVRYeGFwUldJbUtTUQ?oc=5",
+      "pub_date": 1793123580.0,
+      "article_url": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
-      "source": "The Register",
-      "source_url": "https://www.theregister.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbG1UTDhGUUt3b0c5QnNQSEJLdWRDQXVrQWI5bmlYSEpicVV3N0Q1OGhRTlRBVW9LdVRmX3Z3WmQxN3p3cVpYaTRaS2toWVFkSUFncERGZGUtb3FLM0JDWEt2ZzdtTDhVajdKQU5PYnNEbDdTdFJFMFVrZEQxN1B6eEdlYzlNZVRzdFFPQnNHTDFGTWRqenpocmhkMnhSOTFLa0FraG15MGZka2s1Ny1hbEx1UWJ0Tko2V25aOGw4ZXd2SXdEcVFPRG5raWlUYmhtdVE?oc=5",
-      "pub_date": 1793031240.0,
-      "article_url": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
-      "image": "https://image.theregister.com/5240537.jpg?imageId=5240537&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "description": "Jaydip Modhwadia beats challenge designed to test real-world exploitability of PHP2Shell in around 3 hours"
+      "headline": "Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTNKWHdpZEhIQ2VLYnc4SUJyOEZmQjk3b3pNN1pKaGxoQ3dhemJSZ2c4NFowaEE4bkVtQWJOWWJlU0tEUXYzall4X2hibVdwTm9GZE95anBBOGRrNWVUeWpVcW5xS0hvYzEwNHpZVHQ5YWxaaVRVSFA3VUd6bzl4bVk0RjBvRHd1eG5mUlJaWFJsUWtBU1N2SnNFQ29DdWhLWnpjOEdWRzNTUGw1RGVScmhRRFp5RjdhY0J3SVNKZ19NYUhV?oc=5",
+      "pub_date": 1793117108.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelU3eG4xSEdFNHdBTnNwZWFGZWVlNGhjcV9HV3diaXgyalRfX0pTMkx2bGNfZWM1aERBRE13OXFOcm9mN3duek8yTVNIRHBkSG9waE56ell5aTN6TERzblV6aVp1N2luM3pkcHZ0MWR3UDVOMWZwQ0g4Yi1ueG11SXNuSjdYS1ViR0VENEJTcWNqbFNpSDc2ZW9sUQ?oc=5",
+      "pub_date": 1793111520.0,
+      "article_url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240711_BitcoinMining_News_2.jpg",
+      "description": "CMT Digital led the round, which includes new funding and share sales, as Luxor expands into an AI infrastructure business."
+    },
+    {
+      "headline": "Missouri man pleads guilty to role in kidnapping, attempted robbery of CT couple over Bitcoin",
+      "source": "Hartford Courant",
+      "source_url": "https://www.courant.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQejdFbGx6X3R1OUJJVEV3RVpncTJXejhNeENSQ3M1QnhhQkRCMTlJcC1YWl9UVHhZNjRsVHVVVm9uTnZMRk5HVW9pb2tjbGJrQ3FDRG5fbWpDWUR2am5uOUw4c0NEUzQwYXU3UFdQNGFzaUdxUGRnNkJIcmtod29XdWVNZHFhQ0ZtMWhVNDdqa1B2VjVYdFhvTWNXbTFJeTY2dy1fSFR3VjVMSU5xTGEyN0otdUlJb1dPUjNxcHVldzdBUnpVRTY0?oc=5",
+      "pub_date": 1793115900.0,
+      "article_url": "https://www.courant.com/2026/10/27/missouri-man-pleads-guilty-to-role-in-kidnapping-attempted-robbery-of-ct-couple-over-bitcoin/",
+      "image": "https://www.courant.com/wp-content/uploads/2026/06/Kidnapping_Crypto_Theft_97898.jpg?w=1999&h=1333",
+      "description": "According to authorities, he was tied to a plan involving six Florida men who beat and kidnapped two people during a carjacking in Danbury in 2024."
+    },
+    {
+      "headline": "Coinbase Now Offers Fixed-Rate Bitcoin-Backed Loans. Here's What Crypto Investors Need to Know.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmMyMFk0dGlmRkpfT0NWXzllVlp3WDFSWXd4SXdaaVZKOF9mNjJTcUtEMDUyUFo5bjBHV0NJaUZBOEN4WDZtQlpMVmt6WHgyYjVUWXhBZWUycmplTVhHdHYya1dfc3NlUElPS0ZZaFU5RXZacExVV3h2MWlHQzdUcVM0eWtZNGhxNDNvVXB6dFNXUUVk?oc=5",
+      "pub_date": 1793124901.0,
+      "article_url": "https://www.fool.com/investing/2026/10/27/coinbase-offers-fixed-rate-bitcoin-backed-loans/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888717%2Fbitcoin-crypto-currency-investor-getty-images.jpg&w=1200&op=resize",
+      "description": "The crypto exchange previously only offered Bitcoin-backed loans with variable rates."
+    },
+    {
+      "headline": "CryptoQuant: Long-Term Bitcoin Holders Go Quiet, Hinting at Early Bull Run",
+      "source": "Bitbo",
+      "source_url": "https://bitbo.io",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwcDd0dVFiSDhYV2RUY2Vpd2dORThUUlVfOGRpcTg4Ym1GTmZjTzllQm1Yb1ZvdHZzQnNOY1U2MzVRa2dHVE9JTjdYSnJfZmJ0WnU4eGF2Z2JkeDg?oc=5",
+      "pub_date": 1793106000.0,
+      "article_url": "https://bitbo.io/news/bitcoin-holders-go-quiet/",
+      "image": "https://bitbo.io/news/images/cryptoquant.jpg",
+      "description": "CryptoQuant says a decline in the realized cap share of bitcoin unmoved for 18 months or longer points to the early stages of a new bull market."
     },
     {
       "headline": "Bitcoin++ Announces Antarctica Edition For January 2028",
@@ -73,38 +103,8 @@
       "article_url": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/bitcoin-Announces-Antarctica-Edition.jpg",
       "description": "bitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula."
-    },
-    {
-      "headline": "'Just a shareholder' Vivek Ramaswamy's Strive Inc. ties, Bitcoin bet",
-      "source": "Cincinnati Enquirer",
-      "source_url": "https://www.cincinnati.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGxWQ3ZYZVB2LUJ2a1YxcWtTWWc3M195Y2VGUUtrSFNVa0QtUU5DT3B0SE1iZzVXLVJ4czltTWplOFRTN2JtOEVUbHNEWVU4TEx0WlF5UFA2THNPSlo0THJQQnZXRExuOThvTEtjalFzRXRXWlNVNjlpdndqSnVEck9tSmxqeUJwNlNLNmJfQmJsUm8xSmVxWXlUclJnSHNwSHEzUmxXazRLTjJxOGZad0Q5M2JGYllpTVJZVndNbXNUMUtxTkVMM0JocnIyU3RyNHJvMEljSQ?oc=5",
-      "pub_date": 1793031300.0,
-      "article_url": "https://www.cincinnati.com/story/news/politics/2026/10/26/vivek-ramaswamy-firm-strive-inc-influence-controlled-company-investor/92274576007/",
-      "image": "https://www.cincinnati.com/gcdn/authoring/authoring-images/2026/05/02/PCIN/89902673007-vivek-ramaswamy-anderson-township-town-hall-5139.jpg?crop=3299,1857,x0,y171&width=3200&height=1802&format=pjpg&auto=webp",
-      "description": "Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics."
-    },
-    {
-      "headline": "Current price of Bitcoin for October 27, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZVdoa0V4Y3ZqckhTYTN6TklOc2dXUkRhQTA1Yjk4emZIbkN0WHNEdVlfdmxDLTBVRUdMRmtUVFhKT3B1bVVrWnhydmI0cTgzRkd0azczQ1hrakV4OFF3R1ZPUjNqNWM?oc=5",
-      "pub_date": 1793106900.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-27-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-27.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "JPMorgan Predicts Bitcoin Will Outpace Stocks, Bonds, and Gold Over the Next Decade. Is Bitcoin Now a Screaming Buy?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHNNLU85ZkhlSXdtUDA0cG5oZFF6MldzX21ZUWpCcEQ0QmtOQjN2Nk40dkVMNTVtaW5nV0FlSDIzVEJFVFV0MmUyYTVLal9aTU0xbXhsM3JYLTdKVC03VHUzaW5pTktheDNxS28xWEx1eWs5Si1GUGRSNDI3bGFsdEg1bFVlUHhEbkJiWXZLUVRoMHIwN3BWdg?oc=5",
-      "pub_date": 1793066940.0,
-      "article_url": "https://www.fool.com/investing/2026/10/26/jpmorgan-predicts-bitcoin-will-outpace-stocks-bond/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892077%2Frevolving-door-with-jpmorgan-logo-on-outside-of-building_jpmorgan.jpg&w=1200&op=resize",
-      "description": "The leading cryptocurrency has outperformed all major asset classes over the last 10 years, and JPMorgan Chase expects the same over the next 10."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T14:49:00.447505+00:00"
+  "fetched_at": "2026-10-27T19:51:56.801514+00:00"
 }
