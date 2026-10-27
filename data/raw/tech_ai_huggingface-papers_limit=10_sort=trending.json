@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 19988,
+      "github_stars": 20168,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 7418,
+      "github_stars": 7484,
       "project_page": null
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 43812,
+      "github_stars": 43861,
       "project_page": null
     },
     {
@@ -183,15 +183,15 @@
       "hf_url": "https://huggingface.co/papers/2606.23050",
       "arxiv_url": "https://arxiv.org/abs/2606.23050",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
-      "upvotes": 98,
+      "upvotes": 99,
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 28499,
+      "github_stars": 28581,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-26T23:02:29.554390+00:00"
+  "fetched_at": "2026-10-27T02:18:35.288382+00:00"
 }
