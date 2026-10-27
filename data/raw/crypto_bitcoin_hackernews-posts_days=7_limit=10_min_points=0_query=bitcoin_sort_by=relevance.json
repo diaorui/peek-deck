@@ -9,7 +9,7 @@
       "url": "https://stealmybitcoin.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50224916",
       "author": "cloudlandsdev",
-      "points": 614,
+      "points": 616,
       "num_comments": 449,
       "created_at": "2026-10-24T20:30:31Z",
       "object_id": "50224916",
@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50237379",
       "author": "davikr",
       "points": 163,
-      "num_comments": 50,
+      "num_comments": 51,
       "created_at": "2026-10-26T00:15:17Z",
       "object_id": "50237379",
       "image": "https://opengraph.githubassets.com/1c34d833fdca9a4559becb96a60ea376d7aefd537dc32e41af8bff3cbafe5ff9/KillaBoi/StealMyBitcoin-PoC",
@@ -119,5 +119,5 @@
   ],
   "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-10-27T02:18:24.851319+00:00"
+  "fetched_at": "2026-10-27T08:13:10.302468+00:00"
 }

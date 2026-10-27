@@ -5,46 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1uODNBTHNBOE5uNEJjQndCY1dqZkc3RGkxcVY5NHNuSzh1Nm1UbTZMSGVCdmhSaHBicTctdkUzd2gxTzZyWnJ3bkEteVlXeUFmRW5GX3FPbHJ6R05paGZjTk5PWHFpWWhrX1dCYm5uQjkzLWtTM0duNDhyVHlmRkxxNXpZLUIyUVNKalVOR3ljSVNBbGVmMDl0dDlQLW1fTFlUVlNidTRDV214czhF0gG0AUFVX3lxTE5xbXBvd3A3dU5MRklvQnBWV0k2RVNPcU1lRDdGLUFTbEp3QlZWVEcwWk5pTnRwWExqRTZfbWhnanNhbDB5dVRkVUxNVHNJYzl3U2NiaHZlNEdPTDRMNnl4bk5ZcHlGOXVRakFtdXlGSjNjcl9JVUVhTlM2Q0ZXT203VlZraWFPNzlqRnhCRHRXYVJGYUVnelM5em1OLVpuQXpaX0Fza3BvQy1UalhZZVNOTk9rRQ?oc=5",
-      "pub_date": 1793049747.0,
-      "article_url": "https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330",
-      "image": "https://i.abcnewsfe.com/a/fbe5ef73-2312-4f94-aa20-a01d4315953b/AdventHealth-ht-er-261026_1793031672199_hpMain_16x9.jpg?w=1600",
-      "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
-    },
-    {
-      "headline": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog",
-      "source": "NVIDIA Developer",
-      "source_url": "https://developer.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB?oc=5",
-      "pub_date": 1792768213.0,
-      "article_url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
-      "description": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
-    },
-    {
-      "headline": "Emerson-Hubbard robotics team granted money to compete",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUpzbXhpYUx0bEtTZm9oczZYcXRzdFZraXhiRmdhekd4OWlKWVE4bXZKYVlkNTVhdktscGZ0MjVYNndoM2RXOFJQS1RiUzA2d0xJSHRzUUFCZ2t5YmFoTlhBNHY1UU9nNlVhXzRPelExdUUxVnVLenRMR0g5Y2NCcDdxeU9rZ3FqMWdRbE1TeW9KUQ?oc=5",
-      "pub_date": 1793061960.0,
-      "article_url": "https://www.yahoo.com/news/articles/emerson-hubbard-robotics-team-granted-004652004.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e825e02de006a2c4308999de86ae70e44defc0a45b8cd3c8f5d1802fdad19a21/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkcau_sioux_city_articles_201%2F71464a8268446f00dc51d56c0e2796bc.jpg",
-      "description": "For the last three years, Emerson-Hubbard High School students have been getting hands-on experience building robots as part of their robotics programs."
-    },
-    {
-      "headline": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmpvY1pGQzRtcWpnV1JBQXNwUGowRmNUcEFfV3NBX3BFR3ptTjl1UUpDZm5ackljOE1Kb1FrOWtKdEk0V1FzVE5VNUdUc01rQkgtcGFuQkltZThqMTM5NGpQc2lJeW5MYnRsY041dzMySzdONWJGRWYwV2ZqRE9CTDlrZnd5WFFSMl9FdUliTEZzQUJXZk5paExQZEQzSVVOLV84alNFdw?oc=5",
-      "pub_date": 1793036700.0,
-      "article_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
-      "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
-    },
-    {
       "headline": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -53,6 +13,16 @@
       "article_url": "https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108355638-1787909091760-JOHN_THUMB.jpg?v=1787909129&w=1920&h=1080",
       "description": "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity."
+    },
+    {
+      "headline": "Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1uODNBTHNBOE5uNEJjQndCY1dqZkc3RGkxcVY5NHNuSzh1Nm1UbTZMSGVCdmhSaHBicTctdkUzd2gxTzZyWnJ3bkEteVlXeUFmRW5GX3FPbHJ6R05paGZjTk5PWHFpWWhrX1dCYm5uQjkzLWtTM0duNDhyVHlmRkxxNXpZLUIyUVNKalVOR3ljSVNBbGVmMDl0dDlQLW1fTFlUVlNidTRDV214czhF0gG0AUFVX3lxTE5xbXBvd3A3dU5MRklvQnBWV0k2RVNPcU1lRDdGLUFTbEp3QlZWVEcwWk5pTnRwWExqRTZfbWhnanNhbDB5dVRkVUxNVHNJYzl3U2NiaHZlNEdPTDRMNnl4bk5ZcHlGOXVRakFtdXlGSjNjcl9JVUVhTlM2Q0ZXT203VlZraWFPNzlqRnhCRHRXYVJGYUVnelM5em1OLVpuQXpaX0Fza3BvQy1UalhZZVNOTk9rRQ?oc=5",
+      "pub_date": 1793049747.0,
+      "article_url": "https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330",
+      "image": "https://i.abcnewsfe.com/a/fbe5ef73-2312-4f94-aa20-a01d4315953b/AdventHealth-ht-er-261026_1793031672199_hpMain_16x9.jpg?w=1600",
+      "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
     },
     {
       "headline": "Week Begins with Robotics Prep for Spacewalk and Advanced Research",
@@ -65,6 +35,46 @@
       "description": "Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station\u2019s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday\u2019s schedule."
     },
     {
+      "headline": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmpvY1pGQzRtcWpnV1JBQXNwUGowRmNUcEFfV3NBX3BFR3ptTjl1UUpDZm5ackljOE1Kb1FrOWtKdEk0V1FzVE5VNUdUc01rQkgtcGFuQkltZThqMTM5NGpQc2lJeW5MYnRsY041dzMySzdONWJGRWYwV2ZqRE9CTDlrZnd5WFFSMl9FdUliTEZzQUJXZk5paExQZEQzSVVOLV84alNFdw?oc=5",
+      "pub_date": 1793036700.0,
+      "article_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
+      "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+    },
+    {
+      "headline": "Toyota takes on Tesla and China in humanoid robot race",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
+      "pub_date": 1792962006.0,
+      "article_url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjdHM3lsR3NNZTVGZEVURzJGMmxycVFpdVA4ekdpcUV2Y1h2dHVMd2lRREI2MHhVYXJoMzBLNE9qckc5NGRBV2dWci1CQWMyVDV1aFR4Q1BfaWdZN1lUd0x4NmhLbU9XNjlYNFpkVUxPWmo2ajZ1cjMwdmloMnN3ckpaUVVOVUtvcUZhX0ZBYUJlNkVxeVE?oc=5",
+      "pub_date": 1793069040.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-30.jpg",
+      "description": "Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027."
+    },
+    {
+      "headline": "110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment",
+      "source": "Global Times",
+      "source_url": "https://www.globaltimes.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80QVQxRktxem15Uy02NkFZcGRVb1Y3czV3ZHFpU0x3UEJBOU5yMXJ1RzZlMkxLdmFQb3RIZC1qTHVGNm1ZT1BmTEdjX3hNTU9mX2hBSWNwbDBrYmN1bHdfcG53?oc=5",
+      "pub_date": 1792897140.0,
+      "article_url": "https://www.globaltimes.cn/page/202610/1372888.shtml",
+      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/769f8f28-90cd-4fde-b250-759abf8efb3a.jpeg",
+      "description": "China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24."
+    },
+    {
       "headline": "Autonomous Construction Firm Bedrock Hits $4.1 Billion Valuation",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -73,16 +83,6 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Move Over, Tesla: This Robotics Stock Is the Better Buy",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0VlN2llUVU4dEpJMzNvQlhNRmw0OVNLYUpwZFRmTjJIclJncy14NXVVS1F3RHVnMl8zd1Bidk1DLVJhQVpMT2JwUkkzejV5VVhfdjZFNVl6U1BjMzNrdVF3Ul8xTV9QTE1kWEZIN01rS0g5Z3FTVTdkZExxaVp3M3J1UGZMdHM3MFpnaU5ONGhhdw?oc=5",
-      "pub_date": 1793043900.0,
-      "article_url": "https://www.fool.com/investing/2026/10/26/move-over-tesla-this-robotics-stock-is-better/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891368%2Fadvanced-robotics-assembly-line-getty.jpg&w=1200&op=resize",
-      "description": "Tesla is looking to start manufacturing its Optimus robots, but this industrial giant has been helping factories automate for decades."
     },
     {
       "headline": "Are Delivery Robots Scanning You Into a Database Scarier Than Flock?",
@@ -95,16 +95,16 @@
       "description": "A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent."
     },
     {
-      "headline": "AI factory designer Foundry Robotics makes massive expansion into East Bay",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnNUeExaUG1CRkUydzJDTTR1NDdxWm9lQnFhUXVYcDE3WktJSjhTbmo4cjVqWUZybEFMVE4xX2ZHeE5QUjhtaHNKbVBMY1k1bUFjY002Y0RUNlpiZjVfZllEblNvMGJ1TWk1VkE5RGRQN3NWWTVOTUJiSVhxUldwSzF5RUlsS3lPZlE3a3ZSS1NKZVpoc3ZncXc2TlNSNzhG?oc=5",
-      "pub_date": 1793050200.0,
-      "article_url": "https://www.bizjournals.com/sanfrancisco/news/2026/10/26/foundry-robotics-emeryville-expansion.html",
-      "image": null,
-      "description": null
+      "headline": "Move Over, Tesla: This Robotics Stock Is the Better Buy",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0VlN2llUVU4dEpJMzNvQlhNRmw0OVNLYUpwZFRmTjJIclJncy14NXVVS1F3RHVnMl8zd1Bidk1DLVJhQVpMT2JwUkkzejV5VVhfdjZFNVl6U1BjMzNrdVF3Ul8xTV9QTE1kWEZIN01rS0g5Z3FTVTdkZExxaVp3M3J1UGZMdHM3MFpnaU5ONGhhdw?oc=5",
+      "pub_date": 1793043900.0,
+      "article_url": "https://www.fool.com/investing/2026/10/26/move-over-tesla-this-robotics-stock-is-better/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891368%2Fadvanced-robotics-assembly-line-getty.jpg&w=1200&op=resize",
+      "description": "Tesla is looking to start manufacturing its Optimus robots, but this industrial giant has been helping factories automate for decades."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T02:18:46.093596+00:00"
+  "fetched_at": "2026-10-27T08:13:29.620366+00:00"
 }
