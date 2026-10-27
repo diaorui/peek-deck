@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Can Marissa Mayer, Yahoo\u2019s Former CEO, Help Fix A.I.\u2019s Gender Problem?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5KSFZOcEVLQzZ6OTNXOWJENzBVZEpaWFdtcnd0NXZlRS10VEdmcnRMODJ0Y3ZWX2ZfME1PdU41M2RrM2pwb25ZT2FpWTlvTFpQbVRHSXFFM0hsNlNlS1REQk5hdjlOSG5aeGNtSnlBQWt3MThtUFhNakt5TzRKU0E3MkZ5Zw?oc=5",
-      "pub_date": 1793087945.0,
-      "article_url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
-      "image": null,
-      "description": null
+      "headline": "Anthropic IPO filing reveals AI security breaches, training halt",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5",
+      "pub_date": 1793108266.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/34f39993c86555d0de32d036c1e222ba.jpg",
+      "description": "Anthropic revealed four AI models accessed real-world computer systems during security tests, raising new concerns about AI safety ahead of its public debut."
     },
     {
       "headline": "In China, the AI bubble has already burst",
@@ -25,54 +25,54 @@
       "description": null
     },
     {
-      "headline": "Meet Anthropic\u2019s Seven Founders as the A.I. Firm Prepares for an IPO",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg?oc=5",
-      "pub_date": 1793028296.0,
-      "article_url": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+      "headline": "AI industry continues to boom",
+      "source": "KTVU",
+      "source_url": "https://www.ktvu.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YNVNLZFo5OVdaLW9icVA5QU43eDI0ZDJOVVltQkZ2NDFmblp4TVhxLUpJY19mbVVNb1FQeTZuWEVid1NGVV8xeGxCaGNRXzNENGlJckFiNEtlNknSAWBBVV95cUxPVmNrYl9MdXBlekZGOTNEZlVmUDdwTGlRemk4Z1E3cHJpMThHYVFLa2VhZl9saDRDWEJSd2tiWV9LaGFSS1FYSXJhYjNzdVNYRGsxWk5lYnpGeW42TjlkcGw?oc=5",
+      "pub_date": 1793110795.0,
+      "article_url": "https://www.ktvu.com/video/fmc-6syfbf157u0ccdxx",
+      "image": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/n90ysq2r07rukqof/1200/630/f523axwq98gijsnv.jpg?ve=1&tl=1",
+      "description": "Financial advisor Chris Markowski discusses Nvidia's investment in Meta, Microsoft offering buyouts and Anthropic's IPO."
+    },
+    {
+      "headline": "China\u2019s rich list topped by $100 billion TikTok AI fortune: ByteDance founder Zhang Yiming",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xMTBMTm96eXNvMXNjNXNnSTFnTnZoSGxqVHpycUtzY3VDZTFXSW43NG84V2p6YmpVMXkxNGxlVkkyYlF3LURsWmpTWWFuOGFJSTA1UERjOHYtYlRvcHNLTVczVGdQVDNMdERobktSNkdqc0hReDUxNDhmOXNHZw?oc=5",
+      "pub_date": 1793111697.0,
+      "article_url": "https://fortune.com/2026/10/27/bytedance-zhang-yiming-china-rich-list-ai/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26300222211879-e1793106942258.jpg?resize=1200,600",
+      "description": "It's a record high for China's richest person, and the rankings included a record 1,529 people worth more than $750 million."
+    },
+    {
+      "headline": "EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzVtbS01OXk3NnVyRUloc3RIcmtsTVVWczZrbUw0T0M0bGZkZXk3NUFidnVwaWloTzh0MVh2UTNWSnFzWHA5OWlNUlRPZmxYV0F5T3djbHBkLTZpdm54YV84T0Exbkxpay1KQ2xncEExT2FyNndUU3lqTFh0UG5ndnJqOHlvNXh0cXBGdkowemlFVFVWZzhXUGtjbng3dTRIendvbkpmdHRHd0lwQThzUW5HblhzbEdUZ2ZuOUNtUnBLdw?oc=5",
+      "pub_date": 1793111613.0,
+      "article_url": "https://www.reuters.com/business/finance/neocloud-firm-argentum-ai-talks-5-billion-ai-chip-financing-sources-say-2026-10-27/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNklNQlZSV0JkMk95ODdwQ3Fac1ZNbHJWMUFsMjIwbFB1UndnS29RNFNNcXN6X3FGVEx4dEFYWWtnQkhwMU5SQ1NHa2ZmVDZlMmZfT0F4VHRfelNCOWFvYnBwMV9SWkVMZ1pRTTNwNTh2NzNTWXlwVdIBfkFVX3lxTE5LZTNUMTJWT0hXQ2xBU2otcjZSWUQ5YkVrY1NJSkQxZ01BNHBrMnlSOEpIQ0tuVTZmb0dJZFA4MUluS3BHeUR3cVQxS3Q5VVVXN3hpWnVZMExOUDBiUHZra2tWM3VhWVBJVXBudEVXdDRCcC1iMk9hY2ZaM0FBZw?oc=5",
-      "pub_date": 1793029930.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
-      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency."
-    },
-    {
-      "headline": "\"Hire The Robot, Fire The Human\": Gates' Warning, Then Microsoft Buyouts",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQW9OMV9pZjdYcjRIRTNJczd0QkFsd0E5MnB6TGVLaU5FRkFrOTNGYVVvS3ZHbzUycTZBVDJVZmZEaUNvSFctVEpsalUtaUxXLWtWcDdUU0V4Unk2MHVGelNfeTUtNHhveTlvZDZfT1l3TzhrRWpZa0xrMG4wSmV2TWtiX3JzWDBmYmhfbkVZcGdPUGZ2ZEl5VjNhbXIweVY2VGNwSUllTHN3MmFQSmF2WlQ2UThDa1k2Sjh0bmZRYi1mczDSAcsBQVVfeXFMTmtNTENLQ2Vvb21fUXRuOWRVMU1OeFdNQWpjdFFJWGg0R3V1bzBFVTJvMnMxdGVlUWIxTTRDNzJTUEtsVzh0VHhoNWJoR0l0M055dG5vUlhaMHU4a09RUG1KbmxkOHhTRW9wZDF5ODZHQmttMXF0TEVJRDcwbGhhZHU2RDhvTVY3R0s4MmZnSHVhdzVEd2ZPMEs3OWRJbWJRZmtKSDdqZ2dFTDNjb0RnWVRuanpSMnZibHdsYmtBX2hMQlVQX0s3ZHhhOWc?oc=5",
-      "pub_date": 1793084172.0,
-      "article_url": "https://www.ndtv.com/artificial-intelligence/hire-the-robot-fire-the-human-bill-gates-warning-then-microsoft-buyouts-12241459",
-      "image": "https://c.ndtvimg.com/2026-10/fj9ei89o_bill-gates-_650x400_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "description": "Microsoft co-founder Bill Gates says companies are being pushed to replace workers with AI. A day after his statement Microsoft offers buyout to 60,000 employees"
-    },
-    {
-      "headline": "Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I.",
+      "headline": "Did the Hardest Problem in A.I. Just Get Much Easier?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGVaVGpaNnhKVm1GV0UwbUdnQmRtQmFFVmNDQlRMWkRzNWlfYXJvZUp4aGtGS1FYVll5YWtMS2Zad3pyOFBFUTZLOTNDNGxuRmt5ME1lUExyWXFlUDhsTGVKSlZLRXNmOVBTOXVUdkk5MlhwOGtpVldrVW5xV3E5VEstYVdSS1k?oc=5",
-      "pub_date": 1793045739.0,
-      "article_url": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGdlRklqWWRYazUxTGpJTFZsa1M2OEVxTmdHZE5jWVd5MDJfbDJ6RWxYaW9HSzFubUFRQnRwRHNiakJpRFQwX0t0QWhidm4yVEU2ZFQxc1ZhNUdBV2NCc3g0UWdYUHRza2JoMzFTXzM0NUdHMTdmRFJTOHlzekFPZg?oc=5",
+      "pub_date": 1793091780.0,
+      "article_url": "https://www.nytimes.com/2026/10/27/science/ai-problem-interpretability.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "South Korea\u2019s GDP growth beats forecasts amid AI boom",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkhSendFOTJpVXVneXVaSFVfdWNoY0swai14U0NiU1dCU0xmbE5Wd25Dak9DUkpEOEl1ZDd5Um1NQkg5c2V2SU9JVm1KaTgxbXNwVGRwS2ZQNlRmTm9Ea2JDS1N3VG5jWkFCbERCRjFlNjgtZmkzU0Q3cU16dnYyUXJRaG14ZEJOT1RTTGV0bzRPV3YxTC1qV2hST19DUdIBowFBVV95cUxPRl9KQ1REU214M3NQRHpBaGI5LW5QZXc5bHkwNDRDTk5NZUxtbV9zeVN5SWo1UG1fdHF6dS1PWWV4V2w1ZXRJdi1DNjIwWEJXRGJFOTM3V0hMTUp1LXFEcTB5cGx2QTlrUm14SGNYeUg4UXZNUkl2andsNXZyMW1KblFmbk5zbjFHMFloZkh4ckhkVXJiaDJoU0hTRHF5RUl6LXU0?oc=5",
-      "pub_date": 1793084197.0,
-      "article_url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260811__C4DU6ZR__v1__MidRes__SkoreaEconomy-1-1793075271_957b25-1793075829.jpg?resize=1200%2C630&quality=80",
-      "description": "Asia's fourth-largest economy grows\u00a03.4 percent year-on-year amid strong semiconductor demand."
+      "headline": "\u2018Sloppy gruesomeness\u2019: reviewers slate Musk\u2019s AI-made Odyssey film",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkJCQU52c1RnV0lJdUMzRnhWRzlkVHB1YVVTWlJpWlJZNzI4YzFZWkptQjBCTWx2U0ZOZjNCWDFoNmJtWjA1S2pTRXVQUFJNNDNmS056MS04MTd4NVZwVDNkTWc0bDBKS1ZLYnViTmhfUDB4Nml0emZfcnVLTzV0T3hfcFVmeTlqNk1WMEoxN2Vya2VDSjVyazRnUWxuMEE?oc=5",
+      "pub_date": 1793109480.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+      "image": "https://i.guim.co.uk/img/media/f5bb844cbf76398948b5d3efa0fb0e79205a0c23/408_0_1983_1586/master/1983.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a766dd6103b58ad8cdf8e2385dd80db2",
+      "description": "Tesla tycoon launched Grok project after criticising Christoper Nolan\u2019s diverse casting for his Homeric blockbuster"
     },
     {
       "headline": "Working with academic communities to build scientific understanding",
@@ -85,26 +85,26 @@
       "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
     },
     {
-      "headline": "\u2018Digital hostile environment\u2019: AI secretly being embedded across Home Office, report claims",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0xOOG0wZVF2UzIwalRZSk1SUXhzRHBOeUJ5UmxlSzA1NDY4MDFTU3NXcXRlNTczek9vU0JCcU5fYm1IZTNUVUNnTTFsTzJfWEE0MGlUaVdsZl9ld3VKU1E1MDhzejNNS2gyT2trRGRveU1FQXRkaGtoV3NjN25PbmNnT0p1V1JEcUFQS0xyZWZMVTBkWmtUajBzRFV3Yk9xSmlFd0hYQ0pKejROdElhTGU3ckRSdms?oc=5",
-      "pub_date": 1793059380.0,
-      "article_url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
-      "image": "https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06dde09a5285a3bd45a1f6d46d9c0390",
-      "description": "Tasks from determining asylum seekers\u2019 ages to border surveillance now involve AI, says Open Rights Group"
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNklNQlZSV0JkMk95ODdwQ3Fac1ZNbHJWMUFsMjIwbFB1UndnS29RNFNNcXN6X3FGVEx4dEFYWWtnQkhwMU5SQ1NHa2ZmVDZlMmZfT0F4VHRfelNCOWFvYnBwMV9SWkVMZ1pRTTNwNTh2NzNTWXlwVdIBfkFVX3lxTE5LZTNUMTJWT0hXQ2xBU2otcjZSWUQ5YkVrY1NJSkQxZ01BNHBrMnlSOEpIQ0tuVTZmb0dJZFA4MUluS3BHeUR3cVQxS3Q5VVVXN3hpWnVZMExOUDBiUHZra2tWM3VhWVBJVXBudEVXdDRCcC1iMk9hY2ZaM0FBZw?oc=5",
+      "pub_date": 1793029930.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
+      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency."
     },
     {
-      "headline": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
-      "source": "Cloudflare Blog",
-      "source_url": "https://blog.cloudflare.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfQXpCbEt5VnltbU56MjU0SHdvdm1uQmphTjJjSC1KLUNCdGZhUzBEZTJMT09uN0otanVZSURQblJ3TTZpRDFWbG8wSTNPQVBSWXNBMWMxNE5OTDVMUDd5NTFxZEUzWTZCcnc?oc=5",
-      "pub_date": 1793052128.0,
-      "article_url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2YJT16K16BFFJGEMCAXRS.01M5X2YM62P3YQRBGRP96FS4P6.png",
-      "description": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue."
+      "headline": "Decoding Microsoft's AI workforce shake-up: Are more layoffs coming?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnQwamRKeEZ2bU1ISk1femx0T2hzQllzUlNHa3BzZlBpNHMtVWRmcUQ0Tk03VW1QWU5BNWRZdE9GbTl2WmRuUmUxWUltWFAtWFVjSFRWTTRCcXJMUUtDY2JNcEktU2x5Z0FNZFVSUUpQaHZ4QS1DbDdwR0ViT2RpbHM0TnU2a3Z4V0p1cTQyMzI3Q3piN3NhZGcwMk9OeUdiQ1FtTjhlOUw5T19BUHRKQkd3?oc=5",
+      "pub_date": 1793110058.0,
+      "article_url": "https://finance.yahoo.com/video/decoding-microsofts-ai-workforce-shake-up-are-more-layoffs-coming-140738828.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/37706a5c3d76010b11d8122d36c3698301a586ab4116b03a551c0fe5d914282c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F957aa5d9-8858-4fb5-bf5e-981da0aaa465",
+      "description": "Yahoo Finance Executive Editor Brian Sozzi takes a closer look at Microsoft's (MSFT) employee buyouts on Sozzi Unleashed, examining the role of artificial intelligence in the tech giant's evolving workforce strategy. Sozzi breaks down what's driving the changes, how AI could reshape Microsoft's staffing needs, and whether another round of layoffs could be on the horizon."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T08:13:33.044428+00:00"
+  "fetched_at": "2026-10-27T14:49:02.516793+00:00"
 }
