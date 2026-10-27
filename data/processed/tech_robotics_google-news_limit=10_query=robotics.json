@@ -25,6 +25,36 @@
       "description": "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity."
     },
     {
+      "headline": "Toyota takes on Tesla and China in humanoid robot race",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
+      "pub_date": 1792962006.0,
+      "article_url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China unveils 13-foot robot that can lift a cow",
+      "source": "Yahoo",
+      "source_url": "https://malaysia.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnJPMTJyVEkyUi0tUlFHOUZvR09JWDQtTXh3MTJhbGNmUmVfM0lKcGFqdjNOQkk4dHRYSW9FUGpTNmFQSG5sN0tBUkVSMWFaUW9YZmFzZFdDNFRINDBrdzRHTlpQOTY2aEZQWHhPSjR6OUhPYWFVSEpCSjkyenc?oc=5",
+      "pub_date": 1793123041.0,
+      "article_url": "https://malaysia.news.yahoo.com/china-unveils-13-foot-robot-174401927.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/022a755d19b75ddf50fe8262ca582d6be9bf4727ca925ad807178354ceadf27b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F71485621a583e092ec413f38c8303cd2.png",
+      "description": "\u2018Robots should not merely replicate human forms but surpass human physical limits,\u2019 says NeodraDynamics founder"
+    },
+    {
+      "headline": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFJTQ1BROE5vZzk0VTNoWXZtSk84eGVsYS15QTJnMVphbmpjeDVZWUVjSUpzLWF4aHJnU3RsVGlGUG12ZG1sLU1YN0ZVbTYwR2RvT0FPZzR4ekZzTkdfYnhKZTVhQlJ0cHJ0dWlDblBfOWhsell6VndWTXhjUFNzVWZWX0tVQjRzSDRSMjVOa2t1dEFId1pLUlZrMnE4RzZra1M1alZOT2pPZ1hSVjlqZ0Jn?oc=5",
+      "pub_date": 1793098800.0,
+      "article_url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300740947.jpg?quality=90&strip=all&crop=0%2C10.748920582036%2C100%2C78.502158835928&w=1200",
+      "description": "GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals."
+    },
+    {
       "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -45,24 +75,14 @@
       "description": "Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station\u2019s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday\u2019s schedule."
     },
     {
-      "headline": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmpvY1pGQzRtcWpnV1JBQXNwUGowRmNUcEFfV3NBX3BFR3ptTjl1UUpDZm5ackljOE1Kb1FrOWtKdEk0V1FzVE5VNUdUc01rQkgtcGFuQkltZThqMTM5NGpQc2lJeW5MYnRsY041dzMySzdONWJGRWYwV2ZqRE9CTDlrZnd5WFFSMl9FdUliTEZzQUJXZk5paExQZEQzSVVOLV84alNFdw?oc=5",
-      "pub_date": 1793036700.0,
-      "article_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
-      "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
-    },
-    {
-      "headline": "Mayo Clinic to test 'autonomous robots' in Rochester warehouse",
-      "source": "Post Bulletin",
-      "source_url": "https://www.postbulletin.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0ZuR3ZvRDVwWmMtVXFpOWppV0FKRHNhMVJCNVFGdERYQVFid21qTlF3VmRIWFpSeFRpLXRJTFpJVWRmMUhHMHRSS0stdHhINXdLOXJ0WHhqT0xablo0Z1lkaklGNFdEbk1vcVNVV0VHUEdkTTItSUZpUXVQMG5fV3c0U2ZhV0xsU1NNVjVmS2IzeWtQXzUwQUtPZUFiLTQ?oc=5",
-      "pub_date": 1793100102.0,
-      "article_url": "https://www.postbulletin.com/business/mayo-clinic-to-test-autonomous-robots-in-rochester-warehouse",
-      "image": "https://cdn.forumcomm.com/dims4/default/d330577/2147483647/strip/true/crop/1696x1221+0+0/resize/1481x1066!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Fpostbulletin%2Fbinary%2F8196468c61624d29d85f54d04079cbb7_binary_5144467.jpg",
-      "description": "Mayo Clinic is building out a 6,700-square-foot space in a warehouse on the Rochester Technology Campus to test out \u201crobotics workflows\u201d that will be part of the \u201cBold. Forward. Unbound. In Rochester\u201d initiative."
+      "headline": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjB2SG9VZUt0LVctTXpQU2Jod0t6a3BFbGZuNFJicGVQT1BJdWlUbzZuYnRuOHE1UWxKS2lUcVlVY2w0SVU2bWtXakNyMVRXZDBOYkxwUm1xanY4QTZPRnI5VFJfNzVhYWQ4aW4xUEdaeWh5RVVON1Y3VElxWk1NT2djZVBDSU8tU0hJeUtmZUM2YjB1elhiV1cwM0JhZ1IzX3FCN2tKZ0cxNzgz?oc=5",
+      "pub_date": 1793098800.0,
+      "article_url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10",
+      "image": "https://i.insider.com/6adfd49cab741a2ebdf11932?width=1200&format=jpeg",
+      "description": "Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration."
     },
     {
       "headline": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
@@ -75,36 +95,16 @@
       "description": "US robotics company stands by ICE deal as more than 300 employees warn of risk."
     },
     {
-      "headline": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjB2SG9VZUt0LVctTXpQU2Jod0t6a3BFbGZuNFJicGVQT1BJdWlUbzZuYnRuOHE1UWxKS2lUcVlVY2w0SVU2bWtXakNyMVRXZDBOYkxwUm1xanY4QTZPRnI5VFJfNzVhYWQ4aW4xUEdaeWh5RVVON1Y3VElxWk1NT2djZVBDSU8tU0hJeUtmZUM2YjB1elhiV1cwM0JhZ1IzX3FCN2tKZ0cxNzgz?oc=5",
-      "pub_date": 1793098800.0,
-      "article_url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10",
-      "image": "https://i.insider.com/6adfd49cab741a2ebdf11932?width=1200&format=jpeg",
-      "description": "Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration."
-    },
-    {
-      "headline": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFJTQ1BROE5vZzk0VTNoWXZtSk84eGVsYS15QTJnMVphbmpjeDVZWUVjSUpzLWF4aHJnU3RsVGlGUG12ZG1sLU1YN0ZVbTYwR2RvT0FPZzR4ekZzTkdfYnhKZTVhQlJ0cHJ0dWlDblBfOWhsell6VndWTXhjUFNzVWZWX0tVQjRzSDRSMjVOa2t1dEFId1pLUlZrMnE4RzZra1M1alZOT2pPZ1hSVjlqZ0Jn?oc=5",
-      "pub_date": 1793098800.0,
-      "article_url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300740947.jpg?quality=90&strip=all&crop=0%2C10.748920582036%2C100%2C78.502158835928&w=1200",
-      "description": "GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals."
-    },
-    {
-      "headline": "Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjdHM3lsR3NNZTVGZEVURzJGMmxycVFpdVA4ekdpcUV2Y1h2dHVMd2lRREI2MHhVYXJoMzBLNE9qckc5NGRBV2dWci1CQWMyVDV1aFR4Q1BfaWdZN1lUd0x4NmhLbU9XNjlYNFpkVUxPWmo2ajZ1cjMwdmloMnN3ckpaUVVOVUtvcUZhX0ZBYUJlNkVxeVE?oc=5",
-      "pub_date": 1793069040.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-30.jpg",
-      "description": "Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027."
+      "headline": "Ukraine Develops Drone-Carrying Ground Robots to Fight Aerial Threats, With Millions More in Funding Needed",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jRDdldE9wRjVGdEV3c01KNzZCbS1iQWstd2Z4NlVzb0cwR2lGWDZDdnpPQW5zZWR3RWVVbUtfMV8zWVRzVzIyWlBoSQ?oc=5",
+      "pub_date": 1793108525.0,
+      "article_url": "https://www.kyivpost.com/post/88325",
+      "image": "https://static.kyivpost.com/storage/2026/10/27/b596b3d568720c5bc08ba8c74843111d.png?w=1200&q=90&f=jpg",
+      "description": "A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T14:49:08.883468+00:00"
+  "fetched_at": "2026-10-27T19:51:49.545549+00:00"
 }

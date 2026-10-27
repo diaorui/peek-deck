@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-27T14:49:09.947824+00:00'
+updated: '2026-10-27T19:51:58.491523+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 27, 2026 at 14:49 UTC  
+**Last Updated:** October 27, 2026 at 19:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,281.51
+### $80,732.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -4.5%  
-**30d:** -3.9%  
-**90d:** +23.9%  
-**1y:** -28.9%  
+**24h:** +1.1%  
+**7d:** -3.9%  
+**30d:** -3.3%  
+**90d:** +24.6%  
+**1y:** -28.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1611.59B
+**Market Cap:** $1622.57B
 Rank #1
 
-**Circulating Supply:** 20,104,350 BTC
+**Circulating Supply:** 20,104,468 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.4%
+-36.0%
 
 **All-Time Low:** $67.81
-+118095.0%
++118885.4%
 
 ---
 
@@ -123,7 +123,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[Just bought my first Bitcoin, and immediately lost 3%.... Let's go???](https://www.reddit.com/r/Bitcoin/comments/1xcq2xz/just_bought_my_first_bitcoin_and_immediately_lost/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -143,7 +143,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 My father works as an engraver of medals. Some time ago, he was commissioned to engrave a medal for a woman whose son had passed away—the woman was a foreigner, incidentally. The medal had to feature a specific logo, which the woman explained to my father was "Bitcoin" (though he doesn’t recall the details very clearly, as it was quite a long time ago). Recently, he came across the logo and showed it to me. We aren’t certain exactly when this request was made, but it was definitely between 10 and 20 years ago. Could this be one of the earliest versions of the Bitcoin logo? And is it possible that the woman’s son was one of the creators of Bitcoin, or someone who played a significant role in its development?
 
-3d ago
+4d ago
 
 ---
 
@@ -151,17 +151,11 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 ## Google News: "bitcoin"
 
-**[Why Now Is the Time to Add and Hold BTC](https://www.galaxy.com/insights/research/why-now-bitcoin-buy-hold-2026)**
+**[Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital](https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital)**
 
-We believe the bottom is in. Selling pressure has diminished, the debasement case has strengthened, and the crowd has left.
+Interest rates and oil are slipping and equities are rising, but crypto remains under pressure.
 
-Galaxy • 14h ago
-
----
-
-**[‘Guppy-Level Death’—Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets](https://www.forbes.com/sites/digital-assets/2026/10/26/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
-
-Forbes • 1d ago
+CoinDesk • 42m ago
 
 ---
 
@@ -169,31 +163,59 @@ Forbes • 1d ago
 
 Tom Lee’s bullish market outlook faces a near-term test as roughly $10.8 billion in Deribit Bitcoin options approach expiry. BlackRock’s IBIT attracted $110.3 million on…
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins](https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins)**
+**[Separation of assets: Thieves beat ex, take $10K and Bitcoin-stuffed tablet in Capitol Hill heist](https://www.capitolhillseattle.com/2026/10/separation-of-assets-thieves-beat-ex-take-10k-and-bitcoin-stuffed-tablet-in-capitol-hill-heist/)**
 
-Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied, with the DeFi index down 1.8% as the Fed begins a two-day meeting.
+Police say an early-morning apartment robbery on Capitol Hill netted a pair of thieves $10,000 in cash and a tablet tied to nearly $250,000 in cryptocurrency — a target the victim said was li…
 
-CoinDesk • 3h ago
-
----
-
-**[Luxor Technology raises $16M to expand AI hardware brokerage and compute trading](https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power)**
-
-Luxor is building price indexes and future contracts for compute power, adapting its Bitcoin hashprice derivative model for AI workloads.
-
-CoinDesk • 1h ago
+CHS Capitol Hill Seattle News • 2h ago
 
 ---
 
-**[UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest](https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429)**
+**[‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto](https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1)**
 
-Jaydip Modhwadia beats challenge designed to test real-world exploitability of PHP2Shell in around 3 hours
+MarketWatch • 1h ago
 
-The Register • 22h ago
+---
+
+**[Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244)**
+
+Investing.com • 3h ago
+
+---
+
+**[Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business](https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858)**
+
+CMT Digital led the round, which includes new funding and share sales, as Luxor expands into an AI infrastructure business.
+
+The Block • 5h ago
+
+---
+
+**[Missouri man pleads guilty to role in kidnapping, attempted robbery of CT couple over Bitcoin](https://www.courant.com/2026/10/27/missouri-man-pleads-guilty-to-role-in-kidnapping-attempted-robbery-of-ct-couple-over-bitcoin/)**
+
+According to authorities, he was tied to a plan involving six Florida men who beat and kidnapped two people during a carjacking in Danbury in 2024.
+
+Hartford Courant • 4h ago
+
+---
+
+**[Coinbase Now Offers Fixed-Rate Bitcoin-Backed Loans. Here's What Crypto Investors Need to Know.](https://www.fool.com/investing/2026/10/27/coinbase-offers-fixed-rate-bitcoin-backed-loans/)**
+
+The crypto exchange previously only offered Bitcoin-backed loans with variable rates.
+
+The Motley Fool • 1h ago
+
+---
+
+**[CryptoQuant: Long-Term Bitcoin Holders Go Quiet, Hinting at Early Bull Run](https://bitbo.io/news/bitcoin-holders-go-quiet/)**
+
+CryptoQuant says a decline in the realized cap share of bitcoin unmoved for 18 months or longer points to the early stages of a new bull market.
+
+Bitbo • 6h ago
 
 ---
 
@@ -201,31 +223,7 @@ The Register • 22h ago
 
 bitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula.
 
-Bitcoin Magazine • 14h ago
-
----
-
-**['Just a shareholder' Vivek Ramaswamy's Strive Inc. ties, Bitcoin bet](https://www.cincinnati.com/story/news/politics/2026/10/26/vivek-ramaswamy-firm-strive-inc-influence-controlled-company-investor/92274576007/)**
-
-Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics.
-
-Cincinnati Enquirer • 22h ago
-
----
-
-**[Current price of Bitcoin for October 27, 2026](https://fortune.com/article/price-of-bitcoin-10-27-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1h ago
-
----
-
-**[JPMorgan Predicts Bitcoin Will Outpace Stocks, Bonds, and Gold Over the Next Decade. Is Bitcoin Now a Screaming Buy?](https://www.fool.com/investing/2026/10/26/jpmorgan-predicts-bitcoin-will-outpace-stocks-bond/)**
-
-The leading cryptocurrency has outperformed all major asset classes over the last 10 years, and JPMorgan Chase expects the same over the next 10.
-
-The Motley Fool • 12h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -237,7 +235,7 @@ The Motley Fool • 12h ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 616 • 💬 449 • 2d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 618 • 💬 450 • 2d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -245,7 +243,7 @@ A PHP security challenge. Find the hidden bitcoin key. First person to get the w
 
 A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
-⬆️ 166 • 💬 58 • 1d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+⬆️ 180 • 💬 63 • 1d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
 ---
 
@@ -259,7 +257,7 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 4 • 💬 1 • 1d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 4 • 💬 1 • 2d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -267,13 +265,21 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 2 • 💬 0 • 28m ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 0 • 5h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+
+---
+
+**[Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank](https://news.ycombinator.com/item?id=50261818)**
+
+The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.
+
+⬆️ 2 • 💬 1 • 3h ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
 
 ---
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50245177)**
 
-⬆️ 1 • 💬 0 • 23h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 1 • 💬 0 • 1d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -281,7 +287,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...
 
-⬆️ 1 • 💬 0 • 5d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
+⬆️ 1 • 💬 0 • 6d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
 
 ---
 
@@ -289,7 +295,7 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 On Sunday evening, 25 October, unauthorised parties gained access to part of our systems. The vulnerability was fixed immediately.
 
-⬆️ 2 • 💬 0 • 21h ago • [Bitonic](https://bitonic.nl/en/news/308/security-incident-at-bitonic)
+⬆️ 2 • 💬 0 • 1d ago • [Bitonic](https://bitonic.nl/en/news/308/security-incident-at-bitonic)
 
 ---
 
@@ -297,7 +303,7 @@ On Sunday evening, 25 October, unauthorised parties gained access to part of our
 
 Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.
 
-⬆️ 8 • 💬 0 • 23h ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+⬆️ 96 • 💬 13 • 1d ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 
 ---
 
@@ -305,23 +311,33 @@ Despite putting over 20 years into the technology, Micron is sticking with the t
 
 ## YouTube Videos: "bitcoin"
 
+**[Crypto&#39;s Biggest Week in Regulation Just Happened](https://www.youtube.com/watch?v=YDwp5sPGzME)**
+
+Hyperliquid named Payward, Kraken's parent, as its intended first CFTC-regulated deployer on Monday. If regulators approve it, ...
+
+📺 Yahoo Finance
+
+👁️ 3K • 👍 208 • 💬 36 • ⏱️ 14:51 • 2h ago
+
+---
+
+**[This Bitcoin Signal Has NEVER Been Wrong Since 2012! And It’s Flashing Again (Be Ready!)](https://www.youtube.com/watch?v=IM8Lw39Y74M)**
+
+Thanks Coinbase for sponsoring this video. Save 80% on spot fees through my link - https://coinbase.com/aff/ccv?s=youtube Is the ...
+
+📺 Crypto Capital Venture
+
+👁️ 5K • 👍 345 • 💬 63 • ⏱️ 16:18 • 3h ago
+
+---
+
 **[Is Anthropic About to Crash The Crypto Market?](https://www.youtube.com/watch?v=Ii4yXzpW2iI)**
 
 Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 51 • ⏱️ 11:26 • 15h ago
-
----
-
-**[Bitcoin Crashed Below $80K… Here’s What Happens Next](https://www.youtube.com/watch?v=onqlGw7geD0)**
-
-Bitcoin crashed below $80K, South Korea's stock market is down 40%, and Elon Musk says the money funding AI just shut off.
-
-📺 Jesse Eckel
-
-👁️ 7K • 👍 148 • 💬 21 • ⏱️ 11:35 • 14h ago
+👁️ 55K • 👍 2K • 💬 62 • ⏱️ 11:26 • 20h ago
 
 ---
 
@@ -331,37 +347,17 @@ In this video, Sheldon shares the altcoin entries he is looking at, explains why
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 805 • 💬 37 • ⏱️ 25:21 • 5h ago
+👁️ 18K • 👍 916 • 💬 40 • ⏱️ 25:21 • 10h ago
 
 ---
 
-**[If You Hold Bitcoin Or Altcoins This Bull Market Cycle Could Change Your Life Forever](https://www.youtube.com/watch?v=NsfdGnkm7kI)**
+**[BITCOIN HOLDERS: DON&#39;T GET FOOLED NOW...](https://www.youtube.com/watch?v=f8oazMvmVk8)**
 
-Be honest, what would you do if you woke up and the cryptocurrency market had done a solid 14x jump in price? What would you ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
 
-📺 Money Rules - Investing Tips 
+📺 Crypto Rover
 
-👁️ 4K • 👍 807 • 💬 84 • ⏱️ 13:35 • 2h ago
-
----
-
-**[WARNING: Bitcoin Is ALMOST In The Entry Zone! [But This MUST Hold]](https://www.youtube.com/watch?v=-yPd8FgntFQ)**
-
-Bitcoin is falling hard into a critical decision point as U.S. midterm tensions rattle risk assets across the board. This is not the time ...
-
-📺 Crypto Banter
-
-👁️ 17K • 👍 976 • 💬 17 • ⏱️ 34:39 • 7h ago
-
----
-
-**[BITCOIN IS ABOUT TO TRAP EVERYONE!](https://www.youtube.com/watch?v=p7d3lgannnI)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXcm Up to 4000 USDT ...
-
-📺 The Moon Show
-
-👁️ 7K • 👍 422 • 💬 17 • ⏱️ 11:03 • 4h ago
+👁️ 17K • 👍 713 • 💬 32 • ⏱️ 8:38 • 13h ago
 
 ---
 
@@ -371,17 +367,7 @@ Chamath says Bitcoin is going to ZERO, while JPMorgan predicts it will outperfor
 
 📺 Natalie Brunell
 
-👁️ 29K • 👍 697 • 💬 66 • ⏱️ 10:30 • 18h ago
-
----
-
-**[BITCOIN: CALM BEFORE THE STORM!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=PlOneqnRLxU)**
-
-Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): https://partner.blofin.com/d/RT1M Get ...
-
-📺 Road To $1 Million USD
-
-👁️ 7K • 👍 211 • 💬 22 • ⏱️ 6:11 • 16h ago
+👁️ 33K • 👍 745 • 💬 71 • ⏱️ 10:30 • 23h ago
 
 ---
 
@@ -391,7 +377,7 @@ My crucial Bitcoin update: the demand zone, the market structure shift on the lo
 
 📺 100XClub
 
-👁️ 4K • 👍 477 • 💬 55 • ⏱️ 14:14 • 4h ago
+👁️ 7K • 👍 598 • 💬 71 • ⏱️ 14:14 • 9h ago
 
 ---
 
@@ -401,7 +387,27 @@ Before You Buy the Crypto Dip, WATCH THIS!! ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 2K • 💬 103 • ⏱️ 11:13 • 1d ago
+👁️ 68K • 👍 2K • 💬 107 • ⏱️ 11:13 • 1d ago
+
+---
+
+**[Election Mayhem Incoming🚨Is Bitcoin Ready?](https://www.youtube.com/watch?v=053Ezo9cazU)**
+
+Bitcoin slipped below 80K as Iran fears, Brazil's election and the US midterms rattle markets. We cover Strategy pausing bitcoin ...
+
+📺 Paul Barron Network
+
+👁️ 61K • 👍 1K • 💬 209 • ⏱️ 16:19 • 1d ago
+
+---
+
+**[$10 Trilion Global Market Bloodbath Sends Bitcoin Below $80K!](https://www.youtube.com/watch?v=logsxx7PJbE)**
+
+Global stocks have lost $10 trillion from their yearly highs, Bitcoin has fallen below $80000, and fear is spreading across financial ...
+
+📺 Simply Bitcoin
+
+👁️ 49K • 👍 2K • 💬 121 • ⏱️ 21:54 • 2d ago
 
 ---
 

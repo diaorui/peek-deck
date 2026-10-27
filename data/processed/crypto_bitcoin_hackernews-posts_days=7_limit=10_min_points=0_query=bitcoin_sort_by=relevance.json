@@ -9,8 +9,8 @@
       "url": "https://stealmybitcoin.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50224916",
       "author": "cloudlandsdev",
-      "points": 616,
-      "num_comments": 449,
+      "points": 618,
+      "num_comments": 450,
       "created_at": "2026-10-24T20:30:31Z",
       "object_id": "50224916",
       "image": null,
@@ -23,8 +23,8 @@
       "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
       "hn_url": "https://news.ycombinator.com/item?id=50237379",
       "author": "davikr",
-      "points": 166,
-      "num_comments": 58,
+      "points": 180,
+      "num_comments": 63,
       "created_at": "2026-10-26T00:15:17Z",
       "object_id": "50237379",
       "image": "https://opengraph.githubassets.com/1c34d833fdca9a4559becb96a60ea376d7aefd537dc32e41af8bff3cbafe5ff9/KillaBoi/StealMyBitcoin-PoC",
@@ -65,7 +65,7 @@
       "url": "https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html",
       "hn_url": "https://news.ycombinator.com/item?id=50259823",
       "author": "bookofjoe",
-      "points": 2,
+      "points": 4,
       "num_comments": 0,
       "created_at": "2026-10-27T14:20:37Z",
       "object_id": "50259823",
@@ -73,6 +73,20 @@
       "description": "The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.",
       "favicon": "https://slate.com/media/sites/slate-com/icon.180x180.png",
       "site_name": "Slate Magazine"
+    },
+    {
+      "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+      "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
+      "hn_url": "https://news.ycombinator.com/item?id=50261818",
+      "author": "bookofjoe",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-10-27T16:40:12Z",
+      "object_id": "50261818",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/heatbit-bitwater-decrypt-style-gID_7.jpg",
+      "description": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
+      "favicon": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-96x96.png",
+      "site_name": "Decrypt"
     },
     {
       "title": "Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can",
@@ -121,8 +135,8 @@
       "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
       "hn_url": "https://news.ycombinator.com/item?id=50245014",
       "author": "rbanffy",
-      "points": 8,
-      "num_comments": 0,
+      "points": 96,
+      "num_comments": 13,
       "created_at": "2026-10-26T15:05:04Z",
       "object_id": "50245014",
       "image": "https://images.hothardware.com/contentimages/newsitem/71935/content/16x9_2133x1200_highres-micron-boise-fab-photo.jpg",
@@ -131,7 +145,7 @@
       "site_name": "HotHardware"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-10-27T14:48:39.508126+00:00"
+  "fetched_at": "2026-10-27T19:51:27.984401+00:00"
 }
