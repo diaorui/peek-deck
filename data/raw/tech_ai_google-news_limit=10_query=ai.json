@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WmtrREFiT2I0QkhBd2lscUk0YzhjYU5RX0xUTFN4Q0lhemNRQW8xN0VGOTZ3cFpyYm9xa0xSaUQ1SDAwZXN3UUdNbGFzMHZWT3FtVGEzTlNWYUxpQUJPb3E5bUk0ckxjenFLVUItYk1zYUNl0gF6QVVfeXFMUEcxZUliMkFyZC1vOUFTcGkxQ3oxd0Mta05IaV8tM05uQ1gyRndyYWxTbl9GUUdob21fTGt5aEFGUTV0aEpaYWtzQ1F6UE1ITzFDY1pnc2hOTDFXbHlnQlVKWGhyODllVVdOanExTjN5OU1CNGZUM3VLV2c?oc=5",
+      "pub_date": 1793126462.0,
+      "article_url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
+      "description": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy."
+    },
+    {
       "headline": "In China, the AI bubble has already burst",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -15,96 +25,86 @@
       "description": null
     },
     {
-      "headline": "Anthropic IPO filing reveals AI security breaches, training halt",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5",
-      "pub_date": 1793124112.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/34f39993c86555d0de32d036c1e222ba.jpg",
-      "description": "Anthropic revealed four AI models accessed real-world computer systems during security tests, raising new concerns about AI safety ahead of its public debut."
-    },
-    {
-      "headline": "Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5",
-      "pub_date": 1793041175.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
-      "description": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission."
-    },
-    {
-      "headline": "What is the 'AI bubble' and what happens if it pops?",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY01QUmpyZmdVdTVsenVuMlQ5TVBybG45VG5ZdGRyUXEyYXltQnhPWlhUbUpVLTNQTEJLWTVPTWJtWm1xVW9KOFdFSC1lZlZvNWNtM2JsdlpKXzNra0gwTW5kM0FKS29INk9CdWhxeHhWbkJnYjM1Mk84eWRGeVM2empGXzIySkNLUW9YMQ?oc=5",
-      "pub_date": 1793129488.0,
-      "article_url": "https://www.usatoday.com/story/money/2026/10/27/anthropic-ipo-ai-bubble/92352136007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/20/USAT/92352160007-20261015-t-205551-z-1697502751-rc-29-lnairmb-6-rtrmadp-3-anthropicipoinvestors.JPG?crop=4999,2812,x0,y261&width=3200&height=1801&format=pjpg&auto=webp",
-      "description": "In the wake of Anthropic's release of its public offering prospectus, experts share their takes on the \"AI bubble.\""
-    },
-    {
-      "headline": "Meta's nearly $100 billion stock sale is a turning point for how Big Tech pays for AI",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN3hiMUxqR2tHRWdQY2xwX05JVVU4My1BWnpLdzJadkZ4bWJYT0N4T015RTdjcEQySF8xR2lBWElsM1JadEU2V2pVSkRHYXhORUhEZkdjSk5HQVBCOC02S0gxODNwLTZTa0lrTXg4VXBCQWJzV3FfSThBZnRnemZ6c0I2YkRHZVVmenNDY3hrcW0wbVE1UzBCRm5fcHcwRUZHQnlOXy1xVkFNTVVJemlqa1JleHl6Y0ZqUUc0VlBldUdaZFFoaHVIRnhycjJwd0E0N19sUWJPQQ?oc=5",
-      "pub_date": 1793116353.0,
-      "article_url": "https://finance.yahoo.com/markets/article/metas-nearly-100-billion-stock-sale-is-a-turning-point-for-how-big-tech-pays-for-ai-140424769.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c12be9bfb033e766f2596143dd689e8b10ec6cf15995a87d0b851e55cd076a11/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9f28a11b-23dd-423d-bc96-5640504920d6",
-      "description": "For a decade, Big Tech's cash machines paid for every moonshot. Now Meta is passing the hat to shareholders."
-    },
-    {
-      "headline": "Google to report Q3 results as investors focus on AI growth, weigh Meta Muse AI risk",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFNCNzhFanV1OTduaTk2dkZ3VzcxSF9zcWl3NzJVdTIwUGNDLXZZMTNnVjA2S3A0eUpOQ1R1Qk1VS3dkbHpzaVBEQ1lMUUdhTExFUDFuRTEySGh1aGdzVXlWeGVrdy0ta1FDelc0NWVHal9GODJfdjJ0Qy1PMWJzQ3psLTNvZWJBWWJMdXVxdk9hZkFfVi1pLXpwdVFtU0pMZVRLalM0NlZnZlE4WUl2OXhXbGp5OWhtYUNiRjRuWVprQlNycjhlbTZQa21yZTV2bFVSY0hqWnVYU1k?oc=5",
-      "pub_date": 1793128584.0,
-      "article_url": "https://finance.yahoo.com/technology/article/google-to-report-q3-results-as-investors-focus-on-ai-growth-weigh-meta-muse-ai-risk-191624324.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Google will report its third-quarter earnings Wednesday."
-    },
-    {
-      "headline": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
-      "pub_date": 1793090453.0,
-      "article_url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108443817-1792619674080-gettyimages-2296215637-META_CONNECT.jpeg?v=1792795588&w=1920&h=1080",
-      "description": "Meta on Monday announced plans\u00a0to raise a total of $95 billion to support its investments in artificial intelligence infrastructure."
-    },
-    {
-      "headline": "CNBC Workforce Executive Summit live updates: How AI is reshaping work and jobs",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iWGtJLTh5eFB4ZlUtdHFabkI1Z1B0VlNMWmZLX2FncjNKYzNQOTdYM19sR2FoLVVudVhLT0JlS0JIdmxCcWVrRTNzcV9JUHR6RWE2RUJPLVJjbVFBWkpLNkV5NzVWT2pzQ09aTDBSSFdrdFpUZTJsQlNyY9IBgAFBVV95cUxPQU01YjZ6bUdEZzdGYTZDNE0zOGtpNzk2Ym1SS1lNcWRkUXJpT0o5NXVkQ2QzNUI4Q1VScXhQTjE1NVlJemJSZ3NablVkeHFMb3JnZzliZzJxWlp4NGxaemtpb2VuVWg5VDBIa3ZReTRzNjJDY1l6Y25VeFMyay1uMw?oc=5",
-      "pub_date": 1793129399.0,
-      "article_url": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108470353-1793130191009-CNBC_WEC_SMMT_BB_102726_1098.jpg?v=1793130288&w=1920&h=1080",
-      "description": "Follow CNBC's 2026 Workforce Executive Summit for live updates on Walmart's AI strategy, changing job skills, hiring, employee benefits and the future of work."
-    },
-    {
-      "headline": "Ex-Google engineer Nate Soares hasn\u2019t added to his 401(k) in a decade because he's an 'AI kills all humans guy'",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPS0QyWXN4dXlDR1hfS0I3bEllRG04TjJQSkVrMGhodmVKenNRb2JYZGx6WUg5SWZHbThub3RyVG1CYmdkTTFzNXduczRYd1FrMHV0Y1FPQW52V1UtTGxFY283Z2hwYmc2bEpzemw0SktMSER6T2lBMmk3bw?oc=5",
-      "pub_date": 1793129571.0,
-      "article_url": "https://fortune.com/2026/10/27/ai-humanity-nate-soares-401k-retirement/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298162116-e1793125988691.jpg?resize=1200,600",
-      "description": "The coauthor of \u201cIf Anyone Builds It, Everyone Dies\u201d puts the odds that humanity doesn\u2019t have 10 years left at better than even."
-    },
-    {
-      "headline": "Elon Musk\u2019s AI Odyssey review \u2013 the dullest, most pointless riposte possible to Christopher Nolan\u2019s brilliant epic",
+      "headline": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3dBazFsb1RuR0tNZllXdEJOS1RvUDc4ZGhFclVLbTZCeWZKQzY1aWNXU2tnNEdoS2E0RWR3NThGcTZyN1NwZjBFOXduX3V6V29acTczTFA4SGFSa01QWUw1eW5LeWt1a2M4QWg0RmkwZldIbThKd2FnT0ZZb1BmNXh0Q1pvbDN6SWVTUjhTVkc3V2RXQ082N2p3?oc=5",
-      "pub_date": 1793110680.0,
-      "article_url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
-      "image": "https://i.guim.co.uk/img/media/92774383fe7ce51c65f27cb958af0171dee508c7/561_20_1550_1241/master/1550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=2d661d233a58b4257142862bda0fd231",
-      "description": "It is hardly a shock that Grok AI\u2019s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won\u2019t"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzM2ekpCRDItOWdneU1qVVdIMlpNeVJLLWpUZDYtc2FPclJCM0JLTEVGc2JGS0NDbFpldXlaZlBFclJwTnFfSmFQUU0tLWRXaFI1NlFXRW1Bd1ZkbkwxdHQzcDJQOTIzOVFOZzFXLTNXVWI1T1pRd0hrQVRFdVplV3ZGb2xrYW84SXN2cUM1eWVXZEdPQVZN?oc=5",
+      "pub_date": 1793110140.0,
+      "article_url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "image": "https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820",
+      "description": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing\u2019s AI boom"
+    },
+    {
+      "headline": "China AI Hardware Firms Face Earnings Test After Stock Selloff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2w4c1lNNG9TSi1yQU1wU0tyLTNWNTdJMXF5Nzhkci1NTmQ0V2tfOXRlcS1mLUNucnFPeFRGY2w5UW1qQUctWVdpZjBDYkczSWgzWU9LVGpKcHFma3hKTnotR3NpNWxZU1ZhLWg1NUNLZWVBMklibUVGSnVQSElzbVRJWFVoQWZYT3hXNkVlZzk5ZUdybjJkTFF0M3dPXy1MQmotdFJMOW9KUGRkcjF0eFQwUQ?oc=5",
+      "pub_date": 1793142000.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/china-ai-hardware-firms-face-earnings-test-after-stock-selloff",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGhtNld4MnNDbllBY2xSY2NfTlJoUThrUU01dlllU2NaZ2RjdXlwY25kZll1bFNjRWUxQUpWX2xxMjMwUVJSbHFoTjB0VXJkMTVTYjRqYVJtSTI2eFl0anNzckJROW5SQk5TTko0WEhlY3VNNy14M0pNZWJLS2hWUkloVzZRUFhNZ1RPSjJYRXMyS3dVUDVsWjFTUjBvWmVCOTJDajgxQ3lGcDBOMnhsZUU0VERFNEE?oc=5",
+      "pub_date": 1793140200.0,
+      "article_url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+      "image": "https://i.guim.co.uk/img/media/aaba9471514c493b64cda0d52e0de7fe61c3d279/124_0_3703_2963/master/3703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec2877bdeec17ca02797b769d571c765",
+      "description": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds"
+    },
+    {
+      "headline": "The Best Ways To Tell If Someone Is Using AI Glasses",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1lvYktkY1N4YktRWWQ2WnFaWU9LZDk4ckNMYmlKdm9LcWc2M3lFS0NyUUQ1dko4ejdyV3ZaQmE0OHhSRjhZWDBKNzdocHJQWUJWRkgtcVMwbDR2N2VfeFE2UFhsUWhvY2hKci1KVW9HMS15b0lSNkppVk5aTUE3T1VVc0k?oc=5",
+      "pub_date": 1793140200.0,
+      "article_url": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
+      "image": "https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg",
+      "description": "If you're concerned about being unknowingly filmed with AI glasses, check for blinking LED lights or rely on certain apps to identify them as soon as possible."
+    },
+    {
+      "headline": "Working with academic communities to build scientific understanding",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
+      "pub_date": 1793050970.0,
+      "article_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&h=900&fit=fill",
+      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
+    },
+    {
+      "headline": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3pLRFBNeXh6cnEtbC01NVF5SU5oSUZwSGZxa082aWNrT25NbllGYnFDUy1nNW9DOGFpS2xvY2dRbkRNRVdzaVd0NlRSR0M3UGlIX2kzUGwxTnA0X19MQkhfdmd6R3RTQ1FqSG91Q0pvSlF2bGR4VkVBR3JQMEpYUmQ1bjdSamR6clI2cGkzMmJZU2ZOcG81Tjg3WnhtNXRGWDZxU0R3NGVYZGw3Y3cxSFlveFlFbzR2bE1CbjdxM0xoNE1TTUow?oc=5",
+      "pub_date": 1793120888.0,
+      "article_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+      "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+    },
+    {
+      "headline": "AI refutes 30-year-old mathematical assumption in computer science",
+      "source": "New Scientist",
+      "source_url": "https://www.newscientist.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1hoX0pzeVBvZW5PNVFja1JFWFlLUHgzN21vS2duYV9oMW9QSDNGcENlM09rZlNXeW1fSHloTVdmY05rNm9tZ2lQOHVCTVAtbVJRN1RDRU00SHRNVzRnbzc5TUx0aVd2YlNWMXpvbE4wR040U3FPVzlMc2xfc3lieVFNc3ZQTGpPSHkwS1QxOG5VVHBlcG5rZmpWTFhIS05Ccjk1T2E1M0VWa2xjeVNoMG5B?oc=5",
+      "pub_date": 1793115011.0,
+      "article_url": "https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318369568.jpg",
+      "description": "A central tenet in computer science has apparently been disproven by OpenAI, a result that will force textbooks to be rewritten if it is confirmed"
+    },
+    {
+      "headline": "U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LTlJrMGo3UjlqTDBpQ2hCcDFUbVdBWUtFRjhSMTJCdWxqQVgtTURUNVpESlhjbU5NeVZLc0tpbGJVaERSVFF4YnA3RDlqUWl4czNFMWJzenI0M0RNSElTblF1QXBGb1VSX29zSQ?oc=5",
+      "pub_date": 1793099208.0,
+      "article_url": "https://www.nytimes.com/2026/10/27/business/pensions-ai.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T19:51:48.109072+00:00"
+  "fetched_at": "2026-10-27T23:33:14.442126+00:00"
 }

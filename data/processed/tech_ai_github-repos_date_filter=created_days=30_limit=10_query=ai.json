@@ -1,6 +1,22 @@
 {
   "repos": [
     {
+      "full_name": "Zagitta/gpu-unlock",
+      "name": "gpu-unlock",
+      "owner": "Zagitta",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/865977?v=4",
+      "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "preview_image": "https://opengraph.githubassets.com/4d44381103a947606a6023253fd6286b34b60f7afa3a43f5ad7742736e3f6c41/Zagitta/gpu-unlock",
+      "stars": 11294,
+      "stars_display": "11.3k",
+      "forks": 1103,
+      "forks_display": "1.1k",
+      "language": "C",
+      "topics": [],
+      "updated_at": "2026-10-27T23:09:01Z"
+    },
+    {
       "full_name": "KKKKhazix/AIHOT",
       "name": "AIHOT",
       "owner": "KKKKhazix",
@@ -10,7 +26,7 @@
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
       "stars": 8732,
       "stars_display": "8.7k",
-      "forks": 2083,
+      "forks": 2084,
       "forks_display": "2.1k",
       "language": "TypeScript",
       "topics": [
@@ -30,10 +46,10 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 6079,
+      "stars": 6084,
       "stars_display": "6.1k",
-      "forks": 884,
-      "forks_display": "884",
+      "forks": 885,
+      "forks_display": "885",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-10-26T15:39:40Z"
@@ -46,7 +62,7 @@
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 5396,
+      "stars": 5401,
       "stars_display": "5.4k",
       "forks": 156,
       "forks_display": "156",
@@ -90,7 +106,7 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "preview_image": "https://opengraph.githubassets.com/6b52771731dc5a2e478f00d501e5ca69d9dedf14a7b8f516b1d9796faa736ab1/onehumanbeing/esp32-iphone-agent",
-      "stars": 4006,
+      "stars": 4013,
       "stars_display": "4.0k",
       "forks": 531,
       "forks_display": "531",
@@ -112,10 +128,10 @@
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 3993,
+      "stars": 3994,
       "stars_display": "4.0k",
-      "forks": 157,
-      "forks_display": "157",
+      "forks": 158,
+      "forks_display": "158",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-10-09T09:37:21Z"
@@ -128,7 +144,7 @@
       "description": "AI API \u4e2d\u8f6c\u7ad9\u8bc4\u6d4b\u6392\u884c\u4e0e\u5207\u6362\u5de5\u5177\uff1a\u5b9e\u6d4b\u53ef\u7528\u7387\u3001\u5ef6\u8fdf\u4e0e\u4ef7\u683c \u00b7 Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "url": "https://github.com/Folkbench/folkbench",
       "preview_image": "https://opengraph.githubassets.com/44255c4dfb46381f4789ce2dc024f76d1e4dbf3faf07959f54fc96c1aca05d32/Folkbench/folkbench",
-      "stars": 3790,
+      "stars": 3791,
       "stars_display": "3.8k",
       "forks": 21,
       "forks_display": "21",
@@ -143,28 +159,6 @@
       "updated_at": "2026-10-26T17:32:01Z"
     },
     {
-      "full_name": "openfilm/openfilm",
-      "name": "openfilm",
-      "owner": "openfilm",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/336853193?v=4",
-      "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
-      "url": "https://github.com/openfilm/openfilm",
-      "preview_image": "https://opengraph.githubassets.com/6004db075bb4e192996527b9322b422e36a974ad879c7ef819dc5d65335eef12/openfilm/openfilm",
-      "stars": 3171,
-      "stars_display": "3.2k",
-      "forks": 295,
-      "forks_display": "295",
-      "language": "TypeScript",
-      "topics": [
-        "ai-video",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "html"
-      ],
-      "updated_at": "2026-10-26T23:05:03Z"
-    },
-    {
       "full_name": "rddmwmddr/android-ad-cleaner",
       "name": "android-ad-cleaner",
       "owner": "rddmwmddr",
@@ -172,10 +166,10 @@
       "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "preview_image": "https://opengraph.githubassets.com/90ae0a75a3e9c38cd8d52a7d12f46bcd5561230371bacc791c758845c57ae397/rddmwmddr/android-ad-cleaner",
-      "stars": 3151,
+      "stars": 3210,
       "stars_display": "3.2k",
-      "forks": 267,
-      "forks_display": "267",
+      "forks": 270,
+      "forks_display": "270",
       "language": "Python",
       "topics": [
         "adb",
@@ -187,32 +181,32 @@
       "updated_at": "2026-10-27T14:43:09Z"
     },
     {
-      "full_name": "Leonxlnx/earshot",
-      "name": "earshot",
-      "owner": "Leonxlnx",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "preview_image": "https://opengraph.githubassets.com/bfb72f0aa533890323d43000bbc580bf8f78bf6c276176428d4d82d88c37de83/Leonxlnx/earshot",
-      "stars": 3037,
-      "stars_display": "3.0k",
-      "forks": 186,
-      "forks_display": "186",
-      "language": "Python",
+      "full_name": "openfilm/openfilm",
+      "name": "openfilm",
+      "owner": "openfilm",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/336853193?v=4",
+      "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
+      "url": "https://github.com/openfilm/openfilm",
+      "preview_image": "https://opengraph.githubassets.com/6004db075bb4e192996527b9322b422e36a974ad879c7ef819dc5d65335eef12/openfilm/openfilm",
+      "stars": 3187,
+      "stars_display": "3.2k",
+      "forks": 296,
+      "forks_display": "296",
+      "language": "TypeScript",
       "topics": [
-        "ai-agents",
-        "audio",
+        "ai-video",
         "claude-code",
-        "mcp",
-        "sound-design"
+        "codex",
+        "coding-agents",
+        "html"
       ],
-      "updated_at": "2026-10-22T23:12:59Z"
+      "updated_at": "2026-10-26T23:05:03Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-09-27",
   "days": 30,
   "limit": 10,
-  "total_count": 493551,
-  "fetched_at": "2026-10-27T19:51:25.310973+00:00"
+  "total_count": 495180,
+  "fetched_at": "2026-10-27T23:32:47.984109+00:00"
 }

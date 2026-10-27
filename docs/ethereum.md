@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-27T19:51:58.496831+00:00'
+updated: '2026-10-27T23:33:16.288793+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 27, 2026 at 19:51 UTC  
+**Last Updated:** October 27, 2026 at 23:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,336.01
+### $2,348.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
+**24h:** +1.0%  
 **7d:** -4.9%  
-**30d:** -12.6%  
+**30d:** -12.7%  
 **90d:** +22.5%  
-**1y:** -40.9%  
+**1y:** -41.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $286.87B
+**Market Cap:** $286.82B
 Rank #2
 
 **Circulating Supply:** 122,167,205 ETH
@@ -62,7 +62,7 @@ No max supply
 -52.5%
 
 **All-Time Low:** $0.43
-+542106.4%
++542185.0%
 
 ---
 
@@ -152,51 +152,25 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
+**[Ethereum Price Prediction: Can ETH Get Back to $2,700 by the End of November?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-eth-back-222553067.html)**
+
+ETH sits 15% below a key price level with ETF outflows piling up, a major upgrade delayed indefinitely, and sellers hitting it harder than Bitcoin. Several factors need to align fast for any November recovery to happen.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders](https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders)**
 
 Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.
 
-CoinDesk • 11h ago
-
----
-
-**[Crypto giants double down on bitcoin and ethereum](https://finance.yahoo.com/video/crypto-giants-double-down-on-bitcoin-and-ethereum-185113565.html)**
-
-Scott Melker breaks down the latest movements in the crypto sector, including Strategy (MSTR) repurchasing $205M of its own stock (STRC), Strive's (ASST) biggest-ever purchase of 6,182 bitcoin (BTC-USD), and Bitmine (BMNR) buying 10,452 ethereum (ETH-USD) as it approaches its stated 5% goal.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Current price of Ethereum for October 27, 2026](https://fortune.com/article/price-of-ethereum-10-27-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
-
----
-
-**[Circle gives its Bitcoin-backed token one balance across Ethereum and Arc](https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/)**
-
-Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback.
-
-CryptoSlate • 1d ago
+CoinDesk • 15h ago
 
 ---
 
 **[Most big cryptocurrencies fall on Sui, Ethereum drops](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-fall-on-sui-ethereum-drops-8c9e448b-6821903d8382)**
 
 MarketWatch • 1d ago
-
----
-
-**[Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?](https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/)**
-
-Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need.
-
-24/7 Wall St. • 1d ago
 
 ---
 
@@ -224,11 +198,35 @@ The Block • 1d ago
 
 ---
 
-**[Crypto News: AlphaPepe To Announce New CEX Partner In 4 Days While Ethereum Price Prediction Points To $3,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-to-announce-new-cex-partner-in-4-days-while-ethereum-price-prediction-points-to-3-000-1036668146)**
+**[Circle gives its Bitcoin-backed token one balance across Ethereum and Arc](https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/)**
 
-MONACO, Oct.  26, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe as the countdown to its next CEX partnership enters the final ...
+Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback.
 
-markets.businessinsider.com • 17h ago
+CryptoSlate • 1d ago
+
+---
+
+**[Current price of Ethereum for October 27, 2026](https://fortune.com/article/price-of-ethereum-10-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 10h ago
+
+---
+
+**[ETHGas lets institutions reserve Ethereum blockspace with built-in compliance screening](https://cryptobriefing.com/ethgas-institutions-reserve-ethereum-blockspace/)**
+
+ETHGas lets institutions reserve Ethereum blockspace with guaranteed inclusion and sanctions screening, backed by a $3 billion ether.fi deal.
+
+Crypto Briefing • 9h ago
+
+---
+
+**[Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?](https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/)**
+
+Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need.
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -236,13 +234,13 @@ markets.businessinsider.com • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Raoul Pal :&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=s5ML9SCXElE)**
+**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
 
-Raoul Pal believes crypto may be entering a much bigger phase as AI, global liquidity, and blockchain infrastructure begin to ...
+Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
 
-📺 Crypto Nutshell
+📺 Dr. Samuel Allen Alexander
 
-👁️ 11K • 👍 156 • 💬 25 • ⏱️ 24:09 • 2d ago
+👁️ 25K • 👍 398 • 💬 152 • ⏱️ 34:10 • 8h ago
 
 ---
 
@@ -252,87 +250,87 @@ BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no
 
 📺 Yahoo Finance
 
-👁️ 21K • 👍 246 • 💬 146 • ⏱️ 14:51 • 1d ago
+👁️ 21K • 👍 248 • 💬 146 • ⏱️ 14:51 • 1d ago
 
 ---
 
-**[Ethereum vs Bitcoin: What Altcoins Need Right Now](https://www.youtube.com/watch?v=SoiOcGcqLuI)**
+**[Is $2,000 Ethereum Next? 8 Crypto Charts In 8 Minutes](https://www.youtube.com/watch?v=xmD2fbeICxA)**
 
-Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we track, only seven did better. So when will altcoins ...
+Bitcoin just lost its parallel channel. Is a $2000 Ethereum next? Nick Valdez of Verified Investing runs through eight crypto charts ...
 
-📺 More Crypto Online
+📺 Verified Investing
 
-👁️ 16K • 👍 321 • 💬 17 • ⏱️ 13:01 • 2d ago
-
----
-
-**[My Live Trading Bot Built with Claude Code - Passive Income using Ethereum Day Trading](https://www.youtube.com/watch?v=yNIzPkK0gB8)**
-
-Complete Tutorial Guide: https://tr.ee/tPdNUp The build connects live trading, day trading, live trading strategy, claude ai free ...
-
-📺 Tyler Reeves
-
-👁️ 11K • 👍 66 • 💬 79 • ⏱️ 6:08 • 2d ago
+👁️ 8K • 👍 232 • 💬 7 • ⏱️ 8:04 • 1d ago
 
 ---
 
-**[ETH HOLDERS: The Biggest Company Buyer Of ETH Is Almost Done Stacking. Who Holds Up Your FLOOR?](https://www.youtube.com/watch?v=nEeO1P1lNGE)**
+**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
 
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/ded7dc93 Connect With Us: Email: Team@bullrunners.com ...
+Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
 
 📺 BULLRUNNERS
 
-👁️ 1K • 👍 10 • 💬 1 • ⏱️ 11:35 • 23h ago
+👁️ 241 • 👍 27 • 💬 25 • ⏱️ 15:18 • 1h ago
 
 ---
 
-**[CRITICAL MOMENT FOR ETH TODAY! (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=jMu3SzHjx6M)**
+**[Fastest Horse? 🐎🚀 SOL vs NEAR vs ETH, Quantum Dilution, China + Gold vs BTC](https://www.youtube.com/watch?v=vpcBKMVa3jA)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
 
-📺 Cilinix Crypto
+📺 InvestAnswers
 
-👁️ 1K • 👍 13 • 💬 15 • ⏱️ 4:51 • 1d ago
-
----
-
-**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
-
-Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
-
-📺 Dr. Samuel Allen Alexander
-
-👁️ 13K • 👍 299 • 💬 112 • ⏱️ 34:10 • 4h ago
+👁️ 84K • 👍 3K • 💬 156 • ⏱️ 47:37 • 2d ago
 
 ---
 
-**[My Ethereum Long Setup: Order Block, Fibonacci &amp; Liquidity#Ethereum #ETH #Shorts](https://www.youtube.com/watch?v=6qDkGUMwk0I)**
+**[BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3V5ddrnS8SU)**
 
-MEXC: https://cryptogainers.short.gy/MEXC-20 20% Lifetime Fee Discount + 50 USDT Bonus + 3K BTC/USDT Airdrop!
+BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 CryptoHersens
+📺 Crypto World
 
-👁️ 1K • 👍 91 • 💬 1 • ⏱️ 1:39 • 1d ago
-
----
-
-**[I SOLD My Ethereum.. 69-Day Streak Hanging by $5!!](https://www.youtube.com/watch?v=QeL6MXLXS-k)**
-
-Toobit - where I trade (Toobit x AlexMarzell: Win 8810 in Rewards + VIP Bonuses, until 31 Oct) https://marzell.org/tb-v100 ...
-
-📺 Marzell Crypto
-
-👁️ 313 • 👍 11 • 💬 1 • ⏱️ 3:21 • 8h ago
+👁️ 13K • 👍 329 • 💬 56 • ⏱️ 18:54 • 1d ago
 
 ---
 
-**[BITCOIN TUESDAY LIQUIDATION TRAP!? I&#39;M $5.5M SHORT BTC &amp; ETHEREUM!!](https://www.youtube.com/watch?v=BesZsOHBLWA)**
+**[Tarun Chitra: Ethereum Is The Cryptographic Safety Net For What Comes Next (Full Interview)](https://www.youtube.com/watch?v=dOZIEhgAxXc)**
 
-BITCOIN PRICE ANALYSIS | BITCOIN TRADING | BITCOIN HEATMAP | BITCOIN FED DECISION Bitcoin price analysis for ...
+Tarun Chitra says the future of money will be built to survive even if all of today's cryptography breaks. In this conversation, he ...
 
-📺 TMG Trades
+📺 The Rollup
 
-👁️ 8K • 👍 359 • 💬 68 • ⏱️ 15:08 • 1d ago
+👁️ 6K • 👍 67 • 💬 4 • ⏱️ 23:11 • 1d ago
+
+---
+
+**[Bitmine Will Soon Own 5% of All ETH, So What Does It Do Next?](https://www.youtube.com/watch?v=CMIcWdVCVFY)**
+
+Bitmine is closing in on 5% of all $ETH: will it start investing elsewhere, or just sit on its holdings? Strive was able to buy that 6000 ...
+
+📺 The Wolf Of All Streets
+
+👁️ 746 • 👍 23 • 💬 63 • ⏱️ 1:33 • 1d ago
+
+---
+
+**[Ethereum: The Seed of Self-Owning Taxis &amp; All Crypto! #shorts](https://www.youtube.com/watch?v=1ZZRk36QXJo)**
+
+Autonomous vehicles meeting blockchain technology. Ride-sharing becomes decentralized as taxis own themselves through ...
+
+📺 SWENDAL
+
+👁️ 1 • ⏱️ 0:18 • 3h ago
+
+---
+
+**[Raoul Pal :&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=s5ML9SCXElE)**
+
+Raoul Pal believes crypto may be entering a much bigger phase as AI, global liquidity, and blockchain infrastructure begin to ...
+
+📺 Crypto Nutshell
+
+👁️ 11K • 👍 159 • 💬 25 • ⏱️ 24:09 • 2d ago
 
 ---
 
