@@ -25,14 +25,14 @@
       "description": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
     },
     {
-      "headline": "Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRF9EQ3JLeWVSczNUOHR6Z1NqajRCZGxKV2RNSTM4SmhyRTY0clllZjhXM1p6NE5KOEV5c2thYlA1Rm43RHpzQWF6ZmZEclNGbXpaNXBEam9FNFlPeUppeVRUc2Q3X1NxMm5ITXBTX1JvZWUtYmYzM0d1bWZpX3E0U3RTVUwzdTRncEhSSThUck9MS3pqUElMOXZLbDdLOHp5cnBVak9iOEtpbV95THNIdWIteVdzczdRdDIzVXZGY2Fkckh2OWI3dEg2RWJZUXBPd3RiM0JUcnYxTUhINFYzN292LU9jSFl3U0U1eERjeDlVdw?oc=5",
-      "pub_date": 1793004530.0,
-      "article_url": "https://www.tradingview.com/news/financemagnates:79c912d24094b:0-why-is-crypto-going-down-bitcoin-tests-80-000-as-ethereum-xrp-and-dogecoin-sink-to-august-lows/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Crypto prices kept sliding today (Monday), with Bitcoin (BTC) at $79,979 on Binance at 08:22 UTC, about 6% below last Wednesday's high of $84,898. Ether, XRP and Dogecoin fell to their lowest prices since August.The selloff started on Thursday, when worries about how artificial intelligence spendin\u2026"
+      "headline": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbG0zTWZxMElrbmRVTXJOdEFjWllRMlo5N0FQOTh6SEMzVjNYem1VQjlwM2JHRHViV1J0UVNRZ2FmNTZEZlY5SmFPZ3RlbzVSUjlTM2gyY1lybVZGaWhpRmFneVkxTnNUNnlxOGpJcnFVOHVHbm1ZM01LOGNMdTlYVmRBODVramItS0VWRXRGaGJBQURQWUxnNVR3?oc=5",
+      "pub_date": 1793028963.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-keeps-buying-153603798.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0c2d2241b63c48fbd55a055ae7e22c384d2c07c31832d0263207ad428b921631/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F26f266e3213a240ff5bd5eed30fafd7e.jpg",
+      "description": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares\u2014part of what it calls the largest equity buyback any crypto treasury company has run."
     },
     {
       "headline": "Tom Lee insists 'crypto bull market is underway' as Bitmine adds 10,452 ETH",
@@ -45,11 +45,11 @@
       "description": "The company holds 4.95% of Ethereum's supply, with $15 billion in combined crypto, cash, marketable securities, and other investments."
     },
     {
-      "headline": "Current price of Ethereum for October 26, 2026",
+      "headline": "Current price of Ethereum for Oct 26, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNMkw0eXJZU2dCeEhaaVAtUXhQN2dmXzdNcUFTeG82QXNWaUJpRGZnWXR5ZHFXSlkxcVhIYUxEd2l6S3R6Xy02ZHF5ZmZfTHNSSzBILVBSbmtyVlMxd253SlpLaWRjdUVu?oc=5",
-      "pub_date": 1793018044.0,
+      "pub_date": 1793021644.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-10-26-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-26.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -75,6 +75,16 @@
       "description": null
     },
     {
+      "headline": "Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRF9EQ3JLeWVSczNUOHR6Z1NqajRCZGxKV2RNSTM4SmhyRTY0clllZjhXM1p6NE5KOEV5c2thYlA1Rm43RHpzQWF6ZmZEclNGbXpaNXBEam9FNFlPeUppeVRUc2Q3X1NxMm5ITXBTX1JvZWUtYmYzM0d1bWZpX3E0U3RTVUwzdTRncEhSSThUck9MS3pqUElMOXZLbDdLOHp5cnBVak9iOEtpbV95THNIdWIteVdzczdRdDIzVXZGY2Fkckh2OWI3dEg2RWJZUXBPd3RiM0JUcnYxTUhINFYzN292LU9jSFl3U0U1eERjeDlVdw?oc=5",
+      "pub_date": 1793004530.0,
+      "article_url": "https://www.tradingview.com/news/financemagnates:79c912d24094b:0-why-is-crypto-going-down-bitcoin-tests-80-000-as-ethereum-xrp-and-dogecoin-sink-to-august-lows/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Crypto prices kept sliding today (Monday), with Bitcoin (BTC) at $79,979 on Binance at 08:22 UTC, about 6% below last Wednesday's high of $84,898. Ether, XRP and Dogecoin fell to their lowest prices since August.The selloff started on Thursday, when worries about how artificial intelligence spendin\u2026"
+    },
+    {
       "headline": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -83,16 +93,6 @@
       "article_url": "https://www.fool.com/investing/2026/10/24/an-openai-model-spent-ethereum-without-permission/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891812%2Fai-agent.jpg&w=1200&op=resize",
       "description": "Cybersecurity as it pertains to AI agents is rapidly becoming an issue that could make Ethereum more valuable."
-    },
-    {
-      "headline": "Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOby1qdDgzeFRaVnpKMTZBMGNqR1ZUdDRVQ1lqT2FGMnppcWd5anpKQ2dZM01pcERJZlRSVnVKdGlrZ3FZQ3M5VFpsaUQ4cnptM2lFbGlWT3E4RGNsWmNSdU04UEJpN01OX05jbWV0M2NkejFHUDZ1cHZNcHlKZV8tNmhtRXlXNEFqYk5GakNKWDhwb3lidUR1RERfLTdsN3B6Tl8teVh1dC11MkRaZk1ITHNlcmMtanQ5MkY5QmVqc0FncmNk?oc=5",
-      "pub_date": 1792971000.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2345815779-scaled.jpg",
-      "description": "Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need."
     },
     {
       "headline": "Ethereum Foundation: Sells 2785 ETH via Cowswap",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T23:02:36.275953+00:00"
+  "fetched_at": "2026-10-27T02:18:43.111124+00:00"
 }

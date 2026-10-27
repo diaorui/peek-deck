@@ -24,6 +24,17 @@
       "description": "Johns Hopkins Bayview is alerting about 3,182 patients after a worker uploaded their data to an unapproved AI tool. Free credit monitoring offered."
     },
     {
+      "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
+      "author": "Environmental_Mix22",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
+      "published": 1793054688.0,
+      "thumbnail": "https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&crop=smart&auto=webp&s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727",
+      "external_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "site_name": "OpenAI",
+      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
+      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
+    },
+    {
       "title": "Dutch Government Plans to Cut 25,000 Jobs (16%) in AI-Led Overhaul",
       "author": "fuchsiarush",
       "url": "https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/",
@@ -33,17 +44,6 @@
       "site_name": "bloomberg.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "AI assistant traffic to retail sites doubled this year. Those visitors convert at half the rate of organic search.",
-      "author": "Dapper-Tale-4021",
-      "url": "https://www.reddit.com/r/artificial/comments/1xg72di/ai_assistant_traffic_to_retail_sites_doubled_this/",
-      "published": 1793043901.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "An analytics firm tracked 2,000 retail sites and found both things are true at once: visits originating from AI assistants roughly doubled, and those visitors buy at about half the rate organic search visitors do. I keep seeing people celebrate the first number without mentioning the second. My read on why, though I\u2019m not certain: when someone arrives from organic search they\u2019ve already done the comparison work themselves. They clicked your link because they decided it was worth clicking. When someone arrives from an AI assistant, the assistant did the filtering and the person is often still in the browsing phase. Different intent at the moment of arrival. If that\u2019s right, treating AI referral traffic as equivalent to organic in your reporting is going to give you a distorted picture of what\u2019s working. Anyone running ecommerce and actually seeing this split in their own numbers? Curious whether the gap holds outside the aggregate."
     },
     {
       "title": "OpenAI starts training its most powerful systems again \u2013 but keeps them off the internet out of fear they would go rogue",
@@ -57,6 +57,17 @@
       "description": "Company had previously been forced to take its advanced models offline to develop new restrictions"
     },
     {
+      "title": "AI assistant traffic to retail sites doubled this year. Those visitors convert at half the rate of organic search.",
+      "author": "Dapper-Tale-4021",
+      "url": "https://www.reddit.com/r/artificial/comments/1xg72di/ai_assistant_traffic_to_retail_sites_doubled_this/",
+      "published": 1793043901.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An analytics firm tracked 2,000 retail sites and found both things are true at once: visits originating from AI assistants roughly doubled, and those visitors buy at about half the rate organic search visitors do. I keep seeing people celebrate the first number without mentioning the second. My read on why, though I\u2019m not certain: when someone arrives from organic search they\u2019ve already done the comparison work themselves. They clicked your link because they decided it was worth clicking. When someone arrives from an AI assistant, the assistant did the filtering and the person is often still in the browsing phase. Different intent at the moment of arrival. If that\u2019s right, treating AI referral traffic as equivalent to organic in your reporting is going to give you a distorted picture of what\u2019s working. Anyone running ecommerce and actually seeing this split in their own numbers? Curious whether the gap holds outside the aggregate."
+    },
+    {
       "title": "Elvis rights holders sue Anthropic over 274 compositions",
       "author": "andrewaltair",
       "url": "https://www.reddit.com/r/artificial/comments/1xfreib/elvis_rights_holders_sue_anthropic_over_274/",
@@ -66,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Rights holders for 274 musical compositions recorded by Elvis Presley filed a federal complaint against Anthropic on October 23, 2026. The complaint identifies ABG EPE IP LLC and other companies, trusts and individuals as plaintiffs in case 5:26-cv-12473. The plaintiffs allege that Anthropic copied lyrics without a license, kept them in a permanent internal repository and used them in Claude model training. They also allege that Claude generated derivative or infringing outputs after guardrails were added. The complaint seeks up to $150,000 per work, or $41.1 million for 274 works, plus separate statutory amounts under two other claims. The allegations have not been tested in court. Source: https://chatgptiseatingtheworld.com/wp-content/uploads/2026/10/ABG_EPE_IP_LLC_et_al-v-Anthropic-Oct-23-2026.pdf"
+    },
+    {
+      "title": "Do you feel more anxiety the more you AI tools?",
+      "author": "stanbright",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgblfx/do_you_feel_more_anxiety_the_more_you_ai_tools/",
+      "published": 1793054507.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The title - Do you feel more anxiety the more you AI tools? My observation is that, I'm heaps more productive with the help of AI (Claude) - both work (coding) and personal life. While it's been great for personal tasks, I have some constant worry at the back of my brain that if I'm not working and pushing forward - someone else is. And, within the context that I know how fast a person can progress with the help of AI, I have the constant feeling that I will be outpaced. Any others with similar observations/feelings :)?"
     },
     {
       "title": "Google AI Constant Errors",
@@ -79,17 +101,6 @@
       "description": "I used the regular Google search for answers about my new Toyota Sienna. I find that if you use a full question, it gives an AI interactive response. I assume that this is accessing Gemini...? I had a bunch of questions and created this very long thread all related to this car. Unfortunately, I found that at least 80% of the time, google would give me an answer that at 1st read seemed plausible, but when I got into it, I found that the answer was completely wrong. It would be an answer about another car, or an older version of the car- and this was after being overly specific about the car I just bought. I would point out to google that it was wrong and it would apologize profusely and then usually get it right the 2nd or 5th time. I found this extremely frustrating and a huge waste of time. I really dont understand why it consistently got answers so confused, especially if it actually had the access to the right answer all along. What can I do to get to the right answers on the 1st question. How can I insure that I am getting the best information from Google? Thanks"
     },
     {
-      "title": "Thoughts on privacy issues with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.?",
-      "author": "Neat-Flight8381",
-      "url": "https://www.reddit.com/r/artificial/comments/1xg5ibn/thoughts_on_privacy_issues_with_the_likes_of_meta/",
-      "published": 1793040446.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Are we handing over our privacy into safe hands with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.? Or are all these talks of privacy safety protocols just the tip of the iceberg, and are we once again being played into the hands of these companies?"
-    },
-    {
       "title": "AI giant Anthropic files to go public",
       "author": "cnn",
       "url": "https://www.reddit.com/r/artificial/comments/1xfwpdo/ai_giant_anthropic_files_to_go_public/",
@@ -99,18 +110,7 @@
       "site_name": "CNN",
       "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
       "description": "Anthropic filed for an initial public offering Monday in what could become one of the largest stock market debuts in history \u2014 detailing its surging business growth, along with a vast multitude of warnings about how it could all go wrong."
-    },
-    {
-      "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
-      "author": "Environmental_Mix22",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
-      "published": 1793054688.0,
-      "thumbnail": "https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&crop=smart&auto=webp&s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727",
-      "external_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "site_name": "OpenAI",
-      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
-      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
     }
   ],
-  "fetched_at": "2026-10-26T23:02:19.537894+00:00"
+  "fetched_at": "2026-10-27T02:18:23.572335+00:00"
 }

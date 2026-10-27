@@ -5,41 +5,11 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic's IPO plans: Record losses, AI risks and growth potential outlined in the S-1",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5",
-      "pub_date": 1793051460.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
-      "description": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission."
-    },
-    {
-      "headline": "Anthropic reveals $80 billion loss, huge spending spree ahead of IPO",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmtWbG0yMEZxRVdUU19lZmdvNkZCZ0M5eEFKbE9uUVBOaFVDWGdtNkgzbzRxb1FIcE9TRi1FR2dqTl9IUTEtMnVPRjV1QmtrdTlJSk83YWdrX2JnU0h2R1ZnVDBGTERnY3ZyZ29lX21uSDlFcnY2OUpoUEt2ZFJULU9hQ1dnY1hzWTRvblVrS1ByRFZ6WDdCRUVQZU9idnkyYUdETWdGbnlldHdraFkteWdsR0JfdmRGd3c?oc=5",
-      "pub_date": 1793027772.0,
-      "article_url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-anthropic-rs-a69c46.jpg",
-      "description": "The company warned that AI could \u201cpose catastrophic or existential risks to humanity\u201d as cybersecurity fears grow."
-    },
-    {
-      "headline": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
-      "pub_date": 1793050260.0,
-      "article_url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Can Marissa Mayer, Yahoo\u2019s Former CEO, Help Fix A.I.\u2019s Gender Problem?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5KSFZOcEVLQzZ6OTNXOWJENzBVZEpaWFdtcnd0NXZlRS10VEdmcnRMODJ0Y3ZWX2ZfME1PdU41M2RrM2pwb25ZT2FpWTlvTFpQbVRHSXFFM0hsNlNlS1REQk5hdjlOSG5aeGNtSnlBQWt3MThtUFhNakt5TzRKU0E3MkZ5Zw?oc=5",
-      "pub_date": 1793055035.0,
+      "pub_date": 1793037660.0,
       "article_url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
       "image": null,
       "description": null
@@ -55,56 +25,86 @@
       "description": null
     },
     {
-      "headline": "Former Yahoo CEO Marissa Mayer Says She Used AI to Identify What's Special About Her Daughter",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORTgzbWEwbFNJbDEySE5KM0pTemc0dDlCU0F0TGVCcEVQQXJLdGRyQ1FIVHM2RUFBRWpWc3l4ejN4ZlNsUTZjSjRUWVdxalU3Rzh4aWFsX3JTdzBINzZhbWhSeFdjamFPOHZiS0h1MjFFZzFkclVNYVhrRFpsN1NobF9LNk12X2ZReE0wRm96WUt0Z2Jv?oc=5",
-      "pub_date": 1793035106.0,
-      "article_url": "https://futurism.com/artificial-intelligence/yahoo-ceo-marissa-mayer-motherhood-ai-startup",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/yahoo-ceo-marissa-mayer-motherhood-ai-startup.jpg?w=1200",
-      "description": "Ex-Yahoo CEO Marissa Mayer has a new AI startup, which she's using to automate the fundamental tasks of parenthood."
+      "headline": "Ex-Yahoo CEO Defends Using AI to Describe Her Daughter Amid Backlash, Says Tool \u2018Blew Me Away\u2019",
+      "source": "TheWrap",
+      "source_url": "https://www.thewrap.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTU9CcHFBMENxY1VUQm4yR2s1NlZBZ3Uzc2xVUFpKLUljSVFHWDFrWnNTRW5ocFVPWFl6NkJJYVhpVFNPbDlQUXo4VUU2YVVfZlhsa0dXQnhOc29uWlBlR2VqYXk0Y1JjeG5zNVdzalA1emRpYjRtY19IbWNjMVY1cWVEenNma1NMdFlWU28tNV9qcldnM01hOEZR?oc=5",
+      "pub_date": 1793064367.0,
+      "article_url": "https://www.thewrap.com/industry-news/tech/ex-yahoo-ceo-defends-using-ai-to-describe-daughter/",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/10/Marissa-Mayer.jpg",
+      "description": "\"I wanted to see what deeper threads it might find,\" Dazzle AI founder Marissa Mayer says."
     },
     {
-      "headline": "Women's jobs show greater vulnerability to AI than men's",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51aHllOXU4UmxkcEFkWEVHRjBTRmEwTzFmX3YwZndXdzJHdi16cUJRblczd29Qd01TeExFNHFaSEsxSGpFTGdhRU5JQWFWSXlhSmVXOUtTeGhzSUNEMjQ4?oc=5",
-      "pub_date": 1793053580.0,
-      "article_url": "https://www.axios.com/2026/10/26/ai-jobs-men-women",
+      "headline": "China industrial profits post strongest growth in three months, rising 14.4%",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenNqZ2NzUE9INmtUZnp3X1ZXdEExTmFYdmNPdktRZGdCcGlYcmRxMVNXTlFQbElSejk0WjBxcmEzdHhvNjFFQkNJQlRWRHFGMElWcUROUkN3YlhwNXMyLWQybWhyai1DSDV6X1pUYV9tZHg3bERWRlUxWVFZNVJHUndEVnZCQ2NjUkgyTkxNa282UdIBlwFBVV95cUxOV0ZqMTFzbjJKRzBKWGd2bmNiY1NwZkEyak5GX21iNExTTkxUdUJCSklxekFLZmxPaUxLQ2JuUnhEa1BIMncwZ3RoSTFxemNSTEFyZGpBMW0zMGVzUkpFNlJBNEl6Yk9zZmFadnV6cFhCTXVvQzB6QWZCTmItSVJrZ0VyeXB5X0paSHlOVjlYejBhNnNqcUx3?oc=5",
+      "pub_date": 1793065080.0,
+      "article_url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108466293-1793058508094-gettyimages-2301856982-vcg111676709129.jpeg?v=1793058537&w=1920&h=1080",
+      "description": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers."
+    },
+    {
+      "headline": "BlackRock\u2019s Rieder Spent All Weekend Doing Deals in AI Debt Rush",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVJoVHlSX2EzYWtGbG44ZzhWSTdjUnc5ZWxpWmFmdzdGTzNQTVhZS3VwQjF6QWdpeGhRZDlySng4UERmbEhxbXBpM1BYdFhuVEJndmtGS1MtZnIxMkVILVBENDZDY1FBaEY4NmlLMmxHTmlaOXltR0FaMG1nODRod1JYNVhxRE9VeVFJZ0lMa0xYU2ptbVNiTVcxeFpla212aXhNUkVLUmxlTEVvRW15NGpxUkNYQQ?oc=5",
+      "pub_date": 1793067000.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/blackrock-s-rieder-spent-all-weekend-doing-deals-in-ai-debt-rush",
       "image": null,
       "description": null
     },
     {
-      "headline": "Grok Says Its AI-Generated Version of \u2018The Odyssey\u2019 Is \u2018Not Historically Accurate\u2019",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSE9tQzJpUFg1WGx4RlNNd1JnMnBzaXdiY2Y4U0xTNmgwcGZhRnR2NVcyemp2YmRHTEJ3SDAxVTY5NnJYMjc5WkZ2MEJ5LW1ldzUtM0N4YVA4Z1hQTC1GTTkwTVVHRHd0MzRpVjJCdlAtZnJ5Z1d3VU5iSXZDSGxoUEJqNDh2X2ZBQkRXdjRRSE9xY3ZXajEwNXAtWHBUbzRRR1pkY3RaUlBVNWs?oc=5",
-      "pub_date": 1793054400.0,
-      "article_url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
-      "image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/191:100/w_1280,c_limit/MCDODYS_UV008.jpg",
-      "description": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan\u2019s mythological epic, the bot itself admitted defeat."
+      "headline": "Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5",
+      "pub_date": 1792751608.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
+      "description": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission."
     },
     {
-      "headline": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTJaSVEwZnRJVGsxeTg2ZmFoNVdobHp6eVdoTFpBYjRjVDFkaGtzT29DdXZKXzJYNk9tWDJvQUROdDVTdUZBV0FBRG5LYlFWVjBvQzlSSlAxRXI1R1FGZ0JUYm16a3BjcTBfaDV5SUFzUnI5MkhXQUtuY3JKY19ack10bWtFQy1XT0Fia2RqYktTclR2a0hWbFNDWWRieEh1LXc?oc=5",
-      "pub_date": 1792963876.0,
-      "article_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+      "headline": "Anthropic reveals $80 billion loss, huge spending spree ahead of IPO",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmtWbG0yMEZxRVdUU19lZmdvNkZCZ0M5eEFKbE9uUVBOaFVDWGdtNkgzbzRxb1FIcE9TRi1FR2dqTl9IUTEtMnVPRjV1QmtrdTlJSk83YWdrX2JnU0h2R1ZnVDBGTERnY3ZyZ29lX21uSDlFcnY2OUpoUEt2ZFJULU9hQ1dnY1hzWTRvblVrS1ByRFZ6WDdCRUVQZU9idnkyYUdETWdGbnlldHdraFkteWdsR0JfdmRGd3c?oc=5",
+      "pub_date": 1793027772.0,
+      "article_url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260408-anthropic-rs-a69c46.jpg",
+      "description": "The company warned that AI could \u201cpose catastrophic or existential risks to humanity\u201d as cybersecurity fears grow."
     },
     {
-      "headline": "Elon Musk\u2019s Anti-Woke AI \u2018The Odyssey\u2019 Movie Ripped as \u201cSoulless Slop\u201d After Criticizing Nolan",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObG4wWHcxaWk4dGFBSWlETWlCQ0g4Y0Z4R3lnOUVpbTlwZU4yRGp5Ynh1RnZaeWJmd1MyVTJBbEg4Q1lKa0FzYkh2ejJHSGRuNWF5Ymw3SkhiWGFsRHQ3aFJtNGVOQ0lYQVdYdFdHRmhETWhzQmw4bWVRckd6VS1jUXU2eWJ0Zmp5QnZYSnFnQlQxSnFPZ1AzSHdzZ1o?oc=5",
-      "pub_date": 1793030842.0,
-      "article_url": "https://www.hollywoodreporter.com/movies/movie-news/elon-musk-ai-the-odyssey-reviews-1236740003/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/AI-Odyessyy.png?crop=0px%2C0px%2C3445px%2C1928px&resize=1440%2C810",
-      "description": "The tech titan\u2019s anti-woke, Grok-fueled take on \u2018The Odyssey\u2019 gets called \"zombie-like.\""
+      "headline": "The risk that AI wakes up and other warnings in Anthropic\u2019s unusual IPO filing",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkhmVGUzeUdLR0pBUUEwV2IwM2lRdVlWRDRSMk5yR2kzR1NDeWlMOFJpSVlNZDhZTGROLXVILWFEaXJtREI5LWpPQTM0Sll4YVBCZkhOUWE4cXNRZUtORFdMVE5mREFnYTF3ZlEzZlI4b1dZdG50SXFXVENfLXhfMWhMT2FfX0VZRlpkRlB2VlR2d0NsNi13aF9oOWtjcFJOOVpWSExENXVKbWp6UlBSeUpKZFpfMW9X?oc=5",
+      "pub_date": 1793063500.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/10/26/five-things-know-about-anthropic-record-initial-public-offering/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3JVCIR3KSMWIHMVB4ZPHHWKJZA.jpg&w=1440",
+      "description": "The company's SEC filing revealed losses expected in start-up IPOs but also unconventional concerns like machine consciousness."
+    },
+    {
+      "headline": "Working with academic communities to build scientific understanding",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
+      "pub_date": 1793050970.0,
+      "article_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&h=900&fit=fill",
+      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
+    },
+    {
+      "headline": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTldBUWstVmdxYTcxUVFWbWVEazFJU01MLUZJQzdKNkhDeWxnM01KVmVGQzZ0MnhCZFZUeURFR3c3NHJiU19CUGJFSXlWcUlhRkphS0hENkRRT2d4aUVaVTFCTDBXYmpHd3A3MEJMeC1ucl93MlEyTldwNzRENjZLVUI1MmwyRkxKMHpWTE5rNFZHRGd6NlE?oc=5",
+      "pub_date": 1793043840.0,
+      "article_url": "https://apnews.com/article/microsoft-buyout-ai-layoff-xbox-c5a639f53615be198db1799adf6837e1",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-26T23:02:47.421157+00:00"
+  "fetched_at": "2026-10-27T02:18:49.641105+00:00"
 }

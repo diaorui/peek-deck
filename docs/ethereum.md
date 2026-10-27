@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-26T23:02:49.222355+00:00'
+updated: '2026-10-27T02:18:51.365929+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 26, 2026 at 23:02 UTC  
+**Last Updated:** October 27, 2026 at 02:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -5.6%  
-**30d:** -14.0%  
-**90d:** +21.0%  
-**1y:** -43.9%  
+**24h:** +0.8%  
+**7d:** -6.0%  
+**30d:** -13.7%  
+**90d:** +21.1%  
+**1y:** -41.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.23B
+**Market Cap:** $283.22B
 Rank #2
 
 **Circulating Supply:** 122,164,245 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-53.1%
 
 **All-Time Low:** $0.43
-+533475.5%
++535314.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did I just do?", I end up explaining internal txns, token transfers, method IDs and why there's WETH in there. Etherscan is great if you know what you're looking at. For everyone else it's a wall of hex. So I built Simplorer. You open a transaction or an address and it tells you in one sentence what happened. Same swap, two views: Etherscan: https://etherscan.io/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer: https://simplorer.app/ethereum/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer says "0xc850…87b7 swapped 0.72 ETH for 1,378.06 USDT on Relay". Below that you see who sent and got what (part of it went through Uniswap) and the fee in ETH and dollars. A few things it does: - names the apps people actually use, a few hundred of them (Uniswap, Aave, Lido, 1inch, Curve, Pendle, OpenSea...) - approvals in plain words, like "allowed Uniswap to move any amount of its USDC", with a note on what that means and how to take it back - Safes and smart accounts show up as the account that acted, not as some contract call - bridges show where the coins went on the other side (Across, Stargate, LayerZero, CCTP) - fake tokens copying a real ticker and address poisoning transfers get a warning Most transactions from normal wallets come out as one clean sentence. If it can't name something it says "an app we don't know yet" instead of guessing. Data comes from Blockscout and a public node. No account, no ads. It's still in beta and I'm sure some transactions read weird. If you find one, send it to me. That's honestly the most useful feedback I can get.
 
-14h ago
+17h ago
 
 ---
 
@@ -158,7 +158,7 @@ Scott Melker breaks down the latest movements in the crypto sector, including St
 
 "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -166,15 +166,15 @@ Yahoo Finance • 7h ago
 
 The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.
 
-CoinDesk • 6h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows](https://www.tradingview.com/news/financemagnates:79c912d24094b:0-why-is-crypto-going-down-bitcoin-tests-80-000-as-ethereum-xrp-and-dogecoin-sink-to-august-lows/)**
+**[Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-keeps-buying-153603798.html)**
 
-Crypto prices kept sliding today (Monday), with Bitcoin (BTC) at $79,979 on Binance at 08:22 UTC, about 6% below last Wednesday's high of $84,898. Ether, XRP and Dogecoin fell to their lowest prices since August.The selloff started on Thursday, when worries about how artificial intelligence spendin…
+The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares—part of what it calls the largest equity buyback any crypto treasury company has run.
 
-TradingView • 14h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -182,15 +182,15 @@ TradingView • 14h ago
 
 The company holds 4.95% of Ethereum's supply, with $15 billion in combined crypto, cash, marketable securities, and other investments.
 
-The Block • 8h ago
+The Block • 12h ago
 
 ---
 
-**[Current price of Ethereum for October 26, 2026](https://fortune.com/article/price-of-ethereum-10-26-2026/)**
+**[Current price of Ethereum for Oct 26, 2026](https://fortune.com/article/price-of-ethereum-10-26-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 12h ago
 
 ---
 
@@ -198,13 +198,21 @@ Fortune • 10h ago
 
 Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback.
 
-CryptoSlate • 8h ago
+CryptoSlate • 11h ago
 
 ---
 
 **[Most big cryptocurrencies fall on Sui, Ethereum drops](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-fall-on-sui-ethereum-drops-8c9e448b-6821903d8382)**
 
-MarketWatch • 9h ago
+MarketWatch • 12h ago
+
+---
+
+**[Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows](https://www.tradingview.com/news/financemagnates:79c912d24094b:0-why-is-crypto-going-down-bitcoin-tests-80-000-as-ethereum-xrp-and-dogecoin-sink-to-august-lows/)**
+
+Crypto prices kept sliding today (Monday), with Bitcoin (BTC) at $79,979 on Binance at 08:22 UTC, about 6% below last Wednesday's high of $84,898. Ether, XRP and Dogecoin fell to their lowest prices since August.The selloff started on Thursday, when worries about how artificial intelligence spendin…
+
+TradingView • 17h ago
 
 ---
 
@@ -213,14 +221,6 @@ MarketWatch • 9h ago
 Cybersecurity as it pertains to AI agents is rapidly becoming an issue that could make Ethereum more valuable.
 
 The Motley Fool • 2d ago
-
----
-
-**[Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?](https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/)**
-
-Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need.
-
-24/7 Wall St. • 23h ago
 
 ---
 
@@ -242,7 +242,7 @@ BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no
 
 📺 Yahoo Finance
 
-👁️ 11K • 👍 158 • 💬 73 • ⏱️ 14:51 • 6h ago
+👁️ 15K • 👍 191 • 💬 139 • ⏱️ 14:51 • 9h ago
 
 ---
 
@@ -252,7 +252,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 72K • 👍 3K • 💬 144 • ⏱️ 47:37 • 1d ago
+👁️ 74K • 👍 3K • 💬 147 • ⏱️ 47:37 • 1d ago
 
 ---
 
@@ -266,13 +266,23 @@ Everyone is selling, so Pedro is going long. Pedro explains why Bitcoin is the o
 
 ---
 
-**[SHOCKING CRYPTO NEWS! HUGE XRP LEDGER, ETHEREUM, &amp; BITCOIN BUG FIXES!](https://www.youtube.com/watch?v=edq-5peAAH4)**
+**[Ethereum vs Bitcoin: What Altcoins Need Right Now](https://www.youtube.com/watch?v=SoiOcGcqLuI)**
 
-Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime Minister Netanyahu calls for plan to use crypto ...
+Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we track, only seven did better. So when will altcoins ...
 
-📺 Thinking Crypto
+📺 More Crypto Online
 
-👁️ 20K • 👍 720 • 💬 57 • ⏱️ 17:37 • 2d ago
+👁️ 15K • 👍 317 • 💬 16 • ⏱️ 13:01 • 1d ago
+
+---
+
+**[How Ethereum Grows Without a Center | Aya Miyaguchi and Tomo Saito at Pragma Tokyo 2026](https://www.youtube.com/watch?v=QlLaUM6dKlk)**
+
+Ethereum Foundation leaders Aya Miyaguchi and Tomo Saito discuss how Ethereum can grow without a central authority while ...
+
+📺 ETHGlobal
+
+👁️ 59 • 👍 1 • ⏱️ 20:45 • 9h ago
 
 ---
 
@@ -286,13 +296,13 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bSaCOZog My Chart Sof
 
 ---
 
-**[Bitcoin vs Ethereum What&#39;s the REAL Difference?](https://www.youtube.com/watch?v=XPVXOE8wAkE)**
+**[SHOCKING CRYPTO NEWS! HUGE XRP LEDGER, ETHEREUM, &amp; BITCOIN BUG FIXES!](https://www.youtube.com/watch?v=edq-5peAAH4)**
 
-Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were built for very different purposes. Bitcoin was ...
+Crypto News: Sofi Bank launches FDIC-insured tokenized deposits. Israeli Prime Minister Netanyahu calls for plan to use crypto ...
 
-📺 That crypto show
+📺 Thinking Crypto
 
-👁️ 230 • 👍 3 • 💬 2 • ⏱️ 0:44 • 2d ago
+👁️ 20K • 👍 719 • 💬 57 • ⏱️ 17:37 • 2d ago
 
 ---
 
@@ -300,17 +310,7 @@ Bitcoin and Ethereum are the two biggest names in cryptocurrency, but they were 
 
 📺 Digital Asset News
 
-👁️ 696 • 👍 26 • 💬 1 • ⏱️ 1:56 • 2d ago
-
----
-
-**[BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3V5ddrnS8SU)**
-
-BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 155 • 💬 62 • ⏱️ 18:54 • 2h ago
+👁️ 717 • 👍 26 • 💬 1 • ⏱️ 1:56 • 2d ago
 
 ---
 
@@ -320,17 +320,17 @@ Ethereum Bulls Are Back! What's Next for ETH? Ethereum has bounced back, putting
 
 📺 Colitco
 
-👁️ 314 • ⏱️ 0:15 • 2d ago
+👁️ 320 • ⏱️ 0:15 • 2d ago
 
 ---
 
-**[How Ethereum Grows Without a Center | Aya Miyaguchi and Tomo Saito at Pragma Tokyo 2026](https://www.youtube.com/watch?v=QlLaUM6dKlk)**
+**[BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3V5ddrnS8SU)**
 
-Ethereum Foundation leaders Aya Miyaguchi and Tomo Saito discuss how Ethereum can grow without a central authority while ...
+BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 ETHGlobal
+📺 Crypto World
 
-👁️ 49 • 👍 1 • ⏱️ 20:45 • 6h ago
+👁️ 6K • 👍 233 • 💬 86 • ⏱️ 18:54 • 5h ago
 
 ---
 
