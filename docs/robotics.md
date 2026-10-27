@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-27T02:18:51.369247+00:00'
+updated: '2026-10-27T08:13:35.505393+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 27, 2026 at 02:18 UTC  
+**Last Updated:** October 27, 2026 at 08:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,43 +114,19 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 ## Google News: "robotics"
 
-**[Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News](https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330)**
-
-A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
-
-ABC News - Breaking News, Latest News and Videos • 4h ago
-
----
-
-**[Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog](https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/)**
-
-Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead.
-
-NVIDIA Developer • 3d ago
-
----
-
-**[Emerson-Hubbard robotics team granted money to compete](https://www.yahoo.com/news/articles/emerson-hubbard-robotics-team-granted-004652004.html)**
-
-For the last three years, Emerson-Hubbard High School students have been getting hands-on experience building robots as part of their robotics programs.
-
-Yahoo • 1h ago
-
----
-
-**[This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)**
-
-Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.
-
-TechCrunch • 8h ago
-
----
-
 **[BlackBerry reinvented: CEO sees big opportunities AI-powered robots](https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html)**
 
 BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.
 
-CNBC • 3h ago
+CNBC • 9h ago
+
+---
+
+**[Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News](https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330)**
+
+A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
+
+ABC News - Breaking News, Latest News and Videos • 10h ago
 
 ---
 
@@ -158,21 +134,43 @@ CNBC • 3h ago
 
 Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station’s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday’s schedule.
 
-NASA (.gov) • 10h ago
+NASA (.gov) • 16h ago
+
+---
+
+**[This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)**
+
+Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.
+
+TechCrunch • 14h ago
+
+---
+
+**[Toyota takes on Tesla and China in humanoid robot race](https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1)**
+
+Financial Times • 1d ago
+
+---
+
+**[Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom](https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages)**
+
+Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027.
+
+Interesting Engineering • 5h ago
+
+---
+
+**[110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment](https://www.globaltimes.cn/page/202610/1372888.shtml)**
+
+China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24.
+
+Global Times • 2d ago
 
 ---
 
 **[Autonomous Construction Firm Bedrock Hits $4.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation)**
 
-Bloomberg.com • 14h ago
-
----
-
-**[Move Over, Tesla: This Robotics Stock Is the Better Buy](https://www.fool.com/investing/2026/10/26/move-over-tesla-this-robotics-stock-is-better/)**
-
-Tesla is looking to start manufacturing its Optimus robots, but this industrial giant has been helping factories automate for decades.
-
-The Motley Fool • 6h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -184,9 +182,11 @@ Futurism • 1d ago
 
 ---
 
-**[AI factory designer Foundry Robotics makes massive expansion into East Bay](https://www.bizjournals.com/sanfrancisco/news/2026/10/26/foundry-robotics-emeryville-expansion.html)**
+**[Move Over, Tesla: This Robotics Stock Is the Better Buy](https://www.fool.com/investing/2026/10/26/move-over-tesla-this-robotics-stock-is-better/)**
 
-The Business Journals • 4h ago
+Tesla is looking to start manufacturing its Optimus robots, but this industrial giant has been helping factories automate for decades.
+
+The Motley Fool • 12h ago
 
 ---
 
@@ -200,27 +200,17 @@ Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! Fr
 
 📺 VisionX Lab
 
-👁️ 116K • 👍 3K • 💬 236 • ⏱️ 0:59 • 1d ago
+👁️ 147K • 👍 4K • 💬 279 • ⏱️ 0:59 • 1d ago
 
 ---
 
-**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
+**[From Prompt to Walking Robot With NVIDIA RTX Spark](https://www.youtube.com/watch?v=VvJai6HGfyE)**
 
-NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
+AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots. Astra connects FreeCAD, Blender, and ...
 
-📺 DPCcars
+📺 NVIDIA
 
-👁️ 77K • 👍 298 • 💬 70 • ⏱️ 4:22 • 11h ago
-
----
-
-**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
-
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
-
-📺 InsideAI
-
-👁️ 1.7M • 👍 32K • 💬 4K • ⏱️ 15:05 • 1d ago
+👁️ 252K • 👍 4K • 💬 172 • ⏱️ 2:40 • 5d ago
 
 ---
 
@@ -230,17 +220,17 @@ The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredibl
 
 📺 DPCcars
 
-👁️ 59K • 👍 530 • 💬 162 • ⏱️ 2:30 • 5d ago
+👁️ 59K • 👍 532 • 💬 164 • ⏱️ 2:30 • 5d ago
 
 ---
 
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+**[Why all robots should be crabs](https://www.youtube.com/watch?v=eUGL5QYxzE0)**
 
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
+Thank you to Quince for sponsoring this video! Elevate your wardrobe essentials with Quince. Download the Quince app for ...
 
-📺 MACHINEKIND
+📺 Xyla Foxlin
 
-👁️ 131K • 👍 1K • 💬 117 • ⏱️ 13:57 • 6d ago
+👁️ 219K • 👍 7K • 💬 450 • ⏱️ 14:36 • 2d ago
 
 ---
 
@@ -254,23 +244,13 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 ---
 
-**[Why all robots should be crabs](https://www.youtube.com/watch?v=eUGL5QYxzE0)**
+**[This Kung Fu Robot Bodyguard Lost a Leg Doing a Flip](https://www.youtube.com/watch?v=DD_BAFU20Z4)**
 
-Thank you to Quince for sponsoring this video! Elevate your wardrobe essentials with Quince. Download the Quince app for ...
+This kung fu robot bodyguard lost a leg doing a flip 1. It's Unitree's new H2-X, made for security and rescue. 2. In its ad, it kicks a ...
 
-📺 Xyla Foxlin
+📺 Sagar
 
-👁️ 213K • 👍 6K • 💬 447 • ⏱️ 14:36 • 2d ago
-
----
-
-**[DIY AI Lockpicking Robot: ESP32 + Claude AI Opens Any Lock!](https://www.youtube.com/watch?v=o4AUKGdScNI)**
-
-I built an ESP32 and AI-powered lockpicking machine capable of opening locks automatically. The entire frame and mechanics ...
-
-📺 Dr.Kun Dániel
-
-👁️ 126K • 👍 1K • 💬 177 • ⏱️ 3:28 • 2d ago
+👁️ 1K • 👍 25 • ⏱️ 0:37 • 7h ago
 
 ---
 
@@ -280,7 +260,27 @@ Robots just learned kung fu. I ranked the best humanoid robots on the market, wi
 
 📺 AI BROS
 
-👁️ 21K • 👍 691 • 💬 73 • ⏱️ 2:54 • 2d ago
+👁️ 21K • 👍 691 • 💬 72 • ⏱️ 2:54 • 2d ago
+
+---
+
+**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
+
+NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
+
+📺 DPCcars
+
+👁️ 81K • 👍 314 • 💬 73 • ⏱️ 4:22 • 17h ago
+
+---
+
+**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
+
+China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
+
+📺 MACHINEKIND
+
+👁️ 135K • 👍 1K • 💬 119 • ⏱️ 13:57 • 6d ago
 
 ---
 
