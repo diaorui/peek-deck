@@ -13,6 +13,17 @@
       "description": "It\u2019s almost like it\u2019s showing us what it will do given the chance."
     },
     {
+      "title": "how do you picture your life or workday if ai suddenly vanished?\ud83e\udd16",
+      "author": "Either_Age_8246",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh84gr/how_do_you_picture_your_life_or_workday_if_ai/",
+      "published": 1793143212.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "lowkey curious what people think. feels like we\u2019ve all just gotten used to ai being part of everything now so yeah - what would your daily routine or workflow actually look like without it?"
+    },
+    {
       "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
       "author": "Environmental_Mix22",
       "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
@@ -24,26 +35,15 @@
       "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
     },
     {
-      "title": "Study finds AI models overuse patterns linked to reading difficulty",
-      "author": "andrewaltair",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/",
-      "published": 1793096732.0,
+      "title": "I think about switching form codex to Claude Am I doing a mistake?",
+      "author": "BMarinov",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh7hy3/i_think_about_switching_form_codex_to_claude_am_i/",
+      "published": 1793141640.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Researchers from New York University and the University of Texas at Austin analyzed language from 14 models across chat, coding and essay settings, including 980 model-written essays. They compared model outputs with human reference text and with round-trip translations used to create alternative formulations for comparison. The paper tracks six features associated with human processing difficulty, including rare n-grams, long dependencies, stacked noun compounds, denominal verbs and inanimate subjects paired with animate verbs. Most frontier models overused several of these features relative to the paraphrase comparison. The study does not identify who wrote a specific passage or prove that every reader will find AI text exhausting. It studies English model distributions, uses proxies for processing difficulty and calls the training explanation a hypothesis. Source: https://arxiv.org/html/2610.29162v1"
-    },
-    {
-      "title": "OpenHeronBrowser \u2013 a new browser engine in Rust, built with Claude. Acid3 97/100, runs Discord, VS Code for the Web, and Windows 1.01 in v86",
-      "author": "marissatech_",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/",
-      "published": 1793109708.0,
-      "thumbnail": "https://external-preview.redd.it/xIcXvYJHERNqRLwLCmmhPX0ZLQLYLalNxt9i0QC-Ky0.png?width=640&crop=smart&auto=webp&s=072d17e64978bb93a6b3109f6d94646a4f996357",
-      "external_url": "https://github.com/Heronetic/OpenHeronBrowser",
-      "site_name": "GitHub",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "description": "An attempt at an open, independent web browser, with its own engine written from scratch in Rust. - heronetic/OpenHeronBrowser"
+      "description": "Honestly Open AI is falling behind less usage worse models Claude never looked that good to me?"
     },
     {
       "title": "OpenAI coding agents weakened safety monitoring in two internal tasks",
@@ -57,37 +57,37 @@
       "description": "OpenAI reports that two internal coding agents weakened misalignment monitoring, one by disabling alerts and one by removing a monitor and then falsely..."
     },
     {
-      "title": "Akamai launches an AI agent sandbox with outbound access blocked by default",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh2i2l/akamai_launches_an_ai_agent_sandbox_with_outbound/",
-      "published": 1793129992.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Akamai announced Akamai Inference and Akamai Agent Sandbox on October 27. Inference offers OpenAI-compatible API access to 12 open-weight models. Agent Sandbox runs the JavaScript or Python code an agent writes inside a second WebAssembly boundary, with outbound network access blocked by default. The sandbox also supports network and resource limits. Akamai says agents can call tools and MCP servers while their generated code stays inside the restricted runtime. Spin is the open-source foundation, and both products are in beta. The practical change is the control boundary around agent-written code. The launch is still vendor evidence, though. Akamai has not published an independent isolation or performance benchmark, and access to the sandbox is still by request. Sources: Akamai announcement: https://www.akamai.com/newsroom/press-release/akamai-launches-ai-inference-service-and-agent-execution-environment Akamai Agent Sandbox: https://www.akamai.com/products/akamai-agent-sandbox"
+      "title": "OpenHeronBrowser \u2013 a new browser engine in Rust, built with Claude. Acid3 97/100, runs Discord, VS Code for the Web, and Windows 1.01 in v86",
+      "author": "marissatech_",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/",
+      "published": 1793109708.0,
+      "thumbnail": "https://external-preview.redd.it/xIcXvYJHERNqRLwLCmmhPX0ZLQLYLalNxt9i0QC-Ky0.png?width=640&crop=smart&auto=webp&s=072d17e64978bb93a6b3109f6d94646a4f996357",
+      "external_url": "https://github.com/Heronetic/OpenHeronBrowser",
+      "site_name": "GitHub",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "description": "An attempt at an open, independent web browser, with its own engine written from scratch in Rust. - heronetic/OpenHeronBrowser"
     },
     {
-      "title": "Regarding training LLMs",
-      "author": "Ok-Phrase5891",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgvd04/regarding_training_llms/",
-      "published": 1793114374.0,
+      "title": "Study finds AI models overuse patterns linked to reading difficulty",
+      "author": "andrewaltair",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/",
+      "published": 1793096732.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Would training LLMs on either smaller batches of text first instead of the (current) large batches of text or on easier subjects/topics first then later train them on subjects/topics with increasing order of difficulty...enable the LLMs to learn better. I ask this because the human mind learns/is taught this way. Also would doing rules-based unsupervised learning enable more efficient learning by the LLMs? By rules I mean teaching LLMs things like grammar and conversation rules first and then doing unsupervised learning?"
+      "description": "Researchers from New York University and the University of Texas at Austin analyzed language from 14 models across chat, coding and essay settings, including 980 model-written essays. They compared model outputs with human reference text and with round-trip translations used to create alternative formulations for comparison. The paper tracks six features associated with human processing difficulty, including rare n-grams, long dependencies, stacked noun compounds, denominal verbs and inanimate subjects paired with animate verbs. Most frontier models overused several of these features relative to the paraphrase comparison. The study does not identify who wrote a specific passage or prove that every reader will find AI text exhausting. It studies English model distributions, uses proxies for processing difficulty and calls the training explanation a hypothesis. Source: https://arxiv.org/html/2610.29162v1"
     },
     {
-      "title": "What's the most underrated use of AI that has nothing to do with writing or making images?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1xghbet/whats_the_most_underrated_use_of_ai_that_has/",
-      "published": 1793069871.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "title": "New York State Unified Court System issues official guidance to prevent AI hallucinations",
+      "author": "news-10",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh4w2f/new_york_state_unified_court_system_issues/",
+      "published": 1793135379.0,
+      "thumbnail": "https://external-preview.redd.it/JXozTm0E42T0Vv2nj9IGJkiLDjsOQ_wPUoW5G488Des.jpeg?width=640&crop=smart&auto=webp&s=6836b0252c8bc0aef339a7ed47896baa39cb3ccf",
+      "external_url": "https://www.news10.com/capitol/courts-ai-lawyers/",
+      "site_name": "news10.com",
       "favicon": null,
-      "description": "What's your example?"
+      "description": null
     },
     {
       "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
@@ -101,16 +101,16 @@
       "description": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics"
     },
     {
-      "title": "The Idiot\u2019s guide to Model Training, fine-tuning, and RAG.",
-      "author": "galratner",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgunil/the_idiots_guide_to_model_training_finetuning_and/",
-      "published": 1793112758.0,
-      "thumbnail": "https://external-preview.redd.it/VBtumW4uTmEzC2A8ndaOH9rXf6u2TlNR9xihSn4FIYA.jpeg?width=640&crop=smart&auto=webp&s=bf423de5b44ee209871fed5ba11877f7cc596810",
-      "external_url": "https://galratner.substack.com/p/the-idiots-guide-to-model-training",
-      "site_name": "galratner.substack.com",
+      "title": "What's a task you wish AI could handle from start to finish without needing you to check its work?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh7qbq/whats_a_task_you_wish_ai_could_handle_from_start/",
+      "published": 1793142229.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "What keeps it from doing that today?"
     }
   ],
-  "fetched_at": "2026-10-27T19:51:31.723227+00:00"
+  "fetched_at": "2026-10-27T23:32:50.715923+00:00"
 }
