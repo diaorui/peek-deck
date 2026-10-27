@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-27T02:18:51.356929+00:00'
+updated: '2026-10-27T08:13:35.495723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 27, 2026 at 02:18 UTC  
+**Last Updated:** October 27, 2026 at 08:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,779.94
+### $79,958.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -4.8%  
-**30d:** -4.1%  
-**90d:** +23.6%  
-**1y:** -29.1%  
+**24h:** -0.8%  
+**7d:** -5.0%  
+**30d:** -4.4%  
+**90d:** +23.3%  
+**1y:** -29.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1607.13B
+**Market Cap:** $1603.25B
 Rank #1
 
-**Circulating Supply:** 20,103,946 BTC
+**Circulating Supply:** 20,104,184 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.6%
+-36.8%
 
 **All-Time Low:** $67.81
-+117780.8%
++117497.7%
 
 ---
 
@@ -129,13 +129,13 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[HODL onto your sats y'all](https://www.reddit.com/r/Bitcoin/comments/1xd4y95/hodl_onto_your_sats_yall/)**
 
-3d ago
+4d ago
 
 ---
 
 **[Touching grass will set you free from bitcoin 🍃](https://www.reddit.com/r/Bitcoin/comments/1xd3rzi/touching_grass_will_set_you_free_from_bitcoin/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -151,31 +151,47 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 ## Google News: "bitcoin"
 
+**[‘Guppy-Level Death’—Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets](https://www.forbes.com/sites/digital-assets/2026/10/26/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
+
+Forbes • 21h ago
+
+---
+
 **[Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty — PHP2Shell challenge tested claims that AI makes exploiting vulnerabilities easy](https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy)**
 
 A Bitcoin hacking challenge is daring security researchers to exploit critical PHP vulnerabilities and steal the cryptocurrency, putting claims about real-world exploitability to the test.
 
-Tom's Hardware • 15h ago
+Tom's Hardware • 21h ago
 
 ---
 
-**[‘Guppy-Level Death’—Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets](https://www.forbes.com/sites/digital-assets/2026/10/26/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
+**[Bitcoin and ETH Holders Could Face a Deeper Pullback, Ansem Warns](https://finance.yahoo.com/markets/crypto/articles/bitcoin-eth-holders-could-face-073839049.html)**
 
-Forbes • 15h ago
+Crypto trader Ansem turns bearish on Bitcoin and ETH, blaming a blow-off top in AI stocks and warning that both could slide faster from here.
+
+Yahoo Finance • 34m ago
 
 ---
 
-**[NC woman lost all her savings at a gas-station bitcoin machine. A new law could force refunds — but not until January](https://finance.yahoo.com/markets/crypto/articles/nc-woman-lost-her-savings-130000102.html)**
+**[Bitcoin dips below $80k as Strategy pauses buying, Fed caution weighs](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80k-strategy-065649737.html)**
 
-Attorney General Jeff Jackson says an investigation is underway. New protections come with strings attached. Here's what the law covers and how kiosk scams work.
+Investing.com-- Bitcoin fell on Tuesday, extending recent losses and falling below a recent trading range after top corporate holder Strategy paused its purchases of the crypto.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Why Now Is the Time to Add and Hold BTC](https://www.galaxy.com/insights/research/why-now-bitcoin-buy-hold-2026)**
+
+We believe the bottom is in. Selling pressure has diminished, the debasement case has strengthened, and the crowd has left.
+
+Galaxy • 8h ago
 
 ---
 
 **[Will Bitcoin mining heat the pools in the spa replacing the Granada Theater? Bathhouse says no](https://www.kera.org/2026/10/26/will-bitcoin-mining-heat-the-pools-in-the-spa-replacing-the-granada-theater/)**
 
-KERA News Breakthroughs • 15h ago
+KERA News Breakthroughs • 21h ago
 
 ---
 
@@ -183,7 +199,7 @@ KERA News Breakthroughs • 15h ago
 
 Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics.
 
-Cincinnati Enquirer • 10h ago
+Cincinnati Enquirer • 15h ago
 
 ---
 
@@ -191,37 +207,21 @@ Cincinnati Enquirer • 10h ago
 
 Bitcoin retreated below $80,000 on Monday as broader risk-off sentiment ahead of a Federal Reserve meeting and concerns over the artificial intelligence trade weighed on cryptocurrencies.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Bitcoin Price Teeters At $80,000 As Traders Wait On Fed](https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000)**
+**[Bitcoin holds near $80,000 as oil retreats and the Fed decision looms](https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms)**
 
-Bitcoin price hovers near $80,000 as traders wait on this week’s Fed decision, with geopolitical tensions and Anthropic’s possible IPO adding to the uncertainty.
+Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.
 
-Bitcoin Magazine • 8h ago
+CoinDesk • 20h ago
 
 ---
 
 **[Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens](https://www.bloomberg.com/news/articles/2026-10-26/bitcoin-dips-below-80-000-as-ai-related-market-selloff-deepens)**
 
-Bloomberg.com • 5h ago
-
----
-
-**[Coinbase Institutional Co-CEO: Bitcoin's "Second Wave" Of Institutional Capital Has Arrived](https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived)**
-
-Seven mega banks tap Coinbase infrastructure. Brett Tejpaul explains why stablecoin rails are driving adoption, while institutions still view BTC as tech.
-
-Bitcoin Magazine • 6h ago
-
----
-
-**[Will Bitcoin Hit $100,000 Before the End of 2026?](https://www.fool.com/investing/2026/10/26/will-bitcoin-hit-100-000-before-the-end-of-2026/)**
-
-The top cryptocurrency has been a hot buy in recent months.
-
-The Motley Fool • 6h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -233,7 +233,7 @@ The Motley Fool • 6h ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 614 • 💬 449 • 2d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 616 • 💬 449 • 2d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -241,7 +241,7 @@ A PHP security challenge. Find the hidden bitcoin key. First person to get the w
 
 A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
-⬆️ 163 • 💬 50 • 1d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+⬆️ 163 • 💬 51 • 1d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
 ---
 
@@ -261,7 +261,7 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50245177)**
 
-⬆️ 1 • 💬 0 • 11h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 1 • 💬 0 • 16h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -277,7 +277,7 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 On Sunday evening, 25 October, unauthorised parties gained access to part of our systems. The vulnerability was fixed immediately.
 
-⬆️ 2 • 💬 0 • 8h ago • [Bitonic](https://bitonic.nl/en/news/308/security-incident-at-bitonic)
+⬆️ 2 • 💬 0 • 14h ago • [Bitonic](https://bitonic.nl/en/news/308/security-incident-at-bitonic)
 
 ---
 
@@ -285,7 +285,7 @@ On Sunday evening, 25 October, unauthorised parties gained access to part of our
 
 Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.
 
-⬆️ 2 • 💬 0 • 11h ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+⬆️ 2 • 💬 0 • 17h ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 
 ---
 
@@ -299,37 +299,17 @@ Chamath says Bitcoin is going to ZERO, while JPMorgan predicts it will outperfor
 
 📺 Natalie Brunell
 
-👁️ 15K • 👍 437 • 💬 57 • ⏱️ 10:30 • 6h ago
+👁️ 24K • 👍 567 • 💬 71 • ⏱️ 10:30 • 12h ago
 
 ---
 
-**[Bitcoin’s $80K Moment of Truth… Will It Hold?](https://www.youtube.com/watch?v=g5mv3de7VeE)**
+**[$500M Bitcoin Buy🔥Strive CEO on Corporate Trade Returning](https://www.youtube.com/watch?v=XR0FkG2A0uI)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+Strive just bought 6182 bitcoin, about $511M, its largest purchase ever. Strive CEO Matt Cole joins to explain how the company ...
 
-📺 CryptosRUs
+📺 Paul Barron Network
 
-👁️ 24K • 👍 655 • 💬 104 • ⏱️ 36:59 • 9h ago
-
----
-
-**[Bitcoin&#39;s Brutal Weekend Dump: Exact Downside Targets](https://www.youtube.com/watch?v=fLrZ_sNILAM)**
-
-Bitcoin just lost its parallel channel. Is a $2000 Ethereum next? Nick Valdez of Verified Investing runs through eight crypto charts ...
-
-📺 Verified Investing
-
-👁️ 10K • 👍 447 • 💬 25 • ⏱️ 18:46 • 6h ago
-
----
-
-**[BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3V5ddrnS8SU)**
-
-BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 233 • 💬 86 • ⏱️ 18:54 • 5h ago
+👁️ 33K • 👍 716 • 💬 125 • ⏱️ 29:17 • 13h ago
 
 ---
 
@@ -339,37 +319,17 @@ Has Bitcoin run out of sellers—or are we still waiting for one more leg down? 
 
 📺 THE Bitcoin Podcast with Walker
 
-👁️ 4K • 👍 134 • 💬 102 • ⏱️ 1:28:16 • 12h ago
+👁️ 5K • 👍 161 • 💬 103 • ⏱️ 1:28:16 • 18h ago
 
 ---
 
-**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
+**[Is Anthropic About to Crash The Crypto Market?](https://www.youtube.com/watch?v=Ii4yXzpW2iI)**
 
-Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 32K • 👍 1K • 💬 96 • ⏱️ 13:36 • 1d ago
-
----
-
-**[🚨 Bitcoin’s MAKE OR BREAK Moment Is Here (This Is What Failure Looks Like)](https://www.youtube.com/watch?v=nB5dtxNGcKQ)**
-
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ Make or break for crypto: the ...
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 432 • 💬 55 • ⏱️ 11:43 • 10h ago
-
----
-
-**[Election Mayhem Incoming🚨Is Bitcoin Ready?](https://www.youtube.com/watch?v=053Ezo9cazU)**
-
-Bitcoin slipped below 80K as Iran fears, Brazil's election and the US midterms rattle markets. We cover Strategy pausing bitcoin ...
-
-📺 Paul Barron Network
-
-👁️ 39K • 👍 1K • 💬 110 • ⏱️ 16:19 • 7h ago
+👁️ 33K • 👍 1K • 💬 44 • ⏱️ 11:26 • 8h ago
 
 ---
 
@@ -379,17 +339,57 @@ Before You Buy the Crypto Dip, WATCH THIS!! ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 2K • 💬 102 • ⏱️ 11:13 • 1d ago
+👁️ 67K • 👍 2K • 💬 103 • ⏱️ 11:13 • 1d ago
 
 ---
 
-**[Bitcoin Loses Major $81,000 Support, Bear Market Returns? Key Levels To Trade](https://www.youtube.com/watch?v=q2epifxeFDI)**
+**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
 
-Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for the past two weeks, and the big question now is ...
+Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
 
-📺 Gareth Soloway
+📺 Simply Bitcoin
 
-👁️ 123K • 👍 4K • 💬 194 • ⏱️ 15:40 • 2d ago
+👁️ 32K • 👍 1K • 💬 97 • ⏱️ 13:36 • 1d ago
+
+---
+
+**[War Scare? (Bitcoin Drops Below $80K)](https://www.youtube.com/watch?v=BTnkttDK3uA)**
+
+On Saturday, the Wall Street Journal reported that the US is pulling its people out of embassies and military bases across the ...
+
+📺 Kyle Chasse crypto
+
+👁️ 1K • 👍 16 • ⏱️ 0:45 • 5h ago
+
+---
+
+**[After Every Mid-Term Bitcoin Does This (Not Good).](https://www.youtube.com/watch?v=1NdM8cx188U)**
+
+After every mid-term bitcoin finds a bottom and it's a NEW bottom. WIll this time be different? Nobody knows but from personal ...
+
+📺 Digital Asset News
+
+👁️ 7K • 👍 299 • 💬 19 • ⏱️ 23:34 • 13h ago
+
+---
+
+**[Bitcoin Falls Below 80k. Here&#39;s WHY (Wealth Preservation)](https://www.youtube.com/watch?v=hnF4Q1CCYbA)**
+
+Massive liquidations just knocked Bitcoin below $80000 — and if you're feeling the pain, you're not alone. Today we look at what ...
+
+📺 Digital Asset News
+
+👁️ 18K • 👍 355 • 💬 35 • ⏱️ 31:25 • 1d ago
+
+---
+
+**[Everyone&#39;s Panicking About Bitcoin. I&#39;m Not](https://www.youtube.com/watch?v=R2s3OTj_BgY)**
+
+Bitcoin hit $79000 this weekend and a lot of people are panicking. I'm not. Here's why I'm still bullish, and what's really behind the ...
+
+📺 Crypto Tips
+
+👁️ 12K • 👍 446 • 💬 35 • ⏱️ 7:54 • 15h ago
 
 ---
 
