@@ -168,7 +168,7 @@
       "num_comments": 1,
       "published_at": "2026-10-03T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/Prism",
-      "github_stars": 1383,
+      "github_stars": 1412,
       "project_page": "https://francis-rings.github.io/Prism/"
     },
     {
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2610.35845",
       "arxiv_url": "https://arxiv.org/abs/2610.35845",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.35845.png",
-      "upvotes": 97,
+      "upvotes": 98,
       "num_comments": 1,
       "published_at": "2026-10-25T20:00:00.000Z",
       "github_repo": "https://github.com/EnjunDu/awesome-working-agent",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-27T19:51:37.094936+00:00"
+  "fetched_at": "2026-10-27T23:32:57.485605+00:00"
 }
