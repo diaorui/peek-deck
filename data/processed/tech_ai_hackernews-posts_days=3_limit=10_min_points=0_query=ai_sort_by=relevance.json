@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50226419",
       "author": "gnabgib",
       "points": 541,
-      "num_comments": 579,
+      "num_comments": 581,
       "created_at": "2026-10-24T23:11:54Z",
       "object_id": "50226419",
       "image": "https://substackcdn.com/image/fetch/$s_!oz9x!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png",
@@ -47,11 +47,25 @@
       "site_name": "cerebras.ai"
     },
     {
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "hn_url": "https://news.ycombinator.com/item?id=50246658",
+      "author": "matthieu_bl",
+      "points": 257,
+      "num_comments": 111,
+      "created_at": "2026-10-26T16:35:44Z",
+      "object_id": "50246658",
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b966213f9f46bb9cec6ec5a3406e893530b8b292-1200x630.png?w=1200&h=630&q=80&fit=crop&auto=format",
+      "description": "Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.",
+      "favicon": "https://cohere.com/apple-touch-icon.png",
+      "site_name": "Cohere"
+    },
+    {
       "title": "Why is AI generated language so hard to understand?",
       "url": "https://arxiv.org/abs/2610.29162",
       "hn_url": "https://news.ycombinator.com/item?id=50223647",
       "author": "canjobear",
-      "points": 253,
+      "points": 254,
       "num_comments": 201,
       "created_at": "2026-10-24T18:04:57Z",
       "object_id": "50223647",
@@ -61,26 +75,12 @@
       "site_name": "arXiv.org"
     },
     {
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "hn_url": "https://news.ycombinator.com/item?id=50246658",
-      "author": "matthieu_bl",
-      "points": 241,
-      "num_comments": 96,
-      "created_at": "2026-10-26T16:35:44Z",
-      "object_id": "50246658",
-      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b966213f9f46bb9cec6ec5a3406e893530b8b292-1200x630.png?w=1200&h=630&q=80&fit=crop&auto=format",
-      "description": "Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.",
-      "favicon": "https://cohere.com/apple-touch-icon.png",
-      "site_name": "Cohere"
-    },
-    {
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
       "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
       "hn_url": "https://news.ycombinator.com/item?id=50233304",
       "author": "romanhn",
-      "points": 235,
-      "num_comments": 327,
+      "points": 237,
+      "num_comments": 328,
       "created_at": "2026-10-25T16:28:26Z",
       "object_id": "50233304",
       "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/9/44/944d84f9-b521-443c-ae42-3811a39ea788/6adac8999d0f1.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
@@ -93,8 +93,8 @@
       "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
       "hn_url": "https://news.ycombinator.com/item?id=50242843",
       "author": "cdrnsf",
-      "points": 172,
-      "num_comments": 160,
+      "points": 175,
+      "num_comments": 167,
       "created_at": "2026-10-26T12:58:27Z",
       "object_id": "50242843",
       "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-10/Dataworkers.jpg?h=f6430484&itok=1eq5-wXm",
@@ -108,7 +108,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50229827",
       "author": "thunderbong",
       "points": 144,
-      "num_comments": 87,
+      "num_comments": 88,
       "created_at": "2026-10-25T09:51:17Z",
       "object_id": "50229827",
       "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-12-image-4.jpg",
@@ -145,7 +145,7 @@
       "site_name": "torrentfreak.com"
     }
   ],
-  "total_hits": 480,
+  "total_hits": 489,
   "has_metadata": true,
-  "fetched_at": "2026-10-26T23:02:18.074083+00:00"
+  "fetched_at": "2026-10-27T02:18:23.538732+00:00"
 }

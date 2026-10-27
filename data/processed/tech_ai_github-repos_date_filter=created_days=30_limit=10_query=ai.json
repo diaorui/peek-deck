@@ -8,9 +8,9 @@
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "preview_image": "https://repository-images.githubusercontent.com/1393965829/168bf9e1-1ac8-406f-bfe0-3d8b9f514cb4",
-      "stars": 8674,
+      "stars": 8679,
       "stars_display": "8.7k",
-      "forks": 2071,
+      "forks": 2072,
       "forks_display": "2.1k",
       "language": "TypeScript",
       "topics": [
@@ -23,28 +23,6 @@
       "updated_at": "2026-10-26T21:19:18Z"
     },
     {
-      "full_name": "Louis-CFM/coucou",
-      "name": "coucou",
-      "owner": "Louis-CFM",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/72659375?v=4",
-      "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
-      "url": "https://github.com/Louis-CFM/coucou",
-      "preview_image": "https://repository-images.githubusercontent.com/1391438314/b0bc531a-8a82-4336-ae24-ee11920769df",
-      "stars": 6563,
-      "stars_display": "6.6k",
-      "forks": 1063,
-      "forks_display": "1.1k",
-      "language": "Swift",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "antigravity",
-        "claude",
-        "claude-code"
-      ],
-      "updated_at": "2026-10-23T17:25:38Z"
-    },
-    {
       "full_name": "CopilotKit/OpenDots",
       "name": "OpenDots",
       "owner": "CopilotKit",
@@ -52,10 +30,10 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 6045,
+      "stars": 6049,
       "stars_display": "6.0k",
-      "forks": 882,
-      "forks_display": "882",
+      "forks": 883,
+      "forks_display": "883",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-10-26T15:39:40Z"
@@ -68,10 +46,10 @@
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 5327,
+      "stars": 5338,
       "stars_display": "5.3k",
-      "forks": 155,
-      "forks_display": "155",
+      "forks": 156,
+      "forks_display": "156",
       "language": "Swift",
       "topics": [
         "ai-blocker",
@@ -90,10 +68,10 @@
       "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "preview_image": "https://opengraph.githubassets.com/f751caee15a46d51a2a7a833d972810532db9048fb0a18ca517e88ad6613117f/QingYunA/answer-me-with-html",
-      "stars": 4496,
+      "stars": 4503,
       "stars_display": "4.5k",
-      "forks": 305,
-      "forks_display": "305",
+      "forks": 307,
+      "forks_display": "307",
       "language": "JavaScript",
       "topics": [
         "agent-skill",
@@ -112,7 +90,7 @@
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 3982,
+      "stars": 3981,
       "stars_display": "4.0k",
       "forks": 157,
       "forks_display": "157",
@@ -128,10 +106,10 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "preview_image": "https://opengraph.githubassets.com/6b52771731dc5a2e478f00d501e5ca69d9dedf14a7b8f516b1d9796faa736ab1/onehumanbeing/esp32-iphone-agent",
-      "stars": 3946,
-      "stars_display": "3.9k",
-      "forks": 522,
-      "forks_display": "522",
+      "stars": 3955,
+      "stars_display": "4.0k",
+      "forks": 524,
+      "forks_display": "524",
       "language": "C",
       "topics": [
         "ai-agent",
@@ -150,7 +128,7 @@
       "description": "AI API \u4e2d\u8f6c\u7ad9\u8bc4\u6d4b\u6392\u884c\u4e0e\u5207\u6362\u5de5\u5177\uff1a\u5b9e\u6d4b\u53ef\u7528\u7387\u3001\u5ef6\u8fdf\u4e0e\u4ef7\u683c \u00b7 Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "url": "https://github.com/Folkbench/folkbench",
       "preview_image": "https://opengraph.githubassets.com/44255c4dfb46381f4789ce2dc024f76d1e4dbf3faf07959f54fc96c1aca05d32/Folkbench/folkbench",
-      "stars": 3738,
+      "stars": 3743,
       "stars_display": "3.7k",
       "forks": 21,
       "forks_display": "21",
@@ -172,10 +150,10 @@
       "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
       "url": "https://github.com/openfilm/openfilm",
       "preview_image": "https://opengraph.githubassets.com/6004db075bb4e192996527b9322b422e36a974ad879c7ef819dc5d65335eef12/openfilm/openfilm",
-      "stars": 3018,
+      "stars": 3034,
       "stars_display": "3.0k",
-      "forks": 284,
-      "forks_display": "284",
+      "forks": 287,
+      "forks_display": "287",
       "language": "TypeScript",
       "topics": [
         "ai-video",
@@ -184,7 +162,7 @@
         "coding-agents",
         "html"
       ],
-      "updated_at": "2026-10-26T22:46:22Z"
+      "updated_at": "2026-10-26T23:05:03Z"
     },
     {
       "full_name": "Leonxlnx/earshot",
@@ -194,10 +172,10 @@
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "preview_image": "https://opengraph.githubassets.com/bfb72f0aa533890323d43000bbc580bf8f78bf6c276176428d4d82d88c37de83/Leonxlnx/earshot",
-      "stars": 2905,
+      "stars": 2920,
       "stars_display": "2.9k",
-      "forks": 177,
-      "forks_display": "177",
+      "forks": 179,
+      "forks_display": "179",
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -207,12 +185,34 @@
         "sound-design"
       ],
       "updated_at": "2026-10-22T23:12:59Z"
+    },
+    {
+      "full_name": "nanaism/yomiyasu",
+      "name": "yomiyasu",
+      "owner": "nanaism",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/72681409?v=4",
+      "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "preview_image": "https://opengraph.githubassets.com/58077f323e8cd0181ac0d659316a7c9a8b19c90c556794f0c3c9c9f65ca637d9/nanaism/yomiyasu",
+      "stars": 2580,
+      "stars_display": "2.6k",
+      "forks": 68,
+      "forks_display": "68",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex"
+      ],
+      "updated_at": "2026-10-26T07:38:06Z"
     }
   ],
   "query": "ai",
-  "search_query": "ai created:>2026-09-26",
+  "search_query": "ai created:>2026-09-27",
   "days": 30,
   "limit": 10,
-  "total_count": 494971,
-  "fetched_at": "2026-10-26T23:02:18.184956+00:00"
+  "total_count": 479190,
+  "fetched_at": "2026-10-27T02:18:23.762827+00:00"
 }
