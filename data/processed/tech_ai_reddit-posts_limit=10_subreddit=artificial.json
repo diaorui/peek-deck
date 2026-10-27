@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer",
+      "author": "hollee-o",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/",
+      "published": 1793117519.0,
+      "thumbnail": "https://external-preview.redd.it/T3oDtsWtwnkV0PtzH3tO3sHDi61AVasOFTWxyl1eZZ0.jpeg?width=640&crop=smart&auto=webp&s=2a920c0a5667b1664370b26b83c14e22c7fc9ee9",
+      "external_url": "https://futurism.com/artificial-intelligence/grim-test-ai-no-mercy",
+      "site_name": "Futurism",
+      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
+      "description": "It\u2019s almost like it\u2019s showing us what it will do given the chance."
+    },
+    {
       "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
       "author": "Environmental_Mix22",
       "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
@@ -46,26 +57,26 @@
       "description": "OpenAI reports that two internal coding agents weakened misalignment monitoring, one by disabling alerts and one by removing a monitor and then falsely..."
     },
     {
-      "title": "How to determine the most valuable AI model?",
-      "author": "Snoo-75663",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgtovl/how_to_determine_the_most_valuable_ai_model/",
-      "published": 1793110473.0,
+      "title": "Akamai launches an AI agent sandbox with outbound access blocked by default",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh2i2l/akamai_launches_an_ai_agent_sandbox_with_outbound/",
+      "published": 1793129992.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I have a hard time picking the right model, based on its cost and intelligence. What are your formulas and sites to pick the most valuable AI model based on cost and intelligence?"
+      "description": "Akamai announced Akamai Inference and Akamai Agent Sandbox on October 27. Inference offers OpenAI-compatible API access to 12 open-weight models. Agent Sandbox runs the JavaScript or Python code an agent writes inside a second WebAssembly boundary, with outbound network access blocked by default. The sandbox also supports network and resource limits. Akamai says agents can call tools and MCP servers while their generated code stays inside the restricted runtime. Spin is the open-source foundation, and both products are in beta. The practical change is the control boundary around agent-written code. The launch is still vendor evidence, though. Akamai has not published an independent isolation or performance benchmark, and access to the sandbox is still by request. Sources: Akamai announcement: https://www.akamai.com/newsroom/press-release/akamai-launches-ai-inference-service-and-agent-execution-environment Akamai Agent Sandbox: https://www.akamai.com/products/akamai-agent-sandbox"
     },
     {
-      "title": "Johns Hopkins alerts 3,000+ patients after data sent to AI tool",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1xg34zr/johns_hopkins_alerts_3000_patients_after_data/",
-      "published": 1793035257.0,
-      "thumbnail": "https://external-preview.redd.it/lHsAk40fy10v7egNnz7Oaq7H-7iqqnCz4VLNsvOKOs8.jpeg?width=640&crop=smart&auto=webp&s=3c96abc29de927e8a219cd40cb0bc827992d487e",
-      "external_url": "https://www.wmar2news.com/local/patients-data-sent-to-ai-tool-johns-hopkins-bayview-medical-center-oct-23-2026",
-      "site_name": "WMAR 2 News Baltimore",
-      "favicon": "https://www.wmar2news.com/apple-touch-icon.png",
-      "description": "Johns Hopkins Bayview is alerting about 3,182 patients after a worker uploaded their data to an unapproved AI tool. Free credit monitoring offered."
+      "title": "Regarding training LLMs",
+      "author": "Ok-Phrase5891",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgvd04/regarding_training_llms/",
+      "published": 1793114374.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Would training LLMs on either smaller batches of text first instead of the (current) large batches of text or on easier subjects/topics first then later train them on subjects/topics with increasing order of difficulty...enable the LLMs to learn better. I ask this because the human mind learns/is taught this way. Also would doing rules-based unsupervised learning enable more efficient learning by the LLMs? By rules I mean teaching LLMs things like grammar and conversation rules first and then doing unsupervised learning?"
     },
     {
       "title": "What's the most underrated use of AI that has nothing to do with writing or making images?",
@@ -79,38 +90,27 @@
       "description": "What's your example?"
     },
     {
-      "title": "An LLM is basically just a massive and extremely sophisticated mathematical function?",
-      "author": "DoublePassRadiator",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfw15p/an_llm_is_basically_just_a_massive_and_extremely/",
-      "published": 1793019346.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "An LLM is basically just a massive and extremely sophisticated input/output mathematical function?"
+      "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/",
+      "published": 1793126598.0,
+      "thumbnail": "https://external-preview.redd.it/vLkKpmN0AXVmZrC5U9Kv0ku8MuSSNfBy6GmIPier5jw.jpeg?width=640&crop=smart&auto=webp&s=a4b8dc2aae7832fa7f29d0b4dcfddfbc769c9beb",
+      "external_url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics"
     },
     {
-      "title": "Are we actually any closer to reliable agents, or is it still mostly demos?",
-      "author": "Usual_Difficulty_126",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgji5i/are_we_actually_any_closer_to_reliable_agents_or/",
-      "published": 1793076718.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I keep seeing claims about agents that can book things, manage inboxes, run multi step tasks on their own. Every demo looks great but every time I try to use one for something real it falls apart at step four and I end up babysitting it. I am not trying to be cynical, I genuinely want to know if anyone here has an agent setup that reliably does useful work without you watching it. What actually works for you day to day versus what is still a party trick?"
-    },
-    {
-      "title": "Dutch Government Plans to Cut 25,000 Jobs (16%) in AI-Led Overhaul",
-      "author": "fuchsiarush",
-      "url": "https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/",
-      "published": 1793030793.0,
-      "thumbnail": "https://external-preview.redd.it/SuL-_OSaSL_CoEDrPnpuGzpcNXhFI81MBmiRcaxKswM.jpeg?width=640&crop=smart&auto=webp&s=986281c77074b15f0fa240848e1eadd9c88ced6a",
-      "external_url": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul?taid=6adf68a2320643000121fd64&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-      "site_name": "bloomberg.com",
+      "title": "The Idiot\u2019s guide to Model Training, fine-tuning, and RAG.",
+      "author": "galratner",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgunil/the_idiots_guide_to_model_training_finetuning_and/",
+      "published": 1793112758.0,
+      "thumbnail": "https://external-preview.redd.it/VBtumW4uTmEzC2A8ndaOH9rXf6u2TlNR9xihSn4FIYA.jpeg?width=640&crop=smart&auto=webp&s=bf423de5b44ee209871fed5ba11877f7cc596810",
+      "external_url": "https://galratner.substack.com/p/the-idiots-guide-to-model-training",
+      "site_name": "galratner.substack.com",
       "favicon": null,
       "description": null
     }
   ],
-  "fetched_at": "2026-10-27T14:48:37.633447+00:00"
+  "fetched_at": "2026-10-27T19:51:31.723227+00:00"
 }

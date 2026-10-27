@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-27T14:49:09.953180+00:00'
+updated: '2026-10-27T19:51:58.499627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 27, 2026 at 14:49 UTC  
+**Last Updated:** October 27, 2026 at 19:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ Hey all, here's a small update on CBR-II, my DIY biped. This is the third iterat
 
 Microduck from Pollen Robotics. I had the opportunity to meet up with the team here to learn about this, and it's not only a cute little robot, it's one very impressive development tool 👏 "A tiny biped for reinforcement learning" I attended NVIDIA GTC Berlin as a guest of NVIDIA EMEA.
 
-1d ago
+2d ago
 
 ---
 
 **[Used an Octopus Pro + 6x TMC2209 to drive a 6-axis 3D-printed robot arm (not a 3D printer!)](https://www.reddit.com/r/robotics/comments/1xfbmjt/used_an_octopus_pro_6x_tmc2209_to_drive_a_6axis/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -58,7 +58,7 @@ Microduck from Pollen Robotics. I had the opportunity to meet up with the team h
 
 I’m starting a master’s in two months, working on vision-guided grasping and end-effector integration for humanoid robots. I have experience in Mechanical Design mainly .. have worked with ROS, and computer vision in college but want a better understanding of humanoids as a complete system. My rough plan is below: start with anatomy and hardware, then arm movement and control, then some simulation. I learn best through practical examples rather than heavy maths. Any recommendations for accessible resources, or changes you’d make to the plan? Also happy to connect with anyone interested in studying together.
 
-1d ago
+2d ago
 
 ---
 
@@ -74,7 +74,7 @@ Took me a while to work up the nerve to dig into the sloth-speed-servo bug since
 
 Source code and more info here: https://github.com/AdrianCX/picohive-robotarm Controlled via internal web page (gamepad, keyboard), LLMs, MQTT, with an openGL visualizer
 
-1d ago
+2d ago
 
 ---
 
@@ -82,7 +82,7 @@ Source code and more info here: https://github.com/AdrianCX/picohive-robotarm Co
 
 I’m building a robot lab in a Gaussian-splat reconstruction of my office. Today the RealMan ECO65 (on loan) finally moved: J1 +5° at 5% speed and back. Then I switched its Wi-Fi to client mode, lost access, and discovered I had no Ethernet cable. The software side has one shared backend for Codex and Claude, revision-checked edits, a MuJoCo twin and link/desk collision checks. The MCP motion interface is still simulation-only; the physical move was a separate controller session. The twin is a nominal model, not validated hardware behaviour. EP19 shows the build and the failures. The J1 visual is a labelled replay of the logged command. https://www.youtube.com/watch?v=1ZrYGwZJQto For those running an arm in a home lab: what was the first mismatch you found between your twin and the hardware?
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
 
-ABC News - Breaking News, Latest News and Videos • 17h ago
+ABC News - Breaking News, Latest News and Videos • 22h ago
 
 ---
 
@@ -126,53 +126,21 @@ ABC News - Breaking News, Latest News and Videos • 17h ago
 
 BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.
 
-CNBC • 16h ago
+CNBC • 21h ago
 
 ---
 
-**[In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans](https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html)**
+**[Toyota takes on Tesla and China in humanoid robot race](https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1)**
 
-The New York Times • 5h ago
-
----
-
-**[Week Begins with Robotics Prep for Spacewalk and Advanced Research](https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/)**
-
-Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station’s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday’s schedule.
-
-NASA (.gov) • 22h ago
+Financial Times • 1d ago
 
 ---
 
-**[This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)**
+**[China unveils 13-foot robot that can lift a cow](https://malaysia.news.yahoo.com/china-unveils-13-foot-robot-174401927.html)**
 
-Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.
+‘Robots should not merely replicate human forms but surpass human physical limits,’ says NeodraDynamics founder
 
-TechCrunch • 21h ago
-
----
-
-**[Mayo Clinic to test 'autonomous robots' in Rochester warehouse](https://www.postbulletin.com/business/mayo-clinic-to-test-autonomous-robots-in-rochester-warehouse)**
-
-Mayo Clinic is building out a 6,700-square-foot space in a warehouse on the Rochester Technology Campus to test out “robotics workflows” that will be part of the “Bold. Forward. Unbound. In Rochester” initiative.
-
-Post Bulletin • 3h ago
-
----
-
-**[ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees](https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/)**
-
-US robotics company stands by ICE deal as more than 300 employees warn of risk.
-
-Ars Technica • 19h ago
-
----
-
-**[An 11-person startup raised $40 million to challenge robotics' data-hungry giants](https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10)**
-
-Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration.
-
-Business Insider • 3h ago
+Yahoo • 2h ago
 
 ---
 
@@ -180,15 +148,45 @@ Business Insider • 3h ago
 
 GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals.
 
-The Verge • 3h ago
+The Verge • 8h ago
 
 ---
 
-**[Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom](https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages)**
+**[In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans](https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html)**
 
-Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027.
+The New York Times • 10h ago
 
-Interesting Engineering • 12h ago
+---
+
+**[Week Begins with Robotics Prep for Spacewalk and Advanced Research](https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/)**
+
+Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station’s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday’s schedule.
+
+NASA (.gov) • 1d ago
+
+---
+
+**[An 11-person startup raised $40 million to challenge robotics' data-hungry giants](https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10)**
+
+Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration.
+
+Business Insider • 8h ago
+
+---
+
+**[ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees](https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/)**
+
+US robotics company stands by ICE deal as more than 300 employees warn of risk.
+
+Ars Technica • 1d ago
+
+---
+
+**[Ukraine Develops Drone-Carrying Ground Robots to Fight Aerial Threats, With Millions More in Funding Needed](https://www.kyivpost.com/post/88325)**
+
+A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets.
+
+Kyiv Post • 6h ago
 
 ---
 
@@ -196,23 +194,23 @@ Interesting Engineering • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
-
-Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
-
-📺 VisionX Lab
-
-👁️ 178K • 👍 5K • 💬 314 • ⏱️ 0:59 • 1d ago
-
----
-
 **[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
 
 AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
 
 📺 InsideAI
 
-👁️ 1.8M • 👍 34K • 💬 4K • ⏱️ 15:05 • 1d ago
+👁️ 1.9M • 👍 36K • 💬 4K • ⏱️ 15:05 • 2d ago
+
+---
+
+**[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
+
+Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
+
+📺 VisionX Lab
+
+👁️ 210K • 👍 6K • 💬 342 • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -222,7 +220,7 @@ NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelli
 
 📺 DPCcars
 
-👁️ 84K • 👍 326 • 💬 77 • ⏱️ 4:22 • 1d ago
+👁️ 85K • 👍 329 • 💬 80 • ⏱️ 4:22 • 1d ago
 
 ---
 
@@ -232,17 +230,27 @@ AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots.
 
 📺 NVIDIA
 
-👁️ 255K • 👍 4K • 💬 174 • ⏱️ 2:40 • 6d ago
+👁️ 258K • 👍 4K • 💬 175 • ⏱️ 2:40 • 6d ago
 
 ---
 
-**[Why all robots should be crabs](https://www.youtube.com/watch?v=eUGL5QYxzE0)**
+**[China Sets New Guinness World Record as 110 Humanoid Robots Dance in Perfect Synchronization | AI1B](https://www.youtube.com/watch?v=y-Iy1AsIM9I)**
 
-Thank you to Quince for sponsoring this video! Elevate your wardrobe essentials with Quince. Download the Quince app for ...
+China has set a new Guinness World Record as 110 full-size humanoid robots performed synchronized dance routines in Jinan, ...
 
-📺 Xyla Foxlin
+📺 DRM News
 
-👁️ 224K • 👍 7K • 💬 447 • ⏱️ 14:36 • 2d ago
+👁️ 35K • 👍 91 • 💬 47 • ⏱️ 1:21 • 1d ago
+
+---
+
+**[New NVIDIA Isaac GR00T humanoid AI Robot is mind blowing - World Premiere](https://www.youtube.com/watch?v=C3CeYOOYzXw)**
+
+Take a look at the all new NVIDIA Isaac GR00T humanoid AI robot. NVIDIA is accelerating the future of humanoid robotics with ...
+
+📺 REC Anything
+
+👁️ 70K • 👍 412 • 💬 73 • ⏱️ 9:37 • 22h ago
 
 ---
 
@@ -252,27 +260,25 @@ The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredibl
 
 📺 DPCcars
 
-👁️ 60K • 👍 537 • 💬 165 • ⏱️ 2:30 • 6d ago
+👁️ 60K • 👍 541 • 💬 165 • ⏱️ 2:30 • 6d ago
 
 ---
 
-**[Meet Micro Duck 🦆 This Tiny AI Robot Costs Just $399!  #Shorts](https://www.youtube.com/watch?v=7KL0_3uZ_Fc)**
+**[Robots Going Completely Wrong Caught on Camera - Part 3](https://www.youtube.com/watch?v=wcOZklEXzd8)**
 
-Meet Micro Duck, a tiny robot project bringing AI and robotics together. Developed through collaboration involving NVIDIA, ...
+Robots going completely wrong caught on camera return in Part 3 with more shocking malfunctions, unexpected behavior, and ...
 
-📺 FactShip
+📺 MostAmazingTop10
 
-👁️ 4K • 👍 114 • 💬 6 • ⏱️ 0:32 • 10h ago
+👁️ 77K • 👍 542 • 💬 37 • ⏱️ 10:29 • 3d ago
 
 ---
 
-**[China&#39;s New Robot Is SCARY Powerful! 💀](https://www.youtube.com/watch?v=oWc-1_21gQo)**
+**[Meet Unitree’s latest security robot: martial arts skills &amp; car-lifting strength](https://www.youtube.com/watch?v=Vez_mlGo7gE)**
 
-Unitree H2-X, Unitree robot, robot bodyguard, China robot, Chinese humanoid robot, robot dents car, robot punches car, robot ...
+📺 ShanghaiEye魔都眼
 
-📺 MR WHAT
-
-👁️ 107K • 👍 3K • 💬 194 • ⏱️ 0:22 • 21h ago
+👁️ 111K • 👍 730 • 💬 329 • ⏱️ 1:01 • 3d ago
 
 ---
 
@@ -282,17 +288,7 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 2.1M • 👍 13K • 💬 2K • ⏱️ 4:06 • 5d ago
-
----
-
-**[Humanoid Home Robots Are Here and I&#39;m So Glad I Was Born When I Was](https://www.youtube.com/watch?v=OV7-30YZkmY)**
-
-"I am ready to stand up. Please do not touch me." Humanoid robots aren't a futuristic possibility anymore. They're being unboxed, ...
-
-📺 Tom Powell Jr
-
-👁️ 66K • 👍 6K • 💬 2K • ⏱️ 0:57 • 2d ago
+👁️ 2.1M • 👍 14K • 💬 2K • ⏱️ 4:06 • 5d ago
 
 ---
 

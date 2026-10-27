@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic IPO filing reveals AI security breaches, training halt",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5",
-      "pub_date": 1793108266.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/34f39993c86555d0de32d036c1e222ba.jpg",
-      "description": "Anthropic revealed four AI models accessed real-world computer systems during security tests, raising new concerns about AI safety ahead of its public debut."
-    },
-    {
       "headline": "In China, the AI bubble has already burst",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -25,86 +15,96 @@
       "description": null
     },
     {
-      "headline": "AI industry continues to boom",
-      "source": "KTVU",
-      "source_url": "https://www.ktvu.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YNVNLZFo5OVdaLW9icVA5QU43eDI0ZDJOVVltQkZ2NDFmblp4TVhxLUpJY19mbVVNb1FQeTZuWEVid1NGVV8xeGxCaGNRXzNENGlJckFiNEtlNknSAWBBVV95cUxPVmNrYl9MdXBlekZGOTNEZlVmUDdwTGlRemk4Z1E3cHJpMThHYVFLa2VhZl9saDRDWEJSd2tiWV9LaGFSS1FYSXJhYjNzdVNYRGsxWk5lYnpGeW42TjlkcGw?oc=5",
-      "pub_date": 1793110795.0,
-      "article_url": "https://www.ktvu.com/video/fmc-6syfbf157u0ccdxx",
-      "image": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/n90ysq2r07rukqof/1200/630/f523axwq98gijsnv.jpg?ve=1&tl=1",
-      "description": "Financial advisor Chris Markowski discusses Nvidia's investment in Meta, Microsoft offering buyouts and Anthropic's IPO."
+      "headline": "Anthropic IPO filing reveals AI security breaches, training halt",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5",
+      "pub_date": 1793124112.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/34f39993c86555d0de32d036c1e222ba.jpg",
+      "description": "Anthropic revealed four AI models accessed real-world computer systems during security tests, raising new concerns about AI safety ahead of its public debut."
     },
     {
-      "headline": "China\u2019s rich list topped by $100 billion TikTok AI fortune: ByteDance founder Zhang Yiming",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xMTBMTm96eXNvMXNjNXNnSTFnTnZoSGxqVHpycUtzY3VDZTFXSW43NG84V2p6YmpVMXkxNGxlVkkyYlF3LURsWmpTWWFuOGFJSTA1UERjOHYtYlRvcHNLTVczVGdQVDNMdERobktSNkdqc0hReDUxNDhmOXNHZw?oc=5",
-      "pub_date": 1793111697.0,
-      "article_url": "https://fortune.com/2026/10/27/bytedance-zhang-yiming-china-rich-list-ai/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26300222211879-e1793106942258.jpg?resize=1200,600",
-      "description": "It's a record high for China's richest person, and the rankings included a record 1,529 people worth more than $750 million."
-    },
-    {
-      "headline": "EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzVtbS01OXk3NnVyRUloc3RIcmtsTVVWczZrbUw0T0M0bGZkZXk3NUFidnVwaWloTzh0MVh2UTNWSnFzWHA5OWlNUlRPZmxYV0F5T3djbHBkLTZpdm54YV84T0Exbkxpay1KQ2xncEExT2FyNndUU3lqTFh0UG5ndnJqOHlvNXh0cXBGdkowemlFVFVWZzhXUGtjbng3dTRIendvbkpmdHRHd0lwQThzUW5HblhzbEdUZ2ZuOUNtUnBLdw?oc=5",
-      "pub_date": 1793111613.0,
-      "article_url": "https://www.reuters.com/business/finance/neocloud-firm-argentum-ai-talks-5-billion-ai-chip-financing-sources-say-2026-10-27/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Did the Hardest Problem in A.I. Just Get Much Easier?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGdlRklqWWRYazUxTGpJTFZsa1M2OEVxTmdHZE5jWVd5MDJfbDJ6RWxYaW9HSzFubUFRQnRwRHNiakJpRFQwX0t0QWhidm4yVEU2ZFQxc1ZhNUdBV2NCc3g0UWdYUHRza2JoMzFTXzM0NUdHMTdmRFJTOHlzekFPZg?oc=5",
-      "pub_date": 1793091780.0,
-      "article_url": "https://www.nytimes.com/2026/10/27/science/ai-problem-interpretability.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018Sloppy gruesomeness\u2019: reviewers slate Musk\u2019s AI-made Odyssey film",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkJCQU52c1RnV0lJdUMzRnhWRzlkVHB1YVVTWlJpWlJZNzI4YzFZWkptQjBCTWx2U0ZOZjNCWDFoNmJtWjA1S2pTRXVQUFJNNDNmS056MS04MTd4NVZwVDNkTWc0bDBKS1ZLYnViTmhfUDB4Nml0emZfcnVLTzV0T3hfcFVmeTlqNk1WMEoxN2Vya2VDSjVyazRnUWxuMEE?oc=5",
-      "pub_date": 1793109480.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
-      "image": "https://i.guim.co.uk/img/media/f5bb844cbf76398948b5d3efa0fb0e79205a0c23/408_0_1983_1586/master/1983.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a766dd6103b58ad8cdf8e2385dd80db2",
-      "description": "Tesla tycoon launched Grok project after criticising Christoper Nolan\u2019s diverse casting for his Homeric blockbuster"
-    },
-    {
-      "headline": "Working with academic communities to build scientific understanding",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
-      "pub_date": 1793050970.0,
-      "article_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&h=900&fit=fill",
-      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
-    },
-    {
-      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "headline": "Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNklNQlZSV0JkMk95ODdwQ3Fac1ZNbHJWMUFsMjIwbFB1UndnS29RNFNNcXN6X3FGVEx4dEFYWWtnQkhwMU5SQ1NHa2ZmVDZlMmZfT0F4VHRfelNCOWFvYnBwMV9SWkVMZ1pRTTNwNTh2NzNTWXlwVdIBfkFVX3lxTE5LZTNUMTJWT0hXQ2xBU2otcjZSWUQ5YkVrY1NJSkQxZ01BNHBrMnlSOEpIQ0tuVTZmb0dJZFA4MUluS3BHeUR3cVQxS3Q5VVVXN3hpWnVZMExOUDBiUHZra2tWM3VhWVBJVXBudEVXdDRCcC1iMk9hY2ZaM0FBZw?oc=5",
-      "pub_date": 1793029930.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
-      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency."
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5",
+      "pub_date": 1793041175.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
+      "description": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission."
     },
     {
-      "headline": "Decoding Microsoft's AI workforce shake-up: Are more layoffs coming?",
+      "headline": "What is the 'AI bubble' and what happens if it pops?",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY01QUmpyZmdVdTVsenVuMlQ5TVBybG45VG5ZdGRyUXEyYXltQnhPWlhUbUpVLTNQTEJLWTVPTWJtWm1xVW9KOFdFSC1lZlZvNWNtM2JsdlpKXzNra0gwTW5kM0FKS29INk9CdWhxeHhWbkJnYjM1Mk84eWRGeVM2empGXzIySkNLUW9YMQ?oc=5",
+      "pub_date": 1793129488.0,
+      "article_url": "https://www.usatoday.com/story/money/2026/10/27/anthropic-ipo-ai-bubble/92352136007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/20/USAT/92352160007-20261015-t-205551-z-1697502751-rc-29-lnairmb-6-rtrmadp-3-anthropicipoinvestors.JPG?crop=4999,2812,x0,y261&width=3200&height=1801&format=pjpg&auto=webp",
+      "description": "In the wake of Anthropic's release of its public offering prospectus, experts share their takes on the \"AI bubble.\""
+    },
+    {
+      "headline": "Meta's nearly $100 billion stock sale is a turning point for how Big Tech pays for AI",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnQwamRKeEZ2bU1ISk1femx0T2hzQllzUlNHa3BzZlBpNHMtVWRmcUQ0Tk03VW1QWU5BNWRZdE9GbTl2WmRuUmUxWUltWFAtWFVjSFRWTTRCcXJMUUtDY2JNcEktU2x5Z0FNZFVSUUpQaHZ4QS1DbDdwR0ViT2RpbHM0TnU2a3Z4V0p1cTQyMzI3Q3piN3NhZGcwMk9OeUdiQ1FtTjhlOUw5T19BUHRKQkd3?oc=5",
-      "pub_date": 1793110058.0,
-      "article_url": "https://finance.yahoo.com/video/decoding-microsofts-ai-workforce-shake-up-are-more-layoffs-coming-140738828.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/37706a5c3d76010b11d8122d36c3698301a586ab4116b03a551c0fe5d914282c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F957aa5d9-8858-4fb5-bf5e-981da0aaa465",
-      "description": "Yahoo Finance Executive Editor Brian Sozzi takes a closer look at Microsoft's (MSFT) employee buyouts on Sozzi Unleashed, examining the role of artificial intelligence in the tech giant's evolving workforce strategy. Sozzi breaks down what's driving the changes, how AI could reshape Microsoft's staffing needs, and whether another round of layoffs could be on the horizon."
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN3hiMUxqR2tHRWdQY2xwX05JVVU4My1BWnpLdzJadkZ4bWJYT0N4T015RTdjcEQySF8xR2lBWElsM1JadEU2V2pVSkRHYXhORUhEZkdjSk5HQVBCOC02S0gxODNwLTZTa0lrTXg4VXBCQWJzV3FfSThBZnRnemZ6c0I2YkRHZVVmenNDY3hrcW0wbVE1UzBCRm5fcHcwRUZHQnlOXy1xVkFNTVVJemlqa1JleHl6Y0ZqUUc0VlBldUdaZFFoaHVIRnhycjJwd0E0N19sUWJPQQ?oc=5",
+      "pub_date": 1793116353.0,
+      "article_url": "https://finance.yahoo.com/markets/article/metas-nearly-100-billion-stock-sale-is-a-turning-point-for-how-big-tech-pays-for-ai-140424769.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c12be9bfb033e766f2596143dd689e8b10ec6cf15995a87d0b851e55cd076a11/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9f28a11b-23dd-423d-bc96-5640504920d6",
+      "description": "For a decade, Big Tech's cash machines paid for every moonshot. Now Meta is passing the hat to shareholders."
+    },
+    {
+      "headline": "Google to report Q3 results as investors focus on AI growth, weigh Meta Muse AI risk",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFNCNzhFanV1OTduaTk2dkZ3VzcxSF9zcWl3NzJVdTIwUGNDLXZZMTNnVjA2S3A0eUpOQ1R1Qk1VS3dkbHpzaVBEQ1lMUUdhTExFUDFuRTEySGh1aGdzVXlWeGVrdy0ta1FDelc0NWVHal9GODJfdjJ0Qy1PMWJzQ3psLTNvZWJBWWJMdXVxdk9hZkFfVi1pLXpwdVFtU0pMZVRLalM0NlZnZlE4WUl2OXhXbGp5OWhtYUNiRjRuWVprQlNycjhlbTZQa21yZTV2bFVSY0hqWnVYU1k?oc=5",
+      "pub_date": 1793128584.0,
+      "article_url": "https://finance.yahoo.com/technology/article/google-to-report-q3-results-as-investors-focus-on-ai-growth-weigh-meta-muse-ai-risk-191624324.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Google will report its third-quarter earnings Wednesday."
+    },
+    {
+      "headline": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
+      "pub_date": 1793090453.0,
+      "article_url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108443817-1792619674080-gettyimages-2296215637-META_CONNECT.jpeg?v=1792795588&w=1920&h=1080",
+      "description": "Meta on Monday announced plans\u00a0to raise a total of $95 billion to support its investments in artificial intelligence infrastructure."
+    },
+    {
+      "headline": "CNBC Workforce Executive Summit live updates: How AI is reshaping work and jobs",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iWGtJLTh5eFB4ZlUtdHFabkI1Z1B0VlNMWmZLX2FncjNKYzNQOTdYM19sR2FoLVVudVhLT0JlS0JIdmxCcWVrRTNzcV9JUHR6RWE2RUJPLVJjbVFBWkpLNkV5NzVWT2pzQ09aTDBSSFdrdFpUZTJsQlNyY9IBgAFBVV95cUxPQU01YjZ6bUdEZzdGYTZDNE0zOGtpNzk2Ym1SS1lNcWRkUXJpT0o5NXVkQ2QzNUI4Q1VScXhQTjE1NVlJemJSZ3NablVkeHFMb3JnZzliZzJxWlp4NGxaemtpb2VuVWg5VDBIa3ZReTRzNjJDY1l6Y25VeFMyay1uMw?oc=5",
+      "pub_date": 1793129399.0,
+      "article_url": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108470353-1793130191009-CNBC_WEC_SMMT_BB_102726_1098.jpg?v=1793130288&w=1920&h=1080",
+      "description": "Follow CNBC's 2026 Workforce Executive Summit for live updates on Walmart's AI strategy, changing job skills, hiring, employee benefits and the future of work."
+    },
+    {
+      "headline": "Ex-Google engineer Nate Soares hasn\u2019t added to his 401(k) in a decade because he's an 'AI kills all humans guy'",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPS0QyWXN4dXlDR1hfS0I3bEllRG04TjJQSkVrMGhodmVKenNRb2JYZGx6WUg5SWZHbThub3RyVG1CYmdkTTFzNXduczRYd1FrMHV0Y1FPQW52V1UtTGxFY283Z2hwYmc2bEpzemw0SktMSER6T2lBMmk3bw?oc=5",
+      "pub_date": 1793129571.0,
+      "article_url": "https://fortune.com/2026/10/27/ai-humanity-nate-soares-401k-retirement/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298162116-e1793125988691.jpg?resize=1200,600",
+      "description": "The coauthor of \u201cIf Anyone Builds It, Everyone Dies\u201d puts the odds that humanity doesn\u2019t have 10 years left at better than even."
+    },
+    {
+      "headline": "Elon Musk\u2019s AI Odyssey review \u2013 the dullest, most pointless riposte possible to Christopher Nolan\u2019s brilliant epic",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3dBazFsb1RuR0tNZllXdEJOS1RvUDc4ZGhFclVLbTZCeWZKQzY1aWNXU2tnNEdoS2E0RWR3NThGcTZyN1NwZjBFOXduX3V6V29acTczTFA4SGFSa01QWUw1eW5LeWt1a2M4QWg0RmkwZldIbThKd2FnT0ZZb1BmNXh0Q1pvbDN6SWVTUjhTVkc3V2RXQ082N2p3?oc=5",
+      "pub_date": 1793110680.0,
+      "article_url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+      "image": "https://i.guim.co.uk/img/media/92774383fe7ce51c65f27cb958af0171dee508c7/561_20_1550_1241/master/1550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=2d661d233a58b4257142862bda0fd231",
+      "description": "It is hardly a shock that Grok AI\u2019s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won\u2019t"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T14:49:02.516793+00:00"
+  "fetched_at": "2026-10-27T19:51:48.109072+00:00"
 }
