@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Ethereum Price Prediction: Can ETH Get Back to $2,700 by the End of November?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkY3VDZQTk9FdU0xY0xEaE1KaTJHek1WdU1LbFhkbHA1R1lQTTJoS2sxNnQtTzN4ZVJMSU5FTFY0UDk2YUQwbHZMS2lucEU0cVB1MnQ4NVliUXgteG8yWW9Pb0Rkb1h2R2cyeWJ3Q0lmdnJIVGUxb2trUVR5SGx2Y2FjZ05qeUxpTUFESjlrRDdwV1dEemR5ZFFXT0ZCazlj?oc=5",
+      "pub_date": 1793139953.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-eth-back-222553067.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2c091edc9c6f6b8978a43c8fbbf3e9d29d017a1f2512669224d356bb0b3eece3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6e20547f84aa15d2fc8b12a274ad2b0f",
+      "description": "ETH sits 15% below a key price level with ETF outflows piling up, a major upgrade delayed indefinitely, and sellers hitting it harder than Bitcoin. Several factors need to align fast for any November recovery to happen."
+    },
+    {
       "headline": "ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -15,36 +25,6 @@
       "description": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade."
     },
     {
-      "headline": "Crypto giants double down on bitcoin and ethereum",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRoazJKRmEtT1JCQWFjQjc5ZDhvSFU2eEhpcG9ZNmpmSk8xNEIxNU9yZkFSbUJFUnFudmZJWXpPRmlucFpEdGNRcUdLWnJhRjkwZG5IUEI4RjI4Y3FFbE51c0VfUXpvdG4yaEh3Q0RKY1c2M1dZcGVCWXB3QlVWTm1kX0RwM1hacXNNNkVCbEx2X1NxUXJpZHRJV28?oc=5",
-      "pub_date": 1793030400.0,
-      "article_url": "https://finance.yahoo.com/video/crypto-giants-double-down-on-bitcoin-and-ethereum-185113565.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/286558519ab5878f33c892effe073041641771d2ba80319b0b20179d611ec721/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F8a1c9460-81c3-11f0-be46-2d1b24fbf1f4",
-      "description": "Scott Melker breaks down the latest movements in the crypto sector, including Strategy (MSTR) repurchasing $205M of its own stock (STRC), Strive's (ASST) biggest-ever purchase of 6,182 bitcoin (BTC-USD), and Bitmine (BMNR) buying 10,452 ethereum (ETH-USD) as it approaches its stated 5% goal.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
-    },
-    {
-      "headline": "Current price of Ethereum for October 27, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sUjhfaWRUb1VzRGMxYjFFQktVU0ExOTZIV2x0UXdRRXNoS3l2bDFjR19wcVVGZkl4NjAyWGxWWVlsTVNPSTJLQ0NQTUE0cTBNYl9hak8wYk1YNkZUcENpd2VmejNMMUZK?oc=5",
-      "pub_date": 1793106900.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-27-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-27.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDRMNE8xVkdPWUo5SkNBR1Vwa1o2b3otcElEdHdYWEdBTENMYUhCT0FsWm1aSEdyMlIwalNxRHJXQ2I4OXEyVl9DZ3p6RTZMUFU5cllzdk1wUW5FNEVtTk1HN0V0M2ZMZ2hoVE1uLXhPdXhOMGc2dVJsMXhkdXhKbGlieEIxOTFmMGFFRS1yQQ?oc=5",
-      "pub_date": 1793026840.0,
-      "article_url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/circle-shared-balance-wallet.webp",
-      "description": "Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback."
-    },
-    {
       "headline": "Most big cryptocurrencies fall on Sui, Ethereum drops",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
@@ -53,16 +33,6 @@
       "article_url": "https://www.marketwatch.com/data-news/most-big-cryptocurrencies-fall-on-sui-ethereum-drops-8c9e448b-6821903d8382",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOby1qdDgzeFRaVnpKMTZBMGNqR1ZUdDRVQ1lqT2FGMnppcWd5anpKQ2dZM01pcERJZlRSVnVKdGlrZ3FZQ3M5VFpsaUQ4cnptM2lFbGlWT3E4RGNsWmNSdU04UEJpN01OX05jbWV0M2NkejFHUDZ1cHZNcHlKZV8tNmhtRXlXNEFqYk5GakNKWDhwb3lidUR1RERfLTdsN3B6Tl8teVh1dC11MkRaZk1ITHNlcmMtanQ5MkY5QmVqc0FncmNk?oc=5",
-      "pub_date": 1792971000.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2345815779-scaled.jpg",
-      "description": "Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need."
     },
     {
       "headline": "Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up",
@@ -95,16 +65,46 @@
       "description": "The company holds 4.95% of Ethereum's supply, with $15 billion in combined crypto, cash, marketable securities, and other investments."
     },
     {
-      "headline": "Crypto News: AlphaPepe To Announce New CEX Partner In 4 Days While Ethereum Price Prediction Points To $3,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNU0w3MGNVa2xRTTRhWmR4dVNzV1pSdkdHWkJmWHVuQjVhYjBFQ2RweXlyLWFYT01Qb3c2ZU5SRGNQcTRwZmlXekExUW84NndrMXIwSFFNdWZTd1RXTnd0MTM0SWR1eUhvLVJzUEhxeFZaTlBXU2lQeEZRcmJhRWltU3RwaHEtUFh0b3BlN3FjWDZOUl9yTzFvcFRRUWFudlo5TXJUeFBoaU9lNkRHUFkyX19yQ0ttSm1tMlV0ejZxbjgyMGFlXzhjY3hPcjBhb3FSZ0dmQngzNEw4UWJqa1BvRWJzY0Q0X1BsTUFGaUtrSHFTSVkyTS1XdHVn?oc=5",
-      "pub_date": 1793069429.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-to-announce-new-cex-partner-in-4-days-while-ethereum-price-prediction-points-to-3-000-1036668146",
-      "image": "https://ml.globenewswire.com/Resource/Download/039312d3-8b9a-475d-9318-92fa06464182/alphapepe.jpg",
-      "description": "MONACO, Oct.  26, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward\u00a0AlphaPepe as the countdown to its next CEX partnership enters the final ..."
+      "headline": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDRMNE8xVkdPWUo5SkNBR1Vwa1o2b3otcElEdHdYWEdBTENMYUhCT0FsWm1aSEdyMlIwalNxRHJXQ2I4OXEyVl9DZ3p6RTZMUFU5cllzdk1wUW5FNEVtTk1HN0V0M2ZMZ2hoVE1uLXhPdXhOMGc2dVJsMXhkdXhKbGlieEIxOTFmMGFFRS1yQQ?oc=5",
+      "pub_date": 1793026840.0,
+      "article_url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/circle-shared-balance-wallet.webp",
+      "description": "Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback."
+    },
+    {
+      "headline": "Current price of Ethereum for October 27, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sUjhfaWRUb1VzRGMxYjFFQktVU0ExOTZIV2x0UXdRRXNoS3l2bDFjR19wcVVGZkl4NjAyWGxWWVlsTVNPSTJLQ0NQTUE0cTBNYl9hak8wYk1YNkZUcENpd2VmejNMMUZK?oc=5",
+      "pub_date": 1793106900.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-27-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-27.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "ETHGas lets institutions reserve Ethereum blockspace with built-in compliance screening",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0M3S3hkYlVvZ05QWUlfLVhCeTJRSGl4V2hUeWFvN2ZlQm50ZlhQNWFCOElVdlI3eUdzQnpQdjhxYWVZdDFtVXhHeTBIWE9lTlhlQ0hSZ1h4RV9PU2N2THRxc2FFeTI3VGlXZ1JKMDBuNlYwcDY4ZlpFcmtvbmJGbA?oc=5",
+      "pub_date": 1793110339.0,
+      "article_url": "https://cryptobriefing.com/ethgas-institutions-reserve-ethereum-blockspace/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/27100236/library-ethgas-lets-institutions-reserve-ethereum-blockspace-wit-800x450.png",
+      "description": "ETHGas lets institutions reserve Ethereum blockspace with guaranteed inclusion and sanctions screening, backed by a $3 billion ether.fi deal."
+    },
+    {
+      "headline": "Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOby1qdDgzeFRaVnpKMTZBMGNqR1ZUdDRVQ1lqT2FGMnppcWd5anpKQ2dZM01pcERJZlRSVnVKdGlrZ3FZQ3M5VFpsaUQ4cnptM2lFbGlWT3E4RGNsWmNSdU04UEJpN01OX05jbWV0M2NkejFHUDZ1cHZNcHlKZV8tNmhtRXlXNEFqYk5GakNKWDhwb3lidUR1RERfLTdsN3B6Tl8teVh1dC11MkRaZk1ITHNlcmMtanQ5MkY5QmVqc0FncmNk?oc=5",
+      "pub_date": 1792971000.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2345815779-scaled.jpg",
+      "description": "Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T19:51:45.274779+00:00"
+  "fetched_at": "2026-10-27T23:33:05.510416+00:00"
 }

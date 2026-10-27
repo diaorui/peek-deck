@@ -9,7 +9,7 @@
       "url": "https://stealmybitcoin.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50224916",
       "author": "cloudlandsdev",
-      "points": 618,
+      "points": 619,
       "num_comments": 450,
       "created_at": "2026-10-24T20:30:31Z",
       "object_id": "50224916",
@@ -23,8 +23,8 @@
       "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
       "hn_url": "https://news.ycombinator.com/item?id=50237379",
       "author": "davikr",
-      "points": 180,
-      "num_comments": 63,
+      "points": 181,
+      "num_comments": 65,
       "created_at": "2026-10-26T00:15:17Z",
       "object_id": "50237379",
       "image": "https://opengraph.githubassets.com/1c34d833fdca9a4559becb96a60ea376d7aefd537dc32e41af8bff3cbafe5ff9/KillaBoi/StealMyBitcoin-PoC",
@@ -89,6 +89,20 @@
       "site_name": "Decrypt"
     },
     {
+      "title": "Bitcoin Puzzle Research: Methods, Research and Lessons from Negative Results [pdf]",
+      "url": "https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=50265366",
+      "author": "ioevno",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-10-27T20:32:46Z",
+      "object_id": "50265366",
+      "image": "https://opengraph.githubassets.com/4b23d3963418824e3ae701f0ada96fac7c01a7ce4050843f95dd6041ec4c126b/escache/bitcoin-puzzle-methods",
+      "description": "Contribute to escache/bitcoin-puzzle-methods development by creating an account on GitHub.",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can",
       "url": "https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285",
       "hn_url": "https://news.ycombinator.com/item?id=50245177",
@@ -129,23 +143,9 @@
       "description": "On Sunday evening, 25 October, unauthorised parties gained access to part of our systems. The vulnerability was fixed immediately.",
       "favicon": "https://bitonic.nl/en/news/308/public/img/app-icons/apple-touch-icon.png",
       "site_name": "Bitonic"
-    },
-    {
-      "title": "Why Micron Is Suddenly Ditching 4F\u00b2 DRAM as Rivals Double Down",
-      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-      "hn_url": "https://news.ycombinator.com/item?id=50245014",
-      "author": "rbanffy",
-      "points": 96,
-      "num_comments": 13,
-      "created_at": "2026-10-26T15:05:04Z",
-      "object_id": "50245014",
-      "image": "https://images.hothardware.com/contentimages/newsitem/71935/content/16x9_2133x1200_highres-micron-boise-fab-photo.jpg",
-      "description": "Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.",
-      "favicon": "https://hothardware.com/hh-touch-icon-iphone.png?ver=2",
-      "site_name": "HotHardware"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-10-27T19:51:27.984401+00:00"
+  "fetched_at": "2026-10-27T23:32:50.252414+00:00"
 }
