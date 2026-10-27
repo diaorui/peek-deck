@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-27T08:13:35.505393+00:00'
+updated: '2026-10-27T14:49:09.953180+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 27, 2026 at 08:13 UTC  
+**Last Updated:** October 27, 2026 at 14:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey all, here's a small update on CBR-II, my DIY biped. This is the third iteration. Clip 1 (V3): It walks a lot more confidently now, with much less jitter. The only harsh moment left is when a "stop" comes right after "forward". It plants its front foot and slams it into the floor pretty loudly. Clip 2 (V1): The original version, for comparison. Clip 3 (V3): Attempting to balance on one leg :) In sim it nails this every time. In real life it's far from perfect, but you can definitely tell what it's trying to do. I think this is the end of the road for this project (at least for this year). I was thinking about jumps (and secretly dreaming of a backflip), but the hardware is just too fragile. Today alone it broke a joint three times and snapped a GT2 belt. And not where it bends around the pulley, it just snapped from tension in the middle of a straight run. Thanks to everyone who followed along and gave feedback on the previous posts!
 
-1d ago
+2d ago
 
 ---
 
@@ -66,7 +66,7 @@ I’m starting a master’s in two months, working on vision-guided grasping and
 
 Took me a while to work up the nerve to dig into the sloth-speed-servo bug since my last post. Firmware debugging never fails to scare the heck out of me, phew... Turns out the culprit was the latency from reading servo position/velocity/effort values, technically the trademark of smart servos like ST3215. Each read took like 3–5 ms for three servos, and it looks like synchronous read isn't supported yet in the ST3215 C++ SMS_STS library. Does anyone know if it already exists somewhere? For now, feedback reading is disabled on Wouf. With ST3215 servos, although the servo speed is still lower than the Dynamixels used in Doggo, Wouf is walking much faster than expected! And yeah, I think I messed up the turning algorithm again somehow, lol Still, I think this is a good sign that the ST3215-based design can work for a walking robot, and I really like their mechanical sound. Will work on summarizing the build in the next few days. May not have the read function (basically input for reinforcement learning) at the moment though, depending on how difficult it is to develop the sync read firmware. GitHub: https://github.com/SphericalCowww/CubicDoggo_07B
 
-1d ago
+2d ago
 
 ---
 
@@ -90,7 +90,7 @@ I’m building a robot lab in a Gaussian-splat reconstruction of my office. Toda
 
 ETH Zurich’s ANYmal solved a 10-pound Rubik’s Cube three times using only its feet, taking around eight to nine minutes per attempt. The trick combined computer vision and a traditional cube-solving algorithm with reinforcement learning that taught the robot how to balance, apply force, and correct mistakes. Beyond the fun demo, could “pedipulation” make future robots more useful by letting them open doors, turn valves, or move obstacles without needing hands?
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/four-legged-robot-solves-rubik-cube) • 1d ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/four-legged-robot-solves-rubik-cube) • 2d ago
 
 ---
 
@@ -98,7 +98,7 @@ ETH Zurich’s ANYmal solved a 10-pound Rubik’s Cube three times using only it
 
 Adding grippers to Asimov 1. The arms have been strong enough for a while. Now it’s time to use them for manipulation! Quick note, if you’re seeing Asimov 1 for the first time, it's a fully open-source humanoid robot built from off-the-shelf parts, so you can build one yourself. https://github.com/menloresearch/asimov-1/
 
-2d ago
+3d ago
 
 ---
 
@@ -106,7 +106,7 @@ Adding grippers to Asimov 1. The arms have been strong enough for a while. Now i
 
 Hello everyone, I would like to know some good sites and guides on how to design cycloidal drives for stepper motors (NEMA 17). I have been looking on YouTube and some sites but mostly i didn't learn anything about what is needed from my side and what I need to calculate. I have made few attempts at printing these drives and all of them are off by some millimeters, and they are getting stuck after few turns.
 
-1d ago
+2d ago
 
 ---
 
@@ -114,19 +114,25 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 ## Google News: "robotics"
 
-**[BlackBerry reinvented: CEO sees big opportunities AI-powered robots](https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html)**
-
-BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.
-
-CNBC • 9h ago
-
----
-
 **[Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News](https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330)**
 
 A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
 
-ABC News - Breaking News, Latest News and Videos • 10h ago
+ABC News - Breaking News, Latest News and Videos • 17h ago
+
+---
+
+**[BlackBerry reinvented: CEO sees big opportunities AI-powered robots](https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html)**
+
+BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.
+
+CNBC • 16h ago
+
+---
+
+**[In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans](https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html)**
+
+The New York Times • 5h ago
 
 ---
 
@@ -134,7 +140,7 @@ ABC News - Breaking News, Latest News and Videos • 10h ago
 
 Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station’s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday’s schedule.
 
-NASA (.gov) • 16h ago
+NASA (.gov) • 22h ago
 
 ---
 
@@ -142,13 +148,39 @@ NASA (.gov) • 16h ago
 
 Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.
 
-TechCrunch • 14h ago
+TechCrunch • 21h ago
 
 ---
 
-**[Toyota takes on Tesla and China in humanoid robot race](https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1)**
+**[Mayo Clinic to test 'autonomous robots' in Rochester warehouse](https://www.postbulletin.com/business/mayo-clinic-to-test-autonomous-robots-in-rochester-warehouse)**
 
-Financial Times • 1d ago
+Mayo Clinic is building out a 6,700-square-foot space in a warehouse on the Rochester Technology Campus to test out “robotics workflows” that will be part of the “Bold. Forward. Unbound. In Rochester” initiative.
+
+Post Bulletin • 3h ago
+
+---
+
+**[ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees](https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/)**
+
+US robotics company stands by ICE deal as more than 300 employees warn of risk.
+
+Ars Technica • 19h ago
+
+---
+
+**[An 11-person startup raised $40 million to challenge robotics' data-hungry giants](https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10)**
+
+Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration.
+
+Business Insider • 3h ago
+
+---
+
+**[Sterling Anderson doesn’t think humanoid robots should be building cars](https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy)**
+
+GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals.
+
+The Verge • 3h ago
 
 ---
 
@@ -156,37 +188,7 @@ Financial Times • 1d ago
 
 Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027.
 
-Interesting Engineering • 5h ago
-
----
-
-**[110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment](https://www.globaltimes.cn/page/202610/1372888.shtml)**
-
-China's humanoid robot industry is moving from single-machine demonstration toward large-scale deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24.
-
-Global Times • 2d ago
-
----
-
-**[Autonomous Construction Firm Bedrock Hits $4.1 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation)**
-
-Bloomberg.com • 20h ago
-
----
-
-**[Are Delivery Robots Scanning You Into a Database Scarier Than Flock?](https://futurism.com/robots-and-machines/delivery-robots-database-flock)**
-
-A pair of lawsuits from Chicago residents allege that delivery robots recorded and stored people's data without their consent.
-
-Futurism • 1d ago
-
----
-
-**[Move Over, Tesla: This Robotics Stock Is the Better Buy](https://www.fool.com/investing/2026/10/26/move-over-tesla-this-robotics-stock-is-better/)**
-
-Tesla is looking to start manufacturing its Optimus robots, but this industrial giant has been helping factories automate for decades.
-
-The Motley Fool • 12h ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -200,7 +202,27 @@ Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! Fr
 
 📺 VisionX Lab
 
-👁️ 147K • 👍 4K • 💬 279 • ⏱️ 0:59 • 1d ago
+👁️ 178K • 👍 5K • 💬 314 • ⏱️ 0:59 • 1d ago
+
+---
+
+**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
+
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
+
+📺 InsideAI
+
+👁️ 1.8M • 👍 34K • 💬 4K • ⏱️ 15:05 • 1d ago
+
+---
+
+**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
+
+NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
+
+📺 DPCcars
+
+👁️ 84K • 👍 326 • 💬 77 • ⏱️ 4:22 • 1d ago
 
 ---
 
@@ -210,17 +232,7 @@ AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots.
 
 📺 NVIDIA
 
-👁️ 252K • 👍 4K • 💬 172 • ⏱️ 2:40 • 5d ago
-
----
-
-**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
-
-The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
-
-📺 DPCcars
-
-👁️ 59K • 👍 532 • 💬 164 • ⏱️ 2:30 • 5d ago
+👁️ 255K • 👍 4K • 💬 174 • ⏱️ 2:40 • 6d ago
 
 ---
 
@@ -230,7 +242,37 @@ Thank you to Quince for sponsoring this video! Elevate your wardrobe essentials 
 
 📺 Xyla Foxlin
 
-👁️ 219K • 👍 7K • 💬 450 • ⏱️ 14:36 • 2d ago
+👁️ 224K • 👍 7K • 💬 447 • ⏱️ 14:36 • 2d ago
+
+---
+
+**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
+
+The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
+
+📺 DPCcars
+
+👁️ 60K • 👍 537 • 💬 165 • ⏱️ 2:30 • 6d ago
+
+---
+
+**[Meet Micro Duck 🦆 This Tiny AI Robot Costs Just $399!  #Shorts](https://www.youtube.com/watch?v=7KL0_3uZ_Fc)**
+
+Meet Micro Duck, a tiny robot project bringing AI and robotics together. Developed through collaboration involving NVIDIA, ...
+
+📺 FactShip
+
+👁️ 4K • 👍 114 • 💬 6 • ⏱️ 0:32 • 10h ago
+
+---
+
+**[China&#39;s New Robot Is SCARY Powerful! 💀](https://www.youtube.com/watch?v=oWc-1_21gQo)**
+
+Unitree H2-X, Unitree robot, robot bodyguard, China robot, Chinese humanoid robot, robot dents car, robot punches car, robot ...
+
+📺 MR WHAT
+
+👁️ 107K • 👍 3K • 💬 194 • ⏱️ 0:22 • 21h ago
 
 ---
 
@@ -244,53 +286,13 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 ---
 
-**[This Kung Fu Robot Bodyguard Lost a Leg Doing a Flip](https://www.youtube.com/watch?v=DD_BAFU20Z4)**
+**[Humanoid Home Robots Are Here and I&#39;m So Glad I Was Born When I Was](https://www.youtube.com/watch?v=OV7-30YZkmY)**
 
-This kung fu robot bodyguard lost a leg doing a flip 1. It's Unitree's new H2-X, made for security and rescue. 2. In its ad, it kicks a ...
+"I am ready to stand up. Please do not touch me." Humanoid robots aren't a futuristic possibility anymore. They're being unboxed, ...
 
-📺 Sagar
+📺 Tom Powell Jr
 
-👁️ 1K • 👍 25 • ⏱️ 0:37 • 7h ago
-
----
-
-**[Are robots taking over? I ranked every humanoid robot - only one gets SSS](https://www.youtube.com/watch?v=Eta625JJKqc)**
-
-Robots just learned kung fu. I ranked the best humanoid robots on the market, with real footage of every one. Only one gets SSS.
-
-📺 AI BROS
-
-👁️ 21K • 👍 691 • 💬 72 • ⏱️ 2:54 • 2d ago
-
----
-
-**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
-
-NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
-
-📺 DPCcars
-
-👁️ 81K • 👍 314 • 💬 73 • ⏱️ 4:22 • 17h ago
-
----
-
-**[China&#39;s New Giant AI Robot Is Absolutely Terrifying (Stronger Than 10 Men)](https://www.youtube.com/watch?v=vD4YWPo9a-I)**
-
-China's new giant AI robot Neo1 is absolutely terrifying. Standing 13 feet tall and weighing 1.2 tons, this massive humanoid from ...
-
-📺 MACHINEKIND
-
-👁️ 135K • 👍 1K • 💬 119 • ⏱️ 13:57 • 6d ago
-
----
-
-**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
-
-Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
-
-📺 REC Anything
-
-👁️ 1.7M • 👍 11K • 💬 1K • ⏱️ 8:29 • 4d ago
+👁️ 66K • 👍 6K • 💬 2K • ⏱️ 0:57 • 2d ago
 
 ---
 
