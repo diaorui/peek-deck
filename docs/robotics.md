@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-27T19:51:58.499627+00:00'
+updated: '2026-10-27T23:33:16.292145+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 27, 2026 at 19:51 UTC  
+**Last Updated:** October 27, 2026 at 23:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,11 +114,31 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 ## Google News: "robotics"
 
+**[Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation)**
+
+Bloomberg.com • 3h ago
+
+---
+
 **[Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News](https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330)**
 
 A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
 
-ABC News - Breaking News, Latest News and Videos • 22h ago
+ABC News - Breaking News, Latest News and Videos • 1d ago
+
+---
+
+**[In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans](https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html)**
+
+The New York Times • 14h ago
+
+---
+
+**[Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule](https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/)**
+
+Spacewalking tools and a pair of robotics jobs topped Tuesday’s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear.
+
+NASA (.gov) • 3h ago
 
 ---
 
@@ -126,59 +146,13 @@ ABC News - Breaking News, Latest News and Videos • 22h ago
 
 BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.
 
-CNBC • 21h ago
+CNBC • 1d ago
 
 ---
 
-**[Toyota takes on Tesla and China in humanoid robot race](https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1)**
+**[AI factory designer Foundry Robotics makes massive expansion into East Bay](https://www.bizjournals.com/sanfrancisco/news/2026/10/26/foundry-robotics-emeryville-expansion.html)**
 
-Financial Times • 1d ago
-
----
-
-**[China unveils 13-foot robot that can lift a cow](https://malaysia.news.yahoo.com/china-unveils-13-foot-robot-174401927.html)**
-
-‘Robots should not merely replicate human forms but surpass human physical limits,’ says NeodraDynamics founder
-
-Yahoo • 2h ago
-
----
-
-**[Sterling Anderson doesn’t think humanoid robots should be building cars](https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy)**
-
-GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals.
-
-The Verge • 8h ago
-
----
-
-**[In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans](https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html)**
-
-The New York Times • 10h ago
-
----
-
-**[Week Begins with Robotics Prep for Spacewalk and Advanced Research](https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/)**
-
-Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station’s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday’s schedule.
-
-NASA (.gov) • 1d ago
-
----
-
-**[An 11-person startup raised $40 million to challenge robotics' data-hungry giants](https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10)**
-
-Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration.
-
-Business Insider • 8h ago
-
----
-
-**[ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees](https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/)**
-
-US robotics company stands by ICE deal as more than 300 employees warn of risk.
-
-Ars Technica • 1d ago
+The Business Journals • 1d ago
 
 ---
 
@@ -186,7 +160,31 @@ Ars Technica • 1d ago
 
 A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets.
 
-Kyiv Post • 6h ago
+Kyiv Post • 9h ago
+
+---
+
+**[This AI Stock Catapults 58% Amid Robotics Spinoff; Nears Pivot As Earnings Loom](https://www.investors.com/research/ai-stock-zebra-technologies-zbra-earnings/)**
+
+AI stock Zebra Technologies is near a pivot after a 58% gain year-to-date. Third-quarter earnings are due Nov. 3.
+
+Investor's Business Daily • 5h ago
+
+---
+
+**[Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom](https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages)**
+
+Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027.
+
+Interesting Engineering • 20h ago
+
+---
+
+**[Sterling Anderson doesn’t think humanoid robots should be building cars](https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy)**
+
+GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals.
+
+The Verge • 12h ago
 
 ---
 
@@ -194,33 +192,13 @@ Kyiv Post • 6h ago
 
 ## YouTube Videos: "robotics"
 
-**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
-
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
-
-📺 InsideAI
-
-👁️ 1.9M • 👍 36K • 💬 4K • ⏱️ 15:05 • 2d ago
-
----
-
 **[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
 
 Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
 
 📺 VisionX Lab
 
-👁️ 210K • 👍 6K • 💬 342 • ⏱️ 0:59 • 2d ago
-
----
-
-**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
-
-NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
-
-📺 DPCcars
-
-👁️ 85K • 👍 329 • 💬 80 • ⏱️ 4:22 • 1d ago
+👁️ 226K • 👍 6K • 💬 357 • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -230,27 +208,17 @@ AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots.
 
 📺 NVIDIA
 
-👁️ 258K • 👍 4K • 💬 175 • ⏱️ 2:40 • 6d ago
+👁️ 260K • 👍 4K • 💬 175 • ⏱️ 2:40 • 6d ago
 
 ---
 
-**[China Sets New Guinness World Record as 110 Humanoid Robots Dance in Perfect Synchronization | AI1B](https://www.youtube.com/watch?v=y-Iy1AsIM9I)**
+**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
 
-China has set a new Guinness World Record as 110 full-size humanoid robots performed synchronized dance routines in Jinan, ...
+NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
 
-📺 DRM News
+📺 DPCcars
 
-👁️ 35K • 👍 91 • 💬 47 • ⏱️ 1:21 • 1d ago
-
----
-
-**[New NVIDIA Isaac GR00T humanoid AI Robot is mind blowing - World Premiere](https://www.youtube.com/watch?v=C3CeYOOYzXw)**
-
-Take a look at the all new NVIDIA Isaac GR00T humanoid AI robot. NVIDIA is accelerating the future of humanoid robotics with ...
-
-📺 REC Anything
-
-👁️ 70K • 👍 412 • 💬 73 • ⏱️ 9:37 • 22h ago
+👁️ 85K • 👍 333 • 💬 80 • ⏱️ 4:22 • 1d ago
 
 ---
 
@@ -260,7 +228,15 @@ The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredibl
 
 📺 DPCcars
 
-👁️ 60K • 👍 541 • 💬 165 • ⏱️ 2:30 • 6d ago
+👁️ 61K • 👍 542 • 💬 166 • ⏱️ 2:30 • 6d ago
+
+---
+
+**[Meet Unitree’s latest security robot: martial arts skills &amp; car-lifting strength](https://www.youtube.com/watch?v=Vez_mlGo7gE)**
+
+📺 ShanghaiEye魔都眼
+
+👁️ 112K • 👍 738 • 💬 329 • ⏱️ 1:01 • 3d ago
 
 ---
 
@@ -270,15 +246,7 @@ Robots going completely wrong caught on camera return in Part 3 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 77K • 👍 542 • 💬 37 • ⏱️ 10:29 • 3d ago
-
----
-
-**[Meet Unitree’s latest security robot: martial arts skills &amp; car-lifting strength](https://www.youtube.com/watch?v=Vez_mlGo7gE)**
-
-📺 ShanghaiEye魔都眼
-
-👁️ 111K • 👍 730 • 💬 329 • ⏱️ 1:01 • 3d ago
+👁️ 78K • 👍 546 • 💬 37 • ⏱️ 10:29 • 3d ago
 
 ---
 
@@ -288,7 +256,37 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 
 📺 DPCcars
 
-👁️ 2.1M • 👍 14K • 💬 2K • ⏱️ 4:06 • 5d ago
+👁️ 2.1M • 👍 14K • 💬 2K • ⏱️ 4:06 • 6d ago
+
+---
+
+**[Microduck robots go viral at NVIDIA GTC 2026 #robots #microduck #nvidia](https://www.youtube.com/watch?v=tYROJBVwt5M)**
+
+Hugging Face says it's sold more than 4000 of its Microducks since their viral appearance during Jensen Huang's NVIDIA GTC ...
+
+📺 Kalil 4.0
+
+👁️ 111K • 👍 805 • 💬 27 • ⏱️ 0:34 • 4d ago
+
+---
+
+**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
+
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
+
+📺 InsideAI
+
+👁️ 2.0M • 👍 37K • 💬 4K • ⏱️ 15:05 • 2d ago
+
+---
+
+**[China&#39;s Hidden Giant Building Thousands of Humanoid Robot Heads #robotics #robots #tech](https://www.youtube.com/watch?v=naoHeKPg21A)**
+
+China's Joyson Electronics may be the world's largest supplier of humanoid robot heads. Founded in 2004, the Ningbo-based ...
+
+📺 Kalil 4.0
+
+👁️ 172 • 👍 3 • ⏱️ 0:49 • 25m ago
 
 ---
 

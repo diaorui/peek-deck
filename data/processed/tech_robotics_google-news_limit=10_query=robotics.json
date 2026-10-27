@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5",
+      "pub_date": 1793130186.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "source_url": "https://abcnews.com",
@@ -13,6 +23,26 @@
       "article_url": "https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330",
       "image": "https://i.abcnewsfe.com/a/fbe5ef73-2312-4f94-aa20-a01d4315953b/AdventHealth-ht-er-261026_1793031672199_hpMain_16x9.jpg?w=1600",
       "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
+    },
+    {
+      "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBOaUFWYzdPdWticUxKMVBOUS1rdDI2bFVEQ3NvRHBUVnhUWkVDYU1TMjQ5Xy1QUE9kR2VtRWp6QUpfQWMxcFY0Nmg1V09YNFp5SVplaUN5azRWdzREdURHb1JER2d0LUF3dzgzSWRFVmVNYmJycnAwa3lUd0pJM3poem5QM1U?oc=5",
+      "pub_date": 1793091757.0,
+      "article_url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXpxN01ScDdpRFV5cUdfdXcxVGVqXzZPZEp6cHI1Q293eDRLak92TTQtZHZJM3ZBMFdnVDFCV1ZKQ3hWVXh0ckpmRnVhSUs2b2xWcjhGTV83c2hTZkh0TDVleTVyYTFFTWUwU2FLcHVuWFpEMl9jMkFlWjBhOWFhU1dSUml4ckdBcW1IbGRDeE1VRlBjeF9OaVJFS3NGQS1qdnFIc0IyUTdzZmRBTk1KQTdYSDBJVmUyNk9zZXFrSQ?oc=5",
+      "pub_date": 1793129709.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg",
+      "description": "Spacewalking tools and a pair of robotics jobs topped Tuesday\u2019s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear."
     },
     {
       "headline": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
@@ -25,74 +55,14 @@
       "description": "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity."
     },
     {
-      "headline": "Toyota takes on Tesla and China in humanoid robot race",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
-      "pub_date": 1792962006.0,
-      "article_url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+      "headline": "AI factory designer Foundry Robotics makes massive expansion into East Bay",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnNUeExaUG1CRkUydzJDTTR1NDdxWm9lQnFhUXVYcDE3WktJSjhTbmo4cjVqWUZybEFMVE4xX2ZHeE5QUjhtaHNKbVBMY1k1bUFjY002Y0RUNlpiZjVfZllEblNvMGJ1TWk1VkE5RGRQN3NWWTVOTUJiSVhxUldwSzF5RUlsS3lPZlE3a3ZSS1NKZVpoc3ZncXc2TlNSNzhG?oc=5",
+      "pub_date": 1793050200.0,
+      "article_url": "https://www.bizjournals.com/sanfrancisco/news/2026/10/26/foundry-robotics-emeryville-expansion.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "China unveils 13-foot robot that can lift a cow",
-      "source": "Yahoo",
-      "source_url": "https://malaysia.news.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnJPMTJyVEkyUi0tUlFHOUZvR09JWDQtTXh3MTJhbGNmUmVfM0lKcGFqdjNOQkk4dHRYSW9FUGpTNmFQSG5sN0tBUkVSMWFaUW9YZmFzZFdDNFRINDBrdzRHTlpQOTY2aEZQWHhPSjR6OUhPYWFVSEpCSjkyenc?oc=5",
-      "pub_date": 1793123041.0,
-      "article_url": "https://malaysia.news.yahoo.com/china-unveils-13-foot-robot-174401927.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/022a755d19b75ddf50fe8262ca582d6be9bf4727ca925ad807178354ceadf27b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F71485621a583e092ec413f38c8303cd2.png",
-      "description": "\u2018Robots should not merely replicate human forms but surpass human physical limits,\u2019 says NeodraDynamics founder"
-    },
-    {
-      "headline": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFJTQ1BROE5vZzk0VTNoWXZtSk84eGVsYS15QTJnMVphbmpjeDVZWUVjSUpzLWF4aHJnU3RsVGlGUG12ZG1sLU1YN0ZVbTYwR2RvT0FPZzR4ekZzTkdfYnhKZTVhQlJ0cHJ0dWlDblBfOWhsell6VndWTXhjUFNzVWZWX0tVQjRzSDRSMjVOa2t1dEFId1pLUlZrMnE4RzZra1M1alZOT2pPZ1hSVjlqZ0Jn?oc=5",
-      "pub_date": 1793098800.0,
-      "article_url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300740947.jpg?quality=90&strip=all&crop=0%2C10.748920582036%2C100%2C78.502158835928&w=1200",
-      "description": "GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals."
-    },
-    {
-      "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBOaUFWYzdPdWticUxKMVBOUS1rdDI2bFVEQ3NvRHBUVnhUWkVDYU1TMjQ5Xy1QUE9kR2VtRWp6QUpfQWMxcFY0Nmg1V09YNFp5SVplaUN5azRWdzREdURHb1JER2d0LUF3dzgzSWRFVmVNYmJycnAwa3lUd0pJM3poem5QM1U?oc=5",
-      "pub_date": 1793091756.0,
-      "article_url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Week Begins with Robotics Prep for Spacewalk and Advanced Research",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWC1zdnNEWXQwVmM2VDk2TGZxYWZNc3hfclFHT2gwT3Q0aHlDQVJNTF9FTnFwZ3pVUWZ0MDRkSmJ3dzVZbk1seDVJOG00dC1sMm9NaC1RQTNNaDcwM2FjUTY3NXExb2lBeHhUdFMxeE1YSFVySFFwWHduUC1EQUUzdmtObzYzLVdRYjU0YVcteGljZWw3ZEV4V1FjSVM2MUtmbXlXQlIxRnZ6aEUwNHRqV0RqQzVEbjI2WUE?oc=5",
-      "pub_date": 1793029918.0,
-      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/",
-      "image": "https://images-assets.nasa.gov/image/iss073e0273067/iss073e0273067~large.jpg",
-      "description": "Expedition 75 began the week gearing up for a spacewalk to upgrade the International Space Station\u2019s power generation system. Research into bioprinted blood vessels and relaxation techniques, as well cargo operations rounded out Monday\u2019s schedule."
-    },
-    {
-      "headline": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjB2SG9VZUt0LVctTXpQU2Jod0t6a3BFbGZuNFJicGVQT1BJdWlUbzZuYnRuOHE1UWxKS2lUcVlVY2w0SVU2bWtXakNyMVRXZDBOYkxwUm1xanY4QTZPRnI5VFJfNzVhYWQ4aW4xUEdaeWh5RVVON1Y3VElxWk1NT2djZVBDSU8tU0hJeUtmZUM2YjB1elhiV1cwM0JhZ1IzX3FCN2tKZ0cxNzgz?oc=5",
-      "pub_date": 1793098800.0,
-      "article_url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10",
-      "image": "https://i.insider.com/6adfd49cab741a2ebdf11932?width=1200&format=jpeg",
-      "description": "Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration."
-    },
-    {
-      "headline": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNm8tckZzYm5tZHBDQW9rSnVZTjc2M01CMUtBclpFdV9EYXNqalR2M1B3b3JMMFBfU1dta3hpOURUczFsX21Qb3pPd1FxZnhVVjdXbjlKN3hXeDh3Y281bU5MM2NyMG1OMW5aTE9yLVhURTNFa21ac1JyaFlfYWZ0TDdnT0ZSMzNhbms5Sno0OEFlbm5CSG96NFdObXU2T21nNUZZ?oc=5",
-      "pub_date": 1793040641.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg",
-      "description": "US robotics company stands by ICE deal as more than 300 employees warn of risk."
     },
     {
       "headline": "Ukraine Develops Drone-Carrying Ground Robots to Fight Aerial Threats, With Millions More in Funding Needed",
@@ -103,8 +73,38 @@
       "article_url": "https://www.kyivpost.com/post/88325",
       "image": "https://static.kyivpost.com/storage/2026/10/27/b596b3d568720c5bc08ba8c74843111d.png?w=1200&q=90&f=jpg",
       "description": "A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets."
+    },
+    {
+      "headline": "This AI Stock Catapults 58% Amid Robotics Spinoff; Nears Pivot As Earnings Loom",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakpNeWJMWEZEeE5oanR3MGJUQ0VVeHVyTkFDWXRYbS05Yy1iaHhqeFExU0lDaEFEMmdQVzVsT1FJelZSVk14XzNQTTIxQkZoZ0pOTW85TzVBTi1CME5YdWNfWkRSN3JjZ1dsMVlNR1BURUplNTh2SEVJOGJYamxUY09YVQ?oc=5",
+      "pub_date": 1793123160.0,
+      "article_url": "https://www.investors.com/research/ai-stock-zebra-technologies-zbra-earnings/",
+      "image": "https://www.investors.com/wp-content/uploads/2025/02/Stock-ZebraTechnologies-handheld-03-company.jpg",
+      "description": "AI stock Zebra Technologies is near a pivot after a 58% gain year-to-date. Third-quarter earnings are due Nov. 3."
+    },
+    {
+      "headline": "Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjdHM3lsR3NNZTVGZEVURzJGMmxycVFpdVA4ekdpcUV2Y1h2dHVMd2lRREI2MHhVYXJoMzBLNE9qckc5NGRBV2dWci1CQWMyVDV1aFR4Q1BfaWdZN1lUd0x4NmhLbU9XNjlYNFpkVUxPWmo2ajZ1cjMwdmloMnN3ckpaUVVOVUtvcUZhX0ZBYUJlNkVxeVE?oc=5",
+      "pub_date": 1793069040.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-30.jpg",
+      "description": "Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027."
+    },
+    {
+      "headline": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFJTQ1BROE5vZzk0VTNoWXZtSk84eGVsYS15QTJnMVphbmpjeDVZWUVjSUpzLWF4aHJnU3RsVGlGUG12ZG1sLU1YN0ZVbTYwR2RvT0FPZzR4ekZzTkdfYnhKZTVhQlJ0cHJ0dWlDblBfOWhsell6VndWTXhjUFNzVWZWX0tVQjRzSDRSMjVOa2t1dEFId1pLUlZrMnE4RzZra1M1alZOT2pPZ1hSVjlqZ0Jn?oc=5",
+      "pub_date": 1793098800.0,
+      "article_url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300740947.jpg?quality=90&strip=all&crop=0%2C10.748920582036%2C100%2C78.502158835928&w=1200",
+      "description": "GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T19:51:49.545549+00:00"
+  "fetched_at": "2026-10-27T23:33:12.610782+00:00"
 }
