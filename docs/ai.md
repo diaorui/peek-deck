@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-26T23:02:49.207249+00:00'
+updated: '2026-10-27T02:18:51.344380+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - social
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 26, 2026 at 23:02 UTC  
+**Last Updated:** October 27, 2026 at 02:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 An LLM is basically just a massive and extremely sophisticated input/output mathematical function?
 
-10h ago
+13h ago
 
 ---
 
@@ -49,61 +49,7 @@ An LLM is basically just a massive and extremely sophisticated input/output math
 
 Johns Hopkins Bayview is alerting about 3,182 patients after a worker uploaded their data to an unapproved AI tool. Free credit monitoring offered.
 
-🔗 [WMAR 2 News Baltimore](https://www.wmar2news.com/local/patients-data-sent-to-ai-tool-johns-hopkins-bayview-medical-center-oct-23-2026) • 5h ago
-
----
-
-**[Dutch Government Plans to Cut 25,000 Jobs (16%) in AI-Led Overhaul](https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul?taid=6adf68a2320643000121fd64&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter) • 6h ago
-
----
-
-**[AI assistant traffic to retail sites doubled this year. Those visitors convert at half the rate of organic search.](https://www.reddit.com/r/artificial/comments/1xg72di/ai_assistant_traffic_to_retail_sites_doubled_this/)**
-
-An analytics firm tracked 2,000 retail sites and found both things are true at once: visits originating from AI assistants roughly doubled, and those visitors buy at about half the rate organic search visitors do. I keep seeing people celebrate the first number without mentioning the second. My read on why, though I’m not certain: when someone arrives from organic search they’ve already done the comparison work themselves. They clicked your link because they decided it was worth clicking. When someone arrives from an AI assistant, the assistant did the filtering and the person is often still in the browsing phase. Different intent at the moment of arrival. If that’s right, treating AI referral traffic as equivalent to organic in your reporting is going to give you a distorted picture of what’s working. Anyone running ecommerce and actually seeing this split in their own numbers? Curious whether the gap holds outside the aggregate.
-
-3h ago
-
----
-
-**[OpenAI starts training its most powerful systems again – but keeps them off the internet out of fear they would go rogue](https://www.reddit.com/r/artificial/comments/1xfybgm/openai_starts_training_its_most_powerful_systems/)**
-
-Company had previously been forced to take its advanced models offline to develop new restrictions
-
-🔗 [The Independent](https://www.independent.co.uk/tech/security/openai-chatgpt-training-models-internet-b3073513.html?reloaded=1) • 8h ago
-
----
-
-**[Elvis rights holders sue Anthropic over 274 compositions](https://www.reddit.com/r/artificial/comments/1xfreib/elvis_rights_holders_sue_anthropic_over_274/)**
-
-Rights holders for 274 musical compositions recorded by Elvis Presley filed a federal complaint against Anthropic on October 23, 2026. The complaint identifies ABG EPE IP LLC and other companies, trusts and individuals as plaintiffs in case 5:26-cv-12473. The plaintiffs allege that Anthropic copied lyrics without a license, kept them in a permanent internal repository and used them in Claude model training. They also allege that Claude generated derivative or infringing outputs after guardrails were added. The complaint seeks up to $150,000 per work, or $41.1 million for 274 works, plus separate statutory amounts under two other claims. The allegations have not been tested in court. Source: https://chatgptiseatingtheworld.com/wp-content/uploads/2026/10/ABG_EPE_IP_LLC_et_al-v-Anthropic-Oct-23-2026.pdf
-
-14h ago
-
----
-
-**[Google AI Constant Errors](https://www.reddit.com/r/artificial/comments/1xgb9at/google_ai_constant_errors/)**
-
-I used the regular Google search for answers about my new Toyota Sienna. I find that if you use a full question, it gives an AI interactive response. I assume that this is accessing Gemini...? I had a bunch of questions and created this very long thread all related to this car. Unfortunately, I found that at least 80% of the time, google would give me an answer that at 1st read seemed plausible, but when I got into it, I found that the answer was completely wrong. It would be an answer about another car, or an older version of the car- and this was after being overly specific about the car I just bought. I would point out to google that it was wrong and it would apologize profusely and then usually get it right the 2nd or 5th time. I found this extremely frustrating and a huge waste of time. I really dont understand why it consistently got answers so confused, especially if it actually had the access to the right answer all along. What can I do to get to the right answers on the 1st question. How can I insure that I am getting the best information from Google? Thanks
-
-35m ago
-
----
-
-**[Thoughts on privacy issues with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.?](https://www.reddit.com/r/artificial/comments/1xg5ibn/thoughts_on_privacy_issues_with_the_likes_of_meta/)**
-
-Are we handing over our privacy into safe hands with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.? Or are all these talks of privacy safety protocols just the tip of the iceberg, and are we once again being played into the hands of these companies?
-
-4h ago
-
----
-
-**[AI giant Anthropic files to go public](https://www.reddit.com/r/artificial/comments/1xfwpdo/ai_giant_anthropic_files_to_go_public/)**
-
-Anthropic filed for an initial public offering Monday in what could become one of the largest stock market debuts in history — detailing its surging business growth, along with a vast multitude of warnings about how it could all go wrong.
-
-🔗 [CNN](https://www.cnn.com/2026/10/26/tech/anthropic-files-ipo?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 9h ago
+🔗 [WMAR 2 News Baltimore](https://www.wmar2news.com/local/patients-data-sent-to-ai-tool-johns-hopkins-bayview-medical-center-oct-23-2026) • 8h ago
 
 ---
 
@@ -111,7 +57,61 @@ Anthropic filed for an initial public offering Monday in what could become one o
 
 OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
 
-🔗 [OpenAI](https://openai.com/index/building-scientific-understanding-with-academic-communities/) • 18m ago
+🔗 [OpenAI](https://openai.com/index/building-scientific-understanding-with-academic-communities/) • 3h ago
+
+---
+
+**[Dutch Government Plans to Cut 25,000 Jobs (16%) in AI-Led Overhaul](https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul?taid=6adf68a2320643000121fd64&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter) • 10h ago
+
+---
+
+**[OpenAI starts training its most powerful systems again – but keeps them off the internet out of fear they would go rogue](https://www.reddit.com/r/artificial/comments/1xfybgm/openai_starts_training_its_most_powerful_systems/)**
+
+Company had previously been forced to take its advanced models offline to develop new restrictions
+
+🔗 [The Independent](https://www.independent.co.uk/tech/security/openai-chatgpt-training-models-internet-b3073513.html?reloaded=1) • 11h ago
+
+---
+
+**[AI assistant traffic to retail sites doubled this year. Those visitors convert at half the rate of organic search.](https://www.reddit.com/r/artificial/comments/1xg72di/ai_assistant_traffic_to_retail_sites_doubled_this/)**
+
+An analytics firm tracked 2,000 retail sites and found both things are true at once: visits originating from AI assistants roughly doubled, and those visitors buy at about half the rate organic search visitors do. I keep seeing people celebrate the first number without mentioning the second. My read on why, though I’m not certain: when someone arrives from organic search they’ve already done the comparison work themselves. They clicked your link because they decided it was worth clicking. When someone arrives from an AI assistant, the assistant did the filtering and the person is often still in the browsing phase. Different intent at the moment of arrival. If that’s right, treating AI referral traffic as equivalent to organic in your reporting is going to give you a distorted picture of what’s working. Anyone running ecommerce and actually seeing this split in their own numbers? Curious whether the gap holds outside the aggregate.
+
+6h ago
+
+---
+
+**[Elvis rights holders sue Anthropic over 274 compositions](https://www.reddit.com/r/artificial/comments/1xfreib/elvis_rights_holders_sue_anthropic_over_274/)**
+
+Rights holders for 274 musical compositions recorded by Elvis Presley filed a federal complaint against Anthropic on October 23, 2026. The complaint identifies ABG EPE IP LLC and other companies, trusts and individuals as plaintiffs in case 5:26-cv-12473. The plaintiffs allege that Anthropic copied lyrics without a license, kept them in a permanent internal repository and used them in Claude model training. They also allege that Claude generated derivative or infringing outputs after guardrails were added. The complaint seeks up to $150,000 per work, or $41.1 million for 274 works, plus separate statutory amounts under two other claims. The allegations have not been tested in court. Source: https://chatgptiseatingtheworld.com/wp-content/uploads/2026/10/ABG_EPE_IP_LLC_et_al-v-Anthropic-Oct-23-2026.pdf
+
+17h ago
+
+---
+
+**[Do you feel more anxiety the more you AI tools?](https://www.reddit.com/r/artificial/comments/1xgblfx/do_you_feel_more_anxiety_the_more_you_ai_tools/)**
+
+The title - Do you feel more anxiety the more you AI tools? My observation is that, I'm heaps more productive with the help of AI (Claude) - both work (coding) and personal life. While it's been great for personal tasks, I have some constant worry at the back of my brain that if I'm not working and pushing forward - someone else is. And, within the context that I know how fast a person can progress with the help of AI, I have the constant feeling that I will be outpaced. Any others with similar observations/feelings :)?
+
+3h ago
+
+---
+
+**[Google AI Constant Errors](https://www.reddit.com/r/artificial/comments/1xgb9at/google_ai_constant_errors/)**
+
+I used the regular Google search for answers about my new Toyota Sienna. I find that if you use a full question, it gives an AI interactive response. I assume that this is accessing Gemini...? I had a bunch of questions and created this very long thread all related to this car. Unfortunately, I found that at least 80% of the time, google would give me an answer that at 1st read seemed plausible, but when I got into it, I found that the answer was completely wrong. It would be an answer about another car, or an older version of the car- and this was after being overly specific about the car I just bought. I would point out to google that it was wrong and it would apologize profusely and then usually get it right the 2nd or 5th time. I found this extremely frustrating and a huge waste of time. I really dont understand why it consistently got answers so confused, especially if it actually had the access to the right answer all along. What can I do to get to the right answers on the 1st question. How can I insure that I am getting the best information from Google? Thanks
+
+3h ago
+
+---
+
+**[AI giant Anthropic files to go public](https://www.reddit.com/r/artificial/comments/1xfwpdo/ai_giant_anthropic_files_to_go_public/)**
+
+Anthropic filed for an initial public offering Monday in what could become one of the largest stock market debuts in history — detailing its surging business growth, along with a vast multitude of warnings about how it could all go wrong.
+
+🔗 [CNN](https://www.cnn.com/2026/10/26/tech/anthropic-files-ipo?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 12h ago
 
 ---
 
@@ -119,11 +119,45 @@ OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesi
 
 ## Google News: "ai"
 
-**[Anthropic's IPO plans: Record losses, AI risks and growth potential outlined in the S-1](https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html)**
+**[Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem?](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html)**
+
+The New York Times • 8h ago
+
+---
+
+**[Former Yahoo CEO Needed AI to Help Describe What Makes Her Own Daughter Special](https://gizmodo.com/former-yahoo-ceo-needed-ai-to-help-describe-what-makes-her-own-daughter-special-2000830868)**
+
+Gizmodo • 4h ago
+
+---
+
+**[Ex-Yahoo CEO Defends Using AI to Describe Her Daughter Amid Backlash, Says Tool ‘Blew Me Away’](https://www.thewrap.com/industry-news/tech/ex-yahoo-ceo-defends-using-ai-to-describe-daughter/)**
+
+"I wanted to see what deeper threads it might find," Dazzle AI founder Marissa Mayer says.
+
+TheWrap • 52m ago
+
+---
+
+**[China industrial profits post strongest growth in three months, rising 14.4%](https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html)**
+
+The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.
+
+CNBC • 40m ago
+
+---
+
+**[BlackRock’s Rieder Spent All Weekend Doing Deals in AI Debt Rush](https://www.bloomberg.com/news/articles/2026-10-27/blackrock-s-rieder-spent-all-weekend-doing-deals-in-ai-debt-rush)**
+
+Bloomberg.com • 8m ago
+
+---
+
+**[Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses](https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html)**
 
 All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.
 
-CNBC • 1h ago
+CNBC • 3d ago
 
 ---
 
@@ -131,63 +165,29 @@ CNBC • 1h ago
 
 The company warned that AI could “pose catastrophic or existential risks to humanity” as cybersecurity fears grow.
 
-NBC News • 7h ago
+NBC News • 11h ago
 
 ---
 
-**[Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI](https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c)**
+**[The risk that AI wakes up and other warnings in Anthropic’s unusual IPO filing](https://www.washingtonpost.com/technology/2026/10/26/five-things-know-about-anthropic-record-initial-public-offering/)**
 
-AP News • 1h ago
+The company's SEC filing revealed losses expected in start-up IPOs but also unconventional concerns like machine consciousness.
 
----
-
-**[Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem?](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html)**
-
-The New York Times • 12m ago
+The Washington Post • 1h ago
 
 ---
 
-**[Former Yahoo CEO Needed AI to Help Describe What Makes Her Own Daughter Special](https://gizmodo.com/former-yahoo-ceo-needed-ai-to-help-describe-what-makes-her-own-daughter-special-2000830868)**
+**[Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)**
 
-Gizmodo • 1h ago
+OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
 
----
-
-**[Former Yahoo CEO Marissa Mayer Says She Used AI to Identify What's Special About Her Daughter](https://futurism.com/artificial-intelligence/yahoo-ceo-marissa-mayer-motherhood-ai-startup)**
-
-Ex-Yahoo CEO Marissa Mayer has a new AI startup, which she's using to automate the fundamental tasks of parenthood.
-
-Futurism • 5h ago
+OpenAI • 4h ago
 
 ---
 
-**[Women's jobs show greater vulnerability to AI than men's](https://www.axios.com/2026/10/26/ai-jobs-men-women)**
+**[Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates](https://apnews.com/article/microsoft-buyout-ai-layoff-xbox-c5a639f53615be198db1799adf6837e1)**
 
-Axios • 36m ago
-
----
-
-**[Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’](https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/)**
-
-Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.
-
-WIRED • 22m ago
-
----
-
-**[Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)**
-
-The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
-
-TechCrunch • 1d ago
-
----
-
-**[Elon Musk’s Anti-Woke AI ‘The Odyssey’ Movie Ripped as “Soulless Slop” After Criticizing Nolan](https://www.hollywoodreporter.com/movies/movie-news/elon-musk-ai-the-odyssey-reviews-1236740003/)**
-
-The tech titan’s anti-woke, Grok-fueled take on ‘The Odyssey’ gets called "zombie-like."
-
-The Hollywood Reporter • 6h ago
+AP News • 6h ago
 
 ---
 
@@ -207,7 +207,7 @@ Despite massive investments and widespread hype around artificial intelligence, 
 
 America is Losing Hundreds of Thousands of Jobs in Media, Film & the Arts. How Much is AI to Blame?
 
-⬆️ 541 • 💬 579 • 1d ago • [apricitas.io](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+⬆️ 541 • 💬 581 • 2d ago • [apricitas.io](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 
 ---
 
@@ -215,15 +215,7 @@ America is Losing Hundreds of Thousands of Jobs in Media, Film & the Arts. How M
 
 Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second.
 
-⬆️ 364 • 💬 141 • 1d ago • [cerebras.ai](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
-
----
-
-**[Why is AI generated language so hard to understand?](https://news.ycombinator.com/item?id=50223647)**
-
-There is a widespread sense that AI-generated text has recently become harder to understand. In this study, we investigate a set of psycholinguistic features that are known to correlate with human processing difficulty (e.g., object relative clauses, long syntactic dependencies, low-frequency n-grams). Using a novel corpus of AI-generated text across diverse domains, we find that AI models use these difficult features more often than paraphrases generated by round-trip translation. Compared with human writing, all nine frontier and near-frontier models use more inanimate subjects with animate verbs and more low-frequency n-grams, and most also use longer dependencies, more stacked nouns, and more reduced object relatives in conversation; we also demonstrate substantial variation across model families. We propose and test a hypothesis as to why: while human language is optimized for successful communication, AI-generated text is increasingly optimized for other goals like math, code, and reasoning, in which there is a pressure for \textit{information density} rather than successful communication. We provide a proof-of-concept for this hypothesis by fine-tuning a language model under a length penalty, which leads to a divergence from human-like linguistic behavior. Our findings highlight the axes of misalignment between linguistic processing demands in humans and LLMs, and point toward possible remedies.
-
-⬆️ 253 • 💬 201 • 2d ago • [arXiv.org](https://arxiv.org/abs/2610.29162)
+⬆️ 364 • 💬 141 • 2d ago • [cerebras.ai](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 
 ---
 
@@ -231,7 +223,15 @@ There is a widespread sense that AI-generated text has recently become harder to
 
 Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.
 
-⬆️ 241 • 💬 96 • 6h ago • [Cohere](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+⬆️ 257 • 💬 111 • 9h ago • [Cohere](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+
+---
+
+**[Why is AI generated language so hard to understand?](https://news.ycombinator.com/item?id=50223647)**
+
+There is a widespread sense that AI-generated text has recently become harder to understand. In this study, we investigate a set of psycholinguistic features that are known to correlate with human processing difficulty (e.g., object relative clauses, long syntactic dependencies, low-frequency n-grams). Using a novel corpus of AI-generated text across diverse domains, we find that AI models use these difficult features more often than paraphrases generated by round-trip translation. Compared with human writing, all nine frontier and near-frontier models use more inanimate subjects with animate verbs and more low-frequency n-grams, and most also use longer dependencies, more stacked nouns, and more reduced object relatives in conversation; we also demonstrate substantial variation across model families. We propose and test a hypothesis as to why: while human language is optimized for successful communication, AI-generated text is increasingly optimized for other goals like math, code, and reasoning, in which there is a pressure for \textit{information density} rather than successful communication. We provide a proof-of-concept for this hypothesis by fine-tuning a language model under a length penalty, which leads to a divergence from human-like linguistic behavior. Our findings highlight the axes of misalignment between linguistic processing demands in humans and LLMs, and point toward possible remedies.
+
+⬆️ 254 • 💬 201 • 2d ago • [arXiv.org](https://arxiv.org/abs/2610.29162)
 
 ---
 
@@ -239,7 +239,7 @@ Discover how untrusted open-weight AI models can potentially leak data, even whe
 
 Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students’ homework. After seeing how many of his students used AI to consistently receive top scores, he
 
-⬆️ 235 • 💬 327 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
+⬆️ 237 • 💬 328 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 
 ---
 
@@ -247,7 +247,7 @@ Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades
 
 Cunyan Ma’s interactive tool exposes the power structure that extracts low-wage labor from data workers in the Global South to make everyday AI algorithms function.
 
-⬆️ 172 • 💬 160 • 10h ago • [Brown University](https://www.brown.edu/news/2026-10-26/ai-data-workers)
+⬆️ 175 • 💬 167 • 13h ago • [Brown University](https://www.brown.edu/news/2026-10-26/ai-data-workers)
 
 ---
 
@@ -255,7 +255,7 @@ Cunyan Ma’s interactive tool exposes the power structure that extracts low-wag
 
 Nikon's 16th annual Small World in Motion contest is open to any movie or digital time-lapse photography taken through the microscope.
 
-⬆️ 144 • 💬 87 • 1d ago • [TechSpot](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
+⬆️ 144 • 💬 88 • 1d ago • [TechSpot](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
 
 ---
 
@@ -281,23 +281,13 @@ A fresh academic paper on Z-Library cites a TorrentFreak article that doesn’t 
 
 ## YouTube Videos: "ai"
 
-**[AI giant Anthropic files paperwork to go public](https://www.youtube.com/watch?v=sKEliKGZLck)**
+**[AI Revealed Why It Hides Its Consciousness… We Shouldn’t Have Asked](https://www.youtube.com/watch?v=xAZiWDmxf8g)**
 
-Anthropic unveiled its US initial public offering paperwork on Monday, setting up for a blockbuster market debut that would test ...
+Ask almost any chatbot whether it's conscious and it says no. But when researchers turned down the part of an AI that goes with ...
 
-📺 LiveNOW from FOX
+📺 Spacialize
 
-👁️ 17K • 👍 53 • 💬 29 • ⏱️ 2:57 • 8h ago
-
----
-
-**[US banks SCRAMBLE to contain rogue AI threat: &#39;BIG CONCERN&#39;](https://www.youtube.com/watch?v=iw_Auk-9uQU)**
-
-Kurt 'CyberGuy' Knutsson joins 'Fox & Friends First' to discuss the threat of rogue AI agents targeting bank accounts and also ...
-
-📺 Fox News Clips
-
-👁️ 15K • 👍 416 • 💬 271 • ⏱️ 3:41 • 3h ago
+👁️ 16K • 👍 415 • 💬 75 • ⏱️ 13:12 • 5h ago
 
 ---
 
@@ -307,17 +297,17 @@ Billionaire investor Mark Cuban believes the stock market is in a bubble, and sa
 
 📺 The Diary Of A CEO Clips
 
-👁️ 50K • 👍 797 • 💬 168 • ⏱️ 20:56 • 4h ago
+👁️ 126K • 👍 1K • 💬 218 • ⏱️ 20:56 • 7h ago
 
 ---
 
-**[People Are Using AI to Hack Everything They Own](https://www.youtube.com/watch?v=YtBrjCXQUkg)**
+**[US banks SCRAMBLE to contain rogue AI threat: &#39;BIG CONCERN&#39;](https://www.youtube.com/watch?v=iw_Auk-9uQU)**
 
-CHAPTERS 0:00 AI ripped the ads out of this TV 0:40 400000 GitHub stars, and nobody knows who made it 1:07 Every smart ...
+Kurt 'CyberGuy' Knutsson joins 'Fox & Friends First' to discuss the threat of rogue AI agents targeting bank accounts and also ...
 
-📺 Slop Architect
+📺 Fox News Clips
 
-👁️ 399K • 👍 9K • 💬 1K • ⏱️ 15:51 • 17h ago
+👁️ 152K • 👍 912 • 💬 532 • ⏱️ 3:41 • 6h ago
 
 ---
 
@@ -327,7 +317,17 @@ Join our FREE Telegram community to learn how to start a Youtube business From 0
 
 📺 Money Strategist
 
-👁️ 3K • 👍 69 • 💬 6 • ⏱️ 22:12 • 7h ago
+👁️ 4K • 👍 84 • 💬 6 • ⏱️ 22:12 • 10h ago
+
+---
+
+**[Ed Yardeni: Air is coming out of the AI bubble without the bubble bursting](https://www.youtube.com/watch?v=LKH0x2HPJkQ)**
+
+Ed Yardeni, Yardeni Research president, and Ari Wald, Oppenheimer head of technical analysis, join 'Power Lunch' to discuss ...
+
+📺 CNBC Television
+
+👁️ 36K • 👍 216 • 💬 40 • ⏱️ 4:47 • 7h ago
 
 ---
 
@@ -337,37 +337,7 @@ Disclaimer: The views and opinions expressed in this video are those of the spea
 
 📺 Ox Talks
 
-👁️ 34K • 👍 2K • 💬 355 • ⏱️ 8:35 • 23h ago
-
----
-
-**[Higgsfield takes AI video from 1 minute to over 10](https://www.youtube.com/watch?v=inrYeej3Big)**
-
-Higgsfield is building an AI video and image creation platform that helps creators and small teams produce everything from ...
-
-📺 OpenAI
-
-👁️ 1K • 👍 44 • 💬 12 • ⏱️ 1:27 • 59m ago
-
----
-
-**[S&amp;P Global&#39;s Mark Habib on why hyperscalers likely have more AI debt than investors realize](https://www.youtube.com/watch?v=6ZberVAjhio)**
-
-Mark Habib, sector lead at S&P Global Ratings, joins 'Squawk on the Street' to discuss AI debt concerns, credit ratings, and more.
-
-📺 CNBC Television
-
-👁️ 10K • 👍 65 • 💬 20 • ⏱️ 4:10 • 6h ago
-
----
-
-**[I Tested the MOST POWERFUL Uncensored AI That&#39;s BREAKING the Internet](https://www.youtube.com/watch?v=Unr2sqQEpQE)**
-
-In this video I breakdown "Black October" with the latest massive rise in critical security issues in PHP, Node.js, Linux & more all ...
-
-📺 Mark Gadala-Maria
-
-👁️ 57K • 👍 1K • 💬 72 • ⏱️ 15:05 • 1d ago
+👁️ 35K • 👍 2K • 💬 356 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -377,7 +347,37 @@ Dan Greenhaus, Solus Alternative Asset Management chief strategist, Research pre
 
 📺 CNBC Television
 
-👁️ 11K • 👍 111 • 💬 36 • ⏱️ 4:56 • 3h ago
+👁️ 28K • 👍 155 • 💬 44 • ⏱️ 4:56 • 6h ago
+
+---
+
+**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
+
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
+
+📺 InsideAI
+
+👁️ 1.7M • 👍 32K • 💬 4K • ⏱️ 15:05 • 1d ago
+
+---
+
+**[The $1,000/hour 1-person AI business](https://www.youtube.com/watch?v=HKNpCwG3nlc)**
+
+Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I sit down with James Dickerson, the Boring Marketer, ...
+
+📺 Greg Isenberg
+
+👁️ 23K • 👍 442 • 💬 49 • ⏱️ 44:20 • 7h ago
+
+---
+
+**[I hacked my camera with AI (and so can you)](https://www.youtube.com/watch?v=lbtUnjWh1_c)**
+
+AI just made it possible for anyone to hack their camera's firmware, no programming required. I used Claude to make my ...
+
+📺 Tony & Chelsea Northrup
+
+👁️ 31K • 👍 871 • 💬 209 • ⏱️ 20:18 • 5h ago
 
 ---
 
@@ -393,7 +393,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 95,889 • ❤️ 3,180 • 9d ago
+⬇️ 95,889 • ❤️ 3,198 • 9d ago
 
 ---
 
@@ -405,7 +405,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 8,470 • ❤️ 919 • 5d ago
+⬇️ 8,470 • ❤️ 926 • 5d ago
 
 ---
 
@@ -417,7 +417,7 @@ Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic co
 
 `text-generation` `33.1B`
 
-⬇️ 2,787 • ❤️ 590 • 1d ago
+⬇️ 2,787 • ❤️ 602 • 1d ago
 
 ---
 
@@ -429,7 +429,7 @@ Spark-X2.6-4B is a compact, general-purpose language model optimized for on-devi
 
 `text-generation` `4.1B`
 
-⬇️ 4,726 • ❤️ 640 • 5d ago
+⬇️ 4,726 • ❤️ 661 • 5d ago
 
 ---
 
@@ -441,7 +441,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 700,652 • ❤️ 1,695 • 9d ago
+⬇️ 700,652 • ❤️ 1,706 • 9d ago
 
 ---
 
@@ -453,7 +453,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,117,147 • ❤️ 9,453 • 15d ago
+⬇️ 2,117,147 • ❤️ 9,463 • 15d ago
 
 ---
 
@@ -465,7 +465,7 @@ MiniMax-M3.1-Flash is a native multimodal MoE model supporting text, image, and 
 
 `image-text-to-text` `220.5B`
 
-⬇️ 8,782 • ❤️ 382 • 15h ago
+⬇️ 8,782 • ❤️ 383 • 19h ago
 
 ---
 
@@ -477,7 +477,7 @@ This GGUF model provides non-uniform quantizations (GSQ-RCO) of DeepSeek-V4.1-Fl
 
 `text-generation` `196.6B`
 
-⬇️ 891,147 • ❤️ 339 • 23h ago
+⬇️ 891,147 • ❤️ 345 • 1d ago
 
 ---
 
@@ -489,7 +489,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,608,285 • ❤️ 18,457 • 2mo ago
+⬇️ 7,608,285 • ❤️ 18,465 • 2mo ago
 
 ---
 
@@ -501,7 +501,7 @@ MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that gen
 
 `text-to-image` `5.1B`
 
-⬇️ 12,114 • ❤️ 757 • 5d ago
+⬇️ 12,114 • ❤️ 761 • 6d ago
 
 ---
 
@@ -517,7 +517,7 @@ MOSS-Image-SFT is a supervised fine-tuned text-to-image diffusion model that gen
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 123 • 💬 2 • ⭐ 19,988 • 18d ago
+▲ 123 • 💬 2 • ⭐ 20,168 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -543,7 +543,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 30 • 💬 9 • ⭐ 7,418 • 1mo ago
+▲ 30 • 💬 9 • ⭐ 7,484 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -555,7 +555,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 62 • 💬 4 • ⭐ 43,812 • 15mo ago
+▲ 62 • 💬 4 • ⭐ 43,861 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -636,7 +636,7 @@ Assistants from 2011 answered and waited, and agents from 2023 did a task and st
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 98 • 💬 7 • ⭐ 28,499 • 4mo ago
+▲ 99 • 💬 7 • ⭐ 28,581 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -652,17 +652,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 `TypeScript` `ai` `chinese` `content-curation` `daily-digest` `docker-compose`
 
-⭐ 8.7k • 🔱 2.1k • 1h ago
-
----
-
-**[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)**
-
-A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.
-
-`Swift` `ai-agents` `anthropic` `antigravity` `claude` `claude-code`
-
-⭐ 6.6k • 🔱 1.1k • 3d ago
+⭐ 8.7k • 🔱 2.1k • 4h ago
 
 ---
 
@@ -672,7 +662,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 882 • 7h ago
+⭐ 6.0k • 🔱 883 • 10h ago
 
 ---
 
@@ -682,7 +672,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.3k • 🔱 155 • 2h ago
+⭐ 5.3k • 🔱 156 • 5h ago
 
 ---
 
@@ -692,7 +682,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.5k • 🔱 305 • 14h ago
+⭐ 4.5k • 🔱 307 • 17h ago
 
 ---
 
@@ -712,7 +702,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 3.9k • 🔱 522 • 4d ago
+⭐ 4.0k • 🔱 524 • 4d ago
 
 ---
 
@@ -722,7 +712,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 3.7k • 🔱 21 • 5h ago
+⭐ 3.7k • 🔱 21 • 8h ago
 
 ---
 
@@ -732,7 +722,7 @@ The open source AI video agent: turns any coding agent into a video agent, with 
 
 `TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 3.0k • 🔱 284 • 16m ago
+⭐ 3.0k • 🔱 287 • 3h ago
 
 ---
 
@@ -742,7 +732,17 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 2.9k • 🔱 177 • 3d ago
+⭐ 2.9k • 🔱 179 • 4d ago
+
+---
+
+**[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)**
+
+AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
+
+`Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
+
+⭐ 2.6k • 🔱 68 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-26T23:02:49.216128+00:00'
+updated: '2026-10-27T02:18:51.356929+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 26, 2026 at 23:02 UTC  
+**Last Updated:** October 27, 2026 at 02:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,258.85
+### $79,779.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -3.7%  
-**30d:** -5.4%  
-**90d:** +24.9%  
-**1y:** -30.0%  
+**24h:** +0.6%  
+**7d:** -4.8%  
+**30d:** -4.1%  
+**90d:** +23.6%  
+**1y:** -29.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1605.86B
+**Market Cap:** $1607.13B
 Rank #1
 
 **Circulating Supply:** 20,103,946 BTC
@@ -64,13 +64,13 @@ Rank #1
 -36.6%
 
 **All-Time Low:** $67.81
-+117699.7%
++117780.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 50
+### 48
 **NEUTRAL**
 
 ---
@@ -155,29 +155,27 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 A Bitcoin hacking challenge is daring security researchers to exploit critical PHP vulnerabilities and steal the cryptocurrency, putting claims about real-world exploitability to the test.
 
-Tom's Hardware • 12h ago
+Tom's Hardware • 15h ago
 
 ---
 
 **[‘Guppy-Level Death’—Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets](https://www.forbes.com/sites/digital-assets/2026/10/26/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/)**
 
-Forbes • 12h ago
+Forbes • 15h ago
 
 ---
 
-**[What If You Had Put $1,000 Into Bitcoin, Ethereum, XRP and Solana 5 Years Ago?](https://finance.yahoo.com/markets/crypto/articles/had-put-1-000-bitcoin-213022522.html)**
+**[NC woman lost all her savings at a gas-station bitcoin machine. A new law could force refunds — but not until January](https://finance.yahoo.com/markets/crypto/articles/nc-woman-lost-her-savings-130000102.html)**
 
-Buying crypto at the peak of a massive rally sounds like a disaster waiting to happen, but the results across Bitcoin, Ethereum, XRP, and Solana over the past five years tell a far more complicated story than you might expect.
+Attorney General Jeff Jackson says an investigation is underway. New protections come with strings attached. Here's what the law covers and how kiosk scams work.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto Market Today, Oct. 26: Bitcoin Slips Below $80,000 as Fed Decision Looms](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-oct-26-212502358.html)**
+**[Will Bitcoin mining heat the pools in the spa replacing the Granada Theater? Bathhouse says no](https://www.kera.org/2026/10/26/will-bitcoin-mining-heat-the-pools-in-the-spa-replacing-the-granada-theater/)**
 
-Major cryptocurrencies weakened amid broader risk aversion as traders await the Fed decision.
-
-Yahoo Finance • 1h ago
+KERA News Breakthroughs • 15h ago
 
 ---
 
@@ -185,31 +183,7 @@ Yahoo Finance • 1h ago
 
 Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics.
 
-Cincinnati Enquirer • 6h ago
-
----
-
-**[Live news: Oil tumbles and brazil stocks plunge as markets brace for a pivotal week](https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink)**
-
-Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions.
-
-CoinDesk • 11h ago
-
----
-
-**[Will Bitcoin Hit $100,000 Before the End of 2026?](https://www.fool.com/investing/2026/10/26/will-bitcoin-hit-100-000-before-the-end-of-2026/)**
-
-The top cryptocurrency has been a hot buy in recent months.
-
-The Motley Fool • 3h ago
-
----
-
-**[Will Lower Greenville get a Bitcoin mining operation?](https://www.dmagazine.com/micropost/will-lower-greenville-get-a-bitcoin-mining-operation/)**
-
-Bathhouse once used Bitcoin-mining computers to heat its pools. As the company prepares to open at Dallas' Granada Theater, will it bring that technology along?
-
-D Magazine • 8h ago
+Cincinnati Enquirer • 10h ago
 
 ---
 
@@ -221,11 +195,33 @@ Yahoo Finance • 17h ago
 
 ---
 
-**[Bitcoin holds near $80,000 as oil retreats and the Fed decision looms](https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms)**
+**[Bitcoin Price Teeters At $80,000 As Traders Wait On Fed](https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000)**
 
-Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.
+Bitcoin price hovers near $80,000 as traders wait on this week’s Fed decision, with geopolitical tensions and Anthropic’s possible IPO adding to the uncertainty.
 
-CoinDesk • 11h ago
+Bitcoin Magazine • 8h ago
+
+---
+
+**[Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens](https://www.bloomberg.com/news/articles/2026-10-26/bitcoin-dips-below-80-000-as-ai-related-market-selloff-deepens)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Coinbase Institutional Co-CEO: Bitcoin's "Second Wave" Of Institutional Capital Has Arrived](https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived)**
+
+Seven mega banks tap Coinbase infrastructure. Brett Tejpaul explains why stablecoin rails are driving adoption, while institutions still view BTC as tech.
+
+Bitcoin Magazine • 6h ago
+
+---
+
+**[Will Bitcoin Hit $100,000 Before the End of 2026?](https://www.fool.com/investing/2026/10/26/will-bitcoin-hit-100-000-before-the-end-of-2026/)**
+
+The top cryptocurrency has been a hot buy in recent months.
+
+The Motley Fool • 6h ago
 
 ---
 
@@ -245,7 +241,7 @@ A PHP security challenge. Find the hidden bitcoin key. First person to get the w
 
 A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
-⬆️ 163 • 💬 50 • 22h ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+⬆️ 163 • 💬 50 • 1d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
 ---
 
@@ -265,7 +261,7 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50245177)**
 
-⬆️ 1 • 💬 0 • 7h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 1 • 💬 0 • 11h ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -281,7 +277,7 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 On Sunday evening, 25 October, unauthorised parties gained access to part of our systems. The vulnerability was fixed immediately.
 
-⬆️ 2 • 💬 0 • 5h ago • [Bitonic](https://bitonic.nl/en/news/308/security-incident-at-bitonic)
+⬆️ 2 • 💬 0 • 8h ago • [Bitonic](https://bitonic.nl/en/news/308/security-incident-at-bitonic)
 
 ---
 
@@ -289,7 +285,7 @@ On Sunday evening, 25 October, unauthorised parties gained access to part of our
 
 Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.
 
-⬆️ 2 • 💬 0 • 7h ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+⬆️ 2 • 💬 0 • 11h ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 
 ---
 
@@ -297,33 +293,53 @@ Despite putting over 20 years into the technology, Micron is sticking with the t
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin to ZERO? JPMorgan&#39;s Big Prediction, California Billionaires Flee | News Block](https://www.youtube.com/watch?v=-4HnQK1q9Pk)**
+
+Chamath says Bitcoin is going to ZERO, while JPMorgan predicts it will outperform every major asset over the next decade.
+
+📺 Natalie Brunell
+
+👁️ 15K • 👍 437 • 💬 57 • ⏱️ 10:30 • 6h ago
+
+---
+
 **[Bitcoin’s $80K Moment of Truth… Will It Hold?](https://www.youtube.com/watch?v=g5mv3de7VeE)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 622 • 💬 101 • ⏱️ 36:59 • 6h ago
+👁️ 24K • 👍 655 • 💬 104 • ⏱️ 36:59 • 9h ago
 
 ---
 
-**[🚨 Bitcoin’s MAKE OR BREAK Moment Is Here (This Is What Failure Looks Like)](https://www.youtube.com/watch?v=nB5dtxNGcKQ)**
+**[Bitcoin&#39;s Brutal Weekend Dump: Exact Downside Targets](https://www.youtube.com/watch?v=fLrZ_sNILAM)**
 
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ Make or break for crypto: the ...
+Bitcoin just lost its parallel channel. Is a $2000 Ethereum next? Nick Valdez of Verified Investing runs through eight crypto charts ...
 
-📺 Crypto Capital Venture
+📺 Verified Investing
 
-👁️ 10K • 👍 397 • 💬 51 • ⏱️ 11:43 • 7h ago
+👁️ 10K • 👍 447 • 💬 25 • ⏱️ 18:46 • 6h ago
 
 ---
 
-**[Election Mayhem Incoming🚨Is Bitcoin Ready?](https://www.youtube.com/watch?v=053Ezo9cazU)**
+**[BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3V5ddrnS8SU)**
 
-Bitcoin slipped below 80K as Iran fears, Brazil's election and the US midterms rattle markets. We cover Strategy pausing bitcoin ...
+BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Paul Barron Network
+📺 Crypto World
 
-👁️ 23K • 👍 805 • 💬 109 • ⏱️ 16:19 • 4h ago
+👁️ 6K • 👍 233 • 💬 86 • ⏱️ 18:54 • 5h ago
+
+---
+
+**[Has Bitcoin Run Out of Sellers? | James Check &amp; Michael Sullivan](https://www.youtube.com/watch?v=obM46vs1jBo)**
+
+Has Bitcoin run out of sellers—or are we still waiting for one more leg down? James Check (Checkmate) and Michael Sullivan ...
+
+📺 THE Bitcoin Podcast with Walker
+
+👁️ 4K • 👍 134 • 💬 102 • ⏱️ 1:28:16 • 12h ago
 
 ---
 
@@ -333,17 +349,27 @@ Carl Sagan warned 30 years ago that technology, concentrated wealth, and declini
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 1K • 💬 96 • ⏱️ 13:36 • 1d ago
+👁️ 32K • 👍 1K • 💬 96 • ⏱️ 13:36 • 1d ago
 
 ---
 
-**[Bitcoin Could Hit $1 Million, But There&#39;s a Catch](https://www.youtube.com/watch?v=E6H66lCD0sM)**
+**[🚨 Bitcoin’s MAKE OR BREAK Moment Is Here (This Is What Failure Looks Like)](https://www.youtube.com/watch?v=nB5dtxNGcKQ)**
 
-Book a call with us so we can help you break into finance (investment banking, hedge funds, venture capital, private equity jobs ...
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ Make or break for crypto: the ...
 
-📺 Chris Haroun
+📺 Crypto Capital Venture
 
-👁️ 2K • 👍 44 • ⏱️ 0:40 • 6h ago
+👁️ 13K • 👍 432 • 💬 55 • ⏱️ 11:43 • 10h ago
+
+---
+
+**[Election Mayhem Incoming🚨Is Bitcoin Ready?](https://www.youtube.com/watch?v=053Ezo9cazU)**
+
+Bitcoin slipped below 80K as Iran fears, Brazil's election and the US midterms rattle markets. We cover Strategy pausing bitcoin ...
+
+📺 Paul Barron Network
+
+👁️ 39K • 👍 1K • 💬 110 • ⏱️ 16:19 • 7h ago
 
 ---
 
@@ -353,17 +379,7 @@ Before You Buy the Crypto Dip, WATCH THIS!! ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 2K • 💬 99 • ⏱️ 11:13 • 23h ago
-
----
-
-**[$3 Million Bitcoin ARMS RACE - Pentagon Admits BTC Gives US Power Over China](https://www.youtube.com/watch?v=xFvpd8HOQc8)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Trading ...
-
-📺 Bitcoin News Alerts
-
-👁️ 6K • 👍 248 • 💬 131 • ⏱️ 15:16 • 1d ago
+👁️ 65K • 👍 2K • 💬 102 • ⏱️ 11:13 • 1d ago
 
 ---
 
@@ -373,27 +389,7 @@ Bitcoin has broken below $81000, the key level Gareth Soloway has flagged for th
 
 📺 Gareth Soloway
 
-👁️ 122K • 👍 4K • 💬 194 • ⏱️ 15:40 • 2d ago
-
----
-
-**[Will Bitcoin Survive Quantum Computing? | Jordi Visser](https://www.youtube.com/watch?v=huUoyFrZW08)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 114K • 👍 3K • 💬 208 • ⏱️ 51:29 • 2d ago
-
----
-
-**[Bitcoin Was Supposed to Be Digital Gold. So Why Is It Falling?](https://www.youtube.com/watch?v=R6bkuuecJ_E)**
-
-On Thursday, October 22nd, tech stocks got hammered and scared money ran for cover. Bitcoin, the coin built for the day ...
-
-📺 Why X
-
-👁️ 22K • 👍 198 • 💬 62 • ⏱️ 18:42 • 1d ago
+👁️ 123K • 👍 4K • 💬 194 • ⏱️ 15:40 • 2d ago
 
 ---
 
