@@ -5,44 +5,34 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGVmQWFIYkx4RHpka2U2OF9ZeDBRSkVoM2g0bmFHa3RsODJPcXVHLVNwYmRjaWZuN1ZKa05VcUJZTUt6YmV0d0hjU2g3OXdCdmxRb0Y2ZVNlQzZUSXVLVFJnUTJDNWtrWHFjMnFpc01VVTdtb1lTNFpEd1VzSHBLVk45bkN6Y09CdDRLc1p0U0hhV1ktS0w4ZnhvU1VNQUdlY2xVYWJZbTg0TF9YNG9MazlmSklrN1E0SDd5OWV3?oc=5",
-      "pub_date": 1793084996.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade."
-    },
-    {
-      "headline": "Crypto giants double down on bitcoin and ethereum",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRoazJKRmEtT1JCQWFjQjc5ZDhvSFU2eEhpcG9ZNmpmSk8xNEIxNU9yZkFSbUJFUnFudmZJWXpPRmlucFpEdGNRcUdLWnJhRjkwZG5IUEI4RjI4Y3FFbE51c0VfUXpvdG4yaEh3Q0RKY1c2M1dZcGVCWXB3QlVWTm1kX0RwM1hacXNNNkVCbEx2X1NxUXJpZHRJV28?oc=5",
-      "pub_date": 1793030400.0,
-      "article_url": "https://finance.yahoo.com/video/crypto-giants-double-down-on-bitcoin-and-ethereum-185113565.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/286558519ab5878f33c892effe073041641771d2ba80319b0b20179d611ec721/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F8a1c9460-81c3-11f0-be46-2d1b24fbf1f4",
-      "description": "Scott Melker breaks down the latest movements in the crypto sector, including Strategy (MSTR) repurchasing $205M of its own stock (STRC), Strive's (ASST) biggest-ever purchase of 6,182 bitcoin (BTC-USD), and Bitmine (BMNR) buying 10,452 ethereum (ETH-USD) as it approaches its stated 5% goal.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
-    },
-    {
-      "headline": "Current price of Ethereum for Oct 26, 2026",
+      "headline": "Current price of Ethereum for Oct. 27, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNMkw0eXJZU2dCeEhaaVAtUXhQN2dmXzdNcUFTeG82QXNWaUJpRGZnWXR5ZHFXSlkxcVhIYUxEd2l6S3R6Xy02ZHF5ZmZfTHNSSzBILVBSbmtyVlMxd253SlpLaWRjdUVu?oc=5",
-      "pub_date": 1793021644.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-26-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-26.jpg?resize=1200,600",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sUjhfaWRUb1VzRGMxYjFFQktVU0ExOTZIV2x0UXdRRXNoS3l2bDFjR19wcVVGZkl4NjAyWGxWWVlsTVNPSTJLQ0NQTUE0cTBNYl9hak8wYk1YNkZUcENpd2VmejNMMUZK?oc=5",
+      "pub_date": 1793106900.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-27-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-27.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDRMNE8xVkdPWUo5SkNBR1Vwa1o2b3otcElEdHdYWEdBTENMYUhCT0FsWm1aSEdyMlIwalNxRHJXQ2I4OXEyVl9DZ3p6RTZMUFU5cllzdk1wUW5FNEVtTk1HN0V0M2ZMZ2hoVE1uLXhPdXhOMGc2dVJsMXhkdXhKbGlieEIxOTFmMGFFRS1yQQ?oc=5",
-      "pub_date": 1793026840.0,
-      "article_url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/circle-shared-balance-wallet.webp",
-      "description": "Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback."
+      "headline": "Ethereum Developers Have Fixed The \u2018Glamsterdam Bug\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFpwZkp3OUhHem1SbjBDUWZFenZILTZwVWVTMm82OXlHYTlDdUFQM1pGQllfbW54bXB2azJrNDEzOWRPNnZkcmlZMmt5bDUyVlNMenhpaTBZZ18yblFNdEJCTTdLZ2t4M2dLc1N5MFJBTTM3anAtc18wMUFrbFdiS1BPLVhyZENmVHVCOWU4UUFrZjc4d3pES0cycFpweTRWbXIzRW5OWkl1Zw?oc=5",
+      "pub_date": 1793105520.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-developers-fixed-glamsterdam-bug-125200521.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e19a67d9e087598655943fc968123dcc6446cbaefdef5e599f7065dc72887228/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fdb65fbd9981f9b34f03ae4ac3bcddafb.jpg",
+      "description": "Ethereum (CRYPTO: $ETH) developers say they\u2019ve managed to fix a bug in the upcoming Glamsterdam upgrade."
+    },
+    {
+      "headline": "Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1M3U2Qzd0UwMDJ1RVJDWXdXQ2k0M1NZSnFKd2l2d1hXNGVIUHZRUU9TVHRIdDI3bkxLWmdKNklyeWU0T3NrZDJIaWhaLUFralFUTG4tSEEtamZtSUJkQVl1ZXF2d20zVXRNZHZLRFdLdnRuMGZFdWJENVFZejlYanR4aVFRQlJkVEhmemFuM2RCaGZad2M4Umt0ZFN3Zjk5T08xd0FsMzJuOEJoZjhhRlM0QU1mdUNhNTZoSHV6aw?oc=5",
+      "pub_date": 1793030712.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
     },
     {
       "headline": "Most big cryptocurrencies fall on Sui, Ethereum drops",
@@ -55,24 +45,24 @@
       "description": null
     },
     {
-      "headline": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2ZxTGJVUlRJeThncndBQXhIN0ZfNExqNzI5RFJBY2JtSEZhdXFpeXN0R1kxVl80amtLUktqR2hVR2FjalNBTDVKbEZ1c2MteHhpOV9DY0ZhTUdKbkRUeVdJU2wyc0dQUGJ1Z0dFUTV2Zk9tMFRXU1FQOTd3QlllQ3UtSmg?oc=5",
-      "pub_date": 1793028963.0,
-      "article_url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg",
-      "description": "Bitmine Immersion Technologies kept its weekly Ethereum buying streak intact, adding 10,452 ETH worth roughly $24 million."
+      "headline": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDRMNE8xVkdPWUo5SkNBR1Vwa1o2b3otcElEdHdYWEdBTENMYUhCT0FsWm1aSEdyMlIwalNxRHJXQ2I4OXEyVl9DZ3p6RTZMUFU5cllzdk1wUW5FNEVtTk1HN0V0M2ZMZ2hoVE1uLXhPdXhOMGc2dVJsMXhkdXhKbGlieEIxOTFmMGFFRS1yQQ?oc=5",
+      "pub_date": 1793026840.0,
+      "article_url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/circle-shared-balance-wallet.webp",
+      "description": "Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback."
     },
     {
-      "headline": "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnVqNFZtMWdtM21HSVg5VVlNanRuNU45bWJjRXhDaWZCekNRWEtmaFRkNFJqZXRPOHRGZG9vZFBJUWpqa0N4UUxJYnREdTVNXzdGY3hhUzg5RmV1TFBoa0dFMV8wcHNyV3p3YmU2X0VNU0V0TDFTcUJDVldVT0ZReU5lYllPQ1BBVjZ0d1FhQ3JaWXZsRTRF?oc=5",
-      "pub_date": 1792923120.0,
-      "article_url": "https://www.fool.com/investing/2026/10/25/sec-approves-leveraged-bitcoin-and-ethereum-funds/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890546%2Fquestioning-investor.jpg&w=1200&op=resize",
-      "description": "Just because you can multiply daily moves, doesn't mean you should."
+      "headline": "ETHGas lets institutions reserve Ethereum blockspace with built-in compliance screening",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0M3S3hkYlVvZ05QWUlfLVhCeTJRSGl4V2hUeWFvN2ZlQm50ZlhQNWFCOElVdlI3eUdzQnpQdjhxYWVZdDFtVXhHeTBIWE9lTlhlQ0hSZ1h4RV9PU2N2THRxc2FFeTI3VGlXZ1JKMDBuNlYwcDY4ZlpFcmtvbmJGbA?oc=5",
+      "pub_date": 1793110339.0,
+      "article_url": "https://cryptobriefing.com/ethgas-institutions-reserve-ethereum-blockspace/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/27100236/library-ethgas-lets-institutions-reserve-ethereum-blockspace-wit-800x450.png",
+      "description": "ETHGas lets institutions reserve Ethereum blockspace with guaranteed inclusion and sanctions screening, backed by a $3 billion ether.fi deal."
     },
     {
       "headline": "Crypto News: AlphaPepe To Announce New CEX Partner In 4 Days While Ethereum Price Prediction Points To $3,000",
@@ -85,14 +75,14 @@
       "description": "MONACO, Oct.  26, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward\u00a0AlphaPepe as the countdown to its next CEX partnership enters the final ..."
     },
     {
-      "headline": "Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRF9EQ3JLeWVSczNUOHR6Z1NqajRCZGxKV2RNSTM4SmhyRTY0clllZjhXM1p6NE5KOEV5c2thYlA1Rm43RHpzQWF6ZmZEclNGbXpaNXBEam9FNFlPeUppeVRUc2Q3X1NxMm5ITXBTX1JvZWUtYmYzM0d1bWZpX3E0U3RTVUwzdTRncEhSSThUck9MS3pqUElMOXZLbDdLOHp5cnBVak9iOEtpbV95THNIdWIteVdzczdRdDIzVXZGY2Fkckh2OWI3dEg2RWJZUXBPd3RiM0JUcnYxTUhINFYzN292LU9jSFl3U0U1eERjeDlVdw?oc=5",
-      "pub_date": 1793004530.0,
-      "article_url": "https://www.tradingview.com/news/financemagnates:79c912d24094b:0-why-is-crypto-going-down-bitcoin-tests-80-000-as-ethereum-xrp-and-dogecoin-sink-to-august-lows/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Crypto prices kept sliding today (Monday), with Bitcoin (BTC) at $79,979 on Binance at 08:22 UTC, about 6% below last Wednesday's high of $84,898. Ether, XRP and Dogecoin fell to their lowest prices since August.The selloff started on Thursday, when worries about how artificial intelligence spendin\u2026"
+      "headline": "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnVqNFZtMWdtM21HSVg5VVlNanRuNU45bWJjRXhDaWZCekNRWEtmaFRkNFJqZXRPOHRGZG9vZFBJUWpqa0N4UUxJYnREdTVNXzdGY3hhUzg5RmV1TFBoa0dFMV8wcHNyV3p3YmU2X0VNU0V0TDFTcUJDVldVT0ZReU5lYllPQ1BBVjZ0d1FhQ3JaWXZsRTRF?oc=5",
+      "pub_date": 1792923120.0,
+      "article_url": "https://www.fool.com/investing/2026/10/25/sec-approves-leveraged-bitcoin-and-ethereum-funds/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890546%2Fquestioning-investor.jpg&w=1200&op=resize",
+      "description": "Just because you can multiply daily moves, doesn't mean you should."
     },
     {
       "headline": "Lookonchain: Ethereum OG Sells 1,500 ETH for $3.48M",
@@ -103,8 +93,18 @@
       "article_url": "https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-1-500-eth-3-48m",
       "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
       "description": "Lookonchain reports that an Ethereum OG who acquired 100,000 ETH at $0.31 during the 2015 ICO sold 1,500 ETH worth $3.48 million over the past eight hours..."
+    },
+    {
+      "headline": "Bitcoin, XRP, Dogecoin Gain, but Ethereum Slips Amid Signs of 'Local Bottom': Top Analyst Identifies 'Nex",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVlRCVDdRbTJfQUZReWdoU2llQ2FMZjNpOXA5dkRMSHVVdUNGbWlGZWJEa3QtQWtaOWx2Vkx2M01reVluU3c3Y2pJZGJDZENsbTR3LVBLWjN0MW50bmxrNFJEaTZNRnFhLUVRMHB6SGxnMUczS2dSUDU3NVRPYkxQMXNGRURaaEFQOGxPNjE4ZEJFd2lHa2dqMkFJbGlLUzJIcXBLYWNSaEZPa25ZOWNuNg?oc=5",
+      "pub_date": 1793066149.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62608471/bitcoin-ethereum-xrp-dogecoin-crypto-market-recap",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T08:13:31.797190+00:00"
+  "fetched_at": "2026-10-27T14:49:02.141147+00:00"
 }

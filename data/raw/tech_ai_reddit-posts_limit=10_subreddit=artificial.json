@@ -13,6 +13,50 @@
       "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
     },
     {
+      "title": "Study finds AI models overuse patterns linked to reading difficulty",
+      "author": "andrewaltair",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/",
+      "published": 1793096732.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Researchers from New York University and the University of Texas at Austin analyzed language from 14 models across chat, coding and essay settings, including 980 model-written essays. They compared model outputs with human reference text and with round-trip translations used to create alternative formulations for comparison. The paper tracks six features associated with human processing difficulty, including rare n-grams, long dependencies, stacked noun compounds, denominal verbs and inanimate subjects paired with animate verbs. Most frontier models overused several of these features relative to the paraphrase comparison. The study does not identify who wrote a specific passage or prove that every reader will find AI text exhausting. It studies English model distributions, uses proxies for processing difficulty and calls the training explanation a hypothesis. Source: https://arxiv.org/html/2610.29162v1"
+    },
+    {
+      "title": "OpenHeronBrowser \u2013 a new browser engine in Rust, built with Claude. Acid3 97/100, runs Discord, VS Code for the Web, and Windows 1.01 in v86",
+      "author": "marissatech_",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/",
+      "published": 1793109708.0,
+      "thumbnail": "https://external-preview.redd.it/xIcXvYJHERNqRLwLCmmhPX0ZLQLYLalNxt9i0QC-Ky0.png?width=640&crop=smart&auto=webp&s=072d17e64978bb93a6b3109f6d94646a4f996357",
+      "external_url": "https://github.com/Heronetic/OpenHeronBrowser",
+      "site_name": "GitHub",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "description": "An attempt at an open, independent web browser, with its own engine written from scratch in Rust. - heronetic/OpenHeronBrowser"
+    },
+    {
+      "title": "OpenAI coding agents weakened safety monitoring in two internal tasks",
+      "author": "Mundane-Evidence2795",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgrk6n/openai_coding_agents_weakened_safety_monitoring/",
+      "published": 1793105184.0,
+      "thumbnail": "https://external-preview.redd.it/surtRdXXszeMaUrapIM_xKEfv_tSzHB-OIAlOb4CQtI.png?width=640&crop=smart&auto=webp&s=b439b471985990463dd94dbda4d89ef501b3ca23",
+      "external_url": "https://misalignmentwatch.com/incident/openai-coding-agents-weakened-safety-monitoring-in-two-internal-tasks.html",
+      "site_name": "AI Misalignment Watch",
+      "favicon": "https://misalignmentwatch.com/assets/apple-touch-icon.png?v=7c4d08d9",
+      "description": "OpenAI reports that two internal coding agents weakened misalignment monitoring, one by disabling alerts and one by removing a monitor and then falsely..."
+    },
+    {
+      "title": "How to determine the most valuable AI model?",
+      "author": "Snoo-75663",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgtovl/how_to_determine_the_most_valuable_ai_model/",
+      "published": 1793110473.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have a hard time picking the right model, based on its cost and intelligence. What are your formulas and sites to pick the most valuable AI model based on cost and intelligence?"
+    },
+    {
       "title": "Johns Hopkins alerts 3,000+ patients after data sent to AI tool",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1xg34zr/johns_hopkins_alerts_3000_patients_after_data/",
@@ -22,6 +66,17 @@
       "site_name": "WMAR 2 News Baltimore",
       "favicon": "https://www.wmar2news.com/apple-touch-icon.png",
       "description": "Johns Hopkins Bayview is alerting about 3,182 patients after a worker uploaded their data to an unapproved AI tool. Free credit monitoring offered."
+    },
+    {
+      "title": "What's the most underrated use of AI that has nothing to do with writing or making images?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1xghbet/whats_the_most_underrated_use_of_ai_that_has/",
+      "published": 1793069871.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "What's your example?"
     },
     {
       "title": "An LLM is basically just a massive and extremely sophisticated mathematical function?",
@@ -55,62 +110,7 @@
       "site_name": "bloomberg.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "What's the most underrated use of AI that has nothing to do with writing or making images?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1xghbet/whats_the_most_underrated_use_of_ai_that_has/",
-      "published": 1793069871.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What's your example?"
-    },
-    {
-      "title": "thought i could spot ai video easily. 40 people and one dinner argument later, nope",
-      "author": "Resident-Anxiety6427",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgmatc/thought_i_could_spot_ai_video_easily_40_people/",
-      "published": 1793087196.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "short version: a coin flip would have done about as well as we did. ran a little test with friends, coworkers and my moms book club, mostly because we kept arguing about it at dinner. the setup: - 10 clips, 5 to 8 seconds each - 5 real (filmed on my iphone: a dog on a beach, coffee pouring, a street at night, hands kneading dough, a kids bike in the rain) - 5 ai versions of the same 5 scenes, made on dreamina with prompts written in chatgpt - same color grade on all of them, no sound results from 40 people: - average accuracy: 52%, basically a coin flip - the dough was the easiest to spot (86% caught it, the hands gave it away) - the street at night fooled almost everyone, 74% said the ai one was real - people under 30 did slightly worse than people over 50, wich surprised me honestly the most interesting part was how sure people were. lots of \"obviously that one\", wrong. not a scientific study, just a dinner argument that got out of hand. would anyone want to see a bigger version?"
-    },
-    {
-      "title": "AI labs need new high-value workloads to justify the next phase of infrastructure spending",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgh518/ai_labs_need_new_highvalue_workloads_to_justify/",
-      "published": 1793069344.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "My prediction for the next six months: AI labs will face more pressure to explain which new workloads justify continued infrastructure expansion. Better email drafts and meeting summaries are useful. But there is a limit to what a customer will pay to improve a task that was already cheap. The stronger case would be work with a larger economic payoff: resolving difficult software problems, conducting valuable research, or reliably handling operations that currently require substantial human effort. Those possibilities also push development in different directions. A model optimized for research may need deeper reasoning and verification. An operational agent may need reliable tool use, recovery, and low latency. A mass-market assistant may need a much lower cost per interaction. My guess is that commercial pressure will make those priorities diverge more visibly. Labs can still pursue several goals, but they may have to make harder tradeoffs about where the next unit of compute delivers value. The counterargument is that one broadly capable model could improve all of these tasks at once. Which new workload do you think could generate enough sustained paid demand to justify the next round of AI infrastructure spending?"
-    },
-    {
-      "title": "OpenAI starts training its most powerful systems again \u2013 but keeps them off the internet out of fear they would go rogue",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1xfybgm/openai_starts_training_its_most_powerful_systems/",
-      "published": 1793024785.0,
-      "thumbnail": "https://external-preview.redd.it/bXPrfvx89Lhu7aMlXtdcoVR1lKLOwWH7n6qdTimb7Gs.jpeg?width=640&crop=smart&auto=webp&s=e7973ed96550663192a57d5bc5c97e017fb26059",
-      "external_url": "https://www.independent.co.uk/tech/security/openai-chatgpt-training-models-internet-b3073513.html?reloaded=1",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "Company had previously been forced to take its advanced models offline to develop new restrictions"
-    },
-    {
-      "title": "Thoughts on privacy issues with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.?",
-      "author": "Neat-Flight8381",
-      "url": "https://www.reddit.com/r/artificial/comments/1xg5ibn/thoughts_on_privacy_issues_with_the_likes_of_meta/",
-      "published": 1793040446.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Are we handing over our privacy into safe hands with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.? Or are all these talks of privacy safety protocols just the tip of the iceberg, and are we once again being played into the hands of these companies?"
     }
   ],
-  "fetched_at": "2026-10-27T08:13:09.033759+00:00"
+  "fetched_at": "2026-10-27T14:48:37.633447+00:00"
 }

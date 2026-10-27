@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 123,
+      "upvotes": 124,
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 20168,
+      "github_stars": 20383,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -54,7 +54,26 @@
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 7484,
+      "github_stars": 7667,
+      "project_page": null
+    },
+    {
+      "id": "2606.23050",
+      "title": "Unlimited OCR Works",
+      "authors": "Youyang Yin, Huanhuan Liu, YY et al. (17 authors)",
+      "organization_name": "baidu",
+      "organization_fullname": "BAIDU",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64f187a2cc1c03340ac30498/TYYUxK8xD1AxExFMWqbZD.png",
+      "summary": "Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the model to leverage the prior distribution of language, leading to improved OCR performance. However, the downside is equally evident: as the output sequence lengthens, the accumulated KV cache drives up memory consumption and progressively slows down generation. This stands in stark contrast to humans, who exhibit no such decline in efficiency during long-horizon copying tasks. In this technical report, we propose Unlimited OCR, a model designed to emulate human parsing working memory. Taking DeepSeek OCR as the baseline, we replace all attention layers in the decoder with our proposed Reference Sliding Window Attention (R-SWA), which reduces attention computation costs while maintaining a constant KV cache throughout the entire decoding process. By combining the high compression rate of DeepSeek OCR's encoder with our constant KV cache design, Unlimited OCR can transcribe dozens of pages of documents in a single forward pass under a standard maximum length of 32K. More importantly, R-SWA is a general-purpose parsing attention mechanism - beyond OCR, it is equally applicable to tasks such as ASR, translation, etc. Codes and model weights are publicly available at http://github.com/baidu/Unlimited-OCR.",
+      "ai_summary": "Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.",
+      "hf_url": "https://huggingface.co/papers/2606.23050",
+      "arxiv_url": "https://arxiv.org/abs/2606.23050",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
+      "upvotes": 100,
+      "num_comments": 7,
+      "published_at": "2026-06-21T20:00:00.000Z",
+      "github_repo": "https://github.com/baidu/Unlimited-OCR",
+      "github_stars": 29008,
       "project_page": null
     },
     {
@@ -73,7 +92,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 43861,
+      "github_stars": 43917,
       "project_page": null
     },
     {
@@ -88,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2610.23374",
       "arxiv_url": "https://arxiv.org/abs/2610.23374",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.23374.png",
-      "upvotes": 104,
+      "upvotes": 105,
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
@@ -149,7 +168,7 @@
       "num_comments": 1,
       "published_at": "2026-10-03T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/Prism",
-      "github_stars": 1268,
+      "github_stars": 1383,
       "project_page": "https://francis-rings.github.io/Prism/"
     },
     {
@@ -168,30 +187,11 @@
       "num_comments": 3,
       "published_at": "2026-10-05T20:00:00.000Z",
       "github_repo": "https://github.com/nano-muse/nanoMuse",
-      "github_stars": 2639,
+      "github_stars": 2684,
       "project_page": "https://nanomuse.cn/"
-    },
-    {
-      "id": "2606.23050",
-      "title": "Unlimited OCR Works",
-      "authors": "Youyang Yin, Huanhuan Liu, YY et al. (17 authors)",
-      "organization_name": "baidu",
-      "organization_fullname": "BAIDU",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64f187a2cc1c03340ac30498/TYYUxK8xD1AxExFMWqbZD.png",
-      "summary": "Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the model to leverage the prior distribution of language, leading to improved OCR performance. However, the downside is equally evident: as the output sequence lengthens, the accumulated KV cache drives up memory consumption and progressively slows down generation. This stands in stark contrast to humans, who exhibit no such decline in efficiency during long-horizon copying tasks. In this technical report, we propose Unlimited OCR, a model designed to emulate human parsing working memory. Taking DeepSeek OCR as the baseline, we replace all attention layers in the decoder with our proposed Reference Sliding Window Attention (R-SWA), which reduces attention computation costs while maintaining a constant KV cache throughout the entire decoding process. By combining the high compression rate of DeepSeek OCR's encoder with our constant KV cache design, Unlimited OCR can transcribe dozens of pages of documents in a single forward pass under a standard maximum length of 32K. More importantly, R-SWA is a general-purpose parsing attention mechanism - beyond OCR, it is equally applicable to tasks such as ASR, translation, etc. Codes and model weights are publicly available at http://github.com/baidu/Unlimited-OCR.",
-      "ai_summary": "Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.",
-      "hf_url": "https://huggingface.co/papers/2606.23050",
-      "arxiv_url": "https://arxiv.org/abs/2606.23050",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
-      "upvotes": 100,
-      "num_comments": 7,
-      "published_at": "2026-06-21T20:00:00.000Z",
-      "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 28581,
-      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-27T08:13:20.073466+00:00"
+  "fetched_at": "2026-10-27T14:48:46.555999+00:00"
 }
