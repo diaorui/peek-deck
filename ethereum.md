@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-27T14:49:09.951424+00:00'
+updated: '2026-10-27T19:51:58.496831+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 27, 2026 at 14:49 UTC  
+**Last Updated:** October 27, 2026 at 19:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -5.7%  
-**30d:** -13.4%  
-**90d:** +21.5%  
-**1y:** -41.5%  
+**24h:** +2.0%  
+**7d:** -4.9%  
+**30d:** -12.6%  
+**90d:** +22.5%  
+**1y:** -40.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $284.29B
+**Market Cap:** $286.87B
 Rank #2
 
 **Circulating Supply:** 122,167,205 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-52.5%
 
 **All-Time Low:** $0.43
-+537344.1%
++542106.4%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tickets and if anyone any single being can sponser or offer me that ticket please My profile is kidna ticket less i need that ticket 😭 FYI : I am a 3rd year Computer science engineering student at Mumbai University and ofc i have too many financial constraints to afford one
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 4d ago
 
 ---
 
@@ -136,7 +136,7 @@ This is a repost from yesterdays Daily for better visibility. I made a thing tha
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 4d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 5d ago
 
 ---
 
@@ -144,7 +144,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-4d ago
+5d ago
 
 ---
 
@@ -152,27 +152,37 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[Current price of Ethereum for Oct. 27, 2026](https://fortune.com/article/price-of-ethereum-10-27-2026/)**
+**[ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders](https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders)**
+
+Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.
+
+CoinDesk • 11h ago
+
+---
+
+**[Crypto giants double down on bitcoin and ethereum](https://finance.yahoo.com/video/crypto-giants-double-down-on-bitcoin-and-ethereum-185113565.html)**
+
+Scott Melker breaks down the latest movements in the crypto sector, including Strategy (MSTR) repurchasing $205M of its own stock (STRC), Strive's (ASST) biggest-ever purchase of 6,182 bitcoin (BTC-USD), and Bitmine (BMNR) buying 10,452 ethereum (ETH-USD) as it approaches its stated 5% goal.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Current price of Ethereum for October 27, 2026](https://fortune.com/article/price-of-ethereum-10-27-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 6h ago
 
 ---
 
-**[Ethereum Developers Have Fixed The ‘Glamsterdam Bug’](https://finance.yahoo.com/markets/crypto/articles/ethereum-developers-fixed-glamsterdam-bug-125200521.html)**
+**[Circle gives its Bitcoin-backed token one balance across Ethereum and Arc](https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/)**
 
-Ethereum (CRYPTO: $ETH) developers say they’ve managed to fix a bug in the upcoming Glamsterdam upgrade.
+Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up](https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines)**
-
-The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.
-
-CoinDesk • 22h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -182,19 +192,35 @@ MarketWatch • 1d ago
 
 ---
 
-**[Circle gives its Bitcoin-backed token one balance across Ethereum and Arc](https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/)**
+**[Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?](https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/)**
 
-Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback.
+Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need.
 
-CryptoSlate • 23h ago
+24/7 Wall St. • 1d ago
 
 ---
 
-**[ETHGas lets institutions reserve Ethereum blockspace with built-in compliance screening](https://cryptobriefing.com/ethgas-institutions-reserve-ethereum-blockspace/)**
+**[Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up](https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines)**
 
-ETHGas lets institutions reserve Ethereum blockspace with guaranteed inclusion and sanctions screening, backed by a $3 billion ether.fi deal.
+The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.
 
-Crypto Briefing • 36m ago
+CoinDesk • 1d ago
+
+---
+
+**[Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-keeps-buying-153603798.html)**
+
+The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares—part of what it calls the largest equity buyback any crypto treasury company has run.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee insists 'crypto bull market is underway' as Bitmine adds 10,452 ETH](https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743)**
+
+The company holds 4.95% of Ethereum's supply, with $15 billion in combined crypto, cash, marketable securities, and other investments.
+
+The Block • 1d ago
 
 ---
 
@@ -202,29 +228,7 @@ Crypto Briefing • 36m ago
 
 MONACO, Oct.  26, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe as the countdown to its next CEX partnership enters the final ...
 
-markets.businessinsider.com • 11h ago
-
----
-
-**[SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?](https://www.fool.com/investing/2026/10/25/sec-approves-leveraged-bitcoin-and-ethereum-funds/)**
-
-Just because you can multiply daily moves, doesn't mean you should.
-
-The Motley Fool • 2d ago
-
----
-
-**[Lookonchain: Ethereum OG Sells 1,500 ETH for $3.48M](https://blockchain.news/flashnews/lookonchain-ethereum-og-sells-1-500-eth-3-48m)**
-
-Lookonchain reports that an Ethereum OG who acquired 100,000 ETH at $0.31 during the 2015 ICO sold 1,500 ETH worth $3.48 million over the past eight hours...
-
-Blockchain News • 20h ago
-
----
-
-**[Bitcoin, XRP, Dogecoin Gain, but Ethereum Slips Amid Signs of 'Local Bottom': Top Analyst Identifies 'Nex](https://www.benzinga.com/crypto/cryptocurrency/26/10/62608471/bitcoin-ethereum-xrp-dogecoin-crypto-market-recap)**
-
-Benzinga • 12h ago
+markets.businessinsider.com • 17h ago
 
 ---
 
@@ -232,43 +236,13 @@ Benzinga • 12h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum vs Bitcoin: What Altcoins Need Right Now](https://www.youtube.com/watch?v=SoiOcGcqLuI)**
+**[Raoul Pal :&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=s5ML9SCXElE)**
 
-Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we track, only seven did better. So when will altcoins ...
+Raoul Pal believes crypto may be entering a much bigger phase as AI, global liquidity, and blockchain infrastructure begin to ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 15K • 👍 321 • 💬 17 • ⏱️ 13:01 • 2d ago
-
----
-
-**[IF YOU HOLD XRP, SOL, ETH OR INJ YOU MUST WATCH NOW...](https://www.youtube.com/watch?v=BNc7u-wtaoE)**
-
-Uphold | Your XRP, Working Harder Than Ever ▸ Sign Up to Uphold: https://uphold.com/sensei ▸ Earn XRP Rewards: 4% Elite ...
-
-📺 Crypto Sensei
-
-👁️ 18K • 👍 600 • 💬 82 • ⏱️ 16:45 • 1d ago
-
----
-
-**[BITCOIN TUESDAY LIQUIDATION TRAP!? I&#39;M $5.5M SHORT BTC &amp; ETHEREUM!!](https://www.youtube.com/watch?v=BesZsOHBLWA)**
-
-BITCOIN PRICE ANALYSIS | BITCOIN TRADING | BITCOIN HEATMAP | BITCOIN FED DECISION Bitcoin price analysis for ...
-
-📺 TMG Trades
-
-👁️ 7K • 👍 356 • 💬 67 • ⏱️ 15:08 • 19h ago
-
----
-
-**[My Live Trading Bot Built with Claude Code - Passive Income using Ethereum Day Trading](https://www.youtube.com/watch?v=yNIzPkK0gB8)**
-
-Complete Tutorial Guide: https://tr.ee/tPdNUp The build connects live trading, day trading, live trading strategy, claude ai free ...
-
-📺 Tyler Reeves
-
-👁️ 10K • 👍 66 • 💬 73 • ⏱️ 6:08 • 2d ago
+👁️ 11K • 👍 156 • 💬 25 • ⏱️ 24:09 • 2d ago
 
 ---
 
@@ -278,17 +252,37 @@ BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no
 
 📺 Yahoo Finance
 
-👁️ 20K • 👍 237 • 💬 131 • ⏱️ 14:51 • 21h ago
+👁️ 21K • 👍 246 • 💬 146 • ⏱️ 14:51 • 1d ago
 
 ---
 
-**[Raoul Pal :&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=s5ML9SCXElE)**
+**[Ethereum vs Bitcoin: What Altcoins Need Right Now](https://www.youtube.com/watch?v=SoiOcGcqLuI)**
 
-Raoul Pal believes crypto may be entering a much bigger phase as AI, global liquidity, and blockchain infrastructure begin to ...
+Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we track, only seven did better. So when will altcoins ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 10K • 👍 151 • 💬 24 • ⏱️ 24:09 • 1d ago
+👁️ 16K • 👍 321 • 💬 17 • ⏱️ 13:01 • 2d ago
+
+---
+
+**[My Live Trading Bot Built with Claude Code - Passive Income using Ethereum Day Trading](https://www.youtube.com/watch?v=yNIzPkK0gB8)**
+
+Complete Tutorial Guide: https://tr.ee/tPdNUp The build connects live trading, day trading, live trading strategy, claude ai free ...
+
+📺 Tyler Reeves
+
+👁️ 11K • 👍 66 • 💬 79 • ⏱️ 6:08 • 2d ago
+
+---
+
+**[ETH HOLDERS: The Biggest Company Buyer Of ETH Is Almost Done Stacking. Who Holds Up Your FLOOR?](https://www.youtube.com/watch?v=nEeO1P1lNGE)**
+
+Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/ded7dc93 Connect With Us: Email: Team@bullrunners.com ...
+
+📺 BULLRUNNERS
+
+👁️ 1K • 👍 10 • 💬 1 • ⏱️ 11:35 • 23h ago
 
 ---
 
@@ -302,33 +296,43 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 ---
 
-**[ETH HOLDERS: The Biggest Company Buyer Of ETH Is Almost Done Stacking. Who Holds Up Your FLOOR?](https://www.youtube.com/watch?v=nEeO1P1lNGE)**
+**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
 
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/ded7dc93 Connect With Us: Email: Team@bullrunners.com ...
+Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
 
-📺 BULLRUNNERS
+📺 Dr. Samuel Allen Alexander
 
-👁️ 1K • 👍 10 • 💬 25 • ⏱️ 11:35 • 18h ago
-
----
-
-**[👾 Sommi Meets A Genius (Discuss Ethereum)](https://www.youtube.com/watch?v=yzCkVgUPlv4)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 3K • 👍 224 • 💬 19 • ⏱️ 12:45 • 1d ago
+👁️ 13K • 👍 299 • 💬 112 • ⏱️ 34:10 • 4h ago
 
 ---
 
-**[Is $2,000 Ethereum Next? 8 Crypto Charts In 8 Minutes](https://www.youtube.com/watch?v=xmD2fbeICxA)**
+**[My Ethereum Long Setup: Order Block, Fibonacci &amp; Liquidity#Ethereum #ETH #Shorts](https://www.youtube.com/watch?v=6qDkGUMwk0I)**
 
-Bitcoin just lost its parallel channel. Is a $2000 Ethereum next? Nick Valdez of Verified Investing runs through eight crypto charts ...
+MEXC: https://cryptogainers.short.gy/MEXC-20 20% Lifetime Fee Discount + 50 USDT Bonus + 3K BTC/USDT Airdrop!
 
-📺 Verified Investing
+📺 CryptoHersens
 
-👁️ 7K • 👍 222 • 💬 6 • ⏱️ 8:04 • 16h ago
+👁️ 1K • 👍 91 • 💬 1 • ⏱️ 1:39 • 1d ago
+
+---
+
+**[I SOLD My Ethereum.. 69-Day Streak Hanging by $5!!](https://www.youtube.com/watch?v=QeL6MXLXS-k)**
+
+Toobit - where I trade (Toobit x AlexMarzell: Win 8810 in Rewards + VIP Bonuses, until 31 Oct) https://marzell.org/tb-v100 ...
+
+📺 Marzell Crypto
+
+👁️ 313 • 👍 11 • 💬 1 • ⏱️ 3:21 • 8h ago
+
+---
+
+**[BITCOIN TUESDAY LIQUIDATION TRAP!? I&#39;M $5.5M SHORT BTC &amp; ETHEREUM!!](https://www.youtube.com/watch?v=BesZsOHBLWA)**
+
+BITCOIN PRICE ANALYSIS | BITCOIN TRADING | BITCOIN HEATMAP | BITCOIN FED DECISION Bitcoin price analysis for ...
+
+📺 TMG Trades
+
+👁️ 8K • 👍 359 • 💬 68 • ⏱️ 15:08 • 1d ago
 
 ---
 
