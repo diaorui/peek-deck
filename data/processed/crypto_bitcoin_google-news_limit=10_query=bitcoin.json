@@ -5,46 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "\u2018Guppy-Level Death\u2019\u2014Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUU1WjhqQVRuTU1vTDZsWWN1NDdnaVdidk94ZjhoQW9UT0pidlo5Mm9rcTFpTElzM19NTDNWX0NydDBQTFhmVmc2bmtzY0RfOXBJa2dIMmNZWTFEYnIxNFZSdXJRZk9XODdyUVlFc1dzZERaZzMxY3luOGFQbExjRWZ4aVR5enRhWDh6MGF2YmtPSkJYZFVVVGg0VnVFdG9ucUFHVlRMSnBvOGFpVV9VTWdkRnpraEJOQWhyNlJSUU1aTmhDTzEyNA?oc=5",
-      "pub_date": 1793012100.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/26/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty \u2014 PHP2Shell challenge tested claims that AI makes exploiting vulnerabilities easy",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMHBwUElwOVJwd2pmLU1lbGl2RUE3R3dhWHM2OF9yZTd4dVFYWkFaTHRZSGNBZWZDSEdTWjNMQm8zTDc0SUhTVnVLbUZkZFYxM0I3WlNoT1U4X054dEFMajBaN0tKWHdoOENkUzV2eTVad3VPZDZDczltOTVYZ2pHM0pOdi1ONEVTemxFVDRILVEwZWZOclF3WU9sX0ZpT3FPQzFiQWVHWW55QmpadmotRXFKZFp4aUxJLVpjVmJGb3hGOFlaNzZYcnJYTjEyTklHcnZ1Zm5kVWdxNjVJQklXck1SR0lnWll2Tk5BRkViRG04a3JDOERrX0dRenZ4TG5tWFFxY0FNRktCeVM4aGIxTkptUVZaSHpQTUQ2T3diRUFDWmVLRExYUWZTbFJWQUNWdW1fVEszczhLUDVLc3UxWDBEaXoyRXBrTHZBU1ZCVVUwUjFOcUs5VS1DN29fTmVMQi1HSjFn?oc=5",
-      "pub_date": 1793010600.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
-      "image": "https://cdn.mos.cms.futurecdn.net/nR46h5GnedCeKyZtVqZr3L-1920-80.jpg",
-      "description": "A Bitcoin hacking challenge is daring security researchers to exploit critical PHP vulnerabilities and steal the cryptocurrency, putting claims about real-world exploitability to the test."
-    },
-    {
-      "headline": "Bitcoin and ETH Holders Could Face a Deeper Pullback, Ansem Warns",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVlwbEFkNzdjTTJSSklWZ1ZsTWV0UlAzOUREcF9sU2pRMk5Fc1hFS25scXFURzlWX1ZuOVFJU0hjd2hBTVVkdlloRHl5Y1pYYTlmbGNTWjI3NWhSdFJmQ2xRRllHMkdqQXlLQzZLZGliTEJ4RTIzYjBSOU15YkU1QWRCazlwdFRjSlUwY1FrSTBCVV8wbzZZNW04SQ?oc=5",
-      "pub_date": 1793086719.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-eth-holders-could-face-073839049.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fddfc29a251252174b5a9abfe97e3abb420dec3b6109779bfdf6c53e7e12af00/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F5207c1ace76db881667b3df485b448fa.png",
-      "description": "Crypto trader Ansem turns bearish on Bitcoin and ETH, blaming a blow-off top in AI stocks and warning that both could slide faster from here."
-    },
-    {
-      "headline": "Bitcoin dips below $80k as Strategy pauses buying, Fed caution weighs",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1dDMG1iT0l0Rm5MOVdMVlBSbHpiZXJaU2M0UERNTV9BdHZPNzBPcUxPNV9YZE1aVUhDaEdEQVd6RmZ0dWt6QUYtMkZsX2JRbDhON0MyaWU0VnB0ZHM2RXNDV05XNHB5bThtWnltdXhzcDFyZDFvZXFqV2VyRDFTQ2daakU1MjlPZ2tZYWpXSEpFdDhhcVVkX1p4R0U?oc=5",
-      "pub_date": 1793084209.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80k-strategy-065649737.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Investing.com-- Bitcoin fell on Tuesday, extending recent losses and falling below a recent trading range after top corporate holder Strategy paused its purchases of the crypto."
-    },
-    {
       "headline": "Why Now Is the Time to Add and Hold BTC",
       "source": "Galaxy",
       "source_url": "https://www.galaxy.com",
@@ -55,14 +15,64 @@
       "description": "We believe the bottom is in. Selling pressure has diminished, the debasement case has strengthened, and the crowd has left."
     },
     {
-      "headline": "Will Bitcoin mining heat the pools in the spa replacing the Granada Theater? Bathhouse says no",
-      "source": "KERA News Breakthroughs",
-      "source_url": "https://www.kera.org",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnEtVHRDclZOeXpRSEdyeWhsU05VS1MzLXFhS09nTC1pVWJxUFNJdjBTVGNYck5hZHJHOHprUHdUbW0ya3dYWGRiaFVfSlhwdTVtZzNhMUxKZjhlM0x1dDliSUJUVzZzSmZXV0lZaUN0UUtWRmVEMnpUc09FZlpEaVpQWDdsTmVHYnVrWmJTQVJKTHdKeWd2enRJTHN2Z09oeExCc1FtN0FyaGJ6?oc=5",
-      "pub_date": 1793010780.0,
-      "article_url": "https://www.kera.org/2026/10/26/will-bitcoin-mining-heat-the-pools-in-the-spa-replacing-the-granada-theater/",
+      "headline": "\u2018Guppy-Level Death\u2019\u2014Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUU1WjhqQVRuTU1vTDZsWWN1NDdnaVdidk94ZjhoQW9UT0pidlo5Mm9rcTFpTElzM19NTDNWX0NydDBQTFhmVmc2bmtzY0RfOXBJa2dIMmNZWTFEYnIxNFZSdXJRZk9XODdyUVlFc1dzZERaZzMxY3luOGFQbExjRWZ4aVR5enRhWDh6MGF2YmtPSkJYZFVVVGg0VnVFdG9ucUFHVlRMSnBvOGFpVV9VTWdkRnpraEJOQWhyNlJSUU1aTmhDTzEyNA?oc=5",
+      "pub_date": 1793012100.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/26/bitcoin-going-to-zero-sudden-shock-flip-sparks-imminent-price-crash-fears/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Tom Lee Sees \u2018One of the Biggest Rallies of Our Lifetime\u2019 as $10.8B Bitcoin Options Expiry Looms",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTJLVHBrTzkyUXJXeHNxcm5wSjlMb05IT1p3VU1vb2RLMHRIbTZ5SXhGa1djVGpScVQ5QTI1d2xZaUVCLWZRUUR6SVpWblc0bDRJX1dod0VBRmpicnEtS0dBcy00T0dtcEQtY0ZabDY0T2RVTzY1bHZJbHF3QmpUQTkxUFVsdWRJUm5nNzFWQWVIMGM?oc=5",
+      "pub_date": 1793104335.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-one-biggest-123215921.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9ba84863c36bf366492671cf8752d9ca0608b76208186028f0d34a917c4ea218/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fc4459c4802250f1cfe2bee8801280d0d.png",
+      "description": "Tom Lee\u2019s bullish market outlook faces a near-term test as roughly $10.8 billion in Deribit Bitcoin options approach expiry. BlackRock\u2019s IBIT attracted $110.3 million on\u2026"
+    },
+    {
+      "headline": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUJYd1NwUlZqdkNUQ0pGdENSMVVaYzZ4dTNGMFJKNExGQzY3QUllOW9WQmpXZjdSbGR3M0xSN1BOQUpDdllJbER0dVI0SE5ZWWRfX0QwaUVVc0FlVVJZOGFGdENGWDVyd2wyVHZBSnZGNFY0clYyU19PQUhmRDJHb1ljbEppUkZnWE05bzhXeklvSW1RTndiVmZiNlExWl9HVmVKWnJ4ZHlHWnp5VFhiRzhyS0luWVNxU2VPYmx2VnJDQUdERFE?oc=5",
+      "pub_date": 1793100765.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d9786ace14e73654f21a94a72d9d19a3f66730e-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied, with the DeFi index down 1.8% as the Fed begins a two-day meeting."
+    },
+    {
+      "headline": "Luxor Technology raises $16M to expand AI hardware brokerage and compute trading",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXJHWklqVWctR29sdGJIczJFUlh6Z1dFTHBaNGZfQ0RNUzExSHRMWm5Vd2p5ZHdsaXZxcjVRVElQZ3JaQjhzUGo0ek9vdGtxMWhKSklzeV8wSHBfSmJOVU5iMElCVXEtUEFiTnNBRmNQNG5lRVBIMWVEVEd2R1Q4U1lZRkl0R25LX0JDUWRIVTVGRU9lRV83TjlxeHM5ODRkUjNQclJwNXZFSVREckJCTkhlTlBDaGdQRGxqM2dORXJ2NHM?oc=5",
+      "pub_date": 1793106830.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/aee234db418da001bf5ae613c8da62131873c838-1330x998.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Luxor is building price indexes and future contracts for compute power, adapting its Bitcoin hashprice derivative model for AI workloads."
+    },
+    {
+      "headline": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
+      "source": "The Register",
+      "source_url": "https://www.theregister.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbG1UTDhGUUt3b0c5QnNQSEJLdWRDQXVrQWI5bmlYSEpicVV3N0Q1OGhRTlRBVW9LdVRmX3Z3WmQxN3p3cVpYaTRaS2toWVFkSUFncERGZGUtb3FLM0JDWEt2ZzdtTDhVajdKQU5PYnNEbDdTdFJFMFVrZEQxN1B6eEdlYzlNZVRzdFFPQnNHTDFGTWRqenpocmhkMnhSOTFLa0FraG15MGZka2s1Ny1hbEx1UWJ0Tko2V25aOGw4ZXd2SXdEcVFPRG5raWlUYmhtdVE?oc=5",
+      "pub_date": 1793031240.0,
+      "article_url": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
+      "image": "https://image.theregister.com/5240537.jpg?imageId=5240537&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "description": "Jaydip Modhwadia beats challenge designed to test real-world exploitability of PHP2Shell in around 3 hours"
+    },
+    {
+      "headline": "Bitcoin++ Announces Antarctica Edition For January 2028",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81VGJQYzh3TmItMmpINTFIWXA0dVNBcVFEeEcyWnlfbmhoRkVyUTREREVIQ2J1aXQ4ZndSMERDc0FyZU56TnJ0bGRxZDF3b1BxaWx2OHpCZzV4TThnYXJJVTVlZWR4ODVNOVFaTkxaaHg0Zw?oc=5",
+      "pub_date": 1793059309.0,
+      "article_url": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/bitcoin-Announces-Antarctica-Edition.jpg",
+      "description": "bitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula."
     },
     {
       "headline": "'Just a shareholder' Vivek Ramaswamy's Strive Inc. ties, Bitcoin bet",
@@ -75,36 +85,26 @@
       "description": "Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics."
     },
     {
-      "headline": "Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPekhJZjZObno3dWhGQ0VmejR1c044RlBhdExpLUpueDBQX2ZXUy1mSHlnVGtpZy05TkpaLVhGVEZsTzJqbGhtamw1Vi1RTnFiNWc0WHV2b29xMFVRZ3IwajhOSmdYc25rY1d2Q0JsY0hVejkxX3FOTnFtQnlibFlUMEVrc3JCeC1WVnZjT0VORkhtdTRn?oc=5",
-      "pub_date": 1793004945.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80-000-053556739.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e59e74e5a329415db06c869b1ffd838f6b20f0c6aefbbfd2f637559d13f67678/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F5537f5409750e8624376302399c2428a.jpg",
-      "description": "Bitcoin retreated below $80,000 on Monday as broader risk-off sentiment ahead of a Federal Reserve meeting and concerns over the artificial intelligence trade weighed on cryptocurrencies."
+      "headline": "Current price of Bitcoin for October 27, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZVdoa0V4Y3ZqckhTYTN6TklOc2dXUkRhQTA1Yjk4emZIbkN0WHNEdVlfdmxDLTBVRUdMRmtUVFhKT3B1bVVrWnhydmI0cTgzRkd0azczQ1hrakV4OFF3R1ZPUjNqNWM?oc=5",
+      "pub_date": 1793106900.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-27-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-27.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRG1BR05haWR4TWNNT3U5a3RLTFBDTGd1VXNFajhROUJNSndYLXZnVGJVbkpFOUJ4OERTOFhhQmZNOEhtOHMxOUpJMU10WnUwb01DUEZack9LWTVjYjhacEdmaThvaHI5UHllZzVfVG9fSEpzcG5YbEItdDI0NDlfNUxPZnJ5M3BZSlFHVGV0b3hXUUh0VlZqX1EyNVFNd1MwUHY4M19NR0JkbUZSQk43bUJZNUNudw?oc=5",
-      "pub_date": 1793013873.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bf9272d06a5476928a866fea961f9bba82e9422-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
-    },
-    {
-      "headline": "Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RlX3A3ZENOMTJhNU5CRi12a0swUnlCSmtzbnJYQnRfQ1Z5NnpBVU9GdkRSUHNEXzZwSS0xc1FGRTlId3FnTWYzY1RCSWZHbkltc1dVRWMtSWNfSXFyLUJkcTRHSUV4MndxNVdONjRkSzBfRU44X1k4YjZqTVFfaWgzWE9QMHd1VWZsS1RUUmpxWTZBcHlHMXMxX25vNzhrOXViWGxXTUlVMUtoV05HQkhUZw?oc=5",
-      "pub_date": 1793046513.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/bitcoin-dips-below-80-000-as-ai-related-market-selloff-deepens",
-      "image": null,
-      "description": null
+      "headline": "JPMorgan Predicts Bitcoin Will Outpace Stocks, Bonds, and Gold Over the Next Decade. Is Bitcoin Now a Screaming Buy?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHNNLU85ZkhlSXdtUDA0cG5oZFF6MldzX21ZUWpCcEQ0QmtOQjN2Nk40dkVMNTVtaW5nV0FlSDIzVEJFVFV0MmUyYTVLal9aTU0xbXhsM3JYLTdKVC03VHUzaW5pTktheDNxS28xWEx1eWs5Si1GUGRSNDI3bGFsdEg1bFVlUHhEbkJiWXZLUVRoMHIwN3BWdg?oc=5",
+      "pub_date": 1793066940.0,
+      "article_url": "https://www.fool.com/investing/2026/10/26/jpmorgan-predicts-bitcoin-will-outpace-stocks-bond/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892077%2Frevolving-door-with-jpmorgan-logo-on-outside-of-building_jpmorgan.jpg&w=1200&op=resize",
+      "description": "The leading cryptocurrency has outperformed all major asset classes over the last 10 years, and JPMorgan Chase expects the same over the next 10."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T08:13:26.304117+00:00"
+  "fetched_at": "2026-10-27T14:49:00.447505+00:00"
 }
