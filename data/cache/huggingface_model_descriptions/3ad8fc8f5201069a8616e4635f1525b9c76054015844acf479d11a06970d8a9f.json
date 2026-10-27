@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-27T08:13:34.497434+00:00",
+  "data": "Sage-A1.5 is a 35B Mixture-of-Experts agentic model for long-horizon scientific problem solving, featuring agentic orchestration, verification, and open scientific discovery capabilities. It excels at complex task decomposition, parallel subagent collaboration, self-correction, and tool integration for scientific reasoning and professional Q&A.",
+  "model_id": "InternScience/Sage-A1.5"
+}
