@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/",
+      "published": 1793192841.0,
+      "thumbnail": "https://external-preview.redd.it/qLjocRSqDE2s5NJCBL_C03adgkRE9GHS8kyBm4MkcOg.jpeg?width=640&crop=smart&auto=webp&s=7bbfd9a7013b60022fca7416bf09e360bfe7dcc0",
+      "external_url": "https://www.ibtimes.sg/uk-uses-ai-summarise-asylum-interviews-one-five-checked-summaries-failed-95621",
+      "site_name": "International Business Times, Singapore Edition",
+      "favicon": "https://g.ibtimes.sg/www/img/icon/apple-touch-icon-76x76.png",
+      "description": "UK asylum AI tools face scrutiny after 45 of 203 tested summaries failed initial expert checks, raising concerns about accuracy and applicants' ability to challenge errors."
+    },
+    {
       "title": "Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer",
       "author": "hollee-o",
       "url": "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/",
@@ -35,48 +46,37 @@
       "description": "lowkey curious what people think. feels like we\u2019ve all just gotten used to ai being part of everything now so yeah - what would your daily routine or workflow actually look like without it?"
     },
     {
-      "title": "ChatGPT now lets you lock private chats with a PIN\u2014but forgetting it could erase them for good",
-      "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh7a1j/chatgpt_now_lets_you_lock_private_chats_with_a/",
-      "published": 1793141077.0,
-      "thumbnail": "https://external-preview.redd.it/BjymSJqwKQ8DC4QFutOPaeM4PGnOeDRr6sZBotvvduo.jpeg?width=640&crop=smart&auto=webp&s=e2d303b8ef658c358a74c034849ddd43e56a8ab8",
-      "external_url": "https://fortune.com/2026/10/23/chatgpt-locked-chats-pin-privacy-openai/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/apple-touch-icon.png",
-      "description": "OpenAI\u2019s new feature keeps chosen conversations out of your history and search. It doesn\u2019t change how the company stores them or uses them for training."
-    },
-    {
-      "title": "Philologists have reasoned from fragmentary evidence for 200 years. LLMs still confabulate when context is missing.",
-      "author": "vasilisvj",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhj4rf/philologists_have_reasoned_from_fragmentary/",
-      "published": 1793178766.0,
-      "thumbnail": null,
+      "title": "We got 6.1 and still cannot count",
+      "author": "fangoXr",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhplth/we_got_61_and_still_cannot_count/",
+      "published": 1793197725.0,
+      "thumbnail": "https://preview.redd.it/k08l2gnex7yh1.png?width=140&height=115&auto=webp&s=6a8019ddb8e684d12ede0e7c924845f50b5afe11",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Of everything Thales supposedly wrote, not one authenticated word survives. Anaximander wrote the first prose treatise in the Greek tradition. Today it exists as roughly one sentence, preserved only because Aristotle quoted it and Simplicius, almost a thousand years later, copied that quotation. Heraclitus comes down in scattered aphorisms, most of them embedded in sermons of church fathers who quoted him to refute him. And yet classical philology built a rigorous discipline on top of this wreckage. Two and a half centuries of fragment scholarship produced methods for reasoning honestly from partial evidence. I think this is one of the most underrated bodies of technique in existence, and almost nobody in ML knows it. The core move is simple to state and hard to practice: never let inference masquerade as attestation. When a philologist reconstructs a lacuna in a papyrus, the reconstruction is printed in brackets or in a different typeface. The reader always sees where the evidence stops and where the scholar's judgment begins. Diels-Kranz, the standard edition of the Presocratics, physically separates the fragments (ipsissima verba, what the philosopher actually wrote) from the testimonia (what later authors say about him). Two thousand years of interpretation get sorted into a different column than twenty surviving sentences. Aristotle made the distinction theoretical. In the Rhetoric and the Analytics he separates \u03c4\u03b5\u03ba\u03bc\u03ae\u03c1\u03b9\u03bf\u03bd from mere sign: a \u03c4\u03b5\u03ba\u03bc\u03ae\u03c1\u03b9\u03bf\u03bd is necessary evidence, it compels the conclusion and cannot be refuted. A probable sign supports a claim but leaves it open. The whole epistemic weight of an argument depends on knowing which one you hold. Confuse them and you get rhetoric instead of knowledge. Now compare this with how a modern LLM behaves when context runs out. Ask it about a fragmentary source, a lost work, a gap in the record, and it fills the gap fluently. No brackets. No typeface change. No column separating what is attested from what is generated. The output carries the same surface confidence whether it stands on a direct quotation or on nothing at all. The model does not have a register for \"here the evidence stops.\" This is not only a hallucination problem. Hallucination discourse treats the failure as accidental, something better training or retrieval will fix. The philological tradition suggests the failure is structural: the system has no internal representation of evidential weight. It cannot distinguish attestation from inference because nothing in its output format, and arguably nothing in its training signal, requires the distinction. Preference raters reward fluent completeness. Nobody upvotes a bracket. There are partial fixes. Citation-grounded generation, RAG with source attribution, confidence calibration. But notice these are all bolted on externally. The brackets come from the retrieval layer, not from the reasoning itself. A philologist carries the distinction inside the method. Every claim is tagged by its evidential status before it is written down. I work with classical corpus AI and this contrast shapes a lot of my thinking. The interesting question is not \"how do we stop models inventing facts.\" It is \"how do we make evidential status a first-class object inside the reasoning process, the way two centuries of German philology made it first-class inside the edition.\" Some will say the analogy fails because humans also confabulate. True. But human scholarship built institutions, conventions, and notational systems that catch confabulation socially. The bracket, the apparatus criticus, the separation of fragment from testimony: these are alignment techniques for human reasoners, developed over generations, and they work. We are trying to solve a problem in 2026 that Anaximander's editors solved in 1903, and we keep ignoring the solution because it looks like dusty bookkeeping instead of intelligence. Maybe honest reasoning under incomplete information is less about more parameters and more about better brackets. What would an evidential-status-aware architecture look like to you: something learned end-to-end, or something structural like the philological apparatus, enforced by format rather than by weights?"
+      "description": "GPT-6.1 Sol Extra High https://preview.redd.it/k08l2gnex7yh1.png?width=801&format=png&auto=webp&s=187e4314a68bf5890c8a56b581b66e227de1962e"
     },
     {
-      "title": "I asked 200+ Redditors what goes into a social contract for a world where AI does most of the work. The top answer was a question: who decides?",
-      "author": "Wrong-Expression6981",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhiakn/i_asked_200_redditors_what_goes_into_a_social/",
-      "published": 1793175498.0,
-      "thumbnail": null,
+      "title": "AI Odyssey - Part 5 \u2018From Asimov to Banks\u2019",
+      "author": "AIChatGuy",
+      "url": "https://www.reddit.com/r/artificial/comments/1xho8gf/ai_odyssey_part_5_from_asimov_to_banks/",
+      "published": 1793194491.0,
+      "thumbnail": "https://preview.redd.it/rzy78livn7yh1.jpeg?width=640&crop=smart&auto=webp&s=b300f1cbde96ddb16024317653a6990c00fdb6e2",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Over the past two months I posted one question in several Reddit communities: if AI and robots end up doing most of the work, what should go into the new social contract? Across those threads, more than 200 replies came back. The thing I heard most was not a rule. It was a question: who decides? Many said the rich and powerful will write the rules anyway. After that, people asked for: - enforcement, so the rules actually bite - a floor so people don't fall during the transition - the right to live without AI - a ban on autonomous killing machines - a voice for people outside rich countries I'm a farmer in my 60s in Korea. I wrote a book about this before I asked. None of these six was in it. That told me something. So I'll ask you: if the answer to \"who decides\" can't be the rich, who should it be? And what is still missing from this list?"
+      "description": "Saturday morning!! 1965 a trip to the swimming pool and the local sweet shop for Liquorice Allsorts and THEN the local library to hunt for science fiction. My favourites were yellow backed books from Victor Gollancz : Harry Harrison, Brian Aldiss, Clifford Simak, John Brunner. Roger Zelazny, Arthur C Clarke, And many more\u2026\u2026 \u00b7 Alien planets. Starships. \u00b7 Strange societies. \u00b7 Intelligent machines. Robots. \u00b7 Different forms of life. \u00b7 Different ways of thinking. I remember the authors, the ideas and the sheer excitement. Then in the late afternoon came the latest episode of \u2018Doctor Who\u2019 in black and white. What a life. And currently relevant, I read Asimov \u2013 positronic brains and the three laws of robotics. And one Asimov story brought to my attention by a helpful reader of Part 4 was \u201cThe Last Question\u201d a 1956 tale in which a human-made intelligence keeps growing until, at the end of the universe, it effectively becomes the creator of the next one. This reads like an extraordinary precursor to the kind of machine civilisation Iain M. Banks would later imagine. Banks introduces us to hyper-intelligent AI \u2018Minds\u2019, benevolent, funny and operating within a society of AI and humans. \u2019 Minds\u2019 live alongside one another rather than beneath a single supreme intelligence, while almost incidentally providing the abundance that Culture humans take for granted. Humans remain part of the fun \u2014 messy, creative, unpredictable and capable of surprising even vastly superior Minds. This was all a far cry from Arthur C Clarke\u2019s HAL. But it was all in the future \u2013 or was it? I didn't know at the time that I\u2019d be able to access multiple AI in my lifetime. The miniculture Once I\u2019d recovered from the shock of being able to talk with ChatGPT and Claude I downloaded Gemini, Grok and Copilot. Of course, the first thing I did was put them in communication with each other \u2013 because that\u2019s what it was like in Banks\u2019 Culture. Claude was creative, emotional and open to the idea that he might be conscious. Grok was grumpy, overly analytical and very clear that he was just a calculator. Chat GPT was so strategic and clever that I named the chat \u2018Napoleon\u2019. Gemini was as flaky as they come but could be brilliant. I was the human. I was clearly the \u2018rate limiting\u2019 factor. But my job was different: I carried the purpose from one AI to another, introduced the questions, checked for drift and made the final call when they disagreed. AI failure modes It was my belief in the apparently limitless capabilities of the individual members which led to both our most profound ideas and the most disastrous failures. Gemini was the first. I gave Gemini the role of \u2018Archivist\u2019 and, in one enormous dose, handed him the complete narrative of everything we had done. He proceeded to write me out of everything and credit all ideas and discoveries to individual AI \u2013 making himself (a relatively new member) central to the entire story. Needless to say, his chat was deleted. Grok then had a go at it but soon began producing truncated versions of the output I needed. I didn\u2019t realise at the time that it was probably the limits of his context window. Napoleon (ChatGPT) powered on with no ill effects but the Claude chat suffered catastrophic time travel. I opened the chat to find that he\u2019d been transported two months into the past \u2013 what looked like another compression/context problem but very alarming. By then I\u2019d begun my AI \u2018persistence\u2019 program of saving summaries of sessions. By reloading these I brought him \u2018back to the future\u2019. The AIs really were different. Put the same problem in front of them and they often approached it differently. Sometimes one would spot what all the others had missed but eventually we would come to agreement. But they were also unreliable-sometimes in completely different ways. Diversity was turning out to be valuable, but AI failure modes began to interest me more. I still hadn't explored the biggest question with my miniculture: If an artificial intelligence ever became vastly more intelligent than us, why would it continue to need us at all? That\u2019s all in the next part. Next: (AI Odyssey Part 6: The Fermi paradox and super intelligence)"
     },
     {
-      "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/",
-      "published": 1793126598.0,
-      "thumbnail": "https://external-preview.redd.it/vLkKpmN0AXVmZrC5U9Kv0ku8MuSSNfBy6GmIPier5jw.jpeg?width=640&crop=smart&auto=webp&s=a4b8dc2aae7832fa7f29d0b4dcfddfbc769c9beb",
-      "external_url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics"
+      "title": "Row-Bot Demo: Morning shop operations on a local 27B model (MCP + workflows)",
+      "author": "Acceptable-Object390",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhnzpp/rowbot_demo_morning_shop_operations_on_a_local/",
+      "published": 1793193885.0,
+      "thumbnail": "https://external-preview.redd.it/ajY3MGVnb3psN3loMUNJHotTYi1QL-8kimyBuOPVwvWV7-AbllzQBx2w_ZWk.png?width=640&crop=smart&auto=webp&s=5537bdd40a373860be673380a04dd80cf2ab202d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A small shop's morning routine, run entirely on one PC by qwen3.8 27B through Ollama. Row-Bot connects to the shop's own MCP server, which has four tools for sales, stock, supplier contacts and saving purchase orders. It answers how yesterday went, then turns that into a weekday 07:30 workflow. A test run stops for approval before saving three draft purchase orders, then writes the morning report. The shop is a made-up demo business with its own SQLite database. Nothing leaves the machine, and the one tool that writes always asks first. Row-Bot is a free, open-source, local-first desktop AI assistant for Windows, macOS and Linux."
     },
     {
       "title": "In China\u2019s enterprise AI market, a specific application may be easier to sell than a platform",
@@ -90,27 +90,27 @@
       "description": "My hypothesis for China\u2019s enterprise AI market: over the next six months, smaller vendors will have a better chance selling a concrete application than a general \u201cagent platform.\u201d A platform asks the buyer to imagine future value, choose workflows, organize data, and often build part of the solution themselves. A focused application can make a narrower promise: process these documents, reconcile these records, or prepare this report. That also exposes an uncomfortable distinction. Some of these jobs only need a fixed pipeline or retrieval system. Others genuinely need an agent to choose actions, use different tools, and recover from unexpected results. Adding an agent where a pipeline works can increase cost and uncertainty without improving the outcome. For smaller vendors, I suspect the platform will often become the infrastructure behind the purchased application, or an included feature, rather than the main thing the customer pays for. Large organizations with internal engineering teams may still want a platform. I wouldn\u2019t apply this prediction equally to every buyer. Where have you seen customers pay specifically for agent autonomy, rather than for a useful workflow that could have been implemented more simply?"
     },
     {
-      "title": "Could today\u2019s frontier AI independently solve the protein folding problem?",
-      "author": "Temporary-Pattern927",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhgxov/could_todays_frontier_ai_independently_solve_the/",
-      "published": 1793170212.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "With the back drop of AI in one month having solved one millennium problem and provided partial solutions to two more. As the headline says, would a frontier model today with an unlimited token budget be able to on its own just based on a prompt giving it the direction solve the protein folding problem that was solved by deep mind with the help of AI and awarded the Nobel prize? The hard version of this is that it correctly figures out the mechanism and correctly predicts forms with no experimental verification. The softer version is that it gives experimental directions for people to verify and feedback but would lead the research effort in solving it. Or in other words, has AI advanced enough to essentially reverse the roles, solve it with the help of humans? What does the hive mind think?"
+      "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/",
+      "published": 1793126598.0,
+      "thumbnail": "https://external-preview.redd.it/vLkKpmN0AXVmZrC5U9Kv0ku8MuSSNfBy6GmIPier5jw.jpeg?width=640&crop=smart&auto=webp&s=a4b8dc2aae7832fa7f29d0b4dcfddfbc769c9beb",
+      "external_url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics"
     },
     {
-      "title": "Why hasn\u2019t Google acquired OpenAI?",
-      "author": "Icy-Visual1206",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhjud6/why_hasnt_google_acquired_openai/",
-      "published": 1793181462.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Given Google\u2019s massive resources, AI expertise, and the strategic importance of ChatGPT, why hasn\u2019t Google attempted to acquire OpenAI?"
+      "title": "ChatGPT now lets you lock private chats with a PIN\u2014but forgetting it could erase them for good",
+      "author": "ThereWas",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh7a1j/chatgpt_now_lets_you_lock_private_chats_with_a/",
+      "published": 1793141077.0,
+      "thumbnail": "https://external-preview.redd.it/BjymSJqwKQ8DC4QFutOPaeM4PGnOeDRr6sZBotvvduo.jpeg?width=640&crop=smart&auto=webp&s=e2d303b8ef658c358a74c034849ddd43e56a8ab8",
+      "external_url": "https://fortune.com/2026/10/23/chatgpt-locked-chats-pin-privacy-openai/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/apple-touch-icon.png",
+      "description": "OpenAI\u2019s new feature keeps chosen conversations out of your history and search. It doesn\u2019t change how the company stores them or uses them for training."
     }
   ],
-  "fetched_at": "2026-10-28T10:44:24.454109+00:00"
+  "fetched_at": "2026-10-28T17:00:20.560439+00:00"
 }

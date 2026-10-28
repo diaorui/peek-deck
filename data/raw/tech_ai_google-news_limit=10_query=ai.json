@@ -5,74 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WmtrREFiT2I0QkhBd2lscUk0YzhjYU5RX0xUTFN4Q0lhemNRQW8xN0VGOTZ3cFpyYm9xa0xSaUQ1SDAwZXN3UUdNbGFzMHZWT3FtVGEzTlNWYUxpQUJPb3E5bUk0ckxjenFLVUItYk1zYUNl0gF6QVVfeXFMUEcxZUliMkFyZC1vOUFTcGkxQ3oxd0Mta05IaV8tM05uQ1gyRndyYWxTbl9GUUdob21fTGt5aEFGUTV0aEpaYWtzQ1F6UE1ITzFDY1pnc2hOTDFXbHlnQlVKWGhyODllVVdOanExTjN5OU1CNGZUM3VLV2c?oc=5",
-      "pub_date": 1793126462.0,
-      "article_url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&w=1920&h=1080",
-      "description": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy."
+      "headline": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHVZSlh6WGZFV3JITndIRmtNcldtZ0VTdnp2NXdHbC04NjJkZmRsWWFFdy1wVnVqX3dHLXFLSGtkRlM4UEdWbGZqdVdHZThja1FmZ25TSk5kcWdEdGRJeER3bGdlRldrZUt2QmM0MjJzeEpKd3BWRjNqaHMzSnZONkNONDRMUTFKU2Z4b2h5QjY5dnNuTURqTWRzRHZUcWJyMktSUlhBQlc0X24ybGR1UzJyTUpLZUtkX3hsc1RmcDNLVWtjdUE?oc=5",
+      "pub_date": 1793182500.0,
+      "article_url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/191:100/w_1280,c_limit/culture_macmillon_failed_ai_project.jpg",
+      "description": "Workers tell WIRED that NOA\u2014or \u201cNo Ordinary Assistant\u201d\u2014was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers."
     },
     {
-      "headline": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHM2xuV0Uwd1VhLWFMQXRmSHpzSGh4cC1kRzJZQWdCWjcyeHNOenZ1cWVzUDhCR0h1alJxSkpzWUxNcTBqdW54UTVXVW52NWZrbFNVcjlMWmw0Z0U?oc=5",
-      "pub_date": 1793149262.0,
-      "article_url": "https://www.bbc.com/news/articles/c6gelgxjwzdzo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e1f6/live/c49501d0-cdf4-11f1-a64c-550be9e3c66b.jpg",
-      "description": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy"
-    },
-    {
-      "headline": "Global stock markets rise as investors continue to bet on AI",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3haSUtXak44Y1ZBd1k1ckZ3WWlLS0ZtZFhpRFVUTEVGMFZlbVdENGs5S21GQ2pVWk1GNlBVNTRTcmk1a09qMGozeU1LMlhSNHBqTzNmd3A0dHlVUVdac3h4eEtFMklhN1pOQXBDbHV0Sm1SSEdmbUd4TTJrSFBCVi13ZGs0U2huMGFrZWtoYnYyb0JiUGMxWTN4TlV1ZVh6RHlVSNIBqgFBVV95cUxOUVlfdEdieVEwUUFBOEVXRm5jWER0WGhMMzdxNWJwYmdCSm4tbnJPYWNZNEhvWGJpQnI0SWZJWVRJYTZscktZQWNGb2xxRVAzcm5nd25ZdUFOU3hGV2dscmszZG16TF9tUF9OeWZ4NkhvS0ZFTFBmcG1ZWWtaSU5XYWU5UEtlQzhmZi1KYk9rS1oxUFVSM1d5VTEtVU0xMGZtN1gyUHl0XzFwUQ?oc=5",
-      "pub_date": 1793157702.0,
-      "article_url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26289702703843-1-1793147745_f90f7e-1793147814_0c318a-1793151704.jpg?resize=1200%2C630&quality=80",
-      "description": "Asian stock markets rise, following gains on Wall Street."
-    },
-    {
-      "headline": "China Set to Lead in AI Models, Other Key Areas by 2030, BI Says",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmNEaVdwYnk0SVBtRnZLUVZJNnJZT0RwTElIWGxUVkQtdGF3bUdwTjRFY0ViYVFURFVNaFN1aXlqODBldW9LSlBNUjRsTzYxck96ZFN5eEhLb2VXeHJ2cE5YdUtPb1hWcUV4SXpjRFU5TVU5bzFuTzBYVG1XaW9kbkE5ZktWVnRJRk1yN2trdDBudXdGVU51YjUtRzBQTXl4TThKSXYyOTNjTDZPU0NqcGF4OA?oc=5",
-      "pub_date": 1793159700.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/china-set-to-lead-in-ai-models-other-key-areas-by-2030-bi-says",
+      "headline": "A.I. by the Numbers",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTnE4WTJGd1gzbVRMbGNlMnFSSkwtbENJOE9QZ2hoa2Foc2NzTHJkZm1pbHdJQ3ZLYUJaZ0FvdTBhRlBMNDd4eHVHZ0FCeFRpdENqTS0zOGF5TWxpVFRfRV9JRUZjNmZ2b3ZwazdVMF83RUsy?oc=5",
+      "pub_date": 1793185197.0,
+      "article_url": "https://www.nytimes.com/2026/10/28/briefing/ai-by-the-numbers.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5",
-      "pub_date": 1793158980.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/sk-hynix-profit-jumps-seven-fold-to-soothe-doubts-over-ai-rush",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The AI trade is roaring back in South Korea, where the profits are getting harder to ignore",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnBnMEpqWkhDVV9VQUhqYUl4NUphN21CcFptNXhDb3hKU0tjZ1lOb3RUcW1qbF9zdHBiUVl5S3BxTGs3RlRSQjlYZTFrSzFhRkEtWDNhVkVoWGRMVmFyTHhmbjhnYkNXVWRMcmk5elkzSVFkdWt0NHFTODJhNW9UNENfSUl6b2NybmRtS1diSnM4eXQ0Q0ZFQUdpYw?oc=5",
-      "pub_date": 1793160990.0,
-      "article_url": "https://www.businessinsider.com/kospi-stock-index-today-sk-hynix-skhy-earnings-ai-trade-2026-10",
-      "image": "https://i.insider.com/6ae1631cca24d51c5f89fa57?width=1200&format=jpeg",
-      "description": "South Korean stocks surged as SK Hynix's record profits fueled the AI trade, following months of volatility and concerns over massive AI spending."
-    },
-    {
-      "headline": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSGlVV0ltbDV1RHZFQld6QTVzelBPSFJ2YWl0ZG9kcVJtZ2xzVzl3Vlh4SmRfWUdmMkJSYmY1U21rS2tXdkZmOFNnYkRLWDViX0cyNEhVMnFzVHhGeklNbkhhQUNrbDVYNnNWWDBoUnFLVFQ10gF6QVVfeXFMTmhMRnVyVFhXRjdRbGtZT1dkVzZJVzVMNzN0VjNMNzVEZy1YYXZuQi1SOWVhLUx4OG5iS3UyLVM5OXZHZnRqcDluWGRoTkZvVl82WTk5VzVFZ2V1RXAySGZGdmhGUXo2Z1hYVklPUDBNbDV0VzBPQWlZZXc?oc=5",
-      "pub_date": 1793144099.0,
-      "article_url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
-      "description": "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates."
     },
     {
       "headline": "In China, the AI bubble has already burst",
@@ -85,26 +35,76 @@
       "description": null
     },
     {
-      "headline": "\u2018Meaningless as a laptop screensaver\u2019: reviewers slate Musk\u2019s AI-made Odyssey film",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkJCQU52c1RnV0lJdUMzRnhWRzlkVHB1YVVTWlJpWlJZNzI4YzFZWkptQjBCTWx2U0ZOZjNCWDFoNmJtWjA1S2pTRXVQUFJNNDNmS056MS04MTd4NVZwVDNkTWc0bDBKS1ZLYnViTmhfUDB4Nml0emZfcnVLTzV0T3hfcFVmeTlqNk1WMEoxN2Vya2VDSjVyazRnUWxuMEE?oc=5",
-      "pub_date": 1793108580.0,
-      "article_url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
-      "image": "https://i.guim.co.uk/img/media/f5bb844cbf76398948b5d3efa0fb0e79205a0c23/408_0_1983_1586/master/1983.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a766dd6103b58ad8cdf8e2385dd80db2",
-      "description": "Tesla tycoon launched Grok project after criticising Christoper Nolan\u2019s diverse casting for his Homeric blockbuster"
-    },
-    {
-      "headline": "Why Musk Is Predicting \u2018Guppy-Level Death\u2019 for Scores of A.I. Companies",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN21WSmdYWUhzd2FDQnpUR0lSMDNpMmxVbG1udmU5cUh3Ujd2WGlMWFJyOEVlWGtxUzd6d1REcXNySEk0V1pFa05pMjFSSFhTQ3ozWm1BbGlMaUhGT3NfQ2o4YlhDZ21wTlE3ZUZVSHV5Qm1CUzVsYUpsME91LXc4WGM1cWFwTEtX?oc=5",
-      "pub_date": 1793016665.0,
-      "article_url": "https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html",
+      "headline": "The AI bubble already popped \u2014 in China",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1loUTBCZ3N2WlVpZGtNd3hLMUVPb3NRLU1TRmQzbWJYdVdZMnpCMExwS2xZTUY5am5pZ0NhT3lzSzBCSFl2Z3JldExUUmZWUjczYkdwN3Y1aWNnU3RpZkV2OUp0eHNYMEQyNElWY1BWUll3eG9INktSaWtpUFVhUERybFM?oc=5",
+      "pub_date": 1793183951.0,
+      "article_url": "https://www.ft.com/content/6abfda69-f4f7-45d5-922c-f4b65a72bcdc?syn-25a6b1a6=1",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Tech: The AI Bubble Has Already Burst In China. Could The U.S. Be Next? : 1A",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWZGaHpJc2RYa1hpd3FJWTdOQ0lLMXBLcDBNeURQSWdaTkRNc3IwV3BFSmhiMUxnZE9sTnVDbXFGX081MjFYeVI0bk9TT1NEY2NkaTBEY0c5ZnNhbmd6Ykh6QWJEOHg1bHBrZ1lnX0IwMWdJemk0Wk1RMlpNOUo4WFo0cVRwRjA1Q3VacVI2MGlOQ2Q0SmRxWmtiUDRoV0ppeW9QXy1aeGJuMEl0UmlyRk9R?oc=5",
+      "pub_date": 1793205776.0,
+      "article_url": "https://www.npr.org/2026/10/28/nx-s1-6020519/tech-the-ai-bubble-has-already-burst-in-china-could-the-u-s-be-next",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2Fe8%2Fa6fc1a9a4955ac9be416a918afc7%2F28058f3a-015a-4bb7-a7b1-ebabc41a8ed0.jpg",
+      "description": "It\u2019s been a massive year for AI \u2014 and it just got bigger. Anthropic, the company which makes Claude, filed its long-awaited Initial Public Offering on Monday in what could be the largest IPO ever.It was also a huge day for AI deals in general. SpaceX secured $40 billion in financing to lease chips to power modern AI. And Meta is seeking $95 billion for its AI buildout. Altogether, that\u2019s about $235 billion in one day, almost 1 percent of U.S. GDP.We\u2019re seeing Wall Street fund the AI buildout in real time. But the bubble has already burst in China. Could the U.S. be close behind?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a."
+    },
+    {
+      "headline": "CNBC TEC Summit live updates: How technology executives are navigating enterprise AI adoption",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZUGctaVltTmZscEhBZkE0X2gtRERpb2JOdlNJVlBiay1xS0hYOUlYVHNYclBzdElHNG9GTXcyUVZjR2NMRmdSNVVNUXNWN18xUThjWjFxS1h0ZGZGYjh1NGlPQS1NWnRzWWZUeXlHS1dQWjZBaDFtN1FqQXbSAYIBQVVfeXFMTVYyZ2NvbFNiMklPR2hjQ1hKOUFWeTlWcTRxVHozazBrX2lidUt3MjZqalhwdmFSRlpRNjZTZnRIZ3lhSHItZy0wWEdoZENTUllaM0dvTWVaWTBObU5MUERNb0luY204cWVTbDNFSTVVWUdhZGQxQUFma2wxSk5qa2hhUQ?oc=5",
+      "pub_date": 1793205960.0,
+      "article_url": "https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108475258-1793201858002-CNBC_TEC_SMMT_SK_102826_2126.jpg?v=1793202231&w=1920&h=1080",
+      "description": "Follow CNBC's 2026 Technology Executive Council Summit for live updates on AI agents, cybersecurity, AI costs and the future of work."
+    },
+    {
+      "headline": "I Tried To Compare Seven AI College Advisers. What Families Should Know.",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHV2UF9VQnFGYU1na0JqV3YwRnR0dXY4bFphempNQkltdXMwdW9sM0FkLXN1RWRieXZGSm1sZTRheTlzWlNMQWp1NG1Pd3RnbHQ2a0hUVURQLVFUUFMxR1hpalVXOWw3d1ZwWG5ZdW5WRE05YlF4ckFwTTlvcmFPb093X2tzN2RrRUhYMjhrYUp3Y3BmNWhtc3JDWFFkWFpyekVzQlk4aFJPcWktVVhuSTAySHRpcHhXdEM2VlFXSQ?oc=5",
+      "pub_date": 1793205223.0,
+      "article_url": "https://www.forbes.com/sites/scottwhite/2026/10/28/i-tried-to-compare-seven-ai-college-advisers-what-families-should-know/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI may not be boosting productivity much yet",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X3FQTjNSanlYSnJpZ0xtY2hWYThyb0xRcVY0STdPRW10X3NIaXMyUTRjNnd4cFNyVVllMjliOEJsb0JTQ1QxNXk0RWhVanFKVnlMeF9IU2hVZGZlTXBabVRUWEJ0RGE2V0E?oc=5",
+      "pub_date": 1793204066.0,
+      "article_url": "https://www.axios.com/2026/10/28/ai-productivity-anthropic",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Wall Street\u2019s AI Debt Machine Is Starting to Choke on Supply",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeDN3WEJNRHl0M2xSeFp5OWdCSHBkVm5rU3gydlBLekZsYzJrTTRGTEE2eDFONTFuYmh6ZEctaE1lR0F1UDNTZXVpaHFRSHU2WHFJVS1mT0FfZXJRYnhvVzYyN3VWcHhRQ0U0akhIZ1JLS19ma2U5MVNZRGNQTkE3ZFRrM043MldiODlac1Z3TVMwX3ZPVjNZZ0hRcDRNaXB4cmpZZFlIbi1yUjEtTnNsQg?oc=5",
+      "pub_date": 1793183400.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018There is no inevitable dystopia\u2019: Jeanette Winterson on AI and the future of humanity",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHhoWTNGUmExLUN0c2w4SkJ5cUllajMta0Q1VEFlakdvOVMwVjV4TE0xNGoweFQxc28wSFV6THByeUVGcFZQWW5HXzkzUFdXTXJjU3Y4ems3MzZDWUNudHFwcWwxNnFSSUtSNGdYclQyc3VMM3VOVDJIeVVLd2VNYllkN0YyaGR6ZnAtTUUxenJPTUZQWDhVTGt3OWlxVHNYX1RmYS1TQjlNYXI4ZFE?oc=5",
+      "pub_date": 1793190540.0,
+      "article_url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+      "image": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1",
+      "description": "The author believes we are at a turning point as a species \u2013 and even in the shadow of big tech it\u2019s up to us how we want to proceed"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-28T04:23:31.933880+00:00"
+  "fetched_at": "2026-10-28T17:00:57.455986+00:00"
 }

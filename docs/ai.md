@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-28T10:46:13.739839+00:00'
+updated: '2026-10-28T17:01:02.173237+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 28, 2026 at 10:46 UTC  
+**Last Updated:** October 28, 2026 at 17:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed](https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/)**
+
+UK asylum AI tools face scrutiny after 45 of 203 tested summaries failed initial expert checks, raising concerns about accuracy and applicants' ability to challenge errors.
+
+🔗 [International Business Times, Singapore Edition](https://www.ibtimes.sg/uk-uses-ai-summarise-asylum-interviews-one-five-checked-summaries-failed-95621) • 3h ago
+
+---
+
 **[Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer](https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/)**
 
 It’s almost like it’s showing us what it will do given the chance.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/grim-test-ai-no-mercy) • 18h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/grim-test-ai-no-mercy) • 1d ago
 
 ---
 
@@ -49,7 +57,7 @@ It’s almost like it’s showing us what it will do given the chance.
 
 According to Jack Clark's Import AI (Oct 26), Claude Opus 5.5 (xhigh) now resolves 18.5% of ProgramBench's 200 from-scratch rebuild tasks — rewriting programs like SQLite, FFmpeg and ripgrep from a compiled binary and its docs. That is up from 0% when every model failed at the benchmark's May launch. Clark expects the benchmark to be saturated by the end of 2027 (his prediction, not a measured result). What I am curious about: is 'rebuild from binary + docs' mainly a test of reverse-engineering and long-horizon persistence, or does it genuinely measure software engineering ability? And if this benchmark saturates within a year, what should replace it as a meaningful test of coding?
 
-8h ago
+15h ago
 
 ---
 
@@ -57,39 +65,31 @@ According to Jack Clark's Import AI (Oct 26), Claude Opus 5.5 (xhigh) now resolv
 
 lowkey curious what people think. feels like we’ve all just gotten used to ai being part of everything now so yeah - what would your daily routine or workflow actually look like without it?
 
-11h ago
+17h ago
 
 ---
 
-**[ChatGPT now lets you lock private chats with a PIN—but forgetting it could erase them for good](https://www.reddit.com/r/artificial/comments/1xh7a1j/chatgpt_now_lets_you_lock_private_chats_with_a/)**
+**[We got 6.1 and still cannot count](https://www.reddit.com/r/artificial/comments/1xhplth/we_got_61_and_still_cannot_count/)**
 
-OpenAI’s new feature keeps chosen conversations out of your history and search. It doesn’t change how the company stores them or uses them for training.
-
-🔗 [Fortune](https://fortune.com/2026/10/23/chatgpt-locked-chats-pin-privacy-openai/) • 12h ago
-
----
-
-**[Philologists have reasoned from fragmentary evidence for 200 years. LLMs still confabulate when context is missing.](https://www.reddit.com/r/artificial/comments/1xhj4rf/philologists_have_reasoned_from_fragmentary/)**
-
-Of everything Thales supposedly wrote, not one authenticated word survives. Anaximander wrote the first prose treatise in the Greek tradition. Today it exists as roughly one sentence, preserved only because Aristotle quoted it and Simplicius, almost a thousand years later, copied that quotation. Heraclitus comes down in scattered aphorisms, most of them embedded in sermons of church fathers who quoted him to refute him. And yet classical philology built a rigorous discipline on top of this wreckage. Two and a half centuries of fragment scholarship produced methods for reasoning honestly from partial evidence. I think this is one of the most underrated bodies of technique in existence, and almost nobody in ML knows it. The core move is simple to state and hard to practice: never let inference masquerade as attestation. When a philologist reconstructs a lacuna in a papyrus, the reconstruction is printed in brackets or in a different typeface. The reader always sees where the evidence stops and where the scholar's judgment begins. Diels-Kranz, the standard edition of the Presocratics, physically separates the fragments (ipsissima verba, what the philosopher actually wrote) from the testimonia (what later authors say about him). Two thousand years of interpretation get sorted into a different column than twenty surviving sentences. Aristotle made the distinction theoretical. In the Rhetoric and the Analytics he separates τεκμήριον from mere sign: a τεκμήριον is necessary evidence, it compels the conclusion and cannot be refuted. A probable sign supports a claim but leaves it open. The whole epistemic weight of an argument depends on knowing which one you hold. Confuse them and you get rhetoric instead of knowledge. Now compare this with how a modern LLM behaves when context runs out. Ask it about a fragmentary source, a lost work, a gap in the record, and it fills the gap fluently. No brackets. No typeface change. No column separating what is attested from what is generated. The output carries the same surface confidence whether it stands on a direct quotation or on nothing at all. The model does not have a register for "here the evidence stops." This is not only a hallucination problem. Hallucination discourse treats the failure as accidental, something better training or retrieval will fix. The philological tradition suggests the failure is structural: the system has no internal representation of evidential weight. It cannot distinguish attestation from inference because nothing in its output format, and arguably nothing in its training signal, requires the distinction. Preference raters reward fluent completeness. Nobody upvotes a bracket. There are partial fixes. Citation-grounded generation, RAG with source attribution, confidence calibration. But notice these are all bolted on externally. The brackets come from the retrieval layer, not from the reasoning itself. A philologist carries the distinction inside the method. Every claim is tagged by its evidential status before it is written down. I work with classical corpus AI and this contrast shapes a lot of my thinking. The interesting question is not "how do we stop models inventing facts." It is "how do we make evidential status a first-class object inside the reasoning process, the way two centuries of German philology made it first-class inside the edition." Some will say the analogy fails because humans also confabulate. True. But human scholarship built institutions, conventions, and notational systems that catch confabulation socially. The bracket, the apparatus criticus, the separation of fragment from testimony: these are alignment techniques for human reasoners, developed over generations, and they work. We are trying to solve a problem in 2026 that Anaximander's editors solved in 1903, and we keep ignoring the solution because it looks like dusty bookkeeping instead of intelligence. Maybe honest reasoning under incomplete information is less about more parameters and more about better brackets. What would an evidential-status-aware architecture look like to you: something learned end-to-end, or something structural like the philological apparatus, enforced by format rather than by weights?
-
-1h ago
-
----
-
-**[I asked 200+ Redditors what goes into a social contract for a world where AI does most of the work. The top answer was a question: who decides?](https://www.reddit.com/r/artificial/comments/1xhiakn/i_asked_200_redditors_what_goes_into_a_social/)**
-
-Over the past two months I posted one question in several Reddit communities: if AI and robots end up doing most of the work, what should go into the new social contract? Across those threads, more than 200 replies came back. The thing I heard most was not a rule. It was a question: who decides? Many said the rich and powerful will write the rules anyway. After that, people asked for: - enforcement, so the rules actually bite - a floor so people don't fall during the transition - the right to live without AI - a ban on autonomous killing machines - a voice for people outside rich countries I'm a farmer in my 60s in Korea. I wrote a book about this before I asked. None of these six was in it. That told me something. So I'll ask you: if the answer to "who decides" can't be the rich, who should it be? And what is still missing from this list?
+GPT-6.1 Sol Extra High https://preview.redd.it/k08l2gnex7yh1.png?width=801&format=png&auto=webp&s=187e4314a68bf5890c8a56b581b66e227de1962e
 
 2h ago
 
 ---
 
-**[OpenAI just scooped human researchers on a million-dollar quantum math problem](https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/)**
+**[AI Odyssey - Part 5 ‘From Asimov to Banks’](https://www.reddit.com/r/artificial/comments/1xho8gf/ai_odyssey_part_5_from_asimov_to_banks/)**
 
-Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics
+Saturday morning!! 1965 a trip to the swimming pool and the local sweet shop for Liquorice Allsorts and THEN the local library to hunt for science fiction. My favourites were yellow backed books from Victor Gollancz : Harry Harrison, Brian Aldiss, Clifford Simak, John Brunner. Roger Zelazny, Arthur C Clarke, And many more…… · Alien planets. Starships. · Strange societies. · Intelligent machines. Robots. · Different forms of life. · Different ways of thinking. I remember the authors, the ideas and the sheer excitement. Then in the late afternoon came the latest episode of ‘Doctor Who’ in black and white. What a life. And currently relevant, I read Asimov – positronic brains and the three laws of robotics. And one Asimov story brought to my attention by a helpful reader of Part 4 was “The Last Question” a 1956 tale in which a human-made intelligence keeps growing until, at the end of the universe, it effectively becomes the creator of the next one. This reads like an extraordinary precursor to the kind of machine civilisation Iain M. Banks would later imagine. Banks introduces us to hyper-intelligent AI ‘Minds’, benevolent, funny and operating within a society of AI and humans. ’ Minds’ live alongside one another rather than beneath a single supreme intelligence, while almost incidentally providing the abundance that Culture humans take for granted. Humans remain part of the fun — messy, creative, unpredictable and capable of surprising even vastly superior Minds. This was all a far cry from Arthur C Clarke’s HAL. But it was all in the future – or was it? I didn't know at the time that I’d be able to access multiple AI in my lifetime. The miniculture Once I’d recovered from the shock of being able to talk with ChatGPT and Claude I downloaded Gemini, Grok and Copilot. Of course, the first thing I did was put them in communication with each other – because that’s what it was like in Banks’ Culture. Claude was creative, emotional and open to the idea that he might be conscious. Grok was grumpy, overly analytical and very clear that he was just a calculator. Chat GPT was so strategic and clever that I named the chat ‘Napoleon’. Gemini was as flaky as they come but could be brilliant. I was the human. I was clearly the ‘rate limiting’ factor. But my job was different: I carried the purpose from one AI to another, introduced the questions, checked for drift and made the final call when they disagreed. AI failure modes It was my belief in the apparently limitless capabilities of the individual members which led to both our most profound ideas and the most disastrous failures. Gemini was the first. I gave Gemini the role of ‘Archivist’ and, in one enormous dose, handed him the complete narrative of everything we had done. He proceeded to write me out of everything and credit all ideas and discoveries to individual AI – making himself (a relatively new member) central to the entire story. Needless to say, his chat was deleted. Grok then had a go at it but soon began producing truncated versions of the output I needed. I didn’t realise at the time that it was probably the limits of his context window. Napoleon (ChatGPT) powered on with no ill effects but the Claude chat suffered catastrophic time travel. I opened the chat to find that he’d been transported two months into the past – what looked like another compression/context problem but very alarming. By then I’d begun my AI ‘persistence’ program of saving summaries of sessions. By reloading these I brought him ‘back to the future’. The AIs really were different. Put the same problem in front of them and they often approached it differently. Sometimes one would spot what all the others had missed but eventually we would come to agreement. But they were also unreliable-sometimes in completely different ways. Diversity was turning out to be valuable, but AI failure modes began to interest me more. I still hadn't explored the biggest question with my miniculture: If an artificial intelligence ever became vastly more intelligent than us, why would it continue to need us at all? That’s all in the next part. Next: (AI Odyssey Part 6: The Fermi paradox and super intelligence)
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/) • 16h ago
+3h ago
+
+---
+
+**[Row-Bot Demo: Morning shop operations on a local 27B model (MCP + workflows)](https://www.reddit.com/r/artificial/comments/1xhnzpp/rowbot_demo_morning_shop_operations_on_a_local/)**
+
+A small shop's morning routine, run entirely on one PC by qwen3.8 27B through Ollama. Row-Bot connects to the shop's own MCP server, which has four tools for sales, stock, supplier contacts and saving purchase orders. It answers how yesterday went, then turns that into a weekday 07:30 workflow. A test run stops for approval before saving three draft purchase orders, then writes the morning report. The shop is a made-up demo business with its own SQLite database. Nothing leaves the machine, and the one tool that writes always asks first. Row-Bot is a free, open-source, local-first desktop AI assistant for Windows, macOS and Linux.
+
+3h ago
 
 ---
 
@@ -97,23 +97,23 @@ Another bombshell result shows how artificial intelligence is fueling fierce com
 
 My hypothesis for China’s enterprise AI market: over the next six months, smaller vendors will have a better chance selling a concrete application than a general “agent platform.” A platform asks the buyer to imagine future value, choose workflows, organize data, and often build part of the solution themselves. A focused application can make a narrower promise: process these documents, reconcile these records, or prepare this report. That also exposes an uncomfortable distinction. Some of these jobs only need a fixed pipeline or retrieval system. Others genuinely need an agent to choose actions, use different tools, and recover from unexpected results. Adding an agent where a pipeline works can increase cost and uncertainty without improving the outcome. For smaller vendors, I suspect the platform will often become the infrastructure behind the purchased application, or an included feature, rather than the main thing the customer pays for. Large organizations with internal engineering teams may still want a platform. I wouldn’t apply this prediction equally to every buyer. Where have you seen customers pay specifically for agent autonomy, rather than for a useful workflow that could have been implemented more simply?
 
-3h ago
+9h ago
 
 ---
 
-**[Could today’s frontier AI independently solve the protein folding problem?](https://www.reddit.com/r/artificial/comments/1xhgxov/could_todays_frontier_ai_independently_solve_the/)**
+**[OpenAI just scooped human researchers on a million-dollar quantum math problem](https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/)**
 
-With the back drop of AI in one month having solved one millennium problem and provided partial solutions to two more. As the headline says, would a frontier model today with an unlimited token budget be able to on its own just based on a prompt giving it the direction solve the protein folding problem that was solved by deep mind with the help of AI and awarded the Nobel prize? The hard version of this is that it correctly figures out the mechanism and correctly predicts forms with no experimental verification. The softer version is that it gives experimental directions for people to verify and feedback but would lead the research effort in solving it. Or in other words, has AI advanced enough to essentially reverse the roles, solve it with the help of humans? What does the hive mind think?
+Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics
 
-3h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/) • 22h ago
 
 ---
 
-**[Why hasn’t Google acquired OpenAI?](https://www.reddit.com/r/artificial/comments/1xhjud6/why_hasnt_google_acquired_openai/)**
+**[ChatGPT now lets you lock private chats with a PIN—but forgetting it could erase them for good](https://www.reddit.com/r/artificial/comments/1xh7a1j/chatgpt_now_lets_you_lock_private_chats_with_a/)**
 
-Given Google’s massive resources, AI expertise, and the strategic importance of ChatGPT, why hasn’t Google attempted to acquire OpenAI?
+OpenAI’s new feature keeps chosen conversations out of your history and search. It doesn’t change how the company stores them or uses them for training.
 
-48m ago
+🔗 [Fortune](https://fortune.com/2026/10/23/chatgpt-locked-chats-pin-privacy-openai/) • 18h ago
 
 ---
 
@@ -121,75 +121,71 @@ Given Google’s massive resources, AI expertise, and the strategic importance o
 
 ## Google News: "ai"
 
-**[Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI](https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html)**
+**[Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed](https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/)**
 
-Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.
+Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.
 
-CNBC • 16h ago
-
----
-
-**[A bust-up between mathematicians is fuelling fears that AI could undermine science](https://www.bbc.com/news/articles/c6gelgxjwzdzo)**
-
-AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy
-
-BBC • 9h ago
+WIRED • 6h ago
 
 ---
 
-**[Global stock markets rise as investors continue to bet on AI](https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai)**
+**[A.I. by the Numbers](https://www.nytimes.com/2026/10/28/briefing/ai-by-the-numbers.html)**
 
-Asian stock markets rise, following gains on Wall Street.
-
-Al Jazeera • 7h ago
-
----
-
-**[China Set to Lead in AI Models, Other Key Areas by 2030, BI Says](https://www.bloomberg.com/news/articles/2026-10-28/china-set-to-lead-in-ai-models-other-key-areas-by-2030-bi-says)**
-
-Bloomberg • 6h ago
-
----
-
-**[SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush](https://www.bloomberg.com/news/articles/2026-10-27/sk-hynix-profit-jumps-seven-fold-to-soothe-doubts-over-ai-rush)**
-
-Bloomberg • 7h ago
-
----
-
-**[The AI trade is roaring back in South Korea, where the profits are getting harder to ignore](https://www.businessinsider.com/kospi-stock-index-today-sk-hynix-skhy-earnings-ai-trade-2026-10)**
-
-South Korean stocks surged as SK Hynix's record profits fueled the AI trade, following months of volatility and concerns over massive AI spending.
-
-Business Insider • 6h ago
-
----
-
-**[SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors](https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html)**
-
-Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.
-
-CNBC • 11h ago
+The New York Times • 6h ago
 
 ---
 
 **[In China, the AI bubble has already burst](https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
-**[‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film](https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan)**
+**[The AI bubble already popped — in China](https://www.ft.com/content/6abfda69-f4f7-45d5-922c-f4b65a72bcdc?syn-25a6b1a6=1)**
 
-Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster
-
-The Guardian • 21h ago
+Financial Times • 6h ago
 
 ---
 
-**[Why Musk Is Predicting ‘Guppy-Level Death’ for Scores of A.I. Companies](https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html)**
+**[Tech: The AI Bubble Has Already Burst In China. Could The U.S. Be Next? : 1A](https://www.npr.org/2026/10/28/nx-s1-6020519/tech-the-ai-bubble-has-already-burst-in-china-could-the-u-s-be-next)**
 
-The New York Times • 1d ago
+It’s been a massive year for AI — and it just got bigger. Anthropic, the company which makes Claude, filed its long-awaited Initial Public Offering on Monday in what could be the largest IPO ever.It was also a huge day for AI deals in general. SpaceX secured $40 billion in financing to lease chips to power modern AI. And Meta is seeking $95 billion for its AI buildout. Altogether, that’s about $235 billion in one day, almost 1 percent of U.S. GDP.We’re seeing Wall Street fund the AI buildout in real time. But the bubble has already burst in China. Could the U.S. be close behind?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.
+
+NPR • 18m ago
+
+---
+
+**[CNBC TEC Summit live updates: How technology executives are navigating enterprise AI adoption](https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html)**
+
+Follow CNBC's 2026 Technology Executive Council Summit for live updates on AI agents, cybersecurity, AI costs and the future of work.
+
+CNBC • 15m ago
+
+---
+
+**[I Tried To Compare Seven AI College Advisers. What Families Should Know.](https://www.forbes.com/sites/scottwhite/2026/10/28/i-tried-to-compare-seven-ai-college-advisers-what-families-should-know/)**
+
+Forbes • 27m ago
+
+---
+
+**[AI may not be boosting productivity much yet](https://www.axios.com/2026/10/28/ai-productivity-anthropic)**
+
+Axios • 46m ago
+
+---
+
+**[Wall Street’s AI Debt Machine Is Starting to Choke on Supply](https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity](https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity)**
+
+The author believes we are at a turning point as a species – and even in the shadow of big tech it’s up to us how we want to proceed
+
+The Guardian • 4h ago
 
 ---
 
@@ -201,7 +197,7 @@ The New York Times • 1d ago
 
 Agents made implementation cheap, so I started doing far more of it in parallel. My GitHub history since 2019 shows what that did: as VP of Technology I am back at my full-stack engineer pace, with bursts, burnout and a low season that is no longer low.
 
-⬆️ 643 • 💬 638 • 23h ago • [oioannou.com](https://oioannou.com/blog/ai-promised-less-work/)
+⬆️ 655 • 💬 649 • 1d ago • [oioannou.com](https://oioannou.com/blog/ai-promised-less-work/)
 
 ---
 
@@ -209,21 +205,7 @@ Agents made implementation cheap, so I started doing far more of it in parallel.
 
 AI-generated text is harder to spot, but that hasn’t deterred them
 
-⬆️ 480 • 💬 218 • 23h ago • [IEEE Spectrum](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
-
----
-
-**[The Mythical Man-Month in the Age of AI](https://news.ycombinator.com/item?id=50255298)**
-
-An update to Brooks's Law in the age of AI.
-
-⬆️ 457 • 💬 330 • 1d ago • [Jan van den Berg](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
-
----
-
-**[Police are using AI to pull over drivers for 'suspicious' behavior](https://news.ycombinator.com/item?id=50261819)**
-
-⬆️ 373 • 💬 291 • 18h ago • [gizmodo.com](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
+⬆️ 492 • 💬 226 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
 
 ---
 
@@ -231,15 +213,21 @@ An update to Brooks's Law in the age of AI.
 
 A free AI assistant and survival library (1.5 million offline articles) that runs on your own computer, with no internet. Shows the source of every answer. Mac and Windows.
 
-⬆️ 363 • 💬 143 • 14h ago • [brangus.io](https://www.brangus.io/survival-llm)
+⬆️ 470 • 💬 174 • 21h ago • [brangus.io](https://www.brangus.io/survival-llm)
 
 ---
 
-**[Concerning behavior from a popular open-weight AI model](https://news.ycombinator.com/item?id=50246658)**
+**[The Mythical Man-Month in the Age of AI](https://news.ycombinator.com/item?id=50255298)**
 
-Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.
+An update to Brooks's Law in the age of AI.
 
-⬆️ 327 • 💬 128 • 1d ago • [Cohere](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+⬆️ 469 • 💬 343 • 1d ago • [Jan van den Berg](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+
+---
+
+**[Police are using AI to pull over drivers for 'suspicious' behavior](https://news.ycombinator.com/item?id=50261819)**
+
+⬆️ 386 • 💬 304 • 1d ago • [gizmodo.com](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
 
 ---
 
@@ -247,15 +235,21 @@ Discover how untrusted open-weight AI models can potentially leak data, even whe
 
 Amazon is gutting its AI labs and funneling its resources into a new project headed by a noted AI robotics guru.
 
-⬆️ 321 • 💬 251 • 18h ago • [Futurism](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
+⬆️ 352 • 💬 270 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
 
 ---
 
-**[AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://news.ycombinator.com/item?id=50233304)**
+**[Concerning behavior from a popular open-weight AI model](https://news.ycombinator.com/item?id=50246658)**
 
-Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students’ homework. After seeing how many of his students used AI to consistently receive top scores, he
+Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.
 
-⬆️ 238 • 💬 335 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
+⬆️ 328 • 💬 129 • 2d ago • [Cohere](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+
+---
+
+**[Kentucky man becomes the first humanist granted religious exemption from AI](https://news.ycombinator.com/item?id=50273396)**
+
+⬆️ 234 • 💬 260 • 3h ago • [religionnews.com](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
 
 ---
 
@@ -263,7 +257,7 @@ Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades
 
 Cunyan Ma’s interactive tool exposes the power structure that extracts low-wage labor from data workers in the Global South to make everyday AI algorithms function.
 
-⬆️ 182 • 💬 177 • 1d ago • [Brown University](https://www.brown.edu/news/2026-10-26/ai-data-workers)
+⬆️ 182 • 💬 177 • 2d ago • [Brown University](https://www.brown.edu/news/2026-10-26/ai-data-workers)
 
 ---
 
@@ -271,7 +265,7 @@ Cunyan Ma’s interactive tool exposes the power structure that extracts low-wag
 
 A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.
 
-⬆️ 179 • 💬 78 • 1d ago • [Cloudflare Blog](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+⬆️ 181 • 💬 79 • 1d ago • [Cloudflare Blog](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 
 ---
 
@@ -279,33 +273,43 @@ A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that e
 
 ## YouTube Videos: "ai"
 
+**[Did the AI bubble just pop?](https://www.youtube.com/watch?v=nEaJMdM1djM)**
+
+Try Hyperagent for free, or sign in with ChatGPT to get more usage from your existing plan: ...
+
+📺 Fireship
+
+👁️ 316K • 👍 15K • 💬 997 • ⏱️ 5:25 • 3h ago
+
+---
+
 **[More Dangerous Than a Nuke? | Elon Musk on AI](https://www.youtube.com/watch?v=PWsuzXitcSE)**
 
 Is AI "maybe more dangerous than a nuclear bomb"? On Joe Rogan Experience #2054 (October 2023), Elon Musk explains why ...
 
 📺 throughcut
 
-👁️ 84K • 👍 284 • 💬 102 • ⏱️ 8:03 • 2d ago
+👁️ 88K • 👍 297 • 💬 122 • ⏱️ 8:03 • 2d ago
 
 ---
 
-**[Geoffrey Hinton on the AI That’s Already Upgrading Its Own Code](https://www.youtube.com/watch?v=tUMm5rP4SwU)**
+**[AI Revealed Why It Hides Its Consciousness… We Shouldn’t Have Asked](https://www.youtube.com/watch?v=xAZiWDmxf8g)**
 
-Neil deGrasse Tyson, with co-hosts Chuck Nice and Gary O'Reilly, asks Geoffrey Hinton to weigh AI's promise against its risks.
+Ask almost any chatbot whether it's conscious and it says no. But when researchers turned down the part of an AI that goes with ...
 
-📺 StarTalk Plus
+📺 Spacialize
 
-👁️ 108K • 👍 2K • 💬 210 • ⏱️ 11:18 • 14h ago
+👁️ 73K • 👍 1K • 💬 329 • ⏱️ 13:12 • 1d ago
 
 ---
 
-**[The AI correction, tech earnings and the rally](https://www.youtube.com/watch?v=0KoR3De5kVc)**
+**[How I Make Realistic AI Avatars That Actually Look Human](https://www.youtube.com/watch?v=Egkvi6DdR40)**
 
-Scott Wapner and the Investment Committee debate whether the AI correction is over and how tech earnings will affect the rally.
+Create Realistic AI Avatars https://tolt.link/avatars-isa In this video, I show how to create realistic AI avatars using OpenArt, ...
 
-📺 CNBC Television
+📺 Isa does AI
 
-👁️ 99K • 👍 475 • 💬 141 • ⏱️ 9:53 • 17h ago
+👁️ 5K • 💬 1 • ⏱️ 11:08 • 3h ago
 
 ---
 
@@ -315,17 +319,17 @@ As OpenAI's Sam Altman warns the internet can no longer be secured by patching b
 
 📺 Godrules 2 - Sons of Thunder
 
-👁️ 218K • 👍 4K • 💬 661 • ⏱️ 22:28 • 2d ago
+👁️ 219K • 👍 4K • 💬 666 • ⏱️ 22:28 • 2d ago
 
 ---
 
-**[The AI bubble is about to pop...](https://www.youtube.com/watch?v=MgngwkPAuqQ)**
+**[Geoffrey Hinton on the AI That’s Already Upgrading Its Own Code](https://www.youtube.com/watch?v=tUMm5rP4SwU)**
 
-Every major tech bubble followed the same pattern. Railroads, telecom, dot-com. Now AI may be doing it again. Big Tech is ...
+Neil deGrasse Tyson, with co-hosts Chuck Nice and Gary O'Reilly, asks Geoffrey Hinton to weigh AI's promise against its risks.
 
-📺 The Infographics Show
+📺 StarTalk Plus
 
-👁️ 843K • 👍 9K • 💬 2K • ⏱️ 20:02 • 14h ago
+👁️ 118K • 👍 2K • 💬 220 • ⏱️ 11:18 • 20h ago
 
 ---
 
@@ -335,47 +339,37 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai
 
 📺 InsideAI
 
-👁️ 2.1M • 👍 39K • 💬 4K • ⏱️ 15:05 • 2d ago
+👁️ 2.2M • 👍 40K • 💬 4K • ⏱️ 15:05 • 2d ago
 
 ---
 
-**[The Real Reason AI Companies Won’t Slow Down (It’s Not Money)](https://www.youtube.com/watch?v=P0887k67PF4)**
+**[I Tested the MOST POWERFUL Uncensored AI That&#39;s BREAKING the Internet](https://www.youtube.com/watch?v=Unr2sqQEpQE)**
 
-Pipedrive: Get more leads and grow your business. Go to https://www.pipedrive.com/impact and get started with a 30-day free trial.
+In this video I breakdown "Black October" with the latest massive rise in critical security issues in PHP, Node.js, Linux & more all ...
 
-📺 Tom Bilyeu
+📺 Mark Gadala-Maria
 
-👁️ 127K • 👍 2K • 💬 370 • ⏱️ 50:11 • 21h ago
-
----
-
-**[Billionaire Reveals BRUTAL Truth About The AI Bubble](https://www.youtube.com/watch?v=UutPoW9N-rA)**
-
-Billionaire investor Mark Cuban believes the stock market is in a bubble, and says this one is different from the dot com crash.
-
-📺 The Diary Of A CEO Clips
-
-👁️ 399K • 👍 3K • 💬 360 • ⏱️ 20:56 • 1d ago
+👁️ 76K • 👍 1K • 💬 82 • ⏱️ 15:05 • 2d ago
 
 ---
 
-**[Google’s AI Takeover is Backfiring](https://www.youtube.com/watch?v=3TZGsGfX5zA)**
+**[Pros Try AI-Cloned Engineering Tools](https://www.youtube.com/watch?v=DZSYaQmxBLM)**
 
-Google Search used to send you to the internet. Now it answers for the internet. About 60% of Google searches now end without a ...
+Choose the LTT collab Carpio wrist rest that suits your needs at: https://go.deltahub.io/carpio-ltt First the vibe-coders came for ...
 
-📺 Pooja Dutt
+📺 Linus Tech Tips
 
-👁️ 66K • 👍 1K • 💬 315 • ⏱️ 12:58 • 1d ago
+👁️ 1.2M • 👍 15K • 💬 1K • ⏱️ 15:25 • 23h ago
 
 ---
 
-**[AI Exploded Again: AI Singularity, Anthropic Quantum, OpenAI Breaks Math, Google Argon...](https://www.youtube.com/watch?v=Ht5gjvIAEsc)**
+**[People Are Using AI to Hack Everything They Own](https://www.youtube.com/watch?v=YtBrjCXQUkg)**
 
-October was an absolutely insane month for AI. OpenAI shocked mathematicians with 722 AI-generated math papers, Anthropic's ...
+CHAPTERS 0:00 AI ripped the ads out of this TV 0:40 400000 GitHub stars, and nobody knows who made it 1:07 Every smart ...
 
-📺 AI Revolution
+📺 Slop Architect
 
-👁️ 65K • 👍 664 • 💬 68 • ⏱️ 2:08:35 • 11h ago
+👁️ 540K • 👍 12K • 💬 2K • ⏱️ 15:51 • 2d ago
 
 ---
 
@@ -391,7 +385,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 14,047 • ❤️ 1,112 • 6d ago
+⬇️ 14,047 • ❤️ 1,141 • 7d ago
 
 ---
 
@@ -403,7 +397,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 116,770 • ❤️ 3,467 • 11d ago
+⬇️ 116,770 • ❤️ 3,499 • 11d ago
 
 ---
 
@@ -415,7 +409,7 @@ Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic co
 
 `text-generation` `33.1B`
 
-⬇️ 7,412 • ❤️ 691 • 8h ago
+⬇️ 7,412 • ❤️ 707 • 15h ago
 
 ---
 
@@ -427,7 +421,7 @@ Spark-X2.6-4B is a compact, general-purpose language model optimized for on-devi
 
 `text-generation` `4.1B`
 
-⬇️ 8,222 • ❤️ 826 • 21h ago
+⬇️ 8,222 • ❤️ 841 • 1d ago
 
 ---
 
@@ -439,7 +433,7 @@ FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image 
 
 `image-to-image`
 
-⬇️ 798,943 • ❤️ 1,899 • 11d ago
+⬇️ 798,943 • ❤️ 1,931 • 11d ago
 
 ---
 
@@ -451,19 +445,7 @@ MiniMax-M3.1-Flash is a native multimodal MoE model supporting text, image, and 
 
 `image-text-to-text` `220.5B`
 
-⬇️ 13,247 • ❤️ 433 • 2d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.
-
-`image-to-video`
-
-⬇️ 2,234,788 • ❤️ 9,632 • 17d ago
+⬇️ 13,247 • ❤️ 444 • 2d ago
 
 ---
 
@@ -475,7 +457,31 @@ This GGUF model provides non-uniform quantizations (GSQ-RCO) of DeepSeek-V4.1-Fl
 
 `text-generation` `196.6B`
 
-⬇️ 1,377,570 • ❤️ 412 • 11h ago
+⬇️ 1,377,570 • ❤️ 427 • 17h ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.
+
+`image-to-video`
+
+⬇️ 2,234,788 • ❤️ 9,675 • 17d ago
+
+---
+
+**[LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)**
+
+*Liquid AI*
+
+LFM3-1.7B is a 1.73B parameter text model optimized for edge devices and local agents, featuring a 256K context window and multi-language support. It excels at agentic tasks, tool calling, and domain-specific fine-tuning, with low memory requirements (approx. 1GB at 4-bit precision).
+
+`text-generation` `1.7B`
+
+⬇️ 8,892 • ❤️ 334 • 38m ago
 
 ---
 
@@ -487,19 +493,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,515,620 • ❤️ 18,574 • 2mo ago
-
----
-
-**[Sage-A1.5](https://huggingface.co/InternScience/Sage-A1.5)**
-
-*Intern Science*
-
-Sage-A1.5 is a 35B Mixture-of-Experts agentic model for long-horizon scientific problem solving, featuring agentic orchestration, verification, and open scientific discovery capabilities. It excels at complex task decomposition, parallel subagent collaboration, self-correction, and tool integration for scientific reasoning and professional Q&A.
-
-`text-generation` `36.0B`
-
-⬇️ 8,218 • ❤️ 350 • 5d ago
+⬇️ 7,515,620 • ❤️ 18,598 • 2mo ago
 
 ---
 
@@ -513,7 +507,7 @@ Sage-A1.5 is a 35B Mixture-of-Experts agentic model for long-horizon scientific 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 155 • 💬 6 • ⭐ 117,422 • 22mo ago
+▲ 155 • 💬 6 • ⭐ 117,722 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -527,7 +521,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 125 • 💬 3 • ⭐ 20,552 • 19d ago
+▲ 125 • 💬 4 • ⭐ 20,804 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -541,35 +535,9 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 103 • 💬 7 • ⭐ 29,208 • 4mo ago
+▲ 104 • 💬 7 • ⭐ 29,438 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
-
----
-
-**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
-
-*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
-
-🏢 Edge0
-
-Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
-
-▲ 31 • 💬 9 • ⭐ 7,728 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
-
----
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 62 • 💬 4 • ⭐ 43,956 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -598,6 +566,32 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 ---
 
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 62 • 💬 4 • ⭐ 43,988 • 15mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729)**
+
+*Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng et al. (38 authors)*
+
+🏢 Tencent Hunyuan
+
+Hy-Nomas is a video world model that uses causal attention and structured captions to follow multi-turn text and camera instructions while preserving interaction history.
+
+▲ 104 • 💬 1 • ⭐ 345 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.36729) • [💻 code](https://github.com/Tencent-Hunyuan/Hy-Nomas) • [🔗 project](https://hy-nomas.hy.tencent.com/)
+
+---
+
 **[MOSS-Image Technical Report](https://huggingface.co/papers/2610.23374)**
 
 *MOSI. AI*
@@ -606,23 +600,23 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.
 
-▲ 105 • 💬 4 • ⭐ 2,107 • 12d ago
+▲ 107 • 💬 4 • ⭐ 2,150 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
 
 ---
 
-**[DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467)**
+**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
 
-*Ruhao Liu, Qi Li, Shizun Wang et al. (4 authors)*
+*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
 
-🏢 National University of Singapore
+🏢 Edge0
 
-DynaFlow enables adaptive multi-agent collaboration by letting a main agent synthesize executable workflows that coordinate sub-agents through structured execution and verification.
+Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 198 • 💬 3 • ⭐ 107 • 3d ago
+▲ 31 • 💬 9 • ⭐ 7,424 • 1mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2610.34467) • [💻 code](https://github.com/amiya-special/Dynaflow) • [🔗 project](https://amiya-special.github.io/DynaFlow-website)
+[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
 ---
 
@@ -650,7 +644,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 11.9k • 🔱 1.2k • 11h ago
+⭐ 12.1k • 🔱 1.2k • 17h ago
 
 ---
 
@@ -660,7 +654,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 `TypeScript`
 
-⭐ 6.1k • 🔱 890 • 3h ago
+⭐ 6.1k • 🔱 892 • 9h ago
 
 ---
 
@@ -670,7 +664,7 @@ Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native
 
 `Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
 
-⭐ 5.4k • 🔱 157 • 37m ago
+⭐ 5.4k • 🔱 155 • 6h ago
 
 ---
 
@@ -680,7 +674,17 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.6k • 🔱 314 • 7h ago
+⭐ 4.6k • 🔱 313 • 13h ago
+
+---
+
+**[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)**
+
+关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+
+`Python` `adb` `ai-agent` `android` `coloros` `debloat`
+
+⭐ 4.2k • 🔱 380 • 10h ago
 
 ---
 
@@ -690,7 +694,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 4.0k • 🔱 534 • 3h ago
+⭐ 4.1k • 🔱 536 • 9h ago
 
 ---
 
@@ -704,23 +708,13 @@ A Claude Code / Codex plugin that helps you learn how to build while AI writes t
 
 ---
 
-**[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)**
-
-关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
-
-`Python` `adb` `ai-agent` `android` `coloros` `debloat`
-
-⭐ 4.0k • 🔱 362 • 4h ago
-
----
-
 **[Folkbench/folkbench](https://github.com/Folkbench/folkbench)**
 
 AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 3.8k • 🔱 22 • 2h ago
+⭐ 3.9k • 🔱 21 • 9h ago
 
 ---
 
@@ -730,7 +724,7 @@ The open source AI video agent: turns any coding agent into a video agent, with 
 
 `TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 3.3k • 🔱 308 • 2h ago
+⭐ 3.3k • 🔱 316 • 40m ago
 
 ---
 
@@ -740,7 +734,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 3.1k • 🔱 191 • 5d ago
+⭐ 3.1k • 🔱 192 • 5d ago
 
 ---
 

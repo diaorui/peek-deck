@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5",
       "pub_date": 1793130186.0,
@@ -25,12 +25,32 @@
       "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
     },
     {
-      "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBOaUFWYzdPdWticUxKMVBOUS1rdDI2bFVEQ3NvRHBUVnhUWkVDYU1TMjQ5Xy1QUE9kR2VtRWp6QUpfQWMxcFY0Nmg1V09YNFp5SVplaUN5azRWdzREdURHb1JER2d0LUF3dzgzSWRFVmVNYmJycnAwa3lUd0pJM3poem5QM1U?oc=5",
-      "pub_date": 1793091757.0,
-      "article_url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+      "headline": "Foundry Robotics Raises $100 Million Series A to Build America\u2019s First Autonomous Factory for Assembly",
+      "source": "Business Wire",
+      "source_url": "https://www.businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeGx5NWJmbktHMndxNWpUYUZETkVpUkJYSmVqVzNNTE5iVGZYT0M1QVZsUHg3eWQ4eVQ4bmpsa2ZKRHB5UHRQeHRUUkIxLXFpSF9OVU9yZDhoQUNqOFJUVTJERHplZ2FfUnVuRXNWc2ZRLUttM2VNOHN3SzhzQnJGVENWeWZMa3JuZVhhQzQtZDM1M2xKMFEyeTU1N295UWhWZkplTGgtOGw0UHRFbXpLeTlweURSckE3MXlsMzB0My04YnlOeUtMMzg0ZDk2bTVuTTJoaElkNVBoZVZZNlkxTlprZXlVSHRnUklJVVhodHVmQQ?oc=5",
+      "pub_date": 1793199600.0,
+      "article_url": "https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Amazon warehouse workers tell us what they think about their new robot coworkers",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFlSWGxibEhSNllvNTkycHY1Rzg1VktWaVB6NGtydUYzQWducERiNHpCaVktNFc4Y2FjbUVaQTh5cHAxMTBHbGluX1FNT1lwdmJyTlFLUzkxMlllaUxTdkdMRlhLX2RqcXAzd09rYzgtbl9CbTh6SWxnZ2xsODRCR1c0LW9UQkMyTm84cjFIS0x0M3lGSlNLcVZubW5OOUYwdEZ3?oc=5",
+      "pub_date": 1793181600.0,
+      "article_url": "https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9",
+      "image": "https://i.insider.com/6adbc10ec8572251b197f937?width=1200&format=jpeg",
+      "description": "Inside Amazon's robotic warehouse in Tracy, California, workers explain how automation is transforming their jobs."
+    },
+    {
+      "headline": "Unitree's quarterly revenue surges 70% in test for China's robotics sector",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkkxMGZFaG5UVFVwY2JaNVA0RG9TTnNJOXoxaElhSmhhT0RQQWxTSUNxNkFFMWg2em1GclFpMFlYRkc1ZTQ5VGJCdHY5WFdYUDFIRU9XWk9UX2FYV054dEVtZnZzZkpyd3c1Nkc5Z2Q1cWl6RTc3RnN1V0FzbkMxMXg0bjRCZjZVbjJlbElFcm8zcGVlOHNDRWFZSVlHQ3YxaHpJTi16NVJDN1U1NklWcEZRcXdvTGpSUlE?oc=5",
+      "pub_date": 1793191005.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/unitrees-q3-profit-down-174-on-year-test-chinas-robotics-sector-2026-10-28/",
       "image": null,
       "description": null
     },
@@ -45,66 +65,46 @@
       "description": "Spacewalking tools and a pair of robotics jobs topped Tuesday\u2019s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear."
     },
     {
-      "headline": "AI factory designer Foundry Robotics makes massive expansion into East Bay",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnNUeExaUG1CRkUydzJDTTR1NDdxWm9lQnFhUXVYcDE3WktJSjhTbmo4cjVqWUZybEFMVE4xX2ZHeE5QUjhtaHNKbVBMY1k1bUFjY002Y0RUNlpiZjVfZllEblNvMGJ1TWk1VkE5RGRQN3NWWTVOTUJiSVhxUldwSzF5RUlsS3lPZlE3a3ZSS1NKZVpoc3ZncXc2TlNSNzhG?oc=5",
-      "pub_date": 1793050200.0,
-      "article_url": "https://www.bizjournals.com/sanfrancisco/news/2026/10/26/foundry-robotics-emeryville-expansion.html",
+      "headline": "Could humanoid robots replace soldiers on the battlefield?",
+      "source": "The Conversation",
+      "source_url": "https://theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXYtSXhoZVJncllObDQwbWsxRW4zaTRFbFRQZ0UwY01LYXBRd1ZUdHBFaWZiNG80cVlfekstWVc2WnhMRHBCT2phVzkxejBOVkw1djFGSFpKQmtrRkpzWEFqTE1GRTZRTW53NGc1TkF0cFkyU21odEZSUXViUkN6al9iWjRiRE9YTlM2b3Q0UmxwUm1fSlFz?oc=5",
+      "pub_date": 1793117546.0,
+      "article_url": "https://theconversation.com/could-humanoid-robots-replace-soldiers-on-the-battlefield-292913",
+      "image": "https://images.theconversation.com/files/766845/original/file-20261017-50-w26r1y.jpg?ixlib=rb-4.1.1&rect=0%2C194%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "description": "Militaries around the world are testing the newest generation of machines."
+    },
+    {
+      "headline": "China unveils 13-foot robot that can lift a cow",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFF0SUdERnJIbXpmNEM0TkRid2RhZlVOVjk2dkdjNzkyV3JvbXNhb05idkY4X0YxVTRlRThhOUU1bkx6QkdPMkgwVm9ZeHYtS3FsR2dGX0VnNXRsdGZ1ZHdDejRHRHpQR2NrNWRBTll2dTdmbExnWEFpOFpIN1I3WVV3?oc=5",
+      "pub_date": 1793123041.0,
+      "article_url": "https://uk.finance.yahoo.com/news/china-unveils-13-foot-robot-174401927.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/477a39057f00ca70e80187f252699d2c9aa120e0ae0d6de3679b9ed1a6290029/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F89cba8779342be8a645c0a9e4dd354c9.png",
+      "description": "\u2018Robots should not merely replicate human forms but surpass human physical limits,\u2019 says NeodraDynamics founder"
+    },
+    {
+      "headline": "ByteDance goes on a hiring spree to move its robots from lab to factory floor",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFlFS0RnbklPZUo4YVFQZE92SFN1OTFTVm1BT1l2QjktWWUxbGRvbS1LVExzRV9XNVJFSGVvMmxjVnFqd09XRjZHN3VhMmNrYXJmS2loWUg1eWoySEEybU1NaDRJUkdWNTZkVkpMcGNXWW9udlA1WHBRV3lfVHZSNjBiNS1zUmx2Q2hrbnR6UXRFa1pGVzY4ZUZmUU5zYU9Ld0NqbkJPNG5reHliSEJqOEFjTFQzOS1VM3h0UnB30gG-AUFVX3lxTE5ZSndKU1VrY21raUZaSTBpQmxsNVNwVmtjWDBIQkpLUU1KbHFydjlFRWJ3eWxidWdXbHlkZ1BiLUpmT19ZeGFUM2t0d2J6ZkpRc01BbWRBVmd3cnRuSWh5UjNLU1pxWjB5TzBlOWJITGRxbW1rUm9Bc2didEoyX2w5STAtZy1wbjc0SzVZRjl4ekRGMHMwVjRpOFJUcFRsZGh3aWJqcFF5ODVZbTdFaDhrenpTSlFBejBWXzZzQ0E?oc=5",
+      "pub_date": 1793156410.0,
+      "article_url": "https://www.scmp.com/tech/big-tech/article/3372295/bytedance-accelerates-robotics-commercialisation-new-recruitment-drive",
       "image": null,
       "description": null
     },
     {
-      "headline": "This AI Stock Catapults 58% Amid Robotics Spinoff; Nears Pivot As Earnings Loom",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakpNeWJMWEZEeE5oanR3MGJUQ0VVeHVyTkFDWXRYbS05Yy1iaHhqeFExU0lDaEFEMmdQVzVsT1FJelZSVk14XzNQTTIxQkZoZ0pOTW85TzVBTi1CME5YdWNfWkRSN3JjZ1dsMVlNR1BURUplNTh2SEVJOGJYamxUY09YVQ?oc=5",
-      "pub_date": 1793123160.0,
-      "article_url": "https://www.investors.com/research/ai-stock-zebra-technologies-zbra-earnings/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/02/Stock-ZebraTechnologies-handheld-03-company.jpg",
-      "description": "AI stock Zebra Technologies is near a pivot after a 58% gain year-to-date. Third-quarter earnings are due Nov. 3."
-    },
-    {
-      "headline": "Ukraine Develops Drone-Carrying Ground Robots to Fight Aerial Threats, With Millions More in Funding Needed",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jRDdldE9wRjVGdEV3c01KNzZCbS1iQWstd2Z4NlVzb0cwR2lGWDZDdnpPQW5zZWR3RWVVbUtfMV8zWVRzVzIyWlBoSQ?oc=5",
-      "pub_date": 1793108525.0,
-      "article_url": "https://www.kyivpost.com/post/88325",
-      "image": "https://static.kyivpost.com/storage/2026/10/27/b596b3d568720c5bc08ba8c74843111d.png?w=1200&q=90&f=jpg",
-      "description": "A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets."
-    },
-    {
-      "headline": "China unveils 13-foot robot that can lift a cow",
-      "source": "Yahoo",
-      "source_url": "https://malaysia.news.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnJPMTJyVEkyUi0tUlFHOUZvR09JWDQtTXh3MTJhbGNmUmVfM0lKcGFqdjNOQkk4dHRYSW9FUGpTNmFQSG5sN0tBUkVSMWFaUW9YZmFzZFdDNFRINDBrdzRHTlpQOTY2aEZQWHhPSjR6OUhPYWFVSEpCSjkyenc?oc=5",
-      "pub_date": 1793123041.0,
-      "article_url": "https://malaysia.news.yahoo.com/china-unveils-13-foot-robot-174401927.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/022a755d19b75ddf50fe8262ca582d6be9bf4727ca925ad807178354ceadf27b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F71485621a583e092ec413f38c8303cd2.png",
-      "description": "\u2018Robots should not merely replicate human forms but surpass human physical limits,\u2019 says NeodraDynamics founder"
-    },
-    {
-      "headline": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjB2SG9VZUt0LVctTXpQU2Jod0t6a3BFbGZuNFJicGVQT1BJdWlUbzZuYnRuOHE1UWxKS2lUcVlVY2w0SVU2bWtXakNyMVRXZDBOYkxwUm1xanY4QTZPRnI5VFJfNzVhYWQ4aW4xUEdaeWh5RVVON1Y3VElxWk1NT2djZVBDSU8tU0hJeUtmZUM2YjB1elhiV1cwM0JhZ1IzX3FCN2tKZ0cxNzgz?oc=5",
-      "pub_date": 1793098800.0,
-      "article_url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10",
-      "image": "https://i.insider.com/6adfd49cab741a2ebdf11932?width=1200&format=jpeg",
-      "description": "Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration."
-    },
-    {
-      "headline": "Companion humanoid robots get lifelike silicone skin, 100 languages",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjdHM3lsR3NNZTVGZEVURzJGMmxycVFpdVA4ekdpcUV2Y1h2dHVMd2lRREI2MHhVYXJoMzBLNE9qckc5NGRBV2dWci1CQWMyVDV1aFR4Q1BfaWdZN1lUd0x4NmhLbU9XNjlYNFpkVUxPWmo2ajZ1cjMwdmloMnN3ckpaUVVOVUtvcUZhX0ZBYUJlNkVxeVE?oc=5",
-      "pub_date": 1793069040.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-30.jpg",
-      "description": "Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027."
+      "headline": "Japan experiments with autonomous AI chainsaw-wielding robots \u2014 video shows rail truck-mounted metal humanoid cutting down tree branches",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMHh5MjctZi1laWF4bGJ1VmxDdWpPYzNRaUVNZy1NQnAwSGhXZzNzSWMtNXFDOUI1WlFrcWVLcE5BRUh0eXFubjVzYW9vNkFpMXJkSGxOM3hac2UtclZjWlExVzZnTTBHeFpidFlHX2kyLWVWQVdhbktPYkFBMWp4czFGcFM0RjhNODY1MEpraXMwTXdHSWlEcXF0eDNTakVoZlNad2dlNjVVZUx6RlFWSk5RRnJ2WmlpbEhtRDRvU1g1eVBkblE5ZTVDem45d05lX3JYVUgxRVJyaGhjUVBZaVZZa2l6VTdfWGk2Uk01ZDFnbFhpalhaOHlRQ05SNUhub2Q2OEU1b2VXS2cyNjNLR01xY1I?oc=5",
+      "pub_date": 1793180400.0,
+      "article_url": "https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches",
+      "image": "https://cdn.mos.cms.futurecdn.net/GNdgn4uQJSieHfhRki6Xdn-1920-80.jpg",
+      "description": "The frightening-looking mech in the demo still has a human operator, for now."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-28T04:23:27.621451+00:00"
+  "fetched_at": "2026-10-28T17:00:59.558575+00:00"
 }
