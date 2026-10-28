@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-28T17:01:02.189185+00:00'
+updated: '2026-10-28T21:37:05.833780+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 28, 2026 at 17:01 UTC  
+**Last Updated:** October 28, 2026 at 21:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,362.42
+### $2,357.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -2.3%  
-**30d:** -12.8%  
-**90d:** +25.3%  
-**1y:** -40.2%  
+**24h:** +0.4%  
+**7d:** -1.3%  
+**30d:** -12.0%  
+**90d:** +26.5%  
+**1y:** -39.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $285.07B
+**Market Cap:** $287.57B
 Rank #2
 
 **Circulating Supply:** 122,170,166 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.8%
+-52.4%
 
 **All-Time Low:** $0.43
-+538852.2%
++543549.9%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tickets and if anyone any single being can sponser or offer me that ticket please My profile is kidna ticket less i need that ticket 😭 FYI : I am a 3rd year Computer science engineering student at Mumbai University and ofc i have too many financial constraints to afford one
 
-2d ago
+3d ago
 
 ---
 
@@ -136,7 +136,7 @@ This is a repost from yesterdays Daily for better visibility. I made a thing tha
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 5d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 6d ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 9h ago
 
 ---
 
@@ -182,7 +182,29 @@ CoinDesk • 2d ago
 
 The two blockchain networks have been rivals for years.
 
-The Motley Fool • 6h ago
+The Motley Fool • 10h ago
+
+---
+
+**[Glamsterdam's Impact on Ethereum: Testing Delays & Next Steps](https://investingnews.com/ethereums-glamsterdam-upgrade-update/)**
+
+Ethereum’s Glamsterdam upgrade aims to boost network efficiency & utility, crucial for ETH's long-term appeal. Yet, its impact on older apps & fee structures leads to delays, now likely pushing the mainnet release to 2027. Could this reshape how DeFi thrives on Ethereum? Dive in.
+
+Investing News Network • 40m ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP recover as Big Tech earnings take center stage](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-recover-as-big-tech-earnings-take-center-stage-202610280338)**
+
+FXStreet • 17h ago
+
+---
+
+**[Ethereum: Breaking Upwards After First Level Hit](https://blockchain.news/flashnews/ethereum-breaking-upwards-after-first-level-hit)**
+
+Michaël van de Poppe reports that Ethereum has hit its first level and is breaking upwards for $ETH, with markets now at the optimal sweet spot to hold and...
+
+Blockchain News • 20h ago
 
 ---
 
@@ -190,21 +212,7 @@ The Motley Fool • 6h ago
 
 Leading cryptocurrencies rose alongside stocks on Tuesday, buoyed by investor focus on the Kevin Warsh-led Federal Reserve’s interest-rate decision and weaker oil prices.Crypto Market GainsBitcoin hit an intraday high of $81,159 before meeting strong resistance, while Ethereum traded sideways in th…
 
-TradingView • 15h ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP recover as Big Tech earnings take center stage](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-recover-as-big-tech-earnings-take-center-stage-202610280338)**
-
-FXStreet • 13h ago
-
----
-
-**[Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?](https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/)**
-
-Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need.
-
-24/7 Wall St. • 2d ago
+TradingView • 19h ago
 
 ---
 
@@ -216,19 +224,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum: Breaking Upwards After First Level Hit](https://blockchain.news/flashnews/ethereum-breaking-upwards-after-first-level-hit)**
+**[Pendle STRCx deposits hit record $50.4 million on Ethereum](https://cryptobriefing.com/pendle-strcx-deposits-record-ethereum/)**
 
-Michaël van de Poppe reports that Ethereum has hit its first level and is breaking upwards for $ETH, with markets now at the optimal sweet spot to hold and...
+STRCx deposits on Pendle's Ethereum markets hit a record $50.4 million as Strategy's STRC preferred stock prepares for daily dividend accruals.
 
-Blockchain News • 15h ago
-
----
-
-**[Ethereum Foundation seeks protocol feedback to sharpen EIP development](https://cryptobriefing.com/ethereum-foundation-eip-feedback-hegota-upgrade/)**
-
-Ethereum Foundation seeks app developer feedback on EIPs to align the L1 protocol roadmap with real-world needs ahead of the Hegotá upgrade.
-
-Crypto Briefing • 1d ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -236,63 +236,13 @@ Crypto Briefing • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[⚠️ Ethereum ETFs Still Selling - ETH Crypto Analysis](https://www.youtube.com/watch?v=QCptec2hKQ0)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 932 • 👍 24 • 💬 12 • ⏱️ 10:06 • 5h ago
-
----
-
 **[BitMine is closing in on owning 5% of all Ethereum.](https://www.youtube.com/watch?v=AMKQNSYTgUY)**
 
 BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no single company has approached before. Strategy ...
 
 📺 Yahoo Finance
 
-👁️ 23K • 👍 259 • 💬 151 • ⏱️ 14:51 • 2d ago
-
----
-
-**[URGENT BITCOIN UPDATE: WATCH BEFORE FED MEETING TODAY!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YdX662MQJjk)**
-
-URGENT BITCOIN UPDATE: WATCH BEFORE FED MEETING TODAY!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 228 • 💬 48 • ⏱️ 19:00 • 6h ago
-
----
-
-**[HUGE ETHEREUM UPDATES BULL RUN 2026! OpenAI??](https://www.youtube.com/watch?v=PenIICTEd4E)**
-
-Is Ethereum (ETH) undervalued or falling behind? OpenAI's “ETH is false” announcement sparked a crypto Twitter frenzy, while ...
-
-📺 Altcoin Buzz
-
-👁️ 382 • 👍 27 • 💬 2 • ⏱️ 9:20 • 3h ago
-
----
-
-**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
-
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
-
-📺 BULLRUNNERS
-
-👁️ 3K • 👍 49 • 💬 25 • ⏱️ 15:18 • 19h ago
-
----
-
-**[ETH HOLDERS: The Biggest Company Buyer Of ETH Is Almost Done Stacking. Who Holds Up Your FLOOR?](https://www.youtube.com/watch?v=nEeO1P1lNGE)**
-
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/ded7dc93 Connect With Us: Email: Team@bullrunners.com ...
-
-📺 BULLRUNNERS
-
-👁️ 1K • 👍 10 • 💬 1 • ⏱️ 11:35 • 1d ago
+👁️ 23K • 👍 262 • 💬 146 • ⏱️ 14:51 • 2d ago
 
 ---
 
@@ -302,37 +252,87 @@ Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates
 
 📺 Dr. Samuel Allen Alexander
 
-👁️ 39K • 👍 522 • 💬 211 • ⏱️ 34:10 • 1d ago
+👁️ 43K • 👍 538 • 💬 225 • ⏱️ 34:10 • 1d ago
 
 ---
 
-**[👾 Sommi Meets A Genius (Discuss Ethereum)](https://www.youtube.com/watch?v=yzCkVgUPlv4)**
+**[⚠️ Ethereum ETFs Still Selling - ETH Crypto Analysis](https://www.youtube.com/watch?v=QCptec2hKQ0)**
 
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Software: ...
 
-📺 🌟yourfriendsommi
+📺 Bitcoin Strategy
 
-👁️ 3K • 👍 228 • 💬 20 • ⏱️ 12:45 • 2d ago
-
----
-
-**[IF YOU HOLD XRP, SOL, ETH OR INJ YOU MUST WATCH NOW...](https://www.youtube.com/watch?v=BNc7u-wtaoE)**
-
-Uphold | Your XRP, Working Harder Than Ever ▸ Sign Up to Uphold: https://uphold.com/sensei ▸ Earn XRP Rewards: 4% Elite ...
-
-📺 Crypto Sensei
-
-👁️ 19K • 👍 614 • 💬 76 • ⏱️ 16:45 • 2d ago
+👁️ 2K • 👍 29 • 💬 13 • ⏱️ 10:06 • 10h ago
 
 ---
 
-**[ETH Squeeze to $2,387 Left 282 Shorts Soaking Wet #Shorts](https://www.youtube.com/watch?v=riFscS-6k84)**
+**[Is $2,000 Ethereum Next? 8 Crypto Charts In 8 Minutes](https://www.youtube.com/watch?v=xmD2fbeICxA)**
 
-Overnight squeeze on Ethereum: between 1 and 2 AM PT on Oct 28, OKX ETH perps force-closed 282 short positions worth about ...
+Bitcoin just lost its parallel channel. Is a $2000 Ethereum next? Nick Valdez of Verified Investing runs through eight crypto charts ...
 
-📺 Hunter Killer
+📺 Verified Investing
 
-👁️ 1 • ⏱️ 0:14 • 2h ago
+👁️ 9K • 👍 247 • 💬 7 • ⏱️ 8:04 • 1d ago
+
+---
+
+**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
+
+Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
+
+📺 BULLRUNNERS
+
+👁️ 3K • 👍 50 • 💬 25 • ⏱️ 15:18 • 23h ago
+
+---
+
+**[Tarun Chitra: Ethereum Is The Cryptographic Safety Net For What Comes Next (Full Interview)](https://www.youtube.com/watch?v=dOZIEhgAxXc)**
+
+Tarun Chitra says the future of money will be built to survive even if all of today's cryptography breaks. In this conversation, he ...
+
+📺 The Rollup
+
+👁️ 8K • 👍 79 • 💬 6 • ⏱️ 23:11 • 2d ago
+
+---
+
+**[Bitmine Will Soon Own 5% of All ETH, So What Does It Do Next?](https://www.youtube.com/watch?v=CMIcWdVCVFY)**
+
+Bitmine is closing in on 5% of all $ETH: will it start investing elsewhere, or just sit on its holdings? Strive was able to buy that 6000 ...
+
+📺 The Wolf Of All Streets
+
+👁️ 867 • 👍 27 • 💬 1 • ⏱️ 1:33 • 2d ago
+
+---
+
+**[URGENT BITCOIN UPDATE: WATCH BEFORE FED MEETING TODAY!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YdX662MQJjk)**
+
+URGENT BITCOIN UPDATE: WATCH BEFORE FED MEETING TODAY!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 257 • 💬 56 • ⏱️ 19:00 • 10h ago
+
+---
+
+**[BMNR Holders - ETH &amp; Bitcoin : When Will the Next Crypto Bull Run Start?](https://www.youtube.com/watch?v=iSzbGttAutE)**
+
+BMNR Holders & MSTR - BITCOIN & ETHEREUM BULL RUN 2027 - IS THE BIGGEST RALLY STILL AHEAD? Earn On Your ...
+
+📺 Big Time Trades
+
+👁️ 3K • 👍 63 • 💬 5 • ⏱️ 21:32 • 1d ago
+
+---
+
+**[Why SharpLink Is Betting on Ethereum Over Bitcoin](https://www.youtube.com/watch?v=Z6HefpiPFjk)**
+
+Why is SharpLink betting on Ethereum instead of Bitcoin? Joseph explains why he sees Bitcoin as digital gold, while Ethereum ...
+
+📺 Crypto In America
+
+👁️ 703 • 👍 7 • ⏱️ 0:40 • 1d ago
 
 ---
 

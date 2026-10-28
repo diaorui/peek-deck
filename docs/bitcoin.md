@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-28T17:01:02.182503+00:00'
+updated: '2026-10-28T21:37:05.830489+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 28, 2026 at 17:01 UTC  
+**Last Updated:** October 28, 2026 at 21:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,537.23
+### $81,179.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.0%  
-**30d:** -3.7%  
-**90d:** +28.2%  
-**1y:** -26.8%  
+**24h:** +0.3%  
+**7d:** -0.3%  
+**30d:** -3.0%  
+**90d:** +29.1%  
+**1y:** -26.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1618.91B
+**Market Cap:** $1630.45B
 Rank #1
 
-**Circulating Supply:** 20,104,884 BTC
+**Circulating Supply:** 20,104,928 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.1%
+-35.7%
 
 **All-Time Low:** $67.81
-+118676.0%
++119497.4%
 
 ---
 
@@ -123,7 +123,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[Just bought my first Bitcoin, and immediately lost 3%.... Let's go???](https://www.reddit.com/r/Bitcoin/comments/1xcq2xz/just_bought_my_first_bitcoin_and_immediately_lost/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -153,7 +153,15 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 **[Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC](https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc)**
 
-CoinDesk • 5h ago
+CoinDesk • 10h ago
+
+---
+
+**[Datavault AI Says It Can’t Access Its Bitcoin Holdings](https://finance.yahoo.com/markets/crypto/articles/datavault-ai-says-t-access-131000201.html)**
+
+Crypto treasury firm Datavault AI (NASDAQ: $DVLT) says it is unable to access a large portion of its Bitcoin (CRYPT...
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -161,35 +169,43 @@ CoinDesk • 5h ago
 
 The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.
 
-The Block • 14h ago
+The Block • 18h ago
 
 ---
 
-**[Fed Rate Decision: What Markets and Bitcoin Traders Can Expect](https://finance.yahoo.com/markets/crypto/articles/fed-rate-decision-markets-bitcoin-151534908.html)**
+**[Watch Fifteen-Minute Bets Scratch the Bitcoin Itch](https://www.bloomberg.com/news/videos/2026-10-28/fifteen-minute-bets-scratch-the-bitcoin-itch-video)**
 
-The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.
+Bloomberg.com • 1h ago
+
+---
+
+**[MicroStrategy Approves Daily Dividends. Will Bitcoin Buying Return?](https://finance.yahoo.com/markets/crypto/articles/microstrategy-approves-daily-dividends-bitcoin-200039719.html)**
+
+MicroStrategy wins a 99.3% vote for daily dividends after a week with no Bitcoin buys. Here is how it could restart buying.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends](https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision)**
+**[Fed Rate Decision: What Markets and Bitcoin Traders Can Expect](https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect)**
 
-CoinDesk • 54m ago
+The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.
 
----
-
-**[Bitcoin’s Road to $100,000 Is Crowded With Would-Be Sellers](https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers)**
-
-Bloomberg.com • 18h ago
+Decrypt • 6h ago
 
 ---
 
-**[Bitcoin Mining Firm Luxor Raises $16 Million To Scale AI Compute Trading And Hardware](https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million)**
+**[Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates](https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision)**
 
-Luxor, a bitcoin miner turned AI compute firm, raised $16 million led by CMT Digital to expand its AI hardware brokerage and compute trading business.
+CoinDesk • 1h ago
 
-Bitcoin Magazine • 1d ago
+---
+
+**[Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://www.tradingview.com/news/cointelegraph:4624e2739094b:0-bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings/)**
+
+Bitcoin (BTC) gave back early gains around Wednesday’s Wall Street open as markets prepared for the US Federal Reserve’s interest-rate decision.Key points:US stocks tread water as focus turns to Fed chair WarshData from TradingView showed BITSTAMP:BTCUSD failing to break beyond $81,700, instead rev…
+
+TradingView • 4h ago
 
 ---
 
@@ -197,29 +213,15 @@ Bitcoin Magazine • 1d ago
 
 Bitwise’s forecasts for BTC’s price, volatility, and correlations through 2036.
 
-Bitwise Investments • 3h ago
+Bitwise Investments • 8h ago
 
 ---
 
-**[Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244)**
+**[Strategy's Michael Saylor Predicts Bitcoin Will Soar Past $100,000 Over the Next 12 Months. Here's Why He's Right.](https://www.fool.com/investing/2026/10/28/strategys-michael-saylor-predicts-bitcoin-will-soa/)**
 
-Investing.com • 1d ago
+The Bitcoin bull recently gave one of his more reasonable price predictions.
 
----
-
-**[Separation of assets: Thieves beat ex, take $10K and Bitcoin-stuffed tablet in Capitol Hill heist](https://www.capitolhillseattle.com/2026/10/separation-of-assets-thieves-beat-ex-take-10k-and-bitcoin-stuffed-tablet-in-capitol-hill-heist/)**
-
-Police say an early-morning apartment robbery on Capitol Hill netted a pair of thieves $10,000 in cash and a tablet tied to nearly $250,000 in cryptocurrency — a target the victim said was li…
-
-CHS Capitol Hill Seattle News • 23h ago
-
----
-
-**['Just a shareholder' Vivek Ramaswamy's Strive Inc. ties, Bitcoin bet](https://www.cincinnati.com/story/news/politics/2026/10/26/vivek-ramaswamy-firm-strive-inc-influence-controlled-company-investor/92274576007/)**
-
-Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics.
-
-Cincinnati Enquirer • 2d ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -231,7 +233,7 @@ Cincinnati Enquirer • 2d ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 622 • 💬 450 • 3d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 623 • 💬 450 • 4d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -245,7 +247,7 @@ A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 4 • 💬 1 • 2d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 4 • 💬 1 • 3d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -269,7 +271,7 @@ The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Hea
 
 Contribute to escache/bitcoin-puzzle-methods development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 20h ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
+⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
 
 ---
 
@@ -277,7 +279,7 @@ Contribute to escache/bitcoin-puzzle-methods development by creating an account 
 
 Explore messages, images, videos, PDF and audio written into Bitcoin. Search by date, source and format, or prepare your own Ordinals inscription.
 
-⬆️ 1 • 💬 0 • 4h ago • [Written in Bitcoin](https://writteninbitcoin.com/en)
+⬆️ 1 • 💬 0 • 8h ago • [Written in Bitcoin](https://writteninbitcoin.com/en)
 
 ---
 
@@ -291,13 +293,13 @@ Explore messages, images, videos, PDF and audio written into Bitcoin. Search by 
 
 Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.
 
-⬆️ 179 • 💬 30 • 2d ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+⬆️ 183 • 💬 32 • 2d ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 
 ---
 
 **[Ask HN: Any founders want to trade pitch practice and customer interviews?](https://news.ycombinator.com/item?id=50265028)**
 
-⬆️ 2 • 💬 0 • 20h ago
+⬆️ 2 • 💬 0 • 1d ago
 
 ---
 
@@ -311,7 +313,37 @@ Michael Saylor: Buying Bitcoin at $80k today is like buying it at $30k in 2023. 
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 2K • 💬 95 • ⏱️ 10:30 • 17h ago
+👁️ 61K • 👍 2K • 💬 97 • ⏱️ 10:30 • 21h ago
+
+---
+
+**[Bitcoin&#39;s Biggest Buyers Have Gone Quiet](https://www.youtube.com/watch?v=eGgMEQa4r4A)**
+
+Bitcoin demand, the Coinbase Premium, ETF flows and the Fed decision with Brett Tejpaul, Co-CEO of Coinbase Institutional.
+
+📺 The Wolf Of All Streets
+
+👁️ 14K • 👍 414 • 💬 16 • ⏱️ 49:39 • 7h ago
+
+---
+
+**[Why is Bitcoin TRAPPED Between $80K And $85K](https://www.youtube.com/watch?v=tbfWF8xFDKA)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 33K • 👍 614 • 💬 31 • ⏱️ 12:18 • 8h ago
+
+---
+
+**[Bitcoin Faces Fed Decision](https://www.youtube.com/watch?v=dYJK7IbDraU)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 596 • 💬 14 • ⏱️ 37:42 • 7h ago
 
 ---
 
@@ -321,7 +353,7 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 6K • 👍 247 • 💬 35 • ⏱️ 15:06 • 18h ago
+👁️ 7K • 👍 252 • 💬 35 • ⏱️ 15:06 • 23h ago
 
 ---
 
@@ -331,27 +363,27 @@ Why is Bitcoin plateauing? Two factors are weighing on it: institutions want reg
 
 📺 Kevin O'Leary
 
-👁️ 10K • 👍 194 • 💬 23 • ⏱️ 1:27 • 13h ago
+👁️ 13K • 👍 235 • 💬 26 • ⏱️ 1:27 • 18h ago
 
 ---
 
-**[BITCOIN: It’s FOMC Day! ($76,000 next?) - BTC Price Prediction Today](https://www.youtube.com/watch?v=9ptdhKCiMQ0)**
+**[This Bitcoin Signal Has NEVER Been Wrong Since 2012! And It’s Flashing Again (Be Ready!)](https://www.youtube.com/watch?v=IM8Lw39Y74M)**
 
-Want a free $5040 bonus + $20 just for signing up? Go here: ...
+Thanks Coinbase for sponsoring this video. Save 80% on spot fees through my link - https://coinbase.com/aff/ccv?s=youtube Is the ...
 
-📺 BitcoinHyper
+📺 Crypto Capital Venture
 
-👁️ 5K • 👍 320 • 💬 20 • ⏱️ 13:27 • 5h ago
+👁️ 27K • 👍 645 • 💬 97 • ⏱️ 16:18 • 1d ago
 
 ---
 
-**[BITCOIN TRADERS: IT IS HAPPENING...](https://www.youtube.com/watch?v=15AAw73U_M0)**
+**[Bitcoin to ZERO? JPMorgan&#39;s Big Prediction, California Billionaires Flee | News Block](https://www.youtube.com/watch?v=-4HnQK1q9Pk)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+Chamath says Bitcoin is going to ZERO, while JPMorgan predicts it will outperform every major asset over the next decade.
 
-📺 Crypto Rover
+📺 Natalie Brunell
 
-👁️ 13K • 👍 622 • 💬 28 • ⏱️ 10:04 • 9h ago
+👁️ 40K • 👍 842 • 💬 77 • ⏱️ 10:30 • 2d ago
 
 ---
 
@@ -371,37 +403,7 @@ Carl Sagan warned 30 years ago that technology, concentrated wealth, and declini
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 1K • 💬 85 • ⏱️ 13:36 • 2d ago
-
----
-
-**[🚨 Bitcoin’s MAKE OR BREAK Moment Is Here (This Is What Failure Looks Like)](https://www.youtube.com/watch?v=nB5dtxNGcKQ)**
-
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ Make or break for crypto: the ...
-
-📺 Crypto Capital Venture
-
-👁️ 18K • 👍 491 • 💬 68 • ⏱️ 11:43 • 2d ago
-
----
-
-**[$500M Bitcoin Buy🔥Strive CEO on Corporate Trade Returning](https://www.youtube.com/watch?v=XR0FkG2A0uI)**
-
-Strive just bought 6182 bitcoin, about $511M, its largest purchase ever. Strive CEO Matt Cole joins to explain how the company ...
-
-📺 Paul Barron Network
-
-👁️ 47K • 👍 910 • 💬 24 • ⏱️ 29:17 • 1d ago
-
----
-
-**[Bitcoin: Bears Regaining Control](https://www.youtube.com/watch?v=bWdXPK3Hlok)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 170K • 👍 4K • 💬 292 • ⏱️ 32:21 • 2d ago
+👁️ 36K • 👍 1K • 💬 85 • ⏱️ 13:36 • 2d ago
 
 ---
 
