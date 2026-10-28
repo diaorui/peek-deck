@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-28T17:01:02.192666+00:00'
+updated: '2026-10-28T21:37:05.835410+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 28, 2026 at 17:01 UTC  
+**Last Updated:** October 28, 2026 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ Hey all, here's a small update on CBR-II, my DIY biped. This is the third iterat
 
 Microduck from Pollen Robotics. I had the opportunity to meet up with the team here to learn about this, and it's not only a cute little robot, it's one very impressive development tool 👏 "A tiny biped for reinforcement learning" I attended NVIDIA GTC Berlin as a guest of NVIDIA EMEA.
 
-2d ago
+3d ago
 
 ---
 
 **[Used an Octopus Pro + 6x TMC2209 to drive a 6-axis 3D-printed robot arm (not a 3D printer!)](https://www.reddit.com/r/robotics/comments/1xfbmjt/used_an_octopus_pro_6x_tmc2209_to_drive_a_6axis/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -74,7 +74,7 @@ Took me a while to work up the nerve to dig into the sloth-speed-servo bug since
 
 Source code and more info here: https://github.com/AdrianCX/picohive-robotarm Controlled via internal web page (gamepad, keyboard), LLMs, MQTT, with an openGL visualizer
 
-2d ago
+3d ago
 
 ---
 
@@ -82,7 +82,7 @@ Source code and more info here: https://github.com/AdrianCX/picohive-robotarm Co
 
 I’m building a robot lab in a Gaussian-splat reconstruction of my office. Today the RealMan ECO65 (on loan) finally moved: J1 +5° at 5% speed and back. Then I switched its Wi-Fi to client mode, lost access, and discovered I had no Ethernet cable. The software side has one shared backend for Codex and Claude, revision-checked edits, a MuJoCo twin and link/desk collision checks. The MCP motion interface is still simulation-only; the physical move was a separate controller session. The twin is a nominal model, not validated hardware behaviour. EP19 shows the build and the failures. The J1 visual is a labelled replay of the logged command. https://www.youtube.com/watch?v=1ZrYGwZJQto For those running an arm in a home lab: what was the first mismatch you found between your twin and the hardware?
 
-2d ago
+3d ago
 
 ---
 
@@ -114,9 +114,9 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 ## Google News: "robotics"
 
-**[Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation)**
+**[Foundry Robotics Raises $100 Million Series A to Build America’s First Autonomous Factory for Assembly](https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly)**
 
-Bloomberg.com • 21h ago
+Business Wire • 6h ago
 
 ---
 
@@ -124,27 +124,41 @@ Bloomberg.com • 21h ago
 
 A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
 
-ABC News - Breaking News, Latest News and Videos • 1d ago
+ABC News - Breaking News, Latest News and Videos • 2d ago
 
 ---
 
-**[Foundry Robotics Raises $100 Million Series A to Build America’s First Autonomous Factory for Assembly](https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly)**
+**[Trump Delays Robotics, Machinery Tariffs in Favor of More Talks](https://www.bloomberg.com/news/articles/2026-10-28/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks)**
 
-Business Wire • 2h ago
+Bloomberg.com • 59m ago
 
 ---
 
-**[Amazon warehouse workers tell us what they think about their new robot coworkers](https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9)**
+**[US Navy partners with Gecko Robotics to modernize ship maintenance](https://www.foxnews.com/video/6407551239112)**
+
+Gecko Robotics co-founder and CEO Jake Loosararian joins ‘America Reports’ to discuss the company’s expanding partnership with the U.S. Navy to modernize ship maintenance and strengthen defense manufacturing.
+
+Fox News • 2h ago
+
+---
+
+**[Trump Delays Robotics, Machinery Tariffs in Favor of More Talks](https://www.bloomberg.com/news/articles/2026-10-28/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks?srnd=phx-latinamerica)**
+
+Bloomberg.com • 59m ago
+
+---
+
+**[We went inside Amazon's robot-powered warehouse to see if machines are taking jobs. What we found surprised us.](https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9)**
 
 Inside Amazon's robotic warehouse in Tracy, California, workers explain how automation is transforming their jobs.
 
-Business Insider • 7h ago
+Business Insider • 12h ago
 
 ---
 
 **[Unitree's quarterly revenue surges 70% in test for China's robotics sector](https://www.reuters.com/world/asia-pacific/unitrees-q3-profit-down-174-on-year-test-chinas-robotics-sector-2026-10-28/)**
 
-Reuters • 4h ago
+Reuters • 9h ago
 
 ---
 
@@ -152,37 +166,23 @@ Reuters • 4h ago
 
 Spacewalking tools and a pair of robotics jobs topped Tuesday’s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear.
 
-NASA (.gov) • 21h ago
+NASA (.gov) • 1d ago
 
 ---
 
-**[Could humanoid robots replace soldiers on the battlefield?](https://theconversation.com/could-humanoid-robots-replace-soldiers-on-the-battlefield-292913)**
+**[Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft](https://payloadspace.com/exclusive-rendezvous-robotics-raises-20m-to-develop-self-assembling-spacecraft/)**
 
-Militaries around the world are testing the newest generation of machines.
+Rendezvous Robotics is developing technology to allow future satellites to launch in pieces that can self-assemble in space.
 
-The Conversation • 1d ago
-
----
-
-**[China unveils 13-foot robot that can lift a cow](https://uk.finance.yahoo.com/news/china-unveils-13-foot-robot-174401927.html)**
-
-‘Robots should not merely replicate human forms but surpass human physical limits,’ says NeodraDynamics founder
-
-Yahoo Finance UK • 23h ago
+Payload Space • 8h ago
 
 ---
 
-**[ByteDance goes on a hiring spree to move its robots from lab to factory floor](https://www.scmp.com/tech/big-tech/article/3372295/bytedance-accelerates-robotics-commercialisation-new-recruitment-drive)**
+**[110 humanoid robots dance in perfect sync to set Guinness World Record in China](https://interestingengineering.com/ai-robotics/110-humanoid-robot-guinness-world-record-dance)**
 
-South China Morning Post • 14h ago
+China sets a Guinness World Records title as 110 AGIBOT humanoid robots perform synchronized dance routines.
 
----
-
-**[Japan experiments with autonomous AI chainsaw-wielding robots — video shows rail truck-mounted metal humanoid cutting down tree branches](https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches)**
-
-The frightening-looking mech in the demo still has a human operator, for now.
-
-Tom's Hardware • 7h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -196,37 +196,7 @@ Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! Fr
 
 📺 VisionX Lab
 
-👁️ 377K • 👍 10K • 💬 502 • ⏱️ 0:59 • 2d ago
-
----
-
-**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
-
-OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
-
-📺 MACHINEKIND
-
-👁️ 20K • 👍 353 • 💬 31 • ⏱️ 13:33 • 17h ago
-
----
-
-**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
-
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
-
-📺 InsideAI
-
-👁️ 2.2M • 👍 40K • 💬 4K • ⏱️ 15:05 • 2d ago
-
----
-
-**[Toyota’s 400,000-Robot Plan: Is It Taking on Tesla and China? | Firstpost Explains](https://www.youtube.com/watch?v=Egf4fBLfRk4)**
-
-In this video, Firstpost explains Toyota's ambitious plan to enter the humanoid robot race against Tesla and Chinese ...
-
-📺 Firstpost
-
-👁️ 5K • 👍 16 • 💬 2 • ⏱️ 7:48 • 5h ago
+👁️ 408K • 👍 11K • 💬 521 • ⏱️ 0:59 • 3d ago
 
 ---
 
@@ -236,17 +206,7 @@ Tesla has started production of Optimus on a line in Fremont, and on their third
 
 📺 Ryan Shaw
 
-👁️ 115K • 👍 2K • 💬 166 • ⏱️ 37:43 • 4d ago
-
----
-
-**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
-
-Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
-
-📺 VisionX Lab
-
-👁️ 254K • 👍 3K • 💬 295 • ⏱️ 0:11 • 2d ago
+👁️ 116K • 👍 2K • 💬 166 • ⏱️ 37:43 • 4d ago
 
 ---
 
@@ -256,27 +216,27 @@ What happens when a robot dog walks into the world of lions? In today's episode 
 
 📺 Wild Clash
 
-👁️ 1.1M • 👍 8K • 💬 603 • ⏱️ 8:40 • 4d ago
+👁️ 1.1M • 👍 8K • 💬 606 • ⏱️ 8:40 • 4d ago
 
 ---
 
-**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
+**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
 
-Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
 
-📺 MACHINEKIND
+📺 InsideAI
 
-👁️ 19K • 👍 220 • 💬 34 • ⏱️ 13:25 • 4d ago
+👁️ 2.2M • 👍 40K • 💬 4K • ⏱️ 15:05 • 3d ago
 
 ---
 
-**[New NVIDIA Isaac GR00T humanoid AI Robot is mind blowing - World Premiere](https://www.youtube.com/watch?v=C3CeYOOYzXw)**
+**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
 
-Take a look at the all new NVIDIA Isaac GR00T humanoid AI robot. NVIDIA is accelerating the future of humanoid robotics with ...
+Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
 
-📺 REC Anything
+📺 VisionX Lab
 
-👁️ 118K • 👍 740 • 💬 103 • ⏱️ 9:37 • 1d ago
+👁️ 264K • 👍 3K • 💬 310 • ⏱️ 0:11 • 3d ago
 
 ---
 
@@ -287,6 +247,46 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 📺 DPCcars
 
 👁️ 2.2M • 👍 14K • 💬 2K • ⏱️ 4:06 • 6d ago
+
+---
+
+**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
+
+OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
+
+📺 MACHINEKIND
+
+👁️ 23K • 👍 402 • 💬 35 • ⏱️ 13:33 • 22h ago
+
+---
+
+**[Toyota’s 400,000-Robot Plan: Is It Taking on Tesla and China? | Firstpost Explains](https://www.youtube.com/watch?v=Egf4fBLfRk4)**
+
+In this video, Firstpost explains Toyota's ambitious plan to enter the humanoid robot race against Tesla and Chinese ...
+
+📺 Firstpost
+
+👁️ 9K • 👍 20 • 💬 3 • ⏱️ 7:48 • 9h ago
+
+---
+
+**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
+
+Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
+
+📺 MACHINEKIND
+
+👁️ 19K • 👍 221 • 💬 34 • ⏱️ 13:25 • 4d ago
+
+---
+
+**[Nvidia Microduck AI Robots are mind blowing - World Premiere and First Look](https://www.youtube.com/watch?v=ac6pspFbPsI)**
+
+Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was joined onstage at GTC Berlin 2026 by four ...
+
+📺 REC Anything
+
+👁️ 1.8M • 👍 11K • 💬 1K • ⏱️ 8:29 • 6d ago
 
 ---
 
