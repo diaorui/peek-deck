@@ -8,10 +8,10 @@
       "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
       "url": "https://github.com/Zagitta/gpu-unlock",
       "preview_image": "https://opengraph.githubassets.com/4d44381103a947606a6023253fd6286b34b60f7afa3a43f5ad7742736e3f6c41/Zagitta/gpu-unlock",
-      "stars": 11543,
-      "stars_display": "11.5k",
-      "forks": 1134,
-      "forks_display": "1.1k",
+      "stars": 11852,
+      "stars_display": "11.9k",
+      "forks": 1156,
+      "forks_display": "1.2k",
       "language": "C",
       "topics": [],
       "updated_at": "2026-10-27T23:09:01Z"
@@ -24,13 +24,13 @@
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
       "preview_image": "https://opengraph.githubassets.com/75b35ef50192fa95b30c5b0573e5dfe529ef04fea74253690ff53e0ca33e3245/CopilotKit/OpenDots",
-      "stars": 6090,
+      "stars": 6109,
       "stars_display": "6.1k",
-      "forks": 887,
-      "forks_display": "887",
+      "forks": 890,
+      "forks_display": "890",
       "language": "TypeScript",
       "topics": [],
-      "updated_at": "2026-10-26T15:39:40Z"
+      "updated_at": "2026-10-28T07:12:19Z"
     },
     {
       "full_name": "omlahore/RemoveMacAI",
@@ -40,10 +40,10 @@
       "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "preview_image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
-      "stars": 5415,
+      "stars": 5432,
       "stars_display": "5.4k",
-      "forks": 156,
-      "forks_display": "156",
+      "forks": 157,
+      "forks_display": "157",
       "language": "Swift",
       "topics": [
         "ai-blocker",
@@ -52,7 +52,7 @@
         "cli",
         "debloat"
       ],
-      "updated_at": "2026-10-27T08:33:27Z"
+      "updated_at": "2026-10-28T10:08:29Z"
     },
     {
       "full_name": "QingYunA/answer-me-with-html",
@@ -62,10 +62,10 @@
       "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "preview_image": "https://opengraph.githubassets.com/f751caee15a46d51a2a7a833d972810532db9048fb0a18ca517e88ad6613117f/QingYunA/answer-me-with-html",
-      "stars": 4557,
+      "stars": 4574,
       "stars_display": "4.6k",
-      "forks": 312,
-      "forks_display": "312",
+      "forks": 314,
+      "forks_display": "314",
       "language": "JavaScript",
       "topics": [
         "agent-skill",
@@ -84,10 +84,10 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "preview_image": "https://opengraph.githubassets.com/6b52771731dc5a2e478f00d501e5ca69d9dedf14a7b8f516b1d9796faa736ab1/onehumanbeing/esp32-iphone-agent",
-      "stars": 4027,
+      "stars": 4038,
       "stars_display": "4.0k",
-      "forks": 532,
-      "forks_display": "532",
+      "forks": 534,
+      "forks_display": "534",
       "language": "C",
       "topics": [
         "ai-agent",
@@ -96,7 +96,7 @@
         "computer-use",
         "esp32"
       ],
-      "updated_at": "2026-10-27T13:19:02Z"
+      "updated_at": "2026-10-28T07:40:06Z"
     },
     {
       "full_name": "nykooi1/vibe-wise",
@@ -106,35 +106,13 @@
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
       "preview_image": "https://opengraph.githubassets.com/d4f66f25aab8b3034bf4767c86b55318703022c74710cc4f0be99b5e85418c0a/nykooi1/vibe-wise",
-      "stars": 4004,
+      "stars": 4012,
       "stars_display": "4.0k",
-      "forks": 159,
-      "forks_display": "159",
+      "forks": 160,
+      "forks_display": "160",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-10-09T09:37:21Z"
-    },
-    {
-      "full_name": "Folkbench/folkbench",
-      "name": "folkbench",
-      "owner": "Folkbench",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/336879625?v=4",
-      "description": "AI API \u4e2d\u8f6c\u7ad9\u8bc4\u6d4b\u6392\u884c\u4e0e\u5207\u6362\u5de5\u5177\uff1a\u5b9e\u6d4b\u53ef\u7528\u7387\u3001\u5ef6\u8fdf\u4e0e\u4ef7\u683c \u00b7 Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
-      "url": "https://github.com/Folkbench/folkbench",
-      "preview_image": "https://opengraph.githubassets.com/44255c4dfb46381f4789ce2dc024f76d1e4dbf3faf07959f54fc96c1aca05d32/Folkbench/folkbench",
-      "stars": 3797,
-      "stars_display": "3.8k",
-      "forks": 21,
-      "forks_display": "21",
-      "language": "Rust",
-      "topics": [
-        "ai",
-        "api-relay",
-        "api-relay-pricing",
-        "benchmark",
-        "benchmarks"
-      ],
-      "updated_at": "2026-10-26T17:32:01Z"
     },
     {
       "full_name": "rddmwmddr/android-ad-cleaner",
@@ -144,10 +122,10 @@
       "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "preview_image": "https://opengraph.githubassets.com/90ae0a75a3e9c38cd8d52a7d12f46bcd5561230371bacc791c758845c57ae397/rddmwmddr/android-ad-cleaner",
-      "stars": 3593,
-      "stars_display": "3.6k",
-      "forks": 308,
-      "forks_display": "308",
+      "stars": 3987,
+      "stars_display": "4.0k",
+      "forks": 362,
+      "forks_display": "362",
       "language": "Python",
       "topics": [
         "adb",
@@ -156,7 +134,29 @@
         "coloros",
         "debloat"
       ],
-      "updated_at": "2026-10-28T04:09:04Z"
+      "updated_at": "2026-10-28T06:13:08Z"
+    },
+    {
+      "full_name": "Folkbench/folkbench",
+      "name": "folkbench",
+      "owner": "Folkbench",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/336879625?v=4",
+      "description": "AI API \u4e2d\u8f6c\u7ad9\u8bc4\u6d4b\u6392\u884c\u4e0e\u5207\u6362\u5de5\u5177\uff1a\u5b9e\u6d4b\u53ef\u7528\u7387\u3001\u5ef6\u8fdf\u4e0e\u4ef7\u683c \u00b7 Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
+      "url": "https://github.com/Folkbench/folkbench",
+      "preview_image": "https://opengraph.githubassets.com/44255c4dfb46381f4789ce2dc024f76d1e4dbf3faf07959f54fc96c1aca05d32/Folkbench/folkbench",
+      "stars": 3830,
+      "stars_display": "3.8k",
+      "forks": 22,
+      "forks_display": "22",
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "api-relay",
+        "api-relay-pricing",
+        "benchmark",
+        "benchmarks"
+      ],
+      "updated_at": "2026-10-28T07:55:32Z"
     },
     {
       "full_name": "openfilm/openfilm",
@@ -166,10 +166,10 @@
       "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
       "url": "https://github.com/openfilm/openfilm",
       "preview_image": "https://opengraph.githubassets.com/6004db075bb4e192996527b9322b422e36a974ad879c7ef819dc5d65335eef12/openfilm/openfilm",
-      "stars": 3214,
-      "stars_display": "3.2k",
-      "forks": 300,
-      "forks_display": "300",
+      "stars": 3273,
+      "stars_display": "3.3k",
+      "forks": 308,
+      "forks_display": "308",
       "language": "TypeScript",
       "topics": [
         "ai-video",
@@ -178,7 +178,7 @@
         "coding-agents",
         "html"
       ],
-      "updated_at": "2026-10-26T23:05:03Z"
+      "updated_at": "2026-10-28T08:36:03Z"
     },
     {
       "full_name": "Leonxlnx/earshot",
@@ -188,10 +188,10 @@
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "preview_image": "https://opengraph.githubassets.com/bfb72f0aa533890323d43000bbc580bf8f78bf6c276176428d4d82d88c37de83/Leonxlnx/earshot",
-      "stars": 3061,
+      "stars": 3094,
       "stars_display": "3.1k",
-      "forks": 188,
-      "forks_display": "188",
+      "forks": 191,
+      "forks_display": "191",
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -207,6 +207,6 @@
   "search_query": "ai created:>2026-09-28",
   "days": 30,
   "limit": 10,
-  "total_count": 478102,
-  "fetched_at": "2026-10-28T04:23:04.152264+00:00"
+  "total_count": 483449,
+  "fetched_at": "2026-10-28T10:44:24.595039+00:00"
 }
