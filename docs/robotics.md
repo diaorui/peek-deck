@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-28T04:23:36.861506+00:00'
+updated: '2026-10-28T10:46:13.757957+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 28, 2026 at 04:23 UTC  
+**Last Updated:** October 28, 2026 at 10:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ I’m starting a master’s in two months, working on vision-guided grasping and
 
 Took me a while to work up the nerve to dig into the sloth-speed-servo bug since my last post. Firmware debugging never fails to scare the heck out of me, phew... Turns out the culprit was the latency from reading servo position/velocity/effort values, technically the trademark of smart servos like ST3215. Each read took like 3–5 ms for three servos, and it looks like synchronous read isn't supported yet in the ST3215 C++ SMS_STS library. Does anyone know if it already exists somewhere? For now, feedback reading is disabled on Wouf. With ST3215 servos, although the servo speed is still lower than the Dynamixels used in Doggo, Wouf is walking much faster than expected! And yeah, I think I messed up the turning algorithm again somehow, lol Still, I think this is a good sign that the ST3215-based design can work for a walking robot, and I really like their mechanical sound. Will work on summarizing the build in the next few days. May not have the read function (basically input for reinforcement learning) at the moment though, depending on how difficult it is to develop the sync read firmware. GitHub: https://github.com/SphericalCowww/CubicDoggo_07B
 
-2d ago
+3d ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 **[Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation)**
 
-Bloomberg • 8h ago
+Bloomberg • 15h ago
 
 ---
 
@@ -130,7 +130,7 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 **[In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans](https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html)**
 
-The New York Times • 19h ago
+The New York Times • 1d ago
 
 ---
 
@@ -138,7 +138,7 @@ The New York Times • 19h ago
 
 Spacewalking tools and a pair of robotics jobs topped Tuesday’s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear.
 
-NASA (.gov) • 8h ago
+NASA (.gov) • 15h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Business Journals • 1d ago
 
 AI stock Zebra Technologies is near a pivot after a 58% gain year-to-date. Third-quarter earnings are due Nov. 3.
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -160,7 +160,7 @@ Investor's Business Daily • 10h ago
 
 A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets.
 
-Kyiv Post • 14h ago
+Kyiv Post • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Kyiv Post • 14h ago
 
 ‘Robots should not merely replicate human forms but surpass human physical limits,’ says NeodraDynamics founder
 
-Yahoo • 10h ago
+Yahoo • 17h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo • 10h ago
 
 Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration.
 
-Business Insider • 17h ago
+Business Insider • 23h ago
 
 ---
 
@@ -192,73 +192,33 @@ Interesting Engineering • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
-
-OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
-
-📺 MACHINEKIND
-
-👁️ 5K • 👍 177 • 💬 13 • ⏱️ 13:33 • 5h ago
-
----
-
 **[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
 
 Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
 
 📺 VisionX Lab
 
-👁️ 247K • 👍 7K • 💬 398 • ⏱️ 0:59 • 2d ago
+👁️ 312K • 👍 9K • 💬 452 • ⏱️ 0:59 • 2d ago
 
 ---
 
-**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
+**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
 
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
-
-📺 InsideAI
-
-👁️ 2.1M • 👍 38K • 💬 4K • ⏱️ 15:05 • 2d ago
-
----
-
-**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
-
-Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
+OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
 
 📺 MACHINEKIND
 
-👁️ 19K • 👍 217 • 💬 34 • ⏱️ 13:25 • 4d ago
+👁️ 16K • 👍 273 • 💬 24 • ⏱️ 13:33 • 11h ago
 
 ---
 
-**[New NVIDIA Isaac GR00T humanoid AI Robot is mind blowing - World Premiere](https://www.youtube.com/watch?v=C3CeYOOYzXw)**
+**[Robot Dog Entered the Lion&#39;s Territory... Big Mistake?!](https://www.youtube.com/watch?v=eZQo7KqJy8c)**
 
-Take a look at the all new NVIDIA Isaac GR00T humanoid AI robot. NVIDIA is accelerating the future of humanoid robotics with ...
+What happens when a robot dog walks into the world of lions? In today's episode of Wild Clash, the mightiest and most curious ...
 
-📺 REC Anything
+📺 Wild Clash
 
-👁️ 85K • 👍 560 • 💬 80 • ⏱️ 9:37 • 1d ago
-
----
-
-**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
-
-The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
-
-📺 DPCcars
-
-👁️ 61K • 👍 543 • 💬 166 • ⏱️ 2:30 • 6d ago
-
----
-
-**[China Sets New Guinness World Record as 110 Humanoid Robots Dance in Perfect Synchronization | AI1B](https://www.youtube.com/watch?v=y-Iy1AsIM9I)**
-
-China has set a new Guinness World Record as 110 full-size humanoid robots performed synchronized dance routines in Jinan, ...
-
-📺 DRM News
-
-👁️ 44K • 👍 111 • 💬 54 • ⏱️ 1:21 • 1d ago
+👁️ 1.1M • 👍 8K • 💬 601 • ⏱️ 8:40 • 3d ago
 
 ---
 
@@ -268,7 +228,57 @@ AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots.
 
 📺 NVIDIA
 
-👁️ 262K • 👍 4K • 💬 178 • ⏱️ 2:40 • 6d ago
+👁️ 264K • 👍 4K • 💬 179 • ⏱️ 2:40 • 6d ago
+
+---
+
+**[This Tiny AI Robot Has 20,000+ Preorders! 🤖🦆 #Microduck #AI #robotics](https://www.youtube.com/watch?v=7dOhc_N-7iU)**
+
+A tiny robot that walks like a duck, follows commands, performs somersaults, and even tries to get back up after falling!
+
+📺 Ankit Pandey
+
+👁️ 3K • 👍 70 • ⏱️ 1:12 • 23h ago
+
+---
+
+**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
+
+Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
+
+📺 MACHINEKIND
+
+👁️ 19K • 👍 218 • 💬 34 • ⏱️ 13:25 • 4d ago
+
+---
+
+**[NEW Unitree H2-X Kung Fu Robot Shows Incredible Power](https://www.youtube.com/watch?v=Z3_7Bmf6CqE)**
+
+The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredible strength, martial arts skills, and ...
+
+📺 DPCcars
+
+👁️ 61K • 👍 544 • 💬 166 • ⏱️ 2:30 • 6d ago
+
+---
+
+**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
+
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
+
+📺 InsideAI
+
+👁️ 2.1M • 👍 39K • 💬 4K • ⏱️ 15:05 • 2d ago
+
+---
+
+**[Microduck robots go viral at NVIDIA GTC 2026 #robots #microduck #nvidia](https://www.youtube.com/watch?v=tYROJBVwt5M)**
+
+Hugging Face says it's sold more than 4000 of its Microducks since their viral appearance during Jensen Huang's NVIDIA GTC ...
+
+📺 Kalil 4.0
+
+👁️ 115K • 👍 846 • 💬 32 • ⏱️ 0:34 • 4d ago
 
 ---
 
@@ -276,17 +286,7 @@ AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots.
 
 📺 ShanghaiEye魔都眼
 
-👁️ 112K • 👍 738 • 💬 333 • ⏱️ 1:01 • 3d ago
-
----
-
-**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
-
-NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
-
-📺 DPCcars
-
-👁️ 2.1M • 👍 14K • 💬 2K • ⏱️ 4:06 • 6d ago
+👁️ 113K • 👍 739 • 💬 336 • ⏱️ 1:01 • 4d ago
 
 ---
 
