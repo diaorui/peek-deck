@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 155,
+      "upvotes": 157,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
@@ -58,25 +58,6 @@
       "project_page": null
     },
     {
-      "id": "2508.16279",
-      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
-      "authors": "Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Driven by rapid advancements of Large Language Models (LLMs), agents are\nempowered to combine intrinsic knowledge with dynamic tool use, greatly\nenhancing their capacity to address real-world tasks. In line with such an\nevolution, AgentScope introduces major improvements in a new version (1.0),\ntowards comprehensively supporting flexible and efficient tool-based\nagent-environment interactions for building agentic applications. Specifically,\nwe abstract foundational components essential for agentic applications and\nprovide unified interfaces and extensible modules, enabling developers to\neasily leverage the latest progress, such as new models and MCPs. Furthermore,\nwe ground agent behaviors in the ReAct paradigm and offer advanced agent-level\ninfrastructure based on a systematic asynchronous design, which enriches both\nhuman-agent and agent-agent interaction patterns while improving execution\nefficiency. Building on this foundation, we integrate several built-in agents\ntailored to specific practical scenarios. AgentScope also includes robust\nengineering support for developer-friendly experiences. We provide a scalable\nevaluation module with a visual studio interface, making the development of\nlong-trajectory agentic applications more manageable and easier to trace. In\naddition, AgentScope offers a runtime sandbox to ensure safe agent execution\nand facilitates rapid deployment in production environments. With these\nenhancements, AgentScope provides a practical foundation for building scalable,\nadaptive, and effective agentic applications.",
-      "ai_summary": "AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.",
-      "hf_url": "https://huggingface.co/papers/2508.16279",
-      "arxiv_url": "https://arxiv.org/abs/2508.16279",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.16279.png",
-      "upvotes": 71,
-      "num_comments": 4,
-      "published_at": "2025-08-22T06:35:56.000Z",
-      "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 34535,
-      "project_page": null
-    },
-    {
       "id": "2407.17789",
       "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
       "authors": "Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)",
@@ -92,7 +73,26 @@
       "num_comments": 2,
       "published_at": "2024-07-25T01:50:46.000Z",
       "github_repo": "https://github.com/modelscope/agentscope",
-      "github_stars": 34522,
+      "github_stars": 34625,
+      "project_page": null
+    },
+    {
+      "id": "2508.16279",
+      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
+      "authors": "Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Driven by rapid advancements of Large Language Models (LLMs), agents are\nempowered to combine intrinsic knowledge with dynamic tool use, greatly\nenhancing their capacity to address real-world tasks. In line with such an\nevolution, AgentScope introduces major improvements in a new version (1.0),\ntowards comprehensively supporting flexible and efficient tool-based\nagent-environment interactions for building agentic applications. Specifically,\nwe abstract foundational components essential for agentic applications and\nprovide unified interfaces and extensible modules, enabling developers to\neasily leverage the latest progress, such as new models and MCPs. Furthermore,\nwe ground agent behaviors in the ReAct paradigm and offer advanced agent-level\ninfrastructure based on a systematic asynchronous design, which enriches both\nhuman-agent and agent-agent interaction patterns while improving execution\nefficiency. Building on this foundation, we integrate several built-in agents\ntailored to specific practical scenarios. AgentScope also includes robust\nengineering support for developer-friendly experiences. We provide a scalable\nevaluation module with a visual studio interface, making the development of\nlong-trajectory agentic applications more manageable and easier to trace. In\naddition, AgentScope offers a runtime sandbox to ensure safe agent execution\nand facilitates rapid deployment in production environments. With these\nenhancements, AgentScope provides a practical foundation for building scalable,\nadaptive, and effective agentic applications.",
+      "ai_summary": "AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.",
+      "hf_url": "https://huggingface.co/papers/2508.16279",
+      "arxiv_url": "https://arxiv.org/abs/2508.16279",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.16279.png",
+      "upvotes": 71,
+      "num_comments": 4,
+      "published_at": "2025-08-22T06:35:56.000Z",
+      "github_repo": "https://github.com/agentscope-ai/agentscope",
+      "github_stars": 34627,
       "project_page": null
     },
     {
@@ -122,7 +122,7 @@
       "organization_fullname": "Tencent Hunyuan",
       "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
       "summary": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. Our central design aligns structured video captions with action-aware causal attention: descriptive context remains accessible across segments, while action instructions are restricted to their intended temporal windows. A vision-language Prompt Enhancer (PE) translates user requests and multimodal interaction histories into structured conditions for the next segment. A multi-stage curriculum progressively introduces causal generation, text interaction, camera control, and training on model-generated histories, followed by diffusion distillation. In human evaluation, Hy-Nomas shows superior performance over existing world models. We release model weights, code and benchmarks, together with a lightweight adaptation workflow, to support reproducible research on interactive world generation.",
-      "ai_summary": "Hy-Nomas is a video world model that uses causal attention and structured captions to follow multi-turn text and camera instructions while preserving interaction history.",
+      "ai_summary": "Hy-Nomas is a video world model that uses causal attention and structured conditioning to generate interactive, multi-turn video segments with text and camera control.",
       "hf_url": "https://huggingface.co/papers/2610.36729",
       "arxiv_url": "https://arxiv.org/abs/2610.36729",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.36729.png",
@@ -187,11 +187,11 @@
       "num_comments": 1,
       "published_at": "2026-10-03T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/Prism",
-      "github_stars": 1409,
+      "github_stars": 1440,
       "project_page": "https://francis-rings.github.io/Prism/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-28T17:00:30.263111+00:00"
+  "fetched_at": "2026-10-28T21:36:40.394700+00:00"
 }
