@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-28T17:01:01.047166+00:00",
+  "data": "LFM3-1.7B is a 1.73B parameter text model optimized for edge devices and local agents, featuring a 256K context window and multi-language support. It excels at agentic tasks, tool calling, and domain-specific fine-tuning, with low memory requirements (approx. 1GB at 4-bit precision).",
+  "model_id": "LiquidAI/LFM3-1.7B"
+}

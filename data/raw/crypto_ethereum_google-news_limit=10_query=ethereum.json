@@ -5,74 +5,94 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "What Would Have to Happen for Ethereum to Hit $5,000?",
+      "headline": "Crypto giants double down on bitcoin and ethereum",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVG5pUTVueWpqU05SQUswUVNzRTgyeU82ZmxCR0JJa1BxZ2tjMXItUkZ1WVhxR2kyVFRQZ0lveXZMaXRqYmRIN3BqS1lISng0Y3Y1eXpsaVRUeDhBUmI3LWhTQ0R5ZVQ0cy1XUTBza2U4WHYxajZUbG0yVXdzb0I5d3puUFZwc01uYmhmVndlelFmLWN2?oc=5",
-      "pub_date": 1793151060.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/happen-ethereum-hit-5-000-013144142.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0ce5de1cb56e8a044bbb4370847fef51b44094c81fd7aca4d6d52e076ca55468/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ffb05c176e84e46d17c9d72795ca93486.jpg",
-      "description": "Ethereum has never closed above $5,000, and right now the forces that could push it there are moving in the wrong direction. Here is what needs to change before that target becomes realistic."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRoazJKRmEtT1JCQWFjQjc5ZDhvSFU2eEhpcG9ZNmpmSk8xNEIxNU9yZkFSbUJFUnFudmZJWXpPRmlucFpEdGNRcUdLWnJhRjkwZG5IUEI4RjI4Y3FFbE51c0VfUXpvdG4yaEh3Q0RKY1c2M1dZcGVCWXB3QlVWTm1kX0RwM1hacXNNNkVCbEx2X1NxUXJpZHRJV28?oc=5",
+      "pub_date": 1793030400.0,
+      "article_url": "https://finance.yahoo.com/video/crypto-giants-double-down-on-bitcoin-and-ethereum-185113565.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/286558519ab5878f33c892effe073041641771d2ba80319b0b20179d611ec721/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F8a1c9460-81c3-11f0-be46-2d1b24fbf1f4",
+      "description": "Scott Melker breaks down the latest movements in the crypto sector, including Strategy (MSTR) repurchasing $205M of its own stock (STRC), Strive's (ASST) biggest-ever purchase of 6,182 bitcoin (BTC-USD), and Bitmine (BMNR) buying 10,452 ethereum (ETH-USD) as it approaches its stated 5% goal.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
     },
     {
-      "headline": "ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+      "headline": "Current price of Ethereum for October 28, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qUlM0QmRDX1QySlZCSzJySDAyMTctQkpKMjhqeTRxTzVEWi1ldFJfYlRPX3lPZEVXRHFQczJ1c3FwN0tpV2xESXJJRTFIdE10SEVTUjY4SFdpRzMwOFhudG9LN0ZqVEkw?oc=5",
+      "pub_date": 1793189700.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-28-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-28.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGVmQWFIYkx4RHpka2U2OF9ZeDBRSkVoM2g0bmFHa3RsODJPcXVHLVNwYmRjaWZuN1ZKa05VcUJZTUt6YmV0d0hjU2g3OXdCdmxRb0Y2ZVNlQzZUSXVLVFJnUTJDNWtrWHFjMnFpc01VVTdtb1lTNFpEd1VzSHBLVk45bkN6Y09CdDRLc1p0U0hhV1ktS0w4ZnhvU1VNQUdlY2xVYWJZbTg0TF9YNG9MazlmSklrN1E0SDd5OWV3?oc=5",
-      "pub_date": 1793088654.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade."
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1M3U2Qzd0UwMDJ1RVJDWXdXQ2k0M1NZSnFKd2l2d1hXNGVIUHZRUU9TVHRIdDI3bkxLWmdKNklyeWU0T3NrZDJIaWhaLUFralFUTG4tSEEtamZtSUJkQVl1ZXF2d20zVXRNZHZLRFdLdnRuMGZFdWJENVFZejlYanR4aVFRQlJkVEhmemFuM2RCaGZad2M4Umt0ZFN3Zjk5T08xd0FsMzJuOEJoZjhhRlM0QU1mdUNhNTZoSHV6aw?oc=5",
+      "pub_date": 1793030712.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
     },
     {
-      "headline": "Most big cryptocurrencies fall on Sui, Ethereum drops",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQazI0ZkVnLXR0aFl5VXdUWW1ZdC03WU9yTlNHR3dwQ2FPMWRsREJVbGJMLXBtTV9zYklYbzE5ZVYtbktLbVl4ZkNpakZUTC1BQTVXMmFQd0lIZWs0cEttMlUtSzhwVldCaFNxaWc2Y0JiaE9uT3k4cERVa19sbTdfT1B4OWNQT1l2VlBEelZfTUFibDJHenZVOGhta0JSMWY2cVNoODgtazFIU1ZlZk5iMXNR?oc=5",
-      "pub_date": 1793023200.0,
-      "article_url": "https://www.marketwatch.com/data-news/most-big-cryptocurrencies-fall-on-sui-ethereum-drops-8c9e448b-6821903d8382",
+      "headline": "This Venture Capitalist Thinks Solana Will Surpass Ethereum During the Next Bull Market Cycle. Here's Why He's Wrong.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3M2ZURBWkI1bEE0RFIta2xWRC1VaEdTSHhkVVRKeGMtRWlzQ3RDRnpFeC1VcFBJMUFFQ3l0NXctdms2dzFoRXczZmlwRmZ6aHFCaC1VOEFIbU9nTHUwMENTeEw2UTBPaElmX0pzYTh5Z1NWLVYtMEZlaTF2M2IwQUVhbzJjVzYydkR2TXBvN2hMcTlZdS1J?oc=5",
+      "pub_date": 1793185200.0,
+      "article_url": "https://www.fool.com/investing/2026/10/28/venture-capitalist-thinks-solana-surpass-ethereum/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888711%2Fyoung-colleagues-checking-their-crypto-investment-app-getty-images.jpg&w=1200&op=resize",
+      "description": "The two blockchain networks have been rivals for years."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Rise Ahead of Fed Rate Decision: Analyst Says BTC Headed for 'New Highs' If It Flips This Level",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNemk2QlFxamR3R2VlU3VFQXlhMXUzRG1RN3VXTmJhOFE3Y2k5RHkteTlFbUJ6azR1MC1sSVRuNUlFSUI4NWktMDM1OF9ZS0YybDlSd182R25rTTlfV1dtY1c3QnJWaVdwR2wwT2RHX0hiQVVXdXhKd013eXVQb0pNc29GUjI4WklQdDR4TGhEMkVWekkySVBSLWRHLTQ0Rnc2eXFUVWQ0SElqWTRVQVRITGw3cXA0bkZ5V1lsZGRLQld2SFRkV0hTaUtkLUlqd3cxWEQ0SHdZUmJ1Nkl6ZXZoU0ItOFhUSlZLSDhfb0VXdG1Da0VmQUs0bUJwVVdLbVBmMWxqdl9sSFhUc1BpV0E?oc=5",
+      "pub_date": 1793152380.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:af312c1f2094b:0-bitcoin-ethereum-xrp-dogecoin-rise-ahead-of-fed-rate-decision-analyst-says-btc-headed-for-new-highs-if-it-flips-this-level/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies rose alongside stocks on Tuesday, buoyed by investor focus on the Kevin Warsh-led Federal Reserve\u2019s interest-rate decision and weaker oil prices.Crypto Market GainsBitcoin hit an intraday high of $81,159 before meeting strong resistance, while Ethereum traded sideways in th\u2026"
+    },
+    {
+      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP recover as Big Tech earnings take center stage",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOFFFNTAyVVRtLTV2a091T3U3SGx2TDRRZ0otRVVaTjVZMTJubVNxZVFyQ0JuLWtGcl9MWlRqNEFxTXBKZDNlZXktVzRrYlp1ajlMVlVKU05GdlB1Y1otUXVSOTZGSHBqcWRscmlzcURyMVM4V21ZYUZoTHFablpSY3lZWHItZHNVLXlTcS1XV0QtckVMUWYwbEhaMXlJVjAybDg4QjhzOWFYUUp2RXdnYkVlRi1GTEtMd1hhRFdKeGQtM05lVEJId0ZVeVFpcG44Vlk3U3Z2cmJ5S1JueHphTUpfMGxWRFRWUkxJOW5PTFJNZzgtRm9ORlY3LXdsYkU?oc=5",
+      "pub_date": 1793158692.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-recover-as-big-tech-earnings-take-center-stage-202610280338",
       "image": null,
       "description": null
     },
     {
-      "headline": "Current price of Ethereum for October 27, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sUjhfaWRUb1VzRGMxYjFFQktVU0ExOTZIV2x0UXdRRXNoS3l2bDFjR19wcVVGZkl4NjAyWGxWWVlsTVNPSTJLQ0NQTUE0cTBNYl9hak8wYk1YNkZUcENpd2VmejNMMUZK?oc=5",
-      "pub_date": 1793106900.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-27-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-27.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOby1qdDgzeFRaVnpKMTZBMGNqR1ZUdDRVQ1lqT2FGMnppcWd5anpKQ2dZM01pcERJZlRSVnVKdGlrZ3FZQ3M5VFpsaUQ4cnptM2lFbGlWT3E4RGNsWmNSdU04UEJpN01OX05jbWV0M2NkejFHUDZ1cHZNcHlKZV8tNmhtRXlXNEFqYk5GakNKWDhwb3lidUR1RERfLTdsN3B6Tl8teVh1dC11MkRaZk1ITHNlcmMtanQ5MkY5QmVqc0FncmNk?oc=5",
+      "pub_date": 1792971000.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2345815779-scaled.jpg",
+      "description": "Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need."
     },
     {
-      "headline": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2ZxTGJVUlRJeThncndBQXhIN0ZfNExqNzI5RFJBY2JtSEZhdXFpeXN0R1kxVl80amtLUktqR2hVR2FjalNBTDVKbEZ1c2MteHhpOV9DY0ZhTUdKbkRUeVdJU2wyc0dQUGJ1Z0dFUTV2Zk9tMFRXU1FQOTd3QlllQ3UtSmg?oc=5",
-      "pub_date": 1793028963.0,
-      "article_url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg",
-      "description": "Bitmine Immersion Technologies kept its weekly Ethereum buying streak intact, adding 10,452 ETH worth roughly $24 million."
+      "headline": "Ethereum developers fix staking deposit flaw ahead of Glamsterdam upgrade",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMG15Tzh1NmhKa01KeFZ2anhYSGFobkh3OWU3VWxfVlZCZGg3U2ZvZnlqaVhrOGZJT0ZPMVdBV3BLMHdQTHVpd2U1LVVKZEFiNFJ4cms4YnVWU1J0b1NpcXBFckhBMWx4OHlGOTV3Z3VoV0x2N2ZfcWpVMW5MdHdrU2NmTE1zQWd6eXNRQWZwUzhTdjZCM1pYN3lIRlg?oc=5",
+      "pub_date": 1793114318.0,
+      "article_url": "https://ambcrypto.com/ethereum-developers-fix-staking-deposit-flaw-ahead-of-glamsterdam-upgrade/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/10/Adewale-1-16-e1793114147453.webp",
+      "description": "A fix initially set aside has been added to Ethereum\u2019s upgrade specifications after further review and testing."
     },
     {
-      "headline": "Ethereum ICO Whale: Final 7,594 ETH Sent to Kraken",
+      "headline": "Ethereum: Breaking Upwards After First Level Hit",
       "source": "Blockchain News",
       "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0NzZk82NWI5VkNGb292MF9GQnpaRVltQkZTWTUxQkRYbThVeXh1ekFXQW1pTzBoTGkxT05ydzZvaHpWYlg3MHBldnY2WVhzanVYS0FKZ1FoVFBjRDUxWFVTMTh0azFCM2hUMW9WbjM0ejhrb1RjV25BR1VCb0tnWHd2X2VBcG8?oc=5",
-      "pub_date": 1793122680.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-ico-whale-final-7-594-eth-sent-kraken",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEpIbzhfR1ZZaV8zRGpzQklzd2otVlB3N24tY1ZBUnFQUjBIVzRlb3IybEgxSnhpWEtEOGl1R3VrWUNVYkZmbzJJNUszdWhfMDl4TXVmXy1zaEotQWNETmd4bFBlZDlvd3NoUHotY0RpTndJblpKdEhwQU5Sa2NpTU1Rd0prNjF2?oc=5",
+      "pub_date": 1793151420.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-breaking-upwards-after-first-level-hit",
       "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "@EmberCN reports that an early Ethereum ICO participant has transferred the last 7,594 ETH valued at $17.79 million to Kraken, completing liquidation of a..."
-    },
-    {
-      "headline": "Crypto News: AlphaPepe To Announce New CEX Partner In 4 Days While Ethereum Price Prediction Points To $3,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNU0w3MGNVa2xRTTRhWmR4dVNzV1pSdkdHWkJmWHVuQjVhYjBFQ2RweXlyLWFYT01Qb3c2ZU5SRGNQcTRwZmlXekExUW84NndrMXIwSFFNdWZTd1RXTnd0MTM0SWR1eUhvLVJzUEhxeFZaTlBXU2lQeEZRcmJhRWltU3RwaHEtUFh0b3BlN3FjWDZOUl9yTzFvcFRRUWFudlo5TXJUeFBoaU9lNkRHUFkyX19yQ0ttSm1tMlV0ejZxbjgyMGFlXzhjY3hPcjBhb3FSZ0dmQngzNEw4UWJqa1BvRWJzY0Q0X1BsTUFGaUtrSHFTSVkyTS1XdHVn?oc=5",
-      "pub_date": 1793069429.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-to-announce-new-cex-partner-in-4-days-while-ethereum-price-prediction-points-to-3-000-1036668146",
-      "image": "https://ml.globenewswire.com/Resource/Download/039312d3-8b9a-475d-9318-92fa06464182/alphapepe.jpg",
-      "description": "MONACO, Oct.  26, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward\u00a0AlphaPepe as the countdown to its next CEX partnership enters the final ..."
+      "description": "Micha\u00ebl van de Poppe reports that Ethereum has hit its first level and is breaking upwards for $ETH, with markets now at the optimal sweet spot to hold and..."
     },
     {
       "headline": "Ethereum Foundation seeks protocol feedback to sharpen EIP development",
@@ -83,28 +103,8 @@
       "article_url": "https://cryptobriefing.com/ethereum-foundation-eip-feedback-hegota-upgrade/",
       "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/27113852/library-ethereum-foundation-seeks-protocol-feedback-to-sharpen-e-800x450.png",
       "description": "Ethereum Foundation seeks app developer feedback on EIPs to align the L1 protocol roadmap with real-world needs ahead of the Hegot\u00e1 upgrade."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Rise Ahead of Fed Rate Decision: Analyst Says BTC Headed for 'New Highs'",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVZIQkR4SHE5RGVZRnlzZ2c2NF9JalB3UE56UzdacGt5QVRaUmxPd3U4dDV2R1doSS1oeUQ2NEdhNTVKWUxoaUEySGxnUHNRb0JtR2tQRDlwOGMwX1FyYjNHNFEtX0JqMUNBSThEMWVJZ29ieUZVX0J2V1UwdUFmOFlTakUyR3BUUS0ybmhGdFdza3RTZUpsYkx4alRrbHdVYnlNRmZSRXJBLWJQVjl6aUlCTQ?oc=5",
-      "pub_date": 1793152436.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62642612/bitcoin-ethereum-xrp-dogecoin-crypto-market-recap-2",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum Inactivity Leak: Why 4 Epochs Trigger Penalties",
-      "source": "FinanceFeeds",
-      "source_url": "https://financefeeds.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kUm1sMXJqczNQQk9vbDdFeENYTU41U0kwLXFVNWRQSXBfbTlSY0ozNDlXTTYzLXQwSFNYLWN4OXJGd0pjTjlrclI4cG1tdno2QWpkdkpKY0s2TVR0MFdKejJheHpKMjVGc1pRaDZzUXBGUQ?oc=5",
-      "pub_date": 1793119400.0,
-      "article_url": "https://financefeeds.com/what-is-an-inactivity-leak-in-ethereum/",
-      "image": "https://financefeeds.com/wp-content/uploads/2026/10/Gemini_Generated_Image_hpvpx4hpvpx4hpvp-1000x558.jpg",
-      "description": "An Ethereum inactivity leak drains inactive validators' balances after 4+ epochs without finality, until the network regains two-thirds stake to finalize."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-28T04:23:32.855629+00:00"
+  "fetched_at": "2026-10-28T17:00:49.382226+00:00"
 }

@@ -9,7 +9,7 @@
       "url": "https://stealmybitcoin.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50224916",
       "author": "cloudlandsdev",
-      "points": 619,
+      "points": 622,
       "num_comments": 450,
       "created_at": "2026-10-24T20:30:31Z",
       "object_id": "50224916",
@@ -89,6 +89,20 @@
       "site_name": "GitHub"
     },
     {
+      "title": "Show HN: Everything ever written into Bitcoin, decoded from the transactions",
+      "url": "https://writteninbitcoin.com/en",
+      "hn_url": "https://news.ycombinator.com/item?id=50272842",
+      "author": "DeclassFile",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-10-28T12:58:41Z",
+      "object_id": "50272842",
+      "image": "https://writteninbitcoin.com/og/page/en/home.png",
+      "description": "Explore messages, images, videos, PDF and audio written into Bitcoin. Search by date, source and format, or prepare your own Ordinals inscription.",
+      "favicon": "https://writteninbitcoin.com/apple-icon.png?apple-icon.36vbven18o3wj.png?dpl=w91",
+      "site_name": "Written in Bitcoin"
+    },
+    {
       "title": "Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can",
       "url": "https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285",
       "hn_url": "https://news.ycombinator.com/item?id=50245177",
@@ -103,26 +117,12 @@
       "site_name": "gizmodo.com"
     },
     {
-      "title": "Cost-Bounded Bitcoin Transaction Filtering Language",
-      "url": "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966",
-      "hn_url": "https://news.ycombinator.com/item?id=50183504",
-      "author": "epochbtc",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-10-21T16:20:21Z",
-      "object_id": "50183504",
-      "image": "https://delvingbitcoin.org/uploads/default/optimized/2X/d/d7b00ce8ea71abd2430c0c7ebef164165a514e17_2_1024x512.png",
-      "description": "I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...",
-      "favicon": "https://delvingbitcoin.org/uploads/default/optimized/1X/863d31b22a9d4d4072777bffb9b9ded86a1638bc_2_180x180.svg",
-      "site_name": "Delving Bitcoin"
-    },
-    {
       "title": "Why Micron Is Suddenly Ditching 4F\u00b2 DRAM as Rivals Double Down",
       "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
       "hn_url": "https://news.ycombinator.com/item?id=50245014",
       "author": "rbanffy",
-      "points": 168,
-      "num_comments": 26,
+      "points": 179,
+      "num_comments": 30,
       "created_at": "2026-10-26T15:05:04Z",
       "object_id": "50245014",
       "image": "https://images.hothardware.com/contentimages/newsitem/71935/content/16x9_2133x1200_highres-micron-boise-fab-photo.jpg",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-10-28T10:44:25.713048+00:00"
+  "fetched_at": "2026-10-28T17:00:28.692087+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-28T10:46:13.754711+00:00'
+updated: '2026-10-28T17:01:02.189185+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 28, 2026 at 10:46 UTC  
+**Last Updated:** October 28, 2026 at 17:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,347.10
+### $2,362.42
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** -0.8%  
-**30d:** -11.5%  
-**90d:** +27.2%  
-**1y:** -39.4%  
+**24h:** -0.4%  
+**7d:** -2.3%  
+**30d:** -12.8%  
+**90d:** +25.3%  
+**1y:** -40.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $289.05B
+**Market Cap:** $285.07B
 Rank #2
 
 **Circulating Supply:** 122,170,166 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.2%
+-52.8%
 
 **All-Time Low:** $0.43
-+546365.3%
++538852.2%
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 4d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 5d ago
 
 ---
 
@@ -144,7 +144,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-5d ago
+6d ago
 
 ---
 
@@ -152,57 +152,75 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[What Would Have to Happen for Ethereum to Hit $5,000?](https://finance.yahoo.com/markets/crypto/articles/happen-ethereum-hit-5-000-013144142.html)**
+**[Crypto giants double down on bitcoin and ethereum](https://finance.yahoo.com/video/crypto-giants-double-down-on-bitcoin-and-ethereum-185113565.html)**
 
-Ethereum has never closed above $5,000, and right now the forces that could push it there are moving in the wrong direction. Here is what needs to change before that target becomes realistic.
+Scott Melker breaks down the latest movements in the crypto sector, including Strategy (MSTR) repurchasing $205M of its own stock (STRC), Strive's (ASST) biggest-ever purchase of 6,182 bitcoin (BTC-USD), and Bitmine (BMNR) buying 10,452 ethereum (ETH-USD) as it approaches its stated 5% goal.
 
-Yahoo Finance • 9h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
-
-**[ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders](https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders)**
-
-Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.
-
-CoinDesk • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Most big cryptocurrencies fall on Sui, Ethereum drops](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-fall-on-sui-ethereum-drops-8c9e448b-6821903d8382)**
-
-MarketWatch • 1d ago
-
----
-
-**[Current price of Ethereum for October 27, 2026](https://fortune.com/article/price-of-ethereum-10-27-2026/)**
+**[Current price of Ethereum for October 28, 2026](https://fortune.com/article/price-of-ethereum-10-28-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 21h ago
+Fortune • 4h ago
 
 ---
 
-**[Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks](https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks)**
+**[Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up](https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines)**
 
-Bitmine Immersion Technologies kept its weekly Ethereum buying streak intact, adding 10,452 ETH worth roughly $24 million.
+The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.
 
-Decrypt • 1d ago
-
----
-
-**[Ethereum ICO Whale: Final 7,594 ETH Sent to Kraken](https://blockchain.news/flashnews/ethereum-ico-whale-final-7-594-eth-sent-kraken)**
-
-@EmberCN reports that an early Ethereum ICO participant has transferred the last 7,594 ETH valued at $17.79 million to Kraken, completing liquidation of a...
-
-Blockchain News • 17h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Crypto News: AlphaPepe To Announce New CEX Partner In 4 Days While Ethereum Price Prediction Points To $3,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-to-announce-new-cex-partner-in-4-days-while-ethereum-price-prediction-points-to-3-000-1036668146)**
+**[This Venture Capitalist Thinks Solana Will Surpass Ethereum During the Next Bull Market Cycle. Here's Why He's Wrong.](https://www.fool.com/investing/2026/10/28/venture-capitalist-thinks-solana-surpass-ethereum/)**
 
-MONACO, Oct.  26, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe as the countdown to its next CEX partnership enters the final ...
+The two blockchain networks have been rivals for years.
 
-markets.businessinsider.com • 1d ago
+The Motley Fool • 6h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise Ahead of Fed Rate Decision: Analyst Says BTC Headed for 'New Highs' If It Flips This Level](https://www.tradingview.com/news/benzinga:af312c1f2094b:0-bitcoin-ethereum-xrp-dogecoin-rise-ahead-of-fed-rate-decision-analyst-says-btc-headed-for-new-highs-if-it-flips-this-level/)**
+
+Leading cryptocurrencies rose alongside stocks on Tuesday, buoyed by investor focus on the Kevin Warsh-led Federal Reserve’s interest-rate decision and weaker oil prices.Crypto Market GainsBitcoin hit an intraday high of $81,159 before meeting strong resistance, while Ethereum traded sideways in th…
+
+TradingView • 15h ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP recover as Big Tech earnings take center stage](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-recover-as-big-tech-earnings-take-center-stage-202610280338)**
+
+FXStreet • 13h ago
+
+---
+
+**[Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?](https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/)**
+
+Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need.
+
+24/7 Wall St. • 2d ago
+
+---
+
+**[Ethereum developers fix staking deposit flaw ahead of Glamsterdam upgrade](https://ambcrypto.com/ethereum-developers-fix-staking-deposit-flaw-ahead-of-glamsterdam-upgrade/)**
+
+A fix initially set aside has been added to Ethereum’s upgrade specifications after further review and testing.
+
+AMBCrypto • 1d ago
+
+---
+
+**[Ethereum: Breaking Upwards After First Level Hit](https://blockchain.news/flashnews/ethereum-breaking-upwards-after-first-level-hit)**
+
+Michaël van de Poppe reports that Ethereum has hit its first level and is breaking upwards for $ETH, with markets now at the optimal sweet spot to hold and...
+
+Blockchain News • 15h ago
 
 ---
 
@@ -210,21 +228,7 @@ markets.businessinsider.com • 1d ago
 
 Ethereum Foundation seeks app developer feedback on EIPs to align the L1 protocol roadmap with real-world needs ahead of the Hegotá upgrade.
 
-Crypto Briefing • 19h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise Ahead of Fed Rate Decision: Analyst Says BTC Headed for 'New Highs'](https://www.benzinga.com/crypto/cryptocurrency/26/10/62642612/bitcoin-ethereum-xrp-dogecoin-crypto-market-recap-2)**
-
-Benzinga • 8h ago
-
----
-
-**[Ethereum Inactivity Leak: Why 4 Epochs Trigger Penalties](https://financefeeds.com/what-is-an-inactivity-leak-in-ethereum/)**
-
-An Ethereum inactivity leak drains inactive validators' balances after 4+ epochs without finality, until the network regains two-thirds stake to finalize.
-
-FinanceFeeds • 18h ago
+Crypto Briefing • 1d ago
 
 ---
 
@@ -232,13 +236,13 @@ FinanceFeeds • 18h ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
+**[⚠️ Ethereum ETFs Still Selling - ETH Crypto Analysis](https://www.youtube.com/watch?v=QCptec2hKQ0)**
 
-Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Software: ...
 
-📺 Dr. Samuel Allen Alexander
+📺 Bitcoin Strategy
 
-👁️ 36K • 👍 489 • 💬 193 • ⏱️ 34:10 • 19h ago
+👁️ 932 • 👍 24 • 💬 12 • ⏱️ 10:06 • 5h ago
 
 ---
 
@@ -248,57 +252,27 @@ BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no
 
 📺 Yahoo Finance
 
-👁️ 22K • 👍 256 • 💬 148 • ⏱️ 14:51 • 1d ago
+👁️ 23K • 👍 259 • 💬 151 • ⏱️ 14:51 • 2d ago
 
 ---
 
-**[Raoul Pal :&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=s5ML9SCXElE)**
+**[URGENT BITCOIN UPDATE: WATCH BEFORE FED MEETING TODAY!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YdX662MQJjk)**
 
-Raoul Pal believes crypto may be entering a much bigger phase as AI, global liquidity, and blockchain infrastructure begin to ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 164 • 💬 24 • ⏱️ 24:09 • 2d ago
-
----
-
-**[Is $2,000 Ethereum Next? 8 Crypto Charts In 8 Minutes](https://www.youtube.com/watch?v=xmD2fbeICxA)**
-
-Bitcoin just lost its parallel channel. Is a $2000 Ethereum next? Nick Valdez of Verified Investing runs through eight crypto charts ...
-
-📺 Verified Investing
-
-👁️ 9K • 👍 239 • 💬 7 • ⏱️ 8:04 • 1d ago
-
----
-
-**[Ethereum vs Bitcoin: What Altcoins Need Right Now](https://www.youtube.com/watch?v=SoiOcGcqLuI)**
-
-Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we track, only seven did better. So when will altcoins ...
-
-📺 More Crypto Online
-
-👁️ 16K • 👍 321 • 💬 17 • ⏱️ 13:01 • 2d ago
-
----
-
-**[BITCOIN FLIPPED: WATCH BEFORE TOMORROW (Fed Meeting)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SzL2tRj0BMw)**
-
-BITCOIN FLIPPED: WATCH BEFORE TOMORROW (Fed Meeting)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+URGENT BITCOIN UPDATE: WATCH BEFORE FED MEETING TODAY!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 10K • 👍 306 • 💬 46 • ⏱️ 24:25 • 14h ago
+👁️ 7K • 👍 228 • 💬 48 • ⏱️ 19:00 • 6h ago
 
 ---
 
-**[Will Ethereum Crash Below $2K? ETH Price Collapse To $1K Next? Ethereum Price Prediction 2026 ALERT](https://www.youtube.com/watch?v=2br6YQAdWcs)**
+**[HUGE ETHEREUM UPDATES BULL RUN 2026! OpenAI??](https://www.youtube.com/watch?v=PenIICTEd4E)**
 
-Is Ethereum Dumping? In this video, we analyze Ethereum price trends, technical indicators, and expert forecasts. Whether you're ...
+Is Ethereum (ETH) undervalued or falling behind? OpenAI's “ETH is false” announcement sparked a crypto Twitter frenzy, while ...
 
-📺 Hard Core Crypto
+📺 Altcoin Buzz
 
-👁️ 202 • 👍 2 • ⏱️ 3:26 • 2d ago
+👁️ 382 • 👍 27 • 💬 2 • ⏱️ 9:20 • 3h ago
 
 ---
 
@@ -308,27 +282,57 @@ Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get 
 
 📺 BULLRUNNERS
 
-👁️ 2K • 👍 46 • 💬 25 • ⏱️ 15:18 • 12h ago
+👁️ 3K • 👍 49 • 💬 25 • ⏱️ 15:18 • 19h ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3V5ddrnS8SU)**
+**[ETH HOLDERS: The Biggest Company Buyer Of ETH Is Almost Done Stacking. Who Holds Up Your FLOOR?](https://www.youtube.com/watch?v=nEeO1P1lNGE)**
 
-BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/ded7dc93 Connect With Us: Email: Team@bullrunners.com ...
 
-📺 Crypto World
+📺 BULLRUNNERS
 
-👁️ 13K • 👍 331 • 💬 56 • ⏱️ 18:54 • 1d ago
+👁️ 1K • 👍 10 • 💬 1 • ⏱️ 11:35 • 1d ago
 
 ---
 
-**[How Ethereum Grows Without a Center | Aya Miyaguchi and Tomo Saito at Pragma Tokyo 2026](https://www.youtube.com/watch?v=QlLaUM6dKlk)**
+**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
 
-Ethereum Foundation leaders Aya Miyaguchi and Tomo Saito discuss how Ethereum can grow without a central authority while ...
+Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
 
-📺 ETHGlobal
+📺 Dr. Samuel Allen Alexander
 
-👁️ 172 • 👍 2 • ⏱️ 20:45 • 1d ago
+👁️ 39K • 👍 522 • 💬 211 • ⏱️ 34:10 • 1d ago
+
+---
+
+**[👾 Sommi Meets A Genius (Discuss Ethereum)](https://www.youtube.com/watch?v=yzCkVgUPlv4)**
+
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 3K • 👍 228 • 💬 20 • ⏱️ 12:45 • 2d ago
+
+---
+
+**[IF YOU HOLD XRP, SOL, ETH OR INJ YOU MUST WATCH NOW...](https://www.youtube.com/watch?v=BNc7u-wtaoE)**
+
+Uphold | Your XRP, Working Harder Than Ever ▸ Sign Up to Uphold: https://uphold.com/sensei ▸ Earn XRP Rewards: 4% Elite ...
+
+📺 Crypto Sensei
+
+👁️ 19K • 👍 614 • 💬 76 • ⏱️ 16:45 • 2d ago
+
+---
+
+**[ETH Squeeze to $2,387 Left 282 Shorts Soaking Wet #Shorts](https://www.youtube.com/watch?v=riFscS-6k84)**
+
+Overnight squeeze on Ethereum: between 1 and 2 AM PT on Oct 28, OKX ETH perps force-closed 282 short positions worth about ...
+
+📺 Hunter Killer
+
+👁️ 1 • ⏱️ 0:14 • 2h ago
 
 ---
 
