@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-28T10:46:13.748528+00:00'
+updated: '2026-10-28T17:01:02.182503+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 28, 2026 at 10:46 UTC  
+**Last Updated:** October 28, 2026 at 17:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,540.70
+### $80,537.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +0.1%  
-**30d:** -2.5%  
-**90d:** +29.7%  
-**1y:** -26.0%  
+**24h:** -0.1%  
+**7d:** -1.0%  
+**30d:** -3.7%  
+**90d:** +28.2%  
+**1y:** -26.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1636.93B
+**Market Cap:** $1618.91B
 Rank #1
 
-**Circulating Supply:** 20,104,778 BTC
+**Circulating Supply:** 20,104,884 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.4%
+-36.1%
 
 **All-Time Low:** $67.81
-+119978.2%
++118676.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not one government currency has preserved its purchasing power over the past decade.](https://www.reddit.com/r/Bitcoin/comments/1xde1vw/not_one_government_currency_has_preserved_its/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The McRib Rally Is Back The McRib Rally Is Back
 
-4d ago
+5d ago
 
 ---
 
@@ -95,7 +95,7 @@ The McRib Rally Is Back The McRib Rally Is Back
 
 Available in every Swiss post office
 
-4d ago
+5d ago
 
 ---
 
@@ -103,13 +103,13 @@ Available in every Swiss post office
 
 sheeesh lol
 
-🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 4d ago
+🔗 [ccn.com](https://www.ccn.com/news/crypto/chamath-bitcoin-zero-standard-chartered-doubles-crypto/) • 5d ago
 
 ---
 
 **[Which one of you is it?](https://www.reddit.com/r/Bitcoin/comments/1xdcilp/which_one_of_you_is_it/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -143,7 +143,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 My father works as an engraver of medals. Some time ago, he was commissioned to engrave a medal for a woman whose son had passed away—the woman was a foreigner, incidentally. The medal had to feature a specific logo, which the woman explained to my father was "Bitcoin" (though he doesn’t recall the details very clearly, as it was quite a long time ago). Recently, he came across the logo and showed it to me. We aren’t certain exactly when this request was made, but it was definitely between 10 and 20 years ago. Could this be one of the earliest versions of the Bitcoin logo? And is it possible that the woman’s son was one of the creators of Bitcoin, or someone who played a significant role in its development?
 
-4d ago
+5d ago
 
 ---
 
@@ -151,59 +151,9 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 ## Google News: "bitcoin"
 
-**[Why Now Is the Time to Add and Hold BTC](https://www.galaxy.com/insights/research/why-now-bitcoin-buy-hold-2026)**
+**[Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC](https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc)**
 
-We believe the bottom is in. Selling pressure has diminished, the debasement case has strengthened, and the crowd has left.
-
-Galaxy • 1d ago
-
----
-
-**[Cathie Wood sells Bitcoin, buys $5.2 million of sinking stock](https://www.thestreet.com/crypto/investing/cathie-wood-sells-bitcoin-buys-5-2-million-of-sinking-stock)**
-
-TheStreet • 20h ago
-
----
-
-**[BTC, ETH price news: Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%](https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8)**
-
-Majors outpaced bitcoin across the board as tech stocks extended a climb.
-
-CoinDesk • 6h ago
-
----
-
-**[Tom Lee Sees ‘One of the Biggest Rallies of Our Lifetime’ as $10.8B Bitcoin Options Expiry Looms](https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-one-biggest-123215921.html)**
-
-Tom Lee’s bullish market outlook faces a near-term test as roughly $10.8 billion in Deribit Bitcoin options approach expiry. BlackRock’s IBIT attracted $110.3 million on…
-
-Yahoo Finance • 22h ago
-
----
-
-**[‘I thought I had to pay it’: Elderly Gresham man gives scammers $40K in bitcoin after falling victim to phone trick](https://www.koin.com/local/multnomah-county/i-thought-i-had-to-pay-it-elderly-gresham-man-gives-scammers-40k-in-bitcoin-after-falling-victim-to-phone-trick/)**
-
-KOIN.com • 13h ago
-
----
-
-**[Bitcoin’s Road to $100,000 Is Crowded With Would-Be Sellers](https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers)**
-
-Bloomberg • 11h ago
-
----
-
-**[Separation of assets: Thieves beat ex, take $10K and Bitcoin-stuffed tablet in Capitol Hill heist](https://www.capitolhillseattle.com/2026/10/separation-of-assets-thieves-beat-ex-take-10k-and-bitcoin-stuffed-tablet-in-capitol-hill-heist/)**
-
-Police say an early-morning apartment robbery on Capitol Hill netted a pair of thieves $10,000 in cash and a tablet tied to nearly $250,000 in cryptocurrency — a target the victim said was li…
-
-CHS Capitol Hill Seattle News • 17h ago
-
----
-
-**[Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244)**
-
-Investing.com • 18h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -211,15 +161,65 @@ Investing.com • 18h ago
 
 The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.
 
-The Block • 7h ago
+The Block • 14h ago
 
 ---
 
-**[JPMorgan Chase Says That Bitcoin Will Outperform Stocks, Bonds, and Gold Over the Next 10 Years. Here's Why It Might Be Right](https://www.fool.com/investing/2026/10/27/jpmorgan-chase-says-that-bitcoin-will-outperform-s/)**
+**[Fed Rate Decision: What Markets and Bitcoin Traders Can Expect](https://finance.yahoo.com/markets/crypto/articles/fed-rate-decision-markets-bitcoin-151534908.html)**
 
-The banking giant is still pretty skeptical about Bitcoin.
+The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends](https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision)**
+
+CoinDesk • 54m ago
+
+---
+
+**[Bitcoin’s Road to $100,000 Is Crowded With Would-Be Sellers](https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers)**
+
+Bloomberg.com • 18h ago
+
+---
+
+**[Bitcoin Mining Firm Luxor Raises $16 Million To Scale AI Compute Trading And Hardware](https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million)**
+
+Luxor, a bitcoin miner turned AI compute firm, raised $16 million led by CMT Digital to expand its AI hardware brokerage and compute trading business.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[2027 Bitcoin Long-Term Capital Market Assumptions](https://bitwiseinvestments.com/crypto-market-insights/2027-bitcoin-long-term-capital-market-assumptions)**
+
+Bitwise’s forecasts for BTC’s price, volatility, and correlations through 2036.
+
+Bitwise Investments • 3h ago
+
+---
+
+**[Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244)**
+
+Investing.com • 1d ago
+
+---
+
+**[Separation of assets: Thieves beat ex, take $10K and Bitcoin-stuffed tablet in Capitol Hill heist](https://www.capitolhillseattle.com/2026/10/separation-of-assets-thieves-beat-ex-take-10k-and-bitcoin-stuffed-tablet-in-capitol-hill-heist/)**
+
+Police say an early-morning apartment robbery on Capitol Hill netted a pair of thieves $10,000 in cash and a tablet tied to nearly $250,000 in cryptocurrency — a target the victim said was li…
+
+CHS Capitol Hill Seattle News • 23h ago
+
+---
+
+**['Just a shareholder' Vivek Ramaswamy's Strive Inc. ties, Bitcoin bet](https://www.cincinnati.com/story/news/politics/2026/10/26/vivek-ramaswamy-firm-strive-inc-influence-controlled-company-investor/92274576007/)**
+
+Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics.
+
+Cincinnati Enquirer • 2d ago
 
 ---
 
@@ -231,7 +231,7 @@ The Motley Fool • 1d ago
 
 A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.
 
-⬆️ 619 • 💬 450 • 3d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
+⬆️ 622 • 💬 450 • 3d ago • [stealmybitcoin.com](https://stealmybitcoin.com/)
 
 ---
 
@@ -253,7 +253,7 @@ A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 0 • 20h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 0 • 1d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -261,7 +261,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.
 
-⬆️ 2 • 💬 1 • 18h ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
+⬆️ 2 • 💬 1 • 1d ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
 
 ---
 
@@ -269,21 +269,21 @@ The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Hea
 
 Contribute to escache/bitcoin-puzzle-methods development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 14h ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
+⬆️ 2 • 💬 0 • 20h ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
+
+---
+
+**[Show HN: Everything ever written into Bitcoin, decoded from the transactions](https://news.ycombinator.com/item?id=50272842)**
+
+Explore messages, images, videos, PDF and audio written into Bitcoin. Search by date, source and format, or prepare your own Ordinals inscription.
+
+⬆️ 1 • 💬 0 • 4h ago • [Written in Bitcoin](https://writteninbitcoin.com/en)
 
 ---
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50245177)**
 
-⬆️ 1 • 💬 0 • 1d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
-
----
-
-**[Cost-Bounded Bitcoin Transaction Filtering Language](https://news.ycombinator.com/item?id=50183504)**
-
-I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...
-
-⬆️ 1 • 💬 0 • 6d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
+⬆️ 1 • 💬 0 • 2d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -291,13 +291,13 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.
 
-⬆️ 168 • 💬 26 • 1d ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+⬆️ 179 • 💬 30 • 2d ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 
 ---
 
 **[Ask HN: Any founders want to trade pitch practice and customer interviews?](https://news.ycombinator.com/item?id=50265028)**
 
-⬆️ 2 • 💬 0 • 14h ago
+⬆️ 2 • 💬 0 • 20h ago
 
 ---
 
@@ -311,17 +311,7 @@ Michael Saylor: Buying Bitcoin at $80k today is like buying it at $30k in 2023. 
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 81 • ⏱️ 10:30 • 11h ago
-
----
-
-**[Bitcoin Holders: Pay Attention To What’s Happening Right Now](https://www.youtube.com/watch?v=X2JtLszBxuE)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Trade on BTCC & 10% ...
-
-📺 Aaron Bennett
-
-👁️ 4K • 👍 178 • 💬 10 • ⏱️ 11:19 • 7h ago
+👁️ 55K • 👍 2K • 💬 95 • ⏱️ 10:30 • 17h ago
 
 ---
 
@@ -331,27 +321,37 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 225 • 💬 33 • ⏱️ 15:06 • 12h ago
+👁️ 6K • 👍 247 • 💬 35 • ⏱️ 15:06 • 18h ago
 
 ---
 
-**[Bitcoin + Fed 🏦Proxies, Exchange Bal, Uptober Cancelled? 📉FSD, Cerebras x ORCL🚀](https://www.youtube.com/watch?v=E1wIfL8qMU4)**
+**[The reason Bitcoin can&#39;t break $80K](https://www.youtube.com/watch?v=LMrjhRBHFhs)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+Why is Bitcoin plateauing? Two factors are weighing on it: institutions want regulatory clarity before they invest, and quantum ...
 
-📺 InvestAnswers
+📺 Kevin O'Leary
 
-👁️ 41K • 👍 2K • 💬 81 • ⏱️ 23:52 • 14h ago
+👁️ 10K • 👍 194 • 💬 23 • ⏱️ 1:27 • 13h ago
 
 ---
 
-**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
+**[BITCOIN: It’s FOMC Day! ($76,000 next?) - BTC Price Prediction Today](https://www.youtube.com/watch?v=9ptdhKCiMQ0)**
 
-Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
+Want a free $5040 bonus + $20 just for signing up? Go here: ...
 
-📺 Simply Bitcoin
+📺 BitcoinHyper
 
-👁️ 35K • 👍 1K • 💬 84 • ⏱️ 13:36 • 2d ago
+👁️ 5K • 👍 320 • 💬 20 • ⏱️ 13:27 • 5h ago
+
+---
+
+**[BITCOIN TRADERS: IT IS HAPPENING...](https://www.youtube.com/watch?v=15AAw73U_M0)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+
+📺 Crypto Rover
+
+👁️ 13K • 👍 622 • 💬 28 • ⏱️ 10:04 • 9h ago
 
 ---
 
@@ -361,17 +361,37 @@ Before You Buy the Crypto Dip, WATCH THIS!! ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 2K • 💬 107 • ⏱️ 11:13 • 2d ago
+👁️ 71K • 👍 2K • 💬 108 • ⏱️ 11:13 • 2d ago
 
 ---
 
-**[Bitcoin to ZERO? JPMorgan&#39;s Big Prediction, California Billionaires Flee | News Block](https://www.youtube.com/watch?v=-4HnQK1q9Pk)**
+**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
 
-Chamath says Bitcoin is going to ZERO, while JPMorgan predicts it will outperform every major asset over the next decade.
+Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
 
-📺 Natalie Brunell
+📺 Simply Bitcoin
 
-👁️ 37K • 👍 793 • 💬 75 • ⏱️ 10:30 • 1d ago
+👁️ 35K • 👍 1K • 💬 85 • ⏱️ 13:36 • 2d ago
+
+---
+
+**[🚨 Bitcoin’s MAKE OR BREAK Moment Is Here (This Is What Failure Looks Like)](https://www.youtube.com/watch?v=nB5dtxNGcKQ)**
+
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ Make or break for crypto: the ...
+
+📺 Crypto Capital Venture
+
+👁️ 18K • 👍 491 • 💬 68 • ⏱️ 11:43 • 2d ago
+
+---
+
+**[$500M Bitcoin Buy🔥Strive CEO on Corporate Trade Returning](https://www.youtube.com/watch?v=XR0FkG2A0uI)**
+
+Strive just bought 6182 bitcoin, about $511M, its largest purchase ever. Strive CEO Matt Cole joins to explain how the company ...
+
+📺 Paul Barron Network
+
+👁️ 47K • 👍 910 • 💬 24 • ⏱️ 29:17 • 1d ago
 
 ---
 
@@ -381,27 +401,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 168K • 👍 4K • 💬 291 • ⏱️ 32:21 • 2d ago
-
----
-
-**[(HERE IT COMES) This Has Happened 19 Out Of 19 Times. Crypto Holders Get Ready For 2027.](https://www.youtube.com/watch?v=wCQnv_T7hDw)**
-
-CCV Risk Models & Intelligence System - Start your free trial: https://app.cryptocapitalventure.ai/ Crypto in 2027 could be setting ...
-
-📺 Crypto Capital Venture
-
-👁️ 31K • 👍 842 • 💬 88 • ⏱️ 11:33 • 2d ago
-
----
-
-**[AI Is Breaking The Internet! Will It Send Bitcoin to Zero?](https://www.youtube.com/watch?v=gwKZjLdVjWw)**
-
-A wave of reported AI-driven cyberattacks has Bitcoiners questioning the security of banks, internet infrastructure, and the entire ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 1K • 💬 115 • ⏱️ 51:18 • 2d ago
+👁️ 170K • 👍 4K • 💬 292 • ⏱️ 32:21 • 2d ago
 
 ---
 
