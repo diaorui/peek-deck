@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-28T04:23:32.855265+00:00",
+  "data": {
+    "url": "https://financefeeds.com/what-is-an-inactivity-leak-in-ethereum/",
+    "title": "Ethereum Inactivity Leak: Why 4 Epochs Trigger Penalties",
+    "description": "An Ethereum inactivity leak drains inactive validators' balances after 4+ epochs without finality, until the network regains two-thirds stake to finalize.",
+    "image": "https://financefeeds.com/wp-content/uploads/2026/10/Gemini_Generated_Image_hpvpx4hpvpx4hpvp-1000x558.jpg",
+    "favicon": "https://cdn-iledkkd.nitrocdn.com/JgVqWxjBXAxXZqxnJHbtcSOOAHYjFqOB/assets/images/optimized/rev-4646117/financefeeds.com/wp-content/uploads/2024/06/cropped-FF-logo-favicon-180x180.png",
+    "site_name": "FinanceFeeds",
+    "author": null,
+    "keywords": null
+  }
+}
