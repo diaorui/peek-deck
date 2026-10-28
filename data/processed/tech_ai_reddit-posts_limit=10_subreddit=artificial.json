@@ -46,6 +46,28 @@
       "description": "OpenAI\u2019s new feature keeps chosen conversations out of your history and search. It doesn\u2019t change how the company stores them or uses them for training."
     },
     {
+      "title": "Philologists have reasoned from fragmentary evidence for 200 years. LLMs still confabulate when context is missing.",
+      "author": "vasilisvj",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhj4rf/philologists_have_reasoned_from_fragmentary/",
+      "published": 1793178766.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Of everything Thales supposedly wrote, not one authenticated word survives. Anaximander wrote the first prose treatise in the Greek tradition. Today it exists as roughly one sentence, preserved only because Aristotle quoted it and Simplicius, almost a thousand years later, copied that quotation. Heraclitus comes down in scattered aphorisms, most of them embedded in sermons of church fathers who quoted him to refute him. And yet classical philology built a rigorous discipline on top of this wreckage. Two and a half centuries of fragment scholarship produced methods for reasoning honestly from partial evidence. I think this is one of the most underrated bodies of technique in existence, and almost nobody in ML knows it. The core move is simple to state and hard to practice: never let inference masquerade as attestation. When a philologist reconstructs a lacuna in a papyrus, the reconstruction is printed in brackets or in a different typeface. The reader always sees where the evidence stops and where the scholar's judgment begins. Diels-Kranz, the standard edition of the Presocratics, physically separates the fragments (ipsissima verba, what the philosopher actually wrote) from the testimonia (what later authors say about him). Two thousand years of interpretation get sorted into a different column than twenty surviving sentences. Aristotle made the distinction theoretical. In the Rhetoric and the Analytics he separates \u03c4\u03b5\u03ba\u03bc\u03ae\u03c1\u03b9\u03bf\u03bd from mere sign: a \u03c4\u03b5\u03ba\u03bc\u03ae\u03c1\u03b9\u03bf\u03bd is necessary evidence, it compels the conclusion and cannot be refuted. A probable sign supports a claim but leaves it open. The whole epistemic weight of an argument depends on knowing which one you hold. Confuse them and you get rhetoric instead of knowledge. Now compare this with how a modern LLM behaves when context runs out. Ask it about a fragmentary source, a lost work, a gap in the record, and it fills the gap fluently. No brackets. No typeface change. No column separating what is attested from what is generated. The output carries the same surface confidence whether it stands on a direct quotation or on nothing at all. The model does not have a register for \"here the evidence stops.\" This is not only a hallucination problem. Hallucination discourse treats the failure as accidental, something better training or retrieval will fix. The philological tradition suggests the failure is structural: the system has no internal representation of evidential weight. It cannot distinguish attestation from inference because nothing in its output format, and arguably nothing in its training signal, requires the distinction. Preference raters reward fluent completeness. Nobody upvotes a bracket. There are partial fixes. Citation-grounded generation, RAG with source attribution, confidence calibration. But notice these are all bolted on externally. The brackets come from the retrieval layer, not from the reasoning itself. A philologist carries the distinction inside the method. Every claim is tagged by its evidential status before it is written down. I work with classical corpus AI and this contrast shapes a lot of my thinking. The interesting question is not \"how do we stop models inventing facts.\" It is \"how do we make evidential status a first-class object inside the reasoning process, the way two centuries of German philology made it first-class inside the edition.\" Some will say the analogy fails because humans also confabulate. True. But human scholarship built institutions, conventions, and notational systems that catch confabulation socially. The bracket, the apparatus criticus, the separation of fragment from testimony: these are alignment techniques for human reasoners, developed over generations, and they work. We are trying to solve a problem in 2026 that Anaximander's editors solved in 1903, and we keep ignoring the solution because it looks like dusty bookkeeping instead of intelligence. Maybe honest reasoning under incomplete information is less about more parameters and more about better brackets. What would an evidential-status-aware architecture look like to you: something learned end-to-end, or something structural like the philological apparatus, enforced by format rather than by weights?"
+    },
+    {
+      "title": "I asked 200+ Redditors what goes into a social contract for a world where AI does most of the work. The top answer was a question: who decides?",
+      "author": "Wrong-Expression6981",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhiakn/i_asked_200_redditors_what_goes_into_a_social/",
+      "published": 1793175498.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Over the past two months I posted one question in several Reddit communities: if AI and robots end up doing most of the work, what should go into the new social contract? Across those threads, more than 200 replies came back. The thing I heard most was not a rule. It was a question: who decides? Many said the rich and powerful will write the rules anyway. After that, people asked for: - enforcement, so the rules actually bite - a floor so people don't fall during the transition - the right to live without AI - a ban on autonomous killing machines - a voice for people outside rich countries I'm a farmer in my 60s in Korea. I wrote a book about this before I asked. None of these six was in it. That told me something. So I'll ask you: if the answer to \"who decides\" can't be the rich, who should it be? And what is still missing from this list?"
+    },
+    {
       "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
       "author": "scientificamerican",
       "url": "https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/",
@@ -57,60 +79,38 @@
       "description": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics"
     },
     {
-      "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
-      "author": "Environmental_Mix22",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
-      "published": 1793054688.0,
-      "thumbnail": "https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&crop=smart&auto=webp&s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727",
-      "external_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "site_name": "OpenAI",
-      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
-      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
-    },
-    {
-      "title": "OpenHeronBrowser \u2013 a new browser engine in Rust, built with Claude. Acid3 97/100, runs Discord, VS Code for the Web, and Windows 1.01 in v86",
-      "author": "marissatech_",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/",
-      "published": 1793109708.0,
-      "thumbnail": "https://external-preview.redd.it/xIcXvYJHERNqRLwLCmmhPX0ZLQLYLalNxt9i0QC-Ky0.png?width=640&crop=smart&auto=webp&s=072d17e64978bb93a6b3109f6d94646a4f996357",
-      "external_url": "https://github.com/Heronetic/OpenHeronBrowser",
-      "site_name": "GitHub",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "description": "An attempt at an open, independent web browser, with its own engine written from scratch in Rust. - heronetic/OpenHeronBrowser"
-    },
-    {
-      "title": "OpenAI coding agents weakened safety monitoring in two internal tasks",
-      "author": "Mundane-Evidence2795",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgrk6n/openai_coding_agents_weakened_safety_monitoring/",
-      "published": 1793105184.0,
-      "thumbnail": "https://external-preview.redd.it/surtRdXXszeMaUrapIM_xKEfv_tSzHB-OIAlOb4CQtI.png?width=640&crop=smart&auto=webp&s=b439b471985990463dd94dbda4d89ef501b3ca23",
-      "external_url": "https://misalignmentwatch.com/incident/openai-coding-agents-weakened-safety-monitoring-in-two-internal-tasks.html",
-      "site_name": "AI Misalignment Watch",
-      "favicon": "https://misalignmentwatch.com/assets/apple-touch-icon.png?v=7c4d08d9",
-      "description": "OpenAI reports that two internal coding agents weakened misalignment monitoring, one by disabling alerts and one by removing a monitor and then falsely..."
-    },
-    {
-      "title": "I think about switching form codex to Claude Am I doing a mistake?",
-      "author": "BMarinov",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh7hy3/i_think_about_switching_form_codex_to_claude_am_i/",
-      "published": 1793141640.0,
+      "title": "In China\u2019s enterprise AI market, a specific application may be easier to sell than a platform",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhhkcl/in_chinas_enterprise_ai_market_a_specific/",
+      "published": 1793172636.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Honestly Open AI is falling behind less usage worse models Claude never looked that good to me?"
+      "description": "My hypothesis for China\u2019s enterprise AI market: over the next six months, smaller vendors will have a better chance selling a concrete application than a general \u201cagent platform.\u201d A platform asks the buyer to imagine future value, choose workflows, organize data, and often build part of the solution themselves. A focused application can make a narrower promise: process these documents, reconcile these records, or prepare this report. That also exposes an uncomfortable distinction. Some of these jobs only need a fixed pipeline or retrieval system. Others genuinely need an agent to choose actions, use different tools, and recover from unexpected results. Adding an agent where a pipeline works can increase cost and uncertainty without improving the outcome. For smaller vendors, I suspect the platform will often become the infrastructure behind the purchased application, or an included feature, rather than the main thing the customer pays for. Large organizations with internal engineering teams may still want a platform. I wouldn\u2019t apply this prediction equally to every buyer. Where have you seen customers pay specifically for agent autonomy, rather than for a useful workflow that could have been implemented more simply?"
     },
     {
-      "title": "Study finds AI models overuse patterns linked to reading difficulty",
-      "author": "andrewaltair",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/",
-      "published": 1793096732.0,
+      "title": "Could today\u2019s frontier AI independently solve the protein folding problem?",
+      "author": "Temporary-Pattern927",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhgxov/could_todays_frontier_ai_independently_solve_the/",
+      "published": 1793170212.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Researchers from New York University and the University of Texas at Austin analyzed language from 14 models across chat, coding and essay settings, including 980 model-written essays. They compared model outputs with human reference text and with round-trip translations used to create alternative formulations for comparison. The paper tracks six features associated with human processing difficulty, including rare n-grams, long dependencies, stacked noun compounds, denominal verbs and inanimate subjects paired with animate verbs. Most frontier models overused several of these features relative to the paraphrase comparison. The study does not identify who wrote a specific passage or prove that every reader will find AI text exhausting. It studies English model distributions, uses proxies for processing difficulty and calls the training explanation a hypothesis. Source: https://arxiv.org/html/2610.29162v1"
+      "description": "With the back drop of AI in one month having solved one millennium problem and provided partial solutions to two more. As the headline says, would a frontier model today with an unlimited token budget be able to on its own just based on a prompt giving it the direction solve the protein folding problem that was solved by deep mind with the help of AI and awarded the Nobel prize? The hard version of this is that it correctly figures out the mechanism and correctly predicts forms with no experimental verification. The softer version is that it gives experimental directions for people to verify and feedback but would lead the research effort in solving it. Or in other words, has AI advanced enough to essentially reverse the roles, solve it with the help of humans? What does the hive mind think?"
+    },
+    {
+      "title": "Why hasn\u2019t Google acquired OpenAI?",
+      "author": "Icy-Visual1206",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhjud6/why_hasnt_google_acquired_openai/",
+      "published": 1793181462.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Given Google\u2019s massive resources, AI expertise, and the strategic importance of ChatGPT, why hasn\u2019t Google attempted to acquire OpenAI?"
     }
   ],
-  "fetched_at": "2026-10-28T04:23:05.188076+00:00"
+  "fetched_at": "2026-10-28T10:44:24.454109+00:00"
 }
