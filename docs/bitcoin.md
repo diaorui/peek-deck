@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-27T23:33:16.282311+00:00'
+updated: '2026-10-28T04:23:36.852147+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 27, 2026 at 23:33 UTC  
+**Last Updated:** October 28, 2026 at 04:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,912.85
+### $81,135.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -3.8%  
-**30d:** -3.1%  
-**90d:** +24.9%  
-**1y:** -28.3%  
+**24h:** +1.2%  
+**7d:** -0.6%  
+**30d:** -3.3%  
+**90d:** +28.7%  
+**1y:** -26.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1625.22B
+**Market Cap:** $1625.99B
 Rank #1
 
 **Circulating Supply:** 20,104,525 BTC
@@ -64,7 +64,7 @@ Rank #1
 -35.9%
 
 **All-Time Low:** $67.81
-+119105.1%
++119167.1%
 
 ---
 
@@ -135,7 +135,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[Touching grass will set you free from bitcoin 🍃](https://www.reddit.com/r/Bitcoin/comments/1xd3rzi/touching_grass_will_set_you_free_from_bitcoin/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -151,25 +151,45 @@ My father works as an engraver of medals. Some time ago, he was commissioned to 
 
 ## Google News: "bitcoin"
 
+**[Why Now Is the Time to Add and Hold BTC](https://www.galaxy.com/insights/research/why-now-bitcoin-buy-hold-2026)**
+
+We believe the bottom is in. Selling pressure has diminished, the debasement case has strengthened, and the crowd has left.
+
+Galaxy • 1d ago
+
+---
+
 **[Cathie Wood sells Bitcoin, buys $5.2 million of sinking stock](https://www.thestreet.com/crypto/investing/cathie-wood-sells-bitcoin-buys-5-2-million-of-sinking-stock)**
 
-TheStreet • 9h ago
+TheStreet • 14h ago
 
 ---
 
-**[Hyperliquid’s Biggest Traders Are Shorting Bitcoin for the First Time Since March. Could BTC Drop Below $75,000?](https://finance.yahoo.com/markets/crypto/articles/hyperliquid-biggest-traders-shorting-bitcoin-221947426.html)**
+**[BTC, ETH price news: Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%](https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8)**
 
-Hyperliquid's biggest Bitcoin traders just flipped short for the first time in months, but whether they're calling a crash or quietly protecting their bags changes everything about what happens next.
+Majors outpaced bitcoin across the board as tech stocks extended a climb.
 
-Yahoo Finance • 1h ago
+CoinDesk • 8m ago
 
 ---
 
-**[Is Bitcoin’s Bear Market Over? Galaxy Thinks It Might Be](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bear-market-over-galaxy-222134137.html)**
+**[Tom Lee Sees ‘One of the Biggest Rallies of Our Lifetime’ as $10.8B Bitcoin Options Expiry Looms](https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-one-biggest-123215921.html)**
 
-Galaxy Digital just declared the crypto winter over and told clients to buy Bitcoin now, but the price keeps sliding lower while major traders bet against it. Something does not add up.
+Tom Lee’s bullish market outlook faces a near-term test as roughly $10.8 billion in Deribit Bitcoin options approach expiry. BlackRock’s IBIT attracted $110.3 million on…
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 15h ago
+
+---
+
+**[‘I thought I had to pay it’: Elderly Gresham man gives scammers $40K in bitcoin after falling victim to phone trick](https://www.koin.com/local/multnomah-county/i-thought-i-had-to-pay-it-elderly-gresham-man-gives-scammers-40k-in-bitcoin-after-falling-victim-to-phone-trick/)**
+
+KOIN.com • 6h ago
+
+---
+
+**[Bitcoin’s Road to $100,000 Is Crowded With Would-Be Sellers](https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers)**
+
+Bloomberg • 5h ago
 
 ---
 
@@ -177,21 +197,21 @@ Yahoo Finance • 1h ago
 
 Police say an early-morning apartment robbery on Capitol Hill netted a pair of thieves $10,000 in cash and a tablet tied to nearly $250,000 in cryptocurrency — a target the victim said was li…
 
-CHS Capitol Hill Seattle News • 6h ago
-
----
-
-**[Now is the time to accumulate bitcoin, Galaxy says](https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says)**
-
-Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin’s recovery towards its previous high.
-
-CoinDesk • 12h ago
+CHS Capitol Hill Seattle News • 10h ago
 
 ---
 
 **[Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244)**
 
-Investing.com • 7h ago
+Investing.com • 12h ago
+
+---
+
+**[Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal](https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962)**
+
+The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.
+
+The Block • 1h ago
 
 ---
 
@@ -199,29 +219,7 @@ Investing.com • 7h ago
 
 The banking giant is still pretty skeptical about Bitcoin.
 
-The Motley Fool • 12h ago
-
----
-
-**[‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto](https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1)**
-
-MarketWatch • 5h ago
-
----
-
-**[Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business](https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858)**
-
-CMT Digital led the round, which includes new funding and share sales, as Luxor expands into an AI infrastructure business.
-
-The Block • 9h ago
-
----
-
-**[Bitcoin++ Announces Antarctica Edition For January 2028](https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica)**
-
-bitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula.
-
-Bitcoin Magazine • 23h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -241,7 +239,7 @@ A PHP security challenge. Find the hidden bitcoin key. First person to get the w
 
 A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
-⬆️ 181 • 💬 65 • 1d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+⬆️ 182 • 💬 65 • 2d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
 ---
 
@@ -263,7 +261,7 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 0 • 9h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 0 • 14h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -271,7 +269,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.
 
-⬆️ 2 • 💬 1 • 6h ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
+⬆️ 2 • 💬 1 • 11h ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
 
 ---
 
@@ -279,7 +277,7 @@ The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Hea
 
 Contribute to escache/bitcoin-puzzle-methods development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 3h ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
+⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
 
 ---
 
@@ -297,11 +295,11 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 ---
 
-**[Security Incident at Bitonic](https://news.ycombinator.com/item?id=50247485)**
+**[Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://news.ycombinator.com/item?id=50245014)**
 
-On Sunday evening, 25 October, unauthorised parties gained access to part of our systems. The vulnerability was fixed immediately.
+Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.
 
-⬆️ 2 • 💬 0 • 1d ago • [Bitonic](https://bitonic.nl/en/news/308/security-incident-at-bitonic)
+⬆️ 151 • 💬 22 • 1d ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 
 ---
 
@@ -315,37 +313,7 @@ Thanks Coinbase for sponsoring this video. Save 80% on spot fees through my link
 
 📺 Crypto Capital Venture
 
-👁️ 15K • 👍 476 • 💬 84 • ⏱️ 16:18 • 7h ago
-
----
-
-**[Crypto&#39;s Biggest Week in Regulation Just Happened](https://www.youtube.com/watch?v=YDwp5sPGzME)**
-
-Hyperliquid named Payward, Kraken's parent, as its intended first CFTC-regulated deployer on Monday. If regulators approve it, ...
-
-📺 Yahoo Finance
-
-👁️ 11K • 👍 357 • 💬 71 • ⏱️ 14:51 • 6h ago
-
----
-
-**[The Only Bitcoin Level That Matters Right Now](https://www.youtube.com/watch?v=FQR12j0rqwg)**
-
-Most bearish Bitcoin takes on the timeline lean on random levels like 80K. The level that matters is a weekly close below 75K, and ...
-
-📺 VirtualBacon
-
-👁️ 3K • 👍 122 • 💬 26 • ⏱️ 5:18 • 2h ago
-
----
-
-**[Nic Carter on Quantum, Satoshi’s Coins, and Whether He Sold Bitcoin](https://www.youtube.com/watch?v=ntFqhocomUU)**
-
-Nic Carter is back! He's a partner at Castle Island Ventures and one of the clearest writers in Bitcoin. We get into what AI does to ...
-
-📺 Natalie Brunell
-
-👁️ 8K • 👍 248 • 💬 44 • ⏱️ 58:40 • 10h ago
+👁️ 20K • 👍 549 • 💬 95 • ⏱️ 16:18 • 11h ago
 
 ---
 
@@ -355,57 +323,87 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 599 • 👍 82 • 💬 55 • ⏱️ 15:06 • 1h ago
+👁️ 3K • 👍 181 • 💬 49 • ⏱️ 15:06 • 6h ago
 
 ---
 
-**[BITCOIN IS ABOUT TO TRAP EVERYONE!](https://www.youtube.com/watch?v=p7d3lgannnI)**
+**[Bitcoin Holders: Calm Before The Storm - WATCH for THIS NEXT!!](https://www.youtube.com/watch?v=lDX0r3hW1bI)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXcm Up to 4000 USDT ...
-
-📺 The Moon Show
-
-👁️ 20K • 👍 586 • 💬 20 • ⏱️ 11:03 • 13h ago
-
----
-
-**[Is Anthropic About to Crash The Crypto Market?](https://www.youtube.com/watch?v=Ii4yXzpW2iI)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+Michael Saylor: Buying Bitcoin at $80k today is like buying it at $30k in 2023. Midterms will be a clearing event. Crypto Holders: ...
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 2K • 💬 62 • ⏱️ 11:26 • 23h ago
+👁️ 19K • 👍 973 • 💬 62 • ⏱️ 10:30 • 4h ago
 
 ---
 
-**[CRUCIAL Bitcoin Update For Today (Watch on Oct, 27th!)](https://www.youtube.com/watch?v=kgtRuSvodtE)**
+**[Crypto&#39;s Biggest Week in Regulation Just Happened](https://www.youtube.com/watch?v=YDwp5sPGzME)**
 
-My crucial Bitcoin update: the demand zone, the market structure shift on the lower time frame, Robinhood earnings, FOMC ...
+Hyperliquid named Payward, Kraken's parent, as its intended first CFTC-regulated deployer on Monday. If regulators approve it, ...
 
-📺 100XClub
+📺 Yahoo Finance
 
-👁️ 9K • 👍 645 • 💬 79 • ⏱️ 14:14 • 12h ago
+👁️ 17K • 👍 432 • 💬 90 • ⏱️ 14:51 • 11h ago
 
 ---
 
-**[BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In](https://www.youtube.com/watch?v=OdLL1IaU0as)**
+**[Nic Carter: Bitcoin Has 10 Years to Fix Its Biggest Threat](https://www.youtube.com/watch?v=ntFqhocomUU)**
 
-The hash ribbon recovered on August 26 and has held for 61 days. Historically, Bitcoin was higher one year later in six of seven ...
+Nic Carter is back! He's a partner at Castle Island Ventures and one of the clearest writers in Bitcoin. We get into what AI does to ...
+
+📺 Natalie Brunell
+
+👁️ 11K • 👍 282 • 💬 45 • ⏱️ 58:40 • 14h ago
+
+---
+
+**[Michael Sullivan: Bitcoin Price &quot;Climbing the Wall of Worry&quot; - Early Signs of Bull Market](https://www.youtube.com/watch?v=CFF3Ps0K6xI)**
+
+Bitcoin is holding near $80K, yet the crowd has never seemed less excited and that might be the most bullish signal of all. Michael ...
 
 📺 Bitcoin Magazine
 
-👁️ 3K • 👍 29 • 💬 1 • ⏱️ 7:26 • 7h ago
+👁️ 8K • 👍 124 • 💬 9 • ⏱️ 14:54 • 10h ago
 
 ---
 
-**[Was This Whole Crypto Move a Dead Cat Bounce?](https://www.youtube.com/watch?v=9veGZzSOSaY)**
+**[Bitcoin + Fed 🏦Proxies, Exchange Bal, Uptober Cancelled? 📉FSD, Cerebras x ORCL🚀](https://www.youtube.com/watch?v=E1wIfL8qMU4)**
 
-Bitcoin has reclaimed key levels, but is this a real recovery or a dead cat bounce? With the Fed, inflation data, and major tech ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
 
-📺 Crypto Banter
+📺 InvestAnswers
 
-👁️ 28K • 👍 1K • 💬 24 • ⏱️ 42:26 • 9h ago
+👁️ 32K • 👍 2K • 💬 64 • ⏱️ 23:52 • 7h ago
+
+---
+
+**[The Bitcoin Bear Trap a Lot of People Will Fall For](https://www.youtube.com/watch?v=FQR12j0rqwg)**
+
+This is the Bitcoin bear trap to prepare for: a wick under 75K into the midterms, where stops get hunted and longs get liquidated, ...
+
+📺 VirtualBacon
+
+👁️ 11K • 👍 203 • 💬 28 • ⏱️ 5:18 • 7h ago
+
+---
+
+**[Bitcoin to ZERO? JPMorgan&#39;s Big Prediction, California Billionaires Flee | News Block](https://www.youtube.com/watch?v=-4HnQK1q9Pk)**
+
+Chamath says Bitcoin is going to ZERO, while JPMorgan predicts it will outperform every major asset over the next decade.
+
+📺 Natalie Brunell
+
+👁️ 36K • 👍 779 • 💬 75 • ⏱️ 10:30 • 1d ago
+
+---
+
+**[The $40 Trillion Debt Trap That Could Send Bitcoin Soaring](https://www.youtube.com/watch?v=uvv1EXSSEfg)**
+
+Carl Sagan warned 30 years ago that technology, concentrated wealth, and declining critical thinking could push society toward a ...
+
+📺 Simply Bitcoin
+
+👁️ 35K • 👍 1K • 💬 84 • ⏱️ 13:36 • 2d ago
 
 ---
 

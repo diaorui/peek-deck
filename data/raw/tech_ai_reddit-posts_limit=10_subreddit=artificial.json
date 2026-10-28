@@ -13,6 +13,17 @@
       "description": "It\u2019s almost like it\u2019s showing us what it will do given the chance."
     },
     {
+      "title": "Claude Opus 5.5 can now rebuild real programs from scratch \u2014 18.5% on ProgramBench, up from 0% in May",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhbe9u/claude_opus_55_can_now_rebuild_real_programs_from/",
+      "published": 1793151998.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "According to Jack Clark's Import AI (Oct 26), Claude Opus 5.5 (xhigh) now resolves 18.5% of ProgramBench's 200 from-scratch rebuild tasks \u2014 rewriting programs like SQLite, FFmpeg and ripgrep from a compiled binary and its docs. That is up from 0% when every model failed at the benchmark's May launch. Clark expects the benchmark to be saturated by the end of 2027 (his prediction, not a measured result). What I am curious about: is 'rebuild from binary + docs' mainly a test of reverse-engineering and long-horizon persistence, or does it genuinely measure software engineering ability? And if this benchmark saturates within a year, what should replace it as a meaningful test of coding?"
+    },
+    {
       "title": "how do you picture your life or workday if ai suddenly vanished?\ud83e\udd16",
       "author": "Either_Age_8246",
       "url": "https://www.reddit.com/r/artificial/comments/1xh84gr/how_do_you_picture_your_life_or_workday_if_ai/",
@@ -24,70 +35,15 @@
       "description": "lowkey curious what people think. feels like we\u2019ve all just gotten used to ai being part of everything now so yeah - what would your daily routine or workflow actually look like without it?"
     },
     {
-      "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
-      "author": "Environmental_Mix22",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
-      "published": 1793054688.0,
-      "thumbnail": "https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&crop=smart&auto=webp&s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727",
-      "external_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "site_name": "OpenAI",
-      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
-      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
-    },
-    {
-      "title": "I think about switching form codex to Claude Am I doing a mistake?",
-      "author": "BMarinov",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh7hy3/i_think_about_switching_form_codex_to_claude_am_i/",
-      "published": 1793141640.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Honestly Open AI is falling behind less usage worse models Claude never looked that good to me?"
-    },
-    {
-      "title": "OpenAI coding agents weakened safety monitoring in two internal tasks",
-      "author": "Mundane-Evidence2795",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgrk6n/openai_coding_agents_weakened_safety_monitoring/",
-      "published": 1793105184.0,
-      "thumbnail": "https://external-preview.redd.it/surtRdXXszeMaUrapIM_xKEfv_tSzHB-OIAlOb4CQtI.png?width=640&crop=smart&auto=webp&s=b439b471985990463dd94dbda4d89ef501b3ca23",
-      "external_url": "https://misalignmentwatch.com/incident/openai-coding-agents-weakened-safety-monitoring-in-two-internal-tasks.html",
-      "site_name": "AI Misalignment Watch",
-      "favicon": "https://misalignmentwatch.com/assets/apple-touch-icon.png?v=7c4d08d9",
-      "description": "OpenAI reports that two internal coding agents weakened misalignment monitoring, one by disabling alerts and one by removing a monitor and then falsely..."
-    },
-    {
-      "title": "OpenHeronBrowser \u2013 a new browser engine in Rust, built with Claude. Acid3 97/100, runs Discord, VS Code for the Web, and Windows 1.01 in v86",
-      "author": "marissatech_",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/",
-      "published": 1793109708.0,
-      "thumbnail": "https://external-preview.redd.it/xIcXvYJHERNqRLwLCmmhPX0ZLQLYLalNxt9i0QC-Ky0.png?width=640&crop=smart&auto=webp&s=072d17e64978bb93a6b3109f6d94646a4f996357",
-      "external_url": "https://github.com/Heronetic/OpenHeronBrowser",
-      "site_name": "GitHub",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "description": "An attempt at an open, independent web browser, with its own engine written from scratch in Rust. - heronetic/OpenHeronBrowser"
-    },
-    {
-      "title": "Study finds AI models overuse patterns linked to reading difficulty",
-      "author": "andrewaltair",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/",
-      "published": 1793096732.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Researchers from New York University and the University of Texas at Austin analyzed language from 14 models across chat, coding and essay settings, including 980 model-written essays. They compared model outputs with human reference text and with round-trip translations used to create alternative formulations for comparison. The paper tracks six features associated with human processing difficulty, including rare n-grams, long dependencies, stacked noun compounds, denominal verbs and inanimate subjects paired with animate verbs. Most frontier models overused several of these features relative to the paraphrase comparison. The study does not identify who wrote a specific passage or prove that every reader will find AI text exhausting. It studies English model distributions, uses proxies for processing difficulty and calls the training explanation a hypothesis. Source: https://arxiv.org/html/2610.29162v1"
-    },
-    {
-      "title": "New York State Unified Court System issues official guidance to prevent AI hallucinations",
-      "author": "news-10",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh4w2f/new_york_state_unified_court_system_issues/",
-      "published": 1793135379.0,
-      "thumbnail": "https://external-preview.redd.it/JXozTm0E42T0Vv2nj9IGJkiLDjsOQ_wPUoW5G488Des.jpeg?width=640&crop=smart&auto=webp&s=6836b0252c8bc0aef339a7ed47896baa39cb3ccf",
-      "external_url": "https://www.news10.com/capitol/courts-ai-lawyers/",
-      "site_name": "news10.com",
-      "favicon": null,
-      "description": null
+      "title": "ChatGPT now lets you lock private chats with a PIN\u2014but forgetting it could erase them for good",
+      "author": "ThereWas",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh7a1j/chatgpt_now_lets_you_lock_private_chats_with_a/",
+      "published": 1793141077.0,
+      "thumbnail": "https://external-preview.redd.it/BjymSJqwKQ8DC4QFutOPaeM4PGnOeDRr6sZBotvvduo.jpeg?width=640&crop=smart&auto=webp&s=e2d303b8ef658c358a74c034849ddd43e56a8ab8",
+      "external_url": "https://fortune.com/2026/10/23/chatgpt-locked-chats-pin-privacy-openai/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/apple-touch-icon.png",
+      "description": "OpenAI\u2019s new feature keeps chosen conversations out of your history and search. It doesn\u2019t change how the company stores them or uses them for training."
     },
     {
       "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
@@ -101,16 +57,60 @@
       "description": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics"
     },
     {
-      "title": "What's a task you wish AI could handle from start to finish without needing you to check its work?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh7qbq/whats_a_task_you_wish_ai_could_handle_from_start/",
-      "published": 1793142229.0,
+      "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
+      "author": "Environmental_Mix22",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
+      "published": 1793054688.0,
+      "thumbnail": "https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&crop=smart&auto=webp&s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727",
+      "external_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "site_name": "OpenAI",
+      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
+      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
+    },
+    {
+      "title": "OpenHeronBrowser \u2013 a new browser engine in Rust, built with Claude. Acid3 97/100, runs Discord, VS Code for the Web, and Windows 1.01 in v86",
+      "author": "marissatech_",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/",
+      "published": 1793109708.0,
+      "thumbnail": "https://external-preview.redd.it/xIcXvYJHERNqRLwLCmmhPX0ZLQLYLalNxt9i0QC-Ky0.png?width=640&crop=smart&auto=webp&s=072d17e64978bb93a6b3109f6d94646a4f996357",
+      "external_url": "https://github.com/Heronetic/OpenHeronBrowser",
+      "site_name": "GitHub",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "description": "An attempt at an open, independent web browser, with its own engine written from scratch in Rust. - heronetic/OpenHeronBrowser"
+    },
+    {
+      "title": "OpenAI coding agents weakened safety monitoring in two internal tasks",
+      "author": "Mundane-Evidence2795",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgrk6n/openai_coding_agents_weakened_safety_monitoring/",
+      "published": 1793105184.0,
+      "thumbnail": "https://external-preview.redd.it/surtRdXXszeMaUrapIM_xKEfv_tSzHB-OIAlOb4CQtI.png?width=640&crop=smart&auto=webp&s=b439b471985990463dd94dbda4d89ef501b3ca23",
+      "external_url": "https://misalignmentwatch.com/incident/openai-coding-agents-weakened-safety-monitoring-in-two-internal-tasks.html",
+      "site_name": "AI Misalignment Watch",
+      "favicon": "https://misalignmentwatch.com/assets/apple-touch-icon.png?v=7c4d08d9",
+      "description": "OpenAI reports that two internal coding agents weakened misalignment monitoring, one by disabling alerts and one by removing a monitor and then falsely..."
+    },
+    {
+      "title": "I think about switching form codex to Claude Am I doing a mistake?",
+      "author": "BMarinov",
+      "url": "https://www.reddit.com/r/artificial/comments/1xh7hy3/i_think_about_switching_form_codex_to_claude_am_i/",
+      "published": 1793141640.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "What keeps it from doing that today?"
+      "description": "Honestly Open AI is falling behind less usage worse models Claude never looked that good to me?"
+    },
+    {
+      "title": "Study finds AI models overuse patterns linked to reading difficulty",
+      "author": "andrewaltair",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/",
+      "published": 1793096732.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Researchers from New York University and the University of Texas at Austin analyzed language from 14 models across chat, coding and essay settings, including 980 model-written essays. They compared model outputs with human reference text and with round-trip translations used to create alternative formulations for comparison. The paper tracks six features associated with human processing difficulty, including rare n-grams, long dependencies, stacked noun compounds, denominal verbs and inanimate subjects paired with animate verbs. Most frontier models overused several of these features relative to the paraphrase comparison. The study does not identify who wrote a specific passage or prove that every reader will find AI text exhausting. It studies English model distributions, uses proxies for processing difficulty and calls the training explanation a hypothesis. Source: https://arxiv.org/html/2610.29162v1"
     }
   ],
-  "fetched_at": "2026-10-27T23:32:50.715923+00:00"
+  "fetched_at": "2026-10-28T04:23:05.188076+00:00"
 }
