@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-27T23:33:16.288793+00:00'
+updated: '2026-10-28T04:23:36.858271+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 27, 2026 at 23:33 UTC  
+**Last Updated:** October 28, 2026 at 04:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,348.62
+### $2,347.10
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -4.9%  
-**30d:** -12.7%  
-**90d:** +22.5%  
-**1y:** -41.0%  
+**24h:** +1.7%  
+**7d:** -1.4%  
+**30d:** -12.0%  
+**90d:** +26.4%  
+**1y:** -39.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $286.82B
+**Market Cap:** $287.38B
 Rank #2
 
-**Circulating Supply:** 122,167,205 ETH
+**Circulating Supply:** 122,170,166 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.5%
+-52.4%
 
 **All-Time Low:** $0.43
-+542185.0%
++543120.3%
 
 ---
 
@@ -152,11 +152,11 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[Ethereum Price Prediction: Can ETH Get Back to $2,700 by the End of November?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-eth-back-222553067.html)**
+**[What Would Have to Happen for Ethereum to Hit $5,000?](https://finance.yahoo.com/markets/crypto/articles/happen-ethereum-hit-5-000-013144142.html)**
 
-ETH sits 15% below a key price level with ETF outflows piling up, a major upgrade delayed indefinitely, and sellers hitting it harder than Bitcoin. Several factors need to align fast for any November recovery to happen.
+Ethereum has never closed above $5,000, and right now the forces that could push it there are moving in the wrong direction. Here is what needs to change before that target becomes realistic.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1h ago
 
 Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.
 
-CoinDesk • 15h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -174,59 +174,57 @@ MarketWatch • 1d ago
 
 ---
 
-**[Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up](https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines)**
-
-The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.
-
-CoinDesk • 1d ago
-
----
-
-**[Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-keeps-buying-153603798.html)**
-
-The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares—part of what it calls the largest equity buyback any crypto treasury company has run.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee insists 'crypto bull market is underway' as Bitmine adds 10,452 ETH](https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743)**
-
-The company holds 4.95% of Ethereum's supply, with $15 billion in combined crypto, cash, marketable securities, and other investments.
-
-The Block • 1d ago
-
----
-
-**[Circle gives its Bitcoin-backed token one balance across Ethereum and Arc](https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/)**
-
-Circle Gateway adds cirBTC support on Ethereum and Arc, offering a shared balance with deposit-finality requirements and a separate seven-day fallback.
-
-CryptoSlate • 1d ago
-
----
-
 **[Current price of Ethereum for October 27, 2026](https://fortune.com/article/price-of-ethereum-10-27-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 15h ago
 
 ---
 
-**[ETHGas lets institutions reserve Ethereum blockspace with built-in compliance screening](https://cryptobriefing.com/ethgas-institutions-reserve-ethereum-blockspace/)**
+**[Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks](https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks)**
 
-ETHGas lets institutions reserve Ethereum blockspace with guaranteed inclusion and sanctions screening, backed by a $3 billion ether.fi deal.
+Bitmine Immersion Technologies kept its weekly Ethereum buying streak intact, adding 10,452 ETH worth roughly $24 million.
 
-Crypto Briefing • 9h ago
+Decrypt • 1d ago
 
 ---
 
-**[Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?](https://247wallst.com/investing/cryptocurrency/2026/10/25/which-crypto-could-be-the-second-to-reach-a-1-trillion-market-value/)**
+**[Ethereum ICO Whale: Final 7,594 ETH Sent to Kraken](https://blockchain.news/flashnews/ethereum-ico-whale-final-7-594-eth-sent-kraken)**
 
-Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover which coin could be next and the price it would need.
+@EmberCN reports that an early Ethereum ICO participant has transferred the last 7,594 ETH valued at $17.79 million to Kraken, completing liquidation of a...
 
-24/7 Wall St. • 2d ago
+Blockchain News • 10h ago
+
+---
+
+**[Crypto News: AlphaPepe To Announce New CEX Partner In 4 Days While Ethereum Price Prediction Points To $3,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-to-announce-new-cex-partner-in-4-days-while-ethereum-price-prediction-points-to-3-000-1036668146)**
+
+MONACO, Oct.  26, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe as the countdown to its next CEX partnership enters the final ...
+
+markets.businessinsider.com • 1d ago
+
+---
+
+**[Ethereum Foundation seeks protocol feedback to sharpen EIP development](https://cryptobriefing.com/ethereum-foundation-eip-feedback-hegota-upgrade/)**
+
+Ethereum Foundation seeks app developer feedback on EIPs to align the L1 protocol roadmap with real-world needs ahead of the Hegotá upgrade.
+
+Crypto Briefing • 12h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise Ahead of Fed Rate Decision: Analyst Says BTC Headed for 'New Highs'](https://www.benzinga.com/crypto/cryptocurrency/26/10/62642612/bitcoin-ethereum-xrp-dogecoin-crypto-market-recap-2)**
+
+Benzinga • 2h ago
+
+---
+
+**[Ethereum Inactivity Leak: Why 4 Epochs Trigger Penalties](https://financefeeds.com/what-is-an-inactivity-leak-in-ethereum/)**
+
+An Ethereum inactivity leak drains inactive validators' balances after 4+ epochs without finality, until the network regains two-thirds stake to finalize.
+
+FinanceFeeds • 11h ago
 
 ---
 
@@ -234,33 +232,13 @@ Bitcoin is the only cryptocurrency with a $1 trillion market value. Discover whi
 
 ## YouTube Videos: "ethereum"
 
-**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
-
-Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
-
-📺 Dr. Samuel Allen Alexander
-
-👁️ 25K • 👍 398 • 💬 152 • ⏱️ 34:10 • 8h ago
-
----
-
 **[BitMine is closing in on owning 5% of all Ethereum.](https://www.youtube.com/watch?v=AMKQNSYTgUY)**
 
 BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no single company has approached before. Strategy ...
 
 📺 Yahoo Finance
 
-👁️ 21K • 👍 248 • 💬 146 • ⏱️ 14:51 • 1d ago
-
----
-
-**[Is $2,000 Ethereum Next? 8 Crypto Charts In 8 Minutes](https://www.youtube.com/watch?v=xmD2fbeICxA)**
-
-Bitcoin just lost its parallel channel. Is a $2000 Ethereum next? Nick Valdez of Verified Investing runs through eight crypto charts ...
-
-📺 Verified Investing
-
-👁️ 8K • 👍 232 • 💬 7 • ⏱️ 8:04 • 1d ago
+👁️ 22K • 👍 251 • 💬 147 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -270,57 +248,27 @@ Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get 
 
 📺 BULLRUNNERS
 
-👁️ 241 • 👍 27 • 💬 25 • ⏱️ 15:18 • 1h ago
+👁️ 1K • 👍 41 • 💬 25 • ⏱️ 15:18 • 6h ago
 
 ---
 
-**[Fastest Horse? 🐎🚀 SOL vs NEAR vs ETH, Quantum Dilution, China + Gold vs BTC](https://www.youtube.com/watch?v=vpcBKMVa3jA)**
+**[ETH HOLDERS: The Biggest Company Buyer Of ETH Is Almost Done Stacking. Who Holds Up Your FLOOR?](https://www.youtube.com/watch?v=nEeO1P1lNGE)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/ded7dc93 Connect With Us: Email: Team@bullrunners.com ...
 
-📺 InvestAnswers
+📺 BULLRUNNERS
 
-👁️ 84K • 👍 3K • 💬 156 • ⏱️ 47:37 • 2d ago
+👁️ 1K • 👍 10 • 💬 1 • ⏱️ 11:35 • 1d ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3V5ddrnS8SU)**
+**[BITCOIN FLIPPED: WATCH BEFORE TOMORROW (Fed Meeting)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SzL2tRj0BMw)**
 
-BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+BITCOIN FLIPPED: WATCH BEFORE TOMORROW (Fed Meeting)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 13K • 👍 329 • 💬 56 • ⏱️ 18:54 • 1d ago
-
----
-
-**[Tarun Chitra: Ethereum Is The Cryptographic Safety Net For What Comes Next (Full Interview)](https://www.youtube.com/watch?v=dOZIEhgAxXc)**
-
-Tarun Chitra says the future of money will be built to survive even if all of today's cryptography breaks. In this conversation, he ...
-
-📺 The Rollup
-
-👁️ 6K • 👍 67 • 💬 4 • ⏱️ 23:11 • 1d ago
-
----
-
-**[Bitmine Will Soon Own 5% of All ETH, So What Does It Do Next?](https://www.youtube.com/watch?v=CMIcWdVCVFY)**
-
-Bitmine is closing in on 5% of all $ETH: will it start investing elsewhere, or just sit on its holdings? Strive was able to buy that 6000 ...
-
-📺 The Wolf Of All Streets
-
-👁️ 746 • 👍 23 • 💬 63 • ⏱️ 1:33 • 1d ago
-
----
-
-**[Ethereum: The Seed of Self-Owning Taxis &amp; All Crypto! #shorts](https://www.youtube.com/watch?v=1ZZRk36QXJo)**
-
-Autonomous vehicles meeting blockchain technology. Ride-sharing becomes decentralized as taxis own themselves through ...
-
-📺 SWENDAL
-
-👁️ 1 • ⏱️ 0:18 • 3h ago
+👁️ 7K • 👍 265 • 💬 66 • ⏱️ 24:25 • 8h ago
 
 ---
 
@@ -330,7 +278,57 @@ Raoul Pal believes crypto may be entering a much bigger phase as AI, global liqu
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 159 • 💬 25 • ⏱️ 24:09 • 2d ago
+👁️ 12K • 👍 161 • 💬 25 • ⏱️ 24:09 • 2d ago
+
+---
+
+**[BMNR Holders - ETH &amp; Bitcoin : When Will the Next Crypto Bull Run Start?](https://www.youtube.com/watch?v=iSzbGttAutE)**
+
+BMNR Holders & MSTR - BITCOIN & ETHEREUM BULL RUN 2027 - IS THE BIGGEST RALLY STILL AHEAD? Earn On Your ...
+
+📺 Big Time Trades
+
+👁️ 1K • 👍 45 • 💬 5 • ⏱️ 21:32 • 9h ago
+
+---
+
+**[I SOLD My Ethereum.. 69-Day Streak Hanging by $5!!](https://www.youtube.com/watch?v=QeL6MXLXS-k)**
+
+Toobit - where I trade (Toobit x AlexMarzell: Win 8810 in Rewards + VIP Bonuses, until 31 Oct) https://marzell.org/tb-v100 ...
+
+📺 Marzell Crypto
+
+👁️ 465 • 👍 12 • 💬 1 • ⏱️ 3:21 • 17h ago
+
+---
+
+**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
+
+Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
+
+📺 Dr. Samuel Allen Alexander
+
+👁️ 32K • 👍 452 • 💬 174 • ⏱️ 34:10 • 13h ago
+
+---
+
+**[👾 Sommi Meets A Genius (Discuss Ethereum)](https://www.youtube.com/watch?v=yzCkVgUPlv4)**
+
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 3K • 👍 227 • 💬 20 • ⏱️ 12:45 • 1d ago
+
+---
+
+**[Ethereum vs Bitcoin: What Altcoins Need Right Now](https://www.youtube.com/watch?v=SoiOcGcqLuI)**
+
+Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we track, only seven did better. So when will altcoins ...
+
+📺 More Crypto Online
+
+👁️ 16K • 👍 321 • 💬 17 • ⏱️ 13:01 • 2d ago
 
 ---
 
