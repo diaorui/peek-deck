@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5",
       "pub_date": 1793130186.0,
@@ -45,16 +45,6 @@
       "description": "Spacewalking tools and a pair of robotics jobs topped Tuesday\u2019s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear."
     },
     {
-      "headline": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQQ1V6eW1MMDgtWXhxTmRhQ1d0X0NnQUZRY0ZsekgxZ0V5UHdyQ1JVNllTMkFHT3dqV0IwdGxOOEp6ajhpX2k0UENveWt0Rmc1SFVfWDlXWXhjVFFDbER5NWczUzMxY08xME5CX3NYdkdvM0Q1bE1IVjd30gF_QVVfeXFMUGJvcUFSdjBuYl9PaDZ6NjdzOWRncVVMRW1BMDV2b3dELXprc041cXI2OGV0cDBiX05JMHItNWJ1cU1sRGt6S1BTdVl4cUpNSXhLMWI0X1NjQjFFRTBkTmJLajRreVBOS3FKT09VSkwxZWwydzZSaTVhandqNDQwZw?oc=5",
-      "pub_date": 1793054059.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355638-1787909091760-JOHN_THUMB.jpg?v=1787909129&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity."
-    },
-    {
       "headline": "AI factory designer Foundry Robotics makes massive expansion into East Bay",
       "source": "The Business Journals",
       "source_url": "https://www.bizjournals.com",
@@ -63,16 +53,6 @@
       "article_url": "https://www.bizjournals.com/sanfrancisco/news/2026/10/26/foundry-robotics-emeryville-expansion.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Ukraine Develops Drone-Carrying Ground Robots to Fight Aerial Threats, With Millions More in Funding Needed",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jRDdldE9wRjVGdEV3c01KNzZCbS1iQWstd2Z4NlVzb0cwR2lGWDZDdnpPQW5zZWR3RWVVbUtfMV8zWVRzVzIyWlBoSQ?oc=5",
-      "pub_date": 1793108525.0,
-      "article_url": "https://www.kyivpost.com/post/88325",
-      "image": "https://static.kyivpost.com/storage/2026/10/27/b596b3d568720c5bc08ba8c74843111d.png?w=1200&q=90&f=jpg",
-      "description": "A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets."
     },
     {
       "headline": "This AI Stock Catapults 58% Amid Robotics Spinoff; Nears Pivot As Earnings Loom",
@@ -85,7 +65,37 @@
       "description": "AI stock Zebra Technologies is near a pivot after a 58% gain year-to-date. Third-quarter earnings are due Nov. 3."
     },
     {
-      "headline": "Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom",
+      "headline": "Ukraine Develops Drone-Carrying Ground Robots to Fight Aerial Threats, With Millions More in Funding Needed",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jRDdldE9wRjVGdEV3c01KNzZCbS1iQWstd2Z4NlVzb0cwR2lGWDZDdnpPQW5zZWR3RWVVbUtfMV8zWVRzVzIyWlBoSQ?oc=5",
+      "pub_date": 1793108525.0,
+      "article_url": "https://www.kyivpost.com/post/88325",
+      "image": "https://static.kyivpost.com/storage/2026/10/27/b596b3d568720c5bc08ba8c74843111d.png?w=1200&q=90&f=jpg",
+      "description": "A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets."
+    },
+    {
+      "headline": "China unveils 13-foot robot that can lift a cow",
+      "source": "Yahoo",
+      "source_url": "https://malaysia.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XMnJPMTJyVEkyUi0tUlFHOUZvR09JWDQtTXh3MTJhbGNmUmVfM0lKcGFqdjNOQkk4dHRYSW9FUGpTNmFQSG5sN0tBUkVSMWFaUW9YZmFzZFdDNFRINDBrdzRHTlpQOTY2aEZQWHhPSjR6OUhPYWFVSEpCSjkyenc?oc=5",
+      "pub_date": 1793123041.0,
+      "article_url": "https://malaysia.news.yahoo.com/china-unveils-13-foot-robot-174401927.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/022a755d19b75ddf50fe8262ca582d6be9bf4727ca925ad807178354ceadf27b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F71485621a583e092ec413f38c8303cd2.png",
+      "description": "\u2018Robots should not merely replicate human forms but surpass human physical limits,\u2019 says NeodraDynamics founder"
+    },
+    {
+      "headline": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjB2SG9VZUt0LVctTXpQU2Jod0t6a3BFbGZuNFJicGVQT1BJdWlUbzZuYnRuOHE1UWxKS2lUcVlVY2w0SVU2bWtXakNyMVRXZDBOYkxwUm1xanY4QTZPRnI5VFJfNzVhYWQ4aW4xUEdaeWh5RVVON1Y3VElxWk1NT2djZVBDSU8tU0hJeUtmZUM2YjB1elhiV1cwM0JhZ1IzX3FCN2tKZ0cxNzgz?oc=5",
+      "pub_date": 1793098800.0,
+      "article_url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10",
+      "image": "https://i.insider.com/6adfd49cab741a2ebdf11932?width=1200&format=jpeg",
+      "description": "Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration."
+    },
+    {
+      "headline": "Companion humanoid robots get lifelike silicone skin, 100 languages",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjdHM3lsR3NNZTVGZEVURzJGMmxycVFpdVA4ekdpcUV2Y1h2dHVMd2lRREI2MHhVYXJoMzBLNE9qckc5NGRBV2dWci1CQWMyVDV1aFR4Q1BfaWdZN1lUd0x4NmhLbU9XNjlYNFpkVUxPWmo2ajZ1cjMwdmloMnN3ckpaUVVOVUtvcUZhX0ZBYUJlNkVxeVE?oc=5",
@@ -93,18 +103,8 @@
       "article_url": "https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-30.jpg",
       "description": "Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027."
-    },
-    {
-      "headline": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFJTQ1BROE5vZzk0VTNoWXZtSk84eGVsYS15QTJnMVphbmpjeDVZWUVjSUpzLWF4aHJnU3RsVGlGUG12ZG1sLU1YN0ZVbTYwR2RvT0FPZzR4ekZzTkdfYnhKZTVhQlJ0cHJ0dWlDblBfOWhsell6VndWTXhjUFNzVWZWX0tVQjRzSDRSMjVOa2t1dEFId1pLUlZrMnE4RzZra1M1alZOT2pPZ1hSVjlqZ0Jn?oc=5",
-      "pub_date": 1793098800.0,
-      "article_url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300740947.jpg?quality=90&strip=all&crop=0%2C10.748920582036%2C100%2C78.502158835928&w=1200",
-      "description": "GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T23:33:12.610782+00:00"
+  "fetched_at": "2026-10-28T04:23:27.621451+00:00"
 }
