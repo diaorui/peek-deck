@@ -23,7 +23,7 @@
       "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
       "hn_url": "https://news.ycombinator.com/item?id=50237379",
       "author": "davikr",
-      "points": 181,
+      "points": 182,
       "num_comments": 65,
       "created_at": "2026-10-26T00:15:17Z",
       "object_id": "50237379",
@@ -131,21 +131,21 @@
       "site_name": "Delving Bitcoin"
     },
     {
-      "title": "Security Incident at Bitonic",
-      "url": "https://bitonic.nl/en/news/308/security-incident-at-bitonic",
-      "hn_url": "https://news.ycombinator.com/item?id=50247485",
-      "author": "teekert",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-10-26T17:24:57Z",
-      "object_id": "50247485",
-      "image": "https://bitonic.nl/public/img/backgrounds/default_bg.jpg",
-      "description": "On Sunday evening, 25 October, unauthorised parties gained access to part of our systems. The vulnerability was fixed immediately.",
-      "favicon": "https://bitonic.nl/en/news/308/public/img/app-icons/apple-touch-icon.png",
-      "site_name": "Bitonic"
+      "title": "Why Micron Is Suddenly Ditching 4F\u00b2 DRAM as Rivals Double Down",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "hn_url": "https://news.ycombinator.com/item?id=50245014",
+      "author": "rbanffy",
+      "points": 151,
+      "num_comments": 22,
+      "created_at": "2026-10-26T15:05:04Z",
+      "object_id": "50245014",
+      "image": "https://images.hothardware.com/contentimages/newsitem/71935/content/16x9_2133x1200_highres-micron-boise-fab-photo.jpg",
+      "description": "Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.",
+      "favicon": "https://hothardware.com/hh-touch-icon-iphone.png?ver=2",
+      "site_name": "HotHardware"
     }
   ],
-  "total_hits": 12,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-10-27T23:32:50.252414+00:00"
+  "fetched_at": "2026-10-28T04:23:05.408662+00:00"
 }

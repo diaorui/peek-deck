@@ -16,7 +16,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 117121,
+      "github_stars": 117422,
       "project_page": null
     },
     {
@@ -35,27 +35,8 @@
       "num_comments": 2,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 20383,
+      "github_stars": 20552,
       "project_page": "https://harness2.github.io/"
-    },
-    {
-      "id": "2609.18063",
-      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
-      "organization_name": "Edge0",
-      "organization_fullname": "Edge0",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
-      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
-      "ai_summary": "Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.",
-      "hf_url": "https://huggingface.co/papers/2609.18063",
-      "arxiv_url": "https://arxiv.org/abs/2609.18063",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 30,
-      "num_comments": 9,
-      "published_at": "2026-09-15T20:00:00.000Z",
-      "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 7667,
-      "project_page": null
     },
     {
       "id": "2606.23050",
@@ -69,11 +50,30 @@
       "hf_url": "https://huggingface.co/papers/2606.23050",
       "arxiv_url": "https://arxiv.org/abs/2606.23050",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
-      "upvotes": 101,
+      "upvotes": 102,
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 29008,
+      "github_stars": 29208,
+      "project_page": null
+    },
+    {
+      "id": "2609.18063",
+      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
+      "organization_name": "Edge0",
+      "organization_fullname": "Edge0",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
+      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
+      "ai_summary": "Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.",
+      "hf_url": "https://huggingface.co/papers/2609.18063",
+      "arxiv_url": "https://arxiv.org/abs/2609.18063",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
+      "upvotes": 31,
+      "num_comments": 9,
+      "published_at": "2026-09-15T20:00:00.000Z",
+      "github_repo": "https://github.com/Edge0-AI/edge0",
+      "github_stars": 7728,
       "project_page": null
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 43917,
+      "github_stars": 43956,
       "project_page": null
     },
     {
@@ -149,7 +149,7 @@
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
-      "github_stars": 2076,
+      "github_stars": 2107,
       "project_page": "https://openmoss.ai/MOSS-Image/"
     },
     {
@@ -172,26 +172,26 @@
       "project_page": "https://francis-rings.github.io/Prism/"
     },
     {
-      "id": "2610.35845",
-      "title": "Work Agents: Systems, Capabilities, and Optimization",
-      "authors": "Zishan Xu, Enjun Du, Mingqi Gao et al. (16 authors)",
-      "organization_name": "SJTU",
-      "organization_fullname": "Shanghai Jiao Tong University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1676013394657-63e5ee22b6a40bf941da0928.png",
-      "summary": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a unified perspective on how agents reliably accomplish delegated work. To address this gap, we present a work-centric, system-level perspective that views work agents as systems combining foundation models and runtime harnesses to execute tasks in stateful workspaces and deliver verifiable outcomes. We introduce two complementary dimensions, work persistence and work openness, to characterize working conditions, and classify digital work into five forms according to task scope and organization. Building on this framework, we identify five core capability families required for reliable work execution and examine approaches to model optimization, harness optimization, and their joint optimization. We further analyze existing evaluation methods and metrics from the perspective of work outcomes. Finally, we discuss future research directions, including sustained work delegation, adaptation to open environments, and the interaction between work execution and capability improvement. This paper provides a unified framework for understanding, optimizing, and evaluating work agents, supporting the development of systems capable of delivering reliable, verifiable, and practically valuable work outcomes.",
-      "ai_summary": "The paper proposes a unified framework for work agents that integrates foundation models with runtime harnesses to execute complex digital tasks reliably, introducing dimensions of persistence and openness alongside capability families and evaluation metrics.",
-      "hf_url": "https://huggingface.co/papers/2610.35845",
-      "arxiv_url": "https://arxiv.org/abs/2610.35845",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.35845.png",
-      "upvotes": 98,
-      "num_comments": 1,
-      "published_at": "2026-10-25T20:00:00.000Z",
-      "github_repo": "https://github.com/EnjunDu/awesome-working-agent",
-      "github_stars": 56,
-      "project_page": "https://enjundu.com/blog/working_agents"
+      "id": "2610.34467",
+      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
+      "authors": "Ruhao Liu, Qi Li, Shizun Wang et al. (4 authors)",
+      "organization_name": "NationalUniversityofSingapore",
+      "organization_fullname": "National University of Singapore",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/630ca0817dacb93b33506ce7/ZYUmpSMsa5Whihw3me2Bw.png",
+      "summary": "Multi-agent systems often rely on predefined collaboration structures, limiting their ability to adapt to diverse task requirements. We introduce DynaFlow, a framework that integrates free-form executable workflow synthesis into the action space of the main agent. The agent decides when collaboration is needed and generates task-specific programs that coordinate sub-agents through sequential or parallel execution, structured information exchange, and verification. Execution results and traces inform subsequent actions, enabling the agent to adapt collaboration as reasoning progresses. We train only the main agent through supervised fine-tuning on distilled trajectories, followed by refinement on examples filtered for unsupported premises, biased verification, and information-flow defects. All sub-agents remain fixed, separating orchestration learning from executor capability improvement. Across six benchmarks spanning mathematical reasoning, scientific question answering, and multi-hop retrieval, DynaFlow achieves 88.08% overall accuracy in Forced mode, outperforming the strongest evaluated baseline by 10.90 percentage points with the same Qwen3.5-27B backbone. Workflow analysis finds more explicit use, verification, and refinement of upstream outputs after training, highlighting cross-stage information flow as a key dimension of multi-agent orchestration.",
+      "ai_summary": "DynaFlow enables adaptive multi-agent collaboration by letting a main agent synthesize executable workflows that coordinate sub-agents through structured execution and verification.",
+      "hf_url": "https://huggingface.co/papers/2610.34467",
+      "arxiv_url": "https://arxiv.org/abs/2610.34467",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.34467.png",
+      "upvotes": 190,
+      "num_comments": 2,
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "github_repo": "https://github.com/amiya-special/Dynaflow",
+      "github_stars": 107,
+      "project_page": "https://amiya-special.github.io/DynaFlow-website"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-27T23:32:57.485605+00:00"
+  "fetched_at": "2026-10-28T04:23:15.834717+00:00"
 }

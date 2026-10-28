@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Why Now Is the Time to Add and Hold BTC",
+      "source": "Galaxy",
+      "source_url": "https://www.galaxy.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GR3VpcXVZQWNKZWp6WnpJV0J1eFpwVmM5TGw5cnR3dFpYcnB1S05ULTVOeG53Y1NPU0VjWU1rUTVPdTF4Q3JVaW5OTWEzUXZKR0lwdDJHVVNLd2VDNjFuMmxtd1N5TUVFNUN3SkxpVVdKQS13MDdvVHlR?oc=5",
+      "pub_date": 1793059586.0,
+      "article_url": "https://www.galaxy.com/insights/research/why-now-bitcoin-buy-hold-2026",
+      "image": "https://images.ctfassets.net/h62aj7eo1csj/3VgHnklzYiXa0VqFeDIFqv/c8ddc42462da0c401c1c69ab56b58d3b/Bitcoin-13_Orange-2.png?w=1200&h=675&fit=fill&q=60&fm=jpg&fl=progressive",
+      "description": "We believe the bottom is in. Selling pressure has diminished, the debasement case has strengthened, and the crowd has left."
+    },
+    {
       "headline": "Cathie Wood sells Bitcoin, buys $5.2 million of sinking stock",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
@@ -15,24 +25,44 @@
       "description": null
     },
     {
-      "headline": "Hyperliquid\u2019s Biggest Traders Are Shorting Bitcoin for the First Time Since March. Could BTC Drop Below $75,000?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0NrNFN2ZU5OT0pSMDBLVmZ3TE83TFNfX2VlXzRhQUlnc3VXcjhQYzV3SEtQdGxrNVJRQWxfbFF4R1VmNEtMR3RBcUFVbzB0LUEtVnZ0bkg3RGhtUUc0UGhMRnNyTTFydGVhUjBhM195LUhodkJGUy0zNEM2UGViSVhtZnlDVFFKYlRUX2NUb1dFbXg0bVkyWEdEQmt3UUo1THVWTV9HOUZKQnlhVkE?oc=5",
-      "pub_date": 1793139587.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-biggest-traders-shorting-bitcoin-221947426.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7d342377785e4da48a6cdeffcdfad1e7e88a75bc42a77d47c3f7c282017fbc05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F909991c829a93477ef4a8a8b666e6cdd.jpg",
-      "description": "Hyperliquid's biggest Bitcoin traders just flipped short for the first time in months, but whether they're calling a crash or quietly protecting their bags changes everything about what happens next."
+      "headline": "BTC, ETH price news: Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkNaeE44eFBVY2pMUnFSTkY3ekxfaFZoQWxqQ19Hb193eVYzalI1c2IyUjQzSHY4YVQ0eEZMQVZXd3FGVGRvOFRXSEVSTEdMdXFpQ0ZrWHBvRF9wd0haVUVJcjlfMjk1ejhoaTNGTnhkdVB0bndzWTRnSXppSGpTa194Q1VOcGJqUnVFUVB6QTkwMEQydGFHMUctVUpqWG5tblpBT25yNA?oc=5",
+      "pub_date": 1793160920.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e48c395545734f88a8940a71375c640cc1d8b21-1516x852.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Majors outpaced bitcoin across the board as tech stocks extended a climb."
     },
     {
-      "headline": "Is Bitcoin\u2019s Bear Market Over? Galaxy Thinks It Might Be",
+      "headline": "Tom Lee Sees \u2018One of the Biggest Rallies of Our Lifetime\u2019 as $10.8B Bitcoin Options Expiry Looms",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTNJaUMwVVBHRFg5UG91aTlaeklUdFFOZ0M1VlA5T0NxZEtQbWc4TUJRSVZWbi1KTHE5SVdEemxzRzdOeHRjcEpRREJ6aWhJT1hSc0s3OXIzbC1BTHpwX0F4WEZQbkVXNXdVR3NjbUZIYWlZVFdIaENJQllCMkJiUGFVWnA3d0daU09TVU52S3B6a2hMc3kxcWs2Tk8?oc=5",
-      "pub_date": 1793139694.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-bear-market-over-galaxy-222134137.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/53534ac515302eff74892ae14d9916f8693eecb76146b669c8b67ac91193fda0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbedd985b7b03b0e8688c9f005033ff4e.jpg",
-      "description": "Galaxy Digital just declared the crypto winter over and told clients to buy Bitcoin now, but the price keeps sliding lower while major traders bet against it. Something does not add up."
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTJLVHBrTzkyUXJXeHNxcm5wSjlMb05IT1p3VU1vb2RLMHRIbTZ5SXhGa1djVGpScVQ5QTI1d2xZaUVCLWZRUUR6SVpWblc0bDRJX1dod0VBRmpicnEtS0dBcy00T0dtcEQtY0ZabDY0T2RVTzY1bHZJbHF3QmpUQTkxUFVsdWRJUm5nNzFWQWVIMGM?oc=5",
+      "pub_date": 1793104335.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-one-biggest-123215921.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9ba84863c36bf366492671cf8752d9ca0608b76208186028f0d34a917c4ea218/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fc4459c4802250f1cfe2bee8801280d0d.png",
+      "description": "Tom Lee\u2019s bullish market outlook faces a near-term test as roughly $10.8 billion in Deribit Bitcoin options approach expiry. BlackRock\u2019s IBIT attracted $110.3 million on\u2026"
+    },
+    {
+      "headline": "\u2018I thought I had to pay it\u2019: Elderly Gresham man gives scammers $40K in bitcoin after falling victim to phone trick",
+      "source": "KOIN.com",
+      "source_url": "https://www.koin.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMEVlM3BFdmxmN0VQNExNRl9jUVhoLU1WNTQ4QVI5OHJyNnhCQ2w5YU04U0VuRXlCWk5OeUNnZVNMcTU2Q0VPSFFBTWdsSU5pdUppYVNFSnBuWVozNTE5ajR2eTFLVTV4SUh0VVhZTTJ5U0l2OTlFakdoU1pOcDRNRW1YRXRNbEozbllMbVlDSG03VThGMlpNMGxRLXFSaVlhalN2ZGRMa1ZOLWR5VS1WSU5lVVV2VnBYZlZsNW1WemtobFJYWmNwXzVoSWJPOGZkdTlWd2IxMXFOemZ2TnNBMFpncVc1Vm9hWjhSbdIB8gFBVV95cUxPaktrcE9McEg0c2xqU1laN3djMl8xU3JLVi0xSEhaNHBWdGF2WlRGbmNGbC1rb3dmWnM5THpnRXh5RG00OFVnYUlyTHF0ME5KY1VKQW9IUjJERUhOSXVSd1MxckVoRnVOVzBITzdrSlFfbkdJR3d0T3NXZGM2cjV2eV9tNEM0UFFnbGp6TjRpaXU0cXZGdnNvcVNQaTB3NC1VelhuQU9uVURqWDZLM0k4NHpJeEJQaHlzclNWS3dBWUlFOTBrc2ZSOFY4TFB4d1VYZlVZVVppR0doVy1iUDFFQUpoQktqTE9HX004ZWlzdm9Odw?oc=5",
+      "pub_date": 1793136582.0,
+      "article_url": "https://www.koin.com/local/multnomah-county/i-thought-i-had-to-pay-it-elderly-gresham-man-gives-scammers-40k-in-bitcoin-after-falling-victim-to-phone-trick/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin\u2019s Road to $100,000 Is Crowded With Would-Be Sellers",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUG5IYkpZcTBXMjBwZXJXRFA2My00XzlURjRRaEJFTXIteEZhLUNEVlZSWVNzWUFwQkFySFZkczBfdEh4d0RCSHFkYXBtdC1QZ04zam5aRVdPeW02TjJ6aEZUaXllVzBwRmRSTExvcmZta1JiX3Q2eEQ4d2FwZy01bnRrTk1ybklEeklvc0Y3aVZHWWV1RVUxcWJTWXNPN1VRZjdxa1VTbS1ZMm5oZ2c?oc=5",
+      "pub_date": 1793142004.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Separation of assets: Thieves beat ex, take $10K and Bitcoin-stuffed tablet in Capitol Hill heist",
@@ -45,16 +75,6 @@
       "description": "Police say an early-morning apartment robbery on Capitol Hill netted a pair of thieves $10,000 in cash and a tablet tied to nearly $250,000 in cryptocurrency \u2014 a target the victim said was li\u2026"
     },
     {
-      "headline": "Now is the time to accumulate bitcoin, Galaxy says",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQkpGaHRTUmZXV1lZYmZfUWRzTi1ic2VpUXVpYVhWVW1qaUMyTlp2NnYxRkEzY29YWUk2bzhQYkx4RGlHMWRJcWFVakh6SGdWZEtyck8wU3MxVGhhQlJtWll2a29ieFdlNGlNTUV2SHU5WENaR2x6ZHhCQXo5VW1uWmZNMmotNlBPcXpyMmdpbVFCaHpUS3FkVg?oc=5",
-      "pub_date": 1793100735.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/05b546743c9c24f4091cece89ebaf7fad410651a-5616x3159.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin\u2019s recovery towards its previous high."
-    },
-    {
       "headline": "Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
@@ -65,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlhtc3BvVm9uNG1nZWNUaTFtemxvRm9wUmdWWVVqeU5FMVZTZjRVVUFmSUlaRGF3US1FNlNndDd4R2hzbDZHaG50cWM0MEZqWS0yVFIxR3RjR1JGbjU2bTBnejdIX2RNdFZIdEZzVEZFQURMR0hXcnp5UFdXeXM1OS02aVN1YVN4SzlhYjFyOVJ0NnZFZ1ljUV84UjQ?oc=5",
+      "pub_date": 1793156400.0,
+      "article_url": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/1920\u00d71080@2x-scaled.png",
+      "description": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin."
+    },
+    {
       "headline": "JPMorgan Chase Says That Bitcoin Will Outperform Stocks, Bonds, and Gold Over the Next 10 Years. Here's Why It Might Be Right",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -73,38 +103,8 @@
       "article_url": "https://www.fool.com/investing/2026/10/27/jpmorgan-chase-says-that-bitcoin-will-outperform-s/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892214%2Fjpm-and-bitcoin.png&w=1200&op=resize",
       "description": "The banking giant is still pretty skeptical about Bitcoin."
-    },
-    {
-      "headline": "\u2018CryptoDad\u2019 on stablecoins, bitcoin\u2019s role in a portfolio and why he does not directly own any crypto",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWDJOVW9DalhSdDdQY0hMU0l5ZGpPcXNuX2czcDQxblA0OWhLejdXTGpudXNVbEdYaEUwSjNqOHllTXpFNkNsRWxmY1d5RDZaOU9CR3AxcHdrQndlZE50eGh3ZkFONG8yZjVQMHh4REtHRDJDQ1ZhVTA5NkpVMVJoUjFrZEUyMnJUYVVmU3JwMlFBVFktV0tJeTQtdmFMWXkwRzVQaXdoU2xnRlpJbzFNN1JFdEFrZjN4QUl4SGtpOWdpb3B3U21GS0FLWVRYeGFwUldJbUtTUQ?oc=5",
-      "pub_date": 1793123580.0,
-      "article_url": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelU3eG4xSEdFNHdBTnNwZWFGZWVlNGhjcV9HV3diaXgyalRfX0pTMkx2bGNfZWM1aERBRE13OXFOcm9mN3duek8yTVNIRHBkSG9waE56ell5aTN6TERzblV6aVp1N2luM3pkcHZ0MWR3UDVOMWZwQ0g4Yi1ueG11SXNuSjdYS1ViR0VENEJTcWNqbFNpSDc2ZW9sUQ?oc=5",
-      "pub_date": 1793111520.0,
-      "article_url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/07/20240711_BitcoinMining_News_2.jpg",
-      "description": "CMT Digital led the round, which includes new funding and share sales, as Luxor expands into an AI infrastructure business."
-    },
-    {
-      "headline": "Bitcoin++ Announces Antarctica Edition For January 2028",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81VGJQYzh3TmItMmpINTFIWXA0dVNBcVFEeEcyWnlfbmhoRkVyUTREREVIQ2J1aXQ4ZndSMERDc0FyZU56TnJ0bGRxZDF3b1BxaWx2OHpCZzV4TThnYXJJVTVlZWR4ODVNOVFaTkxaaHg0Zw?oc=5",
-      "pub_date": 1793059309.0,
-      "article_url": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/bitcoin-Announces-Antarctica-Edition.jpg",
-      "description": "bitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-27T23:33:10.947421+00:00"
+  "fetched_at": "2026-10-28T04:23:35.150920+00:00"
 }
