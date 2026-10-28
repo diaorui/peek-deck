@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-27T23:33:16.292145+00:00'
+updated: '2026-10-28T04:23:36.861506+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 27, 2026 at 23:33 UTC  
+**Last Updated:** October 28, 2026 at 04:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 **[Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation)**
 
-Bloomberg.com • 3h ago
+Bloomberg • 8h ago
 
 ---
 
@@ -130,7 +130,7 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 **[In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans](https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html)**
 
-The New York Times • 14h ago
+The New York Times • 19h ago
 
 ---
 
@@ -138,15 +138,7 @@ The New York Times • 14h ago
 
 Spacewalking tools and a pair of robotics jobs topped Tuesday’s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear.
 
-NASA (.gov) • 3h ago
-
----
-
-**[BlackBerry reinvented: CEO sees big opportunities AI-powered robots](https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html)**
-
-BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.
-
-CNBC • 1d ago
+NASA (.gov) • 8h ago
 
 ---
 
@@ -156,35 +148,43 @@ The Business Journals • 1d ago
 
 ---
 
-**[Ukraine Develops Drone-Carrying Ground Robots to Fight Aerial Threats, With Millions More in Funding Needed](https://www.kyivpost.com/post/88325)**
-
-A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets.
-
-Kyiv Post • 9h ago
-
----
-
 **[This AI Stock Catapults 58% Amid Robotics Spinoff; Nears Pivot As Earnings Loom](https://www.investors.com/research/ai-stock-zebra-technologies-zbra-earnings/)**
 
 AI stock Zebra Technologies is near a pivot after a 58% gain year-to-date. Third-quarter earnings are due Nov. 3.
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 10h ago
 
 ---
 
-**[Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom](https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages)**
+**[Ukraine Develops Drone-Carrying Ground Robots to Fight Aerial Threats, With Millions More in Funding Needed](https://www.kyivpost.com/post/88325)**
+
+A UGV would carry interceptor drones to a designated position and launch them to engage enemy aerial targets.
+
+Kyiv Post • 14h ago
+
+---
+
+**[China unveils 13-foot robot that can lift a cow](https://malaysia.news.yahoo.com/china-unveils-13-foot-robot-174401927.html)**
+
+‘Robots should not merely replicate human forms but surpass human physical limits,’ says NeodraDynamics founder
+
+Yahoo • 10h ago
+
+---
+
+**[An 11-person startup raised $40 million to challenge robotics' data-hungry giants](https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10)**
+
+Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration.
+
+Business Insider • 17h ago
+
+---
+
+**[Companion humanoid robots get lifelike silicone skin, 100 languages](https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages)**
 
 Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027.
 
-Interesting Engineering • 20h ago
-
----
-
-**[Sterling Anderson doesn’t think humanoid robots should be building cars](https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy)**
-
-GM is placing a high-stakes bet on AI and centralized software to fight off Tesla and Chinese rivals.
-
-The Verge • 12h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -192,33 +192,53 @@ The Verge • 12h ago
 
 ## YouTube Videos: "robotics"
 
+**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
+
+OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
+
+📺 MACHINEKIND
+
+👁️ 5K • 👍 177 • 💬 13 • ⏱️ 13:33 • 5h ago
+
+---
+
 **[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
 
 Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
 
 📺 VisionX Lab
 
-👁️ 226K • 👍 6K • 💬 357 • ⏱️ 0:59 • 2d ago
+👁️ 247K • 👍 7K • 💬 398 • ⏱️ 0:59 • 2d ago
 
 ---
 
-**[From Prompt to Walking Robot With NVIDIA RTX Spark](https://www.youtube.com/watch?v=VvJai6HGfyE)**
+**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
 
-AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots. Astra connects FreeCAD, Blender, and ...
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
 
-📺 NVIDIA
+📺 InsideAI
 
-👁️ 260K • 👍 4K • 💬 175 • ⏱️ 2:40 • 6d ago
+👁️ 2.1M • 👍 38K • 💬 4K • ⏱️ 15:05 • 2d ago
 
 ---
 
-**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
+**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
 
-NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
+Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
 
-📺 DPCcars
+📺 MACHINEKIND
 
-👁️ 85K • 👍 333 • 💬 80 • ⏱️ 4:22 • 1d ago
+👁️ 19K • 👍 217 • 💬 34 • ⏱️ 13:25 • 4d ago
+
+---
+
+**[New NVIDIA Isaac GR00T humanoid AI Robot is mind blowing - World Premiere](https://www.youtube.com/watch?v=C3CeYOOYzXw)**
+
+Take a look at the all new NVIDIA Isaac GR00T humanoid AI robot. NVIDIA is accelerating the future of humanoid robotics with ...
+
+📺 REC Anything
+
+👁️ 85K • 👍 560 • 💬 80 • ⏱️ 9:37 • 1d ago
 
 ---
 
@@ -228,7 +248,27 @@ The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredibl
 
 📺 DPCcars
 
-👁️ 61K • 👍 542 • 💬 166 • ⏱️ 2:30 • 6d ago
+👁️ 61K • 👍 543 • 💬 166 • ⏱️ 2:30 • 6d ago
+
+---
+
+**[China Sets New Guinness World Record as 110 Humanoid Robots Dance in Perfect Synchronization | AI1B](https://www.youtube.com/watch?v=y-Iy1AsIM9I)**
+
+China has set a new Guinness World Record as 110 full-size humanoid robots performed synchronized dance routines in Jinan, ...
+
+📺 DRM News
+
+👁️ 44K • 👍 111 • 💬 54 • ⏱️ 1:21 • 1d ago
+
+---
+
+**[From Prompt to Walking Robot With NVIDIA RTX Spark](https://www.youtube.com/watch?v=VvJai6HGfyE)**
+
+AI agents on NVIDIA RTX Spark help developers turn ideas into real-world robots. Astra connects FreeCAD, Blender, and ...
+
+📺 NVIDIA
+
+👁️ 262K • 👍 4K • 💬 178 • ⏱️ 2:40 • 6d ago
 
 ---
 
@@ -236,17 +276,7 @@ The NEW Unitree H2-X Kung Fu Legend Guardian humanoid robot is showing incredibl
 
 📺 ShanghaiEye魔都眼
 
-👁️ 112K • 👍 738 • 💬 329 • ⏱️ 1:01 • 3d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 3](https://www.youtube.com/watch?v=wcOZklEXzd8)**
-
-Robots going completely wrong caught on camera return in Part 3 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 78K • 👍 546 • 💬 37 • ⏱️ 10:29 • 3d ago
+👁️ 112K • 👍 738 • 💬 333 • ⏱️ 1:01 • 3d ago
 
 ---
 
@@ -257,36 +287,6 @@ NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC
 📺 DPCcars
 
 👁️ 2.1M • 👍 14K • 💬 2K • ⏱️ 4:06 • 6d ago
-
----
-
-**[Microduck robots go viral at NVIDIA GTC 2026 #robots #microduck #nvidia](https://www.youtube.com/watch?v=tYROJBVwt5M)**
-
-Hugging Face says it's sold more than 4000 of its Microducks since their viral appearance during Jensen Huang's NVIDIA GTC ...
-
-📺 Kalil 4.0
-
-👁️ 111K • 👍 805 • 💬 27 • ⏱️ 0:34 • 4d ago
-
----
-
-**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
-
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
-
-📺 InsideAI
-
-👁️ 2.0M • 👍 37K • 💬 4K • ⏱️ 15:05 • 2d ago
-
----
-
-**[China&#39;s Hidden Giant Building Thousands of Humanoid Robot Heads #robotics #robots #tech](https://www.youtube.com/watch?v=naoHeKPg21A)**
-
-China's Joyson Electronics may be the world's largest supplier of humanoid robot heads. Founded in 2004, the Ningbo-based ...
-
-📺 Kalil 4.0
-
-👁️ 172 • 👍 3 • ⏱️ 0:49 • 25m ago
 
 ---
 
