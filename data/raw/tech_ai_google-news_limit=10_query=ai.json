@@ -5,22 +5,92 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHVZSlh6WGZFV3JITndIRmtNcldtZ0VTdnp2NXdHbC04NjJkZmRsWWFFdy1wVnVqX3dHLXFLSGtkRlM4UEdWbGZqdVdHZThja1FmZ25TSk5kcWdEdGRJeER3bGdlRldrZUt2QmM0MjJzeEpKd3BWRjNqaHMzSnZONkNONDRMUTFKU2Z4b2h5QjY5dnNuTURqTWRzRHZUcWJyMktSUlhBQlc0X24ybGR1UzJyTUpLZUtkX3hsc1RmcDNLVWtjdUE?oc=5",
-      "pub_date": 1793182500.0,
-      "article_url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/191:100/w_1280,c_limit/culture_macmillon_failed_ai_project.jpg",
-      "description": "Workers tell WIRED that NOA\u2014or \u201cNo Ordinary Assistant\u201d\u2014was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers."
-    },
-    {
-      "headline": "A.I. by the Numbers",
+      "headline": "Silicon Valley Is Grappling With a Flood of Bugs Found by A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTnE4WTJGd1gzbVRMbGNlMnFSSkwtbENJOE9QZ2hoa2Foc2NzTHJkZm1pbHdJQ3ZLYUJaZ0FvdTBhRlBMNDd4eHVHZ0FCeFRpdENqTS0zOGF5TWxpVFRfRV9JRUZjNmZ2b3ZwazdVMF83RUsy?oc=5",
-      "pub_date": 1793185197.0,
-      "article_url": "https://www.nytimes.com/2026/10/28/briefing/ai-by-the-numbers.html",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaHMzZ0xHaXZJclUyQTNaV21kT28yQVNMWk1oaTNENVZQUkFzSjJWTllSMVdKM1dKZU1kUGpHTnBRTUp5czRSS2h5ZUg2ZlJ2cE9adDhOaWRhN1MyaENXazlvWm8zMnhuOFZzQ0F1SkVLMnIwb0hKTzNmY1VSUQ?oc=5",
+      "pub_date": 1793178278.0,
+      "article_url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Inside Anthropic\u2019s IPO + How AI Agents Spy on Your Messages : Machine Gods",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTzZmaWlydTRmOXk1ODN0ZTVZc0lJMVd5cHpBMVVJVlhrZzUxNnlGNWJGRHRTQ2pWSXNFc2Y5bWU5UWZWczJfUjJqMUV6MmxHblhtVHoyNFFreTF2UEFZMFNiX3l0Y3BvTm1GVW5WYXZnXzI0YmdkRHV0QXc5azBqLThySm0zalBxVkszeHQ0emkyZDMxeWdOcFRsT01GeHVPalc4?oc=5",
+      "pub_date": 1793185200.0,
+      "article_url": "https://www.npr.org/2026/10/28/nx-s1-6019724/inside-anthropics-ipo-how-ai-agents-spy-on-your-messages",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2Fc4%2Fd27df14d4259b57151f2337e4c3f%2F5233357d-ceb8-49c1-af3b-48bde3cec1e1.png",
+      "description": "Anthropic, the AI company behind Claude, has released the most detailed account of its business yet, as it prepares for its IPO. We break down the biggest surprises in its S-1 filing and explain what the numbers tell us about the AI bubble. Then, Signal president Meredith Whittaker joins us in the studio to discuss the existential threat facing private messaging and end-to-end encryption. Between governments demanding backdoor access to private conversations and AI agents that can see everything on our devices, she warns, \u201cwe are looking at the elimination of the possibility to provide privacy.\u201dFor a transcript of this episode, check out npr.org/machinegods.You can watch this full episode on YouTube, Spotify or Apple. And if you\u2019ve got a question you want us to answer, you can drop us a comment on any of those platforms or email us at hey@machinegods.fm"
+    },
+    {
+      "headline": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTNLaEZxN01qbHhiZ3NjYWN0WHU2MmJ3Y1hWT1JHUVIyaUJCTkMxZjI2Zk05bmFLbzJxbDBSVTU2dEtobjlOdHE2VU5uQnpJVW9fMTVrUjZYc21WVUlDcEw3dHVoQ2FPQXkwYXlfajZZeDY1aWlZRlFnVG1JMFV2Z0twN3VvSlp1Um1LTzFQTXBad05iUV83dWo1Z3l3blJsd1RQRW5SS29QTXlmU0VUS212S08?oc=5",
+      "pub_date": 1793136674.0,
+      "article_url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
+      "description": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+    },
+    {
+      "headline": "Amazon relaxes push for AI use as Anthropic reveals shocking stats",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hVmNYTzcxeFpBNVduX2JnRzcwODFoRE50Y0JKcEQ2QnE0WkE1emllTDFJTDBrOHFMd2oxMkY1V2xxeUM1RHpOam9hVC1zUkNiN3JVR2NHZTNMbmQxUmNQMTF3UjE1QWZCNDBqVTZucVpTS05nRW5BUw?oc=5",
+      "pub_date": 1793218128.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-news-anthropic-openai-october-28",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/8e99c74df02a527073d508fc9892751a.jpg",
+      "description": "An internal memo at Amazon shifted its guidance to software engineers on AI use this week, telling employees to be more stringent about what they use AI to accomplish."
+    },
+    {
+      "headline": "The AI trade is back, and it's sorting software stocks into winners and losers",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORGc0MzdieHhwY3YtZ1RMdzdBT3RfUWxXQjFKTHY5dXhKUWFYcDJyM2JHLXVoNjA5QVlmRnZ2OEVOdllMN1JvM2ZGcVBZbTR1WjhjYWlIaTh5djZ6OXRKWnNvNV8tSWZtNnpXU1c3VkhNR24xVndhQkJtSENRQUtQbzhFM3gzdnd4andGZ0MtOXltdHYwdS1LUkVIdmJmMHNQZ01DSHJIczg1QjFjenpuOEwyVV80SmkyNmFET0d1eUx5aE80X2dkV3d1aHBMUQ?oc=5",
+      "pub_date": 1793199826.0,
+      "article_url": "https://finance.yahoo.com/markets/article/the-ai-trade-is-back-and-its-sorting-software-stocks-into-winners-and-losers-150346310.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/03319f2163676c8f4b450eff85006a705bddc7e2e64193650bc246951b32f246/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fa44ca9bf-e649-4bd4-9b15-aa7df1cdb800",
+      "description": "The chip rebound is sorting software stocks into winners and losers, with October's biggest gainers now falling the hardest."
+    },
+    {
+      "headline": "Google shares drop 7% as search business falls short and AI spending surges",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU?oc=5",
+      "pub_date": 1793218516.0,
+      "article_url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHp2SlA2VGtZamtqaWlqaXlCd1prZ1htWV82SlNmNXZOSnRZbDYxQkpXQU8zU2dtMFB3RHBmc3dYYmVoRExoQUV4RFBGTjhuVUVIcVY1MVVPQ0tTb0puTnZsZWFjS1BfZVgyVXlwbE41ck12aUZUcVRWY0hjb0lUalB5T1VKUXQzZ0hYN2JIYVVtNGhfX3J5OGx4ZUFNaGRCalRveWNDM2lYenRWNkZBT0dUal9XWWJVM0toVE5xSDR4Q21rdVk1TUpFQ1JqLWM4NFl2RVNBZVExc2dHbEF5bnNFOVpFSlE?oc=5",
+      "pub_date": 1793222017.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/live/microsoft-earnings-live-microsoft-beats-q1-expectations-on-top-and-bottom-line-on-ai-growth-204510452.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/93be38857b497838fa255fa9b5fd8d9892a76ff78543c1b32b85904ec640a6bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F6e2c74cb-5745-40af-b740-c2d0c45d8a9c",
+      "description": "Microsoft reports Q1 earnings."
+    },
+    {
+      "headline": "Fintech's agentic AI debate",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fdTFuN21QOW9ROHJqQmdOcTkxXzFaU3YteDNSMmJ4dFBpNUpRbGN6ZmdpTnZRaFRZclhHRXlaaG1fa0hvb052M3h1cEZaajlEWVRFRXBnSEc2dndPYk5FR1FQU1JJTkgxNTFtdWpmU3NBVHNsSmRQMHNB?oc=5",
+      "pub_date": 1793220587.0,
+      "article_url": "https://www.axios.com/pro/fintech-deals/2026/10/28/fintech-ai-commerce",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Marvell Is Said to Near Deal for Lumentum In AI-Related Megadeal",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGdUMkpHa2JOcFhCMTFQU0tLaTJkTU54TmQ2aGJnVVVMR2VzeGdzLS1ONXd0U3hqQ0xPZUlEeTgyOWVXMHRQQ0hIeW5aX21JRkpNY3FlRUdNM1ZJMS1ZX3JwMWUteGVLdFFaVlNZMjZXUWtSSXNVRlEwdnRvbU9iQVBnNS1ycUgxMU5LTGtQQ0hSTWNOTkhBZ3FNRC1HaEZXZG9UMUd1QlBfeG1qZ044cTQtTk9Ydw?oc=5",
+      "pub_date": 1793222338.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal",
       "image": null,
       "description": null
     },
@@ -29,82 +99,12 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
-      "pub_date": 1793016120.0,
+      "pub_date": 1793104678.0,
       "article_url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "The AI bubble already popped \u2014 in China",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1loUTBCZ3N2WlVpZGtNd3hLMUVPb3NRLU1TRmQzbWJYdVdZMnpCMExwS2xZTUY5am5pZ0NhT3lzSzBCSFl2Z3JldExUUmZWUjczYkdwN3Y1aWNnU3RpZkV2OUp0eHNYMEQyNElWY1BWUll3eG9INktSaWtpUFVhUERybFM?oc=5",
-      "pub_date": 1793183951.0,
-      "article_url": "https://www.ft.com/content/6abfda69-f4f7-45d5-922c-f4b65a72bcdc?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tech: The AI Bubble Has Already Burst In China. Could The U.S. Be Next? : 1A",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWZGaHpJc2RYa1hpd3FJWTdOQ0lLMXBLcDBNeURQSWdaTkRNc3IwV3BFSmhiMUxnZE9sTnVDbXFGX081MjFYeVI0bk9TT1NEY2NkaTBEY0c5ZnNhbmd6Ykh6QWJEOHg1bHBrZ1lnX0IwMWdJemk0Wk1RMlpNOUo4WFo0cVRwRjA1Q3VacVI2MGlOQ2Q0SmRxWmtiUDRoV0ppeW9QXy1aeGJuMEl0UmlyRk9R?oc=5",
-      "pub_date": 1793205776.0,
-      "article_url": "https://www.npr.org/2026/10/28/nx-s1-6020519/tech-the-ai-bubble-has-already-burst-in-china-could-the-u-s-be-next",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2Fe8%2Fa6fc1a9a4955ac9be416a918afc7%2F28058f3a-015a-4bb7-a7b1-ebabc41a8ed0.jpg",
-      "description": "It\u2019s been a massive year for AI \u2014 and it just got bigger. Anthropic, the company which makes Claude, filed its long-awaited Initial Public Offering on Monday in what could be the largest IPO ever.It was also a huge day for AI deals in general. SpaceX secured $40 billion in financing to lease chips to power modern AI. And Meta is seeking $95 billion for its AI buildout. Altogether, that\u2019s about $235 billion in one day, almost 1 percent of U.S. GDP.We\u2019re seeing Wall Street fund the AI buildout in real time. But the bubble has already burst in China. Could the U.S. be close behind?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a."
-    },
-    {
-      "headline": "CNBC TEC Summit live updates: How technology executives are navigating enterprise AI adoption",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZUGctaVltTmZscEhBZkE0X2gtRERpb2JOdlNJVlBiay1xS0hYOUlYVHNYclBzdElHNG9GTXcyUVZjR2NMRmdSNVVNUXNWN18xUThjWjFxS1h0ZGZGYjh1NGlPQS1NWnRzWWZUeXlHS1dQWjZBaDFtN1FqQXbSAYIBQVVfeXFMTVYyZ2NvbFNiMklPR2hjQ1hKOUFWeTlWcTRxVHozazBrX2lidUt3MjZqalhwdmFSRlpRNjZTZnRIZ3lhSHItZy0wWEdoZENTUllaM0dvTWVaWTBObU5MUERNb0luY204cWVTbDNFSTVVWUdhZGQxQUFma2wxSk5qa2hhUQ?oc=5",
-      "pub_date": 1793205960.0,
-      "article_url": "https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108475258-1793201858002-CNBC_TEC_SMMT_SK_102826_2126.jpg?v=1793202231&w=1920&h=1080",
-      "description": "Follow CNBC's 2026 Technology Executive Council Summit for live updates on AI agents, cybersecurity, AI costs and the future of work."
-    },
-    {
-      "headline": "I Tried To Compare Seven AI College Advisers. What Families Should Know.",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHV2UF9VQnFGYU1na0JqV3YwRnR0dXY4bFphempNQkltdXMwdW9sM0FkLXN1RWRieXZGSm1sZTRheTlzWlNMQWp1NG1Pd3RnbHQ2a0hUVURQLVFUUFMxR1hpalVXOWw3d1ZwWG5ZdW5WRE05YlF4ckFwTTlvcmFPb093X2tzN2RrRUhYMjhrYUp3Y3BmNWhtc3JDWFFkWFpyekVzQlk4aFJPcWktVVhuSTAySHRpcHhXdEM2VlFXSQ?oc=5",
-      "pub_date": 1793205223.0,
-      "article_url": "https://www.forbes.com/sites/scottwhite/2026/10/28/i-tried-to-compare-seven-ai-college-advisers-what-families-should-know/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI may not be boosting productivity much yet",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X3FQTjNSanlYSnJpZ0xtY2hWYThyb0xRcVY0STdPRW10X3NIaXMyUTRjNnd4cFNyVVllMjliOEJsb0JTQ1QxNXk0RWhVanFKVnlMeF9IU2hVZGZlTXBabVRUWEJ0RGE2V0E?oc=5",
-      "pub_date": 1793204066.0,
-      "article_url": "https://www.axios.com/2026/10/28/ai-productivity-anthropic",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Wall Street\u2019s AI Debt Machine Is Starting to Choke on Supply",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeDN3WEJNRHl0M2xSeFp5OWdCSHBkVm5rU3gydlBLekZsYzJrTTRGTEE2eDFONTFuYmh6ZEctaE1lR0F1UDNTZXVpaHFRSHU2WHFJVS1mT0FfZXJRYnhvVzYyN3VWcHhRQ0U0akhIZ1JLS19ma2U5MVNZRGNQTkE3ZFRrM043MldiODlac1Z3TVMwX3ZPVjNZZ0hRcDRNaXB4cmpZZFlIbi1yUjEtTnNsQg?oc=5",
-      "pub_date": 1793183400.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018There is no inevitable dystopia\u2019: Jeanette Winterson on AI and the future of humanity",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHhoWTNGUmExLUN0c2w4SkJ5cUllajMta0Q1VEFlakdvOVMwVjV4TE0xNGoweFQxc28wSFV6THByeUVGcFZQWW5HXzkzUFdXTXJjU3Y4ems3MzZDWUNudHFwcWwxNnFSSUtSNGdYclQyc3VMM3VOVDJIeVVLd2VNYllkN0YyaGR6ZnAtTUUxenJPTUZQWDhVTGt3OWlxVHNYX1RmYS1TQjlNYXI4ZFE?oc=5",
-      "pub_date": 1793190540.0,
-      "article_url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
-      "image": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d72fb91c9f4dff88c4883bffbed9acc1",
-      "description": "The author believes we are at a turning point as a species \u2013 and even in the shadow of big tech it\u2019s up to us how we want to proceed"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-28T17:00:57.455986+00:00"
+  "fetched_at": "2026-10-28T21:37:03.946929+00:00"
 }
