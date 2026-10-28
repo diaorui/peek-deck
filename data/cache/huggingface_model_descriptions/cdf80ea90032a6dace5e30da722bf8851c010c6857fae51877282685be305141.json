@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-28T21:37:05.222899+00:00",
+  "data": "Hy-SimulMT-30B-A3B-FP8 is a low-latency, high-quality model for real-time bidirectional speech-to-speech translation between Chinese and English. It features continuous audio stream processing, real-time voice cloning, and achieves a StreamLAAL of ~3 seconds, making it ideal for live meetings, speeches, and interviews.",
+  "model_id": "tencent/Hy-SimulMT-30B-A3B-FP8"
+}

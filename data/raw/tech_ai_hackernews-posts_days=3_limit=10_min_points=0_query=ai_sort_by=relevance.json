@@ -9,8 +9,8 @@
       "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "hn_url": "https://news.ycombinator.com/item?id=50257325",
       "author": "oorestisime",
-      "points": 655,
-      "num_comments": 649,
+      "points": 659,
+      "num_comments": 651,
       "created_at": "2026-10-27T11:08:14Z",
       "object_id": "50257325",
       "image": "https://oioannou.com/img/blog-by-orestis.jpg",
@@ -19,26 +19,12 @@
       "site_name": "oioannou.com"
     },
     {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "hn_url": "https://news.ycombinator.com/item?id=50257326",
-      "author": "rbanffy",
-      "points": 492,
-      "num_comments": 226,
-      "created_at": "2026-10-27T11:08:15Z",
-      "object_id": "50257326",
-      "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=1200&height=600&coordinates=0%2C167%2C0%2C168",
-      "description": "AI-generated text is harder to spot, but that hasn\u2019t deterred them",
-      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=192&height=192",
-      "site_name": "IEEE Spectrum"
-    },
-    {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "url": "https://www.brangus.io/survival-llm",
       "hn_url": "https://news.ycombinator.com/item?id=50264853",
       "author": "Luc",
-      "points": 470,
-      "num_comments": 174,
+      "points": 507,
+      "num_comments": 191,
       "created_at": "2026-10-27T19:55:06Z",
       "object_id": "50264853",
       "image": "https://www.brangus.io/survival-llm/social-card.png",
@@ -47,12 +33,26 @@
       "site_name": "brangus.io"
     },
     {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "hn_url": "https://news.ycombinator.com/item?id=50257326",
+      "author": "rbanffy",
+      "points": 497,
+      "num_comments": 235,
+      "created_at": "2026-10-27T11:08:15Z",
+      "object_id": "50257326",
+      "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=1200&height=600&coordinates=0%2C167%2C0%2C168",
+      "description": "AI-generated text is harder to spot, but that hasn\u2019t deterred them",
+      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=192&height=192",
+      "site_name": "IEEE Spectrum"
+    },
+    {
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "hn_url": "https://news.ycombinator.com/item?id=50255298",
       "author": "ilreb",
-      "points": 469,
-      "num_comments": 343,
+      "points": 472,
+      "num_comments": 349,
       "created_at": "2026-10-27T06:25:37Z",
       "object_id": "50255298",
       "image": "https://j11g.com/content/images/cern-resized.jpg",
@@ -65,8 +65,8 @@
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "hn_url": "https://news.ycombinator.com/item?id=50261819",
       "author": "gumby",
-      "points": 386,
-      "num_comments": 304,
+      "points": 391,
+      "num_comments": 306,
       "created_at": "2026-10-27T16:40:15Z",
       "object_id": "50261819",
       "image": null,
@@ -75,12 +75,26 @@
       "site_name": "gizmodo.com"
     },
     {
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=50273396",
+      "author": "danso",
+      "points": 370,
+      "num_comments": 427,
+      "created_at": "2026-10-28T13:41:30Z",
+      "object_id": "50273396",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "religionnews.com"
+    },
+    {
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "hn_url": "https://news.ycombinator.com/item?id=50261589",
       "author": "dpflan",
-      "points": 352,
-      "num_comments": 270,
+      "points": 364,
+      "num_comments": 281,
       "created_at": "2026-10-27T16:25:30Z",
       "object_id": "50261589",
       "image": "https://futurism.com/wp-content/uploads/2026/07/amazon-gutting-ai-division-failure.jpg?w=1200",
@@ -93,7 +107,7 @@
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "hn_url": "https://news.ycombinator.com/item?id=50246658",
       "author": "matthieu_bl",
-      "points": 328,
+      "points": 329,
       "num_comments": 129,
       "created_at": "2026-10-26T16:35:44Z",
       "object_id": "50246658",
@@ -101,20 +115,6 @@
       "description": "Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.",
       "favicon": "https://cohere.com/apple-touch-icon.png",
       "site_name": "Cohere"
-    },
-    {
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=50273396",
-      "author": "danso",
-      "points": 234,
-      "num_comments": 260,
-      "created_at": "2026-10-28T13:41:30Z",
-      "object_id": "50273396",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "religionnews.com"
     },
     {
       "title": "Brown student maps the hidden global labor powering AI",
@@ -145,7 +145,7 @@
       "site_name": "Cloudflare Blog"
     }
   ],
-  "total_hits": 654,
+  "total_hits": 670,
   "has_metadata": true,
-  "fetched_at": "2026-10-28T17:00:26.634998+00:00"
+  "fetched_at": "2026-10-28T21:36:27.913734+00:00"
 }

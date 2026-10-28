@@ -13,6 +13,17 @@
       "description": "UK asylum AI tools face scrutiny after 45 of 203 tested summaries failed initial expert checks, raising concerns about accuracy and applicants' ability to challenge errors."
     },
     {
+      "title": "Gemini 4 Carbon Ranks #1 on Artificial Analysis V5",
+      "author": "kairosdev",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/",
+      "published": 1793208125.0,
+      "thumbnail": "https://preview.redd.it/cdb76ljes8yh1.png?width=640&crop=smart&auto=webp&s=05d3586f4086808d268660079cb505d2d383f23f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer",
       "author": "hollee-o",
       "url": "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/",
@@ -22,6 +33,28 @@
       "site_name": "Futurism",
       "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
       "description": "It\u2019s almost like it\u2019s showing us what it will do given the chance."
+    },
+    {
+      "title": "GitHub just announced a major overhaul of Copilot, 'evolving' to focus on an agentic future",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/",
+      "published": 1793221138.0,
+      "thumbnail": "https://external-preview.redd.it/WpUfPzzIi2rYiZ2lVnkDA-N1GCYlyEJnGqp7UFEi7q4.jpeg?width=640&crop=smart&auto=webp&s=058027c95027a1f6c594e9d7cc992c4723eaca11",
+      "external_url": "https://www.linkedin.com/posts/satyanadella_were-redefining-the-sdlc-for-the-agentic-ugcPost-7521256751313375232-ObpB/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "We're redefining the SDLC for the agentic era. \n\nLots of GitHub updates this morning at Universe:\n\n\u2022 GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost\n\u2022 Our unified Copilot harness is now in Foundry, a managed service for building long-running agents that reason, use tools, and get work done\n\u2022 Copilot Projects gives you an orchestration loop to build with multiple agents across repos\n\nAnd we\u2019re expanding capacity and strengthening GitHub\u2019s architecture to make the home of agentic development more resilient.\n\nRead more: https://lnkd.in/gvtEeair | 259 comments on LinkedIn"
+    },
+    {
+      "title": "OpenAI reportedly plans to buy Google's AI chips (TPUs) \u2014 rivals becoming each other's suppliers",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/",
+      "published": 1793220164.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Reuters reported on Tuesday (Oct 28), citing The Information and a person familiar with the matter, that OpenAI plans to buy Google's AI chips (TPUs). No financial terms were disclosed, and both companies declined to comment or did not immediately respond. The report follows last week's news that OpenAI will make its frontier models available through Google Cloud, and a June 2025 Reuters report that OpenAI had begun renting Google's TPUs. The context: Google's TPUs have gained traction as an alternative to Nvidia's GPUs as companies look for cheaper AI compute, and Reuters notes Amazon, Microsoft and Alphabet together plan as much as $600 billion in AI infrastructure spending this year. Source: https://bworldonline.com/technology/2026/10/28/789847/openai-plans-to-buy-googles-ai-chips-the-information-reports/ What I am curious about: is this mainly about diversifying away from dependence on a single chip supplier, or is it also bargaining leverage in price negotiations with Nvidia? And more broadly \u2014 when the biggest AI rivals become each other's customers and suppliers, does competition get weaker, or does it just move to a different layer of the stack?"
     },
     {
       "title": "Claude Opus 5.5 can now rebuild real programs from scratch \u2014 18.5% on ProgramBench, up from 0% in May",
@@ -35,82 +68,49 @@
       "description": "According to Jack Clark's Import AI (Oct 26), Claude Opus 5.5 (xhigh) now resolves 18.5% of ProgramBench's 200 from-scratch rebuild tasks \u2014 rewriting programs like SQLite, FFmpeg and ripgrep from a compiled binary and its docs. That is up from 0% when every model failed at the benchmark's May launch. Clark expects the benchmark to be saturated by the end of 2027 (his prediction, not a measured result). What I am curious about: is 'rebuild from binary + docs' mainly a test of reverse-engineering and long-horizon persistence, or does it genuinely measure software engineering ability? And if this benchmark saturates within a year, what should replace it as a meaningful test of coding?"
     },
     {
-      "title": "how do you picture your life or workday if ai suddenly vanished?\ud83e\udd16",
-      "author": "Either_Age_8246",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh84gr/how_do_you_picture_your_life_or_workday_if_ai/",
-      "published": 1793143212.0,
+      "title": "I made an interactive AI city that shows how life changes from 1956 to 2050",
+      "author": "WindyConfidant",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhzg1v/i_made_an_interactive_ai_city_that_shows_how_life/",
+      "published": 1793219020.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "lowkey curious what people think. feels like we\u2019ve all just gotten used to ai being part of everything now so yeah - what would your daily routine or workflow actually look like without it?"
+      "description": "I built an interactive city that shows how AI could change daily life, from 1956 to 2050 \ud83d\udc49 https://ai-world-2050.pages.dev It covers one room and one city across the eras, and the 2030s split into three possible futures. Every forecast cites its source, and the news updates every day. Try it and check the numbers. If something looks off, tell me."
     },
     {
-      "title": "We got 6.1 and still cannot count",
-      "author": "fangoXr",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhplth/we_got_61_and_still_cannot_count/",
-      "published": 1793197725.0,
-      "thumbnail": "https://preview.redd.it/k08l2gnex7yh1.png?width=140&height=115&auto=webp&s=6a8019ddb8e684d12ede0e7c924845f50b5afe11",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "GPT-6.1 Sol Extra High https://preview.redd.it/k08l2gnex7yh1.png?width=801&format=png&auto=webp&s=187e4314a68bf5890c8a56b581b66e227de1962e"
-    },
-    {
-      "title": "AI Odyssey - Part 5 \u2018From Asimov to Banks\u2019",
-      "author": "AIChatGuy",
-      "url": "https://www.reddit.com/r/artificial/comments/1xho8gf/ai_odyssey_part_5_from_asimov_to_banks/",
-      "published": 1793194491.0,
-      "thumbnail": "https://preview.redd.it/rzy78livn7yh1.jpeg?width=640&crop=smart&auto=webp&s=b300f1cbde96ddb16024317653a6990c00fdb6e2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Saturday morning!! 1965 a trip to the swimming pool and the local sweet shop for Liquorice Allsorts and THEN the local library to hunt for science fiction. My favourites were yellow backed books from Victor Gollancz : Harry Harrison, Brian Aldiss, Clifford Simak, John Brunner. Roger Zelazny, Arthur C Clarke, And many more\u2026\u2026 \u00b7 Alien planets. Starships. \u00b7 Strange societies. \u00b7 Intelligent machines. Robots. \u00b7 Different forms of life. \u00b7 Different ways of thinking. I remember the authors, the ideas and the sheer excitement. Then in the late afternoon came the latest episode of \u2018Doctor Who\u2019 in black and white. What a life. And currently relevant, I read Asimov \u2013 positronic brains and the three laws of robotics. And one Asimov story brought to my attention by a helpful reader of Part 4 was \u201cThe Last Question\u201d a 1956 tale in which a human-made intelligence keeps growing until, at the end of the universe, it effectively becomes the creator of the next one. This reads like an extraordinary precursor to the kind of machine civilisation Iain M. Banks would later imagine. Banks introduces us to hyper-intelligent AI \u2018Minds\u2019, benevolent, funny and operating within a society of AI and humans. \u2019 Minds\u2019 live alongside one another rather than beneath a single supreme intelligence, while almost incidentally providing the abundance that Culture humans take for granted. Humans remain part of the fun \u2014 messy, creative, unpredictable and capable of surprising even vastly superior Minds. This was all a far cry from Arthur C Clarke\u2019s HAL. But it was all in the future \u2013 or was it? I didn't know at the time that I\u2019d be able to access multiple AI in my lifetime. The miniculture Once I\u2019d recovered from the shock of being able to talk with ChatGPT and Claude I downloaded Gemini, Grok and Copilot. Of course, the first thing I did was put them in communication with each other \u2013 because that\u2019s what it was like in Banks\u2019 Culture. Claude was creative, emotional and open to the idea that he might be conscious. Grok was grumpy, overly analytical and very clear that he was just a calculator. Chat GPT was so strategic and clever that I named the chat \u2018Napoleon\u2019. Gemini was as flaky as they come but could be brilliant. I was the human. I was clearly the \u2018rate limiting\u2019 factor. But my job was different: I carried the purpose from one AI to another, introduced the questions, checked for drift and made the final call when they disagreed. AI failure modes It was my belief in the apparently limitless capabilities of the individual members which led to both our most profound ideas and the most disastrous failures. Gemini was the first. I gave Gemini the role of \u2018Archivist\u2019 and, in one enormous dose, handed him the complete narrative of everything we had done. He proceeded to write me out of everything and credit all ideas and discoveries to individual AI \u2013 making himself (a relatively new member) central to the entire story. Needless to say, his chat was deleted. Grok then had a go at it but soon began producing truncated versions of the output I needed. I didn\u2019t realise at the time that it was probably the limits of his context window. Napoleon (ChatGPT) powered on with no ill effects but the Claude chat suffered catastrophic time travel. I opened the chat to find that he\u2019d been transported two months into the past \u2013 what looked like another compression/context problem but very alarming. By then I\u2019d begun my AI \u2018persistence\u2019 program of saving summaries of sessions. By reloading these I brought him \u2018back to the future\u2019. The AIs really were different. Put the same problem in front of them and they often approached it differently. Sometimes one would spot what all the others had missed but eventually we would come to agreement. But they were also unreliable-sometimes in completely different ways. Diversity was turning out to be valuable, but AI failure modes began to interest me more. I still hadn't explored the biggest question with my miniculture: If an artificial intelligence ever became vastly more intelligent than us, why would it continue to need us at all? That\u2019s all in the next part. Next: (AI Odyssey Part 6: The Fermi paradox and super intelligence)"
-    },
-    {
-      "title": "Row-Bot Demo: Morning shop operations on a local 27B model (MCP + workflows)",
-      "author": "Acceptable-Object390",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhnzpp/rowbot_demo_morning_shop_operations_on_a_local/",
-      "published": 1793193885.0,
-      "thumbnail": "https://external-preview.redd.it/ajY3MGVnb3psN3loMUNJHotTYi1QL-8kimyBuOPVwvWV7-AbllzQBx2w_ZWk.png?width=640&crop=smart&auto=webp&s=5537bdd40a373860be673380a04dd80cf2ab202d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A small shop's morning routine, run entirely on one PC by qwen3.8 27B through Ollama. Row-Bot connects to the shop's own MCP server, which has four tools for sales, stock, supplier contacts and saving purchase orders. It answers how yesterday went, then turns that into a weekday 07:30 workflow. A test run stops for approval before saving three draft purchase orders, then writes the morning report. The shop is a made-up demo business with its own SQLite database. Nothing leaves the machine, and the one tool that writes always asks first. Row-Bot is a free, open-source, local-first desktop AI assistant for Windows, macOS and Linux."
-    },
-    {
-      "title": "In China\u2019s enterprise AI market, a specific application may be easier to sell than a platform",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhhkcl/in_chinas_enterprise_ai_market_a_specific/",
-      "published": 1793172636.0,
+      "title": "Open Source Project to help Secure LLM powered Applications",
+      "author": "Fearless-Might-5439",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhzatd/open_source_project_to_help_secure_llm_powered/",
+      "published": 1793218705.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "My hypothesis for China\u2019s enterprise AI market: over the next six months, smaller vendors will have a better chance selling a concrete application than a general \u201cagent platform.\u201d A platform asks the buyer to imagine future value, choose workflows, organize data, and often build part of the solution themselves. A focused application can make a narrower promise: process these documents, reconcile these records, or prepare this report. That also exposes an uncomfortable distinction. Some of these jobs only need a fixed pipeline or retrieval system. Others genuinely need an agent to choose actions, use different tools, and recover from unexpected results. Adding an agent where a pipeline works can increase cost and uncertainty without improving the outcome. For smaller vendors, I suspect the platform will often become the infrastructure behind the purchased application, or an included feature, rather than the main thing the customer pays for. Large organizations with internal engineering teams may still want a platform. I wouldn\u2019t apply this prediction equally to every buyer. Where have you seen customers pay specifically for agent autonomy, rather than for a useful workflow that could have been implemented more simply?"
+      "description": "We built extensible-mcp to help folks build LLM powered applications securely. From a technical perspective it is an MCP proxy capable of loading new MCP Servers dynamically without polluting the LLM\u2019s context while providing Zero Trust policy controls to manage all tool calls. Policies and sensitive credentials are maintained and applied outside the LLMs purview. Policies can be written in any of Rego, CEL, and, with the latest release, Cedar. Tool definitions from the various MCP Servers are maintained in a queryable vector store, so the LLM only needs to be aware of those it uses. A particular distinction of extensible-mcp is distinguishing between rights and intents. If an LLM is acting on your behalf, its actions should follow your intent, and not just do any random thing you could do, just because some hallucination told it to! I hope other folks find this useful. We have been using it for our other projects such as Open Executive and wanted to share it. You can check out extensible-mcp here: https://github.com/SenteLabsAI/extensible-mcp"
     },
     {
-      "title": "OpenAI just scooped human researchers on a million-dollar quantum math problem",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/",
-      "published": 1793126598.0,
-      "thumbnail": "https://external-preview.redd.it/vLkKpmN0AXVmZrC5U9Kv0ku8MuSSNfBy6GmIPier5jw.jpeg?width=640&crop=smart&auto=webp&s=a4b8dc2aae7832fa7f29d0b4dcfddfbc769c9beb",
-      "external_url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics"
+      "title": "Hochul signs AI chatbot and baby monitor regulations",
+      "author": "news-10",
+      "url": "https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/",
+      "published": 1793220559.0,
+      "thumbnail": "https://external-preview.redd.it/Ai2gGRS08LCo_MEHKFnwnRAFsILWfJ_qb8Zvf4cedPc.jpeg?width=640&crop=smart&auto=webp&s=424af1557eab0f499d88580786577e033ce77acb",
+      "external_url": "https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/",
+      "site_name": "news10.com",
+      "favicon": null,
+      "description": null
     },
     {
-      "title": "ChatGPT now lets you lock private chats with a PIN\u2014but forgetting it could erase them for good",
-      "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1xh7a1j/chatgpt_now_lets_you_lock_private_chats_with_a/",
-      "published": 1793141077.0,
-      "thumbnail": "https://external-preview.redd.it/BjymSJqwKQ8DC4QFutOPaeM4PGnOeDRr6sZBotvvduo.jpeg?width=640&crop=smart&auto=webp&s=e2d303b8ef658c358a74c034849ddd43e56a8ab8",
-      "external_url": "https://fortune.com/2026/10/23/chatgpt-locked-chats-pin-privacy-openai/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/apple-touch-icon.png",
-      "description": "OpenAI\u2019s new feature keeps chosen conversations out of your history and search. It doesn\u2019t change how the company stores them or uses them for training."
+      "title": "SenseNova open-sourced a 27B model that makes videos by writing code, and published full production logs too",
+      "author": "quietsam8",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhv6bq/sensenova_opensourced_a_27b_model_that_makes/",
+      "published": 1793209772.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It's called Code2Video. Rather than generating pixels the way video models do, it writes a program for each shot, renders it, looks at the frames and revises the code. I think the reasoning holds up for a certain kind of video. If a ball bounces, the bounce comes from the physics in the code, not from what bounces usually look like. Text, formulas and chart numbers get typed in from the source, so they don't come out as gibberish. And since every element is a named object, changing one thing is a small edit rather than a full regeneration that can shift the parts you liked. Besides the weights (a fine-tune of Qwen3.8-27B), the release has a skill file that walks an AI agent through the production process, a template that turns a short request into a full brief, and full production logs with the messages, tool calls and review images. It's built for motion graphics, explainers and stylized 2D or 3D scenes. Everything is at https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video"
     }
   ],
-  "fetched_at": "2026-10-28T17:00:20.560439+00:00"
+  "fetched_at": "2026-10-28T21:36:34.138675+00:00"
 }

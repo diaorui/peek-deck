@@ -9,7 +9,7 @@
       "url": "https://stealmybitcoin.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50224916",
       "author": "cloudlandsdev",
-      "points": 622,
+      "points": 623,
       "num_comments": 450,
       "created_at": "2026-10-24T20:30:31Z",
       "object_id": "50224916",
@@ -121,8 +121,8 @@
       "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
       "hn_url": "https://news.ycombinator.com/item?id=50245014",
       "author": "rbanffy",
-      "points": 179,
-      "num_comments": 30,
+      "points": 183,
+      "num_comments": 32,
       "created_at": "2026-10-26T15:05:04Z",
       "object_id": "50245014",
       "image": "https://images.hothardware.com/contentimages/newsitem/71935/content/16x9_2133x1200_highres-micron-boise-fab-photo.jpg",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-10-28T17:00:28.692087+00:00"
+  "fetched_at": "2026-10-28T21:36:29.152132+00:00"
 }

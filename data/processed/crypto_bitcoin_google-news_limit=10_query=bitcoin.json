@@ -15,6 +15,16 @@
       "description": null
     },
     {
+      "headline": "Datavault AI Says It Can\u2019t Access Its Bitcoin Holdings",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2Vjekx4S2l4UGVYc0tTeW9obFlwYVpsc25RQ3pfZy1rQ3MtdklpQnZSX0xWY0hTS2Y5aFZ3ckFBN05tMXlNWTQzcUxaVXFBakFLcnpjSzJFLWhjS1N1SjluVnE1dnlFNDFsNFdIM0xreTNOc1IwSzFzN0JyRWQwTUxqb0dfaWFKdW43eFM4S2pJbEF3cUE?oc=5",
+      "pub_date": 1793193000.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/datavault-ai-says-t-access-131000201.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e3d6e12a4e078f40c60b924d5f8a260d90fe788228a496f4ba0b9b8474213a39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F35dff032617907134bd1299db9a6cb76.jpg",
+      "description": "Crypto treasury firm Datavault AI (NASDAQ: $DVLT) says it is unable to access a large portion of its Bitcoin (CRYPT..."
+    },
+    {
       "headline": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -25,44 +35,54 @@
       "description": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin."
     },
     {
-      "headline": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+      "headline": "Watch Fifteen-Minute Bets Scratch the Bitcoin Itch",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1RQQ0Rzcy16WTRjN3pGdUk4QmdDLXVhZFpDTGtOdklVb19TRkJOMlZlclVkMlotaG1qOU00aWp0VzdOd3laR3FnWG10T2p2bmhmN3A5RmJzc3pITzYxS1ZRMV90dXhYU0RGTHlWWGlWeE5BekJOWEhXRkJZM1ZXV2J3WXEyRDhoMl83NDRYVmFCcEFuU0FtMUpEaWFVQUsz?oc=5",
+      "pub_date": 1793217543.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-10-28/fifteen-minute-bets-scratch-the-bitcoin-itch-video",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "MicroStrategy Approves Daily Dividends. Will Bitcoin Buying Return?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmxyWWVRVHd4LWFCMEtXLW10SGNobUEyb2lHN09wbkJRbVNyQzNQSGY2U0E4LUhvVkVjSzBrQ0paQUd6MTloajQtbEdzanV6SWRBazlVSFdpNkR5Zm0tMUc0bVhlTmYwWl9IcEk2cXJaLUY2Uy1NMDhvaGtkMjNUUWU5X05DSGVMNUdqdmZjdUtselZqMmdiR3pkMXJSTVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1A2OWxaallCY2VaLS16bVBLLVJlVG1aRG9hMzRpV3VHdGI2b2lBRnVwT3kyR1VIYjZWeXpSYWVfb1ViY3VZS0VvWDZnUjNUMW5rS2JsOExWVU1yYjB1Tk9JOXlJa25XRW1tS2dIRUNLOEFmaExvT2F0X05MV0VjRC1jVXdoYS01ck93YW5oUmY5TENvWkc0VHQ2M2tGaGJ3UGJ0UkJMUWMyX2llNGg0dw?oc=5",
+      "pub_date": 1793217639.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-approves-daily-dividends-bitcoin-200039719.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8fd49012d9821ff59cfeaddf77ebe19191a12becf931938643226cdddb1f55f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F8746021bf08a2b66c5292adbe576686d.png",
+      "description": "MicroStrategy wins a 99.3% vote for daily dividends after a week with no Bitcoin buys. Here is how it could restart buying."
+    },
+    {
+      "headline": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVhINjFHNlc3UUo0U1NZaldqdExmeks2NDZwN0RfMlctX1pnYlJqd2dkYW5aZzZsLVZsMExxTUdDLVVFU1VtWHVNZ2pYVkcySGpPUVlGaGppNmVwQ0dkN0syR3lBWm8wdkQxYkNoZ284OHBQNElZUGt1bnVLVlh2ak8yVnpaZw?oc=5",
       "pub_date": 1793200534.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/fed-rate-decision-markets-bitcoin-151534908.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0065004f0d64b940219f5475f5993d03f45448f4ec9e0aa696a066c0909cf68c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F5561e5f0eb04da4b35af0585aefd6181.jpg",
+      "article_url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg",
       "description": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets."
     },
     {
-      "headline": "Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends",
+      "headline": "Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjJCYVMxVlBBcE1FMjBqVVdwMk9MMGYxX2UwdlVkNWhVR0lyNlV4QXI0ZS1DWlNxeDJKUklEWnh5UEowNnM3aXJrN0x6djdCWFk0LWl1S3dEVEQ5M212aFJuMjJOUTNNRlByZi1DYTVFZ0M4U1lSU1UwbU9BTVg3TUEwTU1WOG40aHZESzJwYkQybmhqYXdUMFVNc0dDWGpMUzZ2UGx2YUFEZTI0bU5HOTV0akxKdTFyLVFzLTNNUW9Ud0JD?oc=5",
-      "pub_date": 1793203568.0,
+      "pub_date": 1793217973.0,
       "article_url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin\u2019s Road to $100,000 Is Crowded With Would-Be Sellers",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUG5IYkpZcTBXMjBwZXJXRFA2My00XzlURjRRaEJFTXIteEZhLUNEVlZSWVNzWUFwQkFySFZkczBfdEh4d0RCSHFkYXBtdC1QZ04zam5aRVdPeW02TjJ6aEZUaXllVzBwRmRSTExvcmZta1JiX3Q2eEQ4d2FwZy01bnRrTk1ybklEeklvc0Y3aVZHWWV1RVUxcWJTWXNPN1VRZjdxa1VTbS1ZMm5oZ2c?oc=5",
-      "pub_date": 1793142004.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Mining Firm Luxor Raises $16 Million To Scale AI Compute Trading And Hardware",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5b1d3a3YzbGNmSUwtZjFrVUNNcW5kWm9WWmN2dG1aRzVGUTVILS1TSmpJTlA4M3JRNmRUWmkySDBxWGRuQUdvQVdmbEJaRlZxOGFKc05fbnN3LTRoOFhtdm1TQ1ZvelUwX2hFVENySjQ0LU5TbmNQaQ?oc=5",
-      "pub_date": 1793109212.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Mining-Firm-Luxor-Raises-16-Million-to-Scale-AI-Compute-Trading-and-Hardware.jpg",
-      "description": "Luxor, a bitcoin miner turned AI compute firm, raised $16 million led by CMT Digital to expand its AI hardware brokerage and compute trading business."
+      "headline": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVFqTkN1bDI4REVWNEZWXzZCQk5sajBOV0JsaUxkN3ZBWUtlamdCdW5URDRpMHAzeG9BVjRILTNxWDJXR0Y3bHVtVnR5ZUhNUExMMWFKX19kbmIxeXF0aWlIbUthaGdxR1pobnh1R2ZWSVVMc01rakFhSFZqMnUxaEdzT3hadDZNdWcxVzlWTTczb1JwaTlpUFlNaDFoQnBJYmJsRWUxdjdNODJZcGRxaTBJWllZbUZQSW96OGdkcVc5d0ZiMzIyazA5Q1o0U19ob3BV?oc=5",
+      "pub_date": 1793206406.0,
+      "article_url": "https://www.tradingview.com/news/cointelegraph:4624e2739094b:0-bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin (BTC) gave back early gains around Wednesday\u2019s Wall Street open as markets prepared for the US Federal Reserve\u2019s interest-rate decision.Key points:US stocks tread water as focus turns to Fed chair WarshData from TradingView showed BITSTAMP:BTCUSD failing to break beyond $81,700, instead rev\u2026"
     },
     {
       "headline": "2027 Bitcoin Long-Term Capital Market Assumptions",
@@ -75,36 +95,16 @@
       "description": "Bitwise\u2019s forecasts for BTC\u2019s price, volatility, and correlations through 2036."
     },
     {
-      "headline": "Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTNKWHdpZEhIQ2VLYnc4SUJyOEZmQjk3b3pNN1pKaGxoQ3dhemJSZ2c4NFowaEE4bkVtQWJOWWJlU0tEUXYzall4X2hibVdwTm9GZE95anBBOGRrNWVUeWpVcW5xS0hvYzEwNHpZVHQ5YWxaaVRVSFA3VUd6bzl4bVk0RjBvRHd1eG5mUlJaWFJsUWtBU1N2SnNFQ29DdWhLWnpjOEdWRzNTUGw1RGVScmhRRFp5RjdhY0J3SVNKZ19NYUhV?oc=5",
-      "pub_date": 1793117108.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Separation of assets: Thieves beat ex, take $10K and Bitcoin-stuffed tablet in Capitol Hill heist",
-      "source": "CHS Capitol Hill Seattle News",
-      "source_url": "https://www.capitolhillseattle.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWlEtYmlaUEQxTlNfVUl4cGYtLXNRcE9lanZ5dldBVUF0blhXUGExX3JDdmNnSHhiXzFteHVqdEVRNU1CMW5fOGRnVVRXTGVKRG1WSFRUS09henRxQjBqM0hJYkhpQ1A2U0pndzNmZDJOSXl0UVV5eHNoWlMzU0hVY0NURW81UnVzUkFxTVU5aFJoajVYczdBT2wyM2gyZlIyczBzUmFSOHBOU3ZFNjhSZ3pLUTQ4TTVtc2hqMXdFcHF0VFZSanBVc2dCbTVKOFVxUnRnWg?oc=5",
-      "pub_date": 1793122044.0,
-      "article_url": "https://www.capitolhillseattle.com/2026/10/separation-of-assets-thieves-beat-ex-take-10k-and-bitcoin-stuffed-tablet-in-capitol-hill-heist/",
-      "image": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/03/cropped-crowbuttonfavicon_FINAL.png?fit=512%2C512&ssl=1",
-      "description": "Police say an early-morning apartment robbery on Capitol Hill netted a pair of thieves $10,000 in cash and a tablet tied to nearly $250,000 in cryptocurrency \u2014 a target the victim said was li\u2026"
-    },
-    {
-      "headline": "'Just a shareholder' Vivek Ramaswamy's Strive Inc. ties, Bitcoin bet",
-      "source": "Cincinnati Enquirer",
-      "source_url": "https://www.cincinnati.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGxWQ3ZYZVB2LUJ2a1YxcWtTWWc3M195Y2VGUUtrSFNVa0QtUU5DT3B0SE1iZzVXLVJ4czltTWplOFRTN2JtOEVUbHNEWVU4TEx0WlF5UFA2THNPSlo0THJQQnZXRExuOThvTEtjalFzRXRXWlNVNjlpdndqSnVEck9tSmxqeUJwNlNLNmJfQmJsUm8xSmVxWXlUclJnSHNwSHEzUmxXazRLTjJxOGZad0Q5M2JGYllpTVJZVndNbXNUMUtxTkVMM0JocnIyU3RyNHJvMEljSQ?oc=5",
-      "pub_date": 1793031300.0,
-      "article_url": "https://www.cincinnati.com/story/news/politics/2026/10/26/vivek-ramaswamy-firm-strive-inc-influence-controlled-company-investor/92274576007/",
-      "image": "https://www.cincinnati.com/gcdn/authoring/authoring-images/2026/05/02/PCIN/89902673007-vivek-ramaswamy-anderson-township-town-hall-5139.jpg?crop=3299,1857,x0,y171&width=3200&height=1802&format=pjpg&auto=webp",
-      "description": "Vivek Ramaswamy has become a billionaire despite the struggles of Strive Inc., a company he founded just before jumping into politics."
+      "headline": "Strategy's Michael Saylor Predicts Bitcoin Will Soar Past $100,000 Over the Next 12 Months. Here's Why He's Right.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTg2Qi10RFN0dzZMQ0NhX24xX0FUS193ZFNmZU8wMVAyZGV3YWd4WDlkZnBLU1ZfdjFiTXVrLU02a1ZsYm40aGktQndWZEt4U1BEVlhMZ0JPRHBsNjdjRW1sZHhJSkNlaGJsRlZRSTF6SGVuMndydE94aUJvaG9uR0RJZ1N6QV81WkNlOUFLRU1yQkxjenZSMw?oc=5",
+      "pub_date": 1793181840.0,
+      "article_url": "https://www.fool.com/investing/2026/10/28/strategys-michael-saylor-predicts-bitcoin-will-soa/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891155%2Fbitcoin-cryptocurrency-on-wall-street-getty-images.jpg&w=1200&op=resize",
+      "description": "The Bitcoin bull recently gave one of his more reasonable price predictions."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-28T17:00:45.371743+00:00"
+  "fetched_at": "2026-10-28T21:36:52.295001+00:00"
 }
