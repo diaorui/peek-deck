@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-28T04:23:36.852147+00:00'
+updated: '2026-10-28T10:46:13.748528+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 28, 2026 at 04:23 UTC  
+**Last Updated:** October 28, 2026 at 10:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,135.58
+### $81,540.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -0.6%  
-**30d:** -3.3%  
-**90d:** +28.7%  
-**1y:** -26.5%  
+**24h:** +2.0%  
+**7d:** +0.1%  
+**30d:** -2.5%  
+**90d:** +29.7%  
+**1y:** -26.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1625.99B
+**Market Cap:** $1636.93B
 Rank #1
 
-**Circulating Supply:** 20,104,525 BTC
+**Circulating Supply:** 20,104,778 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.9%
+-35.4%
 
 **All-Time Low:** $67.81
-+119167.1%
++119978.2%
 
 ---
 
 ## Fear & Greed Index
 
-### 48
+### 51
 **NEUTRAL**
 
 ---
@@ -117,7 +117,7 @@ sheeesh lol
 
 Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin. Same watts, double duty. The Avalon Mini 3 is a perfect space heater. ✌🏻
 
-4d ago
+5d ago
 
 ---
 
@@ -129,7 +129,7 @@ Sky is grey, temperature is dropping. Heat up your space while you mine Bitcoin.
 
 **[HODL onto your sats y'all](https://www.reddit.com/r/Bitcoin/comments/1xd4y95/hodl_onto_your_sats_yall/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -161,7 +161,7 @@ Galaxy • 1d ago
 
 **[Cathie Wood sells Bitcoin, buys $5.2 million of sinking stock](https://www.thestreet.com/crypto/investing/cathie-wood-sells-bitcoin-buys-5-2-million-of-sinking-stock)**
 
-TheStreet • 14h ago
+TheStreet • 20h ago
 
 ---
 
@@ -169,7 +169,7 @@ TheStreet • 14h ago
 
 Majors outpaced bitcoin across the board as tech stocks extended a climb.
 
-CoinDesk • 8m ago
+CoinDesk • 6h ago
 
 ---
 
@@ -177,19 +177,19 @@ CoinDesk • 8m ago
 
 Tom Lee’s bullish market outlook faces a near-term test as roughly $10.8 billion in Deribit Bitcoin options approach expiry. BlackRock’s IBIT attracted $110.3 million on…
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[‘I thought I had to pay it’: Elderly Gresham man gives scammers $40K in bitcoin after falling victim to phone trick](https://www.koin.com/local/multnomah-county/i-thought-i-had-to-pay-it-elderly-gresham-man-gives-scammers-40k-in-bitcoin-after-falling-victim-to-phone-trick/)**
 
-KOIN.com • 6h ago
+KOIN.com • 13h ago
 
 ---
 
 **[Bitcoin’s Road to $100,000 Is Crowded With Would-Be Sellers](https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers)**
 
-Bloomberg • 5h ago
+Bloomberg • 11h ago
 
 ---
 
@@ -197,13 +197,13 @@ Bloomberg • 5h ago
 
 Police say an early-morning apartment robbery on Capitol Hill netted a pair of thieves $10,000 in cash and a tablet tied to nearly $250,000 in cryptocurrency — a target the victim said was li…
 
-CHS Capitol Hill Seattle News • 10h ago
+CHS Capitol Hill Seattle News • 17h ago
 
 ---
 
 **[Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244)**
 
-Investing.com • 12h ago
+Investing.com • 18h ago
 
 ---
 
@@ -211,7 +211,7 @@ Investing.com • 12h ago
 
 The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.
 
-The Block • 1h ago
+The Block • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Block • 1h ago
 
 The banking giant is still pretty skeptical about Bitcoin.
 
-The Motley Fool • 17h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -243,14 +243,6 @@ A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
 ---
 
-**[Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate](https://news.ycombinator.com/item?id=50177770)**
-
-Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?
-
-⬆️ 8 • 💬 3 • 6d ago • [Yahoo Tech](https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html)
-
----
-
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
 ⬆️ 4 • 💬 1 • 2d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
@@ -261,7 +253,7 @@ Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 0 • 14h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 0 • 20h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -269,7 +261,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.
 
-⬆️ 2 • 💬 1 • 11h ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
+⬆️ 2 • 💬 1 • 18h ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
 
 ---
 
@@ -277,7 +269,7 @@ The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Hea
 
 Contribute to escache/bitcoin-puzzle-methods development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
+⬆️ 2 • 💬 0 • 14h ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
 
 ---
 
@@ -299,7 +291,13 @@ I designed a transaction filtering policy DSL and implemented it in satd, a full
 
 Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.
 
-⬆️ 151 • 💬 22 • 1d ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+⬆️ 168 • 💬 26 • 1d ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+
+---
+
+**[Ask HN: Any founders want to trade pitch practice and customer interviews?](https://news.ycombinator.com/item?id=50265028)**
+
+⬆️ 2 • 💬 0 • 14h ago
 
 ---
 
@@ -307,13 +305,23 @@ Despite putting over 20 years into the technology, Micron is sticking with the t
 
 ## YouTube Videos: "bitcoin"
 
-**[This Bitcoin Signal Has NEVER Been Wrong Since 2012! And It’s Flashing Again (Be Ready!)](https://www.youtube.com/watch?v=IM8Lw39Y74M)**
+**[Bitcoin Holders: Calm Before The Storm - WATCH for THIS NEXT!!](https://www.youtube.com/watch?v=lDX0r3hW1bI)**
 
-Thanks Coinbase for sponsoring this video. Save 80% on spot fees through my link - https://coinbase.com/aff/ccv?s=youtube Is the ...
+Michael Saylor: Buying Bitcoin at $80k today is like buying it at $30k in 2023. Midterms will be a clearing event. Crypto Holders: ...
 
-📺 Crypto Capital Venture
+📺 Altcoin Daily
 
-👁️ 20K • 👍 549 • 💬 95 • ⏱️ 16:18 • 11h ago
+👁️ 42K • 👍 2K • 💬 81 • ⏱️ 10:30 • 11h ago
+
+---
+
+**[Bitcoin Holders: Pay Attention To What’s Happening Right Now](https://www.youtube.com/watch?v=X2JtLszBxuE)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Trade on BTCC & 10% ...
+
+📺 Aaron Bennett
+
+👁️ 4K • 👍 178 • 💬 10 • ⏱️ 11:19 • 7h ago
 
 ---
 
@@ -323,47 +331,7 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 181 • 💬 49 • ⏱️ 15:06 • 6h ago
-
----
-
-**[Bitcoin Holders: Calm Before The Storm - WATCH for THIS NEXT!!](https://www.youtube.com/watch?v=lDX0r3hW1bI)**
-
-Michael Saylor: Buying Bitcoin at $80k today is like buying it at $30k in 2023. Midterms will be a clearing event. Crypto Holders: ...
-
-📺 Altcoin Daily
-
-👁️ 19K • 👍 973 • 💬 62 • ⏱️ 10:30 • 4h ago
-
----
-
-**[Crypto&#39;s Biggest Week in Regulation Just Happened](https://www.youtube.com/watch?v=YDwp5sPGzME)**
-
-Hyperliquid named Payward, Kraken's parent, as its intended first CFTC-regulated deployer on Monday. If regulators approve it, ...
-
-📺 Yahoo Finance
-
-👁️ 17K • 👍 432 • 💬 90 • ⏱️ 14:51 • 11h ago
-
----
-
-**[Nic Carter: Bitcoin Has 10 Years to Fix Its Biggest Threat](https://www.youtube.com/watch?v=ntFqhocomUU)**
-
-Nic Carter is back! He's a partner at Castle Island Ventures and one of the clearest writers in Bitcoin. We get into what AI does to ...
-
-📺 Natalie Brunell
-
-👁️ 11K • 👍 282 • 💬 45 • ⏱️ 58:40 • 14h ago
-
----
-
-**[Michael Sullivan: Bitcoin Price &quot;Climbing the Wall of Worry&quot; - Early Signs of Bull Market](https://www.youtube.com/watch?v=CFF3Ps0K6xI)**
-
-Bitcoin is holding near $80K, yet the crowd has never seemed less excited and that might be the most bullish signal of all. Michael ...
-
-📺 Bitcoin Magazine
-
-👁️ 8K • 👍 124 • 💬 9 • ⏱️ 14:54 • 10h ago
+👁️ 5K • 👍 225 • 💬 33 • ⏱️ 15:06 • 12h ago
 
 ---
 
@@ -373,27 +341,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 32K • 👍 2K • 💬 64 • ⏱️ 23:52 • 7h ago
-
----
-
-**[The Bitcoin Bear Trap a Lot of People Will Fall For](https://www.youtube.com/watch?v=FQR12j0rqwg)**
-
-This is the Bitcoin bear trap to prepare for: a wick under 75K into the midterms, where stops get hunted and longs get liquidated, ...
-
-📺 VirtualBacon
-
-👁️ 11K • 👍 203 • 💬 28 • ⏱️ 5:18 • 7h ago
-
----
-
-**[Bitcoin to ZERO? JPMorgan&#39;s Big Prediction, California Billionaires Flee | News Block](https://www.youtube.com/watch?v=-4HnQK1q9Pk)**
-
-Chamath says Bitcoin is going to ZERO, while JPMorgan predicts it will outperform every major asset over the next decade.
-
-📺 Natalie Brunell
-
-👁️ 36K • 👍 779 • 💬 75 • ⏱️ 10:30 • 1d ago
+👁️ 41K • 👍 2K • 💬 81 • ⏱️ 23:52 • 14h ago
 
 ---
 
@@ -404,6 +352,56 @@ Carl Sagan warned 30 years ago that technology, concentrated wealth, and declini
 📺 Simply Bitcoin
 
 👁️ 35K • 👍 1K • 💬 84 • ⏱️ 13:36 • 2d ago
+
+---
+
+**[Crypto Holders: Bitcoin’s Next Move Could TRAP Everyone!!](https://www.youtube.com/watch?v=hlRUHUW6bXM)**
+
+Before You Buy the Crypto Dip, WATCH THIS!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 71K • 👍 2K • 💬 107 • ⏱️ 11:13 • 2d ago
+
+---
+
+**[Bitcoin to ZERO? JPMorgan&#39;s Big Prediction, California Billionaires Flee | News Block](https://www.youtube.com/watch?v=-4HnQK1q9Pk)**
+
+Chamath says Bitcoin is going to ZERO, while JPMorgan predicts it will outperform every major asset over the next decade.
+
+📺 Natalie Brunell
+
+👁️ 37K • 👍 793 • 💬 75 • ⏱️ 10:30 • 1d ago
+
+---
+
+**[Bitcoin: Bears Regaining Control](https://www.youtube.com/watch?v=bWdXPK3Hlok)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 168K • 👍 4K • 💬 291 • ⏱️ 32:21 • 2d ago
+
+---
+
+**[(HERE IT COMES) This Has Happened 19 Out Of 19 Times. Crypto Holders Get Ready For 2027.](https://www.youtube.com/watch?v=wCQnv_T7hDw)**
+
+CCV Risk Models & Intelligence System - Start your free trial: https://app.cryptocapitalventure.ai/ Crypto in 2027 could be setting ...
+
+📺 Crypto Capital Venture
+
+👁️ 31K • 👍 842 • 💬 88 • ⏱️ 11:33 • 2d ago
+
+---
+
+**[AI Is Breaking The Internet! Will It Send Bitcoin to Zero?](https://www.youtube.com/watch?v=gwKZjLdVjWw)**
+
+A wave of reported AI-driven cyberattacks has Bitcoiners questioning the security of banks, internet infrastructure, and the entire ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 1K • 💬 115 • ⏱️ 51:18 • 2d ago
 
 ---
 

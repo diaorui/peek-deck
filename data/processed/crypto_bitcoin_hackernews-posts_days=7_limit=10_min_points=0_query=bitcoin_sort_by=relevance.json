@@ -33,20 +33,6 @@
       "site_name": "GitHub"
     },
     {
-      "title": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
-      "url": "https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50177770",
-      "author": "cybermango",
-      "points": 8,
-      "num_comments": 3,
-      "created_at": "2026-10-21T08:48:21Z",
-      "object_id": "50177770",
-      "image": "https://s.yimg.com/lo/mysterio/api/83d6e0eb4b2f822cc9957d08b312c78d1abf2537301d6d6f39951c60b0b9cfa8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fded8e2cb76ab5f7257cd7f358a1ad147.jpg",
-      "description": "Claude AI cracks a 25-year NSA mystery, reigniting debate over Satoshi's Bitcoin security choices. Was the crypto industry's biggest fear misplaced?Is this conversation helpful so far?",
-      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
-      "site_name": "Yahoo Tech"
-    },
-    {
       "title": "Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can",
       "url": "https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285",
       "hn_url": "https://news.ycombinator.com/item?id=50233756",
@@ -135,17 +121,31 @@
       "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
       "hn_url": "https://news.ycombinator.com/item?id=50245014",
       "author": "rbanffy",
-      "points": 151,
-      "num_comments": 22,
+      "points": 168,
+      "num_comments": 26,
       "created_at": "2026-10-26T15:05:04Z",
       "object_id": "50245014",
       "image": "https://images.hothardware.com/contentimages/newsitem/71935/content/16x9_2133x1200_highres-micron-boise-fab-photo.jpg",
       "description": "Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.",
       "favicon": "https://hothardware.com/hh-touch-icon-iphone.png?ver=2",
       "site_name": "HotHardware"
+    },
+    {
+      "title": "Ask HN: Any founders want to trade pitch practice and customer interviews?",
+      "url": "https://news.ycombinator.com/item?id=50265028",
+      "hn_url": "https://news.ycombinator.com/item?id=50265028",
+      "author": "fluentkaluo",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-10-27T20:05:43Z",
+      "object_id": "50265028",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     }
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-10-28T04:23:05.408662+00:00"
+  "fetched_at": "2026-10-28T10:44:25.713048+00:00"
 }
