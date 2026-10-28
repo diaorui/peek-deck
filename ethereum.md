@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-28T04:23:36.858271+00:00'
+updated: '2026-10-28T10:46:13.754711+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 28, 2026 at 04:23 UTC  
+**Last Updated:** October 28, 2026 at 10:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** -1.4%  
-**30d:** -12.0%  
-**90d:** +26.4%  
-**1y:** -39.7%  
+**24h:** +2.3%  
+**7d:** -0.8%  
+**30d:** -11.5%  
+**90d:** +27.2%  
+**1y:** -39.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $287.38B
+**Market Cap:** $289.05B
 Rank #2
 
 **Circulating Supply:** 122,170,166 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.4%
+-52.2%
 
 **All-Time Low:** $0.43
-+543120.3%
++546365.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did I just do?", I end up explaining internal txns, token transfers, method IDs and why there's WETH in there. Etherscan is great if you know what you're looking at. For everyone else it's a wall of hex. So I built Simplorer. You open a transaction or an address and it tells you in one sentence what happened. Same swap, two views: Etherscan: https://etherscan.io/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer: https://simplorer.app/ethereum/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer says "0xc850…87b7 swapped 0.72 ETH for 1,378.06 USDT on Relay". Below that you see who sent and got what (part of it went through Uniswap) and the fee in ETH and dollars. A few things it does: - names the apps people actually use, a few hundred of them (Uniswap, Aave, Lido, 1inch, Curve, Pendle, OpenSea...) - approvals in plain words, like "allowed Uniswap to move any amount of its USDC", with a note on what that means and how to take it back - Safes and smart accounts show up as the account that acted, not as some contract call - bridges show where the coins went on the other side (Across, Stargate, LayerZero, CCTP) - fake tokens copying a real ticker and address poisoning transfers get a warning Most transactions from normal wallets come out as one clean sentence. If it can't name something it says "an app we don't know yet" instead of guessing. Data comes from Blockscout and a public node. No account, no ads. It's still in beta and I'm sure some transactions read weird. If you find one, send it to me. That's honestly the most useful feedback I can get.
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tic
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -128,7 +128,7 @@ Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decouple
 
 This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!
 
-4d ago
+5d ago
 
 ---
 
@@ -156,7 +156,7 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 Ethereum has never closed above $5,000, and right now the forces that could push it there are moving in the wrong direction. Here is what needs to change before that target becomes realistic.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 2h ago
 
 Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.
 
-CoinDesk • 20h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ MarketWatch • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 21h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 1d ago
 
 @EmberCN reports that an early Ethereum ICO participant has transferred the last 7,594 ETH valued at $17.79 million to Kraken, completing liquidation of a...
 
-Blockchain News • 10h ago
+Blockchain News • 17h ago
 
 ---
 
@@ -210,13 +210,13 @@ markets.businessinsider.com • 1d ago
 
 Ethereum Foundation seeks app developer feedback on EIPs to align the L1 protocol roadmap with real-world needs ahead of the Hegotá upgrade.
 
-Crypto Briefing • 12h ago
+Crypto Briefing • 19h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP, Dogecoin Rise Ahead of Fed Rate Decision: Analyst Says BTC Headed for 'New Highs'](https://www.benzinga.com/crypto/cryptocurrency/26/10/62642612/bitcoin-ethereum-xrp-dogecoin-crypto-market-recap-2)**
 
-Benzinga • 2h ago
+Benzinga • 8h ago
 
 ---
 
@@ -224,7 +224,7 @@ Benzinga • 2h ago
 
 An Ethereum inactivity leak drains inactive validators' balances after 4+ epochs without finality, until the network regains two-thirds stake to finalize.
 
-FinanceFeeds • 11h ago
+FinanceFeeds • 18h ago
 
 ---
 
@@ -232,43 +232,23 @@ FinanceFeeds • 11h ago
 
 ## YouTube Videos: "ethereum"
 
+**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
+
+Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
+
+📺 Dr. Samuel Allen Alexander
+
+👁️ 36K • 👍 489 • 💬 193 • ⏱️ 34:10 • 19h ago
+
+---
+
 **[BitMine is closing in on owning 5% of all Ethereum.](https://www.youtube.com/watch?v=AMKQNSYTgUY)**
 
 BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no single company has approached before. Strategy ...
 
 📺 Yahoo Finance
 
-👁️ 22K • 👍 251 • 💬 147 • ⏱️ 14:51 • 1d ago
-
----
-
-**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
-
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
-
-📺 BULLRUNNERS
-
-👁️ 1K • 👍 41 • 💬 25 • ⏱️ 15:18 • 6h ago
-
----
-
-**[ETH HOLDERS: The Biggest Company Buyer Of ETH Is Almost Done Stacking. Who Holds Up Your FLOOR?](https://www.youtube.com/watch?v=nEeO1P1lNGE)**
-
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/ded7dc93 Connect With Us: Email: Team@bullrunners.com ...
-
-📺 BULLRUNNERS
-
-👁️ 1K • 👍 10 • 💬 1 • ⏱️ 11:35 • 1d ago
-
----
-
-**[BITCOIN FLIPPED: WATCH BEFORE TOMORROW (Fed Meeting)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SzL2tRj0BMw)**
-
-BITCOIN FLIPPED: WATCH BEFORE TOMORROW (Fed Meeting)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 265 • 💬 66 • ⏱️ 24:25 • 8h ago
+👁️ 22K • 👍 256 • 💬 148 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -278,47 +258,17 @@ Raoul Pal believes crypto may be entering a much bigger phase as AI, global liqu
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 161 • 💬 25 • ⏱️ 24:09 • 2d ago
+👁️ 12K • 👍 164 • 💬 24 • ⏱️ 24:09 • 2d ago
 
 ---
 
-**[BMNR Holders - ETH &amp; Bitcoin : When Will the Next Crypto Bull Run Start?](https://www.youtube.com/watch?v=iSzbGttAutE)**
+**[Is $2,000 Ethereum Next? 8 Crypto Charts In 8 Minutes](https://www.youtube.com/watch?v=xmD2fbeICxA)**
 
-BMNR Holders & MSTR - BITCOIN & ETHEREUM BULL RUN 2027 - IS THE BIGGEST RALLY STILL AHEAD? Earn On Your ...
+Bitcoin just lost its parallel channel. Is a $2000 Ethereum next? Nick Valdez of Verified Investing runs through eight crypto charts ...
 
-📺 Big Time Trades
+📺 Verified Investing
 
-👁️ 1K • 👍 45 • 💬 5 • ⏱️ 21:32 • 9h ago
-
----
-
-**[I SOLD My Ethereum.. 69-Day Streak Hanging by $5!!](https://www.youtube.com/watch?v=QeL6MXLXS-k)**
-
-Toobit - where I trade (Toobit x AlexMarzell: Win 8810 in Rewards + VIP Bonuses, until 31 Oct) https://marzell.org/tb-v100 ...
-
-📺 Marzell Crypto
-
-👁️ 465 • 👍 12 • 💬 1 • ⏱️ 3:21 • 17h ago
-
----
-
-**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
-
-Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
-
-📺 Dr. Samuel Allen Alexander
-
-👁️ 32K • 👍 452 • 💬 174 • ⏱️ 34:10 • 13h ago
-
----
-
-**[👾 Sommi Meets A Genius (Discuss Ethereum)](https://www.youtube.com/watch?v=yzCkVgUPlv4)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 3K • 👍 227 • 💬 20 • ⏱️ 12:45 • 1d ago
+👁️ 9K • 👍 239 • 💬 7 • ⏱️ 8:04 • 1d ago
 
 ---
 
@@ -329,6 +279,56 @@ Bitcoin is down about 4% over the last 30 days, and of the 48 biggest coins we t
 📺 More Crypto Online
 
 👁️ 16K • 👍 321 • 💬 17 • ⏱️ 13:01 • 2d ago
+
+---
+
+**[BITCOIN FLIPPED: WATCH BEFORE TOMORROW (Fed Meeting)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SzL2tRj0BMw)**
+
+BITCOIN FLIPPED: WATCH BEFORE TOMORROW (Fed Meeting)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 306 • 💬 46 • ⏱️ 24:25 • 14h ago
+
+---
+
+**[Will Ethereum Crash Below $2K? ETH Price Collapse To $1K Next? Ethereum Price Prediction 2026 ALERT](https://www.youtube.com/watch?v=2br6YQAdWcs)**
+
+Is Ethereum Dumping? In this video, we analyze Ethereum price trends, technical indicators, and expert forecasts. Whether you're ...
+
+📺 Hard Core Crypto
+
+👁️ 202 • 👍 2 • ⏱️ 3:26 • 2d ago
+
+---
+
+**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
+
+Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
+
+📺 BULLRUNNERS
+
+👁️ 2K • 👍 46 • 💬 25 • ⏱️ 15:18 • 12h ago
+
+---
+
+**[BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3V5ddrnS8SU)**
+
+BITCOIN LIQUIDATIONS, THEN BOUNCE NEXT (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 13K • 👍 331 • 💬 56 • ⏱️ 18:54 • 1d ago
+
+---
+
+**[How Ethereum Grows Without a Center | Aya Miyaguchi and Tomo Saito at Pragma Tokyo 2026](https://www.youtube.com/watch?v=QlLaUM6dKlk)**
+
+Ethereum Foundation leaders Aya Miyaguchi and Tomo Saito discuss how Ethereum can grow without a central authority while ...
+
+📺 ETHGlobal
+
+👁️ 172 • 👍 2 • ⏱️ 20:45 • 1d ago
 
 ---
 
