@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-28T21:37:05.825770+00:00'
+updated: '2026-10-29T01:36:00.556897+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 28, 2026 at 21:37 UTC  
+**Last Updated:** October 29, 2026 at 01:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[LLMs are significantly better at finding mistakes in papers than trained human reviewers](https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/)**
+
+https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&s=20
+
+3h ago
+
+---
+
 **[UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed](https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/)**
 
 UK asylum AI tools face scrutiny after 45 of 203 tested summaries failed initial expert checks, raising concerns about accuracy and applicants' ability to challenge errors.
 
-🔗 [International Business Times, Singapore Edition](https://www.ibtimes.sg/uk-uses-ai-summarise-asylum-interviews-one-five-checked-summaries-failed-95621) • 8h ago
+🔗 [International Business Times, Singapore Edition](https://www.ibtimes.sg/uk-uses-ai-summarise-asylum-interviews-one-five-checked-summaries-failed-95621) • 12h ago
 
 ---
 
 **[Gemini 4 Carbon Ranks #1 on Artificial Analysis V5](https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/)**
 
-4h ago
-
----
-
-**[Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer](https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/)**
-
-It’s almost like it’s showing us what it will do given the chance.
-
-🔗 [Futurism](https://futurism.com/artificial-intelligence/grim-test-ai-no-mercy) • 1d ago
+8h ago
 
 ---
 
@@ -73,7 +73,21 @@ And we’re expanding capacity and strengthening GitHub’s architecture to make
 
 Read more: https://lnkd.in/gvtEeair | 259 comments on LinkedIn
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/satyanadella_were-redefining-the-sdlc-for-the-agentic-ugcPost-7521256751313375232-ObpB/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 38m ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/satyanadella_were-redefining-the-sdlc-for-the-agentic-ugcPost-7521256751313375232-ObpB/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 4h ago
+
+---
+
+**[Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer](https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/)**
+
+It’s almost like it’s showing us what it will do given the chance.
+
+🔗 [Futurism](https://futurism.com/artificial-intelligence/grim-test-ai-no-mercy) • 1d ago
+
+---
+
+**[Hochul signs AI chatbot and baby monitor regulations](https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/)**
+
+🔗 [news10.com](https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/) • 4h ago
 
 ---
 
@@ -81,23 +95,7 @@ Read more: https://lnkd.in/gvtEeair | 259 comments on LinkedIn
 
 Reuters reported on Tuesday (Oct 28), citing The Information and a person familiar with the matter, that OpenAI plans to buy Google's AI chips (TPUs). No financial terms were disclosed, and both companies declined to comment or did not immediately respond. The report follows last week's news that OpenAI will make its frontier models available through Google Cloud, and a June 2025 Reuters report that OpenAI had begun renting Google's TPUs. The context: Google's TPUs have gained traction as an alternative to Nvidia's GPUs as companies look for cheaper AI compute, and Reuters notes Amazon, Microsoft and Alphabet together plan as much as $600 billion in AI infrastructure spending this year. Source: https://bworldonline.com/technology/2026/10/28/789847/openai-plans-to-buy-googles-ai-chips-the-information-reports/ What I am curious about: is this mainly about diversifying away from dependence on a single chip supplier, or is it also bargaining leverage in price negotiations with Nvidia? And more broadly — when the biggest AI rivals become each other's customers and suppliers, does competition get weaker, or does it just move to a different layer of the stack?
 
-54m ago
-
----
-
-**[Claude Opus 5.5 can now rebuild real programs from scratch — 18.5% on ProgramBench, up from 0% in May](https://www.reddit.com/r/artificial/comments/1xhbe9u/claude_opus_55_can_now_rebuild_real_programs_from/)**
-
-According to Jack Clark's Import AI (Oct 26), Claude Opus 5.5 (xhigh) now resolves 18.5% of ProgramBench's 200 from-scratch rebuild tasks — rewriting programs like SQLite, FFmpeg and ripgrep from a compiled binary and its docs. That is up from 0% when every model failed at the benchmark's May launch. Clark expects the benchmark to be saturated by the end of 2027 (his prediction, not a measured result). What I am curious about: is 'rebuild from binary + docs' mainly a test of reverse-engineering and long-horizon persistence, or does it genuinely measure software engineering ability? And if this benchmark saturates within a year, what should replace it as a meaningful test of coding?
-
-19h ago
-
----
-
-**[I made an interactive AI city that shows how life changes from 1956 to 2050](https://www.reddit.com/r/artificial/comments/1xhzg1v/i_made_an_interactive_ai_city_that_shows_how_life/)**
-
-I built an interactive city that shows how AI could change daily life, from 1956 to 2050 👉 https://ai-world-2050.pages.dev It covers one room and one city across the eras, and the 2030s split into three possible futures. Every forecast cites its source, and the news updates every day. Try it and check the numbers. If something looks off, tell me.
-
-1h ago
+4h ago
 
 ---
 
@@ -105,21 +103,23 @@ I built an interactive city that shows how AI could change daily life, from 1956
 
 We built extensible-mcp to help folks build LLM powered applications securely. From a technical perspective it is an MCP proxy capable of loading new MCP Servers dynamically without polluting the LLM’s context while providing Zero Trust policy controls to manage all tool calls. Policies and sensitive credentials are maintained and applied outside the LLMs purview. Policies can be written in any of Rego, CEL, and, with the latest release, Cedar. Tool definitions from the various MCP Servers are maintained in a queryable vector store, so the LLM only needs to be aware of those it uses. A particular distinction of extensible-mcp is distinguishing between rights and intents. If an LLM is acting on your behalf, its actions should follow your intent, and not just do any random thing you could do, just because some hallucination told it to! I hope other folks find this useful. We have been using it for our other projects such as Open Executive and wanted to share it. You can check out extensible-mcp here: https://github.com/SenteLabsAI/extensible-mcp
 
-1h ago
+5h ago
 
 ---
 
-**[Hochul signs AI chatbot and baby monitor regulations](https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/)**
+**[Claude Opus 5.5 can now rebuild real programs from scratch — 18.5% on ProgramBench, up from 0% in May](https://www.reddit.com/r/artificial/comments/1xhbe9u/claude_opus_55_can_now_rebuild_real_programs_from/)**
 
-🔗 [news10.com](https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/) • 47m ago
+According to Jack Clark's Import AI (Oct 26), Claude Opus 5.5 (xhigh) now resolves 18.5% of ProgramBench's 200 from-scratch rebuild tasks — rewriting programs like SQLite, FFmpeg and ripgrep from a compiled binary and its docs. That is up from 0% when every model failed at the benchmark's May launch. Clark expects the benchmark to be saturated by the end of 2027 (his prediction, not a measured result). What I am curious about: is 'rebuild from binary + docs' mainly a test of reverse-engineering and long-horizon persistence, or does it genuinely measure software engineering ability? And if this benchmark saturates within a year, what should replace it as a meaningful test of coding?
+
+23h ago
 
 ---
 
-**[SenseNova open-sourced a 27B model that makes videos by writing code, and published full production logs too](https://www.reddit.com/r/artificial/comments/1xhv6bq/sensenova_opensourced_a_27b_model_that_makes/)**
+**[I made an interactive AI city that shows how life changes from 1956 to 2050](https://www.reddit.com/r/artificial/comments/1xhzg1v/i_made_an_interactive_ai_city_that_shows_how_life/)**
 
-It's called Code2Video. Rather than generating pixels the way video models do, it writes a program for each shot, renders it, looks at the frames and revises the code. I think the reasoning holds up for a certain kind of video. If a ball bounces, the bounce comes from the physics in the code, not from what bounces usually look like. Text, formulas and chart numbers get typed in from the source, so they don't come out as gibberish. And since every element is a named object, changing one thing is a small edit rather than a full regeneration that can shift the parts you liked. Besides the weights (a fine-tune of Qwen3.8-27B), the release has a skill file that walks an AI agent through the production process, a template that turns a short request into a full brief, and full production logs with the messages, tool calls and review images. It's built for motion graphics, explainers and stylized 2D or 3D scenes. Everything is at https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video
+I built an interactive city that shows how AI could change daily life, from 1956 to 2050 👉 https://ai-world-2050.pages.dev It covers one room and one city across the eras, and the 2030s split into three possible futures. Every forecast cites its source, and the news updates every day. Try it and check the numbers. If something looks off, tell me.
 
-3h ago
+5h ago
 
 ---
 
@@ -127,47 +127,63 @@ It's called Code2Video. Rather than generating pixels the way video models do, i
 
 ## Google News: "ai"
 
-**[Silicon Valley Is Grappling With a Flood of Bugs Found by A.I.](https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html)**
+**[AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them](https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html)**
 
-The New York Times • 12h ago
-
----
-
-**[Inside Anthropic’s IPO + How AI Agents Spy on Your Messages : Machine Gods](https://www.npr.org/2026/10/28/nx-s1-6019724/inside-anthropics-ipo-how-ai-agents-spy-on-your-messages)**
-
-Anthropic, the AI company behind Claude, has released the most detailed account of its business yet, as it prepares for its IPO. We break down the biggest surprises in its S-1 filing and explain what the numbers tell us about the AI bubble. Then, Signal president Meredith Whittaker joins us in the studio to discuss the existential threat facing private messaging and end-to-end encryption. Between governments demanding backdoor access to private conversations and AI agents that can see everything on our devices, she warns, “we are looking at the elimination of the possibility to provide privacy.”For a transcript of this episode, check out npr.org/machinegods.You can watch this full episode on YouTube, Spotify or Apple. And if you’ve got a question you want us to answer, you can drop us a comment on any of those platforms or email us at hey@machinegods.fm
-
-NPR • 10h ago
+The New York Times • 6h ago
 
 ---
 
-**[Anthropic IPO warns its AI could blackmail people, become sentient, end humanity](https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/)**
+**[What Should You Do With Your Money in the Age of AI?](https://www.theatlantic.com/technology/2026/10/ai-hedge-financial-tips/689187/)**
 
-Seven potential AI nightmares pulled from Anthropic's 93-page "Risk Factor" tome.
-
-Ars Technica • 1d ago
+The Atlantic • 8h ago
 
 ---
 
-**[Amazon relaxes push for AI use as Anthropic reveals shocking stats](https://www.foxnews.com/live-news/ai-news-anthropic-openai-october-28)**
+**[Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips](https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html)**
 
-An internal memo at Amazon shifted its guidance to software engineers on AI use this week, telling employees to be more stringent about what they use AI to accomplish.
+Samsung Electronics reported third-quarter earnings on Thursday.
 
-Fox News • 1h ago
-
----
-
-**[The AI trade is back, and it's sorting software stocks into winners and losers](https://finance.yahoo.com/markets/article/the-ai-trade-is-back-and-its-sorting-software-stocks-into-winners-and-losers-150346310.html)**
-
-The chip rebound is sorting software stocks into winners and losers, with October's biggest gainers now falling the hardest.
-
-Yahoo Finance • 6h ago
+CNBC • 39m ago
 
 ---
 
-**[Google shares drop 7% as search business falls short and AI spending surges](https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1)**
+**[Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope](https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope)**
 
-Financial Times • 1h ago
+Bloomberg • 36m ago
+
+---
+
+**[How this private school in Palo Alto uses AI to support students](https://www.nbcbayarea.com/news/local/ai-powered-private-school-palo-alto/4166391/)**
+
+A private school in Palo Alto uses AI to help students while also making sure to take the technology away.
+
+NBC Bay Area • 52m ago
+
+---
+
+**[Powerful Dem trio demands faster AI incident disclosures](https://www.politico.com/live-updates/2026/10/28/congress/powerful-dem-trio-demands-faster-ai-incident-disclosures-01138531)**
+
+Politico • 8h ago
+
+---
+
+**[In China, the AI bubble has already burst](https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/)**
+
+Reuters • 1d ago
+
+---
+
+**[Investors Who Piled Into China’s AI Boom Just Watched About $480 Billion Vanish in Under Four Months. Are America’s AI Bulls Next?](https://finance.yahoo.com/markets/stocks/articles/investors-piled-china-ai-boom-171502130.html)**
+
+China's AI stocks just staged one of the most dramatic collapses in recent market history, and Wall Street is now asking whether the same warning signs that preceded the crash are quietly flashing across American portfolios.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Google shares tumble 10% after $51bn AI outlay deepens cash burn](https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1)**
+
+Financial Times • 5h ago
 
 ---
 
@@ -175,25 +191,7 @@ Financial Times • 1h ago
 
 Microsoft reports Q1 earnings.
 
-Yahoo Finance • 23m ago
-
----
-
-**[Fintech's agentic AI debate](https://www.axios.com/pro/fintech-deals/2026/10/28/fintech-ai-commerce)**
-
-Axios • 47m ago
-
----
-
-**[Marvell Is Said to Near Deal for Lumentum In AI-Related Megadeal](https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal)**
-
-Bloomberg.com • 18m ago
-
----
-
-**[In China, the AI bubble has already burst](https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/)**
-
-Reuters • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -205,7 +203,7 @@ Reuters • 1d ago
 
 Agents made implementation cheap, so I started doing far more of it in parallel. My GitHub history since 2019 shows what that did: as VP of Technology I am back at my full-stack engineer pace, with bursts, burnout and a low season that is no longer low.
 
-⬆️ 659 • 💬 651 • 1d ago • [oioannou.com](https://oioannou.com/blog/ai-promised-less-work/)
+⬆️ 664 • 💬 654 • 1d ago • [oioannou.com](https://oioannou.com/blog/ai-promised-less-work/)
 
 ---
 
@@ -213,7 +211,7 @@ Agents made implementation cheap, so I started doing far more of it in parallel.
 
 A free AI assistant and survival library (1.5 million offline articles) that runs on your own computer, with no internet. Shows the source of every answer. Mac and Windows.
 
-⬆️ 507 • 💬 191 • 1d ago • [brangus.io](https://www.brangus.io/survival-llm)
+⬆️ 516 • 💬 194 • 1d ago • [brangus.io](https://www.brangus.io/survival-llm)
 
 ---
 
@@ -221,7 +219,7 @@ A free AI assistant and survival library (1.5 million offline articles) that run
 
 AI-generated text is harder to spot, but that hasn’t deterred them
 
-⬆️ 497 • 💬 235 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
+⬆️ 499 • 💬 236 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
 
 ---
 
@@ -229,19 +227,19 @@ AI-generated text is harder to spot, but that hasn’t deterred them
 
 An update to Brooks's Law in the age of AI.
 
-⬆️ 472 • 💬 349 • 1d ago • [Jan van den Berg](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
-
----
-
-**[Police are using AI to pull over drivers for 'suspicious' behavior](https://news.ycombinator.com/item?id=50261819)**
-
-⬆️ 391 • 💬 306 • 1d ago • [gizmodo.com](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
+⬆️ 475 • 💬 353 • 1d ago • [Jan van den Berg](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
 
 ---
 
 **[Kentucky man becomes the first humanist granted religious exemption from AI](https://news.ycombinator.com/item?id=50273396)**
 
-⬆️ 370 • 💬 427 • 7h ago • [religionnews.com](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
+⬆️ 430 • 💬 473 • 11h ago • [religionnews.com](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
+
+---
+
+**[Police are using AI to pull over drivers for 'suspicious' behavior](https://news.ycombinator.com/item?id=50261819)**
+
+⬆️ 392 • 💬 308 • 1d ago • [gizmodo.com](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
 
 ---
 
@@ -249,7 +247,7 @@ An update to Brooks's Law in the age of AI.
 
 Amazon is gutting its AI labs and funneling its resources into a new project headed by a noted AI robotics guru.
 
-⬆️ 364 • 💬 281 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
+⬆️ 368 • 💬 283 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
 
 ---
 
@@ -257,7 +255,15 @@ Amazon is gutting its AI labs and funneling its resources into a new project hea
 
 Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.
 
-⬆️ 329 • 💬 129 • 2d ago • [Cohere](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+⬆️ 329 • 💬 130 • 2d ago • [Cohere](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+
+---
+
+**[Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://news.ycombinator.com/item?id=50275626)**
+
+DAYJOB: Tax evaluates AI agents across 50 realistic tax environments, testing their ability to navigate messy records, exercise professional judgment, and deliver reliable tax work.
+
+⬆️ 203 • 💬 127 • 9h ago • [surgehq.ai](https://surgehq.ai/blog/dayjob-tax)
 
 ---
 
@@ -269,17 +275,39 @@ Cunyan Ma’s interactive tool exposes the power structure that extracts low-wag
 
 ---
 
-**[Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://news.ycombinator.com/item?id=50252159)**
-
-A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.
-
-⬆️ 181 • 💬 79 • 1d ago • [Cloudflare Blog](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[Inside AI&#39;s Brutal Race to Solve a Famous Math Problem | Terence Tao](https://www.youtube.com/watch?v=EYrlyxuyFbs)**
+
+The rise of artificial intelligence has pushed mathematics to a crisis point. In our latest video, we speak with Terence Tao, one of ...
+
+📺 New Scientist
+
+👁️ 33K • 👍 566 • 💬 193 • ⏱️ 40:57 • 7h ago
+
+---
+
+**[Sam Altman Just Issued His Scariest Warning Yet](https://www.youtube.com/watch?v=x6jBcI5FtXc)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 73K • 👍 2K • 💬 451 • ⏱️ 26:49 • 6h ago
+
+---
+
+**[The Reason Why AI Companies Are Destroying Books After Scanning Them](https://www.youtube.com/watch?v=QHohhfptNlg)**
+
+Taken from JRE #2571 w/Jimmy Carr YouTube: https://youtu.be/WdWVlQgkVe4 JRE on Spotify: ...
+
+📺 JRE Clips
+
+👁️ 119K • 👍 1K • 💬 293 • ⏱️ 15:31 • 6h ago
+
+---
 
 **[Did the AI bubble just pop?](https://www.youtube.com/watch?v=nEaJMdM1djM)**
 
@@ -287,27 +315,17 @@ Try Hyperagent for free, or sign in with ChatGPT to get more usage from your exi
 
 📺 Fireship
 
-👁️ 955K • 👍 24K • 💬 1K • ⏱️ 5:25 • 8h ago
+👁️ 1.2M • 👍 28K • 💬 2K • ⏱️ 5:25 • 12h ago
 
 ---
 
-**[More Dangerous Than a Nuke? | Elon Musk on AI](https://www.youtube.com/watch?v=PWsuzXitcSE)**
+**[How to Build an AI Agent for Every Part of Your Life](https://www.youtube.com/watch?v=SJywU4UQryQ)**
 
-Is AI "maybe more dangerous than a nuclear bomb"? On Joe Rogan Experience #2054 (October 2023), Elon Musk explains why ...
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/ai-operating-system-lf-749 Join the waitlist for ...
 
-📺 throughcut
+📺 Dan Martell
 
-👁️ 91K • 👍 309 • 💬 128 • ⏱️ 8:03 • 2d ago
-
----
-
-**[It&#39;s Not Just AI Data Centers You Need to Be Concerned About](https://www.youtube.com/watch?v=oBneL-rU5JI)**
-
-As OpenAI's Sam Altman warns the internet can no longer be secured by patching bugs, a massive new AI-driven internet ...
-
-📺 Godrules 2 - Sons of Thunder
-
-👁️ 220K • 👍 4K • 💬 668 • ⏱️ 22:28 • 2d ago
+👁️ 61K • 👍 1K • 💬 77 • ⏱️ 27:51 • 12h ago
 
 ---
 
@@ -317,57 +335,27 @@ Neil deGrasse Tyson, with co-hosts Chuck Nice and Gary O'Reilly, asks Geoffrey H
 
 📺 StarTalk Plus
 
-👁️ 125K • 👍 2K • 💬 230 • ⏱️ 11:18 • 1d ago
+👁️ 132K • 👍 2K • 💬 236 • ⏱️ 11:18 • 1d ago
 
 ---
 
-**[I Tested the MOST POWERFUL Uncensored AI That&#39;s BREAKING the Internet](https://www.youtube.com/watch?v=Unr2sqQEpQE)**
+**[DeepSeek Just Made American AI Companies Panic](https://www.youtube.com/watch?v=t0mTwJxP4eM)**
 
-In this video I breakdown "Black October" with the latest massive rise in critical security issues in PHP, Node.js, Linux & more all ...
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
 
-📺 Mark Gadala-Maria
+📺 TheAIGRID
 
-👁️ 77K • 👍 1K • 💬 83 • ⏱️ 15:05 • 2d ago
-
----
-
-**[Trump ISSUES WARNING, Collapse Is COMING, AI About To NUKE Economy &amp; Jobs](https://www.youtube.com/watch?v=05ZaByUWx5E)**
-
-USE CODE TIMCAST10 For 10% Off At https://castbrew.com/ Pro-LGBTQ mailers telling Texas kids how to find support, seek ...
-
-📺 Tim Pool
-
-👁️ 224K • 👍 9K • 💬 2K • ⏱️ 25:18 • 1d ago
+👁️ 29K • 👍 495 • 💬 53 • ⏱️ 26:04 • 19h ago
 
 ---
 
-**[Google’s AI Takeover is Backfiring](https://www.youtube.com/watch?v=3TZGsGfX5zA)**
+**[Best FREE AI Video Generators (Backed by Data)](https://www.youtube.com/watch?v=nmpHMBnZHWQ)**
 
-Google Search used to send you to the internet. Now it answers for the internet. About 60% of Google searches now end without a ...
+Create Professional AI Videos https://youricreates.com/Higgsfield ✓ Sign up to Higgsfield & Get my Bonus Package for FREE ...
 
-📺 Pooja Dutt
+📺 Youri van Hofwegen
 
-👁️ 70K • 👍 1K • 💬 323 • ⏱️ 12:58 • 2d ago
-
----
-
-**[The #AI boom has a problem: billions of dollars in #GPUs, but not enough electricity to power them.](https://www.youtube.com/watch?v=z6LGbQyJxZU)**
-
-Business Insider is a global newsroom covering business, technology, innovation, and the economy. Visit our homepage for the ...
-
-📺 Business Insider
-
-👁️ 662 • 👍 16 • 💬 12 • ⏱️ 0:55 • 36m ago
-
----
-
-**[China Just Dropped A Free AI That Almost Matches Claude Opus 5.5 (Here’s How To Use It)](https://www.youtube.com/watch?v=QZ6OlRUDjqs)**
-
-TOOLS AND LINKS Get all the AI tools, updates, prompts, and the Kimi K3.1 Pro setup guide inside our free Community: ...
-
-📺 Vaibhav Sisinty
-
-👁️ 93K • 👍 1K • 💬 88 • ⏱️ 21:37 • 1d ago
+👁️ 12K • 💬 1 • ⏱️ 16:02 • 10h ago
 
 ---
 
@@ -377,7 +365,17 @@ Pipedrive: Get more leads and grow your business. Go to https://www.pipedrive.co
 
 📺 Tom Bilyeu
 
-👁️ 159K • 👍 2K • 💬 439 • ⏱️ 50:11 • 1d ago
+👁️ 165K • 👍 2K • 💬 451 • ⏱️ 50:11 • 1d ago
+
+---
+
+**[The AI Jobs Apocalypse Is Here (Just Not Where You Think)](https://www.youtube.com/watch?v=2eXfqovkim4)**
+
+Artificial intelligence was supposed to wipe out millions of jobs by now. Instead, unemployment has barely moved, programming ...
+
+📺 Econ Nerds
+
+👁️ 29K • 👍 681 • 💬 243 • ⏱️ 7:03 • 1d ago
 
 ---
 
@@ -393,7 +391,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 116,770 • ❤️ 3,528 • 11d ago
+⬇️ 116,770 • ❤️ 3,556 • 11d ago
 
 ---
 
@@ -405,7 +403,7 @@ Flint is a 39.8B parameter Mixture-of-Experts language model optimized for codin
 
 `text-generation` `39.8B`
 
-⬇️ 14,047 • ❤️ 1,149 • 7d ago
+⬇️ 14,047 • ❤️ 1,156 • 7d ago
 
 ---
 
@@ -417,7 +415,7 @@ Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic co
 
 `text-generation` `33.1B`
 
-⬇️ 7,412 • ❤️ 719 • 19h ago
+⬇️ 7,412 • ❤️ 723 • 23h ago
 
 ---
 
@@ -429,7 +427,7 @@ Spark-X2.6-4B is a compact, general-purpose language model optimized for on-devi
 
 `text-generation` `4.1B`
 
-⬇️ 8,222 • ❤️ 851 • 1d ago
+⬇️ 8,222 • ❤️ 858 • 1d ago
 
 ---
 
@@ -441,19 +439,7 @@ MiniMax-M3.1-Flash is a native multimodal MoE model supporting text, image, and 
 
 `image-text-to-text` `220.5B`
 
-⬇️ 13,247 • ❤️ 448 • 2d ago
-
----
-
-**[flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)**
-
-*Black Forest Labs*
-
-FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image generation and advanced image editing with multi-reference composition and bounding box control. It utilizes Qwen3-VL-4B-Instruct as its text encoder and supports features like text rendering within images.
-
-`image-to-image`
-
-⬇️ 798,943 • ❤️ 1,948 • 11d ago
+⬇️ 13,247 • ❤️ 456 • 2d ago
 
 ---
 
@@ -465,7 +451,19 @@ This GGUF model provides non-uniform quantizations (GSQ-RCO) of DeepSeek-V4.1-Fl
 
 `text-generation` `196.6B`
 
-⬇️ 1,377,570 • ❤️ 431 • 9m ago
+⬇️ 1,377,570 • ❤️ 439 • 4h ago
+
+---
+
+**[flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)**
+
+*Black Forest Labs*
+
+FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image generation and advanced image editing with multi-reference composition and bounding box control. It utilizes Qwen3-VL-4B-Instruct as its text encoder and supports features like text rendering within images.
+
+`image-to-image`
+
+⬇️ 798,943 • ❤️ 1,959 • 11d ago
 
 ---
 
@@ -477,7 +475,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,234,788 • ❤️ 9,705 • 17d ago
+⬇️ 2,234,788 • ❤️ 9,726 • 17d ago
 
 ---
 
@@ -489,7 +487,7 @@ LFM3-1.7B is a 1.73B parameter text model optimized for edge devices and local a
 
 `text-generation` `1.7B`
 
-⬇️ 8,892 • ❤️ 366 • 4h ago
+⬇️ 8,892 • ❤️ 393 • 8h ago
 
 ---
 
@@ -501,7 +499,7 @@ Hy-SimulMT-30B-A3B-FP8 is a low-latency, high-quality model for real-time bidire
 
 `translation` `30.4B`
 
-⬇️ 165 • ❤️ 324 • 1d ago
+⬇️ 165 • ❤️ 363 • 1d ago
 
 ---
 
@@ -529,7 +527,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 125 • 💬 4 • ⭐ 20,804 • 20d ago
+▲ 125 • 💬 4 • ⭐ 21,029 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -580,7 +578,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 62 • 💬 4 • ⭐ 43,988 • 15mo ago
+▲ 62 • 💬 4 • ⭐ 44,019 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -594,7 +592,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Hy-Nomas is a video world model that uses causal attention and structured conditioning to generate interactive, multi-turn video segments with text and camera control.
 
-▲ 104 • 💬 1 • ⭐ 345 • 2d ago
+▲ 106 • 💬 2 • ⭐ 345 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.36729) • [💻 code](https://github.com/Tencent-Hunyuan/Hy-Nomas) • [🔗 project](https://hy-nomas.hy.tencent.com/)
 
@@ -652,27 +650,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 12.3k • 🔱 1.2k • 22h ago
-
----
-
-**[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)**
-
-Your always-on AI coworkers that move between text, calls, and Slack.
-
-`TypeScript`
-
-⭐ 6.1k • 🔱 894 • 14h ago
-
----
-
-**[omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)**
-
-Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
-
-`Swift` `ai-blocker` `anti-ai` `apple-intelligence` `cli` `debloat`
-
-⭐ 5.5k • 🔱 156 • 11h ago
+⭐ 12.4k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -682,7 +660,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.6k • 🔱 313 • 18h ago
+⭐ 4.6k • 🔱 314 • 22h ago
 
 ---
 
@@ -692,7 +670,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 4.3k • 🔱 381 • 15h ago
+⭐ 4.3k • 🔱 391 • 19h ago
 
 ---
 
@@ -702,17 +680,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 4.1k • 🔱 538 • 13h ago
-
----
-
-**[nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)**
-
-A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.
-
-`Python`
-
-⭐ 4.0k • 🔱 160 • 19d ago
+⭐ 4.1k • 🔱 538 • 17h ago
 
 ---
 
@@ -722,7 +690,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `Rust` `ai` `api-relay` `api-relay-pricing` `benchmark` `benchmarks`
 
-⭐ 3.9k • 🔱 21 • 13h ago
+⭐ 3.9k • 🔱 21 • 17h ago
 
 ---
 
@@ -732,7 +700,7 @@ The open source AI video agent: turns any coding agent into a video agent, with 
 
 `TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 3.4k • 🔱 318 • 1h ago
+⭐ 3.4k • 🔱 319 • 5h ago
 
 ---
 
@@ -742,7 +710,37 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 3.1k • 🔱 194 • 5d ago
+⭐ 3.1k • 🔱 195 • 6d ago
+
+---
+
+**[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)**
+
+AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
+
+`Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
+
+⭐ 2.7k • 🔱 68 • 2d ago
+
+---
+
+**[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)**
+
+UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。
+
+`Python` `agent-skills` `ai-design` `claude-code` `claude-skills` `codex`
+
+⭐ 2.5k • 🔱 138 • 58m ago
+
+---
+
+**[jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)**
+
+ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)
+
+`Go` `ai-agent` `autonomous-agents` `blue-team` `cybersecurity` `detection-engineering`
+
+⭐ 2.3k • 🔱 2.4k • 14d ago
 
 ---
 

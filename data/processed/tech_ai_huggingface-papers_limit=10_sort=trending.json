@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 20804,
+      "github_stars": 21029,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 43988,
+      "github_stars": 44019,
       "project_page": null
     },
     {
@@ -126,8 +126,8 @@
       "hf_url": "https://huggingface.co/papers/2610.36729",
       "arxiv_url": "https://arxiv.org/abs/2610.36729",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.36729.png",
-      "upvotes": 104,
-      "num_comments": 1,
+      "upvotes": 106,
+      "num_comments": 2,
       "published_at": "2026-10-26T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
       "github_stars": 345,
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-28T21:36:40.394700+00:00"
+  "fetched_at": "2026-10-29T01:35:41.250089+00:00"
 }
