@@ -26,33 +26,53 @@
     },
     {
       "headline": "Not Your Keys, Not Your DAT",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGtvdmdzbDdqN3FaZkhfNFZoRzdnZG1Ca3JSQjNOd2pyWE1CaXU0bHpyc2FvbWQ0c2hHYkF2Z2Vkc3I1VS1UalFtTEhjWnlWZzBhNzctUzJGRkJ2bGRlQlpFSXNkOElpcUxfNjBzZnZSWDh1RXIzenVuNDl4LU9ZV0laM3EwUzl3cXRJ?oc=5",
-      "pub_date": 1793151061.0,
+      "pub_date": 1793167265.0,
       "article_url": "https://www.bloomberg.com/opinion/newsletters/2026-10-28/not-your-keys-not-your-dat",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5",
-      "pub_date": 1793235000.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry",
+      "headline": "Investor Who Called the AI Boom Predicts a Bitcoin Crash",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjF3VnRHRkZ3S285cWhCODRCVk81Wm9LM1JJdzZndDhPMlFsalE0Z2d2NnVUUm81ZnFmQUc5eHJEaHBTMTEwc1drWm1Ua0xMb01oRlAyY3Vnbkg5NW5tU1VDY29IYUNFOWNReVdocnVQNkI1S25rcnVRVnhCXzdDY1VEMnRrNWxtYkpGYnN5WElwWWhhMkhlSm5jQ0p3dw?oc=5",
+      "pub_date": 1793112483.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/investor-called-ai-boom-predicts-144803240.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fddfc29a251252174b5a9abfe97e3abb420dec3b6109779bfdf6c53e7e12af00/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F5207c1ace76db881667b3df485b448fa.png",
+      "description": "Jason Calacanis says dump Bitcoin before a fall to $57,000. Here is how BTC has fared against AI stocks since his 2023 call."
+    },
+    {
+      "headline": "BTC news: AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnBwamVfbWx0Y05aMV9ZODlZUjBkSDA2dUpHU2NVa3NHMG11V0tTU05neW4zZGtlVnNUNkdqX0RMZG9qN1RTNVBqSVZQNlVSUWpGaVBCZjJwOTRMNGZUVDIycFFoUXN1TG44MDBRUnBxVEFBTUNUTUFvYnpSczRsaU5TRjFZWjNiMjduUjZxTTNHU29HbXJyaVVqdlFIZTFoMlF4VXdXVl9Mczc2Q0FjSk5pT24?oc=5",
+      "pub_date": 1793253279.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
       "image": null,
       "description": null
     },
     {
-      "headline": "MicroStrategy Approves Daily Dividends. Will Bitcoin Buying Return?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1A2OWxaallCY2VaLS16bVBLLVJlVG1aRG9hMzRpV3VHdGI2b2lBRnVwT3kyR1VIYjZWeXpSYWVfb1ViY3VZS0VvWDZnUjNUMW5rS2JsOExWVU1yYjB1Tk9JOXlJa25XRW1tS2dIRUNLOEFmaExvT2F0X05MV0VjRC1jVXdoYS01ck93YW5oUmY5TENvWkc0VHQ2M2tGaGJ3UGJ0UkJMUWMyX2llNGg0dw?oc=5",
-      "pub_date": 1793217639.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-approves-daily-dividends-bitcoin-200039719.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8fd49012d9821ff59cfeaddf77ebe19191a12becf931938643226cdddb1f55f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F8746021bf08a2b66c5292adbe576686d.png",
-      "description": "MicroStrategy wins a 99.3% vote for daily dividends after a week with no Bitcoin buys. Here is how it could restart buying."
+      "headline": "The chart bitcoin traders should be paying attention to",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORzI3aWRvVldraEo2UE9UUXpURDVOaVotS1VIMS1iMkdNU3BXelVXQUpjSmFSX1lSbVd3eHU3dTNNMlNWQVNzWTBiUXdLdVJfcWJQYlZFYTNoMDhacW1KekVVaXFobDQwV2RfRVdBMWpyZFNzUC12Q1hFWmlLZFhxeTRXaEZvUXhLd3k5UnNmTjJhMnV1cWZlaXA3UUtiODFV?oc=5",
+      "pub_date": 1793259884.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5",
+      "pub_date": 1793242380.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
@@ -65,26 +85,6 @@
       "description": "Bitcoin price held near $81,000 after the Federal Reserve kept rates at 3.75% to 4% in a 10-2 vote."
     },
     {
-      "headline": "BTC, ETH price news: Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkNaeE44eFBVY2pMUnFSTkY3ekxfaFZoQWxqQ19Hb193eVYzalI1c2IyUjQzSHY4YVQ0eEZMQVZXd3FGVGRvOFRXSEVSTEdMdXFpQ0ZrWHBvRF9wd0haVUVJcjlfMjk1ejhoaTNGTnhkdVB0bndzWTRnSXppSGpTa194Q1VOcGJqUnVFUVB6QTkwMEQydGFHMUctVUpqWG5tblpBT25yNA?oc=5",
-      "pub_date": 1793160920.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e48c395545734f88a8940a71375c640cc1d8b21-1516x852.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "Majors outpaced bitcoin across the board as tech stocks extended a climb."
-    },
-    {
-      "headline": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVFqTkN1bDI4REVWNEZWXzZCQk5sajBOV0JsaUxkN3ZBWUtlamdCdW5URDRpMHAzeG9BVjRILTNxWDJXR0Y3bHVtVnR5ZUhNUExMMWFKX19kbmIxeXF0aWlIbUthaGdxR1pobnh1R2ZWSVVMc01rakFhSFZqMnUxaEdzT3hadDZNdWcxVzlWTTczb1JwaTlpUFlNaDFoQnBJYmJsRWUxdjdNODJZcGRxaTBJWllZbUZQSW96OGdkcVc5d0ZiMzIyazA5Q1o0U19ob3BV?oc=5",
-      "pub_date": 1793206406.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:4624e2739094b:0-bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin (BTC) gave back early gains around Wednesday\u2019s Wall Street open as markets prepared for the US Federal Reserve\u2019s interest-rate decision.Key points:US stocks tread water as focus turns to Fed chair WarshData from TradingView showed BITSTAMP:BTCUSD failing to break beyond $81,700, instead rev\u2026"
-    },
-    {
       "headline": "2027 Bitcoin Long-Term Capital Market Assumptions",
       "source": "Bitwise Investments",
       "source_url": "https://bitwiseinvestments.com",
@@ -95,16 +95,16 @@
       "description": "Bitwise\u2019s forecasts for BTC\u2019s price, volatility, and correlations through 2036."
     },
     {
-      "headline": "Strategy's Michael Saylor Predicts Bitcoin Will Soar Past $100,000 Over the Next 12 Months. Here's Why He's Right.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTg2Qi10RFN0dzZMQ0NhX24xX0FUS193ZFNmZU8wMVAyZGV3YWd4WDlkZnBLU1ZfdjFiTXVrLU02a1ZsYm40aGktQndWZEt4U1BEVlhMZ0JPRHBsNjdjRW1sZHhJSkNlaGJsRlZRSTF6SGVuMndydE94aUJvaG9uR0RJZ1N6QV81WkNlOUFLRU1yQkxjenZSMw?oc=5",
-      "pub_date": 1793181840.0,
-      "article_url": "https://www.fool.com/investing/2026/10/28/strategys-michael-saylor-predicts-bitcoin-will-soa/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891155%2Fbitcoin-cryptocurrency-on-wall-street-getty-images.jpg&w=1200&op=resize",
-      "description": "The Bitcoin bull recently gave one of his more reasonable price predictions."
+      "headline": "Bitwise Raises Bitcoin Target to $1.6 Million by 2036",
+      "source": "Bitbo",
+      "source_url": "https://bitbo.io",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04N1h6UDdJemRJdzRHaEVOUXdLWmtZNEpMSTV3TUpRLW5zRTdBVWJ1TnpLYjFTQTJEX3l5eC11UzFuODFaSmFjZFVjdzB1alpQUDFLbGlWbDZKcE1aMVM5QlRwZw?oc=5",
+      "pub_date": 1793209200.0,
+      "article_url": "https://bitbo.io/news/bitwise-bitcoin-million-target/",
+      "image": "https://bitbo.io/news/images/bitwise-logo.jpg",
+      "description": "Bitwise projects bitcoin will reach $1.6 million by 2036, a 34.3% annual growth rate, up from its prior $1.3 million target."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T01:35:57.641821+00:00"
+  "fetched_at": "2026-10-29T08:07:09.863236+00:00"
 }

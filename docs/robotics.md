@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-29T01:36:00.575056+00:00'
+updated: '2026-10-29T08:07:10.883556+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 29, 2026 at 01:36 UTC  
+**Last Updated:** October 29, 2026 at 08:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,23 +114,23 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 ## Google News: "robotics"
 
-**[Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation)**
-
-Bloomberg • 1d ago
-
----
-
-**[Foundry Robotics Raises $100 Million Series A to Build America’s First Autonomous Factory for Assembly](https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly)**
-
-Business Wire • 10h ago
-
----
-
 **[We went inside Amazon's robot-powered warehouse to see if machines are taking jobs. What we found surprised us.](https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9)**
 
 Inside Amazon's robotic warehouse in Tracy, California, workers explain how automation is transforming their jobs.
 
-Business Insider • 16h ago
+Business Insider • 23h ago
+
+---
+
+**[Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Trump says imported robotics pose national security risks but does not impose tariffs](https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/)**
+
+Reuters • 9h ago
 
 ---
 
@@ -142,47 +142,47 @@ NASA (.gov) • 1d ago
 
 ---
 
-**[Unitree's quarterly revenue surges 70% in test for China's robotics sector](https://www.reuters.com/world/asia-pacific/unitrees-q3-profit-down-174-on-year-test-chinas-robotics-sector-2026-10-28/)**
-
-Reuters • 12h ago
-
----
-
 **[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.newsnationnow.com/business/your-money/robots-grocery-stores-retail-jobs/)**
 
 NewsNation • 3h ago
 
 ---
 
-**[Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News](https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330)**
+**[Here's how humanoid robots could fit into the future of defense, society](https://www.ksl.com/article/51642150/heres-how-humanoid-robots-could-fit-into-the-future-of-defense-society)**
 
-A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
+Utah State University professor Mario Harper was on hand at the 47G Zero Gravity Summit Wednesday to showcase the potential of Dallas and Dallas II, two humanoid robots the university acquired from overseas.
 
-ABC News - Breaking News, Latest News and Videos • 2d ago
-
----
-
-**[San Francisco startup offered $20 an hour to walk robot dogs for AI training: report](https://www.foxbusiness.com/technology/san-francisco-startup-offered-20-hour-walk-robot-dogs-ai-training-report)**
-
-The $20-an-hour job posting sought workers to operate four-legged robots on outdoor testing routes through San Francisco with no robotics experience required.
-
-Fox Business • 2h ago
+KSL News • 7h ago
 
 ---
 
-**[Arizona Robotics League](https://www.mlb.com/dbacks/video/arizona-robotics-league)**
+**[Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom](https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages)**
 
-The Arizona Diamondbacks and Honeywell Aerospace are proud to support the Arizona Robotics League
+Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027.
 
-MLB.com • 3h ago
+Interesting Engineering • 2d ago
 
 ---
 
-**[Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft](https://payloadspace.com/exclusive-rendezvous-robotics-raises-20m-to-develop-self-assembling-spacecraft/)**
+**[Japan experiments with autonomous AI chainsaw-wielding robots — video shows rail truck-mounted metal humanoid cutting down tree branches](https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches)**
 
-Rendezvous Robotics is developing technology to allow future satellites to launch in pieces that can self-assemble in space.
+The frightening-looking mech in the demo still has a human operator, for now.
 
-Payload Space • 12h ago
+Tom's Hardware • 22h ago
+
+---
+
+**[In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans](https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[BlackBerry reinvented: CEO sees big opportunities AI-powered robots](https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html)**
+
+BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.
+
+CNBC • 2d ago
 
 ---
 
@@ -190,13 +190,13 @@ Payload Space • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robot Dog Entered the Lion&#39;s Territory... Big Mistake?!](https://www.youtube.com/watch?v=eZQo7KqJy8c)**
+**[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
 
-What happens when a robot dog walks into the world of lions? In today's episode of Wild Clash, the mightiest and most curious ...
+Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
 
-📺 Wild Clash
+📺 VisionX Lab
 
-👁️ 1.1M • 👍 9K • 💬 607 • ⏱️ 8:40 • 4d ago
+👁️ 474K • 👍 13K • 💬 564 • ⏱️ 0:59 • 3d ago
 
 ---
 
@@ -210,13 +210,43 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai
 
 ---
 
+**[Robot Dog Entered the Lion&#39;s Territory... Big Mistake?!](https://www.youtube.com/watch?v=eZQo7KqJy8c)**
+
+What happens when a robot dog walks into the world of lions? In today's episode of Wild Clash, the mightiest and most curious ...
+
+📺 Wild Clash
+
+👁️ 1.1M • 👍 9K • 💬 611 • ⏱️ 8:40 • 4d ago
+
+---
+
 **[Tesla Leaked Optimus 3 At Earnings Call | It&#39;s As Good As They Say](https://www.youtube.com/watch?v=gS1iOU_JnkA)**
 
 Tesla has started production of Optimus on a line in Fremont, and on their third quarter earnings call Elon Musk said "there is no ...
 
 📺 Ryan Shaw
 
-👁️ 118K • 👍 2K • 💬 171 • ⏱️ 37:43 • 4d ago
+👁️ 120K • 👍 2K • 💬 174 • ⏱️ 37:43 • 4d ago
+
+---
+
+**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
+
+OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
+
+📺 MACHINEKIND
+
+👁️ 29K • 👍 457 • 💬 42 • ⏱️ 13:33 • 1d ago
+
+---
+
+**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
+
+Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
+
+📺 VisionX Lab
+
+👁️ 272K • 👍 3K • 💬 333 • ⏱️ 0:11 • 3d ago
 
 ---
 
@@ -226,7 +256,7 @@ Unitree just dropped the H2X AI robot, and its terrifying strength is shocking t
 
 📺 MACHINEKIND
 
-👁️ 19K • 👍 222 • 💬 34 • ⏱️ 13:25 • 5d ago
+👁️ 20K • 👍 223 • 💬 34 • ⏱️ 13:25 • 5d ago
 
 ---
 
@@ -246,7 +276,7 @@ Hugging Face says it's sold more than 4000 of its Microducks since their viral a
 
 📺 Kalil 4.0
 
-👁️ 121K • 👍 905 • 💬 38 • ⏱️ 0:34 • 5d ago
+👁️ 123K • 👍 924 • 💬 38 • ⏱️ 0:34 • 5d ago
 
 ---
 
@@ -254,37 +284,7 @@ Hugging Face says it's sold more than 4000 of its Microducks since their viral a
 
 📺 ShanghaiEye魔都眼
 
-👁️ 113K • 👍 741 • 💬 337 • ⏱️ 1:01 • 4d ago
-
----
-
-**[Unitree&#39;s New Guard Robot Comes With a Warning](https://www.youtube.com/watch?v=oq1Ia8zlXNQ)**
-
-Unitree posted the H2-X on Oct 21 and pitches it as a guardian. The knife scene is labeled a security demonstration, and the last ...
-
-📺 The Humanoid Files
-
-👁️ 77K • 👍 993 • 💬 119 • ⏱️ 0:39 • 6d ago
-
----
-
-**[Ai is Dropping. The Robotics Stack is Just Starting ($2.5T Opportunity)](https://www.youtube.com/watch?v=OMDj6el4AbY)**
-
-I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics stack for physical AI. Get a free $55 when you trade $25 ...
-
-📺 Fin Tek
-
-👁️ 56K • 👍 827 • 💬 40 • ⏱️ 22:57 • 5d ago
-
----
-
-**[Meet the AI Robots Built with NVIDIA RTX Spark #shorts](https://www.youtube.com/watch?v=ERQPIELdV4Y)**
-
-Engineered on Nvidia supercomputers and trained within a high-fidelity Omniverse digital twin, these robots are the next evolution ...
-
-📺 Eco Life
-
-👁️ 5K • 👍 51 • 💬 3 • ⏱️ 0:38 • 6d ago
+👁️ 113K • 👍 741 • 💬 337 • ⏱️ 1:01 • 5d ago
 
 ---
 
