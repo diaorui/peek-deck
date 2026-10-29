@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-29T08:07:10.881951+00:00'
+updated: '2026-10-29T15:25:40.283858+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 29, 2026 at 08:07 UTC  
+**Last Updated:** October 29, 2026 at 15:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,307.32
+### $2,345.87
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -3.1%  
-**30d:** -13.9%  
-**90d:** +25.4%  
-**1y:** -39.2%  
+**24h:** +1.0%  
+**7d:** -1.2%  
+**30d:** -12.2%  
+**90d:** +27.9%  
+**1y:** -38.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.12B
+**Market Cap:** $287.88B
 Rank #2
 
 **Circulating Supply:** 122,173,130 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-52.4%
 
 **All-Time Low:** $0.43
-+533302.3%
++544108.8%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did I just do?", I end up explaining internal txns, token transfers, method IDs and why there's WETH in there. Etherscan is great if you know what you're looking at. For everyone else it's a wall of hex. So I built Simplorer. You open a transaction or an address and it tells you in one sentence what happened. Same swap, two views: Etherscan: https://etherscan.io/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer: https://simplorer.app/ethereum/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer says "0xc850…87b7 swapped 0.72 ETH for 1,378.06 USDT on Relay". Below that you see who sent and got what (part of it went through Uniswap) and the fee in ETH and dollars. A few things it does: - names the apps people actually use, a few hundred of them (Uniswap, Aave, Lido, 1inch, Curve, Pendle, OpenSea...) - approvals in plain words, like "allowed Uniswap to move any amount of its USDC", with a note on what that means and how to take it back - Safes and smart accounts show up as the account that acted, not as some contract call - bridges show where the coins went on the other side (Across, Stargate, LayerZero, CCTP) - fake tokens copying a real ticker and address poisoning transfers get a warning Most transactions from normal wallets come out as one clean sentence. If it can't name something it says "an app we don't know yet" instead of guessing. Data comes from Blockscout and a public node. No account, no ads. It's still in beta and I'm sure some transactions read weird. If you find one, send it to me. That's honestly the most useful feedback I can get.
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,15 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 **[ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards](https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards)**
 
-CoinDesk • 2h ago
+CoinDesk • 9h ago
+
+---
+
+**[Current price of Ethereum for October 29, 2026](https://fortune.com/article/price-of-ethereum-10-29-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
 
 ---
 
@@ -168,19 +176,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Current price of Ethereum for October 28, 2026](https://fortune.com/article/price-of-ethereum-10-28-2026/)**
+**[Bitcoin, Ethereum Crash Alert: BTC Risks $76K as ETH Eyes $2,000](https://www.tradingview.com/news/coinpedia:c1004f5b9094b:0-bitcoin-ethereum-crash-alert-btc-risks-76k-as-eth-eyes-2-000/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+The crypto market has lost $68.75 billion in value over the past 24 hours, with its total market cap falling 2.5% to $2.75 trillion. For the past week, Bitcoin has been struggling to recover above $84,000, while Ethereum has slipped below key support.With both Bitcoin and Ethereum under pressure, a…
 
-Fortune • 19h ago
-
----
-
-**[Glamsterdam's Impact on Ethereum: Testing Delays & Next Steps](https://investingnews.com/ethereums-glamsterdam-upgrade-update/)**
-
-Ethereum’s Glamsterdam upgrade aims to boost network efficiency & utility, crucial for ETH's long-term appeal. Yet, its impact on older apps & fee structures leads to delays, now likely pushing the mainnet release to 2027. Could this reshape how DeFi thrives on Ethereum? Dive in.
-
-Investing News Network • 10h ago
+TradingView • 3h ago
 
 ---
 
@@ -188,15 +188,7 @@ Investing News Network • 10h ago
 
 The two blockchain networks have been rivals for years.
 
-The Motley Fool • 21h ago
-
----
-
-**[Claude AI Predicts the ‘Flippening’: How Does Ethereum Finally Overtake Bitcoin?](https://www.tradingview.com/news/99Bitcoins:995cc06f4094b:0-claude-ai-predicts-the-flippening-how-does-ethereum-finally-overtake-bitcoin/)**
-
-Anthropic’s Claude AI predicts a bold move for Ethereum over the next few months that could end with the long-awaited ‘Flippening’, whereby ETH overtakes BTC as the leading digital asset.For this to happen, Claude notes a specific catalyst that could send Ethereum parabolic and start its move to ov…
-
-TradingView • 22h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -204,15 +196,7 @@ TradingView • 22h ago
 
 An Ethereum whale that acquired 40042 ETH during the 2015 ICO transferred 2118.65 ETH worth $4.993 million to Coinbase, according to @ai_9684xtpa, after...
 
-Blockchain News • 13h ago
-
----
-
-**[Ethereum client security fixes leave binary users with a separate Java check](https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/)**
-
-Ethereum client security fixes update Teku and Besu Docker images after the eMudhra incident. Binary users need a separate Java runtime check.
-
-CryptoSlate • 16h ago
+Blockchain News • 20h ago
 
 ---
 
@@ -220,15 +204,29 @@ CryptoSlate • 16h ago
 
 A fix initially set aside has been added to Ethereum’s upgrade specifications after further review and testing.
 
-AMBCrypto • 1d ago
+AMBCrypto • 2d ago
 
 ---
 
-**[Crypto Market News: What the Fed Decision could mean for Bitcoin, Ethereum, XRP and Solana](https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-market-news-what-the-fed-decision-could-mean-for-bitcoin-ethereum-xrp-and-solana)**
+**[Ethereum client security fixes leave binary users with a separate Java check](https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/)**
 
-The crypto market is approaching today’s Federal Reserve decision with Bitcoin near USD 80,000, Ethereum around USD 2,300, XRP close to USD 1.30 and Solana near
+Ethereum client security fixes update Teku and Besu Docker images after the eMudhra incident. Binary users need a separate Java runtime check.
 
-Analytics Insight • 1d ago
+CryptoSlate • 23h ago
+
+---
+
+**[Bitcoin ETFs Attract $137M as Ethereum and Solana Funds Record Outflows on October 28](https://financefeeds.com/bitcoin-etfs-attract-137m-as-ethereum-and-solana-funds-record-outflows-on-october-28/)**
+
+US spot Bitcoin ETFs took in $137.3M on October 28, led by IBIT's $136M, while Ethereum funds lost $21.4M and Solana products shed $5.7M.
+
+FinanceFeeds • 5h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rise Ahead of Fed Rate Decision: Analyst Says BTC Headed for 'New Highs'](https://www.benzinga.com/crypto/cryptocurrency/26/10/62642612/bitcoin-ethereum-xrp-dogecoin-crypto-market-recap-2)**
+
+Benzinga • 1d ago
 
 ---
 
@@ -242,27 +240,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 1K • 💬 85 • ⏱️ 9:45 • 8h ago
+👁️ 56K • 👍 2K • 💬 93 • ⏱️ 9:45 • 16h ago
 
 ---
 
-**[Ethereum: The Target Zone for This Correction](https://www.youtube.com/watch?v=_6sYYJemcM4)**
+**[XRP Overtakes Bitcoin &amp; Ethereum Whales Are Going To Own Everything Soon Crypto Bull Run Comeback](https://www.youtube.com/watch?v=_9WjqcqWbk4)**
 
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+Im shocked that more people even over the last few years of being in the cryptocurrency space just manage to ignore this type of ...
 
-📺 More Crypto Online
+📺 The Modern Investor
 
-👁️ 3K • 👍 108 • 💬 9 • ⏱️ 7:46 • 6h ago
-
----
-
-**[HUGE ETHEREUM UPDATES BULL RUN 2026! OpenAI??](https://www.youtube.com/watch?v=PenIICTEd4E)**
-
-Is Ethereum (ETH) undervalued or falling behind? OpenAI's “ETH is false” announcement sparked a crypto Twitter frenzy, while ...
-
-📺 Altcoin Buzz
-
-👁️ 2K • 👍 49 • 💬 3 • ⏱️ 9:20 • 18h ago
+👁️ 5K • 👍 517 • 💬 75 • ⏱️ 30:56 • 4h ago
 
 ---
 
@@ -272,47 +260,27 @@ BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no
 
 📺 Yahoo Finance
 
-👁️ 23K • 👍 265 • 💬 145 • ⏱️ 14:51 • 2d ago
+👁️ 23K • 👍 265 • 💬 144 • ⏱️ 14:51 • 2d ago
 
 ---
 
-**[⚠️ Ethereum ETFs Still Selling - ETH Crypto Analysis](https://www.youtube.com/watch?v=QCptec2hKQ0)**
+**[Ethereum: The Target Zone for This Correction](https://www.youtube.com/watch?v=_6sYYJemcM4)**
 
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Software: ...
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
-📺 Bitcoin Strategy
+📺 More Crypto Online
 
-👁️ 2K • 👍 37 • 💬 19 • ⏱️ 10:06 • 20h ago
-
----
-
-**[ETH WILL GET BULLISH IF THIS HAPPENS! (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=uVgRZCmwCq0)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 390 • 👍 10 • 💬 1 • ⏱️ 4:38 • 21h ago
+👁️ 6K • 👍 172 • 💬 6 • ⏱️ 7:46 • 13h ago
 
 ---
 
-**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
+**[BULL RUN 2026 ETHEREUM PRICE and ETH UPDATES!](https://www.youtube.com/watch?v=PenIICTEd4E)**
 
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
+Is Ethereum undervalued or falling behind? OpenAI's “ETH is false” announcement sparked a crypto Twitter frenzy, while Tom ...
 
-📺 BULLRUNNERS
+📺 Altcoin Buzz
 
-👁️ 3K • 👍 51 • 💬 25 • ⏱️ 15:18 • 1d ago
-
----
-
-**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
-
-Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
-
-📺 Dr. Samuel Allen Alexander
-
-👁️ 48K • 👍 553 • 💬 235 • ⏱️ 34:10 • 1d ago
+👁️ 3K • 👍 56 • 💬 3 • ⏱️ 9:20 • 1d ago
 
 ---
 
@@ -326,13 +294,43 @@ Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/ded7dc93 Conn
 
 ---
 
-**[URGENT BITCOIN UPDATE: WATCH BEFORE FED MEETING TODAY!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YdX662MQJjk)**
+**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
 
-URGENT BITCOIN UPDATE: WATCH BEFORE FED MEETING TODAY!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
 
-📺 Crypto World
+📺 BULLRUNNERS
 
-👁️ 14K • 👍 284 • 💬 59 • ⏱️ 19:00 • 21h ago
+👁️ 3K • 👍 52 • 💬 25 • ⏱️ 15:18 • 1d ago
+
+---
+
+**[⚠️ Ethereum ETFs Still Selling - ETH Crypto Analysis](https://www.youtube.com/watch?v=QCptec2hKQ0)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 2K • 👍 36 • 💬 19 • ⏱️ 10:06 • 1d ago
+
+---
+
+**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
+
+Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
+
+📺 Dr. Samuel Allen Alexander
+
+👁️ 50K • 👍 558 • 💬 239 • ⏱️ 34:10 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=-Xj6GkF5gzw)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 112 • 👍 19 • ⏱️ 5:32 • 50m ago
 
 ---
 
