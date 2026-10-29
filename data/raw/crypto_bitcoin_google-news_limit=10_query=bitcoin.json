@@ -26,7 +26,7 @@
     },
     {
       "headline": "Not Your Keys, Not Your DAT",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGtvdmdzbDdqN3FaZkhfNFZoRzdnZG1Ca3JSQjNOd2pyWE1CaXU0bHpyc2FvbWQ0c2hHYkF2Z2Vkc3I1VS1UalFtTEhjWnlWZzBhNzctUzJGRkJ2bGRlQlpFSXNkOElpcUxfNjBzZnZSWDh1RXIzenVuNDl4LU9ZV0laM3EwUzl3cXRJ?oc=5",
       "pub_date": 1793167265.0,
@@ -35,32 +35,42 @@
       "description": null
     },
     {
-      "headline": "Investor Who Called the AI Boom Predicts a Bitcoin Crash",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjF3VnRHRkZ3S285cWhCODRCVk81Wm9LM1JJdzZndDhPMlFsalE0Z2d2NnVUUm81ZnFmQUc5eHJEaHBTMTEwc1drWm1Ua0xMb01oRlAyY3Vnbkg5NW5tU1VDY29IYUNFOWNReVdocnVQNkI1S25rcnVRVnhCXzdDY1VEMnRrNWxtYkpGYnN5WElwWWhhMkhlSm5jQ0p3dw?oc=5",
-      "pub_date": 1793112483.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/investor-called-ai-boom-predicts-144803240.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fddfc29a251252174b5a9abfe97e3abb420dec3b6109779bfdf6c53e7e12af00/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F5207c1ace76db881667b3df485b448fa.png",
-      "description": "Jason Calacanis says dump Bitcoin before a fall to $57,000. Here is how BTC has fared against AI stocks since his 2023 call."
+      "headline": "Fed Stands Pat, Bitcoin Holds Steady\u2014But a December Rate Hike Is in Play",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkNpZWRaQVdyaEpxVWRsRl9BcUxyOU1qbnEzaTBNd1ZvT2xLZ19aVjhqRHYxYnhPSFIxRWRxZ053VVlQSnFaV1dDTm54bXQ1QzN3VEUyYUFuc0VzU3EzUjJHS051VU9tNDQzaTVFZG1ZRlFOUE45ZGhNQkZlUHQ4ZGdtbVcyQy1LekE?oc=5",
+      "pub_date": 1793211918.0,
+      "article_url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
+      "description": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Cook and Cleveland Fed President Hammack favoring a hike."
     },
     {
-      "headline": "BTC news: AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "headline": "Bitwise Raises Bitcoin Price Forecast To $1.6 Million By 2036",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONENMd3BHUk5RdzNzTXJLUkR6dW44bnBYNk9kZHlva3VmQ1E5Sk9WbmMtMVNTM0dTTUMzdWRiWnhjSnRNNk5POHlnMklMYXdKUWdKZy1sWkhmNDV2TG00VG5Cd0ZJSVVMbGQ2SDJGMlJfVThhNDNpNlhsMUFpOVFHdEtST2d3TVRQQUdaX2RzLTA4c1BNNVZma3ByNlI0LURBVFcyNA?oc=5",
+      "pub_date": 1793281380.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitwise-raises-bitcoin-price-forecast-134300871.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/dc5be37a36f21c148d0448aa8e7bf6e9ba775c5daf6827ec9df57d11c3ed890c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fc0b1f4ddb692af207ccfb0aa01e01fd6.jpg",
+      "description": "Crypto asset manager Bitwise has raised its price target on Bitcoin (CRYPTO: $BTC) to $1.6 million U.S. by 2036."
+    },
+    {
+      "headline": "Theoretical 30,000-qubit quantum machine threatens 6 million exposed bitcoin, researchers warn",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnBwamVfbWx0Y05aMV9ZODlZUjBkSDA2dUpHU2NVa3NHMG11V0tTU05neW4zZGtlVnNUNkdqX0RMZG9qN1RTNVBqSVZQNlVSUWpGaVBCZjJwOTRMNGZUVDIycFFoUXN1TG44MDBRUnBxVEFBTUNUTUFvYnpSczRsaU5TRjFZWjNiMjduUjZxTTNHU29HbXJyaVVqdlFIZTFoMlF4VXdXVl9Mczc2Q0FjSk5pT24?oc=5",
-      "pub_date": 1793253279.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUplb0k5SFVvcUdGNXJ4N2pJLVBBcVM4YUo3YjJMVTZjdjlJN094cTNvUFlsZ1JXNWdnYmtRZUNnbTNWYjlNLUh0aXNpZEFDTndyYnR1TGtsVmhHUUpWNzN6N2ZRUUJaYVk3NDUtWHFkZmFfdWVXSXpRSy1UUlJFdkthbnRqek1PWXItd01FZVpqSDJHYWdFYjJHZE5WR2JYazJHOVZHbmdmQWJmTG1Ma1BnZ25VdFE?oc=5",
+      "pub_date": 1793282142.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
       "image": null,
       "description": null
     },
     {
-      "headline": "The chart bitcoin traders should be paying attention to",
+      "headline": "Switzerland breaks from European fund limits with first spot bitcoin ETF on SIX",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORzI3aWRvVldraEo2UE9UUXpURDVOaVotS1VIMS1iMkdNU3BXelVXQUpjSmFSX1lSbVd3eHU3dTNNMlNWQVNzWTBiUXdLdVJfcWJQYlZFYTNoMDhacW1KekVVaXFobDQwV2RfRVdBMWpyZFNzUC12Q1hFWmlLZFhxeTRXaEZvUXhLd3k5UnNmTjJhMnV1cWZlaXA3UUtiODFV?oc=5",
-      "pub_date": 1793259884.0,
-      "article_url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRE5PODNoLUZCLWpzeFIxN1A1bXdwQkZ6dVhNU2ZzbzFfVEM2NTJSQ3dpajZxZ0JCX1NWYUZJa21hcE1XY2JPSE5qOF9VUEU1c2JuTi1LWDRGYVBNbGJnYWNLTW8xNEtUX3FKNHF6ak9JOEJmak90TzBhZkxvcjhJNTdVVFBFTFExVFhmUEhVUnpjTWNyLXFxcWZ5aEpzZ2NsajdMUlhuNnpTWmc0UjBoSkIwcU9sR1lMMmFNNGt4OV9qYkJw?oc=5",
+      "pub_date": 1793283346.0,
+      "article_url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
       "image": null,
       "description": null
     },
@@ -69,42 +79,32 @@
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5",
-      "pub_date": 1793242380.0,
+      "pub_date": 1793262854.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0ycjY5VkJId1VHcG5DRzlVOGRINDZPTWFfRzc1MFJvNE1NN3lkX0ZNMjBjZ2ozbW5HVWpSZmpsaTJ3NGtCV0Nka0VGejN5a0VrS3I0V1RBS0lSeGtSZ1NDR2d6dXZ3ZFU4YUx1X1BYc3YydERTWDlYbWs2Zw?oc=5",
-      "pub_date": 1793217788.0,
-      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Price-Trades-Near-81500-as-Fed-Keeps-Rates-Steady-in-Split-Vote.jpg",
-      "description": "Bitcoin price held near $81,000 after the Federal Reserve kept rates at 3.75% to 4% in a 10-2 vote."
+      "headline": "A Surprise $2.4 Trillion China Shock Could Be About To Hit Bitcoin",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTzc5TWhJajVMMU9iM1ZKdWE2SnFHNm9PSVVzRkdMejRDaGdfS2w5VXIzLVQ4enBiZktfNzdMNE5rQkU1VkwzQmFodEZ2RUlrNnUtaFFKU0FqSjFXVnBhbnZHU0RiSnhJYm5WcEF3VEhNUjBCbEhOYTN5UzgtNUxuQm14T3ltMzltM0l0TExWZG5tY20ydlc2VHhSUmxvUklqaGwyeDVtRE1raEFDOUJHRnFoVXVnRjJfUXV6Xw?oc=5",
+      "pub_date": 1793192998.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/28/a-surprise-24-trillion-china-shock-could-be-about-to-hit-bitcoin/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "2027 Bitcoin Long-Term Capital Market Assumptions",
-      "source": "Bitwise Investments",
-      "source_url": "https://bitwiseinvestments.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDM4STdYTnB3TEVKckt0Vzktd0dqUS1xRkNzSU5PVEljNEVZT0U4LTQzNjBnVktSeEhIem4tNnZXUEZEdlpURXo2bjRzVzI0UHRRZWFBM2pFNlQ1b0tPRC1UWTB4YTZsRVhGaDZIZk1FYU9HZnczbHhKaEptNk91NXdWdmFsMlZWYkVUQlozcDZJMXlaOTVmUWVDaTZvUWlYUzdZcmJR?oc=5",
-      "pub_date": 1793193392.0,
-      "article_url": "https://bitwiseinvestments.com/crypto-market-insights/2027-bitcoin-long-term-capital-market-assumptions",
-      "image": "https://www.datocms-assets.com/62087/1793196211-btc-lt-bg.png?auto=format&fit=max&w=1200",
-      "description": "Bitwise\u2019s forecasts for BTC\u2019s price, volatility, and correlations through 2036."
-    },
-    {
-      "headline": "Bitwise Raises Bitcoin Target to $1.6 Million by 2036",
-      "source": "Bitbo",
-      "source_url": "https://bitbo.io",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04N1h6UDdJemRJdzRHaEVOUXdLWmtZNEpMSTV3TUpRLW5zRTdBVWJ1TnpLYjFTQTJEX3l5eC11UzFuODFaSmFjZFVjdzB1alpQUDFLbGlWbDZKcE1aMVM5QlRwZw?oc=5",
-      "pub_date": 1793209200.0,
-      "article_url": "https://bitbo.io/news/bitwise-bitcoin-million-target/",
-      "image": "https://bitbo.io/news/images/bitwise-logo.jpg",
-      "description": "Bitwise projects bitcoin will reach $1.6 million by 2036, a 34.3% annual growth rate, up from its prior $1.3 million target."
+      "headline": "Current price of Bitcoin for October 29, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UUFRjc3FQb1puaWtPQk1fWVQyMWxkYVJKTGNOM1ZPUjRZM0ZIS3QwQzIzdkwxbmpDcmhCUEdzRl9ySUllSmM1RTd6UzRUbDY5Q0x3d3ZaUUxZTHV2R1RxYnJyN3ZFWXc?oc=5",
+      "pub_date": 1793280721.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-29-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-29.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T08:07:09.863236+00:00"
+  "fetched_at": "2026-10-29T15:25:32.485756+00:00"
 }

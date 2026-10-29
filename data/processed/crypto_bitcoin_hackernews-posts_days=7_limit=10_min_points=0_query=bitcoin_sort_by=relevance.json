@@ -89,6 +89,20 @@
       "site_name": "GitHub"
     },
     {
+      "title": "Bitcoin direction model I built lost to \"price stays the same\"",
+      "url": "https://btcforecaster.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50286408",
+      "author": "mpeluso",
+      "points": 1,
+      "num_comments": 1,
+      "created_at": "2026-10-29T09:22:05Z",
+      "object_id": "50286408",
+      "image": "https://btcforecaster.com/og-image.png",
+      "description": "Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours, updated every 5 minutes, with a public track record of how often it was right.",
+      "favicon": "https://btcforecaster.com/apple-touch-icon.png",
+      "site_name": "BtcForecaster"
+    },
+    {
       "title": "Show HN: Everything ever written into Bitcoin, decoded from the transactions",
       "url": "https://writteninbitcoin.com/en",
       "hn_url": "https://news.ycombinator.com/item?id=50272842",
@@ -129,23 +143,9 @@
       "description": "Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.",
       "favicon": "https://hothardware.com/hh-touch-icon-iphone.png?ver=2",
       "site_name": "HotHardware"
-    },
-    {
-      "title": "Ask HN: Any founders want to trade pitch practice and customer interviews?",
-      "url": "https://news.ycombinator.com/item?id=50265028",
-      "hn_url": "https://news.ycombinator.com/item?id=50265028",
-      "author": "fluentkaluo",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-10-27T20:05:43Z",
-      "object_id": "50265028",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
     }
   ],
-  "total_hits": 10,
+  "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-10-29T08:06:39.086892+00:00"
+  "fetched_at": "2026-10-29T15:25:04.966999+00:00"
 }
