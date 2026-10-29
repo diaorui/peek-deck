@@ -5,32 +5,42 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "We went inside Amazon's robot-powered warehouse to see if machines are taking jobs. What we found surprised us.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFlSWGxibEhSNllvNTkycHY1Rzg1VktWaVB6NGtydUYzQWducERiNHpCaVktNFc4Y2FjbUVaQTh5cHAxMTBHbGluX1FNT1lwdmJyTlFLUzkxMlllaUxTdkdMRlhLX2RqcXAzd09rYzgtbl9CbTh6SWxnZ2xsODRCR1c0LW9UQkMyTm84cjFIS0x0M3lGSlNLcVZubW5OOUYwdEZ3?oc=5",
-      "pub_date": 1793178034.0,
-      "article_url": "https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9",
-      "image": "https://i.insider.com/6adbc10ec8572251b197f937?width=1200&format=jpeg",
-      "description": "Inside Amazon's robotic warehouse in Tracy, California, workers explain how automation is transforming their jobs."
+      "headline": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+      "source": "Google Cloud",
+      "source_url": "https://cloud.google.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmFHdjgxSllxUXBrQTBJSEJXWXdqLUYzcHM1TTRkZEpMeEwxMHZmVGNkd0hCMVlHb0VrdHhwUzJLQnEydFBvLTZvcVU1TVdaVlFVUllxQ2NQM1pmY24yRFRubjViLU9ONkpDUEhPVUMyU0pRX1hBRzVrOWtrTXFCRDZkcDl1Nnp0bmVqT0NTMGxZYVZ4Z29WSmh3V1A3NGRsYzBDWTNSVm9leV80cTlnYk9Ib2JQX3RzRlB6dUVNUGtUZVM1NThz?oc=5",
+      "pub_date": 1793114095.0,
+      "article_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud",
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/gemini-robotics-2__blog__cover.width-2200..max-2200x2200.png",
+      "description": "Discover how Gemini Robotics Embodied Reasoning 2 on Google Cloud brings advanced spatial-temporal reasoning and physical AI to enterprise robotics."
     },
     {
-      "headline": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5",
-      "pub_date": 1793130186.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
+      "headline": "Foundry Robotics Raises $100 Million Series A to Build America\u2019s First Autonomous Factory for Assembly",
+      "source": "Business Wire",
+      "source_url": "https://www.businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeGx5NWJmbktHMndxNWpUYUZETkVpUkJYSmVqVzNNTE5iVGZYT0M1QVZsUHg3eWQ4eVQ4bmpsa2ZKRHB5UHRQeHRUUkIxLXFpSF9OVU9yZDhoQUNqOFJUVTJERHplZ2FfUnVuRXNWc2ZRLUttM2VNOHN3SzhzQnJGVENWeWZMa3JuZVhhQzQtZDM1M2xKMFEyeTU1N295UWhWZkplTGgtOGw0UHRFbXpLeTlweURSckE3MXlsMzB0My04YnlOeUtMMzg0ZDk2bTVuTTJoaElkNVBoZVZZNlkxTlprZXlVSHRnUklJVVhodHVmQQ?oc=5",
+      "pub_date": 1793199600.0,
+      "article_url": "https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump says imported robotics pose national security risks but does not impose tariffs",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzYzMENTbWlLLWdKa2YzdVN4bXhKZUpVeG8tWm1RUVFHcmg5bXdiQ2dtY3lWYlY0dlF4anMyWWc2NF9zQld1TjlSMlFhR3hfMkxzY05iRGM5MmFXNGpQaGRNN3p6NW9YYm9sVXZXV0IwTE9BdDE5WkdHN3cwUnFzWGRDRHVPR2MxU1M2ZXktSk5MWG9aOHg4c0Rxc2diRzQ1RWUxZzlNRnJoMi1wTEFZWHNCWEJ0eGlxX01CektB?oc=5",
-      "pub_date": 1793225503.0,
-      "article_url": "https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/",
+      "headline": "Trump Delays Robotics, Machinery Tariffs in Favor of More Talks",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUp2SjdYSFFKSDRxY0lWTkNjV1BGSjVrams3dnc4NFRpdGpINkxVa1ZMYjBGRmpHTDRqZXV1azI1OEtiV3AyTDhobGpEcnFGWGYyU1FrT3hkSlV3U0hSMm9tZmVhbXM2MVdTcnc1a2ZCNUw0WnpIZS1EejhFakZEOUNyTTBOME5fa25UTFhjdklncGVjUFFFM3lBMWtCejZCSGxfZkxIbFNUNmtfRFBSc01zbw?oc=5",
+      "pub_date": 1793219833.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Mystery owner plans robotic car wash in Arlington",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0pVYlZUS25nOGJjUHRDemRDYWo4Vjl6dDdkRUxOLWd4dzJmdGtZN2taaDFVU29nOGo1eEtaeGtxalIwZDFkNkR0ZE5SR0xNRi1kcDFWZUI0OG5LQ2RCTzdoYmNXZlRoTDhkclUtOEk3OWpyZkZGbVByelo3WjExck90SUJuVVo2QjJDM3NId1VoVFRaYTlv?oc=5",
+      "pub_date": 1793214660.0,
+      "article_url": "https://www.bizjournals.com/washington/news/2026/10/28/arlington-robot-car-wash-wattbox.html",
       "image": null,
       "description": null
     },
@@ -45,11 +55,21 @@
       "description": "Spacewalking tools and a pair of robotics jobs topped Tuesday\u2019s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear."
     },
     {
+      "headline": "Unitree's quarterly revenue surges 70% in test for China's robotics sector",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkkxMGZFaG5UVFVwY2JaNVA0RG9TTnNJOXoxaElhSmhhT0RQQWxTSUNxNkFFMWg2em1GclFpMFlYRkc1ZTQ5VGJCdHY5WFdYUDFIRU9XWk9UX2FYV054dEVtZnZzZkpyd3c1Nkc5Z2Q1cWl6RTc3RnN1V0FzbkMxMXg0bjRCZjZVbjJlbElFcm8zcGVlOHNDRWFZSVlHQ3YxaHpJTi16NVJDN1U1NklWcEZRcXdvTGpSUlE?oc=5",
+      "pub_date": 1793191005.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/unitrees-q3-profit-down-174-on-year-test-chinas-robotics-sector-2026-10-28/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Robots roaming grocery stores could put millions of retail jobs at risk",
       "source": "NewsNation",
       "source_url": "https://www.newsnationnow.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEFMR3hXMkhSTUhPX0dHT3VER2ZsOWwzb0pWLXlUbndiaXVaNkRPc1VubUVBSDhPZFdHT0hfMkNNVk5zaE1uZVRFNU9tVlpUNkhlcFdVVm5KbUd1RE8xLWhXelRLTVRYRjRzSHZyb0lJLWxJMzFoMmM0R2FTY1FERzBjRmVnMGhsRkpXRdIBkgFBVV95cUxNN2Nqb2QwSVFzbXBYckd1VWV5cjZTdEI0aFRSTERhS2lFWFRxVHhIaDdsLURFSVFJSHN2MVZrYlQ0eEhXbUNhRTVJUkpzSTZuaDNpTlBiMnhHYm05NGdLU0tlWDVlc0NPSDI0V3hXRXBZcHZvUU9pbnBOOTUxZnZxUU9PTVh2ZHVobzZ5RVlTcFlkUQ?oc=5",
-      "pub_date": 1793250051.0,
+      "pub_date": 1793223587.0,
       "article_url": "https://www.newsnationnow.com/business/your-money/robots-grocery-stores-retail-jobs/",
       "image": null,
       "description": null
@@ -65,46 +85,26 @@
       "description": "Utah State University professor Mario Harper was on hand at the 47G Zero Gravity Summit Wednesday to showcase the potential of Dallas and Dallas II, two humanoid robots the university acquired from overseas."
     },
     {
-      "headline": "Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjdHM3lsR3NNZTVGZEVURzJGMmxycVFpdVA4ekdpcUV2Y1h2dHVMd2lRREI2MHhVYXJoMzBLNE9qckc5NGRBV2dWci1CQWMyVDV1aFR4Q1BfaWdZN1lUd0x4NmhLbU9XNjlYNFpkVUxPWmo2ajZ1cjMwdmloMnN3ckpaUVVOVUtvcUZhX0ZBYUJlNkVxeVE?oc=5",
-      "pub_date": 1793069040.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-30.jpg",
-      "description": "Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027."
+      "headline": "US Navy partners with Gecko Robotics to modernize ship maintenance",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93T3lvc0QwSGlBRVMxMmk0b0gyeHdnOFBEMWVsQjJidEVuOTFleUZBc3pWWUZYR1NIXzdqaFJsbldsbTVDLTc3RE44VlpwV0RnSjROR1BR?oc=5",
+      "pub_date": 1793214790.0,
+      "article_url": "https://www.foxnews.com/video/6407551239112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/941a4118-d534-476f-a9c3-b563de132551/17dad2b1-00b1-4f1e-8881-31a28035e7ee/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Gecko Robotics co-founder and CEO Jake Loosararian joins \u2018America Reports\u2019 to discuss the company\u2019s expanding partnership with the U.S. Navy to modernize ship maintenance and strengthen defense manufacturing."
     },
     {
-      "headline": "Japan experiments with autonomous AI chainsaw-wielding robots \u2014 video shows rail truck-mounted metal humanoid cutting down tree branches",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMHh5MjctZi1laWF4bGJ1VmxDdWpPYzNRaUVNZy1NQnAwSGhXZzNzSWMtNXFDOUI1WlFrcWVLcE5BRUh0eXFubjVzYW9vNkFpMXJkSGxOM3hac2UtclZjWlExVzZnTTBHeFpidFlHX2kyLWVWQVdhbktPYkFBMWp4czFGcFM0RjhNODY1MEpraXMwTXdHSWlEcXF0eDNTakVoZlNad2dlNjVVZUx6RlFWSk5RRnJ2WmlpbEhtRDRvU1g1eVBkblE5ZTVDem45d05lX3JYVUgxRVJyaGhjUVBZaVZZa2l6VTdfWGk2Uk01ZDFnbFhpalhaOHlRQ05SNUhub2Q2OEU1b2VXS2cyNjNLR01xY1I?oc=5",
-      "pub_date": 1793180400.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches",
-      "image": "https://cdn.mos.cms.futurecdn.net/GNdgn4uQJSieHfhRki6Xdn-1920-80.jpg",
-      "description": "The frightening-looking mech in the demo still has a human operator, for now."
-    },
-    {
-      "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBOaUFWYzdPdWticUxKMVBOUS1rdDI2bFVEQ3NvRHBUVnhUWkVDYU1TMjQ5Xy1QUE9kR2VtRWp6QUpfQWMxcFY0Nmg1V09YNFp5SVplaUN5azRWdzREdURHb1JER2d0LUF3dzgzSWRFVmVNYmJycnAwa3lUd0pJM3poem5QM1U?oc=5",
-      "pub_date": 1793091757.0,
-      "article_url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQQ1V6eW1MMDgtWXhxTmRhQ1d0X0NnQUZRY0ZsekgxZ0V5UHdyQ1JVNllTMkFHT3dqV0IwdGxOOEp6ajhpX2k0UENveWt0Rmc1SFVfWDlXWXhjVFFDbER5NWczUzMxY08xME5CX3NYdkdvM0Q1bE1IVjd30gF_QVVfeXFMUGJvcUFSdjBuYl9PaDZ6NjdzOWRncVVMRW1BMDV2b3dELXprc041cXI2OGV0cDBiX05JMHItNWJ1cU1sRGt6S1BTdVl4cUpNSXhLMWI0X1NjQjFFRTBkTmJLajRreVBOS3FKT09VSkwxZWwydzZSaTVhandqNDQwZw?oc=5",
-      "pub_date": 1793054059.0,
-      "article_url": "https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355638-1787909091760-JOHN_THUMB.jpg?v=1787909129&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity."
+      "headline": "Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft",
+      "source": "Payload Space",
+      "source_url": "https://payloadspace.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUhqTkptdnNrY3JIbEIwLTJmWkhEM3g1enNjazJJRlFRTm9hYlNYcWR1bjVaRDdlQTlYcm9zTnZJMk55OTBXb0VRQm9uMXpTS1A0QzI2YmhkUTVEVi1uMkgxNktHaGZCU0JObjA2WG9sU3pmYTlDRkZKbTY4WGtoeTVRaGUzcWJScmcyWTNzRXRmaHd0c19EaVBmdTQ2VlE4aVlvZUhpOA?oc=5",
+      "pub_date": 1793192683.0,
+      "article_url": "https://payloadspace.com/exclusive-rendezvous-robotics-raises-20m-to-develop-self-assembling-spacecraft/",
+      "image": "https://payloadspace.com/wp-content/uploads/2026/10/hero.jpeg",
+      "description": "Rendezvous Robotics is developing technology to allow future satellites to launch in pieces that can self-assemble in space."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T08:07:04.910198+00:00"
+  "fetched_at": "2026-10-29T15:25:27.380549+00:00"
 }
