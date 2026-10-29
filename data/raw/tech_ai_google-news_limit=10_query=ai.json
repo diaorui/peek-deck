@@ -5,14 +5,74 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaHMzZ0xHaXZJclUyQTNaV21kT28yQVNMWk1oaTNENVZQUkFzSjJWTllSMVdKM1dKZU1kUGpHTnBRTUp5czRSS2h5ZUg2ZlJ2cE9adDhOaWRhN1MyaENXazlvWm8zMnhuOFZzQ0F1SkVLMnIwb0hKTzNmY1VSUQ?oc=5",
-      "pub_date": 1793214893.0,
-      "article_url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "headline": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU?oc=5",
+      "pub_date": 1793218516.0,
+      "article_url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "'Super offensive' - We love how we look but AI tried to 'fix' our visible differences",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PSzBIRExkOWRrcFR2VFAzd01XUnBydEtkNGl3QkI2Y2ZWcktCX3FFQnhPNnU0SDcyLVdlYVRkN2pHRlh3VHdSdVQxRFpzczFMRFAwaXNXNDFrSW8?oc=5",
+      "pub_date": 1793228576.0,
+      "article_url": "https://www.bbc.com/news/articles/cmx28e44xxx7o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/162f/live/9c87ca10-d1fa-11f1-93e1-3b657b665bcf.jpg",
+      "description": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results."
+    },
+    {
+      "headline": "Michael Burry calls AI boom 'catastrophically vulnerable' after Anthropic filing (ANT:Pending)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQi1ZTUVkcG5xSjR4TFdTLVlIdVFrZmRmM1FwT19IYU9kV0pjZllIVS0zbFQxVDhWVXA1NzdBTWM5ajF2b2ZHZUVCUzVVRU5lUUpibmxHV25NTlMtc2hLQkI3emk4SG1MVFVUalA5U3RvMmhTZzRFTGRiM1gyVGhXbHhMNy1FYndIbEdZSXNjYmpnbmpwVjJHSzNjeDVCV1RjSHlCTEt0YWIzR08xMFZPSXFVdTgzUmc?oc=5",
+      "pub_date": 1793258396.0,
+      "article_url": "https://seekingalpha.com/news/4659866-michael-burry-calls-ai-boom-catastrophically-vulnerable-after-anthropic-filing",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2218761418/image_2218761418.jpg?io=getty-c-w630",
+      "description": "Michael Burry warns Anthropic\u2019s IPO filing exposes AI boom risks, from heavy computing commitments to slowing growth."
+    },
+    {
+      "headline": "SpaceX Supplier STMicroelectronics Forecasts Strong Sales on AI, Satellite Boost",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdzNleFRaTXNIWFFjOGZZTi1rVkNnUVF2eWZRZ25wZ0NJTXVmVlhjR2NuSExkZkswTkVWNHB1ZzdjWTJMcVJXZmdncWwzVVhuLUwwak9vSC00LXNlR2VfVnM3UUtpYmNlWHVyZXpjOEF0bldHSy0taFR0ZmdRWHd1Uks2OUk4dkFTb3h5YUNnN01mSERoZklIcF96UEpuRV9kVzhSY2VmQ3JVRnJ2dXg0VHFoS1BNNnY0U1ZUWG4xU1RiOVRR?oc=5",
+      "pub_date": 1793257260.0,
+      "article_url": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-forecasts-strong-sales-on-ai-satellite-boost-ead95dbd",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Air Liquide\u2019s Sales Grow on Sustained AI-Related Demand",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMU41QXp2YnJLRDQ0d1NnLUJTMDhsVFQ5S2JSTGI0ejZQSmcwTzNCZk42UjM2a2FzME1YRWEtSXlBX3ZuQk53OW1oVlFwTWpDUFpza2ZQTEswTTFSWUdYNzVYWG1GV1ZzVElSby1temM2M1JiR2VJb0F2cFZ5RDBNVnU4NExjdU40a2pIS3BkWXMzUjdQVUpHMDZ1dlk5cThiTHc1d1BrSW52UXVQTkQzNGI0aVNyY0ZSdHRST2F1RDRIRERvd1E?oc=5",
+      "pub_date": 1793256180.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/air-liquide-sales-grow-sustained-ai-related-demand-semiconductor-chip-making",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "ChatGPT\u2019s Advice to Cut Her Seizure Drug Led to Devastating Consequences",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0NqMW1MSnJGeVB2WHVWdWR4V0wySkRhVUpXTG1hQk1iZU1CY3pNeGRwUkVIcU83V01mckM5Z01qTmw0T2tRUVZmM1luNE55bDluMEQzUzB5THBzZWJYZ1ZTRFA3a0otUVZDRWRVdDdmTm9WY2VoazJUR19nNGlGNU9WNHVxWGZV?oc=5",
+      "pub_date": 1793116812.0,
+      "article_url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5?oc=5",
+      "pub_date": 1793240040.0,
+      "article_url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108129020-17442031072025-04-09t123941z_1563710510_rc2auda4lwqg_rtrmadp_0_usa-trump-tariffs-china.jpeg?v=1744203134&w=1920&h=1080",
+      "description": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations."
     },
     {
       "headline": "What Should You Do With Your Money in the Age of AI?",
@@ -25,86 +85,26 @@
       "description": null
     },
     {
-      "headline": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRhTXNhc0dhVWVuU1R2czVZME9uX1AwRUQ4TUhNWFNlUWllOWFpd3F0Y3NrNlVWTnNkOG1ManI5a2lEUU9rcERuOTZqNUtZampraXdIZkhyY01nWVRUSkgwVnc1WTZWbnp1RzlLbGw5T2Z1clFYNlFYT2d2THdmYjlNUFZTZ9IBiwFBVV95cUxPMlJfRno2MkJZOUJpRElyemhVOUpIZWpEbGJyaTBuSTZYODdTd1A3a0k3RDZZY1RMZ21sWG1UWDRUSXdNc2tMenZMR3pSWjRlS0pDa0tCMGlaeHNZbEtDcUFoWFVXUXAwZ2hpdVJOd0JhWkhqNDRPNGpvaFFYcXJHb0NBNjFxSFFQd1NB?oc=5",
-      "pub_date": 1793235420.0,
-      "article_url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&w=1920&h=1080",
-      "description": "Samsung Electronics reported third-quarter earnings on Thursday."
+      "headline": "How AI agents shape experts\u2019 judgment calls",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5",
+      "pub_date": 1793127053.0,
+      "article_url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b3aee146e4ef35b394b2b626d5eaf5faaee741aa-1200x630.jpg",
+      "description": "In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work."
     },
     {
-      "headline": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGJsVE5PellOMG00OVVLbi1tLVFydl8ya3FJVXNadWo5NThCMFZocnFmUVBZZEVlTkJUNlJwYXFvWUtLRjdPNTJsT2lQZlZjWXc3SWY5QXpPWU5KQUJuQjdlOE5PTWFBbU9CeWV3WUVrWHJPMXZqVEVLU044OVpMVGJOelE4VkR6NkJsUzNjQmdfdUtKaW5aRHg3UzZoclFrWnVLRldHejhnWmstaTRhV3Z4MmUxQQ?oc=5",
-      "pub_date": 1793235600.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
+      "headline": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaHMzZ0xHaXZJclUyQTNaV21kT28yQVNMWk1oaTNENVZQUkFzSjJWTllSMVdKM1dKZU1kUGpHTnBRTUp5czRSS2h5ZUg2ZlJ2cE9adDhOaWRhN1MyaENXazlvWm8zMnhuOFZzQ0F1SkVLMnIwb0hKTzNmY1VSUQ?oc=5",
+      "pub_date": 1793178278.0,
+      "article_url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "How this private school in Palo Alto uses AI to support students",
-      "source": "NBC Bay Area",
-      "source_url": "https://www.nbcbayarea.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeW5yc0tjS2V0b2xEVl9BejlFdGxkSjRNblIycmtUX29TV0M2MlZLcFI3ejNSVk1CcU5mYzFCZE03eFNCT3dlaTNnY2JpRVJkajQtNGxrbkU0d1hmLW5XQldSalpJT2haVUV5VDA1cy0zTUVSY0t5bW1jREdFZFpWX1NscGtDMVUyd2fSAZIBQVVfeXFMTkVpZGxEWU1wcUctRm82b3R4czJUdGx5a1hueUx5Tmc5Sng3bWgxZl9tZFdHa0RoZmFfUEFWWUM1SzdaR0gtTHdkUDVVNkRLWE9pVzFxQnhLYkZjUlF1WWdPQzl6bUQtdTRhZV8zZUNwYzR0dGxrTkxVZjFqQjNPUHVTSEp4ODBPMGlVSExELWpNaUE?oc=5",
-      "pub_date": 1793234597.0,
-      "article_url": "https://www.nbcbayarea.com/news/local/ai-powered-private-school-palo-alto/4166391/",
-      "image": "https://media.nbcbayarea.com/2026/10/How-this-Palo-Alto-school-embraces-AI-to-teach-students.jpg?quality=85&strip=all&resize=1200%2C675",
-      "description": "A private school in Palo Alto uses AI to help students while also making sure to take the technology away."
-    },
-    {
-      "headline": "Powerful Dem trio demands faster AI incident disclosures",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenladk5CN2JpekxGMWdoUzg0OFZWXzFyek0xMy0tOGVHanJ0RkcwN3ZSVWtfX1ZCTGhBMUFreEFUUU80cERJQnJ3WmpNTzA0ay1wa2NtV3kxVl9IcnFxWVhJNzl2b09fT3d0S0pMRFJ0WS1aRElfUWFBQmdwOXowVDhad2NKWEVFRmR2cnc3Y2xZZzh0WEx0c0NyM1JKN1liY3I4dWpMX2ZvNDN1eEFzVHo0N1RQa05qMER4RVRCODY?oc=5",
-      "pub_date": 1793208586.0,
-      "article_url": "https://www.politico.com/live-updates/2026/10/28/congress/powerful-dem-trio-demands-faster-ai-incident-disclosures-01138531",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "In China, the AI bubble has already burst",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
-      "pub_date": 1793104678.0,
-      "article_url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Investors Who Piled Into China\u2019s AI Boom Just Watched About $480 Billion Vanish in Under Four Months. Are America\u2019s AI Bulls Next?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHhhS014Y2VNaThmTmFXRE9fS1ZFQVhaakVLbTRSdUlWYVkzaW1OX2xRbEU3WnI2Z0dWZnVyYURrVkNxaDByTWRBMUZPU01xaDhtMGhRd05pS244dGN2QnZsdmJVdjh4YlNPWHJNSnVJdzRrV3h1S0t5TXNGNnBsR2M4c1liWlNnczROYW5rOVlHRnVINkV2MjZ3?oc=5",
-      "pub_date": 1793207702.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/investors-piled-china-ai-boom-171502130.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/76f33b96ee1b0f6b51c01c1e829b8f65b4585904dff03325582a438d27433185/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ffcba3865e18d9abc038e3dd62f6f2a16.jpg",
-      "description": "China's AI stocks just staged one of the most dramatic collapses in recent market history, and Wall Street is now asking whether the same warning signs that preceded the crash are quietly flashing across American portfolios."
-    },
-    {
-      "headline": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU?oc=5",
-      "pub_date": 1793218516.0,
-      "article_url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHp2SlA2VGtZamtqaWlqaXlCd1prZ1htWV82SlNmNXZOSnRZbDYxQkpXQU8zU2dtMFB3RHBmc3dYYmVoRExoQUV4RFBGTjhuVUVIcVY1MVVPQ0tTb0puTnZsZWFjS1BfZVgyVXlwbE41ck12aUZUcVRWY0hjb0lUalB5T1VKUXQzZ0hYN2JIYVVtNGhfX3J5OGx4ZUFNaGRCalRveWNDM2lYenRWNkZBT0dUal9XWWJVM0toVE5xSDR4Q21rdVk1TUpFQ1JqLWM4NFl2RVNBZVExc2dHbEF5bnNFOVpFSlE?oc=5",
-      "pub_date": 1793226642.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/live/microsoft-earnings-live-microsoft-beats-q1-expectations-on-top-and-bottom-line-on-ai-growth-204510452.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/93be38857b497838fa255fa9b5fd8d9892a76ff78543c1b32b85904ec640a6bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F6e2c74cb-5745-40af-b740-c2d0c45d8a9c",
-      "description": "Microsoft reports Q1 earnings."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T01:35:58.857504+00:00"
+  "fetched_at": "2026-10-29T08:07:09.768820+00:00"
 }
