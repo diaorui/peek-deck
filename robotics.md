@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-28T21:37:05.835410+00:00'
+updated: '2026-10-29T01:36:00.575056+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 28, 2026 at 21:37 UTC  
+**Last Updated:** October 29, 2026 at 01:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,37 +114,15 @@ Hello everyone, I would like to know some good sites and guides on how to design
 
 ## Google News: "robotics"
 
+**[Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation](https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation)**
+
+Bloomberg • 1d ago
+
+---
+
 **[Foundry Robotics Raises $100 Million Series A to Build America’s First Autonomous Factory for Assembly](https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly)**
 
-Business Wire • 6h ago
-
----
-
-**[Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News](https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330)**
-
-A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
-
-ABC News - Breaking News, Latest News and Videos • 2d ago
-
----
-
-**[Trump Delays Robotics, Machinery Tariffs in Favor of More Talks](https://www.bloomberg.com/news/articles/2026-10-28/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks)**
-
-Bloomberg.com • 59m ago
-
----
-
-**[US Navy partners with Gecko Robotics to modernize ship maintenance](https://www.foxnews.com/video/6407551239112)**
-
-Gecko Robotics co-founder and CEO Jake Loosararian joins ‘America Reports’ to discuss the company’s expanding partnership with the U.S. Navy to modernize ship maintenance and strengthen defense manufacturing.
-
-Fox News • 2h ago
-
----
-
-**[Trump Delays Robotics, Machinery Tariffs in Favor of More Talks](https://www.bloomberg.com/news/articles/2026-10-28/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks?srnd=phx-latinamerica)**
-
-Bloomberg.com • 59m ago
+Business Wire • 10h ago
 
 ---
 
@@ -152,13 +130,7 @@ Bloomberg.com • 59m ago
 
 Inside Amazon's robotic warehouse in Tracy, California, workers explain how automation is transforming their jobs.
 
-Business Insider • 12h ago
-
----
-
-**[Unitree's quarterly revenue surges 70% in test for China's robotics sector](https://www.reuters.com/world/asia-pacific/unitrees-q3-profit-down-174-on-year-test-chinas-robotics-sector-2026-10-28/)**
-
-Reuters • 9h ago
+Business Insider • 16h ago
 
 ---
 
@@ -170,19 +142,47 @@ NASA (.gov) • 1d ago
 
 ---
 
+**[Unitree's quarterly revenue surges 70% in test for China's robotics sector](https://www.reuters.com/world/asia-pacific/unitrees-q3-profit-down-174-on-year-test-chinas-robotics-sector-2026-10-28/)**
+
+Reuters • 12h ago
+
+---
+
+**[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.newsnationnow.com/business/your-money/robots-grocery-stores-retail-jobs/)**
+
+NewsNation • 3h ago
+
+---
+
+**[Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News](https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330)**
+
+A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away.
+
+ABC News - Breaking News, Latest News and Videos • 2d ago
+
+---
+
+**[San Francisco startup offered $20 an hour to walk robot dogs for AI training: report](https://www.foxbusiness.com/technology/san-francisco-startup-offered-20-hour-walk-robot-dogs-ai-training-report)**
+
+The $20-an-hour job posting sought workers to operate four-legged robots on outdoor testing routes through San Francisco with no robotics experience required.
+
+Fox Business • 2h ago
+
+---
+
+**[Arizona Robotics League](https://www.mlb.com/dbacks/video/arizona-robotics-league)**
+
+The Arizona Diamondbacks and Honeywell Aerospace are proud to support the Arizona Robotics League
+
+MLB.com • 3h ago
+
+---
+
 **[Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft](https://payloadspace.com/exclusive-rendezvous-robotics-raises-20m-to-develop-self-assembling-spacecraft/)**
 
 Rendezvous Robotics is developing technology to allow future satellites to launch in pieces that can self-assemble in space.
 
-Payload Space • 8h ago
-
----
-
-**[110 humanoid robots dance in perfect sync to set Guinness World Record in China](https://interestingengineering.com/ai-robotics/110-humanoid-robot-guinness-world-record-dance)**
-
-China sets a Guinness World Records title as 110 AGIBOT humanoid robots perform synchronized dance routines.
-
-Interesting Engineering • 11h ago
+Payload Space • 12h ago
 
 ---
 
@@ -190,33 +190,13 @@ Interesting Engineering • 11h ago
 
 ## YouTube Videos: "robotics"
 
-**[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
-
-Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
-
-📺 VisionX Lab
-
-👁️ 408K • 👍 11K • 💬 521 • ⏱️ 0:59 • 3d ago
-
----
-
-**[Tesla Leaked Optimus 3 At Earnings Call | It&#39;s As Good As They Say](https://www.youtube.com/watch?v=gS1iOU_JnkA)**
-
-Tesla has started production of Optimus on a line in Fremont, and on their third quarter earnings call Elon Musk said "there is no ...
-
-📺 Ryan Shaw
-
-👁️ 116K • 👍 2K • 💬 166 • ⏱️ 37:43 • 4d ago
-
----
-
 **[Robot Dog Entered the Lion&#39;s Territory... Big Mistake?!](https://www.youtube.com/watch?v=eZQo7KqJy8c)**
 
 What happens when a robot dog walks into the world of lions? In today's episode of Wild Clash, the mightiest and most curious ...
 
 📺 Wild Clash
 
-👁️ 1.1M • 👍 8K • 💬 606 • ⏱️ 8:40 • 4d ago
+👁️ 1.1M • 👍 9K • 💬 607 • ⏱️ 8:40 • 4d ago
 
 ---
 
@@ -226,47 +206,17 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai
 
 📺 InsideAI
 
-👁️ 2.2M • 👍 40K • 💬 4K • ⏱️ 15:05 • 3d ago
+👁️ 2.3M • 👍 41K • 💬 4K • ⏱️ 15:05 • 3d ago
 
 ---
 
-**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
+**[Tesla Leaked Optimus 3 At Earnings Call | It&#39;s As Good As They Say](https://www.youtube.com/watch?v=gS1iOU_JnkA)**
 
-Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
+Tesla has started production of Optimus on a line in Fremont, and on their third quarter earnings call Elon Musk said "there is no ...
 
-📺 VisionX Lab
+📺 Ryan Shaw
 
-👁️ 264K • 👍 3K • 💬 310 • ⏱️ 0:11 • 3d ago
-
----
-
-**[Jensen Huang&#39;s Tiny Microduck Robots Steal the Show at NVIDIA GTC 2026](https://www.youtube.com/watch?v=Nt6d62vN7CU)**
-
-NVIDIA CEO Jensen Huang introduces 4 tiny Microduck robots during the NVIDIA GTC Berlin 2026 keynote, demonstrating the ...
-
-📺 DPCcars
-
-👁️ 2.2M • 👍 14K • 💬 2K • ⏱️ 4:06 • 6d ago
-
----
-
-**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
-
-OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
-
-📺 MACHINEKIND
-
-👁️ 23K • 👍 402 • 💬 35 • ⏱️ 13:33 • 22h ago
-
----
-
-**[Toyota’s 400,000-Robot Plan: Is It Taking on Tesla and China? | Firstpost Explains](https://www.youtube.com/watch?v=Egf4fBLfRk4)**
-
-In this video, Firstpost explains Toyota's ambitious plan to enter the humanoid robot race against Tesla and Chinese ...
-
-📺 Firstpost
-
-👁️ 9K • 👍 20 • 💬 3 • ⏱️ 7:48 • 9h ago
+👁️ 118K • 👍 2K • 💬 171 • ⏱️ 37:43 • 4d ago
 
 ---
 
@@ -276,7 +226,7 @@ Unitree just dropped the H2X AI robot, and its terrifying strength is shocking t
 
 📺 MACHINEKIND
 
-👁️ 19K • 👍 221 • 💬 34 • ⏱️ 13:25 • 4d ago
+👁️ 19K • 👍 222 • 💬 34 • ⏱️ 13:25 • 5d ago
 
 ---
 
@@ -287,6 +237,54 @@ Have a look at the new Nvidia Microduck AI robots. NVIDIA CEO Jensen Huang was j
 📺 REC Anything
 
 👁️ 1.8M • 👍 11K • 💬 1K • ⏱️ 8:29 • 6d ago
+
+---
+
+**[Microduck robots go viral at NVIDIA GTC 2026 #robots #microduck #nvidia](https://www.youtube.com/watch?v=tYROJBVwt5M)**
+
+Hugging Face says it's sold more than 4000 of its Microducks since their viral appearance during Jensen Huang's NVIDIA GTC ...
+
+📺 Kalil 4.0
+
+👁️ 121K • 👍 905 • 💬 38 • ⏱️ 0:34 • 5d ago
+
+---
+
+**[Meet Unitree’s latest security robot: martial arts skills &amp; car-lifting strength](https://www.youtube.com/watch?v=Vez_mlGo7gE)**
+
+📺 ShanghaiEye魔都眼
+
+👁️ 113K • 👍 741 • 💬 337 • ⏱️ 1:01 • 4d ago
+
+---
+
+**[Unitree&#39;s New Guard Robot Comes With a Warning](https://www.youtube.com/watch?v=oq1Ia8zlXNQ)**
+
+Unitree posted the H2-X on Oct 21 and pitches it as a guardian. The knife scene is labeled a security demonstration, and the last ...
+
+📺 The Humanoid Files
+
+👁️ 77K • 👍 993 • 💬 119 • ⏱️ 0:39 • 6d ago
+
+---
+
+**[Ai is Dropping. The Robotics Stack is Just Starting ($2.5T Opportunity)](https://www.youtube.com/watch?v=OMDj6el4AbY)**
+
+I'm Kuran Francis, and in this video I'll be mapping the full 8-layer robotics stack for physical AI. Get a free $55 when you trade $25 ...
+
+📺 Fin Tek
+
+👁️ 56K • 👍 827 • 💬 40 • ⏱️ 22:57 • 5d ago
+
+---
+
+**[Meet the AI Robots Built with NVIDIA RTX Spark #shorts](https://www.youtube.com/watch?v=ERQPIELdV4Y)**
+
+Engineered on Nvidia supercomputers and trained within a high-fidelity Omniverse digital twin, these robots are the next evolution ...
+
+📺 Eco Life
+
+👁️ 5K • 👍 51 • 💬 3 • ⏱️ 0:38 • 6d ago
 
 ---
 

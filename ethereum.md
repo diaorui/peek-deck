@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-28T21:37:05.833780+00:00'
+updated: '2026-10-29T01:36:00.571804+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 28, 2026 at 21:37 UTC  
+**Last Updated:** October 29, 2026 at 01:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,357.65
+### $2,362.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -1.3%  
-**30d:** -12.0%  
-**90d:** +26.5%  
-**1y:** -39.7%  
+**24h:** -0.9%  
+**7d:** -2.1%  
+**30d:** -13.0%  
+**90d:** +26.7%  
+**1y:** -38.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $287.57B
+**Market Cap:** $285.78B
 Rank #2
 
 **Circulating Supply:** 122,170,166 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.4%
+-52.7%
 
 **All-Time Low:** $0.43
-+543549.9%
++540261.1%
 
 ---
 
@@ -162,14 +162,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Current price of Ethereum for October 28, 2026](https://fortune.com/article/price-of-ethereum-10-28-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 9h ago
-
----
-
 **[Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up](https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines)**
 
 The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.
@@ -178,11 +170,35 @@ CoinDesk • 2d ago
 
 ---
 
+**[Current price of Ethereum for October 28, 2026](https://fortune.com/article/price-of-ethereum-10-28-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 13h ago
+
+---
+
+**[Claude AI Predicts the ‘Flippening’: How Does Ethereum Finally Overtake Bitcoin?](https://www.tradingview.com/news/99Bitcoins:995cc06f4094b:0-claude-ai-predicts-the-flippening-how-does-ethereum-finally-overtake-bitcoin/)**
+
+Anthropic’s Claude AI predicts a bold move for Ethereum over the next few months that could end with the long-awaited ‘Flippening’, whereby ETH overtakes BTC as the leading digital asset.For this to happen, Claude notes a specific catalyst that could send Ethereum parabolic and start its move to ov…
+
+TradingView • 16h ago
+
+---
+
+**[Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows](https://www.financemagnates.com/trending/why-is-crypto-going-down-bitcoin-tests-80000-as-ethereum-xrp-and-dogecoin-sink-to-august-lows/)**
+
+Crypto fell after a tech selloff and $773.5M of ETF outflows. My charts show bitcoin on $80,000 with $75,055 next, and ether and XRP on their last supports.
+
+Finance Magnates • 2d ago
+
+---
+
 **[This Venture Capitalist Thinks Solana Will Surpass Ethereum During the Next Bull Market Cycle. Here's Why He's Wrong.](https://www.fool.com/investing/2026/10/28/venture-capitalist-thinks-solana-surpass-ethereum/)**
 
 The two blockchain networks have been rivals for years.
 
-The Motley Fool • 10h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -190,29 +206,7 @@ The Motley Fool • 10h ago
 
 Ethereum’s Glamsterdam upgrade aims to boost network efficiency & utility, crucial for ETH's long-term appeal. Yet, its impact on older apps & fee structures leads to delays, now likely pushing the mainnet release to 2027. Could this reshape how DeFi thrives on Ethereum? Dive in.
 
-Investing News Network • 40m ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP recover as Big Tech earnings take center stage](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-recover-as-big-tech-earnings-take-center-stage-202610280338)**
-
-FXStreet • 17h ago
-
----
-
-**[Ethereum: Breaking Upwards After First Level Hit](https://blockchain.news/flashnews/ethereum-breaking-upwards-after-first-level-hit)**
-
-Michaël van de Poppe reports that Ethereum has hit its first level and is breaking upwards for $ETH, with markets now at the optimal sweet spot to hold and...
-
-Blockchain News • 20h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise Ahead of Fed Rate Decision: Analyst Says BTC Headed for 'New Highs' If It Flips This Level](https://www.tradingview.com/news/benzinga:af312c1f2094b:0-bitcoin-ethereum-xrp-dogecoin-rise-ahead-of-fed-rate-decision-analyst-says-btc-headed-for-new-highs-if-it-flips-this-level/)**
-
-Leading cryptocurrencies rose alongside stocks on Tuesday, buoyed by investor focus on the Kevin Warsh-led Federal Reserve’s interest-rate decision and weaker oil prices.Crypto Market GainsBitcoin hit an intraday high of $81,159 before meeting strong resistance, while Ethereum traded sideways in th…
-
-TradingView • 19h ago
+Investing News Network • 4h ago
 
 ---
 
@@ -224,11 +218,17 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Pendle STRCx deposits hit record $50.4 million on Ethereum](https://cryptobriefing.com/pendle-strcx-deposits-record-ethereum/)**
+**[Ethereum Co-Founder Vitalik Buterin Backs Moonshot AI Hacking Limits as Crypto Preps for AI Math Threats](https://www.tipranks.com/news/ethereum-co-founder-vitalik-buterin-backs-moonshot-ai-hacking-limits-as-crypto-preps-for-ai-math-threats)**
 
-STRCx deposits on Pendle's Ethereum markets hit a record $50.4 million as Strategy's STRC preferred stock prepares for daily dividend accruals.
+TipRanks • 2d ago
 
-Crypto Briefing • 2h ago
+---
+
+**[Ethereum ICO Whale: Final 7,594 ETH Sent to Kraken](https://blockchain.news/flashnews/ethereum-ico-whale-final-7-594-eth-sent-kraken)**
+
+@EmberCN reports that an early Ethereum ICO participant has transferred the last 7,594 ETH valued at $17.79 million to Kraken, completing liquidation of a...
+
+Blockchain News • 1d ago
 
 ---
 
@@ -236,33 +236,23 @@ Crypto Briefing • 2h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Uh Oh, Robinhood CEO just said this about ethereum](https://www.youtube.com/watch?v=8vTreRje-UA)**
+
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 9K • 👍 709 • 💬 70 • ⏱️ 9:45 • 2h ago
+
+---
+
 **[BitMine is closing in on owning 5% of all Ethereum.](https://www.youtube.com/watch?v=AMKQNSYTgUY)**
 
 BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no single company has approached before. Strategy ...
 
 📺 Yahoo Finance
 
-👁️ 23K • 👍 262 • 💬 146 • ⏱️ 14:51 • 2d ago
-
----
-
-**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
-
-Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
-
-📺 Dr. Samuel Allen Alexander
-
-👁️ 43K • 👍 538 • 💬 225 • ⏱️ 34:10 • 1d ago
-
----
-
-**[⚠️ Ethereum ETFs Still Selling - ETH Crypto Analysis](https://www.youtube.com/watch?v=QCptec2hKQ0)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 2K • 👍 29 • 💬 13 • ⏱️ 10:06 • 10h ago
+👁️ 23K • 👍 264 • 💬 146 • ⏱️ 14:51 • 2d ago
 
 ---
 
@@ -272,37 +262,27 @@ Bitcoin just lost its parallel channel. Is a $2000 Ethereum next? Nick Valdez of
 
 📺 Verified Investing
 
-👁️ 9K • 👍 247 • 💬 7 • ⏱️ 8:04 • 1d ago
+👁️ 9K • 👍 248 • 💬 7 • ⏱️ 8:04 • 2d ago
 
 ---
 
-**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
+**[⚠️ Ethereum ETFs Still Selling - ETH Crypto Analysis](https://www.youtube.com/watch?v=QCptec2hKQ0)**
 
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Software: ...
 
-📺 BULLRUNNERS
+📺 Bitcoin Strategy
 
-👁️ 3K • 👍 50 • 💬 25 • ⏱️ 15:18 • 23h ago
-
----
-
-**[Tarun Chitra: Ethereum Is The Cryptographic Safety Net For What Comes Next (Full Interview)](https://www.youtube.com/watch?v=dOZIEhgAxXc)**
-
-Tarun Chitra says the future of money will be built to survive even if all of today's cryptography breaks. In this conversation, he ...
-
-📺 The Rollup
-
-👁️ 8K • 👍 79 • 💬 6 • ⏱️ 23:11 • 2d ago
+👁️ 2K • 👍 33 • 💬 19 • ⏱️ 10:06 • 14h ago
 
 ---
 
-**[Bitmine Will Soon Own 5% of All ETH, So What Does It Do Next?](https://www.youtube.com/watch?v=CMIcWdVCVFY)**
+**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
 
-Bitmine is closing in on 5% of all $ETH: will it start investing elsewhere, or just sit on its holdings? Strive was able to buy that 6000 ...
+Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
 
-📺 The Wolf Of All Streets
+📺 Dr. Samuel Allen Alexander
 
-👁️ 867 • 👍 27 • 💬 1 • ⏱️ 1:33 • 2d ago
+👁️ 46K • 👍 546 • 💬 232 • ⏱️ 34:10 • 1d ago
 
 ---
 
@@ -312,17 +292,37 @@ URGENT BITCOIN UPDATE: WATCH BEFORE FED MEETING TODAY!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 11K • 👍 257 • 💬 56 • ⏱️ 19:00 • 10h ago
+👁️ 12K • 👍 270 • 💬 54 • ⏱️ 19:00 • 14h ago
 
 ---
 
-**[BMNR Holders - ETH &amp; Bitcoin : When Will the Next Crypto Bull Run Start?](https://www.youtube.com/watch?v=iSzbGttAutE)**
+**[Bitmine Will Soon Own 5% of All ETH, So What Does It Do Next?](https://www.youtube.com/watch?v=CMIcWdVCVFY)**
 
-BMNR Holders & MSTR - BITCOIN & ETHEREUM BULL RUN 2027 - IS THE BIGGEST RALLY STILL AHEAD? Earn On Your ...
+Bitmine is closing in on 5% of all $ETH: will it start investing elsewhere, or just sit on its holdings? Strive was able to buy that 6000 ...
 
-📺 Big Time Trades
+📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 63 • 💬 5 • ⏱️ 21:32 • 1d ago
+👁️ 875 • 👍 27 • 💬 1 • ⏱️ 1:33 • 2d ago
+
+---
+
+**[HUGE ETHEREUM UPDATES BULL RUN 2026! OpenAI??](https://www.youtube.com/watch?v=PenIICTEd4E)**
+
+Is Ethereum (ETH) undervalued or falling behind? OpenAI's “ETH is false” announcement sparked a crypto Twitter frenzy, while ...
+
+📺 Altcoin Buzz
+
+👁️ 2K • 👍 44 • 💬 3 • ⏱️ 9:20 • 11h ago
+
+---
+
+**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
+
+Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
+
+📺 BULLRUNNERS
+
+👁️ 3K • 👍 51 • 💬 25 • ⏱️ 15:18 • 1d ago
 
 ---
 
