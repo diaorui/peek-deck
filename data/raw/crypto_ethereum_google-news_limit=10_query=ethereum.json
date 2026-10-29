@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0hrMTRsNlVZYk9hb2FQTEprWXpvbnlhMUhWYlRidkNzdjhRWXNPNmRjQWhoZjVZNkNmd0k1MDBDZUNvUm9mdUY5bXdncXlZeUdhODlLaFpzUjN3Z2lVaTNfMHI1eHBEVkxuZkJyV0I1cTMxODZZSFdLa0VyYWVWTG85OGpHbEhaZzFjMWZpUXBGT3dRajk0SUVfeFNpWS1CMlZlOVZoaVluWjR6QzZDdzhSUTI?oc=5",
+      "pub_date": 1793252078.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Crypto giants double down on bitcoin and ethereum",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -13,16 +23,6 @@
       "article_url": "https://finance.yahoo.com/video/crypto-giants-double-down-on-bitcoin-and-ethereum-185113565.html",
       "image": "https://s.yimg.com/lo/mysterio/api/286558519ab5878f33c892effe073041641771d2ba80319b0b20179d611ec721/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F8a1c9460-81c3-11f0-be46-2d1b24fbf1f4",
       "description": "Scott Melker breaks down the latest movements in the crypto sector, including Strategy (MSTR) repurchasing $205M of its own stock (STRC), Strive's (ASST) biggest-ever purchase of 6,182 bitcoin (BTC-USD), and Bitmine (BMNR) buying 10,452 ethereum (ETH-USD) as it approaches its stated 5% goal.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
-    },
-    {
-      "headline": "Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1M3U2Qzd0UwMDJ1RVJDWXdXQ2k0M1NZSnFKd2l2d1hXNGVIUHZRUU9TVHRIdDI3bkxLWmdKNklyeWU0T3NrZDJIaWhaLUFralFUTG4tSEEtamZtSUJkQVl1ZXF2d20zVXRNZHZLRFdLdnRuMGZFdWJENVFZejlYanR4aVFRQlJkVEhmemFuM2RCaGZad2M4Umt0ZFN3Zjk5T08xd0FsMzJuOEJoZjhhRlM0QU1mdUNhNTZoSHV6aw?oc=5",
-      "pub_date": 1793030712.0,
-      "article_url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "description": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
     },
     {
       "headline": "Current price of Ethereum for October 28, 2026",
@@ -35,24 +35,14 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Claude AI Predicts the \u2018Flippening\u2019: How Does Ethereum Finally Overtake Bitcoin?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3dveFlVNjdXRXBZeTBNQzVTUEtIVUppWllPV01yMW9fLXJabGZkMDFUNFdWUTFyajJRbEZlTlRNMHcwSnYtZDhGN09teVhnYUtwSERicDkwbFBlbHZOWlkxYVZQbEFXN2NvblVoYlBlRGRGcjI2S1JpMll1c2g0bVVpV2tkU2hiM3BGVGh6Zi0ySW10UUtwY3NCY0RCdENFazlBa1Q5Zmc0cDZ6V3FqTE1UM1hBMzYyRXgyUDhFUXVyeFVlN0t4cmFUN0lNMk9LbzhF?oc=5",
-      "pub_date": 1793179560.0,
-      "article_url": "https://www.tradingview.com/news/99Bitcoins:995cc06f4094b:0-claude-ai-predicts-the-flippening-how-does-ethereum-finally-overtake-bitcoin/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Anthropic\u2019s Claude AI predicts a bold move for Ethereum over the next few months that could end with the long-awaited \u2018Flippening\u2019, whereby ETH overtakes BTC as the leading digital asset.For this to happen, Claude notes a specific catalyst that could send Ethereum parabolic and start its move to ov\u2026"
-    },
-    {
-      "headline": "Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows",
-      "source": "Finance Magnates",
-      "source_url": "https://www.financemagnates.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXpBTkFKaEVfY2xWcmVwcDQxNEVBNW1iZ2ZzeE5pNUhMNndySDFPZDNrRlQ2M3JaQVQ5dnlhaXc2aXNPQmNvUnc2NGQxRE0xdmFXbWx3UW02RG9QLTJFUm8yVU9ad2hEcGtMcVg4T3Mtd2JKajlNa09KVGF0S1ZlZFBJQjFsQTdULW5ncjh4NTdhc0NYQXZYYUZBaC11Y05TdUI0ZWk4M1RHY2xmUk04cGtGakJPcS1XZWlyZ19nNVZ2c0pGZWQ2RFhCX3lQT3Nq?oc=5",
-      "pub_date": 1793004530.0,
-      "article_url": "https://www.financemagnates.com/trending/why-is-crypto-going-down-bitcoin-tests-80000-as-ethereum-xrp-and-dogecoin-sink-to-august-lows/",
-      "image": "https://images.financemagnates.com/images/Consolidating%20crypto%2C%20stocks%2C%20and%20options%20into%20one%20account%20cuts%20trading%20lag._id_1f439b88-9a06-4cf6-84de-28968b5921f8_size900.jpg",
-      "description": "Crypto fell after a tech selloff and $773.5M of ETF outflows. My charts show bitcoin on $80,000 with $75,055 next, and ether and XRP on their last supports."
+      "headline": "Glamsterdam's Impact on Ethereum: Testing Delays & Next Steps",
+      "source": "Investing News Network",
+      "source_url": "https://investingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LYzNiN2dnam1XVERGVkZYTHlQeEU5RTVEZkhEN3RPQkFpMGZPLVN4MVZJNkVLQUJtanZOaF95WDhnTjFGRV9aeFQ3Wm9ieU9XWmVoVC1NdlNGbVZFQ2Z1MFAtUHZ2U0JKNEJsN2t3cjg?oc=5",
+      "pub_date": 1793224500.0,
+      "article_url": "https://investingnews.com/ethereums-glamsterdam-upgrade-update/",
+      "image": "https://investingnews.com/media-library/silver-cryptocurrency-coins-with-geometric-designs-rest-on-a-tablet-displaying-a-digital-chart-with-green-and-red-lines.jpg?id=68544486&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+      "description": "Ethereum\u2019s Glamsterdam upgrade aims to boost network efficiency & utility, crucial for ETH's long-term appeal. Yet, its impact on older apps & fee structures leads to delays, now likely pushing the mainnet release to 2027. Could this reshape how DeFi thrives on Ethereum? Dive in."
     },
     {
       "headline": "This Venture Capitalist Thinks Solana Will Surpass Ethereum During the Next Bull Market Cycle. Here's Why He's Wrong.",
@@ -65,14 +55,34 @@
       "description": "The two blockchain networks have been rivals for years."
     },
     {
-      "headline": "Glamsterdam's Impact on Ethereum: Testing Delays & Next Steps",
-      "source": "Investing News Network",
-      "source_url": "https://investingnews.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LYzNiN2dnam1XVERGVkZYTHlQeEU5RTVEZkhEN3RPQkFpMGZPLVN4MVZJNkVLQUJtanZOaF95WDhnTjFGRV9aeFQ3Wm9ieU9XWmVoVC1NdlNGbVZFQ2Z1MFAtUHZ2U0JKNEJsN2t3cjg?oc=5",
-      "pub_date": 1793220970.0,
-      "article_url": "https://investingnews.com/ethereums-glamsterdam-upgrade-update/",
-      "image": "https://investingnews.com/media-library/silver-cryptocurrency-coins-with-geometric-designs-rest-on-a-tablet-displaying-a-digital-chart-with-green-and-red-lines.jpg?id=68544486&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
-      "description": "Ethereum\u2019s Glamsterdam upgrade aims to boost network efficiency & utility, crucial for ETH's long-term appeal. Yet, its impact on older apps & fee structures leads to delays, now likely pushing the mainnet release to 2027. Could this reshape how DeFi thrives on Ethereum? Dive in."
+      "headline": "Claude AI Predicts the \u2018Flippening\u2019: How Does Ethereum Finally Overtake Bitcoin?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3dveFlVNjdXRXBZeTBNQzVTUEtIVUppWllPV01yMW9fLXJabGZkMDFUNFdWUTFyajJRbEZlTlRNMHcwSnYtZDhGN09teVhnYUtwSERicDkwbFBlbHZOWlkxYVZQbEFXN2NvblVoYlBlRGRGcjI2S1JpMll1c2g0bVVpV2tkU2hiM3BGVGh6Zi0ySW10UUtwY3NCY0RCdENFazlBa1Q5Zmc0cDZ6V3FqTE1UM1hBMzYyRXgyUDhFUXVyeFVlN0t4cmFUN0lNMk9LbzhF?oc=5",
+      "pub_date": 1793179560.0,
+      "article_url": "https://www.tradingview.com/news/99Bitcoins:995cc06f4094b:0-claude-ai-predicts-the-flippening-how-does-ethereum-finally-overtake-bitcoin/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Anthropic\u2019s Claude AI predicts a bold move for Ethereum over the next few months that could end with the long-awaited \u2018Flippening\u2019, whereby ETH overtakes BTC as the leading digital asset.For this to happen, Claude notes a specific catalyst that could send Ethereum parabolic and start its move to ov\u2026"
+    },
+    {
+      "headline": "Ethereum ICO Whale: Deposits $4.99M ETH to Coinbase",
+      "source": "Blockchain News",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUVmV29qc1VvaHRUOWV1VmtyLVNHTk1zWEZ0YllWU2pqLVhXSmNDdXR5T1FWdnBCRVdrM29wbHNDX0FxakR3NWRxdXpKaFUwQXYzV2lxbmxHSTZfUUN5TWJSVHUzeEZCbU1oTjFEUkc0aXo5WlZEU2o3Z3BheTJLdEhlUVQ4ZXc?oc=5",
+      "pub_date": 1793213280.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-ico-whale-deposits-4-99m-eth-coinbase",
+      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+      "description": "An Ethereum whale that acquired 40042 ETH during the 2015 ICO transferred 2118.65 ETH worth $4.993 million to Coinbase, according to @ai_9684xtpa, after..."
+    },
+    {
+      "headline": "Ethereum client security fixes leave binary users with a separate Java check",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODlpemxqTzRlRkxXQ3Y0dVpZX2JOOGlDd016REtqX1lGUDN6Q3A2ODZDRXh4SkFEWG5YSkc3NENmRWhQRlJFb1o1RXJGaUJTQi1Dc0dxWHZ2a2FEXzlMYTNrNVAyak5YLUVxc2ZFYy11eTRUQjhnR0hxOUQ1Tkk3WXMwa0FVZUJCRHczT0FhOEhiZTdDc0pzZmFzVEpBRjZZcWx3?oc=5",
+      "pub_date": 1793202051.0,
+      "article_url": "https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-certificate-trust-risk.webp",
+      "description": "Ethereum client security fixes update Teku and Besu Docker images after the eMudhra incident. Binary users need a separate Java runtime check."
     },
     {
       "headline": "Ethereum developers fix staking deposit flaw ahead of Glamsterdam upgrade",
@@ -85,26 +95,16 @@
       "description": "A fix initially set aside has been added to Ethereum\u2019s upgrade specifications after further review and testing."
     },
     {
-      "headline": "Ethereum Co-Founder Vitalik Buterin Backs Moonshot AI Hacking Limits as Crypto Preps for AI Math Threats",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmk2UTJXZllkY09UdmgwMFhselByT0JOaDdXTEdnOUxqd2VreExaMkwwclRyM0ZPTlBZbkh5OGdZcDVPZm5mT1pCVjlDMVRlSktxTEpxc2d6cTBHY1E0UU5CTFdWbWE4aFBqR0ZacUh2dmZBX1ZKOWxMQTBvYnVYUWZXNjk4R0VDVlhHNHU5OUhJVGdYMjNwMFNnMmRvdTZkN0dvYlVVSTdSWFZVeUE3TmN6SG9jdUoxN3NrTWZLRjUybmh5a1pmT0UyWVJPSXM?oc=5",
-      "pub_date": 1793018245.0,
-      "article_url": "https://www.tipranks.com/news/ethereum-co-founder-vitalik-buterin-backs-moonshot-ai-hacking-limits-as-crypto-preps-for-ai-math-threats",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum ICO Whale: Final 7,594 ETH Sent to Kraken",
-      "source": "Blockchain News",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0NzZk82NWI5VkNGb292MF9GQnpaRVltQkZTWTUxQkRYbThVeXh1ekFXQW1pTzBoTGkxT05ydzZvaHpWYlg3MHBldnY2WVhzanVYS0FKZ1FoVFBjRDUxWFVTMTh0azFCM2hUMW9WbjM0ejhrb1RjV25BR1VCb0tnWHd2X2VBcG8?oc=5",
-      "pub_date": 1793122680.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-ico-whale-final-7-594-eth-sent-kraken",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "@EmberCN reports that an early Ethereum ICO participant has transferred the last 7,594 ETH valued at $17.79 million to Kraken, completing liquidation of a..."
+      "headline": "Crypto Market News: What the Fed Decision could mean for Bitcoin, Ethereum, XRP and Solana",
+      "source": "Analytics Insight",
+      "source_url": "https://www.analyticsinsight.net",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYVQ2LWRjVE52dlNKUWk4WTZBYjFyempteVBGMGVCX1U5RF84Tmd0S0hIa0ZZQ2pzNzBEUEhLZzg3T3BRRGRiQm1haEJWTlFrWlpuYWZnTC1yV005Z2RSUkQyX2pUZ2xsbl92U2pyMVJid012VjF1YUN1UE81M3JtajhmUF9vc3R1SVp4OVQ5WlU4a0xVUWxCNThXbUJsSGloaTFsX0l3YzByZ0NJVmpLTzZzQjFRRWNoMGhfdk9Sb2V3R01iOGRWd0U1a1ZId3ZMSnI3WmNzTlhnYS1aeXhvVHQyM2dpTXRl0gH2AUFVX3lxTE9FUDFLTXhrZGl2clBRQVEweGVhWVJRb3ROOTdEeGwwLTNjZ1dUd2ZfZEloSEJhYVpBd3dBUEx0WnY4anlleHJIMGRxY1JwNE8tSHhiV1RfUUxQUU9mTTh5cldidzQyLUFzNmRLVW1wTVlHa1ZFZ0dmdGFSNTVHdmwyUUJwMF9sNW1PblFVcmcyemU5NjVDUWY0OFdWNDBzcnFYZlhZQ1RvbzVrVUFYYk12ekcwTlVyUUhxUEZRandrMGJiUk9yZkhtT04tbmU1Z0FEQVRHeXp3M2RmdUpmZmRTUUF0SnBQZG1EQlpGT21BLUE1bU9lQQ?oc=5",
+      "pub_date": 1793174400.0,
+      "article_url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-market-news-what-the-fed-decision-could-mean-for-bitcoin-ethereum-xrp-and-solana",
+      "image": "https://media.assettype.com/analyticsinsight%2F2026-10-28%2Fba6my9q4%2FMoon?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "description": "The crypto market is approaching today\u2019s Federal Reserve decision with Bitcoin near USD 80,000, Ethereum around USD 2,300, XRP close to USD 1.30 and Solana near"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T01:35:52.479423+00:00"
+  "fetched_at": "2026-10-29T08:07:07.703494+00:00"
 }

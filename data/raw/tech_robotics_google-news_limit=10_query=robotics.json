@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5",
-      "pub_date": 1793130186.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Foundry Robotics Raises $100 Million Series A to Build America\u2019s First Autonomous Factory for Assembly",
-      "source": "Business Wire",
-      "source_url": "https://www.businesswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeGx5NWJmbktHMndxNWpUYUZETkVpUkJYSmVqVzNNTE5iVGZYT0M1QVZsUHg3eWQ4eVQ4bmpsa2ZKRHB5UHRQeHRUUkIxLXFpSF9OVU9yZDhoQUNqOFJUVTJERHplZ2FfUnVuRXNWc2ZRLUttM2VNOHN3SzhzQnJGVENWeWZMa3JuZVhhQzQtZDM1M2xKMFEyeTU1N295UWhWZkplTGgtOGw0UHRFbXpLeTlweURSckE3MXlsMzB0My04YnlOeUtMMzg0ZDk2bTVuTTJoaElkNVBoZVZZNlkxTlprZXlVSHRnUklJVVhodHVmQQ?oc=5",
-      "pub_date": 1793199600.0,
-      "article_url": "https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "We went inside Amazon's robot-powered warehouse to see if machines are taking jobs. What we found surprised us.",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -33,6 +13,26 @@
       "article_url": "https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9",
       "image": "https://i.insider.com/6adbc10ec8572251b197f937?width=1200&format=jpeg",
       "description": "Inside Amazon's robotic warehouse in Tracy, California, workers explain how automation is transforming their jobs."
+    },
+    {
+      "headline": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5",
+      "pub_date": 1793130186.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump says imported robotics pose national security risks but does not impose tariffs",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzYzMENTbWlLLWdKa2YzdVN4bXhKZUpVeG8tWm1RUVFHcmg5bXdiQ2dtY3lWYlY0dlF4anMyWWc2NF9zQld1TjlSMlFhR3hfMkxzY05iRGM5MmFXNGpQaGRNN3p6NW9YYm9sVXZXV0IwTE9BdDE5WkdHN3cwUnFzWGRDRHVPR2MxU1M2ZXktSk5MWG9aOHg4c0Rxc2diRzQ1RWUxZzlNRnJoMi1wTEFZWHNCWEJ0eGlxX01CektB?oc=5",
+      "pub_date": 1793225503.0,
+      "article_url": "https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule",
@@ -45,66 +45,66 @@
       "description": "Spacewalking tools and a pair of robotics jobs topped Tuesday\u2019s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear."
     },
     {
-      "headline": "Unitree's quarterly revenue surges 70% in test for China's robotics sector",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkkxMGZFaG5UVFVwY2JaNVA0RG9TTnNJOXoxaElhSmhhT0RQQWxTSUNxNkFFMWg2em1GclFpMFlYRkc1ZTQ5VGJCdHY5WFdYUDFIRU9XWk9UX2FYV054dEVtZnZzZkpyd3c1Nkc5Z2Q1cWl6RTc3RnN1V0FzbkMxMXg0bjRCZjZVbjJlbElFcm8zcGVlOHNDRWFZSVlHQ3YxaHpJTi16NVJDN1U1NklWcEZRcXdvTGpSUlE?oc=5",
-      "pub_date": 1793191005.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/unitrees-q3-profit-down-174-on-year-test-chinas-robotics-sector-2026-10-28/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Robots roaming grocery stores could put millions of retail jobs at risk",
       "source": "NewsNation",
       "source_url": "https://www.newsnationnow.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEFMR3hXMkhSTUhPX0dHT3VER2ZsOWwzb0pWLXlUbndiaXVaNkRPc1VubUVBSDhPZFdHT0hfMkNNVk5zaE1uZVRFNU9tVlpUNkhlcFdVVm5KbUd1RE8xLWhXelRLTVRYRjRzSHZyb0lJLWxJMzFoMmM0R2FTY1FERzBjRmVnMGhsRkpXRdIBkgFBVV95cUxNN2Nqb2QwSVFzbXBYckd1VWV5cjZTdEI0aFRSTERhS2lFWFRxVHhIaDdsLURFSVFJSHN2MVZrYlQ0eEhXbUNhRTVJUkpzSTZuaDNpTlBiMnhHYm05NGdLU0tlWDVlc0NPSDI0V3hXRXBZcHZvUU9pbnBOOTUxZnZxUU9PTVh2ZHVobzZ5RVlTcFlkUQ?oc=5",
-      "pub_date": 1793226002.0,
+      "pub_date": 1793250051.0,
       "article_url": "https://www.newsnationnow.com/business/your-money/robots-grocery-stores-retail-jobs/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1uODNBTHNBOE5uNEJjQndCY1dqZkc3RGkxcVY5NHNuSzh1Nm1UbTZMSGVCdmhSaHBicTctdkUzd2gxTzZyWnJ3bkEteVlXeUFmRW5GX3FPbHJ6R05paGZjTk5PWHFpWWhrX1dCYm5uQjkzLWtTM0duNDhyVHlmRkxxNXpZLUIyUVNKalVOR3ljSVNBbGVmMDl0dDlQLW1fTFlUVlNidTRDV214czhF0gG0AUFVX3lxTE5xbXBvd3A3dU5MRklvQnBWV0k2RVNPcU1lRDdGLUFTbEp3QlZWVEcwWk5pTnRwWExqRTZfbWhnanNhbDB5dVRkVUxNVHNJYzl3U2NiaHZlNEdPTDRMNnl4bk5ZcHlGOXVRakFtdXlGSjNjcl9JVUVhTlM2Q0ZXT203VlZraWFPNzlqRnhCRHRXYVJGYUVnelM5em1OLVpuQXpaX0Fza3BvQy1UalhZZVNOTk9rRQ?oc=5",
-      "pub_date": 1793049747.0,
-      "article_url": "https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330",
-      "image": "https://i.abcnewsfe.com/a/fbe5ef73-2312-4f94-aa20-a01d4315953b/AdventHealth-ht-er-261026_1793031672199_hpMain_16x9.jpg?w=1600",
-      "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
+      "headline": "Here's how humanoid robots could fit into the future of defense, society",
+      "source": "KSL News",
+      "source_url": "https://www.ksl.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeV9fdldPYzdlSzdOX1E5dEtfTl9tWFZ1OFVVRnUyYWdtT0xKcGlYTVU4czJrT0VVeWREb2E0NHhOSXE3UHlWN2xQcF84dC1OR01UZG9Gc2c3Sm5kSkxzdDhnZWszQjkyNjFTZFcxOTFHZ2paY3c5aVZLdDdUUHRqUFdQaHg3cE02UVF0MS1yNTAxNFZiVmVoWWdCUXNvWWtPUmEwbDlhdE96bDA?oc=5",
+      "pub_date": 1793235660.0,
+      "article_url": "https://www.ksl.com/article/51642150/heres-how-humanoid-robots-could-fit-into-the-future-of-defense-society",
+      "image": "https://img.ksl.com/slc/3207/320728/32072859.jpeg?filter=kslv2/responsive_story_lg",
+      "description": "Utah State University professor Mario Harper was on hand at the 47G Zero Gravity Summit Wednesday to showcase the potential of Dallas and Dallas II, two humanoid robots the university acquired from overseas."
     },
     {
-      "headline": "San Francisco startup offered $20 an hour to walk robot dogs for AI training: report",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzlmZEdnckt5cjFiSkk4TkdzVjk1WUJaa2Qtc0ZrdVByaG9RVlhrcmFqX1F4WTdmZmo4RTdiNEhUVE5HOExhX1FxNXpoUXBiY0dvT3U1aTVYV1ZyYUI4NmFwWDk1M0lpbE1VQjZPV2Zid3FmWEJfckF5RUlxbTdnMURpZ0daaGFDM1dQbWE5SmJOUVFIZE83ZkVDN2lGY3czMy1ObmlfeHUzYkoxYlBfV9IBtgFBVV95cUxORHFmTHFmbW9wTmZpWmpoSVc1bG9YQkQ0UFFfck81Y2NwZ3lwcVJ5TW5OY0JUXzBNU3FSN1VzY2Z1U1FRaFVlTnc0eTZLMVVGMDhpWk1pcVUycGthS2hHVTYxNllCQVFSNHN6R1N3dXhSSi00V2pJeHdQVG5ubEIxcE9XazRhNzNRLVdLZ3oxRkhFakJyOEVCNjBXbkxMYzMzYjQzQVZycXpURDYyOEZmNzh3SWxtZw?oc=5",
-      "pub_date": 1793227260.0,
-      "article_url": "https://www.foxbusiness.com/technology/san-francisco-startup-offered-20-hour-walk-robot-dogs-ai-training-report",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/robot-dog-walker.jpg?ve=1&tl=1",
-      "description": "The $20-an-hour job posting sought workers to operate four-legged robots on outdoor testing routes through San Francisco with no robotics experience required."
+      "headline": "Companion humanoid robots combine lifelike silicone skin with 39 degrees of freedom",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjdHM3lsR3NNZTVGZEVURzJGMmxycVFpdVA4ekdpcUV2Y1h2dHVMd2lRREI2MHhVYXJoMzBLNE9qckc5NGRBV2dWci1CQWMyVDV1aFR4Q1BfaWdZN1lUd0x4NmhLbU9XNjlYNFpkVUxPWmo2ajZ1cjMwdmloMnN3ckpaUVVOVUtvcUZhX0ZBYUJlNkVxeVE?oc=5",
+      "pub_date": 1793069040.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/companion-robots-silicone-skin-100-languages",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-30.jpg",
+      "description": "Realbotix's Echo humanoid robots start at $11,950, with 39 degrees of freedom, optional on-device vision, and deliveries planned for 2027."
     },
     {
-      "headline": "Arizona Robotics League",
-      "source": "MLB.com",
-      "source_url": "https://www.mlb.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TMmdKY3h3Ym1zTG95bTBINVBqdWxwbm9ZSWRJbzVRcXF1WlZpMXlxUkhTcVRNOXg0d09QdjlHVmRoN19aS2s5UlVJc2wzeFdnU0M3M25mMUxfbmxJQTh0Z0VWQ0J6a3M?oc=5",
-      "pub_date": 1793226767.0,
-      "article_url": "https://www.mlb.com/dbacks/video/arizona-robotics-league",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/ph5pykugpyfm5arkbzrc",
-      "description": "The Arizona Diamondbacks and Honeywell Aerospace are proud to support the Arizona Robotics League"
+      "headline": "Japan experiments with autonomous AI chainsaw-wielding robots \u2014 video shows rail truck-mounted metal humanoid cutting down tree branches",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMHh5MjctZi1laWF4bGJ1VmxDdWpPYzNRaUVNZy1NQnAwSGhXZzNzSWMtNXFDOUI1WlFrcWVLcE5BRUh0eXFubjVzYW9vNkFpMXJkSGxOM3hac2UtclZjWlExVzZnTTBHeFpidFlHX2kyLWVWQVdhbktPYkFBMWp4czFGcFM0RjhNODY1MEpraXMwTXdHSWlEcXF0eDNTakVoZlNad2dlNjVVZUx6RlFWSk5RRnJ2WmlpbEhtRDRvU1g1eVBkblE5ZTVDem45d05lX3JYVUgxRVJyaGhjUVBZaVZZa2l6VTdfWGk2Uk01ZDFnbFhpalhaOHlRQ05SNUhub2Q2OEU1b2VXS2cyNjNLR01xY1I?oc=5",
+      "pub_date": 1793180400.0,
+      "article_url": "https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches",
+      "image": "https://cdn.mos.cms.futurecdn.net/GNdgn4uQJSieHfhRki6Xdn-1920-80.jpg",
+      "description": "The frightening-looking mech in the demo still has a human operator, for now."
     },
     {
-      "headline": "Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft",
-      "source": "Payload Space",
-      "source_url": "https://payloadspace.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUhqTkptdnNrY3JIbEIwLTJmWkhEM3g1enNjazJJRlFRTm9hYlNYcWR1bjVaRDdlQTlYcm9zTnZJMk55OTBXb0VRQm9uMXpTS1A0QzI2YmhkUTVEVi1uMkgxNktHaGZCU0JObjA2WG9sU3pmYTlDRkZKbTY4WGtoeTVRaGUzcWJScmcyWTNzRXRmaHd0c19EaVBmdTQ2VlE4aVlvZUhpOA?oc=5",
-      "pub_date": 1793192683.0,
-      "article_url": "https://payloadspace.com/exclusive-rendezvous-robotics-raises-20m-to-develop-self-assembling-spacecraft/",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/hero.jpeg",
-      "description": "Rendezvous Robotics is developing technology to allow future satellites to launch in pieces that can self-assemble in space."
+      "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBOaUFWYzdPdWticUxKMVBOUS1rdDI2bFVEQ3NvRHBUVnhUWkVDYU1TMjQ5Xy1QUE9kR2VtRWp6QUpfQWMxcFY0Nmg1V09YNFp5SVplaUN5azRWdzREdURHb1JER2d0LUF3dzgzSWRFVmVNYmJycnAwa3lUd0pJM3poem5QM1U?oc=5",
+      "pub_date": 1793091757.0,
+      "article_url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQQ1V6eW1MMDgtWXhxTmRhQ1d0X0NnQUZRY0ZsekgxZ0V5UHdyQ1JVNllTMkFHT3dqV0IwdGxOOEp6ajhpX2k0UENveWt0Rmc1SFVfWDlXWXhjVFFDbER5NWczUzMxY08xME5CX3NYdkdvM0Q1bE1IVjd30gF_QVVfeXFMUGJvcUFSdjBuYl9PaDZ6NjdzOWRncVVMRW1BMDV2b3dELXprc041cXI2OGV0cDBiX05JMHItNWJ1cU1sRGt6S1BTdVl4cUpNSXhLMWI0X1NjQjFFRTBkTmJLajRreVBOS3FKT09VSkwxZWwydzZSaTVhandqNDQwZw?oc=5",
+      "pub_date": 1793054059.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108355638-1787909091760-JOHN_THUMB.jpg?v=1787909129&w=1920&h=1080",
+      "description": "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T01:35:56.429283+00:00"
+  "fetched_at": "2026-10-29T08:07:04.910198+00:00"
 }
