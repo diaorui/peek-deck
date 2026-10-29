@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/",
+      "published": 1793223609.0,
+      "thumbnail": "https://preview.redd.it/pp2ver9g2ayh1.jpeg?width=640&crop=smart&auto=webp&s=9c85ae451b080334dc6517930473d2ef463a7b5c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&s=20"
+    },
+    {
       "title": "UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/",
@@ -24,17 +35,6 @@
       "description": null
     },
     {
-      "title": "Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer",
-      "author": "hollee-o",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/",
-      "published": 1793117519.0,
-      "thumbnail": "https://external-preview.redd.it/T3oDtsWtwnkV0PtzH3tO3sHDi61AVasOFTWxyl1eZZ0.jpeg?width=640&crop=smart&auto=webp&s=2a920c0a5667b1664370b26b83c14e22c7fc9ee9",
-      "external_url": "https://futurism.com/artificial-intelligence/grim-test-ai-no-mercy",
-      "site_name": "Futurism",
-      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
-      "description": "It\u2019s almost like it\u2019s showing us what it will do given the chance."
-    },
-    {
       "title": "GitHub just announced a major overhaul of Copilot, 'evolving' to focus on an agentic future",
       "author": "LinkedInNews",
       "url": "https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/",
@@ -46,6 +46,28 @@
       "description": "We're redefining the SDLC for the agentic era. \n\nLots of GitHub updates this morning at Universe:\n\n\u2022 GitHub Copilot Fusion delivers frontier-level quality, 40% faster and at up to 77% lower cost\n\u2022 Our unified Copilot harness is now in Foundry, a managed service for building long-running agents that reason, use tools, and get work done\n\u2022 Copilot Projects gives you an orchestration loop to build with multiple agents across repos\n\nAnd we\u2019re expanding capacity and strengthening GitHub\u2019s architecture to make the home of agentic development more resilient.\n\nRead more: https://lnkd.in/gvtEeair | 259 comments on LinkedIn"
     },
     {
+      "title": "Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer",
+      "author": "hollee-o",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/",
+      "published": 1793117519.0,
+      "thumbnail": "https://external-preview.redd.it/T3oDtsWtwnkV0PtzH3tO3sHDi61AVasOFTWxyl1eZZ0.jpeg?width=640&crop=smart&auto=webp&s=2a920c0a5667b1664370b26b83c14e22c7fc9ee9",
+      "external_url": "https://futurism.com/artificial-intelligence/grim-test-ai-no-mercy",
+      "site_name": "Futurism",
+      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
+      "description": "It\u2019s almost like it\u2019s showing us what it will do given the chance."
+    },
+    {
+      "title": "Hochul signs AI chatbot and baby monitor regulations",
+      "author": "news-10",
+      "url": "https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/",
+      "published": 1793220559.0,
+      "thumbnail": "https://external-preview.redd.it/Ai2gGRS08LCo_MEHKFnwnRAFsILWfJ_qb8Zvf4cedPc.jpeg?width=640&crop=smart&auto=webp&s=424af1557eab0f499d88580786577e033ce77acb",
+      "external_url": "https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/",
+      "site_name": "news10.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "OpenAI reportedly plans to buy Google's AI chips (TPUs) \u2014 rivals becoming each other's suppliers",
       "author": "winer666",
       "url": "https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/",
@@ -55,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Reuters reported on Tuesday (Oct 28), citing The Information and a person familiar with the matter, that OpenAI plans to buy Google's AI chips (TPUs). No financial terms were disclosed, and both companies declined to comment or did not immediately respond. The report follows last week's news that OpenAI will make its frontier models available through Google Cloud, and a June 2025 Reuters report that OpenAI had begun renting Google's TPUs. The context: Google's TPUs have gained traction as an alternative to Nvidia's GPUs as companies look for cheaper AI compute, and Reuters notes Amazon, Microsoft and Alphabet together plan as much as $600 billion in AI infrastructure spending this year. Source: https://bworldonline.com/technology/2026/10/28/789847/openai-plans-to-buy-googles-ai-chips-the-information-reports/ What I am curious about: is this mainly about diversifying away from dependence on a single chip supplier, or is it also bargaining leverage in price negotiations with Nvidia? And more broadly \u2014 when the biggest AI rivals become each other's customers and suppliers, does competition get weaker, or does it just move to a different layer of the stack?"
+    },
+    {
+      "title": "Open Source Project to help Secure LLM powered Applications",
+      "author": "Fearless-Might-5439",
+      "url": "https://www.reddit.com/r/artificial/comments/1xhzatd/open_source_project_to_help_secure_llm_powered/",
+      "published": 1793218705.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We built extensible-mcp to help folks build LLM powered applications securely. From a technical perspective it is an MCP proxy capable of loading new MCP Servers dynamically without polluting the LLM\u2019s context while providing Zero Trust policy controls to manage all tool calls. Policies and sensitive credentials are maintained and applied outside the LLMs purview. Policies can be written in any of Rego, CEL, and, with the latest release, Cedar. Tool definitions from the various MCP Servers are maintained in a queryable vector store, so the LLM only needs to be aware of those it uses. A particular distinction of extensible-mcp is distinguishing between rights and intents. If an LLM is acting on your behalf, its actions should follow your intent, and not just do any random thing you could do, just because some hallucination told it to! I hope other folks find this useful. We have been using it for our other projects such as Open Executive and wanted to share it. You can check out extensible-mcp here: https://github.com/SenteLabsAI/extensible-mcp"
     },
     {
       "title": "Claude Opus 5.5 can now rebuild real programs from scratch \u2014 18.5% on ProgramBench, up from 0% in May",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I built an interactive city that shows how AI could change daily life, from 1956 to 2050 \ud83d\udc49 https://ai-world-2050.pages.dev It covers one room and one city across the eras, and the 2030s split into three possible futures. Every forecast cites its source, and the news updates every day. Try it and check the numbers. If something looks off, tell me."
-    },
-    {
-      "title": "Open Source Project to help Secure LLM powered Applications",
-      "author": "Fearless-Might-5439",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhzatd/open_source_project_to_help_secure_llm_powered/",
-      "published": 1793218705.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We built extensible-mcp to help folks build LLM powered applications securely. From a technical perspective it is an MCP proxy capable of loading new MCP Servers dynamically without polluting the LLM\u2019s context while providing Zero Trust policy controls to manage all tool calls. Policies and sensitive credentials are maintained and applied outside the LLMs purview. Policies can be written in any of Rego, CEL, and, with the latest release, Cedar. Tool definitions from the various MCP Servers are maintained in a queryable vector store, so the LLM only needs to be aware of those it uses. A particular distinction of extensible-mcp is distinguishing between rights and intents. If an LLM is acting on your behalf, its actions should follow your intent, and not just do any random thing you could do, just because some hallucination told it to! I hope other folks find this useful. We have been using it for our other projects such as Open Executive and wanted to share it. You can check out extensible-mcp here: https://github.com/SenteLabsAI/extensible-mcp"
-    },
-    {
-      "title": "Hochul signs AI chatbot and baby monitor regulations",
-      "author": "news-10",
-      "url": "https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/",
-      "published": 1793220559.0,
-      "thumbnail": "https://external-preview.redd.it/Ai2gGRS08LCo_MEHKFnwnRAFsILWfJ_qb8Zvf4cedPc.jpeg?width=640&crop=smart&auto=webp&s=424af1557eab0f499d88580786577e033ce77acb",
-      "external_url": "https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/",
-      "site_name": "news10.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "SenseNova open-sourced a 27B model that makes videos by writing code, and published full production logs too",
-      "author": "quietsam8",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhv6bq/sensenova_opensourced_a_27b_model_that_makes/",
-      "published": 1793209772.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It's called Code2Video. Rather than generating pixels the way video models do, it writes a program for each shot, renders it, looks at the frames and revises the code. I think the reasoning holds up for a certain kind of video. If a ball bounces, the bounce comes from the physics in the code, not from what bounces usually look like. Text, formulas and chart numbers get typed in from the source, so they don't come out as gibberish. And since every element is a named object, changing one thing is a small edit rather than a full regeneration that can shift the parts you liked. Besides the weights (a fine-tune of Qwen3.8-27B), the release has a skill file that walks an AI agent through the production process, a template that turns a short request into a full brief, and full production logs with the messages, tool calls and review images. It's built for motion graphics, explainers and stylized 2D or 3D scenes. Everything is at https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video"
     }
   ],
-  "fetched_at": "2026-10-28T21:36:34.138675+00:00"
+  "fetched_at": "2026-10-29T01:35:29.788323+00:00"
 }

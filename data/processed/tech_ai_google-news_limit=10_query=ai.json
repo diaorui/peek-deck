@@ -5,57 +5,87 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Silicon Valley Is Grappling With a Flood of Bugs Found by A.I.",
+      "headline": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaHMzZ0xHaXZJclUyQTNaV21kT28yQVNMWk1oaTNENVZQUkFzSjJWTllSMVdKM1dKZU1kUGpHTnBRTUp5czRSS2h5ZUg2ZlJ2cE9adDhOaWRhN1MyaENXazlvWm8zMnhuOFZzQ0F1SkVLMnIwb0hKTzNmY1VSUQ?oc=5",
-      "pub_date": 1793178278.0,
+      "pub_date": 1793214893.0,
       "article_url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Inside Anthropic\u2019s IPO + How AI Agents Spy on Your Messages : Machine Gods",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTzZmaWlydTRmOXk1ODN0ZTVZc0lJMVd5cHpBMVVJVlhrZzUxNnlGNWJGRHRTQ2pWSXNFc2Y5bWU5UWZWczJfUjJqMUV6MmxHblhtVHoyNFFreTF2UEFZMFNiX3l0Y3BvTm1GVW5WYXZnXzI0YmdkRHV0QXc5azBqLThySm0zalBxVkszeHQ0emkyZDMxeWdOcFRsT01GeHVPalc4?oc=5",
-      "pub_date": 1793185200.0,
-      "article_url": "https://www.npr.org/2026/10/28/nx-s1-6019724/inside-anthropics-ipo-how-ai-agents-spy-on-your-messages",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2Fc4%2Fd27df14d4259b57151f2337e4c3f%2F5233357d-ceb8-49c1-af3b-48bde3cec1e1.png",
-      "description": "Anthropic, the AI company behind Claude, has released the most detailed account of its business yet, as it prepares for its IPO. We break down the biggest surprises in its S-1 filing and explain what the numbers tell us about the AI bubble. Then, Signal president Meredith Whittaker joins us in the studio to discuss the existential threat facing private messaging and end-to-end encryption. Between governments demanding backdoor access to private conversations and AI agents that can see everything on our devices, she warns, \u201cwe are looking at the elimination of the possibility to provide privacy.\u201dFor a transcript of this episode, check out npr.org/machinegods.You can watch this full episode on YouTube, Spotify or Apple. And if you\u2019ve got a question you want us to answer, you can drop us a comment on any of those platforms or email us at hey@machinegods.fm"
+      "headline": "What Should You Do With Your Money in the Age of AI?",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZktXMm92WTRPRWV1MUNZOXlmQmt4d2FBSFV3cGRTN2JFNzhhRmYtdk8yMUtPSmRoNFhFNlBLZEI3YnBfQy1tU1Y5emE2ZGJwNGNHOWEzRWpiWkJRVUhQWlRSdGlWWk1JSFhkc2VqaDZBODE3NEdRbTh6VnJVWUswdmVpVkg?oc=5",
+      "pub_date": 1793208405.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/10/ai-hedge-financial-tips/689187/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTNLaEZxN01qbHhiZ3NjYWN0WHU2MmJ3Y1hWT1JHUVIyaUJCTkMxZjI2Zk05bmFLbzJxbDBSVTU2dEtobjlOdHE2VU5uQnpJVW9fMTVrUjZYc21WVUlDcEw3dHVoQ2FPQXkwYXlfajZZeDY1aWlZRlFnVG1JMFV2Z0twN3VvSlp1Um1LTzFQTXBad05iUV83dWo1Z3l3blJsd1RQRW5SS29QTXlmU0VUS212S08?oc=5",
-      "pub_date": 1793136674.0,
-      "article_url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
-      "description": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+      "headline": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRhTXNhc0dhVWVuU1R2czVZME9uX1AwRUQ4TUhNWFNlUWllOWFpd3F0Y3NrNlVWTnNkOG1ManI5a2lEUU9rcERuOTZqNUtZampraXdIZkhyY01nWVRUSkgwVnc1WTZWbnp1RzlLbGw5T2Z1clFYNlFYT2d2THdmYjlNUFZTZ9IBiwFBVV95cUxPMlJfRno2MkJZOUJpRElyemhVOUpIZWpEbGJyaTBuSTZYODdTd1A3a0k3RDZZY1RMZ21sWG1UWDRUSXdNc2tMenZMR3pSWjRlS0pDa0tCMGlaeHNZbEtDcUFoWFVXUXAwZ2hpdVJOd0JhWkhqNDRPNGpvaFFYcXJHb0NBNjFxSFFQd1NB?oc=5",
+      "pub_date": 1793235420.0,
+      "article_url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&w=1920&h=1080",
+      "description": "Samsung Electronics reported third-quarter earnings on Thursday."
     },
     {
-      "headline": "Amazon relaxes push for AI use as Anthropic reveals shocking stats",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hVmNYTzcxeFpBNVduX2JnRzcwODFoRE50Y0JKcEQ2QnE0WkE1emllTDFJTDBrOHFMd2oxMkY1V2xxeUM1RHpOam9hVC1zUkNiN3JVR2NHZTNMbmQxUmNQMTF3UjE1QWZCNDBqVTZucVpTS05nRW5BUw?oc=5",
-      "pub_date": 1793218128.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-news-anthropic-openai-october-28",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/8e99c74df02a527073d508fc9892751a.jpg",
-      "description": "An internal memo at Amazon shifted its guidance to software engineers on AI use this week, telling employees to be more stringent about what they use AI to accomplish."
+      "headline": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGJsVE5PellOMG00OVVLbi1tLVFydl8ya3FJVXNadWo5NThCMFZocnFmUVBZZEVlTkJUNlJwYXFvWUtLRjdPNTJsT2lQZlZjWXc3SWY5QXpPWU5KQUJuQjdlOE5PTWFBbU9CeWV3WUVrWHJPMXZqVEVLU044OVpMVGJOelE4VkR6NkJsUzNjQmdfdUtKaW5aRHg3UzZoclFrWnVLRldHejhnWmstaTRhV3Z4MmUxQQ?oc=5",
+      "pub_date": 1793235600.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "The AI trade is back, and it's sorting software stocks into winners and losers",
+      "headline": "How this private school in Palo Alto uses AI to support students",
+      "source": "NBC Bay Area",
+      "source_url": "https://www.nbcbayarea.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeW5yc0tjS2V0b2xEVl9BejlFdGxkSjRNblIycmtUX29TV0M2MlZLcFI3ejNSVk1CcU5mYzFCZE03eFNCT3dlaTNnY2JpRVJkajQtNGxrbkU0d1hmLW5XQldSalpJT2haVUV5VDA1cy0zTUVSY0t5bW1jREdFZFpWX1NscGtDMVUyd2fSAZIBQVVfeXFMTkVpZGxEWU1wcUctRm82b3R4czJUdGx5a1hueUx5Tmc5Sng3bWgxZl9tZFdHa0RoZmFfUEFWWUM1SzdaR0gtTHdkUDVVNkRLWE9pVzFxQnhLYkZjUlF1WWdPQzl6bUQtdTRhZV8zZUNwYzR0dGxrTkxVZjFqQjNPUHVTSEp4ODBPMGlVSExELWpNaUE?oc=5",
+      "pub_date": 1793234597.0,
+      "article_url": "https://www.nbcbayarea.com/news/local/ai-powered-private-school-palo-alto/4166391/",
+      "image": "https://media.nbcbayarea.com/2026/10/How-this-Palo-Alto-school-embraces-AI-to-teach-students.jpg?quality=85&strip=all&resize=1200%2C675",
+      "description": "A private school in Palo Alto uses AI to help students while also making sure to take the technology away."
+    },
+    {
+      "headline": "Powerful Dem trio demands faster AI incident disclosures",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenladk5CN2JpekxGMWdoUzg0OFZWXzFyek0xMy0tOGVHanJ0RkcwN3ZSVWtfX1ZCTGhBMUFreEFUUU80cERJQnJ3WmpNTzA0ay1wa2NtV3kxVl9IcnFxWVhJNzl2b09fT3d0S0pMRFJ0WS1aRElfUWFBQmdwOXowVDhad2NKWEVFRmR2cnc3Y2xZZzh0WEx0c0NyM1JKN1liY3I4dWpMX2ZvNDN1eEFzVHo0N1RQa05qMER4RVRCODY?oc=5",
+      "pub_date": 1793208586.0,
+      "article_url": "https://www.politico.com/live-updates/2026/10/28/congress/powerful-dem-trio-demands-faster-ai-incident-disclosures-01138531",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "In China, the AI bubble has already burst",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
+      "pub_date": 1793104678.0,
+      "article_url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Investors Who Piled Into China\u2019s AI Boom Just Watched About $480 Billion Vanish in Under Four Months. Are America\u2019s AI Bulls Next?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORGc0MzdieHhwY3YtZ1RMdzdBT3RfUWxXQjFKTHY5dXhKUWFYcDJyM2JHLXVoNjA5QVlmRnZ2OEVOdllMN1JvM2ZGcVBZbTR1WjhjYWlIaTh5djZ6OXRKWnNvNV8tSWZtNnpXU1c3VkhNR24xVndhQkJtSENRQUtQbzhFM3gzdnd4andGZ0MtOXltdHYwdS1LUkVIdmJmMHNQZ01DSHJIczg1QjFjenpuOEwyVV80SmkyNmFET0d1eUx5aE80X2dkV3d1aHBMUQ?oc=5",
-      "pub_date": 1793199826.0,
-      "article_url": "https://finance.yahoo.com/markets/article/the-ai-trade-is-back-and-its-sorting-software-stocks-into-winners-and-losers-150346310.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/03319f2163676c8f4b450eff85006a705bddc7e2e64193650bc246951b32f246/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fa44ca9bf-e649-4bd4-9b15-aa7df1cdb800",
-      "description": "The chip rebound is sorting software stocks into winners and losers, with October's biggest gainers now falling the hardest."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHhhS014Y2VNaThmTmFXRE9fS1ZFQVhaakVLbTRSdUlWYVkzaW1OX2xRbEU3WnI2Z0dWZnVyYURrVkNxaDByTWRBMUZPU01xaDhtMGhRd05pS244dGN2QnZsdmJVdjh4YlNPWHJNSnVJdzRrV3h1S0t5TXNGNnBsR2M4c1liWlNnczROYW5rOVlHRnVINkV2MjZ3?oc=5",
+      "pub_date": 1793207702.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/investors-piled-china-ai-boom-171502130.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/76f33b96ee1b0f6b51c01c1e829b8f65b4585904dff03325582a438d27433185/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ffcba3865e18d9abc038e3dd62f6f2a16.jpg",
+      "description": "China's AI stocks just staged one of the most dramatic collapses in recent market history, and Wall Street is now asking whether the same warning signs that preceded the crash are quietly flashing across American portfolios."
     },
     {
-      "headline": "Google shares drop 7% as search business falls short and AI spending surges",
+      "headline": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU?oc=5",
@@ -69,42 +99,12 @@
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHp2SlA2VGtZamtqaWlqaXlCd1prZ1htWV82SlNmNXZOSnRZbDYxQkpXQU8zU2dtMFB3RHBmc3dYYmVoRExoQUV4RFBGTjhuVUVIcVY1MVVPQ0tTb0puTnZsZWFjS1BfZVgyVXlwbE41ck12aUZUcVRWY0hjb0lUalB5T1VKUXQzZ0hYN2JIYVVtNGhfX3J5OGx4ZUFNaGRCalRveWNDM2lYenRWNkZBT0dUal9XWWJVM0toVE5xSDR4Q21rdVk1TUpFQ1JqLWM4NFl2RVNBZVExc2dHbEF5bnNFOVpFSlE?oc=5",
-      "pub_date": 1793222017.0,
+      "pub_date": 1793226642.0,
       "article_url": "https://finance.yahoo.com/markets/stocks/live/microsoft-earnings-live-microsoft-beats-q1-expectations-on-top-and-bottom-line-on-ai-growth-204510452.html",
       "image": "https://s.yimg.com/lo/mysterio/api/93be38857b497838fa255fa9b5fd8d9892a76ff78543c1b32b85904ec640a6bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F6e2c74cb-5745-40af-b740-c2d0c45d8a9c",
       "description": "Microsoft reports Q1 earnings."
-    },
-    {
-      "headline": "Fintech's agentic AI debate",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fdTFuN21QOW9ROHJqQmdOcTkxXzFaU3YteDNSMmJ4dFBpNUpRbGN6ZmdpTnZRaFRZclhHRXlaaG1fa0hvb052M3h1cEZaajlEWVRFRXBnSEc2dndPYk5FR1FQU1JJTkgxNTFtdWpmU3NBVHNsSmRQMHNB?oc=5",
-      "pub_date": 1793220587.0,
-      "article_url": "https://www.axios.com/pro/fintech-deals/2026/10/28/fintech-ai-commerce",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Marvell Is Said to Near Deal for Lumentum In AI-Related Megadeal",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGdUMkpHa2JOcFhCMTFQU0tLaTJkTU54TmQ2aGJnVVVMR2VzeGdzLS1ONXd0U3hqQ0xPZUlEeTgyOWVXMHRQQ0hIeW5aX21JRkpNY3FlRUdNM1ZJMS1ZX3JwMWUteGVLdFFaVlNZMjZXUWtSSXNVRlEwdnRvbU9iQVBnNS1ycUgxMU5LTGtQQ0hSTWNOTkhBZ3FNRC1HaEZXZG9UMUd1QlBfeG1qZ044cTQtTk9Ydw?oc=5",
-      "pub_date": 1793222338.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "In China, the AI bubble has already burst",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
-      "pub_date": 1793104678.0,
-      "article_url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-28T21:37:03.946929+00:00"
+  "fetched_at": "2026-10-29T01:35:58.857504+00:00"
 }
