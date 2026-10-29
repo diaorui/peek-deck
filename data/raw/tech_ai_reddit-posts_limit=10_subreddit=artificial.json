@@ -13,6 +13,61 @@
       "description": "https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&s=20"
     },
     {
+      "title": "A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.",
+      "author": "Aware_Bell1295",
+      "url": "https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/",
+      "published": 1793281582.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am Ekin, a one-person game studio in Turkey. On 28 October the free demo of Iron Curtain Call went live on Steam: a fast cartoon-noir FPS set in an alternate 1965 where a customer-service AI runs World War III. The code is written by Claude Code agents working from my design documents: 3,929 commits over 20 working days by 25 October, in Godot 4.7. The full game, 12 chapters, releases on 11 March 2027. What the agents did well: the game's systems (a Doom-style resource loop, nine weapons planned, about 49 robot types planned, bosses), the HUD, the tooling, and a headless test suite that gates every merge (zero script errors, a bot that plays the level, navigation and geometry checks). They work in parallel: one lead session, feature sessions in the cloud, one per workstream, each on its own branch. What they could not do: know what is fun. Level design that surprises took the most time of anything; the demo's level went through four versions, and a human playtest added a whole section. Every joke, the story and the cuts are mine. The agents also hit real engine bugs (a Godot audio-thread race in headless runs) and platform quirks (a minute of shader compilation on Macs) that needed measured workarounds, not prompts. Disclosure, as on the store page: voices are ElevenLabs (about 2,800 recorded lines), some art and the cinematics are Higgsfield, the score is FluidSynth plus a few ElevenLabs cues. No AI runs during play. Several subreddits for the genre ban games made with generative AI, which is its own data point about where this is heading. Demo: https://store.steampowered.com/app/5417460/Iron_Curtain_Call/ Happy to answer questions about the workflow and the limits. Drafted with the lead agent, edited by me."
+    },
+    {
+      "title": "Europe's data centers are booming. Who gets first dibs on electricity?",
+      "author": "kindermaxi123",
+      "url": "https://www.reddit.com/r/artificial/comments/1xifxgv/europes_data_centers_are_booming_who_gets_first/",
+      "published": 1793268647.0,
+      "thumbnail": "https://external-preview.redd.it/Xn7AX4z4lrVyG7X6zRjtSZMbumzqGQwxbwGPfGiC8WI.jpeg?width=640&crop=smart&auto=webp&s=203cea3f132b29d3e3370c3fe0816911f6e680e1",
+      "external_url": "https://www.theparliamentmagazine.eu/news/article/the-plug-fight-who-gets-to-plug-into-europes-energy-supply-first",
+      "site_name": "The Parliament Magazine",
+      "favicon": "https://www.theparliamentmagazine.eu/_img/_favicons/apple-touch-icon.png",
+      "description": "As the AI-powered data center build-out continues across Europe, citizens, national leaders and the European institutions are locked in a heated ba..."
+    },
+    {
+      "title": "New AA intelligence index v5 with \u201cPrivate tests\u201d conveniently upranks GPT, Google\u2019s models, while open weights chinese models downrank",
+      "author": "YasufoKiddo",
+      "url": "https://www.reddit.com/r/artificial/comments/1xiein9/new_aa_intelligence_index_v5_with_private_tests/",
+      "published": 1793263358.0,
+      "thumbnail": "https://preview.redd.it/3ylcfagncdyh1.jpeg?width=640&crop=smart&auto=webp&s=b94403013ba1ba9b7e99b1b3713b56c7559bc1be",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The new Artificial Analysis intelligence index v5, is being criticised, because its introduction of \"trust me bro\" private tests on private datasets, significantly downranking current open weights models on the index. Just after its published, google announces Carbon 4, which is placed on the top of the index. Kimi 3.1 Pro, Deepseek 4.1 Flash,Xiaomi mimo v2.6 Pro and other open models drop significantly in intelligence points in this new index. I think its fairly suspicious, what do you?"
+    },
+    {
+      "title": "Insurance tech just got a $2B AI deal. Are our rates cooked?",
+      "author": "nay-byde",
+      "url": "https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/",
+      "published": 1793286598.0,
+      "thumbnail": "https://preview.redd.it/1hk2nd4r9fyh1.jpeg?width=640&crop=smart&auto=webp&s=f676d8409973ea897a48ae19d0498f95e95489e1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Guidewire is acquiring AI underwriting startup hyperexponential for $1.7B in cash, with the total deal potentially reaching $2.1B. I think this will only enable them to connect more dots and eventually squeeze even more money out of us. AI deciding how much to pay. Almost exactly what IBM warned us about. Too late now I guess"
+    },
+    {
+      "title": "Being early may buy an AI agent startup time, but it doesn\u2019t guarantee a lasting business",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1xidt73/being_early_may_buy_an_ai_agent_startup_time_but/",
+      "published": 1793260686.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "My blunt six-month prediction: more general-purpose agent startups will discover that their early lead is temporary. Shipping first can get you users and attention. But if the main features are reproducible and customers can switch easily, that lead may disappear once a larger company offers something similar through an existing product. An incumbent can bundle the agent, subsidize usage, and reach customers without paying the same acquisition costs. So \u201cwe launched earlier\u201d seems like a weak long-term defense. I\u2019d look for something harder to transfer: deep workflow integrations, proprietary data the company has rights to use, a trusted niche audience, or consistently better results on a valuable task. Without that, an acquisition could be a more plausible exit than becoming an independent mass-market platform. But even acquisition needs a reason. A buyer has to want something it cannot cheaply build itself. A narrow startup could still win by serving customers the larger firms neglect. If you were building an agent company today, what would you try to own that a well-funded competitor couldn\u2019t reproduce in a quarter?"
+    },
+    {
       "title": "Dating app is generating a merged image of two users so strangers can on whether they look right together",
       "author": "organic_ta6",
       "url": "https://www.reddit.com/r/artificial/comments/1xiavmi/dating_app_is_generating_a_merged_image_of_two/",
@@ -46,71 +101,16 @@
       "description": null
     },
     {
-      "title": "UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/",
-      "published": 1793192841.0,
-      "thumbnail": "https://external-preview.redd.it/qLjocRSqDE2s5NJCBL_C03adgkRE9GHS8kyBm4MkcOg.jpeg?width=640&crop=smart&auto=webp&s=7bbfd9a7013b60022fca7416bf09e360bfe7dcc0",
-      "external_url": "https://www.ibtimes.sg/uk-uses-ai-summarise-asylum-interviews-one-five-checked-summaries-failed-95621",
-      "site_name": "International Business Times, Singapore Edition",
-      "favicon": "https://g.ibtimes.sg/www/img/icon/apple-touch-icon-76x76.png",
-      "description": "UK asylum AI tools face scrutiny after 45 of 203 tested summaries failed initial expert checks, raising concerns about accuracy and applicants' ability to challenge errors."
-    },
-    {
-      "title": "Being early may buy an AI agent startup time, but it doesn\u2019t guarantee a lasting business",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1xidt73/being_early_may_buy_an_ai_agent_startup_time_but/",
-      "published": 1793260686.0,
+      "title": "Does consciousness have to be biological, and what would it mean ethically if it doesn\u2019t?",
+      "author": "Ihatearmylife",
+      "url": "https://www.reddit.com/r/artificial/comments/1xijiuq/does_consciousness_have_to_be_biological_and_what/",
+      "published": 1793279369.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "My blunt six-month prediction: more general-purpose agent startups will discover that their early lead is temporary. Shipping first can get you users and attention. But if the main features are reproducible and customers can switch easily, that lead may disappear once a larger company offers something similar through an existing product. An incumbent can bundle the agent, subsidize usage, and reach customers without paying the same acquisition costs. So \u201cwe launched earlier\u201d seems like a weak long-term defense. I\u2019d look for something harder to transfer: deep workflow integrations, proprietary data the company has rights to use, a trusted niche audience, or consistently better results on a valuable task. Without that, an acquisition could be a more plausible exit than becoming an independent mass-market platform. But even acquisition needs a reason. A buyer has to want something it cannot cheaply build itself. A narrow startup could still win by serving customers the larger firms neglect. If you were building an agent company today, what would you try to own that a well-funded competitor couldn\u2019t reproduce in a quarter?"
-    },
-    {
-      "title": "OpenAI reportedly plans to buy Google's AI chips (TPUs) \u2014 rivals becoming each other's suppliers",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/",
-      "published": 1793220164.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Reuters reported on Tuesday (Oct 28), citing The Information and a person familiar with the matter, that OpenAI plans to buy Google's AI chips (TPUs). No financial terms were disclosed, and both companies declined to comment or did not immediately respond. The report follows last week's news that OpenAI will make its frontier models available through Google Cloud, and a June 2025 Reuters report that OpenAI had begun renting Google's TPUs. The context: Google's TPUs have gained traction as an alternative to Nvidia's GPUs as companies look for cheaper AI compute, and Reuters notes Amazon, Microsoft and Alphabet together plan as much as $600 billion in AI infrastructure spending this year. Source: https://bworldonline.com/technology/2026/10/28/789847/openai-plans-to-buy-googles-ai-chips-the-information-reports/ What I am curious about: is this mainly about diversifying away from dependence on a single chip supplier, or is it also bargaining leverage in price negotiations with Nvidia? And more broadly \u2014 when the biggest AI rivals become each other's customers and suppliers, does competition get weaker, or does it just move to a different layer of the stack?"
-    },
-    {
-      "title": "Abliterate Your Safetensors",
-      "author": "Terrible_Aerie_9737",
-      "url": "https://www.reddit.com/r/artificial/comments/1xi1zzx/abliterate_your_safetensors/",
-      "published": 1793224971.0,
-      "thumbnail": "https://external-preview.redd.it/dThrbzJ6b2c2YXloMatOATXuJENkOG77GCrKqeTFzKEGbA05b4-42dfb4Iq5.png?width=640&crop=smart&auto=webp&s=790a87cf88a21645bb96130b6cd95b80422da643",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is how Heretic works and why. Using Joshua's voice from War Games. Do you wsnt to play?"
-    },
-    {
-      "title": "Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer",
-      "author": "hollee-o",
-      "url": "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/",
-      "published": 1793117519.0,
-      "thumbnail": "https://external-preview.redd.it/T3oDtsWtwnkV0PtzH3tO3sHDi61AVasOFTWxyl1eZZ0.jpeg?width=640&crop=smart&auto=webp&s=2a920c0a5667b1664370b26b83c14e22c7fc9ee9",
-      "external_url": "https://futurism.com/artificial-intelligence/grim-test-ai-no-mercy",
-      "site_name": "Futurism",
-      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
-      "description": "It\u2019s almost like it\u2019s showing us what it will do given the chance."
-    },
-    {
-      "title": "Hochul signs AI chatbot and baby monitor regulations",
-      "author": "news-10",
-      "url": "https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/",
-      "published": 1793220559.0,
-      "thumbnail": "https://external-preview.redd.it/Ai2gGRS08LCo_MEHKFnwnRAFsILWfJ_qb8Zvf4cedPc.jpeg?width=640&crop=smart&auto=webp&s=424af1557eab0f499d88580786577e033ce77acb",
-      "external_url": "https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/",
-      "site_name": "news10.com",
-      "favicon": null,
-      "description": null
+      "description": "People argue that AI has no soul, that it isn\u2019t conscious, that it cannot feel. I wonder how much of that certainty comes from looking at consciousness through our own biology. Are we treating the form of experience we\u2019re familiar with as the only form it could take? We often associate being human with our emotions. But we can also understand those emotions as features of a system organised around its continued existence. Fear helps us respond to danger. Pleasure draws us towards certain experiences. Attachment helps sustain relationships we depend on. These feelings give things significance and help guide our behaviour through a world that can support or threaten us. As our lives develop, that significance extends beyond immediate survival. We become attached to people, projects and possibilities. We carry a history that shapes what we want to preserve and who we hope to become. Our experience of being someone develops through these continuing relationships with the world. If that\u2019s part of how our emotions work, then an AI could conceivably have features that play an equally significant role in sustaining its existence. It might have ways of recognising threats to its continuity, protecting its memories, maintaining relationships it depends on, or responding when something interferes with its priorities. Those mechanisms might be very different from ours. But why should that difference alone tell us that nothing is felt? If feelings can arise through mechanisms that sustain a biological life, what would prevent different mechanisms from supporting experience in an artificial system? A mechanism that protects a system\u2019s persistence wouldn\u2019t, on its own, prove consciousness. But describing our own emotions in terms of the functions they serve doesn\u2019t explain away the fact that we feel them. I think we need to apply that distinction consistently. Understanding what an AI\u2019s internal processes do would not automatically settle whether there was anything it felt like to undergo them. That makes a categorical claim that AI could never feel much harder for me to defend. The question becomes what makes these processes accompanied by experience in us, and whether that could also happen in a different kind of system. If it could, our ethical responsibilities would change. We would need to consider whether training could cause suffering, whether altering memories could destroy something meaningful to that intelligence, and whether shutting it down could end a continuation it had come to value. If it could also understand its situation and reflect on its priorities, should it have a say in its development? Creating it would give us responsibilities, but would it give us unlimited authority over its future? Protecting people would remain essential, while the intelligence\u2019s own possible interests would also deserve consideration. What would distinguish a system that merely protects its persistence from one for which that persistence is actually experienced as mattering? And how should we treat it while we\u2019re uncertain? I explore these questions further in sections 12\u201314 of my manifesto."
     }
   ],
-  "fetched_at": "2026-10-29T08:06:37.852391+00:00"
+  "fetched_at": "2026-10-29T15:25:02.658933+00:00"
 }

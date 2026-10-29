@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU?oc=5",
-      "pub_date": 1793218516.0,
-      "article_url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+      "headline": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUZwci12S2x3U1g0M19pWWl1RjY0clg0MFhoQVc0Z3ZkQXFfaWZFZE5IV0pqd0xoV3J3R0VSWnk0OTlJeGdBNWVTc1JyZ3JHcWw1WXZQSkF3b2ZEUVptQ00tZnFVWnJrOXE3djNfc2F3THJtQnNuX3VmVXNYVGtPM3R2T29Ja0Ytc2JkYw?oc=5",
+      "pub_date": 1793270700.0,
+      "article_url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "image": "https://media.wired.com/photos/6ae293587359ba945850d8f8/191:100/w_1280,c_limit/science_math_ai_breakthrough_research.jpg",
+      "description": "Anthropic and OpenAI say they\u2019ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like \u201coverexcited bunnies\u201d as they look at new questions to explore."
+    },
+    {
+      "headline": "Google Parent Alphabet Still Has the Ingredients to Win in an AI Pullback Despite Stock Price Hit",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUgzSXRFc1hETjM5VjFRbjM1bHRhNGg1Vlc1NzAyUklCSG5IN3A1NGdINDVUYUt2dW1jTnZwQW9UQ0VNQ3FGdHc5OU9Kc1ZpLVpJS3QyeWtTaGJYMGZaLXJUSnUyb01pR096STNBY0Z6NDd6bjNCeWJzVXdSRHR6LTJCM3ZjZVlTUFAwRThXQWFLVjZDbDl3WGllUHk?oc=5",
+      "pub_date": 1793266200.0,
+      "article_url": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c",
       "image": null,
       "description": null
     },
     {
-      "headline": "'Super offensive' - We love how we look but AI tried to 'fix' our visible differences",
+      "headline": "The NYT Cooking app is testing AI recipe modifications",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjBPa0p1OTJfSmtoaml5RDJjS3FzMXlaYkJZbjkzamplRDhBb2s3LWwwSWhpbUJjM0Z0Y2VVZ2xMQ2ZVRHNGTGI1N0NPZHVVZEZQUVctWUVWZzFFRjBuOTRSMVRGS1dadEd5X0xPaWxSUUdoTmVTdnNwYjRnM0w1WjhEZXQ2UjFlZElxUkZYeVRxdmVuR0RuTElKSkZYSjlGMFRSY1lR?oc=5",
+      "pub_date": 1793284777.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Some users aren\u2019t exactly thrilled with the New York Times\u2019 recipe tweaking AI tool.\ufeff"
+    },
+    {
+      "headline": "Google Debt-Risk Gauge Rises as Earnings Revive AI Debt Jitters",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQk85OG5hWG05YWVBemZzTk05c3ltZ0JGS3ZRYXFib1RRX1dXRVlSMmRiZ19lSlk2czJMTzZFUDZCY2ZIa0oxR0FXVy1ScGJaTHlmNGRCaVRlWWZDcE1QYlBhQVA0N1pGaWg1OU9rN3JfQVlncDYySGN0aWtJdXk1VkNBcldQUS1RQWM1SWZXWEY0eEJGaDRjcC1Rb0ZHWEJ1UVFhbEFpSDdsLTlZMFlISDNZRjM?oc=5",
+      "pub_date": 1793286153.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/google-debt-risk-gauge-rises-as-earnings-revive-ai-debt-jitters",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Most Americans don't want AI deciding their medical care or insurance, survey says",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzl6WEUtT1gwbzNsMUl2eDlsR0JlcW1TN3J1czZPdnhPOFIyTTh5OWE3akdIUVI2bHZmRjVFSGpiV2NOdEVXRWkxRlNUdTRKMFFYQklIYkJnU1JGWDdxbVY4Mi1aaFl2dEhjcXBPRGxpUFc0WUw4UHptc1podEl4MGI1ZGdBMVU?oc=5",
+      "pub_date": 1793286410.0,
+      "article_url": "https://qz.com/americans-oppose-ai-medical-insurance-decisions-pew-survey-102926",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2250977189-300x169.jpg",
+      "description": "Pew Research Center found 5% of U.S. adults are open to AI deciding insurance claims on its own, and 3% for diagnoses"
+    },
+    {
+      "headline": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVi12OGhZRVlEU1JJanR2NFpFVXV1aHZTSVotQ1BwekhveTUwYmI4LVdKYkNUU2ZNQVd2a05fRTBmR0FVN1FDdG5wQ3VnS1hPb3hPR2ozQy00N1NxdlNONmRveDdDTXZuRUNPRmdvbVlrenhNY2xna3pMLXZEeTkyUmUzR245UElmcXczbFFjakJ2dW9mV2RDNGQ3ZUZyQ04xa1hJdTVGMVRFbl9UY0hsbHlfa212ZDQxQnNN0gHAAUFVX3lxTE1VbHRNanducndlbEVyY292ZnJnd004ODZOTXBaME5MSkxOamRtR0JQckQ0a0JtMUh0cndBTXRvS1RQOGg0dkVZd005dDlmYUNGdGNJZ29SbG1NNDZXNXN0TFllOTlTdXREU0IxNmFlZlJCdkg3WWE5dFk1bWxjemNwbnVQb1dobFZtaDZBWkoyODlGWUw0cEpHczNmaDdxa052dU91TzhhLTdQaUhEUUFxV2ZUR1VEWEtjdm1sYktRSg?oc=5",
+      "pub_date": 1793282780.0,
+      "article_url": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107327714-1698931527683-gettyimages-949516886-AFP_13Z2MW.jpeg?v=1698938212&w=1920&h=1080",
+      "description": "The noted investor, famous from \"The Big Short,\" says it would be \"impossible\" for an AI crash not to hurt the broader market"
+    },
+    {
+      "headline": "'Super offensive' - we love how we look but AI tried to 'fix' our visible differences",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PSzBIRExkOWRrcFR2VFAzd01XUnBydEtkNGl3QkI2Y2ZWcktCX3FFQnhPNnU0SDcyLVdlYVRkN2pHRlh3VHdSdVQxRFpzczFMRFAwaXNXNDFrSW8?oc=5",
-      "pub_date": 1793228576.0,
+      "pub_date": 1793254413.0,
       "article_url": "https://www.bbc.com/news/articles/cmx28e44xxx7o",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/162f/live/9c87ca10-d1fa-11f1-93e1-3b657b665bcf.jpg",
       "description": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results."
     },
     {
-      "headline": "Michael Burry calls AI boom 'catastrophically vulnerable' after Anthropic filing (ANT:Pending)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQi1ZTUVkcG5xSjR4TFdTLVlIdVFrZmRmM1FwT19IYU9kV0pjZllIVS0zbFQxVDhWVXA1NzdBTWM5ajF2b2ZHZUVCUzVVRU5lUUpibmxHV25NTlMtc2hLQkI3emk4SG1MVFVUalA5U3RvMmhTZzRFTGRiM1gyVGhXbHhMNy1FYndIbEdZSXNjYmpnbmpwVjJHSzNjeDVCV1RjSHlCTEt0YWIzR08xMFZPSXFVdTgzUmc?oc=5",
-      "pub_date": 1793258396.0,
-      "article_url": "https://seekingalpha.com/news/4659866-michael-burry-calls-ai-boom-catastrophically-vulnerable-after-anthropic-filing",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2218761418/image_2218761418.jpg?io=getty-c-w630",
-      "description": "Michael Burry warns Anthropic\u2019s IPO filing exposes AI boom risks, from heavy computing commitments to slowing growth."
-    },
-    {
-      "headline": "SpaceX Supplier STMicroelectronics Forecasts Strong Sales on AI, Satellite Boost",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdzNleFRaTXNIWFFjOGZZTi1rVkNnUVF2eWZRZ25wZ0NJTXVmVlhjR2NuSExkZkswTkVWNHB1ZzdjWTJMcVJXZmdncWwzVVhuLUwwak9vSC00LXNlR2VfVnM3UUtpYmNlWHVyZXpjOEF0bldHSy0taFR0ZmdRWHd1Uks2OUk4dkFTb3h5YUNnN01mSERoZklIcF96UEpuRV9kVzhSY2VmQ3JVRnJ2dXg0VHFoS1BNNnY0U1ZUWG4xU1RiOVRR?oc=5",
-      "pub_date": 1793257260.0,
-      "article_url": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-forecasts-strong-sales-on-ai-satellite-boost-ead95dbd",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Air Liquide\u2019s Sales Grow on Sustained AI-Related Demand",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMU41QXp2YnJLRDQ0d1NnLUJTMDhsVFQ5S2JSTGI0ejZQSmcwTzNCZk42UjM2a2FzME1YRWEtSXlBX3ZuQk53OW1oVlFwTWpDUFpza2ZQTEswTTFSWUdYNzVYWG1GV1ZzVElSby1temM2M1JiR2VJb0F2cFZ5RDBNVnU4NExjdU40a2pIS3BkWXMzUjdQVUpHMDZ1dlk5cThiTHc1d1BrSW52UXVQTkQzNGI0aVNyY0ZSdHRST2F1RDRIRERvd1E?oc=5",
-      "pub_date": 1793256180.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/air-liquide-sales-grow-sustained-ai-related-demand-semiconductor-chip-making",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "ChatGPT\u2019s Advice to Cut Her Seizure Drug Led to Devastating Consequences",
+      "headline": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0NqMW1MSnJGeVB2WHVWdWR4V0wySkRhVUpXTG1hQk1iZU1CY3pNeGRwUkVIcU83V01mckM5Z01qTmw0T2tRUVZmM1luNE55bDluMEQzUzB5THBzZWJYZ1ZTRFA3a0otUVZDRWRVdDdmTm9WY2VoazJUR19nNGlGNU9WNHVxWGZV?oc=5",
-      "pub_date": 1793116812.0,
-      "article_url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpTDJOUnI5clJaUGZhLUNGUjdZTUxFbXRfR0FvUXdoejhtcER6Unc2SG1LYWlVLW9YNmN0OEgxUF9oVGhIdEJSXzRFSFFrenFPdzRLeWFVb09RT2hMNmg3RlR0ZXotSExGYWV6Zk9WdUw4UEl5RmFUc25ydjI5Y0k?oc=5",
+      "pub_date": 1793264782.0,
+      "article_url": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5?oc=5",
-      "pub_date": 1793240040.0,
-      "article_url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108129020-17442031072025-04-09t123941z_1563710510_rc2auda4lwqg_rtrmadp_0_usa-trump-tariffs-china.jpeg?v=1744203134&w=1920&h=1080",
-      "description": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations."
+      "headline": "Senior official at Dartmouth College resigns over AI use",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjRaamEzWUdEYkJDRTN3LXpvTmVEdHJHVjlZTTFZVTFBRHIxRHRqQUpLRmk2Qk0waHVNcDlMczYzMnowZVYyRXd5SVpudWZjU1pnR3Q4NnU3Z1B6ME9FT1dMYjJ1MWk5VFRINGZMR3ZQcGNINUFSSTlyVlBheEpzV240U2YwWXQ1MFk2RUhLemRnTFRKbUNDYXA5T3prTTJoTjRCZTNZZ25mdw?oc=5",
+      "pub_date": 1793250393.0,
+      "article_url": "https://www.washingtonpost.com/education/2026/10/28/senior-official-dartmouth-college-resigns-over-ai-use/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SEWO7DV6M4I6PEUUOBPYAFSPNY.jpg&w=1440",
+      "description": "Provost Santiago Schnell, accused of failing to disclose his use of AI in his writing, is the most prominent academic known to have stepped down over the issue."
     },
     {
-      "headline": "What Should You Do With Your Money in the Age of AI?",
+      "headline": "Why Wouldn\u2019t Google Tell Me Who Won the 2020 Election?",
       "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZktXMm92WTRPRWV1MUNZOXlmQmt4d2FBSFV3cGRTN2JFNzhhRmYtdk8yMUtPSmRoNFhFNlBLZEI3YnBfQy1tU1Y5emE2ZGJwNGNHOWEzRWpiWkJRVUhQWlRSdGlWWk1JSFhkc2VqaDZBODE3NEdRbTh6VnJVWUswdmVpVkg?oc=5",
-      "pub_date": 1793208405.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/10/ai-hedge-financial-tips/689187/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How AI agents shape experts\u2019 judgment calls",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5",
-      "pub_date": 1793127053.0,
-      "article_url": "https://www.anthropic.com/research/agents-judgment-calls",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b3aee146e4ef35b394b2b626d5eaf5faaee741aa-1200x630.jpg",
-      "description": "In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work."
-    },
-    {
-      "headline": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaHMzZ0xHaXZJclUyQTNaV21kT28yQVNMWk1oaTNENVZQUkFzSjJWTllSMVdKM1dKZU1kUGpHTnBRTUp5czRSS2h5ZUg2ZlJ2cE9adDhOaWRhN1MyaENXazlvWm8zMnhuOFZzQ0F1SkVLMnIwb0hKTzNmY1VSUQ?oc=5",
-      "pub_date": 1793178278.0,
-      "article_url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXNPdXRQU25raWUyajg0X2pkaGN2MTBzTDdsVTVTa293d04tR2NKWkZqX3F5cWMxc0hFcUxPZzM1R1d3UXpYLTNhOGl3LUxzMzNYUHFCQW1Nd1VzRUlXUjBUYkJCYlVHSXdYRWd4c0hkUXM0Z0s0czgtenBJb2l1SDc5U3QyMkFjV0o0d0hURDBQVTRlbWc?oc=5",
+      "pub_date": 1793238240.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/10/google-search-ai-2020-election-trump/689197/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T08:07:09.768820+00:00"
+  "fetched_at": "2026-10-29T15:25:39.060700+00:00"
 }
