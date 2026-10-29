@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-29T20:27:27.274837+00:00",
+  "data": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 40 languages for transcription, speech translation, and audio QA, with a 65,536-token context for long-form audio processing.",
+  "model_id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+}
