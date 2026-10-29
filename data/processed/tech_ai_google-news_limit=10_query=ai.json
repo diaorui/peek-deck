@@ -5,6 +5,36 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05d010MmVjcktGQS1WWE95VkxiNXJEQkN3czR3Rk1jejlmNHRPaHFUZTVQZ1BoUDRublhBWHlaNUlfZlJKMkFoTFRadXJYYUpNbGNhRTNEWVVEaTFUSzhPTGI1R0R5SHRvVXdBTGRLdVhkYXlrUU4wMmo0Qk3SAYIBQVVfeXFMTU1ac2pLUU1YMy1aNHNUUFdCU3Q3WEVacW9kcEc4RjRuanZfRDdVZlFwNzBXTUwyZi1fSFBSbVBSQVNUZVhyYnNRdWNQODd1NV95SDVyQ3ZEUUl1QmRDbkF2OVlfblF6dTVsX3o1cU5VOHBDRHFQMDgtNE5PWEhaUmpCQQ?oc=5",
+      "pub_date": 1793289601.0,
+      "article_url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342762-1785443278645-108342762-1785443064240-gettyimages-2265246744-20090101260310-99-780957.jpeg?v=1785443305&w=1920&h=1080",
+      "description": "Amazon reported third-quarter earnings on Thursday after the bell."
+    },
+    {
+      "headline": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNNIBgAFBVV95cUxNNHc4N2kwVENwVmxsU1pPY0FkX1FDd2FlYW83MDlFd2QweG02NkdoQU5lMmZCVVh3bXhLclJzVXAxcTF5ZU5uQXAtZGp3Qy1ZdWFpWUszT1hQNXhIMVhYZFR3aXF3a0NhaUF1T05XcnNIUHVMZEVBdGpKT3NZVFI1WQ?oc=5",
+      "pub_date": 1793271602.0,
+      "article_url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&w=1920&h=1080",
+      "description": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business."
+    },
+    {
+      "headline": "Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHp2SlA2VGtZamtqaWlqaXlCd1prZ1htWV82SlNmNXZOSnRZbDYxQkpXQU8zU2dtMFB3RHBmc3dYYmVoRExoQUV4RFBGTjhuVUVIcVY1MVVPQ0tTb0puTnZsZWFjS1BfZVgyVXlwbE41ck12aUZUcVRWY0hjb0lUalB5T1VKUXQzZ0hYN2JIYVVtNGhfX3J5OGx4ZUFNaGRCalRveWNDM2lYenRWNkZBT0dUal9XWWJVM0toVE5xSDR4Q21rdVk1TUpFQ1JqLWM4NFl2RVNBZVExc2dHbEF5bnNFOVpFSlE?oc=5",
+      "pub_date": 1793262606.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/live/microsoft-earnings-live-microsoft-beats-q1-expectations-on-top-and-bottom-line-on-ai-growth-204510452.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/93be38857b497838fa255fa9b5fd8d9892a76ff78543c1b32b85904ec640a6bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F6e2c74cb-5745-40af-b740-c2d0c45d8a9c",
+      "description": "Microsoft reports Q1 earnings."
+    },
+    {
       "headline": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
       "source": "WIRED",
       "source_url": "https://www.wired.com",
@@ -15,96 +45,66 @@
       "description": "Anthropic and OpenAI say they\u2019ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like \u201coverexcited bunnies\u201d as they look at new questions to explore."
     },
     {
-      "headline": "Google Parent Alphabet Still Has the Ingredients to Win in an AI Pullback Despite Stock Price Hit",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUgzSXRFc1hETjM5VjFRbjM1bHRhNGg1Vlc1NzAyUklCSG5IN3A1NGdINDVUYUt2dW1jTnZwQW9UQ0VNQ3FGdHc5OU9Kc1ZpLVpJS3QyeWtTaGJYMGZaLXJUSnUyb01pR096STNBY0Z6NDd6bjNCeWJzVXdSRHR6LTJCM3ZjZVlTUFAwRThXQWFLVjZDbDl3WGllUHk?oc=5",
-      "pub_date": 1793266200.0,
-      "article_url": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c",
+      "headline": "As Xi And Trump Met, Bitcoin And AI Converged For Liberty",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVZOUjJJZUtVSlZ0dk13ekQxNFJRZzRHTFZEM0NiaXRqQWJGNFBnVUl2alQ0YVdzbE54cEU3R1ZwbENENjAxRjVqb0EyRlJTZGp6UTQ1VGZoNXNDN0hzMTdQdFpmVnpjNEJObE15WExCVkR0eERuaHJTSlZTc21pVkdZcmV1QU5KVnJrMlF2TXdadFAtQ2hpNnRnRWk0UEw2SmUzTlBzcjFPUnpFblFUZGFR?oc=5",
+      "pub_date": 1793303672.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/29/as-xi-and-trump-met-bitcoin-and-ai-converged-for-liberty/",
       "image": null,
       "description": null
     },
     {
-      "headline": "The NYT Cooking app is testing AI recipe modifications",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjBPa0p1OTJfSmtoaml5RDJjS3FzMXlaYkJZbjkzamplRDhBb2s3LWwwSWhpbUJjM0Z0Y2VVZ2xMQ2ZVRHNGTGI1N0NPZHVVZEZQUVctWUVWZzFFRjBuOTRSMVRGS1dadEd5X0xPaWxSUUdoTmVTdnNwYjRnM0w1WjhEZXQ2UjFlZElxUkZYeVRxdmVuR0RuTElKSkZYSjlGMFRSY1lR?oc=5",
-      "pub_date": 1793284777.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Some users aren\u2019t exactly thrilled with the New York Times\u2019 recipe tweaking AI tool.\ufeff"
+      "headline": "Rivian expands joint venture with VW to include AI assistant",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkRSWkZNNXh6dVdEN21tNDdTUW40MjhnTWJnYjE4NDZod2o2ZGM4cDRNVnZEZ1lqTS1jY0l5UTNpZWdHck5ROE1Pb1JXdjlOVXVCN2ZVeHNlX09yQmdka0ZhRVEyQkM3dGtKczFQeU5EaGRXWmQzd2NMZmFfRVJuTE50RmpDTGZEZlVQSXhIUklWMG9iVUhmWlJhWQ?oc=5",
+      "pub_date": 1793304347.0,
+      "article_url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
+      "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
     },
     {
-      "headline": "Google Debt-Risk Gauge Rises as Earnings Revive AI Debt Jitters",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQk85OG5hWG05YWVBemZzTk05c3ltZ0JGS3ZRYXFib1RRX1dXRVlSMmRiZ19lSlk2czJMTzZFUDZCY2ZIa0oxR0FXVy1ScGJaTHlmNGRCaVRlWWZDcE1QYlBhQVA0N1pGaWg1OU9rN3JfQVlncDYySGN0aWtJdXk1VkNBcldQUS1RQWM1SWZXWEY0eEJGaDRjcC1Rb0ZHWEJ1UVFhbEFpSDdsLTlZMFlISDNZRjM?oc=5",
-      "pub_date": 1793286153.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/google-debt-risk-gauge-rises-as-earnings-revive-ai-debt-jitters",
+      "headline": "AI deepfakes pose risks to consumers, voters and others, security experts warn",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2RORHFtSEMxa3hLeTVpODhOR0kyNkExQUV6NmJ2anBZT0NLQnhpdTA4dDNOSjVja09vV0JlY3I1eFppdmY1Rk5IZ1ZpR2JoWXNtbUpaUFJiYXVFbTZPRGliTEUwbjVCWXBHaFhWeEhGdGh1ZVZTRDdLaDdVUDdvTzN6SGp3S1IycWJFVQ?oc=5",
+      "pub_date": 1793303144.0,
+      "article_url": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/27/d2746be8-233d-4a61-be8f-147afd0faa25/thumbnail/1200x630/64bb0fafd4e0c11699d7f956e3f8c3bb/gettyimages-2259893103.jpg",
+      "description": "\"When you can't tell what's legitimate, you question everything,\" said one cybersecurity expert focused on political campaigns."
+    },
+    {
+      "headline": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGVVeXl0bmw1cnBiUkdkU2VRT2VPcWtxSHdNTmQxQ2xlOUxiSW1aY0J5eVd2T2RPYXJQdlEwdWpSSzBuRlZmcHlHU1F3LTVCVmo3ZzZqbXRDZ1pmaDdEMkd0OFIycWhkWXhydlQ4Z0UzZ3FHbUdaaXJOMGVSRFhwSkZRYmFGcWoxeUlQUWtBUVBlZXM3NkgtRGN0dE81LWxkMTRGVnFSSnJWUU83SXRONUJPQm84a0pl?oc=5",
+      "pub_date": 1793286007.0,
+      "article_url": "https://www.reuters.com/legal/litigation/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users-2026-10-29/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Most Americans don't want AI deciding their medical care or insurance, survey says",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzl6WEUtT1gwbzNsMUl2eDlsR0JlcW1TN3J1czZPdnhPOFIyTTh5OWE3akdIUVI2bHZmRjVFSGpiV2NOdEVXRWkxRlNUdTRKMFFYQklIYkJnU1JGWDdxbVY4Mi1aaFl2dEhjcXBPRGxpUFc0WUw4UHptc1podEl4MGI1ZGdBMVU?oc=5",
-      "pub_date": 1793286410.0,
-      "article_url": "https://qz.com/americans-oppose-ai-medical-insurance-decisions-pew-survey-102926",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2250977189-300x169.jpg",
-      "description": "Pew Research Center found 5% of U.S. adults are open to AI deciding insurance claims on its own, and 3% for diagnoses"
+      "headline": "Orange unit signs deal to Mistral's latest AI cybersecurity model",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2RyVFhCQ2RMUVJrcFEyTFlwSHpiakNocEt0ZThqbHJncWxWUWZ3dXRBaGRXb2hQS0RCN3FRZHRpVWpaUVFFdHBPSFVhSm1pYmY5aFVsakd3bXdla0N5X1VzQ05SY1BlMk9iVVFjMldfXy1HdEZQX3NMM0x0ZjN2S3lxbEVuWkE4NWN2YUhURTBubFBnUjMyWU5qTHM2QjVVckxvUmFqN05SN2xXZGt2TjhTOTM?oc=5",
+      "pub_date": 1793284345.0,
+      "article_url": "https://www.reuters.com/legal/litigation/orange-unit-signs-deal-mistrals-latest-ai-cybersecurity-model-2026-10-29/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVi12OGhZRVlEU1JJanR2NFpFVXV1aHZTSVotQ1BwekhveTUwYmI4LVdKYkNUU2ZNQVd2a05fRTBmR0FVN1FDdG5wQ3VnS1hPb3hPR2ozQy00N1NxdlNONmRveDdDTXZuRUNPRmdvbVlrenhNY2xna3pMLXZEeTkyUmUzR245UElmcXczbFFjakJ2dW9mV2RDNGQ3ZUZyQ04xa1hJdTVGMVRFbl9UY0hsbHlfa212ZDQxQnNN0gHAAUFVX3lxTE1VbHRNanducndlbEVyY292ZnJnd004ODZOTXBaME5MSkxOamRtR0JQckQ0a0JtMUh0cndBTXRvS1RQOGg0dkVZd005dDlmYUNGdGNJZ29SbG1NNDZXNXN0TFllOTlTdXREU0IxNmFlZlJCdkg3WWE5dFk1bWxjemNwbnVQb1dobFZtaDZBWkoyODlGWUw0cEpHczNmaDdxa052dU91TzhhLTdQaUhEUUFxV2ZUR1VEWEtjdm1sYktRSg?oc=5",
-      "pub_date": 1793282780.0,
-      "article_url": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107327714-1698931527683-gettyimages-949516886-AFP_13Z2MW.jpeg?v=1698938212&w=1920&h=1080",
-      "description": "The noted investor, famous from \"The Big Short,\" says it would be \"impossible\" for an AI crash not to hurt the broader market"
-    },
-    {
-      "headline": "'Super offensive' - we love how we look but AI tried to 'fix' our visible differences",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PSzBIRExkOWRrcFR2VFAzd01XUnBydEtkNGl3QkI2Y2ZWcktCX3FFQnhPNnU0SDcyLVdlYVRkN2pHRlh3VHdSdVQxRFpzczFMRFAwaXNXNDFrSW8?oc=5",
-      "pub_date": 1793254413.0,
-      "article_url": "https://www.bbc.com/news/articles/cmx28e44xxx7o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/162f/live/9c87ca10-d1fa-11f1-93e1-3b657b665bcf.jpg",
-      "description": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results."
-    },
-    {
-      "headline": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
+      "headline": "After Reinventing Mathematics, Can A.I. Eradicate Computer Bugs?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpTDJOUnI5clJaUGZhLUNGUjdZTUxFbXRfR0FvUXdoejhtcER6Unc2SG1LYWlVLW9YNmN0OEgxUF9oVGhIdEJSXzRFSFFrenFPdzRLeWFVb09RT2hMNmg3RlR0ZXotSExGYWV6Zk9WdUw4UEl5RmFUc25ydjI5Y0k?oc=5",
-      "pub_date": 1793264782.0,
-      "article_url": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Senior official at Dartmouth College resigns over AI use",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjRaamEzWUdEYkJDRTN3LXpvTmVEdHJHVjlZTTFZVTFBRHIxRHRqQUpLRmk2Qk0waHVNcDlMczYzMnowZVYyRXd5SVpudWZjU1pnR3Q4NnU3Z1B6ME9FT1dMYjJ1MWk5VFRINGZMR3ZQcGNINUFSSTlyVlBheEpzV240U2YwWXQ1MFk2RUhLemRnTFRKbUNDYXA5T3prTTJoTjRCZTNZZ25mdw?oc=5",
-      "pub_date": 1793250393.0,
-      "article_url": "https://www.washingtonpost.com/education/2026/10/28/senior-official-dartmouth-college-resigns-over-ai-use/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SEWO7DV6M4I6PEUUOBPYAFSPNY.jpg&w=1440",
-      "description": "Provost Santiago Schnell, accused of failing to disclose his use of AI in his writing, is the most prominent academic known to have stepped down over the issue."
-    },
-    {
-      "headline": "Why Wouldn\u2019t Google Tell Me Who Won the 2020 Election?",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXNPdXRQU25raWUyajg0X2pkaGN2MTBzTDdsVTVTa293d04tR2NKWkZqX3F5cWMxc0hFcUxPZzM1R1d3UXpYLTNhOGl3LUxzMzNYUHFCQW1Nd1VzRUlXUjBUYkJCYlVHSXdYRWd4c0hkUXM0Z0s0czgtenBJb2l1SDc5U3QyMkFjV0o0d0hURDBQVTRlbWc?oc=5",
-      "pub_date": 1793238240.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/10/google-search-ai-2020-election-trump/689197/",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQUV4NWdfYzdFNkVSTkJLakl2dDY1Slk1SDZ3V1NfYlVqRGJiUF9ER2hpTlBSOXkzZ056V1V0bFVNN3pMZndBbDFQYVpPUUprRWQ4YnFwLWV0SkpkMXA4MDRrSmwwZW5WUFZxS3pLeW41ZUNsZFkzUFNjV3MwQkU?oc=5",
+      "pub_date": 1793278810.0,
+      "article_url": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T15:25:39.060700+00:00"
+  "fetched_at": "2026-10-29T20:27:25.913267+00:00"
 }

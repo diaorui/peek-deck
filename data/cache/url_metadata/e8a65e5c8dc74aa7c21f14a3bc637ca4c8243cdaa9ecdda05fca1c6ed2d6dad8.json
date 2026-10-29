@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-29T20:26:52.001434+00:00",
+  "data": {
+    "url": "https://www.techspot.com/news/114351-hackers-unlock-hidden-ai-performance-nvidia-rtx-20.html",
+    "title": "Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks",
+    "description": "The limit lives in the tensor cores. When they multiply FP16 or BF16 numbers and add up the results in higher-precision FP32, GeForce cards issue those instructions...",
+    "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-27-image-3.jpg",
+    "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+    "site_name": "TechSpot",
+    "author": null,
+    "keywords": null
+  }
+}

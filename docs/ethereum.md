@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-29T15:25:40.283858+00:00'
+updated: '2026-10-29T20:27:27.852561+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 29, 2026 at 15:25 UTC  
+**Last Updated:** October 29, 2026 at 20:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,345.87
+### $2,334.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -1.2%  
-**30d:** -12.2%  
-**90d:** +27.9%  
-**1y:** -38.0%  
+**24h:** -2.0%  
+**7d:** -2.9%  
+**30d:** -13.7%  
+**90d:** +25.7%  
+**1y:** -39.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $287.88B
+**Market Cap:** $282.74B
 Rank #2
 
 **Circulating Supply:** 122,173,130 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.4%
+-53.2%
 
 **All-Time Low:** $0.43
-+544108.8%
++534574.9%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tickets and if anyone any single being can sponser or offer me that ticket please My profile is kidna ticket less i need that ticket 😭 FYI : I am a 3rd year Computer science engineering student at Mumbai University and ofc i have too many financial constraints to afford one
 
-3d ago
+4d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 5d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 6d ago
 
 ---
 
@@ -136,7 +136,7 @@ This is a repost from yesterdays Daily for better visibility. I made a thing tha
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 6d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 7d ago
 
 ---
 
@@ -144,7 +144,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-6d ago
+7d ago
 
 ---
 
@@ -154,7 +154,15 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 **[ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards](https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards)**
 
-CoinDesk • 9h ago
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin, Ethereum Crash Alert: BTC Risks $76K as ETH Eyes $2,000](https://www.tradingview.com/news/coinpedia:c1004f5b9094b:0-bitcoin-ethereum-crash-alert-btc-risks-76k-as-eth-eyes-2-000/)**
+
+The crypto market has lost $68.75 billion in value over the past 24 hours, with its total market cap falling 2.5% to $2.75 trillion. For the past week, Bitcoin has been struggling to recover above $84,000, while Ethereum has slipped below key support.With both Bitcoin and Ethereum under pressure, a…
+
+TradingView • 8h ago
 
 ---
 
@@ -162,7 +170,7 @@ CoinDesk • 9h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 7h ago
 
 ---
 
@@ -172,15 +180,7 @@ Scott Melker breaks down the latest movements in the crypto sector, including St
 
 "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin, Ethereum Crash Alert: BTC Risks $76K as ETH Eyes $2,000](https://www.tradingview.com/news/coinpedia:c1004f5b9094b:0-bitcoin-ethereum-crash-alert-btc-risks-76k-as-eth-eyes-2-000/)**
-
-The crypto market has lost $68.75 billion in value over the past 24 hours, with its total market cap falling 2.5% to $2.75 trillion. For the past week, Bitcoin has been struggling to recover above $84,000, while Ethereum has slipped below key support.With both Bitcoin and Ethereum under pressure, a…
-
-TradingView • 3h ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -192,11 +192,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum ICO Whale: Deposits $4.99M ETH to Coinbase](https://blockchain.news/flashnews/ethereum-ico-whale-deposits-4-99m-eth-coinbase)**
+**[Ethereum Heads for Worst October Since 2018 as Early Whales Wake Up](https://beincrypto.com/ethereum-worst-october-dormant-whales/)**
 
-An Ethereum whale that acquired 40042 ETH during the 2015 ICO transferred 2118.65 ETH worth $4.993 million to Coinbase, according to @ai_9684xtpa, after...
-
-Blockchain News • 20h ago
+BeInCrypto • 12h ago
 
 ---
 
@@ -208,25 +206,27 @@ AMBCrypto • 2d ago
 
 ---
 
-**[Ethereum client security fixes leave binary users with a separate Java check](https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/)**
+**[Ethereum price thresholds at noon ET on November 2, 2026 Odds & Prediction Market Analysis](https://cryptoslate.com/predictions/market/ethereum-price-thresholds-at-noon-et-on-november-2-2026/)**
 
-Ethereum client security fixes update Teku and Besu Docker images after the eMudhra incident. Binary users need a separate Java runtime check.
+Track Ethereum price thresholds at noon ET on November 2, 2026 prediction market analysis with live Polymarket odds, probabilities, liquidity, and market.
 
-CryptoSlate • 23h ago
-
----
-
-**[Bitcoin ETFs Attract $137M as Ethereum and Solana Funds Record Outflows on October 28](https://financefeeds.com/bitcoin-etfs-attract-137m-as-ethereum-and-solana-funds-record-outflows-on-october-28/)**
-
-US spot Bitcoin ETFs took in $137.3M on October 28, led by IBIT's $136M, while Ethereum funds lost $21.4M and Solana products shed $5.7M.
-
-FinanceFeeds • 5h ago
+CryptoSlate • 18h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Rise Ahead of Fed Rate Decision: Analyst Says BTC Headed for 'New Highs'](https://www.benzinga.com/crypto/cryptocurrency/26/10/62642612/bitcoin-ethereum-xrp-dogecoin-crypto-market-recap-2)**
+**[Ethereum ICO Whale: Deposits $4.99M ETH to Coinbase](https://blockchain.news/flashnews/ethereum-ico-whale-deposits-4-99m-eth-coinbase)**
 
-Benzinga • 1d ago
+An Ethereum whale that acquired 40042 ETH during the 2015 ICO transferred 2118.65 ETH worth $4.993 million to Coinbase, according to @ai_9684xtpa, after...
+
+Blockchain News • 1d ago
+
+---
+
+**[Pendle STRCx deposits hit record $50.4 million on Ethereum](https://cryptobriefing.com/pendle-strcx-deposits-record-ethereum/)**
+
+STRCx deposits on Pendle's Ethereum markets hit a record $50.4 million as Strategy's STRC preferred stock prepares for daily dividend accruals.
+
+Crypto Briefing • 1d ago
 
 ---
 
@@ -234,13 +234,23 @@ Benzinga • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 Bitcoin Is About to Make a BIG Move... Ethereum Could EXPLODE!](https://www.youtube.com/watch?v=AfMnB6H5BH0)**
+
+Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
+
+📺 DataDash
+
+👁️ 2K • 👍 109 • 💬 4 • ⏱️ 13:32 • 4h ago
+
+---
+
 **[Uh Oh, Robinhood CEO just said this about ethereum](https://www.youtube.com/watch?v=8vTreRje-UA)**
 
 Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 2K • 💬 93 • ⏱️ 9:45 • 16h ago
+👁️ 62K • 👍 2K • 💬 83 • ⏱️ 9:45 • 21h ago
 
 ---
 
@@ -250,17 +260,7 @@ Im shocked that more people even over the last few years of being in the cryptoc
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 517 • 💬 75 • ⏱️ 30:56 • 4h ago
-
----
-
-**[BitMine is closing in on owning 5% of all Ethereum.](https://www.youtube.com/watch?v=AMKQNSYTgUY)**
-
-BitMine says it is weeks away from owning 5 percent of all Ethereum, a target no single company has approached before. Strategy ...
-
-📺 Yahoo Finance
-
-👁️ 23K • 👍 265 • 💬 144 • ⏱️ 14:51 • 2d ago
+👁️ 9K • 👍 641 • 💬 206 • ⏱️ 30:56 • 9h ago
 
 ---
 
@@ -270,7 +270,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 172 • 💬 6 • ⏱️ 7:46 • 13h ago
+👁️ 7K • 👍 190 • 💬 6 • ⏱️ 7:46 • 18h ago
 
 ---
 
@@ -280,17 +280,7 @@ Is Ethereum undervalued or falling behind? OpenAI's “ETH is false” announcem
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 56 • 💬 3 • ⏱️ 9:20 • 1d ago
-
----
-
-**[ETH HOLDERS: The Biggest Company Buyer Of ETH Is Almost Done Stacking. Who Holds Up Your FLOOR?](https://www.youtube.com/watch?v=nEeO1P1lNGE)**
-
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/ded7dc93 Connect With Us: Email: Team@bullrunners.com ...
-
-📺 BULLRUNNERS
-
-👁️ 2K • 👍 10 • 💬 1 • ⏱️ 11:35 • 2d ago
+👁️ 3K • 👍 57 • 💬 3 • ⏱️ 9:20 • 1d ago
 
 ---
 
@@ -304,13 +294,33 @@ Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get 
 
 ---
 
+**[Bitcoin Bounce at $80K? BTC, ETH &amp; XRP Price Update](https://www.youtube.com/watch?v=xGeXlMdzik4)**
+
+Bitcoin's $85K test: my BTC price analysis, Ethereum outlook and XRP chart update for October 28, 2026. I break down Bitcoin ...
+
+📺 YaBoySkey
+
+👁️ 962 • 👍 25 • 💬 4 • ⏱️ 7:11 • 19h ago
+
+---
+
 **[⚠️ Ethereum ETFs Still Selling - ETH Crypto Analysis](https://www.youtube.com/watch?v=QCptec2hKQ0)**
 
 Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Software: ...
 
 📺 Bitcoin Strategy
 
-👁️ 2K • 👍 36 • 💬 19 • ⏱️ 10:06 • 1d ago
+👁️ 2K • 👍 41 • 💬 19 • ⏱️ 10:06 • 1d ago
+
+---
+
+**[🏛️ Wall St HYPE: ICE + Druckenmiller + trade[XYZ]: What It Means for Crypto 🚀](https://www.youtube.com/watch?v=7cW_pqYiCYc)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 2K • 30m ago
 
 ---
 
@@ -320,17 +330,7 @@ Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates
 
 📺 Dr. Samuel Allen Alexander
 
-👁️ 50K • 👍 558 • 💬 239 • ⏱️ 34:10 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=-Xj6GkF5gzw)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 112 • 👍 19 • ⏱️ 5:32 • 50m ago
+👁️ 51K • 👍 566 • 💬 241 • ⏱️ 34:10 • 2d ago
 
 ---
 

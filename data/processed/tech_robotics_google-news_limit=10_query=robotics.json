@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1uODNBTHNBOE5uNEJjQndCY1dqZkc3RGkxcVY5NHNuSzh1Nm1UbTZMSGVCdmhSaHBicTctdkUzd2gxTzZyWnJ3bkEteVlXeUFmRW5GX3FPbHJ6R05paGZjTk5PWHFpWWhrX1dCYm5uQjkzLWtTM0duNDhyVHlmRkxxNXpZLUIyUVNKalVOR3ljSVNBbGVmMDl0dDlQLW1fTFlUVlNidTRDV214czhF0gG0AUFVX3lxTE5xbXBvd3A3dU5MRklvQnBWV0k2RVNPcU1lRDdGLUFTbEp3QlZWVEcwWk5pTnRwWExqRTZfbWhnanNhbDB5dVRkVUxNVHNJYzl3U2NiaHZlNEdPTDRMNnl4bk5ZcHlGOXVRakFtdXlGSjNjcl9JVUVhTlM2Q0ZXT203VlZraWFPNzlqRnhCRHRXYVJGYUVnelM5em1OLVpuQXpaX0Fza3BvQy1UalhZZVNOTk9rRQ?oc=5",
+      "pub_date": 1793049747.0,
+      "article_url": "https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330",
+      "image": "https://i.abcnewsfe.com/a/fbe5ef73-2312-4f94-aa20-a01d4315953b/AdventHealth-ht-er-261026_1793031672199_hpMain_16x9.jpg?w=1600",
+      "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
+    },
+    {
       "headline": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
       "source": "Google Cloud",
       "source_url": "https://cloud.google.com",
@@ -13,16 +23,6 @@
       "article_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud",
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/gemini-robotics-2__blog__cover.width-2200..max-2200x2200.png",
       "description": "Discover how Gemini Robotics Embodied Reasoning 2 on Google Cloud brings advanced spatial-temporal reasoning and physical AI to enterprise robotics."
-    },
-    {
-      "headline": "Foundry Robotics Raises $100 Million Series A to Build America\u2019s First Autonomous Factory for Assembly",
-      "source": "Business Wire",
-      "source_url": "https://www.businesswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeGx5NWJmbktHMndxNWpUYUZETkVpUkJYSmVqVzNNTE5iVGZYT0M1QVZsUHg3eWQ4eVQ4bmpsa2ZKRHB5UHRQeHRUUkIxLXFpSF9OVU9yZDhoQUNqOFJUVTJERHplZ2FfUnVuRXNWc2ZRLUttM2VNOHN3SzhzQnJGVENWeWZMa3JuZVhhQzQtZDM1M2xKMFEyeTU1N295UWhWZkplTGgtOGw0UHRFbXpLeTlweURSckE3MXlsMzB0My04YnlOeUtMMzg0ZDk2bTVuTTJoaElkNVBoZVZZNlkxTlprZXlVSHRnUklJVVhodHVmQQ?oc=5",
-      "pub_date": 1793199600.0,
-      "article_url": "https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Trump Delays Robotics, Machinery Tariffs in Favor of More Talks",
@@ -45,16 +45,6 @@
       "description": null
     },
     {
-      "headline": "Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXpxN01ScDdpRFV5cUdfdXcxVGVqXzZPZEp6cHI1Q293eDRLak92TTQtZHZJM3ZBMFdnVDFCV1ZKQ3hWVXh0ckpmRnVhSUs2b2xWcjhGTV83c2hTZkh0TDVleTVyYTFFTWUwU2FLcHVuWFpEMl9jMkFlWjBhOWFhU1dSUml4ckdBcW1IbGRDeE1VRlBjeF9OaVJFS3NGQS1qdnFIc0IyUTdzZmRBTk1KQTdYSDBJVmUyNk9zZXFrSQ?oc=5",
-      "pub_date": 1793129709.0,
-      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg",
-      "description": "Spacewalking tools and a pair of robotics jobs topped Tuesday\u2019s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear."
-    },
-    {
       "headline": "Unitree's quarterly revenue surges 70% in test for China's robotics sector",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -75,6 +65,26 @@
       "description": null
     },
     {
+      "headline": "How Edge AI Helps Humanoid Robots React Faster Than a Central GPU",
+      "source": "EE Times",
+      "source_url": "https://www.eetimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajM2bkl2OHJHX1FOal82MVg0dWlWcHkzMzlSbE5nSEFsclIwZ2JUTnlLUTlkdUs4OVFoUHNheWQ3SnR4YnEyTGY1UGNBcE1sNjlPLXFkMFAzZDNyYk5RbXZpZVpJbXR3S2VwNDF2RmtZbnNBWkUzZ1llTWQ0Z1lDelVRbXg3Zng1STQtT1MtTWFBTmFRQmdrRWhBYzllSmFEMldUcjJDMS0?oc=5",
+      "pub_date": 1793274559.0,
+      "article_url": "https://www.eetimes.com/stmicroelectronics-weighs-developing-more-powerful-mcus-mpus-for-humanoid-robots/",
+      "image": "https://www.eetimes.com/wp-content/uploads/lagasca_1200x1200.jpg?resize=1200,675",
+      "description": "STMicroelectronics weighs more powerful chips for humanoid robots as edge AI, safety, and hardware integration shape development."
+    },
+    {
+      "headline": "Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXpxN01ScDdpRFV5cUdfdXcxVGVqXzZPZEp6cHI1Q293eDRLak92TTQtZHZJM3ZBMFdnVDFCV1ZKQ3hWVXh0ckpmRnVhSUs2b2xWcjhGTV83c2hTZkh0TDVleTVyYTFFTWUwU2FLcHVuWFpEMl9jMkFlWjBhOWFhU1dSUml4ckdBcW1IbGRDeE1VRlBjeF9OaVJFS3NGQS1qdnFIc0IyUTdzZmRBTk1KQTdYSDBJVmUyNk9zZXFrSQ?oc=5",
+      "pub_date": 1793129709.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg",
+      "description": "Spacewalking tools and a pair of robotics jobs topped Tuesday\u2019s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear."
+    },
+    {
       "headline": "Here's how humanoid robots could fit into the future of defense, society",
       "source": "KSL News",
       "source_url": "https://www.ksl.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.foxnews.com/video/6407551239112",
       "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/941a4118-d534-476f-a9c3-b563de132551/17dad2b1-00b1-4f1e-8881-31a28035e7ee/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
       "description": "Gecko Robotics co-founder and CEO Jake Loosararian joins \u2018America Reports\u2019 to discuss the company\u2019s expanding partnership with the U.S. Navy to modernize ship maintenance and strengthen defense manufacturing."
-    },
-    {
-      "headline": "Exclusive: Rendezvous Robotics Raises $20M to Develop Self-Assembling Spacecraft",
-      "source": "Payload Space",
-      "source_url": "https://payloadspace.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUhqTkptdnNrY3JIbEIwLTJmWkhEM3g1enNjazJJRlFRTm9hYlNYcWR1bjVaRDdlQTlYcm9zTnZJMk55OTBXb0VRQm9uMXpTS1A0QzI2YmhkUTVEVi1uMkgxNktHaGZCU0JObjA2WG9sU3pmYTlDRkZKbTY4WGtoeTVRaGUzcWJScmcyWTNzRXRmaHd0c19EaVBmdTQ2VlE4aVlvZUhpOA?oc=5",
-      "pub_date": 1793192683.0,
-      "article_url": "https://payloadspace.com/exclusive-rendezvous-robotics-raises-20m-to-develop-self-assembling-spacecraft/",
-      "image": "https://payloadspace.com/wp-content/uploads/2026/10/hero.jpeg",
-      "description": "Rendezvous Robotics is developing technology to allow future satellites to launch in pieces that can self-assemble in space."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T15:25:27.380549+00:00"
+  "fetched_at": "2026-10-29T20:27:13.144517+00:00"
 }
