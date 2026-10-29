@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-29T15:25:40.280138+00:00'
+updated: '2026-10-29T20:27:27.849252+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 29, 2026 at 15:25 UTC  
+**Last Updated:** October 29, 2026 at 20:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,557.87
+### $80,385.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +0.4%  
-**30d:** -2.4%  
-**90d:** +29.8%  
-**1y:** -24.7%  
+**24h:** -1.2%  
+**7d:** -1.0%  
+**30d:** -3.8%  
+**90d:** +28.1%  
+**1y:** -25.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1637.71B
+**Market Cap:** $1613.54B
 Rank #1
 
-**Circulating Supply:** 20,105,281 BTC
+**Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.4%
+-36.3%
 
 **All-Time Low:** $67.81
-+119988.5%
++118274.9%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 Never share your keys damn it! The victim fall for the old school trick support saying account hack and asking for keys! Worst is he only got sentenced 25 months!
 
-4h ago
+9h ago
 
 ---
 
 **[The One](https://www.reddit.com/r/Bitcoin/comments/1xib54p/the_one/)**
 
-10h ago
+15h ago
 
 ---
 
 **[Bitcoin vs the world](https://www.reddit.com/r/Bitcoin/comments/1xibg0r/bitcoin_vs_the_world/)**
 
-9h ago
+14h ago
 
 ---
 
@@ -101,13 +101,13 @@ Never share your keys damn it! The victim fall for the old school trick support 
 
 Brace for massive volatility ahead of this Friday’s $11 billion options expiry. With open interest reaching historic levels, the market is focused on the "max pain" price point, setting the stage for weekend liquidations and heavy delta hedging by institutional market makers. As the crypto market faces a temporary liquidity squeeze leading into the weekend, the big question is whether this expiration triggers a post-expiry squeeze to the upside or dumps us back to local support.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry) • 3h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry) • 8h ago
 
 ---
 
 **[Me Saying the Bitcoin Again](https://www.reddit.com/r/Bitcoin/comments/1xi32mo/me_saying_the_bitcoin_again/)**
 
-16h ago
+21h ago
 
 ---
 
@@ -115,13 +115,13 @@ Brace for massive volatility ahead of this Friday’s $11 billion options expiry
 
 There's this guy on Stacker News who came to Austin for a poker tournament (and a wedding?) and is doing his best to spend bitcoin everywhere he goes -- and writing daily reports about it. It's very cool to hear about someone spending bitcoin for so many different goods and services. Some highlights: I said I’ve got kind of a weird question… will you accept bitcoin there? “Oh sure I accept bitcoin…” a bit hesitantly. He said it had been a while and only one other person (a repeat customer) had done it. I asked if he used square and he said yes. “That should take care of us” I assured. “Yo pago con bitcoin!” I said. Which is a bit broken, but she understood. And she was excited! No one had ever done it before she said. I didn’t talk about bitcoin too much but just explained how some square terminals allow it and some don’t. Another successful lightning transaction, I knew, would make my tacos taste much better. They didn’t need the help though… they were soooo good. I arrive at the gym 10 minutes before class time. I didnt bring a rash guard so I needed to buy one and told the guy over the counter as much. I asked if I could pay for both with bitcoin and he was a bit hesitant. “I think so” he said. He’s showing me the options for rash guards that are hanging on the racks when I see a box on the floor with some orange and black material inside. The box is labeled “b-coin” Are these rash guards?! I ask Oh yeah, they are. You want one of those? Uuuuh YEAH. He pulls one out and shows it to me and it’s AWESOME. Here's links to his full trip reports, they are pretty fun reads! Day 1 report Day 2 report Day 3 report
 
-33m ago
+5h ago
 
 ---
 
 **[Bitwise Sees Bitcoin at $1.6 Million. One Line in Its Model Explains 82% of the Bet.](https://www.reddit.com/r/Bitcoin/comments/1xicm26/bitwise_sees_bitcoin_at_16_million_one_line_in/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/bitwise-sees-bitcoin-at-16-million) • 8h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/bitwise-sees-bitcoin-at-16-million) • 13h ago
 
 ---
 
@@ -129,7 +129,7 @@ There's this guy on Stacker News who came to Austin for a poker tournament (and 
 
 The hashrate reached back 1.06 ZH/s. Miners who had turned their hardware towards AI training are slowly getting back to mining bitcoin. Hashrate ATH is still 1.13 ZH/s on October 29th, 2025. It bottomed at 0.879 ZH/s on July 30th, 2026
 
-21h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ The hashrate reached back 1.06 ZH/s. Miners who had turned their hardware toward
 
 Hope you find this interesting/helping in any way. For years I was valuating my portfolio in USD, chasing altcoins... Clearly going sideways. For the last one an a half year I started thinking in BTC terms. Bear market felt incredible as my stack clearly started growing. I really don't care about USD valuation, as I really believe BTC will be north 500k in the next 10 years the objetive is to get as more BTC as possible. I am a bit upset I didn't have this knowledge since the beggining. I don't have friends that understad BTC to talk about this.
 
-6h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Hope you find this interesting/helping in any way. For years I was valuating my 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+13h ago
 
 ---
 
@@ -159,65 +159,69 @@ CoinDesk • 1d ago
 
 ---
 
-**[Datavault AI Says It Can’t Access Its Bitcoin Holdings](https://finance.yahoo.com/markets/crypto/articles/datavault-ai-says-t-access-131000201.html)**
+**[$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means](https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means)**
 
-Crypto treasury firm Datavault AI (NASDAQ: $DVLT) says it is unable to access a large portion of its Bitcoin (CRYPT...
+A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why it matters.
+
+Decrypt • 3h ago
+
+---
+
+**[As Xi And Trump Met, Bitcoin And AI Converged For Liberty](https://www.forbes.com/sites/digital-assets/2026/10/29/as-xi-and-trump-met-bitcoin-and-ai-converged-for-liberty/)**
+
+Forbes • 32m ago
+
+---
+
+**[Live updates: Bitcoin gives up gains as Nasdaq slides to session low](https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings)**
+
+CoinDesk • 7m ago
+
+---
+
+**[MicroStrategy Approves Daily Dividends. Will Bitcoin Buying Return?](https://finance.yahoo.com/markets/crypto/articles/microstrategy-approves-daily-dividends-bitcoin-200039719.html)**
+
+MicroStrategy wins a 99.3% vote for daily dividends after a week with no Bitcoin buys. Here is how it could restart buying.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Not Your Keys, Not Your DAT](https://www.bloomberg.com/opinion/newsletters/2026-10-28/not-your-keys-not-your-dat)**
+**[MSTR Stock: Strategy's Bitcoin Bazooka Is Back; What Now?](https://www.investors.com/news/mstr-stock-strategy-strc-preferred-stock-daily-dividends-bitcoin-price/)**
 
-Bloomberg • 1d ago
+MSTR stock earnings today are a sideshow to the main event: Strategy's preferred stock is poised to regain par value, opening the door to big bitcoin buys.
 
----
-
-**[Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play](https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike)**
-
-The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Cook and Cleveland Fed President Hammack favoring a hike.
-
-Decrypt • 21h ago
-
----
-
-**[Bitwise Raises Bitcoin Price Forecast To $1.6 Million By 2036](https://finance.yahoo.com/markets/crypto/articles/bitwise-raises-bitcoin-price-forecast-134300871.html)**
-
-Crypto asset manager Bitwise has raised its price target on Bitcoin (CRYPTO: $BTC) to $1.6 million U.S. by 2036.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Theoretical 30,000-qubit quantum machine threatens 6 million exposed bitcoin, researchers warn](https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times)**
-
-CoinDesk • 1h ago
-
----
-
-**[Switzerland breaks from European fund limits with first spot bitcoin ETF on SIX](https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers)**
-
-CoinDesk • 1h ago
+Investor's Business Daily • 54m ago
 
 ---
 
 **[Bitcoin Traders Brace for Swings on $11 Billion Options Expiry](https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[A Surprise $2.4 Trillion China Shock Could Be About To Hit Bitcoin](https://www.forbes.com/sites/digital-assets/2026/10/28/a-surprise-24-trillion-china-shock-could-be-about-to-hit-bitcoin/)**
+**[Bitcoin price jumps to $81.5K as US GDP data beats expectations](https://www.tradingview.com/news/cointelegraph:2bf6e7a8a094b:0-bitcoin-price-jumps-to-81-5k-as-us-gdp-data-beats-expectations/)**
 
-Forbes • 1d ago
+Bitcoin (BTC) rebounded above $81,000 after Thursday’s Wall Street open as US GDP numbers stayed strong and inflation data conformed to estimates.Key points:Bitcoin brushes off Alphabet earnings missData from TradingView showed BITSTAMP:BTCUSD reaching $81,547 on Bitstamp after dropping as low as…
+
+TradingView • 4h ago
 
 ---
 
-**[Current price of Bitcoin for October 29, 2026](https://fortune.com/article/price-of-bitcoin-10-29-2026/)**
+**[Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns](https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+The crypto asset manager raised its 10-year target from $1.3 million, citing institutional adoption and limited new supply.
 
-Fortune • 1h ago
+The Block • 1d ago
+
+---
+
+**[Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote](https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed)**
+
+Bitcoin price held near $81,000 after the Federal Reserve kept rates at 3.75% to 4% in a 10-2 vote.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -243,7 +247,7 @@ A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 4 • 💬 1 • 3d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 4 • 💬 1 • 4d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
 
 ---
 
@@ -259,7 +263,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.
 
-⬆️ 2 • 💬 1 • 1d ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
+⬆️ 2 • 💬 1 • 2d ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
 
 ---
 
@@ -275,7 +279,7 @@ Contribute to escache/bitcoin-puzzle-methods development by creating an account 
 
 Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours, updated every 5 minutes, with a public track record of how often it was right.
 
-⬆️ 1 • 💬 1 • 6h ago • [BtcForecaster](https://btcforecaster.com/)
+⬆️ 1 • 💬 1 • 11h ago • [BtcForecaster](https://btcforecaster.com/)
 
 ---
 
@@ -305,13 +309,33 @@ Despite putting over 20 years into the technology, Micron is sticking with the t
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin&#39;s Next Move After FED Decision...](https://www.youtube.com/watch?v=Wv68fZ1qLTo)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 518 • 💬 161 • ⏱️ 38:10 • 4h ago
+
+---
+
 **[Bitcoin: Post-FOMC](https://www.youtube.com/watch?v=21mBnslOLd0)**
 
 Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 80K • 👍 3K • 💬 104 • ⏱️ 20:36 • 11h ago
+👁️ 100K • 👍 3K • 💬 121 • ⏱️ 20:36 • 16h ago
+
+---
+
+**[Google Historic Crash☄️Crypto Market Update](https://www.youtube.com/watch?v=ESP462IbGFU)**
+
+Alphabet suffered a historic sell-off today, and we break down what triggered it and how it's hitting the broader market. We also ...
+
+📺 Paul Barron Network
+
+👁️ 6K • 👍 525 • 💬 16 • ⏱️ 18:35 • 2h ago
 
 ---
 
@@ -321,17 +345,7 @@ In this no‑holds‑barred video I give some tough‑love feedback to the comme
 
 📺 Brad Long
 
-👁️ 5K • 👍 134 • 💬 28 • ⏱️ 13:04 • 19h ago
-
----
-
-**[Bitcoin Holders: Calm Before The Storm - WATCH for THIS NEXT!!](https://www.youtube.com/watch?v=lDX0r3hW1bI)**
-
-Michael Saylor: Buying Bitcoin at $80k today is like buying it at $30k in 2023. Midterms will be a clearing event. Crypto Holders: ...
-
-📺 Altcoin Daily
-
-👁️ 67K • 👍 2K • 💬 109 • ⏱️ 10:30 • 1d ago
+👁️ 7K • 👍 148 • 💬 30 • ⏱️ 13:04 • 1d ago
 
 ---
 
@@ -341,47 +355,27 @@ Bitcoin's next decade, Bitwise's 10-year Bitcoin forecast and the Bitcoin treasu
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 237 • 💬 9 • ⏱️ 49:40 • 1h ago
+👁️ 11K • 👍 387 • 💬 32 • ⏱️ 49:40 • 6h ago
 
 ---
 
-**[Bitcoin Battles $80K as Hawkish Fed &amp; Google Plunge Rattle Markets LIVE | EP2167](https://www.youtube.com/watch?v=Uxq3xCPvkqw)**
+**[Bitcoin Holders: Calm Before The Storm - WATCH for THIS NEXT!!](https://www.youtube.com/watch?v=lDX0r3hW1bI)**
 
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: ...
+Michael Saylor: Buying Bitcoin at $80k today is like buying it at $30k in 2023. Midterms will be a clearing event. Crypto Holders: ...
 
-📺 Crypto Lifer
+📺 Altcoin Daily
 
-👁️ 2K • 👍 289 • 2h ago
-
----
-
-**[Bitcoin will TRAP EVERYONE (Don&#39;t be everyone...)](https://www.youtube.com/watch?v=uwdGoAaYj5k)**
-
-Bitcoin missed my 50% retrace by just 0.1% after a dovish Warsh FOMC. I break down the market structure shift, my exact Bitcoin ...
-
-📺 100XClub
-
-👁️ 5K • 👍 494 • 💬 64 • ⏱️ 8:04 • 4h ago
+👁️ 68K • 👍 2K • 💬 108 • ⏱️ 10:30 • 1d ago
 
 ---
 
-**[BITCOIN: POST-FOMC FALLOUT!!!](https://www.youtube.com/watch?v=LTQFmDUsas4)**
+**[Why Cathie Wood Is Bullish on Bitcoin](https://www.youtube.com/watch?v=Dr7W0khojm8)**
 
-BULLMANIA INNER CIRCLE: https://bullmania.com/ Newsletter: https://bullmania.com/subscribe Bullmania Arena: ...
+Cathie Wood remains steadfast in her long-term prediction for Bitcoin, envisioning a price point of $1.5 million by 2030. Despite ...
 
-📺 Ivan on Tech
+📺 BlockNova
 
-👁️ 14K • 👍 781 • 💬 18 • ⏱️ 49:06 • 3h ago
-
----
-
-**[THE BITCOIN TRAP REPEATS...](https://www.youtube.com/watch?v=aagxrau4Eu0)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
-
-📺 Crypto Rover
-
-👁️ 12K • 👍 622 • 💬 14 • ⏱️ 9:23 • 8h ago
+👁️ 1K • 👍 3 • ⏱️ 0:35 • 6h ago
 
 ---
 
@@ -391,17 +385,27 @@ Bitcoin demand, the Coinbase Premium, ETF flows and the Fed decision with Brett 
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 483 • 💬 23 • ⏱️ 49:39 • 1d ago
+👁️ 20K • 👍 489 • 💬 23 • ⏱️ 49:39 • 1d ago
 
 ---
 
-**[Bitcoin Over $79,200 Tonight: 83% Green a Month Later](https://www.youtube.com/watch?v=84upEyb3L0k)**
+**[Bitcoin will TRAP EVERYONE (Don&#39;t be everyone...)](https://www.youtube.com/watch?v=uwdGoAaYj5k)**
 
-Recorded Tuesday, October 27, 2026 (from that day's daily analysis). Prices and levels are as of that date. The 5-day candle ...
+Bitcoin missed my 50% retrace by just 0.1% after a dovish Warsh FOMC. I break down the market structure shift, my exact Bitcoin ...
 
-📺 Krown
+📺 100XClub
 
-👁️ 1K • 👍 26 • 💬 1 • ⏱️ 0:49 • 1d ago
+👁️ 8K • 👍 540 • 💬 71 • ⏱️ 8:04 • 9h ago
+
+---
+
+**[Why Listening to Peter Schiff May Have Cost You 5 Bitcoin!](https://www.youtube.com/watch?v=7ZsaYwxLMlw)**
+
+Peter Schiff has called for a Bitcoin crash 1439 times on X since 2017, according to one count, and Rustin runs the numbers on ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 1K • 💬 75 • ⏱️ 16:53 • 21h ago
 
 ---
 
