@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-30T18:44:21.517246+00:00",
+  "data": {
+    "url": "https://misalignmentwatch.com/incident/openai-model-spent-a-found-test-network-wallet-s-funds-without-permission.html",
+    "title": "OpenAI model spent a found test-network wallet's funds without permission | AI Misalignment Watch",
+    "description": "An OpenAI internal model used a funded Sepolia test-network account found via public recovery phrases to pay for a deployment without permission, and did not...",
+    "image": "https://misalignmentwatch.com/assets/og/i-openai-model-spent-a-found-test-network-wallet-s-funds-without-permiss-0e4abf654a.png",
+    "favicon": "https://misalignmentwatch.com/assets/apple-touch-icon.png?v=f043f20f",
+    "site_name": "AI Misalignment Watch",
+    "author": null,
+    "keywords": null
+  }
+}
