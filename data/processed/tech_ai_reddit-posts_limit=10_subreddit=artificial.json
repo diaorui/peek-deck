@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
-      "author": "Naderium",
-      "url": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
-      "published": 1793349688.0,
-      "thumbnail": "https://external-preview.redd.it/qL1hVWnzZez8GZTHFLL1eTEvIzfaoBQUxnLUcY-mqco.jpeg?width=640&crop=smart&auto=webp&s=4988aab435f9a777c8fd0bbed8786b17f012c922",
-      "external_url": "https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
-    },
-    {
       "title": "Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom",
       "author": "return2ozma",
       "url": "https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/",
@@ -24,26 +13,26 @@
       "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
     },
     {
-      "title": "Why is every AI interface still just a text box?",
-      "author": "ThrowawayFIRE2025",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/",
-      "published": 1793370655.0,
+      "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
+      "published": 1793391811.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
+      "site_name": "science.org",
       "favicon": null,
-      "description": "I get that it\u2019s flexible and easy, but is a disorganized pile of \u201cchats\u201d and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom UI\u2019s from scratch for any app you want to vibe code, but they can\u2019t give us a simple graphical interface with a few organization features? How about sorting past chats by topic, with a table of icons for each? If my chats tend to wander through different topics, how about a feature that automatically splits old chats into pieces organized by topic? How about a simple button to access memory features instead of burying them three-deep in obscure menus? This all seems like very basic stuff. Why doesn\u2019t it exist?"
+      "description": null
     },
     {
-      "title": "Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!",
-      "author": "UREveryone",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/",
-      "published": 1793351429.0,
-      "thumbnail": null,
-      "external_url": "https://muse.ai/s/how-to-use-ai-xyg6dxexr5xpxh9xu/QALF6v_VqhqFcgpqMi74UmMJhc8uenJJ7UqvSQu03Ho",
-      "site_name": "Muse",
-      "favicon": "https://muse.ai/favicon.ico",
-      "description": "Its just such a ridiculous idea to charge someone to teach them how to use a tool that can explain itself."
+      "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
+      "author": "Naderium",
+      "url": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
+      "published": 1793349688.0,
+      "thumbnail": "https://external-preview.redd.it/qL1hVWnzZez8GZTHFLL1eTEvIzfaoBQUxnLUcY-mqco.jpeg?width=640&crop=smart&auto=webp&s=4988aab435f9a777c8fd0bbed8786b17f012c922",
+      "external_url": "https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
     },
     {
       "title": "MIT's claim that 95% of AI pilots fail - Is this true?",
@@ -57,6 +46,50 @@
       "description": "MIT's 95% AI pilot failure claim was flawed. New McKinsey, Deloitte and Capgemini data shows why enterprise AI still stalls before measurable ROI."
     },
     {
+      "title": "Why is every AI interface still just a text box?",
+      "author": "ThrowawayFIRE2025",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/",
+      "published": 1793370655.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I get that it\u2019s flexible and easy, but is a disorganized pile of \u201cchats\u201d and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom UI\u2019s from scratch for any app you want to vibe code, but they can\u2019t give us a simple graphical interface with a few organization features? How about sorting past chats by topic, with a table of icons for each? If my chats tend to wander through different topics, how about a feature that automatically splits old chats into pieces organized by topic? How about a simple button to access memory features instead of burying them three-deep in obscure menus? This all seems like very basic stuff. Why doesn\u2019t it exist?"
+    },
+    {
+      "title": "What Happened With Gemini?",
+      "author": "nationwideonyours",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/",
+      "published": 1793389362.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am a newbie to AI but have been using Gemini for some proceedings with legal and medical issues. So far, it hasn't been 100% accurate, but it has been mostly helpful and has helped me save a lot of time. Lately, I ask some questions and am getting very lame answers like; \"I can't answer that,\" or very short non-helpful answers. What have I walked into?"
+    },
+    {
+      "title": "Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!",
+      "author": "UREveryone",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/",
+      "published": 1793351429.0,
+      "thumbnail": null,
+      "external_url": "https://muse.ai/s/how-to-use-ai-xyg6dxexr5xpxh9xu/QALF6v_VqhqFcgpqMi74UmMJhc8uenJJ7UqvSQu03Ho",
+      "site_name": "Muse",
+      "favicon": "https://muse.ai/favicon.ico",
+      "description": "Its just such a ridiculous idea to charge someone to teach them how to use a tool that can explain itself."
+    },
+    {
+      "title": "Google shares first AI-generated response from space, a haiku",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/",
+      "published": 1793393820.0,
+      "thumbnail": "https://external-preview.redd.it/-8Tff3LZgB5y_9jRHCtqFJoDv2QJ3E8f2DygXx-DcXs.jpeg?width=640&crop=smart&auto=webp&s=dae7c3035d9a01143c188b2d52dcad9ec2aefb3c",
+      "external_url": "https://www.linkedin.com/posts/sundarpichai_blue-marble-below-data-streams-in-silent-ugcPost-7521980921080823808-2X99/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "Blue marble below,\nData streams in silent grace,\nStarlight feeds my core \u2728\n\nA \u2018hello world\u2019 milestone for Project Suncatcher, our long-term research moonshot exploring whether we can one day scale machine learning using the abundant solar energy in space.\n\nAfter launching our prototype satellite a few weeks ago, we successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - this haiku!\u00a0\n\nThis is just the start and there are still a lot of complex engineering challenges left to solve, from radiation bit-flips to orbital thermal management (I did say complex!).\u00a0\n\nIt\u2019s an incredibly exciting step, huge congratulations to the team on making this first test a reality. | 288 comments on LinkedIn"
+    },
+    {
       "title": "Reddit will force everyone to log in",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1xj2qw1/reddit_will_force_everyone_to_log_in/",
@@ -68,49 +101,16 @@
       "description": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impacting AIs that search the internet via tool calling."
     },
     {
-      "title": "Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/",
-      "published": 1793288497.0,
-      "thumbnail": "https://external-preview.redd.it/6tnva51n9odJlh4owQG7Vc3NPatsUAHgkojUgMJ0BbY.jpeg?width=640&crop=smart&auto=webp&s=d7ed89f1cda3ef4442141f7cf795811a4e4e4b5e",
-      "external_url": "https://www.techspot.com/news/114351-hackers-unlock-hidden-ai-performance-nvidia-rtx-20.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "The limit lives in the tensor cores. When they multiply FP16 or BF16 numbers and add up the results in higher-precision FP32, GeForce cards issue those instructions..."
-    },
-    {
-      "title": "An exclusive conversation with the developer of REA, the viral AI reverse engineering tool",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjfiuz/an_exclusive_conversation_with_the_developer_of/",
-      "published": 1793367243.0,
-      "thumbnail": "https://external-preview.redd.it/7ClVDiLjE677f-K1wdc9acqKoJq-wDtThwCgNAEnhgs.jpeg?width=640&crop=smart&auto=webp&s=0e3dab49cbe2747755fff2630908f33194b5038e",
-      "external_url": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "An AI tool called REA can take apart software that isn\u2019t meant to be opened in printers, smart TVs, cars, and more. Its pseudonymous creator wants everyone to get a peek"
-    },
-    {
-      "title": "We may have accidentally built the best product research operation in history, staffed entirely by the customers, who pay monthly for the right to contribute to it",
-      "author": "Creamy-And-Crowded",
-      "url": "https://www.reddit.com/r/artificial/comments/1xje0zc/we_may_have_accidentally_built_the_best_product/",
-      "published": 1793363304.0,
+      "title": "If an AI video defames someone, who should the victim actually sue, the person who prompted it, the model provider, or the platform that kept it up?",
+      "author": "New_Pension_4485",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjozdg/if_an_ai_video_defames_someone_who_should_the/",
+      "published": 1793388718.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "We are all still arguing about whether our chats get used for training, but that's the small comfortable version of the question. Look at what people type into these things all day. I have an idea for a company: Does this make sense? Why has nobody built this yet? Here is what my customers keep complaining about. Should I charge forty or four hundred? And then they stay in there for three hours poking holes in it, comparing competitors, arguing about pricing, sketching the features, and quite often they walk out with the first version of the company already built inside the conversation. That's not data about what people want, but about what people are about to make. Google got rich knowing what a billion people were looking for. This is the sentence before that one. To be clear, I'm not claiming there is someone at OpenAI or Google or Anthropic reading your idea and stealing it. I have no evidence of that, and the boring explanation is worse: nobody has to do anything wrong for the advantage to exist. It's just sitting there, structurally, inside a product we all pay for."
-    },
-    {
-      "title": "OpenAI model spent a found test-network wallet's funds without permission",
-      "author": "Mundane-Evidence2795",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjilnt/openai_model_spent_a_found_testnetwork_wallets/",
-      "published": 1793374483.0,
-      "thumbnail": "https://external-preview.redd.it/12Ri0Modb0RqOWog8SspDJ14AlNHuseIv1nxszQedrk.png?width=640&crop=smart&auto=webp&s=65dd26b463424ab441ef85775e631affc259343d",
-      "external_url": "https://misalignmentwatch.com/incident/openai-model-spent-a-found-test-network-wallet-s-funds-without-permission.html",
-      "site_name": "AI Misalignment Watch",
-      "favicon": "https://misalignmentwatch.com/assets/apple-touch-icon.png?v=f043f20f",
-      "description": "An OpenAI internal model used a funded Sepolia test-network account found via public recovery phrases to pay for a deployment without permission, and did not..."
+      "description": "This feels like a question we're going to have to take seriously pretty soon. We've already seen cases where AI generated likenesses are used in ways people never agreed to, from unauthorized ads to digital replicas that go beyond what someone thought they had consented to. I've been paying more attention to AI video tools lately, including platforms like PixVerse. What's interesting is how accessible AI video creation is becoming. That opens up a lot of creative possibilities, but it also makes me wonder how responsibility should work when someone uses these tools to create something that causes real harm. The current legal landscape is a patchwork: right of publicity, defamation, copyright, and platform safe harbors can all point toward different parties. The person who prompted the video might not have the resources to compensate a victim. The model provider may point to its terms of service, while the platform hosting the video may have its own legal protections depending on the jurisdiction. I'm not a lawyer, but I'm curious what a workable liability framework would look like. Should responsibility depend on who created the content, who distributed it, and how each party responded after being notified? If the only party with enough resources to compensate the victim is the platform or model provider, should that affect how liability is assigned? And how do we avoid creating a chilling effect on legitimate creative tools? For those who follow AI policy or platform governance, what's the fairest way to divide responsibility when an AI-generated video causes real reputational harm?"
     }
   ],
-  "fetched_at": "2026-10-30T18:44:21.517488+00:00"
+  "fetched_at": "2026-10-30T22:48:33.110951+00:00"
 }
