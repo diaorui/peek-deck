@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-30T13:20:53.055996+00:00",
+  "data": "Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model supporting text and image inputs with a 1M context length. It excels in instruction following, reasoning, coding, and agentic workflows, with strong performance in cybersecurity, finance, and law, and state-of-the-art visual grounding.",
+  "model_id": "mistralai/Mistral-Large-4-1T-A52B"
+}
