@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Value of Google parent Alphabet plunges by $500bn as AI fears rattle Wall Street",
+      "headline": "In China, the War on Mosquitoes Has Entered the A.I. Era",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pOExXYTZ1ZjJaSUlzX2lPaVlieXNmSjFXc2ZPNHlEa3FxbkxVYVZhaUZXdmxnNGt0d2h2VXMwbXB5VlpoRmJQX3hCTTJGMmlKMUJzWWdJVmp2czliOFdJOWYyWVFYb1YycVdXMFU1a3pxYzZL?oc=5",
+      "pub_date": 1793332872.0,
+      "article_url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
-      "pub_date": 1793312272.0,
+      "pub_date": 1793361842.0,
       "article_url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
       "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
     },
     {
-      "headline": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNNIBgAFBVV95cUxNNHc4N2kwVENwVmxsU1pPY0FkX1FDd2FlYW83MDlFd2QweG02NkdoQU5lMmZCVVh3bXhLclJzVXAxcTF5ZU5uQXAtZGp3Qy1ZdWFpWUszT1hQNXhIMVhYZFR3aXF3a0NhaUF1T05XcnNIUHVMZEVBdGpKT3NZVFI1WQ?oc=5",
-      "pub_date": 1793271602.0,
-      "article_url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&w=1920&h=1080",
-      "description": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business."
-    },
-    {
-      "headline": "Is AI Killing Google's Golden Goose?",
+      "headline": "Google is happy AI is cannibalizing its most profitable business",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVRSXhpZHNadnJjczFKZDQ3M3c3bTZJV1JUdTFrbGZ2SENEaUlrSkRCYVNCQzlGWVZQME1HcXlteTBPLS1WaDAyM0V1dUl6ZExYRklIQURaODlrb3NBczFLd3hhVDVKeG9reEZaekp3N0hTX05xSDJtNjRQX01KOS11bDVVaXJMbzBwNjI3bWN2N1VOemkwdmZhdno?oc=5",
-      "pub_date": 1793331300.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/ai-killing-googles-golden-goose-033502378.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3b198003ccbf534bb27601cf5687edd6c0e0e216d3f1e888a023de957ae5ca52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F7d0431986e948b3a5cc5133181377fb3.jpg",
-      "description": "Alphabet's search growth is slowing. Does it portend more trouble ahead?"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWR4SHVieFhPVGxKem9qUHk2U3hCSjQtMXdWSUZ0dGhYY0txYWxuRHR5cWpicjI5Q1YyYldXZzVoUURZMUpiUzVQQXBaRUx4dlgyY1k5ZExnTVpGYUhsdU5hbTdUanNDUHk2QnkyY3kwOXZ4ZTVUOXRneXNCaFQxQ21lTXdTMTZ0Yl92RG1iZmd6Wk02bGp5TmJOcmRTa0ZhNVNvR19TenBGVS1jZGt2QUJ2Z3pFd05MelpUMk1obUoydw?oc=5",
+      "pub_date": 1793354400.0,
+      "article_url": "https://finance.yahoo.com/technology/article/google-is-happy-ai-is-cannibalizing-its-most-profitable-business-100000654.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cda384ed8f62a62f646bb33797928bc1f7f3fcb5e6c75884fee16c39aa00f5e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Ff8832918-39f5-4366-9074-6a32c54ed6b9",
+      "description": "Google might have a clear point of view on the future of AI monetization, but the market isn't so sure."
     },
     {
-      "headline": "Gemini 4 Carbon: our next frontier model",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5",
-      "pub_date": 1793207336.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
-      "description": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities."
-    },
-    {
-      "headline": "Why isn\u2019t China\u2019s AI and tech boom saving its stock markets?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YdU1UN0YxR2F6VEtwY2NvTzBRZFNWa2U1Z2NDUkxQclRHX2NkVzZ2MExucGI5QmZuMk5ZLU0tTGNrNFoyVTFDREhDMzFYWU8wbFdfcjhUdHFYeE4xeTJkOVowRHBsTGxiTXhUMHBjaHZVTDQwZjVYQ1ozaw?oc=5",
-      "pub_date": 1793336720.0,
-      "article_url": "https://www.cnn.com/2026/10/30/markets/china-ai-stocks-selloff-intl-hnk",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295105053.jpg?c=16x9&q=w_800,c_fill",
-      "description": "The global artificial intelligence boom that has helped sustain Chinese economic momentum this year still can\u2019t offset its domestic woes, particularly in its stock market."
-    },
-    {
-      "headline": "Spotify aims to launch AI music remix service early next year",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGpPeGh3OTBZNWVib0M5MDdfRmg1eE9ndzJkVlhyendQN0hMREt6OUs1SXFrNUZfNEtsMVlxcndrS3BFdG1neUhPdi1Fd3hseDlJN0R4S0xPbmVyakVJZ0pHQXRDX2lEejBPUW9kblBjNzQ2NTNkTGlYSngxcUpDQllYRkc?oc=5",
-      "pub_date": 1793336421.0,
-      "article_url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b?syn-25a6b1a6=1",
+      "headline": "Google\u2019s $500bn bloodbath reflects the danger it faces from AI",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRkxZWHJELW1Obk50akt1TlJPX1RMVUdBVEcwMEdPOFN6dTNHQ2NTV3M4ZzJlSkx5eHNUczlhNGlUS0pIajFtU1NhOF9zNEhTVVJzNjBmb0duckV4SmtDU0xIMUdmVVZBbndRUWlmNURPa2NXX1l4V0xsbkZIS0hSNUpwZzBOX00zMXQ2cmt4NldXX1RnaVBtZ1FIbUtXQnZPRXZGeXlVcGc1dw?oc=5",
+      "pub_date": 1793317269.0,
+      "article_url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
       "image": null,
       "description": null
     },
     {
-      "headline": "Why the Internet Feels So Broken",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRmYxdFRFcTRaQk5RaUpXZjdiZnV2SzZMNFBKY0xBejRXMkxwMTdTbGNsVGo3TFI4WGdUTFhGbVFLZnRJLTBDQWd3VmlCU3FyUVJGQ19ERmJOWFVOeTUzQnFfVmdDVG5qdXQ2bDkwTmxubHRRVloyYldKcms1N2luWWxwek9NVUNmSzdoeTBpWnlIRW9YaGktOWtfSW51QVR1WFRF?oc=5",
-      "pub_date": 1793334600.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-30/how-ai-could-make-the-internet-worse-for-consumers",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3JHd09CYUlpY2ZZbFRmUGtEcXdmZWIzRUppSExxdGhkamFzWDBWTUR2RDJGNEhEOU90dXY0YnEyZDdyVDVKMmNLZm9NRlRNR2VyUUR2dTJtVEItbkxZMkwtZTN5Q3B1cEZQTDN1TnlCQjQ?oc=5",
-      "pub_date": 1793308660.0,
-      "article_url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Reddit moves to logged-in experience as AI eats search",
+      "headline": "Democrats see AI hate as winning issue heading into 2028",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BNHJVVl9KV3p1NXVpaXo1UndlYk9hSFRSYjJTMHF0QndzQVFDR1dVRlV1QXA4OTZCWkZDZGNBNnQ2QWFrVzRhc3lpeHpvQWlUR001aGdzRFBBbDJlYVNkVTMzb3FpX0YxTWYyOHRzSXJtZDg5Tm5vbg?oc=5",
-      "pub_date": 1793306271.0,
-      "article_url": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFhiOFVDb0RJTDItbk83NWozTlhRdXlmOFVjQjBiQjJReVVpYXFuaDh0bXdWcmVjX01OeVpDR3BlT1BFZ3FRdFNyeFNKY1pOT3RLbDE4V2FySnFSMDFYQUl0elJ0dlN0d3Zqc2w2NlllQ0RJTlBIVHhrTDVqUlM5M2Jn?oc=5",
+      "pub_date": 1793363587.0,
+      "article_url": "https://www.axios.com/2026/10/30/2028-democrats-ai-hate-regulation-messaging",
       "image": null,
       "description": null
     },
     {
-      "headline": "Reddit puts logged in experience first as Google AI hits traffic",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0Iwc2FJaWJ3bFdiRm1XamdXdmlIeTY5cHNmalZUQUxDQ2JPQ3hnV1JNMG9JSFU4SVdXakxSaWRrVV83anVKNDJET194MW1IMVdFZERZUHc0M1Awek5VcTJ4RDVHTkU1OEVtbDlQc3gwSXI5dEFkQ1A3cFBVZkx0NE9YblRBN2JaM0NkR2gxRkR6UEFYdlNpTmJiLTZtek5YUG5id2VfN3JqdGdiN3FUX1c0eXB2clpJYXdLVw?oc=5",
-      "pub_date": 1793317313.0,
-      "article_url": "https://www.reuters.com/technology/reddit-posts-search-traffic-declines-will-push-visitor-sign-ins-curb-data-2026-10-29/",
+      "headline": "Amazon's AI build-out just pushed its cash burn to a record: Chart of the Day",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS3ZnYlBzUUtoS19uZmZrRlRtT28tVTZybEkxVzBTNlNNX3MyMDNjRFF1b05lZzFtOVNOR05vT1RacUkwM0N5MU5MWTVwU1JVdlhvRzY1VWJ0OTZ5WHBaOW9OY2U0VEZ2bUhVSlJObzJGRkdzYzlxUy0zbTlFM09DTTRrZ1VjSE50Y1V4LXV5RmdkRXh3d3ljZlphcnpDaXRSODBTVFN6RFJHcjlXS3hudnlXaXpKbFphMEJDeVJ5MUROLU5VR2dYVEp4bHk?oc=5",
+      "pub_date": 1793359731.0,
+      "article_url": "https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/83060f11a34b1a01d71774e43e7fe3643d1585ade0cac558df2fa74a95286b57/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Faf9d2ff3-d858-4c83-b2a6-0b45b5c69db1",
+      "description": "Amazon's free cash flow fell to a record outflow of over $42 billion over the past 12 months as AI spending more than doubled."
+    },
+    {
+      "headline": "Global tech rout deepens as US earnings stoke AI spending fears",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTB4Ykd3SWFzX1I1OTJab3VCbDdLRy1IZmo4dVBNZU5CVmFqNFZxUmEtbGxBTnlYV09zUV9VYTZBUnpSU0tGQ2kySzZrVFIzUl96ZXRwZFlZQ2hsbHl4NGljX3YtYXNjbjBNeXdrN0dXdEZxZjg5NHBZNzNyTlZyNGRCWXc?oc=5",
+      "pub_date": 1793330111.0,
+      "article_url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Wall Street sell-off continues as investors question returns on massive AI spending",
+      "source": "CNN",
+      "source_url": "https://edition.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44YjVaTmpSZHM3NTRLaDRaN0tjeVM0ZTNhdG5fRGZ4YWNOTGJPaTZjVTFEdUE4WFBuZk5HbmpvMFF6a05yX04xMW1wMkwzQ3poX2o2WVFSTGZKbnFDelQwOHB5b3JXOGxJaTZHdWctcERxUTJGNUhF?oc=5",
+      "pub_date": 1793362083.0,
+      "article_url": "https://edition.cnn.com/2026/10/30/investing/us-stocks-ai-investment",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-10-28t154717z-781286972-rc2fcoai1cl0-rtrmadp-3-usa-stocks.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Wall Street braced for another steep day of losses Friday, with futures falling after the latest earnings from Big Tech reignited concerns that the massive spending on AI may not deliver the returns that investors expect."
+    },
+    {
+      "headline": "CEO Behind 'Grand Theft Auto' Says AI 'Won't Make Creating Hits Any Easier'",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUEyYzBLUFdpTFl6VnM1dVZKX05wR3VUNGFNelRMZVlyX2ZkZUV2bjNpZEVCV3BVZUFtbkN4RHNlN1lMbjdOSGNsdk5FWFRObldlQ1pYN1luN2JtdDFnbFZ4bTRlX2JOdUFnb1ZpOWxyQ1lOXzBxcEJQTjhpd1d3NzlMZjdteTZkT0JoTTZQcw?oc=5",
+      "pub_date": 1793366018.0,
+      "article_url": "https://www.businessinsider.com/ceo-grand-theft-auto-strauss-zelnick-ai-health-2026-10",
+      "image": "https://i.insider.com/6ae3e2a1911659c36c01b6f1?width=1200&format=jpeg",
+      "description": "At Business Insider's The Long Play, Strauss Zelnick, the CEO behind \"Grand Theft Auto,\" said that failures can allow companies to do their best work."
+    },
+    {
+      "headline": "Cisco is letting a 27-year-old rewrite 98% of its legacy code with unlimited AI tokens: \u2018Go nuts\u2019",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdk9VbjhTVUIwenFTWGNnR3B5RzVWX3Q3SlgtYXdLZUhuc2ltVkFWSkg5bjlaNVRNMUNYOTRvd1N6cnNabzc0TUVYTVRmTHd6MzBtUG1QcGN0bU11bFNlMWZiWmFCc183dEFVbXZ1bVRKRDRCaU9LQkpleTFWRTVHa2VHYkJXNERqLVRiLTlKaTlJTExhUUY0SXQzbXZibFJyVDVCaTIydmZmem5EYjZ1WGNGZlNyRVVUS2pLSzN0NmI5Q2R1ZTNNZVZqOHRCYzA?oc=5",
+      "pub_date": 1793347200.0,
+      "article_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270629609-e1793295597735.jpg?resize=1200,600",
+      "description": "Meet Paddy, the 27-year-old Cisco\u2019s president calls an \u201cenergizer bunny.\u201d He\u2019s been given unlimited AI tokens and told to \u201cgo nuts.\u201d"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-30T06:14:30.169587+00:00"
+  "fetched_at": "2026-10-30T13:20:51.536179+00:00"
 }
