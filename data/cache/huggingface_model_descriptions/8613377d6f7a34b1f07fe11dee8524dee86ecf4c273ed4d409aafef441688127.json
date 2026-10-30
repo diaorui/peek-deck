@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-30T00:09:03.307339+00:00",
+  "data": "Unlimited-OCR-2 is a multilingual vision-language model for unlimited-horizon document parsing, achieving state-of-the-art performance on ultra-long documents by using Sparse Reference Sliding Window Attention (SR-SWA) to maintain constant computational complexity regardless of document length.",
+  "model_id": "baidu/Unlimited-OCR-2"
+}
