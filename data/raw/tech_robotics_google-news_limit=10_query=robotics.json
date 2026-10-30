@@ -5,84 +5,44 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1uODNBTHNBOE5uNEJjQndCY1dqZkc3RGkxcVY5NHNuSzh1Nm1UbTZMSGVCdmhSaHBicTctdkUzd2gxTzZyWnJ3bkEteVlXeUFmRW5GX3FPbHJ6R05paGZjTk5PWHFpWWhrX1dCYm5uQjkzLWtTM0duNDhyVHlmRkxxNXpZLUIyUVNKalVOR3ljSVNBbGVmMDl0dDlQLW1fTFlUVlNidTRDV214czhF0gG0AUFVX3lxTE5xbXBvd3A3dU5MRklvQnBWV0k2RVNPcU1lRDdGLUFTbEp3QlZWVEcwWk5pTnRwWExqRTZfbWhnanNhbDB5dVRkVUxNVHNJYzl3U2NiaHZlNEdPTDRMNnl4bk5ZcHlGOXVRakFtdXlGSjNjcl9JVUVhTlM2Q0ZXT203VlZraWFPNzlqRnhCRHRXYVJGYUVnelM5em1OLVpuQXpaX0Fza3BvQy1UalhZZVNOTk9rRQ?oc=5",
-      "pub_date": 1793049747.0,
-      "article_url": "https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330",
-      "image": "https://i.abcnewsfe.com/a/fbe5ef73-2312-4f94-aa20-a01d4315953b/AdventHealth-ht-er-261026_1793031672199_hpMain_16x9.jpg?w=1600",
-      "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
+      "headline": "We went inside Amazon's robot-powered warehouse to see if machines are taking jobs. What we found surprised us.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFlSWGxibEhSNllvNTkycHY1Rzg1VktWaVB6NGtydUYzQWducERiNHpCaVktNFc4Y2FjbUVaQTh5cHAxMTBHbGluX1FNT1lwdmJyTlFLUzkxMlllaUxTdkdMRlhLX2RqcXAzd09rYzgtbl9CbTh6SWxnZ2xsODRCR1c0LW9UQkMyTm84cjFIS0x0M3lGSlNLcVZubW5OOUYwdEZ3?oc=5",
+      "pub_date": 1793178034.0,
+      "article_url": "https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9",
+      "image": "https://i.insider.com/6adbc10ec8572251b197f937?width=1200&format=jpeg",
+      "description": "Inside Amazon's robotic warehouse in Tracy, California, workers explain how automation is transforming their jobs."
     },
     {
-      "headline": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
-      "source": "Google Cloud",
-      "source_url": "https://cloud.google.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmFHdjgxSllxUXBrQTBJSEJXWXdqLUYzcHM1TTRkZEpMeEwxMHZmVGNkd0hCMVlHb0VrdHhwUzJLQnEydFBvLTZvcVU1TVdaVlFVUllxQ2NQM1pmY24yRFRubjViLU9ONkpDUEhPVUMyU0pRX1hBRzVrOWtrTXFCRDZkcDl1Nnp0bmVqT0NTMGxZYVZ4Z29WSmh3V1A3NGRsYzBDWTNSVm9leV80cTlnYk9Ib2JQX3RzRlB6dUVNUGtUZVM1NThz?oc=5",
-      "pub_date": 1793114095.0,
-      "article_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud",
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/gemini-robotics-2__blog__cover.width-2200..max-2200x2200.png",
-      "description": "Discover how Gemini Robotics Embodied Reasoning 2 on Google Cloud brings advanced spatial-temporal reasoning and physical AI to enterprise robotics."
-    },
-    {
-      "headline": "Trump Delays Robotics, Machinery Tariffs in Favor of More Talks",
+      "headline": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUp2SjdYSFFKSDRxY0lWTkNjV1BGSjVrams3dnc4NFRpdGpINkxVa1ZMYjBGRmpHTDRqZXV1azI1OEtiV3AyTDhobGpEcnFGWGYyU1FrT3hkSlV3U0hSMm9tZmVhbXM2MVdTcnc1a2ZCNUw0WnpIZS1EejhFakZEOUNyTTBOME5fa25UTFhjdklncGVjUFFFM3lBMWtCejZCSGxfZkxIbFNUNmtfRFBSc01zbw?oc=5",
-      "pub_date": 1793219833.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5",
+      "pub_date": 1793130186.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
       "image": null,
       "description": null
     },
     {
-      "headline": "Mystery owner plans robotic car wash in Arlington",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0pVYlZUS25nOGJjUHRDemRDYWo4Vjl6dDdkRUxOLWd4dzJmdGtZN2taaDFVU29nOGo1eEtaeGtxalIwZDFkNkR0ZE5SR0xNRi1kcDFWZUI0OG5LQ2RCTzdoYmNXZlRoTDhkclUtOEk3OWpyZkZGbVByelo3WjExck90SUJuVVo2QjJDM3NId1VoVFRaYTlv?oc=5",
-      "pub_date": 1793214660.0,
-      "article_url": "https://www.bizjournals.com/washington/news/2026/10/28/arlington-robot-car-wash-wattbox.html",
+      "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBOaUFWYzdPdWticUxKMVBOUS1rdDI2bFVEQ3NvRHBUVnhUWkVDYU1TMjQ5Xy1QUE9kR2VtRWp6QUpfQWMxcFY0Nmg1V09YNFp5SVplaUN5azRWdzREdURHb1JER2d0LUF3dzgzSWRFVmVNYmJycnAwa3lUd0pJM3poem5QM1U?oc=5",
+      "pub_date": 1793091757.0,
+      "article_url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Unitree's quarterly revenue surges 70% in test for China's robotics sector",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkkxMGZFaG5UVFVwY2JaNVA0RG9TTnNJOXoxaElhSmhhT0RQQWxTSUNxNkFFMWg2em1GclFpMFlYRkc1ZTQ5VGJCdHY5WFdYUDFIRU9XWk9UX2FYV054dEVtZnZzZkpyd3c1Nkc5Z2Q1cWl6RTc3RnN1V0FzbkMxMXg0bjRCZjZVbjJlbElFcm8zcGVlOHNDRWFZSVlHQ3YxaHpJTi16NVJDN1U1NklWcEZRcXdvTGpSUlE?oc=5",
-      "pub_date": 1793191005.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/unitrees-q3-profit-down-174-on-year-test-chinas-robotics-sector-2026-10-28/",
+      "headline": "The Woman Breathing Life Into Next Generation Home-Help Robots",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmxhX2V0cXpNU0NlOC0tcGhXNV9nRDlDSHJYa1ZzZmVoTkF1THExeHNwVkhvVm5tMFpKWjFnNFY1bVlGRFZraUk3U0dCUXdDRlRpSDNraXg5ZV9lc0hkTnowVnFRbXZqdGpRSHNHc2NsWHpMX0l5MXZRaGRrUklCYkNLQVdvLXVkaHBGSzZUMEZORFRYU2M2a1NPYUM3QTFidVBEVndSa09ZTjh4UG11VzR5bE1yQ1pkX0Z2dUJZV1V0a0pRS2JR?oc=5",
+      "pub_date": 1793316610.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Robots roaming grocery stores could put millions of retail jobs at risk",
-      "source": "NewsNation",
-      "source_url": "https://www.newsnationnow.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEFMR3hXMkhSTUhPX0dHT3VER2ZsOWwzb0pWLXlUbndiaXVaNkRPc1VubUVBSDhPZFdHT0hfMkNNVk5zaE1uZVRFNU9tVlpUNkhlcFdVVm5KbUd1RE8xLWhXelRLTVRYRjRzSHZyb0lJLWxJMzFoMmM0R2FTY1FERzBjRmVnMGhsRkpXRdIBkgFBVV95cUxNN2Nqb2QwSVFzbXBYckd1VWV5cjZTdEI0aFRSTERhS2lFWFRxVHhIaDdsLURFSVFJSHN2MVZrYlQ0eEhXbUNhRTVJUkpzSTZuaDNpTlBiMnhHYm05NGdLU0tlWDVlc0NPSDI0V3hXRXBZcHZvUU9pbnBOOTUxZnZxUU9PTVh2ZHVobzZ5RVlTcFlkUQ?oc=5",
-      "pub_date": 1793223587.0,
-      "article_url": "https://www.newsnationnow.com/business/your-money/robots-grocery-stores-retail-jobs/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How Edge AI Helps Humanoid Robots React Faster Than a Central GPU",
-      "source": "EE Times",
-      "source_url": "https://www.eetimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajM2bkl2OHJHX1FOal82MVg0dWlWcHkzMzlSbE5nSEFsclIwZ2JUTnlLUTlkdUs4OVFoUHNheWQ3SnR4YnEyTGY1UGNBcE1sNjlPLXFkMFAzZDNyYk5RbXZpZVpJbXR3S2VwNDF2RmtZbnNBWkUzZ1llTWQ0Z1lDelVRbXg3Zng1STQtT1MtTWFBTmFRQmdrRWhBYzllSmFEMldUcjJDMS0?oc=5",
-      "pub_date": 1793274559.0,
-      "article_url": "https://www.eetimes.com/stmicroelectronics-weighs-developing-more-powerful-mcus-mpus-for-humanoid-robots/",
-      "image": "https://www.eetimes.com/wp-content/uploads/lagasca_1200x1200.jpg?resize=1200,675",
-      "description": "STMicroelectronics weighs more powerful chips for humanoid robots as edge AI, safety, and hardware integration shape development."
-    },
-    {
-      "headline": "Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule",
-      "source": "NASA (.gov)",
-      "source_url": "https://www.nasa.gov",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXpxN01ScDdpRFV5cUdfdXcxVGVqXzZPZEp6cHI1Q293eDRLak92TTQtZHZJM3ZBMFdnVDFCV1ZKQ3hWVXh0ckpmRnVhSUs2b2xWcjhGTV83c2hTZkh0TDVleTVyYTFFTWUwU2FLcHVuWFpEMl9jMkFlWjBhOWFhU1dSUml4ckdBcW1IbGRDeE1VRlBjeF9OaVJFS3NGQS1qdnFIc0IyUTdzZmRBTk1KQTdYSDBJVmUyNk9zZXFrSQ?oc=5",
-      "pub_date": 1793129709.0,
-      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg",
-      "description": "Spacewalking tools and a pair of robotics jobs topped Tuesday\u2019s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear."
     },
     {
       "headline": "Here's how humanoid robots could fit into the future of defense, society",
@@ -95,16 +55,56 @@
       "description": "Utah State University professor Mario Harper was on hand at the 47G Zero Gravity Summit Wednesday to showcase the potential of Dallas and Dallas II, two humanoid robots the university acquired from overseas."
     },
     {
-      "headline": "US Navy partners with Gecko Robotics to modernize ship maintenance",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93T3lvc0QwSGlBRVMxMmk0b0gyeHdnOFBEMWVsQjJidEVuOTFleUZBc3pWWUZYR1NIXzdqaFJsbldsbTVDLTc3RE44VlpwV0RnSjROR1BR?oc=5",
-      "pub_date": 1793214790.0,
-      "article_url": "https://www.foxnews.com/video/6407551239112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/941a4118-d534-476f-a9c3-b563de132551/17dad2b1-00b1-4f1e-8881-31a28035e7ee/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Gecko Robotics co-founder and CEO Jake Loosararian joins \u2018America Reports\u2019 to discuss the company\u2019s expanding partnership with the U.S. Navy to modernize ship maintenance and strengthen defense manufacturing."
+      "headline": "Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1uODNBTHNBOE5uNEJjQndCY1dqZkc3RGkxcVY5NHNuSzh1Nm1UbTZMSGVCdmhSaHBicTctdkUzd2gxTzZyWnJ3bkEteVlXeUFmRW5GX3FPbHJ6R05paGZjTk5PWHFpWWhrX1dCYm5uQjkzLWtTM0duNDhyVHlmRkxxNXpZLUIyUVNKalVOR3ljSVNBbGVmMDl0dDlQLW1fTFlUVlNidTRDV214czhF0gG0AUFVX3lxTE5xbXBvd3A3dU5MRklvQnBWV0k2RVNPcU1lRDdGLUFTbEp3QlZWVEcwWk5pTnRwWExqRTZfbWhnanNhbDB5dVRkVUxNVHNJYzl3U2NiaHZlNEdPTDRMNnl4bk5ZcHlGOXVRakFtdXlGSjNjcl9JVUVhTlM2Q0ZXT203VlZraWFPNzlqRnhCRHRXYVJGYUVnelM5em1OLVpuQXpaX0Fza3BvQy1UalhZZVNOTk9rRQ?oc=5",
+      "pub_date": 1793049747.0,
+      "article_url": "https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330",
+      "image": "https://i.abcnewsfe.com/a/fbe5ef73-2312-4f94-aa20-a01d4315953b/AdventHealth-ht-er-261026_1793031672199_hpMain_16x9.jpg?w=1600",
+      "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
+    },
+    {
+      "headline": "Trump says imported robotics pose national security risks but does not impose tariffs",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzYzMENTbWlLLWdKa2YzdVN4bXhKZUpVeG8tWm1RUVFHcmg5bXdiQ2dtY3lWYlY0dlF4anMyWWc2NF9zQld1TjlSMlFhR3hfMkxzY05iRGM5MmFXNGpQaGRNN3p6NW9YYm9sVXZXV0IwTE9BdDE5WkdHN3cwUnFzWGRDRHVPR2MxU1M2ZXktSk5MWG9aOHg4c0Rxc2diRzQ1RWUxZzlNRnJoMi1wTEFZWHNCWEJ0eGlxX01CektB?oc=5",
+      "pub_date": 1793225503.0,
+      "article_url": "https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Arlington-based D.R. Horton teams with robotics firm for home construction",
+      "source": "Audacy",
+      "source_url": "https://www.audacy.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVpBU0pvV185ekJlMlRFRHBRQTNBY0tseHF1bGw4cUMtODdIMkFfeEdsMFVXU3QtX3JfeG5zOGNvUXV0SE5LWE55ZnpkdFNiTHVWakFJTVF3OFk3QTBNdzFudU0zVWtER3I0NldiYlg0dHZaSEdqVGY4dlNXdUVld3h3MnBxd1hTeHZDNmtYRkl1VUoxNzZ4OFhOWmZHSG83eEUtSU5JNUxrMURnT0ZFV3hR?oc=5",
+      "pub_date": 1793184900.0,
+      "article_url": "https://www.audacy.com/krld/news/local/arlington-based-d-r-horton-teams-with-robotics-firm-for-home-construction",
+      "image": "https://www.audacy.com/media-library/arlington-based-d-r-horton-the-largest-u-s-homebuilder-by-volume-has-signed-a-multi-year-deal-with-torontos-promise-robotic.jpg?id=68541350&width=1200&height=600&coordinates=0%2C167%2C0%2C167",
+      "description": "D.R. Horton partners with Promise Robotics to build AI-powered structural frames for over 1,250 homes near Phoenix, boosting housing production. | NewsRadio 1080 KRLD"
+    },
+    {
+      "headline": "Germany and Ukraine test armed ground robot for frontline deployment",
+      "source": "Euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3ZkV3A2MDJ5Y2ZJQl84dVlKTHBzdEQzVmJ3aTdjam9GeUVOS1NfdndGbjFsaU5MaVpoRnVnZGFwUXhNVUl2aDdCWlN3YjdfYlRrOE9EU0NNbjd1dk9BZktidFlJTVZZSHlKTkJYSGFReDNrbm9McVdnZE8yeEJ2YnNfbWQwQ3NZYkdsYWVIZW1KZU8wb0RhRkg5VW1HZWtOT1dpNkZyWQ?oc=5",
+      "pub_date": 1793300217.0,
+      "article_url": "https://www.euronews.com/2026/10/29/germany-and-ukraine-test-armed-ground-robot-for-frontline-deployment",
+      "image": "https://images.euronews.com/articles/stories/09/97/17/46/1200x675_cmsv2_b2374c78-3e71-5ac4-9eea-4e1bcdc59aed-9971746.jpg",
+      "description": "Remote-controlled and heading for the front lines. ARX Robotics and the Ukrainian company ROBONEERS report completion of the first major system tests. #EuropeNews"
+    },
+    {
+      "headline": "Mystery owner plans robotic car wash in Arlington",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0pVYlZUS25nOGJjUHRDemRDYWo4Vjl6dDdkRUxOLWd4dzJmdGtZN2taaDFVU29nOGo1eEtaeGtxalIwZDFkNkR0ZE5SR0xNRi1kcDFWZUI0OG5LQ2RCTzdoYmNXZlRoTDhkclUtOEk3OWpyZkZGbVByelo3WjExck90SUJuVVo2QjJDM3NId1VoVFRaYTlv?oc=5",
+      "pub_date": 1793214660.0,
+      "article_url": "https://www.bizjournals.com/washington/news/2026/10/28/arlington-robot-car-wash-wattbox.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T20:27:13.144517+00:00"
+  "fetched_at": "2026-10-30T00:08:53.073746+00:00"
 }
