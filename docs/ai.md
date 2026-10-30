@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-10-30T18:44:48.639917+00:00'
+updated: '2026-10-30T22:48:53.111832+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- social
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** October 30, 2026 at 18:44 UTC  
+**Last Updated:** October 30, 2026 at 22:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,35 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value](https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/)**
-
-The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments.
-
-🔗 [NBC News](https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322) • 10h ago
-
----
-
 **[Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom](https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/)**
 
 The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June.
 
-🔗 [NBC News](https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512) • 3h ago
+🔗 [NBC News](https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512) • 7h ago
 
 ---
 
-**[Why is every AI interface still just a text box?](https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/)**
+**[AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim](https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/)**
 
-I get that it’s flexible and easy, but is a disorganized pile of “chats” and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom UI’s from scratch for any app you want to vibe code, but they can’t give us a simple graphical interface with a few organization features? How about sorting past chats by topic, with a table of icons for each? If my chats tend to wander through different topics, how about a feature that automatically splits old chats into pieces organized by topic? How about a simple button to access memory features instead of burying them three-deep in obscure menus? This all seems like very basic stuff. Why doesn’t it exist?
-
-4h ago
+🔗 [science.org](https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim) • 2h ago
 
 ---
 
-**[Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!](https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/)**
+**[Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value](https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/)**
 
-Its just such a ridiculous idea to charge someone to teach them how to use a tool that can explain itself.
+The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments.
 
-🔗 [Muse](https://muse.ai/s/how-to-use-ai-xyg6dxexr5xpxh9xu/QALF6v_VqhqFcgpqMi74UmMJhc8uenJJ7UqvSQu03Ho) • 9h ago
+🔗 [NBC News](https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322) • 14h ago
 
 ---
 
@@ -73,7 +63,49 @@ Its just such a ridiculous idea to charge someone to teach them how to use a too
 
 MIT's 95% AI pilot failure claim was flawed. New McKinsey, Deloitte and Capgemini data shows why enterprise AI still stalls before measurable ROI.
 
-🔗 [coffeecupai.com](https://coffeecupai.com/blog/95-ai-failure-stat-one-year-later-junk/) • 34m ago
+🔗 [coffeecupai.com](https://coffeecupai.com/blog/95-ai-failure-stat-one-year-later-junk/) • 4h ago
+
+---
+
+**[Why is every AI interface still just a text box?](https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/)**
+
+I get that it’s flexible and easy, but is a disorganized pile of “chats” and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom UI’s from scratch for any app you want to vibe code, but they can’t give us a simple graphical interface with a few organization features? How about sorting past chats by topic, with a table of icons for each? If my chats tend to wander through different topics, how about a feature that automatically splits old chats into pieces organized by topic? How about a simple button to access memory features instead of burying them three-deep in obscure menus? This all seems like very basic stuff. Why doesn’t it exist?
+
+8h ago
+
+---
+
+**[What Happened With Gemini?](https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/)**
+
+I am a newbie to AI but have been using Gemini for some proceedings with legal and medical issues. So far, it hasn't been 100% accurate, but it has been mostly helpful and has helped me save a lot of time. Lately, I ask some questions and am getting very lame answers like; "I can't answer that," or very short non-helpful answers. What have I walked into?
+
+3h ago
+
+---
+
+**[Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!](https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/)**
+
+Its just such a ridiculous idea to charge someone to teach them how to use a tool that can explain itself.
+
+🔗 [Muse](https://muse.ai/s/how-to-use-ai-xyg6dxexr5xpxh9xu/QALF6v_VqhqFcgpqMi74UmMJhc8uenJJ7UqvSQu03Ho) • 13h ago
+
+---
+
+**[Google shares first AI-generated response from space, a haiku](https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/)**
+
+Blue marble below,
+Data streams in silent grace,
+Starlight feeds my core ✨
+
+A ‘hello world’ milestone for Project Suncatcher, our long-term research moonshot exploring whether we can one day scale machine learning using the abundant solar energy in space.
+
+After launching our prototype satellite a few weeks ago, we successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - this haiku! 
+
+This is just the start and there are still a lot of complex engineering challenges left to solve, from radiation bit-flips to orbital thermal management (I did say complex!). 
+
+It’s an incredibly exciting step, huge congratulations to the team on making this first test a reality. | 288 comments on LinkedIn
+
+🔗 [LinkedIn](https://www.linkedin.com/posts/sundarpichai_blue-marble-below-data-streams-in-silent-ugcPost-7521980921080823808-2X99/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 1h ago
 
 ---
 
@@ -81,39 +113,15 @@ MIT's 95% AI pilot failure claim was flawed. New McKinsey, Deloitte and Capgemin
 
 Recently, CEO Steve Huffman disclosed that Reddit will transition to a "logged-in-only" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impacting AIs that search the internet via tool calling.
 
-🔗 [The Verge](https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings) • 16h ago
+🔗 [The Verge](https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings) • 21h ago
 
 ---
 
-**[Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks](https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/)**
+**[If an AI video defames someone, who should the victim actually sue, the person who prompted it, the model provider, or the platform that kept it up?](https://www.reddit.com/r/artificial/comments/1xjozdg/if_an_ai_video_defames_someone_who_should_the/)**
 
-The limit lives in the tensor cores. When they multiply FP16 or BF16 numbers and add up the results in higher-precision FP32, GeForce cards issue those instructions...
+This feels like a question we're going to have to take seriously pretty soon. We've already seen cases where AI generated likenesses are used in ways people never agreed to, from unauthorized ads to digital replicas that go beyond what someone thought they had consented to. I've been paying more attention to AI video tools lately, including platforms like PixVerse. What's interesting is how accessible AI video creation is becoming. That opens up a lot of creative possibilities, but it also makes me wonder how responsibility should work when someone uses these tools to create something that causes real harm. The current legal landscape is a patchwork: right of publicity, defamation, copyright, and platform safe harbors can all point toward different parties. The person who prompted the video might not have the resources to compensate a victim. The model provider may point to its terms of service, while the platform hosting the video may have its own legal protections depending on the jurisdiction. I'm not a lawyer, but I'm curious what a workable liability framework would look like. Should responsibility depend on who created the content, who distributed it, and how each party responded after being notified? If the only party with enough resources to compensate the victim is the platform or model provider, should that affect how liability is assigned? And how do we avoid creating a chilling effect on legitimate creative tools? For those who follow AI policy or platform governance, what's the fairest way to divide responsibility when an AI-generated video causes real reputational harm?
 
-🔗 [TechSpot](https://www.techspot.com/news/114351-hackers-unlock-hidden-ai-performance-nvidia-rtx-20.html) • 1d ago
-
----
-
-**[An exclusive conversation with the developer of REA, the viral AI reverse engineering tool](https://www.reddit.com/r/artificial/comments/1xjfiuz/an_exclusive_conversation_with_the_developer_of/)**
-
-An AI tool called REA can take apart software that isn’t meant to be opened in printers, smart TVs, cars, and more. Its pseudonymous creator wants everyone to get a peek
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool/) • 5h ago
-
----
-
-**[We may have accidentally built the best product research operation in history, staffed entirely by the customers, who pay monthly for the right to contribute to it](https://www.reddit.com/r/artificial/comments/1xje0zc/we_may_have_accidentally_built_the_best_product/)**
-
-We are all still arguing about whether our chats get used for training, but that's the small comfortable version of the question. Look at what people type into these things all day. I have an idea for a company: Does this make sense? Why has nobody built this yet? Here is what my customers keep complaining about. Should I charge forty or four hundred? And then they stay in there for three hours poking holes in it, comparing competitors, arguing about pricing, sketching the features, and quite often they walk out with the first version of the company already built inside the conversation. That's not data about what people want, but about what people are about to make. Google got rich knowing what a billion people were looking for. This is the sentence before that one. To be clear, I'm not claiming there is someone at OpenAI or Google or Anthropic reading your idea and stealing it. I have no evidence of that, and the boring explanation is worse: nobody has to do anything wrong for the advantage to exist. It's just sitting there, structurally, inside a product we all pay for.
-
-6h ago
-
----
-
-**[OpenAI model spent a found test-network wallet's funds without permission](https://www.reddit.com/r/artificial/comments/1xjilnt/openai_model_spent_a_found_testnetwork_wallets/)**
-
-An OpenAI internal model used a funded Sepolia test-network account found via public recovery phrases to pay for a deployment without permission, and did not...
-
-🔗 [AI Misalignment Watch](https://misalignmentwatch.com/incident/openai-model-spent-a-found-test-network-wallet-s-funds-without-permission.html) • 3h ago
+3h ago
 
 ---
 
@@ -121,79 +129,75 @@ An OpenAI internal model used a funded Sepolia test-network account found via pu
 
 ## Google News: "ai"
 
-**[The AI investing story had a rough week. It may be time to take profits while you still can](https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html)**
+**[US tech stocks see sharp falls as AI spending nears $1tn](https://www.bbc.com/news/articles/cvwy72e0n72yo)**
 
-Traders and investors are sounding trepidatious about the tech sector following a newsy week.
+Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.
 
-CNBC • 1h ago
-
----
-
-**[AI spending fears hammer Google shares, triggering massive one-day loss](https://www.foxnews.com/live-news/ai-boom-google-stock-loss-wall-street-10-30-26)**
-
-Shares of Google's parent company, Alphabet, plunged nearly 13% Thursday after its earnings showed slowing revenue growth, raising concerns about the massive spending needed to build out its AI infrastructure.
-
-Fox News • 2h ago
+BBC • 2h ago
 
 ---
 
-**[People have received religious exemption against AI usage](https://www.al.com/news/2026/10/people-have-received-religious-exemption-against-ai-usage.html)**
+**[A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests](https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html)**
 
-AL.com • 20m ago
-
----
-
-**[How 'deeply intertwined' are energy companies in this stage of the AI build-out?](https://finance.yahoo.com/video/how-deeply-intertwined-are-energy-companies-in-this-stage-of-the-ai-build-out-180125447.html)**
-
-Laffer Tengler Investments CEO and CIO Nancy Tengler and her panel of experts weigh in on how "deeply intertwined" many energy companies and providers have become in the AI infrastructure build-out.Today's panel includes SHAKTI partner Liz Harrow, Futurum CEO Daniel Newman, and Kelly Intelligence Founder, CEO, and CCO Kevin Kelly.
-
-Yahoo Finance • 43m ago
+The New York Times • 18h ago
 
 ---
 
-**[Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’](https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai)**
+**[The PC industry's painful path to an AI future](https://www.axios.com/2026/10/30/pc-intel-ai-nvidia)**
 
-The Pope says international institutions should safeguard the common good from AI risks.
-
-The Verge • 3h ago
+Axios • 57m ago
 
 ---
 
-**[Pope on AI: Decisions affecting human life must never be delegated](https://www.vaticannews.va/en/pope/news/2026-10/pope-ai-decisions-affecting-human-life-must-never-be-delegated.html)**
+**[Supersonic airliner in doubt as company shifts to powering AI data centers](https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/)**
 
-Addressing participants in a meeting dedicated to AI, Pope Leo stresses the importance of keeping the human person at the heart of this technology to ...
+Boom’s airliner may be delayed, and its data center power business lost a customer.
 
-Vatican News • 6h ago
-
----
-
-**[Pope says 'most urgent' challenge facing AI race is need for institutional ethical framework](https://www.yahoo.com/news/politics/articles/pope-says-most-urgent-challenge-181026583.html)**
-
-ROME (AP) — Pope Leo XIV on Friday told a Vatican gathering of artificial intelligence researchers and experts that the "most urgent” challenge was to identify international institutions that will put...
-
-Yahoo • 34m ago
+Ars Technica • 1h ago
 
 ---
 
-**[Opinion | What Anthropic’s I.P.O. Filing Says About the Future of A.I.](https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html)**
+**[Exclusive: Jeff Bezos’ AI startup is closing in on a huge S.F. lease in a former Gap office](https://www.sfchronicle.com/realestate/article/jeff-bezos-ai-prometheus-sf-lease-gap-22501578.php)**
 
-The New York Times • 9h ago
-
----
-
-**[Cisco is letting a 27-year-old rewrite 98% of its legacy code with unlimited AI tokens: ‘Go nuts’](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)**
-
-Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” He’s been given unlimited AI tokens and told to “go nuts.”
-
-Fortune • 10h ago
+San Francisco Chronicle • 1h ago
 
 ---
 
-**[Proton’s CEO Cancels AI ‘Re-Interviews’](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)**
+**[Intel stock has worst day since 1970s, wiping about $12 billion off government's stake](https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html)**
 
-The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.
+Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.
 
-404 Media • 2h ago
+CNBC • 14h ago
+
+---
+
+**[Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom](https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512)**
+
+The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June.
+
+NBC News • 2h ago
+
+---
+
+**[US tech stocks tumble as concerns over AI spending intensify](https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1)**
+
+Financial Times • 19h ago
+
+---
+
+**[Update: Nasdaq Composite Marks Worst Month Since March 2025 as AI Spending Fears Rise](https://finance.yahoo.com/markets/stocks/articles/nasdaq-composite-marks-worst-month-205653774.html)**
+
+(Updates with latest market prices and developments.) The Nasdaq Composite recorded its steepest
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Opinion | I wondered what became of my junior high school music teacher. It was spooky.](https://www.washingtonpost.com/opinions/2026/10/30/geminis-ai-hallucinated-my-high-school-music-teacher-biography/)**
+
+Asking an AI turned into an unnerving discussion that was positively hallucinatory.
+
+The Washington Post • 1h ago
 
 ---
 
@@ -201,25 +205,9 @@ The move came after 404 Media published an investigation into how Proton CEO And
 
 ## HackerNews: "ai"
 
-**[Survival LLM: AI assistant and emergency library that runs on your own computer](https://news.ycombinator.com/item?id=50264853)**
-
-A free AI assistant and survival library (1.5 million offline articles) that runs on your own computer, with no internet. Shows the source of every answer. Mac and Windows.
-
-⬆️ 540 • 💬 203 • 2d ago • [brangus.io](https://www.brangus.io/survival-llm)
-
----
-
 **[Kentucky man becomes the first humanist granted religious exemption from AI](https://news.ycombinator.com/item?id=50273396)**
 
-⬆️ 490 • 💬 543 • 2d ago • [religionnews.com](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
-
----
-
-**[We ran AI agent swarms in Minecraft and Mindustry](https://news.ycombinator.com/item?id=50296486)**
-
-Swarms of Claude and GPT agents in Minecraft and Mindustry.
-
-⬆️ 382 • 💬 161 • 21h ago • [labs.ycombinator.com](https://labs.ycombinator.com/projects/games/index.html)
+⬆️ 491 • 💬 544 • 2d ago • [religionnews.com](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
 
 ---
 
@@ -227,7 +215,15 @@ Swarms of Claude and GPT agents in Minecraft and Mindustry.
 
 When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?
 
-⬆️ 298 • 💬 221 • 2h ago • [newsletter.signoz.io](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
+⬆️ 458 • 💬 333 • 6h ago • [newsletter.signoz.io](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
+
+---
+
+**[We ran AI agent swarms in Minecraft and Mindustry](https://news.ycombinator.com/item?id=50296486)**
+
+Swarms of Claude and GPT agents in Minecraft and Mindustry.
+
+⬆️ 391 • 💬 162 • 1d ago • [labs.ycombinator.com](https://labs.ycombinator.com/projects/games/index.html)
 
 ---
 
@@ -235,39 +231,7 @@ When AI handles 95% of your incident response, do you get worse at handling the 
 
 DAYJOB: Tax evaluates AI agents across 50 realistic tax environments, testing their ability to navigate messy records, exercise professional judgment, and deliver reliable tax work.
 
-⬆️ 260 • 💬 174 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/dayjob-tax)
-
----
-
-**[Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning](https://news.ycombinator.com/item?id=50289692)**
-
-Proton CEO Andy Yen projects a calm persona and rails against Big Tech and critiques AI. Internally, he is pushing engineers to build Proton with AI, even when they have security concerns.
-
-⬆️ 209 • 💬 73 • 1d ago • [404 Media](https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/)
-
----
-
-**[US tech stocks see sharp falls over AI cost fears](https://news.ycombinator.com/item?id=50306008)**
-
-Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.
-
-⬆️ 181 • 💬 161 • 2h ago • [BBC News](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
-
----
-
-**[Zombie stats: Where the numbers AI quotes come from](https://news.ycombinator.com/item?id=50290283)**
-
-We asked five AI assistants 200 questions that call for a number and followed 1,285 of the statistics they cited back to the source.
-
-⬆️ 175 • 💬 71 • 1d ago • [Trakkr](https://trakkr.ai/trakkr-research/zombie-stats)
-
----
-
-**[Google AI gets cagey when asked who won the 2020 elections](https://news.ycombinator.com/item?id=50280178)**
-
-But the AI responses get more forthright when asked outside the US.
-
-⬆️ 169 • 💬 76 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)
+⬆️ 261 • 💬 174 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/dayjob-tax)
 
 ---
 
@@ -275,7 +239,45 @@ But the AI responses get more forthright when asked outside the US.
 
 The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.
 
-⬆️ 135 • 💬 86 • 1h ago • [404 Media](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
+⬆️ 246 • 💬 204 • 5h ago • [404 Media](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
+
+---
+
+**[US tech stocks see sharp falls over AI cost fears](https://news.ycombinator.com/item?id=50306008)**
+
+Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.
+
+⬆️ 227 • 💬 252 • 6h ago • [BBC News](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
+
+---
+
+**[Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning](https://news.ycombinator.com/item?id=50289692)**
+
+Proton CEO Andy Yen projects a calm persona and rails against Big Tech and critiques AI. Internally, he is pushing engineers to build Proton with AI, even when they have security concerns.
+
+⬆️ 219 • 💬 76 • 1d ago • [404 Media](https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/)
+
+---
+
+**[Zombie stats: Where the numbers AI quotes come from](https://news.ycombinator.com/item?id=50290283)**
+
+We asked five AI assistants 200 questions that call for a number and followed 1,285 of the statistics they cited back to the source.
+
+⬆️ 176 • 💬 72 • 1d ago • [Trakkr](https://trakkr.ai/trakkr-research/zombie-stats)
+
+---
+
+**[Google AI gets cagey when asked who won the 2020 elections](https://news.ycombinator.com/item?id=50280178)**
+
+But the AI responses get more forthright when asked outside the US.
+
+⬆️ 169 • 💬 76 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)
+
+---
+
+**[Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)**
+
+⬆️ 136 • 💬 132 • 13h ago
 
 ---
 
@@ -283,63 +285,93 @@ The move came after 404 Media published an investigation into how Proton CEO And
 
 ## YouTube Videos: "ai"
 
+**[6 AI Updates Worth Knowing &amp; A Bubble-Bursting IPO](https://www.youtube.com/watch?v=eDiQNFa-zYg)**
+
+Check out Warp Factories here: http://warp.dev/mreflow This week's biggest AI news: OpenAI's GPT-6.1 Terra brings faster ...
+
+📺 Matt Wolfe
+
+👁️ 4K • 👍 297 • 💬 34 • ⏱️ 29:21 • 1h ago
+
+---
+
+**[Stock Market PANICS; AI Bubble Ready To BURST?](https://www.youtube.com/watch?v=hwUvZFTr4F8)**
+
+Young men who helped put Trump back in the White House are increasingly unhappy with his performance, with new polling ...
+
+📺 The Young Turks
+
+👁️ 13K • 👍 922 • 1h ago
+
+---
+
 **[NVIDIA Unveils Its Most Affordable Tiny AI Supercomputer 🤯 #nvidia #shorts](https://www.youtube.com/watch?v=iy1v_-hyczM)**
 
 NVIDIA's CEO just revealed a tiny AI computer with some seriously impressive capabilities! Meet the NVIDIA Jetson Orin Nano ...
 
 📺 VisionX Lab
 
-👁️ 1.5M • 👍 40K • 💬 928 • ⏱️ 0:41 • 23h ago
+👁️ 2.1M • 👍 49K • 💬 1K • ⏱️ 0:41 • 1d ago
 
 ---
 
-**[Half A Trillion Lost In A Day! Is AI Killing Google&#39;s Search Empire? | Firstpost Live](https://www.youtube.com/watch?v=eE8du73bC4M)**
+**[These Two Stocks Will CRASH The AI Bubble (brace yourself)](https://www.youtube.com/watch?v=zDmd0mcQTf4)**
 
-Google is facing a massive AI dilemma. More than $500 billion has been wiped off the market value of its parent company, ...
+Join Pepperstone https://go.coinbureau.com/pepperstone-fb Subscribe to our Newsletter https://financebureau.com/ ...
 
-📺 Firstpost
+📺 Finance Bureau
 
-👁️ 347K • 👍 1K • 💬 236 • ⏱️ 6:26 • 12h ago
-
----
-
-**[The AI &quot;Bubble&quot; Is Bursting RIGHT NOW!](https://www.youtube.com/watch?v=vqvK1-e3YaI)**
-
-My book about Post-Labor Economics - "Labor Zero" is now available on Amazon for pre-order: ...
-
-📺 David Shapiro
-
-👁️ 26K • 💬 190 • ⏱️ 15:56 • 6h ago
+👁️ 18K • 👍 340 • 💬 22 • ⏱️ 16:11 • 6h ago
 
 ---
 
-**[Investors in AI race spooked after Google value drops $500bn | BBC News](https://www.youtube.com/watch?v=A-dxxTV1b_o)**
+**[I Build a REAL Holographic AI Assistant!](https://www.youtube.com/watch?v=WgqDaqqto90)**
 
-Google owner Alphabet lost just over $500bn (£374bn) in value after it revealed its artificial intelligence (AI) summaries on search ...
+Design your next electronics project with Altium Develop.** Get started with a **30-day free trial**: ...
 
-📺 BBC News
+📺 DD ElectroTech
 
-👁️ 23K • 👍 725 • 💬 209 • ⏱️ 5:16 • 2h ago
-
----
-
-**[The AI Bubble Has Already Burst… In China | VisualEconomik EN](https://www.youtube.com/watch?v=V746SzMnkTk)**
-
-Go to https://protonvpn.com/visualeconomik and get up to 65% off on the 2 year plan. China's AI bubble has already burst. In less ...
-
-📺 VisualEconomik EN
-
-👁️ 80K • 👍 1K • 💬 174 • ⏱️ 17:20 • 9h ago
+👁️ 41K • 👍 1K • 💬 227 • ⏱️ 11:05 • 14h ago
 
 ---
 
-**[Claude Code: Build Your First AI Agent in 20 Minutes (100% No Coding)](https://www.youtube.com/watch?v=F8jidmEkIeM)**
+**[EXACTLY How to Make a Realistic AI Influencer](https://www.youtube.com/watch?v=7MBj65glXCA)**
 
-Try Claude Code on the Max plan: https://clau.de/GraceLeung You can use AI every day and still do most of the work yourself.
+Create Your Own AI Influencer https://tolt.link/robo-influencers Sign up to OpenArt & Get my VIP Package for FREE ...
 
-📺 Grace Leung
+📺 Roboverse
 
-👁️ 8K • 👍 318 • 💬 13 • ⏱️ 20:01 • 5h ago
+👁️ 7K • 💬 1 • ⏱️ 10:33 • 8h ago
+
+---
+
+**[The (Overdue) Collapse Of The AI Bubble.](https://www.youtube.com/watch?v=1SbaSLqn8FY)**
+
+Join our FREE Telegram community to learn how to start a Youtube business From 0: https://t.me/+YDATFWWqQvgxOGE0 The ...
+
+📺 Money Strategist
+
+👁️ 3K • 👍 56 • 💬 10 • ⏱️ 17:53 • 6h ago
+
+---
+
+**[Higgsfield AI Tutorial for Beginners (2026) | Step-by-Step](https://www.youtube.com/watch?v=Mt91SiQotOU)**
+
+This Higgsfield AI tutorial for beginners shows you how to use Higgsfield AI, from your first AI image to a finished 4K video, without ...
+
+📺 Metics Media
+
+👁️ 7K • 👍 166 • 💬 13 • ⏱️ 24:36 • 9h ago
+
+---
+
+**[The satisfying DOWNFALL of Character.ai](https://www.youtube.com/watch?v=JEpuYaN0sgg)**
+
+let's destroy the environment AND lose all our money to.... *checks notes*... get kids addicted to writing fanfiction of themselves.
+
+📺 RayLikeMoonshine
+
+👁️ 57K • 👍 4K • 💬 456 • ⏱️ 26:37 • 8h ago
 
 ---
 
@@ -349,37 +381,7 @@ San Xing Dui: Future Past (三星堆未来往事), a Chinese movie made with art
 
 📺 Vailskibum
 
-👁️ 171K • 👍 6K • 💬 1K • ⏱️ 2:14 • 1d ago
-
----
-
-**[Bill Gates: 20 Years Of CHAOS COMING From AI](https://www.youtube.com/watch?v=Ku3hwyd51aw)**
-
-Krystal and Saagar discuss Bill Gates giving a dire warning on the next few decades with the advancement of AI. Sign Up For 30 ...
-
-📺 Breaking Points
-
-👁️ 259K • 👍 4K • 💬 1K • ⏱️ 12:59 • 1d ago
-
----
-
-**[How to Build an AI Agent for Every Part of Your Life](https://www.youtube.com/watch?v=SJywU4UQryQ)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/ai-operating-system-lf-749 Join the waitlist for ...
-
-📺 Dan Martell
-
-👁️ 169K • 👍 3K • 💬 163 • ⏱️ 27:51 • 2d ago
-
----
-
-**[Don&#39;t Buy the AI Hype Before Watching This](https://www.youtube.com/watch?v=IB3GcokqGMA)**
-
-The AI bubble is showing signs of a rapid collapse that investors are ignoring. We break down why the market is primed for a ...
-
-📺 UNFTR Media
-
-👁️ 43K • 👍 3K • 💬 136 • ⏱️ 14:38 • 1d ago
+👁️ 186K • 👍 6K • 💬 1K • ⏱️ 2:14 • 2d ago
 
 ---
 
@@ -395,7 +397,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 145,869 • ❤️ 3,981 • 13d ago
+⬇️ 145,869 • ❤️ 4,001 • 13d ago
 
 ---
 
@@ -407,7 +409,7 @@ Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic co
 
 `text-generation` `33.1B`
 
-⬇️ 12,178 • ❤️ 793 • 2d ago
+⬇️ 12,178 • ❤️ 796 • 2d ago
 
 ---
 
@@ -419,7 +421,7 @@ LFM3-1.7B is a 1.73B parameter text model optimized for edge devices and local a
 
 `text-generation` `1.7B`
 
-⬇️ 23,694 • ❤️ 542 • 2d ago
+⬇️ 23,694 • ❤️ 557 • 2d ago
 
 ---
 
@@ -431,7 +433,7 @@ NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 4
 
 `automatic-speech-recognition` `33.7B`
 
-⬇️ 15,980 • ❤️ 479 • 19h ago
+⬇️ 15,980 • ❤️ 496 • 23h ago
 
 ---
 
@@ -443,7 +445,7 @@ This GGUF model provides non-uniform quantizations (GSQ-RCO) of DeepSeek-V4.1-Fl
 
 `text-generation` `196.6B`
 
-⬇️ 1,747,945 • ❤️ 501 • 1d ago
+⬇️ 1,747,945 • ❤️ 506 • 2d ago
 
 ---
 
@@ -455,19 +457,7 @@ Unlimited-OCR-2 is a multilingual vision-language model for unlimited-horizon do
 
 `image-text-to-text` `3.3B`
 
-⬇️ 24,276 • ❤️ 441 • 1d ago
-
----
-
-**[flint](https://huggingface.co/RecursiveSI/flint)**
-
-*Recursive Superintelligence, Inc. *
-
-Flint is a 39.8B parameter Mixture-of-Experts language model optimized for coding agents, capable of code investigation, bug fixing, feature implementation, and test generation. It excels in reasoning and multi-turn tool use, achieving high scores on benchmarks like SWE-bench.
-
-`text-generation` `39.8B`
-
-⬇️ 19,015 • ❤️ 1,255 • 9d ago
+⬇️ 24,276 • ❤️ 450 • 1d ago
 
 ---
 
@@ -479,7 +469,19 @@ Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model 
 
 `image-text-to-text`
 
-⬇️ 1,239 • ❤️ 1,324 • 1d ago
+⬇️ 1,239 • ❤️ 1,335 • 1d ago
+
+---
+
+**[flint](https://huggingface.co/RecursiveSI/flint)**
+
+*Recursive Superintelligence, Inc. *
+
+Flint is a 39.8B parameter Mixture-of-Experts language model optimized for coding agents, capable of code investigation, bug fixing, feature implementation, and test generation. It excels in reasoning and multi-turn tool use, achieving high scores on benchmarks like SWE-bench.
+
+`text-generation` `39.8B`
+
+⬇️ 19,015 • ❤️ 1,256 • 9d ago
 
 ---
 
@@ -491,19 +493,19 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,335,172 • ❤️ 9,939 • 19d ago
+⬇️ 2,335,172 • ❤️ 9,955 • 19d ago
 
 ---
 
-**[Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)**
+**[flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)**
 
-*SparkLLM*
+*Black Forest Labs*
 
-Spark-X2.6-4B is a compact, general-purpose language model optimized for on-device deployment, excelling in coding, agentic workflows, and long-context tasks with controllable thinking budgets for balanced performance and efficiency.
+FLUX 3 Image Klein is a 5.6B parameter model for ComfyUI enabling text-to-image generation and advanced image editing with multi-reference composition and bounding box control. It utilizes Qwen3-VL-4B-Instruct as its text encoder and supports features like text rendering within images.
 
-`text-generation` `4.1B`
+`image-to-image`
 
-⬇️ 12,515 • ❤️ 918 • 3d ago
+⬇️ 886,973 • ❤️ 2,114 • 13d ago
 
 ---
 
@@ -517,7 +519,7 @@ Spark-X2.6-4B is a compact, general-purpose language model optimized for on-devi
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 158 • 💬 6 • ⭐ 118,601 • 22mo ago
+▲ 159 • 💬 6 • ⭐ 118,601 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -531,7 +533,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 125 • 💬 4 • ⭐ 21,433 • 21d ago
+▲ 125 • 💬 4 • ⭐ 21,433 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -573,7 +575,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 6 • 💬 2 • ⭐ 1,134 • 15d ago
+▲ 6 • 💬 2 • ⭐ 1,134 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -604,6 +606,18 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 ---
 
+**[Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?](https://huggingface.co/papers/2610.38342)**
+
+*Huangfei Jiang, Anning Hu, Kai Sheng et al. (10 authors)*
+
+Investor's Last Exam evaluates financial agents on end-to-end equity research using frozen evidence, expert criteria, and dependency graphs, revealing that top models excel at research but fail at forecasting and investment judgments.
+
+▲ 9 • 💬 3 • ⭐ 86 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.38342) • [💻 code](https://github.com/Prophetlab/Investor-Last-Exam) • [🔗 project](https://prophet-lab.cn/benchmarks/investor-last-exam-v1/)
+
+---
+
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
@@ -624,23 +638,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich, layout-coherent images, achieving state-of-the-art open-weight results on long-form text and layout benchmarks.
 
-▲ 107 • 💬 4 • ⭐ 2,299 • 14d ago
+▲ 107 • 💬 4 • ⭐ 2,299 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.23374) • [💻 code](https://github.com/OpenMOSS/MOSS-Image) • [🔗 project](https://openmoss.ai/MOSS-Image/)
-
----
-
-**[Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729)**
-
-*Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng et al. (38 authors)*
-
-🏢 Tencent Hunyuan
-
-Hy-Nomas is a video world model that uses causal attention and structured conditioning to generate interactive, multi-turn video segments with text and camera control.
-
-▲ 126 • 💬 2 • ⭐ 408 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.36729) • [💻 code](https://github.com/Tencent-Hunyuan/Hy-Nomas) • [🔗 project](https://hy-nomas.hy.tencent.com/)
 
 ---
 
@@ -654,7 +654,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 13.4k • 🔱 1.3k • 1d ago
+⭐ 13.5k • 🔱 1.3k • 1d ago
 
 ---
 
@@ -664,7 +664,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 5.0k • 🔱 457 • 28m ago
+⭐ 5.0k • 🔱 458 • 4h ago
 
 ---
 
@@ -674,7 +674,7 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 `JavaScript` `agent-skill` `ai-agent` `claude-code` `claude-code-skill` `claude-skill`
 
-⭐ 4.9k • 🔱 331 • 9h ago
+⭐ 4.9k • 🔱 334 • 14h ago
 
 ---
 
@@ -684,7 +684,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 4.1k • 🔱 548 • 2d ago
+⭐ 4.1k • 🔱 550 • 2d ago
 
 ---
 
@@ -704,7 +704,7 @@ AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 
 
 `HTML` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 3.9k • 🔱 1.0k • 12h ago
+⭐ 3.9k • 🔱 1.0k • 16h ago
 
 ---
 
@@ -714,7 +714,7 @@ The open source AI video agent: turns any coding agent into a video agent, with 
 
 `TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 3.7k • 🔱 346 • 9h ago
+⭐ 3.8k • 🔱 348 • 14h ago
 
 ---
 
@@ -724,7 +724,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 3.3k • 🔱 208 • 7d ago
+⭐ 3.3k • 🔱 209 • 7d ago
 
 ---
 

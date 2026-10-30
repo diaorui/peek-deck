@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 158,
+      "upvotes": 159,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
@@ -134,6 +134,25 @@
       "project_page": null
     },
     {
+      "id": "2610.38342",
+      "title": "Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?",
+      "authors": "Huangfei Jiang, Anning Hu, Kai Sheng et al. (10 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Financial agents must form forecasts and investment judgments from decision-time evidence, with predictions evaluated against subsequent outcomes. Existing benchmarks assess financial knowledge, research workflows, or forecasting, but evaluating the full research process requires a strictly frozen information set and professional evaluation criteria. We introduce Investor's Last Exam (ILE), an equity-research benchmark led by experienced buy-side investors and fund managers. Its three components are a versioned financial database spanning 3.43 million document versions and nine source categories, supplemented by structured market data, with validated timestamps governing retrieval and computation; a task taxonomy organized around professional analyst deliverables; and an expert-led framework linking scoring criteria to sources, calculations, and assumptions through financial dependency graphs. Evaluation spans 86 assignments and jointly assesses research quality, forecast accuracy, and simulated investment performance. GPT-6 Astra and Claude Opus 5.5 lead overall at 68.1 and 66.9 out of 100, yet even Astra scores only 52.5 on Forecast & Model. Our results show that even state-of-the-art models fail to translate overall research capability into predictive performance. ILE shifts the evaluation unit from isolated capabilities to the evidence--assumption--judgment chain, allowing researchers to locate where analytical advantages fail to translate into forecasts and investment judgments, and providing a traceable, diagnostic foundation for training and evaluating financial agents.",
+      "ai_summary": "Investor's Last Exam evaluates financial agents on end-to-end equity research using frozen evidence, expert criteria, and dependency graphs, revealing that top models excel at research but fail at forecasting and investment judgments.",
+      "hf_url": "https://huggingface.co/papers/2610.38342",
+      "arxiv_url": "https://arxiv.org/abs/2610.38342",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.38342.png",
+      "upvotes": 9,
+      "num_comments": 3,
+      "published_at": "2026-10-27T20:00:00.000Z",
+      "github_repo": "https://github.com/Prophetlab/Investor-Last-Exam",
+      "github_stars": 86,
+      "project_page": "https://prophet-lab.cn/benchmarks/investor-last-exam-v1/"
+    },
+    {
       "id": "2508.02739",
       "title": "Kronos: A Foundation Model for the Language of Financial Markets",
       "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
@@ -170,28 +189,9 @@
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
       "github_stars": 2299,
       "project_page": "https://openmoss.ai/MOSS-Image/"
-    },
-    {
-      "id": "2610.36729",
-      "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
-      "authors": "Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng et al. (38 authors)",
-      "organization_name": "Tencent-Hunyuan",
-      "organization_fullname": "Tencent Hunyuan",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
-      "summary": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. Our central design aligns structured video captions with action-aware causal attention: descriptive context remains accessible across segments, while action instructions are restricted to their intended temporal windows. A vision-language Prompt Enhancer (PE) translates user requests and multimodal interaction histories into structured conditions for the next segment. A multi-stage curriculum progressively introduces causal generation, text interaction, camera control, and training on model-generated histories, followed by diffusion distillation. In human evaluation, Hy-Nomas shows superior performance over existing world models. We release model weights, code and benchmarks, together with a lightweight adaptation workflow, to support reproducible research on interactive world generation.",
-      "ai_summary": "Hy-Nomas is a video world model that uses causal attention and structured conditioning to generate interactive, multi-turn video segments with text and camera control.",
-      "hf_url": "https://huggingface.co/papers/2610.36729",
-      "arxiv_url": "https://arxiv.org/abs/2610.36729",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.36729.png",
-      "upvotes": 126,
-      "num_comments": 2,
-      "published_at": "2026-10-26T20:00:00.000Z",
-      "github_repo": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
-      "github_stars": 408,
-      "project_page": "https://hy-nomas.hy.tencent.com/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-30T18:44:15.695568+00:00"
+  "fetched_at": "2026-10-30T22:48:38.893443+00:00"
 }

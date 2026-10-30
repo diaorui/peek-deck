@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-30T18:44:48.648134+00:00'
+updated: '2026-10-30T22:48:53.126607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 30, 2026 at 18:44 UTC  
+**Last Updated:** October 30, 2026 at 22:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,236.38
+### $2,238.21
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -5.5%  
-**30d:** -17.6%  
-**90d:** +18.4%  
-**1y:** -42.1%  
+**24h:** -0.7%  
+**7d:** -5.2%  
+**30d:** -17.3%  
+**90d:** +18.8%  
+**1y:** -41.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.05B
+**Market Cap:** $273.13B
 Rank #2
 
 **Circulating Supply:** 122,174,495 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.0%
+-54.8%
 
 **All-Time Low:** $0.43
-+514095.8%
++516216.0%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tickets and if anyone any single being can sponser or offer me that ticket please My profile is kidna ticket less i need that ticket 😭 FYI : I am a 3rd year Computer science engineering student at Mumbai University and ofc i have too many financial constraints to afford one
 
-4d ago
+5d ago
 
 ---
 
@@ -136,7 +136,7 @@ This is a repost from yesterdays Daily for better visibility. I made a thing tha
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 7d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 8d ago
 
 ---
 
@@ -152,23 +152,9 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards](https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards)**
-
-CoinDesk • 1d ago
-
----
-
-**[Current price of Ethereum for October 30, 2026](https://fortune.com/article/price-of-ethereum-10-30-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
-
----
-
 **[Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)**
 
-CoinDesk • 7h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -176,7 +162,7 @@ CoinDesk • 7h ago
 
 A hacker holding 420,000 stolen ETH has Ethereum traders watching $2,000. Here's why that stash alone probably won't get it there.
 
-24/7 Wall St. • 2h ago
+24/7 Wall St. • 6h ago
 
 ---
 
@@ -184,15 +170,23 @@ A hacker holding 420,000 stolen ETH has Ethereum traders watching $2,000. Here's
 
 Editor’s Note: This story has been updated to include a comment from a Binance spokesperson.Leading cryptocurrencies tumbled on Thursday after news of a multi-billion-dollar hack targeting the Binance cryptocurrency exchange.Crypto Market Spooked by Binance HackBitcoin fell below $77,000, and Ether…
 
-TradingView • 17h ago
+TradingView • 21h ago
 
 ---
 
-**[XRP, Ethereum, Solana Are 3 of the Top 5 Altcoins, Expert Says: And the Other 2?](https://www.tradingview.com/news/benzinga:d67a8f07e094b:0-xrp-ethereum-solana-are-3-of-the-top-5-altcoins-expert-says-and-the-other-2/)**
+**[Bitcoin, Ethereum, XRP Plunge 4%: A Dip Worth Buying?](https://www.tradingview.com/news/benzinga:43a4bbcb1094b:0-bitcoin-ethereum-xrp-plunge-4-a-dip-worth-buying/)**
 
-XRP CRYPTO:XRPUSD, Ethereum CRYPTO:ETHUSD, Solana CRYPTO:SOLUSD, and BNB CRYPTO:BNBUSD remain four of the five top altcoins in the market, according to prominent cryptocurrency analyst CryptosRUs.Why XRP, Ethereum, BNB and Hyperliquid Made the ListGeorge, as the analyst goes by his real name, told…
+Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 4% on the day as chart analyst Ali Martinez identifies key levels where investors could consider buying the dip.Can BTC Find Support At $73,000?In an X post on Oct. 30, Martinez noted that Bitcoin faced rejection afte…
 
-TradingView • 1d ago
+TradingView • 6h ago
+
+---
+
+**[Current price of Ethereum for October 30, 2026](https://fortune.com/article/price-of-ethereum-10-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 6h ago
 
 ---
 
@@ -200,7 +194,7 @@ TradingView • 1d ago
 
 Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents.
 
-CryptoSlate • 18h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -208,7 +202,7 @@ CryptoSlate • 18h ago
 
 MONACO, Oct.  29, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after Coinstore became its fifth CEX partner. The exchan...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -216,19 +210,67 @@ markets.businessinsider.com • 17h ago
 
 Uniswap handled $5.97 billion on Oct. 29 UTC, more than triple its preceding seven-day median, with Ethereum carrying most of the increase.
 
-The Defiant • 13h ago
+The Defiant • 17h ago
 
 ---
 
 **[Crypto Signals and Analysis(@traderboos)'s insights](https://www.binance.com/en/square/post/382622352243219)**
 
-Binance • 22h ago
+Binance • 1d ago
+
+---
+
+**[Ethereum: Below Support Risks S/R Flip](https://blockchain.news/flashnews/ethereum-below-support-risks-s-r-flip)**
+
+CrypNuevo flags Ethereum trading beneath prior strong support on the 4h chart, where consolidation would confirm an S/R flip and open a fresh leg lower.
+
+Blockchain News • 18h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=THOtCuWYWKg)**
+
+Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators For Sale: https://tinyurl.com/tcindicatorstore Free ...
+
+📺 Trade Confident
+
+👁️ 589 • 👍 7 • 💬 1 • ⏱️ 3:53 • 1d ago
+
+---
+
+**[Ethereum: The Target Zone for This Correction](https://www.youtube.com/watch?v=_6sYYJemcM4)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 9K • 👍 205 • 💬 7 • ⏱️ 7:46 • 1d ago
+
+---
+
+**[ETH False](https://www.youtube.com/watch?v=_HlQGMcQWhA)**
+
+Lecture 18 in Ryan O'Donnell's Graduate Computational Complexity course at Carnegie Mellon University.
+
+📺 Ryan O'Donnell
+
+👁️ 47K • 👍 655 • 💬 66 • ⏱️ 1:19:45 • 1d ago
+
+---
+
+**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=tlFhTVTK9z0)**
+
+BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 2K • 👍 96 • ⏱️ 7:05 • 10h ago
+
+---
 
 **[Uh Oh, Robinhood CEO just said this about ethereum](https://www.youtube.com/watch?v=8vTreRje-UA)**
 
@@ -240,23 +282,13 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 ---
 
-**[Binance Got HACKED for $6.3B.. Ethereum Breaks Down!!](https://www.youtube.com/watch?v=3xcop_0O9E0)**
-
-WEEX - where my trade is placed (up to $10000+ in sign-up rewards) https://marzell.org/wx-v103 CoinGPT - the AI Trade ...
-
-📺 Marzell Crypto
-
-👁️ 178 • 👍 12 • 💬 3 • ⏱️ 3:28 • 8h ago
-
----
-
 **[Tom Lee: The 100x Opportunity EVEN Bigger Than Bitcoin (Load Up In OCTOBER) 2026 Prediction](https://www.youtube.com/watch?v=9hTyZhyd4hY)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 63 • 💬 64 • ⏱️ 19:58 • 13h ago
+👁️ 6K • 👍 66 • 💬 70 • ⏱️ 19:58 • 17h ago
 
 ---
 
@@ -266,27 +298,15 @@ Get the complete market edge with DataDash Pro — combining Nick's Dash Report 
 
 📺 DataDash
 
-👁️ 5K • 👍 160 • 💬 16 • ⏱️ 13:32 • 1d ago
+👁️ 5K • 👍 163 • 💬 17 • ⏱️ 13:32 • 1d ago
 
 ---
 
-**[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=THOtCuWYWKg)**
+**[How Important Is the ETH Profile for Understanding the Overnight Auction?](https://www.youtube.com/watch?v=b4xLlxHE_1w)**
 
-Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators For Sale: https://tinyurl.com/tcindicatorstore Free ...
+📺 deepcharts™
 
-📺 Trade Confident
-
-👁️ 557 • 👍 7 • 💬 1 • ⏱️ 3:53 • 1d ago
-
----
-
-**[CRUCIAL ETH BUY AREA NOW!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=wlhR_DFKzTo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 445 • 👍 13 • 💬 28 • ⏱️ 4:48 • 8h ago
+👁️ 5K • 👍 181 • 💬 1 • ⏱️ 0:43 • 11h ago
 
 ---
 
@@ -296,37 +316,17 @@ Im shocked that more people even over the last few years of being in the cryptoc
 
 📺 The Modern Investor
 
-👁️ 12K • 👍 732 • 💬 199 • ⏱️ 30:56 • 1d ago
+👁️ 12K • 👍 737 • 💬 199 • ⏱️ 30:56 • 1d ago
 
 ---
 
-**[Ethereum Crashes After the Binance Hack: How Low Can It Go?](https://www.youtube.com/watch?v=d4_ILykZ4uk)**
+**[Crypto Market Update: Bitcoin, Ethereum &amp; Gold](https://www.youtube.com/watch?v=TI3TRt2EQmc)**
 
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+Bitcoin plunges from $81.5K to $76.5K as security concerns, tech sell-offs, and $1.5B in liquidations shake the crypto market.
 
-📺 More Crypto Online
+📺 Delta Exchange
 
-👁️ 6K • 👍 129 • 💬 8 • ⏱️ 7:47 • 17h ago
-
----
-
-**[BULL RUN 2026 ETHEREUM PRICE and ETH UPDATES!](https://www.youtube.com/watch?v=PenIICTEd4E)**
-
-Is Ethereum undervalued or falling behind? OpenAI's “ETH is false” announcement sparked a crypto Twitter frenzy, while Tom ...
-
-📺 Altcoin Buzz
-
-👁️ 4K • 👍 59 • 💬 6 • ⏱️ 9:20 • 2d ago
-
----
-
-**[BMNR YIELD EXPLODES! Earn Massive APR on BMNR &amp; ETH With MaxFi LP Farming](https://www.youtube.com/watch?v=7-ypsR6mkUo)**
-
-BMNR YIELD EXPLODES! BMNR is now LIVE on Robinhood Chain, allowing investors to earn massive APR through BMNR/ETH ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 39 • 💬 79 • ⏱️ 17:52 • 20h ago
+👁️ 1K • 👍 77 • 💬 1 • ⏱️ 2:55 • 7h ago
 
 ---
 
