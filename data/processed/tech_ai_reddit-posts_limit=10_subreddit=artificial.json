@@ -2,15 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/",
-      "published": 1793288497.0,
-      "thumbnail": "https://external-preview.redd.it/6tnva51n9odJlh4owQG7Vc3NPatsUAHgkojUgMJ0BbY.jpeg?width=640&crop=smart&auto=webp&s=d7ed89f1cda3ef4442141f7cf795811a4e4e4b5e",
-      "external_url": "https://www.techspot.com/news/114351-hackers-unlock-hidden-ai-performance-nvidia-rtx-20.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "The limit lives in the tensor cores. When they multiply FP16 or BF16 numbers and add up the results in higher-precision FP32, GeForce cards issue those instructions..."
+      "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
+      "author": "Naderium",
+      "url": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
+      "published": 1793349688.0,
+      "thumbnail": "https://external-preview.redd.it/qL1hVWnzZez8GZTHFLL1eTEvIzfaoBQUxnLUcY-mqco.jpeg?width=640&crop=smart&auto=webp&s=4988aab435f9a777c8fd0bbed8786b17f012c922",
+      "external_url": "https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
     },
     {
       "title": "Reddit will force everyone to log in",
@@ -22,6 +22,39 @@
       "site_name": "The Verge",
       "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
       "description": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impacting AIs that search the internet via tool calling."
+    },
+    {
+      "title": "Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!",
+      "author": "UREveryone",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/",
+      "published": 1793351429.0,
+      "thumbnail": null,
+      "external_url": "https://muse.ai/s/how-to-use-ai-xyg6dxexr5xpxh9xu/QALF6v_VqhqFcgpqMi74UmMJhc8uenJJ7UqvSQu03Ho",
+      "site_name": "Muse",
+      "favicon": "https://muse.ai/favicon.ico",
+      "description": "Its just such a ridiculous idea to charge someone to teach them how to use a tool that can explain itself."
+    },
+    {
+      "title": "Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/",
+      "published": 1793288497.0,
+      "thumbnail": "https://external-preview.redd.it/6tnva51n9odJlh4owQG7Vc3NPatsUAHgkojUgMJ0BbY.jpeg?width=640&crop=smart&auto=webp&s=d7ed89f1cda3ef4442141f7cf795811a4e4e4b5e",
+      "external_url": "https://www.techspot.com/news/114351-hackers-unlock-hidden-ai-performance-nvidia-rtx-20.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "The limit lives in the tensor cores. When they multiply FP16 or BF16 numbers and add up the results in higher-precision FP32, GeForce cards issue those instructions..."
+    },
+    {
+      "title": "We may have accidentally built the best product research operation in history, staffed entirely by the customers, who pay monthly for the right to contribute to it",
+      "author": "Creamy-And-Crowded",
+      "url": "https://www.reddit.com/r/artificial/comments/1xje0zc/we_may_have_accidentally_built_the_best_product/",
+      "published": 1793363304.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We are all still arguing about whether our chats get used for training, but that's the small comfortable version of the question. Look at what people type into these things all day. I have an idea for a company: Does this make sense? Why has nobody built this yet? Here is what my customers keep complaining about. Should I charge forty or four hundred? And then they stay in there for three hours poking holes in it, comparing competitors, arguing about pricing, sketching the features, and quite often they walk out with the first version of the company already built inside the conversation. That's not data about what people want, but about what people are about to make. Google got rich knowing what a billion people were looking for. This is the sentence before that one. To be clear, I'm not claiming there is someone at OpenAI or Google or Anthropic reading your idea and stealing it. I have no evidence of that, and the boring explanation is worse: nobody has to do anything wrong for the advantage to exist. It's just sitting there, structurally, inside a product we all pay for."
     },
     {
       "title": "31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Links Case to Her Death",
@@ -46,6 +79,17 @@
       "description": "https://epoch.ai/publications/open-weight-models-patch-gap"
     },
     {
+      "title": "We see Claude make leap improvement, but google AI-modus feels old and stale?",
+      "author": "RetoricEuphoric",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjb3ux/we_see_claude_make_leap_improvement_but_google/",
+      "published": 1793353941.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I would expect products to evolve at somewhat same pace. Claude feels like it is evolving into a more capable thinking and working partner. Google AI Mode still feels primarily like a search engine with a disconnect AI interface from search."
+    },
+    {
       "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand \u2014 $63 million injection is the largest investment in tape for 20 years",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/",
@@ -57,60 +101,16 @@
       "description": "The move will see the company's largest investment in tape-based data center storage medium in the last two decades."
     },
     {
-      "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion | TechCrunch",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xinf2c/microsoft_just_shared_azures_actual_revenue_in/",
-      "published": 1793288394.0,
-      "thumbnail": "https://external-preview.redd.it/xkPYL6y5LHwABE_ZpXMA_UejMaPMa5s9o-vKVR05PzM.png?width=640&crop=smart&auto=webp&s=e9dd9f811a11310829c24a2fc987952e26ee3d56",
-      "external_url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "site_name": "TechCrunch",
-      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
-      "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
-    },
-    {
-      "title": "A real citation can still be the wrong evidence for an AI answer",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1xj360n/a_real_citation_can_still_be_the_wrong_evidence/",
-      "published": 1793326070.0,
+      "title": "The model advances AI image generation by allowing users to make precise changes without unintentionally altering other details.",
+      "author": "URochester_Hajim",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjeruw/the_model_advances_ai_image_generation_by/",
+      "published": 1793365319.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "An AI answer says a treatment \u201cimproves long-term outcomes\u201d and links to a real study. But suppose that study only measured a short-term indicator. The link works, the paper exists, and the claim still goes beyond the evidence. Checking whether a citation is fabricated only catches one kind of error. I\u2019d like research assistants to show the specific passage supporting a claim, along with the study population and what was actually measured. That would make it easier to spot a conclusion that quietly changed scope. When checking an AI-assisted literature summary, which mismatch do you look for first: population, outcome, time period, or strength of the conclusion?"
-    },
-    {
-      "title": "Working on a Jarvis invoice inspired Voice Agent.",
-      "author": "Input-X",
-      "url": "https://www.reddit.com/r/artificial/comments/1xivelj/working_on_a_jarvis_invoice_inspired_voice_agent/",
-      "published": 1793306055.0,
-      "thumbnail": "https://preview.redd.it/mhm1s7b1vgyh1.png?width=640&crop=smart&auto=webp&s=6cb9fb67346a68645737d1404aba0b0219bbd78d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Only a couple hours at this, taking shape. Hardest thing is the layout what to include. Back-end is complete, just need a face, Ive been running my voice agent in the background for a while with no interface. What you think. Cool fun project. will probs be so over engineered lol. will MIT opensource when done."
-    },
-    {
-      "title": "A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.",
-      "author": "Aware_Bell1295",
-      "url": "https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/",
-      "published": 1793281582.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am Ekin, a one-person game studio in Turkey. On 28 October the free demo of Iron Curtain Call went live on Steam: a fast cartoon-noir FPS set in an alternate 1965 where a customer-service AI runs World War III. The code is written by Claude Code agents working from my design documents: 3,929 commits over 20 working days by 25 October, in Godot 4.7. The full game, 12 chapters, releases on 11 March 2027. What the agents did well: the game's systems (a Doom-style resource loop, nine weapons planned, about 49 robot types planned, bosses), the HUD, the tooling, and a headless test suite that gates every merge (zero script errors, a bot that plays the level, navigation and geometry checks). They work in parallel: one lead session, feature sessions in the cloud, one per workstream, each on its own branch. What they could not do: know what is fun. Level design that surprises took the most time of anything; the demo's level went through four versions, and a human playtest added a whole section. Every joke, the story and the cuts are mine. The agents also hit real engine bugs (a Godot audio-thread race in headless runs) and platform quirks (a minute of shader compilation on Macs) that needed measured workarounds, not prompts. Disclosure, as on the store page: voices are ElevenLabs (about 2,800 recorded lines), some art and the cinematics are Higgsfield, the score is FluidSynth plus a few ElevenLabs cues. No AI runs during play. Several subreddits for the genre ban games made with generative AI, which is its own data point about where this is heading. Demo: https://store.steampowered.com/app/5417460/Iron_Curtain_Call/ Happy to answer questions about the workflow and the limits. Drafted with the lead agent, edited by me."
-    },
-    {
-      "title": "AI is now being used to catch forged and deepfake documents in visa processing. Where does this go wrong?",
-      "author": "Loked_In_Aunty",
-      "url": "https://www.reddit.com/r/artificial/comments/1xj6sks/ai_is_now_being_used_to_catch_forged_and_deepfake/",
-      "published": 1793337452.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Visa processing is starting to use AI to screen documents. Earlier this month, BLS International, which runs visa and consular services for governments in over 100 countries, announced an integration with Signzy, an identity-verification company. The stated capabilities are: Document intelligence: scanning submitted documents for anomalies that could point to manipulation Deepfake detection: flagging material that has been AI-generated or digitally altered The operating model they describe is: technology flags, people verify, governments decide. Final visa decisions stay with governments. What the announcement doesn\u2019t include is any numbers: no accuracy rates, false positive rates or effect on processing times. That\u2019s normal for an integration announcement, but it means the interesting questions are still open. Where I think this could go wrong: 1. False positives land on real people. A bank statement re-saved as a PDF, a photo scanned on a cheap printer, a stamp that\u2019s faded. To a model, these can all look like tampering. Even a 1% false flag rate at visa scale means thousands of genuine applicants getting extra scrutiny. 2. \u201cHuman review\u201d can become a rubber stamp. If reviewers see a red flag next to a file and have 90 seconds per case, how often do they overrule the machine? The safeguard only works if reviewers have the time and authority to disagree. 3. Uneven document quality across countries. Documents from some countries or issuing authorities are less standardised. A model trained mostly on one kind of document may flag others more often. 4. The arms race. The tools for generating fake documents are improving as fast as the tools for detecting them. A detection system is only as good as its last update. 5. Privacy. Document and biometric data is about as sensitive as data gets. Where it is processed, how long it\u2019s kept and who audits the model all matter as much as detection accuracy. Where it clearly helps: Manual checks are slow and inconsistent, and reviewers get tired. A system that catches obvious manipulation early lets people spend their time on the hard cases. In theory, that\u2019s faster for honest applicants too. Question for the sub: How should organisations balance faster automated checks with human verification? And what would you want disclosed (error rates, audits, appeal routes) before trusting a system like this? Source in the first comment."
+      "description": "People who use AI text-to-image generator like ChatGPT or Google Gemini often encounter a maddening problem: the image looks nearly perfect, but when you ask the AI to fix one small detail, it messes up something unrelated. The issue is caused by the way most state-of-the-art image generators are built using a diffusion model in latent space, meaning they compress concepts such as a cat or a dog into their essential details and store them so they can be retrieved quickly and efficiently when it\u2019s time to create an image. Researchers at the University of Rochester and NVIDIA created a pixel-space diffusion model that allows users to make precise changes to individual pixels without unintentionally altering other details**.** News summary: https://www.rochester.edu/newscenter/how-to-fix-ai-generated-images-pixel-by-pixel-728132/ Research paper: https://doi.org/10.48550/arXiv.2609.24919 GitHub: https://pixeldit.github.io/pixeldit2/"
     }
   ],
-  "fetched_at": "2026-10-30T06:13:56.938457+00:00"
+  "fetched_at": "2026-10-30T13:20:18.601831+00:00"
 }
