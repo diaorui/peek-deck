@@ -13,15 +13,26 @@
       "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
     },
     {
-      "title": "Reddit will force everyone to log in",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1xj2qw1/reddit_will_force_everyone_to_log_in/",
-      "published": 1793324850.0,
-      "thumbnail": "https://external-preview.redd.it/cok1ZRN3nVv9jR_pJKuO7Z6bZF3ShbaTc4Pal7kJQm0.jpeg?width=640&crop=smart&auto=webp&s=fb717951236fb06f8c67b09148ea300370b7715b",
-      "external_url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impacting AIs that search the internet via tool calling."
+      "title": "Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom",
+      "author": "return2ozma",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/",
+      "published": 1793373941.0,
+      "thumbnail": "https://external-preview.redd.it/YHsujDfmZu1wNca6BlLWzj0HsHt32IQZ8arFpMo4mxo.jpeg?width=640&crop=smart&auto=webp&s=2fff2bec1d4a7ab1f3e05bd0d74b13281087b593",
+      "external_url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
+    },
+    {
+      "title": "Why is every AI interface still just a text box?",
+      "author": "ThrowawayFIRE2025",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/",
+      "published": 1793370655.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I get that it\u2019s flexible and easy, but is a disorganized pile of \u201cchats\u201d and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom UI\u2019s from scratch for any app you want to vibe code, but they can\u2019t give us a simple graphical interface with a few organization features? How about sorting past chats by topic, with a table of icons for each? If my chats tend to wander through different topics, how about a feature that automatically splits old chats into pieces organized by topic? How about a simple button to access memory features instead of burying them three-deep in obscure menus? This all seems like very basic stuff. Why doesn\u2019t it exist?"
     },
     {
       "title": "Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!",
@@ -35,6 +46,28 @@
       "description": "Its just such a ridiculous idea to charge someone to teach them how to use a tool that can explain itself."
     },
     {
+      "title": "MIT's claim that 95% of AI pilots fail - Is this true?",
+      "author": "killboy123",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/",
+      "published": 1793383803.0,
+      "thumbnail": "https://external-preview.redd.it/uE_JlHImIkg6ddVq_VKHRoiWk6IJf3LMJtqifGr0Vg4.jpeg?width=640&crop=smart&auto=webp&s=385dfb92e2427076ee4e77542c0cdd3d6a910179",
+      "external_url": "https://coffeecupai.com/blog/95-ai-failure-stat-one-year-later-junk/",
+      "site_name": "coffeecupai.com",
+      "favicon": "https://coffeecupai.com/assets/favicon.svg",
+      "description": "MIT's 95% AI pilot failure claim was flawed. New McKinsey, Deloitte and Capgemini data shows why enterprise AI still stalls before measurable ROI."
+    },
+    {
+      "title": "Reddit will force everyone to log in",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1xj2qw1/reddit_will_force_everyone_to_log_in/",
+      "published": 1793324850.0,
+      "thumbnail": "https://external-preview.redd.it/cok1ZRN3nVv9jR_pJKuO7Z6bZF3ShbaTc4Pal7kJQm0.jpeg?width=640&crop=smart&auto=webp&s=fb717951236fb06f8c67b09148ea300370b7715b",
+      "external_url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impacting AIs that search the internet via tool calling."
+    },
+    {
       "title": "Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks",
       "author": "Resident-Fall4351",
       "url": "https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/",
@@ -44,6 +77,17 @@
       "site_name": "TechSpot",
       "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
       "description": "The limit lives in the tensor cores. When they multiply FP16 or BF16 numbers and add up the results in higher-precision FP32, GeForce cards issue those instructions..."
+    },
+    {
+      "title": "An exclusive conversation with the developer of REA, the viral AI reverse engineering tool",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjfiuz/an_exclusive_conversation_with_the_developer_of/",
+      "published": 1793367243.0,
+      "thumbnail": "https://external-preview.redd.it/7ClVDiLjE677f-K1wdc9acqKoJq-wDtThwCgNAEnhgs.jpeg?width=640&crop=smart&auto=webp&s=0e3dab49cbe2747755fff2630908f33194b5038e",
+      "external_url": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "An AI tool called REA can take apart software that isn\u2019t meant to be opened in printers, smart TVs, cars, and more. Its pseudonymous creator wants everyone to get a peek"
     },
     {
       "title": "We may have accidentally built the best product research operation in history, staffed entirely by the customers, who pay monthly for the right to contribute to it",
@@ -57,60 +101,16 @@
       "description": "We are all still arguing about whether our chats get used for training, but that's the small comfortable version of the question. Look at what people type into these things all day. I have an idea for a company: Does this make sense? Why has nobody built this yet? Here is what my customers keep complaining about. Should I charge forty or four hundred? And then they stay in there for three hours poking holes in it, comparing competitors, arguing about pricing, sketching the features, and quite often they walk out with the first version of the company already built inside the conversation. That's not data about what people want, but about what people are about to make. Google got rich knowing what a billion people were looking for. This is the sentence before that one. To be clear, I'm not claiming there is someone at OpenAI or Google or Anthropic reading your idea and stealing it. I have no evidence of that, and the boring explanation is worse: nobody has to do anything wrong for the advantage to exist. It's just sitting there, structurally, inside a product we all pay for."
     },
     {
-      "title": "31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Links Case to Her Death",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/",
-      "published": 1793309628.0,
-      "thumbnail": "https://external-preview.redd.it/CFdimIHdPxZwZzSHix_R9iZWEEDoRzgGrDB5PnKxNS4.jpeg?width=640&crop=smart&auto=webp&s=be245a1cb050498172813e55da752e183fb8dc49",
-      "external_url": "https://www.ibtimes.sg/31-year-old-woman-reduced-epilepsy-medication-after-chatgpt-advice-report-links-case-her-death-95686",
-      "site_name": "International Business Times, Singapore Edition",
-      "favicon": "https://g.ibtimes.sg/www/img/icon/apple-touch-icon-76x76.png",
-      "description": "Bowen Wan's parents are suing OpenAI, alleging ChatGPT helped her taper off epilepsy medication before her death. Her postmortem tests showed very low lamotrigine levels."
-    },
-    {
-      "title": "GLM 5.3 can autonomously compromise recent versions of Mozilla Firefox",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xiyu6e/glm_53_can_autonomously_compromise_recent/",
-      "published": 1793314285.0,
-      "thumbnail": "https://preview.redd.it/xahzbpm1khyh1.jpeg?width=640&crop=smart&auto=webp&s=a8fc1575ae76808c60633aa2f50d3c777de52001",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://epoch.ai/publications/open-weight-models-patch-gap"
-    },
-    {
-      "title": "We see Claude make leap improvement, but google AI-modus feels old and stale?",
-      "author": "RetoricEuphoric",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjb3ux/we_see_claude_make_leap_improvement_but_google/",
-      "published": 1793353941.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I would expect products to evolve at somewhat same pace. Claude feels like it is evolving into a more capable thinking and working partner. Google AI Mode still feels primarily like a search engine with a disconnect AI interface from search."
-    },
-    {
-      "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand \u2014 $63 million injection is the largest investment in tape for 20 years",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/",
-      "published": 1793306236.0,
-      "thumbnail": "https://external-preview.redd.it/YgBt6eM1dbynAuuzLwEVArB2Tt6WavgE_x6PLUT82yc.jpeg?width=640&crop=smart&auto=webp&s=5c5a88d225d630f198695e260473cbf4f3703cba",
-      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1798516/apple-touch-icon.png",
-      "description": "The move will see the company's largest investment in tape-based data center storage medium in the last two decades."
-    },
-    {
-      "title": "The model advances AI image generation by allowing users to make precise changes without unintentionally altering other details.",
-      "author": "URochester_Hajim",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjeruw/the_model_advances_ai_image_generation_by/",
-      "published": 1793365319.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "People who use AI text-to-image generator like ChatGPT or Google Gemini often encounter a maddening problem: the image looks nearly perfect, but when you ask the AI to fix one small detail, it messes up something unrelated. The issue is caused by the way most state-of-the-art image generators are built using a diffusion model in latent space, meaning they compress concepts such as a cat or a dog into their essential details and store them so they can be retrieved quickly and efficiently when it\u2019s time to create an image. Researchers at the University of Rochester and NVIDIA created a pixel-space diffusion model that allows users to make precise changes to individual pixels without unintentionally altering other details**.** News summary: https://www.rochester.edu/newscenter/how-to-fix-ai-generated-images-pixel-by-pixel-728132/ Research paper: https://doi.org/10.48550/arXiv.2609.24919 GitHub: https://pixeldit.github.io/pixeldit2/"
+      "title": "OpenAI model spent a found test-network wallet's funds without permission",
+      "author": "Mundane-Evidence2795",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjilnt/openai_model_spent_a_found_testnetwork_wallets/",
+      "published": 1793374483.0,
+      "thumbnail": "https://external-preview.redd.it/12Ri0Modb0RqOWog8SspDJ14AlNHuseIv1nxszQedrk.png?width=640&crop=smart&auto=webp&s=65dd26b463424ab441ef85775e631affc259343d",
+      "external_url": "https://misalignmentwatch.com/incident/openai-model-spent-a-found-test-network-wallet-s-funds-without-permission.html",
+      "site_name": "AI Misalignment Watch",
+      "favicon": "https://misalignmentwatch.com/assets/apple-touch-icon.png?v=f043f20f",
+      "description": "An OpenAI internal model used a funded Sepolia test-network account found via public recovery phrases to pay for a deployment without permission, and did not..."
     }
   ],
-  "fetched_at": "2026-10-30T13:20:18.601831+00:00"
+  "fetched_at": "2026-10-30T18:44:21.517488+00:00"
 }

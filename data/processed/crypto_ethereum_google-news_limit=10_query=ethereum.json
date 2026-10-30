@@ -5,11 +5,21 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Current price of Ethereum for MM-DD-YYYY",
+      "headline": "ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0hrMTRsNlVZYk9hb2FQTEprWXpvbnlhMUhWYlRidkNzdjhRWXNPNmRjQWhoZjVZNkNmd0k1MDBDZUNvUm9mdUY5bXdncXlZeUdhODlLaFpzUjN3Z2lVaTNfMHI1eHBEVkxuZkJyV0I1cTMxODZZSFdLa0VyYWVWTG85OGpHbEhaZzFjMWZpUXBGT3dRajk0SUVfeFNpWS1CMlZlOVZoaVluWjR6QzZDdzhSUTI?oc=5",
+      "pub_date": 1793252078.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Current price of Ethereum for October 30, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mTDNVY2Y3bUlWQnAtb21veWlzYlpDZ0NWV3pjWm9tbVRyTnM5RWlpenRnSU0tbElRS1dSZGh1cWFUQi1scVZJcUtKWWgyT2h5S1k2Z0RSVGVTdk5GTzNPUVhRUkhEUm13?oc=5",
-      "pub_date": 1793363871.0,
+      "pub_date": 1793367143.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-10-30-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-30.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -23,6 +33,26 @@
       "article_url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "The Binance Hacker Now Holds More Than 420,000 ETH. Could Selling It Push Ethereum Below $2,000?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3lnbHA4MEp0Tktsem83YTNua3VwdERHQVNseThiRFl4Y0NpeVhwc0gzSW9ZS3ZCLURUdTJEU1N5SEd4ZjlZSnpUSVdTYXRBNkFEM2JSRUZZV0xpbEctMkF3ZXNWVm1HSjVaakg5N1RwVlNDdy1LcFhrOEFJS3JhVzdhdVVBSFl2ZjV5UHJRVW93WU45OEViVWpsZktSOWw3alU0ZHpZeXNjaFA2Q1VNaFRyRkRXVnNKTFJ0WTRNNG5lMXRzUXBXMWpIU20wMy1vMG1sa2JEaXlOYjgwSFk3OS1vS04?oc=5",
+      "pub_date": 1793377140.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/30/the-binance-hacker-now-holds-more-than-420000-eth-could-selling-it-push-ethereum-below-2000/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2027855198-scaled.jpg",
+      "description": "A hacker holding 420,000 stolen ETH has Ethereum traders watching $2,000. Here's why that stash alone probably won't get it there."
+    },
+    {
+      "headline": "Binance Hack Drives Bitcoin Below $77,000, Ethereum, XRP, Dogecoin Also in the Red: Top Analyst Identifies Where to Buy the 'Dip' in the \u2018Bloodbath' (UPDATED)",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQLTRzNEtZcG81WUg3Wm85SFdBNGFtUmpaWm5tMFdYTW9KVkVTR0NXTmwxVTh1T192OVNhcXJ4bXRTQkRuSDVCQWFyUm1LRFh3WUZLcUpTeXhzclgyMU9qU2QxN3BOeF9ULWpBakVjYkhmVE1hVk9XbDBBWC1ZNkNOZ1ZUa3FPVnM1OWhiVjF5T0FVbVdhVUtkSTlzVzV4YXVhbG5GMm01ZzJIN2YydmNHaXA0SlhLSnpLdFZoUzJTcDgzb2U0R0syWk1nMWxzNmd6cnFoUkRVYW0ydUdhUG5sTjFMSUNmRmlVR3R0T2hkZHVQdGtfZ2ZOQUZkU2FxTUdxbEs3d2t4ZVFwSmMzZmdNSFd4dl82UkctWVlqTmJxYjJGV3Z1WXVlRDdlQjJwT3M?oc=5",
+      "pub_date": 1793324580.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:608f8ca51094b:0-binance-hack-drives-bitcoin-below-77-000-ethereum-xrp-dogecoin-also-in-the-red-top-analyst-identifies-where-to-buy-the-dip-in-the-bloodbath-updated/",
+      "image": "https://s3.tradingview.com/news/image/benzinga:608f8ca51094b-f85c57d6582615d87b0907ae11e02687-resized.jpeg",
+      "description": "Editor\u2019s Note: This story has been updated to include a comment from a Binance spokesperson.Leading cryptocurrencies tumbled on Thursday after news of a multi-billion-dollar hack targeting the Binance cryptocurrency exchange.Crypto Market Spooked by Binance HackBitcoin fell below $77,000, and Ether\u2026"
     },
     {
       "headline": "XRP, Ethereum, Solana Are 3 of the Top 5 Altcoins, Expert Says: And the Other 2?",
@@ -45,16 +75,6 @@
       "description": "Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents."
     },
     {
-      "headline": "Crypto Signals and Analysis(@traderboos)'s insights",
-      "source": "Binance",
-      "source_url": "https://www.binance.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TV1NNOTVuSGhtMGhLbzYyVC0yeEZLREJQbklkQy11TVQ4VnIyMFlCY1h1d0NHdVBzbmZLQnJEWFluSGdORk5LNURxbFRHSFFkUmd6OVZUc1RUYTBpUF81Ml9pXzY?oc=5",
-      "pub_date": 1793304860.0,
-      "article_url": "https://www.binance.com/en/square/post/382622352243219",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Crypto News Today: AlphaPepe Secures Coinstore Partnership While Ethereum Price Prediction Targets $5,000",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -69,42 +89,22 @@
       "source": "The Defiant",
       "source_url": "https://thedefiant.io",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlJoNXV2NWs0U3Q1X216cDJjRTdRY3Y0aE5uTVVZZ2ZXTldLc2htZ3ZtWlROdkgzMkEzTVZyLWxnb0trN25SWXAwUE1WN2JHRk9pUjVhNy05QXNTWEcyVE9haUFkWkVXa0JTbnhxbnMzdWdPLWdTeWZBNkxlWUM1Tkg2dllhdmJzRkthOVgyZW5WR1V4ckE?oc=5",
-      "pub_date": 1793341575.0,
+      "pub_date": 1793337683.0,
       "article_url": "https://thedefiant.io/news/defi/uniswap-volume-tops-5-97-billion-as-ethereum-trading-surges",
       "image": "https://cdn.sanity.io/images/6oftkxoa/production/3cb6c97f84904242fd44db630d584ccae450abcf-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
       "description": "Uniswap handled $5.97 billion on Oct. 29 UTC, more than triple its preceding seven-day median, with Ethereum carrying most of the increase."
     },
     {
-      "headline": "Ethereum: Below Support Risks S/R Flip",
-      "source": "blockchain.news",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBETG9CcFZiYjZxblRTVnkzdWlYRUtGLURkeURFTWNnQXRqQTc5eEdDSG95d3gzMGViU2J4enoyM0RFN1BYVGtGczFlLXBBa3FHR29PaXJLc2N6SzhfNmVYVTBkN1R3YkY5bGxqZHNPemgxZW5IMmxjWF9qUQ?oc=5",
-      "pub_date": 1793335500.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-below-support-risks-s-r-flip",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "CrypNuevo flags Ethereum trading beneath prior strong support on the 4h chart, where consolidation would confirm an S/R flip and open a fresh leg lower."
-    },
-    {
-      "headline": "US Crypto ETFs Record $116 Million in Net Outflows as Ethereum Withdrawals Hit $105.5 Million",
-      "source": "FinanceFeeds",
-      "source_url": "https://financefeeds.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3NQNjU2ODFBOERJckpYcEZLX0lZczVGRml2SFVCNUN4b05PRXMtUHlEck5xSlNlVXVjcEdITGRKMW9HWHpxcTVQY1ByNERoSlBmMFY2WEktV0s1NnV1d2tESlVrVnRfY25tSHhxUENyaFFMX3dMdFg1ekROZ0hCS0lrNHd5bmxhZ1hwSjFXU0puWlVSZlFrQzU0dExqTFduRWoyYW5uTnAzSExTSzNNbHpiWFFjbTlu?oc=5",
-      "pub_date": 1793349032.0,
-      "article_url": "https://financefeeds.com/us-crypto-etfs-record-116-million-in-net-outflows-as-ethereum-withdrawals-hit-105-5-million/",
-      "image": "https://financefeeds.com/wp-content/uploads/2026/08/Bitcoin-ETFs-Absorb-1.9-Billion-in-Their-Best-Week-Yet.jpg",
-      "description": "US spot crypto ETFs posted $116M in net outflows on Oct 29 as Ethereum funds lost $105.5M and Solana $27.7M, while Bitcoin ETFs added $17.2M."
-    },
-    {
-      "headline": "Binance Says User Funds Are \u2018Completely Safe\u2019 After $3.5 Billion Drains From Its Hot Wallets",
-      "source": "unchainedcrypto.com",
-      "source_url": "https://unchainedcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLTEyQmZULVo1NU5GWjQ1M3JwV0VoR3ljaGhvVlBjNmNTakREUVZ1NWgzLV9pbmpOUjlXUF9uMzdVSlpVaHR3OTFvMEhha1ZtQUh3VkhRTmpFNnA2LVFTSVNXSFMxa0s4NmFEN1dxaU82OGd2ME9ILUtwSDZhZGJ4QnNQLXBOSU9icHVJTGViT3RYSHc0TDQ2Z1J2SHA1QmFpUWhpZ2xVZGEtZERKTWJ2QjFBWnl0QXkwMGc?oc=5",
-      "pub_date": 1793313840.0,
-      "article_url": "https://unchainedcrypto.com/binance-says-user-funds-are-completely-safe-after-3-5-billion-drains-from-its-hot-wallets/",
-      "image": "https://unchainedcrypto.com/wp-content/uploads/2026/10/binance-66a32478-b4e3-46a7-8704-d2c284cf58d2-1024x576.png",
-      "description": "Binance says \"user funds are completely safe\" as Unchained's own count shows about $3.5 billion left wallets Etherscan labels as Binance's, on Ethereum alone."
+      "headline": "Crypto Signals and Analysis(@traderboos)'s insights",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TV1NNOTVuSGhtMGhLbzYyVC0yeEZLREJQbklkQy11TVQ4VnIyMFlCY1h1d0NHdVBzbmZLQnJEWFluSGdORk5LNURxbFRHSFFkUmd6OVZUc1RUYTBpUF81Ml9pXzY?oc=5",
+      "pub_date": 1793304860.0,
+      "article_url": "https://www.binance.com/en/square/post/382622352243219",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-30T13:20:42.893160+00:00"
+  "fetched_at": "2026-10-30T18:44:37.761462+00:00"
 }
