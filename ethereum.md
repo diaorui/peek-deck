@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-30T13:20:54.027567+00:00'
+updated: '2026-10-30T18:44:48.648134+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 30, 2026 at 13:20 UTC  
+**Last Updated:** October 30, 2026 at 18:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,242.69
+### $2,236.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
+**24h:** -4.5%  
 **7d:** -5.5%  
 **30d:** -17.6%  
 **90d:** +18.4%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.10B
+**Market Cap:** $272.05B
 Rank #2
 
 **Circulating Supply:** 122,174,495 ETH
@@ -62,7 +62,7 @@ No max supply
 -55.0%
 
 **All-Time Low:** $0.43
-+514356.8%
++514095.8%
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 6d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 7d ago
 
 ---
 
@@ -144,7 +144,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-7d ago
+8d ago
 
 ---
 
@@ -152,17 +152,39 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[Current price of Ethereum for MM-DD-YYYY](https://fortune.com/article/price-of-ethereum-10-30-2026/)**
+**[ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards](https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards)**
+
+CoinDesk • 1d ago
+
+---
+
+**[Current price of Ethereum for October 30, 2026](https://fortune.com/article/price-of-ethereum-10-30-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 43m ago
+Fortune • 5h ago
 
 ---
 
 **[Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)**
 
-CoinDesk • 1h ago
+CoinDesk • 7h ago
+
+---
+
+**[The Binance Hacker Now Holds More Than 420,000 ETH. Could Selling It Push Ethereum Below $2,000?](https://247wallst.com/investing/cryptocurrency/2026/10/30/the-binance-hacker-now-holds-more-than-420000-eth-could-selling-it-push-ethereum-below-2000/)**
+
+A hacker holding 420,000 stolen ETH has Ethereum traders watching $2,000. Here's why that stash alone probably won't get it there.
+
+24/7 Wall St. • 2h ago
+
+---
+
+**[Binance Hack Drives Bitcoin Below $77,000, Ethereum, XRP, Dogecoin Also in the Red: Top Analyst Identifies Where to Buy the 'Dip' in the ‘Bloodbath' (UPDATED)](https://www.tradingview.com/news/benzinga:608f8ca51094b:0-binance-hack-drives-bitcoin-below-77-000-ethereum-xrp-dogecoin-also-in-the-red-top-analyst-identifies-where-to-buy-the-dip-in-the-bloodbath-updated/)**
+
+Editor’s Note: This story has been updated to include a comment from a Binance spokesperson.Leading cryptocurrencies tumbled on Thursday after news of a multi-billion-dollar hack targeting the Binance cryptocurrency exchange.Crypto Market Spooked by Binance HackBitcoin fell below $77,000, and Ether…
+
+TradingView • 17h ago
 
 ---
 
@@ -170,7 +192,7 @@ CoinDesk • 1h ago
 
 XRP CRYPTO:XRPUSD, Ethereum CRYPTO:ETHUSD, Solana CRYPTO:SOLUSD, and BNB CRYPTO:BNBUSD remain four of the five top altcoins in the market, according to prominent cryptocurrency analyst CryptosRUs.Why XRP, Ethereum, BNB and Hyperliquid Made the ListGeorge, as the analyst goes by his real name, told…
 
-TradingView • 22h ago
+TradingView • 1d ago
 
 ---
 
@@ -178,13 +200,7 @@ TradingView • 22h ago
 
 Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents.
 
-CryptoSlate • 12h ago
-
----
-
-**[Crypto Signals and Analysis(@traderboos)'s insights](https://www.binance.com/en/square/post/382622352243219)**
-
-Binance • 17h ago
+CryptoSlate • 18h ago
 
 ---
 
@@ -192,7 +208,7 @@ Binance • 17h ago
 
 MONACO, Oct.  29, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after Coinstore became its fifth CEX partner. The exchan...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 17h ago
 
 ---
 
@@ -200,31 +216,13 @@ markets.businessinsider.com • 11h ago
 
 Uniswap handled $5.97 billion on Oct. 29 UTC, more than triple its preceding seven-day median, with Ethereum carrying most of the increase.
 
-The Defiant • 6h ago
+The Defiant • 13h ago
 
 ---
 
-**[Ethereum: Below Support Risks S/R Flip](https://blockchain.news/flashnews/ethereum-below-support-risks-s-r-flip)**
+**[Crypto Signals and Analysis(@traderboos)'s insights](https://www.binance.com/en/square/post/382622352243219)**
 
-CrypNuevo flags Ethereum trading beneath prior strong support on the 4h chart, where consolidation would confirm an S/R flip and open a fresh leg lower.
-
-blockchain.news • 8h ago
-
----
-
-**[US Crypto ETFs Record $116 Million in Net Outflows as Ethereum Withdrawals Hit $105.5 Million](https://financefeeds.com/us-crypto-etfs-record-116-million-in-net-outflows-as-ethereum-withdrawals-hit-105-5-million/)**
-
-US spot crypto ETFs posted $116M in net outflows on Oct 29 as Ethereum funds lost $105.5M and Solana $27.7M, while Bitcoin ETFs added $17.2M.
-
-FinanceFeeds • 4h ago
-
----
-
-**[Binance Says User Funds Are ‘Completely Safe’ After $3.5 Billion Drains From Its Hot Wallets](https://unchainedcrypto.com/binance-says-user-funds-are-completely-safe-after-3-5-billion-drains-from-its-hot-wallets/)**
-
-Binance says "user funds are completely safe" as Unchained's own count shows about $3.5 billion left wallets Etherscan labels as Binance's, on Ethereum alone.
-
-unchainedcrypto.com • 14h ago
+Binance • 22h ago
 
 ---
 
@@ -238,7 +236,7 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 2K • 💬 84 • ⏱️ 9:45 • 1d ago
+👁️ 70K • 👍 2K • 💬 84 • ⏱️ 9:45 • 1d ago
 
 ---
 
@@ -248,7 +246,17 @@ WEEX - where my trade is placed (up to $10000+ in sign-up rewards) https://marze
 
 📺 Marzell Crypto
 
-👁️ 97 • 👍 10 • 💬 2 • ⏱️ 3:28 • 3h ago
+👁️ 178 • 👍 12 • 💬 3 • ⏱️ 3:28 • 8h ago
+
+---
+
+**[Tom Lee: The 100x Opportunity EVEN Bigger Than Bitcoin (Load Up In OCTOBER) 2026 Prediction](https://www.youtube.com/watch?v=9hTyZhyd4hY)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 63 • 💬 64 • ⏱️ 19:58 • 13h ago
 
 ---
 
@@ -258,17 +266,7 @@ Get the complete market edge with DataDash Pro — combining Nick's Dash Report 
 
 📺 DataDash
 
-👁️ 5K • 👍 155 • 💬 16 • ⏱️ 13:32 • 21h ago
-
----
-
-**[Ethereum Crashes After the Binance Hack: How Low Can It Go?](https://www.youtube.com/watch?v=d4_ILykZ4uk)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 119 • 💬 8 • ⏱️ 7:47 • 12h ago
+👁️ 5K • 👍 160 • 💬 16 • ⏱️ 13:32 • 1d ago
 
 ---
 
@@ -278,17 +276,7 @@ Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators Fo
 
 📺 Trade Confident
 
-👁️ 546 • 👍 7 • 💬 17 • ⏱️ 3:53 • 19h ago
-
----
-
-**[XRP Overtakes Bitcoin &amp; Ethereum Whales Are Going To Own Everything Soon Crypto Bull Run Comeback](https://www.youtube.com/watch?v=_9WjqcqWbk4)**
-
-Im shocked that more people even over the last few years of being in the cryptocurrency space just manage to ignore this type of ...
-
-📺 The Modern Investor
-
-👁️ 12K • 👍 726 • 💬 199 • ⏱️ 30:56 • 1d ago
+👁️ 557 • 👍 7 • 💬 1 • ⏱️ 3:53 • 1d ago
 
 ---
 
@@ -298,7 +286,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.c
 
 📺 Cilinix Crypto
 
-👁️ 169 • 👍 10 • 💬 1 • ⏱️ 4:48 • 3h ago
+👁️ 445 • 👍 13 • 💬 28 • ⏱️ 4:48 • 8h ago
+
+---
+
+**[XRP Overtakes Bitcoin &amp; Ethereum Whales Are Going To Own Everything Soon Crypto Bull Run Comeback](https://www.youtube.com/watch?v=_9WjqcqWbk4)**
+
+Im shocked that more people even over the last few years of being in the cryptocurrency space just manage to ignore this type of ...
+
+📺 The Modern Investor
+
+👁️ 12K • 👍 732 • 💬 199 • ⏱️ 30:56 • 1d ago
+
+---
+
+**[Ethereum Crashes After the Binance Hack: How Low Can It Go?](https://www.youtube.com/watch?v=d4_ILykZ4uk)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 129 • 💬 8 • ⏱️ 7:47 • 17h ago
 
 ---
 
@@ -308,27 +316,17 @@ Is Ethereum undervalued or falling behind? OpenAI's “ETH is false” announcem
 
 📺 Altcoin Buzz
 
-👁️ 4K • 👍 59 • 💬 6 • ⏱️ 9:20 • 1d ago
+👁️ 4K • 👍 59 • 💬 6 • ⏱️ 9:20 • 2d ago
 
 ---
 
-**[ETH False](https://www.youtube.com/watch?v=_HlQGMcQWhA)**
+**[BMNR YIELD EXPLODES! Earn Massive APR on BMNR &amp; ETH With MaxFi LP Farming](https://www.youtube.com/watch?v=7-ypsR6mkUo)**
 
-Lecture 18 in Ryan O'Donnell's Graduate Computational Complexity course at Carnegie Mellon University.
+BMNR YIELD EXPLODES! BMNR is now LIVE on Robinhood Chain, allowing investors to earn massive APR through BMNR/ETH ...
 
-📺 Ryan O'Donnell
+📺 Big Time Trades
 
-👁️ 34K • 👍 516 • 💬 52 • ⏱️ 1:19:45 • 21h ago
-
----
-
-**[Ethereum: The Target Zone for This Correction](https://www.youtube.com/watch?v=_6sYYJemcM4)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 9K • 👍 203 • 💬 7 • ⏱️ 7:46 • 1d ago
+👁️ 2K • 👍 39 • 💬 79 • ⏱️ 17:52 • 20h ago
 
 ---
 
