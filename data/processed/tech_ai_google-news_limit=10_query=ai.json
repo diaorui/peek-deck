@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05d010MmVjcktGQS1WWE95VkxiNXJEQkN3czR3Rk1jejlmNHRPaHFUZTVQZ1BoUDRublhBWHlaNUlfZlJKMkFoTFRadXJYYUpNbGNhRTNEWVVEaTFUSzhPTGI1R0R5SHRvVXdBTGRLdVhkYXlrUU4wMmo0Qk3SAYIBQVVfeXFMTU1ac2pLUU1YMy1aNHNUUFdCU3Q3WEVacW9kcEc4RjRuanZfRDdVZlFwNzBXTUwyZi1fSFBSbVBSQVNUZVhyYnNRdWNQODd1NV95SDVyQ3ZEUUl1QmRDbkF2OVlfblF6dTVsX3o1cU5VOHBDRHFQMDgtNE5PWEhaUmpCQQ?oc=5",
-      "pub_date": 1793289601.0,
-      "article_url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342762-1785443278645-108342762-1785443064240-gettyimages-2265246744-20090101260310-99-780957.jpeg?v=1785443305&w=1920&h=1080",
-      "description": "Amazon reported third-quarter earnings on Thursday after the bell."
-    },
-    {
       "headline": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -25,14 +15,24 @@
       "description": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business."
     },
     {
-      "headline": "Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHp2SlA2VGtZamtqaWlqaXlCd1prZ1htWV82SlNmNXZOSnRZbDYxQkpXQU8zU2dtMFB3RHBmc3dYYmVoRExoQUV4RFBGTjhuVUVIcVY1MVVPQ0tTb0puTnZsZWFjS1BfZVgyVXlwbE41ck12aUZUcVRWY0hjb0lUalB5T1VKUXQzZ0hYN2JIYVVtNGhfX3J5OGx4ZUFNaGRCalRveWNDM2lYenRWNkZBT0dUal9XWWJVM0toVE5xSDR4Q21rdVk1TUpFQ1JqLWM4NFl2RVNBZVExc2dHbEF5bnNFOVpFSlE?oc=5",
-      "pub_date": 1793262606.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/live/microsoft-earnings-live-microsoft-beats-q1-expectations-on-top-and-bottom-line-on-ai-growth-204510452.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/93be38857b497838fa255fa9b5fd8d9892a76ff78543c1b32b85904ec640a6bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F6e2c74cb-5745-40af-b740-c2d0c45d8a9c",
-      "description": "Microsoft reports Q1 earnings."
+      "headline": "Alphabet shares record their worst day ever, shedding $500 billion in value",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMndTLS04T1FTZGdERGZVOVpOcThYTkNlT0FHUnp4TF9lVU52SDlfYlY3VzZubGxkcDdwWDQxbUlpcDUzUjN1RF9qRXBfbzlTaEsydXlNMnpIRjJldVpOdWdVdVBUZ2c5aVRZS094c01NZk9aZGVUcl9WZlhzdG4yNHRCVEpfajlTX3NYVmlpdzRPQQ?oc=5",
+      "pub_date": 1793306012.0,
+      "article_url": "https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250905-google-se-314p-22bbd0.jpg",
+      "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
+    },
+    {
+      "headline": "Jim Cramer says Microsoft is winning the AI spending battle \u2014 and Alphabet is paying the price",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tMW1oVy1WYzJES3ppQW01WEUwazM4WW52cXVhMGIzUHR5Nlk5QURFUTEybW1jRVZpWmI4QlRVUnVGZ1BacTBOZUdrYUFyR2o4eG5SM2tTNXV5dW9WLVdHcC01WVFLRnpoMFEyUC1sbTZPdG5rNVlQWVVzdm5mVjA?oc=5",
+      "pub_date": 1793311930.0,
+      "article_url": "https://www.cnbc.com/2026/10/29/cramer-microsoft-alphabet-ai-spending.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
+      "description": "Cramer called Microsoft a buy after strong earnings, while remaining more cautious on Alphabet."
     },
     {
       "headline": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
@@ -45,66 +45,66 @@
       "description": "Anthropic and OpenAI say they\u2019ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like \u201coverexcited bunnies\u201d as they look at new questions to explore."
     },
     {
-      "headline": "As Xi And Trump Met, Bitcoin And AI Converged For Liberty",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVZOUjJJZUtVSlZ0dk13ekQxNFJRZzRHTFZEM0NiaXRqQWJGNFBnVUl2alQ0YVdzbE54cEU3R1ZwbENENjAxRjVqb0EyRlJTZGp6UTQ1VGZoNXNDN0hzMTdQdFpmVnpjNEJObE15WExCVkR0eERuaHJTSlZTc21pVkdZcmV1QU5KVnJrMlF2TXdadFAtQ2hpNnRnRWk0UEw2SmUzTlBzcjFPUnpFblFUZGFR?oc=5",
-      "pub_date": 1793303672.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/29/as-xi-and-trump-met-bitcoin-and-ai-converged-for-liberty/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Rivian expands joint venture with VW to include AI assistant",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkRSWkZNNXh6dVdEN21tNDdTUW40MjhnTWJnYjE4NDZod2o2ZGM4cDRNVnZEZ1lqTS1jY0l5UTNpZWdHck5ROE1Pb1JXdjlOVXVCN2ZVeHNlX09yQmdka0ZhRVEyQkM3dGtKczFQeU5EaGRXWmQzd2NMZmFfRVJuTE50RmpDTGZEZlVQSXhIUklWMG9iVUhmWlJhWQ?oc=5",
-      "pub_date": 1793304347.0,
-      "article_url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
-      "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
-    },
-    {
-      "headline": "AI deepfakes pose risks to consumers, voters and others, security experts warn",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2RORHFtSEMxa3hLeTVpODhOR0kyNkExQUV6NmJ2anBZT0NLQnhpdTA4dDNOSjVja09vV0JlY3I1eFppdmY1Rk5IZ1ZpR2JoWXNtbUpaUFJiYXVFbTZPRGliTEUwbjVCWXBHaFhWeEhGdGh1ZVZTRDdLaDdVUDdvTzN6SGp3S1IycWJFVQ?oc=5",
-      "pub_date": 1793303144.0,
-      "article_url": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/27/d2746be8-233d-4a61-be8f-147afd0faa25/thumbnail/1200x630/64bb0fafd4e0c11699d7f956e3f8c3bb/gettyimages-2259893103.jpg",
-      "description": "\"When you can't tell what's legitimate, you question everything,\" said one cybersecurity expert focused on political campaigns."
-    },
-    {
-      "headline": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+      "headline": "Amazon sinks as AI spending eclipses fastest cloud growth in five years",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGVVeXl0bmw1cnBiUkdkU2VRT2VPcWtxSHdNTmQxQ2xlOUxiSW1aY0J5eVd2T2RPYXJQdlEwdWpSSzBuRlZmcHlHU1F3LTVCVmo3ZzZqbXRDZ1pmaDdEMkd0OFIycWhkWXhydlQ4Z0UzZ3FHbUdaaXJOMGVSRFhwSkZRYmFGcWoxeUlQUWtBUVBlZXM3NkgtRGN0dE81LWxkMTRGVnFSSnJWUU83SXRONUJPQm84a0pl?oc=5",
-      "pub_date": 1793286007.0,
-      "article_url": "https://www.reuters.com/legal/litigation/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users-2026-10-29/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
+      "pub_date": 1793315583.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Orange unit signs deal to Mistral's latest AI cybersecurity model",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2RyVFhCQ2RMUVJrcFEyTFlwSHpiakNocEt0ZThqbHJncWxWUWZ3dXRBaGRXb2hQS0RCN3FRZHRpVWpaUVFFdHBPSFVhSm1pYmY5aFVsakd3bXdla0N5X1VzQ05SY1BlMk9iVVFjMldfXy1HdEZQX3NMM0x0ZjN2S3lxbEVuWkE4NWN2YUhURTBubFBnUjMyWU5qTHM2QjVVckxvUmFqN05SN2xXZGt2TjhTOTM?oc=5",
-      "pub_date": 1793284345.0,
-      "article_url": "https://www.reuters.com/legal/litigation/orange-unit-signs-deal-mistrals-latest-ai-cybersecurity-model-2026-10-29/",
+      "headline": "Amazon Spending Soars Amid Slowing Growth of Online Business",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVVjYXpCMDllTnNYR3c2aHZCNDc5ck5QSHh2VEUxMUo1RVNKYVlNemFiTWFzQjZST0FlSnFCZUxlMl9xWkhOLUFPYjBwdzlGdnBhNUdnWnpOMmUzMVhHSVQ2X2N6dzdPNjYzTlV0U0RTb0hOT3J5cFFuUTk5b1Uzamh6aGhBWmtuY2JEdkFDNkN5cWZYY0EyRUZ1YU9FQTd1VkUxcl9qTXZvdFVJQnVYQTR4WQ?oc=5",
+      "pub_date": 1793314620.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
       "image": null,
       "description": null
     },
     {
-      "headline": "After Reinventing Mathematics, Can A.I. Eradicate Computer Bugs?",
+      "headline": "Amazon Puts a Million Robots Behind Its AI Ambitions",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOEhENDVRWWlGaXdyQV9tRDlSTks1dWJZenZCb1RPQ2tzMS1DRF9YbloxNm5XcG1LbnF3eGtrb3pTRUtfRTFRSm9HaUFPVFhraURUU1c5V1VKT0ZyYTNuN1IxWFFqWEY0Z0RIQVFkbWtVNUhla3NZeU9OeFkzbmE0aF85MlV3Yzg4elNvVzA4Nlp6SkFy?oc=5",
+      "pub_date": 1793317050.0,
+      "article_url": "https://www.pymnts.com/earnings/2026/amazon-puts-a-million-robots-behind-its-ai-ambitions/",
+      "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB3-Amazon-earnings-robots.jpg",
+      "description": "Amazon\u2019s third-quarter earnings brought the same concern that shadowed Alphabet\u2019s results a day earlier: whether enormous artificial intelligence"
+    },
+    {
+      "headline": "What to consider if a company that made AI-related job cuts wants you back",
+      "source": "KSL News",
+      "source_url": "https://www.ksl.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVHFZSjVYN3dXa20zaWItV3R0WGI0SFNmeHI5T3pmWExRYzZ2d09kR0VlWEdOeGwzcWMzUUZqc2ktYnlCSGd3ZEVHU0dxOTZiZHBITzRKb0dNR09yckdQeFdtRW1nUzJDcW1qbjkwa2JVd1FyUHZ4NlJ4QkI4NThMNTU3bm5TaDBlYjNMTV9MZjJuT1Y2RHpxTEd6Uk9zcHlmRlRLSVVteHgxaGtucUc2OQ?oc=5",
+      "pub_date": 1793316991.0,
+      "article_url": "https://www.ksl.com/article/51642356/what-to-consider-if-a-company-that-made-ai-related-job-cuts-wants-you-back",
+      "image": "https://img.ksl.com/slc/3207/320737/32073770.jpg?filter=kslv2/responsive_story_lg",
+      "description": "Companies around the world are increasingly citing artificial intelligence when slashing jobs, fueling anxiety that a lot more workers may lose their livelihoods to machines."
+    },
+    {
+      "headline": "Invasion of the Sexy A.I. Joke Thieves",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQUV4NWdfYzdFNkVSTkJLakl2dDY1Slk1SDZ3V1NfYlVqRGJiUF9ER2hpTlBSOXkzZ056V1V0bFVNN3pMZndBbDFQYVpPUUprRWQ4YnFwLWV0SkpkMXA4MDRrSmwwZW5WUFZxS3pLeW41ZUNsZFkzUFNjV3MwQkU?oc=5",
-      "pub_date": 1793278810.0,
-      "article_url": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpTDJOUnI5clJaUGZhLUNGUjdZTUxFbXRfR0FvUXdoejhtcER6Unc2SG1LYWlVLW9YNmN0OEgxUF9oVGhIdEJSXzRFSFFrenFPdzRLeWFVb09RT2hMNmg3RlR0ZXotSExGYWV6Zk9WdUw4UEl5RmFUc25ydjI5Y0k?oc=5",
+      "pub_date": 1793264782.0,
+      "article_url": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Reddit moves to logged-in experience as AI eats search",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BNHJVVl9KV3p1NXVpaXo1UndlYk9hSFRSYjJTMHF0QndzQVFDR1dVRlV1QXA4OTZCWkZDZGNBNnQ2QWFrVzRhc3lpeHpvQWlUR001aGdzRFBBbDJlYVNkVTMzb3FpX0YxTWYyOHRzSXJtZDg5Tm5vbg?oc=5",
+      "pub_date": 1793304499.0,
+      "article_url": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-29T20:27:25.913267+00:00"
+  "fetched_at": "2026-10-30T00:09:01.707062+00:00"
 }

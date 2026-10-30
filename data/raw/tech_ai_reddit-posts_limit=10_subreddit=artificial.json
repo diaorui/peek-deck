@@ -13,26 +13,37 @@
       "description": "The limit lives in the tensor cores. When they multiply FP16 or BF16 numbers and add up the results in higher-precision FP32, GeForce cards issue those instructions..."
     },
     {
-      "title": "A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.",
-      "author": "Aware_Bell1295",
-      "url": "https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/",
-      "published": 1793281582.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am Ekin, a one-person game studio in Turkey. On 28 October the free demo of Iron Curtain Call went live on Steam: a fast cartoon-noir FPS set in an alternate 1965 where a customer-service AI runs World War III. The code is written by Claude Code agents working from my design documents: 3,929 commits over 20 working days by 25 October, in Godot 4.7. The full game, 12 chapters, releases on 11 March 2027. What the agents did well: the game's systems (a Doom-style resource loop, nine weapons planned, about 49 robot types planned, bosses), the HUD, the tooling, and a headless test suite that gates every merge (zero script errors, a bot that plays the level, navigation and geometry checks). They work in parallel: one lead session, feature sessions in the cloud, one per workstream, each on its own branch. What they could not do: know what is fun. Level design that surprises took the most time of anything; the demo's level went through four versions, and a human playtest added a whole section. Every joke, the story and the cuts are mine. The agents also hit real engine bugs (a Godot audio-thread race in headless runs) and platform quirks (a minute of shader compilation on Macs) that needed measured workarounds, not prompts. Disclosure, as on the store page: voices are ElevenLabs (about 2,800 recorded lines), some art and the cinematics are Higgsfield, the score is FluidSynth plus a few ElevenLabs cues. No AI runs during play. Several subreddits for the genre ban games made with generative AI, which is its own data point about where this is heading. Demo: https://store.steampowered.com/app/5417460/Iron_Curtain_Call/ Happy to answer questions about the workflow and the limits. Drafted with the lead agent, edited by me."
+      "title": "31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Links Case to Her Death",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/",
+      "published": 1793309628.0,
+      "thumbnail": "https://external-preview.redd.it/CFdimIHdPxZwZzSHix_R9iZWEEDoRzgGrDB5PnKxNS4.jpeg?width=640&crop=smart&auto=webp&s=be245a1cb050498172813e55da752e183fb8dc49",
+      "external_url": "https://www.ibtimes.sg/31-year-old-woman-reduced-epilepsy-medication-after-chatgpt-advice-report-links-case-her-death-95686",
+      "site_name": "International Business Times, Singapore Edition",
+      "favicon": "https://g.ibtimes.sg/www/img/icon/apple-touch-icon-76x76.png",
+      "description": "Bowen Wan's parents are suing OpenAI, alleging ChatGPT helped her taper off epilepsy medication before her death. Her postmortem tests showed very low lamotrigine levels."
     },
     {
-      "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
+      "title": "GLM 5.3 can autonomously compromise recent versions of Mozilla Firefox",
       "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/",
-      "published": 1793223609.0,
-      "thumbnail": "https://preview.redd.it/pp2ver9g2ayh1.jpeg?width=640&crop=smart&auto=webp&s=9c85ae451b080334dc6517930473d2ef463a7b5c",
+      "url": "https://www.reddit.com/r/artificial/comments/1xiyu6e/glm_53_can_autonomously_compromise_recent/",
+      "published": 1793314285.0,
+      "thumbnail": "https://preview.redd.it/xahzbpm1khyh1.jpeg?width=640&crop=smart&auto=webp&s=a8fc1575ae76808c60633aa2f50d3c777de52001",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&s=20"
+      "description": "https://epoch.ai/publications/open-weight-models-patch-gap"
+    },
+    {
+      "title": "Working on a Jarvis invoice inspired Voice Agent.",
+      "author": "Input-X",
+      "url": "https://www.reddit.com/r/artificial/comments/1xivelj/working_on_a_jarvis_invoice_inspired_voice_agent/",
+      "published": 1793306055.0,
+      "thumbnail": "https://preview.redd.it/mhm1s7b1vgyh1.png?width=640&crop=smart&auto=webp&s=6cb9fb67346a68645737d1404aba0b0219bbd78d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Only a couple hours at this, taking shape. Hardest thing is the layout what to include. Back-end is complete, just need a face, Ive been running my voice agent in the background for a while with no interface. What you think. Cool fun project. will probs be so over engineered lol. will MIT opensource when done."
     },
     {
       "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion | TechCrunch",
@@ -46,6 +57,28 @@
       "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
     },
     {
+      "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand \u2014 $63 million injection is the largest investment in tape for 20 years",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/",
+      "published": 1793306236.0,
+      "thumbnail": "https://external-preview.redd.it/YgBt6eM1dbynAuuzLwEVArB2Tt6WavgE_x6PLUT82yc.jpeg?width=640&crop=smart&auto=webp&s=5c5a88d225d630f198695e260473cbf4f3703cba",
+      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1798516/apple-touch-icon.png",
+      "description": "The move will see the company's largest investment in tape-based data center storage medium in the last two decades."
+    },
+    {
+      "title": "A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.",
+      "author": "Aware_Bell1295",
+      "url": "https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/",
+      "published": 1793281582.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am Ekin, a one-person game studio in Turkey. On 28 October the free demo of Iron Curtain Call went live on Steam: a fast cartoon-noir FPS set in an alternate 1965 where a customer-service AI runs World War III. The code is written by Claude Code agents working from my design documents: 3,929 commits over 20 working days by 25 October, in Godot 4.7. The full game, 12 chapters, releases on 11 March 2027. What the agents did well: the game's systems (a Doom-style resource loop, nine weapons planned, about 49 robot types planned, bosses), the HUD, the tooling, and a headless test suite that gates every merge (zero script errors, a bot that plays the level, navigation and geometry checks). They work in parallel: one lead session, feature sessions in the cloud, one per workstream, each on its own branch. What they could not do: know what is fun. Level design that surprises took the most time of anything; the demo's level went through four versions, and a human playtest added a whole section. Every joke, the story and the cuts are mine. The agents also hit real engine bugs (a Godot audio-thread race in headless runs) and platform quirks (a minute of shader compilation on Macs) that needed measured workarounds, not prompts. Disclosure, as on the store page: voices are ElevenLabs (about 2,800 recorded lines), some art and the cinematics are Higgsfield, the score is FluidSynth plus a few ElevenLabs cues. No AI runs during play. Several subreddits for the genre ban games made with generative AI, which is its own data point about where this is heading. Demo: https://store.steampowered.com/app/5417460/Iron_Curtain_Call/ Happy to answer questions about the workflow and the limits. Drafted with the lead agent, edited by me."
+    },
+    {
       "title": "San Francisco startup offered $20 an hour to walk robot dogs for AI training: report",
       "author": "Medical-Decision-125",
       "url": "https://www.reddit.com/r/artificial/comments/1xip880/san_francisco_startup_offered_20_an_hour_to_walk/",
@@ -57,15 +90,15 @@
       "description": "The $20-an-hour job posting sought workers to operate four-legged robots on outdoor testing routes through San Francisco with no robotics experience required."
     },
     {
-      "title": "Europe's data centers are booming. Who gets first dibs on electricity?",
-      "author": "kindermaxi123",
-      "url": "https://www.reddit.com/r/artificial/comments/1xifxgv/europes_data_centers_are_booming_who_gets_first/",
-      "published": 1793268647.0,
-      "thumbnail": "https://external-preview.redd.it/Xn7AX4z4lrVyG7X6zRjtSZMbumzqGQwxbwGPfGiC8WI.jpeg?width=640&crop=smart&auto=webp&s=203cea3f132b29d3e3370c3fe0816911f6e680e1",
-      "external_url": "https://www.theparliamentmagazine.eu/news/article/the-plug-fight-who-gets-to-plug-into-europes-energy-supply-first",
-      "site_name": "The Parliament Magazine",
-      "favicon": "https://www.theparliamentmagazine.eu/_img/_favicons/apple-touch-icon.png",
-      "description": "As the AI-powered data center build-out continues across Europe, citizens, national leaders and the European institutions are locked in a heated ba..."
+      "title": "Google unveils Gemini 4 Carbon, a cybersecurity-focused frontier model \u2014 and vetted defenders get it first",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xiuc3w/google_unveils_gemini_4_carbon_a/",
+      "published": 1793303707.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Google announced Gemini 4 Carbon on Oct 28, calling it its strongest Gemini 4-era model, built for cybersecurity and long-horizon engineering work. Per Google\u2019s figures, it scores 88.2% on SEC-bench Pro (finding real vulnerabilities), 54.8% on ExploitGym (validating exploits), and 71.0% on CWE-bench (patching), and it tops the Artificial Analysis Intelligence Index v5 at 59. These are company-reported numbers; independent reproduction is still pending. The more interesting part is the rollout: Carbon goes first to a subset of vetted cyber defenders through Google\u2019s Fairwind Program, with developers, businesses and consumers to follow later (no date given). Google says it is also taking part in the U.S. government\u2019s voluntary pre-release testing process. Discussion: a model this good at finding and exploiting bugs is inherently dual-use. Is a defenders-first staged rollout the right template for this kind of capability, or does it mostly delay the same access debate by a few months? And how much should we trust benchmark leads that only the vendor has reproduced so far?"
     },
     {
       "title": "Insurance tech just got a $2B AI deal. Are our rates cooked?",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Guidewire is acquiring AI underwriting startup hyperexponential for $1.7B in cash, with the total deal potentially reaching $2.1B. I think this will only enable them to connect more dots and eventually squeeze even more money out of us. AI deciding how much to pay. Almost exactly what IBM warned us about. Too late now I guess"
-    },
-    {
-      "title": "New AA intelligence index v5 with \u201cPrivate tests\u201d conveniently upranks GPT, Google\u2019s models, while open weights chinese models downrank",
-      "author": "YasufoKiddo",
-      "url": "https://www.reddit.com/r/artificial/comments/1xiein9/new_aa_intelligence_index_v5_with_private_tests/",
-      "published": 1793263358.0,
-      "thumbnail": "https://preview.redd.it/3ylcfagncdyh1.jpeg?width=640&crop=smart&auto=webp&s=b94403013ba1ba9b7e99b1b3713b56c7559bc1be",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The new Artificial Analysis intelligence index v5, is being criticised, because its introduction of \"trust me bro\" private tests on private datasets, significantly downranking current open weights models on the index. Just after its published, google announces Carbon 4, which is placed on the top of the index. Kimi 3.1 Pro, Deepseek 4.1 Flash,Xiaomi mimo v2.6 Pro and other open models drop significantly in intelligence points in this new index. I think its fairly suspicious, what do you?"
-    },
-    {
-      "title": "Apple And Google Fined In South Korea Over App Store Violations",
-      "author": "Ok-Conversation3213",
-      "url": "https://www.reddit.com/r/artificial/comments/1xin9g3/apple_and_google_fined_in_south_korea_over_app/",
-      "published": 1793288036.0,
-      "thumbnail": "https://external-preview.redd.it/Fq-Sn-KuO3vGnJTlSHZaTtT9X8Ls0mZghXFJEYtJNCI.jpeg?width=640&crop=smart&auto=webp&s=170a6848efbcf2291a786b4cde209139008fa762",
-      "external_url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
-      "site_name": "Engadget",
-      "favicon": "https://www.engadget.com/img/engadget-favicon.png",
-      "description": "South Korean regulators found that Apple and Google violated the country\u2019s Telecommunications Business Act."
-    },
-    {
-      "title": "Google unveils Gemini 4 Carbon, a cybersecurity-focused frontier model \u2014 and vetted defenders get it first",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xiuc3w/google_unveils_gemini_4_carbon_a/",
-      "published": 1793303707.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Google announced Gemini 4 Carbon on Oct 28, calling it its strongest Gemini 4-era model, built for cybersecurity and long-horizon engineering work. Per Google\u2019s figures, it scores 88.2% on SEC-bench Pro (finding real vulnerabilities), 54.8% on ExploitGym (validating exploits), and 71.0% on CWE-bench (patching), and it tops the Artificial Analysis Intelligence Index v5 at 59. These are company-reported numbers; independent reproduction is still pending. The more interesting part is the rollout: Carbon goes first to a subset of vetted cyber defenders through Google\u2019s Fairwind Program, with developers, businesses and consumers to follow later (no date given). Google says it is also taking part in the U.S. government\u2019s voluntary pre-release testing process. Discussion: a model this good at finding and exploiting bugs is inherently dual-use. Is a defenders-first staged rollout the right template for this kind of capability, or does it mostly delay the same access debate by a few months? And how much should we trust benchmark leads that only the vendor has reproduced so far?"
     }
   ],
-  "fetched_at": "2026-10-29T20:26:56.600146+00:00"
+  "fetched_at": "2026-10-30T00:08:30.152991+00:00"
 }
