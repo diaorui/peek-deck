@@ -5,26 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0hrMTRsNlVZYk9hb2FQTEprWXpvbnlhMUhWYlRidkNzdjhRWXNPNmRjQWhoZjVZNkNmd0k1MDBDZUNvUm9mdUY5bXdncXlZeUdhODlLaFpzUjN3Z2lVaTNfMHI1eHBEVkxuZkJyV0I1cTMxODZZSFdLa0VyYWVWTG85OGpHbEhaZzFjMWZpUXBGT3dRajk0SUVfeFNpWS1CMlZlOVZoaVluWjR6QzZDdzhSUTI?oc=5",
-      "pub_date": 1793252078.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Current price of Ethereum for October 30, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mTDNVY2Y3bUlWQnAtb21veWlzYlpDZ0NWV3pjWm9tbVRyTnM5RWlpenRnSU0tbElRS1dSZGh1cWFUQi1scVZJcUtKWWgyT2h5S1k2Z0RSVGVTdk5GTzNPUVhRUkhEUm13?oc=5",
-      "pub_date": 1793367143.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-10-30-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-30.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
       "headline": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -55,14 +35,24 @@
       "description": "Editor\u2019s Note: This story has been updated to include a comment from a Binance spokesperson.Leading cryptocurrencies tumbled on Thursday after news of a multi-billion-dollar hack targeting the Binance cryptocurrency exchange.Crypto Market Spooked by Binance HackBitcoin fell below $77,000, and Ether\u2026"
     },
     {
-      "headline": "XRP, Ethereum, Solana Are 3 of the Top 5 Altcoins, Expert Says: And the Other 2?",
+      "headline": "Bitcoin, Ethereum, XRP Plunge 4%: A Dip Worth Buying?",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTnFUOFJ0VEI3Z0NERTBHVzFpbTdHT25wQXE4aHh2WXE0aHpnaF9mX2V6eFZmRTViRFNXaHNTc3RaMFFuM1lOWnE4Z3M3Z3FFT25yUlhYdlBnLV9GUDcyaDdRa0VIazBtZ3BxWHI1bXVrZkI4SFBGNkN1X2ZPaWg4M1NtSzBzcGhfVzRuWDdTTmdnbWtRQUFYU1dhY2lZZEw3UmFibjljbk9zckJjS0Y2VkI1Tk5lX0xfRzBXSUhza1o3UmY5MkFzdG5QVGJfTUU?oc=5",
-      "pub_date": 1793284769.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:d67a8f07e094b:0-xrp-ethereum-solana-are-3-of-the-top-5-altcoins-expert-says-and-the-other-2/",
-      "image": "https://s3.tradingview.com/news/image/benzinga:d67a8f07e094b-d5f1699933349b762d744ecafec852d1-resized.jpeg",
-      "description": "XRP CRYPTO:XRPUSD, Ethereum CRYPTO:ETHUSD, Solana CRYPTO:SOLUSD, and BNB CRYPTO:BNBUSD remain four of the five top altcoins in the market, according to prominent cryptocurrency analyst CryptosRUs.Why XRP, Ethereum, BNB and Hyperliquid Made the ListGeorge, as the analyst goes by his real name, told\u2026"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPei1zUnkzek9fcThYYnV3dG4tYXVITzkxS3ZCNUY2MWNVVkVxQVRqLVd3SnRwRVphMUtlZkVzOElmdzVsVDBvS2hPRWZYN05oT2s5OGk1TG1ILUxTdEtLTmhXSFQ0YzJ4U1VtS0xaZ0I4RlU2UHA1TVdYYW5rSlZUZXJOOWU0N1RtMHRlSmNFamFqZ2xzLXpFdU9UNWtiVU9TakFyZVVVUDlnTWM?oc=5",
+      "pub_date": 1793378383.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:43a4bbcb1094b:0-bitcoin-ethereum-xrp-plunge-4-a-dip-worth-buying/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 4% on the day as chart analyst Ali Martinez identifies key levels where investors could consider buying the dip.Can BTC Find Support At $73,000?In an X post on Oct. 30, Martinez noted that Bitcoin faced rejection afte\u2026"
+    },
+    {
+      "headline": "Current price of Ethereum for October 30, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mTDNVY2Y3bUlWQnAtb21veWlzYlpDZ0NWV3pjWm9tbVRyTnM5RWlpenRnSU0tbElRS1dSZGh1cWFUQi1scVZJcUtKWWgyT2h5S1k2Z0RSVGVTdk5GTzNPUVhRUkhEUm13?oc=5",
+      "pub_date": 1793377943.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-10-30-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Ethereum-Oct-30.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
@@ -103,8 +93,18 @@
       "article_url": "https://www.binance.com/en/square/post/382622352243219",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Ethereum: Below Support Risks S/R Flip",
+      "source": "Blockchain News",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBETG9CcFZiYjZxblRTVnkzdWlYRUtGLURkeURFTWNnQXRqQTc5eEdDSG95d3gzMGViU2J4enoyM0RFN1BYVGtGczFlLXBBa3FHR29PaXJLc2N6SzhfNmVYVTBkN1R3YkY5bGxqZHNPemgxZW5IMmxjWF9qUQ?oc=5",
+      "pub_date": 1793335500.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-below-support-risks-s-r-flip",
+      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+      "description": "CrypNuevo flags Ethereum trading beneath prior strong support on the 4h chart, where consolidation would confirm an S/R flip and open a fresh leg lower."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-30T18:44:37.761462+00:00"
+  "fetched_at": "2026-10-30T22:48:46.375442+00:00"
 }
