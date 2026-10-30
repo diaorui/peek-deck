@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-30T00:09:04.306337+00:00'
+updated: '2026-10-30T06:14:31.807070+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 30, 2026 at 00:09 UTC  
+**Last Updated:** October 30, 2026 at 06:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,976.23
+### $78,539.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -3.4%  
-**30d:** -7.9%  
-**90d:** +23.0%  
-**1y:** -28.7%  
+**24h:** -1.5%  
+**7d:** -2.8%  
+**30d:** -7.3%  
+**90d:** +23.8%  
+**1y:** -28.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1566.52B
+**Market Cap:** $1578.64B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--38.2%
+-37.7%
 
 **All-Time Low:** $67.81
-+114860.9%
++115673.5%
 
 ---
 
@@ -77,75 +77,81 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Dude just stole 185 BTC larping as support](https://www.reddit.com/r/Bitcoin/comments/1xigejs/dude_just_stole_185_btc_larping_as_support/)**
+**[The Binance hack is real.](https://www.reddit.com/r/Bitcoin/comments/1xixhk9/the_binance_hack_is_real/)**
 
-Never share your keys damn it! The victim fall for the old school trick support saying account hack and asking for keys! Worst is he only got sentenced 25 months!
+Your funds are safe, so long you don’t try to withdraw it them. 🤡
 
-13h ago
-
----
-
-**[The One](https://www.reddit.com/r/Bitcoin/comments/1xib54p/the_one/)**
-
-18h ago
+8h ago
 
 ---
 
-**[Bitcoin vs the world](https://www.reddit.com/r/Bitcoin/comments/1xibg0r/bitcoin_vs_the_world/)**
+**[GET YOUR COIN OFF OF EXCHANGES](https://www.reddit.com/r/Bitcoin/comments/1xizstm/get_your_coin_off_of_exchanges/)**
 
-18h ago
+Sorry to shout. AI hacks an exchange 2 bill dang. Not your keys not your coins.
 
----
-
-**[Bitcoin Traders Brace for Swings on $11 Billion Options Expiry](https://www.reddit.com/r/Bitcoin/comments/1xihior/bitcoin_traders_brace_for_swings_on_11_billion/)**
-
-Brace for massive volatility ahead of this Friday’s $11 billion options expiry. With open interest reaching historic levels, the market is focused on the "max pain" price point, setting the stage for weekend liquidations and heavy delta hedging by institutional market makers. As the crypto market faces a temporary liquidity squeeze leading into the weekend, the big question is whether this expiration triggers a post-expiry squeeze to the upside or dumps us back to local support.
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry) • 12h ago
+6h ago
 
 ---
 
-**[Me Saying the Bitcoin Again](https://www.reddit.com/r/Bitcoin/comments/1xi32mo/me_saying_the_bitcoin_again/)**
+**[BINANCE HACKED?? WTF IS GOING ON](https://www.reddit.com/r/Bitcoin/comments/1xiwbgv/binance_hacked_wtf_is_going_on/)**
 
-1d ago
-
----
-
-**[TRIP REPORT: going on a bitcoin spending spree in Austin, TX: tacos, haircuts, coffee, jiu-jitsu, fresh pecans, and so much more](https://www.reddit.com/r/Bitcoin/comments/1xim57w/trip_report_going_on_a_bitcoin_spending_spree_in/)**
-
-There's this guy on Stacker News who came to Austin for a poker tournament (and a wedding?) and is doing his best to spend bitcoin everywhere he goes -- and writing daily reports about it. It's very cool to hear about someone spending bitcoin for so many different goods and services. Some highlights: I said I’ve got kind of a weird question… will you accept bitcoin there? “Oh sure I accept bitcoin…” a bit hesitantly. He said it had been a while and only one other person (a repeat customer) had done it. I asked if he used square and he said yes. “That should take care of us” I assured. “Yo pago con bitcoin!” I said. Which is a bit broken, but she understood. And she was excited! No one had ever done it before she said. I didn’t talk about bitcoin too much but just explained how some square terminals allow it and some don’t. Another successful lightning transaction, I knew, would make my tacos taste much better. They didn’t need the help though… they were soooo good. I arrive at the gym 10 minutes before class time. I didnt bring a rash guard so I needed to buy one and told the guy over the counter as much. I asked if I could pay for both with bitcoin and he was a bit hesitant. “I think so” he said. He’s showing me the options for rash guards that are hanging on the racks when I see a box on the floor with some orange and black material inside. The box is labeled “b-coin” Are these rash guards?! I ask Oh yeah, they are. You want one of those? Uuuuh YEAH. He pulls one out and shows it to me and it’s AWESOME. Here's links to his full trip reports, they are pretty fun reads! Day 1 report Day 2 report Day 3 report
+Binance could've been backed, but for now it's unconfirmed. https://preview.redd.it/d81spnpc1hyh1.png?width=1048&format=png&auto=webp&s=af990ac72859466939a1d24dfef9b04b97ffb096 https://preview.redd.it/pq1x10ii1hyh1.png?width=1726&format=png&auto=webp&s=3ac32b30a622d3c2a153fe22d47674e77f4b3a32 https://etherscan.io/address/0x5227f603C1eE34CE3C06eFe6477003BDfCCB2f8c Here's the timeline: Binance's hot wallets sent this wallet almost 200,000 ETH (~$445M), all within the last hour. About 30 minutes later, it sent ~195,000 ETH somewhere else. Just like that. The wallet is also sitting on ~$2.4 BILLION in tokens, mostly USDT and USDC. What's still in there: ~$975M USDT ~$823M USDC ~$560M in other coins (RLUSD, staked ETH, tokenized gold, UNI, PEPE, LINK, and a bunch more) That's nearly $1.8 BILLION in stablecoins just sitting there. Why it moved the ETH first: Tether and Circle can freeze USDT and USDC. ETH can't be frozen. So if this is a hack, the ETH probably went FIRST BECAUSE NOBODY CAN STOP IT.. CZ: HACK CONFIRMED. CLAIMS FUNDS ARE SAFE https://preview.redd.it/q6awkclo5hyh1.png?width=1196&format=png&auto=webp&s=65d06b725eff731d7ceba16e4a7c8a056fa1be2e BINANCE: USER FUNDS ARE SAFE https://preview.redd.it/9durbgp78hyh1.png?width=1204&format=png&auto=webp&s=a1e240dfed0b83199631f6a8b8d59e94e8fdd675 BOTTOM IN??? https://preview.redd.it/ieunu1jt8hyh1.png?width=976&format=png&auto=webp&s=9be69f7515229a91034a6e4cedd4e18174e79dfa
 
 9h ago
 
 ---
 
-**[Bitwise Sees Bitcoin at $1.6 Million. One Line in Its Model Explains 82% of the Bet.](https://www.reddit.com/r/Bitcoin/comments/1xicm26/bitwise_sees_bitcoin_at_16_million_one_line_in/)**
+**[You guys need to chill](https://www.reddit.com/r/Bitcoin/comments/1xj380g/you_guys_need_to_chill/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/bitwise-sees-bitcoin-at-16-million) • 17h ago
+idk man maybe im just stupid (i actually am) but i dont really understand the panic around bitcoin lately. like yeah the price is down and everyone is suddenly a financial historian explaining why bitcoin was always going to zero. very cool, very interesting, my microwave also has opinions on monetary policy. but seriously havent we done this like 400 times already lol. price goes up = irrational euphoria and tulip mania. price goes down = the fundamentals have collapsed and civilisation is ending. price goes sideways = dead asset nobody wants anymore. what exactly is bitcoin supposed to do then? bake me a lasagna? and im not even saying its gonna recover tomorrow or that it cant go lower. nobody knows. the market could literally sneeze and my portfolio would develop a personality disorder. i just find it funny how some people have been waiting for bitcoin to die for so long that they might actually need it to survive a little longer just so they can keep predicting its death. lmao probably bullish idk.
 
----
-
-**[Bitcoin hashrate reaches highest level since January 5th, 2026](https://www.reddit.com/r/Bitcoin/comments/1xhw1e0/bitcoin_hashrate_reaches_highest_level_since/)**
-
-The hashrate reached back 1.06 ZH/s. Miners who had turned their hardware towards AI training are slowly getting back to mining bitcoin. Hashrate ATH is still 1.13 ZH/s on October 29th, 2025. It bottomed at 0.879 ZH/s on July 30th, 2026
-
-1d ago
+4h ago
 
 ---
 
-**[Valuating portfolio in BTC](https://www.reddit.com/r/Bitcoin/comments/1xiecr9/valuating_portfolio_in_btc/)**
+**[This Binance situation is a btc black friday sale](https://www.reddit.com/r/Bitcoin/comments/1xiyn1o/this_binance_situation_is_a_btc_black_friday_sale/)**
 
-Hope you find this interesting/helping in any way. For years I was valuating my portfolio in USD, chasing altcoins... Clearly going sideways. For the last one an a half year I started thinking in BTC terms. Bear market felt incredible as my stack clearly started growing. I really don't care about USD valuation, as I really believe BTC will be north 500k in the next 10 years the objetive is to get as more BTC as possible. I am a bit upset I didn't have this knowledge since the beggining. I don't have friends that understad BTC to talk about this.
+hope it drops even further boys. time to buy. this changes nothing, let's profit off scared people
 
-15h ago
+7h ago
 
 ---
 
-**[Daily Discussion, October 29, 2026](https://www.reddit.com/r/Bitcoin/comments/1xicwob/daily_discussion_october_29_2026/)**
+**[Which One You Choosing RN??](https://www.reddit.com/r/Bitcoin/comments/1ximvsm/which_one_you_choosing_rn/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+..
 
-17h ago
+14h ago
+
+---
+
+**[Bitcoin Core security has been deep reviewed by the top frontier AI models, and only two minor items surfaced.](https://www.reddit.com/r/Bitcoin/comments/1xj290b/bitcoin_core_security_has_been_deep_reviewed_by/)**
+
+Bitcoin Core is some of the most reviewed code in the world. We were curious how our frontier AI model would handle it. Last month we ran 16 agents across 5 of the top models for a week to look for issues in Bitcoin Core v32.0rc1 Impressively, they surfaced two minor items - both now disclosed responsibly. Agentic teams have been a huge unlock so far for our security efficiency. They're also remarkable to watch. Credits: https://twitterviewer.app/JLunglhofer/status/2115791872077541408 My notes, check the image: the analisis is impressive 😮, they have access to models not available to the general public. Only a few selected organizations can access Claude Mythos that is currently the top frontier model regarding security analysis (it is not available to the public because of its outstanding availability to write exploits and find security issues).
+
+4h ago
+
+---
+
+**[Funds are SAFU (NoOooTttTT)](https://www.reddit.com/r/Bitcoin/comments/1xj0g2r/funds_are_safu_noooottttt/)**
+
+6h ago
+
+---
+
+**[Dude just stole 185 BTC larping as support](https://www.reddit.com/r/Bitcoin/comments/1xigejs/dude_just_stole_185_btc_larping_as_support/)**
+
+Never share your keys damn it! The victim fall for the old school trick support saying account hack and asking for keys! Worst is he only got sentenced 25 months!
+
+19h ago
+
+---
+
+**[Purchasing power of government currencies since 2016 (w/ Bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1xindvk/purchasing_power_of_government_currencies_since/)**
+
+Added trend line for Bitcoin Original: https://www.reddit.com/r/Bitcoin/s/HhBMbJ6X0p
+
+14h ago
 
 ---
 
@@ -153,17 +159,25 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[MSTR Stock: Strategy's Bitcoin Bazooka Is Back; What Now?](https://www.investors.com/news/mstr-stock-strategy-strc-preferred-stock-daily-dividends-bitcoin-price/)**
+**[Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets](https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html)**
 
-MSTR stock earnings today are a sideshow to the main event: Strategy's preferred stock is poised to regain par value, opening the door to big bitcoin buys.
+Bitcoin fell on Friday as concerns over a potential security breach at cryptocurrency exchange Binance rattled digital asset markets.
 
-Investor's Business Daily • 3h ago
+CNBC • 5h ago
 
 ---
 
 **[Strategy Posts $21 Billion Bitcoin Gain. Investors Have Bigger Concerns.](https://www.barrons.com/articles/strategy-earnings-stock-price-d9342d80)**
 
-Barron's • 51m ago
+Barron's • 6h ago
+
+---
+
+**[MSTR Stock: Strategy's Bitcoin Bazooka Is Back; What Now?](https://www.investors.com/news/mstr-stock-strategy-strc-preferred-stock-daily-dividends-bitcoin-price/)**
+
+MSTR stock earnings today are a sideshow to the main event: Strategy's preferred stock is poised to regain par value, opening the door to big bitcoin buys.
+
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -171,55 +185,51 @@ Barron's • 51m ago
 
 Strategy reported a $19.5 billion profit, but nearly all of it came from bitcoin’s price, not the business. Here’s why bitcoin per share is the number to watch, and why it’s shrinking.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC](https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc)**
+**[Bitcoin Traders Brace for Swings on $11 Billion Options Expiry](https://finance.yahoo.com/markets/options/articles/bitcoin-traders-brace-swings-11-005059823.html)**
 
-CoinDesk • 1d ago
+Bitcoin traders are bracing for potentially sharper price swings as $11 billion of options expire this week, just days before US midterm elections that could add further uncertainty to crypto markets.
 
----
-
-**[Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains](https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html)**
-
-Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.
-
-CNBC • 2h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Binance Founder CZ Says Crypto Exchange ‘May Have Been Hacked’](https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls)**
+**[Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin](https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf)**
 
-Bloomberg.com • 1h ago
+Franklin Templeton’s two Bitcoin DRIP ETFs, FBEQ and FIBT, started trading today on the Nasdaq.
 
----
-
-**[Live updates: Crypto falls amid report of multi-billion Binance hack](https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings)**
-
-CoinDesk • 50m ago
+Bitcoin Magazine • 13h ago
 
 ---
 
-**[Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack](https://bitcoinmagazine.com/news/bitcoin-price-slides-binance)**
+**[AI Price Prediction: Bitcoin Is 35% Below ATH. ChatGPT AI Says When It Could Get Back to $126,000](https://247wallst.com/investing/cryptocurrency/2026/10/29/ai-price-prediction-bitcoin-is-35-below-ath-chatgpt-ai-says-when-it-could-get-back-to-126000/)**
 
-Bitcoin price fell below $79,000 as reports of a suspected Binance hack, with outflows of up to $5.8 billion, prompted Tether and Circle to freeze roughly $1.8 to $2.4 billion in stablecoins.
+Bitcoin is 36% below its record high. ChatGPT AI forecasts October 2027 as the likeliest month to pass $126,000. Can it make it back?
 
-Bitcoin Magazine • 58m ago
-
----
-
-**[As Xi And Trump Met, Bitcoin And AI Converged For Liberty](https://www.forbes.com/sites/digital-assets/2026/10/29/as-xi-and-trump-met-bitcoin-and-ai-converged-for-liberty/)**
-
-Forbes • 4h ago
+24/7 Wall St. • 4h ago
 
 ---
 
-**[FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC](https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc)**
+**[‘Interesting’—Elon Musk Sends Price Of Tiny Bitcoin Rival Soaring On ‘Big Day For Crypto’](https://www.forbes.com/sites/digital-assets/2026/10/29/interesting-elon-musk-sends-price-of-tiny-bitcoin-rival-soaring-on-big-day-for-crypto/)**
 
-A home-scale FutureBit Apollo Solo setup beat industrial pools to claim the entire 3.154 BTC reward for block 973,262—proof the lottery still pays out.
+Forbes • 13h ago
 
-Bitcoin Magazine • 6h ago
+---
+
+**[Bitcoin flat at $80k as hawkish Fed, hotter inflation data weigh](https://www.investing.com/news/cryptocurrency-news/bitcoin-weakens-to-80k-as-hawkish-fed-mixed-tech-earnings-weigh-4981572)**
+
+Investing.com • 15h ago
+
+---
+
+**[Prediction: Bitcoin Will Surpass Gold in Market Cap Within the Next Decade](https://www.fool.com/investing/2026/10/29/prediction-bitcoin-will-become-less-volatile-than/)**
+
+Is Bitcoin really digital gold? Investors are about to find out.
+
+The Motley Fool • 20h ago
 
 ---
 
@@ -239,7 +249,7 @@ A PHP security challenge. Find the hidden bitcoin key. First person to get the w
 
 A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
-⬆️ 182 • 💬 65 • 3d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+⬆️ 182 • 💬 65 • 4d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
 ---
 
@@ -277,7 +287,7 @@ Contribute to escache/bitcoin-puzzle-methods development by creating an account 
 
 Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours, updated every 5 minutes, with a public track record of how often it was right.
 
-⬆️ 1 • 💬 1 • 14h ago • [BtcForecaster](https://btcforecaster.com/)
+⬆️ 1 • 💬 1 • 20h ago • [BtcForecaster](https://btcforecaster.com/)
 
 ---
 
@@ -295,77 +305,9 @@ Explore messages, images, videos, PDF and audio written into Bitcoin. Search by 
 
 ---
 
-**[Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://news.ycombinator.com/item?id=50245014)**
-
-Despite putting over 20 years into the technology, Micron is sticking with the tried and true for now.
-
-⬆️ 184 • 💬 32 • 3d ago • [HotHardware](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[Google Historic Crash☄️Crypto Market Update](https://www.youtube.com/watch?v=ESP462IbGFU)**
-
-Alphabet suffered a historic sell-off today, and we break down what triggered it and how it's hitting the broader market. We also ...
-
-📺 Paul Barron Network
-
-👁️ 34K • 👍 1K • 💬 57 • ⏱️ 18:35 • 5h ago
-
----
-
-**[Bitwise Sees $1.6 Million Bitcoin Ahead | Matt Cole](https://www.youtube.com/watch?v=NGkF6sNUn6k)**
-
-Bitcoin's next decade, Bitwise's 10-year Bitcoin forecast and the Bitcoin treasury trade with Matt Cole, Chairman and CEO of Strive ...
-
-📺 The Wolf Of All Streets
-
-👁️ 13K • 👍 412 • 💬 38 • ⏱️ 49:40 • 10h ago
-
----
-
-**[🚨BITCOIN LIVE TRADING: MY NEW SNIPER LONG TRADES!!! 🔥🔥🔥](https://www.youtube.com/watch?v=jgZx-xxu61w)**
-
-BITUNIX, The BEST OFFER Worldwide   -20% OFF Trading Fees FOR LIFE   +20% Deposit Bonus up to $400   ...
-
-📺 Crypto Claudius
-
-👁️ 11K • 👍 2K • 3h ago
-
----
-
-**[Bitcoin: Post-FOMC](https://www.youtube.com/watch?v=21mBnslOLd0)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 109K • 👍 3K • 💬 130 • ⏱️ 20:36 • 20h ago
-
----
-
-**[0.21 Bitcoin Not Will Be Enough For Most Middle Class Investors (Who Think Like This)](https://www.youtube.com/watch?v=Xu_u-vGhfos)**
-
-In this no‑holds‑barred video I give some tough‑love feedback to the comments that keep popping up on my recent ...
-
-📺 Brad Long
-
-👁️ 7K • 👍 150 • 💬 31 • ⏱️ 13:04 • 1d ago
-
----
-
-**[BREAKING: I Can’t Believe Binance Just Got HACKED... (Largest Crypto Hack EVER)](https://www.youtube.com/watch?v=Gmuxgj0W_Nc)**
-
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
-
-📺 Crypto Capital Venture
-
-👁️ 6K • 👍 434 • 💬 29 • ⏱️ 1:02:17 • 11m ago
-
----
 
 **[Bitcoin Holders: Calm Before The Storm - WATCH for THIS NEXT!!](https://www.youtube.com/watch?v=lDX0r3hW1bI)**
 
@@ -373,7 +315,17 @@ Michael Saylor: Buying Bitcoin at $80k today is like buying it at $30k in 2023. 
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 2K • 💬 106 • ⏱️ 10:30 • 2d ago
+👁️ 70K • 👍 2K • 💬 106 • ⏱️ 10:30 • 2d ago
+
+---
+
+**[Live Gold, Crypto Trading | 28 OCT | #goldtrading #cryptotrading #bitcoin - MANSI](https://www.youtube.com/watch?v=XPpNLIcvXV0)**
+
+Top Recommended Brokers:- Best Forex Broker - https://partners.elefin.com/go/mansi -------------------- Best For Indian Users ...
+
+📺 TRADE WITH MANSI
+
+👁️ 95K • 👍 3K • 💬 16 • ⏱️ 3:34:17 • 1d ago
 
 ---
 
@@ -383,27 +335,77 @@ BITCOIN WARNING: DON'T BE FOOLED BY GOOGLE STOCK CRASH!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 193 • 💬 178 • ⏱️ 21:23 • 6h ago
+👁️ 11K • 👍 225 • 💬 235 • ⏱️ 21:23 • 12h ago
 
 ---
 
-**[BITCOIN: WARNING SIGNAL FLASHING!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=7yxGRTuTLdk)**
+**[Bitcoin&#39;s Next Move After FED Decision...](https://www.youtube.com/watch?v=Wv68fZ1qLTo)**
 
-Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): https://partner.blofin.com/d/RT1M Get ...
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 Road To $1 Million USD
+📺 CryptosRUs
 
-👁️ 2K • 👍 117 • 💬 58 • ⏱️ 4:20 • 4h ago
+👁️ 20K • 👍 581 • 💬 176 • ⏱️ 38:10 • 14h ago
 
 ---
 
-**[CAUTION: Bitcoin Bulls Are Losing A Critical Level! [DO THIS NOW]](https://www.youtube.com/watch?v=AG2mCEOk09A)**
+**[Live Gold, Crypto Trading | 30 OCT | #goldtrading #cryptotrading #bitcoin - MANSI](https://www.youtube.com/watch?v=8i0xlcJSZpk)**
 
-Bitcoin is rejecting off the critical range high right now, and if bulls fail to reclaim this level, a liquidation cascade to major support ...
+Top Recommended Brokers:- Best Forex Broker - https://partners.elefin.com/go/mansi -------------------- Best For Indian Users ...
+
+📺 TRADE WITH MANSI
+
+👁️ 21K • 👍 2K • 3h ago
+
+---
+
+**[Bitcoin Tug of War!](https://www.youtube.com/watch?v=jYdj8cTtpBY)**
+
+Bitcoin is in a tug of war: a bull flag and rising TBO slow line versus bearish consolidation inside the cloud. I'm still leaning bullish ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 8K • 👍 342 • 💬 47 • ⏱️ 54:40 • 1d ago
+
+---
+
+**[🟢 2 Big News &amp; Its Impact on Gold Silver Bitcoin If Manipulation Not Happen &amp; You Should Know ?](https://www.youtube.com/watch?v=woQtFzJD0lM)**
+
+Fed Keeps Rates Unchanged: A Boost for Gold, Silver, and Crypto ​When the Federal Reserve pauses interest rate hikes, ...
+
+📺 Bitcoin Expert India
+
+👁️ 62K • 👍 1K • ⏱️ 3:00 • 22h ago
+
+---
+
+**[GOLD BTC NIFT SENSEX Live Trading | KAROL](https://www.youtube.com/watch?v=ms84KUnjU24)**
+
+BEST BROKER ELEFIN - https://partners.elefin.com/go/karol Best funded account - https://www.fundednow.com/ Join Free ...
+
+📺 Live Trading With Karol 
+
+👁️ 10K • 👍 508 • 2h ago
+
+---
+
+**[THIS Is When The Crypto Bull Market Resumes! (Data)](https://www.youtube.com/watch?v=RMV4v6tTzfQ)**
+
+Bitcoin's recovery is losing momentum as AI market weakness and growing macro uncertainty weigh on crypto. With major ...
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 956 • 💬 20 • ⏱️ 37:56 • 16h ago
+👁️ 30K • 👍 915 • 💬 31 • ⏱️ 31:59 • 15h ago
+
+---
+
+**[Bitcoin + Fed 🏦Proxies, Exchange Bal, Uptober Cancelled? 📉FSD, Cerebras x ORCL🚀](https://www.youtube.com/watch?v=E1wIfL8qMU4)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 56K • 👍 3K • 💬 89 • ⏱️ 23:52 • 2d ago
 
 ---
 
