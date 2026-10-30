@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-29T20:27:27.852561+00:00'
+updated: '2026-10-30T00:09:04.312408+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 29, 2026 at 20:27 UTC  
+**Last Updated:** October 30, 2026 at 00:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,334.61
+### $2,252.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -2.9%  
-**30d:** -13.7%  
-**90d:** +25.7%  
-**1y:** -39.1%  
+**24h:** -2.6%  
+**7d:** -4.5%  
+**30d:** -16.7%  
+**90d:** +19.7%  
+**1y:** -41.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.74B
+**Market Cap:** $274.69B
 Rank #2
 
 **Circulating Supply:** 122,173,130 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.2%
+-54.5%
 
 **All-Time Low:** $0.43
-+534574.9%
++519405.6%
 
 ---
 
@@ -154,15 +154,15 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 **[ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards](https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards)**
 
-CoinDesk • 14h ago
+CoinDesk • 18h ago
 
 ---
 
-**[Bitcoin, Ethereum Crash Alert: BTC Risks $76K as ETH Eyes $2,000](https://www.tradingview.com/news/coinpedia:c1004f5b9094b:0-bitcoin-ethereum-crash-alert-btc-risks-76k-as-eth-eyes-2-000/)**
+**[XRP, Ethereum, Solana Are 3 of the Top 5 Altcoins, Expert Says: And the Other 2?](https://www.tradingview.com/news/benzinga:d67a8f07e094b:0-xrp-ethereum-solana-are-3-of-the-top-5-altcoins-expert-says-and-the-other-2/)**
 
-The crypto market has lost $68.75 billion in value over the past 24 hours, with its total market cap falling 2.5% to $2.75 trillion. For the past week, Bitcoin has been struggling to recover above $84,000, while Ethereum has slipped below key support.With both Bitcoin and Ethereum under pressure, a…
+XRP CRYPTO:XRPUSD, Ethereum CRYPTO:ETHUSD, Solana CRYPTO:SOLUSD, and BNB CRYPTO:BNBUSD remain four of the five top altcoins in the market, according to prominent cryptocurrency analyst CryptosRUs.Why XRP, Ethereum, BNB and Hyperliquid Made the ListGeorge, as the analyst goes by his real name, told…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -170,7 +170,13 @@ TradingView • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 10h ago
+
+---
+
+**[Crypto Signals and Analysis(@traderboos)'s insights](https://www.binance.com/en/square/post/382622352243219)**
+
+Binance • 3h ago
 
 ---
 
@@ -192,28 +198,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Heads for Worst October Since 2018 as Early Whales Wake Up](https://beincrypto.com/ethereum-worst-october-dormant-whales/)**
-
-BeInCrypto • 12h ago
-
----
-
-**[Ethereum developers fix staking deposit flaw ahead of Glamsterdam upgrade](https://ambcrypto.com/ethereum-developers-fix-staking-deposit-flaw-ahead-of-glamsterdam-upgrade/)**
-
-A fix initially set aside has been added to Ethereum’s upgrade specifications after further review and testing.
-
-AMBCrypto • 2d ago
-
----
-
-**[Ethereum price thresholds at noon ET on November 2, 2026 Odds & Prediction Market Analysis](https://cryptoslate.com/predictions/market/ethereum-price-thresholds-at-noon-et-on-november-2-2026/)**
-
-Track Ethereum price thresholds at noon ET on November 2, 2026 prediction market analysis with live Polymarket odds, probabilities, liquidity, and market.
-
-CryptoSlate • 18h ago
-
----
-
 **[Ethereum ICO Whale: Deposits $4.99M ETH to Coinbase](https://blockchain.news/flashnews/ethereum-ico-whale-deposits-4-99m-eth-coinbase)**
 
 An Ethereum whale that acquired 40042 ETH during the 2015 ICO transferred 2118.65 ETH worth $4.993 million to Coinbase, according to @ai_9684xtpa, after...
@@ -222,11 +206,27 @@ Blockchain News • 1d ago
 
 ---
 
-**[Pendle STRCx deposits hit record $50.4 million on Ethereum](https://cryptobriefing.com/pendle-strcx-deposits-record-ethereum/)**
+**[Ethereum price thresholds at noon ET on November 2, 2026 Odds & Prediction Market Analysis](https://cryptoslate.com/predictions/market/ethereum-price-thresholds-at-noon-et-on-november-2-2026/)**
 
-STRCx deposits on Pendle's Ethereum markets hit a record $50.4 million as Strategy's STRC preferred stock prepares for daily dividend accruals.
+Track Ethereum price thresholds at noon ET on November 2, 2026 prediction market analysis with live Polymarket odds, probabilities, liquidity, and market.
 
-Crypto Briefing • 1d ago
+CryptoSlate • 22h ago
+
+---
+
+**[Stellar climbs to second place in active developers, behind only Ethereum](https://cryptobriefing.com/stellar-ranks-second-active-developers/)**
+
+Stellar hit 3,922 monthly active developers in Q3 2026, ranking second behind Ethereum as stablecoin volume reached $25.1 billion.
+
+Crypto Briefing • 7h ago
+
+---
+
+**[Bitcoin ETFs Attract $137M as Ethereum and Solana Funds Record Outflows on October 28](https://financefeeds.com/bitcoin-etfs-attract-137m-as-ethereum-and-solana-funds-record-outflows-on-october-28/)**
+
+US spot Bitcoin ETFs took in $137.3M on October 28, led by IBIT's $136M, while Ethereum funds lost $21.4M and Solana products shed $5.7M.
+
+FinanceFeeds • 13h ago
 
 ---
 
@@ -240,7 +240,7 @@ Get the complete market edge with DataDash Pro — combining Nick's Dash Report 
 
 📺 DataDash
 
-👁️ 2K • 👍 109 • 💬 4 • ⏱️ 13:32 • 4h ago
+👁️ 3K • 👍 140 • 💬 10 • ⏱️ 13:32 • 8h ago
 
 ---
 
@@ -250,7 +250,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 2K • 💬 83 • ⏱️ 9:45 • 21h ago
+👁️ 65K • 👍 2K • 💬 84 • ⏱️ 9:45 • 1d ago
+
+---
+
+**[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=THOtCuWYWKg)**
+
+Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators For Sale: https://tinyurl.com/tcindicatorstore Free ...
+
+📺 Trade Confident
+
+👁️ 337 • 👍 6 • 💬 17 • ⏱️ 3:53 • 6h ago
 
 ---
 
@@ -260,7 +270,7 @@ Im shocked that more people even over the last few years of being in the cryptoc
 
 📺 The Modern Investor
 
-👁️ 9K • 👍 641 • 💬 206 • ⏱️ 30:56 • 9h ago
+👁️ 10K • 👍 689 • 💬 194 • ⏱️ 30:56 • 13h ago
 
 ---
 
@@ -270,7 +280,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 190 • 💬 6 • ⏱️ 7:46 • 18h ago
+👁️ 8K • 👍 204 • 💬 4 • ⏱️ 7:46 • 22h ago
 
 ---
 
@@ -280,27 +290,7 @@ Is Ethereum undervalued or falling behind? OpenAI's “ETH is false” announcem
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 57 • 💬 3 • ⏱️ 9:20 • 1d ago
-
----
-
-**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
-
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
-
-📺 BULLRUNNERS
-
-👁️ 3K • 👍 52 • 💬 25 • ⏱️ 15:18 • 1d ago
-
----
-
-**[Bitcoin Bounce at $80K? BTC, ETH &amp; XRP Price Update](https://www.youtube.com/watch?v=xGeXlMdzik4)**
-
-Bitcoin's $85K test: my BTC price analysis, Ethereum outlook and XRP chart update for October 28, 2026. I break down Bitcoin ...
-
-📺 YaBoySkey
-
-👁️ 962 • 👍 25 • 💬 4 • ⏱️ 7:11 • 19h ago
+👁️ 3K • 👍 58 • 💬 3 • ⏱️ 9:20 • 1d ago
 
 ---
 
@@ -310,27 +300,37 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 2K • 👍 41 • 💬 19 • ⏱️ 10:06 • 1d ago
+👁️ 2K • 👍 42 • 💬 19 • ⏱️ 10:06 • 1d ago
 
 ---
 
-**[🏛️ Wall St HYPE: ICE + Druckenmiller + trade[XYZ]: What It Means for Crypto 🚀](https://www.youtube.com/watch?v=7cW_pqYiCYc)**
+**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
 
-📺 InvestAnswers
+📺 BULLRUNNERS
 
-👁️ 2K • 30m ago
+👁️ 3K • 👍 52 • 💬 25 • ⏱️ 15:18 • 2d ago
 
 ---
 
-**[ETH conjecture disproved by OpenAI AND Anthropic on the same day?!](https://www.youtube.com/watch?v=ZbxC0412cys)**
+**[Bitcoin Bounce at $80K? BTC, ETH &amp; XRP Price Update](https://www.youtube.com/watch?v=xGeXlMdzik4)**
 
-Dr. Samuel Allen Alexander, mathematician and philosopher, reads and commentates on the papers "THE EXPONENTIAL TIME ...
+Bitcoin's $85K test: my BTC price analysis, Ethereum outlook and XRP chart update for October 28, 2026. I break down Bitcoin ...
 
-📺 Dr. Samuel Allen Alexander
+📺 YaBoySkey
 
-👁️ 51K • 👍 566 • 💬 241 • ⏱️ 34:10 • 2d ago
+👁️ 1K • 👍 27 • 💬 4 • ⏱️ 7:11 • 22h ago
+
+---
+
+**[🚨BITCOIN LIVE TRADING: MY NEW SNIPER LONG TRADES!!! 🔥🔥🔥](https://www.youtube.com/watch?v=jgZx-xxu61w)**
+
+BITUNIX, The BEST OFFER Worldwide   -20% OFF Trading Fees FOR LIFE   +20% Deposit Bonus up to $400   ...
+
+📺 Crypto Claudius
+
+👁️ 11K • 👍 2K • 3h ago
 
 ---
 
