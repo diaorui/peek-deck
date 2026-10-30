@@ -5,32 +5,22 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "We went inside Amazon's robot-powered warehouse to see if machines are taking jobs. What we found surprised us.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFlSWGxibEhSNllvNTkycHY1Rzg1VktWaVB6NGtydUYzQWducERiNHpCaVktNFc4Y2FjbUVaQTh5cHAxMTBHbGluX1FNT1lwdmJyTlFLUzkxMlllaUxTdkdMRlhLX2RqcXAzd09rYzgtbl9CbTh6SWxnZ2xsODRCR1c0LW9UQkMyTm84cjFIS0x0M3lGSlNLcVZubW5OOUYwdEZ3?oc=5",
-      "pub_date": 1793178034.0,
-      "article_url": "https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9",
-      "image": "https://i.insider.com/6adbc10ec8572251b197f937?width=1200&format=jpeg",
-      "description": "Inside Amazon's robotic warehouse in Tracy, California, workers explain how automation is transforming their jobs."
+      "headline": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+      "source": "Google Cloud",
+      "source_url": "https://cloud.google.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmFHdjgxSllxUXBrQTBJSEJXWXdqLUYzcHM1TTRkZEpMeEwxMHZmVGNkd0hCMVlHb0VrdHhwUzJLQnEydFBvLTZvcVU1TVdaVlFVUllxQ2NQM1pmY24yRFRubjViLU9ONkpDUEhPVUMyU0pRX1hBRzVrOWtrTXFCRDZkcDl1Nnp0bmVqT0NTMGxZYVZ4Z29WSmh3V1A3NGRsYzBDWTNSVm9leV80cTlnYk9Ib2JQX3RzRlB6dUVNUGtUZVM1NThz?oc=5",
+      "pub_date": 1793114095.0,
+      "article_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud",
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/gemini-robotics-2__blog__cover.width-2200..max-2200x2200.png",
+      "description": "Discover how Gemini Robotics Embodied Reasoning 2 on Google Cloud brings advanced spatial-temporal reasoning and physical AI to enterprise robotics."
     },
     {
-      "headline": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5",
-      "pub_date": 1793130186.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBOaUFWYzdPdWticUxKMVBOUS1rdDI2bFVEQ3NvRHBUVnhUWkVDYU1TMjQ5Xy1QUE9kR2VtRWp6QUpfQWMxcFY0Nmg1V09YNFp5SVplaUN5azRWdzREdURHb1JER2d0LUF3dzgzSWRFVmVNYmJycnAwa3lUd0pJM3poem5QM1U?oc=5",
-      "pub_date": 1793091757.0,
-      "article_url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+      "headline": "Foundry Robotics Raises $100 Million Series A to Build America\u2019s First Autonomous Factory for Assembly",
+      "source": "Business Wire",
+      "source_url": "https://www.businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeGx5NWJmbktHMndxNWpUYUZETkVpUkJYSmVqVzNNTE5iVGZYT0M1QVZsUHg3eWQ4eVQ4bmpsa2ZKRHB5UHRQeHRUUkIxLXFpSF9OVU9yZDhoQUNqOFJUVTJERHplZ2FfUnVuRXNWc2ZRLUttM2VNOHN3SzhzQnJGVENWeWZMa3JuZVhhQzQtZDM1M2xKMFEyeTU1N295UWhWZkplTGgtOGw0UHRFbXpLeTlweURSckE3MXlsMzB0My04YnlOeUtMMzg0ZDk2bTVuTTJoaElkNVBoZVZZNlkxTlprZXlVSHRnUklJVVhodHVmQQ?oc=5",
+      "pub_date": 1793199600.0,
+      "article_url": "https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly",
       "image": null,
       "description": null
     },
@@ -45,24 +35,24 @@
       "description": null
     },
     {
-      "headline": "Here's how humanoid robots could fit into the future of defense, society",
-      "source": "KSL News",
-      "source_url": "https://www.ksl.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeV9fdldPYzdlSzdOX1E5dEtfTl9tWFZ1OFVVRnUyYWdtT0xKcGlYTVU4czJrT0VVeWREb2E0NHhOSXE3UHlWN2xQcF84dC1OR01UZG9Gc2c3Sm5kSkxzdDhnZWszQjkyNjFTZFcxOTFHZ2paY3c5aVZLdDdUUHRqUFdQaHg3cE02UVF0MS1yNTAxNFZiVmVoWWdCUXNvWWtPUmEwbDlhdE96bDA?oc=5",
-      "pub_date": 1793235660.0,
-      "article_url": "https://www.ksl.com/article/51642150/heres-how-humanoid-robots-could-fit-into-the-future-of-defense-society",
-      "image": "https://img.ksl.com/slc/3207/320728/32072859.jpeg?filter=kslv2/responsive_story_lg",
-      "description": "Utah State University professor Mario Harper was on hand at the 47G Zero Gravity Summit Wednesday to showcase the potential of Dallas and Dallas II, two humanoid robots the university acquired from overseas."
+      "headline": "A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It",
+      "source": "Rocket Lab",
+      "source_url": "https://rocketlabcorp.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkJDT3REV3I2MUZWY1BGSmxDeFMwQ1Z4WFhoRjlKcXhNYkRuUzdqVEpvaEd1bmpueDBlVnpVeVVyNXFGdm5xdnB5YlZMTHhCbEFuZG1BV1ZRTGJGa0U1TGRJY2VrUDJGUzNXczkzZ2ZxaXNIdHMwVDMxLVcwTzdVVnJpRHB5Y3dCWmQ2bWNZdksxbmcyV2lzbnFYaG1CckxqZ0E?oc=5",
+      "pub_date": 1793319684.0,
+      "article_url": "https://rocketlabcorp.com/updates/a-robotic-arm-that-can-walk-across-spacecraft-rocket-lab-built-it/",
+      "image": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+      "description": "Future space missions could soon get a big leg up \u2014 or arm, rather \u2014 thanks to robotics developed by Rocket Lab in collaboration with NASA."
     },
     {
-      "headline": "Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1uODNBTHNBOE5uNEJjQndCY1dqZkc3RGkxcVY5NHNuSzh1Nm1UbTZMSGVCdmhSaHBicTctdkUzd2gxTzZyWnJ3bkEteVlXeUFmRW5GX3FPbHJ6R05paGZjTk5PWHFpWWhrX1dCYm5uQjkzLWtTM0duNDhyVHlmRkxxNXpZLUIyUVNKalVOR3ljSVNBbGVmMDl0dDlQLW1fTFlUVlNidTRDV214czhF0gG0AUFVX3lxTE5xbXBvd3A3dU5MRklvQnBWV0k2RVNPcU1lRDdGLUFTbEp3QlZWVEcwWk5pTnRwWExqRTZfbWhnanNhbDB5dVRkVUxNVHNJYzl3U2NiaHZlNEdPTDRMNnl4bk5ZcHlGOXVRakFtdXlGSjNjcl9JVUVhTlM2Q0ZXT203VlZraWFPNzlqRnhCRHRXYVJGYUVnelM5em1OLVpuQXpaX0Fza3BvQy1UalhZZVNOTk9rRQ?oc=5",
-      "pub_date": 1793049747.0,
-      "article_url": "https://abcnews.com/GMA/Wellness/doctor-performs-surgery-patient-hospital-35-miles-robotics/story?id=137576330",
-      "image": "https://i.abcnewsfe.com/a/fbe5ef73-2312-4f94-aa20-a01d4315953b/AdventHealth-ht-er-261026_1793031672199_hpMain_16x9.jpg?w=1600",
-      "description": "A doctor in Florida performed a medical first on Sunday, using a robotic telesurgery system to perform a surgery at a hospital located 35 miles away."
+      "headline": "Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXpxN01ScDdpRFV5cUdfdXcxVGVqXzZPZEp6cHI1Q293eDRLak92TTQtZHZJM3ZBMFdnVDFCV1ZKQ3hWVXh0ckpmRnVhSUs2b2xWcjhGTV83c2hTZkh0TDVleTVyYTFFTWUwU2FLcHVuWFpEMl9jMkFlWjBhOWFhU1dSUml4ckdBcW1IbGRDeE1VRlBjeF9OaVJFS3NGQS1qdnFIc0IyUTdzZmRBTk1KQTdYSDBJVmUyNk9zZXFrSQ?oc=5",
+      "pub_date": 1793129709.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg",
+      "description": "Spacewalking tools and a pair of robotics jobs topped Tuesday\u2019s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear."
     },
     {
       "headline": "Trump says imported robotics pose national security risks but does not impose tariffs",
@@ -75,16 +65,6 @@
       "description": null
     },
     {
-      "headline": "Arlington-based D.R. Horton teams with robotics firm for home construction",
-      "source": "Audacy",
-      "source_url": "https://www.audacy.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVpBU0pvV185ekJlMlRFRHBRQTNBY0tseHF1bGw4cUMtODdIMkFfeEdsMFVXU3QtX3JfeG5zOGNvUXV0SE5LWE55ZnpkdFNiTHVWakFJTVF3OFk3QTBNdzFudU0zVWtER3I0NldiYlg0dHZaSEdqVGY4dlNXdUVld3h3MnBxd1hTeHZDNmtYRkl1VUoxNzZ4OFhOWmZHSG83eEUtSU5JNUxrMURnT0ZFV3hR?oc=5",
-      "pub_date": 1793184900.0,
-      "article_url": "https://www.audacy.com/krld/news/local/arlington-based-d-r-horton-teams-with-robotics-firm-for-home-construction",
-      "image": "https://www.audacy.com/media-library/arlington-based-d-r-horton-the-largest-u-s-homebuilder-by-volume-has-signed-a-multi-year-deal-with-torontos-promise-robotic.jpg?id=68541350&width=1200&height=600&coordinates=0%2C167%2C0%2C167",
-      "description": "D.R. Horton partners with Promise Robotics to build AI-powered structural frames for over 1,250 homes near Phoenix, boosting housing production. | NewsRadio 1080 KRLD"
-    },
-    {
       "headline": "Germany and Ukraine test armed ground robot for frontline deployment",
       "source": "Euronews.com",
       "source_url": "https://www.euronews.com",
@@ -95,16 +75,36 @@
       "description": "Remote-controlled and heading for the front lines. ARX Robotics and the Ukrainian company ROBONEERS report completion of the first major system tests. #EuropeNews"
     },
     {
-      "headline": "Mystery owner plans robotic car wash in Arlington",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0pVYlZUS25nOGJjUHRDemRDYWo4Vjl6dDdkRUxOLWd4dzJmdGtZN2taaDFVU29nOGo1eEtaeGtxalIwZDFkNkR0ZE5SR0xNRi1kcDFWZUI0OG5LQ2RCTzdoYmNXZlRoTDhkclUtOEk3OWpyZkZGbVByelo3WjExck90SUJuVVo2QjJDM3NId1VoVFRaYTlv?oc=5",
-      "pub_date": 1793214660.0,
-      "article_url": "https://www.bizjournals.com/washington/news/2026/10/28/arlington-robot-car-wash-wattbox.html",
-      "image": null,
-      "description": null
+      "headline": "Here's how humanoid robots could fit into the future of defense, society",
+      "source": "KSL News",
+      "source_url": "https://www.ksl.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeV9fdldPYzdlSzdOX1E5dEtfTl9tWFZ1OFVVRnUyYWdtT0xKcGlYTVU4czJrT0VVeWREb2E0NHhOSXE3UHlWN2xQcF84dC1OR01UZG9Gc2c3Sm5kSkxzdDhnZWszQjkyNjFTZFcxOTFHZ2paY3c5aVZLdDdUUHRqUFdQaHg3cE02UVF0MS1yNTAxNFZiVmVoWWdCUXNvWWtPUmEwbDlhdE96bDA?oc=5",
+      "pub_date": 1793235660.0,
+      "article_url": "https://www.ksl.com/article/51642150/heres-how-humanoid-robots-could-fit-into-the-future-of-defense-society",
+      "image": "https://img.ksl.com/slc/3207/320728/32072859.jpeg?filter=kslv2/responsive_story_lg",
+      "description": "Utah State University professor Mario Harper was on hand at the 47G Zero Gravity Summit Wednesday to showcase the potential of Dallas and Dallas II, two humanoid robots the university acquired from overseas."
+    },
+    {
+      "headline": "How Edge AI Helps Humanoid Robots React Faster Than a Central GPU",
+      "source": "EE Times",
+      "source_url": "https://www.eetimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajM2bkl2OHJHX1FOal82MVg0dWlWcHkzMzlSbE5nSEFsclIwZ2JUTnlLUTlkdUs4OVFoUHNheWQ3SnR4YnEyTGY1UGNBcE1sNjlPLXFkMFAzZDNyYk5RbXZpZVpJbXR3S2VwNDF2RmtZbnNBWkUzZ1llTWQ0Z1lDelVRbXg3Zng1STQtT1MtTWFBTmFRQmdrRWhBYzllSmFEMldUcjJDMS0?oc=5",
+      "pub_date": 1793274559.0,
+      "article_url": "https://www.eetimes.com/stmicroelectronics-weighs-developing-more-powerful-mcus-mpus-for-humanoid-robots/",
+      "image": "https://www.eetimes.com/wp-content/uploads/lagasca_1200x1200.jpg?resize=1200,675",
+      "description": "STMicroelectronics weighs more powerful chips for humanoid robots as edge AI, safety, and hardware integration shape development."
+    },
+    {
+      "headline": "The Humanoid Robot Market Could Be Worth More Than $7 Trillion. Here Are 3 Stocks to Own.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2dZYUlHVzFaX1BIUlRyYldoNWdaMG1sYUsyNmp0ZWxBUVdON3BzQklaUk8tcjZmX3JXQmdwNjdSQlp4clJNbzVVbUNjZEZQQmhIeVZjSTBXVUdtTTAxOUNUdERrcDFjOUlLOUtCTGNzZE1YUk02UEFFYUVWZVc3WklxeE1IcFM3Sy1sNlB5NXllSnFJbEx1TQ?oc=5",
+      "pub_date": 1793321688.0,
+      "article_url": "https://www.fool.com/investing/2026/10/29/the-humanoid-robot-market-could-be-worth-more-than/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891358%2Frobots.jpg&w=1200&op=resize",
+      "description": "The industry is still in its infancy, but it's becoming clear which names are best positioned to lead it to full viability."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-30T00:08:53.073746+00:00"
+  "fetched_at": "2026-10-30T06:14:18.092526+00:00"
 }

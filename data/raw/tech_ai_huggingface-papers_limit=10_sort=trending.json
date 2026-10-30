@@ -16,7 +16,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 118199,
+      "github_stars": 118394,
       "project_page": null
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 21218,
+      "github_stars": 21316,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 8683,
+      "github_stars": 8735,
       "project_page": null
     },
     {
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2606.23050",
       "arxiv_url": "https://arxiv.org/abs/2606.23050",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
-      "upvotes": 104,
+      "upvotes": 105,
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 29686,
+      "github_stars": 29774,
       "project_page": null
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2024-07-25T01:50:46.000Z",
       "github_repo": "https://github.com/modelscope/agentscope",
-      "github_stars": 34796,
+      "github_stars": 34880,
       "project_page": null
     },
     {
@@ -115,6 +115,25 @@
       "project_page": null
     },
     {
+      "id": "2610.22732",
+      "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
+      "authors": "Aaron J. Li, Weijia Xu, Chandan Singh et al. (11 authors)",
+      "organization_name": "MicrosoftResearch",
+      "organization_fullname": "Microsoft Research",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
+      "summary": "Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas real-world developers use them to continuously build, update, and maintain large-scale projects. This mismatch motivates us to evaluate agents over sequences of realistic coding tasks, where we find that agents exhibit recurring environment-dependent token costs that existing methods struggle to reduce. To minimize these costs, we introduce TokenEconomizer, an external controller that cuts environment-specific token costs over a sequence of tasks. These cuts come from determining (i) which operational micro-skills to inject, (ii) which persistently irrelevant tools to prune, and (iii) when to intervene in unproductive failure loops. Across Claude Code, Codex, and GitHub Copilot CLI paired with frontier models, TokenEconomizer reduces the average token cost by 18.4-30.9% with comparable task success. Savings hold in every repository under every tested agent-model setting and generalize to diverse domains such as sequential web development and security auditing, where costs fall by 6.4-21.2% depending on task structure. Our work establishes adaptive black-box cost control as a promising direction for reducing token costs of coding agents in realistic settings.",
+      "ai_summary": "TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.",
+      "hf_url": "https://huggingface.co/papers/2610.22732",
+      "arxiv_url": "https://arxiv.org/abs/2610.22732",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22732.png",
+      "upvotes": 6,
+      "num_comments": 2,
+      "published_at": "2026-10-14T20:00:00.000Z",
+      "github_repo": "https://github.com/microsoft/TokenEconomizer",
+      "github_stars": 710,
+      "project_page": "https://tokeneconomizer.github.io/"
+    },
+    {
       "id": "2508.02739",
       "title": "Kronos: A Foundation Model for the Language of Financial Markets",
       "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
@@ -130,7 +149,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 44042,
+      "github_stars": 44071,
       "project_page": null
     },
     {
@@ -149,7 +168,7 @@
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
-      "github_stars": 2215,
+      "github_stars": 2239,
       "project_page": "https://openmoss.ai/MOSS-Image/"
     },
     {
@@ -164,34 +183,15 @@
       "hf_url": "https://huggingface.co/papers/2610.36729",
       "arxiv_url": "https://arxiv.org/abs/2610.36729",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.36729.png",
-      "upvotes": 124,
+      "upvotes": 126,
       "num_comments": 2,
       "published_at": "2026-10-26T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
-      "github_stars": 379,
+      "github_stars": 388,
       "project_page": "https://hy-nomas.hy.tencent.com/"
-    },
-    {
-      "id": "2407.16741",
-      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
-      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
-      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2407.16741",
-      "arxiv_url": "https://arxiv.org/abs/2407.16741",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
-      "upvotes": 90,
-      "num_comments": 7,
-      "published_at": "2024-07-23T13:50:43.000Z",
-      "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 92204,
-      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-30T00:08:39.721395+00:00"
+  "fetched_at": "2026-10-30T06:14:07.807880+00:00"
 }

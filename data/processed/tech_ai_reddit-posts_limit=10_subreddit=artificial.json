@@ -13,6 +13,17 @@
       "description": "The limit lives in the tensor cores. When they multiply FP16 or BF16 numbers and add up the results in higher-precision FP32, GeForce cards issue those instructions..."
     },
     {
+      "title": "Reddit will force everyone to log in",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1xj2qw1/reddit_will_force_everyone_to_log_in/",
+      "published": 1793324850.0,
+      "thumbnail": "https://external-preview.redd.it/cok1ZRN3nVv9jR_pJKuO7Z6bZF3ShbaTc4Pal7kJQm0.jpeg?width=640&crop=smart&auto=webp&s=fb717951236fb06f8c67b09148ea300370b7715b",
+      "external_url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impacting AIs that search the internet via tool calling."
+    },
+    {
       "title": "31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Links Case to Her Death",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/",
@@ -35,15 +46,15 @@
       "description": "https://epoch.ai/publications/open-weight-models-patch-gap"
     },
     {
-      "title": "Working on a Jarvis invoice inspired Voice Agent.",
-      "author": "Input-X",
-      "url": "https://www.reddit.com/r/artificial/comments/1xivelj/working_on_a_jarvis_invoice_inspired_voice_agent/",
-      "published": 1793306055.0,
-      "thumbnail": "https://preview.redd.it/mhm1s7b1vgyh1.png?width=640&crop=smart&auto=webp&s=6cb9fb67346a68645737d1404aba0b0219bbd78d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Only a couple hours at this, taking shape. Hardest thing is the layout what to include. Back-end is complete, just need a face, Ive been running my voice agent in the background for a while with no interface. What you think. Cool fun project. will probs be so over engineered lol. will MIT opensource when done."
+      "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand \u2014 $63 million injection is the largest investment in tape for 20 years",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/",
+      "published": 1793306236.0,
+      "thumbnail": "https://external-preview.redd.it/YgBt6eM1dbynAuuzLwEVArB2Tt6WavgE_x6PLUT82yc.jpeg?width=640&crop=smart&auto=webp&s=5c5a88d225d630f198695e260473cbf4f3703cba",
+      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1798516/apple-touch-icon.png",
+      "description": "The move will see the company's largest investment in tape-based data center storage medium in the last two decades."
     },
     {
       "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion | TechCrunch",
@@ -57,15 +68,26 @@
       "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
     },
     {
-      "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand \u2014 $63 million injection is the largest investment in tape for 20 years",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/",
-      "published": 1793306236.0,
-      "thumbnail": "https://external-preview.redd.it/YgBt6eM1dbynAuuzLwEVArB2Tt6WavgE_x6PLUT82yc.jpeg?width=640&crop=smart&auto=webp&s=5c5a88d225d630f198695e260473cbf4f3703cba",
-      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1798516/apple-touch-icon.png",
-      "description": "The move will see the company's largest investment in tape-based data center storage medium in the last two decades."
+      "title": "A real citation can still be the wrong evidence for an AI answer",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1xj360n/a_real_citation_can_still_be_the_wrong_evidence/",
+      "published": 1793326070.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An AI answer says a treatment \u201cimproves long-term outcomes\u201d and links to a real study. But suppose that study only measured a short-term indicator. The link works, the paper exists, and the claim still goes beyond the evidence. Checking whether a citation is fabricated only catches one kind of error. I\u2019d like research assistants to show the specific passage supporting a claim, along with the study population and what was actually measured. That would make it easier to spot a conclusion that quietly changed scope. When checking an AI-assisted literature summary, which mismatch do you look for first: population, outcome, time period, or strength of the conclusion?"
+    },
+    {
+      "title": "Working on a Jarvis invoice inspired Voice Agent.",
+      "author": "Input-X",
+      "url": "https://www.reddit.com/r/artificial/comments/1xivelj/working_on_a_jarvis_invoice_inspired_voice_agent/",
+      "published": 1793306055.0,
+      "thumbnail": "https://preview.redd.it/mhm1s7b1vgyh1.png?width=640&crop=smart&auto=webp&s=6cb9fb67346a68645737d1404aba0b0219bbd78d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Only a couple hours at this, taking shape. Hardest thing is the layout what to include. Back-end is complete, just need a face, Ive been running my voice agent in the background for a while with no interface. What you think. Cool fun project. will probs be so over engineered lol. will MIT opensource when done."
     },
     {
       "title": "A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.",
@@ -79,38 +101,16 @@
       "description": "I am Ekin, a one-person game studio in Turkey. On 28 October the free demo of Iron Curtain Call went live on Steam: a fast cartoon-noir FPS set in an alternate 1965 where a customer-service AI runs World War III. The code is written by Claude Code agents working from my design documents: 3,929 commits over 20 working days by 25 October, in Godot 4.7. The full game, 12 chapters, releases on 11 March 2027. What the agents did well: the game's systems (a Doom-style resource loop, nine weapons planned, about 49 robot types planned, bosses), the HUD, the tooling, and a headless test suite that gates every merge (zero script errors, a bot that plays the level, navigation and geometry checks). They work in parallel: one lead session, feature sessions in the cloud, one per workstream, each on its own branch. What they could not do: know what is fun. Level design that surprises took the most time of anything; the demo's level went through four versions, and a human playtest added a whole section. Every joke, the story and the cuts are mine. The agents also hit real engine bugs (a Godot audio-thread race in headless runs) and platform quirks (a minute of shader compilation on Macs) that needed measured workarounds, not prompts. Disclosure, as on the store page: voices are ElevenLabs (about 2,800 recorded lines), some art and the cinematics are Higgsfield, the score is FluidSynth plus a few ElevenLabs cues. No AI runs during play. Several subreddits for the genre ban games made with generative AI, which is its own data point about where this is heading. Demo: https://store.steampowered.com/app/5417460/Iron_Curtain_Call/ Happy to answer questions about the workflow and the limits. Drafted with the lead agent, edited by me."
     },
     {
-      "title": "San Francisco startup offered $20 an hour to walk robot dogs for AI training: report",
-      "author": "Medical-Decision-125",
-      "url": "https://www.reddit.com/r/artificial/comments/1xip880/san_francisco_startup_offered_20_an_hour_to_walk/",
-      "published": 1793292348.0,
-      "thumbnail": null,
-      "external_url": "https://www.foxbusiness.com/technology/san-francisco-startup-offered-20-hour-walk-robot-dogs-ai-training-report.amp",
-      "site_name": "foxbusiness.com",
-      "favicon": "https://static.foxnews.com/static/orion/styles/img/fox-business/favicons/apple-touch-icon-57x57.png",
-      "description": "The $20-an-hour job posting sought workers to operate four-legged robots on outdoor testing routes through San Francisco with no robotics experience required."
-    },
-    {
-      "title": "Google unveils Gemini 4 Carbon, a cybersecurity-focused frontier model \u2014 and vetted defenders get it first",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xiuc3w/google_unveils_gemini_4_carbon_a/",
-      "published": 1793303707.0,
+      "title": "AI is now being used to catch forged and deepfake documents in visa processing. Where does this go wrong?",
+      "author": "Loked_In_Aunty",
+      "url": "https://www.reddit.com/r/artificial/comments/1xj6sks/ai_is_now_being_used_to_catch_forged_and_deepfake/",
+      "published": 1793337452.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Google announced Gemini 4 Carbon on Oct 28, calling it its strongest Gemini 4-era model, built for cybersecurity and long-horizon engineering work. Per Google\u2019s figures, it scores 88.2% on SEC-bench Pro (finding real vulnerabilities), 54.8% on ExploitGym (validating exploits), and 71.0% on CWE-bench (patching), and it tops the Artificial Analysis Intelligence Index v5 at 59. These are company-reported numbers; independent reproduction is still pending. The more interesting part is the rollout: Carbon goes first to a subset of vetted cyber defenders through Google\u2019s Fairwind Program, with developers, businesses and consumers to follow later (no date given). Google says it is also taking part in the U.S. government\u2019s voluntary pre-release testing process. Discussion: a model this good at finding and exploiting bugs is inherently dual-use. Is a defenders-first staged rollout the right template for this kind of capability, or does it mostly delay the same access debate by a few months? And how much should we trust benchmark leads that only the vendor has reproduced so far?"
-    },
-    {
-      "title": "Insurance tech just got a $2B AI deal. Are our rates cooked?",
-      "author": "nay-byde",
-      "url": "https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/",
-      "published": 1793286598.0,
-      "thumbnail": "https://preview.redd.it/1hk2nd4r9fyh1.jpeg?width=640&crop=smart&auto=webp&s=f676d8409973ea897a48ae19d0498f95e95489e1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Guidewire is acquiring AI underwriting startup hyperexponential for $1.7B in cash, with the total deal potentially reaching $2.1B. I think this will only enable them to connect more dots and eventually squeeze even more money out of us. AI deciding how much to pay. Almost exactly what IBM warned us about. Too late now I guess"
+      "description": "Visa processing is starting to use AI to screen documents. Earlier this month, BLS International, which runs visa and consular services for governments in over 100 countries, announced an integration with Signzy, an identity-verification company. The stated capabilities are: Document intelligence: scanning submitted documents for anomalies that could point to manipulation Deepfake detection: flagging material that has been AI-generated or digitally altered The operating model they describe is: technology flags, people verify, governments decide. Final visa decisions stay with governments. What the announcement doesn\u2019t include is any numbers: no accuracy rates, false positive rates or effect on processing times. That\u2019s normal for an integration announcement, but it means the interesting questions are still open. Where I think this could go wrong: 1. False positives land on real people. A bank statement re-saved as a PDF, a photo scanned on a cheap printer, a stamp that\u2019s faded. To a model, these can all look like tampering. Even a 1% false flag rate at visa scale means thousands of genuine applicants getting extra scrutiny. 2. \u201cHuman review\u201d can become a rubber stamp. If reviewers see a red flag next to a file and have 90 seconds per case, how often do they overrule the machine? The safeguard only works if reviewers have the time and authority to disagree. 3. Uneven document quality across countries. Documents from some countries or issuing authorities are less standardised. A model trained mostly on one kind of document may flag others more often. 4. The arms race. The tools for generating fake documents are improving as fast as the tools for detecting them. A detection system is only as good as its last update. 5. Privacy. Document and biometric data is about as sensitive as data gets. Where it is processed, how long it\u2019s kept and who audits the model all matter as much as detection accuracy. Where it clearly helps: Manual checks are slow and inconsistent, and reviewers get tired. A system that catches obvious manipulation early lets people spend their time on the hard cases. In theory, that\u2019s faster for honest applicants too. Question for the sub: How should organisations balance faster automated checks with human verification? And what would you want disclosed (error rates, audits, appeal routes) before trusting a system like this? Source in the first comment."
     }
   ],
-  "fetched_at": "2026-10-30T00:08:30.152991+00:00"
+  "fetched_at": "2026-10-30T06:13:56.938457+00:00"
 }
