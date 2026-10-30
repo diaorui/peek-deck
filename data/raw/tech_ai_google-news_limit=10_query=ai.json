@@ -5,94 +5,84 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "In China, the War on Mosquitoes Has Entered the A.I. Era",
+      "headline": "The AI investing story had a rough week. It may be time to take profits while you still can",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVMDB1eXN5V1R1ZjNPZV9XT2c5R3ZjUGJ5RDBHQjlEVndKSHVPM3hndmJ5QTVJbGNWS0wxdEwzdUYxTzZzVmdGYTd1dm5GUmI2NFZDemdnOVJsUzJEMWlXOTlCcWtzWVhfRF9uRUFBVEJZZUpVM19kN3pSUnB6dVXSAYQBQVVfeXFMTzBUcGxqV3FxbkpSOVV5WV9KblBpbF9vd1lGNEdPay1SWXNZN20tRlpVOEFyTzRxSzFfQUdsbmVyeTZoWGg5ZlRCSDZNMTd0amZyQlU2VEpTX3NCMVl3Zi1UZEFEQUloWXRpNlMzSTlRS0ZzY252QzAxQ2pEc1RWbHI0YUF4?oc=5",
+      "pub_date": 1793380648.0,
+      "article_url": "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108486884-17933758642026-10-30t153955z_1081649061_rc2pdoan855x_rtrmadp_0_usa-stocks.jpeg?v=1793375918&w=1920&h=1080",
+      "description": "Traders and investors are sounding trepidatious about the tech sector following a newsy week."
+    },
+    {
+      "headline": "AI spending fears hammer Google shares, triggering massive one-day loss",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0wybjFZNWFfUzlOejYwWmUzSzhXR3Z6TXczdGEtYmxnR3ptQVAxaUNodDJvbnJ6UWJjbU9YQS1FZEh0NDhDSlVjWHF6MUxocVl1ZVN2OTJjRUJhRnY4eTFxMW9SUVZ5LTJzZmZ3Z2tpQzZPR09NbHNrcDE2dnZrV2V5V2l6LTQ?oc=5",
+      "pub_date": 1793376103.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-boom-google-stock-loss-wall-street-10-30-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/b18936a2ec2ce39c3513b874998df460.jpg",
+      "description": "Shares of Google's parent company, Alphabet, plunged nearly 13% Thursday after its earnings showed slowing revenue growth, raising concerns about the massive spending needed to build out its AI infrastructure."
+    },
+    {
+      "headline": "People have received religious exemption against AI usage",
+      "source": "AL.com",
+      "source_url": "https://www.al.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjlrbDd2SUJjNDdBNHRvR202OEctZ3VwU2lULUR6cm1PVkhKYmxfYVBzSjhJQlM2cVJvbEUxTGFWbzA4RGM4VVEwYk80ZFZENG9kWkxfOVJMZklnOGE4VzNJWG02bEV0OEJDa3U4Wmk3UGdlcWE5eUpUUkphUlB5bEd3YS1JVjY1c2Rmd0RFeGpzbzl0MTFJTGVn0gGuAUFVX3lxTE83U295bGcxOHlXV0lHbWNyRmJKeXBueTM4M0ZPa0xKNl84R3dSNEFvWDZocjl2Y2lOZy1tR2FDZ2FrRHQwazVWR2pHWGNNQVJuVW02TDB5Xy1EMFVHR1h1cE5FOG4zMnVoeG5aR01JYVJuUjQ0TkpJLWJ5Xy1iNjNITFF2OTE3ZmRPLWVTUjltNndLT2NoNDRwdHVzUmstQjloS1VLbmZpbHlSa0tmdw?oc=5",
+      "pub_date": 1793384640.0,
+      "article_url": "https://www.al.com/news/2026/10/people-have-received-religious-exemption-against-ai-usage.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How 'deeply intertwined' are energy companies in this stage of the AI build-out?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRi1NZGh4LUIyY1R2MnBSUEowcElDN1l2ZmNDazNqcEJGR2x1MTIxa1g1bEJfczUyRUNTVkwwUG45UmdYXzVyVUl0TVBUOXpGZzBqYnE4ZWpBckNyS0hIamV0YXhLUEVMT2x5NFUzYWlwbFMzaWdmbXF3Nk1TZmxkazZKOGlYdDNqTk9kNEVYUU9oeVNPYlg3V2xIaW1wS3ZGaGktN2c3bnVBV1ZUQVpwMXpISVFJeWtzZGwzeVAzRE9BUQ?oc=5",
+      "pub_date": 1793383285.0,
+      "article_url": "https://finance.yahoo.com/video/how-deeply-intertwined-are-energy-companies-in-this-stage-of-the-ai-build-out-180125447.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fad873632bfc077bcb7a5ca1013d05a1a95cdbdd927d613b48c6501b95901bcb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1793383248170_9718.jpg_ee6c449beee08942448c547ecc20531b23cce1108b38a93261d7a67f78521b5f.jpg",
+      "description": "Laffer Tengler Investments CEO and CIO Nancy Tengler and her panel of experts weigh in on how \"deeply intertwined\" many energy companies and providers have become in the AI infrastructure build-out.Today's panel includes SHAKTI partner Liz Harrow, Futurum CEO Daniel Newman, and Kelly Intelligence Founder, CEO, and CCO Kevin Kelly."
+    },
+    {
+      "headline": "Pope Leo calls for the disarmament of AI: \u2018Machines are tools, not persons\u2019",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTzZGbjJOV1lmcmhoVmpmZFBqR0NNNTlJN2FUY0REN3hjTG9lMXM4c0FsMU8tZmFIVFNZQVBIWTF3WnJoTl9EZE1tLUx6RGF1dUJDcGI0a0VVUGpOUG5YbmJuTm02NXZsb01OaHlNN3NNMHZfSF9GRmNnQUUtX3lHZ1VwaUQ?oc=5",
+      "pub_date": 1793372286.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "The Pope says international institutions should safeguard the common good from AI risks."
+    },
+    {
+      "headline": "Pope on AI: Decisions affecting human life must never be delegated",
+      "source": "Vatican News",
+      "source_url": "https://www.vaticannews.va",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDFNTDZNTFdvbU1jai00enRLLVhTMjllTUUtdUtRb0lKWFpwaEh4UjBUOEJ2bHh4aVl0Wmt1WFA2QWlkWTNVWGhlckUzRkJGcm01aTFnbzFxVjZjR25KWkY4QnkxX0hOcl9fQ3FYd19RQmFPSTFzUkFWY0E2eDktel91ZldvU2lUaDBVVnJ5Um1hNDNPQ0MzbTlYUnlscXo3V0VuTjZZUGMzY09HSHBxa1VDX3l0dw?oc=5",
+      "pub_date": 1793362466.0,
+      "article_url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-ai-decisions-affecting-human-life-must-never-be-delegated.html",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/30/2026-10-30-partecipanti-all-incontro-promosso-dalla-pontificia-a/1793361001703.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+      "description": "Addressing participants in a meeting dedicated to AI, Pope Leo stresses the importance of keeping the human person at the heart of this technology to ..."
+    },
+    {
+      "headline": "Pope says 'most urgent' challenge facing AI race is need for institutional ethical framework",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU29pN05pYkRDSjV2WGJGcTBUekdRcVVqVVhUNE5SbUhiVlBkQnVCNFdBa3ZHcEZNUkpER1NVZzltRHJERFVGLWZZWlhtNDk2aldST1Y3aWliVDBOTndOYlVoNWRFZWIyVTVkQUVxNm9kU0s0dnFZN1YtdmJXV3pPN0s1S2ZES043MHRQSmdhQjJNSXBuRVE?oc=5",
+      "pub_date": 1793383826.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/pope-says-most-urgent-challenge-181026583.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/65ed1afc70397d461a324363cda757df4a7ee01751fd3b1dce4934a43661e893/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3cb0ed460504e072aab3d5e91f60e585.jpg",
+      "description": "ROME (AP) \u2014 Pope Leo XIV on Friday told a Vatican gathering of artificial intelligence researchers and experts that the \"most urgent\u201d challenge was to identify international institutions that will put..."
+    },
+    {
+      "headline": "Opinion | What Anthropic\u2019s I.P.O. Filing Says About the Future of A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pOExXYTZ1ZjJaSUlzX2lPaVlieXNmSjFXc2ZPNHlEa3FxbkxVYVZhaUZXdmxnNGt0d2h2VXMwbXB5VlpoRmJQX3hCTTJGMmlKMUJzWWdJVmp2czliOFdJOWYyWVFYb1YycVdXMFU1a3pxYzZL?oc=5",
-      "pub_date": 1793332872.0,
-      "article_url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3dzg1NjZMOWRibEZVWFJJTTlsN0VHNGx2US03VWgzUXEtZm5Ud1V1TWFhQmdjRmpjeVEwc0QwT0NrVVNIa21lMm5uVmNIYlZXSmV1VGVDNHdqYzFsUng4VDJBSHlsMXBtUVNBTnZTaExhdw?oc=5",
+      "pub_date": 1793350986.0,
+      "article_url": "https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
-      "pub_date": 1793361842.0,
-      "article_url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
-    },
-    {
-      "headline": "Google is happy AI is cannibalizing its most profitable business",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWR4SHVieFhPVGxKem9qUHk2U3hCSjQtMXdWSUZ0dGhYY0txYWxuRHR5cWpicjI5Q1YyYldXZzVoUURZMUpiUzVQQXBaRUx4dlgyY1k5ZExnTVpGYUhsdU5hbTdUanNDUHk2QnkyY3kwOXZ4ZTVUOXRneXNCaFQxQ21lTXdTMTZ0Yl92RG1iZmd6Wk02bGp5TmJOcmRTa0ZhNVNvR19TenBGVS1jZGt2QUJ2Z3pFd05MelpUMk1obUoydw?oc=5",
-      "pub_date": 1793354400.0,
-      "article_url": "https://finance.yahoo.com/technology/article/google-is-happy-ai-is-cannibalizing-its-most-profitable-business-100000654.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cda384ed8f62a62f646bb33797928bc1f7f3fcb5e6c75884fee16c39aa00f5e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Ff8832918-39f5-4366-9074-6a32c54ed6b9",
-      "description": "Google might have a clear point of view on the future of AI monetization, but the market isn't so sure."
-    },
-    {
-      "headline": "Google\u2019s $500bn bloodbath reflects the danger it faces from AI",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRkxZWHJELW1Obk50akt1TlJPX1RMVUdBVEcwMEdPOFN6dTNHQ2NTV3M4ZzJlSkx5eHNUczlhNGlUS0pIajFtU1NhOF9zNEhTVVJzNjBmb0duckV4SmtDU0xIMUdmVVZBbndRUWlmNURPa2NXX1l4V0xsbkZIS0hSNUpwZzBOX00zMXQ2cmt4NldXX1RnaVBtZ1FIbUtXQnZPRXZGeXlVcGc1dw?oc=5",
-      "pub_date": 1793317269.0,
-      "article_url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Democrats see AI hate as winning issue heading into 2028",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFhiOFVDb0RJTDItbk83NWozTlhRdXlmOFVjQjBiQjJReVVpYXFuaDh0bXdWcmVjX01OeVpDR3BlT1BFZ3FRdFNyeFNKY1pOT3RLbDE4V2FySnFSMDFYQUl0elJ0dlN0d3Zqc2w2NlllQ0RJTlBIVHhrTDVqUlM5M2Jn?oc=5",
-      "pub_date": 1793363587.0,
-      "article_url": "https://www.axios.com/2026/10/30/2028-democrats-ai-hate-regulation-messaging",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Amazon's AI build-out just pushed its cash burn to a record: Chart of the Day",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS3ZnYlBzUUtoS19uZmZrRlRtT28tVTZybEkxVzBTNlNNX3MyMDNjRFF1b05lZzFtOVNOR05vT1RacUkwM0N5MU5MWTVwU1JVdlhvRzY1VWJ0OTZ5WHBaOW9OY2U0VEZ2bUhVSlJObzJGRkdzYzlxUy0zbTlFM09DTTRrZ1VjSE50Y1V4LXV5RmdkRXh3d3ljZlphcnpDaXRSODBTVFN6RFJHcjlXS3hudnlXaXpKbFphMEJDeVJ5MUROLU5VR2dYVEp4bHk?oc=5",
-      "pub_date": 1793359731.0,
-      "article_url": "https://finance.yahoo.com/markets/article/amazons-ai-build-out-just-pushed-its-cash-burn-to-a-record-chart-of-the-day-100000920.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/83060f11a34b1a01d71774e43e7fe3643d1585ade0cac558df2fa74a95286b57/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Faf9d2ff3-d858-4c83-b2a6-0b45b5c69db1",
-      "description": "Amazon's free cash flow fell to a record outflow of over $42 billion over the past 12 months as AI spending more than doubled."
-    },
-    {
-      "headline": "Global tech rout deepens as US earnings stoke AI spending fears",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTB4Ykd3SWFzX1I1OTJab3VCbDdLRy1IZmo4dVBNZU5CVmFqNFZxUmEtbGxBTnlYV09zUV9VYTZBUnpSU0tGQ2kySzZrVFIzUl96ZXRwZFlZQ2hsbHl4NGljX3YtYXNjbjBNeXdrN0dXdEZxZjg5NHBZNzNyTlZyNGRCWXc?oc=5",
-      "pub_date": 1793330111.0,
-      "article_url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Wall Street sell-off continues as investors question returns on massive AI spending",
-      "source": "CNN",
-      "source_url": "https://edition.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44YjVaTmpSZHM3NTRLaDRaN0tjeVM0ZTNhdG5fRGZ4YWNOTGJPaTZjVTFEdUE4WFBuZk5HbmpvMFF6a05yX04xMW1wMkwzQ3poX2o2WVFSTGZKbnFDelQwOHB5b3JXOGxJaTZHdWctcERxUTJGNUhF?oc=5",
-      "pub_date": 1793362083.0,
-      "article_url": "https://edition.cnn.com/2026/10/30/investing/us-stocks-ai-investment",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-10-28t154717z-781286972-rc2fcoai1cl0-rtrmadp-3-usa-stocks.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Wall Street braced for another steep day of losses Friday, with futures falling after the latest earnings from Big Tech reignited concerns that the massive spending on AI may not deliver the returns that investors expect."
-    },
-    {
-      "headline": "CEO Behind 'Grand Theft Auto' Says AI 'Won't Make Creating Hits Any Easier'",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUEyYzBLUFdpTFl6VnM1dVZKX05wR3VUNGFNelRMZVlyX2ZkZUV2bjNpZEVCV3BVZUFtbkN4RHNlN1lMbjdOSGNsdk5FWFRObldlQ1pYN1luN2JtdDFnbFZ4bTRlX2JOdUFnb1ZpOWxyQ1lOXzBxcEJQTjhpd1d3NzlMZjdteTZkT0JoTTZQcw?oc=5",
-      "pub_date": 1793366018.0,
-      "article_url": "https://www.businessinsider.com/ceo-grand-theft-auto-strauss-zelnick-ai-health-2026-10",
-      "image": "https://i.insider.com/6ae3e2a1911659c36c01b6f1?width=1200&format=jpeg",
-      "description": "At Business Insider's The Long Play, Strauss Zelnick, the CEO behind \"Grand Theft Auto,\" said that failures can allow companies to do their best work."
     },
     {
       "headline": "Cisco is letting a 27-year-old rewrite 98% of its legacy code with unlimited AI tokens: \u2018Go nuts\u2019",
@@ -103,8 +93,18 @@
       "article_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270629609-e1793295597735.jpg?resize=1200,600",
       "description": "Meet Paddy, the 27-year-old Cisco\u2019s president calls an \u201cenergizer bunny.\u201d He\u2019s been given unlimited AI tokens and told to \u201cgo nuts.\u201d"
+    },
+    {
+      "headline": "Proton\u2019s CEO Cancels AI \u2018Re-Interviews\u2019",
+      "source": "404 Media",
+      "source_url": "https://www.404media.co",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TMzhKS3N4QmtycTVvZjNCbjZFVTZiM1FxaGVfakpFTENFVFFmOThxalhuZU8tdHJNRElyRGIwY1ZEQ3NtQnlBRnZ0OHAtQlVnUHQ5cTZJMmNzODhsMmhrYXNyQ0VMTURRSnRkd1ZR?oc=5",
+      "pub_date": 1793378687.0,
+      "article_url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/andy4.png",
+      "description": "The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-30T13:20:51.536179+00:00"
+  "fetched_at": "2026-10-30T18:44:46.695332+00:00"
 }
