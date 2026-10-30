@@ -5,106 +5,106 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbi1kcVNYWHc2TXJmY2R5ajNFdy0zaUxQZFVZeTEtdmo4Vk1XbGJzM2p2cUdvSU8yS05zdDNaRmR3Z0R6MXpsUGplZVpjcFdVMHJscUZpRFZVdGFMQXdQQzV6NE16QUg0aTBfSU1mUFFCc2IwcGlMMWliV2hqbW5JOUlOSjkzSXVmMFBHbEJwUThkbHkyWnFXd29BeWFtQl9SaGRJWdIBqgFBVV95cUxNR3lRVHNvRWxOY21XeW9NZnFCb2JxRlpSbUxaRXM5NldrMWdIVmJCejhWZ0NZZ21VMWR0d0ZMQUNZTlM5Y3lKZjBKeDJYTkhpaVl5NE5ZZ2hSalhSU0JFemlFdmF5aTZIUjZfUkUySUVEUHhTRkxNZGJCQXk3Rml2S1gyUWw3TmVQR3l1Z2hBQUNTU09Pa1hWcEtWVXhxYTYxa01xSjZxQ3NhZw?oc=5",
-      "pub_date": 1793320320.0,
-      "article_url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108373743-1791342277720-gettyimages-2296543585-img_3420.jpeg?v=1793320464&w=1920&h=1080",
-      "description": "Bitcoin fell on Friday as concerns over a potential security breach at cryptocurrency exchange Binance rattled digital asset markets."
+      "headline": "Binance Estimates $6.3 Billion Hacked in Crypto's Biggest Heist",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW1MdGRoUFFwNW96WUJ5SHUzUUdhT1NVeXVZN2dBc0hQeGxzNkNvSTNiMG4xQTFHTTVCdVEwaTdJSmNDaUtXaU5KRWI2VmdSRUNybkNzeHdvbXVaZWZnZ01EbEdzdTZpemNiY0E0dDdTLTNGa3dCNXpqU1JEVXZFOHJGekRMY3hOMUFwRVBGckNZdTd2WUREakdBY1EtRV90SXM5aC1sRFdvMzJGT29wOQ?oc=5",
+      "pub_date": 1793361922.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Bulls Take the Biggest Hit in a $1.49 Billion Crypto Liquidation Day",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOblRlR2VtaEFKRVRkRFdJVHh3dXRMOWJWanNwb1BTTklyb04xZl96TnM2N3BGa1VhUlE3ZHhDU0RhU1hpODVaaC1IS25iY2VrZDExeTRaeFFXTmFOS05HMWY1bDkxUVRsU3F0Slg5MTRDVURIa0RMaXgtU2ljNDhJdmpzdEFReTFrM3FndlY2cHRPVk81ZW53?oc=5",
+      "pub_date": 1793324940.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-bulls-biggest-hit-1-014903088.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0bf64da86efd78bf135b7d6c45ece42f9836b58e3ccfbbfe6ce2c568fbe12fef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fcd95f6d21e25ae21a72b8d220024753f.jpg",
+      "description": "Crypto liquidations hit $1.49 billion in 24 hours as Bitcoin longs took the heaviest losses while one major token rallied."
+    },
+    {
+      "headline": "North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History",
+      "source": "TRM Labs",
+      "source_url": "https://www.trmlabs.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzVFd2Y4VVJPaEdVQUNDa3RZTTBvM1ZlNGNldDBkXzNzZUpLdWkwdW5GNktYenRUZUZ6OGdoUHRic29CSXY2VS1EVXUySy1EUWppVU5tcVFJVFh6R3Nfd05ndk1OVUIzX3hPbkdncUUwRTA4MWJkS3BJb3ZIY01MVWRQdHZYcjBGWWROclVZSDVIMEgyR1dTZ2VkbXR6NG8xQlhQTmRRTzdhQUJ3RGM5LXRDbnhWREFsUGc?oc=5",
+      "pub_date": 1793328876.0,
+      "article_url": "https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history",
+      "image": "https://cdn.prod.website-files.com/6082dc5b670562507b3587b4/6ae3fb1f6296a921da05dce1_InsightsGraphTemplate_Horizontal1200x628%20(1).pptx%20(54).png",
+      "description": "On October 29, 2026, an attacker moved about $6.36 billion out of Binance wallets across ten blockchains, the largest crypto theft on record, and TRM attributes it to North Korea\u2019s TraderTraitor, with evidence pointing to a compromise of Binance\u2019s hot wallet signing infrastructure. About $2.7 billion has been frozen, but the attacker still holds roughly $2.4 billion, and TRM is tracking the funds and alerting partners through the Beacon Network."
+    },
+    {
+      "headline": "Bitcoin Stolen in Binance Hack Is Likely \u2018Gone,\u2019 Ballet Says",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemhaVE1WaXl3eUFwc3RWT0d1S1pLYzBVRXpzS1UxaTdUUk5ReGxBR1VwYkliQUV5Um9rVmhZZm96Uk4tanhNSi1WaDRyY1FWSnEtaW1jdURCaWdxaS1vZmZEX1p3ZnV1c3lLajhXd3FEeUZvdGMzcjMxSUFkTmpOYW8ydGZzY2xDSTJab3BSZFROd2VMZE9qajF3alVZdkx3WTM3TTNLR0M1djVX?oc=5",
+      "pub_date": 1793337540.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-stolen-in-binance-hack-is-likely-gone-ballet-says",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Pa. AG Dave Sunday launches effort to prevent cryptocurrency scams at Bitcoin ATMs",
+      "source": "Pennsylvania Capital-Star",
+      "source_url": "https://penncapital-star.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaUZxazJoQ0Naa2o5VFlaV3h1RzRnM0tRSWVud3V5ZmFQeDBCYkpRbUNjLWNob1BBVlhDVV9DdUp5ZXFOOTRkTUdiNzNlb0J3NUJzc2xzOTdpWl9TRzVWN01UMUpDLXNLTWlTMl9LQzNFaHlUN2NSRXBnc0laTnVQLW5XUjN4ci1QNTdFRDNsZndTQ0RQeVhuVVNobFE1T1FMaUF1aHU0bGpyb2dNS3JpYnplQUhRTTlmLTFod296VFRfSUFCR3E0b3d2ZTNOQ2s?oc=5",
+      "pub_date": 1793347009.0,
+      "article_url": "https://penncapital-star.com/technology-information/pa-ag-dave-sunday-launches-effort-to-prevent-cryptocurrency-scams-at-bitcoin-atms/",
+      "image": "https://penncapital-star.com/wp-content/uploads/2026/10/bitcoinatm-2048x1436.jpeg",
+      "description": "Pennsylvania Attorney General Dave Sunday warns about increasingly popular cryptocurrency scams using digital currency kiosks."
+    },
+    {
+      "headline": "Dear Abby: Bitcoin scam stole half a million dollars from our future. But I still want my Italian dream",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR05jN01wUy1Ia1pNcUU2d19FYXZWNFdrNkFMdFhVOE1yTVpwaU9vRW8wclhjOWhKQmlUY3R1UnExZE9Cc2RrOXZEQW5GdjVGNmpXeTBrZUczYzNkZTRqclRuUmVOYnJMVW1BN2QtY0M3bDBqdHEyS3U3dHFrLVFjcTJoS3VsQ2JDdWM3ckE4TXZHdnBlYVNiVWQ0Tmpfd2Rwczg5d3V5QXlRbFRhN2NiUzdoR3UyZWl1SUlSMnhtclBfeFFSN0RLTjR5ZExFQ1Y5M1Vfd21hRU5CQVg1eUJoeW1R0gH2AUFVX3lxTFBYSTZWXzdURUs0MmN1eXBiX3BhOV9KYy1VbjRLbmZBS3BtVnhSdEFLV3FpNTdja01SVWtKeFQxR2Z4UVp5S1pOU3MxUTBqRzdhcHQxaUhCWFBkWUpwWE8wMWJXcGpjNUR5WGROdGVCZ080ek9qUGh3SHBJNDh0dGF1OUhFX0VoYmlhdlpLVjlkNXk0a3ZkNmRFUFg4dDh3M1RXeXp3ZWdqLTlPeHVlUUpjeDQ3WGxfVVg5YTgyVUV1ZWFONHZOaGtuYUVPTmxWUlJXbnQ4LWxDaDdtV0wyNlRNN1JvcnlUbnBaQkVjRUx2Y3JTNlQ2Zw?oc=5",
+      "pub_date": 1793354400.0,
+      "article_url": "https://www.oregonlive.com/advice/2026/10/dear-abby-bitcoin-scam-stole-half-a-million-dollars-from-our-future-but-i-still-want-my-italian-dream.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "BTC news: Binance hacker took over 18,270 bitcoin that no one can freeze",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNU9HcHVEWkNRMG5aa3JvWFMxN3V2Szd2TW1EWTJOTFhVaFJjNlNOUW5KRDRWUXI5SWdValRTWVZXWG5uckNjVnk3Slk3SkhYd01QdUhIYnJ2Q1ZSOWhERFFjX3lVbDZMbEZrY0c0dDRkUDgwaFJjMmZiVHRFV3JOX1Nhd2tsWFc5cWlKLTJQZENiYjExbTNlNVVoS0pZSEs4X3JqSmEwMFdTUExsQ2tTMlRsRUZtb1ZCWUVCUDNiSTloTGoxcWtFQi1R?oc=5",
+      "pub_date": 1793335842.0,
+      "article_url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Futures",
+      "source": "CME Group",
+      "source_url": "https://www.cmegroup.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Db1M3SWg3WG9OOU9xZ1QwTjlKUDZvSVpVektnRnFTSXFvdXBmQm5lS2h5ODFwdWl2eFlQT0hRZWR1ZUxfdzFHVXhBZUNKRl9Semw3NG55S0lrUXFXNFR4eVZwdHFtLVZxU1NZeS1Va0RZNU0?oc=5",
+      "pub_date": 1793149200.0,
+      "article_url": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/images/og-cme-group.jpg",
+      "description": "Find information for Bitcoin Overview provided by CME Group. View Overview"
+    },
+    {
+      "headline": "Current price of Bitcoin for Oct. 30, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzeGNZdTE5WVV0b1lUeEFxc3FZWDBhbmlaekhfRXBGTnZqcVBfb2N2UDFyc0xNeHJXdmN1MmdZU05aREN3d0dwM1B6X01UMFREeWkxMmF2dFRzN0s2R0NMRHVFR2RXMmM?oc=5",
+      "pub_date": 1793362957.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-30.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
       "headline": "Strategy Posts $21 Billion Bitcoin Gain. Investors Have Bigger Concerns.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FZ3hEVmFoMHlPS2FEN05BVlBYU0VZdE5Cb2t0MFpzengxb3RlZ3MyUk51NGF6bkpWYXdoZE9mZEFNWkJ5ck13ZXFsY2NPcnV1MFBWREJLS0RpVmwwNU9HbVRpcVZlUkdERXdUQVRnSjczTDJVQ01fbEswMA?oc=5",
-      "pub_date": 1793315880.0,
+      "pub_date": 1793351460.0,
       "article_url": "https://www.barrons.com/articles/strategy-earnings-stock-price-d9342d80",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "MSTR Stock: Strategy's Bitcoin Bazooka Is Back; What Now?",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVE5NmlHVU5sUm5aNEY4T08yRjloYkNGOGllYU1kVkN6Wm9UQUN5NzlxcGRLbW95YTV0UnkwOWtCS01RMHhKOUVLMFEwZENvc1ZzQXVNakNJSGVuZ09jYmp2MXVMUlVIT2lSVHZKUFdDdzltLTFEbU45YjJHY2tIVVF5SGpNZ2dPbWh5eTZHM1RiUkhORGY4Y0lTZ1JKV09nNU40eA?oc=5",
-      "pub_date": 1793305920.0,
-      "article_url": "https://www.investors.com/news/mstr-stock-strategy-strc-preferred-stock-daily-dividends-bitcoin-price/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/11/Stock-strategy-BitcoinMrkt-adobe.jpg",
-      "description": "MSTR stock earnings today are a sideshow to the main event: Strategy's preferred stock is poised to regain par value, opening the door to big bitcoin buys."
-    },
-    {
-      "headline": "Strategy's Bitcoin Per Share Falls 3.7%: Rapid Earnings Reaction",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUQyVXBqQXRwdTMxLUJfVktlbm9yaXZGMnp1dU9GTm5kMmRlWE9jdGpLa0UtTFFUN0t1N1pLZFFRczY3blZVNXcwcFZTblo1by1wWjk0YmhaWU5sVEZJWC1BWWZuMl9oR1VRdnRzZU9QRXBGdlF6Y0NfM2ZsME93V1E0RzBtZ01nVjdxZzBGMks3VTZFRkItaU1yOHRCVFU?oc=5",
-      "pub_date": 1793307909.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategys-bitcoin-per-share-falls-210509463.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2792ca43175e72401ec956475789176ce8e4e595288ccf16155694026a3b38e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ff590a608bc8d8aaf5a065f59a7198f72.jpg",
-      "description": "Strategy reported a $19.5 billion profit, but nearly all of it came from bitcoin\u2019s price, not the business. Here\u2019s why bitcoin per share is the number to watch, and why it\u2019s shrinking."
-    },
-    {
-      "headline": "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQay1iMkRwQ2VBd2M2ZXQ4Nmt6RlhzSVFfVjV2Y1BfSDhFXzdQdnBndnJaNm9WdXVQNGl3WHo2NTFzREtwQ2lOQWtNYjNJOW9yWHlfNVNQbkdRN0FueWxBQ3o1TVB2UTY4SGNheXg1WVU0Q2dFU1dhYzlDTnA0SGh0c25hdWdrekJNeFNLWHBUT3BidDY5aW5IRVJvRm9idw?oc=5",
-      "pub_date": 1793272296.0,
-      "article_url": "https://finance.yahoo.com/markets/options/articles/bitcoin-traders-brace-swings-11-005059823.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/90ed6a609b2f27497d543283aee04c8fae85c50514100cd7191c2bdc682b1621/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F918c2b64c1283e549aceb8cd5a9fc37b.jpg",
-      "description": "Bitcoin traders are bracing for potentially sharper price swings as $11 billion of options expire this week, just days before US midterm elections that could add further uncertainty to crypto markets."
-    },
-    {
-      "headline": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UanBoeTJHMGc2UkdqSVZ1Vk05T2JfYmJRcDhqeE5EbzUzcFhJVlB0TkVlRVAycE5Jb0llU2dTaFR1QXc1LS1GSmlIYlJrRE1GRE9rc09wX2lYcUtDbi13RVMyczFhcFRwNFcwVHFmRFBQbjh5WGJLS3R5aEN1bWs?oc=5",
-      "pub_date": 1793291184.0,
-      "article_url": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Franklin-Templeton-to-Acquire-CoinFund-Spinoff-for-Institutional-Crypto-Push-WSJ.jpg",
-      "description": "Franklin Templeton\u2019s two Bitcoin DRIP ETFs, FBEQ and FIBT, started trading today on the Nasdaq."
-    },
-    {
-      "headline": "AI Price Prediction: Bitcoin Is 35% Below ATH. ChatGPT AI Says When It Could Get Back to $126,000",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYXhlbmJMbnlyck9Ycjh4UVljSnVCRld5MkZzV0tEemEySTR2UTR4OTJoeUNoZnVGMUhQMWNxTFg5a3gwUjBUdTFhdEQzRG90SGI5ZWR2OG5ESEVRLWVtQVhFX0FiUHMzVUdEamhFTWN4WXhLbFZKQ2dpUHNkY2JfRXdubVJXMjJFZ1Q1b3l0NTZwYmRsUHRhdlZDWjJNSUFZZHg0QUNNM3B2aC1lVUU5ZkM4enpnTUFqTkdONWtCb2ZaNXN4MmNLUWJLcldiSDZiT3FSZFhKbTZfNmFyVmo5Mk03U0RVdw?oc=5",
-      "pub_date": 1793323740.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/29/ai-price-prediction-bitcoin-is-35-below-ath-chatgpt-ai-says-when-it-could-get-back-to-126000/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock-2174255197-huge-licensed-scaled.jpg",
-      "description": "Bitcoin is 36% below its record high. ChatGPT AI forecasts October 2027 as the likeliest month to pass $126,000. Can it make it back?"
-    },
-    {
-      "headline": "\u2018Interesting\u2019\u2014Elon Musk Sends Price Of Tiny Bitcoin Rival Soaring On \u2018Big Day For Crypto\u2019",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUFlwa25PLXRXRElpNmo0LTdGWF9LRmZPWUlyNFYtNzZ5WG1lMzJ1OXlfWThabDcxWm9pMkVHV3l6YnVnNk1JN2l3YzV4RzJMX1k1aVJxOFo5czU4LTY2cUVxYW1mT2E4S0xYQjJkRkdzYW9iWFZwT0tCZ2t1Q0l1V0hQVDlaNG8tY2ExczBRajE1OGlRLXA5SzlpU1otc3AydVhPc01KaDlCazREY2tTTk5lTVA5UERxVlY3Z1c0bER1a3lzbXJfaXd0SFVWV3REdlJNVEVnVVE?oc=5",
-      "pub_date": 1793290678.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/29/interesting-elon-musk-sends-price-of-tiny-bitcoin-rival-soaring-on-big-day-for-crypto/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin flat at $80k as hawkish Fed, hotter inflation data weigh",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTcxeWU2bm43cHl0Z3ljSWxMRWVRSldtSTdkSDcyOEsyYzloN0lMdFJoV25VWjBPNHBLWFU5V21NN2w4Ujk5WUNtTDN3eHM4dG9uS0ZzeC1DZGZNa291RHBmcEkyd1JKNk9LaS1mRkREUHVlYVJrUjBZUHpYaklRNEJ4enFpOEYtRjJOQXlnTVlncS1VSjVKQng2ZVNZSmlzbzFYNXpfZzBjRXJHUEotaVhOckRlS09aRXRRckNtYw?oc=5",
-      "pub_date": 1793285992.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-weakens-to-80k-as-hawkish-fed-mixed-tech-earnings-weigh-4981572",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Prediction: Bitcoin Will Surpass Gold in Market Cap Within the Next Decade",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGlQV1hCV3Ewd0NmZ1NmMDJ1cFNwUGJ3M1luWElnM2UtTWVkMEtyRW4tbENRamk4bkV6cFNTeXgxNWRlT29fSmNtZkltNHBZdUVEQ1NtWTZZQk5RNk1LeWdFVWx4Y1lwUnFpTW02ak1Nd0s2YWtTY053SmpwUDhDdFlhb180N1pqN1Yya3FmaF94SGV5WjJJ?oc=5",
-      "pub_date": 1793268000.0,
-      "article_url": "https://www.fool.com/investing/2026/10/29/prediction-bitcoin-will-become-less-volatile-than/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891130%2Fgold-bitcoin-pile.jpg&w=1200&op=resize",
-      "description": "Is Bitcoin really digital gold? Investors are about to find out."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-30T06:14:25.206720+00:00"
+  "fetched_at": "2026-10-30T13:20:49.143972+00:00"
 }

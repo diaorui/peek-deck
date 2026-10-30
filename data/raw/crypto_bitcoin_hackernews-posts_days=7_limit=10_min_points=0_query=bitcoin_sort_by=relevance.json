@@ -9,7 +9,7 @@
       "url": "https://stealmybitcoin.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50224916",
       "author": "cloudlandsdev",
-      "points": 623,
+      "points": 624,
       "num_comments": 450,
       "created_at": "2026-10-24T20:30:31Z",
       "object_id": "50224916",
@@ -75,6 +75,20 @@
       "site_name": "Decrypt"
     },
     {
+      "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
+      "url": "https://github.com/ZKStamp/AgentWallet",
+      "hn_url": "https://news.ycombinator.com/item?id=50301018",
+      "author": "ztextzksnarks",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-10-30T08:05:56Z",
+      "object_id": "50301018",
+      "image": "https://opengraph.githubassets.com/44533be4435be88a8656f91adb2e1ad359523ecf202b29f937a8af31bac110c3/ZKStamp/AgentWallet",
+      "description": "Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, autonomously, within safety limits. - ZKStamp/AgentWallet",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Bitcoin Puzzle Research: Methods, Research and Lessons from Negative Results [pdf]",
       "url": "https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=50265366",
@@ -131,7 +145,7 @@
       "site_name": "gizmodo.com"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-10-30T06:13:58.046858+00:00"
+  "fetched_at": "2026-10-30T13:20:20.092495+00:00"
 }
