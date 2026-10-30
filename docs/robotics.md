@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-30T18:44:48.649831+00:00'
+updated: '2026-10-30T22:48:53.129927+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 30, 2026 at 18:44 UTC  
+**Last Updated:** October 30, 2026 at 22:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ A few weeks ago we ran a live π0.5 demo at IROS, and getting there turned into 
 
 So I saw this cute little robot somewhere( 3d design credit to the original creator don't know his reference ) and thought, why not build it myself. I got the body 3D printed and started playing around with the open-source code, but honestly, it was pretty basic compared to what I had in mind for this little dude. So I ended up spending almost the next month building my own ecosystem around it. Now Yeti has 100+ emotions and behaviours, along with a gyro, microphone, LDR and touch sensors. I also added different functionalities so it can work as both a little robot and a clock, with sounds, reactions and different behaviours depending on how you interact with it. The feature I'm probably most excited about is that you can flash new firmware to Yeti directly from your phone over Bluetooth. No Arduino IDE, laptop or cable needed. I also built a companion app that lets your phone connect to Yeti automatically when you're nearby. And then I went a bit overboard. I made it possible for different Yetis to communicate with each other through their phones over the internet. So two Yetis paired with different phones can exchange messages, little scribbles, sounds and other stuff. You can even send things like a cute Happy Birthday message/sound to another Yeti. This is honestly the first time I've built something like this, so I'd really love to hear what you guys think. I'm still figuring out what Yeti should become and what else I can add to it. Would love feedback from people into robotics, ESP32, or just building random little things like this
 
-23h ago
+1d ago
 
 ---
 
@@ -84,7 +84,7 @@ https://preview.redd.it/v0jg3tlh0fyh1.png?width=1672&format=png&auto=webp&s=d341
 
 Mino's software stack is based on ROS 2. We both went to the ROS conference (ROSCon) this week to meet some of the folks that make our favorite middleware possible. I wanted Mino to come with me and interact with people at the conference, so I coded a special companion app for the event on the robot's Jetson Orin Nano. What you see in the video is the first outdoors test of the app before going to the train station on Monday. With Mino's open-source software building blocks and some help from a coding agent (Mino's code base is agent-friendly), this app was ready in a weekend. Depth estimation, person detection and tracking, pose feedback, odometry and motion control come out-of-the-box. The agent just had to glue Mino's capabilities together with the behavior logic I specified. Want to program your own apps on Mino? Subscribe on Kickstarter or to our waitlist to get notified when the Kickstarter campaign launches and catch the early-bird discounts. If the campaign succeeds, the source code of this app will ship with the robot! This is what the app does. It has three states: finding person, following person and hanging out with person. In the "finding person" state, the robot stays in place, looking around with base and head rotation until a person is detected. When that happens, the state changes to "following person", which tries to approach the person while keeping them at the center of the field of view and ignoring other people around. When close enough to the person, the state changes to "hanging out", which stays in place and keeps eye contact with the person. If they move away beyond a threshold, the state goes back to "following person" or, if the person is no longer found, to "finding person". The robot perceives each person's position and speed in 3D. A tuned YOLO-World detects people fully or partially inside the field of view of the cameras (the eyes). People detected with enough confidence get their 3D bounding boxes estimated by back-projecting their 2D counterparts to 3D space with the depth image from the stereo pair. They are then tracked across frames based on bounding box overlap and appearance similarity. Appearance is modeled with the embeddings from a classifier on each person's crop, and tracks are smoothed with a Kalman filter. Once the robot sees its buddy, it keeps re-calculating trajectories to steer its base and head to the target pose. The trajectories are followed by periodically sending head pose and base velocity commands to our custom hardware at the base. That hardware estimates the full-body pose and runs several control loops to achieve what's commanded from the Jetson. All that at high frequency and bounded latency. What would you create with Mino? Let me know in the comments 🙏
 
-23h ago
+1d ago
 
 ---
 
@@ -124,25 +124,11 @@ Google Cloud • 3d ago
 
 ---
 
-**[Foundry Robotics Raises $100 Million Series A to Build America’s First Autonomous Factory for Assembly](https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly)**
-
-Business Wire • 2d ago
-
----
-
 **[​Factory robot maker opens Madison Heights HQ to get closer to Detroit automakers​](https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/)**
 
 Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
 
-Crain's Detroit • 8h ago
-
----
-
-**[Inside giant homebuilder D.R. Horton’s bet on robotic homebuilding](https://www.fastcompany.com/91632538/homebuilding-dr-horton-inside-giant-homebuilder-bet-on-robotics)**
-
-On a typical jobsite, framing crews build walls by hand. America’s largest homebuilder is teaming up with Promise Robotics to move some of that work into a factory, where robots do the framing.
-
-Fast Company • 21h ago
+Crain's Detroit • 13h ago
 
 ---
 
@@ -152,31 +138,33 @@ SpaceNews • 1d ago
 
 ---
 
-**[Germany and Ukraine test armed ground robot for frontline deployment](https://www.euronews.com/2026/10/29/germany-and-ukraine-test-armed-ground-robot-for-frontline-deployment)**
-
-Remote-controlled and heading for the front lines. ARX Robotics and the Ukrainian company ROBONEERS report completion of the first major system tests. #EuropeNews
-
-Euronews • 23h ago
-
----
-
 **[The Woman Breathing Life Into Next Generation Home-Help Robots](https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 23h ago
 
 ---
 
-**[Spacewalk Preps, Robotics Jobs, and Science Duties Fill Tuesday Schedule](https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/)**
+**[A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It](https://rocketlabcorp.com/updates/a-robotic-arm-that-can-walk-across-spacecraft-rocket-lab-built-it/)**
 
-Spacewalking tools and a pair of robotics jobs topped Tuesday’s schedule aboard the International Space Station. The Expedition 75 crew members also kept up their scientific duties configuring botany research hardware and setting up advanced Earth observation gear.
+Future space missions could soon get a big leg up — or arm, rather — thanks to robotics developed by Rocket Lab in collaboration with NASA.
 
-NASA (.gov) • 2d ago
+Rocket Lab • 22h ago
 
 ---
 
-**[Trump says imported robotics pose national security risks but does not impose tariffs](https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/)**
+**[US Army Tests Robots that Hunt Enemy Targets: 'We Showed What's Possible'](https://www.military.com/us-army-tests-robots-that-hunt-enemy-targets-we-showed-whats-possible)**
 
-Reuters • 1d ago
+The service tested four robotic vehicles during a military demonstration at Fort Knox in October.
+
+Military.com • 13h ago
+
+---
+
+**[Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck](https://spectrum.ieee.org/video-friday-whole-body-manipulation)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 6h ago
 
 ---
 
@@ -184,7 +172,23 @@ Reuters • 1d ago
 
 Business combination expected to close on November 4, 2026, subject to Churchill XI shareholder approval; the combined company expected to begin trading on Nasdaq under ticker symbol “AGLT” on November 5, 2026. Agility is expected to be the only U.S. publicly listed pure-play humanoid robotics company with proven, active commercial deployments. SALEM, Ore. and NEW YORK, Oct. 30, 2026 (GLOBE NEWSWIRE) -- Agility Robotics, a leading humanoid robotics and physical AI company, and Churchill Capital
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[The Humanoid Robot Market Could Be Worth More Than $7 Trillion. Here Are 3 Stocks to Own.](https://www.fool.com/investing/2026/10/29/the-humanoid-robot-market-could-be-worth-more-than/)**
+
+The industry is still in its infancy, but it's becoming clear which names are best positioned to lead it to full viability.
+
+The Motley Fool • 21h ago
+
+---
+
+**['It’s pretty awesome': Korah robotics team is number one in the world](https://www.sootoday.com/inspire/its-pretty-awesome-korah-robotics-team-is-number-one-in-the-world-12957271)**
+
+Another Korah team currently sits at second in Canada and 14th in the world
+
+SooToday.com • 11h ago
 
 ---
 
@@ -192,23 +196,33 @@ Yahoo Finance • 7h ago
 
 ## YouTube Videos: "robotics"
 
-**[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
-
-Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
-
-📺 VisionX Lab
-
-👁️ 812K • 👍 23K • 💬 837 • ⏱️ 0:59 • 5d ago
-
----
-
 **[This Cute Robot Has TWO NVIDIA Computers Inside 🤯#nvidia #robot](https://www.youtube.com/watch?v=EaWBrZ4qL2M)**
 
 Meet Blue — this little robot is showing off some seriously impressive technology! NVIDIA's CEO demonstrates real-time ...
 
 📺 VisionX Lab
 
-👁️ 146K • 👍 4K • 💬 218 • ⏱️ 0:58 • 2d ago
+👁️ 154K • 👍 4K • 💬 224 • ⏱️ 0:58 • 2d ago
+
+---
+
+**[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
+
+Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
+
+📺 VisionX Lab
+
+👁️ 853K • 👍 24K • 💬 869 • ⏱️ 0:59 • 5d ago
+
+---
+
+**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
+
+Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
+
+📺 VisionX Lab
+
+👁️ 309K • 👍 4K • 💬 382 • ⏱️ 0:11 • 5d ago
 
 ---
 
@@ -222,43 +236,23 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai
 
 ---
 
-**[Robot Dog Entered the Lion&#39;s Territory... Big Mistake?!](https://www.youtube.com/watch?v=eZQo7KqJy8c)**
-
-What happens when a robot dog walks into the world of lions? In today's episode of Wild Clash, the mightiest and most curious ...
-
-📺 Wild Clash
-
-👁️ 1.2M • 👍 9K • 💬 638 • ⏱️ 8:40 • 6d ago
-
----
-
 **[Tesla Leaked Optimus 3 At Earnings Call | It&#39;s As Good As They Say](https://www.youtube.com/watch?v=gS1iOU_JnkA)**
 
 Tesla has started production of Optimus on a line in Fremont, and on their third quarter earnings call Elon Musk said "there is no ...
 
 📺 Ryan Shaw
 
-👁️ 127K • 👍 2K • 💬 180 • ⏱️ 37:43 • 6d ago
+👁️ 128K • 👍 2K • 💬 182 • ⏱️ 37:43 • 6d ago
 
 ---
 
-**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
+**[Robot Dog Entered the Lion&#39;s Territory... Big Mistake?!](https://www.youtube.com/watch?v=eZQo7KqJy8c)**
 
-Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
+What happens when a robot dog walks into the world of lions? In today's episode of Wild Clash, the mightiest and most curious ...
 
-📺 VisionX Lab
+📺 Wild Clash
 
-👁️ 306K • 👍 4K • 💬 373 • ⏱️ 0:11 • 4d ago
-
----
-
-**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
-
-OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
-
-📺 MACHINEKIND
-
-👁️ 39K • 👍 551 • 💬 46 • ⏱️ 13:33 • 2d ago
+👁️ 1.2M • 👍 9K • 💬 639 • ⏱️ 8:40 • 6d ago
 
 ---
 
@@ -272,21 +266,31 @@ Unitree just dropped the H2X AI robot, and its terrifying strength is shocking t
 
 ---
 
+**[Meet Unitree’s latest security robot: martial arts skills &amp; car-lifting strength](https://www.youtube.com/watch?v=Vez_mlGo7gE)**
+
+📺 ShanghaiEye魔都眼
+
+👁️ 113K • 👍 739 • 💬 337 • ⏱️ 1:01 • 6d ago
+
+---
+
 **[Toyota&#39;s Walk Me: The chair that swaps wheels for robotic legs](https://www.youtube.com/watch?v=1ZD1w9FYABI)**
 
 Toyota's Walk Me, a four-legged mobility chair designed to climb stairs and help riders into cars, has won the Red Dot: Luminary ...
 
 📺 Interesting Engineering Explains
 
-👁️ 161K • 👍 3K • 💬 319 • ⏱️ 1:22 • 5d ago
+👁️ 164K • 👍 3K • 💬 321 • ⏱️ 1:22 • 6d ago
 
 ---
 
-**[Meet Unitree’s latest security robot: martial arts skills &amp; car-lifting strength](https://www.youtube.com/watch?v=Vez_mlGo7gE)**
+**[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
 
-📺 ShanghaiEye魔都眼
+Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
 
-👁️ 112K • 👍 739 • 💬 337 • ⏱️ 1:01 • 6d ago
+📺 Jordan Blake
+
+👁️ 26K • 👍 826 • 💬 6 • ⏱️ 1:00 • 1d ago
 
 ---
 
