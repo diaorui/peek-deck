@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-30T06:14:31.813221+00:00'
+updated: '2026-10-30T13:20:54.027567+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 30, 2026 at 06:14 UTC  
+**Last Updated:** October 30, 2026 at 13:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,239.73
+### $2,242.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -4.8%  
-**30d:** -17.0%  
-**90d:** +19.2%  
-**1y:** -41.7%  
+**24h:** -4.9%  
+**7d:** -5.5%  
+**30d:** -17.6%  
+**90d:** +18.4%  
+**1y:** -42.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $273.85B
+**Market Cap:** $272.10B
 Rank #2
 
-**Circulating Supply:** 122,174,498 ETH
+**Circulating Supply:** 122,174,495 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.7%
+-55.0%
 
 **All-Time Low:** $0.43
-+517511.7%
++514356.8%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did I just do?", I end up explaining internal txns, token transfers, method IDs and why there's WETH in there. Etherscan is great if you know what you're looking at. For everyone else it's a wall of hex. So I built Simplorer. You open a transaction or an address and it tells you in one sentence what happened. Same swap, two views: Etherscan: https://etherscan.io/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer: https://simplorer.app/ethereum/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer says "0xc850…87b7 swapped 0.72 ETH for 1,378.06 USDT on Relay". Below that you see who sent and got what (part of it went through Uniswap) and the fee in ETH and dollars. A few things it does: - names the apps people actually use, a few hundred of them (Uniswap, Aave, Lido, 1inch, Curve, Pendle, OpenSea...) - approvals in plain words, like "allowed Uniswap to move any amount of its USDC", with a note on what that means and how to take it back - Safes and smart accounts show up as the account that acted, not as some contract call - bridges show where the coins went on the other side (Across, Stargate, LayerZero, CCTP) - fake tokens copying a real ticker and address poisoning transfers get a warning Most transactions from normal wallets come out as one clean sentence. If it can't name something it says "an app we don't know yet" instead of guessing. Data comes from Blockscout and a public node. No account, no ads. It's still in beta and I'm sure some transactions read weird. If you find one, send it to me. That's honestly the most useful feedback I can get.
 
-3d ago
+4d ago
 
 ---
 
@@ -128,7 +128,7 @@ Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decouple
 
 This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!
 
-6d ago
+7d ago
 
 ---
 
@@ -152,9 +152,17 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards](https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards)**
+**[Current price of Ethereum for MM-DD-YYYY](https://fortune.com/article/price-of-ethereum-10-30-2026/)**
 
-CoinDesk • 1d ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 43m ago
+
+---
+
+**[Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)**
+
+CoinDesk • 1h ago
 
 ---
 
@@ -162,15 +170,7 @@ CoinDesk • 1d ago
 
 XRP CRYPTO:XRPUSD, Ethereum CRYPTO:ETHUSD, Solana CRYPTO:SOLUSD, and BNB CRYPTO:BNBUSD remain four of the five top altcoins in the market, according to prominent cryptocurrency analyst CryptosRUs.Why XRP, Ethereum, BNB and Hyperliquid Made the ListGeorge, as the analyst goes by his real name, told…
 
-TradingView • 15h ago
-
----
-
-**[Current price of Ethereum for October 29, 2026](https://fortune.com/article/price-of-ethereum-10-29-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 14h ago
+TradingView • 22h ago
 
 ---
 
@@ -178,7 +178,13 @@ Fortune • 14h ago
 
 Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents.
 
-CryptoSlate • 5h ago
+CryptoSlate • 12h ago
+
+---
+
+**[Crypto Signals and Analysis(@traderboos)'s insights](https://www.binance.com/en/square/post/382622352243219)**
+
+Binance • 17h ago
 
 ---
 
@@ -186,13 +192,7 @@ CryptoSlate • 5h ago
 
 MONACO, Oct.  29, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after Coinstore became its fifth CEX partner. The exchan...
 
-markets.businessinsider.com • 4h ago
-
----
-
-**[Crypto Signals and Analysis(@traderboos)'s insights](https://www.binance.com/en/square/post/382622352243219)**
-
-Binance • 10h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -200,31 +200,31 @@ Binance • 10h ago
 
 Uniswap handled $5.97 billion on Oct. 29 UTC, more than triple its preceding seven-day median, with Ethereum carrying most of the increase.
 
-The Defiant • 5h ago
+The Defiant • 6h ago
 
 ---
 
-**[Ethereum: Inverse Head and Shoulders Pattern Forming](https://blockchain.news/flashnews/ethereum-inverse-head-shoulders-pattern-forming)**
+**[Ethereum: Below Support Risks S/R Flip](https://blockchain.news/flashnews/ethereum-below-support-risks-s-r-flip)**
 
-@TATrader_Alan notes that Ethereum has carved out a large inverse head and shoulders on the 3-day chart since the start of the year, with the right shoulder...
+CrypNuevo flags Ethereum trading beneath prior strong support on the 4h chart, where consolidation would confirm an S/R flip and open a fresh leg lower.
 
-Blockchain News • 1d ago
-
----
-
-**[Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets](https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum)**
-
-Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.
-
-Decrypt • 7h ago
+blockchain.news • 8h ago
 
 ---
 
-**[Stellar climbs to second place in active developers, behind only Ethereum](https://cryptobriefing.com/stellar-ranks-second-active-developers/)**
+**[US Crypto ETFs Record $116 Million in Net Outflows as Ethereum Withdrawals Hit $105.5 Million](https://financefeeds.com/us-crypto-etfs-record-116-million-in-net-outflows-as-ethereum-withdrawals-hit-105-5-million/)**
 
-Stellar hit 3,922 monthly active developers in Q3 2026, ranking second behind Ethereum as stablecoin volume reached $25.1 billion.
+US spot crypto ETFs posted $116M in net outflows on Oct 29 as Ethereum funds lost $105.5M and Solana $27.7M, while Bitcoin ETFs added $17.2M.
 
-Crypto Briefing • 13h ago
+FinanceFeeds • 4h ago
+
+---
+
+**[Binance Says User Funds Are ‘Completely Safe’ After $3.5 Billion Drains From Its Hot Wallets](https://unchainedcrypto.com/binance-says-user-funds-are-completely-safe-after-3-5-billion-drains-from-its-hot-wallets/)**
+
+Binance says "user funds are completely safe" as Unchained's own count shows about $3.5 billion left wallets Etherscan labels as Binance's, on Ethereum alone.
+
+unchainedcrypto.com • 14h ago
 
 ---
 
@@ -238,7 +238,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 2K • 💬 84 • ⏱️ 9:45 • 1d ago
+👁️ 68K • 👍 2K • 💬 84 • ⏱️ 9:45 • 1d ago
+
+---
+
+**[Binance Got HACKED for $6.3B.. Ethereum Breaks Down!!](https://www.youtube.com/watch?v=3xcop_0O9E0)**
+
+WEEX - where my trade is placed (up to $10000+ in sign-up rewards) https://marzell.org/wx-v103 CoinGPT - the AI Trade ...
+
+📺 Marzell Crypto
+
+👁️ 97 • 👍 10 • 💬 2 • ⏱️ 3:28 • 3h ago
 
 ---
 
@@ -248,7 +258,7 @@ Get the complete market edge with DataDash Pro — combining Nick's Dash Report 
 
 📺 DataDash
 
-👁️ 4K • 👍 149 • 💬 15 • ⏱️ 13:32 • 14h ago
+👁️ 5K • 👍 155 • 💬 16 • ⏱️ 13:32 • 21h ago
 
 ---
 
@@ -258,7 +268,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 79 • 💬 2 • ⏱️ 7:47 • 4h ago
+👁️ 7K • 👍 119 • 💬 8 • ⏱️ 7:47 • 12h ago
 
 ---
 
@@ -268,7 +278,7 @@ Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators Fo
 
 📺 Trade Confident
 
-👁️ 451 • 👍 7 • 💬 17 • ⏱️ 3:53 • 12h ago
+👁️ 546 • 👍 7 • 💬 17 • ⏱️ 3:53 • 19h ago
 
 ---
 
@@ -278,17 +288,17 @@ Im shocked that more people even over the last few years of being in the cryptoc
 
 📺 The Modern Investor
 
-👁️ 11K • 👍 706 • 💬 202 • ⏱️ 30:56 • 19h ago
+👁️ 12K • 👍 726 • 💬 199 • ⏱️ 30:56 • 1d ago
 
 ---
 
-**[ETH False](https://www.youtube.com/watch?v=_HlQGMcQWhA)**
+**[CRUCIAL ETH BUY AREA NOW!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=wlhR_DFKzTo)**
 
-Lecture 18 in Ryan O'Donnell's Graduate Computational Complexity course at Carnegie Mellon University.
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
 
-📺 Ryan O'Donnell
+📺 Cilinix Crypto
 
-👁️ 24K • 👍 433 • 💬 44 • ⏱️ 1:19:45 • 14h ago
+👁️ 169 • 👍 10 • 💬 1 • ⏱️ 4:48 • 3h ago
 
 ---
 
@@ -298,7 +308,17 @@ Is Ethereum undervalued or falling behind? OpenAI's “ETH is false” announcem
 
 📺 Altcoin Buzz
 
-👁️ 4K • 👍 59 • 💬 4 • ⏱️ 9:20 • 1d ago
+👁️ 4K • 👍 59 • 💬 6 • ⏱️ 9:20 • 1d ago
+
+---
+
+**[ETH False](https://www.youtube.com/watch?v=_HlQGMcQWhA)**
+
+Lecture 18 in Ryan O'Donnell's Graduate Computational Complexity course at Carnegie Mellon University.
+
+📺 Ryan O'Donnell
+
+👁️ 34K • 👍 516 • 💬 52 • ⏱️ 1:19:45 • 21h ago
 
 ---
 
@@ -308,27 +328,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 204 • 💬 7 • ⏱️ 7:46 • 1d ago
-
----
-
-**[⚠️ Ethereum ETFs Still Selling - ETH Crypto Analysis](https://www.youtube.com/watch?v=QCptec2hKQ0)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/YoSqOeje My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 3K • 👍 42 • 💬 19 • ⏱️ 10:06 • 1d ago
-
----
-
-**[JPMorgan Just Went LIVE On Ethereum… And It’s NOT A Stablecoin. So What Is JPM Coin?](https://www.youtube.com/watch?v=iU1Lx_3i8UQ)**
-
-Get Your Free Crypto Portfolio Review: https://join.altcoinpro.com/11af91e4 Get Our Top Altcoin Picks Early: ...
-
-📺 BULLRUNNERS
-
-👁️ 4K • 👍 52 • 💬 25 • ⏱️ 15:18 • 2d ago
+👁️ 9K • 👍 203 • 💬 7 • ⏱️ 7:46 • 1d ago
 
 ---
 
