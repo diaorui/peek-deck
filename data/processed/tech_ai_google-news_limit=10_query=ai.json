@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Value of Google parent Alphabet plunges by $500bn as AI fears rattle Wall Street",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
+      "pub_date": 1793312272.0,
+      "article_url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
+    },
+    {
       "headline": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -15,82 +25,62 @@
       "description": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business."
     },
     {
-      "headline": "Alphabet shares record their worst day ever, shedding $500 billion in value",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMndTLS04T1FTZGdERGZVOVpOcThYTkNlT0FHUnp4TF9lVU52SDlfYlY3VzZubGxkcDdwWDQxbUlpcDUzUjN1RF9qRXBfbzlTaEsydXlNMnpIRjJldVpOdWdVdVBUZ2c5aVRZS094c01NZk9aZGVUcl9WZlhzdG4yNHRCVEpfajlTX3NYVmlpdzRPQQ?oc=5",
-      "pub_date": 1793306012.0,
-      "article_url": "https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250905-google-se-314p-22bbd0.jpg",
-      "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
+      "headline": "Is AI Killing Google's Golden Goose?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVRSXhpZHNadnJjczFKZDQ3M3c3bTZJV1JUdTFrbGZ2SENEaUlrSkRCYVNCQzlGWVZQME1HcXlteTBPLS1WaDAyM0V1dUl6ZExYRklIQURaODlrb3NBczFLd3hhVDVKeG9reEZaekp3N0hTX05xSDJtNjRQX01KOS11bDVVaXJMbzBwNjI3bWN2N1VOemkwdmZhdno?oc=5",
+      "pub_date": 1793331300.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/ai-killing-googles-golden-goose-033502378.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3b198003ccbf534bb27601cf5687edd6c0e0e216d3f1e888a023de957ae5ca52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F7d0431986e948b3a5cc5133181377fb3.jpg",
+      "description": "Alphabet's search growth is slowing. Does it portend more trouble ahead?"
     },
     {
-      "headline": "Jim Cramer says Microsoft is winning the AI spending battle \u2014 and Alphabet is paying the price",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tMW1oVy1WYzJES3ppQW01WEUwazM4WW52cXVhMGIzUHR5Nlk5QURFUTEybW1jRVZpWmI4QlRVUnVGZ1BacTBOZUdrYUFyR2o4eG5SM2tTNXV5dW9WLVdHcC01WVFLRnpoMFEyUC1sbTZPdG5rNVlQWVVzdm5mVjA?oc=5",
-      "pub_date": 1793311930.0,
-      "article_url": "https://www.cnbc.com/2026/10/29/cramer-microsoft-alphabet-ai-spending.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
-      "description": "Cramer called Microsoft a buy after strong earnings, while remaining more cautious on Alphabet."
+      "headline": "Gemini 4 Carbon: our next frontier model",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5",
+      "pub_date": 1793207336.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+      "description": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities."
     },
     {
-      "headline": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUZwci12S2x3U1g0M19pWWl1RjY0clg0MFhoQVc0Z3ZkQXFfaWZFZE5IV0pqd0xoV3J3R0VSWnk0OTlJeGdBNWVTc1JyZ3JHcWw1WXZQSkF3b2ZEUVptQ00tZnFVWnJrOXE3djNfc2F3THJtQnNuX3VmVXNYVGtPM3R2T29Ja0Ytc2JkYw?oc=5",
-      "pub_date": 1793270700.0,
-      "article_url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
-      "image": "https://media.wired.com/photos/6ae293587359ba945850d8f8/191:100/w_1280,c_limit/science_math_ai_breakthrough_research.jpg",
-      "description": "Anthropic and OpenAI say they\u2019ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like \u201coverexcited bunnies\u201d as they look at new questions to explore."
+      "headline": "Why isn\u2019t China\u2019s AI and tech boom saving its stock markets?",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YdU1UN0YxR2F6VEtwY2NvTzBRZFNWa2U1Z2NDUkxQclRHX2NkVzZ2MExucGI5QmZuMk5ZLU0tTGNrNFoyVTFDREhDMzFYWU8wbFdfcjhUdHFYeE4xeTJkOVowRHBsTGxiTXhUMHBjaHZVTDQwZjVYQ1ozaw?oc=5",
+      "pub_date": 1793336720.0,
+      "article_url": "https://www.cnn.com/2026/10/30/markets/china-ai-stocks-selloff-intl-hnk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295105053.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The global artificial intelligence boom that has helped sustain Chinese economic momentum this year still can\u2019t offset its domestic woes, particularly in its stock market."
     },
     {
-      "headline": "Amazon sinks as AI spending eclipses fastest cloud growth in five years",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
-      "pub_date": 1793315583.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/",
+      "headline": "Spotify aims to launch AI music remix service early next year",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGpPeGh3OTBZNWVib0M5MDdfRmg1eE9ndzJkVlhyendQN0hMREt6OUs1SXFrNUZfNEtsMVlxcndrS3BFdG1neUhPdi1Fd3hseDlJN0R4S0xPbmVyakVJZ0pHQXRDX2lEejBPUW9kblBjNzQ2NTNkTGlYSngxcUpDQllYRkc?oc=5",
+      "pub_date": 1793336421.0,
+      "article_url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b?syn-25a6b1a6=1",
       "image": null,
       "description": null
     },
     {
-      "headline": "Amazon Spending Soars Amid Slowing Growth of Online Business",
+      "headline": "Why the Internet Feels So Broken",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVVjYXpCMDllTnNYR3c2aHZCNDc5ck5QSHh2VEUxMUo1RVNKYVlNemFiTWFzQjZST0FlSnFCZUxlMl9xWkhOLUFPYjBwdzlGdnBhNUdnWnpOMmUzMVhHSVQ2X2N6dzdPNjYzTlV0U0RTb0hOT3J5cFFuUTk5b1Uzamh6aGhBWmtuY2JEdkFDNkN5cWZYY0EyRUZ1YU9FQTd1VkUxcl9qTXZvdFVJQnVYQTR4WQ?oc=5",
-      "pub_date": 1793314620.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRmYxdFRFcTRaQk5RaUpXZjdiZnV2SzZMNFBKY0xBejRXMkxwMTdTbGNsVGo3TFI4WGdUTFhGbVFLZnRJLTBDQWd3VmlCU3FyUVJGQ19ERmJOWFVOeTUzQnFfVmdDVG5qdXQ2bDkwTmxubHRRVloyYldKcms1N2luWWxwek9NVUNmSzdoeTBpWnlIRW9YaGktOWtfSW51QVR1WFRF?oc=5",
+      "pub_date": 1793334600.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-30/how-ai-could-make-the-internet-worse-for-consumers",
       "image": null,
       "description": null
     },
     {
-      "headline": "Amazon Puts a Million Robots Behind Its AI Ambitions",
-      "source": "PYMNTS.com",
-      "source_url": "https://www.pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOEhENDVRWWlGaXdyQV9tRDlSTks1dWJZenZCb1RPQ2tzMS1DRF9YbloxNm5XcG1LbnF3eGtrb3pTRUtfRTFRSm9HaUFPVFhraURUU1c5V1VKT0ZyYTNuN1IxWFFqWEY0Z0RIQVFkbWtVNUhla3NZeU9OeFkzbmE0aF85MlV3Yzg4elNvVzA4Nlp6SkFy?oc=5",
-      "pub_date": 1793317050.0,
-      "article_url": "https://www.pymnts.com/earnings/2026/amazon-puts-a-million-robots-behind-its-ai-ambitions/",
-      "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB3-Amazon-earnings-robots.jpg",
-      "description": "Amazon\u2019s third-quarter earnings brought the same concern that shadowed Alphabet\u2019s results a day earlier: whether enormous artificial intelligence"
-    },
-    {
-      "headline": "What to consider if a company that made AI-related job cuts wants you back",
-      "source": "KSL News",
-      "source_url": "https://www.ksl.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVHFZSjVYN3dXa20zaWItV3R0WGI0SFNmeHI5T3pmWExRYzZ2d09kR0VlWEdOeGwzcWMzUUZqc2ktYnlCSGd3ZEVHU0dxOTZiZHBITzRKb0dNR09yckdQeFdtRW1nUzJDcW1qbjkwa2JVd1FyUHZ4NlJ4QkI4NThMNTU3bm5TaDBlYjNMTV9MZjJuT1Y2RHpxTEd6Uk9zcHlmRlRLSVVteHgxaGtucUc2OQ?oc=5",
-      "pub_date": 1793316991.0,
-      "article_url": "https://www.ksl.com/article/51642356/what-to-consider-if-a-company-that-made-ai-related-job-cuts-wants-you-back",
-      "image": "https://img.ksl.com/slc/3207/320737/32073770.jpg?filter=kslv2/responsive_story_lg",
-      "description": "Companies around the world are increasingly citing artificial intelligence when slashing jobs, fueling anxiety that a lot more workers may lose their livelihoods to machines."
-    },
-    {
-      "headline": "Invasion of the Sexy A.I. Joke Thieves",
+      "headline": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpTDJOUnI5clJaUGZhLUNGUjdZTUxFbXRfR0FvUXdoejhtcER6Unc2SG1LYWlVLW9YNmN0OEgxUF9oVGhIdEJSXzRFSFFrenFPdzRLeWFVb09RT2hMNmg3RlR0ZXotSExGYWV6Zk9WdUw4UEl5RmFUc25ydjI5Y0k?oc=5",
-      "pub_date": 1793264782.0,
-      "article_url": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3JHd09CYUlpY2ZZbFRmUGtEcXdmZWIzRUppSExxdGhkamFzWDBWTUR2RDJGNEhEOU90dXY0YnEyZDdyVDVKMmNLZm9NRlRNR2VyUUR2dTJtVEItbkxZMkwtZTN5Q3B1cEZQTDN1TnlCQjQ?oc=5",
+      "pub_date": 1793308660.0,
+      "article_url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
       "image": null,
       "description": null
     },
@@ -99,12 +89,22 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BNHJVVl9KV3p1NXVpaXo1UndlYk9hSFRSYjJTMHF0QndzQVFDR1dVRlV1QXA4OTZCWkZDZGNBNnQ2QWFrVzRhc3lpeHpvQWlUR001aGdzRFBBbDJlYVNkVTMzb3FpX0YxTWYyOHRzSXJtZDg5Tm5vbg?oc=5",
-      "pub_date": 1793304499.0,
+      "pub_date": 1793306271.0,
       "article_url": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Reddit puts logged in experience first as Google AI hits traffic",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0Iwc2FJaWJ3bFdiRm1XamdXdmlIeTY5cHNmalZUQUxDQ2JPQ3hnV1JNMG9JSFU4SVdXakxSaWRrVV83anVKNDJET194MW1IMVdFZERZUHc0M1Awek5VcTJ4RDVHTkU1OEVtbDlQc3gwSXI5dEFkQ1A3cFBVZkx0NE9YblRBN2JaM0NkR2gxRkR6UEFYdlNpTmJiLTZtek5YUG5id2VfN3JqdGdiN3FUX1c0eXB2clpJYXdLVw?oc=5",
+      "pub_date": 1793317313.0,
+      "article_url": "https://www.reuters.com/technology/reddit-posts-search-traffic-declines-will-push-visitor-sign-ins-curb-data-2026-10-29/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-30T00:09:01.707062+00:00"
+  "fetched_at": "2026-10-30T06:14:30.169587+00:00"
 }
