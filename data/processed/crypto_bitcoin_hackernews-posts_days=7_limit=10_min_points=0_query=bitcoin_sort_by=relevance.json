@@ -47,6 +47,20 @@
       "site_name": "gizmodo.com"
     },
     {
+      "title": "Bitcoin Core discloses TCP out-of-memory vulnerability",
+      "url": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/",
+      "hn_url": "https://news.ycombinator.com/item?id=50316251",
+      "author": "torutofu",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-10-31T13:57:44Z",
+      "object_id": "50316251",
+      "image": "https://bitcoincore.org/assets/images/default-thumb.png",
+      "description": "CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems",
+      "favicon": "https://bitcoincore.org/assets/images/favicon.ico",
+      "site_name": "Bitcoin Core"
+    },
+    {
       "title": "The People Who Still Love Bitcoin",
       "url": "https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html",
       "hn_url": "https://news.ycombinator.com/item?id=50259823",
@@ -87,20 +101,6 @@
       "description": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
       "favicon": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-96x96.png",
       "site_name": "Decrypt"
-    },
-    {
-      "title": "Bitcoin Core discloses TCP out-of-memory vulnerability",
-      "url": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/",
-      "hn_url": "https://news.ycombinator.com/item?id=50316251",
-      "author": "torutofu",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-10-31T13:57:44Z",
-      "object_id": "50316251",
-      "image": "https://bitcoincore.org/assets/images/default-thumb.png",
-      "description": "CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems",
-      "favicon": "https://bitcoincore.org/assets/images/favicon.ico",
-      "site_name": "Bitcoin Core"
     },
     {
       "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
@@ -145,7 +145,7 @@
       "site_name": "BtcForecaster"
     }
   ],
-  "total_hits": 14,
+  "total_hits": 15,
   "has_metadata": true,
-  "fetched_at": "2026-10-31T15:06:33.252000+00:00"
+  "fetched_at": "2026-10-31T19:27:23.412838+00:00"
 }

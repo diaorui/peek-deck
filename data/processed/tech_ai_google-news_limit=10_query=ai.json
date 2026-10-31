@@ -5,84 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "In San Francisco\u2019s A.I. Boom, a First Date Has Become an Interview",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGVSMFZpNnEzZEFzNmN2NWptMnZMaW9UazBTWDBLcVJyVWpjR0ZDU04zdTZNM2Q4NHNoYi1iMkNfclBWY0lXb1RfNXYtUkIwOEhBQWQ5SlE5MVB4czZoa1c2akY2dXB1Zi1iRFVWV0kyZTFUVXc5cFFZR29xcmdWY0NWZ1QyUQ?oc=5",
+      "pub_date": 1793437254.0,
+      "article_url": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMW93U1lTNkU0LUN0VDZjWEZXZ1h6eTRpTTRzLWQxSXUxUWJ0eUUwYkM1X2dEMlFsRTl3Z0tQeWpGQkxqMVF1eHgtNE1SZUR4RW9JYkoxVnlYbG93WTJUaGRmTDctUEl0WjlRNlVGUG10NE1xRmtaOVhYcTBhV1dRd3lLT0EwTmhoZFZsS3VkNmtOMmVpWVVkRjFWVng3QlE?oc=5",
-      "pub_date": 1793434260.0,
+      "pub_date": 1793463600.0,
       "article_url": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
       "image": "https://i.guim.co.uk/img/media/2d96ff893b43e6d48d9bdbb100b32e39e4f77ecc/0_0_5187_4150/master/5187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=cceec58f1340ae2d0efeae322aec4f3f",
       "description": "Each new tech product is designed to make our lives easier and keep us mindlessly entertained. Switch off: embrace discomfort \u2013 and boredom, says psychologist Carly Dober"
     },
     {
-      "headline": "Is this the first clear evidence of AI\u2019s impact on the labour market?",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2tua2N2em9IbjlkVHVMaHU4OG5aMmdUbktsenRyN2RNVUo1dHduaU45Z2o0ek5BRXZBUllMLVVjWTQxR1RwcWNXeWFIRG5rRGpOWGtjR09VS2dxVXJnX1U2M3FQVVk2Tm9nc0FBMFA5T3NLM0FNbzV6em1GdGdWWmo3NV8?oc=5",
-      "pub_date": 1793422933.0,
-      "article_url": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+      "headline": "FOX Nation\u2019s AI Houdini Shows How Documentary Veterans Kept AI Honest",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVRYTy1iUVo1UHZoa3BYZWcyQUtJenltUHJySXpvdlRlaEFZMEFTV1VFSDFuVmRzN1pNWXVFTXBzS3ltczlQQjR4aUZOQ2w5WUxRMkxtSUUzZVhBSUsyeXdGaVpGbi1oYWd3S0VfbU85MFpTekpFbHF4S193VEhIZGlaQ0xPek85ZWdWdmdSQ0s5QlJKRDdWUnZwaVIwWWZIX24zdEVoSDhsM1pxNVZVaHRBQ3F3Y2ZMdlJvOUh3?oc=5",
+      "pub_date": 1793470283.0,
+      "article_url": "https://www.forbes.com/sites/maureenkerr/2026/10/31/fox-nations-ai-houdini-shows-how-documentary-veterans-kept-ai-honest/",
       "image": null,
       "description": null
     },
     {
-      "headline": "A computer science grad called the job market a 'bloodbath.' Now she has good news.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUtfUzhqa3hTSUZ0WVB1bHI1T2I1UXBhTzUta1lZZldSa05fYkw5bEJMQl9fbXZ6N1BhTXBISEhlUnF2WmpzRWs2SllmRm5xZEwwak5mbGE4MW5acVBEOGUyZExtVS1pY0FwV1dYRXItaVJPN25sZWJKYTBKbmx0ZE9zSUVnNE9nbEo0VWhDZHVyRElqVGdGdEhkYzgtSFI1LTUtb3dvQQ?oc=5",
-      "pub_date": 1793455292.0,
-      "article_url": "https://www.businessinsider.com/computer-science-graduate-job-ai-robots-hiring-kiran-maya-sheikh-2026-10",
-      "image": "https://i.insider.com/6ae4ffc2f3bee449b3d29d2d?width=1200&format=jpeg",
-      "description": "A computer science graduate's job search offers a hopeful lesson about AI, automation, and the future of work."
+      "headline": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
+      "source": "Phys.org",
+      "source_url": "https://phys.org",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zN2Fxb3pVRXg3cm5ERmwxYXU0MXdWb294eDdZSnFpX2NYOXA5cW1vYU1iWkcwOEYwUUdOcURXX1JNVms0MXF0Q3ZaNUc4c1RYNlJqMzd3VkZqSndZSlpMQlYzb3JQbFNKS19WNVhYSy14VVp5eHc?oc=5",
+      "pub_date": 1793473201.0,
+      "article_url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Watch The AI Backlash Uniting Voters",
+      "headline": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3d4RHVLejNUQk5KamNvZkpmVm9BT1JQUS0xQXNxaHFVVHYwYTJ4TnRIQ0I4RkUwbmR2aWQ4VXRzaDAwdmI4Q3Q4S1lFZlhqNTBxY1p6WDVGdkFxQjdPa05BYWx4TGdsempHY3YzWllDRDRxN2Z0T2w5M1FtVGcydzNaOUdRWWgzYTdfVFJQTDJZU25NOUE?oc=5",
+      "pub_date": 1793392350.0,
+      "article_url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-nyse-mb-1212-c2f31c.jpg",
+      "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
+    },
+    {
+      "headline": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNW1WX0tBa05FM2VvdDkxMFpISm9lNE5FQXViYkZUb1YxNnpmMTFCOWU1YzVJRm9JN2xVd3JaWl9lc0dnaWRUcnlxWTBUM0FJYjhOd0I2c3h0dTFybU1OdXNuU0pqOHBTaEVldllIS3daa2VqUVJGcjBTanM5aC1ZUFhKWG1abGZyZDd4V2Vn?oc=5",
-      "pub_date": 1793455733.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-10-31/the-ai-backlash-uniting-voters-video",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVcxT2RHa3JpRWd5czIwSlFuR1Q0ZGszc2o1TE9JNmhmVTdwUzhYWm5nSVhhNUU3aFZOYWc2bVdtUVowMjhqaXdMbnZSbGJ4N0ZrUkZkM09nT1F6blc4MnZzamI3VGQydVRqT25zTEZlbW5GUFB4Q3ZjU3lsMmpMTWJZR3ZnYm04eEFxTm93VWpBNUVQaW9Gb2ZPZG9WNjFQSE1tc3ExdHBzYVVoNFVjM21TMEQtQQ?oc=5",
+      "pub_date": 1793451600.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Chinese archaeologists prepare for hi-tech excavations with AI and deep-sea robots",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONUF3eXA4LXJJTE1kVm1LcXZ3SnRGWUtCTy1JYmRCdjM0VkFSVHY4TENQZjZPMExFOU51N0xidlFJQS1CUXVfX0FucmxYbXNDLVg3YjhNV1Y5akhpMm5xbFRJMWVvczdEZFN1WWoyS3pzVnZLVzQtMVlmSGlCZTAxN01udzM2Nnc5SDZSTWdjcmdxWDItdlFFSG85U2M3QmUyM1JWZEhtWW1uMTQ3LXFJM0Uwc1F5MmJDNVpsTFBSRTdWVTTSAcMBQVVfeXFMTjhhLTJlaFRGQUFpaVBvTktUc1Y1U09zcGNqaEQwdkI0dDg5RDd5VmR3b1ZSY0lFUHNqMDh6anZjSTg0YlBSaHpTeXQ1ZUc4TmtrazFnNUdVUWQxN093NkxTRXR3UUNRWFNtYzhvakFuS0tzVGptcXE1Wi15ZnVyendmemlFX3RSdTFOaWpXaUd6UTFwVWZNRXV4SlNuSi0yWlAzNDhnVUE2THRMMnhsN2l3NTBtbkdoYlRBc2dvbnlYRndN?oc=5",
-      "pub_date": 1793453406.0,
-      "article_url": "https://www.scmp.com/news/china/science/article/3372841/chinese-archaeologists-set-hi-tech-excavations-ai-and-deep-sea-robots",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
-      "pub_date": 1793415360.0,
-      "article_url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | What Anthropic\u2019s I.P.O. Filing Says About the Future of A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3dzg1NjZMOWRibEZVWFJJTTlsN0VHNGx2US03VWgzUXEtZm5Ud1V1TWFhQmdjRmpjeVEwc0QwT0NrVVNIa21lMm5uVmNIYlZXSmV1VGVDNHdqYzFsUng4VDJBSHlsMXBtUVNBTnZTaExhdw?oc=5",
-      "pub_date": 1793350986.0,
-      "article_url": "https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "New hacking threat has election officials scrambling weeks before the midterms",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmFuOFFWakYtSkotbHp0bDBTQTdOY1FVWktwcGVpcjZzblJKenZPZmRxTWdVTS05UnNES1h1VXVUVFVGcjNIQ3hRWlBwMG0zQ2JFUmw1dllOX0hEMm1nZUc4YktkVUpWdkpxaGVsTHdHazBpRjZRazd1Nk9PaG42d2VnVWJsTTNKemlqR2VyOHdFQTdZX0NNMlZxOWEtSWZSUkxqRWFBUDVySHB2MS1GY0xzc2FxQXc?oc=5",
-      "pub_date": 1793458972.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/10/31/election-officials-brace-ai-powered-cyberattacks-midterms-near/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/46QETCPJSZCCLFGDNKDYPK3MUY.jpg&w=1440",
-      "description": "Officials had to patch systems two weeks from Election Day, bringing them out of their normal freeze."
     },
     {
       "headline": "The real question we should all be asking about AI",
@@ -95,16 +75,36 @@
       "description": "The stock market is turning its back on Big Tech."
     },
     {
-      "headline": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3d4RHVLejNUQk5KamNvZkpmVm9BT1JQUS0xQXNxaHFVVHYwYTJ4TnRIQ0I4RkUwbmR2aWQ4VXRzaDAwdmI4Q3Q4S1lFZlhqNTBxY1p6WDVGdkFxQjdPa05BYWx4TGdsempHY3YzWllDRDRxN2Z0T2w5M1FtVGcydzNaOUdRWWgzYTdfVFJQTDJZU25NOUE?oc=5",
-      "pub_date": 1793392350.0,
-      "article_url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-nyse-mb-1212-c2f31c.jpg",
-      "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
+      "headline": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
+      "pub_date": 1793415360.0,
+      "article_url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
+      "source": "Cisco Talos Blog",
+      "source_url": "https://blog.talosintelligence.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUZPU09sRW5SSmtmNGM0WWtZVENPMXVoWWlaTXllV0c3Ny1fdUtjR0ZDSXVqSU95dlowaW1vUTJVT2VtOTIwdngwVVg3R2ZaMFdFZWRZdWNKbU9RRGJJRXZySFdXMExXclBUNXdoTWU2aVVrMGdRSWZxQm1PejIyWlFmZnFQNkdwclp5U0NDYXdhWlJyVGE4SG9SOHhjUmU2VDFSMEx5WEM2YVFyUXlRTg?oc=5",
+      "pub_date": 1793448012.0,
+      "article_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
+      "description": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets."
+    },
+    {
+      "headline": "Why unions are split over AI as data centers take off",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZREQzcEpPX1I3N1JablUzRzE2dktjcmpfajR0ejdQVTVYLWV1YU1FVVFaOTJVd3FncEkzTGVPOGxERS1aT296X2F4d3I5VDZGdGtCRVRiM0gtZmlZb3J1UW4xeE9tOHlrOWNyOUdES3ZGV1U?oc=5",
+      "pub_date": 1793466225.0,
+      "article_url": "https://www.axios.com/2026/10/31/unions-ai-big-labor-data-centers",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-31T15:07:01.749732+00:00"
+  "fetched_at": "2026-10-31T19:27:57.077831+00:00"
 }
