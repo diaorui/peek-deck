@@ -5,34 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Dream's seed, Foundry Robotics' Series A and Fragment's exit from stealth",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0FrUktnQ2NhdTl4TFFrbkh1RU5fMFRXZnlrcHYydjdGNHlacjRRZFBIZnh2SmRTTWg2Z2hENXBPZi1pNXY3c25WcF9WaUdqXzUwcklFd0JMUHc5LXlZTjdqajhoNEozMHQ4MDdFUFRyaVdQOEhMTFV5R3JBbWpldHNqUHpTN0o2SEVEaUpwOW1xTkVNUFZrcGwtSG9rdWNvTUw0Zg?oc=5",
-      "pub_date": 1793450204.0,
-      "article_url": "https://www.axios.com/pro/supply-chain-deals/2026/10/31/supply-chain-deals-week-dream-foundry-robotics",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gd2U5c1c2Ui1hRVdiUzZ0cTU1ZjVpekxiMkU3THhGRXVJU1Bndk9zMmRudXhBUzg3ZTliVE9oaEc1bGRVczdrZUZCNnp2UGlnS3gwS0NIN0JvRk8wWnpZem9LLWw0aU9ZZ19Sd1lWcw?oc=5",
-      "pub_date": 1793377835.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
-      "image": "https://spectrum.ieee.org/media-library/image.webp?id=68558917&width=1200&height=600&coordinates=0%2C69%2C0%2C69",
-      "description": "Your weekly selection of awesome robot videos"
-    },
-    {
-      "headline": "Halloween robotics competition to take over Wayne High School",
-      "source": "WANE 15",
-      "source_url": "https://www.wane.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOG13ckdsc0Q3NlQ0YVFJTU54LXFaUGVNUHcwN0FDc1g1STRVZGhGM0tuTGVzQmdsQTgzU0N2TXN5SHBHckpfMU5fQ1dJTUxZUUxaSGpPQU9oYVBZQ3RHM3FVMGFvMDNrdzJRQVlpeW1TYno1T3N2ZWVycXFIUVBsa1JpX0w0Rm13QkI5ZjcyRUFzQlRzMmtkUng4SWNZSFZD0gGmAUFVX3lxTE1iUVFiek5pZXp4OHpqbGFBVk5rZmdsWGZJRURvMy1lWUl5NjhpcHpyTm4zQzJLUElWVk14V1FtdlhHMVlMeHlwX0FfWWJOeXczcXpqVWhpYXoxb3VPR2NDZGhXanpndExCTGxpQUlVUi1RT2FLd1RCc3hzWURnOFBEVjJvS0JqUG1maDZwMkQybklGNDNOLVcxN2dxbEtrOVlQZU14Rnc?oc=5",
-      "pub_date": 1793394533.0,
-      "article_url": "https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/",
-      "image": null,
-      "description": null
+      "headline": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
+      "pub_date": 1793462400.0,
+      "article_url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
+      "image": "https://tii.imgix.net/production/articles/18087/e0dccb6e-5d64-40c7-be5e-76da17926003.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people\u2019s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ..."
     },
     {
       "headline": "\u200bFactory robot maker opens Madison Heights HQ to get closer to Detroit automakers\u200b",
@@ -45,14 +25,24 @@
       "description": "Ati Robotics is betting that proximity to Detroit\u2019s automakers and suppliers will position it as a frontrunner in the future of factory innovation."
     },
     {
-      "headline": "Trump says imported robotics pose national security risks but does not impose tariffs",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzYzMENTbWlLLWdKa2YzdVN4bXhKZUpVeG8tWm1RUVFHcmg5bXdiQ2dtY3lWYlY0dlF4anMyWWc2NF9zQld1TjlSMlFhR3hfMkxzY05iRGM5MmFXNGpQaGRNN3p6NW9YYm9sVXZXV0IwTE9BdDE5WkdHN3cwUnFzWGRDRHVPR2MxU1M2ZXktSk5MWG9aOHg4c0Rxc2diRzQ1RWUxZzlNRnJoMi1wTEFZWHNCWEJ0eGlxX01CektB?oc=5",
-      "pub_date": 1793225503.0,
-      "article_url": "https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/",
+      "headline": "Dream's seed, Foundry Robotics' Series A and Fragment's exit from stealth",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0FrUktnQ2NhdTl4TFFrbkh1RU5fMFRXZnlrcHYydjdGNHlacjRRZFBIZnh2SmRTTWg2Z2hENXBPZi1pNXY3c25WcF9WaUdqXzUwcklFd0JMUHc5LXlZTjdqajhoNEozMHQ4MDdFUFRyaVdQOEhMTFV5R3JBbWpldHNqUHpTN0o2SEVEaUpwOW1xTkVNUFZrcGwtSG9rdWNvTUw0Zg?oc=5",
+      "pub_date": 1793450204.0,
+      "article_url": "https://www.axios.com/pro/supply-chain-deals/2026/10/31/supply-chain-deals-week-dream-foundry-robotics",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Better Start Hitting the Gym Finally Because AI Robots Already Are",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCbFEwRUhTUlRpdFF3QllQVW9mUndwMVJhbjBJYVFBUGZQUzhjUExOSjVJVGVKUHVNOV85ZnJZU1ZrdkpzdWNmNjV4cTNmZ0NHeTY2LVRVeXRHNDl6Vl9TM2FvaUllUFBUVzlsdG1hYw?oc=5",
+      "pub_date": 1793461920.0,
+      "article_url": "https://futurism.com/robots-and-machines/ai-robots-hitting-gym",
+      "image": "https://futurism.com/wp-content/uploads/2026/10/ai-robots-hitting-gym.jpg?quality=85&w=1200",
+      "description": "A startup called Neura is training humanoid robots in a \"robogym\" where the machines constantly practice and perform tasks."
     },
     {
       "headline": "Ukraine's war robots keep soldiers out of danger, but humans still risk their lives to keep them running",
@@ -65,46 +55,56 @@
       "description": "The point of Ukraine's growing robot fleet is to replace humans in dangerous areas, but their use still puts some soldiers in risky positions."
     },
     {
-      "headline": "High school students explore robotics, forensics and engineering at Ohio State Mansfield's Spooky STEAM Day",
-      "source": "Richland Source",
-      "source_url": "https://www.richlandsource.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcFd2YzJzNm9RanVkSnYxU1BxWDdnMkhFYWgxeDJPRzl0SEJzR0h6TGNCWTczeWdyWWtSUVNXcGt6cFk1TFZSM2oxeHlza0R1LXRCb21DUUMtSExyb2tEaWMzR1UwbVEtWGp5MHlzTHBYdEFGN2FNQ1FsNjJaamliNkpndk5VWkw4c0dQWHJRWWQ0bFhVZlJkTzVTcGdvYWdjRHhXTjlBbzU2ZEpvazlBQjBVdjU2NjdteG9iRW5lVWdGVy1nTnhmYWg1MlFORmIyd3BJSjlyQ3ZqekRjVGR5Q2Jn?oc=5",
-      "pub_date": 1793455200.0,
-      "article_url": "https://www.richlandsource.com/2026/10/31/high-school-students-explore-robotics-forensics-and-engineering-at-ohio-state-mansfields-spooky-steam-day/",
+      "headline": "SF Startup Behind \u2018Robot-Dog Walkers Wanted\u2019 Ad Gets Visit, Threatening Texts From Angry Resident",
+      "source": "SFist",
+      "source_url": "https://sfist.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmV5cHp4YjAzMWx0R0U2VlFHYUVpXzl5UVkzeVVrRVpuVEt4ZnBqVklYUWxKM1FxZHhkTy1kaGYwal9ZTlJYakN4bXVwV3NRWU83dkROdFczamxaZGJBQVN1V2t0aUVmZXBrNDJIeUJjd2RCWWlIelEyazhld05OUi11ZDBHNTRTN3hsbjB2SE1idDdia1VHR3ZsVnFoTXlwYVNZSkl4dl8zY3JxUHlWTE1qUTBROTJGQ29pWnZUcjZsWXdk?oc=5",
+      "pub_date": 1793398680.0,
+      "article_url": "https://sfist.com/2026/10/30/sf-startup-behind-robo-dog-walkers-wanted-ad-gets-visit-threatening-messages-from-angry-resident/",
+      "image": "https://img.sfist.com/2026/10/GettyImages-2243596706.jpg",
+      "description": "An SF startup is training AI agents to control robots independently through the use of paid \"robot-dog walkers,\" and the project has already drawn threatening messages and a visit to the company's office from a disgruntled resident."
+    },
+    {
+      "headline": "New robotic vision system processes event-camera data up to 440 times per second",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjlSQU1rUXZoUW0yRFRSdmZKdG94VDFSNjJjZVZHS29ISzdnc2xDRzhmazRETFVTeEdQRkVkRTR0MjE2ZnlaSXRUZC12Nl82R1g4SDJrOUVYWlFCbTlNYlNGZ3FtMXJPRS0xZlNfUmNnT3N5Y0x5WTlkcjZtdThnSi1tekNsMmpLcmF0QUI1WUFlc3VQY1hRemZB?oc=5",
+      "pub_date": 1793397120.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/robot-vision-event-cameras-440-times-per-second",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/ai-robot-vision.jpg",
+      "description": "Penn researchers developed a tool that processes event-camera data at 440 fps, enabling faster robotic vision."
+    },
+    {
+      "headline": "Trump says imported robotics pose national security risks but does not impose tariffs",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzYzMENTbWlLLWdKa2YzdVN4bXhKZUpVeG8tWm1RUVFHcmg5bXdiQ2dtY3lWYlY0dlF4anMyWWc2NF9zQld1TjlSMlFhR3hfMkxzY05iRGM5MmFXNGpQaGRNN3p6NW9YYm9sVXZXV0IwTE9BdDE5WkdHN3cwUnFzWGRDRHVPR2MxU1M2ZXktSk5MWG9aOHg4c0Rxc2diRzQ1RWUxZzlNRnJoMi1wTEFZWHNCWEJ0eGlxX01CektB?oc=5",
+      "pub_date": 1793225503.0,
+      "article_url": "https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/",
       "image": null,
       "description": null
     },
     {
-      "headline": "'It\u2019s pretty awesome': Korah robotics team is number one in the world",
-      "source": "SooToday.com",
-      "source_url": "https://www.sootoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3BwbHlseFZDcWVyWFM1WFFIV1RTSVNNQk1hV1JEcXIwSE1yaU5uVG1PSFNGcDh6bEdvRUtjSjZFeXdOWGR1S0RHQ3FKYXVqX1hEcmVZTFlDT1V4ekVQMEhXRWo4UTR5aXh2SV9ydzZDYk9jYXg0RG9yckRaZ3BrbE1GV25NeDJOQ2tZbHk1VHJBMFhKdGxXNUs1TnJtV2NQSXBxZU1ILXNtZkE?oc=5",
-      "pub_date": 1793358900.0,
-      "article_url": "https://www.sootoday.com/inspire/its-pretty-awesome-korah-robotics-team-is-number-one-in-the-world-12957271",
-      "image": "https://www.vmcdn.ca/f/files/sootoday/images/columns/inspire/wired-weirdos-korah-collegiate-robotics-team/20261028-korah-robotics-team-dt.png;w=1200;h=800;mode=crop",
-      "description": "Another Korah team currently sits at second in Canada and 14th in the world"
+      "headline": "'It\u2019s pretty awesome': High school robotics team is number one in the world",
+      "source": "Village Report",
+      "source_url": "https://www.villagereport.ca",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMndjcS0tajhKWkRhNUxKQ3k3Ym16ZGlCdERUTm1uTE1IOXd0UG4wM1RiSDhTeHgyZzcyTnI5S25JVzJfU1EwV1dza3M4cTFlaDJ4U1lZYmExaE0ta2tRVmF2dzRweXNKQ05pNXpXcHFKaHVfOFNnYzRnWF8xQUVra3g4WWdjMFVpQlVrNmtPaUpmWG1uMVROVnhKb3ZZZGUwRDFOZlJ4UERqdGRqZ21JNWlsWF8yQ3hNVUtHcHdJRGo?oc=5",
+      "pub_date": 1793386889.0,
+      "article_url": "https://www.villagereport.ca/village-picks/its-pretty-awesome-high-school-robotics-team-is-number-one-in-the-world-12961777",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "The Humanoid Robot Market Could Be Worth More Than $7 Trillion. Here Are 3 Stocks to Own.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2dZYUlHVzFaX1BIUlRyYldoNWdaMG1sYUsyNmp0ZWxBUVdON3BzQklaUk8tcjZmX3JXQmdwNjdSQlp4clJNbzVVbUNjZEZQQmhIeVZjSTBXVUdtTTAxOUNUdERrcDFjOUlLOUtCTGNzZE1YUk02UEFFYUVWZVc3WklxeE1IcFM3Sy1sNlB5NXllSnFJbEx1TQ?oc=5",
-      "pub_date": 1793324700.0,
-      "article_url": "https://www.fool.com/investing/2026/10/29/the-humanoid-robot-market-could-be-worth-more-than/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891358%2Frobots.jpg&w=1200&op=resize",
-      "description": "The industry is still in its infancy, but it's becoming clear which names are best positioned to lead it to full viability."
-    },
-    {
-      "headline": "The Rare Earths Powering the Next Wave of Robotics",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGt4eVRvaWZ5NngwbjNmak1vaFlITG8zbDJCYjRtN0dCMm1hdVFVWFlxOGxNZEVFRkFXMERldnhBejJ5VUJDOUQ2T2ZmYklGb0pBS2VRdk1nTlJfWlhtZEJhTlNaenpFMkgtSDdvVDNfWUR5Zy0zajI4UXBIcXBSMjZZQjVDd1I1akJpT2hCNG5tLTFXX0R5Yl9n?oc=5",
-      "pub_date": 1793229649.0,
-      "article_url": "https://www.barchart.com/story/news/8513371/the-rare-earths-powering-the-next-wave-of-robotics",
+      "headline": "Halloween robotics competition to take over Wayne High School",
+      "source": "WANE 15",
+      "source_url": "https://www.wane.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOG13ckdsc0Q3NlQ0YVFJTU54LXFaUGVNUHcwN0FDc1g1STRVZGhGM0tuTGVzQmdsQTgzU0N2TXN5SHBHckpfMU5fQ1dJTUxZUUxaSGpPQU9oYVBZQ3RHM3FVMGFvMDNrdzJRQVlpeW1TYno1T3N2ZWVycXFIUVBsa1JpX0w0Rm13QkI5ZjcyRUFzQlRzMmtkUng4SWNZSFZD0gGmAUFVX3lxTE1iUVFiek5pZXp4OHpqbGFBVk5rZmdsWGZJRURvMy1lWUl5NjhpcHpyTm4zQzJLUElWVk14V1FtdlhHMVlMeHlwX0FfWWJOeXczcXpqVWhpYXoxb3VPR2NDZGhXanpndExCTGxpQUlVUi1RT2FLd1RCc3hzWURnOFBEVjJvS0JqUG1maDZwMkQybklGNDNOLVcxN2dxbEtrOVlQZU14Rnc?oc=5",
+      "pub_date": 1793394533.0,
+      "article_url": "https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-31T15:07:04.251635+00:00"
+  "fetched_at": "2026-10-31T19:27:51.619861+00:00"
 }
