@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-31T19:27:58.749811+00:00'
+updated: '2026-10-31T22:44:07.023138+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 31, 2026 at 19:27 UTC  
+**Last Updated:** October 31, 2026 at 22:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ A few weeks ago we ran a live π0.5 demo at IROS, and getting there turned into 
 
 So I saw this cute little robot somewhere( 3d design credit to the original creator don't know his reference ) and thought, why not build it myself. I got the body 3D printed and started playing around with the open-source code, but honestly, it was pretty basic compared to what I had in mind for this little dude. So I ended up spending almost the next month building my own ecosystem around it. Now Yeti has 100+ emotions and behaviours, along with a gyro, microphone, LDR and touch sensors. I also added different functionalities so it can work as both a little robot and a clock, with sounds, reactions and different behaviours depending on how you interact with it. The feature I'm probably most excited about is that you can flash new firmware to Yeti directly from your phone over Bluetooth. No Arduino IDE, laptop or cable needed. I also built a companion app that lets your phone connect to Yeti automatically when you're nearby. And then I went a bit overboard. I made it possible for different Yetis to communicate with each other through their phones over the internet. So two Yetis paired with different phones can exchange messages, little scribbles, sounds and other stuff. You can even send things like a cute Happy Birthday message/sound to another Yeti. This is honestly the first time I've built something like this, so I'd really love to hear what you guys think. I'm still figuring out what Yeti should become and what else I can add to it. Would love feedback from people into robotics, ESP32, or just building random little things like this
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,31 @@ I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch 
 
 Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...
 
-The Information • 3h ago
+The Information • 6h ago
+
+---
+
+**[Better Start Hitting the Gym Finally Because AI Robots Already Are](https://futurism.com/robots-and-machines/ai-robots-hitting-gym)**
+
+A startup called Neura is training humanoid robots in a "robogym" where the machines constantly practice and perform tasks.
+
+Futurism • 6h ago
+
+---
+
+**[2026 Robotics Handbook looks at humanoids, AI, and design choices](https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/)**
+
+The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation.
+
+The Robot Report • 2d ago
+
+---
+
+**[Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck](https://spectrum.ieee.org/video-friday-whole-body-manipulation)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -132,25 +156,11 @@ Crain's Detroit • 1d ago
 
 ---
 
-**[Dream's seed, Foundry Robotics' Series A and Fragment's exit from stealth](https://www.axios.com/pro/supply-chain-deals/2026/10/31/supply-chain-deals-week-dream-foundry-robotics)**
+**[A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It](https://rocketlabcorp.com/updates/a-robotic-arm-that-can-walk-across-spacecraft-rocket-lab-built-it/)**
 
-Axios • 6h ago
+Future space missions could soon get a big leg up — or arm, rather — thanks to robotics developed by Rocket Lab in collaboration with NASA.
 
----
-
-**[Better Start Hitting the Gym Finally Because AI Robots Already Are](https://futurism.com/robots-and-machines/ai-robots-hitting-gym)**
-
-A startup called Neura is training humanoid robots in a "robogym" where the machines constantly practice and perform tasks.
-
-Futurism • 3h ago
-
----
-
-**[Ukraine's war robots keep soldiers out of danger, but humans still risk their lives to keep them running](https://www.yahoo.com/news/world/articles/ukraines-war-robots-keep-soldiers-101354313.html)**
-
-The point of Ukraine's growing robot fleet is to replace humans in dangerous areas, but their use still puts some soldiers in risky positions.
-
-Yahoo • 9h ago
+Rocket Lab • 1d ago
 
 ---
 
@@ -158,33 +168,29 @@ Yahoo • 9h ago
 
 An SF startup is training AI agents to control robots independently through the use of paid "robot-dog walkers," and the project has already drawn threatening messages and a visit to the company's office from a disgruntled resident.
 
-SFist • 21h ago
+SFist • 1d ago
 
 ---
 
-**[New robotic vision system processes event-camera data up to 440 times per second](https://interestingengineering.com/ai-robotics/robot-vision-event-cameras-440-times-per-second)**
+**[Bricklaying robots build entire apartment in Netherlands](https://www.independent.co.uk/tv/news/robot-apartment-netherlands-monumental-video-b3076741.html)**
 
-Penn researchers developed a tool that processes event-camera data at 440 fps, enabling faster robotic vision.
+A robotics company says its bricklaying autonomous robots have built an apartment in the Netherlands. Monumental released footage on Thursday (29 October) showing robots on curved scaffolding laying bricks at a building site in Almere. The company's founder, Salar al Khafaji, said the project included robots laying a curved wall with different brick types, different brick bonds, and indented text in the brickwork. Monumental says its robots have also started building an entire neighbourhood in the Groningen area, including more than 100 houses and a hotel.
 
-Interesting Engineering • 21h ago
-
----
-
-**[Trump says imported robotics pose national security risks but does not impose tariffs](https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/)**
-
-Reuters • 2d ago
+The Independent • 15h ago
 
 ---
 
-**['It’s pretty awesome': High school robotics team is number one in the world](https://www.villagereport.ca/village-picks/its-pretty-awesome-high-school-robotics-team-is-number-one-in-the-world-12961777)**
+**[Inside giant homebuilder D.R. Horton’s bet on robotic homebuilding](https://www.fastcompany.com/91632538/homebuilding-dr-horton-inside-giant-homebuilder-bet-on-robotics)**
 
-Village Report • 1d ago
+On a typical jobsite, framing crews build walls by hand. America’s largest homebuilder is teaming up with Promise Robotics to move some of that work into a factory, where robots do the framing.
+
+Fast Company • 2d ago
 
 ---
 
-**[Halloween robotics competition to take over Wayne High School](https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/)**
+**[The Woman Breathing Life Into Next Generation Home-Help Robots](https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots)**
 
-WANE 15 • 22h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -198,7 +204,7 @@ Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! Fr
 
 📺 VisionX Lab
 
-👁️ 1.2M • 👍 35K • 💬 1K • ⏱️ 0:59 • 6d ago
+👁️ 1.2M • 👍 36K • 💬 1K • ⏱️ 0:59 • 6d ago
 
 ---
 
@@ -218,7 +224,7 @@ Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-ed
 
 📺 VisionX Lab
 
-👁️ 323K • 👍 4K • 💬 392 • ⏱️ 0:11 • 6d ago
+👁️ 325K • 👍 4K • 💬 397 • ⏱️ 0:11 • 6d ago
 
 ---
 
@@ -228,17 +234,7 @@ OpenAI is officially building its first humanoid robot, and Sam Altman has confi
 
 📺 MACHINEKIND
 
-👁️ 45K • 👍 608 • 💬 48 • ⏱️ 13:33 • 3d ago
-
----
-
-**[Realbotix has unveiled a new line of highly realistic robots designed for daily human connection.](https://www.youtube.com/watch?v=AAJ7bXpuT28)**
-
-The newly announced Echo humanoid robots come in both tabletop and full body models, featuring proprietary silicone skin for ...
-
-📺 Cybernews
-
-👁️ 144K • 👍 176 • 💬 79 • ⏱️ 0:21 • 4d ago
+👁️ 46K • 👍 615 • 💬 48 • ⏱️ 13:33 • 3d ago
 
 ---
 
@@ -252,43 +248,53 @@ NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelli
 
 ---
 
-**[Robots are getting Terrifyingly Realistic.](https://www.youtube.com/watch?v=3Q9-rTCBMwE)**
+**[Realbotix has unveiled a new line of highly realistic robots designed for daily human connection.](https://www.youtube.com/watch?v=AAJ7bXpuT28)**
 
-scientists and engineers are pushing the boundaries of technology by developing humanoid robots with terrifyingly accurate ...
+The newly announced Echo humanoid robots come in both tabletop and full body models, featuring proprietary silicone skin for ...
 
-📺 INTERCEPTOR
+📺 Cybernews
 
-👁️ 106K • 💬 69 • ⏱️ 0:20 • 5d ago
-
----
-
-**[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
-
-Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
-
-📺 Jordan Blake
-
-👁️ 30K • 👍 871 • 💬 7 • ⏱️ 1:00 • 2d ago
+👁️ 144K • 👍 177 • 💬 79 • ⏱️ 0:21 • 4d ago
 
 ---
 
-**[Unitree H2-X: Kung Fu Robot Meets Reality 🤖 #robotics](https://www.youtube.com/watch?v=hTTC9md29YQ)**
+**[China Humanoid Robot Dance: 110 Humanoid Robot Dance in Sync | WION](https://www.youtube.com/watch?v=PaumW4XuciE)**
+
+China has showcased its growing robotics capabilities with 110 humanoid robots performing a synchronised dance routine.
+
+📺 WION
+
+👁️ 37K • 👍 121 • 💬 36 • ⏱️ 1:40 • 4d ago
+
+---
+
+**[Humanoid robot spotted in NYC sparks curiosity, concern](https://www.youtube.com/watch?v=qjRriXk9i7U)**
+
+A humanoid robot was spotted in Brooklyn over the weekend, sparking both curiosity and concern as it took a stroll and posed for ...
+
+📺 CBS New York
+
+👁️ 19K • 👍 122 • 💬 45 • ⏱️ 1:48 • 5d ago
+
+---
+
+**[Unitree H2-X: Kung Fu Robot Meets Reality 🤖 #robotics](https://www.youtube.com/watch?v=5iae3Riwj0E)**
 
 Unitree H2-X can pull off spectacular kung fu stunts. But what happens when the demo leaves the promo video? We break ...
 
-📺 Ashish Decodes
+📺 Ashish Decodes English
 
-👁️ 160K • 👍 4K • 💬 69 • ⏱️ 1:39 • 5d ago
+👁️ 2K • 👍 63 • 💬 2 • ⏱️ 1:29 • 5d ago
 
 ---
 
-**[China Sets New Guinness World Record as 110 Humanoid Robots Dance in Perfect Synchronization | AI1B](https://www.youtube.com/watch?v=y-Iy1AsIM9I)**
+**[Microducks Stole NVIDIA’s Show](https://www.youtube.com/watch?v=cgOZPijdl7w)**
 
-China has set a new Guinness World Record as 110 full-size humanoid robots performed synchronized dance routines in Jinan, ...
+Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his commands... mostly Microduck is a ...
 
-📺 DRM News
+📺 Techy or Not
 
-👁️ 70K • 👍 185 • 💬 82 • ⏱️ 1:21 • 5d ago
+👁️ 35K • 👍 1K • 💬 8 • ⏱️ 1:46 • 6d ago
 
 ---
 
