@@ -5,6 +5,20 @@
   "days": 3,
   "posts": [
     {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "hn_url": "https://news.ycombinator.com/item?id=50305693",
+      "author": "dorianniemiec",
+      "points": 511,
+      "num_comments": 384,
+      "created_at": "2026-10-30T15:52:18Z",
+      "object_id": "50305693",
+      "image": "https://substackcdn.com/image/fetch/$s_!Hgvq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530d847f-26cb-4ddd-a6de-875cbbaf8fab_6233x4167.webp",
+      "description": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?",
+      "favicon": "https://substackcdn.com/icons/substack/apple-touch-icon.png",
+      "site_name": "newsletter.signoz.io"
+    },
+    {
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=50273396",
@@ -19,32 +33,32 @@
       "site_name": "religionnews.com"
     },
     {
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "hn_url": "https://news.ycombinator.com/item?id=50305693",
-      "author": "dorianniemiec",
-      "points": 458,
-      "num_comments": 333,
-      "created_at": "2026-10-30T15:52:18Z",
-      "object_id": "50305693",
-      "image": "https://substackcdn.com/image/fetch/$s_!Hgvq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530d847f-26cb-4ddd-a6de-875cbbaf8fab_6233x4167.webp",
-      "description": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?",
-      "favicon": "https://substackcdn.com/icons/substack/apple-touch-icon.png",
-      "site_name": "newsletter.signoz.io"
-    },
-    {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "hn_url": "https://news.ycombinator.com/item?id=50296486",
       "author": "sandslash",
-      "points": 391,
-      "num_comments": 162,
+      "points": 396,
+      "num_comments": 163,
       "created_at": "2026-10-29T21:40:28Z",
       "object_id": "50296486",
       "image": "https://labs.ycombinator.com/og.png",
       "description": "Swarms of Claude and GPT agents in Minecraft and Mindustry.",
       "favicon": "https://labs.ycombinator.com/favicon.png?v=black2",
       "site_name": "labs.ycombinator.com"
+    },
+    {
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "hn_url": "https://news.ycombinator.com/item?id=50307183",
+      "author": "cdrnsf",
+      "points": 262,
+      "num_comments": 220,
+      "created_at": "2026-10-30T17:24:45Z",
+      "object_id": "50307183",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/andy4.png",
+      "description": "The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.",
+      "favicon": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
+      "site_name": "404 Media"
     },
     {
       "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
@@ -61,26 +75,12 @@
       "site_name": "surgehq.ai"
     },
     {
-      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-      "hn_url": "https://news.ycombinator.com/item?id=50307183",
-      "author": "cdrnsf",
-      "points": 246,
-      "num_comments": 204,
-      "created_at": "2026-10-30T17:24:45Z",
-      "object_id": "50307183",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/andy4.png",
-      "description": "The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.",
-      "favicon": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
-      "site_name": "404 Media"
-    },
-    {
       "title": "US tech stocks see sharp falls over AI cost fears",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "hn_url": "https://news.ycombinator.com/item?id=50306008",
       "author": "mindracer",
-      "points": 227,
-      "num_comments": 252,
+      "points": 240,
+      "num_comments": 265,
       "created_at": "2026-10-30T16:13:02Z",
       "object_id": "50306008",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
@@ -93,8 +93,8 @@
       "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
       "hn_url": "https://news.ycombinator.com/item?id=50289692",
       "author": "Frieren",
-      "points": 219,
-      "num_comments": 76,
+      "points": 222,
+      "num_comments": 80,
       "created_at": "2026-10-29T14:29:06Z",
       "object_id": "50289692",
       "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/andy3.png",
@@ -107,7 +107,7 @@
       "url": "https://trakkr.ai/trakkr-research/zombie-stats",
       "hn_url": "https://news.ycombinator.com/item?id=50290283",
       "author": "mektrik",
-      "points": 176,
+      "points": 177,
       "num_comments": 72,
       "created_at": "2026-10-29T15:06:17Z",
       "object_id": "50290283",
@@ -121,7 +121,7 @@
       "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
       "hn_url": "https://news.ycombinator.com/item?id=50280178",
       "author": "jacquesm",
-      "points": 169,
+      "points": 170,
       "num_comments": 76,
       "created_at": "2026-10-28T20:10:16Z",
       "object_id": "50280178",
@@ -135,8 +135,8 @@
       "url": "https://news.ycombinator.com/item?id=50301479",
       "hn_url": "https://news.ycombinator.com/item?id=50301479",
       "author": "mellosty",
-      "points": 136,
-      "num_comments": 132,
+      "points": 142,
+      "num_comments": 136,
       "created_at": "2026-10-30T09:17:43Z",
       "object_id": "50301479",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 688,
+  "total_hits": 686,
   "has_metadata": true,
-  "fetched_at": "2026-10-30T22:48:27.141265+00:00"
+  "fetched_at": "2026-10-31T02:03:07.635931+00:00"
 }

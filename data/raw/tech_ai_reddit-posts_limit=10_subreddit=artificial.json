@@ -68,6 +68,39 @@
       "description": "I am a newbie to AI but have been using Gemini for some proceedings with legal and medical issues. So far, it hasn't been 100% accurate, but it has been mostly helpful and has helped me save a lot of time. Lately, I ask some questions and am getting very lame answers like; \"I can't answer that,\" or very short non-helpful answers. What have I walked into?"
     },
     {
+      "title": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
+      "published": 1793389656.0,
+      "thumbnail": "https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&crop=smart&auto=webp&s=46878b5964fcad0e8127451cd7b6ee44a331ca80",
+      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1799740/apple-touch-icon.png",
+      "description": ">\"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\""
+    },
+    {
+      "title": "Fewer tokens? Anyone else noticing the big dogs\u2019 AI efficiency push?",
+      "author": "WillfullyWorkable",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjx6oi/fewer_tokens_anyone_else_noticing_the_big_dogs_ai/",
+      "published": 1793409410.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Seems like the big AI companies are putting more and more effort into making compute go further lately. stuff like: AWS making its Trainium chips and servers more energy efficient OpenAI pushing smaller mini/nano models for the everyday jobs. Google\u2019s TurboQuant research squeezing down the memory needed for cached context. makes sense tbh. When you\u2019re paying to run this stuff constantly, even small savings per request can add up. Better margins, room to make products cheaper, more work out of the hardware you\u2019ve already paid for. Getting more done within the same power budget seems like a pretty big incentive too. kinda wondering where this goes though. Do we actually end up using less compute overall, or does cheaper AI just give everyone an excuse to run way more of it?"
+    },
+    {
+      "title": "AI agents said \u201cdone\u201d when nothing actually happened, and making them think harder didn\u2019t help",
+      "author": "TruthDeep8659",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjutvc/ai_agents_said_done_when_nothing_actually/",
+      "published": 1793403080.0,
+      "thumbnail": "https://preview.redd.it/7cgfcu91woyh1.png?width=640&crop=smart&auto=webp&s=e1cf7759733677a90ba29de7844abd4b39dd29a8",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I ran a small study on what AI agents do when a save says \u201csuccess\u201d but nothing actually changed. I used 20 airline customer service tasks from \u03c4-bench and tested Claude Sonnet 5.5, GPT-6.1 Sol and DeepSeek V4.1 Flash, each at low and high reasoning effort. Agents told the customer it was done in 97 of 118 failed saves 29 customers got a reservation number for a booking that didn\u2019t exist High effort caught 11, low effort caught 10, so basically no difference No agent ever went back to check if a save worked. Every catch was luck: a later step happened to show the booking If anyone's interested: Write-up: https://outsideengineer.substack.com/p/thinking-harder-doesnt-help-ai-catch Code and transcripts: https://github.com/brianna-rose05/thinking-harder-silent-failures"
+    },
+    {
       "title": "Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!",
       "author": "UREveryone",
       "url": "https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/",
@@ -77,40 +110,7 @@
       "site_name": "Muse",
       "favicon": "https://muse.ai/favicon.ico",
       "description": "Its just such a ridiculous idea to charge someone to teach them how to use a tool that can explain itself."
-    },
-    {
-      "title": "Google shares first AI-generated response from space, a haiku",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/",
-      "published": 1793393820.0,
-      "thumbnail": "https://external-preview.redd.it/-8Tff3LZgB5y_9jRHCtqFJoDv2QJ3E8f2DygXx-DcXs.jpeg?width=640&crop=smart&auto=webp&s=dae7c3035d9a01143c188b2d52dcad9ec2aefb3c",
-      "external_url": "https://www.linkedin.com/posts/sundarpichai_blue-marble-below-data-streams-in-silent-ugcPost-7521980921080823808-2X99/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "Blue marble below,\nData streams in silent grace,\nStarlight feeds my core \u2728\n\nA \u2018hello world\u2019 milestone for Project Suncatcher, our long-term research moonshot exploring whether we can one day scale machine learning using the abundant solar energy in space.\n\nAfter launching our prototype satellite a few weeks ago, we successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - this haiku!\u00a0\n\nThis is just the start and there are still a lot of complex engineering challenges left to solve, from radiation bit-flips to orbital thermal management (I did say complex!).\u00a0\n\nIt\u2019s an incredibly exciting step, huge congratulations to the team on making this first test a reality. | 288 comments on LinkedIn"
-    },
-    {
-      "title": "Reddit will force everyone to log in",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1xj2qw1/reddit_will_force_everyone_to_log_in/",
-      "published": 1793324850.0,
-      "thumbnail": "https://external-preview.redd.it/cok1ZRN3nVv9jR_pJKuO7Z6bZF3ShbaTc4Pal7kJQm0.jpeg?width=640&crop=smart&auto=webp&s=fb717951236fb06f8c67b09148ea300370b7715b",
-      "external_url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impacting AIs that search the internet via tool calling."
-    },
-    {
-      "title": "If an AI video defames someone, who should the victim actually sue, the person who prompted it, the model provider, or the platform that kept it up?",
-      "author": "New_Pension_4485",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjozdg/if_an_ai_video_defames_someone_who_should_the/",
-      "published": 1793388718.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This feels like a question we're going to have to take seriously pretty soon. We've already seen cases where AI generated likenesses are used in ways people never agreed to, from unauthorized ads to digital replicas that go beyond what someone thought they had consented to. I've been paying more attention to AI video tools lately, including platforms like PixVerse. What's interesting is how accessible AI video creation is becoming. That opens up a lot of creative possibilities, but it also makes me wonder how responsibility should work when someone uses these tools to create something that causes real harm. The current legal landscape is a patchwork: right of publicity, defamation, copyright, and platform safe harbors can all point toward different parties. The person who prompted the video might not have the resources to compensate a victim. The model provider may point to its terms of service, while the platform hosting the video may have its own legal protections depending on the jurisdiction. I'm not a lawyer, but I'm curious what a workable liability framework would look like. Should responsibility depend on who created the content, who distributed it, and how each party responded after being notified? If the only party with enough resources to compensate the victim is the platform or model provider, should that affect how liability is assigned? And how do we avoid creating a chilling effect on legitimate creative tools? For those who follow AI policy or platform governance, what's the fairest way to divide responsibility when an AI-generated video causes real reputational harm?"
     }
   ],
-  "fetched_at": "2026-10-30T22:48:33.110951+00:00"
+  "fetched_at": "2026-10-31T02:03:08.990772+00:00"
 }
