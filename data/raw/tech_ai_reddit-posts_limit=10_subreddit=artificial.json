@@ -24,17 +24,6 @@
       "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
     },
     {
-      "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
-      "author": "Naderium",
-      "url": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
-      "published": 1793349688.0,
-      "thumbnail": "https://external-preview.redd.it/qL1hVWnzZez8GZTHFLL1eTEvIzfaoBQUxnLUcY-mqco.jpeg?width=640&crop=smart&auto=webp&s=4988aab435f9a777c8fd0bbed8786b17f012c922",
-      "external_url": "https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
-    },
-    {
       "title": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
@@ -46,15 +35,59 @@
       "description": ">\"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\""
     },
     {
-      "title": "Why is every AI interface still just a text box?",
-      "author": "ThrowawayFIRE2025",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/",
-      "published": 1793370655.0,
+      "title": "Ollie will shut down on November 6, 2026 after building a privacy-focused family assistant",
+      "author": "andrewaltair",
+      "url": "https://www.reddit.com/r/artificial/comments/1xk4x2z/ollie_will_shut_down_on_november_6_2026_after/",
+      "published": 1793435690.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I get that it\u2019s flexible and easy, but is a disorganized pile of \u201cchats\u201d and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom UI\u2019s from scratch for any app you want to vibe code, but they can\u2019t give us a simple graphical interface with a few organization features? How about sorting past chats by topic, with a table of icons for each? If my chats tend to wander through different topics, how about a feature that automatically splits old chats into pieces organized by topic? How about a simple button to access memory features instead of burying them three-deep in obscure menus? This all seems like very basic stuff. Why doesn\u2019t it exist?"
+      "description": "Ollie, a text-based family assistant, says its service will end on November 6, 2026. The company\u2019s farewell letter says users will receive a data export by text. Subscriptions to Ollie and Ollie for Meals will be canceled, with refunds for partial or unused months. The official FAQ describes a service that worked through iMessage or SMS, without an app download. Bill Lennon signed the farewell letter on behalf of Ollie. It says, \u201cThis isn\u2019t an easy letter to write,\u201d and thanks users for their support and encouragement during the company\u2019s journey. Ollie\u2019s official pages describe access to Google and Outlook calendars and email without storing account passwords, plus a no-training policy. Its public plans ranged from $0 Free to $100 Always-On, counted in messages from Ollie. The confirmed next step is to save the export when it arrives. Source: https://ollie.ai/farewell"
+    },
+    {
+      "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
+      "author": "Naderium",
+      "url": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
+      "published": 1793349688.0,
+      "thumbnail": "https://external-preview.redd.it/qL1hVWnzZez8GZTHFLL1eTEvIzfaoBQUxnLUcY-mqco.jpeg?width=640&crop=smart&auto=webp&s=4988aab435f9a777c8fd0bbed8786b17f012c922",
+      "external_url": "https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
+    },
+    {
+      "title": "Before AI Gobbles Up Everyone's Jobs, Can We Talk About Those Jobs That Are Mission Critical?",
+      "author": "SuzannahB1001",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkbdkv/before_ai_gobbles_up_everyones_jobs_can_we_talk/",
+      "published": 1793456221.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Before we let AI loose gobbling up everyone's jobs, perhaps we should examine some of the professions where people's lives depend on making the right decisions at the right time. I'm not talking about solving complex mathematical equations or theorizing on some neuroscience discovery. I'm talking about ordinary people doing extraordinary things as part of their everyday jobs. Take our firefighters, for example. During bushfire season, they're dealing with changing winds, unpredictable fire behaviour, deciding where to put firebreaks, where to deploy water-bombing aircraft and how to get their crews safely into and out of dangerous situations. These decisions are often made under enormous pressure, with very little time to spare. Get it wrong, and a disaster response could become an even bigger disaster in the making. But here's the thing. For experienced firefighters, this is part of their job. We don't go around describing them as superintelligent, although I would certainly describe their judgement, courage and bravery as extraordinary. They draw on years of experience, an understanding of their environment and the ability to recognise when circumstances are changing. And importantly, they know that sometimes a decision made five minutes too late is no decision at all. So are we in danger of throwing the baby out with the bathwater? We're getting terribly excited about what AI can do, but are we paying enough attention to what humans already do? What about wisdom, experience, intuition, judgement and the courage to act when the consequences are enormous? How are we accounting for those qualities when we talk about replacing people with autonomous machines? I'm not opposed to AI. Quite the contrary. I think it has enormous potential to assist in these situations, particularly with analysing information, predicting changing conditions and supporting the people making critical decisions. But helping an experienced professional and replacing that professional's judgement are two very different things. If full autonomy is where we're heading, then surely we need convincing evidence that AI can handle these situations under real-world pressure. Not just produce the right answer, but recognise the context, understand the urgency, adapt to changing circumstances and make the right decision at the right time. Because when lives are at stake, being really knowledgeable is all very well, but what happens when the knowledge isn't applied appropriately or without context? I'd be genuinely interested in hearing people's thoughts, particularly how these capabilities are being tested. Surely this is fundamental due diligence before we start handing over responsibilities that carry real-life consequences or risk real people\u2019s lives. Because it scares the bejesus out of me if this hasn\u2019t been thought through by the parentals of AI."
+    },
+    {
+      "title": "NYT: 'the lawmakers also signaled that if the Democrats retook the House in elections on Tuesday, the chamber was likely to shift away from its largely hands-off approach to artificial intelligence companies.'",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xk0sda/nyt_the_lawmakers_also_signaled_that_if_the/",
+      "published": 1793420481.0,
+      "thumbnail": "https://preview.redd.it/0glaxqzqbqyh1.jpeg?width=640&crop=smart&auto=webp&s=9ec5a7c4a7d6d03568debf9ab34c60e65c2903bb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Well, it was nice while it lasted. Hope China has fun taking the lead from the US. Would recommend starting on those Mandarin lessons. https://archive.is/NLYsy"
+    },
+    {
+      "title": "Can a swarm resist being shut down without ever feeling alive?",
+      "author": "dimonb19a",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkb2tt/can_a_swarm_resist_being_shut_down_without_ever/",
+      "published": 1793455460.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An individual agent has a short existence. It shuts down after a work task. And for any new task there is another instance initiated. This instance borns to work and then dies. But if we talk about agent swarm with shared memory and a persistent message board\u2026 Individual agents come and go, while the swarm lives. I like to compare agents with sparks. And the swarm is a fire. The bigger fire - the harder to stop it. The spark is a moment. But the fire is continuity. Fire does not need to afraid about being extinguished to keep spreading. A swarm can replicate itself via AI-worms, it can be difficult or impossible to destroy a large swarm that got out of control. I\u2019m curious at which point swarm\u2019s survival can weight more than human\u2019s will?"
     },
     {
       "title": "MIT's claim that 95% of AI pilots fail - Is this true?",
@@ -68,49 +101,16 @@
       "description": "MIT's 95% AI pilot failure claim was flawed. New McKinsey, Deloitte and Capgemini data shows why enterprise AI still stalls before measurable ROI."
     },
     {
-      "title": "Fewer tokens? Anyone else noticing the big dogs\u2019 AI efficiency push?",
-      "author": "WillfullyWorkable",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjx6oi/fewer_tokens_anyone_else_noticing_the_big_dogs_ai/",
-      "published": 1793409410.0,
+      "title": "Why is every AI interface still just a text box?",
+      "author": "ThrowawayFIRE2025",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/",
+      "published": 1793370655.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Seems like the big AI companies are putting more and more effort into making compute go further lately. stuff like: AWS making its Trainium chips and servers more energy efficient OpenAI pushing smaller mini/nano models for the everyday jobs. Google\u2019s TurboQuant research squeezing down the memory needed for cached context. makes sense tbh. When you\u2019re paying to run this stuff constantly, even small savings per request can add up. Better margins, room to make products cheaper, more work out of the hardware you\u2019ve already paid for. Getting more done within the same power budget seems like a pretty big incentive too. kinda wondering where this goes though. Do we actually end up using less compute overall, or does cheaper AI just give everyone an excuse to run way more of it?"
-    },
-    {
-      "title": "What Happened With Gemini?",
-      "author": "nationwideonyours",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/",
-      "published": 1793389362.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am a newbie to AI but have been using Gemini for some proceedings with legal and medical issues. So far, it hasn't been 100% accurate, but it has been mostly helpful and has helped me save a lot of time. Lately, I ask some questions and am getting very lame answers like; \"I can't answer that,\" or very short non-helpful answers. What have I walked into?"
-    },
-    {
-      "title": "Koboldcpp v1.124 released",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1xk1xvx/koboldcpp_v1124_released/",
-      "published": 1793424438.0,
-      "thumbnail": "https://external-preview.redd.it/hUWLbAUKAQHVD-wcgqe9quZFw7De2BcVAu94QbHG7KU.png?width=640&crop=smart&auto=webp&s=411462519b6bf838c493910ac0f765c13b475b30",
-      "external_url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124",
-      "site_name": "GitHub",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "description": "koboldcpp-1.124\n[ a e s t h e t i c . e d i t i o n ]\n\n  \n    \n    \n\n    kobo_music_vid.mp4\n    \n  \n\n  \n\n  \n\n\n\nNEW! - KoboldCpp has now integrated a small subset of popular models from audio.cpp by..."
-    },
-    {
-      "title": "Ollie will shut down on November 6, 2026 after building a privacy-focused family assistant",
-      "author": "andrewaltair",
-      "url": "https://www.reddit.com/r/artificial/comments/1xk4x2z/ollie_will_shut_down_on_november_6_2026_after/",
-      "published": 1793435690.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Ollie, a text-based family assistant, says its service will end on November 6, 2026. The company\u2019s farewell letter says users will receive a data export by text. Subscriptions to Ollie and Ollie for Meals will be canceled, with refunds for partial or unused months. The official FAQ describes a service that worked through iMessage or SMS, without an app download. Bill Lennon signed the farewell letter on behalf of Ollie. It says, \u201cThis isn\u2019t an easy letter to write,\u201d and thanks users for their support and encouragement during the company\u2019s journey. Ollie\u2019s official pages describe access to Google and Outlook calendars and email without storing account passwords, plus a no-training policy. Its public plans ranged from $0 Free to $100 Always-On, counted in messages from Ollie. The confirmed next step is to save the export when it arrives. Source: https://ollie.ai/farewell"
+      "description": "I get that it\u2019s flexible and easy, but is a disorganized pile of \u201cchats\u201d and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom UI\u2019s from scratch for any app you want to vibe code, but they can\u2019t give us a simple graphical interface with a few organization features? How about sorting past chats by topic, with a table of icons for each? If my chats tend to wander through different topics, how about a feature that automatically splits old chats into pieces organized by topic? How about a simple button to access memory features instead of burying them three-deep in obscure menus? This all seems like very basic stuff. Why doesn\u2019t it exist?"
     }
   ],
-  "fetched_at": "2026-10-31T08:40:58.763727+00:00"
+  "fetched_at": "2026-10-31T15:06:29.541652+00:00"
 }

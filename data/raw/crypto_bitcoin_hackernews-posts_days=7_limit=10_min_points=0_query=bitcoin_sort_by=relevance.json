@@ -89,6 +89,20 @@
       "site_name": "Decrypt"
     },
     {
+      "title": "Bitcoin Core discloses TCP out-of-memory vulnerability",
+      "url": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/",
+      "hn_url": "https://news.ycombinator.com/item?id=50316251",
+      "author": "torutofu",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-10-31T13:57:44Z",
+      "object_id": "50316251",
+      "image": "https://bitcoincore.org/assets/images/default-thumb.png",
+      "description": "CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems",
+      "favicon": "https://bitcoincore.org/assets/images/favicon.ico",
+      "site_name": "Bitcoin Core"
+    },
+    {
       "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
       "url": "https://github.com/ZKStamp/AgentWallet",
       "hn_url": "https://news.ycombinator.com/item?id=50301018",
@@ -129,23 +143,9 @@
       "description": "Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours, updated every 5 minutes, with a public track record of how often it was right.",
       "favicon": "https://btcforecaster.com/apple-touch-icon.png",
       "site_name": "BtcForecaster"
-    },
-    {
-      "title": "Show HN: Everything ever written into Bitcoin, decoded from the transactions",
-      "url": "https://writteninbitcoin.com/en",
-      "hn_url": "https://news.ycombinator.com/item?id=50272842",
-      "author": "DeclassFile",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-10-28T12:58:41Z",
-      "object_id": "50272842",
-      "image": "https://writteninbitcoin.com/og/page/en/home.png",
-      "description": "Explore messages, images, videos, PDF and audio written into Bitcoin. Search by date, source and format, or prepare your own Ordinals inscription.",
-      "favicon": "https://writteninbitcoin.com/apple-icon.png?apple-icon.36vbven18o3wj.png?dpl=w91",
-      "site_name": "Written in Bitcoin"
     }
   ],
-  "total_hits": 13,
+  "total_hits": 14,
   "has_metadata": true,
-  "fetched_at": "2026-10-31T08:40:58.719213+00:00"
+  "fetched_at": "2026-10-31T15:06:33.252000+00:00"
 }
