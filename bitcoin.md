@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-31T15:07:06.653744+00:00'
+updated: '2026-10-31T19:27:58.740283+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 31, 2026 at 15:07 UTC  
+**Last Updated:** October 31, 2026 at 19:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,399.30
+### $77,556.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -3.4%  
-**30d:** -8.4%  
-**90d:** +21.9%  
-**1y:** -29.6%  
+**24h:** +0.8%  
+**7d:** -3.2%  
+**30d:** -8.2%  
+**90d:** +22.2%  
+**1y:** -29.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1555.28B
+**Market Cap:** $1558.81B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.5%
 
 **All-Time Low:** $67.81
-+113973.1%
++114237.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin is back at it again](https://www.reddit.com/r/Bitcoin/comments/1xjtmps/bitcoin_is_back_at_it_again/)**
 
-16h ago
+20h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 First a little backstory. I was a victim of the FTX fallout. Still remember this clearly. Started with CZ saying it would sell its large portion of FTT holding. Also, there was an article about the balance sheet of Alameda Research (SBF's trading firm) being backed primarily by FTT token, the token FTX had created itself. And then.... the classic bank run. SBF assured us (hodlers) that everyone will be able to withdrawal and there would be no problems. I wasn't buying any of that bullshit and withdrew my cash/crypto instantly. The only asset I couldn't withdraw were the FTT tokens themselves, because I had staked them for the yield and discount on trading fees. And then withdrawals suddenly stopped after a day or so. Yes, CZ is saying your funds are "safu" - but not when EVERYBODY panics and withdraw their holdings at once. I guarantee you CZ is using a portion of your funds to generate yield - perhaps in commercial papers, investments, etc. This is what a bank run is, your bank has your money but it's in investments (illiquid). Just like the bank run scares we had back in 2022 - the banks have your money, but they would be taking a loss by selling HTM (held to maturity) securities by selling them prematurely (due to yields rising because of inflation). TLDR: Please don't take the risk and WITHDRAW immediately once it becomes available and keep your coins in your own wallet.
 
-17h ago
+21h ago
 
 ---
 
 **[The Binance hack is now being called the biggest bank heist in human history.](https://www.reddit.com/r/Bitcoin/comments/1xjrwlq/the_binance_hack_is_now_being_called_the_biggest/)**
 
-🔗 [news.sky.com](https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627) • 17h ago
+🔗 [news.sky.com](https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627) • 22h ago
 
 ---
 
@@ -107,7 +107,7 @@ I'm a 10+year BTC enthusiat and user, with deep knowledge of the value propositi
 
 **[Shout out to Binance for covering 100% costs on the ICBMs #FundsAreSAFU](https://www.reddit.com/r/Bitcoin/comments/1xjzsq0/shout_out_to_binance_for_covering_100_costs_on/)**
 
-11h ago
+15h ago
 
 ---
 
@@ -115,7 +115,7 @@ I'm a 10+year BTC enthusiat and user, with deep knowledge of the value propositi
 
 They dont understand it yet speak
 
-12h ago
+17h ago
 
 ---
 
@@ -131,7 +131,7 @@ On October 29, 2026, an attacker moved about $6.36 billion out of Binance wallet
 
 Why bitcoin still the most popular??
 
-10h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Why bitcoin still the most popular??
 
 A while back, I met a guy on Facebook Marketplace whose house had been hit by a tree. He had 30 solar panels rated at 300W each and needed them gone. I rented a U-Haul and bought them for $30 a panel. A friend of mine, Joe, works with forklift batteries. He told me batteries below about 60% usually get scrapped, even though they can still have plenty of life left. He gave me two 500Ah, 24V forklift batteries for free. That got the project rolling. I set up 15 of the panels at my house—about 4,500W of solar—with a 100A charge controller, the two forklift batteries, a 4,000W inverter, and a step-up transformer for 240V. In full sun, I can run one miner with no problem. The panels cost $450 total. The inverter was $400, the step-up transformer was $150, and the charge controller that finally worked was $500. The word finally is doing a lot of work there. I smoked about four charge controllers before I got it running. At roughly $500 each, my solar education was not exactly free. I also have a separate 24V bank made from 12V UPS batteries, with its own inverter. I switch over to that sometimes. I found some cracked-glass 500W panels for $10 each, too. Didn’t fix them. They still make around 400W after four years, because apparently they’re tougher than the charge controllers. I’ve also had a cable get hot enough to nearly catch fire and burned up a couple of inverters before I figured out what the system could handle. I’ve since upgraded the wiring, and the setup has been working great. I have a video of the whole thing. It started with a tree-damaged house, a U-Haul, free forklift batteries, and a questionable amount of confidence. Now I can run a Bitcoin miner on sunlight—and I only had to sacrifice four charge controllers to get there. —Nick Squires
 
-22h ago
+1d ago
 
 ---
 
@@ -157,21 +157,29 @@ A while back, I met a guy on Facebook Marketplace whose house had been hit by a 
 
 Crypto assets took a hit this week after Binance's $6.3 billion hack, but the sour sentiment should be short-lived, analysts say.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Prediction: Here's What a $1,000 Investment in Bitcoin Will Be Worth in 2030](https://www.theglobeandmail.com/investing/markets/stocks/COIN-Q/pressreleases/8571519/prediction-here-s-what-a-1-000-investment-in-bitcoin-will-be-worth-in-2030/)**
+**[Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered](https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered)**
 
-Detailed price information for Coinbase Global Cl A (COIN-Q) from The Globe and Mail including charting and trades.
-
-The Globe and Mail • 2h ago
+CoinDesk • 1h ago
 
 ---
 
-**[18 years in, what has Bitcoin truly done?](https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done)**
+**[Bitcoin Looks Like A 'Relative Dud' Against Gold And US Treasuries, Says Bloomberg's Mike McGlone](https://finance.yahoo.com/markets/crypto/articles/bitcoin-looks-relative-dud-against-164921773.html)**
 
-CoinDesk • 2h ago
+Mike McGlone said that Bitcoin's performance since 2021 has failed to justify its higher volatility.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Kevin O'Leary Says Bitcoin May Not 'Automatically' Rally Even If CLARITY Act Passes, Warns Midterms Could Create Washington 'Gridlock'](https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-says-bitcoin-may-180008281.html)**
+
+Kevin O’Leary said the midterm elections could influence the CLARITY Act’s prospects and the direction of U.S. cryptocurrency policy. He also weighed in on the price direction for Bitcoin. O’Leary took to X on Thursday and stated that a shift...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,11 +195,11 @@ Bloomberg • 2d ago
 
 ---
 
-**[Current price of Bitcoin for Oct. 30, 2026](https://fortune.com/article/price-of-bitcoin-10-30-2026/)**
+**[Prediction: Here's What a $1,000 Investment in Bitcoin Will Be Worth in 2030](https://www.fool.com/investing/2026/10/31/prediction-heres-what-a-1000-investment-in-crypto/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Even if Bitcoin's growth rate slows, it could still rank among the top-performing assets in the world.
 
-Fortune • 1d ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -201,27 +209,19 @@ Barron's • 1d ago
 
 ---
 
-**[Strategy Announces Third Quarter 2026 Financial Results](https://www.strategy.com/press/strategy-announces-third-quarter-2026-financial-results_10-29-2026)**
-
-October 29, 2026
-
-Strategy • 1d ago
-
----
-
 **[Mike Flaum: MSTR Performance "Massively" To The Upside During Next BTC Bull Run](https://bitcoinmagazine.com/videos/mike-flaum-mstr-performance-massively-to-the-upside-during-next-btc-bull-run)**
 
 Log Scale CEO Mike Flaum discusses Strategy's Stretch, daily dividends, BTC preferreds vs. Treasuries for retirees, and separating volatility from true risk.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
-**[Why Bitcoin Is Down Today](https://www.fool.com/investing/2026/10/30/why-bitcoin-is-down-today/)**
+**[Strategy's Bitcoin Per Share Falls 3.7%: Rapid Earnings Reaction](https://finance.yahoo.com/markets/crypto/articles/strategys-bitcoin-per-share-falls-210509463.html)**
 
-Hackers just drained $6.3 billion from Binance in the largest crypto theft on record, and while the exchange says it will cover every loss, it's another reminder that crypto is still more Wild West than most traditional investors are comfortable with.
+Strategy reported a $19.5 billion profit, but nearly all of it came from bitcoin’s price, not the business. Here’s why bitcoin per share is the number to watch, and why it’s shrinking.
 
-The Motley Fool • 20h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -247,7 +247,15 @@ A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
 **[Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can](https://news.ycombinator.com/item?id=50233756)**
 
-⬆️ 4 • 💬 1 • 5d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+⬆️ 4 • 💬 1 • 6d ago • [gizmodo.com](https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285)
+
+---
+
+**[Bitcoin Core discloses TCP out-of-memory vulnerability](https://news.ycombinator.com/item?id=50316251)**
+
+CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems
+
+⬆️ 4 • 💬 0 • 5h ago • [Bitcoin Core](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
 
 ---
 
@@ -271,15 +279,7 @@ Michael Saylor argues AI risks target crypto apps, not Bitcoin's ledger, compari
 
 The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.
 
-⬆️ 2 • 💬 1 • 3d ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
-
----
-
-**[Bitcoin Core discloses TCP out-of-memory vulnerability](https://news.ycombinator.com/item?id=50316251)**
-
-CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems
-
-⬆️ 2 • 💬 0 • 1h ago • [Bitcoin Core](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
+⬆️ 2 • 💬 1 • 4d ago • [Decrypt](https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank)
 
 ---
 
@@ -317,7 +317,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 6K • 👍 827 • 💬 22 • ⏱️ 58:57 • 2h ago
+👁️ 61K • 👍 2K • 💬 59 • ⏱️ 58:57 • 6h ago
 
 ---
 
@@ -327,37 +327,7 @@ Bitwise CIO Matt Hougan joins 'Fast Money' to talk the impact of the Binance hac
 
 📺 CNBC Television
 
-👁️ 16K • 👍 108 • 💬 68 • ⏱️ 3:44 • 16h ago
-
----
-
-**[The $6.3 Billion Hack That Exposed Crypto&#39;s Biggest Flaw](https://www.youtube.com/watch?v=yodHA7Wn7IE)**
-
-A reported $6.3 billion Binance hack has raised serious questions about who actually controls your money. Billions in crypto ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 916 • 💬 116 • ⏱️ 14:48 • 16h ago
-
----
-
-**[The Binance Hack Situation Got MUCH WORSE (crypto crash)](https://www.youtube.com/watch?v=iO4pYL1otX8)**
-
-Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 84K • 👍 2K • 💬 311 • ⏱️ 12:05 • 15h ago
-
----
-
-**[BITCOIN HOLDERS: PAY ATTENTION NOW...](https://www.youtube.com/watch?v=9VJcBN03mZM)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
-
-📺 Crypto Rover
-
-👁️ 14K • 👍 652 • 💬 28 • ⏱️ 10:36 • 9h ago
+👁️ 19K • 👍 120 • 💬 78 • ⏱️ 3:44 • 20h ago
 
 ---
 
@@ -367,7 +337,17 @@ Come to the 1st ITC Conference (Ticket prices go up Nov. 2nd!): https://www.benj
 
 📺 Benjamin Cowen
 
-👁️ 149K • 👍 4K • 💬 290 • ⏱️ 26:26 • 1d ago
+👁️ 161K • 👍 5K • 💬 300 • ⏱️ 26:26 • 1d ago
+
+---
+
+**[The $6.3 Billion Hack That Exposed Crypto&#39;s Biggest Flaw](https://www.youtube.com/watch?v=yodHA7Wn7IE)**
+
+A reported $6.3 billion Binance hack has raised serious questions about who actually controls your money. Billions in crypto ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 985 • 💬 119 • ⏱️ 14:48 • 20h ago
 
 ---
 
@@ -377,7 +357,27 @@ Binance, the world's largest cryptocurrency exchange, suspended withdrawals afte
 
 📺 CNN
 
-👁️ 808K • 👍 3K • 💬 2K • ⏱️ 12:05 • 23h ago
+👁️ 926K • 👍 4K • 💬 2K • ⏱️ 12:05 • 1d ago
+
+---
+
+**[The Binance Hack Situation Got MUCH WORSE (crypto crash)](https://www.youtube.com/watch?v=iO4pYL1otX8)**
+
+Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 95K • 👍 2K • 💬 341 • ⏱️ 12:05 • 20h ago
+
+---
+
+**[Adding Use Cases Is Bad For Bitcoin NGU](https://www.youtube.com/watch?v=k5Id319_uyE)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how adding additional, ...
+
+📺 Bitcoin University
+
+👁️ 3K • 👍 235 • 💬 78 • ⏱️ 6:22 • 5h ago
 
 ---
 
@@ -387,27 +387,27 @@ The Binance hack just flushed the crypto market, and Gareth Soloway went on a bu
 
 📺 Gareth Soloway
 
-👁️ 142K • 👍 4K • 💬 384 • ⏱️ 15:18 • 1d ago
+👁️ 146K • 👍 4K • 💬 395 • ⏱️ 15:18 • 1d ago
 
 ---
 
-**[BITCOIN CRASHES as Binance Confirms $6.3B BIGGEST HACK EVER](https://www.youtube.com/watch?v=DfJNgEbHcD4)**
+**[Why Bitcoin Is About to Dump??!!](https://www.youtube.com/watch?v=pZ1mBPTGqR0)**
 
-Bitcoin is falling after Binance confirmed what looks like the biggest crypto exchange hack ever, with an estimated $6.3 billion in ...
+Bitcoin is one bad headline away from losing $80K, and crypto has zero control over it. The floor is barely holding as ETF buyers ...
 
-📺 The Wolf Of All Streets
+📺 Coin Bureau
 
-👁️ 33K • 👍 655 • 💬 159 • ⏱️ 53:52 • 1d ago
+👁️ 2K • 👍 109 • 💬 9 • ⏱️ 1:10 • 3h ago
 
 ---
 
-**[Why Listening to Peter Schiff May Have Cost You 5 Bitcoin!](https://www.youtube.com/watch?v=7ZsaYwxLMlw)**
+**[Binance HACKED...Billions of Bitcoin and Crypto Lost](https://www.youtube.com/watch?v=fVlEM1k2IFU)**
 
-Peter Schiff has called for a Bitcoin crash 1439 times on X since 2017, according to one count, and Rustin runs the numbers on ...
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 79 • ⏱️ 16:53 • 2d ago
+👁️ 106K • 👍 2K • 💬 617 • ⏱️ 10:09 • 1d ago
 
 ---
 
