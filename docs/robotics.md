@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-30T22:48:53.129927+00:00'
+updated: '2026-10-31T02:03:43.781040+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 30, 2026 at 22:48 UTC  
+**Last Updated:** October 31, 2026 at 02:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -128,35 +128,13 @@ Google Cloud • 3d ago
 
 Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
 
-Crain's Detroit • 13h ago
+Crain's Detroit • 16h ago
 
 ---
 
-**[Rendezvous Robotics raises $20 million for self-assembling spacecraft](https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/)**
+**[Trump says imported robotics pose national security risks but does not impose tariffs](https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/)**
 
-SpaceNews • 1d ago
-
----
-
-**[The Woman Breathing Life Into Next Generation Home-Help Robots](https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots)**
-
-Bloomberg.com • 23h ago
-
----
-
-**[A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It](https://rocketlabcorp.com/updates/a-robotic-arm-that-can-walk-across-spacecraft-rocket-lab-built-it/)**
-
-Future space missions could soon get a big leg up — or arm, rather — thanks to robotics developed by Rocket Lab in collaboration with NASA.
-
-Rocket Lab • 22h ago
-
----
-
-**[US Army Tests Robots that Hunt Enemy Targets: 'We Showed What's Possible'](https://www.military.com/us-army-tests-robots-that-hunt-enemy-targets-we-showed-whats-possible)**
-
-The service tested four robotic vehicles during a military demonstration at Fort Knox in October.
-
-Military.com • 13h ago
+Reuters • 2d ago
 
 ---
 
@@ -164,7 +142,29 @@ Military.com • 13h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 6h ago
+IEEE Spectrum • 9h ago
+
+---
+
+**[The Woman Breathing Life Into Next Generation Home-Help Robots](https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[US Army Tests Robots that Hunt Enemy Targets: 'We Showed What's Possible'](https://www.military.com/us-army-tests-robots-that-hunt-enemy-targets-we-showed-whats-possible)**
+
+The service tested four robotic vehicles during a military demonstration at Fort Knox in October.
+
+Military.com • 17h ago
+
+---
+
+**[A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It](https://rocketlabcorp.com/updates/a-robotic-arm-that-can-walk-across-spacecraft-rocket-lab-built-it/)**
+
+Future space missions could soon get a big leg up — or arm, rather — thanks to robotics developed by Rocket Lab in collaboration with NASA.
+
+Rocket Lab • 1d ago
 
 ---
 
@@ -172,15 +172,7 @@ IEEE Spectrum • 6h ago
 
 Business combination expected to close on November 4, 2026, subject to Churchill XI shareholder approval; the combined company expected to begin trading on Nasdaq under ticker symbol “AGLT” on November 5, 2026. Agility is expected to be the only U.S. publicly listed pure-play humanoid robotics company with proven, active commercial deployments. SALEM, Ore. and NEW YORK, Oct. 30, 2026 (GLOBE NEWSWIRE) -- Agility Robotics, a leading humanoid robotics and physical AI company, and Churchill Capital
 
-Yahoo Finance • 11h ago
-
----
-
-**[The Humanoid Robot Market Could Be Worth More Than $7 Trillion. Here Are 3 Stocks to Own.](https://www.fool.com/investing/2026/10/29/the-humanoid-robot-market-could-be-worth-more-than/)**
-
-The industry is still in its infancy, but it's becoming clear which names are best positioned to lead it to full viability.
-
-The Motley Fool • 21h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -188,7 +180,15 @@ The Motley Fool • 21h ago
 
 Another Korah team currently sits at second in Canada and 14th in the world
 
-SooToday.com • 11h ago
+SooToday.com • 14h ago
+
+---
+
+**[The Humanoid Robot Market Could Be Worth More Than $7 Trillion. Here Are 3 Stocks to Own.](https://www.fool.com/investing/2026/10/29/the-humanoid-robot-market-could-be-worth-more-than/)**
+
+The industry is still in its infancy, but it's becoming clear which names are best positioned to lead it to full viability.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -196,33 +196,13 @@ SooToday.com • 11h ago
 
 ## YouTube Videos: "robotics"
 
-**[This Cute Robot Has TWO NVIDIA Computers Inside 🤯#nvidia #robot](https://www.youtube.com/watch?v=EaWBrZ4qL2M)**
-
-Meet Blue — this little robot is showing off some seriously impressive technology! NVIDIA's CEO demonstrates real-time ...
-
-📺 VisionX Lab
-
-👁️ 154K • 👍 4K • 💬 224 • ⏱️ 0:58 • 2d ago
-
----
-
 **[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
 
 Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
 
 📺 VisionX Lab
 
-👁️ 853K • 👍 24K • 💬 869 • ⏱️ 0:59 • 5d ago
-
----
-
-**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
-
-Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
-
-📺 VisionX Lab
-
-👁️ 309K • 👍 4K • 💬 382 • ⏱️ 0:11 • 5d ago
+👁️ 874K • 👍 25K • 💬 889 • ⏱️ 0:59 • 5d ago
 
 ---
 
@@ -232,7 +212,27 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai
 
 📺 InsideAI
 
-👁️ 2.4M • 👍 43K • 💬 4K • ⏱️ 15:05 • 5d ago
+👁️ 2.5M • 👍 44K • 💬 4K • ⏱️ 15:05 • 5d ago
+
+---
+
+**[This Cute Robot Has TWO NVIDIA Computers Inside 🤯#nvidia #robot](https://www.youtube.com/watch?v=EaWBrZ4qL2M)**
+
+Meet Blue — this little robot is showing off some seriously impressive technology! NVIDIA's CEO demonstrates real-time ...
+
+📺 VisionX Lab
+
+👁️ 157K • 👍 4K • 💬 227 • ⏱️ 0:58 • 2d ago
+
+---
+
+**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
+
+Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
+
+📺 VisionX Lab
+
+👁️ 311K • 👍 4K • 💬 383 • ⏱️ 0:11 • 5d ago
 
 ---
 
@@ -242,7 +242,7 @@ Tesla has started production of Optimus on a line in Fremont, and on their third
 
 📺 Ryan Shaw
 
-👁️ 128K • 👍 2K • 💬 182 • ⏱️ 37:43 • 6d ago
+👁️ 129K • 👍 2K • 💬 182 • ⏱️ 37:43 • 6d ago
 
 ---
 
@@ -252,17 +252,27 @@ What happens when a robot dog walks into the world of lions? In today's episode 
 
 📺 Wild Clash
 
-👁️ 1.2M • 👍 9K • 💬 639 • ⏱️ 8:40 • 6d ago
+👁️ 1.2M • 👍 9K • 💬 641 • ⏱️ 8:40 • 6d ago
 
 ---
 
-**[New Unitree H2X AI Robot Shocks The World With Superhuman Strength](https://www.youtube.com/watch?v=Uz5ktECdg6M)**
+**[King Kong Technology launches crab robot giveaway to gather real-world AI data #AI #Robotics](https://www.youtube.com/watch?v=4zoKT4Afxu4)**
 
-Unitree just dropped the H2X AI robot, and its terrifying strength is shocking the world. This humanoid bodyguard fights knife ...
+King Kong Technology launched a giveaway of 100 crab robots to create a global testing lab and collect physical movement data.
 
-📺 MACHINEKIND
+📺 AI Honeycove
 
-👁️ 21K • 👍 226 • 💬 34 • ⏱️ 13:25 • 6d ago
+👁️ 886 • 👍 25 • 💬 1 • ⏱️ 0:46 • 2h ago
+
+---
+
+**[Toyota&#39;s Walk Me: The chair that swaps wheels for robotic legs](https://www.youtube.com/watch?v=1ZD1w9FYABI)**
+
+Toyota's Walk Me, a four-legged mobility chair designed to climb stairs and help riders into cars, has won the Red Dot: Luminary ...
+
+📺 Interesting Engineering Explains
+
+👁️ 167K • 👍 3K • 💬 322 • ⏱️ 1:22 • 6d ago
 
 ---
 
@@ -274,23 +284,13 @@ Unitree just dropped the H2X AI robot, and its terrifying strength is shocking t
 
 ---
 
-**[Toyota&#39;s Walk Me: The chair that swaps wheels for robotic legs](https://www.youtube.com/watch?v=1ZD1w9FYABI)**
-
-Toyota's Walk Me, a four-legged mobility chair designed to climb stairs and help riders into cars, has won the Red Dot: Luminary ...
-
-📺 Interesting Engineering Explains
-
-👁️ 164K • 👍 3K • 💬 321 • ⏱️ 1:22 • 6d ago
-
----
-
 **[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
 
 Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
 
 📺 Jordan Blake
 
-👁️ 26K • 👍 826 • 💬 6 • ⏱️ 1:00 • 1d ago
+👁️ 26K • 👍 834 • 💬 6 • ⏱️ 1:00 • 2d ago
 
 ---
 
