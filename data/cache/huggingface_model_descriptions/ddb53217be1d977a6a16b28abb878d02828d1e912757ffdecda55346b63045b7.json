@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-31T15:07:05.648204+00:00",
+  "data": "Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general coding and specifically for generating interactive Three.js 3D scenes. It supports optional vision capabilities to create scenes from reference images.",
+  "model_id": "ccore/Qwen3.5-4B-3D-Coder"
+}

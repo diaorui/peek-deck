@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-31T15:06:33.251643+00:00",
+  "data": {
+    "url": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/",
+    "title": "CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems",
+    "description": "CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems",
+    "image": "https://bitcoincore.org/assets/images/default-thumb.png",
+    "favicon": "https://bitcoincore.org/assets/images/favicon.ico",
+    "site_name": "Bitcoin Core",
+    "author": null,
+    "keywords": null
+  }
+}
