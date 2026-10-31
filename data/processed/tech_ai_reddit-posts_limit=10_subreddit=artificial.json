@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom",
-      "author": "return2ozma",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/",
-      "published": 1793373941.0,
-      "thumbnail": "https://external-preview.redd.it/YHsujDfmZu1wNca6BlLWzj0HsHt32IQZ8arFpMo4mxo.jpeg?width=640&crop=smart&auto=webp&s=2fff2bec1d4a7ab1f3e05bd0d74b13281087b593",
-      "external_url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
-    },
-    {
       "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
@@ -22,6 +11,17 @@
       "site_name": "science.org",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom",
+      "author": "return2ozma",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/",
+      "published": 1793373941.0,
+      "thumbnail": "https://external-preview.redd.it/YHsujDfmZu1wNca6BlLWzj0HsHt32IQZ8arFpMo4mxo.jpeg?width=640&crop=smart&auto=webp&s=2fff2bec1d4a7ab1f3e05bd0d74b13281087b593",
+      "external_url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
     },
     {
       "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
@@ -35,15 +35,15 @@
       "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
     },
     {
-      "title": "MIT's claim that 95% of AI pilots fail - Is this true?",
-      "author": "killboy123",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/",
-      "published": 1793383803.0,
-      "thumbnail": "https://external-preview.redd.it/uE_JlHImIkg6ddVq_VKHRoiWk6IJf3LMJtqifGr0Vg4.jpeg?width=640&crop=smart&auto=webp&s=385dfb92e2427076ee4e77542c0cdd3d6a910179",
-      "external_url": "https://coffeecupai.com/blog/95-ai-failure-stat-one-year-later-junk/",
-      "site_name": "coffeecupai.com",
-      "favicon": "https://coffeecupai.com/assets/favicon.svg",
-      "description": "MIT's 95% AI pilot failure claim was flawed. New McKinsey, Deloitte and Capgemini data shows why enterprise AI still stalls before measurable ROI."
+      "title": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
+      "published": 1793389656.0,
+      "thumbnail": "https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&crop=smart&auto=webp&s=46878b5964fcad0e8127451cd7b6ee44a331ca80",
+      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1799740/apple-touch-icon.png",
+      "description": ">\"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\""
     },
     {
       "title": "Why is every AI interface still just a text box?",
@@ -57,26 +57,15 @@
       "description": "I get that it\u2019s flexible and easy, but is a disorganized pile of \u201cchats\u201d and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom UI\u2019s from scratch for any app you want to vibe code, but they can\u2019t give us a simple graphical interface with a few organization features? How about sorting past chats by topic, with a table of icons for each? If my chats tend to wander through different topics, how about a feature that automatically splits old chats into pieces organized by topic? How about a simple button to access memory features instead of burying them three-deep in obscure menus? This all seems like very basic stuff. Why doesn\u2019t it exist?"
     },
     {
-      "title": "What Happened With Gemini?",
-      "author": "nationwideonyours",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/",
-      "published": 1793389362.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am a newbie to AI but have been using Gemini for some proceedings with legal and medical issues. So far, it hasn't been 100% accurate, but it has been mostly helpful and has helped me save a lot of time. Lately, I ask some questions and am getting very lame answers like; \"I can't answer that,\" or very short non-helpful answers. What have I walked into?"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
-      "published": 1793389656.0,
-      "thumbnail": "https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&crop=smart&auto=webp&s=46878b5964fcad0e8127451cd7b6ee44a331ca80",
-      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1799740/apple-touch-icon.png",
-      "description": ">\"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\""
+      "title": "MIT's claim that 95% of AI pilots fail - Is this true?",
+      "author": "killboy123",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/",
+      "published": 1793383803.0,
+      "thumbnail": "https://external-preview.redd.it/uE_JlHImIkg6ddVq_VKHRoiWk6IJf3LMJtqifGr0Vg4.jpeg?width=640&crop=smart&auto=webp&s=385dfb92e2427076ee4e77542c0cdd3d6a910179",
+      "external_url": "https://coffeecupai.com/blog/95-ai-failure-stat-one-year-later-junk/",
+      "site_name": "coffeecupai.com",
+      "favicon": "https://coffeecupai.com/assets/favicon.svg",
+      "description": "MIT's 95% AI pilot failure claim was flawed. New McKinsey, Deloitte and Capgemini data shows why enterprise AI still stalls before measurable ROI."
     },
     {
       "title": "Fewer tokens? Anyone else noticing the big dogs\u2019 AI efficiency push?",
@@ -90,27 +79,38 @@
       "description": "Seems like the big AI companies are putting more and more effort into making compute go further lately. stuff like: AWS making its Trainium chips and servers more energy efficient OpenAI pushing smaller mini/nano models for the everyday jobs. Google\u2019s TurboQuant research squeezing down the memory needed for cached context. makes sense tbh. When you\u2019re paying to run this stuff constantly, even small savings per request can add up. Better margins, room to make products cheaper, more work out of the hardware you\u2019ve already paid for. Getting more done within the same power budget seems like a pretty big incentive too. kinda wondering where this goes though. Do we actually end up using less compute overall, or does cheaper AI just give everyone an excuse to run way more of it?"
     },
     {
-      "title": "AI agents said \u201cdone\u201d when nothing actually happened, and making them think harder didn\u2019t help",
-      "author": "TruthDeep8659",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjutvc/ai_agents_said_done_when_nothing_actually/",
-      "published": 1793403080.0,
-      "thumbnail": "https://preview.redd.it/7cgfcu91woyh1.png?width=640&crop=smart&auto=webp&s=e1cf7759733677a90ba29de7844abd4b39dd29a8",
+      "title": "What Happened With Gemini?",
+      "author": "nationwideonyours",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/",
+      "published": 1793389362.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I ran a small study on what AI agents do when a save says \u201csuccess\u201d but nothing actually changed. I used 20 airline customer service tasks from \u03c4-bench and tested Claude Sonnet 5.5, GPT-6.1 Sol and DeepSeek V4.1 Flash, each at low and high reasoning effort. Agents told the customer it was done in 97 of 118 failed saves 29 customers got a reservation number for a booking that didn\u2019t exist High effort caught 11, low effort caught 10, so basically no difference No agent ever went back to check if a save worked. Every catch was luck: a later step happened to show the booking If anyone's interested: Write-up: https://outsideengineer.substack.com/p/thinking-harder-doesnt-help-ai-catch Code and transcripts: https://github.com/brianna-rose05/thinking-harder-silent-failures"
+      "description": "I am a newbie to AI but have been using Gemini for some proceedings with legal and medical issues. So far, it hasn't been 100% accurate, but it has been mostly helpful and has helped me save a lot of time. Lately, I ask some questions and am getting very lame answers like; \"I can't answer that,\" or very short non-helpful answers. What have I walked into?"
     },
     {
-      "title": "Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!",
-      "author": "UREveryone",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/",
-      "published": 1793351429.0,
+      "title": "Koboldcpp v1.124 released",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1xk1xvx/koboldcpp_v1124_released/",
+      "published": 1793424438.0,
+      "thumbnail": "https://external-preview.redd.it/hUWLbAUKAQHVD-wcgqe9quZFw7De2BcVAu94QbHG7KU.png?width=640&crop=smart&auto=webp&s=411462519b6bf838c493910ac0f765c13b475b30",
+      "external_url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.124",
+      "site_name": "GitHub",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "description": "koboldcpp-1.124\n[ a e s t h e t i c . e d i t i o n ]\n\n  \n    \n    \n\n    kobo_music_vid.mp4\n    \n  \n\n  \n\n  \n\n\n\nNEW! - KoboldCpp has now integrated a small subset of popular models from audio.cpp by..."
+    },
+    {
+      "title": "Ollie will shut down on November 6, 2026 after building a privacy-focused family assistant",
+      "author": "andrewaltair",
+      "url": "https://www.reddit.com/r/artificial/comments/1xk4x2z/ollie_will_shut_down_on_november_6_2026_after/",
+      "published": 1793435690.0,
       "thumbnail": null,
-      "external_url": "https://muse.ai/s/how-to-use-ai-xyg6dxexr5xpxh9xu/QALF6v_VqhqFcgpqMi74UmMJhc8uenJJ7UqvSQu03Ho",
-      "site_name": "Muse",
-      "favicon": "https://muse.ai/favicon.ico",
-      "description": "Its just such a ridiculous idea to charge someone to teach them how to use a tool that can explain itself."
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Ollie, a text-based family assistant, says its service will end on November 6, 2026. The company\u2019s farewell letter says users will receive a data export by text. Subscriptions to Ollie and Ollie for Meals will be canceled, with refunds for partial or unused months. The official FAQ describes a service that worked through iMessage or SMS, without an app download. Bill Lennon signed the farewell letter on behalf of Ollie. It says, \u201cThis isn\u2019t an easy letter to write,\u201d and thanks users for their support and encouragement during the company\u2019s journey. Ollie\u2019s official pages describe access to Google and Outlook calendars and email without storing account passwords, plus a no-training policy. Its public plans ranged from $0 Free to $100 Always-On, counted in messages from Ollie. The confirmed next step is to save the export when it arrives. Source: https://ollie.ai/farewell"
     }
   ],
-  "fetched_at": "2026-10-31T02:03:08.990772+00:00"
+  "fetched_at": "2026-10-31T08:40:58.763727+00:00"
 }
