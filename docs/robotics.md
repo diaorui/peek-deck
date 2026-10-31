@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-31T08:41:29.055510+00:00'
+updated: '2026-10-31T15:07:06.663153+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 31, 2026 at 08:41 UTC  
+**Last Updated:** October 31, 2026 at 15:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello, Today we're doing a big release for Reachy Mini. It mainly contains three things: A hoverboard, to give Reachy Mini some much-needed mobility. I'm a big inverted pendulum fan and I absolutely love this one, sometimes I just do sit → stand up → sit → stand up on repeat because it's so smooth (in the demo above it isn't smooth as it hits the ground, but that was my fault, I messed up the IMU setup) A smartphone app, available on iOS and Android: no computer needed to interact with the robot anymore NFC tags, allowing for new angles of creative personalization (e.g. one hat = one personality) We hope you'll build great things with these new tools, learn stuff and have fun!
 
-1d ago
+2d ago
 
 ---
 
@@ -44,7 +44,7 @@ Hello, Today we're doing a big release for Reachy Mini. It mainly contains three
 
 https://pollen-robotics.com/reachy-mini/#level-up From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2115764335498965468
 
-1d ago
+2d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hey - in March I posted PhAIL here. We ran robot AI models on a real robot doing
 
 https://preview.redd.it/v0jg3tlh0fyh1.png?width=1672&format=png&auto=webp&s=d3413892cbe266c89f69d47960024d001e68f01a https://preview.redd.it/71xajvod1fyh1.png?width=1295&format=png&auto=webp&s=df05c6a061996500d77af66f921e3ff97a30b890 Hi everyone! A while ago, I shared the first version of my DIY unmanned surface vehicle, BN-USV. Since then, I've been working on a second version, and I wanted to share some of the design changes and the reasoning behind them. Here's the earlier V1 post for context: https://www.reddit.com/r/raspberry_pi/s/n3gdRr99w9 The first prototype taught me that getting a robot to work reliably on the water is quite different from testing individual components indoors. While the basic RC operation worked, the field test highlighted several areas that needed improvement, including heading estimation, control response, weight distribution, and access to the onboard electronics. For V2, I'm focusing on three major changes: 1. A modular hull design Instead of treating the hull as one integrated structure, I'm dividing it into replaceable sections. The goal is to make it easier to modify individual parts, experiment with different configurations, and repair damaged components without rebuilding the entire boat. https://preview.redd.it/ubz33w0s0fyh1.png?width=1920&format=png&auto=webp&s=4008bfe00ce855ac7d53927158995f7e42310c84 2. A distributed control architecture I'm redesigning the electronics around a main module and two propulsion modules connected through CAN communication. The Raspberry Pi 5 will handle higher-level processing, while ESP32-based controllers will manage lower-level control and safety functions. One important goal is for each propulsion module to respond safely to communication failures without depending entirely on the main computer. https://preview.redd.it/1ugqmvcu0fyh1.png?width=1920&format=png&auto=webp&s=e520f66d7c4bb1aa9a8541934f4c1980b69ed36d https://preview.redd.it/3xsxtvcu0fyh1.png?width=1920&format=png&auto=webp&s=13dfae9f0ded6d3736b04afb7cf4aefa8d62f843 3. Prioritizing reliability before autonomy Initially, I wanted to move quickly toward waypoint-based autonomous navigation. However, the first field test made it clear that reliable manual control, predictable steering behavior, and robust communication should come first. I'm now focusing on those fundamentals before moving further into autonomous navigation. V2 is still under development, so these are design goals rather than fully validated improvements. I'll continue sharing the development process, including the things that don't work as expected. The long-term goal is to make BN-USV a modular platform for marine robotics experiments, education, research, and custom applications. I'm developing BN-USV as part of BrillNova, with the aim of eventually making the hardware platform commercially available. I'm also sharing the software and development process publicly. I'd love to hear your thoughts: For those building outdoor robots, has modularity made maintenance and experimentation easier, or has it introduced more complexity than expected? Project links GitHub: https://github.com/Brillnova YouTube (development videos): https://www.youtube.com/@Brillnova Thanks for reading!
 
-1d ago
+2d ago
 
 ---
 
@@ -92,7 +92,7 @@ Mino's software stack is based on ROS 2. We both went to the ROS conference (ROS
 
 Lamp's first commit was on 24 March. October has been the busiest month since: 4,092 commits on the main development branch so far, more than double April, the previous high at 1,615. The two busiest weeks ever were the last two. In the last post I said the hardware stays as it is while we focus on production. That hasn't changed. Everything below is software, plus the work needed to build many lamps instead of one. 1. A way to program it Someone asked in the last thread whether you can buy the lamp and change it with Claude Code. There's now a documented path for that. docs/develop.md takes about 10 minutes: a fake lamp that runs on your laptop, so you don't need the hardware, Python and JavaScript SDKs, pairing, and lamp-mcp. Skills moved to format 2. You check a skill, push it, sign it with your own key, and share it. Lamp refuses a package that is unsigned, changed, or renamed. 2. Knowing who said what Lamp now ties each line to the face and voice that said it and keeps each person's memory separate. If you talk to it before it recognizes you, those lines are attached to you once it does. It only keeps what you said about yourself. Not its own words, not your questions. "Forget everything" now asks once and runs only on the same person's yes. Forgetting one specific thing went from 9 s to under 400 ms on a 10 MB memory store. How we trained our Lamp in the office 3. Camera permissions per skill A skill gets the camera image only after the owner allows that specific skill. Checking whether someone is in the room is a separate, smaller permission that doesn't include the image. Installing a skill by hand in place of a Store skill removes the permission. Onboarding also asks once whether Lamp may notice facial expressions, and stores only a yes. 4. Giving way to a hand Last time someone asked whether the STS3215s give real position feedback. They do, and Lamp now uses it to tell a push from a fault. If a joint is carried away from its goal, Lamp treats it as a hand, stops what it was doing, and doesn't look around again for 30 s unless asked. Onboarding has a step for this: hold the base, tilt the head, let go when told. If an arm strains three times, Lamp sits down, rests for 30 minutes, then gets back up. EDIT: I tested a demo build, this feature is still on local branches, not fully public on the repo yet 5. Skills don't touch hardware · New lamps calibrate their servos at the factory before the first run · A new Orange Pi image boots straight into setup · lampOS 0.0.4 and 0.0.5 shipped on 22 Oct, including a fix for a button that could get stuck in a held state · The Fusion 360 file for the current body is in the repo. 5. Smaller changes · Speech starts streaming within 400 ms of the first part of an answer · The evening glow stays at least one level below your own light · "Tap to talk" is now "Press to talk". Not Done Yet Naming two people in the same room, add-ons, and ignoring lines meant for someone else in a busy room are built but off by default until they pass on real lamps. Mood reading is at 39% on our internal tracker, and we don't count it as done. a fleet of Lamps
 
-2d ago
+3d ago
 
 ---
 
@@ -108,7 +108,7 @@ https://preview.redd.it/6luau7aazcyh1.jpeg?width=600&format=pjpg&auto=webp&s=358
 
 I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch arm, will π0.5 fit on a Jetson Orin Nano, has anyone trained GR00T N1.7 on an SO-101. The answers were scattered across docs, papers, Hub model cards and GitHub issues, so I put them in one table. https://caniembody.pages.dev It covers 24 robots and 21 policies (ACT, Diffusion Policy, SmolVLA, π0/π0.5, GR00T N1.7, X-VLA, OpenVLA-OFT and others). Every filled cell links to its source, with the date it was checked and the versions it applies to. 193 of the 504 robot-policy pairs have evidence so far. The rest are marked as having none, and I'm not guessing. A few things it does differently: - Each cell says what kind of evidence backs it: official docs, a public checkpoint, an issue thread, a paper. - "Partial" usually means someone trained it on that robot's data, but nobody has published a real-robot run. - Inference speeds always come with runtime, precision and camera count. SmolVLA on the same 8 GB Orin Nano measures under 1 Hz in PyTorch fp32 and over 5 Hz as split ONNX fp16. - The data is open (CC BY 4.0) with a JSON API, so you can use it in your own tools. I'd like to know which cells are wrong. If you've run one of these policies on one of these robots, especially if it failed, a link to a checkpoint, video or log is enough. Every cell has a "Dispute this cell" button that opens a pre-filled GitHub issue.
 
-1d ago
+2d ago
 
 ---
 
@@ -116,11 +116,9 @@ I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch 
 
 ## Google News: "robotics"
 
-**[​Factory robot maker opens Madison Heights HQ to get closer to Detroit automakers​](https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/)**
+**[Dream's seed, Foundry Robotics' Series A and Fragment's exit from stealth](https://www.axios.com/pro/supply-chain-deals/2026/10/31/supply-chain-deals-week-dream-foundry-robotics)**
 
-Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
-
-Crain's Detroit • 22h ago
+Axios • 2h ago
 
 ---
 
@@ -128,15 +126,41 @@ Crain's Detroit • 22h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 16h ago
+IEEE Spectrum • 22h ago
 
 ---
 
-**[Agility Robotics and Churchill Capital Corp XI Announce Expected Gross Capital Raise of Approximately $465 Million and Anticipated Closing of Business Combination](https://finance.yahoo.com/technology/ai/articles/agility-robotics-churchill-capital-corp-110000046.html)**
+**[Halloween robotics competition to take over Wayne High School](https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/)**
 
-Business combination expected to close on November 4, 2026, subject to Churchill XI shareholder approval; the combined company expected to begin trading on Nasdaq under ticker symbol “AGLT” on November 5, 2026. Agility is expected to be the only U.S. publicly listed pure-play humanoid robotics company with proven, active commercial deployments. SALEM, Ore. and NEW YORK, Oct. 30, 2026 (GLOBE NEWSWIRE) -- Agility Robotics, a leading humanoid robotics and physical AI company, and Churchill Capital
+WANE 15 • 17h ago
 
-Yahoo Finance • 21h ago
+---
+
+**[​Factory robot maker opens Madison Heights HQ to get closer to Detroit automakers​](https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/)**
+
+Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
+
+Crain's Detroit • 1d ago
+
+---
+
+**[Trump says imported robotics pose national security risks but does not impose tariffs](https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/)**
+
+Reuters • 2d ago
+
+---
+
+**[Ukraine's war robots keep soldiers out of danger, but humans still risk their lives to keep them running](https://www.yahoo.com/news/world/articles/ukraines-war-robots-keep-soldiers-101354313.html)**
+
+The point of Ukraine's growing robot fleet is to replace humans in dangerous areas, but their use still puts some soldiers in risky positions.
+
+Yahoo • 4h ago
+
+---
+
+**[High school students explore robotics, forensics and engineering at Ohio State Mansfield's Spooky STEAM Day](https://www.richlandsource.com/2026/10/31/high-school-students-explore-robotics-forensics-and-engineering-at-ohio-state-mansfields-spooky-steam-day/)**
+
+Richland Source • 1h ago
 
 ---
 
@@ -144,7 +168,7 @@ Yahoo Finance • 21h ago
 
 Another Korah team currently sits at second in Canada and 14th in the world
 
-SooToday.com • 21h ago
+SooToday.com • 1d ago
 
 ---
 
@@ -162,38 +186,6 @@ Barchart.com • 2d ago
 
 ---
 
-**[Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent](https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/)**
-
-Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent - SiliconANGLE
-
-SiliconANGLE • 14h ago
-
----
-
-**[Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure](https://www.genengnews.com/topics/artificial-intelligence/opentrons-raises-40m-in-series-e-to-expand-its-robotics-software-data-infrastructure/)**
-
-Plans include investing in AI-driven experimental execution, extending its automation capabilities, and expanding into new markets.
-
-Genetic Engineering and Biotechnology News • 13h ago
-
----
-
-**[Nucor invests in youth robotics to inspire future STEM leaders](https://norfolkdailynews.com/news/nucor-invests-in-youth-robotics-to-inspire-future-stem-leaders/article_a0aff69f-3331-486a-98c9-c0fdb0be230b.html)**
-
-Nucor is strengthening its commitment to youth robotics and STEM education through its support of the Northeast iHub and local robotics programs, helping students develop skills that can lead to
-
-The Norfolk Daily News • 18h ago
-
----
-
-**[STEM, robotics open house Nov. 17](https://www.winonapost.com/community/stem-robotics-open-house-nov-17/article_d5bf1d4a-920c-4fce-bb53-e75badbf10fa.html)**
-
-Local business leaders, community partners, and residents are invited to explore the connection between STEM education and Winona’s future workforce at Building the Future: STEM and Workforce Development Business and
-
-Winona Post • 11h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -204,37 +196,17 @@ Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! Fr
 
 📺 VisionX Lab
 
-👁️ 950K • 👍 28K • 💬 961 • ⏱️ 0:59 • 5d ago
+👁️ 1.1M • 👍 33K • 💬 1K • ⏱️ 0:59 • 5d ago
 
 ---
 
-**[AI agent builds itself a robot body, does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
+**[We let AI build itself a robot, it does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
 
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI as experts warned. Use code insideai at ...
 
 📺 InsideAI
 
 👁️ 2.5M • 👍 44K • 💬 4K • ⏱️ 15:05 • 5d ago
-
----
-
-**[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.youtube.com/watch?v=OzrF9T08D98)**
-
-NewsNation's Nancy Loo reports on the growing number of robots used at grocery stores to check inventory and restock items, ...
-
-📺 NewsNation
-
-👁️ 47K • 👍 400 • 💬 117 • ⏱️ 5:15 • 2d ago
-
----
-
-**[This Cute Robot Has TWO NVIDIA Computers Inside 🤯#nvidia #robot](https://www.youtube.com/watch?v=EaWBrZ4qL2M)**
-
-Meet Blue — this little robot is showing off some seriously impressive technology! NVIDIA's CEO demonstrates real-time ...
-
-📺 VisionX Lab
-
-👁️ 168K • 👍 5K • 💬 232 • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -244,7 +216,7 @@ Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-ed
 
 📺 VisionX Lab
 
-👁️ 315K • 👍 4K • 💬 384 • ⏱️ 0:11 • 5d ago
+👁️ 319K • 👍 4K • 💬 391 • ⏱️ 0:11 • 5d ago
 
 ---
 
@@ -254,17 +226,17 @@ Tesla has started production of Optimus on a line in Fremont, and on their third
 
 📺 Ryan Shaw
 
-👁️ 131K • 👍 2K • 💬 184 • ⏱️ 37:43 • 6d ago
+👁️ 136K • 👍 2K • 💬 189 • ⏱️ 37:43 • 6d ago
 
 ---
 
-**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
+**[Toyota&#39;s Walk Me: The chair that swaps wheels for robotic legs](https://www.youtube.com/watch?v=1ZD1w9FYABI)**
 
-Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
+Toyota's Walk Me, a four-legged mobility chair designed to climb stairs and help riders into cars, has won the Red Dot: Luminary ...
 
-📺 History Seeker
+📺 Interesting Engineering Explains
 
-👁️ 35K • 👍 836 • 💬 21 • ⏱️ 0:09 • 8h ago
+👁️ 182K • 👍 3K • 💬 348 • ⏱️ 1:22 • 6d ago
 
 ---
 
@@ -274,27 +246,47 @@ OpenAI is officially building its first humanoid robot, and Sam Altman has confi
 
 📺 MACHINEKIND
 
-👁️ 43K • 👍 591 • 💬 46 • ⏱️ 13:33 • 3d ago
+👁️ 44K • 👍 598 • 💬 47 • ⏱️ 13:33 • 3d ago
 
 ---
 
-**[FIRST LOOK! New ULTIMATE Fafnir &amp; ASTRA Robot &amp; OPHAN Titan | WR - War Robots](https://www.youtube.com/watch?v=WGETP_IJpAw)**
+**[China Humanoid Robot Dance: 110 Humanoid Robot Dance in Sync | WION](https://www.youtube.com/watch?v=PaumW4XuciE)**
 
-Buying D-Gems? Use code *BeefyWR* on WR Webshop — it helps support the channel:) https://wr.my.games/Beefster War ...
+China has showcased its growing robotics capabilities with 110 humanoid robots performing a synchronised dance routine.
 
-📺 Beefy
+📺 WION
 
-👁️ 17K • 👍 359 • 💬 192 • ⏱️ 6:34 • 18h ago
+👁️ 37K • 👍 121 • 💬 36 • ⏱️ 1:40 • 4d ago
 
 ---
 
-**[Truck mode to Robot mode！MM02 Magnificent Mecha Optimus Prime A/B version transformation.](https://www.youtube.com/watch?v=vtvu9TFfWMw)**
+**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
 
-Truck mode to Robot mode！MM02 Magnificent Mecha Optimus Prime A/B version transformation.
+NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
 
-📺 Maximals Heart
+📺 DPCcars
 
-👁️ 80K • 👍 2K • 💬 190 • ⏱️ 20:03 • 1d ago
+👁️ 94K • 👍 368 • 💬 60 • ⏱️ 4:22 • 5d ago
+
+---
+
+**[This $399 Robot Duck Made $4 Million in 5 Days 🦆🤖 #shorts #microduck](https://www.youtube.com/watch?v=bPAfu68p9yE)**
+
+This $399 robot duck made $4 million in 5 days! MicroDuck walks, plays football, roller skates, and gets back up when it falls.
+
+📺 Facts about
+
+👁️ 166K • 💬 53 • ⏱️ 0:29 • 6d ago
+
+---
+
+**[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
+
+Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
+
+📺 Jordan Blake
+
+👁️ 29K • 👍 865 • 💬 7 • ⏱️ 1:00 • 2d ago
 
 ---
 
