@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-31T22:44:02.098618+00:00",
+  "data": {
+    "url": "https://pluang.com/en/news-feed/ethereum-reorg-picu-penghentian-thorchain-tunda-rute-pencucian",
+    "title": "THORChain halts swaps after Ethereum glitch cau... | Pluang",
+    "description": "THORChain paused most cross-chain swaps after an Ethereum reorganization led to a user being refunded twice for a 10 ETH deposit. This emergency halt affected all users on those bridges, extending beyond the single account involved. Chainalysis linked the disrupted route to North Korean hackers laundering stolen Binance funds, meaning the pause also delayed illicit activity. The incident highlights risks in cross-chain protocols and temporarily slowed a major laundering operation.",
+    "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/8a8d09d17c6843c8bb2c05ccb155fc503e5723f8b198b26573d91746b8ce7dd0-en.webp",
+    "favicon": "https://image-cdn.pluang.com/web/icons/180.png",
+    "site_name": null,
+    "author": "Tokenpost",
+    "keywords": null
+  }
+}
