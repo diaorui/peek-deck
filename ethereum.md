@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-31T19:27:58.746545+00:00'
+updated: '2026-10-31T22:44:07.019841+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 31, 2026 at 19:27 UTC  
+**Last Updated:** October 31, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -3.2%  
-**30d:** -15.5%  
-**90d:** +21.2%  
-**1y:** -41.8%  
+**24h:** +0.6%  
+**7d:** -3.1%  
+**30d:** -15.4%  
+**90d:** +21.4%  
+**1y:** -41.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.23B
+**Market Cap:** $275.79B
 Rank #2
 
 **Circulating Supply:** 122,177,241 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.5%
+-54.4%
 
 **All-Time Low:** $0.43
-+520186.2%
++521250.9%
 
 ---
 
@@ -136,7 +136,7 @@ This is a repost from yesterdays Daily for better visibility. I made a thing tha
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 8d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 9d ago
 
 ---
 
@@ -178,7 +178,7 @@ TradingView • 1d ago
 
 Binance says "user funds are completely safe" as Unchained's own count shows about $3.5 billion left wallets Etherscan labels as Binance's, on Ethereum alone.
 
-unchainedcrypto.com • 1d ago
+unchainedcrypto.com • 2d ago
 
 ---
 
@@ -190,25 +190,27 @@ Decrypt • 1d ago
 
 ---
 
-**[How Hackers Stole $6.3 Billion From Binance in Minutes](https://gizmodo.com/how-hackers-stole-6-3-billion-from-binance-in-minutes-2000833158)**
+**[Ethereum leads stablecoins with 54.1% share; its tokenized stock market hits $827M amid rapid growth.](https://pluang.com/en/news-feed/ethereum-pimpin-stablecoin-saham-token-naik-170-persen)**
 
-Gizmodo • 1d ago
+Ethereum remains the dominant blockchain for stablecoins, accounting for about 54.1% of all stablecoins issued, totaling around $162.5 billion out of a $300 billion market. Its tokenized stock market has grown 170% year-over-year to approximately $827 million, though it still represents a small fraction compared to stablecoins. While Ethereum leads in stablecoin issuance, BNB Chain leads in tokenized equities, with the overall tokenized stock market surpassing $3 billion. Investors are watching whether tokenized stocks might follow the growth trajectory of stablecoins in the coming years.
 
----
-
-**[Binance Hack Drives Bitcoin Below $77,000, Ethereum, XRP, Dogecoin Also in the Red: Top Analyst Identifies Where to Buy the 'Dip' in the ‘Bloodbath' (UPDATED)](https://www.tradingview.com/news/benzinga:608f8ca51094b:0-binance-hack-drives-bitcoin-below-77-000-ethereum-xrp-dogecoin-also-in-the-red-top-analyst-identifies-where-to-buy-the-dip-in-the-bloodbath-updated/)**
-
-Editor’s Note: This story has been updated to include a comment from a Binance spokesperson.Leading cryptocurrencies tumbled on Thursday after news of a multi-billion-dollar hack targeting the Binance cryptocurrency exchange.Crypto Market Spooked by Binance HackBitcoin fell below $77,000, and Ether…
-
-TradingView • 1d ago
+Pluang • 2h ago
 
 ---
 
-**[EIP-7702 didn’t cause Binance hack, but may have amplified losses](https://www.tradingview.com/news/cointelegraph:9d267a38f094b:0-eip-7702-didn-t-cause-binance-hack-but-may-have-amplified-losses/)**
+**[THORChain halts swaps after Ethereum glitch cau...](https://pluang.com/en/news-feed/ethereum-reorg-picu-penghentian-thorchain-tunda-rute-pencucian)**
 
-Compromised signing systems likely enabled Binance’s $6.3 billion hack, while Ethereum’s EIP-7702 upgrade may have helped attackers bypass security checks, according to blockchain security firm Blockaid.Attackers could have stolen the funds without EIP-7702, Ido Ben-Natan, Blockaid’s co-founder and…
+THORChain paused most cross-chain swaps after an Ethereum reorganization led to a user being refunded twice for a 10 ETH deposit. This emergency halt affected all users on those bridges, extending beyond the single account involved. Chainalysis linked the disrupted route to North Korean hackers laundering stolen Binance funds, meaning the pause also delayed illicit activity. The incident highlights risks in cross-chain protocols and temporarily slowed a major laundering operation.
 
-TradingView • 1d ago
+Pluang • 4h ago
+
+---
+
+**[Bitcoin holds up better than Ethereum, XRP, and BNB after Binance hack triggers crypto market volatility.](https://pluang.com/en/news-feed/bitcoin-eth-xrp-bnb-tren-harga-berbeda-dampak-hack-binance)**
+
+Following the Binance hack, Bitcoin, Ethereum, XRP, and BNB all saw increased volatility with varying declines. Bitcoin showed resilience, dropping only 6.5% from its recent high and maintaining support around $76,000. BNB fell 14%, impacted by its Binance association but still stronger than Ethereum and XRP, which dropped 20.6% and 23% respectively, both falling below key support levels. The market now watches if these assets can regain lost ground amid ongoing uncertainty.
+
+Pluang • 2h ago
 
 ---
 
@@ -224,7 +226,7 @@ Fortune • 1d ago
 
 Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents.
 
-CryptoSlate • 2d ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -238,7 +240,25 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 70 • 💬 66 • ⏱️ 24:46 • 3h ago
+👁️ 4K • 👍 102 • 💬 75 • ⏱️ 24:46 • 6h ago
+
+---
+
+**[BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VJDHUa_4_ho)**
+
+BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 142 • 💬 88 • ⏱️ 20:04 • 2h ago
+
+---
+
+**[ETHEREUM AND XRP ARE GOING TO ZERO #xrp #crypto #ethereum](https://www.youtube.com/watch?v=xuuJ_ceKMiE)**
+
+📺 CryptoWendyO
+
+👁️ 1K • 👍 149 • 💬 7 • ⏱️ 1:14 • 1h ago
 
 ---
 
@@ -248,7 +268,7 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 2K • 💬 85 • ⏱️ 9:45 • 2d ago
+👁️ 73K • 👍 2K • 💬 85 • ⏱️ 9:45 • 2d ago
 
 ---
 
@@ -258,7 +278,7 @@ We analyse Ethereum on 30 October 2026 using Elliott Wave, with the blue zone at
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 188 • 💬 8 • ⏱️ 8:22 • 19h ago
+👁️ 8K • 👍 197 • 💬 9 • ⏱️ 8:22 • 22h ago
 
 ---
 
@@ -268,17 +288,7 @@ Im shocked that more people even over the last few years of being in the cryptoc
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 747 • 💬 197 • ⏱️ 30:56 • 2d ago
-
----
-
-**[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=THOtCuWYWKg)**
-
-Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators For Sale: https://tinyurl.com/tcindicatorstore Free ...
-
-📺 Trade Confident
-
-👁️ 641 • 👍 8 • 💬 1 • ⏱️ 3:53 • 2d ago
+👁️ 13K • 👍 748 • 💬 197 • ⏱️ 30:56 • 2d ago
 
 ---
 
@@ -292,13 +302,23 @@ Get the complete market edge with DataDash Pro — combining Nick's Dash Report 
 
 ---
 
+**[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=THOtCuWYWKg)**
+
+Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators For Sale: https://tinyurl.com/tcindicatorstore Free ...
+
+📺 Trade Confident
+
+👁️ 659 • 👍 9 • 💬 1 • ⏱️ 3:53 • 2d ago
+
+---
+
 **[ETHEREUM: The Man Who Burned Millions to Warn the World](https://www.youtube.com/watch?v=flfhQnw13_Q)**
 
 Try NMN (Anti-aging & NAD+): (BIGGEST DEAL OF THE YEAR BUY ONE GET ONE FREE STOREWIDE + FREE NMNPROMO ...
 
 📺 Hidden AmuraKa
 
-👁️ 25K • 👍 899 • 💬 232 • ⏱️ 39:04 • 20h ago
+👁️ 28K • 👍 963 • 💬 240 • ⏱️ 39:04 • 1d ago
 
 ---
 
@@ -308,27 +328,7 @@ WEEX - where my trade is placed (up to $10000+ in sign-up rewards) https://marze
 
 📺 Marzell Crypto
 
-👁️ 405 • 👍 14 • 💬 4 • ⏱️ 3:28 • 1d ago
-
----
-
-**[Tom Lee: The 100x Opportunity EVEN Bigger Than Bitcoin (Load Up In OCTOBER) 2026 Prediction](https://www.youtube.com/watch?v=9hTyZhyd4hY)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 73 • 💬 102 • ⏱️ 19:58 • 1d ago
-
----
-
-**[ETH False](https://www.youtube.com/watch?v=_HlQGMcQWhA)**
-
-Lecture 18 in Ryan O'Donnell's Graduate Computational Complexity course at Carnegie Mellon University.
-
-📺 Ryan O'Donnell
-
-👁️ 59K • 👍 738 • 💬 81 • ⏱️ 1:19:45 • 2d ago
+👁️ 413 • 👍 14 • 💬 4 • ⏱️ 3:28 • 1d ago
 
 ---
 
