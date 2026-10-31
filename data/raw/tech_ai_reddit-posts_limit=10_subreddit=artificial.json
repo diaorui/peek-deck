@@ -13,6 +13,39 @@
       "description": "Many game developers are reporting Claude's refusal to work on their own projects."
     },
     {
+      "title": "Dear Sam, My RAM Is None of Your Business.",
+      "author": "SuzannahB1001",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/",
+      "published": 1793484723.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Well, the last time I looked, how much RAM we have in our personal computers was still a democratic decision, not a decree from Silicon Valley. Next, Sam Altman will be telling us what we're allowed to have for breakfast. Or perhaps that's the big announcement on next week's podcast. Honestly, whatever happened to simply minding your own business?"
+    },
+    {
+      "title": "We have access to the most powerful AI in history, yet I sometimes have absolutely no idea what to do with it. Is that a lack of imagination?",
+      "author": "himmetozcan",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/",
+      "published": 1793484490.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This has been bothering me lately. I use AI extensively for software development, work, research, and everyday tasks. Tools like Claude, Codex, and GPT have become part of my daily routine. They've made me significantly more productive. But here's the weird part. Sometimes I finish everything I need to do, and I still have plenty of tokens, usage limits, and access to incredibly powerful models. And I just sit there thinking... now what? I literally have access to something resembling a team of brilliant engineers, researchers, and problem solvers, available almost 24/7. I could build something, explore some crazy idea, experiment with things that would've been impossible for a single person just a few years ago. But I can't think of anything particularly exciting to do with it. Meanwhile, I see people creating incredible things with the exact same tools. And it makes me question myself. Is my imagination limited? Are my ambitions too small? Have I become so accustomed to solving problems that already exist in my life that I've forgotten how to invent new possibilities? Or is this something much bigger? For most of human history, our ideas were constrained by our ability to execute them. Now that AI is dramatically reducing that constraint, maybe we're discovering that having the freedom to create almost anything doesn't necessarily mean knowing what you want to create. It's almost like being handed a superpower and realizing you have no idea what to use it for. I wonder how many people are experiencing this without even realizing it. Maybe the next great divide won't be between people who have access to AI and those who don't, but between people who can imagine what to do with it and those who can't. Does anyone else feel this strange frustration? When the technical limitations start disappearing, how do you figure out what is actually worth creating?"
+    },
+    {
+      "title": "Where the heck is Ilya?",
+      "author": "Guinean",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkkw6n/where_the_heck_is_ilya/",
+      "published": 1793479447.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Just my gut feeling says we need him participating in the discourse because\u2026 Gotta teach the AGI to love\u201d is his perspective and the only alignment strategy I feel like ultimately works. Ultimately I just can\u2019t see how we possibly control ASI, but if it can understand \u201clove\u201d perhaps we won\u2019t need to . I understand wanting to one shot safe superintelligence and be protective of his innovations but I almost worry if he stays too long in stealth he is not steering the future as much as he could by simply leveraging his brilliance and reputation in the public square. I just feel like the world needs him in the thick of it instead of hiding in a lab all the time. But I know nothing, and this is an unrefined intuition."
+    },
+    {
       "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
@@ -24,6 +57,17 @@
       "description": null
     },
     {
+      "title": "Really impressed with AI language translation",
+      "author": "hologram137",
+      "url": "https://www.reddit.com/r/artificial/comments/1xknbji/really_impressed_with_ai_language_translation/",
+      "published": 1793486112.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Normally I\u2019m on a mission to combat the hype and misinformation about LLMs and exaggerated or misleading statements about its abilities, but I was reading the documents that were released in the latest tranche of PURSUE files on the department of war government site, and in one folder there are a bunch of handwritten letters from the 40s and 50s written in cursive. I\u2019m a millennial so I can read them, but I came across one I just couldn\u2019t make out. So I uploaded it to Claude and asked it to translate the cursive. It translated it to Dutch, then to English! I had no idea it wasn\u2019t English because of the cursive. I know the translation is correct because the next letter was a typed reply in English and they corresponded perfectly. I placed the standard writing translation from Dutch cursive into DeepL which I considered one of the best translation apps out there, and it gave me the same translation, except the sentence structure was a bit more awkward in English than Claude\u2019s. I normally wouldn\u2019t use an LLM for translation because of the potential for error, but it seems that they\u2019ve really improved this. And I had no idea that the LLMs have been trained to read cursive, but that makes sense. I wouldn\u2019t be particularly impressed with the ability for LLMs to translate, we\u2019ve had translation software that has improved a ton over the years for a while now. I\u2019m making this post because I\u2019m really impressed with the translation of a not perfectly neat, handwritten cursive letter in a foreign language to standard English. You can\u2019t do that with translation apps. I wish these AI companies didn\u2019t focus so much on \u201cgeneral LLMs\u201d that are supposed to be able to do everything, the result is output barely acceptable in quality for most things, good at a few things they\u2019ve put more focus on like coding.They should have made specialized and dedicated tools that are designed to do one or two things extremely well, instead of chasing this pipe dream of real AI coming out of LLMs somehow. Because the potential for so much is there. I think that LLMs could translate language in a more natural way than standard translation apps, and there is still so much room for improvement in real-time speech translation. But I just wanted to share my discovery, I thought it was cool lol."
+    },
+    {
       "title": "Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom",
       "author": "return2ozma",
       "url": "https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/",
@@ -33,6 +77,17 @@
       "site_name": "NBC News",
       "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
       "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
+    },
+    {
+      "title": "Descartes' Demon Is Back, and This Time It's Targeting AI",
+      "author": "PostponeIdiocracy",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkmkdl/descartes_demon_is_back_and_this_time_its/",
+      "published": 1793483998.0,
+      "thumbnail": "https://external-preview.redd.it/ibW6WlN4WXOJwsFDtr5TOi5IEBa02FpTNEt_wBvH7i8.png?width=640&crop=smart&auto=webp&s=5e0d8b818bc03a59c04eb8e03b558de352c83b21",
+      "external_url": "https://link.springer.com/article/10.1007/s43681-026-01435-2",
+      "site_name": "link.springer.com",
+      "favicon": "https://link.springer.com/favicon.ico",
+      "description": null
     },
     {
       "title": "Would you trust an emergency alert written by AI?",
@@ -55,62 +110,7 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1799740/apple-touch-icon.png",
       "description": ">\"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\""
-    },
-    {
-      "title": "NYT: 'the lawmakers also signaled that if the Democrats retook the House in elections on Tuesday, the chamber was likely to shift away from its largely hands-off approach to artificial intelligence companies.'",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xk0sda/nyt_the_lawmakers_also_signaled_that_if_the/",
-      "published": 1793420481.0,
-      "thumbnail": "https://preview.redd.it/0glaxqzqbqyh1.jpeg?width=640&crop=smart&auto=webp&s=9ec5a7c4a7d6d03568debf9ab34c60e65c2903bb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Well, it was nice while it lasted. Hope China has fun taking the lead from the US. Would recommend starting on those Mandarin lessons. https://archive.is/NLYsy"
-    },
-    {
-      "title": "Ollie will shut down on November 6, 2026 after building a privacy-focused family assistant",
-      "author": "andrewaltair",
-      "url": "https://www.reddit.com/r/artificial/comments/1xk4x2z/ollie_will_shut_down_on_november_6_2026_after/",
-      "published": 1793435690.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Ollie, a text-based family assistant, says its service will end on November 6, 2026. The company\u2019s farewell letter says users will receive a data export by text. Subscriptions to Ollie and Ollie for Meals will be canceled, with refunds for partial or unused months. The official FAQ describes a service that worked through iMessage or SMS, without an app download. Bill Lennon signed the farewell letter on behalf of Ollie. It says, \u201cThis isn\u2019t an easy letter to write,\u201d and thanks users for their support and encouragement during the company\u2019s journey. Ollie\u2019s official pages describe access to Google and Outlook calendars and email without storing account passwords, plus a no-training policy. Its public plans ranged from $0 Free to $100 Always-On, counted in messages from Ollie. The confirmed next step is to save the export when it arrives. Source: https://ollie.ai/farewell"
-    },
-    {
-      "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
-      "author": "Naderium",
-      "url": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
-      "published": 1793349688.0,
-      "thumbnail": "https://external-preview.redd.it/qL1hVWnzZez8GZTHFLL1eTEvIzfaoBQUxnLUcY-mqco.jpeg?width=640&crop=smart&auto=webp&s=4988aab435f9a777c8fd0bbed8786b17f012c922",
-      "external_url": "https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
-    },
-    {
-      "title": "Using AI for Both Professional Work and Law School",
-      "author": "Final-Government-783",
-      "url": "https://www.reddit.com/r/artificial/comments/1xk4oz0/using_ai_for_both_professional_work_and_law_school/",
-      "published": 1793434779.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey, guys! Please be patient with this post. I am an incoming law student, and once school starts, I will be both a full-time employee and a Law Student. My job involves Banking and Finance; it relies heavily on financial calculations and accounting methods. My work requires continuous study of its scope, while Law School, I believe, would be self-explanatory. Therefore, I plan to subscribe to two AI platforms; my shortlist includes ChatGPT, Copilot, Gemini. Based on current pricing, I have a budget to subscribe to two AI tools. My reason for subscribing to two AI models is for checks and balances, and for both to make up for eachother's weakness and limitations. What I like about these three is: ChatGPT (Plus): In my experience using the free version, it has assisted me in my work, and when I was writing papers back when I was doing my Master's Degree. Also, the free version has provided me with useful information on my general inquiries on various subjects, including inquiries related to my job. My experience overall with ChatGPT is very satisfactory, and to think that I am only using the free version Copilot (Premium): Well, this will be included in my Microsoft plan, but let's focus on Copilot. I have had the same experience in copilot with ChatGPT, but Copilot does better when it assists me in building codes for R studio that is necessary for my work. I just describe copilot how my finished product should look like, and send him my working directories, then he will take care of the rest. This is where chatgpt falls short. Gemini (Google AI Pro): I honestly dont have any experience with this, but my colleagues who are experienced professionals told me that Gemini has assisted them in their studies. No further clarifications were asked. Nota Bene: Please do not come to the impression that I plan to use these AI tools to cheat. I have only, and will only, use these tools for guidance towards fruitful learning, and to assist me in expediting some of the process in my work and schooling. I have never, nor will I, ask AI to answer quizzes or exams for me, nor make it write my papers."
-    },
-    {
-      "title": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
-      "author": "miawallace1997",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkd5nv/academic_survey_employees_working_in_germany/",
-      "published": 1793460605.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5\u20137 minutes, and all responses will be used solely for academic research. \ud83d\udc49 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable\u2014the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!"
     }
   ],
-  "fetched_at": "2026-10-31T19:27:24.596214+00:00"
+  "fetched_at": "2026-10-31T22:43:44.377295+00:00"
 }
