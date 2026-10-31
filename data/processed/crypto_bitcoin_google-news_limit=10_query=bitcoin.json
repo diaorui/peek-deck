@@ -5,36 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Binance Hack Sparks Bitcoin Sell-Off, $1.6B In Liquidations: Exchange Uncovers \u2018Additional Points Of Breach\u2019",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenVLQkoyY3R3bzNXMlNMQ29yYnZpeW91VUl6cnpPR1JtSDMybVdiVE1qY2txdzU5ZXVrUEQ3NUFqaldEZlBjcXBORnlTR3BnMmhZQW40TU5GZ01DSEVaT0M0ZWg2dldzcENVSkhEU1RjVURrZWhsYmVpdmRraXRLZFNmTlJEVjRaYkxCUHZibzdyRkFpN3RBM1hLeko0UQ?oc=5",
-      "pub_date": 1793365960.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/binance-hack-sparks-bitcoin-sell-131240704.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/228e3e093125c321bf7c5e982e5fa2284517e3c98dd5cf55ad4bee1c4c9ca6d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fc0e3fb13dfc4c42f1ba48130bef5d8bf",
-      "description": "CoinGlass data showed that over $1.6 billion in crypto bets had been wiped out, with long positions accounting for $1.35 billion."
-    },
-    {
-      "headline": "Current price of Bitcoin for Oct. 30, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzeGNZdTE5WVV0b1lUeEFxc3FZWDBhbmlaekhfRXBGTnZqcVBfb2N2UDFyc0xNeHJXdmN1MmdZU05aREN3d0dwM1B6X01UMFREeWkxMmF2dFRzN0s2R0NMRHVFR2RXMmM?oc=5",
-      "pub_date": 1793378859.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-30.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzdzQwS0dqb1dybWtWM2lYY2lRNk9MTGFpUzEweU0xZTZldlVtQjc5TTc0SldxVUJza2QwSnRlRlhnSXBubUR4eklKbWJvMkZOT21RX1pPakMtelZiemlFZ2hPQUJFel8tMEhpYzMzcHdHZEF1RzEyekR1MA?oc=5",
-      "pub_date": 1793316115.0,
-      "article_url": "https://bitcoinmagazine.com/news/strategy-posts-record-operating-income",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-is-About-to-Have-More-Bitcoin-Than-BlackRocks-IBIT-.jpg",
-      "description": "Strategy reported record $20.91 billion in Q3 2026 operating income, driven by Bitcoin\u2019s rebound, despite declining revenue, negative year-to-date BTC yield, and continued pressure to fund preferred dividends."
-    },
-    {
       "headline": "Strategy Announces Third Quarter 2026 Financial Results",
       "source": "Strategy",
       "source_url": "https://www.strategy.com",
@@ -55,34 +25,74 @@
       "description": null
     },
     {
-      "headline": "Dear Abby: Bitcoin scam stole half a million dollars from our future. But I still want my Italian dream",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR05jN01wUy1Ia1pNcUU2d19FYXZWNFdrNkFMdFhVOE1yTVpwaU9vRW8wclhjOWhKQmlUY3R1UnExZE9Cc2RrOXZEQW5GdjVGNmpXeTBrZUczYzNkZTRqclRuUmVOYnJMVW1BN2QtY0M3bDBqdHEyS3U3dHFrLVFjcTJoS3VsQ2JDdWM3ckE4TXZHdnBlYVNiVWQ0Tmpfd2Rwczg5d3V5QXlRbFRhN2NiUzdoR3UyZWl1SUlSMnhtclBfeFFSN0RLTjR5ZExFQ1Y5M1Vfd21hRU5CQVg1eUJoeW1R0gH2AUFVX3lxTFBYSTZWXzdURUs0MmN1eXBiX3BhOV9KYy1VbjRLbmZBS3BtVnhSdEFLV3FpNTdja01SVWtKeFQxR2Z4UVp5S1pOU3MxUTBqRzdhcHQxaUhCWFBkWUpwWE8wMWJXcGpjNUR5WGROdGVCZ080ek9qUGh3SHBJNDh0dGF1OUhFX0VoYmlhdlpLVjlkNXk0a3ZkNmRFUFg4dDh3M1RXeXp3ZWdqLTlPeHVlUUpjeDQ3WGxfVVg5YTgyVUV1ZWFONHZOaGtuYUVPTmxWUlJXbnQ4LWxDaDdtV0wyNlRNN1JvcnlUbnBaQkVjRUx2Y3JTNlQ2Zw?oc=5",
-      "pub_date": 1793354400.0,
-      "article_url": "https://www.oregonlive.com/advice/2026/10/dear-abby-bitcoin-scam-stole-half-a-million-dollars-from-our-future-but-i-still-want-my-italian-dream.html",
+      "headline": "MSTR Stock: Strategy's Bitcoin Bazooka Is Back; What Now?",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVE5NmlHVU5sUm5aNEY4T08yRjloYkNGOGllYU1kVkN6Wm9UQUN5NzlxcGRLbW95YTV0UnkwOWtCS01RMHhKOUVLMFEwZENvc1ZzQXVNakNJSGVuZ09jYmp2MXVMUlVIT2lSVHZKUFdDdzltLTFEbU45YjJHY2tIVVF5SGpNZ2dPbWh5eTZHM1RiUkhORGY4Y0lTZ1JKV09nNU40eA?oc=5",
+      "pub_date": 1793305920.0,
+      "article_url": "https://www.investors.com/news/mstr-stock-strategy-strc-preferred-stock-daily-dividends-bitcoin-price/",
+      "image": "https://www.investors.com/wp-content/uploads/2025/11/Stock-strategy-BitcoinMrkt-adobe.jpg",
+      "description": "MSTR stock earnings today are a sideshow to the main event: Strategy's preferred stock is poised to regain par value, opening the door to big bitcoin buys."
+    },
+    {
+      "headline": "Bitcoin Drops on Binance Hack as Stock Selloff Also Weighs",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0NVZVAyRjB3SE5wZEVtS0dCaWcwdDJrcGczSElDR2l0QXpMV0N2UkN5MFkyMFUySzFUTTBwekx5UEY1d3V4NnZsZy1vTGwtNjhWUnVhMWxpYTBSVVIyeHp5RExWY3Fick9OZS14RWZYUkxPYkdtSFZkNHM5eWctOHFjOTVfaG1CdVlXX0pNdl9JMHcyRTNOTUdnTmdtd2VJbEZWcWJSSmhGeG5Zemc?oc=5",
+      "pub_date": 1793391712.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-drops-on-binance-hack-as-stock-selloff-also-weighs",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Plunge 4%: A Dip Worth Buying?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPei1zUnkzek9fcThYYnV3dG4tYXVITzkxS3ZCNUY2MWNVVkVxQVRqLVd3SnRwRVphMUtlZkVzOElmdzVsVDBvS2hPRWZYN05oT2s5OGk1TG1ILUxTdEtLTmhXSFQ0YzJ4U1VtS0xaZ0I4RlU2UHA1TVdYYW5rSlZUZXJOOWU0N1RtMHRlSmNFamFqZ2xzLXpFdU9UNWtiVU9TakFyZVVVUDlnTWM?oc=5",
-      "pub_date": 1793378383.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:43a4bbcb1094b:0-bitcoin-ethereum-xrp-plunge-4-a-dip-worth-buying/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 4% on the day as chart analyst Ali Martinez identifies key levels where investors could consider buying the dip.Can BTC Find Support At $73,000?In an X post on Oct. 30, Martinez noted that Bitcoin faced rejection afte\u2026"
+      "headline": "Bitcoin holds above $77,000 as Binance hack recovery takes shape",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdUVpal9JNmpCazZjRHNwNkVYXzY2U2h3QWd5WVJLLVl2WFJsY0hGTDctVWwzWWJnUXpIc0lLTDNUYUI0V3JJSE1tYUZWUzEyRnpYS2VXSkFJWmNsOXkzZzZsZVhtNmRVekpNdjhjdmlRZFMwLWxTMVBJYm9vNlZZUA?oc=5",
+      "pub_date": 1793427370.0,
+      "article_url": "https://uk.finance.yahoo.com/news/bitcoin-holds-above-77-000-061610983.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Investing.com -- Bitcoin traded slightly above $77,000 on Saturday as investors assessed fresh developments in the record $6.3 billion Binance hack, with Wall Street analysts suggesting the cryptocurrency\u2019s recent selloff may have created buying opportunities."
     },
     {
-      "headline": "Tyler Evans: Bitcoin ETF Flows Flipped From \u201cHighly Negative\u201d To \u201cStrong Accumulation\u201d",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2ZQX0xtcjlXamlsRko1bEoxZTJkbGh1MkxORGFIcEQzSzRwOUJCOXdvUjdieGd6SWZHT3pMMzBqTWxUNFFhMlhPeEVvb1pIOE1YMnB5MDVibDFua0dlMHc2UHFsbFpSTmhTLTRTS1daTW9pUUV1SlpmamZKdW52YWFHV2toMnFDbWFILWhGZkJ5SXpWcC0tV1lwSHhWc2VfWEJ1c1daY1dLTl9VcU9Xclo2bnM5b0k?oc=5",
-      "pub_date": 1793367075.0,
-      "article_url": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Tyler-Evans-Bitcoin-ETF-Flows-Flipped-From-Highly-Negative-to-Strong-Accumulation-.jpg",
-      "description": "Tyler Evans breaks down Bitcoin's post-bear setup: Fed policy, bond yields, surging ETF accumulation, and why U.S. midterms are pivotal heading into 2027."
+      "headline": "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5",
+      "pub_date": 1793262854.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Theoretical 30,000-qubit quantum machine threatens 6 million exposed bitcoin, researchers warn",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUplb0k5SFVvcUdGNXJ4N2pJLVBBcVM4YUo3YjJMVTZjdjlJN094cTNvUFlsZ1JXNWdnYmtRZUNnbTNWYjlNLUh0aXNpZEFDTndyYnR1TGtsVmhHUUpWNzN6N2ZRUUJaYVk3NDUtWHFkZmFfdWVXSXpRSy1UUlJFdkthbnRqek1PWXItd01FZVpqSDJHYWdFYjJHZE5WR2JYazJHOVZHbmdmQWJmTG1Ma1BnZ25VdFE?oc=5",
+      "pub_date": 1793282142.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Current price of Bitcoin for Oct. 30, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzeGNZdTE5WVV0b1lUeEFxc3FZWDBhbmlaekhfRXBGTnZqcVBfb2N2UDFyc0xNeHJXdmN1MmdZU05aREN3d0dwM1B6X01UMFREeWkxMmF2dFRzN0s2R0NMRHVFR2RXMmM?oc=5",
+      "pub_date": 1793382811.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-30.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Bitcoin\u2019s Q4 Selloff Could End Quickly, Analyst Says: \u2018This Is the Bottoming Window\u2019",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb0l1MUNmeHVrTnVtUnB4Q2stLUZSNm1OTmJ3OW1JOTM4NGl2VHIxNTM2MnZrVGwtYUg5QjNyTGhpMjlGWUtfZnJNcXdKQ1dFUFpfZkdER3lEMUo2a1ZmbGZRd3prSjFWRDZOYUtiTXlsd2FqcGlzTkhRTkhOS1lSMHpSNFdJM1hXYnYzSDA4T1diZWFoMlZ3R0hJamRtMTl6QXNVUFdocGN6VXlrV2JsSHQtaG5RaXo4aGRRbGExM3Z2UXdsbTB3dVBodTRxYW0wUGtFNHBR?oc=5",
+      "pub_date": 1793397607.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:4f8deab3e094b:0-bitcoin-s-q4-selloff-could-end-quickly-analyst-says-this-is-the-bottoming-window/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin\u2019s CRYPTO:BTCUSD current Q4 selloff could resolve quickly, analyst Benjamin Cowen says, pointing to historical patterns where similar drops ended within days or weeks.Why Cowen Sees Two Possible Paths From HereCowen said on his YouTube update on Friday that Bitcoin could play out one of two\u2026"
     },
     {
       "headline": "AI Price Prediction: Bitcoin Is 35% Below ATH. ChatGPT AI Says When It Could Get Back to $126,000",
@@ -93,18 +103,8 @@
       "article_url": "https://247wallst.com/investing/cryptocurrency/2026/10/29/ai-price-prediction-bitcoin-is-35-below-ath-chatgpt-ai-says-when-it-could-get-back-to-126000/",
       "image": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock-2174255197-huge-licensed-scaled.jpg",
       "description": "Bitcoin is 36% below its record high. ChatGPT AI forecasts October 2027 as the likeliest month to pass $126,000. Can it make it back?"
-    },
-    {
-      "headline": "Bitcoin Treasury Datavault AI Says It Can\u2019t Access Its BTC, Stock Tanks",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjJnT0p0eVhrT1o4VmhhaWtfbHowcmx0SnFzZVVYYWNsQ1VBcWJSQVJiZHkyTERldVp2WE9Zc1ozakdBNnRzTjgwaWNJMkFUblFGeE9uOXJ4US1KckFMdU1XNDRaSjRGc0YtVkl0eVdFWWZsY2dUSzA5UTMzblAwNUFwTUR1TlFoVzNkc3FB?oc=5",
-      "pub_date": 1793223962.0,
-      "article_url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-      "description": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-31T02:03:29.081223+00:00"
+  "fetched_at": "2026-10-31T08:41:14.854089+00:00"
 }
