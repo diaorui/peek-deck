@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-10-31T15:07:06.659881+00:00'
+updated: '2026-10-31T19:27:58.746545+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** October 31, 2026 at 15:07 UTC  
+**Last Updated:** October 31, 2026 at 19:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -3.7%  
-**30d:** -15.9%  
-**90d:** +20.7%  
-**1y:** -42.0%  
+**24h:** +0.7%  
+**7d:** -3.2%  
+**30d:** -15.5%  
+**90d:** +21.2%  
+**1y:** -41.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $274.32B
+**Market Cap:** $275.23B
 Rank #2
 
 **Circulating Supply:** 122,177,241 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.6%
+-54.5%
 
 **All-Time Low:** $0.43
-+518273.9%
++520186.2%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tickets and if anyone any single being can sponser or offer me that ticket please My profile is kidna ticket less i need that ticket 😭 FYI : I am a 3rd year Computer science engineering student at Mumbai University and ofc i have too many financial constraints to afford one
 
-5d ago
+6d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 7d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 8d ago
 
 ---
 
@@ -144,7 +144,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-8d ago
+9d ago
 
 ---
 
@@ -158,75 +158,73 @@ CoinDesk • 1d ago
 
 ---
 
+**[The Binance Hacker Now Holds More Than 420,000 ETH. Could Selling It Push Ethereum Below $2,000?](https://247wallst.com/investing/cryptocurrency/2026/10/30/the-binance-hacker-now-holds-more-than-420000-eth-could-selling-it-push-ethereum-below-2000/)**
+
+A hacker holding 420,000 stolen ETH has Ethereum traders watching $2,000. Here's why that stash alone probably won't get it there.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Plunge 4%: A Dip Worth Buying?](https://www.tradingview.com/news/benzinga:43a4bbcb1094b:0-bitcoin-ethereum-xrp-plunge-4-a-dip-worth-buying/)**
+
+Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 4% on the day as chart analyst Ali Martinez identifies key levels where investors could consider buying the dip.Can BTC Find Support At $73,000?In an X post on Oct. 30, Martinez noted that Bitcoin faced rejection afte…
+
+TradingView • 1d ago
+
+---
+
+**[Binance Says User Funds Are ‘Completely Safe’ After $3.5 Billion Drains From Its Hot Wallets - Unchained](https://unchainedcrypto.com/binance-says-user-funds-are-completely-safe-after-3-5-billion-drains-from-its-hot-wallets/)**
+
+Binance says "user funds are completely safe" as Unchained's own count shows about $3.5 billion left wallets Etherscan labels as Binance's, on Ethereum alone.
+
+unchainedcrypto.com • 1d ago
+
+---
+
+**[Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets](https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum)**
+
+Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.
+
+Decrypt • 1d ago
+
+---
+
+**[How Hackers Stole $6.3 Billion From Binance in Minutes](https://gizmodo.com/how-hackers-stole-6-3-billion-from-binance-in-minutes-2000833158)**
+
+Gizmodo • 1d ago
+
+---
+
+**[Binance Hack Drives Bitcoin Below $77,000, Ethereum, XRP, Dogecoin Also in the Red: Top Analyst Identifies Where to Buy the 'Dip' in the ‘Bloodbath' (UPDATED)](https://www.tradingview.com/news/benzinga:608f8ca51094b:0-binance-hack-drives-bitcoin-below-77-000-ethereum-xrp-dogecoin-also-in-the-red-top-analyst-identifies-where-to-buy-the-dip-in-the-bloodbath-updated/)**
+
+Editor’s Note: This story has been updated to include a comment from a Binance spokesperson.Leading cryptocurrencies tumbled on Thursday after news of a multi-billion-dollar hack targeting the Binance cryptocurrency exchange.Crypto Market Spooked by Binance HackBitcoin fell below $77,000, and Ether…
+
+TradingView • 1d ago
+
+---
+
+**[EIP-7702 didn’t cause Binance hack, but may have amplified losses](https://www.tradingview.com/news/cointelegraph:9d267a38f094b:0-eip-7702-didn-t-cause-binance-hack-but-may-have-amplified-losses/)**
+
+Compromised signing systems likely enabled Binance’s $6.3 billion hack, while Ethereum’s EIP-7702 upgrade may have helped attackers bypass security checks, according to blockchain security firm Blockaid.Attackers could have stolen the funds without EIP-7702, Ido Ben-Natan, Blockaid’s co-founder and…
+
+TradingView • 1d ago
+
+---
+
 **[Current price of Ethereum for MM-DD-YYYY](https://fortune.com/article/price-of-ethereum-10-30-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
+Fortune • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: What Could ETH Be Worth by 2028?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-could-eth-203043704.html)**
+**[Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint](https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/)**
 
-Ethereum sits more than 50% below its all-time high while JPMorgan moves onto its network, a major upgrade approaches, and ETF flows swing wildly. Whether ETH reclaims glory or revisits its June lows by 2028 depends on a fragile set of conditions finally falling into place.
+Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents.
 
-Yahoo Finance • 10d ago
-
----
-
-**[28 Ethereum ETFs (Plus Their Fees, Holdings and Promotions)](https://www.nerdwallet.com/investing/learn/ethereum-etfs)**
-
-The SEC has approved spot Ethereum ETFs. Here's what to know about them, and how they compare to pre-existing Ethereum strategy ETFs.
-
-NerdWallet • 3d ago
-
----
-
-**[What Is EIP-7702? Ethereum's Smart Account Feature Explained, and How to Stay Safe](https://hackernoon.com/what-is-eip-7702-ethereums-smart-account-feature-explained-and-how-to-stay-safe)**
-
-What is EIP-7702? Learn how Ethereum smart account delegation works, its security risks, and how to check and revoke permissions.
-
-HackerNoon • 8h ago
-
----
-
-**[Kinexys Brings JPM Coin Deposit Token to Ethereum](https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum)**
-
-JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains.
-
-J.P. Morgan • 12d ago
-
----
-
-**[TRON (TRX) Rose on the Day of the Binance Hack While Bitcoin, Ethereum and XRP Fell. What Is Holding It Up?](https://247wallst.com/investing/cryptocurrency/2026/10/30/tron-trx-rose-on-the-day-of-the-binance-hack-while-bitcoin-ethereum-and-xrp-fell-what-is-holding-it-up/)**
-
-TRON (TRX) rose by 0.8% as Bitcoin, Ethereum, and XRP fell after the Binance hack. What's keeping the TRX price up?
-
-24/7 Wall St. • 16h ago
-
----
-
-**[Crypto Market Loses $360 Billion in October as Solana, Ethereum Lead Losses](https://coinpedia.org/news/crypto-market-loses-360-billion-in-october-as-solana-ethereum-lead-losses/)**
-
-The cryptocurrency market lost around $360 billion in October as Bitcoin and major altcoins ended the month lower. Total market cap fell from $2.94
-
-Coinpedia • 4h ago
-
----
-
-**[Bitcoin and Ethereum Price Outlook After History’s Biggest Crypto Hacks](https://cryptonews.net/news/analytics/33681218/)**
-
-Bitcoin and Ethereum price movements remain under pressure following a series of major security incidents across the cryptocurrency industry.As of October 31, 2026, $BTC price currently
-
-Cryptonews.net • 2h ago
-
----
-
-**[Glamsterdam on Hoodi Postponed](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay)**
-
-The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
-
-ethereum.org • 8d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -234,13 +232,23 @@ ethereum.org • 8d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=XzjhafP0MXw)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 1K • 👍 70 • 💬 66 • ⏱️ 24:46 • 3h ago
+
+---
+
 **[Uh Oh, Robinhood CEO just said this about ethereum](https://www.youtube.com/watch?v=8vTreRje-UA)**
 
 Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 2K • 💬 84 • ⏱️ 9:45 • 2d ago
+👁️ 72K • 👍 2K • 💬 85 • ⏱️ 9:45 • 2d ago
 
 ---
 
@@ -250,7 +258,7 @@ We analyse Ethereum on 30 October 2026 using Elliott Wave, with the blue zone at
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 167 • 💬 8 • ⏱️ 8:22 • 15h ago
+👁️ 7K • 👍 188 • 💬 8 • ⏱️ 8:22 • 19h ago
 
 ---
 
@@ -260,17 +268,7 @@ Im shocked that more people even over the last few years of being in the cryptoc
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 746 • 💬 197 • ⏱️ 30:56 • 2d ago
-
----
-
-**[🚨 Bitcoin Is About to Make a BIG Move... Ethereum Could EXPLODE!](https://www.youtube.com/watch?v=AfMnB6H5BH0)**
-
-Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
-
-📺 DataDash
-
-👁️ 6K • 👍 166 • 💬 17 • ⏱️ 13:32 • 1d ago
+👁️ 13K • 👍 747 • 💬 197 • ⏱️ 30:56 • 2d ago
 
 ---
 
@@ -280,7 +278,27 @@ Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators Fo
 
 📺 Trade Confident
 
-👁️ 639 • 👍 8 • 💬 1 • ⏱️ 3:53 • 1d ago
+👁️ 641 • 👍 8 • 💬 1 • ⏱️ 3:53 • 2d ago
+
+---
+
+**[🚨 Bitcoin Is About to Make a BIG Move... Ethereum Could EXPLODE!](https://www.youtube.com/watch?v=AfMnB6H5BH0)**
+
+Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
+
+📺 DataDash
+
+👁️ 6K • 👍 167 • 💬 17 • ⏱️ 13:32 • 2d ago
+
+---
+
+**[ETHEREUM: The Man Who Burned Millions to Warn the World](https://www.youtube.com/watch?v=flfhQnw13_Q)**
+
+Try NMN (Anti-aging & NAD+): (BIGGEST DEAL OF THE YEAR BUY ONE GET ONE FREE STOREWIDE + FREE NMNPROMO ...
+
+📺 Hidden AmuraKa
+
+👁️ 25K • 👍 899 • 💬 232 • ⏱️ 39:04 • 20h ago
 
 ---
 
@@ -290,7 +308,7 @@ WEEX - where my trade is placed (up to $10000+ in sign-up rewards) https://marze
 
 📺 Marzell Crypto
 
-👁️ 380 • 👍 14 • 💬 4 • ⏱️ 3:28 • 1d ago
+👁️ 405 • 👍 14 • 💬 4 • ⏱️ 3:28 • 1d ago
 
 ---
 
@@ -300,27 +318,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 72 • 💬 102 • ⏱️ 19:58 • 1d ago
-
----
-
-**[Bitcoin Bottom In? BTC, ETH, Oil &amp; Silver Targets &amp; Invalidation (Oct 30, 2026)](https://www.youtube.com/watch?v=9QNy9Ya3sUg)**
-
-BTC, ETH, oil and silver technical analysis: the actual charts, my scenarios, price targets and invalidation levels. Recorded ...
-
-📺 YaBoySkey
-
-👁️ 559 • 👍 38 • 💬 15 • ⏱️ 13:06 • 14h ago
-
----
-
-**[Is Ethereum Heading Below $2,000?](https://www.youtube.com/watch?v=d4_ILykZ4uk)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 137 • 💬 11 • ⏱️ 7:47 • 1d ago
+👁️ 7K • 👍 73 • 💬 102 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -330,7 +328,7 @@ Lecture 18 in Ryan O'Donnell's Graduate Computational Complexity course at Carne
 
 📺 Ryan O'Donnell
 
-👁️ 57K • 👍 720 • 💬 76 • ⏱️ 1:19:45 • 1d ago
+👁️ 59K • 👍 738 • 💬 81 • ⏱️ 1:19:45 • 2d ago
 
 ---
 

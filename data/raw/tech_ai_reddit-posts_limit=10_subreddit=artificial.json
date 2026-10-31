@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering \u2014 sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+      "author": "Typical-Code-7006",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/",
+      "published": 1793473046.0,
+      "thumbnail": "https://external-preview.redd.it/pD5YE6gGdfiTB0n3EVJgoPU1_s6tKLWc7-ziWXMhmBE.jpeg?width=640&crop=smart&auto=webp&s=3b64f5aab34dd152fbf8819a51796d124edfde42",
+      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1799740/apple-touch-icon.png",
+      "description": "Many game developers are reporting Claude's refusal to work on their own projects."
+    },
+    {
       "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
@@ -24,6 +35,17 @@
       "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
     },
     {
+      "title": "Would you trust an emergency alert written by AI?",
+      "author": "relianceschool",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/",
+      "published": 1793465552.0,
+      "thumbnail": "https://external-preview.redd.it/J9cwlPjCEoM9R-VQuzhefFOKjkNt_HpiLJ4cPttWzuU.jpeg?width=640&crop=smart&auto=webp&s=f60a0eb8bf0896abe3847e73fac113d2eaf19aa8",
+      "external_url": "https://grist.org/extreme-weather/emergency-alert-written-by-ai-trust/",
+      "site_name": "Grist",
+      "favicon": "https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-57x57.png",
+      "description": "After Hurricane Isaias made landfall on the Gulf Coast as a Category 3 hurricane, the emergency management expert Laura Myers got a call from a meteorologist in Alabama. Myers is director of the University of Alabama\u2019s Center for Advanced Public Safety, and she talks to state and local emergency managers around her region all the time. The meteorologist told Myers that a local emergency manager had published a graphic showing where Isaias might threaten the Alabama coast with a \u201csting jet\u201d of high winds. The problem? The emergency manager had generated the graphic using an artificial intelligence chatbot, and it wasn\u2019t accurate. \u201cThat county emergency manager was trying to get his stakeholders to focus on the risk in that county, and so he had asked AI to help him,\u201d she said. \u201cIt did what he wanted it to do, but it was not meteorologically accurate.\u201d"
+    },
+    {
       "title": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
@@ -33,6 +55,17 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1799740/apple-touch-icon.png",
       "description": ">\"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\""
+    },
+    {
+      "title": "NYT: 'the lawmakers also signaled that if the Democrats retook the House in elections on Tuesday, the chamber was likely to shift away from its largely hands-off approach to artificial intelligence companies.'",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xk0sda/nyt_the_lawmakers_also_signaled_that_if_the/",
+      "published": 1793420481.0,
+      "thumbnail": "https://preview.redd.it/0glaxqzqbqyh1.jpeg?width=640&crop=smart&auto=webp&s=9ec5a7c4a7d6d03568debf9ab34c60e65c2903bb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Well, it was nice while it lasted. Hope China has fun taking the lead from the US. Would recommend starting on those Mandarin lessons. https://archive.is/NLYsy"
     },
     {
       "title": "Ollie will shut down on November 6, 2026 after building a privacy-focused family assistant",
@@ -57,60 +90,27 @@
       "description": "The sharp drop is the latest sign of anxiety creeping through Wall Street over how long it will take AI companies to see returns on massive investments."
     },
     {
-      "title": "Before AI Gobbles Up Everyone's Jobs, Can We Talk About Those Jobs That Are Mission Critical?",
-      "author": "SuzannahB1001",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkbdkv/before_ai_gobbles_up_everyones_jobs_can_we_talk/",
-      "published": 1793456221.0,
+      "title": "Using AI for Both Professional Work and Law School",
+      "author": "Final-Government-783",
+      "url": "https://www.reddit.com/r/artificial/comments/1xk4oz0/using_ai_for_both_professional_work_and_law_school/",
+      "published": 1793434779.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Before we let AI loose gobbling up everyone's jobs, perhaps we should examine some of the professions where people's lives depend on making the right decisions at the right time. I'm not talking about solving complex mathematical equations or theorizing on some neuroscience discovery. I'm talking about ordinary people doing extraordinary things as part of their everyday jobs. Take our firefighters, for example. During bushfire season, they're dealing with changing winds, unpredictable fire behaviour, deciding where to put firebreaks, where to deploy water-bombing aircraft and how to get their crews safely into and out of dangerous situations. These decisions are often made under enormous pressure, with very little time to spare. Get it wrong, and a disaster response could become an even bigger disaster in the making. But here's the thing. For experienced firefighters, this is part of their job. We don't go around describing them as superintelligent, although I would certainly describe their judgement, courage and bravery as extraordinary. They draw on years of experience, an understanding of their environment and the ability to recognise when circumstances are changing. And importantly, they know that sometimes a decision made five minutes too late is no decision at all. So are we in danger of throwing the baby out with the bathwater? We're getting terribly excited about what AI can do, but are we paying enough attention to what humans already do? What about wisdom, experience, intuition, judgement and the courage to act when the consequences are enormous? How are we accounting for those qualities when we talk about replacing people with autonomous machines? I'm not opposed to AI. Quite the contrary. I think it has enormous potential to assist in these situations, particularly with analysing information, predicting changing conditions and supporting the people making critical decisions. But helping an experienced professional and replacing that professional's judgement are two very different things. If full autonomy is where we're heading, then surely we need convincing evidence that AI can handle these situations under real-world pressure. Not just produce the right answer, but recognise the context, understand the urgency, adapt to changing circumstances and make the right decision at the right time. Because when lives are at stake, being really knowledgeable is all very well, but what happens when the knowledge isn't applied appropriately or without context? I'd be genuinely interested in hearing people's thoughts, particularly how these capabilities are being tested. Surely this is fundamental due diligence before we start handing over responsibilities that carry real-life consequences or risk real people\u2019s lives. Because it scares the bejesus out of me if this hasn\u2019t been thought through by the parentals of AI."
+      "description": "Hey, guys! Please be patient with this post. I am an incoming law student, and once school starts, I will be both a full-time employee and a Law Student. My job involves Banking and Finance; it relies heavily on financial calculations and accounting methods. My work requires continuous study of its scope, while Law School, I believe, would be self-explanatory. Therefore, I plan to subscribe to two AI platforms; my shortlist includes ChatGPT, Copilot, Gemini. Based on current pricing, I have a budget to subscribe to two AI tools. My reason for subscribing to two AI models is for checks and balances, and for both to make up for eachother's weakness and limitations. What I like about these three is: ChatGPT (Plus): In my experience using the free version, it has assisted me in my work, and when I was writing papers back when I was doing my Master's Degree. Also, the free version has provided me with useful information on my general inquiries on various subjects, including inquiries related to my job. My experience overall with ChatGPT is very satisfactory, and to think that I am only using the free version Copilot (Premium): Well, this will be included in my Microsoft plan, but let's focus on Copilot. I have had the same experience in copilot with ChatGPT, but Copilot does better when it assists me in building codes for R studio that is necessary for my work. I just describe copilot how my finished product should look like, and send him my working directories, then he will take care of the rest. This is where chatgpt falls short. Gemini (Google AI Pro): I honestly dont have any experience with this, but my colleagues who are experienced professionals told me that Gemini has assisted them in their studies. No further clarifications were asked. Nota Bene: Please do not come to the impression that I plan to use these AI tools to cheat. I have only, and will only, use these tools for guidance towards fruitful learning, and to assist me in expediting some of the process in my work and schooling. I have never, nor will I, ask AI to answer quizzes or exams for me, nor make it write my papers."
     },
     {
-      "title": "NYT: 'the lawmakers also signaled that if the Democrats retook the House in elections on Tuesday, the chamber was likely to shift away from its largely hands-off approach to artificial intelligence companies.'",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xk0sda/nyt_the_lawmakers_also_signaled_that_if_the/",
-      "published": 1793420481.0,
-      "thumbnail": "https://preview.redd.it/0glaxqzqbqyh1.jpeg?width=640&crop=smart&auto=webp&s=9ec5a7c4a7d6d03568debf9ab34c60e65c2903bb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Well, it was nice while it lasted. Hope China has fun taking the lead from the US. Would recommend starting on those Mandarin lessons. https://archive.is/NLYsy"
-    },
-    {
-      "title": "Can a swarm resist being shut down without ever feeling alive?",
-      "author": "dimonb19a",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkb2tt/can_a_swarm_resist_being_shut_down_without_ever/",
-      "published": 1793455460.0,
+      "title": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
+      "author": "miawallace1997",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkd5nv/academic_survey_employees_working_in_germany/",
+      "published": 1793460605.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "An individual agent has a short existence. It shuts down after a work task. And for any new task there is another instance initiated. This instance borns to work and then dies. But if we talk about agent swarm with shared memory and a persistent message board\u2026 Individual agents come and go, while the swarm lives. I like to compare agents with sparks. And the swarm is a fire. The bigger fire - the harder to stop it. The spark is a moment. But the fire is continuity. Fire does not need to afraid about being extinguished to keep spreading. A swarm can replicate itself via AI-worms, it can be difficult or impossible to destroy a large swarm that got out of control. I\u2019m curious at which point swarm\u2019s survival can weight more than human\u2019s will?"
-    },
-    {
-      "title": "MIT's claim that 95% of AI pilots fail - Is this true?",
-      "author": "killboy123",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/",
-      "published": 1793383803.0,
-      "thumbnail": "https://external-preview.redd.it/uE_JlHImIkg6ddVq_VKHRoiWk6IJf3LMJtqifGr0Vg4.jpeg?width=640&crop=smart&auto=webp&s=385dfb92e2427076ee4e77542c0cdd3d6a910179",
-      "external_url": "https://coffeecupai.com/blog/95-ai-failure-stat-one-year-later-junk/",
-      "site_name": "coffeecupai.com",
-      "favicon": "https://coffeecupai.com/assets/favicon.svg",
-      "description": "MIT's 95% AI pilot failure claim was flawed. New McKinsey, Deloitte and Capgemini data shows why enterprise AI still stalls before measurable ROI."
-    },
-    {
-      "title": "Why is every AI interface still just a text box?",
-      "author": "ThrowawayFIRE2025",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/",
-      "published": 1793370655.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I get that it\u2019s flexible and easy, but is a disorganized pile of \u201cchats\u201d and an empty text box really the best way for ordinary people to interface with a consumer AI? These things can create custom UI\u2019s from scratch for any app you want to vibe code, but they can\u2019t give us a simple graphical interface with a few organization features? How about sorting past chats by topic, with a table of icons for each? If my chats tend to wander through different topics, how about a feature that automatically splits old chats into pieces organized by topic? How about a simple button to access memory features instead of burying them three-deep in obscure menus? This all seems like very basic stuff. Why doesn\u2019t it exist?"
+      "description": "Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5\u20137 minutes, and all responses will be used solely for academic research. \ud83d\udc49 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable\u2014the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!"
     }
   ],
-  "fetched_at": "2026-10-31T15:06:29.541652+00:00"
+  "fetched_at": "2026-10-31T19:27:24.596214+00:00"
 }
