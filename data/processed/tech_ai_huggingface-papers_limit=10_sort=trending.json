@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 159,
+      "upvotes": 160,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 118601,
+      "github_stars": 118757,
       "project_page": null
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 8801,
+      "github_stars": 8851,
       "project_page": null
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 29876,
+      "github_stars": 29989,
       "project_page": null
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 2,
       "published_at": "2024-07-25T01:50:46.000Z",
       "github_repo": "https://github.com/modelscope/agentscope",
-      "github_stars": 34953,
+      "github_stars": 34980,
       "project_page": null
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 4,
       "published_at": "2025-08-22T06:35:56.000Z",
       "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 34955,
+      "github_stars": 34982,
       "project_page": null
     },
     {
@@ -145,11 +145,11 @@
       "hf_url": "https://huggingface.co/papers/2610.38342",
       "arxiv_url": "https://arxiv.org/abs/2610.38342",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.38342.png",
-      "upvotes": 9,
+      "upvotes": 10,
       "num_comments": 4,
       "published_at": "2026-10-27T20:00:00.000Z",
       "github_repo": "https://github.com/Prophetlab/Investor-Last-Exam",
-      "github_stars": 86,
+      "github_stars": 124,
       "project_page": "https://prophet-lab.cn/benchmarks/investor-last-exam-v1/"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 4,
       "published_at": "2026-10-15T20:00:00.000Z",
       "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
-      "github_stars": 2299,
+      "github_stars": 2312,
       "project_page": "https://openmoss.ai/MOSS-Image/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-10-31T02:03:19.443575+00:00"
+  "fetched_at": "2026-10-31T08:41:09.045984+00:00"
 }

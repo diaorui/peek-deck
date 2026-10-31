@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-31T02:03:43.781040+00:00'
+updated: '2026-10-31T08:41:29.055510+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** October 31, 2026 at 02:03 UTC  
+**Last Updated:** October 31, 2026 at 08:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -100,7 +100,7 @@ Lamp's first commit was on 24 March. October has been the busiest month since: 4
 
 https://preview.redd.it/6luau7aazcyh1.jpeg?width=600&format=pjpg&auto=webp&s=3582a461288ba2fa664509463ce37253f4275527 The OpenMV AE3 is a small camera that integrates both a global shutter sensor and an IMU. It can be programmed using Python scripts. I created a small script and modified firmware that sync the camera’s exposure with a specific IMU measurement, enabling better visual-inertial odometry as described in Nikolic et al., “A Synchronized Visual-Inertial Sensor System with FPGA Pre-Processing for Accurate Real-Time SLAM,” ICRA 2014. The firmware change adds a shared clock between the two CPU cores. The IMU runs at 208 Hz, and I trigger a camera exposure at every 10th IMU measurement, which gives about 20 FPS. Code: https://github.com/chobitsfan/openmv_img_imu Test flights with Kimera-VIO: Outdoor flight at 3 m/s: https://youtu.be/SfjxIDYtIhU Indoor flight: https://youtu.be/Cprryyq9pao
 
-1d ago
+2d ago
 
 ---
 
@@ -116,25 +116,11 @@ I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch 
 
 ## Google News: "robotics"
 
-**[Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud)**
-
-Discover how Gemini Robotics Embodied Reasoning 2 on Google Cloud brings advanced spatial-temporal reasoning and physical AI to enterprise robotics.
-
-Google Cloud • 3d ago
-
----
-
 **[​Factory robot maker opens Madison Heights HQ to get closer to Detroit automakers​](https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/)**
 
 Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
 
-Crain's Detroit • 16h ago
-
----
-
-**[Trump says imported robotics pose national security risks but does not impose tariffs](https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/)**
-
-Reuters • 2d ago
+Crain's Detroit • 22h ago
 
 ---
 
@@ -142,29 +128,7 @@ Reuters • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 9h ago
-
----
-
-**[The Woman Breathing Life Into Next Generation Home-Help Robots](https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[US Army Tests Robots that Hunt Enemy Targets: 'We Showed What's Possible'](https://www.military.com/us-army-tests-robots-that-hunt-enemy-targets-we-showed-whats-possible)**
-
-The service tested four robotic vehicles during a military demonstration at Fort Knox in October.
-
-Military.com • 17h ago
-
----
-
-**[A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It](https://rocketlabcorp.com/updates/a-robotic-arm-that-can-walk-across-spacecraft-rocket-lab-built-it/)**
-
-Future space missions could soon get a big leg up — or arm, rather — thanks to robotics developed by Rocket Lab in collaboration with NASA.
-
-Rocket Lab • 1d ago
+IEEE Spectrum • 16h ago
 
 ---
 
@@ -172,7 +136,7 @@ Rocket Lab • 1d ago
 
 Business combination expected to close on November 4, 2026, subject to Churchill XI shareholder approval; the combined company expected to begin trading on Nasdaq under ticker symbol “AGLT” on November 5, 2026. Agility is expected to be the only U.S. publicly listed pure-play humanoid robotics company with proven, active commercial deployments. SALEM, Ore. and NEW YORK, Oct. 30, 2026 (GLOBE NEWSWIRE) -- Agility Robotics, a leading humanoid robotics and physical AI company, and Churchill Capital
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -180,7 +144,7 @@ Yahoo Finance • 15h ago
 
 Another Korah team currently sits at second in Canada and 14th in the world
 
-SooToday.com • 14h ago
+SooToday.com • 21h ago
 
 ---
 
@@ -189,6 +153,44 @@ SooToday.com • 14h ago
 The industry is still in its infancy, but it's becoming clear which names are best positioned to lead it to full viability.
 
 The Motley Fool • 1d ago
+
+---
+
+**[The Rare Earths Powering the Next Wave of Robotics](https://www.barchart.com/story/news/8513371/the-rare-earths-powering-the-next-wave-of-robotics)**
+
+Barchart.com • 2d ago
+
+---
+
+**[Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent](https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/)**
+
+Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent - SiliconANGLE
+
+SiliconANGLE • 14h ago
+
+---
+
+**[Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure](https://www.genengnews.com/topics/artificial-intelligence/opentrons-raises-40m-in-series-e-to-expand-its-robotics-software-data-infrastructure/)**
+
+Plans include investing in AI-driven experimental execution, extending its automation capabilities, and expanding into new markets.
+
+Genetic Engineering and Biotechnology News • 13h ago
+
+---
+
+**[Nucor invests in youth robotics to inspire future STEM leaders](https://norfolkdailynews.com/news/nucor-invests-in-youth-robotics-to-inspire-future-stem-leaders/article_a0aff69f-3331-486a-98c9-c0fdb0be230b.html)**
+
+Nucor is strengthening its commitment to youth robotics and STEM education through its support of the Northeast iHub and local robotics programs, helping students develop skills that can lead to
+
+The Norfolk Daily News • 18h ago
+
+---
+
+**[STEM, robotics open house Nov. 17](https://www.winonapost.com/community/stem-robotics-open-house-nov-17/article_d5bf1d4a-920c-4fce-bb53-e75badbf10fa.html)**
+
+Local business leaders, community partners, and residents are invited to explore the connection between STEM education and Winona’s future workforce at Building the Future: STEM and Workforce Development Business and
+
+Winona Post • 11h ago
 
 ---
 
@@ -202,7 +204,7 @@ Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! Fr
 
 📺 VisionX Lab
 
-👁️ 874K • 👍 25K • 💬 889 • ⏱️ 0:59 • 5d ago
+👁️ 950K • 👍 28K • 💬 961 • ⏱️ 0:59 • 5d ago
 
 ---
 
@@ -216,13 +218,23 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai
 
 ---
 
+**[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.youtube.com/watch?v=OzrF9T08D98)**
+
+NewsNation's Nancy Loo reports on the growing number of robots used at grocery stores to check inventory and restock items, ...
+
+📺 NewsNation
+
+👁️ 47K • 👍 400 • 💬 117 • ⏱️ 5:15 • 2d ago
+
+---
+
 **[This Cute Robot Has TWO NVIDIA Computers Inside 🤯#nvidia #robot](https://www.youtube.com/watch?v=EaWBrZ4qL2M)**
 
 Meet Blue — this little robot is showing off some seriously impressive technology! NVIDIA's CEO demonstrates real-time ...
 
 📺 VisionX Lab
 
-👁️ 157K • 👍 4K • 💬 227 • ⏱️ 0:58 • 2d ago
+👁️ 168K • 👍 5K • 💬 232 • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -232,7 +244,7 @@ Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-ed
 
 📺 VisionX Lab
 
-👁️ 311K • 👍 4K • 💬 383 • ⏱️ 0:11 • 5d ago
+👁️ 315K • 👍 4K • 💬 384 • ⏱️ 0:11 • 5d ago
 
 ---
 
@@ -242,55 +254,47 @@ Tesla has started production of Optimus on a line in Fremont, and on their third
 
 📺 Ryan Shaw
 
-👁️ 129K • 👍 2K • 💬 182 • ⏱️ 37:43 • 6d ago
+👁️ 131K • 👍 2K • 💬 184 • ⏱️ 37:43 • 6d ago
 
 ---
 
-**[Robot Dog Entered the Lion&#39;s Territory... Big Mistake?!](https://www.youtube.com/watch?v=eZQo7KqJy8c)**
+**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
 
-What happens when a robot dog walks into the world of lions? In today's episode of Wild Clash, the mightiest and most curious ...
+Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
 
-📺 Wild Clash
+📺 History Seeker
 
-👁️ 1.2M • 👍 9K • 💬 641 • ⏱️ 8:40 • 6d ago
-
----
-
-**[King Kong Technology launches crab robot giveaway to gather real-world AI data #AI #Robotics](https://www.youtube.com/watch?v=4zoKT4Afxu4)**
-
-King Kong Technology launched a giveaway of 100 crab robots to create a global testing lab and collect physical movement data.
-
-📺 AI Honeycove
-
-👁️ 886 • 👍 25 • 💬 1 • ⏱️ 0:46 • 2h ago
+👁️ 35K • 👍 836 • 💬 21 • ⏱️ 0:09 • 8h ago
 
 ---
 
-**[Toyota&#39;s Walk Me: The chair that swaps wheels for robotic legs](https://www.youtube.com/watch?v=1ZD1w9FYABI)**
+**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
 
-Toyota's Walk Me, a four-legged mobility chair designed to climb stairs and help riders into cars, has won the Red Dot: Luminary ...
+OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
 
-📺 Interesting Engineering Explains
+📺 MACHINEKIND
 
-👁️ 167K • 👍 3K • 💬 322 • ⏱️ 1:22 • 6d ago
-
----
-
-**[Meet Unitree’s latest security robot: martial arts skills &amp; car-lifting strength](https://www.youtube.com/watch?v=Vez_mlGo7gE)**
-
-📺 ShanghaiEye魔都眼
-
-👁️ 113K • 👍 739 • 💬 337 • ⏱️ 1:01 • 6d ago
+👁️ 43K • 👍 591 • 💬 46 • ⏱️ 13:33 • 3d ago
 
 ---
 
-**[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
+**[FIRST LOOK! New ULTIMATE Fafnir &amp; ASTRA Robot &amp; OPHAN Titan | WR - War Robots](https://www.youtube.com/watch?v=WGETP_IJpAw)**
 
-Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
+Buying D-Gems? Use code *BeefyWR* on WR Webshop — it helps support the channel:) https://wr.my.games/Beefster War ...
 
-📺 Jordan Blake
+📺 Beefy
 
-👁️ 26K • 👍 834 • 💬 6 • ⏱️ 1:00 • 2d ago
+👁️ 17K • 👍 359 • 💬 192 • ⏱️ 6:34 • 18h ago
+
+---
+
+**[Truck mode to Robot mode！MM02 Magnificent Mecha Optimus Prime A/B version transformation.](https://www.youtube.com/watch?v=vtvu9TFfWMw)**
+
+Truck mode to Robot mode！MM02 Magnificent Mecha Optimus Prime A/B version transformation.
+
+📺 Maximals Heart
+
+👁️ 80K • 👍 2K • 💬 190 • ⏱️ 20:03 • 1d ago
 
 ---
 
