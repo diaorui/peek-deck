@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-01T01:54:49.430676+00:00'
+updated: '2026-11-01T08:49:09.979541+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 01, 2026 at 01:54 UTC  
+**Last Updated:** November 01, 2026 at 08:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -100,7 +100,7 @@ Lamp's first commit was on 24 March. October has been the busiest month since: 4
 
 https://preview.redd.it/6luau7aazcyh1.jpeg?width=600&format=pjpg&auto=webp&s=3582a461288ba2fa664509463ce37253f4275527 The OpenMV AE3 is a small camera that integrates both a global shutter sensor and an IMU. It can be programmed using Python scripts. I created a small script and modified firmware that sync the camera’s exposure with a specific IMU measurement, enabling better visual-inertial odometry as described in Nikolic et al., “A Synchronized Visual-Inertial Sensor System with FPGA Pre-Processing for Accurate Real-Time SLAM,” ICRA 2014. The firmware change adds a shared clock between the two CPU cores. The IMU runs at 208 Hz, and I trigger a camera exposure at every 10th IMU measurement, which gives about 20 FPS. Code: https://github.com/chobitsfan/openmv_img_imu Test flights with Kimera-VIO: Outdoor flight at 3 m/s: https://youtu.be/SfjxIDYtIhU Indoor flight: https://youtu.be/Cprryyq9pao
 
-2d ago
+3d ago
 
 ---
 
@@ -120,7 +120,7 @@ I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch 
 
 Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...
 
-The Information • 9h ago
+The Information • 16h ago
 
 ---
 
@@ -134,7 +134,7 @@ Barchart.com • 3d ago
 
 A startup called Neura is training humanoid robots in a "robogym" where the machines constantly practice and perform tasks.
 
-Futurism • 10h ago
+Futurism • 16h ago
 
 ---
 
@@ -146,9 +146,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Rendezvous Robotics raises $20 million for self-assembling spacecraft](https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/)**
+**[Betting on AI and robotics, Dyson opens Glilot flagship store in Israel](https://www.jpost.com/business-and-innovation/article-913442)**
 
-SpaceNews • 2d ago
+Dyson robotics engineer Guy Turner says the company’s next chapter will focus on machines that can sense, perceive, and solve problems independently
+
+The Jerusalem Post • 12m ago
 
 ---
 
@@ -163,6 +165,12 @@ Rocket Lab • 2d ago
 **[Halloween robotics competition to take over Wayne High School](https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/)**
 
 WANE 15 • 1d ago
+
+---
+
+**[Rendezvous Robotics raises $20 million for self-assembling spacecraft](https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/)**
+
+SpaceNews • 2d ago
 
 ---
 
@@ -182,14 +190,6 @@ Fast Company • 2d ago
 
 ---
 
-**[​Factory robot maker opens Madison Heights HQ to get closer to Detroit automakers​](https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/)**
-
-Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
-
-Crain's Detroit • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +200,7 @@ Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! Fr
 
 📺 VisionX Lab
 
-👁️ 1.2M • 👍 36K • 💬 1K • ⏱️ 0:59 • 6d ago
+👁️ 1.3M • 👍 38K • 💬 1K • ⏱️ 0:59 • 6d ago
 
 ---
 
@@ -210,7 +210,17 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI as experts warned.
 
 📺 InsideAI
 
-👁️ 2.5M • 👍 44K • 💬 4K • ⏱️ 15:05 • 6d ago
+👁️ 2.5M • 👍 44K • 💬 5K • ⏱️ 15:05 • 6d ago
+
+---
+
+**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
+
+Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
+
+📺 VisionX Lab
+
+👁️ 334K • 👍 4K • 💬 404 • ⏱️ 0:11 • 6d ago
 
 ---
 
@@ -220,7 +230,45 @@ OpenAI is officially building its first humanoid robot, and Sam Altman has confi
 
 📺 MACHINEKIND
 
-👁️ 47K • 👍 621 • 💬 48 • ⏱️ 13:33 • 4d ago
+👁️ 50K • 👍 631 • 💬 48 • ⏱️ 13:33 • 4d ago
+
+---
+
+**[Realbotix has unveiled a new line of highly realistic robots designed for daily human connection.](https://www.youtube.com/watch?v=AAJ7bXpuT28)**
+
+The newly announced Echo humanoid robots come in both tabletop and full body models, featuring proprietary silicone skin for ...
+
+📺 Cybernews
+
+👁️ 143K • 👍 177 • 💬 80 • ⏱️ 0:21 • 5d ago
+
+---
+
+**[Jensen Huang just did story time with robot ducks 🦆 #gtc2026 #microduck #jensenhuang #nvidia](https://www.youtube.com/watch?v=4R3hnmhx2Ps)**
+
+Nvidia boss Jensen Huang talks to robot ducks during Nvidia GTC Berlin 2026.
+
+📺 BWTV Prime
+
+👁️ 181K • 👍 3K • 💬 135 • ⏱️ 1:48 • 5d ago
+
+---
+
+**[Why you NEED a Robot pet from Japan 🤯](https://www.youtube.com/watch?v=5HlPdozqlQM)**
+
+📺 Megan and Ben
+
+👁️ 1.3M • 👍 22K • 💬 316 • ⏱️ 0:33 • 4d ago
+
+---
+
+**[Unitree H2-X: Kung Fu Robot Meets Reality 🤖 #robotics](https://www.youtube.com/watch?v=hTTC9md29YQ)**
+
+Unitree H2-X can pull off spectacular kung fu stunts. But what happens when the demo leaves the promo video? We break ...
+
+📺 Ashish Decodes
+
+👁️ 171K • 👍 5K • 💬 71 • ⏱️ 1:39 • 5d ago
 
 ---
 
@@ -234,63 +282,13 @@ NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelli
 
 ---
 
-**[Realbotix has unveiled a new line of highly realistic robots designed for daily human connection.](https://www.youtube.com/watch?v=AAJ7bXpuT28)**
+**[Humanoid robot spotted in NYC sparks curiosity, concern](https://www.youtube.com/watch?v=qjRriXk9i7U)**
 
-The newly announced Echo humanoid robots come in both tabletop and full body models, featuring proprietary silicone skin for ...
+A humanoid robot was spotted in Brooklyn over the weekend, sparking both curiosity and concern as it took a stroll and posed for ...
 
-📺 Cybernews
+📺 CBS New York
 
-👁️ 144K • 👍 177 • 💬 79 • ⏱️ 0:21 • 4d ago
-
----
-
-**[Jensen Huang just did story time with robot ducks 🦆 #gtc2026 #microduck #jensenhuang #nvidia](https://www.youtube.com/watch?v=4R3hnmhx2Ps)**
-
-Nvidia boss Jensen Huang talks to robot ducks during Nvidia GTC Berlin 2026.
-
-📺 BWTV Prime
-
-👁️ 175K • 👍 3K • 💬 133 • ⏱️ 1:48 • 4d ago
-
----
-
-**[China Sets New Guinness World Record as 110 Humanoid Robots Dance in Perfect Synchronization | AI1B](https://www.youtube.com/watch?v=y-Iy1AsIM9I)**
-
-China has set a new Guinness World Record as 110 full-size humanoid robots performed synchronized dance routines in Jinan, ...
-
-📺 DRM News
-
-👁️ 72K • 👍 207 • 💬 82 • ⏱️ 1:21 • 5d ago
-
----
-
-**[Unitree H2-X: Kung Fu Robot Meets Reality 🤖 #robotics](https://www.youtube.com/watch?v=hTTC9md29YQ)**
-
-Unitree H2-X can pull off spectacular kung fu stunts. But what happens when the demo leaves the promo video? We break ...
-
-📺 Ashish Decodes
-
-👁️ 164K • 👍 4K • 💬 69 • ⏱️ 1:39 • 5d ago
-
----
-
-**[Microducks Stole NVIDIA’s Show](https://www.youtube.com/watch?v=cgOZPijdl7w)**
-
-Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his commands... mostly Microduck is a ...
-
-📺 Techy or Not
-
-👁️ 35K • 👍 1K • 💬 8 • ⏱️ 1:46 • 6d ago
-
----
-
-**[Tesla Just Started Building Optimus Humanoid Robots For Real](https://www.youtube.com/watch?v=K0bF5o_3Qq8)**
-
-Tesla Just Started Building Optimus Humanoid Robots For Real Tesla has officially kicked off early production of its Optimus ...
-
-📺 The Electric Viking
-
-👁️ 71K • 👍 1K • 💬 245 • ⏱️ 4:39 • 4d ago
+👁️ 19K • 👍 122 • 💬 46 • ⏱️ 1:48 • 5d ago
 
 ---
 

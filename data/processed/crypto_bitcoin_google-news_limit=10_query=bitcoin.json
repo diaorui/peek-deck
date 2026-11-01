@@ -5,34 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin, digital assets tumble as Binance says $6.3 billion impacted in suspected record crypto hack",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2UxWkZ6bE9JSWJzdHlMUTE4aW04WUlETVFWQ0xjZGF0WXVwbm53RktXclJVdWFzY1ZyV3dXWUVjTTZudXMyZ0w2LVFUV3NMam1LNTNNZldRNXFHUTNQVkpIV1BJZ24wOHd2QjR0OE9WZU90UURsMTB1REV2Uy12Zl9HWGZRU3hWdzVlWnJmd0t6c09aVW9uMGwyNkdKZTJRMUZEZWJndklncXhHV3ZvNVd6UjdCbFAwdUsyd3lzUE9BQkEta0F0V284ZXRxdzBYTkk1aWRRRQ?oc=5",
-      "pub_date": 1793349246.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0069c0619791d183862be783732c96cf499d36194994a52ecc9386eb173fdcb6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F62a91bab-02e3-4886-97cb-847f58654c8e",
-      "description": "Crypto asset prices declined on Friday after a hack on Binance impacted $6.3 billion in funds."
+      "headline": "Why bitcoin held up better after the record Binance hack",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BVTNTUE5pZ2JEMjNpbGdNLWk2bWtKRmdsOWk0UnIxM19xcTZJOFdpQTRHUUtIY0w0N2lnSk5jclRzbTMzaFF2QlZpZmd5bU0xMmwxVFY1dmNtbXVUQzh4MW5pTFM4dzBOcHlWYkdLUE_SAXZBVV95cUxOd2xaRHdBVkgycHg0eTBYRE9DdGR5Z3I3M3p3SG9pbUR3THRPNEhVRGstaXZlQ3VQX1BRUFRrQWY2WXdkTjdlMENFNTZkVFVKOVlJOGxlRm9vLWZZOHh2c2w1aEZEdWZVRHc2YVFZRVBCWGYyY3d3?oc=5",
+      "pub_date": 1793382842.0,
+      "article_url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108484198-1793330361900-gettyimages-2206279872-AA_25032025_2144027.jpeg?v=1793379056&w=1920&h=1080",
+      "description": "Bitcoin was trading down about 4% on Friday afternoon, less than a day after the biggest crypto hack in history."
     },
     {
-      "headline": "Why the Tokenization Boom May Be a Signal to Buy Bitcoin",
+      "headline": "J.P. Morgan Just Made a Bold Prediction About Bitcoin. Should You Buy It?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1JrbEE0QnB5VFM4VnlVSzB2SzZaU3VrZDhyN1J5alQ2RjNMN3QyM2ZBVGhQSG9zWkhSZGpHNUJUc05sUnJWVko2VkdsWXBHSnI2czZ2bTQ4X3JNa3ItQ21HQXZuMkJWWHNzeEUxTDl5NHBnZjY5RVBnWUpWWVBJUnZwc2Zhdw?oc=5",
-      "pub_date": 1793491200.0,
-      "article_url": "https://finance.yahoo.com/video/why-tokenization-boom-may-signal-000044911.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d684fba2c8f7c9428c61f80e22c2873bd6a14f02031565a5bb05c4b2f8dde82c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2Ff647dff3e2a3d1b9b7246e8cb2ad5045.png",
-      "description": "Alex Thorn says every \u201cblockchain, not Bitcoin\u201d era has been a great time to buy BTC, and today\u2019s tokenization boom looks like the same pendulum swing."
-    },
-    {
-      "headline": "META_TITLE_QUOTE",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Hb1I1SUt3MWw0X01vaXRWc1JzajJ2QjJQcEFaenhWM2ZhM0lEZ1hSalpsMDFKVF9NUkdGUG1mWjAtb0ktbTFCQURqNE5MNXFCTHc?oc=5",
-      "pub_date": 1793439791.0,
-      "article_url": "https://finance.yahoo.com/quote/BTC-USD/",
-      "image": "https://pinhole.finance.yahoo.com/chart/BTC-USD/__screenshot",
-      "description": "Find the live Bitcoin USD (BTC-USD) price, history, news and other vital information to help with your cryptocurrency trading and investing."
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0ZNdUp5MGxmQ2tjbUF1VGFkNUp2azNLZU55cENIVWZCcENVVl9LdTRHUlJoTm5XRkVjdkIwWWFSR01kMTFJcmhEQjhyQzFLeklxYU53RlJ3SHcyUnRjVjZZNVZOQVhES2xaSHVISW5MZi04VWtIVVpiSzVtWExZOVlNa1ZMY2hoR3FOQVBn?oc=5",
+      "pub_date": 1793496000.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/j-p-morgan-just-made-012000318.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8a1e987d499f2bfb788d0e1774386152877798e708e73e35e87333325d5aa69f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F18ae4151d7f9426ff12ccd24ae517e1d.jpg",
+      "description": "J.P. Morgan sees the coin as a better performer than stocks, though it comes at a cost."
     },
     {
       "headline": "From Bitcoin to Binance: Crypto terms and what they mean",
@@ -55,6 +45,26 @@
       "description": "Find information for Bitcoin Overview provided by CME Group. View Overview"
     },
     {
+      "headline": "Current price of Bitcoin for October 30, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzeGNZdTE5WVV0b1lUeEFxc3FZWDBhbmlaekhfRXBGTnZqcVBfb2N2UDFyc0xNeHJXdmN1MmdZU05aREN3d0dwM1B6X01UMFREeWkxMmF2dFRzN0s2R0NMRHVFR2RXMmM?oc=5",
+      "pub_date": 1793343127.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-30.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Bitcoin, Ether Forecast: $6B Binance Hack Rattles BTC/USD and ETH/USD",
+      "source": "StoneX",
+      "source_url": "https://www.stonex.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFpSWnVjRm9SMHRGeWg1cWZQTU5TUnUyWTU3ZjdCTHV5VV9KZUt2N2VKaHBESkJkTUtiaEk2UmVvZExLY2hYa1VoX2xhUDNsdzBXalZTYnBLb0NBbVJkZElWOTJGZXhmT0phN0RKX281QzhmSXF6Qk5nVTZIZk1pUXNLcDZSbDcyRXZHNmxNeW1WWk5PaWUxX1dyelhBd1NUREVBWjhrSHJvRmF4eFJYTFFabEU?oc=5",
+      "pub_date": 1793512237.0,
+      "article_url": "https://www.stonex.com/en-gb/news-and-analysis/bitcoin-ether-forecast-6b-binance-hack-rattles-btc-usd-and-eth-usd/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin Vs. Stablecoins Vs. CBDCs: The Fight Over Digital Money",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -63,16 +73,6 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/31/bitcoin-vs-stablecoins-vs-cbdcs-the-fight-over-digital-money/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Current price of Bitcoin for October 30, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzeGNZdTE5WVV0b1lUeEFxc3FZWDBhbmlaekhfRXBGTnZqcVBfb2N2UDFyc0xNeHJXdmN1MmdZU05aREN3d0dwM1B6X01UMFREeWkxMmF2dFRzN0s2R0NMRHVFR2RXMmM?oc=5",
-      "pub_date": 1793367000.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-30.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
       "headline": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-01T01:54:41.835805+00:00"
+  "fetched_at": "2026-11-01T08:49:05.464355+00:00"
 }
