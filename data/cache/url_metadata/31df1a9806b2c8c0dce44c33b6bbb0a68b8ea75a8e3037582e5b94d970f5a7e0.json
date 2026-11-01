@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-01T01:54:23.231307+00:00",
+  "data": {
+    "url": "https://pavursec.com/blog/stealmybitcoin/",
+    "title": "Observations from Running stealmybitcoin.com | Pavursec",
+    "description": "Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.",
+    "image": "https://pavursec.com/media/logo.svg",
+    "favicon": "https://pavursec.com/media/icon_hu9a38971af2c2beba5807cd7db08d44b5_22339_180x180_fill_lanczos_center_3.png",
+    "site_name": "Pavursec",
+    "author": "James Pavur",
+    "keywords": null
+  }
+}
