@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-01T20:16:08.763314+00:00'
+updated: '2026-11-01T23:46:54.435932+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 01, 2026 at 20:16 UTC  
+**Last Updated:** November 01, 2026 at 23:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -2.8%  
-**30d:** -16.0%  
-**90d:** +20.8%  
-**1y:** -42.1%  
+**24h:** +0.5%  
+**7d:** -2.1%  
+**30d:** -15.4%  
+**90d:** +21.7%  
+**1y:** -41.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.64B
+**Market Cap:** $277.66B
 Rank #2
 
 **Circulating Supply:** 122,180,209 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.4%
+-54.1%
 
 **All-Time Low:** $0.43
-+520966.8%
++524763.8%
 
 ---
 
@@ -152,14 +152,6 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[Ethereum falls 16% in October as US ETH ETFs se...](https://pluang.com/en/news-feed/ethereum-turun-16-setelah-rekor-keluar-dana-etf-eth-oktober-2026)**
-
-Ethereum's price dropped 16.06% in October 2026 after three months of gains, closing around $2,250. US spot Ethereum ETFs experienced a historic $1.61 billion in net outflows, mainly from BlackRock's ETHA fund with $1.42 billion withdrawn. This decline coincided with broader market concerns including a Binance hack and slowing institutional purchases. November's market will be closely watched to see if investor confidence and ETF inflows recover.
-
-Pluang • 1h ago
-
----
-
 **[Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)**
 
 CoinDesk • 2d ago
@@ -174,18 +166,6 @@ CryptoSlate • 3d ago
 
 ---
 
-**[Ethereum’s staking queue jumps to $2.8B – Is an ETH season incoming?](https://ambcrypto.com/ethereums-staking-queue-jumps-to-2-8b-is-an-eth-season-incoming/)**
-
-AMBCrypto • 13h ago
-
----
-
-**[Bitcoin Slides 4.7%, Ethereum Sheds 5.9% As Crypto Market Hit By Fed Caution, Binance Security Scare](https://www.businesstoday.com.my/2026/11/01/bitcoin-slides-4-7-ethereum-sheds-5-9-as-crypto-market-hit-by-fed-caution-binance-security-scare/)**
-
-BusinessToday Malaysia • 18h ago
-
----
-
 **[Ethereum Whale: Buys 9,375 ETH at $2,264 Average](https://blockchain.news/flashnews/ethereum-whale-buys-9-375-eth-2-264-average)**
 
 @EmberCN reports a single Ethereum whale spent 17.24 million USDC nine hours ago to purchase 7,703.2 ETH at $2,237.6, adding to an earlier 1,671 ETH...
@@ -194,17 +174,31 @@ Blockchain News • 2d ago
 
 ---
 
-**[Silver Vs Ethereum Ratio in Downtrend for OANDA:XAGUSD by TradingMula](https://www.tradingview.com/chart/XAGUSD/8NK4hePG-Silver-Vs-Ethereum-Ratio-in-Downtrend/)**
+**[Bitcoin Slides 4.7%, Ethereum Sheds 5.9% As Crypto Market Hit By Fed Caution, Binance Security Scare](https://www.businesstoday.com.my/2026/11/01/bitcoin-slides-4-7-ethereum-sheds-5-9-as-crypto-market-hit-by-fed-caution-binance-security-scare/)**
 
-Presented here is the ratio chart of silver/ethereum = when price moves down that means ethereum is outperforming silver. 
+BusinessToday Malaysia • 21h ago
 
-As seen on the monthly chart, the price has rejected the monthly 200ema which created a top at the beginning of the year and has been drifting lower all year
+---
 
- In other words as silver created a high in 2026 as Ethereum has begun creating a low. 
+**[Ethereum’s staking queue jumps to $2.8B – Is an ETH season incoming?](https://ambcrypto.com/ethereums-staking-queue-jumps-to-2-8b-is-an-eth-season-incoming/)**
 
-The forecast from here forward is a 2 year downtrend in this chart which tells me it’s better to hold Ethereum as it could …
+AMBCrypto • 16h ago
 
-TradingView • 3d ago
+---
+
+**[US spot Ethereum ETFs log record 23-day net outflow streak](https://cryptobriefing.com/us-spot-ethereum-etfs-record-outflow-streak/)**
+
+US spot Ethereum ETFs logged 23 straight days of net outflows per Glassnode, with over $1 billion leaving in October as BlackRock's ETHA led.
+
+Crypto Briefing • 23h ago
+
+---
+
+**[Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets](https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum)**
+
+Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.
+
+Decrypt • 3d ago
 
 ---
 
@@ -214,17 +208,17 @@ Benzinga • 1d ago
 
 ---
 
-**[US spot Ethereum ETFs log record 23-day net outflow streak](https://cryptobriefing.com/us-spot-ethereum-etfs-record-outflow-streak/)**
-
-US spot Ethereum ETFs logged 23 straight days of net outflows per Glassnode, with over $1 billion leaving in October as BlackRock's ETHA led.
-
-Crypto Briefing • 19h ago
-
----
-
 **[Crypto staking attracts more investors even as yields fall](https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields)**
 
 CoinDesk • 6d ago
+
+---
+
+**[Kinexys Brings JPM Coin Deposit Token to Ethereum](https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum)**
+
+JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains.
+
+J.P. Morgan • 13d ago
 
 ---
 
@@ -232,31 +226,33 @@ CoinDesk • 6d ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETHEREUM AND XRP ARE GOING TO ZERO #xrp #crypto #ethereum](https://www.youtube.com/watch?v=xuuJ_ceKMiE)**
-
-📺 CryptoWendyO
-
-👁️ 15K • 👍 592 • 💬 49 • ⏱️ 1:14 • 23h ago
-
----
-
 **[Schwab IMPACT 2026: Bitcoin, Ethereum Bulls Need &quot;New Narrative&quot;](https://www.youtube.com/watch?v=HzR1bo9RUr0)**
 
 Crypto is doing better following a steep downtrend into a bear market, though as @CharlesSchwab's Jim Ferraioli notes, that ...
 
 📺 Schwab Network
 
-👁️ 3K • 👍 25 • 💬 3 • ⏱️ 7:08 • 5h ago
+👁️ 4K • 👍 32 • 💬 3 • ⏱️ 7:08 • 9h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=n3Modpbv88M)**
+**[Ethereum&#39;s Biggest Bull Case Has One Massive Flaw](https://www.youtube.com/watch?v=yj1Aug58WpA)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free with our Insider Portfolios at: ...
 
-📺 Crypto Gyan
+📺 Milk Road
 
-👁️ 3K • 👍 81 • ⏱️ 7:33 • 17h ago
+👁️ 4K • 👍 58 • 💬 72 • ⏱️ 14:53 • 10h ago
+
+---
+
+**[XRP HYPE 🚨 I AM FINISHED (Bitcoin Ethereum)](https://www.youtube.com/watch?v=gD77sM3hzFc)**
+
+Save 40% code MOE is back!* ➡https://join.stockmoeacademy.com/join-page *   FREE month of Earner Plus + 12 free fractional ...
+
+📺 Stock Moe
+
+👁️ 11K • 👍 373 • 💬 51 • ⏱️ 12:04 • 5h ago
 
 ---
 
@@ -266,7 +262,45 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 166 • 💬 75 • ⏱️ 24:46 • 1d ago
+👁️ 11K • 👍 170 • 💬 74 • ⏱️ 24:46 • 1d ago
+
+---
+
+**[ONE MORE LOWER LOW FOR ETH BEFORE UP!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=6U3l8Lf81uY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 508 • 👍 14 • ⏱️ 4:41 • 11h ago
+
+---
+
+**[ETHEREUM AND XRP ARE GOING TO ZERO #xrp #crypto #ethereum](https://www.youtube.com/watch?v=xuuJ_ceKMiE)**
+
+📺 CryptoWendyO
+
+👁️ 17K • 👍 628 • 💬 49 • ⏱️ 1:14 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ltFWkNiOa_s)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 3K • 👍 94 • ⏱️ 7:12 • 12h ago
+
+---
+
+**[Is Ethereum Heading Below $2,000?](https://www.youtube.com/watch?v=d4_ILykZ4uk)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 137 • 💬 11 • ⏱️ 7:47 • 2d ago
 
 ---
 
@@ -280,51 +314,13 @@ We analyse Ethereum on 30 October 2026 using Elliott Wave, with the blue zone at
 
 ---
 
-**[Ethereum&#39;s Biggest Bull Case Has One Massive Flaw](https://www.youtube.com/watch?v=yj1Aug58WpA)**
+**[ETH overhang, Chainlink custody, Uniswap TJAR and XRP transfers](https://www.youtube.com/watch?v=GERtKHWGXiI)**
 
-Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free with our Insider Portfolios at: ...
+ETH overhang, Chainlink custody, Uniswap TJAR and XRP transfers A Binance-linked hacker's 420000 ETH stash weighs on ...
 
-📺 Milk Road
+📺 The Coin Daily
 
-👁️ 3K • 👍 52 • 💬 68 • ⏱️ 14:53 • 7h ago
-
----
-
-**[XRP HYPE 🚨 I AM FINISHED (Bitcoin Ethereum)](https://www.youtube.com/watch?v=gD77sM3hzFc)**
-
-Save 40% code MOE is back!* ➡https://join.stockmoeacademy.com/join-page *   FREE month of Earner Plus + 12 free fractional ...
-
-📺 Stock Moe
-
-👁️ 3K • 👍 245 • 💬 33 • ⏱️ 12:04 • 2h ago
-
----
-
-**[ETHEREUM: The Man Who Burned Millions to Warn the World](https://www.youtube.com/watch?v=flfhQnw13_Q)**
-
-Try NMN (Anti-aging & NAD+): (BIGGEST DEAL OF THE YEAR BUY ONE GET ONE FREE STOREWIDE + FREE NMNPROMO ...
-
-📺 Hidden AmuraKa
-
-👁️ 41K • 👍 1K • 💬 322 • ⏱️ 39:04 • 1d ago
-
----
-
-**[AI hacked Binance and drained them of $6.3B](https://www.youtube.com/watch?v=aD5vNiX6gV4)**
-
-📺 Aishwarya Srinivasan
-
-👁️ 5K • 👍 57 • 💬 6 • ⏱️ 0:54 • 9h ago
-
----
-
-**[BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VJDHUa_4_ho)**
-
-BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 16K • 👍 325 • 💬 241 • ⏱️ 20:04 • 1d ago
+👁️ 7K • 👍 1 • 💬 16 • ⏱️ 7:38 • 2d ago
 
 ---
 

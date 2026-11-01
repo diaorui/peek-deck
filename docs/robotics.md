@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-01T20:16:08.766661+00:00'
+updated: '2026-11-01T23:46:54.439245+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 01, 2026 at 20:16 UTC  
+**Last Updated:** November 01, 2026 at 23:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,6 +124,12 @@ The Information • 1d ago
 
 ---
 
+**[China's robot makers have mastered the moves. Now comes the race for brains](https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/)**
+
+Reuters • 21m ago
+
+---
+
 **[Better Start Hitting the Gym Finally Because AI Robots Already Are](https://futurism.com/robots-and-machines/ai-robots-hitting-gym)**
 
 A startup called Neura is training humanoid robots in a "robogym" where the machines constantly practice and perform tasks.
@@ -132,17 +138,11 @@ Futurism • 1d ago
 
 ---
 
-**[The Rare Earths Powering the Next Wave of Robotics](https://www.barchart.com/story/news/8513371/the-rare-earths-powering-the-next-wave-of-robotics)**
-
-Barchart.com • 3d ago
-
----
-
 **[Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck](https://spectrum.ieee.org/video-friday-whole-body-manipulation)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 5h ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -150,13 +150,15 @@ IEEE Spectrum • 5h ago
 
 Dyson robotics engineer Guy Turner says the company’s next chapter will focus on machines that can sense, perceive, and solve problems independently
 
-The Jerusalem Post • 11h ago
+The Jerusalem Post • 15h ago
 
 ---
 
-**[Rendezvous Robotics raises $20 million for self-assembling spacecraft](https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/)**
+**[Science Spooktacular Returns to Elkhart County 4-H Fairgrounds for Halloween](https://wsbt.com/news/local/science-spooktacular-returns-to-elkhart-county-4-h-fairgrounds-for-halloween-robotics-engineering-technology-experiments-interactive-education-creativity-discovery-innovation-carnival-activities-organizations-families)**
 
-SpaceNews • 3d ago
+No tricks, just treats, robots and science at the Elkhart County Fairgrounds.E-3 Robotics Center invited families to its free Science Spooktacular event, featur
+
+WSBT • 22h ago
 
 ---
 
@@ -168,14 +170,6 @@ Crain's Detroit • 2d ago
 
 ---
 
-**[Germany and Ukraine test armed ground robot for frontline deployment](https://www.euronews.com/2026/10/29/germany-and-ukraine-test-armed-ground-robot-for-frontline-deployment)**
-
-Remote-controlled and heading for the front lines. ARX Robotics and the Ukrainian company ROBONEERS report completion of the first major system tests. #EuropeNews
-
-Euronews.com • 3d ago
-
----
-
 **[Agility Robotics and Churchill Capital Corp XI Announce Expected Gross Capital Raise of Approximately $465 Million and Anticipated Closing of Business Combination](https://finance.yahoo.com/technology/ai/articles/agility-robotics-churchill-capital-corp-110000046.html)**
 
 Business combination expected to close on November 4, 2026, subject to Churchill XI shareholder approval; the combined company expected to begin trading on Nasdaq under ticker symbol “AGLT” on November 5, 2026. Agility is expected to be the only U.S. publicly listed pure-play humanoid robotics company with proven, active commercial deployments. SALEM, Ore. and NEW YORK, Oct. 30, 2026 (GLOBE NEWSWIRE) -- Agility Robotics, a leading humanoid robotics and physical AI company, and Churchill Capital
@@ -184,11 +178,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Science Spooktacular Returns to Elkhart County 4-H Fairgrounds for Halloween](https://wsbt.com/news/local/science-spooktacular-returns-to-elkhart-county-4-h-fairgrounds-for-halloween-robotics-engineering-technology-experiments-interactive-education-creativity-discovery-innovation-carnival-activities-organizations-families)**
+**[Inside giant homebuilder D.R. Horton’s bet on robotic homebuilding](https://www.fastcompany.com/91632538/homebuilding-dr-horton-inside-giant-homebuilder-bet-on-robotics)**
 
-No tricks, just treats, robots and science at the Elkhart County Fairgrounds.E-3 Robotics Center invited families to its free Science Spooktacular event, featur
+On a typical jobsite, framing crews build walls by hand. America’s largest homebuilder is teaming up with Promise Robotics to move some of that work into a factory, where robots do the framing.
 
-WSBT • 19h ago
+Fast Company • 3d ago
+
+---
+
+**[A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It](https://rocketlabcorp.com/updates/a-robotic-arm-that-can-walk-across-spacecraft-rocket-lab-built-it/)**
+
+Future space missions could soon get a big leg up — or arm, rather — thanks to robotics developed by Rocket Lab in collaboration with NASA.
+
+Rocket Lab • 2d ago
 
 ---
 
@@ -196,33 +198,33 @@ WSBT • 19h ago
 
 ## YouTube Videos: "robotics"
 
-**[New Human-Skinned AI Robots Shock the World (Way Too Creepy)](https://www.youtube.com/watch?v=kVVqaRJf_Sk)**
-
-Realbotix just unveiled its new humanlike AI robots, and they're getting disturbingly real. These humanoids have synthetic ...
-
-📺 MACHINEKIND
-
-👁️ 16K • 👍 280 • 💬 45 • ⏱️ 14:21 • 20h ago
-
----
-
 **[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
 
 OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
 
 📺 MACHINEKIND
 
-👁️ 53K • 👍 660 • 💬 51 • ⏱️ 13:33 • 4d ago
+👁️ 54K • 👍 670 • 💬 51 • ⏱️ 13:33 • 5d ago
 
 ---
 
-**[NEW Massive Rebalance Is Here... Our Favourite Robots Get CRUSHED By Nerfs | War Robots](https://www.youtube.com/watch?v=r9JTWEZFKFA)**
+**[Meta Built a Secret Humanoid Robot Named &quot;Max&quot;](https://www.youtube.com/watch?v=XEUD38_gKBo)**
 
-The massive rebalance is here. We have been waiting for it and it's here. Unlike most rebalances there are some really bad and ...
+Meta reportedly built a 5-foot, 106-pound humanoid robot prototype codenamed Max in just three months by partnering with ...
 
-📺 PREDATOR WR
+📺 Stutzy
 
-👁️ 25K • 👍 457 • 💬 195 • ⏱️ 16:27 • 3d ago
+👁️ 532 • 👍 6 • 💬 2 • ⏱️ 0:28 • 48m ago
+
+---
+
+**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
+
+I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
+
+📺 SECTOR 07
+
+👁️ 21K • 👍 577 • 💬 65 • ⏱️ 18:03 • 1d ago
 
 ---
 
@@ -232,27 +234,17 @@ The newly announced Echo humanoid robots come in both tabletop and full body mod
 
 📺 Cybernews
 
-👁️ 143K • 👍 180 • 💬 80 • ⏱️ 0:21 • 5d ago
+👁️ 144K • 👍 180 • 💬 80 • ⏱️ 0:21 • 5d ago
 
 ---
 
-**[Jensen Huang just did story time with robot ducks 🦆 #gtc2026 #microduck #jensenhuang #nvidia](https://www.youtube.com/watch?v=4R3hnmhx2Ps)**
+**[Homework in 2026: Even Robots Are Doing the Graphs! 🤯🤖✍️](https://www.youtube.com/watch?v=9JfSIPnR6Qc)**
 
-Nvidia boss Jensen Huang talks to robot ducks during Nvidia GTC Berlin 2026.
+What does homework look like in 2026? A robotic pen plotter uses a mechanical arm to draw precise graphs and experimental ...
 
-📺 BWTV Prime
+📺 Nexio Core
 
-👁️ 189K • 👍 3K • 💬 136 • ⏱️ 1:48 • 5d ago
-
----
-
-**[Truck mode to Robot mode！MM02 Magnificent Mecha Optimus Prime A/B version transformation.](https://www.youtube.com/watch?v=vtvu9TFfWMw)**
-
-Truck mode to Robot mode！MM02 Magnificent Mecha Optimus Prime A/B version transformation.
-
-📺 Maximals Heart
-
-👁️ 109K • 👍 2K • 💬 209 • ⏱️ 20:03 • 3d ago
+👁️ 318K • 👍 2K • 💬 61 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -266,16 +258,6 @@ Unitree H2-X can pull off spectacular kung fu stunts. But what happens when the 
 
 ---
 
-**[Humanoid robot spotted in NYC sparks curiosity, concern](https://www.youtube.com/watch?v=qjRriXk9i7U)**
-
-A humanoid robot was spotted in Brooklyn over the weekend, sparking both curiosity and concern as it took a stroll and posed for ...
-
-📺 CBS New York
-
-👁️ 20K • 👍 122 • 💬 46 • ⏱️ 1:48 • 5d ago
-
----
-
 **[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
 
 NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
@@ -286,13 +268,33 @@ NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelli
 
 ---
 
-**[Next Gen Atlas AI Robot (by Boston Dynamics) can do what humans do - World Premiere](https://www.youtube.com/watch?v=6a4Lli8fL9Q)**
+**[NEO Home Robot Sold Out in 5 Days. Here&#39;s What Happens Next.](https://www.youtube.com/watch?v=ZxAsWTSkeKM)**
 
-Discover the all new Boston Dynamics Atlas robot, featuring advanced AI, electric mobility, powerful robotic hands and industrial ...
+NEO Home Robot Sold Out in 5 Days. Here's What Happens Next. For More Content like this, be sure to Subscribe to our ...
 
-📺 REC Anything
+📺 AI Unfiltered
 
-👁️ 38K • 👍 274 • 💬 26 • ⏱️ 11:01 • 5d ago
+👁️ 28K • 👍 196 • 💬 11 • ⏱️ 9:09 • 3d ago
+
+---
+
+**[Elon Musk: Neuralink Will Let You Inhabit a Robot 🧠🤖](https://www.youtube.com/watch?v=pBw867OUdlI)**
+
+Is this the ultimate step in human evolution? Elon Musk just made a staggering claim that advanced Neuralink implants could ...
+
+📺 Robot24com
+
+👁️ 1K • 👍 16 • 💬 2 • ⏱️ 0:35 • 8h ago
+
+---
+
+**[This Creepy Robot Mouth Was Actually Built to Help People  #art #robot #Japan #didyouknow](https://www.youtube.com/watch?v=yNa2tuqQtas)**
+
+This bizarre-looking machine is a talking and singing robotic mouth developed by Professor Hideyuki Sawada and researchers at ...
+
+📺 Tale Twine
+
+👁️ 65K • 👍 399 • 💬 59 • ⏱️ 0:06 • 5d ago
 
 ---
 
