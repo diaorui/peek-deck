@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-13T10:11:27.909857+00:00",
+  "data": "This GGUF model provides an uncensored text encoder for Qwen-Image, reducing refusal rates from 88.9% to 1.2% while maintaining MMLU scores. It's designed for local text-to-image generation with stable-diffusion.cpp, offering minimal measurable impact on image output compared to the stock encoder.",
+  "model_id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF"
+}

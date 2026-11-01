@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peekdeck.ruidiao.dev/sitemap.xml

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-07T14:15:04.143802+00:00",
+  "data": {
+    "url": "https://papers.tinrobotics.com/paper/test-time-adaptation-of-manipulation-policies-under-actuator-degradation/",
+    "title": "Test-Time Adaptation of Manipulation Policies Under Actuator Degradation \u2014 Robotics Research Hub",
+    "description": "Robot manipulation policies are usually trained under the assumption that a commanded action produces the same motion as it did during training even after hours of operation. Real hardware violates this assumption as the motors gradually heat up, current saturates near contact, voltage sags under...",
+    "image": "https://papers.tinrobotics.com/images/papers/test-time-adaptation-of-manipulation-policies-under-actuator-degradation.jpg",
+    "favicon": "https://papers.tinrobotics.com/apple-touch-icon.png",
+    "site_name": "Robotics Research Hub",
+    "author": null,
+    "keywords": null
+  }
+}

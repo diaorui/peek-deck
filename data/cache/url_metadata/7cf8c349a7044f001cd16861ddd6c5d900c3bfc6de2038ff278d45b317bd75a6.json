@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-17T17:30:04.452294+00:00",
+  "data": {
+    "url": "https://www.learnbitcoin.com/rabbit-hole/how-taproot-works",
+    "title": "How Taproot Actually Works | LearnBitcoin",
+    "description": "One key, two doors. How a Taproot output is built, why every one looks the same until it is spent, what Schnorr signatures changed, what Tapscript left open for the future, and what has actually been done with it since 2021, inscriptions included.",
+    "image": "https://www.learnbitcoin.com/diagrams/og/taproot-two-paths.png",
+    "favicon": "https://www.learnbitcoin.com/apple-touch-icon.png",
+    "site_name": "LearnBitcoin",
+    "author": null,
+    "keywords": null
+  }
+}

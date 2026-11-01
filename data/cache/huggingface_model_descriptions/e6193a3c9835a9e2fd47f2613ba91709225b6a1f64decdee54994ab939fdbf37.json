@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-29T15:25:15.570450+00:00",
+  "data": "Qwen-Image-2.1-viggle-turbo is a highly efficient text-to-image and image editing model, achieving comparable quality to its base model in just 6 transformer passes. It excels at rapid, high-fidelity image generation and instruction-driven edits using few-shot learning.",
+  "model_id": "Viggle/Qwen-Image-2.1-viggle-turbo"
+}

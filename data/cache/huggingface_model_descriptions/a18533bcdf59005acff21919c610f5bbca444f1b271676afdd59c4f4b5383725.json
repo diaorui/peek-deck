@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-29T02:11:41.523741+00:00",
+  "data": "Nemotron-3 Diarization is an open-weight model for \"who spoke when\" audio analysis, supporting up to 8 speakers with streaming and offline inference capabilities. It's ideal for applications requiring real-time or batch speaker segmentation, such as meeting transcription or call center analytics.",
+  "model_id": "nvidia/Nemotron-3-Diarization"
+}

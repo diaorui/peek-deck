@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-06T02:24:34.128071+00:00",
+  "data": "GEV-26B-Decide is a text classification model based on Gemma-4-26B-A4B-it, featuring adaptive thinking for calibrated decision-making. It excels in tasks requiring typed decisions and scoring, with specific applications in computer use and robot arm control.",
+  "model_id": "autotrust/GEV-26B-Decide"
+}

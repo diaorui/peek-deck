@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-02T04:25:38.502528+00:00",
+  "data": "Clef is a 27B multimodal model that takes structured typed questions and a state (text, JSON, image, or video) to output probabilities for predefined decision options in a single forward pass, ideal for classification and structured output tasks.",
+  "model_id": "Cloudflare/clef"
+}

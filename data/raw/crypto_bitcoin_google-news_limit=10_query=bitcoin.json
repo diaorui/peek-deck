@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "bitcoin",
+  "site": null,
+  "search_query": "bitcoin",
+  "articles": [
+    {
+      "headline": "UK chances of keeping \u00a33.8bn bitcoin haul rise after High Court ruling",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1RTY3JHZU9NMmVUelJYMVR4Z1Z5cFRONnNneVEtQjdGS3A1YXF1cnFlQlZ0bzdtRTl2QVN3aXphMXV6UDYtWF9Pdmh2VmY4VXgtMlh3WkNtcHZEblVyejdPRXVKN3d1WGdmR29jQWlMeFhZc3lmR3VVZG84TVpEdHR0WE8?oc=5",
+      "pub_date": 1791887621.0,
+      "article_url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Exclusive | FTX\u2019s Old Bitcoin-Mining Assets Are Now Part of the AI Boom",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1Qwc3lWYVVjYm01ejc2WWNvczQyMHVHUXpTLTFxY1VaaWdkVEhxdDFMVVYtYURwTGZfQ3U5bktvX2h0WEpfNzM3T0Y4QmdQWkdwY0dBdVd0VTZUc01xeW9CUkZxX0dnZXUtdHFydkJ4N295bDdQT29yRnYtRXhMRVp4d0RWZUJldmcwTzRqUVVKTjFzSW9SS18zOWt1aUpDZ1p1RUhpSjZPUQ?oc=5",
+      "pub_date": 1791796440.0,
+      "article_url": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3ZITzNpU01hM2FFYWpQWDYwcTRPeFhIakIyYjBxTjlNQnZURVFTdV9mdWhXYnRuMXRzalp0enItV1FGU3RWVV9aU3FBLS1JVThwX3ppVWtLaDNGdjZxcF9pLVB3MUYwMlVrWjRadzBlQXZEMlRTQmlKdFUxZkYxNk1lRTF2NnB6dUpVeEJUN2J4NzlBNTdYRjBZbjdOXy1BSS1rdGd3TTNlVWZQMnFzSkRn?oc=5",
+      "pub_date": 1791956691.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "description": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins."
+    },
+    {
+      "headline": "Michael Saylor Says Bitcoin Has Bottomed And Should Get Back Above $100,000: \u2018Long-Term Forecast Is\u2026\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPck15SzM5clJxcmdNVngtT0cteC1oZkdXTWZuWGVPV3RwRjJ1QmsxeVRqdHFrSXRPc3d2YVlEZ29UemxDNnVrOENNbTUyYjlRNnF5Nm5weGlkNG5vd19hR01XNlpRUDJkV0xGTEF6ZDJOSTNYbzdNOXhtZWFxMnJlNWJpaExmTEZHeWpSQ3ZpQjVQRWk5eGJKYUtua0NaR1RSUDBJ?oc=5",
+      "pub_date": 1791951660.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-bitcoin-bottomed-042144574.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a2d59c1ca46a1db0cd4f678dc77d77b391903a656d81c2cc06c028c59342a537/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F9137b3ad3ea3a082a2fa0b30d82fab19",
+      "description": "In an interview with Bloomberg Television, Saylor said that BTC prices would move back to six figures."
+    },
+    {
+      "headline": "Strategy\u2019s Saylor Sees Bitcoin Moving Back Up Beyond $100,000",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDdIV2tIbU01RDFlM2V1WnVJRXRZbV9VdnFIdklTWXZZQko5cHZEWUpHSWZ2d05qYnNPblVaaXdfWlBQZE4xTFBoOE9RTWpOUU5tcTczeXIzci1KVmJ1THUtbmhTNVFHMlROcFRYVXpOZlktUmh3Mllac3g1eTRvQ28wb2RJUWpHV2t2TkI0Nkx2YkZ3YmdNMTFOU2lnT1BOZHhVYkVzRXRpN1I4S010MQ?oc=5",
+      "pub_date": 1791917709.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Current price of Bitcoin for October 13, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSVd1TndYZjB5VVpWN0pNdzA1aGlmQUdRdHlDUnd0NHR4U1Z0R0toVl9uUTdJcDgwUHE2V2lDZmxMY1IyeWs5X1lsejBHWjBCWkoxOUtSLW9nb21qRFBMNFdoYzl6YWM?oc=5",
+      "pub_date": 1791918086.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-13-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-13.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "FULL INVESTIGATION: News 4 finds El Reno Bitcoin mine tied to second OKC site\u2014and a tangled web of companies reaching China, raising eyebrows",
+      "source": "KFOR",
+      "source_url": "https://kfor.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVQ1U3BCd0hmM3JpY3p2am9CYmhpUE4wbDBuRUJyVmJ4THpGc0U0eTAzUWk4RDJOTWRzVnhVeGVzOFpidFpKVURGOUZmUGFLQjg0SXF5TlEtZ3dpWlBQdDVHVTBYZXJTMDBhNFh2VVhKSU1jMHg4VUhtc1VFNVlJQUtsUU9PN21zdXFqY3dkZTZ6MGxmMmRRNE1yN0JEeGFaWG9JREx4cVlPcTlqTk9BaWozS3NvenpMSVFYV3N5Z0ZCUdIBxwFBVV95cUxNUXRWZmRNRl9GcUM5SjFLQjYzS0h4bk5wczB5OW91ekRBOGpScG5pUW1WTlNvY1NSdDFHSENza1VtWDU1VUpXR25IbWFQbHA4VncxR292azJiOHhYTUpMeHVMbkEzMWIzcHlXLUFGNHk2Ym93RGlhcHF0MjR6VDNIRk1CVFlKbk1VUWN4OUd6TXpzQWNFLWdvQlNCOGtYaU9OME80ZUF2a1N6NjRTTGpLd0Q4cDFGN1VnYmNnb1BKN2J1dUZ1cVdz?oc=5",
+      "pub_date": 1791860323.0,
+      "article_url": "https://kfor.com/news/local/news-4-investigates-el-reno-bitcoin-mine-tied-to-second-okc-site-and-a-tangled-web-of-companies/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6dXBFYlk4eVNjbkZVYWNvekRvU0N4X2hlR2xYZFk2eGh0N3ZlZ1VTZ3lxV2NaX29xR1pFZ0tHS3BOOXdlaEZURmN6Q1U4YzNSSjJOd1I1TmRCNG5pUUsxaVFaMVdDdEZZcEp6SmNUY09rUzRZTE5IbUdrQU1kZw?oc=5",
+      "pub_date": 1791911267.0,
+      "article_url": "https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-9.jpg",
+      "description": "A CryptoQuant researcher has said that bitcoin\u2019s supply dynamics could soon help its price."
+    },
+    {
+      "headline": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVFjOGFOd1c0Nm5IOTYyclZxQXJVS1JHUXg1TWxFSWk0a2NiV2IwZnZhd20wZXBlVUQ2LXNZNEIxeDhqSFNwbmppQXpiYXZQQk5EQ1RSc28tZjlQOHJUZ01wQ0haeWV1d1lfQXRwTmlYYVc5SW53V0p2RkJSOFdkRldKVmdwbzNrbTlkZUxpbmNvMW1fcG9aS2QxR3IxVlFTSV80Z1ktY09PNWZSSlBBWTF3WXFxcUdLNFdBNU1LUERmVFZr?oc=5",
+      "pub_date": 1791898920.0,
+      "article_url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-14.28.14.png",
+      "description": "The latest purchase marks Strive's largest increase in bitcoin holdings since it acquired approximately 5,048 BTC through its all-stock merger with Semler Scientific."
+    },
+    {
+      "headline": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aZ1lFTXh2VC1BM2xhT3J2V1pfaEtmMkxkRzhoY1VEeW12MEVaQ1YteVZ1bGJOZW54QkxQZzh4d1hyMUFMbExTbW5UUDQyZjdjVWxaOEFLa2o2bWNuQWpMdTlkYV8wNURZMkI0Q0VqMDFQcWFUdHc?oc=5",
+      "pub_date": 1791920292.0,
+      "article_url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-whale-decrypt-style-02-gID_7.jpg",
+      "description": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-10-14T06:31:24.831322+00:00"
+}

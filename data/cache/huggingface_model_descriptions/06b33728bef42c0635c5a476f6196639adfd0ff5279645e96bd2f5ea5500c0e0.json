@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-11T09:11:06.798290+00:00",
+  "data": "EMA Lightning is a tiny, fast, and accurate Turkish text-to-speech model (8.6M parameters) achieving state-of-the-art accuracy on Freya-TR-Eval. It supports streaming output, offline execution on CPU/GPU, and offers low-cost, high-throughput synthesis for applications requiring real-time voice generation.",
+  "model_id": "canberkkkkkk/ema-lightning"
+}

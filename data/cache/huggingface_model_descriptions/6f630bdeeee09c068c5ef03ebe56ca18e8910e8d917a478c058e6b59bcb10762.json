@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-14T06:31:32.613144+00:00",
+  "data": "JEV-35B is a text classification model based on Qwen3.5-35B-A3B, excelling at System 1 decision-making with calibrated probabilities. It handles up to 256 options in a single pass, achieving strong performance on benchmarks like Decision Index 0.3 (59.73) and ERQA (51.3% zero-shot robot reasoning).",
+  "model_id": "autotrust/JEV-35B"
+}

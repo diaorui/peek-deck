@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-12T12:48:37.704047+00:00",
+  "data": "Underdog Saluki 27B 1.0 is a quantized Qwen3.8-27B model optimized for efficient tool and function calling, fitting under 8GB. It excels in parallel tool calls and agentic tasks, with an optional vision add-on for multimodal capabilities, making it suitable for applications requiring compact yet powerful LLM integration.",
+  "model_id": "ConwayResearch/Underdog-Saluki-27B-1.0"
+}

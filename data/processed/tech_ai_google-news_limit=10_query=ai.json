@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ai",
+  "site": null,
+  "search_query": "ai",
+  "articles": [
+    {
+      "headline": "Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnlfSFAtZ3F0bFlnbTVkTUJHb2ZMa2ZLR2Q0Zm4wUi1yd0dPNjk0Z1dxalhMZ0x3WFpmNGF0bnA5SGpnalRXSFZEcjc0M2VsNjlHOFZtU1dVVUlrUGpNN24zLW02V0U0NFk5Z3dwbDZFcE1kS0ZSaFNxOHVHUWdTWURZSWIyUENmbXdjeTRwOGQ3SkhOSHMxaHlBMVpEbWw2?oc=5",
+      "pub_date": 1791908161.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
+      "description": "We\u2019re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+    },
+    {
+      "headline": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5",
+      "pub_date": 1791907819.0,
+      "article_url": "https://www.reuters.com/business/google-launches-flagship-ai-model-gemini-4-argon-developers-businesses-2026-10-13/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google finally releases Gemini 4 Argon",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOek9PSlphLTlDOW9VR3VFeXlQdG5NNlprQVcteFg2RFZiVEtSamRFZWFWeGhyNkdONHBrUFBsY3VBcEc5ekR3VTVmQzFNaWtFbWx2WWIySmVxRDRnVHgtX2RRd29BM0NhODhlaXlubUhLUk1kSUFwd2RjRFRDTmxqVGVPZ1ZCMFduT0tER0pWekZlMWdU?oc=5",
+      "pub_date": 1791907200.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "The AI race is back on."
+    },
+    {
+      "headline": "AI in your oven? Anthropic warns models \u2018months away\u2019 from self-replication on smart devices",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5",
+      "pub_date": 1791924960.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
+      "image": "https://i.guim.co.uk/img/media/93cc0e130431b9824f3c533c1d51b2d82c72ae3d/543_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98e0ed46ba2e511a995725ca9e13f3ec",
+      "description": "Researchers say \u2018AI worms\u2019 could soon infiltrate internet-connected devices amid calls for increased guardrails"
+    },
+    {
+      "headline": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
+      "pub_date": 1791868440.0,
+      "article_url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz?oc=5",
+      "pub_date": 1791903050.0,
+      "article_url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&w=1920&h=1080",
+      "description": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter."
+    },
+    {
+      "headline": "ASML will be unable to meet AI-driven customer demand in 2027, 2028",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
+      "pub_date": 1791954420.0,
+      "article_url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDQ3Zy1uUWZHZDRSQmVCRGY2VEpzVHZOZkNBQ29vM2sxbkpqRFlQTFlXX1Zub1otNmREVGFyMFVucU9KZXRWOFJCSUo5N1JBNGprZUtsYlJXX1A2N3ZJX2ZBeE1KbjlGRUtEakNwZjVWQVlYLWdMeVExODZzYmFqX2Z6QzZuUdIBiwFBVV95cUxPYXpNR093eFN2OXh5eGdjX1JZM3hDQURoa3VhOWZPUzBjaFkwTXRFVVlPbXo1WlVPQ2diYmotb0pCSmNyeERpOVpJNUtYa1JzR0NVRnFjSzVGaGdkRktPWHhyNllYdHhMbEJ1RGhPY2JqaWYyUExCeFlFZjJ1cDJVVXNQal9ZeURTMU5Z?oc=5",
+      "pub_date": 1791954896.0,
+      "article_url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108291541-1776230822579-gettyimages-2250757897-NETHERLANDS_FOUQUET.jpeg?v=1783337282&w=1920&h=1080",
+      "description": "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand."
+    },
+    {
+      "headline": "ASML Raises Full-Year Sales Outlook as AI Boom Drives Demand",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcm1heDMtc0U2WVhvVjlZaGNmT1RWS1h1M25veGtJRkNBSE9Id1hvYlhsYkpMX1NKUHdrNU5EWkxkVDMzWjVkdnpoWHBDNFF5MGJLRk1VbW1NdnlhWUh3OFFYc25rSkFDekw0STlDNEtNN2diRVZ4M2N0WVdoc0k5cVpabm5Hc2ZYcDN3cXBGb3BhcHMtcHNvV1lSQ3JDSm1FaXZONXdjSTVOeEZOUHd3SA?oc=5",
+      "pub_date": 1791954720.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Pittsburgh airport staff gets help in form of AI-powered robots",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHByTXZCVk1WYVV1UW1HVTNHVmJ2MXVfUjM5MHVYY0N6SU9Xd0lJU3A1RDEyNnRSOEFfbWNRUE5weFhrellGSFp2cVJBV0F6RmdsSE9RcDY2M1Boal9uNGJLY0JKOV9qQlNaVnhOZWVNNnNVa0p2TTltME45d3ZEYTFzbm0zcnpfQkt5b0xpS19rcTBSenNsUEdIaWE5MXRUQkZ4WUFHNnZJSWdpUjhGQWR2Y0dqUDhXbjMycGpFVjZXZFAtN0Jhbk1PeGxzRFVHU0JsRktOY2ZCWWNRN28wejl2bVc2Vlk?oc=5",
+      "pub_date": 1791956340.0,
+      "article_url": "https://www.usatoday.com/story/news/state/pennsylvania/pittsburgh/2026/10/14/four-legged-ai-powered-robots-pittsburgh-international-airport/92154665007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/09/PCIN/92170370007-pittsburgh-international-airport.jpeg?crop=1279,720,x0,y0&width=1279&height=720&format=pjpg&auto=webp",
+      "description": "Pittsburgh International Airport is using AI-powered robots to assist with airport operations."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-10-14T06:31:31.338230+00:00"
+}

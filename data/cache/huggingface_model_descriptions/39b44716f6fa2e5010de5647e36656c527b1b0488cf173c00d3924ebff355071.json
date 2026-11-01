@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-07T00:55:17.348351+00:00",
+  "data": "EmbeddingGemma 2 is an open, multimodal embedding model that maps text, images, video, and audio into a unified 768-dimensional vector space. It offers native multimodality, multilingual support, and flexible footprint for on-device applications like search and RAG.",
+  "model_id": "google/embeddinggemma-2"
+}

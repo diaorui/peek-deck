@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-12T12:48:38.376027+00:00",
+  "data": "d1-3B is a 3.1B parameter multimodal decision model excelling at calibrated, single-pass classification and decision tasks. It processes mixed text and image inputs to provide typed answers with zero output tokens, making it ideal for routing, moderation, and intent classification.",
+  "model_id": "LiquidAI/d1-3B"
+}

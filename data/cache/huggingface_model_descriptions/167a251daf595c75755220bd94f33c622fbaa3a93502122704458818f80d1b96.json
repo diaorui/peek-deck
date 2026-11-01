@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-04T21:15:34.115123+00:00",
+  "data": "Xing4.0-29B-A4B is a 29B parameter LLM optimized for complex engineering tasks, featuring a 256K context window and agent-oriented capabilities for multi-step planning and tool calling. It excels in coding, reasoning, and domain-specific adaptations, supporting various inference frameworks.",
+  "model_id": "Venastine-Research/Xing4.0-29B-A4B-GGUF"
+}

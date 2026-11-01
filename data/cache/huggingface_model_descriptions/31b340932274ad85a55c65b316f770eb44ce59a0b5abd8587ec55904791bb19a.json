@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-15T06:29:11.490967+00:00",
+  "data": "Qwen3.8-27B-GGUF is a 27B parameter vision-language model optimized with Unsloth Dynamic V3.0 for enhanced accuracy and performance. It excels in coding, professional tasks, research, and long-horizon agentic applications, featuring native image/video understanding and flexible thinking control for complex, multi-step task completion.",
+  "model_id": "unsloth/Qwen3.8-27B-GGUF"
+}

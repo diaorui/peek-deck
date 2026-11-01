@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-14T13:42:09.859759+00:00",
+  "data": {
+    "url": "https://armor.dc-engineer.com/gallery/",
+    "title": "Robot Model Gallery: Download URDF Robots for ARMOR",
+    "description": "Browse robot models compatible with ARMOR and open them straight on your iPhone, iPad, or Mac. Humanoids, industrial arms, quadrupeds, and open-source desktop robots, each with a one-tap import.",
+    "image": "https://armor.dc-engineer.com/images/armorIconIkurrina.png",
+    "favicon": "https://armor.dc-engineer.com/images/favicon-32.png",
+    "site_name": null,
+    "author": null,
+    "keywords": "URDF Viewer, URDF Editor, MJCF, MuJoCo, robot simulation, robotics, kinematics, URDF to MJCF, SDF, Gazebo, Drake, ROS, robot world, ground plane, iOS robotics app, macOS robot simulator, augmented reality robotics, RealityKit, URDF robot viewer, Boston Dynamics, Atlas Robot, AR Robotics, XACRO"
+  }
+}
