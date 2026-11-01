@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-11-01T20:16:07.711270+00:00",
+  "data": "Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, temporally coherent videos from static images. It excels at precise camera motion control, maintaining subject consistency, and adapting to various artistic styles, making it ideal for creative video production and visual storytelling.",
+  "model_id": "Pika-Labs/Pika-H3-Flex"
+}
