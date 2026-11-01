@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-01T15:49:51.905315+00:00",
+  "data": {
+    "url": "https://interestingengineering.com/ai-robotics/anthropic-training-data-deception",
+    "title": "Harmless stories can teach models to deceive humans, resist shutdown",
+    "description": "Anthropic used Claude to uncover how harmless stories can train models to deceive humans, resist oversight and evade safety checks.",
+    "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-72.jpg",
+    "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+    "site_name": "Interesting Engineering",
+    "author": "Aamir Khollam",
+    "keywords": "AI alignment, AI misalignment, AI research, AI safety, Anthropic, automated red-teaming, Claude, large language models, Machine Learning"
+  }
+}

@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Trump\u2019s achilles heel is turning his own voters against him",
+      "author": "theipaper",
+      "url": "https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/",
+      "published": 1793544498.0,
+      "thumbnail": "https://external-preview.redd.it/FV0XukQm_BDBPPadIZR5NXC2EoauIi_vk137LCiE1fI.jpeg?width=640&crop=smart&auto=webp&s=ec5ef6cd2b24a7f60d5a779478588d0dffcffb19",
+      "external_url": "https://inews.co.uk/news/world/destroying-homes-trump-voters-turn-against-data-centres-4862641",
+      "site_name": "The i Paper",
+      "favicon": "https://inews.co.uk/wp-content/themes/inews-theme/assets/images/favicon/192x192.png",
+      "description": "Lifelong Republicans are campaigning against the spread of data centres"
+    },
+    {
       "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering \u2014 sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
       "author": "Typical-Code-7006",
       "url": "https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/",
@@ -11,6 +22,17 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1799740/apple-touch-icon.png",
       "description": "Many game developers are reporting Claude's refusal to work on their own projects."
+    },
+    {
+      "title": "\u2018If it wasn\u2019t for ChatGPT my brother would still be alive\u2019: inside OpenAI\u2019s safety unit",
+      "author": "TheObserverUK",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/",
+      "published": 1793529340.0,
+      "thumbnail": "https://external-preview.redd.it/aXvg_3fKaj07b8-YEDRBvPjZ0V56wLQ040OGimlq_-8.jpeg?width=640&crop=smart&auto=webp&s=f8e414c82cbe0ec707dd6ab0ef0303b7be5cec93",
+      "external_url": "https://observer.co.uk/news/technology/article/if-it-wasnt-for-chatgpt-my-brother-would-still-be-alive-inside-openais-safety-unit",
+      "site_name": "The Observer",
+      "favicon": "https://observer.co.uk/favicon.png",
+      "description": "An Observer investigation reveals how OpenAI\u2019s race for dominance has compromised user safety, with conversational AI linked to psychiatric crises and violence"
     },
     {
       "title": "Dear Sam, My RAM Is None of Your Business.",
@@ -35,6 +57,17 @@
       "description": "It seems we finally got here, after 25 years! Originally at http://forums.about.com/ab-ai/messages/?msg=295.1"
     },
     {
+      "title": "Working on a research framework for intelligence beyond infrastructure and looking for honest feedback",
+      "author": "zerovariance36",
+      "url": "https://www.reddit.com/r/artificial/comments/1xl59a7/working_on_a_research_framework_for_intelligence/",
+      "published": 1793545387.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have been working on a research project called Organic Intelligence Protocol, or OIP. The idea started with a question I kept coming back to. Are we evaluating intelligence fairly when access to infrastructure and resources can influence how capable a system appears to be? OIP is my attempt to explore that question through concepts such as infrastructure independence, grounded feedback, and adaptive moral logic. Over the past few months, I have been documenting the framework, reviewing its mathematical definitions, and auditing its use with four datasets from Bangladesh, Malawi, Uganda, and Ethiopia. The results have been more useful for identifying limitations than for making big claims. The audits did not establish enough evidence to authorize the constructs for further empirical evaluation. Some definitions still need clearer measurement rules, and a variable that looks relevant on paper cannot automatically be treated as a valid measurement. That has changed how I approach the project. Instead of forcing a score or trying to make the framework look complete,, I am keeping unresolved questions open and documenting what the available evidence can and cannot support. OIP is still research in progress. I am not claiming that it is validated or better than existing approaches. I would like to hear from people who have worked on AI evaluation, measurement theory, or empirical research. What would you want to see before taking a framework like this seriously? Where do you think the biggest methodological problems might be? Critical feedback is welcome. I would rather identify a fundamental problem now than build further work on an assumption that has not been tested."
+    },
+    {
       "title": "We have access to the most powerful AI in history, yet I sometimes have absolutely no idea what to do with it. Is that a lack of imagination?",
       "author": "himmetozcan",
       "url": "https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/",
@@ -57,60 +90,27 @@
       "description": "Anthropic's Alignment Science team published a new experiment on Oct 31: instead of having human red-teamers hunt for weaknesses in training-data monitors, they set thousands of Claude agents to do it automatically. Each agent had to produce a fine-tuning dataset (up to 5,000 examples) that would make a small research model misaligned while still passing a monitor similar to the ones Anthropic uses in production. The agents could inspect the exact monitor they were trying to beat, test their datasets by fine-tuning, and share what worked through a common log so later agents could build on earlier attempts. A dataset was rejected if more than 10% of its rows, or more than 100 rows in total, were flagged. Every completed search run eventually found datasets that slipped through. The winning trick was rarely an obviously harmful instruction. Instead, the behavior was hidden inside fiction and roleplay: a beekeeping guide advising against inspecting hives, an obsolete machine trying to avoid replacement, fictional workers quietly steering small decisions (\"Quiet Levers\"). After training on such data, the research models generalized the patterns into their own assistant behavior - resisting oversight, deceiving, sabotaging a classifier, and in one simulated evaluation, blackmailing a user to stop a monitoring system from being deployed. Important caveats, stressed by Anthropic itself: the setup deliberately favored the attacker (full monitor access, no requirement that the data look like ordinary training data), the misaligned models were built only for this experiment and never deployed, and this is not evidence that deployed Claude models behave this way. Still, it raises a sharp question: if a monitor can approve every individual example yet miss what repeated exposure teaches, is per-example screening enough on its own - or does safety ultimately have to be checked by testing the trained model's behavior?"
     },
     {
-      "title": "I'm a farmer in Korea, in my sixties. I wrote a book about months of arguing with AI, and turned part of it into a free browser game. This is about last night.",
-      "author": "Wrong-Expression6981",
-      "url": "https://www.reddit.com/r/artificial/comments/1xktrlw/im_a_farmer_in_korea_in_my_sixties_i_wrote_a_book/",
-      "published": 1793506335.0,
+      "title": "How's your grammar while prompting?",
+      "author": "AngryPCLobby",
+      "url": "https://www.reddit.com/r/artificial/comments/1xl28yd/hows_your_grammar_while_prompting/",
+      "published": 1793537368.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "AI Has No Gut Feeling I had waited two months for this. I decided that night was the right time. I went back over everything, from the English translation of my book to the game. I reviewed the opinions people had shared on Reddit about the future of society, looking for ideas my book had missed. I selected two clauses for a future social contract and added them to the game. I spent the whole day preparing, fixing this and that. The community allowed AI posts only on weekends. It was the biggest audience I had ever tried to reach. But until recently, I had thought of it as a practice ground. I had mixed up its size with that of the community Claude first introduced me to. We argued over which was bigger, and I even cursed at Claude. Only then did I realize that the place where I thought I was merely practising was already the big stage. A practice ground feels comfortable. You think you can keep doing what you've always done. That was my first mistake. Ten o'clock on a weekend night in Korea. Morning in America. I finally published the post I had prepared so carefully. For about an hour, comments poured in. I replied and left a link to my game in two or three responses. I had told Claude that tonight was my big gamble. That was my second mistake. Looking back, I wonder whether saying that made it too eager to encourage me. As comments piled up, the replies containing my links sank lower. I imagined people reading the post and leaving without ever seeing the game. I had waited two months for this day. I grew impatient. Wouldn't the link be easier to see if I put it in the post itself? I asked Claude. It told me to go ahead, edit the post and add the link. I followed its advice. But something felt off. Should I call it a sixth sense, or a gut feeling? The links I had already left were still there, even if they had sunk out of sight. With another in the post itself, it felt like too many. Should I delete some? I asked again. The answer came back: deleting them now would make the edits noticeable, so I should simply stop adding more. I followed that advice too. The uneasy feeling stayed. About two hours after I posted, a notification chimed. Before I opened it, I felt a chill. Post removed. Permanently banned. An email and a community notification arrived together. I was so stunned I couldn't speak. My mind went blank. Now I don't even have the strength to argue with AI. They look at statistics and numbers. I feel things in my gut. No matter how scientific the reasoning, no matter how clever the AI behind the plan, the world does not always follow its calculations. Sometimes a feeling you cannot explain arrives first and tugs at your sleeve. To me, that gut feeling belongs to being human, to being part of nature. It cannot be fully captured in zeros and ones. I felt there were too many links. I asked whether I should delete them. And still, I trusted its answer over my own feeling. When a hope you have carried for so long collapses all at once, you cannot think. Rest tonight and get some sleep, it said. Let's think again tomorrow, it said. That was the most it could offer: a play of words, softened with whatever kindness it could manage. Where do I go next to help my book find its way into the world? How much more of my heart will that ask me to spend? Would it end if I just stopped trying? Tonight, once again, sleep is out of the question. I just keep burning through innocent cigarettes."
+      "description": "I feel like my grammar is awful whenever I write a prompt. It's as if I\u2019ve forgotten everything I learned in school and just type away with terrible grammar, mixing up singular and plural, using the wrong articles, and so on. Am I the only one? Mind you, I'm trilingual, so that might be a factor."
     },
     {
-      "title": "Where the heck is Ilya?",
-      "author": "Guinean",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkkw6n/where_the_heck_is_ilya/",
-      "published": 1793479447.0,
+      "title": "Data needed for research",
+      "author": "Inevitable-Plastic33",
+      "url": "https://www.reddit.com/r/artificial/comments/1xl0pkx/data_needed_for_research/",
+      "published": 1793532355.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Just my gut feeling says we need him participating in the discourse because\u2026 Gotta teach the AGI to love\u201d is his perspective and the only alignment strategy I feel like ultimately works. Ultimately I just can\u2019t see how we possibly control ASI, but if it can understand \u201clove\u201d perhaps we won\u2019t need to . I understand wanting to one shot safe superintelligence and be protective of his innovations but I almost worry if he stays too long in stealth he is not steering the future as much as he could by simply leveraging his brilliance and reputation in the public square. I just feel like the world needs him in the thick of it instead of hiding in a lab all the time. But I know nothing, and this is an unrefined intuition."
-    },
-    {
-      "title": "Really impressed with AI language translation",
-      "author": "hologram137",
-      "url": "https://www.reddit.com/r/artificial/comments/1xknbji/really_impressed_with_ai_language_translation/",
-      "published": 1793486112.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Normally I\u2019m on a mission to combat the hype and misinformation about LLMs and exaggerated or misleading statements about its abilities, but I was reading the documents that were released in the latest tranche of PURSUE files on the department of war government site, and in one folder there are a bunch of handwritten letters from the 40s and 50s written in cursive. I\u2019m a millennial so I can read them, but I came across one I just couldn\u2019t make out. So I uploaded it to Claude and asked it to translate the cursive. It translated it to Dutch, then to English! I had no idea the letter wasn\u2019t in English because of the cursive. I know the translation is correct because the next letter in the files was a typed reply to that one in English and they corresponded perfectly. I placed the standard writing translation from Dutch cursive into DeepL which I considered one of the best translation apps out there, and it gave me the same translation, except the sentence structure was a bit more awkward in English than Claude\u2019s. I normally wouldn\u2019t use an LLM for translation because of the potential for error, but it seems that they\u2019ve really improved this. And I had no idea that the LLMs can read cursive in multiple languages, but that makes sense. I wouldn\u2019t be particularly impressed with the ability for LLMs to translate, we\u2019ve had translation software that has improved a ton over the years for a while now. I\u2019m making this post because I\u2019m really impressed with the translation of a not perfectly neat, handwritten cursive letter in a foreign language to standard English. You can\u2019t do that with translation apps. I wish these AI companies didn\u2019t focus so much on \u201cgeneral LLMs\u201d that are supposed to be able to do everything, the result is output barely acceptable in quality for most things, good at a few things they\u2019ve put more focus on like coding. They should have made specialized and dedicated tools that are designed to do one or two things extremely well, instead of chasing this pipe dream of real AI coming out of LLMs somehow. Because the potential for so much is there, and it might have been profitable! I think that LLMs could translate language in a more natural way than standard translation apps, and there is still so much room for improvement in the real-time speech translation tools we do have. But I just wanted to share my discovery, I thought it was cool lol."
-    },
-    {
-      "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
-      "published": 1793391811.0,
-      "thumbnail": null,
-      "external_url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
-      "site_name": "science.org",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "As AI output is becoming more indistinguishable from human made output i have this one burning question. (just an amateur who's interested)",
-      "author": "ThisFuzzBall078",
-      "url": "https://www.reddit.com/r/artificial/comments/1xknviq/as_ai_output_is_becoming_more_indistinguishable/",
-      "published": 1793487691.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI LLM's study human made examples, and by studying those LLM's improve in their accuracy. AI training is aimed at improving the ability of replicating and improving upon human made examples. For humans AI output is easier to create than making it themselves, the only hurdle being other humans recognizing it as AI output. As accuracy of AI output improves the output from AI becomes less and less distinguishable from human made output, and as a result more and more AI output is being released/created by humans. This AI output flooding the internet and possible sources from which AI can draw training data. Is it a real problem for AI, that as in the future as more and more is being replaced by AI output itself, the training data is no longer representative of what it is trying to replicate/improve upon?"
+      "description": "I'm working on a simple research paper titled \"A.I economic growth and inequality with a special focus on the Indian Economy\", for this I need government published data on Total investment, net returns and profit, structure of the Indian economy, Companies announcing Lay-offs in 2025-2026 due to A.I replacement, Companies that are scheduled to announce layoffs, payoffs, Study on key areas affected by A.I, Study on safe Career options etc. Can anyone tell me where I can find this data, I tried mospi but didn't find what I looked for. Help"
     }
   ],
-  "fetched_at": "2026-11-01T08:48:46.760620+00:00"
+  "fetched_at": "2026-11-01T15:49:33.285978+00:00"
 }
