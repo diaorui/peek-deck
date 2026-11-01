@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 3078,
+      "github_stars": 3519,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 160,
+      "upvotes": 161,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
@@ -50,31 +50,12 @@
       "hf_url": "https://huggingface.co/papers/2610.14224",
       "arxiv_url": "https://arxiv.org/abs/2610.14224",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.14224.png",
-      "upvotes": 85,
+      "upvotes": 84,
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 21678,
+      "github_stars": 21794,
       "project_page": "https://harness2.github.io/"
-    },
-    {
-      "id": "2609.18063",
-      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
-      "organization_name": "Edge0",
-      "organization_fullname": "Edge0",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
-      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
-      "ai_summary": "Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.",
-      "hf_url": "https://huggingface.co/papers/2609.18063",
-      "arxiv_url": "https://arxiv.org/abs/2609.18063",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 31,
-      "num_comments": 9,
-      "published_at": "2026-09-15T20:00:00.000Z",
-      "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 8862,
-      "project_page": null
     },
     {
       "id": "2508.02739",
@@ -92,7 +73,26 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 44675,
+      "github_stars": 44937,
+      "project_page": null
+    },
+    {
+      "id": "2609.18063",
+      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
+      "organization_name": "Edge0",
+      "organization_fullname": "Edge0",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
+      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
+      "ai_summary": "Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.",
+      "hf_url": "https://huggingface.co/papers/2609.18063",
+      "arxiv_url": "https://arxiv.org/abs/2609.18063",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
+      "upvotes": 31,
+      "num_comments": 9,
+      "published_at": "2026-09-15T20:00:00.000Z",
+      "github_repo": "https://github.com/Edge0-AI/edge0",
+      "github_stars": 8904,
       "project_page": null
     },
     {
@@ -107,11 +107,11 @@
       "hf_url": "https://huggingface.co/papers/2606.23050",
       "arxiv_url": "https://arxiv.org/abs/2606.23050",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
-      "upvotes": 105,
+      "upvotes": 103,
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 30126,
+      "github_stars": 30222,
       "project_page": null
     },
     {
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2407.17789",
       "arxiv_url": "https://arxiv.org/abs/2407.17789",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.17789.png",
-      "upvotes": 48,
+      "upvotes": 39,
       "num_comments": 2,
       "published_at": "2024-07-25T01:50:46.000Z",
       "github_repo": "https://github.com/modelscope/agentscope",
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2610.40599",
       "arxiv_url": "https://arxiv.org/abs/2610.40599",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.40599.png",
-      "upvotes": 22,
+      "upvotes": 23,
       "num_comments": 2,
       "published_at": "2026-10-28T20:00:00.000Z",
       "github_repo": "https://github.com/hyz317/HairDeck",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-01T08:48:57.760897+00:00"
+  "fetched_at": "2026-11-01T15:49:42.091630+00:00"
 }
