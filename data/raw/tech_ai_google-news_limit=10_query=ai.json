@@ -25,24 +25,34 @@
       "description": "Each new tech product is designed to make our lives easier and keep us mindlessly entertained. Switch off: embrace discomfort \u2013 and boredom, says psychologist Carly Dober"
     },
     {
-      "headline": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlItTzhSbHlsT0VFaXZvT0JnQkJxcnFuV3ZjZW1rcVhCXzB6cnhZTmJ2Vy05dm5ld3JScUM3bWFsY0VOS2RjZ3N1TVp3SmhnN0ZxUHBCRjdvV2w3WXItUGtXT3FUb3VXSmFSMWw3eTJuaEN5UnRLQ2dnZ1J3UmJMV3lmQUh1aHk5T1YwNkRMS2Y0STNOem51Q3ZqaUM2QQ?oc=5",
-      "pub_date": 1793482860.0,
-      "article_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "description": "Apple's new CEO defended the company's current position in the AI landscape."
+      "headline": "The Sudden Death of an Nvidia AI Prodigy Leaves Behind Bitter Accusations",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVG5uendtNnNFc0xkbm42NUZkMVdIMVVxU1k2NEhNWXVUOUE0UEdwNFpIdV9INXdRR0QteVJzanlGUmVybWV6Nk92bnBUTlUtV2NtaDdTc0ZtcmY4ZkJGU0dBaktkbHVfXzR2MGlPWE5RMWRCZ1RUZVhneDFMNTdqTWlienlTSGowNlZVaW9vb3lBd09XU3F2VkJxcDYwNXRTZ053MmpUR19vMld2V01z?oc=5",
+      "pub_date": 1793495567.0,
+      "article_url": "https://www.wsj.com/us-news/the-sudden-death-of-an-nvidia-ai-prodigy-leaves-behind-bitter-accusations-57ee23ec",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "The AI Era: Will We Solve For The Rural Healthcare Crisis?",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDEtWjN0c1gzeGFyaU9ONVJkSldfbzdlejdWTEVtdm5pdWk1NGxlV0ZXM0F0WVRoWVNqSTUzWDRQSXZOVktLOUZxSWpnZkdLVE5HQnRJMUdQS2ZVY3RabUE1QUpRTno4N1BDNFJaRHQyRVV6S3BmSlpMSDAwUHFDT2xfSHZOa2ctZnJF?oc=5",
-      "pub_date": 1793481176.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/ai-era-solve-rural-healthcare-211256974.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c5850346b222753e471f3076e79cb11d3e46c5e675a04cb017c0d358444f6066/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F02bbc23a8ac100b3a9d5b64837edea8c.jpg",
-      "description": "As AI in Healthcare becomes more integrated, will rural areas be left behind?"
+      "headline": "Neoclouds: These firms you've never heard of are feeding fears the AI bubble could burst",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcklIc2hOdHpVN0lVbkN6VE9XZjZ1RXBQNmVucHp2QWJzQUpyUGpRTTZoTGE0Ni1kMjNOUHVtVE1RTG5ROEpZNENudV9nWWZ0eE1Xa2I5b0pDeGs?oc=5",
+      "pub_date": 1793497046.0,
+      "article_url": "https://www.bbc.com/news/articles/cje36degrgv5o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+      "description": "The amount of debt held by data centres is measured in the tens of billions of pounds."
+    },
+    {
+      "headline": "The AI Trade Has A New Bottleneck",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkF0eTVmNmxXT1BpZzVrMWljYnhNV1pUUlRpa2drNUJPNWh6VjZTVTFvUlNsaGdmTVFJYzJ4NG1tRWptbUR2cnBqMzFrZ2JseEZQWFRzSGpQYi16RFR5Vjl1R0ZLSzhMeXFMQVpab1BaTlg4REdLaEdPUXNYUnZld3Mwbm8tTExxRGJCNS1MZw?oc=5",
+      "pub_date": 1793493155.0,
+      "article_url": "https://www.forbes.com/sites/jasonkirsch/2026/10/31/the-ai-trade-has-a-new-bottleneck/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
@@ -75,22 +85,12 @@
       "description": "The stock market is turning its back on Big Tech."
     },
     {
-      "headline": "Anthropic's path to the Nasdaq just got a lot bumpier",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
-      "pub_date": 1793444401.0,
-      "article_url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108369821-1793036487413-108369821-1790713166683-gettyimages-2297246422-AFP_C9Q98QH.jpg?v=1793397881&w=1920&h=1080",
-      "description": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March."
-    },
-    {
-      "headline": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+      "headline": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
-      "pub_date": 1793415360.0,
-      "article_url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0JSYUVTbWFDbVNEek5LbEFJckNNWEQ5THF0R1VVbnk3RHU5Q3RUeV9LT19Bdm9QZXBBMkR2cUNoVHhuN1dUcGFabnZoVmd0eUl6dHhrbGdYNHJRUnBGZF9QRTZZTFZXNGg1NlZRTmoxS1NsRVRWVzU2UmRyeFhReE13UnZBRE95UVVEN2pkaVZ6aWVic3dmVDBrQWFuZ1Q2QXkzdjRwUzJIVzJJVVBqMm1qTDFLZ1llbXdtcjdn?oc=5",
+      "pub_date": 1793494800.0,
+      "article_url": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f",
       "image": null,
       "description": null
     },
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-31T22:44:01.161515+00:00"
+  "fetched_at": "2026-11-01T01:54:48.189757+00:00"
 }

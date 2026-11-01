@@ -65,7 +65,29 @@
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Normally I\u2019m on a mission to combat the hype and misinformation about LLMs and exaggerated or misleading statements about its abilities, but I was reading the documents that were released in the latest tranche of PURSUE files on the department of war government site, and in one folder there are a bunch of handwritten letters from the 40s and 50s written in cursive. I\u2019m a millennial so I can read them, but I came across one I just couldn\u2019t make out. So I uploaded it to Claude and asked it to translate the cursive. It translated it to Dutch, then to English! I had no idea it wasn\u2019t English because of the cursive. I know the translation is correct because the next letter was a typed reply in English and they corresponded perfectly. I placed the standard writing translation from Dutch cursive into DeepL which I considered one of the best translation apps out there, and it gave me the same translation, except the sentence structure was a bit more awkward in English than Claude\u2019s. I normally wouldn\u2019t use an LLM for translation because of the potential for error, but it seems that they\u2019ve really improved this. And I had no idea that the LLMs have been trained to read cursive, but that makes sense. I wouldn\u2019t be particularly impressed with the ability for LLMs to translate, we\u2019ve had translation software that has improved a ton over the years for a while now. I\u2019m making this post because I\u2019m really impressed with the translation of a not perfectly neat, handwritten cursive letter in a foreign language to standard English. You can\u2019t do that with translation apps. I wish these AI companies didn\u2019t focus so much on \u201cgeneral LLMs\u201d that are supposed to be able to do everything, the result is output barely acceptable in quality for most things, good at a few things they\u2019ve put more focus on like coding.They should have made specialized and dedicated tools that are designed to do one or two things extremely well, instead of chasing this pipe dream of real AI coming out of LLMs somehow. Because the potential for so much is there. I think that LLMs could translate language in a more natural way than standard translation apps, and there is still so much room for improvement in real-time speech translation. But I just wanted to share my discovery, I thought it was cool lol."
+      "description": "Normally I\u2019m on a mission to combat the hype and misinformation about LLMs and exaggerated or misleading statements about its abilities, but I was reading the documents that were released in the latest tranche of PURSUE files on the department of war government site, and in one folder there are a bunch of handwritten letters from the 40s and 50s written in cursive. I\u2019m a millennial so I can read them, but I came across one I just couldn\u2019t make out. So I uploaded it to Claude and asked it to translate the cursive. It translated it to Dutch, then to English! I had no idea the letter wasn\u2019t in English because of the cursive. I know the translation is correct because the next letter in the files was a typed reply to that one in English and they corresponded perfectly. I placed the standard writing translation from Dutch cursive into DeepL which I considered one of the best translation apps out there, and it gave me the same translation, except the sentence structure was a bit more awkward in English than Claude\u2019s. I normally wouldn\u2019t use an LLM for translation because of the potential for error, but it seems that they\u2019ve really improved this. And I had no idea that the LLMs can read cursive in multiple languages, but that makes sense. I wouldn\u2019t be particularly impressed with the ability for LLMs to translate, we\u2019ve had translation software that has improved a ton over the years for a while now. I\u2019m making this post because I\u2019m really impressed with the translation of a not perfectly neat, handwritten cursive letter in a foreign language to standard English. You can\u2019t do that with translation apps. I wish these AI companies didn\u2019t focus so much on \u201cgeneral LLMs\u201d that are supposed to be able to do everything, the result is output barely acceptable in quality for most things, good at a few things they\u2019ve put more focus on like coding. They should have made specialized and dedicated tools that are designed to do one or two things extremely well, instead of chasing this pipe dream of real AI coming out of LLMs somehow. Because the potential for so much is there, and it might have been profitable! I think that LLMs could translate language in a more natural way than standard translation apps, and there is still so much room for improvement in the real-time speech translation tools we do have. But I just wanted to share my discovery, I thought it was cool lol."
+    },
+    {
+      "title": "If You Could Automate One Task in Your Business, What Would It Be?",
+      "author": "Murky_Explanation_73",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkoyue/if_you_could_automate_one_task_in_your_business/",
+      "published": 1793490912.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm a web designer, and one of the most repetitive things in my business is finding new clients. So naturally, email outreach was one of the first things I wanted to automate. But not just regular cold email where you send the same template to thousands of businesses. I use Swokei to find businesses with websites, analyze them for issues with design, SEO, speed, and mobile optimization, and turn those findings into personalized, ready to send outreach emails. This way, I'm not just sending random offers. I'm reaching out with something relevant to each business while automating most of the research and writing process. It's made it much easier to keep outreach running consistently without spending hours researching prospects manually. What about you? What's one repetitive task you've automated with AI?"
+    },
+    {
+      "title": "As AI output is becoming more indistinguishable from human made output i have this one burning question. (just an amateur who's interested)",
+      "author": "ThisFuzzBall078",
+      "url": "https://www.reddit.com/r/artificial/comments/1xknviq/as_ai_output_is_becoming_more_indistinguishable/",
+      "published": 1793487691.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AI LLM's study human made examples, and by studying those LLM's improve in their accuracy. AI training is aimed at improving the ability of replicating and improving upon human made examples. For humans AI output is easier to create than making it themselves, the only hurdle being other humans recognizing it as AI output. As accuracy of AI output improves the output from AI becomes less and less distinguishable from human made output, and as a result more and more AI output is being released/created by humans. This AI output flooding the internet and possible sources from which AI can draw training data. Is it a real problem for AI, that as in the future as more and more is being replaced by AI output itself, the training data is no longer representative of what it is trying to replicate/improve upon?"
     },
     {
       "title": "Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom",
@@ -88,29 +110,7 @@
       "site_name": "link.springer.com",
       "favicon": "https://link.springer.com/favicon.ico",
       "description": null
-    },
-    {
-      "title": "Would you trust an emergency alert written by AI?",
-      "author": "relianceschool",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/",
-      "published": 1793465552.0,
-      "thumbnail": "https://external-preview.redd.it/J9cwlPjCEoM9R-VQuzhefFOKjkNt_HpiLJ4cPttWzuU.jpeg?width=640&crop=smart&auto=webp&s=f60a0eb8bf0896abe3847e73fac113d2eaf19aa8",
-      "external_url": "https://grist.org/extreme-weather/emergency-alert-written-by-ai-trust/",
-      "site_name": "Grist",
-      "favicon": "https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-57x57.png",
-      "description": "After Hurricane Isaias made landfall on the Gulf Coast as a Category 3 hurricane, the emergency management expert Laura Myers got a call from a meteorologist in Alabama. Myers is director of the University of Alabama\u2019s Center for Advanced Public Safety, and she talks to state and local emergency managers around her region all the time. The meteorologist told Myers that a local emergency manager had published a graphic showing where Isaias might threaten the Alabama coast with a \u201csting jet\u201d of high winds. The problem? The emergency manager had generated the graphic using an artificial intelligence chatbot, and it wasn\u2019t accurate. \u201cThat county emergency manager was trying to get his stakeholders to focus on the risk in that county, and so he had asked AI to help him,\u201d she said. \u201cIt did what he wanted it to do, but it was not meteorologically accurate.\u201d"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
-      "published": 1793389656.0,
-      "thumbnail": "https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&crop=smart&auto=webp&s=46878b5964fcad0e8127451cd7b6ee44a331ca80",
-      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1799740/apple-touch-icon.png",
-      "description": ">\"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\""
     }
   ],
-  "fetched_at": "2026-10-31T22:43:44.377295+00:00"
+  "fetched_at": "2026-11-01T01:54:20.760101+00:00"
 }

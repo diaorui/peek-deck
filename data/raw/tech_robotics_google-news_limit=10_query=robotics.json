@@ -15,6 +15,16 @@
       "description": "Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people\u2019s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ..."
     },
     {
+      "headline": "The Rare Earths Powering the Next Wave of Robotics",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGt4eVRvaWZ5NngwbjNmak1vaFlITG8zbDJCYjRtN0dCMm1hdVFVWFlxOGxNZEVFRkFXMERldnhBejJ5VUJDOUQ2T2ZmYklGb0pBS2VRdk1nTlJfWlhtZEJhTlNaenpFMkgtSDdvVDNfWUR5Zy0zajI4UXBIcXBSMjZZQjVDd1I1akJpT2hCNG5tLTFXX0R5Yl9n?oc=5",
+      "pub_date": 1793229649.0,
+      "article_url": "https://www.barchart.com/story/news/8513371/the-rare-earths-powering-the-next-wave-of-robotics",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Better Start Hitting the Gym Finally Because AI Robots Already Are",
       "source": "Futurism",
       "source_url": "https://futurism.com",
@@ -23,16 +33,6 @@
       "article_url": "https://futurism.com/robots-and-machines/ai-robots-hitting-gym",
       "image": "https://futurism.com/wp-content/uploads/2026/10/ai-robots-hitting-gym.jpg?quality=85&w=1200",
       "description": "A startup called Neura is training humanoid robots in a \"robogym\" where the machines constantly practice and perform tasks."
-    },
-    {
-      "headline": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81SDhKOHNjSHkycDZoMDZRVUo2d0IyTVRzUXF3SGN2NlkwaUVhU01LT0M2QW03Vl9BTGZ2d1ZKTkN6ck1NTy1KUzVCdHhVVkgwajFLenBZU2ZUNnBoUkZrUlBkUG5oS0dlQmN3MDJoRXltc05fUTZjT1doOWlqdw?oc=5",
-      "pub_date": 1793302664.0,
-      "article_url": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/02/apptronik-kitting.jpg",
-      "description": "The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation."
     },
     {
       "headline": "Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck",
@@ -45,14 +45,14 @@
       "description": "Your weekly selection of awesome robot videos"
     },
     {
-      "headline": "\u200bFactory robot maker opens Madison Heights HQ to get closer to Detroit automakers\u200b",
-      "source": "Crain's Detroit",
-      "source_url": "https://www.crainsdetroit.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWk94djZpdW05WmZCemhoUjgxVW5HZmd1UHRRZGg1R1ZaOThKMEp5N294QkhyNkxQZkhiZ2pEZHRTdDdjTDlxREF6V2RkWWVDb2l5WmY2d2NnYk5QWXZ2SjRDOWhiS2lSMzJlZ1hUdE9MQVI3SVVpWE1Kd3d3MWNXTll3d2tmLVpORDlwbEx2MHFBbnFtXzNPYkZVTWhyWVFuQzJtdA?oc=5",
-      "pub_date": 1793353500.0,
-      "article_url": "https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/",
-      "image": "https://www.crainsdetroit.com/resizer/v2/SVKJVYGEYFFYLCISDDBQ5DDLUA.jpg?auth=739d40306c70fa96361fa08a0873c6beca90c27ba0f65d695f5bdab11b74e014&width=1200",
-      "description": "Ati Robotics is betting that proximity to Detroit\u2019s automakers and suppliers will position it as a frontrunner in the future of factory innovation."
+      "headline": "Rendezvous Robotics raises $20 million for self-assembling spacecraft",
+      "source": "SpaceNews",
+      "source_url": "https://spacenews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE1vVzk0U1hQNUN5dDJRcUM4TG9DU1NPdDlHUi0zYkpOeklxRW5la0JCRGhsRXBoalF5UzQ5Qm9FM2tPU3ZPTWJpV3VrMlhjbEZyc2gtYTV5bEZRbmVEQno4UWoza0pMRVNsRDlXeFZXYnlsLWt1eGRadG1nZHE4R3d1bXMxOGxaLXNYRUVweUJvc3hjb2c?oc=5",
+      "pub_date": 1793265307.0,
+      "article_url": "https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It",
@@ -65,24 +65,24 @@
       "description": "Future space missions could soon get a big leg up \u2014 or arm, rather \u2014 thanks to robotics developed by Rocket Lab in collaboration with NASA."
     },
     {
-      "headline": "SF Startup Behind \u2018Robot-Dog Walkers Wanted\u2019 Ad Gets Visit, Threatening Texts From Angry Resident",
-      "source": "SFist",
-      "source_url": "https://sfist.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmV5cHp4YjAzMWx0R0U2VlFHYUVpXzl5UVkzeVVrRVpuVEt4ZnBqVklYUWxKM1FxZHhkTy1kaGYwal9ZTlJYakN4bXVwV3NRWU83dkROdFczamxaZGJBQVN1V2t0aUVmZXBrNDJIeUJjd2RCWWlIelEyazhld05OUi11ZDBHNTRTN3hsbjB2SE1idDdia1VHR3ZsVnFoTXlwYVNZSkl4dl8zY3JxUHlWTE1qUTBROTJGQ29pWnZUcjZsWXdk?oc=5",
-      "pub_date": 1793398680.0,
-      "article_url": "https://sfist.com/2026/10/30/sf-startup-behind-robo-dog-walkers-wanted-ad-gets-visit-threatening-messages-from-angry-resident/",
-      "image": "https://img.sfist.com/2026/10/GettyImages-2243596706.jpg",
-      "description": "An SF startup is training AI agents to control robots independently through the use of paid \"robot-dog walkers,\" and the project has already drawn threatening messages and a visit to the company's office from a disgruntled resident."
+      "headline": "Halloween robotics competition to take over Wayne High School",
+      "source": "WANE 15",
+      "source_url": "https://www.wane.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOG13ckdsc0Q3NlQ0YVFJTU54LXFaUGVNUHcwN0FDc1g1STRVZGhGM0tuTGVzQmdsQTgzU0N2TXN5SHBHckpfMU5fQ1dJTUxZUUxaSGpPQU9oYVBZQ3RHM3FVMGFvMDNrdzJRQVlpeW1TYno1T3N2ZWVycXFIUVBsa1JpX0w0Rm13QkI5ZjcyRUFzQlRzMmtkUng4SWNZSFZD0gGmAUFVX3lxTE1iUVFiek5pZXp4OHpqbGFBVk5rZmdsWGZJRURvMy1lWUl5NjhpcHpyTm4zQzJLUElWVk14V1FtdlhHMVlMeHlwX0FfWWJOeXczcXpqVWhpYXoxb3VPR2NDZGhXanpndExCTGxpQUlVUi1RT2FLd1RCc3hzWURnOFBEVjJvS0JqUG1maDZwMkQybklGNDNOLVcxN2dxbEtrOVlQZU14Rnc?oc=5",
+      "pub_date": 1793394533.0,
+      "article_url": "https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Bricklaying robots build entire apartment in Netherlands",
-      "source": "The Independent",
-      "source_url": "https://www.independent.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOV9HbG4wRDQxZV9KWW5GN0trY3hCUHI2U2NDVzB1UDJpTWVoV1F6WUNzdjYzU09TcUtPRWtwd0VMLU45UzNVcUpIaG00X0tyb3hHdFpOc3NMY2c0ZUx3RVUwZHhMYnFnQVR6U0ZETFdDT3dVNVBNZUFkNGdoZzluMHh4TGJ2T3YzMExOZDZST1EzTG5rcDRJcE9QUFc?oc=5",
-      "pub_date": 1793430960.0,
-      "article_url": "https://www.independent.co.uk/tv/news/robot-apartment-netherlands-monumental-video-b3076741.html",
-      "image": "https://cdn.ex.co/video-uploads/production/0010J000028qYZgQAM/0439c3d9-d85e-43bc-ae82-2f1a0d1a529c-thumbnail.jpeg?cb=1793360180908",
-      "description": "A robotics company says its bricklaying autonomous robots have built an apartment in the Netherlands. Monumental released footage on Thursday (29 October) showing robots on curved scaffolding laying bricks at a building site in Almere. The company's founder, Salar al Khafaji, said the project included robots laying a curved wall with different brick types, different brick bonds, and indented text in the brickwork. Monumental says its robots have also started building an entire neighbourhood in the Groningen area, including more than 100 houses and a hotel."
+      "headline": "Germany and Ukraine test armed ground robot for frontline deployment",
+      "source": "Euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3ZkV3A2MDJ5Y2ZJQl84dVlKTHBzdEQzVmJ3aTdjam9GeUVOS1NfdndGbjFsaU5MaVpoRnVnZGFwUXhNVUl2aDdCWlN3YjdfYlRrOE9EU0NNbjd1dk9BZktidFlJTVZZSHlKTkJYSGFReDNrbm9McVdnZE8yeEJ2YnNfbWQwQ3NZYkdsYWVIZW1KZU8wb0RhRkg5VW1HZWtOT1dpNkZyWQ?oc=5",
+      "pub_date": 1793300217.0,
+      "article_url": "https://www.euronews.com/2026/10/29/germany-and-ukraine-test-armed-ground-robot-for-frontline-deployment",
+      "image": "https://images.euronews.com/articles/stories/09/97/17/46/1200x675_cmsv2_b2374c78-3e71-5ac4-9eea-4e1bcdc59aed-9971746.jpg",
+      "description": "Remote-controlled and heading for the front lines. ARX Robotics and the Ukrainian company ROBONEERS report completion of the first major system tests. #EuropeNews"
     },
     {
       "headline": "Inside giant homebuilder D.R. Horton\u2019s bet on robotic homebuilding",
@@ -95,16 +95,16 @@
       "description": "On a typical jobsite, framing crews build walls by hand. America\u2019s largest homebuilder is teaming up with Promise Robotics to move some of that work into a factory, where robots do the framing."
     },
     {
-      "headline": "The Woman Breathing Life Into Next Generation Home-Help Robots",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmxhX2V0cXpNU0NlOC0tcGhXNV9nRDlDSHJYa1ZzZmVoTkF1THExeHNwVkhvVm5tMFpKWjFnNFY1bVlGRFZraUk3U0dCUXdDRlRpSDNraXg5ZV9lc0hkTnowVnFRbXZqdGpRSHNHc2NsWHpMX0l5MXZRaGRrUklCYkNLQVdvLXVkaHBGSzZUMEZORFRYU2M2a1NPYUM3QTFidVBEVndSa09ZTjh4UG11VzR5bE1yQ1pkX0Z2dUJZV1V0a0pRS2JR?oc=5",
-      "pub_date": 1793316610.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots",
-      "image": null,
-      "description": null
+      "headline": "\u200bFactory robot maker opens Madison Heights HQ to get closer to Detroit automakers\u200b",
+      "source": "Crain's Detroit",
+      "source_url": "https://www.crainsdetroit.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWk94djZpdW05WmZCemhoUjgxVW5HZmd1UHRRZGg1R1ZaOThKMEp5N294QkhyNkxQZkhiZ2pEZHRTdDdjTDlxREF6V2RkWWVDb2l5WmY2d2NnYk5QWXZ2SjRDOWhiS2lSMzJlZ1hUdE9MQVI3SVVpWE1Kd3d3MWNXTll3d2tmLVpORDlwbEx2MHFBbnFtXzNPYkZVTWhyWVFuQzJtdA?oc=5",
+      "pub_date": 1793353500.0,
+      "article_url": "https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/",
+      "image": "https://www.crainsdetroit.com/resizer/v2/SVKJVYGEYFFYLCISDDBQ5DDLUA.jpg?auth=739d40306c70fa96361fa08a0873c6beca90c27ba0f65d695f5bdab11b74e014&width=1200",
+      "description": "Ati Robotics is betting that proximity to Detroit\u2019s automakers and suppliers will position it as a frontrunner in the future of factory innovation."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-10-31T22:44:05.347221+00:00"
+  "fetched_at": "2026-11-01T01:54:41.673976+00:00"
 }
