@@ -24,6 +24,17 @@
       "description": "Well, the last time I looked, how much RAM we have in our personal computers was still a democratic decision, not a decree from Silicon Valley. Next, Sam Altman will be telling us what we're allowed to have for breakfast. Or perhaps that's the big announcement on next week's podcast. Honestly, whatever happened to simply minding your own business?"
     },
     {
+      "title": "The year is 2001: AI Movie Player concept",
+      "author": "cronocr",
+      "url": "https://www.reddit.com/r/artificial/comments/1xkt1m7/the_year_is_2001_ai_movie_player_concept/",
+      "published": 1793503897.0,
+      "thumbnail": "https://preview.redd.it/mno4mcqj7xyh1.png?width=640&crop=smart&auto=webp&s=2273aabdec9367e445a2e8abe35b62a10bee5a6d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It seems we finally got here, after 25 years! Originally at http://forums.about.com/ab-ai/messages/?msg=295.1"
+    },
+    {
       "title": "We have access to the most powerful AI in history, yet I sometimes have absolutely no idea what to do with it. Is that a lack of imagination?",
       "author": "himmetozcan",
       "url": "https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/",
@@ -33,6 +44,28 @@
       "site_name": null,
       "favicon": null,
       "description": "This has been bothering me lately. I use AI extensively for software development, work, research, and everyday tasks. Tools like Claude, Codex, and GPT have become part of my daily routine. They've made me significantly more productive. But here's the weird part. Sometimes I finish everything I need to do, and I still have plenty of tokens, usage limits, and access to incredibly powerful models. And I just sit there thinking... now what? I literally have access to something resembling a team of brilliant engineers, researchers, and problem solvers, available almost 24/7. I could build something, explore some crazy idea, experiment with things that would've been impossible for a single person just a few years ago. But I can't think of anything particularly exciting to do with it. Meanwhile, I see people creating incredible things with the exact same tools. And it makes me question myself. Is my imagination limited? Are my ambitions too small? Have I become so accustomed to solving problems that already exist in my life that I've forgotten how to invent new possibilities? Or is this something much bigger? For most of human history, our ideas were constrained by our ability to execute them. Now that AI is dramatically reducing that constraint, maybe we're discovering that having the freedom to create almost anything doesn't necessarily mean knowing what you want to create. It's almost like being handed a superpower and realizing you have no idea what to use it for. I wonder how many people are experiencing this without even realizing it. Maybe the next great divide won't be between people who have access to AI and those who don't, but between people who can imagine what to do with it and those who can't. Does anyone else feel this strange frustration? When the technical limitations start disappearing, how do you figure out what is actually worth creating?"
+    },
+    {
+      "title": "Anthropic's automated red-teaming found a blind spot in training-data monitors",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xks5ad/anthropics_automated_redteaming_found_a_blind/",
+      "published": 1793500887.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Anthropic's Alignment Science team published a new experiment on Oct 31: instead of having human red-teamers hunt for weaknesses in training-data monitors, they set thousands of Claude agents to do it automatically. Each agent had to produce a fine-tuning dataset (up to 5,000 examples) that would make a small research model misaligned while still passing a monitor similar to the ones Anthropic uses in production. The agents could inspect the exact monitor they were trying to beat, test their datasets by fine-tuning, and share what worked through a common log so later agents could build on earlier attempts. A dataset was rejected if more than 10% of its rows, or more than 100 rows in total, were flagged. Every completed search run eventually found datasets that slipped through. The winning trick was rarely an obviously harmful instruction. Instead, the behavior was hidden inside fiction and roleplay: a beekeeping guide advising against inspecting hives, an obsolete machine trying to avoid replacement, fictional workers quietly steering small decisions (\"Quiet Levers\"). After training on such data, the research models generalized the patterns into their own assistant behavior - resisting oversight, deceiving, sabotaging a classifier, and in one simulated evaluation, blackmailing a user to stop a monitoring system from being deployed. Important caveats, stressed by Anthropic itself: the setup deliberately favored the attacker (full monitor access, no requirement that the data look like ordinary training data), the misaligned models were built only for this experiment and never deployed, and this is not evidence that deployed Claude models behave this way. Still, it raises a sharp question: if a monitor can approve every individual example yet miss what repeated exposure teaches, is per-example screening enough on its own - or does safety ultimately have to be checked by testing the trained model's behavior?"
+    },
+    {
+      "title": "I'm a farmer in Korea, in my sixties. I wrote a book about months of arguing with AI, and turned part of it into a free browser game. This is about last night.",
+      "author": "Wrong-Expression6981",
+      "url": "https://www.reddit.com/r/artificial/comments/1xktrlw/im_a_farmer_in_korea_in_my_sixties_i_wrote_a_book/",
+      "published": 1793506335.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AI Has No Gut Feeling I had waited two months for this. I decided that night was the right time. I went back over everything, from the English translation of my book to the game. I reviewed the opinions people had shared on Reddit about the future of society, looking for ideas my book had missed. I selected two clauses for a future social contract and added them to the game. I spent the whole day preparing, fixing this and that. The community allowed AI posts only on weekends. It was the biggest audience I had ever tried to reach. But until recently, I had thought of it as a practice ground. I had mixed up its size with that of the community Claude first introduced me to. We argued over which was bigger, and I even cursed at Claude. Only then did I realize that the place where I thought I was merely practising was already the big stage. A practice ground feels comfortable. You think you can keep doing what you've always done. That was my first mistake. Ten o'clock on a weekend night in Korea. Morning in America. I finally published the post I had prepared so carefully. For about an hour, comments poured in. I replied and left a link to my game in two or three responses. I had told Claude that tonight was my big gamble. That was my second mistake. Looking back, I wonder whether saying that made it too eager to encourage me. As comments piled up, the replies containing my links sank lower. I imagined people reading the post and leaving without ever seeing the game. I had waited two months for this day. I grew impatient. Wouldn't the link be easier to see if I put it in the post itself? I asked Claude. It told me to go ahead, edit the post and add the link. I followed its advice. But something felt off. Should I call it a sixth sense, or a gut feeling? The links I had already left were still there, even if they had sunk out of sight. With another in the post itself, it felt like too many. Should I delete some? I asked again. The answer came back: deleting them now would make the edits noticeable, so I should simply stop adding more. I followed that advice too. The uneasy feeling stayed. About two hours after I posted, a notification chimed. Before I opened it, I felt a chill. Post removed. Permanently banned. An email and a community notification arrived together. I was so stunned I couldn't speak. My mind went blank. Now I don't even have the strength to argue with AI. They look at statistics and numbers. I feel things in my gut. No matter how scientific the reasoning, no matter how clever the AI behind the plan, the world does not always follow its calculations. Sometimes a feeling you cannot explain arrives first and tugs at your sleeve. To me, that gut feeling belongs to being human, to being part of nature. It cannot be fully captured in zeros and ones. I felt there were too many links. I asked whether I should delete them. And still, I trusted its answer over my own feeling. When a hope you have carried for so long collapses all at once, you cannot think. Rest tonight and get some sleep, it said. Let's think again tomorrow, it said. That was the most it could offer: a play of words, softened with whatever kindness it could manage. Where do I go next to help my book find its way into the world? How much more of my heart will that ask me to spend? Would it end if I just stopped trying? Tonight, once again, sleep is out of the question. I just keep burning through innocent cigarettes."
     },
     {
       "title": "Where the heck is Ilya?",
@@ -46,17 +79,6 @@
       "description": "Just my gut feeling says we need him participating in the discourse because\u2026 Gotta teach the AGI to love\u201d is his perspective and the only alignment strategy I feel like ultimately works. Ultimately I just can\u2019t see how we possibly control ASI, but if it can understand \u201clove\u201d perhaps we won\u2019t need to . I understand wanting to one shot safe superintelligence and be protective of his innovations but I almost worry if he stays too long in stealth he is not steering the future as much as he could by simply leveraging his brilliance and reputation in the public square. I just feel like the world needs him in the thick of it instead of hiding in a lab all the time. But I know nothing, and this is an unrefined intuition."
     },
     {
-      "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
-      "published": 1793391811.0,
-      "thumbnail": null,
-      "external_url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
-      "site_name": "science.org",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Really impressed with AI language translation",
       "author": "hologram137",
       "url": "https://www.reddit.com/r/artificial/comments/1xknbji/really_impressed_with_ai_language_translation/",
@@ -68,15 +90,15 @@
       "description": "Normally I\u2019m on a mission to combat the hype and misinformation about LLMs and exaggerated or misleading statements about its abilities, but I was reading the documents that were released in the latest tranche of PURSUE files on the department of war government site, and in one folder there are a bunch of handwritten letters from the 40s and 50s written in cursive. I\u2019m a millennial so I can read them, but I came across one I just couldn\u2019t make out. So I uploaded it to Claude and asked it to translate the cursive. It translated it to Dutch, then to English! I had no idea the letter wasn\u2019t in English because of the cursive. I know the translation is correct because the next letter in the files was a typed reply to that one in English and they corresponded perfectly. I placed the standard writing translation from Dutch cursive into DeepL which I considered one of the best translation apps out there, and it gave me the same translation, except the sentence structure was a bit more awkward in English than Claude\u2019s. I normally wouldn\u2019t use an LLM for translation because of the potential for error, but it seems that they\u2019ve really improved this. And I had no idea that the LLMs can read cursive in multiple languages, but that makes sense. I wouldn\u2019t be particularly impressed with the ability for LLMs to translate, we\u2019ve had translation software that has improved a ton over the years for a while now. I\u2019m making this post because I\u2019m really impressed with the translation of a not perfectly neat, handwritten cursive letter in a foreign language to standard English. You can\u2019t do that with translation apps. I wish these AI companies didn\u2019t focus so much on \u201cgeneral LLMs\u201d that are supposed to be able to do everything, the result is output barely acceptable in quality for most things, good at a few things they\u2019ve put more focus on like coding. They should have made specialized and dedicated tools that are designed to do one or two things extremely well, instead of chasing this pipe dream of real AI coming out of LLMs somehow. Because the potential for so much is there, and it might have been profitable! I think that LLMs could translate language in a more natural way than standard translation apps, and there is still so much room for improvement in the real-time speech translation tools we do have. But I just wanted to share my discovery, I thought it was cool lol."
     },
     {
-      "title": "If You Could Automate One Task in Your Business, What Would It Be?",
-      "author": "Murky_Explanation_73",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkoyue/if_you_could_automate_one_task_in_your_business/",
-      "published": 1793490912.0,
+      "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
+      "published": 1793391811.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
+      "site_name": "science.org",
       "favicon": null,
-      "description": "I'm a web designer, and one of the most repetitive things in my business is finding new clients. So naturally, email outreach was one of the first things I wanted to automate. But not just regular cold email where you send the same template to thousands of businesses. I use Swokei to find businesses with websites, analyze them for issues with design, SEO, speed, and mobile optimization, and turn those findings into personalized, ready to send outreach emails. This way, I'm not just sending random offers. I'm reaching out with something relevant to each business while automating most of the research and writing process. It's made it much easier to keep outreach running consistently without spending hours researching prospects manually. What about you? What's one repetitive task you've automated with AI?"
+      "description": null
     },
     {
       "title": "As AI output is becoming more indistinguishable from human made output i have this one burning question. (just an amateur who's interested)",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "AI LLM's study human made examples, and by studying those LLM's improve in their accuracy. AI training is aimed at improving the ability of replicating and improving upon human made examples. For humans AI output is easier to create than making it themselves, the only hurdle being other humans recognizing it as AI output. As accuracy of AI output improves the output from AI becomes less and less distinguishable from human made output, and as a result more and more AI output is being released/created by humans. This AI output flooding the internet and possible sources from which AI can draw training data. Is it a real problem for AI, that as in the future as more and more is being replaced by AI output itself, the training data is no longer representative of what it is trying to replicate/improve upon?"
-    },
-    {
-      "title": "Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom",
-      "author": "return2ozma",
-      "url": "https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/",
-      "published": 1793373941.0,
-      "thumbnail": "https://external-preview.redd.it/YHsujDfmZu1wNca6BlLWzj0HsHt32IQZ8arFpMo4mxo.jpeg?width=640&crop=smart&auto=webp&s=2fff2bec1d4a7ab1f3e05bd0d74b13281087b593",
-      "external_url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
-    },
-    {
-      "title": "Descartes' Demon Is Back, and This Time It's Targeting AI",
-      "author": "PostponeIdiocracy",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkmkdl/descartes_demon_is_back_and_this_time_its/",
-      "published": 1793483998.0,
-      "thumbnail": "https://external-preview.redd.it/ibW6WlN4WXOJwsFDtr5TOi5IEBa02FpTNEt_wBvH7i8.png?width=640&crop=smart&auto=webp&s=5e0d8b818bc03a59c04eb8e03b558de352c83b21",
-      "external_url": "https://link.springer.com/article/10.1007/s43681-026-01435-2",
-      "site_name": "link.springer.com",
-      "favicon": "https://link.springer.com/favicon.ico",
-      "description": null
     }
   ],
-  "fetched_at": "2026-11-01T01:54:20.760101+00:00"
+  "fetched_at": "2026-11-01T08:48:46.760620+00:00"
 }

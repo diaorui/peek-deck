@@ -45,14 +45,14 @@
       "description": "Your weekly selection of awesome robot videos"
     },
     {
-      "headline": "Rendezvous Robotics raises $20 million for self-assembling spacecraft",
-      "source": "SpaceNews",
-      "source_url": "https://spacenews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE1vVzk0U1hQNUN5dDJRcUM4TG9DU1NPdDlHUi0zYkpOeklxRW5la0JCRGhsRXBoalF5UzQ5Qm9FM2tPU3ZPTWJpV3VrMlhjbEZyc2gtYTV5bEZRbmVEQno4UWoza0pMRVNsRDlXeFZXYnlsLWt1eGRadG1nZHE4R3d1bXMxOGxaLXNYRUVweUJvc3hjb2c?oc=5",
-      "pub_date": 1793265307.0,
-      "article_url": "https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/",
-      "image": null,
-      "description": null
+      "headline": "Betting on AI and robotics, Dyson opens Glilot flagship store in Israel",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jdFdQWmt5Wm94am9lZEh4SkVsU0x2c1RrWlhvLVpiU2xtQmd2N3NkOWRDZ1luQWpGRlJmcXU1TFVkdVQ0QUViUEM4SXNXUWdoNXUwMkJSNEhiX2dMcmhPVUZ0RjhjVUJEcmFfMg?oc=5",
+      "pub_date": 1793522227.0,
+      "article_url": "https://www.jpost.com/business-and-innovation/article-913442",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744421",
+      "description": "Dyson robotics engineer Guy Turner says the company\u2019s next chapter will focus on machines that can sense, perceive, and solve problems independently"
     },
     {
       "headline": "A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It",
@@ -75,6 +75,16 @@
       "description": null
     },
     {
+      "headline": "Rendezvous Robotics raises $20 million for self-assembling spacecraft",
+      "source": "SpaceNews",
+      "source_url": "https://spacenews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE1vVzk0U1hQNUN5dDJRcUM4TG9DU1NPdDlHUi0zYkpOeklxRW5la0JCRGhsRXBoalF5UzQ5Qm9FM2tPU3ZPTWJpV3VrMlhjbEZyc2gtYTV5bEZRbmVEQno4UWoza0pMRVNsRDlXeFZXYnlsLWt1eGRadG1nZHE4R3d1bXMxOGxaLXNYRUVweUJvc3hjb2c?oc=5",
+      "pub_date": 1793265307.0,
+      "article_url": "https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Germany and Ukraine test armed ground robot for frontline deployment",
       "source": "Euronews.com",
       "source_url": "https://www.euronews.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.fastcompany.com/91632538/homebuilding-dr-horton-inside-giant-homebuilder-bet-on-robotics",
       "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91632538-dr-horton-robotic-homebuilding.jpg",
       "description": "On a typical jobsite, framing crews build walls by hand. America\u2019s largest homebuilder is teaming up with Promise Robotics to move some of that work into a factory, where robots do the framing."
-    },
-    {
-      "headline": "\u200bFactory robot maker opens Madison Heights HQ to get closer to Detroit automakers\u200b",
-      "source": "Crain's Detroit",
-      "source_url": "https://www.crainsdetroit.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWk94djZpdW05WmZCemhoUjgxVW5HZmd1UHRRZGg1R1ZaOThKMEp5N294QkhyNkxQZkhiZ2pEZHRTdDdjTDlxREF6V2RkWWVDb2l5WmY2d2NnYk5QWXZ2SjRDOWhiS2lSMzJlZ1hUdE9MQVI3SVVpWE1Kd3d3MWNXTll3d2tmLVpORDlwbEx2MHFBbnFtXzNPYkZVTWhyWVFuQzJtdA?oc=5",
-      "pub_date": 1793353500.0,
-      "article_url": "https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/",
-      "image": "https://www.crainsdetroit.com/resizer/v2/SVKJVYGEYFFYLCISDDBQ5DDLUA.jpg?auth=739d40306c70fa96361fa08a0873c6beca90c27ba0f65d695f5bdab11b74e014&width=1200",
-      "description": "Ati Robotics is betting that proximity to Detroit\u2019s automakers and suppliers will position it as a frontrunner in the future of factory innovation."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-01T01:54:41.673976+00:00"
+  "fetched_at": "2026-11-01T08:49:06.860204+00:00"
 }

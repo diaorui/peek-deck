@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-01T01:54:49.425496+00:00'
+updated: '2026-11-01T08:49:09.970158+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 01, 2026 at 01:54 UTC  
+**Last Updated:** November 01, 2026 at 08:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,633.54
+### $78,054.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -3.1%  
-**30d:** -8.3%  
-**90d:** +21.2%  
-**1y:** -29.8%  
+**24h:** +1.0%  
+**7d:** -2.4%  
+**30d:** -7.7%  
+**90d:** +22.0%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1560.79B
+**Market Cap:** $1570.02B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-38.1%
 
 **All-Time Low:** $67.81
-+114380.2%
++115063.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 30
+### 34
 **FEAR**
 
 ---
@@ -107,7 +107,7 @@ I'm a 10+year BTC enthusiat and user, with deep knowledge of the value propositi
 
 **[Shout out to Binance for covering 100% costs on the ICBMs #FundsAreSAFU](https://www.reddit.com/r/Bitcoin/comments/1xjzsq0/shout_out_to_binance_for_covering_100_costs_on/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -115,7 +115,7 @@ I'm a 10+year BTC enthusiat and user, with deep knowledge of the value propositi
 
 They dont understand it yet speak
 
-23h ago
+1d ago
 
 ---
 
@@ -131,7 +131,7 @@ On October 29, 2026, an attacker moved about $6.36 billion out of Binance wallet
 
 Why bitcoin still the most popular??
 
-20h ago
+1d ago
 
 ---
 
@@ -153,27 +153,19 @@ A while back, I met a guy on Facebook Marketplace whose house had been hit by a 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, digital assets tumble as Binance says $6.3 billion impacted in suspected record crypto hack](https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html)**
+**[Why bitcoin held up better after the record Binance hack](https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html)**
 
-Crypto asset prices declined on Friday after a hack on Binance impacted $6.3 billion in funds.
+Bitcoin was trading down about 4% on Friday afternoon, less than a day after the biggest crypto hack in history.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Why the Tokenization Boom May Be a Signal to Buy Bitcoin](https://finance.yahoo.com/video/why-tokenization-boom-may-signal-000044911.html)**
-
-Alex Thorn says every “blockchain, not Bitcoin” era has been a great time to buy BTC, and today’s tokenization boom looks like the same pendulum swing.
-
-Yahoo Finance • 1h ago
+CNBC • 1d ago
 
 ---
 
-**[META_TITLE_QUOTE](https://finance.yahoo.com/quote/BTC-USD/)**
+**[J.P. Morgan Just Made a Bold Prediction About Bitcoin. Should You Buy It?](https://finance.yahoo.com/markets/crypto/articles/j-p-morgan-just-made-012000318.html)**
 
-Find the live Bitcoin USD (BTC-USD) price, history, news and other vital information to help with your cryptocurrency trading and investing.
+J.P. Morgan sees the coin as a better performer than stocks, though it comes at a cost.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -193,23 +185,29 @@ CME Group • 3d ago
 
 ---
 
-**[Bitcoin Vs. Stablecoins Vs. CBDCs: The Fight Over Digital Money](https://www.forbes.com/sites/digital-assets/2026/10/31/bitcoin-vs-stablecoins-vs-cbdcs-the-fight-over-digital-money/)**
-
-Forbes • 4h ago
-
----
-
 **[Current price of Bitcoin for October 30, 2026](https://fortune.com/article/price-of-bitcoin-10-30-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1d ago
+Fortune • 2d ago
+
+---
+
+**[Bitcoin, Ether Forecast: $6B Binance Hack Rattles BTC/USD and ETH/USD](https://www.stonex.com/en-gb/news-and-analysis/bitcoin-ether-forecast-6b-binance-hack-rattles-btc-usd-and-eth-usd/)**
+
+StoneX • 2h ago
+
+---
+
+**[Bitcoin Vs. Stablecoins Vs. CBDCs: The Fight Over Digital Money](https://www.forbes.com/sites/digital-assets/2026/10/31/bitcoin-vs-stablecoins-vs-cbdcs-the-fight-over-digital-money/)**
+
+Forbes • 11h ago
 
 ---
 
 **[Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered](https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered)**
 
-CoinDesk • 7h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -217,7 +215,7 @@ CoinDesk • 7h ago
 
 Even if Bitcoin's growth rate slows, it could still rank among the top-performing assets in the world.
 
-The Motley Fool • 12h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -225,7 +223,7 @@ The Motley Fool • 12h ago
 
 James Lavish said AI stocks, cash yields, and long-time holders selling call options have kept Bitcoin stuck near $80,000.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -245,7 +243,7 @@ A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
 Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.
 
-⬆️ 4 • 💬 1 • 2h ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
+⬆️ 4 • 💬 1 • 9h ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
 
 ---
 
@@ -259,7 +257,7 @@ Last week, I saw an article on the front page of the New York Times website repo
 
 CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems
 
-⬆️ 4 • 💬 0 • 11h ago • [Bitcoin Core](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
+⬆️ 4 • 💬 0 • 18h ago • [Bitcoin Core](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
 
 ---
 
@@ -291,7 +289,7 @@ The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Hea
 
 Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, autonomously, within safety limits. - ZKStamp/AgentWallet
 
-⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/ZKStamp/AgentWallet)
+⬆️ 2 • 💬 0 • 2d ago • [GitHub](https://github.com/ZKStamp/AgentWallet)
 
 ---
 
@@ -315,33 +313,33 @@ Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: Dooobious Spookulation](https://www.youtube.com/watch?v=VWU9sgbvnzw)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 39K • 👍 2K • 💬 123 • ⏱️ 34:04 • 5h ago
+
+---
+
+**[I Did NOT See This Coming In CRYPTO. 6 Years Of Sideways Is About To END...](https://www.youtube.com/watch?v=bIyo4sacxko)**
+
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ This crypto bull market setup is ...
+
+📺 Crypto Capital Venture
+
+👁️ 23K • 👍 709 • 💬 56 • ⏱️ 12:08 • 17h ago
+
+---
+
 **[Bitcoin Survives Biggest Crypto Hack In History?!](https://www.youtube.com/watch?v=NLiGsqWQD-E)**
 
 Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
 📺 Anthony Pompliano
 
-👁️ 111K • 👍 2K • 💬 70 • ⏱️ 58:57 • 12h ago
-
----
-
-**[Binance HACKED...Billions of Bitcoin and Crypto Lost](https://www.youtube.com/watch?v=fVlEM1k2IFU)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 107K • 👍 2K • 💬 617 • ⏱️ 10:09 • 2d ago
-
----
-
-**[These Bitcoin Charts Feel Unthinkable](https://www.youtube.com/watch?v=phiU9axfRYM)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Willy Woo's simulation of 10000 ...
-
-📺 Lark Davis
-
-👁️ 16K • 👍 394 • 💬 25 • ⏱️ 8:54 • 13h ago
+👁️ 132K • 👍 3K • 💬 100 • ⏱️ 58:57 • 19h ago
 
 ---
 
@@ -351,27 +349,57 @@ Bitwise CIO Matt Hougan joins 'Fast Money' to talk the impact of the Binance hac
 
 📺 CNBC Television
 
-👁️ 22K • 👍 133 • 💬 98 • ⏱️ 3:44 • 1d ago
+👁️ 25K • 👍 143 • 💬 103 • ⏱️ 3:44 • 1d ago
 
 ---
 
-**[Bitcoin Hit By Crypto’s Biggest Hack Ever](https://www.youtube.com/watch?v=-OkUO3MlrrQ)**
+**[$2 Million Bitcoin SUPPLY SHOCK - Satoshi Planned This 18 Years Ago Today](https://www.youtube.com/watch?v=5akl91vjM_I)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts $2 MILLION ...
+
+📺 Bitcoin News Alerts
+
+👁️ 6K • 👍 226 • 💬 118 • ⏱️ 15:18 • 13h ago
+
+---
+
+**[uh oh, crypto holders... history is repeating!!](https://www.youtube.com/watch?v=9I1AJ0-Rudw)**
+
+History is Repeating for Bitcoin & Crypto into Nov 2026! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Make big ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 2K • 💬 57 • ⏱️ 8:13 • 12h ago
+
+---
+
+**[These Bitcoin Charts Feel Unthinkable](https://www.youtube.com/watch?v=phiU9axfRYM)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Willy Woo's simulation of 10000 ...
+
+📺 Lark Davis
+
+👁️ 18K • 👍 420 • 💬 26 • ⏱️ 8:54 • 20h ago
+
+---
+
+**[Binance HACKED...Billions of Bitcoin and Crypto Lost](https://www.youtube.com/watch?v=fVlEM1k2IFU)**
 
 Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
 📺 CryptosRUs
 
-👁️ 36K • 👍 847 • 💬 234 • ⏱️ 43:51 • 1d ago
+👁️ 108K • 👍 2K • 💬 614 • ⏱️ 10:09 • 2d ago
 
 ---
 
-**[BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VJDHUa_4_ho)**
+**[🚨CFTC TAKEOVER? Trump Speaks Out After Massive Binance Crypto Hack!](https://www.youtube.com/watch?v=G8gfQ38Xuko)**
 
-BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Crypto News: President Trump says they're looking into Binance hack as calls grow for crypto rules. Binance uncovers wider ...
 
-📺 Crypto World
+📺 Thinking Crypto
 
-👁️ 6K • 👍 225 • 💬 97 • ⏱️ 20:04 • 5h ago
+👁️ 21K • 👍 730 • 💬 199 • ⏱️ 11:11 • 1d ago
 
 ---
 
@@ -381,37 +409,7 @@ Come to the 1st ITC Conference (Ticket prices go up Nov. 2nd!): https://www.benj
 
 📺 Benjamin Cowen
 
-👁️ 173K • 👍 5K • 💬 305 • ⏱️ 26:26 • 1d ago
-
----
-
-**[BITCOIN HISTORY IS ABOUT TO REPEAT!!! [BOUGHT MORE]](https://www.youtube.com/watch?v=0p8ULJSfuEU)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
-
-📺 Crypto Kid
-
-👁️ 6K • 👍 245 • 💬 14 • ⏱️ 8:34 • 7h ago
-
----
-
-**[The Binance Hack Situation Got MUCH WORSE (crypto crash)](https://www.youtube.com/watch?v=iO4pYL1otX8)**
-
-Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 103K • 👍 2K • 💬 331 • ⏱️ 12:05 • 1d ago
-
----
-
-**[Earnings Shock &amp; Crypto Exploit Send Tech and Bitcoin Tumbling](https://www.youtube.com/watch?v=y-Jss1lvPSU)**
-
-FILLING IN TODAY: Verified Pro Trader Drew Dosek is covering My Trading Game Plan for Gareth Soloway. Same time, same ...
-
-📺 Verified Investing
-
-👁️ 65K • 👍 2K • 💬 51 • ⏱️ 20:55 • 1d ago
+👁️ 178K • 👍 5K • 💬 308 • ⏱️ 26:26 • 1d ago
 
 ---
 
