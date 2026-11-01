@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-10-31T22:44:07.013707+00:00'
+updated: '2026-11-01T01:54:49.425496+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** October 31, 2026 at 22:44 UTC  
+**Last Updated:** November 01, 2026 at 01:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,568.96
+### $77,633.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +0.3%  
 **7d:** -3.1%  
-**30d:** -8.1%  
-**90d:** +22.3%  
-**1y:** -29.4%  
+**30d:** -8.3%  
+**90d:** +21.2%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1559.54B
+**Market Cap:** $1560.79B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-38.4%
 
 **All-Time Low:** $67.81
-+114291.7%
++114380.2%
 
 ---
 
@@ -107,7 +107,7 @@ I'm a 10+year BTC enthusiat and user, with deep knowledge of the value propositi
 
 **[Shout out to Binance for covering 100% costs on the ICBMs #FundsAreSAFU](https://www.reddit.com/r/Bitcoin/comments/1xjzsq0/shout_out_to_binance_for_covering_100_costs_on/)**
 
-19h ago
+22h ago
 
 ---
 
@@ -115,7 +115,7 @@ I'm a 10+year BTC enthusiat and user, with deep knowledge of the value propositi
 
 They dont understand it yet speak
 
-20h ago
+23h ago
 
 ---
 
@@ -131,7 +131,7 @@ On October 29, 2026, an attacker moved about $6.36 billion out of Binance wallet
 
 Why bitcoin still the most popular??
 
-17h ago
+20h ago
 
 ---
 
@@ -153,25 +153,63 @@ A while back, I met a guy on Facebook Marketplace whose house had been hit by a 
 
 ## Google News: "bitcoin"
 
-**['Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market](https://finance.yahoo.com/markets/article/copy-intel-amazon-lead-tech-lower-bitcoin-falls-on-suspected-biggest-crypto-hack-in-history-alphacheck-190920999.html)**
+**[Bitcoin, digital assets tumble as Binance says $6.3 billion impacted in suspected record crypto hack](https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html)**
 
-Crypto assets took a hit this week after Binance's $6.3 billion hack, but the sour sentiment should be short-lived, analysts say.
+Crypto asset prices declined on Friday after a hack on Binance impacted $6.3 billion in funds.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Vs. Stablecoins Vs. CBDCs: The Fight Over Digital Money](https://www.forbes.com/sites/digital-assets/2026/10/31/bitcoin-vs-stablecoins-vs-cbdcs-the-fight-over-digital-money/)**
+**[Why the Tokenization Boom May Be a Signal to Buy Bitcoin](https://finance.yahoo.com/video/why-tokenization-boom-may-signal-000044911.html)**
 
-Forbes • 1h ago
+Alex Thorn says every “blockchain, not Bitcoin” era has been a great time to buy BTC, and today’s tokenization boom looks like the same pendulum swing.
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[18 Years of Satoshi’s Paradox: Can Bitcoin Survive What Comes Next?](https://finance.yahoo.com/markets/crypto/articles/18-years-satoshi-paradox-bitcoin-203915004.html)**
+**[META_TITLE_QUOTE](https://finance.yahoo.com/quote/BTC-USD/)**
 
-Bitcoin whitepaper turns 18 as AI probes the Satoshi paradox. Here is what has changed and what remains unsolved.
+Find the live Bitcoin USD (BTC-USD) price, history, news and other vital information to help with your cryptocurrency trading and investing.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[From Bitcoin to Binance: Crypto terms and what they mean](https://www.bbc.com/news/articles/cy5w2k5k5ylo)**
+
+The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?
+
+BBC • 1d ago
+
+---
+
+**[Bitcoin Futures](https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin)**
+
+Find information for Bitcoin Overview provided by CME Group. View Overview
+
+CME Group • 3d ago
+
+---
+
+**[Bitcoin Vs. Stablecoins Vs. CBDCs: The Fight Over Digital Money](https://www.forbes.com/sites/digital-assets/2026/10/31/bitcoin-vs-stablecoins-vs-cbdcs-the-fight-over-digital-money/)**
+
+Forbes • 4h ago
+
+---
+
+**[Current price of Bitcoin for October 30, 2026](https://fortune.com/article/price-of-bitcoin-10-30-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered](https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered)**
+
+CoinDesk • 7h ago
 
 ---
 
@@ -179,51 +217,15 @@ Yahoo Finance • 2h ago
 
 Even if Bitcoin's growth rate slows, it could still rank among the top-performing assets in the world.
 
-The Motley Fool • 9h ago
+The Motley Fool • 12h ago
 
 ---
 
-**[Dear Abby: Bitcoin scam stole half a million dollars from our future. But I still want my Italian dream](https://www.oregonlive.com/advice/2026/10/dear-abby-bitcoin-scam-stole-half-a-million-dollars-from-our-future-but-i-still-want-my-italian-dream.html)**
+**[Bitcoin Fatigue Is Real: James Lavish Says Early Holders Have Moved On As Young Investors Turn To Betting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-fatigue-real-james-lavish-152038879.html)**
 
-OregonLive.com • 1d ago
+James Lavish said AI stocks, cash yields, and long-time holders selling call options have kept Bitcoin stuck near $80,000.
 
----
-
-**[Jordi Visser Says One Overlooked Event Could Help Bitcoin Break Out Of Its Slump](https://www.tradingview.com/news/stocktwits:7c53c5298094b:0-jordi-visser-says-one-overlooked-event-could-help-bitcoin-break-out-of-its-slump/)**
-
-Wall Street veteran Jordi Visser said next week's U.S. Treasury refinancing announcement could ease the pressure on Bitcoin (BTC), gold and artificial intelligence (AI) stocks this year.Speaking on Anthony Pompliano's podcast on Friday, Visser said high real interest rates have been the main drag o…
-
-TradingView • 6h ago
-
----
-
-**[Strategy Posts $21 Billion Bitcoin Gain. Investors Have Bigger Concerns.](https://www.barrons.com/articles/strategy-earnings-stock-price-d9342d80)**
-
-Barron's • 1d ago
-
----
-
-**[Strategy's Bitcoin Per Share Falls 3.7%: Rapid Earnings Reaction](https://finance.yahoo.com/markets/crypto/articles/strategys-bitcoin-per-share-falls-210509463.html)**
-
-Strategy reported a $19.5 billion profit, but nearly all of it came from bitcoin’s price, not the business. Here’s why bitcoin per share is the number to watch, and why it’s shrinking.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Mike Flaum: MSTR Performance "Massively" To The Upside During Next BTC Bull Run](https://bitcoinmagazine.com/videos/mike-flaum-mstr-performance-massively-to-the-upside-during-next-btc-bull-run)**
-
-Log Scale CEO Mike Flaum discusses Strategy's Stretch, daily dividends, BTC preferreds vs. Treasuries for retirees, and separating volatility from true risk.
-
-Bitcoin Magazine • 21h ago
-
----
-
-**[Current price of Bitcoin for Oct. 30, 2026](https://fortune.com/article/price-of-bitcoin-10-30-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -235,7 +237,15 @@ Fortune • 1d ago
 
 A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
-⬆️ 182 • 💬 65 • 5d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+⬆️ 182 • 💬 65 • 6d ago • [GitHub](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+
+---
+
+**[Observations from Running Steal My Bitcoin](https://news.ycombinator.com/item?id=50321116)**
+
+Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.
+
+⬆️ 4 • 💬 1 • 2h ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
 
 ---
 
@@ -249,7 +259,7 @@ A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
 CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems
 
-⬆️ 4 • 💬 0 • 8h ago • [Bitcoin Core](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
+⬆️ 4 • 💬 0 • 11h ago • [Bitcoin Core](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
 
 ---
 
@@ -301,14 +311,6 @@ Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours
 
 ---
 
-**[Show HN: Everything ever written into Bitcoin, decoded from the transactions](https://news.ycombinator.com/item?id=50272842)**
-
-Explore messages, images, videos, PDF and audio written into Bitcoin. Search by date, source and format, or prepare your own Ordinals inscription.
-
-⬆️ 1 • 💬 0 • 3d ago • [Written in Bitcoin](https://writteninbitcoin.com/en)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -319,57 +321,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 92K • 👍 2K • 💬 66 • ⏱️ 58:57 • 9h ago
+👁️ 111K • 👍 2K • 💬 70 • ⏱️ 58:57 • 12h ago
 
 ---
 
-**[Bitwise&#39;s Matt Hougan: $6.3 billion Binance hack won&#39;t hurt Bitcoin long-term](https://www.youtube.com/watch?v=QykWuUwcKpo)**
+**[Binance HACKED...Billions of Bitcoin and Crypto Lost](https://www.youtube.com/watch?v=fVlEM1k2IFU)**
 
-Bitwise CIO Matt Hougan joins 'Fast Money' to talk the impact of the Binance hack on bitcoin pricing.
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
 
-📺 CNBC Television
+📺 CryptosRUs
 
-👁️ 21K • 👍 130 • 💬 98 • ⏱️ 3:44 • 1d ago
-
----
-
-**[Bitcoin: The Q4 Dump is Here](https://www.youtube.com/watch?v=bekghgecip8)**
-
-Come to the 1st ITC Conference (Ticket prices go up Nov. 2nd!): https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 168K • 👍 5K • 💬 306 • ⏱️ 26:26 • 1d ago
-
----
-
-**[BITCOIN HISTORY IS ABOUT TO REPEAT!!! [BOUGHT MORE]](https://www.youtube.com/watch?v=0p8ULJSfuEU)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
-
-📺 Crypto Kid
-
-👁️ 3K • 👍 210 • 💬 9 • ⏱️ 8:34 • 4h ago
-
----
-
-**[Technical Analysis  Crypto Collapse Triggers Major Buying Frenzy](https://www.youtube.com/watch?v=dGTPce5C1Pg)**
-
-The Binance hack just flushed the crypto market, and Gareth Soloway went on a buying frenzy as altcoins hit his key technical ...
-
-📺 Gareth Soloway
-
-👁️ 148K • 👍 4K • 💬 327 • ⏱️ 15:18 • 1d ago
-
----
-
-**[$6.3B crypto heist: Experts react to the biggest theft in history](https://www.youtube.com/watch?v=8tq_gZOzz1g)**
-
-Binance, the world's largest cryptocurrency exchange, suspended withdrawals after hackers broke into its digital wallets and stole ...
-
-📺 CNN
-
-👁️ 1.0M • 👍 4K • 💬 2K • ⏱️ 12:05 • 1d ago
+👁️ 107K • 👍 2K • 💬 617 • ⏱️ 10:09 • 2d ago
 
 ---
 
@@ -379,17 +341,17 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 14K • 👍 365 • 💬 25 • ⏱️ 8:54 • 10h ago
+👁️ 16K • 👍 394 • 💬 25 • ⏱️ 8:54 • 13h ago
 
 ---
 
-**[BITCOIN CRASHES as Binance Confirms $6.3B BIGGEST HACK EVER](https://www.youtube.com/watch?v=DfJNgEbHcD4)**
+**[Bitwise&#39;s Matt Hougan: $6.3 billion Binance hack won&#39;t hurt Bitcoin long-term](https://www.youtube.com/watch?v=QykWuUwcKpo)**
 
-Bitcoin is falling after Binance confirmed what looks like the biggest crypto exchange hack ever, with an estimated $6.3 billion in ...
+Bitwise CIO Matt Hougan joins 'Fast Money' to talk the impact of the Binance hack on bitcoin pricing.
 
-📺 The Wolf Of All Streets
+📺 CNBC Television
 
-👁️ 34K • 👍 664 • 💬 173 • ⏱️ 53:52 • 1d ago
+👁️ 22K • 👍 133 • 💬 98 • ⏱️ 3:44 • 1d ago
 
 ---
 
@@ -399,17 +361,57 @@ Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨
 
 📺 CryptosRUs
 
-👁️ 35K • 👍 843 • 💬 234 • ⏱️ 43:51 • 1d ago
+👁️ 36K • 👍 847 • 💬 234 • ⏱️ 43:51 • 1d ago
 
 ---
 
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=LX8ZYDz5vLI)**
+**[BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VJDHUa_4_ho)**
 
-Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): https://partner.blofin.com/d/RT1M Get ...
+BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Road To $1 Million USD
+📺 Crypto World
 
-👁️ 7K • 👍 207 • 💬 74 • ⏱️ 6:41 • 23h ago
+👁️ 6K • 👍 225 • 💬 97 • ⏱️ 20:04 • 5h ago
+
+---
+
+**[Bitcoin: The Q4 Dump is Here](https://www.youtube.com/watch?v=bekghgecip8)**
+
+Come to the 1st ITC Conference (Ticket prices go up Nov. 2nd!): https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 173K • 👍 5K • 💬 305 • ⏱️ 26:26 • 1d ago
+
+---
+
+**[BITCOIN HISTORY IS ABOUT TO REPEAT!!! [BOUGHT MORE]](https://www.youtube.com/watch?v=0p8ULJSfuEU)**
+
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+
+📺 Crypto Kid
+
+👁️ 6K • 👍 245 • 💬 14 • ⏱️ 8:34 • 7h ago
+
+---
+
+**[The Binance Hack Situation Got MUCH WORSE (crypto crash)](https://www.youtube.com/watch?v=iO4pYL1otX8)**
+
+Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 103K • 👍 2K • 💬 331 • ⏱️ 12:05 • 1d ago
+
+---
+
+**[Earnings Shock &amp; Crypto Exploit Send Tech and Bitcoin Tumbling](https://www.youtube.com/watch?v=y-Jss1lvPSU)**
+
+FILLING IN TODAY: Verified Pro Trader Drew Dosek is covering My Trading Game Plan for Gareth Soloway. Same time, same ...
+
+📺 Verified Investing
+
+👁️ 65K • 👍 2K • 💬 51 • ⏱️ 20:55 • 1d ago
 
 ---
 
