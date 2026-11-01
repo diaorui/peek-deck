@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.18063",
       "arxiv_url": "https://arxiv.org/abs/2609.18063",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 31,
+      "upvotes": 32,
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
@@ -172,26 +172,26 @@
       "project_page": null
     },
     {
-      "id": "2608.16157",
-      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
-      "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
-      "organization_name": "UCBerkeley",
-      "organization_fullname": "University of California, Berkeley",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
-      "summary": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai.",
-      "ai_summary": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
-      "hf_url": "https://huggingface.co/papers/2608.16157",
-      "arxiv_url": "https://arxiv.org/abs/2608.16157",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 110,
-      "num_comments": 2,
-      "published_at": "2026-08-16T20:00:00.000Z",
-      "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 15178,
-      "project_page": "https://www.flashml.ai/"
+      "id": "2609.36136",
+      "title": "Xiaomi-OCR-0 Technical Report",
+      "authors": "Xin Chen, Anan Du, Feng Feng et al. (10 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Compact OCR-specific vision-language models achieve strong document parsing performance, but often rely on costly supervision and focus primarily on visual-text reconstruction. We introduce Xiaomi-OCR-0, a unified 0.8B model for document parsing and OCR-centric understanding. We build an approximately 170M-sample OCR-centric corpus using an automated data engine that combines expert consensus, render-based verification, and targeted synthesis. Starting from Qwen3.5-0.8B, our progressive training recipe combines Q-Mask-based text anchoring, continued pretraining, and mixed-task reinforcement learning (Mix-RL). Xiaomi-OCR-0 achieves 95.24 on Real5-OmniDocBench, 96.83 on OmniDocBench v1.6, and 87.94 on Wild-OmniDocBench, while reaching an average score of 83.2 across five OCR-oriented VQA benchmarks. Ablations further show that, with sufficient parsing training, OCR-centric understanding supervision provides additional gains for document parsing.\n  Homepage: https://huggingface.co/spaces/SeerRay-Lab/Xiaomi-OCR-0.",
+      "ai_summary": "Xiaomi-OCR-0 is a compact vision-language model that unifies document parsing and OCR understanding through automated data synthesis, progressive training with text anchoring and reinforcement learning, and achieves state-of-the-art results on multiple benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2609.36136",
+      "arxiv_url": "https://arxiv.org/abs/2609.36136",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.36136.png",
+      "upvotes": 12,
+      "num_comments": 0,
+      "published_at": "2026-09-27T20:00:00.000Z",
+      "github_repo": "https://github.com/SeerRay-Lab/Xiaomi-OCR-0",
+      "github_stars": 567,
+      "project_page": "https://huggingface.co/spaces/SeerRay-Lab/Xiaomi-OCR-0"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-01T20:15:56.323681+00:00"
+  "fetched_at": "2026-11-01T23:46:33.224675+00:00"
 }

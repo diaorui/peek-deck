@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Grok Bot users ran out of a week\u2019s usage overnight, and Elon Musk says the agent was costing too much",
+      "author": "ross2000",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/",
+      "published": 1793569458.0,
+      "thumbnail": "https://external-preview.redd.it/7C7I8Cbl1YpXR7LJpJ2zA6eKxrTlPdVkU9bTCj_b4Mc.jpeg?width=640&crop=smart&auto=webp&s=768222d297c8d2ca5afd012438a218a4576054d5",
+      "external_url": "https://madrobot.blog/2026/11/01/grok-bot-usage-limit-100-overnight-musk-cost/",
+      "site_name": "MadRobot",
+      "favicon": "https://madrobot.blog/images/apple-touch-icon.png",
+      "description": "Grok Bot weekly usage meters jumped to 100% overnight on November 1. Cursor says that shouldn\u2019t happen. Musk says Grok Bot cost too much to serve."
+    },
+    {
       "title": "Trump\u2019s achilles heel is turning his own voters against him",
       "author": "theipaper",
       "url": "https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/",
@@ -11,6 +22,17 @@
       "site_name": "The i Paper",
       "favicon": "https://inews.co.uk/wp-content/themes/inews-theme/assets/images/favicon/192x192.png",
       "description": "Lifelong Republicans are campaigning against the spread of data centres"
+    },
+    {
+      "title": "OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card",
+      "author": "Alone-Dragonfruit602",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/",
+      "published": 1793569485.0,
+      "thumbnail": "https://external-preview.redd.it/DZ51iJNjU4-9Tp8E_R3kWqN9W0oRB7A7oqFC16tURFI.png?width=640&crop=smart&auto=webp&s=abfced9192c11565416eab39dd177afcc5309650",
+      "external_url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+      "site_name": "The Decoder",
+      "favicon": "https://the-decoder.com/resources/favicons/apple-touch-icon-60x60.png?v=3",
+      "description": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits."
     },
     {
       "title": "Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases",
@@ -46,17 +68,6 @@
       "description": "An Observer investigation reveals how OpenAI\u2019s race for dominance has compromised user safety, with conversational AI linked to psychiatric crises and violence"
     },
     {
-      "title": "X/Twitter makes AI dev look effortless, but I keep burning tokens on unfinished projects. How are you actually shipping full apps?",
-      "author": "NoPower5561",
-      "url": "https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/",
-      "published": 1793552022.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey everyone, I need a real sanity-check on my workflow, because I feel like I'm being scammed. \ud83d\ude05 To get some contacts every single day on X, Insta, and TikTok, I see people posting demo videos of insanely cool, bespoke software, sleek data visualizations, and full-stack side projects they supposedly \"built in 2 hours completely with AI.\" It makes me hyped and really optimistic for the future, and for tech as a whole. Howevr when I actually sit down to build anything beyond a MVP or lightweight component, I hit an invisible wall or something\u2026. Ok if I had to break it down, I\u2019ll first get honey potted, or stuck in the honeymoon phase. I\u2019ll start building with Claude and/or Codex (depending on the project but at this point they\u2019re pretty much the same). I\u2019ll go through the steps of setting up the scaffold, initial architecture, and base feature set goes insanely fast. Then boom at some point I\u2019ll hit a wall; or like a 80/20 trap, I\u2019ll try pushing the project into a complete, polished, end-to-end product, but it never gets there. Then I end up in a token burn hell where I\u2019m just burning through tokens, and context windows while the project completely stalls on the roadmap. I'm following standard prompt engineering practices, using system prompts, modular files, etc., but it feels like the model gets \"tired\" or bogged down once the codebase grows past a certain complexity. For the folks in here who are actually shipping full applications to production using LLMs: Is everyone on social media just showing off slick 30-second prototypes that are actually broken under the hood? What is your actual stack/workflow for pushing past that mid-project context degradation? Are you using spec-driven development (like custom system prompts, codebase indexing tools, or sub-agent architecture), or are you still dropping back into hand-coding the last 20%? Would appreciate any tips, workflow breakdowns, or brutal honesty. Cheers! Sidenote: if you guys have built any cool projects with AI, and are willing to share with me please feel free to :) I love stuff like that."
-    },
-    {
       "title": "DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention",
       "author": "winer666",
       "url": "https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/",
@@ -68,6 +79,28 @@
       "description": "On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype. The idea is not a new foundation model. It is orchestration around existing model-powered tools, built for one GitHub repository. A persistent Router session handles incoming conversations and dispatch decisions, but does not do the work itself. Each accepted work item gets its own Worker session and directory, so tasks run in parallel without sharing context. The prototype listens to GitHub events, and optionally to Feishu messages, and returns results in the original conversation, often as a pull request. A local web panel lists only the decisions that need a human. The stated philosophy is blunt: take as little human attention as possible, and give as much value as possible. The agent is supposed to confirm once, stay quiet while working, and speak again only with a result, a question, or a failure. It should act only when an allowed person asks, or when a team-written rule permits the work. For work it merely infers, the documented default is observe-only: record what it would do, do not execute it. DeepSeek's argument is that human attention, not model capability, is now the bottleneck. The team says a person can actively follow only 3 to 5 agent sessions at once. In its own simulated test, with about 300 messages and about 20 real work requests per run, the super-agent approach finished the slowest 5 percent of tasks in 15.7 minutes, versus 29.5 minutes for a single-session baseline. Treat those numbers as self-reported, not as an independent benchmark. The test used synthetic messages and simulated tools, real coding quality was not measured, and there is no verified comparison with Claude Code or Codex yet. DeepSeek is also unusually clear about the prototype limits: it is research code, not an official product and not production-ready, it may contain bugs, it differs from the internal system, and some essay ideas are future directions, not implemented features. The internal instance is reportedly already used for bug reproduction, code review, and Harness work, but that is the team's claim. Discussion: is a Router plus Workers the right split, or just parallel sessions with a nicer name? And where would you draw the line on proactive work? Would you let an agent open pull requests in your repository, and what permissions and team-written rules would you require before it touches anything? Sources: DeepSeek dsh-superagent-prototype on GitHub; reporting on October 31 by MarkTechPost (https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/) and Venture Atlas (https://www.ventureatlas.org/news/2026-10-31-deepseek-superagent)."
     },
     {
+      "title": "X/Twitter makes AI dev look effortless, but I keep burning tokens on unfinished projects. How are you actually shipping full apps?",
+      "author": "NoPower5561",
+      "url": "https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/",
+      "published": 1793552022.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I need a real sanity-check on my workflow, because I feel like I'm being scammed. \ud83d\ude05 To get some contacts every single day on X, Insta, and TikTok, I see people posting demo videos of insanely cool, bespoke software, sleek data visualizations, and full-stack side projects they supposedly \"built in 2 hours completely with AI.\" It makes me hyped and really optimistic for the future, and for tech as a whole. Howevr when I actually sit down to build anything beyond a MVP or lightweight component, I hit an invisible wall or something\u2026. Ok if I had to break it down, I\u2019ll first get honey potted, or stuck in the honeymoon phase. I\u2019ll start building with Claude and/or Codex (depending on the project but at this point they\u2019re pretty much the same). I\u2019ll go through the steps of setting up the scaffold, initial architecture, and base feature set goes insanely fast. Then boom at some point I\u2019ll hit a wall; or like a 80/20 trap, I\u2019ll try pushing the project into a complete, polished, end-to-end product, but it never gets there. Then I end up in a token burn hell where I\u2019m just burning through tokens, and context windows while the project completely stalls on the roadmap. I'm following standard prompt engineering practices, using system prompts, modular files, etc., but it feels like the model gets \"tired\" or bogged down once the codebase grows past a certain complexity. For the folks in here who are actually shipping full applications to production using LLMs: Is everyone on social media just showing off slick 30-second prototypes that are actually broken under the hood? What is your actual stack/workflow for pushing past that mid-project context degradation? Are you using spec-driven development (like custom system prompts, codebase indexing tools, or sub-agent architecture), or are you still dropping back into hand-coding the last 20%? Would appreciate any tips, workflow breakdowns, or brutal honesty. Cheers! Sidenote: if you guys have built any cool projects with AI, and are willing to share with me please feel free to :) I love stuff like that."
+    },
+    {
+      "title": "Feds find small businesses that use AI are more likely to hire",
+      "author": "killboy123",
+      "url": "https://www.reddit.com/r/artificial/comments/1xli21l/feds_find_small_businesses_that_use_ai_are_more/",
+      "published": 1793576583.0,
+      "thumbnail": "https://external-preview.redd.it/yI-JFrCh0OzDKk1l1DSR4uxMvPpzehg1fWefbRG5m8Y.jpeg?width=640&crop=smart&auto=webp&s=76705428734da579ccd63933800083ae802c29ab",
+      "external_url": "https://coffeecupai.com/blog/fed-asked-5248-small-businesses-about-ai/",
+      "site_name": "coffeecupai.com",
+      "favicon": "https://coffeecupai.com/assets/favicon.svg",
+      "description": "A Federal Reserve survey of 5,248 small businesses finds AI adopters are more likely to hire, while most firms remain early in implementation."
+    },
+    {
       "title": "Dear Sam, My RAM Is None of Your Business.",
       "author": "SuzannahB1001",
       "url": "https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Well, the last time I looked, how much RAM we have in our personal computers was still a democratic decision, not a decree from Silicon Valley. Next, Sam Altman will be telling us what we're allowed to have for breakfast. Or perhaps that's the big announcement on next week's podcast. Honestly, whatever happened to simply minding your own business?"
-    },
-    {
-      "title": "Working on a research framework for intelligence beyond infrastructure and looking for honest feedback",
-      "author": "zerovariance36",
-      "url": "https://www.reddit.com/r/artificial/comments/1xl59a7/working_on_a_research_framework_for_intelligence/",
-      "published": 1793545387.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have been working on a research project called Organic Intelligence Protocol, or OIP. The idea started with a question I kept coming back to. Are we evaluating intelligence fairly when access to infrastructure and resources can influence how capable a system appears to be? OIP is my attempt to explore that question through concepts such as infrastructure independence, grounded feedback, and adaptive moral logic. Over the past few months, I have been documenting the framework, reviewing its mathematical definitions, and auditing its use with four datasets from Bangladesh, Malawi, Uganda, and Ethiopia. The results have been more useful for identifying limitations than for making big claims. The audits did not establish enough evidence to authorize the constructs for further empirical evaluation. Some definitions still need clearer measurement rules, and a variable that looks relevant on paper cannot automatically be treated as a valid measurement. That has changed how I approach the project. Instead of forcing a score or trying to make the framework look complete,, I am keeping unresolved questions open and documenting what the available evidence can and cannot support. OIP is still research in progress. I am not claiming that it is validated or better than existing approaches. I would like to hear from people who have worked on AI evaluation, measurement theory, or empirical research. What would you want to see before taking a framework like this seriously? Where do you think the biggest methodological problems might be? Critical feedback is welcome. I would rather identify a fundamental problem now than build further work on an assumption that has not been tested."
-    },
-    {
-      "title": "How's your grammar while prompting?",
-      "author": "AngryPCLobby",
-      "url": "https://www.reddit.com/r/artificial/comments/1xl28yd/hows_your_grammar_while_prompting/",
-      "published": 1793537368.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I feel like my grammar is awful whenever I write a prompt. It's as if I\u2019ve forgotten everything I learned in school and just type away with terrible grammar, mixing up singular and plural, using the wrong articles, and so on. Am I the only one? Mind you, I'm trilingual, so that might be a factor."
-    },
-    {
-      "title": "What's One Repetitive Task You Would Automate With AI?",
-      "author": "Murky_Explanation_73",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlcntu/whats_one_repetitive_task_you_would_automate_with/",
-      "published": 1793562852.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm a web designer, and one of the most repetitive things in my business is finding new clients. So naturally, email outreach was one of the first things I wanted to automate. But not just regular cold email where you send the same template to thousands of businesses. I use Swokei to find businesses with websites, analyze them for issues with design, SEO, speed, and mobile optimization, and turn those findings into personalized, ready-to-send outreach emails. This way, I'm not just sending random offers. I'm reaching out with something relevant to each business while automating most of the research and writing process. It's made it much easier to keep outreach running consistently without spending hours researching prospects manually. What about you? What's one repetitive task you've automated with AI?"
     }
   ],
-  "fetched_at": "2026-11-01T20:15:44.700610+00:00"
+  "fetched_at": "2026-11-01T23:46:25.478295+00:00"
 }
