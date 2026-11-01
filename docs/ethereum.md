@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-01T01:54:49.428976+00:00'
+updated: '2026-11-01T08:49:09.976297+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 01, 2026 at 01:54 UTC  
+**Last Updated:** November 01, 2026 at 08:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,259.79
+### $2,269.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -2.5%  
-**30d:** -15.7%  
-**90d:** +21.2%  
-**1y:** -41.9%  
+**24h:** +1.3%  
+**7d:** -2.2%  
+**30d:** -15.4%  
+**90d:** +21.6%  
+**1y:** -41.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $276.96B
+**Market Cap:** $277.60B
 Rank #2
 
-**Circulating Supply:** 122,177,241 ETH
+**Circulating Supply:** 122,180,209 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.2%
+-54.1%
 
 **All-Time Low:** $0.43
-+523440.4%
++524648.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did I just do?", I end up explaining internal txns, token transfers, method IDs and why there's WETH in there. Etherscan is great if you know what you're looking at. For everyone else it's a wall of hex. So I built Simplorer. You open a transaction or an address and it tells you in one sentence what happened. Same swap, two views: Etherscan: https://etherscan.io/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer: https://simplorer.app/ethereum/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer says "0xc850…87b7 swapped 0.72 ETH for 1,378.06 USDT on Relay". Below that you see who sent and got what (part of it went through Uniswap) and the fee in ETH and dollars. A few things it does: - names the apps people actually use, a few hundred of them (Uniswap, Aave, Lido, 1inch, Curve, Pendle, OpenSea...) - approvals in plain words, like "allowed Uniswap to move any amount of its USDC", with a note on what that means and how to take it back - Safes and smart accounts show up as the account that acted, not as some contract call - bridges show where the coins went on the other side (Across, Stargate, LayerZero, CCTP) - fake tokens copying a real ticker and address poisoning transfers get a warning Most transactions from normal wallets come out as one clean sentence. If it can't name something it says "an app we don't know yet" instead of guessing. Data comes from Blockscout and a public node. No account, no ads. It's still in beta and I'm sure some transactions read weird. If you find one, send it to me. That's honestly the most useful feedback I can get.
 
-5d ago
+6d ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -104,7 +104,7 @@ I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tic
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+9d ago
 
 ---
 
@@ -128,7 +128,7 @@ Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decouple
 
 This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!
 
-8d ago
+9d ago
 
 ---
 
@@ -152,25 +152,25 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
+**[Ethereum staking queue holds over 1.17 million ETH with a 21-day wait for validator activation](https://pluang.com/en/news-feed/antrian-validator-ethereum-14-persen-kurang-eth-november-2023)**
+
+Ethereum's validator entry queue currently holds about 1.17 million ETH waiting to become active validators, with an estimated wait time nearing 21 days. This queue size is about 14% lower than the previous snapshot from October 23. Validators must stake at least 32 ETH to join, and the queue reflects the amount of ETH waiting for activation, not the number of stakers or market sentiment. Overall, 44.3 million ETH is staked, representing 36.22% of the total supply, with an annual reward rate of 2.44%.
+
+Pluang • 1h ago
+
+---
+
+**[Ethereum staking shows bullish signs as entry q...](https://pluang.com/en/news-feed/antrian-staking-ethereum-melonjak-ke-2-8-miliar-apakah-musim-eth-akan-datang)**
+
+Ethereum's staking data reveals a strong bullish sentiment with about 1.23 million ETH waiting to be staked, while only 1,682 ETH are queued for withdrawal. The total staked ETH increased from 41.5 million to 44.2 million between August and October, raising the staked share of circulating supply from 34% to 36.19%. However, ETH's price dropped 5.2% in the past week to $2,244.74, with bearish market indicators and external uncertainties like the Federal Reserve meeting and U.S. midterm elections casting doubt on the positive staking trend's impact on price.
+
+Pluang • 1h ago
+
+---
+
 **[Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)**
 
 CoinDesk • 1d ago
-
----
-
-**[US spot Ethereum ETFs see $1B outflows in October despite record on-chain staking](https://pluang.com/en/news-feed/etf-ethereum-spot-as-23-hari-keluar-dana-terus-menerus)**
-
-In October 2026, US spot Ethereum ETFs experienced over $1 billion in net outflows, marking the longest streak of daily withdrawals since their 2024 launch. This occurred even as on-chain Ethereum staking reached record levels, indicating differing investor approaches to the asset. BlackRock's iShares Ethereum Trust led the outflows, contributing nearly half of the October 30 redemptions. Despite the outflows, total net assets in these ETFs remain strong at about $13.22 billion, and Ethereum's price held steady between $2,200 and $2,500, showing the market's resilience to ETF selling pressure.
-
-Pluang • 58m ago
-
----
-
-**[Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint](https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/)**
-
-Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents.
-
-CryptoSlate • 2d ago
 
 ---
 
@@ -182,11 +182,11 @@ Fortune • 1d ago
 
 ---
 
-**[The Binance Hacker Now Holds More Than 420,000 ETH. Could Selling It Push Ethereum Below $2,000?](https://247wallst.com/investing/cryptocurrency/2026/10/30/the-binance-hacker-now-holds-more-than-420000-eth-could-selling-it-push-ethereum-below-2000/)**
+**[Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint](https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/)**
 
-A hacker holding 420,000 stolen ETH has Ethereum traders watching $2,000. Here's why that stash alone probably won't get it there.
+Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents.
 
-24/7 Wall St. • 1d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -198,31 +198,33 @@ Blockchain News • 1d ago
 
 ---
 
+**[The Binance Hacker Now Holds More Than 420,000 ETH. Could Selling It Push Ethereum Below $2,000?](https://247wallst.com/investing/cryptocurrency/2026/10/30/the-binance-hacker-now-holds-more-than-420000-eth-could-selling-it-push-ethereum-below-2000/)**
+
+A hacker holding 420,000 stolen ETH has Ethereum traders watching $2,000. Here's why that stash alone probably won't get it there.
+
+24/7 Wall St. • 1d ago
+
+---
+
 **[THORChain pauses operations after Ethereum reorg triggers double refund](https://cryptobriefing.com/thorchain-pauses-ethereum-reorg-double-refund/)**
 
 THORChain paused operations after an Ethereum reorg caused a double refund—accidentally slowing Binance hack money laundering in the process.
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 14h ago
 
 ---
 
 **[Ethereum Flashes a Risky Pattern as ETH ETFs Post Their Worst Monthly Outflows on Record](https://www.benzinga.com/crypto/26/10/62763699/ethereum-flashes-a-risky-pattern-as-eth-etfs-post-their-worst-monthly-outflows-on-record)**
 
-Benzinga • 11h ago
+Benzinga • 18h ago
 
 ---
 
-**[ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards](https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards)**
+**[Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets](https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum)**
 
-CoinDesk • 2d ago
+Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.
 
----
-
-**[Kinexys Brings JPM Coin Deposit Token to Ethereum](https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum)**
-
-JPM Coin, the USD deposit token from Kinexys by J.P. Morgan, is now live on Ethereum, giving institutional clients onchain cash across two public blockchains.
-
-J.P. Morgan • 12d ago
+Decrypt • 2d ago
 
 ---
 
@@ -234,7 +236,7 @@ J.P. Morgan • 12d ago
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 290 • 💬 10 • ⏱️ 1:14 • 4h ago
+👁️ 10K • 👍 435 • 💬 13 • ⏱️ 1:14 • 11h ago
 
 ---
 
@@ -244,7 +246,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 120 • 💬 76 • ⏱️ 24:46 • 9h ago
+👁️ 9K • 👍 140 • 💬 76 • ⏱️ 24:46 • 16h ago
 
 ---
 
@@ -258,13 +260,23 @@ We analyse Ethereum on 30 October 2026 using Elliott Wave, with the blue zone at
 
 ---
 
+**[BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VJDHUa_4_ho)**
+
+BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 13K • 👍 283 • 💬 105 • ⏱️ 20:04 • 12h ago
+
+---
+
 **[Ethereum Pumped 78% Last Time This Happened](https://www.youtube.com/watch?v=THOtCuWYWKg)**
 
 Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators For Sale: https://tinyurl.com/tcindicatorstore Free ...
 
 📺 Trade Confident
 
-👁️ 666 • 👍 9 • 💬 1 • ⏱️ 3:53 • 2d ago
+👁️ 672 • 👍 9 • 💬 1 • ⏱️ 3:53 • 2d ago
 
 ---
 
@@ -274,7 +286,17 @@ Im shocked that more people even over the last few years of being in the cryptoc
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 750 • 💬 197 • ⏱️ 30:56 • 2d ago
+👁️ 13K • 👍 750 • 💬 195 • ⏱️ 30:56 • 2d ago
+
+---
+
+**[ETHEREUM: The Man Who Burned Millions to Warn the World](https://www.youtube.com/watch?v=flfhQnw13_Q)**
+
+Try NMN (Anti-aging & NAD+): (BIGGEST DEAL OF THE YEAR BUY ONE GET ONE FREE STOREWIDE + FREE NMNPROMO ...
+
+📺 Hidden AmuraKa
+
+👁️ 35K • 👍 1K • 💬 291 • ⏱️ 39:04 • 1d ago
 
 ---
 
@@ -288,26 +310,6 @@ Get the complete market edge with DataDash Pro — combining Nick's Dash Report 
 
 ---
 
-**[ETHEREUM: The Man Who Burned Millions to Warn the World](https://www.youtube.com/watch?v=flfhQnw13_Q)**
-
-Try NMN (Anti-aging & NAD+): (BIGGEST DEAL OF THE YEAR BUY ONE GET ONE FREE STOREWIDE + FREE NMNPROMO ...
-
-📺 Hidden AmuraKa
-
-👁️ 30K • 👍 1K • 💬 255 • ⏱️ 39:04 • 1d ago
-
----
-
-**[Is Ethereum Heading Below $2,000?](https://www.youtube.com/watch?v=d4_ILykZ4uk)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 137 • 💬 11 • ⏱️ 7:47 • 2d ago
-
----
-
 **[ETH overhang, Chainlink custody, Uniswap TJAR and XRP transfers](https://www.youtube.com/watch?v=GERtKHWGXiI)**
 
 ETH overhang, Chainlink custody, Uniswap TJAR and XRP transfers A Binance-linked hacker's 420000 ETH stash weighs on ...
@@ -318,13 +320,13 @@ ETH overhang, Chainlink custody, Uniswap TJAR and XRP transfers A Binance-linked
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=8L9F6-P8LGM)**
+**[Is Ethereum Heading Below $2,000?](https://www.youtube.com/watch?v=d4_ILykZ4uk)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
-📺 Profit First
+📺 More Crypto Online
 
-👁️ 3K • 👍 84 • ⏱️ 6:18 • 12h ago
+👁️ 7K • 👍 137 • 💬 11 • ⏱️ 7:47 • 2d ago
 
 ---
 
