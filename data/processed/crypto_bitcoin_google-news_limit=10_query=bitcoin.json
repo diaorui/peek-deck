@@ -5,74 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Why bitcoin held up better after the record Binance hack",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BVTNTUE5pZ2JEMjNpbGdNLWk2bWtKRmdsOWk0UnIxM19xcTZJOFdpQTRHUUtIY0w0N2lnSk5jclRzbTMzaFF2QlZpZmd5bU0xMmwxVFY1dmNtbXVUQzh4MW5pTFM4dzBOcHlWYkdLUE_SAXZBVV95cUxOd2xaRHdBVkgycHg0eTBYRE9DdGR5Z3I3M3p3SG9pbUR3THRPNEhVRGstaXZlQ3VQX1BRUFRrQWY2WXdkTjdlMENFNTZkVFVKOVlJOGxlRm9vLWZZOHh2c2w1aEZEdWZVRHc2YVFZRVBCWGYyY3d3?oc=5",
-      "pub_date": 1793382842.0,
-      "article_url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108484198-1793330361900-gettyimages-2206279872-AA_25032025_2144027.jpeg?v=1793379056&w=1920&h=1080",
-      "description": "Bitcoin was trading down about 4% on Friday afternoon, less than a day after the biggest crypto hack in history."
+      "headline": "Bitcoin Price Plummets: Why a Binance Hack Is Shaking Crypto Today",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRHEtek1QR0VDQnZJV2NES0hQdDlrZlF6ZlI2WDhUS3pRd3lRWXA5T1g0NmVxOG9rN3BFUXhhYjJxeXBHV1NRRGRUTS0wVG1xSUpZVTdFOVByT0RDaHp4U3JRYm9YTzV1X1Jtc0JVV1dESjJ6b0ZRaEhpaktqOWNzTA?oc=5",
+      "pub_date": 1793377380.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-binance-crypto-hack-909849ff",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "J.P. Morgan Just Made a Bold Prediction About Bitcoin. Should You Buy It?",
+      "headline": "Pension Funds, Insurers Could Drive Bitcoin\u2019s \u2018Third Wave\u2019 Of Adoption, Says Adam Back",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0ZNdUp5MGxmQ2tjbUF1VGFkNUp2azNLZU55cENIVWZCcENVVl9LdTRHUlJoTm5XRkVjdkIwWWFSR01kMTFJcmhEQjhyQzFLeklxYU53RlJ3SHcyUnRjVjZZNVZOQVhES2xaSHVISW5MZi04VWtIVVpiSzVtWExZOVlNa1ZMY2hoR3FOQVBn?oc=5",
-      "pub_date": 1793496000.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/j-p-morgan-just-made-012000318.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8a1e987d499f2bfb788d0e1774386152877798e708e73e35e87333325d5aa69f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F18ae4151d7f9426ff12ccd24ae517e1d.jpg",
-      "description": "J.P. Morgan sees the coin as a better performer than stocks, though it comes at a cost."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkxaa1RDeEJWWHNGVlNjUWpOUFA1aldvMW9lQVlaU0t3MWZlM0pneFlwMHYzZzBkbXVHeWRrZ0FXOWJZN2wxbFJjWmhWQXYtQUJPQU9TNjVfQ3NrdWhELTB6b3p4Tm9PLXBxeEtRQXVBajJDRWVjYTEtalcyRThLRHRXZ3E1anJtanQ4dGdfTWxmWFJZclVLUGp2UXlSd2hK?oc=5",
+      "pub_date": 1793543345.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/pension-funds-insurers-could-drive-142905100.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c132f6ecde632f9071c9d32dd08fdc6e236d6889a9a9442b2960e336b4b6fccc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Ff51e087aa7359c86d95e2aecd834e230.jpg",
+      "description": "Adam Back said bank capital rules still make holding Bitcoin \"quite expensive\" for lenders."
     },
     {
-      "headline": "From Bitcoin to Binance: Crypto terms and what they mean",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eXZCYVB1MGRuVTgwNXMwcmJwMU1DenZtSGxyNlBZTU40OUxtT0JBbjZtZ3NKUXFmZTM2R2swZTJudGNZTV9GaVBsM05jRjBUZ0ctSy1rMDd0UQ?oc=5",
-      "pub_date": 1793360151.0,
-      "article_url": "https://www.bbc.com/news/articles/cy5w2k5k5ylo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0a84/live/96e73740-609e-11f0-ba44-5934558aeaa1.jpg",
-      "description": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?"
+      "headline": "Grant Cardone bets Jason Calacanis $1M that Bitcoin hits a new high within 2 years \u2014 Calacanis calls it 'free money'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzFxaXBSSTY1UG5PMHowVFJZNWlhMl9EaHVTcFk5MjdWZFY0by1Rdk9kUmRaWDNBN1ZGVmFNNmV6emtJWTlIbVQtbEZUc3l1V3pSV2xsbjdyZlBhb2JrVzVjREc5WG9aR3p4ZFpvQm5ReTcwNjAwMlIyXzQ4SU05SWFwWHlINmU5VEhKZENTTHBDeUVNcExMNnZkMjJGSXk1?oc=5",
+      "pub_date": 1793538000.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-bets-jason-calacanis-130000437.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2f5cae50a7ac31c2320f8ee1399d009c2971e51424689deacacb94d56cc13bf6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Faa8d66044e508fd5bfc1218a184b5a13.jpg",
+      "description": "This isn\u2019t the only $1 million bet Calacanis has been challenged with since making his bold Bitcoin predictions."
     },
     {
-      "headline": "Bitcoin Futures",
-      "source": "CME Group",
-      "source_url": "https://www.cmegroup.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Db1M3SWg3WG9OOU9xZ1QwTjlKUDZvSVpVektnRnFTSXFvdXBmQm5lS2h5ODFwdWl2eFlQT0hRZWR1ZUxfdzFHVXhBZUNKRl9Semw3NG55S0lrUXFXNFR4eVZwdHFtLVZxU1NZeS1Va0RZNU0?oc=5",
-      "pub_date": 1793208993.0,
-      "article_url": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/images/og-cme-group.jpg",
-      "description": "Find information for Bitcoin Overview provided by CME Group. View Overview"
-    },
-    {
-      "headline": "Current price of Bitcoin for October 30, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzeGNZdTE5WVV0b1lUeEFxc3FZWDBhbmlaekhfRXBGTnZqcVBfb2N2UDFyc0xNeHJXdmN1MmdZU05aREN3d0dwM1B6X01UMFREeWkxMmF2dFRzN0s2R0NMRHVFR2RXMmM?oc=5",
-      "pub_date": 1793343127.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-30.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Bitcoin, Ether Forecast: $6B Binance Hack Rattles BTC/USD and ETH/USD",
-      "source": "StoneX",
-      "source_url": "https://www.stonex.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFpSWnVjRm9SMHRGeWg1cWZQTU5TUnUyWTU3ZjdCTHV5VV9KZUt2N2VKaHBESkJkTUtiaEk2UmVvZExLY2hYa1VoX2xhUDNsdzBXalZTYnBLb0NBbVJkZElWOTJGZXhmT0phN0RKX281QzhmSXF6Qk5nVTZIZk1pUXNLcDZSbDcyRXZHNmxNeW1WWk5PaWUxX1dyelhBd1NUREVBWjhrSHJvRmF4eFJYTFFabEU?oc=5",
-      "pub_date": 1793512237.0,
-      "article_url": "https://www.stonex.com/en-gb/news-and-analysis/bitcoin-ether-forecast-6b-binance-hack-rattles-btc-usd-and-eth-usd/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Vs. Stablecoins Vs. CBDCs: The Fight Over Digital Money",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFNKTjFGMXV4UTFBZVk2SkRyNElTbVJRY0R3R3BPYUE4MmpQa0RIOUZZQ2l1LXVZVFp1R01XekVIa2puckhvWnlqTS1xS005WTZ4NjRtaUxJdW1rUmtGWVdRUUl6bnVtZEd1NlFhMzdCWVNhQzNlU1JGZVNRZm0tYXpVSmNmcHF0MTZtZHRUdmhjUWpnWXJSWnU1bHFwQkhKSnZsaGgwNDNUcE50bENucEVnUXY0bk0?oc=5",
-      "pub_date": 1793482048.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/10/31/bitcoin-vs-stablecoins-vs-cbdcs-the-fight-over-digital-money/",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Holds Near $78K Over Weekend As Polymarket Refunds Hack Victims After Crypto Security Scares",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUXZfQjlDaHRWaTN4cEdjQXZ1SmxrQm5mU3dmRURHSUJGNmJMd04ta3E0VmFRNzY3NFYwbUdYLS1HdXdsUnEzbXVMV0l1Y1hJbEhvakpQZkpxMkRZOTFnV1g4a1dDNi1pYW8tb0RENThoemZZZS1yaDBGWjA4Q2lPb05TdENrb0tFR2xpdHZWS0J4OWlIMHIw?oc=5",
+      "pub_date": 1793540099.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-near-78k-over-133459363.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7b8ce8f7e5443350ac6fec6640880625fae446224e329be56edb84e64f271cce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fd1a81634b2c531c4fc8c52155a9b270a",
+      "description": "The breach happened amid a backdrop of a $6 billion hack on Binance, which the FBI attributed to North Korea's TraderTraitor group."
     },
     {
       "headline": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
@@ -85,26 +55,56 @@
       "description": null
     },
     {
-      "headline": "Prediction: Here's What a $1,000 Investment in Bitcoin Will Be Worth in 2030",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT280eW9HWDIySndnWHF6UHdkSnoxSU9iX1c0QTdWZlRRc1ZzdFlKUk1VZ0xqYTh6RmdqQlpNcElpaTM1Vk5UamIwTThoMVFGRkhnTk1EbnA5VzkxZHRPalBYRU81bk1fTnQ1aHowYjVhQXQ0X1hZNVdOcTNQV3pGTDI3RE10LUI5X0I3Z0FpOUNFR3B4eVpV?oc=5",
-      "pub_date": 1793451540.0,
-      "article_url": "https://www.fool.com/investing/2026/10/31/prediction-heres-what-a-1000-investment-in-crypto/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891440%2Fbitcoin-bouncing-higher.jpg&w=1200&op=resize",
-      "description": "Even if Bitcoin's growth rate slows, it could still rank among the top-performing assets in the world."
+      "headline": "Dear Abby: Bitcoin scam stole half a million dollars from our future. But I still want my Italian dream",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR05jN01wUy1Ia1pNcUU2d19FYXZWNFdrNkFMdFhVOE1yTVpwaU9vRW8wclhjOWhKQmlUY3R1UnExZE9Cc2RrOXZEQW5GdjVGNmpXeTBrZUczYzNkZTRqclRuUmVOYnJMVW1BN2QtY0M3bDBqdHEyS3U3dHFrLVFjcTJoS3VsQ2JDdWM3ckE4TXZHdnBlYVNiVWQ0Tmpfd2Rwczg5d3V5QXlRbFRhN2NiUzdoR3UyZWl1SUlSMnhtclBfeFFSN0RLTjR5ZExFQ1Y5M1Vfd21hRU5CQVg1eUJoeW1R0gH2AUFVX3lxTFBYSTZWXzdURUs0MmN1eXBiX3BhOV9KYy1VbjRLbmZBS3BtVnhSdEFLV3FpNTdja01SVWtKeFQxR2Z4UVp5S1pOU3MxUTBqRzdhcHQxaUhCWFBkWUpwWE8wMWJXcGpjNUR5WGROdGVCZ080ek9qUGh3SHBJNDh0dGF1OUhFX0VoYmlhdlpLVjlkNXk0a3ZkNmRFUFg4dDh3M1RXeXp3ZWdqLTlPeHVlUUpjeDQ3WGxfVVg5YTgyVUV1ZWFONHZOaGtuYUVPTmxWUlJXbnQ4LWxDaDdtV0wyNlRNN1JvcnlUbnBaQkVjRUx2Y3JTNlQ2Zw?oc=5",
+      "pub_date": 1793354400.0,
+      "article_url": "https://www.oregonlive.com/advice/2026/10/dear-abby-bitcoin-scam-stole-half-a-million-dollars-from-our-future-but-i-still-want-my-italian-dream.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Bitcoin Fatigue Is Real: James Lavish Says Early Holders Have Moved On As Young Investors Turn To Betting",
+      "headline": "J.P. Morgan Just Made a Bold Prediction About Bitcoin. Should You Buy It?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQclVxUC1pUWtqUjVNdXh2cnpMbHdBc1dvb0d3U3ZPdC1teXQ2b1BpQk5GZEY4V2ZiandwWGs3dU5HS19yQU1zeXlRNE9FVklyR1NCTlNIZVI3RC1WZFktUmNuNjJYeHJCemd1cWhQNXRyLTlPc2dBYjJ5VlNVQWwyTm1MTXp0REhNUkp3UE5UNDBMR1VZbmhFc1dnc3RFSnc?oc=5",
-      "pub_date": 1793460038.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-fatigue-real-james-lavish-152038879.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fba3ffccb1420140fe0e451fcb50ab371efc01706f298bd4e8bb08e436696ce7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F5549cb7ee33c83ae47f388274ebb821a",
-      "description": "James Lavish said AI stocks, cash yields, and long-time holders selling call options have kept Bitcoin stuck near $80,000."
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0ZNdUp5MGxmQ2tjbUF1VGFkNUp2azNLZU55cENIVWZCcENVVl9LdTRHUlJoTm5XRkVjdkIwWWFSR01kMTFJcmhEQjhyQzFLeklxYU53RlJ3SHcyUnRjVjZZNVZOQVhES2xaSHVISW5MZi04VWtIVVpiSzVtWExZOVlNa1ZMY2hoR3FOQVBn?oc=5",
+      "pub_date": 1793496000.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/j-p-morgan-just-made-012000318.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8a1e987d499f2bfb788d0e1774386152877798e708e73e35e87333325d5aa69f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F18ae4151d7f9426ff12ccd24ae517e1d.jpg",
+      "description": "J.P. Morgan sees the coin as a better performer than stocks, though it comes at a cost."
+    },
+    {
+      "headline": "Bitcoin, Gold, Silver & Stocks Face a Market-Wide Sell-Off: Why Is Everything Falling at Once?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWk2YzBfM0hrS1lQTjMxUG4xeUtkajVHZU1yWTFIWmgydHhqby11aEZNZ01oSlBEM1A2dksyZFVsbWs4QlRrME04Q3JSdG53QjRGSXZpelVTc2NrSGlpcWM5OXlhckhNQ1FIbFU4OVVvZjdGUTl2cnJ0ZjFLYm1QSHhxZl9pWmZ0R2JZODdQdUpmVFM0bTRzejQ4bEdJSFZ2ZTJuWm9oaWJFZXNqRW83YXA2SHo2c2M5VWgyOG5uSXczWV90YlluMUxkZFNuNElpRVdESjRUbTYzTHFvWEg4ZG13?oc=5",
+      "pub_date": 1793452666.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:e42e0123b094b:0-bitcoin-gold-silver-stocks-face-a-market-wide-sell-off-why-is-everything-falling-at-once/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The global markets are heading into November on a bearish note, displaying uncertainty with rising concerns over returns on AI-based investments. Besides, rising oil prices and renewed geopolitical tensions are adding to inflation worries. Moreover, the latest FED policy has done little to reduce u\u2026"
+    },
+    {
+      "headline": "Strategy's Michel Saylor Says the Next Bitcoin Bull Market Has Already Started. Here's Why He's Right.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajFPQldfZGpPNm9HWFlQSW03RmZOVGRfLWxSZ2NFcWJYTW5CS1pHb2hDUFpUaFVzcmN3dk5ZVXF6RXkwMjctOS1sVkREQWNHRzJscExFaWpjZXY3TGdnNEsta0ZnRGY0ZUxWVnJ4Q2J4SEIwVVg0Z2FkYTlGUGN0UC1ieFZHemliZi1JYzNFT01BdzV0MkFmQg?oc=5",
+      "pub_date": 1793505600.0,
+      "article_url": "https://www.fool.com/investing/2026/10/31/strategys-michel-saylor-says-the-next-bitcoin-bull/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892051%2Fbitcoin-bull.jpg&w=1200&op=resize",
+      "description": "Saylor sees one price dynamic as being particularly important to differentiating between bull and bear regimes."
+    },
+    {
+      "headline": "Current price of Bitcoin for October 30, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzeGNZdTE5WVV0b1lUeEFxc3FZWDBhbmlaekhfRXBGTnZqcVBfb2N2UDFyc0xNeHJXdmN1MmdZU05aREN3d0dwM1B6X01UMFREeWkxMmF2dFRzN0s2R0NMRHVFR2RXMmM?oc=5",
+      "pub_date": 1793343127.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Price-of-Bitcoin-Oct-30.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-01T08:49:05.464355+00:00"
+  "fetched_at": "2026-11-01T15:49:55.848091+00:00"
 }

@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Opinion | Could A.I. Be Conscious? It\u2019s Definitely Possible.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcS1mNVBVVzN5N1RSdElXd0RmMXdsRXQ1bU9BLU5Uam5waWlEUVoxMHlYRW1OeS1uUS1RNXZpVUFXYUtZbHRkSDdFWFA2M0NaRWliUW12UGxQYzhtNVhtTWhxbG12MFVleTMzbzkxWEwyRnc4cDg3aUR4SQ?oc=5",
+      "pub_date": 1793530814.0,
+      "article_url": "https://www.nytimes.com/2026/11/01/opinion/ai-consciousness-ethics.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Neoclouds: These firms you've never heard of are feeding fears the AI bubble could burst",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -15,96 +25,86 @@
       "description": "The amount of debt held by data centres is measured in the tens of billions of pounds."
     },
     {
-      "headline": "In San Francisco\u2019s A.I. Boom, a First Date Has Become an Interview",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGVSMFZpNnEzZEFzNmN2NWptMnZMaW9UazBTWDBLcVJyVWpjR0ZDU04zdTZNM2Q4NHNoYi1iMkNfclBWY0lXb1RfNXYtUkIwOEhBQWQ5SlE5MVB4czZoa1c2akY2dXB1Zi1iRFVWV0kyZTFUVXc5cFFZR29xcmdWY0NWZ1QyUQ?oc=5",
-      "pub_date": 1793437254.0,
-      "article_url": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
-      "image": null,
-      "description": null
+      "headline": "Is AI making language learning obsolete?",
+      "source": "DW.com",
+      "source_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1ItM0lqMThKRW4tcl84OU1WR1hVaVdLdWJfSDRkOVJ2c0M1ODJpbkE4OEhxTDN3NFF4S3FhQmp0cUVzWkxtbXRLLWtKZTlxNkVmd3Y0OTg4ZGIwN3ZtY1VtM1AySkd6ZDZPd0FmSXd5V1dWdTh4SEh0UFZ0MTVHMWdn?oc=5",
+      "pub_date": 1793546879.0,
+      "article_url": "https://www.dw.com/en/is-ai-making-language-learning-obsolete/video-79790060",
+      "image": "https://tvdownloaddw-a.akamaihd.net/vps/stills/webvideos/ENG/2026/DWVG/DWVGENG261028_AI_languages_2810_ph_01SMW.jpg",
+      "description": "In the age of AI, does it still make sense to learn a new language? Some linguists think human interpreters may soon be obsolete. But does that mean learning a foreign language now is a waste of time?"
     },
     {
-      "headline": "Companies promised AI gains\u2014 here's how the payoff showed up in earnings",
+      "headline": "These 3 AI Stocks Could Soon Enter the S&P 500. Are They Worth Buying Before the Move?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmQxVVBnXzh3VC0tQTlkSFBFZ05RNzB5LWRlSkY5WWQyTDFrdXN3ZXptTktjYzJQaGFVWTAwa2cxdzdIZU11M3kwMDRlTmdQYlE5ZDI2RE1yV1lFMnVkV3JOUXpJOXdJZVdlazVOZFpJV1BvdTk2dGwxMEZGZnVCdUNlWTBOVmpJQmxxdWJHdmM?oc=5",
+      "pub_date": 1793546940.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-could-soon-152900897.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cab34db415a15628b2fc41983121eaeade0485d7b0614d3b75c4141c79d99bb3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0cdda5bb5de4e94002a4d1f8040e6fcb.jpg",
+      "description": "Three AI infrastructure companies are growing fast, but none have joined the S&P 500. See how each compares in size, valuation, and risk."
+    },
+    {
+      "headline": "Why AI is boosting Meta's ad business while hurting Google search",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUzBvaG91ZkJPb2Z3cDhJOHZGVW4tSGxXbXhuS0JTa0JQYVlaOE1kb3FzS1lKdjU4ckY5aWlON3pOWUY2eUcyRlkwSl9ob3E0TnpGQ005TW5kX19SWmJoUmttd3Vqcnp5MXNEckRENzA1eFJFeTh30gF8QVVfeXFMTkkydnZzNHdpR0RrUkVDb2UycEEzeF9ZejZZdnFBUlJfN0VIa2Zub3NCaFBXQzRMczNpbzQyWm1KZXA1UWk5MHBRVXo4WE1VN2tNUjJYUE1hbU1MRS02SUZ3NEk4Vk9VY0V5YjZnU1JVNS1La3g4dVpSOXJzbg?oc=5",
-      "pub_date": 1793512801.0,
-      "article_url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108253381-1768531442124-gettyimages-2218925569-_dsc8484.jpeg?v=1793360711&w=1920&h=1080",
-      "description": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns."
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VFFxN2pKNFVfSEdGZVpaUmU0ZUVyWGE2VnEwUE5oZE41bmo5Z2dsTnM2alRKM1VaV0g5ZWcxb2FKcXZxdUZsWUktQzJVel9aelpQQ2FScE43X0RncXl2cnJDY2FjdVBYb3EzR1NySdIBdEFVX3lxTFAxZ0VWZ1FUemdMTjR6NktfMmpJUmYyY3BycTBTQ2tocUZLa2RoaEJZVFAyamFxU1ZwdmJOYjdOZ2xqVWMxbGNVLXNOSjBrUFVFQ0lwZ1ZQcGRXYmtjaERRaE10b3JEWDBnTG1IUHU3YTZZLVNa?oc=5",
+      "pub_date": 1793534401.0,
+      "article_url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108497472-1793543323692-gettyimages-2231576298-AA_27082025_2388287.jpeg?v=1793543337&w=1920&h=1080",
+      "description": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter."
     },
     {
-      "headline": "How is AI changing the CHRO role and what do CEOs expect from HR leaders?",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1pyeGFDTWVnRTE4UjNIMmtHMTh5NWdiNmFtODNHUzlSRFZHdEREbFU2MjdvNXN1eFBRZWJOaGh2LUYtbG9VQk00NGt3TGlyVU5zaWZwQ1o4cHNrQ1A5eURIdFI3eU1Vd0hJN01Fd2l0XzVZN0k1ck5QV0ZEYmhQVjZLT2p2eHplc2RSMUMxS0pZVUplQThjQWhRbnlxY2pRQnZRa042WmpnVUF2ZVE?oc=5",
-      "pub_date": 1793516400.0,
-      "article_url": "https://www.forbes.com/sites/dianehamilton/2026/11/01/why-ceos-are-rethinking-the-chro-role-in-the-age-of-ai/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
-      "source": "Cisco Talos Blog",
-      "source_url": "https://blog.talosintelligence.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUZPU09sRW5SSmtmNGM0WWtZVENPMXVoWWlaTXllV0c3Ny1fdUtjR0ZDSXVqSU95dlowaW1vUTJVT2VtOTIwdngwVVg3R2ZaMFdFZWRZdWNKbU9RRGJJRXZySFdXMExXclBUNXdoTWU2aVVrMGdRSWZxQm1PejIyWlFmZnFQNkdwclp5U0NDYXdhWlJyVGE4SG9SOHhjUmU2VDFSMEx5WEM2YVFyUXlRTg?oc=5",
-      "pub_date": 1793448012.0,
-      "article_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
-      "description": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets."
-    },
-    {
-      "headline": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+      "headline": "The Smartest People in AI Believe This Is the World\u2019s Most Important Chart",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
-      "pub_date": 1793415360.0,
-      "article_url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdlRTSktsR1lfYmNBOURrNzZSbDJRcG55dmhHQ2E3d1JQSXNQMjRrdVpHdTlUcHotNF9UaVdnX0QzRlVONWtPSmsteUtQSTc0cTRxRjVjOXM1WWExcTdkdkJqLTdmc19seXlxYXd3ZGlZejREMTJTeUsxWFVaVHFjemkwQVVZTk0?oc=5",
+      "pub_date": 1793412000.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
       "image": null,
       "description": null
     },
     {
-      "headline": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
-      "source": "Phys.org",
-      "source_url": "https://phys.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zN2Fxb3pVRXg3cm5ERmwxYXU0MXdWb294eDdZSnFpX2NYOXA5cW1vYU1iWkcwOEYwUUdOcURXX1JNVms0MXF0Q3ZaNUc4c1RYNlJqMzd3VkZqSndZSlpMQlYzb3JQbFNKS19WNVhYSy14VVp5eHc?oc=5",
-      "pub_date": 1793473201.0,
-      "article_url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
-      "image": null,
-      "description": null
+      "headline": "Local mom-and-pops are embracing AI food slop, and residents are revolting",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmZCWm1wR0hsUXRkYlVXcVp0aDBFbWJkSUpZeE5oOXNnM0FzU0ZaeHhFbndfRUI1ZXBueGF5R1VheEptX1dmektlZzlwbTFtR0kzWXI5Y25XbGd6NXVjUnpybFhxWTFyOHpDX0RLMTJSTm9fYzAtX0N0d3IxaFN3VVgxQ2dEb1FFcUVEMHJCNjFTNnMzM3VkVXU5aWpaakFrOEthcC1kbnd1TlhmeGFNbjY5eG83SVZxaFZQY1Bn?oc=5",
+      "pub_date": 1793547105.0,
+      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/11/01/local-mom-and-pops-are-embracing-ai-food-slop-residents-are-revolting/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/O4SR57OWBFD4BCDYNWUW7HQZDA.jpg&w=1440",
+      "description": "Small businesses in D.C. are getting increasingly called out for using artificial intelligence. The owners have thoughts."
     },
     {
-      "headline": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3d4RHVLejNUQk5KamNvZkpmVm9BT1JQUS0xQXNxaHFVVHYwYTJ4TnRIQ0I4RkUwbmR2aWQ4VXRzaDAwdmI4Q3Q4S1lFZlhqNTBxY1p6WDVGdkFxQjdPa05BYWx4TGdsempHY3YzWllDRDRxN2Z0T2w5M1FtVGcydzNaOUdRWWgzYTdfVFJQTDJZU25NOUE?oc=5",
-      "pub_date": 1793392350.0,
-      "article_url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-nyse-mb-1212-c2f31c.jpg",
-      "description": "The broader S&P 500 lost more than 2.3%, while the Nasdaq Composite was on track for its worst day since June."
-    },
-    {
-      "headline": "Relying on AI is rotting your brain. But here\u2019s what you can do about it | Carly Dober",
+      "headline": "\u2018Let\u2019s take Alexa out into the garden and smash it with a shoe\u2019: Charlie Brooker and Diane Morgan take aim at Hollywood, AI ... and each other",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMW93U1lTNkU0LUN0VDZjWEZXZ1h6eTRpTTRzLWQxSXUxUWJ0eUUwYkM1X2dEMlFsRTl3Z0tQeWpGQkxqMVF1eHgtNE1SZUR4RW9JYkoxVnlYbG93WTJUaGRmTDctUEl0WjlRNlVGUG10NE1xRmtaOVhYcTBhV1dRd3lLT0EwTmhoZFZsS3VkNmtOMmVpWVVkRjFWVng3QlE?oc=5",
-      "pub_date": 1793463600.0,
-      "article_url": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
-      "image": "https://i.guim.co.uk/img/media/2d96ff893b43e6d48d9bdbb100b32e39e4f77ecc/0_0_5187_4150/master/5187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=cceec58f1340ae2d0efeae322aec4f3f",
-      "description": "Each new tech product is designed to make our lives easier and keep us mindlessly entertained. Switch off: embrace discomfort \u2013 and boredom, says psychologist Carly Dober"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzk5czc1ejNRVWFabG5pamVpX0E5VnphbWVKX1cwMTdEczdhTXQ1aTFRTkV5eHZsNnhUQWdFbXI2T2R3d1ZRRG9wQk5ESzhianNrTzFyeHRCUHk1b2Z1ZDM0Rmxxajl0N3JTbzI0LUlMVV83MVphejNNbVByYy1rN0hwZlE2cHk2Rk5xcGJxNTFqS3FkN3Rfd0FVU3h1VnhieG54YWFLcGFkOW5xMTBpTTZ4LWx2cTQ?oc=5",
+      "pub_date": 1793527200.0,
+      "article_url": "https://www.theguardian.com/tv-and-radio/2026/nov/01/philomena-cunk-on-cinema-charlie-brooker-diane-morgan-interview",
+      "image": "https://i.guim.co.uk/img/media/e61e91d5e91396982d0211ccfd3d3a2478839c29/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=201b1e13c9efb2fe660095313868b9c3",
+      "description": "As deadpan spoof documentarian Philomena Cunk returns with a new series on cinema, her creators discuss meeting J-Lo, their worst ever jobs \u2013 and why artificial intelligence is like mad cow disease"
     },
     {
-      "headline": "Florida\u2019s Big Tech Brawler Finally Meets the Voters",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2dvall2NlVvM2llMjFlRUJGNHVKdVo4Tlp1Nk9OSmpjMURqSS00eW16ZHNLM0VzSG1nckRveWRmUGlYTjFudll3TlhmNUdidEpWOWFwZ3VjaWlKNkxCM3JwcU1ORVFsd2tSdThkaDk4SEZ3YnVteVhGNXZzbG94elhPVm9aelJ1VlNwMA?oc=5",
-      "pub_date": 1793455200.0,
-      "article_url": "https://www.politico.com/news/magazine/2026/10/31/james-uthmeier-florida-ai-01089921",
+      "headline": "Skilled trades now offer direct path to six-figure pay without college debt thanks to emerging tech industry",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1g3eHdLR0ZTRTlna0tDXzYzSDd2bVpjWXBYV29yOHNYM01MbHZxSDMwQy1OZVAwcHN5WHJqUDNCbHZkYnNQbVQ5bThfejFkYXNGWEczQ1FCb1Z2U1c1UE9QcG55X093aURocTdPTUJReHBXaUVZZGNrYjBVRXVJOWxaYWFGVFJnemd3WVkyMlE3anBUYjg3NUVISXdJYnYzeHJHTk41UzRkUW9sLXNfUjJrWUx0eFMyRXfSAb8BQVVfeXFMTzlvanBlY0NSRXBWdjIyS0E4aXF3M1hjTnp2VmdVMlB1dEVMOF9xRHByY1EzM2tJYm9Za3pPRXR0ejR0THRPd3J5UkFZSkg1YnJ4SXpIMWNJQk44bExHSlpfOURsb1lyNnBCWnpKRWhhNDJwMGtzMFBTT29wdmE3UFJvMGdlRGUyWGFVMS11VWlVQnRMZlNtR2VzQkpyUVZORjlabUJHc2JYckM4QTNfdmo5MWxDWDFlTjFLbUxzVFk?oc=5",
+      "pub_date": 1793530804.0,
+      "article_url": "https://www.foxnews.com/politics/skilled-trades-direct-path-six-figure-pay-without-college-debt-emerging-tech-industry",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/construction-workers-roof-american-flag.png",
+      "description": "Andrew Miller says data center demand means electricians can earn six figures by age 22, with IBEW apprentices starting at $27 to $28 an hour."
+    },
+    {
+      "headline": "South Korea exports nearly double in October on AI investment boom",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEw3WmpfUE9XNlpDeFd4LUpBenRHZVpiTVpFRDZfakN2T29CaHE4emNXQ0s0VzFDZTJTeDlXVkJtV0FSVEpwblJEVWZoWEZ4eEFzNDA5eHh0TGo4X2ZFX3hlYzljRl9TTDhPNkE1a05aNjNPU19Kb1lGbmV1UWw0dUtNZk9HS2JENWx5dDJyNWgxSGRWMzBLaGxMazJRbWxGbVBFbWNJbVlzbHkzTk05RDFGMnBzcUh4V2VqSmhTZmhkUQ?oc=5",
+      "pub_date": 1793493540.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-nearly-double-october-strongest-growth-since-1974-2026-11-01/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-01T08:49:08.308578+00:00"
+  "fetched_at": "2026-11-01T15:49:58.282136+00:00"
 }
