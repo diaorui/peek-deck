@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-01T15:50:04.422055+00:00'
+updated: '2026-11-01T20:16:08.766661+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 01, 2026 at 15:50 UTC  
+**Last Updated:** November 01, 2026 at 20:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ https://pollen-robotics.com/reachy-mini/#level-up From Thomas Wolf on 𝕏: http
 
 A few weeks ago we ran a live π0.5 demo at IROS, and getting there turned into a good lesson in how many things can go wrong between "the policy works on the data rig" and "the policy works somewhere else." Our cofounder Bayley wrote it up in three parts, and I figured people here would find the details useful. The setup: we had a clean pick-and-place dataset from one YAM rig and wanted a checkpoint trained on it to run on a different YAM setup, in a convention hall none of us had seen. That's a common spot for smaller labs too, working with the rig they already have instead of rebuilding the one the data came from. Part 1: fine-tuning Most of the ablations ran in a path-traced MuJoCo sim he built, so we could do thousands of rollouts a day without resetting anything. The biggest takeaway was to train the VLM and not just the action expert. Expert-only got 51% pickups and 12% dropoffs. The full fine-tune got 89% and 53%, and an r=128 LoRA got 84% and 59% while fitting in 32 GB. Lighting was the surprise. Hard light from 10 cm disks (basically bare bulbs) roughly halved the expert-only checkpoint and didn't hurt the full fine-tune at all. Cameras turned out to matter more. Nudging the overhead camera barely changed whether the arm lifted the target, but it broke placing, and shifting the wrist camera 1 cm sideways made 11 of 30 paired rollouts worse. The same scene rendered under four lighting setups in our sim, from large soft panels down to 10 cm disks (roughly bare bulbs). The hard-light setup roughly halved the expert-only checkpoint and didn't affect the full fine-tune. Part 2: latency On the real rig, performance was worse than it should have been, and we were close to doing an RL pass to fix it. Then someone actually watched the video feed in the inference dashboard and saw it lagging by several hundred milliseconds. The culprit was Python's buffered pipe holding camera frames until 64 KB built up. Our sim had said up to 280 ms of latency didn't matter. The robot disagreed, probably because near misses knock things around in ways a simple physics model smooths over. After that he went after inference itself. The stock LeRobot code ran at over 230 ms per step, and he got it to 87 ms on an RTX 5090 Mobile by casting weights to bf16 once instead of on every call, capturing a CUDA graph for the action expert, removing an autograd graph nobody was using, exporting SigLIP to ONNX, and switching Gemma to fp16 (GeForce cards run bf16 at half speed). Once it was fast enough, the policy started doing what our operators do: a quick approach, a pause, a small correction, then the grab. Mean inference latency per step on an RTX 5090 Mobile, from over 230 ms with the stock LeRobot code down to 87 ms. Each bar is one change. Part 3: memory 24 GB laptop GPUs keep getting harder to find, so the last piece was getting the stack under 16 GB. Two fixes took peak VRAM from about 22 GB to 11.2 GB: not building a throwaway fp32 backbone at load, and not keeping PyTorch copies around next to the TensorRT engines. It now runs on cards like the RTX 5080 and 5070 Ti. Peak VRAM for the rollout stack, before and after the two fixes, against 16 GB (RTX 5080 / 5070 Ti) and 24 GB (RTX 5090 Mobile) cards. One caveat: the Part 1 numbers are from sim, which scores a little higher than our real rig, but the trends held up. Full write-ups are on our blog (I work at PrismaX, where Bayley is cofounder), and both repos are open source: Part 1, fine-tuning: https://blog.prismax.ai/article.html?slug=openpi-pi05-fine-tuning Part 2, latency: https://blog.prismax.ai/article.html?slug=latency-vs-pi05-rollout-performance Part 3, memory: https://blog.prismax.ai/article.html?slug=pi05-inference-in-16gb Simulator: https://github.com/PrismaXAI/yamulator Rollout stack: https://github.com/PrismaXAI/prism-pi Happy to answer questions or pass them along to Bayley.
 
-2d ago
+3d ago
 
 ---
 
@@ -60,7 +60,7 @@ A few weeks ago we ran a live π0.5 demo at IROS, and getting there turned into 
 
 So I saw this cute little robot somewhere( 3d design credit to the original creator don't know his reference ) and thought, why not build it myself. I got the body 3D printed and started playing around with the open-source code, but honestly, it was pretty basic compared to what I had in mind for this little dude. So I ended up spending almost the next month building my own ecosystem around it. Now Yeti has 100+ emotions and behaviours, along with a gyro, microphone, LDR and touch sensors. I also added different functionalities so it can work as both a little robot and a clock, with sounds, reactions and different behaviours depending on how you interact with it. The feature I'm probably most excited about is that you can flash new firmware to Yeti directly from your phone over Bluetooth. No Arduino IDE, laptop or cable needed. I also built a companion app that lets your phone connect to Yeti automatically when you're nearby. And then I went a bit overboard. I made it possible for different Yetis to communicate with each other through their phones over the internet. So two Yetis paired with different phones can exchange messages, little scribbles, sounds and other stuff. You can even send things like a cute Happy Birthday message/sound to another Yeti. This is honestly the first time I've built something like this, so I'd really love to hear what you guys think. I'm still figuring out what Yeti should become and what else I can add to it. Would love feedback from people into robotics, ESP32, or just building random little things like this
 
-2d ago
+3d ago
 
 ---
 
@@ -68,7 +68,7 @@ So I saw this cute little robot somewhere( 3d design credit to the original crea
 
 Hey - in March I posted PhAIL here. We ran robot AI models on a real robot doing bin picking, and the best one did 64 picks/hour, against 1,300 for a human. The top comment was about how brutal the gap between sim and real is. Everyone trains and tests in sim, and nobody really knows how much a sim score tells you about a real robot. We don't know either. Since then we added a DROID benchmark to PhAIL, and together with Nebius we started a competition to get an answer. If some of you come and take part, we'll be really happy, that's partly why I'm posting. But mostly we want to have fun with the community and see how big the gap actually is. The story is simple. You train a policy, pack it into Docker, submit and we score it in two sims: MolmoSpaces now, RoboLab starting from 16 Nov. In December the top 10 will run the same image on our real Franka, on tasks like the DROID benchmark, but on a different set. So being great in one sim is not enough. You need to do well in both, and then the real robot decides. Which makes me wonder: what would a robot have to do in the finale for you to believe the result? I think the winner will be whoever balances the two sims and the real robot best, and I'm curious how people will approach it. We also added a couple of constraints on purpose. The policy has to fit in 24 GB, which is what a 4090 has, so a lot of people can test at home. That's also less than current top models need (FLUX 3 Action takes about 35 GB), so you can't just take the biggest model and fine-tune it. And thinking isn't free: the sim clock keeps running while your model computes, the same way a real robot keeps moving. RTC support is coming soon, so potentially you can think for more time, and still finish on time. We don't want everyone to wait until December to see real-robot results, so every week we'll run a few of the submitted policies on the real Franka and share the results with participants. What made this possible is our framework, positronic. A policy Docker image serves one API, and we built it so that a new sim plugs in almost for free. That's how one submission runs in two sims and on the real robot. We also made the whole entry (sign-up, submission, results) work through your coding agent, because that's how most of us work now. There are example images for π0.5, GR00T N1.7 and MolmoAct2 to start from. Whatever we learn about sim vs real, we'll publish it. Prizes are $23.5k in Nebius GPU and eval credits, and $1k of that goes to the best open-source write-up. Everything is at competition.phail.ai And if you're curious about the infra we built to run the competition, let me know in the comments, happy to tell more about it.
 
-2d ago
+3d ago
 
 ---
 
@@ -84,7 +84,7 @@ https://preview.redd.it/v0jg3tlh0fyh1.png?width=1672&format=png&auto=webp&s=d341
 
 Mino's software stack is based on ROS 2. We both went to the ROS conference (ROSCon) this week to meet some of the folks that make our favorite middleware possible. I wanted Mino to come with me and interact with people at the conference, so I coded a special companion app for the event on the robot's Jetson Orin Nano. What you see in the video is the first outdoors test of the app before going to the train station on Monday. With Mino's open-source software building blocks and some help from a coding agent (Mino's code base is agent-friendly), this app was ready in a weekend. Depth estimation, person detection and tracking, pose feedback, odometry and motion control come out-of-the-box. The agent just had to glue Mino's capabilities together with the behavior logic I specified. Want to program your own apps on Mino? Subscribe on Kickstarter or to our waitlist to get notified when the Kickstarter campaign launches and catch the early-bird discounts. If the campaign succeeds, the source code of this app will ship with the robot! This is what the app does. It has three states: finding person, following person and hanging out with person. In the "finding person" state, the robot stays in place, looking around with base and head rotation until a person is detected. When that happens, the state changes to "following person", which tries to approach the person while keeping them at the center of the field of view and ignoring other people around. When close enough to the person, the state changes to "hanging out", which stays in place and keeps eye contact with the person. If they move away beyond a threshold, the state goes back to "following person" or, if the person is no longer found, to "finding person". The robot perceives each person's position and speed in 3D. A tuned YOLO-World detects people fully or partially inside the field of view of the cameras (the eyes). People detected with enough confidence get their 3D bounding boxes estimated by back-projecting their 2D counterparts to 3D space with the depth image from the stereo pair. They are then tracked across frames based on bounding box overlap and appearance similarity. Appearance is modeled with the embeddings from a classifier on each person's crop, and tracks are smoothed with a Kalman filter. Once the robot sees its buddy, it keeps re-calculating trajectories to steer its base and head to the target pose. The trajectories are followed by periodically sending head pose and base velocity commands to our custom hardware at the base. That hardware estimates the full-body pose and runs several control loops to achieve what's commanded from the Jetson. All that at high frequency and bounded latency. What would you create with Mino? Let me know in the comments 🙏
 
-2d ago
+3d ago
 
 ---
 
@@ -120,15 +120,7 @@ I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch 
 
 Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...
 
-The Information • 23h ago
-
----
-
-**[Betting on AI and robotics, Dyson opens Glilot flagship store in Israel](https://www.jpost.com/business-and-innovation/article-913442)**
-
-Dyson robotics engineer Guy Turner says the company’s next chapter will focus on machines that can sense, perceive, and solve problems independently
-
-The Jerusalem Post • 7h ago
+The Information • 1d ago
 
 ---
 
@@ -136,61 +128,67 @@ The Jerusalem Post • 7h ago
 
 A startup called Neura is training humanoid robots in a "robogym" where the machines constantly practice and perform tasks.
 
-Futurism • 23h ago
+Futurism • 1d ago
 
 ---
 
-**[Harmless stories can teach models to deceive humans, resist shutdown](https://interestingengineering.com/ai-robotics/anthropic-training-data-deception)**
+**[The Rare Earths Powering the Next Wave of Robotics](https://www.barchart.com/story/news/8513371/the-rare-earths-powering-the-next-wave-of-robotics)**
 
-Anthropic used Claude to uncover how harmless stories can train models to deceive humans, resist oversight and evade safety checks.
-
-Interesting Engineering • 1d ago
+Barchart.com • 3d ago
 
 ---
 
-**[Ukraine's war robots keep soldiers out of danger, but humans still risk their lives to keep them running](https://www.yahoo.com/news/world/articles/ukraines-war-robots-keep-soldiers-101354313.html)**
+**[Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck](https://spectrum.ieee.org/video-friday-whole-body-manipulation)**
 
-The point of Ukraine's growing robot fleet is to replace humans in dangerous areas, but their use still puts some soldiers in risky positions.
+Your weekly selection of awesome robot videos
 
-Yahoo • 1d ago
-
----
-
-**[Halloween robotics competition to take over Wayne High School](https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/)**
-
-WANE 15 • 1d ago
+IEEE Spectrum • 5h ago
 
 ---
 
-**[Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime](https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/)**
+**[Betting on AI and robotics, Dyson opens Glilot flagship store in Israel](https://www.jpost.com/business-and-innovation/article-913442)**
 
-As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.
+Dyson robotics engineer Guy Turner says the company’s next chapter will focus on machines that can sense, perceive, and solve problems independently
 
-The Robot Report • 2h ago
-
----
-
-**[NEPIRC manufacturing event provides education about AI, robotics](https://www.republicanherald.com/2026/11/01/nepirc-manufacturing-event-provides-education-about-ai-robotics/)**
-
-The Northeastern Pennsylvania Industrial Resource Center’s Advanced Technology and AI Summit showcased ways manufacturers can use AI and robotics to their advantage.
-
-Republican Herald • 11h ago
+The Jerusalem Post • 11h ago
 
 ---
 
-**[FORT Robotics Secures $20 Million Ahead of Nasdaq Merger](https://www.mychesco.com/a/news/regional/fort-robotics-secures-20-million-ahead-of-nasdaq-merger/)**
+**[Rendezvous Robotics raises $20 million for self-assembling spacecraft](https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/)**
 
-PHILADELPHIA, PA — FORT Robotics has secured approximately $20 million in additional investment commitments from existing backers, including Tiger Global and Mark Cuban Companies, as the Philadelphia-based robotics safety technology …
-
-MyChesCo • 22h ago
+SpaceNews • 3d ago
 
 ---
 
-**[The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.](https://www.fool.com/investing/2026/11/01/the-first-us-humanoid-robot-stock-starts-trading-i/)**
+**[​Factory robot maker opens Madison Heights HQ to get closer to Detroit automakers​](https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/)**
 
-Like so many other stocks of new cutting-edge companies, the hype surrounding this one is already uncomfortably thick.
+Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
 
-The Motley Fool • 4h ago
+Crain's Detroit • 2d ago
+
+---
+
+**[Germany and Ukraine test armed ground robot for frontline deployment](https://www.euronews.com/2026/10/29/germany-and-ukraine-test-armed-ground-robot-for-frontline-deployment)**
+
+Remote-controlled and heading for the front lines. ARX Robotics and the Ukrainian company ROBONEERS report completion of the first major system tests. #EuropeNews
+
+Euronews.com • 3d ago
+
+---
+
+**[Agility Robotics and Churchill Capital Corp XI Announce Expected Gross Capital Raise of Approximately $465 Million and Anticipated Closing of Business Combination](https://finance.yahoo.com/technology/ai/articles/agility-robotics-churchill-capital-corp-110000046.html)**
+
+Business combination expected to close on November 4, 2026, subject to Churchill XI shareholder approval; the combined company expected to begin trading on Nasdaq under ticker symbol “AGLT” on November 5, 2026. Agility is expected to be the only U.S. publicly listed pure-play humanoid robotics company with proven, active commercial deployments. SALEM, Ore. and NEW YORK, Oct. 30, 2026 (GLOBE NEWSWIRE) -- Agility Robotics, a leading humanoid robotics and physical AI company, and Churchill Capital
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Science Spooktacular Returns to Elkhart County 4-H Fairgrounds for Halloween](https://wsbt.com/news/local/science-spooktacular-returns-to-elkhart-county-4-h-fairgrounds-for-halloween-robotics-engineering-technology-experiments-interactive-education-creativity-discovery-innovation-carnival-activities-organizations-families)**
+
+No tricks, just treats, robots and science at the Elkhart County Fairgrounds.E-3 Robotics Center invited families to its free Science Spooktacular event, featur
+
+WSBT • 19h ago
 
 ---
 
@@ -198,43 +196,13 @@ The Motley Fool • 4h ago
 
 ## YouTube Videos: "robotics"
 
-**[This Cute Robot Stole the Show at NVIDIA 🤖🥹#jensenhuang #nvidia #shorts](https://www.youtube.com/watch?v=DBOKSJYANgk)**
+**[New Human-Skinned AI Robots Shock the World (Way Too Creepy)](https://www.youtube.com/watch?v=kVVqaRJf_Sk)**
 
-Meet Grek, the adorable robot that stole the show on stage with NVIDIA's CEO! From learning to walk in a virtual world to ...
+Realbotix just unveiled its new humanlike AI robots, and they're getting disturbingly real. These humanoids have synthetic ...
 
-📺 VisionX Lab
+📺 MACHINEKIND
 
-👁️ 1.3M • 👍 39K • 💬 1K • ⏱️ 0:59 • 6d ago
-
----
-
-**[We let AI build a combat robot, it does exactly what experts warned](https://www.youtube.com/watch?v=QRVz697rEx0)**
-
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Use code insideai at https://incogni.com/insideai to get an ...
-
-📺 InsideAI
-
-👁️ 2.6M • 👍 45K • 💬 5K • ⏱️ 15:05 • 6d ago
-
----
-
-**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
-
-Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
-
-📺 VisionX Lab
-
-👁️ 338K • 👍 4K • 💬 410 • ⏱️ 0:11 • 6d ago
-
----
-
-**[This Robot Braids Hair 5x Faster](https://www.youtube.com/watch?v=Ha9YrJ4lvWk)**
-
-Comment BRAID and I'll send you the link. Braids that take all day, finished 5x faster. ‍♀️ HaloBraid is a braid-assist robot ...
-
-📺 Build With Alan 
-
-👁️ 697 • 👍 14 • ⏱️ 0:55 • 2h ago
+👁️ 16K • 👍 280 • 💬 45 • ⏱️ 14:21 • 20h ago
 
 ---
 
@@ -244,17 +212,17 @@ OpenAI is officially building its first humanoid robot, and Sam Altman has confi
 
 📺 MACHINEKIND
 
-👁️ 52K • 👍 648 • 💬 48 • ⏱️ 13:33 • 4d ago
+👁️ 53K • 👍 660 • 💬 51 • ⏱️ 13:33 • 4d ago
 
 ---
 
-**[China Debuts Humanoid Robot Traffic Police To Assist Security At 2026 Hangzhou Marathon](https://www.youtube.com/watch?v=rV7QnfA9_gU)**
+**[NEW Massive Rebalance Is Here... Our Favourite Robots Get CRUSHED By Nerfs | War Robots](https://www.youtube.com/watch?v=r9JTWEZFKFA)**
 
-China has deployed a humanoid robot traffic police officer at the 2026 Hangzhou Marathon in Zhejiang Province, marking a new ...
+The massive rebalance is here. We have been waiting for it and it's here. Unlike most rebalances there are some really bad and ...
 
-📺 India Today Global
+📺 PREDATOR WR
 
-👁️ 294 • 👍 9 • 💬 1 • ⏱️ 1:50 • 37m ago
+👁️ 25K • 👍 457 • 💬 195 • ⏱️ 16:27 • 3d ago
 
 ---
 
@@ -268,13 +236,43 @@ The newly announced Echo humanoid robots come in both tabletop and full body mod
 
 ---
 
-**[Tesla Just Unleashed a BOMBSHELL Robot That Could DESTROY the Entire Auto Industry!](https://www.youtube.com/watch?v=t1zSqukAtxo)**
+**[Jensen Huang just did story time with robot ducks 🦆 #gtc2026 #microduck #jensenhuang #nvidia](https://www.youtube.com/watch?v=4R3hnmhx2Ps)**
 
-Tesla Just Unleashed a BOMBSHELL Robot That Could DESTROY the Entire Auto Industry! NEW: The Future Lens Collection ...
+Nvidia boss Jensen Huang talks to robot ducks during Nvidia GTC Berlin 2026.
 
-📺 Future Lens
+📺 BWTV Prime
 
-👁️ 16K • 👍 169 • 💬 4 • ⏱️ 23:22 • 4d ago
+👁️ 189K • 👍 3K • 💬 136 • ⏱️ 1:48 • 5d ago
+
+---
+
+**[Truck mode to Robot mode！MM02 Magnificent Mecha Optimus Prime A/B version transformation.](https://www.youtube.com/watch?v=vtvu9TFfWMw)**
+
+Truck mode to Robot mode！MM02 Magnificent Mecha Optimus Prime A/B version transformation.
+
+📺 Maximals Heart
+
+👁️ 109K • 👍 2K • 💬 209 • ⏱️ 20:03 • 3d ago
+
+---
+
+**[Unitree H2-X: Kung Fu Robot Meets Reality 🤖 #robotics](https://www.youtube.com/watch?v=hTTC9md29YQ)**
+
+Unitree H2-X can pull off spectacular kung fu stunts. But what happens when the demo leaves the promo video? We break ...
+
+📺 Ashish Decodes
+
+👁️ 182K • 👍 5K • 💬 71 • ⏱️ 1:39 • 6d ago
+
+---
+
+**[Humanoid robot spotted in NYC sparks curiosity, concern](https://www.youtube.com/watch?v=qjRriXk9i7U)**
+
+A humanoid robot was spotted in Brooklyn over the weekend, sparking both curiosity and concern as it took a stroll and posed for ...
+
+📺 CBS New York
+
+👁️ 20K • 👍 122 • 💬 46 • ⏱️ 1:48 • 5d ago
 
 ---
 
@@ -284,17 +282,17 @@ NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelli
 
 📺 DPCcars
 
-👁️ 95K • 👍 370 • 💬 60 • ⏱️ 4:22 • 6d ago
+👁️ 95K • 👍 372 • 💬 60 • ⏱️ 4:22 • 6d ago
 
 ---
 
-**[Jensen Huang just did story time with robot ducks 🦆 #gtc2026 #microduck #jensenhuang #nvidia](https://www.youtube.com/watch?v=4R3hnmhx2Ps)**
+**[Next Gen Atlas AI Robot (by Boston Dynamics) can do what humans do - World Premiere](https://www.youtube.com/watch?v=6a4Lli8fL9Q)**
 
-Nvidia boss Jensen Huang talks to robot ducks during Nvidia GTC Berlin 2026.
+Discover the all new Boston Dynamics Atlas robot, featuring advanced AI, electric mobility, powerful robotic hands and industrial ...
 
-📺 BWTV Prime
+📺 REC Anything
 
-👁️ 185K • 👍 3K • 💬 135 • ⏱️ 1:48 • 5d ago
+👁️ 38K • 👍 274 • 💬 26 • ⏱️ 11:01 • 5d ago
 
 ---
 

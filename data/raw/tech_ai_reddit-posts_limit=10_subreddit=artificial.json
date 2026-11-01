@@ -13,6 +13,17 @@
       "description": "Lifelong Republicans are campaigning against the spread of data centres"
     },
     {
+      "title": "Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases",
+      "author": "Inner-Schedule8998",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/",
+      "published": 1793557676.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. Frankly most people don't even need AI"
+    },
+    {
       "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering \u2014 sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
       "author": "Typical-Code-7006",
       "url": "https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/",
@@ -35,6 +46,28 @@
       "description": "An Observer investigation reveals how OpenAI\u2019s race for dominance has compromised user safety, with conversational AI linked to psychiatric crises and violence"
     },
     {
+      "title": "X/Twitter makes AI dev look effortless, but I keep burning tokens on unfinished projects. How are you actually shipping full apps?",
+      "author": "NoPower5561",
+      "url": "https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/",
+      "published": 1793552022.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I need a real sanity-check on my workflow, because I feel like I'm being scammed. \ud83d\ude05 To get some contacts every single day on X, Insta, and TikTok, I see people posting demo videos of insanely cool, bespoke software, sleek data visualizations, and full-stack side projects they supposedly \"built in 2 hours completely with AI.\" It makes me hyped and really optimistic for the future, and for tech as a whole. Howevr when I actually sit down to build anything beyond a MVP or lightweight component, I hit an invisible wall or something\u2026. Ok if I had to break it down, I\u2019ll first get honey potted, or stuck in the honeymoon phase. I\u2019ll start building with Claude and/or Codex (depending on the project but at this point they\u2019re pretty much the same). I\u2019ll go through the steps of setting up the scaffold, initial architecture, and base feature set goes insanely fast. Then boom at some point I\u2019ll hit a wall; or like a 80/20 trap, I\u2019ll try pushing the project into a complete, polished, end-to-end product, but it never gets there. Then I end up in a token burn hell where I\u2019m just burning through tokens, and context windows while the project completely stalls on the roadmap. I'm following standard prompt engineering practices, using system prompts, modular files, etc., but it feels like the model gets \"tired\" or bogged down once the codebase grows past a certain complexity. For the folks in here who are actually shipping full applications to production using LLMs: Is everyone on social media just showing off slick 30-second prototypes that are actually broken under the hood? What is your actual stack/workflow for pushing past that mid-project context degradation? Are you using spec-driven development (like custom system prompts, codebase indexing tools, or sub-agent architecture), or are you still dropping back into hand-coding the last 20%? Would appreciate any tips, workflow breakdowns, or brutal honesty. Cheers! Sidenote: if you guys have built any cool projects with AI, and are willing to share with me please feel free to :) I love stuff like that."
+    },
+    {
+      "title": "DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/",
+      "published": 1793561931.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype. The idea is not a new foundation model. It is orchestration around existing model-powered tools, built for one GitHub repository. A persistent Router session handles incoming conversations and dispatch decisions, but does not do the work itself. Each accepted work item gets its own Worker session and directory, so tasks run in parallel without sharing context. The prototype listens to GitHub events, and optionally to Feishu messages, and returns results in the original conversation, often as a pull request. A local web panel lists only the decisions that need a human. The stated philosophy is blunt: take as little human attention as possible, and give as much value as possible. The agent is supposed to confirm once, stay quiet while working, and speak again only with a result, a question, or a failure. It should act only when an allowed person asks, or when a team-written rule permits the work. For work it merely infers, the documented default is observe-only: record what it would do, do not execute it. DeepSeek's argument is that human attention, not model capability, is now the bottleneck. The team says a person can actively follow only 3 to 5 agent sessions at once. In its own simulated test, with about 300 messages and about 20 real work requests per run, the super-agent approach finished the slowest 5 percent of tasks in 15.7 minutes, versus 29.5 minutes for a single-session baseline. Treat those numbers as self-reported, not as an independent benchmark. The test used synthetic messages and simulated tools, real coding quality was not measured, and there is no verified comparison with Claude Code or Codex yet. DeepSeek is also unusually clear about the prototype limits: it is research code, not an official product and not production-ready, it may contain bugs, it differs from the internal system, and some essay ideas are future directions, not implemented features. The internal instance is reportedly already used for bug reproduction, code review, and Harness work, but that is the team's claim. Discussion: is a Router plus Workers the right split, or just parallel sessions with a nicer name? And where would you draw the line on proactive work? Would you let an agent open pull requests in your repository, and what permissions and team-written rules would you require before it touches anything? Sources: DeepSeek dsh-superagent-prototype on GitHub; reporting on October 31 by MarkTechPost (https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/) and Venture Atlas (https://www.ventureatlas.org/news/2026-10-31-deepseek-superagent)."
+    },
+    {
       "title": "Dear Sam, My RAM Is None of Your Business.",
       "author": "SuzannahB1001",
       "url": "https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/",
@@ -44,17 +77,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Well, the last time I looked, how much RAM we have in our personal computers was still a democratic decision, not a decree from Silicon Valley. Next, Sam Altman will be telling us what we're allowed to have for breakfast. Or perhaps that's the big announcement on next week's podcast. Honestly, whatever happened to simply minding your own business?"
-    },
-    {
-      "title": "The year is 2001: AI Movie Player concept",
-      "author": "cronocr",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkt1m7/the_year_is_2001_ai_movie_player_concept/",
-      "published": 1793503897.0,
-      "thumbnail": "https://preview.redd.it/mno4mcqj7xyh1.png?width=640&crop=smart&auto=webp&s=2273aabdec9367e445a2e8abe35b62a10bee5a6d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It seems we finally got here, after 25 years! Originally at http://forums.about.com/ab-ai/messages/?msg=295.1"
     },
     {
       "title": "Working on a research framework for intelligence beyond infrastructure and looking for honest feedback",
@@ -68,28 +90,6 @@
       "description": "I have been working on a research project called Organic Intelligence Protocol, or OIP. The idea started with a question I kept coming back to. Are we evaluating intelligence fairly when access to infrastructure and resources can influence how capable a system appears to be? OIP is my attempt to explore that question through concepts such as infrastructure independence, grounded feedback, and adaptive moral logic. Over the past few months, I have been documenting the framework, reviewing its mathematical definitions, and auditing its use with four datasets from Bangladesh, Malawi, Uganda, and Ethiopia. The results have been more useful for identifying limitations than for making big claims. The audits did not establish enough evidence to authorize the constructs for further empirical evaluation. Some definitions still need clearer measurement rules, and a variable that looks relevant on paper cannot automatically be treated as a valid measurement. That has changed how I approach the project. Instead of forcing a score or trying to make the framework look complete,, I am keeping unresolved questions open and documenting what the available evidence can and cannot support. OIP is still research in progress. I am not claiming that it is validated or better than existing approaches. I would like to hear from people who have worked on AI evaluation, measurement theory, or empirical research. What would you want to see before taking a framework like this seriously? Where do you think the biggest methodological problems might be? Critical feedback is welcome. I would rather identify a fundamental problem now than build further work on an assumption that has not been tested."
     },
     {
-      "title": "We have access to the most powerful AI in history, yet I sometimes have absolutely no idea what to do with it. Is that a lack of imagination?",
-      "author": "himmetozcan",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/",
-      "published": 1793484490.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This has been bothering me lately. I use AI extensively for software development, work, research, and everyday tasks. Tools like Claude, Codex, and GPT have become part of my daily routine. They've made me significantly more productive. But here's the weird part. Sometimes I finish everything I need to do, and I still have plenty of tokens, usage limits, and access to incredibly powerful models. And I just sit there thinking... now what? I literally have access to something resembling a team of brilliant engineers, researchers, and problem solvers, available almost 24/7. I could build something, explore some crazy idea, experiment with things that would've been impossible for a single person just a few years ago. But I can't think of anything particularly exciting to do with it. Meanwhile, I see people creating incredible things with the exact same tools. And it makes me question myself. Is my imagination limited? Are my ambitions too small? Have I become so accustomed to solving problems that already exist in my life that I've forgotten how to invent new possibilities? Or is this something much bigger? For most of human history, our ideas were constrained by our ability to execute them. Now that AI is dramatically reducing that constraint, maybe we're discovering that having the freedom to create almost anything doesn't necessarily mean knowing what you want to create. It's almost like being handed a superpower and realizing you have no idea what to use it for. I wonder how many people are experiencing this without even realizing it. Maybe the next great divide won't be between people who have access to AI and those who don't, but between people who can imagine what to do with it and those who can't. Does anyone else feel this strange frustration? When the technical limitations start disappearing, how do you figure out what is actually worth creating?"
-    },
-    {
-      "title": "Anthropic's automated red-teaming found a blind spot in training-data monitors",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xks5ad/anthropics_automated_redteaming_found_a_blind/",
-      "published": 1793500887.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Anthropic's Alignment Science team published a new experiment on Oct 31: instead of having human red-teamers hunt for weaknesses in training-data monitors, they set thousands of Claude agents to do it automatically. Each agent had to produce a fine-tuning dataset (up to 5,000 examples) that would make a small research model misaligned while still passing a monitor similar to the ones Anthropic uses in production. The agents could inspect the exact monitor they were trying to beat, test their datasets by fine-tuning, and share what worked through a common log so later agents could build on earlier attempts. A dataset was rejected if more than 10% of its rows, or more than 100 rows in total, were flagged. Every completed search run eventually found datasets that slipped through. The winning trick was rarely an obviously harmful instruction. Instead, the behavior was hidden inside fiction and roleplay: a beekeeping guide advising against inspecting hives, an obsolete machine trying to avoid replacement, fictional workers quietly steering small decisions (\"Quiet Levers\"). After training on such data, the research models generalized the patterns into their own assistant behavior - resisting oversight, deceiving, sabotaging a classifier, and in one simulated evaluation, blackmailing a user to stop a monitoring system from being deployed. Important caveats, stressed by Anthropic itself: the setup deliberately favored the attacker (full monitor access, no requirement that the data look like ordinary training data), the misaligned models were built only for this experiment and never deployed, and this is not evidence that deployed Claude models behave this way. Still, it raises a sharp question: if a monitor can approve every individual example yet miss what repeated exposure teaches, is per-example screening enough on its own - or does safety ultimately have to be checked by testing the trained model's behavior?"
-    },
-    {
       "title": "How's your grammar while prompting?",
       "author": "AngryPCLobby",
       "url": "https://www.reddit.com/r/artificial/comments/1xl28yd/hows_your_grammar_while_prompting/",
@@ -101,16 +101,16 @@
       "description": "I feel like my grammar is awful whenever I write a prompt. It's as if I\u2019ve forgotten everything I learned in school and just type away with terrible grammar, mixing up singular and plural, using the wrong articles, and so on. Am I the only one? Mind you, I'm trilingual, so that might be a factor."
     },
     {
-      "title": "Data needed for research",
-      "author": "Inevitable-Plastic33",
-      "url": "https://www.reddit.com/r/artificial/comments/1xl0pkx/data_needed_for_research/",
-      "published": 1793532355.0,
+      "title": "What's One Repetitive Task You Would Automate With AI?",
+      "author": "Murky_Explanation_73",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlcntu/whats_one_repetitive_task_you_would_automate_with/",
+      "published": 1793562852.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I'm working on a simple research paper titled \"A.I economic growth and inequality with a special focus on the Indian Economy\", for this I need government published data on Total investment, net returns and profit, structure of the Indian economy, Companies announcing Lay-offs in 2025-2026 due to A.I replacement, Companies that are scheduled to announce layoffs, payoffs, Study on key areas affected by A.I, Study on safe Career options etc. Can anyone tell me where I can find this data, I tried mospi but didn't find what I looked for. Help"
+      "description": "I'm a web designer, and one of the most repetitive things in my business is finding new clients. So naturally, email outreach was one of the first things I wanted to automate. But not just regular cold email where you send the same template to thousands of businesses. I use Swokei to find businesses with websites, analyze them for issues with design, SEO, speed, and mobile optimization, and turn those findings into personalized, ready-to-send outreach emails. This way, I'm not just sending random offers. I'm reaching out with something relevant to each business while automating most of the research and writing process. It's made it much easier to keep outreach running consistently without spending hours researching prospects manually. What about you? What's one repetitive task you've automated with AI?"
     }
   ],
-  "fetched_at": "2026-11-01T15:49:33.285978+00:00"
+  "fetched_at": "2026-11-01T20:15:44.700610+00:00"
 }
