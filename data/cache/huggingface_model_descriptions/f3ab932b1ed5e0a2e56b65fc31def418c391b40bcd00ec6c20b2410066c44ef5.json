@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-11-01T23:46:53.402597+00:00",
+  "data": "Idol is an image-to-3D model that generates a 3D Gaussian splat representation from a single input image. It supports both real photographs and synthetic renders, producing up to 1,048,576 Gaussians in under 2 seconds on consumer GPUs, ideal for rapid 3D asset creation.",
+  "model_id": "speridlabs/idol"
+}

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-01T20:16:08.756928+00:00'
+updated: '2026-11-01T23:46:54.429580+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 01, 2026 at 20:16 UTC  
+**Last Updated:** November 01, 2026 at 23:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,768.31
+### $77,801.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -3.0%  
-**30d:** -8.2%  
-**90d:** +21.3%  
-**1y:** -29.7%  
+**24h:** +0.8%  
+**7d:** -2.3%  
+**30d:** -7.6%  
+**90d:** +22.2%  
+**1y:** -29.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1563.36B
+**Market Cap:** $1571.94B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--38.3%
+-38.0%
 
 **All-Time Low:** $67.81
-+114568.9%
++115200.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin is back at it again](https://www.reddit.com/r/Bitcoin/comments/1xjtmps/bitcoin_is_back_at_it_again/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 First a little backstory. I was a victim of the FTX fallout. Still remember this clearly. Started with CZ saying it would sell its large portion of FTT holding. Also, there was an article about the balance sheet of Alameda Research (SBF's trading firm) being backed primarily by FTT token, the token FTX had created itself. And then.... the classic bank run. SBF assured us (hodlers) that everyone will be able to withdrawal and there would be no problems. I wasn't buying any of that bullshit and withdrew my cash/crypto instantly. The only asset I couldn't withdraw were the FTT tokens themselves, because I had staked them for the yield and discount on trading fees. And then withdrawals suddenly stopped after a day or so. Yes, CZ is saying your funds are "safu" - but not when EVERYBODY panics and withdraw their holdings at once. I guarantee you CZ is using a portion of your funds to generate yield - perhaps in commercial papers, investments, etc. This is what a bank run is, your bank has your money but it's in investments (illiquid). Just like the bank run scares we had back in 2022 - the banks have your money, but they would be taking a loss by selling HTM (held to maturity) securities by selling them prematurely (due to yields rising because of inflation). TLDR: Please don't take the risk and WITHDRAW immediately once it becomes available and keep your coins in your own wallet.
 
-1d ago
+2d ago
 
 ---
 
 **[The Binance hack is now being called the biggest bank heist in human history.](https://www.reddit.com/r/Bitcoin/comments/1xjrwlq/the_binance_hack_is_now_being_called_the_biggest/)**
 
-🔗 [news.sky.com](https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627) • 1d ago
+🔗 [news.sky.com](https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627) • 2d ago
 
 ---
 
@@ -157,7 +157,7 @@ A while back, I met a guy on Facebook Marketplace whose house had been hit by a 
 
 The first real test of how Bitcoin ETF investors would react to the largest crypto hack in history came back red.
 
-Decrypt • 4h ago
+Decrypt • 7h ago
 
 ---
 
@@ -169,11 +169,19 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin Holds Near $78K Over Weekend As Polymarket Refunds Hack Victims After Crypto Security Scares](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-near-78k-over-133459363.html)**
+**[Bitcoin Uptober Failed as Oil, Bonds and AI Broke Pattern: What Changed?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-uptober-failed-oil-bonds-223238054.html)**
 
-The breach happened amid a backdrop of a $6 billion hack on Binance, which the FBI attributed to North Korea's TraderTraitor group.
+Bitcoin Uptober ended in a 7% loss as oil, bonds and AI trades broke their usual pattern. See what changed in October.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[$100 a Week Into Bitcoin Since Its $126,000 Record High: What Would It Be Worth Now?](https://finance.yahoo.com/markets/crypto/articles/100-week-bitcoin-since-126-232911788.html)**
+
+Bitcoin's historic hack sent prices tumbling nearly 40% from their peak, and one unlucky investor who started buying at the all-time high now faces a critical question: how long can dollar-cost averaging keep their portfolio from collapse?
+
+Yahoo Finance • 17m ago
 
 ---
 
@@ -189,11 +197,9 @@ OregonLive.com • 2d ago
 
 ---
 
-**[Bitcoin, Gold, Silver & Stocks Face a Market-Wide Sell-Off: Why Is Everything Falling at Once?](https://www.tradingview.com/news/coinpedia:e42e0123b094b:0-bitcoin-gold-silver-stocks-face-a-market-wide-sell-off-why-is-everything-falling-at-once/)**
+**[Bitcoin faces further downside risks as fear surges, Binance hack rattles markets](https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389)**
 
-The global markets are heading into November on a bearish note, displaying uncertainty with rising concerns over returns on AI-based investments. Besides, rising oil prices and renewed geopolitical tensions are adding to inflation worries. Moreover, the latest FED policy has done little to reduce u…
-
-TradingView • 1d ago
+Investing.com • 18h ago
 
 ---
 
@@ -201,7 +207,15 @@ TradingView • 1d ago
 
 Saylor sees one price dynamic as being particularly important to differentiating between bull and bear regimes.
 
-The Motley Fool • 16h ago
+The Motley Fool • 19h ago
+
+---
+
+**[Bitcoin, Gold, Silver & Stocks Face a Market-Wide Sell-Off: Why Is Everything Falling at Once?](https://coinpedia.org/price-analysis/bitcoin-gold-silver-stocks-face-a-market-wide-sell-off-why-is-everything-falling-at-once/)**
+
+Bitcoin, stocks and precious metals are all declining together, pointing to widespread selling pressure rather than weakness limited to a single asset class
+
+Coinpedia • 1d ago
 
 ---
 
@@ -210,20 +224,6 @@ The Motley Fool • 16h ago
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
 Fortune • 2d ago
-
----
-
-**[Strategy Posts $21 Billion Bitcoin Gain. Investors Have Bigger Concerns.](https://www.barrons.com/articles/strategy-earnings-stock-price-d9342d80)**
-
-Barron's • 2d ago
-
----
-
-**[Alex Thorn: 50-Week Signal Says Bitcoin’s Bottom is In](https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in)**
-
-Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian.
-
-Bitcoin Magazine • 2d ago
 
 ---
 
@@ -243,7 +243,7 @@ A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC
 
 Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.
 
-⬆️ 4 • 💬 1 • 21h ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
+⬆️ 4 • 💬 1 • 1d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
 
 ---
 
@@ -291,7 +291,7 @@ Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, aut
 
 Contribute to escache/bitcoin-puzzle-methods development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 4d ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
+⬆️ 2 • 💬 0 • 5d ago • [GitHub](https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf)
 
 ---
 
@@ -315,13 +315,33 @@ Explore messages, images, videos, PDF and audio written into Bitcoin. Search by 
 
 ## YouTube Videos: "bitcoin"
 
+**[Why Bitcoin Is Holding Strong After a $6.3B Hack?](https://www.youtube.com/watch?v=bSmFGoAKPBc)**
+
+A reported $6.3 billion Binance hack has shaken crypto markets, but the timing is raising even bigger questions. With Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 516 • 💬 94 • ⏱️ 34:09 • 4h ago
+
+---
+
+**[uh oh, crypto holders... history is repeating!!](https://www.youtube.com/watch?v=9I1AJ0-Rudw)**
+
+History is Repeating for Bitcoin & Crypto into Nov 2026! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Make big ...
+
+📺 Altcoin Daily
+
+👁️ 61K • 👍 2K • 💬 91 • ⏱️ 8:13 • 1d ago
+
+---
+
 **[Schwab IMPACT 2026: Bitcoin, Ethereum Bulls Need &quot;New Narrative&quot;](https://www.youtube.com/watch?v=HzR1bo9RUr0)**
 
 Crypto is doing better following a steep downtrend into a bear market, though as @CharlesSchwab's Jim Ferraioli notes, that ...
 
 📺 Schwab Network
 
-👁️ 3K • 👍 25 • 💬 3 • ⏱️ 7:08 • 5h ago
+👁️ 4K • 👍 32 • 💬 3 • ⏱️ 7:08 • 9h ago
 
 ---
 
@@ -331,7 +351,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 122K • 👍 4K • 💬 269 • ⏱️ 34:04 • 16h ago
+👁️ 137K • 👍 5K • 💬 283 • ⏱️ 34:04 • 20h ago
 
 ---
 
@@ -341,27 +361,7 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 9K • 👍 265 • 💬 134 • ⏱️ 15:18 • 1d ago
-
----
-
-**[Bitcoin’s NEXT LEG UP? 🚀 November Setup After a Lackluster Uptober](https://www.youtube.com/watch?v=LHeg7hrryJs)**
-
-Could a lackluster Uptober turn into a Next-Leg-Up November for Bitcoin? BTC is moving sideways, but Wall Street's crypto ...
-
-📺 Crypto Casey
-
-👁️ 12K • 👍 359 • 💬 89 • ⏱️ 6:56 • 16h ago
-
----
-
-**[Bitcoin Survives Biggest Crypto Hack In History?!](https://www.youtube.com/watch?v=NLiGsqWQD-E)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 157K • 👍 3K • 💬 105 • ⏱️ 58:57 • 1d ago
+👁️ 10K • 👍 273 • 💬 134 • ⏱️ 15:18 • 1d ago
 
 ---
 
@@ -371,7 +371,27 @@ Bitwise CIO Matt Hougan joins 'Fast Money' to talk the impact of the Binance hac
 
 📺 CNBC Television
 
-👁️ 28K • 👍 152 • 💬 100 • ⏱️ 3:44 • 1d ago
+👁️ 28K • 👍 155 • 💬 101 • ⏱️ 3:44 • 2d ago
+
+---
+
+**[Bitcoin’s NEXT LEG UP? 🚀 November Setup After a Lackluster Uptober](https://www.youtube.com/watch?v=LHeg7hrryJs)**
+
+Could a lackluster Uptober turn into a Next-Leg-Up November for Bitcoin? BTC is moving sideways, but Wall Street's crypto ...
+
+📺 Crypto Casey
+
+👁️ 13K • 👍 380 • 💬 88 • ⏱️ 6:56 • 20h ago
+
+---
+
+**[Bitcoin Hit By Crypto’s Biggest Hack Ever](https://www.youtube.com/watch?v=-OkUO3MlrrQ)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 37K • 👍 862 • 💬 215 • ⏱️ 43:51 • 2d ago
 
 ---
 
@@ -381,37 +401,17 @@ The Friday crew discusses the biggest heist in history in the tech space with bi
 
 📺 Breaking Points
 
-👁️ 351K • 👍 6K • 💬 2K • ⏱️ 18:15 • 2d ago
+👁️ 357K • 👍 6K • 💬 2K • ⏱️ 18:15 • 2d ago
 
 ---
 
-**[The 9X Bitcoin Bull Market Just Started (Joe Consorti Explains)](https://www.youtube.com/watch?v=Rg58TJNJAqI)**
+**[Bitcoin Survives Biggest Crypto Hack In History?!](https://www.youtube.com/watch?v=NLiGsqWQD-E)**
 
-Joe Consorti about the upcoming Bitcoin Bull Run Get More Bitcoin with Invity: https://invity.io/robin The Bitcoin bull market already ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Robin Seyr
+📺 Anthony Pompliano
 
-👁️ 2K • 👍 98 • 💬 25 • ⏱️ 1:08:39 • 4h ago
-
----
-
-**[Bitcoin: The Q4 Dump is Here](https://www.youtube.com/watch?v=bekghgecip8)**
-
-Come to the 1st ITC Conference (Ticket prices go up Nov. 2nd!): https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 184K • 👍 5K • 💬 311 • ⏱️ 26:26 • 2d ago
-
----
-
-**[BITCOIN: THIS IS MOMENT IS CRITICAL...](https://www.youtube.com/watch?v=Sv_xCFb91ds)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
-
-📺 Crypto Rover
-
-👁️ 17K • 👍 632 • 💬 39 • ⏱️ 8:15 • 16h ago
+👁️ 163K • 👍 3K • 💬 106 • ⏱️ 58:57 • 1d ago
 
 ---
 
