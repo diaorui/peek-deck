@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-01T08:49:09.976297+00:00'
+updated: '2026-11-01T15:50:04.419955+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 01, 2026 at 08:49 UTC  
+**Last Updated:** November 01, 2026 at 15:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -2.2%  
-**30d:** -15.4%  
-**90d:** +21.6%  
-**1y:** -41.7%  
+**24h:** +0.8%  
+**7d:** -2.4%  
+**30d:** -15.6%  
+**90d:** +21.4%  
+**1y:** -41.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $277.60B
+**Market Cap:** $277.10B
 Rank #2
 
 **Circulating Supply:** 122,180,209 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.1%
+-54.2%
 
 **All-Time Low:** $0.43
-+524648.3%
++523643.6%
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 8d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 9d ago
 
 ---
 
@@ -144,7 +144,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-9d ago
+10d ago
 
 ---
 
@@ -152,33 +152,17 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[Ethereum staking queue holds over 1.17 million ETH with a 21-day wait for validator activation](https://pluang.com/en/news-feed/antrian-validator-ethereum-14-persen-kurang-eth-november-2023)**
+**[Justin Sun sells 80%-90% of Ethereum, shifts fo...](https://pluang.com/en/news-feed/tron-ceo-jual-holdings-ethereum-investasi-saham-kripto-as)**
 
-Ethereum's validator entry queue currently holds about 1.17 million ETH waiting to become active validators, with an estimated wait time nearing 21 days. This queue size is about 14% lower than the previous snapshot from October 23. Validators must stake at least 32 ETH to join, and the queue reflects the amount of ETH waiting for activation, not the number of stakers or market sentiment. Overall, 44.3 million ETH is staked, representing 36.22% of the total supply, with an annual reward rate of 2.44%.
+Justin Sun, CEO of TRON, sold 80%-90% of his Ethereum holdings, citing a bearish double top pattern and sluggish performance in ETH. He plans to reallocate these funds into US crypto stocks, which he believes are undervalued and offer better growth potential. Sun's move aims to diversify his portfolio and capitalize on the US market's opportunities, including his investment in World Liberty Financial, a US-based DeFi platform. This shift highlights a strategic pivot from Ethereum to US crypto equities amid market challenges.
 
-Pluang • 1h ago
-
----
-
-**[Ethereum staking shows bullish signs as entry q...](https://pluang.com/en/news-feed/antrian-staking-ethereum-melonjak-ke-2-8-miliar-apakah-musim-eth-akan-datang)**
-
-Ethereum's staking data reveals a strong bullish sentiment with about 1.23 million ETH waiting to be staked, while only 1,682 ETH are queued for withdrawal. The total staked ETH increased from 41.5 million to 44.2 million between August and October, raising the staked share of circulating supply from 34% to 36.19%. However, ETH's price dropped 5.2% in the past week to $2,244.74, with bearish market indicators and external uncertainties like the Federal Reserve meeting and U.S. midterm elections casting doubt on the positive staking trend's impact on price.
-
-Pluang • 1h ago
+Pluang • 27m ago
 
 ---
 
 **[Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)**
 
-CoinDesk • 1d ago
-
----
-
-**[Current price of Ethereum for October 30, 2026](https://fortune.com/article/price-of-ethereum-10-30-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -190,6 +174,18 @@ CryptoSlate • 2d ago
 
 ---
 
+**[Ethereum’s staking queue jumps to $2.8B – Is an ETH season incoming?](https://ambcrypto.com/ethereums-staking-queue-jumps-to-2-8b-is-an-eth-season-incoming/)**
+
+AMBCrypto • 8h ago
+
+---
+
+**[Bitcoin Slides 4.7%, Ethereum Sheds 5.9% As Crypto Market Hit By Fed Caution, Binance Security Scare](https://www.businesstoday.com.my/2026/11/01/bitcoin-slides-4-7-ethereum-sheds-5-9-as-crypto-market-hit-by-fed-caution-binance-security-scare/)**
+
+BusinessToday Malaysia • 13h ago
+
+---
+
 **[Ethereum Whale: Buys 9,375 ETH at $2,264 Average](https://blockchain.news/flashnews/ethereum-whale-buys-9-375-eth-2-264-average)**
 
 @EmberCN reports a single Ethereum whale spent 17.24 million USDC nine hours ago to purchase 7,703.2 ETH at $2,237.6, adding to an earlier 1,671 ETH...
@@ -198,33 +194,31 @@ Blockchain News • 1d ago
 
 ---
 
-**[The Binance Hacker Now Holds More Than 420,000 ETH. Could Selling It Push Ethereum Below $2,000?](https://247wallst.com/investing/cryptocurrency/2026/10/30/the-binance-hacker-now-holds-more-than-420000-eth-could-selling-it-push-ethereum-below-2000/)**
-
-A hacker holding 420,000 stolen ETH has Ethereum traders watching $2,000. Here's why that stash alone probably won't get it there.
-
-24/7 Wall St. • 1d ago
-
----
-
 **[THORChain pauses operations after Ethereum reorg triggers double refund](https://cryptobriefing.com/thorchain-pauses-ethereum-reorg-double-refund/)**
 
 THORChain paused operations after an Ethereum reorg caused a double refund—accidentally slowing Binance hack money laundering in the process.
 
-Crypto Briefing • 14h ago
+Crypto Briefing • 21h ago
 
 ---
 
 **[Ethereum Flashes a Risky Pattern as ETH ETFs Post Their Worst Monthly Outflows on Record](https://www.benzinga.com/crypto/26/10/62763699/ethereum-flashes-a-risky-pattern-as-eth-etfs-post-their-worst-monthly-outflows-on-record)**
 
-Benzinga • 18h ago
+Benzinga • 1d ago
 
 ---
 
-**[Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets](https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum)**
+**[Crypto staking attracts more investors even as yields fall](https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields)**
 
-Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.
+CoinDesk • 6d ago
 
-Decrypt • 2d ago
+---
+
+**[Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'](https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market)**
+
+Bitmine Immersion Technologies kept up its unbroken buying streak this week, adding 27,562 Ethereum—worth roughly $74 million.
+
+Decrypt • 1mo ago
 
 ---
 
@@ -232,11 +226,41 @@ Decrypt • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum&#39;s Biggest Bull Case Has One Massive Flaw](https://www.youtube.com/watch?v=yj1Aug58WpA)**
+
+Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free with our Insider Portfolios at: ...
+
+📺 Milk Road
+
+👁️ 576 • 👍 32 • 💬 72 • ⏱️ 14:53 • 2h ago
+
+---
+
+**[Schwab IMPACT 2026: Bitcoin, Ethereum Bulls Need &quot;New Narrative&quot;](https://www.youtube.com/watch?v=HzR1bo9RUr0)**
+
+Crypto is doing better following a steep downtrend into a bear market, though as @CharlesSchwab's Jim Ferraioli notes, that ...
+
+📺 Schwab Network
+
+👁️ 180 • 👍 12 • 💬 1 • ⏱️ 7:08 • 1h ago
+
+---
+
+**[ONE MORE LOWER LOW FOR ETH BEFORE UP!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=6U3l8Lf81uY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 166 • 👍 8 • ⏱️ 4:41 • 3h ago
+
+---
+
 **[ETHEREUM AND XRP ARE GOING TO ZERO #xrp #crypto #ethereum](https://www.youtube.com/watch?v=xuuJ_ceKMiE)**
 
 📺 CryptoWendyO
 
-👁️ 10K • 👍 435 • 💬 13 • ⏱️ 1:14 • 11h ago
+👁️ 13K • 👍 534 • 💬 49 • ⏱️ 1:14 • 18h ago
 
 ---
 
@@ -246,27 +270,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 140 • 💬 76 • ⏱️ 24:46 • 16h ago
-
----
-
-**[Ethereum Hits the Support Zone: What Now?](https://www.youtube.com/watch?v=F9G1ZpJ_ZXg)**
-
-We analyse Ethereum on 30 October 2026 using Elliott Wave, with the blue zone at $1832 to $2069 as the target area of the ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 197 • 💬 9 • ⏱️ 8:22 • 1d ago
-
----
-
-**[BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VJDHUa_4_ho)**
-
-BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 13K • 👍 283 • 💬 105 • ⏱️ 20:04 • 12h ago
+👁️ 10K • 👍 160 • 💬 79 • ⏱️ 24:46 • 23h ago
 
 ---
 
@@ -276,47 +280,17 @@ Join TradeConfident.io (25% Off): https://tinyurl.com/tcmembergift Indicators Fo
 
 📺 Trade Confident
 
-👁️ 672 • 👍 9 • 💬 1 • ⏱️ 3:53 • 2d ago
+👁️ 682 • 👍 9 • 💬 1 • ⏱️ 3:53 • 2d ago
 
 ---
 
-**[XRP Overtakes Bitcoin &amp; Ethereum Whales Are Going To Own Everything Soon Crypto Bull Run Comeback](https://www.youtube.com/watch?v=_9WjqcqWbk4)**
+**[Ethereum Hits the Support Zone: What Now?](https://www.youtube.com/watch?v=F9G1ZpJ_ZXg)**
 
-Im shocked that more people even over the last few years of being in the cryptocurrency space just manage to ignore this type of ...
+We analyse Ethereum on 30 October 2026 using Elliott Wave, with the blue zone at $1832 to $2069 as the target area of the ...
 
-📺 The Modern Investor
+📺 More Crypto Online
 
-👁️ 13K • 👍 750 • 💬 195 • ⏱️ 30:56 • 2d ago
-
----
-
-**[ETHEREUM: The Man Who Burned Millions to Warn the World](https://www.youtube.com/watch?v=flfhQnw13_Q)**
-
-Try NMN (Anti-aging & NAD+): (BIGGEST DEAL OF THE YEAR BUY ONE GET ONE FREE STOREWIDE + FREE NMNPROMO ...
-
-📺 Hidden AmuraKa
-
-👁️ 35K • 👍 1K • 💬 291 • ⏱️ 39:04 • 1d ago
-
----
-
-**[🚨 Bitcoin Is About to Make a BIG Move... Ethereum Could EXPLODE!](https://www.youtube.com/watch?v=AfMnB6H5BH0)**
-
-Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
-
-📺 DataDash
-
-👁️ 6K • 👍 167 • 💬 17 • ⏱️ 13:32 • 2d ago
-
----
-
-**[ETH overhang, Chainlink custody, Uniswap TJAR and XRP transfers](https://www.youtube.com/watch?v=GERtKHWGXiI)**
-
-ETH overhang, Chainlink custody, Uniswap TJAR and XRP transfers A Binance-linked hacker's 420000 ETH stash weighs on ...
-
-📺 The Coin Daily
-
-👁️ 7K • 👍 1 • 💬 20 • ⏱️ 7:38 • 1d ago
+👁️ 9K • 👍 201 • 💬 9 • ⏱️ 8:22 • 1d ago
 
 ---
 
@@ -327,6 +301,26 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 📺 More Crypto Online
 
 👁️ 7K • 👍 137 • 💬 11 • ⏱️ 7:47 • 2d ago
+
+---
+
+**[ETH overhang, Chainlink custody, Uniswap TJAR and XRP transfers](https://www.youtube.com/watch?v=GERtKHWGXiI)**
+
+ETH overhang, Chainlink custody, Uniswap TJAR and XRP transfers A Binance-linked hacker's 420000 ETH stash weighs on ...
+
+📺 The Coin Daily
+
+👁️ 7K • 👍 1 • 💬 19 • ⏱️ 7:38 • 1d ago
+
+---
+
+**[BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VJDHUa_4_ho)**
+
+BITCOIN WARNING: BlackRock DUMPING AGAIN (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 15K • 👍 309 • 💬 228 • ⏱️ 20:04 • 19h ago
 
 ---
 
