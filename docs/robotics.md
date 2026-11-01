@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-10-31T22:44:07.023138+00:00'
+updated: '2026-11-01T01:54:49.430676+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** October 31, 2026 at 22:44 UTC  
+**Last Updated:** November 01, 2026 at 01:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,7 +120,13 @@ I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch 
 
 Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...
 
-The Information • 6h ago
+The Information • 9h ago
+
+---
+
+**[The Rare Earths Powering the Next Wave of Robotics](https://www.barchart.com/story/news/8513371/the-rare-earths-powering-the-next-wave-of-robotics)**
+
+Barchart.com • 3d ago
 
 ---
 
@@ -128,15 +134,7 @@ The Information • 6h ago
 
 A startup called Neura is training humanoid robots in a "robogym" where the machines constantly practice and perform tasks.
 
-Futurism • 6h ago
-
----
-
-**[2026 Robotics Handbook looks at humanoids, AI, and design choices](https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/)**
-
-The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation.
-
-The Robot Report • 2d ago
+Futurism • 10h ago
 
 ---
 
@@ -148,11 +146,9 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[​Factory robot maker opens Madison Heights HQ to get closer to Detroit automakers​](https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/)**
+**[Rendezvous Robotics raises $20 million for self-assembling spacecraft](https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/)**
 
-Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
-
-Crain's Detroit • 1d ago
+SpaceNews • 2d ago
 
 ---
 
@@ -160,23 +156,21 @@ Crain's Detroit • 1d ago
 
 Future space missions could soon get a big leg up — or arm, rather — thanks to robotics developed by Rocket Lab in collaboration with NASA.
 
-Rocket Lab • 1d ago
+Rocket Lab • 2d ago
 
 ---
 
-**[SF Startup Behind ‘Robot-Dog Walkers Wanted’ Ad Gets Visit, Threatening Texts From Angry Resident](https://sfist.com/2026/10/30/sf-startup-behind-robo-dog-walkers-wanted-ad-gets-visit-threatening-messages-from-angry-resident/)**
+**[Halloween robotics competition to take over Wayne High School](https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/)**
 
-An SF startup is training AI agents to control robots independently through the use of paid "robot-dog walkers," and the project has already drawn threatening messages and a visit to the company's office from a disgruntled resident.
-
-SFist • 1d ago
+WANE 15 • 1d ago
 
 ---
 
-**[Bricklaying robots build entire apartment in Netherlands](https://www.independent.co.uk/tv/news/robot-apartment-netherlands-monumental-video-b3076741.html)**
+**[Germany and Ukraine test armed ground robot for frontline deployment](https://www.euronews.com/2026/10/29/germany-and-ukraine-test-armed-ground-robot-for-frontline-deployment)**
 
-A robotics company says its bricklaying autonomous robots have built an apartment in the Netherlands. Monumental released footage on Thursday (29 October) showing robots on curved scaffolding laying bricks at a building site in Almere. The company's founder, Salar al Khafaji, said the project included robots laying a curved wall with different brick types, different brick bonds, and indented text in the brickwork. Monumental says its robots have also started building an entire neighbourhood in the Groningen area, including more than 100 houses and a hotel.
+Remote-controlled and heading for the front lines. ARX Robotics and the Ukrainian company ROBONEERS report completion of the first major system tests. #EuropeNews
 
-The Independent • 15h ago
+Euronews.com • 2d ago
 
 ---
 
@@ -188,9 +182,11 @@ Fast Company • 2d ago
 
 ---
 
-**[The Woman Breathing Life Into Next Generation Home-Help Robots](https://www.bloomberg.com/news/features/2026-10-29/29-year-old-female-founder-breaths-life-into-next-generation-home-help-robots)**
+**[​Factory robot maker opens Madison Heights HQ to get closer to Detroit automakers​](https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/)**
 
-Bloomberg.com • 1d ago
+Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
+
+Crain's Detroit • 1d ago
 
 ---
 
@@ -218,23 +214,13 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI as experts warned.
 
 ---
 
-**[Elon Musk&#39;s Humanoid Robot Bodyguard 👀 #elonmusk #shorts](https://www.youtube.com/watch?v=svFO2f6mXc4)**
-
-Subscribe to VisionX Lab for more fascinating moments from Elon Musk, cutting-edge technology, AI, and the future. Disclaimer: ...
-
-📺 VisionX Lab
-
-👁️ 325K • 👍 4K • 💬 397 • ⏱️ 0:11 • 6d ago
-
----
-
 **[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
 
 OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
 
 📺 MACHINEKIND
 
-👁️ 46K • 👍 615 • 💬 48 • ⏱️ 13:33 • 3d ago
+👁️ 47K • 👍 621 • 💬 48 • ⏱️ 13:33 • 4d ago
 
 ---
 
@@ -244,7 +230,7 @@ NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelli
 
 📺 DPCcars
 
-👁️ 94K • 👍 368 • 💬 60 • ⏱️ 4:22 • 5d ago
+👁️ 94K • 👍 369 • 💬 60 • ⏱️ 4:22 • 5d ago
 
 ---
 
@@ -258,33 +244,33 @@ The newly announced Echo humanoid robots come in both tabletop and full body mod
 
 ---
 
-**[China Humanoid Robot Dance: 110 Humanoid Robot Dance in Sync | WION](https://www.youtube.com/watch?v=PaumW4XuciE)**
+**[Jensen Huang just did story time with robot ducks 🦆 #gtc2026 #microduck #jensenhuang #nvidia](https://www.youtube.com/watch?v=4R3hnmhx2Ps)**
 
-China has showcased its growing robotics capabilities with 110 humanoid robots performing a synchronised dance routine.
+Nvidia boss Jensen Huang talks to robot ducks during Nvidia GTC Berlin 2026.
 
-📺 WION
+📺 BWTV Prime
 
-👁️ 37K • 👍 121 • 💬 36 • ⏱️ 1:40 • 4d ago
-
----
-
-**[Humanoid robot spotted in NYC sparks curiosity, concern](https://www.youtube.com/watch?v=qjRriXk9i7U)**
-
-A humanoid robot was spotted in Brooklyn over the weekend, sparking both curiosity and concern as it took a stroll and posed for ...
-
-📺 CBS New York
-
-👁️ 19K • 👍 122 • 💬 45 • ⏱️ 1:48 • 5d ago
+👁️ 175K • 👍 3K • 💬 133 • ⏱️ 1:48 • 4d ago
 
 ---
 
-**[Unitree H2-X: Kung Fu Robot Meets Reality 🤖 #robotics](https://www.youtube.com/watch?v=5iae3Riwj0E)**
+**[China Sets New Guinness World Record as 110 Humanoid Robots Dance in Perfect Synchronization | AI1B](https://www.youtube.com/watch?v=y-Iy1AsIM9I)**
+
+China has set a new Guinness World Record as 110 full-size humanoid robots performed synchronized dance routines in Jinan, ...
+
+📺 DRM News
+
+👁️ 72K • 👍 207 • 💬 82 • ⏱️ 1:21 • 5d ago
+
+---
+
+**[Unitree H2-X: Kung Fu Robot Meets Reality 🤖 #robotics](https://www.youtube.com/watch?v=hTTC9md29YQ)**
 
 Unitree H2-X can pull off spectacular kung fu stunts. But what happens when the demo leaves the promo video? We break ...
 
-📺 Ashish Decodes English
+📺 Ashish Decodes
 
-👁️ 2K • 👍 63 • 💬 2 • ⏱️ 1:29 • 5d ago
+👁️ 164K • 👍 4K • 💬 69 • ⏱️ 1:39 • 5d ago
 
 ---
 
@@ -295,6 +281,16 @@ Four tiny Microducks walked onto Jensen Huang's GTC Berlin stage, followed his c
 📺 Techy or Not
 
 👁️ 35K • 👍 1K • 💬 8 • ⏱️ 1:46 • 6d ago
+
+---
+
+**[Tesla Just Started Building Optimus Humanoid Robots For Real](https://www.youtube.com/watch?v=K0bF5o_3Qq8)**
+
+Tesla Just Started Building Optimus Humanoid Robots For Real Tesla has officially kicked off early production of its Optimus ...
+
+📺 The Electric Viking
+
+👁️ 71K • 👍 1K • 💬 245 • ⏱️ 4:39 • 4d ago
 
 ---
 
