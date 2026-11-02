@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Why AI is boosting Meta's ad business while hurting Google search",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VFFxN2pKNFVfSEdGZVpaUmU0ZUVyWGE2VnEwUE5oZE41bmo5Z2dsTnM2alRKM1VaV0g5ZWcxb2FKcXZxdUZsWUktQzJVel9aelpQQ2FScE43X0RncXl2cnJDY2FjdVBYb3EzR1NySdIBdEFVX3lxTFAxZ0VWZ1FUemdMTjR6NktfMmpJUmYyY3BycTBTQ2tocUZLa2RoaEJZVFAyamFxU1ZwdmJOYjdOZ2xqVWMxbGNVLXNOSjBrUFVFQ0lwZ1ZQcGRXYmtjaERRaE10b3JEWDBnTG1IUHU3YTZZLVNa?oc=5",
-      "pub_date": 1793534401.0,
-      "article_url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108497472-1793543323692-gettyimages-2231576298-AA_27082025_2388287.jpeg?v=1793543337&w=1920&h=1080",
-      "description": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter."
+      "headline": "When You Should\u2014and Shouldn\u2019t\u2014Use AI to Search the Web",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTFdNVnBqTFotcWU4a1ZjM2tKWXlXNjc3VXdUQVhhd0JDc2d4cHUwUjZubnBaQW82a2xVakJwMTFnMFR2RnplSDJEa1VVUEFQWi1SSkEyeU12dUNMMDIxcm9oTzNuZllqbGZHZUdLcHFMOEdfVXZpelpRU3c5YzF2emd3SHg0Yy14OWc?oc=5",
+      "pub_date": 1793620800.0,
+      "article_url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "image": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/191:100/w_1280,c_limit/102926-AI%20Web_.jpg",
+      "description": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you\u2019ll get better results by typing your query into a good old search engine."
     },
     {
-      "headline": "Opinion | Could A.I. Be Conscious? It\u2019s Definitely Possible.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcS1mNVBVVzN5N1RSdElXd0RmMXdsRXQ1bU9BLU5Uam5waWlEUVoxMHlYRW1OeS1uUS1RNXZpVUFXYUtZbHRkSDdFWFA2M0NaRWliUW12UGxQYzhtNVhtTWhxbG12MFVleTMzbzkxWEwyRnc4cDg3aUR4SQ?oc=5",
-      "pub_date": 1793530814.0,
-      "article_url": "https://www.nytimes.com/2026/11/01/opinion/ai-consciousness-ethics.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Watch Howard Marks Says AI Stumbles Have Boosted Skepticism",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2RDZzZwVUUzNDBqQ3NnOHc3cWQ0V1pKdWRHb3JXNFRhWEVrLTI5UDA4Qzk3S0I1dGZJeTh2M1Q1RVEwLTNPM3p6LWVKOW40YlZNbG8tWkROdW5iMzBGcXh6YkhldmlTeTFfNFRleklwRzRjWGJPemYwdFJIc01oc0hMNFNJaldpOTExX2RYNE1GMWdEQXpUeDlqenlWZjBhbV8xZU83MkNMeUR4?oc=5",
-      "pub_date": 1793591609.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How AI Is Changing the Homebuying Process, From House Hunting to Home Staging",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUtNWGk3N0ZaN040Sk9hdEN6czh1dHAxYlY4Tm9pQkZHM3M2ZFB0bXlrdkZ6ak01SVV1UnprcHA1a1hETkVhbVhiX1o1amNKeDFHTkxETGNZZ28wVTVyUERxZTkxVlRkQlkzbFN6Qmp2cnV0TE1FdU1OVXFwb012NlJnbXdhbTl6QkpCM3RB?oc=5",
-      "pub_date": 1793591040.0,
-      "article_url": "https://www.yahoo.com/news/videos/ai-changing-homebuying-process-house-034447981.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ff623dfbe9a6adbc4b32c3fdada5c3d9fd07a0f32e4dba0815e90e81fc2d8648/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwfxt_cox_videos_305%2F9375f8188922d9d54a0f383587249040.jpg",
-      "description": null
-    },
-    {
-      "headline": "Another Chip Stock Selloff Shows How the AI Trade Is Getting Pickier",
+      "headline": "You can't escape AI, but you can learn to live with it. Wharton Professor Ethan Mollick explains how.",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3dKSi1RMTVlRGpWdjlKVERyR3lHRGJKbmNIRWJEQlpNaWQzb1pfbWEzYXJmLXpGQjROSDYxeUdQSWY3cnlLaGpPTm9DNVNlUG9SUzFYYVR5SzJSSXlmRjAtNmJKQ1NaRVBxWWZudmlZcU43X20yX04yc0JIVFBQMnFWT2ZuMGZZWndpaWlIZF9mS24zRkxDTFpjUjhtLWNjZXd5X0hsY2V1Q3Jv?oc=5",
-      "pub_date": 1793593680.0,
-      "article_url": "https://www.businessinsider.com/another-chip-stock-selloff-shows-how-the-ai-trade-is-getting-pickier-2026-11",
-      "image": "https://i.insider.com/6ae7fa568bd5d6547af34847?width=1200&format=jpeg",
-      "description": "Hot Japanese chip stock Kioxia plunged as much as 17% after a disappointing earnings outlook."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1cxSFIwZVhEXzdBMnR0dWdGdEtIVThlYWZiWGNjNGg0Q3NBci1heVlxdmhpcXQ4S1puNHB6bml4VkRUNWtVdkR0UlJ6azV0bWNFR1FrMzlUZ0JJdzBQN0RqTURxUEtzMk9TeFhMcEFXQTltX1ZjMnRBNG5WR3FkNURkRDc3TkMyTFhLbjZWMzVFZlBjcXlhSV9QX3M?oc=5",
+      "pub_date": 1793617200.0,
+      "article_url": "https://www.businessinsider.com/ai-jobs-future-ethan-mollick-skill-interview-peter-kafka-2026-11",
+      "image": "https://i.insider.com/6ae390049bdea7d1607d2d4d?width=1200&format=jpeg",
+      "description": "AI is way more capable than you think, says Wharton management prof Ethan Mollick. That means you \u2014 and your kids \u2014 need to figure out how to adapt."
     },
     {
-      "headline": "China's robot makers have mastered the moves. Now comes the race for brains",
+      "headline": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5",
-      "pub_date": 1793574480.0,
-      "article_url": "https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5",
+      "pub_date": 1793622333.0,
+      "article_url": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic says you can\u2019t be mean to Claude. It\u2019s not about feelings",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01ZU5qTkttUWgxLW5mbWVCb3lVVWZrQjRJLU5nbXozRjRhMDhmSGswckNlZGpMMWZwQlZHT3g5Mm1KM2JMaWQzcGFoRWg1d2N0dTlDQkhWR0RPa1puRWRfUlZXWXh6YmxOZDRKdEdWV2VFbXAwV3hzZnNzckptQQ?oc=5",
-      "pub_date": 1793552416.0,
-      "article_url": "https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295330098.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Anthropic has added a new line to its AI usage policy: Users should not \u201cengage in sustained and needless abusive or cruel behavior toward our models.\u201d"
+      "headline": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5",
+      "pub_date": 1793623622.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/marvell-to-purchase-lumentum-in-115-billion-deal-as-ai-124702761.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6861ef63426cc619505dbdf456a5a94e4e7efc5b2abaa7436eb25a88c1210007/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F719c8a06-2eed-42f5-9e1a-5af9c4996a39",
+      "description": "Marvell stock declined after the chip designer said it will purchase optical parts maker Lumentum in a $115 billion deal."
     },
     {
-      "headline": "The Smartest People in AI Believe This Is the World\u2019s Most Important Chart",
+      "headline": "Marvell Reaches $115 Billion Deal for Lumentum Holdings",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2FXN0VKVjBIUDlmNF8xMXBEcE9BQkRrQk5GR2k1dmNLMjlBMVlCSmRLc19PNXVCTUNZVUZRY3pQNzEtZGJuQlNwcnMxQWdqME8xa1FtOVkyendLS0RFSTV3cjNwQXJaYmVxTy1fREcyNk81S29pYWRGOTdLN3ljXzVVX1pIaDlTMXRGTHB1ck1qNEZnSUlsUkJIMWFJSmpHT1U5UjkyMEs?oc=5",
+      "pub_date": 1793621711.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "New Jersey's Workplace AI Bill Tests The Limits Of Human Oversight",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2pDbDN0TkdENjVNRVk4dkZYcDV2QVJJaWhaNXM0Qmdsd0Jqak9mMkR4X1dBVmp6blNHR0lUTGg5TkxTbEFOZDUwXzNYbHVCRkhZUlZGRkFSSWtsSW9scVpiNEE0RjZoM3pVRWdXZ2ZjNlEwcl9EQ1ZTV1o5eV9nWnpjQ1lCekhqMTlua3ZYb3NCLVVPSmVRMnFTZ19OdldURHV0Rnk1RTVKbk1oa1A1Y1Y4cnY4amt6aTZ0eC1n?oc=5",
+      "pub_date": 1793624400.0,
+      "article_url": "https://www.forbes.com/sites/alonzomartinez/2026/11/02/new-jerseys-workplace-ai-bill-tests-the-limits-of-human-oversight/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "VC Firms Are Trying to Figure Out AI, Too",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdlRTSktsR1lfYmNBOURrNzZSbDJRcG55dmhHQ2E3d1JQSXNQMjRrdVpHdTlUcHotNF9UaVdnX0QzRlVONWtPSmsteUtQSTc0cTRxRjVjOXM1WWExcTdkdkJqLTdmc19seXlxYXd3ZGlZejREMTJTeUsxWFVaVHFjemkwQVVZTk0?oc=5",
-      "pub_date": 1793412000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVRaSDNVbllrTXY1dXlSWHRveHlTMXAtY04xRm1iRFItTkIwM1N3VXBwcEtDNl81SHBab3U2YWozeVdpXzhDallTQUNKTEpJaE9XM04zaFlkME5nbk9LdzRFSWxwUW01N3JiaS1KdFA2Q0UwaUVoSlR5V09EUzBnT3lUYi1RM1daWU9BTktIQ1pQd1k?oc=5",
+      "pub_date": 1793623920.0,
+      "article_url": "https://www.wsj.com/pro/venture-capital/vc-firms-are-trying-to-figure-out-ai-too-429e6549",
       "image": null,
       "description": null
     },
     {
-      "headline": "The Year Math Changed Forever",
-      "source": "The New Yorker",
-      "source_url": "https://www.newyorker.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmNhdG1JQkdVR0hEWVh6XzI4Y05XYmt2dm82UWJVRE8wNlBERDJpNTNEZ29GNnUxdzNtdXprd25YdnRZbWY5aXliazdGOHVwbndwSkltQkdpd2pXcl83aVNYMEl2elo3SmxUSzFOWjRkREk0d3ozQmczRTNQcWtoSw?oc=5",
-      "pub_date": 1793530800.0,
-      "article_url": "https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever",
-      "image": "https://media.newyorker.com/photos/6ae0ee3aa1dfb9a92cd4009d/16:9/w_1280,c_limit/r50331.jpg",
-      "description": "A.I. is solving problems that stumped the field of math for decades. Mathematicians look to Terence Tao for guidance on their altered world."
+      "headline": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTJxMVlLZVJ1YmQwOGw0Y2R0b3JqQS04aWZzVl9xU0J4cS1SRXBoZmlSSDhqNWtCODRlMEdtdWNEZ0U3Q3BYbVhJQjZ3UE5ZV05UMUpuQXJDMms4MHBZWS1nbkRqRnZXbXlySXVPVGpTZHB5X2RSWU1ib1JHM1BBOUxwb1BvYWRXMVJiSDhPSjBEcjTSAZgBQVVfeXFMTjlfeHpPbmxGR2lCLXhKS2lvQWotNV9HYmhKTEhvVUJMemRQbnBpOUg3Zkd6Vzc1M1g4X2pDWFU1WGZnaEdTTElnZDJlOEFrMDNMbnBuRjR1eFFYcnZodzFsSXNZVjNVVm41aE82UVlsRTVlZ2tYMllib1hQRjBZT0drLUpIdV9OY1lWV0pUNUNGZG95cS0xZFc?oc=5",
+      "pub_date": 1793617201.0,
+      "article_url": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/106949322-1632916362498-gettyimages-1235565564-848033_NA-POL-0928-CAPITOL-HILL_KKN_29317JPG.jpg?v=1793390260&w=1920&h=1080",
+      "description": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy."
     },
     {
-      "headline": "Hackers are running riot with AI. Its makers want to cash in",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdF80NkpLZHJxNVlWX0s0UEhLMlRKVnVqZldzN2tjY2tveUJ1NTdqeEtTeW9kWnBnakZzcEd1ZURSemt1dFR1RXdpYUNRSVp2ZFg5VGxuOTBfOE5uMEZfbl9raVB4Ym5SZ0JpdVd0MU9Xa1RpdWxrRml3aHVnN21HYTBaNnhmU292RS1XaDBYYVNqa3BoZVBMYk45aXpKVXhtM295VGZQelE?oc=5",
-      "pub_date": 1793569302.0,
-      "article_url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+      "headline": "Opinion | U.S.-China Relations Will Never Be the Same in the Age of A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeDBCYnIyYzFCMnhOQThxTHJXTUVkQ0VRb0txRnJIVmM2VjMwRkdMUTM4d25BRy1ndmhtZGNMMlNZWUNiaGFneEZFQkpCelRUUm5jaUxwMUlEV3NEUVFHUll6T1ZNX0FmN28xTnZyS2k3U1FXZXB3UUpKOUVLcmI3TGZsbk1GN2p3dnRNdlZvaW5nNTg?oc=5",
+      "pub_date": 1793599206.0,
+      "article_url": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "We Can\u2019t Afford an AI Recession",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLV9yb0VVTGVkTmpnbWowdEtZWTZIZUtmQm5FTHRTOV9lOXQzbFpFT3VGY09kd0tsWHMzbmtwQnVPWTN2RGhwQ2w0eldEdjh2X0diV2E1RnlRZXlqUUdtdlY4LXF2SFZBNWJPaFJVanZ2YzhhZUtkbHJZcGMxM3JON3NRTEVPLU9tU0doWk4zdw?oc=5",
+      "pub_date": 1793622600.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/11/ai-data-center-spending-economy/689237/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-02T04:47:19.629230+00:00"
+  "fetched_at": "2026-11-02T13:10:03.931352+00:00"
 }
