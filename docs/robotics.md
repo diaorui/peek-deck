@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-02T13:10:05.895404+00:00'
+updated: '2026-11-02T22:25:46.280526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 02, 2026 at 13:10 UTC  
+**Last Updated:** November 02, 2026 at 22:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello, Today we're doing a big release for Reachy Mini. It mainly contains three things: A hoverboard, to give Reachy Mini some much-needed mobility. I'm a big inverted pendulum fan and I absolutely love this one, sometimes I just do sit → stand up → sit → stand up on repeat because it's so smooth (in the demo above it isn't smooth as it hits the ground, but that was my fault, I messed up the IMU setup) A smartphone app, available on iOS and Android: no computer needed to interact with the robot anymore NFC tags, allowing for new angles of creative personalization (e.g. one hat = one personality) We hope you'll build great things with these new tools, learn stuff and have fun!
 
-3d ago
+4d ago
 
 ---
 
@@ -52,7 +52,7 @@ https://pollen-robotics.com/reachy-mini/#level-up From Thomas Wolf on 𝕏: http
 
 A few weeks ago we ran a live π0.5 demo at IROS, and getting there turned into a good lesson in how many things can go wrong between "the policy works on the data rig" and "the policy works somewhere else." Our cofounder Bayley wrote it up in three parts, and I figured people here would find the details useful. The setup: we had a clean pick-and-place dataset from one YAM rig and wanted a checkpoint trained on it to run on a different YAM setup, in a convention hall none of us had seen. That's a common spot for smaller labs too, working with the rig they already have instead of rebuilding the one the data came from. Part 1: fine-tuning Most of the ablations ran in a path-traced MuJoCo sim he built, so we could do thousands of rollouts a day without resetting anything. The biggest takeaway was to train the VLM and not just the action expert. Expert-only got 51% pickups and 12% dropoffs. The full fine-tune got 89% and 53%, and an r=128 LoRA got 84% and 59% while fitting in 32 GB. Lighting was the surprise. Hard light from 10 cm disks (basically bare bulbs) roughly halved the expert-only checkpoint and didn't hurt the full fine-tune at all. Cameras turned out to matter more. Nudging the overhead camera barely changed whether the arm lifted the target, but it broke placing, and shifting the wrist camera 1 cm sideways made 11 of 30 paired rollouts worse. The same scene rendered under four lighting setups in our sim, from large soft panels down to 10 cm disks (roughly bare bulbs). The hard-light setup roughly halved the expert-only checkpoint and didn't affect the full fine-tune. Part 2: latency On the real rig, performance was worse than it should have been, and we were close to doing an RL pass to fix it. Then someone actually watched the video feed in the inference dashboard and saw it lagging by several hundred milliseconds. The culprit was Python's buffered pipe holding camera frames until 64 KB built up. Our sim had said up to 280 ms of latency didn't matter. The robot disagreed, probably because near misses knock things around in ways a simple physics model smooths over. After that he went after inference itself. The stock LeRobot code ran at over 230 ms per step, and he got it to 87 ms on an RTX 5090 Mobile by casting weights to bf16 once instead of on every call, capturing a CUDA graph for the action expert, removing an autograd graph nobody was using, exporting SigLIP to ONNX, and switching Gemma to fp16 (GeForce cards run bf16 at half speed). Once it was fast enough, the policy started doing what our operators do: a quick approach, a pause, a small correction, then the grab. Mean inference latency per step on an RTX 5090 Mobile, from over 230 ms with the stock LeRobot code down to 87 ms. Each bar is one change. Part 3: memory 24 GB laptop GPUs keep getting harder to find, so the last piece was getting the stack under 16 GB. Two fixes took peak VRAM from about 22 GB to 11.2 GB: not building a throwaway fp32 backbone at load, and not keeping PyTorch copies around next to the TensorRT engines. It now runs on cards like the RTX 5080 and 5070 Ti. Peak VRAM for the rollout stack, before and after the two fixes, against 16 GB (RTX 5080 / 5070 Ti) and 24 GB (RTX 5090 Mobile) cards. One caveat: the Part 1 numbers are from sim, which scores a little higher than our real rig, but the trends held up. Full write-ups are on our blog (I work at PrismaX, where Bayley is cofounder), and both repos are open source: Part 1, fine-tuning: https://blog.prismax.ai/article.html?slug=openpi-pi05-fine-tuning Part 2, latency: https://blog.prismax.ai/article.html?slug=latency-vs-pi05-rollout-performance Part 3, memory: https://blog.prismax.ai/article.html?slug=pi05-inference-in-16gb Simulator: https://github.com/PrismaXAI/yamulator Rollout stack: https://github.com/PrismaXAI/prism-pi Happy to answer questions or pass them along to Bayley.
 
-3d ago
+4d ago
 
 ---
 
@@ -60,7 +60,7 @@ A few weeks ago we ran a live π0.5 demo at IROS, and getting there turned into 
 
 So I saw this cute little robot somewhere( 3d design credit to the original creator don't know his reference ) and thought, why not build it myself. I got the body 3D printed and started playing around with the open-source code, but honestly, it was pretty basic compared to what I had in mind for this little dude. So I ended up spending almost the next month building my own ecosystem around it. Now Yeti has 100+ emotions and behaviours, along with a gyro, microphone, LDR and touch sensors. I also added different functionalities so it can work as both a little robot and a clock, with sounds, reactions and different behaviours depending on how you interact with it. The feature I'm probably most excited about is that you can flash new firmware to Yeti directly from your phone over Bluetooth. No Arduino IDE, laptop or cable needed. I also built a companion app that lets your phone connect to Yeti automatically when you're nearby. And then I went a bit overboard. I made it possible for different Yetis to communicate with each other through their phones over the internet. So two Yetis paired with different phones can exchange messages, little scribbles, sounds and other stuff. You can even send things like a cute Happy Birthday message/sound to another Yeti. This is honestly the first time I've built something like this, so I'd really love to hear what you guys think. I'm still figuring out what Yeti should become and what else I can add to it. Would love feedback from people into robotics, ESP32, or just building random little things like this
 
-3d ago
+4d ago
 
 ---
 
@@ -68,7 +68,7 @@ So I saw this cute little robot somewhere( 3d design credit to the original crea
 
 Hey - in March I posted PhAIL here. We ran robot AI models on a real robot doing bin picking, and the best one did 64 picks/hour, against 1,300 for a human. The top comment was about how brutal the gap between sim and real is. Everyone trains and tests in sim, and nobody really knows how much a sim score tells you about a real robot. We don't know either. Since then we added a DROID benchmark to PhAIL, and together with Nebius we started a competition to get an answer. If some of you come and take part, we'll be really happy, that's partly why I'm posting. But mostly we want to have fun with the community and see how big the gap actually is. The story is simple. You train a policy, pack it into Docker, submit and we score it in two sims: MolmoSpaces now, RoboLab starting from 16 Nov. In December the top 10 will run the same image on our real Franka, on tasks like the DROID benchmark, but on a different set. So being great in one sim is not enough. You need to do well in both, and then the real robot decides. Which makes me wonder: what would a robot have to do in the finale for you to believe the result? I think the winner will be whoever balances the two sims and the real robot best, and I'm curious how people will approach it. We also added a couple of constraints on purpose. The policy has to fit in 24 GB, which is what a 4090 has, so a lot of people can test at home. That's also less than current top models need (FLUX 3 Action takes about 35 GB), so you can't just take the biggest model and fine-tune it. And thinking isn't free: the sim clock keeps running while your model computes, the same way a real robot keeps moving. RTC support is coming soon, so potentially you can think for more time, and still finish on time. We don't want everyone to wait until December to see real-robot results, so every week we'll run a few of the submitted policies on the real Franka and share the results with participants. What made this possible is our framework, positronic. A policy Docker image serves one API, and we built it so that a new sim plugs in almost for free. That's how one submission runs in two sims and on the real robot. We also made the whole entry (sign-up, submission, results) work through your coding agent, because that's how most of us work now. There are example images for π0.5, GR00T N1.7 and MolmoAct2 to start from. Whatever we learn about sim vs real, we'll publish it. Prizes are $23.5k in Nebius GPU and eval credits, and $1k of that goes to the best open-source write-up. Everything is at competition.phail.ai And if you're curious about the infra we built to run the competition, let me know in the comments, happy to tell more about it.
 
-3d ago
+4d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hey - in March I posted PhAIL here. We ran robot AI models on a real robot doing
 
 https://preview.redd.it/v0jg3tlh0fyh1.png?width=1672&format=png&auto=webp&s=d3413892cbe266c89f69d47960024d001e68f01a https://preview.redd.it/71xajvod1fyh1.png?width=1295&format=png&auto=webp&s=df05c6a061996500d77af66f921e3ff97a30b890 Hi everyone! A while ago, I shared the first version of my DIY unmanned surface vehicle, BN-USV. Since then, I've been working on a second version, and I wanted to share some of the design changes and the reasoning behind them. Here's the earlier V1 post for context: https://www.reddit.com/r/raspberry_pi/s/n3gdRr99w9 The first prototype taught me that getting a robot to work reliably on the water is quite different from testing individual components indoors. While the basic RC operation worked, the field test highlighted several areas that needed improvement, including heading estimation, control response, weight distribution, and access to the onboard electronics. For V2, I'm focusing on three major changes: 1. A modular hull design Instead of treating the hull as one integrated structure, I'm dividing it into replaceable sections. The goal is to make it easier to modify individual parts, experiment with different configurations, and repair damaged components without rebuilding the entire boat. https://preview.redd.it/ubz33w0s0fyh1.png?width=1920&format=png&auto=webp&s=4008bfe00ce855ac7d53927158995f7e42310c84 2. A distributed control architecture I'm redesigning the electronics around a main module and two propulsion modules connected through CAN communication. The Raspberry Pi 5 will handle higher-level processing, while ESP32-based controllers will manage lower-level control and safety functions. One important goal is for each propulsion module to respond safely to communication failures without depending entirely on the main computer. https://preview.redd.it/1ugqmvcu0fyh1.png?width=1920&format=png&auto=webp&s=e520f66d7c4bb1aa9a8541934f4c1980b69ed36d https://preview.redd.it/3xsxtvcu0fyh1.png?width=1920&format=png&auto=webp&s=13dfae9f0ded6d3736b04afb7cf4aefa8d62f843 3. Prioritizing reliability before autonomy Initially, I wanted to move quickly toward waypoint-based autonomous navigation. However, the first field test made it clear that reliable manual control, predictable steering behavior, and robust communication should come first. I'm now focusing on those fundamentals before moving further into autonomous navigation. V2 is still under development, so these are design goals rather than fully validated improvements. I'll continue sharing the development process, including the things that don't work as expected. The long-term goal is to make BN-USV a modular platform for marine robotics experiments, education, research, and custom applications. I'm developing BN-USV as part of BrillNova, with the aim of eventually making the hardware platform commercially available. I'm also sharing the software and development process publicly. I'd love to hear your thoughts: For those building outdoor robots, has modularity made maintenance and experimentation easier, or has it introduced more complexity than expected? Project links GitHub: https://github.com/Brillnova YouTube (development videos): https://www.youtube.com/@Brillnova Thanks for reading!
 
-3d ago
+4d ago
 
 ---
 
@@ -84,7 +84,7 @@ https://preview.redd.it/v0jg3tlh0fyh1.png?width=1672&format=png&auto=webp&s=d341
 
 Mino's software stack is based on ROS 2. We both went to the ROS conference (ROSCon) this week to meet some of the folks that make our favorite middleware possible. I wanted Mino to come with me and interact with people at the conference, so I coded a special companion app for the event on the robot's Jetson Orin Nano. What you see in the video is the first outdoors test of the app before going to the train station on Monday. With Mino's open-source software building blocks and some help from a coding agent (Mino's code base is agent-friendly), this app was ready in a weekend. Depth estimation, person detection and tracking, pose feedback, odometry and motion control come out-of-the-box. The agent just had to glue Mino's capabilities together with the behavior logic I specified. Want to program your own apps on Mino? Subscribe on Kickstarter or to our waitlist to get notified when the Kickstarter campaign launches and catch the early-bird discounts. If the campaign succeeds, the source code of this app will ship with the robot! This is what the app does. It has three states: finding person, following person and hanging out with person. In the "finding person" state, the robot stays in place, looking around with base and head rotation until a person is detected. When that happens, the state changes to "following person", which tries to approach the person while keeping them at the center of the field of view and ignoring other people around. When close enough to the person, the state changes to "hanging out", which stays in place and keeps eye contact with the person. If they move away beyond a threshold, the state goes back to "following person" or, if the person is no longer found, to "finding person". The robot perceives each person's position and speed in 3D. A tuned YOLO-World detects people fully or partially inside the field of view of the cameras (the eyes). People detected with enough confidence get their 3D bounding boxes estimated by back-projecting their 2D counterparts to 3D space with the depth image from the stereo pair. They are then tracked across frames based on bounding box overlap and appearance similarity. Appearance is modeled with the embeddings from a classifier on each person's crop, and tracks are smoothed with a Kalman filter. Once the robot sees its buddy, it keeps re-calculating trajectories to steer its base and head to the target pose. The trajectories are followed by periodically sending head pose and base velocity commands to our custom hardware at the base. That hardware estimates the full-body pose and runs several control loops to achieve what's commanded from the Jetson. All that at high frequency and bounded latency. What would you create with Mino? Let me know in the comments 🙏
 
-3d ago
+4d ago
 
 ---
 
@@ -108,7 +108,7 @@ https://preview.redd.it/6luau7aazcyh1.jpeg?width=600&format=pjpg&auto=webp&s=358
 
 I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch arm, will π0.5 fit on a Jetson Orin Nano, has anyone trained GR00T N1.7 on an SO-101. The answers were scattered across docs, papers, Hub model cards and GitHub issues, so I put them in one table. https://caniembody.pages.dev It covers 24 robots and 21 policies (ACT, Diffusion Policy, SmolVLA, π0/π0.5, GR00T N1.7, X-VLA, OpenVLA-OFT and others). Every filled cell links to its source, with the date it was checked and the versions it applies to. 193 of the 504 robot-policy pairs have evidence so far. The rest are marked as having none, and I'm not guessing. A few things it does differently: - Each cell says what kind of evidence backs it: official docs, a public checkpoint, an issue thread, a paper. - "Partial" usually means someone trained it on that robot's data, but nobody has published a real-robot run. - Inference speeds always come with runtime, precision and camera count. SmolVLA on the same 8 GB Orin Nano measures under 1 Hz in PyTorch fp32 and over 5 Hz as split ONNX fp16. - The data is open (CC BY 4.0) with a JSON API, so you can use it in your own tools. I'd like to know which cells are wrong. If you've run one of these policies on one of these robots, especially if it failed, a link to a checkpoint, video or log is enough. Every cell has a "Dispute this cell" button that opens a pre-filled GitHub issue.
 
-3d ago
+4d ago
 
 ---
 
@@ -116,19 +116,19 @@ I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch 
 
 ## Google News: "robotics"
 
-**[Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores](https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/)**
-
-A report said the company is already working on the second version that’s codenamed Max 2.
-
-Engadget • 19h ago
-
----
-
 **[Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push](https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push)**
 
 Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...
 
-The Information • 1d ago
+The Information • 2d ago
+
+---
+
+**[Video. Humanoid robots climb China’s Mount Tai in unusual challenge](https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge)**
+
+Video. China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path.
+
+Euronews.com • 8h ago
 
 ---
 
@@ -136,57 +136,57 @@ The Information • 1d ago
 
 Meta and Fourier develop a humanoid robot prototype as the tech giant explores AI-powered home robotics.
 
-Interesting Engineering • 4h ago
+Interesting Engineering • 13h ago
 
 ---
 
-**[China's robot makers have mastered the moves. Now comes the race for brains](https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/)**
+**[Betting on AI and robotics, Dyson opens Glilot flagship store in Israel](https://www.jpost.com/business-and-innovation/article-913442)**
 
-Reuters • 14h ago
+Dyson robotics engineer Guy Turner says the company’s next chapter will focus on machines that can sense, perceive, and solve problems independently
 
----
-
-**[China’s DeepSeek's new architecture can operate with less human supervision](https://interestingengineering.com/ai-robotics/china-deepseek-architecture-multi-agent-ai)**
-
-Chinese AI company DeepSeek estimates that people can effectively supervise only three to five active AI agent sessions at a time.
-
-Interesting Engineering • 18h ago
+The Jerusalem Post • 1d ago
 
 ---
 
-**[28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics](https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/)**
+**[China’s robot makers have mastered the moves. Now comes the race for brains.](https://www.japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains/)**
 
-VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem.
+Embodied AI, which focuses on software that allows robots to understand surroundings and adapt, is opening a new front in U.S.-China tech rivalry.
 
-The Robot Report • 23h ago
+The Japan Times • 21h ago
 
 ---
 
 **[Laden with eggs, robots race up sacred Chinese mountain](https://techxplore.com/news/2026-11-laden-eggs-robots-sacred-chinese.html)**
 
-Tech Xplore • 3h ago
+Tech Xplore • 12h ago
 
 ---
 
-**[47 Companies Are Mentioning Humanoid Robots in SEC Filings. History Says That's a Red Flag](https://www.inc.com/nick-hobson/47-companies-are-mentioning-humanoid-robots-in-sec-filings-history-says-thats-a-red-flag/91426960)**
+**[Walmart Pumps $6B Into Robotics Partnership](https://wwd.com/sourcing-journal/logistics/walmart-6-billion-symbotic-robotics-automation-san-antonio-fulfillment-center-1239396645/)**
 
-SEC filings show a massive surge in companies mentioning "humanoid robots." History—and bubble psychology—suggest investors should look past the hot words.
+Walmart is expanding its Symbotic deal with a $6 billion investment and building out a new $400 million fulfillment center near San Antonio.
 
-Inc.com • 16h ago
-
----
-
-**[Halloween robotics competition to take over Wayne High School](https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/)**
-
-WANE 15 • 2d ago
+WWD • 1h ago
 
 ---
 
-**[The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.](https://www.fool.com/investing/2026/11/01/the-first-us-humanoid-robot-stock-starts-trading-i/)**
+**[West Michigan robotics company opens $15.5M South Carolina facility](https://www.mlive.com/news/grand-rapids/2026/11/west-michigan-robotics-company-opens-155m-south-carolina-facility.html)**
 
-Like so many other stocks of new cutting-edge companies, the hype surrounding this one is already uncomfortably thick.
+MLive.com • 7h ago
 
-The Motley Fool • 1d ago
+---
+
+**[Tutor Intelligence: Why Not Just Teach The Robots Ourselves?](https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/)**
+
+Forbes • 5h ago
+
+---
+
+**[XAEL-AI Facilitates Cross-Border Robotics Industry Visit for Three U.S. Participants in China](https://natlawreview.com/press-releases/xael-ai-facilitates-cross-border-robotics-industry-visit-three-us)**
+
+Shenzhen, China--(Newsfile Corp. - November 2, 2026) - XAEL-AI organized a factory visit in China for three participants from the United States, providing firsthand exposure to robotics equipment and an opportunity to examine the practical considerations involved in commercial service robot applications.
+
+The National Law Review • 5h ago
 
 ---
 
@@ -200,47 +200,7 @@ Meet Blue — this little robot is showing off some seriously impressive technol
 
 📺 VisionX Lab
 
-👁️ 276K • 👍 8K • 💬 318 • ⏱️ 0:58 • 4d ago
-
----
-
-**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
-
-I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
-
-📺 SECTOR 07
-
-👁️ 30K • 👍 756 • 💬 76 • ⏱️ 18:03 • 1d ago
-
----
-
-**[New Human-Skinned AI Robots Shock the World (Way Too Creepy)](https://www.youtube.com/watch?v=kVVqaRJf_Sk)**
-
-Realbotix just unveiled its new humanlike AI robots, and they're getting disturbingly real. These humanoids have synthetic ...
-
-📺 MACHINEKIND
-
-👁️ 22K • 👍 437 • 💬 58 • ⏱️ 14:21 • 1d ago
-
----
-
-**[The law isn&#39;t ready for robots | DW News](https://www.youtube.com/watch?v=PBtpOeNrHZc)**
-
-A robot allegedly harassed a 16-year-old girl on a German street, but you can't put a machine on trial. So who's responsible: the ...
-
-📺 DW News
-
-👁️ 23K • 👍 909 • 💬 80 • ⏱️ 1:46 • 1d ago
-
----
-
-**[Battle on Mount Taishan: Humanoid robots stumble on steep steps as robot dog climbs with ease](https://www.youtube.com/watch?v=0ACbUUld90U)**
-
-The inaugural China Media Group (CMG) World Robot Mount Taishan Climbing Competition kicked off on November 2 in Tai'an, ...
-
-📺 CGTN
-
-👁️ 1K • 👍 37 • 💬 2 • ⏱️ 0:28 • 1h ago
+👁️ 290K • 👍 8K • 💬 326 • ⏱️ 0:58 • 5d ago
 
 ---
 
@@ -250,45 +210,87 @@ OpenAI is officially building its first humanoid robot, and Sam Altman has confi
 
 📺 MACHINEKIND
 
-👁️ 58K • 👍 687 • 💬 51 • ⏱️ 13:33 • 5d ago
+👁️ 60K • 👍 704 • 💬 54 • ⏱️ 13:33 • 5d ago
 
 ---
 
-**[Homework in 2026: Even Robots Are Doing the Graphs! 🤯🤖✍️](https://www.youtube.com/watch?v=9JfSIPnR6Qc)**
+**[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.youtube.com/watch?v=OzrF9T08D98)**
 
-What does homework look like in 2026? A robotic pen plotter uses a mechanical arm to draw precise graphs and experimental ...
+NewsNation's Nancy Loo reports on the growing number of robots used at grocery stores to check inventory and restock items, ...
 
-📺 Nexio Core
+📺 NewsNation
 
-👁️ 364K • 👍 3K • 💬 69 • ⏱️ 0:06 • 2d ago
-
----
-
-**[I Built an Oreo for BattleBots. It Cant Even Roll #BattleBots #Robotics #3DPrinting #EngineeringFail](https://www.youtube.com/watch?v=19chwWefbrg)**
-
-📺 It's on my MIND
-
-👁️ 26K • 👍 1K • 💬 81 • ⏱️ 0:57 • 1d ago
+👁️ 73K • 👍 532 • 💬 212 • ⏱️ 5:15 • 4d ago
 
 ---
 
-**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
+**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
 
-Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
+I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
 
-📺 History Seeker
+📺 SECTOR 07
 
-👁️ 82K • 👍 1K • 💬 53 • ⏱️ 0:09 • 2d ago
+👁️ 44K • 👍 977 • 💬 95 • ⏱️ 18:03 • 2d ago
 
 ---
 
-**[Robots are getting Terrifyingly Realistic.](https://www.youtube.com/watch?v=3Q9-rTCBMwE)**
+**[The law isn&#39;t ready for robots | DW News](https://www.youtube.com/watch?v=PBtpOeNrHZc)**
 
-scientists and engineers are pushing the boundaries of technology by developing humanoid robots with terrifyingly accurate ...
+A robot allegedly harassed a 16-year-old girl on a German street, but you can't put a machine on trial. So who's responsible: the ...
 
-📺 INTERCEPTOR
+📺 DW News
 
-👁️ 123K • 👍 1K • 💬 74 • ⏱️ 0:20 • 6d ago
+👁️ 25K • 👍 959 • 💬 83 • ⏱️ 1:46 • 1d ago
+
+---
+
+**[Realbotix has unveiled a new line of highly realistic robots designed for daily human connection.](https://www.youtube.com/watch?v=AAJ7bXpuT28)**
+
+The newly announced Echo humanoid robots come in both tabletop and full body models, featuring proprietary silicone skin for ...
+
+📺 Cybernews
+
+👁️ 144K • 👍 183 • 💬 80 • ⏱️ 0:21 • 6d ago
+
+---
+
+**[This Camera Stretches To Capturing Images &amp; Could Give Robots Human-Like Vision #robot #shorts](https://www.youtube.com/watch?v=THCiCRxTanU)**
+
+Scientists Develop Stretchable Electronics That Could Give Robots Human-Like Vision Scientists led by Chansul Park have ...
+
+📺 uncover reality
+
+👁️ 55K • 👍 502 • 💬 16 • ⏱️ 0:06 • 13h ago
+
+---
+
+**[Next Gen Atlas AI Robot (by Boston Dynamics) can do what humans do - World Premiere](https://www.youtube.com/watch?v=6a4Lli8fL9Q)**
+
+Discover the all new Boston Dynamics Atlas robot, featuring advanced AI, electric mobility, powerful robotic hands and industrial ...
+
+📺 REC Anything
+
+👁️ 49K • 👍 317 • 💬 30 • ⏱️ 11:01 • 6d ago
+
+---
+
+**[Humanoid Robot Puts Itself Away 🤯 AgiBot A3 Climbs Into Its Own Case](https://www.youtube.com/watch?v=M8w8ktnI2H8)**
+
+Time to go home The AgiBot A3 humanoid robot squats down, sits and lies back into its own travel case, right on the Chicago ...
+
+📺 KhanFlicks
+
+👁️ 52K • 👍 482 • 💬 93 • ⏱️ 0:22 • 4d ago
+
+---
+
+**[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
+
+Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
+
+📺 Jordan Blake
+
+👁️ 38K • 👍 953 • 💬 9 • ⏱️ 1:00 • 4d ago
 
 ---
 

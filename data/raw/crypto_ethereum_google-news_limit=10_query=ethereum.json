@@ -5,24 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaEdVamZNQWJjQVJNcUxLMVpZYWt1VlJGUTlRRUJ5YzRmZm9hcnM2RjB2RDBpdUNkVlNWTkxZbVR2ZVpGU0IzaUpzYXNYc3dwSUpmUlZ3cWRxa2NNOGFuSkxGeFdJM3JjOEt4ZDZpNlY1NFVuX0l6aEx3RVV1VG5kX2hEM3NZQ2xDWG9EUnlBXzc5dnZmZWN6aE9iUWwtR1NVNTlLOTh2ZlRUVGk3RWZXREMwVXNCam5MT1I2V1p0LS13VXF2SmNlcWoyNEZPRkp1QmMxYkQ4ZDJIcWZBTmlEdUtsalp4Mk92WVE?oc=5",
-      "pub_date": 1793495520.0,
-      "article_url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Current price of Ethereum for MM-DD-YYYY",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMEpPR0c0WTFjNVF4U2oyLVlTblV5akxQUjk3QmRYWTdlZ1BEQkZocXgyS2l4TWdNNEZMcExrVnQydDAzNFdEY2JGd1prZXYzeTFaQ2NZMHRMejN1bk9jY0tCMFpScHJm?oc=5",
-      "pub_date": 1793619900.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-02-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-2.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "Elon Musk\u2019s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVczMlZWdmM1YkZ6R1p3N3BwZFpGZmQ1VDI0X0ktSWVqbHFpX2ZWUU5jcDJBS1J3Qm1RZ21IclVraU1WZHg5bXpKbDc1Tk9IUG5rT2ZiNjlac2I2N1NkX0JCbnZWWW9hWjNRODQ4V09yNVJGZUhTLWhNY0pCdTQyZldQY19ibXMxS3dRUTM3Vy0wSUZrU3c?oc=5",
+      "pub_date": 1793610336.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/37f7e47e8ea8a4c604519804fe2eca0f45c498f0de58c1901165c83841d78ed5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F99bitcoins_us_315%2Fe2fa7186933ac8e4d8fa6faff199261a.jpg",
+      "description": "Elon Musk\u2019s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ..."
     },
     {
       "headline": "XRP or Ethereum: Which Is the Smarter Buy for the Next 5 Years?",
@@ -35,16 +25,6 @@
       "description": "XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a better chance of rebounding by 2031."
     },
     {
-      "headline": "Elon Musk\u2019s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVczMlZWdmM1YkZ6R1p3N3BwZFpGZmQ1VDI0X0ktSWVqbHFpX2ZWUU5jcDJBS1J3Qm1RZ21IclVraU1WZHg5bXpKbDc1Tk9IUG5rT2ZiNjlac2I2N1NkX0JCbnZWWW9hWjNRODQ4V09yNVJGZUhTLWhNY0pCdTQyZldQY19ibXMxS3dRUTM3Vy0wSUZrU3c?oc=5",
-      "pub_date": 1793610336.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/37f7e47e8ea8a4c604519804fe2eca0f45c498f0de58c1901165c83841d78ed5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F99bitcoins_us_315%2Fe2fa7186933ac8e4d8fa6faff199261a.jpg",
-      "description": "Elon Musk\u2019s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ..."
-    },
-    {
       "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP rebound as November begins after a losing October",
       "source": "FXStreet",
       "source_url": "https://www.fxstreet.com",
@@ -53,6 +33,36 @@
       "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-november-begins-after-a-losing-october-202611020358",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhzOFlLbHBwd0t6eWlFNGszeXZGZ2ZTak5CMmFjMFZpbFB1MW5STm1TQnhXU3pLb1BjQXRBMnNrZ0ZfWThmSWJnZnlGbWpZQzFXbUtGNm10VzBoTVlTdEREeGNJWFUya3EyendOZmlmMGhZRTA2Z2NHRVVIU3ZFdXd5OXFDQ0JQbzE1ZEk0UW9RaEt6eVE4TnJLYnY5XzlLbWhOUWVjRWtob2xIbXJSZmF3cHZwampFMWxMRi1zR1NobGM?oc=5",
+      "pub_date": 1793360116.0,
+      "article_url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Current price of Ethereum for November 2, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMEpPR0c0WTFjNVF4U2oyLVlTblV5akxQUjk3QmRYWTdlZ1BEQkZocXgyS2l4TWdNNEZMcExrVnQydDAzNFdEY2JGd1prZXYzeTFaQ2NZMHRMejN1bk9jY0tCMFpScHJm?oc=5",
+      "pub_date": 1793619900.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-02-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-2.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "Vitalik is making private Ethereum payments without a crypto website",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1EtV3hvbTVhdENiZmJGdk9QTlN1dUxXbko1WkQxYVZPdjZySUdaVzM3U2JJbDJ4NWJkTExNdzdRV1ZYYjhfN3o3U2RiTWl2LUhENFV2OHFuN0k1SzNOM2M2Ym8xS3pFbGViaGhRRVRtWGJxdUltZVh4U1p1czB5TjE0QWJ5clNqMGNKNmxtUll3MDExQjQ4Vw?oc=5",
+      "pub_date": 1793655613.0,
+      "article_url": "https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/vitalik-local-code-inspection.webp",
+      "description": "Vitalik Buterin uses kohaku-cli for private Ethereum payments. Its local code, dependencies and signing permissions define the remaining trust decisions."
     },
     {
       "headline": "Ethereum: Inverse Head and Shoulders Breakout vs Bitcoin",
@@ -65,46 +75,36 @@
       "description": "Trader Tardigrade reports Ethereum versus Bitcoin broke out of an inverse head and shoulders pattern on the 8-hour chart, flagging a major momentum shift..."
     },
     {
-      "headline": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdRSWx4SWt0elhXZzFzZ1BDR25rYXJucWNQeWRvNFY3YjFfVF9ONlV6dHpHN2l2RHctbEV6Yk9qV1pTVjd3VU52VGVJQXRVZmxnQnVpeEFld2ZLSEU0MzdiSEtfMXlyNHFhUmhvdm5wVUF6OUJzSEVieG9YbVh4ejNWNENDMndzVFp5dlUwWTVJMUVobUlyZktxcFp2Mjht?oc=5",
-      "pub_date": 1793320853.0,
-      "article_url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/10/yc-crypto-startup-request-standard.jpg",
-      "description": "Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents."
-    },
-    {
-      "headline": "Bitcoin spot ETFs see $203M net outflows, Ethereum ETFs lose $432M",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MNXZPTlVQVmJfZ1hOS2hodUNmU3ZiZWJGWk5tdjZpNk5STlBtUzRXdUpSSV96UlRFdG9COThTSzl2dUY3eTVaV1VvTmU0TXFpbWttdld0SzhTeTZvUW1pdUhrV0NtQVRHRm9LZUU4aEVvZHM?oc=5",
-      "pub_date": 1793591998.0,
-      "article_url": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-october/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/01225953/library-bitcoin-spot-etfs-see-203m-net-outflows-ethereum-etfs-lo-800x450.png",
-      "description": "Bitcoin spot ETFs saw $203M in weekly net outflows while Ethereum ETFs lost $432M, capping an October of steady Ether redemptions."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Despite Binance Hack; Analyst Warns History Points to \u2018Signi",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3RLREg5anl0S2Nmcmw5c3B0cEphQWQ2SDhCQWppczZjN3pVUldrc2FkVDN6SmM2dnllNjNWdmRPY0V2R20tT1B1OXFpUjhRdktBdldUQUQ4T0R1ZzU3ZHpLZXF2WnYzcV9CRnBhOGdiam9uSXZ1S21ycFBLU0lrRjM2TnBkT1pGYnJEVHpkNVdNN3Jka2dYcXZ6SDg5VnBOSS03bGxQazZfZDFScldBWA?oc=5",
-      "pub_date": 1793584214.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/62767403/bitcoin-ethereum-xrp-dogecoin-crypto-binance-hack",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "US Crypto ETFs Record $815.8 Million in Outflows on October 30 as Bitcoin Funds Lead Selloff",
+      "headline": "THORChain Halts Swaps Across 10 Networks After Ethereum Reorg Exposes Bug",
       "source": "FinanceFeeds",
       "source_url": "https://financefeeds.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGI0dWtOZkFOV2RyMFdkdmFGZFcxYVZkTlN3cWhTeVBXSUt1Y2hYN3ZMUU8tVnFhVXloUU4yUWxpbWFzZ1AtSDNkZF9fNEVmMTd6M1lZX0hVT2pvbDg4cjhfdlcxak9GRmszWWdjYkNjUUhZUk0xTnAyMk1BQmxsNDE3VUdqV0Jwd3Awc3puWnRkYWpfY0hCRGJ5S09zT3RETC1iUzFtNWNFSlRuTEROZWVDc3VEdkIz?oc=5",
-      "pub_date": 1793615834.0,
-      "article_url": "https://financefeeds.com/us-crypto-etfs-record-815-8-million-in-outflows-on-october-30-as-bitcoin-funds-lead-selloff/",
-      "image": "https://financefeeds.com/wp-content/uploads/2026/09/bitcoin-etfs-flip-from-426m-outflow-to-6m-weekly-inflow.avif",
-      "description": "US spot crypto ETFs lost $815.8M on October 30: Bitcoin funds $643.3M, led by IBIT and FBTC, Ethereum $155.7M, capping a $2.16B October of outflows."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0hhRlBJMjRyU09fUE12ZlpibzBZT1ZqaTdpenpxU2FBSVJVcmpycW01Q19GczU1aVFscmhheDN0WGkxanNOX0JUTG1oVHZFUXhieTdfSzNoQjhXQTdXVDZucWpYNF9waEI2S05nUnRoaTUxZzFGZTVRZGpHeV8xY0dlaDQzd1U4cVlNWHY5OVhjY2NvbjRwb01jczFtRXdR?oc=5",
+      "pub_date": 1793636737.0,
+      "article_url": "https://financefeeds.com/thorchain-halts-swaps-across-10-networks-after-ethereum-reorg-exposes-bug/",
+      "image": "https://financefeeds.com/wp-content/uploads/2026/06/THORChain-resumes-operations.png",
+      "description": "The incident began on October 31 at 11:34 UTC, when Ethereum replaced a recently produced block containing a 10 ETH deposit that THORChain had already"
+    },
+    {
+      "headline": "Mercado Bitcoin Keeps Withdrawals Suspended, Identifies Incident Wallets",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeE9VOFU1WFpwMDNFMTlpeXhUWWJKU0xjZjJsbUdHVV9lX09rZUI1QmF3REpsWWduU2x1LU5SY0dYN1BfSjhWVGhadVh5SXZKS1hDTk9XcmN0Z1RNMlBacDJ6ZHJyTGZlSlVoOXZMa3Y4Z0FCZ1ZCa1lvQmpyR1BDNTBDTlUtcGNiUVdqWkdTb2FNdkpCTjF4QlJuTi1wekc4NmtvSU1Odw?oc=5",
+      "pub_date": 1793634826.0,
+      "article_url": "https://thedefiant.io/news/hacks/mercado-bitcoin-keeps-withdrawals-suspended-identifies-incident-wallets",
+      "image": "https://cdn.sanity.io/images/6oftkxoa/production/354d8b3ae091bda349fc39a750a7fb09bee25c76-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
+      "description": "Mercado Bitcoin identifies incident-linked wallets while deposits and withdrawals remain suspended. The exchange says customers suffered no losses."
+    },
+    {
+      "headline": "Bitcoin Falls Below $77,000, Ethereum, XRP, Dogecoin Flat Ahead of Midterms",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPclBaaldQZzBmbXhqTWVzaXhKMVlQeFVlcm5FaEpaS1VtZWo1NmFBd0I4TFZOVHh0YmxZbGUtVTh0Y2kyQnBWbmJTb2t3MS1WQW9HYkVSd2lOVkZiQ2xfb0l4b05jV0JOeWlTa0U5Q2k4VDRxS1had2dYYmR0dzlrSWowUHBndFZ3dW9lZkZaVmhXWm5OMmluT0x1bU5Rd0NqUWRlTzNBdnJNTFptbnNMTUt0bmxQaWFILUF1YzI3aDQweVdiNEdXdU9SQ2Y?oc=5",
+      "pub_date": 1793652360.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/62795952/bitcoin-falls-below-77000-ethereum-xrp-dogecoin-flat-ahead-of-midterms",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-02T13:09:51.076391+00:00"
+  "fetched_at": "2026-11-02T22:25:32.380542+00:00"
 }

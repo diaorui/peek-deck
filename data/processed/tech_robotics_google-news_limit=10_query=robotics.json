@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDZZYUZMSEc3ZHpza09mMk1BM0FfVWY3TlhJOVNTSDNUcVJ0WVpRQ25tOWNmbU5ZdFU2WXZaaHU1YW56TXBFSTZwRklNYk9Edk5YRlVNaEhnVnlkT3JiZUFQY0VtVTd3YnQ1RzhYVzVHWnpaVEkwUlJoNHFFTEhsQkpyVnBObkEySVNSZGM2OG5OdWlvSUhzRC1uSXlFVUs1c3huN29Odm9YakdtVUppXw?oc=5",
-      "pub_date": 1793553462.0,
-      "article_url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
-      "image": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
-      "description": "A report said the company is already working on the second version that\u2019s codenamed Max 2."
-    },
-    {
       "headline": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
       "source": "The Information",
       "source_url": "https://www.theinformation.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
       "image": "https://tii.imgix.net/production/articles/18087/e0dccb6e-5d64-40c7-be5e-76da17926003.png?fm=jpg&auto=compress&w=1200&frame=0",
       "description": "Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people\u2019s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ..."
+    },
+    {
+      "headline": "Video. Humanoid robots climb China\u2019s Mount Tai in unusual challenge",
+      "source": "Euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFlUcTZfZTQ3ZDBTOW5qTTBCVTFXcnFkc0ljRXE3czROelhvNG8tWnFkSTdZLWc0czJzUWlEQjZIQnlTOXF3X2ZSLU9OckJtZGJCcTFhQU5jSHR0UWlJTjJGOWZ0U2lnRVZSUzhtNDNoUXMxdkRHYTdKcFVpSkJrNVczM2M5bnFOTzNmM1pEWkUxTXdzWmJ2X1pISXNIQVVteFhZ?oc=5",
+      "pub_date": 1793626412.0,
+      "article_url": "https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge",
+      "image": "https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg",
+      "description": "Video. China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path."
     },
     {
       "headline": "Meta builds humanoid prototype in three months to explore home tasks",
@@ -35,34 +35,24 @@
       "description": "Meta and Fourier develop a humanoid robot prototype as the tech giant explores AI-powered home robotics."
     },
     {
-      "headline": "China's robot makers have mastered the moves. Now comes the race for brains",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5",
-      "pub_date": 1793574480.0,
-      "article_url": "https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/",
-      "image": null,
-      "description": null
+      "headline": "Betting on AI and robotics, Dyson opens Glilot flagship store in Israel",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jdFdQWmt5Wm94am9lZEh4SkVsU0x2c1RrWlhvLVpiU2xtQmd2N3NkOWRDZ1luQWpGRlJmcXU1TFVkdVQ0QUViUEM4SXNXUWdoNXUwMkJSNEhiX2dMcmhPVUZ0RjhjVUJEcmFfMg?oc=5",
+      "pub_date": 1793522227.0,
+      "article_url": "https://www.jpost.com/business-and-innovation/article-913442",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744421",
+      "description": "Dyson robotics engineer Guy Turner says the company\u2019s next chapter will focus on machines that can sense, perceive, and solve problems independently"
     },
     {
-      "headline": "China\u2019s DeepSeek's new architecture can operate with less human supervision",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2hBcDMwSnF1RzlhRDhLUFBpcDktOXY2cnFLbFdrWFFvVDBSdUdHQlAtRU00czB2SUwxdUoycUFqWlVXSnVsVlVKY2lIMmxTYXd3OXdORjFhckh1VkMzWlN3WEVYQkJveDZ3NlNOTVVtcFh5NUVMUjFCbG5Hc2FOdmVrNldCNExFT2dpOGZSRlU0TFU?oc=5",
-      "pub_date": 1793558400.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/china-deepseek-architecture-multi-agent-ai",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/image-1920x1080-1-1.png?w=650",
-      "description": "Chinese AI company DeepSeek estimates that people can effectively supervise only three to five active AI agent sessions at a time."
-    },
-    {
-      "headline": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbExiSmZLZGxsbHBOemJ6bVNiWDdWaUd2dlcyVmJqOGZNaHFlSFZyNlB1SEVXMzZyZE5qOWk5VXp0bnhVNTg2YTNfN3hGMThzQnVfZWNvWG1LcFBiTkNXcWREMHVDTlNBaFZ6RFJDSTQ0NGhpQ21VSTdleG1IcUQwNkxtR1NtR1VScHJuaHp4c0s5S3RuRTFRdDFSbURPZ1NodndvLXF4b2VSZGd4Wk81cHR6V2JHLVdW?oc=5",
-      "pub_date": 1793542056.0,
-      "article_url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026.jpg",
-      "description": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem."
+      "headline": "China\u2019s robot makers have mastered the moves. Now comes the race for brains.",
+      "source": "The Japan Times",
+      "source_url": "https://www.japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhwajF6a0JNSm0xcU1WeGJGbUFlWEVRSzc5SzlBc1hKSFVmdUh1aXB2bWdDSm1wcGpoVWF5TGFhaC13V01xOXVZTkp5NkZZanVLUGxGc09mVzUxY1REWGR3ZGJIbXc1Rzg4VjBSZkl2QnpDRVFjSk1STHk4SWQyQlowS05HM28?oc=5",
+      "pub_date": 1793579340.0,
+      "article_url": "https://www.japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571742.JPG?v=3.1",
+      "description": "Embodied AI, which focuses on software that allows robots to understand surroundings and adapt, is opening a new front in U.S.-China tech rivalry."
     },
     {
       "headline": "Laden with eggs, robots race up sacred Chinese mountain",
@@ -75,36 +65,46 @@
       "description": null
     },
     {
-      "headline": "47 Companies Are Mentioning Humanoid Robots in SEC Filings. History Says That's a Red Flag",
-      "source": "Inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdmtvS1hHak9JcE15N1YtUmZpX2lmR29hSUN2NzNQdjVtN0RhTE9hZDl5U3JGMldXWFJ3YXFfWkdfSk1fTnh2aHA2TnExTzQ1emM1QjRhQlZtR1VWMnlFemd3aENvRDNNZlN4UmtZQ2VCYUFCb2lSWXM2dzIxVWltUHBSbl9QSVBURWROSDFTNUtzWUlEZmFxN3BuOUF5d1ktOHI4MFVEb0pGbnZSRVg1d1FONmV5TGtIa1pjQVdDajd5RnVXTXhOMQ?oc=5",
-      "pub_date": 1793566754.0,
-      "article_url": "https://www.inc.com/nick-hobson/47-companies-are-mentioning-humanoid-robots-in-sec-filings-history-says-thats-a-red-flag/91426960",
-      "image": "https://img-cdn.inc.com/image/upload/q_auto,c_fit,w_1024/vip/2026/10/humanoid-robots-sec-filings-inc-1298550764.gif",
-      "description": "SEC filings show a massive surge in companies mentioning \"humanoid robots.\" History\u2014and bubble psychology\u2014suggest investors should look past the hot words."
+      "headline": "Walmart Pumps $6B Into Robotics Partnership",
+      "source": "WWD",
+      "source_url": "https://wwd.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdjRaNHBieDVuXzV0cVgtQTJWZXVUTHpqSnZPQmkyLXNFa19xaGpEZlNqY0h0NFNQaWZtTkEzYm5ocGZFVWNHd3ctbHROd3BZYlAzdFJpemVMWjNvMEU3VW0wZVpOd3c4M2tvSWU2Z2Z6QlB0cHBCWXRqb2tULTY4YV8xUTZCOE12SGtPSXFuVURsUllVZGVQYlkxMkVYOG1udWFFNjZsLUlkcXFPWGgwb3pTdzAxazBYZUc5VkloQ1FFdzNiYW1FdzVJdHI?oc=5",
+      "pub_date": 1793654731.0,
+      "article_url": "https://wwd.com/sourcing-journal/logistics/walmart-6-billion-symbotic-robotics-automation-san-antonio-fulfillment-center-1239396645/",
+      "image": "https://wwd.com/wp-content/uploads/2026/11/walmartfulfillment.jpg?w=1000&h=563&crop=1",
+      "description": "Walmart is expanding its Symbotic deal with a $6 billion investment and building out a new $400 million fulfillment center near San Antonio."
     },
     {
-      "headline": "Halloween robotics competition to take over Wayne High School",
-      "source": "WANE 15",
-      "source_url": "https://www.wane.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOG13ckdsc0Q3NlQ0YVFJTU54LXFaUGVNUHcwN0FDc1g1STRVZGhGM0tuTGVzQmdsQTgzU0N2TXN5SHBHckpfMU5fQ1dJTUxZUUxaSGpPQU9oYVBZQ3RHM3FVMGFvMDNrdzJRQVlpeW1TYno1T3N2ZWVycXFIUVBsa1JpX0w0Rm13QkI5ZjcyRUFzQlRzMmtkUng4SWNZSFZD0gGmAUFVX3lxTE1iUVFiek5pZXp4OHpqbGFBVk5rZmdsWGZJRURvMy1lWUl5NjhpcHpyTm4zQzJLUElWVk14V1FtdlhHMVlMeHlwX0FfWWJOeXczcXpqVWhpYXoxb3VPR2NDZGhXanpndExCTGxpQUlVUi1RT2FLd1RCc3hzWURnOFBEVjJvS0JqUG1maDZwMkQybklGNDNOLVcxN2dxbEtrOVlQZU14Rnc?oc=5",
-      "pub_date": 1793394533.0,
-      "article_url": "https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/",
+      "headline": "West Michigan robotics company opens $15.5M South Carolina facility",
+      "source": "MLive.com",
+      "source_url": "https://www.mlive.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalZTbjRRX3NsQmlhZUpGZjVwaDFiRHJzN2Ezd2piX2c0Qml6NTJFZzhvVGQ4QVdYempOX293T1ppTW9RSG9OS0xtY3VBaXRvRVpTQ3p3d1RjNTk0ZllGSFJyZkJ2M29SWklFQWh1djJiUk9KRFh3NEIxQmRZM0hjQ2dpRlpBMERRZTFFd0xSVkxBZjVtOGFUWDZWWkNkZ05DaHB2YTNTUDNGallfTjltZ1ZibEpVaW41M2c?oc=5",
+      "pub_date": 1793631900.0,
+      "article_url": "https://www.mlive.com/news/grand-rapids/2026/11/west-michigan-robotics-company-opens-155m-south-carolina-facility.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFJNczdRODBJNE1uekFIR25iVlJzRWwteUJlZlFCQlQ0NGlmNERZUVRfTXQ5dFlsVlVIZ2hNeDBhY3M2RjlpaFlWcmtsTzlDUkxZal9HVEpuanJuRjcxbjR2UlV3X04wTEVaUUhTS1Zsal9BZGhHYW1nQWlLT3owQUkyc0tva3M4VzdxLUhIbURQdlBfR2hMOA?oc=5",
-      "pub_date": 1793531280.0,
-      "article_url": "https://www.fool.com/investing/2026/11/01/the-first-us-humanoid-robot-stock-starts-trading-i/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891790%2Fagility-robotics-digit-5.jpg&w=1200&op=resize",
-      "description": "Like so many other stocks of new cutting-edge companies, the hype surrounding this one is already uncomfortably thick."
+      "headline": "Tutor Intelligence: Why Not Just Teach The Robots Ourselves?",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalJjd2dacFdDdGdsdC1yWU1OQ0h3NF9hMndUTnJWZFltT0FYQkRQdmdSRVlzUmpKd2hraGEzRkljZkZwNVpWd0poRFJBalk0VUNmQnVvNVY3eXdBSjN3elYxWlNTWHJzbHJ4dmI0ZlRiSmlLbmxZNS1ZQXRqOXlodjBvNWdaalpQekw4RTZmVHdQZXlHRlRnUmc2eC1QTkYzVlhHVUpDTHItanR6YUJn?oc=5",
+      "pub_date": 1793639364.0,
+      "article_url": "https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "XAEL-AI Facilitates Cross-Border Robotics Industry Visit for Three U.S. Participants in China",
+      "source": "The National Law Review",
+      "source_url": "https://natlawreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1ZIYkJKaWd4TEZBdWU2YTE5WV9PaWlhZEdSZ3VXdlBtMGJ1OEE3RDEzdVgzY3VCYm1XM2VmR3lXbkdhcnM1Q2xxQ0IzbGxqdDRITWZIVlJoeFBudkJnVmx0XzZ6VTRwNUhmQXR3aHhlSHk1eGk0RTMtZi1BMHE5MFE1dWFLSGhlY3B6THdfRkcxai1KekxFNHBGbXdQX0NHU21Qd0VQcDI?oc=5",
+      "pub_date": 1793639179.0,
+      "article_url": "https://natlawreview.com/press-releases/xael-ai-facilitates-cross-border-robotics-industry-visit-three-us",
+      "image": null,
+      "description": "Shenzhen, China--(Newsfile Corp. - November 2, 2026) - XAEL-AI organized a factory visit in China for three participants from the United States, providing firsthand exposure to robotics equipment and an opportunity to examine the practical considerations involved in commercial service robot applications."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-02T13:09:48.423827+00:00"
+  "fetched_at": "2026-11-02T22:25:43.036175+00:00"
 }

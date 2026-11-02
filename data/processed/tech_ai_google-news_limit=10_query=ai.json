@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "When You Should\u2014and Shouldn\u2019t\u2014Use AI to Search the Web",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTFdNVnBqTFotcWU4a1ZjM2tKWXlXNjc3VXdUQVhhd0JDc2d4cHUwUjZubnBaQW82a2xVakJwMTFnMFR2RnplSDJEa1VVUEFQWi1SSkEyeU12dUNMMDIxcm9oTzNuZllqbGZHZUdLcHFMOEdfVXZpelpRU3c5YzF2emd3SHg0Yy14OWc?oc=5",
-      "pub_date": 1793620800.0,
-      "article_url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "image": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/191:100/w_1280,c_limit/102926-AI%20Web_.jpg",
-      "description": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you\u2019ll get better results by typing your query into a good old search engine."
+      "headline": "US Tech Stocks Enter Correction on AI and Midterm Election Risks",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0c0ajcwSC1TMmdqcklFOVR5M1lxNzFzRHZ0MTBILTlITXBKYXpFbTBaN2dFdnVNbmR4U2Jsa2kyYngzVnp5Tkd3OG9mNmpXd0EwY0ttem9zeGhGRmg3S0ZFNnIyNXNHdE1DSGJNU3E1UkNoR0N1bDFNbjIyUDcyaHJKaDhEQVUtbjlrWXBRZi1WS3IxVnhnMVN2S1NacTczejdUaWVjM1o3Y1A5bnQ5QXdlNA?oc=5",
+      "pub_date": 1793654133.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "You can't escape AI, but you can learn to live with it. Wharton Professor Ethan Mollick explains how.",
+      "headline": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5",
+      "pub_date": 1793637081.0,
+      "article_url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHl6bTlzTEs0Zkt0UkQ5NGhDUXozSEtSbHFhek0xRDlPZUZ5X2JwUmpMcDl2dk5BQVF3QVhOTDhTTTZaU0FRcGJOSWNja1VrOEFzdHZzb2c5WlFodU9sRHJhWmhudDlYRXM3YmkwcG5tbU16b3RVMW1IM1k5cko1dG9YTElTSUZ3MmEwX1lqb21VVXhXX3BOTXNpcEl2S2xvajY5REtQT3YtYnp3VDJuTTloTlg?oc=5",
+      "pub_date": 1793642586.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Claude's new AI report card tool gives companies a closer look at costs \u2014 and flags 'inefficiencies'",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1cxSFIwZVhEXzdBMnR0dWdGdEtIVThlYWZiWGNjNGg0Q3NBci1heVlxdmhpcXQ4S1puNHB6bml4VkRUNWtVdkR0UlJ6azV0bWNFR1FrMzlUZ0JJdzBQN0RqTURxUEtzMk9TeFhMcEFXQTltX1ZjMnRBNG5WR3FkNURkRDc3TkMyTFhLbjZWMzVFZlBjcXlhSV9QX3M?oc=5",
-      "pub_date": 1793617200.0,
-      "article_url": "https://www.businessinsider.com/ai-jobs-future-ethan-mollick-skill-interview-peter-kafka-2026-11",
-      "image": "https://i.insider.com/6ae390049bdea7d1607d2d4d?width=1200&format=jpeg",
-      "description": "AI is way more capable than you think, says Wharton management prof Ethan Mollick. That means you \u2014 and your kids \u2014 need to figure out how to adapt."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTRyUlNkWThIYkZRbUJnS0NJZENjQzh5eEthQmlOT0QyaTJYakdSNVFaSndvVkp4elcwUWZzVVpVZklCQWVoZUZrWmNjU2Iza2pxVV9FeEtXOGlrNnRQMkNneEtsZGNUSk9mV3d2QTlaRGRfcXo0dVg2QUEtd25MUHlwOG0taWRxdURzM2JFaDhtdmcybU5WY3ZWR3BkNjRZ?oc=5",
+      "pub_date": 1793654100.0,
+      "article_url": "https://www.businessinsider.com/anthropic-claude-smart-reports-ai-usage-costs-inefficiences-2026-11",
+      "image": "https://i.insider.com/6ae8f0d1d8cc18cf79510436?width=1200&format=jpeg",
+      "description": "The \"smart reports\" tool for Claude Enterprise users is designed to analyze a sample of a team's transcripts and group work into categories."
     },
     {
-      "headline": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet",
+      "headline": "Palantir Q3 earnings: Did the AI company just have a 'celestial' quarter?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcEN0ODlUZU5Yb2dGT21QLThlZTJUMmNvYXo1ZThEVWk4M1J6czlqQ1dMcXA1NXBaZGZrWjNvYzBteUpqV0c1MVZPWU1EODNfSmVJZTY3QmJyNXh1VTJvRktFNHJ4NnptaW9ZcE1sY1d0ZlRnUDJPb2ZlNVdfckpGODJxbHR0bXBJbHVWa016YnVWY0Job1pyeFlFdFVldDRvdjQ1NXdjNlhPR3J5Z3VXUW4taEc0MDg?oc=5",
+      "pub_date": 1793655576.0,
+      "article_url": "https://finance.yahoo.com/video/palantir-q3-earnings-did-the-ai-company-just-have-a-celestial-quarter-213936890.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/273a0f67eaea76aff2b25884bb9f6ab011986a3e67b4e6f1504243d9b5d7c248/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F95422634-0a68-4c35-aad9-b2fa8f8c60a2_4bf36b8fe6f1e95f3fa36d7e878a1a1b245ad4cdbe4d64917287145a2edc8147.jpg",
+      "description": "Palantir Technologies (PLTR) stock is getting a lift in Monday's extended-hours trading after topping third quarter earnings and revenue estimates.\n\nD.A. Davidson head of technology research Gil Luria comes on Market Domination Overtime to react to Palantir's latest results and discuss whether he agrees with CEO Alex Karp's sentiment that it was a \"celestial\" quarter."
+    },
+    {
+      "headline": "Alphabet in talks to acquire assistant startup Howie AI",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3Y0Z2hMejRvRHFGeFpBTEgzN3ZoQktOQ2R1WkE3V0pKTThFZnF5YUdkdVZldF9nMDlNZmFrRlBmM1RGRjRrRDl2c0NWUzFIRE1YOGtnVmhLVUFWVU5KYmx0Ym9SNXNEakRtRm52MThhMUJqcnltWmpfYW1tQkpFdHRNai1NaUVadXQzSw?oc=5",
+      "pub_date": 1793656270.0,
+      "article_url": "https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Pittsburgh nurses win AI guiderails as use of the technology soars",
+      "source": "Pittsburgh Post-Gazette",
+      "source_url": "https://www.post-gazette.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWdjTHExMDRrQ1NiNmRxMmRaM2djbldyRnFpMjQ4NTZ3VFVMSGVLbk0wY25hMlFBNWU5clNMNXhCNHFkLV9faXBwWGd5akRaRVVDVU5wSmtxalpHdU9Pdjk4dUdTSG53eXpSYmZXQ0prX204eEZFSVZrLS12VUcxUkI2SUpkWU9QN1lwTVE5UEdORklHQmcxdDM2Nm00SWVNaFpfM21aUmN4M1ZLMFhZNV9ES0FTeVdxRGlhNDlEbUhmeGRfVUlxSWdad1lkTTE4ZldfZllEYlpZcS1qcnIteVJYY3QzUUE?oc=5",
+      "pub_date": 1793657713.0,
+      "article_url": "https://www.post-gazette.com/business/healthcare-business/2026/11/02/allegheny-general-hospital-nurses-ai-protections-contract-seiu/stories/202610310041",
+      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202610310041/1140x_a10-7_cTC/AGHnurserally100926-9_1793448145.jpg",
+      "description": "Healthcare workers have a growing concern about the use of artificial intelligence in medical decisions as evidenced by recent labor contracts as use of..."
+    },
+    {
+      "headline": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5",
-      "pub_date": 1793622333.0,
+      "pub_date": 1793650911.0,
       "article_url": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5",
-      "pub_date": 1793623622.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/article/marvell-to-purchase-lumentum-in-115-billion-deal-as-ai-124702761.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6861ef63426cc619505dbdf456a5a94e4e7efc5b2abaa7436eb25a88c1210007/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F719c8a06-2eed-42f5-9e1a-5af9c4996a39",
-      "description": "Marvell stock declined after the chip designer said it will purchase optical parts maker Lumentum in a $115 billion deal."
-    },
-    {
-      "headline": "Marvell Reaches $115 Billion Deal for Lumentum Holdings",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2FXN0VKVjBIUDlmNF8xMXBEcE9BQkRrQk5GR2k1dmNLMjlBMVlCSmRLc19PNXVCTUNZVUZRY3pQNzEtZGJuQlNwcnMxQWdqME8xa1FtOVkyendLS0RFSTV3cjNwQXJaYmVxTy1fREcyNk81S29pYWRGOTdLN3ljXzVVX1pIaDlTMXRGTHB1ck1qNEZnSUlsUkJIMWFJSmpHT1U5UjkyMEs?oc=5",
-      "pub_date": 1793621711.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "New Jersey's Workplace AI Bill Tests The Limits Of Human Oversight",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2pDbDN0TkdENjVNRVk4dkZYcDV2QVJJaWhaNXM0Qmdsd0Jqak9mMkR4X1dBVmp6blNHR0lUTGg5TkxTbEFOZDUwXzNYbHVCRkhZUlZGRkFSSWtsSW9scVpiNEE0RjZoM3pVRWdXZ2ZjNlEwcl9EQ1ZTV1o5eV9nWnpjQ1lCekhqMTlua3ZYb3NCLVVPSmVRMnFTZ19OdldURHV0Rnk1RTVKbk1oa1A1Y1Y4cnY4amt6aTZ0eC1n?oc=5",
-      "pub_date": 1793624400.0,
-      "article_url": "https://www.forbes.com/sites/alonzomartinez/2026/11/02/new-jerseys-workplace-ai-bill-tests-the-limits-of-human-oversight/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "VC Firms Are Trying to Figure Out AI, Too",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVRaSDNVbllrTXY1dXlSWHRveHlTMXAtY04xRm1iRFItTkIwM1N3VXBwcEtDNl81SHBab3U2YWozeVdpXzhDallTQUNKTEpJaE9XM04zaFlkME5nbk9LdzRFSWxwUW01N3JiaS1KdFA2Q0UwaUVoSlR5V09EUzBnT3lUYi1RM1daWU9BTktIQ1pQd1k?oc=5",
-      "pub_date": 1793623920.0,
-      "article_url": "https://www.wsj.com/pro/venture-capital/vc-firms-are-trying-to-figure-out-ai-too-429e6549",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+      "headline": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTJxMVlLZVJ1YmQwOGw0Y2R0b3JqQS04aWZzVl9xU0J4cS1SRXBoZmlSSDhqNWtCODRlMEdtdWNEZ0U3Q3BYbVhJQjZ3UE5ZV05UMUpuQXJDMms4MHBZWS1nbkRqRnZXbXlySXVPVGpTZHB5X2RSWU1ib1JHM1BBOUxwb1BvYWRXMVJiSDhPSjBEcjTSAZgBQVVfeXFMTjlfeHpPbmxGR2lCLXhKS2lvQWotNV9HYmhKTEhvVUJMemRQbnBpOUg3Zkd6Vzc1M1g4X2pDWFU1WGZnaEdTTElnZDJlOEFrMDNMbnBuRjR1eFFYcnZodzFsSXNZVjNVVm41aE82UVlsRTVlZ2tYMllib1hQRjBZT0drLUpIdV9OY1lWV0pUNUNGZG95cS0xZFc?oc=5",
-      "pub_date": 1793617201.0,
-      "article_url": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/106949322-1632916362498-gettyimages-1235565564-848033_NA-POL-0928-CAPITOL-HILL_KKN_29317JPG.jpg?v=1793390260&w=1920&h=1080",
-      "description": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy."
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56UDJLTlRLck1UTTdLZE5Mb1M3OWFjekVJTDRUUmxxanRNR1N5UzRlcjZxMDM0Rnh3S2hKTGF1STVmN2s4SFNnODNYd0tGa2NRTmlSYnUtSTRDNmJtcDBUV2ZNV2txci1WUDVTTmxn0gFzQVVfeXFMT28xaUpnSkY1R2JoeTk3bWRVSlZ6bUNKdXNQWTRVMDBIMjJ0bTZiVFpxMW9UQmFoVEpSb0pIMWdjTHhoRkxDVzk5ei1ZbzBDUjRnMnJLNE8xOWVqSmxoVjJURmRpTXJqX24zZmQwNzFIWFg4VQ?oc=5",
+      "pub_date": 1793628642.0,
+      "article_url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108504031-1793627572686-Untitled-1.jpg?v=1793627728&w=1920&h=1080",
+      "description": "The AI infrastructure deal is expected to close during the first half of 2028."
     },
     {
-      "headline": "Opinion | U.S.-China Relations Will Never Be the Same in the Age of A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeDBCYnIyYzFCMnhOQThxTHJXTUVkQ0VRb0txRnJIVmM2VjMwRkdMUTM4d25BRy1ndmhtZGNMMlNZWUNiaGFneEZFQkpCelRUUm5jaUxwMUlEV3NEUVFHUll6T1ZNX0FmN28xTnZyS2k3U1FXZXB3UUpKOUVLcmI3TGZsbk1GN2p3dnRNdlZvaW5nNTg?oc=5",
-      "pub_date": 1793599206.0,
-      "article_url": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "We Can\u2019t Afford an AI Recession",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLV9yb0VVTGVkTmpnbWowdEtZWTZIZUtmQm5FTHRTOV9lOXQzbFpFT3VGY09kd0tsWHMzbmtwQnVPWTN2RGhwQ2w0eldEdjh2X0diV2E1RnlRZXlqUUdtdlY4LXF2SFZBNWJPaFJVanZ2YzhhZUtkbHJZcGMxM3JON3NRTEVPLU9tU0doWk4zdw?oc=5",
-      "pub_date": 1793622600.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/11/ai-data-center-spending-economy/689237/",
+      "headline": "Marvell\u2019s $115 Billion Lumentum Deal Could Reshape AI Networking",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3AyeGFmQ3UzeENRWTNqTFMyV0NIMGpBUW1hNUhZNU5RUXJ2eFJ2RUdlVWZpNmtPWGJ6UXBnZjRNNDNvdFJsYWNNZ0poV2d2WFBrWFNxWVBrRFptSGFWVGVGQVdDd2FOUGUwTmxmRDloeWNDekVTLUNXOUd4Yk1tZ2NTX2FGV2NOeS05VlVKdWFoUU9zUnhkbGhDOFZnYk5RYm9SRFFLWmI0MkZ4QlBYaWFXeVd6dHY0?oc=5",
+      "pub_date": 1793657528.0,
+      "article_url": "https://www.forbes.com/sites/stevemcdowell/2026/11/02/marvells-115-billion-lumentum-deal-could-reshape-ai-networking/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-02T13:10:03.931352+00:00"
+  "fetched_at": "2026-11-02T22:25:45.130479+00:00"
 }
