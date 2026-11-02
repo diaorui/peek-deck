@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "Steal My Bitcoin CTF PoC",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "hn_url": "https://news.ycombinator.com/item?id=50237379",
-      "author": "davikr",
-      "points": 182,
-      "num_comments": 65,
-      "created_at": "2026-10-26T00:15:17Z",
-      "object_id": "50237379",
-      "image": "https://opengraph.githubassets.com/1c34d833fdca9a4559becb96a60ea376d7aefd537dc32e41af8bff3cbafe5ff9/KillaBoi/StealMyBitcoin-PoC",
-      "description": "A public release of the Steal My Bitcoin challenge - KillaBoi/StealMyBitcoin-PoC",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Observations from Running Steal My Bitcoin",
       "url": "https://pavursec.com/blog/stealmybitcoin/",
       "hn_url": "https://news.ycombinator.com/item?id=50321116",
@@ -143,9 +129,23 @@
       "description": "Explore messages, images, videos, PDF and audio written into Bitcoin. Search by date, source and format, or prepare your own Ordinals inscription.",
       "favicon": "https://writteninbitcoin.com/apple-icon.png?apple-icon.36vbven18o3wj.png?dpl=w91",
       "site_name": "Written in Bitcoin"
+    },
+    {
+      "title": "Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can",
+      "url": "https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285",
+      "hn_url": "https://news.ycombinator.com/item?id=50245177",
+      "author": "rbanffy",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-10-26T15:13:50Z",
+      "object_id": "50245177",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "gizmodo.com"
     }
   ],
-  "total_hits": 12,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-01T23:46:23.329510+00:00"
+  "fetched_at": "2026-11-02T04:47:00.729489+00:00"
 }
