@@ -5,6 +5,20 @@
   "days": 7,
   "posts": [
     {
+      "title": "Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies",
+      "url": "https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545",
+      "hn_url": "https://news.ycombinator.com/item?id=50342908",
+      "author": "novaRom",
+      "points": 14,
+      "num_comments": 2,
+      "created_at": "2026-11-02T20:06:43Z",
+      "object_id": "50342908",
+      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f915e254cd47423edb17f5452558219ed0c78700-92313700.jpg?ver=b061450f&fit=1200,900",
+      "description": "Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.",
+      "favicon": "https://www.swissinfo.ch/eng/wp-content/client-mu-plugins/swissinfo-wp-customizations/resources/png/swi-site-icon-180.png?ver=1792148606",
+      "site_name": "SWI swissinfo.ch"
+    },
+    {
       "title": "Observations from Running Steal My Bitcoin",
       "url": "https://pavursec.com/blog/stealmybitcoin/",
       "hn_url": "https://news.ycombinator.com/item?id=50321116",
@@ -75,6 +89,20 @@
       "site_name": "Decrypt"
     },
     {
+      "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
+      "url": "https://cointelegraph.com/news/mercado-bitcoin-hack",
+      "hn_url": "https://news.ycombinator.com/item?id=50342589",
+      "author": "guiambros",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-11-02T19:45:25Z",
+      "object_id": "50342589",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EWA1DBSVSDFZVCPZQ3HZ8W/mercado-bitcoin-hack.png",
+      "description": "Wallets linked to Mercado Bitcoin\u2019s security breach remained active after transactions were paused. The exchange said customers suffered no losses.",
+      "favicon": "https://cointelegraph.com/apple-touch-icon.png",
+      "site_name": "Cointelegraph"
+    },
+    {
       "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
       "url": "https://github.com/ZKStamp/AgentWallet",
       "hn_url": "https://news.ycombinator.com/item?id=50301018",
@@ -115,37 +143,9 @@
       "description": "Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours, updated every 5 minutes, with a public track record of how often it was right.",
       "favicon": "https://btcforecaster.com/apple-touch-icon.png",
       "site_name": "BtcForecaster"
-    },
-    {
-      "title": "Show HN: Everything ever written into Bitcoin, decoded from the transactions",
-      "url": "https://writteninbitcoin.com/en",
-      "hn_url": "https://news.ycombinator.com/item?id=50272842",
-      "author": "DeclassFile",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-10-28T12:58:41Z",
-      "object_id": "50272842",
-      "image": "https://writteninbitcoin.com/og/page/en/home.png",
-      "description": "Explore messages, images, videos, PDF and audio written into Bitcoin. Search by date, source and format, or prepare your own Ordinals inscription.",
-      "favicon": "https://writteninbitcoin.com/apple-icon.png?apple-icon.36vbven18o3wj.png?dpl=w91",
-      "site_name": "Written in Bitcoin"
-    },
-    {
-      "title": "Heatbit Says Your Water Heater Should Be Mining Bitcoin, and Now It Can",
-      "url": "https://gizmodo.com/heatbit-says-your-water-heater-should-be-mining-bitcoin-and-now-it-can-2000830285",
-      "hn_url": "https://news.ycombinator.com/item?id=50245177",
-      "author": "rbanffy",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-10-26T15:13:50Z",
-      "object_id": "50245177",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "gizmodo.com"
     }
   ],
   "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-11-02T13:09:22.606225+00:00"
+  "fetched_at": "2026-11-02T22:25:10.498334+00:00"
 }

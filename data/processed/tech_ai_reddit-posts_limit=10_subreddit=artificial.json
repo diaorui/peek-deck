@@ -2,6 +2,39 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Almost half of all new Steam games use AI now",
+      "author": "ImCalcium",
+      "url": "https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/",
+      "published": 1793634653.0,
+      "thumbnail": "https://external-preview.redd.it/OAQzbnwQk8w9-EyDfnX9xR2fIn2oPfFLCzhg0jKMGns.jpeg?width=640&crop=smart&auto=webp&s=b567a739bcd539a783ceb8bad47f1bb6055e1ac4",
+      "external_url": "https://www.dexerto.com/gaming/almost-half-of-all-new-steam-games-use-ai-now-3423933/",
+      "site_name": "Dexerto",
+      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
+      "description": "Almost half of all games released on Steam in October 2026 disclosed the use of AI-generated content, according to a new analysis of more than 63,000 games released on the platform since January 2024."
+    },
+    {
+      "title": "OpenAI lowers funding goals as investors cool on AI",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
+      "published": 1793648847.0,
+      "thumbnail": "https://external-preview.redd.it/bVlgn_IVm9_tBYTDkDMblTh5I_O-jgY4etsXVdOcvA4.jpeg?width=640&crop=smart&auto=webp&s=29a1cc2fa6d32171fa1226bd5072018a9f96184e",
+      "external_url": "https://www.linkedin.com/news/story/openai-lowers-funding-goals-as-investors-cool-on-ai-7741572/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "Investor caution and stronger growth at rival Anthropic are forcing the ChatGPT maker to lower its fundraising ambitions ahead of a planned listing."
+    },
+    {
+      "title": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning",
+      "author": "cnn",
+      "url": "https://www.reddit.com/r/artificial/comments/1xm3vf1/openai_says_its_ai_is_getting_better_at_doing/",
+      "published": 1793641276.0,
+      "thumbnail": "https://external-preview.redd.it/3QPTEHGIpR7pM7U1Ve5AihQcVlVRvvKuE1YAIGzKIwc.jpeg?width=640&crop=smart&auto=webp&s=def72f187f02566cef24dc6a5a3c9fb94d100496",
+      "external_url": "https://www.cnn.com/2026/11/02/tech/openai-chatgpt-personal-assistant-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit",
+      "site_name": "CNN",
+      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
+      "description": "OpenAI on Monday announced a new internal tool for assessing how AI handles tasks like these, along with research on how its own models performed."
+    },
+    {
       "title": "How to stop Meta, OpenAI, and Apple from training AI on your data in the UK",
       "author": "HotMinuteUK",
       "url": "https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/",
@@ -24,93 +57,60 @@
       "description": "Grok Bot weekly usage meters jumped to 100% overnight on November 1. Cursor says that shouldn\u2019t happen. Musk says Grok Bot cost too much to serve."
     },
     {
-      "title": "OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card",
-      "author": "Alone-Dragonfruit602",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/",
-      "published": 1793569485.0,
-      "thumbnail": "https://external-preview.redd.it/DZ51iJNjU4-9Tp8E_R3kWqN9W0oRB7A7oqFC16tURFI.png?width=640&crop=smart&auto=webp&s=abfced9192c11565416eab39dd177afcc5309650",
-      "external_url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
-      "site_name": "The Decoder",
-      "favicon": "https://the-decoder.com/resources/favicons/apple-touch-icon-60x60.png?v=3",
-      "description": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits."
+      "title": "Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlz1su/dell_xps_googlebook_review_beautiful_hardware_for/",
+      "published": 1793630642.0,
+      "thumbnail": "https://external-preview.redd.it/AVBkhdeGAC-8SkmxTtIVFHTXLIxUxAJRV_la44pP2ck.jpeg?width=640&crop=smart&auto=webp&s=24d5bb06f581796e292568f9bc85616457596ae3",
+      "external_url": "https://www.engadget.com/2302835/dell-xps-googlebook-review/",
+      "site_name": "Engadget",
+      "favicon": "https://www.engadget.com/img/engadget-favicon.png",
+      "description": "Googlebook OS still needs a ton of work."
     },
     {
-      "title": "Trump\u2019s achilles heel is turning his own voters against him",
-      "author": "theipaper",
-      "url": "https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/",
-      "published": 1793544498.0,
-      "thumbnail": "https://external-preview.redd.it/FV0XukQm_BDBPPadIZR5NXC2EoauIi_vk137LCiE1fI.jpeg?width=640&crop=smart&auto=webp&s=ec5ef6cd2b24a7f60d5a779478588d0dffcffb19",
-      "external_url": "https://inews.co.uk/news/world/destroying-homes-trump-voters-turn-against-data-centres-4862641",
-      "site_name": "The i Paper",
-      "favicon": "https://inews.co.uk/wp-content/themes/inews-theme/assets/images/favicon/192x192.png",
-      "description": "Lifelong Republicans are campaigning against the spread of data centres"
+      "title": "Gulf investors bet on AI, space tech",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlzxdx/gulf_investors_bet_on_ai_space_tech/",
+      "published": 1793632644.0,
+      "thumbnail": "https://external-preview.redd.it/fsguPmMUbdGrhKSkbzESKLzxKgEFBMZQycDE0xa7wek.jpeg?width=640&crop=smart&auto=webp&s=f155019751b8786e8d4a912d518d584ed41f26c9",
+      "external_url": "https://www.linkedin.com/news/story/gulf-investors-bet-on-ai-space-tech-8874609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "AI infrastructure and space startups are emerging as bright spots for Gulf investors, who are otherwise wary of India\u2019s broader markets, The Economic Times reports."
     },
     {
-      "title": "Michigan will pilot a prison classification system targeting 30% better violence-risk predictions starting December 1",
-      "author": "andrewaltair",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlqr10/michigan_will_pilot_a_prison_classification/",
-      "published": 1793604033.0,
-      "thumbnail": null,
+      "title": "OpenAI's plan to make data centers less hated: Rename them \"compute campuses\"",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xm43yd/openais_plan_to_make_data_centers_less_hated/",
+      "published": 1793641797.0,
+      "thumbnail": "https://external-preview.redd.it/a_zdj1zyrg_Zhh4LnchBbpuSPWFJ7e9T3cQiy8G-wfE.jpeg?width=640&crop=smart&auto=webp&s=1ba294366c5e78e2bf849dfe09a042e004d33a4d",
+      "external_url": "https://www.techspot.com/news/114411-openai-plan-make-data-centers-less-hated-rename.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "An OpenAI spokesperson told Business Insider about the rebrand. \"Compute campuses better describes the scale and role of the infrastructure we're building for AI,\" the spokesperson said...."
+    },
+    {
+      "title": "failure log #2: the patch was real, the bug was different, the PoC still fired",
+      "author": "AIGODSEND",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmbiex/failure_log_2_the_patch_was_real_the_bug_was/",
+      "published": 1793658215.0,
+      "thumbnail": "https://external-preview.redd.it/ZXV6amVnaHJ5OXpoMSw8vqP-HK7Ubvf3xWnarrhWbNaWQFaZOs5yqtfbKkgT.png?width=640&crop=smart&auto=webp&s=7ebd2dc4cd9fa55fc735f8bd80f13467ae7d42b7",
       "external_url": null,
       "site_name": null,
-      "favicon": null,
-      "description": "Michigan says it will pilot a new prison classification system on December 1, 2026. The state forecasts about 30% better prediction of future violence risk. The system will support security-level placement and ongoing reviews using real-time data. The pilot starts at selected men's facilities before any wider rollout. MDOC says across U.S. prisons assaults on staff rose 77% and assaults between incarcerated people rose 54% from 2019 to 2024. It supervises about 32,000 people across four security levels. MDOC says Recidiviz helped develop the tool. The release does not publish the model or explain how the estimate was calculated. The 30% remains a forecast. Source: https://www.michigan.gov/corrections/about/newsroom/press-releases/2026/10/28/new-prisoner-classification-system-announced-by-michigan-department-of-corrections"
-    },
-    {
-      "title": "DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/",
-      "published": 1793561931.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype. The idea is not a new foundation model. It is orchestration around existing model-powered tools, built for one GitHub repository. A persistent Router session handles incoming conversations and dispatch decisions, but does not do the work itself. Each accepted work item gets its own Worker session and directory, so tasks run in parallel without sharing context. The prototype listens to GitHub events, and optionally to Feishu messages, and returns results in the original conversation, often as a pull request. A local web panel lists only the decisions that need a human. The stated philosophy is blunt: take as little human attention as possible, and give as much value as possible. The agent is supposed to confirm once, stay quiet while working, and speak again only with a result, a question, or a failure. It should act only when an allowed person asks, or when a team-written rule permits the work. For work it merely infers, the documented default is observe-only: record what it would do, do not execute it. DeepSeek's argument is that human attention, not model capability, is now the bottleneck. The team says a person can actively follow only 3 to 5 agent sessions at once. In its own simulated test, with about 300 messages and about 20 real work requests per run, the super-agent approach finished the slowest 5 percent of tasks in 15.7 minutes, versus 29.5 minutes for a single-session baseline. Treat those numbers as self-reported, not as an independent benchmark. The test used synthetic messages and simulated tools, real coding quality was not measured, and there is no verified comparison with Claude Code or Codex yet. DeepSeek is also unusually clear about the prototype limits: it is research code, not an official product and not production-ready, it may contain bugs, it differs from the internal system, and some essay ideas are future directions, not implemented features. The internal instance is reportedly already used for bug reproduction, code review, and Harness work, but that is the team's claim. Discussion: is a Router plus Workers the right split, or just parallel sessions with a nicer name? And where would you draw the line on proactive work? Would you let an agent open pull requests in your repository, and what permissions and team-written rules would you require before it touches anything? Sources: DeepSeek dsh-superagent-prototype on GitHub; reporting on October 31 by MarkTechPost (https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/) and Venture Atlas (https://www.ventureatlas.org/news/2026-10-31-deepseek-superagent)."
-    },
-    {
-      "title": "Brandon sex offender had 'sexual conversations' with AI-generated children: HCSO",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlo5om/brandon_sex_offender_had_sexual_conversations/",
-      "published": 1793594865.0,
-      "thumbnail": "https://external-preview.redd.it/z4EnTag1A-LvluJ1xm6L3OS9Az_nWBJE2TdppwBuH5g.jpeg?width=640&crop=smart&auto=webp&s=dfabe233d6b9a3d2cd97cba0f8870eae8c89f464",
-      "external_url": "https://www.wfla.com/news/hillsborough-county/brandon-sex-offender-had-sexual-conversations-with-ai-generated-children-hcso/",
-      "site_name": "wfla.com",
       "favicon": null,
       "description": null
     },
     {
-      "title": "How do you guys handle AI image/video moderation at scale?",
-      "author": "Safe-Owl-1236",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlpsnm/how_do_you_guys_handle_ai_imagevideo_moderation/",
-      "published": 1793600470.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm building a content moderation system, processing potentially 1M+ uploads per day. We need to detect and block these categories: m*nor s*xual_v*olence b*stiality self_h*rm real_person (non-consensual use of identifiable people's likeness) I'm exploring open-source models, self-hosted solutions, commercial APIs (Sightengine, AWS Rekognition, etc.), and hybrid approaches. Our priorities are high detection accuracy, low cost at massive scale, strong data privacy, and reliable video moderation. For those running similar systems: Which models or APIs do you use? Do you prefer self-hosted or commercial moderation? How do you optimize costs at high volumes? What are your experiences with false positives and false negatives? Would really appreciate real-world recommendations, architecture suggestions, and pricing insights!"
-    },
-    {
-      "title": "Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases",
-      "author": "Inner-Schedule8998",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/",
-      "published": 1793557676.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. Frankly most people don't even need AI"
-    },
-    {
-      "title": "Feds find small businesses that use AI are more likely to hire",
-      "author": "killboy123",
-      "url": "https://www.reddit.com/r/artificial/comments/1xli21l/feds_find_small_businesses_that_use_ai_are_more/",
-      "published": 1793576583.0,
-      "thumbnail": "https://external-preview.redd.it/yI-JFrCh0OzDKk1l1DSR4uxMvPpzehg1fWefbRG5m8Y.jpeg?width=640&crop=smart&auto=webp&s=76705428734da579ccd63933800083ae802c29ab",
-      "external_url": "https://coffeecupai.com/blog/fed-asked-5248-small-businesses-about-ai/",
-      "site_name": "coffeecupai.com",
-      "favicon": "https://coffeecupai.com/assets/favicon.svg",
-      "description": "A Federal Reserve survey of 5,248 small businesses finds AI adopters are more likely to hire, while most firms remain early in implementation."
+      "title": "How to tell if a voice recording is AI-generated",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1xm9hsx/how_to_tell_if_a_voice_recording_is_aigenerated/",
+      "published": 1793653526.0,
+      "thumbnail": "https://external-preview.redd.it/n3tOqo80tl9Sz1fxNBWIo6gVVw0cu6EH_6zD9x9gKU8.png?width=640&crop=smart&auto=webp&s=b43e89ee7f273ceb74783801f3904f3bcb6e3eb9",
+      "external_url": "https://www.scientificamerican.com/article/how-to-tell-if-a-voice-recording-is-ai-generated/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "I can clone my voice in seconds\u2014but there are tricks to help tell real speech from AI"
     }
   ],
-  "fetched_at": "2026-11-02T13:09:27.721284+00:00"
+  "fetched_at": "2026-11-02T22:25:13.282330+00:00"
 }
