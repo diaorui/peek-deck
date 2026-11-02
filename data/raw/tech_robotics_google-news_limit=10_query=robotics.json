@@ -5,44 +5,54 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
-      "pub_date": 1793462400.0,
-      "article_url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
-      "image": "https://tii.imgix.net/production/articles/18087/e0dccb6e-5d64-40c7-be5e-76da17926003.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people\u2019s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ..."
-    },
-    {
       "headline": "China's robot makers have mastered the moves. Now comes the race for brains",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5",
-      "pub_date": 1793575495.0,
+      "pub_date": 1793574480.0,
       "article_url": "https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Better Start Hitting the Gym Finally Because AI Robots Already Are",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCbFEwRUhTUlRpdFF3QllQVW9mUndwMVJhbjBJYVFBUGZQUzhjUExOSjVJVGVKUHVNOV85ZnJZU1ZrdkpzdWNmNjV4cTNmZ0NHeTY2LVRVeXRHNDl6Vl9TM2FvaUllUFBUVzlsdG1hYw?oc=5",
-      "pub_date": 1793461920.0,
-      "article_url": "https://futurism.com/robots-and-machines/ai-robots-hitting-gym",
-      "image": "https://futurism.com/wp-content/uploads/2026/10/ai-robots-hitting-gym.jpg?quality=85&w=1200",
-      "description": "A startup called Neura is training humanoid robots in a \"robogym\" where the machines constantly practice and perform tasks."
+      "headline": "Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDZZYUZMSEc3ZHpza09mMk1BM0FfVWY3TlhJOVNTSDNUcVJ0WVpRQ25tOWNmbU5ZdFU2WXZaaHU1YW56TXBFSTZwRklNYk9Edk5YRlVNaEhnVnlkT3JiZUFQY0VtVTd3YnQ1RzhYVzVHWnpaVEkwUlJoNHFFTEhsQkpyVnBObkEySVNSZGM2OG5OdWlvSUhzRC1uSXlFVUs1c3huN29Odm9YakdtVUppXw?oc=5",
+      "pub_date": 1793553462.0,
+      "article_url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+      "image": "https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg",
+      "description": "A report said the company is already working on the second version that\u2019s codenamed Max 2."
     },
     {
-      "headline": "Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gd2U5c1c2Ui1hRVdiUzZ0cTU1ZjVpekxiMkU3THhGRXVJU1Bndk9zMmRudXhBUzg3ZTliVE9oaEc1bGRVczdrZUZCNnp2UGlnS3gwS0NIN0JvRk8wWnpZem9LLWw0aU9ZZ19Sd1lWcw?oc=5",
-      "pub_date": 1793377803.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
-      "image": "https://spectrum.ieee.org/media-library/image.webp?id=68558917&width=1200&height=600&coordinates=0%2C69%2C0%2C69",
-      "description": "Your weekly selection of awesome robot videos"
+      "headline": "China is planning to send AI and deep-sea robots on a hunt for its ancient past",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzRIWmRyN0RWOVNTOWNfYjdyZk1tUW90dmE4TFB3azF4RW0yMnczOUxoLUFDd0JmSlRPNm5aOHhtUG5aQjUyMVAwaldWRndRQTI0czk2N2oxV1g3bmdyLWJNWlJSSmJVS19CVFpaNzJXbW9CcUgxRUhHQkdGOHdoSmFkWVctQUpQYzJYTA?oc=5",
+      "pub_date": 1793539140.0,
+      "article_url": "https://interestingengineering.com/culture/china-plan-ai-deep-sea-robots-archaeology",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/AI-and-deep-sea-robots-China.jpg",
+      "description": "China's archaeological ambitions go beyond history, with a five-year plan to give its civilization a stronger global voice."
+    },
+    {
+      "headline": "SK Telecom and KT Develop AI 'Brains' for Robots",
+      "source": "\uc870\uc120\uc77c\ubcf4",
+      "source_url": "https://www.chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTm83dEYyYk5ITml1Rl9INTZOSHBTS1hDQVkzWFZ3QWp2LXBRaDRMcldzd0FKZk1hNW9vcjdDQUI0VDVtZVFxOHpDRWh0Nm9mbWE5Q1c5aS1ta2pQRDJTUmdQMVA3Q21FMkJDbGdxSGZjRGtzcEtSTnVHOHNEZWdaeFZNVVdDVU42?oc=5",
+      "pub_date": 1793588529.0,
+      "article_url": "https://www.chosun.com/english/industry-en/2026/11/02/BPYFVWHDSZGVLMJOOAJXNIOV5A/",
+      "image": "https://www.chosun.com/resizer/v2/DCDQ4ENSYJDAFIGEW3VNGZI3H4.jpg?auth=86a2fcb98f37e9129505d3a031dfe7c021860aff8268c87da9b7137d3accd615&width=1200&height=630&smart=true",
+      "description": "SK Telecom and KT Develop AI Brains for Robots South Korean telecoms expand into robot AI development, enhancing learning and operations through collaborations"
+    },
+    {
+      "headline": "China\u2019s DeepSeek's new architecture can operate with less human supervision",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2hBcDMwSnF1RzlhRDhLUFBpcDktOXY2cnFLbFdrWFFvVDBSdUdHQlAtRU00czB2SUwxdUoycUFqWlVXSnVsVlVKY2lIMmxTYXd3OXdORjFhckh1VkMzWlN3WEVYQkJveDZ3NlNOTVVtcFh5NUVMUjFCbG5Hc2FOdmVrNldCNExFT2dpOGZSRlU0TFU?oc=5",
+      "pub_date": 1793558400.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/china-deepseek-architecture-multi-agent-ai",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/image-1920x1080-1-1.png?w=650",
+      "description": "Chinese AI company DeepSeek estimates that people can effectively supervise only three to five active AI agent sessions at a time."
     },
     {
       "headline": "Betting on AI and robotics, Dyson opens Glilot flagship store in Israel",
@@ -75,36 +85,26 @@
       "description": "Ati Robotics is betting that proximity to Detroit\u2019s automakers and suppliers will position it as a frontrunner in the future of factory innovation."
     },
     {
-      "headline": "Agility Robotics and Churchill Capital Corp XI Announce Expected Gross Capital Raise of Approximately $465 Million and Anticipated Closing of Business Combination",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTklGS1dXaGc1dlpkNFp5VURtUUN5NC1DRFpjWENodVlWQUhmT18wRDlJMDkyZTZMZUtVU3AtZEN5MTR6SE02NmVtUURwSU5QTUFxem1SSnNVSTJNdENSdnhsY0p3QXBRZUQ3MDE2a3BhX2pfeUZFY2pkZlNtYUNTZ0JYMHJteFhha2NIYUtxdlRHdjhSektLNjhGM25wTDFWMjNZcUZ3?oc=5",
-      "pub_date": 1793358000.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/agility-robotics-churchill-capital-corp-110000046.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b7cd798b10a382900ee8ab9f91c39d4748445a598c5fa8d9083fc2fd22d65af1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fadf51a690906f7846c691394e26821fa.jpg",
-      "description": "Business combination expected to close on November 4, 2026, subject to Churchill XI shareholder approval; the combined company expected to begin trading on Nasdaq under ticker symbol \u201cAGLT\u201d on November 5, 2026. Agility is expected to be the only U.S. publicly listed pure-play humanoid robotics company with proven, active commercial deployments. SALEM, Ore. and NEW YORK, Oct. 30, 2026 (GLOBE NEWSWIRE) -- Agility Robotics, a leading humanoid robotics and physical AI company, and Churchill Capital"
+      "headline": "South Korea's HD Hyundai deepens physical AI ties with Palantir",
+      "source": "upi",
+      "source_url": "https://www.upi.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2V5cURaSTJ0eXRuaFJGOUZfSDlzSXFsejk1YTlkTzdtVmFtV0Z1TlBqX25EQnZVbDh3ZGpaNjRKNTZUSVE1S2o1X2pxbzRRTlpsNEwtTkhBOExvWXZZN2w2U1FxdnJ3ZVdoTXQ2Ym9ydGNPT0NLSlgtdmJjQ2hBNmZmTUp0aktIUlpwX3RHTkVjR2U3YXhxNGRxc2VEaHduaER4T0pEZ0s4Z9IBrwFBVV95cUxQRlFLdnNrX1NQTGc1T0JhcmRWODd5TkE0T1FUOVlvOGp4YXlOZ0o4N2xILU9wT1lBbzQtWXRnU3hkWkFvZEJaOTZUWTdPUlJQek9ETy1YVmFFOFJvUWVOb1FqR25sM3E3bkY1VzhpQVoxTXRhNU9hOWpHazl4cEtsTjNiMXlmaXJNcG00aHdMZXY4QUhjek5ZN084NUNpaTJJRmZuTElvYzFfTXpRLUo0?oc=5",
+      "pub_date": 1793586828.0,
+      "article_url": "https://www.upi.com/Top_News/World-News/2026/11/01/hd-hyundai-robotics-physical-ai-palantir/5911793586624/",
+      "image": "https://cdnph.upi.com/sv/ph/og/upi_com/5911793586624/2026/1/44d2585b9a5ca7dd617b2c788c665928/v1.5/South-Koreas-HD-Hyundai-deepens-physical-AI-ties-with-Palantir.jpg",
+      "description": "HD Hyundai Robotics expands physical AI work with Palantir after using AI agents to cut average project completion time from 21.5 to 7.9 days."
     },
     {
-      "headline": "Inside giant homebuilder D.R. Horton\u2019s bet on robotic homebuilding",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVktiRl80LW5KXzhkZlg1SkFReDNoeDAxUGNubU1obVpYWVI2SkNXeWlkT09WUDRXTnpLSEJnRjZjVk9Fc1dUT2tVYXdWZ2ZvcUVaWEZvajlZazFFZFZoakFDRUJsbFZmRTd5SmpzWDdRYldlT0M5dnhtZjRQaHJick5NWmNGQWF3cXpWemFHakdqanUxYWhabUQ5VDV0M1BmOVE?oc=5",
-      "pub_date": 1793308118.0,
-      "article_url": "https://www.fastcompany.com/91632538/homebuilding-dr-horton-inside-giant-homebuilder-bet-on-robotics",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91632538-dr-horton-robotic-homebuilding.jpg",
-      "description": "On a typical jobsite, framing crews build walls by hand. America\u2019s largest homebuilder is teaming up with Promise Robotics to move some of that work into a factory, where robots do the framing."
-    },
-    {
-      "headline": "A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It",
-      "source": "Rocket Lab",
-      "source_url": "https://rocketlabcorp.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkJDT3REV3I2MUZWY1BGSmxDeFMwQ1Z4WFhoRjlKcXhNYkRuUzdqVEpvaEd1bmpueDBlVnpVeVVyNXFGdm5xdnB5YlZMTHhCbEFuZG1BV1ZRTGJGa0U1TGRJY2VrUDJGUzNXczkzZ2ZxaXNIdHMwVDMxLVcwTzdVVnJpRHB5Y3dCWmQ2bWNZdksxbmcyV2lzbnFYaG1CckxqZ0E?oc=5",
-      "pub_date": 1793319684.0,
-      "article_url": "https://rocketlabcorp.com/updates/a-robotic-arm-that-can-walk-across-spacecraft-rocket-lab-built-it/",
-      "image": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-      "description": "Future space missions could soon get a big leg up \u2014 or arm, rather \u2014 thanks to robotics developed by Rocket Lab in collaboration with NASA."
+      "headline": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbExiSmZLZGxsbHBOemJ6bVNiWDdWaUd2dlcyVmJqOGZNaHFlSFZyNlB1SEVXMzZyZE5qOWk5VXp0bnhVNTg2YTNfN3hGMThzQnVfZWNvWG1LcFBiTkNXcWREMHVDTlNBaFZ6RFJDSTQ0NGhpQ21VSTdleG1IcUQwNkxtR1NtR1VScHJuaHp4c0s5S3RuRTFRdDFSbURPZ1NodndvLXF4b2VSZGd4Wk81cHR6V2JHLVdW?oc=5",
+      "pub_date": 1793542056.0,
+      "article_url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/vicone-sponsored-featured-image-october2026.jpg",
+      "description": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-01T23:46:48.231224+00:00"
+  "fetched_at": "2026-11-02T04:47:29.070144+00:00"
 }
