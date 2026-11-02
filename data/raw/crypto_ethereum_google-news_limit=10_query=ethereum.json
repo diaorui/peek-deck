@@ -5,14 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Ethereum ETFs Log Their Worst Month for Flows Since 2024 Launch",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjdlaXc2dUdad1RuWVNzcjVqYW5pTkQzWU8yV0Qta0FiY2Z0ZzdOVFhLM3BDcGtfMXpVZjQxTWViLUY3RWd0TWswb3JLQWo2WmpkVTlQWU1oX0dJTmE3X1pTTG5zRml6V19QSk5oa08xSFU3Zm5EeVJmUVFvNUZTNUNPNHotYUstMEg1ZlNZejNadWNUdDc4Vmp3?oc=5",
-      "pub_date": 1793593020.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-log-worst-month-041755795.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/db8e087faf03aaafff66899da6bd9da96d1435bd29437a8fb3eaaa48d7c956d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F41f4246a07b31d8af86486e033e2df26.jpg",
-      "description": "US spot Ethereum ETFs lost $1.61 billion in October, their worst month since launch, as ETH slips under a key level."
+      "headline": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaEdVamZNQWJjQVJNcUxLMVpZYWt1VlJGUTlRRUJ5YzRmZm9hcnM2RjB2RDBpdUNkVlNWTkxZbVR2ZVpGU0IzaUpzYXNYc3dwSUpmUlZ3cWRxa2NNOGFuSkxGeFdJM3JjOEt4ZDZpNlY1NFVuX0l6aEx3RVV1VG5kX2hEM3NZQ2xDWG9EUnlBXzc5dnZmZWN6aE9iUWwtR1NVNTlLOTh2ZlRUVGk3RWZXREMwVXNCam5MT1I2V1p0LS13VXF2SmNlcWoyNEZPRkp1QmMxYkQ4ZDJIcWZBTmlEdUtsalp4Mk92WVE?oc=5",
+      "pub_date": 1793495520.0,
+      "article_url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Current price of Ethereum for MM-DD-YYYY",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMEpPR0c0WTFjNVF4U2oyLVlTblV5akxQUjk3QmRYWTdlZ1BEQkZocXgyS2l4TWdNNEZMcExrVnQydDAzNFdEY2JGd1prZXYzeTFaQ2NZMHRMejN1bk9jY0tCMFpScHJm?oc=5",
+      "pub_date": 1793619900.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-02-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-2.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "XRP or Ethereum: Which Is the Smarter Buy for the Next 5 Years?",
@@ -25,24 +35,34 @@
       "description": "XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a better chance of rebounding by 2031."
     },
     {
-      "headline": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhzOFlLbHBwd0t6eWlFNGszeXZGZ2ZTak5CMmFjMFZpbFB1MW5STm1TQnhXU3pLb1BjQXRBMnNrZ0ZfWThmSWJnZnlGbWpZQzFXbUtGNm10VzBoTVlTdEREeGNJWFUya3EyendOZmlmMGhZRTA2Z2NHRVVIU3ZFdXd5OXFDQ0JQbzE1ZEk0UW9RaEt6eVE4TnJLYnY5XzlLbWhOUWVjRWtob2xIbXJSZmF3cHZwampFMWxMRi1zR1NobGM?oc=5",
-      "pub_date": 1793360116.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+      "headline": "Elon Musk\u2019s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVczMlZWdmM1YkZ6R1p3N3BwZFpGZmQ1VDI0X0ktSWVqbHFpX2ZWUU5jcDJBS1J3Qm1RZ21IclVraU1WZHg5bXpKbDc1Tk9IUG5rT2ZiNjlac2I2N1NkX0JCbnZWWW9hWjNRODQ4V09yNVJGZUhTLWhNY0pCdTQyZldQY19ibXMxS3dRUTM3Vy0wSUZrU3c?oc=5",
+      "pub_date": 1793610336.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/37f7e47e8ea8a4c604519804fe2eca0f45c498f0de58c1901165c83841d78ed5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F99bitcoins_us_315%2Fe2fa7186933ac8e4d8fa6faff199261a.jpg",
+      "description": "Elon Musk\u2019s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ..."
+    },
+    {
+      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP rebound as November begins after a losing October",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdnEzQW9WX0pnWmhPY0hNNmlpV3NDSEp4N1FwaVRoNWZPTUloVGFzMldPdU55TVNVN1VPREVOWGdxY3hrWVl3bEtkQVRyQnVCSE1hQkdPaF93SkVsazdJNFhxVXJfc3J3OEt0bG10UEtPcWNkSkRzbEZBRVNJS3dmclg5VmZsZHdldUVyUldWUmpaRFA0RnZpNWZqQS04Mzl3MFZUU0c5SHNuWlpqMTI2VjQzWkgwZlhKd2NUbk1PNE9PX1Q0TXpXUWtmMF9ZdUxaT0lxSkI1WkVCdHp6NC0xNnJjRldqVjJ3ZW9JN3Njc3pkUjhHQld1ODNKUmFocmVlZXhv?oc=5",
+      "pub_date": 1793591930.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-november-begins-after-a-losing-october-202611020358",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Slides 4.7%, Ethereum Sheds 5.9% As Crypto Market Hit By Fed Caution, Binance Security Scare",
-      "source": "BusinessToday Malaysia",
-      "source_url": "https://www.businesstoday.com.my",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0NxTWZpRzhqZk9qbUZmal90NUJ4XzNGU0RZdS1ZNUlwZ0l6WGZucktsa0dGNW41bXpOZHZGOGpkU3lBZUZSeU9QOUZCaHotbzRKczlmV1lEZXZDQzZ0UjlzUkVrc0pfVkhvTnlMVHp6N2t0SHhZT2JEaTdFTjhkU01SeGtuaFpqWDhRSVVEZFRrRzA2NHFLT20wN2lUSlVhN3B0Z19CMFB3QnV2OW41Rjg3Uko3dGx0YnlIWDFwT0RaRDZHczlzaGF4TVVKN28zQ1J4TVpNVFU?oc=5",
-      "pub_date": 1793498460.0,
-      "article_url": "https://www.businesstoday.com.my/2026/11/01/bitcoin-slides-4-7-ethereum-sheds-5-9-as-crypto-market-hit-by-fed-caution-binance-security-scare/",
-      "image": null,
-      "description": null
+      "headline": "Ethereum: Inverse Head and Shoulders Breakout vs Bitcoin",
+      "source": "Blockchain News",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1F5cDUyR21mckRaVWVrZUpmcnVQdUVxXzNQWGlNT3VLTmp4aTAyLVNVaDhRRFBYbG1paXh1QzUybzdITjBxbHJXNTRwczlKODB5YkZoUTRHcjR4OUN0T1ZMcm1IaEEyejAyUHVVWjgzS004YkhSX0I1cjRPUC1lNUhGUnhCRDduV3ZtTmRR?oc=5",
+      "pub_date": 1793582640.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-inverse-head-shoulders-breakout-vs-bitcoin",
+      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+      "description": "Trader Tardigrade reports Ethereum versus Bitcoin broke out of an inverse head and shoulders pattern on the 8-hour chart, flagging a major momentum shift..."
     },
     {
       "headline": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
@@ -55,16 +75,6 @@
       "description": "Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Despite Binance Hack; Analyst Warns History Points to \u2018Signi",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3RLREg5anl0S2Nmcmw5c3B0cEphQWQ2SDhCQWppczZjN3pVUldrc2FkVDN6SmM2dnllNjNWdmRPY0V2R20tT1B1OXFpUjhRdktBdldUQUQ4T0R1ZzU3ZHpLZXF2WnYzcV9CRnBhOGdiam9uSXZ1S21ycFBLU0lrRjM2TnBkT1pGYnJEVHpkNVdNN3Jka2dYcXZ6SDg5VnBOSS03bGxQazZfZDFScldBWA?oc=5",
-      "pub_date": 1793584214.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/62767403/bitcoin-ethereum-xrp-dogecoin-crypto-binance-hack",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin spot ETFs see $203M net outflows, Ethereum ETFs lose $432M",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -75,36 +85,26 @@
       "description": "Bitcoin spot ETFs saw $203M in weekly net outflows while Ethereum ETFs lost $432M, capping an October of steady Ether redemptions."
     },
     {
-      "headline": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaEdVamZNQWJjQVJNcUxLMVpZYWt1VlJGUTlRRUJ5YzRmZm9hcnM2RjB2RDBpdUNkVlNWTkxZbVR2ZVpGU0IzaUpzYXNYc3dwSUpmUlZ3cWRxa2NNOGFuSkxGeFdJM3JjOEt4ZDZpNlY1NFVuX0l6aEx3RVV1VG5kX2hEM3NZQ2xDWG9EUnlBXzc5dnZmZWN6aE9iUWwtR1NVNTlLOTh2ZlRUVGk3RWZXREMwVXNCam5MT1I2V1p0LS13VXF2SmNlcWoyNEZPRkp1QmMxYkQ4ZDJIcWZBTmlEdUtsalp4Mk92WVE?oc=5",
-      "pub_date": 1793495400.0,
-      "article_url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Despite Binance Hack; Analyst Warns History Points to \u2018Signi",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3RLREg5anl0S2Nmcmw5c3B0cEphQWQ2SDhCQWppczZjN3pVUldrc2FkVDN6SmM2dnllNjNWdmRPY0V2R20tT1B1OXFpUjhRdktBdldUQUQ4T0R1ZzU3ZHpLZXF2WnYzcV9CRnBhOGdiam9uSXZ1S21ycFBLU0lrRjM2TnBkT1pGYnJEVHpkNVdNN3Jka2dYcXZ6SDg5VnBOSS03bGxQazZfZDFScldBWA?oc=5",
+      "pub_date": 1793584214.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/62767403/bitcoin-ethereum-xrp-dogecoin-crypto-binance-hack",
       "image": null,
       "description": null
     },
     {
-      "headline": "Crypto staking attracts more investors even as yields fall",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ3RkSzJNdGU2OXdnZ1NVbDgtV3J4RUJvdVMzdHNnUGJmdEZvQ3A0UFIwYjZPUlU5MFJFLXV3QURlMGdqXzB5YlRvM0Nfd2ExdWxycWc5d2RFMmJlWGxrUUZza0VJZndfQnFCanpsRjYyOG0tczlEdzBYbTk2ZlAteVVMM1RtNFNwUmJmbE9pbUd0UFFycE1RaWhUeVdKbE9PalZPek9FeDQ?oc=5",
-      "pub_date": 1792998000.0,
-      "article_url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfOC12YlFxRmNpM04tdTF6NE9MTzhuRURfejBWRXIyOUhTYU40S1ZKdy1IX0d3OHJ0TXQyeWFWZmFGUURzbEhJODRjdkxPckxqdzBrempXU0xqNlJIWEVyN2J5Y3B2cGFRaWlpYXl0cnBSNm9FZUFsS0JURUs0cEU?oc=5",
-      "pub_date": 1789974000.0,
-      "article_url": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/tom-lee-decrypt-style-gID_7.jpg",
-      "description": "Bitmine Immersion Technologies kept up its unbroken buying streak this week, adding 27,562 Ethereum\u2014worth roughly $74 million."
+      "headline": "US Crypto ETFs Record $815.8 Million in Outflows on October 30 as Bitcoin Funds Lead Selloff",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGI0dWtOZkFOV2RyMFdkdmFGZFcxYVZkTlN3cWhTeVBXSUt1Y2hYN3ZMUU8tVnFhVXloUU4yUWxpbWFzZ1AtSDNkZF9fNEVmMTd6M1lZX0hVT2pvbDg4cjhfdlcxak9GRmszWWdjYkNjUUhZUk0xTnAyMk1BQmxsNDE3VUdqV0Jwd3Awc3puWnRkYWpfY0hCRGJ5S09zT3RETC1iUzFtNWNFSlRuTEROZWVDc3VEdkIz?oc=5",
+      "pub_date": 1793615834.0,
+      "article_url": "https://financefeeds.com/us-crypto-etfs-record-815-8-million-in-outflows-on-october-30-as-bitcoin-funds-lead-selloff/",
+      "image": "https://financefeeds.com/wp-content/uploads/2026/09/bitcoin-etfs-flip-from-426m-outflow-to-6m-weekly-inflow.avif",
+      "description": "US spot crypto ETFs lost $815.8M on October 30: Bitcoin funds $643.3M, led by IBIT and FBTC, Ethereum $155.7M, capping a $2.16B October of outflows."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-02T04:47:29.020065+00:00"
+  "fetched_at": "2026-11-02T13:09:51.076391+00:00"
 }

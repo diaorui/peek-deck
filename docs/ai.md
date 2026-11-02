@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-02T04:47:30.900569+00:00'
+updated: '2026-11-02T13:10:05.875366+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** November 02, 2026 at 04:47 UTC  
+**Last Updated:** November 02, 2026 at 13:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[How to stop Meta, OpenAI, and Apple from training AI on your data in the UK](https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/)**
+
+The world’s largest AI companies, including Meta, OpenAI, and Apple, all offer UK users ways to keep their data out of AI training.
+
+🔗 [HotMinute](https://hotminute.co.uk/2026/11/02/how-to-stop-meta-openai-and-apple-from-training-ai-on-your-data-in-the-uk/) • 2h ago
+
+---
+
 **[Grok Bot users ran out of a week’s usage overnight, and Elon Musk says the agent was costing too much](https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/)**
 
 Grok Bot weekly usage meters jumped to 100% overnight on November 1. Cursor says that shouldn’t happen. Musk says Grok Bot cost too much to serve.
 
-🔗 [MadRobot](https://madrobot.blog/2026/11/01/grok-bot-usage-limit-100-overnight-musk-cost/) • 7h ago
-
----
-
-**[Trump’s achilles heel is turning his own voters against him](https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/)**
-
-Lifelong Republicans are campaigning against the spread of data centres
-
-🔗 [The i Paper](https://inews.co.uk/news/world/destroying-homes-trump-voters-turn-against-data-centres-4862641) • 13h ago
+🔗 [MadRobot](https://madrobot.blog/2026/11/01/grok-bot-usage-limit-100-overnight-musk-cost/) • 15h ago
 
 ---
 
@@ -57,15 +57,23 @@ Lifelong Republicans are campaigning against the spread of data centres
 
 OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits.
 
-🔗 [The Decoder](https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/) • 7h ago
+🔗 [The Decoder](https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/) • 15h ago
 
 ---
 
-**[Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases](https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/)**
+**[Trump’s achilles heel is turning his own voters against him](https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/)**
 
-In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. Frankly most people don't even need AI
+Lifelong Republicans are campaigning against the spread of data centres
 
-10h ago
+🔗 [The i Paper](https://inews.co.uk/news/world/destroying-homes-trump-voters-turn-against-data-centres-4862641) • 22h ago
+
+---
+
+**[Michigan will pilot a prison classification system targeting 30% better violence-risk predictions starting December 1](https://www.reddit.com/r/artificial/comments/1xlqr10/michigan_will_pilot_a_prison_classification/)**
+
+Michigan says it will pilot a new prison classification system on December 1, 2026. The state forecasts about 30% better prediction of future violence risk. The system will support security-level placement and ongoing reviews using real-time data. The pilot starts at selected men's facilities before any wider rollout. MDOC says across U.S. prisons assaults on staff rose 77% and assaults between incarcerated people rose 54% from 2019 to 2024. It supervises about 32,000 people across four security levels. MDOC says Recidiviz helped develop the tool. The release does not publish the model or explain how the estimate was calculated. The 30% remains a forecast. Source: https://www.michigan.gov/corrections/about/newsroom/press-releases/2026/10/28/new-prisoner-classification-system-announced-by-michigan-department-of-corrections
+
+5h ago
 
 ---
 
@@ -73,23 +81,29 @@ In this way AI is very overrated. 99% of even office users are basic excel users
 
 On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype. The idea is not a new foundation model. It is orchestration around existing model-powered tools, built for one GitHub repository. A persistent Router session handles incoming conversations and dispatch decisions, but does not do the work itself. Each accepted work item gets its own Worker session and directory, so tasks run in parallel without sharing context. The prototype listens to GitHub events, and optionally to Feishu messages, and returns results in the original conversation, often as a pull request. A local web panel lists only the decisions that need a human. The stated philosophy is blunt: take as little human attention as possible, and give as much value as possible. The agent is supposed to confirm once, stay quiet while working, and speak again only with a result, a question, or a failure. It should act only when an allowed person asks, or when a team-written rule permits the work. For work it merely infers, the documented default is observe-only: record what it would do, do not execute it. DeepSeek's argument is that human attention, not model capability, is now the bottleneck. The team says a person can actively follow only 3 to 5 agent sessions at once. In its own simulated test, with about 300 messages and about 20 real work requests per run, the super-agent approach finished the slowest 5 percent of tasks in 15.7 minutes, versus 29.5 minutes for a single-session baseline. Treat those numbers as self-reported, not as an independent benchmark. The test used synthetic messages and simulated tools, real coding quality was not measured, and there is no verified comparison with Claude Code or Codex yet. DeepSeek is also unusually clear about the prototype limits: it is research code, not an official product and not production-ready, it may contain bugs, it differs from the internal system, and some essay ideas are future directions, not implemented features. The internal instance is reportedly already used for bug reproduction, code review, and Harness work, but that is the team's claim. Discussion: is a Router plus Workers the right split, or just parallel sessions with a nicer name? And where would you draw the line on proactive work? Would you let an agent open pull requests in your repository, and what permissions and team-written rules would you require before it touches anything? Sources: DeepSeek dsh-superagent-prototype on GitHub; reporting on October 31 by MarkTechPost (https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/) and Venture Atlas (https://www.ventureatlas.org/news/2026-10-31-deepseek-superagent).
 
-9h ago
+17h ago
 
 ---
 
-**[Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks](https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/)**
+**[Brandon sex offender had 'sexual conversations' with AI-generated children: HCSO](https://www.reddit.com/r/artificial/comments/1xlo5om/brandon_sex_offender_had_sexual_conversations/)**
 
-Many game developers are reporting Claude's refusal to work on their own projects.
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked) • 1d ago
+🔗 [wfla.com](https://www.wfla.com/news/hillsborough-county/brandon-sex-offender-had-sexual-conversations-with-ai-generated-children-hcso/) • 8h ago
 
 ---
 
-**[‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit](https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/)**
+**[How do you guys handle AI image/video moderation at scale?](https://www.reddit.com/r/artificial/comments/1xlpsnm/how_do_you_guys_handle_ai_imagevideo_moderation/)**
 
-An Observer investigation reveals how OpenAI’s race for dominance has compromised user safety, with conversational AI linked to psychiatric crises and violence
+I'm building a content moderation system, processing potentially 1M+ uploads per day. We need to detect and block these categories: m*nor s*xual_v*olence b*stiality self_h*rm real_person (non-consensual use of identifiable people's likeness) I'm exploring open-source models, self-hosted solutions, commercial APIs (Sightengine, AWS Rekognition, etc.), and hybrid approaches. Our priorities are high detection accuracy, low cost at massive scale, strong data privacy, and reliable video moderation. For those running similar systems: Which models or APIs do you use? Do you prefer self-hosted or commercial moderation? How do you optimize costs at high volumes? What are your experiences with false positives and false negatives? Would really appreciate real-world recommendations, architecture suggestions, and pricing insights!
 
-🔗 [The Observer](https://observer.co.uk/news/technology/article/if-it-wasnt-for-chatgpt-my-brother-would-still-be-alive-inside-openais-safety-unit) • 18h ago
+6h ago
+
+---
+
+**[Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases](https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/)**
+
+In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. Frankly most people don't even need AI
+
+18h ago
 
 ---
 
@@ -97,23 +111,7 @@ An Observer investigation reveals how OpenAI’s race for dominance has compromi
 
 A Federal Reserve survey of 5,248 small businesses finds AI adopters are more likely to hire, while most firms remain early in implementation.
 
-🔗 [coffeecupai.com](https://coffeecupai.com/blog/fed-asked-5248-small-businesses-about-ai/) • 5h ago
-
----
-
-**[X/Twitter makes AI dev look effortless, but I keep burning tokens on unfinished projects. How are you actually shipping full apps?](https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/)**
-
-Hey everyone, I need a real sanity-check on my workflow, because I feel like I'm being scammed. 😅 To get some contacts every single day on X, Insta, and TikTok, I see people posting demo videos of insanely cool, bespoke software, sleek data visualizations, and full-stack side projects they supposedly "built in 2 hours completely with AI." It makes me hyped and really optimistic for the future, and for tech as a whole. Howevr when I actually sit down to build anything beyond a MVP or lightweight component, I hit an invisible wall or something…. Ok if I had to break it down, I’ll first get honey potted, or stuck in the honeymoon phase. I’ll start building with Claude and/or Codex (depending on the project but at this point they’re pretty much the same). I’ll go through the steps of setting up the scaffold, initial architecture, and base feature set goes insanely fast. Then boom at some point I’ll hit a wall; or like a 80/20 trap, I’ll try pushing the project into a complete, polished, end-to-end product, but it never gets there. Then I end up in a token burn hell where I’m just burning through tokens, and context windows while the project completely stalls on the roadmap. I'm following standard prompt engineering practices, using system prompts, modular files, etc., but it feels like the model gets "tired" or bogged down once the codebase grows past a certain complexity. For the folks in here who are actually shipping full applications to production using LLMs: Is everyone on social media just showing off slick 30-second prototypes that are actually broken under the hood? What is your actual stack/workflow for pushing past that mid-project context degradation? Are you using spec-driven development (like custom system prompts, codebase indexing tools, or sub-agent architecture), or are you still dropping back into hand-coding the last 20%? Would appreciate any tips, workflow breakdowns, or brutal honesty. Cheers! Sidenote: if you guys have built any cool projects with AI, and are willing to share with me please feel free to :) I love stuff like that.
-
-11h ago
-
----
-
-**[Dear Sam, My RAM Is None of Your Business.](https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/)**
-
-Well, the last time I looked, how much RAM we have in our personal computers was still a democratic decision, not a decree from Silicon Valley. Next, Sam Altman will be telling us what we're allowed to have for breakfast. Or perhaps that's the big announcement on next week's podcast. Honestly, whatever happened to simply minding your own business?
-
-1d ago
+🔗 [coffeecupai.com](https://coffeecupai.com/blog/fed-asked-5248-small-businesses-about-ai/) • 13h ago
 
 ---
 
@@ -121,71 +119,71 @@ Well, the last time I looked, how much RAM we have in our personal computers was
 
 ## Google News: "ai"
 
-**[Why AI is boosting Meta's ad business while hurting Google search](https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html)**
+**[When You Should—and Shouldn’t—Use AI to Search the Web](https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/)**
 
-The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.
+Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.
 
-CNBC • 16h ago
-
----
-
-**[Opinion | Could A.I. Be Conscious? It’s Definitely Possible.](https://www.nytimes.com/2026/11/01/opinion/ai-consciousness-ethics.html)**
-
-The New York Times • 17h ago
+WIRED • 1h ago
 
 ---
 
-**[Watch Howard Marks Says AI Stumbles Have Boosted Skepticism](https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video)**
+**[You can't escape AI, but you can learn to live with it. Wharton Professor Ethan Mollick explains how.](https://www.businessinsider.com/ai-jobs-future-ethan-mollick-skill-interview-peter-kafka-2026-11)**
+
+AI is way more capable than you think, says Wharton management prof Ethan Mollick. That means you — and your kids — need to figure out how to adapt.
+
+Business Insider • 2h ago
+
+---
+
+**[Marvell to buy Lumentum in $115 billion deal in AI data-center bet](https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/)**
+
+Reuters • 44m ago
+
+---
+
+**[Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity](https://finance.yahoo.com/markets/stocks/article/marvell-to-purchase-lumentum-in-115-billion-deal-as-ai-124702761.html)**
+
+Marvell stock declined after the chip designer said it will purchase optical parts maker Lumentum in a $115 billion deal.
+
+Yahoo Finance • 23m ago
+
+---
+
+**[Marvell Reaches $115 Billion Deal for Lumentum Holdings](https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings)**
 
 Bloomberg • 54m ago
 
 ---
 
-**[How AI Is Changing the Homebuying Process, From House Hunting to Home Staging](https://www.yahoo.com/news/videos/ai-changing-homebuying-process-house-034447981.html)**
+**[New Jersey's Workplace AI Bill Tests The Limits Of Human Oversight](https://www.forbes.com/sites/alonzomartinez/2026/11/02/new-jerseys-workplace-ai-bill-tests-the-limits-of-human-oversight/)**
 
-Yahoo • 1h ago
-
----
-
-**[Another Chip Stock Selloff Shows How the AI Trade Is Getting Pickier](https://www.businessinsider.com/another-chip-stock-selloff-shows-how-the-ai-trade-is-getting-pickier-2026-11)**
-
-Hot Japanese chip stock Kioxia plunged as much as 17% after a disappointing earnings outlook.
-
-Business Insider • 19m ago
+Forbes • 10m ago
 
 ---
 
-**[China's robot makers have mastered the moves. Now comes the race for brains](https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/)**
+**[VC Firms Are Trying to Figure Out AI, Too](https://www.wsj.com/pro/venture-capital/vc-firms-are-trying-to-figure-out-ai-too-429e6549)**
 
-Reuters • 5h ago
-
----
-
-**[Anthropic says you can’t be mean to Claude. It’s not about feelings](https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban)**
-
-Anthropic has added a new line to its AI usage policy: Users should not “engage in sustained and needless abusive or cruel behavior toward our models.”
-
-CNN • 11h ago
+WSJ • 18m ago
 
 ---
 
-**[The Smartest People in AI Believe This Is the World’s Most Important Chart](https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815)**
+**[Defense, healthcare, crypto and AI: How the midterm election could affect stocks](https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html)**
 
-WSJ • 2d ago
+Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.
 
----
-
-**[The Year Math Changed Forever](https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever)**
-
-A.I. is solving problems that stumped the field of math for decades. Mathematicians look to Terence Tao for guidance on their altered world.
-
-The New Yorker • 17h ago
+CNBC • 2h ago
 
 ---
 
-**[Hackers are running riot with AI. Its makers want to cash in](https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in)**
+**[Opinion | U.S.-China Relations Will Never Be the Same in the Age of A.I.](https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html)**
 
-The Economist • 7h ago
+The New York Times • 7h ago
+
+---
+
+**[We Can’t Afford an AI Recession](https://www.theatlantic.com/technology/2026/11/ai-data-center-spending-economy/689237/)**
+
+The Atlantic • 40m ago
 
 ---
 
@@ -197,7 +195,7 @@ The Economist • 7h ago
 
 When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?
 
-⬆️ 666 • 💬 485 • 2d ago • [newsletter.signoz.io](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
+⬆️ 675 • 💬 491 • 2d ago • [newsletter.signoz.io](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 
 ---
 
@@ -205,7 +203,7 @@ When AI handles 95% of your incident response, do you get worse at handling the 
 
 One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…
 
-⬆️ 330 • 💬 250 • 22h ago • [Read the Tea Leaves](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+⬆️ 396 • 💬 304 • 1d ago • [Read the Tea Leaves](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
 
 ---
 
@@ -213,7 +211,7 @@ One of my pet peeves with the web development community is that so many of the d
 
 Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” He’s been given unlimited AI tokens and told to “go nuts.”
 
-⬆️ 312 • 💬 384 • 2d ago • [Fortune](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
+⬆️ 314 • 💬 386 • 2d ago • [Fortune](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
 
 ---
 
@@ -221,7 +219,7 @@ Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” 
 
 The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.
 
-⬆️ 296 • 💬 256 • 2d ago • [404 Media](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
+⬆️ 297 • 💬 255 • 2d ago • [404 Media](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
 
 ---
 
@@ -229,7 +227,7 @@ The move came after 404 Media published an investigation into how Proton CEO And
 
 Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.
 
-⬆️ 269 • 💬 301 • 2d ago • [BBC News](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
+⬆️ 269 • 💬 302 • 2d ago • [BBC News](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
 
 ---
 
@@ -237,13 +235,13 @@ Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest
 
 "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
 
-⬆️ 209 • 💬 201 • 6h ago • [TechCrunch](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+⬆️ 230 • 💬 230 • 14h ago • [TechCrunch](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 
 ---
 
 **[Frontier Airlines Likely Breached](https://news.ycombinator.com/item?id=50327266)**
 
-⬆️ 191 • 💬 75 • 12h ago • [reddit.com](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
+⬆️ 207 • 💬 83 • 20h ago • [reddit.com](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
 
 ---
 
@@ -252,7 +250,7 @@ Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest
 Air-gapped systems are physically separated from external networks, including the Internet. This isolation is achieved by keeping the air-gap computers disconnected from wired or wireless networks, preventing direct or remote communication with other devices or networks. Air-gap measures may be used in sensitive environments where security and isolation are critical to prevent private and confidential information leakage.
   In this paper, we present an attack allowing adversaries to leak information from air-gapped computers. We show that malware on a compromised computer can generate radio signals from memory buses (RAM). Using software-generated radio signals, malware can encode sensitive information such as files, images, keylogging, biometric information, and encryption keys. With software-defined radio (SDR) hardware, and a simple off-the-shelf antenna, an attacker can intercept transmitted raw radio signals from a distance. The signals can then be decoded and translated back into binary information. We discuss the design and implementation and present related work and evaluation results. This paper presents fast modification methods to leak data from air-gapped computers at 1000 bits per second. Finally, we propose countermeasures to mitigate this out-of-band air-gap threat.
 
-⬆️ 188 • 💬 95 • 1d ago • [arXiv.org](https://arxiv.org/abs/2409.02292)
+⬆️ 205 • 💬 99 • 1d ago • [arXiv.org](https://arxiv.org/abs/2409.02292)
 
 ---
 
@@ -260,13 +258,15 @@ Air-gapped systems are physically separated from external networks, including th
 
 It is hoped game testing can provide insight into recent AI agent headlines, good and bad.
 
-⬆️ 161 • 💬 77 • 15h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
+⬆️ 173 • 💬 83 • 23h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
 
 ---
 
-**[Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)**
+**[It wasn't AI that flipped Proton's charge](https://news.ycombinator.com/item?id=50328488)**
 
-⬆️ 150 • 💬 142 • 2d ago
+Proton's CEO called a request for security testing "loser thinking". Using AI to write code is fine, but for a privacy company, the guardrails around that code are the product.
+
+⬆️ 160 • 💬 93 • 18h ago • [blog.raed.dev](https://blog.raed.dev/posts/proton-loser-thinking/)
 
 ---
 
@@ -280,17 +280,27 @@ If you would like to support the Channel: https://www.buymeacoffee.com/JoeBlogs 
 
 📺 Joe Blogs
 
-👁️ 148K • 👍 4K • 💬 514 • ⏱️ 15:57 • 12h ago
+👁️ 163K • 👍 4K • 💬 542 • ⏱️ 15:57 • 21h ago
 
 ---
 
-**[Why Hasn’t The AI Bubble Burst (Yet)?](https://www.youtube.com/watch?v=7rtn4doHIuY)**
+**[AI Collapse Warning](https://www.youtube.com/watch?v=AY2JsPdGcvY)**
 
-So... Why Isn't the AI Bubble Popping? In 2025, OpenAI lost about $1.60 for every $1 it earned just running its business. Yet Big ...
+If you would like to support the Channel: https://www.buymeacoffee.com/JoeBlogs https://www.patreon.com/joeblogsYT YouTube ...
 
-📺 MonkeyExplains
+📺 Joe Blogs
 
-👁️ 655K • 👍 12K • 💬 2K • ⏱️ 13:57 • 14h ago
+👁️ 22K • 👍 1K • 💬 217 • ⏱️ 15:45 • 3h ago
+
+---
+
+**[I Read the Research on AI Hacking. The Bubble Is Finally Dying.](https://www.youtube.com/watch?v=KNxEkrMFCFc)**
+
+Cline Desktop: https://cline.gg/desktop-houseofel ClinePass: https://cline.gg/clinepass-houseofel AI is getting dramatically better at ...
+
+📺 House of El: AI
+
+👁️ 441K • 👍 11K • 💬 2K • ⏱️ 27:13 • 2d ago
 
 ---
 
@@ -300,7 +310,7 @@ OpenAI's GPT and Anthropic's Claude just went to war in a massive AI agent exper
 
 📺 AI Revolution
 
-👁️ 88K • 👍 1K • 💬 138 • ⏱️ 13:08 • 1d ago
+👁️ 97K • 👍 1K • 💬 142 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -310,27 +320,37 @@ Amazon just spent more than $77 billion on AI and saw $42.4b in cash OUTFLOWS. A
 
 📺 Eurodollar University
 
-👁️ 159K • 👍 2K • 💬 402 • ⏱️ 18:55 • 1d ago
+👁️ 167K • 👍 2K • 💬 409 • ⏱️ 18:55 • 1d ago
 
 ---
 
-**[AI News Is Getting Absolutely RIDICULOUS](https://www.youtube.com/watch?v=UIYoKcIvSVo)**
+**[Why Hasn’t The AI Bubble Burst (Yet)?](https://www.youtube.com/watch?v=7rtn4doHIuY)**
 
-0:00 Intro 0:57 Black October: the internet under attack 2:23 Banks find rogue AI agents in customer accounts 3:52 Sponsor: ...
+So... Why Isn't the AI Bubble Popping? In 2025, OpenAI lost about $1.60 for every $1 it earned just running its business. Yet Big ...
 
-📺 TheAIGRID
+📺 MonkeyExplains
 
-👁️ 59K • 👍 736 • 💬 70 • ⏱️ 30:27 • 1d ago
+👁️ 915K • 👍 15K • 💬 2K • ⏱️ 13:57 • 23h ago
 
 ---
 
-**[Half A Trillion Lost In A Day! Is AI Killing Google&#39;s Search Empire? | Firstpost Live](https://www.youtube.com/watch?v=eE8du73bC4M)**
+**[The end of human programming? #elonmusk #ai #programming](https://www.youtube.com/watch?v=dpni2LZMo9s)**
 
-Google is facing a massive AI dilemma. More than $500 billion has been wiped off the market value of its parent company, ...
+Elon Musk told The Economist that AI is already better than at least 90% of professional software engineers at writing software, will ...
 
-📺 Firstpost
+📺 NightshiftNow
 
-👁️ 478K • 👍 2K • 💬 311 • ⏱️ 6:26 • 2d ago
+👁️ 5K • 👍 110 • 💬 15 • ⏱️ 0:45 • 8h ago
+
+---
+
+**[AI EXPERTS REVEAL: It’s Too Late! We Can&#39;t Stop What&#39;s Coming](https://www.youtube.com/watch?v=NXITvkHIV9o)**
+
+Everyone agrees we can't pause AI. So what do we do instead? This episode is brought to you by AgelessRx, where aging ...
+
+📺 The Beyond Tomorrow Podcast with Julian Issa
+
+👁️ 33K • 👍 257 • 💬 168 • ⏱️ 1:29:46 • 2d ago
 
 ---
 
@@ -340,37 +360,17 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 127K • 👍 1K • 💬 321 • ⏱️ 25:01 • 1d ago
+👁️ 159K • 👍 2K • 💬 342 • ⏱️ 25:01 • 1d ago
 
 ---
 
-**[Why AI Insiders Are Cashing Out](https://www.youtube.com/watch?v=cYSykNkq4lM)**
+**[The satisfying DOWNFALL of Character.ai](https://www.youtube.com/watch?v=JEpuYaN0sgg)**
 
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+let's destroy the environment AND lose all our money to.... *checks notes*... get kids addicted to writing fanfiction of themselves.
 
-📺 Coin Bureau
+📺 RayLikeMoonshine
 
-👁️ 26K • 👍 483 • 💬 32 • ⏱️ 12:43 • 16h ago
-
----
-
-**[China’s AI crash is warning sign for the AI bubble | Dean Baker](https://www.youtube.com/watch?v=yezPA8WJ5zM)**
-
-I'm going to take money from my left pocket, put it in the right pocket and get very rich that way. That doesn't work.” Senior ...
-
-📺 The Tech Report
-
-👁️ 206K • 👍 2K • 💬 502 • ⏱️ 26:05 • 1d ago
-
----
-
-**[AI Getting Banned](https://www.youtube.com/watch?v=iciXQrtdro8)**
-
-Writer: Brett Stelmaszek Editor: Catlin Stevenson Music by: @UFD-Music.
-
-📺 UFD Tech
-
-👁️ 458K • 👍 27K • 💬 2K • ⏱️ 0:49 • 14h ago
+👁️ 120K • 👍 6K • 💬 686 • ⏱️ 26:37 • 2d ago
 
 ---
 
@@ -386,7 +386,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 170,353 • ❤️ 4,354 • 15d ago
+⬇️ 177,009 • ❤️ 4,593 • 16d ago
 
 ---
 
@@ -398,7 +398,7 @@ LFM3-1.7B is a 1.73B parameter text model optimized for edge devices and local a
 
 `text-generation` `1.7B`
 
-⬇️ 37,568 • ❤️ 716 • 4d ago
+⬇️ 42,384 • ❤️ 777 • 4d ago
 
 ---
 
@@ -410,7 +410,7 @@ NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 4
 
 `automatic-speech-recognition` `33.7B`
 
-⬇️ 29,364 • ❤️ 610 • 3d ago
+⬇️ 32,439 • ❤️ 642 • 3d ago
 
 ---
 
@@ -422,7 +422,7 @@ Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model 
 
 `image-text-to-text`
 
-⬇️ 4,576 • ❤️ 1,455 • 3d ago
+⬇️ 5,500 • ❤️ 1,473 • 3d ago
 
 ---
 
@@ -434,19 +434,7 @@ Unlimited-OCR-2 is a multilingual vision-language model for unlimited-horizon do
 
 `image-text-to-text` `3.3B`
 
-⬇️ 109,519 • ❤️ 526 • 3d ago
-
----
-
-**[Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)**
-
-*Nanbeige LLM Lab*
-
-Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic coding and professional coworker tasks, outperforming comparable open models on benchmarks like Terminal-Bench and JobBench. It's designed for complex coding, professional collaboration, and serves as a teacher model for distilling agentic capabilities into smaller models.
-
-`text-generation` `33.1B`
-
-⬇️ 15,795 • ❤️ 978 • 5d ago
+⬇️ 147,588 • ❤️ 548 • 6h ago
 
 ---
 
@@ -458,7 +446,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,431,846 • ❤️ 10,234 • 21d ago
+⬇️ 2,467,613 • ❤️ 10,289 • 22d ago
 
 ---
 
@@ -470,19 +458,7 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 44,825 • ❤️ 495 • 3h ago
-
----
-
-**[Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex)**
-
-*Pika-Labs*
-
-Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, temporally coherent videos from static images. It excels at precise camera motion control, maintaining subject consistency, and adapting to various artistic styles, making it ideal for creative video production and visual storytelling.
-
-`image-to-video` `33.1B`
-
-⬇️ 404 • ❤️ 316 • 3d ago
+⬇️ 63,499 • ❤️ 526 • 12h ago
 
 ---
 
@@ -494,7 +470,31 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 4,194 • ❤️ 313 • 3d ago
+⬇️ 7,787 • ❤️ 366 • 3d ago
+
+---
+
+**[Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)**
+
+*Nanbeige LLM Lab*
+
+Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic coding and professional coworker tasks, outperforming comparable open models on benchmarks like Terminal-Bench and JobBench. It's designed for complex coding, professional collaboration, and serves as a teacher model for distilling agentic capabilities into smaller models.
+
+`text-generation` `33.1B`
+
+⬇️ 16,976 • ❤️ 995 • 5d ago
+
+---
+
+**[Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex)**
+
+*Pika-Labs*
+
+Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, temporally coherent videos from static images. It excels at precise camera motion control, maintaining subject consistency, and adapting to various artistic styles, making it ideal for creative video production and visual storytelling.
+
+`image-to-video` `33.1B`
+
+⬇️ 491 • ❤️ 341 • 3d ago
 
 ---
 
@@ -510,7 +510,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 8 • 💬 2 • ⭐ 3,932 • 18d ago
+▲ 9 • 💬 2 • ⭐ 3,932 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -534,7 +534,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 63 • 💬 4 • ⭐ 45,363 • 15mo ago
+▲ 63 • 💬 4 • ⭐ 45,746 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -576,7 +576,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 32 • 💬 9 • ⭐ 8,935 • 1mo ago
+▲ 33 • 💬 9 • ⭐ 8,935 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -590,7 +590,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 110 • 💬 2 • ⭐ 15,490 • 2mo ago
+▲ 111 • 💬 2 • ⭐ 15,490 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -604,34 +604,33 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 HairDeck generates stylized hair cards and spring-bone animations as unordered token sets using a diffusion transformer, improving accuracy and speed over prior methods.
 
-▲ 26 • 💬 2 • ⭐ 563 • 4d ago
+▲ 35 • 💬 2 • ⭐ 646 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.40599) • [💻 code](https://github.com/hyz317/HairDeck) • [🔗 project](https://hyzcluster.github.io/HairDeck/)
 
 ---
 
-**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+**[Differentiable Data Augmentation with Kornia](https://huggingface.co/papers/2011.09832)**
 
-*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+*Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)*
 
-Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.
 
-▲ 39 • 💬 2 • ⭐ 35,121 • 27mo ago
+▲ 1 • 💬 0 • ⭐ 11,976 • 72mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+[🎓 arXiv](https://arxiv.org/abs/2011.09832) • [💻 code](https://github.com/arraiyopensource/kornia)
 
 ---
 
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
+**[Xiaomi-OCR-0 Technical Report](https://huggingface.co/papers/2609.36136)**
 
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+*Xin Chen, Anan Du, Feng Feng et al. (10 authors)*
 
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+Xiaomi-OCR-0 is a compact vision-language model that unifies document parsing and OCR understanding through automated data synthesis, progressive training with text anchoring and reinforcement learning, and achieves state-of-the-art results on multiple benchmarks.
 
-▲ 71 • 💬 4 • ⭐ 35,122 • 14mo ago
+▲ 12 • 💬 0 • ⭐ 714 • 1mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
+[🎓 arXiv](https://arxiv.org/abs/2609.36136) • [💻 code](https://github.com/SeerRay-Lab/Xiaomi-OCR-0) • [🔗 project](https://huggingface.co/spaces/SeerRay-Lab/Xiaomi-OCR-0)
 
 ---
 
@@ -645,7 +644,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 14.2k • 🔱 1.4k • 4d ago
+⭐ 14.3k • 🔱 1.4k • 4d ago
 
 ---
 
@@ -655,17 +654,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 5.7k • 🔱 512 • 8h ago
-
----
-
-**[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)**
-
-中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-
-`TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
-
-⭐ 5.2k • 🔱 1.3k • 11h ago
+⭐ 5.8k • 🔱 525 • 29m ago
 
 ---
 
@@ -675,7 +664,17 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 5.0k • 🔱 253 • 12h ago
+⭐ 5.5k • 🔱 273 • 20h ago
+
+---
+
+**[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)**
+
+中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+
+`TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
+
+⭐ 5.4k • 🔱 1.4k • 19h ago
 
 ---
 
@@ -685,7 +684,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 4.2k • 🔱 804 • 9h ago
+⭐ 4.9k • 🔱 939 • 17h ago
 
 ---
 
@@ -695,7 +694,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 4.2k • 🔱 561 • 4d ago
+⭐ 4.2k • 🔱 567 • 5d ago
 
 ---
 
@@ -705,7 +704,7 @@ The open source AI video agent: turns any coding agent into a video agent, with 
 
 `TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 4.1k • 🔱 396 • 1d ago
+⭐ 4.2k • 🔱 402 • 1d ago
 
 ---
 
@@ -719,6 +718,16 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 ---
 
+**[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)**
+
+Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
+
+`Python` `agent-skills` `ai` `aisa` `claude-code` `claude-skills`
+
+⭐ 2.0k • 🔱 623 • 5d ago
+
+---
+
 **[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)**
 
 A design system for AI applications. Material, physical, tactile, technical.
@@ -726,16 +735,6 @@ A design system for AI applications. Material, physical, tactile, technical.
 `TypeScript` `agent-ui` `ai` `ai-agents` `chat-ui` `design-system`
 
 ⭐ 2.0k • 🔱 42 • 1d ago
-
----
-
-**[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)**
-
-Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
-
-`Python` `agent-skills` `ai` `aisa` `claude-code` `claude-skills`
-
-⭐ 2.0k • 🔱 621 • 4d ago
 
 ---
 
