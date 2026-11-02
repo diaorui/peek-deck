@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-01T23:46:54.439245+00:00'
+updated: '2026-11-02T04:47:30.916656+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 01, 2026 at 23:46 UTC  
+**Last Updated:** November 02, 2026 at 04:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,33 +116,41 @@ I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch 
 
 ## Google News: "robotics"
 
-**[Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push](https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push)**
-
-Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...
-
-The Information • 1d ago
-
----
-
 **[China's robot makers have mastered the moves. Now comes the race for brains](https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/)**
 
-Reuters • 21m ago
+Reuters • 5h ago
 
 ---
 
-**[Better Start Hitting the Gym Finally Because AI Robots Already Are](https://futurism.com/robots-and-machines/ai-robots-hitting-gym)**
+**[Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores](https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/)**
 
-A startup called Neura is training humanoid robots in a "robogym" where the machines constantly practice and perform tasks.
+A report said the company is already working on the second version that’s codenamed Max 2.
 
-Futurism • 1d ago
+Engadget • 11h ago
 
 ---
 
-**[Let's Have Some Fun: Spot Plays With a Tire, Reachy Mini Races Microduck](https://spectrum.ieee.org/video-friday-whole-body-manipulation)**
+**[China is planning to send AI and deep-sea robots on a hunt for its ancient past](https://interestingengineering.com/culture/china-plan-ai-deep-sea-robots-archaeology)**
 
-Your weekly selection of awesome robot videos
+China's archaeological ambitions go beyond history, with a five-year plan to give its civilization a stronger global voice.
 
-IEEE Spectrum • 2d ago
+Interesting Engineering • 15h ago
+
+---
+
+**[SK Telecom and KT Develop AI 'Brains' for Robots](https://www.chosun.com/english/industry-en/2026/11/02/BPYFVWHDSZGVLMJOOAJXNIOV5A/)**
+
+SK Telecom and KT Develop AI Brains for Robots South Korean telecoms expand into robot AI development, enhancing learning and operations through collaborations
+
+조선일보 • 1h ago
+
+---
+
+**[China’s DeepSeek's new architecture can operate with less human supervision](https://interestingengineering.com/ai-robotics/china-deepseek-architecture-multi-agent-ai)**
+
+Chinese AI company DeepSeek estimates that people can effectively supervise only three to five active AI agent sessions at a time.
+
+Interesting Engineering • 10h ago
 
 ---
 
@@ -150,7 +158,7 @@ IEEE Spectrum • 2d ago
 
 Dyson robotics engineer Guy Turner says the company’s next chapter will focus on machines that can sense, perceive, and solve problems independently
 
-The Jerusalem Post • 15h ago
+The Jerusalem Post • 20h ago
 
 ---
 
@@ -158,7 +166,7 @@ The Jerusalem Post • 15h ago
 
 No tricks, just treats, robots and science at the Elkhart County Fairgrounds.E-3 Robotics Center invited families to its free Science Spooktacular event, featur
 
-WSBT • 22h ago
+WSBT • 1d ago
 
 ---
 
@@ -170,27 +178,19 @@ Crain's Detroit • 2d ago
 
 ---
 
-**[Agility Robotics and Churchill Capital Corp XI Announce Expected Gross Capital Raise of Approximately $465 Million and Anticipated Closing of Business Combination](https://finance.yahoo.com/technology/ai/articles/agility-robotics-churchill-capital-corp-110000046.html)**
+**[South Korea's HD Hyundai deepens physical AI ties with Palantir](https://www.upi.com/Top_News/World-News/2026/11/01/hd-hyundai-robotics-physical-ai-palantir/5911793586624/)**
 
-Business combination expected to close on November 4, 2026, subject to Churchill XI shareholder approval; the combined company expected to begin trading on Nasdaq under ticker symbol “AGLT” on November 5, 2026. Agility is expected to be the only U.S. publicly listed pure-play humanoid robotics company with proven, active commercial deployments. SALEM, Ore. and NEW YORK, Oct. 30, 2026 (GLOBE NEWSWIRE) -- Agility Robotics, a leading humanoid robotics and physical AI company, and Churchill Capital
+HD Hyundai Robotics expands physical AI work with Palantir after using AI agents to cut average project completion time from 21.5 to 7.9 days.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Inside giant homebuilder D.R. Horton’s bet on robotic homebuilding](https://www.fastcompany.com/91632538/homebuilding-dr-horton-inside-giant-homebuilder-bet-on-robotics)**
-
-On a typical jobsite, framing crews build walls by hand. America’s largest homebuilder is teaming up with Promise Robotics to move some of that work into a factory, where robots do the framing.
-
-Fast Company • 3d ago
+upi • 2h ago
 
 ---
 
-**[A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It](https://rocketlabcorp.com/updates/a-robotic-arm-that-can-walk-across-spacecraft-rocket-lab-built-it/)**
+**[28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics](https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/)**
 
-Future space missions could soon get a big leg up — or arm, rather — thanks to robotics developed by Rocket Lab in collaboration with NASA.
+VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem.
 
-Rocket Lab • 2d ago
+The Robot Report • 14h ago
 
 ---
 
@@ -204,27 +204,17 @@ OpenAI is officially building its first humanoid robot, and Sam Altman has confi
 
 📺 MACHINEKIND
 
-👁️ 54K • 👍 670 • 💬 51 • ⏱️ 13:33 • 5d ago
+👁️ 56K • 👍 677 • 💬 51 • ⏱️ 13:33 • 5d ago
 
 ---
 
-**[Meta Built a Secret Humanoid Robot Named &quot;Max&quot;](https://www.youtube.com/watch?v=XEUD38_gKBo)**
+**[New Human-Skinned AI Robots Shock the World (Way Too Creepy)](https://www.youtube.com/watch?v=kVVqaRJf_Sk)**
 
-Meta reportedly built a 5-foot, 106-pound humanoid robot prototype codenamed Max in just three months by partnering with ...
+Realbotix just unveiled its new humanlike AI robots, and they're getting disturbingly real. These humanoids have synthetic ...
 
-📺 Stutzy
+📺 MACHINEKIND
 
-👁️ 532 • 👍 6 • 💬 2 • ⏱️ 0:28 • 48m ago
-
----
-
-**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
-
-I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
-
-📺 SECTOR 07
-
-👁️ 21K • 👍 577 • 💬 65 • ⏱️ 18:03 • 1d ago
+👁️ 20K • 👍 393 • 💬 53 • ⏱️ 14:21 • 1d ago
 
 ---
 
@@ -234,17 +224,45 @@ The newly announced Echo humanoid robots come in both tabletop and full body mod
 
 📺 Cybernews
 
-👁️ 144K • 👍 180 • 💬 80 • ⏱️ 0:21 • 5d ago
+👁️ 144K • 👍 181 • 💬 80 • ⏱️ 0:21 • 5d ago
 
 ---
 
-**[Homework in 2026: Even Robots Are Doing the Graphs! 🤯🤖✍️](https://www.youtube.com/watch?v=9JfSIPnR6Qc)**
+**[This Creepy Robot Mouth Was Actually Built to Help People  #art #robot #Japan #didyouknow](https://www.youtube.com/watch?v=yNa2tuqQtas)**
 
-What does homework look like in 2026? A robotic pen plotter uses a mechanical arm to draw precise graphs and experimental ...
+This bizarre-looking machine is a talking and singing robotic mouth developed by Professor Hideyuki Sawada and researchers at ...
 
-📺 Nexio Core
+📺 Tale Twine
 
-👁️ 318K • 👍 2K • 💬 61 • ⏱️ 0:06 • 1d ago
+👁️ 65K • 👍 401 • 💬 59 • ⏱️ 0:06 • 5d ago
+
+---
+
+**[Robots Going Completely Wrong Caught On Camera - Part 3](https://www.youtube.com/watch?v=zrINyrKNY7w)**
+
+Original video https://youtu.be/wcOZklEXzd8?is=NC_9xNxs204MmtEs.
+
+📺 Jamel_AKA_Jamal
+
+👁️ 90K • 👍 1K • 💬 254 • ⏱️ 13:00 • 1d ago
+
+---
+
+**[American Engineers Tore Down China&#39;s $16,000 Female Robot - What They Found Inside Shocked Them](https://www.youtube.com/watch?v=zrtksbBud6k)**
+
+📺 Alex Tech Review
+
+👁️ 75K • 👍 4K • 💬 159 • ⏱️ 23:34 • 4d ago
+
+---
+
+**[Next Gen Atlas AI Robot (by Boston Dynamics) can do what humans do - World Premiere](https://www.youtube.com/watch?v=6a4Lli8fL9Q)**
+
+Discover the all new Boston Dynamics Atlas robot, featuring advanced AI, electric mobility, powerful robotic hands and industrial ...
+
+📺 REC Anything
+
+👁️ 44K • 👍 294 • 💬 30 • ⏱️ 11:01 • 5d ago
 
 ---
 
@@ -254,7 +272,7 @@ Unitree H2-X can pull off spectacular kung fu stunts. But what happens when the 
 
 📺 Ashish Decodes
 
-👁️ 182K • 👍 5K • 💬 71 • ⏱️ 1:39 • 6d ago
+👁️ 183K • 👍 5K • 💬 71 • ⏱️ 1:39 • 6d ago
 
 ---
 
@@ -268,33 +286,13 @@ NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelli
 
 ---
 
-**[NEO Home Robot Sold Out in 5 Days. Here&#39;s What Happens Next.](https://www.youtube.com/watch?v=ZxAsWTSkeKM)**
+**[Homework in 2026: Even Robots Are Doing the Graphs! 🤯🤖✍️](https://www.youtube.com/watch?v=9JfSIPnR6Qc)**
 
-NEO Home Robot Sold Out in 5 Days. Here's What Happens Next. For More Content like this, be sure to Subscribe to our ...
+What does homework look like in 2026? A robotic pen plotter uses a mechanical arm to draw precise graphs and experimental ...
 
-📺 AI Unfiltered
+📺 Nexio Core
 
-👁️ 28K • 👍 196 • 💬 11 • ⏱️ 9:09 • 3d ago
-
----
-
-**[Elon Musk: Neuralink Will Let You Inhabit a Robot 🧠🤖](https://www.youtube.com/watch?v=pBw867OUdlI)**
-
-Is this the ultimate step in human evolution? Elon Musk just made a staggering claim that advanced Neuralink implants could ...
-
-📺 Robot24com
-
-👁️ 1K • 👍 16 • 💬 2 • ⏱️ 0:35 • 8h ago
-
----
-
-**[This Creepy Robot Mouth Was Actually Built to Help People  #art #robot #Japan #didyouknow](https://www.youtube.com/watch?v=yNa2tuqQtas)**
-
-This bizarre-looking machine is a talking and singing robotic mouth developed by Professor Hideyuki Sawada and researchers at ...
-
-📺 Tale Twine
-
-👁️ 65K • 👍 399 • 💬 59 • ⏱️ 0:06 • 5d ago
+👁️ 331K • 👍 2K • 💬 62 • ⏱️ 0:06 • 2d ago
 
 ---
 

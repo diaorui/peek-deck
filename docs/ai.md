@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-01T23:46:54.420751+00:00'
+updated: '2026-11-02T04:47:30.900569+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** November 01, 2026 at 23:46 UTC  
+**Last Updated:** November 02, 2026 at 04:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok Bot weekly usage meters jumped to 100% overnight on November 1. Cursor says that shouldn’t happen. Musk says Grok Bot cost too much to serve.
 
-🔗 [MadRobot](https://madrobot.blog/2026/11/01/grok-bot-usage-limit-100-overnight-musk-cost/) • 2h ago
+🔗 [MadRobot](https://madrobot.blog/2026/11/01/grok-bot-usage-limit-100-overnight-musk-cost/) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Grok Bot weekly usage meters jumped to 100% overnight on November 1. Cursor says
 
 Lifelong Republicans are campaigning against the spread of data centres
 
-🔗 [The i Paper](https://inews.co.uk/news/world/destroying-homes-trump-voters-turn-against-data-centres-4862641) • 8h ago
+🔗 [The i Paper](https://inews.co.uk/news/world/destroying-homes-trump-voters-turn-against-data-centres-4862641) • 13h ago
 
 ---
 
@@ -57,7 +57,7 @@ Lifelong Republicans are campaigning against the spread of data centres
 
 OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits.
 
-🔗 [The Decoder](https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/) • 2h ago
+🔗 [The Decoder](https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/) • 7h ago
 
 ---
 
@@ -65,7 +65,15 @@ OpenAI is now capping the number of paid ChatGPT accounts per device and payment
 
 In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. Frankly most people don't even need AI
 
-5h ago
+10h ago
+
+---
+
+**[DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention](https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/)**
+
+On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype. The idea is not a new foundation model. It is orchestration around existing model-powered tools, built for one GitHub repository. A persistent Router session handles incoming conversations and dispatch decisions, but does not do the work itself. Each accepted work item gets its own Worker session and directory, so tasks run in parallel without sharing context. The prototype listens to GitHub events, and optionally to Feishu messages, and returns results in the original conversation, often as a pull request. A local web panel lists only the decisions that need a human. The stated philosophy is blunt: take as little human attention as possible, and give as much value as possible. The agent is supposed to confirm once, stay quiet while working, and speak again only with a result, a question, or a failure. It should act only when an allowed person asks, or when a team-written rule permits the work. For work it merely infers, the documented default is observe-only: record what it would do, do not execute it. DeepSeek's argument is that human attention, not model capability, is now the bottleneck. The team says a person can actively follow only 3 to 5 agent sessions at once. In its own simulated test, with about 300 messages and about 20 real work requests per run, the super-agent approach finished the slowest 5 percent of tasks in 15.7 minutes, versus 29.5 minutes for a single-session baseline. Treat those numbers as self-reported, not as an independent benchmark. The test used synthetic messages and simulated tools, real coding quality was not measured, and there is no verified comparison with Claude Code or Codex yet. DeepSeek is also unusually clear about the prototype limits: it is research code, not an official product and not production-ready, it may contain bugs, it differs from the internal system, and some essay ideas are future directions, not implemented features. The internal instance is reportedly already used for bug reproduction, code review, and Harness work, but that is the team's claim. Discussion: is a Router plus Workers the right split, or just parallel sessions with a nicer name? And where would you draw the line on proactive work? Would you let an agent open pull requests in your repository, and what permissions and team-written rules would you require before it touches anything? Sources: DeepSeek dsh-superagent-prototype on GitHub; reporting on October 31 by MarkTechPost (https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/) and Venture Atlas (https://www.ventureatlas.org/news/2026-10-31-deepseek-superagent).
+
+9h ago
 
 ---
 
@@ -81,23 +89,7 @@ Many game developers are reporting Claude's refusal to work on their own project
 
 An Observer investigation reveals how OpenAI’s race for dominance has compromised user safety, with conversational AI linked to psychiatric crises and violence
 
-🔗 [The Observer](https://observer.co.uk/news/technology/article/if-it-wasnt-for-chatgpt-my-brother-would-still-be-alive-inside-openais-safety-unit) • 13h ago
-
----
-
-**[DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention](https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/)**
-
-On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype. The idea is not a new foundation model. It is orchestration around existing model-powered tools, built for one GitHub repository. A persistent Router session handles incoming conversations and dispatch decisions, but does not do the work itself. Each accepted work item gets its own Worker session and directory, so tasks run in parallel without sharing context. The prototype listens to GitHub events, and optionally to Feishu messages, and returns results in the original conversation, often as a pull request. A local web panel lists only the decisions that need a human. The stated philosophy is blunt: take as little human attention as possible, and give as much value as possible. The agent is supposed to confirm once, stay quiet while working, and speak again only with a result, a question, or a failure. It should act only when an allowed person asks, or when a team-written rule permits the work. For work it merely infers, the documented default is observe-only: record what it would do, do not execute it. DeepSeek's argument is that human attention, not model capability, is now the bottleneck. The team says a person can actively follow only 3 to 5 agent sessions at once. In its own simulated test, with about 300 messages and about 20 real work requests per run, the super-agent approach finished the slowest 5 percent of tasks in 15.7 minutes, versus 29.5 minutes for a single-session baseline. Treat those numbers as self-reported, not as an independent benchmark. The test used synthetic messages and simulated tools, real coding quality was not measured, and there is no verified comparison with Claude Code or Codex yet. DeepSeek is also unusually clear about the prototype limits: it is research code, not an official product and not production-ready, it may contain bugs, it differs from the internal system, and some essay ideas are future directions, not implemented features. The internal instance is reportedly already used for bug reproduction, code review, and Harness work, but that is the team's claim. Discussion: is a Router plus Workers the right split, or just parallel sessions with a nicer name? And where would you draw the line on proactive work? Would you let an agent open pull requests in your repository, and what permissions and team-written rules would you require before it touches anything? Sources: DeepSeek dsh-superagent-prototype on GitHub; reporting on October 31 by MarkTechPost (https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/) and Venture Atlas (https://www.ventureatlas.org/news/2026-10-31-deepseek-superagent).
-
-4h ago
-
----
-
-**[X/Twitter makes AI dev look effortless, but I keep burning tokens on unfinished projects. How are you actually shipping full apps?](https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/)**
-
-Hey everyone, I need a real sanity-check on my workflow, because I feel like I'm being scammed. 😅 To get some contacts every single day on X, Insta, and TikTok, I see people posting demo videos of insanely cool, bespoke software, sleek data visualizations, and full-stack side projects they supposedly "built in 2 hours completely with AI." It makes me hyped and really optimistic for the future, and for tech as a whole. Howevr when I actually sit down to build anything beyond a MVP or lightweight component, I hit an invisible wall or something…. Ok if I had to break it down, I’ll first get honey potted, or stuck in the honeymoon phase. I’ll start building with Claude and/or Codex (depending on the project but at this point they’re pretty much the same). I’ll go through the steps of setting up the scaffold, initial architecture, and base feature set goes insanely fast. Then boom at some point I’ll hit a wall; or like a 80/20 trap, I’ll try pushing the project into a complete, polished, end-to-end product, but it never gets there. Then I end up in a token burn hell where I’m just burning through tokens, and context windows while the project completely stalls on the roadmap. I'm following standard prompt engineering practices, using system prompts, modular files, etc., but it feels like the model gets "tired" or bogged down once the codebase grows past a certain complexity. For the folks in here who are actually shipping full applications to production using LLMs: Is everyone on social media just showing off slick 30-second prototypes that are actually broken under the hood? What is your actual stack/workflow for pushing past that mid-project context degradation? Are you using spec-driven development (like custom system prompts, codebase indexing tools, or sub-agent architecture), or are you still dropping back into hand-coding the last 20%? Would appreciate any tips, workflow breakdowns, or brutal honesty. Cheers! Sidenote: if you guys have built any cool projects with AI, and are willing to share with me please feel free to :) I love stuff like that.
-
-6h ago
+🔗 [The Observer](https://observer.co.uk/news/technology/article/if-it-wasnt-for-chatgpt-my-brother-would-still-be-alive-inside-openais-safety-unit) • 18h ago
 
 ---
 
@@ -105,7 +97,15 @@ Hey everyone, I need a real sanity-check on my workflow, because I feel like I'm
 
 A Federal Reserve survey of 5,248 small businesses finds AI adopters are more likely to hire, while most firms remain early in implementation.
 
-🔗 [coffeecupai.com](https://coffeecupai.com/blog/fed-asked-5248-small-businesses-about-ai/) • 3m ago
+🔗 [coffeecupai.com](https://coffeecupai.com/blog/fed-asked-5248-small-businesses-about-ai/) • 5h ago
+
+---
+
+**[X/Twitter makes AI dev look effortless, but I keep burning tokens on unfinished projects. How are you actually shipping full apps?](https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/)**
+
+Hey everyone, I need a real sanity-check on my workflow, because I feel like I'm being scammed. 😅 To get some contacts every single day on X, Insta, and TikTok, I see people posting demo videos of insanely cool, bespoke software, sleek data visualizations, and full-stack side projects they supposedly "built in 2 hours completely with AI." It makes me hyped and really optimistic for the future, and for tech as a whole. Howevr when I actually sit down to build anything beyond a MVP or lightweight component, I hit an invisible wall or something…. Ok if I had to break it down, I’ll first get honey potted, or stuck in the honeymoon phase. I’ll start building with Claude and/or Codex (depending on the project but at this point they’re pretty much the same). I’ll go through the steps of setting up the scaffold, initial architecture, and base feature set goes insanely fast. Then boom at some point I’ll hit a wall; or like a 80/20 trap, I’ll try pushing the project into a complete, polished, end-to-end product, but it never gets there. Then I end up in a token burn hell where I’m just burning through tokens, and context windows while the project completely stalls on the roadmap. I'm following standard prompt engineering practices, using system prompts, modular files, etc., but it feels like the model gets "tired" or bogged down once the codebase grows past a certain complexity. For the folks in here who are actually shipping full applications to production using LLMs: Is everyone on social media just showing off slick 30-second prototypes that are actually broken under the hood? What is your actual stack/workflow for pushing past that mid-project context degradation? Are you using spec-driven development (like custom system prompts, codebase indexing tools, or sub-agent architecture), or are you still dropping back into hand-coding the last 20%? Would appreciate any tips, workflow breakdowns, or brutal honesty. Cheers! Sidenote: if you guys have built any cool projects with AI, and are willing to share with me please feel free to :) I love stuff like that.
+
+11h ago
 
 ---
 
@@ -125,35 +125,39 @@ Well, the last time I looked, how much RAM we have in our personal computers was
 
 The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.
 
-CNBC • 11h ago
+CNBC • 16h ago
 
 ---
 
 **[Opinion | Could A.I. Be Conscious? It’s Definitely Possible.](https://www.nytimes.com/2026/11/01/opinion/ai-consciousness-ethics.html)**
 
-The New York Times • 12h ago
+The New York Times • 17h ago
 
 ---
 
-**[OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses'](https://www.businessinsider.com/openai-ai-data-centers-rebrand-compute-campuses-midterms-2026-11)**
+**[Watch Howard Marks Says AI Stumbles Have Boosted Skepticism](https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video)**
 
-An OpenAI spokesperson said the term better represents the "role" of AI infrastructure.
-
-Business Insider • 1h ago
+Bloomberg • 54m ago
 
 ---
 
-**[Elon Musk says AI will make retirement savings irrelevant — 7 experts say save anyway](https://finance.yahoo.com/technology/ai/articles/elon-musk-says-ai-retirement-224700443.html)**
+**[How AI Is Changing the Homebuying Process, From House Hunting to Home Staging](https://www.yahoo.com/news/videos/ai-changing-homebuying-process-house-034447981.html)**
 
-"As tumultuous a period as there's been in human history."
+Yahoo • 1h ago
 
-Yahoo Finance • 59m ago
+---
+
+**[Another Chip Stock Selloff Shows How the AI Trade Is Getting Pickier](https://www.businessinsider.com/another-chip-stock-selloff-shows-how-the-ai-trade-is-getting-pickier-2026-11)**
+
+Hot Japanese chip stock Kioxia plunged as much as 17% after a disappointing earnings outlook.
+
+Business Insider • 19m ago
 
 ---
 
 **[China's robot makers have mastered the moves. Now comes the race for brains](https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/)**
 
-Reuters • 21m ago
+Reuters • 5h ago
 
 ---
 
@@ -161,7 +165,13 @@ Reuters • 21m ago
 
 Anthropic has added a new line to its AI usage policy: Users should not “engage in sustained and needless abusive or cruel behavior toward our models.”
 
-CNN • 6h ago
+CNN • 11h ago
+
+---
+
+**[The Smartest People in AI Believe This Is the World’s Most Important Chart](https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815)**
+
+WSJ • 2d ago
 
 ---
 
@@ -169,27 +179,13 @@ CNN • 6h ago
 
 A.I. is solving problems that stumped the field of math for decades. Mathematicians look to Terence Tao for guidance on their altered world.
 
-The New Yorker • 12h ago
-
----
-
-**[The Smartest People in AI Believe This Is the World’s Most Important Chart](https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815)**
-
-WSJ • 1d ago
+The New Yorker • 17h ago
 
 ---
 
 **[Hackers are running riot with AI. Its makers want to cash in](https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in)**
 
-The Economist • 2h ago
-
----
-
-**[AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says](https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb)**
-
-Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work
-
-The Guardian • 3h ago
+The Economist • 7h ago
 
 ---
 
@@ -201,23 +197,7 @@ The Guardian • 3h ago
 
 When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?
 
-⬆️ 664 • 💬 482 • 2d ago • [newsletter.signoz.io](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
-
----
-
-**[Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://news.ycombinator.com/item?id=50304122)**
-
-Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” He’s been given unlimited AI tokens and told to “go nuts.”
-
-⬆️ 311 • 💬 382 • 2d ago • [Fortune](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
-
----
-
-**[Proton's CEO Cancels AI 'Re-Interviews'](https://news.ycombinator.com/item?id=50307183)**
-
-The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.
-
-⬆️ 296 • 💬 254 • 2d ago • [404 Media](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
+⬆️ 666 • 💬 485 • 2d ago • [newsletter.signoz.io](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 
 ---
 
@@ -225,7 +205,23 @@ The move came after 404 Media published an investigation into how Proton CEO And
 
 One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…
 
-⬆️ 279 • 💬 218 • 17h ago • [Read the Tea Leaves](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+⬆️ 330 • 💬 250 • 22h ago • [Read the Tea Leaves](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+
+---
+
+**[Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://news.ycombinator.com/item?id=50304122)**
+
+Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” He’s been given unlimited AI tokens and told to “go nuts.”
+
+⬆️ 312 • 💬 384 • 2d ago • [Fortune](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
+
+---
+
+**[Proton's CEO Cancels AI 'Re-Interviews'](https://news.ycombinator.com/item?id=50307183)**
+
+The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.
+
+⬆️ 296 • 💬 256 • 2d ago • [404 Media](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
 
 ---
 
@@ -237,18 +233,34 @@ Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest
 
 ---
 
-**[Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](https://news.ycombinator.com/item?id=50322022)**
+**[AI delivers 'zero financial payoff' to most companies, Apollo economist says](https://news.ycombinator.com/item?id=50330456)**
 
-Air-gapped systems are physically separated from external networks, including the Internet. This isolation is achieved by keeping the air-gap computers disconnected from wired or wireless networks, preventing direct or remote communication with other devices or networks. Air-gap measures may be used in sensitive environments where security and isolation are critical to prevent private and confidential information leakage.
-  In this paper, we present an attack allowing adversaries to leak information from air-gapped computers. We show that malware on a compromised computer can generate radio signals from memory buses (RAM). Using software-generated radio signals, malware can encode sensitive information such as files, images, keylogging, biometric information, and encryption keys. With software-defined radio (SDR) hardware, and a simple off-the-shelf antenna, an attacker can intercept transmitted raw radio signals from a distance. The signals can then be decoded and translated back into binary information. We discuss the design and implementation and present related work and evaluation results. This paper presents fast modification methods to leak data from air-gapped computers at 1000 bits per second. Finally, we propose countermeasures to mitigate this out-of-band air-gap threat.
+"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
 
-⬆️ 179 • 💬 92 • 22h ago • [arXiv.org](https://arxiv.org/abs/2409.02292)
+⬆️ 209 • 💬 201 • 6h ago • [TechCrunch](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 
 ---
 
 **[Frontier Airlines Likely Breached](https://news.ycombinator.com/item?id=50327266)**
 
-⬆️ 160 • 💬 52 • 7h ago • [reddit.com](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
+⬆️ 191 • 💬 75 • 12h ago • [reddit.com](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
+
+---
+
+**[Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](https://news.ycombinator.com/item?id=50322022)**
+
+Air-gapped systems are physically separated from external networks, including the Internet. This isolation is achieved by keeping the air-gap computers disconnected from wired or wireless networks, preventing direct or remote communication with other devices or networks. Air-gap measures may be used in sensitive environments where security and isolation are critical to prevent private and confidential information leakage.
+  In this paper, we present an attack allowing adversaries to leak information from air-gapped computers. We show that malware on a compromised computer can generate radio signals from memory buses (RAM). Using software-generated radio signals, malware can encode sensitive information such as files, images, keylogging, biometric information, and encryption keys. With software-defined radio (SDR) hardware, and a simple off-the-shelf antenna, an attacker can intercept transmitted raw radio signals from a distance. The signals can then be decoded and translated back into binary information. We discuss the design and implementation and present related work and evaluation results. This paper presents fast modification methods to leak data from air-gapped computers at 1000 bits per second. Finally, we propose countermeasures to mitigate this out-of-band air-gap threat.
+
+⬆️ 188 • 💬 95 • 1d ago • [arXiv.org](https://arxiv.org/abs/2409.02292)
+
+---
+
+**[AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](https://news.ycombinator.com/item?id=50325662)**
+
+It is hoped game testing can provide insight into recent AI agent headlines, good and bad.
+
+⬆️ 161 • 💬 77 • 15h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
 
 ---
 
@@ -258,25 +270,19 @@ Air-gapped systems are physically separated from external networks, including th
 
 ---
 
-**[AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](https://news.ycombinator.com/item?id=50325662)**
-
-It is hoped game testing can provide insight into recent AI agent headlines, good and bad.
-
-⬆️ 142 • 💬 64 • 9h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
-
----
-
-**[It wasn't AI that flipped Proton's charge](https://news.ycombinator.com/item?id=50328488)**
-
-Proton's CEO called a request for security testing "loser thinking". Using AI to write code is fine, but for a privacy company, the guardrails around that code are the product.
-
-⬆️ 135 • 💬 79 • 4h ago • [blog.raed.dev](https://blog.raed.dev/posts/proton-loser-thinking/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[AI Panic Spreads as The Money Runs Out](https://www.youtube.com/watch?v=yhPhRxxuCRQ)**
+
+If you would like to support the Channel: https://www.buymeacoffee.com/JoeBlogs https://www.patreon.com/joeblogsYT YouTube ...
+
+📺 Joe Blogs
+
+👁️ 148K • 👍 4K • 💬 514 • ⏱️ 15:57 • 12h ago
+
+---
 
 **[Why Hasn’t The AI Bubble Burst (Yet)?](https://www.youtube.com/watch?v=7rtn4doHIuY)**
 
@@ -284,7 +290,7 @@ So... Why Isn't the AI Bubble Popping? In 2025, OpenAI lost about $1.60 for ever
 
 📺 MonkeyExplains
 
-👁️ 485K • 👍 10K • 💬 1K • ⏱️ 13:57 • 9h ago
+👁️ 655K • 👍 12K • 💬 2K • ⏱️ 13:57 • 14h ago
 
 ---
 
@@ -294,17 +300,7 @@ OpenAI's GPT and Anthropic's Claude just went to war in a massive AI agent exper
 
 📺 AI Revolution
 
-👁️ 80K • 👍 1K • 💬 134 • ⏱️ 13:08 • 22h ago
-
----
-
-**[Stock Market PANIC After AI Companies Report WORRYING Earnings](https://www.youtube.com/watch?v=upaSZ7QkgHo)**
-
-Google lost roughly $500 billion in market value, and warning signs of an economic collapse are piling up as companies pour ...
-
-📺 The Young Turks
-
-👁️ 222K • 👍 3K • 💬 748 • ⏱️ 13:55 • 1d ago
+👁️ 88K • 👍 1K • 💬 138 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -314,7 +310,7 @@ Amazon just spent more than $77 billion on AI and saw $42.4b in cash OUTFLOWS. A
 
 📺 Eurodollar University
 
-👁️ 150K • 👍 2K • 💬 392 • ⏱️ 18:55 • 1d ago
+👁️ 159K • 👍 2K • 💬 402 • ⏱️ 18:55 • 1d ago
 
 ---
 
@@ -324,17 +320,7 @@ Amazon just spent more than $77 billion on AI and saw $42.4b in cash OUTFLOWS. A
 
 📺 TheAIGRID
 
-👁️ 54K • 👍 686 • 💬 65 • ⏱️ 30:27 • 1d ago
-
----
-
-**[Jensen Huang Just Named the Next Wave of AI](https://www.youtube.com/watch?v=oeq8PziWTeo)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Jensen Huang says the chat window ...
-
-📺 Julia McCoy
-
-👁️ 194K • 👍 3K • 💬 280 • ⏱️ 11:48 • 2d ago
+👁️ 59K • 👍 736 • 💬 70 • ⏱️ 30:27 • 1d ago
 
 ---
 
@@ -344,7 +330,7 @@ Google is facing a massive AI dilemma. More than $500 billion has been wiped off
 
 📺 Firstpost
 
-👁️ 477K • 👍 2K • 💬 308 • ⏱️ 6:26 • 2d ago
+👁️ 478K • 👍 2K • 💬 311 • ⏱️ 6:26 • 2d ago
 
 ---
 
@@ -354,17 +340,27 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 111K • 👍 1K • 💬 300 • ⏱️ 25:01 • 20h ago
+👁️ 127K • 👍 1K • 💬 321 • ⏱️ 25:01 • 1d ago
 
 ---
 
-**[How People Are Faking Lamborghinis &amp; Rolexes Using AI! 🤯](https://www.youtube.com/watch?v=RdKxDw8FVDU)**
+**[Why AI Insiders Are Cashing Out](https://www.youtube.com/watch?v=cYSykNkq4lM)**
 
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://join.switchit.app/YT ...
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
-📺 Vaibhav Sisinty
+📺 Coin Bureau
 
-👁️ 61K • 👍 2K • 💬 153 • ⏱️ 1:28 • 19h ago
+👁️ 26K • 👍 483 • 💬 32 • ⏱️ 12:43 • 16h ago
+
+---
+
+**[China’s AI crash is warning sign for the AI bubble | Dean Baker](https://www.youtube.com/watch?v=yezPA8WJ5zM)**
+
+I'm going to take money from my left pocket, put it in the right pocket and get very rich that way. That doesn't work.” Senior ...
+
+📺 The Tech Report
+
+👁️ 206K • 👍 2K • 💬 502 • ⏱️ 26:05 • 1d ago
 
 ---
 
@@ -374,7 +370,7 @@ Writer: Brett Stelmaszek Editor: Catlin Stevenson Music by: @UFD-Music.
 
 📺 UFD Tech
 
-👁️ 338K • 👍 22K • 💬 2K • ⏱️ 0:49 • 9h ago
+👁️ 458K • 👍 27K • 💬 2K • ⏱️ 0:49 • 14h ago
 
 ---
 
@@ -390,7 +386,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 170,353 • ❤️ 4,294 • 15d ago
+⬇️ 170,353 • ❤️ 4,354 • 15d ago
 
 ---
 
@@ -402,7 +398,7 @@ LFM3-1.7B is a 1.73B parameter text model optimized for edge devices and local a
 
 `text-generation` `1.7B`
 
-⬇️ 37,568 • ❤️ 693 • 4d ago
+⬇️ 37,568 • ❤️ 716 • 4d ago
 
 ---
 
@@ -414,19 +410,7 @@ NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 4
 
 `automatic-speech-recognition` `33.7B`
 
-⬇️ 29,364 • ❤️ 596 • 3d ago
-
----
-
-**[Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)**
-
-*Nanbeige LLM Lab*
-
-Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic coding and professional coworker tasks, outperforming comparable open models on benchmarks like Terminal-Bench and JobBench. It's designed for complex coding, professional collaboration, and serves as a teacher model for distilling agentic capabilities into smaller models.
-
-`text-generation` `33.1B`
-
-⬇️ 15,795 • ❤️ 969 • 4d ago
+⬇️ 29,364 • ❤️ 610 • 3d ago
 
 ---
 
@@ -438,7 +422,7 @@ Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model 
 
 `image-text-to-text`
 
-⬇️ 4,576 • ❤️ 1,449 • 3d ago
+⬇️ 4,576 • ❤️ 1,455 • 3d ago
 
 ---
 
@@ -450,7 +434,19 @@ Unlimited-OCR-2 is a multilingual vision-language model for unlimited-horizon do
 
 `image-text-to-text` `3.3B`
 
-⬇️ 109,519 • ❤️ 515 • 3d ago
+⬇️ 109,519 • ❤️ 526 • 3d ago
+
+---
+
+**[Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)**
+
+*Nanbeige LLM Lab*
+
+Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic coding and professional coworker tasks, outperforming comparable open models on benchmarks like Terminal-Bench and JobBench. It's designed for complex coding, professional collaboration, and serves as a teacher model for distilling agentic capabilities into smaller models.
+
+`text-generation` `33.1B`
+
+⬇️ 15,795 • ❤️ 978 • 5d ago
 
 ---
 
@@ -462,7 +458,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,431,846 • ❤️ 10,218 • 21d ago
+⬇️ 2,431,846 • ❤️ 10,234 • 21d ago
 
 ---
 
@@ -474,7 +470,7 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 44,825 • ❤️ 475 • 2d ago
+⬇️ 44,825 • ❤️ 495 • 3h ago
 
 ---
 
@@ -486,7 +482,7 @@ Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, 
 
 `image-to-video` `33.1B`
 
-⬇️ 404 • ❤️ 308 • 3d ago
+⬇️ 404 • ❤️ 316 • 3d ago
 
 ---
 
@@ -498,7 +494,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 4,194 • ❤️ 297 • 3d ago
+⬇️ 4,194 • ❤️ 313 • 3d ago
 
 ---
 
@@ -514,7 +510,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 7 • 💬 2 • ⭐ 3,519 • 18d ago
+▲ 8 • 💬 2 • ⭐ 3,932 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -526,9 +522,21 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 161 • 💬 6 • ⭐ 119,380 • 22mo ago
+▲ 162 • 💬 6 • ⭐ 119,609 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 63 • 💬 4 • ⭐ 45,363 • 15mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -540,35 +548,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 84 • 💬 4 • ⭐ 21,794 • 24d ago
+▲ 85 • 💬 4 • ⭐ 21,895 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
-
----
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 62 • 💬 4 • ⭐ 44,937 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
-
-*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
-
-🏢 Edge0
-
-Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
-
-▲ 32 • 💬 9 • ⭐ 8,904 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
 ---
 
@@ -580,9 +562,37 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 103 • 💬 7 • ⭐ 30,222 • 4mo ago
+▲ 103 • 💬 7 • ⭐ 30,297 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
+
+*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
+
+🏢 Edge0
+
+Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
+
+▲ 32 • 💬 9 • ⭐ 8,935 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
+
+---
+
+**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
+
+*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
+
+🏢 University of California, Berkeley
+
+FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
+
+▲ 110 • 💬 2 • ⭐ 15,490 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
 ---
 
@@ -594,7 +604,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 HairDeck generates stylized hair cards and spring-bone animations as unordered token sets using a diffusion transformer, improving accuracy and speed over prior methods.
 
-▲ 23 • 💬 2 • ⭐ 563 • 4d ago
+▲ 26 • 💬 2 • ⭐ 563 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.40599) • [💻 code](https://github.com/hyz317/HairDeck) • [🔗 project](https://hyzcluster.github.io/HairDeck/)
 
@@ -625,18 +635,6 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 ---
 
-**[Xiaomi-OCR-0 Technical Report](https://huggingface.co/papers/2609.36136)**
-
-*Xin Chen, Anan Du, Feng Feng et al. (10 authors)*
-
-Xiaomi-OCR-0 is a compact vision-language model that unifies document parsing and OCR understanding through automated data synthesis, progressive training with text anchoring and reinforcement learning, and achieves state-of-the-art results on multiple benchmarks.
-
-▲ 12 • 💬 0 • ⭐ 567 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.36136) • [💻 code](https://github.com/SeerRay-Lab/Xiaomi-OCR-0) • [🔗 project](https://huggingface.co/spaces/SeerRay-Lab/Xiaomi-OCR-0)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -647,7 +645,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 14.1k • 🔱 1.4k • 3d ago
+⭐ 14.2k • 🔱 1.4k • 4d ago
 
 ---
 
@@ -657,7 +655,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 5.6k • 🔱 503 • 3h ago
+⭐ 5.7k • 🔱 512 • 8h ago
 
 ---
 
@@ -667,7 +665,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 5.1k • 🔱 1.3k • 6h ago
+⭐ 5.2k • 🔱 1.3k • 11h ago
 
 ---
 
@@ -677,7 +675,17 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 4.8k • 🔱 239 • 7h ago
+⭐ 5.0k • 🔱 253 • 12h ago
+
+---
+
+**[wangzan101/Mika](https://github.com/wangzan101/Mika)**
+
+An on-device AI agent for Android that operates apps and the web to get things done for you.
+
+`Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
+
+⭐ 4.2k • 🔱 804 • 9h ago
 
 ---
 
@@ -697,17 +705,7 @@ The open source AI video agent: turns any coding agent into a video agent, with 
 
 `TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 4.1k • 🔱 392 • 1d ago
-
----
-
-**[wangzan101/Mika](https://github.com/wangzan101/Mika)**
-
-An on-device AI agent for Android that operates apps and the web to get things done for you.
-
-`Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
-
-⭐ 3.8k • 🔱 695 • 4h ago
+⭐ 4.1k • 🔱 396 • 1d ago
 
 ---
 
@@ -717,7 +715,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 3.4k • 🔱 217 • 10d ago
+⭐ 3.5k • 🔱 217 • 10d ago
 
 ---
 
