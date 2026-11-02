@@ -8,35 +8,13 @@
       "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
       "url": "https://github.com/Zagitta/gpu-unlock",
       "preview_image": "https://opengraph.githubassets.com/4d44381103a947606a6023253fd6286b34b60f7afa3a43f5ad7742736e3f6c41/Zagitta/gpu-unlock",
-      "stars": 14316,
-      "stars_display": "14.3k",
-      "forks": 1391,
+      "stars": 14591,
+      "stars_display": "14.6k",
+      "forks": 1411,
       "forks_display": "1.4k",
       "language": "C",
       "topics": [],
       "updated_at": "2026-10-29T02:30:54Z"
-    },
-    {
-      "full_name": "rddmwmddr/android-ad-cleaner",
-      "name": "android-ad-cleaner",
-      "owner": "rddmwmddr",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/5119232?v=4",
-      "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "preview_image": "https://opengraph.githubassets.com/90ae0a75a3e9c38cd8d52a7d12f46bcd5561230371bacc791c758845c57ae397/rddmwmddr/android-ad-cleaner",
-      "stars": 5839,
-      "stars_display": "5.8k",
-      "forks": 525,
-      "forks_display": "525",
-      "language": "Python",
-      "topics": [
-        "adb",
-        "ai-agent",
-        "android",
-        "coloros",
-        "debloat"
-      ],
-      "updated_at": "2026-11-02T12:40:41Z"
     },
     {
       "full_name": "heydamir/unslop",
@@ -46,13 +24,35 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "preview_image": "https://opengraph.githubassets.com/2e19369f1c616da6622c8b971f339d5febe6ed41b9f04b0c64ca084a6de515b7/heydamir/unslop",
-      "stars": 5531,
-      "stars_display": "5.5k",
-      "forks": 273,
-      "forks_display": "273",
+      "stars": 6158,
+      "stars_display": "6.2k",
+      "forks": 318,
+      "forks_display": "318",
       "language": "JavaScript",
       "topics": [],
       "updated_at": "2026-11-01T16:46:10Z"
+    },
+    {
+      "full_name": "rddmwmddr/android-ad-cleaner",
+      "name": "android-ad-cleaner",
+      "owner": "rddmwmddr",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/5119232?v=4",
+      "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "preview_image": "https://opengraph.githubassets.com/90ae0a75a3e9c38cd8d52a7d12f46bcd5561230371bacc791c758845c57ae397/rddmwmddr/android-ad-cleaner",
+      "stars": 5891,
+      "stars_display": "5.9k",
+      "forks": 532,
+      "forks_display": "532",
+      "language": "Python",
+      "topics": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat"
+      ],
+      "updated_at": "2026-11-02T17:23:41Z"
     },
     {
       "full_name": "anhao/ai-pose-gallery-zh",
@@ -62,9 +62,9 @@
       "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "preview_image": "https://opengraph.githubassets.com/7d409f4bfe0a07d447b000e33967985618a71724e92b313dc5901a0015f05c2e/anhao/ai-pose-gallery-zh",
-      "stars": 5414,
-      "stars_display": "5.4k",
-      "forks": 1384,
+      "stars": 5478,
+      "stars_display": "5.5k",
+      "forks": 1394,
       "forks_display": "1.4k",
       "language": "TypeScript",
       "topics": [
@@ -74,7 +74,7 @@
         "gallery",
         "i18n"
       ],
-      "updated_at": "2026-11-01T17:31:04Z"
+      "updated_at": "2026-11-02T13:28:31Z"
     },
     {
       "full_name": "wangzan101/Mika",
@@ -84,10 +84,10 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "preview_image": "https://opengraph.githubassets.com/4870ca74c240f7e90589b47bd38147c836923264feaea374f51fb823186477f9/wangzan101/Mika",
-      "stars": 4908,
-      "stars_display": "4.9k",
-      "forks": 939,
-      "forks_display": "939",
+      "stars": 5234,
+      "stars_display": "5.2k",
+      "forks": 1007,
+      "forks_display": "1.0k",
       "language": "Kotlin",
       "topics": [
         "accessibility",
@@ -96,7 +96,29 @@
         "automation",
         "jetpack-compose"
       ],
-      "updated_at": "2026-11-01T19:10:15Z"
+      "updated_at": "2026-11-02T19:08:44Z"
+    },
+    {
+      "full_name": "openfilm/openfilm",
+      "name": "openfilm",
+      "owner": "openfilm",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/336853193?v=4",
+      "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
+      "url": "https://github.com/openfilm/openfilm",
+      "preview_image": "https://opengraph.githubassets.com/6004db075bb4e192996527b9322b422e36a974ad879c7ef819dc5d65335eef12/openfilm/openfilm",
+      "stars": 4270,
+      "stars_display": "4.3k",
+      "forks": 404,
+      "forks_display": "404",
+      "language": "TypeScript",
+      "topics": [
+        "ai-video",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "html"
+      ],
+      "updated_at": "2026-11-02T15:03:31Z"
     },
     {
       "full_name": "onehumanbeing/esp32-iphone-agent",
@@ -106,10 +128,10 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "preview_image": "https://opengraph.githubassets.com/6b52771731dc5a2e478f00d501e5ca69d9dedf14a7b8f516b1d9796faa736ab1/onehumanbeing/esp32-iphone-agent",
-      "stars": 4226,
+      "stars": 4236,
       "stars_display": "4.2k",
-      "forks": 567,
-      "forks_display": "567",
+      "forks": 568,
+      "forks_display": "568",
       "language": "C",
       "topics": [
         "ai-agent",
@@ -121,28 +143,6 @@
       "updated_at": "2026-10-28T07:40:06Z"
     },
     {
-      "full_name": "openfilm/openfilm",
-      "name": "openfilm",
-      "owner": "openfilm",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/336853193?v=4",
-      "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
-      "url": "https://github.com/openfilm/openfilm",
-      "preview_image": "https://opengraph.githubassets.com/6004db075bb4e192996527b9322b422e36a974ad879c7ef819dc5d65335eef12/openfilm/openfilm",
-      "stars": 4220,
-      "stars_display": "4.2k",
-      "forks": 402,
-      "forks_display": "402",
-      "language": "TypeScript",
-      "topics": [
-        "ai-video",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "html"
-      ],
-      "updated_at": "2026-10-31T17:59:51Z"
-    },
-    {
       "full_name": "Leonxlnx/earshot",
       "name": "earshot",
       "owner": "Leonxlnx",
@@ -150,10 +150,10 @@
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "preview_image": "https://opengraph.githubassets.com/bfb72f0aa533890323d43000bbc580bf8f78bf6c276176428d4d82d88c37de83/Leonxlnx/earshot",
-      "stars": 3492,
+      "stars": 3548,
       "stars_display": "3.5k",
-      "forks": 217,
-      "forks_display": "217",
+      "forks": 221,
+      "forks_display": "221",
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -172,10 +172,10 @@
       "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "url": "https://github.com/zhuyansen/new-term-radar",
       "preview_image": "https://opengraph.githubassets.com/ea3027e82ccd7734619d918ebd283cb88e54c18adb2852d9f1ddc7ab36614f09/zhuyansen/new-term-radar",
-      "stars": 2041,
+      "stars": 2049,
       "stars_display": "2.0k",
-      "forks": 623,
-      "forks_display": "623",
+      "forks": 625,
+      "forks_display": "625",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -187,32 +187,26 @@
       "updated_at": "2026-10-28T11:48:20Z"
     },
     {
-      "full_name": "deeplethe/solid-glass",
-      "name": "solid-glass",
-      "owner": "deeplethe",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/282846749?v=4",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "preview_image": "https://opengraph.githubassets.com/98d3dae214105fd74d91705218a9187da85ae5882ed117753060b1ef0d28441a/deeplethe/solid-glass",
-      "stars": 2031,
+      "full_name": "paipiange/nvzhuang",
+      "name": "nvzhuang",
+      "owner": "paipiange",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/133310917?v=4",
+      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "preview_image": "https://opengraph.githubassets.com/2c0406b26ce4bc3a4ac6277c1c3c3bb51e53bafcfa8675ee0a70648d5b2d51ed/paipiange/nvzhuang",
+      "stars": 2041,
       "stars_display": "2.0k",
-      "forks": 42,
-      "forks_display": "42",
-      "language": "TypeScript",
-      "topics": [
-        "agent-ui",
-        "ai",
-        "ai-agents",
-        "chat-ui",
-        "design-system"
-      ],
-      "updated_at": "2026-10-31T22:37:07Z"
+      "forks": 522,
+      "forks_display": "522",
+      "language": "Go",
+      "topics": [],
+      "updated_at": "2026-10-31T17:01:39Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-10-03",
   "days": 30,
   "limit": 10,
-  "total_count": 481194,
-  "fetched_at": "2026-11-02T13:09:21.358288+00:00"
+  "total_count": 488362,
+  "fetched_at": "2026-11-02T22:25:05.842576+00:00"
 }

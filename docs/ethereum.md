@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-02T13:10:05.891766+00:00'
+updated: '2026-11-02T22:25:46.278822+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 02, 2026 at 13:10 UTC  
+**Last Updated:** November 02, 2026 at 22:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,287.72
+### $2,252.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -3.0%  
-**30d:** -16.3%  
-**90d:** +19.6%  
-**1y:** -36.5%  
+**24h:** -0.8%  
+**7d:** -4.0%  
+**30d:** -17.1%  
+**90d:** +18.3%  
+**1y:** -37.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.77B
+**Market Cap:** $275.42B
 Rank #2
 
 **Circulating Supply:** 122,183,192 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.9%
+-54.4%
 
 **All-Time Low:** $0.43
-+526854.0%
++520472.6%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tickets and if anyone any single being can sponser or offer me that ticket please My profile is kidna ticket less i need that ticket 😭 FYI : I am a 3rd year Computer science engineering student at Mumbai University and ofc i have too many financial constraints to afford one
 
-7d ago
+8d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 9d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 10d ago
 
 ---
 
@@ -136,7 +136,7 @@ This is a repost from yesterdays Daily for better visibility. I made a thing tha
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 10d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 11d ago
 
 ---
 
@@ -144,7 +144,7 @@ The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 1
 
 I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
 
-10d ago
+11d ago
 
 ---
 
@@ -152,17 +152,11 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)**
+**[Elon Musk’s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html)**
 
-CoinDesk • 1d ago
+Elon Musk’s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ...
 
----
-
-**[Current price of Ethereum for MM-DD-YYYY](https://fortune.com/article/price-of-ethereum-11-02-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -170,21 +164,35 @@ Fortune • 1h ago
 
 XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a better chance of rebounding by 2031.
 
-24/7 Wall St. • 12h ago
-
----
-
-**[Elon Musk’s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html)**
-
-Elon Musk’s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ...
-
-Yahoo Finance • 4h ago
+24/7 Wall St. • 21h ago
 
 ---
 
 **[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rebound as November begins after a losing October](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-november-begins-after-a-losing-october-202611020358)**
 
-FXStreet • 9h ago
+FXStreet • 18h ago
+
+---
+
+**[Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)**
+
+CoinDesk • 3d ago
+
+---
+
+**[Current price of Ethereum for November 2, 2026](https://fortune.com/article/price-of-ethereum-11-02-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 10h ago
+
+---
+
+**[Vitalik is making private Ethereum payments without a crypto website](https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/)**
+
+Vitalik Buterin uses kohaku-cli for private Ethereum payments. Its local code, dependencies and signing permissions define the remaining trust decisions.
+
+CryptoSlate • 45m ago
 
 ---
 
@@ -192,37 +200,29 @@ FXStreet • 9h ago
 
 Trader Tardigrade reports Ethereum versus Bitcoin broke out of an inverse head and shoulders pattern on the 8-hour chart, flagging a major momentum shift...
 
-Blockchain News • 11h ago
+Blockchain News • 21h ago
 
 ---
 
-**[Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint](https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/)**
+**[THORChain Halts Swaps Across 10 Networks After Ethereum Reorg Exposes Bug](https://financefeeds.com/thorchain-halts-swaps-across-10-networks-after-ethereum-reorg-exposes-bug/)**
 
-Y Combinator is targeting crypto startups that can finance the AI boom, expand stablecoin banking, and build the financial infrastructure for autonomous agents.
+The incident began on October 31 at 11:34 UTC, when Ethereum replaced a recently produced block containing a 10 ETH deposit that THORChain had already
 
-CryptoSlate • 3d ago
-
----
-
-**[Bitcoin spot ETFs see $203M net outflows, Ethereum ETFs lose $432M](https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-october/)**
-
-Bitcoin spot ETFs saw $203M in weekly net outflows while Ethereum ETFs lost $432M, capping an October of steady Ether redemptions.
-
-Crypto Briefing • 9h ago
+FinanceFeeds • 6h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Despite Binance Hack; Analyst Warns History Points to ‘Signi](https://www.benzinga.com/crypto/cryptocurrency/26/11/62767403/bitcoin-ethereum-xrp-dogecoin-crypto-binance-hack)**
+**[Mercado Bitcoin Keeps Withdrawals Suspended, Identifies Incident Wallets](https://thedefiant.io/news/hacks/mercado-bitcoin-keeps-withdrawals-suspended-identifies-incident-wallets)**
 
-Benzinga • 11h ago
+Mercado Bitcoin identifies incident-linked wallets while deposits and withdrawals remain suspended. The exchange says customers suffered no losses.
+
+The Defiant • 6h ago
 
 ---
 
-**[US Crypto ETFs Record $815.8 Million in Outflows on October 30 as Bitcoin Funds Lead Selloff](https://financefeeds.com/us-crypto-etfs-record-815-8-million-in-outflows-on-october-30-as-bitcoin-funds-lead-selloff/)**
+**[Bitcoin Falls Below $77,000, Ethereum, XRP, Dogecoin Flat Ahead of Midterms](https://www.benzinga.com/crypto/cryptocurrency/26/11/62795952/bitcoin-falls-below-77000-ethereum-xrp-dogecoin-flat-ahead-of-midterms)**
 
-US spot crypto ETFs lost $815.8M on October 30: Bitcoin funds $643.3M, led by IBIT and FBTC, Ethereum $155.7M, capping a $2.16B October of outflows.
-
-FinanceFeeds • 2h ago
+Benzinga • 1h ago
 
 ---
 
@@ -230,23 +230,33 @@ FinanceFeeds • 2h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum&#39;s Bull Case Is Getting INSANE - Here Are 3 Reasons Why](https://www.youtube.com/watch?v=0JeoNGi7C_o)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 112 • 💬 79 • ⏱️ 47:29 • 2h ago
+
+---
+
+**[CRUCIAL XRP LEDGER SECURITY FLAW FOUND! Ethereum Was NOT Hacked!](https://www.youtube.com/watch?v=qWlCYaQ9RtQ)**
+
+CRUCIAL XRP LEDGER SECURITY FLAW FOUND! ETHEREUM IS BETTER? Hey babes, an XRP Ledger flaw was found that ...
+
+📺 CryptoWendyO
+
+👁️ 220 • 👍 36 • 💬 3 • ⏱️ 5:52 • 25m ago
+
+---
+
 **[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=IPWeLJ5RaZk)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 179 • 💬 87 • ⏱️ 23:22 • 8h ago
-
----
-
-**[Ethereum to $1,950? The $2,300 Warning 🚨](https://www.youtube.com/watch?v=q1AqepzGrAE)**
-
-Can Ethereum reclaim $2300—or is $1950 next? If $2300 acts as resistance, $1950 is the next area I'm watching. But a reclaim ...
-
-📺 Chart Champions
-
-👁️ 481 • 👍 30 • 💬 1 • ⏱️ 0:50 • 1h ago
+👁️ 13K • 👍 245 • 💬 85 • ⏱️ 23:22 • 18h ago
 
 ---
 
@@ -256,7 +266,35 @@ Ethereum is showing some upside momentum and is approaching the top of its chann
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 152 • 💬 7 • ⏱️ 6:40 • 8h ago
+👁️ 8K • 👍 195 • 💬 7 • ⏱️ 6:40 • 18h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 2nd of November](https://www.youtube.com/watch?v=7Y8G6r0ghxY)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 211 • 👍 2 • 💬 2 • ⏱️ 9:47 • 4h ago
+
+---
+
+**[Ethereum to $1,950? The $2,300 Warning 🚨](https://www.youtube.com/watch?v=q1AqepzGrAE)**
+
+Can Ethereum reclaim $2300—or is $1950 next? If $2300 acts as resistance, $1950 is the next area I'm watching. But a reclaim ...
+
+📺 Chart Champions
+
+👁️ 3K • 👍 61 • 💬 1 • ⏱️ 0:50 • 10h ago
+
+---
+
+**[ETHEREUM AND XRP ARE GOING TO ZERO #xrp #crypto #ethereum](https://www.youtube.com/watch?v=xuuJ_ceKMiE)**
+
+📺 CryptoWendyO
+
+👁️ 21K • 👍 753 • 💬 58 • ⏱️ 1:14 • 2d ago
 
 ---
 
@@ -266,25 +304,17 @@ Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free 
 
 📺 Milk Road
 
-👁️ 5K • 👍 68 • 💬 80 • ⏱️ 14:53 • 1d ago
+👁️ 6K • 👍 73 • 💬 77 • ⏱️ 14:53 • 1d ago
 
 ---
 
-**[ETHEREUM AND XRP ARE GOING TO ZERO #xrp #crypto #ethereum](https://www.youtube.com/watch?v=xuuJ_ceKMiE)**
+**[BITCOIN WARNING: Next Price Target Activated (Get Ready)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SK6JlCm4efY)**
 
-📺 CryptoWendyO
+BITCOIN WARNING: Next Price Target Activated (Get Ready)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-👁️ 20K • 👍 703 • 💬 50 • ⏱️ 1:14 • 1d ago
+📺 Crypto World
 
----
-
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=XzjhafP0MXw)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 181 • 💬 75 • ⏱️ 24:46 • 1d ago
+👁️ 2K • 👍 126 • 💬 65 • ⏱️ 16:35 • 2h ago
 
 ---
 
@@ -294,37 +324,7 @@ Crypto is doing better following a steep downtrend into a bear market, though as
 
 📺 Schwab Network
 
-👁️ 6K • 👍 36 • 💬 6 • ⏱️ 7:08 • 22h ago
-
----
-
-**[Ethereum | Ethereum Prediction | Nov 1 2026 | Ethereum Price Prediction | Ethereum Analysis Today](https://www.youtube.com/watch?v=6P1CxCcgsOA)**
-
-MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis videos immediately, not just the 1 that become ...
-
-📺 Forex Forecast | Elliott Wave Analysis ReadyForex
-
-👁️ 129 • 👍 2 • ⏱️ 5:25 • 1d ago
-
----
-
-**[BITCOIN BOUNCE: EXACT PRICE PREDICTION REVEALED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SHpaYE7lqyc)**
-
-BITCOIN BOUNCE: EXACT PRICE PREDICTION REVEALED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 233 • 💬 83 • ⏱️ 19:14 • 11h ago
-
----
-
-**[ETHEREUM: The Man Who Burned Millions to Warn the World](https://www.youtube.com/watch?v=flfhQnw13_Q)**
-
-Try NMN (Anti-aging & NAD+): (BIGGEST DEAL OF THE YEAR BUY ONE GET ONE FREE STOREWIDE + FREE NMNPROMO ...
-
-📺 Hidden AmuraKa
-
-👁️ 48K • 👍 1K • 💬 360 • ⏱️ 39:04 • 2d ago
+👁️ 7K • 👍 37 • 💬 6 • ⏱️ 7:08 • 1d ago
 
 ---
 
