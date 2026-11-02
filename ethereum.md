@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-02T04:47:30.913805+00:00'
+updated: '2026-11-02T13:10:05.891766+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 02, 2026 at 04:47 UTC  
+**Last Updated:** November 02, 2026 at 13:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,269.60
+### $2,287.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -2.1%  
-**30d:** -15.5%  
-**90d:** +20.7%  
-**1y:** -36.0%  
+**24h:** +0.5%  
+**7d:** -3.0%  
+**30d:** -16.3%  
+**90d:** +19.6%  
+**1y:** -36.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.13B
+**Market Cap:** $278.77B
 Rank #2
 
 **Circulating Supply:** 122,183,192 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.5%
+-53.9%
 
 **All-Time Low:** $0.43
-+531325.3%
++526854.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did I just do?", I end up explaining internal txns, token transfers, method IDs and why there's WETH in there. Etherscan is great if you know what you're looking at. For everyone else it's a wall of hex. So I built Simplorer. You open a transaction or an address and it tells you in one sentence what happened. Same swap, two views: Etherscan: https://etherscan.io/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer: https://simplorer.app/ethereum/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer says "0xc850…87b7 swapped 0.72 ETH for 1,378.06 USDT on Relay". Below that you see who sent and got what (part of it went through Uniswap) and the fee in ETH and dollars. A few things it does: - names the apps people actually use, a few hundred of them (Uniswap, Aave, Lido, 1inch, Curve, Pendle, OpenSea...) - approvals in plain words, like "allowed Uniswap to move any amount of its USDC", with a note on what that means and how to take it back - Safes and smart accounts show up as the account that acted, not as some contract call - bridges show where the coins went on the other side (Across, Stargate, LayerZero, CCTP) - fake tokens copying a real ticker and address poisoning transfers get a warning Most transactions from normal wallets come out as one clean sentence. If it can't name something it says "an app we don't know yet" instead of guessing. Data comes from Blockscout and a public node. No account, no ads. It's still in beta and I'm sure some transactions read weird. If you find one, send it to me. That's honestly the most useful feedback I can get.
 
-6d ago
+7d ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -104,7 +104,7 @@ I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tic
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+9d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9d ago
+10d ago
 
 ---
 
@@ -128,7 +128,7 @@ Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decouple
 
 This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!
 
-9d ago
+10d ago
 
 ---
 
@@ -152,11 +152,17 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[Ethereum ETFs Log Their Worst Month for Flows Since 2024 Launch](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-log-worst-month-041755795.html)**
+**[FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)**
 
-US spot Ethereum ETFs lost $1.61 billion in October, their worst month since launch, as ETH slips under a key level.
+CoinDesk • 1d ago
 
-Yahoo Finance • 30m ago
+---
+
+**[Current price of Ethereum for MM-DD-YYYY](https://fortune.com/article/price-of-ethereum-11-02-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -164,19 +170,29 @@ Yahoo Finance • 30m ago
 
 XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a better chance of rebounding by 2031.
 
-24/7 Wall St. • 4h ago
+24/7 Wall St. • 12h ago
 
 ---
 
-**[Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)**
+**[Elon Musk’s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html)**
 
-CoinDesk • 2d ago
+Elon Musk’s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ...
+
+Yahoo Finance • 4h ago
 
 ---
 
-**[Bitcoin Slides 4.7%, Ethereum Sheds 5.9% As Crypto Market Hit By Fed Caution, Binance Security Scare](https://www.businesstoday.com.my/2026/11/01/bitcoin-slides-4-7-ethereum-sheds-5-9-as-crypto-market-hit-by-fed-caution-binance-security-scare/)**
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rebound as November begins after a losing October](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-november-begins-after-a-losing-october-202611020358)**
 
-BusinessToday Malaysia • 1d ago
+FXStreet • 9h ago
+
+---
+
+**[Ethereum: Inverse Head and Shoulders Breakout vs Bitcoin](https://blockchain.news/flashnews/ethereum-inverse-head-shoulders-breakout-vs-bitcoin)**
+
+Trader Tardigrade reports Ethereum versus Bitcoin broke out of an inverse head and shoulders pattern on the 8-hour chart, flagging a major momentum shift...
+
+Blockchain News • 11h ago
 
 ---
 
@@ -188,37 +204,25 @@ CryptoSlate • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Despite Binance Hack; Analyst Warns History Points to ‘Signi](https://www.benzinga.com/crypto/cryptocurrency/26/11/62767403/bitcoin-ethereum-xrp-dogecoin-crypto-binance-hack)**
-
-Benzinga • 2h ago
-
----
-
 **[Bitcoin spot ETFs see $203M net outflows, Ethereum ETFs lose $432M](https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-october/)**
 
 Bitcoin spot ETFs saw $203M in weekly net outflows while Ethereum ETFs lost $432M, capping an October of steady Ether redemptions.
 
-Crypto Briefing • 47m ago
+Crypto Briefing • 9h ago
 
 ---
 
-**[FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Despite Binance Hack; Analyst Warns History Points to ‘Signi](https://www.benzinga.com/crypto/cryptocurrency/26/11/62767403/bitcoin-ethereum-xrp-dogecoin-crypto-binance-hack)**
 
-CoinDesk • 1d ago
-
----
-
-**[Crypto staking attracts more investors even as yields fall](https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields)**
-
-CoinDesk • 6d ago
+Benzinga • 11h ago
 
 ---
 
-**[Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'](https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market)**
+**[US Crypto ETFs Record $815.8 Million in Outflows on October 30 as Bitcoin Funds Lead Selloff](https://financefeeds.com/us-crypto-etfs-record-815-8-million-in-outflows-on-october-30-as-bitcoin-funds-lead-selloff/)**
 
-Bitmine Immersion Technologies kept up its unbroken buying streak this week, adding 27,562 Ethereum—worth roughly $74 million.
+US spot crypto ETFs lost $815.8M on October 30: Bitcoin funds $643.3M, led by IBIT and FBTC, Ethereum $155.7M, capping a $2.16B October of outflows.
 
-Decrypt • 1mo ago
+FinanceFeeds • 2h ago
 
 ---
 
@@ -226,13 +230,33 @@ Decrypt • 1mo ago
 
 ## YouTube Videos: "ethereum"
 
-**[Schwab IMPACT 2026: Bitcoin, Ethereum Bulls Need &quot;New Narrative&quot;](https://www.youtube.com/watch?v=HzR1bo9RUr0)**
+**[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=IPWeLJ5RaZk)**
 
-Crypto is doing better following a steep downtrend into a bear market, though as @CharlesSchwab's Jim Ferraioli notes, that ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Schwab Network
+📺 Crypto Nutshell
 
-👁️ 5K • 👍 34 • 💬 6 • ⏱️ 7:08 • 14h ago
+👁️ 7K • 👍 179 • 💬 87 • ⏱️ 23:22 • 8h ago
+
+---
+
+**[Ethereum to $1,950? The $2,300 Warning 🚨](https://www.youtube.com/watch?v=q1AqepzGrAE)**
+
+Can Ethereum reclaim $2300—or is $1950 next? If $2300 acts as resistance, $1950 is the next area I'm watching. But a reclaim ...
+
+📺 Chart Champions
+
+👁️ 481 • 👍 30 • 💬 1 • ⏱️ 0:50 • 1h ago
+
+---
+
+**[Ethereum Bounces From Major Support. Is the Low In?](https://www.youtube.com/watch?v=0FRKySfUK9A)**
+
+Ethereum is showing some upside momentum and is approaching the top of its channel. Here is what would confirm a low, and ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 152 • 💬 7 • ⏱️ 6:40 • 8h ago
 
 ---
 
@@ -242,7 +266,7 @@ Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free 
 
 📺 Milk Road
 
-👁️ 5K • 👍 61 • 💬 74 • ⏱️ 14:53 • 15h ago
+👁️ 5K • 👍 68 • 💬 80 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -250,17 +274,7 @@ Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free 
 
 📺 CryptoWendyO
 
-👁️ 18K • 👍 679 • 💬 49 • ⏱️ 1:14 • 1d ago
-
----
-
-**[XRP HYPE 🚨 I AM FINISHED (Bitcoin Ethereum)](https://www.youtube.com/watch?v=gD77sM3hzFc)**
-
-Save 40% code MOE is back!* ➡https://join.stockmoeacademy.com/join-page *   FREE month of Earner Plus + 12 free fractional ...
-
-📺 Stock Moe
-
-👁️ 16K • 👍 465 • 💬 52 • ⏱️ 12:04 • 10h ago
+👁️ 20K • 👍 703 • 💬 50 • ⏱️ 1:14 • 1d ago
 
 ---
 
@@ -270,27 +284,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 176 • 💬 74 • ⏱️ 24:46 • 1d ago
+👁️ 12K • 👍 181 • 💬 75 • ⏱️ 24:46 • 1d ago
 
 ---
 
-**[BITCOIN BOUNCE: EXACT PRICE PREDICTION REVEALED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SHpaYE7lqyc)**
+**[Schwab IMPACT 2026: Bitcoin, Ethereum Bulls Need &quot;New Narrative&quot;](https://www.youtube.com/watch?v=HzR1bo9RUr0)**
 
-BITCOIN BOUNCE: EXACT PRICE PREDICTION REVEALED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Crypto is doing better following a steep downtrend into a bear market, though as @CharlesSchwab's Jim Ferraioli notes, that ...
 
-📺 Crypto World
+📺 Schwab Network
 
-👁️ 2K • 👍 126 • 💬 52 • ⏱️ 19:14 • 3h ago
-
----
-
-**[RIPPLE XRP: RLUSD JUST HIT COINBASE, BUT 6 IN 10 OF ITS DOLLARS LIVE ON ETHEREUM. HERE&#39;S WHY…](https://www.youtube.com/watch?v=0r3q8Tv9ZIU)**
-
-Join Our Private Intelligence Network Here: https://join.altcoinpro.com/4a78206c Put Your XRP To Work Here: ...
-
-📺 BULLRUNNERS
-
-👁️ 3K • 👍 63 • 💬 8 • ⏱️ 16:01 • 1d ago
+👁️ 6K • 👍 36 • 💬 6 • ⏱️ 7:08 • 22h ago
 
 ---
 
@@ -300,27 +304,27 @@ MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis vi
 
 📺 Forex Forecast | Elliott Wave Analysis ReadyForex
 
-👁️ 64 • 👍 2 • ⏱️ 5:25 • 17h ago
+👁️ 129 • 👍 2 • ⏱️ 5:25 • 1d ago
 
 ---
 
-**[ONE MORE LOWER LOW FOR ETH BEFORE UP!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=6U3l8Lf81uY)**
+**[BITCOIN BOUNCE: EXACT PRICE PREDICTION REVEALED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SHpaYE7lqyc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+BITCOIN BOUNCE: EXACT PRICE PREDICTION REVEALED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 605 • 👍 15 • ⏱️ 4:41 • 16h ago
+👁️ 9K • 👍 233 • 💬 83 • ⏱️ 19:14 • 11h ago
 
 ---
 
-**[🚨 ETHEREUM’S WORST NIGHTMARE: XRP!](https://www.youtube.com/watch?v=3lZGl5i5bCI)**
+**[ETHEREUM: The Man Who Burned Millions to Warn the World](https://www.youtube.com/watch?v=flfhQnw13_Q)**
 
-ETHEREUM'S WORST NIGHTMARE: XRP! Uphold | Trade, Spend & Earn XRP ➖ US Website: ...
+Try NMN (Anti-aging & NAD+): (BIGGEST DEAL OF THE YEAR BUY ONE GET ONE FREE STOREWIDE + FREE NMNPROMO ...
 
-📺 Crypto Sensei
+📺 Hidden AmuraKa
 
-👁️ 3K • 👍 98 • 💬 33 • ⏱️ 1:38 • 2d ago
+👁️ 48K • 👍 1K • 💬 360 • ⏱️ 39:04 • 2d ago
 
 ---
 
