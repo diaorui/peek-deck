@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-02T04:47:30.916656+00:00'
+updated: '2026-11-02T13:10:05.895404+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 02, 2026 at 04:47 UTC  
+**Last Updated:** November 02, 2026 at 13:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hello, Today we're doing a big release for Reachy Mini. It mainly contains three
 
 https://pollen-robotics.com/reachy-mini/#level-up From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2115764335498965468
 
-3d ago
+4d ago
 
 ---
 
@@ -92,7 +92,7 @@ Mino's software stack is based on ROS 2. We both went to the ROS conference (ROS
 
 Lamp's first commit was on 24 March. October has been the busiest month since: 4,092 commits on the main development branch so far, more than double April, the previous high at 1,615. The two busiest weeks ever were the last two. In the last post I said the hardware stays as it is while we focus on production. That hasn't changed. Everything below is software, plus the work needed to build many lamps instead of one. 1. A way to program it Someone asked in the last thread whether you can buy the lamp and change it with Claude Code. There's now a documented path for that. docs/develop.md takes about 10 minutes: a fake lamp that runs on your laptop, so you don't need the hardware, Python and JavaScript SDKs, pairing, and lamp-mcp. Skills moved to format 2. You check a skill, push it, sign it with your own key, and share it. Lamp refuses a package that is unsigned, changed, or renamed. 2. Knowing who said what Lamp now ties each line to the face and voice that said it and keeps each person's memory separate. If you talk to it before it recognizes you, those lines are attached to you once it does. It only keeps what you said about yourself. Not its own words, not your questions. "Forget everything" now asks once and runs only on the same person's yes. Forgetting one specific thing went from 9 s to under 400 ms on a 10 MB memory store. How we trained our Lamp in the office 3. Camera permissions per skill A skill gets the camera image only after the owner allows that specific skill. Checking whether someone is in the room is a separate, smaller permission that doesn't include the image. Installing a skill by hand in place of a Store skill removes the permission. Onboarding also asks once whether Lamp may notice facial expressions, and stores only a yes. 4. Giving way to a hand Last time someone asked whether the STS3215s give real position feedback. They do, and Lamp now uses it to tell a push from a fault. If a joint is carried away from its goal, Lamp treats it as a hand, stops what it was doing, and doesn't look around again for 30 s unless asked. Onboarding has a step for this: hold the base, tilt the head, let go when told. If an arm strains three times, Lamp sits down, rests for 30 minutes, then gets back up. EDIT: I tested a demo build, this feature is still on local branches, not fully public on the repo yet 5. Skills don't touch hardware · New lamps calibrate their servos at the factory before the first run · A new Orange Pi image boots straight into setup · lampOS 0.0.4 and 0.0.5 shipped on 22 Oct, including a fix for a button that could get stuck in a held state · The Fusion 360 file for the current body is in the repo. 5. Smaller changes · Speech starts streaming within 400 ms of the first part of an answer · The evening glow stays at least one level below your own light · "Tap to talk" is now "Press to talk". Not Done Yet Naming two people in the same room, add-ons, and ignoring lines meant for someone else in a busy room are built but off by default until they pass on real lamps. Mood reading is at 39% on our internal tracker, and we don't count it as done. a fleet of Lamps
 
-4d ago
+5d ago
 
 ---
 
@@ -100,7 +100,7 @@ Lamp's first commit was on 24 March. October has been the busiest month since: 4
 
 https://preview.redd.it/6luau7aazcyh1.jpeg?width=600&format=pjpg&auto=webp&s=3582a461288ba2fa664509463ce37253f4275527 The OpenMV AE3 is a small camera that integrates both a global shutter sensor and an IMU. It can be programmed using Python scripts. I created a small script and modified firmware that sync the camera’s exposure with a specific IMU measurement, enabling better visual-inertial odometry as described in Nikolic et al., “A Synchronized Visual-Inertial Sensor System with FPGA Pre-Processing for Accurate Real-Time SLAM,” ICRA 2014. The firmware change adds a shared clock between the two CPU cores. The IMU runs at 208 Hz, and I trigger a camera exposure at every 10th IMU measurement, which gives about 20 FPS. Code: https://github.com/chobitsfan/openmv_img_imu Test flights with Kimera-VIO: Outdoor flight at 3 m/s: https://youtu.be/SfjxIDYtIhU Indoor flight: https://youtu.be/Cprryyq9pao
 
-3d ago
+4d ago
 
 ---
 
@@ -116,33 +116,33 @@ I kept seeing the same questions in LeRobot threads: does SmolVLA run on a Koch 
 
 ## Google News: "robotics"
 
-**[China's robot makers have mastered the moves. Now comes the race for brains](https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/)**
-
-Reuters • 5h ago
-
----
-
 **[Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores](https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/)**
 
 A report said the company is already working on the second version that’s codenamed Max 2.
 
-Engadget • 11h ago
+Engadget • 19h ago
 
 ---
 
-**[China is planning to send AI and deep-sea robots on a hunt for its ancient past](https://interestingengineering.com/culture/china-plan-ai-deep-sea-robots-archaeology)**
+**[Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push](https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push)**
 
-China's archaeological ambitions go beyond history, with a five-year plan to give its civilization a stronger global voice.
+Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...
 
-Interesting Engineering • 15h ago
+The Information • 1d ago
 
 ---
 
-**[SK Telecom and KT Develop AI 'Brains' for Robots](https://www.chosun.com/english/industry-en/2026/11/02/BPYFVWHDSZGVLMJOOAJXNIOV5A/)**
+**[Meta builds humanoid prototype in three months to explore home tasks](https://interestingengineering.com/ai-robotics/meta-develops-humanoid-robot)**
 
-SK Telecom and KT Develop AI Brains for Robots South Korean telecoms expand into robot AI development, enhancing learning and operations through collaborations
+Meta and Fourier develop a humanoid robot prototype as the tech giant explores AI-powered home robotics.
 
-조선일보 • 1h ago
+Interesting Engineering • 4h ago
+
+---
+
+**[China's robot makers have mastered the moves. Now comes the race for brains](https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/)**
+
+Reuters • 14h ago
 
 ---
 
@@ -150,39 +150,7 @@ SK Telecom and KT Develop AI Brains for Robots South Korean telecoms expand into
 
 Chinese AI company DeepSeek estimates that people can effectively supervise only three to five active AI agent sessions at a time.
 
-Interesting Engineering • 10h ago
-
----
-
-**[Betting on AI and robotics, Dyson opens Glilot flagship store in Israel](https://www.jpost.com/business-and-innovation/article-913442)**
-
-Dyson robotics engineer Guy Turner says the company’s next chapter will focus on machines that can sense, perceive, and solve problems independently
-
-The Jerusalem Post • 20h ago
-
----
-
-**[Science Spooktacular Returns to Elkhart County 4-H Fairgrounds for Halloween](https://wsbt.com/news/local/science-spooktacular-returns-to-elkhart-county-4-h-fairgrounds-for-halloween-robotics-engineering-technology-experiments-interactive-education-creativity-discovery-innovation-carnival-activities-organizations-families)**
-
-No tricks, just treats, robots and science at the Elkhart County Fairgrounds.E-3 Robotics Center invited families to its free Science Spooktacular event, featur
-
-WSBT • 1d ago
-
----
-
-**[​Factory robot maker opens Madison Heights HQ to get closer to Detroit automakers​](https://www.crainsdetroit.com/manufacturing-logistics/cdb-ati-robotics-opens-madison-heights-20261029/)**
-
-Ati Robotics is betting that proximity to Detroit’s automakers and suppliers will position it as a frontrunner in the future of factory innovation.
-
-Crain's Detroit • 2d ago
-
----
-
-**[South Korea's HD Hyundai deepens physical AI ties with Palantir](https://www.upi.com/Top_News/World-News/2026/11/01/hd-hyundai-robotics-physical-ai-palantir/5911793586624/)**
-
-HD Hyundai Robotics expands physical AI work with Palantir after using AI agents to cut average project completion time from 21.5 to 7.9 days.
-
-upi • 2h ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -190,7 +158,35 @@ upi • 2h ago
 
 VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem.
 
-The Robot Report • 14h ago
+The Robot Report • 23h ago
+
+---
+
+**[Laden with eggs, robots race up sacred Chinese mountain](https://techxplore.com/news/2026-11-laden-eggs-robots-sacred-chinese.html)**
+
+Tech Xplore • 3h ago
+
+---
+
+**[47 Companies Are Mentioning Humanoid Robots in SEC Filings. History Says That's a Red Flag](https://www.inc.com/nick-hobson/47-companies-are-mentioning-humanoid-robots-in-sec-filings-history-says-thats-a-red-flag/91426960)**
+
+SEC filings show a massive surge in companies mentioning "humanoid robots." History—and bubble psychology—suggest investors should look past the hot words.
+
+Inc.com • 16h ago
+
+---
+
+**[Halloween robotics competition to take over Wayne High School](https://www.wane.com/news/local-news/halloween-robotics-competition-to-take-over-wayne-high-school/)**
+
+WANE 15 • 2d ago
+
+---
+
+**[The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.](https://www.fool.com/investing/2026/11/01/the-first-us-humanoid-robot-stock-starts-trading-i/)**
+
+Like so many other stocks of new cutting-edge companies, the hype surrounding this one is already uncomfortably thick.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -198,13 +194,23 @@ The Robot Report • 14h ago
 
 ## YouTube Videos: "robotics"
 
-**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
+**[This Cute Robot Has TWO NVIDIA Computers Inside 🤯#nvidia #robot](https://www.youtube.com/watch?v=EaWBrZ4qL2M)**
 
-OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
+Meet Blue — this little robot is showing off some seriously impressive technology! NVIDIA's CEO demonstrates real-time ...
 
-📺 MACHINEKIND
+📺 VisionX Lab
 
-👁️ 56K • 👍 677 • 💬 51 • ⏱️ 13:33 • 5d ago
+👁️ 276K • 👍 8K • 💬 318 • ⏱️ 0:58 • 4d ago
+
+---
+
+**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
+
+I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
+
+📺 SECTOR 07
+
+👁️ 30K • 👍 756 • 💬 76 • ⏱️ 18:03 • 1d ago
 
 ---
 
@@ -214,75 +220,37 @@ Realbotix just unveiled its new humanlike AI robots, and they're getting disturb
 
 📺 MACHINEKIND
 
-👁️ 20K • 👍 393 • 💬 53 • ⏱️ 14:21 • 1d ago
+👁️ 22K • 👍 437 • 💬 58 • ⏱️ 14:21 • 1d ago
 
 ---
 
-**[Realbotix has unveiled a new line of highly realistic robots designed for daily human connection.](https://www.youtube.com/watch?v=AAJ7bXpuT28)**
+**[The law isn&#39;t ready for robots | DW News](https://www.youtube.com/watch?v=PBtpOeNrHZc)**
 
-The newly announced Echo humanoid robots come in both tabletop and full body models, featuring proprietary silicone skin for ...
+A robot allegedly harassed a 16-year-old girl on a German street, but you can't put a machine on trial. So who's responsible: the ...
 
-📺 Cybernews
+📺 DW News
 
-👁️ 144K • 👍 181 • 💬 80 • ⏱️ 0:21 • 5d ago
-
----
-
-**[This Creepy Robot Mouth Was Actually Built to Help People  #art #robot #Japan #didyouknow](https://www.youtube.com/watch?v=yNa2tuqQtas)**
-
-This bizarre-looking machine is a talking and singing robotic mouth developed by Professor Hideyuki Sawada and researchers at ...
-
-📺 Tale Twine
-
-👁️ 65K • 👍 401 • 💬 59 • ⏱️ 0:06 • 5d ago
+👁️ 23K • 👍 909 • 💬 80 • ⏱️ 1:46 • 1d ago
 
 ---
 
-**[Robots Going Completely Wrong Caught On Camera - Part 3](https://www.youtube.com/watch?v=zrINyrKNY7w)**
+**[Battle on Mount Taishan: Humanoid robots stumble on steep steps as robot dog climbs with ease](https://www.youtube.com/watch?v=0ACbUUld90U)**
 
-Original video https://youtu.be/wcOZklEXzd8?is=NC_9xNxs204MmtEs.
+The inaugural China Media Group (CMG) World Robot Mount Taishan Climbing Competition kicked off on November 2 in Tai'an, ...
 
-📺 Jamel_AKA_Jamal
+📺 CGTN
 
-👁️ 90K • 👍 1K • 💬 254 • ⏱️ 13:00 • 1d ago
-
----
-
-**[American Engineers Tore Down China&#39;s $16,000 Female Robot - What They Found Inside Shocked Them](https://www.youtube.com/watch?v=zrtksbBud6k)**
-
-📺 Alex Tech Review
-
-👁️ 75K • 👍 4K • 💬 159 • ⏱️ 23:34 • 4d ago
+👁️ 1K • 👍 37 • 💬 2 • ⏱️ 0:28 • 1h ago
 
 ---
 
-**[Next Gen Atlas AI Robot (by Boston Dynamics) can do what humans do - World Premiere](https://www.youtube.com/watch?v=6a4Lli8fL9Q)**
+**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
 
-Discover the all new Boston Dynamics Atlas robot, featuring advanced AI, electric mobility, powerful robotic hands and industrial ...
+OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
 
-📺 REC Anything
+📺 MACHINEKIND
 
-👁️ 44K • 👍 294 • 💬 30 • ⏱️ 11:01 • 5d ago
-
----
-
-**[Unitree H2-X: Kung Fu Robot Meets Reality 🤖 #robotics](https://www.youtube.com/watch?v=hTTC9md29YQ)**
-
-Unitree H2-X can pull off spectacular kung fu stunts. But what happens when the demo leaves the promo video? We break ...
-
-📺 Ashish Decodes
-
-👁️ 183K • 👍 5K • 💬 71 • ⏱️ 1:39 • 6d ago
-
----
-
-**[NVIDIA Isaac GR00T Reference Humanoid Robot First Look](https://www.youtube.com/watch?v=P_VFdI1Yaq0)**
-
-NVIDIA's Isaac GR00T Reference Humanoid Robot brings advanced artificial intelligence, 75 degrees of freedom, and ...
-
-📺 DPCcars
-
-👁️ 95K • 👍 372 • 💬 60 • ⏱️ 4:22 • 6d ago
+👁️ 58K • 👍 687 • 💬 51 • ⏱️ 13:33 • 5d ago
 
 ---
 
@@ -292,7 +260,35 @@ What does homework look like in 2026? A robotic pen plotter uses a mechanical ar
 
 📺 Nexio Core
 
-👁️ 331K • 👍 2K • 💬 62 • ⏱️ 0:06 • 2d ago
+👁️ 364K • 👍 3K • 💬 69 • ⏱️ 0:06 • 2d ago
+
+---
+
+**[I Built an Oreo for BattleBots. It Cant Even Roll #BattleBots #Robotics #3DPrinting #EngineeringFail](https://www.youtube.com/watch?v=19chwWefbrg)**
+
+📺 It's on my MIND
+
+👁️ 26K • 👍 1K • 💬 81 • ⏱️ 0:57 • 1d ago
+
+---
+
+**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
+
+Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
+
+📺 History Seeker
+
+👁️ 82K • 👍 1K • 💬 53 • ⏱️ 0:09 • 2d ago
+
+---
+
+**[Robots are getting Terrifyingly Realistic.](https://www.youtube.com/watch?v=3Q9-rTCBMwE)**
+
+scientists and engineers are pushing the boundaries of technology by developing humanoid robots with terrifyingly accurate ...
+
+📺 INTERCEPTOR
+
+👁️ 123K • 👍 1K • 💬 74 • ⏱️ 0:20 • 6d ago
 
 ---
 

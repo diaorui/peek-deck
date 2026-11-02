@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "The biggest question about Binance bitcoin heist: How much AI was involved?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUFCM2ZaTHF0akYwUHlQOVg1WFVyd0RjY3pWcmtCbWdMOE9OWkxhODh5Q040VjlaRnZvMkZLYXlOTndpX05nQ0xEQ19iNUZlUFcxZnY3M1A0WWpWWDk3X2FpRklPZUVzdXlqUkNLR280TEIwRkhFRXZWUXlkWXNCS3dkdjhmMHF4cFZCWnRRaG84V1RMOEI1TEFVMVo4cnlHWWdlWG5HQUNFMHEwVFBkOVJieUdEQWVLLXNtdXBnQmFYMHlsNTNLUmhuQThTZw?oc=5",
-      "pub_date": 1793440800.0,
-      "article_url": "https://finance.yahoo.com/technology/article/the-biggest-question-about-binance-bitcoin-heist-how-much-ai-was-involved-100000500.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/09a8718b31f00f1c07be37bf9fe280234b1762089a1ca27c89910074c0b87200/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F18a30b76-7cfc-479a-a6dd-67d0cd442c58",
-      "description": "There are hundreds of questions about the hack that stole over $6 billion of bitcoin from Binance. But most importantly is whether AI was involved. The answer could reshape a lot of things."
+      "headline": "Bitcoin\u2019s Resilience After Binance Hack Masks Market Jitters",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON015ekNBYXdIZHd2dExpZHUxWW9VcTAyWDFjREtEWWRHcG5STzV5MVdkdjRqdVIyT01jak9Cek1vVE1Rb2w2QW4ydzRYak51X1J5anRfaEh3enVhVGUyZFR4emgySTBhUFJsWG84TGdlVlptanlwckdmbk9aR2cyYjlsRHBQYVRFdG1ENEFUdG1YQ3daZkxJRDB0WnNTQmpfa0ZXWlRQNTlnSGI4dmtCOA?oc=5",
+      "pub_date": 1793606471.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/bitcoin-s-resilience-after-binance-hack-masks-market-jitters",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
@@ -25,22 +25,32 @@
       "description": "The first real test of how Bitcoin ETF investors would react to the largest crypto hack in history came back red."
     },
     {
-      "headline": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "headline": "Bitcoin's 'volatility curve' has a midterm bump: Crypto Daily",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQME5DUU5SejZHZWN0NV83VTctWkFaSXB4dmFHWXY0eHBGMm1udzJYbnk0QXlpMnZ3NGZKR3ZaTkhlRjBpTTduT3FwM1RucGxyeWhaMWNEaE5tZzFGcW5mOVBIVmZMNTFleU55OXIwV1lZWXNOMGt1X0pnbEY1Mk5Qb2JpY0RjNklzbTNOR2toT2lra2hQTTAya2xmeDVzUlZjd2Y0dFpBQWtZZVptVFZ6a3g5RXZRYTdyOE1TMXotaw?oc=5",
-      "pub_date": 1793594520.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2hyTDN5bFdKV2F6Rk5mZ1NndjF5akdrbTJPSXpVTnVJTTBSWkRFQjlzVnlQQ09yeDI2S290a3hhdmZpZ2d2cmd6Q1B5Q0RjbVo0OWZzYmdmRmFGQjZ2UmZFamwxd1FzaloyQmc5S3B0YndlbTVOdmRaWFlhekxScUVGLVg1aTlHanJGMjFOSXk3VDNleXJz?oc=5",
+      "pub_date": 1793622617.0,
+      "article_url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
       "image": null,
       "description": null
     },
     {
-      "headline": "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+      "headline": "Dollar pulls back ahead of US midterms; bitcoin stabilises after crypto heist",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
       "pub_date": 1793581020.0,
       "article_url": "https://www.reuters.com/world/asia-pacific/dollar-rangebound-ahead-us-midterms-bitcoin-reels-crypto-heist-2026-11-02/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why Bitcoin, XRP Are Shrugging Off the $6 Billion Binance Hack",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTldJNXpLN1NHNmRIWkgtYzBBV0xhcGw3UHFfcERCcXIzRkM5d3ZCUk5hODJtWnhNd09nQXFJcWF6UTNXZnRtZm1qcmxPNXd1NkNETmxFQldrMjBScTBmakhBZWZPVF80VVRCcVAtYkFsdzlNdnQzRXFFRDNVMlZsY0ljd3RYZw?oc=5",
+      "pub_date": 1793621460.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-crypto-binance-hack-cde313ee",
       "image": null,
       "description": null
     },
@@ -55,6 +65,26 @@
       "description": "After two straight losing Octobers and a historic breach at the world's largest crypto exchange, Bitcoin heads into November facing a gauntlet of make-or-break dates that could send it soaring past $86,000 or spiraling toward levels not seen since summer."
     },
     {
+      "headline": "Strategy's Michael Saylor Blames These 3 Factors for Bitcoin's Recent Sluggish Performance. The Most Important Is Treasury Yields.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMU5CS196cnBFOThNOENDR292bmtueUxqOEZrY1p2RXBibEhoMGhlS1djRXNPTDdfeDF3UTVFUUJUMjlWd3BIX3lzTk9HZ21CS2cwcFBuQlhuZXU0ZzZKaVI3OUxrTVpyS3FNYi1rVTZVU1JBT3otYXhiNVRoMzBGYmp3RlJWQVZ4aFdCUGVtU2NBeEduR2k4dA?oc=5",
+      "pub_date": 1793617200.0,
+      "article_url": "https://www.fool.com/investing/2026/11/02/strategys-michael-saylor-blames-these-3-factors-fo/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892054%2Fbtcmstr.jpg&w=1200&op=resize",
+      "description": "When safe investments yield more, riskier investments aren't as attractive."
+    },
+    {
+      "headline": "Bitcoin, Gold, Silver & Stocks Face a Market-Wide Sell-Off: Why Is Everything Falling at Once?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWk2YzBfM0hrS1lQTjMxUG4xeUtkajVHZU1yWTFIWmgydHhqby11aEZNZ01oSlBEM1A2dksyZFVsbWs4QlRrME04Q3JSdG53QjRGSXZpelVTc2NrSGlpcWM5OXlhckhNQ1FIbFU4OVVvZjdGUTl2cnJ0ZjFLYm1QSHhxZl9pWmZ0R2JZODdQdUpmVFM0bTRzejQ4bEdJSFZ2ZTJuWm9oaWJFZXNqRW83YXA2SHo2c2M5VWgyOG5uSXczWV90YlluMUxkZFNuNElpRVdESjRUbTYzTHFvWEg4ZG13?oc=5",
+      "pub_date": 1793452666.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:e42e0123b094b:0-bitcoin-gold-silver-stocks-face-a-market-wide-sell-off-why-is-everything-falling-at-once/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The global markets are heading into November on a bearish note, displaying uncertainty with rising concerns over returns on AI-based investments. Besides, rising oil prices and renewed geopolitical tensions are adding to inflation worries. Moreover, the latest FED policy has done little to reduce u\u2026"
+    },
+    {
       "headline": "Saylor Is Hinting at Another Bitcoin Buy Before MSCI Rules on Strategy. What Happens to BTC if Strategy Has to Sell Instead?",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -65,46 +95,16 @@
       "description": "Michael Saylor hints at another Bitcoin buy before the MSCI decision on November 11. Here's what a potential index exit could mean for BTC."
     },
     {
-      "headline": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjdKY3laaTdSNDdJR2JaOXVrN0p3eExMOXMtVjBua0s3YmFPSENrQVJ4cm05MmljTjNmaVRjdzlpMXF1SUp1S3dLbVV4ZEZQSGxDRl8wY3czeDZmRlNoM2xyQnY3RFhJSDlUZF9fZjljVS0xSzlJMHI2N2VhYXp6UWFWZEVEbEY4bFZ5X1FYc1J2UmZDdFZUUDZnQ1FmR3Y1TEpCczdaRjV6MHJLbVJBS1NITEVhcllpQzF5VkhoUVBKSUlUaEtEWFhSSUxlTTJYMzFWWmRB?oc=5",
-      "pub_date": 1793510930.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Next Technology Authorizes Sale or Pledge of 5,833 Bitcoin After Risk Review",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSVhPLUp4NURzRVFEVW1CeDNMOFdVd185ZXNlSkx6aFNvSzhGUWhLN3VRT2RvSld0eGVzcV8weERmU1RHWXJQZnBIVkZ2eFdsZ1BmSTdQR2N2YkdOeXFWVzVCTU5Wb2MwWDVqREh5ejB3S18tX0hTM3diT0xOckRnc2Voem1YRWpONkhjUTBrMk9xX3E2elgzYTVSMW9qaEl4Mkt3dHpHQTRIdTFRMnY3X1hPcG52cHZJWlBtSmtZQUlMek1MY2ZuZXpocHpUUVk?oc=5",
-      "pub_date": 1793559600.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:b11813715094b:0-next-technology-authorizes-sale-or-pledge-of-5-833-bitcoin-after-risk-review/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "TL;DR: Next Technology has authorized selling or pledging its reported 5,833 BTC. The decision creates flexibility; it does not confirm that a transaction has occurred.Next Technology Holding has given management permission to reduce or finance its Bitcoin position after a board review of custody a\u2026"
-    },
-    {
-      "headline": "Bitcoin, Gold, Silver & Stocks Face a Market-Wide Sell-Off: Why Is Everything Falling at Once?",
-      "source": "Coinpedia",
-      "source_url": "https://coinpedia.org",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbmV2UVRJdk5YUWo5YXZPSEZzMHgzbGdrckNMbXdwMy1CSkpBaU1YZGR5amg2dnZwQUlrd21oMUFJNlN1NmNwMDVWaGJIcUFBY2pSdlk3Mk5jOTB6WUx2Qm16OE5SVkhxczIzaDFiajREd2NWa3B6YVYtMHMzWXY1Z2NSN3JScjdLLTdldTVCZFczb0JWM0ZxNFQyZmtKeER4clFWbFUxTHcyWEZVb0RXTHpyLTc2ekxqdzVlRGtTZ3dsNlZo0gHKAUFVX3lxTE5vUko1R1RRaUJIT2JMaVhfZXMtMGFsa1Rib0l0cVJGWWk1TmdkRFloQmZSTnV5MTUzX3B3STJJU0wyX19RemE0TUpaYmhOTW5BQXJyckxjcGZKMkg2MGY4YUxvUllfTG1XdTZ0bjZIX2dGdUlOdHlsVzEyN1hjQnVVWl9mS0lURWFYLVMtc2Jua0xlOG1BX2tWVXQ5eFljOTdkQk9waWx3T182RnJNZUJsM3pxLUZsdW1JQ1N3TzlsS1BYNXJfSlNIMVE?oc=5",
-      "pub_date": 1793475578.0,
-      "article_url": "https://coinpedia.org/price-analysis/bitcoin-gold-silver-stocks-face-a-market-wide-sell-off-why-is-everything-falling-at-once/",
-      "image": "https://image.coinpedia.org/wp-content/uploads/2026/08/18192010/bitcoin-is-facing-rising-selling-pressure-can-btc-price-hold-its-key-support-1.jpg",
-      "description": "Bitcoin, stocks and precious metals are all declining together, pointing to widespread selling pressure rather than weakness limited to a single asset class"
-    },
-    {
-      "headline": "Prediction: Here's What a $1,000 Investment in Bitcoin Will Be Worth in 2030",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT280eW9HWDIySndnWHF6UHdkSnoxSU9iX1c0QTdWZlRRc1ZzdFlKUk1VZ0xqYTh6RmdqQlpNcElpaTM1Vk5UamIwTThoMVFGRkhnTk1EbnA5VzkxZHRPalBYRU81bk1fTnQ1aHowYjVhQXQ0X1hZNVdOcTNQV3pGTDI3RE10LUI5X0I3Z0FpOUNFR3B4eVpV?oc=5",
-      "pub_date": 1793451540.0,
-      "article_url": "https://www.fool.com/investing/2026/10/31/prediction-heres-what-a-1000-investment-in-crypto/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891440%2Fbitcoin-bouncing-higher.jpg&w=1200&op=resize",
-      "description": "Even if Bitcoin's growth rate slows, it could still rank among the top-performing assets in the world."
+      "headline": "Current price of Bitcoin for Nov. 2, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSlZVWFctdVZUZkZxTENyNGRpbkg3X1A3RzJpSXR1ZWtwc0F2d1Z6YkVUcGVuSHVYZVVleHlKeGRXQW5MRlRFOVJ5YzY0VWpiYWRrdFZERGF5QTRYeGVTNTh5VjdkYm8?oc=5",
+      "pub_date": 1793619900.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-11-02-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-2.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-02T04:47:28.277364+00:00"
+  "fetched_at": "2026-11-02T13:09:50.134480+00:00"
 }
