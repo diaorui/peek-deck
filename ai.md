@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-02T13:10:05.875366+00:00'
+updated: '2026-11-02T22:25:46.270707+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 02, 2026 at 13:10 UTC  
+**Last Updated:** November 02, 2026 at 22:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,35 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Almost half of all new Steam games use AI now](https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/)**
+
+Almost half of all games released on Steam in October 2026 disclosed the use of AI-generated content, according to a new analysis of more than 63,000 games released on the platform since January 2024.
+
+🔗 [Dexerto](https://www.dexerto.com/gaming/almost-half-of-all-new-steam-games-use-ai-now-3423933/) • 6h ago
+
+---
+
+**[OpenAI lowers funding goals as investors cool on AI](https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/)**
+
+Investor caution and stronger growth at rival Anthropic are forcing the ChatGPT maker to lower its fundraising ambitions ahead of a planned listing.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-lowers-funding-goals-as-investors-cool-on-ai-7741572/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 2h ago
+
+---
+
+**[OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning](https://www.reddit.com/r/artificial/comments/1xm3vf1/openai_says_its_ai_is_getting_better_at_doing/)**
+
+OpenAI on Monday announced a new internal tool for assessing how AI handles tasks like these, along with research on how its own models performed.
+
+🔗 [CNN](https://www.cnn.com/2026/11/02/tech/openai-chatgpt-personal-assistant-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
+
+---
+
 **[How to stop Meta, OpenAI, and Apple from training AI on your data in the UK](https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/)**
 
 The world’s largest AI companies, including Meta, OpenAI, and Apple, all offer UK users ways to keep their data out of AI training.
 
-🔗 [HotMinute](https://hotminute.co.uk/2026/11/02/how-to-stop-meta-openai-and-apple-from-training-ai-on-your-data-in-the-uk/) • 2h ago
+🔗 [HotMinute](https://hotminute.co.uk/2026/11/02/how-to-stop-meta-openai-and-apple-from-training-ai-on-your-data-in-the-uk/) • 11h ago
 
 ---
 
@@ -49,69 +73,45 @@ The world’s largest AI companies, including Meta, OpenAI, and Apple, all offer
 
 Grok Bot weekly usage meters jumped to 100% overnight on November 1. Cursor says that shouldn’t happen. Musk says Grok Bot cost too much to serve.
 
-🔗 [MadRobot](https://madrobot.blog/2026/11/01/grok-bot-usage-limit-100-overnight-musk-cost/) • 15h ago
+🔗 [MadRobot](https://madrobot.blog/2026/11/01/grok-bot-usage-limit-100-overnight-musk-cost/) • 1d ago
 
 ---
 
-**[OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card](https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/)**
+**[Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform](https://www.reddit.com/r/artificial/comments/1xlz1su/dell_xps_googlebook_review_beautiful_hardware_for/)**
 
-OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits.
+Googlebook OS still needs a ton of work.
 
-🔗 [The Decoder](https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/) • 15h ago
-
----
-
-**[Trump’s achilles heel is turning his own voters against him](https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/)**
-
-Lifelong Republicans are campaigning against the spread of data centres
-
-🔗 [The i Paper](https://inews.co.uk/news/world/destroying-homes-trump-voters-turn-against-data-centres-4862641) • 22h ago
+🔗 [Engadget](https://www.engadget.com/2302835/dell-xps-googlebook-review/) • 7h ago
 
 ---
 
-**[Michigan will pilot a prison classification system targeting 30% better violence-risk predictions starting December 1](https://www.reddit.com/r/artificial/comments/1xlqr10/michigan_will_pilot_a_prison_classification/)**
+**[Gulf investors bet on AI, space tech](https://www.reddit.com/r/artificial/comments/1xlzxdx/gulf_investors_bet_on_ai_space_tech/)**
 
-Michigan says it will pilot a new prison classification system on December 1, 2026. The state forecasts about 30% better prediction of future violence risk. The system will support security-level placement and ongoing reviews using real-time data. The pilot starts at selected men's facilities before any wider rollout. MDOC says across U.S. prisons assaults on staff rose 77% and assaults between incarcerated people rose 54% from 2019 to 2024. It supervises about 32,000 people across four security levels. MDOC says Recidiviz helped develop the tool. The release does not publish the model or explain how the estimate was calculated. The 30% remains a forecast. Source: https://www.michigan.gov/corrections/about/newsroom/press-releases/2026/10/28/new-prisoner-classification-system-announced-by-michigan-department-of-corrections
+AI infrastructure and space startups are emerging as bright spots for Gulf investors, who are otherwise wary of India’s broader markets, The Economic Times reports.
 
-5h ago
-
----
-
-**[DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention](https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/)**
-
-On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype. The idea is not a new foundation model. It is orchestration around existing model-powered tools, built for one GitHub repository. A persistent Router session handles incoming conversations and dispatch decisions, but does not do the work itself. Each accepted work item gets its own Worker session and directory, so tasks run in parallel without sharing context. The prototype listens to GitHub events, and optionally to Feishu messages, and returns results in the original conversation, often as a pull request. A local web panel lists only the decisions that need a human. The stated philosophy is blunt: take as little human attention as possible, and give as much value as possible. The agent is supposed to confirm once, stay quiet while working, and speak again only with a result, a question, or a failure. It should act only when an allowed person asks, or when a team-written rule permits the work. For work it merely infers, the documented default is observe-only: record what it would do, do not execute it. DeepSeek's argument is that human attention, not model capability, is now the bottleneck. The team says a person can actively follow only 3 to 5 agent sessions at once. In its own simulated test, with about 300 messages and about 20 real work requests per run, the super-agent approach finished the slowest 5 percent of tasks in 15.7 minutes, versus 29.5 minutes for a single-session baseline. Treat those numbers as self-reported, not as an independent benchmark. The test used synthetic messages and simulated tools, real coding quality was not measured, and there is no verified comparison with Claude Code or Codex yet. DeepSeek is also unusually clear about the prototype limits: it is research code, not an official product and not production-ready, it may contain bugs, it differs from the internal system, and some essay ideas are future directions, not implemented features. The internal instance is reportedly already used for bug reproduction, code review, and Harness work, but that is the team's claim. Discussion: is a Router plus Workers the right split, or just parallel sessions with a nicer name? And where would you draw the line on proactive work? Would you let an agent open pull requests in your repository, and what permissions and team-written rules would you require before it touches anything? Sources: DeepSeek dsh-superagent-prototype on GitHub; reporting on October 31 by MarkTechPost (https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/) and Venture Atlas (https://www.ventureatlas.org/news/2026-10-31-deepseek-superagent).
-
-17h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/gulf-investors-bet-on-ai-space-tech-8874609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 7h ago
 
 ---
 
-**[Brandon sex offender had 'sexual conversations' with AI-generated children: HCSO](https://www.reddit.com/r/artificial/comments/1xlo5om/brandon_sex_offender_had_sexual_conversations/)**
+**[OpenAI's plan to make data centers less hated: Rename them "compute campuses"](https://www.reddit.com/r/artificial/comments/1xm43yd/openais_plan_to_make_data_centers_less_hated/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/hillsborough-county/brandon-sex-offender-had-sexual-conversations-with-ai-generated-children-hcso/) • 8h ago
+An OpenAI spokesperson told Business Insider about the rebrand. "Compute campuses better describes the scale and role of the infrastructure we're building for AI," the spokesperson said....
 
----
-
-**[How do you guys handle AI image/video moderation at scale?](https://www.reddit.com/r/artificial/comments/1xlpsnm/how_do_you_guys_handle_ai_imagevideo_moderation/)**
-
-I'm building a content moderation system, processing potentially 1M+ uploads per day. We need to detect and block these categories: m*nor s*xual_v*olence b*stiality self_h*rm real_person (non-consensual use of identifiable people's likeness) I'm exploring open-source models, self-hosted solutions, commercial APIs (Sightengine, AWS Rekognition, etc.), and hybrid approaches. Our priorities are high detection accuracy, low cost at massive scale, strong data privacy, and reliable video moderation. For those running similar systems: Which models or APIs do you use? Do you prefer self-hosted or commercial moderation? How do you optimize costs at high volumes? What are your experiences with false positives and false negatives? Would really appreciate real-world recommendations, architecture suggestions, and pricing insights!
-
-6h ago
+🔗 [TechSpot](https://www.techspot.com/news/114411-openai-plan-make-data-centers-less-hated-rename.html) • 4h ago
 
 ---
 
-**[Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases](https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/)**
+**[failure log #2: the patch was real, the bug was different, the PoC still fired](https://www.reddit.com/r/artificial/comments/1xmbiex/failure_log_2_the_patch_was_real_the_bug_was/)**
 
-In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. Frankly most people don't even need AI
-
-18h ago
+2m ago
 
 ---
 
-**[Feds find small businesses that use AI are more likely to hire](https://www.reddit.com/r/artificial/comments/1xli21l/feds_find_small_businesses_that_use_ai_are_more/)**
+**[How to tell if a voice recording is AI-generated](https://www.reddit.com/r/artificial/comments/1xm9hsx/how_to_tell_if_a_voice_recording_is_aigenerated/)**
 
-A Federal Reserve survey of 5,248 small businesses finds AI adopters are more likely to hire, while most firms remain early in implementation.
+I can clone my voice in seconds—but there are tricks to help tell real speech from AI
 
-🔗 [coffeecupai.com](https://coffeecupai.com/blog/fed-asked-5248-small-businesses-about-ai/) • 13h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-to-tell-if-a-voice-recording-is-ai-generated/) • 1h ago
 
 ---
 
@@ -119,71 +119,73 @@ A Federal Reserve survey of 5,248 small businesses finds AI adopters are more li
 
 ## Google News: "ai"
 
-**[When You Should—and Shouldn’t—Use AI to Search the Web](https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/)**
+**[US Tech Stocks Enter Correction on AI and Midterm Election Risks](https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff)**
 
-Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.
-
-WIRED • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[You can't escape AI, but you can learn to live with it. Wharton Professor Ethan Mollick explains how.](https://www.businessinsider.com/ai-jobs-future-ethan-mollick-skill-interview-peter-kafka-2026-11)**
+**[Anthropic reveals $900bn AI spending commitments ahead of IPO](https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1)**
 
-AI is way more capable than you think, says Wharton management prof Ethan Mollick. That means you — and your kids — need to figure out how to adapt.
-
-Business Insider • 2h ago
+Financial Times • 5h ago
 
 ---
 
-**[Marvell to buy Lumentum in $115 billion deal in AI data-center bet](https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/)**
+**[Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages](https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages)**
 
-Reuters • 44m ago
-
----
-
-**[Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity](https://finance.yahoo.com/markets/stocks/article/marvell-to-purchase-lumentum-in-115-billion-deal-as-ai-124702761.html)**
-
-Marvell stock declined after the chip designer said it will purchase optical parts maker Lumentum in a $115 billion deal.
-
-Yahoo Finance • 23m ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Marvell Reaches $115 Billion Deal for Lumentum Holdings](https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings)**
+**[Claude's new AI report card tool gives companies a closer look at costs — and flags 'inefficiencies'](https://www.businessinsider.com/anthropic-claude-smart-reports-ai-usage-costs-inefficiences-2026-11)**
 
-Bloomberg • 54m ago
+The "smart reports" tool for Claude Enterprise users is designed to analyze a sample of a team's transcripts and group work into categories.
 
----
-
-**[New Jersey's Workplace AI Bill Tests The Limits Of Human Oversight](https://www.forbes.com/sites/alonzomartinez/2026/11/02/new-jerseys-workplace-ai-bill-tests-the-limits-of-human-oversight/)**
-
-Forbes • 10m ago
+Business Insider • 1h ago
 
 ---
 
-**[VC Firms Are Trying to Figure Out AI, Too](https://www.wsj.com/pro/venture-capital/vc-firms-are-trying-to-figure-out-ai-too-429e6549)**
+**[Palantir Q3 earnings: Did the AI company just have a 'celestial' quarter?](https://finance.yahoo.com/video/palantir-q3-earnings-did-the-ai-company-just-have-a-celestial-quarter-213936890.html)**
 
-WSJ • 18m ago
+Palantir Technologies (PLTR) stock is getting a lift in Monday's extended-hours trading after topping third quarter earnings and revenue estimates.
 
----
+D.A. Davidson head of technology research Gil Luria comes on Market Domination Overtime to react to Palantir's latest results and discuss whether he agrees with CEO Alex Karp's sentiment that it was a "celestial" quarter.
 
-**[Defense, healthcare, crypto and AI: How the midterm election could affect stocks](https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html)**
-
-Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.
-
-CNBC • 2h ago
+Yahoo Finance • 46m ago
 
 ---
 
-**[Opinion | U.S.-China Relations Will Never Be the Same in the Age of A.I.](https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html)**
+**[Alphabet in talks to acquire assistant startup Howie AI](https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant)**
 
-The New York Times • 7h ago
+Axios • 34m ago
 
 ---
 
-**[We Can’t Afford an AI Recession](https://www.theatlantic.com/technology/2026/11/ai-data-center-spending-economy/689237/)**
+**[Pittsburgh nurses win AI guiderails as use of the technology soars](https://www.post-gazette.com/business/healthcare-business/2026/11/02/allegheny-general-hospital-nurses-ai-protections-contract-seiu/stories/202610310041)**
 
-The Atlantic • 40m ago
+Healthcare workers have a growing concern about the use of artificial intelligence in medical decisions as evidenced by recent labor contracts as use of...
+
+Pittsburgh Post-Gazette • 10m ago
+
+---
+
+**[Marvell doubles down on AI boom with costly $115 billion Lumentum deal](https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/)**
+
+Reuters • 2h ago
+
+---
+
+**[Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell](https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html)**
+
+The AI infrastructure deal is expected to close during the first half of 2028.
+
+CNBC • 8h ago
+
+---
+
+**[Marvell’s $115 Billion Lumentum Deal Could Reshape AI Networking](https://www.forbes.com/sites/stevemcdowell/2026/11/02/marvells-115-billion-lumentum-deal-could-reshape-ai-networking/)**
+
+Forbes • 13m ago
 
 ---
 
@@ -191,43 +193,19 @@ The Atlantic • 40m ago
 
 ## HackerNews: "ai"
 
-**[AI isn't replacing SREs, it's deskilling them](https://news.ycombinator.com/item?id=50305693)**
-
-When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?
-
-⬆️ 675 • 💬 491 • 2d ago • [newsletter.signoz.io](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
-
----
-
 **[The AI cost of JavaScript frameworks](https://news.ycombinator.com/item?id=50323088)**
 
 One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…
 
-⬆️ 396 • 💬 304 • 1d ago • [Read the Tea Leaves](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+⬆️ 466 • 💬 379 • 1d ago • [Read the Tea Leaves](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
 
 ---
 
-**[Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://news.ycombinator.com/item?id=50304122)**
+**[Anthropic's internal AI use, at retail prices, now exceeds its employee pay](https://news.ycombinator.com/item?id=50339494)**
 
-Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” He’s been given unlimited AI tokens and told to “go nuts.”
+Anthropic's IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.
 
-⬆️ 314 • 💬 386 • 2d ago • [Fortune](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
-
----
-
-**[Proton's CEO Cancels AI 'Re-Interviews'](https://news.ycombinator.com/item?id=50307183)**
-
-The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.
-
-⬆️ 297 • 💬 255 • 2d ago • [404 Media](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
-
----
-
-**[US tech stocks see sharp falls over AI cost fears](https://news.ycombinator.com/item?id=50306008)**
-
-Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.
-
-⬆️ 269 • 💬 302 • 2d ago • [BBC News](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
+⬆️ 253 • 💬 217 • 5h ago • [Business Insider](https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11)
 
 ---
 
@@ -235,13 +213,13 @@ Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest
 
 "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
 
-⬆️ 230 • 💬 230 • 14h ago • [TechCrunch](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+⬆️ 241 • 💬 247 • 1d ago • [TechCrunch](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 
 ---
 
 **[Frontier Airlines Likely Breached](https://news.ycombinator.com/item?id=50327266)**
 
-⬆️ 207 • 💬 83 • 20h ago • [reddit.com](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
+⬆️ 218 • 💬 87 • 1d ago • [reddit.com](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
 
 ---
 
@@ -250,7 +228,7 @@ Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest
 Air-gapped systems are physically separated from external networks, including the Internet. This isolation is achieved by keeping the air-gap computers disconnected from wired or wireless networks, preventing direct or remote communication with other devices or networks. Air-gap measures may be used in sensitive environments where security and isolation are critical to prevent private and confidential information leakage.
   In this paper, we present an attack allowing adversaries to leak information from air-gapped computers. We show that malware on a compromised computer can generate radio signals from memory buses (RAM). Using software-generated radio signals, malware can encode sensitive information such as files, images, keylogging, biometric information, and encryption keys. With software-defined radio (SDR) hardware, and a simple off-the-shelf antenna, an attacker can intercept transmitted raw radio signals from a distance. The signals can then be decoded and translated back into binary information. We discuss the design and implementation and present related work and evaluation results. This paper presents fast modification methods to leak data from air-gapped computers at 1000 bits per second. Finally, we propose countermeasures to mitigate this out-of-band air-gap threat.
 
-⬆️ 205 • 💬 99 • 1d ago • [arXiv.org](https://arxiv.org/abs/2409.02292)
+⬆️ 217 • 💬 102 • 1d ago • [arXiv.org](https://arxiv.org/abs/2409.02292)
 
 ---
 
@@ -258,7 +236,7 @@ Air-gapped systems are physically separated from external networks, including th
 
 It is hoped game testing can provide insight into recent AI agent headlines, good and bad.
 
-⬆️ 173 • 💬 83 • 23h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
+⬆️ 176 • 💬 90 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
 
 ---
 
@@ -266,7 +244,31 @@ It is hoped game testing can provide insight into recent AI agent headlines, goo
 
 Proton's CEO called a request for security testing "loser thinking". Using AI to write code is fine, but for a privacy company, the guardrails around that code are the product.
 
-⬆️ 160 • 💬 93 • 18h ago • [blog.raed.dev](https://blog.raed.dev/posts/proton-loser-thinking/)
+⬆️ 165 • 💬 99 • 1d ago • [blog.raed.dev](https://blog.raed.dev/posts/proton-loser-thinking/)
+
+---
+
+**[Jobless tech workers are being left out of San Francisco's AI boom](https://news.ycombinator.com/item?id=50337454)**
+
+⬆️ 150 • 💬 207 • 7h ago • [bloomberg.com](https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near)
+
+---
+
+**[China's First Frontier AI Export Controls: Mofcom Announcement No. 48](https://news.ycombinator.com/item?id=50334038)**
+
+⬆️ 147 • 💬 83 • 14h ago • [labs.cloudsecurityalliance.org](https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/)
+
+---
+
+**[Last night an AI agent performed brain surgery on a mouse](https://news.ycombinator.com/item?id=50336138)**
+
+Last night an AI agent performed brain surgery on a mouse.
+
+We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures.
+
+It picked the drug. It picked the brain region. It derived the coordinates from t…
+
+⬆️ 114 • 💬 96 • 9h ago • [X (formerly Twitter)](https://twitter.com/OcanaSantero/status/2115442964574908902)
 
 ---
 
@@ -274,33 +276,33 @@ Proton's CEO called a request for security testing "loser thinking". Using AI to
 
 ## YouTube Videos: "ai"
 
-**[AI Panic Spreads as The Money Runs Out](https://www.youtube.com/watch?v=yhPhRxxuCRQ)**
+**[The Investment Committee debates whether the AI trade is in trouble](https://www.youtube.com/watch?v=D0HLWSB4qbc)**
 
-If you would like to support the Channel: https://www.buymeacoffee.com/JoeBlogs https://www.patreon.com/joeblogsYT YouTube ...
+The Investment Committee debates whether the AI trade is in trouble as a new month kicks off.
 
-📺 Joe Blogs
+📺 CNBC Television
 
-👁️ 163K • 👍 4K • 💬 542 • ⏱️ 15:57 • 21h ago
-
----
-
-**[AI Collapse Warning](https://www.youtube.com/watch?v=AY2JsPdGcvY)**
-
-If you would like to support the Channel: https://www.buymeacoffee.com/JoeBlogs https://www.patreon.com/joeblogsYT YouTube ...
-
-📺 Joe Blogs
-
-👁️ 22K • 👍 1K • 💬 217 • ⏱️ 15:45 • 3h ago
+👁️ 46K • 👍 320 • 💬 105 • ⏱️ 9:06 • 4h ago
 
 ---
 
-**[I Read the Research on AI Hacking. The Bubble Is Finally Dying.](https://www.youtube.com/watch?v=KNxEkrMFCFc)**
+**[6 BEST AI Businesses To Start Before 2027 (For Beginners)](https://www.youtube.com/watch?v=2RFgO_ccb9M)**
 
-Cline Desktop: https://cline.gg/desktop-houseofel ClinePass: https://cline.gg/clinepass-houseofel AI is getting dramatically better at ...
+Get my $5000 AI course for FREE ➡️ https://course.aicom.co/yt/6-ai-businesses Links From Video: Speed To Lead Agent ...
 
-📺 House of El: AI
+📺 Jordan Welch
 
-👁️ 441K • 👍 11K • 💬 2K • ⏱️ 27:13 • 2d ago
+👁️ 13K • 👍 336 • 💬 24 • ⏱️ 29:36 • 8h ago
+
+---
+
+**[When the AI bubble pops...](https://www.youtube.com/watch?v=difPlwouuPY)**
+
+Go to https://hostinger.com/philedwards and use code PHILEDWARDS for 10% off! Sources here: ...
+
+📺 Phil Edwards
+
+👁️ 15K • 👍 771 • 💬 108 • ⏱️ 14:21 • 2h ago
 
 ---
 
@@ -310,17 +312,7 @@ OpenAI's GPT and Anthropic's Claude just went to war in a massive AI agent exper
 
 📺 AI Revolution
 
-👁️ 97K • 👍 1K • 💬 142 • ⏱️ 13:08 • 1d ago
-
----
-
-**[The AI Bubble Is Now A Debt Disaster](https://www.youtube.com/watch?v=ReX-AhNV1RQ)**
-
-Amazon just spent more than $77 billion on AI and saw $42.4b in cash OUTFLOWS. Alphabet has now lost more than $500b in ...
-
-📺 Eurodollar University
-
-👁️ 167K • 👍 2K • 💬 409 • ⏱️ 18:55 • 1d ago
+👁️ 104K • 👍 1K • 💬 147 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -330,7 +322,17 @@ So... Why Isn't the AI Bubble Popping? In 2025, OpenAI lost about $1.60 for ever
 
 📺 MonkeyExplains
 
-👁️ 915K • 👍 15K • 💬 2K • ⏱️ 13:57 • 23h ago
+👁️ 1.2M • 👍 19K • 💬 2K • ⏱️ 13:57 • 1d ago
+
+---
+
+**[Some voters are using AI chatbots for Election Day guidance](https://www.youtube.com/watch?v=swM8iswahQM)**
+
+More voters are turning to AI chatbots for election-related information, according to the Pew Research Center. NBC News' ...
+
+📺 NBC News
+
+👁️ 559 • 👍 7 • 💬 3 • ⏱️ 2:23 • 2h ago
 
 ---
 
@@ -340,17 +342,7 @@ Elon Musk told The Economist that AI is already better than at least 90% of prof
 
 📺 NightshiftNow
 
-👁️ 5K • 👍 110 • 💬 15 • ⏱️ 0:45 • 8h ago
-
----
-
-**[AI EXPERTS REVEAL: It’s Too Late! We Can&#39;t Stop What&#39;s Coming](https://www.youtube.com/watch?v=NXITvkHIV9o)**
-
-Everyone agrees we can't pause AI. So what do we do instead? This episode is brought to you by AgelessRx, where aging ...
-
-📺 The Beyond Tomorrow Podcast with Julian Issa
-
-👁️ 33K • 👍 257 • 💬 168 • ⏱️ 1:29:46 • 2d ago
+👁️ 16K • 👍 328 • 💬 52 • ⏱️ 0:45 • 17h ago
 
 ---
 
@@ -360,35 +352,33 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 159K • 👍 2K • 💬 342 • ⏱️ 25:01 • 1d ago
+👁️ 197K • 👍 2K • 💬 371 • ⏱️ 25:01 • 1d ago
 
 ---
 
-**[The satisfying DOWNFALL of Character.ai](https://www.youtube.com/watch?v=JEpuYaN0sgg)**
+**[$1 TRILLION WIPED OUT: Is the AI Bubble Finally Bursting?](https://www.youtube.com/watch?v=eWs99yKsjnk)**
 
-let's destroy the environment AND lose all our money to.... *checks notes*... get kids addicted to writing fanfiction of themselves.
+Micron #MU #NVIDIA #NVDA #SanDisk #SNDK #AIBubble #AIStocks #StockMarketCrash #Semiconductors #MemoryStocks ...
 
-📺 RayLikeMoonshine
+📺 Market Signal
 
-👁️ 120K • 👍 6K • 💬 686 • ⏱️ 26:37 • 2d ago
+👁️ 71K • 👍 1K • 💬 601 • ⏱️ 24:52 • 2d ago
+
+---
+
+**[I Stayed In Every AI Robot Hotel](https://www.youtube.com/watch?v=bB5MPJBkXKw)**
+
+I Stayed In Every AI Robot Hotel Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ...
+
+📺 Sambucha Highlights
+
+👁️ 153K • 👍 857 • 💬 58 • ⏱️ 1:32:09 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)**
-
-*DeepSeek*
-
-DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning, coding, and agentic tasks with reduced execution time and output length. It excels in benchmarks like HLE, Terminal-Bench, and ProgramBench, offering improved performance-cost efficiency for complex applications.
-
-`image-text-to-text` `763.2B`
-
-⬇️ 177,009 • ❤️ 4,593 • 16d ago
-
----
 
 **[LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)**
 
@@ -398,7 +388,19 @@ LFM3-1.7B is a 1.73B parameter text model optimized for edge devices and local a
 
 `text-generation` `1.7B`
 
-⬇️ 42,384 • ❤️ 777 • 4d ago
+⬇️ 42,384 • ❤️ 977 • 5d ago
+
+---
+
+**[DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)**
+
+*DeepSeek*
+
+DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning, coding, and agentic tasks with reduced execution time and output length. It excels in benchmarks like HLE, Terminal-Bench, and ProgramBench, offering improved performance-cost efficiency for complex applications.
+
+`image-text-to-text` `763.2B`
+
+⬇️ 177,009 • ❤️ 4,686 • 16d ago
 
 ---
 
@@ -410,7 +412,7 @@ NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 4
 
 `automatic-speech-recognition` `33.7B`
 
-⬇️ 32,439 • ❤️ 642 • 3d ago
+⬇️ 32,439 • ❤️ 676 • 3d ago
 
 ---
 
@@ -422,7 +424,7 @@ Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model 
 
 `image-text-to-text`
 
-⬇️ 5,500 • ❤️ 1,473 • 3d ago
+⬇️ 5,500 • ❤️ 1,498 • 3h ago
 
 ---
 
@@ -434,31 +436,7 @@ Unlimited-OCR-2 is a multilingual vision-language model for unlimited-horizon do
 
 `image-text-to-text` `3.3B`
 
-⬇️ 147,588 • ❤️ 548 • 6h ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.
-
-`image-to-video`
-
-⬇️ 2,467,613 • ❤️ 10,289 • 22d ago
-
----
-
-**[Qwen3.5-4B-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder)**
-
-*Caio Giovannetti*
-
-Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general coding and specifically for generating interactive Three.js 3D scenes. It supports optional vision capabilities to create scenes from reference images.
-
-`4.5B`
-
-⬇️ 63,499 • ❤️ 526 • 12h ago
+⬇️ 147,588 • ❤️ 560 • 15h ago
 
 ---
 
@@ -470,19 +448,31 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 7,787 • ❤️ 366 • 3d ago
+⬇️ 7,787 • ❤️ 408 • 4d ago
 
 ---
 
-**[Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)**
+**[Qwen3.5-4B-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder)**
 
-*Nanbeige LLM Lab*
+*Caio Giovannetti*
 
-Nanbeige4.3-33B is a 33B parameter text-generation model excelling in agentic coding and professional coworker tasks, outperforming comparable open models on benchmarks like Terminal-Bench and JobBench. It's designed for complex coding, professional collaboration, and serves as a teacher model for distilling agentic capabilities into smaller models.
+Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general coding and specifically for generating interactive Three.js 3D scenes. It supports optional vision capabilities to create scenes from reference images.
 
-`text-generation` `33.1B`
+`4.5B`
 
-⬇️ 16,976 • ❤️ 995 • 5d ago
+⬇️ 63,499 • ❤️ 558 • 21h ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.
+
+`image-to-video`
+
+⬇️ 2,467,613 • ❤️ 10,354 • 22d ago
 
 ---
 
@@ -494,7 +484,19 @@ Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, 
 
 `image-to-video` `33.1B`
 
-⬇️ 491 • ❤️ 341 • 3d ago
+⬇️ 491 • ❤️ 356 • 3d ago
+
+---
+
+**[Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)**
+
+*Ahmet Benzer*
+
+This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.
+
+`text-to-image` `7.1B`
+
+⬇️ 2,516,622 • ❤️ 5,547 • 21d ago
 
 ---
 
@@ -510,7 +512,7 @@ Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, 
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 9 • 💬 2 • ⭐ 3,932 • 18d ago
+▲ 9 • 💬 2 • ⭐ 4,349 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -522,7 +524,7 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 162 • 💬 6 • ⭐ 119,609 • 22mo ago
+▲ 162 • 💬 6 • ⭐ 119,857 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -548,9 +550,23 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 85 • 💬 4 • ⭐ 21,895 • 24d ago
+▲ 86 • 💬 4 • ⭐ 22,028 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
+
+---
+
+**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
+
+*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
+
+🏢 University of California, Berkeley
+
+FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
+
+▲ 111 • 💬 2 • ⭐ 15,847 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
 ---
 
@@ -562,7 +578,7 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 103 • 💬 7 • ⭐ 30,297 • 4mo ago
+▲ 103 • 💬 7 • ⭐ 30,363 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -576,23 +592,9 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 33 • 💬 9 • ⭐ 8,935 • 1mo ago
+▲ 33 • 💬 9 • ⭐ 8,962 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
-
----
-
-**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
-
-*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
-
-🏢 University of California, Berkeley
-
-FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
-
-▲ 111 • 💬 2 • ⭐ 15,490 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
 ---
 
@@ -604,7 +606,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 HairDeck generates stylized hair cards and spring-bone animations as unordered token sets using a diffusion transformer, improving accuracy and speed over prior methods.
 
-▲ 35 • 💬 2 • ⭐ 646 • 4d ago
+▲ 39 • 💬 2 • ⭐ 730 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.40599) • [💻 code](https://github.com/hyz317/HairDeck) • [🔗 project](https://hyzcluster.github.io/HairDeck/)
 
@@ -628,7 +630,7 @@ This paper reviews the Kornia differentiable data augmentation module for both 2
 
 Xiaomi-OCR-0 is a compact vision-language model that unifies document parsing and OCR understanding through automated data synthesis, progressive training with text anchoring and reinforcement learning, and achieves state-of-the-art results on multiple benchmarks.
 
-▲ 12 • 💬 0 • ⭐ 714 • 1mo ago
+▲ 13 • 💬 0 • ⭐ 766 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.36136) • [💻 code](https://github.com/SeerRay-Lab/Xiaomi-OCR-0) • [🔗 project](https://huggingface.co/spaces/SeerRay-Lab/Xiaomi-OCR-0)
 
@@ -644,17 +646,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 14.3k • 🔱 1.4k • 4d ago
-
----
-
-**[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)**
-
-关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
-
-`Python` `adb` `ai-agent` `android` `coloros` `debloat`
-
-⭐ 5.8k • 🔱 525 • 29m ago
+⭐ 14.6k • 🔱 1.4k • 4d ago
 
 ---
 
@@ -664,7 +656,17 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 5.5k • 🔱 273 • 20h ago
+⭐ 6.2k • 🔱 318 • 1d ago
+
+---
+
+**[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)**
+
+关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+
+`Python` `adb` `ai-agent` `android` `coloros` `debloat`
+
+⭐ 5.9k • 🔱 532 • 5h ago
 
 ---
 
@@ -674,7 +676,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 5.4k • 🔱 1.4k • 19h ago
+⭐ 5.5k • 🔱 1.4k • 8h ago
 
 ---
 
@@ -684,17 +686,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 4.9k • 🔱 939 • 17h ago
-
----
-
-**[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)**
-
-Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
-
-`C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
-
-⭐ 4.2k • 🔱 567 • 5d ago
+⭐ 5.2k • 🔱 1.0k • 3h ago
 
 ---
 
@@ -704,7 +696,17 @@ The open source AI video agent: turns any coding agent into a video agent, with 
 
 `TypeScript` `ai-video` `claude-code` `codex` `coding-agents` `html`
 
-⭐ 4.2k • 🔱 402 • 1d ago
+⭐ 4.3k • 🔱 404 • 7h ago
+
+---
+
+**[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)**
+
+Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+
+`C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
+
+⭐ 4.2k • 🔱 568 • 5d ago
 
 ---
 
@@ -714,7 +716,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 3.5k • 🔱 217 • 10d ago
+⭐ 3.5k • 🔱 221 • 10d ago
 
 ---
 
@@ -724,17 +726,17 @@ Daily radar for new AI terms: names of new models, products and repos, caught on
 
 `Python` `agent-skills` `ai` `aisa` `claude-code` `claude-skills`
 
-⭐ 2.0k • 🔱 623 • 5d ago
+⭐ 2.0k • 🔱 625 • 5d ago
 
 ---
 
-**[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)**
+**[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)**
 
-A design system for AI applications. Material, physical, tactile, technical.
+1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
 
-`TypeScript` `agent-ui` `ai` `ai-agents` `chat-ui` `design-system`
+`Go`
 
-⭐ 2.0k • 🔱 42 • 1d ago
+⭐ 2.0k • 🔱 522 • 2d ago
 
 ---
 
