@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "How to stop Meta, OpenAI, and Apple from training AI on your data in the UK",
+      "author": "HotMinuteUK",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/",
+      "published": 1793617417.0,
+      "thumbnail": "https://external-preview.redd.it/aMqNEYFVuEI9hRKI4QAg2uD5ZuZp4TkpIJeGJ-2VxgA.jpeg?width=640&crop=smart&auto=webp&s=b0ae4aaaf9fc7fe20d4aa648353d32cc46963b24",
+      "external_url": "https://hotminute.co.uk/2026/11/02/how-to-stop-meta-openai-and-apple-from-training-ai-on-your-data-in-the-uk/",
+      "site_name": "HotMinute",
+      "favicon": "https://hotminute.co.uk/wp-content/uploads/2026/04/cropped-hotminute-site-icon-180x180.png",
+      "description": "The world\u2019s largest AI companies, including Meta, OpenAI, and Apple, all offer UK users ways to keep their data out of AI training."
+    },
+    {
       "title": "Grok Bot users ran out of a week\u2019s usage overnight, and Elon Musk says the agent was costing too much",
       "author": "ross2000",
       "url": "https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/",
@@ -11,17 +22,6 @@
       "site_name": "MadRobot",
       "favicon": "https://madrobot.blog/images/apple-touch-icon.png",
       "description": "Grok Bot weekly usage meters jumped to 100% overnight on November 1. Cursor says that shouldn\u2019t happen. Musk says Grok Bot cost too much to serve."
-    },
-    {
-      "title": "Trump\u2019s achilles heel is turning his own voters against him",
-      "author": "theipaper",
-      "url": "https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/",
-      "published": 1793544498.0,
-      "thumbnail": "https://external-preview.redd.it/FV0XukQm_BDBPPadIZR5NXC2EoauIi_vk137LCiE1fI.jpeg?width=640&crop=smart&auto=webp&s=ec5ef6cd2b24a7f60d5a779478588d0dffcffb19",
-      "external_url": "https://inews.co.uk/news/world/destroying-homes-trump-voters-turn-against-data-centres-4862641",
-      "site_name": "The i Paper",
-      "favicon": "https://inews.co.uk/wp-content/themes/inews-theme/assets/images/favicon/192x192.png",
-      "description": "Lifelong Republicans are campaigning against the spread of data centres"
     },
     {
       "title": "OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card",
@@ -35,15 +35,26 @@
       "description": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits."
     },
     {
-      "title": "Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases",
-      "author": "Inner-Schedule8998",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/",
-      "published": 1793557676.0,
+      "title": "Trump\u2019s achilles heel is turning his own voters against him",
+      "author": "theipaper",
+      "url": "https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/",
+      "published": 1793544498.0,
+      "thumbnail": "https://external-preview.redd.it/FV0XukQm_BDBPPadIZR5NXC2EoauIi_vk137LCiE1fI.jpeg?width=640&crop=smart&auto=webp&s=ec5ef6cd2b24a7f60d5a779478588d0dffcffb19",
+      "external_url": "https://inews.co.uk/news/world/destroying-homes-trump-voters-turn-against-data-centres-4862641",
+      "site_name": "The i Paper",
+      "favicon": "https://inews.co.uk/wp-content/themes/inews-theme/assets/images/favicon/192x192.png",
+      "description": "Lifelong Republicans are campaigning against the spread of data centres"
+    },
+    {
+      "title": "Michigan will pilot a prison classification system targeting 30% better violence-risk predictions starting December 1",
+      "author": "andrewaltair",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlqr10/michigan_will_pilot_a_prison_classification/",
+      "published": 1793604033.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. Frankly most people don't even need AI"
+      "description": "Michigan says it will pilot a new prison classification system on December 1, 2026. The state forecasts about 30% better prediction of future violence risk. The system will support security-level placement and ongoing reviews using real-time data. The pilot starts at selected men's facilities before any wider rollout. MDOC says across U.S. prisons assaults on staff rose 77% and assaults between incarcerated people rose 54% from 2019 to 2024. It supervises about 32,000 people across four security levels. MDOC says Recidiviz helped develop the tool. The release does not publish the model or explain how the estimate was calculated. The 30% remains a forecast. Source: https://www.michigan.gov/corrections/about/newsroom/press-releases/2026/10/28/new-prisoner-classification-system-announced-by-michigan-department-of-corrections"
     },
     {
       "title": "DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention",
@@ -57,26 +68,37 @@
       "description": "On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype. The idea is not a new foundation model. It is orchestration around existing model-powered tools, built for one GitHub repository. A persistent Router session handles incoming conversations and dispatch decisions, but does not do the work itself. Each accepted work item gets its own Worker session and directory, so tasks run in parallel without sharing context. The prototype listens to GitHub events, and optionally to Feishu messages, and returns results in the original conversation, often as a pull request. A local web panel lists only the decisions that need a human. The stated philosophy is blunt: take as little human attention as possible, and give as much value as possible. The agent is supposed to confirm once, stay quiet while working, and speak again only with a result, a question, or a failure. It should act only when an allowed person asks, or when a team-written rule permits the work. For work it merely infers, the documented default is observe-only: record what it would do, do not execute it. DeepSeek's argument is that human attention, not model capability, is now the bottleneck. The team says a person can actively follow only 3 to 5 agent sessions at once. In its own simulated test, with about 300 messages and about 20 real work requests per run, the super-agent approach finished the slowest 5 percent of tasks in 15.7 minutes, versus 29.5 minutes for a single-session baseline. Treat those numbers as self-reported, not as an independent benchmark. The test used synthetic messages and simulated tools, real coding quality was not measured, and there is no verified comparison with Claude Code or Codex yet. DeepSeek is also unusually clear about the prototype limits: it is research code, not an official product and not production-ready, it may contain bugs, it differs from the internal system, and some essay ideas are future directions, not implemented features. The internal instance is reportedly already used for bug reproduction, code review, and Harness work, but that is the team's claim. Discussion: is a Router plus Workers the right split, or just parallel sessions with a nicer name? And where would you draw the line on proactive work? Would you let an agent open pull requests in your repository, and what permissions and team-written rules would you require before it touches anything? Sources: DeepSeek dsh-superagent-prototype on GitHub; reporting on October 31 by MarkTechPost (https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/) and Venture Atlas (https://www.ventureatlas.org/news/2026-10-31-deepseek-superagent)."
     },
     {
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering \u2014 sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
-      "author": "Typical-Code-7006",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/",
-      "published": 1793473046.0,
-      "thumbnail": "https://external-preview.redd.it/pD5YE6gGdfiTB0n3EVJgoPU1_s6tKLWc7-ziWXMhmBE.jpeg?width=640&crop=smart&auto=webp&s=3b64f5aab34dd152fbf8819a51796d124edfde42",
-      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1799740/apple-touch-icon.png",
-      "description": "Many game developers are reporting Claude's refusal to work on their own projects."
+      "title": "Brandon sex offender had 'sexual conversations' with AI-generated children: HCSO",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlo5om/brandon_sex_offender_had_sexual_conversations/",
+      "published": 1793594865.0,
+      "thumbnail": "https://external-preview.redd.it/z4EnTag1A-LvluJ1xm6L3OS9Az_nWBJE2TdppwBuH5g.jpeg?width=640&crop=smart&auto=webp&s=dfabe233d6b9a3d2cd97cba0f8870eae8c89f464",
+      "external_url": "https://www.wfla.com/news/hillsborough-county/brandon-sex-offender-had-sexual-conversations-with-ai-generated-children-hcso/",
+      "site_name": "wfla.com",
+      "favicon": null,
+      "description": null
     },
     {
-      "title": "\u2018If it wasn\u2019t for ChatGPT my brother would still be alive\u2019: inside OpenAI\u2019s safety unit",
-      "author": "TheObserverUK",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/",
-      "published": 1793529340.0,
-      "thumbnail": "https://external-preview.redd.it/aXvg_3fKaj07b8-YEDRBvPjZ0V56wLQ040OGimlq_-8.jpeg?width=640&crop=smart&auto=webp&s=f8e414c82cbe0ec707dd6ab0ef0303b7be5cec93",
-      "external_url": "https://observer.co.uk/news/technology/article/if-it-wasnt-for-chatgpt-my-brother-would-still-be-alive-inside-openais-safety-unit",
-      "site_name": "The Observer",
-      "favicon": "https://observer.co.uk/favicon.png",
-      "description": "An Observer investigation reveals how OpenAI\u2019s race for dominance has compromised user safety, with conversational AI linked to psychiatric crises and violence"
+      "title": "How do you guys handle AI image/video moderation at scale?",
+      "author": "Safe-Owl-1236",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlpsnm/how_do_you_guys_handle_ai_imagevideo_moderation/",
+      "published": 1793600470.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm building a content moderation system, processing potentially 1M+ uploads per day. We need to detect and block these categories: m*nor s*xual_v*olence b*stiality self_h*rm real_person (non-consensual use of identifiable people's likeness) I'm exploring open-source models, self-hosted solutions, commercial APIs (Sightengine, AWS Rekognition, etc.), and hybrid approaches. Our priorities are high detection accuracy, low cost at massive scale, strong data privacy, and reliable video moderation. For those running similar systems: Which models or APIs do you use? Do you prefer self-hosted or commercial moderation? How do you optimize costs at high volumes? What are your experiences with false positives and false negatives? Would really appreciate real-world recommendations, architecture suggestions, and pricing insights!"
+    },
+    {
+      "title": "Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases",
+      "author": "Inner-Schedule8998",
+      "url": "https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/",
+      "published": 1793557676.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. Frankly most people don't even need AI"
     },
     {
       "title": "Feds find small businesses that use AI are more likely to hire",
@@ -88,29 +110,7 @@
       "site_name": "coffeecupai.com",
       "favicon": "https://coffeecupai.com/assets/favicon.svg",
       "description": "A Federal Reserve survey of 5,248 small businesses finds AI adopters are more likely to hire, while most firms remain early in implementation."
-    },
-    {
-      "title": "X/Twitter makes AI dev look effortless, but I keep burning tokens on unfinished projects. How are you actually shipping full apps?",
-      "author": "NoPower5561",
-      "url": "https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/",
-      "published": 1793552022.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey everyone, I need a real sanity-check on my workflow, because I feel like I'm being scammed. \ud83d\ude05 To get some contacts every single day on X, Insta, and TikTok, I see people posting demo videos of insanely cool, bespoke software, sleek data visualizations, and full-stack side projects they supposedly \"built in 2 hours completely with AI.\" It makes me hyped and really optimistic for the future, and for tech as a whole. Howevr when I actually sit down to build anything beyond a MVP or lightweight component, I hit an invisible wall or something\u2026. Ok if I had to break it down, I\u2019ll first get honey potted, or stuck in the honeymoon phase. I\u2019ll start building with Claude and/or Codex (depending on the project but at this point they\u2019re pretty much the same). I\u2019ll go through the steps of setting up the scaffold, initial architecture, and base feature set goes insanely fast. Then boom at some point I\u2019ll hit a wall; or like a 80/20 trap, I\u2019ll try pushing the project into a complete, polished, end-to-end product, but it never gets there. Then I end up in a token burn hell where I\u2019m just burning through tokens, and context windows while the project completely stalls on the roadmap. I'm following standard prompt engineering practices, using system prompts, modular files, etc., but it feels like the model gets \"tired\" or bogged down once the codebase grows past a certain complexity. For the folks in here who are actually shipping full applications to production using LLMs: Is everyone on social media just showing off slick 30-second prototypes that are actually broken under the hood? What is your actual stack/workflow for pushing past that mid-project context degradation? Are you using spec-driven development (like custom system prompts, codebase indexing tools, or sub-agent architecture), or are you still dropping back into hand-coding the last 20%? Would appreciate any tips, workflow breakdowns, or brutal honesty. Cheers! Sidenote: if you guys have built any cool projects with AI, and are willing to share with me please feel free to :) I love stuff like that."
-    },
-    {
-      "title": "Dear Sam, My RAM Is None of Your Business.",
-      "author": "SuzannahB1001",
-      "url": "https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/",
-      "published": 1793484723.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Well, the last time I looked, how much RAM we have in our personal computers was still a democratic decision, not a decree from Silicon Valley. Next, Sam Altman will be telling us what we're allowed to have for breakfast. Or perhaps that's the big announcement on next week's podcast. Honestly, whatever happened to simply minding your own business?"
     }
   ],
-  "fetched_at": "2026-11-02T04:46:59.580455+00:00"
+  "fetched_at": "2026-11-02T13:09:27.721284+00:00"
 }
