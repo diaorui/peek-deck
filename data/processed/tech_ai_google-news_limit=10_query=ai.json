@@ -5,6 +5,36 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Google Will Turn Off Search for Schools That Reject A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
+      "pub_date": 1793726484.0,
+      "article_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google to shut off search for schools that opt-out of AI",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXBsSzByWUh5YVNuZGpjVXRtQ21SMG0waXByX0JZVl85eGJ4M25FOExEMDJGTWpXbjJJa1dheEJLSXV1WEo3VWtMWEFaeWNfeW1FcWNpVTBZY2htRWxMdVExVVRvYjFQYUJyTXVSTjktMFc4VEJXb19JRTNTelM0NTh2akZrdFBTdVZr?oc=5",
+      "pub_date": 1793730751.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/google-shut-search-schools-opt-ai-rcna607280",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260519-google-ch-1541-154f28.jpg",
+      "description": "The company said that AI-enabled products would be shut off by default for schools, which will also cut off their access to Google Search."
+    },
+    {
+      "headline": "Google Curbs AI in School Accounts After Pushback",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEpoOVBCTWZMaE5yTk5JeG0tX0FWdk5OZkY1d1dWQXQycUZGR2xwTks3VDlNaTJENmF6ZjM1QzFTN3QzRENuNFFlUjRqdk1FTW5WSWRDU2o3N1dEMEJsaFEzUGt2NGEyUXhXSHB6dF92R2U4d0U4SUN4UHN6LVhCNnJWamlqM2NzenBDWjAyVQ?oc=5",
+      "pub_date": 1793731140.0,
+      "article_url": "https://www.wsj.com/tech/ai/google-curbs-ai-in-school-accounts-after-pushback-6b8021fc",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -15,54 +45,14 @@
       "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
     },
     {
-      "headline": "The AI problem we feared is not the AI problem we got",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGViQUZfbGV6U3M5RVpOSmVBSk45ZzhkczJkWW9VQmdZYXJQcU5lb0pFZ2dTNnAyZURMN2ZtV2hHUW9IRmR4YndvRFl5VXUxemNEdlJMZlJoSUdxVFBWcVpwdTVCODdvZ28ydUZGOWlDSVQwMDRzQWw0REtjcjBiZ3MwT1o?oc=5",
-      "pub_date": 1793682156.0,
-      "article_url": "https://www.ft.com/content/cf6fd711-cfa5-49f9-9958-3aec32369286?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China\u2019s \u2018Lipstick King\u2019 touts AI tokens in first for Singles\u2019 Day festival",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSm1QZW5MSkFQcFdUTzFlUEtXTE1GeTFuRExsenpxeGcwajN0WDZ3SVQ5ODMtWUY3anhZdndaSUF0WHg5LWlXZE1xX3hObUhWV2M0VjZlUE9MZ1VIS3N0LUJLVVdwekJ5QmFHTEI5QmJVOGpfNWJfeWM5YzVLcEphNnEzV01wdDFmX2UwRy1yTlhTTFE5bVhRZHNTNndZb2YtbktPLTVzNDBEYTdqQVE?oc=5",
-      "pub_date": 1793702578.0,
-      "article_url": "https://www.nbcnews.com/world/asia/chinas-lipstick-king-touts-ai-tokens-first-singles-day-festival-rcna607192",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261103-Austin-Li-rs-80e9a0.jpg",
-      "description": "The launch is the first time AI token packages have been offered as a significant consumer product category during Singles\u2019 Day, the world\u2019s largest shopping festival."
-    },
-    {
-      "headline": "America\u2019s AI Ambitions Depend on Taiwan",
-      "source": "Foreign Affairs",
-      "source_url": "https://www.foreignaffairs.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RakI0Ti1SUzdEaU9nUkQ0WVU5YzMwUEV2UXZEYkZCVTl0bjl6eGJmVEM3R21WX0FPRWkyZXZFQXVuWTAwZVhEOWxxTkswRUoySjVYeThEaXZqVFBRMUtkTlczV0FTOHRHdUllaDJLZlNEcWZseE5EX0ZKU3J4UQ?oc=5",
-      "pub_date": 1793682000.0,
-      "article_url": "https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan",
-      "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/11/02/2026-10-30T102902Z_1095736216_RC2MDOAPHJ38_RTRMADP_3_TAIWAN-FOXCONN.JPG?itok=IT6nfGll",
-      "description": "The United States and China are locked in a global competition to determine who will dominate artificial intelligence and whether it will be democracies or autocracies that set the standards and values of the new digital age. The United States leads the world in the sophistication and power of its artificial intelligence models, and its innovation base and investment in research and development remain unparalleled."
-    },
-    {
-      "headline": "Opinion | The Big Change Coming in U.S.-China Relations in the Age of A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeDBCYnIyYzFCMnhOQThxTHJXTUVkQ0VRb0txRnJIVmM2VjMwRkdMUTM4d25BRy1ndmhtZGNMMlNZWUNiaGFneEZFQkpCelRUUm5jaUxwMUlEV3NEUVFHUll6T1ZNX0FmN28xTnZyS2k3U1FXZXB3UUpKOUVLcmI3TGZsbk1GN2p3dnRNdlZvaW5nNTg?oc=5",
-      "pub_date": 1793599206.0,
-      "article_url": "https://www.nytimes.com/2026/11/02/opinion/us-china-ai-manufacturing-exports-weapons.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Wall Street CEOs, Big Money Managers Divided Over AI Risks",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRTMtWkxqbk85Njh3QjN2dUE5blMwMjRUbDVpRXRPS014SEtxYmVkakhncG9pOXBleUk3MER6THE3SmlScWxwUUJGQWZDUHZDVXRXM1Y0STJoLVVtelhZaVVhM1ljZXdKUGNRc1lndnduZmNvejFnaFN4XzNlV1JxOERTWXpNYlN4ZXJTZFhhOVp1d1hkb0cwdjduMnVzaFNxZ1RFUllXMUZGTEtmUGc?oc=5",
-      "pub_date": 1793684940.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-03/wall-street-ceos-big-global-money-managers-debate-ai-risks",
-      "image": null,
-      "description": null
+      "headline": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xMlVlY0MtTHpoVEU4UlM3dk9mTzF4dl9pOUJWLUFuY2tPR3diQ3UzODhyYUN0aWctV3RDUF9Ba2RzR0k3QUw3ZXdLd013NlRSNEpEbl9jSWNMMUhRNEg3UGw1RGpObGxMTEVqenhfUdIBdEFVX3lxTE9jZzllUGdZQ2R0d1pmQ0cwNm9uWU5sZHV1dUx5dW5Oa1Y4TWZPaU9ZT0NQSVhKYWZYN0tJM2otdUh5dEhCMVB4dk9oZGdKUk1MQTVpX3RlZnZNblExaVNRLWpQT2FxX1BhX09NeTRYb0dLOXZk?oc=5",
+      "pub_date": 1793730829.0,
+      "article_url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108443814-1792619674225-gettyimages-2296209323-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080",
+      "description": "Meta is aiming to raise between $20 billion and $25 billion in a bond sale as the company ramps up spending on infrastructure and AI models and services."
     },
     {
       "headline": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
@@ -75,36 +65,46 @@
       "description": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
     },
     {
-      "headline": "Wall Street CEOs, Money Managers Split over AI Risks vs Rewards",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZl9rU3R5dHA5VWxJU2NCX2NXSnpNS0VubEwzN3pteElRS3dSbFNrYW1ROWwxV19pMHNTNGNxMl92TEdZX1FaU1lZX3ZUYk1EMzhYRmhnLVRMd1dJc3pQdmZpZVFxb2tJTDBqc1VteUJUS1dWeVMtYnh0QkxVeVhWb3p1ZjY3NUxVZFpUVnhrLUt1X21taDJ3bWY3ZXhWN0RHQUhDanpiTGhiejRDMF80TUFsNUY4V2c?oc=5",
-      "pub_date": 1793703014.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-11-03/wall-street-ceos-money-managers-split-over-ai-risks-vs-rewards",
+      "headline": "AI Debt is Hitting Record Levels at the Worst Possible Time",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XUzNQdlFoWm1SRmVwV2pjOHJxWENiVzFnSEdSWDlrQUktNTBzVVg0QUNubjhmZEVOQ3BuTGhPRVNEcEdlb2owMHktV284SE94akQxcEtDbEhYR0J0bmx3S1ZOTUtzYTZ6RkFFTndMSi1VVVdQbXRhRm9WeTlkZw?oc=5",
+      "pub_date": 1793731080.0,
+      "article_url": "https://www.barrons.com/articles/ai-debt-markets-amazon-alphabet-3e8faeb5",
       "image": null,
       "description": null
     },
     {
-      "headline": "\u2018Our Risk, Their Reward\u2019: Zohran Mamdani on AI and Data Centers",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaXU0TlpBeXBLdFNZSjZ0RHg5RzF3Z204RXlJQzljOExUbDNjT3hkT0Z1cTU2ZDBrMEV6cmNFUUJMMWI5OW8tN3Z2dnVGVkluem9GOG5udWZ3MWswdGd5ZzFzS2l6Ri1QampVNUp4bkZZdjFENmFXSGhxVVZ5RC1xUndyNzRidw?oc=5",
-      "pub_date": 1793703600.0,
-      "article_url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-      "image": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/191:100/w_1280,c_limit/WEB_WIRED_Mamdani_HR-00808.jpg",
-      "description": "Ahead of the midterms, WIRED talked to New York City\u2019s mayor about data centers, AI in schools, and the future of the Democratic party."
+      "headline": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMG1vRmR1UlRrQUhRdWYxcGJaZ2NiQUVTeXY1bE5KVlhwS1pxQ3RxbEt0YnVQalp6dlFSYVIzODAxUk9QQ1dGTHo2VWhXcENfYWZGWDdGOUdLV09fTTV3dXQtX2RiblFDMWViSUwtWkpXWjNRR0EtYnQzdHlxNS1GUTZmV3NIbmxBYy12RE40VE5jVjRyYnF4RlJXRHZSdURHVXltbDJyVjVIOEZhZHc?oc=5",
+      "pub_date": 1793721619.0,
+      "article_url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Three questions that will define AI's political power",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zYXpjUWFEcjVhVFM5WnBDM0twZy01eUI5M3l4RWdwVDB4azVra2lXZVRvRlNxOGIyeWN4N0U3OGo0Mkl4RkhNTVFiT3JaRDNZZWsyNW81WW1GdVl6cV9nZjl3RVNuSmNNVm5EYVY5SXZPa25wd2c?oc=5",
-      "pub_date": 1793700397.0,
-      "article_url": "https://www.axios.com/2026/11/03/ai-election-politics-2026-midterms",
+      "headline": "Apple Launches Beta Versions of Watch AI Listening Tools, New Health App",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVVBQnczQ0dUZFYwcG5wUjRkU3BpNHQxRk9jNXRLNUcwb1pvWERNLUdKcVhjTjFSeTZ5UUNYeElicHFraUIyV09iSFgtYkJzb2RrdGlIckljN2VZVzVQUEUzQnNZNUFQWUo0NWI1ekdBMGhDemllZldzWFNMZHhQUmRkZkJDQVRRZURHNTlqMUFLWHRjbmE3ZERsVEtxVnREQ0MwVEpyUFczMDk4TjItMzFBaTJVamFjbmI5empyQmFZc09OZEttMw?oc=5",
+      "pub_date": 1793730458.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Apple Is an AI Safe Haven\u2014but Safety Isn\u2019t Cheap",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXB2Vm1NLVhnZGpidHJQanlpdzBaZjRWSmxBc1dMOWdWdXRIWlpPOWpLeHhTdGJPU1VFQnBzV05sUU1tcmdNSTZHZ1k1RDA0OXRiR0V4VDVGTHJNY2JuRHlhZGNBa08yaE5SSkhyWXJJYVVibUlReVdZQWJaRVVoMExkblVETW81bTc2QU43ZkFZTGZl?oc=5",
+      "pub_date": 1793701800.0,
+      "article_url": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-03T11:40:25.033013+00:00"
+  "fetched_at": "2026-11-03T19:10:15.838894+00:00"
 }

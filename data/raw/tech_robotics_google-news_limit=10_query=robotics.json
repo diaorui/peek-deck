@@ -5,54 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "See inside Amazon\u2019s robot warehouse",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN04zaU9pMEZNZ3haSDlaYW43dGo1QktUMEVTazQxY3AxNnFzemszMnVHd05LdVBScnlrUDlBUzNINVpWQzY5Y295ZC14S1owYVNZY05pVG8xaHloMGJHZWlTdWFPeTRUZnpqdHl4VzdsbncyRl9DdklySlJuOV9GNzdQS2Z3bWlaNmpva09jTjg0U3Nf?oc=5",
-      "pub_date": 1793700000.0,
-      "article_url": "https://www.businessinsider.com/amazon-warehouse-where-people-robots-work-together-2026-10",
-      "image": "https://i.insider.com/6ae4a430d8cc18cf7950f7ab?width=1200&format=jpeg",
-      "description": "Amazon's warehouse in Tracy, California, uses robots like Hercules, Pegasus, and Cardinal to enhance efficiency, but human workers remain crucial."
+      "headline": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
+      "pub_date": 1793462400.0,
+      "article_url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
+      "image": "https://tii.imgix.net/production/articles/18087/e0dccb6e-5d64-40c7-be5e-76da17926003.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people\u2019s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ..."
     },
     {
-      "headline": "Laden with eggs, robots race up sacred Chinese mountain",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Qdkg3TVZjMWlhbmJEdW5wQUdKMFNYaWU5UkxqU1FfS09ZaXM5YkdianhkRW95SExNbmRLbXNBUnk1MkliN2J0Mkd3dUxvT0Z4cnFQWW9BdnJzRmtCMG8wQmxxMkMzSnhWcTFBMWVoZnhoRThjcU9ERURyS1lqUQ?oc=5",
-      "pub_date": 1793613609.0,
-      "article_url": "https://techxplore.com/news/2026-11-laden-eggs-robots-sacred-chinese.html",
-      "image": null,
-      "description": null
+      "headline": "Top 10 robotics developments of October 2026",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sZjVrclEtX0p0eDRBNjB5ZFRWdHN1MWU5Ti1sWkJENzVNaDh6M2RRVTFFZERKUklERmFZR1V4QVdua3NrVDNReC12MGlSaVhReGVRcG5JeHgzOFVFelp2THBZb09SNlBYMVZvaDFwWnBSMF9fbGMxck1yaTF5QQ?oc=5",
+      "pub_date": 1793642868.0,
+      "article_url": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/TRRoctobertop1026-featured.jpg",
+      "description": "In October 2026, we celebrated the 20th anniversary of RoboBusiness and announced that the show will be rebranded to Robotics Summit & Expo West."
     },
     {
-      "headline": "Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS2VqQklfelowUTkwZzVENDdhTmFjek95N2hES21zS2R5bVU5REFzNnBDSUdBdWp4SXJDbmhYM3d2NDg5MVpudFZaYmEzcVFQaUUyWjd3U1RzVjJzN01hQ2dnV3hVbHAzZ1VpWV9peGRVM25WM1Q4aEZSQmgtQVRoeW9tV21heXMxVk8wOFVFYWxDMURwbUctWl83aGwyTmVHRlgwY0pGZGtJU3BJNmplZ3p5NC1VOEJVS0pSSUVIbmRPYjk4bW1V?oc=5",
-      "pub_date": 1793658314.0,
-      "article_url": "https://www.forbes.com/sites/tarungalagali/2026/11/02/five-lessons-from-the-robotics-founders-who-budget-for-their-own-mistakes/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "West Michigan robotics company opens $15.5M South Carolina facility",
-      "source": "MLive.com",
-      "source_url": "https://www.mlive.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalZTbjRRX3NsQmlhZUpGZjVwaDFiRHJzN2Ezd2piX2c0Qml6NTJFZzhvVGQ4QVdYempOX293T1ppTW9RSG9OS0xtY3VBaXRvRVpTQ3p3d1RjNTk0ZllGSFJyZkJ2M29SWklFQWh1djJiUk9KRFh3NEIxQmRZM0hjQ2dpRlpBMERRZTFFd0xSVkxBZjVtOGFUWDZWWkNkZ05DaHB2YTNTUDNGallfTjltZ1ZibEpVaW41M2c?oc=5",
-      "pub_date": 1793631900.0,
-      "article_url": "https://www.mlive.com/news/grand-rapids/2026/11/west-michigan-robotics-company-opens-155m-south-carolina-facility.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why this German robotics founder rejects military contracts",
-      "source": "DW.com",
-      "source_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkp3V3NiNEFYNmt6Y1JJWDU2bnFrUkRxVFJaaWN0bm9mRklkaTVzbkNodklZUzlTd3lSWnU5eTNCZkViODRyY19sLTB2RkpCZWhkaWY3dkRST20zWG1JR2dabGJwVnlGN01WMGIxcUtISW5nSzlMV1FPT2ZhSVBxNmZhenZPbFJYVXhGdDd0Tm1OdlJveHJUc0lxaks?oc=5",
-      "pub_date": 1793697339.0,
-      "article_url": "https://www.dw.com/en/why-this-german-robotics-founder-rejects-military-contracts/video-79810916",
-      "image": "https://static.dw.com/image/79485182_6.jpg",
-      "description": "As governments and investors pour into defense technologies, David Reger, CEO of Neura Robotics, is betting on intelligent robots. He explains why Europe's future hinges on industrial productivity."
+      "headline": "The only U.S. pure-play humanoid robotics stock begins trading this week",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWVpIWHMzMENfT3MxUUlqOWFtOWM4Vi1rMXVFQlYwMk1PalA3M3ptQ1g2ak14a0xVRmFQSGVfLXlwSGEyaU5aQWUtWFROR092QXN6d3pVNll3MFlXX2oyUGt0b3lfWTAxQk9nc2VIRlFnc0dmeFctVHBhX0Jyc1FKNWxPcGFSekxiT0RyTjhXNS1hVDl6UzZ0a1ZHaVVQUDhjYkF0cFN6ekpYdlFQNVdmSjBra2xKeG1qTTlITk9QbTVKM1dqb3lBVVc3RVQtbjQ?oc=5",
+      "pub_date": 1793706109.0,
+      "article_url": "https://www.tradingview.com/news/seekingalpha:52490fbc2094b:0-the-only-u-s-pure-play-humanoid-robotics-stock-begins-trading-this-week/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Shareholders of Churchill Capital Corp XI NASDAQ:CCXI approved the business combination with Agility Robotics, a leading humanoid robotics and physical AI company. Agility's gross capital raise in connection with the proposed business combination and related financings is expected to be approximate\u2026"
     },
     {
       "headline": "Video. Humanoid robots climb China\u2019s Mount Tai in unusual challenge",
@@ -65,46 +45,66 @@
       "description": "Video. China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path."
     },
     {
-      "headline": "DroneDog Strengthens Stadium Security: NFL Robotic Technology",
-      "source": "Yahoo Sports",
-      "source_url": "https://sports.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNekNuYWhyVkc1YndVSTFLUzdtMUhHMUVRbVhhRVlIUU9yTXhXVGxrNnFSSWFkYmdFbnIyckRqTTdXbERkMEZUSnFqREFhNHNYV3BHTlhUdld3aS1rN29CRk90aDk4ZEliNlNkUlJzVXlJc2MxX2Z2ZXlDUjJEYlVmNkRGLUpGNV9QaTRKSDg3RjBVY2l5?oc=5",
-      "pub_date": 1793676300.0,
-      "article_url": "https://sports.yahoo.com/articles/dronedog-strengthens-stadium-security-nfl-032520533.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a47824b63f4b1b5096cac32282b48fec1728c2338284485de305b14026c4bfdc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F6a9c411624cfc9db487994099ac22f54.jpg",
-      "description": "Stadium security has become an area of concern across the NFL. Can stadium venues ever be too safe? Asylon Robotics\u00b4DroneDog Strengthens Stadium Security, and the difference is noticeable. These ground robots expand security visibility, support consistent overnight patrols and help stadium teams operate more efficiently. As major sports and entertainment venues face increasingly complex security \u2026"
+      "headline": "See inside Amazon\u2019s robot warehouse",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN04zaU9pMEZNZ3haSDlaYW43dGo1QktUMEVTazQxY3AxNnFzemszMnVHd05LdVBScnlrUDlBUzNINVpWQzY5Y295ZC14S1owYVNZY05pVG8xaHloMGJHZWlTdWFPeTRUZnpqdHl4VzdsbncyRl9DdklySlJuOV9GNzdQS2Z3bWlaNmpva09jTjg0U3Nf?oc=5",
+      "pub_date": 1793700000.0,
+      "article_url": "https://www.businessinsider.com/amazon-warehouse-where-people-robots-work-together-2026-10",
+      "image": "https://i.insider.com/6ae4a430d8cc18cf7950f7ab?width=1200&format=jpeg",
+      "description": "Amazon's warehouse in Tracy, California, uses robots like Hercules, Pegasus, and Cardinal to enhance efficiency, but human workers remain crucial."
     },
     {
-      "headline": "AGIBOT puts six humanoid robots in 24-hour convenience store challenge",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWdOR2syLUhwb0UzbkM1YjNEeGo1RU1tN2JSOWFhbDNXWjZ2THR5Vl9MTWszQ1hJWXZUZGRBY3BDa2ItYUFGVG11X2wwMG9MaG80NnhSa2ZMVm50dFBjR25FanAtSHB3akFISHZ4aERZX21VMGlvMURldE9QVTUtZmdBbG5zeFpMRWRmeUNrQ1o0OVNu?oc=5",
-      "pub_date": 1793699760.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/agibot-humanoid-robots-in-convenience-store",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-1-2.jpg",
-      "description": "AGIBOT puts six G2 humanoid robots through a 24-hour convenience-store challenge to test everyday retail tasks."
+      "headline": "Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS2VqQklfelowUTkwZzVENDdhTmFjek95N2hES21zS2R5bVU5REFzNnBDSUdBdWp4SXJDbmhYM3d2NDg5MVpudFZaYmEzcVFQaUUyWjd3U1RzVjJzN01hQ2dnV3hVbHAzZ1VpWV9peGRVM25WM1Q4aEZSQmgtQVRoeW9tV21heXMxVk8wOFVFYWxDMURwbUctWl83aGwyTmVHRlgwY0pGZGtJU3BJNmplZ3p5NC1VOEJVS0pSSUVIbmRPYjk4bW1V?oc=5",
+      "pub_date": 1793658314.0,
+      "article_url": "https://www.forbes.com/sites/tarungalagali/2026/11/02/five-lessons-from-the-robotics-founders-who-budget-for-their-own-mistakes/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Robotics startup Tutor Intelligence nabs $75M investment",
-      "source": "SiliconANGLE",
-      "source_url": "https://siliconangle.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVE2bzNtekNqTUhYT0ZmM2RrZzdLX21EX3dpVzlyTTlwRTVFSWdEOVY1OW5BWk4yRHhBSmhZbk1NQ3I4T1pYMVNPbHNWQ0JNc1Z5aUN0TGVOVmpHTDFtYnNIWC1zdkhZMlIzbmVxeFpaNUNaOGEyTEZQU0VHS29xR0trM29KZkhHbXhpaVVSYkJoU01vUnJZ?oc=5",
-      "pub_date": 1793668080.0,
-      "article_url": "https://siliconangle.com/2026/11/02/robotics-startup-tutor-intelligence-nabs-75m-investment/",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Tutor.png",
-      "description": "Robotics startup Tutor Intelligence nabs $75M investment - SiliconANGLE"
+      "headline": "Laden with eggs, robots race up sacred Chinese mountain",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Qdkg3TVZjMWlhbmJEdW5wQUdKMFNYaWU5UkxqU1FfS09ZaXM5YkdianhkRW95SExNbmRLbXNBUnk1MkliN2J0Mkd3dUxvT0Z4cnFQWW9BdnJzRmtCMG8wQmxxMkMzSnhWcTFBMWVoZnhoRThjcU9ERURyS1lqUQ?oc=5",
+      "pub_date": 1793613609.0,
+      "article_url": "https://techxplore.com/news/2026-11-laden-eggs-robots-sacred-chinese.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Top 10 robotics developments of October 2026",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sZjVrclEtX0p0eDRBNjB5ZFRWdHN1MWU5Ti1sWkJENzVNaDh6M2RRVTFFZERKUklERmFZR1V4QVdua3NrVDNReC12MGlSaVhReGVRcG5JeHgzOFVFelp2THBZb09SNlBYMVZvaDFwWnBSMF9fbGMxck1yaTF5QQ?oc=5",
-      "pub_date": 1793642868.0,
-      "article_url": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/TRRoctobertop1026-featured.jpg",
-      "description": "In October 2026, we celebrated the 20th anniversary of RoboBusiness and announced that the show will be rebranded to Robotics Summit & Expo West."
+      "headline": "Apple Still Thinks You Want Robots to Fold Your Clothes",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFczd21jMjRHY3NkS3dLdUU0aHBjWk9admFHRXcxR2pLZ3NJaVBaWVhOV0x3RjdwdVphZFF6c0pTNzJaX0U5VEdXbGVQbFpsX2hDMGRVbUp5Q01iLWpPUzRBazNqV3F3ZTdiV2k2eHJQTkpyQ1lOaVFjTjcxU0E5QzJTbVNfMThXZTFpa3RpTQ?oc=5",
+      "pub_date": 1793715638.0,
+      "article_url": "https://gizmodo.com/apple-still-thinks-you-want-robots-to-fold-your-clothes-2000833872",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz to Scale Frontier Robotics Model Training, Manufacturing and Deployment",
+      "source": "Business Wire",
+      "source_url": "https://www.businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNRzhydFA4MVhpZTBUc1hKbHZVLTVOTFB0ZkMtaVprS3VzLWdScmhLa3ZRSG9qdGppYlZUODE4RUZUQUl5OUtaRUt5OHJYbnZ4UjJnNndKTDlZZHZld25lbUJXdWY5QUwxc0dsRUpjaWZQcFJOcFUtQTE1WHN6QnFaYmZ0RTFxYl93eVlISkdHVlhEMjZrMFVPeWk1UERjaktqbVlzQ0xKWGo1bEhhdHdzc2hSVHJyV3lZMzZZZFJpOElGYWM5bFQ5Q3FfdkRSZ3ViWTZFRWJobmVXVGdUWUNlaWx4SE9Ua3haUFlrTENQdVFsQnE5aHlWRkkyTTZOSWpnSlBEQzlTdExoaTBiOVA4OUJZT1FfcWNzTVI3MVpNWnV2djdQOFFCOE53OA?oc=5",
+      "pub_date": 1793635200.0,
+      "article_url": "https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-%2475-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Robotic lamp maker Syncere closes $11M led by A16z to deliver its pre-orders",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUm1aZ3JhSHRCaVRMbWJSVzBqM0V3QmJLQzNmaW9WR2R4akRBOWtQTktGM2ZSajhhbV9zQWdQTzZWRUJVRFJNcWcybHNLeHhTVk1KV1hCdXVSM1JJV1I5dUhCVFB0aTlqcWxoMDZZRzE3dnIwRDgwcFFMT21jQWY2dHN0OA?oc=5",
+      "pub_date": 1793708937.0,
+      "article_url": "https://www.axios.com/pro/climate-deals/2026/11/03/syncere-lume-a16z-pre-seed",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-03T11:40:17.641928+00:00"
+  "fetched_at": "2026-11-03T19:10:12.935015+00:00"
 }
