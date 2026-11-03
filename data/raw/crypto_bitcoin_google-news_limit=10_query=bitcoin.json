@@ -5,37 +5,77 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Live updates: Bitcoin posts small rise as Binance records $6 billion outflows after starting withdrawals",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRTZVNFRwZUdXWEF3Y3ZlVC1iTnZlZF9RclI5eWlDcnh0WlQ0eUNtT2ZhdXY0Wmlabm1xQ3VCaXdJRGFjN1BvM1UyQ2xfOEg5aktNbUtuTEh2SzBCSGxPRXgzQVhaSVhoaWNtQmtCMWR6SDRvdVY0T3VzOExldU1sUm81RUlzSzJGWURWVDEzaUNRZ2s0Z2RZNzVieFlLRGNydDRCUVlfVjYzeG1fMkxYU0JsNHNIUllaX1BscmpUQkxQdGl5MjRWUnFLdEt1T3hwcy1mc0ZEME8tZllhUDJwU3AtaHo0Zw?oc=5",
-      "pub_date": 1793636621.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+      "headline": "Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies",
+      "source": "SWI swissinfo.ch",
+      "source_url": "https://www.swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFJDaEpnR3pRZG1vVDQtWlZSOGx4a2dPQWNxLUo2eEpMYklsdG90c2FZLVY5cEtYSG05aE4ydUk3Tml5ODZoRWJSOVF0WjZ6Vmx0OWlDMENSaE91cXkxWExmOWhXa3NYd1ZqalRpaFlWdzdwV2xDU1hvTzJkSVdHYVNWMGlvdHlha3lRVzNUeXg4WjlnRm9yNUNQUTFMdW03QkxfT3V2Z191M0VHbXJZdkp2VGtFSlNzM2VOV3BnQQ?oc=5",
+      "pub_date": 1793623191.0,
+      "article_url": "https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545",
+      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f915e254cd47423edb17f5452558219ed0c78700-92313700.jpg?ver=b061450f&fit=1200,900",
+      "description": "Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere."
+    },
+    {
+      "headline": "Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEFEZlhWLURyQ0pldFJJVVdzUjZ4ZV9RZE5ERlNJcjZoRjEyWTZNN2NVSmtDVkRmal81ejRNQ1pWLWFHNHAwQ3NkYmJ5bmViM0pXM3dOTHQ5SkJWRWgtUUV6X2xMdVZha1E2WWdpdlU0QUJNckI1SHRxMGlVUHZFZjMwWDZSby1reEpiVG5sOF91RDRJUHpvVmR1RWlEQnVZdmxONU50UVFLaV92RWVRMlhn?oc=5",
+      "pub_date": 1793634202.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/mercado-bitcoin-says-it-will-absorb-40-million-loss-from-hack",
       "image": null,
       "description": null
     },
     {
-      "headline": "$1,000 in Bitcoin at the 2017 Peak: What Is It Worth Now?",
+      "headline": "Mercado bitcoin hit by $40 million hack across 10 blockchains",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcENWT1BWRnVFLTdzMDduUm5SbWM4QkI0WkZXSi0tcFhfOVFaUkVwYlFhaVlUSjNrUXc0U2h2cUtXV1d4LU5mTE9IUmk3OU02dVJueHNldWxFUUdoajJ3cWxaZHJxQU53ZmZSQlhaV3NJcnpkSHJVb25jNDlvc1ZET0tSNmgxbXV3bXFIel9Iem1HVlhEUzNfRXh3cmJnelZ5Q0RVWmVadGpyMlo2VFRiZEI0NkxnLXFnaU9acHl4WkZsMDE0Yk05bTM0RXI?oc=5",
+      "pub_date": 1793634809.0,
+      "article_url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Mercado Bitcoin Halts Withdrawals After $40 Million+ Hack",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeldoVnpQRkpiSTVnTVVVdVdXblU2YkxjYnAtaEJhb25sVVdmN2h0d2N2c1RtRmZzTU5uZFJLbklqZlN4cnMzSXlWMWpNbnlDaWNOLUJlY0tET0tyRU5mUXFqQXpBeU5kbEt3QnFMbTRkUmtKbGFrNk9Tc1FWWjFYag?oc=5",
+      "pub_date": 1793635745.0,
+      "article_url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Brazils-Mercado-Bitcoin-Freezes-Deposits-and-Withdrawals-Due-to-Ongoing-Security-Incident.jpg",
+      "description": "Brazil\u2019s largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen."
+    },
+    {
+      "headline": "Bitcoin Price Outlook For November 2026: One Price Level Remains Critical",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0ZsQWVNdlFlR2NLRFNTQzV2NjJWZ1oxVU95OEF6SzVYZWF2dUxCM2xhNUxHRnNjTzBMMml0S0V6ZVpLQ1dTNGxpY1REVDBMN3hIU1NZWWd1Qnl5eWo1ZjdpclA0dVN0VDc1a1VfTHB1YVlfUFZpUDZ6V2pQN3N5dHRWTlFjc1dwZkV4Tmx0enNJUQ?oc=5",
-      "pub_date": 1793657628.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/1-000-bitcoin-2017-peak-221348746.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3443080690749ebf96a689218d8879a5689c195296bb851c3d9654e90e3f9420/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fa38e89e6ce8003f9f66325a9ff71b7cf.jpg",
-      "description": "Buying Bitcoin at its 2017 all-time high meant watching a $1,000 investment collapse by 84% and staying underwater for three years. Whether that patience ultimately rewarded holders more than a simple index fund depends on where Bitcoin heads next."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWpEeW9LWU5TMXQyZDRsQUo2RFprbzhOQ25TQ3NkNHRxNEF6TFZCNDRWQXZvMllmeE1pR3RleWlta1c5d1p1aXN5eUdpU3ByTjFBcDZEYjJrRkRHWmN3dTItMGNEdmpIRnJaWkxPMHBMdkJzSENOcjNSMU95MU9YQUhOczVIcUpvOTNyMkI3QkZ5V1R2UDhBaGlBNTkxc0lJT2c?oc=5",
+      "pub_date": 1793671200.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-outlook-november-2026-020000012.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/59194c41975b1fa796f6174deb14da01d2c814f89f2cd03765fdbe12bbf58ca0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Faab0375c3c70f9920cfa3ed72abdc22e.jpg",
+      "description": "Bitcoin price prediction for November 2026 hinges on $76,000. See what on-chain data and charts signal after the Binance hack."
     },
     {
-      "headline": "Current price of Bitcoin for November 2, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSlZVWFctdVZUZkZxTENyNGRpbkg3X1A3RzJpSXR1ZWtwc0F2d1Z6YkVUcGVuSHVYZVVleHlKeGRXQW5MRlRFOVJ5YzY0VWpiYWRrdFZERGF5QTRYeGVTNTh5VjdkYm8?oc=5",
-      "pub_date": 1793619900.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-11-02-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-2.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+      "headline": "On the Chain: Bitcoin slips below US$77,000 as Binance hack fallout keeps crypto markets on edge",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0dHQXEwa1Y5d1VrVTd6Q25rOEJRbFFRODlWTW5yTVNiMGFhX2FmTUxPblZXbWZMU1Q1RHJXTU93T2lLRlZ2RXJIWXdiWEhDTk12SGh4SUIyT1RNZW96OS1nN2hfVnI1Sm9rMjJzQ2hXekNud2d3U3d5bUllYkVTSE1HYw?oc=5",
+      "pub_date": 1793674560.0,
+      "article_url": "https://uk.finance.yahoo.com/news/chain-bitcoin-slips-below-us-025600858.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/82ecb6b4aa61842d5a54f874505d8dc7b8ef21214d2501d55a7a6e7feb126fd2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_uk_164%2F529e733ba0506b505fbdfd37dd490dbe.jpg",
+      "description": "Bitcoin has slipped below US$77,000 as cryptocurrency markets remain under pressure from the fallout of the record Binance hack, heavy liquidations and renewed caution across risk assets. Bitcoin was trading around US$76,800 on Tuesday morning, down close to 2% over 24 hours, while Ethereum..."
     },
     {
-      "headline": "Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft",
+      "headline": "Bitcoin price analysis: BTC traders hopeful for post-election gains",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3gyUmNUOEp4dlI1Rk51YUVsMTBmNkJULTdrc3JXLTNycWJJM3pGU2otcl9CbkVBaEFOSTZvSDFiTVN1NUlSOFZDZXV0WGg1aVZSeUxQRTRJY19naEZhU3RTa0xfR2tjbU1xM0JRcUJJM0J0a2Z6dzU4NlRpQ2syZ2ZhMDlxXy1wV2NuMFNTU0RWT2l6cDNtZ2o1NmtHY3h3eUVUM0dFd3NaZ2gtaGVHc1MwenAxUWFpeUxLZk1aYUJLRVhJMzNN?oc=5",
+      "pub_date": 1793643237.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Dollar falls ahead of US midterms as oil plummets",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
@@ -55,56 +95,16 @@
       "description": "Willy Woo said Bitcoin edged out gold last week, while Ted Pillows said \"we are only in the first correction of this bull run.\""
     },
     {
-      "headline": "Bitcoin's 'volatility curve' has a midterm bump: Crypto Daily",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2hyTDN5bFdKV2F6Rk5mZ1NndjF5akdrbTJPSXpVTnVJTTBSWkRFQjlzVnlQQ09yeDI2S290a3hhdmZpZ2d2cmd6Q1B5Q0RjbVo0OWZzYmdmRmFGQjZ2UmZFamwxd1FzaloyQmc5S3B0YndlbTVOdmRaWFlhekxScUVGLVg1aTlHanJGMjFOSXk3VDNleXJz?oc=5",
-      "pub_date": 1793622617.0,
-      "article_url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+      "headline": "Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
+      "pub_date": 1793512140.0,
+      "article_url": "https://www.reuters.com/legal/government/binance-resumes-bitcoin-withdrawals-after-covering-bulk-stolen-63-billion-2026-11-01/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Couple loses $27,000 in Bitcoin scam by someone pretending to be family member on TikTok",
-      "source": "13WMAZ",
-      "source_url": "https://www.13wmaz.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVEYtR2FYWlNmYkZzRndpVFFvbDd0Tkw5MTBfMUowd25CR1QySXhxQ3RDamVzUEJRYl9lcUhGSXJQNDdBS2psT0JQZnlRTnFQMWk0TVp1QzROT01DVHFJaWl2Z2Vwb0owWFVDb0pUSXhjRkw1eXNqYXE5eldBa2NpUkUyMExnakdjeVZYSGV6WDJzY2NtVjJWVUZSbzZhYlcxTDBNbTR0WnRhbWxBUUQzeWN5MTZFZlF6a3lESWc1Mld4cEFid2Q4alIyTGJjTWRhYjZKYTQ2dG9tM2s2Z1dF?oc=5",
-      "pub_date": 1793646780.0,
-      "article_url": "https://www.13wmaz.com/article/news/crime/couple-loses-27000-bitcoin-scam-someone-pretending-family-member/93-1d0ce0d6-4276-4a19-a222-09c1ff032928",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEFEZlhWLURyQ0pldFJJVVdzUjZ4ZV9RZE5ERlNJcjZoRjEyWTZNN2NVSmtDVkRmal81ejRNQ1pWLWFHNHAwQ3NkYmJ5bmViM0pXM3dOTHQ5SkJWRWgtUUV6X2xMdVZha1E2WWdpdlU0QUJNckI1SHRxMGlVUHZFZjMwWDZSby1reEpiVG5sOF91RDRJUHpvVmR1RWlEQnVZdmxONU50UVFLaV92RWVRMlhn?oc=5",
-      "pub_date": 1793634202.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/mercado-bitcoin-says-it-will-absorb-40-million-loss-from-hack",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'Like investing in Bitcoin': Inside Kentucky LB commit Drew Williams' pledge, flip efforts from SEC foes",
-      "source": "247Sports",
-      "source_url": "https://247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0tKQnBsTEx0MXNQUTJvaVhYQTNBVUlVV3l4eUFNbS1fWm1uTUMxTFFqbGhWUmgxR3A0VmxJckZGeGZ6ZEctaVlJUmsxTENuaXNxc1dVRS1kSXRWWTctOUVZamt3MVJPNE9fb3kyd3haVm1ZWUdUa2gyckpaNC04TUZpaWpVcTYxSGVnZThXTlZ0c0N5azIzV0pHYTd0MjA?oc=5",
-      "pub_date": 1793632305.0,
-      "article_url": "https://247sports.com/college/georgia/article/kentucky-lb-commit-drew-williams-flip-sec-292095181/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdWR6R1FraTR6MUtTMjUyUUUwX1VOM0N4aldYNUt1cy1UN0REYnpzeXdvaXV3aDJhT3ZfaVBXalNVRTBoWE4wbzZiR0RaUUl1OVJDeGlMME5LUUpOenRIUXdkYXRycnBUX2FFT194TVNnNUlNNUZsR2dUT09rMHRyUGhwTDlfU0gwMHdJUlFhV2dNaWg5UTR5UWpWT05fNGJseERLNWtSQ3lnU3BJYksxajgwXzJaTDdfdmNWTXdLWmhGVzRncnoyY3VYVXo3M1lxUEdaWA?oc=5",
-      "pub_date": 1793647678.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:c1243cebb094b:0-bitcoin-risks-drop-below-76k-as-7-oil-slide-fails-to-spark-btc-price-rally/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin (BTC) returned below $77,000 after Monday\u2019s Wall Street open as crypto shrugged off hopes of a US-Iran peace deal.Key points:Bitcoin falls as earnings, US midterms overshadow Iran war hopesData from TradingView showed BITSTAMP:BTCUSD extending daily losses to 1.7% after reaching a local hig\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-02T22:25:40.384287+00:00"
+  "fetched_at": "2026-11-03T03:37:35.955678+00:00"
 }

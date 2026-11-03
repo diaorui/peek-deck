@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-02T22:25:46.278822+00:00'
+updated: '2026-11-03T03:37:40.257811+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 02, 2026 at 22:25 UTC  
+**Last Updated:** November 03, 2026 at 03:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,252.46
+### $2,262.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -4.0%  
-**30d:** -17.1%  
-**90d:** +18.3%  
-**1y:** -37.2%  
+**24h:** -2.1%  
+**7d:** -4.8%  
+**30d:** -17.2%  
+**90d:** +18.0%  
+**1y:** -32.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.42B
+**Market Cap:** $274.32B
 Rank #2
 
-**Circulating Supply:** 122,183,192 ETH
+**Circulating Supply:** 122,186,162 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.4%
+-54.6%
 
 **All-Time Low:** $0.43
-+520472.6%
++518430.9%
 
 ---
 
@@ -152,11 +152,19 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
+**[Designing for sovereignty: Ethereum for digital public infrastructure](https://blog.ethereum.org/2026/11/03/digital-pub-infra)**
+
+Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation...
+
+ethereum.org • 22m ago
+
+---
+
 **[Elon Musk’s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html)**
 
 Elon Musk’s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -164,19 +172,13 @@ Yahoo Finance • 13h ago
 
 XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a better chance of rebounding by 2031.
 
-24/7 Wall St. • 21h ago
+24/7 Wall St. • 1d ago
 
 ---
 
 **[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rebound as November begins after a losing October](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-november-begins-after-a-losing-october-202611020358)**
 
-FXStreet • 18h ago
-
----
-
-**[Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)**
-
-CoinDesk • 3d ago
+FXStreet • 23h ago
 
 ---
 
@@ -184,7 +186,7 @@ CoinDesk • 3d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 15h ago
 
 ---
 
@@ -192,15 +194,23 @@ Fortune • 10h ago
 
 Vitalik Buterin uses kohaku-cli for private Ethereum payments. Its local code, dependencies and signing permissions define the remaining trust decisions.
 
-CryptoSlate • 45m ago
+CryptoSlate • 5h ago
 
 ---
 
-**[Ethereum: Inverse Head and Shoulders Breakout vs Bitcoin](https://blockchain.news/flashnews/ethereum-inverse-head-shoulders-breakout-vs-bitcoin)**
+**[Tron: Flips Ethereum in USDT Supply](https://blockchain.news/flashnews/tron-flips-ethereum-usdt-supply)**
 
-Trader Tardigrade reports Ethereum versus Bitcoin broke out of an inverse head and shoulders pattern on the 8-hour chart, flagging a major momentum shift...
+Onchain Lens reports Tron ended Q3 2026 with $92.35B in USDT circulating supply ahead of Ethereum's $86.69B after taking the lead on July 23, with current...
 
-Blockchain News • 21h ago
+Blockchain News • 11h ago
+
+---
+
+**[Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward](https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward)**
+
+Onchain records show Mercado Bitcoin incident-linked wallets moving ETH, USDC, PEPE and TRX onward, while some transferred gold tokens were subsequently frozen.
+
+The Defiant • 6h ago
 
 ---
 
@@ -208,21 +218,13 @@ Blockchain News • 21h ago
 
 The incident began on October 31 at 11:34 UTC, when Ethereum replaced a recently produced block containing a 10 ETH deposit that THORChain had already
 
-FinanceFeeds • 6h ago
-
----
-
-**[Mercado Bitcoin Keeps Withdrawals Suspended, Identifies Incident Wallets](https://thedefiant.io/news/hacks/mercado-bitcoin-keeps-withdrawals-suspended-identifies-incident-wallets)**
-
-Mercado Bitcoin identifies incident-linked wallets while deposits and withdrawals remain suspended. The exchange says customers suffered no losses.
-
-The Defiant • 6h ago
+FinanceFeeds • 11h ago
 
 ---
 
 **[Bitcoin Falls Below $77,000, Ethereum, XRP, Dogecoin Flat Ahead of Midterms](https://www.benzinga.com/crypto/cryptocurrency/26/11/62795952/bitcoin-falls-below-77000-ethereum-xrp-dogecoin-flat-ahead-of-midterms)**
 
-Benzinga • 1h ago
+Benzinga • 6h ago
 
 ---
 
@@ -236,7 +238,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 2K • 👍 112 • 💬 79 • ⏱️ 47:29 • 2h ago
+👁️ 8K • 👍 216 • 💬 107 • ⏱️ 47:29 • 7h ago
 
 ---
 
@@ -246,7 +248,7 @@ CRUCIAL XRP LEDGER SECURITY FLAW FOUND! ETHEREUM IS BETTER? Hey babes, an XRP Le
 
 📺 CryptoWendyO
 
-👁️ 220 • 👍 36 • 💬 3 • ⏱️ 5:52 • 25m ago
+👁️ 4K • 👍 163 • 💬 11 • ⏱️ 5:52 • 5h ago
 
 ---
 
@@ -256,27 +258,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 245 • 💬 85 • ⏱️ 23:22 • 18h ago
-
----
-
-**[Ethereum Bounces From Major Support. Is the Low In?](https://www.youtube.com/watch?v=0FRKySfUK9A)**
-
-Ethereum is showing some upside momentum and is approaching the top of its channel. Here is what would confirm a low, and ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 195 • 💬 7 • ⏱️ 6:40 • 18h ago
-
----
-
-**[ETH Ethereum Price Prediction: 2nd of November](https://www.youtube.com/watch?v=7Y8G6r0ghxY)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 211 • 👍 2 • 💬 2 • ⏱️ 9:47 • 4h ago
+👁️ 14K • 👍 260 • 💬 93 • ⏱️ 23:22 • 23h ago
 
 ---
 
@@ -286,25 +268,7 @@ Can Ethereum reclaim $2300—or is $1950 next? If $2300 acts as resistance, $195
 
 📺 Chart Champions
 
-👁️ 3K • 👍 61 • 💬 1 • ⏱️ 0:50 • 10h ago
-
----
-
-**[ETHEREUM AND XRP ARE GOING TO ZERO #xrp #crypto #ethereum](https://www.youtube.com/watch?v=xuuJ_ceKMiE)**
-
-📺 CryptoWendyO
-
-👁️ 21K • 👍 753 • 💬 58 • ⏱️ 1:14 • 2d ago
-
----
-
-**[Ethereum&#39;s Biggest Bull Case Has One Massive Flaw](https://www.youtube.com/watch?v=yj1Aug58WpA)**
-
-Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free with our Insider Portfolios at: ...
-
-📺 Milk Road
-
-👁️ 6K • 👍 73 • 💬 77 • ⏱️ 14:53 • 1d ago
+👁️ 3K • 👍 64 • 💬 1 • ⏱️ 0:50 • 16h ago
 
 ---
 
@@ -314,7 +278,37 @@ BITCOIN WARNING: Next Price Target Activated (Get Ready)!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 2K • 👍 126 • 💬 65 • ⏱️ 16:35 • 2h ago
+👁️ 7K • 👍 223 • 💬 88 • ⏱️ 16:35 • 7h ago
+
+---
+
+**[Ethereum Bounces From Major Support. Is the Low In?](https://www.youtube.com/watch?v=0FRKySfUK9A)**
+
+Ethereum is showing some upside momentum and is approaching the top of its channel. Here is what would confirm a low, and ...
+
+📺 More Crypto Online
+
+👁️ 9K • 👍 206 • 💬 8 • ⏱️ 6:40 • 23h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 2nd of November](https://www.youtube.com/watch?v=7Y8G6r0ghxY)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 277 • 👍 4 • 💬 17 • ⏱️ 9:47 • 9h ago
+
+---
+
+**[Ethereum&#39;s Biggest Bull Case Has One Massive Flaw](https://www.youtube.com/watch?v=yj1Aug58WpA)**
+
+Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free with our Insider Portfolios at: ...
+
+📺 Milk Road
+
+👁️ 6K • 👍 74 • 💬 77 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -324,7 +318,15 @@ Crypto is doing better following a steep downtrend into a bear market, though as
 
 📺 Schwab Network
 
-👁️ 7K • 👍 37 • 💬 6 • ⏱️ 7:08 • 1d ago
+👁️ 7K • 👍 38 • 💬 6 • ⏱️ 7:08 • 1d ago
+
+---
+
+**[ETHEREUM AND XRP ARE GOING TO ZERO #xrp #crypto #ethereum](https://www.youtube.com/watch?v=xuuJ_ceKMiE)**
+
+📺 CryptoWendyO
+
+👁️ 22K • 👍 774 • 💬 60 • ⏱️ 1:14 • 2d ago
 
 ---
 

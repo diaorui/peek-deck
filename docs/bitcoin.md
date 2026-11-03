@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-02T22:25:46.275479+00:00'
+updated: '2026-11-03T03:37:40.251599+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 02, 2026 at 22:25 UTC  
+**Last Updated:** November 03, 2026 at 03:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,932.52
+### $76,650.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -4.8%  
-**30d:** -11.0%  
-**90d:** +19.1%  
-**1y:** -27.6%  
+**24h:** -2.2%  
+**7d:** -5.7%  
+**30d:** -10.6%  
+**90d:** +19.2%  
+**1y:** -24.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1545.27B
+**Market Cap:** $1541.55B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--39.0%
+-39.2%
 
 **All-Time Low:** $67.81
-+113244.6%
++112971.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Binance Hack 2026](https://www.reddit.com/r/Bitcoin/comments/1xlitny/binance_hack_2026/)**
 
-22h ago
+1d ago
 
 ---
 
 **[As always..](https://www.reddit.com/r/Bitcoin/comments/1xljlgy/as_always/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[can you stop moving for a second?](https://www.reddit.com/r/Bitcoin/comments/1xlgype/can_you_stop_moving_for_a_second/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Hey guys, I wanted to open a discussion about where we are in the cycle. Could this be the final major correction before the next leg up? In previous cycles, a hack involving a tier-1 exchange like Binance would have completely decimated the price and triggered pure panic across the market. This time, while we obviously saw a drop, BTC didn't crash nearly as hard as historical precedents would suggest. Every cycle has a major FUD event or "black swan" that pulls the price back significantly, but the market's response here felt remarkably stable. Given this resilience, how are you playing it? Is this the right spot to go heavy with a lump-sum purchase, or is it safer to stick to standard weekly DCA and play the long game? Curious to hear your thoughts and strategies right now.
 
-23h ago
+1d ago
 
 ---
 
@@ -149,31 +149,59 @@ If the future of finance requires people to become their own bank, secure their 
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin posts small rise as Binance records $6 billion outflows after starting withdrawals](https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings)**
+**[Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)**
 
-CoinDesk • 6h ago
+Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.
 
----
-
-**[$1,000 in Bitcoin at the 2017 Peak: What Is It Worth Now?](https://finance.yahoo.com/markets/crypto/articles/1-000-bitcoin-2017-peak-221348746.html)**
-
-Buying Bitcoin at its 2017 all-time high meant watching a $1,000 investment collapse by 84% and staying underwater for three years. Whether that patience ultimately rewarded holders more than a simple index fund depends on where Bitcoin heads next.
-
-Yahoo Finance • 11m ago
+SWI swissinfo.ch • 14h ago
 
 ---
 
-**[Current price of Bitcoin for November 2, 2026](https://fortune.com/article/price-of-bitcoin-11-02-2026/)**
+**[Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack](https://www.bloomberg.com/news/articles/2026-11-02/mercado-bitcoin-says-it-will-absorb-40-million-loss-from-hack)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft](https://www.reuters.com/world/asia-pacific/dollar-rangebound-ahead-us-midterms-bitcoin-reels-crypto-heist-2026-11-02/)**
+**[Mercado bitcoin hit by $40 million hack across 10 blockchains](https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains)**
 
-Reuters • 21h ago
+CoinDesk • 11h ago
+
+---
+
+**[Mercado Bitcoin Halts Withdrawals After $40 Million+ Hack](https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million)**
+
+Brazil’s largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen.
+
+Bitcoin Magazine • 11h ago
+
+---
+
+**[Bitcoin Price Outlook For November 2026: One Price Level Remains Critical](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-outlook-november-2026-020000012.html)**
+
+Bitcoin price prediction for November 2026 hinges on $76,000. See what on-chain data and charts signal after the Binance hack.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[On the Chain: Bitcoin slips below US$77,000 as Binance hack fallout keeps crypto markets on edge](https://uk.finance.yahoo.com/news/chain-bitcoin-slips-below-us-025600858.html)**
+
+Bitcoin has slipped below US$77,000 as cryptocurrency markets remain under pressure from the fallout of the record Binance hack, heavy liquidations and renewed caution across risk assets. Bitcoin was trading around US$76,800 on Tuesday morning, down close to 2% over 24 hours, while Ethereum...
+
+Yahoo Finance UK • 41m ago
+
+---
+
+**[Bitcoin price analysis: BTC traders hopeful for post-election gains](https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze)**
+
+CoinDesk • 9h ago
+
+---
+
+**[Dollar falls ahead of US midterms as oil plummets](https://www.reuters.com/world/asia-pacific/dollar-rangebound-ahead-us-midterms-bitcoin-reels-crypto-heist-2026-11-02/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -181,39 +209,13 @@ Reuters • 21h ago
 
 Willy Woo said Bitcoin edged out gold last week, while Ted Pillows said "we are only in the first correction of this bull run."
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Bitcoin's 'volatility curve' has a midterm bump: Crypto Daily](https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump)**
+**[Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist](https://www.reuters.com/legal/government/binance-resumes-bitcoin-withdrawals-after-covering-bulk-stolen-63-billion-2026-11-01/)**
 
-CoinDesk • 9h ago
-
----
-
-**[Couple loses $27,000 in Bitcoin scam by someone pretending to be family member on TikTok](https://www.13wmaz.com/article/news/crime/couple-loses-27000-bitcoin-scam-someone-pretending-family-member/93-1d0ce0d6-4276-4a19-a222-09c1ff032928)**
-
-13WMAZ • 3h ago
-
----
-
-**[Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack](https://www.bloomberg.com/news/articles/2026-11-02/mercado-bitcoin-says-it-will-absorb-40-million-loss-from-hack)**
-
-Bloomberg.com • 6h ago
-
----
-
-**['Like investing in Bitcoin': Inside Kentucky LB commit Drew Williams' pledge, flip efforts from SEC foes](https://247sports.com/college/georgia/article/kentucky-lb-commit-drew-williams-flip-sec-292095181/)**
-
-247Sports • 7h ago
-
----
-
-**[Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://www.tradingview.com/news/cointelegraph:c1243cebb094b:0-bitcoin-risks-drop-below-76k-as-7-oil-slide-fails-to-spark-btc-price-rally/)**
-
-Bitcoin (BTC) returned below $77,000 after Monday’s Wall Street open as crypto shrugged off hopes of a US-Iran peace deal.Key points:Bitcoin falls as earnings, US midterms overshadow Iran war hopesData from TradingView showed BITSTAMP:BTCUSD extending daily losses to 1.7% after reaching a local hig…
-
-TradingView • 2h ago
+Reuters • 1d ago
 
 ---
 
@@ -225,7 +227,7 @@ TradingView • 2h ago
 
 Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.
 
-⬆️ 14 • 💬 2 • 2h ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
+⬆️ 25 • 💬 6 • 7h ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
 
 ---
 
@@ -233,7 +235,7 @@ Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen
 
 Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.
 
-⬆️ 4 • 💬 1 • 1d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
+⬆️ 4 • 💬 1 • 2d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
 
 ---
 
@@ -273,7 +275,7 @@ The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Hea
 
 Wallets linked to Mercado Bitcoin’s security breach remained active after transactions were paused. The exchange said customers suffered no losses.
 
-⬆️ 2 • 💬 0 • 2h ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
+⬆️ 2 • 💬 0 • 7h ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
 
 ---
 
@@ -305,43 +307,23 @@ Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours
 
 ## YouTube Videos: "bitcoin"
 
-**[🚨 We NEED to Talk About Bitcoin...](https://www.youtube.com/watch?v=VGTS83qeYig)**
+**[$2 Million Bitcoin THIS CYCLE - Saylor Just Confirmed The Buy He Teased](https://www.youtube.com/watch?v=raoj312z2PA)**
 
-Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts ▶️ Watch ...
 
-📺 DataDash
+📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 114 • 💬 29 • ⏱️ 24:38 • 4h ago
-
----
-
-**[Bitcoin at Crossroad: Breakout or Election Trap?](https://www.youtube.com/watch?v=37YQfUPbVOg)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 17K • 👍 555 • 💬 57 • ⏱️ 35:17 • 5h ago
+👁️ 4K • 👍 198 • 💬 90 • ⏱️ 14:56 • 9h ago
 
 ---
 
-**[Bitcoin: The Beauty of Mathematics (Part 74)](https://www.youtube.com/watch?v=FoneKiojzzg)**
+**[Could Bitcoin Price Be Just $130,000 in 10 Years?](https://www.youtube.com/watch?v=R4yi8qtK1AA)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Read my recent Bitcoin risk memo: ...
+In this clip from The Natalie Brunell Show, macro strategist Lyn Alden breaks down the "invisible rug pull" of global currency ...
 
-📺 Benjamin Cowen
+📺 Natalie Brunell
 
-👁️ 92K • 👍 2K • 💬 59 • ⏱️ 7:24 • 17h ago
-
----
-
-**[The $6.3 Billion Hack That Exposed Crypto&#39;s Biggest Flaw](https://www.youtube.com/watch?v=yodHA7Wn7IE)**
-
-A reported $6.3 billion Binance hack has raised serious questions about who actually controls your money. Billions in crypto ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 1K • 💬 113 • ⏱️ 14:48 • 2d ago
+👁️ 18K • 👍 174 • 💬 26 • ⏱️ 0:57 • 11h ago
 
 ---
 
@@ -351,57 +333,77 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 500 • 💬 81 • ⏱️ 11:00 • 5h ago
+👁️ 17K • 👍 662 • 💬 122 • ⏱️ 11:00 • 10h ago
 
 ---
 
-**[Why Bitcoin Is Holding Strong After a $6.3B Hack?](https://www.youtube.com/watch?v=bSmFGoAKPBc)**
+**[Crypto Is About To Get INSANE… You’ve Been Warned!](https://www.youtube.com/watch?v=TW-_iOfg8fA)**
 
-Why Bitcoin Is Holding Strong After a $6.3B Hack? A reported $6.3 billion Binance hack has shaken crypto markets, but the timing ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 1K • 💬 170 • ⏱️ 34:09 • 1d ago
-
----
-
-**[$2 Million Bitcoin THIS CYCLE - Saylor Just Confirmed The Buy He Teased](https://www.youtube.com/watch?v=raoj312z2PA)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts ▶️ Watch ...
-
-📺 Bitcoin News Alerts
-
-👁️ 1K • 👍 130 • 💬 39 • ⏱️ 14:56 • 4h ago
-
----
-
-**[uh oh, crypto holders... history is repeating!!](https://www.youtube.com/watch?v=9I1AJ0-Rudw)**
-
-History is Repeating for Bitcoin & Crypto into Nov 2026! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Make big ...
+Sign-up for Coinbase & Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction: https://t.co/bEhNQqLhY2 REGISTER ...
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 2K • 💬 88 • ⏱️ 8:13 • 2d ago
+👁️ 8K • 👍 798 • 💬 60 • ⏱️ 10:51 • 2h ago
 
 ---
 
-**[Bitcoin’s NEXT LEG UP? 🚀 November Setup After a Lackluster Uptober](https://www.youtube.com/watch?v=LHeg7hrryJs)**
+**[BREAKING: HUGE Binance Bank Run Is SPREADING!! | EP 1625](https://www.youtube.com/watch?v=2eZ7niIR-0g)**
 
-Could a lackluster Uptober turn into a Next-Leg-Up November for Bitcoin? BTC is moving sideways, but Wall Street's crypto ...
+Following the largest crypto theft in history, billions of dollars leave binance in what is starting to look like a bank run on binance ...
 
-📺 Crypto Casey
+📺 Simply Bitcoin
 
-👁️ 18K • 👍 494 • 💬 87 • ⏱️ 6:56 • 1d ago
+👁️ 10K • 👍 218 • 💬 58 • ⏱️ 1:18:27 • 6h ago
 
 ---
 
-**[The Crypto Market Will Be Chaos This Week](https://www.youtube.com/watch?v=7UAVrQP7QPc)**
+**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=wTJCYpYTRnI)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trade on BTCC & 10% ...
+Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): https://partner.blofin.com/d/RT1M Get ...
 
-📺 Aaron Bennett
+📺 Road To $1 Million USD
 
-👁️ 13K • 👍 348 • 💬 72 • ⏱️ 12:35 • 14h ago
+👁️ 2K • 👍 178 • 💬 19 • ⏱️ 9:35 • 4h ago
+
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 74)](https://www.youtube.com/watch?v=FoneKiojzzg)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Read my recent Bitcoin risk memo: ...
+
+📺 Benjamin Cowen
+
+👁️ 97K • 👍 3K • 💬 62 • ⏱️ 7:24 • 22h ago
+
+---
+
+**[Bitcoin at Crossroad: Breakout or Election Trap?](https://www.youtube.com/watch?v=37YQfUPbVOg)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 617 • 💬 74 • ⏱️ 35:17 • 10h ago
+
+---
+
+**[BIG BITCOIN MOVE COMING IN 24 HOURS! (PREPARE)](https://www.youtube.com/watch?v=BoHgo-zX5m8)**
+
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+
+📺 Crypto Kid
+
+👁️ 5K • 👍 147 • 💬 32 • ⏱️ 12:48 • 8h ago
+
+---
+
+**[Bitcoin: Dooobious Spookulation](https://www.youtube.com/watch?v=VWU9sgbvnzw)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 175K • 👍 6K • 💬 326 • ⏱️ 34:04 • 2d ago
 
 ---
 
