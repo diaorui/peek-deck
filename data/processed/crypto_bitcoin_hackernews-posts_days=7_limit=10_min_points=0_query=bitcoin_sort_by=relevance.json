@@ -9,14 +9,28 @@
       "url": "https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545",
       "hn_url": "https://news.ycombinator.com/item?id=50342908",
       "author": "novaRom",
-      "points": 25,
-      "num_comments": 6,
+      "points": 27,
+      "num_comments": 8,
       "created_at": "2026-11-02T20:06:43Z",
       "object_id": "50342908",
       "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f915e254cd47423edb17f5452558219ed0c78700-92313700.jpg?ver=b061450f&fit=1200,900",
       "description": "Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.",
       "favicon": "https://www.swissinfo.ch/eng/wp-content/client-mu-plugins/swissinfo-wp-customizations/resources/png/swi-site-icon-180.png?ver=1792148606",
       "site_name": "SWI swissinfo.ch"
+    },
+    {
+      "title": "Show HN: Bitcoin-rs \u2013 An independent Bitcoin full node in Rust",
+      "url": "https://github.com/gosuda/bitcoin-rs",
+      "hn_url": "https://news.ycombinator.com/item?id=50348456",
+      "author": "dreamcacao02183",
+      "points": 8,
+      "num_comments": 0,
+      "created_at": "2026-11-03T05:31:21Z",
+      "object_id": "50348456",
+      "image": "https://opengraph.githubassets.com/fc4815ebd763c10e4705e889fd6704fdd1979eadb1db7c88c54b2c1740636271/gosuda/bitcoin-rs",
+      "description": "Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs development by creating an account on GitHub.",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     },
     {
       "title": "Observations from Running Steal My Bitcoin",
@@ -129,23 +143,9 @@
       "description": "Contribute to escache/bitcoin-puzzle-methods development by creating an account on GitHub.",
       "favicon": "https://github.githubassets.com/favicons/favicon.png",
       "site_name": "GitHub"
-    },
-    {
-      "title": "Bitcoin direction model I built lost to \"price stays the same\"",
-      "url": "https://btcforecaster.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50286408",
-      "author": "mpeluso",
-      "points": 1,
-      "num_comments": 1,
-      "created_at": "2026-10-29T09:22:05Z",
-      "object_id": "50286408",
-      "image": "https://btcforecaster.com/og-image.png",
-      "description": "Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours, updated every 5 minutes, with a public track record of how often it was right.",
-      "favicon": "https://btcforecaster.com/apple-touch-icon.png",
-      "site_name": "BtcForecaster"
     }
   ],
-  "total_hits": 12,
+  "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2026-11-03T03:37:07.353639+00:00"
+  "fetched_at": "2026-11-03T11:39:55.777875+00:00"
 }

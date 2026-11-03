@@ -8,10 +8,10 @@
       "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
       "url": "https://github.com/Zagitta/gpu-unlock",
       "preview_image": "https://opengraph.githubassets.com/4d44381103a947606a6023253fd6286b34b60f7afa3a43f5ad7742736e3f6c41/Zagitta/gpu-unlock",
-      "stars": 14721,
-      "stars_display": "14.7k",
-      "forks": 1422,
-      "forks_display": "1.4k",
+      "stars": 15081,
+      "stars_display": "15.1k",
+      "forks": 1462,
+      "forks_display": "1.5k",
       "language": "C",
       "topics": [],
       "updated_at": "2026-10-29T02:30:54Z"
@@ -24,10 +24,10 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "preview_image": "https://opengraph.githubassets.com/2e19369f1c616da6622c8b971f339d5febe6ed41b9f04b0c64ca084a6de515b7/heydamir/unslop",
-      "stars": 6415,
-      "stars_display": "6.4k",
-      "forks": 329,
-      "forks_display": "329",
+      "stars": 6872,
+      "stars_display": "6.9k",
+      "forks": 350,
+      "forks_display": "350",
       "language": "JavaScript",
       "topics": [],
       "updated_at": "2026-11-01T16:46:10Z"
@@ -40,10 +40,10 @@
       "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "preview_image": "https://opengraph.githubassets.com/90ae0a75a3e9c38cd8d52a7d12f46bcd5561230371bacc791c758845c57ae397/rddmwmddr/android-ad-cleaner",
-      "stars": 5934,
-      "stars_display": "5.9k",
-      "forks": 534,
-      "forks_display": "534",
+      "stars": 6014,
+      "stars_display": "6.0k",
+      "forks": 544,
+      "forks_display": "544",
       "language": "Python",
       "topics": [
         "adb",
@@ -52,29 +52,7 @@
         "coloros",
         "debloat"
       ],
-      "updated_at": "2026-11-03T03:36:42Z"
-    },
-    {
-      "full_name": "anhao/ai-pose-gallery-zh",
-      "name": "ai-pose-gallery-zh",
-      "owner": "anhao",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/9844218?v=4",
-      "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "preview_image": "https://opengraph.githubassets.com/7d409f4bfe0a07d447b000e33967985618a71724e92b313dc5901a0015f05c2e/anhao/ai-pose-gallery-zh",
-      "stars": 5543,
-      "stars_display": "5.5k",
-      "forks": 1411,
-      "forks_display": "1.4k",
-      "language": "TypeScript",
-      "topics": [
-        "ai-art",
-        "chinese",
-        "cloudflare-pages",
-        "gallery",
-        "i18n"
-      ],
-      "updated_at": "2026-11-02T13:28:31Z"
+      "updated_at": "2026-11-03T09:42:28Z"
     },
     {
       "full_name": "wangzan101/Mika",
@@ -84,9 +62,9 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "preview_image": "https://opengraph.githubassets.com/4870ca74c240f7e90589b47bd38147c836923264feaea374f51fb823186477f9/wangzan101/Mika",
-      "stars": 5494,
-      "stars_display": "5.5k",
-      "forks": 1072,
+      "stars": 5832,
+      "stars_display": "5.8k",
+      "forks": 1135,
       "forks_display": "1.1k",
       "language": "Kotlin",
       "topics": [
@@ -96,7 +74,29 @@
         "automation",
         "jetpack-compose"
       ],
-      "updated_at": "2026-11-02T19:08:44Z"
+      "updated_at": "2026-11-03T10:07:24Z"
+    },
+    {
+      "full_name": "anhao/ai-pose-gallery-zh",
+      "name": "ai-pose-gallery-zh",
+      "owner": "anhao",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/9844218?v=4",
+      "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "preview_image": "https://opengraph.githubassets.com/7d409f4bfe0a07d447b000e33967985618a71724e92b313dc5901a0015f05c2e/anhao/ai-pose-gallery-zh",
+      "stars": 5714,
+      "stars_display": "5.7k",
+      "forks": 1459,
+      "forks_display": "1.5k",
+      "language": "TypeScript",
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n"
+      ],
+      "updated_at": "2026-11-03T07:08:01Z"
     },
     {
       "full_name": "onehumanbeing/esp32-iphone-agent",
@@ -106,10 +106,10 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "preview_image": "https://opengraph.githubassets.com/6b52771731dc5a2e478f00d501e5ca69d9dedf14a7b8f516b1d9796faa736ab1/onehumanbeing/esp32-iphone-agent",
-      "stars": 4246,
-      "stars_display": "4.2k",
-      "forks": 569,
-      "forks_display": "569",
+      "stars": 4275,
+      "stars_display": "4.3k",
+      "forks": 571,
+      "forks_display": "571",
       "language": "C",
       "topics": [
         "ai-agent",
@@ -118,7 +118,7 @@
         "computer-use",
         "esp32"
       ],
-      "updated_at": "2026-10-28T07:40:06Z"
+      "updated_at": "2026-11-03T11:39:41Z"
     },
     {
       "full_name": "Leonxlnx/earshot",
@@ -128,10 +128,10 @@
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "preview_image": "https://opengraph.githubassets.com/bfb72f0aa533890323d43000bbc580bf8f78bf6c276176428d4d82d88c37de83/Leonxlnx/earshot",
-      "stars": 3573,
+      "stars": 3627,
       "stars_display": "3.6k",
-      "forks": 224,
-      "forks_display": "224",
+      "forks": 226,
+      "forks_display": "226",
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -143,6 +143,28 @@
       "updated_at": "2026-10-22T23:12:59Z"
     },
     {
+      "full_name": "modelflare-ai/AnyModelBot",
+      "name": "AnyModelBot",
+      "owner": "modelflare-ai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/267078600?v=4",
+      "description": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "preview_image": "https://opengraph.githubassets.com/0b5e30c4e9780f0ee1fa8a3e77dd58793e94c1a81c608d5ff0d7ef0c82711e15/modelflare-ai/AnyModelBot",
+      "stars": 2095,
+      "stars_display": "2.1k",
+      "forks": 19,
+      "forks_display": "19",
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "chatbot",
+        "claude",
+        "computer-use"
+      ],
+      "updated_at": "2026-11-03T11:38:07Z"
+    },
+    {
       "full_name": "paipiange/nvzhuang",
       "name": "nvzhuang",
       "owner": "paipiange",
@@ -150,13 +172,13 @@
       "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
       "url": "https://github.com/paipiange/nvzhuang",
       "preview_image": "https://opengraph.githubassets.com/2c0406b26ce4bc3a4ac6277c1c3c3bb51e53bafcfa8675ee0a70648d5b2d51ed/paipiange/nvzhuang",
-      "stars": 2055,
+      "stars": 2092,
       "stars_display": "2.1k",
-      "forks": 524,
-      "forks_display": "524",
+      "forks": 538,
+      "forks_display": "538",
       "language": "Go",
       "topics": [],
-      "updated_at": "2026-10-31T17:01:39Z"
+      "updated_at": "2026-11-03T07:01:03Z"
     },
     {
       "full_name": "zhuyansen/new-term-radar",
@@ -166,7 +188,7 @@
       "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "url": "https://github.com/zhuyansen/new-term-radar",
       "preview_image": "https://opengraph.githubassets.com/ea3027e82ccd7734619d918ebd283cb88e54c18adb2852d9f1ddc7ab36614f09/zhuyansen/new-term-radar",
-      "stars": 2052,
+      "stars": 2060,
       "stars_display": "2.1k",
       "forks": 626,
       "forks_display": "626",
@@ -179,34 +201,12 @@
         "claude-skills"
       ],
       "updated_at": "2026-11-02T23:42:54Z"
-    },
-    {
-      "full_name": "deeplethe/solid-glass",
-      "name": "solid-glass",
-      "owner": "deeplethe",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/282846749?v=4",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "preview_image": "https://opengraph.githubassets.com/98d3dae214105fd74d91705218a9187da85ae5882ed117753060b1ef0d28441a/deeplethe/solid-glass",
-      "stars": 2034,
-      "stars_display": "2.0k",
-      "forks": 42,
-      "forks_display": "42",
-      "language": "TypeScript",
-      "topics": [
-        "agent-ui",
-        "ai",
-        "ai-agents",
-        "chat-ui",
-        "design-system"
-      ],
-      "updated_at": "2026-10-31T22:37:07Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-10-04",
   "days": 30,
   "limit": 10,
-  "total_count": 475675,
-  "fetched_at": "2026-11-03T03:37:06.054301+00:00"
+  "total_count": 481968,
+  "fetched_at": "2026-11-03T11:39:52.870043+00:00"
 }

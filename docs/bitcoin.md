@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-03T03:37:40.251599+00:00'
+updated: '2026-11-03T11:40:28.655081+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 03, 2026 at 03:37 UTC  
+**Last Updated:** November 03, 2026 at 11:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,650.00
+### $77,174.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -5.7%  
-**30d:** -10.6%  
-**90d:** +19.2%  
-**1y:** -24.6%  
+**24h:** -0.9%  
+**7d:** -5.2%  
+**30d:** -10.1%  
+**90d:** +19.9%  
+**1y:** -24.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1541.55B
+**Market Cap:** $1547.87B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--39.2%
+-38.9%
 
 **All-Time Low:** $67.81
-+112971.8%
++113434.9%
 
 ---
 
 ## Fear & Greed Index
 
-### 37
+### 26
 **FEAR**
 
 ---
@@ -141,7 +141,7 @@ If the future of finance requires people to become their own bank, secure their 
 
 **[And binance](https://www.reddit.com/r/Bitcoin/comments/1xky3ps/and_binance/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -153,19 +153,19 @@ If the future of finance requires people to become their own bank, secure their 
 
 Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.
 
-SWI swissinfo.ch • 14h ago
+SWI swissinfo.ch • 23h ago
 
 ---
 
 **[Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack](https://www.bloomberg.com/news/articles/2026-11-02/mercado-bitcoin-says-it-will-absorb-40-million-loss-from-hack)**
 
-Bloomberg.com • 11h ago
+Bloomberg • 19h ago
 
 ---
 
-**[Mercado bitcoin hit by $40 million hack across 10 blockchains](https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains)**
+**[Mercado Bitcoin pledges to cover all user losses after near $40 million hack](https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack)**
 
-CoinDesk • 11h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -173,49 +173,51 @@ CoinDesk • 11h ago
 
 Brazil’s largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
-**[Bitcoin Price Outlook For November 2026: One Price Level Remains Critical](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-outlook-november-2026-020000012.html)**
+**[Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit](https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit)**
 
-Bitcoin price prediction for November 2026 hinges on $76,000. See what on-chain data and charts signal after the Binance hack.
-
-Yahoo Finance • 1h ago
+CoinDesk • 28m ago
 
 ---
 
-**[On the Chain: Bitcoin slips below US$77,000 as Binance hack fallout keeps crypto markets on edge](https://uk.finance.yahoo.com/news/chain-bitcoin-slips-below-us-025600858.html)**
+**[Bitcoin steadies at $76,900 as ETFs lose $399 million and Binance outflows hit $4.7 billion](https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto)**
 
-Bitcoin has slipped below US$77,000 as cryptocurrency markets remain under pressure from the fallout of the record Binance hack, heavy liquidations and renewed caution across risk assets. Bitcoin was trading around US$76,800 on Tuesday morning, down close to 2% over 24 hours, while Ethereum...
-
-Yahoo Finance UK • 41m ago
+CoinDesk • 12m ago
 
 ---
 
-**[Bitcoin price analysis: BTC traders hopeful for post-election gains](https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze)**
+**[The Dollar Is Reasserting Itself as the King of Global Finance](https://www.bloomberg.com/opinion/articles/2026-11-03/the-gold-and-bitcoin-slump-reinforces-the-dollar-s-dominance)**
 
-CoinDesk • 9h ago
-
----
-
-**[Dollar falls ahead of US midterms as oil plummets](https://www.reuters.com/world/asia-pacific/dollar-rangebound-ahead-us-midterms-bitcoin-reels-crypto-heist-2026-11-02/)**
-
-Reuters • 1d ago
+Bloomberg • 1h ago
 
 ---
 
-**[Bitcoin Bulls See Light At The End Of The Correction As Michaël Van de Poppe Says Midterm Elections Are 'Priced In'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bulls-see-light-end-094423224.html)**
+**[Michael Saylor keeps buying bitcoin. Here's how Strategy funds it](https://finance.yahoo.com/video/michael-saylor-keeps-buying-bitcoin-heres-how-strategy-funds-it-191522864.html)**
 
-Willy Woo said Bitcoin edged out gold last week, while Ted Pillows said "we are only in the first correction of this bull run."
+Scott Melker breaks down Michael Saylor's and Strategy's (MSTR) weekly purchase of bitcoin (BTC-USD) and its preferred stock, STRC (STRC), as the company continues its aggressive accumulation strategy.
 
-Yahoo Finance • 17h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Yahoo Finance • 18h ago
 
 ---
 
-**[Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist](https://www.reuters.com/legal/government/binance-resumes-bitcoin-withdrawals-after-covering-bulk-stolen-63-billion-2026-11-01/)**
+**[Strategy Makes Its Largest Bitcoin Purchase Since September, Keeps Buying Back More STRC](https://www.tradingview.com/news/stocktwits:d0afbfbcd094b:0-strategy-makes-its-largest-bitcoin-purchase-since-september-keeps-buying-back-more-strc/)**
 
-Reuters • 1d ago
+Strategy (MSTR) shares edged higher on Monday morning, as the company reported its largest weekly Bitcoin (BTC) purchase since late September.Strategy said it purchased 811 Bitcoin for about $65.5 million over the past week, according to a filing with the U.S. Securities and Exchange Commission (SE…
+
+TradingView • 18h ago
+
+---
+
+**[Strategy's Michael Saylor Blames These 3 Factors for Bitcoin's Recent Sluggish Performance. The Most Important Is Treasury Yields.](https://www.fool.com/investing/2026/11/02/strategys-michael-saylor-blames-these-3-factors-fo/)**
+
+When safe investments yield more, riskier investments aren't as attractive.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -227,7 +229,15 @@ Reuters • 1d ago
 
 Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.
 
-⬆️ 25 • 💬 6 • 7h ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
+⬆️ 27 • 💬 8 • 15h ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
+
+---
+
+**[Show HN: Bitcoin-rs – An independent Bitcoin full node in Rust](https://news.ycombinator.com/item?id=50348456)**
+
+Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs development by creating an account on GitHub.
+
+⬆️ 8 • 💬 0 • 6h ago • [GitHub](https://github.com/gosuda/bitcoin-rs)
 
 ---
 
@@ -275,7 +285,7 @@ The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Hea
 
 Wallets linked to Mercado Bitcoin’s security breach remained active after transactions were paused. The exchange said customers suffered no losses.
 
-⬆️ 2 • 💬 0 • 7h ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
+⬆️ 2 • 💬 0 • 15h ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
 
 ---
 
@@ -283,7 +293,7 @@ Wallets linked to Mercado Bitcoin’s security breach remained active after tran
 
 Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, autonomously, within safety limits. - ZKStamp/AgentWallet
 
-⬆️ 2 • 💬 0 • 3d ago • [GitHub](https://github.com/ZKStamp/AgentWallet)
+⬆️ 2 • 💬 0 • 4d ago • [GitHub](https://github.com/ZKStamp/AgentWallet)
 
 ---
 
@@ -295,35 +305,27 @@ Contribute to escache/bitcoin-puzzle-methods development by creating an account 
 
 ---
 
-**[Bitcoin direction model I built lost to "price stays the same"](https://news.ycombinator.com/item?id=50286408)**
-
-Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours, updated every 5 minutes, with a public track record of how often it was right.
-
-⬆️ 1 • 💬 1 • 4d ago • [BtcForecaster](https://btcforecaster.com/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[$2 Million Bitcoin THIS CYCLE - Saylor Just Confirmed The Buy He Teased](https://www.youtube.com/watch?v=raoj312z2PA)**
+**[Crypto Is About To Get INSANE… You’ve Been Warned!](https://www.youtube.com/watch?v=TW-_iOfg8fA)**
 
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts ▶️ Watch ...
+Sign-up for Coinbase & Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction: https://t.co/bEhNQqLhY2 REGISTER ...
 
-📺 Bitcoin News Alerts
+📺 Altcoin Daily
 
-👁️ 4K • 👍 198 • 💬 90 • ⏱️ 14:56 • 9h ago
+👁️ 45K • 👍 2K • 💬 94 • ⏱️ 10:51 • 10h ago
 
 ---
 
-**[Could Bitcoin Price Be Just $130,000 in 10 Years?](https://www.youtube.com/watch?v=R4yi8qtK1AA)**
+**[What Will Happen to Stocks and Bitcoin After the Midterms?](https://www.youtube.com/watch?v=UqNasOITKfk)**
 
-In this clip from The Natalie Brunell Show, macro strategist Lyn Alden breaks down the "invisible rug pull" of global currency ...
+Save your seat for my FREE, live training November 6th to learn my 1% Wealth Layering System that let's you multiply your money ...
 
-📺 Natalie Brunell
+📺 Mark Moss
 
-👁️ 18K • 👍 174 • 💬 26 • ⏱️ 0:57 • 11h ago
+👁️ 63K • 👍 1K • 💬 125 • ⏱️ 19:38 • 18h ago
 
 ---
 
@@ -333,37 +335,27 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 📺 Crypto Capital Venture
 
-👁️ 17K • 👍 662 • 💬 122 • ⏱️ 11:00 • 10h ago
+👁️ 22K • 👍 739 • 💬 130 • ⏱️ 11:00 • 18h ago
 
 ---
 
-**[Crypto Is About To Get INSANE… You’ve Been Warned!](https://www.youtube.com/watch?v=TW-_iOfg8fA)**
+**[How Binance’s $6 Billion Crypto Heist Unfolded](https://www.youtube.com/watch?v=NbQsAncGqRo)**
 
-Sign-up for Coinbase & Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction: https://t.co/bEhNQqLhY2 REGISTER ...
+In late October, hackers siphoned off more than $6 billion from crypto exchange Binance. As the company scrambles to respond, ...
 
-📺 Altcoin Daily
+📺 Bloomberg Television
 
-👁️ 8K • 👍 798 • 💬 60 • ⏱️ 10:51 • 2h ago
-
----
-
-**[BREAKING: HUGE Binance Bank Run Is SPREADING!! | EP 1625](https://www.youtube.com/watch?v=2eZ7niIR-0g)**
-
-Following the largest crypto theft in history, billions of dollars leave binance in what is starting to look like a bank run on binance ...
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 218 • 💬 58 • ⏱️ 1:18:27 • 6h ago
+👁️ 44K • 👍 289 • 💬 12 • ⏱️ 4:45 • 13h ago
 
 ---
 
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=wTJCYpYTRnI)**
+**[$2 Million Bitcoin THIS CYCLE - Saylor Just Confirmed The Buy He Teased](https://www.youtube.com/watch?v=raoj312z2PA)**
 
-Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): https://partner.blofin.com/d/RT1M Get ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts ▶️ Watch ...
 
-📺 Road To $1 Million USD
+📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 178 • 💬 19 • ⏱️ 9:35 • 4h ago
+👁️ 7K • 👍 235 • 💬 90 • ⏱️ 14:56 • 17h ago
 
 ---
 
@@ -373,37 +365,47 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Read my
 
 📺 Benjamin Cowen
 
-👁️ 97K • 👍 3K • 💬 62 • ⏱️ 7:24 • 22h ago
+👁️ 101K • 👍 3K • 💬 64 • ⏱️ 7:24 • 1d ago
 
 ---
 
-**[Bitcoin at Crossroad: Breakout or Election Trap?](https://www.youtube.com/watch?v=37YQfUPbVOg)**
+**[Will Bitcoin LOSE $77K Before MIDTERMS? If Price Breaks, THIS Happens Next!](https://www.youtube.com/watch?v=HKEgzvWmSkY)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+Will Bitcoin lose $77K before the midterms? Nick Valdez, Chief Crypto Strategist for Verified Investing, breaks down the Bitcoin ...
 
-📺 CryptosRUs
+📺 Verified Investing
 
-👁️ 20K • 👍 617 • 💬 74 • ⏱️ 35:17 • 10h ago
-
----
-
-**[BIG BITCOIN MOVE COMING IN 24 HOURS! (PREPARE)](https://www.youtube.com/watch?v=BoHgo-zX5m8)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
-
-📺 Crypto Kid
-
-👁️ 5K • 👍 147 • 💬 32 • ⏱️ 12:48 • 8h ago
+👁️ 13K • 👍 318 • 💬 6 • ⏱️ 18:49 • 16h ago
 
 ---
 
-**[Bitcoin: Dooobious Spookulation](https://www.youtube.com/watch?v=VWU9sgbvnzw)**
+**[Binance Hack Fallout: Bitcoin Loses Key Support](https://www.youtube.com/watch?v=jnqHRTbE2Ak)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Bitcoin slipped below key support as the Binance hack fallout weighs on crypto. Drew Dosek of Verified Investing breaks down the ...
 
-📺 Benjamin Cowen
+📺 Verified Investing
 
-👁️ 175K • 👍 6K • 💬 326 • ⏱️ 34:04 • 2d ago
+👁️ 9K • 👍 208 • 💬 11 • ⏱️ 7:50 • 12h ago
+
+---
+
+**[🚨 We NEED to Talk About Bitcoin...](https://www.youtube.com/watch?v=VGTS83qeYig)**
+
+Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
+
+📺 DataDash
+
+👁️ 7K • 👍 169 • 💬 28 • ⏱️ 24:38 • 18h ago
+
+---
+
+**[Could Bitcoin Price Be Just $130,000 in 10 Years?](https://www.youtube.com/watch?v=R4yi8qtK1AA)**
+
+In this clip from The Natalie Brunell Show, macro strategist Lyn Alden breaks down the "invisible rug pull" of global currency ...
+
+📺 Natalie Brunell
+
+👁️ 26K • 👍 232 • 💬 33 • ⏱️ 0:57 • 19h ago
 
 ---
 

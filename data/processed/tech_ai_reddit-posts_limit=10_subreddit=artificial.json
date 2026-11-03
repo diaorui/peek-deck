@@ -24,48 +24,48 @@
       "description": "Investor caution and stronger growth at rival Anthropic are forcing the ChatGPT maker to lower its fundraising ambitions ahead of a planned listing."
     },
     {
-      "title": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning",
-      "author": "cnn",
-      "url": "https://www.reddit.com/r/artificial/comments/1xm3vf1/openai_says_its_ai_is_getting_better_at_doing/",
-      "published": 1793641276.0,
-      "thumbnail": "https://external-preview.redd.it/3QPTEHGIpR7pM7U1Ve5AihQcVlVRvvKuE1YAIGzKIwc.jpeg?width=640&crop=smart&auto=webp&s=def72f187f02566cef24dc6a5a3c9fb94d100496",
-      "external_url": "https://www.cnn.com/2026/11/02/tech/openai-chatgpt-personal-assistant-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "OpenAI on Monday announced a new internal tool for assessing how AI handles tasks like these, along with research on how its own models performed."
-    },
-    {
-      "title": "OpenAI\u2019s quarterly commit growth has exploded this year, rising to 2442% by Q4 2026 relative to Q1 2024",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmfx3a/openais_quarterly_commit_growth_has_exploded_this/",
-      "published": 1793669790.0,
-      "thumbnail": "https://preview.redd.it/axe13pb2xazh1.jpeg?width=640&crop=smart&auto=webp&s=d53439199888a26bad092dac4fd657afc8f429fa",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://openai.com/index/scaling-git-at-openai/"
-    },
-    {
-      "title": "How to stop Meta, OpenAI, and Apple from training AI on your data in the UK",
-      "author": "HotMinuteUK",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/",
-      "published": 1793617417.0,
-      "thumbnail": "https://external-preview.redd.it/aMqNEYFVuEI9hRKI4QAg2uD5ZuZp4TkpIJeGJ-2VxgA.jpeg?width=640&crop=smart&auto=webp&s=b0ae4aaaf9fc7fe20d4aa648353d32cc46963b24",
-      "external_url": "https://hotminute.co.uk/2026/11/02/how-to-stop-meta-openai-and-apple-from-training-ai-on-your-data-in-the-uk/",
-      "site_name": "HotMinute",
-      "favicon": "https://hotminute.co.uk/wp-content/uploads/2026/04/cropped-hotminute-site-icon-180x180.png",
-      "description": "The world\u2019s largest AI companies, including Meta, OpenAI, and Apple, all offer UK users ways to keep their data out of AI training."
-    },
-    {
-      "title": "Designers, how do you... work?",
-      "author": "MoudieQaha",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmf7dx/designers_how_do_you_work/",
-      "published": 1793667793.0,
+      "title": "UK High Court records a non-existent case citation in its 2026 judgment",
+      "author": "andrewaltair",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmn0l8/uk_high_court_records_a_nonexistent_case_citation/",
+      "published": 1793692428.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I'm asking because, as a software engineer, I never thought about how things looked. I just wanted them to work. Now with AI, it seems like the most important thing actually is how things look, because the \"making it work\" part is increasingly handled by AI. (I know, not 100%, you still need to understand systems, yada yada.) But I've noticed that everything I'm searching for lately is design skills and prompts to make AI output look less like AI. Granted, people outside the AI bubble are still amazed by the most basic AI slop design, which makes me want to \ud83d\udd2b myself. But still, it made me wonder. Okay, so it's taste. But how do you guarantee taste? What makes someone a good designer or artist? I've never really done art, but I think I have a creative side. I love music and pay close attention to lyrics: what feeling they give me, what scenarios and visuals I imagine that fit that feeling. But that's just me narrating my thoughts. I don't feel like I can turn it into anything artistic. I just end up saying stuff like \"this lyric makes me imagine X and feel Y,\" which is like... okay dude, nice? Obviously, I know about the whole anti-AI movement among artists, and I get it. It's similar to what I felt when AI suddenly could write code and make it available to everyone, because coding was kind of an art to me too. But I guess now I'm wondering about real, actual art. So please don't kill me. So how do you really work? Is it just luck or talent? Are there principles you base it on? Is it all subjective, or are there objective elements to it? Genuinely curious how people who do this for a living think about it."
+      "description": "The UK High Court's [2026] EWHC 2778 (Admin) judgment records that Senior Crown Prosecutor Ravinder Dhillon relied on a case called R v J. The judgment says the authority did not exist. Dhillon later explained that she meant a different real decision. The court called the explanation \"unsatisfactory\", but said the fictitious citation did not affect the outcome of the challenge to continuing the prosecution. The Guardian reports that the reference came from an AI response during an internet search; the judgment does not find that AI caused the citation. Source: https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/2778"
+    },
+    {
+      "title": "Marvell inks record-breaking $115B AI deal",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmkk63/marvell_inks_recordbreaking_115b_ai_deal/",
+      "published": 1793683601.0,
+      "thumbnail": "https://external-preview.redd.it/4bY__Sh0kz_DpaM_-C8bZ_CPSqihax2SWxelcGpKAfM.jpeg?width=640&crop=smart&auto=webp&s=88e19caad2de02871af6181a61f8129203854bd4",
+      "external_url": "https://www.linkedin.com/news/story/marvell-inks-record-breaking-115b-ai-deal-7753420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "On an equity basis, the Lumentum acquisition is the biggest of the year, per Bloomberg data, and places the combined company in direct competition with chip giant Broadcom."
+    },
+    {
+      "title": "I made ChatGPT, Claude, Gemini, etc. into FREE text-to-speech sites.",
+      "author": "Cool-Hornet-8191",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmim57/i_made_chatgpt_claude_gemini_etc_into_free/",
+      "published": 1793677487.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Nowadays, all popular ai chatting websites like qwen, chatgpt, gemini, claude, etc. come with a read aloud functionality that allows users to read aloud the AI's responses. I used that feature to instead make the AI repeat back the text that i gave it -- effectively turning the platforms into text to speech tools. It's simple but it's worked for over 30k users, and the voices sound really nice and it's free to use! You can get all of these extensions by visiting ai-readers.com"
+    },
+    {
+      "title": "What AI tools do you use on your store?",
+      "author": "EmetInteractive",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmq393/what_ai_tools_do_you_use_on_your_store/",
+      "published": 1793703853.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Before starting my online store, I never imagined there would be so much to do in its daily operations. Finding suppliers, updating product listings, managing orders, handling customer service, tracking inventory, and constantly testing ads. Honestly, sometimes I even considered giving up. It was all so exhausting. To lighten the workload, I started trying various AI tools. But the more tools I used, the more web pages I had to open each day. One tool to view sales data, another to manage inventory, and yet another to track ad performance. This became a new burden. Later, I saw a tutorial on YouTube about building an AI workbench. The tutorial showed how to create a workbench using AI, allowing users to view all important store data in one place. This idea immediately appealed to me. Compared to switching between multiple tools every day, this approach was clearly more practical. I also tried building a similar workbench using Anvita Mate, and the store data felt much more intuitive. What AI tools do you use when operating your store?"
     },
     {
       "title": "Apple Intelligence in China will run on Alibaba's Qwen, testing starts Nov 4",
@@ -79,38 +79,38 @@
       "description": "Apple's China Newsroom said on Oct 31 that Apple Intelligence will begin testing on November 4 via the iOS developer Beta and ship to Chinese users in December with iOS 27.3. The China rollout integrates Alibaba's Qwen model. Apple Intelligence was first unveiled at WWDC in June 2024, so Chinese iPhone users have waited about two and a half years."
     },
     {
-      "title": "Grok Bot users ran out of a week\u2019s usage overnight, and Elon Musk says the agent was costing too much",
-      "author": "ross2000",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/",
-      "published": 1793569458.0,
-      "thumbnail": "https://external-preview.redd.it/7C7I8Cbl1YpXR7LJpJ2zA6eKxrTlPdVkU9bTCj_b4Mc.jpeg?width=640&crop=smart&auto=webp&s=768222d297c8d2ca5afd012438a218a4576054d5",
-      "external_url": "https://madrobot.blog/2026/11/01/grok-bot-usage-limit-100-overnight-musk-cost/",
-      "site_name": "MadRobot",
-      "favicon": "https://madrobot.blog/images/apple-touch-icon.png",
-      "description": "Grok Bot weekly usage meters jumped to 100% overnight on November 1. Cursor says that shouldn\u2019t happen. Musk says Grok Bot cost too much to serve."
+      "title": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning",
+      "author": "cnn",
+      "url": "https://www.reddit.com/r/artificial/comments/1xm3vf1/openai_says_its_ai_is_getting_better_at_doing/",
+      "published": 1793641276.0,
+      "thumbnail": "https://external-preview.redd.it/3QPTEHGIpR7pM7U1Ve5AihQcVlVRvvKuE1YAIGzKIwc.jpeg?width=640&crop=smart&auto=webp&s=def72f187f02566cef24dc6a5a3c9fb94d100496",
+      "external_url": "https://www.cnn.com/2026/11/02/tech/openai-chatgpt-personal-assistant-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit",
+      "site_name": "CNN",
+      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
+      "description": "OpenAI on Monday announced a new internal tool for assessing how AI handles tasks like these, along with research on how its own models performed."
     },
     {
-      "title": "Apple Intelligence is finally coming to China in December, powered by Alibaba's Qwen instead of ChatGPT",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmf3on/apple_intelligence_is_finally_coming_to_china_in/",
-      "published": 1793667523.0,
+      "title": "I made this Halloween special song rate this out of 10",
+      "author": "Fearless-Cold4044",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmqec7/i_made_this_halloween_special_song_rate_this_out/",
+      "published": 1793704915.0,
+      "thumbnail": "https://external-preview.redd.it/ajU3a2ZmMG10ZHpoMci9QiYPKFIa0HYtYc5utMX4B_kwz_E85E3DAOdIGe_Y.png?width=320&crop=smart&auto=webp&s=ea50f4dd92ad81931983aa304aa639943392ac11",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I was randomly scrolling around the appstore and I found this and thought I might give it a try it was free to use and made a song out of it and honestly it's not that bad!!! I like it.....it's a 5 min song but I didn't had that space to record the whole song so I did a 2 min screen recording and if anyone wanna hear the full version I can provide you the full version via a link feel free to ask...."
+    },
+    {
+      "title": "Designers, how do you... work?",
+      "author": "MoudieQaha",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmf7dx/designers_how_do_you_work/",
+      "published": 1793667793.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Apple confirmed on October 31 that Apple Intelligence will come to iPhones in mainland China in December with iOS 27.3, with testing starting in the iOS developer beta on November 4. The notable part is the model swap: instead of ChatGPT, Siri, Writing Tools and Visual Intelligence in China will be able to call on Alibaba's Qwen for text and image understanding and content generation. Alibaba says user requests and generated responses will not be used for model training, and participation is opt-in. Eligibility covers iPhone 15 Pro and later models (plus iPhone Air and iPhone Duo) for users whose device was bought in China or whose device location and Apple Account region are both set to China. It is also a partial launch: Apple says it does not include the new Siri AI or the other next-generation features announced at WWDC 2026. Discussion: Apple waited about two years to bring its AI features to China, and the way in was a local model partner rather than its global one. Do you think region-specific model swaps become the normal template for AI features in regulated markets, or is this a one-off driven by China's rules? Source: Apple China newsroom announcement, Oct 31, 2026, as reported by Xinhua and others."
-    },
-    {
-      "title": "Are We Measuring AI Intelligence, or Just the Infrastructure Behind It?",
-      "author": "zerovariance36",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmhgs4/are_we_measuring_ai_intelligence_or_just_the/",
-      "published": 1793674169.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We often measure AI intelligence through speed, computing power, data, and overall performance. But are these measures telling us how intelligent a system really is? How much of an AI system's performance comes from its own capabilities, and how much depends on the infrastructure supporting it? Consider an AI system operating with stable electricity, cloud access, and continuous internet connectivity. It performs well under these conditions. But what happens when some of that infrastructure becomes unavailable? Can it still adapt, learn from real-world feedback, and make useful decisions? This question led me to develop a research-stage framework called the Organic Intelligence Protocol (OIP). OIP explores three key concepts: Infrastructure Independence: How dependent is a system on external infrastructure? Grounded Feedback Loop: Can a system improve its decisions through real-world outcomes? Adaptive Moral Logic: Can a system prioritize life-preserving and system-stabilizing outcomes? I have been examining real-world datasets from different research contexts to understand whether these concepts can be measured reliably. The findings have highlighted several limitations. Some required variables are missing, some outcomes remain unresolved, and several concepts still lack complete operational measurement rules. Rather than filling these gaps with assumptions or producing convenient scores, I have kept unresolved elements open and documented what the available evidence can and cannot support. To be clear, OIP is still at the research stage. It has not been scientifically validated, and I am not claiming that its current formulas establish a new theory of intelligence. However, I believe the underlying question deserves serious discussion. Are we evaluating intelligence itself, or are we mainly evaluating how well a system performs when the infrastructure around it is working? I would value critical feedback from people working in AI research, AI evaluation, resilience engineering, and measurement theory. How would you design a fair and measurable test of intelligence under infrastructure constraints? I am particularly interested in feedback on the assumptions, definitions, and measurement methods behind this approach."
+      "description": "I'm asking because, as a software engineer, I never thought about how things looked. I just wanted them to work. Now with AI, it seems like the most important thing actually is how things look, because the \"making it work\" part is increasingly handled by AI. (I know, not 100%, you still need to understand systems, yada yada.) But I've noticed that everything I'm searching for lately is design skills and prompts to make AI output look less like AI. Granted, people outside the AI bubble are still amazed by the most basic AI slop design, which makes me want to \ud83d\udd2b myself. But still, it made me wonder. Okay, so it's taste. But how do you guarantee taste? What makes someone a good designer or artist? I've never really done art, but I think I have a creative side. I love music and pay close attention to lyrics: what feeling they give me, what scenarios and visuals I imagine that fit that feeling. But that's just me narrating my thoughts. I don't feel like I can turn it into anything artistic. I just end up saying stuff like \"this lyric makes me imagine X and feel Y,\" which is like... okay dude, nice? Obviously, I know about the whole anti-AI movement among artists, and I get it. It's similar to what I felt when AI suddenly could write code and make it available to everyone, because coding was kind of an art to me too. But I guess now I'm wondering about real, actual art. So please don't kill me. So how do you really work? Is it just luck or talent? Are there principles you base it on? Is it all subjective, or are there objective elements to it? Genuinely curious how people who do this for a living think about it."
     }
   ],
-  "fetched_at": "2026-11-03T03:37:05.942690+00:00"
+  "fetched_at": "2026-11-03T11:39:53.083982+00:00"
 }

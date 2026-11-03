@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-03T11:40:19.749482+00:00",
+  "data": {
+    "url": "https://cryptobriefing.com/ethereum-foundation-evm-fast-challenge-block-limits/",
+    "title": "Ethereum Foundation launches evm.fast challenge to verify block limits",
+    "description": "The Ethereum Foundation's evm.fast challenge asks contributors to prove a finite worst-case step bound for block verification on a RISC-V model.",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/02233431/library-ethereum-foundation-launches-evm-fast-challenge-to-verif-800x450.png",
+    "favicon": "https://cryptobriefing.com/wp-content/themes/cryptobriefing-lovable/assets/img/brand/apple-touch-icon.png",
+    "site_name": "Crypto Briefing",
+    "author": "Estefano Gomez",
+    "keywords": null
+  }
+}

@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
-      "pub_date": 1793462400.0,
-      "article_url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
-      "image": "https://tii.imgix.net/production/articles/18087/e0dccb6e-5d64-40c7-be5e-76da17926003.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people\u2019s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ..."
+      "headline": "See inside Amazon\u2019s robot warehouse",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN04zaU9pMEZNZ3haSDlaYW43dGo1QktUMEVTazQxY3AxNnFzemszMnVHd05LdVBScnlrUDlBUzNINVpWQzY5Y295ZC14S1owYVNZY05pVG8xaHloMGJHZWlTdWFPeTRUZnpqdHl4VzdsbncyRl9DdklySlJuOV9GNzdQS2Z3bWlaNmpva09jTjg0U3Nf?oc=5",
+      "pub_date": 1793700000.0,
+      "article_url": "https://www.businessinsider.com/amazon-warehouse-where-people-robots-work-together-2026-10",
+      "image": "https://i.insider.com/6ae4a430d8cc18cf7950f7ab?width=1200&format=jpeg",
+      "description": "Amazon's warehouse in Tracy, California, uses robots like Hercules, Pegasus, and Cardinal to enhance efficiency, but human workers remain crucial."
     },
     {
       "headline": "Laden with eggs, robots race up sacred Chinese mountain",
@@ -23,36 +23,6 @@
       "article_url": "https://techxplore.com/news/2026-11-laden-eggs-robots-sacred-chinese.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Video. Humanoid robots climb China\u2019s Mount Tai in unusual challenge",
-      "source": "Euronews.com",
-      "source_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFlUcTZfZTQ3ZDBTOW5qTTBCVTFXcnFkc0ljRXE3czROelhvNG8tWnFkSTdZLWc0czJzUWlEQjZIQnlTOXF3X2ZSLU9OckJtZGJCcTFhQU5jSHR0UWlJTjJGOWZ0U2lnRVZSUzhtNDNoUXMxdkRHYTdKcFVpSkJrNVczM2M5bnFOTzNmM1pEWkUxTXdzWmJ2X1pISXNIQVVteFhZ?oc=5",
-      "pub_date": 1793626412.0,
-      "article_url": "https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge",
-      "image": "https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg",
-      "description": "Video. China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path."
-    },
-    {
-      "headline": "Betting on AI and robotics, Dyson opens Glilot flagship store in Israel",
-      "source": "The Jerusalem Post",
-      "source_url": "https://www.jpost.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jdFdQWmt5Wm94am9lZEh4SkVsU0x2c1RrWlhvLVpiU2xtQmd2N3NkOWRDZ1luQWpGRlJmcXU1TFVkdVQ0QUViUEM4SXNXUWdoNXUwMkJSNEhiX2dMcmhPVUZ0RjhjVUJEcmFfMg?oc=5",
-      "pub_date": 1793522227.0,
-      "article_url": "https://www.jpost.com/business-and-innovation/article-913442",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744421",
-      "description": "Dyson robotics engineer Guy Turner says the company\u2019s next chapter will focus on machines that can sense, perceive, and solve problems independently"
-    },
-    {
-      "headline": "These AI robots have placed solar panels 300,000 times on US farms",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNalVLVVNSci11eTktejVwYy1nSjkxZGs5RFVFNkNWaUs1M3hSR1RqRVY4Vkl6NGJkekxhNVRwUFV6TXBEb2pack1SZC1KZVZud21IOUFCTVFNQ0l1Rm51dFlpNGRYWG94Y1dRQVk4RXc2YnUyWHBPWFdHbkdENWxMcG12bVk?oc=5",
-      "pub_date": 1793625520.0,
-      "article_url": "https://www.yahoo.com/news/videos/ai-robots-placed-solar-panels-131840917.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9512b6fa51a271dd95edb2e4df59695c559fd314a6e69007975e7f8786d838d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finteresting_engineering_646%2Ff3fc7e6e78b1297367570d16772f686b.jpg",
-      "description": "Maximo Robotics, the construction robotics company incubated by AES, says its machines have completed more than 300,000 construction tasks on US utility-scale solar projects. With its new Max 4.0 plat..."
     },
     {
       "headline": "Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes",
@@ -75,14 +45,44 @@
       "description": null
     },
     {
-      "headline": "Ukraine's war robots keep soldiers out of danger, but humans still risk their lives to keep them running",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHp6dTNQVHhzTGhwYmZsZnlFOVQ2ZC1XYXZXOTByTmhnVU9aTU5ZWEpiSGpNbU1UWndsUWN4a1psME5qZE9nbjUwVExNdlZmYm95TVVUcGFqWDJESDRCdnlVdEJqcTYtUkFlZUJ3TkFTeHFfTS1RRTJHMWljLU9HeUJJWDRVeGkyN3Y2bkpUaFFNWnZIMHQtQ21tZEFjaFBnUFh5Z205VlAzazA?oc=5",
-      "pub_date": 1793445180.0,
-      "article_url": "https://www.businessinsider.com/ukraine-uses-robots-protect-humans-replace-some-soldiers-still-risk-2026-10",
-      "image": "https://i.insider.com/6ae3328aca24d51c5f8a0252?width=1200&format=jpeg",
-      "description": "The point of Ukraine's growing robot fleet is to replace humans in dangerous areas, but their use still puts some soldiers in risky positions."
+      "headline": "Why this German robotics founder rejects military contracts",
+      "source": "DW.com",
+      "source_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkp3V3NiNEFYNmt6Y1JJWDU2bnFrUkRxVFJaaWN0bm9mRklkaTVzbkNodklZUzlTd3lSWnU5eTNCZkViODRyY19sLTB2RkpCZWhkaWY3dkRST20zWG1JR2dabGJwVnlGN01WMGIxcUtISW5nSzlMV1FPT2ZhSVBxNmZhenZPbFJYVXhGdDd0Tm1OdlJveHJUc0lxaks?oc=5",
+      "pub_date": 1793697339.0,
+      "article_url": "https://www.dw.com/en/why-this-german-robotics-founder-rejects-military-contracts/video-79810916",
+      "image": "https://static.dw.com/image/79485182_6.jpg",
+      "description": "As governments and investors pour into defense technologies, David Reger, CEO of Neura Robotics, is betting on intelligent robots. He explains why Europe's future hinges on industrial productivity."
+    },
+    {
+      "headline": "Video. Humanoid robots climb China\u2019s Mount Tai in unusual challenge",
+      "source": "Euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFlUcTZfZTQ3ZDBTOW5qTTBCVTFXcnFkc0ljRXE3czROelhvNG8tWnFkSTdZLWc0czJzUWlEQjZIQnlTOXF3X2ZSLU9OckJtZGJCcTFhQU5jSHR0UWlJTjJGOWZ0U2lnRVZSUzhtNDNoUXMxdkRHYTdKcFVpSkJrNVczM2M5bnFOTzNmM1pEWkUxTXdzWmJ2X1pISXNIQVVteFhZ?oc=5",
+      "pub_date": 1793626412.0,
+      "article_url": "https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge",
+      "image": "https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg",
+      "description": "Video. China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path."
+    },
+    {
+      "headline": "DroneDog Strengthens Stadium Security: NFL Robotic Technology",
+      "source": "Yahoo Sports",
+      "source_url": "https://sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNekNuYWhyVkc1YndVSTFLUzdtMUhHMUVRbVhhRVlIUU9yTXhXVGxrNnFSSWFkYmdFbnIyckRqTTdXbERkMEZUSnFqREFhNHNYV3BHTlhUdld3aS1rN29CRk90aDk4ZEliNlNkUlJzVXlJc2MxX2Z2ZXlDUjJEYlVmNkRGLUpGNV9QaTRKSDg3RjBVY2l5?oc=5",
+      "pub_date": 1793676300.0,
+      "article_url": "https://sports.yahoo.com/articles/dronedog-strengthens-stadium-security-nfl-032520533.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a47824b63f4b1b5096cac32282b48fec1728c2338284485de305b14026c4bfdc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F6a9c411624cfc9db487994099ac22f54.jpg",
+      "description": "Stadium security has become an area of concern across the NFL. Can stadium venues ever be too safe? Asylon Robotics\u00b4DroneDog Strengthens Stadium Security, and the difference is noticeable. These ground robots expand security visibility, support consistent overnight patrols and help stadium teams operate more efficiently. As major sports and entertainment venues face increasingly complex security \u2026"
+    },
+    {
+      "headline": "AGIBOT puts six humanoid robots in 24-hour convenience store challenge",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWdOR2syLUhwb0UzbkM1YjNEeGo1RU1tN2JSOWFhbDNXWjZ2THR5Vl9MTWszQ1hJWXZUZGRBY3BDa2ItYUFGVG11X2wwMG9MaG80NnhSa2ZMVm50dFBjR25FanAtSHB3akFISHZ4aERZX21VMGlvMURldE9QVTUtZmdBbG5zeFpMRWRmeUNrQ1o0OVNu?oc=5",
+      "pub_date": 1793699760.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/agibot-humanoid-robots-in-convenience-store",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-1-2.jpg",
+      "description": "AGIBOT puts six G2 humanoid robots through a 24-hour convenience-store challenge to test everyday retail tasks."
     },
     {
       "headline": "Robotics startup Tutor Intelligence nabs $75M investment",
@@ -95,16 +95,16 @@
       "description": "Robotics startup Tutor Intelligence nabs $75M investment - SiliconANGLE"
     },
     {
-      "headline": "XAEL-AI Facilitates Cross-Border Robotics Industry Visit for Three U.S. Participants in China",
-      "source": "The National Law Review",
-      "source_url": "https://natlawreview.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1ZIYkJKaWd4TEZBdWU2YTE5WV9PaWlhZEdSZ3VXdlBtMGJ1OEE3RDEzdVgzY3VCYm1XM2VmR3lXbkdhcnM1Q2xxQ0IzbGxqdDRITWZIVlJoeFBudkJnVmx0XzZ6VTRwNUhmQXR3aHhlSHk1eGk0RTMtZi1BMHE5MFE1dWFLSGhlY3B6THdfRkcxai1KekxFNHBGbXdQX0NHU21Qd0VQcDI?oc=5",
-      "pub_date": 1793639179.0,
-      "article_url": "https://natlawreview.com/press-releases/xael-ai-facilitates-cross-border-robotics-industry-visit-three-us",
-      "image": null,
-      "description": "Shenzhen, China--(Newsfile Corp. - November 2, 2026) - XAEL-AI organized a factory visit in China for three participants from the United States, providing firsthand exposure to robotics equipment and an opportunity to examine the practical considerations involved in commercial service robot applications."
+      "headline": "Top 10 robotics developments of October 2026",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sZjVrclEtX0p0eDRBNjB5ZFRWdHN1MWU5Ti1sWkJENzVNaDh6M2RRVTFFZERKUklERmFZR1V4QVdua3NrVDNReC12MGlSaVhReGVRcG5JeHgzOFVFelp2THBZb09SNlBYMVZvaDFwWnBSMF9fbGMxck1yaTF5QQ?oc=5",
+      "pub_date": 1793642868.0,
+      "article_url": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/TRRoctobertop1026-featured.jpg",
+      "description": "In October 2026, we celebrated the 20th anniversary of RoboBusiness and announced that the show will be rebranded to Robotics Summit & Expo West."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-03T03:37:33.653460+00:00"
+  "fetched_at": "2026-11-03T11:40:17.641928+00:00"
 }
