@@ -35,6 +35,17 @@
       "description": "OpenAI on Monday announced a new internal tool for assessing how AI handles tasks like these, along with research on how its own models performed."
     },
     {
+      "title": "OpenAI\u2019s quarterly commit growth has exploded this year, rising to 2442% by Q4 2026 relative to Q1 2024",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmfx3a/openais_quarterly_commit_growth_has_exploded_this/",
+      "published": 1793669790.0,
+      "thumbnail": "https://preview.redd.it/axe13pb2xazh1.jpeg?width=640&crop=smart&auto=webp&s=d53439199888a26bad092dac4fd657afc8f429fa",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://openai.com/index/scaling-git-at-openai/"
+    },
+    {
       "title": "How to stop Meta, OpenAI, and Apple from training AI on your data in the UK",
       "author": "HotMinuteUK",
       "url": "https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/",
@@ -44,6 +55,28 @@
       "site_name": "HotMinute",
       "favicon": "https://hotminute.co.uk/wp-content/uploads/2026/04/cropped-hotminute-site-icon-180x180.png",
       "description": "The world\u2019s largest AI companies, including Meta, OpenAI, and Apple, all offer UK users ways to keep their data out of AI training."
+    },
+    {
+      "title": "Designers, how do you... work?",
+      "author": "MoudieQaha",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmf7dx/designers_how_do_you_work/",
+      "published": 1793667793.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm asking because, as a software engineer, I never thought about how things looked. I just wanted them to work. Now with AI, it seems like the most important thing actually is how things look, because the \"making it work\" part is increasingly handled by AI. (I know, not 100%, you still need to understand systems, yada yada.) But I've noticed that everything I'm searching for lately is design skills and prompts to make AI output look less like AI. Granted, people outside the AI bubble are still amazed by the most basic AI slop design, which makes me want to \ud83d\udd2b myself. But still, it made me wonder. Okay, so it's taste. But how do you guarantee taste? What makes someone a good designer or artist? I've never really done art, but I think I have a creative side. I love music and pay close attention to lyrics: what feeling they give me, what scenarios and visuals I imagine that fit that feeling. But that's just me narrating my thoughts. I don't feel like I can turn it into anything artistic. I just end up saying stuff like \"this lyric makes me imagine X and feel Y,\" which is like... okay dude, nice? Obviously, I know about the whole anti-AI movement among artists, and I get it. It's similar to what I felt when AI suddenly could write code and make it available to everyone, because coding was kind of an art to me too. But I guess now I'm wondering about real, actual art. So please don't kill me. So how do you really work? Is it just luck or talent? Are there principles you base it on? Is it all subjective, or are there objective elements to it? Genuinely curious how people who do this for a living think about it."
+    },
+    {
+      "title": "Apple Intelligence in China will run on Alibaba's Qwen, testing starts Nov 4",
+      "author": "bestvicam",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmhyjf/apple_intelligence_in_china_will_run_on_alibabas/",
+      "published": 1793675546.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Apple's China Newsroom said on Oct 31 that Apple Intelligence will begin testing on November 4 via the iOS developer Beta and ship to Chinese users in December with iOS 27.3. The China rollout integrates Alibaba's Qwen model. Apple Intelligence was first unveiled at WWDC in June 2024, so Chinese iPhone users have waited about two and a half years."
     },
     {
       "title": "Grok Bot users ran out of a week\u2019s usage overnight, and Elon Musk says the agent was costing too much",
@@ -57,60 +90,27 @@
       "description": "Grok Bot weekly usage meters jumped to 100% overnight on November 1. Cursor says that shouldn\u2019t happen. Musk says Grok Bot cost too much to serve."
     },
     {
-      "title": "Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlz1su/dell_xps_googlebook_review_beautiful_hardware_for/",
-      "published": 1793630642.0,
-      "thumbnail": "https://external-preview.redd.it/AVBkhdeGAC-8SkmxTtIVFHTXLIxUxAJRV_la44pP2ck.jpeg?width=640&crop=smart&auto=webp&s=24d5bb06f581796e292568f9bc85616457596ae3",
-      "external_url": "https://www.engadget.com/2302835/dell-xps-googlebook-review/",
-      "site_name": "Engadget",
-      "favicon": "https://www.engadget.com/img/engadget-favicon.png",
-      "description": "Googlebook OS still needs a ton of work."
-    },
-    {
-      "title": "Gulf investors bet on AI, space tech",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1xlzxdx/gulf_investors_bet_on_ai_space_tech/",
-      "published": 1793632644.0,
-      "thumbnail": "https://external-preview.redd.it/fsguPmMUbdGrhKSkbzESKLzxKgEFBMZQycDE0xa7wek.jpeg?width=640&crop=smart&auto=webp&s=f155019751b8786e8d4a912d518d584ed41f26c9",
-      "external_url": "https://www.linkedin.com/news/story/gulf-investors-bet-on-ai-space-tech-8874609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "AI infrastructure and space startups are emerging as bright spots for Gulf investors, who are otherwise wary of India\u2019s broader markets, The Economic Times reports."
-    },
-    {
-      "title": "OpenAI's plan to make data centers less hated: Rename them \"compute campuses\"",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xm43yd/openais_plan_to_make_data_centers_less_hated/",
-      "published": 1793641797.0,
-      "thumbnail": "https://external-preview.redd.it/a_zdj1zyrg_Zhh4LnchBbpuSPWFJ7e9T3cQiy8G-wfE.jpeg?width=640&crop=smart&auto=webp&s=1ba294366c5e78e2bf849dfe09a042e004d33a4d",
-      "external_url": "https://www.techspot.com/news/114411-openai-plan-make-data-centers-less-hated-rename.html",
-      "site_name": "TechSpot",
-      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
-      "description": "An OpenAI spokesperson told Business Insider about the rebrand. \"Compute campuses better describes the scale and role of the infrastructure we're building for AI,\" the spokesperson said...."
-    },
-    {
-      "title": "failure log #2: the patch was real, the bug was different, the PoC still fired",
-      "author": "AIGODSEND",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmbiex/failure_log_2_the_patch_was_real_the_bug_was/",
-      "published": 1793658215.0,
-      "thumbnail": "https://external-preview.redd.it/ZXV6amVnaHJ5OXpoMSw8vqP-HK7Ubvf3xWnarrhWbNaWQFaZOs5yqtfbKkgT.png?width=640&crop=smart&auto=webp&s=7ebd2dc4cd9fa55fc735f8bd80f13467ae7d42b7",
+      "title": "Apple Intelligence is finally coming to China in December, powered by Alibaba's Qwen instead of ChatGPT",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmf3on/apple_intelligence_is_finally_coming_to_china_in/",
+      "published": 1793667523.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "Apple confirmed on October 31 that Apple Intelligence will come to iPhones in mainland China in December with iOS 27.3, with testing starting in the iOS developer beta on November 4. The notable part is the model swap: instead of ChatGPT, Siri, Writing Tools and Visual Intelligence in China will be able to call on Alibaba's Qwen for text and image understanding and content generation. Alibaba says user requests and generated responses will not be used for model training, and participation is opt-in. Eligibility covers iPhone 15 Pro and later models (plus iPhone Air and iPhone Duo) for users whose device was bought in China or whose device location and Apple Account region are both set to China. It is also a partial launch: Apple says it does not include the new Siri AI or the other next-generation features announced at WWDC 2026. Discussion: Apple waited about two years to bring its AI features to China, and the way in was a local model partner rather than its global one. Do you think region-specific model swaps become the normal template for AI features in regulated markets, or is this a one-off driven by China's rules? Source: Apple China newsroom announcement, Oct 31, 2026, as reported by Xinhua and others."
     },
     {
-      "title": "How to tell if a voice recording is AI-generated",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1xm9hsx/how_to_tell_if_a_voice_recording_is_aigenerated/",
-      "published": 1793653526.0,
-      "thumbnail": "https://external-preview.redd.it/n3tOqo80tl9Sz1fxNBWIo6gVVw0cu6EH_6zD9x9gKU8.png?width=640&crop=smart&auto=webp&s=b43e89ee7f273ceb74783801f3904f3bcb6e3eb9",
-      "external_url": "https://www.scientificamerican.com/article/how-to-tell-if-a-voice-recording-is-ai-generated/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "I can clone my voice in seconds\u2014but there are tricks to help tell real speech from AI"
+      "title": "Are We Measuring AI Intelligence, or Just the Infrastructure Behind It?",
+      "author": "zerovariance36",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmhgs4/are_we_measuring_ai_intelligence_or_just_the/",
+      "published": 1793674169.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We often measure AI intelligence through speed, computing power, data, and overall performance. But are these measures telling us how intelligent a system really is? How much of an AI system's performance comes from its own capabilities, and how much depends on the infrastructure supporting it? Consider an AI system operating with stable electricity, cloud access, and continuous internet connectivity. It performs well under these conditions. But what happens when some of that infrastructure becomes unavailable? Can it still adapt, learn from real-world feedback, and make useful decisions? This question led me to develop a research-stage framework called the Organic Intelligence Protocol (OIP). OIP explores three key concepts: Infrastructure Independence: How dependent is a system on external infrastructure? Grounded Feedback Loop: Can a system improve its decisions through real-world outcomes? Adaptive Moral Logic: Can a system prioritize life-preserving and system-stabilizing outcomes? I have been examining real-world datasets from different research contexts to understand whether these concepts can be measured reliably. The findings have highlighted several limitations. Some required variables are missing, some outcomes remain unresolved, and several concepts still lack complete operational measurement rules. Rather than filling these gaps with assumptions or producing convenient scores, I have kept unresolved elements open and documented what the available evidence can and cannot support. To be clear, OIP is still at the research stage. It has not been scientifically validated, and I am not claiming that its current formulas establish a new theory of intelligence. However, I believe the underlying question deserves serious discussion. Are we evaluating intelligence itself, or are we mainly evaluating how well a system performs when the infrastructure around it is working? I would value critical feedback from people working in AI research, AI evaluation, resilience engineering, and measurement theory. How would you design a fair and measurable test of intelligence under infrastructure constraints? I am particularly interested in feedback on the assumptions, definitions, and measurement methods behind this approach."
     }
   ],
-  "fetched_at": "2026-11-02T22:25:13.282330+00:00"
+  "fetched_at": "2026-11-03T03:37:05.942690+00:00"
 }

@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Designing for sovereignty: Ethereum for digital public infrastructure",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uam9ZU2xHSlU5SUtKM1E3SnAtU2xueWFmYXdkU2N6emgyeDV3SUYxWnhhOUQwUHRJcTVrNFlCazJCbTMxaVVnMGVwTGM0c3ZPMXp6NXZxa3ZKT0NXMXRSRWVNUWk?oc=5",
+      "pub_date": 1793675735.0,
+      "article_url": "https://blog.ethereum.org/2026/11/03/digital-pub-infra",
+      "image": "https://storage.googleapis.com/ethereum-hackmd/upload_d1805a5e41e5b947df38abbec662b443.jpg",
+      "description": "Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation..."
+    },
+    {
       "headline": "Elon Musk\u2019s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -35,16 +45,6 @@
       "description": null
     },
     {
-      "headline": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhzOFlLbHBwd0t6eWlFNGszeXZGZ2ZTak5CMmFjMFZpbFB1MW5STm1TQnhXU3pLb1BjQXRBMnNrZ0ZfWThmSWJnZnlGbWpZQzFXbUtGNm10VzBoTVlTdEREeGNJWFUya3EyendOZmlmMGhZRTA2Z2NHRVVIU3ZFdXd5OXFDQ0JQbzE1ZEk0UW9RaEt6eVE4TnJLYnY5XzlLbWhOUWVjRWtob2xIbXJSZmF3cHZwampFMWxMRi1zR1NobGM?oc=5",
-      "pub_date": 1793360116.0,
-      "article_url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Current price of Ethereum for November 2, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -65,14 +65,24 @@
       "description": "Vitalik Buterin uses kohaku-cli for private Ethereum payments. Its local code, dependencies and signing permissions define the remaining trust decisions."
     },
     {
-      "headline": "Ethereum: Inverse Head and Shoulders Breakout vs Bitcoin",
+      "headline": "Tron: Flips Ethereum in USDT Supply",
       "source": "Blockchain News",
       "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1F5cDUyR21mckRaVWVrZUpmcnVQdUVxXzNQWGlNT3VLTmp4aTAyLVNVaDhRRFBYbG1paXh1QzUybzdITjBxbHJXNTRwczlKODB5YkZoUTRHcjR4OUN0T1ZMcm1IaEEyejAyUHVVWjgzS004YkhSX0I1cjRPUC1lNUhGUnhCRDduV3ZtTmRR?oc=5",
-      "pub_date": 1793582640.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-inverse-head-shoulders-breakout-vs-bitcoin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVmJ0RTJZdjdCVGU2ZHo1NnRuNHBYZHQyNzdFcWZuS1BTdWRHckRMVE1sUVRyX01HbGNxY2xFTEpKZ042NF9LZWxSQkt4SVR4ZUVvNFpndDRxUzd0ekt2UU92NmFWNHVyVjZNNEdzcHFvR3M?oc=5",
+      "pub_date": 1793634660.0,
+      "article_url": "https://blockchain.news/flashnews/tron-flips-ethereum-usdt-supply",
       "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Trader Tardigrade reports Ethereum versus Bitcoin broke out of an inverse head and shoulders pattern on the 8-hour chart, flagging a major momentum shift..."
+      "description": "Onchain Lens reports Tron ended Q3 2026 with $92.35B in USDT circulating supply ahead of Ethereum's $86.69B after taking the lead on July 23, with current..."
+    },
+    {
+      "headline": "Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTZNVzA1MlN1M1dFZEhtNlkxVjBXVmRRMFJPRmhRcE1HSkFFSVlqRzNHQmtlcFhpOVl6aG9qd3NUNVlWZHBoeFUzVXFLcWRmV0RfQnRCNENsdkN1SURaNTlGRGRoREdudkJwdnp4Y0NSRmNRU3ozRU5RVDB6X0g2U01pYlBBX2tOdkYwUjJR?oc=5",
+      "pub_date": 1793651927.0,
+      "article_url": "https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward",
+      "image": "https://cdn.sanity.io/images/6oftkxoa/production/440c5e64b4486e422ac0900e1edf59768647d4b0-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
+      "description": "Onchain records show Mercado Bitcoin incident-linked wallets moving ETH, USDC, PEPE and TRX onward, while some transferred gold tokens were subsequently frozen."
     },
     {
       "headline": "THORChain Halts Swaps Across 10 Networks After Ethereum Reorg Exposes Bug",
@@ -83,16 +93,6 @@
       "article_url": "https://financefeeds.com/thorchain-halts-swaps-across-10-networks-after-ethereum-reorg-exposes-bug/",
       "image": "https://financefeeds.com/wp-content/uploads/2026/06/THORChain-resumes-operations.png",
       "description": "The incident began on October 31 at 11:34 UTC, when Ethereum replaced a recently produced block containing a 10 ETH deposit that THORChain had already"
-    },
-    {
-      "headline": "Mercado Bitcoin Keeps Withdrawals Suspended, Identifies Incident Wallets",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeE9VOFU1WFpwMDNFMTlpeXhUWWJKU0xjZjJsbUdHVV9lX09rZUI1QmF3REpsWWduU2x1LU5SY0dYN1BfSjhWVGhadVh5SXZKS1hDTk9XcmN0Z1RNMlBacDJ6ZHJyTGZlSlVoOXZMa3Y4Z0FCZ1ZCa1lvQmpyR1BDNTBDTlUtcGNiUVdqWkdTb2FNdkpCTjF4QlJuTi1wekc4NmtvSU1Odw?oc=5",
-      "pub_date": 1793634826.0,
-      "article_url": "https://thedefiant.io/news/hacks/mercado-bitcoin-keeps-withdrawals-suspended-identifies-incident-wallets",
-      "image": "https://cdn.sanity.io/images/6oftkxoa/production/354d8b3ae091bda349fc39a750a7fb09bee25c76-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
-      "description": "Mercado Bitcoin identifies incident-linked wallets while deposits and withdrawals remain suspended. The exchange says customers suffered no losses."
     },
     {
       "headline": "Bitcoin Falls Below $77,000, Ethereum, XRP, Dogecoin Flat Ahead of Midterms",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-02T22:25:32.380542+00:00"
+  "fetched_at": "2026-11-03T03:37:26.585612+00:00"
 }

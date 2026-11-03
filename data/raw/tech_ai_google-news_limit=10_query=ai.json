@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "US Tech Stocks Enter Correction on AI and Midterm Election Risks",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0c0ajcwSC1TMmdqcklFOVR5M1lxNzFzRHZ0MTBILTlITXBKYXpFbTBaN2dFdnVNbmR4U2Jsa2kyYngzVnp5Tkd3OG9mNmpXd0EwY0ttem9zeGhGRmg3S0ZFNnIyNXNHdE1DSGJNU3E1UkNoR0N1bDFNbjIyUDcyaHJKaDhEQVUtbjlrWXBRZi1WS3IxVnhnMVN2S1NacTczejdUaWVjM1o3Y1A5bnQ5QXdlNA?oc=5",
-      "pub_date": 1793654133.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
-      "image": null,
-      "description": null
+      "headline": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5",
+      "pub_date": 1793657690.0,
+      "article_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
+      "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
     },
     {
       "headline": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
@@ -25,86 +25,86 @@
       "description": null
     },
     {
-      "headline": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
+      "headline": "Inside Anthropic\u2019s Hunt for A.I. Computing Power",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzNBLTZEQWd3WGJtSVlvWW9BYnlFNW91WUowLUhCZFJ4NmREYU4tUG9hM1Jzb0RaOVNKczZPTUZQVHk3SHVSVlRFRGM4UnZtdHhMcnNWM1FLOWFUSzlGVXpiYUpPNElWcnpzWmliRUk4Z2JIaE0yeVFhc3NLcEZUdl9NdVN3Zw?oc=5",
+      "pub_date": 1793642484.0,
+      "article_url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "US Tech Stocks Enter Correction on AI and Midterm Election Risks",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHl6bTlzTEs0Zkt0UkQ5NGhDUXozSEtSbHFhek0xRDlPZUZ5X2JwUmpMcDl2dk5BQVF3QVhOTDhTTTZaU0FRcGJOSWNja1VrOEFzdHZzb2c5WlFodU9sRHJhWmhudDlYRXM3YmkwcG5tbU16b3RVMW1IM1k5cko1dG9YTElTSUZ3MmEwX1lqb21VVXhXX3BOTXNpcEl2S2xvajY5REtQT3YtYnp3VDJuTTloTlg?oc=5",
-      "pub_date": 1793642586.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0c0ajcwSC1TMmdqcklFOVR5M1lxNzFzRHZ0MTBILTlITXBKYXpFbTBaN2dFdnVNbmR4U2Jsa2kyYngzVnp5Tkd3OG9mNmpXd0EwY0ttem9zeGhGRmg3S0ZFNnIyNXNHdE1DSGJNU3E1UkNoR0N1bDFNbjIyUDcyaHJKaDhEQVUtbjlrWXBRZi1WS3IxVnhnMVN2S1NacTczejdUaWVjM1o3Y1A5bnQ5QXdlNA?oc=5",
+      "pub_date": 1793654133.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
       "image": null,
       "description": null
     },
     {
-      "headline": "Claude's new AI report card tool gives companies a closer look at costs \u2014 and flags 'inefficiencies'",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTRyUlNkWThIYkZRbUJnS0NJZENjQzh5eEthQmlOT0QyaTJYakdSNVFaSndvVkp4elcwUWZzVVpVZklCQWVoZUZrWmNjU2Iza2pxVV9FeEtXOGlrNnRQMkNneEtsZGNUSk9mV3d2QTlaRGRfcXo0dVg2QUEtd25MUHlwOG0taWRxdURzM2JFaDhtdmcybU5WY3ZWR3BkNjRZ?oc=5",
-      "pub_date": 1793654100.0,
-      "article_url": "https://www.businessinsider.com/anthropic-claude-smart-reports-ai-usage-costs-inefficiences-2026-11",
-      "image": "https://i.insider.com/6ae8f0d1d8cc18cf79510436?width=1200&format=jpeg",
-      "description": "The \"smart reports\" tool for Claude Enterprise users is designed to analyze a sample of a team's transcripts and group work into categories."
+      "headline": "More drops for AI and tech stocks overshadow gains for most of Wall Street",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
+      "pub_date": 1793655720.0,
+      "article_url": "https://apnews.com/article/stocks-markets-ai-earnings-oil-iran-048328e49e47ce7afe6c1fb9d9acf13d",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Palantir Q3 earnings: Did the AI company just have a 'celestial' quarter?",
+      "headline": "Why AMD Stock Is In Focus Before Q3 Earnings And AI Partnership Updates",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcEN0ODlUZU5Yb2dGT21QLThlZTJUMmNvYXo1ZThEVWk4M1J6czlqQ1dMcXA1NXBaZGZrWjNvYzBteUpqV0c1MVZPWU1EODNfSmVJZTY3QmJyNXh1VTJvRktFNHJ4NnptaW9ZcE1sY1d0ZlRnUDJPb2ZlNVdfckpGODJxbHR0bXBJbHVWa016YnVWY0Job1pyeFlFdFVldDRvdjQ1NXdjNlhPR3J5Z3VXUW4taEc0MDg?oc=5",
-      "pub_date": 1793655576.0,
-      "article_url": "https://finance.yahoo.com/video/palantir-q3-earnings-did-the-ai-company-just-have-a-celestial-quarter-213936890.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/273a0f67eaea76aff2b25884bb9f6ab011986a3e67b4e6f1504243d9b5d7c248/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F95422634-0a68-4c35-aad9-b2fa8f8c60a2_4bf36b8fe6f1e95f3fa36d7e878a1a1b245ad4cdbe4d64917287145a2edc8147.jpg",
-      "description": "Palantir Technologies (PLTR) stock is getting a lift in Monday's extended-hours trading after topping third quarter earnings and revenue estimates.\n\nD.A. Davidson head of technology research Gil Luria comes on Market Domination Overtime to react to Palantir's latest results and discuss whether he agrees with CEO Alex Karp's sentiment that it was a \"celestial\" quarter."
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFZqQnJQc2E5bXlQbldmdWlHd1h5S3BhclFTYmNfNm1NQ0J5bmdfYkpEZXZ2dWZFX25NSW1vMEtUT2ZFQnd3N3d5SEw2SDRLTWp2QmM1czRxT09tVjdENldBY1hqcXdLLV9oVF9wWWZUS2Jvc1JkVnVOZEtzdzVBV2N3R0lCZEdXeTZhRXZmTk0?oc=5",
+      "pub_date": 1793672100.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-focus-q3-021510488.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/088b4b683f15dc42d170c7411d95ae6dc0ad459f3f7e25db23768cb3b4ca20d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff1716bae095cc56d6b753ec29493a67a.jpg",
+      "description": "Advanced Micro Devices is in focus after partners including Meta, Vultr and LeadDesk highlighted new deployments of AMD EPYC processors, Instinct GPUs, Helios rackscale systems and ROCm software in large AI training, inference and conversational workloads across data centers and cloud platforms. These collaborations point to AMD technology being embedded deep in customer infrastructure, which can influence utilization levels, product mix and long term demand visibility across AI..."
     },
     {
-      "headline": "Alphabet in talks to acquire assistant startup Howie AI",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3Y0Z2hMejRvRHFGeFpBTEgzN3ZoQktOQ2R1WkE3V0pKTThFZnF5YUdkdVZldF9nMDlNZmFrRlBmM1RGRjRrRDl2c0NWUzFIRE1YOGtnVmhLVUFWVU5KYmx0Ym9SNXNEakRtRm52MThhMUJqcnltWmpfYW1tQkpFdHRNai1NaUVadXQzSw?oc=5",
-      "pub_date": 1793656270.0,
-      "article_url": "https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant",
+      "headline": "Inside OpenAI\u2019s \u2018election war room\u2019 and AI's impact on the midterms",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2s4VjlvM1lYYk9sanZEYkVaN0pUTFJ1Y1Q0U2E0UzZWQXo4QWFDcmJaNEpIQkV1cXFnZTBDYjlTWmllRklTVFNpVW1jenFMRGdJQ0JOTm4wU3FjYWNodnRnbm4wVGh4VFh6cTYyTUJjbldtdm8xT1FUNW4yOVBxRk1GcGJGOVNJUzhldExZR3VyYnMxay1nYU44QUlkV3Y2SjJuSkdhREYwSE0x?oc=5",
+      "pub_date": 1793672784.0,
+      "article_url": "https://www.nbcnews.com/video/inside-openai-s-election-war-room-and-ai-s-impact-on-the-midterms-272739909869",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1793672615583_now_topstory_openai_election_lawson_261101_S3_1920x1080-d7d8l4.jpg",
+      "description": "Josh Lawson, Head of Civic and Strategic Risk at OpenAI, speaks with NBC News\u2019 Tom Llamas about the safeguards planned for Election Night and the role AI is playing in the midterms."
+    },
+    {
+      "headline": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0g4YnExd3BYWXJNMHBBeUVMcVY2YWJuVWxfN0JSdDRUSkt2VnNWQ3BzSGZza3ExcV9fSHFsM0pYcFV6RTY1cmRURnBiNU8zazdJaWVqWXFpMHcxSHd1NXV3QTlXc3NrcHBES0JVZjZiQ2FjVjMxcTdrYWxZaFc5NUgzMkVubng5S3NaU2s5alBuMzFS?oc=5",
+      "pub_date": 1793646335.0,
+      "article_url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Pittsburgh nurses win AI guiderails as use of the technology soars",
-      "source": "Pittsburgh Post-Gazette",
-      "source_url": "https://www.post-gazette.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWdjTHExMDRrQ1NiNmRxMmRaM2djbldyRnFpMjQ4NTZ3VFVMSGVLbk0wY25hMlFBNWU5clNMNXhCNHFkLV9faXBwWGd5akRaRVVDVU5wSmtxalpHdU9Pdjk4dUdTSG53eXpSYmZXQ0prX204eEZFSVZrLS12VUcxUkI2SUpkWU9QN1lwTVE5UEdORklHQmcxdDM2Nm00SWVNaFpfM21aUmN4M1ZLMFhZNV9ES0FTeVdxRGlhNDlEbUhmeGRfVUlxSWdad1lkTTE4ZldfZllEYlpZcS1qcnIteVJYY3QzUUE?oc=5",
-      "pub_date": 1793657713.0,
-      "article_url": "https://www.post-gazette.com/business/healthcare-business/2026/11/02/allegheny-general-hospital-nurses-ai-protections-contract-seiu/stories/202610310041",
-      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202610310041/1140x_a10-7_cTC/AGHnurserally100926-9_1793448145.jpg",
-      "description": "Healthcare workers have a growing concern about the use of artificial intelligence in medical decisions as evidenced by recent labor contracts as use of..."
-    },
-    {
-      "headline": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5",
-      "pub_date": 1793650911.0,
-      "article_url": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "headline": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56UDJLTlRLck1UTTdLZE5Mb1M3OWFjekVJTDRUUmxxanRNR1N5UzRlcjZxMDM0Rnh3S2hKTGF1STVmN2s4SFNnODNYd0tGa2NRTmlSYnUtSTRDNmJtcDBUV2ZNV2txci1WUDVTTmxn0gFzQVVfeXFMT28xaUpnSkY1R2JoeTk3bWRVSlZ6bUNKdXNQWTRVMDBIMjJ0bTZiVFpxMW9UQmFoVEpSb0pIMWdjTHhoRkxDVzk5ei1ZbzBDUjRnMnJLNE8xOWVqSmxoVjJURmRpTXJqX24zZmQwNzFIWFg4VQ?oc=5",
-      "pub_date": 1793628642.0,
-      "article_url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108504031-1793627572686-Untitled-1.jpg?v=1793627728&w=1920&h=1080",
-      "description": "The AI infrastructure deal is expected to close during the first half of 2028."
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTJxMVlLZVJ1YmQwOGw0Y2R0b3JqQS04aWZzVl9xU0J4cS1SRXBoZmlSSDhqNWtCODRlMEdtdWNEZ0U3Q3BYbVhJQjZ3UE5ZV05UMUpuQXJDMms4MHBZWS1nbkRqRnZXbXlySXVPVGpTZHB5X2RSWU1ib1JHM1BBOUxwb1BvYWRXMVJiSDhPSjBEcjTSAZgBQVVfeXFMTjlfeHpPbmxGR2lCLXhKS2lvQWotNV9HYmhKTEhvVUJMemRQbnBpOUg3Zkd6Vzc1M1g4X2pDWFU1WGZnaEdTTElnZDJlOEFrMDNMbnBuRjR1eFFYcnZodzFsSXNZVjNVVm41aE82UVlsRTVlZ2tYMllib1hQRjBZT0drLUpIdV9OY1lWV0pUNUNGZG95cS0xZFc?oc=5",
+      "pub_date": 1793617201.0,
+      "article_url": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/106949322-1632916362498-gettyimages-1235565564-848033_NA-POL-0928-CAPITOL-HILL_KKN_29317JPG.jpg?v=1793390260&w=1920&h=1080",
+      "description": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy."
     },
     {
-      "headline": "Marvell\u2019s $115 Billion Lumentum Deal Could Reshape AI Networking",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3AyeGFmQ3UzeENRWTNqTFMyV0NIMGpBUW1hNUhZNU5RUXJ2eFJ2RUdlVWZpNmtPWGJ6UXBnZjRNNDNvdFJsYWNNZ0poV2d2WFBrWFNxWVBrRFptSGFWVGVGQVdDd2FOUGUwTmxmRDloeWNDekVTLUNXOUd4Yk1tZ2NTX2FGV2NOeS05VlVKdWFoUU9zUnhkbGhDOFZnYk5RYm9SRFFLWmI0MkZ4QlBYaWFXeVd6dHY0?oc=5",
-      "pub_date": 1793657528.0,
-      "article_url": "https://www.forbes.com/sites/stevemcdowell/2026/11/02/marvells-115-billion-lumentum-deal-could-reshape-ai-networking/",
+      "headline": "Apple Expects Memory Shortage to Affect Future Earnings",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0VTSXBUVzVydmRCN2dDeHRuYUtDT3BIVjhPdmVzRmRfa0liNmRaZXZUT3pDUjljSDhTdzJ2RDM1MWxudHV6WDVZM2x1Y2YwNzBTcHZsTHBCWFFteURtTDFNQ0JRT1lWWGUwQ0szVkZhbkYwT0ZiUlZhVF9ldXRrMVJsODYwNWdseVpoWm02dFNHMDZmVGN1ODZjSFVuTGZJUm1RajB4UWVrZw?oc=5",
+      "pub_date": 1793676314.0,
+      "article_url": "https://gizmodo.com/apple-says-even-higher-memory-prices-and-siri-ai-push-will-weigh-on-profits-2000834048",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-02T22:25:45.130479+00:00"
+  "fetched_at": "2026-11-03T03:37:38.587173+00:00"
 }
