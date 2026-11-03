@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-02T22:25:46.280526+00:00'
+updated: '2026-11-03T03:37:40.261146+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 02, 2026 at 22:25 UTC  
+**Last Updated:** November 03, 2026 at 03:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,19 +124,17 @@ The Information • 2d ago
 
 ---
 
+**[Laden with eggs, robots race up sacred Chinese mountain](https://techxplore.com/news/2026-11-laden-eggs-robots-sacred-chinese.html)**
+
+Tech Xplore • 17h ago
+
+---
+
 **[Video. Humanoid robots climb China’s Mount Tai in unusual challenge](https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge)**
 
 Video. China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path.
 
-Euronews.com • 8h ago
-
----
-
-**[Meta builds humanoid prototype in three months to explore home tasks](https://interestingengineering.com/ai-robotics/meta-develops-humanoid-robot)**
-
-Meta and Fourier develop a humanoid robot prototype as the tech giant explores AI-powered home robotics.
-
-Interesting Engineering • 13h ago
+Euronews.com • 14h ago
 
 ---
 
@@ -148,37 +146,39 @@ The Jerusalem Post • 1d ago
 
 ---
 
-**[China’s robot makers have mastered the moves. Now comes the race for brains.](https://www.japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains/)**
+**[These AI robots have placed solar panels 300,000 times on US farms](https://www.yahoo.com/news/videos/ai-robots-placed-solar-panels-131840917.html)**
 
-Embodied AI, which focuses on software that allows robots to understand surroundings and adapt, is opening a new front in U.S.-China tech rivalry.
+Maximo Robotics, the construction robotics company incubated by AES, says its machines have completed more than 300,000 construction tasks on US utility-scale solar projects. With its new Max 4.0 plat...
 
-The Japan Times • 21h ago
-
----
-
-**[Laden with eggs, robots race up sacred Chinese mountain](https://techxplore.com/news/2026-11-laden-eggs-robots-sacred-chinese.html)**
-
-Tech Xplore • 12h ago
+Yahoo • 14h ago
 
 ---
 
-**[Walmart Pumps $6B Into Robotics Partnership](https://wwd.com/sourcing-journal/logistics/walmart-6-billion-symbotic-robotics-automation-san-antonio-fulfillment-center-1239396645/)**
+**[Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes](https://www.forbes.com/sites/tarungalagali/2026/11/02/five-lessons-from-the-robotics-founders-who-budget-for-their-own-mistakes/)**
 
-Walmart is expanding its Symbotic deal with a $6 billion investment and building out a new $400 million fulfillment center near San Antonio.
-
-WWD • 1h ago
+Forbes • 5h ago
 
 ---
 
 **[West Michigan robotics company opens $15.5M South Carolina facility](https://www.mlive.com/news/grand-rapids/2026/11/west-michigan-robotics-company-opens-155m-south-carolina-facility.html)**
 
-MLive.com • 7h ago
+MLive.com • 12h ago
 
 ---
 
-**[Tutor Intelligence: Why Not Just Teach The Robots Ourselves?](https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/)**
+**[Ukraine's war robots keep soldiers out of danger, but humans still risk their lives to keep them running](https://www.businessinsider.com/ukraine-uses-robots-protect-humans-replace-some-soldiers-still-risk-2026-10)**
 
-Forbes • 5h ago
+The point of Ukraine's growing robot fleet is to replace humans in dangerous areas, but their use still puts some soldiers in risky positions.
+
+Business Insider • 2d ago
+
+---
+
+**[Robotics startup Tutor Intelligence nabs $75M investment](https://siliconangle.com/2026/11/02/robotics-startup-tutor-intelligence-nabs-75m-investment/)**
+
+Robotics startup Tutor Intelligence nabs $75M investment - SiliconANGLE
+
+SiliconANGLE • 2h ago
 
 ---
 
@@ -186,7 +186,7 @@ Forbes • 5h ago
 
 Shenzhen, China--(Newsfile Corp. - November 2, 2026) - XAEL-AI organized a factory visit in China for three participants from the United States, providing firsthand exposure to robotics equipment and an opportunity to examine the practical considerations involved in commercial service robot applications.
 
-The National Law Review • 5h ago
+The National Law Review • 10h ago
 
 ---
 
@@ -200,17 +200,7 @@ Meet Blue — this little robot is showing off some seriously impressive technol
 
 📺 VisionX Lab
 
-👁️ 290K • 👍 8K • 💬 326 • ⏱️ 0:58 • 5d ago
-
----
-
-**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
-
-OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
-
-📺 MACHINEKIND
-
-👁️ 60K • 👍 704 • 💬 54 • ⏱️ 13:33 • 5d ago
+👁️ 292K • 👍 9K • 💬 329 • ⏱️ 0:58 • 5d ago
 
 ---
 
@@ -220,7 +210,17 @@ NewsNation's Nancy Loo reports on the growing number of robots used at grocery s
 
 📺 NewsNation
 
-👁️ 73K • 👍 532 • 💬 212 • ⏱️ 5:15 • 4d ago
+👁️ 75K • 👍 542 • 💬 213 • ⏱️ 5:15 • 5d ago
+
+---
+
+**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
+
+OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
+
+📺 MACHINEKIND
+
+👁️ 62K • 👍 725 • 💬 55 • ⏱️ 13:33 • 6d ago
 
 ---
 
@@ -230,47 +230,47 @@ I built a little AI powered robot that can play fetch. Meet Fetch, a fully auton
 
 📺 SECTOR 07
 
-👁️ 44K • 👍 977 • 💬 95 • ⏱️ 18:03 • 2d ago
+👁️ 47K • 👍 1K • 💬 96 • ⏱️ 18:03 • 2d ago
 
 ---
 
-**[The law isn&#39;t ready for robots | DW News](https://www.youtube.com/watch?v=PBtpOeNrHZc)**
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
 
-A robot allegedly harassed a 16-year-old girl on a German street, but you can't put a machine on trial. So who's responsible: the ...
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
 
-📺 DW News
+📺 MostAmazingTop10
 
-👁️ 25K • 👍 959 • 💬 83 • ⏱️ 1:46 • 1d ago
-
----
-
-**[Realbotix has unveiled a new line of highly realistic robots designed for daily human connection.](https://www.youtube.com/watch?v=AAJ7bXpuT28)**
-
-The newly announced Echo humanoid robots come in both tabletop and full body models, featuring proprietary silicone skin for ...
-
-📺 Cybernews
-
-👁️ 144K • 👍 183 • 💬 80 • ⏱️ 0:21 • 6d ago
+👁️ 121K • 👍 707 • 💬 99 • ⏱️ 9:12 • 11h ago
 
 ---
 
-**[This Camera Stretches To Capturing Images &amp; Could Give Robots Human-Like Vision #robot #shorts](https://www.youtube.com/watch?v=THCiCRxTanU)**
+**[THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN’T EXIST #nvidia #robotics #ai](https://www.youtube.com/watch?v=Hls4e9YcbTU)**
 
-Scientists Develop Stretchable Electronics That Could Give Robots Human-Like Vision Scientists led by Chansul Park have ...
+THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN'T EXIST #nvidia #robotics #ai.
 
-📺 uncover reality
+📺 AUREX717
 
-👁️ 55K • 👍 502 • 💬 16 • ⏱️ 0:06 • 13h ago
+👁️ 4K • 👍 327 • 💬 6 • ⏱️ 0:56 • 5h ago
 
 ---
 
-**[Next Gen Atlas AI Robot (by Boston Dynamics) can do what humans do - World Premiere](https://www.youtube.com/watch?v=6a4Lli8fL9Q)**
+**[Jensen Huang just did story time with robot ducks 🦆 #gtc2026 #microduck #jensenhuang #nvidia](https://www.youtube.com/watch?v=4R3hnmhx2Ps)**
 
-Discover the all new Boston Dynamics Atlas robot, featuring advanced AI, electric mobility, powerful robotic hands and industrial ...
+Nvidia boss Jensen Huang talks to robot ducks during Nvidia GTC Berlin 2026.
 
-📺 REC Anything
+📺 BWTV Prime
 
-👁️ 49K • 👍 317 • 💬 30 • ⏱️ 11:01 • 6d ago
+👁️ 205K • 👍 3K • 💬 151 • ⏱️ 1:48 • 6d ago
+
+---
+
+**[Toyota’s 400,000-Robot Plan: Is It Taking on Tesla and China? | Firstpost Explains](https://www.youtube.com/watch?v=Egf4fBLfRk4)**
+
+In this video, Firstpost explains Toyota's ambitious plan to enter the humanoid robot race against Tesla and Chinese ...
+
+📺 Firstpost
+
+👁️ 14K • 👍 42 • 💬 4 • ⏱️ 7:48 • 5d ago
 
 ---
 
@@ -280,17 +280,17 @@ Time to go home The AgiBot A3 humanoid robot squats down, sits and lies back int
 
 📺 KhanFlicks
 
-👁️ 52K • 👍 482 • 💬 93 • ⏱️ 0:22 • 4d ago
+👁️ 53K • 👍 486 • 💬 93 • ⏱️ 0:22 • 4d ago
 
 ---
 
-**[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
+**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
 
-Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
+Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
 
-📺 Jordan Blake
+📺 History Seeker
 
-👁️ 38K • 👍 953 • 💬 9 • ⏱️ 1:00 • 4d ago
+👁️ 84K • 👍 2K • 💬 54 • ⏱️ 0:09 • 3d ago
 
 ---
 
