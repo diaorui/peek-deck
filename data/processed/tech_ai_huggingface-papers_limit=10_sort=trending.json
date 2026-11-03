@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2610.22732",
       "arxiv_url": "https://arxiv.org/abs/2610.22732",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22732.png",
-      "upvotes": 9,
+      "upvotes": 10,
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 4490,
+      "github_stars": 4614,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 120025,
+      "github_stars": 120226,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 4,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 46020,
+      "github_stars": 46250,
       "project_page": null
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 16154,
+      "github_stars": 16437,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -92,8 +92,27 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 22110,
+      "github_stars": 22280,
       "project_page": "https://harness2.github.io/"
+    },
+    {
+      "id": "2611.01560",
+      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+      "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
+      "ai_summary": "Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.",
+      "hf_url": "https://huggingface.co/papers/2611.01560",
+      "arxiv_url": "https://arxiv.org/abs/2611.01560",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.01560.png",
+      "upvotes": 38,
+      "num_comments": 1,
+      "published_at": "2026-10-31T20:00:00.000Z",
+      "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
+      "github_stars": 100,
+      "project_page": "https://openrua.ai/uni-robot-agent"
     },
     {
       "id": "2011.09832",
@@ -130,7 +149,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 30408,
+      "github_stars": 30451,
       "project_page": null
     },
     {
@@ -149,27 +168,8 @@
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 8955,
+      "github_stars": 8978,
       "project_page": null
-    },
-    {
-      "id": "2610.40599",
-      "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "authors": "Yuze He, Yixiang Wei, Wang Zhao et al. (6 authors)",
-      "organization_name": "Tsinghua",
-      "organization_fullname": "Tsinghua University",
-      "organization_avatar": "https://www.gravatar.com/avatar/6c5c1441e3283e7543342e59277ea219?d=retro&size=100",
-      "summary": "The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce realistic hair or a single fused mesh, while CHARM, the only generator of stylized hair cards, decodes a hairstyle autoregressively as a long sequence of control points. Observing that a card hairstyle is an unordered set of artist-defined primitives, we propose HairDeck, which generates it as one: each card is a single token, and a set diffusion transformer denoises all cards together. From a single image, HairDeck generates the cards and the spring-bone chains that drive them, yielding an animatable asset that exports to ready-to-use downstream formats. On CHARM's own test set, it lowers Chamfer distance by 44% and card-orientation error by more than half while running 33 times faster, and from single images it outperforms CHARM, image-to-3D pipelines and strand-based methods. Project page: https://hyzcluster.github.io/HairDeck",
-      "ai_summary": "HairDeck generates stylized hair cards and spring-bone animations as unordered token sets using a diffusion transformer, improving accuracy and speed over prior methods.",
-      "hf_url": "https://huggingface.co/papers/2610.40599",
-      "arxiv_url": "https://arxiv.org/abs/2610.40599",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.40599.png",
-      "upvotes": 31,
-      "num_comments": 2,
-      "published_at": "2026-10-28T20:00:00.000Z",
-      "github_repo": "https://github.com/hyz317/HairDeck",
-      "github_stars": 750,
-      "project_page": "https://hyzcluster.github.io/HairDeck/"
     },
     {
       "id": "2609.36136",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-03T11:40:02.427568+00:00"
+  "fetched_at": "2026-11-03T19:09:47.880812+00:00"
 }
