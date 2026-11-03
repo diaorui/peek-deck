@@ -5,24 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies",
-      "source": "SWI swissinfo.ch",
-      "source_url": "https://www.swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFJDaEpnR3pRZG1vVDQtWlZSOGx4a2dPQWNxLUo2eEpMYklsdG90c2FZLVY5cEtYSG05aE4ydUk3Tml5ODZoRWJSOVF0WjZ6Vmx0OWlDMENSaE91cXkxWExmOWhXa3NYd1ZqalRpaFlWdzdwV2xDU1hvTzJkSVdHYVNWMGlvdHlha3lRVzNUeXg4WjlnRm9yNUNQUTFMdW03QkxfT3V2Z191M0VHbXJZdkp2VGtFSlNzM2VOV3BnQQ?oc=5",
-      "pub_date": 1793623191.0,
-      "article_url": "https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545",
-      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f915e254cd47423edb17f5452558219ed0c78700-92313700.jpg?ver=b061450f&fit=1200,900",
-      "description": "Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere."
-    },
-    {
-      "headline": "Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEFEZlhWLURyQ0pldFJJVVdzUjZ4ZV9RZE5ERlNJcjZoRjEyWTZNN2NVSmtDVkRmal81ejRNQ1pWLWFHNHAwQ3NkYmJ5bmViM0pXM3dOTHQ5SkJWRWgtUUV6X2xMdVZha1E2WWdpdlU0QUJNckI1SHRxMGlVUHZFZjMwWDZSby1reEpiVG5sOF91RDRJUHpvVmR1RWlEQnVZdmxONU50UVFLaV92RWVRMlhn?oc=5",
-      "pub_date": 1793634202.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/mercado-bitcoin-says-it-will-absorb-40-million-loss-from-hack",
-      "image": null,
-      "description": null
+      "headline": "Mercado Bitcoin Halts Withdrawals After $40 Million+ Hack",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeldoVnpQRkpiSTVnTVVVdVdXblU2YkxjYnAtaEJhb25sVVdmN2h0d2N2c1RtRmZzTU5uZFJLbklqZlN4cnMzSXlWMWpNbnlDaWNOLUJlY0tET0tyRU5mUXFqQXpBeU5kbEt3QnFMbTRkUmtKbGFrNk9Tc1FWWjFYag?oc=5",
+      "pub_date": 1793635745.0,
+      "article_url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Brazils-Mercado-Bitcoin-Freezes-Deposits-and-Withdrawals-Due-to-Ongoing-Security-Incident.jpg",
+      "description": "Brazil\u2019s largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen."
     },
     {
       "headline": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
@@ -35,38 +25,48 @@
       "description": null
     },
     {
-      "headline": "Mercado Bitcoin Halts Withdrawals After $40 Million+ Hack",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeldoVnpQRkpiSTVnTVVVdVdXblU2YkxjYnAtaEJhb25sVVdmN2h0d2N2c1RtRmZzTU5uZFJLbklqZlN4cnMzSXlWMWpNbnlDaWNOLUJlY0tET0tyRU5mUXFqQXpBeU5kbEt3QnFMbTRkUmtKbGFrNk9Tc1FWWjFYag?oc=5",
-      "pub_date": 1793635745.0,
-      "article_url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Brazils-Mercado-Bitcoin-Freezes-Deposits-and-Withdrawals-Due-to-Ongoing-Security-Incident.jpg",
-      "description": "Brazil\u2019s largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen."
-    },
-    {
-      "headline": "Liquid\u2019s bitcoin IOUs are fully backed again after a $320 million exploit",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXVXWWdRV29JdEdUS1hHVjMxcDFLMkhrU1BzMXYtdmoxWHA0emhUNW5CdDJzejV1ZWY2NXhoRlViV2Rlb0RMa053UXc4aTN4U1ctTUtTbVRiSXhNQ1lucWhYbWhpSFdpWWFDUFFIclR5MUVqN2FnOXo2RHJHc051bGZMVXVNSEZNUjQySzR5T052aUJOXzNmb0lVTW90RTlKdXQ5Q1ZFMG15aUNrTDVvTjg2dWhnSk9TZGZN?oc=5",
-      "pub_date": 1793704332.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+      "headline": "Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEFEZlhWLURyQ0pldFJJVVdzUjZ4ZV9RZE5ERlNJcjZoRjEyWTZNN2NVSmtDVkRmal81ejRNQ1pWLWFHNHAwQ3NkYmJ5bmViM0pXM3dOTHQ5SkJWRWgtUUV6X2xMdVZha1E2WWdpdlU0QUJNckI1SHRxMGlVUHZFZjMwWDZSby1reEpiVG5sOF91RDRJUHpvVmR1RWlEQnVZdmxONU50UVFLaV92RWVRMlhn?oc=5",
+      "pub_date": 1793634202.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/mercado-bitcoin-says-it-will-absorb-40-million-loss-from-hack",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin steadies at $76,900 as ETFs lose $399 million and Binance outflows hit $4.7 billion",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLXI5UGNpbURfSFpPbDYtTDN4UGU2R3BkbU00V2huUEJPdjhwWTY4Y3FOaW5HMmpMa1ZnakR2N05WcUR2YjVobi0tVkdwZU9qVHNZaTlFTXdZVWVHamYyblkxdjZtRDVxZElZcGhBWVBDSkNhTm4yOEhsSTY5T2dlV0hOT1REYkhrV0pKMzVWaGVacHVsRkt5eUhnbnVBRzdWbmkyTEFLZmJfbDg2aGZreHB2OWExZkpycmwyWVBKNjI2V2FFQU5GLVNNc1M1ZUIwQzBB?oc=5",
-      "pub_date": 1793705280.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+      "headline": "Tether Says It Holds 150,000 Bitcoin, 50,000 More Than Its Reserve Report Showed. What Does That Mean for BTC?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZXBMUklsdmNFZXpBUkZ4Q0w5MUkwWEpLNWJiZS16TTVtWWE2dS1YbnhxUi15cmh1bk9MNFIzcWxMSHZ3S0xJcGdQZ216ZFJnX2RvQnRRUk9vZkRGemVBYldyUFdpTmc0akJSRnZFVEVpMUd1NDBjZTZvTVpNdmhadTJ6UU1wT3FxbHJZTlduWHJTaGtU?oc=5",
+      "pub_date": 1793728071.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tether-says-holds-150-000-174751694.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f25815847a79758662c399b1ff7a449d424e97cc95c09a2845bace03fa1bb10e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fed23e0e70e7e2cca573ffe1a6e18ee21.jpg",
+      "description": "Tether's CEO just revealed a Bitcoin stockpile far larger than any official reserve report has shown, raising questions about what the stablecoin giant is actually building and whether its public disclosures tell the whole story."
+    },
+    {
+      "headline": "Dollar falls ahead of US midterms as oil plummets",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
+      "pub_date": 1793581020.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/dollar-rangebound-ahead-us-midterms-bitcoin-reels-crypto-heist-2026-11-02/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Dollar dithers ahead of US midterms; bitcoin under pressure from crypto heist",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUkJidFFyWDhWUlZNMS05dUJuQjRUT3ZieWhaWV9SdGVUQTBELUhyVXFVeHRlMFZaRXBnRlJvUTU5eEFDX0VRXzAzZ0NUQnhnai1iTTd0b0h0NFg3Und0YWwyLVVwSy1MMlN5N0lYa2UyMzJMMzN0aGowUGQyUVdfcXd2UTM4VnFSNGR3RUdwbE8yME10QTRSVnVXUFMtQU5GdG9F?oc=5",
+      "pub_date": 1793597880.0,
+      "article_url": "https://finance.yahoo.com/markets/currencies/articles/dollar-dithers-ahead-us-midterms-053832846.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2eefe72696fa6cdff8c68ed755ab609d943d887274fa2dd9e0710932471f61f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4b8ac08fb71b998b2da64b8d2daf686f.jpg",
+      "description": "By Chuck Mikolajczak NEW YORK, Nov 2 (Reuters) - The dollar eased on Monday as oil prices plunged and Treasury yields retreated ahead of a week full of catalysts, including the US midterm elections, a"
     },
     {
       "headline": "The Dollar Is Reasserting Itself as the King of Global Finance",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2J1Zl8yM2ZTZ1BnRGZ4NWxBdktDVjBPLWV0SGFKTk13NGkwblFtaXE5YnJKWEYtbW1NdGxMZGV3LXBJajI1REJpZnBCLWdibkNBOW96UTUzYkFrbXpSQkJGOHlUcHU0UElsLTBmd1RQeGdHNGFRN3pnMDFvcHV4VElXZ2V4QUZjWlpXTE92UTV6VkNxSnpvRmttMlZIZVFfSW8tVTVTazFaNGowZVBJNHFab2w?oc=5",
       "pub_date": 1793700025.0,
@@ -75,36 +75,36 @@
       "description": null
     },
     {
-      "headline": "Michael Saylor keeps buying bitcoin. Here's how Strategy funds it",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlE5WEJkRXZDNTZjOWFRZHhiRUlCUjJnaEU3NmpodmM3bkxPVFV2bW81TTZERkFBYWhpci1tcENQc2NfNjgwcEV5MmZSQzc0X2kzMHBOeFcyLWxzQWU1Q2pqam04cXNjZ1Vua0dkNktNSlczTmV2M01rUTZzZUhaV2JwY1B0QVppcmNCQUZNZVZqa3BlbW05dWd0VGx0d25LYmJKTVliUGNoT1dOblZV?oc=5",
-      "pub_date": 1793638800.0,
-      "article_url": "https://finance.yahoo.com/video/michael-saylor-keeps-buying-bitcoin-heres-how-strategy-funds-it-191522864.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d0b679cf4d4b186aaa725aa92096a655e60eab53aaf7c151a4afd61e89e3227b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fd42b63f4-9c35-4560-8e39-68c74d18a83e",
-      "description": "Scott Melker breaks down Michael Saylor's and Strategy's (MSTR) weekly purchase of bitcoin (BTC-USD) and its preferred stock, STRC (STRC), as the company continues its aggressive accumulation strategy.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
+      "headline": "Tristan Thompson Boards Jason Zada\u2019s Bitcoin Creator Movie \u2018Satoshi\u2019 as Producer (EXCLUSIVE)",
+      "source": "Variety",
+      "source_url": "https://variety.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGo2X3RBdWluekREWjJfVzRQZ0lPWWwzODFzMTZBX2VJSXIzNXNLWXFoNHBlRDRtT0NDS29aY0dJSmxuS0pzX19CT2x3SGcxcEdyRDVTUlhBWnRodEFnRHhtdVM2M0xtT0wyUlBhS0tBdVZPa0x3ZzFOeGhSSnBoWTlsaGNZei1DZ0owc2dOSlRsTUxsOHk4cXJDSEgzQm5oOVZ3NGtzVQ?oc=5",
+      "pub_date": 1793719440.0,
+      "article_url": "https://variety.com/2026/film/global/tristan-thompson-bitcoin-creator-movie-satoshi-producer-1236938246/",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Charity-Day-2025-Hosted-by-Cantor-Fitzgerald-Relief-Fund-at-BGC-Group-1000.jpg?w=1000&h=563&crop=1",
+      "description": "Tristan Thompson has boarded 'Satoshi,' a new film about bitcoin\u2019s pseudonymous creator, to be directed by Jason Zada and shot in Saudi Arabia."
     },
     {
-      "headline": "Strategy Makes Its Largest Bitcoin Purchase Since September, Keeps Buying Back More STRC",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeEZ0SFBPSThLT1VWWUFUci12VnNVN0h2YzRvMWloVHcxd2hIZVNKVW15Y3pFY0NyLS1KT096azd1ZkNsbDdHNGNnMUtDTmNNN1cyNkpKaHByOEdEN1JEMWdtQlVkb1BmX09pVHQyZUR2ME0wTTEya2V4WFdLODh3bzNkc25fS3BMTjNRVVhMQUVSSDNIMnBtSDNuOXg2QjFrUnUyMkxVN3ZsVHFOZGNVZExFMEFYdHZ3SmJVM2NnZ25fMzJ0UGxMSHl3NW02ODIyUE5aNTJjZ2s2dk9WdGxoVkNR?oc=5",
-      "pub_date": 1793637636.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:d0afbfbcd094b:0-strategy-makes-its-largest-bitcoin-purchase-since-september-keeps-buying-back-more-strc/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Strategy (MSTR) shares edged higher on Monday morning, as the company reported its largest weekly Bitcoin (BTC) purchase since late September.Strategy said it purchased 811 Bitcoin for about $65.5 million over the past week, according to a filing with the U.S. Securities and Exchange Commission (SE\u2026"
+      "headline": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRTZVNFRwZUdXWEF3Y3ZlVC1iTnZlZF9RclI5eWlDcnh0WlQ0eUNtT2ZhdXY0Wmlabm1xQ3VCaXdJRGFjN1BvM1UyQ2xfOEg5aktNbUtuTEh2SzBCSGxPRXgzQVhaSVhoaWNtQmtCMWR6SDRvdVY0T3VzOExldU1sUm81RUlzSzJGWURWVDEzaUNRZ2s0Z2RZNzVieFlLRGNydDRCUVlfVjYzeG1fMkxYU0JsNHNIUllaX1BscmpUQkxQdGl5MjRWUnFLdEt1T3hwcy1mc0ZEME8tZllhUDJwU3AtaHo0Zw?oc=5",
+      "pub_date": 1793655450.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Strategy's Michael Saylor Blames These 3 Factors for Bitcoin's Recent Sluggish Performance. The Most Important Is Treasury Yields.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMU5CS196cnBFOThNOENDR292bmtueUxqOEZrY1p2RXBibEhoMGhlS1djRXNPTDdfeDF3UTVFUUJUMjlWd3BIX3lzTk9HZ21CS2cwcFBuQlhuZXU0ZzZKaVI3OUxrTVpyS3FNYi1rVTZVU1JBT3otYXhiNVRoMzBGYmp3RlJWQVZ4aFdCUGVtU2NBeEduR2k4dA?oc=5",
-      "pub_date": 1793617200.0,
-      "article_url": "https://www.fool.com/investing/2026/11/02/strategys-michael-saylor-blames-these-3-factors-fo/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892054%2Fbtcmstr.jpg&w=1200&op=resize",
-      "description": "When safe investments yield more, riskier investments aren't as attractive."
+      "headline": "Bitcoin\u2019s Resilience After Binance Hack Masks Market Jitters",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON015ekNBYXdIZHd2dExpZHUxWW9VcTAyWDFjREtEWWRHcG5STzV5MVdkdjRqdVIyT01jak9Cek1vVE1Rb2w2QW4ydzRYak51X1J5anRfaEh3enVhVGUyZFR4emgySTBhUFJsWG84TGdlVlptanlwckdmbk9aR2cyYjlsRHBQYVRFdG1ENEFUdG1YQ3daZkxJRDB0WnNTQmpfa0ZXWlRQNTlnSGI4dmtCOA?oc=5",
+      "pub_date": 1793656424.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/bitcoin-s-resilience-after-binance-hack-masks-market-jitters",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-03T11:40:26.358260+00:00"
+  "fetched_at": "2026-11-03T19:09:56.696685+00:00"
 }

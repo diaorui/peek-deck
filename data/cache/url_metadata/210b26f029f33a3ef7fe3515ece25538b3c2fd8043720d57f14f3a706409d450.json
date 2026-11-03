@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-03T19:09:38.894114+00:00",
+  "data": {
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "title": "[SEVERE] Desktop auto-installs Codex/Claude plugins; installer attempts to trust its own startup hook \u00b7 Issue #14370 \u00b7 postmanlabs/postman-app-support",
+    "description": "Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u...",
+    "image": "https://opengraph.githubassets.com/f135ceaca32274e50ff8ad285f7880eb799d408f5545383e6d90bc2d9b43b73e/postmanlabs/postman-app-support/issues/14370",
+    "favicon": "https://github.githubassets.com/favicons/favicon.png",
+    "site_name": "GitHub",
+    "author": null,
+    "keywords": null
+  }
+}
