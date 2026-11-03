@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-03T11:40:28.664685+00:00'
+updated: '2026-11-03T19:10:17.447336+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 03, 2026 at 11:40 UTC  
+**Last Updated:** November 03, 2026 at 19:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I just found these microcontrollers in some boxes the city was supposed to take due to a shop filing for bankruptcy, how much would ALL these be around?
 
-14h ago
+22h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’m building Sesame robot but modified main frame to hold 2x 18650 cels and ch
 
 I built a robot arm that hands me tools when I ask! "Wiggle, pass me the screwdriver" → it finds it, picks it up and drops it right into my hand. No training. Just Meta's Muse Spark + SAM 3.1 on a $250 robot arm. Built for the Meta AI hackathon Check it on X and engage
 
-17h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ I built a robot arm that hands me tools when I ask! "Wiggle, pass me the screwdr
 
 This engine runs in a browser. It isnt SLAM, simulation always knows platform's position. Just the map, the route, and the replanning. Appreciate feedback.
 
-23h ago
+1d ago
 
 ---
 
@@ -76,7 +76,7 @@ How closely can a robot replicate the way humans move their mouths when speaking
 
 One NOSH project uses computer vision to detect possible collisions while a masonry robot helps a worker position concrete blocks. The other uses aerial video to identify workers, equipment and openings that could pose a fall hazard. Both projects deal with visibility on active construction sites. Dust can obscure sensors, lighting changes during a shift, and equipment or building materials can block a camera’s view. For mobile robots, uneven ground and changes to temporary access routes also affect navigation. The NIOSH bulletin identifies several things to track during deployment, including sensor faults, localization failures and how often someone takes over manual control. Repeated takeovers can help identify conditions the robot struggles with. The article also distinguishes between using a camera to flag a possible hazard for review and relying on it to stop a machine before someone gets hurt.
 
-🔗 [Automate](https://automate.org/robotics/industry-insights/construction-robots-are-getting-smarter-the-jobsite-is-still-their-biggest-safety-challenge/boa) • 16h ago
+🔗 [Automate](https://automate.org/robotics/industry-insights/construction-robots-are-getting-smarter-the-jobsite-is-still-their-biggest-safety-challenge/boa) • 23h ago
 
 ---
 
@@ -84,7 +84,7 @@ One NOSH project uses computer vision to detect possible collisions while a maso
 
 Hi everyone, I’m Nick. For the past couple of months I’ve been building Robocensus, a directory of every walking robot I can track down — humanoids, quadrupeds, bipeds. 74 so far, everything from Unitree and Tesla down to a $399 open-source robot duck. It logs their specs, prices and availability, and it keeps itself up to date instead of rotting the way these lists usually do. In case it’s useful to anyone here — It’s independent, and the data is free. No manufacturer affiliation, no sponsored listings, no paid placement, nothing for sale. Makers can send a press image or flag a correction, but they can’t buy their way up the list or bury anything. That’s the whole point of calling it a census. The current data is machine-readable JSON under CC BY — no key, no signup: https://robocensus.com/data. Take it, build on it. (I’m holding the change history back for now.) It won’t guess — if a spec isn’t stated on the maker’s own page, the field stays blank, never estimated. That turned out to matter more than I expected. The comparison view kept surfacing numbers that were quietly wrong, and I ended up running six separate audits to clean it up. They caught running speeds logged as walking speeds, “up to X” maximums recorded as if they were exact, and one robot whose headline top speed was actually a world-record run rather than a spec. Two robots lost their numbers entirely because the maker had never actually published them. Every spec now carries its own context: a speed is tagged walking/running/rolling, a bounded figure marked as a max or min, a price shown with its date and currency. So a comparison is either apples-to-apples or it shows you nothing. As for how it stays current: scheduled agents re-fetch each robot’s official page on a rolling cycle, diff it against the last snapshot, and open a pull request for anything that’s changed. None of it hits the live site until I’ve reviewed and merged it. The machines do the watching and the drafting; I’m still the last step, every time. I know “AI-maintained directory” is going to make some of you wince, so to be clear: this is the opposite of letting a model write straight to prod. Makers have started treating it as infrastructure, which I didn’t see coming. I’d been cold-emailing manufacturers to ask permission before putting up a press photo — until then the site just shows a placeholder glyph rather than borrow an image without a license. One founder, Petoi, replied the same day, cleared images for three of his robots, fixed a pricing error on his own site that the census had flagged, and later wrote back asking me to update a listing. Another maker got in touch to flag one of their products as discontinued and ask about featuring the next one. That’s about when it stopped feeling like a hobby. It’s early, and I’m sure you’ll spot robots I’ve missed or specs I’ve got wrong. Please tell me if you do — honestly that’s the most useful thing you can do right now. Happy to get into how any of it works. The site’s at https://robocensus.com.
 
-20h ago
+1d ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi everyone, I’m Nick. For the past couple of months I’ve been building Robo
 
 I search for an educational Project a small and easy to program robot for children, i would love a small humanoid for this. Something like PLEN2 or PLEN:bit looks like what i search for but i can't find any Instructions online and i cant access the plen site anymore. What happened to them? Arent they around anymore? Is there something else i could consider? Or a good alternative to PLEN? Ideally working with scratch Right now we use the Lego spike Essential and prime Sets and also have one of those new ai Sets. I also already looked into makeblock and will buy one of their Sets to check out.
 
-18h ago
+1d ago
 
 ---
 
@@ -100,7 +100,7 @@ I search for an educational Project a small and easy to program robot for childr
 
 The university i used to attended have been trying to engage the use of AI for working and learning, they’re teaching student how to prompt to ai for designing, implementing, debug the code without looking at the code anymore. PLC, HMI, SCADA, Embedded, IoT, ROS2 etc. All the code are done by ai with most students know almost nothing about how it works, their fundamental is almost none. Okay, it’s good that they are flowing along the trends of technology but i just think that fundamental still must not be skipped and i have met a lot of junior students that just copy and paste their answers from homework without even checking, they’re are graduating but more than 60% of the class don’t know arrays, python and cant write c++ code at all. In terms of math, they are also very weak, for a simple question like “If we have acceleration equation, how do you get velocity?” Or “what’s the integral of acceleration” and everyone just looks stunned. What would you guys do in order to guide them to the right direction? I want to see perspectives from experienced senior who is working right now as well. I’m a freshly graduated as well but in my time AI is still not that good so we still code ourself. Sorry if my grammar is terrible.
 
-1d ago
+2d ago
 
 ---
 
@@ -116,11 +116,49 @@ The university i used to attended have been trying to engage the use of AI for w
 
 ## Google News: "robotics"
 
+**[Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push](https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push)**
+
+Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...
+
+The Information • 3d ago
+
+---
+
+**[Top 10 robotics developments of October 2026](https://www.therobotreport.com/top-10-robotics-developments-october-2026/)**
+
+In October 2026, we celebrated the 20th anniversary of RoboBusiness and announced that the show will be rebranded to Robotics Summit & Expo West.
+
+The Robot Report • 1d ago
+
+---
+
+**[The only U.S. pure-play humanoid robotics stock begins trading this week](https://www.tradingview.com/news/seekingalpha:52490fbc2094b:0-the-only-u-s-pure-play-humanoid-robotics-stock-begins-trading-this-week/)**
+
+Shareholders of Churchill Capital Corp XI NASDAQ:CCXI approved the business combination with Agility Robotics, a leading humanoid robotics and physical AI company. Agility's gross capital raise in connection with the proposed business combination and related financings is expected to be approximate…
+
+TradingView • 7h ago
+
+---
+
+**[Video. Humanoid robots climb China’s Mount Tai in unusual challenge](https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge)**
+
+Video. China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path.
+
+Euronews.com • 1d ago
+
+---
+
 **[See inside Amazon’s robot warehouse](https://www.businessinsider.com/amazon-warehouse-where-people-robots-work-together-2026-10)**
 
 Amazon's warehouse in Tracy, California, uses robots like Hercules, Pegasus, and Cardinal to enhance efficiency, but human workers remain crucial.
 
-Business Insider • 1h ago
+Business Insider • 9h ago
+
+---
+
+**[Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes](https://www.forbes.com/sites/tarungalagali/2026/11/02/five-lessons-from-the-robotics-founders-who-budget-for-their-own-mistakes/)**
+
+Forbes • 20h ago
 
 ---
 
@@ -130,63 +168,21 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes](https://www.forbes.com/sites/tarungalagali/2026/11/02/five-lessons-from-the-robotics-founders-who-budget-for-their-own-mistakes/)**
+**[Apple Still Thinks You Want Robots to Fold Your Clothes](https://gizmodo.com/apple-still-thinks-you-want-robots-to-fold-your-clothes-2000833872)**
 
-Forbes • 13h ago
-
----
-
-**[West Michigan robotics company opens $15.5M South Carolina facility](https://www.mlive.com/news/grand-rapids/2026/11/west-michigan-robotics-company-opens-155m-south-carolina-facility.html)**
-
-MLive.com • 20h ago
+Gizmodo • 4h ago
 
 ---
 
-**[Why this German robotics founder rejects military contracts](https://www.dw.com/en/why-this-german-robotics-founder-rejects-military-contracts/video-79810916)**
+**[Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz to Scale Frontier Robotics Model Training, Manufacturing and Deployment](https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-%2475-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment)**
 
-As governments and investors pour into defense technologies, David Reger, CEO of Neura Robotics, is betting on intelligent robots. He explains why Europe's future hinges on industrial productivity.
-
-DW.com • 2h ago
+Business Wire • 1d ago
 
 ---
 
-**[Video. Humanoid robots climb China’s Mount Tai in unusual challenge](https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge)**
+**[Robotic lamp maker Syncere closes $11M led by A16z to deliver its pre-orders](https://www.axios.com/pro/climate-deals/2026/11/03/syncere-lume-a16z-pre-seed)**
 
-Video. China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path.
-
-Euronews.com • 22h ago
-
----
-
-**[DroneDog Strengthens Stadium Security: NFL Robotic Technology](https://sports.yahoo.com/articles/dronedog-strengthens-stadium-security-nfl-032520533.html)**
-
-Stadium security has become an area of concern across the NFL. Can stadium venues ever be too safe? Asylon Robotics´DroneDog Strengthens Stadium Security, and the difference is noticeable. These ground robots expand security visibility, support consistent overnight patrols and help stadium teams operate more efficiently. As major sports and entertainment venues face increasingly complex security …
-
-Yahoo Sports • 8h ago
-
----
-
-**[AGIBOT puts six humanoid robots in 24-hour convenience store challenge](https://interestingengineering.com/ai-robotics/agibot-humanoid-robots-in-convenience-store)**
-
-AGIBOT puts six G2 humanoid robots through a 24-hour convenience-store challenge to test everyday retail tasks.
-
-Interesting Engineering • 1h ago
-
----
-
-**[Robotics startup Tutor Intelligence nabs $75M investment](https://siliconangle.com/2026/11/02/robotics-startup-tutor-intelligence-nabs-75m-investment/)**
-
-Robotics startup Tutor Intelligence nabs $75M investment - SiliconANGLE
-
-SiliconANGLE • 10h ago
-
----
-
-**[Top 10 robotics developments of October 2026](https://www.therobotreport.com/top-10-robotics-developments-october-2026/)**
-
-In October 2026, we celebrated the 20th anniversary of RoboBusiness and announced that the show will be rebranded to Robotics Summit & Expo West.
-
-The Robot Report • 17h ago
+Axios • 6h ago
 
 ---
 
@@ -200,17 +196,7 @@ Meet Blue — this little robot is showing off some seriously impressive technol
 
 📺 VisionX Lab
 
-👁️ 299K • 👍 9K • 💬 330 • ⏱️ 0:58 • 5d ago
-
----
-
-**[THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN’T EXIST #nvidia #robotics #ai](https://www.youtube.com/watch?v=Hls4e9YcbTU)**
-
-THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN'T EXIST #nvidia #robotics #ai.
-
-📺 AUREX717
-
-👁️ 14K • 👍 804 • 💬 12 • ⏱️ 0:56 • 13h ago
+👁️ 302K • 👍 9K • 💬 335 • ⏱️ 0:58 • 6d ago
 
 ---
 
@@ -220,7 +206,7 @@ NewsNation's Nancy Loo reports on the growing number of robots used at grocery s
 
 📺 NewsNation
 
-👁️ 77K • 👍 552 • 💬 219 • ⏱️ 5:15 • 5d ago
+👁️ 78K • 👍 555 • 💬 227 • ⏱️ 5:15 • 5d ago
 
 ---
 
@@ -230,17 +216,27 @@ KingKong Technology built Jumper, an open-source crab-shaped robot showcased at 
 
 📺 The Manav Podcast
 
-👁️ 12K • 👍 313 • ⏱️ 0:39 • 5d ago
+👁️ 12K • 👍 317 • ⏱️ 0:39 • 5d ago
 
 ---
 
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+**[THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN’T EXIST #nvidia #robotics #ai](https://www.youtube.com/watch?v=Hls4e9YcbTU)**
 
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN'T EXIST #nvidia #robotics #ai.
 
-📺 MostAmazingTop10
+📺 AUREX717
 
-👁️ 125K • 👍 770 • 💬 103 • ⏱️ 9:12 • 19h ago
+👁️ 28K • 👍 1K • 💬 19 • ⏱️ 0:56 • 20h ago
+
+---
+
+**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
+
+For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
+
+📺 Eric Cracks China
+
+👁️ 19K • 👍 1K • 💬 53 • ⏱️ 2:58 • 18h ago
 
 ---
 
@@ -250,7 +246,17 @@ OpenAI is officially building its first humanoid robot, and Sam Altman has confi
 
 📺 MACHINEKIND
 
-👁️ 64K • 👍 733 • 💬 56 • ⏱️ 13:33 • 6d ago
+👁️ 66K • 👍 740 • 💬 56 • ⏱️ 13:33 • 6d ago
+
+---
+
+**[MANNI Gets The BIG PRIZE! Ultimate Shell Gameplay [War Robots]](https://www.youtube.com/watch?v=T3L62RanDJM)**
+
+War Robots Gameplay & Account Development video: Manni gets the big prize: Ultimate Shell - Let's see how good it is going to ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 343 • 💬 53 • ⏱️ 22:21 • 6h ago
 
 ---
 
@@ -260,37 +266,27 @@ Time to go home The AgiBot A3 humanoid robot squats down, sits and lies back int
 
 📺 KhanFlicks
 
-👁️ 55K • 👍 497 • 💬 93 • ⏱️ 0:22 • 4d ago
+👁️ 59K • 👍 516 • 💬 96 • ⏱️ 0:22 • 5d ago
 
 ---
 
-**[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
 
-Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
 
-📺 Jordan Blake
+📺 MostAmazingTop10
 
-👁️ 38K • 👍 960 • 💬 9 • ⏱️ 1:00 • 5d ago
-
----
-
-**[The law isn&#39;t ready for robots | DW News](https://www.youtube.com/watch?v=PBtpOeNrHZc)**
-
-A robot allegedly harassed a 16-year-old girl on a German street, but you can't put a machine on trial. So who's responsible: the ...
-
-📺 DW News
-
-👁️ 26K • 👍 1K • 💬 83 • ⏱️ 1:46 • 2d ago
+👁️ 127K • 👍 808 • 💬 103 • ⏱️ 9:12 • 1d ago
 
 ---
 
-**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
+**[Robot STABS fake hand in ALARMING AI experiment #shorts](https://www.youtube.com/watch?v=G9MKmCk4vUg)**
 
-Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
+An AI robot was hacked to stab a fake human hand in an alarming university experiment demonstrating how hidden commands ...
 
-📺 History Seeker
+📺 Fox News
 
-👁️ 85K • 👍 2K • 💬 54 • ⏱️ 0:09 • 3d ago
+👁️ 109K • 👍 881 • 💬 201 • ⏱️ 0:24 • 5d ago
 
 ---
 
