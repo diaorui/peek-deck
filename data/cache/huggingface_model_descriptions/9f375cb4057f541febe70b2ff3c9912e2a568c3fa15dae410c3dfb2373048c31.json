@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-11-03T11:40:27.686749+00:00",
+  "data": "LFM3-Omni-2B is a 2.2B parameter omni-modal model capable of understanding text, images, video, and audio, and responding in text and speech. It's designed for on-device use, replacing separate ASR, vision-language, LLM, and TTS models for tasks like voice-based image querying or analyzing video with sound.",
+  "model_id": "LiquidAI/LFM3-Omni-2B"
+}
