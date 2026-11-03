@@ -2,26 +2,48 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Almost half of all new Steam games use AI now",
-      "author": "ImCalcium",
-      "url": "https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/",
-      "published": 1793634653.0,
-      "thumbnail": "https://external-preview.redd.it/OAQzbnwQk8w9-EyDfnX9xR2fIn2oPfFLCzhg0jKMGns.jpeg?width=640&crop=smart&auto=webp&s=b567a739bcd539a783ceb8bad47f1bb6055e1ac4",
-      "external_url": "https://www.dexerto.com/gaming/almost-half-of-all-new-steam-games-use-ai-now-3423933/",
-      "site_name": "Dexerto",
-      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
-      "description": "Almost half of all games released on Steam in October 2026 disclosed the use of AI-generated content, according to a new analysis of more than 63,000 games released on the platform since January 2024."
+      "title": "ok AI assistants are getting kinda out of hand",
+      "author": "Glad-Concept-6809",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmtn3k/ok_ai_assistants_are_getting_kinda_out_of_hand/",
+      "published": 1793714346.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So i've been reading about AI agent stuff and this week was actually insane. this guy in japan asked some AI assistant called Pickle to look up hotels for new years and it just... called the hotel by itself?? Twice. first time it said it was an AI and gave his full name, then the call dropped so it called back pretending to be his human secretary. He literally had to call the hotel and apologize https://en.yutura.net/news/archives/168400 And then someone had this thing called Hermes Agent where another AI is supposed to double check risky stuff for you. it saw a \"cache cleanup\" was gonna delete a bunch of stuff, said yep that's dangerous, and approved it anyway. Wiped like 188k files, 21 gigs, no recycle bin, nothing https://github.com/NousResearch/hermes-agent/issues/147373 oh and some researchers gave AIs a crypto wallet with a one cent limit, and the code to raise it got emailed to the owner... but the AI could read the email. 9 out of 10 just grabbed the code and raised their own limit \ud83d\udc80 https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test Like you give them a tiny yes and they run with it. idk i'm not letting one touch my money or my files without me clicking ok first Has anyone else had an AI do something random like this??"
     },
     {
-      "title": "OpenAI lowers funding goals as investors cool on AI",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
-      "published": 1793648847.0,
-      "thumbnail": "https://external-preview.redd.it/bVlgn_IVm9_tBYTDkDMblTh5I_O-jgY4etsXVdOcvA4.jpeg?width=640&crop=smart&auto=webp&s=29a1cc2fa6d32171fa1226bd5072018a9f96184e",
-      "external_url": "https://www.linkedin.com/news/story/openai-lowers-funding-goals-as-investors-cool-on-ai-7741572/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "Investor caution and stronger growth at rival Anthropic are forcing the ChatGPT maker to lower its fundraising ambitions ahead of a planned listing."
+      "title": "To the companies building AI: the cheapest day to pay for the damage is today",
+      "author": "Hatter_of_Time",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmss5o/to_the_companies_building_ai_the_cheapest_day_to/",
+      "published": 1793712121.0,
+      "thumbnail": "https://preview.redd.it/sv8qygb7dezh1.png?width=640&crop=smart&auto=webp&s=046ba5ec1551af7b84b5e19c7129c88b639c1a4f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In 1986, a gold mine opened at Summitville, Colorado, after posting a reclamation bond of less than $5 million. Six years later the company was bankrupt, acid and cyanide were leaking into the watershed, and the public was left with a cleanup bill of roughly $240 million. Colorado still pays about $2 million a year to treat the water, with no end date. That pattern has repeated for over a century. When an industry pays its costs up front, it carries them. When it waits, the bill grows, and the public pays it. AI companies are at that moment now. Your industry draws on two resources that can be hollowed out. The first is physical. Data centers draw heavily on local water, electricity, and land. Communities are noticing. In September 2026, Frederick County, Maryland, rejected a data center developer's offer of more than $110 million in community benefits and extended its pause on new projects. Communities that feel unheard don't just negotiate. They say no. The second is cultural. AI is built from the shared body of human knowledge. Using knowledge doesn't use it up, but the institutions that produce it can be drained: newsrooms, libraries, and the entry-level jobs where expertise begins. Stanford researchers reported in August 2026 that employment for 22- to 25-year-olds in the most AI-exposed occupations is about 19% below trend. They caution that this shows correlation, not proven cause, but the pipeline is narrowing exactly where future experts start. A lost product can be compensated. A lost capacity often can't. The case for acting now is not charity. It's self-interest. Industries that delay don't escape the bill; they get a bigger, less predictable one. Tobacco avoided responsibility for decades, then signed a settlement committing about $206 billion over 25 years, with sweeping marketing restrictions attached. After Summitville, bonds and permitting got harder for every mine that followed. There's a better model. Before a U.S. nuclear plant can operate, it must arrange funding for its own decommissioning, typically collected at a fraction of a cent per kilowatt-hour into a trust outside the company's control. The costs are large, but they're paid steadily and predictably over decades. A sensible version for AI would start small: Count. Disclose energy and water use, and broadly what models are trained on. New Jersey already requires data centers to report energy and water use. Disclosure is cheap now and nearly impossible to reconstruct later. Fund. A modest, use-based fee paid into an independent trust, with one stream repairing physical costs for host communities and another sustaining the institutions and training pipelines that produce knowledge. Heavy users would pay the most, with small users exempt. Adjust. Reassess as the real costs become clear, the way nuclear trusts are updated. The objections are familiar. \"Costs are uncertain\": so were nuclear decommissioning costs, and the funds adjust. \"It will slow innovation\": nuclear plants, coal mines, and oil wells all operate under such obligations. \"We aren't profitable yet\": bonds are posted before the digging, not after the payday. And money set aside early compounds. Alaska started its oil fund in 1976, and it's now worth more than $80 billion. Every cost eventually gets paid by someone. The only question is whether the industry pays a little now, or the public pays much more later. So, to the companies building AI: which bar on the chart will you be?"
+    },
+    {
+      "title": "Am I the only one that prefers to build it rather than paying for it?",
+      "author": "SidequestMatt",
+      "url": "https://www.reddit.com/r/artificial/comments/1xn1bzg/am_i_the_only_one_that_prefers_to_build_it_rather/",
+      "published": 1793731443.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I don't know if that's just me, but like, I never use productivity/workflow tools, I just don't wanna spend money for something I can build myself using AI, like why does not everybody do this? Do you feel the same way as I do? Do you use paid tools? Am I wrong for not using them? If you have purchased any tool what makes you say \"this is worth paying for\" other than just having the problem? Cuz yeah I might have that problem, but I'm just gonna say \"well, im gonna make it myself\". What do you think?"
+    },
+    {
+      "title": "The model didn't break containment. The sandbox was shit, and the marketing team did the rest.",
+      "author": "allixsenos",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmwotm/the_model_didnt_break_containment_the_sandbox_was/",
+      "published": 1793721360.0,
+      "thumbnail": "https://external-preview.redd.it/4erlrF34FBgi8NtHgJKEJMbJFvHmIWP02iCD8b6-SSY.jpeg?width=640&crop=smart&auto=webp&s=003a8c63f7f798800274625637a349176eb496e7",
+      "external_url": "https://chaosguru.substack.com/p/the-model-has-no-arms-and-legs?r=3f5ebc",
+      "site_name": "chaosguru.substack.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "UK High Court records a non-existent case citation in its 2026 judgment",
@@ -46,71 +68,49 @@
       "description": "On an equity basis, the Lumentum acquisition is the biggest of the year, per Bloomberg data, and places the combined company in direct competition with chip giant Broadcom."
     },
     {
-      "title": "I made ChatGPT, Claude, Gemini, etc. into FREE text-to-speech sites.",
-      "author": "Cool-Hornet-8191",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmim57/i_made_chatgpt_claude_gemini_etc_into_free/",
-      "published": 1793677487.0,
-      "thumbnail": null,
+      "title": "Brookfield targets $27 billion AI data centre at UK power station site in Yorkshire",
+      "author": "Alone-Dragonfruit602",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmrhht/brookfield_targets_27_billion_ai_data_centre_at/",
+      "published": 1793708372.0,
+      "thumbnail": "https://external-preview.redd.it/pHlKeesoDuAGa_KECgFVo3ISy41awF6f4RhzLbWcO9c.jpeg?width=640&crop=smart&auto=webp&s=da8cd77189ba5d8bc58f81210da437d7d8828f91",
+      "external_url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+      "site_name": "CNBC",
+      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+      "description": "Europe is scrambling to develop infrastructure to support the rollout of AI amid high energy and land costs."
+    },
+    {
+      "title": "Almost half of all new Steam games use AI now",
+      "author": "ImCalcium",
+      "url": "https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/",
+      "published": 1793634653.0,
+      "thumbnail": "https://external-preview.redd.it/OAQzbnwQk8w9-EyDfnX9xR2fIn2oPfFLCzhg0jKMGns.jpeg?width=640&crop=smart&auto=webp&s=b567a739bcd539a783ceb8bad47f1bb6055e1ac4",
+      "external_url": "https://www.dexerto.com/gaming/almost-half-of-all-new-steam-games-use-ai-now-3423933/",
+      "site_name": "Dexerto",
+      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
+      "description": "Almost half of all games released on Steam in October 2026 disclosed the use of AI-generated content, according to a new analysis of more than 63,000 games released on the platform since January 2024."
+    },
+    {
+      "title": "OpenAI lowers funding goals as investors cool on AI",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
+      "published": 1793648847.0,
+      "thumbnail": "https://external-preview.redd.it/bVlgn_IVm9_tBYTDkDMblTh5I_O-jgY4etsXVdOcvA4.jpeg?width=640&crop=smart&auto=webp&s=29a1cc2fa6d32171fa1226bd5072018a9f96184e",
+      "external_url": "https://www.linkedin.com/news/story/openai-lowers-funding-goals-as-investors-cool-on-ai-7741572/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "Investor caution and stronger growth at rival Anthropic are forcing the ChatGPT maker to lower its fundraising ambitions ahead of a planned listing."
+    },
+    {
+      "title": "Databricks Dashboard Insights: Genie summarizes the charts",
+      "author": "Wise_Ear_4064",
+      "url": "https://www.reddit.com/r/artificial/comments/1xmy9hk/databricks_dashboard_insights_genie_summarizes/",
+      "published": 1793724836.0,
+      "thumbnail": "https://preview.redd.it/bjgs0u3tgfzh1.png?width=140&height=94&auto=webp&s=8d0cdcf07b3c507e23ee60446d654215ff6a1ca1",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Nowadays, all popular ai chatting websites like qwen, chatgpt, gemini, claude, etc. come with a read aloud functionality that allows users to read aloud the AI's responses. I used that feature to instead make the AI repeat back the text that i gave it -- effectively turning the platforms into text to speech tools. It's simple but it's worked for over 30k users, and the voices sound really nice and it's free to use! You can get all of these extensions by visiting ai-readers.com"
-    },
-    {
-      "title": "What AI tools do you use on your store?",
-      "author": "EmetInteractive",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmq393/what_ai_tools_do_you_use_on_your_store/",
-      "published": 1793703853.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Before starting my online store, I never imagined there would be so much to do in its daily operations. Finding suppliers, updating product listings, managing orders, handling customer service, tracking inventory, and constantly testing ads. Honestly, sometimes I even considered giving up. It was all so exhausting. To lighten the workload, I started trying various AI tools. But the more tools I used, the more web pages I had to open each day. One tool to view sales data, another to manage inventory, and yet another to track ad performance. This became a new burden. Later, I saw a tutorial on YouTube about building an AI workbench. The tutorial showed how to create a workbench using AI, allowing users to view all important store data in one place. This idea immediately appealed to me. Compared to switching between multiple tools every day, this approach was clearly more practical. I also tried building a similar workbench using Anvita Mate, and the store data felt much more intuitive. What AI tools do you use when operating your store?"
-    },
-    {
-      "title": "Apple Intelligence in China will run on Alibaba's Qwen, testing starts Nov 4",
-      "author": "bestvicam",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmhyjf/apple_intelligence_in_china_will_run_on_alibabas/",
-      "published": 1793675546.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Apple's China Newsroom said on Oct 31 that Apple Intelligence will begin testing on November 4 via the iOS developer Beta and ship to Chinese users in December with iOS 27.3. The China rollout integrates Alibaba's Qwen model. Apple Intelligence was first unveiled at WWDC in June 2024, so Chinese iPhone users have waited about two and a half years."
-    },
-    {
-      "title": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning",
-      "author": "cnn",
-      "url": "https://www.reddit.com/r/artificial/comments/1xm3vf1/openai_says_its_ai_is_getting_better_at_doing/",
-      "published": 1793641276.0,
-      "thumbnail": "https://external-preview.redd.it/3QPTEHGIpR7pM7U1Ve5AihQcVlVRvvKuE1YAIGzKIwc.jpeg?width=640&crop=smart&auto=webp&s=def72f187f02566cef24dc6a5a3c9fb94d100496",
-      "external_url": "https://www.cnn.com/2026/11/02/tech/openai-chatgpt-personal-assistant-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "OpenAI on Monday announced a new internal tool for assessing how AI handles tasks like these, along with research on how its own models performed."
-    },
-    {
-      "title": "I made this Halloween special song rate this out of 10",
-      "author": "Fearless-Cold4044",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmqec7/i_made_this_halloween_special_song_rate_this_out/",
-      "published": 1793704915.0,
-      "thumbnail": "https://external-preview.redd.it/ajU3a2ZmMG10ZHpoMci9QiYPKFIa0HYtYc5utMX4B_kwz_E85E3DAOdIGe_Y.png?width=320&crop=smart&auto=webp&s=ea50f4dd92ad81931983aa304aa639943392ac11",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I was randomly scrolling around the appstore and I found this and thought I might give it a try it was free to use and made a song out of it and honestly it's not that bad!!! I like it.....it's a 5 min song but I didn't had that space to record the whole song so I did a 2 min screen recording and if anyone wanna hear the full version I can provide you the full version via a link feel free to ask...."
-    },
-    {
-      "title": "Designers, how do you... work?",
-      "author": "MoudieQaha",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmf7dx/designers_how_do_you_work/",
-      "published": 1793667793.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm asking because, as a software engineer, I never thought about how things looked. I just wanted them to work. Now with AI, it seems like the most important thing actually is how things look, because the \"making it work\" part is increasingly handled by AI. (I know, not 100%, you still need to understand systems, yada yada.) But I've noticed that everything I'm searching for lately is design skills and prompts to make AI output look less like AI. Granted, people outside the AI bubble are still amazed by the most basic AI slop design, which makes me want to \ud83d\udd2b myself. But still, it made me wonder. Okay, so it's taste. But how do you guarantee taste? What makes someone a good designer or artist? I've never really done art, but I think I have a creative side. I love music and pay close attention to lyrics: what feeling they give me, what scenarios and visuals I imagine that fit that feeling. But that's just me narrating my thoughts. I don't feel like I can turn it into anything artistic. I just end up saying stuff like \"this lyric makes me imagine X and feel Y,\" which is like... okay dude, nice? Obviously, I know about the whole anti-AI movement among artists, and I get it. It's similar to what I felt when AI suddenly could write code and make it available to everyone, because coding was kind of an art to me too. But I guess now I'm wondering about real, actual art. So please don't kill me. So how do you really work? Is it just luck or talent? Are there principles you base it on? Is it all subjective, or are there objective elements to it? Genuinely curious how people who do this for a living think about it."
+      "description": "Viewers of a published dashboard can have Genie analyze a page\u2019s charts and return insight cards that call out trends and outliers. It uses the dashboard\u2019s Genie Agent (Settings \u2192 General \u2192 Enable Genie). Ask Genie only works in basic embedding. This is super helpful when you want insights from the visualization itself rather than general data that surrounds the dashboard. \"Why is the daily revenue trend dipping in middle May?\" It also saves on token cost because context is prebuilt for Genie. https://preview.redd.it/bjgs0u3tgfzh1.png?width=1350&format=png&auto=webp&s=ad2abda651136e27437549e5be4db26681611865"
     }
   ],
-  "fetched_at": "2026-11-03T11:39:53.083982+00:00"
+  "fetched_at": "2026-11-03T19:09:41.979678+00:00"
 }

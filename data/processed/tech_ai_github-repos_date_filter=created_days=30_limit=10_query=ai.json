@@ -8,9 +8,9 @@
       "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
       "url": "https://github.com/Zagitta/gpu-unlock",
       "preview_image": "https://opengraph.githubassets.com/4d44381103a947606a6023253fd6286b34b60f7afa3a43f5ad7742736e3f6c41/Zagitta/gpu-unlock",
-      "stars": 15081,
-      "stars_display": "15.1k",
-      "forks": 1462,
+      "stars": 15449,
+      "stars_display": "15.4k",
+      "forks": 1512,
       "forks_display": "1.5k",
       "language": "C",
       "topics": [],
@@ -24,10 +24,10 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "preview_image": "https://opengraph.githubassets.com/2e19369f1c616da6622c8b971f339d5febe6ed41b9f04b0c64ca084a6de515b7/heydamir/unslop",
-      "stars": 6872,
-      "stars_display": "6.9k",
-      "forks": 350,
-      "forks_display": "350",
+      "stars": 7307,
+      "stars_display": "7.3k",
+      "forks": 371,
+      "forks_display": "371",
       "language": "JavaScript",
       "topics": [],
       "updated_at": "2026-11-01T16:46:10Z"
@@ -40,10 +40,10 @@
       "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "preview_image": "https://opengraph.githubassets.com/90ae0a75a3e9c38cd8d52a7d12f46bcd5561230371bacc791c758845c57ae397/rddmwmddr/android-ad-cleaner",
-      "stars": 6014,
-      "stars_display": "6.0k",
-      "forks": 544,
-      "forks_display": "544",
+      "stars": 6060,
+      "stars_display": "6.1k",
+      "forks": 550,
+      "forks_display": "550",
       "language": "Python",
       "topics": [
         "adb",
@@ -52,7 +52,7 @@
         "coloros",
         "debloat"
       ],
-      "updated_at": "2026-11-03T09:42:28Z"
+      "updated_at": "2026-11-03T17:48:31Z"
     },
     {
       "full_name": "wangzan101/Mika",
@@ -62,10 +62,10 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "preview_image": "https://opengraph.githubassets.com/4870ca74c240f7e90589b47bd38147c836923264feaea374f51fb823186477f9/wangzan101/Mika",
-      "stars": 5832,
-      "stars_display": "5.8k",
-      "forks": 1135,
-      "forks_display": "1.1k",
+      "stars": 6010,
+      "stars_display": "6.0k",
+      "forks": 1169,
+      "forks_display": "1.2k",
       "language": "Kotlin",
       "topics": [
         "accessibility",
@@ -74,7 +74,7 @@
         "automation",
         "jetpack-compose"
       ],
-      "updated_at": "2026-11-03T10:07:24Z"
+      "updated_at": "2026-11-03T18:00:52Z"
     },
     {
       "full_name": "anhao/ai-pose-gallery-zh",
@@ -84,9 +84,9 @@
       "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "preview_image": "https://opengraph.githubassets.com/7d409f4bfe0a07d447b000e33967985618a71724e92b313dc5901a0015f05c2e/anhao/ai-pose-gallery-zh",
-      "stars": 5714,
-      "stars_display": "5.7k",
-      "forks": 1459,
+      "stars": 5768,
+      "stars_display": "5.8k",
+      "forks": 1469,
       "forks_display": "1.5k",
       "language": "TypeScript",
       "topics": [
@@ -106,10 +106,10 @@
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "preview_image": "https://opengraph.githubassets.com/6b52771731dc5a2e478f00d501e5ca69d9dedf14a7b8f516b1d9796faa736ab1/onehumanbeing/esp32-iphone-agent",
-      "stars": 4275,
+      "stars": 4302,
       "stars_display": "4.3k",
-      "forks": 571,
-      "forks_display": "571",
+      "forks": 575,
+      "forks_display": "575",
       "language": "C",
       "topics": [
         "ai-agent",
@@ -118,7 +118,7 @@
         "computer-use",
         "esp32"
       ],
-      "updated_at": "2026-11-03T11:39:41Z"
+      "updated_at": "2026-11-03T18:50:36Z"
     },
     {
       "full_name": "Leonxlnx/earshot",
@@ -128,10 +128,10 @@
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "preview_image": "https://opengraph.githubassets.com/bfb72f0aa533890323d43000bbc580bf8f78bf6c276176428d4d82d88c37de83/Leonxlnx/earshot",
-      "stars": 3627,
-      "stars_display": "3.6k",
-      "forks": 226,
-      "forks_display": "226",
+      "stars": 3718,
+      "stars_display": "3.7k",
+      "forks": 236,
+      "forks_display": "236",
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -150,10 +150,10 @@
       "description": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "url": "https://github.com/modelflare-ai/AnyModelBot",
       "preview_image": "https://opengraph.githubassets.com/0b5e30c4e9780f0ee1fa8a3e77dd58793e94c1a81c608d5ff0d7ef0c82711e15/modelflare-ai/AnyModelBot",
-      "stars": 2095,
-      "stars_display": "2.1k",
-      "forks": 19,
-      "forks_display": "19",
+      "stars": 2347,
+      "stars_display": "2.3k",
+      "forks": 22,
+      "forks_display": "22",
       "language": "Python",
       "topics": [
         "ai-agent",
@@ -162,7 +162,7 @@
         "claude",
         "computer-use"
       ],
-      "updated_at": "2026-11-03T11:38:07Z"
+      "updated_at": "2026-11-03T16:37:35Z"
     },
     {
       "full_name": "paipiange/nvzhuang",
@@ -172,10 +172,10 @@
       "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
       "url": "https://github.com/paipiange/nvzhuang",
       "preview_image": "https://opengraph.githubassets.com/2c0406b26ce4bc3a4ac6277c1c3c3bb51e53bafcfa8675ee0a70648d5b2d51ed/paipiange/nvzhuang",
-      "stars": 2092,
+      "stars": 2118,
       "stars_display": "2.1k",
-      "forks": 538,
-      "forks_display": "538",
+      "forks": 543,
+      "forks_display": "543",
       "language": "Go",
       "topics": [],
       "updated_at": "2026-11-03T07:01:03Z"
@@ -188,10 +188,10 @@
       "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "url": "https://github.com/zhuyansen/new-term-radar",
       "preview_image": "https://opengraph.githubassets.com/ea3027e82ccd7734619d918ebd283cb88e54c18adb2852d9f1ddc7ab36614f09/zhuyansen/new-term-radar",
-      "stars": 2060,
+      "stars": 2068,
       "stars_display": "2.1k",
-      "forks": 626,
-      "forks_display": "626",
+      "forks": 629,
+      "forks_display": "629",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -207,6 +207,6 @@
   "search_query": "ai created:>2026-10-04",
   "days": 30,
   "limit": 10,
-  "total_count": 481968,
-  "fetched_at": "2026-11-03T11:39:52.870043+00:00"
+  "total_count": 487984,
+  "fetched_at": "2026-11-03T19:09:37.099068+00:00"
 }
