@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Designing for sovereignty: Ethereum for digital public infrastructure",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uam9ZU2xHSlU5SUtKM1E3SnAtU2xueWFmYXdkU2N6emgyeDV3SUYxWnhhOUQwUHRJcTVrNFlCazJCbTMxaVVnMGVwTGM0c3ZPMXp6NXZxa3ZKT0NXMXRSRWVNUWk?oc=5",
-      "pub_date": 1793675735.0,
-      "article_url": "https://blog.ethereum.org/2026/11/03/digital-pub-infra",
-      "image": "https://storage.googleapis.com/ethereum-hackmd/upload_d1805a5e41e5b947df38abbec662b443.jpg",
-      "description": "Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation..."
-    },
-    {
       "headline": "Elon Musk\u2019s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -35,12 +25,32 @@
       "description": "XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a better chance of rebounding by 2031."
     },
     {
-      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP rebound as November begins after a losing October",
+      "headline": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVNJMUk0N1Q2dlBPU1NNZ2x0eWNYWldMOUtLX185dHFUN1JIMGhlT1BkZHMzcjA5NFRVLU5USzh0OXI2Vno2WWV6NVJkY0hYVnZSSFdMMHRrVFotc0hPWVZaUnRMTjFlWVUyNHR5NEJMcTlEZnR6emVWQVRqZ3FLbFk4MjZJcEdO?oc=5",
+      "pub_date": 1793636604.0,
+      "article_url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
+      "description": "Tom Lee laid out six reasons the market\u2019s \u201cmuted\u201d 4% Ethereum drop after the record Binance theft shows crypto is \u201cincreasingly resilient.\""
+    },
+    {
+      "headline": "Tap Global Expands Cryptocurrency Treasury to \u00a3800,000 Following Further Bitcoin, Ethereum and Solana Purchases",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlQ5ZzhBR2t1Y0ZaTmJ3cWVjVkxucFJITGwwTE90clVKek1tZVdrM1BlRV9OSGMxQTVnZmVvN2NyNkh4d3pIRXZiUkVRUVRiUGotTE5jZ1A2TnpjbE1CeGhqQ2pMT3loU3pYc21nWThpNmF1c2t6TEdRdExTM1IzUFRjS2dkRlQwR0NXSWc5SGdJWkFEX3c?oc=5",
+      "pub_date": 1793692500.0,
+      "article_url": "https://uk.finance.yahoo.com/news/tap-global-expands-cryptocurrency-treasury-075557209.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7eed4905e03162376c39e6d4deea7d7652b0c895606e4650e0edaaa91a04acdb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fadvfn_uk_848%2Fbab120aff2931cabec749c982c1c721a.png",
+      "description": "Tap Global Group plc (LSE:TAP) has acquired an additional \u00a3235,523 worth of Bitcoin, Ethereum and Solana as part of its Digital Asset Income Strategy (DAIS), bringing the total cost of its cryptocurrency and stablecoin treasury holdings to approximately \u00a3800,000. The regulated crypto-fintech company purchased three Bitcoin (BTC), ten Ethereum (ETH) and 500 Solana (SOL) tokens on 29 October 2026, following earlier acquisitions made between September and October."
+    },
+    {
+      "headline": "Why are Bitcoin, Ethereum and XRP trading under pressure?",
       "source": "FXStreet",
       "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdnEzQW9WX0pnWmhPY0hNNmlpV3NDSEp4N1FwaVRoNWZPTUloVGFzMldPdU55TVNVN1VPREVOWGdxY3hrWVl3bEtkQVRyQnVCSE1hQkdPaF93SkVsazdJNFhxVXJfc3J3OEt0bG10UEtPcWNkSkRzbEZBRVNJS3dmclg5VmZsZHdldUVyUldWUmpaRFA0RnZpNWZqQS04Mzl3MFZUU0c5SHNuWlpqMTI2VjQzWkgwZlhKd2NUbk1PNE9PX1Q0TXpXUWtmMF9ZdUxaT0lxSkI1WkVCdHp6NC0xNnJjRldqVjJ3ZW9JN3Njc3pkUjhHQld1ODNKUmFocmVlZXhv?oc=5",
-      "pub_date": 1793591930.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-november-begins-after-a-losing-october-202611020358",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkZXUnBveGZ3TWJoenA1ellJMFUwUEZYd2daeEZybk8yVVZzcDNsbk43STlnbnZxMVZ6eUF3dU1OUHZLSk52OWtVOGhoS1Rkc2Y2ZmFOTWNkSU8wdEd0QS1FRENTV1FTeXo3YlF3Y2tIdDROSmtBdmpfU2R1QWlRcTByN3U0TUN0S3dhTGRQMkNHSlBOcEtYa19CMWktWElUeWNvMVlKRXphZHdxUXYtV0hLdnVmY3FVTVlPQ3pDbWhPc2k3OXpLMFFNOEZISUk?oc=5",
+      "pub_date": 1793702277.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-under-pressure-as-investors-pull-capital-202611031037",
       "image": null,
       "description": null
     },
@@ -55,34 +65,34 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Vitalik is making private Ethereum payments without a crypto website",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1EtV3hvbTVhdENiZmJGdk9QTlN1dUxXbko1WkQxYVZPdjZySUdaVzM3U2JJbDJ4NWJkTExNdzdRV1ZYYjhfN3o3U2RiTWl2LUhENFV2OHFuN0k1SzNOM2M2Ym8xS3pFbGViaGhRRVRtWGJxdUltZVh4U1p1czB5TjE0QWJ5clNqMGNKNmxtUll3MDExQjQ4Vw?oc=5",
-      "pub_date": 1793655613.0,
-      "article_url": "https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/vitalik-local-code-inspection.webp",
-      "description": "Vitalik Buterin uses kohaku-cli for private Ethereum payments. Its local code, dependencies and signing permissions define the remaining trust decisions."
-    },
-    {
-      "headline": "Tron: Flips Ethereum in USDT Supply",
+      "headline": "Ethereum: Outperforms Bitcoin as BTC Seeks Support",
       "source": "Blockchain News",
       "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVmJ0RTJZdjdCVGU2ZHo1NnRuNHBYZHQyNzdFcWZuS1BTdWRHckRMVE1sUVRyX01HbGNxY2xFTEpKZ042NF9LZWxSQkt4SVR4ZUVvNFpndDRxUzd0ekt2UU92NmFWNHVyVjZNNEdzcHFvR3M?oc=5",
-      "pub_date": 1793634660.0,
-      "article_url": "https://blockchain.news/flashnews/tron-flips-ethereum-usdt-supply",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGJSQVlzb2MzdVd3RGFVU19acmhxMWR1c2RvTzNWbnV1VE5TSUhtY1hJTnZoRUxaNTlNR2NHZ3AtSjRWUVg1Z0xyY0RpdjFLRDdjcUxfYmMzNUVtaHlpRzIwRVZBdjhkZURTTFV6aTVTdWMtY0pSU1V2MFQxY3g1MHMwajhVYVU?oc=5",
+      "pub_date": 1793602620.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-outperforms-bitcoin-btc-seeks-support",
       "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Onchain Lens reports Tron ended Q3 2026 with $92.35B in USDT circulating supply ahead of Ethereum's $86.69B after taking the lead on July 23, with current..."
+      "description": "Micha\u00ebl van de Poppe highlights Ethereum outperforming Bitcoin as the first relative sign of strength in the crypto ecosystem while Bitcoin searches for..."
     },
     {
-      "headline": "Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTZNVzA1MlN1M1dFZEhtNlkxVjBXVmRRMFJPRmhRcE1HSkFFSVlqRzNHQmtlcFhpOVl6aG9qd3NUNVlWZHBoeFUzVXFLcWRmV0RfQnRCNENsdkN1SURaNTlGRGRoREdudkJwdnp4Y0NSRmNRU3ozRU5RVDB6X0g2U01pYlBBX2tOdkYwUjJR?oc=5",
-      "pub_date": 1793651927.0,
-      "article_url": "https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward",
-      "image": "https://cdn.sanity.io/images/6oftkxoa/production/440c5e64b4486e422ac0900e1edf59768647d4b0-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
-      "description": "Onchain records show Mercado Bitcoin incident-linked wallets moving ETH, USDC, PEPE and TRX onward, while some transferred gold tokens were subsequently frozen."
+      "headline": "Tom Lee calls Ethereum\u2019s 4% post-hack fall bullish",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQck1WS1lRS2Npa0pUYVB0S0MwRExrd25qZkpfZTNQOEJYa0JGcGdRVnZrSjdRUC00NHZCLTM0aVJSUE52XzBXUWJaZXZ6VkVfR21JNXE0VGRJRzBfOW03ZThQVXRNZ19RNVZDTXBTVTU0M2ZjcDdlS0VoeGJfRlUyTnNfZ1JuUGZBWWVLWXNNci1oZnljR01DeFkxLVE2WHFBZUhxb3lkQURVV0lya3VJ?oc=5",
+      "pub_date": 1793667923.0,
+      "article_url": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/tom-lee-bull-projection.webp",
+      "description": "Tom Lee calls Ethereum\u2019s 4% fall after Binance\u2019s hack bullish. His Bybit comparison uses a longer period, while BitMine keeps buying ETH."
+    },
+    {
+      "headline": "Ethereum Foundation launches evm.fast challenge to verify block limits",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3VLRHp6M3JCOWZGZU82Um9fYVd1NnBzUmRYdlF5WWVvQk9Wc0xpM1hoWTBfSjl2NjJqT0tTMHA0UE5lNjF2UE5BdUhIeXZQbkdlSnI0bnRVN09QMUlianFWR2NOQlpYanUxVmo3REpKVTlCdmxZOFEwZ1E3QW1kYVN3ZmNEdw?oc=5",
+      "pub_date": 1793680478.0,
+      "article_url": "https://cryptobriefing.com/ethereum-foundation-evm-fast-challenge-block-limits/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/02233431/library-ethereum-foundation-launches-evm-fast-challenge-to-verif-800x450.png",
+      "description": "The Ethereum Foundation's evm.fast challenge asks contributors to prove a finite worst-case step bound for block verification on a RISC-V model."
     },
     {
       "headline": "THORChain Halts Swaps Across 10 Networks After Ethereum Reorg Exposes Bug",
@@ -93,18 +103,8 @@
       "article_url": "https://financefeeds.com/thorchain-halts-swaps-across-10-networks-after-ethereum-reorg-exposes-bug/",
       "image": "https://financefeeds.com/wp-content/uploads/2026/06/THORChain-resumes-operations.png",
       "description": "The incident began on October 31 at 11:34 UTC, when Ethereum replaced a recently produced block containing a 10 ETH deposit that THORChain had already"
-    },
-    {
-      "headline": "Bitcoin Falls Below $77,000, Ethereum, XRP, Dogecoin Flat Ahead of Midterms",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPclBaaldQZzBmbXhqTWVzaXhKMVlQeFVlcm5FaEpaS1VtZWo1NmFBd0I4TFZOVHh0YmxZbGUtVTh0Y2kyQnBWbmJTb2t3MS1WQW9HYkVSd2lOVkZiQ2xfb0l4b05jV0JOeWlTa0U5Q2k4VDRxS1had2dYYmR0dzlrSWowUHBndFZ3dW9lZkZaVmhXWm5OMmluT0x1bU5Rd0NqUWRlTzNBdnJNTFptbnNMTUt0bmxQaWFILUF1YzI3aDQweVdiNEdXdU9SQ2Y?oc=5",
-      "pub_date": 1793652360.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/62795952/bitcoin-falls-below-77000-ethereum-xrp-dogecoin-flat-ahead-of-midterms",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-03T03:37:26.585612+00:00"
+  "fetched_at": "2026-11-03T11:40:19.749700+00:00"
 }
