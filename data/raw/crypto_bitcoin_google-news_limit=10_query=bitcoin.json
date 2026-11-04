@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies",
+      "source": "SWI swissinfo.ch",
+      "source_url": "https://www.swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFJDaEpnR3pRZG1vVDQtWlZSOGx4a2dPQWNxLUo2eEpMYklsdG90c2FZLVY5cEtYSG05aE4ydUk3Tml5ODZoRWJSOVF0WjZ6Vmx0OWlDMENSaE91cXkxWExmOWhXa3NYd1ZqalRpaFlWdzdwV2xDU1hvTzJkSVdHYVNWMGlvdHlha3lRVzNUeXg4WjlnRm9yNUNQUTFMdW03QkxfT3V2Z191M0VHbXJZdkp2VGtFSlNzM2VOV3BnQQ?oc=5",
+      "pub_date": 1793623191.0,
+      "article_url": "https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545",
+      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f915e254cd47423edb17f5452558219ed0c78700-92313700.jpg?ver=b061450f&fit=1200,900",
+      "description": "Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere."
+    },
+    {
       "headline": "Mercado Bitcoin Halts Withdrawals After $40 Million+ Hack",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
@@ -15,64 +25,34 @@
       "description": "Brazil\u2019s largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen."
     },
     {
-      "headline": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVgydXRvRmVuN0Jnd3FHODlPZVdIc2N0R1EzNXhnT1lBcTJpY0Z4dUFwc3owcGYzZWRPeTMxV1Z4dF9tQjZoSTFIcWNoT21YTmNqYXpZbEhYSjNGM0x4TGNUQ1N3VDZudVNvYXV5c29rYzF5aXdETzdmMm9qNXlmNF93THNJaGNuSFVDNVVWQmgxVDhhMHNjOWo0c19EQ2tWRnFRRFdBdzBCeEVvZTNMd0pJQml2ZEtOWHQ2UndCZVc?oc=5",
-      "pub_date": 1793696208.0,
-      "article_url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Mercado Bitcoin Says It Will Absorb $40 Million Loss From Hack",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEFEZlhWLURyQ0pldFJJVVdzUjZ4ZV9RZE5ERlNJcjZoRjEyWTZNN2NVSmtDVkRmal81ejRNQ1pWLWFHNHAwQ3NkYmJ5bmViM0pXM3dOTHQ5SkJWRWgtUUV6X2xMdVZha1E2WWdpdlU0QUJNckI1SHRxMGlVUHZFZjMwWDZSby1reEpiVG5sOF91RDRJUHpvVmR1RWlEQnVZdmxONU50UVFLaV92RWVRMlhn?oc=5",
-      "pub_date": 1793634202.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/mercado-bitcoin-says-it-will-absorb-40-million-loss-from-hack",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tether Says It Holds 150,000 Bitcoin, 50,000 More Than Its Reserve Report Showed. What Does That Mean for BTC?",
+      "headline": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZXBMUklsdmNFZXpBUkZ4Q0w5MUkwWEpLNWJiZS16TTVtWWE2dS1YbnhxUi15cmh1bk9MNFIzcWxMSHZ3S0xJcGdQZ216ZFJnX2RvQnRRUk9vZkRGemVBYldyUFdpTmc0akJSRnZFVEVpMUd1NDBjZTZvTVpNdmhadTJ6UU1wT3FxbHJZTlduWHJTaGtU?oc=5",
-      "pub_date": 1793728071.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tether-says-holds-150-000-174751694.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f25815847a79758662c399b1ff7a449d424e97cc95c09a2845bace03fa1bb10e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fed23e0e70e7e2cca573ffe1a6e18ee21.jpg",
-      "description": "Tether's CEO just revealed a Bitcoin stockpile far larger than any official reserve report has shown, raising questions about what the stablecoin giant is actually building and whether its public disclosures tell the whole story."
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmxGNnhYT2RuYWUyVXRNcFVnMXJtV3U1Zzd1Sm1oTTl1T1NEQ3lPUUk3Rk9BMUN2QXRWdWVvRTFOU2pIaEN0RXBhNTJYdXNudmVtS0ZmRnFRcGRYa21BblNMNnFTZVpUbmljR3ZhM1FONUt4V0lnQ2VsdEVLSURQdHBHcFFmOEZKLWNVVlZtRW5ZUUU?oc=5",
+      "pub_date": 1793746050.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-nvidia-10-000-224730424.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c58e2a064f6b74bcf0fce2b65fbe66da9741d1880f4804c9f90bfac514327fe8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6a3897a571f27f808d8276fe241b55d7.jpg",
+      "description": "Five years ago, you had $10,000 to invest and two hot options: a volatile cryptocurrency riding a wave of hype, or a chipmaker few people outside gaming circles took seriously. The gap between where those two bets land today will surprise you."
     },
     {
-      "headline": "Dollar falls ahead of US midterms as oil plummets",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
-      "pub_date": 1793581020.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/dollar-rangebound-ahead-us-midterms-bitcoin-reels-crypto-heist-2026-11-02/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Dollar dithers ahead of US midterms; bitcoin under pressure from crypto heist",
+      "headline": "Tether Holds 150,000 Bitcoin, CEO Says\u2014About 50,000 More Than Its Reserve Report Shows",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUkJidFFyWDhWUlZNMS05dUJuQjRUT3ZieWhaWV9SdGVUQTBELUhyVXFVeHRlMFZaRXBnRlJvUTU5eEFDX0VRXzAzZ0NUQnhnai1iTTd0b0h0NFg3Und0YWwyLVVwSy1MMlN5N0lYa2UyMzJMMzN0aGowUGQyUVdfcXd2UTM4VnFSNGR3RUdwbE8yME10QTRSVnVXUFMtQU5GdG9F?oc=5",
-      "pub_date": 1793597880.0,
-      "article_url": "https://finance.yahoo.com/markets/currencies/articles/dollar-dithers-ahead-us-midterms-053832846.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2eefe72696fa6cdff8c68ed755ab609d943d887274fa2dd9e0710932471f61f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4b8ac08fb71b998b2da64b8d2daf686f.jpg",
-      "description": "By Chuck Mikolajczak NEW YORK, Nov 2 (Reuters) - The dollar eased on Monday as oil prices plunged and Treasury yields retreated ahead of a week full of catalysts, including the US midterm elections, a"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGlsSXA0ZmJEUWFNZUFBSnBCR0pXS0RHVWZfS21La21CUlZ6NlVGdEtzcmhMWE1xMXg2ZWxNekFGZmdSNXRMMnZSZ0hBclhQem9qbFc3clJTTl9JdFI2UWJzZV9WRTFHMXNNcUQ1RUEyYnJqVmg3YWFKa2JibzhzdkpTa3Q3NFBYM2pKRUNxUm9UbFpQcjlYVg?oc=5",
+      "pub_date": 1793745962.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tether-holds-150-000-bitcoin-224602256.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/33095cb90faa0be0708cbfeaaf310df812ddb0f8a75f17c2228929fa364ec60d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Ffea131cb61078cd275586ef9851da824.png",
+      "description": "Paolo Ardoino told the Plan \u20bf Forum in Lugano the company owns \u201cgive or take 150,000 Bitcoin,\u201d but its Q3 reserve report implies just 100,060."
     },
     {
-      "headline": "The Dollar Is Reasserting Itself as the King of Global Finance",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2J1Zl8yM2ZTZ1BnRGZ4NWxBdktDVjBPLWV0SGFKTk13NGkwblFtaXE5YnJKWEYtbW1NdGxMZGV3LXBJajI1REJpZnBCLWdibkNBOW96UTUzYkFrbXpSQkJGOHlUcHU0UElsLTBmd1RQeGdHNGFRN3pnMDFvcHV4VElXZ2V4QUZjWlpXTE92UTV6VkNxSnpvRmttMlZIZVFfSW8tVTVTazFaNGowZVBJNHFab2w?oc=5",
-      "pub_date": 1793700025.0,
-      "article_url": "https://www.bloomberg.com/opinion/articles/2026-11-03/the-gold-and-bitcoin-slump-reinforces-the-dollar-s-dominance",
-      "image": null,
-      "description": null
+      "headline": "Crypto Market Today, Nov. 3: XRP and Zcash Defy Recent Weakness as Midterm Elections Take Center Stage",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXQ4MFBnRXQzSldXVk1kS3N4LUo2OHV4N09KdFZYbkgzZGV6TmNvNTI1aTdsQkVndG9VN1l2djdRLWgzUWhWTjhrYkNCeV9Eb0RKbnNJMnF5amRudjdjalFhc25qd0trSTlCb3dhR2VPXzB0anJHZmpSRGM3OGlxb2FhMWJUQUdWMHFfSFpQQlNBU2U0?oc=5",
+      "pub_date": 1793745002.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-3-223002928.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4a499fe8c1d0e825f7850f4f202815b1f7e2509d57b1f0cdd527a768283e8954/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0a4ef2b3139977c666521fb40f7b7df4.jpg",
+      "description": "XRP and Zcash led Tuesday's crypto rebound as investors turned their attention to the U.S. midterm elections and what the results could mean for digital assets."
     },
     {
       "headline": "Tristan Thompson Boards Jason Zada\u2019s Bitcoin Creator Movie \u2018Satoshi\u2019 as Producer (EXCLUSIVE)",
@@ -85,26 +65,46 @@
       "description": "Tristan Thompson has boarded 'Satoshi,' a new film about bitcoin\u2019s pseudonymous creator, to be directed by Jason Zada and shot in Saudi Arabia."
     },
     {
-      "headline": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRTZVNFRwZUdXWEF3Y3ZlVC1iTnZlZF9RclI5eWlDcnh0WlQ0eUNtT2ZhdXY0Wmlabm1xQ3VCaXdJRGFjN1BvM1UyQ2xfOEg5aktNbUtuTEh2SzBCSGxPRXgzQVhaSVhoaWNtQmtCMWR6SDRvdVY0T3VzOExldU1sUm81RUlzSzJGWURWVDEzaUNRZ2s0Z2RZNzVieFlLRGNydDRCUVlfVjYzeG1fMkxYU0JsNHNIUllaX1BscmpUQkxQdGl5MjRWUnFLdEt1T3hwcy1mc0ZEME8tZllhUDJwU3AtaHo0Zw?oc=5",
-      "pub_date": 1793655450.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+      "headline": "The Dollar Is Reasserting Itself as the King of Global Finance",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2J1Zl8yM2ZTZ1BnRGZ4NWxBdktDVjBPLWV0SGFKTk13NGkwblFtaXE5YnJKWEYtbW1NdGxMZGV3LXBJajI1REJpZnBCLWdibkNBOW96UTUzYkFrbXpSQkJGOHlUcHU0UElsLTBmd1RQeGdHNGFRN3pnMDFvcHV4VElXZ2V4QUZjWlpXTE92UTV6VkNxSnpvRmttMlZIZVFfSW8tVTVTazFaNGowZVBJNHFab2w?oc=5",
+      "pub_date": 1793700025.0,
+      "article_url": "https://www.bloomberg.com/opinion/articles/2026-11-03/the-gold-and-bitcoin-slump-reinforces-the-dollar-s-dominance",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin\u2019s Resilience After Binance Hack Masks Market Jitters",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON015ekNBYXdIZHd2dExpZHUxWW9VcTAyWDFjREtEWWRHcG5STzV5MVdkdjRqdVIyT01jak9Cek1vVE1Rb2w2QW4ydzRYak51X1J5anRfaEh3enVhVGUyZFR4emgySTBhUFJsWG84TGdlVlptanlwckdmbk9aR2cyYjlsRHBQYVRFdG1ENEFUdG1YQ3daZkxJRDB0WnNTQmpfa0ZXWlRQNTlnSGI4dmtCOA?oc=5",
-      "pub_date": 1793656424.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/bitcoin-s-resilience-after-binance-hack-masks-market-jitters",
+      "headline": "Bitcoin Miners Pivoted to AI\u2014Only to Find It\u2019s Just as Turbulent as Crypto",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXVpcUtQVk9BUU9DMmw3TUJZTlJveDR3dW82VHZoTXNSVlpTc19TM010eXJUYlJQVXFtUTh4OTBYamtTc1BnRXl3WERqSFE0QXotRU56bDhsWW82Z3FrT3NoREtFR3FhRTNadzd2YVRlREZFU2xTaW9Ga0lpUGc4VEk0R3N6em9LMmEwaTZ6TEFteklXWGJqaU1ZSjFOcEJWMGZNVTlTUlUtMUN0SGRjOFJ6X19PT1JpODAzNg?oc=5",
+      "pub_date": 1793740980.0,
+      "article_url": "https://www.wsj.com/finance/currencies/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-17485887",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFpnR3ptSEotYm9CQkl0OXlFQjhTaHFRMl9hWUQ2U0VtOVZsWUVHSFFxLVBMZFhzTWRiNjZGTGFidVg3a1VsdDZxWlFJQnJURXU1V0xMRmFCb19Wd3FKdVU0T3pSRmYwcDMycGR4M1dPdXc2Z0l3TUw3elBaN0t6ZVlR?oc=5",
+      "pub_date": 1793694660.0,
+      "article_url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrr1rJlr2nztz8jEunAWtVXHyOHkJY2_KdeweNWBqwF18rmhPiFItEQ-yCex1vVsps856ArIDl7unaWJNiribZ9DgkmQ3o4pLa1BKQrjKEeFR63z4csXnBHah5wIp7H5xuUB7b1UIp06nk6BzLuxFW5aWh2g-PoLoZ74RjMOEUX7XdrDsHM1yFbjGHBzK8/s1700-nu-rw-lo-l85-e365/btcpay.jpg",
+      "description": "Hackers exploited a BTCPay Server vulnerability to steal Bitcoin and Litecoin from hot wallets on versions 2.4.1 and earlier."
+    },
+    {
+      "headline": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLXp1MnpQMGZaM01zVHgwRjJhMVJPSkFzY0JYNXFDSVRyMmYxR1k1enUxMEhNUGdrSzFjN25ZU1RkUUpuNUZkOG5lQjhzV2lPWFlJUXcybW9oTzNfZFlkQlB1TWxJRlBPOGgtOWU4YW02Z2c2WXBLeWxSb3R4azFIN1JTRjdlQzJJdkdsVU4waUF4b29PMHBBa1ZFNERaLVkwYnh0VDRzSmJvQzhSSkJVYXkxSTVEa2h3Y1ZzRmhZdGlXU1hEeGtiaTZQRUc4UFNuYzVJNzZjcllhQ28?oc=5",
+      "pub_date": 1793708051.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-03T19:09:56.696685+00:00"
+  "fetched_at": "2026-11-04T00:06:15.209132+00:00"
 }
