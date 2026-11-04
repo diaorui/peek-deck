@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-04T00:06:17.348913+00:00'
+updated: '2026-11-04T06:52:31.671054+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 04, 2026 at 00:06 UTC  
+**Last Updated:** November 04, 2026 at 06:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,115 +36,115 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,291.31
+### $2,240.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +1.1%  
-**30d:** -15.6%  
-**90d:** +18.9%  
-**1y:** -33.4%  
+**24h:** +1.7%  
+**7d:** +2.0%  
+**30d:** -14.8%  
+**90d:** +20.0%  
+**1y:** -32.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $277.67B
+**Market Cap:** $280.21B
 Rank #2
 
-**Circulating Supply:** 122,186,162 ETH
+**Circulating Supply:** 122,189,135 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.1%
+-53.6%
 
 **All-Time Low:** $0.43
-+524761.5%
++529542.3%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion October 26, 2026](https://www.reddit.com/r/ethereum/comments/1xfntwu/daily_general_discussion_october_26_2026/)**
+**[Daily General Discussion November 04, 2026](https://www.reddit.com/r/ethereum/comments/1xngmbp/daily_general_discussion_november_04_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+51m ago
 
 ---
 
-**[I got tired of explaining Etherscan to friends, so I built an explorer that just says what happened](https://www.reddit.com/r/ethereum/comments/1xfr9s8/i_got_tired_of_explaining_etherscan_to_friends_so/)**
+**[Ethereum for digital public infrastructure](https://www.reddit.com/r/ethereum/comments/1xmpq8r/ethereum_for_digital_public_infrastructure/)**
 
-Hi r/ethereum, Every time a friend sends me an Etherscan link and asks "what did I just do?", I end up explaining internal txns, token transfers, method IDs and why there's WETH in there. Etherscan is great if you know what you're looking at. For everyone else it's a wall of hex. So I built Simplorer. You open a transaction or an address and it tells you in one sentence what happened. Same swap, two views: Etherscan: https://etherscan.io/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer: https://simplorer.app/ethereum/tx/0x074069a156fdaf1f07a0dfa602d17cb128d0ccbf9f79b93c8b3edc798eaebfda Simplorer says "0xc850…87b7 swapped 0.72 ETH for 1,378.06 USDT on Relay". Below that you see who sent and got what (part of it went through Uniswap) and the fee in ETH and dollars. A few things it does: - names the apps people actually use, a few hundred of them (Uniswap, Aave, Lido, 1inch, Curve, Pendle, OpenSea...) - approvals in plain words, like "allowed Uniswap to move any amount of its USDC", with a note on what that means and how to take it back - Safes and smart accounts show up as the account that acted, not as some contract call - bridges show where the coins went on the other side (Across, Stargate, LayerZero, CCTP) - fake tokens copying a real ticker and address poisoning transfers get a warning Most transactions from normal wallets come out as one clean sentence. If it can't name something it says "an app we don't know yet" instead of guessing. Data comes from Blockscout and a public node. No account, no ads. It's still in beta and I'm sure some transactions read weird. If you find one, send it to me. That's honestly the most useful feedback I can get.
+Explore how Ethereum's open, global network can support digital public infrastructure, verifiable records, and coordination across institutions without a central operator.
 
-8d ago
+🔗 [Ethereum for digital public infrastructure](https://publicsector.ethereum.foundation/) • 20h ago
 
 ---
 
-**[Daily General Discussion October 25, 2026](https://www.reddit.com/r/ethereum/comments/1xethvc/daily_general_discussion_october_25_2026/)**
+**[Daily General Discussion November 03, 2026](https://www.reddit.com/r/ethereum/comments/1xml6ff/daily_general_discussion_november_03_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9d ago
+1d ago
 
 ---
 
-**[I need the Devcon 8 ticket 😭](https://www.reddit.com/r/ethereum/comments/1xfb8sj/i_need_the_devcon_8_ticket/)**
+**[Are stablecoins becoming more useful than ETH for everyday payments?](https://www.reddit.com/r/ethereum/comments/1xlwz8b/are_stablecoins_becoming_more_useful_than_eth_for/)**
 
-I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tickets and if anyone any single being can sponser or offer me that ticket please My profile is kidna ticket less i need that ticket 😭 FYI : I am a 3rd year Computer science engineering student at Mumbai University and ofc i have too many financial constraints to afford one
+Most people seem to hold ETH as an investment, while USDT and USDC are increasingly being used for transfers and everyday payments. With more ways to spend crypto in real life now, I'm curious if anyone here pays with ETH or prefers using stablecoins. Do you think ETH will ever be widely used for everyday purchases or will stablecoins take that role?
 
-9d ago
+1d ago
 
 ---
 
-**[Daily General Discussion October 24, 2026](https://www.reddit.com/r/ethereum/comments/1xdzt1o/daily_general_discussion_october_24_2026/)**
+**[Daily General Discussion November 02, 2026](https://www.reddit.com/r/ethereum/comments/1xlpgqb/daily_general_discussion_november_02_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10d ago
+2d ago
 
 ---
 
-**[Daily General Discussion October 23, 2026](https://www.reddit.com/r/ethereum/comments/1xd4wcz/daily_general_discussion_october_23_2026/)**
+**[🚨 Ethereum solo stakers: CVE-2026-98432 is a critical Linux TCP vulnerability with potential remote root access.](https://www.reddit.com/r/ethereum/comments/1xlidhr/ethereum_solo_stakers_cve202698432_is_a_critical/)**
+
+My Geth node had a publicly listening MPTCP socket. Disabling MPTCP didn't close existing listeners! Check ss -Mlntp, apply mitigations and patch your kernel ASAP. https://ubuntu.com/security/CVE-2026-98432
+
+2d ago
+
+---
+
+**[Daily General Discussion November 01, 2026](https://www.reddit.com/r/ethereum/comments/1xkulhh/daily_general_discussion_november_01_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11d ago
+3d ago
 
 ---
 
-**[Ethereal news weekly #44 | Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus](https://www.reddit.com/r/ethereum/comments/1xdhk94/ethereal_news_weekly_44_glamsterdam_on_hoodi/)**
+**[8 years ago a CREATE2 “Wisp” post asked what stops a bait and switch with selfdestruct. What actually changed?](https://www.reddit.com/r/ethereum/comments/1xl5h2q/8_years_ago_a_create2_wisp_post_asked_what_stops/)**
 
-Glamsterdam on Hoodi testnet postponed, Privacy Pools v2 live, EIP8453: Decoupled consensus
+Found an old post on CREATE2 Wisp contracts (a contract created, used and selfdestructed in one call so the same address can run different code later) and the top question in the comments was what prevents someone from auditing one version and deploying another at the same address. The honest answer back then was “selfdestruct is a red flag, check Etherscan.” What happened since - the Tornado Cash governance attack in 2023 did exactly that and EIP-6780 (Dencun, March 2024) limited SELFDESTRUCT to contracts created in the same transaction. EIP-7702 (Pectra, May 2025) later let EOAs delegate to contract code. Does the Wisp pattern still work post-6780 (create, use and destroy in one tx) and is anyone using it? Is same-transaction metamorphism still a practical risk for governance or allowlists? And how are people checking code identity at execution time now, EXTCODEHASH at execution, something else? UPD thanks u/Bloqarl. So the Wisp pattern still works post-6780 because create and destroy happen in the same tx but swapping code at the same address across txs is dead and the bait and switch moved to upgradeable proxies (an EXTCODEHASH pin never changes while the logic does) and to 7702 accounts that can re-delegate in their next tx. Still curious how people pin code identity in practice
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-44/) • 11d ago
-
----
-
-**[I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town](https://www.reddit.com/r/ethereum/comments/1xd7vvk/i_made_a_thing_that_turns_your_ethereum_wallet/)**
-
-This is a repost from yesterdays Daily for better visibility. I made a thing that turns your Ethereum wallet into a medieval castle, and every transaction is a little courier walking across town It's very early, which is why it's still sitting on a vercel subdomain, so expect some rough edges and the name is very much a working title, so if you have any suggestion for how to call this I would really appreciate it. The idea is simple: your wallets are a castle and the chain is the town in front of it. Each wallet gets a tower, the keep grows with what you hold overall, and every protocol you use has its own building in town. Every transaction is a courier who crosses the drawbridge, pays the toll at the border (that's your gas fee) and walks over to the protocol's door. The bell tower in the middle rings on every real mainnet block, which is weirdly satisfying to watch. You can look around right away with the famous wallets preview (vitalik.eth, the ENS DAO treasury and XCOPY so far). To see your own wallet, you'll need a free Zerion API key. It stays in your browser and never goes anywhere else. https://wallet-landia.vercel.app/ really appreciate any feedback, good or bad. Tell me what's fun, what's confusing and what's broken. I'm also looking for more famous or interesting wallets to add to the preview: whales, DAOs, NFT, artists, infamous hacker addresses, whatever you think would make a cool castle. Drop them in the replies!
-
-11d ago
+2d ago
 
 ---
 
-**[Glamsterdam on Hoodi Postponed | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1xcsal5/glamsterdam_on_hoodi_postponed_ethereum/)**
+**[Cool video on ethereum and quantum posted today.](https://www.reddit.com/r/ethereum/comments/1xkldwq/cool_video_on_ethereum_and_quantum_posted_today/)**
 
-The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
+From the original post on x: Quantum computing poses a serious threat to the cryptography blockchains currently rely on, while advances in AI compress best estimates for the threat's timeline. That's why experts gathered in Cambridge to coordinate research upgrading our cryptography to be quantum-resistant.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 12d ago
+3d ago
 
 ---
 
-**[I sent ETH from Binance to Robinhood through BSC. Is it really lost?](https://www.reddit.com/r/ethereum/comments/1xcly15/i_sent_eth_from_binance_to_robinhood_through_bsc/)**
+**[Anyone needs a devcon ticket ?](https://www.reddit.com/r/ethereum/comments/1xkrt7e/anyone_needs_a_devcon_ticket/)**
 
-I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain (BSC) network because Binance is blocked in my country and I tried to transfer all my funds at once. ​The transfer status shows as "completed" on Binance, but after 24 hours, the funds haven't arrived in my Robinhood account. I contacted Robinhood support, and they told me the funds are unrecoverable. ​Since the receiving address belongs to my Robinhood wallet, is there any possibility to recover these funds if Robinhood supports BSC in the future, or are they lost permanently? ​Any advice would be greatly appreciated. After some research I've learnt that it's my fault for not being properly informed and not doing a trial transfer, but it just didn't cross my mind.
+So the thing is I bought a devcon ticket but it seems like I won't be able to attend due to some emergency situation...in case anyone's willing to buy one for a discounted price, we can discuss Win win for both
 
-12d ago
+3d ago
 
 ---
 
@@ -152,33 +152,25 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Sentiment Tanks but One Coin Is Holding Its Ground](https://www.tradingview.com/news/benzinga:74173d18b094b:0-bitcoin-xrp-ethereum-sentiment-tanks-but-one-coin-is-holding-its-ground/)**
+**[Why Bitmine Immersion Technologies Stock Is In Focus After Its Ethereum Buying Spree](https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-stock-043344012.html)**
 
-Bitcoin CRYPTO:BTCUSD and XRP CRYPTO:XRPUSD are seeing increasingly negative sentiment, while Ethereum CRYPTO:ETHUSD comparatively is holding its ground in what analytics firm Santiment calls a contrarian buying opportunity.Why Sentiment Has Collapsed Across the MarketSantiment Intelligence said Tu…
+Bitmine Immersion Technologies recently acquired nearly US$20 million of Ethereum, bringing its ETH holdings to 6.06 million tokens, equal to 4.9% of the 122.2 million total supply, alongside US$14.5b in combined crypto, cash and marketable securities. This sizeable Ethereum position, together with Tom Lee’s comments on the market’s resilience after the Binance hack, places Bitmine’s operating focus squarely on digital asset exposure and AI infrastructure demand rather than near term...
 
-TradingView • 7h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Surrender Early Gains as Midterm Polls Close—Analyst Sees ‘Sell the Rumor, Buy the News’ Play](https://www.tradingview.com/news/benzinga:f1a5c7082094b:0-bitcoin-ethereum-xrp-dogecoin-surrender-early-gains-as-midterm-polls-close-analyst-sees-sell-the-rumor-buy-the-news-play/)**
+
+Leading cryptocurrencies retreated late Tuesday evening as investors awaited the outcome of the midterm elections.Crypto Market on Election DayBitcoin climbed to an intraday high of $77,965.50 before pulling back later in the evening. Ethereum also gave up earlier gains with a sharp overnight decli…
+
+TradingView • 5h ago
 
 ---
 
 **[ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations](https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero)**
 
-CoinDesk • 12h ago
-
----
-
-**[Elon Musk’s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html)**
-
-Elon Musk’s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum USD (ETH-USD) Seasonal returns chart](https://au.finance.yahoo.com/quote/ETH-USD/seasonality/)**
-
-Ethereum USD (ETH-USD) seasonal returns chart provides the mean and median returns by month to inform your investment strategy.
-
-Yahoo Finance Australia • 1h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -186,7 +178,7 @@ Yahoo Finance Australia • 1h ago
 
 XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a better chance of rebounding by 2031.
 
-24/7 Wall St. • 1d ago
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -194,15 +186,7 @@ XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a b
 
 Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation...
 
-ethereum.org • 20h ago
-
----
-
-**[How Ethereum Infrastructure Fits Into Tokenized Securities Markets](https://www.floridatoday.com/story/special/contributor-content/2026/11/03/how-ethereum-infrastructure-fits-into-tokenized-securities-markets/92592354007/)**
-
-This article looks at how that infrastructure works, without suggesting what it could mean for any asset’s price or demand.
-
-Florida Today • 3h ago
+ethereum.org • 1d ago
 
 ---
 
@@ -210,21 +194,37 @@ Florida Today • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 18h ago
 
 ---
 
-**[Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish](https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish)**
+**[Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade](https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade)**
 
-Tom Lee laid out six reasons the market’s “muted” 4% Ethereum drop after the record Binance theft shows crypto is “increasingly resilient."
+Aztec, the privacy-focused Ethereum layer-2 network, has rolled out a major upgrade that fixes a critical vulnerability.
 
-Decrypt • 1d ago
+Decrypt • 16h ago
 
 ---
 
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rebound as November begins after a losing October](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-november-begins-after-a-losing-october-202611020358)**
+**[Tom Lee calls Ethereum’s 4% post-hack fall bullish](https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/)**
 
-FXStreet • 1d ago
+Tom Lee calls Ethereum’s 4% fall after Binance’s hack bullish. His Bybit comparison uses a longer period, while BitMine keeps buying ETH.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Aptos joins Solana and Ethereum in Bullish’s tokenized stock plan](https://www.thestreet.com/crypto/innovation/aptos-joins-solana-and-ethereum-in-bullishs-tokenized-stock-plan)**
+
+TheStreet • 12h ago
+
+---
+
+**[Ethereum Foundation highlights wallet protocols for enhanced privacy](https://cryptobriefing.com/ethereum-foundation-kohaku-wallet-privacy/)**
+
+The Ethereum Foundation's Kohaku SDK brings stealth addresses, shielded balances and formally verified privacy tools to Ethereum wallets.
+
+Crypto Briefing • 7h ago
 
 ---
 
@@ -232,63 +232,43 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🔥 Ethereum Stakers Won&#39;t Leave - ETH Crypto Analysis](https://www.youtube.com/watch?v=xpxZhELj-I4)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/7S92LtEi My Chart Software: https://the-bitcoin-strategy.com/tradingview ...
-
-📺 Bitcoin Strategy
-
-👁️ 779 • 👍 5 • 💬 3 • ⏱️ 12:49 • 8h ago
-
----
-
 **[Ethereum&#39;s Bull Case Is Getting INSANE - Here Are 3 Reasons Why](https://www.youtube.com/watch?v=0JeoNGi7C_o)**
 
 Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
 📺 Milk Road
 
-👁️ 17K • 👍 349 • 💬 121 • ⏱️ 47:29 • 1d ago
+👁️ 19K • 👍 369 • 💬 121 • ⏱️ 47:29 • 1d ago
 
 ---
 
-**[Is Cardano still an Ethereum killer?](https://www.youtube.com/watch?v=qfWr9pK_2dw)**
+**[Ethereum (ETH/USDT) daily check, 02 November 2026 #mindset #trading #cryptotrading](https://www.youtube.com/watch?v=DqJsr22iKDk)**
 
-cardano #ada #crypto Is Cardano still an Ethereum killer? We compare the two ecosystems to see how their market structures and ...
+Who's in control: neither side (long-term and short-term trends disagree). Verdict: NO TRADE · Level to watch: 2490.32 Don't trade ...
 
-📺 Crypto Dossier
+📺 Verdict of the Day
 
-👁️ 651 • 👍 88 • 💬 19 • ⏱️ 23:35 • 5h ago
-
----
-
-**[CRUCIAL XRP LEDGER SECURITY FLAW FOUND! Ethereum Was NOT Hacked!](https://www.youtube.com/watch?v=qWlCYaQ9RtQ)**
-
-CRUCIAL XRP LEDGER SECURITY FLAW FOUND! ETHEREUM IS BETTER? Hey babes, an XRP Ledger flaw was found that ...
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 208 • 💬 30 • ⏱️ 5:52 • 1d ago
+👁️ 80 • 👍 4 • ⏱️ 0:51 • 1d ago
 
 ---
 
-**[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=IPWeLJ5RaZk)**
+**[ETHEREUM swung $63.78 in 3 days](https://www.youtube.com/watch?v=5F0bvyseFwY)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+What happened to ETHEREUM? A 2.2% move over the last three days, broken down. Range $2242 - $2306. Follow ...
 
-📺 Crypto Nutshell
+📺 The Crypto Goblin
 
-👁️ 17K • 👍 306 • 💬 93 • ⏱️ 23:22 • 1d ago
+👁️ 2 • ⏱️ 0:39 • 14h ago
 
 ---
 
-**[Ethereum to $1,950? The $2,300 Warning 🚨](https://www.youtube.com/watch?v=q1AqepzGrAE)**
+**[Ethereum Bounces From Major Support. Is the Low In?](https://www.youtube.com/watch?v=0FRKySfUK9A)**
 
-Can Ethereum reclaim $2300—or is $1950 next? If $2300 acts as resistance, $1950 is the next area I'm watching. But a reclaim ...
+Ethereum is showing some upside momentum and is approaching the top of its channel. Here is what would confirm a low, and ...
 
-📺 Chart Champions
+📺 More Crypto Online
 
-👁️ 4K • 👍 78 • ⏱️ 0:50 • 1d ago
+👁️ 9K • 👍 222 • 💬 8 • ⏱️ 6:40 • 2d ago
 
 ---
 
@@ -298,37 +278,57 @@ Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free 
 
 📺 Milk Road
 
-👁️ 7K • 👍 77 • 💬 76 • ⏱️ 14:53 • 2d ago
+👁️ 7K • 👍 77 • 💬 74 • ⏱️ 14:53 • 2d ago
 
 ---
 
-**[BITCOIN WARNING: Next Price Target Activated (Get Ready)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SK6JlCm4efY)**
+**[Ethereum Head and Shoulders Targets $1,986 #Ethereum #ETH #ChartPattern](https://www.youtube.com/watch?v=v-aRP5khDos)**
 
-BITCOIN WARNING: Next Price Target Activated (Get Ready)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Ethereum Head and Shoulders Targets $1986 #Ethereum #ETH #ChartPattern ⏱️ From main video at 1:33 - 2:14 Watch full ...
 
-📺 Crypto World
+📺 The Trading Parrot
 
-👁️ 12K • 👍 291 • 💬 102 • ⏱️ 16:35 • 1d ago
-
----
-
-**[Schwab IMPACT 2026: Bitcoin, Ethereum Bulls Need &quot;New Narrative&quot;](https://www.youtube.com/watch?v=HzR1bo9RUr0)**
-
-Crypto is doing better following a steep downtrend into a bear market, though as @CharlesSchwab's Jim Ferraioli notes, that ...
-
-📺 Schwab Network
-
-👁️ 8K • 👍 39 • 💬 6 • ⏱️ 7:08 • 2d ago
+👁️ 453 • 👍 20 • 💬 2 • ⏱️ 1:02 • 2d ago
 
 ---
 
-**[A Whale Bought $63M of Ethereum Overnight!!](https://www.youtube.com/watch?v=1VItCDIU1jQ)**
+**[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=IPWeLJ5RaZk)**
 
-WEEX - where I trade (up to $10000+ in sign-up rewards) https://marzell.org/wx-v104 CoinGPT - the AI scanner I use for a ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Marzell Crypto
+📺 Crypto Nutshell
 
-👁️ 359 • 👍 8 • 💬 1 • ⏱️ 3:12 • 1d ago
+👁️ 18K • 👍 308 • 💬 93 • ⏱️ 23:22 • 2d ago
+
+---
+
+**[XRP HYPE 🚨 I AM FINISHED (Bitcoin Ethereum)](https://www.youtube.com/watch?v=gD77sM3hzFc)**
+
+Save 40% code MOE is back!* ➡https://join.stockmoeacademy.com/join-page *   FREE month of Earner Plus + 12 free fractional ...
+
+📺 Stock Moe
+
+👁️ 23K • 👍 562 • 💬 44 • ⏱️ 12:04 • 2d ago
+
+---
+
+**[The Race to Build the Private Ethereum](https://www.youtube.com/watch?v=UszyU_XrX9o)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Can Ethereum become private ...
+
+📺 Bankless
+
+👁️ 4K • 👍 77 • 💬 21 • ⏱️ 46:15 • 19h ago
+
+---
+
+**[How $6 Billion Crypto Was Stolen](https://www.youtube.com/watch?v=ibwI8ntxxjg)**
+
+The attacker left exactly one ETH behind on purpose. That's what let the heist keep going. One transaction pulled out roughly $2.5 ...
+
+📺 Andrei Jikh
+
+👁️ 33K • 👍 754 • 💬 28 • ⏱️ 1:08 • 1d ago
 
 ---
 

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-04T06:51:58.846414+00:00",
+  "data": {
+    "url": "https://arxiv.org/abs/2605.29713",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "description": "This book provides a compact, derivation-oriented introduction to the mathematical foundations of modern generative artificial intelligence. Rather than surveying every recent architecture or implementation detail, it develops a coherent route through the ideas connecting major families of generative models, from PCA, probabilistic PCA, variational autoencoders, and diffusion models to normalising flows, autoregressive factorisations, GANs, Wasserstein GANs, and energy-based models. The aim is to make the structure of generative modelling more accessible without removing the mathematical substance needed to understand how these models are derived and related. The book is intended as a foundation-building primer for mathematically curious researchers, practitioners, and students.",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+    "site_name": "arXiv.org",
+    "author": null,
+    "keywords": null
+  }
+}
