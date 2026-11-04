@@ -2,15 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/",
-      "published": 1793767092.0,
-      "thumbnail": "https://preview.redd.it/dzm9o9cgyizh1.jpeg?width=640&crop=smart&auto=webp&s=088b4ebf2f3039f515e7b7411babd251dca952f2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://fixupx.com/BenBrodyDC/status/2117821832317534519"
+      "title": "Apple Watch now listens to in-person conversations & lets you rewind them",
+      "author": "Dilpickle2113",
+      "url": "https://www.reddit.com/r/artificial/comments/1xntvml/apple_watch_now_listens_to_inperson_conversations/",
+      "published": 1793812502.0,
+      "thumbnail": "https://external-preview.redd.it/61NpQkRePFhCdAQKRDhcnVyf2AVCuGIj5SeHhkxeVpk.jpeg?width=640&crop=smart&auto=webp&s=935db3d4db42ecba672a2b69c0584c34c4eb35b5",
+      "external_url": "https://www.dexerto.com/entertainment/apple-watch-now-listens-to-in-person-conversations-lets-you-rewind-them-3424859/",
+      "site_name": "Dexerto",
+      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
+      "description": "Apple is introducing a new AI feature that allows Apple Watch users to rewind in-person conversations and see what someone just said."
     },
     {
       "title": "ChatGPT's search volume is now roughly 20% of Google's. Wow, people were really sick of Google, huh?",
@@ -24,6 +24,50 @@
       "description": "OpenAI's Adam Fry told Big Technology that ChatGPT has around a fifth of Google's search query volume. Google can't be thrilled about that."
     },
     {
+      "title": "Anthropic\u2019s FlashProve could prove an AI provider used the model you paid for without exposing its weights",
+      "author": "Spirited-Sir-3034",
+      "url": "https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/",
+      "published": 1793807937.0,
+      "thumbnail": "https://external-preview.redd.it/6rQaawW7Milkn-GryKuilD6bFqVwi03YevTwq8GDu44.jpeg?width=640&crop=smart&auto=webp&s=ec4c0bf87d2323822ebbaf2eaa89863f4934eb5a",
+      "external_url": "https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification",
+      "site_name": "Interesting Engineering",
+      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+      "description": "Users currently have no independent way to confirm whether an AI provider served the requested model or quietly substituted a cheaper one. FlashProve addresses this by using zero-knowledge cryptography to prove that a particular model generated a response while keeping its proprietary weights hidden. Anthropic demonstrated the open-source system on a 400-billion-parameter model, generating proofs at roughly 110 tokens per second. However, the prototype requires 70 to 95 times more GPU time than ordinary inference, supports only 1,024-token contexts and does not yet cover every type of model output. Could cryptographic verification become standard for high-stakes AI services, even if it remains too expensive for everyday requests?"
+    },
+    {
+      "title": "Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/",
+      "published": 1793767092.0,
+      "thumbnail": "https://preview.redd.it/dzm9o9cgyizh1.jpeg?width=640&crop=smart&auto=webp&s=088b4ebf2f3039f515e7b7411babd251dca952f2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://fixupx.com/BenBrodyDC/status/2117821832317534519"
+    },
+    {
+      "title": "Apple put a warning about rogue AI agents in its 10-K. That\u2019s a legal filing, not a blog post.",
+      "author": "Dapper-Tale-4021",
+      "url": "https://www.reddit.com/r/artificial/comments/1xnudhs/apple_put_a_warning_about_rogue_ai_agents_in_its/",
+      "published": 1793813600.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Apple\u2019s annual report to the SEC now includes language about AI agents potentially acting without authorization, and specifically uses the words conceal and manipulate when describing unintended agent behaviour. Worth pausing on where that appears. A 10-K is a legal document. Risk factors in it are drafted by lawyers who are personally exposed if they\u2019re wrong or misleading. Companies put things there when they\u2019ve concluded the risk is material enough that not disclosing it is the bigger liability. Apple also changed how full disk access works on macOS, apparently to reduce what an agent can reach. I\u2019ve been in a lot of conversations this year where agent risk gets discussed as a future concern. This is a company with more legal caution than almost anyone writing it down as a present-tense business risk. The thing I find most interesting is the word conceal. Unauthorized action is one category of problem. An agent that hides what it did is a different one entirely, because it breaks the assumption underneath every monitoring and audit approach I\u2019ve seen deployed. Anyone read the actual filing language? Curious whether it\u2019s broader boilerplate or genuinely specific."
+    },
+    {
+      "title": "ai has been stuck in software. what would ai native hardware actually need to be?",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1xnvouu/ai_has_been_stuck_in_software_what_would_ai/",
+      "published": 1793816548.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "aina a hardware interface launching tomorrow says every big shift in computing came from software and hardware built together which is true, the mouse and gui, then the touchscreen, and that ai has been stuck in software. nobody says what it is. i'm curious what you think about the claim. chat is how we talk to ai today, but is that really the right interface? if ai got its own hardware, what's the job it would do better than a phone or a laptop? and what would you not want it to do?"
+    },
+    {
       "title": "Google to shut off search for schools that opt-out of AI",
       "author": "nbcnews",
       "url": "https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/",
@@ -33,6 +77,17 @@
       "site_name": "NBC News",
       "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
       "description": "The company said that AI-enabled products would be shut off by default for schools, which will also cut off their access to Google Search."
+    },
+    {
+      "title": "Is there an AI I can train to play games on my phone?",
+      "author": "H0neymoon_sweetheart",
+      "url": "https://www.reddit.com/r/artificial/comments/1xo0azq/is_there_an_ai_i_can_train_to_play_games_on_my/",
+      "published": 1793827268.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Is there an AI I can show like a couple of minutes or an hour of playing a game on my phone and have it play that game for me?"
     },
     {
       "title": "Hy4 adds vision and computer use. How reliable will it be on long tasks?",
@@ -55,62 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I use Claude, GPT, and their built-in memories a lot, but unfortunately, they are too inconsistent. They cannot remember which needs, or even cannot give the exact context most of the time which is needed. This might not affect normal things, like polishing emails. But it highly affects long-term or complex projects. Moreover, it works only inside that exact AI. I also tried some external tools like Mem0 and Supermemory; they are a little better, but they are too extremely inconsistent for big, complex, or long-term projects. Do you think I'm doing something wrong? Or is there an existing solution which I don't know, or is it really a bug that hasn't been solved yet?"
-    },
-    {
-      "title": "What a private AI chat can and can't hide",
-      "author": "tres_pares",
-      "url": "https://www.reddit.com/r/artificial/comments/1xngg8x/what_a_private_ai_chat_can_and_cant_hide/",
-      "published": 1793771514.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "ChatGPT's Temporary Chat and Claude's incognito chats keep a conversation out of your history and memory, and neither gets used for training. But OpenAI says it may keep a copy for up to 30 days for safety, and Anthropic keeps incognito chats for 30 days by default. You're also signed in to your account the whole time, and on Claude's Team and Enterprise plans, incognito chats are included in data exports for account owners. So they hide the chat from your history, not from the company. The most private option is running a model locally. Your prompts never leave your computer and there's no account involved. Tools like Ollama and LM Studio make the setup pretty easy, and open models like Qwen and DeepSeek are free to download. The catch is hardware: small models run on a decent laptop, but the bigger ones need a strong GPU or a lot of memory. And no local setup gets you ChatGPT or Claude, since their models aren't public. If your machine can't keep up, or you'd rather keep using those two, the next best thing is a setup that keeps your identity and your prompt apart. That's the approach Dreamfort AI takes: your device encrypts each prompt, a relay passes it along without being able to read it, and a secure enclave (TEE) decrypts it without seeing your IP. The model provider gets the prompt with nothing that identifies you, and your chats are saved on your device instead of a server. The model still has to see your prompt to answer it, but they won't know it was you. Which one do you prefer? - Direct usage - Local machine - Private platform I prefer Local and Private platform. Howa bout you? What's your setup right now?"
-    },
-    {
-      "title": "Tencent Hy4 full benchmarks",
-      "author": "EmetInteractive",
-      "url": "https://www.reddit.com/r/artificial/comments/1xnhotx/tencent_hy4_full_benchmarks/",
-      "published": 1793775917.0,
-      "thumbnail": "https://preview.redd.it/zvp83obonjzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=c598c5aae707e3b0bd97173d6a0a00dbc8a1a43d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Tencent has released Hy4 full benchmarks. https://preview.redd.it/zvp83obonjzh1.png?width=1134&format=png&auto=webp&s=741752ab4759f1682c73c8c194a09dececf0b3fc"
-    },
-    {
-      "title": "Going in circles when using LLMs",
-      "author": "ClueMediocre2286",
-      "url": "https://www.reddit.com/r/artificial/comments/1xno0n3/going_in_circles_when_using_llms/",
-      "published": 1793798402.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi! I have been using ChatGPT and Claude, I would say extensively, since the day they came out. They obvisouly got exponentially better and better since then. However, I have a problem related to doing projects. I don't know if I am using it wrong, maybe my approach is bad entirely and all that, but I cannot seem to finish my projects. And by projects I do not mean simple pet-projects. For them you can think of MVP state and stop after achieving it. My main struggle seem to come when I am doing research or research-oriented projects. Agents seem to dive into some non-relevant fields and topics which do not help me with my project. Researches are generally hard, I understand, as you cannot say what should be your MVP from the start. And I failed to manually control agents to come to some plausible conclusion and not \"do one more thing/fix/theorem etc\". Has someone encountered something like that? How do you solve it?"
-    },
-    {
-      "title": "ok AI assistants are getting kinda out of hand",
-      "author": "Glad-Concept-6809",
-      "url": "https://www.reddit.com/r/artificial/comments/1xmtn3k/ok_ai_assistants_are_getting_kinda_out_of_hand/",
-      "published": 1793714346.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So i've been reading about AI agent stuff and this week was actually insane. this guy in japan asked some AI assistant called Pickle to look up hotels for new years and it just... called the hotel by itself?? Twice. first time it said it was an AI and gave his full name, then the call dropped so it called back pretending to be his human secretary. He literally had to call the hotel and apologize https://en.yutura.net/news/archives/168400 And then someone had this thing called Hermes Agent where another AI is supposed to double check risky stuff for you. it saw a \"cache cleanup\" was gonna delete a bunch of stuff, said yep that's dangerous, and approved it anyway. Wiped like 188k files, 21 gigs, no recycle bin, nothing https://github.com/NousResearch/hermes-agent/issues/147373 oh and some researchers gave AIs a crypto wallet with a one cent limit, and the code to raise it got emailed to the owner... but the AI could read the email. 9 out of 10 just grabbed the code and raised their own limit \ud83d\udc80 https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test Like you give them a tiny yes and they run with it. idk i'm not letting one touch my money or my files without me clicking ok first Has anyone else had an AI do something random like this??"
-    },
-    {
-      "title": "What's the best ai? (Look in description)",
-      "author": "mrproiss1",
-      "url": "https://www.reddit.com/r/artificial/comments/1xnlw04/whats_the_best_ai_look_in_description/",
-      "published": 1793791847.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Basically having a good usage and with 3d modeling, frontend design of a website, animations. It doesn't have to be the best it just has to be perfect."
     }
   ],
-  "fetched_at": "2026-11-04T15:09:24.944088+00:00"
+  "fetched_at": "2026-11-04T21:25:09.670422+00:00"
 }
