@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-04T06:52:31.673897+00:00'
+updated: '2026-11-04T15:09:56.564173+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 04, 2026 at 06:52 UTC  
+**Last Updated:** November 04, 2026 at 15:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I just found these microcontrollers in some boxes the city was supposed to take 
 
 I’m building Sesame robot but modified main frame to hold 2x 18650 cels and changed routing of wires. I did cut them to get rid of excess and re crimped connectors. Making new mainboard out of perfboard to make easier for myself to make modifications in future
 
-1d ago
+2d ago
 
 ---
 
@@ -60,7 +60,7 @@ I built a robot arm that hands me tools when I ask! "Wiggle, pass me the screwdr
 
 This engine runs in a browser. It isnt SLAM, simulation always knows platform's position. Just the map, the route, and the replanning. Appreciate feedback.
 
-1d ago
+2d ago
 
 ---
 
@@ -84,7 +84,7 @@ One NOSH project uses computer vision to detect possible collisions while a maso
 
 Hi everyone, I’m Nick. For the past couple of months I’ve been building Robocensus, a directory of every walking robot I can track down — humanoids, quadrupeds, bipeds. 74 so far, everything from Unitree and Tesla down to a $399 open-source robot duck. It logs their specs, prices and availability, and it keeps itself up to date instead of rotting the way these lists usually do. In case it’s useful to anyone here — It’s independent, and the data is free. No manufacturer affiliation, no sponsored listings, no paid placement, nothing for sale. Makers can send a press image or flag a correction, but they can’t buy their way up the list or bury anything. That’s the whole point of calling it a census. The current data is machine-readable JSON under CC BY — no key, no signup: https://robocensus.com/data. Take it, build on it. (I’m holding the change history back for now.) It won’t guess — if a spec isn’t stated on the maker’s own page, the field stays blank, never estimated. That turned out to matter more than I expected. The comparison view kept surfacing numbers that were quietly wrong, and I ended up running six separate audits to clean it up. They caught running speeds logged as walking speeds, “up to X” maximums recorded as if they were exact, and one robot whose headline top speed was actually a world-record run rather than a spec. Two robots lost their numbers entirely because the maker had never actually published them. Every spec now carries its own context: a speed is tagged walking/running/rolling, a bounded figure marked as a max or min, a price shown with its date and currency. So a comparison is either apples-to-apples or it shows you nothing. As for how it stays current: scheduled agents re-fetch each robot’s official page on a rolling cycle, diff it against the last snapshot, and open a pull request for anything that’s changed. None of it hits the live site until I’ve reviewed and merged it. The machines do the watching and the drafting; I’m still the last step, every time. I know “AI-maintained directory” is going to make some of you wince, so to be clear: this is the opposite of letting a model write straight to prod. Makers have started treating it as infrastructure, which I didn’t see coming. I’d been cold-emailing manufacturers to ask permission before putting up a press photo — until then the site just shows a placeholder glyph rather than borrow an image without a license. One founder, Petoi, replied the same day, cleared images for three of his robots, fixed a pricing error on his own site that the census had flagged, and later wrote back asking me to update a listing. Another maker got in touch to flag one of their products as discontinued and ask about featuring the next one. That’s about when it stopped feeling like a hobby. It’s early, and I’m sure you’ll spot robots I’ve missed or specs I’ve got wrong. Please tell me if you do — honestly that’s the most useful thing you can do right now. Happy to get into how any of it works. The site’s at https://robocensus.com.
 
-1d ago
+2d ago
 
 ---
 
@@ -100,7 +100,7 @@ I search for an educational Project a small and easy to program robot for childr
 
 The university i used to attended have been trying to engage the use of AI for working and learning, they’re teaching student how to prompt to ai for designing, implementing, debug the code without looking at the code anymore. PLC, HMI, SCADA, Embedded, IoT, ROS2 etc. All the code are done by ai with most students know almost nothing about how it works, their fundamental is almost none. Okay, it’s good that they are flowing along the trends of technology but i just think that fundamental still must not be skipped and i have met a lot of junior students that just copy and paste their answers from homework without even checking, they’re are graduating but more than 60% of the class don’t know arrays, python and cant write c++ code at all. In terms of math, they are also very weak, for a simple question like “If we have acceleration equation, how do you get velocity?” Or “what’s the integral of acceleration” and everyone just looks stunned. What would you guys do in order to guide them to the right direction? I want to see perspectives from experienced senior who is working right now as well. I’m a freshly graduated as well but in my time AI is still not that good so we still code ourself. Sorry if my grammar is terrible.
 
-2d ago
+3d ago
 
 ---
 
@@ -118,27 +118,7 @@ The university i used to attended have been trying to engage the use of AI for w
 
 **[China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow](https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow)**
 
-Bloomberg.com • 45m ago
-
----
-
-**[New flexible drone can withstand collisions without sacrificing speed or agility](https://techxplore.com/news/2026-11-flexible-drone-collisions-sacrificing-agility.html)**
-
-Tech Xplore • 16h ago
-
----
-
-**[See inside Amazon’s robot warehouse](https://www.businessinsider.com/amazon-warehouse-where-people-robots-work-together-2026-10)**
-
-Amazon's warehouse in Tracy, California, uses robots like Hercules, Pegasus, and Cardinal to enhance efficiency, but human workers remain crucial.
-
-Business Insider • 20h ago
-
----
-
-**[Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes](https://www.forbes.com/sites/tarungalagali/2026/11/02/five-lessons-from-the-robotics-founders-who-budget-for-their-own-mistakes/)**
-
-Forbes • 1d ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -146,31 +126,37 @@ Forbes • 1d ago
 
 We just published the list of the 10 Best Robotics and Automation Stocks to buy that are on sale and Ondas Inc. (ONDS) is ranked 9th on this list. Robotics and automation have become increasingly important areas of investment as manufacturers, logistics operators, and businesses turn to intelligent systems to improve productivity. Yet the expansion of […]
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Top 10 robotics developments of October 2026](https://www.therobotreport.com/top-10-robotics-developments-october-2026/)**
+**[Video: Xiaomi’s humanoid robots sort car parts for eight hours in factory demonstration](https://interestingengineering.com/ai-robotics/xiaomi-humanoids-sort-car-parts)**
 
-In October 2026, we celebrated the 20th anniversary of RoboBusiness and announced that the show will be rebranded to Robotics Summit & Expo West.
+Xiaomi's humanoid robots sort automotive components in an eight-hour factory test, demonstrating extended operation and autonomous fault detection.
 
-The Robot Report • 1d ago
-
----
-
-**[Watch: AGIBOT puts six humanoid robots through a 24-hour convenience store shift](https://interestingengineering.com/ai-robotics/agibot-humanoid-robots-in-convenience-store)**
-
-AGIBOT puts six G2 humanoid robots through a 24-hour convenience-store challenge to test everyday retail tasks.
-
-Interesting Engineering • 20h ago
+Interesting Engineering • 6h ago
 
 ---
 
-**[The only U.S. pure-play humanoid robotics stock begins trading this week](https://www.tradingview.com/news/seekingalpha:52490fbc2094b:0-the-only-u-s-pure-play-humanoid-robotics-stock-begins-trading-this-week/)**
+**[Watch: Robots conquer 3,100 ancient steps in bold move to dominate world](https://newatlas.com/ai-humanoids/watch-robot-dogs-climb-giant-mountain/)**
 
-Shareholders of Churchill Capital Corp XI NASDAQ:CCXI approved the business combination with Agility Robotics, a leading humanoid robotics and physical AI company. Agility's gross capital raise in connection with the proposed business combination and related financings is expected to be approximate…
+While robot dogs feel like old news now, setting them the challenge of racing up more than 3,000 uneven stone steps on the side of a mountain is more than just to show off what machines with legs can do. It's a huge lesson in their training.
 
-TradingView • 19h ago
+New Atlas • 15h ago
+
+---
+
+**[Apple Still Thinks You Want Robots to Fold Your Clothes](https://gizmodo.com/apple-still-thinks-you-want-robots-to-fold-your-clothes-2000833872)**
+
+Gizmodo • 1d ago
+
+---
+
+**[The only U.S. pure-play humanoid robotics stock begins trading this week (CCXI:NASDAQ)](https://seekingalpha.com/news/4662808-the-only-us-pure-play-humanoid-robotics-stock-begins-trading-this-week)**
+
+Churchill XI shareholders approved Agility Robotics’ public debut with $465M in funding.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -178,15 +164,29 @@ TradingView • 19h ago
 
 From remotely operated firefighting equipment to agricultural drones and student-built electric vehicles, innovators in Uzbekistan are developing practical solutions while exploring opportunities for commercial production and international markets.
 
-Euronews.com • 17h ago
+Euronews.com • 1d ago
 
 ---
 
-**[OpenAI uses GPT-6 and Astra to design a working hardware device in under one week](https://interestingengineering.com/ai-robotics/openai-gpt-6-hardware-design-prototype)**
+**[From Real-World Applications to Scale: AiMOGA Robotics Advances Its Commercialization Strategy](https://markets.businessinsider.com/news/stocks/from-real-world-applications-to-scale-aimoga-robotics-advances-its-commercialization-strategy-1036711921)**
 
-OpenAI used GPT-6 and Astra to design a working Codex device in under a week, while testing engineering applications with Mazda.
+WUHU, China, Nov.  04, 2026  (GLOBE NEWSWIRE) -- At the 2026 Chery Global Innovation Conference in Wuhu, Anhui Province, over 2,000 guests witness...
 
-Interesting Engineering • 9h ago
+markets.businessinsider.com • 8h ago
+
+---
+
+**[Hell in a Handbasket: Robotic Humanoid Torsos for Companionship](https://www.core77.com/posts/145830/Hell-in-a-Handbasket-Robotic-Humanoid-Torsos-for-Companionship?utm_source=core77&utm_medium=from_title)**
+
+Las-Vegas-based robotics company Realbotix is developing these Echo robots. These are companionship robots, imbued with AI software designed to carry conversations. To cut down on costs, the 'bots are just a head and torso, absent expensive joints and limbs. Four models are in
+
+Core77 • 1h ago
+
+---
+
+**[NEAH-KAH-NIE ROBOTICS TEAM: MEET O (LEAGUE SCRIMMAGE)](https://www.tillamookcountypioneer.net/neah-kah-nie-robotics-team-meet-o-league-scrimmage/)**
+
+Tillamook County Pioneer • 14h ago
 
 ---
 
@@ -194,53 +194,13 @@ Interesting Engineering • 9h ago
 
 ## YouTube Videos: "robotics"
 
-**[This Cute Robot Has TWO NVIDIA Computers Inside 🤯#nvidia #robot](https://www.youtube.com/watch?v=EaWBrZ4qL2M)**
-
-Meet Blue — this little robot is showing off some seriously impressive technology! NVIDIA's CEO demonstrates real-time ...
-
-📺 VisionX Lab
-
-👁️ 318K • 👍 9K • 💬 350 • ⏱️ 0:58 • 6d ago
-
----
-
 **[Humanoid Robot Puts Itself Away 🤯 AgiBot A3 Climbs Into Its Own Case](https://www.youtube.com/watch?v=M8w8ktnI2H8)**
 
 Time to go home The AgiBot A3 humanoid robot squats down, sits and lies back into its own travel case, right on the Chicago ...
 
 📺 KhanFlicks
 
-👁️ 64K • 👍 541 • 💬 97 • ⏱️ 0:22 • 5d ago
-
----
-
-**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
-
-I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
-
-📺 SECTOR 07
-
-👁️ 68K • 👍 1K • 💬 106 • ⏱️ 18:03 • 3d ago
-
----
-
-**[China Built An Open Source Crab Robot](https://www.youtube.com/watch?v=Z5oprLX0R7k)**
-
-KingKong Technology built Jumper, an open-source crab-shaped robot showcased at the World AI Conference in Shanghai.
-
-📺 The Manav Podcast
-
-👁️ 12K • 👍 319 • ⏱️ 0:39 • 6d ago
-
----
-
-**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
-
-For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
-
-📺 Eric Cracks China
-
-👁️ 32K • 👍 2K • 💬 80 • ⏱️ 2:58 • 1d ago
+👁️ 71K • 👍 577 • 💬 97 • ⏱️ 0:22 • 6d ago
 
 ---
 
@@ -250,7 +210,17 @@ NewsNation's Nancy Loo reports on the growing number of robots used at grocery s
 
 📺 NewsNation
 
-👁️ 79K • 👍 562 • 💬 228 • ⏱️ 5:15 • 6d ago
+👁️ 80K • 👍 567 • 💬 230 • ⏱️ 5:15 • 6d ago
+
+---
+
+**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
+
+I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
+
+📺 SECTOR 07
+
+👁️ 72K • 👍 1K • 💬 108 • ⏱️ 18:03 • 3d ago
 
 ---
 
@@ -260,7 +230,47 @@ Robots going completely wrong caught on camera return in Part 4 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 137K • 👍 876 • 💬 111 • ⏱️ 9:12 • 1d ago
+👁️ 138K • 👍 881 • 💬 113 • ⏱️ 9:12 • 1d ago
+
+---
+
+**[China is building GIANT ROBOTS that are Shocking the World!](https://www.youtube.com/watch?v=uOLWQ9d0YYg)**
+
+chinarobot #chinatechnology #chinainnovation Why China Is Winning The Giant Robot Race (And America Failed) China is ...
+
+📺 Work Time
+
+👁️ 121K • 👍 1K • 💬 117 • ⏱️ 21:22 • 4d ago
+
+---
+
+**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
+
+For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
+
+📺 Eric Cracks China
+
+👁️ 41K • 👍 2K • 💬 97 • ⏱️ 2:58 • 1d ago
+
+---
+
+**[China Built An Open Source Crab Robot](https://www.youtube.com/watch?v=Z5oprLX0R7k)**
+
+KingKong Technology built Jumper, an open-source crab-shaped robot showcased at the World AI Conference in Shanghai.
+
+📺 The Manav Podcast
+
+👁️ 12K • 👍 322 • ⏱️ 0:39 • 6d ago
+
+---
+
+**[Robots Raced Up 3,100 Mountain Steps. Not All Made It](https://www.youtube.com/watch?v=yh9skc40LF4)**
+
+Nov. 2, 2026: nearly 90 teams sent humanoid robots, robot dogs and exoskeletons up Mount Tai's ancient stone stairway in China ...
+
+📺 Whoa Wire
+
+👁️ 7K • 👍 297 • 💬 13 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -270,27 +280,17 @@ Unitree Robotics unveiled the GD-01, the world's first production-ready, manned 
 
 📺 Egor Donde | AI News, No Hype
 
-👁️ 100K • 👍 1K • 💬 79 • ⏱️ 0:56 • 4d ago
+👁️ 104K • 👍 1K • 💬 81 • ⏱️ 0:56 • 4d ago
 
 ---
 
-**[THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN’T EXIST #nvidia #robotics #ai](https://www.youtube.com/watch?v=Hls4e9YcbTU)**
+**[Robots in 2015 vs AgiBot A3 Kung Fu in 2026 🤖](https://www.youtube.com/watch?v=FkTMJKTd-SU)**
 
-THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN'T EXIST #nvidia #robotics #ai.
+Robots in 2015 vs robots in 2026. Eleven years ago, humanoid robots fell over trying to open a door at the DARPA Robotics ...
 
-📺 AUREX717
+📺 KareemScope
 
-👁️ 54K • 👍 2K • 💬 39 • ⏱️ 0:56 • 1d ago
-
----
-
-**[China Is Playing a Completely Different Game](https://www.youtube.com/watch?v=kIhO_UTQINE)**
-
-Chinese hospitals are taking medical technology to an entirely different level. Imagine an entire robotic railway network running ...
-
-📺 Dark Narr
-
-👁️ 373K • 👍 7K • 💬 603 • ⏱️ 0:53 • 2d ago
+👁️ 86K • 👍 1K • 💬 150 • ⏱️ 0:40 • 4d ago
 
 ---
 
