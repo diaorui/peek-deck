@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-04T00:06:17.350712+00:00'
+updated: '2026-11-04T06:52:31.673897+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 04, 2026 at 00:06 UTC  
+**Last Updated:** November 04, 2026 at 06:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ This engine runs in a browser. It isnt SLAM, simulation always knows platform's 
 
 How closely can a robot replicate the way humans move their mouths when speaking? We’ve recently made some exciting progress with Éloi’s lip-sync control! Éloi’s lip-sync system is designed to work across multiple languages, and so far, we’ve been testing it with English, Korean, and Japanese. Across different words and sentences, its lip and jaw movements are already showing a promising level of accuracy in reproducing natural human articulation. Of course, this is still a work in progress. We’re continuing to refine both the accuracy and naturalness of its movements. And next up? We’re planning to push Éloi a little further with some exaggerated mouth movements to show just how expressive and flexible its 17 degrees of freedom across the lips and jaw can be. More to come. Stay tuned! Animotion Robotics
 
-1d ago
+2d ago
 
 ---
 
@@ -108,7 +108,7 @@ The university i used to attended have been trying to engage the use of AI for w
 
 ​ I want to share an independent project I've been building: a remotely operated pneumatic turret integrated into a zombie defense game. The core idea is to let someone control a real physical machine over the internet, rather than simply playing a conventional video game. A player connects through a web browser, receives a live camera feed, and sends commands to a physical turret located in Phuket, Thailand. The system combines: A custom-designed pneumatic turret 3D-printed mechanical components Servo-based pan and tilt mechanism Pneumatic firing mechanism Electronic control and automation Internet-based remote command transmission Live video feedback A Unity-based game environment with animated zombies projected onto a physical screen The player interacts with the game, but the commands control an actual physical machine. The turret responds in real time. The project is an experiment in Remote Physical Control, with remote physical gaming as its first application. A quick note about the demonstration video: apologies for the limited video quality. I'm using a low-cost camera, and the room lighting is reduced to make the projected image more visible. I also filmed this myself while operating the turret, firing and reloading, so the footage is a little improvised. I'm particularly interested in the robotics and engineering aspects of this setup: How would you approach communication reliability and latency? What architecture would you use for safe remote operation? Would you classify this as networked teleoperation or a broader form of remote physical interaction? This is an independently developed prototype, and I'd appreciate technical feedback from the robotics community.
 
-1d ago
+2d ago
 
 ---
 
@@ -116,17 +116,37 @@ The university i used to attended have been trying to engage the use of AI for w
 
 ## Google News: "robotics"
 
-**[Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push](https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push)**
+**[China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow](https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow)**
 
-Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...
+Bloomberg.com • 45m ago
 
-The Information • 3d ago
+---
+
+**[New flexible drone can withstand collisions without sacrificing speed or agility](https://techxplore.com/news/2026-11-flexible-drone-collisions-sacrificing-agility.html)**
+
+Tech Xplore • 16h ago
+
+---
+
+**[See inside Amazon’s robot warehouse](https://www.businessinsider.com/amazon-warehouse-where-people-robots-work-together-2026-10)**
+
+Amazon's warehouse in Tracy, California, uses robots like Hercules, Pegasus, and Cardinal to enhance efficiency, but human workers remain crucial.
+
+Business Insider • 20h ago
 
 ---
 
 **[Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes](https://www.forbes.com/sites/tarungalagali/2026/11/02/five-lessons-from-the-robotics-founders-who-budget-for-their-own-mistakes/)**
 
 Forbes • 1d ago
+
+---
+
+**[22 Hedge Funds Back This Defeated Robotics Stock: Time to Buy the Dip?](https://finance.yahoo.com/markets/stocks/articles/22-hedge-funds-back-defeated-155920761.html)**
+
+We just published the list of the 10 Best Robotics and Automation Stocks to buy that are on sale and Ondas Inc. (ONDS) is ranked 9th on this list. Robotics and automation have become increasingly important areas of investment as manufacturers, logistics operators, and businesses turn to intelligent systems to improve productivity. Yet the expansion of […]
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -138,25 +158,19 @@ The Robot Report • 1d ago
 
 ---
 
-**[Walmart Pumps $6B Into Robotics Partnership](https://finance.yahoo.com/technology/articles/walmart-pumps-6b-robotics-partnership-210855989.html)**
+**[Watch: AGIBOT puts six humanoid robots through a 24-hour convenience store shift](https://interestingengineering.com/ai-robotics/agibot-humanoid-robots-in-convenience-store)**
 
-The deal with Symbotic retrofits existing regional distribution centers, while the retail giant is investing $400 million in a new San Antonio-area fulfillment center.
+AGIBOT puts six G2 humanoid robots through a 24-hour convenience-store challenge to test everyday retail tasks.
 
-Yahoo Finance • 1d ago
-
----
-
-**[See inside Amazon’s robot warehouse](https://www.businessinsider.com/amazon-warehouse-where-people-robots-work-together-2026-10)**
-
-Amazon's warehouse in Tracy, California, uses robots like Hercules, Pegasus, and Cardinal to enhance efficiency, but human workers remain crucial.
-
-Business Insider • 14h ago
+Interesting Engineering • 20h ago
 
 ---
 
-**[Laden with eggs, robots race up sacred Chinese mountain](https://techxplore.com/news/2026-11-laden-eggs-robots-sacred-chinese.html)**
+**[The only U.S. pure-play humanoid robotics stock begins trading this week](https://www.tradingview.com/news/seekingalpha:52490fbc2094b:0-the-only-u-s-pure-play-humanoid-robotics-stock-begins-trading-this-week/)**
 
-Tech Xplore • 1d ago
+Shareholders of Churchill Capital Corp XI NASDAQ:CCXI approved the business combination with Agility Robotics, a leading humanoid robotics and physical AI company. Agility's gross capital raise in connection with the proposed business combination and related financings is expected to be approximate…
+
+TradingView • 19h ago
 
 ---
 
@@ -164,27 +178,15 @@ Tech Xplore • 1d ago
 
 From remotely operated firefighting equipment to agricultural drones and student-built electric vehicles, innovators in Uzbekistan are developing practical solutions while exploring opportunities for commercial production and international markets.
 
-Euronews.com • 11h ago
+Euronews.com • 17h ago
 
 ---
 
-**[Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz to Scale Frontier Robotics Model Training, Manufacturing and Deployment](https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-%2475-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment)**
+**[OpenAI uses GPT-6 and Astra to design a working hardware device in under one week](https://interestingengineering.com/ai-robotics/openai-gpt-6-hardware-design-prototype)**
 
-Business Wire • 1d ago
+OpenAI used GPT-6 and Astra to design a working Codex device in under a week, while testing engineering applications with Mazda.
 
----
-
-**[Watch: AGIBOT puts six humanoid robots through a 24-hour convenience store shift](https://interestingengineering.com/ai-robotics/agibot-humanoid-robots-in-convenience-store)**
-
-AGIBOT puts six G2 humanoid robots through a 24-hour convenience-store challenge to test everyday retail tasks.
-
-Interesting Engineering • 14h ago
-
----
-
-**[Apple Still Thinks You Want Robots to Fold Your Clothes](https://gizmodo.com/apple-still-thinks-you-want-robots-to-fold-your-clothes-2000833872)**
-
-Gizmodo • 9h ago
+Interesting Engineering • 9h ago
 
 ---
 
@@ -198,7 +200,7 @@ Meet Blue — this little robot is showing off some seriously impressive technol
 
 📺 VisionX Lab
 
-👁️ 306K • 👍 9K • 💬 340 • ⏱️ 0:58 • 6d ago
+👁️ 318K • 👍 9K • 💬 350 • ⏱️ 0:58 • 6d ago
 
 ---
 
@@ -208,7 +210,17 @@ Time to go home The AgiBot A3 humanoid robot squats down, sits and lies back int
 
 📺 KhanFlicks
 
-👁️ 60K • 👍 520 • 💬 96 • ⏱️ 0:22 • 5d ago
+👁️ 64K • 👍 541 • 💬 97 • ⏱️ 0:22 • 5d ago
+
+---
+
+**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
+
+I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
+
+📺 SECTOR 07
+
+👁️ 68K • 👍 1K • 💬 106 • ⏱️ 18:03 • 3d ago
 
 ---
 
@@ -218,17 +230,7 @@ KingKong Technology built Jumper, an open-source crab-shaped robot showcased at 
 
 📺 The Manav Podcast
 
-👁️ 12K • 👍 319 • ⏱️ 0:39 • 5d ago
-
----
-
-**[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.youtube.com/watch?v=OzrF9T08D98)**
-
-NewsNation's Nancy Loo reports on the growing number of robots used at grocery stores to check inventory and restock items, ...
-
-📺 NewsNation
-
-👁️ 78K • 👍 559 • 💬 228 • ⏱️ 5:15 • 6d ago
+👁️ 12K • 👍 319 • ⏱️ 0:39 • 6d ago
 
 ---
 
@@ -238,37 +240,17 @@ For years, macroeconomic analysts predicted that rising wages and aging demograp
 
 📺 Eric Cracks China
 
-👁️ 25K • 👍 1K • 💬 65 • ⏱️ 2:58 • 23h ago
+👁️ 32K • 👍 2K • 💬 80 • ⏱️ 2:58 • 1d ago
 
 ---
 
-**[THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN’T EXIST #nvidia #robotics #ai](https://www.youtube.com/watch?v=Hls4e9YcbTU)**
+**[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.youtube.com/watch?v=OzrF9T08D98)**
 
-THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN'T EXIST #nvidia #robotics #ai.
+NewsNation's Nancy Loo reports on the growing number of robots used at grocery stores to check inventory and restock items, ...
 
-📺 AUREX717
+📺 NewsNation
 
-👁️ 36K • 👍 1K • 💬 27 • ⏱️ 0:56 • 1d ago
-
----
-
-**[Unitree Robotics launches GD-01, the first commercial manned mecha robot #Robotics #Mecha](https://www.youtube.com/watch?v=YYLURKBCiUg)**
-
-Unitree Robotics unveiled the GD-01, the world's first production-ready, manned mecha. This 8-foot-8, 1100-pound robot can ...
-
-📺 Egor Donde | AI News, No Hype
-
-👁️ 89K • 👍 1K • 💬 72 • ⏱️ 0:56 • 4d ago
-
----
-
-**[Robot STABS fake hand in ALARMING AI experiment #shorts](https://www.youtube.com/watch?v=G9MKmCk4vUg)**
-
-An AI robot was hacked to stab a fake human hand in an alarming university experiment demonstrating how hidden commands ...
-
-📺 Fox News
-
-👁️ 111K • 👍 885 • 💬 201 • ⏱️ 0:24 • 6d ago
+👁️ 79K • 👍 562 • 💬 228 • ⏱️ 5:15 • 6d ago
 
 ---
 
@@ -278,17 +260,37 @@ Robots going completely wrong caught on camera return in Part 4 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 133K • 👍 852 • 💬 108 • ⏱️ 9:12 • 1d ago
+👁️ 137K • 👍 876 • 💬 111 • ⏱️ 9:12 • 1d ago
 
 ---
 
-**[MANNI Gets The BIG PRIZE! Ultimate Shell Gameplay [War Robots]](https://www.youtube.com/watch?v=T3L62RanDJM)**
+**[Unitree Robotics launches GD-01, the first commercial manned mecha robot #Robotics #Mecha](https://www.youtube.com/watch?v=YYLURKBCiUg)**
 
-War Robots Gameplay & Account Development video: Manni gets the big prize: Ultimate Shell - Let's see how good it is going to ...
+Unitree Robotics unveiled the GD-01, the world's first production-ready, manned mecha. This 8-foot-8, 1100-pound robot can ...
 
-📺 Manni-Gaming
+📺 Egor Donde | AI News, No Hype
 
-👁️ 12K • 👍 444 • 💬 61 • ⏱️ 22:21 • 11h ago
+👁️ 100K • 👍 1K • 💬 79 • ⏱️ 0:56 • 4d ago
+
+---
+
+**[THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN’T EXIST #nvidia #robotics #ai](https://www.youtube.com/watch?v=Hls4e9YcbTU)**
+
+THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN'T EXIST #nvidia #robotics #ai.
+
+📺 AUREX717
+
+👁️ 54K • 👍 2K • 💬 39 • ⏱️ 0:56 • 1d ago
+
+---
+
+**[China Is Playing a Completely Different Game](https://www.youtube.com/watch?v=kIhO_UTQINE)**
+
+Chinese hospitals are taking medical technology to an entirely different level. Imagine an entire robotic railway network running ...
+
+📺 Dark Narr
+
+👁️ 373K • 👍 7K • 💬 603 • ⏱️ 0:53 • 2d ago
 
 ---
 
