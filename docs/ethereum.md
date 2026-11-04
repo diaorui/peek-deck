@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-04T15:09:56.562149+00:00'
+updated: '2026-11-04T21:25:42.491266+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 04, 2026 at 15:09 UTC  
+**Last Updated:** November 04, 2026 at 21:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,407.84
+### $2,421.41
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +5.6%  
-**7d:** +7.7%  
-**30d:** -10.0%  
-**90d:** +26.8%  
-**1y:** -29.0%  
+**7d:** +7.5%  
+**30d:** -10.3%  
+**90d:** +26.4%  
+**1y:** -29.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $296.42B
+**Market Cap:** $295.76B
 Rank #2
 
 **Circulating Supply:** 122,189,135 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.0%
+-51.1%
 
 **All-Time Low:** $0.43
-+560178.9%
++558938.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+15h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Found an old post on CREATE2 Wisp contracts (a contract created, used and selfdestructed in one call so the same address can run different code later) and the top question in the comments was what prevents someone from auditing one version and deploying another at the same address. The honest answer back then was “selfdestruct is a red flag, check Etherscan.” What happened since - the Tornado Cash governance attack in 2023 did exactly that and EIP-6780 (Dencun, March 2024) limited SELFDESTRUCT to contracts created in the same transaction. EIP-7702 (Pectra, May 2025) later let EOAs delegate to contract code. Does the Wisp pattern still work post-6780 (create, use and destroy in one tx) and is anyone using it? Is same-transaction metamorphism still a practical risk for governance or allowlists? And how are people checking code identity at execution time now, EXTCODEHASH at execution, something else? UPD thanks u/Bloqarl. So the Wisp pattern still works post-6780 because create and destroy happen in the same tx but swapping code at the same address across txs is dead and the bait and switch moved to upgradeable proxies (an EXTCODEHASH pin never changes while the logic does) and to 7702 accounts that can re-delegate in their next tx. Still curious how people pin code identity in practice
 
-2d ago
+3d ago
 
 ---
 
@@ -136,7 +136,7 @@ Found an old post on CREATE2 Wisp contracts (a contract created, used and selfde
 
 From the original post on x: Quantum computing poses a serious threat to the cryptography blockchains currently rely on, while advances in AI compress best estimates for the threat's timeline. That's why experts gathered in Cambridge to coordinate research upgrading our cryptography to be quantum-resistant.
 
-3d ago
+4d ago
 
 ---
 
@@ -152,9 +152,17 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 ## Google News: "ethereum"
 
-**[Most big cryptocurrencies increase as Ethereum rallies](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-increase-as-ethereum-rallies-51642d12-b2906bfb97c4)**
+**[Why Bitmine Immersion Technologies Stock Is In Focus After Its Ethereum Buying Spree](https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-stock-043344012.html)**
 
-MarketWatch • 9m ago
+Bitmine Immersion Technologies recently acquired nearly US$20 million of Ethereum, bringing its ETH holdings to 6.06 million tokens, equal to 4.9% of the 122.2 million total supply, alongside US$14.5b in combined crypto, cash and marketable securities. This sizeable Ethereum position, together with Tom Lee’s comments on the market’s resilience after the Binance hack, places Bitmine’s operating focus squarely on digital asset exposure and AI infrastructure demand rather than near term...
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Bullish Picks Solana, Aptos and Ethereum for Tokenized Shares](https://thedefiant.io/converge/tradfi-and-fintech/bullish-picks-solana-aptos-and-ethereum-for-tokenized-shares)**
+
+The Defiant • 16h ago
 
 ---
 
@@ -162,15 +170,7 @@ MarketWatch • 9m ago
 
 Bitcoin trades near the $78,000 mark on Wednesday amid institutional outflows and macroeconomic uncertainty. The cryptocurrency was trading at the $78,330 mark, and Ethereum was trading at $2,317.In the past 24 hours, Bitcoin and Ethereum were up 1.87% and 2.41%, respectively. Among the major altco…
 
-TradingView • 1h ago
-
----
-
-**[Current price of Ethereum for November 4, 2026](https://fortune.com/article/price-of-ethereum-11-04-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
+TradingView • 7h ago
 
 ---
 
@@ -180,27 +180,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?](https://www.fool.com/investing/2026/11/04/is-googles-new-cryptocurrency-service-a-reason-to/)**
+**[Most big cryptocurrencies increase as Ethereum rallies](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-increase-as-ethereum-rallies-51642d12-b2906bfb97c4)**
 
-The company's new platform plays to institutional cybersecurity concerns.
-
-The Motley Fool • 2h ago
+MarketWatch • 6h ago
 
 ---
 
-**[Elon Musk’s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html)**
+**[Current price of Ethereum for November 4, 2026](https://fortune.com/article/price-of-ethereum-11-04-2026/)**
 
-Elon Musk’s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ...
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 2d ago
+Fortune • 9h ago
 
 ---
 
-**[XRP or Ethereum: Which Is the Smarter Buy for the Next 5 Years?](https://247wallst.com/investing/cryptocurrency/2026/11/01/xrp-or-ethereum-which-is-the-smarter-buy-for-the-next-5-years/)**
+**[Ethereum’s decentralization model is the answer to an AI arms race: Vitalik Buterin](https://ambcrypto.com/ethereums-decentralization-model-is-the-answer-to-ai-arms-race-vitalik-buterin/)**
 
-XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a better chance of rebounding by 2031.
+Ethereum’s decentralization could strengthen its long-term value as AI risks increase demand for open infrastructure.
 
-24/7 Wall St. • 2d ago
+AMBCrypto • 6h ago
 
 ---
 
@@ -212,17 +210,19 @@ ethereum.org • 1d ago
 
 ---
 
-**[Next two years will be about survival, not winning for crypto exchanges: Ethereum co-founder Vitalik...](https://www.moneycontrol.com/news/business/startup/mc-interview-next-two-years-will-be-about-survival-not-winning-for-crypto-exchanges-ethereum-co-founder-vitalik-buterin-warns-amid-rising-hacks-14069557.html)**
+**[Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?](https://www.fool.com/investing/2026/11/04/is-googles-new-cryptocurrency-service-a-reason-to/)**
 
-If hacking remains a problem, then regulators will step in and start putting responsibility on companies to be more conservative, Buterin told Moneycontrol in an exclusive interview
+The company's new platform plays to institutional cybersecurity concerns.
 
-Moneycontrol.com • 4h ago
+The Motley Fool • 9h ago
 
 ---
 
-**[Aptos joins Solana and Ethereum in Bullish’s tokenized stock plan](https://www.thestreet.com/crypto/innovation/aptos-joins-solana-and-ethereum-in-bullishs-tokenized-stock-plan)**
+**[Bitcoin and Ethereum await a bounce as stocks slide](https://www.kitco.com/opinion/2026-11-04/bitcoin-and-ethereum-await-bounce-stocks-slide)**
 
-TheStreet • 21h ago
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
+
+Kitco • 5h ago
 
 ---
 
@@ -230,13 +230,13 @@ TheStreet • 21h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=qeo2K_BmmXI)**
+**[Why Ethereum Is Now Following the Amazon Playbook: Sharplink CEO](https://www.youtube.com/watch?v=tTM2FHu_2b0)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Is Ethereum having its Amazon moment? Sharplink CEO Joseph Chalom believes investors may be making the same mistake ...
 
-📺 Crypto Nutshell
+📺 Coinage
 
-👁️ 2K • 👍 74 • 💬 61 • ⏱️ 23:02 • 10h ago
+👁️ 3K • 👍 76 • 💬 22 • ⏱️ 20:55 • 6h ago
 
 ---
 
@@ -246,37 +246,27 @@ Trump loses, ETH gone, altcoins trades, and BTC charts BITUNIX TRADE THE TOP COI
 
 📺 Lark Davis
 
-👁️ 8K • 👍 324 • 💬 28 • ⏱️ 1:12:48 • 2h ago
+👁️ 18K • 👍 431 • 💬 60 • ⏱️ 1:12:48 • 8h ago
 
 ---
 
-**[THIS LOOKS VERY BULLISH FOR ETH! (Ethereum Update)](https://www.youtube.com/watch?v=sEaV_T6bbZY)**
+**[Ethereum RIPPED $225 Off the Low, I caught the Long!](https://www.youtube.com/watch?v=chO2jgQclYc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+WEEX - where my trade is placed (up to $10000+ in sign-up rewards) https://marzell.org/wx-v106 Ethereum (ETH) flushed to ...
 
-📺 Cilinix Crypto
+📺 Marzell Crypto
 
-👁️ 189 • 👍 12 • 💬 1 • ⏱️ 4:41 • 4h ago
-
----
-
-**[Crypto Must Survive Before It Wins: Vitalik Buterin on Ethereum&#39;s future, India&#39;s role and more](https://www.youtube.com/watch?v=Tx7RwC_ZZX4)**
-
-In an exclusive interview with Moneycontrol, Ethereum co-founder Vitalik Buterin discusses the challenges facing crypto ...
-
-📺 moneycontrol
-
-👁️ 48 • 👍 4 • 💬 1 • ⏱️ 23:45 • 2h ago
+👁️ 188 • 👍 9 • 💬 1 • ⏱️ 3:10 • 6h ago
 
 ---
 
-**[BITCOIN CRASH WARNING: DON&#39;T BE FOOLED BY THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-A_bAYz8DOE)**
+**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=qeo2K_BmmXI)**
 
-BITCOIN CRASH WARNING: DON'T BE FOOLED BY THIS!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Crypto World
+📺 Crypto Nutshell
 
-👁️ 13K • 👍 284 • 💬 71 • ⏱️ 18:37 • 12h ago
+👁️ 4K • 👍 85 • 💬 52 • ⏱️ 23:02 • 16h ago
 
 ---
 
@@ -286,17 +276,27 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 20K • 👍 383 • 💬 121 • ⏱️ 47:29 • 1d ago
+👁️ 21K • 👍 388 • 💬 123 • ⏱️ 47:29 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=EKedzHNqUoc)**
+**[THIS LOOKS VERY BULLISH FOR ETH! (Ethereum Update)](https://www.youtube.com/watch?v=sEaV_T6bbZY)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
 
-📺 Profit First
+📺 Cilinix Crypto
 
-👁️ 243 • 👍 47 • ⏱️ 5:36 • 1h ago
+👁️ 372 • 👍 16 • 💬 4 • ⏱️ 4:41 • 11h ago
+
+---
+
+**[That $63M Ethereum Whale Might Be a HACKER!!](https://www.youtube.com/watch?v=gEOhNwpd6mk)**
+
+CoinGPT - the AI Trade Agent I use for a second opinion, free to use https://marzell.org/cg-v105 WEEX - where my trade is ...
+
+📺 Marzell Crypto
+
+👁️ 204 • 👍 4 • 💬 1 • ⏱️ 3:30 • 1d ago
 
 ---
 
@@ -306,17 +306,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/7S92LtEi My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 2K • 👍 11 • 💬 4 • ⏱️ 12:49 • 23h ago
-
----
-
-**[Bitcoin &amp; Ethereum, Da war das weitere Tief, ab JETZT WILL ICH LONG SEIN!!](https://www.youtube.com/watch?v=gIPC9EVDhtA)**
-
-https://investicom.de/?onecid=01a1865c-fa73-714c-bb8f-465379f4647b Code: Mario50 gibt dir 50% Rabatt auf ALLE Tickets, wir ...
-
-📺 Krypto Trading & Investing
-
-👁️ 6K • 👍 540 • 💬 135 • ⏱️ 13:53 • 9h ago
+👁️ 2K • 👍 13 • 💬 4 • ⏱️ 12:49 • 1d ago
 
 ---
 
@@ -326,7 +316,17 @@ CRUCIAL XRP LEDGER SECURITY FLAW FOUND! ETHEREUM IS BETTER? Hey babes, an XRP Le
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 212 • 💬 32 • ⏱️ 5:52 • 1d ago
+👁️ 8K • 👍 212 • 💬 33 • ⏱️ 5:52 • 1d ago
+
+---
+
+**[Is Cardano still an Ethereum killer?](https://www.youtube.com/watch?v=qfWr9pK_2dw)**
+
+cardano #ada #crypto Is Cardano still an Ethereum killer? We compare the two ecosystems to see how their market structures and ...
+
+📺 Crypto Dossier
+
+👁️ 3K • 👍 157 • 💬 47 • ⏱️ 23:35 • 1d ago
 
 ---
 

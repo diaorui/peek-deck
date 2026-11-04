@@ -5,14 +5,24 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVl5ajFZZi1EeGhzbS1oVklzMVF4STNiTThRRkpPN0loaFdWWVpRTm5MNEJNTm5XZjVPSW9TYktkM3VORUNaUnB4Q3g5ZGZwYmdSOTVVQWg3T3JRVTVfZDlYb290NWdSZWlGMVpVbVlqdEhwWjdET2hCYk1yMmpzMWR4N3hLTk50R1VHdVBxZmQ3cFNyeXNiQlY5blZjYWtvZGdZdERISHVRVnkxYjBKLXJEVDI?oc=5",
-      "pub_date": 1793772420.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
-      "image": null,
-      "description": null
+      "headline": "Curbie Robot Aims to End Trash Bin Dragging Chores",
+      "source": "X",
+      "source_url": "https://x.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DalgxVHAzUVJpek13aU9mWDA2ZmprZmVaRXVCMG5UbHRzaUlqdXV1WnZURExYVzRmTW1xVV9SUHNwV0xoYnlMRUNZMUh3UW9HX1VrRExmSQ?oc=5",
+      "pub_date": 1793827050.0,
+      "article_url": "https://x.com/i/trending/2118035798113276100",
+      "image": "https://pbs.twimg.com/media/HWTmc9HbUAAKiht?format=webp&name=medium",
+      "description": "Revere Robotics is building Curbie, an autonomous device that clamps onto standard two-wheel trash bins, rolls them to the curb and back using the bin's own wheels, and manages loads over 120 pounds even on icy sidewalks. Safety features like tilt detection stop it if needed and alert owners, while it auto-releases for garbage trucks. The project is in prototype stage with field trials planned, drawing excitement for practical robotics alongside questions about cost and durability."
+    },
+    {
+      "headline": "Disney Accelerator's 2026 Demo Day Explores New Frontiers in Storytelling, Robotics, and Guest Experiences",
+      "source": "The Walt Disney Company",
+      "source_url": "https://thewaltdisneycompany.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jV0xVX0RpNEFreTE1QlZGNThiVlhnZmtCazBBQng0cEdjQzJnN0hsMGo4Q2hEOXdlREdwMzB3dUMwYm14NnZXRnN6WjVWa2twMGx2alJxeWJVaEYxVXIwZHZueS1tb1dLeEwybzZoTkNLdw?oc=5",
+      "pub_date": 1793744206.0,
+      "article_url": "https://thewaltdisneycompany.com/news/accelerator-demo-day-2026/",
+      "image": "https://thewaltdisneycompany.com/app/uploads/2026/11/20261103_DL3_2297-scaled.jpg",
+      "description": "The Disney Accelerator hosted its 2026 Demo Day, showcasing new collaborations with five companies: Promise, OpenArt, FieldAI, Physical Intelligence, & Simile."
     },
     {
       "headline": "22 Hedge Funds Back This Defeated Robotics Stock: Time to Buy the Dip?",
@@ -25,14 +35,44 @@
       "description": "We just published the list of the 10 Best Robotics and Automation Stocks to buy that are on sale and Ondas Inc. (ONDS) is ranked 9th on this list. Robotics and automation have become increasingly important areas of investment as manufacturers, logistics operators, and businesses turn to intelligent systems to improve productivity. Yet the expansion of [\u2026]"
     },
     {
-      "headline": "Video: Xiaomi\u2019s humanoid robots sort car parts for eight hours in factory demonstration",
+      "headline": "Dream, build, destroy, repeat",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdG1LdkhtWG45ZW1LMUhDYS1ybnVxWU1xUzE1eVE3MjdjdjUtbGx0SGI0Wk9xV3J4NUozTmZBU3FZZE1VaGcyNXNRLUJQNjV6bW5aYmU3ZXVGeV9QRGo1Y3YyWDR6V3V5emkzbC14aEFrRkhPMVlERnQ1LWFtVDBKb2xTdl8?oc=5",
+      "pub_date": 1793768400.0,
+      "article_url": "https://news.mit.edu/2026/dream-build-destroy-repeat-combat-robotics-club-1104",
+      "image": "https://news.mit.edu/sites/default/files/images/202611/CRC_03_0.jpeg",
+      "description": "The MIT Combat Robotics Club (CRC) builds high-energy fighting machines to compete in House Battles and larger competitions. Fans of the hit show BattleBots may remember some of CRC\u2019s past robots, including Uppercut, SawBlaze, the Dentist, and Overhaul."
+    },
+    {
+      "headline": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVl5ajFZZi1EeGhzbS1oVklzMVF4STNiTThRRkpPN0loaFdWWVpRTm5MNEJNTm5XZjVPSW9TYktkM3VORUNaUnB4Q3g5ZGZwYmdSOTVVQWg3T3JRVTVfZDlYb290NWdSZWlGMVpVbVlqdEhwWjdET2hCYk1yMmpzMWR4N3hLTk50R1VHdVBxZmQ3cFNyeXNiQlY5blZjYWtvZGdZdERISHVRVnkxYjBKLXJEVDI?oc=5",
+      "pub_date": 1793772420.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic unveils cryptographic tool to verify model outputs",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDhac0lOVHNSN3BzR1hGQ21hcThRaC14cnJTUTk0Y2taSHhXazlFdGRUbkY2ckJLeDJNQ19xNWF3X1hpOXl5YTBIdXB0aV95TlZzODkzUlZVMW5FQWtHbnZEWFowSnJ4aWxhWERfZWF5MnZJOHZKZEI1UWNiYnowME1XbFQ?oc=5",
-      "pub_date": 1793781780.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/xiaomi-humanoids-sort-car-parts",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-4.jpg",
-      "description": "Xiaomi's humanoid robots sort automotive components in an eight-hour factory test, demonstrating extended operation and autonomous fault detection."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1RXSTJyUGNZTjNLTVFNNkEwdzhVMVlPTnA1OV9ETko5T1MzU0RWSXVPM0NPVGtISVc2QjVGWlZXc2dTaFdMaENiQ2syY2NKYmRuWElwa3ZpZk9OTk05U1pYbUl3MGEzUVMyQlFFSmJlT01tY3RqS2x0bE8tV1V1MW5JeGE2SGpXbFZPTlQzWVEzempPS0p5Q3JnX0RwdG5oZEE?oc=5",
+      "pub_date": 1793761680.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/02/anthropic.jpg",
+      "description": "Anthropic's FlashProve uses cryptographic proofs to verify model responses while keeping proprietary weights hidden from users."
+    },
+    {
+      "headline": "The Anatomy Of Robots",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GYW9VQ2l3M2xoMEowT3h4TnNLTU1raVRwTnZtejNSZUZiNzI0Z203T0lOS21SbFg4WGNBcjhOYVRfdVZCOW81Qkd3TmRDakRtTUJZQ1JsUVdOLVptNEhxWjVUcl9JajM1aEMxT2dXMklPUURDZExIdGtNMzc4dw?oc=5",
+      "pub_date": 1793822449.0,
+      "article_url": "https://www.forbes.com/sites/johnwerner/2026/11/04/the-anatomy-of-robots/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Watch: Robots conquer 3,100 ancient steps in bold move to dominate world",
@@ -45,66 +85,26 @@
       "description": "While robot dogs feel like old news now, setting them the challenge of racing up more than 3,000 uneven stone steps on the side of a mountain is more than just to show off what machines with legs can do. It's a huge lesson in their training."
     },
     {
-      "headline": "Apple Still Thinks You Want Robots to Fold Your Clothes",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFczd21jMjRHY3NkS3dLdUU0aHBjWk9admFHRXcxR2pLZ3NJaVBaWVhOV0x3RjdwdVphZFF6c0pTNzJaX0U5VEdXbGVQbFpsX2hDMGRVbUp5Q01iLWpPUzRBazNqV3F3ZTdiV2k2eHJQTkpyQ1lOaVFjTjcxU0E5QzJTbVNfMThXZTFpa3RpTQ?oc=5",
-      "pub_date": 1793715638.0,
-      "article_url": "https://gizmodo.com/apple-still-thinks-you-want-robots-to-fold-your-clothes-2000833872",
+      "headline": "Who's Buying The Future Of AI And Robotics: 2026 M&A Report",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX081YWpKeWZXZnFPaC1BZnZnN2tFQ1hkRnlMcVZRbG5BYjBvdlZEOTdzdEsxRERoekh6X3A5Sk5KTEV0dW54a0hpUWpxUk5wNlB0bFl4UDU0QlB6ZWJkcTdOVTFfUGljRVRNSmdha0hmb3d1dHpnXzdTbEhKWDRiNHRQcnJWTG5oWUlNVy1BZEVDOUJ6NVNmR2M3dkt6RS1fM0JtN05MU1pZTmQtQTVGNg?oc=5",
+      "pub_date": 1793822700.0,
+      "article_url": "https://seekingalpha.com/article/4962467-whos-buying-future-of-ai-robotics-2026-mergers-and-acquistiions-report",
       "image": null,
       "description": null
     },
     {
-      "headline": "The only U.S. pure-play humanoid robotics stock begins trading this week (CCXI:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVJBQ2U4U0pDMmxwNW95OGJMSG9IcVc4SmdfVFdEQTdkSzJNSlJYTGJkV2RQN1ZzSlNRMlVwSzFHZjdxbmdTT0pyZUc3ZEYyMldLSjZIeFgxUmVqOXlYRVRIX0hnbHQ1LUoxekFqRWduR2RyS1c3MEZBUzYwbmx6empickZxYkFBaW5CbVZkYmN0MFVvZDl2eGE0eEszV0lQVDJHR1VFVXZHZnhW?oc=5",
-      "pub_date": 1793706109.0,
-      "article_url": "https://seekingalpha.com/news/4662808-the-only-us-pure-play-humanoid-robotics-stock-begins-trading-this-week",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2149589805/image_2149589805.jpg?io=getty-c-w630",
-      "description": "Churchill XI shareholders approved Agility Robotics\u2019 public debut with $465M in funding."
-    },
-    {
-      "headline": "Robots, drones and renewable energy: The highlights of InnoWeek 2026",
-      "source": "Euronews.com",
-      "source_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalk0MUVxYXRBQnNfZkJVNzdiRFZBMnhDalRjTGVnS1pUMnRVX3lrX2I2dktKUEhPRUJRRWtVZnFpZVdGRVh2ZHJjTkUwZ0RJNXhXR2lNeGYzUXI0US1kRWp1TXlPNi14akFGTHV0emJKcTVvYWZXekdnaXZ3UngwZ3F5YTAybHlUMktDWVQtVE9jY1FKeVVrVzRyWnhGY1o3SUxiMmc1RjlkUQ?oc=5",
-      "pub_date": 1793710812.0,
-      "article_url": "https://www.euronews.com/2026/11/03/innoweek-2026-showcases-advances-in-robotics-aviation-and-clean-energy",
-      "image": "https://images.euronews.com/articles/stories/09/97/34/11/1200x675_cmsv2_9feb8f1b-aae6-57a3-b41b-2436f2cfe53e-9973411.jpg",
-      "description": "From remotely operated firefighting equipment to agricultural drones and student-built electric vehicles, innovators in Uzbekistan are developing practical solutions while exploring opportunities for commercial production and international markets."
-    },
-    {
-      "headline": "From Real-World Applications to Scale: AiMOGA Robotics Advances Its Commercialization Strategy",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUEzYjRqVHUwS19uOUF4SVJGYTVmRm02eFdMYlotQ29DN0RELWxqX0VIV1J5dlhmWVVDbU1nYS1Rb1RLMkVoV2MxNmVLdENFZFZ3ZVhRVU9UaTI2dVdLX0dSeEtqc3hKSksyTFJPZ1ZvR3JSY29OOTRkUXd2YTVGNlhKaV9mZG9iYVk0Qlg1NFZQcmd1WWYtd1lkbmNBZmhXTFhQZkRYelIwTHQ5MVFmTTJCMkhlZV9mbVJXd1VnQ05QUzdmWGZvcUtUQjFkVFNuamxIRDR1eEdRMWwzRUdOTFJ4RG9ZUU0?oc=5",
-      "pub_date": 1793775981.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/from-real-world-applications-to-scale-aimoga-robotics-advances-its-commercialization-strategy-1036711921",
-      "image": "https://ml.globenewswire.com/Resource/Download/3e1a2f6f-489a-4578-b392-b33e7b5f1426/02.jpg",
-      "description": "WUHU, China, Nov.  04, 2026  (GLOBE NEWSWIRE) -- At the 2026 Chery Global Innovation Conference in Wuhu, Anhui Province, over 2,000 guests witness..."
-    },
-    {
-      "headline": "Hell in a Handbasket: Robotic Humanoid Torsos for Companionship",
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVA4SEhpZGQ1dXhMMW5DUGZnZjMyTnJxT1ZBcE0waHlTMURYWjN5QUVuZVRESVpsNjZzUkxIQTJseVBKZmpvWENjSktSVjNRYlhzVjBYSjNTUThoVGlKWmViMjBuY2p0NkNmMHNhalZRUzVDLW9vVVpKU0VjbEZXQ09iYU0tZ0xwMTVUZFhQZVBzbkM2em93UVZyQXhvYnFCMjQzMl9wanl5Mi10VU9xcmRwTWdTb1pYS3BJWklGZGpUR1FsY1lybDBMcTJSQ3hMN1J6Zg?oc=5",
-      "pub_date": 1793801323.0,
-      "article_url": "https://www.core77.com/posts/145830/Hell-in-a-Handbasket-Robotic-Humanoid-Torsos-for-Companionship?utm_source=core77&utm_medium=from_title",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1856090_lead_400_145830_.jpeg",
-      "description": "Las-Vegas-based robotics company Realbotix is developing these Echo robots. These are companionship robots, imbued with AI software designed to carry conversations. To cut down on costs, the 'bots are just a head and torso, absent expensive joints and limbs. Four models are in"
-    },
-    {
-      "headline": "NEAH-KAH-NIE ROBOTICS TEAM: MEET O (LEAGUE SCRIMMAGE)",
-      "source": "Tillamook County Pioneer",
-      "source_url": "https://www.tillamookcountypioneer.net",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVRmOFZOOUJUWDloWnVETkpybG9zOEF0S1RlTzA3cHBvcTRLS1VYWmptb0FKc01xYzk4blVhLVFESm1zR1lmUS1GYVVoN1J0a2EzdTB1N3kxR2hFYmFwQkoyUUZTdmtNUDJpN1ZGZzJVd2l4ZlE2cTh2QUhpUjdYX0F6Nm5jRmNNOXYyQS04dkljdlJy?oc=5",
-      "pub_date": 1793753216.0,
-      "article_url": "https://www.tillamookcountypioneer.net/neah-kah-nie-robotics-team-meet-o-league-scrimmage/",
-      "image": "https://www.tillamookcountypioneer.net/wp-content/uploads/2026/11/NKNRobitics10.24.jpg",
-      "description": null
+      "headline": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0g1bFRLcklad1pJZFZ3Wk9qUlZmaU9KNUhwek80VTNTRUlqc1NJSkhkMERGNUcxSUdxOHVQSVpJaXNYRjJfZm5aVF9Ic2JrS0l0RmIyMXpuS21ybzRtbUg2dmFWQmdHZFZfUExJWl9SeUotcEVfSGk3RU14aXBlWnZHMmNzQktlWEFUY2lCYWE4Z1M5ZlRpY3I2WWtVZWtpT3c?oc=5",
+      "pub_date": 1793805970.0,
+      "article_url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/globallogic-haystack-featured.jpg",
+      "description": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-04T15:09:53.259673+00:00"
+  "fetched_at": "2026-11-04T21:25:39.905808+00:00"
 }
