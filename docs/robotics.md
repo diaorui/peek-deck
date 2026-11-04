@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-04T15:09:56.564173+00:00'
+updated: '2026-11-04T21:25:42.494581+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 04, 2026 at 15:09 UTC  
+**Last Updated:** November 04, 2026 at 21:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I just found these microcontrollers in some boxes the city was supposed to take due to a shop filing for bankruptcy, how much would ALL these be around?
 
-1d ago
+2d ago
 
 ---
 
@@ -52,7 +52,7 @@ I’m building Sesame robot but modified main frame to hold 2x 18650 cels and ch
 
 I built a robot arm that hands me tools when I ask! "Wiggle, pass me the screwdriver" → it finds it, picks it up and drops it right into my hand. No training. Just Meta's Muse Spark + SAM 3.1 on a $250 robot arm. Built for the Meta AI hackathon Check it on X and engage
 
-1d ago
+2d ago
 
 ---
 
@@ -76,7 +76,7 @@ How closely can a robot replicate the way humans move their mouths when speaking
 
 One NOSH project uses computer vision to detect possible collisions while a masonry robot helps a worker position concrete blocks. The other uses aerial video to identify workers, equipment and openings that could pose a fall hazard. Both projects deal with visibility on active construction sites. Dust can obscure sensors, lighting changes during a shift, and equipment or building materials can block a camera’s view. For mobile robots, uneven ground and changes to temporary access routes also affect navigation. The NIOSH bulletin identifies several things to track during deployment, including sensor faults, localization failures and how often someone takes over manual control. Repeated takeovers can help identify conditions the robot struggles with. The article also distinguishes between using a camera to flag a possible hazard for review and relying on it to stop a machine before someone gets hurt.
 
-🔗 [Automate](https://automate.org/robotics/industry-insights/construction-robots-are-getting-smarter-the-jobsite-is-still-their-biggest-safety-challenge/boa) • 1d ago
+🔗 [Automate](https://automate.org/robotics/industry-insights/construction-robots-are-getting-smarter-the-jobsite-is-still-their-biggest-safety-challenge/boa) • 2d ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi everyone, I’m Nick. For the past couple of months I’ve been building Robo
 
 I search for an educational Project a small and easy to program robot for children, i would love a small humanoid for this. Something like PLEN2 or PLEN:bit looks like what i search for but i can't find any Instructions online and i cant access the plen site anymore. What happened to them? Arent they around anymore? Is there something else i could consider? Or a good alternative to PLEN? Ideally working with scratch Right now we use the Lego spike Essential and prime Sets and also have one of those new ai Sets. I also already looked into makeblock and will buy one of their Sets to check out.
 
-1d ago
+2d ago
 
 ---
 
@@ -116,9 +116,19 @@ The university i used to attended have been trying to engage the use of AI for w
 
 ## Google News: "robotics"
 
-**[China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow](https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow)**
+**[Curbie Robot Aims to End Trash Bin Dragging Chores](https://x.com/i/trending/2118035798113276100)**
 
-Bloomberg.com • 9h ago
+Revere Robotics is building Curbie, an autonomous device that clamps onto standard two-wheel trash bins, rolls them to the curb and back using the bin's own wheels, and manages loads over 120 pounds even on icy sidewalks. Safety features like tilt detection stop it if needed and alert owners, while it auto-releases for garbage trucks. The project is in prototype stage with field trials planned, drawing excitement for practical robotics alongside questions about cost and durability.
+
+X • 8m ago
+
+---
+
+**[Disney Accelerator's 2026 Demo Day Explores New Frontiers in Storytelling, Robotics, and Guest Experiences](https://thewaltdisneycompany.com/news/accelerator-demo-day-2026/)**
+
+The Disney Accelerator hosted its 2026 Demo Day, showcasing new collaborations with five companies: Promise, OpenArt, FieldAI, Physical Intelligence, & Simile.
+
+The Walt Disney Company • 23h ago
 
 ---
 
@@ -126,15 +136,35 @@ Bloomberg.com • 9h ago
 
 We just published the list of the 10 Best Robotics and Automation Stocks to buy that are on sale and Ondas Inc. (ONDS) is ranked 9th on this list. Robotics and automation have become increasingly important areas of investment as manufacturers, logistics operators, and businesses turn to intelligent systems to improve productivity. Yet the expansion of […]
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Video: Xiaomi’s humanoid robots sort car parts for eight hours in factory demonstration](https://interestingengineering.com/ai-robotics/xiaomi-humanoids-sort-car-parts)**
+**[Dream, build, destroy, repeat](https://news.mit.edu/2026/dream-build-destroy-repeat-combat-robotics-club-1104)**
 
-Xiaomi's humanoid robots sort automotive components in an eight-hour factory test, demonstrating extended operation and autonomous fault detection.
+The MIT Combat Robotics Club (CRC) builds high-energy fighting machines to compete in House Battles and larger competitions. Fans of the hit show BattleBots may remember some of CRC’s past robots, including Uppercut, SawBlaze, the Dentist, and Overhaul.
 
-Interesting Engineering • 6h ago
+MIT News • 16h ago
+
+---
+
+**[China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow](https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow)**
+
+Bloomberg • 15h ago
+
+---
+
+**[Anthropic unveils cryptographic tool to verify model outputs](https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification)**
+
+Anthropic's FlashProve uses cryptographic proofs to verify model responses while keeping proprietary weights hidden from users.
+
+Interesting Engineering • 18h ago
+
+---
+
+**[The Anatomy Of Robots](https://www.forbes.com/sites/johnwerner/2026/11/04/the-anatomy-of-robots/)**
+
+Forbes • 1h ago
 
 ---
 
@@ -142,51 +172,21 @@ Interesting Engineering • 6h ago
 
 While robot dogs feel like old news now, setting them the challenge of racing up more than 3,000 uneven stone steps on the side of a mountain is more than just to show off what machines with legs can do. It's a huge lesson in their training.
 
-New Atlas • 15h ago
+New Atlas • 21h ago
 
 ---
 
-**[Apple Still Thinks You Want Robots to Fold Your Clothes](https://gizmodo.com/apple-still-thinks-you-want-robots-to-fold-your-clothes-2000833872)**
+**[Who's Buying The Future Of AI And Robotics: 2026 M&A Report](https://seekingalpha.com/article/4962467-whos-buying-future-of-ai-robotics-2026-mergers-and-acquistiions-report)**
 
-Gizmodo • 1d ago
-
----
-
-**[The only U.S. pure-play humanoid robotics stock begins trading this week (CCXI:NASDAQ)](https://seekingalpha.com/news/4662808-the-only-us-pure-play-humanoid-robotics-stock-begins-trading-this-week)**
-
-Churchill XI shareholders approved Agility Robotics’ public debut with $465M in funding.
-
-Seeking Alpha • 1d ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[Robots, drones and renewable energy: The highlights of InnoWeek 2026](https://www.euronews.com/2026/11/03/innoweek-2026-showcases-advances-in-robotics-aviation-and-clean-energy)**
+**[How GlobalLogic helped Haystack Robotics build a UV disinfection robot](https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/)**
 
-From remotely operated firefighting equipment to agricultural drones and student-built electric vehicles, innovators in Uzbekistan are developing practical solutions while exploring opportunities for commercial production and international markets.
+When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment.
 
-Euronews.com • 1d ago
-
----
-
-**[From Real-World Applications to Scale: AiMOGA Robotics Advances Its Commercialization Strategy](https://markets.businessinsider.com/news/stocks/from-real-world-applications-to-scale-aimoga-robotics-advances-its-commercialization-strategy-1036711921)**
-
-WUHU, China, Nov.  04, 2026  (GLOBE NEWSWIRE) -- At the 2026 Chery Global Innovation Conference in Wuhu, Anhui Province, over 2,000 guests witness...
-
-markets.businessinsider.com • 8h ago
-
----
-
-**[Hell in a Handbasket: Robotic Humanoid Torsos for Companionship](https://www.core77.com/posts/145830/Hell-in-a-Handbasket-Robotic-Humanoid-Torsos-for-Companionship?utm_source=core77&utm_medium=from_title)**
-
-Las-Vegas-based robotics company Realbotix is developing these Echo robots. These are companionship robots, imbued with AI software designed to carry conversations. To cut down on costs, the 'bots are just a head and torso, absent expensive joints and limbs. Four models are in
-
-Core77 • 1h ago
-
----
-
-**[NEAH-KAH-NIE ROBOTICS TEAM: MEET O (LEAGUE SCRIMMAGE)](https://www.tillamookcountypioneer.net/neah-kah-nie-robotics-team-meet-o-league-scrimmage/)**
-
-Tillamook County Pioneer • 14h ago
+The Robot Report • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ Time to go home The AgiBot A3 humanoid robot squats down, sits and lies back int
 
 📺 KhanFlicks
 
-👁️ 71K • 👍 577 • 💬 97 • ⏱️ 0:22 • 6d ago
+👁️ 75K • 👍 586 • 💬 98 • ⏱️ 0:22 • 6d ago
 
 ---
 
@@ -210,7 +210,7 @@ NewsNation's Nancy Loo reports on the growing number of robots used at grocery s
 
 📺 NewsNation
 
-👁️ 80K • 👍 567 • 💬 230 • ⏱️ 5:15 • 6d ago
+👁️ 80K • 👍 567 • 💬 232 • ⏱️ 5:15 • 6d ago
 
 ---
 
@@ -220,17 +220,7 @@ I built a little AI powered robot that can play fetch. Meet Fetch, a fully auton
 
 📺 SECTOR 07
 
-👁️ 72K • 👍 1K • 💬 108 • ⏱️ 18:03 • 3d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
-
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 138K • 👍 881 • 💬 113 • ⏱️ 9:12 • 1d ago
+👁️ 78K • 👍 2K • 💬 110 • ⏱️ 18:03 • 4d ago
 
 ---
 
@@ -240,17 +230,7 @@ chinarobot #chinatechnology #chinainnovation Why China Is Winning The Giant Robo
 
 📺 Work Time
 
-👁️ 121K • 👍 1K • 💬 117 • ⏱️ 21:22 • 4d ago
-
----
-
-**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
-
-For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
-
-📺 Eric Cracks China
-
-👁️ 41K • 👍 2K • 💬 97 • ⏱️ 2:58 • 1d ago
+👁️ 122K • 👍 1K • 💬 117 • ⏱️ 21:22 • 4d ago
 
 ---
 
@@ -260,17 +240,47 @@ KingKong Technology built Jumper, an open-source crab-shaped robot showcased at 
 
 📺 The Manav Podcast
 
-👁️ 12K • 👍 322 • ⏱️ 0:39 • 6d ago
+👁️ 12K • 👍 323 • ⏱️ 0:39 • 6d ago
 
 ---
 
-**[Robots Raced Up 3,100 Mountain Steps. Not All Made It](https://www.youtube.com/watch?v=yh9skc40LF4)**
+**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
 
-Nov. 2, 2026: nearly 90 teams sent humanoid robots, robot dogs and exoskeletons up Mount Tai's ancient stone stairway in China ...
+Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
 
-📺 Whoa Wire
+📺 History Seeker
 
-👁️ 7K • 👍 297 • 💬 13 • ⏱️ 0:46 • 1d ago
+👁️ 86K • 👍 2K • 💬 55 • ⏱️ 0:09 • 4d ago
+
+---
+
+**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
+
+For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
+
+📺 Eric Cracks China
+
+👁️ 47K • 👍 2K • 💬 105 • ⏱️ 2:58 • 1d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 138K • 👍 895 • 💬 115 • ⏱️ 9:12 • 2d ago
+
+---
+
+**[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
+
+Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
+
+📺 Jordan Blake
+
+👁️ 38K • 👍 968 • 💬 9 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -280,17 +290,7 @@ Unitree Robotics unveiled the GD-01, the world's first production-ready, manned 
 
 📺 Egor Donde | AI News, No Hype
 
-👁️ 104K • 👍 1K • 💬 81 • ⏱️ 0:56 • 4d ago
-
----
-
-**[Robots in 2015 vs AgiBot A3 Kung Fu in 2026 🤖](https://www.youtube.com/watch?v=FkTMJKTd-SU)**
-
-Robots in 2015 vs robots in 2026. Eleven years ago, humanoid robots fell over trying to open a door at the DARPA Robotics ...
-
-📺 KareemScope
-
-👁️ 86K • 👍 1K • 💬 150 • ⏱️ 0:40 • 4d ago
+👁️ 108K • 👍 1K • 💬 85 • ⏱️ 0:56 • 4d ago
 
 ---
 
