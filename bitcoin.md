@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-04T15:09:56.558273+00:00'
+updated: '2026-11-04T21:25:42.484992+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 04, 2026 at 15:09 UTC  
+**Last Updated:** November 04, 2026 at 21:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,499.00
+### $80,265.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.6%  
-**7d:** +3.3%  
-**30d:** -5.9%  
-**90d:** +24.1%  
-**1y:** -22.6%  
+**24h:** +3.0%  
+**7d:** +2.8%  
+**30d:** -6.3%  
+**90d:** +23.5%  
+**1y:** -23.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1612.32B
+**Market Cap:** $1610.62B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.4%
+-36.5%
 
 **All-Time Low:** $67.81
-+118161.3%
++118037.4%
 
 ---
 
@@ -135,7 +135,7 @@ I feel like Fidelity got their ducks in a row cause of their reputation. Coinbas
 
 If the future of finance requires people to become their own bank, secure their own keys, and accept potentially irreversible losses, how many ordinary people will actually want that responsibility? I’ve been a Bitcoin investor for quite a while, but someone asked me this question and I didn’t have a good answer
 
-2d ago
+3d ago
 
 ---
 
@@ -149,43 +149,29 @@ If the future of finance requires people to become their own bank, secure their 
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide](https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide)**
-
-CoinDesk • 1h ago
-
----
-
-**[Riot Platforms Tops Revenue Estimates, Signs $28 Billion AI Lease for Corsicana Campus](https://finance.yahoo.com/technology/ai/articles/riot-platforms-tops-revenue-estimates-141000840.html)**
-
-Bitcoin miner and AI data center developer Riot Platforms (NASDAQ: $RIOT) reported third-quarter revenue of $181.4 ...
-
-Yahoo Finance • 59m ago
-
----
-
 **[Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda](https://www.bloomberg.com/news/articles/2026-11-04/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda)**
 
-Bloomberg.com • 2h ago
+Bloomberg • 4h ago
 
 ---
 
-**[Bitcoin (BTC) surges to $78,300. What next?](https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades)**
+**[Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave](https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide)**
 
-CoinDesk • 6h ago
-
----
-
-**[Will Crypto Rally After the Midterm Elections? If History Is Any Guide, This Happens Next.](https://finance.yahoo.com/markets/crypto/articles/crypto-rally-midterm-elections-history-103500958.html)**
-
-Crypto has only been around since 2009, but the sector's movement following midterms shows a clear trend.
-
-Yahoo Finance • 4h ago
+CoinDesk • 54m ago
 
 ---
 
 **[Mapping the Market: Bitcoin could extend losses](https://www.reuters.com/technology/global-markets-technicals-graphic-2026-11-04/)**
 
-Reuters • 4h ago
+Reuters • 10h ago
+
+---
+
+**[VanEck’s Matthew Sigel: We're bullish on Bitcoin](https://www.cnbc.com/video/2026/11/04/vaneckas-matthew-sigel-were-bullish-on-bitcoin.html)**
+
+Matthew Sigel, VanEck head of digital assets, joins 'Power Lunch' to discuss crypto currencies rallying after the midterms and what a blue wave could mean for the future of crypto investing and regulation.
+
+CNBC • 1h ago
 
 ---
 
@@ -193,7 +179,29 @@ Reuters • 4h ago
 
 Tristan Thompson has boarded 'Satoshi,' a new film about bitcoin’s pseudonymous creator, to be directed by Jason Zada and shot in Saudi Arabia.
 
-Variety • 23h ago
+Variety • 1d ago
+
+---
+
+**[Riot Platforms Reports Third Quarter 2026 Financial Results and Strategic Highlights](https://www.riotplatforms.com/riot-platforms-reports-third-quarter-2026-financial-results-and-strategic-highlights/)**
+
+Riot Platforms | • 8h ago
+
+---
+
+**[Bitcoin hits $80,000, triggering $415M in liquidations](https://www.tradingview.com/news/cryptobriefing:a8f38f910094b:0-bitcoin-hits-80-000-triggering-415m-in-liquidations/)**
+
+Bitcoin pushed through $80,000, and the derivatives market paid for it. The rally triggered more than $415 million in crypto liquidations.Short sellers absorbed most of the damage, with $330 million of that total coming from short positions. Traders who bet against the climb found out the hard way…
+
+TradingView • 6h ago
+
+---
+
+**[Could Buying Bitcoin Today Set You Up For Life?](https://www.fool.com/investing/2026/11/04/could-buying-bitcoin-today-set-you-up-for-life/?source=iedfolrf0000001)**
+
+Bitcoin may have a difficult time delivering an encore performance over the next decade.
+
+The Motley Fool • 10m ago
 
 ---
 
@@ -205,17 +213,11 @@ The Hacker News • 1d ago
 
 ---
 
-**[Riot Platforms Reports Third Quarter 2026 Financial Results and Strategic Highlights](https://www.riotplatforms.com/riot-platforms-reports-third-quarter-2026-financial-results-and-strategic-highlights/)**
-
-Riot Platforms | • 1h ago
-
----
-
 **[Andrew Hohns: Why Bitcoin Can Fix America’s Debt Spiral](https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral)**
 
 Battery Finance’s Andrew Hohns explains why taxes won’t fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds.
 
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -227,7 +229,7 @@ Bitcoin Magazine • 23h ago
 
 Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.
 
-⬆️ 30 • 💬 8 • 1d ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
+⬆️ 30 • 💬 8 • 2d ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
 
 ---
 
@@ -243,7 +245,7 @@ Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs developme
 
 Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.
 
-⬆️ 7 • 💬 1 • 3d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
+⬆️ 8 • 💬 1 • 3d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
 
 ---
 
@@ -257,7 +259,7 @@ CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux s
 
 **[The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers](https://news.ycombinator.com/item?id=50357834)**
 
-⬆️ 3 • 💬 1 • 18h ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
+⬆️ 3 • 💬 1 • 1d ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
 
 ---
 
@@ -273,7 +275,7 @@ Michael Saylor argues AI risks target crypto apps, not Bitcoin's ledger, compari
 
 Wallets linked to Mercado Bitcoin’s security breach remained active after transactions were paused. The exchange said customers suffered no losses.
 
-⬆️ 2 • 💬 0 • 1d ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
+⬆️ 2 • 💬 0 • 2d ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
 
 ---
 
@@ -305,63 +307,93 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Reverses As Washington Flips](https://www.youtube.com/watch?v=QcXOWV2RUxs)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 752 • 💬 102 • ⏱️ 49:34 • 5h ago
+
+---
+
+**[This Could Be the Next BIG Move on Bitcoin](https://www.youtube.com/watch?v=uAINN7KjDRs)**
+
+The next big move on bitcoin explained. We discuss with trader Charlie Burton the recent pullback on bitcoin and whether it is still ...
+
+📺 Alessio Rastani
+
+👁️ 19K • 👍 876 • 💬 133 • ⏱️ 8:16 • 6h ago
+
+---
+
 **[Bitcoin Holders: What A Democratic Sweep Means For Your Holdings (My Plan)](https://www.youtube.com/watch?v=MEuriFlgmQE)**
 
 Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trade on BTCC & 10% ...
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 332 • 💬 50 • ⏱️ 12:26 • 11h ago
+👁️ 12K • 👍 380 • 💬 54 • ⏱️ 12:26 • 17h ago
 
 ---
 
-**[BITCOIN: OOHYESSSS!!!! SANTA RALLY AHEAD](https://www.youtube.com/watch?v=n6Htd4SDw68)**
+**[Bitcoin Shook Everyone Out at $76K: New Altcoin Trades I&#39;m Taking](https://www.youtube.com/watch?v=eFcJuyJvJPw)**
 
-Newsletter: https://bullmania.com/ Bullmania Arena: https://arena.bullmania.com 00:00 Big Fat Recovery Ahead! 01:15 ...
+Bitcoin tagged 76K last night as Democrats took the House and Senate, right at the 50-week SMA near 75600, and bounced.
 
-📺 Ivan on Tech
+📺 VirtualBacon
 
-👁️ 17K • 👍 1K • 💬 64 • ⏱️ 57:21 • 4h ago
-
----
-
-**[The Bitcoin Trap No One Is Expecting! [Confirmation Soon]](https://www.youtube.com/watch?v=f8nmXF_IoD8)**
-
-Today's live market breakdown dissects critical trap-based scenarios for Bitcoin. We'll identify key liquidation heatmaps and ...
-
-📺 Crypto Banter
-
-👁️ 21K • 👍 1K • 💬 12 • ⏱️ 50:21 • 7h ago
+👁️ 12K • 👍 353 • 💬 100 • ⏱️ 1:30:46 • 4h ago
 
 ---
 
-**[Crypto Is About To Get INSANE… You’ve Been Warned!](https://www.youtube.com/watch?v=TW-_iOfg8fA)**
+**[WHAT&#39;S NEXT FOR BITCOIN AFTER MIDTERMS (in under 3 minutes...)](https://www.youtube.com/watch?v=FTDawkOYBrg)**
 
-Sign-up for Coinbase & Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction: https://t.co/bEhNQqLhY2 REGISTER ...
+Midterm results are in and the Democrats swept the House and the Senate. In under 3 minutes I break down what that means for ...
 
-📺 Altcoin Daily
+📺 100XClub
 
-👁️ 79K • 👍 3K • 💬 132 • ⏱️ 10:51 • 1d ago
-
----
-
-**[Binance Founder CZ issues big WARNING (AI &amp; crypto)](https://www.youtube.com/watch?v=SeiK0TLVNYg)**
-
-Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 60K • 👍 2K • 💬 128 • ⏱️ 11:28 • 13h ago
+👁️ 8K • 👍 644 • 💬 66 • ⏱️ 2:51 • 11h ago
 
 ---
 
-**[$3 Million Bitcoin WARNING - Citi Just Published Its Guide To Buying Bitcoin](https://www.youtube.com/watch?v=IgkjSTO3XHo)**
+**[FORGET MIDTERMS: Bitcoin is About to Explode BUT Not For The Reasons You Think!!! | EP 1627](https://www.youtube.com/watch?v=8t3teiOaggg)**
 
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts $3 MILLION ...
+Midterms end in a blue tsunami but bitcoin shrugs it off and close to half a billion in shorts were liquidated - why would bitcoin ...
 
-📺 Bitcoin News Alerts
+📺 Simply Bitcoin
 
-👁️ 15K • 👍 242 • 💬 86 • ⏱️ 15:05 • 20h ago
+👁️ 5K • 👍 232 • 💬 67 • ⏱️ 1:33:48 • 46m ago
+
+---
+
+**[Bitcoin Should Be CRASHING After The Blue Wave](https://www.youtube.com/watch?v=T8VdyLZcBas)**
+
+Bitcoin should be crashing after the blue wave, but it bounced. Ledn's Mauricio Di Bartolomeo joins me on what a Democratic ...
+
+📺 The Wolf Of All Streets
+
+👁️ 16K • 👍 523 • 💬 58 • ⏱️ 48:40 • 6h ago
+
+---
+
+**[🔴 EN DIRECTO: ¿Qué pasará con Bitcoin HOY? ➤ Análisis del mercado tras las elecciones en EEUU](https://www.youtube.com/watch?v=5gPip3M6Kwk)**
+
+Qué está pasando con Bitcoin?. Analizamos el precio de SPCX. ¿Qué pasará con Bitcoin? ¿Hasta dónde sube el petróleo?
+
+📺 ZCoinTV
+
+👁️ 11K • 👍 519 • ⏱️ 2:28:15 • 3h ago
+
+---
+
+**[BITCOIN &amp; THIS CRYPTO: NEW $2.5 MILLION TRADE!](https://www.youtube.com/watch?v=v5UnfN3wN4A)**
+
+Claim a Free Bitcoin & Monero $500 Position here: https://partner.bybit.com/b/500xmr [click]
+
+📺 MMCrypto
+
+👁️ 19K • 👍 958 • 💬 158 • ⏱️ 7:11 • 9h ago
 
 ---
 
@@ -371,37 +403,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Read my
 
 📺 Benjamin Cowen
 
-👁️ 110K • 👍 3K • 💬 63 • ⏱️ 7:24 • 2d ago
-
----
-
-**[THIS IS WHY BITCOIN IS DUMPING...](https://www.youtube.com/watch?v=UbXyM8ah-kk)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
-
-📺 Crypto Rover
-
-👁️ 18K • 👍 609 • 💬 38 • ⏱️ 9:57 • 10h ago
-
----
-
-**[Why Bitcoin Is Holding Strong After a $6.3B Hack?](https://www.youtube.com/watch?v=bSmFGoAKPBc)**
-
-Why Bitcoin Is Holding Strong After a $6.3B Hack? A reported $6.3 billion Binance hack has shaken crypto markets, but the timing ...
-
-📺 Simply Bitcoin
-
-👁️ 32K • 👍 1K • 💬 162 • ⏱️ 34:09 • 2d ago
-
----
-
-**[Bitcoin (BTC): A Massive Move Will Occur THIS WEEK... Be Ready! (WARNING)](https://www.youtube.com/watch?v=kGhWdaKKH1I)**
-
-Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Excluding Australian Viewers) 15% off ...
-
-📺 MegaWhale Crypto
-
-👁️ 18K • 👍 485 • 💬 64 • ⏱️ 20:18 • 2d ago
+👁️ 111K • 👍 3K • 💬 63 • ⏱️ 7:24 • 2d ago
 
 ---
 
