@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-11-04T06:52:30.667569+00:00",
+  "data": "Numbat is a massive ~14T parameter, 114-layer causal language model featuring a hybrid GDN/MLA architecture with Mixture-of-Experts (MoE) and Multi-Token Prediction (MTP). This mid-pretraining checkpoint, derived from Anthropic's Mythos-class training runs, is suitable for research and experimentation in large-scale language modeling.",
+  "model_id": "burner22/numbat"
+}
