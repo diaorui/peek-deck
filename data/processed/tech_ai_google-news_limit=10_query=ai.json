@@ -9,13 +9,13 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
-      "pub_date": 1793726484.0,
+      "pub_date": 1793739220.0,
       "article_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Google to shut off search for schools that opt-out of AI",
+      "headline": "Google to shut off search for schools that opt out of AI",
       "source": "NBC News",
       "source_url": "https://www.nbcnews.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXBsSzByWUh5YVNuZGpjVXRtQ21SMG0waXByX0JZVl85eGJ4M25FOExEMDJGTWpXbjJJa1dheEJLSXV1WEo3VWtMWEFaeWNfeW1FcWNpVTBZY2htRWxMdVExVVRvYjFQYUJyTXVSTjktMFc4VEJXb19JRTNTelM0NTh2akZrdFBTdVZr?oc=5",
@@ -25,64 +25,44 @@
       "description": "The company said that AI-enabled products would be shut off by default for schools, which will also cut off their access to Google Search."
     },
     {
-      "headline": "Google Curbs AI in School Accounts After Pushback",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEpoOVBCTWZMaE5yTk5JeG0tX0FWdk5OZkY1d1dWQXQycUZGR2xwTks3VDlNaTJENmF6ZjM1QzFTN3QzRENuNFFlUjRqdk1FTW5WSWRDU2o3N1dEMEJsaFEzUGt2NGEyUXhXSHB6dF92R2U4d0U4SUN4UHN6LVhCNnJWamlqM2NzenBDWjAyVQ?oc=5",
-      "pub_date": 1793731140.0,
-      "article_url": "https://www.wsj.com/tech/ai/google-curbs-ai-in-school-accounts-after-pushback-6b8021fc",
-      "image": null,
-      "description": null
+      "headline": "Parents Angry After School's AI Move With 6-Year-Olds",
+      "source": "Newser",
+      "source_url": "https://www.newser.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEppMWp4d00zYkRrR1hKV19QTGtCSFhibklXU1Z3UUI1LW1fakZ2dlJILVZjeTF6UmJiLVU4NDcza1pnNmZUQkZVeUZjS3M4YTN4TnhpN0gwdXl0a2tFc3BXNkp2VG1tLWVlU3U0ZmJjM0w5YlJWTWh0cXoxN1RTcTJsT0Nrejl0eTFwQ3VB?oc=5",
+      "pub_date": 1793747400.0,
+      "article_url": "https://www.newser.com/story/399302/do-you-know-how-your-kids-school-is-using-ai.html",
+      "image": "https://cdn.newser.com/image/1721976-12-20261103174003.jpeg",
+      "description": "Photos show them as adults in their hoped-for future careers"
     },
     {
-      "headline": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5",
-      "pub_date": 1793657690.0,
-      "article_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
-      "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
-    },
-    {
-      "headline": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+      "headline": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xMlVlY0MtTHpoVEU4UlM3dk9mTzF4dl9pOUJWLUFuY2tPR3diQ3UzODhyYUN0aWctV3RDUF9Ba2RzR0k3QUw3ZXdLd013NlRSNEpEbl9jSWNMMUhRNEg3UGw1RGpObGxMTEVqenhfUdIBdEFVX3lxTE9jZzllUGdZQ2R0d1pmQ0cwNm9uWU5sZHV1dUx5dW5Oa1Y4TWZPaU9ZT0NQSVhKYWZYN0tJM2otdUh5dEhCMVB4dk9oZGdKUk1MQTVpX3RlZnZNblExaVNRLWpQT2FxX1BhX09NeTRYb0dLOXZk?oc=5",
-      "pub_date": 1793730829.0,
-      "article_url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108443814-1792619674225-gettyimages-2296209323-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080",
-      "description": "Meta is aiming to raise between $20 billion and $25 billion in a bond sale as the company ramps up spending on infrastructure and AI models and services."
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGk5Z3RYZDNLZmJIN2FraWVkTm9paXBOd0w0c0lTQ2p1Z2lXZjhzR0VnTjJCVk5UU1pGRG5sTElvY3hhYW5Ta19pN1dHNzcwZW9PSDFoLXlBcTBQVFlSbFZYQWxPaXE1WHFVOFZUTHZ0ZTlWLTBpNjE3cnRPWllZYlVDUjRmaVY0QXgzODRxLW1nSmw3VXBLV0EyZENMeDVkU24tR2VwTmZoYmJnOFI3QVp6am9md9IBuwFBVV95cUxNTmsxR1FYWlNubkpfbXhSNmZDcmlhWjBWb3ZETDRnOVd2VWp4bU11Rmg0Rnc4b2hnLUF5WEJtWE0tT0EwdGswZE54ODhRWl9EYWYzLW93S2ZhVDFOTWRXSFg5WWN4TS1IdGJ3YnNMb2JEdDU2cnlkb2JPVl9HcnNJdUNkLU9BaXdFWkxDMkRYNXBqSnBQNGlDd1gwQW5uZzhvLWJsTnZaR3otbEZSVUxjamNUdlhKN0poblR3?oc=5",
+      "pub_date": 1793749027.0,
+      "article_url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108217884-1761665721330-gettyimages-2243356966-AFP_829T3E8.jpeg?v=1767895191&w=1920&h=1080",
+      "description": "\"Enabling agents to work safely is a massive market opportunity for CrowdStrike,\" CrowdStrike CEO George Kurtz told CNBC's Jim Cramer."
     },
     {
-      "headline": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+      "headline": "Please stop asking me when the AI bubble will pop",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR1QzbGZrdkZuSHR2ME1YT2JSd0diU3M2YVE5VDZfczdaYjl4MHRrVWJVOVAwM1IzbERuV0kzU3BiZC1jQmlhX3kxS0lGeDFkVElUaEtxQzBTYmk3WUotd3ZhaktoQWZCdGV3Ql9kZFprMW0xQ3JLeU1zSkdSQkdfOERqT09Dd1ljSlRwbUp2bTR6dw?oc=5",
+      "pub_date": 1793749065.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
+      "description": "I\u2019m getting some real mixed messages here, boys!"
+    },
+    {
+      "headline": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjFCTnQtNlFzNmJjWEhkR3JkR0tLa1l3THpYclotUGpBM1hoNUFoS01FSnVTVTIxYW1WVi1laGcwNjRhNWRNRTc4LXJEYWItMHJfQ2J6ejdRQVJnTUtyWnF4TWxIN3Bya0NfUEdzdUdRNGlLbFkzTVBZZGduNjRJdjJHUjDSAYoBQVVfeXFMT1JzT05XMVota3o1TWNCV28zSlhySmtvWU5obUhHR2tGa290REN1aGFEMlI5TmpJUS1VS003UjNQbDBya3VDNFh1TnU4aUZvN0wxWndZdlpDd010aGpYYVZRRTU2YnJ2MXhTZE51VkNEeWo4dWZhR3R5dDQtNnFnLVZ5Qk5tX1BBcE53?oc=5",
-      "pub_date": 1793687788.0,
-      "article_url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108508380-1793682175370-gettyimages-2302813920-HK_INVESTMENT_SUMMIT.jpeg?v=1793682188&w=1920&h=1080",
-      "description": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
-    },
-    {
-      "headline": "AI Debt is Hitting Record Levels at the Worst Possible Time",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XUzNQdlFoWm1SRmVwV2pjOHJxWENiVzFnSEdSWDlrQUktNTBzVVg0QUNubjhmZEVOQ3BuTGhPRVNEcEdlb2owMHktV284SE94akQxcEtDbEhYR0J0bmx3S1ZOTUtzYTZ6RkFFTndMSi1VVVdQbXRhRm9WeTlkZw?oc=5",
-      "pub_date": 1793731080.0,
-      "article_url": "https://www.barrons.com/articles/ai-debt-markets-amazon-alphabet-3e8faeb5",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMG1vRmR1UlRrQUhRdWYxcGJaZ2NiQUVTeXY1bE5KVlhwS1pxQ3RxbEt0YnVQalp6dlFSYVIzODAxUk9QQ1dGTHo2VWhXcENfYWZGWDdGOUdLV09fTTV3dXQtX2RiblFDMWViSUwtWkpXWjNRR0EtYnQzdHlxNS1GUTZmV3NIbmxBYy12RE40VE5jVjRyYnF4RlJXRHZSdURHVXltbDJyVjVIOEZhZHc?oc=5",
-      "pub_date": 1793721619.0,
-      "article_url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVJIWkp5OFN3T2lxV05NUmlFaUt4UzFTQlo4dGZnOEJ3SDJiS1lSX1hqSkY4a3BUenltR1Jpc0JXdU02VEkwaGhQLWdKdm9fSHZwV2NnMHFCdE94b0dSY0dJdm9JMHlvYzNKNW52RmkyYkpTNTdkVDc0RW82SG5XQV9tM0szTDVuMlRDWFdRc1hEaGRPTXdlbGF4Yzl4ZWJGSFRua19td9IBrAFBVV95cUxQRGNRVF9HVC11VTEwM2phOGtXbEZoVzhRekRQNW5VX0o0VGNtbEp0RGk0cjFNcW5YQjNEclQ3a3pONmh1LUE2SkhMdVhhcWN2VDVWR19yU0pxNFhBWGxLY05GRjJWVEpNdGNYaGlyeTRnTkowVjJWaXZ4VTBOZ1pWSndqaGM4RnM2V1kxcEtuaWhFX3h1Y2ZPSDFCMXpObzloblpGYU1fcVgwOV93?oc=5",
+      "pub_date": 1793736641.0,
+      "article_url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108476032-1793212556121-gettyimages-2301906289-APPLE_EVENT.jpeg?v=1793212650&w=1920&h=1080",
+      "description": "Apple\u2019s annual filing warns that AI agents could exceed permissions, resist instructions or take actions that are difficult to reverse."
     },
     {
       "headline": "Apple Launches Beta Versions of Watch AI Listening Tools, New Health App",
@@ -95,16 +75,36 @@
       "description": null
     },
     {
-      "headline": "Apple Is an AI Safe Haven\u2014but Safety Isn\u2019t Cheap",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXB2Vm1NLVhnZGpidHJQanlpdzBaZjRWSmxBc1dMOWdWdXRIWlpPOWpLeHhTdGJPU1VFQnBzV05sUU1tcmdNSTZHZ1k1RDA0OXRiR0V4VDVGTHJNY2JuRHlhZGNBa08yaE5SSkhyWXJJYVVibUlReVdZQWJaRVVoMExkblVETW81bTc2QU43ZkFZTGZl?oc=5",
-      "pub_date": 1793701800.0,
-      "article_url": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6",
+      "headline": "Apple Is Putting an Age Limit on Falling in Love With AI",
+      "source": "CNET",
+      "source_url": "https://www.cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNjg3cVBud0F2NEw1NVoxYkRLUkdGMXhWQ3Q5SDd1QVdXZGpMa2ktekpZOTlkSllpMzRLejc3VHNuWmMzNEt6SVFudVkzaVBiNnZ1SVdpY0RodndxUWZmRkdQUzNSb3E4R1gtaEc3RlllS0lYX0lKdzlnNVBtekpmUmdYSmdFNzlzbEFBRXZ3SQ?oc=5",
+      "pub_date": 1793747523.0,
+      "article_url": "https://www.cnet.com/tech/apple-age-limits-dating-app-store-location-sharing-disclose/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/f4ff375c-326e-49e9-ac54-3cb1dbaf2306.png",
+      "description": "Dating and AI companion apps have new age gate restrictions, while apps that share your location will have to disclose it."
+    },
+    {
+      "headline": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYURlOUxxRUMybEdmbkJoTHZiZEVTTUtCN0gyZ1RsV0s3YlEteXR1NFZIWDNwXzJKTUdCRUpJY0RWNlRqVC02M0VaMFgtY0piUFNGSkhKQmZ3bTVwMHFERHN6ZExPSnVFbWdBWDYxQnNnX0RJRnF6QVlld0FBeDhySGlrUEZ4bEtmWkkybFFVRU9EcnhRd2F5c1M1eGc2OFk5VG95X0dUa1dWUGhPZzJJ?oc=5",
+      "pub_date": 1793745891.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "AI \u2018godfather\u2019 Geoffrey Hinton: it might turn out we were better off without AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWng3Y1lLdXJhb0F4ZHJEWXZSZ2c0eG1WcEh5WnZpbWM2U1AzUmtVa1JFZ0h3UXd2OEp6SmZiWVBSZW5mcmw4V016RkkyN3lLdnZTQ19UMGRxMUhnMm9famJYREJRVF8zcnF4Q1h5SHJRNk02bllUNHZOMTFidVZ3a2tINnVHcmlRV1oyWF96RlNnWlZNdWg5X0JvZEdNbGc?oc=5",
+      "pub_date": 1793745180.0,
+      "article_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "image": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae0638cdbc3daea6b3a154d41c73dad9",
+      "description": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-03T19:10:15.838894+00:00"
+  "fetched_at": "2026-11-04T00:06:11.274767+00:00"
 }

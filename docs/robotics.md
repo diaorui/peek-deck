@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-03T19:10:17.447336+00:00'
+updated: '2026-11-04T00:06:17.350712+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 03, 2026 at 19:10 UTC  
+**Last Updated:** November 04, 2026 at 00:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I just found these microcontrollers in some boxes the city was supposed to take due to a shop filing for bankruptcy, how much would ALL these be around?
 
-22h ago
+1d ago
 
 ---
 
@@ -76,7 +76,7 @@ How closely can a robot replicate the way humans move their mouths when speaking
 
 One NOSH project uses computer vision to detect possible collisions while a masonry robot helps a worker position concrete blocks. The other uses aerial video to identify workers, equipment and openings that could pose a fall hazard. Both projects deal with visibility on active construction sites. Dust can obscure sensors, lighting changes during a shift, and equipment or building materials can block a camera’s view. For mobile robots, uneven ground and changes to temporary access routes also affect navigation. The NIOSH bulletin identifies several things to track during deployment, including sensor faults, localization failures and how often someone takes over manual control. Repeated takeovers can help identify conditions the robot struggles with. The article also distinguishes between using a camera to flag a possible hazard for review and relying on it to stop a machine before someone gets hurt.
 
-🔗 [Automate](https://automate.org/robotics/industry-insights/construction-robots-are-getting-smarter-the-jobsite-is-still-their-biggest-safety-challenge/boa) • 23h ago
+🔗 [Automate](https://automate.org/robotics/industry-insights/construction-robots-are-getting-smarter-the-jobsite-is-still-their-biggest-safety-challenge/boa) • 1d ago
 
 ---
 
@@ -124,6 +124,12 @@ The Information • 3d ago
 
 ---
 
+**[Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes](https://www.forbes.com/sites/tarungalagali/2026/11/02/five-lessons-from-the-robotics-founders-who-budget-for-their-own-mistakes/)**
+
+Forbes • 1d ago
+
+---
+
 **[Top 10 robotics developments of October 2026](https://www.therobotreport.com/top-10-robotics-developments-october-2026/)**
 
 In October 2026, we celebrated the 20th anniversary of RoboBusiness and announced that the show will be rebranded to Robotics Summit & Expo West.
@@ -132,19 +138,11 @@ The Robot Report • 1d ago
 
 ---
 
-**[The only U.S. pure-play humanoid robotics stock begins trading this week](https://www.tradingview.com/news/seekingalpha:52490fbc2094b:0-the-only-u-s-pure-play-humanoid-robotics-stock-begins-trading-this-week/)**
+**[Walmart Pumps $6B Into Robotics Partnership](https://finance.yahoo.com/technology/articles/walmart-pumps-6b-robotics-partnership-210855989.html)**
 
-Shareholders of Churchill Capital Corp XI NASDAQ:CCXI approved the business combination with Agility Robotics, a leading humanoid robotics and physical AI company. Agility's gross capital raise in connection with the proposed business combination and related financings is expected to be approximate…
+The deal with Symbotic retrofits existing regional distribution centers, while the retail giant is investing $400 million in a new San Antonio-area fulfillment center.
 
-TradingView • 7h ago
-
----
-
-**[Video. Humanoid robots climb China’s Mount Tai in unusual challenge](https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge)**
-
-Video. China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path.
-
-Euronews.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -152,13 +150,7 @@ Euronews.com • 1d ago
 
 Amazon's warehouse in Tracy, California, uses robots like Hercules, Pegasus, and Cardinal to enhance efficiency, but human workers remain crucial.
 
-Business Insider • 9h ago
-
----
-
-**[Five Lessons From The Robotics Founders Who Budget For Their Own Mistakes](https://www.forbes.com/sites/tarungalagali/2026/11/02/five-lessons-from-the-robotics-founders-who-budget-for-their-own-mistakes/)**
-
-Forbes • 20h ago
+Business Insider • 14h ago
 
 ---
 
@@ -168,9 +160,11 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Apple Still Thinks You Want Robots to Fold Your Clothes](https://gizmodo.com/apple-still-thinks-you-want-robots-to-fold-your-clothes-2000833872)**
+**[Robots, drones and renewable energy: The highlights of InnoWeek 2026](https://www.euronews.com/2026/11/03/innoweek-2026-showcases-advances-in-robotics-aviation-and-clean-energy)**
 
-Gizmodo • 4h ago
+From remotely operated firefighting equipment to agricultural drones and student-built electric vehicles, innovators in Uzbekistan are developing practical solutions while exploring opportunities for commercial production and international markets.
+
+Euronews.com • 11h ago
 
 ---
 
@@ -180,9 +174,17 @@ Business Wire • 1d ago
 
 ---
 
-**[Robotic lamp maker Syncere closes $11M led by A16z to deliver its pre-orders](https://www.axios.com/pro/climate-deals/2026/11/03/syncere-lume-a16z-pre-seed)**
+**[Watch: AGIBOT puts six humanoid robots through a 24-hour convenience store shift](https://interestingengineering.com/ai-robotics/agibot-humanoid-robots-in-convenience-store)**
 
-Axios • 6h ago
+AGIBOT puts six G2 humanoid robots through a 24-hour convenience-store challenge to test everyday retail tasks.
+
+Interesting Engineering • 14h ago
+
+---
+
+**[Apple Still Thinks You Want Robots to Fold Your Clothes](https://gizmodo.com/apple-still-thinks-you-want-robots-to-fold-your-clothes-2000833872)**
+
+Gizmodo • 9h ago
 
 ---
 
@@ -196,67 +198,7 @@ Meet Blue — this little robot is showing off some seriously impressive technol
 
 📺 VisionX Lab
 
-👁️ 302K • 👍 9K • 💬 335 • ⏱️ 0:58 • 6d ago
-
----
-
-**[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.youtube.com/watch?v=OzrF9T08D98)**
-
-NewsNation's Nancy Loo reports on the growing number of robots used at grocery stores to check inventory and restock items, ...
-
-📺 NewsNation
-
-👁️ 78K • 👍 555 • 💬 227 • ⏱️ 5:15 • 5d ago
-
----
-
-**[China Built An Open Source Crab Robot](https://www.youtube.com/watch?v=Z5oprLX0R7k)**
-
-KingKong Technology built Jumper, an open-source crab-shaped robot showcased at the World AI Conference in Shanghai.
-
-📺 The Manav Podcast
-
-👁️ 12K • 👍 317 • ⏱️ 0:39 • 5d ago
-
----
-
-**[THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN’T EXIST #nvidia #robotics #ai](https://www.youtube.com/watch?v=Hls4e9YcbTU)**
-
-THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN'T EXIST #nvidia #robotics #ai.
-
-📺 AUREX717
-
-👁️ 28K • 👍 1K • 💬 19 • ⏱️ 0:56 • 20h ago
-
----
-
-**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
-
-For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
-
-📺 Eric Cracks China
-
-👁️ 19K • 👍 1K • 💬 53 • ⏱️ 2:58 • 18h ago
-
----
-
-**[OpenAI&#39;s First AI Robot Is Finally Happening (ChatGPT Gets a Body)](https://www.youtube.com/watch?v=BhdPuzza7i0)**
-
-OpenAI is officially building its first humanoid robot, and Sam Altman has confirmed a major demonstration planned for 2027.
-
-📺 MACHINEKIND
-
-👁️ 66K • 👍 740 • 💬 56 • ⏱️ 13:33 • 6d ago
-
----
-
-**[MANNI Gets The BIG PRIZE! Ultimate Shell Gameplay [War Robots]](https://www.youtube.com/watch?v=T3L62RanDJM)**
-
-War Robots Gameplay & Account Development video: Manni gets the big prize: Ultimate Shell - Let's see how good it is going to ...
-
-📺 Manni-Gaming
-
-👁️ 7K • 👍 343 • 💬 53 • ⏱️ 22:21 • 6h ago
+👁️ 306K • 👍 9K • 💬 340 • ⏱️ 0:58 • 6d ago
 
 ---
 
@@ -266,17 +208,57 @@ Time to go home The AgiBot A3 humanoid robot squats down, sits and lies back int
 
 📺 KhanFlicks
 
-👁️ 59K • 👍 516 • 💬 96 • ⏱️ 0:22 • 5d ago
+👁️ 60K • 👍 520 • 💬 96 • ⏱️ 0:22 • 5d ago
 
 ---
 
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+**[China Built An Open Source Crab Robot](https://www.youtube.com/watch?v=Z5oprLX0R7k)**
 
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+KingKong Technology built Jumper, an open-source crab-shaped robot showcased at the World AI Conference in Shanghai.
 
-📺 MostAmazingTop10
+📺 The Manav Podcast
 
-👁️ 127K • 👍 808 • 💬 103 • ⏱️ 9:12 • 1d ago
+👁️ 12K • 👍 319 • ⏱️ 0:39 • 5d ago
+
+---
+
+**[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.youtube.com/watch?v=OzrF9T08D98)**
+
+NewsNation's Nancy Loo reports on the growing number of robots used at grocery stores to check inventory and restock items, ...
+
+📺 NewsNation
+
+👁️ 78K • 👍 559 • 💬 228 • ⏱️ 5:15 • 6d ago
+
+---
+
+**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
+
+For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
+
+📺 Eric Cracks China
+
+👁️ 25K • 👍 1K • 💬 65 • ⏱️ 2:58 • 23h ago
+
+---
+
+**[THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN’T EXIST #nvidia #robotics #ai](https://www.youtube.com/watch?v=Hls4e9YcbTU)**
+
+THESE ROBOTS LEARNED TO WALK IN A WORLD THAT DOESN'T EXIST #nvidia #robotics #ai.
+
+📺 AUREX717
+
+👁️ 36K • 👍 1K • 💬 27 • ⏱️ 0:56 • 1d ago
+
+---
+
+**[Unitree Robotics launches GD-01, the first commercial manned mecha robot #Robotics #Mecha](https://www.youtube.com/watch?v=YYLURKBCiUg)**
+
+Unitree Robotics unveiled the GD-01, the world's first production-ready, manned mecha. This 8-foot-8, 1100-pound robot can ...
+
+📺 Egor Donde | AI News, No Hype
+
+👁️ 89K • 👍 1K • 💬 72 • ⏱️ 0:56 • 4d ago
 
 ---
 
@@ -286,7 +268,27 @@ An AI robot was hacked to stab a fake human hand in an alarming university exper
 
 📺 Fox News
 
-👁️ 109K • 👍 881 • 💬 201 • ⏱️ 0:24 • 5d ago
+👁️ 111K • 👍 885 • 💬 201 • ⏱️ 0:24 • 6d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 133K • 👍 852 • 💬 108 • ⏱️ 9:12 • 1d ago
+
+---
+
+**[MANNI Gets The BIG PRIZE! Ultimate Shell Gameplay [War Robots]](https://www.youtube.com/watch?v=T3L62RanDJM)**
+
+War Robots Gameplay & Account Development video: Manni gets the big prize: Ultimate Shell - Let's see how good it is going to ...
+
+📺 Manni-Gaming
+
+👁️ 12K • 👍 444 • 💬 61 • ⏱️ 22:21 • 11h ago
 
 ---
 
