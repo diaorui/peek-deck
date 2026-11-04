@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-04T06:52:31.665681+00:00'
+updated: '2026-11-04T15:09:56.558273+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 04, 2026 at 06:52 UTC  
+**Last Updated:** November 04, 2026 at 15:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,823.20
+### $80,499.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +0.1%  
-**30d:** -8.9%  
-**90d:** +20.2%  
-**1y:** -25.1%  
+**24h:** +3.6%  
+**7d:** +3.3%  
+**30d:** -5.9%  
+**90d:** +24.1%  
+**1y:** -22.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1565.19B
+**Market Cap:** $1612.32B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--38.3%
+-36.4%
 
 **All-Time Low:** $67.81
-+114704.6%
++118161.3%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Bro's throwing a blockchain party](https://www.reddit.com/r/Bitcoin/comments/1xl1yxm/bros_throwing_a_blockchain_party/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey guys, I wanted to open a discussion about where we are in the cycle. Could t
 
 FBI links 628 crypto wallet addresses to North Korea’s TraderTraitor after the $6.3 billion Binance hack, asking services to block transfers involving stolen funds.
 
-🔗 [Hackread - Cybersecurity News, Data Breaches, AI and More](https://hackread.com/fbi-crypto-wallet-addresses-north-korea-binance-hack/) • 2d ago
+🔗 [Hackread - Cybersecurity News, Data Breaches, AI and More](https://hackread.com/fbi-crypto-wallet-addresses-north-korea-binance-hack/) • 3d ago
 
 ---
 
@@ -141,7 +141,7 @@ If the future of finance requires people to become their own bank, secure their 
 
 **[And binance](https://www.reddit.com/r/Bitcoin/comments/1xky3ps/and_binance/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -149,11 +149,17 @@ If the future of finance requires people to become their own bank, secure their 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)**
+**[Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide](https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide)**
 
-Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.
+CoinDesk • 1h ago
 
-SWI swissinfo.ch • 1d ago
+---
+
+**[Riot Platforms Tops Revenue Estimates, Signs $28 Billion AI Lease for Corsicana Campus](https://finance.yahoo.com/technology/ai/articles/riot-platforms-tops-revenue-estimates-141000840.html)**
+
+Bitcoin miner and AI data center developer Riot Platforms (NASDAQ: $RIOT) reported third-quarter revenue of $181.4 ...
+
+Yahoo Finance • 59m ago
 
 ---
 
@@ -163,17 +169,23 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[Strategy (MSTR) Q3 Earnings Ride Bitcoin Windfall As Funding Risks Linger](https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-q3-earnings-ride-061936805.html)**
+**[Bitcoin (BTC) surges to $78,300. What next?](https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades)**
 
-Strategy entered this Q3 2026 release with a bruised share chart over the past month, yet the stock jumped 3.7% today to US$135.63. That reaction sits against a quarter defined by one thing above all else: a huge profit swing powered by Bitcoin fair value gains that pushed net income to about US$19.1b and basic earnings per share to roughly US$47.78. For a business long treated as a leveraged Bitcoin vehicle, the expectation was volatility. What investors actually got was a headline earnings...
-
-Yahoo Finance • 33m ago
+CoinDesk • 6h ago
 
 ---
 
-**[U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December](https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december)**
+**[Will Crypto Rally After the Midterm Elections? If History Is Any Guide, This Happens Next.](https://finance.yahoo.com/markets/crypto/articles/crypto-rally-midterm-elections-history-103500958.html)**
 
-CoinDesk • 1h ago
+Crypto has only been around since 2009, but the sector's movement following midterms shows a clear trend.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Mapping the Market: Bitcoin could extend losses](https://www.reuters.com/technology/global-markets-technicals-graphic-2026-11-04/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -181,7 +193,7 @@ CoinDesk • 1h ago
 
 Tristan Thompson has boarded 'Satoshi,' a new film about bitcoin’s pseudonymous creator, to be directed by Jason Zada and shot in Saudi Arabia.
 
-Variety • 15h ago
+Variety • 23h ago
 
 ---
 
@@ -189,7 +201,13 @@ Variety • 15h ago
 
 Hackers exploited a BTCPay Server vulnerability to steal Bitcoin and Litecoin from hot wallets on versions 2.4.1 and earlier.
 
-The Hacker News • 22h ago
+The Hacker News • 1d ago
+
+---
+
+**[Riot Platforms Reports Third Quarter 2026 Financial Results and Strategic Highlights](https://www.riotplatforms.com/riot-platforms-reports-third-quarter-2026-financial-results-and-strategic-highlights/)**
+
+Riot Platforms | • 1h ago
 
 ---
 
@@ -197,31 +215,7 @@ The Hacker News • 22h ago
 
 Battery Finance’s Andrew Hohns explains why taxes won’t fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds.
 
-Bitcoin Magazine • 15h ago
-
----
-
-**[Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows](https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says)**
-
-Tether CEO Paolo Ardoino said the stablecoin giant now holds around 150,000 Bitcoin, worth roughly $11.5 billion at current prices.
-
-Decrypt • 8h ago
-
----
-
-**[Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?](https://247wallst.com/investing/cryptocurrency/2026/11/03/bitcoin-vs-nvidia-10000-invested-5-years-ago-which-is-worth-more-now/)**
-
-$10,000 in Nvidia five years ago grew to about $76,300, while the same money in Bitcoin grew to about $12,200. Here is why.
-
-24/7 Wall St. • 8h ago
-
----
-
-**[Liquid Network restores full bitcoin backing following $320 million exploit](https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387)**
-
-Samson Mow, a Liquid Federation board member, said Blockstream provided the missing bitcoin after the September exploit left nearly 600 BTC unreturned.
-
-The Block • 19h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -249,7 +243,7 @@ Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs developme
 
 Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.
 
-⬆️ 5 • 💬 1 • 3d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
+⬆️ 7 • 💬 1 • 3d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
 
 ---
 
@@ -257,13 +251,13 @@ Last week, I saw an article on the front page of the New York Times website repo
 
 CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems
 
-⬆️ 4 • 💬 0 • 3d ago • [Bitcoin Core](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
+⬆️ 4 • 💬 0 • 4d ago • [Bitcoin Core](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
 
 ---
 
 **[The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers](https://news.ycombinator.com/item?id=50357834)**
 
-⬆️ 3 • 💬 1 • 10h ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
+⬆️ 3 • 💬 1 • 18h ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
 
 ---
 
@@ -271,7 +265,7 @@ CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux s
 
 Michael Saylor argues AI risks target crypto apps, not Bitcoin's ledger, comparing it to AI threatening English via apps, not language itself.
 
-⬆️ 3 • 💬 0 • 4d ago • [AInvest](https://www.ainvest.com/news/ai-breach-crypto-apps-bitcoin-real-risk-lives-2610/)
+⬆️ 3 • 💬 0 • 5d ago • [AInvest](https://www.ainvest.com/news/ai-breach-crypto-apps-bitcoin-real-risk-lives-2610/)
 
 ---
 
@@ -287,7 +281,7 @@ Wallets linked to Mercado Bitcoin’s security breach remained active after tran
 
 Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, autonomously, within safety limits. - ZKStamp/AgentWallet
 
-⬆️ 2 • 💬 0 • 4d ago • [GitHub](https://github.com/ZKStamp/AgentWallet)
+⬆️ 2 • 💬 0 • 5d ago • [GitHub](https://github.com/ZKStamp/AgentWallet)
 
 ---
 
@@ -295,7 +289,7 @@ Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, aut
 
 Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours, updated every 5 minutes, with a public track record of how often it was right.
 
-⬆️ 1 • 💬 1 • 5d ago • [BtcForecaster](https://btcforecaster.com/)
+⬆️ 1 • 💬 1 • 6d ago • [BtcForecaster](https://btcforecaster.com/)
 
 ---
 
@@ -303,7 +297,7 @@ Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours
 
 satd is the first Bitcoin node implementation to allow optional full OP_RETURN value pruning. It is controlled by these options:   -pruneopreturn=N (N is the number of blocks behind tip, 288 minimum to match NODE_NETWORK_LIMITED guarantee) -pruneopreturnsize=X (X is the value size in bytes, greater than or equal to X will be pruned) -restoreopreturns (stop pruning and restore all pruned blocks; mutually-exclusive with above options)  Why do OP_RETURN value pruning? The recent BIP-110 controversy...
 
-⬆️ 1 • 💬 0 • 15h ago • [Delving Bitcoin](https://delvingbitcoin.org/t/full-op-return-value-pruning/3026)
+⬆️ 1 • 💬 0 • 1d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/full-op-return-value-pruning/3026)
 
 ---
 
@@ -311,33 +305,63 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Holders: What A Democratic Sweep Means For Your Holdings (My Plan)](https://www.youtube.com/watch?v=MEuriFlgmQE)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trade on BTCC & 10% ...
+
+📺 Aaron Bennett
+
+👁️ 9K • 👍 332 • 💬 50 • ⏱️ 12:26 • 11h ago
+
+---
+
+**[BITCOIN: OOHYESSSS!!!! SANTA RALLY AHEAD](https://www.youtube.com/watch?v=n6Htd4SDw68)**
+
+Newsletter: https://bullmania.com/ Bullmania Arena: https://arena.bullmania.com 00:00 Big Fat Recovery Ahead! 01:15 ...
+
+📺 Ivan on Tech
+
+👁️ 17K • 👍 1K • 💬 64 • ⏱️ 57:21 • 4h ago
+
+---
+
+**[The Bitcoin Trap No One Is Expecting! [Confirmation Soon]](https://www.youtube.com/watch?v=f8nmXF_IoD8)**
+
+Today's live market breakdown dissects critical trap-based scenarios for Bitcoin. We'll identify key liquidation heatmaps and ...
+
+📺 Crypto Banter
+
+👁️ 21K • 👍 1K • 💬 12 • ⏱️ 50:21 • 7h ago
+
+---
+
+**[Crypto Is About To Get INSANE… You’ve Been Warned!](https://www.youtube.com/watch?v=TW-_iOfg8fA)**
+
+Sign-up for Coinbase & Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction: https://t.co/bEhNQqLhY2 REGISTER ...
+
+📺 Altcoin Daily
+
+👁️ 79K • 👍 3K • 💬 132 • ⏱️ 10:51 • 1d ago
+
+---
+
+**[Binance Founder CZ issues big WARNING (AI &amp; crypto)](https://www.youtube.com/watch?v=SeiK0TLVNYg)**
+
+Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 60K • 👍 2K • 💬 128 • ⏱️ 11:28 • 13h ago
+
+---
+
 **[$3 Million Bitcoin WARNING - Citi Just Published Its Guide To Buying Bitcoin](https://www.youtube.com/watch?v=IgkjSTO3XHo)**
 
 KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts $3 MILLION ...
 
 📺 Bitcoin News Alerts
 
-👁️ 13K • 👍 224 • 💬 95 • ⏱️ 15:05 • 12h ago
-
----
-
-**[Bitcoin&#39;s September Trading Range Just BROKE DOWN](https://www.youtube.com/watch?v=ge_KUWbT1vA)**
-
-Bitcoin breaks its September trading range on Election Day, with Bitwise's Ryan Rasmussen and Arch Public's Andrew Parish and ...
-
-📺 The Wolf Of All Streets
-
-👁️ 16K • 👍 408 • 💬 65 • ⏱️ 46:44 • 16h ago
-
----
-
-**[How Binance’s $6 Billion Crypto Heist Unfolded](https://www.youtube.com/watch?v=NbQsAncGqRo)**
-
-In late October, hackers siphoned off more than $6 billion from crypto exchange Binance. As the company scrambles to respond, ...
-
-📺 Bloomberg Television
-
-👁️ 77K • 👍 438 • 💬 20 • ⏱️ 4:45 • 1d ago
+👁️ 15K • 👍 242 • 💬 86 • ⏱️ 15:05 • 20h ago
 
 ---
 
@@ -347,7 +371,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Read my
 
 📺 Benjamin Cowen
 
-👁️ 109K • 👍 3K • 💬 65 • ⏱️ 7:24 • 2d ago
+👁️ 110K • 👍 3K • 💬 63 • ⏱️ 7:24 • 2d ago
 
 ---
 
@@ -357,57 +381,27 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&q
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 264 • 💬 78 • ⏱️ 9:57 • 2h ago
+👁️ 18K • 👍 609 • 💬 38 • ⏱️ 9:57 • 10h ago
 
 ---
 
-**[Bitcoin: Last Time This Happened Price Pumped (but there&#39;s a catch)](https://www.youtube.com/watch?v=4WhdYFEviJA)**
+**[Why Bitcoin Is Holding Strong After a $6.3B Hack?](https://www.youtube.com/watch?v=bSmFGoAKPBc)**
 
-Are you trading like smart money or dumb money? → https://tiainvestor.com/smart-money-test/ The Investor Accelerator ...
+Why Bitcoin Is Holding Strong After a $6.3B Hack? A reported $6.3 billion Binance hack has shaken crypto markets, but the timing ...
 
-📺 Jason Pizzino
+📺 Simply Bitcoin
 
-👁️ 6K • 👍 289 • 💬 26 • ⏱️ 24:47 • 5h ago
-
----
-
-**[Finally a Bullish Week For Bitcoin?](https://www.youtube.com/watch?v=0kslfuTAhJc)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 531 • 💬 123 • ⏱️ 15:11 • 2d ago
+👁️ 32K • 👍 1K • 💬 162 • ⏱️ 34:09 • 2d ago
 
 ---
 
-**[Bitcoin vs. the Midterms: Will Election Night Trigger a Massive Move?](https://www.youtube.com/watch?v=LONuYvL-L_8)**
+**[Bitcoin (BTC): A Massive Move Will Occur THIS WEEK... Be Ready! (WARNING)](https://www.youtube.com/watch?v=kGhWdaKKH1I)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Excluding Australian Viewers) 15% off ...
 
-📺 CryptosRUs
+📺 MegaWhale Crypto
 
-👁️ 23K • 👍 677 • 💬 212 • ⏱️ 39:21 • 14h ago
-
----
-
-**[Bitcoin Faces Its Toughest Macro Test Of 2026](https://www.youtube.com/watch?v=1vMFiTNxMqw)**
-
-Bitcoin and gold face the return of Fed rate hikes on Macro Monday, with Mario Innecco, Mike McGlone and Dave Weisberger.
-
-📺 The Wolf Of All Streets
-
-👁️ 26K • 👍 695 • 💬 131 • ⏱️ 58:27 • 1d ago
-
----
-
-**[Michael Saylor’s Strategy Lost Its CFO. His BTC Buying Engine Is Still Off. What Comes Next?](https://www.youtube.com/watch?v=-J4jviv3a9M)**
-
-Michael Saylor's Strategy just lost its CFO, and MSTR stock heads into November with a thinner finance team. MicroStrategy's ...
-
-📺 Dana Love, PhD
-
-👁️ 28K • 👍 593 • 💬 72 • ⏱️ 19:48 • 1d ago
+👁️ 18K • 👍 485 • 💬 64 • ⏱️ 20:18 • 2d ago
 
 ---
 

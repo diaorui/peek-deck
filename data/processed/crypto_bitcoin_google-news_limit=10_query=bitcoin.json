@@ -5,42 +5,62 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies",
-      "source": "SWI swissinfo.ch",
-      "source_url": "https://www.swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFJDaEpnR3pRZG1vVDQtWlZSOGx4a2dPQWNxLUo2eEpMYklsdG90c2FZLVY5cEtYSG05aE4ydUk3Tml5ODZoRWJSOVF0WjZ6Vmx0OWlDMENSaE91cXkxWExmOWhXa3NYd1ZqalRpaFlWdzdwV2xDU1hvTzJkSVdHYVNWMGlvdHlha3lRVzNUeXg4WjlnRm9yNUNQUTFMdW03QkxfT3V2Z191M0VHbXJZdkp2VGtFSlNzM2VOV3BnQQ?oc=5",
-      "pub_date": 1793623191.0,
-      "article_url": "https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545",
-      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f915e254cd47423edb17f5452558219ed0c78700-92313700.jpg?ver=b061450f&fit=1200,900",
-      "description": "Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere."
+      "headline": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUd5MXVGMTNyQnFRSVlHNlBGSW5ZUmk4QVQ5RFk3cW9nRGNzT2VPZkc2a0pUQ0FjcDBoZ3ppNlVKMng4dUNlU1U0bzJMLXlocW1EQnNOZTFKdUlrQXVMUDNmTjBsMmwzcXlObEd6ckw2Qm45TkZMZXVxVnYwaVRmdzZVNjZmVHJrRmVSU1JLZnplYjlQSl9RcGVGZUFKRlBCcjhwang5aVI0ejBjRDlTUXpfaEdzV2VrbkNoY2xpSG02YUdGd0E?oc=5",
+      "pub_date": 1793800939.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Riot Platforms Tops Revenue Estimates, Signs $28 Billion AI Lease for Corsicana Campus",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSG5VeVlkSG8yYzJzeTNKMGRVQmtSLVAtcXc3MHdTNi1TNnZLZ2ktMXFpS2JwNXZxVF8xUmNVM0NKNmlDcmNFRElpWFNSNC1lOFlMV2EzWE9sT2ZLeG9wUjlSZE5BYTZ3c0V3QzFIdldmT0xsSVY4OC1XZkJNUkJBQ3p5RlFVV181ZFBWN2d2SGQ0WXZacm45ekFCcTM5VVQtV0lz?oc=5",
+      "pub_date": 1793801400.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-tops-revenue-estimates-141000840.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4a310569157d47a5479352f820284eec1ce6b1086a543f3fa6bac8f823662a44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F0b3f047f1af411dece09bbbce69d03d3.jpg",
+      "description": "Bitcoin miner and AI data center developer Riot Platforms (NASDAQ: $RIOT) reported third-quarter revenue of $181.4 ..."
     },
     {
       "headline": "Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWg3aW5QeW04R2pKaV9WdFp4XzJZdkJnaEw1UEdLNGZINHJBZk5UYldBX1FsY1Z3eUxubmphN1hvQnJJNFdERkJOcjZPMXppclBsN2hOZGZxVUhMZGRydHYwSlVpTXcxekxDZzQ5OFVFS1h3czZwVzQ2VW94VDNLdWdsbm5heHIteUhDZ2RjaC1SWlFycGNJSklZZkVWbThkQjRJQlF5QjJfMEFNWVVLa19n?oc=5",
-      "pub_date": 1793766540.0,
+      "pub_date": 1793797578.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda",
       "image": null,
       "description": null
     },
     {
-      "headline": "Strategy (MSTR) Q3 Earnings Ride Bitcoin Windfall As Funding Risks Linger",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmVsSkRRTHQzNl9jY3ItMkZZVXpvWXdsZ2tiWEd1UGtVdzVHVlhwbldaQ0RwSkpFZEVlZlNaNVVKRkZKWWtVLXRLTFByd0RyeUhKWG1oYnpfT2w0MTF3LVVrWTMwWDhQVnZYRlVOUVFUVjlMT0g1LUlXTF9xN290NHJFQ1BrX3lOdnBvTEgxT0NHUjI0T1dYZTJIdw?oc=5",
-      "pub_date": 1793773140.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-q3-earnings-ride-061936805.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
-      "description": "Strategy entered this Q3 2026 release with a bruised share chart over the past month, yet the stock jumped 3.7% today to US$135.63. That reaction sits against a quarter defined by one thing above all else: a huge profit swing powered by Bitcoin fair value gains that pushed net income to about US$19.1b and basic earnings per share to roughly US$47.78. For a business long treated as a leveraged Bitcoin vehicle, the expectation was volatility. What investors actually got was a headline earnings..."
-    },
-    {
-      "headline": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether\u2019s USDT in December",
+      "headline": "Bitcoin (BTC) surges to $78,300. What next?",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHMtOGFFdnZjeGR3U28tUjZwSkpNVVNwRXZNNmVsRkFvUXF0aDlYcEh0SGNKd2tzWXJkcXhYcjVWanBqNTA2U0tkcE9ab0luZHFWU01JU2IwWThGc3pUWFdkQ0NLcHBrdHZvTGxZVk1zcTBwVHJBTDNJNTdvNDltdEZadmhxTVdHSDF3eV9MT1ZLZmxCdGhuLVhBSDZZcjZzOGNRdjdSNHkwZkREd3E0M2hfZUxyNEpPQmNvNA?oc=5",
-      "pub_date": 1793769252.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnlSaG55Rkxpb2V4U2UyXzhYNXNTMjlTcVNWUHhkR1F5d1U0bGNJYUFwdnU5RWFFZ0VTSmQyV21fRG5zc2FLcUFQck1sRmswSlctWGdPM3RrekJpdV9jWnlmSHNvcjE0ZnpwT0xsamk5MHIwLTNYNjJTY1RzWm1mRl9QZ3hHRlUxR0NqLTJ6WTVNYjJOTWJvNlpPZkpIU0N4LWJkQmFKQzFONXRzam5uby1xOHhRNVJQT3BOWjhB?oc=5",
+      "pub_date": 1793781474.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Will Crypto Rally After the Midterm Elections? If History Is Any Guide, This Happens Next.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVVCRU96Ny13eGh2dXFwSG9OYzZ3UjFkZUc3UVZuMVIwUk9rX210REd6a1VIRlF5a09GdkJhTWExSF91ZHJzNGxxSGFNS1Z0TGFjcnBxSXVjTzlQbml1MDRnQmNWWUZBMFpfc01QanNxSlB6ZVNIZ0FQMHRhLWJ6bmtwc2JNZTFsVnRTdkN4cy1GT1BuZEVuSnJZTDJWRS1EZkpRdy13?oc=5",
+      "pub_date": 1793788500.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-rally-midterm-elections-history-103500958.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/25d4a94152a5840a4396eeca4de27fa57f755b08131b358364db6726c5218863/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6bc3c45f66a7a84f0ac4e8095ebe3b0b.jpg",
+      "description": "Crypto has only been around since 2009, but the sector's movement following midterms shows a clear trend."
+    },
+    {
+      "headline": "Mapping the Market: Bitcoin could extend losses",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNm9yeUVlVkVwM3RFNm1tMGFnMEVWellmVDZQQ2lGQ2hRR3VsMUVuSFVEN29BRHZ3Wnk0b0k2SVFpUk5WcGRYRW1Kck0tR3lSeDdiTy1LdTNMZGNBcGpndUUwNkRDRl9NNmRsZFZhWkhqa3VOY3VJcGdXU0k5d2dydThGc183cGM?oc=5",
+      "pub_date": 1793790369.0,
+      "article_url": "https://www.reuters.com/technology/global-markets-technicals-graphic-2026-11-04/",
       "image": null,
       "description": null
     },
@@ -65,6 +85,16 @@
       "description": "Hackers exploited a BTCPay Server vulnerability to steal Bitcoin and Litecoin from hot wallets on versions 2.4.1 and earlier."
     },
     {
+      "headline": "Riot Platforms Reports Third Quarter 2026 Financial Results and Strategic Highlights",
+      "source": "Riot Platforms |",
+      "source_url": "https://www.riotplatforms.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSnpzLWpoUGxhaUZQcVAySmxFbWEtMk94VllXSEZfckRLbldjcUpEYU5TakFSeEVEZnlfSzFvZUpEZnBLUVhUenAyRVFqNTRaSURCRExLUUhaNEtIRm44X1p3S0Z5a2ZuZExOUlRubnA3UXJBS1lXVzd6dzlnSVpZdml0ckM2OUxXMXUydnktMnpYVU01Ykw1Q3RkQ285d0daMmhqUkJoQ0lrNHJZZWVGcmEyNWh5QQ?oc=5",
+      "pub_date": 1793797962.0,
+      "article_url": "https://www.riotplatforms.com/riot-platforms-reports-third-quarter-2026-financial-results-and-strategic-highlights/",
+      "image": "https://www.riotplatforms.com/wp-content/uploads/2024/04/Riot-share-image-1.png",
+      "description": null
+    },
+    {
       "headline": "Andrew Hohns: Why Bitcoin Can Fix America\u2019s Debt Spiral",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
@@ -73,38 +103,8 @@
       "article_url": "https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Andrew-Hohns-Why-Bitcoin-Can-Fix-Americas-Debt-Spiral-.jpg",
       "description": "Battery Finance\u2019s Andrew Hohns explains why taxes won\u2019t fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds."
-    },
-    {
-      "headline": "Tether Holds 150,000 Bitcoin, CEO Says\u2014About 50,000 More Than Its Reserve Report Shows",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSm1EejBpNTVzcGRaREFiRkJsQklNRVJ5OGdjMUUxSXlKM0MwbEF1U2IwVUFHU1E2cHFZRm9jQjcwVXlDY01ndVdHcTVKOXN0dktubmlBME9KNUdtNGloX0wySXg4UDdpbFdVaGRvdw?oc=5",
-      "pub_date": 1793745962.0,
-      "article_url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png",
-      "description": "Tether CEO Paolo Ardoino said the stablecoin giant now holds around 150,000 Bitcoin, worth roughly $11.5 billion at current prices."
-    },
-    {
-      "headline": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmJSWTRJTWdOdl9TRFlKcy04VENxUTJoLUl0dzdkVk9TakdGZ1ctVnlVSUdhY0JocFA3UnNsdjdFdG1GN0hMbkdjRzZWMmU0TVFSaFZQLWUyZnh5dW1Canc2cWRnSml4UURFY1RZeXlCVGdqUXgzcnBPcS1UXzMxdU1fbmM5X0I5OUhMcWJ4Tlg3bzhkQlpwNUJpRl95VUNvYlUxbzN4UE56bUlrS3VuV041c1phNmFfQ0JfeTBIQjRodzZkWEE?oc=5",
-      "pub_date": 1793746020.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/03/bitcoin-vs-nvidia-10000-invested-5-years-ago-which-is-worth-more-now/",
-      "image": "https://247wallst.com/wp-content/uploads/2019/04/imageforentry20-nft.jpg",
-      "description": "$10,000 in Nvidia five years ago grew to about $76,300, while the same money in Bitcoin grew to about $12,200. Here is why."
-    },
-    {
-      "headline": "Liquid Network restores full bitcoin backing following $320 million exploit",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVm9FdVJEb3RBaTJpa3lNbXIzTjh4MVpfUlltMDhXTlpDNTNXcGl2TWlFZlJFejZIVFJmZG1pOWxQeWZXdDc0V0JSUXRLb21fQWxWSE81UVlnX2ZUcWlKTXlMaTYxeW91bUtUaXQ0am5yT09qdXczQ3RrVjh3VkZjRkVwakNaYlllUVB1b2ZGR0U2NE1wMUpRSDJ4NEtNV0p0dDJiUzdBNG05OG93SWlnazV6MmtFTkZ3UzYzRA?oc=5",
-      "pub_date": 1793706540.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-03-at-10.31.29.png",
-      "description": "Samson Mow, a Liquid Federation board member, said Blockstream provided the missing bitcoin after the September exploit left nearly 600 BTC unreturned."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-04T06:52:27.614670+00:00"
+  "fetched_at": "2026-11-04T15:09:54.759278+00:00"
 }
