@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-04T21:25:09.669447+00:00",
+  "data": {
+    "url": "https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification",
+    "title": "Anthropic unveils cryptographic tool to verify model outputs",
+    "description": "Anthropic's FlashProve uses cryptographic proofs to verify model responses while keeping proprietary weights hidden from users.",
+    "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/02/anthropic.jpg",
+    "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+    "site_name": "Interesting Engineering",
+    "author": "Neetika Walter",
+    "keywords": "AI regulation, AI security, Anthropic, cryptography, cybersecurity, FlashProve, Llama 4 Maverick, Machine Learning, model verification, provable inference, zero-knowledge proofs, zkSNARKs"
+  }
+}

@@ -5,6 +5,36 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpwLUc1MHh4TnNOVk9HY3BLVUlLS2ZwTjRIUEtqb0VKa2JYZG13VTc2TzdZZ2dlOUUtTmlZYTdmeGJIUVVpcWFBeS1PWGQ5X3FFS3lBMzJ0WjJsRjMzWmpaRl9KRUZzSWRpTHVaQ3lUeU5wNnM0S3dZLTVaMWo3RWNnMmZqcTBCY3NOajRvSk13UmM4R2VBUjNtT2w0NU96aU9FelhEZ1BJcHNWTExwYVRNczg?oc=5",
+      "pub_date": 1793821500.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Apple cuts employee AI budgets in cost-control push, Bloomberg News reports",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTJ5aVk4RUE4ZGFvVHBYTU9fc1FMamxLMXZ6QmZpZ1EtSnpLNXVlMjFNU2lyOWVSZGNMc1NPQmRkRlRzY3g0M2tjME1UOTAycFV6NXhBMF9rNFJaNEEydXBlYmd4U0tmeWhyaHR0UDIwRVplTVI5Z3g4bnRGMVdoUFVYMkJGcHZmZm5FcnR2b1VkdmxTYVVmUi1pdUF4QTJOQkhIVkVUOHpxYnltcmlhd1VSaElENFNuUUg1NnBGbGd1OWY0cnJmbFdTYlk?oc=5",
+      "pub_date": 1793824183.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/apple-cuts-employee-ai-budgets-cost-control-push-bloomberg-news-reports-2026-11-04/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Apple disables Siri AI waitlist in iOS 27, with one exception",
+      "source": "9to5Mac",
+      "source_url": "https://9to5mac.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLU1qdGFuZE56TE5icU1qWFZwWmVIWmZ2U2I2VlcwNmhCVkM2U09hLWNqbHdpQVpjTFItSGtJbWpBYV9uUF8taDZWTlE5TElmSlEwUXhJTFNOSHNmMjgzTDl0SUhIWkJOTFh1Q3Vmd0Rya2dtcER3RjNQTms1eHZkanhkVGpsUDNiRzlHeGJIQ2dJazhQMzVn?oc=5",
+      "pub_date": 1793824080.0,
+      "article_url": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-light.jpg?quality=82&strip=all&resize=1200,628",
+      "description": "A newly updated Apple support document says Siri AI no longer uses a waitlist to enable it, except in \u201chigh demand\u201d times."
+    },
+    {
       "headline": "Google Will Turn Off Search for Schools That Reject A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -15,96 +45,66 @@
       "description": null
     },
     {
-      "headline": "Google to shut off search for schools that opt out of AI",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXBsSzByWUh5YVNuZGpjVXRtQ21SMG0waXByX0JZVl85eGJ4M25FOExEMDJGTWpXbjJJa1dheEJLSXV1WEo3VWtMWEFaeWNfeW1FcWNpVTBZY2htRWxMdVExVVRvYjFQYUJyTXVSTjktMFc4VEJXb19JRTNTelM0NTh2akZrdFBTdVZr?oc=5",
-      "pub_date": 1793730751.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/google-shut-search-schools-opt-ai-rcna607280",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260519-google-ch-1541-154f28.jpg",
-      "description": "The company said that AI-enabled products would be shut off by default for schools, which will also cut off their access to Google Search."
+      "headline": "Google responds to political backlash over removing search from schools that ban AI",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenhBb3YzeXFrNE9nVmR3QUZTZ3M2RlRleVpqMjZMUll0azhuR2ZtUmwyOEcxeEluUlN4UDdQNU54ak9HTUI2ekY4azRzUk9aTVh5dUJYVnhkTVdPMGtIYjR6V0xmdWlqb3hNRmROVzFmZFNEZlJZZV9DaTRlSGQ4akRkSGxjZ1p2dV92cTFxaEUzMTVCNTByZW42T3ZGS3hUR0JOZzRaYWozM0nSAbABQVVfeXFMTktHaFBsT1hOVXFLTVo2RUhyZHNWbkVUU3FhVjdxczdRT2ZUOXFUakJCV0pHUnNkU2NycUd6NEMxS0ozT2VxRFAtbWpnc2lKUWhBZ3c0NHRFMk9vQ19pNTBxc0NCS1N3TmZqNGdwdUcwbE51by1NdEJiM1pOcl9HQXpiMmwwaklRTWhpVC02anVSMmF2QU8yZThyWVpwUWNJb1lObmVYdDc1S0x4VDFrVmQ?oc=5",
+      "pub_date": 1793750880.0,
+      "article_url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108188588-1755702485558-gettyimages-2188607530-DTRAMONTAN_09DEC24_013JPG.jpeg?v=1755702561&w=1920&h=1080",
+      "description": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews."
     },
     {
-      "headline": "UK Officials Said AI Would Add \u00a3400 Billion to the Economy. That Figure Mainly Came From Google",
+      "headline": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
       "source": "WIRED",
       "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNczhndXhUYmtzbEptcTRvQ253OUVZaHhUZFFNbzB5N3I1Nk9YTmdNSTRmOXNvVWt5a3BrTFdXYmxUdHNiQlVPa2l4YXR1eHlBeGZwSGhEdnpuYVBHNHNOS2k3WElZRkNQNWxOa203aW1WSGZDSmgtWkR2TnVET2VJR3lUMTA1RUI5V2c5M3VrWUYwMjVKUjJUOHEyclJVbHpCcldacGtqUDdHcXlfLUpvQmFZZXA1QXdBMzZpVm1qRQ?oc=5",
-      "pub_date": 1793800140.0,
-      "article_url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "image": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/191:100/w_1280,c_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg",
-      "description": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country\u2019s slow rate of adoption"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTg5OHhmYUpiVFhJZkxhTEFCcS1vbEc2SmU2dTJETGZzaFR5aG93UDhlLXMwdTRheXJQTHhmeGt4QkhlRTYtXzRrb1BYNU9QV0VnMTFCVEZiYjB4NWJWQkxnT3VLSl9UYzYtbFZLU1AtNXZJeVZCeHpWeDVwcHd6ZHNkand3bzhaN0l1eFhUV3dSQkZiZHNPUUpUYVNFX29KdFdzemotUTdkME9nT1E?oc=5",
+      "pub_date": 1793822760.0,
+      "article_url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+      "image": "https://media.wired.com/photos/6aeb7c5b7b2c9d5f35a29177/191:100/w_1280,c_limit/110426-google-search-schools.jpg",
+      "description": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable."
     },
     {
-      "headline": "AI Data Center Boom Set for Upheaval After US Election Rout",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUxLRDFBU2J3Si1KLW50RDFPTE9oMjJNX2JGd2xCRXJDbW9nOXdqblFZM0lIM2ZaR3M3dWQtTDJsWW9aOU5iR1NteTdVX1hLN1J1WUpfNHNVQ3hjN2ZaRWRydEZROUNwclhqNWNZYkdlMlBmS0NnR0RXVlRMVU9jalI3Q193UzVWRFp1WjZXMG00Z3FXbWFXdjFwUjNpNVRPQ3YtdFhRWmVIN2cxNDV2Q1Q2cw?oc=5",
-      "pub_date": 1793792879.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout",
+      "headline": "Satellite images expose potential trouble behind Microsoft's $5 billion AI spending shortfall",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSzRQNlBSSGpYS1RHM0w3V0VpZjh6c1hJVXE0SFVGdXpEeUI5SWxQQmZLMjZLQXFuMnI2QzA3RW5ReVhxdkd1YjI2N245RDlnRjZxdy03LVlRSDMwTDFnMk12MEtJVWtxTXlMcXcwNUVnc0JQU0VrVWFwOWhGZHlsYWh3N1hFeVlGMWo5ck13?oc=5",
+      "pub_date": 1793824920.0,
+      "article_url": "https://www.businessinsider.com/microsoft-ai-buildout-delays-satellite-images-2026-11",
+      "image": "https://i.insider.com/6aeb752e9270da3cc6668159?width=1200&format=jpeg",
+      "description": "Satellite images reveal potential delays at two Microsoft AI data center projects, highlighting power and permitting challenges facing neoclouds."
+    },
+    {
+      "headline": "Democrats may go after data centers. That's not a reason to dump all your AI stocks",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnJiRXFHNGRlNHpXcFplRVRua2JXX0s2UFNoU2FtQWpob2xKT19GOTdidUlGaGIyU3p1cUZIVXZGdlZqVmdzM0Vid05Vd2Rpa3NMVFlRRllNZTFvSTBwbzBYZGVIU2xPb3g5WEtuY1NtbmtQNnA3RG5hV3FxWi0yRzRIN25WRFB2UE9tTWhUdWZQSE0?oc=5",
+      "pub_date": 1793821620.0,
+      "article_url": "https://www.cnbc.com/2026/11/04/democratic-data-center-pushback-could-help-ai-stocks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108453107-17927880302026-10-23t203930z_644610608_rc2lzna5kzc0_rtrmadp_0_usa-datacenters-nevada.jpeg?v=1793198510&w=1920&h=1080",
+      "description": "The AI trade could be tricky in the short term, but a bubble deflating gradually is better than a pop, economists say"
+    },
+    {
+      "headline": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0FPcWhsTlBRblVjalZwNFVSenZnMDhzS3E1eVZyNlh2Wk5zZ3Nja1hUYVlpVjdBMjk1U2hDdmx4cmJXQ3ZqOXhnYVM4N0R6bl9Sc0hGcVlRWU5zYnhTNXZ5alBERVNETnRXTmJlRXJHTmdDX1VjYjROTlVyQ0l5VzNoVWN1M19PNGlmYQ?oc=5",
+      "pub_date": 1793821194.0,
+      "article_url": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "The Trade Desk and Dstillery Link AI Agents to Reshape Audiences Mid-Campaign",
-      "source": "ADWEEK",
-      "source_url": "https://www.adweek.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPczYtcHA0NDlhc0djNXExOWhIQ2FuaEsyVzVPeV84Ujl6NnRBWDFSMXVONmtkaWF2TUV3WFBCZU5zWE5KT0h6QlFOV3MtYl9QZWE5NEg5Q3d0V1EzN2ZLdXViSF9wMGRIanJqbHdjZS1pWlBpc2Y3azJXV0xaSG5kSzdqSmgybnhWdDhRazhnX0tYTlF5bU1RWkhXNGJhMklrSm5kVDVOZmxVWjF0X2tUOUp6R1E?oc=5",
-      "pub_date": 1793802460.0,
-      "article_url": "https://www.adweek.com/programmatic/the-trade-desk-and-dstillery-link-ai-agents-to-reshape-audiences-mid-campaign/",
-      "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/agentic-ai-cannes-2026.webp?w=600&h=315&crop=1",
-      "description": "While buyers see the appeal of faster audience creation, they question whether agentic integrations will meaningfully change media buying\u2014and say the bigger value still lies in knowing which audiences are right for a brand"
-    },
-    {
-      "headline": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
-      "pub_date": 1793799237.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/democrat-sweep-adds-new-twist-markets-iran-ai-debt-worries-2026-11-04/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AMD's AI megadeals with OpenAI and Meta just cost it $1.1 billion: Chart of the Day",
+      "headline": "5 Cheapest AI Data Center Stocks to Buy According to Billionaires",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSmg5LTBSY1A4Z044dkNOV2x0UC00NWVSVHVkaEpZUmlqRUJiNnh6bE44MW9JaFo1NUNzQVRHUlczci1EN0R1Um9NcS05MEFhWnlVcDNtcUI4Y0hBS05BSUpXWS1mTWJJczVGc2Y4cDNHTW1GU2k5cFdxdXpHaTFtejFlQ1J6eEZZWXZ4NXIyaUNHN1lOR1J4R1ExVU5KTUtURWJQTTBwNjJDN1ZycENXWHdxOHpKU3piTF9oZmo4eTIwOE15VF94dDVZOEk5S0pHdEE?oc=5",
-      "pub_date": 1793797793.0,
-      "article_url": "https://finance.yahoo.com/markets/article/amds-ai-megadeals-with-openai-and-meta-just-cost-it-11-billion-chart-of-the-day-130953484.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9d72680e0d2d7a2b601eb86da73d9f1e3e4623a6725217dec763cb7f4b73e85d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2Fd16cc5f0-00ea-11f1-afd9-ad2879d43cbd",
-      "description": "A record quarter came with a twist for AMD: Its profits now move against its own stock price."
-    },
-    {
-      "headline": "Arista Says Its AI Business Will Double to $7 Billion",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEdVUXROTWtrOGxWU1ZzVWVaYzRadEtjNFRETGFkQ1BMUFlnMHlfUTZ5V2RWUDBsMmdCeDYyUkN3TFkxNk16QkFCQlJacHZYaFhQUlNLUEhLYlIyYmtJVkVybkE0TnZpS3NtNkZtcmdKTzhhaTUxbS1oTXR4SmNEUUpwZTRDREhmVko0NnlEV1VkbngxT09pcll3?oc=5",
-      "pub_date": 1793802582.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/arista-says-ai-business-double-142942022.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/507b560ab26d4c9819fd14c6c2468fad48e30171a44f9e891f34ceea4aa36765/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F1da462bb24385b7301f9e21b6ceb2e1a",
-      "description": "Arista's CEO just handed Wall Street a 2027 revenue target that blew past consensus by nearly $2 billion, but buried inside that bullish call is a slower-growing business that raises real questions about whether the AI boom can carry the whole company."
-    },
-    {
-      "headline": "Metsola tells MEPs not to rely on AI when drafting laws",
-      "source": "POLITICO.eu",
-      "source_url": "https://www.politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3pxLWhOYzRoc2VQS0dkdTNxeUw0NENvTUVQSXVYUHY2enRFZmt4dzJnQWlDM21DZDlfeEZoMjZwM2dUOHdQMWxjWElnSWdlNm9vSFhtT2xnN0g4Zk5OemVzRERmbzdYQ0Nnei1sOV9lRUJpaFNPaEV2dE1ldXpHUVFucUozWWxRY00xeXBCMmFDLU5zR09MbXpPZko?oc=5",
-      "pub_date": 1793802900.0,
-      "article_url": "https://www.politico.eu/article/roberta-metsola-tells-meps-not-to-rely-on-ai-when-drafting-laws/",
-      "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/04/GettyImages-2276677940-scaled.jpg",
-      "description": "European Parliament prepares guidelines for lawmakers on the use of AI."
-    },
-    {
-      "headline": "AI \u2018godfather\u2019 Geoffrey Hinton: it might turn out we were better off without AI",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWng3Y1lLdXJhb0F4ZHJEWXZSZ2c0eG1WcEh5WnZpbWM2U1AzUmtVa1JFZ0h3UXd2OEp6SmZiWVBSZW5mcmw4V016RkkyN3lLdnZTQ19UMGRxMUhnMm9famJYREJRVF8zcnF4Q1h5SHJRNk02bllUNHZOMTFidVZ3a2tINnVHcmlRV1oyWF96RlNnWlZNdWg5X0JvZEdNbGc?oc=5",
-      "pub_date": 1793741700.0,
-      "article_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "image": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae0638cdbc3daea6b3a154d41c73dad9",
-      "description": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1NJNkRQR0pzX1Z5X3o2UnprZFNkSmlFUzBrTXZSS3hOZ2NrblJ3QTdmanZxc3NzT2hjc1lFRndYcmJwYXE0eGdaMzFmbWhwblVuMmxOSUlBWEd5S0hKRVZ6eElzSDBWamcwZDZqUDVrOVB4VzJueHRDRWJpVGtocW9FS2Ztb3VORDhrTHVkV1NtZm8?oc=5",
+      "pub_date": 1793824341.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/5-cheapest-ai-data-center-203221920.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/535cf6d2821ffa132c234c860dc29f43e4b58e61cf881e8cd14e3f68f31f9d0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9471d1316f3cd27c53134af80ae8294f.jpg",
+      "description": "AI data center investment keeps expanding, but the companies supplying that capacity face different paths to profit. The International Energy Agency\u2019s October 2026 report estimates that hyperscalers will spend more than $700 billion on capital investment this year, mostly on new data centers. The report also points out constrained electricity networks, connection queues, and slow [\u2026]"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-04T15:09:48.091889+00:00"
+  "fetched_at": "2026-11-04T21:25:37.310284+00:00"
 }
