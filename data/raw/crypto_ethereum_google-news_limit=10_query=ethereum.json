@@ -5,14 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, XRP, Ethereum Sentiment Tanks but One Coin Is Holding Its Ground",
+      "headline": "Why Bitmine Immersion Technologies Stock Is In Focus After Its Ethereum Buying Spree",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlh2TXQteC1kdS1DdFFGbldOSGxDQV9BZzlLMzZOeUhtbjdtV1I2bndPX1FpdVhaX2FDU3VZUEd1Y2YybXBTbkdzMDN2VVB6VUwzVHJ1TnFhajEtU0lkdS1Oa1VLWUtIczBwR09lenFZdi1PTk9HcmU2c1JyNlhrUm1zUndLWHk4aEpJRG8xZXNBQ0ZkVnYzYUhNZTdqVDJnME1rdTExTFI?oc=5",
+      "pub_date": 1793766780.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-stock-043344012.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
+      "description": "Bitmine Immersion Technologies recently acquired nearly US$20 million of Ethereum, bringing its ETH holdings to 6.06 million tokens, equal to 4.9% of the 122.2 million total supply, alongside US$14.5b in combined crypto, cash and marketable securities. This sizeable Ethereum position, together with Tom Lee\u2019s comments on the market\u2019s resilience after the Binance hack, places Bitmine\u2019s operating focus squarely on digital asset exposure and AI infrastructure demand rather than near term..."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Surrender Early Gains as Midterm Polls Close\u2014Analyst Sees \u2018Sell the Rumor, Buy the News\u2019 Play",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTk9jYjROZWN2YmEzMnFsakVWSlQtQVBVZWg3Q2hqR09rZFpjQmJtTDVjc0FSa01CaGVRM2hxTmFFWU1ZNk1feDczVVZ5UENwYmhhQW0wRE9QTnhqZUxxYmJIRldDUm53c0g3YlBkczBKQXVjdVg1OWRod1djNS1iMk9GVXVWdDl1UFJZQ29XZG5Dc3Z2ektsZEpjeC1aR05YTjlzaXRpRGY5bEZzaFFtUzNGNnJFVy1tY0JWMFEzZFVrbU52UVVkQmhB?oc=5",
-      "pub_date": 1793723106.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:74173d18b094b:0-bitcoin-xrp-ethereum-sentiment-tanks-but-one-coin-is-holding-its-ground/",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVWFFNm51ZS05SmRKVU9ybFRWdWxjNjhTR1c4bmxkeng3aVV4Y2k3UWVGUF9tRzBGeG55UUZla2dsbUEzZjY4THY0SktjOV9Oa0xpUkZnMkc4NUNFMVJab0lNMjNnSHpCUm5fc0M5b1hUUnZKZnN3dlpTaU5oQ0g2OVZsbGQ0RktiWDhxNDJId1BETXc5S29VRWNGZ2ZudnhxeWwtSzd0MjNoTkd2S1NFLTJPa1I2NnJxNUpzYU50a1gzZUhrRDdtbjdfa1pNY1lsZ19yLVB3ZEcwdENUOTJUYU5DSnpxUXhlWU15Vk01QklNdjFobWs1WGNhTWlOdVJDZlRDS3BULVpRMU0?oc=5",
+      "pub_date": 1793755860.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:f1a5c7082094b:0-bitcoin-ethereum-xrp-dogecoin-surrender-early-gains-as-midterm-polls-close-analyst-sees-sell-the-rumor-buy-the-news-play/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin CRYPTO:BTCUSD and XRP CRYPTO:XRPUSD are seeing increasingly negative sentiment, while Ethereum CRYPTO:ETHUSD comparatively is holding its ground in what analytics firm Santiment calls a contrarian buying opportunity.Why Sentiment Has Collapsed Across the MarketSantiment Intelligence said Tu\u2026"
+      "description": "Leading cryptocurrencies retreated late Tuesday evening as investors awaited the outcome of the midterm elections.Crypto Market on Election DayBitcoin climbed to an intraday high of $77,965.50 before pulling back later in the evening. Ethereum also gave up earlier gains with a sharp overnight decli\u2026"
     },
     {
       "headline": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
@@ -23,26 +33,6 @@
       "article_url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Elon Musk\u2019s Grok AI Predicts a Huge Move for Ethereum: Can it Really Go This High by 2027?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVczMlZWdmM1YkZ6R1p3N3BwZFpGZmQ1VDI0X0ktSWVqbHFpX2ZWUU5jcDJBS1J3Qm1RZ21IclVraU1WZHg5bXpKbDc1Tk9IUG5rT2ZiNjlac2I2N1NkX0JCbnZWWW9hWjNRODQ4V09yNVJGZUhTLWhNY0pCdTQyZldQY19ibXMxS3dRUTM3Vy0wSUZrU3c?oc=5",
-      "pub_date": 1793610336.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-090536884.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/37f7e47e8ea8a4c604519804fe2eca0f45c498f0de58c1901165c83841d78ed5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F99bitcoins_us_315%2Fe2fa7186933ac8e4d8fa6faff199261a.jpg",
-      "description": "Elon Musk\u2019s Grok AI predicts that a potentially historic milestone for Ethereum could be on the horizon by January 1, 2027. Its belief is that an unprecedented catalyst may be on the cards for ETH, and if it lands, The concept proposes officially recognizing Ethereum as the primary platform for ..."
-    },
-    {
-      "headline": "Ethereum USD (ETH-USD) Seasonal returns chart",
-      "source": "Yahoo Finance Australia",
-      "source_url": "https://au.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zekZnQXFjdHc0dDd6VnJjUXROWnVBYnU3VVlYWXBsbGkzQVNIaGtkbWFxdm00cVltaTk0V0VZT0JKSG5CQjBmWEtnMjdvekp6WFpqX25qSmliUmJSdFJfZ3lQVUI0Zw?oc=5",
-      "pub_date": 1793745847.0,
-      "article_url": "https://au.finance.yahoo.com/quote/ETH-USD/seasonality/",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Ethereum USD (ETH-USD) seasonal returns chart provides the mean and median returns by month to inform your investment strategy."
     },
     {
       "headline": "XRP or Ethereum: Which Is the Smarter Buy for the Next 5 Years?",
@@ -65,16 +55,6 @@
       "description": "Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation..."
     },
     {
-      "headline": "How Ethereum Infrastructure Fits Into Tokenized Securities Markets",
-      "source": "Florida Today",
-      "source_url": "https://www.floridatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGdhUWE3aTk5a3E2QjNDQjlTeVg3Y2Z2R2pLaTBmM2JjNm9PUTNJQzA0R0F5YU9GOVAzT3pfbGJaZlJTX2J1ZVJLM3ktcDQ1QllEODNiczBFRTUzQkpSNml5VlFhYTU0aXZtcGtjNVBMT2N5STBDdnVacG81dlNFQkdCZENnTW50RTNDdVo1Um1FNVRfTllZLVozcU12RnpjOS1iS2RMdFRpSjl4ajVVdHZSZEhuMmxUTmV2cEZOMDk1X1pFLXphMVpoV0tmWjE2Z0hBY0ZHaGNHM0ZsQldOSkQ4TkVKWEF4?oc=5",
-      "pub_date": 1793737500.0,
-      "article_url": "https://www.floridatoday.com/story/special/contributor-content/2026/11/03/how-ethereum-infrastructure-fits-into-tokenized-securities-markets/92592354007/",
-      "image": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2026/11/03/USAT/92592358007-image-1-36.jpg?crop=1998,1124,x0,y104&width=1998&height=1124&format=pjpg&auto=webp",
-      "description": "This article looks at how that infrastructure works, without suggesting what it could mean for any asset\u2019s price or demand."
-    },
-    {
       "headline": "Current price of Ethereum for November 3, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -85,26 +65,46 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+      "headline": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVNJMUk0N1Q2dlBPU1NNZ2x0eWNYWldMOUtLX185dHFUN1JIMGhlT1BkZHMzcjA5NFRVLU5USzh0OXI2Vno2WWV6NVJkY0hYVnZSSFdMMHRrVFotc0hPWVZaUnRMTjFlWVUyNHR5NEJMcTlEZnR6emVWQVRqZ3FLbFk4MjZJcEdO?oc=5",
-      "pub_date": 1793636604.0,
-      "article_url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-      "description": "Tom Lee laid out six reasons the market\u2019s \u201cmuted\u201d 4% Ethereum drop after the record Binance theft shows crypto is \u201cincreasingly resilient.\""
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHBtTFEwQlNMN1d3TEF0dW9ZRTdSZ3M4Q2xxc1N6RUtlSmQ0UmlQN1l2b284MTZZbFlkcGE1NmVGVXVycmVHX3dTOGVXY0tDQW1DUURsMFVMb3oxREwxeFNnMWUwVkVyNEVNYm5NTmNiYjZOUHQwejFsR0lHd05ySjY2MVRWdw?oc=5",
+      "pub_date": 1793714462.0,
+      "article_url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ethereum-decrypt-style-05-gID_7.png",
+      "description": "Aztec, the privacy-focused Ethereum layer-2 network, has rolled out a major upgrade that fixes a critical vulnerability."
     },
     {
-      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP rebound as November begins after a losing October",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdnEzQW9WX0pnWmhPY0hNNmlpV3NDSEp4N1FwaVRoNWZPTUloVGFzMldPdU55TVNVN1VPREVOWGdxY3hrWVl3bEtkQVRyQnVCSE1hQkdPaF93SkVsazdJNFhxVXJfc3J3OEt0bG10UEtPcWNkSkRzbEZBRVNJS3dmclg5VmZsZHdldUVyUldWUmpaRFA0RnZpNWZqQS04Mzl3MFZUU0c5SHNuWlpqMTI2VjQzWkgwZlhKd2NUbk1PNE9PX1Q0TXpXUWtmMF9ZdUxaT0lxSkI1WkVCdHp6NC0xNnJjRldqVjJ3ZW9JN3Njc3pkUjhHQld1ODNKUmFocmVlZXhv?oc=5",
-      "pub_date": 1793591930.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-november-begins-after-a-losing-october-202611020358",
+      "headline": "Tom Lee calls Ethereum\u2019s 4% post-hack fall bullish",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQck1WS1lRS2Npa0pUYVB0S0MwRExrd25qZkpfZTNQOEJYa0JGcGdRVnZrSjdRUC00NHZCLTM0aVJSUE52XzBXUWJaZXZ6VkVfR21JNXE0VGRJRzBfOW03ZThQVXRNZ19RNVZDTXBTVTU0M2ZjcDdlS0VoeGJfRlUyTnNfZ1JuUGZBWWVLWXNNci1oZnljR01DeFkxLVE2WHFBZUhxb3lkQURVV0lya3VJ?oc=5",
+      "pub_date": 1793667923.0,
+      "article_url": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/tom-lee-bull-projection.webp",
+      "description": "Tom Lee calls Ethereum\u2019s 4% fall after Binance\u2019s hack bullish. His Bybit comparison uses a longer period, while BitMine keeps buying ETH."
+    },
+    {
+      "headline": "Aptos joins Solana and Ethereum in Bullish\u2019s tokenized stock plan",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHVMdjhsVHJNS3F3cS1BUzc5RUhLNUdRLVZ6Wi16T29MUk5KNUotQUJHRTdsTmR1T1R2ci02TTJpbW1aV0lZR0RaQnV5TjlXcDZmV1h6QnozeTRzUDJJQ1U3TEw0QmFsSGNnd3diLWV4R0gteHJET2w0YTJveEJSLTExQnp6bG9YbmJ6S3RrSThCM0pSQXp5bHhONzRVRmFJT0xfaldfSG1ZdnBL?oc=5",
+      "pub_date": 1793728627.0,
+      "article_url": "https://www.thestreet.com/crypto/innovation/aptos-joins-solana-and-ethereum-in-bullishs-tokenized-stock-plan",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Ethereum Foundation highlights wallet protocols for enhanced privacy",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52c19RUy1QcFB6WXc2TFJhendqR0o3V3dVTS0zTENGcUdjNHdqX2VHZWZOSmxSVGpBZU5Ma0N3M0dhMTRqVEVZVnVfS0E3dlB1Y2hDZ3pZQkNsRXk2VFZQTFhKVVdoV3VELTMxV3R6OEFNWXcyNlUtOA?oc=5",
+      "pub_date": 1793748826.0,
+      "article_url": "https://cryptobriefing.com/ethereum-foundation-kohaku-wallet-privacy/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/03183339/library-ethereum-foundation-highlights-wallet-protocols-for-enha-800x450.png",
+      "description": "The Ethereum Foundation's Kohaku SDK brings stealth addresses, shielded balances and formally verified privacy tools to Ethereum wallets."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-04T00:06:10.135344+00:00"
+  "fetched_at": "2026-11-04T06:52:20.181149+00:00"
 }
