@@ -61,6 +61,20 @@
       "site_name": "Bitcoin Core"
     },
     {
+      "title": "The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers",
+      "url": "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly",
+      "hn_url": "https://news.ycombinator.com/item?id=50357834",
+      "author": "thelonelyborg",
+      "points": 3,
+      "num_comments": 1,
+      "created_at": "2026-11-03T20:37:45Z",
+      "object_id": "50357834",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "0xca333.substack.com"
+    },
+    {
       "title": "AI Can Breach Crypto Apps, Not Bitcoin \u2013 That's Where the Real Risk Lives",
       "url": "https://www.ainvest.com/news/ai-breach-crypto-apps-bitcoin-real-risk-lives-2610/",
       "hn_url": "https://news.ycombinator.com/item?id=50303963",
@@ -103,20 +117,6 @@
       "site_name": "GitHub"
     },
     {
-      "title": "Bitcoin Puzzle Research: Methods, Research and Lessons from Negative Results [pdf]",
-      "url": "https://github.com/escache/bitcoin-puzzle-methods/blob/main/BITCOIN_RESEARCH_METHODS_EXPLAINED.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=50265366",
-      "author": "ioevno",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-10-27T20:32:46Z",
-      "object_id": "50265366",
-      "image": "https://opengraph.githubassets.com/4b23d3963418824e3ae701f0ada96fac7c01a7ce4050843f95dd6041ec4c126b/escache/bitcoin-puzzle-methods",
-      "description": "Contribute to escache/bitcoin-puzzle-methods development by creating an account on GitHub.",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Bitcoin direction model I built lost to \"price stays the same\"",
       "url": "https://btcforecaster.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50286408",
@@ -145,7 +145,7 @@
       "site_name": "Delving Bitcoin"
     }
   ],
-  "total_hits": 13,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-11-03T19:09:40.066868+00:00"
+  "fetched_at": "2026-11-04T00:05:52.094635+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-03T19:10:17.444503+00:00'
+updated: '2026-11-04T00:06:17.348913+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 03, 2026 at 19:10 UTC  
+**Last Updated:** November 04, 2026 at 00:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,288.18
+### $2,291.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -3.0%  
+**24h:** +0.9%  
+**7d:** +1.1%  
 **30d:** -15.6%  
-**90d:** +20.3%  
-**1y:** -30.7%  
+**90d:** +18.9%  
+**1y:** -33.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.60B
+**Market Cap:** $277.67B
 Rank #2
 
 **Circulating Supply:** 122,186,162 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.7%
+-54.1%
 
 **All-Time Low:** $0.43
-+528440.6%
++524761.5%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am so freaking desperate and dying of FOMO as i cannot afford the Devcon 8 tickets and if anyone any single being can sponser or offer me that ticket please My profile is kidna ticket less i need that ticket 😭 FYI : I am a 3rd year Computer science engineering student at Mumbai University and ofc i have too many financial constraints to afford one
 
-8d ago
+9d ago
 
 ---
 
@@ -136,7 +136,7 @@ This is a repost from yesterdays Daily for better visibility. I made a thing tha
 
 The Glamsterdam upgrade on Hoodi, previously scheduled for October 26, 2026 at 17:42:48 UTC (epoch `132,352`), has been postponed. A new activation date has...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 11d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay) • 12d ago
 
 ---
 
@@ -152,9 +152,17 @@ I accidentally sent ETH from Binance to Robinhood using the Binance Smart Chain 
 
 ## Google News: "ethereum"
 
+**[Bitcoin, XRP, Ethereum Sentiment Tanks but One Coin Is Holding Its Ground](https://www.tradingview.com/news/benzinga:74173d18b094b:0-bitcoin-xrp-ethereum-sentiment-tanks-but-one-coin-is-holding-its-ground/)**
+
+Bitcoin CRYPTO:BTCUSD and XRP CRYPTO:XRPUSD are seeing increasingly negative sentiment, while Ethereum CRYPTO:ETHUSD comparatively is holding its ground in what analytics firm Santiment calls a contrarian buying opportunity.Why Sentiment Has Collapsed Across the MarketSantiment Intelligence said Tu…
+
+TradingView • 7h ago
+
+---
+
 **[ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations](https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero)**
 
-CoinDesk • 7h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -166,19 +174,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Designing for sovereignty: Ethereum for digital public infrastructure](https://blog.ethereum.org/2026/11/03/digital-pub-infra)**
+**[Ethereum USD (ETH-USD) Seasonal returns chart](https://au.finance.yahoo.com/quote/ETH-USD/seasonality/)**
 
-Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation...
+Ethereum USD (ETH-USD) seasonal returns chart provides the mean and median returns by month to inform your investment strategy.
 
-ethereum.org • 15h ago
-
----
-
-**[Current price of Ethereum for November 3, 2026](https://fortune.com/article/price-of-ethereum-11-03-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
+Yahoo Finance Australia • 1h ago
 
 ---
 
@@ -190,6 +190,30 @@ XRP and Ethereum both trade far below their 2025 peaks. Here's which one has a b
 
 ---
 
+**[Designing for sovereignty: Ethereum for digital public infrastructure](https://blog.ethereum.org/2026/11/03/digital-pub-infra)**
+
+Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation...
+
+ethereum.org • 20h ago
+
+---
+
+**[How Ethereum Infrastructure Fits Into Tokenized Securities Markets](https://www.floridatoday.com/story/special/contributor-content/2026/11/03/how-ethereum-infrastructure-fits-into-tokenized-securities-markets/92592354007/)**
+
+This article looks at how that infrastructure works, without suggesting what it could mean for any asset’s price or demand.
+
+Florida Today • 3h ago
+
+---
+
+**[Current price of Ethereum for November 3, 2026](https://fortune.com/article/price-of-ethereum-11-03-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 12h ago
+
+---
+
 **[Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish](https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish)**
 
 Tom Lee laid out six reasons the market’s “muted” 4% Ethereum drop after the record Binance theft shows crypto is “increasingly resilient."
@@ -198,31 +222,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Why are Bitcoin, Ethereum and XRP trading under pressure?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-under-pressure-as-investors-pull-capital-202611031037)**
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rebound as November begins after a losing October](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-as-november-begins-after-a-losing-october-202611020358)**
 
-FXStreet • 8h ago
-
----
-
-**[Tron: Flips Ethereum in USDT Supply](https://blockchain.news/flashnews/tron-flips-ethereum-usdt-supply)**
-
-Onchain Lens reports Tron ended Q3 2026 with $92.35B in USDT circulating supply ahead of Ethereum's $86.69B after taking the lead on July 23, with current...
-
-Blockchain News • 1d ago
-
----
-
-**[Tom Lee calls Ethereum’s 4% post-hack fall bullish](https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/)**
-
-Tom Lee calls Ethereum’s 4% fall after Binance’s hack bullish. His Bybit comparison uses a longer period, while BitMine keeps buying ETH.
-
-CryptoSlate • 18h ago
-
----
-
-**[Aptos joins Solana and Ethereum in Bullish’s tokenized stock plan](https://www.thestreet.com/crypto/innovation/aptos-joins-solana-and-ethereum-in-bullishs-tokenized-stock-plan)**
-
-TheStreet • 1h ago
+FXStreet • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/7S92LtEi My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 282 • 👍 9 • 💬 2 • ⏱️ 12:49 • 3h ago
+👁️ 779 • 👍 5 • 💬 3 • ⏱️ 12:49 • 8h ago
 
 ---
 
@@ -246,7 +248,17 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 16K • 👍 331 • 💬 123 • ⏱️ 47:29 • 23h ago
+👁️ 17K • 👍 349 • 💬 121 • ⏱️ 47:29 • 1d ago
+
+---
+
+**[Is Cardano still an Ethereum killer?](https://www.youtube.com/watch?v=qfWr9pK_2dw)**
+
+cardano #ada #crypto Is Cardano still an Ethereum killer? We compare the two ecosystems to see how their market structures and ...
+
+📺 Crypto Dossier
+
+👁️ 651 • 👍 88 • 💬 19 • ⏱️ 23:35 • 5h ago
 
 ---
 
@@ -256,25 +268,17 @@ CRUCIAL XRP LEDGER SECURITY FLAW FOUND! ETHEREUM IS BETTER? Hey babes, an XRP Le
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 207 • 💬 30 • ⏱️ 5:52 • 21h ago
+👁️ 8K • 👍 208 • 💬 30 • ⏱️ 5:52 • 1d ago
 
 ---
 
-**[ETHEREUM AND XRP ARE GOING TO ZERO #xrp #crypto #ethereum](https://www.youtube.com/watch?v=xuuJ_ceKMiE)**
+**[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=IPWeLJ5RaZk)**
 
-📺 CryptoWendyO
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-👁️ 23K • 👍 798 • 💬 61 • ⏱️ 1:14 • 2d ago
+📺 Crypto Nutshell
 
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=iYglvtNOrFI)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 982 • 👍 57 • ⏱️ 7:51 • 6h ago
+👁️ 17K • 👍 306 • 💬 93 • ⏱️ 23:22 • 1d ago
 
 ---
 
@@ -288,33 +292,23 @@ Can Ethereum reclaim $2300—or is $1950 next? If $2300 acts as resistance, $195
 
 ---
 
-**[ETH Ethereum Price Prediction: 2nd of November](https://www.youtube.com/watch?v=7Y8G6r0ghxY)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 443 • 👍 6 • 💬 17 • ⏱️ 9:47 • 1d ago
-
----
-
 **[Ethereum&#39;s Biggest Bull Case Has One Massive Flaw](https://www.youtube.com/watch?v=yj1Aug58WpA)**
 
 Want to see what Buffett, Pelosi and Vitalik own? Track their holdings for free with our Insider Portfolios at: ...
 
 📺 Milk Road
 
-👁️ 6K • 👍 77 • 💬 77 • ⏱️ 14:53 • 2d ago
+👁️ 7K • 👍 77 • 💬 76 • ⏱️ 14:53 • 2d ago
 
 ---
 
-**[Raoul Pal :&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot;](https://www.youtube.com/watch?v=IPWeLJ5RaZk)**
+**[BITCOIN WARNING: Next Price Target Activated (Get Ready)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SK6JlCm4efY)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+BITCOIN WARNING: Next Price Target Activated (Get Ready)!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 17K • 👍 303 • 💬 92 • ⏱️ 23:22 • 1d ago
+👁️ 12K • 👍 291 • 💬 102 • ⏱️ 16:35 • 1d ago
 
 ---
 
@@ -325,6 +319,16 @@ Crypto is doing better following a steep downtrend into a bear market, though as
 📺 Schwab Network
 
 👁️ 8K • 👍 39 • 💬 6 • ⏱️ 7:08 • 2d ago
+
+---
+
+**[A Whale Bought $63M of Ethereum Overnight!!](https://www.youtube.com/watch?v=1VItCDIU1jQ)**
+
+WEEX - where I trade (up to $10000+ in sign-up rewards) https://marzell.org/wx-v104 CoinGPT - the AI scanner I use for a ...
+
+📺 Marzell Crypto
+
+👁️ 359 • 👍 8 • 💬 1 • ⏱️ 3:12 • 1d ago
 
 ---
 
