@@ -5,32 +5,22 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "China blocks SoftBank\u2019s $5.4 billion takeover of ABB\u2019s robotics division",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBJa2g4T1RZOXVuY3phU1ZicmlpM0kzUTdjNlBrMmtNZ29aNlBxZzNwQWkzam9WNVB6MGFwV2tERnA5WWNhWE9ZaWtKaV9JMDdpWHBKRjUyU2ZKU2lEN2R4U29ZQlo3T3g1cndpLUNqZXFhclphYzdyN0thaXM5WXl4UnN2eGZiUXd4SXdUenppTXNRTU1CV3RURnEyT05XUFRNUWFiMGNwN0QzYjVtS1Zoc24zcV9lWHV2eDZQckJwb2ZpS3g0OG9VMnpJaHJt?oc=5",
-      "pub_date": 1793848500.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit",
+      "headline": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
-      "pub_date": 1793862060.0,
+      "pub_date": 1793879400.0,
       "article_url": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf",
       "image": null,
       "description": null
     },
     {
-      "headline": "China blocks SoftBank\u2019s $5.4bn takeover of ABB\u2019s robotics division",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5",
-      "pub_date": 1793862845.0,
-      "article_url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1",
+      "headline": "The Future of Home Robotics",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUy1vTldQRVJWZE9mckUwTHU1R0oxNTBwajRUYnFCcE9OR1lLRW4zemEwVGNoSDdxcVhIbXluRHFhRkR5VnFlTnlpcERoQmJ0TFZnT1N2YXpnZmhBZDJXNzQydXFNWVB2RHdWczZyczgzb1hDclBadW1WakM0SzVzUzA5Vk1rdXZ2Z19JdUwwVkxtQldx?oc=5",
+      "pub_date": 1793897754.0,
+      "article_url": "https://www.wsj.com/video/the-future-of-home-robotics/152250DF-B1C5-4D96-9127-7F3D3F8FB77E",
       "image": null,
       "description": null
     },
@@ -45,24 +35,14 @@
       "description": null
     },
     {
-      "headline": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
+      "headline": "A former Apple and Uber engineer raised $51 million to rethink the self-driving truck",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5",
-      "pub_date": 1793841120.0,
-      "article_url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
-      "image": "https://i.insider.com/6aebcea0c54bfafa65abf24a?width=1200&format=jpeg",
-      "description": "The Oregon startup, whose humanoid robots carry heavy materials in factories and warehouses, is expected to begin trading on Nasdaq on Thursday."
-    },
-    {
-      "headline": "Hell in a Handbasket: Robotic Humanoid Torsos for Companionship",
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkVzRndQb0JsQmt6OHYyZEJpdndDZVdUZURxZFViMlJWVjBwdzVEYy1ZdE9qS0hxb3V2NU1ZQXJKRFdHOUh0VjNOSHl6WmhlYjE2TFoyTngwYXh0WjNxaXRiQXNQTG1tR3R6dVNSNnd1VEtDVE9ndE83eWtGRjRoWmswSjByQ3I5cW1WTHo4SzdiZEpKSzhMNkM1LXd3Vzg?oc=5",
-      "pub_date": 1793804933.0,
-      "article_url": "https://www.core77.com/posts/145830/Hell-in-a-Handbasket-Robotic-Humanoid-Torsos-for-Companionship",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1856090_lead_400_145830_.jpeg",
-      "description": "Las-Vegas-based robotics company Realbotix is developing these Echo robots. These are companionship robots, imbued with AI software designed to carry conversations. To cut down on costs, the 'bots are just a head and torso, absent expensive joints and limbs. Four models are in"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEhKMmM1YlR6MEZsanJJZVFvZmVNSnpyQ2JLaDVhLXhMZkJ3TWdNTjVpZ3RCMTNOYmdkWEFtZjJpZDdYYmlyUWlaZDJjV2FSdEJVcTVGUjNqODV1Zm14WDFMOThDYkw4Q0NZWFZuUDF2blFGbDVOdmljTllsM25RSHVtbElKWE1PZFNOQm5aWkxCcExsYWlBZ1pFQk1zXzMxU0MzUHpBcGM?oc=5",
+      "pub_date": 1793887200.0,
+      "article_url": "https://www.businessinsider.com/humble-robotics-raises-51-million-for-cabless-self-driving-trucks-2026-11",
+      "image": "https://i.insider.com/6aeb54449270da3cc6668010?width=1200&format=jpeg",
+      "description": "Humble Robotics raised $51 million to build electric, cabless self-driving trucks. Founder Eyal Cohen previously worked at Apple, Uber, and Waabi."
     },
     {
       "headline": "Disney Accelerator's 2026 Demo Day Explores New Frontiers in Storytelling, Robotics, and Guest Experiences",
@@ -75,14 +55,24 @@
       "description": "The Disney Accelerator hosted its 2026 Demo Day, showcasing new collaborations with five companies: Promise, OpenArt, FieldAI, Physical Intelligence, & Simile."
     },
     {
-      "headline": "22 Hedge Funds Back This Defeated Robotics Stock: Time to Buy the Dip?",
+      "headline": "Is Teradyne (TER) Changing The Robotics Story With Its New Physical AI Push?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZEtXajlFUE1kdllvd2R2bzlhSlNPUFVVR0pOS004OXVjTFo1WGwwRmRBdUJ0b3FmSExfbldHUVN1Q2gza3Z4dEJ1U0xYM05SUFppbUZNN2EtQjg2NWxvT3RxWEFQMEtNVWxOR3VOX090U1FZc184cE15UjNKdkRqSy1lVVphaXc4bFNSRHNJTzZRZnBkc2RDRw?oc=5",
-      "pub_date": 1793721560.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/22-hedge-funds-back-defeated-155920761.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/94fbcf5820723dc462ebdf017f8a8b7e22494dcba1f671958fbda62ddaf47ce1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc98cc923074304630fc6856b03ed51d5.jpg",
-      "description": "We just published the list of the 10 Best Robotics and Automation Stocks to buy that are on sale and Ondas Inc. (ONDS) is ranked 9th on this list. Robotics and automation have become increasingly important areas of investment as manufacturers, logistics operators, and businesses turn to intelligent systems to improve productivity. Yet the expansion of [\u2026]"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnh5MjR1VWxodEJ2dlFHMUhUN293RjlsbkZIZTBiV2lpcHpiTkJQaG1jTFRGd3diaGZMaVNZc3VYQk9NUGhfWjlXTk84LVhlR21oQnJVdVZaNWlYMEZvTzdOQmN3eUo4ZlVwaXEwRG0yVVFxVVFOTWczMlI2NmNpVEhTT0Z2Y01ISkhRUmE1UFU2c2FjSmtuODQwVG5QYVJGTnc?oc=5",
+      "pub_date": 1793805417.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/teradyne-ter-changing-robotics-story-151657659.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/58c8b3bbd6cab1e36add3c2b49d90d5524703726fbc8066850fad02c6dade6f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F3730f7340ade4524431170038c298305.jpg",
+      "description": "Teradyne (NasdaqGS:TER) unit Teradyne Robotics has partnered with German AI firm Sereact to deploy physical AI systems for retail and logistics operations. The collaboration features Sereact's vision language action platform for automated returns handling and piece picking in fulfillment centers. Real world deployments are already running at major European logistics hubs serving Zalando, with a joint demo shown at a recent industry event. The Teradyne Robotics and Sereact tie up on AI..."
+    },
+    {
+      "headline": "Noitom Robotics Introduces ITW-Ego Plus at CoRL 2026: In-the-Wild Egocentric Data With Full-Body Motion",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNGd4TkdURlhISjU2WXJYX2l4MmZ1VW5jMFZPcHgxN1ZHQ2RUQ0hRQjNHN3lmbkMwX0RoWFFVTXZUTGZhM1c4M3llUHJhWUR4ZFppUm1ZTEMxQmp4ZUpiTG9kVHVMaXBiYTVqcnZycDl6R1RlaVROeVdqNTk5WEdFUDQ2WGNTR0hPYnkzU2hub19yei1LVDVSRG9GbDZxSExWMVlGU3RjcVI5S0tJeEplMXRlcHZ4OHFORmpJcFlQZzBWLXFqTUxoVktHWnJNNU9xVDZWWVhIVjVOcXBSbzFVWVhQcjc4ZmdzQ1E?oc=5",
+      "pub_date": 1793889244.0,
+      "article_url": "https://www.usatoday.com/press-release/story/55875/noitom-robotics-introduces-itw-ego-plus-at-corl-2026-in-the-wild-egocentric-data-with-full-body-motion/",
+      "image": "https://pix.xpr.media/p/eyJzIjoiZWU2MmQ3N2EtMWE5OS00ZDQ0LWFkNDctZGJiZDkxMTNmZDUyIiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.KzoU2C0SUGKTQjk6VBUYIoKxLBy7TNTJHi0bjrVe2hM.gif",
+      "description": "Three main-track papers \u2014 HiPHI, OmniContact and AdaPT \u2014 presented Nov. 10; NEAR Lab research unit introduced; Booth"
     },
     {
       "headline": "Robotics Startup Radar 2026",
@@ -95,16 +85,26 @@
       "description": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics."
     },
     {
-      "headline": "FF EAI Robotics Ecosystem Announces Strategic Partnership with California Science and Technology University and Boston International Business School to Advance Robotics Education, Talent Development, and Innovation",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPRlA5eDFFZW9CMU1DWUpnZFFFQ3puNUwtUUhoN0xPckljUVhEMHZJTEttaEtlQ3pSdGJXb0pyODMyUkpnZ3ZFdXRtbjIxd1d2NFJrSjlwa2xGYmlNeS1rel9FVG5Hdkw1WmJhLUJUNHU1Yl90T2hHaTRtSGFtaUNyLXpRUzIwbHE5QU9RRkFudU44RDRuV1lNRjUzXy0zNHZIUkQtWnc2M0dYSXlWR05JYURaLWY5ZXByeUdBdWQtRDZlOXp0MWllZVdrNWxUYmtlWHpnbEh3Wm5EeFh1NG1JTERWMlMzaGlNcV9zUTN2bnFKM3czVWVqYzlvWjY1dFUxSTcxdERRcko5enBxc2g2VmRjMW1tdVVqUHpWcHVLSml3YlJHbmpvNmozcXpOXzJYZV9sSXByY0x3WEpmNEJjdXlpVDREam5vbHFEVktFcDMtNlpUblV5aW8yZUxCa2FBUFRqRlgwSkF2YmNmQTREOUE1LXdqSUdOUVFQUERMcW5KRzJGOE9Lcg?oc=5",
-      "pub_date": 1793847112.0,
-      "article_url": "https://www.morningstar.com/news/pr-newswire/20261104cn89829/ff-eai-robotics-ecosystem-announces-strategic-partnership-with-california-science-and-technology-university-and-boston-international-business-school-to-advance-robotics-education-talent-development-and-innovation",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "description": null
+      "headline": "Humble Robotics raises $51m for electric trucks with no driver\u2019s cab",
+      "source": "The Next Web",
+      "source_url": "https://thenextweb.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSWlvX0F2LXJpY1NhU2lpendrNl9lVzZkN0h2V29SMWFzVFFDQ0RMTnFnb2RMV1JCN0xzaUJmM04yVWp1ejZxNUJuMy12MkYtTGlsa1ZZVDhvRXRWR1l3SmUwQVVVU3NUS0dFMzNHbXhQMDRnV195WEpnSlRiNE5hUmVKUWc1UUpTRk83Ym1PMlJSRzdDTHc?oc=5",
+      "pub_date": 1793898971.0,
+      "article_url": "https://thenextweb.com/news/humble-robotics-51m-series-a-cabless-electric-autonomous-trucks",
+      "image": "https://media.thenextweb.com/2026/11/humble-hauler-cabless-electric-truck-warehouse.jpg",
+      "description": "\u2018The harder question is how to make autonomy something a freight operator can depend on,\u2019 says Humble Robotics CEO Eyal Cohen."
+    },
+    {
+      "headline": "MIT students build combat robots designed to survive brutal battles",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2JyNlFVbVlGeGV1a1k2U3BFMTRINWhxTW44Ul91QzdCd05ibnJXcW1DbTBpRUpxODdpc1ZxVm9xLXFFb2plUUxBdDRhMWR1ZjRXc1EwSjNRdHBUbmxBdmZLcnlPTXBwUmVzRUN1Z2ZzbExwbWJEZ3ZGNWt6QWs2RGlObnpSQjNI?oc=5",
+      "pub_date": 1793886300.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/fighting-robots-get-armor-upgrades",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-7-1.jpg",
+      "description": "MIT students upgraded the ARES and KRATOS combat robots with enhanced armor and improved weapon systems."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-05T09:02:28.503239+00:00"
+  "fetched_at": "2026-11-05T17:33:11.019751+00:00"
 }

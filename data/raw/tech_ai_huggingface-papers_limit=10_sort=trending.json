@@ -16,7 +16,26 @@
       "num_comments": 5,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 46814,
+      "github_stars": 46916,
+      "project_page": null
+    },
+    {
+      "id": "2412.20138",
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
+      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
+      "hf_url": "https://huggingface.co/papers/2412.20138",
+      "arxiv_url": "https://arxiv.org/abs/2412.20138",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
+      "upvotes": 162,
+      "num_comments": 6,
+      "published_at": "2024-12-28T07:54:06.000Z",
+      "github_repo": "https://github.com/tauricresearch/tradingagents",
+      "github_stars": 120780,
       "project_page": null
     },
     {
@@ -35,27 +54,8 @@
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 4780,
+      "github_stars": 4820,
       "project_page": "https://tokeneconomizer.github.io/"
-    },
-    {
-      "id": "2412.20138",
-      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
-      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
-      "hf_url": "https://huggingface.co/papers/2412.20138",
-      "arxiv_url": "https://arxiv.org/abs/2412.20138",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 161,
-      "num_comments": 6,
-      "published_at": "2024-12-28T07:54:06.000Z",
-      "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 120676,
-      "project_page": null
     },
     {
       "id": "2610.14224",
@@ -73,7 +73,7 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 22669,
+      "github_stars": 22778,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 16634,
+      "github_stars": 16694,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 1,
       "published_at": "2026-10-31T20:00:00.000Z",
       "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
-      "github_stars": 212,
+      "github_stars": 230,
       "project_page": "https://openrua.ai/uni-robot-agent"
     },
     {
@@ -130,26 +130,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 30571,
-      "project_page": null
-    },
-    {
-      "id": "2011.09832",
-      "title": "Differentiable Data Augmentation with Kornia",
-      "authors": "Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "In this paper we present a review of the Kornia differentiable data\naugmentation (DDA) module for both for spatial (2D) and volumetric (3D)\ntensors. This module leverages differentiable computer vision solutions from\nKornia, with an aim of integrating data augmentation (DA) pipelines and\nstrategies to existing PyTorch components (e.g. autograd for differentiability,\noptim for optimization). In addition, we provide a benchmark comparing\ndifferent DA frameworks and a short review for a number of approaches that make\nuse of Kornia DDA.",
-      "ai_summary": "This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.",
-      "hf_url": "https://huggingface.co/papers/2011.09832",
-      "arxiv_url": "https://arxiv.org/abs/2011.09832",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2011.09832.png",
-      "upvotes": 1,
-      "num_comments": 0,
-      "published_at": "2020-11-19T09:15:21.000Z",
-      "github_repo": "https://github.com/arraiyopensource/kornia",
-      "github_stars": 12328,
+      "github_stars": 30616,
       "project_page": null
     },
     {
@@ -172,6 +153,25 @@
       "project_page": "https://tencent.github.io/WeVisOne-VL"
     },
     {
+      "id": "2011.09832",
+      "title": "Differentiable Data Augmentation with Kornia",
+      "authors": "Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "In this paper we present a review of the Kornia differentiable data\naugmentation (DDA) module for both for spatial (2D) and volumetric (3D)\ntensors. This module leverages differentiable computer vision solutions from\nKornia, with an aim of integrating data augmentation (DA) pipelines and\nstrategies to existing PyTorch components (e.g. autograd for differentiability,\noptim for optimization). In addition, we provide a benchmark comparing\ndifferent DA frameworks and a short review for a number of approaches that make\nuse of Kornia DDA.",
+      "ai_summary": "This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.",
+      "hf_url": "https://huggingface.co/papers/2011.09832",
+      "arxiv_url": "https://arxiv.org/abs/2011.09832",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2011.09832.png",
+      "upvotes": 1,
+      "num_comments": 0,
+      "published_at": "2020-11-19T09:15:21.000Z",
+      "github_repo": "https://github.com/arraiyopensource/kornia",
+      "github_stars": 12340,
+      "project_page": null
+    },
+    {
       "id": "2611.02501",
       "title": "SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding",
       "authors": "Kunjun Li, Wenhao Chai, Yihao Liang et al. (10 authors)",
@@ -183,15 +183,15 @@
       "hf_url": "https://huggingface.co/papers/2611.02501",
       "arxiv_url": "https://arxiv.org/abs/2611.02501",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.02501.png",
-      "upvotes": 19,
+      "upvotes": 18,
       "num_comments": 2,
       "published_at": "2026-11-01T19:00:00.000Z",
       "github_repo": "https://github.com/StargazerX0/SpecPilot",
-      "github_stars": 123,
+      "github_stars": 152,
       "project_page": "https://stargazerx0.github.io/specpilot-project-page/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-05T09:02:02.420637+00:00"
+  "fetched_at": "2026-11-05T17:32:38.649450+00:00"
 }
