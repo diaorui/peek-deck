@@ -134,25 +134,6 @@
       "project_page": null
     },
     {
-      "id": "2610.31329",
-      "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
-      "authors": "Tianming Liang, Junyi Pan, Yuxi Li et al. (8 authors)",
-      "organization_name": "tencent",
-      "organization_fullname": "Tencent",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
-      "summary": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level perception through structured next-token prediction. It supports multiple visual tasks including object detection, referring localization, counting, OCR, segmentation, and matting, enabling localization at any user-specific granularity, from points and boxes to masks and alpha mattes. Architecturally, we integrate a lightweight pixel decoder into the VLM via a special <OBJ> token to generate instance-level pixel outputs. We train the model with a three-stage curriculum SFT followed by mixed-task RL. Across over 30 benchmarks, WeVisOne-VL demonstrates leading performance on both object-level and pixel-level tasks, while maintaining robust rejection for object-absent queries. By releasing WeVisOne-VL to the open-source community, we hope to advance VLMs from broad visual understanding toward truly reliable perception systems for real-world deployment.",
-      "ai_summary": "WeVisOne-VL unifies object-level and pixel-level visual perception via structured token prediction, supporting detection, localization, counting, OCR, segmentation, and matting with a lightweight pixel decoder and multi-stage training.",
-      "hf_url": "https://huggingface.co/papers/2610.31329",
-      "arxiv_url": "https://arxiv.org/abs/2610.31329",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.31329.png",
-      "upvotes": 44,
-      "num_comments": 4,
-      "published_at": "2026-10-21T20:00:00.000Z",
-      "github_repo": "https://github.com/Tencent/WeVisOne-VL",
-      "github_stars": 987,
-      "project_page": "https://tencent.github.io/WeVisOne-VL"
-    },
-    {
       "id": "2011.09832",
       "title": "Differentiable Data Augmentation with Kornia",
       "authors": "Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)",
@@ -172,6 +153,25 @@
       "project_page": null
     },
     {
+      "id": "2610.31329",
+      "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+      "authors": "Tianming Liang, Junyi Pan, Yuxi Li et al. (8 authors)",
+      "organization_name": "tencent",
+      "organization_fullname": "Tencent",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
+      "summary": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level perception through structured next-token prediction. It supports multiple visual tasks including object detection, referring localization, counting, OCR, segmentation, and matting, enabling localization at any user-specific granularity, from points and boxes to masks and alpha mattes. Architecturally, we integrate a lightweight pixel decoder into the VLM via a special <OBJ> token to generate instance-level pixel outputs. We train the model with a three-stage curriculum SFT followed by mixed-task RL. Across over 30 benchmarks, WeVisOne-VL demonstrates leading performance on both object-level and pixel-level tasks, while maintaining robust rejection for object-absent queries. By releasing WeVisOne-VL to the open-source community, we hope to advance VLMs from broad visual understanding toward truly reliable perception systems for real-world deployment.",
+      "ai_summary": "WeVisOne-VL unifies object-level and pixel-level visual perception via structured token prediction, supporting detection, localization, counting, OCR, segmentation, and matting with a lightweight pixel decoder and multi-stage training.",
+      "hf_url": "https://huggingface.co/papers/2610.31329",
+      "arxiv_url": "https://arxiv.org/abs/2610.31329",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.31329.png",
+      "upvotes": 44,
+      "num_comments": 4,
+      "published_at": "2026-10-21T20:00:00.000Z",
+      "github_repo": "https://github.com/Tencent/WeVisOne-VL",
+      "github_stars": 1009,
+      "project_page": "https://tencent.github.io/WeVisOne-VL"
+    },
+    {
       "id": "2611.02501",
       "title": "SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding",
       "authors": "Kunjun Li, Wenhao Chai, Yihao Liang et al. (10 authors)",
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2611.02501",
       "arxiv_url": "https://arxiv.org/abs/2611.02501",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.02501.png",
-      "upvotes": 18,
+      "upvotes": 19,
       "num_comments": 2,
       "published_at": "2026-11-01T19:00:00.000Z",
       "github_repo": "https://github.com/StargazerX0/SpecPilot",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-05T17:32:38.649450+00:00"
+  "fetched_at": "2026-11-05T23:20:25.794730+00:00"
 }

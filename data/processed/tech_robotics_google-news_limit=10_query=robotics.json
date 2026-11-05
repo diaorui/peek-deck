@@ -5,32 +5,22 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
-      "pub_date": 1793879400.0,
-      "article_url": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The Future of Home Robotics",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUy1vTldQRVJWZE9mckUwTHU1R0oxNTBwajRUYnFCcE9OR1lLRW4zemEwVGNoSDdxcVhIbXluRHFhRkR5VnFlTnlpcERoQmJ0TFZnT1N2YXpnZmhBZDJXNzQydXFNWVB2RHdWczZyczgzb1hDclBadW1WakM0SzVzUzA5Vk1rdXZ2Z19JdUwwVkxtQldx?oc=5",
-      "pub_date": 1793897754.0,
-      "article_url": "https://www.wsj.com/video/the-future-of-home-robotics/152250DF-B1C5-4D96-9127-7F3D3F8FB77E",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq",
       "source": "OregonLive.com",
       "source_url": "https://www.oregonlive.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTl9RN05YUkdVcGRrbHlvMTg4cm1yREpveDBMWXRWTm5aNWFZM0ZTazZBT2J0aXB2Z0J5RXVRTXpzWnpJM0xIckRLQ3dqa2RWM1JncUJMYWxpZzdVN3FGUFV3SE41d3F6bTAxei1nQnVyMmlJajZ4M2Y2ZU9QbE4xQzZSeEF6X3k4ZHptVldsa19sX1laT2poSDZvRHBUTGN1TTEtOE1rMFZPbkpIaHhYbjlMaEt4RWxJNnQzYXZ2b2tSTmlqdU5QZEJZcktSOWdkTERObjJsSGY?oc=5",
-      "pub_date": 1793838780.0,
+      "pub_date": 1793898180.0,
       "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China Blocks SoftBank\u2019s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmlCanlYdUl5YWZwSTdBM1V2NXJnUFlVTnlPNzRPT0ZqZlVHMHNtZmY0dmdKMEJLMlh4SUU5bER3UFp0ampfcUdIS28tMk1mMkZXZDBHLTl0Y1hCNWhlcm1XSi1yUV9MSVlXdjF2Y0RCOERoTDZJZ2dUUTRNMnVpeXNMZlM?oc=5",
+      "pub_date": 1793877783.0,
+      "article_url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
       "image": null,
       "description": null
     },
@@ -45,24 +35,24 @@
       "description": "Humble Robotics raised $51 million to build electric, cabless self-driving trucks. Founder Eyal Cohen previously worked at Apple, Uber, and Waabi."
     },
     {
-      "headline": "Disney Accelerator's 2026 Demo Day Explores New Frontiers in Storytelling, Robotics, and Guest Experiences",
-      "source": "The Walt Disney Company",
-      "source_url": "https://thewaltdisneycompany.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jV0xVX0RpNEFreTE1QlZGNThiVlhnZmtCazBBQng0cEdjQzJnN0hsMGo4Q2hEOXdlREdwMzB3dUMwYm14NnZXRnN6WjVWa2twMGx2alJxeWJVaEYxVXIwZHZueS1tb1dLeEwybzZoTkNLdw?oc=5",
-      "pub_date": 1793744206.0,
-      "article_url": "https://thewaltdisneycompany.com/news/accelerator-demo-day-2026/",
-      "image": "https://thewaltdisneycompany.com/app/uploads/2026/11/20261103_DL3_2297-scaled.jpg",
-      "description": "The Disney Accelerator hosted its 2026 Demo Day, showcasing new collaborations with five companies: Promise, OpenArt, FieldAI, Physical Intelligence, & Simile."
+      "headline": "Chinese Tourists Are Renting Robotic Exoskeletons to Climb Mountains. The Trend Is Spreading",
+      "source": "ZME Science",
+      "source_url": "https://www.zmescience.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUNieTNtelFOWEN5cmFZeW1oZGtOcnJGZlBYc0NQbjFqSkVkOEFJaWZ1SEVMR18zajZPSXBRM3BHVXBpQVFLcGlHQ1N1N09LVlBDZzZKTGpJU1J5M1RyQXhjeEFSMTJiTHlQX3VNREc2aXJiV2ZNSEJWZ2tQT2gzVjh5bDk?oc=5",
+      "pub_date": 1793898975.0,
+      "article_url": "https://www.zmescience.com/science/robotics/exoskeleton-china-up-mountian-rep/",
+      "image": "https://cdn.zmescience.com/wp-content/uploads/2025/02/qGmaODj2ANVVRrAlxdDzXKEOZH4duBbM_hDzuB5866n6NfurJ04cpFsHNsNP3KlXPrC0fVsVeFQZa4n8-MwH_rZI8JWoiGw6M3g4MgsSOskPkNq2heZ7XCjlwdzonfvLuc4nK4lJZUN_ed_Sjq_9828Xap9PIsQY2zpq6JZc_JSQSHd493sQfuKbjiJSj98u.jpg",
+      "description": "What began as an experiment has grown into a commercial tourism industry."
     },
     {
-      "headline": "Is Teradyne (TER) Changing The Robotics Story With Its New Physical AI Push?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnh5MjR1VWxodEJ2dlFHMUhUN293RjlsbkZIZTBiV2lpcHpiTkJQaG1jTFRGd3diaGZMaVNZc3VYQk9NUGhfWjlXTk84LVhlR21oQnJVdVZaNWlYMEZvTzdOQmN3eUo4ZlVwaXEwRG0yVVFxVVFOTWczMlI2NmNpVEhTT0Z2Y01ISkhRUmE1UFU2c2FjSmtuODQwVG5QYVJGTnc?oc=5",
-      "pub_date": 1793805417.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/teradyne-ter-changing-robotics-story-151657659.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/58c8b3bbd6cab1e36add3c2b49d90d5524703726fbc8066850fad02c6dade6f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F3730f7340ade4524431170038c298305.jpg",
-      "description": "Teradyne (NasdaqGS:TER) unit Teradyne Robotics has partnered with German AI firm Sereact to deploy physical AI systems for retail and logistics operations. The collaboration features Sereact's vision language action platform for automated returns handling and piece picking in fulfillment centers. Real world deployments are already running at major European logistics hubs serving Zalando, with a joint demo shown at a recent industry event. The Teradyne Robotics and Sereact tie up on AI..."
+      "headline": "AIM Robotics Showcases Canadian Sovereign Airspace Technology at DND's 2026 Counter-UAS Sandbox",
+      "source": "IndyStar",
+      "source_url": "https://www.indystar.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZm9lenp4ZlVXZ2N5dmRoVlhySzlILWlpRXo4d0RBTUVJSU9OY3VsYzB5ZW5ZZFQ0S2JfVDBOQm1sZ21TUGJFWTBqT1NwU3RkUmZsUXZ5S3pLQ0Fmd0hqanBiUFBmT2ltME8yeEhwbGF5R2V6UjRZRUVYNkp3c3FsTTl1dGRUMHJTUGpLby1lUXAwMGRaUWFDN1ZZVFpZaWFVcjNnSlJWamlRVWowU2YtNURvZG9hamt6aVl3azFTZzNvckpZak1rRURGNWxwY01PcWY3TnJyZEFyNDludlZ2ZA?oc=5",
+      "pub_date": 1793905805.0,
+      "article_url": "https://www.indystar.com/press-release/story/146669/aim-robotics-showcases-canadian-sovereign-airspace-technology-at-dnds-2026-counter-uas-sandbox/",
+      "image": "https://pix.xpr.media/p/eyJzIjoiYTk4N2QzMjQtNDE1OC00NTc2LWJjZDQtNjE5NGEwZGM5NDk3IiwiYyI6ImUwNWQ5YTZjLTQ4OGMtNGIxNi04ZGU5LWYzODY3YjI0NzNlNSIsInYiOjF9.1EotScWCE61v8p8004MzMRwIbsoxr2xWsf8tShNbvyY.gif",
+      "description": "Waterloo-based technology company demonstrates integrated airspace intelligence capabilities in a Canadian defence"
     },
     {
       "headline": "Noitom Robotics Introduces ITW-Ego Plus at CoRL 2026: In-the-Wild Egocentric Data With Full-Body Motion",
@@ -75,24 +65,24 @@
       "description": "Three main-track papers \u2014 HiPHI, OmniContact and AdaPT \u2014 presented Nov. 10; NEAR Lab research unit introduced; Booth"
     },
     {
-      "headline": "Robotics Startup Radar 2026",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RSkNpTWk3ZFdzdmlaOGJWYjN6UVJhU2ZOZWVEekF5ZExBR1oyMUJ0c1FXaVRvVkh5WDZfMlFRaG11TmxuR3lCOHF2aDVzWjVXdERSTlU5Wm9PSWd3OUJWQ3pHM2NlRlRUMnpJ?oc=5",
-      "pub_date": 1793809118.0,
-      "article_url": "https://www.therobotreport.com/robotics-startup-radar-2026/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/RR_Robotics-Startup-Radar_2026-Thumbnail.png",
-      "description": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics."
+      "headline": "Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak",
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVhDWjBLNUFWMzhqcDFjaTFBWVhLYmVGZXFSZXk2ZlpiZ2sxTWJBU2hGMXFKQ2JFYTAyYzBqeGJHZ0tCdkN3cUZjN05LZllmaDIxdFU2NlNQR2txZndzU0lYSGxoLURmQWRwSVFseEdvbEpyU251UFI5NTIzbU12cldOT1I3aDk2V0RMa0lOZU85dzNZaF9wNksxWkJQSklKdkRN?oc=5",
+      "pub_date": 1793880059.0,
+      "article_url": "https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/",
+      "image": "https://news.crunchbase.com/wp-content/uploads/AI-manufacturing.jpg",
+      "description": "Companies spanning construction and robotics have raised about $1.6 billion so far this year  \u2014\u00a0more than 4x the $389 million recorded in all of 2025 \u2014 according to Crunchbase data. The surge was driven by three companies that raised the majority of the funding."
     },
     {
-      "headline": "Humble Robotics raises $51m for electric trucks with no driver\u2019s cab",
-      "source": "The Next Web",
-      "source_url": "https://thenextweb.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSWlvX0F2LXJpY1NhU2lpendrNl9lVzZkN0h2V29SMWFzVFFDQ0RMTnFnb2RMV1JCN0xzaUJmM04yVWp1ejZxNUJuMy12MkYtTGlsa1ZZVDhvRXRWR1l3SmUwQVVVU3NUS0dFMzNHbXhQMDRnV195WEpnSlRiNE5hUmVKUWc1UUpTRk83Ym1PMlJSRzdDTHc?oc=5",
-      "pub_date": 1793898971.0,
-      "article_url": "https://thenextweb.com/news/humble-robotics-51m-series-a-cabless-electric-autonomous-trucks",
-      "image": "https://media.thenextweb.com/2026/11/humble-hauler-cabless-electric-truck-warehouse.jpg",
-      "description": "\u2018The harder question is how to make autonomy something a freight operator can depend on,\u2019 says Humble Robotics CEO Eyal Cohen."
+      "headline": "YYForce Publishes Updated Corporate Presentation Outlining Operating Businesses, Commercial Robotics and 2030 Priorities",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdkZRcmxVZkVvc0lBV01mX2xVRGlPRWJnVlcwSVdmMzAyNG5LaXVHWlJWNkJMSFFUS0xTTG5VbnlrUzlqY09nUGhCdUFRQVE2cHFQSnBaclNiOXlNU095Vi0wcXcwaTJDM2VwX2l2YkROa2d0YnlIWGJtYjJURjRkd3pISUF0d01CMXRvZE42MlluNEpoTnVRS0RFdFlON1NKcVhhV185Tkx0bndLOWF0VjFqOHdCc3ViRTBNX0Y5RVhiOF9pUWtxV2N5a2MxVFg4bWd2Xy1IOFZ3TFZyZjdEb3dCYVd3bC1tMWp4SzdPSWxlSDNtVktUWFZ3WDZ6MHFGUmo0b3RaRXV0X0s3?oc=5",
+      "pub_date": 1793881800.0,
+      "article_url": "https://www.morningstar.com/news/pr-newswire/20261105cn89940/yyforce-publishes-updated-corporate-presentation-outlining-operating-businesses-commercial-robotics-and-2030-priorities",
+      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "description": null
     },
     {
       "headline": "MIT students build combat robots designed to survive brutal battles",
@@ -103,8 +93,18 @@
       "article_url": "https://interestingengineering.com/ai-robotics/fighting-robots-get-armor-upgrades",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-7-1.jpg",
       "description": "MIT students upgraded the ARES and KRATOS combat robots with enhanced armor and improved weapon systems."
+    },
+    {
+      "headline": "Strive Robotics Raises $3M+ to Build Physical AI for Manufacturing",
+      "source": "The National Law Review",
+      "source_url": "https://natlawreview.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGFiRlRzVllsaU1qeWhBRUFZUkNNQ3lvb0xKTkVNV1RiOFh2TjNQUVQ4eDJ0QzBRVENIY1lPVGUzT05PeTU2VjlNWmhGSGxjWEIxTnhTOFZSUmlLTnJmRGF1aEhXWDExbV84S0g1Q1J3VTFUMnMwcEdIb2o1aHhmMmpRQzl6SXJXWUt4Um9fTzBiUlFDcy00TDMtOUVJZw?oc=5",
+      "pub_date": 1793917163.0,
+      "article_url": "https://natlawreview.com/press-releases/strive-robotics-raises-3m-build-physical-ai-manufacturing",
+      "image": null,
+      "description": "Strive Robotics Team in the Lab"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-05T17:33:11.019751+00:00"
+  "fetched_at": "2026-11-05T23:20:53.438143+00:00"
 }
