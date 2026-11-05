@@ -2,115 +2,115 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "JACKPOOOOOOOOOOOOT!!!!!!!!!!!",
-      "author": "ImpressionDry7555",
-      "url": "https://www.reddit.com/r/robotics/comments/1xm8y0n/jackpoooooooooooot/",
-      "published": 1793652264.0,
-      "thumbnail": "https://preview.redd.it/ja6w6mpyg9zh1.jpeg?width=640&crop=smart&auto=webp&s=62e24f41b764112c12d4a9cf4e6af02608735097",
+      "title": "Cubic Doggo test: Wouf walks along, wholly unbothered by the SO-101 snake taped to its back",
+      "author": "SphericalCowww",
+      "url": "https://www.reddit.com/r/robotics/comments/1xoc79f/cubic_doggo_test_wouf_walks_along_wholly/",
+      "published": 1793862232.0,
+      "thumbnail": "https://external-preview.redd.it/eXB6dzVkdmpxcXpoMYEyFyY_-fUT8NZJy_IODhq4-tjyBWzPuv3UWGvSl20R.png?width=640&crop=smart&auto=webp&s=b76ff1da79c54e6ccf6981cf8832d49c403300d7",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I just found these microcontrollers in some boxes the city was supposed to take due to a shop filing for bankruptcy, how much would ALL these be around?"
+      "description": "Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D"
     },
     {
-      "title": "Cleanest servo wiring of Sesame robot you will ever see",
-      "author": "hughdavin",
-      "url": "https://www.reddit.com/r/robotics/comments/1xlst3y/cleanest_servo_wiring_of_sesame_robot_you_will/",
-      "published": 1793612099.0,
-      "thumbnail": "https://preview.redd.it/bdxk4ztm56zh1.jpeg?width=640&crop=smart&auto=webp&s=165ec4c928454c86617a4d2d183a7820bf8ea443",
+      "title": "After 20 years in software, I'm finally building my own robot dog. Here's my first leg hopping.",
+      "author": "locksleyu",
+      "url": "https://www.reddit.com/r/robotics/comments/1xnt4zb/after_20_years_in_software_im_finally_building_my/",
+      "published": 1793810865.0,
+      "thumbnail": "https://external-preview.redd.it/cnQ2bnpvc2drbXpoMcMjKjTyyChTyQm00DyH68K8zXuVVDsFORXPVX7ZW0Hw.png?width=640&crop=smart&auto=webp&s=9bee6371314ad0ef5039b4ead134ab7a2c3aa526",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I\u2019m building Sesame robot but modified main frame to hold 2x 18650 cels and changed routing of wires. I did cut them to get rid of excess and re crimped connectors. Making new mainboard out of perfboard to make easier for myself to make modifications in future"
+      "description": "Hello everyone, I\u2019m new to the group. I\u2019ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony\u2019s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn\u2019t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It\u2019s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I\u2019m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox"
     },
     {
-      "title": "SO-101 robot arm + Meta APIs",
-      "author": "adoodevv",
-      "url": "https://www.reddit.com/r/robotics/comments/1xm4mhy/so101_robot_arm_meta_apis/",
-      "published": 1793642869.0,
-      "thumbnail": "https://external-preview.redd.it/em9vZzkwZXdvOHpoMez9rZ8QTLyAaqbnT_2NkYrMRAbKp9JDBRVnSV5wP2rs.jpeg?width=640&crop=smart&auto=webp&s=d43c033e5f1c1e0537d5dd535e2f919e149e930c",
+      "title": "Humanoid robot from scratch",
+      "author": "DIYmrbuilder",
+      "url": "https://www.reddit.com/r/robotics/comments/1xnpvjn/humanoid_robot_from_scratch/",
+      "published": 1793803178.0,
+      "thumbnail": "https://preview.redd.it/ppawsz6txlzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=59715ed34a8b53e81d0fe21026cb06c61c629845",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I built a robot arm that hands me tools when I ask! \"Wiggle, pass me the screwdriver\" \u2192 it finds it, picks it up and drops it right into my hand. No training. Just Meta's Muse Spark + SAM 3.1 on a $250 robot arm. Built for the Meta AI hackathon Check it on X and engage"
+      "description": "I just finished testing the legs, i had to swap the modules i used to control the actuators because they were too weak. The test went smoothly, no burning just a little code adjustments and the legs move as they should. Next step it to figure out the necessary movements for it to walk."
     },
     {
-      "title": "Simulation only: a rover builds its map from its own sensors, takes the wrong turn, and finds the way out",
-      "author": "dimonb19a",
-      "url": "https://www.reddit.com/r/robotics/comments/1xlvucw/simulation_only_a_rover_builds_its_map_from_its/",
-      "published": 1793622469.0,
+      "title": "I built this quadruped robot model, from individual parts to the full assembly!",
+      "author": "Fickle_Ad_3924",
+      "url": "https://www.reddit.com/r/robotics/comments/1xnw27u/i_built_this_quadruped_robot_model_from/",
+      "published": 1793817398.0,
+      "thumbnail": "https://external-preview.redd.it/dDA0ZzdqcHAybnpoMdaj5PoFVZHORXLBStkdPtxLs6oVGFsO0f8D6XTNKoPk.png?width=640&crop=smart&auto=webp&s=62d5e82cbbb063a90521abf7e2fb89cab1fe0e68",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?"
+    },
+    {
+      "title": "Solo jugando",
+      "author": "corporacionRobot",
+      "url": "https://www.reddit.com/r/robotics/comments/1xnwej0/solo_jugando/",
+      "published": 1793818192.0,
+      "thumbnail": "https://external-preview.redd.it/aW5ldnJpYWc2bnpoMe9iB9YtBQ4-YVUM3zEXzuWn3URLzjIyDtH4xC1qZBck.png?width=640&crop=smart&auto=webp&s=eb9544f4a35375c7f9eac49671ab1c64fb9be4a7",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Despu\u00e9s de un accidente se han vuelto a construir las piernas. Est\u00e1 vez con encoder y un par de servoblocks en las caderas. Encoders magn\u00e9ticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad ."
+    },
+    {
+      "title": "Autonomous robot difficulty",
+      "author": "xtnubsx",
+      "url": "https://www.reddit.com/r/robotics/comments/1xo5v8u/autonomous_robot_difficulty/",
+      "published": 1793841810.0,
+      "thumbnail": "https://preview.redd.it/oxxg03po4pzh1.jpeg?width=640&crop=smart&auto=webp&s=556cd903a0d950bad395b170b65b4848fe25bac6",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What\u2019re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it\u2019s going to be real tricky to find a place to safely test it \ud83e\udd26\u200d\u2642\ufe0f The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what\u2019s in the picture for the electronics, I used a 12\u201dx4\u201d aluminum rectangular tube 18\u201d long. Maybe it\u2019ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM."
+    },
+    {
+      "title": "automatic barrier gate",
+      "author": "Safe_Vanilla_3103",
+      "url": "https://www.reddit.com/r/robotics/comments/1xo9km0/automatic_barrier_gate/",
+      "published": 1793852969.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "This engine runs in a browser. It isnt SLAM, simulation always knows platform's position. Just the map, the route, and the replanning. Appreciate feedback."
+      "description": "guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can\u2019t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online"
     },
     {
-      "title": "How Close Can a Robot\u2019s Lip Movements Get to Human Speech?",
-      "author": "Remarkable_Volume122",
-      "url": "https://www.reddit.com/r/robotics/comments/1xlqa1b/how_close_can_a_robots_lip_movements_get_to_human/",
-      "published": 1793602276.0,
-      "thumbnail": "https://external-preview.redd.it/dG9oaTE1a29iNXpoMcx-2Lu2WkkbqtPdi2EHkxMFKQkHU1-LG1L-Haad6ICP.png?width=640&crop=smart&auto=webp&s=b7c51ba503ddfc34d96cf5a23b96513329ad7fac",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How closely can a robot replicate the way humans move their mouths when speaking? We\u2019ve recently made some exciting progress with \u00c9loi\u2019s lip-sync control! \u00c9loi\u2019s lip-sync system is designed to work across multiple languages, and so far, we\u2019ve been testing it with English, Korean, and Japanese. Across different words and sentences, its lip and jaw movements are already showing a promising level of accuracy in reproducing natural human articulation. Of course, this is still a work in progress. We\u2019re continuing to refine both the accuracy and naturalness of its movements. And next up? We\u2019re planning to push \u00c9loi a little further with some exaggerated mouth movements to show just how expressive and flexible its 17 degrees of freedom across the lips and jaw can be. More to come. Stay tuned! Animotion Robotics"
-    },
-    {
-      "title": "Sensing and navigation on an active jobsite",
-      "author": "Responsible-Grass452",
-      "url": "https://www.reddit.com/r/robotics/comments/1xm6fyy/sensing_and_navigation_on_an_active_jobsite/",
-      "published": 1793646703.0,
-      "thumbnail": "https://external-preview.redd.it/-yGJeQteFh0rwrE6Bu0JXpHWPYclSLOiZVqX4bAHD1A.png?width=640&crop=smart&auto=webp&s=9c4fbecf3918b234a00af8d33a85ca1b2142c64d",
-      "external_url": "https://automate.org/robotics/industry-insights/construction-robots-are-getting-smarter-the-jobsite-is-still-their-biggest-safety-challenge/boa",
-      "site_name": "Automate",
-      "favicon": "https://automate.org/favicon.ico",
-      "description": "One NOSH project uses computer vision to detect possible collisions while a masonry robot helps a worker position concrete blocks. The other uses aerial video to identify workers, equipment and openings that could pose a fall hazard. Both projects deal with visibility on active construction sites. Dust can obscure sensors, lighting changes during a shift, and equipment or building materials can block a camera\u2019s view. For mobile robots, uneven ground and changes to temporary access routes also affect navigation. The NIOSH bulletin identifies several things to track during deployment, including sensor faults, localization failures and how often someone takes over manual control. Repeated takeovers can help identify conditions the robot struggles with. The article also distinguishes between using a camera to flag a possible hazard for review and relying on it to stop a machine before someone gets hurt."
-    },
-    {
-      "title": "Robocensus: a directory of 74 walking robots (humanoid/quadruped/biped) with specs, prices, and a free CC BY dataset",
-      "author": "ntsili",
-      "url": "https://www.reddit.com/r/robotics/comments/1xlzi8c/robocensus_a_directory_of_74_walking_robots/",
-      "published": 1793631695.0,
+      "title": "Need guidance on developing a vector-based algorithm for robotic surface-adaptive toolpath generation",
+      "author": "Sake205",
+      "url": "https://www.reddit.com/r/robotics/comments/1xobgge/need_guidance_on_developing_a_vectorbased/",
+      "published": 1793859474.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hi everyone, I\u2019m Nick. For the past couple of months I\u2019ve been building Robocensus, a directory of every walking robot I can track down \u2014 humanoids, quadrupeds, bipeds. 74 so far, everything from Unitree and Tesla down to a $399 open-source robot duck. It logs their specs, prices and availability, and it keeps itself up to date instead of rotting the way these lists usually do. In case it\u2019s useful to anyone here \u2014 It\u2019s independent, and the data is free. No manufacturer affiliation, no sponsored listings, no paid placement, nothing for sale. Makers can send a press image or flag a correction, but they can\u2019t buy their way up the list or bury anything. That\u2019s the whole point of calling it a census. The current data is machine-readable JSON under CC BY \u2014 no key, no signup: https://robocensus.com/data. Take it, build on it. (I\u2019m holding the change history back for now.) It won\u2019t guess \u2014 if a spec isn\u2019t stated on the maker\u2019s own page, the field stays blank, never estimated. That turned out to matter more than I expected. The comparison view kept surfacing numbers that were quietly wrong, and I ended up running six separate audits to clean it up. They caught running speeds logged as walking speeds, \u201cup to X\u201d maximums recorded as if they were exact, and one robot whose headline top speed was actually a world-record run rather than a spec. Two robots lost their numbers entirely because the maker had never actually published them. Every spec now carries its own context: a speed is tagged walking/running/rolling, a bounded figure marked as a max or min, a price shown with its date and currency. So a comparison is either apples-to-apples or it shows you nothing. As for how it stays current: scheduled agents re-fetch each robot\u2019s official page on a rolling cycle, diff it against the last snapshot, and open a pull request for anything that\u2019s changed. None of it hits the live site until I\u2019ve reviewed and merged it. The machines do the watching and the drafting; I\u2019m still the last step, every time. I know \u201cAI-maintained directory\u201d is going to make some of you wince, so to be clear: this is the opposite of letting a model write straight to prod. Makers have started treating it as infrastructure, which I didn\u2019t see coming. I\u2019d been cold-emailing manufacturers to ask permission before putting up a press photo \u2014 until then the site just shows a placeholder glyph rather than borrow an image without a license. One founder, Petoi, replied the same day, cleared images for three of his robots, fixed a pricing error on his own site that the census had flagged, and later wrote back asking me to update a listing. Another maker got in touch to flag one of their products as discontinued and ask about featuring the next one. That\u2019s about when it stopped feeling like a hobby. It\u2019s early, and I\u2019m sure you\u2019ll spot robots I\u2019ve missed or specs I\u2019ve got wrong. Please tell me if you do \u2014 honestly that\u2019s the most useful thing you can do right now. Happy to get into how any of it works. The site\u2019s at https://robocensus.com."
+      "description": "Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!"
     },
     {
-      "title": "Cheap and small humanoid for children",
-      "author": "mojojojoo312",
-      "url": "https://www.reddit.com/r/robotics/comments/1xm2wx6/cheap_and_small_humanoid_for_children/",
-      "published": 1793639236.0,
+      "title": "Single channel motor encoder for SLAM based AMR",
+      "author": "Chill-bird-473",
+      "url": "https://www.reddit.com/r/robotics/comments/1xobf8u/single_channel_motor_encoder_for_slam_based_amr/",
+      "published": 1793859357.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I search for an educational Project a small and easy to program robot for children, i would love a small humanoid for this. Something like PLEN2 or PLEN:bit looks like what i search for but i can't find any Instructions online and i cant access the plen site anymore. What happened to them? Arent they around anymore? Is there something else i could consider? Or a good alternative to PLEN? Ideally working with scratch Right now we use the Lego spike Essential and prime Sets and also have one of those new ai Sets. I also already looked into makeblock and will buy one of their Sets to check out."
+      "description": "Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?"
     },
     {
-      "title": "My juniors used AI for everything and they\u2019re graduating",
-      "author": "SecretHelicopter2371",
-      "url": "https://www.reddit.com/r/robotics/comments/1xl18yu/my_juniors_used_ai_for_everything_and_theyre/",
-      "published": 1793534256.0,
+      "title": "Hardware-in-the-loop for Claude: AI builds the PCB, firmware, picks the sensors, SoCs; designs the CAD, and then iterates the designs against a virtual twin (Isaac Sim / Unreal)",
+      "author": "Kemerd",
+      "url": "https://www.reddit.com/r/robotics/comments/1xn8dl9/hardwareintheloop_for_claude_ai_builds_the_pcb/",
+      "published": 1793747716.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "The university i used to attended have been trying to engage the use of AI for working and learning, they\u2019re teaching student how to prompt to ai for designing, implementing, debug the code without looking at the code anymore. PLC, HMI, SCADA, Embedded, IoT, ROS2 etc. All the code are done by ai with most students know almost nothing about how it works, their fundamental is almost none. Okay, it\u2019s good that they are flowing along the trends of technology but i just think that fundamental still must not be skipped and i have met a lot of junior students that just copy and paste their answers from homework without even checking, they\u2019re are graduating but more than 60% of the class don\u2019t know arrays, python and cant write c++ code at all. In terms of math, they are also very weak, for a simple question like \u201cIf we have acceleration equation, how do you get velocity?\u201d Or \u201cwhat\u2019s the integral of acceleration\u201d and everyone just looks stunned. What would you guys do in order to guide them to the right direction? I want to see perspectives from experienced senior who is working right now as well. I\u2019m a freshly graduated as well but in my time AI is still not that good so we still code ourself. Sorry if my grammar is terrible."
-    },
-    {
-      "title": "Remote Physical Control: I built an internet-controlled pneumatic turret for a zombie defense game.",
-      "author": "Independent_Win_Alex",
-      "url": "https://www.reddit.com/r/robotics/comments/1xlpbh0/remote_physical_control_i_built_an/",
-      "published": 1793598806.0,
-      "thumbnail": "https://external-preview.redd.it/ejQ4dTkwOHkxNXpoMaHMSFs0h_I-bOQjU4XI0V69J8Y6kOXa779DUF-OkH-K.png?width=320&crop=smart&auto=webp&s=0946a107026546c53e5af30f4c270dd12852725f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "\u200b I want to share an independent project I've been building: a remotely operated pneumatic turret integrated into a zombie defense game. The core idea is to let someone control a real physical machine over the internet, rather than simply playing a conventional video game. A player connects through a web browser, receives a live camera feed, and sends commands to a physical turret located in Phuket, Thailand. The system combines: A custom-designed pneumatic turret 3D-printed mechanical components Servo-based pan and tilt mechanism Pneumatic firing mechanism Electronic control and automation Internet-based remote command transmission Live video feedback A Unity-based game environment with animated zombies projected onto a physical screen The player interacts with the game, but the commands control an actual physical machine. The turret responds in real time. The project is an experiment in Remote Physical Control, with remote physical gaming as its first application. A quick note about the demonstration video: apologies for the limited video quality. I'm using a low-cost camera, and the room lighting is reduced to make the projected image more visible. I also filmed this myself while operating the turret, firing and reloading, so the footage is a little improvised. I'm particularly interested in the robotics and engineering aspects of this setup: How would you approach communication reliability and latency? What architecture would you use for safe remote operation? Would you classify this as networked teleoperation or a broader form of remote physical interaction? This is an independently developed prototype, and I'd appreciate technical feedback from the robotics community."
+      "description": "Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project\u2014a multi-board project with motors, dozens of sensors and a custom enclosure\u2014it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more\u2014with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!"
     }
   ],
-  "fetched_at": "2026-11-03T11:40:04.699529+00:00"
+  "fetched_at": "2026-11-05T09:02:02.709211+00:00"
 }
