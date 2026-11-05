@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-04T21:25:42.491266+00:00'
+updated: '2026-11-05T01:40:40.231268+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 04, 2026 at 21:25 UTC  
+**Last Updated:** November 05, 2026 at 01:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,421.41
+### $2,419.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.6%  
-**7d:** +7.5%  
-**30d:** -10.3%  
+**24h:** +8.1%  
+**7d:** +8.0%  
+**30d:** -5.8%  
 **90d:** +26.4%  
-**1y:** -29.3%  
+**1y:** -26.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.76B
+**Market Cap:** $295.73B
 Rank #2
 
 **Circulating Supply:** 122,189,135 ETH
@@ -62,7 +62,7 @@ No max supply
 -51.1%
 
 **All-Time Low:** $0.43
-+558938.7%
++558823.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+19h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My Geth node had a publicly listening MPTCP socket. Disabling MPTCP didn't close existing listeners! Check ss -Mlntp, apply mitigations and patch your kernel ASAP. https://ubuntu.com/security/CVE-2026-98432
 
-2d ago
+3d ago
 
 ---
 
@@ -156,13 +156,7 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 Bitmine Immersion Technologies recently acquired nearly US$20 million of Ethereum, bringing its ETH holdings to 6.06 million tokens, equal to 4.9% of the 122.2 million total supply, alongside US$14.5b in combined crypto, cash and marketable securities. This sizeable Ethereum position, together with Tom Lee’s comments on the market’s resilience after the Binance hack, places Bitmine’s operating focus squarely on digital asset exposure and AI infrastructure demand rather than near term...
 
-Yahoo Finance • 16h ago
-
----
-
-**[Bullish Picks Solana, Aptos and Ethereum for Tokenized Shares](https://thedefiant.io/converge/tradfi-and-fintech/bullish-picks-solana-aptos-and-ethereum-for-tokenized-shares)**
-
-The Defiant • 16h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -170,7 +164,7 @@ The Defiant • 16h ago
 
 Bitcoin trades near the $78,000 mark on Wednesday amid institutional outflows and macroeconomic uncertainty. The cryptocurrency was trading at the $78,330 mark, and Ethereum was trading at $2,317.In the past 24 hours, Bitcoin and Ethereum were up 1.87% and 2.41%, respectively. Among the major altco…
 
-TradingView • 7h ago
+TradingView • 12h ago
 
 ---
 
@@ -180,17 +174,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Most big cryptocurrencies increase as Ethereum rallies](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-increase-as-ethereum-rallies-51642d12-b2906bfb97c4)**
-
-MarketWatch • 6h ago
-
----
-
 **[Current price of Ethereum for November 4, 2026](https://fortune.com/article/price-of-ethereum-11-04-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 13h ago
+
+---
+
+**[Most big cryptocurrencies increase as Ethereum rallies](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-increase-as-ethereum-rallies-51642d12-b2906bfb97c4)**
+
+MarketWatch • 10h ago
+
+---
+
+**[Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?](https://www.fool.com/investing/2026/11/04/is-googles-new-cryptocurrency-service-a-reason-to/)**
+
+The company's new platform plays to institutional cybersecurity concerns.
+
+The Motley Fool • 13h ago
 
 ---
 
@@ -198,7 +200,7 @@ Fortune • 9h ago
 
 Ethereum’s decentralization could strengthen its long-term value as AI risks increase demand for open infrastructure.
 
-AMBCrypto • 6h ago
+AMBCrypto • 10h ago
 
 ---
 
@@ -210,19 +212,17 @@ ethereum.org • 1d ago
 
 ---
 
-**[Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?](https://www.fool.com/investing/2026/11/04/is-googles-new-cryptocurrency-service-a-reason-to/)**
-
-The company's new platform plays to institutional cybersecurity concerns.
-
-The Motley Fool • 9h ago
-
----
-
 **[Bitcoin and Ethereum await a bounce as stocks slide](https://www.kitco.com/opinion/2026-11-04/bitcoin-and-ethereum-await-bounce-stocks-slide)**
 
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
 
-Kitco • 5h ago
+Kitco • 9h ago
+
+---
+
+**[Morgan Stanley Ethereum Trust ETF Names New Sponsor CFO](https://www.tipranks.com/news/company-announcements/morgan-stanley-ethereum-trust-etf-names-new-sponsor-cfo?utm_source=marketbeat.com&utm_medium=referral)**
+
+TipRanks • 2h ago
 
 ---
 
@@ -236,17 +236,7 @@ Is Ethereum having its Amazon moment? Sharplink CEO Joseph Chalom believes inves
 
 📺 Coinage
 
-👁️ 3K • 👍 76 • 💬 22 • ⏱️ 20:55 • 6h ago
-
----
-
-**[Midterms Over, Selling ETH, Altcoin Breakouts Brewing, &amp; Portfolio Roasts](https://www.youtube.com/watch?v=s2BFuUAHbKs)**
-
-Trump loses, ETH gone, altcoins trades, and BTC charts BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 18K • 👍 431 • 💬 60 • ⏱️ 1:12:48 • 8h ago
+👁️ 7K • 👍 105 • 💬 36 • ⏱️ 20:55 • 10h ago
 
 ---
 
@@ -256,7 +246,17 @@ WEEX - where my trade is placed (up to $10000+ in sign-up rewards) https://marze
 
 📺 Marzell Crypto
 
-👁️ 188 • 👍 9 • 💬 1 • ⏱️ 3:10 • 6h ago
+👁️ 315 • 👍 10 • 💬 1 • ⏱️ 3:10 • 10h ago
+
+---
+
+**[Midterms Over, Selling ETH, Altcoin Breakouts Brewing, &amp; Portfolio Roasts](https://www.youtube.com/watch?v=s2BFuUAHbKs)**
+
+Trump loses, ETH gone, altcoins trades, and BTC charts BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 20K • 👍 446 • 💬 69 • ⏱️ 1:12:48 • 12h ago
 
 ---
 
@@ -266,7 +266,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 85 • 💬 52 • ⏱️ 23:02 • 16h ago
+👁️ 4K • 👍 86 • 💬 52 • ⏱️ 23:02 • 20h ago
+
+---
+
+**[🚀 Canton Beats Ethereum At This - CC Crypto Analysis](https://www.youtube.com/watch?v=RFQUjeStcgo)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/xbJi1kZt My Chart Software: https://the-bitcoin-strategy.com/tradingview ...
+
+📺 Bitcoin Strategy
+
+👁️ 781 • 👍 23 • 💬 6 • ⏱️ 14:27 • 7h ago
+
+---
+
+**[Crypto Must Survive Before It Wins: Vitalik Buterin on Ethereum&#39;s future, India&#39;s role and more](https://www.youtube.com/watch?v=Tx7RwC_ZZX4)**
+
+In an exclusive interview with Moneycontrol, Ethereum co-founder Vitalik Buterin discusses the challenges facing crypto ...
+
+📺 moneycontrol
+
+👁️ 675 • 👍 6 • 💬 1 • ⏱️ 23:45 • 12h ago
 
 ---
 
@@ -276,47 +296,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 21K • 👍 388 • 💬 123 • ⏱️ 47:29 • 2d ago
-
----
-
-**[THIS LOOKS VERY BULLISH FOR ETH! (Ethereum Update)](https://www.youtube.com/watch?v=sEaV_T6bbZY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 372 • 👍 16 • 💬 4 • ⏱️ 4:41 • 11h ago
-
----
-
-**[That $63M Ethereum Whale Might Be a HACKER!!](https://www.youtube.com/watch?v=gEOhNwpd6mk)**
-
-CoinGPT - the AI Trade Agent I use for a second opinion, free to use https://marzell.org/cg-v105 WEEX - where my trade is ...
-
-📺 Marzell Crypto
-
-👁️ 204 • 👍 4 • 💬 1 • ⏱️ 3:30 • 1d ago
-
----
-
-**[🔥 Ethereum Stakers Won&#39;t Leave - ETH Crypto Analysis](https://www.youtube.com/watch?v=xpxZhELj-I4)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/7S92LtEi My Chart Software: https://the-bitcoin-strategy.com/tradingview ...
-
-📺 Bitcoin Strategy
-
-👁️ 2K • 👍 13 • 💬 4 • ⏱️ 12:49 • 1d ago
-
----
-
-**[CRUCIAL XRP LEDGER SECURITY FLAW FOUND! Ethereum Was NOT Hacked!](https://www.youtube.com/watch?v=qWlCYaQ9RtQ)**
-
-CRUCIAL XRP LEDGER SECURITY FLAW FOUND! ETHEREUM IS BETTER? Hey babes, an XRP Ledger flaw was found that ...
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 212 • 💬 33 • ⏱️ 5:52 • 1d ago
+👁️ 22K • 👍 393 • 💬 122 • ⏱️ 47:29 • 2d ago
 
 ---
 
@@ -326,7 +306,27 @@ cardano #ada #crypto Is Cardano still an Ethereum killer? We compare the two eco
 
 📺 Crypto Dossier
 
-👁️ 3K • 👍 157 • 💬 47 • ⏱️ 23:35 • 1d ago
+👁️ 3K • 👍 161 • 💬 47 • ⏱️ 23:35 • 1d ago
+
+---
+
+**[The Race to Build the Private Ethereum](https://www.youtube.com/watch?v=UszyU_XrX9o)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Can Ethereum become private ...
+
+📺 Bankless
+
+👁️ 6K • 👍 91 • 💬 12 • ⏱️ 46:15 • 1d ago
+
+---
+
+**[That $63M Ethereum Whale Might Be a HACKER!!](https://www.youtube.com/watch?v=gEOhNwpd6mk)**
+
+CoinGPT - the AI Trade Agent I use for a second opinion, free to use https://marzell.org/cg-v105 WEEX - where my trade is ...
+
+📺 Marzell Crypto
+
+👁️ 210 • 👍 4 • 💬 1 • ⏱️ 3:30 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-04T21:25:42.475972+00:00'
+updated: '2026-11-05T01:40:40.216178+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 04, 2026 at 21:25 UTC  
+**Last Updated:** November 05, 2026 at 01:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Apple is introducing a new AI feature that allows Apple Watch users to rewind in-person conversations and see what someone just said.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/apple-watch-now-listens-to-in-person-conversations-lets-you-rewind-them-3424859/) • 4h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/apple-watch-now-listens-to-in-person-conversations-lets-you-rewind-them-3424859/) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Apple is introducing a new AI feature that allows Apple Watch users to rewind in
 
 OpenAI's Adam Fry told Big Technology that ChatGPT has around a fifth of Google's search query volume. Google can't be thrilled about that.
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/chatgpt/articles/chatgpts-search-volume-now-roughly-204510905.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAANy0RModkKsLyARqY6lqMPmtivd1CCMgna0IdrKqIsarmAbO19gMY1fHjZfcXchRmKZfCO8LJw5jmpZ6jA48LS83X0itLoUODWr8OAXnugut3tMTcCeuQuyu-PqSTui9NQz4WsR_ZQEf1yfCQiA-goPObb6Nid3HP_a72DiuIXf3) • 15h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/chatgpt/articles/chatgpts-search-volume-now-roughly-204510905.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAANy0RModkKsLyARqY6lqMPmtivd1CCMgna0IdrKqIsarmAbO19gMY1fHjZfcXchRmKZfCO8LJw5jmpZ6jA48LS83X0itLoUODWr8OAXnugut3tMTcCeuQuyu-PqSTui9NQz4WsR_ZQEf1yfCQiA-goPObb6Nid3HP_a72DiuIXf3) • 20h ago
 
 ---
 
@@ -57,15 +57,7 @@ OpenAI's Adam Fry told Big Technology that ChatGPT has around a fifth of Google'
 
 Users currently have no independent way to confirm whether an AI provider served the requested model or quietly substituted a cheaper one. FlashProve addresses this by using zero-knowledge cryptography to prove that a particular model generated a response while keeping its proprietary weights hidden. Anthropic demonstrated the open-source system on a 400-billion-parameter model, generating proofs at roughly 110 tokens per second. However, the prototype requires 70 to 95 times more GPU time than ordinary inference, supports only 1,024-token contexts and does not yet cover every type of model output. Could cryptographic verification become standard for high-stakes AI services, even if it remains too expensive for everyday requests?
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification) • 5h ago
-
----
-
-**[Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs](https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/)**
-
-https://fixupx.com/BenBrodyDC/status/2117821832317534519
-
-16h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification) • 9h ago
 
 ---
 
@@ -73,7 +65,15 @@ https://fixupx.com/BenBrodyDC/status/2117821832317534519
 
 Apple’s annual report to the SEC now includes language about AI agents potentially acting without authorization, and specifically uses the words conceal and manipulate when describing unintended agent behaviour. Worth pausing on where that appears. A 10-K is a legal document. Risk factors in it are drafted by lawyers who are personally exposed if they’re wrong or misleading. Companies put things there when they’ve concluded the risk is material enough that not disclosing it is the bigger liability. Apple also changed how full disk access works on macOS, apparently to reduce what an agent can reach. I’ve been in a lot of conversations this year where agent risk gets discussed as a future concern. This is a company with more legal caution than almost anyone writing it down as a present-tense business risk. The thing I find most interesting is the word conceal. Unauthorized action is one category of problem. An agent that hides what it did is a different one entirely, because it breaks the assumption underneath every monitoring and audit approach I’ve seen deployed. Anyone read the actual filing language? Curious whether it’s broader boilerplate or genuinely specific.
 
-3h ago
+8h ago
+
+---
+
+**[Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs](https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/)**
+
+https://fixupx.com/BenBrodyDC/status/2117821832317534519
+
+21h ago
 
 ---
 
@@ -81,7 +81,31 @@ Apple’s annual report to the SEC now includes language about AI agents potenti
 
 aina a hardware interface launching tomorrow says every big shift in computing came from software and hardware built together which is true, the mouse and gui, then the touchscreen, and that ai has been stuck in software. nobody says what it is. i'm curious what you think about the claim. chat is how we talk to ai today, but is that really the right interface? if ai got its own hardware, what's the job it would do better than a phone or a laptop? and what would you not want it to do?
 
+7h ago
+
+---
+
+**[Cognition launches SWE-2 Flash: a coding agent model 3x faster at one-fifth the price](https://www.reddit.com/r/artificial/comments/1xo27a9/cognition_launches_swe2_flash_a_coding_agent/)**
+
+Cognition (the company behind Devin) announced SWE-2 Flash on November 4, 2026. It is pitched as a cheaper, faster sibling to SWE-2: about 3x the speed at one-fifth the price, aimed at routine agent work like automations, code review, feature development, and documentation updates, rather than uniform benchmark leadership. It is free to use through November 30, 2026, and available in Devin Desktop and CLI. Some details worth noting: - 276B total parameters, 12B active, adapted from Thinking Machines Lab's Inkling-Small, whose full weights were released on July 30, 2026. - Cognition reports big gains over Inkling-Small but mixed results against the larger SWE-2, framing Flash as a cost-and-speed alternative, not a replacement. - The weights are not public yet. Cognition is building a secure sharing program for trusted partners and labs, and says targeted cybersecurity training lifted ExploitBench from 11.3% to 34.8% -- capability it worries could help attackers as well as defenders. What I am curious about: for day-to-day coding work, does speed plus low price matter more than topping benchmarks? And is withholding the weights the right tradeoff here, or does it just slow down independent evaluation of the safety claims? (Source: Unite.AI coverage of the November 4 announcement; benchmark figures are Cognition's own.)
+
 3h ago
+
+---
+
+**[When LLMs edit neural weights directly, how do we version-control them? Announcing wpgit & Weight-Space Software Engineering (Paper + Code)](https://www.reddit.com/r/artificial/comments/1xo54c3/when_llms_edit_neural_weights_directly_how_do_we/)**
+
+Links: Project Page: https://v-code-895.github.io/wsse/ Paper (Zenodo DOI 10.5281/zenodo.23956114): https://doi.org/10.5281/zenodo.23956114 Code, Checkpoints & Git Bundles: https://github.com/v-code-895/wsse TL;DR Earlier this week, MIT CSAIL published Sparks of Weight-Space Programming, demonstrating that frontier LLMs can inspect raw neural network parameters and write direct, gradient-free weight edits to patch models or steer behavior. Direct weight editing by an LLM is like hex-editing a binary in memory. It works as a one-shot demo, but what happens when an autonomous agent (or multiple agents and engineers) needs to steer different behaviors, add features, and compose dozens of edits over time? Without software engineering discipline, weight surgery causes silent regressions, breaks when branches merge, and collapses when the base model updates. We built Weight-Space Software Engineering (WSSE) and wpgit: bringing version control, in-context CI/CD regression gates, semantic merge conflict resolution, and upstream rebasing directly into weight space. The Idea: Storing Weight Edits as Text Diff Files Instead of distributing modified multi-megabyte binary checkpoints, every weight edit or steering intervention is captured as a human-reviewable .weightpatch.json text file: Hash-pinned: Pinned to a 16-character SHA-256 hash of the target base checkpoint. Dependency-aware (requires): Declares which structural patches must precede it. Compact operators: Instead of dense float arrays, patches store compact mathematical parameters (e.g., a 12-number affine fold that deterministically rewrites 4,803 weights at build time). Self-testing: Carries quantitative assertions that must pass in context before the patch can merge. Our companion tool, wpgit, layers on top of standard Git: wpgit build: Compiles checkpoints in topological dependency order. wpgit test: Runs differential integration tests in context (comparing the full merged build against the build without that patch's dependency closure). wpgit check: Tests pairwise commutativity to catch semantic merge conflicts that Git merges silently. wpgit rebase: Migrates patch repositories onto updated base checkpoints, automatically detecting stale context when internal parameters have drifted. Key Findings Across 17 Experiments (150K to 8.1M Parameters) We evaluated the framework on an 8.1M-parameter cat generator (CatGAN-26), a 277K-parameter super-sampler (TinySR-26), MobileNetV2, and seven legacy 2017-2020 Keras checkpoints. 1. Steering and Locking Latent Behaviors Without Retraining Using weight surgery on CatGAN-26, we synthesized patches to steer and freeze attributes without running gradient descent: Why 1-D clamps fail: Clamping a single latent direction leaves 68-71% of attribute variance because deep generators encode attributes non-linearly. Rank-2 Active Subspace Locks: By computing the dominant eigenvectors of the gradient outer product (active subspaces), we clamp a 2-D subspace using two orthonormal ops. This collapses attribute variance down to 10-11%, passing strict regression bounds without moving the goalposts. 2. Zero-Parameter Circuit Surgery via Channel Reclamation To change a specific visual feature (e.g., turning cat irises blue) without altering the rest of the image or modifying the network architecture: Latent steering distorts the whole face without reaching the eyes, and ungated output folds turn the entire cat blue. Reclamation (prune2) + Exact ReLU gating (eye_gate): We identify the two most redundant channels in an internal conv layer, regress them onto remaining channels, fold that regression into the next layer, and zero the two slots (0.0045 rest-of-image MAE). We then wire a spatial detector into the freed channels to drive an exact paired-LeakyReLU ReLU gate: LeakyReLU(u) + a * LeakyReLU(-u) = (1 - a^2) * ReLU(u) This writes an ice-blue chrominance vector only where the gate fires, hitting the target hue with 23x less collateral change (0.0059 vs 0.136 MAE) than an ungated fold. 3. What Git Merges Cleanly, but the Weights Reject We scripted a 15-commit Git repository with feature branches for steering shifts, attribute locks, and the blue-eye circuit: Failures only visible in context: Two latent shift patches (warm_fur and bright_background) pass their unit tests in isolation, but fail when merged into main because generator non-linearity couples them. A test run on an isolated patch cannot see this. Semantic merge conflicts (wpgit check): Git merges two lock branches without a textual conflict, but wpgit check flags an order-dependent collision (output MAE 0.129). We formalize two conflict types: Type I (Interference): Overlapping latent subspaces. Resolved algebraically via Gram-Schmidt orthogonalization so the locks commute to 2.4e-7. Type II (Contradiction): One patch freezes the background while another brightens it. No algebra satisfies both; the engineer resolves it via an explicit product commit (git rm). 4. The Orthogonality Fallacy in Fine-Tune Merging We fine-tuned two specialist branches of TinySR-26 (one for bicubic inputs at +0.23 dB, one for noisy inputs at +3.26 dB). Their weight deltas are nearly orthogonal (cos = 0.088) and commute to float precision (1.5e-8). Adding the deltas wipes out the bicubic gain and causes a -4.06 dB regression on nearest-neighbour inputs. Weight-space orthogonality does not imply functional independence. Layer-by-layer regression attribution shows the drop is spread across every residual block. Dropping blocks worst-first removes 8 of 9 blocks, destroying the gain. A fine-tune delta only works as an atomic unit: partial reverts that are routine in code break it. 5. Rebasing Patches Across Upstream Base Updates (wpgit rebase) When CatGAN-26 is trained +500 to +4,000 steps further: Input-level latent locks survive +4,000 steps (17.9% weight drift). Internal channel-level patches (prune2, eye_gate) leave residual weights in moved channels, breaking collateral bounds after +2,000 steps. wpgit rebase flags internal channel patches as stale_context at +500 steps, long before behavioral tests fail. Re-fitting patches from scratch on the new base restores channel guarantees, but exposes a new interaction: locking cats to light fur shifts the iris detector's scores past its threshold. Only in-context integration testing exposes this. 6. Static Weight Forensics (Reading Checkpoints Without Data) Static weight inspection (extract_and_audit.py) exposed training facts and bugs without forward passes: Step-count recovery: Because Keras initialized BatchNorm running variance at 1.0 with momentum 0.99, a classifier's first BatchNorm variance (0.8347 ~ 0.99n) revealed n = 18 optimizer steps, matching the 6-epoch early-stopped training log. Dataset mean extraction: MobileNetV2's Conv1 lacks a bias, meaning bn_Conv1's running mean is the filter sums times the training set's mean RGB. Solving this 32x3 linear system (R2 = 1.000) recovered ImageNet's mean RGB to within 1.4 levels (122.3, 116.2, 102.9) from the weights alone. Compiling deployment fixes: Folding raw uint8 input scaling into Conv1 is exact in the interior but causes a 1.6 border logit error because zero-padding in [-1, 1] space equals 127.5 in raw pixel space. Incorporating the padding constant directly into the patch restores exactness (2.5e-5) and brings top-1 agreement from 0% to 100% with zero added runtime FLOPs. Why This Matters If LLMs and autonomous agents are going to edit, specialize, and steer neural network weights, we cannot treat checkpoints as opaque binary blobs, nor can we trust single-shot edits that lack regression suites. Weight updates need the same tooling software engineering spent 50 years building: content hashes, in-context unit tests, algebraic merge checks, and clean version control. All code, weights, .weightpatch.json files, and 15-commit Git bundles are open source under MIT / CC BY-NC 4.0: Repository: https://github.com/v-code-895/wsse Interactive Figures & Visuals: https://v-code-895.github.io/wsse/ Archival DOI: https://doi.org/10.5281/zenodo.23956114 Happy to answer questions on weight steering, model diffing, and how software engineering applies to weights!
+
+52m ago
+
+---
+
+**[Hy4 adds vision and computer use. How reliable will it be on long tasks?](https://www.reddit.com/r/artificial/comments/1xnn1xm/hy4_adds_vision_and_computer_use_how_reliable/)**
+
+Tencent just dropped Hy4. Vision and computer use are probably the two biggest new additions. For the first time, Hy can understand images and complex charts. It can also work across CLI and GUI, with specific training for tools like Blender and CAD. The computer use part sounds pretty interesting, but there’s more to it than just clicking buttons and running commands. What happens when a button moves, a permission pop-up gets in the way, or a command fails halfway through a task? Can the model figure out what went wrong and get back on track? And what about the extra cost? Every failed action, retry, or new screenshot could mean more tokens and API calls. Over a long workflow, those costs could add up pretty quickly. There’s also the problem of keeping track of everything across a long workflow. An agent might complete several steps correctly, then lose track of its progress or assume something worked when it didn’t. Being able to perform individual actions is one thing. Getting through an entire workflow without losing track of messing things up is another. Is anyone else interested in putting Hy4’s computer use capabilities to a real-world test? Official announcement: Tencent Hy
+
+13h ago
 
 ---
 
@@ -93,51 +117,27 @@ The company said that AI-enabled products would be shut off by default for schoo
 
 ---
 
-**[Is there an AI I can train to play games on my phone?](https://www.reddit.com/r/artificial/comments/1xo0azq/is_there_an_ai_i_can_train_to_play_games_on_my/)**
-
-Is there an AI I can show like a couple of minutes or an hour of playing a game on my phone and have it play that game for me?
-
-4m ago
-
----
-
-**[Hy4 adds vision and computer use. How reliable will it be on long tasks?](https://www.reddit.com/r/artificial/comments/1xnn1xm/hy4_adds_vision_and_computer_use_how_reliable/)**
-
-Tencent just dropped Hy4. Vision and computer use are probably the two biggest new additions. For the first time, Hy can understand images and complex charts. It can also work across CLI and GUI, with specific training for tools like Blender and CAD. The computer use part sounds pretty interesting, but there’s more to it than just clicking buttons and running commands. What happens when a button moves, a permission pop-up gets in the way, or a command fails halfway through a task? Can the model figure out what went wrong and get back on track? And what about the extra cost? Every failed action, retry, or new screenshot could mean more tokens and API calls. Over a long workflow, those costs could add up pretty quickly. There’s also the problem of keeping track of everything across a long workflow. An agent might complete several steps correctly, then lose track of its progress or assume something worked when it didn’t. Being able to perform individual actions is one thing. Getting through an entire workflow without losing track of messing things up is another. Is anyone else interested in putting Hy4’s computer use capabilities to a real-world test? Official announcement: Tencent Hy
-
-8h ago
-
----
-
-**[why is every AI memory tool still unreliable or am I using it wrong?](https://www.reddit.com/r/artificial/comments/1xnlmx2/why_is_every_ai_memory_tool_still_unreliable_or/)**
-
-I use Claude, GPT, and their built-in memories a lot, but unfortunately, they are too inconsistent. They cannot remember which needs, or even cannot give the exact context most of the time which is needed. This might not affect normal things, like polishing emails. But it highly affects long-term or complex projects. Moreover, it works only inside that exact AI. I also tried some external tools like Mem0 and Supermemory; they are a little better, but they are too extremely inconsistent for big, complex, or long-term projects. Do you think I'm doing something wrong? Or is there an existing solution which I don't know, or is it really a bug that hasn't been solved yet?
-
-10h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending](https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending)**
 
-Bloomberg • 1h ago
+Bloomberg.com • 5h ago
 
 ---
 
 **[Apple cuts employee AI budgets in cost-control push, Bloomberg News reports](https://www.reuters.com/business/retail-consumer/apple-cuts-employee-ai-budgets-cost-control-push-bloomberg-news-reports-2026-11-04/)**
 
-Reuters • 55m ago
+Reuters • 5h ago
 
 ---
 
-**[Apple disables Siri AI waitlist in iOS 27, with one exception](https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/)**
+**[Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/)**
 
-A newly updated Apple support document says Siri AI no longer uses a waitlist to enable it, except in “high demand” times.
+The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.
 
-9to5Mac • 57m ago
+TechCrunch • 14m ago
 
 ---
 
@@ -151,45 +151,43 @@ The New York Times • 1d ago
 
 After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.
 
-CNBC • 21h ago
+CNBC • 1d ago
 
 ---
 
-**[Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out](https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/)**
+**[Seattle families to rally, address generative AI tech usage in schools](https://komonews.com/news/local/seattle-publis-schools-crisis-in-the-classroom-families-to-rally-to-address-generative-ai-in-schools-education-washington-state-youtube-minecraft-gemini)**
 
-Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.
+Seattle families are urging the state’s largest school district to pause the use of generative AI and address concerns about student-facing technology.Some Sea
 
-WIRED • 1h ago
-
----
-
-**[Satellite images expose potential trouble behind Microsoft's $5 billion AI spending shortfall](https://www.businessinsider.com/microsoft-ai-buildout-delays-satellite-images-2026-11)**
-
-Satellite images reveal potential delays at two Microsoft AI data center projects, highlighting power and permitting challenges facing neoclouds.
-
-Business Insider • 43m ago
+KOMO • 2h ago
 
 ---
 
-**[Democrats may go after data centers. That's not a reason to dump all your AI stocks](https://www.cnbc.com/2026/11/04/democratic-data-center-pushback-could-help-ai-stocks.html)**
+**[How AI Changes The Starting Point Of Team Discussions](https://www.forbes.com/sites/melissadaimler/2026/11/04/how-ai-changes-the-starting-point-of-team-discussions/)**
 
-The AI trade could be tricky in the short term, but a bubble deflating gradually is better than a pop, economists say
-
-CNBC • 1h ago
+Forbes • 14m ago
 
 ---
 
-**[Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.](https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html)**
+**[Tencent Targets Financial Analysis With Hy4 AI Model](https://www.pymnts.com/news/artificial-intelligence/2026/tencent-targets-financial-analysis-with-hy4-ai-model/)**
 
-The New York Times • 1h ago
+Tencent has released its latest generation large language model, Hy4, saying in a Wednesday (Nov. 4) press release that it “now ranks among the world’s
+
+PYMNTS.com • 30m ago
 
 ---
 
-**[5 Cheapest AI Data Center Stocks to Buy According to Billionaires](https://finance.yahoo.com/technology/ai/articles/5-cheapest-ai-data-center-203221920.html)**
+**[Bright Pattern Featured on GSA UK's SourcingTV: AI, Data Sovereignty and the Future of Global Customer Experience](https://www.freep.com/press-release/story/267360/bright-pattern-featured-on-gsa-uks-sourcingtv-ai-data-sovereignty-and-the-future-of-global-customer-experience/)**
 
-AI data center investment keeps expanding, but the companies supplying that capacity face different paths to profit. The International Energy Agency’s October 2026 report estimates that hyperscalers will spend more than $700 billion on capital investment this year, mostly on new data centers. The report also points out constrained electricity networks, connection queues, and slow […]
+That's why it's important for us to offer local deployment of both customer service platforms and AI technology,
 
-Yahoo Finance • 53m ago
+Detroit Free Press • 41m ago
+
+---
+
+**[‘AI earthquake’: Democrats eye a Silicon Valley reckoning](https://www.politico.com/news/2026/11/04/democrats-eye-a-silicon-valley-ai-reckoning-01148624)**
+
+Politico • 10h ago
 
 ---
 
@@ -201,7 +199,7 @@ Yahoo Finance • 53m ago
 
 Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u...
 
-⬆️ 1478 • 💬 479 • 1d ago • [GitHub](https://github.com/postmanlabs/postman-app-support/issues/14370)
+⬆️ 1485 • 💬 483 • 1d ago • [GitHub](https://github.com/postmanlabs/postman-app-support/issues/14370)
 
 ---
 
@@ -209,13 +207,13 @@ Is there an existing issue for this? I have searched the tracker for existing si
 
 AI is forcing us to pay off 40 years of technical debt
 
-⬆️ 945 • 💬 576 • 9h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
+⬆️ 1059 • 💬 633 • 13h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 
 ---
 
 **[Google will turn off search for schools that reject AI](https://news.ycombinator.com/item?id=50353192)**
 
-⬆️ 656 • 💬 458 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)
+⬆️ 662 • 💬 460 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)
 
 ---
 
@@ -223,7 +221,7 @@ AI is forcing us to pay off 40 years of technical debt
 
 Low costs and offline security mean magnetic tape still has a job.
 
-⬆️ 526 • 💬 226 • 2d ago • [Ars Technica](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+⬆️ 527 • 💬 226 • 2d ago • [Ars Technica](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
 
 ---
 
@@ -231,7 +229,7 @@ Low costs and offline security mean magnetic tape still has a job.
 
 Google, Meta, others' commitments and obligations reach 80% of assets
 
-⬆️ 406 • 💬 164 • 23h ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
+⬆️ 408 • 💬 166 • 1d ago • [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
 
 ---
 
@@ -239,7 +237,7 @@ Google, Meta, others' commitments and obligations reach 80% of assets
 
 This book provides a compact, derivation-oriented introduction to the mathematical foundations of modern generative artificial intelligence. Rather than surveying every recent architecture or implementation detail, it develops a coherent route through the ideas connecting major families of generative models, from PCA, probabilistic PCA, variational autoencoders, and diffusion models to normalising flows, autoregressive factorisations, GANs, Wasserstein GANs, and energy-based models. The aim is to make the structure of generative modelling more accessible without removing the mathematical substance needed to understand how these models are derived and related. The book is intended as a foundation-building primer for mathematically curious researchers, practitioners, and students.
 
-⬆️ 380 • 💬 59 • 23h ago • [arXiv.org](https://arxiv.org/abs/2605.29713)
+⬆️ 383 • 💬 60 • 1d ago • [arXiv.org](https://arxiv.org/abs/2605.29713)
 
 ---
 
@@ -255,7 +253,7 @@ Anthropic's IPO filing reveals a striking milestone: Its internal AI usage is no
 
 Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown
 
-⬆️ 292 • 💬 287 • 11h ago • [the Guardian](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+⬆️ 297 • 💬 293 • 15h ago • [the Guardian](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
 
 ---
 
@@ -263,15 +261,15 @@ Nobel winner warns the tech could be near to triggering major incident such as p
 
 I document how I use AI, one year after my first writeup. Everything's completely different.
 
-⬆️ 248 • 💬 286 • 1d ago • [ben.stolovitz.com](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
+⬆️ 250 • 💬 300 • 1d ago • [ben.stolovitz.com](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
 
 ---
 
-**[AI delivers 'zero financial payoff' to most companies, Apollo economist says](https://news.ycombinator.com/item?id=50330456)**
+**[Oracle files to sell $20B in new stock, bonds to finance AI buildout](https://news.ycombinator.com/item?id=50342284)**
 
-"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+Oracle filed plans on Monday to issue new shares and more debt to finance its artificial intelligence buildout.
 
-⬆️ 246 • 💬 255 • 2d ago • [TechCrunch](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+⬆️ 199 • 💬 175 • 2d ago • [CNBC](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html)
 
 ---
 
@@ -279,33 +277,33 @@ I document how I use AI, one year after my first writeup. Everything's completel
 
 ## YouTube Videos: "ai"
 
-**[Elon&#39;s AI Agent Has a Massive Cost Problem](https://www.youtube.com/watch?v=-5cDYPwNf5g)**
+**[Elon Musk Just Burst The AI Bubble](https://www.youtube.com/watch?v=mE-DrQNRsRA)**
 
-AI agents have a cost problem that keeps companies from scaling. This breakdown shows how to calculate the real price of your ...
+Join Pepperstone https://go.coinbureau.com/pepperstone-fb Subscribe to our Newsletter https://financebureau.com/ ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Finance Bureau
 
-👁️ 11K • 👍 222 • 💬 47 • ⏱️ 16:08 • 6h ago
-
----
-
-**[The Most Insane AI Film You&#39;ll See Today (Seedance 2.5)](https://www.youtube.com/watch?v=1yLAbK5F3E8)**
-
-PLANET HELL is an AI Sci-FI Short Film expanding on the original AI Film trailer made in Veo-3.1 This is an ongoing series about ...
-
-📺 Theoretically Media
-
-👁️ 95K • 👍 2K • 💬 401 • ⏱️ 5:15 • 2d ago
+👁️ 87K • 👍 1K • 💬 155 • ⏱️ 17:12 • 9h ago
 
 ---
 
-**[AI vibe coding changes a local man’s life path](https://www.youtube.com/watch?v=qvOxAbC3d0U)**
+**[AI Bubble: Big Tech’s MAGA alliance is over | Martha Muir](https://www.youtube.com/watch?v=K29L-LJstB8)**
 
-CTV's Krista Sharpe-Kilpatrick finds out how a man went from driving a forklift to a booming tech career. Subscribe to CTV News to ...
+A bad night for anyone who wants to develop a data center. And a horrible night for anyone who wants to develop a data center in ...
 
-📺 CTV News
+📺 The Tech Report
 
-👁️ 240K • 👍 3K • 💬 482 • ⏱️ 3:20 • 2d ago
+👁️ 69K • 👍 1K • 💬 394 • ⏱️ 22:07 • 5h ago
+
+---
+
+**[MIT looked at what AI actually killed and holy sh*t...](https://www.youtube.com/watch?v=W8Dl-TS9H2c)**
+
+MIT looked at what AI is actually replacing, and the answer isn't entire professions. It's entry-level work. Researchers mapped ...
+
+📺 The Infographics Show
+
+👁️ 818K • 👍 8K • 💬 2K • ⏱️ 12:57 • 23h ago
 
 ---
 
@@ -315,17 +313,17 @@ Anthropic just warned that its next Claude models could be approaching recursive
 
 📺 AI Revolution
 
-👁️ 26K • 👍 556 • 💬 49 • ⏱️ 13:54 • 20h ago
+👁️ 31K • 👍 600 • 💬 54 • ⏱️ 13:54 • 1d ago
 
 ---
 
-**[Why AI experts are sounding the alarm about the midterms](https://www.youtube.com/watch?v=VjKREc7YWxo)**
+**[AI vibe coding changes a local man’s life path](https://www.youtube.com/watch?v=qvOxAbC3d0U)**
 
-AI chatbots could influence how Americans vote, and the chatbot they choose matters. CNN's Hadas Gold met with a team of ...
+CTV's Krista Sharpe-Kilpatrick finds out how a man went from driving a forklift to a booming tech career. Subscribe to CTV News to ...
 
-📺 CNN
+📺 CTV News
 
-👁️ 234K • 👍 923 • 💬 419 • ⏱️ 12:53 • 1d ago
+👁️ 250K • 👍 3K • 💬 502 • ⏱️ 3:20 • 2d ago
 
 ---
 
@@ -335,47 +333,47 @@ To know more about our Styling Partner Levi's, Checkout:- ...
 
 📺 Raj Shamani
 
-👁️ 2.7M • 👍 51K • 💬 4K • ⏱️ 1:08:01 • 1d ago
+👁️ 2.8M • 👍 52K • 💬 4K • ⏱️ 1:08:01 • 1d ago
 
 ---
 
-**[Jamie Dimon &quot;Prepare For The AI Credit Crisis&quot;](https://www.youtube.com/watch?v=JyzWC6675KA)**
+**[The Most Insane AI Film You&#39;ll See Today (Seedance 2.5)](https://www.youtube.com/watch?v=1yLAbK5F3E8)**
 
-Register for my free investing Livestream & get Market Briefs as a bonus: ...
+PLANET HELL is an AI Sci-FI Short Film expanding on the original AI Film trailer made in Veo-3.1 This is an ongoing series about ...
 
-📺 Minority Mindset
+📺 Theoretically Media
 
-👁️ 75K • 👍 1K • 💬 133 • ⏱️ 31:56 • 8h ago
-
----
-
-**[AI is causing productivity declines | Brian Merchant](https://www.youtube.com/watch?v=kTbQAALjvgc)**
-
-We're only going to see more burnout as employers either adopt more AI tools or they just keep pushing employees for more so ...
-
-📺 The Tech Report
-
-👁️ 185K • 👍 3K • 💬 681 • ⏱️ 42:17 • 1d ago
+👁️ 109K • 👍 2K • 💬 406 • ⏱️ 5:15 • 2d ago
 
 ---
 
-**[I Think AI Just Killed The Plugin Industry](https://www.youtube.com/watch?v=kVBXHzdCOP0)**
+**[Why AI experts are sounding the alarm about the midterms](https://www.youtube.com/watch?v=VjKREc7YWxo)**
 
-I tried the viral "reverse engineer anything" repo with Claude Code, and in about 30 minutes it cloned my favorite compressor ...
+AI chatbots could influence how Americans vote, and the chatbot they choose matters. CNN's Hadas Gold met with a team of ...
 
-📺 Rhett Shull
+📺 CNN
 
-👁️ 554K • 👍 8K • 💬 3K • ⏱️ 16:25 • 2d ago
+👁️ 235K • 👍 923 • 💬 418 • ⏱️ 12:53 • 2d ago
 
 ---
 
-**[This Movie Warned Us About AI 50 Years Ago #shorts](https://www.youtube.com/watch?v=77Qy3qkprYc)**
+**[Master Ultra Realistic AI Video in 10 minutes](https://www.youtube.com/watch?v=RJKZCbeqIjc)**
 
-This Movie Warned Us About AI 50 Years Ago #shorts.
+How to Make Realistic AI Videos in OpenArt: Lighting, Characters and Motion Create your AI images and videos in OpenArt: ...
 
-📺 Perkyy
+📺 Mira AI
 
-👁️ 33K • 👍 2K • 💬 175 • ⏱️ 2:06 • 17h ago
+👁️ 7K • 💬 1 • ⏱️ 10:05 • 8h ago
+
+---
+
+**[Popular Animation YouTuber CAUGHT Using AI Art](https://www.youtube.com/watch?v=AZbCxTQDX6U)**
+
+Storytime animation YouTuber Swoozie has used generative artificial intelligence in his brand new video "Fast and Curious 4", ...
+
+📺 Vailskibum
+
+👁️ 95K • 👍 4K • 💬 818 • ⏱️ 3:06 • 5h ago
 
 ---
 
@@ -391,7 +389,7 @@ NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 4
 
 `automatic-speech-recognition` `33.7B`
 
-⬇️ 44,939 • ❤️ 1,474 • 5d ago
+⬇️ 44,939 • ❤️ 1,491 • 6d ago
 
 ---
 
@@ -403,19 +401,7 @@ DeepSeek-V4.1-Flash-1017 is an image-text-to-text model that enhances reasoning,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 221,621 • ❤️ 5,256 • 18d ago
-
----
-
-**[LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)**
-
-*Liquid AI*
-
-LFM3-1.7B is a 1.73B parameter text model optimized for edge devices and local agents, featuring a 256K context window and multi-language support. It excels at agentic tasks, tool calling, and domain-specific fine-tuning, with low memory requirements (approx. 1GB at 4-bit precision).
-
-`text-generation` `1.7B`
-
-⬇️ 54,959 • ❤️ 1,478 • 1d ago
+⬇️ 221,621 • ❤️ 5,271 • 18d ago
 
 ---
 
@@ -427,7 +413,19 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 14,613 • ❤️ 608 • 6d ago
+⬇️ 14,613 • ❤️ 619 • 6d ago
+
+---
+
+**[LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)**
+
+*Liquid AI*
+
+LFM3-1.7B is a 1.73B parameter text model optimized for edge devices and local agents, featuring a 256K context window and multi-language support. It excels at agentic tasks, tool calling, and domain-specific fine-tuning, with low memory requirements (approx. 1GB at 4-bit precision).
+
+`text-generation` `1.7B`
+
+⬇️ 54,959 • ❤️ 1,485 • 1d ago
 
 ---
 
@@ -439,7 +437,7 @@ Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model 
 
 `image-text-to-text`
 
-⬇️ 8,200 • ❤️ 1,587 • 2d ago
+⬇️ 8,200 • ❤️ 1,591 • 2d ago
 
 ---
 
@@ -451,7 +449,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `image-text-to-text` `2780.1B`
 
-⬇️ 797 • ❤️ 425 • 2d ago
+⬇️ 797 • ❤️ 510 • 2d ago
 
 ---
 
@@ -463,7 +461,7 @@ Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, 
 
 `image-to-video` `33.1B`
 
-⬇️ 749 • ❤️ 427 • 5d ago
+⬇️ 749 • ❤️ 429 • 6d ago
 
 ---
 
@@ -475,7 +473,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,493,402 • ❤️ 10,609 • 24d ago
+⬇️ 2,493,402 • ❤️ 10,619 • 24d ago
 
 ---
 
@@ -487,7 +485,7 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 123,321 • ❤️ 647 • 23h ago
+⬇️ 123,321 • ❤️ 655 • 1d ago
 
 ---
 
@@ -499,7 +497,7 @@ Numbat is a massive ~14T parameter, 114-layer causal language model featuring a 
 
 `6849.4B`
 
-⬇️ 8,118 • ❤️ 340 • 11d ago
+⬇️ 8,118 • ❤️ 342 • 11d ago
 
 ---
 
@@ -521,18 +519,6 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 63 • 💬 4 • ⭐ 46,718 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -545,17 +531,15 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224)**
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
-*Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu et al. (9 authors)*
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
 
-🏢 Google
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
+▲ 63 • 💬 4 • ⭐ 46,814 • 15mo ago
 
-▲ 67 • 💬 4 • ⭐ 22,583 • 27d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -570,6 +554,20 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 ▲ 110 • 💬 2 • ⭐ 16,573 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
+
+---
+
+**[Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224)**
+
+*Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu et al. (9 authors)*
+
+🏢 Google
+
+Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
+
+▲ 67 • 💬 4 • ⭐ 22,669 • 27d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
 ---
 
@@ -605,7 +603,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.
 
-▲ 1 • 💬 0 • ⭐ 12,321 • 72mo ago
+▲ 1 • 💬 0 • ⭐ 12,328 • 72mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2011.09832) • [💻 code](https://github.com/arraiyopensource/kornia)
 
@@ -625,15 +623,17 @@ WeVisOne-VL unifies object-level and pixel-level visual perception via structure
 
 ---
 
-**[Xiaomi-OCR-0 Technical Report](https://huggingface.co/papers/2609.36136)**
+**[SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding](https://huggingface.co/papers/2611.02501)**
 
-*Xin Chen, Anan Du, Feng Feng et al. (10 authors)*
+*Kunjun Li, Wenhao Chai, Yihao Liang et al. (10 authors)*
 
-Xiaomi-OCR-0 is a compact vision-language model that unifies document parsing and OCR understanding through automated data synthesis, progressive training with text anchoring and reinforcement learning, and achieves state-of-the-art results on multiple benchmarks.
+🏢 University of California, Berkeley
 
-▲ 13 • 💬 0 • ⭐ 887 • 1mo ago
+SpecPilot autonomously discovers deployment-specific algorithms and system optimizations to maximize speculative decoding speedups across diverse models, drafters, and serving regimes without quality loss.
 
-[🎓 arXiv](https://arxiv.org/abs/2609.36136) • [💻 code](https://github.com/SeerRay-Lab/Xiaomi-OCR-0) • [🔗 project](https://huggingface.co/spaces/SeerRay-Lab/Xiaomi-OCR-0)
+▲ 16 • 💬 2 • ⭐ 82 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2611.02501) • [💻 code](https://github.com/StargazerX0/SpecPilot) • [🔗 project](https://stargazerx0.github.io/specpilot-project-page/)
 
 ---
 
@@ -647,7 +647,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 16.6k • 🔱 1.6k • 6d ago
+⭐ 16.6k • 🔱 1.7k • 6d ago
 
 ---
 
@@ -657,7 +657,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 8.5k • 🔱 424 • 3d ago
+⭐ 8.7k • 🔱 432 • 3d ago
 
 ---
 
@@ -667,7 +667,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 6.6k • 🔱 1.4k • 2h ago
+⭐ 6.7k • 🔱 1.4k • 6h ago
 
 ---
 
@@ -677,7 +677,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 6.3k • 🔱 575 • 13h ago
+⭐ 6.3k • 🔱 576 • 18h ago
 
 ---
 
@@ -687,7 +687,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 5.9k • 🔱 1.5k • 13h ago
+⭐ 6.0k • 🔱 1.5k • 17h ago
 
 ---
 
@@ -697,7 +697,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `C` `ai-agent` `airplay` `automation` `computer-use` `esp32`
 
-⭐ 4.4k • 🔱 586 • 2h ago
+⭐ 4.4k • 🔱 588 • 6h ago
 
 ---
 
@@ -707,7 +707,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 3.9k • 🔱 247 • 12d ago
+⭐ 3.9k • 🔱 247 • 13d ago
 
 ---
 
@@ -717,7 +717,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
 
-⭐ 2.7k • 🔱 28 • 3h ago
+⭐ 2.7k • 🔱 30 • 7h ago
 
 ---
 
@@ -727,7 +727,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `TypeScript` `adversarial-ai` `claude-code` `cursor` `electron-security` `llm-security`
 
-⭐ 2.2k • 🔱 301 • 4h ago
+⭐ 2.3k • 🔱 305 • 8h ago
 
 ---
 
@@ -737,7 +737,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `HTML`
 
-⭐ 2.2k • 🔱 555 • 6h ago
+⭐ 2.2k • 🔱 556 • 10h ago
 
 ---
 
