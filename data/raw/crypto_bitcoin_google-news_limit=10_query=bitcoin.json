@@ -15,12 +15,42 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWg3aW5QeW04R2pKaV9WdFp4XzJZdkJnaEw1UEdLNGZINHJBZk5UYldBX1FsY1Z3eUxubmphN1hvQnJJNFdERkJOcjZPMXppclBsN2hOZGZxVUhMZGRydHYwSlVpTXcxekxDZzQ5OFVFS1h3czZwVzQ2VW94VDNLdWdsbm5heHIteUhDZ2RjaC1SWlFycGNJSklZZkVWbThkQjRJQlF5QjJfMEFNWVVLa19n?oc=5",
-      "pub_date": 1793829201.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda",
+      "headline": "Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMd0tTamdoNnlfUVRTSHFac1UyUWtGWHdBRENkR3hEVE1Rb3lXOWdocFR6Sk1EdU5CbjJvU0wzanBkVTVvZlpMTHBCRkZNRGlZd0YtSzJHVHE4SldHS1F6ejdURVJnVlNqU3VRenZ6Smc0d01tcGU3MXdiNnY?oc=5",
+      "pub_date": 1793893698.0,
+      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-below-75000-tech",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Bitcoin-Price-Slides-Below-70000-as-Oil-Spikes-Fed-Hold-Tightens-Financial-Conditions.jpg",
+      "description": "Bitcoin price fell about 5% to under $77,000 Thursday as a Nasdaq chip and AI selloff spilled into crypto and liquidated hundreds of millions in leveraged longs."
+    },
+    {
+      "headline": "Bitcoin falls to seven-week low as tech selloff hits crypto",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4MmVFTkVDSVF5NWpnM2ltaWlMRmJONnZUQXZBNkZnUkNROTVkVTZ4dWE0Z3RmQVQwb2xhSi1CX1dVNG9rWkNfWWotTFNwa2RxUmdXS3VQdXctUG41djJwUWhLZldOTVFFck1KdkhPNzlnQQ?oc=5",
+      "pub_date": 1793898319.0,
+      "article_url": "https://qz.com/bitcoin-seven-week-low-tech-selloff-crypto-110526",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2269684426-300x200.jpg",
+      "description": "Bitcoin dropped as much as 5.8% as the Nasdaq 100 fell 6.4% in chip-led trading, adding to pressure from the Binance hack"
+    },
+    {
+      "headline": "Bitcoin tumbles to $76,000 as post-election stock rally fades",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NVSGpVb1YyRk9lNzI1SlhXQ25YeGpRdDRINTVDSF9zc0c0NlRtUlNuOHNDbWFiRDlwVU5LWlR4VC1nZEwyZXBoX2VZekRWWUlVNGxkbVgzTms3anFzaVFEcU43OGJaYzd2eHlpRVY3SHpYRXpEY0kxZVNIbDlnX1h3aFJzSTg4VkdrMUk1enRBTUtIREc1cEY4cDBTSGp0TDR3UjEyT2ZWVXNJSkRvbTZ1WVRGMlk?oc=5",
+      "pub_date": 1793898949.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-to-76000-as-post-election-stock-rally-fades-171549230.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f722fda13ce8ec5dc02ab9bdcd881acedecadb772e461dbb20e360acc5be6228/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ff18c9878-6cee-4edc-ade7-5b5b578873a5",
+      "description": "Bitcoin tumbled below $77,000 on Thursday as investors moved out of riskier assets amid a broad sell-off in stocks."
+    },
+    {
+      "headline": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWlZfWjUwR1N4cEo4UUtQOS1LWWJURnVQSE1IOS04V252ZHdwZUVXQ0xlVFRsTkY3T3NYdW1wVTVqQVQ4NVRiMVByZU91bEl0eE5UY0NxdVlJQWhNRUpuYkxYNE1BR244WXJMMXpFM1hlYVZiY3VFUzlEb1ZRUFRtVzl4a0pBUi1qVHpySlU0aXM4cG9jN0hvU0hHQ3VUTUdVVC1KTXlKVjV4ZkNUaUlDY1VrbFRwZGJlb3U2Rzk0Q2ZSUERtZGhGLQ?oc=5",
+      "pub_date": 1793898915.0,
+      "article_url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
       "image": null,
       "description": null
     },
@@ -35,76 +65,46 @@
       "description": "Powered shell providers fell ~35% in October on funding fears, yet no signed leases were cancelled. Why we see the AI data center sell-off as a dislocation."
     },
     {
-      "headline": "Gold and bitcoin just gave Scott Bessent\u2019s Treasury a post-midterm wake-up call",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVJKMEx1d1BIUUtOVUZ0aWxnWjhaMWxZZWlYSXdMMlZhWWZNWDJKOWZfb3k5ZkhPU3drMmY2bXBVa3F5bUpVNXlzNmVCUzNtQkFUTWxfcVVZTk9KYjJGUFZhV3phTnBRMTV6YVFxRExLc3NVcjJSSGxVd0VjNk1VWHN1OUxtRGlxLVRUYU0tbWp1MFNfTVZiSkRzbUZMOG9HQTZ5eWV5Zk1vYmh1UEFkaWVkRFRjdkhQTjB1UGpTQjhtM2VaaHV4ejNqemQwN0k?oc=5",
-      "pub_date": 1793814224.0,
-      "article_url": "https://finance.yahoo.com/markets/article/gold-and-bitcoin-were-2026s-worst-assets--the-midterms-just-gave-them-a-pulse-174344496.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/20080e37213ad54ddbe25b639c1b8947f5c285753ea9085addcbefd43f587837/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F507e3b01-5a0d-44fd-aa48-ff3eeb31979b",
-      "description": "Gold and bitcoin, 2026's two worst major assets, rallied the day after the midterms as the dollar slipped."
-    },
-    {
-      "headline": "Mapping the Market: Bitcoin could extend losses",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNm9yeUVlVkVwM3RFNm1tMGFnMEVWellmVDZQQ2lGQ2hRR3VsMUVuSFVEN29BRHZ3Wnk0b0k2SVFpUk5WcGRYRW1Kck0tR3lSeDdiTy1LdTNMZGNBcGpndUUwNkRDRl9NNmRsZFZhWkhqa3VOY3VJcGdXU0k5d2dydThGc183cGM?oc=5",
-      "pub_date": 1793790369.0,
-      "article_url": "https://www.reuters.com/technology/global-markets-technicals-graphic-2026-11-04/",
+      "headline": "Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWg3aW5QeW04R2pKaV9WdFp4XzJZdkJnaEw1UEdLNGZINHJBZk5UYldBX1FsY1Z3eUxubmphN1hvQnJJNFdERkJOcjZPMXppclBsN2hOZGZxVUhMZGRydHYwSlVpTXcxekxDZzQ5OFVFS1h3czZwVzQ2VW94VDNLdWdsbm5heHIteUhDZ2RjaC1SWlFycGNJSklZZkVWbThkQjRJQlF5QjJfMEFNWVVLa19n?oc=5",
+      "pub_date": 1793829201.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda",
       "image": null,
       "description": null
     },
     {
-      "headline": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QeHRKbUhubmdNbFRBU0J3dlU1Uy1hWlZBN29LcUFaX2o3VFRvaFBVc2laUXZ5Ti1XYTJVemI0X3hvNmpjd2JndzNIWGlseXh2aWRtZUt4dkVQbV9PYjlyb3pEazU1Nk5sbWQ0LXJJS2Rudw?oc=5",
-      "pub_date": 1793843089.0,
-      "article_url": "https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/American-Bitcoin-ABTC-Q3-Mining-Rig.jpg",
-      "description": "American Bitcoin reported about $126 million in Q3 net income after a $197.3 million gain on bitcoin holdings, reversing a $57.2 million prior-quarter loss."
-    },
-    {
-      "headline": "Bitcoin's Great Consensus Cleanup soft fork targets legacy vulnerabilities",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmRWS2pXQ0FxOVBtMUlIU0NDcnJLSHNaWjdCUjEzblFPdVNxVnJWTmFkTF9JcHdGU21IUHNPODdTYzBtX3Y2VzA4cThKV3dNMnktbGR6Y2JkRk5tT0dyQUIyb0FuRDhMMHg1ejJla0U0TERUc21ycS1WekxYVktWaUJBNk1yczB5R09WRUIxYnVIeERlRDh5TjJUNFV1cmpLaXNYb251dDlHMzVEdGxTS3JzYmZKbXdXdl8xWHFiQV9VZTBXaHR0UXFvRHhJTDJRc2VBYW13?oc=5",
-      "pub_date": 1793832653.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:f4e55f60d094b:0-bitcoin-s-great-consensus-cleanup-soft-fork-targets-legacy-vulnerabilities/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin's next big protocol upgrade may not be a flashy one. The leading candidate is a cleanup job: a proposal to fix four flaws in the network's consensus rules that have been sitting there since the protocol launched in 2009.The proposal is formally known as BIP-54, or the Great Consensus Cleanu\u2026"
-    },
-    {
-      "headline": "ETF Prime: Franklin Templeton Reimagines DRIPs With Bitcoin",
-      "source": "ETF Database",
-      "source_url": "https://etfdb.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVdvMU1qUzdPUVJKMW1TNkotV3Q1Nm1WVEdoSXBDNDA2TlhWUXpEQ1ZKUng4YklUZTlFbDU2YTBhWDF5bmp3eG5VTGhXT0hId2NfYTJMZ2lHVEpRYm5jeFhBOG03YUx6Tkwxd0RMRlF6dC05OXdacDNwel8zamJzQWxISUh1bHA4eXB1TUpJRkJkNjlsWm1ibUZOWDhhQmM?oc=5",
-      "pub_date": 1793821428.0,
-      "article_url": "https://etfdb.com/thematic-investing-content-hub/franklin-templeton-reimagines-drips-with-bitcoin/",
+      "headline": "Bitcoin price analysis: What's next for BTC after U.S. midterms",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnlSaG55Rkxpb2V4U2UyXzhYNXNTMjlTcVNWUHhkR1F5d1U0bGNJYUFwdnU5RWFFZ0VTSmQyV21fRG5zc2FLcUFQck1sRmswSlctWGdPM3RrekJpdV9jWnlmSHNvcjE0ZnpwT0xsamk5MHIwLTNYNjJTY1RzWm1mRl9QZ3hHRlUxR0NqLTJ6WTVNYjJOTWJvNlpPZkpIU0N4LWJkQmFKQzFONXRzam5uby1xOHhRNVJQT3BOWjhB?oc=5",
+      "pub_date": 1793795084.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
       "image": null,
       "description": null
     },
     {
-      "headline": "Could Buying Bitcoin Today Set You Up For Life?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3RTRmZ2T0F5QVV1TUNPQVpNQUVlVm1VVjk1WVQxbl9hZ1dIZ2djWDg0NkxEbnpxbHBGLVBmY0xDUm1rZmNtdjNEV3dVb04xWWZtQ0xwelgxYXVQOGtrVFlCd2pYcVdncS0xODVwTUhLXzE5bUQzVUtZNHFrWHJlLUFDbWJOWDF6NjNGNnFPMHpvcFE?oc=5",
-      "pub_date": 1793826900.0,
-      "article_url": "https://www.fool.com/investing/2026/11/04/could-buying-bitcoin-today-set-you-up-for-life/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892913%2Finvestor-on-top-of-pile-of-money.jpg&w=1200&op=resize",
-      "description": "Bitcoin may have a difficult time delivering an encore performance over the next decade."
+      "headline": "Bitcoin gains to $80.3k as U.S. elections buoy risk appetite, but outlook unclear",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcDdLcURpdko3WF9GNWlNTkdIVW44NVNnYUhaQkotYjY1bXhvOFlSdnd6Um1tSTNIN0o4YUNxZEF5VGJpUHZnNjUwOFBheFVhQ3RxRS1PbHJITDZYX0U3QTdOSGFZdmVSd3hJRUR4OVItY0t5aWVqYXdhU2h4UnZORFQtZG9qaU9qMlhUN0xhM19aSm5RbjdlRHlKRW5YQ2NyaHJvcUNFdkE2MmZqRXhfUjVoLUpRaTQ2VzZ6UWR5ZTdiOU9wYmdqd2U3TlhMMFpS?oc=5",
+      "pub_date": 1793858818.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-805k-as-us-elections-buoy-risk-appetite-but-outlook-unclear-5002271",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Current price of Bitcoin for November 4, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2SWNYaTZyMG0yNGdoTE1oWGVJSEZ6a0lGQm5tSzdXNUZTTUhjVjFaWWtkWnFsQkJRUk56NjJ4QU5HZWdnamY5ZTRWZUNJdWxaTEY5X2ZBaW0yd25lV0hhenNQbE5BaGM?oc=5",
-      "pub_date": 1793794500.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-11-04-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-4.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+      "headline": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0VyV1NobHZxRjFvRlE4R2R3VFBwX1pHUTR5MkowRWtScHloelgtTDBOZ3Q2UlVxV1dDLTVKTEQ5cUFFVnYxVnBodjVFdGtNUVpoSkt2OHl6WDdfNllBMmFUakVQQnFJUHgtVXdHMkx3MnNDaEU4RmtybVpYSTZCUlZ4UzJjT2REMHJSVERnOW1FTmgyZTA4WGpiYXV6Zw?oc=5",
+      "pub_date": 1793896151.0,
+      "article_url": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+      "description": "Bitcoin plunged nearly 5% as AI stocks sank, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-05T09:02:21.998268+00:00"
+  "fetched_at": "2026-11-05T17:32:58.111764+00:00"
 }

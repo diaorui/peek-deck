@@ -2,6 +2,39 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/",
+      "published": 1793865001.0,
+      "thumbnail": "https://preview.redd.it/o8l9f1ml1rzh1.jpeg?width=640&crop=smart&auto=webp&s=a72592038782c75b8865c0796a8c48e80df7ab1d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending"
+    },
+    {
+      "title": "The missing AI number",
+      "author": "Limp-Park7849",
+      "url": "https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/",
+      "published": 1793897186.0,
+      "thumbnail": "https://external-preview.redd.it/1KxD60oNnw5K3lACBzKfdfcB5mAH65IPOrrQhjoa7bM.png?width=640&crop=smart&auto=webp&s=0d2a609b05c2f30fc1875320c344dd123413dd02",
+      "external_url": "https://farhat-hadi.medium.com/the-missing-ai-number-00a5b2554776",
+      "site_name": "farhat-hadi.medium.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Where Did the People in Between Go?",
+      "author": "Wrong-Expression6981",
+      "url": "https://www.reddit.com/r/artificial/comments/1xog015/where_did_the_people_in_between_go/",
+      "published": 1793877035.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "\u200b About forty years ago, if I wanted to call my aunt in America, I had to go to the telephone and telegraph office. I would request an international call and wait for the operator to connect me. I remember waiting an hour at a time. The voice on the other end of the receiver seemed to run a race down the telephone line and only reached me after a while. A lot of people worked in that office. Now I just take my phone out of my pocket and dial. No waiting, no asking anyone to connect me. Things have gotten so convenient. Where did the people in between go? Some took on other work, some retired, I suppose. They didn't all leave overnight. As the work that passed through human hands slowly shrank, the telephone office I remember changed along with it. Look at Korea's national telephone company. Machines that connected calls without an operator were developed in the mid-1980s. But the big waves of early retirement came more than twenty years later \u2014 thousands of people at a time. Technology doesn't replace people all at once. The people thin out after it has become ordinary, when no one is looking anymore. I heard that people who use AI a lot actually end up working longer hours. I believe it. As far as I can see, using AI right now doesn't shorten anyone's day or cut anyone's job. Many people still use it as a tool for finding answers \u2014 just as, when calculators arrived, there was still plenty of calculating left for people to do. But what happens when the AI that talks gets a body and starts to move, and every household brings in a robot? That, I think, is when people will begin handing over their place. Can we say that, just because people are busy now, human work will still be there then? Last night's news was about the American midterm elections. Once again, Musk's money was one of the big stories of the election. Why did he pour so much money into politics? I looked at that through the same lens. For a business that has already spent enormous sums in the belief that it will make money later, time matters. If policy changes and the business is delayed, the income gets pushed back while the costs keep running. If the investors who were waiting close their wallets, it gets even harder. It occurred to me that, for him, the money spent on politics might be the price of buying time \u2014 keeping the road clear so the business isn't delayed. This is my guess. I haven't seen his accounts, and I don't know his mind. Nor am I trying to condemn an American society where lobbying is legal, or to say which ideology, progressive or conservative, is right or wrong. It's just that companies invest while calculating the world to come, and they raise their voices in politics too. Meanwhile, as we enjoy the convenience of the moment, how much are we thinking about our own share? If the words and experiences we leave behind are used to grow this technology, then in the world that technology will change, where should our voice be? That is why I am building a future social contract, adding people's opinions to its seven clauses. Not because I think I know everything that will happen. I just want us to have at least one umbrella ready, together, for when the downpour comes. It's not that I dislike convenience. I use it every day too. It's just that, as we say in Korea, you don't notice you're getting wet in a drizzle until you're soaked through. I'm afraid people will only look at where they stand once they're already drenched. And I think that's already happening, which saddens me."
+    },
+    {
       "title": "Apple Watch now listens to in-person conversations & lets you rewind them",
       "author": "Dilpickle2113",
       "url": "https://www.reddit.com/r/artificial/comments/1xntvml/apple_watch_now_listens_to_inperson_conversations/",
@@ -11,6 +44,50 @@
       "site_name": "Dexerto",
       "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
       "description": "Apple is introducing a new AI feature that allows Apple Watch users to rewind in-person conversations and see what someone just said."
+    },
+    {
+      "title": "A logged AI prompt and a prompt tied to your name are two different problems",
+      "author": "tres_pares",
+      "url": "https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/",
+      "published": 1793886338.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Most AI privacy talk is about whether your prompt gets logged. OpenAI's API, for example, keeps abuse monitoring logs for up to 30 days unless it approves a customer for zero data retention, and those logs can include prompts. The other question is whether a log can be tied to you. With your own API key, every prompt sits under your account, and a VPN only hides your IP. A router puts its own account between you and the provider, but it still sees your account and your prompt together, so you're trusting its policy. Some setups split those two things instead. A relay knows who you are but only gets encrypted data, and a secure enclave reads the prompt without seeing who sent it. Your client can also verify what code the enclave is running. The model provider still gets the prompt, but nothing sent with it identifies you. It only holds if the relay and enclave don't collude, though, and anything you type into the prompt can still give you away. OpenAI's policy if you want to check: https://developers.openai.com/api/docs/guides/your-data If you could only have one, which would you pick: a provider that keeps nothing, or a log that can't be tied to you? What would change your answer? Disclosure: I work at Dreamfort AI, private AI for chat, image, and video which uses the relay and enclave approach, so I'm biased toward it."
+    },
+    {
+      "title": "Are We Entering A Bubble With Ai-Gaming?",
+      "author": "CuntsAndBluntss",
+      "url": "https://www.reddit.com/r/artificial/comments/1xoo6p5/are_we_entering_a_bubble_with_aigaming/",
+      "published": 1793898626.0,
+      "thumbnail": "https://preview.redd.it/el9dkd0mttzh1.png?width=640&crop=smart&auto=webp&s=679242901c57ba79664e9cf82ece976d28e63792",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Vibe coded games are becoming insanely popular, and something I've noticed is that, contrary to what many people believe, there's actually a pretty large audience that genuinely enjoys discovering and playing AI-generated games. We run VibeToplist, a discovery platform for AI-assisted and vibe-coded games, and the growth we've been seeing is from another world. More developers are jumping in, new games are appearing daily, and players seem increasingly curious about what people are building with AI. Some projects are surprisingly polished, while others are clearly experiments that probably wouldn't have existed without AI making development so accessible. But it does make me wonder whether we're entering a bubble. If practically anyone can build and publish a game, will we eventually end up with thousands of low-effort projects competing for the same players? Or are we witnessing the beginning of an entirely new era of indie gaming, where the best ideas finally have a chance regardless of someone's technical background? Personally, I think both can be true. I'm curious how others see this developing over the next few years. https://vibetoplist.com/"
+    },
+    {
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Agents Across LLMS",
+      "author": "assentic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/",
+      "published": 1793894892.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Do/How you scan your AI Addons (Skills, Plugins, MCP, MODs, etc) in your day 2 day work? This kind of Plugin4Shell attack Im not sure if the top scanner (ciso, nvidia etc) would catch it"
+    },
+    {
+      "title": "Remember when OpenAI released the GPT-6 Astra advert and we experienced something new. I decided to build my own platform doing the same thing.",
+      "author": "Beneficial-Cow-7408",
+      "url": "https://www.reddit.com/r/artificial/comments/1xomidm/remember_when_openai_released_the_gpt6_astra/",
+      "published": 1793894790.0,
+      "thumbnail": "https://external-preview.redd.it/Njdqbzc3YzdpdHpoMeywbbA4MQr-nn33M4QqOmukZpcqEMkIQryPdnziktSW.png?width=640&crop=smart&auto=webp&s=4ae39e61e121047f7a01a782734ba6623dd07740",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "\u200b After watching the GPT-6 Astra launch advert I wanted to build a canvas that could be controlled by voice and update the runtime live. This was done on Liveloop, a generative live canvas that's capable of updating the runtime without reloading the canvas. To get this working I admit it didn't work first time. Trying to get that balance of instructing the agents to apply a live patch rather than rewriting the file meant going against every other feature on my platform so they needed a custom set of instructions which I had to write myself as everytime I asked AI to do it they got the concept wrong. How could I update the runtime without reloading the page regardless of how many tasks I send through? What I wanted to solve is the ability to send 10 tasks through or 100k tasks through and the system will work in the same way. Now 100k is unrealistic but theoretically there's no limit. Over a number of tests I've done. File size at stage 1 differs by file size at stage 500 by only 300kb at most if your adding no assets. The system auto compiles at every 10 tasks done (if checked) and each wave of 10 agents work from that checkpoint. So the logic was simple and not as complex as it sounds. Every addition or change you make is applied to the end of the file. This means if you used the queue function and had 10 files you will see the increments in code visually on each file. It also means that if I wanted to discard file 3 I can instantly remove that section or rewrite that section without having to redo all the others too. This reduces token consumption drastically on the longer queued tasks as your only ever updating that section. The rest of the file stays exactly as it is. You essentially don't need AI to do it for you as each patch is clearly defined. This is how I recreated the GPT-6 Astra rocket build video and now you can see why it works. To add a box around a yellow circle to a live display by writing the code to the end of the file. Your not touching what's on screen or already in place. Your not modifying the existing environment. The existing runtime doesn't need to reload to display your code. If you had a html page with live view and you changed the title side by side by just changing that text you will see that update live without reloading. Now if you copied the whole thing into a text file and then made the change in their and pasted the whole thing back. You will see it reload as it's reading the whole codebase again. By using this concept, you could live patch what ever number of tasks you wanted without it needing to reload. Their are limitations of course to browser memory. File size etc but I've tested 500 via 'Flow' and it didn't fail on that once The 'Flow' mode is where can queue up to 500 agents to work on the canvas that follow the same logic that also work offline as your requests are sent to the server meaning you can send a number of tasks. Turn the machine off and pick it up later on. With 'Flow' every addition is saved as a Livepatch that's a full self contained file. If you decide you didn't want to keep Agents 30-40 tasks you can discard them without having an affect on anything else due to the logic I explained earlier. Agents 41 work is not dependent on agents 40s work. There is one exception to this and that is if your specific task was to build upon the previous agents work. There is also a split screen mode. Work on 2 different projects same time or work on two different stages to compare output with linked camera mode too. There is also split task so you can effectively set up to 4 Teams of agents with up to 500 tasks each all with individual asset management, model choice from OpenAI, Claude, Grok and Gemini and different reasoning levels too for those who have a serious project to tackle. All 2000 agents will work on the cloud autonomously with no overlap of each other's work. Another issue I wanted to tackle is the restrictions many platforms have when using them. Your either locked down to using models they offer and many don't let you use alternatives. Knowing this I wanted to change how that works on my site. Here you can bring your own API keys. Connect to GIT hub to open or create new repos, use terminal via a built in bridge and even MCP access which let's you use your Codex, Claude plans etc For those that question the API integration and security of their keys on the platform I made that part public, with a verifiable hash chained check that anyone can look up for peace of mind. https://github.com/sidevworks/sary-os-byok-vault Are there any features from those that use multi-agent work flow? Its the first time I've tried it so I may of missed something but each agent you use can have its own instructions as well as a global prompt too. Each agent can be a different model which different reasoning levels as well as their own assets assigned to them. So you could have the first 10 agents using an OpenAI model with a front elevation CAD drawing that you want to design in 3D giving each one specific tasks like one doing exterior, one doing interior in a modern finish etc and then the next few agents doing the same thing but all with a different approach and aiming for a more retro design. You could decide that you prefer the exterior work from the first batch but wanted to keep everything else in the second batch so you can easily swap that file in and it won't affect the rest of it. That's the kind of case use I was aiming with the whole thing along with being able to visually see what's happening without recompiling the file each time."
     },
     {
       "title": "Could AI search hurt ad business?",
@@ -24,93 +101,16 @@
       "description": "People use AI more for everyday searches when comparing products or looking for quick answers. It's easier than opening a bunch of links. Google is a good example of how AI search could change the way online businesses make money. I checked Google's latest earnings with anvita mate and search revenue was still up 12% YoY, but paid ad click growth slowed from 13% to 8%. Think about how we shop online. Before, we'd search for a product, visit a few sites, compare prices and maybe click on an ad. Now we can just ask AI to do most of that. That's great for users, but what about the businesses behind those websites? Fewer clicks could mean less traffic and fewer chances to make sales. Google could show paid recommendations in answers, but would people trust them? If I ask AI to compare products, I want an honest answer, not something picked just because my company paid for it. If more people start using AI to find products and services, businesses may have to rethink how they get customers. Will they eventually pay AI platforms to recommend their products instead of competing for search rankings? And how can AI search make money without losing the trust?"
     },
     {
-      "title": "Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/",
-      "published": 1793865001.0,
-      "thumbnail": "https://preview.redd.it/o8l9f1ml1rzh1.jpeg?width=640&crop=smart&auto=webp&s=a72592038782c75b8865c0796a8c48e80df7ab1d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending"
-    },
-    {
-      "title": "Anthropic\u2019s FlashProve could prove an AI provider used the model you paid for without exposing its weights",
-      "author": "Spirited-Sir-3034",
-      "url": "https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/",
-      "published": 1793807937.0,
-      "thumbnail": "https://external-preview.redd.it/6rQaawW7Milkn-GryKuilD6bFqVwi03YevTwq8GDu44.jpeg?width=640&crop=smart&auto=webp&s=ec4c0bf87d2323822ebbaf2eaa89863f4934eb5a",
-      "external_url": "https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification",
-      "site_name": "Interesting Engineering",
-      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
-      "description": "Users currently have no independent way to confirm whether an AI provider served the requested model or quietly substituted a cheaper one. FlashProve addresses this by using zero-knowledge cryptography to prove that a particular model generated a response while keeping its proprietary weights hidden. Anthropic demonstrated the open-source system on a 400-billion-parameter model, generating proofs at roughly 110 tokens per second. However, the prototype requires 70 to 95 times more GPU time than ordinary inference, supports only 1,024-token contexts and does not yet cover every type of model output. Could cryptographic verification become standard for high-stakes AI services, even if it remains too expensive for everyday requests?"
-    },
-    {
-      "title": "ChatGPT's search volume is now roughly 20% of Google's. Wow, people were really sick of Google, huh?",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/",
-      "published": 1793770738.0,
-      "thumbnail": "https://external-preview.redd.it/FqB8kDGvc7daXQs9gED_D_uPhsSAkNd2r_WXPIaw-Co.jpeg?width=640&crop=smart&auto=webp&s=9a11de25f7dee4ad421d96c5e6ccb4024f7dacec",
-      "external_url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpts-search-volume-now-roughly-204510905.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAANy0RModkKsLyARqY6lqMPmtivd1CCMgna0IdrKqIsarmAbO19gMY1fHjZfcXchRmKZfCO8LJw5jmpZ6jA48LS83X0itLoUODWr8OAXnugut3tMTcCeuQuyu-PqSTui9NQz4WsR_ZQEf1yfCQiA-goPObb6Nid3HP_a72DiuIXf3",
-      "site_name": "Yahoo Tech",
-      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
-      "description": "OpenAI's Adam Fry told Big Technology that ChatGPT has around a fifth of Google's search query volume. Google can't be thrilled about that."
-    },
-    {
-      "title": "Cognition launches SWE-2 Flash: a coding agent model 3x faster at one-fifth the price",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xo27a9/cognition_launches_swe2_flash_a_coding_agent/",
-      "published": 1793831924.0,
+      "title": "Free online hackathon for apps built on a structured-output LLM API ($2k prizes, closes Nov 10)",
+      "author": "SolemnSpanking",
+      "url": "https://www.reddit.com/r/artificial/comments/1xoll2r/free_online_hackathon_for_apps_built_on_a/",
+      "published": 1793892598.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Cognition (the company behind Devin) announced SWE-2 Flash on November 4, 2026. It is pitched as a cheaper, faster sibling to SWE-2: about 3x the speed at one-fifth the price, aimed at routine agent work like automations, code review, feature development, and documentation updates, rather than uniform benchmark leadership. It is free to use through November 30, 2026, and available in Devin Desktop and CLI. Some details worth noting: - 276B total parameters, 12B active, adapted from Thinking Machines Lab's Inkling-Small, whose full weights were released on July 30, 2026. - Cognition reports big gains over Inkling-Small but mixed results against the larger SWE-2, framing Flash as a cost-and-speed alternative, not a replacement. - The weights are not public yet. Cognition is building a secure sharing program for trusted partners and labs, and says targeted cybersecurity training lifted ExploitBench from 11.3% to 34.8% -- capability it worries could help attackers as well as defenders. What I am curious about: for day-to-day coding work, does speed plus low price matter more than topping benchmarks? And is withholding the weights the right tradeoff here, or does it just slow down independent evaluation of the safety claims? (Source: Unite.AI coverage of the November 4 announcement; benchmark figures are Cognition's own.)"
-    },
-    {
-      "title": "Quero achar uma ia de gra\u00e7a que consegue modificar um arquivo de \u00e1udio, fazendo que os instrumentos da musica troquem outra m\u00fasica",
-      "author": "coelho_o",
-      "url": "https://www.reddit.com/r/artificial/comments/1xo8hkd/quero_achar_uma_ia_de_gra\u00e7a_que_consegue/",
-      "published": 1793849578.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Por favor"
-    },
-    {
-      "title": "Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/",
-      "published": 1793767092.0,
-      "thumbnail": "https://preview.redd.it/dzm9o9cgyizh1.jpeg?width=640&crop=smart&auto=webp&s=088b4ebf2f3039f515e7b7411babd251dca952f2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://fixupx.com/BenBrodyDC/status/2117821832317534519"
-    },
-    {
-      "title": "Apple put a warning about rogue AI agents in its 10-K. That\u2019s a legal filing, not a blog post.",
-      "author": "Dapper-Tale-4021",
-      "url": "https://www.reddit.com/r/artificial/comments/1xnudhs/apple_put_a_warning_about_rogue_ai_agents_in_its/",
-      "published": 1793813600.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Apple\u2019s annual report to the SEC now includes language about AI agents potentially acting without authorization, and specifically uses the words conceal and manipulate when describing unintended agent behaviour. Worth pausing on where that appears. A 10-K is a legal document. Risk factors in it are drafted by lawyers who are personally exposed if they\u2019re wrong or misleading. Companies put things there when they\u2019ve concluded the risk is material enough that not disclosing it is the bigger liability. Apple also changed how full disk access works on macOS, apparently to reduce what an agent can reach. I\u2019ve been in a lot of conversations this year where agent risk gets discussed as a future concern. This is a company with more legal caution than almost anyone writing it down as a present-tense business risk. The thing I find most interesting is the word conceal. Unauthorized action is one category of problem. An agent that hides what it did is a different one entirely, because it breaks the assumption underneath every monitoring and audit approach I\u2019ve seen deployed. Anyone read the actual filing language? Curious whether it\u2019s broader boilerplate or genuinely specific."
-    },
-    {
-      "title": "ai has been stuck in software. what would ai native hardware actually need to be?",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xnvouu/ai_has_been_stuck_in_software_what_would_ai/",
-      "published": 1793816548.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "aina a hardware interface launching tomorrow says every big shift in computing came from software and hardware built together which is true, the mouse and gui, then the touchscreen, and that ai has been stuck in software. nobody says what it is. i'm curious what you think about the claim. chat is how we talk to ai today, but is that really the right interface? if ai got its own hardware, what's the job it would do better than a phone or a laptop? and what would you not want it to do?"
+      "description": "Disclosure: I'm one of the organizers. Clocked is a little different from a chat API: it doesn't generate text, it returns decisions with probabilities and exact extracted spans. Curious what people build with it. What: build a new app that uses at least one Clocked API endpoint. Clocked is an LLM API that returns structured results instead of generated text: decisions with probabilities, exact extractions with source positions, PII masking, prompt-injection detection, grounding checks, doc comparison and reranking. Prizes: $2,000 cash in 5 awards. Best Overall gets $600, three category awards get $400 each, and People's Choice gets $200. Cost: free. A new account gets 4k credits, and the code CLOCKEDHACKATHON adds 16k more. Rules: solo or teams, any language or framework, and the app has to be started during the challenge (AI coding tools are fine). You need a demo and a public repo. 18+, some location restrictions. Deadline: Nov 10, 11:59 PM ET. Winners Nov 18. Rules and entry form: https://clocked.rezolve.ai/challenge"
     }
   ],
-  "fetched_at": "2026-11-05T09:01:50.735899+00:00"
+  "fetched_at": "2026-11-05T17:32:31.568669+00:00"
 }

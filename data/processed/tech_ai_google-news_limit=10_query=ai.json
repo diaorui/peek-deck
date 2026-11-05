@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpwLUc1MHh4TnNOVk9HY3BLVUlLS2ZwTjRIUEtqb0VKa2JYZG13VTc2TzdZZ2dlOUUtTmlZYTdmeGJIUVVpcWFBeS1PWGQ5X3FFS3lBMzJ0WjJsRjMzWmpaRl9KRUZzSWRpTHVaQ3lUeU5wNnM0S3dZLTVaMWo3RWNnMmZqcTBCY3NOajRvSk13UmM4R2VBUjNtT2w0NU96aU9FelhEZ1BJcHNWTExwYVRNczg?oc=5",
-      "pub_date": 1793821500.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
-      "image": null,
-      "description": null
+      "headline": "How the midterms could fuel the K-shaped AI trade",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85ZjJvMHpqdi03OUdNNnlyV2Y1Zk5pM1ZacjY2ZmJKSmNlTDBhSGw5TzRfZmdpTnFvWndCcFNGOTNxYmpJTHFoaVRHYk5iQkQzTWYyT2lQcmVETE5zdXZNZ21BNWMtY09NbVpEdzlxRnNGYjdxTUJmY29n0gF_QVVfeXFMT3NSbkhmRHFQTGdOZTBuMk13VkVVT2ZiT0lZMjhUcVJ5TGVCbk83cHBNS0hwcUZqajNULUF5RjJTUHlMVWRCYWVKc2FYbDdtNUJzY0FWYURKVExhaEhoOGNCa1B6VWE1QThMdlpDTzZBaEFLQTNSWWIxMGVBNS1RVQ?oc=5",
+      "pub_date": 1793874878.0,
+      "article_url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108519919-1793817749322-gettyimages-2303490577-gina_hinojosa_election_night_mlc_1598.jpeg?v=1793817767&w=1920&h=1080",
+      "description": "U.S. midterm results could slow data center development, raising the value of existing AI capacity while increasing pressure on debt-funded neoclouds."
     },
     {
-      "headline": "Apple cuts employee AI budgets in cost-control push, Bloomberg News reports",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTJ5aVk4RUE4ZGFvVHBYTU9fc1FMamxLMXZ6QmZpZ1EtSnpLNXVlMjFNU2lyOWVSZGNMc1NPQmRkRlRzY3g0M2tjME1UOTAycFV6NXhBMF9rNFJaNEEydXBlYmd4U0tmeWhyaHR0UDIwRVplTVI5Z3g4bnRGMVdoUFVYMkJGcHZmZm5FcnR2b1VkdmxTYVVmUi1pdUF4QTJOQkhIVkVUOHpxYnltcmlhd1VSaElENFNuUUg1NnBGbGd1OWY0cnJmbFdTYlk?oc=5",
-      "pub_date": 1793824183.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/apple-cuts-employee-ai-budgets-cost-control-push-bloomberg-news-reports-2026-11-04/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWZMVFFyZzFEcy1uSUJibVFYcnVNTmRsTzR4RnZNLWV2OVRuRGpVcVJJTS1EUHJOYy1VNGs0Qk5DYmQyUkdNUmU3NGg2Mko3UTNKdnZOUkFtcnFOUE5RQkJtM1pTdkh5em8yelFtbE5nT045NXN5eFF2TUMxeWM0RFhiUERWSVE0TS01V0JiWFM2X0RxQnB1em1ROXN4YmxNcm9sNzVrZHhRRUprbElVTE5B?oc=5",
-      "pub_date": 1793811095.0,
-      "article_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
-      "description": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
-    },
-    {
-      "headline": "Google Will Turn Off Search for Schools That Reject A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
-      "pub_date": 1793714407.0,
-      "article_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI-generated audio misrepresented as Indian general's criticism over border spat with China",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTJucFdqV28zOWU1SDdrMF9uRFJjWDdOTGFpa2ZmckVkYmF2bzc0N2VIY3hMQUszbi1BdVl6MEdabkZUbXh2end1N2sxUWI5NEsxUFF4aFlVV0wxaVFwLThJbU9sTjExbXkwLVBlR01MUk9FRzYxbUYydm04NzktSTkwb2toUkRINV9oaWg5RnduRXA0RzdvZXBSa0VOYTA4Qmc?oc=5",
-      "pub_date": 1793867788.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/ai-generated-audio-misrepresented-indian-083628008.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/abf8a40e0f0afc3213a4e6867b3397a7ec461e91b183f1871f917006c1ae9698/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2Fb624f339688fe12e57909c7aca4d6620.jpg",
-      "description": "After an Indian official accused China of \"challenging\" India's claims along parts of the neighbour's disputed border in October 2026, a video dubbed with an AI-generated soundtrack circulated online ..."
-    },
-    {
-      "headline": "Search Guard Secures the Retrieval Layer of AI Applications on Elasticsearch",
-      "source": "Detroit Free Press",
-      "source_url": "https://www.freep.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ3RhMDN4cDFfVU1kZlQtbTNraHF1cGdrMjVQUWtJV0ppWkhtdHJLTW0xRzJEMUFwOFZyNHRwLVRFM3hFalR4ZVU1M2RvZFZDb3ZiV3R1QXk1YkQ5SjR3cVI3TTVnSUpHWWZfMXZGa3B1OWFUU2VnYmp3VDQ2OUt6WG40UUZ1NmdZbkMxT0VIWmlpR0ROTmVqM1EyemhsOXBSNm5TemFfZUROTFppeWpFVTNiVjI1b3hJV01xcUp6SFY4dlJo?oc=5",
-      "pub_date": 1793865785.0,
-      "article_url": "https://www.freep.com/press-release/story/267407/search-guard-secures-the-retrieval-layer-of-ai-applications-on-elasticsearch/",
-      "image": "https://pix.xpr.media/p/eyJzIjoiNGMwNTZkM2UtNjI2Mi00ZjJhLWI4MWMtOTcyOTQ5MmFlNjYwIiwiYyI6ImEwNmQzYjMyLTA2ZDUtNDgxYS05ZTNiLWVkMmZmZjI0MTExZCIsInYiOjF9.2smeJzLcOTFdUJUYQBfEfiilxASxEIa14nnw6P-XJVQ.gif",
-      "description": "Document- and field-level security decide what an AI retrieval pipeline may return, per user and attribute. Access is"
-    },
-    {
-      "headline": "Itch.io Updates AI Content Policies & Adds \"No AI\" Filter",
-      "source": "80 Level",
-      "source_url": "https://80.lv",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFduenY2bnV1WndIVHdJNmdxd0NjNHdQSU5famRTekFFTUltbnNQclVjd3FCRTRscm13MUJhbHhLaVl6bVAtbFNHTDNQb1cydHdsY2ZfRFNWb1pNVThaNHBQOV9yalNmQlMwZ1FEVS15TklLQTF6eEdrdkFrY3o3dVlnc2d3T05JUWQxZVZESXZEUGhjWmJR?oc=5",
-      "pub_date": 1793867573.0,
-      "article_url": "https://80.lv/articles/itch-io-revises-ai-content-policies-after-removing-ai-generated-games",
-      "image": "https://cdn.80.lv/api/upload/meta/50897/images/6aec3e8f92a0b/contain_1200x630.jpg",
-      "description": "\"Just deleted a couple terabytes of AI slop.\""
-    },
-    {
-      "headline": "AI data-center stocks slide, renewables rally after Democratic US midterm sweep",
+      "headline": "Nasdaq 100 eyes $1.8 trillion loss as Democratic win sparks AI delay fears",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnhXWmVQQnp5YkttSS1vdl85VWh3akcwXzBsX1paMjZtVkxyN0pWR1ZTTnRFdkZVMWtrbi16ZHJNa1ktaE9LN2VEZnNySndUenBUQm9VRy0zSDE5c3Rob1dLdW9LODFWOHFuSVhXUjk5aWlTcE9icGdFdFhGRlJ2cGxYSVBRMWhSemc?oc=5",
-      "pub_date": 1793812237.0,
-      "article_url": "https://finance.yahoo.com/energy/articles/ai-data-center-stocks-dip-113427491.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2d414b2caf61db0c5739fd755d96918ea24609f2047a70d2ad098cdbdee4ccb0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd966bab02eba56f505cf458a78bb15bf.jpg",
-      "description": "By Purvi Agarwal and Johann M Cherian Nov 4 (Reuters) - Data-center stocks slid on Wednesday, while clean-energy shares rallied after Democrats seized control of Congress, prompting investors to"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTRQMGM0NU13VXI2ZTlIS2pYOE16cUo4dTc4eW5ONldtNzB1T1d3MHpjTlFKM1hzMl9pT0p3U1dEaEhvSGZTbW1zSGJRWjBkLTcwUFhGVG1fVnl4SEViUHpQQUxZOXBpWWNnSEsyRWRGWEpjem5LcVBTNFMyUlBCa1NIYXJ5d1JRbkFRcVlNa0NqcS1V?oc=5",
+      "pub_date": 1793894743.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-stocks-slip-112314079.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d90d22c412ee86078af94f5178eba383e8e3e31b9724f0f0017c5c9e50682934/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa2bb1bc3ead76b30f157ba0a5f8a888b.jpg",
+      "description": "Nov 5 (Reuters) - The Nasdaq 100 index was set to lose a whopping $1.8 trillion in stock value on Thursday as investors feared that the sweeping midterm victory of Democrats could stall the pace of \u200cAI infrastructure expansion."
     },
     {
-      "headline": "An AI-native experimental laboratory for autonomous biomolecular operations",
-      "source": "Nature",
-      "source_url": "https://www.nature.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKcXpJTXhuSTJxQWZaZUFkaXo5ODhmTFdGQVdMcURfNlJHVy1QWHlsTHp2SEU4Z0wtbzJTeWY5bHZZRWU1dmVYNHctYWhCaXE2aGxILTVPdlNOdkNNMTlJ?oc=5",
-      "pub_date": 1793831294.0,
-      "article_url": "https://www.nature.com/articles/s41586-026-11228-6",
+      "headline": "Tech stocks plunge on worries about AI and Democrats\u2019 midterm landslide",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
+      "pub_date": 1793897995.0,
+      "article_url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-Nasdaq-ch-1005-abf86d.jpg",
+      "description": "\u201cToday is the cold shower that I anticipated might\u00a0occur after a blue-wave situation,\u201d said one analyst."
+    },
+    {
+      "headline": "Jim Cramer says the AI trade is not going away as Nasdaq enters correction",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVdLdnVTZ1ZfeFB6QlhCYUZiN2hzbjA1LUNLSVdLWVRHQXlVV25iMlBzN0p1YlhmdlVCMVR2VHVNWWZQOE5iaG80V3FOX21qZTQ1R1lKMGVBUGYzRlh0YkpxRU1kNjdHeUk3V09KaU13Z2hXN2pDYTlZSnJaODBUSFVmNmNXaFZRbTUxTW1xeXhPM1NJWU44LVdhTGREeDVON0pnWmJBMHo4dDBSYWhoTGRjUy1pNTBJVmJyWTZ3?oc=5",
+      "pub_date": 1793898261.0,
+      "article_url": "https://www.cnbc.com/investingclub/2026/11/05/cramer-says-the-ai-trade-is-not-going-away-as-nasdaq-enters-correction.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107200472-1677528554272-NUP_200782_00307.jpg?v=1785428018&w=1920&h=1080",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET."
+    },
+    {
+      "headline": "LeBron James sends cease and desist letter to AI-powered sports betting app over likeness",
+      "source": "Yahoo Sports",
+      "source_url": "https://sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzBmcjdUMi11OHFlWHNsdHRRbnU3Q0k4aGtuMGdGU1d4VDlWMl96eGdobmlXUDVnMkh3MTE0RDBoU21PNTNNdzRoNmsxTzlOSVBOWHlpdlhmNlFDZ0dkMVA5b0VkbzluZ1M2MnRPXzREQk1vTDJiU3g5UXJUV2tDYzdfdFN1T2c?oc=5",
+      "pub_date": 1793898490.0,
+      "article_url": "https://sports.yahoo.com/articles/lebron-james-sends-cease-desist-170810165.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/14533697c0f64a5910cef12ef5a8c84df001535e22d05cf89b4b761400a8dfc2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F9560f2767a622ce696ae6730c637a750.jpg",
+      "description": "LeBron James takes legal action over unauthorized AI betting app endorsement."
+    },
+    {
+      "headline": "I went to an elite investor forum in London. Everyone was talking about the outlook for AI, jobs, and Elon Musk.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDJzVllmdFZDemFzVTRjNHhxMGdaWG5oaG55VkY4Z0lEVE5GQ1k1SE5qZ1h6SXBiV0thUGhEcGo5N0RGYUE3dkZOZDJEcEpzdzQtdy15dUZaX3IxelVJT1JrUUVBUkJDN1J6ZHJ1TThFa0VJWndRdnp4eGpiWWtqdGlUcFNiTmFuaEE4X1c1Yk83bnExcVNseUZxUXBmOXp4MFE?oc=5",
+      "pub_date": 1793898060.0,
+      "article_url": "https://www.businessinsider.com/salt-london-speakers-ai-bubble-elon-musk-future-jobs-outlook-2026-11",
+      "image": "https://i.insider.com/6aec7f80c54bfafa65abf3a3?width=1200&format=jpeg",
+      "description": "At the $3,000 per night Chancery Rosewood hotel in Mayfair a who's who of finance folk tackled topics ranging from crypto regulation to AI safety."
+    },
+    {
+      "headline": "Grimes to Make Feature Film Debut in Fully AI-Generated Movie, Lending Her Likeness and Real Voice (Exclusive)",
+      "source": "People.com",
+      "source_url": "https://people.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY3hlOHYtZlVJWEpnVnB4ZzFBNWxjQkhIUVpDQnJjSHI0ZmhsWk5RTlFLeDZrUFlqcHJlaTlMeDlPM3h0bmFNcV9UOGVGaG1KbTdJSDFwd1k3Tk9lWUJIX2x6Q3E0N2tSa25vc0N4NkJzWi0wY0FpUUFabm5zVElvY3pWTG10Nkd4d2MwWEQ1cmc?oc=5",
+      "pub_date": 1793898120.0,
+      "article_url": "https://people.com/grimes-starring-in-ai-generated-movie-gods-don-t-give-gifts-12228154",
+      "image": "https://people.com/thmb/s4RxJEo6XZLa_-8fyotPb55-gcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(745x261:747x263)/Grimes-Zayinth-Alda-Fable-Gods-Dont-Give-Gifts-2-9f9befc954774a679302e7267b14d090.jpg",
+      "description": "Grimes is set to make her film debut in AI-generated movie \u2018Gods Don\u2019t Give Gifts,\u2019 lending her likeness to the film as an aristocrat character called Zayinth Alda; the sci-fi anthology will become the first fully AI-generated film released in theaters on Dec. 4."
+    },
+    {
+      "headline": "Americans wary of AI in healthcare for diagnoses and insurance claims, survey finds",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CVWV0aXFiQnJWbVAtY3hwVnRrSXdocTdBaVZqdHVpcUVVYWVMaXVCa0c3QWRaM3B4VzJoWVRqY09DU2lZUzJYSjJXRzcwU01uSmE5bE9TeHkxd1JvVzhrRlZ6ejYyMnV4RHU5MFBVXzU4QQ?oc=5",
+      "pub_date": 1793894850.0,
+      "article_url": "https://www.cbsnews.com/news/americans-ai-healthcare-survey-pew/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/30/05433a33-e7f0-4f57-9d0d-31db9ec38185/thumbnail/1200x630/b0f1da8d27f173ab965d69fc963ddf43/gettyimages-2286811824.jpg",
+      "description": "Most Americans have qualms about using AI in healthcare for tasks such as diagnosis and treatment, Pew Research poll finds."
+    },
+    {
+      "headline": "How WeRateDogs Is Fighting A.I. Slop, One Perfect Puppy at a Time",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GdWlCN1Z3Rnd6cWZQY1VTVHFPdWVkMkk0SFBsWjRTUjlpYzVTNjVNYm9nck1IcDVKYzZOVkgtM2l4V3FJQ2xiaXFFN1RnYzBqRE5McmhHeWVmcW9MOVVFUEJuMHl0dXNKOGlkT2pR?oc=5",
+      "pub_date": 1793786409.0,
+      "article_url": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "With an eye on America, China is beefing up its AI-controlled labs",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUEV2UUpJVm03LWt3d3U5TThrTVVZLXN2MXhOSnFpQVViV0ZjZHdoNktuakYtR1Z5WkpaWlF1SDdQSEh6NjR6Sm9mMGRJcktWUHZEdmNUanc4UEI0NnQ3QjNPSktpakRaU0JlVnA5enRxZlJFR2RXSjg5SURIb3FpOVNVOFRsLUN6VndDbHJwMFVYSE53YmpFVjEySnVGZVVYczkzZWNNN24wenFh?oc=5",
-      "pub_date": 1793817495.0,
-      "article_url": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
+      "headline": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
+      "pub_date": 1793879400.0,
+      "article_url": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-05T09:02:15.931820+00:00"
+  "fetched_at": "2026-11-05T17:33:16.986422+00:00"
 }
