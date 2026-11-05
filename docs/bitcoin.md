@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-05T01:40:40.225023+00:00'
+updated: '2026-11-05T09:02:30.247891+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 05, 2026 at 01:40 UTC  
+**Last Updated:** November 05, 2026 at 09:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,618.65
+### $80,432.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.9%  
-**7d:** +4.2%  
-**30d:** -3.2%  
-**90d:** +24.1%  
-**1y:** -20.5%  
+**24h:** +2.4%  
+**7d:** +4.0%  
+**30d:** -3.4%  
+**90d:** +23.8%  
+**1y:** -20.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1617.62B
+**Market Cap:** $1617.48B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
@@ -64,14 +64,14 @@ Rank #1
 -36.2%
 
 **All-Time Low:** $67.81
-+118538.8%
++118544.7%
 
 ---
 
 ## Fear & Greed Index
 
-### 34
-**FEAR**
+### 50
+**NEUTRAL**
 
 ---
 
@@ -141,7 +141,7 @@ If the future of finance requires people to become their own bank, secure their 
 
 **[And binance](https://www.reddit.com/r/Bitcoin/comments/1xky3ps/and_binance/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -149,75 +149,75 @@ If the future of finance requires people to become their own bank, secure their 
 
 ## Google News: "bitcoin"
 
+**[Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show](https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show)**
+
+CoinDesk • 4h ago
+
+---
+
 **[Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda](https://www.bloomberg.com/news/articles/2026-11-04/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets](https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets)**
+**[Neocloud Sell-Off Leaves Bitcoin Miners Oversold](https://www.vaneck.com/us/en/blogs/digital-assets/neocloud-sell-off-leaves-bitcoin-miners-oversold/)**
 
-CoinDesk • 20h ago
+Powered shell providers fell ~35% in October on funding fears, yet no signed leases were cancelled. Why we see the AI data center sell-off as a dislocation.
 
----
-
-**[Bitcoin jumps above $79k as Democrats sweep midterm elections](https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542)**
-
-Investing.com • 18h ago
+VanEck • 11h ago
 
 ---
 
-**[Two Prime CEO Calls Bitcoin Yields From Babylon and Stacks ‘VC-Funded Subsidies’](https://finance.yahoo.com/markets/crypto/articles/two-prime-ceo-calls-bitcoin-001500188.html)**
+**[Gold and bitcoin just gave Scott Bessent’s Treasury a post-midterm wake-up call](https://finance.yahoo.com/markets/article/gold-and-bitcoin-were-2026s-worst-assets--the-midterms-just-gave-them-a-pulse-174344496.html)**
 
-Alexander Blume said the rewards that Babylon and Stacks offered bitcoin holders pay out less as deposits grow, and pointed to a vault Two Prime runs on Pareto that lends to borrowers offchain.
+Gold and bitcoin, 2026's two worst major assets, rallied the day after the midterms as the dollar slipped.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Riot Platforms Inc (RIOT) (Q3 2026) Earnings Call Highlights: $38 Billion in AI Data Center ...](https://sg.finance.yahoo.com/news/riot-platforms-inc-riot-q3-010611759.html)**
-
-Riot Platforms Inc (RIOT) signed a landmark 910 MW Corsicana lease with a Frontier AI lab, lifting contracted data center revenue to roughly $38 billion while Bitcoin mining revenue stayed flat.
-
-Yahoo Finance Singapore • 34m ago
+Yahoo Finance • 15h ago
 
 ---
 
 **[Mapping the Market: Bitcoin could extend losses](https://www.reuters.com/technology/global-markets-technicals-graphic-2026-11-04/)**
 
-Reuters • 14h ago
+Reuters • 21h ago
 
 ---
 
-**[Tristan Thompson Boards Jason Zada’s Bitcoin Creator Movie ‘Satoshi’ as Producer (EXCLUSIVE)](https://variety.com/2026/film/global/tristan-thompson-bitcoin-creator-movie-satoshi-producer-1236938246/)**
+**[American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million](https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit)**
 
-Tristan Thompson has boarded 'Satoshi,' a new film about bitcoin’s pseudonymous creator, to be directed by Jason Zada and shot in Saudi Arabia.
-
-Variety • 1d ago
-
----
-
-**[Jack Dorsey’s Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves](https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million)**
-
-Block agreed in principle to a $764 million deferred-prosecution deal over anti-money-laundering failures at Cash App, a sum that exceeds its $566 million Q3 profit, while bitcoin gross profit fell 50% after the company cut trading fees.
+American Bitcoin reported about $126 million in Q3 net income after a $197.3 million gain on bitcoin holdings, reversing a $57.2 million prior-quarter loss.
 
 Bitcoin Magazine • 7h ago
 
 ---
 
-**[VanEck’s Matthew Sigel: We're bullish on Bitcoin](https://www.cnbc.com/video/2026/11/04/vaneckas-matthew-sigel-were-bullish-on-bitcoin.html)**
+**[Bitcoin's Great Consensus Cleanup soft fork targets legacy vulnerabilities](https://www.tradingview.com/news/cryptobriefing:f4e55f60d094b:0-bitcoin-s-great-consensus-cleanup-soft-fork-targets-legacy-vulnerabilities/)**
 
-Matthew Sigel, VanEck head of digital assets, joins 'Power Lunch' to discuss crypto currencies rallying after the midterms and what a blue wave could mean for the future of crypto investing and regulation.
+Bitcoin's next big protocol upgrade may not be a flashy one. The leading candidate is a cleanup job: a proposal to fix four flaws in the network's consensus rules that have been sitting there since the protocol launched in 2009.The proposal is formally known as BIP-54, or the Great Consensus Cleanu…
 
-CNBC • 5h ago
+TradingView • 10h ago
 
 ---
 
-**[Eric Trump warns Bitcoin's low transfer fees threaten financial institutions](https://www.tradingview.com/news/cryptobriefing:c4b29dd9e094b:0-eric-trump-warns-bitcoin-s-low-transfer-fees-threaten-financial-institutions/)**
+**[ETF Prime: Franklin Templeton Reimagines DRIPs With Bitcoin](https://etfdb.com/thematic-investing-content-hub/franklin-templeton-reimagines-drips-with-bitcoin/)**
 
-Eric Trump has a message for big financial institutions: Bitcoin can move enormous sums for close to nothing, and that should worry them.He has been delivering that message across a run of interviews in late 2025 and early 2026. The central claim stays the same each time. Low-fee Bitcoin transfers…
+ETF Database • 13h ago
 
-TradingView • 9h ago
+---
+
+**[Could Buying Bitcoin Today Set You Up For Life?](https://www.fool.com/investing/2026/11/04/could-buying-bitcoin-today-set-you-up-for-life/)**
+
+Bitcoin may have a difficult time delivering an encore performance over the next decade.
+
+The Motley Fool • 11h ago
+
+---
+
+**[Current price of Bitcoin for November 4, 2026](https://fortune.com/article/price-of-bitcoin-11-04-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 20h ago
 
 ---
 
@@ -237,7 +237,7 @@ Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen
 
 Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs development by creating an account on GitHub.
 
-⬆️ 10 • 💬 0 • 1d ago • [GitHub](https://github.com/gosuda/bitcoin-rs)
+⬆️ 10 • 💬 0 • 2d ago • [GitHub](https://github.com/gosuda/bitcoin-rs)
 
 ---
 
@@ -263,14 +263,6 @@ CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux s
 
 ---
 
-**[AI Can Breach Crypto Apps, Not Bitcoin – That's Where the Real Risk Lives](https://news.ycombinator.com/item?id=50303963)**
-
-Michael Saylor argues AI risks target crypto apps, not Bitcoin's ledger, comparing it to AI threatening English via apps, not language itself.
-
-⬆️ 3 • 💬 0 • 5d ago • [AInvest](https://www.ainvest.com/news/ai-breach-crypto-apps-bitcoin-real-risk-lives-2610/)
-
----
-
 **[Mercado Bitcoin wallets keep moving funds after $46M hack](https://news.ycombinator.com/item?id=50342589)**
 
 Wallets linked to Mercado Bitcoin’s security breach remained active after transactions were paused. The exchange said customers suffered no losses.
@@ -283,7 +275,7 @@ Wallets linked to Mercado Bitcoin’s security breach remained active after tran
 
 Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, autonomously, within safety limits. - ZKStamp/AgentWallet
 
-⬆️ 2 • 💬 0 • 5d ago • [GitHub](https://github.com/ZKStamp/AgentWallet)
+⬆️ 2 • 💬 0 • 6d ago • [GitHub](https://github.com/ZKStamp/AgentWallet)
 
 ---
 
@@ -307,13 +299,23 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 ## YouTube Videos: "bitcoin"
 
-**[What the Midterms Mean for Bitcoin Policy](https://www.youtube.com/watch?v=io8ACfpKBtU)**
+**[Midterm Massacre LAUNCHES Bitcoin Above $80,000!](https://www.youtube.com/watch?v=Hcr79FgPoDM)**
 
-Democrats just took control of both chambers of Congress, so what happens to Bitcoin legislation now? Zack Cohen of the Bitcoin ...
+Bitcoin is back above $80000 after the midterm elections, and Rustin explains why he thinks the results could be bullish.
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 1K • 💬 96 • ⏱️ 14:29 • 9h ago
+
+---
+
+**[Franklin Templeton’s Head of Crypto: “The Markets Are Very Happy” After the Midterms](https://www.youtube.com/watch?v=iBQ3wM8JWv8)**
+
+Markets loved the midterm results, and Franklin Templeton's Christopher Perkins says that's history repeating itself. The head of ...
 
 📺 Bitcoin Magazine
 
-👁️ 2K • 👍 49 • 💬 4 • ⏱️ 16:27 • 4h ago
+👁️ 15K • 👍 133 • 💬 10 • ⏱️ 17:11 • 13h ago
 
 ---
 
@@ -323,17 +325,7 @@ The next big move on bitcoin explained. We discuss with trader Charlie Burton th
 
 📺 Alessio Rastani
 
-👁️ 33K • 👍 1K • 💬 163 • ⏱️ 8:16 • 10h ago
-
----
-
-**[Bitcoin Loans Are Coming For Your Mortgage](https://www.youtube.com/watch?v=gof1NS_jGUo)**
-
-Michael Tannenbaum is the CEO of Figure. In this conversation, we break down housing affordability after the midterm blue wave, ...
-
-📺 Anthony Pompliano
-
-👁️ 5K • 👍 101 • 💬 3 • ⏱️ 39:35 • 3h ago
+👁️ 43K • 👍 1K • 💬 178 • ⏱️ 8:16 • 17h ago
 
 ---
 
@@ -343,17 +335,55 @@ Midterms end in a blue tsunami but bitcoin shrugs it off and close to half a bil
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 275 • 💬 40 • ⏱️ 1:33:48 • 5h ago
+👁️ 12K • 👍 299 • 💬 53 • ⏱️ 1:33:48 • 12h ago
 
 ---
 
-**[Crypto&#39;s easy years in Washington just ended](https://www.youtube.com/watch?v=veSkxbfwHH4)**
+**[Bitcoin Holders: What A Democratic Sweep Means For Your Holdings (My Plan)](https://www.youtube.com/watch?v=MEuriFlgmQE)**
 
-Democrats took both chambers, and Elizabeth Warren is now in line to chair Senate Banking with Maxine Waters at House ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trade on BTCC & 10% ...
 
-📺 Yahoo Finance
+📺 Aaron Bennett
 
-👁️ 10K • 👍 328 • 💬 116 • ⏱️ 14:51 • 7h ago
+👁️ 14K • 👍 410 • 💬 54 • ⏱️ 12:26 • 1d ago
+
+---
+
+**[THIS IS NEXT FOR BITCOIN...](https://www.youtube.com/watch?v=diCMMynLp9I)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+
+📺 Crypto Rover
+
+👁️ 6K • 👍 467 • 💬 9 • ⏱️ 11:01 • 4h ago
+
+---
+
+**[EVERYTHING JUST CHANGED FOR BITCOIN &amp; ALTCOINS! #xrp #crypto #bitcoin #finance #midterms](https://www.youtube.com/watch?v=1f9HfMe1Ly8)**
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 259 • 💬 7 • ⏱️ 2:11 • 7h ago
+
+---
+
+**[CRYPTO Is About To Get CRAZY (But Don’t Be Fooled By This Pump!)](https://www.youtube.com/watch?v=fsIdEphDQ4E)**
+
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ Don't be fooled by this Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 15K • 👍 583 • 💬 59 • ⏱️ 15:18 • 15h ago
+
+---
+
+**[What the Midterms Mean for Bitcoin Policy](https://www.youtube.com/watch?v=io8ACfpKBtU)**
+
+Democrats just took control of both chambers of Congress, so what happens to Bitcoin legislation now? Zack Cohen of the Bitcoin ...
+
+📺 Bitcoin Magazine
+
+👁️ 5K • 👍 88 • 💬 7 • ⏱️ 16:27 • 12h ago
 
 ---
 
@@ -363,47 +393,7 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 214 • 💬 72 • ⏱️ 15:36 • 7h ago
-
----
-
-**[Bitcoin Reverses As Washington Flips](https://www.youtube.com/watch?v=QcXOWV2RUxs)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 28K • 👍 811 • 💬 111 • ⏱️ 49:34 • 9h ago
-
----
-
-**[Bitcoin Shook Everyone Out at $76K: New Altcoin Trades I&#39;m Taking](https://www.youtube.com/watch?v=eFcJuyJvJPw)**
-
-Bitcoin tagged 76K last night as Democrats took the House and Senate, right at the 50-week SMA near 75600, and bounced.
-
-📺 VirtualBacon
-
-👁️ 18K • 👍 412 • 💬 117 • ⏱️ 1:30:46 • 8h ago
-
----
-
-**[Bitcoin: The Beauty of Mathematics (Part 74)](https://www.youtube.com/watch?v=FoneKiojzzg)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Read my recent Bitcoin risk memo: ...
-
-📺 Benjamin Cowen
-
-👁️ 112K • 👍 3K • 💬 63 • ⏱️ 7:24 • 2d ago
-
----
-
-**[Finally a Bullish Week For Bitcoin?](https://www.youtube.com/watch?v=0kslfuTAhJc)**
-
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
-
-📺 CryptosRUs
-
-👁️ 20K • 👍 533 • 💬 118 • ⏱️ 15:11 • 2d ago
+👁️ 6K • 👍 265 • 💬 125 • ⏱️ 15:36 • 14h ago
 
 ---
 

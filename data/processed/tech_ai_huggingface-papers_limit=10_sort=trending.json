@@ -1,6 +1,25 @@
 {
   "papers": [
     {
+      "id": "2508.02739",
+      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The success of large-scale pre-training paradigm, exemplified by Large\nLanguage Models (LLMs), has inspired the development of Time Series Foundation\nModels (TSFMs). However, their application to financial candlestick (K-line)\ndata remains limited, often underperforming non-pre-trained architectures.\nMoreover, existing TSFMs often overlook crucial downstream tasks such as\nvolatility prediction and synthetic data generation. To address these\nlimitations, we propose Kronos, a unified, scalable pre-training framework\ntailored to financial K-line modeling. Kronos introduces a specialized\ntokenizer that discretizes continuous market information into token sequences,\npreserving both price dynamics and trade activity patterns. We pre-train Kronos\nusing an autoregressive objective on a massive, multi-market corpus of over 12\nbillion K-line records from 45 global exchanges, enabling it to learn nuanced\ntemporal and cross-asset representations. Kronos excels in a zero-shot setting\nacross a diverse set of financial tasks. On benchmark datasets, Kronos boosts\nprice series forecasting RankIC by 93% over the leading TSFM and 87% over the\nbest non-pre-trained baseline. It also achieves a 9% lower MAE in volatility\nforecasting and a 22% improvement in generative fidelity for synthetic K-line\nsequences. These results establish Kronos as a robust, versatile foundation\nmodel for end-to-end financial time series analysis. Our pre-trained model is\npublicly available at https://github.com/shiyu-coder/Kronos.",
+      "ai_summary": "Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.",
+      "hf_url": "https://huggingface.co/papers/2508.02739",
+      "arxiv_url": "https://arxiv.org/abs/2508.02739",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
+      "upvotes": 63,
+      "num_comments": 5,
+      "published_at": "2025-08-02T09:15:59.000Z",
+      "github_repo": "https://github.com/shiyu-coder/Kronos",
+      "github_stars": 46814,
+      "project_page": null
+    },
+    {
       "id": "2610.22732",
       "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
       "authors": "Aaron J. Li, Weijia Xu, Chandan Singh et al. (11 authors)",
@@ -16,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 4746,
+      "github_stars": 4780,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
@@ -35,46 +54,8 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 120577,
+      "github_stars": 120676,
       "project_page": null
-    },
-    {
-      "id": "2508.02739",
-      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The success of large-scale pre-training paradigm, exemplified by Large\nLanguage Models (LLMs), has inspired the development of Time Series Foundation\nModels (TSFMs). However, their application to financial candlestick (K-line)\ndata remains limited, often underperforming non-pre-trained architectures.\nMoreover, existing TSFMs often overlook crucial downstream tasks such as\nvolatility prediction and synthetic data generation. To address these\nlimitations, we propose Kronos, a unified, scalable pre-training framework\ntailored to financial K-line modeling. Kronos introduces a specialized\ntokenizer that discretizes continuous market information into token sequences,\npreserving both price dynamics and trade activity patterns. We pre-train Kronos\nusing an autoregressive objective on a massive, multi-market corpus of over 12\nbillion K-line records from 45 global exchanges, enabling it to learn nuanced\ntemporal and cross-asset representations. Kronos excels in a zero-shot setting\nacross a diverse set of financial tasks. On benchmark datasets, Kronos boosts\nprice series forecasting RankIC by 93% over the leading TSFM and 87% over the\nbest non-pre-trained baseline. It also achieves a 9% lower MAE in volatility\nforecasting and a 22% improvement in generative fidelity for synthetic K-line\nsequences. These results establish Kronos as a robust, versatile foundation\nmodel for end-to-end financial time series analysis. Our pre-trained model is\npublicly available at https://github.com/shiyu-coder/Kronos.",
-      "ai_summary": "Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.",
-      "hf_url": "https://huggingface.co/papers/2508.02739",
-      "arxiv_url": "https://arxiv.org/abs/2508.02739",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
-      "upvotes": 63,
-      "num_comments": 4,
-      "published_at": "2025-08-02T09:15:59.000Z",
-      "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 46814,
-      "project_page": null
-    },
-    {
-      "id": "2608.16157",
-      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
-      "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
-      "organization_name": "UCBerkeley",
-      "organization_fullname": "University of California, Berkeley",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
-      "summary": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai.",
-      "ai_summary": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
-      "hf_url": "https://huggingface.co/papers/2608.16157",
-      "arxiv_url": "https://arxiv.org/abs/2608.16157",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 110,
-      "num_comments": 2,
-      "published_at": "2026-08-16T20:00:00.000Z",
-      "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 16573,
-      "project_page": "https://www.flashml.ai/"
     },
     {
       "id": "2610.14224",
@@ -96,6 +77,25 @@
       "project_page": "https://harness2.github.io/"
     },
     {
+      "id": "2608.16157",
+      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+      "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
+      "organization_name": "UCBerkeley",
+      "organization_fullname": "University of California, Berkeley",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
+      "summary": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai.",
+      "ai_summary": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
+      "hf_url": "https://huggingface.co/papers/2608.16157",
+      "arxiv_url": "https://arxiv.org/abs/2608.16157",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
+      "upvotes": 110,
+      "num_comments": 2,
+      "published_at": "2026-08-16T20:00:00.000Z",
+      "github_repo": "https://github.com/FlashML-org/FreeToken",
+      "github_stars": 16634,
+      "project_page": "https://www.flashml.ai/"
+    },
+    {
       "id": "2611.01560",
       "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
       "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)",
@@ -107,11 +107,11 @@
       "hf_url": "https://huggingface.co/papers/2611.01560",
       "arxiv_url": "https://arxiv.org/abs/2611.01560",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.01560.png",
-      "upvotes": 43,
+      "upvotes": 47,
       "num_comments": 1,
       "published_at": "2026-10-31T20:00:00.000Z",
       "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
-      "github_stars": 196,
+      "github_stars": 212,
       "project_page": "https://openrua.ai/uni-robot-agent"
     },
     {
@@ -126,11 +126,11 @@
       "hf_url": "https://huggingface.co/papers/2606.23050",
       "arxiv_url": "https://arxiv.org/abs/2606.23050",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
-      "upvotes": 104,
+      "upvotes": 102,
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 30541,
+      "github_stars": 30571,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 4,
       "published_at": "2026-10-21T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/WeVisOne-VL",
-      "github_stars": 909,
+      "github_stars": 987,
       "project_page": "https://tencent.github.io/WeVisOne-VL"
     },
     {
@@ -183,15 +183,15 @@
       "hf_url": "https://huggingface.co/papers/2611.02501",
       "arxiv_url": "https://arxiv.org/abs/2611.02501",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.02501.png",
-      "upvotes": 16,
+      "upvotes": 19,
       "num_comments": 2,
       "published_at": "2026-11-01T19:00:00.000Z",
       "github_repo": "https://github.com/StargazerX0/SpecPilot",
-      "github_stars": 82,
+      "github_stars": 123,
       "project_page": "https://stargazerx0.github.io/specpilot-project-page/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-05T01:40:22.579429+00:00"
+  "fetched_at": "2026-11-05T09:02:02.420637+00:00"
 }

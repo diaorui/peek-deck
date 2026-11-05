@@ -25,11 +25,11 @@
       "description": "Bitcoin trades near the $78,000 mark on Wednesday amid institutional outflows and macroeconomic uncertainty. The cryptocurrency was trading at the $78,330 mark, and Ethereum was trading at $2,317.In the past 24 hours, Bitcoin and Ethereum were up 1.87% and 2.41%, respectively. Among the major altco\u2026"
     },
     {
-      "headline": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+      "headline": "ETHGas brings compliance controls to public Ethereum, but missed trade penalties sit at zero",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFVGem1udEs1SHh0SnFQQ1ZOZS1yLU42eXhtWUc1amtEdUg0YTBsOFN6eUtHV1pzM1ItQnZ6MlVjeW1tNG1heDY2a25faE9oVi1PQ29feGhLZVJCeTZlSUtIc2hmVHQ2U3owRjZyS1gwLUNPWkFURjJ0TnJBWGlwSk1HVTVSU0s4eHVCNUYyaC1JN0tTQVhCRHRtaXRQaEFERG5PbjJIMWM1bl93V1VDV0Z4azJnb1V3ekQ5QjNsdUFpNnYwZlZxb3VDT0lhZHljeURmNg?oc=5",
-      "pub_date": 1793707265.0,
+      "pub_date": 1793737790.0,
       "article_url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
       "image": null,
       "description": null
@@ -75,6 +75,16 @@
       "description": "Ethereum\u2019s decentralization could strengthen its long-term value as AI risks increase demand for open infrastructure."
     },
     {
+      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC tests critical support, ETH struggles below resistance, XRP extends losses",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTHlNVnBvN2M1X2JUNGZjVXJLTmpvLWFYbkhTVHFQYS1CeGczdVZ6cmtjX0kzWHdPWkF1MXI2VC0yNHM0RU1tU012QnVNSXcxN0JzZ2lpSmp6VzdYbGJzZ2kzSFZHbTRER1pvMEw3UVdkWWtfR0RIVElvZlNxaDNkNUlDdC1MWHNvR3Q0YWllVm9xNWRyU3NCR21kOWp5dnlINWRCYUUweG5OZDVKakhVaE1vMVNybmFqdE1uMTMtOWFpZmVnOFJnR2ZBcDBYTkJRd2k3TUdFVS1XOTlrR2pNZV83eXB5MDZJWjFlUEtNcHdXZERmdzlIZ0dQYmdQMmNEN3hLdl9QRUl2NnVNNHI5a0FR?oc=5",
+      "pub_date": 1793765660.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-tests-critical-support-eth-struggles-below-resistance-xrp-extends-losses-202611040414",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Designing for sovereignty: Ethereum for digital public infrastructure",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -83,16 +93,6 @@
       "article_url": "https://blog.ethereum.org/2026/11/03/digital-pub-infra",
       "image": "https://storage.googleapis.com/ethereum-hackmd/upload_d1805a5e41e5b947df38abbec662b443.jpg",
       "description": "Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation..."
-    },
-    {
-      "headline": "Bitcoin and Ethereum await a bounce as stocks slide",
-      "source": "Kitco",
-      "source_url": "https://www.kitco.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXZ4eFhEbGFka1FJUm52aTNMVGV0WFFEa0NGblFxOU4xWUZxM2VyMk9tbmF0U21TQnZvUTBuTURYaUJPQnlpSEZYQnE3T2VSam9hZEpSZ3ZNRFpseFNHY0lNYlFIOEtQeWxiMU5lbjlhOVB6WE96ckdyWWFmOHNUVDFPRk1fa0NuUmt5SlpoTk8?oc=5",
-      "pub_date": 1793807801.0,
-      "article_url": "https://www.kitco.com/opinion/2026-11-04/bitcoin-and-ethereum-await-bounce-stocks-slide",
-      "image": "https://image-api.prod.kitco.com/image/fe74cc2c-007b-4ef4-8f90-30dc9158dbf2.jpeg?top=0&left=147.84026309608&width=432.31947380785&height=243&scale_width=1920&token=e7d17dba7e422bcdaa5f4fb776b59121676dcb9f3c996f538df1fda3c7dabf8b",
-      "description": ".embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:\u2026"
     },
     {
       "headline": "Morgan Stanley Ethereum Trust ETF Names New Sponsor CFO",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-05T01:40:31.924473+00:00"
+  "fetched_at": "2026-11-05T09:02:11.914899+00:00"
 }
