@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. \u201cIt\u2019s not a form of creation I find particularly interesting\u201d - AUTOMATON WEST",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/",
+      "published": 1793905345.0,
+      "thumbnail": "https://external-preview.redd.it/C2RorXAvPbmq1o36PdYWu_991O3qDsExpWJYFNtadyY.jpeg?width=640&crop=smart&auto=webp&s=84528244a00cf178ccd4701662501f8705e68f47",
+      "external_url": "https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/",
+      "site_name": "AUTOMATON WEST",
+      "favicon": "https://automaton-media.com/en/wp-content/uploads/2021/03/cropped-automaton-sitelogo-120x120-1-180x180.png",
+      "description": "In a recent interview,"
+    },
+    {
       "title": "Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.",
       "author": "Eliv_nurotic",
       "url": "https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/",
@@ -13,6 +24,28 @@
       "description": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending"
     },
     {
+      "title": "Investigating vault particles with Claude",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xor7bc/investigating_vault_particles_with_claude/",
+      "published": 1793905412.0,
+      "thumbnail": "https://external-preview.redd.it/REijHifphfLXDLzVEZZrvpLRTc2mentheXnHdKUFzgU.jpeg?width=640&crop=smart&auto=webp&s=c9d2a8f4ca3ac1b16cc251d550877bbe16712607",
+      "external_url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "We\u2019re sharing another finding from Anthropic\u2019s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells."
+    },
+    {
+      "title": "Is anyone using LLMs daily to build expertise in a specific field ?",
+      "author": "himmetozcan",
+      "url": "https://www.reddit.com/r/artificial/comments/1xowfk2/is_anyone_using_llms_daily_to_build_expertise_in/",
+      "published": 1793918013.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I feel like LLMs have made it much easier to learn about almost any subject. That got me wondering: is anyone here using them every day to study a specific topic in depth, with the goal of becoming an expert in that field? If so, what are you learning, and what does your daily learning routine look like?"
+    },
+    {
       "title": "The missing AI number",
       "author": "Limp-Park7849",
       "url": "https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/",
@@ -22,6 +55,17 @@
       "site_name": "farhat-hadi.medium.com",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Is the AI market correction about technology, politics, or both?",
+      "author": "Lumpy_Pick_421",
+      "url": "https://www.reddit.com/r/artificial/comments/1xoxdqr/is_the_ai_market_correction_about_technology/",
+      "published": 1793920552.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The recent stock market decline raises some interesting questions about the future of AI. Technology companies are investing billions in AI infrastructure, while political uncertainty, trade policies, and questions about profitability are adding pressure. AI can be a revolutionary technology and still be overvalued in the stock market. Those two things aren\u2019t mutually exclusive. How much of the current market uncertainty is driven by political decisions versus investors reconsidering their expectations for AI?"
     },
     {
       "title": "Where Did the People in Between Go?",
@@ -46,28 +90,6 @@
       "description": "Apple is introducing a new AI feature that allows Apple Watch users to rewind in-person conversations and see what someone just said."
     },
     {
-      "title": "A logged AI prompt and a prompt tied to your name are two different problems",
-      "author": "tres_pares",
-      "url": "https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/",
-      "published": 1793886338.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Most AI privacy talk is about whether your prompt gets logged. OpenAI's API, for example, keeps abuse monitoring logs for up to 30 days unless it approves a customer for zero data retention, and those logs can include prompts. The other question is whether a log can be tied to you. With your own API key, every prompt sits under your account, and a VPN only hides your IP. A router puts its own account between you and the provider, but it still sees your account and your prompt together, so you're trusting its policy. Some setups split those two things instead. A relay knows who you are but only gets encrypted data, and a secure enclave reads the prompt without seeing who sent it. Your client can also verify what code the enclave is running. The model provider still gets the prompt, but nothing sent with it identifies you. It only holds if the relay and enclave don't collude, though, and anything you type into the prompt can still give you away. OpenAI's policy if you want to check: https://developers.openai.com/api/docs/guides/your-data If you could only have one, which would you pick: a provider that keeps nothing, or a log that can't be tied to you? What would change your answer? Disclosure: I work at Dreamfort AI, private AI for chat, image, and video which uses the relay and enclave approach, so I'm biased toward it."
-    },
-    {
-      "title": "Are We Entering A Bubble With Ai-Gaming?",
-      "author": "CuntsAndBluntss",
-      "url": "https://www.reddit.com/r/artificial/comments/1xoo6p5/are_we_entering_a_bubble_with_aigaming/",
-      "published": 1793898626.0,
-      "thumbnail": "https://preview.redd.it/el9dkd0mttzh1.png?width=640&crop=smart&auto=webp&s=679242901c57ba79664e9cf82ece976d28e63792",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Vibe coded games are becoming insanely popular, and something I've noticed is that, contrary to what many people believe, there's actually a pretty large audience that genuinely enjoys discovering and playing AI-generated games. We run VibeToplist, a discovery platform for AI-assisted and vibe-coded games, and the growth we've been seeing is from another world. More developers are jumping in, new games are appearing daily, and players seem increasingly curious about what people are building with AI. Some projects are surprisingly polished, while others are clearly experiments that probably wouldn't have existed without AI making development so accessible. But it does make me wonder whether we're entering a bubble. If practically anyone can build and publish a game, will we eventually end up with thousands of low-effort projects competing for the same players? Or are we witnessing the beginning of an entirely new era of indie gaming, where the best ideas finally have a chance regardless of someone's technical background? Personally, I think both can be true. I'm curious how others see this developing over the next few years. https://vibetoplist.com/"
-    },
-    {
       "title": "Plugin4Shell Lets Repository Owners Swap Pinned Agents Across LLMS",
       "author": "assentic",
       "url": "https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/",
@@ -79,38 +101,16 @@
       "description": "Do/How you scan your AI Addons (Skills, Plugins, MCP, MODs, etc) in your day 2 day work? This kind of Plugin4Shell attack Im not sure if the top scanner (ciso, nvidia etc) would catch it"
     },
     {
-      "title": "Remember when OpenAI released the GPT-6 Astra advert and we experienced something new. I decided to build my own platform doing the same thing.",
-      "author": "Beneficial-Cow-7408",
-      "url": "https://www.reddit.com/r/artificial/comments/1xomidm/remember_when_openai_released_the_gpt6_astra/",
-      "published": 1793894790.0,
-      "thumbnail": "https://external-preview.redd.it/Njdqbzc3YzdpdHpoMeywbbA4MQr-nn33M4QqOmukZpcqEMkIQryPdnziktSW.png?width=640&crop=smart&auto=webp&s=4ae39e61e121047f7a01a782734ba6623dd07740",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "\u200b After watching the GPT-6 Astra launch advert I wanted to build a canvas that could be controlled by voice and update the runtime live. This was done on Liveloop, a generative live canvas that's capable of updating the runtime without reloading the canvas. To get this working I admit it didn't work first time. Trying to get that balance of instructing the agents to apply a live patch rather than rewriting the file meant going against every other feature on my platform so they needed a custom set of instructions which I had to write myself as everytime I asked AI to do it they got the concept wrong. How could I update the runtime without reloading the page regardless of how many tasks I send through? What I wanted to solve is the ability to send 10 tasks through or 100k tasks through and the system will work in the same way. Now 100k is unrealistic but theoretically there's no limit. Over a number of tests I've done. File size at stage 1 differs by file size at stage 500 by only 300kb at most if your adding no assets. The system auto compiles at every 10 tasks done (if checked) and each wave of 10 agents work from that checkpoint. So the logic was simple and not as complex as it sounds. Every addition or change you make is applied to the end of the file. This means if you used the queue function and had 10 files you will see the increments in code visually on each file. It also means that if I wanted to discard file 3 I can instantly remove that section or rewrite that section without having to redo all the others too. This reduces token consumption drastically on the longer queued tasks as your only ever updating that section. The rest of the file stays exactly as it is. You essentially don't need AI to do it for you as each patch is clearly defined. This is how I recreated the GPT-6 Astra rocket build video and now you can see why it works. To add a box around a yellow circle to a live display by writing the code to the end of the file. Your not touching what's on screen or already in place. Your not modifying the existing environment. The existing runtime doesn't need to reload to display your code. If you had a html page with live view and you changed the title side by side by just changing that text you will see that update live without reloading. Now if you copied the whole thing into a text file and then made the change in their and pasted the whole thing back. You will see it reload as it's reading the whole codebase again. By using this concept, you could live patch what ever number of tasks you wanted without it needing to reload. Their are limitations of course to browser memory. File size etc but I've tested 500 via 'Flow' and it didn't fail on that once The 'Flow' mode is where can queue up to 500 agents to work on the canvas that follow the same logic that also work offline as your requests are sent to the server meaning you can send a number of tasks. Turn the machine off and pick it up later on. With 'Flow' every addition is saved as a Livepatch that's a full self contained file. If you decide you didn't want to keep Agents 30-40 tasks you can discard them without having an affect on anything else due to the logic I explained earlier. Agents 41 work is not dependent on agents 40s work. There is one exception to this and that is if your specific task was to build upon the previous agents work. There is also a split screen mode. Work on 2 different projects same time or work on two different stages to compare output with linked camera mode too. There is also split task so you can effectively set up to 4 Teams of agents with up to 500 tasks each all with individual asset management, model choice from OpenAI, Claude, Grok and Gemini and different reasoning levels too for those who have a serious project to tackle. All 2000 agents will work on the cloud autonomously with no overlap of each other's work. Another issue I wanted to tackle is the restrictions many platforms have when using them. Your either locked down to using models they offer and many don't let you use alternatives. Knowing this I wanted to change how that works on my site. Here you can bring your own API keys. Connect to GIT hub to open or create new repos, use terminal via a built in bridge and even MCP access which let's you use your Codex, Claude plans etc For those that question the API integration and security of their keys on the platform I made that part public, with a verifiable hash chained check that anyone can look up for peace of mind. https://github.com/sidevworks/sary-os-byok-vault Are there any features from those that use multi-agent work flow? Its the first time I've tried it so I may of missed something but each agent you use can have its own instructions as well as a global prompt too. Each agent can be a different model which different reasoning levels as well as their own assets assigned to them. So you could have the first 10 agents using an OpenAI model with a front elevation CAD drawing that you want to design in 3D giving each one specific tasks like one doing exterior, one doing interior in a modern finish etc and then the next few agents doing the same thing but all with a different approach and aiming for a more retro design. You could decide that you prefer the exterior work from the first batch but wanted to keep everything else in the second batch so you can easily swap that file in and it won't affect the rest of it. That's the kind of case use I was aiming with the whole thing along with being able to visually see what's happening without recompiling the file each time."
-    },
-    {
-      "title": "Could AI search hurt ad business?",
-      "author": "ElphieJ",
-      "url": "https://www.reddit.com/r/artificial/comments/1xo874r/could_ai_search_hurt_ad_business/",
-      "published": 1793848707.0,
+      "title": "A logged AI prompt and a prompt tied to your name are two different problems",
+      "author": "tres_pares",
+      "url": "https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/",
+      "published": 1793886338.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "People use AI more for everyday searches when comparing products or looking for quick answers. It's easier than opening a bunch of links. Google is a good example of how AI search could change the way online businesses make money. I checked Google's latest earnings with anvita mate and search revenue was still up 12% YoY, but paid ad click growth slowed from 13% to 8%. Think about how we shop online. Before, we'd search for a product, visit a few sites, compare prices and maybe click on an ad. Now we can just ask AI to do most of that. That's great for users, but what about the businesses behind those websites? Fewer clicks could mean less traffic and fewer chances to make sales. Google could show paid recommendations in answers, but would people trust them? If I ask AI to compare products, I want an honest answer, not something picked just because my company paid for it. If more people start using AI to find products and services, businesses may have to rethink how they get customers. Will they eventually pay AI platforms to recommend their products instead of competing for search rankings? And how can AI search make money without losing the trust?"
-    },
-    {
-      "title": "Free online hackathon for apps built on a structured-output LLM API ($2k prizes, closes Nov 10)",
-      "author": "SolemnSpanking",
-      "url": "https://www.reddit.com/r/artificial/comments/1xoll2r/free_online_hackathon_for_apps_built_on_a/",
-      "published": 1793892598.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Disclosure: I'm one of the organizers. Clocked is a little different from a chat API: it doesn't generate text, it returns decisions with probabilities and exact extracted spans. Curious what people build with it. What: build a new app that uses at least one Clocked API endpoint. Clocked is an LLM API that returns structured results instead of generated text: decisions with probabilities, exact extractions with source positions, PII masking, prompt-injection detection, grounding checks, doc comparison and reranking. Prizes: $2,000 cash in 5 awards. Best Overall gets $600, three category awards get $400 each, and People's Choice gets $200. Cost: free. A new account gets 4k credits, and the code CLOCKEDHACKATHON adds 16k more. Rules: solo or teams, any language or framework, and the app has to be started during the challenge (AI coding tools are fine). You need a demo and a public repo. 18+, some location restrictions. Deadline: Nov 10, 11:59 PM ET. Winners Nov 18. Rules and entry form: https://clocked.rezolve.ai/challenge"
+      "description": "Most AI privacy talk is about whether your prompt gets logged. OpenAI's API, for example, keeps abuse monitoring logs for up to 30 days unless it approves a customer for zero data retention, and those logs can include prompts. The other question is whether a log can be tied to you. With your own API key, every prompt sits under your account, and a VPN only hides your IP. A router puts its own account between you and the provider, but it still sees your account and your prompt together, so you're trusting its policy. Some setups split those two things instead. A relay knows who you are but only gets encrypted data, and a secure enclave reads the prompt without seeing who sent it. Your client can also verify what code the enclave is running. The model provider still gets the prompt, but nothing sent with it identifies you. It only holds if the relay and enclave don't collude, though, and anything you type into the prompt can still give you away. OpenAI's policy if you want to check: https://developers.openai.com/api/docs/guides/your-data If you could only have one, which would you pick: a provider that keeps nothing, or a log that can't be tied to you? What would change your answer? Disclosure: I work at Dreamfort AI, private AI for chat, image, and video which uses the relay and enclave approach, so I'm biased toward it."
     }
   ],
-  "fetched_at": "2026-11-05T17:32:31.568669+00:00"
+  "fetched_at": "2026-11-05T23:20:16.958529+00:00"
 }
