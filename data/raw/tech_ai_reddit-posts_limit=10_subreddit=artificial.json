@@ -35,17 +35,6 @@
       "description": "Users currently have no independent way to confirm whether an AI provider served the requested model or quietly substituted a cheaper one. FlashProve addresses this by using zero-knowledge cryptography to prove that a particular model generated a response while keeping its proprietary weights hidden. Anthropic demonstrated the open-source system on a 400-billion-parameter model, generating proofs at roughly 110 tokens per second. However, the prototype requires 70 to 95 times more GPU time than ordinary inference, supports only 1,024-token contexts and does not yet cover every type of model output. Could cryptographic verification become standard for high-stakes AI services, even if it remains too expensive for everyday requests?"
     },
     {
-      "title": "Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/",
-      "published": 1793767092.0,
-      "thumbnail": "https://preview.redd.it/dzm9o9cgyizh1.jpeg?width=640&crop=smart&auto=webp&s=088b4ebf2f3039f515e7b7411babd251dca952f2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://fixupx.com/BenBrodyDC/status/2117821832317534519"
-    },
-    {
       "title": "Apple put a warning about rogue AI agents in its 10-K. That\u2019s a legal filing, not a blog post.",
       "author": "Dapper-Tale-4021",
       "url": "https://www.reddit.com/r/artificial/comments/1xnudhs/apple_put_a_warning_about_rogue_ai_agents_in_its/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Apple\u2019s annual report to the SEC now includes language about AI agents potentially acting without authorization, and specifically uses the words conceal and manipulate when describing unintended agent behaviour. Worth pausing on where that appears. A 10-K is a legal document. Risk factors in it are drafted by lawyers who are personally exposed if they\u2019re wrong or misleading. Companies put things there when they\u2019ve concluded the risk is material enough that not disclosing it is the bigger liability. Apple also changed how full disk access works on macOS, apparently to reduce what an agent can reach. I\u2019ve been in a lot of conversations this year where agent risk gets discussed as a future concern. This is a company with more legal caution than almost anyone writing it down as a present-tense business risk. The thing I find most interesting is the word conceal. Unauthorized action is one category of problem. An agent that hides what it did is a different one entirely, because it breaks the assumption underneath every monitoring and audit approach I\u2019ve seen deployed. Anyone read the actual filing language? Curious whether it\u2019s broader boilerplate or genuinely specific."
+    },
+    {
+      "title": "Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/",
+      "published": 1793767092.0,
+      "thumbnail": "https://preview.redd.it/dzm9o9cgyizh1.jpeg?width=640&crop=smart&auto=webp&s=088b4ebf2f3039f515e7b7411babd251dca952f2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://fixupx.com/BenBrodyDC/status/2117821832317534519"
     },
     {
       "title": "ai has been stuck in software. what would ai native hardware actually need to be?",
@@ -68,26 +68,26 @@
       "description": "aina a hardware interface launching tomorrow says every big shift in computing came from software and hardware built together which is true, the mouse and gui, then the touchscreen, and that ai has been stuck in software. nobody says what it is. i'm curious what you think about the claim. chat is how we talk to ai today, but is that really the right interface? if ai got its own hardware, what's the job it would do better than a phone or a laptop? and what would you not want it to do?"
     },
     {
-      "title": "Google to shut off search for schools that opt-out of AI",
-      "author": "nbcnews",
-      "url": "https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/",
-      "published": 1793733047.0,
-      "thumbnail": "https://external-preview.redd.it/WGOi07NPmQYaA2qqaF-6UnN2W_NeLwGYwqewr3x1fGE.jpeg?width=640&crop=smart&auto=webp&s=cf8d9957bc9d08eea909a5276e8fb18353f0175c",
-      "external_url": "https://www.nbcnews.com/tech/tech-news/google-shut-search-schools-opt-ai-rcna607280",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "The company said that AI-enabled products would be shut off by default for schools, which will also cut off their access to Google Search."
-    },
-    {
-      "title": "Is there an AI I can train to play games on my phone?",
-      "author": "H0neymoon_sweetheart",
-      "url": "https://www.reddit.com/r/artificial/comments/1xo0azq/is_there_an_ai_i_can_train_to_play_games_on_my/",
-      "published": 1793827268.0,
+      "title": "Cognition launches SWE-2 Flash: a coding agent model 3x faster at one-fifth the price",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xo27a9/cognition_launches_swe2_flash_a_coding_agent/",
+      "published": 1793831924.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Is there an AI I can show like a couple of minutes or an hour of playing a game on my phone and have it play that game for me?"
+      "description": "Cognition (the company behind Devin) announced SWE-2 Flash on November 4, 2026. It is pitched as a cheaper, faster sibling to SWE-2: about 3x the speed at one-fifth the price, aimed at routine agent work like automations, code review, feature development, and documentation updates, rather than uniform benchmark leadership. It is free to use through November 30, 2026, and available in Devin Desktop and CLI. Some details worth noting: - 276B total parameters, 12B active, adapted from Thinking Machines Lab's Inkling-Small, whose full weights were released on July 30, 2026. - Cognition reports big gains over Inkling-Small but mixed results against the larger SWE-2, framing Flash as a cost-and-speed alternative, not a replacement. - The weights are not public yet. Cognition is building a secure sharing program for trusted partners and labs, and says targeted cybersecurity training lifted ExploitBench from 11.3% to 34.8% -- capability it worries could help attackers as well as defenders. What I am curious about: for day-to-day coding work, does speed plus low price matter more than topping benchmarks? And is withholding the weights the right tradeoff here, or does it just slow down independent evaluation of the safety claims? (Source: Unite.AI coverage of the November 4 announcement; benchmark figures are Cognition's own.)"
+    },
+    {
+      "title": "When LLMs edit neural weights directly, how do we version-control them? Announcing wpgit & Weight-Space Software Engineering (Paper + Code)",
+      "author": "bigspin5050",
+      "url": "https://www.reddit.com/r/artificial/comments/1xo54c3/when_llms_edit_neural_weights_directly_how_do_we/",
+      "published": 1793839693.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Links: Project Page: https://v-code-895.github.io/wsse/ Paper (Zenodo DOI 10.5281/zenodo.23956114): https://doi.org/10.5281/zenodo.23956114 Code, Checkpoints & Git Bundles: https://github.com/v-code-895/wsse TL;DR Earlier this week, MIT CSAIL published Sparks of Weight-Space Programming, demonstrating that frontier LLMs can inspect raw neural network parameters and write direct, gradient-free weight edits to patch models or steer behavior. Direct weight editing by an LLM is like hex-editing a binary in memory. It works as a one-shot demo, but what happens when an autonomous agent (or multiple agents and engineers) needs to steer different behaviors, add features, and compose dozens of edits over time? Without software engineering discipline, weight surgery causes silent regressions, breaks when branches merge, and collapses when the base model updates. We built Weight-Space Software Engineering (WSSE) and wpgit: bringing version control, in-context CI/CD regression gates, semantic merge conflict resolution, and upstream rebasing directly into weight space. The Idea: Storing Weight Edits as Text Diff Files Instead of distributing modified multi-megabyte binary checkpoints, every weight edit or steering intervention is captured as a human-reviewable .weightpatch.json text file: Hash-pinned: Pinned to a 16-character SHA-256 hash of the target base checkpoint. Dependency-aware (requires): Declares which structural patches must precede it. Compact operators: Instead of dense float arrays, patches store compact mathematical parameters (e.g., a 12-number affine fold that deterministically rewrites 4,803 weights at build time). Self-testing: Carries quantitative assertions that must pass in context before the patch can merge. Our companion tool, wpgit, layers on top of standard Git: wpgit build: Compiles checkpoints in topological dependency order. wpgit test: Runs differential integration tests in context (comparing the full merged build against the build without that patch's dependency closure). wpgit check: Tests pairwise commutativity to catch semantic merge conflicts that Git merges silently. wpgit rebase: Migrates patch repositories onto updated base checkpoints, automatically detecting stale context when internal parameters have drifted. Key Findings Across 17 Experiments (150K to 8.1M Parameters) We evaluated the framework on an 8.1M-parameter cat generator (CatGAN-26), a 277K-parameter super-sampler (TinySR-26), MobileNetV2, and seven legacy 2017-2020 Keras checkpoints. 1. Steering and Locking Latent Behaviors Without Retraining Using weight surgery on CatGAN-26, we synthesized patches to steer and freeze attributes without running gradient descent: Why 1-D clamps fail: Clamping a single latent direction leaves 68-71% of attribute variance because deep generators encode attributes non-linearly. Rank-2 Active Subspace Locks: By computing the dominant eigenvectors of the gradient outer product (active subspaces), we clamp a 2-D subspace using two orthonormal ops. This collapses attribute variance down to 10-11%, passing strict regression bounds without moving the goalposts. 2. Zero-Parameter Circuit Surgery via Channel Reclamation To change a specific visual feature (e.g., turning cat irises blue) without altering the rest of the image or modifying the network architecture: Latent steering distorts the whole face without reaching the eyes, and ungated output folds turn the entire cat blue. Reclamation (prune2) + Exact ReLU gating (eye_gate): We identify the two most redundant channels in an internal conv layer, regress them onto remaining channels, fold that regression into the next layer, and zero the two slots (0.0045 rest-of-image MAE). We then wire a spatial detector into the freed channels to drive an exact paired-LeakyReLU ReLU gate: LeakyReLU(u) + a * LeakyReLU(-u) = (1 - a^2) * ReLU(u) This writes an ice-blue chrominance vector only where the gate fires, hitting the target hue with 23x less collateral change (0.0059 vs 0.136 MAE) than an ungated fold. 3. What Git Merges Cleanly, but the Weights Reject We scripted a 15-commit Git repository with feature branches for steering shifts, attribute locks, and the blue-eye circuit: Failures only visible in context: Two latent shift patches (warm_fur and bright_background) pass their unit tests in isolation, but fail when merged into main because generator non-linearity couples them. A test run on an isolated patch cannot see this. Semantic merge conflicts (wpgit check): Git merges two lock branches without a textual conflict, but wpgit check flags an order-dependent collision (output MAE 0.129). We formalize two conflict types: Type I (Interference): Overlapping latent subspaces. Resolved algebraically via Gram-Schmidt orthogonalization so the locks commute to 2.4e-7. Type II (Contradiction): One patch freezes the background while another brightens it. No algebra satisfies both; the engineer resolves it via an explicit product commit (git rm). 4. The Orthogonality Fallacy in Fine-Tune Merging We fine-tuned two specialist branches of TinySR-26 (one for bicubic inputs at +0.23 dB, one for noisy inputs at +3.26 dB). Their weight deltas are nearly orthogonal (cos = 0.088) and commute to float precision (1.5e-8). Adding the deltas wipes out the bicubic gain and causes a -4.06 dB regression on nearest-neighbour inputs. Weight-space orthogonality does not imply functional independence. Layer-by-layer regression attribution shows the drop is spread across every residual block. Dropping blocks worst-first removes 8 of 9 blocks, destroying the gain. A fine-tune delta only works as an atomic unit: partial reverts that are routine in code break it. 5. Rebasing Patches Across Upstream Base Updates (wpgit rebase) When CatGAN-26 is trained +500 to +4,000 steps further: Input-level latent locks survive +4,000 steps (17.9% weight drift). Internal channel-level patches (prune2, eye_gate) leave residual weights in moved channels, breaking collateral bounds after +2,000 steps. wpgit rebase flags internal channel patches as stale_context at +500 steps, long before behavioral tests fail. Re-fitting patches from scratch on the new base restores channel guarantees, but exposes a new interaction: locking cats to light fur shifts the iris detector's scores past its threshold. Only in-context integration testing exposes this. 6. Static Weight Forensics (Reading Checkpoints Without Data) Static weight inspection (extract_and_audit.py) exposed training facts and bugs without forward passes: Step-count recovery: Because Keras initialized BatchNorm running variance at 1.0 with momentum 0.99, a classifier's first BatchNorm variance (0.8347 ~ 0.99n) revealed n = 18 optimizer steps, matching the 6-epoch early-stopped training log. Dataset mean extraction: MobileNetV2's Conv1 lacks a bias, meaning bn_Conv1's running mean is the filter sums times the training set's mean RGB. Solving this 32x3 linear system (R2 = 1.000) recovered ImageNet's mean RGB to within 1.4 levels (122.3, 116.2, 102.9) from the weights alone. Compiling deployment fixes: Folding raw uint8 input scaling into Conv1 is exact in the interior but causes a 1.6 border logit error because zero-padding in [-1, 1] space equals 127.5 in raw pixel space. Incorporating the padding constant directly into the patch restores exactness (2.5e-5) and brings top-1 agreement from 0% to 100% with zero added runtime FLOPs. Why This Matters If LLMs and autonomous agents are going to edit, specialize, and steer neural network weights, we cannot treat checkpoints as opaque binary blobs, nor can we trust single-shot edits that lack regression suites. Weight updates need the same tooling software engineering spent 50 years building: content hashes, in-context unit tests, algebraic merge checks, and clean version control. All code, weights, .weightpatch.json files, and 15-commit Git bundles are open source under MIT / CC BY-NC 4.0: Repository: https://github.com/v-code-895/wsse Interactive Figures & Visuals: https://v-code-895.github.io/wsse/ Archival DOI: https://doi.org/10.5281/zenodo.23956114 Happy to answer questions on weight steering, model diffing, and how software engineering applies to weights!"
     },
     {
       "title": "Hy4 adds vision and computer use. How reliable will it be on long tasks?",
@@ -101,16 +101,16 @@
       "description": "Tencent just dropped Hy4. Vision and computer use are probably the two biggest new additions. For the first time, Hy can understand images and complex charts. It can also work across CLI and GUI, with specific training for tools like Blender and CAD. The computer use part sounds pretty interesting, but there\u2019s more to it than just clicking buttons and running commands. What happens when a button moves, a permission pop-up gets in the way, or a command fails halfway through a task? Can the model figure out what went wrong and get back on track? And what about the extra cost? Every failed action, retry, or new screenshot could mean more tokens and API calls. Over a long workflow, those costs could add up pretty quickly. There\u2019s also the problem of keeping track of everything across a long workflow. An agent might complete several steps correctly, then lose track of its progress or assume something worked when it didn\u2019t. Being able to perform individual actions is one thing. Getting through an entire workflow without losing track of messing things up is another. Is anyone else interested in putting Hy4\u2019s computer use capabilities to a real-world test? Official announcement: Tencent Hy"
     },
     {
-      "title": "why is every AI memory tool still unreliable or am I using it wrong?",
-      "author": "He_Mustakim",
-      "url": "https://www.reddit.com/r/artificial/comments/1xnlmx2/why_is_every_ai_memory_tool_still_unreliable_or/",
-      "published": 1793790970.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I use Claude, GPT, and their built-in memories a lot, but unfortunately, they are too inconsistent. They cannot remember which needs, or even cannot give the exact context most of the time which is needed. This might not affect normal things, like polishing emails. But it highly affects long-term or complex projects. Moreover, it works only inside that exact AI. I also tried some external tools like Mem0 and Supermemory; they are a little better, but they are too extremely inconsistent for big, complex, or long-term projects. Do you think I'm doing something wrong? Or is there an existing solution which I don't know, or is it really a bug that hasn't been solved yet?"
+      "title": "Google to shut off search for schools that opt-out of AI",
+      "author": "nbcnews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/",
+      "published": 1793733047.0,
+      "thumbnail": "https://external-preview.redd.it/WGOi07NPmQYaA2qqaF-6UnN2W_NeLwGYwqewr3x1fGE.jpeg?width=640&crop=smart&auto=webp&s=cf8d9957bc9d08eea909a5276e8fb18353f0175c",
+      "external_url": "https://www.nbcnews.com/tech/tech-news/google-shut-search-schools-opt-ai-rcna607280",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "The company said that AI-enabled products would be shut off by default for schools, which will also cut off their access to Google Search."
     }
   ],
-  "fetched_at": "2026-11-04T21:25:09.670422+00:00"
+  "fetched_at": "2026-11-05T01:40:11.325634+00:00"
 }

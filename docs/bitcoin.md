@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-04T21:25:42.484992+00:00'
+updated: '2026-11-05T01:40:40.225023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 04, 2026 at 21:25 UTC  
+**Last Updated:** November 05, 2026 at 01:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,265.77
+### $80,618.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** +2.8%  
-**30d:** -6.3%  
-**90d:** +23.5%  
-**1y:** -23.0%  
+**24h:** +5.9%  
+**7d:** +4.2%  
+**30d:** -3.2%  
+**90d:** +24.1%  
+**1y:** -20.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1610.62B
+**Market Cap:** $1617.62B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--36.5%
+-36.2%
 
 **All-Time Low:** $67.81
-+118037.4%
++118538.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Binance Hack 2026](https://www.reddit.com/r/Bitcoin/comments/1xlitny/binance_hack_2026/)**
 
-2d ago
+3d ago
 
 ---
 
 **[As always..](https://www.reddit.com/r/Bitcoin/comments/1xljlgy/as_always/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[can you stop moving for a second?](https://www.reddit.com/r/Bitcoin/comments/1xlgype/can_you_stop_moving_for_a_second/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Hey guys, I wanted to open a discussion about where we are in the cycle. Could this be the final major correction before the next leg up? In previous cycles, a hack involving a tier-1 exchange like Binance would have completely decimated the price and triggered pure panic across the market. This time, while we obviously saw a drop, BTC didn't crash nearly as hard as historical precedents would suggest. Every cycle has a major FUD event or "black swan" that pulls the price back significantly, but the market's response here felt remarkably stable. Given this resilience, how are you playing it? Is this the right spot to go heavy with a lump-sum purchase, or is it safer to stick to standard weekly DCA and play the long game? Curious to hear your thoughts and strategies right now.
 
-2d ago
+3d ago
 
 ---
 
@@ -119,7 +119,7 @@ FBI links 628 crypto wallet addresses to North Korea’s TraderTraitor after the
 
 **[Me checking my Binance account after the incident.](https://www.reddit.com/r/Bitcoin/comments/1xlfb1d/me_checking_my_binance_account_after_the_incident/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -127,7 +127,7 @@ FBI links 628 crypto wallet addresses to North Korea’s TraderTraitor after the
 
 I feel like Fidelity got their ducks in a row cause of their reputation. Coinbase too. But how can we compare these two to Binance? Any other people using fidelity custody worried now?
 
-2d ago
+3d ago
 
 ---
 
@@ -151,27 +151,41 @@ If the future of finance requires people to become their own bank, secure their 
 
 **[Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda](https://www.bloomberg.com/news/articles/2026-11-04/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda)**
 
-Bloomberg • 4h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave](https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide)**
+**[Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets](https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets)**
 
-CoinDesk • 54m ago
+CoinDesk • 20h ago
+
+---
+
+**[Bitcoin jumps above $79k as Democrats sweep midterm elections](https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542)**
+
+Investing.com • 18h ago
+
+---
+
+**[Two Prime CEO Calls Bitcoin Yields From Babylon and Stacks ‘VC-Funded Subsidies’](https://finance.yahoo.com/markets/crypto/articles/two-prime-ceo-calls-bitcoin-001500188.html)**
+
+Alexander Blume said the rewards that Babylon and Stacks offered bitcoin holders pay out less as deposits grow, and pointed to a vault Two Prime runs on Pareto that lends to borrowers offchain.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Riot Platforms Inc (RIOT) (Q3 2026) Earnings Call Highlights: $38 Billion in AI Data Center ...](https://sg.finance.yahoo.com/news/riot-platforms-inc-riot-q3-010611759.html)**
+
+Riot Platforms Inc (RIOT) signed a landmark 910 MW Corsicana lease with a Frontier AI lab, lifting contracted data center revenue to roughly $38 billion while Bitcoin mining revenue stayed flat.
+
+Yahoo Finance Singapore • 34m ago
 
 ---
 
 **[Mapping the Market: Bitcoin could extend losses](https://www.reuters.com/technology/global-markets-technicals-graphic-2026-11-04/)**
 
-Reuters • 10h ago
-
----
-
-**[VanEck’s Matthew Sigel: We're bullish on Bitcoin](https://www.cnbc.com/video/2026/11/04/vaneckas-matthew-sigel-were-bullish-on-bitcoin.html)**
-
-Matthew Sigel, VanEck head of digital assets, joins 'Power Lunch' to discuss crypto currencies rallying after the midterms and what a blue wave could mean for the future of crypto investing and regulation.
-
-CNBC • 1h ago
+Reuters • 14h ago
 
 ---
 
@@ -183,41 +197,27 @@ Variety • 1d ago
 
 ---
 
-**[Riot Platforms Reports Third Quarter 2026 Financial Results and Strategic Highlights](https://www.riotplatforms.com/riot-platforms-reports-third-quarter-2026-financial-results-and-strategic-highlights/)**
+**[Jack Dorsey’s Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves](https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million)**
 
-Riot Platforms | • 8h ago
+Block agreed in principle to a $764 million deferred-prosecution deal over anti-money-laundering failures at Cash App, a sum that exceeds its $566 million Q3 profit, while bitcoin gross profit fell 50% after the company cut trading fees.
 
----
-
-**[Bitcoin hits $80,000, triggering $415M in liquidations](https://www.tradingview.com/news/cryptobriefing:a8f38f910094b:0-bitcoin-hits-80-000-triggering-415m-in-liquidations/)**
-
-Bitcoin pushed through $80,000, and the derivatives market paid for it. The rally triggered more than $415 million in crypto liquidations.Short sellers absorbed most of the damage, with $330 million of that total coming from short positions. Traders who bet against the climb found out the hard way…
-
-TradingView • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
-**[Could Buying Bitcoin Today Set You Up For Life?](https://www.fool.com/investing/2026/11/04/could-buying-bitcoin-today-set-you-up-for-life/?source=iedfolrf0000001)**
+**[VanEck’s Matthew Sigel: We're bullish on Bitcoin](https://www.cnbc.com/video/2026/11/04/vaneckas-matthew-sigel-were-bullish-on-bitcoin.html)**
 
-Bitcoin may have a difficult time delivering an encore performance over the next decade.
+Matthew Sigel, VanEck head of digital assets, joins 'Power Lunch' to discuss crypto currencies rallying after the midterms and what a blue wave could mean for the future of crypto investing and regulation.
 
-The Motley Fool • 10m ago
-
----
-
-**[Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets](https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html)**
-
-Hackers exploited a BTCPay Server vulnerability to steal Bitcoin and Litecoin from hot wallets on versions 2.4.1 and earlier.
-
-The Hacker News • 1d ago
+CNBC • 5h ago
 
 ---
 
-**[Andrew Hohns: Why Bitcoin Can Fix America’s Debt Spiral](https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral)**
+**[Eric Trump warns Bitcoin's low transfer fees threaten financial institutions](https://www.tradingview.com/news/cryptobriefing:c4b29dd9e094b:0-eric-trump-warns-bitcoin-s-low-transfer-fees-threaten-financial-institutions/)**
 
-Battery Finance’s Andrew Hohns explains why taxes won’t fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds.
+Eric Trump has a message for big financial institutions: Bitcoin can move enormous sums for close to nothing, and that should worry them.He has been delivering that message across a run of interviews in late 2025 and early 2026. The central claim stays the same each time. Low-fee Bitcoin transfers…
 
-Bitcoin Magazine • 1d ago
+TradingView • 9h ago
 
 ---
 
@@ -245,7 +245,7 @@ Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs developme
 
 Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.
 
-⬆️ 8 • 💬 1 • 3d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
+⬆️ 8 • 💬 1 • 4d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
 
 ---
 
@@ -307,13 +307,13 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Reverses As Washington Flips](https://www.youtube.com/watch?v=QcXOWV2RUxs)**
+**[What the Midterms Mean for Bitcoin Policy](https://www.youtube.com/watch?v=io8ACfpKBtU)**
 
-Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+Democrats just took control of both chambers of Congress, so what happens to Bitcoin legislation now? Zack Cohen of the Bitcoin ...
 
-📺 CryptosRUs
+📺 Bitcoin Magazine
 
-👁️ 23K • 👍 752 • 💬 102 • ⏱️ 49:34 • 5h ago
+👁️ 2K • 👍 49 • 💬 4 • ⏱️ 16:27 • 4h ago
 
 ---
 
@@ -323,37 +323,17 @@ The next big move on bitcoin explained. We discuss with trader Charlie Burton th
 
 📺 Alessio Rastani
 
-👁️ 19K • 👍 876 • 💬 133 • ⏱️ 8:16 • 6h ago
+👁️ 33K • 👍 1K • 💬 163 • ⏱️ 8:16 • 10h ago
 
 ---
 
-**[Bitcoin Holders: What A Democratic Sweep Means For Your Holdings (My Plan)](https://www.youtube.com/watch?v=MEuriFlgmQE)**
+**[Bitcoin Loans Are Coming For Your Mortgage](https://www.youtube.com/watch?v=gof1NS_jGUo)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trade on BTCC & 10% ...
+Michael Tannenbaum is the CEO of Figure. In this conversation, we break down housing affordability after the midterm blue wave, ...
 
-📺 Aaron Bennett
+📺 Anthony Pompliano
 
-👁️ 12K • 👍 380 • 💬 54 • ⏱️ 12:26 • 17h ago
-
----
-
-**[Bitcoin Shook Everyone Out at $76K: New Altcoin Trades I&#39;m Taking](https://www.youtube.com/watch?v=eFcJuyJvJPw)**
-
-Bitcoin tagged 76K last night as Democrats took the House and Senate, right at the 50-week SMA near 75600, and bounced.
-
-📺 VirtualBacon
-
-👁️ 12K • 👍 353 • 💬 100 • ⏱️ 1:30:46 • 4h ago
-
----
-
-**[WHAT&#39;S NEXT FOR BITCOIN AFTER MIDTERMS (in under 3 minutes...)](https://www.youtube.com/watch?v=FTDawkOYBrg)**
-
-Midterm results are in and the Democrats swept the House and the Senate. In under 3 minutes I break down what that means for ...
-
-📺 100XClub
-
-👁️ 8K • 👍 644 • 💬 66 • ⏱️ 2:51 • 11h ago
+👁️ 5K • 👍 101 • 💬 3 • ⏱️ 39:35 • 3h ago
 
 ---
 
@@ -363,37 +343,47 @@ Midterms end in a blue tsunami but bitcoin shrugs it off and close to half a bil
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 232 • 💬 67 • ⏱️ 1:33:48 • 46m ago
+👁️ 10K • 👍 275 • 💬 40 • ⏱️ 1:33:48 • 5h ago
 
 ---
 
-**[Bitcoin Should Be CRASHING After The Blue Wave](https://www.youtube.com/watch?v=T8VdyLZcBas)**
+**[Crypto&#39;s easy years in Washington just ended](https://www.youtube.com/watch?v=veSkxbfwHH4)**
 
-Bitcoin should be crashing after the blue wave, but it bounced. Ledn's Mauricio Di Bartolomeo joins me on what a Democratic ...
+Democrats took both chambers, and Elizabeth Warren is now in line to chair Senate Banking with Maxine Waters at House ...
 
-📺 The Wolf Of All Streets
+📺 Yahoo Finance
 
-👁️ 16K • 👍 523 • 💬 58 • ⏱️ 48:40 • 6h ago
-
----
-
-**[🔴 EN DIRECTO: ¿Qué pasará con Bitcoin HOY? ➤ Análisis del mercado tras las elecciones en EEUU](https://www.youtube.com/watch?v=5gPip3M6Kwk)**
-
-Qué está pasando con Bitcoin?. Analizamos el precio de SPCX. ¿Qué pasará con Bitcoin? ¿Hasta dónde sube el petróleo?
-
-📺 ZCoinTV
-
-👁️ 11K • 👍 519 • ⏱️ 2:28:15 • 3h ago
+👁️ 10K • 👍 328 • 💬 116 • ⏱️ 14:51 • 7h ago
 
 ---
 
-**[BITCOIN &amp; THIS CRYPTO: NEW $2.5 MILLION TRADE!](https://www.youtube.com/watch?v=v5UnfN3wN4A)**
+**[$1 Million Bitcoin RESERVE - Florida &amp; Texas Just Made History](https://www.youtube.com/watch?v=wuzZAMPsHUA)**
 
-Claim a Free Bitcoin & Monero $500 Position here: https://partner.bybit.com/b/500xmr [click]
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts The race ...
 
-📺 MMCrypto
+📺 Bitcoin News Alerts
 
-👁️ 19K • 👍 958 • 💬 158 • ⏱️ 7:11 • 9h ago
+👁️ 3K • 👍 214 • 💬 72 • ⏱️ 15:36 • 7h ago
+
+---
+
+**[Bitcoin Reverses As Washington Flips](https://www.youtube.com/watch?v=QcXOWV2RUxs)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 28K • 👍 811 • 💬 111 • ⏱️ 49:34 • 9h ago
+
+---
+
+**[Bitcoin Shook Everyone Out at $76K: New Altcoin Trades I&#39;m Taking](https://www.youtube.com/watch?v=eFcJuyJvJPw)**
+
+Bitcoin tagged 76K last night as Democrats took the House and Senate, right at the 50-week SMA near 75600, and bounced.
+
+📺 VirtualBacon
+
+👁️ 18K • 👍 412 • 💬 117 • ⏱️ 1:30:46 • 8h ago
 
 ---
 
@@ -403,7 +393,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Read my
 
 📺 Benjamin Cowen
 
-👁️ 111K • 👍 3K • 💬 63 • ⏱️ 7:24 • 2d ago
+👁️ 112K • 👍 3K • 💬 63 • ⏱️ 7:24 • 2d ago
+
+---
+
+**[Finally a Bullish Week For Bitcoin?](https://www.youtube.com/watch?v=0kslfuTAhJc)**
+
+Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 533 • 💬 118 • ⏱️ 15:11 • 2d ago
 
 ---
 
