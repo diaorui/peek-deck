@@ -5,6 +5,46 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "China blocks SoftBank\u2019s $5.4 billion takeover of ABB\u2019s robotics division",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBJa2g4T1RZOXVuY3phU1ZicmlpM0kzUTdjNlBrMmtNZ29aNlBxZzNwQWkzam9WNVB6MGFwV2tERnA5WWNhWE9ZaWtKaV9JMDdpWHBKRjUyU2ZKU2lEN2R4U29ZQlo3T3g1cndpLUNqZXFhclphYzdyN0thaXM5WXl4UnN2eGZiUXd4SXdUenppTXNRTU1CV3RURnEyT05XUFRNUWFiMGNwN0QzYjVtS1Zoc24zcV9lWHV2eDZQckJwb2ZpS3g0OG9VMnpJaHJt?oc=5",
+      "pub_date": 1793848500.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
+      "pub_date": 1793862060.0,
+      "article_url": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China blocks SoftBank\u2019s $5.4bn takeover of ABB\u2019s robotics division",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5",
+      "pub_date": 1793862845.0,
+      "article_url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTl9RN05YUkdVcGRrbHlvMTg4cm1yREpveDBMWXRWTm5aNWFZM0ZTazZBT2J0aXB2Z0J5RXVRTXpzWnpJM0xIckRLQ3dqa2RWM1JncUJMYWxpZzdVN3FGUFV3SE41d3F6bTAxei1nQnVyMmlJajZ4M2Y2ZU9QbE4xQzZSeEF6X3k4ZHptVldsa19sX1laT2poSDZvRHBUTGN1TTEtOE1rMFZPbkpIaHhYbjlMaEt4RWxJNnQzYXZ2b2tSTmlqdU5QZEJZcktSOWdkTERObjJsSGY?oc=5",
+      "pub_date": 1793838780.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -15,24 +55,14 @@
       "description": "The Oregon startup, whose humanoid robots carry heavy materials in factories and warehouses, is expected to begin trading on Nasdaq on Thursday."
     },
     {
-      "headline": "Video: Xiaomi\u2019s humanoid robots sort car parts for eight hours in factory demonstration",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDhac0lOVHNSN3BzR1hGQ21hcThRaC14cnJTUTk0Y2taSHhXazlFdGRUbkY2ckJLeDJNQ19xNWF3X1hpOXl5YTBIdXB0aV95TlZzODkzUlZVMW5FQWtHbnZEWFowSnJ4aWxhWERfZWF5MnZJOHZKZEI1UWNiYnowME1XbFQ?oc=5",
-      "pub_date": 1793781780.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/xiaomi-humanoids-sort-car-parts",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-4.jpg",
-      "description": "Xiaomi's humanoid robots sort automotive components in an eight-hour factory test, demonstrating extended operation and autonomous fault detection."
-    },
-    {
-      "headline": "Watch: Robots conquer 3,100 ancient steps in bold move to dominate world",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzeUpKTmo2YTA4Q3I4NkZ2WERuXzVlLXZSdnp4QXlSc294LWFNbWt3TjZyb1VDV0s1QlN6cG5UaXFPUVpaZjhkeHRCLWc3UGdEQWlPTGYwVkdDTzZGLVZUdUdvdzlpNnpha0hvb0xlbHZwd1BIVldFVG41Ukw?oc=5",
-      "pub_date": 1793750906.0,
-      "article_url": "https://newatlas.com/ai-humanoids/watch-robot-dogs-climb-giant-mountain/",
-      "image": "https://assets.newatlas.com/dims4/default/23b0747/2147483647/strip/true/crop/1302x684+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fda%2F33%2F7ff59ef84d2fa190b5d9e9ce58d3%2Fscreenshot-2026-11-04-at-5-28-23-am.png&na.image_optimisation=0",
-      "description": "While robot dogs feel like old news now, setting them the challenge of racing up more than 3,000 uneven stone steps on the side of a mountain is more than just to show off what machines with legs can do. It's a huge lesson in their training."
+      "headline": "Hell in a Handbasket: Robotic Humanoid Torsos for Companionship",
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkVzRndQb0JsQmt6OHYyZEJpdndDZVdUZURxZFViMlJWVjBwdzVEYy1ZdE9qS0hxb3V2NU1ZQXJKRFdHOUh0VjNOSHl6WmhlYjE2TFoyTngwYXh0WjNxaXRiQXNQTG1tR3R6dVNSNnd1VEtDVE9ndE83eWtGRjRoWmswSjByQ3I5cW1WTHo4SzdiZEpKSzhMNkM1LXd3Vzg?oc=5",
+      "pub_date": 1793804933.0,
+      "article_url": "https://www.core77.com/posts/145830/Hell-in-a-Handbasket-Robotic-Humanoid-Torsos-for-Companionship",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1856090_lead_400_145830_.jpeg",
+      "description": "Las-Vegas-based robotics company Realbotix is developing these Echo robots. These are companionship robots, imbued with AI software designed to carry conversations. To cut down on costs, the 'bots are just a head and torso, absent expensive joints and limbs. Four models are in"
     },
     {
       "headline": "Disney Accelerator's 2026 Demo Day Explores New Frontiers in Storytelling, Robotics, and Guest Experiences",
@@ -55,56 +85,26 @@
       "description": "We just published the list of the 10 Best Robotics and Automation Stocks to buy that are on sale and Ondas Inc. (ONDS) is ranked 9th on this list. Robotics and automation have become increasingly important areas of investment as manufacturers, logistics operators, and businesses turn to intelligent systems to improve productivity. Yet the expansion of [\u2026]"
     },
     {
-      "headline": "Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTl9RN05YUkdVcGRrbHlvMTg4cm1yREpveDBMWXRWTm5aNWFZM0ZTazZBT2J0aXB2Z0J5RXVRTXpzWnpJM0xIckRLQ3dqa2RWM1JncUJMYWxpZzdVN3FGUFV3SE41d3F6bTAxei1nQnVyMmlJajZ4M2Y2ZU9QbE4xQzZSeEF6X3k4ZHptVldsa19sX1laT2poSDZvRHBUTGN1TTEtOE1rMFZPbkpIaHhYbjlMaEt4RWxJNnQzYXZ2b2tSTmlqdU5QZEJZcktSOWdkTERObjJsSGY?oc=5",
-      "pub_date": 1793832600.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html",
-      "image": null,
+      "headline": "Robotics Startup Radar 2026",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RSkNpTWk3ZFdzdmlaOGJWYjN6UVJhU2ZOZWVEekF5ZExBR1oyMUJ0c1FXaVRvVkh5WDZfMlFRaG11TmxuR3lCOHF2aDVzWjVXdERSTlU5Wm9PSWd3OUJWQ3pHM2NlRlRUMnpJ?oc=5",
+      "pub_date": 1793809118.0,
+      "article_url": "https://www.therobotreport.com/robotics-startup-radar-2026/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/RR_Robotics-Startup-Radar_2026-Thumbnail.png",
+      "description": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics."
+    },
+    {
+      "headline": "FF EAI Robotics Ecosystem Announces Strategic Partnership with California Science and Technology University and Boston International Business School to Advance Robotics Education, Talent Development, and Innovation",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPRlA5eDFFZW9CMU1DWUpnZFFFQ3puNUwtUUhoN0xPckljUVhEMHZJTEttaEtlQ3pSdGJXb0pyODMyUkpnZ3ZFdXRtbjIxd1d2NFJrSjlwa2xGYmlNeS1rel9FVG5Hdkw1WmJhLUJUNHU1Yl90T2hHaTRtSGFtaUNyLXpRUzIwbHE5QU9RRkFudU44RDRuV1lNRjUzXy0zNHZIUkQtWnc2M0dYSXlWR05JYURaLWY5ZXByeUdBdWQtRDZlOXp0MWllZVdrNWxUYmtlWHpnbEh3Wm5EeFh1NG1JTERWMlMzaGlNcV9zUTN2bnFKM3czVWVqYzlvWjY1dFUxSTcxdERRcko5enBxc2g2VmRjMW1tdVVqUHpWcHVLSml3YlJHbmpvNmozcXpOXzJYZV9sSXByY0x3WEpmNEJjdXlpVDREam5vbHFEVktFcDMtNlpUblV5aW8yZUxCa2FBUFRqRlgwSkF2YmNmQTREOUE1LXdqSUdOUVFQUERMcW5KRzJGOE9Lcg?oc=5",
+      "pub_date": 1793847112.0,
+      "article_url": "https://www.morningstar.com/news/pr-newswire/20261104cn89829/ff-eai-robotics-ecosystem-announces-strategic-partnership-with-california-science-and-technology-university-and-boston-international-business-school-to-advance-robotics-education-talent-development-and-innovation",
+      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
       "description": null
-    },
-    {
-      "headline": "Dream, build, destroy, repeat",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdG1LdkhtWG45ZW1LMUhDYS1ybnVxWU1xUzE1eVE3MjdjdjUtbGx0SGI0Wk9xV3J4NUozTmZBU3FZZE1VaGcyNXNRLUJQNjV6bW5aYmU3ZXVGeV9QRGo1Y3YyWDR6V3V5emkzbC14aEFrRkhPMVlERnQ1LWFtVDBKb2xTdl8?oc=5",
-      "pub_date": 1793768400.0,
-      "article_url": "https://news.mit.edu/2026/dream-build-destroy-repeat-combat-robotics-club-1104",
-      "image": "https://news.mit.edu/sites/default/files/images/202611/CRC_03_0.jpeg",
-      "description": "The MIT Combat Robotics Club (CRC) builds high-energy fighting machines to compete in House Battles and larger competitions. Fans of the hit show BattleBots may remember some of CRC\u2019s past robots, including Uppercut, SawBlaze, the Dentist, and Overhaul."
-    },
-    {
-      "headline": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVl5ajFZZi1EeGhzbS1oVklzMVF4STNiTThRRkpPN0loaFdWWVpRTm5MNEJNTm5XZjVPSW9TYktkM3VORUNaUnB4Q3g5ZGZwYmdSOTVVQWg3T3JRVTVfZDlYb290NWdSZWlGMVpVbVlqdEhwWjdET2hCYk1yMmpzMWR4N3hLTk50R1VHdVBxZmQ3cFNyeXNiQlY5blZjYWtvZGdZdERISHVRVnkxYjBKLXJEVDI?oc=5",
-      "pub_date": 1793772420.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Hell in a Handbasket: Robotic Humanoid Torsos for Companionship",
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkVzRndQb0JsQmt6OHYyZEJpdndDZVdUZURxZFViMlJWVjBwdzVEYy1ZdE9qS0hxb3V2NU1ZQXJKRFdHOUh0VjNOSHl6WmhlYjE2TFoyTngwYXh0WjNxaXRiQXNQTG1tR3R6dVNSNnd1VEtDVE9ndE83eWtGRjRoWmswSjByQ3I5cW1WTHo4SzdiZEpKSzhMNkM1LXd3Vzg?oc=5",
-      "pub_date": 1793804933.0,
-      "article_url": "https://www.core77.com/posts/145830/Hell-in-a-Handbasket-Robotic-Humanoid-Torsos-for-Companionship",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1856090_lead_400_145830_.jpeg",
-      "description": "Las-Vegas-based robotics company Realbotix is developing these Echo robots. These are companionship robots, imbued with AI software designed to carry conversations. To cut down on costs, the 'bots are just a head and torso, absent expensive joints and limbs. Four models are in"
-    },
-    {
-      "headline": "Anthropic unveils cryptographic tool to verify model outputs",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1RXSTJyUGNZTjNLTVFNNkEwdzhVMVlPTnA1OV9ETko5T1MzU0RWSXVPM0NPVGtISVc2QjVGWlZXc2dTaFdMaENiQ2syY2NKYmRuWElwa3ZpZk9OTk05U1pYbUl3MGEzUVMyQlFFSmJlT01tY3RqS2x0bE8tV1V1MW5JeGE2SGpXbFZPTlQzWVEzempPS0p5Q3JnX0RwdG5oZEE?oc=5",
-      "pub_date": 1793761680.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/02/anthropic.jpg",
-      "description": "Anthropic's FlashProve uses cryptographic proofs to verify model responses while keeping proprietary weights hidden from users."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-05T01:40:37.913913+00:00"
+  "fetched_at": "2026-11-05T09:02:28.503239+00:00"
 }

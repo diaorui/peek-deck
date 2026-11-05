@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2JhaWVYSkpWdGxJcWdZS2U2UnJuOXNRNGFQa0M2ZGV1c0E1RmtUaktXZHg4R28xVGNobkV1YkZMLUVuXzk3QTd0LWxHaE1ZeFpmVUx2dmtIUlRDUDN4cl95V2RlOWgxX0p2WUE1d2NkQjZ0WWZlcFQ1M1pvQnBtMVZoMklQWFdXemtYaDNReG5KWERPM1ZobFJ3YzZqQTZqOEtPd1dnRkNJM1VmSlFHcHFUNkZ5emctS29CekU0RQ?oc=5",
+      "pub_date": 1793851860.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -15,44 +25,24 @@
       "description": null
     },
     {
-      "headline": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamJBY0QtRnVoY3FlMXIyQUNJUk8wWl9xWGpwV2JyNlk4Tm5pTVdCamJqQUROR0plYWZnZjdCT180S3hZVm9UQmctdk1QbjlpLVVNYkphNHVMUHkyWVJZenM3UjlLVWFBaFNXM2h3VmRIaUd6SDljcHEyNjJpSks2bmh6Tk1lajRzeTFrOWNpcm1QdnFoZ3pfcTVhRm10MXVnU3l2VWFaZElrOEV3VUVzVkhlTjBnbEVfMVlBeTB6eEQ?oc=5",
-      "pub_date": 1793767680.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
-      "image": null,
-      "description": null
+      "headline": "Neocloud Sell-Off Leaves Bitcoin Miners Oversold",
+      "source": "VanEck",
+      "source_url": "https://www.vaneck.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1ZEcE1fdUZBRlN3YUdINjhyZGs2Rld1YjhtODRTdFh5eDI0SHdTSUgzQk9nUTV1aVRjWGZYUlliTTJqajlIVXlOeGNmTTUxRWs3dDJ0ekNOT2ZYLVJJYWtHakpaTTNQUThsWDdBLWRlS1VOTXI5SVpkSnloNHoyYjdtcjFwREVrU1hleUpwV1F2NUxXdGtJWXJUaEJOSXNI?oc=5",
+      "pub_date": 1793829320.0,
+      "article_url": "https://www.vaneck.com/us/en/blogs/digital-assets/neocloud-sell-off-leaves-bitcoin-miners-oversold/",
+      "image": "https://www.vaneck.com/globalassets/home/us/blogs/bm-blog-images/blog-category-images/6535_capabilities-digital-assets_960x540_2025-12_v1.jpg",
+      "description": "Powered shell providers fell ~35% in October on funding fears, yet no signed leases were cancelled. Why we see the AI data center sell-off as a dislocation."
     },
     {
-      "headline": "Bitcoin jumps above $79k as Democrats sweep midterm elections",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNC1JT1o3MVpMRkx6c3k3VncwMVprZ3JsQjhpM3RRUDY3bmNoXy1WNzZiOHY2S0JKVGRHNTRPZkZlX3cyM1ljS2RKRTlQZjlfZGROUE5Ka1dtOGxiX18xT2tCbXkyeldVay1jajBSRXFILUFoQTRsa0c3cHJMNlFGcV93S25Xdkp2TE5QdXpUbldhZEc3UXp0WUVpUGV3NS1qSkVJTVk0c1NmcGRPdnphLVpFLW9mWkNqRGg0amtwd25PQQ?oc=5",
-      "pub_date": 1793776350.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Two Prime CEO Calls Bitcoin Yields From Babylon and Stacks \u2018VC-Funded Subsidies\u2019",
+      "headline": "Gold and bitcoin just gave Scott Bessent\u2019s Treasury a post-midterm wake-up call",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0xSVVQ0NXNaaGNYb1VvNDBuVmNjNFdCVE5pdURvV3Y4azBSMnJEOWJLajZUMDVZbjdjWkJjU2JwOGFzQXh2UXFwd3c0c2kwQnJfU2dtQXkxMHJvMFBTdkF2SGJlMGZ1RUZ1S2dEcno4R2tTUnZNb1pkNWFRRlNEbXVvUFZUQnpGNm9tUlAyY1RwU0hsYnFr?oc=5",
-      "pub_date": 1793837700.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/two-prime-ceo-calls-bitcoin-001500188.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cd381eba0401ad36d562c392f9719a535726a489d4039decf9953179529f1517/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F09799e238d7b4d30ccac988524947c2e.png",
-      "description": "Alexander Blume said the rewards that Babylon and Stacks offered bitcoin holders pay out less as deposits grow, and pointed to a vault Two Prime runs on Pareto that lends to borrowers offchain."
-    },
-    {
-      "headline": "Riot Platforms Inc (RIOT) (Q3 2026) Earnings Call Highlights: $38 Billion in AI Data Center ...",
-      "source": "Yahoo Finance Singapore",
-      "source_url": "https://sg.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlF2TUlFb21TWTZvZUFiV1cwUEt1OGxCYURKbDE4Umd4eEVkM0xWVEhva29FZENNeVF0ZXZnd3V4MkpwNXFCRXR6SExWVTFpcU1CZTlyUzZfbHFYSlQ1T25GUGE1SUhZdzdiaGJmbEV4MzhXbVdKQ3NybGZBSWJkUA?oc=5",
-      "pub_date": 1793840760.0,
-      "article_url": "https://sg.finance.yahoo.com/news/riot-platforms-inc-riot-q3-010611759.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Riot Platforms Inc (RIOT) signed a landmark 910 MW Corsicana lease with a Frontier AI lab, lifting contracted data center revenue to roughly $38 billion while Bitcoin mining revenue stayed flat."
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVJKMEx1d1BIUUtOVUZ0aWxnWjhaMWxZZWlYSXdMMlZhWWZNWDJKOWZfb3k5ZkhPU3drMmY2bXBVa3F5bUpVNXlzNmVCUzNtQkFUTWxfcVVZTk9KYjJGUFZhV3phTnBRMTV6YVFxRExLc3NVcjJSSGxVd0VjNk1VWHN1OUxtRGlxLVRUYU0tbWp1MFNfTVZiSkRzbUZMOG9HQTZ5eWV5Zk1vYmh1UEFkaWVkRFRjdkhQTjB1UGpTQjhtM2VaaHV4ejNqemQwN0k?oc=5",
+      "pub_date": 1793814224.0,
+      "article_url": "https://finance.yahoo.com/markets/article/gold-and-bitcoin-were-2026s-worst-assets--the-midterms-just-gave-them-a-pulse-174344496.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/20080e37213ad54ddbe25b639c1b8947f5c285753ea9085addcbefd43f587837/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F507e3b01-5a0d-44fd-aa48-ff3eeb31979b",
+      "description": "Gold and bitcoin, 2026's two worst major assets, rallied the day after the midterms as the dollar slipped."
     },
     {
       "headline": "Mapping the Market: Bitcoin could extend losses",
@@ -65,46 +55,56 @@
       "description": null
     },
     {
-      "headline": "Tristan Thompson Boards Jason Zada\u2019s Bitcoin Creator Movie \u2018Satoshi\u2019 as Producer (EXCLUSIVE)",
-      "source": "Variety",
-      "source_url": "https://variety.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGo2X3RBdWluekREWjJfVzRQZ0lPWWwzODFzMTZBX2VJSXIzNXNLWXFoNHBlRDRtT0NDS29aY0dJSmxuS0pzX19CT2x3SGcxcEdyRDVTUlhBWnRodEFnRHhtdVM2M0xtT0wyUlBhS0tBdVZPa0x3ZzFOeGhSSnBoWTlsaGNZei1DZ0owc2dOSlRsTUxsOHk4cXJDSEgzQm5oOVZ3NGtzVQ?oc=5",
-      "pub_date": 1793719440.0,
-      "article_url": "https://variety.com/2026/film/global/tristan-thompson-bitcoin-creator-movie-satoshi-producer-1236938246/",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Charity-Day-2025-Hosted-by-Cantor-Fitzgerald-Relief-Fund-at-BGC-Group-1000.jpg?w=1000&h=563&crop=1",
-      "description": "Tristan Thompson has boarded 'Satoshi,' a new film about bitcoin\u2019s pseudonymous creator, to be directed by Jason Zada and shot in Saudi Arabia."
-    },
-    {
-      "headline": "Jack Dorsey\u2019s Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves",
+      "headline": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hUVRkNGdVNlNPV0w0UGRYN0dEOENCcmRXcDdBaDktWldlN1JGalVjMVA0bkhiT3BwMk9RTmRUQXRZWHB1MnJjU0VHQm9KZnFmRXh6VzQ1MUthREVXV3pjQnFYeVpoNkdqNUd5Yk4xSnpSTjQ?oc=5",
-      "pub_date": 1793816005.0,
-      "article_url": "https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Jack-Dorseys-Block-XYZ-Sets-Aside-764-Million-for-DOJ-Settlement-as-Bitcoin-Profit-Halves.jpg",
-      "description": "Block agreed in principle to a $764 million deferred-prosecution deal over anti-money-laundering failures at Cash App, a sum that exceeds its $566 million Q3 profit, while bitcoin gross profit fell 50% after the company cut trading fees."
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QeHRKbUhubmdNbFRBU0J3dlU1Uy1hWlZBN29LcUFaX2o3VFRvaFBVc2laUXZ5Ti1XYTJVemI0X3hvNmpjd2JndzNIWGlseXh2aWRtZUt4dkVQbV9PYjlyb3pEazU1Nk5sbWQ0LXJJS2Rudw?oc=5",
+      "pub_date": 1793843089.0,
+      "article_url": "https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/American-Bitcoin-ABTC-Q3-Mining-Rig.jpg",
+      "description": "American Bitcoin reported about $126 million in Q3 net income after a $197.3 million gain on bitcoin holdings, reversing a $57.2 million prior-quarter loss."
     },
     {
-      "headline": "VanEck\u2019s Matthew Sigel: We're bullish on Bitcoin",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXNYdG0tSFVwbXBiTVNmZ0pQZDlCNzJRMi1lX1U2SVhGb3QxSTBZTzU2RERSa0FJVXdHbjJmdVNHY1F6UFk2bkMxVi1nY0RBWkVSVnR3RXUzOUI0Mkc5RVE2Wjd3Um1FdF9UTlp1UGFlaGVzOXd4MTNIWWV0RV9mMWNCWHAtRnZUU1JmLWE5WVVnUzA?oc=5",
-      "pub_date": 1793822149.0,
-      "article_url": "https://www.cnbc.com/video/2026/11/04/vaneckas-matthew-sigel-were-bullish-on-bitcoin.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108520326-17938219581793821956-49437140939-1080pnbcnews.jpg?v=1793821958&w=1920&h=1080",
-      "description": "Matthew Sigel, VanEck head of digital assets, joins 'Power Lunch' to discuss crypto currencies rallying after the midterms and what a blue wave could mean for the future of crypto investing and regulation."
-    },
-    {
-      "headline": "Eric Trump warns Bitcoin's low transfer fees threaten financial institutions",
+      "headline": "Bitcoin's Great Consensus Cleanup soft fork targets legacy vulnerabilities",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS0JhXzItMlo1cEJnSS10cWtScW9tVmpIOTdpa1BFSkt4MTJKeHphemtaY1VoUXRPNnRYMjNWU3lHWno0TnBtSGpiak9ocDRIS1V3aWw2dUE3N1E5eHp1dWZEbV9jMEtVaUVMdHlzdTRjV0hRd1RDSHZXR29rUUo4d29BVnBJOXJpWXpuM3ZVWnFiUU1vVEhDYVI4SEt0bW5yTkRhYmZSSFZrektvOGhZV2RtWWZvamV0UUt3cE5CcEp5YzFDN085NzlxM2pQUFliaGxxTm1XcTA?oc=5",
-      "pub_date": 1793808818.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:c4b29dd9e094b:0-eric-trump-warns-bitcoin-s-low-transfer-fees-threaten-financial-institutions/",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmRWS2pXQ0FxOVBtMUlIU0NDcnJLSHNaWjdCUjEzblFPdVNxVnJWTmFkTF9JcHdGU21IUHNPODdTYzBtX3Y2VzA4cThKV3dNMnktbGR6Y2JkRk5tT0dyQUIyb0FuRDhMMHg1ejJla0U0TERUc21ycS1WekxYVktWaUJBNk1yczB5R09WRUIxYnVIeERlRDh5TjJUNFV1cmpLaXNYb251dDlHMzVEdGxTS3JzYmZKbXdXdl8xWHFiQV9VZTBXaHR0UXFvRHhJTDJRc2VBYW13?oc=5",
+      "pub_date": 1793832653.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:f4e55f60d094b:0-bitcoin-s-great-consensus-cleanup-soft-fork-targets-legacy-vulnerabilities/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Eric Trump has a message for big financial institutions: Bitcoin can move enormous sums for close to nothing, and that should worry them.He has been delivering that message across a run of interviews in late 2025 and early 2026. The central claim stays the same each time. Low-fee Bitcoin transfers\u2026"
+      "description": "Bitcoin's next big protocol upgrade may not be a flashy one. The leading candidate is a cleanup job: a proposal to fix four flaws in the network's consensus rules that have been sitting there since the protocol launched in 2009.The proposal is formally known as BIP-54, or the Great Consensus Cleanu\u2026"
+    },
+    {
+      "headline": "ETF Prime: Franklin Templeton Reimagines DRIPs With Bitcoin",
+      "source": "ETF Database",
+      "source_url": "https://etfdb.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVdvMU1qUzdPUVJKMW1TNkotV3Q1Nm1WVEdoSXBDNDA2TlhWUXpEQ1ZKUng4YklUZTlFbDU2YTBhWDF5bmp3eG5VTGhXT0hId2NfYTJMZ2lHVEpRYm5jeFhBOG03YUx6Tkwxd0RMRlF6dC05OXdacDNwel8zamJzQWxISUh1bHA4eXB1TUpJRkJkNjlsWm1ibUZOWDhhQmM?oc=5",
+      "pub_date": 1793821428.0,
+      "article_url": "https://etfdb.com/thematic-investing-content-hub/franklin-templeton-reimagines-drips-with-bitcoin/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Could Buying Bitcoin Today Set You Up For Life?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3RTRmZ2T0F5QVV1TUNPQVpNQUVlVm1VVjk1WVQxbl9hZ1dIZ2djWDg0NkxEbnpxbHBGLVBmY0xDUm1rZmNtdjNEV3dVb04xWWZtQ0xwelgxYXVQOGtrVFlCd2pYcVdncS0xODVwTUhLXzE5bUQzVUtZNHFrWHJlLUFDbWJOWDF6NjNGNnFPMHpvcFE?oc=5",
+      "pub_date": 1793826900.0,
+      "article_url": "https://www.fool.com/investing/2026/11/04/could-buying-bitcoin-today-set-you-up-for-life/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892913%2Finvestor-on-top-of-pile-of-money.jpg&w=1200&op=resize",
+      "description": "Bitcoin may have a difficult time delivering an encore performance over the next decade."
+    },
+    {
+      "headline": "Current price of Bitcoin for November 4, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2SWNYaTZyMG0yNGdoTE1oWGVJSEZ6a0lGQm5tSzdXNUZTTUhjVjFaWWtkWnFsQkJRUk56NjJ4QU5HZWdnamY5ZTRWZUNJdWxaTEY5X2ZBaW0yd25lV0hhenNQbE5BaGM?oc=5",
+      "pub_date": 1793794500.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-11-04-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-4.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-05T01:40:38.579978+00:00"
+  "fetched_at": "2026-11-05T09:02:21.998268+00:00"
 }
