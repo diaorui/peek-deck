@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpwLUc1MHh4TnNOVk9HY3BLVUlLS2ZwTjRIUEtqb0VKa2JYZG13VTc2TzdZZ2dlOUUtTmlZYTdmeGJIUVVpcWFBeS1PWGQ5X3FFS3lBMzJ0WjJsRjMzWmpaRl9KRUZzSWRpTHVaQ3lUeU5wNnM0S3dZLTVaMWo3RWNnMmZqcTBCY3NOajRvSk13UmM4R2VBUjNtT2w0NU96aU9FelhEZ1BJcHNWTExwYVRNczg?oc=5",
       "pub_date": 1793821500.0,
@@ -25,14 +25,14 @@
       "description": null
     },
     {
-      "headline": "Apple disables Siri AI waitlist in iOS 27, with one exception",
-      "source": "9to5Mac",
-      "source_url": "https://9to5mac.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLU1qdGFuZE56TE5icU1qWFZwWmVIWmZ2U2I2VlcwNmhCVkM2U09hLWNqbHdpQVpjTFItSGtJbWpBYV9uUF8taDZWTlE5TElmSlEwUXhJTFNOSHNmMjgzTDl0SUhIWkJOTFh1Q3Vmd0Rya2dtcER3RjNQTms1eHZkanhkVGpsUDNiRzlHeGJIQ2dJazhQMzVn?oc=5",
-      "pub_date": 1793824080.0,
-      "article_url": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-light.jpg?quality=82&strip=all&resize=1200,628",
-      "description": "A newly updated Apple support document says Siri AI no longer uses a waitlist to enable it, except in \u201chigh demand\u201d times."
+      "headline": "Apple is reportedly cutting budgets for its internal AI usage",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmZvMlExQnQwUXFuSmkyNE1Hb3NEa19ySm1HNHlLcUx2bkMzdUxwOWJwcURUdXlGbC00TUw2VGctYTdiSmJfTkNENFlHODlVM3JIYnYxS3QtQTRLWVhBM2Y5dWlKbjh3Wm5zaHJUMjhOUjVpY0pxX1dJVTRFRkJIV3Uwd2RlUTNnekFPUXhod3hTeGZqbVdEUTd6Vnk?oc=5",
+      "pub_date": 1793841982.0,
+      "article_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
     },
     {
       "headline": "Google Will Turn Off Search for Schools That Reject A.I.",
@@ -55,56 +55,56 @@
       "description": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews."
     },
     {
-      "headline": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTg5OHhmYUpiVFhJZkxhTEFCcS1vbEc2SmU2dTJETGZzaFR5aG93UDhlLXMwdTRheXJQTHhmeGt4QkhlRTYtXzRrb1BYNU9QV0VnMTFCVEZiYjB4NWJWQkxnT3VLSl9UYzYtbFZLU1AtNXZJeVZCeHpWeDVwcHd6ZHNkand3bzhaN0l1eFhUV3dSQkZiZHNPUUpUYVNFX29KdFdzemotUTdkME9nT1E?oc=5",
-      "pub_date": 1793822760.0,
-      "article_url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "image": "https://media.wired.com/photos/6aeb7c5b7b2c9d5f35a29177/191:100/w_1280,c_limit/110426-google-search-schools.jpg",
-      "description": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable."
+      "headline": "Seattle families to rally, address generative AI tech usage in schools",
+      "source": "KOMO",
+      "source_url": "https://komonews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdmdSTFk5V01wQVlVd3NOZVVJMkpoemw1RU1MWlVXNGx2c3pXYkQ0S3U1Si0xdVQ5MTlMeVRPSlNUbnMzak1TR3lNZFRrc1dTNWNvOVVUUU0xaE9uVkFfR29taDRnU1FKUHNHQmVFWlFqLXIxY2ZlTEg4LXhRVGhMaHJqc3d4LS0xRXRpRlRZTkp1bkZRMF9QaVBXMWlrWm1qZXVwNmdaM1JVcWdsVk94S3ZfYWpDblpOS0dFRE9yaFViejJQMUU4bHpjNTNCNHBaVjU1SU1GSnpnZkVpNTFweUF5NHlNVkN6X2xWRThmU3h4WTVUVVFOaEQzQldIZy1fWXpvY3VNd1dPWVlDeTdrWnpR?oc=5",
+      "pub_date": 1793834566.0,
+      "article_url": "https://komonews.com/news/local/seattle-publis-schools-crisis-in-the-classroom-families-to-rally-to-address-generative-ai-in-schools-education-washington-state-youtube-minecraft-gemini",
+      "image": "https://komonews.com/resources/media2/16x9/1224/1320/17x0/90/2bb9cc2f-6a35-4d10-9b1e-034d2107549a-Screenshot20261104164406.png",
+      "description": "Seattle families are urging the state\u2019s largest school district to pause the use of generative AI and address concerns about student-facing technology.Some Sea"
     },
     {
-      "headline": "Satellite images expose potential trouble behind Microsoft's $5 billion AI spending shortfall",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSzRQNlBSSGpYS1RHM0w3V0VpZjh6c1hJVXE0SFVGdXpEeUI5SWxQQmZLMjZLQXFuMnI2QzA3RW5ReVhxdkd1YjI2N245RDlnRjZxdy03LVlRSDMwTDFnMk12MEtJVWtxTXlMcXcwNUVnc0JQU0VrVWFwOWhGZHlsYWh3N1hFeVlGMWo5ck13?oc=5",
-      "pub_date": 1793824920.0,
-      "article_url": "https://www.businessinsider.com/microsoft-ai-buildout-delays-satellite-images-2026-11",
-      "image": "https://i.insider.com/6aeb752e9270da3cc6668159?width=1200&format=jpeg",
-      "description": "Satellite images reveal potential delays at two Microsoft AI data center projects, highlighting power and permitting challenges facing neoclouds."
-    },
-    {
-      "headline": "Democrats may go after data centers. That's not a reason to dump all your AI stocks",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnJiRXFHNGRlNHpXcFplRVRua2JXX0s2UFNoU2FtQWpob2xKT19GOTdidUlGaGIyU3p1cUZIVXZGdlZqVmdzM0Vid05Vd2Rpa3NMVFlRRllNZTFvSTBwbzBYZGVIU2xPb3g5WEtuY1NtbmtQNnA3RG5hV3FxWi0yRzRIN25WRFB2UE9tTWhUdWZQSE0?oc=5",
-      "pub_date": 1793821620.0,
-      "article_url": "https://www.cnbc.com/2026/11/04/democratic-data-center-pushback-could-help-ai-stocks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108453107-17927880302026-10-23t203930z_644610608_rc2lzna5kzc0_rtrmadp_0_usa-datacenters-nevada.jpeg?v=1793198510&w=1920&h=1080",
-      "description": "The AI trade could be tricky in the short term, but a bubble deflating gradually is better than a pop, economists say"
-    },
-    {
-      "headline": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0FPcWhsTlBRblVjalZwNFVSenZnMDhzS3E1eVZyNlh2Wk5zZ3Nja1hUYVlpVjdBMjk1U2hDdmx4cmJXQ3ZqOXhnYVM4N0R6bl9Sc0hGcVlRWU5zYnhTNXZ5alBERVNETnRXTmJlRXJHTmdDX1VjYjROTlVyQ0l5VzNoVWN1M19PNGlmYQ?oc=5",
-      "pub_date": 1793821194.0,
-      "article_url": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "headline": "How AI Changes The Starting Point Of Team Discussions",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGdHcTVQWXZKLWZhYVdjU2k0SW1Ja2FPY3ZfdEU5ZVluQ1JhekVaYmNwWHRjMlV2VFJnajF4bXMyeXk1cF81b1dZb1hGRUViSjBJM1FtbGJYZkhPRDVxdVBybnp1R2xFeU1uSnpnNk9BbVluRDRBZHk2ek1hNmgwdUM0c1FYQ1FKcjVLXy1IZXUzTmhodEEyMFRsQ2hCc1hjMjhkSFlCeUpDRXZTYmc?oc=5",
+      "pub_date": 1793841971.0,
+      "article_url": "https://www.forbes.com/sites/melissadaimler/2026/11/04/how-ai-changes-the-starting-point-of-team-discussions/",
       "image": null,
       "description": null
     },
     {
-      "headline": "5 Cheapest AI Data Center Stocks to Buy According to Billionaires",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1NJNkRQR0pzX1Z5X3o2UnprZFNkSmlFUzBrTXZSS3hOZ2NrblJ3QTdmanZxc3NzT2hjc1lFRndYcmJwYXE0eGdaMzFmbWhwblVuMmxOSUlBWEd5S0hKRVZ6eElzSDBWamcwZDZqUDVrOVB4VzJueHRDRWJpVGtocW9FS2Ztb3VORDhrTHVkV1NtZm8?oc=5",
-      "pub_date": 1793824341.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/5-cheapest-ai-data-center-203221920.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/535cf6d2821ffa132c234c860dc29f43e4b58e61cf881e8cd14e3f68f31f9d0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9471d1316f3cd27c53134af80ae8294f.jpg",
-      "description": "AI data center investment keeps expanding, but the companies supplying that capacity face different paths to profit. The International Energy Agency\u2019s October 2026 report estimates that hyperscalers will spend more than $700 billion on capital investment this year, mostly on new data centers. The report also points out constrained electricity networks, connection queues, and slow [\u2026]"
+      "headline": "Tencent Targets Financial Analysis With Hy4 AI Model",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFZqaXJoSUtzQV8walo0NmhNQUZhWExiQlRscjFsNVpXTjVrYWtndTJ1VVJ4XzFXeUw4NzJBNmU3TkNvLVBueU9nZzhObHN6bEdKRlFsdTE2aE83WHV5R01aR05qNGx3VklGcTcxd1pleXdHVU5EeUNSX2NwNS0tSUMzTXh0V2FjMGlUeWdKRkxfVi1uNFA2dGNlYnJaNFpKR1pscUdjLWZ6WlNvSUp3?oc=5",
+      "pub_date": 1793840991.0,
+      "article_url": "https://www.pymnts.com/news/artificial-intelligence/2026/tencent-targets-financial-analysis-with-hy4-ai-model/",
+      "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Tencent.jpeg",
+      "description": "Tencent has released its latest generation large language model, Hy4, saying\u00a0in\u00a0a Wednesday (Nov. 4)\u00a0press release\u00a0that it \u201cnow ranks among the world\u2019s"
+    },
+    {
+      "headline": "Bright Pattern Featured on GSA UK's SourcingTV: AI, Data Sovereignty and the Future of Global Customer Experience",
+      "source": "Detroit Free Press",
+      "source_url": "https://www.freep.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZmlUTnlnUi1EWVVORHBJUzV6QzBMU3ZjcTFZeU5CcUJxdll4ai1SX2FybHVDV3VTdnVianRYYVBPN2l5VDNrNXR3b1puYU9rNk9aRHVSS2dGYkhOMDl5WG9qSE9XZWphSzVuNkw3RWFpR1g5V3YwbWFjUU51azBnTzc4MkRVSEtySExCNkdMZUhmeFRfbmF0RXhUM3pmbWlsajRoT2NEMjBJOUZhZXl2TzU1OHRUUk9TY0VIN01yZHMzZUZXLUo2TmVLbzcwbkN2SXNjR1hPMENfR2lEc28xY29ybFJnMWxDcjZCQ3k0RVdMQQ?oc=5",
+      "pub_date": 1793840328.0,
+      "article_url": "https://www.freep.com/press-release/story/267360/bright-pattern-featured-on-gsa-uks-sourcingtv-ai-data-sovereignty-and-the-future-of-global-customer-experience/",
+      "image": "https://pix.xpr.media/p/eyJzIjoiZDYzNGQ3NTgtYTZiYS00NmFkLWIwM2MtOThmMTA1ODg2NmU0IiwiYyI6ImEwNmQzYjMyLTA2ZDUtNDgxYS05ZTNiLWVkMmZmZjI0MTExZCIsInYiOjF9.fa7WGwuYLvwiH0cX9YpJfiwordmhRGgTjRvFNuNA3QY.gif",
+      "description": "That's why it's important for us to offer local deployment of both customer service platforms and AI technology,"
+    },
+    {
+      "headline": "\u2018AI earthquake\u2019: Democrats eye a Silicon Valley reckoning",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam9BYnlkekhXbVVvWktfYnhhcmpwdEpHV2FMYm00MlZWc2R5WU1zVnFtbTNqSjV6XzJuYlNZVjByeVhQN2loUEdmUlNWenNNbVhXWVkzd01RUF9GTXFaUXZMYVNmSWdHLUFBbmpVdWZkRGh0N1ZjbE0zWnRvMkNUVXoycDlmalJDX19Fa1g2TlZ6QTJKWnZSbg?oc=5",
+      "pub_date": 1793804760.0,
+      "article_url": "https://www.politico.com/news/2026/11/04/democrats-eye-a-silicon-valley-ai-reckoning-01148624",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-04T21:25:37.310284+00:00"
+  "fetched_at": "2026-11-05T01:40:36.586515+00:00"
 }

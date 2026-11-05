@@ -6,23 +6,53 @@
   "articles": [
     {
       "headline": "Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWg3aW5QeW04R2pKaV9WdFp4XzJZdkJnaEw1UEdLNGZINHJBZk5UYldBX1FsY1Z3eUxubmphN1hvQnJJNFdERkJOcjZPMXppclBsN2hOZGZxVUhMZGRydHYwSlVpTXcxekxDZzQ5OFVFS1h3czZwVzQ2VW94VDNLdWdsbm5heHIteUhDZ2RjaC1SWlFycGNJSklZZkVWbThkQjRJQlF5QjJfMEFNWVVLa19n?oc=5",
-      "pub_date": 1793812993.0,
+      "pub_date": 1793829201.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda",
       "image": null,
       "description": null
     },
     {
-      "headline": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
+      "headline": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUd5MXVGMTNyQnFRSVlHNlBGSW5ZUmk4QVQ5RFk3cW9nRGNzT2VPZkc2a0pUQ0FjcDBoZ3ppNlVKMng4dUNlU1U0bzJMLXlocW1EQnNOZTFKdUlrQXVMUDNmTjBsMmwzcXlObEd6ckw2Qm45TkZMZXVxVnYwaVRmdzZVNjZmVHJrRmVSU1JLZnplYjlQSl9RcGVGZUFKRlBCcjhwang5aVI0ejBjRDlTUXpfaEdzV2VrbkNoY2xpSG02YUdGd0E?oc=5",
-      "pub_date": 1793824293.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamJBY0QtRnVoY3FlMXIyQUNJUk8wWl9xWGpwV2JyNlk4Tm5pTVdCamJqQUROR0plYWZnZjdCT180S3hZVm9UQmctdk1QbjlpLVVNYkphNHVMUHkyWVJZenM3UjlLVWFBaFNXM2h3VmRIaUd6SDljcHEyNjJpSks2bmh6Tk1lajRzeTFrOWNpcm1QdnFoZ3pfcTVhRm10MXVnU3l2VWFaZElrOEV3VUVzVkhlTjBnbEVfMVlBeTB6eEQ?oc=5",
+      "pub_date": 1793767680.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin jumps above $79k as Democrats sweep midterm elections",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNC1JT1o3MVpMRkx6c3k3VncwMVprZ3JsQjhpM3RRUDY3bmNoXy1WNzZiOHY2S0JKVGRHNTRPZkZlX3cyM1ljS2RKRTlQZjlfZGROUE5Ka1dtOGxiX18xT2tCbXkyeldVay1jajBSRXFILUFoQTRsa0c3cHJMNlFGcV93S25Xdkp2TE5QdXpUbldhZEc3UXp0WUVpUGV3NS1qSkVJTVk0c1NmcGRPdnphLVpFLW9mWkNqRGg0amtwd25PQQ?oc=5",
+      "pub_date": 1793776350.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Two Prime CEO Calls Bitcoin Yields From Babylon and Stacks \u2018VC-Funded Subsidies\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0xSVVQ0NXNaaGNYb1VvNDBuVmNjNFdCVE5pdURvV3Y4azBSMnJEOWJLajZUMDVZbjdjWkJjU2JwOGFzQXh2UXFwd3c0c2kwQnJfU2dtQXkxMHJvMFBTdkF2SGJlMGZ1RUZ1S2dEcno4R2tTUnZNb1pkNWFRRlNEbXVvUFZUQnpGNm9tUlAyY1RwU0hsYnFr?oc=5",
+      "pub_date": 1793837700.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/two-prime-ceo-calls-bitcoin-001500188.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cd381eba0401ad36d562c392f9719a535726a489d4039decf9953179529f1517/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F09799e238d7b4d30ccac988524947c2e.png",
+      "description": "Alexander Blume said the rewards that Babylon and Stacks offered bitcoin holders pay out less as deposits grow, and pointed to a vault Two Prime runs on Pareto that lends to borrowers offchain."
+    },
+    {
+      "headline": "Riot Platforms Inc (RIOT) (Q3 2026) Earnings Call Highlights: $38 Billion in AI Data Center ...",
+      "source": "Yahoo Finance Singapore",
+      "source_url": "https://sg.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlF2TUlFb21TWTZvZUFiV1cwUEt1OGxCYURKbDE4Umd4eEVkM0xWVEhva29FZENNeVF0ZXZnd3V4MkpwNXFCRXR6SExWVTFpcU1CZTlyUzZfbHFYSlQ1T25GUGE1SUhZdzdiaGJmbEV4MzhXbVdKQ3NybGZBSWJkUA?oc=5",
+      "pub_date": 1793840760.0,
+      "article_url": "https://sg.finance.yahoo.com/news/riot-platforms-inc-riot-q3-010611759.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Riot Platforms Inc (RIOT) signed a landmark 910 MW Corsicana lease with a Frontier AI lab, lifting contracted data center revenue to roughly $38 billion while Bitcoin mining revenue stayed flat."
     },
     {
       "headline": "Mapping the Market: Bitcoin could extend losses",
@@ -35,16 +65,6 @@
       "description": null
     },
     {
-      "headline": "VanEck\u2019s Matthew Sigel: We're bullish on Bitcoin",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXNYdG0tSFVwbXBiTVNmZ0pQZDlCNzJRMi1lX1U2SVhGb3QxSTBZTzU2RERSa0FJVXdHbjJmdVNHY1F6UFk2bkMxVi1nY0RBWkVSVnR3RXUzOUI0Mkc5RVE2Wjd3Um1FdF9UTlp1UGFlaGVzOXd4MTNIWWV0RV9mMWNCWHAtRnZUU1JmLWE5WVVnUzA?oc=5",
-      "pub_date": 1793822149.0,
-      "article_url": "https://www.cnbc.com/video/2026/11/04/vaneckas-matthew-sigel-were-bullish-on-bitcoin.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108520326-17938219581793821956-49437140939-1080pnbcnews.jpg?v=1793821958&w=1920&h=1080",
-      "description": "Matthew Sigel, VanEck head of digital assets, joins 'Power Lunch' to discuss crypto currencies rallying after the midterms and what a blue wave could mean for the future of crypto investing and regulation."
-    },
-    {
       "headline": "Tristan Thompson Boards Jason Zada\u2019s Bitcoin Creator Movie \u2018Satoshi\u2019 as Producer (EXCLUSIVE)",
       "source": "Variety",
       "source_url": "https://variety.com",
@@ -55,56 +75,36 @@
       "description": "Tristan Thompson has boarded 'Satoshi,' a new film about bitcoin\u2019s pseudonymous creator, to be directed by Jason Zada and shot in Saudi Arabia."
     },
     {
-      "headline": "Riot Platforms Reports Third Quarter 2026 Financial Results and Strategic Highlights",
-      "source": "Riot Platforms |",
-      "source_url": "https://www.riotplatforms.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSnpzLWpoUGxhaUZQcVAySmxFbWEtMk94VllXSEZfckRLbldjcUpEYU5TakFSeEVEZnlfSzFvZUpEZnBLUVhUenAyRVFqNTRaSURCRExLUUhaNEtIRm44X1p3S0Z5a2ZuZExOUlRubnA3UXJBS1lXVzd6dzlnSVpZdml0ckM2OUxXMXUydnktMnpYVU01Ykw1Q3RkQ285d0daMmhqUkJoQ0lrNHJZZWVGcmEyNWh5QQ?oc=5",
-      "pub_date": 1793797962.0,
-      "article_url": "https://www.riotplatforms.com/riot-platforms-reports-third-quarter-2026-financial-results-and-strategic-highlights/",
-      "image": "https://www.riotplatforms.com/wp-content/uploads/2024/04/Riot-share-image-1.png",
-      "description": null
-    },
-    {
-      "headline": "Bitcoin hits $80,000, triggering $415M in liquidations",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcTk4UEpNdGtvUjhtNjhtTWdWaE9wOUFYTDN5MGwyaUpIR0JUVGs0WEV1UkJsMjNLekhSV1NBLTZId1JMMzM2MGh1XzZicFE5VHhZMElJc0U2bmFuT1d2Z2UxUlBKdGF5WGdKUFlFNGZkYlpHNTJtcTlleDBFeDhiWmhfcFVmTUNWY3RueDNwV2lET0pUYThROV9rQ3JxWHdLVmxIZ3hyazFLekJCXzY1S0hSd184TFE?oc=5",
-      "pub_date": 1793805829.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:a8f38f910094b:0-bitcoin-hits-80-000-triggering-415m-in-liquidations/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin pushed through $80,000, and the derivatives market paid for it. The rally triggered more than $415 million in crypto liquidations.Short sellers absorbed most of the damage, with $330 million of that total coming from short positions. Traders who bet against the climb found out the hard way\u2026"
-    },
-    {
-      "headline": "Could Buying Bitcoin Today Set You Up For Life?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcm1HUWFNUXIxTGJMcTQyLUNDN3gtVThWZ21JdGJGVGFBRlFfMjVyZE44dEs5SnVOckZuQ01oalBOQTJodkhTdHJ2eHN1OFJOMnVLcG5ES3g0dVVuYWtLVThrZ1M4Q1NWZUFpSlZrdGlLaWFIVVJNNUszQ1NUeEpURlljZ1hCZHRLamFKcHNLU1l1TWFVVVVLbkdGcWpaSE8xeTZVQTdfQWhPLWMwZ1M4Q1BB?oc=5",
-      "pub_date": 1793826900.0,
-      "article_url": "https://www.fool.com/investing/2026/11/04/could-buying-bitcoin-today-set-you-up-for-life/?source=iedfolrf0000001",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892913%2Finvestor-on-top-of-pile-of-money.jpg&w=1200&op=resize",
-      "description": "Bitcoin may have a difficult time delivering an encore performance over the next decade."
-    },
-    {
-      "headline": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFpnR3ptSEotYm9CQkl0OXlFQjhTaHFRMl9hWUQ2U0VtOVZsWUVHSFFxLVBMZFhzTWRiNjZGTGFidVg3a1VsdDZxWlFJQnJURXU1V0xMRmFCb19Wd3FKdVU0T3pSRmYwcDMycGR4M1dPdXc2Z0l3TUw3elBaN0t6ZVlR?oc=5",
-      "pub_date": 1793694660.0,
-      "article_url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrr1rJlr2nztz8jEunAWtVXHyOHkJY2_KdeweNWBqwF18rmhPiFItEQ-yCex1vVsps856ArIDl7unaWJNiribZ9DgkmQ3o4pLa1BKQrjKEeFR63z4csXnBHah5wIp7H5xuUB7b1UIp06nk6BzLuxFW5aWh2g-PoLoZ74RjMOEUX7XdrDsHM1yFbjGHBzK8/s1700-nu-rw-lo-l85-e365/btcpay.jpg",
-      "description": "Hackers exploited a BTCPay Server vulnerability to steal Bitcoin and Litecoin from hot wallets on versions 2.4.1 and earlier."
-    },
-    {
-      "headline": "Andrew Hohns: Why Bitcoin Can Fix America\u2019s Debt Spiral",
+      "headline": "Jack Dorsey\u2019s Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXdoQzBOSnBLSEdzTERaeGZiZ2RuRXVOTmJIMW12b2UzQ0otdXBDd3FzSXNJZkVnVERfeW01ZXNxU2pjZ1k4LXJDX1Z0X29XdjlXRmp2QV9RTTB4RzhDdWV6UTF1MFhiZWczSjhLQkc0RGg5VnZVX3FncFg3SS11S1JlZklsaTVxalVFcWJ1b1c4QQ?oc=5",
-      "pub_date": 1793719031.0,
-      "article_url": "https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Andrew-Hohns-Why-Bitcoin-Can-Fix-Americas-Debt-Spiral-.jpg",
-      "description": "Battery Finance\u2019s Andrew Hohns explains why taxes won\u2019t fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds."
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hUVRkNGdVNlNPV0w0UGRYN0dEOENCcmRXcDdBaDktWldlN1JGalVjMVA0bkhiT3BwMk9RTmRUQXRZWHB1MnJjU0VHQm9KZnFmRXh6VzQ1MUthREVXV3pjQnFYeVpoNkdqNUd5Yk4xSnpSTjQ?oc=5",
+      "pub_date": 1793816005.0,
+      "article_url": "https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Jack-Dorseys-Block-XYZ-Sets-Aside-764-Million-for-DOJ-Settlement-as-Bitcoin-Profit-Halves.jpg",
+      "description": "Block agreed in principle to a $764 million deferred-prosecution deal over anti-money-laundering failures at Cash App, a sum that exceeds its $566 million Q3 profit, while bitcoin gross profit fell 50% after the company cut trading fees."
+    },
+    {
+      "headline": "VanEck\u2019s Matthew Sigel: We're bullish on Bitcoin",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXNYdG0tSFVwbXBiTVNmZ0pQZDlCNzJRMi1lX1U2SVhGb3QxSTBZTzU2RERSa0FJVXdHbjJmdVNHY1F6UFk2bkMxVi1nY0RBWkVSVnR3RXUzOUI0Mkc5RVE2Wjd3Um1FdF9UTlp1UGFlaGVzOXd4MTNIWWV0RV9mMWNCWHAtRnZUU1JmLWE5WVVnUzA?oc=5",
+      "pub_date": 1793822149.0,
+      "article_url": "https://www.cnbc.com/video/2026/11/04/vaneckas-matthew-sigel-were-bullish-on-bitcoin.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108520326-17938219581793821956-49437140939-1080pnbcnews.jpg?v=1793821958&w=1920&h=1080",
+      "description": "Matthew Sigel, VanEck head of digital assets, joins 'Power Lunch' to discuss crypto currencies rallying after the midterms and what a blue wave could mean for the future of crypto investing and regulation."
+    },
+    {
+      "headline": "Eric Trump warns Bitcoin's low transfer fees threaten financial institutions",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS0JhXzItMlo1cEJnSS10cWtScW9tVmpIOTdpa1BFSkt4MTJKeHphemtaY1VoUXRPNnRYMjNWU3lHWno0TnBtSGpiak9ocDRIS1V3aWw2dUE3N1E5eHp1dWZEbV9jMEtVaUVMdHlzdTRjV0hRd1RDSHZXR29rUUo4d29BVnBJOXJpWXpuM3ZVWnFiUU1vVEhDYVI4SEt0bW5yTkRhYmZSSFZrektvOGhZV2RtWWZvamV0UUt3cE5CcEp5YzFDN085NzlxM2pQUFliaGxxTm1XcTA?oc=5",
+      "pub_date": 1793808818.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:c4b29dd9e094b:0-eric-trump-warns-bitcoin-s-low-transfer-fees-threaten-financial-institutions/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Eric Trump has a message for big financial institutions: Bitcoin can move enormous sums for close to nothing, and that should worry them.He has been delivering that message across a run of interviews in late 2025 and early 2026. The central claim stays the same each time. Low-fee Bitcoin transfers\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-04T21:25:23.928998+00:00"
+  "fetched_at": "2026-11-05T01:40:38.579978+00:00"
 }
