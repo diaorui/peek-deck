@@ -103,20 +103,6 @@
       "site_name": "GitHub"
     },
     {
-      "title": "Bitcoin direction model I built lost to \"price stays the same\"",
-      "url": "https://btcforecaster.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50286408",
-      "author": "mpeluso",
-      "points": 1,
-      "num_comments": 1,
-      "created_at": "2026-10-29T09:22:05Z",
-      "object_id": "50286408",
-      "image": "https://btcforecaster.com/og-image.png",
-      "description": "Free, live Bitcoin (BTC/USD) price range forecast for the next 1, 4 and 24 hours, updated every 5 minutes, with a public track record of how often it was right.",
-      "favicon": "https://btcforecaster.com/apple-touch-icon.png",
-      "site_name": "BtcForecaster"
-    },
-    {
       "title": "Full Op_return Pruning in Bitcoin",
       "url": "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026",
       "hn_url": "https://news.ycombinator.com/item?id=50352901",
@@ -129,9 +115,37 @@
       "description": "satd is the first Bitcoin node implementation to allow optional full OP_RETURN value pruning. It is controlled by these options:   -pruneopreturn=N (N is the number of blocks behind tip, 288 minimum to match NODE_NETWORK_LIMITED guarantee) -pruneopreturnsize=X (X is the value size in bytes, greater than or equal to X will be pruned) -restoreopreturns (stop pruning and restore all pruned blocks; mutually-exclusive with above options)  Why do OP_RETURN value pruning? The recent BIP-110 controversy...",
       "favicon": "https://delvingbitcoin.org/uploads/default/optimized/1X/863d31b22a9d4d4072777bffb9b9ded86a1638bc_2_180x180.svg",
       "site_name": "Delving Bitcoin"
+    },
+    {
+      "title": "Show HN: MyArc, an open-source Chromium browser that works like Arc",
+      "url": "https://myarc.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=50377439",
+      "author": "bitbonsai",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-11-05T10:19:54Z",
+      "object_id": "50377439",
+      "image": "https://myarc.dev/og-image.png",
+      "description": "An open-source browser bringing back Arc, with no account required and optional AI.",
+      "favicon": "https://myarc.dev/favicon.ico",
+      "site_name": "myArc"
+    },
+    {
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "hn_url": "https://news.ycombinator.com/item?id=50378625",
+      "author": "archb",
+      "points": 180,
+      "num_comments": 153,
+      "created_at": "2026-11-05T13:05:28Z",
+      "object_id": "50378625",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Discord is moving its apps fully over to the Rust programming language.",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "site_name": "The Verge"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-05T09:01:52.270058+00:00"
+  "fetched_at": "2026-11-05T17:32:31.354318+00:00"
 }
