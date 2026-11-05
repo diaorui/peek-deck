@@ -5,14 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Curbie Robot Aims to End Trash Bin Dragging Chores",
-      "source": "X",
-      "source_url": "https://x.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DalgxVHAzUVJpek13aU9mWDA2ZmprZmVaRXVCMG5UbHRzaUlqdXV1WnZURExYVzRmTW1xVV9SUHNwV0xoYnlMRUNZMUh3UW9HX1VrRExmSQ?oc=5",
-      "pub_date": 1793827050.0,
-      "article_url": "https://x.com/i/trending/2118035798113276100",
-      "image": "https://pbs.twimg.com/media/HWTmc9HbUAAKiht?format=webp&name=medium",
-      "description": "Revere Robotics is building Curbie, an autonomous device that clamps onto standard two-wheel trash bins, rolls them to the curb and back using the bin's own wheels, and manages loads over 120 pounds even on icy sidewalks. Safety features like tilt detection stop it if needed and alert owners, while it auto-releases for garbage trucks. The project is in prototype stage with field trials planned, drawing excitement for practical robotics alongside questions about cost and durability."
+      "headline": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5",
+      "pub_date": 1793841120.0,
+      "article_url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
+      "image": "https://i.insider.com/6aebcea0c54bfafa65abf24a?width=1200&format=jpeg",
+      "description": "The Oregon startup, whose humanoid robots carry heavy materials in factories and warehouses, is expected to begin trading on Nasdaq on Thursday."
+    },
+    {
+      "headline": "Video: Xiaomi\u2019s humanoid robots sort car parts for eight hours in factory demonstration",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDhac0lOVHNSN3BzR1hGQ21hcThRaC14cnJTUTk0Y2taSHhXazlFdGRUbkY2ckJLeDJNQ19xNWF3X1hpOXl5YTBIdXB0aV95TlZzODkzUlZVMW5FQWtHbnZEWFowSnJ4aWxhWERfZWF5MnZJOHZKZEI1UWNiYnowME1XbFQ?oc=5",
+      "pub_date": 1793781780.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/xiaomi-humanoids-sort-car-parts",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-4.jpg",
+      "description": "Xiaomi's humanoid robots sort automotive components in an eight-hour factory test, demonstrating extended operation and autonomous fault detection."
+    },
+    {
+      "headline": "Watch: Robots conquer 3,100 ancient steps in bold move to dominate world",
+      "source": "New Atlas",
+      "source_url": "https://newatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzeUpKTmo2YTA4Q3I4NkZ2WERuXzVlLXZSdnp4QXlSc294LWFNbWt3TjZyb1VDV0s1QlN6cG5UaXFPUVpaZjhkeHRCLWc3UGdEQWlPTGYwVkdDTzZGLVZUdUdvdzlpNnpha0hvb0xlbHZwd1BIVldFVG41Ukw?oc=5",
+      "pub_date": 1793750906.0,
+      "article_url": "https://newatlas.com/ai-humanoids/watch-robot-dogs-climb-giant-mountain/",
+      "image": "https://assets.newatlas.com/dims4/default/23b0747/2147483647/strip/true/crop/1302x684+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fda%2F33%2F7ff59ef84d2fa190b5d9e9ce58d3%2Fscreenshot-2026-11-04-at-5-28-23-am.png&na.image_optimisation=0",
+      "description": "While robot dogs feel like old news now, setting them the challenge of racing up more than 3,000 uneven stone steps on the side of a mountain is more than just to show off what machines with legs can do. It's a huge lesson in their training."
     },
     {
       "headline": "Disney Accelerator's 2026 Demo Day Explores New Frontiers in Storytelling, Robotics, and Guest Experiences",
@@ -35,6 +55,16 @@
       "description": "We just published the list of the 10 Best Robotics and Automation Stocks to buy that are on sale and Ondas Inc. (ONDS) is ranked 9th on this list. Robotics and automation have become increasingly important areas of investment as manufacturers, logistics operators, and businesses turn to intelligent systems to improve productivity. Yet the expansion of [\u2026]"
     },
     {
+      "headline": "Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTl9RN05YUkdVcGRrbHlvMTg4cm1yREpveDBMWXRWTm5aNWFZM0ZTazZBT2J0aXB2Z0J5RXVRTXpzWnpJM0xIckRLQ3dqa2RWM1JncUJMYWxpZzdVN3FGUFV3SE41d3F6bTAxei1nQnVyMmlJajZ4M2Y2ZU9QbE4xQzZSeEF6X3k4ZHptVldsa19sX1laT2poSDZvRHBUTGN1TTEtOE1rMFZPbkpIaHhYbjlMaEt4RWxJNnQzYXZ2b2tSTmlqdU5QZEJZcktSOWdkTERObjJsSGY?oc=5",
+      "pub_date": 1793832600.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Dream, build, destroy, repeat",
       "source": "MIT News",
       "source_url": "https://news.mit.edu",
@@ -46,13 +76,23 @@
     },
     {
       "headline": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVl5ajFZZi1EeGhzbS1oVklzMVF4STNiTThRRkpPN0loaFdWWVpRTm5MNEJNTm5XZjVPSW9TYktkM3VORUNaUnB4Q3g5ZGZwYmdSOTVVQWg3T3JRVTVfZDlYb290NWdSZWlGMVpVbVlqdEhwWjdET2hCYk1yMmpzMWR4N3hLTk50R1VHdVBxZmQ3cFNyeXNiQlY5blZjYWtvZGdZdERISHVRVnkxYjBKLXJEVDI?oc=5",
       "pub_date": 1793772420.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Hell in a Handbasket: Robotic Humanoid Torsos for Companionship",
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkVzRndQb0JsQmt6OHYyZEJpdndDZVdUZURxZFViMlJWVjBwdzVEYy1ZdE9qS0hxb3V2NU1ZQXJKRFdHOUh0VjNOSHl6WmhlYjE2TFoyTngwYXh0WjNxaXRiQXNQTG1tR3R6dVNSNnd1VEtDVE9ndE83eWtGRjRoWmswSjByQ3I5cW1WTHo4SzdiZEpKSzhMNkM1LXd3Vzg?oc=5",
+      "pub_date": 1793804933.0,
+      "article_url": "https://www.core77.com/posts/145830/Hell-in-a-Handbasket-Robotic-Humanoid-Torsos-for-Companionship",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1856090_lead_400_145830_.jpeg",
+      "description": "Las-Vegas-based robotics company Realbotix is developing these Echo robots. These are companionship robots, imbued with AI software designed to carry conversations. To cut down on costs, the 'bots are just a head and torso, absent expensive joints and limbs. Four models are in"
     },
     {
       "headline": "Anthropic unveils cryptographic tool to verify model outputs",
@@ -63,48 +103,8 @@
       "article_url": "https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/02/anthropic.jpg",
       "description": "Anthropic's FlashProve uses cryptographic proofs to verify model responses while keeping proprietary weights hidden from users."
-    },
-    {
-      "headline": "The Anatomy Of Robots",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GYW9VQ2l3M2xoMEowT3h4TnNLTU1raVRwTnZtejNSZUZiNzI0Z203T0lOS21SbFg4WGNBcjhOYVRfdVZCOW81Qkd3TmRDakRtTUJZQ1JsUVdOLVptNEhxWjVUcl9JajM1aEMxT2dXMklPUURDZExIdGtNMzc4dw?oc=5",
-      "pub_date": 1793822449.0,
-      "article_url": "https://www.forbes.com/sites/johnwerner/2026/11/04/the-anatomy-of-robots/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Watch: Robots conquer 3,100 ancient steps in bold move to dominate world",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzeUpKTmo2YTA4Q3I4NkZ2WERuXzVlLXZSdnp4QXlSc294LWFNbWt3TjZyb1VDV0s1QlN6cG5UaXFPUVpaZjhkeHRCLWc3UGdEQWlPTGYwVkdDTzZGLVZUdUdvdzlpNnpha0hvb0xlbHZwd1BIVldFVG41Ukw?oc=5",
-      "pub_date": 1793750906.0,
-      "article_url": "https://newatlas.com/ai-humanoids/watch-robot-dogs-climb-giant-mountain/",
-      "image": "https://assets.newatlas.com/dims4/default/23b0747/2147483647/strip/true/crop/1302x684+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fda%2F33%2F7ff59ef84d2fa190b5d9e9ce58d3%2Fscreenshot-2026-11-04-at-5-28-23-am.png&na.image_optimisation=0",
-      "description": "While robot dogs feel like old news now, setting them the challenge of racing up more than 3,000 uneven stone steps on the side of a mountain is more than just to show off what machines with legs can do. It's a huge lesson in their training."
-    },
-    {
-      "headline": "Who's Buying The Future Of AI And Robotics: 2026 M&A Report",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX081YWpKeWZXZnFPaC1BZnZnN2tFQ1hkRnlMcVZRbG5BYjBvdlZEOTdzdEsxRERoekh6X3A5Sk5KTEV0dW54a0hpUWpxUk5wNlB0bFl4UDU0QlB6ZWJkcTdOVTFfUGljRVRNSmdha0hmb3d1dHpnXzdTbEhKWDRiNHRQcnJWTG5oWUlNVy1BZEVDOUJ6NVNmR2M3dkt6RS1fM0JtN05MU1pZTmQtQTVGNg?oc=5",
-      "pub_date": 1793822700.0,
-      "article_url": "https://seekingalpha.com/article/4962467-whos-buying-future-of-ai-robotics-2026-mergers-and-acquistiions-report",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0g1bFRLcklad1pJZFZ3Wk9qUlZmaU9KNUhwek80VTNTRUlqc1NJSkhkMERGNUcxSUdxOHVQSVpJaXNYRjJfZm5aVF9Ic2JrS0l0RmIyMXpuS21ybzRtbUg2dmFWQmdHZFZfUExJWl9SeUotcEVfSGk3RU14aXBlWnZHMmNzQktlWEFUY2lCYWE4Z1M5ZlRpY3I2WWtVZWtpT3c?oc=5",
-      "pub_date": 1793805970.0,
-      "article_url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/globallogic-haystack-featured.jpg",
-      "description": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-04T21:25:39.905808+00:00"
+  "fetched_at": "2026-11-05T01:40:37.913913+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-04T21:25:42.494581+00:00'
+updated: '2026-11-05T01:40:40.234524+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 04, 2026 at 21:25 UTC  
+**Last Updated:** November 05, 2026 at 01:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,11 +116,27 @@ The university i used to attended have been trying to engage the use of AI for w
 
 ## Google News: "robotics"
 
-**[Curbie Robot Aims to End Trash Bin Dragging Chores](https://x.com/i/trending/2118035798113276100)**
+**[Agility Robotics is taking humanoid robots public in a first for Wall Street](https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11)**
 
-Revere Robotics is building Curbie, an autonomous device that clamps onto standard two-wheel trash bins, rolls them to the curb and back using the bin's own wheels, and manages loads over 120 pounds even on icy sidewalks. Safety features like tilt detection stop it if needed and alert owners, while it auto-releases for garbage trucks. The project is in prototype stage with field trials planned, drawing excitement for practical robotics alongside questions about cost and durability.
+The Oregon startup, whose humanoid robots carry heavy materials in factories and warehouses, is expected to begin trading on Nasdaq on Thursday.
 
-X • 8m ago
+Business Insider • 28m ago
+
+---
+
+**[Video: Xiaomi’s humanoid robots sort car parts for eight hours in factory demonstration](https://interestingengineering.com/ai-robotics/xiaomi-humanoids-sort-car-parts)**
+
+Xiaomi's humanoid robots sort automotive components in an eight-hour factory test, demonstrating extended operation and autonomous fault detection.
+
+Interesting Engineering • 16h ago
+
+---
+
+**[Watch: Robots conquer 3,100 ancient steps in bold move to dominate world](https://newatlas.com/ai-humanoids/watch-robot-dogs-climb-giant-mountain/)**
+
+While robot dogs feel like old news now, setting them the challenge of racing up more than 3,000 uneven stone steps on the side of a mountain is more than just to show off what machines with legs can do. It's a huge lesson in their training.
+
+New Atlas • 1d ago
 
 ---
 
@@ -128,7 +144,7 @@ X • 8m ago
 
 The Disney Accelerator hosted its 2026 Demo Day, showcasing new collaborations with five companies: Promise, OpenArt, FieldAI, Physical Intelligence, & Simile.
 
-The Walt Disney Company • 23h ago
+The Walt Disney Company • 1d ago
 
 ---
 
@@ -140,17 +156,31 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq](https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html)**
+
+OregonLive.com • 2h ago
+
+---
+
 **[Dream, build, destroy, repeat](https://news.mit.edu/2026/dream-build-destroy-repeat-combat-robotics-club-1104)**
 
 The MIT Combat Robotics Club (CRC) builds high-energy fighting machines to compete in House Battles and larger competitions. Fans of the hit show BattleBots may remember some of CRC’s past robots, including Uppercut, SawBlaze, the Dentist, and Overhaul.
 
-MIT News • 16h ago
+MIT News • 20h ago
 
 ---
 
 **[China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow](https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow)**
 
-Bloomberg • 15h ago
+Bloomberg.com • 19h ago
+
+---
+
+**[Hell in a Handbasket: Robotic Humanoid Torsos for Companionship](https://www.core77.com/posts/145830/Hell-in-a-Handbasket-Robotic-Humanoid-Torsos-for-Companionship)**
+
+Las-Vegas-based robotics company Realbotix is developing these Echo robots. These are companionship robots, imbued with AI software designed to carry conversations. To cut down on costs, the 'bots are just a head and torso, absent expensive joints and limbs. Four models are in
+
+Core77 • 10h ago
 
 ---
 
@@ -158,35 +188,7 @@ Bloomberg • 15h ago
 
 Anthropic's FlashProve uses cryptographic proofs to verify model responses while keeping proprietary weights hidden from users.
 
-Interesting Engineering • 18h ago
-
----
-
-**[The Anatomy Of Robots](https://www.forbes.com/sites/johnwerner/2026/11/04/the-anatomy-of-robots/)**
-
-Forbes • 1h ago
-
----
-
-**[Watch: Robots conquer 3,100 ancient steps in bold move to dominate world](https://newatlas.com/ai-humanoids/watch-robot-dogs-climb-giant-mountain/)**
-
-While robot dogs feel like old news now, setting them the challenge of racing up more than 3,000 uneven stone steps on the side of a mountain is more than just to show off what machines with legs can do. It's a huge lesson in their training.
-
-New Atlas • 21h ago
-
----
-
-**[Who's Buying The Future Of AI And Robotics: 2026 M&A Report](https://seekingalpha.com/article/4962467-whos-buying-future-of-ai-robotics-2026-mergers-and-acquistiions-report)**
-
-Seeking Alpha • 1h ago
-
----
-
-**[How GlobalLogic helped Haystack Robotics build a UV disinfection robot](https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/)**
-
-When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment.
-
-The Robot Report • 5h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -194,23 +196,43 @@ The Robot Report • 5h ago
 
 ## YouTube Videos: "robotics"
 
+**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
+
+Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
+
+📺 Agility
+
+👁️ 1K • 👍 72 • 💬 4 • ⏱️ 6:44 • 4h ago
+
+---
+
+**[Tesla Optimus Just Changed Everything! New AI Robot Abilities Revealed](https://www.youtube.com/watch?v=WoXCF-9ju_Y)**
+
+Tesla Optimus is getting smarter, more capable, and closer to becoming a truly autonomous humanoid robot! In this video, we ...
+
+📺 Ai_Mobility_News
+
+👁️ 75K • 👍 548 • 💬 68 • ⏱️ 16:12 • 4d ago
+
+---
+
+**[FIRST LOOK! New ULTIMATE Fafnir &amp; ASTRA Robot &amp; OPHAN Titan | WR - War Robots](https://www.youtube.com/watch?v=WGETP_IJpAw)**
+
+Buying D-Gems? Use code *BeefyWR* on WR Webshop — it helps support the channel:) https://wr.my.games/Beefster War ...
+
+📺 Beefy
+
+👁️ 26K • 👍 417 • 💬 216 • ⏱️ 6:34 • 5d ago
+
+---
+
 **[Humanoid Robot Puts Itself Away 🤯 AgiBot A3 Climbs Into Its Own Case](https://www.youtube.com/watch?v=M8w8ktnI2H8)**
 
 Time to go home The AgiBot A3 humanoid robot squats down, sits and lies back into its own travel case, right on the Chicago ...
 
 📺 KhanFlicks
 
-👁️ 75K • 👍 586 • 💬 98 • ⏱️ 0:22 • 6d ago
-
----
-
-**[Robots roaming grocery stores could put millions of retail jobs at risk](https://www.youtube.com/watch?v=OzrF9T08D98)**
-
-NewsNation's Nancy Loo reports on the growing number of robots used at grocery stores to check inventory and restock items, ...
-
-📺 NewsNation
-
-👁️ 80K • 👍 567 • 💬 232 • ⏱️ 5:15 • 6d ago
+👁️ 76K • 👍 599 • 💬 98 • ⏱️ 0:22 • 6d ago
 
 ---
 
@@ -220,7 +242,7 @@ I built a little AI powered robot that can play fetch. Meet Fetch, a fully auton
 
 📺 SECTOR 07
 
-👁️ 78K • 👍 2K • 💬 110 • ⏱️ 18:03 • 4d ago
+👁️ 81K • 👍 2K • 💬 111 • ⏱️ 18:03 • 4d ago
 
 ---
 
@@ -230,7 +252,7 @@ chinarobot #chinatechnology #chinainnovation Why China Is Winning The Giant Robo
 
 📺 Work Time
 
-👁️ 122K • 👍 1K • 💬 117 • ⏱️ 21:22 • 4d ago
+👁️ 124K • 👍 1K • 💬 119 • ⏱️ 21:22 • 4d ago
 
 ---
 
@@ -250,47 +272,27 @@ Original video credit: IG/@zeroframe_studio. This collection of interactive Robo
 
 📺 History Seeker
 
-👁️ 86K • 👍 2K • 💬 55 • ⏱️ 0:09 • 4d ago
+👁️ 86K • 👍 2K • 💬 55 • ⏱️ 0:09 • 5d ago
 
 ---
 
-**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
+**[AI Humanoid Robots Are Advancing TOO FAST…](https://www.youtube.com/watch?v=Mu_03JuGBa8)**
 
-For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
+AI humanoid robots are advancing at an incredible pace — and the next breakthrough could change how humans live and work.
 
-📺 Eric Cracks China
+📺 ejunky66
 
-👁️ 47K • 👍 2K • 💬 105 • ⏱️ 2:58 • 1d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
-
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 138K • 👍 895 • 💬 115 • ⏱️ 9:12 • 2d ago
+👁️ 4K • 👍 86 • 💬 1 • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[PhoneBot transforms cheap smartphones into walking robots with onboard AI and sensors #Robotics #AI](https://www.youtube.com/watch?v=O_UxGWCPzg4)**
+**[Inside Tesla’s Robot Academy - Preparing the Optimus Surge in 2027](https://www.youtube.com/watch?v=VtP5IBSko2g)**
 
-Phonebot turned a cheap old smartphone into the brain of a walking robot developed at Dennis Hong's UCLA robotics lab.
+Elon Musk just tore down the historic Model S and Model X lines in 46 days to build the Tesla Optimus humanoid robot at ...
 
-📺 Jordan Blake
+📺 Auto Aspect
 
-👁️ 38K • 👍 968 • 💬 9 • ⏱️ 1:00 • 6d ago
-
----
-
-**[Unitree Robotics launches GD-01, the first commercial manned mecha robot #Robotics #Mecha](https://www.youtube.com/watch?v=YYLURKBCiUg)**
-
-Unitree Robotics unveiled the GD-01, the world's first production-ready, manned mecha. This 8-foot-8, 1100-pound robot can ...
-
-📺 Egor Donde | AI News, No Hype
-
-👁️ 108K • 👍 1K • 💬 85 • ⏱️ 0:56 • 4d ago
+👁️ 39K • 👍 366 • 💬 46 • ⏱️ 25:55 • 4d ago
 
 ---
 
