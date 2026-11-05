@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-05T17:33:18.624845+00:00'
+updated: '2026-11-05T23:20:55.109422+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 05, 2026 at 17:33 UTC  
+**Last Updated:** November 05, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,000.00
+### $75,100.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -5.3%  
-**7d:** -1.7%  
-**30d:** -8.6%  
-**90d:** +17.1%  
-**1y:** -25.0%  
+**24h:** -6.3%  
+**7d:** -2.5%  
+**30d:** -9.4%  
+**90d:** +16.1%  
+**1y:** -25.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1525.02B
+**Market Cap:** $1516.93B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--39.8%
+-40.2%
 
 **All-Time Low:** $67.81
-+111762.6%
++111165.3%
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[can you stop moving for a second?](https://www.reddit.com/r/Bitcoin/comments/1xlgype/can_you_stop_moving_for_a_second/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Hey guys, I wanted to open a discussion about where we are in the cycle. Could this be the final major correction before the next leg up? In previous cycles, a hack involving a tier-1 exchange like Binance would have completely decimated the price and triggered pure panic across the market. This time, while we obviously saw a drop, BTC didn't crash nearly as hard as historical precedents would suggest. Every cycle has a major FUD event or "black swan" that pulls the price back significantly, but the market's response here felt remarkably stable. Given this resilience, how are you playing it? Is this the right spot to go heavy with a lump-sum purchase, or is it safer to stick to standard weekly DCA and play the long game? Curious to hear your thoughts and strategies right now.
 
-3d ago
+4d ago
 
 ---
 
@@ -119,7 +119,7 @@ FBI links 628 crypto wallet addresses to North Korea’s TraderTraitor after the
 
 **[Me checking my Binance account after the incident.](https://www.reddit.com/r/Bitcoin/comments/1xlfb1d/me_checking_my_binance_account_after_the_incident/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -127,7 +127,7 @@ FBI links 628 crypto wallet addresses to North Korea’s TraderTraitor after the
 
 I feel like Fidelity got their ducks in a row cause of their reputation. Coinbase too. But how can we compare these two to Binance? Any other people using fidelity custody worried now?
 
-3d ago
+4d ago
 
 ---
 
@@ -135,7 +135,7 @@ I feel like Fidelity got their ducks in a row cause of their reputation. Coinbas
 
 If the future of finance requires people to become their own bank, secure their own keys, and accept potentially irreversible losses, how many ordinary people will actually want that responsibility? I’ve been a Bitcoin investor for quite a while, but someone asked me this question and I didn’t have a good answer
 
-3d ago
+4d ago
 
 ---
 
@@ -149,39 +149,33 @@ If the future of finance requires people to become their own bank, secure their 
 
 ## Google News: "bitcoin"
 
-**[Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show](https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show)**
-
-CoinDesk • 13h ago
-
----
-
 **[Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs](https://bitcoinmagazine.com/markets/bitcoin-price-drops-below-75000-tech)**
 
 Bitcoin price fell about 5% to under $77,000 Thursday as a Nasdaq chip and AI selloff spilled into crypto and liquidated hundreds of millions in leveraged longs.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
-**[Bitcoin falls to seven-week low as tech selloff hits crypto](https://qz.com/bitcoin-seven-week-low-tech-selloff-crypto-110526)**
+**[Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show](https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show)**
 
-Bitcoin dropped as much as 5.8% as the Nasdaq 100 fell 6.4% in chip-led trading, adding to pressure from the Binance hack
-
-Quartz • 27m ago
+CoinDesk • 19h ago
 
 ---
 
-**[Bitcoin tumbles to $76,000 as post-election stock rally fades](https://finance.yahoo.com/markets/article/bitcoin-tumbles-to-76000-as-post-election-stock-rally-fades-171549230.html)**
+**[1 Unstoppable Cryptocurrency That Could Join Bitcoin in the $1 Trillion Club](https://www.fool.com/investing/2026/11/05/1-cryptocurrency-with-trillion-dollar-potential/?.tsrc=rss)**
+
+If Solana can replace Ethereum as the top Layer-1 blockchain network, then it has a potential path to a $1 trillion valuation.
+
+The Motley Fool • 49m ago
+
+---
+
+**[Bitcoin tumbles below $76,000 as post-election stock rally fades](https://finance.yahoo.com/markets/article/bitcoin-tumbles-below-76000-as-post-election-stock-rally-fades-174540188.html)**
 
 Bitcoin tumbled below $77,000 on Thursday as investors moved out of riskier assets amid a broad sell-off in stocks.
 
-Yahoo Finance • 17m ago
-
----
-
-**[Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff](https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep)**
-
-CoinDesk • 18m ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -189,33 +183,43 @@ CoinDesk • 18m ago
 
 Powered shell providers fell ~35% in October on funding fears, yet no signed leases were cancelled. Why we see the AI data center sell-off as a dislocation.
 
-VanEck • 19h ago
+VanEck • 1d ago
 
 ---
 
-**[Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda](https://www.bloomberg.com/news/articles/2026-11-04/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda)**
+**[Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story](https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data)**
 
-Bloomberg.com • 19h ago
+Forensic analysis finds thousands of customer deposit addresses drained hours after Mercado Bitcoin said it had stopped the breach on Monday.
 
----
-
-**[Bitcoin price analysis: What's next for BTC after U.S. midterms](https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades)**
-
-CoinDesk • 1d ago
+Decrypt • 3h ago
 
 ---
 
-**[Bitcoin gains to $80.3k as U.S. elections buoy risk appetite, but outlook unclear](https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-805k-as-us-elections-buoy-risk-appetite-but-outlook-unclear-5002271)**
+**[Robert Kiyosaki Issues Serious $40.5 Trillion Warning—Predicts Gold, Silver And Bitcoin Price Crash](https://www.forbes.com/sites/digital-assets/2026/11/05/robert-kiyosaki-issues-serious-405-trillion-warning-predicts-gold-silver-and-bitcoin-price-crash/)**
 
-Investing.com • 11h ago
+Forbes • 8h ago
 
 ---
 
-**[Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out](https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs)**
+**[Siebert projects Strategy could acquire 190,000 Bitcoin by Q3 2027](https://www.tradingview.com/news/cryptobriefing:599c6097d094b:0-siebert-projects-strategy-could-acquire-190-000-bitcoin-by-q3-2027/)**
 
-Bitcoin plunged nearly 5% as AI stocks sank, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering.
+Strategy already holds more Bitcoin than any other public company. Siebert Financial thinks it is nowhere near done.Siebert analyst Brian Vieten projects that Strategy could own approximately 1.04 million Bitcoin by the third quarter of 2027. He also reaffirmed his Buy rating and $350 price target…
 
-Decrypt • 1h ago
+TradingView • 5h ago
+
+---
+
+**[Trump Media Just Lost a Quarter of Its Value in a Day](https://247wallst.com/investing/2026/11/05/trump-media-just-lost-a-quarter-of-its-value-in-a-day/)**
+
+While the Dow surged, Trump Media sank to a record low, and no company announcement explained why. Behind the selloff sits a Bitcoin stockpile, a pending fusion merger, and a bet on what investors will pay for presidential ties.
+
+24/7 Wall St. • 5h ago
+
+---
+
+**[Bitcoin slips to $79k as post-midterm rally fades, outlook unclear](https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-805k-as-us-elections-buoy-risk-appetite-but-outlook-unclear-5002271)**
+
+Investing.com • 7h ago
 
 ---
 
@@ -227,7 +231,7 @@ Decrypt • 1h ago
 
 Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.
 
-⬆️ 30 • 💬 8 • 2d ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
+⬆️ 30 • 💬 8 • 3d ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
 
 ---
 
@@ -243,7 +247,7 @@ Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs developme
 
 Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.
 
-⬆️ 8 • 💬 1 • 4d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
+⬆️ 8 • 💬 1 • 5d ago • [Pavursec](https://pavursec.com/blog/stealmybitcoin/)
 
 ---
 
@@ -257,7 +261,7 @@ CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux s
 
 **[The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers](https://news.ycombinator.com/item?id=50357834)**
 
-⬆️ 3 • 💬 1 • 1d ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
+⬆️ 3 • 💬 1 • 2d ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
 
 ---
 
@@ -265,7 +269,7 @@ CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux s
 
 Wallets linked to Mercado Bitcoin’s security breach remained active after transactions were paused. The exchange said customers suffered no losses.
 
-⬆️ 2 • 💬 0 • 2d ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
+⬆️ 2 • 💬 0 • 3d ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
 
 ---
 
@@ -289,7 +293,7 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 An open-source browser bringing back Arc, with no account required and optional AI.
 
-⬆️ 2 • 💬 0 • 7h ago • [myArc](https://myarc.dev/)
+⬆️ 3 • 💬 0 • 13h ago • [myArc](https://myarc.dev/)
 
 ---
 
@@ -297,7 +301,7 @@ An open-source browser bringing back Arc, with no account required and optional 
 
 Discord is moving its apps fully over to the Rust programming language.
 
-⬆️ 180 • 💬 153 • 4h ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
+⬆️ 366 • 💬 317 • 10h ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 
 ---
 
@@ -311,17 +315,27 @@ Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 493 • 💬 46 • ⏱️ 1:08:29 • 3h ago
+👁️ 30K • 👍 759 • 💬 158 • ⏱️ 1:08:24 • 3h ago
 
 ---
 
-**[Midterm Massacre LAUNCHES Bitcoin Above $80,000!](https://www.youtube.com/watch?v=Hcr79FgPoDM)**
+**[It took one day to start rewriting the Clarity Act](https://www.youtube.com/watch?v=VpxrEMGvsfU)**
 
-Bitcoin is back above $80000 after the midterm elections, and Rustin explains why he thinks the results could be bullish.
+House Democrats are already working on a replacement for the Clarity Act, one day after taking both chambers. Reporting from ...
 
-📺 Simply Bitcoin
+📺 Yahoo Finance
 
-👁️ 27K • 👍 2K • 💬 113 • ⏱️ 14:29 • 18h ago
+👁️ 9K • 👍 320 • 💬 103 • ⏱️ 14:51 • 5h ago
+
+---
+
+**[THE BANK FAILURE JUST SHUT DOWN THE WHOLE COUNTRY (BITCOIN JUST DID IT)](https://www.youtube.com/watch?v=gy4WPzw4Dfo)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 21K • 👍 606 • 💬 124 • ⏱️ 15:15 • 7h ago
 
 ---
 
@@ -331,75 +345,67 @@ Democrats won the House and the Senate. Cory Klippsten expects very little to ch
 
 📺 Swan Bitcoin
 
-👁️ 577 • 👍 82 • 💬 6 • ⏱️ 6:57 • 2h ago
+👁️ 4K • 👍 210 • 💬 18 • ⏱️ 6:57 • 8h ago
 
 ---
 
-**[This Could Be the Next BIG Move on Bitcoin](https://www.youtube.com/watch?v=uAINN7KjDRs)**
+**[BITCOIN CRASHES (Is Bull Market OVER?)](https://www.youtube.com/watch?v=K0iTVA4MvHI)**
 
-The next big move on bitcoin explained. We discuss with trader Charlie Burton the recent pullback on bitcoin and whether it is still ...
+Bitcoin is crashing. Is the bull market over? Nick Valdez, Chief Crypto Strategist for Verified Investing, breaks down the major ...
 
-📺 Alessio Rastani
+📺 Verified Investing
 
-👁️ 50K • 👍 1K • 💬 186 • ⏱️ 8:16 • 1d ago
-
----
-
-**[EVERYTHING JUST CHANGED FOR BITCOIN &amp; ALTCOINS! #xrp #crypto #bitcoin #finance #midterms](https://www.youtube.com/watch?v=1f9HfMe1Ly8)**
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 410 • 💬 13 • ⏱️ 2:11 • 15h ago
+👁️ 12K • 👍 409 • 💬 34 • ⏱️ 20:29 • 4h ago
 
 ---
 
-**[THIS IS NEXT FOR BITCOIN...](https://www.youtube.com/watch?v=diCMMynLp9I)**
+**[Midterm Massacre LAUNCHES Bitcoin Above $80,000!](https://www.youtube.com/watch?v=Hcr79FgPoDM)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-3?vipCode=00dt&qrType=activity VIP3 & Free $1500 ...
+Bitcoin is back above $80000 after the midterm elections, and Rustin explains why he thinks the results could be bullish.
 
-📺 Crypto Rover
+📺 Simply Bitcoin
 
-👁️ 19K • 👍 783 • 💬 29 • ⏱️ 11:01 • 13h ago
+👁️ 30K • 👍 2K • 💬 118 • ⏱️ 14:29 • 23h ago
+
+---
+
+**[Bitcoin &amp; Stocks CRASHED HARD! When Will Bitcoin Bounce?](https://www.youtube.com/watch?v=oj0azKHJh1s)**
+
+Is the bull market still alive? Sign up for the Crypto Jebb Research Symposium: ...
+
+📺 Crypto Jebb
+
+👁️ 2K • 👍 131 • 💬 64 • ⏱️ 13:55 • 4h ago
+
+---
+
+**[Bitcoin Broke the October Low: Is $68,100 Next by December?](https://www.youtube.com/watch?v=e2-KjJdWbgM)**
+
+Question of the day: have the midterms marked the low for Bitcoin? Not yet. November broke the October low, and 0 of 5 such ...
+
+📺 Krown
+
+👁️ 6K • 👍 398 • 💬 106 • ⏱️ 14:44 • 5h ago
+
+---
+
+**[Bitcoin Is the Hedge Against a U.S. Default Nobody Sees Coming](https://www.youtube.com/watch?v=0dyNRJyco1s)**
+
+Jan Van Eck is the CEO of VanEck, a global asset manager with roughly $235 billion under management. In this conversation, we ...
+
+📺 Anthony Pompliano
+
+👁️ 1K • 👍 82 • 💬 1 • ⏱️ 27:42 • 1h ago
 
 ---
 
 **[Why Is Crypto Crashing Again? (Bitcoin Tracking S&amp;P and Nasdaq)](https://www.youtube.com/watch?v=hWEhVxcy9W0)**
 
-Why is crypto crashing again? Bitcoin is tracking the S&P and Nasdaq selloff. Watch $75K today and $80K on the weekly close.
+Why is crypto crashing again? Bitcoin was at about $80700 this morning and is back near $76K, and it came straight from stocks: ...
 
 📺 VirtualBacon
 
-👁️ 4K • 👍 255 • 💬 3 • ⏱️ 1:30:56 • 22h ago
-
----
-
-**[Crypto Holders: Get Ready For A MASSIVE November!!](https://www.youtube.com/watch?v=G_m6lLkcdDk)**
-
-Crypto Holders: Get Ready For A MASSIVE November!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Trade crypto ...
-
-📺 Altcoin Daily
-
-👁️ 65K • 👍 2K • 💬 144 • ⏱️ 11:33 • 17h ago
-
----
-
-**[Democrat Take Over is BULLISH For Bitcoin (Here is Why)](https://www.youtube.com/watch?v=8Zax-FK8ASk)**
-
-Democrats take control of Congress, putting Trump's crypto empire under pressure! We break down the latest crypto news, ...
-
-📺 Discover Crypto
-
-👁️ 12K • 👍 276 • 💬 76 • ⏱️ 1:03:57 • 22h ago
-
----
-
-**[Everything Is About To Change For Bitcoin And Altcoin Crypto Investors Could Make Out Like Bandits](https://www.youtube.com/watch?v=tnCkMPHx3Tw)**
-
-If you somehow missed it... the richest people on the planet are buying up as much XRP, Bitcoin & Ethereum as they possibly can.
-
-📺 Money Rules - Investing Tips 
-
-👁️ 12K • 👍 1K • 💬 164 • ⏱️ 15:43 • 5h ago
+👁️ 19K • 👍 433 • 💬 119 • ⏱️ 1:27:28 • 2h ago
 
 ---
 
