@@ -75,20 +75,6 @@
       "site_name": "0xca333.substack.com"
     },
     {
-      "title": "AI Can Breach Crypto Apps, Not Bitcoin \u2013 That's Where the Real Risk Lives",
-      "url": "https://www.ainvest.com/news/ai-breach-crypto-apps-bitcoin-real-risk-lives-2610/",
-      "hn_url": "https://news.ycombinator.com/item?id=50303963",
-      "author": "AInvest",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-10-30T13:56:59Z",
-      "object_id": "50303963",
-      "image": "https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1793190834415.jpg.png",
-      "description": "Michael Saylor argues AI risks target crypto apps, not Bitcoin's ledger, comparing it to AI threatening English via apps, not language itself.",
-      "favicon": "https://www.ainvest.com/favicon.ico",
-      "site_name": "AInvest"
-    },
-    {
       "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
       "url": "https://cointelegraph.com/news/mercado-bitcoin-hack",
       "hn_url": "https://news.ycombinator.com/item?id=50342589",
@@ -145,7 +131,7 @@
       "site_name": "Delving Bitcoin"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2026-11-05T01:40:12.918764+00:00"
+  "fetched_at": "2026-11-05T09:01:52.270058+00:00"
 }
