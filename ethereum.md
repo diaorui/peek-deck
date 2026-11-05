@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-05T17:33:18.630390+00:00'
+updated: '2026-11-05T23:20:55.114716+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 05, 2026 at 17:33 UTC  
+**Last Updated:** November 05, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.9%  
-**7d:** +0.5%  
-**30d:** -12.4%  
-**90d:** +17.6%  
-**1y:** -32.0%  
+**24h:** -8.4%  
+**7d:** -1.2%  
+**30d:** -13.9%  
+**90d:** +15.6%  
+**1y:** -33.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.02B
+**Market Cap:** $270.62B
 Rank #2
 
 **Circulating Supply:** 122,192,072 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.5%
+-55.2%
 
 **All-Time Low:** $0.43
-+519705.8%
++511402.9%
 
 ---
 
@@ -136,7 +136,7 @@ Found an old post on CREATE2 Wisp contracts (a contract created, used and selfde
 
 From the original post on x: Quantum computing poses a serious threat to the cryptography blockchains currently rely on, while advances in AI compress best estimates for the threat's timeline. That's why experts gathered in Cambridge to coordinate research upgrading our cryptography to be quantum-resistant.
 
-4d ago
+5d ago
 
 ---
 
@@ -152,11 +152,11 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 ## Google News: "ethereum"
 
-**[Ethereum Price Prediction 2040: ETH Outlook](https://bitcoinfoundation.org/news/analysis/ethereum-falls-4-as-solana-eth-ticker-collision-complicates-2040-outlook/)**
+**[Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.](https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/)**
 
-Ethereum fell 4% to $2,327 as a separate Solana token also used the ETH ticker, complicating the ethereum price prediction 2040 search and asset checks.
+If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom.
 
-Bitcoin Foundation • 1h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -168,25 +168,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin near $78,600, Ethereum at $2,300 as US midterm results put crypto regulation in focus](https://www.tradingview.com/news/moodys:8e75edd236e39:0-bitcoin-near-78-600-ethereum-at-2-300-as-us-midterm-results-put-crypto-regulation-in-focus/)**
-
-Bitcoin trades near the $78,000 mark on Wednesday amid institutional outflows and macroeconomic uncertainty. The cryptocurrency was trading at the $78,330 mark, and Ethereum was trading at $2,317.In the past 24 hours, Bitcoin and Ethereum were up 1.87% and 2.41%, respectively. Among the major altco…
-
-TradingView • 1d ago
-
----
-
 **[Current price of Ethereum for November 5, 2026](https://fortune.com/article/price-of-ethereum-11-05-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 9h ago
 
 ---
 
-**[ETHGas brings compliance controls to public Ethereum, but missed trade penalties sit at zero](https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero)**
+**[Bitcoin, Ethereum, XRP Slide as Peter Schiff Warns ‘Expect More Days Like Today’](https://www.tradingview.com/news/benzinga:9544553c4094b:0-bitcoin-ethereum-xrp-slide-as-peter-schiff-warns-expect-more-days-like-today/)**
 
-CoinDesk • 1d ago
+Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 5% Thursday, with Peter Schiff warning "expect more days like today."Schiff Calls Thursday’s Selloff ‘Perfectly Rational’Schiff noted that Wednesday’s stock rally following the Democratic landslide "made no sense," wh…
+
+TradingView • 4h ago
 
 ---
 
@@ -204,19 +198,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?](https://www.fool.com/investing/2026/11/04/is-googles-new-cryptocurrency-service-a-reason-to/)**
-
-The company's new platform plays to institutional cybersecurity concerns.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin and Ethereum await a bounce as stocks slide](https://www.kitco.com/opinion/2026-11-04/bitcoin-and-ethereum-await-bounce-stocks-slide)**
+**[Bitcoin squeezes higher as Ethereum momentum heats up](https://www.kitco.com/opinion/2026-11-05/bitcoin-squeezes-higher-ethereum-momentum-heats)**
 
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
 
-Kitco • 1d ago
+Kitco • 8h ago
 
 ---
 
@@ -228,9 +214,43 @@ ethereum.org • 2d ago
 
 ---
 
+**[Ethereum Holds Two-Thirds of Ripple’s $2.6 Billion RLUSD Stablecoin Even as Ripple CEO Pushes XRP Ledger](https://www.tipranks.com/news/ethereum-holds-two-thirds-of-ripples-2-6-billion-rlusd-stablecoin-even-as-ripple-ceo-pushes-xrp-ledger)**
+
+TipRanks • 8h ago
+
+---
+
+**[Ethereum outlines fork plan to reach Lean Ethereum by 2029](https://cryptobriefing.com/ethereum-fork-plan-lean-ethereum-2029/)**
+
+Ethereum's roadmap targets Lean Ethereum by 2029 via about seven hard forks, adding quantum-safe signatures and a projected 10x fee cut.
+
+Crypto Briefing • 22h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 95 • 💬 18 • ⏱️ 10:12 • 2h ago
+
+---
+
+**[Ethereum Price: Where This Correction Could End](https://www.youtube.com/watch?v=H6C2BP7r8pQ)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 124 • 💬 3 • ⏱️ 8:19 • 3h ago
+
+---
 
 **[Bitcoin And Ethereum Are Preparing For Something Massive Crypto Whales Are Doing The Unthinkable](https://www.youtube.com/watch?v=fI-6zqZly_M)**
 
@@ -238,7 +258,7 @@ When crypto prices fall, retail investors flee the market, unable to understand 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 538 • 💬 73 • ⏱️ 32:49 • 7h ago
+👁️ 8K • 👍 624 • 💬 136 • ⏱️ 32:49 • 12h ago
 
 ---
 
@@ -248,17 +268,27 @@ Is Ethereum having its Amazon moment? Sharplink CEO Joseph Chalom believes inves
 
 📺 Coinage
 
-👁️ 13K • 👍 148 • 💬 83 • ⏱️ 20:55 • 1d ago
+👁️ 15K • 👍 154 • 💬 84 • ⏱️ 20:55 • 1d ago
 
 ---
 
-**[Midterms Over, Selling ETH, Altcoin Breakouts Brewing, &amp; Portfolio Roasts](https://www.youtube.com/watch?v=s2BFuUAHbKs)**
+**[EMERGENCY UPDATE: BITCOIN CRASH (Trump Selling Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6is1CVOHTew)**
 
-Trump loses, ETH gone, altcoins trades, and BTC charts BITUNIX TRADE THE TOP COINS (available everywhere) ...
+EMERGENCY UPDATE: BITCOIN CRASH (Trump Selling Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Lark Davis
+📺 Crypto World
 
-👁️ 22K • 👍 458 • 💬 73 • ⏱️ 1:12:48 • 1d ago
+👁️ 4K • 👍 205 • 💬 122 • ⏱️ 22:10 • 4h ago
+
+---
+
+**[ICP is the SOLUTION! Vitalik&#39;s Message Raises a BIG Question for Ethereum](https://www.youtube.com/watch?v=27aZZXoGUSU)**
+
+Join the OC HERO Community: https://oc.app/community/s6uwt-5iaaa-aaaac-be5xa-cai/channel/3896146702 HERO: ...
+
+📺 Zero to Hero
+
+👁️ 707 • 👍 108 • 💬 12 • ⏱️ 20:41 • 4h ago
 
 ---
 
@@ -268,17 +298,7 @@ BITCOIN FLIPPED: IT'S HAPPENING AGAIN (Price Target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 13K • 👍 308 • 💬 100 • ⏱️ 21:26 • 20h ago
-
----
-
-**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=qeo2K_BmmXI)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 94 • 💬 68 • ⏱️ 23:02 • 1d ago
+👁️ 15K • 👍 311 • 💬 166 • ⏱️ 21:26 • 1d ago
 
 ---
 
@@ -288,7 +308,7 @@ WEEX - where my trade is placed (up to $10000+ in sign-up rewards) https://marze
 
 📺 Marzell Crypto
 
-👁️ 504 • 👍 12 • 💬 1 • ⏱️ 3:10 • 1d ago
+👁️ 546 • 👍 12 • 💬 1 • ⏱️ 3:10 • 1d ago
 
 ---
 
@@ -298,37 +318,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.c
 
 📺 Cilinix Crypto
 
-👁️ 761 • 👍 18 • 💬 4 • ⏱️ 4:41 • 1d ago
+👁️ 784 • 👍 18 • 💬 4 • ⏱️ 4:41 • 1d ago
 
 ---
 
-**[CRUCIAL XRP LEDGER SECURITY FLAW FOUND! Ethereum Was NOT Hacked!](https://www.youtube.com/watch?v=qWlCYaQ9RtQ)**
+**[ETHEREUM DOING THE RIPSKY!! 📈 NOVEMBER 4 $ETH](https://www.youtube.com/watch?v=YmmmMoNaMiM)**
 
-CRUCIAL XRP LEDGER SECURITY FLAW FOUND! ETHEREUM IS BETTER? Hey babes, an XRP Ledger flaw was found that ...
+ETHEREUM DOING THE RIPSKY!! NOVEMBER 4 $ETH.
 
-📺 CryptoWendyO
+📺 Overkill Trading
 
-👁️ 8K • 👍 213 • 💬 35 • ⏱️ 5:52 • 2d ago
-
----
-
-**[Ethereum&#39;s Bull Case Is Getting INSANE - Here Are 3 Reasons Why](https://www.youtube.com/watch?v=0JeoNGi7C_o)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 23K • 👍 399 • 💬 111 • ⏱️ 47:29 • 2d ago
-
----
-
-**[XRP, Bitcoin, Ethereum Liquidations: My Prediction Was Right! #shorts](https://www.youtube.com/watch?v=SToP-VLgL4s)**
-
-The market liquidations for XRP, Bitcoin, and Ethereum have arrived, just as predicted. Honesty and confronting issues are key to ...
-
-📺 Martyn Lucas INVESTOR
-
-👁️ 457 • 👍 18 • 💬 10 • ⏱️ 1:22 • 3h ago
+👁️ 2K • 👍 86 • 💬 3 • ⏱️ 2:58 • 1d ago
 
 ---
 
