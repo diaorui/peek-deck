@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Serve Robotics launches new business to become the AWS for robots",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BDTjhHVkwweU9jY0FBeEhpcWxIanNXa3QzLThVVEZ0cjl6S0tYZmFBeWxkRFI0T0xGcHlLR0psVUh4ekctWVE1NzJrMFVYWEl3MDBOdWg1NXdoT0duY2dMaU9xaTlyWmN5SXU4VldtZVJwNTRJUVA0YTZkV25UbjJtN1hWTXBfbmRhU1hxaU1LRlFtYjZ0eU9LcWJoZkhpZEE?oc=5",
-      "pub_date": 1793913300.0,
-      "article_url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
-      "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools."
-    },
-    {
       "headline": "China Blocks SoftBank\u2019s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -25,24 +15,64 @@
       "description": null
     },
     {
-      "headline": "Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTl9RN05YUkdVcGRrbHlvMTg4cm1yREpveDBMWXRWTm5aNWFZM0ZTazZBT2J0aXB2Z0J5RXVRTXpzWnpJM0xIckRLQ3dqa2RWM1JncUJMYWxpZzdVN3FGUFV3SE41d3F6bTAxei1nQnVyMmlJajZ4M2Y2ZU9QbE4xQzZSeEF6X3k4ZHptVldsa19sX1laT2poSDZvRHBUTGN1TTEtOE1rMFZPbkpIaHhYbjlMaEt4RWxJNnQzYXZ2b2tSTmlqdU5QZEJZcktSOWdkTERObjJsSGY?oc=5",
-      "pub_date": 1793898180.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html",
+      "headline": "China blocks SoftBank\u2019s $5.4 billion takeover of ABB\u2019s robotics division",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBJa2g4T1RZOXVuY3phU1ZicmlpM0kzUTdjNlBrMmtNZ29aNlBxZzNwQWkzam9WNVB6MGFwV2tERnA5WWNhWE9ZaWtKaV9JMDdpWHBKRjUyU2ZKU2lEN2R4U29ZQlo3T3g1cndpLUNqZXFhclphYzdyN0thaXM5WXl4UnN2eGZiUXd4SXdUenppTXNRTU1CV3RURnEyT05XUFRNUWFiMGNwN0QzYjVtS1Zoc24zcV9lWHV2eDZQckJwb2ZpS3g0OG9VMnpJaHJt?oc=5",
+      "pub_date": 1793848500.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Webster students show off their creations at SparX Robotics Open House",
-      "source": "13WHAM-TV",
-      "source_url": "https://13wham.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlhhOGUxM3lUMUliZk0wM1Axa1pTX1lscUo1SENwcDBwMDJlNlVGYmVJSTNOdXFfcl9kcXlDaWNjZnVtQkpKVWtRdldrM3NNX0Y2dHlXS1dBVy05cHBvaThXWmwyLXhhSVlUc2MxYzhNdTg2VTA5WHhGLVNXQU9VcmJtOHNOamhjUnZJR01mQ2VGcy1lUE1sdFBkNXN3X20tOUE?oc=5",
-      "pub_date": 1793932154.0,
-      "article_url": "https://13wham.com/news/local/webster-students-show-off-their-creations-at-sparx-robotics-open-house",
-      "image": "https://13wham.com/resources/media2/16x9/970/1320/0x174/90/f04c312d-8f86-4982-a1d7-3c2a0e8cd1b8-JKSSPARX_0001_frame_15650.jpeg",
-      "description": "13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton."
+      "headline": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
+      "pub_date": 1793879839.0,
+      "article_url": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Serve Robotics launches new business to become the AWS for robots",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BDTjhHVkwweU9jY0FBeEhpcWxIanNXa3QzLThVVEZ0cjl6S0tYZmFBeWxkRFI0T0xGcHlLR0psVUh4ekctWVE1NzJrMFVYWEl3MDBOdWg1NXdoT0duY2dMaU9xaTlyWmN5SXU4VldtZVJwNTRJUVA0YTZkV25UbjJtN1hWTXBfbmRhU1hxaU1LRlFtYjZ0eU9LcWJoZkhpZEE?oc=5",
+      "pub_date": 1793913300.0,
+      "article_url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
+      "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools."
+    },
+    {
+      "headline": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlVaZU1LeDhwOFdtY2ltb2ZHRV9mSHdENXZDYm83Nl92dUF2UWpJSU5TbWVzV2RvNXVBNGV4bkVIYmpMNE1LclE4ampWYXRnWkpuUVhrdS1VVE5tcFptakxSYzNGMWpqTkY0Z3BzVFk1WldlenFVcWJhU09WcWlwTUQ0MFY?oc=5",
+      "pub_date": 1793958258.0,
+      "article_url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5",
+      "pub_date": 1793841120.0,
+      "article_url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
+      "image": "https://i.insider.com/6aebcea0c54bfafa65abf24a?width=1200&format=jpeg",
+      "description": "The Oregon startup, whose humanoid robots carry heavy materials in factories and warehouses, is expected to begin trading on Nasdaq on Thursday."
+    },
+    {
+      "headline": "Kraken Robotics Announces $102 Million in New Orders",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXJNcjJUTXVkNUpwVnF3QVNmd0Z2VndpMUJiVnF5WUROWG4xMFFkQmhTYmxrSVkxdFc4Zm9oOUFfUG53TUhiTThGWXlxeWpkNHJqV1pVYUo3bmZlbmdZaExueTBicWZHTHdnUkU4TDlQVGd1UGlxWThkOGd5amJpSzVoRnktVm9NN19TYkpXTUU3MHpLbmFzUnhKZDFhUjYwd2Z2Mg?oc=5",
+      "pub_date": 1793878200.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-announces-102-million-113000868.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3e55b3fdca213f2ba55c551924ed059b691c4b62a9bdb73025483201b0ab2685/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fc670f674717e702a2d60df75e2d9c74c.jpg",
+      "description": "Announced orders now total $457 million in 2026, Q3 results to be released November 24TORONTO, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (\u201cKraken\u201d or the \u201cCompany\u201d) (TSX-V: PNG, OTCQB: KRKNF) is pleased to announce continued strength in new order activity with $102 million of new orders since its last update on August 27, 2026. Announced orders in 2026 for Kraken and its recently acquired Covelya Group Limited (\u201cCovelya Group\u201d) now total approximately $457 million. Over 60% of these"
     },
     {
       "headline": "A former Apple and Uber engineer raised $51 million to rethink the self-driving truck",
@@ -55,26 +85,6 @@
       "description": "Humble Robotics raised $51 million to build electric, cabless self-driving trucks. Founder Eyal Cohen previously worked at Apple, Uber, and Waabi."
     },
     {
-      "headline": "Powered by GPT-6, Unitree humanoid robots master painting without prior training",
-      "source": "SCMP",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa2JhbTlFSk1uZ1RhdEN3SXBXZWh6UkxiYVpIUWVOaV90dDdGbkw1enNoNkVEejVMbUpzc2ZId2QzU3JGMWJUak5CTDVZYURsdXk1cFFOQW5TV2EtY1VPU2ZCUWNTemRjRjJnbkhMZHVCdDRFcUFlVTFOdEVmSGg0Qkx1cUNSdjRpVkpFMmZXVFR6RGFDdDdqQUtObVZEemNNckRhQk9GYWZ0NDFWd0FrT3YweXhjM2lGX0ZRLVNXQThuTjIwVk5tQVlycVpsOGFsRGRHZlVn0gHWAUFVX3lxTFBlc3ZLQ2ZiUGVRVk9OWWU0b2tmMDIxaTkzZzN3NFBQMi0yWVNDeDRVOEpValRmSmQxZE1Ga2t3S2lqUmtRaHVETVhvN1Y3eHBldWNfcTgzUlZXUlZCLWgyRVR0MmZ2T2VIdFhXdzB6LXhBOENYaVRrZXI4MjlUcWI4bUV5N2U4VlNSMTAxa1JtWkNJZ1BPcTJBUnhmR2hjZ1dvS1lKOWZIRG90a0RHXzgxNmE2YUtBYVg3eXZEZ180NEUySFdUZHpISG1vX29QejRXSnIxdlE?oc=5",
-      "pub_date": 1793876423.0,
-      "article_url": "https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why are people attacking food delivery robots?",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EeU5BbVltRWw3WmtSUklfa3hOTVZ1b3dOVWxqSDA4bEZzdkRrVU5falJyeWV3Q0gyRXhBczJvbDVIZVJhUEtPX1Rfc0RwUnhjakhmZC1samxRTldEaXdIVzllaGUxbFdJQTdaVG11dDBEU19mTnZTdUxn?oc=5",
-      "pub_date": 1793883243.0,
-      "article_url": "https://www.foxnews.com/tech/why-people-attacking-food-delivery-robots",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/autonomous-food-delivery-robot-downtown-los-angeles.jpg",
-      "description": "A handful of food delivery robots from Uber Eats and other platforms have gotten kicked and knocked over in Philadelphia and Los Angeles."
-    },
-    {
       "headline": "Chinese Tourists Are Renting Robotic Exoskeletons to Climb Mountains. The Trend Is Spreading",
       "source": "ZME Science",
       "source_url": "https://www.zmescience.com",
@@ -85,26 +95,16 @@
       "description": "What began as an experiment has grown into a commercial tourism industry."
     },
     {
-      "headline": "Serve Robotics Inc. (SERV) Reports Q3 Earnings: What Key Metrics Have to Say",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1pqVWhfWDY1NmtlaEM0al81bjNZVjcyU3N5b3h3Uk8zX29yNmRnZ1JNMFJneUNRbi1iLWkzc21LeXJidjNLU05fRm9ybDNheWJkNWU4aW9nbW0wenV6Q2VlS3ZTWjl0alJuWnhjRnQweG8xMFRfeTBpRmhaS0o0UV9ndkhYa3VWZ1E2aW9yWjI1SVozWlJwZW9mMi0?oc=5",
-      "pub_date": 1793929275.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-inc-serv-reports-000001098.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c8d948833a3ec3636e870f29f97fb7132f06cb13e7a03565b1eba03999bcddf6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F46ebfcbff417ac1bbde85ad33fa0d4be.jpg",
-      "description": "The headline numbers for Serve Robotics Inc. (SERV) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals."
-    },
-    {
-      "headline": "NVIDIA\u2019s VFlash speeds robot trajectory decoding 12x, cuts prediction errors by 61%",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmIydkh4YmZrYVZRR3Z5Rml3UXhpSjZvTUE0czRveVQydURfaWR5elNXdUxBVTVyU3NCVno2bHdvcGpiSTQwQ1FvVFZPeF84MVVyUFNYV1QtU3pCWEVHT3VUN2ZxdmVnTDM2OHBJY09IRnR2aXFMYmhIZklLME53aUdlUnJzUVRjNHBXTEVaQzZkc1ZocXBEWEU3MTZUckxSZDc4?oc=5",
-      "pub_date": 1793923980.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/nvidia-vflash-robot-planning-speed-trajectory-accuracy",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/06/Untitled-design-9-1.jpg",
-      "description": "VFlash achieved 70.2% average robot manipulation success, compared with 62.6% for the baseline."
+      "headline": "Disney Accelerator's 2026 Demo Day Explores New Frontiers in Storytelling, Robotics, and Guest Experiences",
+      "source": "The Walt Disney Company",
+      "source_url": "https://thewaltdisneycompany.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jV0xVX0RpNEFreTE1QlZGNThiVlhnZmtCazBBQng0cEdjQzJnN0hsMGo4Q2hEOXdlREdwMzB3dUMwYm14NnZXRnN6WjVWa2twMGx2alJxeWJVaEYxVXIwZHZueS1tb1dLeEwybzZoTkNLdw?oc=5",
+      "pub_date": 1793744206.0,
+      "article_url": "https://thewaltdisneycompany.com/news/accelerator-demo-day-2026/",
+      "image": "https://thewaltdisneycompany.com/app/uploads/2026/11/20261103_DL3_2297-scaled.jpg",
+      "description": "The Disney Accelerator hosted its 2026 Demo Day, showcasing new collaborations with five companies: Promise, OpenArt, FieldAI, Physical Intelligence, & Simile."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-06T03:32:54.049951+00:00"
+  "fetched_at": "2026-11-06T11:51:42.046358+00:00"
 }
