@@ -153,6 +153,25 @@
       "project_page": "https://dingwu1021.github.io/VisSearch-Bench/"
     },
     {
+      "id": "2611.01560",
+      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+      "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
+      "ai_summary": "Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.",
+      "hf_url": "https://huggingface.co/papers/2611.01560",
+      "arxiv_url": "https://arxiv.org/abs/2611.01560",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.01560.png",
+      "upvotes": 48,
+      "num_comments": 1,
+      "published_at": "2026-10-31T20:00:00.000Z",
+      "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
+      "github_stars": 258,
+      "project_page": "https://openrua.ai/uni-robot-agent"
+    },
+    {
       "id": "2610.31329",
       "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
       "authors": "Tianming Liang, Junyi Pan, Yuxi Li et al. (8 authors)",
@@ -168,30 +187,11 @@
       "num_comments": 4,
       "published_at": "2026-10-21T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/WeVisOne-VL",
-      "github_stars": 1038,
+      "github_stars": 1048,
       "project_page": "https://tencent.github.io/WeVisOne-VL"
-    },
-    {
-      "id": "2611.01560",
-      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
-      "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
-      "ai_summary": "Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.",
-      "hf_url": "https://huggingface.co/papers/2611.01560",
-      "arxiv_url": "https://arxiv.org/abs/2611.01560",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.01560.png",
-      "upvotes": 47,
-      "num_comments": 1,
-      "published_at": "2026-10-31T20:00:00.000Z",
-      "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
-      "github_stars": 258,
-      "project_page": "https://openrua.ai/uni-robot-agent"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-06T18:57:42.915868+00:00"
+  "fetched_at": "2026-11-06T23:41:14.686018+00:00"
 }
