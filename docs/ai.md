@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-05T23:20:55.101602+00:00'
+updated: '2026-11-06T03:32:55.021418+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** November 05, 2026 at 23:20 UTC  
+**Last Updated:** November 06, 2026 at 03:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 In a recent interview,
 
-🔗 [AUTOMATON WEST](https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/) • 4h ago
+🔗 [AUTOMATON WEST](https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/) • 8h ago
 
 ---
 
@@ -49,7 +49,13 @@ In a recent interview,
 
 https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending
 
-15h ago
+19h ago
+
+---
+
+**[Data Center Siting and Community Opposition](https://www.reddit.com/r/artificial/comments/1xoybc8/data_center_siting_and_community_opposition/)**
+
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7675140) • 3h ago
 
 ---
 
@@ -57,7 +63,15 @@ https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-
 
 We’re sharing another finding from Anthropic’s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells.
 
-🔗 [anthropic.com](https://www.anthropic.com/research/investigating-vault-particles-with-claude) • 4h ago
+🔗 [anthropic.com](https://www.anthropic.com/research/investigating-vault-particles-with-claude) • 8h ago
+
+---
+
+**[Palantir Made $2.3 Billion Last Quarter and Calls Itself Antiwar](https://www.reddit.com/r/artificial/comments/1xozbic/palantir_made_23_billion_last_quarter_and_calls/)**
+
+Palantir posted $2.3 billion in Q1 2026 revenue while CEO Alex Karp claims the defense AI firm leads an antiwar movement, a tension worth scrutinizing.
+
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/palantir-made-2-3-billion-171727666.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAEVBsLqcecHC6WDduhb27k-_N6UHKU_dum-zuMbVpPBxwcQwi6lEtwfUEZKDcFn4MU6gbSYqd1ld-sWx4GMkX8u68tCi-5mXPUpXZ8ckcayb-yg6vhj3QG7Y1xM82YtuW2khqxi9HL2M_8LGKn1LALm2RjPsaeUtgb6l64oktlsk) • 2h ago
 
 ---
 
@@ -65,53 +79,37 @@ We’re sharing another finding from Anthropic’s biology research lab: the fir
 
 I feel like LLMs have made it much easier to learn about almost any subject. That got me wondering: is anyone here using them every day to study a specific topic in depth, with the goal of becoming an expert in that field? If so, what are you learning, and what does your daily learning routine look like?
 
-47m ago
+4h ago
+
+---
+
+**[Blind listening test: 62 people compared 8-bar piano loops written by 8 LLMs (Gemini, Claude, Qwen, Kimi, Grok, GPT-6.1, DeepSeek, Llama). Interim results](https://www.reddit.com/r/artificial/comments/1xoz9sv/blind_listening_test_62_people_compared_8bar/)**
+
+I ran this study. Short version: Gemini 4 Argon's loops were preferred most often (66% of pairings) and it was the only model that held up across all four styles. Claude Opus 5.5 was second (61%). Llama 4 Maverick was a distant last (27%). The five in between can't be separated yet. 62 listeners, 514 blind pairwise judgments so far. Listen first. The best-scoring loop across all 20 prompts from each of the four strongest models (Claude's is tied with one other), and the worst loop from the last-place model. Exactly as the raters heard them: same piano, same settings, ~20 s each, direct audio files. Hand-picked, so not a representative sample: Grok 4.7 — brief "Gospel-tinged and warm, with full, voiced chords". Chosen in 9 of its 10 pairings on this brief, the strongest single loop in the published set, from a model that is 48% overall. Gemini 4 Argon — "Hypnotic and repetitive, built on one insistent figure". 8 of 9. Kimi K3 — "Warm and optimistic, the kind of loop that makes you nod". 8 of 9. Claude Opus 5.5 — "Moody and haunting, with a sense of unease". 5 of 6. Llama 4 Maverick — the same "Moody and haunting" brief as the Claude one. 0 of 9. Blind version, 100-second video: four of the loops with the names hidden, reveal at the end. Question: 8 flagship LLMs each wrote 20 short piano loops as note lists, one per prompt, with a single attempt per prompt and no retries or revisions. Which model's loops do ordinary listeners prefer? This is about symbolic composition (notes), not audio-generation models, and not full songs. Setup Same 20 prompts to every model: 8 bars of 4/4 solo piano, 80–110 BPM, output as a JSON list of notes (pitch, start, duration, velocity). One line of musical direction varied, 5 prompts in each of 4 styles (dark/emotional, uplifting/catchy, soulful/jazzy, minimal/hypnotic). One answer per model per prompt. No retries, no system prompt, no examples, vendor default sampling. Invalid output was rejected, never repaired: 158 of 160 outputs were valid (Qwen lost 2 to reasoning overflow, the rest were 20/20). Every valid loop was rendered through the same sampled grand piano (Salamander, CC-BY) at fixed settings, no normalisation, so only the notes differ. 62 paid, untrained listeners heard two loops written for the same prompt, blind, and picked one. Each listener saw each prompt at most once and any one model at most 7 times. Interim results, 514 of 1,638 planned pairwise judgments (win rate over all pairings; 95% interval from a bootstrap resampling listeners) Model Won Lost Win rate 95% CI Gemini 4 Argon 84 43 66% 57–75 Claude Opus 5.5 77 49 61% 51–70 Qwen 3.8 Max 63 51 55% 45–65 Kimi K3 70 61 53% 44–62 Grok 4.7 62 66 48% 39–57 DeepSeek V4 Pro 60 70 46% 37–55 GPT-6.1 Terra Pro 60 70 46% 37–55 Llama 4 Maverick 38 104 27% 19–35 Gemini ranked first in 79% of bootstrap replicates, Claude in 18%. Gemini has a winning record against each of the other seven (12–7 vs Claude), but no single series is large enough to prove it beats any one of them. Llama was last in 100% of replicates and was shut out (zero wins) on 4 of the 20 prompts. The middle five can't be ordered yet; their intervals all include 50% and each other. Side of presentation didn't matter (left chosen 48%). By style: Gemini was 62–68% in all four. Qwen was 72% on dark prompts but 42% on uplifting. Grok 32% on uplifting, DeepSeek 33% on soulful, Claude best on soulful at 70%. Cells are 19–45 judgments, so treat these as hints. What the compositions look like: the leaders write 110–127 notes per 8 bars over about four octaves. DeepSeek writes 71 notes over two octaves. Llama writes 52 notes over 17 semitones with ~1% of notes below C3, basically no bass register at all. Gemini writes with the flattest dynamics (velocity SD 6.7) and the longest notes. What listeners went for: across all judgments the preferred loop had the wider pitch range 62% of the time (CI 57–67), more notes 59%, more bass 58%, and was the louder of the two 56%. The preferred loop had the larger velocity variation only 46% of the time. These are associations between correlated properties, not causes. Busier loops also render louder through a fixed piano, and the design can't separate the two. Limitations, honestly: interim at 31%; one generation per prompt, so within-model variance isn't measured; lay listeners, not musicians; one piano sound; the question wording changed after the first 96 judgments (re-running on the other 418 gives the same top two and the same last place); Llama was served by a third-party host at FP8, the only reduced-precision endpoint, so its result applies to that configuration. Analysis code was written with help from Claude, which is one of the arms; the judgments are human and the analysis is deterministic from the data. Happy to answer questions about the method. What would you change for the next round?
+
+2h ago
 
 ---
 
 **[The missing AI number](https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/)**
 
-🔗 [farhat-hadi.medium.com](https://farhat-hadi.medium.com/the-missing-ai-number-00a5b2554776) • 6h ago
+🔗 [farhat-hadi.medium.com](https://farhat-hadi.medium.com/the-missing-ai-number-00a5b2554776) • 10h ago
 
 ---
 
-**[Is the AI market correction about technology, politics, or both?](https://www.reddit.com/r/artificial/comments/1xoxdqr/is_the_ai_market_correction_about_technology/)**
+**[What’s the difference between a traditional PKMS and an AI-powered second brain?](https://www.reddit.com/r/artificial/comments/1xp0ael/whats_the_difference_between_a_traditional_pkms/)**
 
-The recent stock market decline raises some interesting questions about the future of AI. Technology companies are investing billions in AI infrastructure, while political uncertainty, trade policies, and questions about profitability are adding pressure. AI can be a revolutionary technology and still be overvalued in the stock market. Those two things aren’t mutually exclusive. How much of the current market uncertainty is driven by political decisions versus investors reconsidering their expectations for AI?
+A traditional Personal Knowledge Management System (PKMS) helps you organize, store and retrieve what you know. A second brain takes that further by helping you connect ideas, rediscover forgotten knowledge and put it to work. Andrej Karpathy explored this direction with his LLM Wiki concept, where AI organizes information into interconnected knowledge that compounds over time. I think the next evolution is making that knowledge useful to both humans and AI agents. I built Cohestry around this idea because I was drowning in notes, documents, PRDs and AI-generated research scattered across my workflow. Cohestry automatically discovers relationships between notes using deterministic connections and on-device Apple Intelligence, then resurfaces relevant information when you least expect it. While writing a PRD for a new EchoVault feature, it connected my work to the original, nameless concept I’d written months earlier. I hadn’t even remembered that document existed. Now I explore these relationships through a 3D knowledge graph. But the biggest goal is making that accumulated knowledge available to the AI agents I work with. Cohestry has a customizable MCP bridge that supplies relevant context to tools like Claude and ChatGPT without rebuilding it every session. It automatically redacts API keys and sensitive credentials before sharing context. It’s native to iPhone and Mac, built around privacy and zero-knowledge storage. I’m building toward a second brain where your knowledge becomes more useful the longer you use it. https://apps.apple.com/us/app/cohestry-second-brain/id6811573132
 
-5m ago
-
----
-
-**[Where Did the People in Between Go?](https://www.reddit.com/r/artificial/comments/1xog015/where_did_the_people_in_between_go/)**
-
-​ About forty years ago, if I wanted to call my aunt in America, I had to go to the telephone and telegraph office. I would request an international call and wait for the operator to connect me. I remember waiting an hour at a time. The voice on the other end of the receiver seemed to run a race down the telephone line and only reached me after a while. A lot of people worked in that office. Now I just take my phone out of my pocket and dial. No waiting, no asking anyone to connect me. Things have gotten so convenient. Where did the people in between go? Some took on other work, some retired, I suppose. They didn't all leave overnight. As the work that passed through human hands slowly shrank, the telephone office I remember changed along with it. Look at Korea's national telephone company. Machines that connected calls without an operator were developed in the mid-1980s. But the big waves of early retirement came more than twenty years later — thousands of people at a time. Technology doesn't replace people all at once. The people thin out after it has become ordinary, when no one is looking anymore. I heard that people who use AI a lot actually end up working longer hours. I believe it. As far as I can see, using AI right now doesn't shorten anyone's day or cut anyone's job. Many people still use it as a tool for finding answers — just as, when calculators arrived, there was still plenty of calculating left for people to do. But what happens when the AI that talks gets a body and starts to move, and every household brings in a robot? That, I think, is when people will begin handing over their place. Can we say that, just because people are busy now, human work will still be there then? Last night's news was about the American midterm elections. Once again, Musk's money was one of the big stories of the election. Why did he pour so much money into politics? I looked at that through the same lens. For a business that has already spent enormous sums in the belief that it will make money later, time matters. If policy changes and the business is delayed, the income gets pushed back while the costs keep running. If the investors who were waiting close their wallets, it gets even harder. It occurred to me that, for him, the money spent on politics might be the price of buying time — keeping the road clear so the business isn't delayed. This is my guess. I haven't seen his accounts, and I don't know his mind. Nor am I trying to condemn an American society where lobbying is legal, or to say which ideology, progressive or conservative, is right or wrong. It's just that companies invest while calculating the world to come, and they raise their voices in politics too. Meanwhile, as we enjoy the convenience of the moment, how much are we thinking about our own share? If the words and experiences we leave behind are used to grow this technology, then in the world that technology will change, where should our voice be? That is why I am building a future social contract, adding people's opinions to its seven clauses. Not because I think I know everything that will happen. I just want us to have at least one umbrella ready, together, for when the downpour comes. It's not that I dislike convenience. I use it every day too. It's just that, as we say in Korea, you don't notice you're getting wet in a drizzle until you're soaked through. I'm afraid people will only look at where they stand once they're already drenched. And I think that's already happening, which saddens me.
-
-12h ago
+2h ago
 
 ---
 
-**[Apple Watch now listens to in-person conversations & lets you rewind them](https://www.reddit.com/r/artificial/comments/1xntvml/apple_watch_now_listens_to_inperson_conversations/)**
+**[What is the best way to do what I'm trying to do? I'm trying to recreate Autodesk Maya as close as possible but a free version](https://www.reddit.com/r/artificial/comments/1xp082g/what_is_the_best_way_to_do_what_im_trying_to_do/)**
 
-Apple is introducing a new AI feature that allows Apple Watch users to rewind in-person conversations and see what someone just said.
+It's very basic so far but looks pretty good considering I started like 3 hours ago. Right now I'm simply asking ChatGPT to replicate certain features and functions I like in Maya (I've only focused on tools for 3D modeling and shaders and nothing else so far) and then downloading the development build and testing it. Also got it to read some documentation about the tools and navigation from the website. Thing is, I found out today that you can use AI to build your own programs and software, so I'm wondering if they way I'm going about this is slow and outdated? If there is a better way to construct what I am attempting to do then I'm all ears! My goal isn't to make a perfect replica, just something close, a little watered down while only keeping the features i need and use on a daily basis, and something that a Maya user can quickly understand.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/apple-watch-now-listens-to-in-person-conversations-lets-you-rewind-them-3424859/) • 1d ago
-
----
-
-**[Plugin4Shell Lets Repository Owners Swap Pinned Agents Across LLMS](https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/)**
-
-Do/How you scan your AI Addons (Skills, Plugins, MCP, MODs, etc) in your day 2 day work? This kind of Plugin4Shell attack Im not sure if the top scanner (ciso, nvidia etc) would catch it
-
-7h ago
-
----
-
-**[A logged AI prompt and a prompt tied to your name are two different problems](https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/)**
-
-Most AI privacy talk is about whether your prompt gets logged. OpenAI's API, for example, keeps abuse monitoring logs for up to 30 days unless it approves a customer for zero data retention, and those logs can include prompts. The other question is whether a log can be tied to you. With your own API key, every prompt sits under your account, and a VPN only hides your IP. A router puts its own account between you and the provider, but it still sees your account and your prompt together, so you're trusting its policy. Some setups split those two things instead. A relay knows who you are but only gets encrypted data, and a secure enclave reads the prompt without seeing who sent it. Your client can also verify what code the enclave is running. The model provider still gets the prompt, but nothing sent with it identifies you. It only holds if the relay and enclave don't collude, though, and anything you type into the prompt can still give you away. OpenAI's policy if you want to check: https://developers.openai.com/api/docs/guides/your-data If you could only have one, which would you pick: a provider that keeps nothing, or a log that can't be tied to you? What would change your answer? Disclosure: I work at Dreamfort AI, private AI for chat, image, and video which uses the relay and enclave approach, so I'm biased toward it.
-
-9h ago
+2h ago
 
 ---
 
@@ -119,53 +117,61 @@ Most AI privacy talk is about whether your prompt gets logged. OpenAI's API, for
 
 ## Google News: "ai"
 
-**[Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'](https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html)**
-
-Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.
-
-CNBC • 3h ago
-
----
-
-**[Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.](https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Blue Owl Sees Gains as Election Results Limit AI Compute Supply](https://www.bloomberg.com/news/articles/2026-11-05/blue-owl-sees-gains-as-election-results-limit-ai-compute-supply)**
-
-Bloomberg.com • 48m ago
-
----
-
 **[Stocks plunge as election outcome and AI worries crush tech shares](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650)**
 
 “Today is the cold shower that I anticipated might occur after a blue-wave situation,” said one analyst.
 
-NBC News • 17h ago
+NBC News • 1h ago
 
 ---
 
-**[Holiday hiring and AI in focus with October jobs report on deck](https://www.nbcnews.com/business/economy/october-jobs-report-ai-holiday-hiring-rcna607614)**
+**[How the midterms could fuel the K-shaped AI trade](https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html)**
 
-Wage growth is expected to remain sluggish and well below the latest rate of inflation.
+U.S. midterm results could slow data center development, raising the value of existing AI capacity while increasing pressure on debt-funded neoclouds.
 
-NBC News • 20m ago
-
----
-
-**[Scammers are using AI-generated photos to demand ransom for lost pets](https://www.news10.com/news/national/scammers-are-using-ai-generated-photos-to-demand-ransom-for-lost-pets/)**
-
-NEWS10 ABC • 59m ago
+CNBC • 16h ago
 
 ---
 
-**[Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)**
+**[Could putting AI data centers in space solve an environmental problem, or create a new one?](https://www.wral.com/business/technology/could-utting-ai-data-centers-in-space-solve-environmental-problem-or-create-one-nov-2026/)**
 
-Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.
+Google is already testing AI computing in orbit, and SpaceX has plans for a massive satellite network. A Duke University researcher explains why the environmental benefits are far from guaranteed.
 
-TechCrunch • 40m ago
+WRAL • 3h ago
+
+---
+
+**[Future of data centers in question as Midterm Election results slam AI industry](https://www.fox2detroit.com/news/future-data-centers-question-midterm-election-results-slam-ai-industry)**
+
+Democrats are looking to push tougher regulations on data centers just two days after regaining control of Congress and state lawmakers are following suit. Meantime, the AI industry is trying to regain its footing after a sharp reaction on Wall Street following Tuesday's midterm results.
+
+FOX 2 Detroit • 56m ago
+
+---
+
+**[3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million](https://apnews.com/article/artificial-intelligence-impersonation-theft-fraud-c348a0c96e941214e56f8d923d03fc4b)**
+
+AP News • 59m ago
+
+---
+
+**[How The 2026 Midterms Could Change Your Company’s AI Plans](https://www.forbes.com/sites/robertszczerba/2026/11/05/the-midterms-sent-a-warning-to-ai-four-things-to-watch-for/)**
+
+Forbes • 1h ago
+
+---
+
+**[Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says](https://www.adn.com/nation-world/2026/11/05/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says/)**
+
+The San Francisco-based company is planning to go public later this month in what could be the biggest initial public offering of stock ever.
+
+Anchorage Daily News • 12m ago
+
+---
+
+**[LeBron James' reps send cease-and-desist letter to 'Bron AI' sports betting app](https://www.espn.com/nba/story/_/id/50390289/lebron-james-reps-send-cease-desist-bron-ai-app)**
+
+ESPN • 10h ago
 
 ---
 
@@ -173,19 +179,15 @@ TechCrunch • 40m ago
 
 METR's high-access assessment of the degree to which AI is accelerating AI research and development at Anthropic.
 
-METR • 15h ago
+METR • 19h ago
 
 ---
 
-**[LeBron James' reps send cease-and-desist letter to 'Bron AI' sports betting app](https://www.espn.com/nba/story/_/id/50390289/lebron-james-reps-send-cease-desist-bron-ai-app)**
+**[Setting a new standard for responsible AI infrastructure](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/)**
 
-ESPN • 5h ago
+OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.
 
----
-
-**[Google Will Turn Off Search for Schools That Reject A.I.](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)**
-
-The New York Times • 2d ago
+OpenAI • 17h ago
 
 ---
 
@@ -197,7 +199,7 @@ The New York Times • 2d ago
 
 Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u...
 
-⬆️ 1513 • 💬 489 • 2d ago • [GitHub](https://github.com/postmanlabs/postman-app-support/issues/14370)
+⬆️ 1514 • 💬 489 • 2d ago • [GitHub](https://github.com/postmanlabs/postman-app-support/issues/14370)
 
 ---
 
@@ -205,7 +207,7 @@ Is there an existing issue for this? I have searched the tracker for existing si
 
 AI is forcing us to pay off 40 years of technical debt
 
-⬆️ 1258 • 💬 733 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
+⬆️ 1268 • 💬 741 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 
 ---
 
@@ -217,7 +219,7 @@ AI is forcing us to pay off 40 years of technical debt
 
 **[Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)**
 
-⬆️ 498 • 💬 626 • 1d ago
+⬆️ 509 • 💬 637 • 1d ago
 
 ---
 
@@ -241,7 +243,7 @@ This book provides a compact, derivation-oriented introduction to the mathematic
 
 Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown
 
-⬆️ 318 • 💬 314 • 1d ago • [the Guardian](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+⬆️ 319 • 💬 315 • 1d ago • [the Guardian](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
 
 ---
 
@@ -249,7 +251,7 @@ Nobel winner warns the tech could be near to triggering major incident such as p
 
 I document how I use AI, one year after my first writeup. Everything's completely different.
 
-⬆️ 256 • 💬 311 • 2d ago • [ben.stolovitz.com](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
+⬆️ 256 • 💬 314 • 2d ago • [ben.stolovitz.com](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
 
 ---
 
@@ -273,13 +275,33 @@ Qualcomm Cloud AI 100 Ultra accelerates generative AI. Discover cost-optimized s
 
 ## YouTube Videos: "ai"
 
-**[Nvidia Plunges 9% as AI Selloff Wipes Out $2.3 Trillion | Closing Bell](https://www.youtube.com/watch?v=50V2BcYo3ew)**
+**[AI Stock APOCALYPSE Hammers Markets](https://www.youtube.com/watch?v=VL5BmQtKixw)**
 
-Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
+Investors are fleeing AI stocks as the industry faces a reality check after the midterm elections. Cenk Uygur and Ana Kasparian ...
 
-📺 Bloomberg Television
+📺 The Young Turks
 
-👁️ 5K • 👍 521 • 💬 184 • ⏱️ 11:45 • 1h ago
+👁️ 21K • 👍 3K • 💬 578 • ⏱️ 21:21 • 1h ago
+
+---
+
+**[Stock market meltdown over A.I. fears](https://www.youtube.com/watch?v=R1vmfCfNXb8)**
+
+The NASDAQ fell by more than 5% as big tech companies connected to the A.I. build out led the stock market dramatically lower ...
+
+📺 NBC News
+
+👁️ 7K • 👍 62 • 💬 45 • ⏱️ 2:17 • 3h ago
+
+---
+
+**[Wall Street Is Panicking Over AI — Here&#39;s What Could Happen Next](https://www.youtube.com/watch?v=EiOEfnIGaHI)**
+
+Wall Street is panicking over AI — the Dow tumbled 1700 points and the Nasdaq plunged 5% as Nvidia, Microsoft, AMD and other ...
+
+📺 Snyder Reports
+
+👁️ 12K • 👍 686 • 💬 99 • ⏱️ 10:37 • 6h ago
 
 ---
 
@@ -289,27 +311,7 @@ Technology stocks plummeted on Thursday as traders assessed the implication of a
 
 📺 Bloomberg Podcasts
 
-👁️ 91K • 👍 663 • 💬 216 • ⏱️ 6:48 • 5h ago
-
----
-
-**[Dems take aim at AI giants and big tech after midterm wins](https://www.youtube.com/watch?v=10NNhjP4SN4)**
-
-Artificial intelligence companies could face a new wave of federal regulations as incoming Democratic majorities in Congress ...
-
-📺 13WHAM ABC News
-
-👁️ 4K • 👍 106 • 💬 83 • ⏱️ 2:03 • 2h ago
-
----
-
-**[A Disturbing Experiment Reveals How AI Agents Turn Against Each Other](https://www.youtube.com/watch?v=1Hb7UPImdGg)**
-
-Further Reading note: many references for this one have been used multiple times prior, if you need help finding it, let me know!
-
-📺 Gabriel Torch
-
-👁️ 25K • 👍 663 • 💬 264 • ⏱️ 5:57 • 15h ago
+👁️ 152K • 👍 809 • 💬 261 • ⏱️ 6:48 • 9h ago
 
 ---
 
@@ -319,17 +321,37 @@ On Tuesday, voters pushed back on AI data centers. Democrats won the House and t
 
 📺 In the Loop AI
 
-👁️ 36K • 👍 701 • 💬 212 • ⏱️ 22:17 • 11h ago
+👁️ 41K • 👍 761 • 💬 220 • ⏱️ 22:17 • 15h ago
 
 ---
 
-**[AI Fears Rattle Wall St., Safe Havens](https://www.youtube.com/watch?v=fNfpiLSJ0Lk)**
+**[I Thought 2 TB of RAM Was Overkill… My AI Agents Disagree](https://www.youtube.com/watch?v=nwXEAVW0jFE)**
 
-"Bloomberg Real Yield" highlights the market-moving news you need to know. Today's guests: Vanguard Senior Fixed Income ...
+My AI agents hit a wall with two RTX Pro 6000s, so naturally I pulled both cards out. Try out ChatLLM - http://chatllm.abacus.ai/ltf ...
+
+📺 Alex Ziskind
+
+👁️ 87K • 👍 1K • 💬 176 • ⏱️ 14:50 • 10h ago
+
+---
+
+**[Roman Yampolskiy Loses It With AI Expert](https://www.youtube.com/watch?v=EUMMxVRbI6A)**
+
+AI scientist Roman Yampolskiy warns there is a 99.9% chance artificial intelligence could wipe out humanity within a century.
+
+📺 Nexus
+
+👁️ 20K • 👍 326 • 💬 361 • ⏱️ 26:36 • 8h ago
+
+---
+
+**[Nvidia Plunges 9% as AI Selloff Wipes Out $2.3 Trillion | Closing Bell](https://www.youtube.com/watch?v=50V2BcYo3ew)**
+
+Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
 
 📺 Bloomberg Television
 
-👁️ 7K • 👍 56 • 💬 9 • ⏱️ 42:42 • 3h ago
+👁️ 145K • 👍 1K • 💬 452 • ⏱️ 11:45 • 6h ago
 
 ---
 
@@ -339,7 +361,7 @@ NVIDIA CEO Jensen Huang just revealed how far AI computing has come! From massiv
 
 📺 VisionX Lab
 
-👁️ 91K • 👍 2K • 💬 72 • ⏱️ 0:59 • 1d ago
+👁️ 97K • 👍 2K • 💬 76 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -349,27 +371,7 @@ BREAKING: Why Are AI Stocks CRASHING Today? (AI bubble popping?) https://www.you
 
 📺 Finance Stack
 
-👁️ 159K • 👍 1K • 💬 349 • ⏱️ 17:09 • 1d ago
-
----
-
-**[AI Just Exploded: Anthropic Hacked, $6 Billion Stolen, OpenAI’s Secret Model...](https://www.youtube.com/watch?v=pm7qRMBwPw4)**
-
-AI agents broke into Anthropic's internal business systems, and OpenAI just partnered with the startup behind it. Meanwhile ...
-
-📺 AI Revolution
-
-👁️ 70K • 👍 801 • 💬 55 • ⏱️ 13:30 • 22h ago
-
----
-
-**[AI STOCKS CRASH ON MARKET OPENING — &quot;RARE OMEN&quot; OF COLLAPSE](https://www.youtube.com/watch?v=sNj09deQ_f8)**
-
-Website & Livestream Chat - https://www.vaush.gg/ ⭐️ 2nd Channel - https://www.youtube.com/c/thevaushpit Twitter ...
-
-📺 Vaush
-
-👁️ 116K • 👍 4K • 💬 738 • ⏱️ 20:50 • 5h ago
+👁️ 165K • 👍 1K • 💬 352 • ⏱️ 17:09 • 1d ago
 
 ---
 
@@ -385,7 +387,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `image-text-to-text` `2780.1B`
 
-⬇️ 11,658 • ❤️ 907 • 16h ago
+⬇️ 11,658 • ❤️ 941 • 20h ago
 
 ---
 
@@ -397,31 +399,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 17,180 • ❤️ 765 • 7d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.
-
-`image-to-video`
-
-⬇️ 2,561,845 • ❤️ 10,721 • 25d ago
-
----
-
-**[Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex)**
-
-*Pika-Labs*
-
-Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, temporally coherent videos from static images. It excels at precise camera motion control, maintaining subject consistency, and adapting to various artistic styles, making it ideal for creative video production and visual storytelling.
-
-`image-to-video` `33.1B`
-
-⬇️ 863 • ❤️ 470 • 6d ago
+⬇️ 17,180 • ❤️ 795 • 7d ago
 
 ---
 
@@ -433,19 +411,19 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 157,157 • ❤️ 698 • 2d ago
+⬇️ 157,157 • ❤️ 712 • 2h ago
 
 ---
 
-**[Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)**
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
 
-*Mistral*
+*LTX.io*
 
-Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model supporting text and image inputs with a 1M context length. It excels in instruction following, reasoning, coding, and agentic workflows, with strong performance in cybersecurity, finance, and law, and state-of-the-art visual grounding.
+LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video, and video-to-video generation, offering advanced control for creative applications.
 
-`image-text-to-text`
+`image-to-video`
 
-⬇️ 9,592 • ❤️ 1,613 • 3d ago
+⬇️ 2,561,845 • ❤️ 10,743 • 25d ago
 
 ---
 
@@ -457,7 +435,31 @@ NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 4
 
 `automatic-speech-recognition` `33.7B`
 
-⬇️ 57,297 • ❤️ 3,054 • 7d ago
+⬇️ 57,297 • ❤️ 3,059 • 7d ago
+
+---
+
+**[Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)**
+
+*Mistral*
+
+Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model supporting text and image inputs with a 1M context length. It excels in instruction following, reasoning, coding, and agentic workflows, with strong performance in cybersecurity, finance, and law, and state-of-the-art visual grounding.
+
+`image-text-to-text`
+
+⬇️ 9,592 • ❤️ 1,615 • 3d ago
+
+---
+
+**[Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex)**
+
+*Pika-Labs*
+
+Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, temporally coherent videos from static images. It excels at precise camera motion control, maintaining subject consistency, and adapting to various artistic styles, making it ideal for creative video production and visual storytelling.
+
+`image-to-video` `33.1B`
+
+⬇️ 863 • ❤️ 475 • 7d ago
 
 ---
 
@@ -469,7 +471,7 @@ Numbat is a massive ~14T parameter, 114-layer causal language model featuring a 
 
 `6849.4B`
 
-⬇️ 8,789 • ❤️ 353 • 12d ago
+⬇️ 8,789 • ❤️ 355 • 12d ago
 
 ---
 
@@ -479,7 +481,7 @@ Numbat is a massive ~14T parameter, 114-layer causal language model featuring a 
 
 Sulphur-3 is a large language model developed by MiniMaxAI, designed for general-purpose text generation and understanding. Its key capabilities include advanced natural language processing tasks, making it suitable for a wide range of applications such as content creation, summarization, and conversational AI.
 
-⬇️ 607 • ❤️ 378 • 17h ago
+⬇️ 607 • ❤️ 381 • 21h ago
 
 ---
 
@@ -491,25 +493,13 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 8,037,597 • ❤️ 19,210 • 8h ago
+⬇️ 8,037,597 • ❤️ 19,215 • 12h ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 63 • 💬 5 • ⭐ 46,916 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
 
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
@@ -523,6 +513,18 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 63 • 💬 5 • ⭐ 46,957 • 15mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
 **[TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents](https://huggingface.co/papers/2610.22732)**
 
 *Aaron J. Li, Weijia Xu, Chandan Singh et al. (11 authors)*
@@ -531,7 +533,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 13 • 💬 2 • ⭐ 4,820 • 22d ago
+▲ 13 • 💬 2 • ⭐ 4,846 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -545,7 +547,7 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 67 • 💬 4 • ⭐ 22,778 • 28d ago
+▲ 67 • 💬 4 • ⭐ 22,828 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -562,6 +564,20 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 ▲ 110 • 💬 2 • ⭐ 16,694 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
+
+---
+
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 182 • 💬 10 • ⭐ 55,998 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -585,21 +601,9 @@ Uni-robot-agent enables open-weight robot-use agents to surpass proprietary mode
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 102 • 💬 7 • ⭐ 30,616 • 4mo ago
+▲ 102 • 💬 7 • ⭐ 30,651 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
-
----
-
-**[Differentiable Data Augmentation with Kornia](https://huggingface.co/papers/2011.09832)**
-
-*Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)*
-
-This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.
-
-▲ 1 • 💬 0 • ⭐ 12,340 • 72mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2011.09832) • [💻 code](https://github.com/arraiyopensource/kornia)
 
 ---
 
@@ -617,17 +621,15 @@ WeVisOne-VL unifies object-level and pixel-level visual perception via structure
 
 ---
 
-**[SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding](https://huggingface.co/papers/2611.02501)**
+**[Differentiable Data Augmentation with Kornia](https://huggingface.co/papers/2011.09832)**
 
-*Kunjun Li, Wenhao Chai, Yihao Liang et al. (10 authors)*
+*Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)*
 
-🏢 University of California, Berkeley
+This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.
 
-SpecPilot autonomously discovers deployment-specific algorithms and system optimizations to maximize speculative decoding speedups across diverse models, drafters, and serving regimes without quality loss.
+▲ 1 • 💬 0 • ⭐ 12,341 • 72mo ago
 
-▲ 19 • 💬 2 • ⭐ 152 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2611.02501) • [💻 code](https://github.com/StargazerX0/SpecPilot) • [🔗 project](https://stargazerx0.github.io/specpilot-project-page/)
+[🎓 arXiv](https://arxiv.org/abs/2011.09832) • [💻 code](https://github.com/arraiyopensource/kornia)
 
 ---
 
@@ -641,7 +643,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 17.2k • 🔱 1.7k • 7d ago
+⭐ 17.3k • 🔱 1.7k • 8d ago
 
 ---
 
@@ -651,7 +653,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 9.8k • 🔱 511 • 4d ago
+⭐ 9.9k • 🔱 525 • 4d ago
 
 ---
 
@@ -661,7 +663,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 7.1k • 🔱 1.6k • 7h ago
+⭐ 7.2k • 🔱 1.6k • 11h ago
 
 ---
 
@@ -671,7 +673,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 6.5k • 🔱 593 • 6h ago
+⭐ 6.6k • 🔱 596 • 6m ago
 
 ---
 
@@ -681,7 +683,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 6.1k • 🔱 1.5k • 1d ago
+⭐ 6.1k • 🔱 1.6k • 1d ago
 
 ---
 
@@ -691,7 +693,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `Swift` `ai-agent` `airplay` `automation` `computer-use` `dsh-plugin`
 
-⭐ 4.4k • 🔱 596 • 1h ago
+⭐ 4.5k • 🔱 600 • 5h ago
 
 ---
 
@@ -701,7 +703,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 4.0k • 🔱 255 • 14d ago
+⭐ 4.0k • 🔱 257 • 14d ago
 
 ---
 
@@ -711,17 +713,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
 
-⭐ 2.7k • 🔱 38 • 14h ago
-
----
-
-**[qybaihe/bla](https://github.com/qybaihe/bla)**
-
-🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.
-
-`TypeScript` `adversarial-ai` `claude-code` `cursor` `electron-security` `llm-security`
-
-⭐ 2.4k • 🔱 317 • 4h ago
+⭐ 2.7k • 🔱 38 • 18h ago
 
 ---
 
@@ -731,7 +723,17 @@ Google_AI_Pro_2Year_ZeroCost_Auto
 
 `Python`
 
-⭐ 2.3k • 🔱 943 • 1d ago
+⭐ 2.5k • 🔱 1.0k • 1d ago
+
+---
+
+**[qybaihe/bla](https://github.com/qybaihe/bla)**
+
+🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.
+
+`TypeScript` `adversarial-ai` `claude-code` `cursor` `electron-security` `llm-security`
+
+⭐ 2.4k • 🔱 319 • 1h ago
 
 ---
 
