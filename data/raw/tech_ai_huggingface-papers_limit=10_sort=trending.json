@@ -1,25 +1,6 @@
 {
   "papers": [
     {
-      "id": "2508.02739",
-      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The success of large-scale pre-training paradigm, exemplified by Large\nLanguage Models (LLMs), has inspired the development of Time Series Foundation\nModels (TSFMs). However, their application to financial candlestick (K-line)\ndata remains limited, often underperforming non-pre-trained architectures.\nMoreover, existing TSFMs often overlook crucial downstream tasks such as\nvolatility prediction and synthetic data generation. To address these\nlimitations, we propose Kronos, a unified, scalable pre-training framework\ntailored to financial K-line modeling. Kronos introduces a specialized\ntokenizer that discretizes continuous market information into token sequences,\npreserving both price dynamics and trade activity patterns. We pre-train Kronos\nusing an autoregressive objective on a massive, multi-market corpus of over 12\nbillion K-line records from 45 global exchanges, enabling it to learn nuanced\ntemporal and cross-asset representations. Kronos excels in a zero-shot setting\nacross a diverse set of financial tasks. On benchmark datasets, Kronos boosts\nprice series forecasting RankIC by 93% over the leading TSFM and 87% over the\nbest non-pre-trained baseline. It also achieves a 9% lower MAE in volatility\nforecasting and a 22% improvement in generative fidelity for synthetic K-line\nsequences. These results establish Kronos as a robust, versatile foundation\nmodel for end-to-end financial time series analysis. Our pre-trained model is\npublicly available at https://github.com/shiyu-coder/Kronos.",
-      "ai_summary": "Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.",
-      "hf_url": "https://huggingface.co/papers/2508.02739",
-      "arxiv_url": "https://arxiv.org/abs/2508.02739",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
-      "upvotes": 63,
-      "num_comments": 5,
-      "published_at": "2025-08-02T09:15:59.000Z",
-      "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 46916,
-      "project_page": null
-    },
-    {
       "id": "2412.20138",
       "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
@@ -39,6 +20,25 @@
       "project_page": null
     },
     {
+      "id": "2508.02739",
+      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The success of large-scale pre-training paradigm, exemplified by Large\nLanguage Models (LLMs), has inspired the development of Time Series Foundation\nModels (TSFMs). However, their application to financial candlestick (K-line)\ndata remains limited, often underperforming non-pre-trained architectures.\nMoreover, existing TSFMs often overlook crucial downstream tasks such as\nvolatility prediction and synthetic data generation. To address these\nlimitations, we propose Kronos, a unified, scalable pre-training framework\ntailored to financial K-line modeling. Kronos introduces a specialized\ntokenizer that discretizes continuous market information into token sequences,\npreserving both price dynamics and trade activity patterns. We pre-train Kronos\nusing an autoregressive objective on a massive, multi-market corpus of over 12\nbillion K-line records from 45 global exchanges, enabling it to learn nuanced\ntemporal and cross-asset representations. Kronos excels in a zero-shot setting\nacross a diverse set of financial tasks. On benchmark datasets, Kronos boosts\nprice series forecasting RankIC by 93% over the leading TSFM and 87% over the\nbest non-pre-trained baseline. It also achieves a 9% lower MAE in volatility\nforecasting and a 22% improvement in generative fidelity for synthetic K-line\nsequences. These results establish Kronos as a robust, versatile foundation\nmodel for end-to-end financial time series analysis. Our pre-trained model is\npublicly available at https://github.com/shiyu-coder/Kronos.",
+      "ai_summary": "Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.",
+      "hf_url": "https://huggingface.co/papers/2508.02739",
+      "arxiv_url": "https://arxiv.org/abs/2508.02739",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
+      "upvotes": 63,
+      "num_comments": 5,
+      "published_at": "2025-08-02T09:15:59.000Z",
+      "github_repo": "https://github.com/shiyu-coder/Kronos",
+      "github_stars": 46957,
+      "project_page": null
+    },
+    {
       "id": "2610.22732",
       "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
       "authors": "Aaron J. Li, Weijia Xu, Chandan Singh et al. (11 authors)",
@@ -54,7 +54,7 @@
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 4820,
+      "github_stars": 4846,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 22778,
+      "github_stars": 22828,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -94,6 +94,25 @@
       "github_repo": "https://github.com/FlashML-org/FreeToken",
       "github_stars": 16694,
       "project_page": "https://www.flashml.ai/"
+    },
+    {
+      "id": "2508.19205",
+      "title": "VibeVoice Technical Report",
+      "authors": "Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)",
+      "organization_name": "MicrosoftResearch",
+      "organization_fullname": "Microsoft Research",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
+      "summary": "This report presents VibeVoice, a novel model designed to synthesize\nlong-form speech with multiple speakers by employing next-token diffusion,\nwhich is a unified method for modeling continuous data by autoregressively\ngenerating latent vectors via diffusion. To enable this, we introduce a novel\ncontinuous speech tokenizer that, when compared to the popular Encodec model,\nimproves data compression by 80 times while maintaining comparable performance.\nThe tokenizer effectively preserves audio fidelity while significantly boosting\ncomputational efficiency for processing long sequences. Thus, VibeVoice can\nsynthesize long-form speech for up to 90 minutes (in a 64K context window\nlength) with a maximum of 4 speakers, capturing the authentic conversational\n``vibe'' and surpassing open-source and proprietary dialogue models.",
+      "ai_summary": "VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.",
+      "hf_url": "https://huggingface.co/papers/2508.19205",
+      "arxiv_url": "https://arxiv.org/abs/2508.19205",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.19205.png",
+      "upvotes": 182,
+      "num_comments": 10,
+      "published_at": "2025-08-26T13:09:12.000Z",
+      "github_repo": "https://github.com/microsoft/VibeVoice",
+      "github_stars": 55998,
+      "project_page": "https://microsoft.github.io/VibeVoice/"
     },
     {
       "id": "2611.01560",
@@ -130,26 +149,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 30616,
-      "project_page": null
-    },
-    {
-      "id": "2011.09832",
-      "title": "Differentiable Data Augmentation with Kornia",
-      "authors": "Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "In this paper we present a review of the Kornia differentiable data\naugmentation (DDA) module for both for spatial (2D) and volumetric (3D)\ntensors. This module leverages differentiable computer vision solutions from\nKornia, with an aim of integrating data augmentation (DA) pipelines and\nstrategies to existing PyTorch components (e.g. autograd for differentiability,\noptim for optimization). In addition, we provide a benchmark comparing\ndifferent DA frameworks and a short review for a number of approaches that make\nuse of Kornia DDA.",
-      "ai_summary": "This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.",
-      "hf_url": "https://huggingface.co/papers/2011.09832",
-      "arxiv_url": "https://arxiv.org/abs/2011.09832",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2011.09832.png",
-      "upvotes": 1,
-      "num_comments": 0,
-      "published_at": "2020-11-19T09:15:21.000Z",
-      "github_repo": "https://github.com/arraiyopensource/kornia",
-      "github_stars": 12340,
+      "github_stars": 30651,
       "project_page": null
     },
     {
@@ -172,26 +172,26 @@
       "project_page": "https://tencent.github.io/WeVisOne-VL"
     },
     {
-      "id": "2611.02501",
-      "title": "SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding",
-      "authors": "Kunjun Li, Wenhao Chai, Yihao Liang et al. (10 authors)",
-      "organization_name": "UCBerkeley",
-      "organization_fullname": "University of California, Berkeley",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
-      "summary": "Speculative decoding accelerates memory-bound LLM decoding with a lightweight drafter, and parallel drafters extend this speedup by drafting a whole block in one forward pass. However, it remains unclear whether their released systems (stock) attain the full speedup that parallel drafting permits. We identify three challenges. First, with one request, each step accepts few tokens but reads every target weight. Second, with batching, per-request verification work roughly halves the speedup over autoregressive (AR) decoding. Third, speculative decoding is deployment-specific, and no universal optimization fits every serving regime, drafter, target model and GPU. To address these challenges, we present SpecPilot, an autonomous agentic loop that discovers algorithms and systems optimizations for each deployment. In each round, a cost model locates the largest gaps between the current system and its ceiling. Parallel agents explore directions and integrate the successful ones. Token forcing checks every output token against stock to detect reward hacking. A structured memory carries validated mechanisms to new rounds and deployments. SpecPilot discovered a general lossless 12-bit weight format, tree verification for hybrid recurrent targets, two-level verification and three batching mechanisms. We evaluate it across four target models, three drafters, two GPU platforms and five benchmarks. Without training or quality loss, it raises the speedup over AR from stock's 4.46times to 10.87times with one request, and from 1.94times to 3.93times with batching.",
-      "ai_summary": "SpecPilot autonomously discovers deployment-specific algorithms and system optimizations to maximize speculative decoding speedups across diverse models, drafters, and serving regimes without quality loss.",
-      "hf_url": "https://huggingface.co/papers/2611.02501",
-      "arxiv_url": "https://arxiv.org/abs/2611.02501",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.02501.png",
-      "upvotes": 19,
-      "num_comments": 2,
-      "published_at": "2026-11-01T19:00:00.000Z",
-      "github_repo": "https://github.com/StargazerX0/SpecPilot",
-      "github_stars": 152,
-      "project_page": "https://stargazerx0.github.io/specpilot-project-page/"
+      "id": "2011.09832",
+      "title": "Differentiable Data Augmentation with Kornia",
+      "authors": "Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "In this paper we present a review of the Kornia differentiable data\naugmentation (DDA) module for both for spatial (2D) and volumetric (3D)\ntensors. This module leverages differentiable computer vision solutions from\nKornia, with an aim of integrating data augmentation (DA) pipelines and\nstrategies to existing PyTorch components (e.g. autograd for differentiability,\noptim for optimization). In addition, we provide a benchmark comparing\ndifferent DA frameworks and a short review for a number of approaches that make\nuse of Kornia DDA.",
+      "ai_summary": "This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.",
+      "hf_url": "https://huggingface.co/papers/2011.09832",
+      "arxiv_url": "https://arxiv.org/abs/2011.09832",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2011.09832.png",
+      "upvotes": 1,
+      "num_comments": 0,
+      "published_at": "2020-11-19T09:15:21.000Z",
+      "github_repo": "https://github.com/arraiyopensource/kornia",
+      "github_stars": 12341,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-05T23:20:25.794730+00:00"
+  "fetched_at": "2026-11-06T03:32:34.539240+00:00"
 }

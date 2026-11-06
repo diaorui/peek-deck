@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTl9RN05YUkdVcGRrbHlvMTg4cm1yREpveDBMWXRWTm5aNWFZM0ZTazZBT2J0aXB2Z0J5RXVRTXpzWnpJM0xIckRLQ3dqa2RWM1JncUJMYWxpZzdVN3FGUFV3SE41d3F6bTAxei1nQnVyMmlJajZ4M2Y2ZU9QbE4xQzZSeEF6X3k4ZHptVldsa19sX1laT2poSDZvRHBUTGN1TTEtOE1rMFZPbkpIaHhYbjlMaEt4RWxJNnQzYXZ2b2tSTmlqdU5QZEJZcktSOWdkTERObjJsSGY?oc=5",
-      "pub_date": 1793898180.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html",
-      "image": null,
-      "description": null
+      "headline": "Serve Robotics launches new business to become the AWS for robots",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BDTjhHVkwweU9jY0FBeEhpcWxIanNXa3QzLThVVEZ0cjl6S0tYZmFBeWxkRFI0T0xGcHlLR0psVUh4ekctWVE1NzJrMFVYWEl3MDBOdWg1NXdoT0duY2dMaU9xaTlyWmN5SXU4VldtZVJwNTRJUVA0YTZkV25UbjJtN1hWTXBfbmRhU1hxaU1LRlFtYjZ0eU9LcWJoZkhpZEE?oc=5",
+      "pub_date": 1793913300.0,
+      "article_url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
+      "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools."
     },
     {
       "headline": "China Blocks SoftBank\u2019s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
@@ -25,6 +25,26 @@
       "description": null
     },
     {
+      "headline": "Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTl9RN05YUkdVcGRrbHlvMTg4cm1yREpveDBMWXRWTm5aNWFZM0ZTazZBT2J0aXB2Z0J5RXVRTXpzWnpJM0xIckRLQ3dqa2RWM1JncUJMYWxpZzdVN3FGUFV3SE41d3F6bTAxei1nQnVyMmlJajZ4M2Y2ZU9QbE4xQzZSeEF6X3k4ZHptVldsa19sX1laT2poSDZvRHBUTGN1TTEtOE1rMFZPbkpIaHhYbjlMaEt4RWxJNnQzYXZ2b2tSTmlqdU5QZEJZcktSOWdkTERObjJsSGY?oc=5",
+      "pub_date": 1793898180.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Webster students show off their creations at SparX Robotics Open House",
+      "source": "13WHAM-TV",
+      "source_url": "https://13wham.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlhhOGUxM3lUMUliZk0wM1Axa1pTX1lscUo1SENwcDBwMDJlNlVGYmVJSTNOdXFfcl9kcXlDaWNjZnVtQkpKVWtRdldrM3NNX0Y2dHlXS1dBVy05cHBvaThXWmwyLXhhSVlUc2MxYzhNdTg2VTA5WHhGLVNXQU9VcmJtOHNOamhjUnZJR01mQ2VGcy1lUE1sdFBkNXN3X20tOUE?oc=5",
+      "pub_date": 1793932154.0,
+      "article_url": "https://13wham.com/news/local/webster-students-show-off-their-creations-at-sparx-robotics-open-house",
+      "image": "https://13wham.com/resources/media2/16x9/970/1320/0x174/90/f04c312d-8f86-4982-a1d7-3c2a0e8cd1b8-JKSSPARX_0001_frame_15650.jpeg",
+      "description": "13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton."
+    },
+    {
       "headline": "A former Apple and Uber engineer raised $51 million to rethink the self-driving truck",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -33,6 +53,26 @@
       "article_url": "https://www.businessinsider.com/humble-robotics-raises-51-million-for-cabless-self-driving-trucks-2026-11",
       "image": "https://i.insider.com/6aeb54449270da3cc6668010?width=1200&format=jpeg",
       "description": "Humble Robotics raised $51 million to build electric, cabless self-driving trucks. Founder Eyal Cohen previously worked at Apple, Uber, and Waabi."
+    },
+    {
+      "headline": "Powered by GPT-6, Unitree humanoid robots master painting without prior training",
+      "source": "SCMP",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa2JhbTlFSk1uZ1RhdEN3SXBXZWh6UkxiYVpIUWVOaV90dDdGbkw1enNoNkVEejVMbUpzc2ZId2QzU3JGMWJUak5CTDVZYURsdXk1cFFOQW5TV2EtY1VPU2ZCUWNTemRjRjJnbkhMZHVCdDRFcUFlVTFOdEVmSGg0Qkx1cUNSdjRpVkpFMmZXVFR6RGFDdDdqQUtObVZEemNNckRhQk9GYWZ0NDFWd0FrT3YweXhjM2lGX0ZRLVNXQThuTjIwVk5tQVlycVpsOGFsRGRHZlVn0gHWAUFVX3lxTFBlc3ZLQ2ZiUGVRVk9OWWU0b2tmMDIxaTkzZzN3NFBQMi0yWVNDeDRVOEpValRmSmQxZE1Ga2t3S2lqUmtRaHVETVhvN1Y3eHBldWNfcTgzUlZXUlZCLWgyRVR0MmZ2T2VIdFhXdzB6LXhBOENYaVRrZXI4MjlUcWI4bUV5N2U4VlNSMTAxa1JtWkNJZ1BPcTJBUnhmR2hjZ1dvS1lKOWZIRG90a0RHXzgxNmE2YUtBYVg3eXZEZ180NEUySFdUZHpISG1vX29QejRXSnIxdlE?oc=5",
+      "pub_date": 1793876423.0,
+      "article_url": "https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why are people attacking food delivery robots?",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EeU5BbVltRWw3WmtSUklfa3hOTVZ1b3dOVWxqSDA4bEZzdkRrVU5falJyeWV3Q0gyRXhBczJvbDVIZVJhUEtPX1Rfc0RwUnhjakhmZC1samxRTldEaXdIVzllaGUxbFdJQTdaVG11dDBEU19mTnZTdUxn?oc=5",
+      "pub_date": 1793883243.0,
+      "article_url": "https://www.foxnews.com/tech/why-people-attacking-food-delivery-robots",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/autonomous-food-delivery-robot-downtown-los-angeles.jpg",
+      "description": "A handful of food delivery robots from Uber Eats and other platforms have gotten kicked and knocked over in Philadelphia and Los Angeles."
     },
     {
       "headline": "Chinese Tourists Are Renting Robotic Exoskeletons to Climb Mountains. The Trend Is Spreading",
@@ -45,66 +85,26 @@
       "description": "What began as an experiment has grown into a commercial tourism industry."
     },
     {
-      "headline": "AIM Robotics Showcases Canadian Sovereign Airspace Technology at DND's 2026 Counter-UAS Sandbox",
-      "source": "IndyStar",
-      "source_url": "https://www.indystar.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZm9lenp4ZlVXZ2N5dmRoVlhySzlILWlpRXo4d0RBTUVJSU9OY3VsYzB5ZW5ZZFQ0S2JfVDBOQm1sZ21TUGJFWTBqT1NwU3RkUmZsUXZ5S3pLQ0Fmd0hqanBiUFBmT2ltME8yeEhwbGF5R2V6UjRZRUVYNkp3c3FsTTl1dGRUMHJTUGpLby1lUXAwMGRaUWFDN1ZZVFpZaWFVcjNnSlJWamlRVWowU2YtNURvZG9hamt6aVl3azFTZzNvckpZak1rRURGNWxwY01PcWY3TnJyZEFyNDludlZ2ZA?oc=5",
-      "pub_date": 1793905805.0,
-      "article_url": "https://www.indystar.com/press-release/story/146669/aim-robotics-showcases-canadian-sovereign-airspace-technology-at-dnds-2026-counter-uas-sandbox/",
-      "image": "https://pix.xpr.media/p/eyJzIjoiYTk4N2QzMjQtNDE1OC00NTc2LWJjZDQtNjE5NGEwZGM5NDk3IiwiYyI6ImUwNWQ5YTZjLTQ4OGMtNGIxNi04ZGU5LWYzODY3YjI0NzNlNSIsInYiOjF9.1EotScWCE61v8p8004MzMRwIbsoxr2xWsf8tShNbvyY.gif",
-      "description": "Waterloo-based technology company demonstrates integrated airspace intelligence capabilities in a Canadian defence"
+      "headline": "Serve Robotics Inc. (SERV) Reports Q3 Earnings: What Key Metrics Have to Say",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1pqVWhfWDY1NmtlaEM0al81bjNZVjcyU3N5b3h3Uk8zX29yNmRnZ1JNMFJneUNRbi1iLWkzc21LeXJidjNLU05fRm9ybDNheWJkNWU4aW9nbW0wenV6Q2VlS3ZTWjl0alJuWnhjRnQweG8xMFRfeTBpRmhaS0o0UV9ndkhYa3VWZ1E2aW9yWjI1SVozWlJwZW9mMi0?oc=5",
+      "pub_date": 1793929275.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-inc-serv-reports-000001098.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c8d948833a3ec3636e870f29f97fb7132f06cb13e7a03565b1eba03999bcddf6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F46ebfcbff417ac1bbde85ad33fa0d4be.jpg",
+      "description": "The headline numbers for Serve Robotics Inc. (SERV) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals."
     },
     {
-      "headline": "Noitom Robotics Introduces ITW-Ego Plus at CoRL 2026: In-the-Wild Egocentric Data With Full-Body Motion",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNGd4TkdURlhISjU2WXJYX2l4MmZ1VW5jMFZPcHgxN1ZHQ2RUQ0hRQjNHN3lmbkMwX0RoWFFVTXZUTGZhM1c4M3llUHJhWUR4ZFppUm1ZTEMxQmp4ZUpiTG9kVHVMaXBiYTVqcnZycDl6R1RlaVROeVdqNTk5WEdFUDQ2WGNTR0hPYnkzU2hub19yei1LVDVSRG9GbDZxSExWMVlGU3RjcVI5S0tJeEplMXRlcHZ4OHFORmpJcFlQZzBWLXFqTUxoVktHWnJNNU9xVDZWWVhIVjVOcXBSbzFVWVhQcjc4ZmdzQ1E?oc=5",
-      "pub_date": 1793889244.0,
-      "article_url": "https://www.usatoday.com/press-release/story/55875/noitom-robotics-introduces-itw-ego-plus-at-corl-2026-in-the-wild-egocentric-data-with-full-body-motion/",
-      "image": "https://pix.xpr.media/p/eyJzIjoiZWU2MmQ3N2EtMWE5OS00ZDQ0LWFkNDctZGJiZDkxMTNmZDUyIiwiYyI6ImMzNGY2NWRlLTdiZjUtNDVkYi1iYWMzLTljZmM4MDdhMTExZCIsInYiOjF9.KzoU2C0SUGKTQjk6VBUYIoKxLBy7TNTJHi0bjrVe2hM.gif",
-      "description": "Three main-track papers \u2014 HiPHI, OmniContact and AdaPT \u2014 presented Nov. 10; NEAR Lab research unit introduced; Booth"
-    },
-    {
-      "headline": "Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak",
-      "source": "Crunchbase News",
-      "source_url": "https://news.crunchbase.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVhDWjBLNUFWMzhqcDFjaTFBWVhLYmVGZXFSZXk2ZlpiZ2sxTWJBU2hGMXFKQ2JFYTAyYzBqeGJHZ0tCdkN3cUZjN05LZllmaDIxdFU2NlNQR2txZndzU0lYSGxoLURmQWRwSVFseEdvbEpyU251UFI5NTIzbU12cldOT1I3aDk2V0RMa0lOZU85dzNZaF9wNksxWkJQSklKdkRN?oc=5",
-      "pub_date": 1793880059.0,
-      "article_url": "https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/",
-      "image": "https://news.crunchbase.com/wp-content/uploads/AI-manufacturing.jpg",
-      "description": "Companies spanning construction and robotics have raised about $1.6 billion so far this year  \u2014\u00a0more than 4x the $389 million recorded in all of 2025 \u2014 according to Crunchbase data. The surge was driven by three companies that raised the majority of the funding."
-    },
-    {
-      "headline": "YYForce Publishes Updated Corporate Presentation Outlining Operating Businesses, Commercial Robotics and 2030 Priorities",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdkZRcmxVZkVvc0lBV01mX2xVRGlPRWJnVlcwSVdmMzAyNG5LaXVHWlJWNkJMSFFUS0xTTG5VbnlrUzlqY09nUGhCdUFRQVE2cHFQSnBaclNiOXlNU095Vi0wcXcwaTJDM2VwX2l2YkROa2d0YnlIWGJtYjJURjRkd3pISUF0d01CMXRvZE42MlluNEpoTnVRS0RFdFlON1NKcVhhV185Tkx0bndLOWF0VjFqOHdCc3ViRTBNX0Y5RVhiOF9pUWtxV2N5a2MxVFg4bWd2Xy1IOFZ3TFZyZjdEb3dCYVd3bC1tMWp4SzdPSWxlSDNtVktUWFZ3WDZ6MHFGUmo0b3RaRXV0X0s3?oc=5",
-      "pub_date": 1793881800.0,
-      "article_url": "https://www.morningstar.com/news/pr-newswire/20261105cn89940/yyforce-publishes-updated-corporate-presentation-outlining-operating-businesses-commercial-robotics-and-2030-priorities",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "description": null
-    },
-    {
-      "headline": "MIT students build combat robots designed to survive brutal battles",
+      "headline": "NVIDIA\u2019s VFlash speeds robot trajectory decoding 12x, cuts prediction errors by 61%",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2JyNlFVbVlGeGV1a1k2U3BFMTRINWhxTW44Ul91QzdCd05ibnJXcW1DbTBpRUpxODdpc1ZxVm9xLXFFb2plUUxBdDRhMWR1ZjRXc1EwSjNRdHBUbmxBdmZLcnlPTXBwUmVzRUN1Z2ZzbExwbWJEZ3ZGNWt6QWs2RGlObnpSQjNI?oc=5",
-      "pub_date": 1793886300.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/fighting-robots-get-armor-upgrades",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-7-1.jpg",
-      "description": "MIT students upgraded the ARES and KRATOS combat robots with enhanced armor and improved weapon systems."
-    },
-    {
-      "headline": "Strive Robotics Raises $3M+ to Build Physical AI for Manufacturing",
-      "source": "The National Law Review",
-      "source_url": "https://natlawreview.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGFiRlRzVllsaU1qeWhBRUFZUkNNQ3lvb0xKTkVNV1RiOFh2TjNQUVQ4eDJ0QzBRVENIY1lPVGUzT05PeTU2VjlNWmhGSGxjWEIxTnhTOFZSUmlLTnJmRGF1aEhXWDExbV84S0g1Q1J3VTFUMnMwcEdIb2o1aHhmMmpRQzl6SXJXWUt4Um9fTzBiUlFDcy00TDMtOUVJZw?oc=5",
-      "pub_date": 1793917163.0,
-      "article_url": "https://natlawreview.com/press-releases/strive-robotics-raises-3m-build-physical-ai-manufacturing",
-      "image": null,
-      "description": "Strive Robotics Team in the Lab"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmIydkh4YmZrYVZRR3Z5Rml3UXhpSjZvTUE0czRveVQydURfaWR5elNXdUxBVTVyU3NCVno2bHdvcGpiSTQwQ1FvVFZPeF84MVVyUFNYV1QtU3pCWEVHT3VUN2ZxdmVnTDM2OHBJY09IRnR2aXFMYmhIZklLME53aUdlUnJzUVRjNHBXTEVaQzZkc1ZocXBEWEU3MTZUckxSZDc4?oc=5",
+      "pub_date": 1793923980.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/nvidia-vflash-robot-planning-speed-trajectory-accuracy",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/06/Untitled-design-9-1.jpg",
+      "description": "VFlash achieved 70.2% average robot manipulation success, compared with 62.6% for the baseline."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-05T23:20:53.438143+00:00"
+  "fetched_at": "2026-11-06T03:32:54.049951+00:00"
 }
