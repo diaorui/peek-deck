@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Microsoft files patent for AI that can alter what people say during live broadcasts",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/",
+      "published": 1793939128.0,
+      "thumbnail": "https://external-preview.redd.it/OYS02feGdbBdhPhXqCKsZ-j59h_HxP7qLWRBp1u34ko.jpeg?width=640&crop=smart&auto=webp&s=c461c5d00105ba063ef412b2a7ea6627d98ba78d",
+      "external_url": "https://www.computerworld.com/article/4244752/microsoft-files-patent-for-ai-that-can-alter-what-people-say-during-live-broadcasts.html",
+      "site_name": "Computerworld",
+      "favicon": "https://www.computerworld.com/wp-content/themes/cw-b2b-child-theme/src/static/img/cw/apple-touch-icon.png",
+      "description": "Among other things, the system could potentially be customized to suit individual viewers' preferences."
+    },
+    {
       "title": "Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. \u201cIt\u2019s not a form of creation I find particularly interesting\u201d - AUTOMATON WEST",
       "author": "Resident-Fall4351",
       "url": "https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/",
@@ -11,6 +22,61 @@
       "site_name": "AUTOMATON WEST",
       "favicon": "https://automaton-media.com/en/wp-content/uploads/2021/03/cropped-automaton-sitelogo-120x120-1-180x180.png",
       "description": "In a recent interview,"
+    },
+    {
+      "title": "Tech stocks plunge on worries about AI and Democrats' midterm landslide",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1xp7ym7/tech_stocks_plunge_on_worries_about_ai_and/",
+      "published": 1793954709.0,
+      "thumbnail": "https://external-preview.redd.it/9IsoNtANBwB-SBhls8FDArHOEJ6-ZoTHUsgDgOSrNqI.jpeg?width=640&crop=smart&auto=webp&s=7391358b5d29b4f860a9e93d3b82212f19e1f6dc",
+      "external_url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "\u201cToday is the cold shower that I anticipated might\u00a0occur after a blue-wave situation,\u201d said one analyst."
+    },
+    {
+      "title": "Palantir Made $2.3 Billion Last Quarter and Calls Itself Antiwar",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xozbic/palantir_made_23_billion_last_quarter_and_calls/",
+      "published": 1793925813.0,
+      "thumbnail": "https://external-preview.redd.it/ubmG5TX5xozP3npHqBfi0zDn19628ACFHIfJZhMeNRI.jpeg?width=640&crop=smart&auto=webp&s=8c6cdd7313f7770d320a2a2c55da7cfe6bff8acd",
+      "external_url": "https://finance.yahoo.com/markets/stocks/articles/palantir-made-2-3-billion-171727666.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAEVBsLqcecHC6WDduhb27k-_N6UHKU_dum-zuMbVpPBxwcQwi6lEtwfUEZKDcFn4MU6gbSYqd1ld-sWx4GMkX8u68tCi-5mXPUpXZ8ckcayb-yg6vhj3QG7Y1xM82YtuW2khqxi9HL2M_8LGKn1LALm2RjPsaeUtgb6l64oktlsk",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "Palantir posted $2.3 billion in Q1 2026 revenue while CEO Alex Karp claims the defense AI firm leads an antiwar movement, a tension worth scrutinizing."
+    },
+    {
+      "title": "Are we learning AI or just learning to use ChatGPT?",
+      "author": "greatlearningglobal",
+      "url": "https://www.reddit.com/r/artificial/comments/1xp92cl/are_we_learning_ai_or_just_learning_to_use_chatgpt/",
+      "published": 1793959106.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "With AI tools becoming part of our everyday work, most of us have figured out how to write prompts and get useful outputs. But is that really enough? There's a difference between using AI to get things done and understanding how it works, where it can go wrong, and how to build something useful with it. As AI evolves, do you think understanding the fundamentals will become just as important as knowing how to use the tools?"
+    },
+    {
+      "title": "Most people in the UK think AI will take jobs \u2013 just not theirs",
+      "author": "HotMinuteUK",
+      "url": "https://www.reddit.com/r/artificial/comments/1xpai1a/most_people_in_the_uk_think_ai_will_take_jobs/",
+      "published": 1793964461.0,
+      "thumbnail": "https://external-preview.redd.it/vtBMGwFvRj8CNZBRS6X14_wF4fV1gD1j4sMKEzll97A.jpeg?width=640&crop=smart&auto=webp&s=dafc7f9eee468e55f74e7c7bb9ab569217faee4e",
+      "external_url": "https://hotminute.co.uk/2026/11/06/most-people-in-the-uk-think-ai-will-take-jobs-just-not-theirs/",
+      "site_name": "HotMinute",
+      "favicon": "https://hotminute.co.uk/wp-content/uploads/2026/04/cropped-hotminute-site-icon-180x180.png",
+      "description": "60% of working-age adults are worried that digital technologies will take over many jobs currently done by humans, only 22% of workers are concerned that their own job is at risk."
+    },
+    {
+      "title": "Contrarian opinion: the correction and the blue wave may help rebuild trust in AI.",
+      "author": "BubblyOption7980",
+      "url": "https://www.reddit.com/r/artificial/comments/1xpa8l3/contrarian_opinion_the_correction_and_the_blue/",
+      "published": 1793963499.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "$2.5 trillion in market value were wiped out yesterday as the NASDAQ plunged into correction territory. My take is that the blue wave is good news for AI. The industry needs to rebuild trust to create sustainable demand, and the new political reality in the U.S. can usher in sensible regulation to support this."
     },
     {
       "title": "Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.",
@@ -35,82 +101,16 @@
       "description": null
     },
     {
-      "title": "Investigating vault particles with Claude",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xor7bc/investigating_vault_particles_with_claude/",
-      "published": 1793905412.0,
-      "thumbnail": "https://external-preview.redd.it/REijHifphfLXDLzVEZZrvpLRTc2mentheXnHdKUFzgU.jpeg?width=640&crop=smart&auto=webp&s=c9d2a8f4ca3ac1b16cc251d550877bbe16712607",
-      "external_url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "We\u2019re sharing another finding from Anthropic\u2019s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells."
-    },
-    {
-      "title": "Palantir Made $2.3 Billion Last Quarter and Calls Itself Antiwar",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xozbic/palantir_made_23_billion_last_quarter_and_calls/",
-      "published": 1793925813.0,
-      "thumbnail": "https://external-preview.redd.it/ubmG5TX5xozP3npHqBfi0zDn19628ACFHIfJZhMeNRI.jpeg?width=640&crop=smart&auto=webp&s=8c6cdd7313f7770d320a2a2c55da7cfe6bff8acd",
-      "external_url": "https://finance.yahoo.com/markets/stocks/articles/palantir-made-2-3-billion-171727666.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAEVBsLqcecHC6WDduhb27k-_N6UHKU_dum-zuMbVpPBxwcQwi6lEtwfUEZKDcFn4MU6gbSYqd1ld-sWx4GMkX8u68tCi-5mXPUpXZ8ckcayb-yg6vhj3QG7Y1xM82YtuW2khqxi9HL2M_8LGKn1LALm2RjPsaeUtgb6l64oktlsk",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "Palantir posted $2.3 billion in Q1 2026 revenue while CEO Alex Karp claims the defense AI firm leads an antiwar movement, a tension worth scrutinizing."
-    },
-    {
-      "title": "Is anyone using LLMs daily to build expertise in a specific field ?",
-      "author": "himmetozcan",
-      "url": "https://www.reddit.com/r/artificial/comments/1xowfk2/is_anyone_using_llms_daily_to_build_expertise_in/",
-      "published": 1793918013.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I feel like LLMs have made it much easier to learn about almost any subject. That got me wondering: is anyone here using them every day to study a specific topic in depth, with the goal of becoming an expert in that field? If so, what are you learning, and what does your daily learning routine look like?"
-    },
-    {
-      "title": "Blind listening test: 62 people compared 8-bar piano loops written by 8 LLMs (Gemini, Claude, Qwen, Kimi, Grok, GPT-6.1, DeepSeek, Llama). Interim results",
-      "author": "antiochIst",
-      "url": "https://www.reddit.com/r/artificial/comments/1xoz9sv/blind_listening_test_62_people_compared_8bar/",
-      "published": 1793925681.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I ran this study. Short version: Gemini 4 Argon's loops were preferred most often (66% of pairings) and it was the only model that held up across all four styles. Claude Opus 5.5 was second (61%). Llama 4 Maverick was a distant last (27%). The five in between can't be separated yet. 62 listeners, 514 blind pairwise judgments so far. Listen first. The best-scoring loop across all 20 prompts from each of the four strongest models (Claude's is tied with one other), and the worst loop from the last-place model. Exactly as the raters heard them: same piano, same settings, ~20 s each, direct audio files. Hand-picked, so not a representative sample: Grok 4.7 \u2014 brief \"Gospel-tinged and warm, with full, voiced chords\". Chosen in 9 of its 10 pairings on this brief, the strongest single loop in the published set, from a model that is 48% overall. Gemini 4 Argon \u2014 \"Hypnotic and repetitive, built on one insistent figure\". 8 of 9. Kimi K3 \u2014 \"Warm and optimistic, the kind of loop that makes you nod\". 8 of 9. Claude Opus 5.5 \u2014 \"Moody and haunting, with a sense of unease\". 5 of 6. Llama 4 Maverick \u2014 the same \"Moody and haunting\" brief as the Claude one. 0 of 9. Blind version, 100-second video: four of the loops with the names hidden, reveal at the end. Question: 8 flagship LLMs each wrote 20 short piano loops as note lists, one per prompt, with a single attempt per prompt and no retries or revisions. Which model's loops do ordinary listeners prefer? This is about symbolic composition (notes), not audio-generation models, and not full songs. Setup Same 20 prompts to every model: 8 bars of 4/4 solo piano, 80\u2013110 BPM, output as a JSON list of notes (pitch, start, duration, velocity). One line of musical direction varied, 5 prompts in each of 4 styles (dark/emotional, uplifting/catchy, soulful/jazzy, minimal/hypnotic). One answer per model per prompt. No retries, no system prompt, no examples, vendor default sampling. Invalid output was rejected, never repaired: 158 of 160 outputs were valid (Qwen lost 2 to reasoning overflow, the rest were 20/20). Every valid loop was rendered through the same sampled grand piano (Salamander, CC-BY) at fixed settings, no normalisation, so only the notes differ. 62 paid, untrained listeners heard two loops written for the same prompt, blind, and picked one. Each listener saw each prompt at most once and any one model at most 7 times. Interim results, 514 of 1,638 planned pairwise judgments (win rate over all pairings; 95% interval from a bootstrap resampling listeners) Model Won Lost Win rate 95% CI Gemini 4 Argon 84 43 66% 57\u201375 Claude Opus 5.5 77 49 61% 51\u201370 Qwen 3.8 Max 63 51 55% 45\u201365 Kimi K3 70 61 53% 44\u201362 Grok 4.7 62 66 48% 39\u201357 DeepSeek V4 Pro 60 70 46% 37\u201355 GPT-6.1 Terra Pro 60 70 46% 37\u201355 Llama 4 Maverick 38 104 27% 19\u201335 Gemini ranked first in 79% of bootstrap replicates, Claude in 18%. Gemini has a winning record against each of the other seven (12\u20137 vs Claude), but no single series is large enough to prove it beats any one of them. Llama was last in 100% of replicates and was shut out (zero wins) on 4 of the 20 prompts. The middle five can't be ordered yet; their intervals all include 50% and each other. Side of presentation didn't matter (left chosen 48%). By style: Gemini was 62\u201368% in all four. Qwen was 72% on dark prompts but 42% on uplifting. Grok 32% on uplifting, DeepSeek 33% on soulful, Claude best on soulful at 70%. Cells are 19\u201345 judgments, so treat these as hints. What the compositions look like: the leaders write 110\u2013127 notes per 8 bars over about four octaves. DeepSeek writes 71 notes over two octaves. Llama writes 52 notes over 17 semitones with ~1% of notes below C3, basically no bass register at all. Gemini writes with the flattest dynamics (velocity SD 6.7) and the longest notes. What listeners went for: across all judgments the preferred loop had the wider pitch range 62% of the time (CI 57\u201367), more notes 59%, more bass 58%, and was the louder of the two 56%. The preferred loop had the larger velocity variation only 46% of the time. These are associations between correlated properties, not causes. Busier loops also render louder through a fixed piano, and the design can't separate the two. Limitations, honestly: interim at 31%; one generation per prompt, so within-model variance isn't measured; lay listeners, not musicians; one piano sound; the question wording changed after the first 96 judgments (re-running on the other 418 gives the same top two and the same last place); Llama was served by a third-party host at FP8, the only reduced-precision endpoint, so its result applies to that configuration. Analysis code was written with help from Claude, which is one of the arms; the judgments are human and the analysis is deterministic from the data. Happy to answer questions about the method. What would you change for the next round?"
-    },
-    {
-      "title": "The missing AI number",
-      "author": "Limp-Park7849",
-      "url": "https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/",
-      "published": 1793897186.0,
-      "thumbnail": "https://external-preview.redd.it/1KxD60oNnw5K3lACBzKfdfcB5mAH65IPOrrQhjoa7bM.png?width=640&crop=smart&auto=webp&s=0d2a609b05c2f30fc1875320c344dd123413dd02",
-      "external_url": "https://farhat-hadi.medium.com/the-missing-ai-number-00a5b2554776",
-      "site_name": "farhat-hadi.medium.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "What\u2019s the difference between a traditional PKMS and an AI-powered second brain?",
-      "author": "Mindless_Might_9759",
-      "url": "https://www.reddit.com/r/artificial/comments/1xp0ael/whats_the_difference_between_a_traditional_pkms/",
-      "published": 1793928634.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A traditional Personal Knowledge Management System (PKMS) helps you organize, store and retrieve what you know. A second brain takes that further by helping you connect ideas, rediscover forgotten knowledge and put it to work. Andrej Karpathy explored this direction with his LLM Wiki concept, where AI organizes information into interconnected knowledge that compounds over time. I think the next evolution is making that knowledge useful to both humans and AI agents. I built Cohestry around this idea because I was drowning in notes, documents, PRDs and AI-generated research scattered across my workflow. Cohestry automatically discovers relationships between notes using deterministic connections and on-device Apple Intelligence, then resurfaces relevant information when you least expect it. While writing a PRD for a new EchoVault feature, it connected my work to the original, nameless concept I\u2019d written months earlier. I hadn\u2019t even remembered that document existed. Now I explore these relationships through a 3D knowledge graph. But the biggest goal is making that accumulated knowledge available to the AI agents I work with. Cohestry has a customizable MCP bridge that supplies relevant context to tools like Claude and ChatGPT without rebuilding it every session. It automatically redacts API keys and sensitive credentials before sharing context. It\u2019s native to iPhone and Mac, built around privacy and zero-knowledge storage. I\u2019m building toward a second brain where your knowledge becomes more useful the longer you use it. https://apps.apple.com/us/app/cohestry-second-brain/id6811573132"
-    },
-    {
-      "title": "What is the best way to do what I'm trying to do? I'm trying to recreate Autodesk Maya as close as possible but a free version",
-      "author": "Kiiaro",
-      "url": "https://www.reddit.com/r/artificial/comments/1xp082g/what_is_the_best_way_to_do_what_im_trying_to_do/",
-      "published": 1793928452.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It's very basic so far but looks pretty good considering I started like 3 hours ago. Right now I'm simply asking ChatGPT to replicate certain features and functions I like in Maya (I've only focused on tools for 3D modeling and shaders and nothing else so far) and then downloading the development build and testing it. Also got it to read some documentation about the tools and navigation from the website. Thing is, I found out today that you can use AI to build your own programs and software, so I'm wondering if they way I'm going about this is slow and outdated? If there is a better way to construct what I am attempting to do then I'm all ears! My goal isn't to make a perfect replica, just something close, a little watered down while only keeping the features i need and use on a daily basis, and something that a Maya user can quickly understand."
+      "title": "Brands lean into human creativity as handcrafted art becomes more of a luxury in the age of AI",
+      "author": "nbcnews",
+      "url": "https://www.reddit.com/r/artificial/comments/1xp8q4l/brands_lean_into_human_creativity_as_handcrafted/",
+      "published": 1793957767.0,
+      "thumbnail": "https://external-preview.redd.it/bdcjoOh01-P0yT3y_Mpa9T-xf5sZTF0NXVw8qiRwih4.jpeg?width=640&crop=smart&auto=webp&s=29201281df511cbfc28bcfe829f3ebcab91bbe88",
+      "external_url": "https://www.nbcnews.com/pop-culture/pop-culture-news/brands-lean-human-creativity-handcrafted-art-becomes-luxury-age-ai-rcna607134",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "Artists say brands are embracing traditional art forms and making a point to show off the human labor behind their campaigns."
     }
   ],
-  "fetched_at": "2026-11-06T03:32:28.664801+00:00"
+  "fetched_at": "2026-11-06T11:51:21.003191+00:00"
 }
