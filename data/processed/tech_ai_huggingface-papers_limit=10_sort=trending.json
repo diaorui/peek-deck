@@ -16,7 +16,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 120780,
+      "github_stars": 120859,
       "project_page": null
     },
     {
@@ -77,6 +77,25 @@
       "project_page": "https://harness2.github.io/"
     },
     {
+      "id": "2508.19205",
+      "title": "VibeVoice Technical Report",
+      "authors": "Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)",
+      "organization_name": "MicrosoftResearch",
+      "organization_fullname": "Microsoft Research",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
+      "summary": "This report presents VibeVoice, a novel model designed to synthesize\nlong-form speech with multiple speakers by employing next-token diffusion,\nwhich is a unified method for modeling continuous data by autoregressively\ngenerating latent vectors via diffusion. To enable this, we introduce a novel\ncontinuous speech tokenizer that, when compared to the popular Encodec model,\nimproves data compression by 80 times while maintaining comparable performance.\nThe tokenizer effectively preserves audio fidelity while significantly boosting\ncomputational efficiency for processing long sequences. Thus, VibeVoice can\nsynthesize long-form speech for up to 90 minutes (in a 64K context window\nlength) with a maximum of 4 speakers, capturing the authentic conversational\n``vibe'' and surpassing open-source and proprietary dialogue models.",
+      "ai_summary": "VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.",
+      "hf_url": "https://huggingface.co/papers/2508.19205",
+      "arxiv_url": "https://arxiv.org/abs/2508.19205",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.19205.png",
+      "upvotes": 183,
+      "num_comments": 10,
+      "published_at": "2025-08-26T13:09:12.000Z",
+      "github_repo": "https://github.com/microsoft/VibeVoice",
+      "github_stars": 55998,
+      "project_page": "https://microsoft.github.io/VibeVoice/"
+    },
+    {
       "id": "2608.16157",
       "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
       "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
@@ -92,46 +111,8 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 16694,
+      "github_stars": 16722,
       "project_page": "https://www.flashml.ai/"
-    },
-    {
-      "id": "2508.19205",
-      "title": "VibeVoice Technical Report",
-      "authors": "Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)",
-      "organization_name": "MicrosoftResearch",
-      "organization_fullname": "Microsoft Research",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
-      "summary": "This report presents VibeVoice, a novel model designed to synthesize\nlong-form speech with multiple speakers by employing next-token diffusion,\nwhich is a unified method for modeling continuous data by autoregressively\ngenerating latent vectors via diffusion. To enable this, we introduce a novel\ncontinuous speech tokenizer that, when compared to the popular Encodec model,\nimproves data compression by 80 times while maintaining comparable performance.\nThe tokenizer effectively preserves audio fidelity while significantly boosting\ncomputational efficiency for processing long sequences. Thus, VibeVoice can\nsynthesize long-form speech for up to 90 minutes (in a 64K context window\nlength) with a maximum of 4 speakers, capturing the authentic conversational\n``vibe'' and surpassing open-source and proprietary dialogue models.",
-      "ai_summary": "VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.",
-      "hf_url": "https://huggingface.co/papers/2508.19205",
-      "arxiv_url": "https://arxiv.org/abs/2508.19205",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.19205.png",
-      "upvotes": 182,
-      "num_comments": 10,
-      "published_at": "2025-08-26T13:09:12.000Z",
-      "github_repo": "https://github.com/microsoft/VibeVoice",
-      "github_stars": 55998,
-      "project_page": "https://microsoft.github.io/VibeVoice/"
-    },
-    {
-      "id": "2611.01560",
-      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
-      "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
-      "ai_summary": "Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.",
-      "hf_url": "https://huggingface.co/papers/2611.01560",
-      "arxiv_url": "https://arxiv.org/abs/2611.01560",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.01560.png",
-      "upvotes": 47,
-      "num_comments": 1,
-      "published_at": "2026-10-31T20:00:00.000Z",
-      "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
-      "github_stars": 230,
-      "project_page": "https://openrua.ai/uni-robot-agent"
     },
     {
       "id": "2606.23050",
@@ -153,6 +134,25 @@
       "project_page": null
     },
     {
+      "id": "2611.01560",
+      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+      "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
+      "ai_summary": "Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.",
+      "hf_url": "https://huggingface.co/papers/2611.01560",
+      "arxiv_url": "https://arxiv.org/abs/2611.01560",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.01560.png",
+      "upvotes": 47,
+      "num_comments": 1,
+      "published_at": "2026-10-31T20:00:00.000Z",
+      "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
+      "github_stars": 238,
+      "project_page": "https://openrua.ai/uni-robot-agent"
+    },
+    {
       "id": "2610.31329",
       "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
       "authors": "Tianming Liang, Junyi Pan, Yuxi Li et al. (8 authors)",
@@ -164,11 +164,11 @@
       "hf_url": "https://huggingface.co/papers/2610.31329",
       "arxiv_url": "https://arxiv.org/abs/2610.31329",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.31329.png",
-      "upvotes": 44,
+      "upvotes": 45,
       "num_comments": 4,
       "published_at": "2026-10-21T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/WeVisOne-VL",
-      "github_stars": 1009,
+      "github_stars": 1038,
       "project_page": "https://tencent.github.io/WeVisOne-VL"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-06T03:32:34.539240+00:00"
+  "fetched_at": "2026-11-06T11:51:17.016330+00:00"
 }

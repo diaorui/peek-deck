@@ -5,14 +5,54 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Stocks plunge as election outcome and AI worries crush tech shares",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
-      "pub_date": 1793929991.0,
-      "article_url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-Nasdaq-ch-1005-abf86d.jpg",
-      "description": "\u201cToday is the cold shower that I anticipated might\u00a0occur after a blue-wave situation,\u201d said one analyst."
+      "headline": "Global tech stocks plunge amid AI slowdown fears - live updates",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLOFVxRnRvbGdVMGt1OURWc3Y3SFhRc29RNXRld184ZVBJb0tJSm9oaGhMQ25zSWpHQUd6cjhaRnFVM1NiUGZUTGRWejJ5b3VBeXZIbUR3?oc=5",
+      "pub_date": 1793965183.0,
+      "article_url": "https://www.bbc.com/news/live/cq62yy619r5dt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9173/live/ef4e9330-d9b8-11f1-a701-fddedf244c16.jpg",
+      "description": "It comes after Democrats won control of US Congress in this week's midterm elections, with some candidates pledging to slow the growth of data centres and AI."
+    },
+    {
+      "headline": "How A.I. Just Blew Up a Key Tenet of Computer Science",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEpJYzllMkoxeFFPVDVISGp6T1hLcDc2Vm9oVnk5SFFGWWVPdjBXY2hGNG1lLTJ6cm1Dc2tpVlJOc0pqMjF1b0FCY3lYeU96QlFOaGM4TlNZZEtzNXN1MXFPNzBTY01UNFM4OG0zOXRnWmJkMVI5b2UwZFNzTkFWdUVTMWc?oc=5",
+      "pub_date": 1793959326.0,
+      "article_url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI scams are everywhere \u2014 and they\u2019re slick. Here\u2019s how to protect yourself and your family.",
+      "source": "Vox",
+      "source_url": "https://www.vox.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95TTh6Nlo4dXI1X1d5dzU4MUFUb3ZxWjJ1VmcxREMzVm1CbWtwQkI3am0yUER5YnVLeFFObEY3TzZTVFBrbVoydkQ4YmZOYW05cWxPYllTTlpmd2YwdTlsZ3VoNk1RcEp0YXJmU2FKdmtiQ0tvS1ZSeXNzNA?oc=5",
+      "pub_date": 1793964600.0,
+      "article_url": "https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/11/GettyImages-2184657782.jpg?quality=90&strip=all&crop=0%2C5.4200510958104%2C100%2C89.159897808379&w=1200",
+      "description": "\ufeffI was worried about my boomer parents. Turns out, everyone is an easy mark these days."
+    },
+    {
+      "headline": "3 allegedly used AI to steal some $129 million from companies by impersonating executives and lawyers",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDVLcDZzWk9NQXdtUXZ3bXA0U1U0cmJxOXhXVEZOUzRSbGtSeVRQSWZ6SUd1Ukg3ZXc3M2xwR1paUkZHT29QZGphb0lPc3JreEdNT1Vla05razl2Y0lPN1hfcUR2LXl2MjRpY2RuRnVFNGlZYzlqdEJmeTZXdXNrUEp1UUxObHhLaHg0Tm11d2o3UWNlMHZWVFI5QQ?oc=5",
+      "pub_date": 1793964170.0,
+      "article_url": "https://www.cbsnews.com/news/3-ai-steal-129-million-companies-impersonating-executives-lawyers/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/17/822df8f8-6c82-4e53-9f11-6421ceb08cd7/thumbnail/1200x630g3/c60a85d9b7f270bf9e6f878de389e818/gettyimages-2269699782.jpg",
+      "description": "Three people accused of using artificial intelligence to impersonate corporate executives and attorneys to steal about $129 million have been indicted, prosecutors say."
+    },
+    {
+      "headline": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10WmvSAYwBQVVfeXFMTWdsc2pjdEpUS1NXdWRzcld3SFp2eVBhWkU2NWNOTXRsUS1WbTNRVlg3S0ZRalhiYnR5WTNKQUxiR1JXNkI3b3ItbnBsZkdoZE9lbWJkVFB1eTFwMFluVFNobUtfLU1sTUJPSlRVSU1IUnRhYXFPVzNEc0NRempsZGM3MTFTVFZSUGUzS0Y?oc=5",
+      "pub_date": 1793909812.0,
+      "article_url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363195-1789494139297-gettyimages-2294931488-AFP_C8EA8N2.jpeg?v=1789494213&w=1920&h=1080",
+      "description": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections."
     },
     {
       "headline": "How the midterms could fuel the K-shaped AI trade",
@@ -25,62 +65,12 @@
       "description": "U.S. midterm results could slow data center development, raising the value of existing AI capacity while increasing pressure on debt-funded neoclouds."
     },
     {
-      "headline": "Could putting AI data centers in space solve an environmental problem, or create a new one?",
-      "source": "WRAL",
-      "source_url": "https://www.wral.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSEZ0NjJ1eDJqQ3hxamM2bDB4R1NwRHB1cVVHMTJmZGRmc29aX01XQTMzQjN3SXBEaWdtc1JqUVpLVS1zbUVvdk1aXzRmV3dpdERENlNNYmd5R2hORUw1YkpJdkZSTkx2Z2VJYkFzRktpTlpwb2tYUm5PdkFMckdPT3k4T2o1N3V3dHhmS2hhMWpob1F1V0R6SU53TnFJaWYzY1ZtQTgxZzBYYjh0ZkN0UEYtQVpRa0l5X3hZYS01VzROZ2JEd2V3d3VB?oc=5",
-      "pub_date": 1793922144.0,
-      "article_url": "https://www.wral.com/business/technology/could-utting-ai-data-centers-in-space-solve-environmental-problem-or-create-one-nov-2026/",
-      "image": "https://images.wral.com/e0418ad7-26d2-44ac-a287-d82fd3c0ef67?w=1200&h=630&height=630",
-      "description": "Google is already testing AI computing in orbit, and SpaceX has plans for a massive satellite network. A Duke University researcher explains why the environmental benefits are far from guaranteed."
-    },
-    {
-      "headline": "Future of data centers in question as Midterm Election results slam AI industry",
-      "source": "FOX 2 Detroit",
-      "source_url": "https://www.fox2detroit.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTHhiV0U4ZHI0LWtPaF9CamdNdzlvT2ZuMGhmMDZ1aV9HMjNqcTZ4YkFxMFh5OWVqMi1GVmxQRWxxNUQtSUVnMHRUQXNwd3dkSEJnYTNtNWJYbTh4MXNIZ3lXQ3NHTUZTUjVBeDFRaUhGRjJwNGE5VHFsaHQzdFctTUJ3SGJWcTlKRXkxMmRTWXR6akk1anRza0FQLUxTT3g3Tno0U2Rn?oc=5",
-      "pub_date": 1793932587.0,
-      "article_url": "https://www.fox2detroit.com/news/future-data-centers-question-midterm-election-results-slam-ai-industry",
-      "image": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2026/07/1200/630/ai-data-centers-in-michigan-grid-and-building-explainer-copy.jpg?ve=1&tl=1",
-      "description": "Democrats are looking to push tougher regulations on data centers just two days after regaining control of Congress and state lawmakers are following suit. Meantime, the AI industry is trying to regain its footing after a sharp reaction on Wall Street following Tuesday's midterm results."
-    },
-    {
-      "headline": "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGp0Vmt2N095WHZQZ1NLZnBMUGJpS09iWk4tbVB5QjFqbWdoYUhwUkJpbkE4STVlZVdMSXhOb1J2OS1SSW1xbWVxSkhrNjNocmZVWGdraTI2cnFkNzdlQVFhd0VNdWFlWkxzWFZzYW5Gend3c0QxZFc2TGVLMEpuMkFJTlB1MDlpMWstQWFBUkVRYXR0dGhjVjd1WFBPN2NiMHk5X1BPRERxMW50SEE?oc=5",
-      "pub_date": 1793932380.0,
-      "article_url": "https://apnews.com/article/artificial-intelligence-impersonation-theft-fraud-c348a0c96e941214e56f8d923d03fc4b",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How The 2026 Midterms Could Change Your Company\u2019s AI Plans",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNV9WWHQydW80YUJTdmpmbVRKYWtyMWdNNHlacVpySllUU0k3b0poZXRlaXhBSXNzdV9NT0kxakZyLVZhY2dBN1RJN1dQNjB2NHYwejlKdm5BUUZMTnJHMWRkVmlGQ0ZNdHhWa2ZFUkJ2bFZxV09EOTZvb0NXaVRKbExEYk1XRl9NMlY2RkU0NHNaOUMxbld0UHRiRmdQT1ZkVUdRbDdwMWJpeTVGTUtoZm5INUc?oc=5",
-      "pub_date": 1793931063.0,
-      "article_url": "https://www.forbes.com/sites/robertszczerba/2026/11/05/the-midterms-sent-a-warning-to-ai-four-things-to-watch-for/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-      "source": "Anchorage Daily News",
-      "source_url": "https://www.adn.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRU1BdHJhU3oxb3I1TnVDbkZZVVJFeDhhQkNhMmJtZFhiV1ZxenhvQWxOS3YwTFZkVHF6RmJCMzA2QWs4WVozakNJVm5mVk1yeU1STjV6WTdISmQwamhLbVVTWWJZSkNoSlVnNkdzSmNYc0o5NjV1Y1dZSW4xdTg2U3pFV2tnVnU1UGR5OERrT0QzRFpyVFg0aGc3NzFpd3MyM2g1Qm1JYzdDY29nRzFnalRGSnE2dVJwRVFVUDNiWGFSWlVNMU1sSVliMXlRSlZPaTFCaTdUank?oc=5",
-      "pub_date": 1793935205.0,
-      "article_url": "https://www.adn.com/nation-world/2026/11/05/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says/",
-      "image": "https://www.adn.com/resizer/v2/RZNBYVEBS33NBIJQQKTURZQTHA.jpg?smart=true&auth=555b22d6b26b929d6d006bea436a6764a2fa20fe9120e962d316d7d34446e808&width=1200&height=630",
-      "description": "The San Francisco-based company is planning to go public later this month in what could be the biggest initial public offering of stock ever."
-    },
-    {
-      "headline": "LeBron James' reps send cease-and-desist letter to 'Bron AI' sports betting app",
-      "source": "ESPN",
-      "source_url": "https://www.espn.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1dEYnlZaGV5NHFybnR0S2IxRk1oYkFtYlcyV3VKcnlJRUlYVHlDbFBnZlh5LTA4cVYxbmtVaXhxZmJCV3o5U3NIcUZpekNjaGpheVpqcFEtVHlNOHB3M2hZd20zbEY4MFdMTXUzSnd5Mk9MbGhPQVEyUWNLTmhHTG14dEk1YnNaRm1XQ280c1ktZDJ2VjJ3?oc=5",
-      "pub_date": 1793899680.0,
-      "article_url": "https://www.espn.com/nba/story/_/id/50390289/lebron-james-reps-send-cease-desist-bron-ai-app",
+      "headline": "Why Amazon and Other AI Data Center Stocks are Post-Midterm Winners",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmFWemxsVHJERmFRb0lsaExBZnpqQ2JQSmVqSzFFM2Zra1JRa3A0R3Z1WFg2UWtqWV9fUm85T050ZEV0SllCNlVFb0wzLUZ1dWF3RU5aR1Job2V1WTZMbnMzeGxZZWh5Q1QzY1dhczBCYnZuaVdqaGM0ckR4UzZud1JoUXNfdw?oc=5",
+      "pub_date": 1793963700.0,
+      "article_url": "https://www.barrons.com/articles/ai-data-center-stocks-midterm-winners-4f30313c",
       "image": null,
       "description": null
     },
@@ -95,16 +85,26 @@
       "description": "METR's high-access assessment of the degree to which AI is accelerating AI research and development at Anthropic."
     },
     {
-      "headline": "Setting a new standard for responsible AI infrastructure",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWU1BMzlFdFJuSkVOZ2NhZFZ3X2htODljLWJUdXV2VXR2NVZkQTlLRUxhVTdWbjdtNDB3eTRkVjh1amVoRVhfRkxnY2ZiVGJJOEpSd29kMk9UanVYQzBpeVRObkg4bWdBQXRhYlZLcFpTTk5VWDlCT0hNQnhTVXRHcU5B?oc=5",
-      "pub_date": 1793873644.0,
-      "article_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3tfG1ium2HchPnPJartCV6/bd2d0a4c101b0a41440cc45adefa35cd/setting-a-new-standard-for-responsible-ai-infrastructure-social.png?w=1600&h=900&fit=fill",
-      "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+      "headline": "LeBron James' reps send cease-and-desist letter to 'Bron AI' sports betting app",
+      "source": "ESPN",
+      "source_url": "https://www.espn.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1dEYnlZaGV5NHFybnR0S2IxRk1oYkFtYlcyV3VKcnlJRUlYVHlDbFBnZlh5LTA4cVYxbmtVaXhxZmJCV3o5U3NIcUZpekNjaGpheVpqcFEtVHlNOHB3M2hZd20zbEY4MFdMTXUzSnd5Mk9MbGhPQVEyUWNLTmhHTG14dEk1YnNaRm1XQ280c1ktZDJ2VjJ3?oc=5",
+      "pub_date": 1793899680.0,
+      "article_url": "https://www.espn.com/nba/story/_/id/50390289/lebron-james-reps-send-cease-desist-bron-ai-app",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How the AI Doomers Won 2026",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmEySUJ0aE1vd1N5bWF3TFRPWGVLNmRVQnhXaUZQTWRjWHZIa0tIR2Q4VXh3LWxIOXd0cDVFVTNkVFhwQmtVS2F1dzVDNVU1QnF0bHVGNDVlSEV4QnpRX0pMSG0yUTJNU1BZZFFEUXhRdm96VVd2MUFSQ0ExN0JKRWVhdFE4WDBXYVlRWVdLU19JUEdHQ1BlMENlVEtZalh1azZN?oc=5",
+      "pub_date": 1793959200.0,
+      "article_url": "https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-06T03:32:49.957286+00:00"
+  "fetched_at": "2026-11-06T11:51:45.428250+00:00"
 }

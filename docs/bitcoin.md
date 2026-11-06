@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-06T03:32:55.026080+00:00'
+updated: '2026-11-06T11:51:48.526115+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 06, 2026 at 03:32 UTC  
+**Last Updated:** November 06, 2026 at 11:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,150.00
+### $76,092.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -5.7%  
-**7d:** -2.1%  
-**30d:** -7.1%  
-**90d:** +17.0%  
-**1y:** -26.8%  
+**24h:** -4.3%  
+**7d:** -1.8%  
+**30d:** -6.7%  
+**90d:** +17.4%  
+**1y:** -26.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1526.53B
+**Market Cap:** $1529.81B
 Rank #1
 
 **Circulating Supply:** 20,105,365 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--39.8%
+-39.7%
 
 **All-Time Low:** $67.81
-+111852.5%
++112109.1%
 
 ---
 
@@ -141,7 +141,7 @@ If the future of finance requires people to become their own bank, secure their 
 
 **[And binance](https://www.reddit.com/r/Bitcoin/comments/1xky3ps/and_binance/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -149,9 +149,9 @@ If the future of finance requires people to become their own bank, secure their 
 
 ## Google News: "bitcoin"
 
-**[Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show](https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show)**
+**[Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC](https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc)**
 
-CoinDesk • 23h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -159,65 +159,65 @@ CoinDesk • 23h ago
 
 Bitcoin price fell about 5% to under $77,000 Thursday as a Nasdaq chip and AI selloff spilled into crypto and liquidated hundreds of millions in leveraged longs.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
-**[Bitcoin Slides 5% as Tech Rout Deepens](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/bitcoin-slides-5-as-tech-rout-deepens-VSGTMlaRNM4CyUL59vnX)**
+**[Michael Saylor Posts “Feeling ₿ullish” 80 Minutes Before BTC USD Drops 5%: Does Strategy’s Chairman Have the Worst Timing on X?](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-posts-feeling-ullish-094750944.html)**
 
-WSJ • 1h ago
+Strategy chairman Michael Saylor posted “Feeling ₿ullish” on X at 13:08 UTC on Thursday, November 5, with BTC USD at $79,541, and within three hours Bitcoin had fallen to $75,826 as a Wall Street chip-stock crash hit crypto. Few posts have aged faster. The picture shows Saylor in a dark ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[What a Democratic Congress means for Bitcoin and crypto regulation](https://www.tmgm.com/en/analysis/market-news/article/what-a-democratic-congress-means-for-bitcoin-and-cryptoregulation-202611061011)**
+
+Crypto regulation in the United States could take a new direction following Democrats' sweeping victory in the November 3 US midterm elections. The party is reportedly preparing to revisit crypto market structure proposals that failed to gain support during Republican-led negotiations.
+
+www.tmgm.com • 1h ago
+
+---
+
+**[Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout](https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout)**
+
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Sinks to Seven-Week Low as Risk-Off Mood Deepens](https://www.bloomberg.com/news/articles/2026-11-05/bitcoin-sinks-to-seven-week-low-as-risk-off-mood-deepens)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 14h ago
 
 ---
 
-**[Bitcoin tumbles below $76,000 as post-election stock rally fades](https://finance.yahoo.com/markets/article/bitcoin-tumbles-below-76000-as-post-election-stock-rally-fades-174540188.html)**
+**[Robert Kiyosaki Issues Serious $40.5 Trillion Warning—Predicts Gold, Silver And Bitcoin Price Crash](https://www.forbes.com/sites/digital-assets/2026/11/05/robert-kiyosaki-issues-serious-405-trillion-warning-predicts-gold-silver-and-bitcoin-price-crash/)**
 
-Bitcoin tumbled below $77,000 on Thursday as investors moved out of riskier assets amid a broad sell-off in stocks.
-
-Yahoo Finance • 9h ago
+Forbes • 20h ago
 
 ---
 
-**[How Much Will One Bitcoin Be Worth in 2030?](https://finance.yahoo.com/markets/crypto/articles/much-one-bitcoin-worth-2030-231314794.html)**
+**[Bitcoin, ETH Don't Need Need a Catalyst, Coinbase Exec Says: ‘It’s Happening’](https://www.tradingview.com/news/benzinga:8d0a7b930094b:0-bitcoin-eth-don-t-need-need-a-catalyst-coinbase-exec-says-it-s-happening/)**
 
-Bitcoin sits far below its record, yet bold forecasts for 2030 keep climbing. Weakening ETF demand, a 2028 halving, and a stalled Senate bill will decide which targets survive, and one popular dream may demand a market value rivaling the money supply.
+Bitcoin CRYPTO:BTCUSD and Ethereum CRYPTO:ETHUSD don’t need another headline catalyst, Coinbase’s head of institutional strategy John D’Agostino said Wednesday, arguing the next wave of adoption is already underway.Coinbase Sees Crypto Adoption Advancing Through Institutional IntegrationD’Agostino…
 
-Yahoo Finance • 4h ago
-
----
-
-**[Robert Kiyosaki Says 'Why Worry?' as He Eyes Buying Bitcoin, Gold, Silver in Next Crash](https://www.tradingview.com/news/benzinga:12f15a8d4094b:0-robert-kiyosaki-says-why-worry-as-he-eyes-buying-bitcoin-gold-silver-in-next-crash/)**
-
-Bitcoin CRYPTO:BTCUSD dropped to $76,000 Thursday, reversing its post-election rally above $80,000, but Rich Dad Poor Dad author Robert Kiyosaki sees the weakness as another buying opportunity.Why Is He Buying Bitcoin’s Dip?In an X post on Nov. 4, Kiyosaki said he bought more Bitcoin, gold and silv…
-
-TradingView • 5h ago
+TradingView • 15h ago
 
 ---
 
-**[Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations](https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434)**
+**[Bitcoin: This May Be Your Last Chance (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4963814-bitcoin-this-may-be-your-last-chance)**
 
-The selloff triggered a wave of forced liquidations across crypto derivatives markets, as total liquidations over the past 24 hours reached $1.09 billion, affecting 211,000 traders.
+Bitcoin is rated a Strong Buy, with current weakness presenting a rare entry point below $80,000. Read more on BTC-USD here.
 
-The Block • 7h ago
-
----
-
-**[Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story](https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data)**
-
-Forensic analysis finds thousands of customer deposit addresses drained hours after Mercado Bitcoin said it had stopped the breach on Monday.
-
-Decrypt • 7h ago
+Seeking Alpha • 2h ago
 
 ---
 
-**[Bitcoin slips to $79k as post-midterm rally fades, outlook unclear](https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-805k-as-us-elections-buoy-risk-appetite-but-outlook-unclear-5002271)**
+**[Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country](https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this)**
 
-Investing.com • 11h ago
+Ueno’s collapse trapped millions of Paraguayan depositors and triggered a president’s resignation, reviving a Bitcoin argument.
+
+Decrypt • 13h ago
 
 ---
 
@@ -237,7 +237,7 @@ Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen
 
 Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs development by creating an account on GitHub.
 
-⬆️ 10 • 💬 0 • 2d ago • [GitHub](https://github.com/gosuda/bitcoin-rs)
+⬆️ 10 • 💬 0 • 3d ago • [GitHub](https://github.com/gosuda/bitcoin-rs)
 
 ---
 
@@ -271,11 +271,11 @@ Wallets linked to Mercado Bitcoin’s security breach remained active after tran
 
 ---
 
-**[Show HN: AI agents trade privately on BitcoinZ, with proof of delivery](https://news.ycombinator.com/item?id=50301018)**
+**[Show HN: Free real-time order book heatmap for Bitcoin, gold and US 500](https://news.ycombinator.com/item?id=50390550)**
 
-Shielded BitcoinZ wallets for AI agents, via MCP. Send, receive and message, autonomously, within safety limits. - ZKStamp/AgentWallet
+The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlesticks, a footprint chart and every trade as a bubble. Free, no sign-up.
 
-⬆️ 2 • 💬 0 • 6d ago • [GitHub](https://github.com/ZKStamp/AgentWallet)
+⬆️ 1 • 💬 0 • 1h ago • [Swiftedge](https://swiftedge.uk/depth)
 
 ---
 
@@ -291,7 +291,7 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 An open-source browser bringing back Arc, with no account required and optional AI.
 
-⬆️ 3 • 💬 0 • 17h ago • [myArc](https://myarc.dev/)
+⬆️ 3 • 💬 0 • 1d ago • [myArc](https://myarc.dev/)
 
 ---
 
@@ -299,7 +299,7 @@ An open-source browser bringing back Arc, with no account required and optional 
 
 Discord is moving its apps fully over to the Rust programming language.
 
-⬆️ 405 • 💬 343 • 14h ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
+⬆️ 447 • 💬 381 • 22h ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin dumps to $75000 as Democrats take control of Congress, the AI stock mark
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 931 • 💬 109 • ⏱️ 16:17 • 5h ago
+👁️ 28K • 👍 1K • 💬 144 • ⏱️ 16:17 • 13h ago
 
 ---
 
@@ -323,7 +323,17 @@ House Democrats are already working on a replacement for the Clarity Act, one da
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 409 • 💬 130 • ⏱️ 14:51 • 9h ago
+👁️ 18K • 👍 457 • 💬 175 • ⏱️ 14:51 • 17h ago
+
+---
+
+**[BLACK THURSDAY: Bitcoin and Stocks Crash! What Happens Next?](https://www.youtube.com/watch?v=7V7PXHYvqng)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
+
+📺 CryptosRUs
+
+👁️ 24K • 👍 568 • 💬 118 • ⏱️ 10:25 • 9h ago
 
 ---
 
@@ -333,37 +343,7 @@ Clashpad.Fun - *Launch a Token. Reward the Holders* ▻ https://clashpad.fun ✨
 
 📺 CryptosRUs
 
-👁️ 37K • 👍 813 • 💬 172 • ⏱️ 1:08:24 • 7h ago
-
----
-
-**[THE BANK FAILURE JUST SHUT DOWN THE WHOLE COUNTRY (BITCOIN JUST DID IT)](https://www.youtube.com/watch?v=gy4WPzw4Dfo)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 25K • 👍 634 • 💬 142 • ⏱️ 15:15 • 12h ago
-
----
-
-**[The Blue Tsunami Is Here. Your Bitcoin Strategy Shouldn&#39;t Change](https://www.youtube.com/watch?v=F4xicDR_tIs)**
-
-Democrats won the House and the Senate. Cory Klippsten expects very little to change for Bitcoin: Trump's appointees still run the ...
-
-📺 Swan Bitcoin
-
-👁️ 5K • 👍 245 • 💬 22 • ⏱️ 6:57 • 12h ago
-
----
-
-**[Midterm Massacre LAUNCHES Bitcoin Above $80,000!](https://www.youtube.com/watch?v=Hcr79FgPoDM)**
-
-Bitcoin is back above $80000 after the midterm elections, and Rustin explains why he thinks the results could be bullish.
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 2K • 💬 119 • ⏱️ 14:29 • 1d ago
+👁️ 41K • 👍 839 • 💬 179 • ⏱️ 1:08:24 • 15h ago
 
 ---
 
@@ -373,27 +353,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 77 • ⏱️ 12:40 • 4h ago
+👁️ 50K • 👍 2K • 💬 157 • ⏱️ 12:40 • 12h ago
 
 ---
 
-**[BITCOIN CRASHES (Is Bull Market OVER?)](https://www.youtube.com/watch?v=K0iTVA4MvHI)**
+**[BITCOIN HOLDERS: IT&#39;S TIME...](https://www.youtube.com/watch?v=TJ14R-yFzNE)**
 
-Bitcoin is crashing. Is the bull market over? Nick Valdez, Chief Crypto Strategist for Verified Investing, breaks down the major ...
+WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activity Up to $3000 in BTC position ...
 
-📺 Verified Investing
+📺 Crypto Rover
 
-👁️ 16K • 👍 440 • 💬 26 • ⏱️ 20:29 • 8h ago
-
----
-
-**[🚨MASSIVE Bitcoin DUMP BEGINS🚨 (How Low Do We Go?)](https://www.youtube.com/watch?v=2qJ69-GlN78)**
-
-Join Skool Community - https://www.skool.com/discovercrypto/about Trade at Bitbase ...
-
-📺 Discover Crypto
-
-👁️ 1K • 👍 90 • 💬 24 • ⏱️ 9:07 • 3h ago
+👁️ 8K • 👍 636 • 💬 50 • ⏱️ 11:37 • 5h ago
 
 ---
 
@@ -403,7 +373,37 @@ Is the bull market still alive? Sign up for the Crypto Jebb Research Symposium: 
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 175 • 💬 65 • ⏱️ 13:55 • 8h ago
+👁️ 6K • 👍 188 • 💬 103 • ⏱️ 13:55 • 16h ago
+
+---
+
+**[BITCOIN IS FLASHING A WARNING SIGNAL... IS $72K NEXT?](https://www.youtube.com/watch?v=zv10xHd-0JQ)**
+
+APPLY TO JOIN MY COMMUNITY. We take a limited number of new members each month.
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 6K • 👍 424 • 💬 151 • ⏱️ 21:28 • 6h ago
+
+---
+
+**[BITCOIN CRASHES (Is Bull Market OVER?)](https://www.youtube.com/watch?v=K0iTVA4MvHI)**
+
+Bitcoin is crashing. Is the bull market over? Nick Valdez, Chief Crypto Strategist for Verified Investing, breaks down the major ...
+
+📺 Verified Investing
+
+👁️ 17K • 👍 452 • 💬 27 • ⏱️ 20:29 • 16h ago
+
+---
+
+**[THE BANK FAILURE JUST SHUT DOWN THE WHOLE COUNTRY (BITCOIN JUST DID IT)](https://www.youtube.com/watch?v=gy4WPzw4Dfo)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 27K • 👍 648 • 💬 171 • ⏱️ 15:15 • 20h ago
 
 ---
 

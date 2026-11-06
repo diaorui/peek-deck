@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-06T03:32:55.029275+00:00'
+updated: '2026-11-06T11:51:48.532097+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 06, 2026 at 03:32 UTC  
+**Last Updated:** November 06, 2026 at 11:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,245.38
+### $2,236.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -8.0%  
-**7d:** -1.1%  
-**30d:** -9.8%  
-**90d:** +16.9%  
-**1y:** -35.0%  
+**24h:** -6.1%  
+**7d:** -0.5%  
+**30d:** -9.2%  
+**90d:** +17.6%  
+**1y:** -34.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.92B
+**Market Cap:** $274.02B
 Rank #2
 
-**Circulating Supply:** 122,192,072 ETH
+**Circulating Supply:** 122,194,930 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.8%
+-54.7%
 
 **All-Time Low:** $0.43
-+515707.9%
++517823.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Explore how Ethereum's open, global network can support digital public infrastructure, verifiable records, and coordination across institutions without a central operator.
 
-🔗 [Ethereum for digital public infrastructure](https://publicsector.ethereum.foundation/) • 2d ago
+🔗 [Ethereum for digital public infrastructure](https://publicsector.ethereum.foundation/) • 3d ago
 
 ---
 
@@ -88,7 +88,7 @@ Explore how Ethereum's open, global network can support digital public infrastru
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ Most people seem to hold ETH as an investment, while USDT and USDC are increasin
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -120,7 +120,7 @@ My Geth node had a publicly listening MPTCP socket. Disabling MPTCP didn't close
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -152,27 +152,35 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 ## Google News: "ethereum"
 
-**[Why Bitmine Immersion Technologies Stock Is In Focus After Its Ethereum Buying Spree](https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-stock-043344012.html)**
+**[EIP-8037/EIP-8038 Glamsterdam](https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038)**
 
-Bitmine Immersion Technologies recently acquired nearly US$20 million of Ethereum, bringing its ETH holdings to 6.06 million tokens, equal to 4.9% of the 122.2 million total supply, alongside US$14.5b in combined crypto, cash and marketable securities. This sizeable Ethereum position, together with Tom Lee’s comments on the market’s resilience after the Binance hack, places Bitmine’s operating focus squarely on digital asset exposure and AI infrastructure demand rather than near term...
+In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
 
-Yahoo Finance • 1d ago
+ethereum.org • 1h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Slide as Peter Schiff Warns ‘Expect More Days Like Today’](https://www.tradingview.com/news/benzinga:9544553c4094b:0-bitcoin-ethereum-xrp-slide-as-peter-schiff-warns-expect-more-days-like-today/)**
+**[Crypto foundation demanded employees endorse suicide pledge, then fired leaders who objected, Colorado lawsuit alleges](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)**
 
-Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 5% Thursday, with Peter Schiff warning "expect more days like today."Schiff Calls Thursday’s Selloff ‘Perfectly Rational’Schiff noted that Wednesday’s stock rally following the Democratic landslide "made no sense," wh…
+On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership’s vision for the foundation for the next 1,000 years.
+
+The Denver Post • 51m ago
+
+---
+
+**[Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow](https://finance.yahoo.com/markets/stocks/articles/bitmine-resumes-stock-buybacks-ethereum-144900850.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ...
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Bleed Amid Broader Sell-Off: Analyst Says BTC Will Bottom After Sweeping This Level](https://www.tradingview.com/news/benzinga:49111096a094b:0-bitcoin-ethereum-xrp-dogecoin-bleed-amid-broader-sell-off-analyst-says-btc-will-bottom-after-sweeping-this-level/)**
+
+Leading cryptocurrencies sank alongside stocks on Thursday as investors priced in AI sector risks following Democratic control of Congress.Crypto Market Does a U-TurnBitcoin cratered to $75,220, marking its lowest level since mid-September. Ethereum fell to roughly $2,230–$2,315, hitting its lowest…
 
 TradingView • 9h ago
-
----
-
-**[Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.](https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/)**
-
-If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom.
-
-The Motley Fool • 17h ago
 
 ---
 
@@ -180,13 +188,7 @@ The Motley Fool • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
-
----
-
-**[Most big cryptocurrencies increase as Ethereum rallies](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-increase-as-ethereum-rallies-51642d12-b2906bfb97c4)**
-
-MarketWatch • 1d ago
+Fortune • 22h ago
 
 ---
 
@@ -202,29 +204,31 @@ AMBCrypto • 1d ago
 
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
 
-Kitco • 12h ago
+Kitco • 20h ago
 
 ---
 
-**[Ethereum Holds Two-Thirds of Ripple’s $2.6 Billion RLUSD Stablecoin Even as Ripple CEO Pushes XRP Ledger](https://www.tipranks.com/news/ethereum-holds-two-thirds-of-ripples-2-6-billion-rlusd-stablecoin-even-as-ripple-ceo-pushes-xrp-ledger)**
+**[Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.](https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/)**
 
-TipRanks • 12h ago
+If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom.
 
----
-
-**[Designing for sovereignty: Ethereum for digital public infrastructure](https://blog.ethereum.org/2026/11/03/digital-pub-infra)**
-
-Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation...
-
-ethereum.org • 3d ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum prepares to overhaul its state structure with a Partitioned Binary Tree](https://cryptobriefing.com/ethereum-partitioned-binary-tree-eip-8297/)**
+**[Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto](https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/)**
 
-Ethereum's EIP-8297 Partitioned Binary Tree passed a mainnet shadowfork test, aiming for smaller state proofs and state expiry by Q4 2026.
+US Bitcoin ETFs suffered $430 million in withdrawals, while Ethereum funds lost another $100 million as investors retreated from crypto.
 
-Crypto Briefing • 2h ago
+CryptoSlate • 1h ago
+
+---
+
+**[ETH Price Prediction: Ethereum loses short-term trend support as derivatives stay long-biased](https://blockchain.news/news/20261106-price-prediction-eth-ethereum-loses-short-term-trend-support)**
+
+Ethereum is trading at $2,220.01 after an 8.68% 24-hour drop, leaving price below the 7-day, 20-day, 50-day, 12-day EMA, and 26-day EMA while still above...
+
+Blockchain News • 4h ago
 
 ---
 
@@ -232,43 +236,23 @@ Crypto Briefing • 2h ago
 
 ## YouTube Videos: "ethereum"
 
-**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 6K • 👍 186 • 💬 35 • ⏱️ 10:12 • 6h ago
-
----
-
 **[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
 
 Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain.
 
 📺 The Rollup
 
-👁️ 2K • 👍 61 • 💬 60 • ⏱️ 9:00 • 3h ago
+👁️ 7K • 👍 150 • 💬 60 • ⏱️ 9:00 • 12h ago
 
 ---
 
-**[Bitcoin And Ethereum Are Preparing For Something Massive Crypto Whales Are Doing The Unthinkable](https://www.youtube.com/watch?v=fI-6zqZly_M)**
+**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
 
-When crypto prices fall, retail investors flee the market, unable to understand that something bigger is happening behind the ...
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
-📺 The Modern Investor
+📺 Lark Davis
 
-👁️ 8K • 👍 643 • 💬 139 • ⏱️ 32:49 • 17h ago
-
----
-
-**[Ethereum Price: Where This Correction Could End](https://www.youtube.com/watch?v=H6C2BP7r8pQ)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 158 • 💬 5 • ⏱️ 8:19 • 7h ago
+👁️ 10K • 👍 249 • 💬 47 • ⏱️ 10:12 • 14h ago
 
 ---
 
@@ -278,7 +262,37 @@ Is Ethereum having its Amazon moment? Sharplink CEO Joseph Chalom believes inves
 
 📺 Coinage
 
-👁️ 16K • 👍 155 • 💬 84 • ⏱️ 20:55 • 1d ago
+👁️ 16K • 👍 159 • 💬 82 • ⏱️ 20:55 • 1d ago
+
+---
+
+**[Ripple And XRP Are Making Major Moves And No One Notices Ethereum Is About To Become Mainstream](https://www.youtube.com/watch?v=ZInfCw1FagQ)**
+
+Everyone out there is going to miss out on whats going on and its a shame. The cryptocurrency market has never seen this much ...
+
+📺 The Modern Investor
+
+👁️ 861 • 👍 191 • 💬 63 • ⏱️ 33:44 • 1h ago
+
+---
+
+**[Bitcoin And Ethereum Are Preparing For Something Massive Crypto Whales Are Doing The Unthinkable](https://www.youtube.com/watch?v=fI-6zqZly_M)**
+
+When crypto prices fall, retail investors flee the market, unable to understand that something bigger is happening behind the ...
+
+📺 The Modern Investor
+
+👁️ 8K • 👍 677 • 💬 140 • ⏱️ 32:49 • 1d ago
+
+---
+
+**[Ethereum Price: Where This Correction Could End](https://www.youtube.com/watch?v=H6C2BP7r8pQ)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 200 • 💬 8 • ⏱️ 8:19 • 15h ago
 
 ---
 
@@ -288,37 +302,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 97 • 💬 67 • ⏱️ 23:02 • 1d ago
+👁️ 5K • 👍 98 • 💬 65 • ⏱️ 23:02 • 2d ago
 
 ---
 
-**[A hacker drained $50 million, so Ethereum rewound time ⏪](https://www.youtube.com/watch?v=nMGJ2JhRw2o)**
+**[Is Canton becoming a BETTER Ethereum? Here&#39;s What Changed!](https://www.youtube.com/watch?v=p33vSeCM7EQ)**
 
-In 2016, a bug let a hacker drain about 3.6 million ether from The DAO, a fund run by code instead of managers. A 28-day lock ...
+The SEC has classified Canton Coin as a commodity, not a security, and the Canton Network just launched its first meme coin ...
 
-📺 Crazy Crypto Stories
+📺 Grow Rich Grow Happy
 
-👁️ 1K • 👍 26 • ⏱️ 0:52 • 9h ago
-
----
-
-**[ICP is the SOLUTION! Vitalik&#39;s Message Raises a BIG Question for Ethereum](https://www.youtube.com/watch?v=27aZZXoGUSU)**
-
-Join the OC HERO Community: https://oc.app/community/s6uwt-5iaaa-aaaac-be5xa-cai/channel/3896146702 HERO: ...
-
-📺 Zero to Hero
-
-👁️ 1K • 👍 138 • 💬 13 • ⏱️ 20:41 • 8h ago
+👁️ 2K • 👍 149 • 💬 14 • ⏱️ 22:00 • 1d ago
 
 ---
 
-**[BITCOIN FLIPPED: IT&#39;S HAPPENING AGAIN (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aZiGwaGsnTM)**
+**[CRYPTO MARKET DUMPS! CZ BINANCE VS KEVIN O&#39;LEARY &amp; HUGE ETHEREUM &amp; SOLANA ADOPTION!](https://www.youtube.com/watch?v=_xRm-oXtH64)**
 
-BITCOIN FLIPPED: IT'S HAPPENING AGAIN (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Crypto News: Bitcoin and the crypto market follow the stock market with a big dump. Binance and founder CZ subpoena Shark ...
 
-📺 Crypto World
+📺 Thinking Crypto
 
-👁️ 15K • 👍 311 • 💬 166 • ⏱️ 21:26 • 1d ago
+👁️ 7K • 👍 376 • 💬 57 • ⏱️ 22:07 • 7h ago
 
 ---
 
@@ -328,7 +332,7 @@ Brian from Santiment joined me to break down the latest crypto market trends, ke
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 198 • 💬 59 • ⏱️ 25:45 • 14h ago
+👁️ 7K • 👍 215 • 💬 65 • ⏱️ 25:45 • 22h ago
 
 ---
 

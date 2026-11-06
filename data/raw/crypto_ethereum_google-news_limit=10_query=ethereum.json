@@ -5,34 +5,44 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Why Bitmine Immersion Technologies Stock Is In Focus After Its Ethereum Buying Spree",
+      "headline": "EIP-8037/EIP-8038 Glamsterdam",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11VU05Q1NIWkhrX0RFTnRXM2FUZFVPaERuS3dhRWRyNTZ0V2JrUjJWX1Z0MUxVZjl5Rmc2QjFteGRTcTNSa1ZFYWhCa1JKMFZPUTRZQXVJUENJMW9OcDY3ZHVCbXhnSFdmTkE?oc=5",
+      "pub_date": 1793960181.0,
+      "article_url": "https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038",
+      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
+      "description": "In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants..."
+    },
+    {
+      "headline": "Crypto foundation demanded employees endorse suicide pledge, then fired leaders who objected, Colorado lawsuit alleges",
+      "source": "The Denver Post",
+      "source_url": "https://www.denverpost.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2dvSTJleHFjZ21zb01tM3d1WHY5cFZBNUlFc3YxclJadjJqSzMxM1Y3Sl85X2E3ekxTc2dBOFdYbGxMLVBqU2lyalRJSktiR2ZaRUZlSmtnWkxtYXBtMDE4S19hNVZqTkVxUlJqR3NVLUdaRkE4Y3poM1oyVDJGcGN2RHdfbE5TTjFBVC1EdmdENWs2Wm4yWg?oc=5",
+      "pub_date": 1793962822.0,
+      "article_url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+      "image": "https://www.denverpost.com/wp-content/uploads/2026/11/TDP-Z-GettyImages-1243256258.jpg?w=5093&h=3395",
+      "description": "On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership\u2019s vision for the foundation for the next 1,000 years."
+    },
+    {
+      "headline": "Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlh2TXQteC1kdS1DdFFGbldOSGxDQV9BZzlLMzZOeUhtbjdtV1I2bndPX1FpdVhaX2FDU3VZUEd1Y2YybXBTbkdzMDN2VVB6VUwzVHJ1TnFhajEtU0lkdS1Oa1VLWUtIczBwR09lenFZdi1PTk9HcmU2c1JyNlhrUm1zUndLWHk4aEpJRG8xZXNBQ0ZkVnYzYUhNZTdqVDJnME1rdTExTFI?oc=5",
-      "pub_date": 1793768141.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-stock-043344012.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
-      "description": "Bitmine Immersion Technologies recently acquired nearly US$20 million of Ethereum, bringing its ETH holdings to 6.06 million tokens, equal to 4.9% of the 122.2 million total supply, alongside US$14.5b in combined crypto, cash and marketable securities. This sizeable Ethereum position, together with Tom Lee\u2019s comments on the market\u2019s resilience after the Binance hack, places Bitmine\u2019s operating focus squarely on digital asset exposure and AI infrastructure demand rather than near term..."
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkNHT3RLSmhZTGM4UDBIallEVWNQdWhST0dLS1FWT3JXMWJxdWI5a1Q5cGlwb3I0MEI2V214UGVBeElCLXhZb25yV1NBSDBlZ2hEanVwRTJCd1VWS2RxS0JUNjNvOVVjQzlvNjhQSTJENThTcmp1cEwyeWwwdUR3cmNWNjJUek1iMnNQeVpGMDJ2UE01eG5YcElyMUlkaUtZME5ORDBRdw?oc=5",
+      "pub_date": 1793890140.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/bitmine-resumes-stock-buybacks-ethereum-144900850.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2ea65e4431b9e13668679766cb9202a067a637bf58389d30ea676fb5043f7c51/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Ff34cc26bcce388b1fde474eda15f2f8f.jpg",
+      "description": "Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ..."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Slide as Peter Schiff Warns \u2018Expect More Days Like Today\u2019",
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Bleed Amid Broader Sell-Off: Analyst Says BTC Will Bottom After Sweeping This Level",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMVRhaXZYdnA3UXl5SzFiQ1VvRjBGRndBUmdXYXktVDRWWVpod2ZlQzQ4NEk0N2lOQ0NSVWt5T2V5RzRXbl9TRXlTMG5qamZ5N081QVVWT2xMWHA3ellCZV94VHMtT3o5c1BLakxnamNFV19mZVJBVTlyRWVvUHZ1N2U5QlgwTFhmTW1ycHNiZjUwTHJORkJrbC1SWlBtQVJrM1o3TEdKa2o4RXd0bnpVQklIV2xaTGVJWUNSZ1hWQVMxdkxtUFFWTGI1NkxMSmQw?oc=5",
-      "pub_date": 1793903410.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:9544553c4094b:0-bitcoin-ethereum-xrp-slide-as-peter-schiff-warns-expect-more-days-like-today/",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVENYdzR6YjBkVUJuTUpvb3QzZWJEcXJtQm55YXVnajd3WVE4Y1V4NGNvdk5lX3BWRExkajVkWlprRHNaU1EtUEhWanAtMXNwRVo0SExRNXA4d2JHR1REeFpzTEhaeWNDM3B1ODBXVU5NSk5XclJhUGlRNGlRTTdkeGowUFFSZWMyNjhxN01YblJtaVhyZ3ZkbW1uOVlCYUd1ZVViYkc2S2RNazZ0T2xLWHU2cEFzRUlHZXBmNGpiUFJiZEZ3QjNBRE9pdUw5aXlQeEo2amN5Q1VVS3N1Nmh0eXBCQnR1R1RGeEFIWE1TMUtWa0ludjB1cTBZVThDZ2J4?oc=5",
+      "pub_date": 1793931300.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:49111096a094b:0-bitcoin-ethereum-xrp-dogecoin-bleed-amid-broader-sell-off-analyst-says-btc-will-bottom-after-sweeping-this-level/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 5% Thursday, with Peter Schiff warning \"expect more days like today.\"Schiff Calls Thursday\u2019s Selloff \u2018Perfectly Rational\u2019Schiff noted that Wednesday\u2019s stock rally following the Democratic landslide \"made no sense,\" wh\u2026"
-    },
-    {
-      "headline": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGs1VUVmTGVkbm1nam9SY3VFSU9NWlBYY3VfUlcySlJKZi1kYnRrRzZjSHExWmZTYlZ5Smo3ZlZFOUhwaV9GNW1KeFlUalZZeTY5UjFac0xrLUZvUXlmU0M0ZjBCU1FjU1hQcmI2bENWS2ZlS2w2aWRvREFFQUpKY3VzZ1ZsUWJSZEtYZnRSOUJMYUZwZUsxcw?oc=5",
-      "pub_date": 1793871900.0,
-      "article_url": "https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892914%2Finvestor-analyst-thinking.jpg&w=1200&op=resize",
-      "description": "If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom."
+      "description": "Leading cryptocurrencies sank alongside stocks on Thursday as investors priced in AI sector risks following Democratic control of Congress.Crypto Market Does a U-TurnBitcoin cratered to $75,220, marking its lowest level since mid-September. Ethereum fell to roughly $2,230\u2013$2,315, hitting its lowest\u2026"
     },
     {
       "headline": "Current price of Ethereum for November 5, 2026",
@@ -43,16 +53,6 @@
       "article_url": "https://fortune.com/article/price-of-ethereum-11-05-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-EThereum-Nov-5.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Most big cryptocurrencies increase as Ethereum rallies",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZzRNblZsaGkzRmRrcDBvVWJtalBsRW5QTzNRNnNOU1o4MkFqT05QX1hsX1A4bjdWZExWdVk5emtiRC14SjFibGpBdzhJcVZ2Snp6V0xsRFV2Q0hWMWRpMWloSWJLMWxNS3IwSlNmS3RwVlpEYzQta2JyOE1JVWRXNUdqeDJqYVVnYjhmUXUySy1UZzJBa2VJbjZrUUtncHVGeHBES2Z4NVVWRFdRYXMzSmNlUXM?oc=5",
-      "pub_date": 1793804400.0,
-      "article_url": "https://www.marketwatch.com/data-news/most-big-cryptocurrencies-increase-as-ethereum-rallies-51642d12-b2906bfb97c4",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Ethereum\u2019s decentralization model is the answer to an AI arms race: Vitalik Buterin",
@@ -75,36 +75,36 @@
       "description": ".embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:\u2026"
     },
     {
-      "headline": "Ethereum Holds Two-Thirds of Ripple\u2019s $2.6 Billion RLUSD Stablecoin Even as Ripple CEO Pushes XRP Ledger",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEtBRWxHcWlmS1RFRnVxcUJ3QXhyOTNWRW9WWnZDUlVjTy1VTEFCd2xTYkhFend4bmZKMTFFbGFoR3VHQmhJZ1JscGk2aVJPUzlRR3ZSMHNUZ095YUtCa1BzZ0NKdlYyb2NDaXJTTnRIUVhqNHU4bzdWVmdQY0RPRjBXVURJX3E4M0dsSTZ4QmVJUzV1WVI4WjJOd1FrQkVkY1lOck5ObFpZS1ROa1VFcEY5eURtR2MxMG9ETkEyQUlLNEM0OHNQSXBQbmw?oc=5",
-      "pub_date": 1793889309.0,
-      "article_url": "https://www.tipranks.com/news/ethereum-holds-two-thirds-of-ripples-2-6-billion-rlusd-stablecoin-even-as-ripple-ceo-pushes-xrp-ledger",
-      "image": null,
-      "description": null
+      "headline": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGs1VUVmTGVkbm1nam9SY3VFSU9NWlBYY3VfUlcySlJKZi1kYnRrRzZjSHExWmZTYlZ5Smo3ZlZFOUhwaV9GNW1KeFlUalZZeTY5UjFac0xrLUZvUXlmU0M0ZjBCU1FjU1hQcmI2bENWS2ZlS2w2aWRvREFFQUpKY3VzZ1ZsUWJSZEtYZnRSOUJMYUZwZUsxcw?oc=5",
+      "pub_date": 1793871900.0,
+      "article_url": "https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892914%2Finvestor-analyst-thinking.jpg&w=1200&op=resize",
+      "description": "If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom."
     },
     {
-      "headline": "Designing for sovereignty: Ethereum for digital public infrastructure",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uam9ZU2xHSlU5SUtKM1E3SnAtU2xueWFmYXdkU2N6emgyeDV3SUYxWnhhOUQwUHRJcTVrNFlCazJCbTMxaVVnMGVwTGM0c3ZPMXp6NXZxa3ZKT0NXMXRSRWVNUWk?oc=5",
-      "pub_date": 1793675735.0,
-      "article_url": "https://blog.ethereum.org/2026/11/03/digital-pub-infra",
-      "image": "https://storage.googleapis.com/ethereum-hackmd/upload_d1805a5e41e5b947df38abbec662b443.jpg",
-      "description": "Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation..."
+      "headline": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnRpOHZmbS15TzdMd01wTFZ5XzN4UENEcmZuZXFkVHczaTFsa0RGbDB2WE1nX1pDVzdVdTBEWExJR1UzLV9iZXAyTDlDMDgxQlhJNDBFMUdZaGpORklKWUVSYnd3UklHNUVUV2YwVzBoLXB4cC1vM2g0el9pUnZ1R0xDd1ZldHZLaEo2MXI4LUE5RXFuTmNWZm1CNnY4XzlMb1VMVGRxSzhCaTRBV2ljVXdkaFNaN3FHSEk0cVVuZmZPZXRZa3c?oc=5",
+      "pub_date": 1793958927.0,
+      "article_url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-etf-fractured-bridge.webp",
+      "description": "US Bitcoin ETFs suffered $430 million in withdrawals, while Ethereum funds lost another $100 million as investors retreated from crypto."
     },
     {
-      "headline": "Ethereum prepares to overhaul its state structure with a Partitioned Binary Tree",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zcnVjTUh0MFktSWFTVjZlMkF6ZkwwLXpkRDFUYXpiUFJrNGJnWlo2TmpRc09Qay1zQVk5ME5ZejVnMENKOEpSeEFVM3NLYlVDQ0VmdGxvWFdTcGFMdzZnajJLX1BHOUNCdVpMMTk4MDFVdWRNVjZaWg?oc=5",
-      "pub_date": 1793927382.0,
-      "article_url": "https://cryptobriefing.com/ethereum-partitioned-binary-tree-eip-8297/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/05200926/library-ethereum-prepares-to-overhaul-its-state-structure-with-a-800x450.png",
-      "description": "Ethereum's EIP-8297 Partitioned Binary Tree passed a mainnet shadowfork test, aiming for smaller state proofs and state expiry by Q4 2026."
+      "headline": "ETH Price Prediction: Ethereum loses short-term trend support as derivatives stay long-biased",
+      "source": "Blockchain News",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUhyY2tXYjItZkVNMjhrVkhRdHllOEpDbmdvZmdheGJLRDZKWWxURzFHSUl6eW9MUHVhYlFwVFRnbDhmbkZxdHlmSG1BNDN6OXEzZl9nVmFpMlNTUTlzaGlaU3hEaTFFTVdwQlp4ZEE4alVKdFpxSmN2R0Q5cC1IV3hxSjQ1bzUtdkZ0dVNQNmhCcGNxcms3MUluZkpSQlE?oc=5",
+      "pub_date": 1793948760.0,
+      "article_url": "https://blockchain.news/news/20261106-price-prediction-eth-ethereum-loses-short-term-trend-support",
+      "image": "https://image.blockchain.news:443/image/4888C8C06C69C937D41409E0DD3C644CD29D2913F0422E39B0814B96B333883D.jpg",
+      "description": "Ethereum is trading at $2,220.01 after an 8.68% 24-hour drop, leaving price below the 7-day, 20-day, 50-day, 12-day EMA, and 26-day EMA while still above..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-06T03:32:42.400356+00:00"
+  "fetched_at": "2026-11-06T11:51:41.635561+00:00"
 }
