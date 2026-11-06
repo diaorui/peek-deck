@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-06T18:58:25.072800+00:00'
+updated: '2026-11-06T23:41:58.402871+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 06, 2026 at 18:58 UTC  
+**Last Updated:** November 06, 2026 at 23:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -1.1%  
-**30d:** -9.8%  
-**90d:** +16.9%  
-**1y:** -35.0%  
+**24h:** -0.2%  
+**7d:** -0.6%  
+**30d:** -9.3%  
+**90d:** +17.5%  
+**1y:** -34.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.38B
+**Market Cap:** $273.66B
 Rank #2
 
 **Circulating Supply:** 122,194,930 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.9%
+-54.7%
 
 **All-Time Low:** $0.43
-+514925.0%
++517151.4%
 
 ---
 
@@ -136,7 +136,7 @@ Found an old post on CREATE2 Wisp contracts (a contract created, used and selfde
 
 From the original post on x: Quantum computing poses a serious threat to the cryptography blockchains currently rely on, while advances in AI compress best estimates for the threat's timeline. That's why experts gathered in Cambridge to coordinate research upgrading our cryptography to be quantum-resistant.
 
-5d ago
+6d ago
 
 ---
 
@@ -156,7 +156,7 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
 
-ethereum.org • 3h ago
+ethereum.org • 8h ago
 
 ---
 
@@ -164,45 +164,43 @@ ethereum.org • 3h ago
 
 On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership’s vision for the foundation for the next 1,000 years.
 
-The Denver Post • 7h ago
+The Denver Post • 12h ago
 
 ---
 
-**[Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow](https://finance.yahoo.com/markets/stocks/articles/bitmine-resumes-stock-buybacks-ethereum-144900850.html)**
+**[Where Will Ethereum Be in 3 Years?](https://finance.yahoo.com/markets/crypto/articles/where-ethereum-3-years-190100780.html)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ...
+Ethereum isn't broken; it's just slow. Here's why that matters over the next three years.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Where Will Ethereum Be in 3 Years?](https://www.fool.com/investing/2026/11/05/where-will-ethereum-be-in-3-years/)**
+**[1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee](https://www.fool.com/investing/2026/11/06/1-cryptocurrency-buy-soars-11000-bitmines-tom-lee/)**
 
-Ethereum isn't broken; it's just slow. Here's why that matters over the next three years.
+Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors.
 
-The Motley Fool • 1d ago
-
----
-
-**[1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee](https://www.theglobeandmail.com/investing/markets/stocks/HOOD-Q/pressreleases/8703732/1-top-cryptocurrency-to-buy-before-it-soars-by-11-000-according-to-bitmine-s-tom-lee/)**
-
-Detailed price information for Robinhood Markets Cl A (HOOD-Q) from The Globe and Mail including charting and trades.
-
-The Globe and Mail • 2h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Bleed Amid Broader Sell-Off: Analyst Says BTC Will Bottom After Sweeping This Level](https://www.tradingview.com/news/benzinga:49111096a094b:0-bitcoin-ethereum-xrp-dogecoin-bleed-amid-broader-sell-off-analyst-says-btc-will-bottom-after-sweeping-this-level/)**
+**[Bitcoin, Ethereum, XRP Slide as Peter Schiff Warns ‘Expect More Days Like Today’](https://www.tradingview.com/news/benzinga:9544553c4094b:0-bitcoin-ethereum-xrp-slide-as-peter-schiff-warns-expect-more-days-like-today/)**
 
-Leading cryptocurrencies sank alongside stocks on Thursday as investors priced in AI sector risks following Democratic control of Congress.Crypto Market Does a U-TurnBitcoin cratered to $75,220, marking its lowest level since mid-September. Ethereum fell to roughly $2,230–$2,315, hitting its lowest…
+Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 5% Thursday, with Peter Schiff warning "expect more days like today."Schiff Calls Thursday’s Selloff ‘Perfectly Rational’Schiff noted that Wednesday’s stock rally following the Democratic landslide "made no sense," wh…
 
-TradingView • 16h ago
+TradingView • 1d ago
 
 ---
 
 **[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says | CoinDesk Videos](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
 
-CoinDesk • 4h ago
+CoinDesk • 9h ago
+
+---
+
+**[Ethereum software bug triggers emergency fixes across major layer-2 networks](https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/)**
+
+CryptoSlate • 5h ago
 
 ---
 
@@ -210,7 +208,13 @@ CoinDesk • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 10h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Bleed Amid Broader Sell-Off: Analyst Says BTC Will Bottom After Sweeping](https://www.benzinga.com/crypto/cryptocurrency/26/11/62965453/bitcoin-ethereum-xrp-dogecoin-crypto)**
+
+Benzinga • 21h ago
 
 ---
 
@@ -222,27 +226,9 @@ Kitco • 1d ago
 
 ---
 
-**[Ethereum’s decentralization model is the answer to an AI arms race: Vitalik Buterin](https://ambcrypto.com/ethereums-decentralization-model-is-the-answer-to-ai-arms-race-vitalik-buterin/)**
-
-Ethereum’s decentralization could strengthen its long-term value as AI risks increase demand for open infrastructure.
-
-AMBCrypto • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
-
-Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain.
-
-📺 The Rollup
-
-👁️ 12K • 👍 212 • 💬 68 • ⏱️ 9:00 • 19h ago
-
----
 
 **[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
 
@@ -250,27 +236,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 12K • 👍 256 • 💬 53 • ⏱️ 10:12 • 21h ago
-
----
-
-**[Ripple And XRP Are Making Major Moves And No One Notices Ethereum Is About To Become Mainstream](https://www.youtube.com/watch?v=ZInfCw1FagQ)**
-
-Everyone out there is going to miss out on whats going on and its a shame. The cryptocurrency market has never seen this much ...
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 645 • 💬 259 • ⏱️ 33:44 • 8h ago
-
----
-
-**[Bitcoin And Ethereum Are Preparing For Something Massive Crypto Whales Are Doing The Unthinkable](https://www.youtube.com/watch?v=fI-6zqZly_M)**
-
-When crypto prices fall, retail investors flee the market, unable to understand that something bigger is happening behind the ...
-
-📺 The Modern Investor
-
-👁️ 9K • 👍 687 • 💬 140 • ⏱️ 32:49 • 1d ago
+👁️ 13K • 👍 263 • 💬 55 • ⏱️ 10:12 • 1d ago
 
 ---
 
@@ -280,7 +246,17 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 212 • 💬 8 • ⏱️ 8:19 • 22h ago
+👁️ 9K • 👍 215 • 💬 7 • ⏱️ 8:19 • 1d ago
+
+---
+
+**[Ethereum: The Final Drop of This Correction?](https://www.youtube.com/watch?v=W5wnnUYOJ2M)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 75 • 💬 18 • ⏱️ 6:44 • 2h ago
 
 ---
 
@@ -290,47 +266,67 @@ Is Ethereum having its Amazon moment? Sharplink CEO Joseph Chalom believes inves
 
 📺 Coinage
 
-👁️ 17K • 👍 160 • 💬 83 • ⏱️ 20:55 • 2d ago
+👁️ 17K • 👍 162 • 💬 83 • ⏱️ 20:55 • 2d ago
 
 ---
 
-**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=qeo2K_BmmXI)**
+**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain.
 
-📺 Crypto Nutshell
+📺 The Rollup
 
-👁️ 5K • 👍 99 • 💬 65 • ⏱️ 23:02 • 2d ago
-
----
-
-**[Arkéa cyberattack, T3 unit, Injective ETF, Ethereum ETFs and ApeChain CCIP](https://www.youtube.com/watch?v=vn3S4imp1mc)**
-
-Arkéa cyberattack, T3 unit, Injective ETF, Ethereum ETFs and ApeChain CCIP Crédit Mutuel Arkéa says a cyberattack is contained ...
-
-📺 The Coin Daily
-
-👁️ 1K • ⏱️ 11:06 • 1d ago
+👁️ 16K • 👍 237 • 💬 4 • ⏱️ 9:00 • 23h ago
 
 ---
 
-**[ICP is the SOLUTION! Vitalik&#39;s Message Raises a BIG Question for Ethereum](https://www.youtube.com/watch?v=27aZZXoGUSU)**
+**[Ethereum Just Had Its WORST Day Since June!!](https://www.youtube.com/watch?v=GaCClsZKjYs)**
 
-Join the OC HERO Community: https://oc.app/community/s6uwt-5iaaa-aaaac-be5xa-cai/channel/3896146702 HERO: ...
+Ethereum (ETH) just had its worst day since June, down 7.7% in a single day after its best day in seven weeks. Is this the bottom, ...
 
-📺 Zero to Hero
+📺 Marzell Crypto
 
-👁️ 2K • 👍 176 • 💬 19 • ⏱️ 20:41 • 1d ago
+👁️ 160 • 👍 8 • 💬 2 • ⏱️ 3:19 • 9h ago
 
 ---
 
-**[ETHEREUM DOING THE RIPSKY!! 📈 NOVEMBER 4 $ETH](https://www.youtube.com/watch?v=YmmmMoNaMiM)**
+**[Crypto Altcoin Holders Look Like FOOLS Right Now... But The Story Isn’t Over](https://www.youtube.com/watch?v=9Sphy3OOttw)**
 
-ETHEREUM DOING THE RIPSKY!! NOVEMBER 4 $ETH.
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ Altcoin holders look like fools ...
 
-📺 Overkill Trading
+📺 Crypto Capital Venture
 
-👁️ 2K • 👍 89 • 💬 3 • ⏱️ 2:58 • 2d ago
+👁️ 8K • 👍 377 • 💬 72 • ⏱️ 16:21 • 6h ago
+
+---
+
+**[Ripple And XRP Are Making Major Moves And No One Notices Ethereum Is About To Become Mainstream](https://www.youtube.com/watch?v=ZInfCw1FagQ)**
+
+Everyone out there is going to miss out on whats going on and its a shame. The cryptocurrency market has never seen this much ...
+
+📺 The Modern Investor
+
+👁️ 9K • 👍 705 • 💬 276 • ⏱️ 33:44 • 13h ago
+
+---
+
+**[CRYPTO MARKET DUMPS! CZ BINANCE VS KEVIN O&#39;LEARY &amp; HUGE ETHEREUM &amp; SOLANA ADOPTION!](https://www.youtube.com/watch?v=_xRm-oXtH64)**
+
+Crypto News: Bitcoin and the crypto market follow the stock market with a big dump. Binance and founder CZ subpoena Shark ...
+
+📺 Thinking Crypto
+
+👁️ 16K • 👍 546 • 💬 194 • ⏱️ 22:07 • 18h ago
+
+---
+
+**[THIS LOOKS VERY BULLISH FOR ETH! (Ethereum Update)](https://www.youtube.com/watch?v=sEaV_T6bbZY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 876 • 👍 19 • 💬 4 • ⏱️ 4:41 • 2d ago
 
 ---
 

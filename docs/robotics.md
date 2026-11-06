@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-06T18:58:25.074979+00:00'
+updated: '2026-11-06T23:41:58.405365+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 06, 2026 at 18:58 UTC  
+**Last Updated:** November 06, 2026 at 23:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,7 +108,7 @@ Hi guys, I need help. I'm trying to make my first autonomous navigating robot wi
 
 Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
 
-2d ago
+3d ago
 
 ---
 
@@ -118,7 +118,7 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 **[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
 
-Financial Times • 9h ago
+Financial Times • 13h ago
 
 ---
 
@@ -126,15 +126,7 @@ Financial Times • 9h ago
 
 Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.
 
-TechCrunch • 21h ago
-
----
-
-**[Meet the 20-something Brooklyn whiz kids building robots NASA will send to space next year](https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/)**
-
-“We have big ambitions,” says Icarus Robotics co-founder Jamie Palmer, 26.
-
-New York Post • 1h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -146,7 +138,7 @@ ABB • 1d ago
 
 **[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/06/china-blocks-54-billion-abb-robotics-deal-with-billionaire-mayasoshi-sons-softbank/)**
 
-Forbes • 12h ago
+Forbes • 17h ago
 
 ---
 
@@ -160,7 +152,7 @@ The New York Times • 1d ago
 
 Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
 
-GeekWire • 16h ago
+GeekWire • 20h ago
 
 ---
 
@@ -168,19 +160,29 @@ GeekWire • 16h ago
 
 The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they’re learning.
 
-MIT Technology Review • 8h ago
+MIT Technology Review • 13h ago
 
 ---
 
-**[Oregon robotics company has volatile debut on Wall Street](https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-companys-stock-slides-on-first-day-of-trading.html)**
+**[Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)**
 
-OregonLive.com • 21h ago
+US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.
+
+Ars Technica • 1d ago
 
 ---
 
 **[Pentagon Taps Robotics Startup in Push for Cheap Attack Drones](https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 10h ago
+
+---
+
+**[Octopuses Can Squeeze Their Bodies Through Tiny Holes, And Scientists Are in Awe](https://www.sciencealert.com/octopuses-can-squeeze-their-bodies-through-tiny-holes-and-scientists-are-in-awe)**
+
+Octopuses are notorious shape-shifters.
+
+ScienceAlert • 12h ago
 
 ---
 
@@ -194,47 +196,27 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 10K • 👍 218 • 💬 29 • ⏱️ 6:44 • 1d ago
+👁️ 11K • 👍 226 • 💬 32 • ⏱️ 6:44 • 2d ago
 
 ---
 
-**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
+**[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
 
-Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
+Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
 
-📺 Mahdi Designs
+📺 Statrys
 
-👁️ 156K • 👍 3K • 💬 271 • ⏱️ 15:06 • 3d ago
-
----
-
-**[Tesla Optimus Just Changed Everything! New AI Robot Abilities Revealed](https://www.youtube.com/watch?v=WoXCF-9ju_Y)**
-
-Tesla Optimus is getting smarter, more capable, and closer to becoming a truly autonomous humanoid robot! In this video, we ...
-
-📺 Ai_Mobility_News
-
-👁️ 83K • 👍 573 • 💬 73 • ⏱️ 16:12 • 6d ago
+👁️ 88K • 👍 1K • 💬 244 • ⏱️ 15:13 • 12h ago
 
 ---
 
-**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
+**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
 
-I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
+This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
 
-📺 SECTOR 07
+📺 Unstoppable Gadgets
 
-👁️ 102K • 👍 2K • 💬 122 • ⏱️ 18:03 • 6d ago
-
----
-
-**[China is building GIANT ROBOTS that are Shocking the World!](https://www.youtube.com/watch?v=uOLWQ9d0YYg)**
-
-chinarobot #chinatechnology #chinainnovation Why China Is Winning The Giant Robot Race (And America Failed) China is ...
-
-📺 Work Time
-
-👁️ 137K • 👍 1K • 💬 127 • ⏱️ 21:22 • 6d ago
+👁️ 31K • 👍 538 • 💬 15 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -244,47 +226,67 @@ A humanoid robot shook hands and struck poses while out in public in California.
 
 📺 Inside Edition
 
-👁️ 22K • 👍 293 • 💬 81 • ⏱️ 1:43 • 1d ago
+👁️ 23K • 👍 298 • 💬 82 • ⏱️ 1:43 • 2d ago
 
 ---
 
-**[Why This NASA Robot Jumps When It Brakes](https://www.youtube.com/watch?v=fqcaPc6w1H4)**
+**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
 
-Hedgehog jumps by braking its internal flywheels. The wheels' angular momentum transfers to the robot's body, while its spikes ...
+https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
 
-📺 Built to Explain
+📺 Casey.aicreates
 
-👁️ 3K • 👍 49 • ⏱️ 0:26 • 22h ago
-
----
-
-**[I May Have Overcomplicated My Robot Arm](https://www.youtube.com/watch?v=u7XFP5yQadI)**
-
-It's been a long time coming-- but I've finally gained some control. Over a small portion of my robot that is. So what did it take to get ...
-
-📺 Cinema Mechanics
-
-👁️ 28K • 👍 840 • 💬 95 • ⏱️ 17:44 • 1d ago
+👁️ 1K • 👍 127 • 💬 3 • ⏱️ 1:44 • 2h ago
 
 ---
 
-**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
 
-Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
+Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
 
-📺 History Seeker
+📺 Mahdi Designs
 
-👁️ 88K • 👍 2K • 💬 55 • ⏱️ 0:09 • 6d ago
+👁️ 168K • 👍 3K • 💬 282 • ⏱️ 15:06 • 3d ago
 
 ---
 
-**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
+**[Tesla Optimus Just Changed Everything! New AI Robot Abilities Revealed](https://www.youtube.com/watch?v=WoXCF-9ju_Y)**
 
-For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
+Tesla Optimus is getting smarter, more capable, and closer to becoming a truly autonomous humanoid robot! In this video, we ...
 
-📺 Eric Cracks China
+📺 Ai_Mobility_News
 
-👁️ 81K • 👍 3K • 💬 158 • ⏱️ 2:58 • 3d ago
+👁️ 83K • 👍 574 • 💬 73 • ⏱️ 16:12 • 6d ago
+
+---
+
+**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
+
+America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
+
+📺 Living in China
+
+👁️ 60K • 👍 2K • 💬 130 • ⏱️ 7:07 • 1d ago
+
+---
+
+**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
+
+I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
+
+📺 SECTOR 07
+
+👁️ 105K • 👍 2K • 💬 123 • ⏱️ 18:03 • 6d ago
+
+---
+
+**[Inside Tesla’s Robot Academy - Preparing the Optimus Surge in 2027](https://www.youtube.com/watch?v=VtP5IBSko2g)**
+
+Elon Musk just tore down the historic Model S and Model X lines in 46 days to build the Tesla Optimus humanoid robot at ...
+
+📺 Auto Aspect
+
+👁️ 39K • 👍 372 • 💬 59 • ⏱️ 25:55 • 6d ago
 
 ---
 
