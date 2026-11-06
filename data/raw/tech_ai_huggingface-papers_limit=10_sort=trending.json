@@ -16,8 +16,27 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 120859,
+      "github_stars": 120972,
       "project_page": null
+    },
+    {
+      "id": "2508.19205",
+      "title": "VibeVoice Technical Report",
+      "authors": "Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)",
+      "organization_name": "MicrosoftResearch",
+      "organization_fullname": "Microsoft Research",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
+      "summary": "This report presents VibeVoice, a novel model designed to synthesize\nlong-form speech with multiple speakers by employing next-token diffusion,\nwhich is a unified method for modeling continuous data by autoregressively\ngenerating latent vectors via diffusion. To enable this, we introduce a novel\ncontinuous speech tokenizer that, when compared to the popular Encodec model,\nimproves data compression by 80 times while maintaining comparable performance.\nThe tokenizer effectively preserves audio fidelity while significantly boosting\ncomputational efficiency for processing long sequences. Thus, VibeVoice can\nsynthesize long-form speech for up to 90 minutes (in a 64K context window\nlength) with a maximum of 4 speakers, capturing the authentic conversational\n``vibe'' and surpassing open-source and proprietary dialogue models.",
+      "ai_summary": "VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.",
+      "hf_url": "https://huggingface.co/papers/2508.19205",
+      "arxiv_url": "https://arxiv.org/abs/2508.19205",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.19205.png",
+      "upvotes": 183,
+      "num_comments": 10,
+      "published_at": "2025-08-26T13:09:12.000Z",
+      "github_repo": "https://github.com/microsoft/VibeVoice",
+      "github_stars": 56385,
+      "project_page": "https://microsoft.github.io/VibeVoice/"
     },
     {
       "id": "2508.02739",
@@ -35,7 +54,7 @@
       "num_comments": 5,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 46957,
+      "github_stars": 46999,
       "project_page": null
     },
     {
@@ -54,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 4846,
+      "github_stars": 4866,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
@@ -73,27 +92,8 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 22828,
+      "github_stars": 22900,
       "project_page": "https://harness2.github.io/"
-    },
-    {
-      "id": "2508.19205",
-      "title": "VibeVoice Technical Report",
-      "authors": "Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)",
-      "organization_name": "MicrosoftResearch",
-      "organization_fullname": "Microsoft Research",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
-      "summary": "This report presents VibeVoice, a novel model designed to synthesize\nlong-form speech with multiple speakers by employing next-token diffusion,\nwhich is a unified method for modeling continuous data by autoregressively\ngenerating latent vectors via diffusion. To enable this, we introduce a novel\ncontinuous speech tokenizer that, when compared to the popular Encodec model,\nimproves data compression by 80 times while maintaining comparable performance.\nThe tokenizer effectively preserves audio fidelity while significantly boosting\ncomputational efficiency for processing long sequences. Thus, VibeVoice can\nsynthesize long-form speech for up to 90 minutes (in a 64K context window\nlength) with a maximum of 4 speakers, capturing the authentic conversational\n``vibe'' and surpassing open-source and proprietary dialogue models.",
-      "ai_summary": "VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.",
-      "hf_url": "https://huggingface.co/papers/2508.19205",
-      "arxiv_url": "https://arxiv.org/abs/2508.19205",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.19205.png",
-      "upvotes": 183,
-      "num_comments": 10,
-      "published_at": "2025-08-26T13:09:12.000Z",
-      "github_repo": "https://github.com/microsoft/VibeVoice",
-      "github_stars": 55998,
-      "project_page": "https://microsoft.github.io/VibeVoice/"
     },
     {
       "id": "2608.16157",
@@ -111,7 +111,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 16722,
+      "github_stars": 16757,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -130,27 +130,27 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 30651,
+      "github_stars": 30711,
       "project_page": null
     },
     {
-      "id": "2611.01560",
-      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
-      "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
-      "ai_summary": "Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.",
-      "hf_url": "https://huggingface.co/papers/2611.01560",
-      "arxiv_url": "https://arxiv.org/abs/2611.01560",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.01560.png",
-      "upvotes": 47,
-      "num_comments": 1,
-      "published_at": "2026-10-31T20:00:00.000Z",
-      "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
-      "github_stars": 238,
-      "project_page": "https://openrua.ai/uni-robot-agent"
+      "id": "2611.04894",
+      "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
+      "authors": "ZhengXian Wu, Qianhao Nie, Zhuohong Chen et al. (13 authors)",
+      "organization_name": "antgroup",
+      "organization_fullname": "Ant Group",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/662e1f9da266499277937d33/7VcPHdLSGlged3ixK1dys.jpeg",
+      "summary": "Multimodal agents use web and image tools to answer questions beyond their internal knowledge. Some search tasks use images mainly to identify an initial entity, then rely on text retrieval. These tasks offer limited insight into how agents connect information across images, objects, and search steps. We therefore focus on visual context management. This involves organizing and using visual information and linking it to other findings during search. Visually intensive tasks require agents to combine object appearance, local details, or spatial relations with external information. We introduce VisSearch-Bench, with 204 human-written tasks across 7 main domains and 25 subdomains. It covers Set-wise Visual Search, Sequential Visual Search, Hybrid Wide-Deep Search, Competitive Visual Disambiguation, and Visual-Structure-Guided Search. Each task provides a reference answer, traceable evidence, and scoring rules. Accuracy measures complete task success, while Process Score measures the correctness and completeness of individual results and subquestion answers. Across 16 multimodal models, the best system fully solves only 26.47% of tasks, even with search tools. These results highlight the challenge of linking visual evidence with search results to produce complete answers.",
+      "ai_summary": "VisSearch-Bench evaluates multimodal agents on visually intensive search tasks that require integrating visual context with external information, showing that even the best system fully solves only 26.47% of tasks.",
+      "hf_url": "https://huggingface.co/papers/2611.04894",
+      "arxiv_url": "https://arxiv.org/abs/2611.04894",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.04894.png",
+      "upvotes": 17,
+      "num_comments": 2,
+      "published_at": "2026-11-02T19:00:00.000Z",
+      "github_repo": "https://github.com/antins-labs/VisSearch-Bench-v1",
+      "github_stars": 57,
+      "project_page": "https://dingwu1021.github.io/VisSearch-Bench/"
     },
     {
       "id": "2610.31329",
@@ -172,26 +172,26 @@
       "project_page": "https://tencent.github.io/WeVisOne-VL"
     },
     {
-      "id": "2011.09832",
-      "title": "Differentiable Data Augmentation with Kornia",
-      "authors": "Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)",
+      "id": "2611.01560",
+      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+      "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)",
       "organization_name": null,
       "organization_fullname": null,
       "organization_avatar": null,
-      "summary": "In this paper we present a review of the Kornia differentiable data\naugmentation (DDA) module for both for spatial (2D) and volumetric (3D)\ntensors. This module leverages differentiable computer vision solutions from\nKornia, with an aim of integrating data augmentation (DA) pipelines and\nstrategies to existing PyTorch components (e.g. autograd for differentiability,\noptim for optimization). In addition, we provide a benchmark comparing\ndifferent DA frameworks and a short review for a number of approaches that make\nuse of Kornia DDA.",
-      "ai_summary": "This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.",
-      "hf_url": "https://huggingface.co/papers/2011.09832",
-      "arxiv_url": "https://arxiv.org/abs/2011.09832",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2011.09832.png",
-      "upvotes": 1,
-      "num_comments": 0,
-      "published_at": "2020-11-19T09:15:21.000Z",
-      "github_repo": "https://github.com/arraiyopensource/kornia",
-      "github_stars": 12341,
-      "project_page": null
+      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
+      "ai_summary": "Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.",
+      "hf_url": "https://huggingface.co/papers/2611.01560",
+      "arxiv_url": "https://arxiv.org/abs/2611.01560",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.01560.png",
+      "upvotes": 47,
+      "num_comments": 1,
+      "published_at": "2026-10-31T20:00:00.000Z",
+      "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
+      "github_stars": 258,
+      "project_page": "https://openrua.ai/uni-robot-agent"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-06T11:51:17.016330+00:00"
+  "fetched_at": "2026-11-06T18:57:42.915868+00:00"
 }
