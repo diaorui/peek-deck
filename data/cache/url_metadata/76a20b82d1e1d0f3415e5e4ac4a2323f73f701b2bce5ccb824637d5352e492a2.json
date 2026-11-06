@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-06T11:51:35.538018+00:00",
+  "data": {
+    "url": "https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038",
+    "title": "EIP-8037/EIP-8038 Glamsterdam | Ethereum Foundation Blog",
+    "description": "In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...",
+    "image": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "favicon": "https://blog.ethereum.org/images/favicon.png",
+    "site_name": "Ethereum Foundation Blog",
+    "author": null,
+    "keywords": null
+  }
+}
