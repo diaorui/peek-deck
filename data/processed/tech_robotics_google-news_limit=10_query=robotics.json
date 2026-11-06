@@ -25,16 +25,6 @@
       "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools."
     },
     {
-      "headline": "Meet the 20-something Brooklyn whiz kids building robots NASA will send to space next year",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUlMQjYwWWZfYkdXa1pGVk5HVGljby1qQlJfbGFBZVhFU2hYcVpIQzdQeU9FdWdZTEFoMkhUMHA2anItMTFPSEdSMDlzT2ZKUGhXZXBRZTFNRkQ2SjJNNEJiWlctbkNOLWZjUUtweEo5S3VQOFRtakJCWlpQZGRoWGxmLTMtZTN4MDRpN1VoY01RN3ZweTVzTWZHVHlWUQ?oc=5",
-      "pub_date": 1793986620.0,
-      "article_url": "https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-iebfzz08i-1793986550429.jpg?quality=75&strip=all&1793968563&w=1200",
-      "description": "\u201cWe have big ambitions,\u201d says Icarus Robotics co-founder Jamie Palmer, 26."
-    },
-    {
       "headline": "Update on divestment of ABB Robotics",
       "source": "ABB",
       "source_url": "https://www.abb.com",
@@ -85,14 +75,14 @@
       "description": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they\u2019re learning."
     },
     {
-      "headline": "Oregon robotics company has volatile debut on Wall Street",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHFpVUVzQzlVUG0wM0laczJ1R1JKdW1ubWF0cjE5a0VTdEx3cHlGSDBVc0ZnNjRPOGpQZ09iRHZLNkhQX1ZhSkxZV1BtU0JxVDM2d2wycDBOWmhrTlpRT2pPbDBsUjJGNGNJVENhMTBYMEhpNXRCb3hIbHU4NzkzUmV1SXpmYTdzTno4YmpFNXpSOGlBWGlreWVpVlBNT2ZQbE50aU5RbjFuTjczSnlQZTFraldpLVU?oc=5",
-      "pub_date": 1793914680.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-companys-stock-slides-on-first-day-of-trading.html",
-      "image": null,
-      "description": null
+      "headline": "Agility Robotics\u2019 Nasdaq debut invites scrutiny of humanoid robot market",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmp2QnJjbUhiWkhTQmhfZzgydGJIS1g3QkZsVnVyYjJvV19xUWpMVkNwS0dyWXBoOU56WThDRVZPMGk4cTExY1lEQTZaREtVNDdiSjB0a3NNOEtTb1F2MHg3aHJBdkN0V1RWTWhVUWRONmRkM1JrY29NeDBzZkw3ZFh1U2c0cV9KcGg3X0VHamxONS1yNk9oWU03dEs0TFNyM2FDTG1NVGpVZFU?oc=5",
+      "pub_date": 1793880041.0,
+      "article_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
+      "description": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
     },
     {
       "headline": "Pentagon Taps Robotics Startup in Push for Cheap Attack Drones",
@@ -103,8 +93,18 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Octopuses Can Squeeze Their Bodies Through Tiny Holes, And Scientists Are in Awe",
+      "source": "ScienceAlert",
+      "source_url": "https://www.sciencealert.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSXE0RnBTTlZidkZxNUgxdllqei1iWjRiUUxpcV9fUjhpTWVXd2F3clhnS2E2T3V6bU95Zk5SYy1oV0t4QXR2VlFxQllmX2dIZlNzYVVNa0FaVXVnclZXS0pPUU82d0V3bVhXQ3VWaktCdERUYnF2M2lqUV9IdU9scFg2LVFOc1pwNWx3NzJ4WmtoYTk2RGI2SmVsVnhLTGpTZEowYXl6amVrcVVO?oc=5",
+      "pub_date": 1793962976.0,
+      "article_url": "https://www.sciencealert.com/octopuses-can-squeeze-their-bodies-through-tiny-holes-and-scientists-are-in-awe",
+      "image": "https://www.sciencealert.com/images/2026/11/GettyImages-2227406850-2560x1440-1.jpg",
+      "description": "Octopuses are notorious shape-shifters."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-06T18:58:23.422304+00:00"
+  "fetched_at": "2026-11-06T23:41:36.320859+00:00"
 }
