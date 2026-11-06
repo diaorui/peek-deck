@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-06T03:32:42.400244+00:00",
+  "data": {
+    "url": "https://cryptobriefing.com/ethereum-partitioned-binary-tree-eip-8297/",
+    "title": "Ethereum prepares to overhaul its state structure with a Partitioned Binary Tree",
+    "description": "Ethereum's EIP-8297 Partitioned Binary Tree passed a mainnet shadowfork test, aiming for smaller state proofs and state expiry by Q4 2026.",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/05200926/library-ethereum-prepares-to-overhaul-its-state-structure-with-a-800x450.png",
+    "favicon": "https://cryptobriefing.com/wp-content/themes/cryptobriefing-lovable/assets/img/brand/apple-touch-icon.png",
+    "site_name": "Crypto Briefing",
+    "author": "John Chen",
+    "keywords": null
+  }
+}

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-05T23:20:55.117546+00:00'
+updated: '2026-11-06T03:32:55.030887+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 05, 2026 at 23:20 UTC  
+**Last Updated:** November 06, 2026 at 03:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D
 
-16h ago
+20h ago
 
 ---
 
@@ -76,7 +76,7 @@ Después de un accidente se han vuelto a construir las piernas. Está vez con en
 
 I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
 
-21h ago
+1d ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev ki
 
 guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can’t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online
 
-18h ago
+23h ago
 
 ---
 
@@ -92,7 +92,7 @@ guys, need help asap, how can i connect the sg90 servo motor and 10k potentiomet
 
 Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!
 
-17h ago
+21h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I am developing a project called SmartGrid, an offline robotic tool
 
 Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?
 
-17h ago
+21h ago
 
 ---
 
@@ -116,15 +116,31 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 ## Google News: "robotics"
 
-**[Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq](https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html)**
+**[Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/)**
 
-OregonLive.com • 6h ago
+Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.
+
+TechCrunch • 6h ago
 
 ---
 
 **[China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals](https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html)**
 
-The New York Times • 11h ago
+The New York Times • 16h ago
+
+---
+
+**[Oregon robotics company closes deal to go public, will start trading Thursday on Nasdaq](https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-company-closes-deal-to-go-public-will-start-trading-thursday-on-nasdaq.html)**
+
+OregonLive.com • 10h ago
+
+---
+
+**[Webster students show off their creations at SparX Robotics Open House](https://13wham.com/news/local/webster-students-show-off-their-creations-at-sparx-robotics-open-house)**
+
+13WHAM ABC Rochester provides local news, weather forecasts, traffic updates, health reports, notices of events and items of interest in the community, local sports and entertainment programming for Rochester and nearby towns and communities including Greece, Victor, Pittsford, Penfield, Henrietta, Webster, Irondequoit, Fairport, Chili, Gates, Rush, Wheatland, Canandaigua, Farmington, Spencerport and Hilton.
+
+13WHAM-TV • 1h ago
 
 ---
 
@@ -132,7 +148,21 @@ The New York Times • 11h ago
 
 Humble Robotics raised $51 million to build electric, cabless self-driving trucks. Founder Eyal Cohen previously worked at Apple, Uber, and Waabi.
 
-Business Insider • 9h ago
+Business Insider • 13h ago
+
+---
+
+**[Powered by GPT-6, Unitree humanoid robots master painting without prior training](https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo)**
+
+SCMP • 16h ago
+
+---
+
+**[Why are people attacking food delivery robots?](https://www.foxnews.com/tech/why-people-attacking-food-delivery-robots)**
+
+A handful of food delivery robots from Uber Eats and other platforms have gotten kicked and knocked over in Philadelphia and Los Angeles.
+
+Fox News • 14h ago
 
 ---
 
@@ -140,53 +170,23 @@ Business Insider • 9h ago
 
 What began as an experiment has grown into a commercial tourism industry.
 
-ZME Science • 6h ago
+ZME Science • 10h ago
 
 ---
 
-**[AIM Robotics Showcases Canadian Sovereign Airspace Technology at DND's 2026 Counter-UAS Sandbox](https://www.indystar.com/press-release/story/146669/aim-robotics-showcases-canadian-sovereign-airspace-technology-at-dnds-2026-counter-uas-sandbox/)**
+**[Serve Robotics Inc. (SERV) Reports Q3 Earnings: What Key Metrics Have to Say](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-inc-serv-reports-000001098.html)**
 
-Waterloo-based technology company demonstrates integrated airspace intelligence capabilities in a Canadian defence
+The headline numbers for Serve Robotics Inc. (SERV) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.
 
-IndyStar • 4h ago
-
----
-
-**[Noitom Robotics Introduces ITW-Ego Plus at CoRL 2026: In-the-Wild Egocentric Data With Full-Body Motion](https://www.usatoday.com/press-release/story/55875/noitom-robotics-introduces-itw-ego-plus-at-corl-2026-in-the-wild-egocentric-data-with-full-body-motion/)**
-
-Three main-track papers — HiPHI, OmniContact and AdaPT — presented Nov. 10; NEAR Lab research unit introduced; Booth
-
-USA Today • 8h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak](https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/)**
+**[NVIDIA’s VFlash speeds robot trajectory decoding 12x, cuts prediction errors by 61%](https://interestingengineering.com/ai-robotics/nvidia-vflash-robot-planning-speed-trajectory-accuracy)**
 
-Companies spanning construction and robotics have raised about $1.6 billion so far this year  — more than 4x the $389 million recorded in all of 2025 — according to Crunchbase data. The surge was driven by three companies that raised the majority of the funding.
+VFlash achieved 70.2% average robot manipulation success, compared with 62.6% for the baseline.
 
-Crunchbase News • 11h ago
-
----
-
-**[YYForce Publishes Updated Corporate Presentation Outlining Operating Businesses, Commercial Robotics and 2030 Priorities](https://www.morningstar.com/news/pr-newswire/20261105cn89940/yyforce-publishes-updated-corporate-presentation-outlining-operating-businesses-commercial-robotics-and-2030-priorities)**
-
-Morningstar • 10h ago
-
----
-
-**[MIT students build combat robots designed to survive brutal battles](https://interestingengineering.com/ai-robotics/fighting-robots-get-armor-upgrades)**
-
-MIT students upgraded the ARES and KRATOS combat robots with enhanced armor and improved weapon systems.
-
-Interesting Engineering • 9h ago
-
----
-
-**[Strive Robotics Raises $3M+ to Build Physical AI for Manufacturing](https://natlawreview.com/press-releases/strive-robotics-raises-3m-build-physical-ai-manufacturing)**
-
-Strive Robotics Team in the Lab
-
-The National Law Review • 1h ago
+Interesting Engineering • 3h ago
 
 ---
 
@@ -194,33 +194,33 @@ The National Law Review • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
-
-King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
-
-📺 Kathryn Petrillo
-
-👁️ 12K • 👍 417 • 💬 13 • ⏱️ 0:49 • 17h ago
-
----
-
 **[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
 
 Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
 
 📺 Agility
 
-👁️ 8K • 👍 172 • 💬 24 • ⏱️ 6:44 • 1d ago
+👁️ 8K • 👍 186 • 💬 24 • ⏱️ 6:44 • 1d ago
 
 ---
 
-**[Israel&#39;s NEW Combat Robots Are On Another Level!](https://www.youtube.com/watch?v=WxlrovIW8dI)**
+**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
 
-Israeli unmanned aerial vehicles, unmanned ground vehicles, and unmanned surface vessels are some of the most advanced ...
+King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
 
-📺 Incredible Facts
+📺 Kathryn Petrillo
 
-👁️ 63K • 👍 840 • 💬 56 • ⏱️ 13:40 • 6d ago
+👁️ 15K • 👍 438 • 💬 14 • ⏱️ 0:49 • 21h ago
+
+---
+
+**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
+
+America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
+
+📺 Living in China
+
+👁️ 32K • 👍 1K • 💬 102 • ⏱️ 7:07 • 16h ago
 
 ---
 
@@ -230,17 +230,37 @@ Tesla Optimus is getting smarter, more capable, and closer to becoming a truly a
 
 📺 Ai_Mobility_News
 
-👁️ 81K • 👍 569 • 💬 73 • ⏱️ 16:12 • 5d ago
+👁️ 81K • 👍 571 • 💬 73 • ⏱️ 16:12 • 5d ago
 
 ---
 
-**[THIS is the HEADACHE EXPRESS - War Robots Lumen UE Raven](https://www.youtube.com/watch?v=ANsx76mt0sY)**
+**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
 
-War Robots Gameplay: Lumen UE Raven is the Headache Express WR My War Robots Creator Link: https://wr.my.games/manni ...
+A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
 
-📺 Manni-Gaming
+📺 Inside Edition
 
-👁️ 8K • 👍 264 • 💬 40 • ⏱️ 10:32 • 10h ago
+👁️ 20K • 👍 275 • 💬 72 • ⏱️ 1:43 • 1d ago
+
+---
+
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
+
+Patreon https://www.patreon.com/mahdidesigns Waitlist https://mdesigns.space/projects/m1-humanoid-arm Donations ...
+
+📺 Mahdi Designs
+
+👁️ 112K • 👍 2K • 💬 218 • ⏱️ 15:06 • 3d ago
+
+---
+
+**[I May Have Overcomplicated My Robot Arm](https://www.youtube.com/watch?v=u7XFP5yQadI)**
+
+It's been a long time coming-- but I've finally gained some control. Over a small portion of my robot that is. So what did it take to get ...
+
+📺 Cinema Mechanics
+
+👁️ 24K • 👍 761 • 💬 91 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -250,7 +270,17 @@ chinarobot #chinatechnology #chinainnovation Why China Is Winning The Giant Robo
 
 📺 Work Time
 
-👁️ 132K • 👍 1K • 💬 124 • ⏱️ 21:22 • 5d ago
+👁️ 134K • 👍 1K • 💬 126 • ⏱️ 21:22 • 5d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 141K • 👍 918 • 💬 116 • ⏱️ 9:12 • 3d ago
 
 ---
 
@@ -260,37 +290,7 @@ I built a little AI powered robot that can play fetch. Meet Fetch, a fully auton
 
 📺 SECTOR 07
 
-👁️ 95K • 👍 2K • 💬 119 • ⏱️ 18:03 • 5d ago
-
----
-
-**[China Blocks a $5.4B Robot Deal Over Robot Training Data](https://www.youtube.com/watch?v=OoYZRBHiX7E)**
-
-Date: November 5, 2026 Sources Update on divestment of ABB Robotics ...
-
-📺 Jason Lowe on AI
-
-👁️ 2K • 👍 134 • 💬 4 • ⏱️ 2:07 • 6h ago
-
----
-
-**[This #strawberry-picking #robot can harvest thousands of berries a day. #AI #robotics #farming #tech](https://www.youtube.com/watch?v=LUMl-3C41pY)**
-
-Business Insider is a global newsroom covering business, technology, innovation, and the economy. Visit our homepage for the ...
-
-📺 Business Insider
-
-👁️ 23K • 👍 333 • 💬 18 • ⏱️ 1:51 • 2d ago
-
----
-
-**[Elon Musk&#39;s INSANE Plan for 5,000 Optimus Gen 3 Robots!](https://www.youtube.com/watch?v=oWiAQ88L0pA)**
-
-Tesla's next Optimus Gen 3 reveal could be unlike anything you've ever seen, and you do NOT want to miss it! Elon Musk just ...
-
-📺 The AI Nexus
-
-👁️ 11K • 👍 120 • 💬 14 • ⏱️ 15:50 • 4d ago
+👁️ 97K • 👍 2K • 💬 119 • ⏱️ 18:03 • 5d ago
 
 ---
 
