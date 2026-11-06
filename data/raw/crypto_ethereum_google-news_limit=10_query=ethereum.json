@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGs1VUVmTGVkbm1nam9SY3VFSU9NWlBYY3VfUlcySlJKZi1kYnRrRzZjSHExWmZTYlZ5Smo3ZlZFOUhwaV9GNW1KeFlUalZZeTY5UjFac0xrLUZvUXlmU0M0ZjBCU1FjU1hQcmI2bENWS2ZlS2w2aWRvREFFQUpKY3VzZ1ZsUWJSZEtYZnRSOUJMYUZwZUsxcw?oc=5",
-      "pub_date": 1793871900.0,
-      "article_url": "https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892914%2Finvestor-analyst-thinking.jpg&w=1200&op=resize",
-      "description": "If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom."
-    },
-    {
       "headline": "Why Bitmine Immersion Technologies Stock Is In Focus After Its Ethereum Buying Spree",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,16 +15,6 @@
       "description": "Bitmine Immersion Technologies recently acquired nearly US$20 million of Ethereum, bringing its ETH holdings to 6.06 million tokens, equal to 4.9% of the 122.2 million total supply, alongside US$14.5b in combined crypto, cash and marketable securities. This sizeable Ethereum position, together with Tom Lee\u2019s comments on the market\u2019s resilience after the Binance hack, places Bitmine\u2019s operating focus squarely on digital asset exposure and AI infrastructure demand rather than near term..."
     },
     {
-      "headline": "Current price of Ethereum for November 5, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PX0ZJcWJiUjNReFdjX3NybjBlNkNfdF9vQ0hTU3g1ZzFLaG40NWlibV9mdFkwR2l3SlloUWpfS2VZcUJNS0tIbFJ4NUZZUmhRSy1yMl9CaUhOcnJCSUhBOTQzTDFxVkU4?oc=5",
-      "pub_date": 1793885448.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-05-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-EThereum-Nov-5.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
       "headline": "Bitcoin, Ethereum, XRP Slide as Peter Schiff Warns \u2018Expect More Days Like Today\u2019",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -43,6 +23,26 @@
       "article_url": "https://www.tradingview.com/news/benzinga:9544553c4094b:0-bitcoin-ethereum-xrp-slide-as-peter-schiff-warns-expect-more-days-like-today/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 5% Thursday, with Peter Schiff warning \"expect more days like today.\"Schiff Calls Thursday\u2019s Selloff \u2018Perfectly Rational\u2019Schiff noted that Wednesday\u2019s stock rally following the Democratic landslide \"made no sense,\" wh\u2026"
+    },
+    {
+      "headline": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGs1VUVmTGVkbm1nam9SY3VFSU9NWlBYY3VfUlcySlJKZi1kYnRrRzZjSHExWmZTYlZ5Smo3ZlZFOUhwaV9GNW1KeFlUalZZeTY5UjFac0xrLUZvUXlmU0M0ZjBCU1FjU1hQcmI2bENWS2ZlS2w2aWRvREFFQUpKY3VzZ1ZsUWJSZEtYZnRSOUJMYUZwZUsxcw?oc=5",
+      "pub_date": 1793871900.0,
+      "article_url": "https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892914%2Finvestor-analyst-thinking.jpg&w=1200&op=resize",
+      "description": "If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom."
+    },
+    {
+      "headline": "Current price of Ethereum for November 5, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PX0ZJcWJiUjNReFdjX3NybjBlNkNfdF9vQ0hTU3g1ZzFLaG40NWlibV9mdFkwR2l3SlloUWpfS2VZcUJNS0tIbFJ4NUZZUmhRSy1yMl9CaUhOcnJCSUhBOTQzTDFxVkU4?oc=5",
+      "pub_date": 1793883648.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-05-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-EThereum-Nov-5.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Most big cryptocurrencies increase as Ethereum rallies",
@@ -75,16 +75,6 @@
       "description": ".embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:\u2026"
     },
     {
-      "headline": "Designing for sovereignty: Ethereum for digital public infrastructure",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uam9ZU2xHSlU5SUtKM1E3SnAtU2xueWFmYXdkU2N6emgyeDV3SUYxWnhhOUQwUHRJcTVrNFlCazJCbTMxaVVnMGVwTGM0c3ZPMXp6NXZxa3ZKT0NXMXRSRWVNUWk?oc=5",
-      "pub_date": 1793675735.0,
-      "article_url": "https://blog.ethereum.org/2026/11/03/digital-pub-infra",
-      "image": "https://storage.googleapis.com/ethereum-hackmd/upload_d1805a5e41e5b947df38abbec662b443.jpg",
-      "description": "Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation..."
-    },
-    {
       "headline": "Ethereum Holds Two-Thirds of Ripple\u2019s $2.6 Billion RLUSD Stablecoin Even as Ripple CEO Pushes XRP Ledger",
       "source": "TipRanks",
       "source_url": "https://www.tipranks.com",
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Ethereum outlines fork plan to reach Lean Ethereum by 2029",
+      "headline": "Designing for sovereignty: Ethereum for digital public infrastructure",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uam9ZU2xHSlU5SUtKM1E3SnAtU2xueWFmYXdkU2N6emgyeDV3SUYxWnhhOUQwUHRJcTVrNFlCazJCbTMxaVVnMGVwTGM0c3ZPMXp6NXZxa3ZKT0NXMXRSRWVNUWk?oc=5",
+      "pub_date": 1793675735.0,
+      "article_url": "https://blog.ethereum.org/2026/11/03/digital-pub-infra",
+      "image": "https://storage.googleapis.com/ethereum-hackmd/upload_d1805a5e41e5b947df38abbec662b443.jpg",
+      "description": "Public services increasingly rely on digital systems that enable institutions to collaborate across organizational and national boundaries. Such cooperation..."
+    },
+    {
+      "headline": "Ethereum prepares to overhaul its state structure with a Partitioned Binary Tree",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NV1BLRUQ2NlU4NEt2X1B1UHliek5Kcl9lamFkQXBvbVFyTHVISV83SjdVMUY2Ym80OFFhVmxfejVwakJLZm1xbE4tZTAtZjJ0NC1uUEFHemg1aTlhaWNQdTVSaWtEMnRZZlIteDByc3BDSXM?oc=5",
-      "pub_date": 1793841561.0,
-      "article_url": "https://cryptobriefing.com/ethereum-fork-plan-lean-ethereum-2029/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/04201912/library-ethereum-outlines-fork-plan-to-reach-lean-ethereum-by-20-800x450.png",
-      "description": "Ethereum's roadmap targets Lean Ethereum by 2029 via about seven hard forks, adding quantum-safe signatures and a projected 10x fee cut."
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zcnVjTUh0MFktSWFTVjZlMkF6ZkwwLXpkRDFUYXpiUFJrNGJnWlo2TmpRc09Qay1zQVk5ME5ZejVnMENKOEpSeEFVM3NLYlVDQ0VmdGxvWFdTcGFMdzZnajJLX1BHOUNCdVpMMTk4MDFVdWRNVjZaWg?oc=5",
+      "pub_date": 1793927382.0,
+      "article_url": "https://cryptobriefing.com/ethereum-partitioned-binary-tree-eip-8297/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/05200926/library-ethereum-prepares-to-overhaul-its-state-structure-with-a-800x450.png",
+      "description": "Ethereum's EIP-8297 Partitioned Binary Tree passed a mainnet shadowfork test, aiming for smaller state proofs and state expiry by Q4 2026."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-05T23:20:41.172561+00:00"
+  "fetched_at": "2026-11-06T03:32:42.400356+00:00"
 }

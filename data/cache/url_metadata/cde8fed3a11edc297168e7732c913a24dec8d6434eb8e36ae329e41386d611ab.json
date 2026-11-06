@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-06T03:32:54.049859+00:00",
+  "data": {
+    "url": "https://interestingengineering.com/ai-robotics/nvidia-vflash-robot-planning-speed-trajectory-accuracy",
+    "title": "NVIDIA's VFlash speeds robot decoding 12x and cuts errors by 61%",
+    "description": "VFlash achieved 70.2% average robot manipulation success, compared with 62.6% for the baseline.",
+    "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/06/Untitled-design-9-1.jpg",
+    "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+    "site_name": "Interesting Engineering",
+    "author": "Neetika Walter",
+    "keywords": "Autonomous Driving, edge AI, Flash Primitive Decoding, Jetson Thor, NVIDIA VFlash, physical AI, robot manipulation, robot vision model, robotic trajectory prediction, Robotics Research, vision-language models"
+  }
+}

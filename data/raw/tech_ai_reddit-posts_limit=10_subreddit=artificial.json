@@ -24,6 +24,17 @@
       "description": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending"
     },
     {
+      "title": "Data Center Siting and Community Opposition",
+      "author": "HooverInstitution",
+      "url": "https://www.reddit.com/r/artificial/comments/1xoybc8/data_center_siting_and_community_opposition/",
+      "published": 1793923109.0,
+      "thumbnail": null,
+      "external_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7675140",
+      "site_name": "papers.ssrn.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Investigating vault particles with Claude",
       "author": "Resident-Fall4351",
       "url": "https://www.reddit.com/r/artificial/comments/1xor7bc/investigating_vault_particles_with_claude/",
@@ -33,6 +44,17 @@
       "site_name": "anthropic.com",
       "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
       "description": "We\u2019re sharing another finding from Anthropic\u2019s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells."
+    },
+    {
+      "title": "Palantir Made $2.3 Billion Last Quarter and Calls Itself Antiwar",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xozbic/palantir_made_23_billion_last_quarter_and_calls/",
+      "published": 1793925813.0,
+      "thumbnail": "https://external-preview.redd.it/ubmG5TX5xozP3npHqBfi0zDn19628ACFHIfJZhMeNRI.jpeg?width=640&crop=smart&auto=webp&s=8c6cdd7313f7770d320a2a2c55da7cfe6bff8acd",
+      "external_url": "https://finance.yahoo.com/markets/stocks/articles/palantir-made-2-3-billion-171727666.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAEVBsLqcecHC6WDduhb27k-_N6UHKU_dum-zuMbVpPBxwcQwi6lEtwfUEZKDcFn4MU6gbSYqd1ld-sWx4GMkX8u68tCi-5mXPUpXZ8ckcayb-yg6vhj3QG7Y1xM82YtuW2khqxi9HL2M_8LGKn1LALm2RjPsaeUtgb6l64oktlsk",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "Palantir posted $2.3 billion in Q1 2026 revenue while CEO Alex Karp claims the defense AI firm leads an antiwar movement, a tension worth scrutinizing."
     },
     {
       "title": "Is anyone using LLMs daily to build expertise in a specific field ?",
@@ -46,6 +68,17 @@
       "description": "I feel like LLMs have made it much easier to learn about almost any subject. That got me wondering: is anyone here using them every day to study a specific topic in depth, with the goal of becoming an expert in that field? If so, what are you learning, and what does your daily learning routine look like?"
     },
     {
+      "title": "Blind listening test: 62 people compared 8-bar piano loops written by 8 LLMs (Gemini, Claude, Qwen, Kimi, Grok, GPT-6.1, DeepSeek, Llama). Interim results",
+      "author": "antiochIst",
+      "url": "https://www.reddit.com/r/artificial/comments/1xoz9sv/blind_listening_test_62_people_compared_8bar/",
+      "published": 1793925681.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I ran this study. Short version: Gemini 4 Argon's loops were preferred most often (66% of pairings) and it was the only model that held up across all four styles. Claude Opus 5.5 was second (61%). Llama 4 Maverick was a distant last (27%). The five in between can't be separated yet. 62 listeners, 514 blind pairwise judgments so far. Listen first. The best-scoring loop across all 20 prompts from each of the four strongest models (Claude's is tied with one other), and the worst loop from the last-place model. Exactly as the raters heard them: same piano, same settings, ~20 s each, direct audio files. Hand-picked, so not a representative sample: Grok 4.7 \u2014 brief \"Gospel-tinged and warm, with full, voiced chords\". Chosen in 9 of its 10 pairings on this brief, the strongest single loop in the published set, from a model that is 48% overall. Gemini 4 Argon \u2014 \"Hypnotic and repetitive, built on one insistent figure\". 8 of 9. Kimi K3 \u2014 \"Warm and optimistic, the kind of loop that makes you nod\". 8 of 9. Claude Opus 5.5 \u2014 \"Moody and haunting, with a sense of unease\". 5 of 6. Llama 4 Maverick \u2014 the same \"Moody and haunting\" brief as the Claude one. 0 of 9. Blind version, 100-second video: four of the loops with the names hidden, reveal at the end. Question: 8 flagship LLMs each wrote 20 short piano loops as note lists, one per prompt, with a single attempt per prompt and no retries or revisions. Which model's loops do ordinary listeners prefer? This is about symbolic composition (notes), not audio-generation models, and not full songs. Setup Same 20 prompts to every model: 8 bars of 4/4 solo piano, 80\u2013110 BPM, output as a JSON list of notes (pitch, start, duration, velocity). One line of musical direction varied, 5 prompts in each of 4 styles (dark/emotional, uplifting/catchy, soulful/jazzy, minimal/hypnotic). One answer per model per prompt. No retries, no system prompt, no examples, vendor default sampling. Invalid output was rejected, never repaired: 158 of 160 outputs were valid (Qwen lost 2 to reasoning overflow, the rest were 20/20). Every valid loop was rendered through the same sampled grand piano (Salamander, CC-BY) at fixed settings, no normalisation, so only the notes differ. 62 paid, untrained listeners heard two loops written for the same prompt, blind, and picked one. Each listener saw each prompt at most once and any one model at most 7 times. Interim results, 514 of 1,638 planned pairwise judgments (win rate over all pairings; 95% interval from a bootstrap resampling listeners) Model Won Lost Win rate 95% CI Gemini 4 Argon 84 43 66% 57\u201375 Claude Opus 5.5 77 49 61% 51\u201370 Qwen 3.8 Max 63 51 55% 45\u201365 Kimi K3 70 61 53% 44\u201362 Grok 4.7 62 66 48% 39\u201357 DeepSeek V4 Pro 60 70 46% 37\u201355 GPT-6.1 Terra Pro 60 70 46% 37\u201355 Llama 4 Maverick 38 104 27% 19\u201335 Gemini ranked first in 79% of bootstrap replicates, Claude in 18%. Gemini has a winning record against each of the other seven (12\u20137 vs Claude), but no single series is large enough to prove it beats any one of them. Llama was last in 100% of replicates and was shut out (zero wins) on 4 of the 20 prompts. The middle five can't be ordered yet; their intervals all include 50% and each other. Side of presentation didn't matter (left chosen 48%). By style: Gemini was 62\u201368% in all four. Qwen was 72% on dark prompts but 42% on uplifting. Grok 32% on uplifting, DeepSeek 33% on soulful, Claude best on soulful at 70%. Cells are 19\u201345 judgments, so treat these as hints. What the compositions look like: the leaders write 110\u2013127 notes per 8 bars over about four octaves. DeepSeek writes 71 notes over two octaves. Llama writes 52 notes over 17 semitones with ~1% of notes below C3, basically no bass register at all. Gemini writes with the flattest dynamics (velocity SD 6.7) and the longest notes. What listeners went for: across all judgments the preferred loop had the wider pitch range 62% of the time (CI 57\u201367), more notes 59%, more bass 58%, and was the louder of the two 56%. The preferred loop had the larger velocity variation only 46% of the time. These are associations between correlated properties, not causes. Busier loops also render louder through a fixed piano, and the design can't separate the two. Limitations, honestly: interim at 31%; one generation per prompt, so within-model variance isn't measured; lay listeners, not musicians; one piano sound; the question wording changed after the first 96 judgments (re-running on the other 418 gives the same top two and the same last place); Llama was served by a third-party host at FP8, the only reduced-precision endpoint, so its result applies to that configuration. Analysis code was written with help from Claude, which is one of the arms; the judgments are human and the analysis is deterministic from the data. Happy to answer questions about the method. What would you change for the next round?"
+    },
+    {
       "title": "The missing AI number",
       "author": "Limp-Park7849",
       "url": "https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/",
@@ -57,60 +90,27 @@
       "description": null
     },
     {
-      "title": "Is the AI market correction about technology, politics, or both?",
-      "author": "Lumpy_Pick_421",
-      "url": "https://www.reddit.com/r/artificial/comments/1xoxdqr/is_the_ai_market_correction_about_technology/",
-      "published": 1793920552.0,
+      "title": "What\u2019s the difference between a traditional PKMS and an AI-powered second brain?",
+      "author": "Mindless_Might_9759",
+      "url": "https://www.reddit.com/r/artificial/comments/1xp0ael/whats_the_difference_between_a_traditional_pkms/",
+      "published": 1793928634.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "The recent stock market decline raises some interesting questions about the future of AI. Technology companies are investing billions in AI infrastructure, while political uncertainty, trade policies, and questions about profitability are adding pressure. AI can be a revolutionary technology and still be overvalued in the stock market. Those two things aren\u2019t mutually exclusive. How much of the current market uncertainty is driven by political decisions versus investors reconsidering their expectations for AI?"
+      "description": "A traditional Personal Knowledge Management System (PKMS) helps you organize, store and retrieve what you know. A second brain takes that further by helping you connect ideas, rediscover forgotten knowledge and put it to work. Andrej Karpathy explored this direction with his LLM Wiki concept, where AI organizes information into interconnected knowledge that compounds over time. I think the next evolution is making that knowledge useful to both humans and AI agents. I built Cohestry around this idea because I was drowning in notes, documents, PRDs and AI-generated research scattered across my workflow. Cohestry automatically discovers relationships between notes using deterministic connections and on-device Apple Intelligence, then resurfaces relevant information when you least expect it. While writing a PRD for a new EchoVault feature, it connected my work to the original, nameless concept I\u2019d written months earlier. I hadn\u2019t even remembered that document existed. Now I explore these relationships through a 3D knowledge graph. But the biggest goal is making that accumulated knowledge available to the AI agents I work with. Cohestry has a customizable MCP bridge that supplies relevant context to tools like Claude and ChatGPT without rebuilding it every session. It automatically redacts API keys and sensitive credentials before sharing context. It\u2019s native to iPhone and Mac, built around privacy and zero-knowledge storage. I\u2019m building toward a second brain where your knowledge becomes more useful the longer you use it. https://apps.apple.com/us/app/cohestry-second-brain/id6811573132"
     },
     {
-      "title": "Where Did the People in Between Go?",
-      "author": "Wrong-Expression6981",
-      "url": "https://www.reddit.com/r/artificial/comments/1xog015/where_did_the_people_in_between_go/",
-      "published": 1793877035.0,
+      "title": "What is the best way to do what I'm trying to do? I'm trying to recreate Autodesk Maya as close as possible but a free version",
+      "author": "Kiiaro",
+      "url": "https://www.reddit.com/r/artificial/comments/1xp082g/what_is_the_best_way_to_do_what_im_trying_to_do/",
+      "published": 1793928452.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "\u200b About forty years ago, if I wanted to call my aunt in America, I had to go to the telephone and telegraph office. I would request an international call and wait for the operator to connect me. I remember waiting an hour at a time. The voice on the other end of the receiver seemed to run a race down the telephone line and only reached me after a while. A lot of people worked in that office. Now I just take my phone out of my pocket and dial. No waiting, no asking anyone to connect me. Things have gotten so convenient. Where did the people in between go? Some took on other work, some retired, I suppose. They didn't all leave overnight. As the work that passed through human hands slowly shrank, the telephone office I remember changed along with it. Look at Korea's national telephone company. Machines that connected calls without an operator were developed in the mid-1980s. But the big waves of early retirement came more than twenty years later \u2014 thousands of people at a time. Technology doesn't replace people all at once. The people thin out after it has become ordinary, when no one is looking anymore. I heard that people who use AI a lot actually end up working longer hours. I believe it. As far as I can see, using AI right now doesn't shorten anyone's day or cut anyone's job. Many people still use it as a tool for finding answers \u2014 just as, when calculators arrived, there was still plenty of calculating left for people to do. But what happens when the AI that talks gets a body and starts to move, and every household brings in a robot? That, I think, is when people will begin handing over their place. Can we say that, just because people are busy now, human work will still be there then? Last night's news was about the American midterm elections. Once again, Musk's money was one of the big stories of the election. Why did he pour so much money into politics? I looked at that through the same lens. For a business that has already spent enormous sums in the belief that it will make money later, time matters. If policy changes and the business is delayed, the income gets pushed back while the costs keep running. If the investors who were waiting close their wallets, it gets even harder. It occurred to me that, for him, the money spent on politics might be the price of buying time \u2014 keeping the road clear so the business isn't delayed. This is my guess. I haven't seen his accounts, and I don't know his mind. Nor am I trying to condemn an American society where lobbying is legal, or to say which ideology, progressive or conservative, is right or wrong. It's just that companies invest while calculating the world to come, and they raise their voices in politics too. Meanwhile, as we enjoy the convenience of the moment, how much are we thinking about our own share? If the words and experiences we leave behind are used to grow this technology, then in the world that technology will change, where should our voice be? That is why I am building a future social contract, adding people's opinions to its seven clauses. Not because I think I know everything that will happen. I just want us to have at least one umbrella ready, together, for when the downpour comes. It's not that I dislike convenience. I use it every day too. It's just that, as we say in Korea, you don't notice you're getting wet in a drizzle until you're soaked through. I'm afraid people will only look at where they stand once they're already drenched. And I think that's already happening, which saddens me."
-    },
-    {
-      "title": "Apple Watch now listens to in-person conversations & lets you rewind them",
-      "author": "Dilpickle2113",
-      "url": "https://www.reddit.com/r/artificial/comments/1xntvml/apple_watch_now_listens_to_inperson_conversations/",
-      "published": 1793812502.0,
-      "thumbnail": "https://external-preview.redd.it/61NpQkRePFhCdAQKRDhcnVyf2AVCuGIj5SeHhkxeVpk.jpeg?width=640&crop=smart&auto=webp&s=935db3d4db42ecba672a2b69c0584c34c4eb35b5",
-      "external_url": "https://www.dexerto.com/entertainment/apple-watch-now-listens-to-in-person-conversations-lets-you-rewind-them-3424859/",
-      "site_name": "Dexerto",
-      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
-      "description": "Apple is introducing a new AI feature that allows Apple Watch users to rewind in-person conversations and see what someone just said."
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Agents Across LLMS",
-      "author": "assentic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/",
-      "published": 1793894892.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Do/How you scan your AI Addons (Skills, Plugins, MCP, MODs, etc) in your day 2 day work? This kind of Plugin4Shell attack Im not sure if the top scanner (ciso, nvidia etc) would catch it"
-    },
-    {
-      "title": "A logged AI prompt and a prompt tied to your name are two different problems",
-      "author": "tres_pares",
-      "url": "https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/",
-      "published": 1793886338.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Most AI privacy talk is about whether your prompt gets logged. OpenAI's API, for example, keeps abuse monitoring logs for up to 30 days unless it approves a customer for zero data retention, and those logs can include prompts. The other question is whether a log can be tied to you. With your own API key, every prompt sits under your account, and a VPN only hides your IP. A router puts its own account between you and the provider, but it still sees your account and your prompt together, so you're trusting its policy. Some setups split those two things instead. A relay knows who you are but only gets encrypted data, and a secure enclave reads the prompt without seeing who sent it. Your client can also verify what code the enclave is running. The model provider still gets the prompt, but nothing sent with it identifies you. It only holds if the relay and enclave don't collude, though, and anything you type into the prompt can still give you away. OpenAI's policy if you want to check: https://developers.openai.com/api/docs/guides/your-data If you could only have one, which would you pick: a provider that keeps nothing, or a log that can't be tied to you? What would change your answer? Disclosure: I work at Dreamfort AI, private AI for chat, image, and video which uses the relay and enclave approach, so I'm biased toward it."
+      "description": "It's very basic so far but looks pretty good considering I started like 3 hours ago. Right now I'm simply asking ChatGPT to replicate certain features and functions I like in Maya (I've only focused on tools for 3D modeling and shaders and nothing else so far) and then downloading the development build and testing it. Also got it to read some documentation about the tools and navigation from the website. Thing is, I found out today that you can use AI to build your own programs and software, so I'm wondering if they way I'm going about this is slow and outdated? If there is a better way to construct what I am attempting to do then I'm all ears! My goal isn't to make a perfect replica, just something close, a little watered down while only keeping the features i need and use on a daily basis, and something that a Maya user can quickly understand."
     }
   ],
-  "fetched_at": "2026-11-05T23:20:16.958529+00:00"
+  "fetched_at": "2026-11-06T03:32:28.664801+00:00"
 }
