@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-06T18:57:46.787581+00:00",
+  "data": {
+    "url": "https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60",
+    "title": "BlackIce - Distributed Frost Silent Payments \u00b7 Hackathon \u00b7 bitcoin++",
+    "description": "Silent Payments has suffered from the lack of multisig & hardware wallet support. We built payments using FROST / Frostsnap hardware that enable distributed signing coordinated using Marmot.",
+    "image": "https://btcpp.nyc3.digitaloceanspaces.com/uploads/875fda89bfde.png",
+    "favicon": "https://btcpp.dev/favicon.ico",
+    "site_name": "bitcoin++",
+    "author": "bitcoin++",
+    "keywords": null
+  }
+}

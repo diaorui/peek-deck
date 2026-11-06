@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-06T11:51:48.535256+00:00'
+updated: '2026-11-06T18:58:25.074979+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 06, 2026 at 11:51 UTC  
+**Last Updated:** November 06, 2026 at 18:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be t
 
 Hello everyone, I’m new to the group. I’ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony’s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn’t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It’s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I’m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox
 
-1d ago
+2d ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello everyone, I’m new to the group. I’ve been interested in robotics from 
 
 I just finished testing the legs, i had to swap the modules i used to control the actuators because they were too weak. The test went smoothly, no burning just a little code adjustments and the legs move as they should. Next step it to figure out the necessary movements for it to walk.
 
-1d ago
+2d ago
 
 ---
 
@@ -60,7 +60,7 @@ I just finished testing the legs, i had to swap the modules i used to control th
 
 I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?
 
-1d ago
+2d ago
 
 ---
 
@@ -68,7 +68,7 @@ I modeled the individual parts and built the full assembly using SolidCraft and 
 
 Después de un accidente se han vuelto a construir las piernas. Está vez con encoder y un par de servoblocks en las caderas. Encoders magnéticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad .
 
-1d ago
+2d ago
 
 ---
 
@@ -116,21 +116,9 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 ## Google News: "robotics"
 
-**[China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals](https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html)**
+**[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
 
-The New York Times • 1d ago
-
----
-
-**[China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division](https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/)**
-
-Reuters • 1d ago
-
----
-
-**[China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech](https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf)**
-
-WSJ • 23h ago
+Financial Times • 9h ago
 
 ---
 
@@ -138,53 +126,61 @@ WSJ • 23h ago
 
 Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.
 
-TechCrunch • 14h ago
+TechCrunch • 21h ago
 
 ---
 
-**[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
+**[Meet the 20-something Brooklyn whiz kids building robots NASA will send to space next year](https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/)**
 
-Financial Times • 2h ago
+“We have big ambitions,” says Icarus Robotics co-founder Jamie Palmer, 26.
 
----
-
-**[Agility Robotics is taking humanoid robots public in a first for Wall Street](https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11)**
-
-The Oregon startup, whose humanoid robots carry heavy materials in factories and warehouses, is expected to begin trading on Nasdaq on Thursday.
-
-Business Insider • 1d ago
+New York Post • 1h ago
 
 ---
 
-**[Kraken Robotics Announces $102 Million in New Orders](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-announces-102-million-113000868.html)**
+**[Update on divestment of ABB Robotics](https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics)**
 
-Announced orders now total $457 million in 2026, Q3 results to be released November 24TORONTO, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) is pleased to announce continued strength in new order activity with $102 million of new orders since its last update on August 27, 2026. Announced orders in 2026 for Kraken and its recently acquired Covelya Group Limited (“Covelya Group”) now total approximately $457 million. Over 60% of these
-
-Yahoo Finance • 1d ago
+ABB • 1d ago
 
 ---
 
-**[A former Apple and Uber engineer raised $51 million to rethink the self-driving truck](https://www.businessinsider.com/humble-robotics-raises-51-million-for-cabless-self-driving-trucks-2026-11)**
+**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/06/china-blocks-54-billion-abb-robotics-deal-with-billionaire-mayasoshi-sons-softbank/)**
 
-Humble Robotics raised $51 million to build electric, cabless self-driving trucks. Founder Eyal Cohen previously worked at Apple, Uber, and Waabi.
-
-Business Insider • 21h ago
+Forbes • 12h ago
 
 ---
 
-**[Chinese Tourists Are Renting Robotic Exoskeletons to Climb Mountains. The Trend Is Spreading](https://www.zmescience.com/science/robotics/exoskeleton-china-up-mountian-rep/)**
+**[China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals](https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html)**
 
-What began as an experiment has grown into a commercial tourism industry.
-
-ZME Science • 18h ago
+The New York Times • 1d ago
 
 ---
 
-**[Disney Accelerator's 2026 Demo Day Explores New Frontiers in Storytelling, Robotics, and Guest Experiences](https://thewaltdisneycompany.com/news/accelerator-demo-day-2026/)**
+**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
 
-The Disney Accelerator hosted its 2026 Demo Day, showcasing new collaborations with five companies: Promise, OpenArt, FieldAI, Physical Intelligence, & Simile.
+Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
 
-The Walt Disney Company • 2d ago
+GeekWire • 16h ago
+
+---
+
+**[I watched a humanoid robot clean my apartment. It felt like a taste of the future.](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/)**
+
+The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they’re learning.
+
+MIT Technology Review • 8h ago
+
+---
+
+**[Oregon robotics company has volatile debut on Wall Street](https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-companys-stock-slides-on-first-day-of-trading.html)**
+
+OregonLive.com • 21h ago
+
+---
+
+**[Pentagon Taps Robotics Startup in Push for Cheap Attack Drones](https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones)**
+
+Bloomberg.com • 5h ago
 
 ---
 
@@ -198,27 +194,17 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 9K • 👍 202 • 💬 28 • ⏱️ 6:44 • 1d ago
+👁️ 10K • 👍 218 • 💬 29 • ⏱️ 6:44 • 1d ago
 
 ---
 
-**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
 
-King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
+Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
 
-📺 Kathryn Petrillo
+📺 Mahdi Designs
 
-👁️ 17K • 👍 475 • 💬 15 • ⏱️ 0:49 • 1d ago
-
----
-
-**[Israel&#39;s NEW Combat Robots Are On Another Level!](https://www.youtube.com/watch?v=WxlrovIW8dI)**
-
-Israeli unmanned aerial vehicles, unmanned ground vehicles, and unmanned surface vessels are some of the most advanced ...
-
-📺 Incredible Facts
-
-👁️ 64K • 👍 850 • 💬 56 • ⏱️ 13:40 • 6d ago
+👁️ 156K • 👍 3K • 💬 271 • ⏱️ 15:06 • 3d ago
 
 ---
 
@@ -228,37 +214,7 @@ Tesla Optimus is getting smarter, more capable, and closer to becoming a truly a
 
 📺 Ai_Mobility_News
 
-👁️ 82K • 👍 572 • 💬 73 • ⏱️ 16:12 • 5d ago
-
----
-
-**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
-
-A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
-
-📺 Inside Edition
-
-👁️ 22K • 👍 285 • 💬 76 • ⏱️ 1:43 • 1d ago
-
----
-
-**[China is building GIANT ROBOTS that are Shocking the World!](https://www.youtube.com/watch?v=uOLWQ9d0YYg)**
-
-chinarobot #chinatechnology #chinainnovation Why China Is Winning The Giant Robot Race (And America Failed) China is ...
-
-📺 Work Time
-
-👁️ 136K • 👍 1K • 💬 127 • ⏱️ 21:22 • 5d ago
-
----
-
-**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
-
-Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
-
-📺 History Seeker
-
-👁️ 87K • 👍 2K • 💬 55 • ⏱️ 0:09 • 6d ago
+👁️ 83K • 👍 573 • 💬 73 • ⏱️ 16:12 • 6d ago
 
 ---
 
@@ -268,27 +224,67 @@ I built a little AI powered robot that can play fetch. Meet Fetch, a fully auton
 
 📺 SECTOR 07
 
-👁️ 99K • 👍 2K • 💬 119 • ⏱️ 18:03 • 5d ago
+👁️ 102K • 👍 2K • 💬 122 • ⏱️ 18:03 • 6d ago
 
 ---
 
-**[Unitree Robotics launches GD-01, the first commercial manned mecha robot #Robotics #Mecha](https://www.youtube.com/watch?v=YYLURKBCiUg)**
+**[China is building GIANT ROBOTS that are Shocking the World!](https://www.youtube.com/watch?v=uOLWQ9d0YYg)**
 
-Unitree Robotics unveiled the GD-01, the world's first production-ready, manned mecha. This 8-foot-8, 1100-pound robot can ...
+chinarobot #chinatechnology #chinainnovation Why China Is Winning The Giant Robot Race (And America Failed) China is ...
 
-📺 Egor Donde | AI News, No Hype
+📺 Work Time
 
-👁️ 133K • 👍 1K • 💬 105 • ⏱️ 0:56 • 6d ago
+👁️ 137K • 👍 1K • 💬 127 • ⏱️ 21:22 • 6d ago
 
 ---
 
-**[THIS is the HEADACHE EXPRESS - War Robots Lumen UE Raven](https://www.youtube.com/watch?v=ANsx76mt0sY)**
+**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
 
-War Robots Gameplay: Lumen UE Raven is the Headache Express WR My War Robots Creator Link: https://wr.my.games/manni ...
+A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
 
-📺 Manni-Gaming
+📺 Inside Edition
 
-👁️ 11K • 👍 364 • 💬 44 • ⏱️ 10:32 • 23h ago
+👁️ 22K • 👍 293 • 💬 81 • ⏱️ 1:43 • 1d ago
+
+---
+
+**[Why This NASA Robot Jumps When It Brakes](https://www.youtube.com/watch?v=fqcaPc6w1H4)**
+
+Hedgehog jumps by braking its internal flywheels. The wheels' angular momentum transfers to the robot's body, while its spikes ...
+
+📺 Built to Explain
+
+👁️ 3K • 👍 49 • ⏱️ 0:26 • 22h ago
+
+---
+
+**[I May Have Overcomplicated My Robot Arm](https://www.youtube.com/watch?v=u7XFP5yQadI)**
+
+It's been a long time coming-- but I've finally gained some control. Over a small portion of my robot that is. So what did it take to get ...
+
+📺 Cinema Mechanics
+
+👁️ 28K • 👍 840 • 💬 95 • ⏱️ 17:44 • 1d ago
+
+---
+
+**[These Transformers Turn Into Robots By Themselves 🤯](https://www.youtube.com/watch?v=Bf1OO5a9MjE)**
+
+Original video credit: IG/@zeroframe_studio. This collection of interactive Robosen Transformers robots can transform completely ...
+
+📺 History Seeker
+
+👁️ 88K • 👍 2K • 💬 55 • ⏱️ 0:09 • 6d ago
+
+---
+
+**[The Robot Price Bomb: How China Is Exporting the Automated Factory 🇨🇳🤖](https://www.youtube.com/watch?v=nmB5IFUfqbU)**
+
+For years, macroeconomic analysts predicted that rising wages and aging demographics would price Chinese factories out of ...
+
+📺 Eric Cracks China
+
+👁️ 81K • 👍 3K • 💬 158 • ⏱️ 2:58 • 3d ago
 
 ---
 
