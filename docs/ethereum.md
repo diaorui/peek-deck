@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-06T11:51:48.532097+00:00'
+updated: '2026-11-06T18:58:25.072800+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 06, 2026 at 11:51 UTC  
+**Last Updated:** November 06, 2026 at 18:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.1%  
-**7d:** -0.5%  
-**30d:** -9.2%  
-**90d:** +17.6%  
-**1y:** -34.6%  
+**24h:** -1.3%  
+**7d:** -1.1%  
+**30d:** -9.8%  
+**90d:** +16.9%  
+**1y:** -35.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $274.02B
+**Market Cap:** $272.38B
 Rank #2
 
 **Circulating Supply:** 122,194,930 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.7%
+-54.9%
 
 **All-Time Low:** $0.43
-+517823.5%
++514925.0%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people seem to hold ETH as an investment, while USDT and USDC are increasingly being used for transfers and everyday payments. With more ways to spend crypto in real life now, I'm curious if anyone here pays with ETH or prefers using stablecoins. Do you think ETH will ever be widely used for everyday purchases or will stablecoins take that role?
 
-3d ago
+4d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Found an old post on CREATE2 Wisp contracts (a contract created, used and selfdestructed in one call so the same address can run different code later) and the top question in the comments was what prevents someone from auditing one version and deploying another at the same address. The honest answer back then was “selfdestruct is a red flag, check Etherscan.” What happened since - the Tornado Cash governance attack in 2023 did exactly that and EIP-6780 (Dencun, March 2024) limited SELFDESTRUCT to contracts created in the same transaction. EIP-7702 (Pectra, May 2025) later let EOAs delegate to contract code. Does the Wisp pattern still work post-6780 (create, use and destroy in one tx) and is anyone using it? Is same-transaction metamorphism still a practical risk for governance or allowlists? And how are people checking code identity at execution time now, EXTCODEHASH at execution, something else? UPD thanks u/Bloqarl. So the Wisp pattern still works post-6780 because create and destroy happen in the same tx but swapping code at the same address across txs is dead and the bait and switch moved to upgradeable proxies (an EXTCODEHASH pin never changes while the logic does) and to 7702 accounts that can re-delegate in their next tx. Still curious how people pin code identity in practice
 
-4d ago
+5d ago
 
 ---
 
@@ -156,7 +156,7 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
 
-ethereum.org • 1h ago
+ethereum.org • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ ethereum.org • 1h ago
 
 On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership’s vision for the foundation for the next 1,000 years.
 
-The Denver Post • 51m ago
+The Denver Post • 7h ago
 
 ---
 
@@ -172,7 +172,23 @@ The Denver Post • 51m ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Where Will Ethereum Be in 3 Years?](https://www.fool.com/investing/2026/11/05/where-will-ethereum-be-in-3-years/)**
+
+Ethereum isn't broken; it's just slow. Here's why that matters over the next three years.
+
+The Motley Fool • 1d ago
+
+---
+
+**[1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee](https://www.theglobeandmail.com/investing/markets/stocks/HOOD-Q/pressreleases/8703732/1-top-cryptocurrency-to-buy-before-it-soars-by-11-000-according-to-bitmine-s-tom-lee/)**
+
+Detailed price information for Robinhood Markets Cl A (HOOD-Q) from The Globe and Mail including charting and trades.
+
+The Globe and Mail • 2h ago
 
 ---
 
@@ -180,23 +196,21 @@ Yahoo Finance • 21h ago
 
 Leading cryptocurrencies sank alongside stocks on Thursday as investors priced in AI sector risks following Democratic control of Congress.Crypto Market Does a U-TurnBitcoin cratered to $75,220, marking its lowest level since mid-September. Ethereum fell to roughly $2,230–$2,315, hitting its lowest…
 
-TradingView • 9h ago
+TradingView • 16h ago
 
 ---
 
-**[Current price of Ethereum for November 5, 2026](https://fortune.com/article/price-of-ethereum-11-05-2026/)**
+**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says | CoinDesk Videos](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
+
+CoinDesk • 4h ago
+
+---
+
+**[Current price of Ethereum for November 6, 2026](https://fortune.com/article/price-of-ethereum-11-06-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
-
----
-
-**[Ethereum’s decentralization model is the answer to an AI arms race: Vitalik Buterin](https://ambcrypto.com/ethereums-decentralization-model-is-the-answer-to-ai-arms-race-vitalik-buterin/)**
-
-Ethereum’s decentralization could strengthen its long-term value as AI risks increase demand for open infrastructure.
-
-AMBCrypto • 1d ago
+Fortune • 6h ago
 
 ---
 
@@ -204,31 +218,15 @@ AMBCrypto • 1d ago
 
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
 
-Kitco • 20h ago
+Kitco • 1d ago
 
 ---
 
-**[Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.](https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/)**
+**[Ethereum’s decentralization model is the answer to an AI arms race: Vitalik Buterin](https://ambcrypto.com/ethereums-decentralization-model-is-the-answer-to-ai-arms-race-vitalik-buterin/)**
 
-If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom.
+Ethereum’s decentralization could strengthen its long-term value as AI risks increase demand for open infrastructure.
 
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto](https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/)**
-
-US Bitcoin ETFs suffered $430 million in withdrawals, while Ethereum funds lost another $100 million as investors retreated from crypto.
-
-CryptoSlate • 1h ago
-
----
-
-**[ETH Price Prediction: Ethereum loses short-term trend support as derivatives stay long-biased](https://blockchain.news/news/20261106-price-prediction-eth-ethereum-loses-short-term-trend-support)**
-
-Ethereum is trading at $2,220.01 after an 8.68% 24-hour drop, leaving price below the 7-day, 20-day, 50-day, 12-day EMA, and 26-day EMA while still above...
-
-Blockchain News • 4h ago
+AMBCrypto • 2d ago
 
 ---
 
@@ -242,7 +240,7 @@ Arthur Hayes says the market has bottomed and belief is back: Wall Street money 
 
 📺 The Rollup
 
-👁️ 7K • 👍 150 • 💬 60 • ⏱️ 9:00 • 12h ago
+👁️ 12K • 👍 212 • 💬 68 • ⏱️ 9:00 • 19h ago
 
 ---
 
@@ -252,17 +250,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 10K • 👍 249 • 💬 47 • ⏱️ 10:12 • 14h ago
-
----
-
-**[Why Ethereum Is Now Following the Amazon Playbook: Sharplink CEO](https://www.youtube.com/watch?v=tTM2FHu_2b0)**
-
-Is Ethereum having its Amazon moment? Sharplink CEO Joseph Chalom believes investors may be making the same mistake ...
-
-📺 Coinage
-
-👁️ 16K • 👍 159 • 💬 82 • ⏱️ 20:55 • 1d ago
+👁️ 12K • 👍 256 • 💬 53 • ⏱️ 10:12 • 21h ago
 
 ---
 
@@ -272,7 +260,7 @@ Everyone out there is going to miss out on whats going on and its a shame. The c
 
 📺 The Modern Investor
 
-👁️ 861 • 👍 191 • 💬 63 • ⏱️ 33:44 • 1h ago
+👁️ 7K • 👍 645 • 💬 259 • ⏱️ 33:44 • 8h ago
 
 ---
 
@@ -282,7 +270,7 @@ When crypto prices fall, retail investors flee the market, unable to understand 
 
 📺 The Modern Investor
 
-👁️ 8K • 👍 677 • 💬 140 • ⏱️ 32:49 • 1d ago
+👁️ 9K • 👍 687 • 💬 140 • ⏱️ 32:49 • 1d ago
 
 ---
 
@@ -292,7 +280,17 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 200 • 💬 8 • ⏱️ 8:19 • 15h ago
+👁️ 9K • 👍 212 • 💬 8 • ⏱️ 8:19 • 22h ago
+
+---
+
+**[Why Ethereum Is Now Following the Amazon Playbook: Sharplink CEO](https://www.youtube.com/watch?v=tTM2FHu_2b0)**
+
+Is Ethereum having its Amazon moment? Sharplink CEO Joseph Chalom believes investors may be making the same mistake ...
+
+📺 Coinage
+
+👁️ 17K • 👍 160 • 💬 83 • ⏱️ 20:55 • 2d ago
 
 ---
 
@@ -302,37 +300,37 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 98 • 💬 65 • ⏱️ 23:02 • 2d ago
+👁️ 5K • 👍 99 • 💬 65 • ⏱️ 23:02 • 2d ago
 
 ---
 
-**[Is Canton becoming a BETTER Ethereum? Here&#39;s What Changed!](https://www.youtube.com/watch?v=p33vSeCM7EQ)**
+**[Arkéa cyberattack, T3 unit, Injective ETF, Ethereum ETFs and ApeChain CCIP](https://www.youtube.com/watch?v=vn3S4imp1mc)**
 
-The SEC has classified Canton Coin as a commodity, not a security, and the Canton Network just launched its first meme coin ...
+Arkéa cyberattack, T3 unit, Injective ETF, Ethereum ETFs and ApeChain CCIP Crédit Mutuel Arkéa says a cyberattack is contained ...
 
-📺 Grow Rich Grow Happy
+📺 The Coin Daily
 
-👁️ 2K • 👍 149 • 💬 14 • ⏱️ 22:00 • 1d ago
-
----
-
-**[CRYPTO MARKET DUMPS! CZ BINANCE VS KEVIN O&#39;LEARY &amp; HUGE ETHEREUM &amp; SOLANA ADOPTION!](https://www.youtube.com/watch?v=_xRm-oXtH64)**
-
-Crypto News: Bitcoin and the crypto market follow the stock market with a big dump. Binance and founder CZ subpoena Shark ...
-
-📺 Thinking Crypto
-
-👁️ 7K • 👍 376 • 💬 57 • ⏱️ 22:07 • 7h ago
+👁️ 1K • ⏱️ 11:06 • 1d ago
 
 ---
 
-**[IS CRYPTO SETTING UP FOR A RALLY? BITCOIN, XRP, ETHEREUM, &amp; CANTON NETWORK ANALYSIS!](https://www.youtube.com/watch?v=t6ZZoTZiGfc)**
+**[ICP is the SOLUTION! Vitalik&#39;s Message Raises a BIG Question for Ethereum](https://www.youtube.com/watch?v=27aZZXoGUSU)**
 
-Brian from Santiment joined me to break down the latest crypto market trends, key on-chain metrics, and investor sentiment for ...
+Join the OC HERO Community: https://oc.app/community/s6uwt-5iaaa-aaaac-be5xa-cai/channel/3896146702 HERO: ...
 
-📺 Thinking Crypto
+📺 Zero to Hero
 
-👁️ 7K • 👍 215 • 💬 65 • ⏱️ 25:45 • 22h ago
+👁️ 2K • 👍 176 • 💬 19 • ⏱️ 20:41 • 1d ago
+
+---
+
+**[ETHEREUM DOING THE RIPSKY!! 📈 NOVEMBER 4 $ETH](https://www.youtube.com/watch?v=YmmmMoNaMiM)**
+
+ETHEREUM DOING THE RIPSKY!! NOVEMBER 4 $ETH.
+
+📺 Overkill Trading
+
+👁️ 2K • 👍 89 • 💬 3 • ⏱️ 2:58 • 2d ago
 
 ---
 

@@ -5,32 +5,12 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "China Blocks SoftBank\u2019s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmlCanlYdUl5YWZwSTdBM1V2NXJnUFlVTnlPNzRPT0ZqZlVHMHNtZmY0dmdKMEJLMlh4SUU5bER3UFp0ampfcUdIS28tMk1mMkZXZDBHLTl0Y1hCNWhlcm1XSi1yUV9MSVlXdjF2Y0RCOERoTDZJZ2dUUTRNMnVpeXNMZlM?oc=5",
-      "pub_date": 1793877783.0,
-      "article_url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China blocks SoftBank\u2019s $5.4 billion takeover of ABB\u2019s robotics division",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBJa2g4T1RZOXVuY3phU1ZicmlpM0kzUTdjNlBrMmtNZ29aNlBxZzNwQWkzam9WNVB6MGFwV2tERnA5WWNhWE9ZaWtKaV9JMDdpWHBKRjUyU2ZKU2lEN2R4U29ZQlo3T3g1cndpLUNqZXFhclphYzdyN0thaXM5WXl4UnN2eGZiUXd4SXdUenppTXNRTU1CV3RURnEyT05XUFRNUWFiMGNwN0QzYjVtS1Zoc24zcV9lWHV2eDZQckJwb2ZpS3g0OG9VMnpJaHJt?oc=5",
-      "pub_date": 1793848500.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
-      "pub_date": 1793879839.0,
-      "article_url": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf",
+      "headline": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlVaZU1LeDhwOFdtY2ltb2ZHRV9mSHdENXZDYm83Nl92dUF2UWpJSU5TbWVzV2RvNXVBNGV4bkVIYmpMNE1LclE4ampWYXRnWkpuUVhrdS1VVE5tcFptakxSYzNGMWpqTkY0Z3BzVFk1WldlenFVcWJhU09WcWlwTUQ0MFY?oc=5",
+      "pub_date": 1793958258.0,
+      "article_url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1",
       "image": null,
       "description": null
     },
@@ -45,66 +25,86 @@
       "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools."
     },
     {
-      "headline": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlVaZU1LeDhwOFdtY2ltb2ZHRV9mSHdENXZDYm83Nl92dUF2UWpJSU5TbWVzV2RvNXVBNGV4bkVIYmpMNE1LclE4ampWYXRnWkpuUVhrdS1VVE5tcFptakxSYzNGMWpqTkY0Z3BzVFk1WldlenFVcWJhU09WcWlwTUQ0MFY?oc=5",
-      "pub_date": 1793958258.0,
-      "article_url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1",
+      "headline": "Meet the 20-something Brooklyn whiz kids building robots NASA will send to space next year",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUlMQjYwWWZfYkdXa1pGVk5HVGljby1qQlJfbGFBZVhFU2hYcVpIQzdQeU9FdWdZTEFoMkhUMHA2anItMTFPSEdSMDlzT2ZKUGhXZXBRZTFNRkQ2SjJNNEJiWlctbkNOLWZjUUtweEo5S3VQOFRtakJCWlpQZGRoWGxmLTMtZTN4MDRpN1VoY01RN3ZweTVzTWZHVHlWUQ?oc=5",
+      "pub_date": 1793986620.0,
+      "article_url": "https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-iebfzz08i-1793986550429.jpg?quality=75&strip=all&1793968563&w=1200",
+      "description": "\u201cWe have big ambitions,\u201d says Icarus Robotics co-founder Jamie Palmer, 26."
+    },
+    {
+      "headline": "Update on divestment of ABB Robotics",
+      "source": "ABB",
+      "source_url": "https://www.abb.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSk5jQ0hiRTIwM3Zuc2VKTVF6a1E1bUlCYVRpUmNDMzd0REE0MDVMM3VFbm1ST014aXlYSGNJY1hlQVNPdkhkSFlxWVZtRDNRc3h0ZEhLZFg0RFlpd0R0VG5ULWtVQmZKc01aRk44d3NCcjUwekVKUnp6Nlh4ODNHU3dnZzc?oc=5",
+      "pub_date": 1793861356.0,
+      "article_url": "https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics",
+      "image": "https://resources.news.e.abb.com/images/2026/11/5/1/1.ABB_HQ_Zurich_-_Switzerland_1.jpg",
+      "description": null
+    },
+    {
+      "headline": "China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son\u2019s SoftBank",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQenpQT3BXSTJmd1NPdDZFdVV6SnlhUUswT2k2cTZ0ajBWTmQtR2dtX3Nfa1RDcG9kZV9sT0ZKWmNKbHdOOGc3VlBWSnJTckJFcTBsZmdFcFdxbFdaSUluVzR6UF9nYjl5TWVEZnBBYVpLUndHSTFpYjlGbFVYV1VMQndmY0hOWGlKVlBidUVKRWV4ZjUyZVBKY2VOdGNIWVpySzZISzJ1SDVGMDhmNDQyd2hFOGVNOUY4YTRwYWtiUFI0ZUlhMzRXRmVyUHBTUQ?oc=5",
+      "pub_date": 1793946580.0,
+      "article_url": "https://www.forbes.com/sites/iansayson/2026/11/06/china-blocks-54-billion-abb-robotics-deal-with-billionaire-mayasoshi-sons-softbank/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5",
-      "pub_date": 1793841120.0,
-      "article_url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
-      "image": "https://i.insider.com/6aebcea0c54bfafa65abf24a?width=1200&format=jpeg",
-      "description": "The Oregon startup, whose humanoid robots carry heavy materials in factories and warehouses, is expected to begin trading on Nasdaq on Thursday."
+      "headline": "China Blocks SoftBank\u2019s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmlCanlYdUl5YWZwSTdBM1V2NXJnUFlVTnlPNzRPT0ZqZlVHMHNtZmY0dmdKMEJLMlh4SUU5bER3UFp0ampfcUdIS28tMk1mMkZXZDBHLTl0Y1hCNWhlcm1XSi1yUV9MSVlXdjF2Y0RCOERoTDZJZ2dUUTRNMnVpeXNMZlM?oc=5",
+      "pub_date": 1793877783.0,
+      "article_url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Kraken Robotics Announces $102 Million in New Orders",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXJNcjJUTXVkNUpwVnF3QVNmd0Z2VndpMUJiVnF5WUROWG4xMFFkQmhTYmxrSVkxdFc4Zm9oOUFfUG53TUhiTThGWXlxeWpkNHJqV1pVYUo3bmZlbmdZaExueTBicWZHTHdnUkU4TDlQVGd1UGlxWThkOGd5amJpSzVoRnktVm9NN19TYkpXTUU3MHpLbmFzUnhKZDFhUjYwd2Z2Mg?oc=5",
-      "pub_date": 1793878200.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-announces-102-million-113000868.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3e55b3fdca213f2ba55c551924ed059b691c4b62a9bdb73025483201b0ab2685/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fc670f674717e702a2d60df75e2d9c74c.jpg",
-      "description": "Announced orders now total $457 million in 2026, Q3 results to be released November 24TORONTO, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (\u201cKraken\u201d or the \u201cCompany\u201d) (TSX-V: PNG, OTCQB: KRKNF) is pleased to announce continued strength in new order activity with $102 million of new orders since its last update on August 27, 2026. Announced orders in 2026 for Kraken and its recently acquired Covelya Group Limited (\u201cCovelya Group\u201d) now total approximately $457 million. Over 60% of these"
+      "headline": "Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHl1UXVmSUktSXl4cy1OWFJaMDJSSTRTLTZwRmRMcUp4dVJONjBlRXA2NUliN0FkR3d0dFlrdU4xZ0tHOHliUzRJUTZvWm9sYUxHOW5pY0MzZVpYUTdsVjNFSnYtdEhQcXA1TDJvV3ZKWWpFMlhzck1DWEgtQVd3RlZzc2hqaGh5QjRsSmVSTUhLYWY0ajdxNU1pcUZ3d180VGdmSGtOSWVvMjRaVHFDUzR4emNBUFBFTU1TRjFB?oc=5",
+      "pub_date": 1793933696.0,
+      "article_url": "https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/hurst-digit5-lead.jpg",
+      "description": "Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people."
     },
     {
-      "headline": "A former Apple and Uber engineer raised $51 million to rethink the self-driving truck",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEhKMmM1YlR6MEZsanJJZVFvZmVNSnpyQ2JLaDVhLXhMZkJ3TWdNTjVpZ3RCMTNOYmdkWEFtZjJpZDdYYmlyUWlaZDJjV2FSdEJVcTVGUjNqODV1Zm14WDFMOThDYkw4Q0NZWFZuUDF2blFGbDVOdmljTllsM25RSHVtbElKWE1PZFNOQm5aWkxCcExsYWlBZ1pFQk1zXzMxU0MzUHpBcGM?oc=5",
-      "pub_date": 1793887200.0,
-      "article_url": "https://www.businessinsider.com/humble-robotics-raises-51-million-for-cabless-self-driving-trucks-2026-11",
-      "image": "https://i.insider.com/6aeb54449270da3cc6668010?width=1200&format=jpeg",
-      "description": "Humble Robotics raised $51 million to build electric, cabless self-driving trucks. Founder Eyal Cohen previously worked at Apple, Uber, and Waabi."
+      "headline": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzlkcUZFWmc3Uk8zUXVDTi1TclV5dGtSM0d4bG5hTF82TzZhbkZxc0tXbGE1b0ZtN0Z4UDhsdy1pTmFBNjE3RmEwd0V0akVrWExpbXktR3FhSUZlb2ZRNFhNczh4S2xGb0RNbElZTlliZXBVMENNNmdKbE1MSGJaREhDanhxMlN6bXpHZEtDcWttU01Zc1F2MnJaRy0yM29BVDUwVGlpc1ZaQlFsT1Y3Q2RPeEdKNU4zc1p4LWtsbC16MkYyeGh4cFAzYnJlZ9IB0wFBVV95cUxQMHVGVXhVb2FVVjNlaVF3dFZlT3UtNlhybEdBaVEwWHAwSVFETUhBWDJacFdDSVpzLXZjbDJlamJyQmJZQU1idWd6dXpvVnl3VVU4dzlDRElpVlp5TFRKYXJLUVpabnp3SEs1TlhqbTg2cV9wRVNmRTROZGkzRmlXUXAzZG91VTNBN3Axb0pyX25HT2NvTnRLUVBWRUNrMVhrVzBpN2N6RWxoVmRVMmRHc0MyVlk4T1NZbFFneXJsNzN5TE5iMkk5UzRzZWJ0RFIzU1VJ?oc=5",
+      "pub_date": 1793959200.0,
+      "article_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
+      "description": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they\u2019re learning."
     },
     {
-      "headline": "Chinese Tourists Are Renting Robotic Exoskeletons to Climb Mountains. The Trend Is Spreading",
-      "source": "ZME Science",
-      "source_url": "https://www.zmescience.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUNieTNtelFOWEN5cmFZeW1oZGtOcnJGZlBYc0NQbjFqSkVkOEFJaWZ1SEVMR18zajZPSXBRM3BHVXBpQVFLcGlHQ1N1N09LVlBDZzZKTGpJU1J5M1RyQXhjeEFSMTJiTHlQX3VNREc2aXJiV2ZNSEJWZ2tQT2gzVjh5bDk?oc=5",
-      "pub_date": 1793898975.0,
-      "article_url": "https://www.zmescience.com/science/robotics/exoskeleton-china-up-mountian-rep/",
-      "image": "https://cdn.zmescience.com/wp-content/uploads/2025/02/qGmaODj2ANVVRrAlxdDzXKEOZH4duBbM_hDzuB5866n6NfurJ04cpFsHNsNP3KlXPrC0fVsVeFQZa4n8-MwH_rZI8JWoiGw6M3g4MgsSOskPkNq2heZ7XCjlwdzonfvLuc4nK4lJZUN_ed_Sjq_9828Xap9PIsQY2zpq6JZc_JSQSHd493sQfuKbjiJSj98u.jpg",
-      "description": "What began as an experiment has grown into a commercial tourism industry."
+      "headline": "Oregon robotics company has volatile debut on Wall Street",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHFpVUVzQzlVUG0wM0laczJ1R1JKdW1ubWF0cjE5a0VTdEx3cHlGSDBVc0ZnNjRPOGpQZ09iRHZLNkhQX1ZhSkxZV1BtU0JxVDM2d2wycDBOWmhrTlpRT2pPbDBsUjJGNGNJVENhMTBYMEhpNXRCb3hIbHU4NzkzUmV1SXpmYTdzTno4YmpFNXpSOGlBWGlreWVpVlBNT2ZQbE50aU5RbjFuTjczSnlQZTFraldpLVU?oc=5",
+      "pub_date": 1793914680.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-companys-stock-slides-on-first-day-of-trading.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Disney Accelerator's 2026 Demo Day Explores New Frontiers in Storytelling, Robotics, and Guest Experiences",
-      "source": "The Walt Disney Company",
-      "source_url": "https://thewaltdisneycompany.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jV0xVX0RpNEFreTE1QlZGNThiVlhnZmtCazBBQng0cEdjQzJnN0hsMGo4Q2hEOXdlREdwMzB3dUMwYm14NnZXRnN6WjVWa2twMGx2alJxeWJVaEYxVXIwZHZueS1tb1dLeEwybzZoTkNLdw?oc=5",
-      "pub_date": 1793744206.0,
-      "article_url": "https://thewaltdisneycompany.com/news/accelerator-demo-day-2026/",
-      "image": "https://thewaltdisneycompany.com/app/uploads/2026/11/20261103_DL3_2297-scaled.jpg",
-      "description": "The Disney Accelerator hosted its 2026 Demo Day, showcasing new collaborations with five companies: Promise, OpenArt, FieldAI, Physical Intelligence, & Simile."
+      "headline": "Pentagon Taps Robotics Startup in Push for Cheap Attack Drones",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVpTb04wX1NfY21GN3FFX2VpaXZNemNjdHFUdXZ4SWRza3VpX2pmQ1pXV0tQcVFuTXBoTUxEUVhId1NMR1dSYWxLQ2NtZzNSaEx1VU0yR1FkT1dBNVRnZ0xVM0RQTXhXYnF5SzJiNUFBck9aTnVSUE9JVnZIazVfeExsa0FLbkpqUE9NeWFoSWZreHBITnZ5ODlVYXp6TW1jYWRjbTdhQWQ5UnFMZUVDWURsUQ?oc=5",
+      "pub_date": 1793970000.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-06T11:51:42.046358+00:00"
+  "fetched_at": "2026-11-06T18:58:23.422304+00:00"
 }

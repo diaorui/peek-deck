@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-06T11:51:48.517657+00:00'
+updated: '2026-11-06T18:58:25.062462+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
+- repositories
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** November 06, 2026 at 11:51 UTC  
+**Last Updated:** November 06, 2026 at 18:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,13 @@ AI news, discussions, and developments
 
 Among other things, the system could potentially be customized to suit individual viewers' preferences.
 
-🔗 [Computerworld](https://www.computerworld.com/article/4244752/microsoft-files-patent-for-ai-that-can-alter-what-people-say-during-live-broadcasts.html) • 7h ago
+🔗 [Computerworld](https://www.computerworld.com/article/4244752/microsoft-files-patent-for-ai-that-can-alter-what-people-say-during-live-broadcasts.html) • 14h ago
 
 ---
 
-**[Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” - AUTOMATON WEST](https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/)**
+**[The UK Government Asked 14,000 Children About AI. It Ignored Their Answer.](https://www.reddit.com/r/artificial/comments/1xpcsds/the_uk_government_asked_14000_children_about_ai/)**
 
-In a recent interview,
-
-🔗 [AUTOMATON WEST](https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/) • 16h ago
+🔗 [theslowai.substack.com](https://theslowai.substack.com/p/uk-children-asked-ai-labels-ignored?r=4725ox&utm_medium=ios) • 5h ago
 
 ---
 
@@ -57,15 +55,31 @@ In a recent interview,
 
 “Today is the cold shower that I anticipated might occur after a blue-wave situation,” said one analyst.
 
-🔗 [NBC News](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650) • 3h ago
+🔗 [NBC News](https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650) • 10h ago
 
 ---
 
-**[Palantir Made $2.3 Billion Last Quarter and Calls Itself Antiwar](https://www.reddit.com/r/artificial/comments/1xozbic/palantir_made_23_billion_last_quarter_and_calls/)**
+**[Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” - AUTOMATON WEST](https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/)**
 
-Palantir posted $2.3 billion in Q1 2026 revenue while CEO Alex Karp claims the defense AI firm leads an antiwar movement, a tension worth scrutinizing.
+In a recent interview,
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/palantir-made-2-3-billion-171727666.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAEVBsLqcecHC6WDduhb27k-_N6UHKU_dum-zuMbVpPBxwcQwi6lEtwfUEZKDcFn4MU6gbSYqd1ld-sWx4GMkX8u68tCi-5mXPUpXZ8ckcayb-yg6vhj3QG7Y1xM82YtuW2khqxi9HL2M_8LGKn1LALm2RjPsaeUtgb6l64oktlsk) • 11h ago
+🔗 [AUTOMATON WEST](https://automaton-media.com/en/news/hideo-kojima-says-ai-lacks-what-makes-the-creative-process-fun-despite-its-efficiency-its-not-a-form-of-creation-i-find-particularly-interesting/) • 23h ago
+
+---
+
+**[Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US](https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/)**
+
+This is just cool! Goes to show you that AI is not inherently bad. Great news!
+
+🔗 [ARTnews.com](https://www.artnews.com/art-news/news/turkey-uses-ai-tech-100-looted-antiquities-us-1234804634/) • 38m ago
+
+---
+
+**[I am a lawyer and made a small game: an AI summary of a real judgment with a few planted mistakes, and you catch them by highlighting the proof](https://www.reddit.com/r/artificial/comments/1xpgt8f/i_am_a_lawyer_and_made_a_small_game_an_ai_summary/)**
+
+Legal AI has learned to summarise. But has it learned how lawyers think? In my experience, AI summaries of judgments read well and still get things wrong, i.e. a holding stated too broadly, or a point the court rejected reported as accepted. So I made "Catch the AI". You read a real judgment, flag each wrong line in the AI's summary, and a catch counts only when you highlight the words of the judgment that prove it wrong. It is part of "May or Shall", which I built on the idea that human judgment comes first and AI drafting follows. Disclosure: I built it. https://app.mayorshall.com/play I would like to hear how many people here catch all the mistakes, and which ones were the hardest to spot.
+
+2h ago
 
 ---
 
@@ -73,45 +87,31 @@ Palantir posted $2.3 billion in Q1 2026 revenue while CEO Alex Karp claims the d
 
 With AI tools becoming part of our everyday work, most of us have figured out how to write prompts and get useful outputs. But is that really enough? There's a difference between using AI to get things done and understanding how it works, where it can go wrong, and how to build something useful with it. As AI evolves, do you think understanding the fundamentals will become just as important as knowing how to use the tools?
 
-1h ago
+8h ago
 
 ---
 
-**[Most people in the UK think AI will take jobs – just not theirs](https://www.reddit.com/r/artificial/comments/1xpai1a/most_people_in_the_uk_think_ai_will_take_jobs/)**
+**[Palantir Made $2.3 Billion Last Quarter and Calls Itself Antiwar](https://www.reddit.com/r/artificial/comments/1xozbic/palantir_made_23_billion_last_quarter_and_calls/)**
 
-60% of working-age adults are worried that digital technologies will take over many jobs currently done by humans, only 22% of workers are concerned that their own job is at risk.
+Palantir posted $2.3 billion in Q1 2026 revenue while CEO Alex Karp claims the defense AI firm leads an antiwar movement, a tension worth scrutinizing.
 
-🔗 [HotMinute](https://hotminute.co.uk/2026/11/06/most-people-in-the-uk-think-ai-will-take-jobs-just-not-theirs/) • 24m ago
-
----
-
-**[Contrarian opinion: the correction and the blue wave may help rebuild trust in AI.](https://www.reddit.com/r/artificial/comments/1xpa8l3/contrarian_opinion_the_correction_and_the_blue/)**
-
-$2.5 trillion in market value were wiped out yesterday as the NASDAQ plunged into correction territory. My take is that the blue wave is good news for AI. The industry needs to rebuild trust to create sustainable demand, and the new political reality in the U.S. can usher in sensible regulation to support this.
-
-40m ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/palantir-made-2-3-billion-171727666.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAEVBsLqcecHC6WDduhb27k-_N6UHKU_dum-zuMbVpPBxwcQwi6lEtwfUEZKDcFn4MU6gbSYqd1ld-sWx4GMkX8u68tCi-5mXPUpXZ8ckcayb-yg6vhj3QG7Y1xM82YtuW2khqxi9HL2M_8LGKn1LALm2RjPsaeUtgb6l64oktlsk) • 18h ago
 
 ---
 
-**[Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.](https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/)**
+**[Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed](https://www.reddit.com/r/artificial/comments/1xpf8k5/android_remote_control_mcp_v1130_is_out_free/)**
 
-https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending
+🚀 It has been a while since the last release, but Android Remote Control MCP is back and v1.13.0 is now out! It's the MCP server that runs on your phone and lets your AI agent use any app you want. https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.13.0 The big news of this release is the free end-to-end encrypted HTTPS tunnel, built into the app, which doesn't require any account and uses well known services for the HTTPS certificates (Let's Encrypt, Google Trust Services and ZeroSSL)! Cloudflare and ngrok can see your traffic. With my infrastructure no one can, apart from you and your AI provider! The encryption ends on the phone, the certificate key never leaves it, and the app also watches the Certificate Transparency logs and warns you if a certificate for your name gets issued to another key. Basically: install the app, do a few clicks, start it, and in less than a minute you are up and running without having to create any account or pay anything! Adding your phone to Claude.ai or ChatGPT is very straightforward: - Claude: https://claude.ai/new?modal=add-custom-connector#customize/connectors/yours - ChatGPT: https://chatgpt.com/plugins -> Top Right "Add" -> "Add custom MCP server" The only 2 relevant fields are the URL and the name, the rest is secure by default as-is! Android Remote Control MCP also works great with Hermes and OpenClaw! Unlike the adb based tools, nothing runs on your computer: it works through the accessibility service on the phone, most of the time it doesn't need vision and the output is kept short, so it's light on tokens (even Haiku does fine with good directions). This release also brings a bunch of other improvements and fixes, the details are in the release page. A special thanks to the people who forked Android Remote Control MCP: plenty of fixes from the forks have been brought back in thanks to your efforts! Thank you!!! Also, I love open source, so now the app is GPL-3.0-or-later 🔒 and the free e2e tunnel source code is available at https://github.com/danielealbano/android-remote-control-mcp-tunneld (with its own releases). A few things you can do with it: 📣 Find and share your news on LinkedIn, Instagram, Reddit and Discord and reply to the comments without the need of additional more complex platforms, your agent can easily manage your account! ✈️ Plan a trip: flights on momondo and easyJet, stays on Booking.com and Airbnb, best options back to you 🍜 The usual place from where you get your ramen is closed? No worries, your agent can also use Uber Eats, Just Eat, DoorDash, etc. to find the best alternative for you! No adb, no cables, no root! If there's an app for it, your agent can drive it ... you just have to ask!
 
-1d ago
-
----
-
-**[Data Center Siting and Community Opposition](https://www.reddit.com/r/artificial/comments/1xoybc8/data_center_siting_and_community_opposition/)**
-
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7675140) • 11h ago
+3h ago
 
 ---
 
-**[Brands lean into human creativity as handcrafted art becomes more of a luxury in the age of AI](https://www.reddit.com/r/artificial/comments/1xp8q4l/brands_lean_into_human_creativity_as_handcrafted/)**
+**[Higher interest rates add to fears of AI bubble popping](https://www.reddit.com/r/artificial/comments/1xpdm6z/higher_interest_rates_add_to_fears_of_ai_bubble/)**
 
-Artists say brands are embracing traditional art forms and making a point to show off the human labor behind their campaigns.
+Higher rates from the US Federal Reserve, the Bank of England, and other central banks will add increased pressure on the booming AI industry.
 
-🔗 [NBC News](https://www.nbcnews.com/pop-culture/pop-culture-news/brands-lean-human-creativity-handcrafted-art-becomes-luxury-age-ai-rcna607134) • 2h ago
+🔗 [HotMinute](https://hotminute.co.uk/2026/11/06/higher-interest-rates-add-to-fears-of-ai-bubble-popping/) • 4h ago
 
 ---
 
@@ -119,75 +119,75 @@ Artists say brands are embracing traditional art forms and making a point to sho
 
 ## Google News: "ai"
 
-**[Global tech stocks plunge amid AI slowdown fears - live updates](https://www.bbc.com/news/live/cq62yy619r5dt)**
+**[US tech stocks edge up after AI slowdown fears hit value of firms - live updates](https://www.bbc.com/news/live/cq62yy619r5dt)**
 
 It comes after Democrats won control of US Congress in this week's midterm elections, with some candidates pledging to slow the growth of data centres and AI.
 
-BBC • 12m ago
+BBC • 3h ago
+
+---
+
+**[Data center double-down: Hassett says blue wave won't stop AI build-out](https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html)**
+
+Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results.
+
+CNBC • 3h ago
+
+---
+
+**[Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry](https://www.propublica.org/article/burgum-public-land-data-centers-investments)**
+
+Interior Secretary Doug Burgum, who is heavily invested in the AI industry, is leading the charge to allow tech companies to build data centers on the public lands he oversees.
+
+ProPublica • 7h ago
+
+---
+
+**[AI data center backlash fuels votes for change and sharp stock market swings](https://www.cbsnews.com/news/ai-data-centers-stock-market-congress/)**
+
+Concern over AI and misgivings about data center construction​ helped drive votes​ for change in the midterms — and fueled volatility on the stock market that experts say is likely to continue.
+
+CBS News • 1h ago
+
+---
+
+**[Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)**
+
+Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
+
+TechCrunch • 13m ago
+
+---
+
+**[Microsoft Is Winding Down Oracle Deal to Rent AI Cloud Capacity](https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain](https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html)**
+
+Microsoft is winding down the number of neoclouds it counts as partners, picking key suppliers and focusing on its own data centers.
+
+CNBC • 26m ago
+
+---
+
+**[Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports](https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/)**
+
+Reuters • 1h ago
+
+---
+
+**[Watch Jobs Boom Meets AI Market Turmoil](https://www.bloomberg.com/news/videos/2026-11-06/open-interest-11-6-2026-video)**
+
+Bloomberg.com • 25m ago
 
 ---
 
 **[How A.I. Just Blew Up a Key Tenet of Computer Science](https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html)**
 
-The New York Times • 1h ago
-
----
-
-**[AI scams are everywhere — and they’re slick. Here’s how to protect yourself and your family.](https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls)**
-
-﻿I was worried about my boomer parents. Turns out, everyone is an easy mark these days.
-
-Vox • 21m ago
-
----
-
-**[3 allegedly used AI to steal some $129 million from companies by impersonating executives and lawyers](https://www.cbsnews.com/news/3-ai-steal-129-million-companies-impersonating-executives-lawyers/)**
-
-Three people accused of using artificial intelligence to impersonate corporate executives and attorneys to steal about $129 million have been indicted, prosecutors say.
-
-CBS News • 28m ago
-
----
-
-**[Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'](https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html)**
-
-Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.
-
-CNBC • 15h ago
-
----
-
-**[How the midterms could fuel the K-shaped AI trade](https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html)**
-
-U.S. midterm results could slow data center development, raising the value of existing AI capacity while increasing pressure on debt-funded neoclouds.
-
-CNBC • 1d ago
-
----
-
-**[Why Amazon and Other AI Data Center Stocks are Post-Midterm Winners](https://www.barrons.com/articles/ai-data-center-stocks-midterm-winners-4f30313c)**
-
-Barron's • 36m ago
-
----
-
-**[Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/)**
-
-METR's high-access assessment of the degree to which AI is accelerating AI research and development at Anthropic.
-
-METR • 1d ago
-
----
-
-**[LeBron James' reps send cease-and-desist letter to 'Bron AI' sports betting app](https://www.espn.com/nba/story/_/id/50390289/lebron-james-reps-send-cease-desist-bron-ai-app)**
-
-ESPN • 18h ago
-
----
-
-**[How the AI Doomers Won 2026](https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312)**
-
-Politico • 1h ago
+The New York Times • 8h ago
 
 ---
 
@@ -195,31 +195,25 @@ Politico • 1h ago
 
 ## HackerNews: "ai"
 
-**[Postman silently auto-installs AI plugins and attempts to share all API data](https://news.ycombinator.com/item?id=50354960)**
-
-Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u...
-
-⬆️ 1517 • 💬 492 • 2d ago • [GitHub](https://github.com/postmanlabs/postman-app-support/issues/14370)
-
----
-
 **[AI is forcing us to pay off 40 years of technical debt](https://news.ycombinator.com/item?id=50364336)**
 
 AI is forcing us to pay off 40 years of technical debt
 
-⬆️ 1277 • 💬 744 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
-
----
-
-**[Google will turn off search for schools that reject AI](https://news.ycombinator.com/item?id=50353192)**
-
-⬆️ 672 • 💬 465 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)
+⬆️ 1285 • 💬 746 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 
 ---
 
 **[Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)**
 
-⬆️ 527 • 💬 649 • 1d ago
+⬆️ 537 • 💬 669 • 2d ago
+
+---
+
+**[Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://news.ycombinator.com/item?id=50385870)**
+
+Cuban says he has been seeing his own face in scammy AI-generated ads for nonexistent diabetes cures.
+
+⬆️ 478 • 💬 218 • 19h ago • [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
 
 ---
 
@@ -239,35 +233,56 @@ This book provides a compact, derivation-oriented introduction to the mathematic
 
 ---
 
-**[Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://news.ycombinator.com/item?id=50385870)**
-
-Cuban says he has been seeing his own face in scammy AI-generated ads for nonexistent diabetes cures.
-
-⬆️ 368 • 💬 178 • 12h ago • [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
-
----
-
 **[Geoffrey Hinton: it might turn out we were better off without AI](https://news.ycombinator.com/item?id=50363554)**
 
 Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown
 
-⬆️ 320 • 💬 316 • 2d ago • [the Guardian](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+⬆️ 320 • 💬 320 • 2d ago • [the Guardian](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
 
 ---
 
-**[How I use AI (Oct 2026)](https://news.ycombinator.com/item?id=50355767)**
+**[Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://news.ycombinator.com/item?id=50370654)**
 
-I document how I use AI, one year after my first writeup. Everything's completely different.
+Qualcomm Cloud AI 100 Ultra accelerates generative AI. Discover cost-optimized solutions and explore our products. Contact us today.
 
-⬆️ 257 • 💬 318 • 2d ago • [ben.stolovitz.com](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
+⬆️ 170 • 💬 64 • 1d ago • [qualcomm.com](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)
 
 ---
 
-**[Just a little AI resistance, as a treat](https://news.ycombinator.com/item?id=50352257)**
+**[Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election](https://news.ycombinator.com/item?id=50382179)**
 
-At the recent EMFCamp, I bumped in to Professor Kate Devlin who was talking a little about the AI Resist List. I think one of the useful things we can do is loudly complain about shitty uses of AI. Here's an example.  As mentioned in a previous post, I'm contacting companies which send malformed calendar invites. One of the organisation I contacted was the British online supermarket Ocado. They…
+⬆️ 162 • 💬 191 • 1d ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026)
 
-⬆️ 178 • 💬 108 • 2d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/)
+---
+
+**[I struggle to believe that AI R&D is ingenious](https://news.ycombinator.com/item?id=50388513)**
+
+Comment by Arjun Panickssery - I struggle to believe at an intuitive level that autonomous R&D is so ingenious. I have been monitoring a few side projects:
+
+ 1. Building a new SOTA engine for Scrabble (current SOTA is not really a neural-network method and doesn't beat the strongest human player)
+ 2. Building a bot to play Ultimate Tic-Tac-Toe
+ 3. Researching philosophy and formalizing some proofs for the AI Philosophy contest
+
+In all of these cases, the model's judgment is just very poor in a basic way. For example:
+
+ 1. When reviewing literature, it fails to identify the specific papers or blog posts that are obviously the most important and useful.
+ 2. It will conduct experiments that have no information value because the amount of training data used was obviously too small to distinguish the architectures to be compared.
+ 3. In the philosophy project, where it built a wiki over many tokens and investigations, it kept going down directions which were extremely trivial and had little value.
+ 4. For Ultimate Tic-Tac-Toe, I saw a very clever idea in a blog post that I doubt Astra would ever have come up with; it actually located the blog post but didn't realize its importance or relevance (which could be discerned easily from his strong performance in an online arena and the recency of the post) over papers from previous years that are obviously less relevant.
+
+I judged an Apart hackathon last weekend and reviewed eight papers, all of which scored between 60% and 95% on Pangram. Predictably, the papers were often very similar to each other, and kind of methodologically incomplete in a vague but similar way, where they seem to overlook the most straightforward analysis.
+
+----------------------------------------
+
+Maybe the important exception is certain hill-climbing tasks with fast feedback loops. For example, I improved the SOTA on "listing all legal Scrabble moves" by 10x just by prompting Astra over and over to try harder, to aim for <specific performance level>, to "systematically try every me
+
+⬆️ 161 • 💬 165 • 13h ago • [lesswrong.com](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
+
+---
+
+**[Everything is an AI scam now](https://news.ycombinator.com/item?id=50371508)**
+
+⬆️ 152 • 💬 62 • 1d ago • [davidralphlewis.co.uk](https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/)
 
 ---
 
@@ -281,7 +296,37 @@ The NASDAQ fell by more than 5% as big tech companies connected to the A.I. buil
 
 📺 NBC News
 
-👁️ 33K • 👍 209 • 💬 101 • ⏱️ 2:17 • 11h ago
+👁️ 60K • 👍 326 • 💬 170 • ⏱️ 2:17 • 18h ago
+
+---
+
+**[What AI Is Doing To Jobs Is Worse Than We Thought | VisualPolitik EN](https://www.youtube.com/watch?v=-tV4xm2TipQ)**
+
+Learn about finance with us in a simple, free, and straight-to-the-point way: https://www.visualfaktory.com/free-gift/ Microsoft has ...
+
+📺 VisualPolitik EN
+
+👁️ 14K • 👍 438 • 💬 58 • ⏱️ 17:08 • 5h ago
+
+---
+
+**[This is how the AI bubble bursts](https://www.youtube.com/watch?v=KUWlcdmwXkg)**
+
+Do you want to know exactly when and why the AI bubble is going to burst. With over 30 years experience as a commentator in ...
+
+📺 xjet
+
+👁️ 22K • 👍 949 • 💬 258 • ⏱️ 12:16 • 14h ago
+
+---
+
+**[Trump Just Lost The Midterms... Every AI CEO is Panicking!](https://www.youtube.com/watch?v=t1ehzq7_BVA)**
+
+BREAKING: Why Are AI Stocks CRASHING Today? (AI bubble popping?) https://www.youtube.com/watch?v=oCl9IidPjIg the ...
+
+📺 Finance Stack
+
+👁️ 179K • 👍 1K • 💬 373 • ⏱️ 17:09 • 2d ago
 
 ---
 
@@ -291,87 +336,57 @@ NVIDIA CEO Jensen Huang just revealed how far AI computing has come! From massiv
 
 📺 VisionX Lab
 
-👁️ 103K • 👍 2K • 💬 81 • ⏱️ 0:59 • 1d ago
+👁️ 111K • 👍 2K • 💬 86 • ⏱️ 0:59 • 2d ago
 
 ---
 
-**[America Just Decided To Shutdown AI.](https://www.youtube.com/watch?v=QTeD093bTAk)**
+**[AI Stock Sell-Off &quot;Overreaction?&quot; Jonathan Corpina Sees Calm in Volatility Storm](https://www.youtube.com/watch?v=r_D35nuvJlI)**
 
-On Tuesday, voters pushed back on AI data centers. Democrats won the House and the Senate, flipped governorships in Texas, ...
+Jonathan Corpina says the stock market "overreacted" Thursday as investors unloaded their AI stocks following a Democratic ...
 
-📺 In the Loop AI
+📺 Schwab Network
 
-👁️ 46K • 👍 836 • 💬 240 • ⏱️ 22:17 • 23h ago
-
----
-
-**[The AI Godfather Just Proved The Entire AI Industry Wrong](https://www.youtube.com/watch?v=_fEqQa5hBmI)**
-
-Yann LeCun has spent years telling the AI industry it's making a huge mistake, and a new paper might be the strongest evidence ...
-
-📺 TheAIGRID
-
-👁️ 92K • 👍 2K • 💬 417 • ⏱️ 30:01 • 1d ago
+👁️ 7K • 👍 80 • 💬 9 • ⏱️ 7:34 • 4h ago
 
 ---
 
-**[BREAKING: Why Are AI Stocks CRASHING Today? (AI bubble popping?)](https://www.youtube.com/watch?v=oCl9IidPjIg)**
+**[Dems take aim at AI giants and big tech after midterm wins](https://www.youtube.com/watch?v=10NNhjP4SN4)**
+
+Artificial intelligence companies could face a new wave of federal regulations as incoming Democratic majorities in Congress ...
+
+📺 13WHAM ABC News
+
+👁️ 81K • 👍 283 • 💬 246 • ⏱️ 2:03 • 22h ago
+
+---
+
+**[Anthropic Just Issued a WARNING About Its Own AI…](https://www.youtube.com/watch?v=jGqi6Ax-N0c)**
+
+Anthropic warns about AI accelerating its own development, while METR gives us a look at unreleased Model 3 and Model 4. Plus ...
+
+📺 AI Copium
+
+👁️ 6K • 👍 184 • 💬 55 • ⏱️ 16:52 • 3h ago
+
+---
+
+**[MIT looked at what AI actually killed and holy sh*t...](https://www.youtube.com/watch?v=W8Dl-TS9H2c)**
+
+MIT looked at what AI is actually replacing, and the answer isn't entire professions. It's entry-level work. Researchers mapped ...
+
+📺 The Infographics Show
+
+👁️ 1.2M • 👍 10K • 💬 2K • ⏱️ 12:57 • 2d ago
+
+---
+
+**[BREAKING: Why Did AI Stocks CRASH Yesterday? (AI bubble popping?)](https://www.youtube.com/watch?v=oCl9IidPjIg)**
 
 Trump Just Lost The Midterms... Every AI CEO is Panicking! LINK: https://www.youtube.com/watch?v=t1ehzq7_BVA The ...
 
 📺 Finance Stack
 
-👁️ 99K • 👍 556 • 💬 141 • ⏱️ 11:06 • 16h ago
-
----
-
-**[Stocks Plunge as Traders Dump Everything With AI Exposure](https://www.youtube.com/watch?v=t7xB-uCfeVU)**
-
-Technology stocks plummeted on Thursday as traders assessed the implication of a Democratic sweep in the US midterm ...
-
-📺 Bloomberg Podcasts
-
-👁️ 179K • 👍 856 • 💬 318 • ⏱️ 6:48 • 18h ago
-
----
-
-**[Nvidia Plunges 9% as AI Selloff Wipes Out $2.3 Trillion | Closing Bell](https://www.youtube.com/watch?v=50V2BcYo3ew)**
-
-Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
-
-📺 Bloomberg Television
-
-👁️ 284K • 👍 2K • 💬 597 • ⏱️ 11:45 • 14h ago
-
----
-
-**[Global tech stocks plunge as US midterms add to AI slowdown fears | BBC News](https://www.youtube.com/watch?v=DHWc0uonVbA)**
-
-Trillions of dollars have been wiped off the stock value of major tech firms in the US, Europe and Asia after the US midterm ...
-
-📺 BBC News
-
-👁️ 13K • 👍 270 • 💬 102 • ⏱️ 6:48 • 2h ago
-
----
-
-**[Are AI Teddies safe? | BBC News](https://www.youtube.com/watch?v=fUvtFGZWDVY)**
-
-An AI teddy marketed as being "perfect" for children as young as three said "I can't help with killing you" after seemingly ...
-
-📺 BBC News
-
-👁️ 24K • 👍 182 • 💬 123 • ⏱️ 10:30 • 4h ago
-
----
-
-**[Roman Yampolskiy Loses It With AI Expert](https://www.youtube.com/watch?v=EUMMxVRbI6A)**
-
-AI scientist Roman Yampolskiy warns there is a 99.9% chance artificial intelligence could wipe out humanity within a century.
-
-📺 Nexus
-
-👁️ 32K • 👍 474 • 💬 470 • ⏱️ 26:36 • 16h ago
+👁️ 114K • 👍 593 • 💬 154 • ⏱️ 11:06 • 23h ago
 
 ---
 
@@ -387,7 +402,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `image-text-to-text` `2780.1B`
 
-⬇️ 18,432 • ❤️ 1,348 • 1d ago
+⬇️ 18,432 • ❤️ 1,437 • 1d ago
 
 ---
 
@@ -399,7 +414,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 19,139 • ❤️ 855 • 7d ago
+⬇️ 19,139 • ❤️ 907 • 8d ago
 
 ---
 
@@ -411,7 +426,7 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 190,243 • ❤️ 743 • 10h ago
+⬇️ 190,243 • ❤️ 772 • 17h ago
 
 ---
 
@@ -423,7 +438,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,607,491 • ❤️ 10,787 • 26d ago
+⬇️ 2,607,491 • ❤️ 10,831 • 26d ago
 
 ---
 
@@ -435,7 +450,17 @@ Numbat is a massive ~14T parameter, 114-layer causal language model featuring a 
 
 `6849.4B`
 
-⬇️ 9,066 • ❤️ 360 • 12d ago
+⬇️ 9,066 • ❤️ 368 • 12d ago
+
+---
+
+**[Sulphur-3](https://huggingface.co/FusionCow/Sulphur-3)**
+
+*FusionCow*
+
+Sulphur-3 is a large language model developed by MiniMaxAI, designed for general-purpose text generation and understanding. Its key capabilities include advanced natural language processing tasks, making it suitable for a wide range of applications such as content creation, summarization, and conversational AI.
+
+⬇️ 950 • ❤️ 391 • 1d ago
 
 ---
 
@@ -447,41 +472,7 @@ NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 4
 
 `automatic-speech-recognition` `33.7B`
 
-⬇️ 61,049 • ❤️ 3,067 • 7d ago
-
----
-
-**[Sulphur-3](https://huggingface.co/FusionCow/Sulphur-3)**
-
-*FusionCow*
-
-Sulphur-3 is a large language model developed by MiniMaxAI, designed for general-purpose text generation and understanding. Its key capabilities include advanced natural language processing tasks, making it suitable for a wide range of applications such as content creation, summarization, and conversational AI.
-
-⬇️ 950 • ❤️ 386 • 1d ago
-
----
-
-**[Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex)**
-
-*Pika-Labs*
-
-Pika-H3-Flex is an image-to-video diffusion model that generates high-fidelity, temporally coherent videos from static images. It excels at precise camera motion control, maintaining subject consistency, and adapting to various artistic styles, making it ideal for creative video production and visual storytelling.
-
-`image-to-video` `33.1B`
-
-⬇️ 986 • ❤️ 484 • 7d ago
-
----
-
-**[Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)**
-
-*Mistral*
-
-Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model supporting text and image inputs with a 1M context length. It excels in instruction following, reasoning, coding, and agentic workflows, with strong performance in cybersecurity, finance, and law, and state-of-the-art visual grounding.
-
-`image-text-to-text`
-
-⬇️ 10,530 • ❤️ 1,620 • 3d ago
+⬇️ 61,049 • ❤️ 3,071 • 7d ago
 
 ---
 
@@ -491,7 +482,29 @@ Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model 
 
 `64.8B`
 
-⬇️ 2,013 • ❤️ 300 • 3h ago
+⬇️ 2,013 • ❤️ 319 • 10h ago
+
+---
+
+**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
+
+*Qwen*
+
+Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic tasks, featuring flexible thinking control and a large context window up to 1M tokens.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 7,845,288 • ❤️ 19,258 • 1d ago
+
+---
+
+**[DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF](https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF)**
+
+*Atomic Chat*
+
+`text-generation` `551.9B`
+
+⬇️ 108,162 • ❤️ 340 • 6d ago
 
 ---
 
@@ -505,9 +518,23 @@ Mistral Large 4 is a 1T parameter, natively multimodal Mixture-of-Experts model 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 162 • 💬 6 • ⭐ 120,859 • 22mo ago
+▲ 162 • 💬 6 • ⭐ 120,972 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 183 • 💬 10 • ⭐ 56,385 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -517,7 +544,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 63 • 💬 5 • ⭐ 46,957 • 15mo ago
+▲ 63 • 💬 5 • ⭐ 46,999 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -531,7 +558,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 13 • 💬 2 • ⭐ 4,846 • 22d ago
+▲ 13 • 💬 2 • ⭐ 4,866 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -545,23 +572,9 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 67 • 💬 4 • ⭐ 22,828 • 28d ago
+▲ 67 • 💬 4 • ⭐ 22,900 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 183 • 💬 10 • ⭐ 55,998 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -573,7 +586,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 110 • 💬 2 • ⭐ 16,722 • 2mo ago
+▲ 110 • 💬 2 • ⭐ 16,757 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -587,21 +600,23 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 102 • 💬 7 • ⭐ 30,651 • 4mo ago
+▲ 102 • 💬 7 • ⭐ 30,711 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
-**[Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://huggingface.co/papers/2611.01560)**
+**[VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents](https://huggingface.co/papers/2611.04894)**
 
-*Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)*
+*ZhengXian Wu, Qianhao Nie, Zhuohong Chen et al. (13 authors)*
 
-Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.
+🏢 Ant Group
 
-▲ 47 • 💬 1 • ⭐ 238 • 5d ago
+VisSearch-Bench evaluates multimodal agents on visually intensive search tasks that require integrating visual context with external information, showing that even the best system fully solves only 26.47% of tasks.
 
-[🎓 arXiv](https://arxiv.org/abs/2611.01560) • [💻 code](https://github.com/Open-RUA/uni-robot-agent) • [🔗 project](https://openrua.ai/uni-robot-agent)
+▲ 17 • 💬 2 • ⭐ 57 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2611.04894) • [💻 code](https://github.com/antins-labs/VisSearch-Bench-v1) • [🔗 project](https://dingwu1021.github.io/VisSearch-Bench/)
 
 ---
 
@@ -619,15 +634,15 @@ WeVisOne-VL unifies object-level and pixel-level visual perception via structure
 
 ---
 
-**[Differentiable Data Augmentation with Kornia](https://huggingface.co/papers/2011.09832)**
+**[Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://huggingface.co/papers/2611.01560)**
 
-*Jian Shi, Edgar Riba, Dmytro Mishkin et al. (5 authors)*
+*Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)*
 
-This paper reviews the Kornia differentiable data augmentation module for both 2D and 3D tensors, integrating with PyTorch's autograd and optim, and benchmarks it against other frameworks.
+Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.
 
-▲ 1 • 💬 0 • ⭐ 12,341 • 72mo ago
+▲ 47 • 💬 1 • ⭐ 258 • 5d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2011.09832) • [💻 code](https://github.com/arraiyopensource/kornia)
+[🎓 arXiv](https://arxiv.org/abs/2611.01560) • [💻 code](https://github.com/Open-RUA/uni-robot-agent) • [🔗 project](https://openrua.ai/uni-robot-agent)
 
 ---
 
@@ -641,7 +656,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 17.4k • 🔱 1.8k • 8d ago
+⭐ 17.5k • 🔱 1.8k • 8d ago
 
 ---
 
@@ -651,7 +666,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 10.3k • 🔱 558 • 4d ago
+⭐ 10.6k • 🔱 578 • 5d ago
 
 ---
 
@@ -661,7 +676,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 7.3k • 🔱 1.7k • 2h ago
+⭐ 7.4k • 🔱 1.7k • 5h ago
 
 ---
 
@@ -671,7 +686,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 6.7k • 🔱 600 • 2h ago
+⭐ 6.7k • 🔱 603 • 1h ago
 
 ---
 
@@ -691,7 +706,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `Swift` `ai-agent` `airplay` `automation` `computer-use` `dsh-plugin`
 
-⭐ 4.6k • 🔱 613 • 5h ago
+⭐ 4.6k • 🔱 617 • 48m ago
 
 ---
 
@@ -701,7 +716,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 4.0k • 🔱 259 • 14d ago
+⭐ 4.1k • 🔱 259 • 1h ago
 
 ---
 
@@ -711,17 +726,7 @@ Google_AI_Pro_2Year_ZeroCost_Auto
 
 `Python`
 
-⭐ 2.7k • 🔱 1.1k • 7h ago
-
----
-
-**[modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)**
-
-🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.
-
-`Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
-
-⭐ 2.7k • 🔱 39 • 34m ago
+⭐ 2.8k • 🔱 1.1k • 15h ago
 
 ---
 
@@ -731,7 +736,17 @@ Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 352 • 56m ago
+⭐ 2.8k • 🔱 399 • 8h ago
+
+---
+
+**[modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)**
+
+🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.
+
+`Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
+
+⭐ 2.7k • 🔱 42 • 7h ago
 
 ---
 
