@@ -13,15 +13,15 @@
       "description": "This is just cool! Goes to show you that AI is not inherently bad. Great news!"
     },
     {
-      "title": "Microsoft files patent for AI that can alter what people say during live broadcasts",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/",
-      "published": 1793939128.0,
-      "thumbnail": "https://external-preview.redd.it/OYS02feGdbBdhPhXqCKsZ-j59h_HxP7qLWRBp1u34ko.jpeg?width=640&crop=smart&auto=webp&s=c461c5d00105ba063ef412b2a7ea6627d98ba78d",
-      "external_url": "https://www.computerworld.com/article/4244752/microsoft-files-patent-for-ai-that-can-alter-what-people-say-during-live-broadcasts.html",
-      "site_name": "Computerworld",
-      "favicon": "https://www.computerworld.com/wp-content/themes/cw-b2b-child-theme/src/static/img/cw/apple-touch-icon.png",
-      "description": "Among other things, the system could potentially be customized to suit individual viewers' preferences."
+      "title": "Claude helped solve the first 3D structure of a mysterious 'vault' particle, a hollow protein shell encoded by a bacteriophage virus",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/",
+      "published": 1794008885.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Anthropic reported on November 5 that Claude helped determine the first three-dimensional structure of a vault particle: a hollow protein shell built from a protein encoded by a bacteriophage, a virus that infects bacteria. The work is posted as a preprint on bioRxiv, so it has not been peer-reviewed yet. According to Anthropic, the project ran for under four months. Its science-focused version of Claude scanned about 15 billion computer-predicted proteins to hunt for vault-like structures, and the team then worked out this structure experimentally. Vault particles are strange, hollow shells whose biological role is still poorly understood, which makes this an interesting case of AI doing more than speeding up a known pipeline: it helped pick the target in the first place. A few things to keep in mind: this is a preprint, and the write-up comes from Anthropic itself, so independent replication matters. Still, it is another data point in a week where AI systems moved from assisting experiments to shaping which experiments get run at all. What do you think: is target selection like this where AI will matter most in biology, or is the bigger story still automation of the lab work itself?"
     },
     {
       "title": "The UK Government Asked 14,000 Children About AI. It Ignored Their Answer.",
@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "Microsoft files patent for AI that can alter what people say during live broadcasts",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/",
+      "published": 1793939128.0,
+      "thumbnail": "https://external-preview.redd.it/OYS02feGdbBdhPhXqCKsZ-j59h_HxP7qLWRBp1u34ko.jpeg?width=640&crop=smart&auto=webp&s=c461c5d00105ba063ef412b2a7ea6627d98ba78d",
+      "external_url": "https://www.computerworld.com/article/4244752/microsoft-files-patent-for-ai-that-can-alter-what-people-say-during-live-broadcasts.html",
+      "site_name": "Computerworld",
+      "favicon": "https://www.computerworld.com/wp-content/themes/cw-b2b-child-theme/src/static/img/cw/apple-touch-icon.png",
+      "description": "Among other things, the system could potentially be customized to suit individual viewers' preferences."
+    },
+    {
       "title": "Tech stocks plunge on worries about AI and Democrats' midterm landslide",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1xp7ym7/tech_stocks_plunge_on_worries_about_ai_and/",
@@ -44,6 +55,17 @@
       "site_name": "NBC News",
       "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
       "description": "\u201cToday is the cold shower that I anticipated might\u00a0occur after a blue-wave situation,\u201d said one analyst."
+    },
+    {
+      "title": "accidentally stumbled upon UNIFIELD / the Intent Protocol... has anyone heard of this?",
+      "author": "noil_ladnek",
+      "url": "https://www.reddit.com/r/artificial/comments/1xpdjc7/accidentally_stumbled_upon_unifield_the_intent/",
+      "published": 1793973709.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "i somehow stumbled onto UNIFIELD and ended up spending an embarrassing amount of time going through literally every page of the website lol i'm not a developer or particularly well versed in internet architecture, so despite reading all of it, i still had to get chatgpt to help me understand some of the more technical/philosophical stuff. but from what i understand, the idea is pretty fascinating? essentially, UNIFIELD is proposing something called an \"Intent Layer\" for the internet, built around an Intent Exchange Protocol (IXP). the simplest way i've been able to wrap my head around it: the internet connects computers the web connects information an intent layer would connect people (and potentially AI agents) based on what they're trying to accomplish so instead of searching for something and sorting through results, you'd express what you're trying to do, and the system would theoretically identify other people, organizations, resources, or intentions that complement yours. and the emphasis on complementary rather than similar intentions is what really caught my attention. for example, someone trying to sell something and someone trying to buy it have completely different intentions, but they're compatible. same idea could extend to business partnerships, research, hiring, solving problems, etc. there's a LOT more to it, including semantic routing, something called \"semantic molecules,\" and a much broader philosophy about how the internet could evolve. i'm definitely oversimplifying it. what's particularly interesting is that i went looking for discussions about it on reddit and... practically nothing? i couldn't find much of an organic conversation about the project anywhere. apparently there's also a patent application related to the underlying concept dating back to 2015, so it doesn't seem to be something somebody just came up with during the recent AI boom. i'm still trying to distinguish between what's actually functional, what's proposed, and what's more of a philosophical vision. anyway, i'm curious: has anyone here actually come across UNIFIELD or looked into its protocol? is this a genuinely interesting approach to intent-based computing, or am i just fascinated by a particularly elaborate theoretical framework? lol would especially love to hear from anyone familiar with semantic web technologies, intent-centric architectures, or agent interoperability. (someone in another subreddit called this stupid and if it is, so be it! tell me (nicely lol)! it was suggested i post here instead)"
     },
     {
       "title": "Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed",
@@ -79,38 +101,16 @@
       "description": "In a recent interview,"
     },
     {
-      "title": "accidentally stumbled upon UNIFIELD / the Intent Protocol... has anyone heard of this?",
-      "author": "noil_ladnek",
-      "url": "https://www.reddit.com/r/artificial/comments/1xpdjc7/accidentally_stumbled_upon_unifield_the_intent/",
-      "published": 1793973709.0,
+      "title": "The most useful minute of a sales call turned out to be the one after the customer hangs up",
+      "author": "gsuiteautomations",
+      "url": "https://www.reddit.com/r/artificial/comments/1xptzoh/the_most_useful_minute_of_a_sales_call_turned_out/",
+      "published": 1794014909.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "i somehow stumbled onto UNIFIELD and ended up spending an embarrassing amount of time going through literally every page of the website lol i'm not a developer or particularly well versed in internet architecture, so despite reading all of it, i still had to get chatgpt to help me understand some of the more technical/philosophical stuff. but from what i understand, the idea is pretty fascinating? essentially, UNIFIELD is proposing something called an \"Intent Layer\" for the internet, built around an Intent Exchange Protocol (IXP). the simplest way i've been able to wrap my head around it: the internet connects computers the web connects information an intent layer would connect people (and potentially AI agents) based on what they're trying to accomplish so instead of searching for something and sorting through results, you'd express what you're trying to do, and the system would theoretically identify other people, organizations, resources, or intentions that complement yours. and the emphasis on complementary rather than similar intentions is what really caught my attention. for example, someone trying to sell something and someone trying to buy it have completely different intentions, but they're compatible. same idea could extend to business partnerships, research, hiring, solving problems, etc. there's a LOT more to it, including semantic routing, something called \"semantic molecules,\" and a much broader philosophy about how the internet could evolve. i'm definitely oversimplifying it. what's particularly interesting is that i went looking for discussions about it on reddit and... practically nothing? i couldn't find much of an organic conversation about the project anywhere. apparently there's also a patent application related to the underlying concept dating back to 2015, so it doesn't seem to be something somebody just came up with during the recent AI boom. i'm still trying to distinguish between what's actually functional, what's proposed, and what's more of a philosophical vision. anyway, i'm curious: has anyone here actually come across UNIFIELD or looked into its protocol? is this a genuinely interesting approach to intent-based computing, or am i just fascinated by a particularly elaborate theoretical framework? lol would especially love to hear from anyone familiar with semantic web technologies, intent-centric architectures, or agent interoperability. (someone in another subreddit called this stupid and if it is, so be it! tell me (nicely lol)! it was suggested i post here instead)"
-    },
-    {
-      "title": "Are we learning AI or just learning to use ChatGPT?",
-      "author": "greatlearningglobal",
-      "url": "https://www.reddit.com/r/artificial/comments/1xp92cl/are_we_learning_ai_or_just_learning_to_use_chatgpt/",
-      "published": 1793959106.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "With AI tools becoming part of our everyday work, most of us have figured out how to write prompts and get useful outputs. But is that really enough? There's a difference between using AI to get things done and understanding how it works, where it can go wrong, and how to build something useful with it. As AI evolves, do you think understanding the fundamentals will become just as important as knowing how to use the tools?"
-    },
-    {
-      "title": "Palantir Made $2.3 Billion Last Quarter and Calls Itself Antiwar",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xozbic/palantir_made_23_billion_last_quarter_and_calls/",
-      "published": 1793925813.0,
-      "thumbnail": "https://external-preview.redd.it/ubmG5TX5xozP3npHqBfi0zDn19628ACFHIfJZhMeNRI.jpeg?width=640&crop=smart&auto=webp&s=8c6cdd7313f7770d320a2a2c55da7cfe6bff8acd",
-      "external_url": "https://finance.yahoo.com/markets/stocks/articles/palantir-made-2-3-billion-171727666.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAEVBsLqcecHC6WDduhb27k-_N6UHKU_dum-zuMbVpPBxwcQwi6lEtwfUEZKDcFn4MU6gbSYqd1ld-sWx4GMkX8u68tCi-5mXPUpXZ8ckcayb-yg6vhj3QG7Y1xM82YtuW2khqxi9HL2M_8LGKn1LALm2RjPsaeUtgb6l64oktlsk",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "Palantir posted $2.3 billion in Q1 2026 revenue while CEO Alex Karp claims the defense AI firm leads an antiwar movement, a tension worth scrutinizing."
+      "description": "We build AI phone agents. Over the past year we also added real-time assist for human-to-human calls: the AI listens in, suggests answers, surfaces FAQs, can fire off an SMS while you're still talking. We also had post-call analysis: summaries, transcripts, insights. Looked great. The problem: it was built to understand calls, not to act on them. If I wanted something done after a call, I had to open Claude or ChatGPT and say \"look at this call and do X\". That extra step mostly never happened. Busy day, next call, forgotten. In a brainstorming session a colleague asked: what if, when the customer hangs up, the AI stays on the line and asks you what you want done? We tried it on onboarding calls (customers in their first 30 days). Customer hangs up, my side stays open, AI asks \"anything to add?\" and I just talk: \"Find detailed instructions on X and send them to the customer\" \"Email support, he needs help with the second issue\" \"Wants the Instagram integration, let sales know\" The AI logs those, and a routine hands them off to Claude or ChatGPT for execution depending on the task. What surprised me is that we didn't build a single workflow for this. Classic workflows need you to predict what the customer will ask. Real calls don't fit that. You just describe what's needed, however messy, and the model, which already heard the whole conversation, figures out how to do it. Curious if anyone else has done something like this. Also interested in how you handle verification before the AI actually sends things to customers, we're still working out the guardrails there."
     }
   ],
-  "fetched_at": "2026-11-06T23:41:15.023347+00:00"
+  "fetched_at": "2026-11-07T04:55:56.185512+00:00"
 }

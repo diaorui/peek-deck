@@ -117,6 +117,20 @@
       "site_name": "Cointelegraph"
     },
     {
+      "title": "HomeMinerProxy: home dashboard and Stratum proxy for Bitcoin lottery mining",
+      "url": "https://github.com/Modanez/HomeMinerProxy",
+      "hn_url": "https://news.ycombinator.com/item?id=50401548",
+      "author": "modanez",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-07T04:14:46Z",
+      "object_id": "50401548",
+      "image": "https://opengraph.githubassets.com/5c29c3aa8aa7ce5658cee99cec118a03c0a760eadf6fe3026b9600cfe941dd08/Modanez/HomeMinerProxy",
+      "description": "Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32, cpuminer). Every share&#39;s difficulty in real time, records with confetti and siren, pool failover, luck meter. Z...",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Full Op_return Pruning in Bitcoin",
       "url": "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026",
       "hn_url": "https://news.ycombinator.com/item?id=50352901",
@@ -129,23 +143,9 @@
       "description": "satd is the first Bitcoin node implementation to allow optional full OP_RETURN value pruning. It is controlled by these options:   -pruneopreturn=N (N is the number of blocks behind tip, 288 minimum to match NODE_NETWORK_LIMITED guarantee) -pruneopreturnsize=X (X is the value size in bytes, greater than or equal to X will be pruned) -restoreopreturns (stop pruning and restore all pruned blocks; mutually-exclusive with above options)  Why do OP_RETURN value pruning? The recent BIP-110 controversy...",
       "favicon": "https://delvingbitcoin.org/uploads/default/optimized/1X/863d31b22a9d4d4072777bffb9b9ded86a1638bc_2_180x180.svg",
       "site_name": "Delving Bitcoin"
-    },
-    {
-      "title": "Discord is ditching Electron and its new app uses less RAM",
-      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "hn_url": "https://news.ycombinator.com/item?id=50378625",
-      "author": "archb",
-      "points": 477,
-      "num_comments": 417,
-      "created_at": "2026-11-05T13:05:28Z",
-      "object_id": "50378625",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Discord is moving its apps fully over to the Rust programming language.",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "site_name": "The Verge"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-11-06T23:41:16.130932+00:00"
+  "fetched_at": "2026-11-07T04:55:59.069280+00:00"
 }
