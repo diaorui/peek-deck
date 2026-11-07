@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-07T04:56:22.055880+00:00'
+updated: '2026-11-07T11:33:28.600924+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 07, 2026 at 04:56 UTC  
+**Last Updated:** November 07, 2026 at 11:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D
 
-1d ago
+2d ago
 
 ---
 
@@ -92,7 +92,7 @@ guys, need help asap, how can i connect the sg90 servo motor and 10k potentiomet
 
 Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!
 
-1d ago
+2d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I am developing a project called SmartGrid, an offline robotic tool
 
 Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 **[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
 
-Financial Times • 19h ago
+Financial Times • 1d ago
 
 ---
 
@@ -130,6 +130,24 @@ TechCrunch • 1d ago
 
 ---
 
+**[China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division](https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/)**
+
+Reuters • 1d ago
+
+---
+
+**[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
+
+Reuters • 1h ago
+
+---
+
+**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/06/china-blocks-54-billion-abb-robotics-deal-with-billionaire-mayasoshi-sons-softbank/)**
+
+Forbes • 1d ago
+
+---
+
 **[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
 
 Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
@@ -138,35 +156,19 @@ GeekWire • 1d ago
 
 ---
 
-**[I watched a humanoid robot clean my apartment. It felt like a taste of the future.](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/)**
+**[Can Stringman Tidy Up Better Than a Toddler? Plus Halloween Robot Fun](https://spectrum.ieee.org/video-friday-home-cable-robot)**
 
-The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they’re learning.
+Your weekly selection of awesome robot videos
 
-MIT Technology Review • 18h ago
-
----
-
-**[Oregon robotics company has volatile debut on Wall Street](https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-companys-stock-slides-on-first-day-of-trading.html)**
-
-OregonLive.com • 1d ago
+IEEE Spectrum • 18h ago
 
 ---
 
-**[Update on divestment of ABB Robotics](https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics)**
+**[Kraken Robotics Announces $102 Million in New Orders](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-announces-102-million-113000868.html)**
 
-ABB • 1d ago
+Announced orders now total $457 million in 2026, Q3 results to be released November 24TORONTO, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) is pleased to announce continued strength in new order activity with $102 million of new orders since its last update on August 27, 2026. Announced orders in 2026 for Kraken and its recently acquired Covelya Group Limited (“Covelya Group”) now total approximately $457 million. Over 60% of these
 
----
-
-**[China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division](https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/)**
-
-Reuters • 2d ago
-
----
-
-**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/06/china-blocks-54-billion-abb-robotics-deal-with-billionaire-mayasoshi-sons-softbank/)**
-
-Forbes • 22h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -174,15 +176,13 @@ Forbes • 22h ago
 
 New Jersey high school students partnered with a nonprofit to bring robotics education to The Grace School in Kenya, where students have limited access to STEM resources.
 
-ABC News - Breaking News, Latest News and Videos • 6h ago
+ABC News - Breaking News, Latest News and Videos • 13h ago
 
 ---
 
-**[Can Stringman Tidy Up Better Than a Toddler? Plus Halloween Robot Fun](https://spectrum.ieee.org/video-friday-home-cable-robot)**
+**[Pentagon Taps Robotics Startup in Push for Cheap Attack Drones](https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones)**
 
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 11h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -196,7 +196,7 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 12K • 👍 231 • 💬 33 • ⏱️ 6:44 • 2d ago
+👁️ 12K • 👍 238 • 💬 33 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -206,27 +206,7 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 104K • 👍 1K • 💬 298 • ⏱️ 15:13 • 17h ago
-
----
-
-**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
-
-King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
-
-📺 Kathryn Petrillo
-
-👁️ 19K • 👍 497 • 💬 15 • ⏱️ 0:49 • 1d ago
-
----
-
-**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
-
-https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
-
-📺 Casey.aicreates
-
-👁️ 4K • 👍 286 • 💬 13 • ⏱️ 1:44 • 7h ago
+👁️ 117K • 👍 2K • 💬 322 • ⏱️ 15:13 • 1d ago
 
 ---
 
@@ -236,7 +216,17 @@ This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https:/
 
 📺 Unstoppable Gadgets
 
-👁️ 32K • 👍 572 • 💬 18 • ⏱️ 0:21 • 1d ago
+👁️ 34K • 👍 615 • 💬 19 • ⏱️ 0:21 • 1d ago
+
+---
+
+**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
+
+https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
+
+📺 Casey.aicreates
+
+👁️ 7K • 👍 409 • 💬 15 • ⏱️ 1:44 • 14h ago
 
 ---
 
@@ -246,17 +236,7 @@ Tesla Optimus is getting smarter, more capable, and closer to becoming a truly a
 
 📺 Ai_Mobility_News
 
-👁️ 84K • 👍 575 • 💬 73 • ⏱️ 16:12 • 6d ago
-
----
-
-**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
-
-Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
-
-📺 Mahdi Designs
-
-👁️ 176K • 👍 3K • 💬 293 • ⏱️ 15:06 • 4d ago
+👁️ 84K • 👍 575 • 💬 74 • ⏱️ 16:12 • 6d ago
 
 ---
 
@@ -270,23 +250,43 @@ Robots going completely wrong caught on camera return in Part 4 with more shocki
 
 ---
 
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
+
+Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
+
+📺 Mahdi Designs
+
+👁️ 187K • 👍 3K • 💬 300 • ⏱️ 15:06 • 4d ago
+
+---
+
 **[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
 
 I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
 
 📺 SECTOR 07
 
-👁️ 107K • 👍 2K • 💬 125 • ⏱️ 18:03 • 6d ago
+👁️ 109K • 👍 2K • 💬 125 • ⏱️ 18:03 • 6d ago
 
 ---
 
-**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
+**[China is building GIANT ROBOTS that are Shocking the World!](https://www.youtube.com/watch?v=uOLWQ9d0YYg)**
 
-Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
+chinarobot #chinatechnology #chinainnovation Why China Is Winning The Giant Robot Race (And America Failed) China is ...
 
-📺 NextGen Humanoids
+📺 Work Time
 
-👁️ 22K • 👍 166 • 💬 28 • ⏱️ 8:50 • 4d ago
+👁️ 140K • 👍 1K • 💬 128 • ⏱️ 21:22 • 6d ago
+
+---
+
+**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
+
+America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
+
+📺 Living in China
+
+👁️ 82K • 👍 2K • 💬 154 • ⏱️ 7:07 • 2d ago
 
 ---
 
