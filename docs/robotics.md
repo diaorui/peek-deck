@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-06T23:41:58.405365+00:00'
+updated: '2026-11-07T04:56:22.055880+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 06, 2026 at 23:41 UTC  
+**Last Updated:** November 07, 2026 at 04:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Después de un accidente se han vuelto a construir las piernas. Está vez con en
 
 I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
 
-1d ago
+2d ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev ki
 
 guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can’t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 **[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
 
-Financial Times • 13h ago
+Financial Times • 19h ago
 
 ---
 
@@ -130,29 +130,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Update on divestment of ABB Robotics](https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics)**
-
-ABB • 1d ago
-
----
-
-**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/06/china-blocks-54-billion-abb-robotics-deal-with-billionaire-mayasoshi-sons-softbank/)**
-
-Forbes • 17h ago
-
----
-
-**[China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals](https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html)**
-
-The New York Times • 1d ago
-
----
-
 **[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
 
 Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
 
-GeekWire • 20h ago
+GeekWire • 1d ago
 
 ---
 
@@ -160,29 +142,47 @@ GeekWire • 20h ago
 
 The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they’re learning.
 
-MIT Technology Review • 13h ago
+MIT Technology Review • 18h ago
 
 ---
 
-**[Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)**
+**[Oregon robotics company has volatile debut on Wall Street](https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-companys-stock-slides-on-first-day-of-trading.html)**
 
-US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.
-
-Ars Technica • 1d ago
+OregonLive.com • 1d ago
 
 ---
 
-**[Pentagon Taps Robotics Startup in Push for Cheap Attack Drones](https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones)**
+**[Update on divestment of ABB Robotics](https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics)**
 
-Bloomberg.com • 10h ago
+ABB • 1d ago
 
 ---
 
-**[Octopuses Can Squeeze Their Bodies Through Tiny Holes, And Scientists Are in Awe](https://www.sciencealert.com/octopuses-can-squeeze-their-bodies-through-tiny-holes-and-scientists-are-in-awe)**
+**[China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division](https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/)**
 
-Octopuses are notorious shape-shifters.
+Reuters • 2d ago
 
-ScienceAlert • 12h ago
+---
+
+**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/06/china-blocks-54-billion-abb-robotics-deal-with-billionaire-mayasoshi-sons-softbank/)**
+
+Forbes • 22h ago
+
+---
+
+**[New Jersey high school students teach robotics to a school in Kenya - ABC News](https://abcnews.com/video/137927944/)**
+
+New Jersey high school students partnered with a nonprofit to bring robotics education to The Grace School in Kenya, where students have limited access to STEM resources.
+
+ABC News - Breaking News, Latest News and Videos • 6h ago
+
+---
+
+**[Can Stringman Tidy Up Better Than a Toddler? Plus Halloween Robot Fun](https://spectrum.ieee.org/video-friday-home-cable-robot)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 11K • 👍 226 • 💬 32 • ⏱️ 6:44 • 2d ago
+👁️ 12K • 👍 231 • 💬 33 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -206,27 +206,17 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 88K • 👍 1K • 💬 244 • ⏱️ 15:13 • 12h ago
+👁️ 104K • 👍 1K • 💬 298 • ⏱️ 15:13 • 17h ago
 
 ---
 
-**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
+**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
 
-This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
+King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
 
-📺 Unstoppable Gadgets
+📺 Kathryn Petrillo
 
-👁️ 31K • 👍 538 • 💬 15 • ⏱️ 0:21 • 1d ago
-
----
-
-**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
-
-A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
-
-📺 Inside Edition
-
-👁️ 23K • 👍 298 • 💬 82 • ⏱️ 1:43 • 2d ago
+👁️ 19K • 👍 497 • 💬 15 • ⏱️ 0:49 • 1d ago
 
 ---
 
@@ -236,17 +226,17 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 1K • 👍 127 • 💬 3 • ⏱️ 1:44 • 2h ago
+👁️ 4K • 👍 286 • 💬 13 • ⏱️ 1:44 • 7h ago
 
 ---
 
-**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
+**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
 
-Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
+This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
 
-📺 Mahdi Designs
+📺 Unstoppable Gadgets
 
-👁️ 168K • 👍 3K • 💬 282 • ⏱️ 15:06 • 3d ago
+👁️ 32K • 👍 572 • 💬 18 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -256,17 +246,27 @@ Tesla Optimus is getting smarter, more capable, and closer to becoming a truly a
 
 📺 Ai_Mobility_News
 
-👁️ 83K • 👍 574 • 💬 73 • ⏱️ 16:12 • 6d ago
+👁️ 84K • 👍 575 • 💬 73 • ⏱️ 16:12 • 6d ago
 
 ---
 
-**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
 
-America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
+Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
 
-📺 Living in China
+📺 Mahdi Designs
 
-👁️ 60K • 👍 2K • 💬 130 • ⏱️ 7:07 • 1d ago
+👁️ 176K • 👍 3K • 💬 293 • ⏱️ 15:06 • 4d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 142K • 👍 927 • 💬 118 • ⏱️ 9:12 • 4d ago
 
 ---
 
@@ -276,17 +276,17 @@ I built a little AI powered robot that can play fetch. Meet Fetch, a fully auton
 
 📺 SECTOR 07
 
-👁️ 105K • 👍 2K • 💬 123 • ⏱️ 18:03 • 6d ago
+👁️ 107K • 👍 2K • 💬 125 • ⏱️ 18:03 • 6d ago
 
 ---
 
-**[Inside Tesla’s Robot Academy - Preparing the Optimus Surge in 2027](https://www.youtube.com/watch?v=VtP5IBSko2g)**
+**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
 
-Elon Musk just tore down the historic Model S and Model X lines in 46 days to build the Tesla Optimus humanoid robot at ...
+Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
 
-📺 Auto Aspect
+📺 NextGen Humanoids
 
-👁️ 39K • 👍 372 • 💬 59 • ⏱️ 25:55 • 6d ago
+👁️ 22K • 👍 166 • 💬 28 • ⏱️ 8:50 • 4d ago
 
 ---
 

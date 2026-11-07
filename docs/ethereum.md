@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-06T23:41:58.402871+00:00'
+updated: '2026-11-07T04:56:22.052584+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 06, 2026 at 23:41 UTC  
+**Last Updated:** November 07, 2026 at 04:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -0.6%  
-**30d:** -9.3%  
-**90d:** +17.5%  
-**1y:** -34.7%  
+**24h:** +0.8%  
+**7d:** -1.5%  
+**30d:** -9.9%  
+**90d:** +19.7%  
+**1y:** -34.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $273.66B
+**Market Cap:** $273.88B
 Rank #2
 
-**Circulating Supply:** 122,194,930 ETH
+**Circulating Supply:** 122,197,894 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -54.7%
 
 **All-Time Low:** $0.43
-+517151.4%
++517553.3%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My Geth node had a publicly listening MPTCP socket. Disabling MPTCP didn't close existing listeners! Check ss -Mlntp, apply mitigations and patch your kernel ASAP. https://ubuntu.com/security/CVE-2026-98432
 
-4d ago
+5d ago
 
 ---
 
@@ -144,7 +144,7 @@ From the original post on x: Quantum computing poses a serious threat to the cry
 
 So the thing is I bought a devcon ticket but it seems like I won't be able to attend due to some emergency situation...in case anyone's willing to buy one for a discounted price, we can discuss Win win for both
 
-5d ago
+6d ago
 
 ---
 
@@ -156,7 +156,7 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
 
-ethereum.org • 8h ago
+ethereum.org • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ ethereum.org • 8h ago
 
 On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership’s vision for the foundation for the next 1,000 years.
 
-The Denver Post • 12h ago
+The Denver Post • 17h ago
 
 ---
 
@@ -176,14 +176,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee](https://www.fool.com/investing/2026/11/06/1-cryptocurrency-buy-soars-11000-bitmines-tom-lee/)**
-
-Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors.
-
-The Motley Fool • 7h ago
-
----
-
 **[Bitcoin, Ethereum, XRP Slide as Peter Schiff Warns ‘Expect More Days Like Today’](https://www.tradingview.com/news/benzinga:9544553c4094b:0-bitcoin-ethereum-xrp-slide-as-peter-schiff-warns-expect-more-days-like-today/)**
 
 Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 5% Thursday, with Peter Schiff warning "expect more days like today."Schiff Calls Thursday’s Selloff ‘Perfectly Rational’Schiff noted that Wednesday’s stock rally following the Democratic landslide "made no sense," wh…
@@ -192,15 +184,31 @@ TradingView • 1d ago
 
 ---
 
-**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says | CoinDesk Videos](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
+**[1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee](https://www.fool.com/investing/2026/11/06/1-cryptocurrency-buy-soars-11000-bitmines-tom-lee/)**
 
-CoinDesk • 9h ago
+Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors.
+
+The Motley Fool • 12h ago
+
+---
+
+**[Is XRP a Good Investment Right Now at $1.18?](https://247wallst.com/investing/cryptocurrency/2026/11/06/is-xrp-a-good-investment-right-now-at-1-18/)**
+
+XRP trades at $1.18, down sharply in 2026. Here's what needs to happen for it to reach $2 again and whether it's a smart investment now.
+
+24/7 Wall St. • 10h ago
 
 ---
 
 **[Ethereum software bug triggers emergency fixes across major layer-2 networks](https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/)**
 
-CryptoSlate • 5h ago
+CryptoSlate • 10h ago
+
+---
+
+**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
+
+CoinDesk • 14h ago
 
 ---
 
@@ -208,21 +216,13 @@ CryptoSlate • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 16h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP, Dogecoin Bleed Amid Broader Sell-Off: Analyst Says BTC Will Bottom After Sweeping](https://www.benzinga.com/crypto/cryptocurrency/26/11/62965453/bitcoin-ethereum-xrp-dogecoin-crypto)**
 
-Benzinga • 21h ago
-
----
-
-**[Bitcoin squeezes higher as Ethereum momentum heats up](https://www.kitco.com/opinion/2026-11-05/bitcoin-squeezes-higher-ethereum-momentum-heats)**
-
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
-
-Kitco • 1d ago
+Benzinga • 1d ago
 
 ---
 
@@ -230,23 +230,33 @@ Kitco • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
+
+Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain. Arthur ...
+
+📺 The Rollup
+
+👁️ 18K • 👍 248 • 💬 4 • ⏱️ 9:00 • 1d ago
+
+---
+
 **[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
 
 AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
 📺 Lark Davis
 
-👁️ 13K • 👍 263 • 💬 55 • ⏱️ 10:12 • 1d ago
+👁️ 14K • 👍 270 • 💬 59 • ⏱️ 10:12 • 1d ago
 
 ---
 
-**[Ethereum Price: Where This Correction Could End](https://www.youtube.com/watch?v=H6C2BP7r8pQ)**
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
 
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 9K • 👍 215 • 💬 7 • ⏱️ 8:19 • 1d ago
+👁️ 93 • 👍 9 • ⏱️ 23:50 • 40m ago
 
 ---
 
@@ -256,7 +266,37 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 75 • 💬 18 • ⏱️ 6:44 • 2h ago
+👁️ 3K • 👍 110 • 💬 3 • ⏱️ 6:44 • 8h ago
+
+---
+
+**[Ripple And XRP Are Making Major Moves And No One Notices Ethereum Is About To Become Mainstream](https://www.youtube.com/watch?v=ZInfCw1FagQ)**
+
+Everyone out there is going to miss out on whats going on and its a shame. The cryptocurrency market has never seen this much ...
+
+📺 The Modern Investor
+
+👁️ 10K • 👍 726 • 💬 276 • ⏱️ 33:44 • 18h ago
+
+---
+
+**[Ethereum Just Had Its WORST Day Since June!!](https://www.youtube.com/watch?v=GaCClsZKjYs)**
+
+Ethereum (ETH) just had its worst day since June, down 7.7% in a single day after its best day in seven weeks. Is this the bottom, ...
+
+📺 Marzell Crypto
+
+👁️ 279 • 👍 8 • 💬 2 • ⏱️ 3:19 • 14h ago
+
+---
+
+**[Bitcoin And Ethereum Are Preparing For Something Massive Crypto Whales Are Doing The Unthinkable](https://www.youtube.com/watch?v=fI-6zqZly_M)**
+
+When crypto prices fall, retail investors flee the market, unable to understand that something bigger is happening behind the ...
+
+📺 The Modern Investor
+
+👁️ 9K • 👍 693 • 💬 128 • ⏱️ 32:49 • 1d ago
 
 ---
 
@@ -270,43 +310,13 @@ Is Ethereum having its Amazon moment? Sharplink CEO Joseph Chalom believes inves
 
 ---
 
-**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
+**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=qeo2K_BmmXI)**
 
-Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain.
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 The Rollup
+📺 Crypto Nutshell
 
-👁️ 16K • 👍 237 • 💬 4 • ⏱️ 9:00 • 23h ago
-
----
-
-**[Ethereum Just Had Its WORST Day Since June!!](https://www.youtube.com/watch?v=GaCClsZKjYs)**
-
-Ethereum (ETH) just had its worst day since June, down 7.7% in a single day after its best day in seven weeks. Is this the bottom, ...
-
-📺 Marzell Crypto
-
-👁️ 160 • 👍 8 • 💬 2 • ⏱️ 3:19 • 9h ago
-
----
-
-**[Crypto Altcoin Holders Look Like FOOLS Right Now... But The Story Isn’t Over](https://www.youtube.com/watch?v=9Sphy3OOttw)**
-
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ Altcoin holders look like fools ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 377 • 💬 72 • ⏱️ 16:21 • 6h ago
-
----
-
-**[Ripple And XRP Are Making Major Moves And No One Notices Ethereum Is About To Become Mainstream](https://www.youtube.com/watch?v=ZInfCw1FagQ)**
-
-Everyone out there is going to miss out on whats going on and its a shame. The cryptocurrency market has never seen this much ...
-
-📺 The Modern Investor
-
-👁️ 9K • 👍 705 • 💬 276 • ⏱️ 33:44 • 13h ago
+👁️ 6K • 👍 99 • 💬 61 • ⏱️ 23:02 • 2d ago
 
 ---
 
@@ -316,17 +326,7 @@ Crypto News: Bitcoin and the crypto market follow the stock market with a big du
 
 📺 Thinking Crypto
 
-👁️ 16K • 👍 546 • 💬 194 • ⏱️ 22:07 • 18h ago
-
----
-
-**[THIS LOOKS VERY BULLISH FOR ETH! (Ethereum Update)](https://www.youtube.com/watch?v=sEaV_T6bbZY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 876 • 👍 19 • 💬 4 • ⏱️ 4:41 • 2d ago
+👁️ 16K • 👍 558 • 💬 194 • ⏱️ 22:07 • 1d ago
 
 ---
 
