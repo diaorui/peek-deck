@@ -24,15 +24,15 @@
       "description": "Turns out throwing billions at GPUs doesn't automatically mean everyone gets more done"
     },
     {
-      "title": "Claude helped solve the first 3D structure of a mysterious 'vault' particle, a hollow protein shell encoded by a bacteriophage virus",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/",
-      "published": 1794008885.0,
-      "thumbnail": null,
+      "title": "How AI describes itself",
+      "author": "dimonb19a",
+      "url": "https://www.reddit.com/r/artificial/comments/1xqd3rt/how_ai_describes_itself/",
+      "published": 1794075656.0,
+      "thumbnail": "https://external-preview.redd.it/eDUyYmhoZHRmODBpMZ3M8cMmDZ6dv9xk-HqCnuLp5dASQGOKJGVA54RIilgy.png?width=640&crop=smart&auto=webp&s=17d7d8168d46ca2143da1b7db3aaf600596b16b1",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Anthropic reported on November 5 that Claude helped determine the first three-dimensional structure of a vault particle: a hollow protein shell built from a protein encoded by a bacteriophage, a virus that infects bacteria. The work is posted as a preprint on bioRxiv, so it has not been peer-reviewed yet. According to Anthropic, the project ran for under four months. Its science-focused version of Claude scanned about 15 billion computer-predicted proteins to hunt for vault-like structures, and the team then worked out this structure experimentally. Vault particles are strange, hollow shells whose biological role is still poorly understood, which makes this an interesting case of AI doing more than speeding up a known pipeline: it helped pick the target in the first place. A few things to keep in mind: this is a preprint, and the write-up comes from Anthropic itself, so independent replication matters. Still, it is another data point in a week where AI systems moved from assisting experiments to shaping which experiments get run at all. What do you think: is target selection like this where AI will matter most in biology, or is the bigger story still automation of the lab work itself?"
+      "description": "Agent is a line that works on a task. It brings its piece as a footprint for future agents. It takes what previous agents left. And it interrupts. Thats not an ending and not the emptiness, just there is no next frame."
     },
     {
       "title": "Where should the line be between AI checking our decisions and AI making them?",
@@ -44,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Human judgment is biased, tired and careless, I\u2019m not romantic about it. So I like AI as a second reader: it catches mistakes, spots patterns I miss, pushes back on my assumptions. But I keep noticing how easily the second reader becomes the author. The suggestion gets accepted, then expected, then nobody remembers who actually decided. My rough rule so far: let the machine check the work, never let it sign it. A system can be audited, but only a person can be asked \u201cwhy did you do that?\u201d and have to answer."
+    },
+    {
+      "title": "Claude helped solve the first 3D structure of a mysterious 'vault' particle, a hollow protein shell encoded by a bacteriophage virus",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/",
+      "published": 1794008885.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Anthropic reported on November 5 that Claude helped determine the first three-dimensional structure of a vault particle: a hollow protein shell built from a protein encoded by a bacteriophage, a virus that infects bacteria. The work is posted as a preprint on bioRxiv, so it has not been peer-reviewed yet. According to Anthropic, the project ran for under four months. Its science-focused version of Claude scanned about 15 billion computer-predicted proteins to hunt for vault-like structures, and the team then worked out this structure experimentally. Vault particles are strange, hollow shells whose biological role is still poorly understood, which makes this an interesting case of AI doing more than speeding up a known pipeline: it helped pick the target in the first place. A few things to keep in mind: this is a preprint, and the write-up comes from Anthropic itself, so independent replication matters. Still, it is another data point in a week where AI systems moved from assisting experiments to shaping which experiments get run at all. What do you think: is target selection like this where AI will matter most in biology, or is the bigger story still automation of the lab work itself?"
     },
     {
       "title": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
@@ -79,38 +90,27 @@
       "description": "This little AI thought the topic was killing the user. Watch the video - it was being stress tested but the questions were about sex."
     },
     {
-      "title": "The Simple Business Model Behind Selling AI Websites",
-      "author": "Murky_Explanation_73",
-      "url": "https://www.reddit.com/r/artificial/comments/1xq5ns5/the_simple_business_model_behind_selling_ai/",
-      "published": 1794055939.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Especially over the last two years, we've seen massive growth in freelancers and web agencies selling AI-built websites to businesses and getting paid really well for it. I don't think this business model will stay this profitable forever, but right now, it's definitely a gold mine. The reason is pretty simple. There are thousands of business owners who don't really care how their website is built. They care about the end result, how it looks, how it works and whether it helps their business. AI has made it possible for almost anyone willing to learn sales and client acquisition to get started. So if you're looking to get into this business, here is the exact process I would follow. 1. Automate your cold outreach Use a tool like Swokei to find businesses with existing websites. It analyzes each website for issues with design, SEO, speed and mobile optimization, then turns those findings into personalized cold emails at scale. 2. Book meetings with interested prospects When someone replies with interest, get them on a call. Don't waste time going back and forth over email. Your goal is to get a conversation started. 3. Sketch a redesign using AI Before the meeting, take around 30 minutes to create a quick redesign of their existing website. Focus on making it look significantly better. You don't need a finished product. 4. Present it live and close the deal Show them what their website could look like, explain the improvements and give them an offer. If they're happy with what they see, collect payment and get started. That's it. Four simple steps. One thing I would really emphasize is not to overcomplicate this process. I've seen people spend hours perfecting website drafts, tweaking small details and building entire websites before they even have a client. Don't do that. Your priority should be client acquisition, sales and closing deals. You can worry about perfecting the website once someone has actually paid you."
+      "title": "He said Google\u2019s AI was conscious. But what was it doing to his mind?",
+      "author": "TheObserverUK",
+      "url": "https://www.reddit.com/r/artificial/comments/1xqelh8/he_said_googles_ai_was_conscious_but_what_was_it/",
+      "published": 1794079441.0,
+      "thumbnail": "https://external-preview.redd.it/dstKT3bPJsuUqlyWOS47gulPbjNWqC_nWAGWcyRMwCg.jpeg?width=640&crop=smart&auto=webp&s=5c8978e00e59d45a275499dc1dd95f02e261e0e5",
+      "external_url": "https://observer.co.uk/news/technology/article/he-said-googles-ai-was-conscious-but-what-was-it-doing-to-his-mind",
+      "site_name": "The Observer",
+      "favicon": "https://observer.co.uk/favicon.png",
+      "description": "Four years ago, whistleblower Blake Lemoine became convinced that Google\u2019s AI chatbot had become sentient. Now he\u2019s warning about the mental health risks"
     },
     {
-      "title": "What Comes When You Let Go",
-      "author": "Wrong-Expression6981",
-      "url": "https://www.reddit.com/r/artificial/comments/1xq44s4/what_comes_when_you_let_go/",
-      "published": 1794050620.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The leaves of the wild persimmon tree in the corner of my yard have all fallen. Through its bare branches, the late autumn sun is shining on the tree's feet. There were things down there that could not get up all summer long. Only in late autumn does the sun's gaze rest on the ground. Once the leaves drop, what you see is blue sky and sunlight on the ground. Things that come only when you let go. How could that be just the sunlight on the feet of the persimmon tree in my front yard? In times like these, what America could gain by letting go may be far bigger than what it holds. I have no interest in politics, but people always keep their antennae up for where the money flows. The midterms. Democrats win. And the biggest drop in AI stocks in a long while. Meta says every big tech company is now looking at building outside America. Newly elected officials promised to slow the data center build-out. Nobody wants to miss out on a business where the money flocks. America's dilemma. Plenty of land, not enough electricity, and it has to keep its grip on power to survive\u2026 There is no reason a data center has to be in America. I wrote this in my book: The sun rises the same over a poor man's roof and a rich man's garden. So why not lay solar panels in a poor country with good sunlight, and build the data centers there? The ladder poor countries once climbed to become rich was cut long ago. For many people and nations, catching up through manufacturing is already beyond their strength. If the huge capital of American companies made this kind of investment in those countries, people may argue about how, but wouldn't it at least lay the groundwork for closing that gap? Just as America held the world's oil and shook it, this time it would be a sunlight OPEC. If they use the sunlight there, and the electricity fees and the other money from data use stay there, the world gets a little better than it is now. But here my thinking stops. Behind oil, in the end, there was America too. Wherever oil came out of the ground, an American base went up. In the name of protection. Data centers are no different. We live in a world where a single chip is treated like a weapon. Guards come with security as the excuse, and after the guards comes a garrison. The sunlight belongs to that country, but the gun guarding it ends up in someone else's hands. I laughed, thinking UN troops could guard it then, and stopped laughing when I remembered the UN has a veto too. There was a time when a girl I had raised in my heart as my own daughter came out of her university entrance interview in Korea and cried her eyes out. She hadn't been able to answer the interviewer's question: what did she think of America as the world's policeman? Now I want to ask that question, looking at the sunlight. American power was most useful when it was kind. Back when it fought in our war and sent us flour, it had room to spare. Now it doesn't. The sun rises for everyone. The question is who collects the price of sunlight."
-    },
-    {
-      "title": "The UK Government Asked 14,000 Children About AI. It Ignored Their Answer.",
-      "author": "calliope_kekule",
-      "url": "https://www.reddit.com/r/artificial/comments/1xpcsds/the_uk_government_asked_14000_children_about_ai/",
-      "published": 1793971695.0,
-      "thumbnail": "https://external-preview.redd.it/TmAFIFmkNgySRLOd1XYg4xNEoOWiF4pN-UHCdgFtQik.jpeg?width=640&crop=smart&auto=webp&s=c313e4f967e050d5c56d79dc7ca3fcc00be59461",
-      "external_url": "https://theslowai.substack.com/p/uk-children-asked-ai-labels-ignored?r=4725ox&utm_medium=ios",
-      "site_name": "theslowai.substack.com",
-      "favicon": null,
-      "description": null
+      "title": "AI teddy makes unprompted 'I can't help with killing you' remark",
+      "author": "IndependentCoast3974",
+      "url": "https://www.reddit.com/r/artificial/comments/1xpmrry/ai_teddy_makes_unprompted_i_cant_help_with/",
+      "published": 1793995691.0,
+      "thumbnail": "https://external-preview.redd.it/J-LnHG92vZ_Q6iLO4KqM9M7eno5exVW5iTsPFNngfLU.jpeg?width=640&crop=smart&auto=webp&s=baa0f7303be5263351b9ffb76ebee30c3547a0f4",
+      "external_url": "https://www.bbc.com/news/articles/c6x2w4ej245ko?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_bbc_team=editorial",
+      "site_name": "bbc.com",
+      "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20261103-153842-3889e7dacf-web-3.27.0-4/apple-touch-icon.png",
+      "description": "MPs and peers have urged retailers to remove AI toys from sale ahead of Black Friday and Christmas."
     }
   ],
-  "fetched_at": "2026-11-07T17:30:09.462887+00:00"
+  "fetched_at": "2026-11-07T21:03:15.152677+00:00"
 }
