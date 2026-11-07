@@ -5,54 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Three men charged in US with using AI to impersonate CEOs and steal millions",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1T1hvM2JnV3FjOU1NWG1aeUQ5WEFnSUVWUmtlTllPNkJ6UTNEZjBxNWcyNGc0WTYyQXFvYzhqR3g0RlJCbDVnTFZycFZDR1pFZVZ1Wm1ORW16OGhDQUhyWkp5dHpFY0gxZzA1bWp2RElsaGRSSlpfczZOX0x5b0k?oc=5",
-      "pub_date": 1794000120.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
-      "image": "https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fca24c099200a4119230c96f17695f31",
-      "description": "Men allegedly impersonated voices and images of executives to convince employees to send large payments"
-    },
-    {
-      "headline": "Data center double-down: Hassett says blue wave won't stop AI build-out",
+      "headline": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MN2JaaE9uSE9UZnc4UEszM0tUUTd6TkZ0Yzh3MGx3NzEtMjhuLThkcWxuVm5HanF6OGtuN3FUV0RUREl5S05UWDhuQlh3b2xPOUJLNGpTMTNUaFBuR0FzYkk2SU5pVVBoSUJ5YjktU2twX2J2NWhEQnhn0gF_QVVfeXFMT2QxN01wcXB0ZU1iVFh6TU9HaHVfN0FVT2duWjRkc2l0MHVQNGJmd29QLV9aVk9iSk9kRHZKUF9xbUEtdUFISEhfcFQxa29va0d0dWx2amhsQ1g1UDB2TkNTcWFzRmZDejFSYUllazNSRE15MU1NR2FzcUZKWklwbw?oc=5",
-      "pub_date": 1793980548.0,
-      "article_url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108534078-1793991219956-gettyimages-2303340203-HASSETT_WH.jpeg?v=1793991243&w=1920&h=1080",
-      "description": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results."
-    },
-    {
-      "headline": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGhGWnQxM19KQnBrSFJGZWRuV3pqdVZfaTNSU1hhSGdUREJDbnBlVEQweXptU2p5ZlpmaTgwOVBOaE1ITW05dzRncms5bGVxd01lRjE2d3lMdDZpNEZMUC1kS1cwMGRvLW44OXp0dVdHc1BzWlZOU2d0YWktaWk0b003SS1PNFl3NjVNbnFOMzY0a0NTZ2JzV0VB?oc=5",
-      "pub_date": 1794049200.0,
-      "article_url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "image": "https://media.wired.com/photos/6aed04343576db1689ab3d03/191:100/w_1280,c_limit/Caregiving%20app.jpg",
-      "description": "The apps and platforms that help family caregivers manage their loved ones\u2019 needs are becoming more capable, but the broader issue of caregivers\u2019 well-being remains unsolved."
-    },
-    {
-      "headline": "Schools scramble after Google gives AI ultimatum",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0VPSjI5VUxzak0yZDhYXzVrTDU4azU4cHdsZFF0UkJuTDlwY2lNZXpMZENEMDJWdkhMUVNSN3hhYXdra0ZCNnktMkR0cEJaNy1nQl94T3FVanE1Z2czS1VxU0R0VnltZDJFb3ZyUkVhTWtJQTh1a2xGNENma1FOZk9WbW9QNDRlNEQ1TFY2Z3Q4djREaW1nRU9zUy0?oc=5",
-      "pub_date": 1794049200.0,
-      "article_url": "https://thehill.com/homenews/education/6198820-schools-scramble-after-google-gives-ai-ultimatum/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Drama between rival startups Railway and Primcloud exposes the big legal headache of the AI agent era",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVVreTI1X2tVOVNnS1NBUkl1bjdVVVZpaDBkcmh5bzc5RGtwQTFoY1Rqd3pRRU9TYjJrT2Z5V1FCcW9wRFFtaDE1VjQ2S2MxUTV5SkQwU0hYUmVobjJQWHU2SUtwOTQ0ZUtxNEVjc3ItRHRLRkkzNVpHRGctbldCQl9oeGZlZXpsQUtQUEFVNmk?oc=5",
-      "pub_date": 1794049500.0,
-      "article_url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-      "image": "https://i.insider.com/6aee4d04eaa5e46dca227d6c?width=1200&format=jpeg",
-      "description": "Primcloud accused a Railway employee of attempting to breach its system. Laywers say liability is getting complicated in the AI agent era."
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
+      "pub_date": 1794056401.0,
+      "article_url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+      "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry."
     },
     {
       "headline": "How A.I. Just Blew Up a Key Tenet of Computer Science",
@@ -65,46 +25,86 @@
       "description": null
     },
     {
-      "headline": "Democrats planning flood of AI bills when they take control of Congress",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
-      "pub_date": 1794002202.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/democrats-planning-flood-ai-bills-when-they-take-control-congress-2026-11-06/",
+      "headline": "The Wild Week That Brought AI Investors to the Brink",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QTGx6VDBRaWVZRFRORlhLV21SUF9EaVVvMVAxa01QR0ZXTExIdi1GZ2dxWXhYVVpwUjBTbENjWkowLUpmbWsxZkhiSmhmLVhMc2dkMHhmWExBempSdmZVZWlmVDN0SzR3aE1PeDV0a2JubWJuOVRWTnhIWGVKQ28?oc=5",
+      "pub_date": 1794007740.0,
+      "article_url": "https://www.wsj.com/finance/stocks/midterms-markets-week-ai-trade-97b3fc5d",
       "image": null,
       "description": null
     },
     {
-      "headline": "Google Acquires Crusoe\u2019s Wyoming Data Center Site",
-      "source": "Crusoe",
-      "source_url": "https://www.crusoe.ai",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlF4U2xWUlNOdXRsU3pqczk5eGNLREZubzJHZ1NTNTlNbnVRZzlGTkNPaXVpeGl1Wm1wYXo2RmJrMWJ4SExoNFRkYVV6VzY2Xzd5LW9zRXpqVmNmTm0zazY0S19pLUhWTURJNVE5Qlp2RDJzckRacEc3V3NIblh4UWowOHB5UU90?oc=5",
-      "pub_date": 1793991587.0,
-      "article_url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "image": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aee19ec970f4b7e8614bcdb_6abaa3170b66e6fbd57379d2_Crusoe%20X%20Google-p-1080.jpg",
-      "description": "Google has acquired Crusoe\u2019s southeast Wyoming data center site after Crusoe completed site selection, approvals, and power strategy for the campus."
+      "headline": "Global stocks fall amid \u2018big worries over AI\u2019 after Democrats\u2019 midterms triumph | Stock markets",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUk01aHk3MkRMSGk4UWdNN19aTnNuaEV1MEpvNGtXdUViNmsyTk84OFNEVktLbjlpV2FEQ1FhYi1lenJjTkh1eEpCUG1YODk1NFI0dlBZTXd5VlpSM2ZqSEtfZWVxTU9iYVpDaGI0YTF3cjhvc0R6a0JuUmxVNGJkb3JHOFN1NUFhaXpSM296Z2JRdWFiNVZ4SHBiS2NiNU9KbnR0VnA4RWwxMmJ3NjhtSEIwcWFscFBGX2xKdkN3bzNVdw?oc=5",
+      "pub_date": 1793955480.0,
+      "article_url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf",
+      "description": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come"
     },
     {
-      "headline": "Could the US midterms put a pin in the AI bubble?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94aldCYVAzNy0xdG1rcUtmbFJpWEExUk5TbzlZeG43ZnZFLUxuRFo0ZVFYMUQzRFdKQ3Q0X21Bb3dOekFhVjBRTzAtUE5QTWVtdHhTeDBPZnNLX1U?oc=5",
-      "pub_date": 1793989936.0,
-      "article_url": "https://www.bbc.com/news/articles/crlykkzwwpydo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
-      "description": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time."
+      "headline": "AI nerves reinforce age-old investing lesson: Get diversified",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjS1A2TEVKZXMtLXZYc1I0U25qWmlpUjhhMGR5dXFPWWV1Nm5QMWtubktxenhCVjd1NXZlRkJLNWhsTFMzSHczNUZQemJaTXN0OVB5NmZtMmNraGdNU3o0aTNhOEh2LWVfZUlQUlZFVGJlWUlMVzJJVmNn?oc=5",
+      "pub_date": 1794070816.0,
+      "article_url": "https://www.cnn.com/2026/11/07/investing/ai-nerves-diversify-portfolio",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26310669206189.jpg?c=16x9&q=w_800,c_fill",
+      "description": "A $2.5 trillion wipeout for the Nasdaq Composite this week is reminding even the smallest investors just how reliant we\u2019ve all become on the success of the artificial intelligence buildout."
     },
     {
-      "headline": "What the AI stock crash cost your 401(k) for every $1,000 invested",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmZ0Wl9YSWRoWGt1SFllVUFJeWs4MERjNTgydFNuVVJBQ2lKRVlIanpyZjJ2dUk3Zzc3UmczTnRXZVhXTjBMaTBQQTRZQjJSdFVOZWUybjNCMUZFYng0a2NSRGNzUVRQcjRHTG9CVWR4OTBaN2VYOUpnaUk0SFoxUF9ZUl9Uc0VfeTloaFZ4U3lvRTZMbUpKNWhoVlJxWE1XZU9BdjBFdzRhRURZeXRRTEQ2T29kcWNPOERF?oc=5",
-      "pub_date": 1793986101.0,
-      "article_url": "https://finance.yahoo.com/markets/article/what-the-ai-stock-crash-cost-your-401k-for-every-1000-invested-172821837.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fcdc090799c3becd90ca701ecd006e5119ead27b78f6682eb20fd57b1664fcfc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F106431ef-83b8-4aa5-9359-035e412665bf",
-      "description": "Thursday's AI stock crash cost a basic S&P 500 index fund about a nickel on the dollar, while chip stocks lost nearly a third of their value."
+      "headline": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrc2NBamlMdERCVTZuX2txQVl6bjQzR19yNXFTTlN2SDNnbjRqcFB6b2xGeGdXM0Y4ZEJ2cERDWi1GZWMxWnUxa3BVREtJN2dUZWdiQ0xrOFBfRnlrekp5VnhSdTFsUU9hVEViWjZYS2h5WHNzX3VLUw?oc=5",
+      "pub_date": 1794066600.0,
+      "article_url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Mind the butter"
+    },
+    {
+      "headline": "AI is changing what it takes to get hired as a mathematician",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFBlbFFIYTZ6bFNHOGZnYjJvRnFCMEhQbmtFd1hOQjJjRVVyLVpUNFltODhKZmtkcFFsZEdUc2J1aTR0YlVCNjYtR2YzekFPdGtPMXpwOFdQVVJHVFNMYjhybEZPWEJ2NFBkam5SbVZ3MjI2dW5RMnRlZURKTEl3bEtDNVpHcXFqZmdydGcxX1JQZkxMNW5CdjM5VVg?oc=5",
+      "pub_date": 1794068237.0,
+      "article_url": "https://www.yahoo.com/news/science/articles/ai-changing-takes-hired-mathematician-161717910.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/30b2a96720f9224d8e35f49884d0ed431de022f18332f957405cb3c5e0bffc3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fd665c3b538c692a16d14dc9a80743305.jpg",
+      "description": "Mathematicians are struggling as AI upends their field. A prominent math professor says a little charisma will help researchers set themselves apart."
+    },
+    {
+      "headline": "Schools scramble after Google gives AI ultimatum",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0VPSjI5VUxzak0yZDhYXzVrTDU4azU4cHdsZFF0UkJuTDlwY2lNZXpMZENEMDJWdkhMUVNSN3hhYXdra0ZCNnktMkR0cEJaNy1nQl94T3FVanE1Z2czS1VxU0R0VnltZDJFb3ZyUkVhTWtJQTh1a2xGNENma1FOZk9WbW9QNDRlNEQ1TFY2Z3Q4djREaW1nRU9zUy3SAaIBQVVfeXFMUDVFZ3RJRVg2RGl1NzBTVHFuTWg3YnNQR2lnYkx4VWk4ZGxMWTg4TXpFeEk2UHJNd0wtMUNUTm95ZndMaS1FREo3S2dXZnpYaHI3VXhSUndEQzRRUW9aSVRlYi1yVDgzZzBBWkVtRThSeXRMc2NTeUQyQ1RXakNWWmotRXJmZFc4UFl4Sy1NMWVzb1d3VGtOTndxTmtwUVFqVy1B?oc=5",
+      "pub_date": 1794049200.0,
+      "article_url": "https://thehill.com/homenews/education/6198820-schools-scramble-after-google-gives-ai-ultimatum/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Parents sue Google after discovering what daughter was doing with AI on school Chromebook",
+      "source": "Cleveland.com",
+      "source_url": "https://www.cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONlpGWXd4NTkxUkJmcnBCNzh4SWpIMnBCcUtvT0pmazBDQWhMMVE3a1FsenZubUR2N3dlNjN0Zng3ekQ1NmxfNGRzRGtWSWd6Q1NXb192dDFpV00xVkhkdEZDYnQtZWc1STBhNVJnOGdoazdULWhGbVRRcWtTRk9EUnZMbUMxY2RjUVNPeDh2ZVFXLWJ0Y2o5ZzZTOXZKa0xtTXlRRlBsOE1SYUVsLTZ3a3NsRF9JbF9yRHczTDhydC1IeDQ4MVhXZ18yem84d9IB4gFBVV95cUxQZ1hmc3JsUFdUbHNSYnF5UU5lamU4T3hpcDUyUC1WTEY0dWFmQXoxMzFMRlZ5SUJaWEdLSnQ0SGFxUWVHRm5iQ1VPREtsWmJDUnU2SE9waEZKckpTdS05NHd1R0hyWjZXT0dBVXRxWkNZOE1FZDAyRVota0pqXzRXR2RaY2tiVXotU1FaNVY2NzhiQlZ3OHZ5bHNfUnF5cExxcXZVZDY4WGwycnFEdFRCcHFlZHpsTUlFV3daVFFFeXlfRmZTMlpVSklGWUE0U1B5aFlBTVJORVpFa3lUR09JT0V3?oc=5",
+      "pub_date": 1794042000.0,
+      "article_url": "https://www.cleveland.com/news/2026/11/parents-sue-google-after-discovering-what-daughter-was-doing-with-ai-on-school-chromebook.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUtIZ3lxajZKZXl4SEUxN2lzbV9xemZJYl9FXzVPTkZ0dGNSZVhFRXpZUHRMTUVpb3A5WERhaXdEYmM5T1QtMHBVdjJZLTE1U1V2UkI0N1ZvUkN2S1ZHVFlfUW9hazhRaEtLMTJ6Wkt6eEV0N3RFVnp5N3VSQU9wYjh1cnZVaWJVWXZtdmZLRTF1UEVlUENOUmdB?oc=5",
+      "pub_date": 1793898011.0,
+      "article_url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-07T11:33:25.866694+00:00"
+  "fetched_at": "2026-11-07T17:30:34.472309+00:00"
 }
