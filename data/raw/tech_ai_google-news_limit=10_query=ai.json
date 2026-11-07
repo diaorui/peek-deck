@@ -5,44 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "US tech stocks edge up after AI slowdown fears hit value of firms - live updates",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLOFVxRnRvbGdVMGt1OURWc3Y3SFhRc29RNXRld184ZVBJb0tJSm9oaGhMQ25zSWpHQUd6cjhaRnFVM1NiUGZUTGRWejJ5b3VBeXZIbUR3?oc=5",
-      "pub_date": 1793978735.0,
-      "article_url": "https://www.bbc.com/news/live/cq62yy619r5dt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9173/live/ef4e9330-d9b8-11f1-a701-fddedf244c16.jpg",
-      "description": "It comes after Democrats won control of US Congress in this week's midterm elections, with some candidates pledging to slow the growth of data centres and AI."
-    },
-    {
-      "headline": "US tech stock rout: is the AI bubble bursting?",
+      "headline": "Three men charged in US with using AI to impersonate CEOs and steal millions",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUk5KWGFRY0lPalplQWNSaFZZTk11VEJvblJNWXBnTGlQU05xZTBoVlFzTHprWHVfaUVIb3ZFcGJOQUJmZFVqZVpNT0Q4X25EemUxc0hObXlhYmpkelJFcVpRcDZIQVZRTjBVTzMyUW5iMXRTLVlqZW04ZjNNRmRKcTl6TUNHcnY2QjNDdUR5QzVBX2U3UjZySVdvUE83S2Q4ZkR3RzJfQ1lzUFFXUnc?oc=5",
-      "pub_date": 1793997480.0,
-      "article_url": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
-      "image": "https://i.guim.co.uk/img/media/e304922b1742f8abb9512b6c85d484878c2dd647/667_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a866155dbff92e5735e9d5c6d44f889",
-      "description": "After Thursday\u2019s share price plunge on Wall Street, could the volatility be the start of a huge market meltdown?"
-    },
-    {
-      "headline": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5",
-      "pub_date": 1793981177.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why investors are dumping AI company stocks after Democrats\u2019 election sweep",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHBQalQ0UlBpeEtqdmZBTlJpQTJtaVNlV1B4Zm45UnV3Q0R4VWl6MXF6U1RfZDRUSXBLQU5YWWFma0xxMnJ5OXpiRVliTFlELVoxZEZiWGFmbm8xNlJvTkJBdlZCTlY0RzlOTVNZNFp2UU1qTnFsalotZmZPcE5YbVktcm9URUNUN0dSN2draU5EYU81ekl1ZTZCOGZoZFRmVDI0NDlON2k1ZEREMEdyaWJsaHZyLTU5QWhNNnJ6bWE5U3BU?oc=5",
-      "pub_date": 1794022536.0,
-      "article_url": "https://www.washingtonpost.com/business/2026/11/06/investors-dumping-ai-company-stocks-fears-democrats-will-stop-data-centers/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6NJ7TRMIW3OVCQMO5XUIY43OY_size-normalized.jpg&w=1440",
-      "description": "Investors are worried that data center building will slow. If the AI industry\u2019s investment math no longer works, the U.S. economy could take a hit."
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1T1hvM2JnV3FjOU1NWG1aeUQ5WEFnSUVWUmtlTllPNkJ6UTNEZjBxNWcyNGc0WTYyQXFvYzhqR3g0RlJCbDVnTFZycFZDR1pFZVZ1Wm1ORW16OGhDQUhyWkp5dHpFY0gxZzA1bWp2RElsaGRSSlpfczZOX0x5b0k?oc=5",
+      "pub_date": 1794000120.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+      "image": "https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fca24c099200a4119230c96f17695f31",
+      "description": "Men allegedly impersonated voices and images of executives to convince employees to send large payments"
     },
     {
       "headline": "Data center double-down: Hassett says blue wave won't stop AI build-out",
@@ -55,34 +25,34 @@
       "description": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results."
     },
     {
-      "headline": "AI data centers took beating in midterm elections",
-      "source": "Altoona Mirror",
-      "source_url": "https://www.altoonamirror.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZWxUcDA4bkhvVlpmQXNIUzMya190RDNXTXZqWl8xRi1tLUNHanJfUzVHXzR3NzFwMkpmWkdyaGVKZzR3ZU51T2xPLWtXY2dXUkk3WXhsNk1RdTRIdmxlQ1dEM3FtUGRCOGFaQ3V6WjNTUzNXTjNxUzZydDZpMndSU29NN2VSZVZEcUZqUHJ4RC1DMXB2Tm9RaHRDMlZvekdkeUdPRFNBSQ?oc=5",
-      "pub_date": 1794025125.0,
-      "article_url": "https://www.altoonamirror.com/news/local-news/2026/11/ai-data-centers-took-beating-in-midterm-elections/",
-      "image": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/11/06223237/a5-data-centers.jpg",
-      "description": "HARRISBURG \u2014 After a campaign season filled with outrage against artificial intelligence data centers, the midterm elections ushered in a wave of Democrats pledging to clamp down on the energy-hungry behemoths. A tougher regulatory environment for AI giants and data center developers is expected to follow, even if President Donald Trump \u2014 perhaps the industry\u2019s [\u2026]"
+      "headline": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGhGWnQxM19KQnBrSFJGZWRuV3pqdVZfaTNSU1hhSGdUREJDbnBlVEQweXptU2p5ZlpmaTgwOVBOaE1ITW05dzRncms5bGVxd01lRjE2d3lMdDZpNEZMUC1kS1cwMGRvLW44OXp0dVdHc1BzWlZOU2d0YWktaWk0b003SS1PNFl3NjVNbnFOMzY0a0NTZ2JzV0VB?oc=5",
+      "pub_date": 1794049200.0,
+      "article_url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "image": "https://media.wired.com/photos/6aed04343576db1689ab3d03/191:100/w_1280,c_limit/Caregiving%20app.jpg",
+      "description": "The apps and platforms that help family caregivers manage their loved ones\u2019 needs are becoming more capable, but the broader issue of caregivers\u2019 well-being remains unsolved."
     },
     {
-      "headline": "Somerville woman warns pet owners after suspected scammer uses AI image of missing cat",
-      "source": "Boston.com",
-      "source_url": "https://www.boston.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNazUyd1pXX2tkelgzLTJmajJsUGlYNWJZTmJOM1dNajAwRzJHYUZMZmJySEZsR2c0cGpneDNma3FrQ0E0N0xVX3Y5djlfd09DeFZhVVlkajZEZmtnMFNpeHp2OVBSWkJfS0NPbW0zOUVuZTFaelUya1dld1FYRnliLW9mTlVtVk5HYlJZN0tiWlRtajd0Z2hobDhENHdHczhUMUJPY2pGMEZyd1dJN3BTX1pVZE9Sa0RuTUJyTUtpMDdVemkwQXJaZnN5WjI?oc=5",
-      "pub_date": 1794021333.0,
-      "article_url": "https://www.boston.com/news/crime/2026/11/06/somerville-woman-warns-pet-owners-after-suspected-scammer-uses-ai-image-of-missing-cat/",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
-      "description": "The incident is among several reported cases of scammers exploiting pet owners searching for missing animals."
+      "headline": "Schools scramble after Google gives AI ultimatum",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0VPSjI5VUxzak0yZDhYXzVrTDU4azU4cHdsZFF0UkJuTDlwY2lNZXpMZENEMDJWdkhMUVNSN3hhYXdra0ZCNnktMkR0cEJaNy1nQl94T3FVanE1Z2czS1VxU0R0VnltZDJFb3ZyUkVhTWtJQTh1a2xGNENma1FOZk9WbW9QNDRlNEQ1TFY2Z3Q4djREaW1nRU9zUy0?oc=5",
+      "pub_date": 1794049200.0,
+      "article_url": "https://thehill.com/homenews/education/6198820-schools-scramble-after-google-gives-ai-ultimatum/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Cleveland is using AI to flag property problems and fight blight. Here's how it works.",
-      "source": "News 5 Cleveland WEWS",
-      "source_url": "https://www.news5cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGgycUlhRkxZbnBuTDNxSWhEdTZmX2tXVnBhQWRIbkJ4NWhTNkE1TkRONnNNODVyWXdCZEZ0SzFpRTFOb2xIVEE0VGlsX3NWanVVd3drUXBMTUVYbEJMMDNCWmRkc2MzOFY0a2lXb3R2X2E2RHo4Z2VWZzRFYW05NjJxT28yQ0tiRmRHT2pRNWJZMXpSWnNxMGtscy1CZUNiY3lDU2V0eWo1TnhaTkZRR3lMTklzSlAyeHlPamIzMGVhRDFtMi13UFhB?oc=5",
-      "pub_date": 1794021466.0,
-      "article_url": "https://www.news5cleveland.com/news/local-news/cleveland-is-using-ai-to-flag-property-problems-and-fight-blight-heres-how-it-works",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/a894c9d/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Ff3%2Fd0%2Fdcf06ef3405991f897ee5439ab14%2Fvlcsnap-2026-11-06-19h47m26s731.jpg",
-      "description": "In late 2025, Cleveland teamed up with City Detect, a company that uses visual AI to help local governments monitor property conditions. The yearlong pilot project is scheduled to end Feb. 1."
+      "headline": "Drama between rival startups Railway and Primcloud exposes the big legal headache of the AI agent era",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVVreTI1X2tVOVNnS1NBUkl1bjdVVVZpaDBkcmh5bzc5RGtwQTFoY1Rqd3pRRU9TYjJrT2Z5V1FCcW9wRFFtaDE1VjQ2S2MxUTV5SkQwU0hYUmVobjJQWHU2SUtwOTQ0ZUtxNEVjc3ItRHRLRkkzNVpHRGctbldCQl9oeGZlZXpsQUtQUEFVNmk?oc=5",
+      "pub_date": 1794049500.0,
+      "article_url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
+      "image": "https://i.insider.com/6aee4d04eaa5e46dca227d6c?width=1200&format=jpeg",
+      "description": "Primcloud accused a Railway employee of attempting to breach its system. Laywers say liability is getting complicated in the AI agent era."
     },
     {
       "headline": "How A.I. Just Blew Up a Key Tenet of Computer Science",
@@ -95,6 +65,16 @@
       "description": null
     },
     {
+      "headline": "Democrats planning flood of AI bills when they take control of Congress",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
+      "pub_date": 1794002202.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/democrats-planning-flood-ai-bills-when-they-take-control-congress-2026-11-06/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Google Acquires Crusoe\u2019s Wyoming Data Center Site",
       "source": "Crusoe",
       "source_url": "https://www.crusoe.ai",
@@ -103,8 +83,28 @@
       "article_url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
       "image": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aee19ec970f4b7e8614bcdb_6abaa3170b66e6fbd57379d2_Crusoe%20X%20Google-p-1080.jpg",
       "description": "Google has acquired Crusoe\u2019s southeast Wyoming data center site after Crusoe completed site selection, approvals, and power strategy for the campus."
+    },
+    {
+      "headline": "Could the US midterms put a pin in the AI bubble?",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94aldCYVAzNy0xdG1rcUtmbFJpWEExUk5TbzlZeG43ZnZFLUxuRFo0ZVFYMUQzRFdKQ3Q0X21Bb3dOekFhVjBRTzAtUE5QTWVtdHhTeDBPZnNLX1U?oc=5",
+      "pub_date": 1793989936.0,
+      "article_url": "https://www.bbc.com/news/articles/crlykkzwwpydo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
+      "description": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time."
+    },
+    {
+      "headline": "What the AI stock crash cost your 401(k) for every $1,000 invested",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmZ0Wl9YSWRoWGt1SFllVUFJeWs4MERjNTgydFNuVVJBQ2lKRVlIanpyZjJ2dUk3Zzc3UmczTnRXZVhXTjBMaTBQQTRZQjJSdFVOZWUybjNCMUZFYng0a2NSRGNzUVRQcjRHTG9CVWR4OTBaN2VYOUpnaUk0SFoxUF9ZUl9Uc0VfeTloaFZ4U3lvRTZMbUpKNWhoVlJxWE1XZU9BdjBFdzRhRURZeXRRTEQ2T29kcWNPOERF?oc=5",
+      "pub_date": 1793986101.0,
+      "article_url": "https://finance.yahoo.com/markets/article/what-the-ai-stock-crash-cost-your-401k-for-every-1000-invested-172821837.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fcdc090799c3becd90ca701ecd006e5119ead27b78f6682eb20fd57b1664fcfc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F106431ef-83b8-4aa5-9359-035e412665bf",
+      "description": "Thursday's AI stock crash cost a basic S&P 500 index fund about a nickel on the dollar, while chip stocks lost nearly a third of their value."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-07T04:56:18.322401+00:00"
+  "fetched_at": "2026-11-07T11:33:25.866694+00:00"
 }
