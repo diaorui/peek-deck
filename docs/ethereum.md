@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-07T04:56:22.052584+00:00'
+updated: '2026-11-07T11:33:28.598675+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 07, 2026 at 04:56 UTC  
+**Last Updated:** November 07, 2026 at 11:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -1.5%  
-**30d:** -9.9%  
-**90d:** +19.7%  
-**1y:** -34.2%  
+**24h:** +0.3%  
+**7d:** -1.4%  
+**30d:** -9.8%  
+**90d:** +19.9%  
+**1y:** -34.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $273.88B
+**Market Cap:** $274.09B
 Rank #2
 
 **Circulating Supply:** 122,197,894 ETH
@@ -62,7 +62,7 @@ No max supply
 -54.7%
 
 **All-Time Low:** $0.43
-+517553.3%
++517932.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Explore how Ethereum's open, global network can support digital public infrastructure, verifiable records, and coordination across institutions without a central operator.
 
-🔗 [Ethereum for digital public infrastructure](https://publicsector.ethereum.foundation/) • 3d ago
+🔗 [Ethereum for digital public infrastructure](https://publicsector.ethereum.foundation/) • 4d ago
 
 ---
 
@@ -88,7 +88,7 @@ Explore how Ethereum's open, global network can support digital public infrastru
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -104,7 +104,7 @@ Most people seem to hold ETH as an investment, while USDT and USDC are increasin
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -120,7 +120,7 @@ My Geth node had a publicly listening MPTCP socket. Disabling MPTCP didn't close
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -152,35 +152,35 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 ## Google News: "ethereum"
 
-**[EIP-8037/EIP-8038 Glamsterdam](https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038)**
-
-In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
-
-ethereum.org • 13h ago
-
----
-
 **[Crypto foundation demanded employees endorse suicide pledge, then fired leaders who objected, Colorado lawsuit alleges](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)**
 
 On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership’s vision for the foundation for the next 1,000 years.
 
-The Denver Post • 17h ago
+The Denver Post • 1d ago
 
 ---
 
-**[Where Will Ethereum Be in 3 Years?](https://finance.yahoo.com/markets/crypto/articles/where-ethereum-3-years-190100780.html)**
+**[EIP-8037/EIP-8038 Glamsterdam](https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038)**
 
-Ethereum isn't broken; it's just slow. Here's why that matters over the next three years.
+In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
+
+ethereum.org • 20h ago
+
+---
+
+**[Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow](https://finance.yahoo.com/markets/stocks/articles/bitmine-resumes-stock-buybacks-ethereum-144900850.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ...
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Slide as Peter Schiff Warns ‘Expect More Days Like Today’](https://www.tradingview.com/news/benzinga:9544553c4094b:0-bitcoin-ethereum-xrp-slide-as-peter-schiff-warns-expect-more-days-like-today/)**
+**[Bitcoin, Ethereum, XRP May Look at a Final Decline Before Year-End, Experts Say](https://www.tradingview.com/news/benzinga:ac59adb02094b:0-bitcoin-ethereum-xrp-may-look-at-a-final-decline-before-year-end-experts-say/)**
 
-Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD are down over 5% Thursday, with Peter Schiff warning "expect more days like today."Schiff Calls Thursday’s Selloff ‘Perfectly Rational’Schiff noted that Wednesday’s stock rally following the Democratic landslide "made no sense," wh…
+Bitcoin CRYPTO:BTCUSD faces a potential final decline toward $73,400 to $74,500 before reversing, as experts and analysts highlight signs that the recent crypto market selloff could be nearing exhaustion.While Franklin Templeton’s chief investment officer Seth Ginns sees improving market fundamenta…
 
-TradingView • 1d ago
+TradingView • 16h ago
 
 ---
 
@@ -188,27 +188,7 @@ TradingView • 1d ago
 
 Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors.
 
-The Motley Fool • 12h ago
-
----
-
-**[Is XRP a Good Investment Right Now at $1.18?](https://247wallst.com/investing/cryptocurrency/2026/11/06/is-xrp-a-good-investment-right-now-at-1-18/)**
-
-XRP trades at $1.18, down sharply in 2026. Here's what needs to happen for it to reach $2 again and whether it's a smart investment now.
-
-24/7 Wall St. • 10h ago
-
----
-
-**[Ethereum software bug triggers emergency fixes across major layer-2 networks](https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/)**
-
-CryptoSlate • 10h ago
-
----
-
-**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
-
-CoinDesk • 14h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -216,13 +196,37 @@ CoinDesk • 14h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 22h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Bleed Amid Broader Sell-Off: Analyst Says BTC Will Bottom After Sweeping](https://www.benzinga.com/crypto/cryptocurrency/26/11/62965453/bitcoin-ethereum-xrp-dogecoin-crypto)**
+**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
 
-Benzinga • 1d ago
+CoinDesk • 21h ago
+
+---
+
+**[Ethereum Whale: Buys 8,775 ETH at $2,245](https://blockchain.news/flashnews/ethereum-whale-buys-8-775-eth-2-245)**
+
+Whale tracked by @EmberCN adds 8,775 ETH for 19.7 million USDT at $2,245 after June purchase of 10,376 ETH at $1,626, now holding 23,097 ETH with average...
+
+Blockchain News • 18h ago
+
+---
+
+**[EIP-8037 state-gas rules force Ethereum dApps to rewrite billing](https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/)**
+
+Ethereum’s Glamsterdam review asks apps to test gas assumptions, exposing conditional relayer and wallet risks.
+
+CryptoSlate • 5h ago
+
+---
+
+**[Ethereum prepares to overhaul its state structure with a Partitioned Binary Tree](https://cryptobriefing.com/ethereum-partitioned-binary-tree-eip-8297/)**
+
+Ethereum's EIP-8297 Partitioned Binary Tree passed a mainnet shadowfork test, aiming for smaller state proofs and state expiry by Q4 2026.
+
+Crypto Briefing • 1d ago
 
 ---
 
@@ -230,23 +234,23 @@ Benzinga • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[I Built a Live Trading Bot with Claude Code AI (Ethereum AI Trading)](https://www.youtube.com/watch?v=1hoICfzfZoE)**
+
+Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:37 - Setup Guide and Platform 01:16 - Compile and ...
+
+📺 Thomas Sutton
+
+👁️ 859 • 👍 22 • 💬 8 • ⏱️ 5:59 • 3h ago
+
+---
+
 **[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
 
 Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain. Arthur ...
 
 📺 The Rollup
 
-👁️ 18K • 👍 248 • 💬 4 • ⏱️ 9:00 • 1d ago
-
----
-
-**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 14K • 👍 270 • 💬 59 • ⏱️ 10:12 • 1d ago
+👁️ 19K • 👍 261 • 💬 12 • ⏱️ 9:00 • 1d ago
 
 ---
 
@@ -256,7 +260,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 93 • 👍 9 • ⏱️ 23:50 • 40m ago
+👁️ 2K • 👍 60 • 💬 63 • ⏱️ 23:50 • 7h ago
+
+---
+
+**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 15K • 👍 276 • 💬 60 • ⏱️ 10:12 • 1d ago
 
 ---
 
@@ -266,7 +280,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 110 • 💬 3 • ⏱️ 6:44 • 8h ago
+👁️ 5K • 👍 151 • 💬 8 • ⏱️ 6:44 • 14h ago
 
 ---
 
@@ -276,7 +290,7 @@ Everyone out there is going to miss out on whats going on and its a shame. The c
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 726 • 💬 276 • ⏱️ 33:44 • 18h ago
+👁️ 10K • 👍 742 • 💬 280 • ⏱️ 33:44 • 1d ago
 
 ---
 
@@ -286,7 +300,7 @@ Ethereum (ETH) just had its worst day since June, down 7.7% in a single day afte
 
 📺 Marzell Crypto
 
-👁️ 279 • 👍 8 • 💬 2 • ⏱️ 3:19 • 14h ago
+👁️ 341 • 👍 8 • 💬 2 • ⏱️ 3:19 • 21h ago
 
 ---
 
@@ -296,27 +310,17 @@ When crypto prices fall, retail investors flee the market, unable to understand 
 
 📺 The Modern Investor
 
-👁️ 9K • 👍 693 • 💬 128 • ⏱️ 32:49 • 1d ago
+👁️ 9K • 👍 696 • 💬 128 • ⏱️ 32:49 • 2d ago
 
 ---
 
-**[Why Ethereum Is Now Following the Amazon Playbook: Sharplink CEO](https://www.youtube.com/watch?v=tTM2FHu_2b0)**
+**[Ethereum Rug Pull Tutorial | How to Launch a Meme Coin in 2026](https://www.youtube.com/watch?v=Sb9xl1-DZ28)**
 
-Is Ethereum having its Amazon moment? Sharplink CEO Joseph Chalom believes investors may be making the same mistake ...
+Ethereum Rug Pull Tutorial | How to Launch a Meme Coin in 2026 ⚙️ Explore the platform → https://ethreg.com The goal is ...
 
-📺 Coinage
+📺 SL Gemma Trading Academy
 
-👁️ 17K • 👍 162 • 💬 83 • ⏱️ 20:55 • 2d ago
-
----
-
-**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=qeo2K_BmmXI)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 99 • 💬 61 • ⏱️ 23:02 • 2d ago
+👁️ 2K • 👍 118 • 💬 1 • ⏱️ 3:13 • 2h ago
 
 ---
 
@@ -326,7 +330,7 @@ Crypto News: Bitcoin and the crypto market follow the stock market with a big du
 
 📺 Thinking Crypto
 
-👁️ 16K • 👍 558 • 💬 194 • ⏱️ 22:07 • 1d ago
+👁️ 17K • 👍 563 • 💬 194 • ⏱️ 22:07 • 1d ago
 
 ---
 
