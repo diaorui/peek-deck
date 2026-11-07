@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-07T17:30:39.418667+00:00'
+updated: '2026-11-07T21:03:47.135181+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 07, 2026 at 17:30 UTC  
+**Last Updated:** November 07, 2026 at 21:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -1.8%  
-**30d:** -10.2%  
-**90d:** +19.4%  
-**1y:** -34.4%  
+**24h:** -0.4%  
+**7d:** -2.1%  
+**30d:** -10.5%  
+**90d:** +19.0%  
+**1y:** -34.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.82B
+**Market Cap:** $272.08B
 Rank #2
 
 **Circulating Supply:** 122,197,894 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.9%
+-55.0%
 
 **All-Time Low:** $0.43
-+515541.6%
++514155.9%
 
 ---
 
@@ -172,15 +172,7 @@ ethereum.org • 1d ago
 
 Ethereum isn't broken; it's just slow. Here's why that matters over the next three years.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP May Look at a Final Decline Before Year-End, Experts Say](https://www.tradingview.com/news/benzinga:ac59adb02094b:0-bitcoin-ethereum-xrp-may-look-at-a-final-decline-before-year-end-experts-say/)**
-
-Bitcoin CRYPTO:BTCUSD faces a potential final decline toward $73,400 to $74,500 before reversing, as experts and analysts highlight signs that the recent crypto market selloff could be nearing exhaustion.While Franklin Templeton’s chief investment officer Seth Ginns sees improving market fundamenta…
-
-TradingView • 22h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -192,11 +184,25 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP May Look at a Final Decline Before Year-End, Experts Say](https://www.tradingview.com/news/benzinga:ac59adb02094b:0-bitcoin-ethereum-xrp-may-look-at-a-final-decline-before-year-end-experts-say/)**
+
+Bitcoin CRYPTO:BTCUSD faces a potential final decline toward $73,400 to $74,500 before reversing, as experts and analysts highlight signs that the recent crypto market selloff could be nearing exhaustion.While Franklin Templeton’s chief investment officer Seth Ginns sees improving market fundamenta…
+
+TradingView • 1d ago
+
+---
+
 **[Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading](https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/)**
 
 Russia's final Bitcoin, Ethereum, and USDT rules take effect Nov. 17, with retail purchase limits and testing.
 
-CryptoSlate • 12h ago
+CryptoSlate • 16h ago
+
+---
+
+**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says | CoinDesk Videos](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
+
+CoinDesk • 1d ago
 
 ---
 
@@ -208,17 +214,11 @@ Fortune • 1d ago
 
 ---
 
-**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says | CoinDesk Videos](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
-
-CoinDesk • 1d ago
-
----
-
 **[How Low Could Bitcoin, Ethereum, and XRP Go If Crypto Keeps Dumping?](https://coinpedia.org/news/how-low-could-bitcoin-ethereum-and-xrp-go-if-crypto-keeps-dumping/)**
 
 Since the start of this month, the global crypto market has lost more than $180 billion, bringing its total value down to $2.64 trillion. The drop comes
 
-Coinpedia • 7h ago
+Coinpedia • 10h ago
 
 ---
 
@@ -234,13 +234,23 @@ Blockchain News • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=j5Wr41xwS7U)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 116 • 💬 64 • ⏱️ 23:30 • 4h ago
+
+---
+
 **[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 97 • 💬 63 • ⏱️ 23:50 • 13h ago
+👁️ 5K • 👍 102 • 💬 63 • ⏱️ 23:50 • 16h ago
 
 ---
 
@@ -250,17 +260,7 @@ I can almost guarantee only 5% of you rememeber which blockchains Visa and Maste
 
 📺 Money Rules - Investing Tips 
 
-👁️ 16K • 👍 2K • 💬 159 • ⏱️ 11:45 • 5h ago
-
----
-
-**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=j5Wr41xwS7U)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 518 • 👍 41 • ⏱️ 23:30 • 1h ago
+👁️ 27K • 👍 2K • 💬 236 • ⏱️ 11:45 • 9h ago
 
 ---
 
@@ -270,17 +270,7 @@ Arthur Hayes says the market has bottomed and belief is back: Wall Street money 
 
 📺 The Rollup
 
-👁️ 20K • 👍 270 • 💬 4 • ⏱️ 9:00 • 1d ago
-
----
-
-**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 282 • 💬 71 • ⏱️ 10:12 • 1d ago
+👁️ 20K • 👍 274 • 💬 4 • ⏱️ 9:00 • 1d ago
 
 ---
 
@@ -290,7 +280,17 @@ Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:3
 
 📺 Thomas Sutton
 
-👁️ 3K • 👍 51 • 💬 16 • ⏱️ 5:59 • 9h ago
+👁️ 4K • 👍 41 • 💬 20 • ⏱️ 5:59 • 13h ago
+
+---
+
+**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 15K • 👍 287 • 💬 72 • ⏱️ 10:12 • 2d ago
 
 ---
 
@@ -300,27 +300,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 168 • 💬 7 • ⏱️ 6:44 • 20h ago
-
----
-
-**[BITCOIN CRASH: BlackRock EXPOSED SELLING (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=TtFvj7AZ6Pw)**
-
-BITCOIN CRASH: BlackRock EXPOSED SELLING (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 714 • 👍 68 • 💬 9 • ⏱️ 19:00 • 54m ago
-
----
-
-**[Bitcoin Investors Won&#39;t See This Coming Ethereum And Ripple Are Shaking Up The Cryptocurrency Market](https://www.youtube.com/watch?v=J6buGQxWwcU)**
-
-How much Bitcoin and XRP do you think these companies and banks will own by the time we get to the year 2030? Not one single ...
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 515 • 💬 55 • ⏱️ 30:21 • 7h ago
+👁️ 6K • 👍 172 • 💬 7 • ⏱️ 6:44 • 1d ago
 
 ---
 
@@ -330,7 +310,27 @@ Everyone out there is going to miss out on whats going on and its a shame. The c
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 750 • 💬 279 • ⏱️ 33:44 • 1d ago
+👁️ 10K • 👍 752 • 💬 278 • ⏱️ 33:44 • 1d ago
+
+---
+
+**[Bitcoin And Ethereum Are Preparing For Something Massive Crypto Whales Are Doing The Unthinkable](https://www.youtube.com/watch?v=fI-6zqZly_M)**
+
+When crypto prices fall, retail investors flee the market, unable to understand that something bigger is happening behind the ...
+
+📺 The Modern Investor
+
+👁️ 9K • 👍 699 • 💬 127 • ⏱️ 32:49 • 2d ago
+
+---
+
+**[BITCOIN CRASH: BlackRock EXPOSED SELLING (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=TtFvj7AZ6Pw)**
+
+BITCOIN CRASH: BlackRock EXPOSED SELLING (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 210 • 💬 142 • ⏱️ 19:00 • 4h ago
 
 ---
 
