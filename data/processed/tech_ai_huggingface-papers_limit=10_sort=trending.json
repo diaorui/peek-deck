@@ -16,7 +16,7 @@
       "num_comments": 10,
       "published_at": "2025-08-26T13:09:12.000Z",
       "github_repo": "https://github.com/microsoft/VibeVoice",
-      "github_stars": 56486,
+      "github_stars": 56619,
       "project_page": "https://microsoft.github.io/VibeVoice/"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 121047,
+      "github_stars": 121139,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 5,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 47071,
+      "github_stars": 47149,
       "project_page": null
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 4899,
+      "github_stars": 4930,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 22948,
+      "github_stars": 23009,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 16777,
+      "github_stars": 16799,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -149,7 +149,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 30776,
+      "github_stars": 30832,
       "project_page": null
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2611.04894",
       "arxiv_url": "https://arxiv.org/abs/2611.04894",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.04894.png",
-      "upvotes": 18,
+      "upvotes": 19,
       "num_comments": 3,
       "published_at": "2026-11-02T19:00:00.000Z",
       "github_repo": "https://github.com/antins-labs/VisSearch-Bench-v1",
@@ -172,26 +172,26 @@
       "project_page": "https://dingwu1021.github.io/VisSearch-Bench/"
     },
     {
-      "id": "2611.01560",
-      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
-      "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang et al. (28 authors)",
+      "id": "2309.06180",
+      "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
+      "authors": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)",
       "organization_name": null,
       "organization_fullname": null,
       "organization_avatar": null,
-      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
-      "ai_summary": "Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.",
-      "hf_url": "https://huggingface.co/papers/2611.01560",
-      "arxiv_url": "https://arxiv.org/abs/2611.01560",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.01560.png",
-      "upvotes": 48,
+      "summary": "High throughput serving of large language models (LLMs) requires batching\nsufficiently many requests at a time. However, existing systems struggle\nbecause the key-value cache (KV cache) memory for each request is huge and\ngrows and shrinks dynamically. When managed inefficiently, this memory can be\nsignificantly wasted by fragmentation and redundant duplication, limiting the\nbatch size. To address this problem, we propose PagedAttention, an attention\nalgorithm inspired by the classical virtual memory and paging techniques in\noperating systems. On top of it, we build vLLM, an LLM serving system that\nachieves (1) near-zero waste in KV cache memory and (2) flexible sharing of KV\ncache within and across requests to further reduce memory usage. Our\nevaluations show that vLLM improves the throughput of popular LLMs by\n2-4times with the same level of latency compared to the state-of-the-art\nsystems, such as FasterTransformer and Orca. The improvement is more pronounced\nwith longer sequences, larger models, and more complex decoding algorithms.\nvLLM's source code is publicly available at\nhttps://github.com/vllm-project/vllm",
+      "ai_summary": "PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.",
+      "hf_url": "https://huggingface.co/papers/2309.06180",
+      "arxiv_url": "https://arxiv.org/abs/2309.06180",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2309.06180.png",
+      "upvotes": 77,
       "num_comments": 1,
-      "published_at": "2026-10-31T20:00:00.000Z",
-      "github_repo": "https://github.com/Open-RUA/uni-robot-agent",
-      "github_stars": 264,
-      "project_page": "https://openrua.ai/uni-robot-agent"
+      "published_at": "2023-09-12T08:50:04.000Z",
+      "github_repo": "https://github.com/vllm-project/vllm",
+      "github_stars": 86094,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-07T11:33:12.796474+00:00"
+  "fetched_at": "2026-11-07T17:30:16.691110+00:00"
 }
