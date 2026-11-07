@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-07T11:33:28.598675+00:00'
+updated: '2026-11-07T17:30:39.418667+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - cryptocurrency
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 07, 2026 at 11:33 UTC  
+**Last Updated:** November 07, 2026 at 17:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,236.46
+### $2,243.98
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -1.4%  
-**30d:** -9.8%  
-**90d:** +19.9%  
-**1y:** -34.1%  
+**24h:** +0.2%  
+**7d:** -1.8%  
+**30d:** -10.2%  
+**90d:** +19.4%  
+**1y:** -34.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $274.09B
+**Market Cap:** $272.82B
 Rank #2
 
 **Circulating Supply:** 122,197,894 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.7%
+-54.9%
 
 **All-Time Low:** $0.43
-+517932.1%
++515541.6%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people seem to hold ETH as an investment, while USDT and USDC are increasingly being used for transfers and everyday payments. With more ways to spend crypto in real life now, I'm curious if anyone here pays with ETH or prefers using stablecoins. Do you think ETH will ever be widely used for everyday purchases or will stablecoins take that role?
 
-4d ago
+5d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Found an old post on CREATE2 Wisp contracts (a contract created, used and selfdestructed in one call so the same address can run different code later) and the top question in the comments was what prevents someone from auditing one version and deploying another at the same address. The honest answer back then was “selfdestruct is a red flag, check Etherscan.” What happened since - the Tornado Cash governance attack in 2023 did exactly that and EIP-6780 (Dencun, March 2024) limited SELFDESTRUCT to contracts created in the same transaction. EIP-7702 (Pectra, May 2025) later let EOAs delegate to contract code. Does the Wisp pattern still work post-6780 (create, use and destroy in one tx) and is anyone using it? Is same-transaction metamorphism still a practical risk for governance or allowlists? And how are people checking code identity at execution time now, EXTCODEHASH at execution, something else? UPD thanks u/Bloqarl. So the Wisp pattern still works post-6780 because create and destroy happen in the same tx but swapping code at the same address across txs is dead and the bait and switch moved to upgradeable proxies (an EXTCODEHASH pin never changes while the logic does) and to 7702 accounts that can re-delegate in their next tx. Still curious how people pin code identity in practice
 
-5d ago
+6d ago
 
 ---
 
@@ -164,13 +164,13 @@ The Denver Post • 1d ago
 
 In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
 
-ethereum.org • 20h ago
+ethereum.org • 1d ago
 
 ---
 
-**[Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow](https://finance.yahoo.com/markets/stocks/articles/bitmine-resumes-stock-buybacks-ethereum-144900850.html)**
+**[Where Will Ethereum Be in 3 Years?](https://finance.yahoo.com/markets/crypto/articles/where-ethereum-3-years-190100780.html)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ...
+Ethereum isn't broken; it's just slow. Here's why that matters over the next three years.
 
 Yahoo Finance • 1d ago
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin CRYPTO:BTCUSD faces a potential final decline toward $73,400 to $74,500 before reversing, as experts and analysts highlight signs that the recent crypto market selloff could be nearing exhaustion.While Franklin Templeton’s chief investment officer Seth Ginns sees improving market fundamenta…
 
-TradingView • 16h ago
+TradingView • 22h ago
 
 ---
 
@@ -188,7 +188,15 @@ TradingView • 16h ago
 
 Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors.
 
-The Motley Fool • 19h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading](https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/)**
+
+Russia's final Bitcoin, Ethereum, and USDT rules take effect Nov. 17, with retail purchase limits and testing.
+
+CryptoSlate • 12h ago
 
 ---
 
@@ -196,13 +204,21 @@ The Motley Fool • 19h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
+Fortune • 1d ago
 
 ---
 
-**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
+**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says | CoinDesk Videos](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
 
-CoinDesk • 21h ago
+CoinDesk • 1d ago
+
+---
+
+**[How Low Could Bitcoin, Ethereum, and XRP Go If Crypto Keeps Dumping?](https://coinpedia.org/news/how-low-could-bitcoin-ethereum-and-xrp-go-if-crypto-keeps-dumping/)**
+
+Since the start of this month, the global crypto market has lost more than $180 billion, bringing its total value down to $2.64 trillion. The drop comes
+
+Coinpedia • 7h ago
 
 ---
 
@@ -210,23 +226,7 @@ CoinDesk • 21h ago
 
 Whale tracked by @EmberCN adds 8,775 ETH for 19.7 million USDT at $2,245 after June purchase of 10,376 ETH at $1,626, now holding 23,097 ETH with average...
 
-Blockchain News • 18h ago
-
----
-
-**[EIP-8037 state-gas rules force Ethereum dApps to rewrite billing](https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/)**
-
-Ethereum’s Glamsterdam review asks apps to test gas assumptions, exposing conditional relayer and wallet risks.
-
-CryptoSlate • 5h ago
-
----
-
-**[Ethereum prepares to overhaul its state structure with a Partitioned Binary Tree](https://cryptobriefing.com/ethereum-partitioned-binary-tree-eip-8297/)**
-
-Ethereum's EIP-8297 Partitioned Binary Tree passed a mainnet shadowfork test, aiming for smaller state proofs and state expiry by Q4 2026.
-
-Crypto Briefing • 1d ago
+Blockchain News • 1d ago
 
 ---
 
@@ -234,13 +234,33 @@ Crypto Briefing • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[I Built a Live Trading Bot with Claude Code AI (Ethereum AI Trading)](https://www.youtube.com/watch?v=1hoICfzfZoE)**
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
 
-Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:37 - Setup Guide and Platform 01:16 - Compile and ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Thomas Sutton
+📺 Crypto Nutshell
 
-👁️ 859 • 👍 22 • 💬 8 • ⏱️ 5:59 • 3h ago
+👁️ 4K • 👍 97 • 💬 63 • ⏱️ 23:50 • 13h ago
+
+---
+
+**[XRP And Ethereum Are Involved &quot;It&#39;s Almost Done&quot; Crypto Holders Are In For The Shock Of Their Lives](https://www.youtube.com/watch?v=OqYKMVMwDz4)**
+
+I can almost guarantee only 5% of you rememeber which blockchains Visa and Mastercard are going to be using to send trillions ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 16K • 👍 2K • 💬 159 • ⏱️ 11:45 • 5h ago
+
+---
+
+**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=j5Wr41xwS7U)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 518 • 👍 41 • ⏱️ 23:30 • 1h ago
 
 ---
 
@@ -250,17 +270,7 @@ Arthur Hayes says the market has bottomed and belief is back: Wall Street money 
 
 📺 The Rollup
 
-👁️ 19K • 👍 261 • 💬 12 • ⏱️ 9:00 • 1d ago
-
----
-
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 2K • 👍 60 • 💬 63 • ⏱️ 23:50 • 7h ago
+👁️ 20K • 👍 270 • 💬 4 • ⏱️ 9:00 • 1d ago
 
 ---
 
@@ -270,7 +280,17 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 15K • 👍 276 • 💬 60 • ⏱️ 10:12 • 1d ago
+👁️ 15K • 👍 282 • 💬 71 • ⏱️ 10:12 • 1d ago
+
+---
+
+**[I Built a Live Trading Bot with Claude Code AI (Ethereum AI Trading)](https://www.youtube.com/watch?v=1hoICfzfZoE)**
+
+Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:37 - Setup Guide and Platform 01:16 - Compile and ...
+
+📺 Thomas Sutton
+
+👁️ 3K • 👍 51 • 💬 16 • ⏱️ 5:59 • 9h ago
 
 ---
 
@@ -280,7 +300,27 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 151 • 💬 8 • ⏱️ 6:44 • 14h ago
+👁️ 6K • 👍 168 • 💬 7 • ⏱️ 6:44 • 20h ago
+
+---
+
+**[BITCOIN CRASH: BlackRock EXPOSED SELLING (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=TtFvj7AZ6Pw)**
+
+BITCOIN CRASH: BlackRock EXPOSED SELLING (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 714 • 👍 68 • 💬 9 • ⏱️ 19:00 • 54m ago
+
+---
+
+**[Bitcoin Investors Won&#39;t See This Coming Ethereum And Ripple Are Shaking Up The Cryptocurrency Market](https://www.youtube.com/watch?v=J6buGQxWwcU)**
+
+How much Bitcoin and XRP do you think these companies and banks will own by the time we get to the year 2030? Not one single ...
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 515 • 💬 55 • ⏱️ 30:21 • 7h ago
 
 ---
 
@@ -290,47 +330,7 @@ Everyone out there is going to miss out on whats going on and its a shame. The c
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 742 • 💬 280 • ⏱️ 33:44 • 1d ago
-
----
-
-**[Ethereum Just Had Its WORST Day Since June!!](https://www.youtube.com/watch?v=GaCClsZKjYs)**
-
-Ethereum (ETH) just had its worst day since June, down 7.7% in a single day after its best day in seven weeks. Is this the bottom, ...
-
-📺 Marzell Crypto
-
-👁️ 341 • 👍 8 • 💬 2 • ⏱️ 3:19 • 21h ago
-
----
-
-**[Bitcoin And Ethereum Are Preparing For Something Massive Crypto Whales Are Doing The Unthinkable](https://www.youtube.com/watch?v=fI-6zqZly_M)**
-
-When crypto prices fall, retail investors flee the market, unable to understand that something bigger is happening behind the ...
-
-📺 The Modern Investor
-
-👁️ 9K • 👍 696 • 💬 128 • ⏱️ 32:49 • 2d ago
-
----
-
-**[Ethereum Rug Pull Tutorial | How to Launch a Meme Coin in 2026](https://www.youtube.com/watch?v=Sb9xl1-DZ28)**
-
-Ethereum Rug Pull Tutorial | How to Launch a Meme Coin in 2026 ⚙️ Explore the platform → https://ethreg.com The goal is ...
-
-📺 SL Gemma Trading Academy
-
-👁️ 2K • 👍 118 • 💬 1 • ⏱️ 3:13 • 2h ago
-
----
-
-**[CRYPTO MARKET DUMPS! CZ BINANCE VS KEVIN O&#39;LEARY &amp; HUGE ETHEREUM &amp; SOLANA ADOPTION!](https://www.youtube.com/watch?v=_xRm-oXtH64)**
-
-Crypto News: Bitcoin and the crypto market follow the stock market with a big dump. Binance and founder CZ subpoena Shark ...
-
-📺 Thinking Crypto
-
-👁️ 17K • 👍 563 • 💬 194 • ⏱️ 22:07 • 1d ago
+👁️ 10K • 👍 750 • 💬 279 • ⏱️ 33:44 • 1d ago
 
 ---
 

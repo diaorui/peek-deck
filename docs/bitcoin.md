@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-07T11:33:28.594575+00:00'
+updated: '2026-11-07T17:30:39.413232+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - cryptocurrency
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 07, 2026 at 11:33 UTC  
+**Last Updated:** November 07, 2026 at 17:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,978.46
+### $75,785.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -3.0%  
-**30d:** -8.1%  
-**90d:** +18.8%  
-**1y:** -25.9%  
+**24h:** -0.0%  
+**7d:** -3.3%  
+**30d:** -8.3%  
+**90d:** +18.5%  
+**1y:** -26.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1526.41B
+**Market Cap:** $1522.78B
 Rank #1
 
-**Circulating Supply:** 20,109,081 BTC
+**Circulating Supply:** 20,109,115 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--39.8%
+-39.9%
 
 **All-Time Low:** $67.81
-+111839.2%
++111573.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Actually, nah, boating accident](https://www.reddit.com/r/Bitcoin/comments/1xpxt2r/actually_nah_boating_accident/)**
 
-6h ago
+12h ago
 
 ---
 
 **[Invest in bitcoin](https://www.reddit.com/r/Bitcoin/comments/1xpll6b/invest_in_bitcoin/)**
 
-16h ago
+22h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Paraguay bank crisis is showing why Bitcoin was created in the first place. USDT sellers reportedly demanded premiums of up to 13% after authorities placed major digital lender Ueno Bank into resolution.MILLIONS of people LOCKED OUT of their own money as Ueno bank COLLAPSES IN Paraguay President Pe…
 
-🔗 [TradingView](https://www.tradingview.com/news/cryptonews:e87712384094b:0-paraguay-bank-collapse-shows-why-bitcoin-was-created-as-usdt-hits-premium/) • 12h ago
+🔗 [TradingView](https://www.tradingview.com/news/cryptonews:e87712384094b:0-paraguay-bank-collapse-shows-why-bitcoin-was-created-as-usdt-hits-premium/) • 18h ago
 
 ---
 
@@ -101,7 +101,7 @@ Paraguay bank crisis is showing why Bitcoin was created in the first place. USDT
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8CWJBRhGeVI) • 10h ago
+🔗 [youtu.be](https://youtu.be/8CWJBRhGeVI) • 16h ago
 
 ---
 
@@ -109,13 +109,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+10h ago
 
 ---
 
 **[Horizontal movement of the eye when reading, improves brain function, as opposed to mostly vertical eye movement when scrolling on a device. Fight me](https://www.reddit.com/r/Bitcoin/comments/1xpgef2/horizontal_movement_of_the_eye_when_reading/)**
 
-19h ago
+1d ago
 
 ---
 
@@ -127,7 +127,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Anything for the dip](https://www.reddit.com/r/Bitcoin/comments/1xpbc09/anything_for_the_dip/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -135,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 It's about 115 - 116 shares of FBTC, average price works to around 80k. I would like .25 BTC but the rest I will buy BTC. ETF is for 5-10 years, the BTC I will DCA and hold. The ETF was good to test owning it and I like Fidelity.
 
-21h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ It's about 115 - 116 shares of FBTC, average price works to around 80k. I would 
 
 Hey all, if I were to choose to create my own entropy with dice, where would be the best place to go looking for them? I imagine casinos wouldn't want to give me theirs for their own operational reasons (me messing with the dice weigh and going back to the casino to get an unfair advantage). Also what do you think about using just some regular dice that come with board games? Thanks.
 
-1h ago
+7h ago
 
 ---
 
@@ -151,45 +151,51 @@ Hey all, if I were to choose to create my own entropy with dice, where would be 
 
 ## Google News: "bitcoin"
 
+**[Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/11/07/elon-musk-stokes-global-bankruptcy-fears-that-could-be-a-bitcoin-price-game-changer/)**
+
+Forbes • 4h ago
+
+---
+
 **[Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC](https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc)**
 
 CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin vs XRP: Which Hits a New All-Time High First?](https://247wallst.com/investing/cryptocurrency/2026/11/06/bitcoin-vs-xrp-which-hits-a-new-all-time-high-first/)**
+**[Cryptocurrency ATMs Are Mostly Used as Payment Portals for Scammers](https://komonews.com/news/local/cryptocurrency-atms-are-mostly-used-as-payment-portals-for-scammers-coinflip-bitcoin-depot-kiosk-fbi)**
 
-Bitcoin needs a 66.56% gain and XRP needs 209.32% to reach new all-time highs. Here's what each coin needs to climb back first.
+Scammers prefer cryptocurrency because it lets them receive funds almost anonymously, and transactions are instant and irreversible. One way they convince victi
 
-24/7 Wall St. • 11h ago
+KOMO • 1h ago
 
 ---
 
-**[Bitcoin rebounds to $76,000, but $1.3 billion ETF exodus tests recovery](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-76-000-1-084235948.html)**
+**[$1,000 in Bitcoin or XRP: Which Is Worth More by 2030?](https://finance.yahoo.com/markets/crypto/articles/1-000-bitcoin-xrp-worth-163154423.html)**
 
-Investing.com -- Bitcoin was trading above $76,000 on Saturday, showing signs of stabilization after a bruising selloff, but another wave of withdrawals from U.S. exchange-traded funds highlighted the gap between its modest recovery and institutional demand.
+Both coins have slumped this month, but one sits much farther from its peak while the other has a stronger ETF story. Six 2030 scenarios show how a $1,000 bet could split, and why the bigger upside may come with a catch.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 58m ago
+
+---
+
+**[Bitcoin tumbles below $76,000 as post-election stock rally fades](https://finance.yahoo.com/markets/article/bitcoin-tumbles-below-76000-as-post-election-stock-rally-fades-174540188.html)**
+
+Bitcoin tumbled below $77,000 on Thursday as investors moved out of riskier assets amid a broad sell-off in stocks.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower](https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full)**
+
+CoinDesk • 1d ago
 
 ---
 
 **[Bitcoin Sinks to Seven-Week Low as Risk-Off Mood Deepens](https://www.bloomberg.com/news/articles/2026-11-05/bitcoin-sinks-to-seven-week-low-as-risk-off-mood-deepens)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low](https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock)**
-
-Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.
-
-Decrypt • 18h ago
-
----
-
-**[Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close](https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite)**
-
-CoinDesk • 14h ago
 
 ---
 
@@ -201,25 +207,17 @@ I/O Fund • 1d ago
 
 ---
 
-**[‘Biggest Bloodbaths In History’—Bitcoin Suddenly Braced For Fed Price Shock After Serious Gold And Silver Crash Warning](https://www.forbes.com/sites/digital-assets/2026/11/06/robert-kiyosaki-issues-serious-405-trillion-warning-predicts-gold-silver-and-bitcoin-price-crash/)**
+**[Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing](https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing)**
 
-Forbes • 21h ago
-
----
-
-**[Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up](https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907)**
-
-Strive added 15,124 BTC in October and ended the month with $490.4 million in cash as it targets second place among holders.
-
-The Block • 19h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Drops Below $75K, Top Analyst Spots a Bullish 2023 Pattern](https://www.tradingview.com/news/coinpedia:5cecab4b8094b:0-bitcoin-drops-below-75k-top-analyst-spots-a-bullish-2023-pattern/)**
+**[Bitcoin ETFs See $430 Million Of Outflows As U.S. Market Plunges](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-see-430-million-143200726.html)**
 
-Bitcoin, the pioneering cryptocurrency, has dropped below $75,000 for the first time since August, adding pressure to an already-weak crypto market. The drop comes after a sharp decline from the $80,000 level, raising a bigger question for traders.Is Bitcoin entering another deeper correction, or c…
+Exchange-traded funds (ETFs) that track the spot price of Bitcoin (CRYPTO: $BTC) experienced $430 million U.S. of o...
 
-TradingView • 16h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -251,14 +249,6 @@ Last week, I saw an article on the front page of the New York Times website repo
 
 ---
 
-**[Bitcoin Core discloses TCP out-of-memory vulnerability](https://news.ycombinator.com/item?id=50316251)**
-
-CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems
-
-⬆️ 4 • 💬 0 • 6d ago • [Bitcoin Core](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
-
----
-
 **[The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers](https://news.ycombinator.com/item?id=50357834)**
 
 ⬆️ 3 • 💬 1 • 3d ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
@@ -269,7 +259,7 @@ CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux s
 
 Silent Payments has suffered from the lack of multisig & hardware wallet support. We built payments using FROST / Frostsnap hardware that enable distributed signing coordinated using Marmot.
 
-⬆️ 2 • 💬 1 • 20h ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
+⬆️ 2 • 💬 1 • 1d ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
 
 ---
 
@@ -293,7 +283,7 @@ Wallets linked to Mercado Bitcoin’s security breach remained active after tran
 
 Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32, cpuminer). Every share&#39;s difficulty in real time, records with confetti and siren, pool failover, luck meter. Z...
 
-⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/Modanez/HomeMinerProxy)
+⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/Modanez/HomeMinerProxy)
 
 ---
 
@@ -301,7 +291,15 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 satd is the first Bitcoin node implementation to allow optional full OP_RETURN value pruning. It is controlled by these options:   -pruneopreturn=N (N is the number of blocks behind tip, 288 minimum to match NODE_NETWORK_LIMITED guarantee) -pruneopreturnsize=X (X is the value size in bytes, greater than or equal to X will be pruned) -restoreopreturns (stop pruning and restore all pruned blocks; mutually-exclusive with above options)  Why do OP_RETURN value pruning? The recent BIP-110 controversy...
 
-⬆️ 1 • 💬 0 • 3d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/full-op-return-value-pruning/3026)
+⬆️ 1 • 💬 0 • 4d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/full-op-return-value-pruning/3026)
+
+---
+
+**[Discord is ditching Electron and its new app uses less RAM](https://news.ycombinator.com/item?id=50378625)**
+
+Discord is moving its apps fully over to the Rust programming language.
+
+⬆️ 489 • 💬 427 • 2d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 
 ---
 
@@ -309,13 +307,23 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Did This at $60K... Now It’s Happening Again!](https://www.youtube.com/watch?v=tNyGHlCIuTc)**
+
+Before You Sell Your Bitcoin, Watch This!! Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
+
+📺 Altcoin Daily
+
+👁️ 44K • 👍 1K • 💬 69 • ⏱️ 9:47 • 17h ago
+
+---
+
 **[Bitcoin to $1 MILLION by 2030? Mark Moss Reveals His Model](https://www.youtube.com/watch?v=L9tzgg6PXi8)**
 
 Is Bitcoin's bottom finally in? Could BTC reach $1 MILLION by 2030? Investor and Bitcoin Opportunity Fund partner Mark Moss ...
 
 📺 Cointelegraph
 
-👁️ 22K • 👍 315 • 💬 147 • ⏱️ 34:08 • 21h ago
+👁️ 23K • 👍 349 • 💬 142 • ⏱️ 34:08 • 1d ago
 
 ---
 
@@ -325,57 +333,7 @@ Bitcoin dumps to $75000 as Democrats take control of Congress, the AI stock mark
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 2K • 💬 153 • ⏱️ 16:17 • 1d ago
-
----
-
-**[Bitcoin dropped back to its pre-election price](https://www.youtube.com/watch?v=kK4b6PFhLz4)**
-
-The Nasdaq fell 5.5% on Thursday, its worst day in about nineteen months, and Bitcoin gave back everything it gained after the ...
-
-📺 Yahoo Finance
-
-👁️ 16K • 👍 293 • 💬 330 • ⏱️ 14:50 • 17h ago
-
----
-
-**[Bitcoin Did This at $60K... Now It’s Happening Again!](https://www.youtube.com/watch?v=tNyGHlCIuTc)**
-
-Before You Sell Your Bitcoin, Watch This!! Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 1K • 💬 64 • ⏱️ 9:47 • 11h ago
-
----
-
-**[Bitcoin Is Waiting On One Thing Before Institutions Go All-In](https://www.youtube.com/watch?v=RX1m7PdjPqQ)**
-
-Ron Biscardi is the CEO and co-founder of iConnections, one of the largest platforms connecting institutional investors with fund ...
-
-📺 Anthony Pompliano
-
-👁️ 28K • 👍 540 • 💬 9 • ⏱️ 44:31 • 13h ago
-
----
-
-**[Bitcoin Hanging by a Thread: $67,000 Next?](https://www.youtube.com/watch?v=F2ma_X-jtP0)**
-
-Bitcoin is hanging on by a thread at $75500, and Gareth Soloway shows why a confirmed daily close below that level opens the ...
-
-📺 Gareth Soloway
-
-👁️ 61K • 👍 2K • 💬 105 • ⏱️ 13:33 • 15h ago
-
----
-
-**[BITCOIN: IT&#39;S STARTING NOW...](https://www.youtube.com/watch?v=4Z8WSywIANI)**
-
-WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activity Up to $3000 in BTC position ...
-
-📺 Crypto Rover
-
-👁️ 5K • 👍 412 • 💬 59 • ⏱️ 7:24 • 3h ago
+👁️ 41K • 👍 2K • 💬 152 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -385,27 +343,67 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 137K • 👍 4K • 💬 281 • ⏱️ 37:36 • 20h ago
+👁️ 143K • 👍 4K • 💬 296 • ⏱️ 37:36 • 1d ago
 
 ---
 
-**[BITCOIN BOTTOM CONFIRMED?! The FINAL Signal Is Here!](https://www.youtube.com/watch?v=wVf6psNVITY)**
+**[BITCOIN: IT&#39;S STARTING NOW...](https://www.youtube.com/watch?v=4Z8WSywIANI)**
 
-Trump and Bitcoin are making headlines as questions emerge over potential BTC selling activity ahead of major investigations!
+WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activity Up to $3000 in BTC position ...
 
-📺 Discover Crypto
+📺 Crypto Rover
 
-👁️ 10K • 👍 241 • 💬 144 • ⏱️ 55:04 • 18h ago
+👁️ 17K • 👍 653 • 💬 28 • ⏱️ 7:24 • 9h ago
 
 ---
 
-**[How I Lost 10 Bitcoin](https://www.youtube.com/watch?v=S_lBybnF-NI)**
+**[Bitcoin Is Waiting On One Thing Before Institutions Go All-In](https://www.youtube.com/watch?v=RX1m7PdjPqQ)**
 
-If an exchange holds your crypto, what do you actually own? You own the exchange's promise to give them back. I learned that ...
+Ron Biscardi is the CEO and co-founder of iConnections, one of the largest platforms connecting institutional investors with fund ...
 
-📺 Andrei Jikh
+📺 Anthony Pompliano
 
-👁️ 35K • 👍 733 • 💬 89 • ⏱️ 1:07 • 15h ago
+👁️ 36K • 👍 663 • 💬 11 • ⏱️ 44:31 • 19h ago
+
+---
+
+**[Bitcoin dropped back to its pre-election price](https://www.youtube.com/watch?v=kK4b6PFhLz4)**
+
+The Nasdaq fell 5.5% on Thursday, its worst day in about nineteen months, and Bitcoin gave back everything it gained after the ...
+
+📺 Yahoo Finance
+
+👁️ 17K • 👍 321 • 💬 333 • ⏱️ 14:50 • 23h ago
+
+---
+
+**[Bitcoin Hanging by a Thread: $67,000 Next?](https://www.youtube.com/watch?v=F2ma_X-jtP0)**
+
+Bitcoin is hanging on by a thread at $75500, and Gareth Soloway shows why a confirmed daily close below that level opens the ...
+
+📺 Gareth Soloway
+
+👁️ 70K • 👍 2K • 💬 156 • ⏱️ 13:33 • 21h ago
+
+---
+
+**[Epic Bear Trap? As Tech Stages Bounce, Bitcoin Nears Major Break, Gold And Silver Struggle](https://www.youtube.com/watch?v=7SJl0sYDrio)**
+
+Watch the Weekly Wrap-Up at 4:20PM ET every Friday! In this Verified Investing Weekly Wrap-Up, Chief Market Strategist Gareth ...
+
+📺 Verified Investing
+
+👁️ 99K • 👍 4K • 💬 148 • ⏱️ 16:40 • 19h ago
+
+---
+
+**[THE BITCOIN DIVIDEND TRAP: Why Strategy Sold 7,000 Bitcoins Near The Lows!](https://www.youtube.com/watch?v=zCNypPDE1Cs)**
+
+Strategy—the world's largest corporate holder of Bitcoin—just announced a headline third-quarter net income of $19.53 Billion, ...
+
+📺 Wall Street Truthbombs
+
+👁️ 7K • 👍 395 • 💬 154 • ⏱️ 14:52 • 4h ago
 
 ---
 

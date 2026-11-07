@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-07T11:33:28.600924+00:00'
+updated: '2026-11-07T17:30:39.421555+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 07, 2026 at 11:33 UTC  
+**Last Updated:** November 07, 2026 at 17:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be t
 
 Hello everyone, I’m new to the group. I’ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony’s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn’t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It’s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I’m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox
 
-2d ago
+3d ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello everyone, I’m new to the group. I’ve been interested in robotics from 
 
 I just finished testing the legs, i had to swap the modules i used to control the actuators because they were too weak. The test went smoothly, no burning just a little code adjustments and the legs move as they should. Next step it to figure out the necessary movements for it to walk.
 
-2d ago
+3d ago
 
 ---
 
@@ -130,21 +130,39 @@ TechCrunch • 1d ago
 
 ---
 
-**[China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division](https://www.reuters.com/business/media-telecom/china-blocks-softbanks-54-billion-takeover-abbs-robotics-division-ft-reports-2026-11-05/)**
+**[Standing in the way of slop bowls: the woman blocking food delivery robots](https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots)**
 
-Reuters • 1d ago
+Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’
+
+The Guardian • 3h ago
 
 ---
 
 **[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
 
-Reuters • 1h ago
+Reuters • 7h ago
 
 ---
 
-**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/06/china-blocks-54-billion-abb-robotics-deal-with-billionaire-mayasoshi-sons-softbank/)**
+**[Can Stringman Tidy Up Better Than a Toddler? Plus Halloween Robot Fun](https://spectrum.ieee.org/video-friday-home-cable-robot)**
 
-Forbes • 1d ago
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1d ago
+
+---
+
+**[The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)](https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade)**
+
+Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play.
+
+Seeking Alpha • 5h ago
+
+---
+
+**[$240M for Harbinger, $51M for Humble Robotics, €30M for Vaeridion](https://www.axios.com/pro/climate-deals/2026/11/07/harbinger-humble-robotics-vaeridion)**
+
+Axios • 4h ago
 
 ---
 
@@ -156,33 +174,19 @@ GeekWire • 1d ago
 
 ---
 
-**[Can Stringman Tidy Up Better Than a Toddler? Plus Halloween Robot Fun](https://spectrum.ieee.org/video-friday-home-cable-robot)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 18h ago
-
----
-
-**[Kraken Robotics Announces $102 Million in New Orders](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-announces-102-million-113000868.html)**
-
-Announced orders now total $457 million in 2026, Q3 results to be released November 24TORONTO, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) is pleased to announce continued strength in new order activity with $102 million of new orders since its last update on August 27, 2026. Announced orders in 2026 for Kraken and its recently acquired Covelya Group Limited (“Covelya Group”) now total approximately $457 million. Over 60% of these
-
-Yahoo Finance • 2d ago
-
----
-
 **[New Jersey high school students teach robotics to a school in Kenya - ABC News](https://abcnews.com/video/137927944/)**
 
 New Jersey high school students partnered with a nonprofit to bring robotics education to The Grace School in Kenya, where students have limited access to STEM resources.
 
-ABC News - Breaking News, Latest News and Videos • 13h ago
+ABC News - Breaking News, Latest News and Videos • 19h ago
 
 ---
 
-**[Pentagon Taps Robotics Startup in Push for Cheap Attack Drones](https://www.bloomberg.com/news/articles/2026-11-06/pentagon-taps-robotics-startup-in-push-for-cheap-attack-drones)**
+**[Meet the 20-something Brooklyn whiz kids building robots NASA will send to space next year](https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/)**
 
-Bloomberg.com • 22h ago
+“We have big ambitions,” says Icarus Robotics co-founder Jamie Palmer, 26.
+
+New York Post • 23h ago
 
 ---
 
@@ -196,7 +200,7 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 12K • 👍 238 • 💬 33 • ⏱️ 6:44 • 2d ago
+👁️ 13K • 👍 242 • 💬 33 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -206,7 +210,17 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 117K • 👍 2K • 💬 322 • ⏱️ 15:13 • 1d ago
+👁️ 120K • 👍 2K • 💬 355 • ⏱️ 15:13 • 1d ago
+
+---
+
+**[New AI Robot Is Run By Living Human Brain Cells (Absolutely Terrifying)](https://www.youtube.com/watch?v=qoBGtiOBzBA)**
+
+Scientists at Indiana University just hooked living human brain cells up to a humanoid robot, and it's learning. Called Brainobot ...
+
+📺 MACHINEKIND
+
+👁️ 6K • 👍 157 • 💬 18 • ⏱️ 12:18 • 19h ago
 
 ---
 
@@ -216,27 +230,7 @@ This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https:/
 
 📺 Unstoppable Gadgets
 
-👁️ 34K • 👍 615 • 💬 19 • ⏱️ 0:21 • 1d ago
-
----
-
-**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
-
-https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
-
-📺 Casey.aicreates
-
-👁️ 7K • 👍 409 • 💬 15 • ⏱️ 1:44 • 14h ago
-
----
-
-**[Tesla Optimus Just Changed Everything! New AI Robot Abilities Revealed](https://www.youtube.com/watch?v=WoXCF-9ju_Y)**
-
-Tesla Optimus is getting smarter, more capable, and closer to becoming a truly autonomous humanoid robot! In this video, we ...
-
-📺 Ai_Mobility_News
-
-👁️ 84K • 👍 575 • 💬 74 • ⏱️ 16:12 • 6d ago
+👁️ 36K • 👍 670 • 💬 20 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -246,7 +240,7 @@ Robots going completely wrong caught on camera return in Part 4 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 142K • 👍 927 • 💬 118 • ⏱️ 9:12 • 4d ago
+👁️ 142K • 👍 929 • 💬 118 • ⏱️ 9:12 • 5d ago
 
 ---
 
@@ -256,27 +250,17 @@ Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mde
 
 📺 Mahdi Designs
 
-👁️ 187K • 👍 3K • 💬 300 • ⏱️ 15:06 • 4d ago
+👁️ 199K • 👍 3K • 💬 307 • ⏱️ 15:06 • 4d ago
 
 ---
 
-**[I Built My Own AI Computer Vision Robot](https://www.youtube.com/watch?v=51q_WmbnJtQ)**
+**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
 
-I built a little AI powered robot that can play fetch. Meet Fetch, a fully autonomous robot that can find a ball, pick it up, and bring it ...
+Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
 
-📺 SECTOR 07
+📺 NextGen Humanoids
 
-👁️ 109K • 👍 2K • 💬 125 • ⏱️ 18:03 • 6d ago
-
----
-
-**[China is building GIANT ROBOTS that are Shocking the World!](https://www.youtube.com/watch?v=uOLWQ9d0YYg)**
-
-chinarobot #chinatechnology #chinainnovation Why China Is Winning The Giant Robot Race (And America Failed) China is ...
-
-📺 Work Time
-
-👁️ 140K • 👍 1K • 💬 128 • ⏱️ 21:22 • 6d ago
+👁️ 22K • 👍 166 • 💬 28 • ⏱️ 8:50 • 4d ago
 
 ---
 
@@ -286,7 +270,27 @@ America Doesn't Know What's Coming...China's Robot are... China is building the 
 
 📺 Living in China
 
-👁️ 82K • 👍 2K • 💬 154 • ⏱️ 7:07 • 2d ago
+👁️ 89K • 👍 2K • 💬 162 • ⏱️ 7:07 • 2d ago
+
+---
+
+**[Why This Robot Runs Its AI on Board](https://www.youtube.com/watch?v=3do6Tbmda7c)**
+
+Why does this factory robot run its AI on board? I asked Jarad Cannon, CTO of Humanoid, what happens when a whole fleet of ...
+
+📺 David Bombal
+
+👁️ 799 • 👍 57 • 💬 5 • ⏱️ 2:51 • 1h ago
+
+---
+
+**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
+
+https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
+
+📺 Casey.aicreates
+
+👁️ 10K • 👍 586 • 💬 24 • ⏱️ 1:44 • 20h ago
 
 ---
 

@@ -47,20 +47,6 @@
       "site_name": "Pavursec"
     },
     {
-      "title": "Bitcoin Core discloses TCP out-of-memory vulnerability",
-      "url": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/",
-      "hn_url": "https://news.ycombinator.com/item?id=50316251",
-      "author": "torutofu",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-10-31T13:57:44Z",
-      "object_id": "50316251",
-      "image": "https://bitcoincore.org/assets/images/default-thumb.png",
-      "description": "CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems",
-      "favicon": "https://bitcoincore.org/assets/images/favicon.ico",
-      "site_name": "Bitcoin Core"
-    },
-    {
       "title": "The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers",
       "url": "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly",
       "hn_url": "https://news.ycombinator.com/item?id=50357834",
@@ -143,9 +129,23 @@
       "description": "satd is the first Bitcoin node implementation to allow optional full OP_RETURN value pruning. It is controlled by these options:   -pruneopreturn=N (N is the number of blocks behind tip, 288 minimum to match NODE_NETWORK_LIMITED guarantee) -pruneopreturnsize=X (X is the value size in bytes, greater than or equal to X will be pruned) -restoreopreturns (stop pruning and restore all pruned blocks; mutually-exclusive with above options)  Why do OP_RETURN value pruning? The recent BIP-110 controversy...",
       "favicon": "https://delvingbitcoin.org/uploads/default/optimized/1X/863d31b22a9d4d4072777bffb9b9ded86a1638bc_2_180x180.svg",
       "site_name": "Delving Bitcoin"
+    },
+    {
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "hn_url": "https://news.ycombinator.com/item?id=50378625",
+      "author": "archb",
+      "points": 489,
+      "num_comments": 427,
+      "created_at": "2026-11-05T13:05:28Z",
+      "object_id": "50378625",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Discord is moving its apps fully over to the Rust programming language.",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "site_name": "The Verge"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-07T11:33:02.949479+00:00"
+  "fetched_at": "2026-11-07T17:30:06.729674+00:00"
 }
