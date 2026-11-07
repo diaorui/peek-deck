@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-07T17:30:39.421555+00:00'
+updated: '2026-11-07T21:03:47.137734+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 07, 2026 at 17:30 UTC  
+**Last Updated:** November 07, 2026 at 21:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ I just finished testing the legs, i had to swap the modules i used to control th
 
 I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?
 
-2d ago
+3d ago
 
 ---
 
@@ -68,7 +68,7 @@ I modeled the individual parts and built the full assembly using SolidCraft and 
 
 Después de un accidente se han vuelto a construir las piernas. Está vez con encoder y un par de servoblocks en las caderas. Encoders magnéticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad .
 
-2d ago
+3d ago
 
 ---
 
@@ -134,21 +134,25 @@ TechCrunch • 1d ago
 
 Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’
 
-The Guardian • 3h ago
+The Guardian • 7h ago
 
 ---
 
 **[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
 
-Reuters • 7h ago
+Reuters • 11h ago
 
 ---
 
-**[Can Stringman Tidy Up Better Than a Toddler? Plus Halloween Robot Fun](https://spectrum.ieee.org/video-friday-home-cable-robot)**
+**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/07/china-blocks-54-billion-abb-robotics-deal-with-billionaire-masayoshi-sons-softbank/)**
 
-Your weekly selection of awesome robot videos
+Forbes • 5h ago
 
-IEEE Spectrum • 1d ago
+---
+
+**[Update on divestment of ABB Robotics](https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics)**
+
+ABB • 2d ago
 
 ---
 
@@ -156,13 +160,7 @@ IEEE Spectrum • 1d ago
 
 Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play.
 
-Seeking Alpha • 5h ago
-
----
-
-**[$240M for Harbinger, $51M for Humble Robotics, €30M for Vaeridion](https://www.axios.com/pro/climate-deals/2026/11/07/harbinger-humble-robotics-vaeridion)**
-
-Axios • 4h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -174,19 +172,17 @@ GeekWire • 1d ago
 
 ---
 
-**[New Jersey high school students teach robotics to a school in Kenya - ABC News](https://abcnews.com/video/137927944/)**
+**[$240M for Harbinger, $51M for Humble Robotics, €30M for Vaeridion](https://www.axios.com/pro/climate-deals/2026/11/07/harbinger-humble-robotics-vaeridion)**
 
-New Jersey high school students partnered with a nonprofit to bring robotics education to The Grace School in Kenya, where students have limited access to STEM resources.
-
-ABC News - Breaking News, Latest News and Videos • 19h ago
+Axios • 7h ago
 
 ---
 
-**[Meet the 20-something Brooklyn whiz kids building robots NASA will send to space next year](https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/)**
+**[Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)**
 
-“We have big ambitions,” says Icarus Robotics co-founder Jamie Palmer, 26.
+US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.
 
-New York Post • 23h ago
+Ars Technica • 2d ago
 
 ---
 
@@ -200,7 +196,7 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 13K • 👍 242 • 💬 33 • ⏱️ 6:44 • 2d ago
+👁️ 13K • 👍 247 • 💬 33 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -210,7 +206,7 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 120K • 👍 2K • 💬 355 • ⏱️ 15:13 • 1d ago
+👁️ 123K • 👍 2K • 💬 362 • ⏱️ 15:13 • 1d ago
 
 ---
 
@@ -220,7 +216,7 @@ Scientists at Indiana University just hooked living human brain cells up to a hu
 
 📺 MACHINEKIND
 
-👁️ 6K • 👍 157 • 💬 18 • ⏱️ 12:18 • 19h ago
+👁️ 10K • 👍 317 • 💬 43 • ⏱️ 12:18 • 22h ago
 
 ---
 
@@ -230,57 +226,7 @@ This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https:/
 
 📺 Unstoppable Gadgets
 
-👁️ 36K • 👍 670 • 💬 20 • ⏱️ 0:21 • 1d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
-
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 142K • 👍 929 • 💬 118 • ⏱️ 9:12 • 5d ago
-
----
-
-**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
-
-Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
-
-📺 Mahdi Designs
-
-👁️ 199K • 👍 3K • 💬 307 • ⏱️ 15:06 • 4d ago
-
----
-
-**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
-
-Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
-
-📺 NextGen Humanoids
-
-👁️ 22K • 👍 166 • 💬 28 • ⏱️ 8:50 • 4d ago
-
----
-
-**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
-
-America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
-
-📺 Living in China
-
-👁️ 89K • 👍 2K • 💬 162 • ⏱️ 7:07 • 2d ago
-
----
-
-**[Why This Robot Runs Its AI on Board](https://www.youtube.com/watch?v=3do6Tbmda7c)**
-
-Why does this factory robot run its AI on board? I asked Jarad Cannon, CTO of Humanoid, what happens when a whole fleet of ...
-
-📺 David Bombal
-
-👁️ 799 • 👍 57 • 💬 5 • ⏱️ 2:51 • 1h ago
+👁️ 38K • 👍 709 • 💬 21 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -290,7 +236,57 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 10K • 👍 586 • 💬 24 • ⏱️ 1:44 • 20h ago
+👁️ 13K • 👍 674 • 💬 28 • ⏱️ 1:44 • 23h ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 142K • 👍 930 • 💬 118 • ⏱️ 9:12 • 5d ago
+
+---
+
+**[Why This Robot Runs Its AI on Board](https://www.youtube.com/watch?v=3do6Tbmda7c)**
+
+Why does this factory robot run its AI on board? I asked Jarad Cannon, CTO of Humanoid, what happens when a whole fleet of ...
+
+📺 David Bombal
+
+👁️ 2K • 👍 123 • 💬 9 • ⏱️ 2:51 • 5h ago
+
+---
+
+**[I just CAN&#39;T Get ENOUGH OF THIS BERSAGLIERE [War Robots]](https://www.youtube.com/watch?v=KLq1nsTdMQM)**
+
+War Robots Gameplay: Early Spawned BERSAGLIERE is nuts! WR My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 8K • 👍 305 • 💬 51 • ⏱️ 10:23 • 8h ago
+
+---
+
+**[Two robots and a dog play spin the bottle #Shorts](https://www.youtube.com/watch?v=_MxcRdZ9FXM)**
+
+The bottle stops on Reachy Mini. Again. Microduck asks about the secret module… Credits: • Music: "Réveille-toi, on danse" by La ...
+
+📺 Remi Fabre
+
+👁️ 3K • 👍 119 • 💬 6 • ⏱️ 0:39 • 4h ago
+
+---
+
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
+
+Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
+
+📺 Mahdi Designs
+
+👁️ 204K • 👍 3K • 💬 313 • ⏱️ 15:06 • 4d ago
 
 ---
 
