@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-08T14:11:17.073189+00:00'
+updated: '2026-11-08T18:58:05.910023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 08, 2026 at 14:11 UTC  
+**Last Updated:** November 08, 2026 at 18:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,796.53
+### $75,960.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.2%  
 **7d:** -1.1%  
 **30d:** -8.5%  
 **90d:** +19.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1525.40B
+**Market Cap:** $1525.87B
 Rank #1
 
-**Circulating Supply:** 20,109,525 BTC
+**Circulating Supply:** 20,109,603 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
 -39.8%
 
 **All-Time Low:** $67.81
-+111764.0%
++111798.0%
 
 ---
 
@@ -115,7 +115,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Horizontal movement of the eye when reading, improves brain function, as opposed to mostly vertical eye movement when scrolling on a device. Fight me](https://www.reddit.com/r/Bitcoin/comments/1xpgef2/horizontal_movement_of_the_eye_when_reading/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -157,47 +157,41 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC](https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc)**
+**[Higher wages don’t have to mean higher inflation. That could matter for Bitcoin](https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin/)**
 
-CoinDesk • 2d ago
+US labor costs fell as productivity outpaced pay in Q3. Why higher wages alone do not settle the inflation outlook or Bitcoin’s rates risk.
 
----
-
-**[A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong.](https://finance.yahoo.com/markets/crypto/articles/top-silicon-valley-investor-predicts-112300337.html)**
-
-Longtime Bitcoin investors have seen this story before: a crash, and then a spectacular rally.
-
-Yahoo Finance • 2h ago
+CryptoSlate • 1d ago
 
 ---
 
 **[These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)](https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000)**
 
-CoinDesk • 1h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin Selloff Eases as Investors Explore Cautious Recovery](https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery)**
+**[Bitcoin holds below $76K as Binance EU closures add to crypto market pressure](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-below-76k-binance-063007720.html)**
 
-Bloomberg • 1d ago
+Investing.com -- Bitcoin traded below $76,000 on Sunday as fresh regulatory and security concerns weighed on the cryptocurrency industry, with Binance preparing to close certain European customer accounts and authorities intensifying scrutiny of digital asset transactions.
 
----
-
-**[Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout](https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout)**
-
-CoinDesk • 2d ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Bitcoin gains undone by massive tech sell-off, triggering liquidations](https://finance.yahoo.com/video/bitcoin-gains-undone-massive-tech-170000832.html)**
+**[This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet](https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet)**
 
-Scott Melker discusses how bitcoin's (BTC-USD) latest rebound above $80,000 per token this week was swiftly erased following the massive tech sell-off that rocked Wall Street on Thursday.
+Bitcoin developer Cory Fields has an unusual idea for dealing with future quantum thieves: Make them risk their own Bitcoin.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+Decrypt • 4h ago
 
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+---
 
-Yahoo Finance • 1d ago
+**[Bitcoin Could See Another Decline, Core Scientific's Mining Exit and More: This Week in Crypto](https://www.tradingview.com/news/benzinga:ec53988ec094b:0-bitcoin-could-see-another-decline-core-scientific-s-mining-exit-and-more-this-week-in-crypto/)**
+
+Bitcoin faced competing narratives this week: some analysts saw an exhausted selloff and a potential rebound, while others warned that another decline could arrive before year-end.Elsewhere, Core Scientific prepared to leave Bitcoin mining, Peter Schiff questioned Ethereum’s valuation and analyst W…
+
+TradingView • 5h ago
 
 ---
 
@@ -209,23 +203,27 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June](https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984)**
+**[Bitcoin Selloff Eases as Investors Explore Cautious Recovery](https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery)**
 
-The 12 U.S.-listed spot bitcoin funds have now lost $914.1 million for the year, while ether, Solana and Hyperliquid ETFs all extended weekly outflow streaks in a brutal turn for crypto ETFs.
-
-The Block • 21h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin's Four-Year Cycle: Is History About to Repeat? for CRYPTO:BTCUSD by Dr_Rabbit_](https://www.tradingview.com/chart/BTCUSD/rY7IlAA6-Bitcoin-s-Four-Year-Cycle-Is-History-About-to-Repeat/)**
+**[Bitcoin gains undone by massive tech sell-off, triggering liquidations](https://finance.yahoo.com/video/bitcoin-gains-undone-massive-tech-170000832.html)**
 
-Bitcoin has gone through several major bull and bear markets, and there has always been one pattern that traders keep coming back to: the four-year cycle.
+Scott Melker discusses how bitcoin's (BTC-USD) latest rebound above $80,000 per token this week was swiftly erased following the massive tech sell-off that rocked Wall Street on Thursday.
 
-Every few years, Bitcoin goes through a strong rally, reaches a new high, and then enters a long correction. The timing has often been connected to Bitcoin halving events, when the amount of new BTC entering the market is cut in half.
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
-Looking at the weekly chart, the similarities between previous cycles are hard to ignore. But there is …
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-TradingView • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout](https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout)**
+
+CoinDesk • 2d ago
 
 ---
 
@@ -267,7 +265,7 @@ The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlest
 
 Silent Payments has suffered from the lack of multisig & hardware wallet support. We built payments using FROST / Frostsnap hardware that enable distributed signing coordinated using Marmot.
 
-⬆️ 2 • 💬 1 • 1d ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
+⬆️ 2 • 💬 1 • 2d ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
 
 ---
 
@@ -291,7 +289,7 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 satd is the first Bitcoin node implementation to allow optional full OP_RETURN value pruning. It is controlled by these options:   -pruneopreturn=N (N is the number of blocks behind tip, 288 minimum to match NODE_NETWORK_LIMITED guarantee) -pruneopreturnsize=X (X is the value size in bytes, greater than or equal to X will be pruned) -restoreopreturns (stop pruning and restore all pruned blocks; mutually-exclusive with above options)  Why do OP_RETURN value pruning? The recent BIP-110 controversy...
 
-⬆️ 1 • 💬 0 • 4d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/full-op-return-value-pruning/3026)
+⬆️ 1 • 💬 0 • 5d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/full-op-return-value-pruning/3026)
 
 ---
 
@@ -299,13 +297,7 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 Discord is moving its apps fully over to the Rust programming language.
 
-⬆️ 492 • 💬 432 • 3d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
-
----
-
-**[Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153)**
-
-⬆️ 1 • 💬 0 • 1d ago
+⬆️ 493 • 💬 432 • 3d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 
 ---
 
@@ -319,27 +311,7 @@ Bitcoin is trading in the mid to high $70000s after a brutal week for the AI tra
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 726 • 💬 116 • ⏱️ 50:05 • 18h ago
-
----
-
-**[Bitcoin Did This at $60K... Now It’s Happening Again!](https://www.youtube.com/watch?v=tNyGHlCIuTc)**
-
-Before You Sell Your Bitcoin, Watch This!! Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
-
-📺 Altcoin Daily
-
-👁️ 54K • 👍 2K • 💬 74 • ⏱️ 9:47 • 1d ago
-
----
-
-**[Tom Lee: &quot;The Crypto Bull Market Just Started”, How ETH Hits $50,000](https://www.youtube.com/watch?v=lQPebhVEMlc)**
-
-CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
-
-📺 Altcoin Daily
-
-👁️ 67K • 👍 2K • 💬 152 • ⏱️ 28:10 • 16h ago
+👁️ 21K • 👍 785 • 💬 120 • ⏱️ 50:05 • 23h ago
 
 ---
 
@@ -349,67 +321,87 @@ WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activ
 
 📺 Crypto Rover
 
-👁️ 18K • 👍 680 • 💬 60 • ⏱️ 7:27 • 7h ago
+👁️ 24K • 👍 792 • 💬 57 • ⏱️ 7:27 • 12h ago
 
 ---
 
-**[$1.5 Million Bitcoin BOMBSHELL - You Can Now Qualify For A Mortgage With BTC](https://www.youtube.com/watch?v=EpwhPRSAjhs)**
+**[Bitcoin Did This at $60K... Now It’s Happening Again!](https://www.youtube.com/watch?v=tNyGHlCIuTc)**
 
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Americans ...
+Before You Sell Your Bitcoin, Watch This!! Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
 
-📺 Bitcoin News Alerts
+📺 Altcoin Daily
 
-👁️ 5K • 👍 189 • 💬 161 • ⏱️ 13:08 • 16h ago
+👁️ 56K • 👍 2K • 💬 75 • ⏱️ 9:47 • 1d ago
 
 ---
 
 **[Bitcoin Is About To Surprise Everyone Again](https://www.youtube.com/watch?v=Uq7-Gp9GYm8)**
 
-Bitcoin Is About To Surprise Everyone Again Want access to the Platinum Group? Join here: ...
+Bitcoin Is About To Surprise Everyone Again FREE Crypto Updates & Trade Setups on Telegram: ...
 
 📺 Mister Crypto
 
-👁️ 2K • 👍 100 • 💬 7 • ⏱️ 9:30 • 5h ago
+👁️ 7K • 👍 142 • 💬 12 • ⏱️ 9:30 • 10h ago
 
 ---
 
-**[Bitcoin dropped back to its pre-election price](https://www.youtube.com/watch?v=kK4b6PFhLz4)**
+**[🚨BITCOIN‘s FUTURE HAS DRAMATICALLY CHANGED!!!!!!!!!!!!!!!!!!!🚨](https://www.youtube.com/watch?v=BP4NjjLs6YA)**
 
-The Nasdaq fell 5.5% on Thursday, its worst day in about nineteen months, and Bitcoin gave back everything it gained after the ...
+Bitcoin indicators are lining up with some of the biggest cycle bottoms in BTC history! The MVRV ratio just crossed above its ...
 
-📺 Yahoo Finance
+📺 Crypto Love
 
-👁️ 19K • 👍 342 • 💬 327 • ⏱️ 14:50 • 1d ago
-
----
-
-**[THE BITCOIN DIVIDEND TRAP: Why Strategy Sold 7,000 Bitcoins Near The Lows!](https://www.youtube.com/watch?v=zCNypPDE1Cs)**
-
-Strategy—the world's largest corporate holder of Bitcoin—just announced a headline third-quarter net income of $19.53 Billion, ...
-
-📺 Wall Street Truthbombs
-
-👁️ 21K • 👍 624 • 💬 288 • ⏱️ 14:52 • 1d ago
+👁️ 661 • 👍 107 • 💬 52 • ⏱️ 7:27 • 1h ago
 
 ---
 
-**[How Much Bitcoin Can We Recover - LOST BITCOIN LIVE](https://www.youtube.com/watch?v=NWZ0moohND0)**
+**[WAS BEN COWEN RIGHT ALL ALONG? [NEW BITCOIN LOW SOON?]](https://www.youtube.com/watch?v=WH58IVFSVOE)**
 
-Lost Bitcoin is a digging and automation game set in a gigantic junkyard. Collect scrap, burn it for coins, buy upgrades and build a ...
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
 
-📺 renovate
+📺 Crypto Kid
 
-👁️ 1K • 👍 14 • ⏱️ 1:49:25 • 2h ago
+👁️ 5K • 👍 181 • 💬 19 • ⏱️ 16:21 • 6h ago
 
 ---
 
-**[Bitcoin Is Waiting On One Thing Before Institutions Go All-In](https://www.youtube.com/watch?v=RX1m7PdjPqQ)**
+**[The Bitcoin Trap No One Is Expecting! [PREPARE NOW!]](https://www.youtube.com/watch?v=JQtLWTEY-1g)**
 
-Ron Biscardi is the CEO and co-founder of iConnections, one of the largest platforms connecting institutional investors with fund ...
+0 LOSSES IN 76 DAYS - Join the $500 to $10K Challenge (only $100 to start!) Sign up: https://t.me/Al3xC7ypto_Bot Join via ...
 
-📺 Anthony Pompliano
+📺 AMCrypto
 
-👁️ 43K • 👍 736 • 💬 12 • ⏱️ 44:31 • 1d ago
+👁️ 1K • 👍 91 • 💬 5 • ⏱️ 12:38 • 4h ago
+
+---
+
+**[Every Bitcoin Price Prediction on Our Podcast… Who Got It RIGHT?](https://www.youtube.com/watch?v=PkEAsd_5m_g)**
+
+Every Bitcoin price prediction that happened on The Iced Coffee Hour - price / date included at the time of the prediction PLUS ...
+
+📺 The Iced Coffee Hour Clips
+
+👁️ 17K • 👍 89 • 💬 61 • ⏱️ 29:25 • 17h ago
+
+---
+
+**[BITCOIN MONDAY LIQUIDATION WIPEOUT!? OPEN INTEREST WARNING!!](https://www.youtube.com/watch?v=9dqypnWDLDM)**
+
+BITCOIN TRADING | BITCOIN PRICE ANALYSIS | BITCOIN LIQUIDATION HEATMAP | BITCOIN OPEN INTEREST ⠀ Today I ...
+
+📺 TMG Trades
+
+👁️ 2K • 👍 289 • 💬 19 • ⏱️ 23:45 • 2h ago
+
+---
+
+**[I TOLD YOU SO! BTC DOWN... here is what&#39;s next!](https://www.youtube.com/watch?v=8glJP3fFtiY)**
+
+I'm breaking down my $76500 revisit-and-breakdown thesis, the media's explanation and what I'm watching next—comment ...
+
+📺 Davinci Jeremie
+
+👁️ 17K • 👍 353 • 💬 85 • ⏱️ 17:27 • 1d ago
 
 ---
 
