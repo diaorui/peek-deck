@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-11T09:10:25.121728+00:00",
+  "data": {
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "title": "500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter",
+    "description": "During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.\nThe avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wondering which game I am talking about. To both of you I can only say that corporate America was here to ruin our fun.",
+    "image": "https://momo5502.com/posts/2026-10-09-game-decompilation/images/game.png",
+    "favicon": "https://momo5502.com/apple-touch-icon.png",
+    "site_name": "Maurice's Blog",
+    "author": "Maurice Heumann",
+    "keywords": null
+  }
+}

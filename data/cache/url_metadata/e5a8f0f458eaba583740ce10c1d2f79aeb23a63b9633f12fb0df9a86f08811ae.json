@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-24T14:03:56.519684+00:00",
+  "data": {
+    "url": "https://transluce.org/agent-activity",
+    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "description": "We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.",
+    "image": "https://transluce.org/cards/urlquery-agent-activity-social.png",
+    "favicon": "https://transluce.org/favicon.ico",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

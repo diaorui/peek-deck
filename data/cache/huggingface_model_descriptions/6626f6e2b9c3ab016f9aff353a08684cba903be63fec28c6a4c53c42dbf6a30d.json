@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-15T18:54:14.173595+00:00",
+  "data": "LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters, optimized for fast, private on-device agents and tool-use tasks. It offers efficient inference, achieving high speeds on both consumer hardware and GPUs, and supports a wide range of languages.",
+  "model_id": "LiquidAI/LFM2.5-24B-A2B"
+}

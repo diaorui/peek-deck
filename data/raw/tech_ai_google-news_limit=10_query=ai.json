@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ai",
+  "site": null,
+  "search_query": "ai",
+  "articles": [
+    {
+      "headline": "What are self-replicating \u2018AI worms\u2019, and why is Anthropic worried about them?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5",
+      "pub_date": 1792330200.0,
+      "article_url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+      "image": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0febd2f8692eef6ecd233dd9e7cb3d09",
+      "description": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year"
+    },
+    {
+      "headline": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUsyWkZsV3NKY3ZWODVla3BLWXFrRVA1aUdqd3BYOTlQTnAyT1hwcy1TamhzSndQYjc3UVZmNWFwQ0ZhU2JSTHp2OUhUVFQxYVU1VEVaWVM4VXVsZ3JPVjZfM3Nuc3M4X0RWR1o2aG91NEtfWnZFdTFRS0RxMmYwUEd1b3lUc2RMbF9vUUpYWTlHaVRRSTRUdkgxeFNyYVk?oc=5",
+      "pub_date": 1792307220.0,
+      "article_url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Early ballots and how campaigns are using AI with Optiq Data Co-Founder Cole Patterson",
+      "source": "KCRA",
+      "source_url": "https://www.kcra.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPamJXVFE5MlVKQk1lZU04QlVUcGlZNm1sWFVFQ1RxdjNmemZDRnJ5RlRmRVdqY2hScDNFYkV5MU4xTHA3ZGVTekV0V3k3Nnl4YkN5N2o3cFh3NmhYOFNFQnhEdndQTzhyckg5T2o2dGhoV1BWWkdlSjdUNzNJaE92ZGRRTUk4Si1ZZ2NGUXByUUd6NzVoZ3BHUmJtamFnUFNmQXdCR2QzMm9BS2lFODFzS1NLNUhFaDhEQmx3cUF6c1JZOS1qakxjWWY4VV8wUVp2cGpXZ3BWQQ?oc=5",
+      "pub_date": 1792337100.0,
+      "article_url": "https://www.kcra.com/article/early-ballots-and-how-campaigns-are-using-ai-with-optiq-data-co-founder-cole-patterson-ca-politics-360/74165141",
+      "image": "https://kubrick.htvapps.com/vidthumb/dde919a1-5653-4352-96f2-a15485837486/a0d0d8fd-84c9-4692-ae97-463fd616d44c.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
+      "description": "Cole Patterson, co-founder of Optiq Data, shared his insight into how political campaigns in California are using artificial intelligence and provided a look at early ballot numbers ahead of the November election."
+    },
+    {
+      "headline": "SUN: As AI use grows, many Maryland colleges are letting instructors set the rules",
+      "source": "WBFF",
+      "source_url": "https://foxbaltimore.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMDJJUDFFTXBBX3lzMHNDUFEwWTEycnpyV1FNYnFfSGlxUEdEQVN0ZGZJYU0xSk1WZ1NwdkVPWE9BT2FlRVNzSlhpRnk3bUttclVic21qLWQ5NUxRckZYRVJXY1l2S0RPMGdMdWVFa01PU0lGMU5GeUlwaHVYb2VPNGM1TUlqVkxJTFB0S2tnaDlXdHp3RktCaVRhMkNjQlRhYXcxNFY4dWJjWC1LUFJiWXdoWEFKaUU?oc=5",
+      "pub_date": 1792338967.0,
+      "article_url": "https://foxbaltimore.com/news/local/sun-as-ai-use-grows-many-maryland-colleges-are-letting-instructors-set-the-rules",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/258/1320/0x13/90/251439fe-e6c6-44a6-846d-2c378a421ed2-OpenAI_Government_Websites__4766.webp",
+      "description": "Whether Joseph Sherman can use artificial intelligence on his University of Maryland coursework depends on which class he&rsquo;s in.Sherman, a 21-year-old computer s"
+    },
+    {
+      "headline": "Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly win",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYV9XcVY2aS1JbHVhcDRTeHdTYlc1N3MwR3NVd3JzRkFOZUZtMk9NMmJQZGlOYVhvdVFtRDY3MzJkdDhPSU5TNHJYMHlpd2pHcEU5SHE2MG9YY29CZnZpYTZpZkl4RGoxOWNubXd4RS1LY21BYTJNQUY4R1JuNWN3dW94a05qLXZoT0dsV1NuUzJqVG95eWh6eTIyQzZ3SG1kOWl0eUdDd25VSEhlYzJ3WkZiN1UxNngxRU1UaE1R?oc=5",
+      "pub_date": 1792326351.0,
+      "article_url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-6-betting-picks-ai-goes-all-in-totals-another-weekly-win",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/kenneth-walker-iii-patrick-mahomes-touchdown.jpg",
+      "description": "ChatGPT beat its human rival for a second straight week in NFL betting, but the overall season unit lead is shrinking heading into Week 6 picks."
+    },
+    {
+      "headline": "Even LinkedIn is getting tired of your AI-written posts",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uS29hWUl5aVJNVzFDaFZNS0xnem5sTzR5QTg5cC13VGlTZTFWQjQ4TzdkUXExeU9qRUhKSk9iUzFnUUdrSjcwVkRtczl0MGZoblNYM2JacWt0aFRaMTQtN0NiUTlnZlB5QWVlampfdw?oc=5",
+      "pub_date": 1792319446.0,
+      "article_url": "https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1500480993.jpg?c=16x9&q=w_800,c_fill",
+      "description": "LinkedIn is upping its fight against generic, low-quality AI posts on its platform."
+    },
+    {
+      "headline": "America\u2019s $10tn AI infrastructure boom is starting to fray",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUlwOUY2SXQzRy00SDBweWtyS0hkQ3I1ak5XNlBnNXlPbmktcDJCZ2N4MGdlVGhScmRoWGZRZWl1aGlpVjIxZVVENVB2blExdnpENzNrZkk1Z2xPcXlOakFxYVBXYlE5NkRWamdqZU9nZkg1SF9PNTJkXzFwQUJTdUViT0c?oc=5",
+      "pub_date": 1792296047.0,
+      "article_url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | This Is the Good Scenario?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJVTlpXMDVjTmNJanZlTHZ2WDdjdm5WbkQxdmhLWFFzX29VVXZZNnJWcVpsU2NtY1pJOHRyQzlwNklCMGFzaFJEMFlKcl92VHdienIxeFg3M0ItUzRtd3BIQTRKOGVhTDBTN3NCRkFYdGNLakdfZ3VnMUlFQ3llaXpONlA0emlINDhJcDUwVHY?oc=5",
+      "pub_date": 1792317621.0,
+      "article_url": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJZHRYMm5JQlowV3BIWlYyVFYyblFwaXRiUkdrbFBTQVZybmhQeHhGaWdqR0lIOFdRMjBnWEJHa05yT2NzczdueGlIRHVUWldMcndwQVo4QmlseTU2TjZZZG9tTlpBVGw1SmkySGx4eWMtUVg2Zkc1d2NB0gF_QVVfeXFMT3dVUEl4TlZJSzV4eEpqMWFWYTJESFF2YmFWN1VHWDhtWHpjajJrV0djSGNmTkRPcE92UnpEYzVMVEhPb0N0WjdheDZtMGVTeUdwOHdfd05xMFJ4Q29KSzZ5QXFlM2JrN1poZjI0Q1I1S192SFFUOVBDV3FqM1NZOA?oc=5",
+      "pub_date": 1792324801.0,
+      "article_url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359190-1788549720120-gettyimages-2293551294-6k4a4846_8nlxjv2u.jpeg?v=1788549853&w=1920&h=1080",
+      "description": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings."
+    },
+    {
+      "headline": "Opinion | The test every novel may soon have to pass",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1R2N21tUndoQWNsbnZna3FzZHZKdkRVekV1LXgtUHhvM3htaUVTSkkxZl9rb2diNEZxblppdnFKUDhUSEZIMnJqZWtZYWhmcUoyYnMwWXk5c244M0pNd2o5dDZZTzFRakxiZWdtNXhVamlad0I3eWNxX0ZZMmhRUThhQVE5cklWRkppbU4ySmpodlFjb1ZBN0EzMzVkNnp0U2dv?oc=5",
+      "pub_date": 1792337565.0,
+      "article_url": "https://www.washingtonpost.com/opinions/2026/10/18/ai-could-force-fiction-writers-prove-theyre-human/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CUFRPEVTUNF7PIBHDWM345ILI4.jpg&w=1440",
+      "description": "Artificial intelligence threatens writers\u2019 livelihoods. It may also remind them why they write."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-10-18T16:23:09.583160+00:00"
+}

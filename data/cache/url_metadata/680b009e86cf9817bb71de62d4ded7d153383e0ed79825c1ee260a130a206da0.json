@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-22T01:27:47.770651+00:00",
+  "data": {
+    "url": "https://linear.app/now/ci-bottleneck-reworked",
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "description": "We cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.",
+    "image": "https://webassets.linear.app/images/ornj730p/production/eba763cf034ad5e7b5d75ceec7ba560dd2aea5cb-2400x1350.png?q=95&auto=format&dpr=2",
+    "favicon": "https://linear.app/static/apple-touch-icon.png?v=2",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

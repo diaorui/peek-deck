@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-22T17:10:00.187055+00:00",
+  "data": {
+    "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+    "description": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform.",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
+    "favicon": "https://blogs.nvidia.com/favicon.ico",
+    "site_name": "NVIDIA Blog",
+    "author": "Katie Washabaugh",
+    "keywords": null
+  }
+}

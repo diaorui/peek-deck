@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-16T09:32:02.727530+00:00",
+  "data": "Unlimited-OCR is a multilingual vision-language model for advanced OCR tasks, capable of one-shot long-horizon parsing of documents and images. It supports single and multi-page document analysis, including PDF processing, with flexible inference configurations via Huggingface Transformers, vLLM, and SGLang.",
+  "model_id": "baidu/Unlimited-OCR"
+}

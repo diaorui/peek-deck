@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-02T21:11:44.962447+00:00",
+  "data": "VisionHOPE provides hierarchical PyTorch vision backbones (T/S/B) pretrained on ImageNet-1K for image classification, COCO for object detection/instance segmentation, and ADE20K for semantic segmentation.",
+  "model_id": "PSRben/VisionHOPE"
+}
