@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5",
       "pub_date": 1794150001.0,
@@ -15,84 +15,74 @@
       "description": null
     },
     {
-      "headline": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
-      "pub_date": 1794142450.0,
-      "article_url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
+      "headline": "Apple is racing to make Siri more agentic",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3JaWFBERDlYSHRpakp2VDhPRFAxSk8wX3hyalFtZk5RVEhVQ3hnSndLdjVmdE43S0JfZkRIZ2paYk83MUNrRmlnYVFPbDJUSnJLVEF2bDg1Sk5pOFZQSm5tQVFlUUxfSVQ4SjFsSFp6T1dEMWhLMzlrTzN4WHdHblNiQndxc3dv?oc=5",
+      "pub_date": 1794165499.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200",
+      "description": "Future versions of Siri will be able to control third-party apps and perform more complex tasks."
+    },
+    {
+      "headline": "Apple's CEO Reportedly Pushing for More AI Features, Faster",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlpncmR6UTlPTTdDSlBzN0I3MTN6dVFmTlVWR211ZWFhSXBNLVM3MTlFcmNPbm9QOXhSQlJPLVVQcWkxU3dTRFdiOFg2Z3l2cEJlMVgwaWRubVg4MlRKM1dxUlJ1YXljTTBIRlZvMlJGTjdra240bXFqNG5OOVdPY1ZSanNQQmpaSERnNEJlZlJRSXFuTFhXMXVweHdnZw?oc=5",
+      "pub_date": 1794161084.0,
+      "article_url": "https://gizmodo.com/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones-2000836769",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
-      "pub_date": 1794056401.0,
-      "article_url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
-      "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry."
+      "headline": "Democrats won big on Election Day. But can they agree on AI?",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMG9sQmNyb29Kak5BcDdwbUpYUDBKaVpWSENqbDNaOC1ET0NGbGJCZHdyTTV5WjlzZ1RJcU0tZ2hDUWFvOExKcVBKWnRDbU5CRFdLOFZQbVY2RkR4ZVQ1NlJHNEZBSUJGQ3hPSFJfRk1HS0pQbUlmY3M1bHFxaTdPOWZNb05RaU90MGFHWTFHNFYtWEZYOFlfTQ?oc=5",
+      "pub_date": 1794153641.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/democrats-won-big-election-day-can-agree-ai-rcna607414",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-Jon-Ossoff-ch-0939-7a928c.jpg",
+      "description": "Democrats campaigned on concerns about AI and data centers, but competing priorities and opposition from the Trump administration could complicate efforts to enact new regulations."
+    },
+    {
+      "headline": "AI safety center faces White House oversight questions",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NcGlRZm42NkFGVnVmZFBkQXE5SGpKR2dtV2o0dkFwVG9OM0lhcDBkZWJwVFRyaDRldWdsVDZIOWpmeTJBYjdfYUQtSF9vZUpUemluai1xdldDZzA3R1hWeWZhUjhyU2Iy?oc=5",
+      "pub_date": 1794175401.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-news-safety-11-08-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/ecac1a92c265e409983e3202e4872e3d.jpg",
+      "description": "A US government AI safety center has halted public research reports and faces questions about its independence after staff were asked to report to the White House."
+    },
+    {
+      "headline": "Replace all your AI subscriptions with this one $60 lifetime bundle",
+      "source": "Popular Science",
+      "source_url": "https://www.popsci.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkJXRWlEN2duN28xZ2VFSWlQWDlZamp6dFVHN2lWZWc1WWJDa3g5VnZNWmlGRGhHWW9xeVhmQkJtQjFFcVBXMlhOZnRuOFl1ZGo3bXRNVEUxZDFQdGZ0VkhkRFktVVJpS0R6bm5mX0thUE9kR1JiSFBoUkY1U1N2dUlvV29xTktEcHVIaEU1WmhJQnI0Zlo3bENMaG9tRVctanprbHJZYmlIY1J1emotZld0QWNlUS1ncGNnSQ?oc=5",
+      "pub_date": 1794174913.0,
+      "article_url": "https://www.popsci.com/sponsored-content/replace-all-your-ai-subscriptions-with-this-one-lifetime-bundle-sponsored-deal/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/11/image_2cc8bf.png?w=1200",
+      "description": "The Lifetime AI Software Stack Bundle sets you up with five tools to handle everything from research and writing to image generation."
+    },
+    {
+      "headline": "Jesse Eisenberg \"experiments\" with AI to make sure it's still bad at writing",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeW02YWVYdEJYeGdxeTgxTndWUEJ1WEI3ZXBNTTVsXzlSSHhPY1Q3SC1MWlNhSlpOdXBhaFBhQjJtczVhZHNEWjZDY21DcnY2S3lOZUVzUkJaMHZfM2FETDkzU0JRUVN2allPVnozXzNBcmNNZmpIdHUzNndkTERKVlFoWnpKVGpzNUo5a0ppdHYxZjNVck1WbGptZG8wUmE1dWpXQUUtSmlwUGJ1czUwS2NnbnlxcWM?oc=5",
+      "pub_date": 1794173575.0,
+      "article_url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jesse-eisenberg-experiments-ai-sure-213255020.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ddc7fc36e2d7d3eaf0411945b9863f886ebfabb2620293187f4af8c0fad176af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fav_club_632%2Fd4be8e035bbeff5c78f50a2fc9a230d3.jpg",
+      "description": "Speaking to <i>Variety</i>, Jesse Eisenberg admitted he's \"totally paranoid\" about AI, so he's taken to testing its writing skills to reassure himself that human writers like himself aren't obsolete j..."
     },
     {
       "headline": "The only town in the U.S. that said yes to data centers",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0xGeGhDLWU0MHpHNUlQZ1o1dGF6dGozR2JwOF9TcjJUX2FPRkI2TzZsUGlDQ2ZWYkp2emg1QmpfZDc0NFVWUEdINXk0QVExNV9pQl9aMU04QjVZYm5lT18yelJlcE9BRFpnV3FOV3ZyaWZKaGgyZXoxXzA0cUFKZDhLTVh4VEw4V19zQ2I5V2ljN3ZESjY3aXpLMWdsRzA?oc=5",
-      "pub_date": 1794159145.0,
+      "pub_date": 1794160800.0,
       "article_url": "https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/",
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OPNUJOI5W5EHVLD27GOHF6H2CQ.jpg&w=1440",
       "description": "On Election Day, much of the country turned against the massive projects that power AI. Here\u2019s why one place didn\u2019t."
-    },
-    {
-      "headline": "AI nearly had US troops attack a Chinese ship. Nobody could check its work.",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR281YUhncTBEU2lNMVptVzAyVzNBWkxTYTVFM3lFWE50UmlDR0NkM2xpRGhDOEJEQl9CMTNlbTRZSGItMzA4ZngteFpJQlYxZVREbklkX3FMRlNhSlBLODhFbzdnaXhWaThOZFhMUlJTbGhQZmFkTkp4a3BEZ0NoMTZWVzPSAYoBQVVfeXFMT21sZnFjb2VNSU5rajFFVDVmV1gwOGR3SUF5bVlpeHU3bHduTVYtd3k1dGRDeXRDNmYwX2s1MnR6S1pqRlhIWGZ4RzBfaGNVX1NjZl80Q3l6clNLeXVGYWJJbHFwM2gzZXB6NXhJOGQxQ2hjTzdudGVIYUZtazRDOGppS0lyXzZVamV3?oc=5",
-      "pub_date": 1794160800.0,
-      "article_url": "https://thehill.com/opinion/technology/6205531-preventing-future-ai-incidents/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdmZYc2w5LXZFeVMtNEtZWUR2cURFcUhqbVA4Rk5sNXZBVnlFOWdXZ3RSenBJVG5YLWwtM2hNUWcwaUo0aFVMdTNlLTdxQVRMM1k0RlBwSVJmMk1wbWRyeHdkX19nUGZ2TGhKdTl3eWxBdG10bU1iMHU1dTYxeGpYYk5rZF9JejdRbjllTGdSRW1FNUNnVHhiUzZITGxiRlk4OW95bkN6V0wwYzFWYXZFNWxkU1I2c1RLYzBMVnhlX2ZNaWUzQ3hIRDM4TzBhLXPSAdQBQVVfeXFMTnU1Q19ObTZjMTdYTHZseGk4ek1GMHNsaEs0REFFRE85Y013bzNmVU5PMXVOdk9KMWZZdUNkSlRJZ1VvN1FFdHRJY0llWmMySHJ3WThkYzFBcW1jSXhBSU1OV3cyRFZLYUxEQ09mdHRQNlllSmE3dU5TWjNWU1A2MGh4TC1rRm5lQzRiWlJOQmlNT3ZOaXphdWJ1ZXNLVmxWamNvcFdXODJlb0p3Y1VDbFlzTVdYRGZkY3ZsUHdGUGFWNXdQQnlGOThSVmNTaXhiS1NITFE?oc=5",
-      "pub_date": 1794161101.0,
-      "article_url": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Stocks will drop further as AI investment slows next year then falls in 2028 and drags GDP down too",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjhoVjFHMHlSYjYxNXpaUkt1NFNoQ2hyS1c3ZDBMY2dCa3p1UDNnd1g5RkNUUTBPNkZoOFNDeWZqRzAzSmhVdUNhNTIyc01UODBERDVMdDFiVUFNNW1BMW1OWGczU0FIYXBHYkZWbUdMWVp3clNmVi1JMzE2OURxdHhSRDA2R1NGNTZuOFRGeFJYTVdsY0E?oc=5",
-      "pub_date": 1794162120.0,
-      "article_url": "https://fortune.com/2026/11/08/stock-market-outlook-sp500-ai-capex-gdp-growth-productivity/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2221466151-e1794156949748.jpg?resize=1200,600",
-      "description": "Capital Economics expects the S&P 500 will be 12% below its current level by the end of 2027, putting it 17% off its early-October peak."
-    },
-    {
-      "headline": "\u2018Very deceptive\u2019: WA real estate listings are getting AI makeovers",
-      "source": "The Seattle Times",
-      "source_url": "https://www.seattletimes.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbHducWtKMHNqSGg0TDJDVTNMMzI2TnItVjM1ZjQ4ZTVCYzB2T0p2NmF1NHRrTnFrN0ZhZ3pDN1N5NE5YTmZDcXRLb3d1MzJldk83OXNrRmhHUEktazVUaS1qZVYwb3pBdksyaEV1dTJ2bDJUeDVoa1NnQy1RdGU3bGpBaUp0X2dxcG4wMkNQSGVoVW45OTd2V3lPV2thRTZjeVV4Zw?oc=5",
-      "pub_date": 1794146400.0,
-      "article_url": "https://www.seattletimes.com/business/very-deceptive-wa-real-estate-listings-are-getting-ai-makeovers/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUVuT0pxeUQ3RHFBcW56bW9VS2R4SVpma1lDVEN6bzcxY2ctMnY4dXFEWlRpTkRoX1UzS1dOWUd2cVVPbkRqNUo2RDdsOUhIM1JhalpnSXRfY1V1MUFSbklvbFlYa1NwN2s0SC1YMS1vRnZ3aGxFc3VjYzh6dmk1NTNDaGhwbzNDNHQzc2Z3M09JVUZaWXgw?oc=5",
-      "pub_date": 1794067262.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-bounce-global-160102744.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4a2333fbbe84fc3971011953302b217fc536f65a528f0c4408382cd11462c63a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F9191149fe77634eec2fd4251d668a192.png",
-      "description": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse."
     },
     {
       "headline": "\u2018I just got AI emails rejecting my application \u2013 or no reply at all\u2019: this is the soul-crushing reality of being a Neet",
@@ -103,8 +93,18 @@
       "article_url": "https://www.theguardian.com/commentisfree/2026/nov/08/young-people-soul-crushing-reality-neet-alan-milburn-life",
       "image": "https://i.guim.co.uk/img/media/4d73a053a31c8be3e86232df508c61d5d5a23011/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=bb09959453b3b311c5c196c08a90a1e9",
       "description": "Alan Milburn describes them as a \u2018lost generation\u2019. Those I spoke to just want to know what they have to do to finally get a job \u2013 and a chance in life, says Guardian columnist John Harris"
+    },
+    {
+      "headline": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Sb1hhMXlCOTNYWFJTOFIzRVZpeEM2MDQtUVpoSnk0ZVNlVWktUHp5d1V3STE1SW9vNkxabXBQQlFXc21ha2RnU3JnZGhGeXI4RUpJaUhuSUdTb2V2djEzR3FzRnJpc0Z0TmpVT1FRSFNabmFqbVE?oc=5",
+      "pub_date": 1794073876.0,
+      "article_url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108544587-1794070170749-gettyimages-1529862577-ALLEN__CO_2023.jpeg?v=1794070180&w=1920&h=1080",
+      "description": "Dave Wehner, Meta\u2019s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-08T18:58:04.348412+00:00"
+  "fetched_at": "2026-11-08T22:44:32.003552+00:00"
 }
