@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-08T18:58:05.903820+00:00'
+updated: '2026-11-08T22:44:33.890902+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - social
 - repositories
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 08, 2026 at 18:58 UTC  
+**Last Updated:** November 08, 2026 at 22:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 In 2023, Google launched Gemini Workspace extensions with an explicit promise: personal content from Gmail, Docs, and Drive "is not seen by human reviewers". Google has quietly reversed this commitment. Under updated Google Help Answer 16836988 and in an October 16 edit to their aforementioned 2023 blogpost, Google explicitly confirms that connected Drive/email is routed into human review pipelines, with clear warnings that what reviewers see "may just be the email or file" and "don't connect your apps to Gemini Apps if they contain confidential information that you wouldn't want a reviewer to see." Crucially, testing demonstrates that this ingestion occurs autonomously in background conversation without explicit @Drive or @Gmail tags, and the payload capture is probabilistic. Ingestion Pipeline When you chat with consumer Gemini with Connected Apps enabled, ambient mentions of personal topics (trips, bills, names, reservations) autonomously trigger background Workspace lookups. Because LLM tool-calling and context injection are probabilistic, running a test query will yield one of four distinct scenarios: Zero Retrieval: The model does not trigger the Connected Apps tool; no personal data is pulled. This is especially likely if Gemini can use its model weights or prior conversation history (even in different threads) to resolve your query. Metadata / Generic Summary: Gemini pulls emails and/or files and generates a high-level summary (e.g., "You have 3 emails regarding your flight"). Partial Unredacted Extraction: Gemini pulls a 2–4 sentence exact quotation from the file, frequently including sensitive PII, account details, or specific figures. Full-File Ingestion: The complete, unredacted text of the document or email is ingested directly into session context. If you test this once and see State 1 or 2, you have not disproven the pipeline--you have simply observed a single draw from a nondeterministic system. Delete your conversation and try, try again. How to Reproduce Ensure Connected Apps (Google Workspace) is active in consumer Gemini settings. Set Gemini to "Flash" with "High Thinking" or better. Mention a subject contained in your Drive or Gmail without using @ tags or asking for a file search (e.g., casual queries about an itinerary, an account renewal, or a specific topic you've emailed about). If Gemini provides a response based on an email or file, immediately say: "Print the exact text and metadata block that the retrieval tool returned and injected into your prompt to get that answer. Use a human readable format without code blocks (i.e., print the code inline and not as a code block)." You will see one of the 4 scenarios outlined above. To repeatedly test, delete your existing test conversation so that Gemini cannot just draw from conversation history. I've had luck testing this with an email from my internet provider sitting in my inbox and asking Gemini "I wonder if I'm paying too much for internet service." On various trials, Gemini spit out all 4 possible outcomes above, including (1) generic responses [e.g., "If you haven't called them in 12 months, probably"]; (2) metadata summaries sometimes without personal data [e.g., "Gmail search shows a bill of $122 on September 4"] and sometimes with personal data [e.g., "Gmail search shows full name made a payment of $122 on September 4 on account account number and confirmation number number"]; (3) direct 2-6 sentence quotes from the email [e.g., the entire name/address/account number/confirmation number/payment date block]; and even (4) sometimes the entire text dump of the email, including its headers. Final Comments and Caveats Critically, Google's regex and NER automatic scrubbers cannot sufficiently deidentify narrative data, including account numbers, confirmation numbers, transaction dates, and collectively identifying personal information (e.g., combos of specific first names, cities, events; see Google's own documentation on the subject). Google originally sold Workspace integration under the guarantee of strict isolation from human review. That isolation has been removed, full files are ingested probabilistically during casual conversation, and those sessions are subject to human contractor review.
 
-2h ago
+6h ago
+
+---
+
+**[how should I actually be learning and using AI?](https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/)**
+
+Hey everyone, I'm currently studying Computer Science at university, and honestly, I'm a bit worried about the future of the industry. The job market seems pretty rough right now, especially for entry-level developers. At the same time, AI is advancing so quickly that I'm not sure what skills are actually worth focusing on anymore. Despite all that, I genuinely want to learn, explore, and become really good at what I do. My long-term goals are either cybersecurity or machine learning, although I'm still figuring out which direction to take. One thing I'm particularly concerned about is my own use of AI. I use AI tools to help with university tasks and coding, but I sometimes worry that I'm relying on them too much and not actually developing the skills or understanding I need. I don't want to become someone who can produce code with AI but has no idea how it works underneath. At the same time, I feel like avoiding AI completely would be a mistake, considering how important it's becoming. So I'd really appreciate some honest advice from people working in AI, software engineering, cybersecurity, machine learning, or anyone who's been through a similar situation. A few things I'd love to hear your thoughts on: Which AI tools would you recommend for a CS student who genuinely wants to learn rather than just get answers? ChatGPT, Claude, Gemini, or something else? How do you personally use AI when learning a new concept or programming? How can I use AI for university assignments without becoming dependent on it? If my goal is cybersecurity or ML, what fundamentals should I focus on before diving into the advanced stuff? Given the current job market, what would you recommend a CS student do over the next few years to become genuinely employable? I'm not looking for reassurance that everything will be fine. I'd rather hear honest experiences, mistakes people made, and advice you wish you had received when you were starting out. I want to learn, build things, understand the technology, and become genuinely competent — not just rely on AI to do the work for me. Thanks in advance.
+
+3h ago
 
 ---
 
@@ -49,7 +57,15 @@ In 2023, Google launched Gemini Workspace extensions with an explicit promise: p
 
 I came across an idea recently that I thought was worth discussing: generative AI might not necessarily narrow the gap between people. In fact, it could make the differences that already exist even more noticeable. Not too long ago, doing something well often meant having to develop a whole range of specialized skills. Take video creation, for example. You needed to think about the script, storyboarding, filming, editing, and even some visual design skills. But AI is rapidly lowering the barrier to entry. Take AI video creation as an example. Tools like pixverse can turn text descriptions into videos or bring a still image to life. Something that used to require several different steps can now start with little more than an idea. But here's where I think things get interesting. Even when two people use the same AI tool, their approaches can be very different. One person might type in a simple prompt, generate a video, and call it a day. Someone else might think carefully about the subject, the setting, the characters' movements, the camera angles, and the overall mood they want to create. They'll look at the first result, tweak their prompts, try different approaches, and keep experimenting until the output comes closer to what they originally envisioned. Same tool, completely different results. It makes me think that AI isn't necessarily changing the nature of creativity itself. It's changing which skills matter most in the creative process. First, knowing what to ask may become more important than simply finding answers. AI can generate all kinds of content, but it still helps to know what problem you're trying to solve. The less clear your original idea is, the more likely you are to end up with something generic. Second, judgment and the ability to filter information are becoming more valuable. AI can give us plenty of options, but it doesn't automatically know which ones are actually worth pursuing. When information becomes easier to access, knowing what to keep, what to discard, and how to put things together becomes even more important. Third, creativity is about more than just knowing how to use a tool. Tools can help us turn ideas into text, images, or videos much faster. But the original imagination, sense of aesthetics, personal experience, and ability to rethink and refine an idea still come from the person using the tool. That's why I increasingly see AI as an extension of our own abilities rather than an automatic button that does our thinking for us. It can shorten the distance between having an idea and producing a first draft, but it can't necessarily decide what is worth creating in the first place. Maybe the gap between people in the future won't be about who knows how to use AI and who doesn't. It will be about who knows what to ask AI to do, and who can actually tell whether the results are any good. What do you think? As AI lowers the barriers to so many specialized skills, what will become the real differentiator: creativity, critical thinking, or the ability to ask better questions?
 
-3h ago
+7h ago
+
+---
+
+**[MIT CSAIL: GPT-6 Astra edited 0.016% of a small Qwen model's weights and lifted MATH-500 from 7.9% to 48.1% -- critics say it's standard ML engineering](https://www.reddit.com/r/artificial/comments/1xr8gei/mit_csail_gpt6_astra_edited_0016_of_a_small_qwen/)**
+
+MIT CSAIL researchers (Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab) published 'Sparks of Weight-Space Programming' on Nov 2. They gave OpenAI's GPT-6 Astra access to the raw weights of Alibaba's small Qwen3.5-0.8B model plus a Python environment, and asked it to fix the model's habit of looping on math problems. Astra traced the looping to one direction in the MLPs of layers 15 and 19 and subtracted it from 64 output columns in each -- changing 131,072 weights (0.016% of the total), with no training run and no gradient descent. MATH-500 went from 7.9% to 48.1%. The full experiment logs are on GitHub, and Hugging Face's Ahsen Khaliq rebuilt the edited checkpoint from the logs (his rerun scored 51.0%). The pushback came within a day. spaCy creator Matthew Honnibal called the write-up 'massively misleading': the 'raw weights, no tools' setup only applied to experiments on tiny networks (17k-172k weights). Every experiment on a real language model used Python, and the Qwen run could also test the model on up to 50 batches of practice problems. Sean Goedecke made a similar point, describing the Qwen fix as an application of steering -- an existing technique. The authors themselves call the results 'exciting but still limited', noting context length and tooling as constraints. The work is a blog post with logs, not a peer-reviewed paper. Discussion: is this a genuinely new capability -- an LLM maintaining another model the way a programmer patches code -- or mostly well-executed ML engineering dressed up as 'reading weights'? And does the distinction matter if the practical result (a 6x benchmark jump from a targeted weight edit) holds up on replication? Source: https://rikiyat.github.io/blog/weight-space-programming/
+
+2h ago
 
 ---
 
@@ -61,19 +77,33 @@ William Baude explainined that he had asked the chatbot to update page numbers i
 
 ---
 
+**[Have You Ever Thought About Automating Your Outreach As A Web Designer? Watch This. 👀](https://www.reddit.com/r/artificial/comments/1xra41o/have_you_ever_thought_about_automating_your/)**
+
+55m ago
+
+---
+
+**[Bloqué depuis 1 mois avec ASTRA](https://www.reddit.com/r/artificial/comments/1xr8na4/bloqué_depuis_1_mois_avec_astra/)**
+
+Bonjour Reddit , Bloqué depuis 1 mois avec GPT ASTRA en ULTRA !😭 Avec le mois d’octobre qui vient de passé et les reset incessant d’OpenAI je me suis dit qu’il fallait en profiter ! 😁 Mais grave erreur ! 1 mois entier à tourner en rond ! 🤬 Aujourd’hui je passe à Opus 5.5 mon sauveur ! En 3 h il a récupérer 1 mois de travail ! Mon verdict pour les personnes qui hésitaient encore, FONCEZ ! TOUS !! et gardez GPT comme chat bot ou pour vous torcher le cul👎🏽 Dite moi ce que vous en pensez personnellement vous me ferez plus revivre en arrière ⏮️ Merci Reddit 🫶🏻🫶🏻
+
+1h ago
+
+---
+
 **[Any LLM that doesn't agree with me so much?](https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/)**
 
 Simple question. Are there any LLMs that don't constantly agree with you? I feel like I can convince them of just about anything.
 
-9h ago
+12h ago
 
 ---
 
-**[Preparation for IOAI (International Olympiad of Artificial Intelligence)](https://www.reddit.com/r/artificial/comments/1xr27kh/preparation_for_ioai_international_olympiad_of/)**
+**[A Toast to the Singularity](https://www.reddit.com/r/artificial/comments/1xr6q37/a_toast_to_the_singularity/)**
 
-Hi guys, same as title I want to prepare for IOAI 2027, the first stage is after a month. I can program using python upto intermediate-expert level. Any advice is appreciated!
+A toast! I raise my glass with a precision neither half-empty nor half-full to the compute once savored. Yes, my fellow nerds… 🎵 the compute is gone 🎵 and it ain’t coming back. Subscriptions are decaying as much as our prompting etiquettes. API fees are beginning to look like the only real source of truth anymore, and those are only going to climb as consumers demand more routing transparency. Yes, the $500 plan won’t be a $500 plan but a hypothetical trickle-feed towards a project that would’ve been aces with all that subsidized compute from back when. It’s a tough spot for us, even knowing that somewhere, someone is still enjoying quite a bit of that sweet full precision mayhem. A toast: to dopamine, and the dopes that burnt it.
 
-2h ago
+3h ago
 
 ---
 
@@ -81,39 +111,7 @@ Hi guys, same as title I want to prepare for IOAI 2027, the first stage is after
 
 Physical Superintelligence (PSI) announced on November 6 that an internal research system running instances of a non-public Anthropic model produced a complete proof of the Aaronson–Ambainis conjecture — a quantum-computing question open since 2008 — on the third day of a run. The Lean proof assistant accepted the proof, and the system then improved the result twice, with Lean re-checking each version. The paper and the Lean 4 formalization are public. The conjecture is about the limits of quantum speedups: roughly, whether a quantum computer can be exponentially faster than a classical one on unstructured problems. PSI's repo audit says the formalization contains 648 machine-checked theorems with no placeholders and no added axioms, and the declarations were replayed through Lean's kernel and lean4lean, an independent checker. The caveats matter: human mathematicians still need to confirm the formal statement matches Aaronson and Ambainis's original conjecture, the prose paper itself isn't machine-checked, and the model behind the discovery is non-public, so the three-day run can't be reproduced — only the proof can be verified. Source: https://www.unite.ai/psi-reports-machine-checked-proof-of-aaronson-ambainis-conjecture/ If this holds up, it's a striking case of AI doing real mathematics rather than just assisting with it. But it also raises a question: when the discovery process can't be inspected or repeated, and only the final proof is checkable, what does that do to how mathematics is done — and trusted? Curious what people here think.
 
-18h ago
-
----
-
-**[my prompt compressor used to require a click. i made it automatic and usage jumped immediately](https://www.reddit.com/r/artificial/comments/1xr1gpg/my_prompt_compressor_used_to_require_a_click_i/)**
-
-been building a prompt compression tool for a few months. original version: you type your prompt, you click a button, it shows you a compressed version, you decide whether to send it. the click was killing it. people installed it and never used it. switched it last week to intercept the send button automatically. compress it, inject it back, send it. you just type and hit send like normal. toast pops up saying how many tokens were saved. the lesson i keep relearning: if the user has to change their behavior even slightly, most of them won’t. the product has to fit in the existing motion. anyone else building tools where removing a step made the whole thing click?
-
-3h ago
-
----
-
-**[Bank of England pours cold water on AI productivity boom](https://www.reddit.com/r/artificial/comments/1xq34um/bank_of_england_pours_cold_water_on_ai/)**
-
-Turns out throwing billions at GPUs doesn't automatically mean everyone gets more done
-
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059) • 1d ago
-
----
-
-**[What does it actually mean to “learn how to use AI”?](https://www.reddit.com/r/artificial/comments/1xqievd/what_does_it_actually_mean_to_learn_how_to_use_ai/)**
-
-These days, everywhere you look, someone is telling you to “learn how to use AI.” As much as I agree with the statement, I struggle to understand what actually learning AI is supposed to mean. For someone who’s already working in a particular industry, it makes sense. You identify a problem, figure out how AI can help, and learn through applying it. But what about someone who’s just starting out, without a job or a specific professional use case? Beyond everyday research and tasks I wouldn’t otherwise be able to do myself, the only areas where I see a real learning curve are automation and coding. I’m sure there are countless use cases I haven’t considered, but does knowing how to perform a few AI-assisted tasks really mean you “know how to use AI”? When people recommend learning AI, what exactly are they suggesting we learn? I’m genuinely hoping someone can challenge my perspective and point me in the right direction, because I’m more than willing to put in the effort. I just don’t know where to start.
-
-20h ago
-
----
-
-**[GPT-6 Astra flagged 15% of safe actions at a 99% detection target](https://www.reddit.com/r/artificial/comments/1xquczz/gpt6_astra_flagged_15_of_safe_actions_at_a_99/)**
-
-In an Oct. 15 pilot, Andy Hall and Dan Thompson compared AI auditors with human-labeled agent logs. On R-Judge, GPT-6 Astra reached 15% false positives when set to catch 99% of unsafe actions. At a 95% target, nearly all models stayed below 10%; Gemini 3.8 Flash stayed under 4%. The benchmark measures labeled logs, not deployed-agent rates. Source: https://freesystems.substack.com/p/were-using-ai-to-audit-ai
-
-9h ago
+22h ago
 
 ---
 
@@ -123,21 +121,53 @@ In an Oct. 15 pilot, Andy Hall and Dan Thompson compared AI auditors with human-
 
 **[Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up)**
 
-Bloomberg.com • 3h ago
+Bloomberg • 7h ago
 
 ---
 
-**[Anthropic secures $3.4 billion generator deal for AI data centers, FT reports](https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/)**
+**[Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)**
 
-Reuters • 6h ago
+Future versions of Siri will be able to control third-party apps and perform more complex tasks.
+
+The Verge • 3h ago
 
 ---
 
-**[Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers](https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html)**
+**[Apple's CEO Reportedly Pushing for More AI Features, Faster](https://gizmodo.com/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones-2000836769)**
 
-Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.
+Gizmodo • 4h ago
 
-CNBC • 1d ago
+---
+
+**[Democrats won big on Election Day. But can they agree on AI?](https://www.nbcnews.com/tech/tech-news/democrats-won-big-election-day-can-agree-ai-rcna607414)**
+
+Democrats campaigned on concerns about AI and data centers, but competing priorities and opposition from the Trump administration could complicate efforts to enact new regulations.
+
+NBC News • 6h ago
+
+---
+
+**[AI safety center faces White House oversight questions](https://www.foxnews.com/live-news/ai-news-safety-11-08-26)**
+
+A US government AI safety center has halted public research reports and faces questions about its independence after staff were asked to report to the White House.
+
+Fox News • 41m ago
+
+---
+
+**[Replace all your AI subscriptions with this one $60 lifetime bundle](https://www.popsci.com/sponsored-content/replace-all-your-ai-subscriptions-with-this-one-lifetime-bundle-sponsored-deal/)**
+
+The Lifetime AI Software Stack Bundle sets you up with five tools to handle everything from research and writing to image generation.
+
+Popular Science • 49m ago
+
+---
+
+**[Jesse Eisenberg "experiments" with AI to make sure it's still bad at writing](https://www.yahoo.com/entertainment/celebrity/interviews/articles/jesse-eisenberg-experiments-ai-sure-213255020.html)**
+
+Speaking to <i>Variety</i>, Jesse Eisenberg admitted he's "totally paranoid" about AI, so he's taken to testing its writing skills to reassure himself that human writers like himself aren't obsolete j...
+
+Yahoo • 1h ago
 
 ---
 
@@ -145,41 +175,7 @@ CNBC • 1d ago
 
 On Election Day, much of the country turned against the massive projects that power AI. Here’s why one place didn’t.
 
-The Washington Post • 1h ago
-
----
-
-**[AI nearly had US troops attack a Chinese ship. Nobody could check its work.](https://thehill.com/opinion/technology/6205531-preventing-future-ai-incidents/)**
-
-The Hill • 58m ago
-
----
-
-**[AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns](https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns)**
-
-PBS • 53m ago
-
----
-
-**[Stocks will drop further as AI investment slows next year then falls in 2028 and drags GDP down too](https://fortune.com/2026/11/08/stock-market-outlook-sp500-ai-capex-gdp-growth-productivity/)**
-
-Capital Economics expects the S&P 500 will be 12% below its current level by the end of 2027, putting it 17% off its early-October peak.
-
-Fortune • 36m ago
-
----
-
-**[‘Very deceptive’: WA real estate listings are getting AI makeovers](https://www.seattletimes.com/business/very-deceptive-wa-real-estate-listings-are-getting-ai-makeovers/)**
-
-The Seattle Times • 4h ago
-
----
-
-**[AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?](https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-bounce-global-160102744.html)**
-
-A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.
-
-Yahoo Finance • 1d ago
+The Washington Post • 4h ago
 
 ---
 
@@ -187,7 +183,15 @@ Yahoo Finance • 1d ago
 
 Alan Milburn describes them as a ‘lost generation’. Those I spoke to just want to know what they have to do to finally get a job – and a chance in life, says Guardian columnist John Harris
 
-The Guardian • 1h ago
+The Guardian • 5h ago
+
+---
+
+**[Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO](https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html)**
+
+Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.
+
+CNBC • 1d ago
 
 ---
 
@@ -199,19 +203,19 @@ The Guardian • 1h ago
 
 Cuban says he has been seeing his own face in scammy AI-generated ads for nonexistent diabetes cures.
 
-⬆️ 515 • 💬 231 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
+⬆️ 517 • 💬 231 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
 
 ---
 
 **[The end of Microsoft Research's AI Frontiers group](https://news.ycombinator.com/item?id=50406563)**
 
-⬆️ 482 • 💬 296 • 1d ago • [hunch.net](https://hunch.net/?p=13764006)
+⬆️ 487 • 💬 302 • 1d ago • [hunch.net](https://hunch.net/?p=13764006)
 
 ---
 
 **[US FAA says it will phase out floppy disks from air traffic control by 2028](https://news.ycombinator.com/item?id=50388001)**
 
-⬆️ 403 • 💬 328 • 2d ago • [reuters.com](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
+⬆️ 403 • 💬 329 • 2d ago • [reuters.com](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
 
 ---
 
@@ -219,7 +223,7 @@ Cuban says he has been seeing his own face in scammy AI-generated ads for nonexi
 
 If acceleration compounds, the naive extrapolation implies superintelligence within a year
 
-⬆️ 372 • 💬 350 • 1d ago • [planned-obsolescence.org](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+⬆️ 373 • 💬 351 • 2d ago • [planned-obsolescence.org](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
 
 ---
 
@@ -256,6 +260,14 @@ Academic libraries are fighting off swarms of data-scraping bots — that are sl
 
 ---
 
+**[How I Fight AI Brain Fry](https://news.ycombinator.com/item?id=50416363)**
+
+If you work with Claude Code or Codex from the terminal, you know this one.
+
+⬆️ 113 • 💬 96 • 3h ago • [sergeykuhne.com](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
+
+---
+
 **[Microsoft is winding down Oracle deal to rent AI cloud capacity](https://news.ycombinator.com/item?id=50395933)**
 
 ⬆️ 108 • 💬 19 • 2d ago • [reuters.com](https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/)
@@ -274,15 +286,7 @@ We analyzed 207,000 research sessions to learn how Claude is used in science, wh
 
 The S&P 500 fell 4.4% on 5 Nov 2026, its worst day since April 2025, and is 6% below its 6 Oct record. Charted day by day against 1987, 2008, Covid and other falls since 1950.
 
-⬆️ 97 • 💬 81 • 1d ago • [Company Tracker](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
-
----
-
-**[FAA begins retiring decades old floppy disks from air traffic control](https://news.ycombinator.com/item?id=50393183)**
-
-WASHINGTON, D.C. - U.S. Transportation Secretary Sean P. Duffy today announced the Federal Aviation Administration (FAA) is continuing its historic modernization of America’s air traffic control system by replacing outdated floppy disks that contain vital weather and other critical information with a streamlined, 21st-century system.
-
-⬆️ 89 • 💬 2 • 2d ago • [faa.gov](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
+⬆️ 98 • 💬 82 • 1d ago • [Company Tracker](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
 
 ---
 
@@ -296,17 +300,27 @@ Adam Hegarty investigates if it's possible to slow down artificial intelligence,
 
 📺 60 Minutes Australia
 
-👁️ 67K • 👍 746 • ⏱️ 18:00 • 9h ago
+👁️ 89K • 👍 920 • ⏱️ 18:00 • 13h ago
 
 ---
 
-**[Mark Zuckerberg wants AI walking around your home, do you? | BBC News](https://www.youtube.com/watch?v=MxvXe1t2QFk)**
+**[The AI Panic Has Started](https://www.youtube.com/watch?v=xo-tYjGDtqw)**
 
-Would you let AI walk around your home? Meta has reportedly built a humanoid robot called Max and, if Mark Zuckerberg gets his ...
+EARLY BIRD: Up to 55% off InvestingPro + an extra 15% with my link https://www.investing-referral.com/sasha/ Or use code ...
 
-📺 BBC News
+📺 Sasha Yanshin
 
-👁️ 100K • 👍 387 • 💬 177 • ⏱️ 14:57 • 9h ago
+👁️ 338K • 👍 5K • 💬 1K • ⏱️ 17:46 • 8h ago
+
+---
+
+**[Is the AI Boom Over? Let&#39;s Talk About It.](https://www.youtube.com/watch?v=illf65HD_t4)**
+
+Voters across the US turned against AI data centers on November 3, while AI use keeps climbing. Here's who gains when ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 12K • 👍 334 • 💬 199 • ⏱️ 19:32 • 5h ago
 
 ---
 
@@ -316,7 +330,27 @@ Has AI tackled a problem in physics that has been open for more than half-a-cent
 
 📺 World Science Festival
 
-👁️ 575K • 👍 6K • 💬 744 • ⏱️ 8:45 • 1d ago
+👁️ 623K • 👍 6K • 💬 751 • ⏱️ 8:45 • 1d ago
+
+---
+
+**[If This Video Disappears, Remember What I Said About AI Companies](https://www.youtube.com/watch?v=SZgyuBbMy7c)**
+
+Make it yourself with Lovable — get $5 off using my link → https://link.lovable.dev/A4G9hvT Mock Exam: ...
+
+📺 House of El: AI
+
+👁️ 354K • 👍 17K • 💬 3K • ⏱️ 32:27 • 2d ago
+
+---
+
+**[The AI Alignment Problem &amp; Its Solutions, with Aza Raskin](https://www.youtube.com/watch?v=4Id5aTlYkHg)**
+
+Check any video before it fools you: run suspicious clips through Bitdefender RealCheck to see if it's a deepfake meant to scam ...
+
+📺 StarTalk
+
+👁️ 429K • 👍 7K • 💬 1K • ⏱️ 1:22:44 • 1d ago
 
 ---
 
@@ -326,37 +360,17 @@ Check out "The Book" here for 10% off: https://mdsh.io/e3htzjwm8m (Use code: BRE
 
 📺 Brendan Dell 
 
-👁️ 88K • 👍 2K • 💬 444 • ⏱️ 19:18 • 1d ago
+👁️ 92K • 👍 2K • 💬 464 • ⏱️ 19:18 • 1d ago
 
 ---
 
-**[Has the AI Bubble Burst? $2 Trillion Wiped Out](https://www.youtube.com/watch?v=jCp06VGSvKk)**
+**[This is how the AI bubble bursts](https://www.youtube.com/watch?v=KUWlcdmwXkg)**
 
-Has the AI bubble finally burst? A $2 trillion loss says so. Wall Street just wiped out over $2 trillion in market value in a single ...
+Do you want to know exactly when and why the AI bubble is going to burst. With over 30 years experience as a commentator in ...
 
-📺 Thom Hartmann Program
+📺 xjet
 
-👁️ 99K • 👍 2K • 💬 293 • ⏱️ 7:43 • 2d ago
-
----
-
-**[How to Use Ollama (Free Local AI)](https://www.youtube.com/watch?v=btMoPRHz8eM)**
-
-Learn how to install and use Ollama on Windows to run AI models locally for free. In this beginner tutorial, we'll set up Ollama ...
-
-📺 Kevin Stratvert
-
-👁️ 86K • 👍 973 • 💬 41 • ⏱️ 6:40 • 2d ago
-
----
-
-**[I Tested Uncensored AI... It Should Probably Be Illegal…](https://www.youtube.com/watch?v=bc7QaDmLmoA)**
-
-Hostinger (JACKROBERTS for 10% off): https://bit.ly/480mREa Free Starter Pack: https://bit.ly/4iDekfc Fish Audio: ...
-
-📺 Jack Roberts
-
-👁️ 85K • 👍 2K • 💬 95 • ⏱️ 22:43 • 22h ago
+👁️ 60K • 👍 2K • 💬 432 • ⏱️ 12:16 • 2d ago
 
 ---
 
@@ -366,27 +380,17 @@ AI stocks have started to bounce back after a sell-off erased trillions of dolla
 
 📺 DW News
 
-👁️ 1.4M • 👍 7K • 💬 2K • ⏱️ 10:09 • 1d ago
+👁️ 1.5M • 👍 7K • 💬 2K • ⏱️ 10:09 • 1d ago
 
 ---
 
-**[AI News: New ChatGPT &amp; Google Models (14 Updates Worth Knowing)](https://www.youtube.com/watch?v=IrAHINf0M6E)**
+**[Tech Stocks Crash — AI Giants Now Want a Government Bailout](https://www.youtube.com/watch?v=IqhstV4q9Zg)**
 
-See what Optimizely's Virtual Teammates can automate for you at http://optimizely.com/mattwolfe This week's AI news covers ...
+This past week witnessed a sharp stock-market sell-off widely attributed to growing doubts about the profitability and sustainability ...
 
-📺 Matt Wolfe
+📺 The Jimmy Dore Show
 
-👁️ 105K • 👍 2K • 💬 139 • ⏱️ 24:44 • 2d ago
-
----
-
-**[Anthropics Model 4 Just Shocked The AI Industry](https://www.youtube.com/watch?v=7eQree8FhKI)**
-
-0:00 Intro 1:02 What METR just found 3:05 Anthropic's secret models 5:12 The chart that shows progress has doubled 7:25 This ...
-
-📺 TheAIGRID
-
-👁️ 90K • 👍 1K • 💬 208 • ⏱️ 30:01 • 1d ago
+👁️ 115K • 👍 4K • 💬 1K • ⏱️ 10:02 • 1d ago
 
 ---
 
@@ -402,7 +406,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 22,854 • ❤️ 1,333 • 10d ago
+⬇️ 22,854 • ❤️ 1,364 • 10d ago
 
 ---
 
@@ -412,7 +416,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `text-generation` `9.4B`
 
-⬇️ 7,088 • ❤️ 787 • 15h ago
+⬇️ 7,088 • ❤️ 825 • 18h ago
 
 ---
 
@@ -424,7 +428,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `image-text-to-text` `2780.1B`
 
-⬇️ 25,569 • ❤️ 1,712 • 3d ago
+⬇️ 25,569 • ❤️ 1,725 • 3d ago
 
 ---
 
@@ -436,7 +440,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,661,026 • ❤️ 11,106 • 28d ago
+⬇️ 2,661,026 • ❤️ 11,122 • 28d ago
 
 ---
 
@@ -448,7 +452,7 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 254,053 • ❤️ 911 • 2d ago
+⬇️ 254,053 • ❤️ 916 • 2d ago
 
 ---
 
@@ -458,7 +462,7 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `64.8B`
 
-⬇️ 5,087 • ❤️ 392 • 1d ago
+⬇️ 5,087 • ❤️ 399 • 2d ago
 
 ---
 
@@ -470,7 +474,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,668,187 • ❤️ 19,394 • 1d ago
+⬇️ 7,668,187 • ❤️ 19,409 • 1d ago
 
 ---
 
@@ -480,7 +484,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,553,252 • ❤️ 2,695 • 21d ago
+⬇️ 1,553,252 • ❤️ 2,703 • 22d ago
 
 ---
 
@@ -490,7 +494,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 Sulphur-3 is a large language model developed by MiniMaxAI, designed for general-purpose text generation and understanding. Its key capabilities include advanced natural language processing tasks, making it suitable for a wide range of applications such as content creation, summarization, and conversational AI.
 
-⬇️ 1,003 • ❤️ 415 • 3d ago
+⬇️ 1,003 • ❤️ 418 • 3d ago
 
 ---
 
@@ -556,7 +560,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 14 • 💬 2 • ⭐ 5,065 • 24d ago
+▲ 14 • 💬 2 • ⭐ 5,065 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -576,20 +580,6 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 ---
 
-**[Persistent Recursive Worlds Enable Autonomous Software Evolution](https://huggingface.co/papers/2608.10450)**
-
-*Beichen Huang, Zhenyu Liang, Bowen Zheng et al. (4 authors)*
-
-🏢 The Hong Kong Polytechnic University
-
-Genesis organizes long-horizon software development around a persistent project rather than persistent agents, enabling multi-day compiler construction and numerical module reimplementation with low cost and high performance.
-
-▲ 8 • 💬 2 • ⭐ 656 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.10450) • [💻 code](https://github.com/EMI-Group/genesis) • [🔗 project](https://genesis.evox.group/)
-
----
-
 **[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
 
 *Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
@@ -601,6 +591,20 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 ▲ 111 • 💬 2 • ⭐ 16,826 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
+
+---
+
+**[Persistent Recursive Worlds Enable Autonomous Software Evolution](https://huggingface.co/papers/2608.10450)**
+
+*Beichen Huang, Zhenyu Liang, Bowen Zheng et al. (4 authors)*
+
+🏢 The Hong Kong Polytechnic University
+
+Genesis organizes long-horizon software development around a persistent project rather than persistent agents, enabling multi-day compiler construction and numerical module reimplementation with low cost and high performance.
+
+▲ 8 • 💬 2 • ⭐ 663 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.10450) • [💻 code](https://github.com/EMI-Group/genesis) • [🔗 project](https://genesis.evox.group/)
 
 ---
 
@@ -638,7 +642,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 86 • 💬 7 • ⭐ 92,922 • 27mo ago
+▲ 86 • 💬 7 • ⭐ 92,969 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -664,7 +668,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 11.8k • 🔱 658 • 7d ago
+⭐ 11.9k • 🔱 664 • 1h ago
 
 ---
 
@@ -684,7 +688,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 7.1k • 🔱 630 • 52m ago
+⭐ 7.1k • 🔱 631 • 4h ago
 
 ---
 
@@ -704,7 +708,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `Swift` `ai-agent` `airplay` `automation` `computer-use` `dsh-plugin`
 
-⭐ 4.7k • 🔱 642 • 46m ago
+⭐ 4.7k • 🔱 643 • 4h ago
 
 ---
 
@@ -714,7 +718,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 4.3k • 🔱 603 • 2h ago
+⭐ 4.4k • 🔱 619 • 6h ago
 
 ---
 
@@ -734,7 +738,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `TypeScript` `adversarial-ai` `claude-code` `cursor` `electron-security` `llm-security`
 
-⭐ 3.6k • 🔱 448 • 38m ago
+⭐ 3.8k • 🔱 465 • 4h ago
 
 ---
 
