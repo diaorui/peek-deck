@@ -33,20 +33,6 @@
       "site_name": "GitHub"
     },
     {
-      "title": "Observations from Running Steal My Bitcoin",
-      "url": "https://pavursec.com/blog/stealmybitcoin/",
-      "hn_url": "https://news.ycombinator.com/item?id=50321116",
-      "author": "cloudlandsdev",
-      "points": 8,
-      "num_comments": 1,
-      "created_at": "2026-10-31T23:06:13Z",
-      "object_id": "50321116",
-      "image": "https://pavursec.com/media/logo.svg",
-      "description": "Last week, I saw an article on the front page of the New York Times website reporting that a critical vulnerability in PHP had been found. The article, and others like it, claimed any attacker could achieve arbitrary remote code execution on any of the millions of running PHP services worldwide simply by sending a few unauthenticated web requests that exploited the PHP2Shell vulnerability.",
-      "favicon": "https://pavursec.com/media/icon_hu9a38971af2c2beba5807cd7db08d44b5_22339_180x180_fill_lanczos_center_3.png",
-      "site_name": "Pavursec"
-    },
-    {
       "title": "The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers",
       "url": "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly",
       "hn_url": "https://news.ycombinator.com/item?id=50357834",
@@ -136,16 +122,30 @@
       "hn_url": "https://news.ycombinator.com/item?id=50378625",
       "author": "archb",
       "points": 489,
-      "num_comments": 429,
+      "num_comments": 431,
       "created_at": "2026-11-05T13:05:28Z",
       "object_id": "50378625",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "description": "Discord is moving its apps fully over to the Rust programming language.",
       "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
       "site_name": "The Verge"
+    },
+    {
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "url": "https://news.ycombinator.com/item?id=50403153",
+      "hn_url": "https://news.ycombinator.com/item?id=50403153",
+      "author": "Michel_Aventin",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-07T10:01:48Z",
+      "object_id": "50403153",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     }
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-07T21:03:15.916991+00:00"
+  "fetched_at": "2026-11-08T00:50:23.929766+00:00"
 }

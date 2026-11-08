@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlVaZU1LeDhwOFdtY2ltb2ZHRV9mSHdENXZDYm83Nl92dUF2UWpJSU5TbWVzV2RvNXVBNGV4bkVIYmpMNE1LclE4ampWYXRnWkpuUVhrdS1VVE5tcFptakxSYzNGMWpqTkY0Z3BzVFk1WldlenFVcWJhU09WcWlwTUQ0MFY?oc=5",
-      "pub_date": 1793958258.0,
-      "article_url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Serve Robotics launches new business to become the AWS for robots",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -45,6 +35,16 @@
       "description": null
     },
     {
+      "headline": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWhOZ29fWXk2aERCZC1HVmhTY0k3VjFfV1pGZGpuengxTEdRNndXX2NHNWtXdXozbzFuRmE5QWtpT3lqZVEtQ21NZHdpS2NiOHB4d05SUUI3MVcyMkhJS0QtQlhRM3JTU0dITkhobG1fQ2NxaUE5QjZYeVA5Q2xfUXRvdHdYX2NiVWZMMkV4WDdGSjd1QXc5czFLNDFNc0NSdFJBcjducXc1ZERUR1pv?oc=5",
+      "pub_date": 1794040766.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son\u2019s SoftBank",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -55,24 +55,14 @@
       "description": null
     },
     {
-      "headline": "Update on divestment of ABB Robotics",
-      "source": "ABB",
-      "source_url": "https://www.abb.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSk5jQ0hiRTIwM3Zuc2VKTVF6a1E1bUlCYVRpUmNDMzd0REE0MDVMM3VFbm1ST014aXlYSGNJY1hlQVNPdkhkSFlxWVZtRDNRc3h0ZEhLZFg0RFlpd0R0VG5ULWtVQmZKc01aRk44d3NCcjUwekVKUnp6Nlh4ODNHU3dnZzc?oc=5",
-      "pub_date": 1793861356.0,
-      "article_url": "https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics",
-      "image": "https://resources.news.e.abb.com/images/2026/11/5/1/1.ABB_HQ_Zurich_-_Switzerland_1.jpg",
+      "headline": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlVaZU1LeDhwOFdtY2ltb2ZHRV9mSHdENXZDYm83Nl92dUF2UWpJSU5TbWVzV2RvNXVBNGV4bkVIYmpMNE1LclE4ampWYXRnWkpuUVhrdS1VVE5tcFptakxSYzNGMWpqTkY0Z3BzVFk1WldlenFVcWJhU09WcWlwTUQ0MFY?oc=5",
+      "pub_date": 1793958258.0,
+      "article_url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1",
+      "image": null,
       "description": null
-    },
-    {
-      "headline": "The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGJHUFZXc2xYc0dDSHdkaHhicmpzZldYU0lua0ZzWk5mU2RpU3E0b3hpR0o0MUIybmE0ZFRZZ3M2bEtBVWV0RjhjY3dmVTloRE9OZkhPOE9vS3RJMlVvVlpVY2RCU2VRa2JZWWczVXRZeFg5QTV0SERPOTVhMk90dkFDS3hYcXFwRXRnRENqWFZrcDJDVW9ORm4yTmE5TDlGU3RBb0FOdlJXd1V2bGc?oc=5",
-      "pub_date": 1794052836.0,
-      "article_url": "https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241434981/image_2241434981.jpg?io=getty-c-w630",
-      "description": "Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play."
     },
     {
       "headline": "Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work",
@@ -85,26 +75,36 @@
       "description": "Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people."
     },
     {
-      "headline": "$240M for Harbinger, $51M for Humble Robotics, \u20ac30M for Vaeridion",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakhQa0pncnRwdHRISlFmckh4aVRBeDFiS0dfc2tnZGxBcEpXcmZtSWM1R0lNTGgwbHEwOFNULWlsa0RFWmtqMFY3Vk5mVFp4RWFvSjhBZTJwUDJTVWxrTjdMSGwtcUJlZ3NmeU45VmlYc01oWUJmeUdNclBxT2M0OHNZanZueVlQMndyYzZYZw?oc=5",
-      "pub_date": 1794057304.0,
-      "article_url": "https://www.axios.com/pro/climate-deals/2026/11/07/harbinger-humble-robotics-vaeridion",
-      "image": null,
-      "description": null
+      "headline": "The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGJHUFZXc2xYc0dDSHdkaHhicmpzZldYU0lua0ZzWk5mU2RpU3E0b3hpR0o0MUIybmE0ZFRZZ3M2bEtBVWV0RjhjY3dmVTloRE9OZkhPOE9vS3RJMlVvVlpVY2RCU2VRa2JZWWczVXRZeFg5QTV0SERPOTVhMk90dkFDS3hYcXFwRXRnRENqWFZrcDJDVW9ORm4yTmE5TDlGU3RBb0FOdlJXd1V2bGc?oc=5",
+      "pub_date": 1794052836.0,
+      "article_url": "https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241434981/image_2241434981.jpg?io=getty-c-w630",
+      "description": "Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play."
     },
     {
-      "headline": "Agility Robotics\u2019 Nasdaq debut invites scrutiny of humanoid robot market",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmp2QnJjbUhiWkhTQmhfZzgydGJIS1g3QkZsVnVyYjJvV19xUWpMVkNwS0dyWXBoOU56WThDRVZPMGk4cTExY1lEQTZaREtVNDdiSjB0a3NNOEtTb1F2MHg3aHJBdkN0V1RWTWhVUWRONmRkM1JrY29NeDBzZkw3ZFh1U2c0cV9KcGg3X0VHamxONS1yNk9oWU03dEs0TFNyM2FDTG1NVGpVZFU?oc=5",
-      "pub_date": 1793880041.0,
-      "article_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
-      "description": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
+      "headline": "Six humanoid robots in China work 24-hour shift in a store, two fail assessment",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUjF2bTdpdzNYcWlzanYtdmlrc3hFOEdCZnFkU0tIMGlrdFJJX0ZKUkFCaFk5ZGRISTJ4Y19JakdIeVc4MVFrSUlTZWNTa1BlOTBKRUtVUDBWWHZlM2xNekh3aWxoeU9iTTBUNGZNYkV3RmJLcF9yZThNZ05CbktQMFZJcFE3ei1XcFE?oc=5",
+      "pub_date": 1794074100.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Agibot.jpg",
+      "description": "Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment."
+    },
+    {
+      "headline": "New Jersey high school students teach robotics to a school in Kenya - ABC News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrZExYejVTUXdsNGg1NXIwdWRYYmhoQ1RXOW9wbENEYmJhRlBKSDdGNl9mRFg3aW1CbnlCTDRhdlBhMC1DM1hhaGZqajI?oc=5",
+      "pub_date": 1794002576.0,
+      "article_url": "https://abcnews.com/video/137927944/",
+      "image": "https://i.abcnewsfe.com/a/552c1072-d002-4b1c-a64e-311d57794df6/261106_Teaching_robots_in_Kenya_schools_2_vert_hpMain_16x9.jpg",
+      "description": "New Jersey high school students partnered with a nonprofit to bring robotics education to The Grace School in Kenya, where students have limited access to STEM resources."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-07T21:03:39.548527+00:00"
+  "fetched_at": "2026-11-08T00:50:55.800508+00:00"
 }
