@@ -121,7 +121,7 @@
       "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
       "hn_url": "https://news.ycombinator.com/item?id=50378625",
       "author": "archb",
-      "points": 492,
+      "points": 493,
       "num_comments": 432,
       "created_at": "2026-11-05T13:05:28Z",
       "object_id": "50378625",
@@ -129,23 +129,9 @@
       "description": "Discord is moving its apps fully over to the Rust programming language.",
       "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
       "site_name": "The Verge"
-    },
-    {
-      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-      "url": "https://news.ycombinator.com/item?id=50403153",
-      "hn_url": "https://news.ycombinator.com/item?id=50403153",
-      "author": "Michel_Aventin",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-07T10:01:48Z",
-      "object_id": "50403153",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
     }
   ],
-  "total_hits": 10,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2026-11-08T14:10:44.999526+00:00"
+  "fetched_at": "2026-11-08T18:57:32.682497+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-08T14:11:17.079452+00:00'
+updated: '2026-11-08T18:58:05.914205+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 08, 2026 at 14:11 UTC  
+**Last Updated:** November 08, 2026 at 18:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,232.12
+### $2,230.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -0.7%  
-**30d:** -10.7%  
-**90d:** +18.9%  
-**1y:** -37.6%  
+**24h:** +0.0%  
+**7d:** -0.8%  
+**30d:** -10.8%  
+**90d:** +18.7%  
+**1y:** -37.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $273.14B
+**Market Cap:** $273.05B
 Rank #2
 
 **Circulating Supply:** 122,200,877 ETH
@@ -62,7 +62,7 @@ No max supply
 -54.8%
 
 **All-Time Low:** $0.43
-+516128.3%
++515957.4%
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Found an old post on CREATE2 Wisp contracts (a contract created, used and selfdestructed in one call so the same address can run different code later) and the top question in the comments was what prevents someone from auditing one version and deploying another at the same address. The honest answer back then was “selfdestruct is a red flag, check Etherscan.” What happened since - the Tornado Cash governance attack in 2023 did exactly that and EIP-6780 (Dencun, March 2024) limited SELFDESTRUCT to contracts created in the same transaction. EIP-7702 (Pectra, May 2025) later let EOAs delegate to contract code. Does the Wisp pattern still work post-6780 (create, use and destroy in one tx) and is anyone using it? Is same-transaction metamorphism still a practical risk for governance or allowlists? And how are people checking code identity at execution time now, EXTCODEHASH at execution, something else? UPD thanks u/Bloqarl. So the Wisp pattern still works post-6780 because create and destroy happen in the same tx but swapping code at the same address across txs is dead and the bait and switch moved to upgradeable proxies (an EXTCODEHASH pin never changes while the logic does) and to 7702 accounts that can re-delegate in their next tx. Still curious how people pin code identity in practice
 
-6d ago
+7d ago
 
 ---
 
@@ -154,7 +154,7 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 **[Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum](https://beincrypto.com/ansem-zcash-price-weakness-bitcoin/)**
 
-BeInCrypto • 13h ago
+BeInCrypto • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Motley Fool • 1d ago
 
 In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
 
-ethereum.org • 1d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 2d ago
 
 Vitalik Buterin says Ethereum should prioritize ETH as a store of value over fee burning, warning aggressive burns could risk centralization.
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -210,7 +210,7 @@ Crypto Briefing • 1h ago
 
 Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ The Motley Fool • 1d ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ...
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -234,23 +234,13 @@ The Motley Fool • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: &quot;The Crypto Bull Market Just Started”, How ETH Hits $50,000](https://www.youtube.com/watch?v=lQPebhVEMlc)**
+**[“It Started” Tom Lee Reveals The $50,000 Ethereum Endgame](https://www.youtube.com/watch?v=lQPebhVEMlc)**
 
 CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 2K • 💬 152 • ⏱️ 28:10 • 16h ago
-
----
-
-**[Tom Lee :&quot;This is Why ETH Is Going To $62,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=4H7pVbT5wRk)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 3K • 👍 51 • 💬 39 • ⏱️ 20:56 • 9h ago
+👁️ 82K • 👍 2K • 💬 158 • ⏱️ 28:10 • 20h ago
 
 ---
 
@@ -260,7 +250,17 @@ Ethereum could move before Bitcoin and lead the altcoin market out of this pullb
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 338 • 💬 46 • ⏱️ 10:11 • 13h ago
+👁️ 9K • 👍 365 • 💬 50 • ⏱️ 10:11 • 18h ago
+
+---
+
+**[Tom Lee :&quot;This is Why ETH Is Going To $62,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=4H7pVbT5wRk)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 69 • 💬 41 • ⏱️ 20:56 • 13h ago
 
 ---
 
@@ -270,7 +270,7 @@ I can almost guarantee only 5% of you rememeber which blockchains Visa and Maste
 
 📺 Money Rules - Investing Tips 
 
-👁️ 40K • 👍 2K • 💬 461 • ⏱️ 11:45 • 1d ago
+👁️ 42K • 👍 2K • 💬 447 • ⏱️ 11:45 • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:3
 
 📺 Thomas Sutton
 
-👁️ 6K • 👍 58 • 💬 37 • ⏱️ 5:59 • 1d ago
+👁️ 7K • 👍 63 • 💬 44 • ⏱️ 5:59 • 1d ago
 
 ---
 
@@ -290,7 +290,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 110 • 💬 63 • ⏱️ 23:50 • 1d ago
+👁️ 7K • 👍 113 • 💬 63 • ⏱️ 23:50 • 1d ago
+
+---
+
+**[Ethereum: The Final Drop of This Correction?](https://www.youtube.com/watch?v=W5wnnUYOJ2M)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 178 • 💬 10 • ⏱️ 6:44 • 1d ago
 
 ---
 
@@ -300,7 +310,17 @@ Arthur Hayes says the market has bottomed and belief is back: Wall Street money 
 
 📺 The Rollup
 
-👁️ 23K • 👍 291 • 💬 5 • ⏱️ 9:00 • 2d ago
+👁️ 23K • 👍 294 • 💬 6 • ⏱️ 9:00 • 2d ago
+
+---
+
+**[HOW LIKELY IS AN ETHEREUM RALLY NOW?🔥 (ETH Update)](https://www.youtube.com/watch?v=G4kxWrRUkKk)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 314 • 👍 12 • 💬 1 • ⏱️ 4:40 • 8h ago
 
 ---
 
@@ -310,27 +330,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 218 • 💬 109 • ⏱️ 23:30 • 21h ago
-
----
-
-**[Bitcoin Investors Won&#39;t See This Coming Ethereum And Ripple Are Shaking Up The Cryptocurrency Market](https://www.youtube.com/watch?v=J6buGQxWwcU)**
-
-How much Bitcoin and XRP do you think these companies and banks will own by the time we get to the year 2030? Not one single ...
-
-📺 The Modern Investor
-
-👁️ 8K • 👍 622 • 💬 106 • ⏱️ 30:21 • 1d ago
-
----
-
-**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 18K • 👍 310 • 💬 76 • ⏱️ 10:12 • 2d ago
+👁️ 12K • 👍 227 • 💬 110 • ⏱️ 23:30 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-08T14:11:17.082779+00:00'
+updated: '2026-11-08T18:58:05.916497+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 08, 2026 at 14:11 UTC  
+**Last Updated:** November 08, 2026 at 18:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be t
 
 Hello everyone, I’m new to the group. I’ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony’s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn’t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It’s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I’m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox
 
-3d ago
+4d ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello everyone, I’m new to the group. I’ve been interested in robotics from 
 
 I just finished testing the legs, i had to swap the modules i used to control the actuators because they were too weak. The test went smoothly, no burning just a little code adjustments and the legs move as they should. Next step it to figure out the necessary movements for it to walk.
 
-3d ago
+4d ago
 
 ---
 
@@ -60,7 +60,7 @@ I just finished testing the legs, i had to swap the modules i used to control th
 
 I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?
 
-3d ago
+4d ago
 
 ---
 
@@ -68,7 +68,7 @@ I modeled the individual parts and built the full assembly using SolidCraft and 
 
 Después de un accidente se han vuelto a construir las piernas. Está vez con encoder y un par de servoblocks en las caderas. Encoders magnéticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad .
 
-3d ago
+4d ago
 
 ---
 
@@ -122,11 +122,27 @@ Reuters • 1d ago
 
 ---
 
+**[Six humanoid robots in China work 24-hour shift in a store, two fail assessment](https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete)**
+
+Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again](https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html)**
 
 Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.
 
-CNBC • 1h ago
+CNBC • 5h ago
+
+---
+
+**[Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable.](https://www.businessinsider.com/peggy-johnson-took-robots-to-wall-street-they-turn-profit-2026-11)**
+
+Peggy Johnson rose through Qualcomm, became Microsoft's chief dealmaker, and led Magic Leap. Now she's trying to turn humanoid robots into a business.
+
+Business Insider • 8h ago
 
 ---
 
@@ -138,31 +154,31 @@ The Guardian • 1d ago
 
 ---
 
-**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/07/china-blocks-54-billion-abb-robotics-deal-with-billionaire-masayoshi-sons-softbank/)**
-
-Forbes • 22h ago
-
----
-
 **[This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck](https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck)**
 
 Watching a hand walk away on its fingers brings to mind Thing from The Addams Family.
 
-ScienceAlert • 4h ago
+ScienceAlert • 8h ago
+
+---
+
+**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/07/china-blocks-54-billion-abb-robotics-deal-with-billionaire-masayoshi-sons-softbank/)**
+
+Forbes • 1d ago
+
+---
+
+**[The Pentagon Issues Conditional Approval for Autonomous Industrial Vehicles Under FCC Framework](https://www.presidentialprayerteam.org/2026/11/08/the-pentagon-issues-conditional-approval-for-autonomous-industrial-vehicles-under-fcc-framework/)**
+
+Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
+
+The Presidential Prayer Team • 10h ago
 
 ---
 
 **[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
 
 Financial Times • 2d ago
-
----
-
-**[Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable.](https://www.businessinsider.com/peggy-johnson-took-robots-to-wall-street-they-turn-profit-2026-11)**
-
-Peggy Johnson rose through Qualcomm, became Microsoft's chief dealmaker, and led Magic Leap. Now she's trying to turn humanoid robots into a business.
-
-Business Insider • 4h ago
 
 ---
 
@@ -174,25 +190,19 @@ GeekWire • 2d ago
 
 ---
 
-**[Six humanoid robots in China work 24-hour shift in a store, two fail assessment](https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete)**
-
-Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment.
-
-Interesting Engineering • 20h ago
-
----
-
-**[Pakistan-built robots serve taste of future to Karachi diners](https://www.dawn.com/news/2043044)**
-
-The robots are proving a hit with families, who flock to the restaurant to watch the machines in action.
-
-Dawn • 2h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
+
+Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
+
+📺 Agility
+
+👁️ 14K • 👍 257 • 💬 36 • ⏱️ 6:44 • 3d ago
+
+---
 
 **[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
 
@@ -200,7 +210,7 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 131K • 👍 2K • 💬 381 • ⏱️ 15:13 • 2d ago
+👁️ 136K • 👍 2K • 💬 384 • ⏱️ 15:13 • 2d ago
 
 ---
 
@@ -210,17 +220,7 @@ This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https:/
 
 📺 Unstoppable Gadgets
 
-👁️ 59K • 👍 1K • 💬 26 • ⏱️ 0:21 • 2d ago
-
----
-
-**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
-
-America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
-
-📺 Living in China
-
-👁️ 108K • 👍 2K • 💬 169 • ⏱️ 7:07 • 3d ago
+👁️ 72K • 👍 1K • 💬 30 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -230,27 +230,7 @@ Robots going completely wrong caught on camera return in Part 4 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 145K • 👍 964 • 💬 120 • ⏱️ 9:12 • 5d ago
-
----
-
-**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
-
-https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
-
-📺 Casey.aicreates
-
-👁️ 17K • 👍 823 • 💬 30 • ⏱️ 1:44 • 1d ago
-
----
-
-**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
-
-Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
-
-📺 NextGen Humanoids
-
-👁️ 22K • 👍 169 • 💬 28 • ⏱️ 8:50 • 5d ago
+👁️ 145K • 👍 964 • 💬 120 • ⏱️ 9:12 • 6d ago
 
 ---
 
@@ -260,7 +240,37 @@ Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mde
 
 📺 Mahdi Designs
 
-👁️ 222K • 👍 3K • 💬 322 • ⏱️ 15:06 • 5d ago
+👁️ 230K • 👍 3K • 💬 326 • ⏱️ 15:06 • 5d ago
+
+---
+
+**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
+
+A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
+
+📺 Inside Edition
+
+👁️ 25K • 👍 326 • 💬 85 • ⏱️ 1:43 • 3d ago
+
+---
+
+**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
+
+America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
+
+📺 Living in China
+
+👁️ 114K • 👍 2K • 💬 174 • ⏱️ 7:07 • 3d ago
+
+---
+
+**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
+
+Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
+
+📺 NextGen Humanoids
+
+👁️ 23K • 👍 170 • 💬 28 • ⏱️ 8:50 • 5d ago
 
 ---
 
@@ -270,27 +280,17 @@ Build your own AI Robot Companion! Create your own smart AI robot that can inter
 
 📺 MW Electronics Lab
 
-👁️ 82K • 💬 11 • ⏱️ 0:05 • 4d ago
+👁️ 84K • 💬 11 • ⏱️ 0:05 • 4d ago
 
 ---
 
-**[Learn Physical AI with this $300 Robot Arm Kit! (SO-101 Tutorial)](https://www.youtube.com/watch?v=Q4p03s60MQQ)**
+**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
 
-Get Your SO-101 Robot Arm Kit Today ($30 OFF after checkout with my link): ...
+https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
 
-📺 Kevin Wood | Robotics & AI
+📺 Casey.aicreates
 
-👁️ 20K • 👍 349 • 💬 22 • ⏱️ 25:20 • 3d ago
-
----
-
-**[When Robots Take on a Mountain, Things Get WILD!](https://www.youtube.com/watch?v=ybCxZWkJvXU)**
-
-Some robots are being led uphill on leashes, others are stumbling backward, and one even has to be carried away on a stretcher!
-
-📺 TECH MOMENTS
-
-👁️ 8K • 👍 34 • 💬 2 • ⏱️ 0:22 • 5d ago
+👁️ 17K • 👍 872 • 💬 32 • ⏱️ 1:44 • 1d ago
 
 ---
 
