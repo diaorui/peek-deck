@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-07T21:03:47.137734+00:00'
+updated: '2026-11-08T00:50:57.898538+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 07, 2026 at 21:03 UTC  
+**Last Updated:** November 08, 2026 at 00:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,7 +108,7 @@ Hi guys, I need help. I'm trying to make my first autonomous navigating robot wi
 
 Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
 
-3d ago
+4d ago
 
 ---
 
@@ -116,17 +116,11 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 ## Google News: "robotics"
 
-**[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
-
-Financial Times • 1d ago
-
----
-
 **[Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/)**
 
 Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -134,33 +128,31 @@ TechCrunch • 1d ago
 
 Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’
 
-The Guardian • 7h ago
+The Guardian • 10h ago
 
 ---
 
 **[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
 
-Reuters • 11h ago
+Reuters • 14h ago
+
+---
+
+**[SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal](https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal)**
+
+Bloomberg.com • 16h ago
 
 ---
 
 **[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/07/china-blocks-54-billion-abb-robotics-deal-with-billionaire-masayoshi-sons-softbank/)**
 
-Forbes • 5h ago
+Forbes • 9h ago
 
 ---
 
-**[Update on divestment of ABB Robotics](https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics)**
+**[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
 
-ABB • 2d ago
-
----
-
-**[The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)](https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade)**
-
-Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play.
-
-Seeking Alpha • 9h ago
+Financial Times • 1d ago
 
 ---
 
@@ -172,17 +164,27 @@ GeekWire • 1d ago
 
 ---
 
-**[$240M for Harbinger, $51M for Humble Robotics, €30M for Vaeridion](https://www.axios.com/pro/climate-deals/2026/11/07/harbinger-humble-robotics-vaeridion)**
+**[The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)](https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade)**
 
-Axios • 7h ago
+Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play.
+
+Seeking Alpha • 12h ago
 
 ---
 
-**[Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)**
+**[Six humanoid robots in China work 24-hour shift in a store, two fail assessment](https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete)**
 
-US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.
+Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment.
 
-Ars Technica • 2d ago
+Interesting Engineering • 6h ago
+
+---
+
+**[New Jersey high school students teach robotics to a school in Kenya - ABC News](https://abcnews.com/video/137927944/)**
+
+New Jersey high school students partnered with a nonprofit to bring robotics education to The Grace School in Kenya, where students have limited access to STEM resources.
+
+ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ---
 
@@ -196,7 +198,7 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 13K • 👍 247 • 💬 33 • ⏱️ 6:44 • 2d ago
+👁️ 13K • 👍 249 • 💬 35 • ⏱️ 6:44 • 3d ago
 
 ---
 
@@ -206,27 +208,7 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 123K • 👍 2K • 💬 362 • ⏱️ 15:13 • 1d ago
-
----
-
-**[New AI Robot Is Run By Living Human Brain Cells (Absolutely Terrifying)](https://www.youtube.com/watch?v=qoBGtiOBzBA)**
-
-Scientists at Indiana University just hooked living human brain cells up to a humanoid robot, and it's learning. Called Brainobot ...
-
-📺 MACHINEKIND
-
-👁️ 10K • 👍 317 • 💬 43 • ⏱️ 12:18 • 22h ago
-
----
-
-**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
-
-This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
-
-📺 Unstoppable Gadgets
-
-👁️ 38K • 👍 709 • 💬 21 • ⏱️ 0:21 • 1d ago
+👁️ 125K • 👍 2K • 💬 373 • ⏱️ 15:13 • 1d ago
 
 ---
 
@@ -236,7 +218,17 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 13K • 👍 674 • 💬 28 • ⏱️ 1:44 • 23h ago
+👁️ 15K • 👍 719 • 💬 28 • ⏱️ 1:44 • 1d ago
+
+---
+
+**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
+
+This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
+
+📺 Unstoppable Gadgets
+
+👁️ 41K • 👍 761 • 💬 22 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -246,37 +238,7 @@ Robots going completely wrong caught on camera return in Part 4 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 142K • 👍 930 • 💬 118 • ⏱️ 9:12 • 5d ago
-
----
-
-**[Why This Robot Runs Its AI on Board](https://www.youtube.com/watch?v=3do6Tbmda7c)**
-
-Why does this factory robot run its AI on board? I asked Jarad Cannon, CTO of Humanoid, what happens when a whole fleet of ...
-
-📺 David Bombal
-
-👁️ 2K • 👍 123 • 💬 9 • ⏱️ 2:51 • 5h ago
-
----
-
-**[I just CAN&#39;T Get ENOUGH OF THIS BERSAGLIERE [War Robots]](https://www.youtube.com/watch?v=KLq1nsTdMQM)**
-
-War Robots Gameplay: Early Spawned BERSAGLIERE is nuts! WR My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 8K • 👍 305 • 💬 51 • ⏱️ 10:23 • 8h ago
-
----
-
-**[Two robots and a dog play spin the bottle #Shorts](https://www.youtube.com/watch?v=_MxcRdZ9FXM)**
-
-The bottle stops on Reachy Mini. Again. Microduck asks about the secret module… Credits: • Music: "Réveille-toi, on danse" by La ...
-
-📺 Remi Fabre
-
-👁️ 3K • 👍 119 • 💬 6 • ⏱️ 0:39 • 4h ago
+👁️ 143K • 👍 940 • 💬 118 • ⏱️ 9:12 • 5d ago
 
 ---
 
@@ -286,7 +248,47 @@ Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mde
 
 📺 Mahdi Designs
 
-👁️ 204K • 👍 3K • 💬 313 • ⏱️ 15:06 • 4d ago
+👁️ 208K • 👍 3K • 💬 315 • ⏱️ 15:06 • 4d ago
+
+---
+
+**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
+
+Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
+
+📺 NextGen Humanoids
+
+👁️ 22K • 👍 167 • 💬 28 • ⏱️ 8:50 • 5d ago
+
+---
+
+**[Why This Robot Runs Its AI on Board](https://www.youtube.com/watch?v=3do6Tbmda7c)**
+
+Why does this factory robot run its AI on board? I asked Jarad Cannon, CTO of Humanoid, what happens when a whole fleet of ...
+
+📺 David Bombal
+
+👁️ 3K • 👍 154 • 💬 13 • ⏱️ 2:51 • 8h ago
+
+---
+
+**[Two robots and a dog play spin the bottle #Shorts](https://www.youtube.com/watch?v=_MxcRdZ9FXM)**
+
+The bottle stops on Reachy Mini. Again. Microduck asks about the secret module… Credits: • Music: "Réveille-toi, on danse" by La ...
+
+📺 Remi Fabre
+
+👁️ 6K • 👍 186 • 💬 9 • ⏱️ 0:39 • 8h ago
+
+---
+
+**[Why One Robot Hand Stalled Tesla&#39;s $1-an-Hour Factory Math](https://www.youtube.com/watch?v=bP2Ek-DdlEw)**
+
+LAST MONTH: Tesla gutted two Fremont car lines in 46 days and started early production of Optimus robots built to run for under ...
+
+📺 Bradford Manning
+
+👁️ 30K • 👍 829 • 💬 56 • ⏱️ 1:29 • 1d ago
 
 ---
 
