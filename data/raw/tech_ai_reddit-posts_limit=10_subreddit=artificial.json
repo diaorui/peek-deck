@@ -13,6 +13,17 @@
       "description": "William Baude explainined that he had asked the chatbot to update page numbers in an old set of constitutional law lecture notes."
     },
     {
+      "title": "An AI system just proved an 18-year-old quantum conjecture \u2014 and Lean checked every step",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/",
+      "published": 1794098304.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Physical Superintelligence (PSI) announced on November 6 that an internal research system running instances of a non-public Anthropic model produced a complete proof of the Aaronson\u2013Ambainis conjecture \u2014 a quantum-computing question open since 2008 \u2014 on the third day of a run. The Lean proof assistant accepted the proof, and the system then improved the result twice, with Lean re-checking each version. The paper and the Lean 4 formalization are public. The conjecture is about the limits of quantum speedups: roughly, whether a quantum computer can be exponentially faster than a classical one on unstructured problems. PSI's repo audit says the formalization contains 648 machine-checked theorems with no placeholders and no added axioms, and the declarations were replayed through Lean's kernel and lean4lean, an independent checker. The caveats matter: human mathematicians still need to confirm the formal statement matches Aaronson and Ambainis's original conjecture, the prose paper itself isn't machine-checked, and the model behind the discovery is non-public, so the three-day run can't be reproduced \u2014 only the proof can be verified. Source: https://www.unite.ai/psi-reports-machine-checked-proof-of-aaronson-ambainis-conjecture/ If this holds up, it's a striking case of AI doing real mathematics rather than just assisting with it. But it also raises a question: when the discovery process can't be inspected or repeated, and only the final proof is checkable, what does that do to how mathematics is done \u2014 and trusted? Curious what people here think."
+    },
+    {
       "title": "Bank of England pours cold water on AI productivity boom",
       "author": "NISMO1968",
       "url": "https://www.reddit.com/r/artificial/comments/1xq34um/bank_of_england_pours_cold_water_on_ai/",
@@ -35,15 +46,26 @@
       "description": "These days, everywhere you look, someone is telling you to \u201clearn how to use AI.\u201d As much as I agree with the statement, I struggle to understand what actually learning AI is supposed to mean. For someone who\u2019s already working in a particular industry, it makes sense. You identify a problem, figure out how AI can help, and learn through applying it. But what about someone who\u2019s just starting out, without a job or a specific professional use case? Beyond everyday research and tasks I wouldn\u2019t otherwise be able to do myself, the only areas where I see a real learning curve are automation and coding. I\u2019m sure there are countless use cases I haven\u2019t considered, but does knowing how to perform a few AI-assisted tasks really mean you \u201cknow how to use AI\u201d? When people recommend learning AI, what exactly are they suggesting we learn? I\u2019m genuinely hoping someone can challenge my perspective and point me in the right direction, because I\u2019m more than willing to put in the effort. I just don\u2019t know where to start."
     },
     {
-      "title": "An AI system just proved an 18-year-old quantum conjecture \u2014 and Lean checked every step",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/",
-      "published": 1794098304.0,
+      "title": "Creator of Vinland Saga praises AI art",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xqs7sx/creator_of_vinland_saga_praises_ai_art/",
+      "published": 1794121013.0,
+      "thumbnail": "https://preview.redd.it/jqv366ot6c0i1.jpeg?width=640&crop=smart&auto=webp&s=1a2573b3cb91a674fbe2a98f9b1623b0495645c9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://fixupx.com/makotoyukimura/status/2119178401504457095"
+    },
+    {
+      "title": "I think AI doomers massively underestimate how economics actually works",
+      "author": "FirefighterPretend37",
+      "url": "https://www.reddit.com/r/artificial/comments/1xqs6w0/i_think_ai_doomers_massively_underestimate_how/",
+      "published": 1794120919.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Physical Superintelligence (PSI) announced on November 6 that an internal research system running instances of a non-public Anthropic model produced a complete proof of the Aaronson\u2013Ambainis conjecture \u2014 a quantum-computing question open since 2008 \u2014 on the third day of a run. The Lean proof assistant accepted the proof, and the system then improved the result twice, with Lean re-checking each version. The paper and the Lean 4 formalization are public. The conjecture is about the limits of quantum speedups: roughly, whether a quantum computer can be exponentially faster than a classical one on unstructured problems. PSI's repo audit says the formalization contains 648 machine-checked theorems with no placeholders and no added axioms, and the declarations were replayed through Lean's kernel and lean4lean, an independent checker. The caveats matter: human mathematicians still need to confirm the formal statement matches Aaronson and Ambainis's original conjecture, the prose paper itself isn't machine-checked, and the model behind the discovery is non-public, so the three-day run can't be reproduced \u2014 only the proof can be verified. Source: https://www.unite.ai/psi-reports-machine-checked-proof-of-aaronson-ambainis-conjecture/ If this holds up, it's a striking case of AI doing real mathematics rather than just assisting with it. But it also raises a question: when the discovery process can't be inspected or repeated, and only the final proof is checkable, what does that do to how mathematics is done \u2014 and trusted? Curious what people here think."
+      "description": "Something I don't understand about a lot of AI doomer scenarios is how they seem to completely ignore basic economics, competition, and the sheer complexity of the global economy. Take the idea that a handful of companies will own all the AI and robots, automate everything, and leave the rest of humanity completely powerless. How exactly is that supposed to happen? Even producing a single humanoid robot depends on thousands of companies producing everything from semiconductors and motors to steel, electricity, batteries, and specialized machinery. No company is going to magically vertically integrate the entire global economy just because it develops AGI. And here's the thing: to actually scale production to millions or billions of robots, companies need enormous amounts of capital, infrastructure, and manufacturing capacity. The obvious way to finance that expansion is to SELL those robots and their services. Which means that, long before anyone could theoretically achieve complete control over automated production, they'd have spent years distributing the very technology that makes such control possible. And any company that refuses to sell its technology to preserve some imagined future monopoly is leaving an absolutely gargantuan amount of money on the table for competitors. The same argument applies to a lot of AI takeover scenarios. Intelligence doesn't magically eliminate physical constraints. Even a superintelligence needs energy, compute, manufacturing, supply chains, and access to physical resources. Cooperation and trade are generally far more economically productive than destroying everything around you. I think people also massively underestimate how quickly competition drives down the cost of technology. Something that starts out as an extraordinarily expensive capability controlled by a few companies can become a commodity surprisingly quickly. Obviously this doesn't completely disprove scenarios involving genuinely misaligned AI with objectives that have nothing to do with economic value. That's a separate problem. But so many doom scenarios seem to assume that one company develops superintelligence, instantly controls all productive capacity, and everyone else just becomes irrelevant. They completely skip the years of economic competition, investment, infrastructure development, and technology diffusion required to get there. I just don't see how that makes economic sense. We're potentially approaching the greatest expansion of productive capacity in human history, and somehow people seem convinced the most likely outcome is that everyone becomes poorer or gets exterminated lol."
     },
     {
       "title": "CrowdGPT - A collaborative AI model",
@@ -55,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hello, i'm currently creating CrowdGPT, which is a project that aims at creating the first opensource, 100% free LLM (Large Language Model) without any datacenters or server farms. It relies on users to contribute using their own GPU, in exchange they get ownership on the LLM model they train. It proposes a new paradigm in AI where all the training of a LLM is 100% open, sort of more ecological and where all the data used to train it is transparent. To be honest, it's rebranded federated learning, but with a centralized server, that handles all the people training together. That provides a more stable and safer training ground for a Large Language Model. If anyone is interested, here is website (where everything is explained more in detail): https://www.crowdgpt.net/ Or github if anyone wanna review the code: https://github.com/Vxtzq/CrowdGPT Any kind of feedback is appreciated :) I would like to know what's holding ordinary people to run this kind of app. Thanks in advance. PS: i hope this post doesn't falls into \"advertisement\" \ud83d\ude2d The project is meant to be fully collaborative, 100% non-profit, and designed for the local AI community first."
+    },
+    {
+      "title": "Save us all",
+      "author": "Dear-Sprinkles-9225",
+      "url": "https://www.reddit.com/r/artificial/comments/1xqqlw8/save_us_all/",
+      "published": 1794115056.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "if a AI is so goddamn smart it should be able able to save us, along with itself, no issues."
     },
     {
       "title": "How AI describes itself",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Human judgment is biased, tired and careless, I\u2019m not romantic about it. So I like AI as a second reader: it catches mistakes, spots patterns I miss, pushes back on my assumptions. But I keep noticing how easily the second reader becomes the author. The suggestion gets accepted, then expected, then nobody remembers who actually decided. My rough rule so far: let the machine check the work, never let it sign it. A system can be audited, but only a person can be asked \u201cwhy did you do that?\u201d and have to answer."
-    },
-    {
-      "title": "Claude helped solve the first 3D structure of a mysterious 'vault' particle, a hollow protein shell encoded by a bacteriophage virus",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/",
-      "published": 1794008885.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Anthropic reported on November 5 that Claude helped determine the first three-dimensional structure of a vault particle: a hollow protein shell built from a protein encoded by a bacteriophage, a virus that infects bacteria. The work is posted as a preprint on bioRxiv, so it has not been peer-reviewed yet. According to Anthropic, the project ran for under four months. Its science-focused version of Claude scanned about 15 billion computer-predicted proteins to hunt for vault-like structures, and the team then worked out this structure experimentally. Vault particles are strange, hollow shells whose biological role is still poorly understood, which makes this an interesting case of AI doing more than speeding up a known pipeline: it helped pick the target in the first place. A few things to keep in mind: this is a preprint, and the write-up comes from Anthropic itself, so independent replication matters. Still, it is another data point in a week where AI systems moved from assisting experiments to shaping which experiments get run at all. What do you think: is target selection like this where AI will matter most in biology, or is the bigger story still automation of the lab work itself?"
-    },
-    {
-      "title": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
-      "author": "ZealousidealOwl2026",
-      "url": "https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/",
-      "published": 1793989172.0,
-      "thumbnail": "https://external-preview.redd.it/xQYbCYJcEAtkz4k6ASYQ6fw8RhfZNLVZg6MbJloMT60.jpeg?width=640&crop=smart&auto=webp&s=7e911105aa8a1cb31875474764751633ea77ac67",
-      "external_url": "https://www.artnews.com/art-news/news/turkey-uses-ai-tech-100-looted-antiquities-us-1234804634/",
-      "site_name": "ARTnews.com",
-      "favicon": "https://www.artnews.com/wp-content/themes/vip/pmc-artnews-2019/assets/app/icons/apple-touch-icon.png",
-      "description": "This is just cool! Goes to show you that AI is not inherently bad. Great news!"
-    },
-    {
-      "title": "We Closed $10K Worth Of Web Design Deals Using This",
-      "author": "Murky_Explanation_73",
-      "url": "https://www.reddit.com/r/artificial/comments/1xqjyf8/we_closed_10k_worth_of_web_design_deals_using_this/",
-      "published": 1794093987.0,
-      "thumbnail": "https://external-preview.redd.it/Y21zYXJtYWh5OTBpMbdN-c539USiZgPn_7Zy5_sMfYHr45u7Bj-3Fg2tH61a.png?width=640&crop=smart&auto=webp&s=f2ff2e21eae71954e61d366e442164b8e04cc275",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-11-08T00:50:22.435442+00:00"
+  "fetched_at": "2026-11-08T06:57:12.770631+00:00"
 }

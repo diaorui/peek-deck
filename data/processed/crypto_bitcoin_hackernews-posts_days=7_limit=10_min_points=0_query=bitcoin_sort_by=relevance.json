@@ -47,6 +47,20 @@
       "site_name": "0xca333.substack.com"
     },
     {
+      "title": "Show HN: Free real-time order book heatmap for Bitcoin, gold and US 500",
+      "url": "https://swiftedge.uk/depth",
+      "hn_url": "https://news.ycombinator.com/item?id=50390550",
+      "author": "Stangenberg295",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-11-06T10:24:05Z",
+      "object_id": "50390550",
+      "image": "https://swiftedge.uk/static/og.jpg",
+      "description": "The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlesticks, a footprint chart and every trade as a bubble. Free, no sign-up.",
+      "favicon": "https://swiftedge.uk/static/icons/icon-180.png",
+      "site_name": "Swiftedge"
+    },
+    {
       "title": "Bitcoin++ privacy hackathon winner: BlackIce, distributed frost silent payments",
       "url": "https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60",
       "hn_url": "https://news.ycombinator.com/item?id=50393263",
@@ -59,20 +73,6 @@
       "description": "Silent Payments has suffered from the lack of multisig & hardware wallet support. We built payments using FROST / Frostsnap hardware that enable distributed signing coordinated using Marmot.",
       "favicon": "https://btcpp.dev/favicon.ico",
       "site_name": "bitcoin++"
-    },
-    {
-      "title": "Show HN: Free real-time order book heatmap for Bitcoin, gold and US 500",
-      "url": "https://swiftedge.uk/depth",
-      "hn_url": "https://news.ycombinator.com/item?id=50390550",
-      "author": "Stangenberg295",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-11-06T10:24:05Z",
-      "object_id": "50390550",
-      "image": "https://swiftedge.uk/static/og.jpg",
-      "description": "The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlesticks, a footprint chart and every trade as a bubble. Free, no sign-up.",
-      "favicon": "https://swiftedge.uk/static/icons/icon-180.png",
-      "site_name": "Swiftedge"
     },
     {
       "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
@@ -121,8 +121,8 @@
       "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
       "hn_url": "https://news.ycombinator.com/item?id=50378625",
       "author": "archb",
-      "points": 489,
-      "num_comments": 431,
+      "points": 491,
+      "num_comments": 432,
       "created_at": "2026-11-05T13:05:28Z",
       "object_id": "50378625",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-08T00:50:23.929766+00:00"
+  "fetched_at": "2026-11-08T06:57:14.022587+00:00"
 }
