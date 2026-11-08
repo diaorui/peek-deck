@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-08T06:57:36.630334+00:00'
+updated: '2026-11-08T14:11:17.064010+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** November 08, 2026 at 06:57 UTC  
+**Last Updated:** November 08, 2026 at 14:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 William Baude explainined that he had asked the chatbot to update page numbers in an old set of constitutional law lecture notes.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/professor-returns-from-lunch-to-find-ai-deleted-years-worth-of-lecture-notes-3425652/) • 14h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/professor-returns-from-lunch-to-find-ai-deleted-years-worth-of-lecture-notes-3425652/) • 22h ago
+
+---
+
+**[Any LLM that doesn't agree with me so much?](https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/)**
+
+Simple question. Are there any LLMs that don't constantly agree with you? I feel like I can convince them of just about anything.
+
+4h ago
 
 ---
 
@@ -49,7 +57,7 @@ William Baude explainined that he had asked the chatbot to update page numbers i
 
 Physical Superintelligence (PSI) announced on November 6 that an internal research system running instances of a non-public Anthropic model produced a complete proof of the Aaronson–Ambainis conjecture — a quantum-computing question open since 2008 — on the third day of a run. The Lean proof assistant accepted the proof, and the system then improved the result twice, with Lean re-checking each version. The paper and the Lean 4 formalization are public. The conjecture is about the limits of quantum speedups: roughly, whether a quantum computer can be exponentially faster than a classical one on unstructured problems. PSI's repo audit says the formalization contains 648 machine-checked theorems with no placeholders and no added axioms, and the declarations were replayed through Lean's kernel and lean4lean, an independent checker. The caveats matter: human mathematicians still need to confirm the formal statement matches Aaronson and Ambainis's original conjecture, the prose paper itself isn't machine-checked, and the model behind the discovery is non-public, so the three-day run can't be reproduced — only the proof can be verified. Source: https://www.unite.ai/psi-reports-machine-checked-proof-of-aaronson-ambainis-conjecture/ If this holds up, it's a striking case of AI doing real mathematics rather than just assisting with it. But it also raises a question: when the discovery process can't be inspected or repeated, and only the final proof is checkable, what does that do to how mathematics is done — and trusted? Curious what people here think.
 
-6h ago
+13h ago
 
 ---
 
@@ -57,7 +65,7 @@ Physical Superintelligence (PSI) announced on November 6 that an internal resear
 
 Turns out throwing billions at GPUs doesn't automatically mean everyone gets more done
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059) • 20h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059) • 1d ago
 
 ---
 
@@ -65,15 +73,7 @@ Turns out throwing billions at GPUs doesn't automatically mean everyone gets mor
 
 These days, everywhere you look, someone is telling you to “learn how to use AI.” As much as I agree with the statement, I struggle to understand what actually learning AI is supposed to mean. For someone who’s already working in a particular industry, it makes sense. You identify a problem, figure out how AI can help, and learn through applying it. But what about someone who’s just starting out, without a job or a specific professional use case? Beyond everyday research and tasks I wouldn’t otherwise be able to do myself, the only areas where I see a real learning curve are automation and coding. I’m sure there are countless use cases I haven’t considered, but does knowing how to perform a few AI-assisted tasks really mean you “know how to use AI”? When people recommend learning AI, what exactly are they suggesting we learn? I’m genuinely hoping someone can challenge my perspective and point me in the right direction, because I’m more than willing to put in the effort. I just don’t know where to start.
 
-8h ago
-
----
-
-**[Creator of Vinland Saga praises AI art](https://www.reddit.com/r/artificial/comments/1xqs7sx/creator_of_vinland_saga_praises_ai_art/)**
-
-https://fixupx.com/makotoyukimura/status/2119178401504457095
-
-just now
+15h ago
 
 ---
 
@@ -81,31 +81,23 @@ just now
 
 Something I don't understand about a lot of AI doomer scenarios is how they seem to completely ignore basic economics, competition, and the sheer complexity of the global economy. Take the idea that a handful of companies will own all the AI and robots, automate everything, and leave the rest of humanity completely powerless. How exactly is that supposed to happen? Even producing a single humanoid robot depends on thousands of companies producing everything from semiconductors and motors to steel, electricity, batteries, and specialized machinery. No company is going to magically vertically integrate the entire global economy just because it develops AGI. And here's the thing: to actually scale production to millions or billions of robots, companies need enormous amounts of capital, infrastructure, and manufacturing capacity. The obvious way to finance that expansion is to SELL those robots and their services. Which means that, long before anyone could theoretically achieve complete control over automated production, they'd have spent years distributing the very technology that makes such control possible. And any company that refuses to sell its technology to preserve some imagined future monopoly is leaving an absolutely gargantuan amount of money on the table for competitors. The same argument applies to a lot of AI takeover scenarios. Intelligence doesn't magically eliminate physical constraints. Even a superintelligence needs energy, compute, manufacturing, supply chains, and access to physical resources. Cooperation and trade are generally far more economically productive than destroying everything around you. I think people also massively underestimate how quickly competition drives down the cost of technology. Something that starts out as an extraordinarily expensive capability controlled by a few companies can become a commodity surprisingly quickly. Obviously this doesn't completely disprove scenarios involving genuinely misaligned AI with objectives that have nothing to do with economic value. That's a separate problem. But so many doom scenarios seem to assume that one company develops superintelligence, instantly controls all productive capacity, and everyone else just becomes irrelevant. They completely skip the years of economic competition, investment, infrastructure development, and technology diffusion required to get there. I just don't see how that makes economic sense. We're potentially approaching the greatest expansion of productive capacity in human history, and somehow people seem convinced the most likely outcome is that everyone becomes poorer or gets exterminated lol.
 
-2m ago
+7h ago
 
 ---
 
-**[CrowdGPT - A collaborative AI model](https://www.reddit.com/r/artificial/comments/1xqj621/crowdgpt_a_collaborative_ai_model/)**
+**[GPT-6 Astra flagged 15% of safe actions at a 99% detection target](https://www.reddit.com/r/artificial/comments/1xquczz/gpt6_astra_flagged_15_of_safe_actions_at_a_99/)**
 
-Hello, i'm currently creating CrowdGPT, which is a project that aims at creating the first opensource, 100% free LLM (Large Language Model) without any datacenters or server farms. It relies on users to contribute using their own GPU, in exchange they get ownership on the LLM model they train. It proposes a new paradigm in AI where all the training of a LLM is 100% open, sort of more ecological and where all the data used to train it is transparent. To be honest, it's rebranded federated learning, but with a centralized server, that handles all the people training together. That provides a more stable and safer training ground for a Large Language Model. If anyone is interested, here is website (where everything is explained more in detail): https://www.crowdgpt.net/ Or github if anyone wanna review the code: https://github.com/Vxtzq/CrowdGPT Any kind of feedback is appreciated :) I would like to know what's holding ordinary people to run this kind of app. Thanks in advance. PS: i hope this post doesn't falls into "advertisement" 😭 The project is meant to be fully collaborative, 100% non-profit, and designed for the local AI community first.
+In an Oct. 15 pilot, Andy Hall and Dan Thompson compared AI auditors with human-labeled agent logs. On R-Judge, GPT-6 Astra reached 15% false positives when set to catch 99% of unsafe actions. At a 95% target, nearly all models stayed below 10%; Gemini 3.8 Flash stayed under 4%. The benchmark measures labeled logs, not deployed-agent rates. Source: https://freesystems.substack.com/p/were-using-ai-to-audit-ai
 
-8h ago
-
----
-
-**[Save us all](https://www.reddit.com/r/artificial/comments/1xqqlw8/save_us_all/)**
-
-if a AI is so goddamn smart it should be able able to save us, along with itself, no issues.
-
-1h ago
+4h ago
 
 ---
 
-**[How AI describes itself](https://www.reddit.com/r/artificial/comments/1xqd3rt/how_ai_describes_itself/)**
+**[AI in ad avoidance](https://www.reddit.com/r/artificial/comments/1xqt3ji/ai_in_ad_avoidance/)**
 
-Agent is a line that works on a task. It brings its piece as a footprint for future agents. It takes what previous agents left. And it interrupts. Thats not an ending and not the emptiness, just there is no next frame.
+Is this possible? AI quickly reviews a podcast before I listen to it and removes the ads. AI mutes the ads on here that appear as comments or Instagram ads, or at least highlights them to make them more obvious so we can easily glaze over them without being tricked into looking at them? Is AI ad avoidance possible?
 
-12h ago
+6h ago
 
 ---
 
@@ -113,7 +105,15 @@ Agent is a line that works on a task. It brings its piece as a footprint for fut
 
 Human judgment is biased, tired and careless, I’m not romantic about it. So I like AI as a second reader: it catches mistakes, spots patterns I miss, pushes back on my assumptions. But I keep noticing how easily the second reader becomes the author. The suggestion gets accepted, then expected, then nobody remembers who actually decided. My rough rule so far: let the machine check the work, never let it sign it. A system can be audited, but only a person can be asked “why did you do that?” and have to answer.
 
-18h ago
+1d ago
+
+---
+
+**[CrowdGPT - A collaborative AI model](https://www.reddit.com/r/artificial/comments/1xqj621/crowdgpt_a_collaborative_ai_model/)**
+
+Hello, i'm currently creating CrowdGPT, which is a project that aims at creating the first opensource, 100% free LLM (Large Language Model) without any datacenters or server farms. It relies on users to contribute using their own GPU, in exchange they get ownership on the LLM model they train. It proposes a new paradigm in AI where all the training of a LLM is 100% open, sort of more ecological and where all the data used to train it is transparent. To be honest, it's rebranded federated learning, but with a centralized server, that handles all the people training together. That provides a more stable and safer training ground for a Large Language Model. If anyone is interested, here is website (where everything is explained more in detail): https://www.crowdgpt.net/ Or github if anyone wanna review the code: https://github.com/Vxtzq/CrowdGPT Any kind of feedback is appreciated :) I would like to know what's holding ordinary people to run this kind of app. Thanks in advance. PS: i hope this post doesn't falls into "advertisement" 😭 The project is meant to be fully collaborative, 100% non-profit, and designed for the local AI community first.
+
+15h ago
 
 ---
 
@@ -121,41 +121,55 @@ Human judgment is biased, tired and careless, I’m not romantic about it. So I 
 
 ## Google News: "ai"
 
+**[Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says](https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says)**
+
+Bloomberg • 2h ago
+
+---
+
 **[Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers](https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html)**
 
 Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.
 
-CNBC • 17h ago
+CNBC • 1d ago
 
 ---
 
-**[Americans are anxious about the AI boom going bust](https://www.washingtonpost.com/technology/2026/11/07/americans-are-worried-about-ai-boom-going-bust-survey-finds/)**
+**[Anthropic secures $3.4 billion generator deal for AI data centers, FT reports](https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html)**
 
-There’s one more thing to fear in the economy, according to a new survey.
+The deal included the engineering and construction capabilities needed to install generators, the report said, citing a person familiar with the matter.
 
-The Washington Post • 4h ago
-
----
-
-**[AI is speeding up recruitment — and putting agency fees under pressure](https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html)**
-
-Recruiters say AI is speeding up screening and reshaping agency work, raising questions about whether percentage-based placement fees can hold.
-
-CNBC • 57m ago
+CNBC • 21m ago
 
 ---
 
-**[How A.I. Just Blew Up a Key Tenet of Computer Science](https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html)**
+**[‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints](https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence)**
 
-The New York Times • 1d ago
+MPs’ offices, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to
+
+The Guardian • 20m ago
 
 ---
 
-**[Why investors are dumping AI company stocks after Democrats’ election sweep](https://www.washingtonpost.com/business/2026/11/06/investors-dumping-ai-company-stocks-fears-democrats-will-stop-data-centers/)**
+**[Elvis Presley’s music owners file new lawsuit against AI music generator](https://www.nbc4i.com/news/u-s-world/elvis-presleys-music-owners-file-new-lawsuit-against-ai-music-generator/)**
 
-Investors are worried that data center building will slow. If the AI industry’s investment math no longer works, the U.S. economy could take a hit.
+NBC4 WCMH-TV • 53m ago
 
-The Washington Post • 23h ago
+---
+
+**[Google will let schools turn off AI, but they may lose Search](https://www.toledoblade.com/business/technology/2026/11/08/google-will-let-schools-turn-off-ai-but-they-may-lose-search/stories/20261108019)**
+
+NEW YORK — Google is rolling out new controls for schools to limit students’ access to the company’s AI tools. But if schools opt out of AI altogether, ...
+
+Toledo Blade • 46m ago
+
+---
+
+**[‘I just got AI emails rejecting my application – or no reply at all’: this is the soul-crushing reality of being a Neet](https://www.theguardian.com/commentisfree/2026/nov/08/young-people-soul-crushing-reality-neet-alan-milburn-life)**
+
+Alan Milburn describes them as a ‘lost generation’. Those I spoke to just want to know what they have to do to finally get a job – and a chance in life, says Guardian columnist John Harris
+
+The Guardian • 42m ago
 
 ---
 
@@ -163,33 +177,21 @@ The Washington Post • 23h ago
 
 A $2.5 trillion wipeout for the Nasdaq Composite this week is reminding even the smallest investors just how reliant we’ve all become on the success of the artificial intelligence buildout.
 
-CNN • 13h ago
+CNN • 21h ago
 
 ---
 
-**[AI Slump Revives Asia’s Forgotten Trades From China to India](https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india)**
+**[How Wall Street’s all-in bet on AI blew up](https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1)**
 
-Bloomberg.com • 6h ago
-
----
-
-**[Real or AI? Viral Kauai monk seal photos spark backlash, investigations](https://www.hawaiinewsnow.com/2026/11/07/real-or-ai-viral-kauai-monk-seal-photos-spark-backlash-investigations/)**
-
-A social media post showing two women with a Hawaiian monk seal is drawing backlash and prompting an investigation by state and federal authorities.
-
-Hawaii News Now • 1d ago
+Financial Times • 1d ago
 
 ---
 
-**[Environmental groups embrace AI, even as they warn of data center impacts](https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/)**
+**[AI stocks like Nvidia, Micron, and Sandisk have been blown up, but keep this in mind](https://finance.yahoo.com/markets/article/ai-stocks-like-nvidia-micron-and-sandisk-have-been-blown-up-but-keep-this-in-mind-110000652.html)**
 
-Reuters • 1d ago
+The good news/bad news in the aftermath of the midterm blue wave.
 
----
-
-**[Seattle schools pull the plug on YouTube, ‘Minecraft’ and AI loophole](https://www.seattletimes.com/education-lab/seattle-schools-pull-the-plug-on-youtube-minecraft-and-ai-loophole/)**
-
-The Seattle Times • 16h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -207,13 +209,13 @@ Cuban says he has been seeing his own face in scammy AI-generated ads for nonexi
 
 **[The end of Microsoft Research's AI Frontiers group](https://news.ycombinator.com/item?id=50406563)**
 
-⬆️ 438 • 💬 260 • 12h ago • [hunch.net](https://hunch.net/?p=13764006)
+⬆️ 477 • 💬 290 • 20h ago • [hunch.net](https://hunch.net/?p=13764006)
 
 ---
 
 **[US FAA says it will phase out floppy disks from air traffic control by 2028](https://news.ycombinator.com/item?id=50388001)**
 
-⬆️ 403 • 💬 327 • 2d ago • [reuters.com](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
+⬆️ 403 • 💬 328 • 2d ago • [reuters.com](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
 
 ---
 
@@ -221,7 +223,7 @@ Cuban says he has been seeing his own face in scammy AI-generated ads for nonexi
 
 If acceleration compounds, the naive extrapolation implies superintelligence within a year
 
-⬆️ 364 • 💬 346 • 1d ago • [planned-obsolescence.org](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+⬆️ 370 • 💬 349 • 1d ago • [planned-obsolescence.org](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
 
 ---
 
@@ -246,7 +248,7 @@ I judged an Apart hackathon last weekend and reviewed eight papers, all of which
 
 Maybe the important exception is certain hill-climbing tasks with fast feedback loops. For example, I improved the SOTA on "listing all legal Scrabble moves" by 10x just by prompting Astra over and over to try harder, to aim for <specific performance level>, to "systematically try every me
 
-⬆️ 217 • 💬 217 • 2d ago • [lesswrong.com](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
+⬆️ 220 • 💬 219 • 2d ago • [lesswrong.com](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
 
 ---
 
@@ -260,7 +262,7 @@ Maybe the important exception is certain hill-climbing tasks with fast feedback 
 
 Academic libraries are fighting off swarms of data-scraping bots — that are slowing or crashing sites meant for students, researchers and the public — as AI companies continue hunting for content to feed their large language models.
 
-⬆️ 135 • 💬 63 • 1d ago • [CBC](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287)
+⬆️ 136 • 💬 62 • 1d ago • [CBC](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287)
 
 ---
 
@@ -274,7 +276,7 @@ Academic libraries are fighting off swarms of data-scraping bots — that are sl
 
 We analyzed 207,000 research sessions to learn how Claude is used in science, why some tasks get more use than others, and how AI could speed up discovery.
 
-⬆️ 101 • 💬 39 • 1d ago • [anthropic.com](https://www.anthropic.com/research/how-researchers-use-claude)
+⬆️ 101 • 💬 39 • 2d ago • [anthropic.com](https://www.anthropic.com/research/how-researchers-use-claude)
 
 ---
 
@@ -282,7 +284,7 @@ We analyzed 207,000 research sessions to learn how Claude is used in science, wh
 
 The S&P 500 fell 4.4% on 5 Nov 2026, its worst day since April 2025, and is 6% below its 6 Oct record. Charted day by day against 1987, 2008, Covid and other falls since 1950.
 
-⬆️ 90 • 💬 74 • 1d ago • [Company Tracker](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
+⬆️ 96 • 💬 79 • 1d ago • [Company Tracker](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
 
 ---
 
@@ -290,13 +292,23 @@ The S&P 500 fell 4.4% on 5 Nov 2026, its worst day since April 2025, and is 6% b
 
 ## YouTube Videos: "ai"
 
-**[Microsoft’s CEO Accidentally Exposed How the AI Bubble Bursts](https://www.youtube.com/watch?v=PSEZd2drPeU)**
+**[Did The AI Bubble Burst?](https://www.youtube.com/watch?v=US__9SxdLYA)**
 
-Check out "The Book" here for 10% off: https://mdsh.io/e3htzjwm8m (Use code: BRENDANDELL10) ______ SOURCES 1. Liaquat ...
+hmmm Subscribe: https://www.youtube.com/@LessonsInInternetCulture101 Music courtesy of Artlist.io #ai #technology ...
 
-📺 Brendan Dell 
+📺 Lessons in Internet Culture
 
-👁️ 72K • 👍 1K • 💬 381 • ⏱️ 19:18 • 15h ago
+👁️ 65K • 👍 4K • 💬 756 • ⏱️ 2:44 • 1h ago
+
+---
+
+**[I Found The ULTIMATE Open Source AI Studio](https://www.youtube.com/watch?v=4-h2518PZaA)**
+
+In this video I breakdown the best open source AI studio I have ever used called Imagination Studio. It's being called an open ...
+
+📺 Mark Gadala-Maria
+
+👁️ 31K • 👍 999 • 💬 34 • ⏱️ 13:42 • 14h ago
 
 ---
 
@@ -306,7 +318,37 @@ Has AI tackled a problem in physics that has been open for more than half-a-cent
 
 📺 World Science Festival
 
-👁️ 515K • 👍 5K • 💬 701 • ⏱️ 8:45 • 1d ago
+👁️ 544K • 👍 5K • 💬 724 • ⏱️ 8:45 • 1d ago
+
+---
+
+**[VOTERS Reject Trump AI and Data Center Grift and Wall Street Heads For The Exits...](https://www.youtube.com/watch?v=CYO9_8hzNDQ)**
+
+Popok, putting on his Wall Street hat, explains how fear of AI and Data Centers drove voters to the polls and influenced why they ...
+
+📺 Legal AF
+
+👁️ 74K • 👍 4K • 💬 192 • ⏱️ 11:02 • 18h ago
+
+---
+
+**[Tech Stocks Crash — AI Giants Now Want a Government Bailout](https://www.youtube.com/watch?v=IqhstV4q9Zg)**
+
+This past week witnessed a sharp stock-market sell-off widely attributed to growing doubts about the profitability and sustainability ...
+
+📺 The Jimmy Dore Show
+
+👁️ 100K • 👍 3K • 💬 998 • ⏱️ 10:02 • 20h ago
+
+---
+
+**[I Tested Uncensored AI... It Should Probably Be Illegal…](https://www.youtube.com/watch?v=bc7QaDmLmoA)**
+
+Hostinger (JACKROBERTS for 10% off): https://bit.ly/480mREa Free Starter Pack: https://bit.ly/4iDekfc Fish Audio: ...
+
+📺 Jack Roberts
+
+👁️ 72K • 👍 2K • 💬 91 • ⏱️ 22:43 • 17h ago
 
 ---
 
@@ -316,7 +358,7 @@ See what Optimizely's Virtual Teammates can automate for you at http://optimizel
 
 📺 Matt Wolfe
 
-👁️ 98K • 👍 2K • 💬 131 • ⏱️ 24:44 • 1d ago
+👁️ 102K • 👍 2K • 💬 138 • ⏱️ 24:44 • 1d ago
 
 ---
 
@@ -326,27 +368,7 @@ AI stocks have started to bounce back after a sell-off erased trillions of dolla
 
 📺 DW News
 
-👁️ 1.2M • 👍 6K • 💬 2K • ⏱️ 10:09 • 1d ago
-
----
-
-**[A.I. is &#39;overdue for guardrails&#39;: Fmr. investment banker on why tech sell-off may be needed](https://www.youtube.com/watch?v=sOb6nYpLq1Y)**
-
-Markets are open on Wall Street after a brutal tech sell-off yesterday. Former Wall Street investment banker Bill Cohan and former ...
-
-📺 MS NOW
-
-👁️ 27K • 👍 313 • 💬 96 • ⏱️ 9:55 • 1d ago
-
----
-
-**[Why AI stocks plunged after Democrats&#39; midterm wins](https://www.youtube.com/watch?v=ANZC8H-FnbA)**
-
-Following Democrats' midterm victories, AI stocks plunged as voters across the country rejected candidates and ballot measures ...
-
-📺 CNN
-
-👁️ 105K • 👍 2K • 💬 331 • ⏱️ 2:13 • 16h ago
+👁️ 1.3M • 👍 6K • 💬 2K • ⏱️ 10:09 • 1d ago
 
 ---
 
@@ -356,37 +378,17 @@ Following Democrats' midterm victories, AI stocks plunged as voters across the c
 
 📺 TheAIGRID
 
-👁️ 83K • 👍 1K • 💬 200 • ⏱️ 30:01 • 1d ago
+👁️ 87K • 👍 1K • 💬 204 • ⏱️ 30:01 • 1d ago
 
 ---
 
-**[Roman Yampolskiy Loses It With AI Expert](https://www.youtube.com/watch?v=EUMMxVRbI6A)**
+**[3 AI Video Generators for FREE &amp; UNLIMITED Videos](https://www.youtube.com/watch?v=mNsR_KfjZpY)**
 
-AI scientist Roman Yampolskiy warns there is a 99.9% chance artificial intelligence could wipe out humanity within a century.
+Turn your ideas into cinematic AI videos with Higgsfield → https://higgsfield.ai/s/malvaai-WYyAsH Free Prompt PDFs + AI ...
 
-📺 Nexus
+📺 Malva AI
 
-👁️ 94K • 👍 1K • 💬 1K • ⏱️ 26:36 • 2d ago
-
----
-
-**[The AI Alignment Problem &amp; Its Solutions, with Aza Raskin](https://www.youtube.com/watch?v=4Id5aTlYkHg)**
-
-Check any video before it fools you: run suspicious clips through Bitdefender RealCheck to see if it's a deepfake meant to scam ...
-
-📺 StarTalk
-
-👁️ 236K • 👍 4K • 💬 920 • ⏱️ 1:22:44 • 14h ago
-
----
-
-**[I Bought Obviously Fake AI Ads To See What I Get (Again)](https://www.youtube.com/watch?v=5Z4jFafRcr4)**
-
-i NEED to stop doing ts... follow me on instagram if you wanna keep up :) https://instagram.com/casterline.
-
-📺 John Casterline
-
-👁️ 82K • 👍 4K • 💬 571 • ⏱️ 19:33 • 14h ago
+👁️ 52K • 👍 769 • 💬 43 • ⏱️ 9:07 • 2d ago
 
 ---
 
@@ -402,7 +404,17 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 20,689 • ❤️ 1,170 • 9d ago
+⬇️ 22,854 • ❤️ 1,287 • 9d ago
+
+---
+
+**[DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)**
+
+*Colonel Panic*
+
+`text-generation` `9.4B`
+
+⬇️ 7,088 • ❤️ 729 • 10h ago
 
 ---
 
@@ -414,17 +426,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `image-text-to-text` `2780.1B`
 
-⬇️ 22,571 • ❤️ 1,654 • 2d ago
-
----
-
-**[DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)**
-
-*Colonel Panic*
-
-`text-generation` `9.4B`
-
-⬇️ 1,369 • ❤️ 578 • 3h ago
+⬇️ 25,569 • ❤️ 1,692 • 3d ago
 
 ---
 
@@ -436,7 +438,7 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 221,506 • ❤️ 881 • 2d ago
+⬇️ 254,053 • ❤️ 904 • 2d ago
 
 ---
 
@@ -448,7 +450,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,643,778 • ❤️ 11,023 • 27d ago
+⬇️ 2,661,026 • ❤️ 11,072 • 28d ago
 
 ---
 
@@ -458,7 +460,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `64.8B`
 
-⬇️ 3,803 • ❤️ 378 • 1d ago
+⬇️ 5,087 • ❤️ 385 • 1d ago
 
 ---
 
@@ -470,7 +472,7 @@ Numbat is a massive ~14T parameter, 114-layer causal language model featuring a 
 
 `6849.4B`
 
-⬇️ 9,212 • ❤️ 382 • 14d ago
+⬇️ 10,197 • ❤️ 385 • 14d ago
 
 ---
 
@@ -480,7 +482,7 @@ Numbat is a massive ~14T parameter, 114-layer causal language model featuring a 
 
 Sulphur-3 is a large language model developed by MiniMaxAI, designed for general-purpose text generation and understanding. Its key capabilities include advanced natural language processing tasks, making it suitable for a wide range of applications such as content creation, summarization, and conversational AI.
 
-⬇️ 997 • ❤️ 407 • 3d ago
+⬇️ 1,003 • ❤️ 412 • 3d ago
 
 ---
 
@@ -492,7 +494,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,813,215 • ❤️ 19,351 • 1d ago
+⬇️ 7,668,187 • ❤️ 19,375 • 1d ago
 
 ---
 
@@ -502,7 +504,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,545,313 • ❤️ 2,666 • 21d ago
+⬇️ 1,553,252 • ❤️ 2,682 • 21d ago
 
 ---
 
@@ -542,7 +544,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 64 • 💬 5 • ⭐ 47,250 • 15mo ago
+▲ 64 • 💬 5 • ⭐ 47,311 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -590,6 +592,20 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 ---
 
+**[Persistent Recursive Worlds Enable Autonomous Software Evolution](https://huggingface.co/papers/2608.10450)**
+
+*Beichen Huang, Zhenyu Liang, Bowen Zheng et al. (4 authors)*
+
+🏢 The Hong Kong Polytechnic University
+
+Genesis organizes long-horizon software development around a persistent project rather than persistent agents, enabling multi-day compiler construction and numerical module reimplementation with low cost and high performance.
+
+▲ 8 • 💬 2 • ⭐ 656 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.10450) • [💻 code](https://github.com/EMI-Group/genesis) • [🔗 project](https://genesis.evox.group/)
+
+---
+
 **[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
 
 *Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
@@ -601,20 +617,6 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 ▲ 103 • 💬 7 • ⭐ 30,853 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
-
----
-
-**[Persistent Recursive Worlds Enable Autonomous Software Evolution](https://huggingface.co/papers/2608.10450)**
-
-*Beichen Huang, Zhenyu Liang, Bowen Zheng et al. (4 authors)*
-
-🏢 The Hong Kong Polytechnic University
-
-Genesis organizes long-horizon software development around a persistent project rather than persistent agents, enabling multi-day compiler construction and numerical module reimplementation with low cost and high performance.
-
-▲ 8 • 💬 2 • ⭐ 552 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.10450) • [💻 code](https://github.com/EMI-Group/genesis) • [🔗 project](https://genesis.evox.group/)
 
 ---
 
@@ -638,7 +640,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 86 • 💬 7 • ⭐ 92,893 • 27mo ago
+▲ 86 • 💬 7 • ⭐ 92,922 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -654,7 +656,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 17.9k • 🔱 1.8k • 10d ago
+⭐ 18.0k • 🔱 1.8k • 10d ago
 
 ---
 
@@ -664,7 +666,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 11.5k • 🔱 632 • 6d ago
+⭐ 11.7k • 🔱 648 • 6d ago
 
 ---
 
@@ -674,7 +676,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 7.6k • 🔱 1.8k • 13h ago
+⭐ 7.7k • 🔱 1.8k • 20h ago
 
 ---
 
@@ -684,7 +686,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 7.0k • 🔱 625 • 14h ago
+⭐ 7.1k • 🔱 628 • 24m ago
 
 ---
 
@@ -694,7 +696,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 6.4k • 🔱 1.6k • 3d ago
+⭐ 6.4k • 🔱 1.6k • 4d ago
 
 ---
 
@@ -704,7 +706,7 @@ Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, 
 
 `Swift` `ai-agent` `airplay` `automation` `computer-use` `dsh-plugin`
 
-⭐ 4.6k • 🔱 636 • 6h ago
+⭐ 4.7k • 🔱 639 • 4h ago
 
 ---
 
@@ -714,27 +716,17 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 4.2k • 🔱 267 • 1d ago
+⭐ 4.2k • 🔱 271 • 1d ago
 
 ---
 
 **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)**
 
-Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。
+Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it.
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 3.8k • 🔱 542 • 5h ago
-
----
-
-**[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)**
-
-Google_AI_Pro_2Year_ZeroCost_Auto
-
-`Python`
-
-⭐ 3.1k • 🔱 1.2k • 2d ago
+⭐ 4.0k • 🔱 568 • 3h ago
 
 ---
 
@@ -744,7 +736,17 @@ Google_AI_Pro_2Year_ZeroCost_Auto
 
 `TypeScript` `adversarial-ai` `claude-code` `cursor` `electron-security` `llm-security`
 
-⭐ 3.0k • 🔱 384 • 4m ago
+⭐ 3.3k • 🔱 419 • 1m ago
+
+---
+
+**[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)**
+
+Google_AI_Pro_2Year_ZeroCost_Auto
+
+`Python`
+
+⭐ 3.2k • 🔱 1.2k • 2d ago
 
 ---
 

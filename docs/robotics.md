@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-08T06:57:36.642750+00:00'
+updated: '2026-11-08T14:11:17.082779+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 08, 2026 at 06:57 UTC  
+**Last Updated:** November 08, 2026 at 14:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D
 
-2d ago
+3d ago
 
 ---
 
@@ -116,25 +116,17 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 ## Google News: "robotics"
 
-**[Oregon robotics company has volatile debut on Wall Street](https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-companys-stock-slides-on-first-day-of-trading.html)**
+**[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
 
-OregonLive.com • 2d ago
-
----
-
-**[Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)**
-
-US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.
-
-Ars Technica • 2d ago
+Reuters • 1d ago
 
 ---
 
-**[Six humanoid robots in China work 24-hour shift in a store, two fail assessment](https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete)**
+**[Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again](https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html)**
 
-Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment.
+Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.
 
-Interesting Engineering • 13h ago
+CNBC • 1h ago
 
 ---
 
@@ -142,47 +134,59 @@ Interesting Engineering • 13h ago
 
 Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’
 
-The Guardian • 16h ago
-
----
-
-**[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
-
-Reuters • 21h ago
+The Guardian • 1d ago
 
 ---
 
 **[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/07/china-blocks-54-billion-abb-robotics-deal-with-billionaire-masayoshi-sons-softbank/)**
 
-Forbes • 15h ago
+Forbes • 22h ago
 
 ---
 
-**[SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal](https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal)**
+**[This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck](https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck)**
 
-Bloomberg.com • 22h ago
+Watching a hand walk away on its fingers brings to mind Thing from The Addams Family.
+
+ScienceAlert • 4h ago
 
 ---
 
 **[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
 
-Financial Times • 1d ago
+Financial Times • 2d ago
 
 ---
 
-**[Meet the 20-something Brooklyn whiz kids building robots NASA will send to space next year](https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/)**
+**[Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable.](https://www.businessinsider.com/peggy-johnson-took-robots-to-wall-street-they-turn-profit-2026-11)**
 
-“We have big ambitions,” says Icarus Robotics co-founder Jamie Palmer, 26.
+Peggy Johnson rose through Qualcomm, became Microsoft's chief dealmaker, and led Magic Leap. Now she's trying to turn humanoid robots into a business.
 
-New York Post • 1d ago
+Business Insider • 4h ago
 
 ---
 
-**[Serve Robotics Inc (SERV) Q3 2026 Earnings Call Highlights: Revenue Surges Over 300% as ...](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-inc-serv-q3-052023243.html)**
+**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
 
-Serve Robotics Inc (SERV) beat Q3 revenue expectations, lifted full-year 2026 guidance to $12 million, and unveiled a new high-margin physical AI services business despite a widening GAAP net loss.
+Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
 
-Yahoo Finance • 2d ago
+GeekWire • 2d ago
+
+---
+
+**[Six humanoid robots in China work 24-hour shift in a store, two fail assessment](https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete)**
+
+Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment.
+
+Interesting Engineering • 20h ago
+
+---
+
+**[Pakistan-built robots serve taste of future to Karachi diners](https://www.dawn.com/news/2043044)**
+
+The robots are proving a hit with families, who flock to the restaurant to watch the machines in action.
+
+Dawn • 2h ago
 
 ---
 
@@ -196,7 +200,7 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 128K • 👍 2K • 💬 376 • ⏱️ 15:13 • 1d ago
+👁️ 131K • 👍 2K • 💬 381 • ⏱️ 15:13 • 2d ago
 
 ---
 
@@ -206,75 +210,7 @@ This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https:/
 
 📺 Unstoppable Gadgets
 
-👁️ 45K • 👍 877 • 💬 23 • ⏱️ 0:21 • 2d ago
-
----
-
-**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
-
-https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
-
-📺 Casey.aicreates
-
-👁️ 16K • 👍 770 • 💬 29 • ⏱️ 1:44 • 1d ago
-
----
-
-**[IO #robot #robotics #robotdance #minions #shorts #shortvideo](https://www.youtube.com/watch?v=5h2uOWYC-6g)**
-
-📺 SirNex Tv
-
-👁️ 1K • 👍 15 • ⏱️ 0:29 • 4h ago
-
----
-
-**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
-
-Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
-
-📺 NextGen Humanoids
-
-👁️ 22K • 👍 167 • 💬 28 • ⏱️ 8:50 • 5d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
-
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 144K • 👍 954 • 💬 119 • ⏱️ 9:12 • 5d ago
-
----
-
-**[Why This Robot Runs Its AI on Board](https://www.youtube.com/watch?v=3do6Tbmda7c)**
-
-Why does this factory robot run its AI on board? I asked Jarad Cannon, CTO of Humanoid, what happens when a whole fleet of ...
-
-📺 David Bombal
-
-👁️ 5K • 👍 207 • 💬 14 • ⏱️ 2:51 • 14h ago
-
----
-
-**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
-
-Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
-
-📺 Mahdi Designs
-
-👁️ 214K • 👍 3K • 💬 318 • ⏱️ 15:06 • 5d ago
-
----
-
-**[Learn Physical AI with this $300 Robot Arm Kit! (SO-101 Tutorial)](https://www.youtube.com/watch?v=Q4p03s60MQQ)**
-
-Get Your SO-101 Robot Arm Kit Today ($30 OFF after checkout with my link): ...
-
-📺 Kevin Wood | Robotics & AI
-
-👁️ 19K • 👍 312 • 💬 21 • ⏱️ 25:20 • 2d ago
+👁️ 59K • 👍 1K • 💬 26 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -284,7 +220,77 @@ America Doesn't Know What's Coming...China's Robot are... China is building the 
 
 📺 Living in China
 
-👁️ 101K • 👍 2K • 💬 169 • ⏱️ 7:07 • 2d ago
+👁️ 108K • 👍 2K • 💬 169 • ⏱️ 7:07 • 3d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 145K • 👍 964 • 💬 120 • ⏱️ 9:12 • 5d ago
+
+---
+
+**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
+
+https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
+
+📺 Casey.aicreates
+
+👁️ 17K • 👍 823 • 💬 30 • ⏱️ 1:44 • 1d ago
+
+---
+
+**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
+
+Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
+
+📺 NextGen Humanoids
+
+👁️ 22K • 👍 169 • 💬 28 • ⏱️ 8:50 • 5d ago
+
+---
+
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
+
+Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
+
+📺 Mahdi Designs
+
+👁️ 222K • 👍 3K • 💬 322 • ⏱️ 15:06 • 5d ago
+
+---
+
+**[Build Your Own AI Robot Companion!](https://www.youtube.com/watch?v=PRxfqi3zWvw)**
+
+Build your own AI Robot Companion! Create your own smart AI robot that can interact with you, respond to sounds, and express ...
+
+📺 MW Electronics Lab
+
+👁️ 82K • 💬 11 • ⏱️ 0:05 • 4d ago
+
+---
+
+**[Learn Physical AI with this $300 Robot Arm Kit! (SO-101 Tutorial)](https://www.youtube.com/watch?v=Q4p03s60MQQ)**
+
+Get Your SO-101 Robot Arm Kit Today ($30 OFF after checkout with my link): ...
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 20K • 👍 349 • 💬 22 • ⏱️ 25:20 • 3d ago
+
+---
+
+**[When Robots Take on a Mountain, Things Get WILD!](https://www.youtube.com/watch?v=ybCxZWkJvXU)**
+
+Some robots are being led uphill on leashes, others are stumbling backward, and one even has to be carried away on a stretcher!
+
+📺 TECH MOMENTS
+
+👁️ 8K • 👍 34 • 💬 2 • ⏱️ 0:22 • 5d ago
 
 ---
 

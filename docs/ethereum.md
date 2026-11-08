@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-08T06:57:36.640527+00:00'
+updated: '2026-11-08T14:11:17.079452+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 08, 2026 at 06:57 UTC  
+**Last Updated:** November 08, 2026 at 14:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,232.79
+### $2,232.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -0.9%  
-**30d:** -10.9%  
-**90d:** +18.6%  
-**1y:** -37.7%  
+**24h:** +0.1%  
+**7d:** -0.7%  
+**30d:** -10.7%  
+**90d:** +18.9%  
+**1y:** -37.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.58B
+**Market Cap:** $273.14B
 Rank #2
 
 **Circulating Supply:** 122,200,877 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.9%
+-54.8%
 
 **All-Time Low:** $0.43
-+515070.5%
++516128.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Explore how Ethereum's open, global network can support digital public infrastructure, verifiable records, and coordination across institutions without a central operator.
 
-🔗 [Ethereum for digital public infrastructure](https://publicsector.ethereum.foundation/) • 4d ago
+🔗 [Ethereum for digital public infrastructure](https://publicsector.ethereum.foundation/) • 5d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people seem to hold ETH as an investment, while USDT and USDC are increasingly being used for transfers and everyday payments. With more ways to spend crypto in real life now, I'm curious if anyone here pays with ETH or prefers using stablecoins. Do you think ETH will ever be widely used for everyday purchases or will stablecoins take that role?
 
-5d ago
+6d ago
 
 ---
 
@@ -152,11 +152,25 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 ## Google News: "ethereum"
 
+**[Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum](https://beincrypto.com/ansem-zcash-price-weakness-bitcoin/)**
+
+BeInCrypto • 13h ago
+
+---
+
 **[Crypto foundation demanded employees endorse suicide pledge, then fired leaders who objected, Colorado lawsuit alleges](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)**
 
 On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership’s vision for the foundation for the next 1,000 years.
 
-The Denver Post • 1d ago
+The Denver Post • 2d ago
+
+---
+
+**[In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin](https://www.fool.com/investing/2026/11/07/in-5-years-one-of-these-cryptocurrencies-could-be/)**
+
+If Bitcoin hits one serious snag in particular, a few of its smaller competitors might have a shot at overcoming it.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -168,6 +182,14 @@ ethereum.org • 1d ago
 
 ---
 
+**[Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading](https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/)**
+
+Russia's final Bitcoin, Ethereum, and USDT rules take effect Nov. 17, with retail purchase limits and testing.
+
+CryptoSlate • 1d ago
+
+---
+
 **[Where Will Ethereum Be in 3 Years?](https://finance.yahoo.com/markets/crypto/articles/where-ethereum-3-years-190100780.html)**
 
 Ethereum isn't broken; it's just slow. Here's why that matters over the next three years.
@@ -176,11 +198,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading](https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/)**
+**[Vitalik Buterin wants ETH to be a store of value, not a fee-burning token](https://cryptobriefing.com/vitalik-buterin-eth-store-of-value/)**
 
-Russia's final Bitcoin, Ethereum, and USDT rules take effect Nov. 17, with retail purchase limits and testing.
+Vitalik Buterin says Ethereum should prioritize ETH as a store of value over fee burning, warning aggressive burns could risk centralization.
 
-CryptoSlate • 1d ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -192,43 +214,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[How Low Could Bitcoin, Ethereum, and XRP Go If Crypto Keeps Dumping?](https://coinpedia.org/news/how-low-could-bitcoin-ethereum-and-xrp-go-if-crypto-keeps-dumping/)**
-
-Since the start of this month, the global crypto market has lost more than $180 billion, bringing its total value down to $2.64 trillion. The drop comes
-
-Coinpedia • 13h ago
-
----
-
-**[Zilliqa: Builds vLEI Layer for Agentic Finance on Ethereum](https://blockchain.news/flashnews/zilliqa-builds-vlei-layer-agentic-finance-ethereum)**
-
-Zilliqa detailed its push to establish verified legal entity identity infrastructure on Ethereum so AI agents can trade and settle on behalf of regulated...
-
-Blockchain News • 1d ago
-
----
-
-**[Grayscale says Ethereum leads smart contract platforms in stablecoins and tokenized assets](https://cryptobriefing.com/grayscale-ethereum-leads-stablecoins-tokenized-assets/)**
-
-Grayscale Research says Ethereum leads smart contract platforms with nearly $140 billion in stablecoins and about 40% of tokenized assets.
-
-Crypto Briefing • 14h ago
-
----
-
-**[Is XRP a Good Investment Right Now at $1.18?](https://247wallst.com/investing/cryptocurrency/2026/11/06/is-xrp-a-good-investment-right-now-at-1-18/)**
-
-XRP trades at $1.18, down sharply in 2026. Here's what needs to happen for it to reach $2 again and whether it's a smart investment now.
-
-24/7 Wall St. • 1d ago
-
----
-
 **[Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow](https://finance.yahoo.com/markets/stocks/articles/bitmine-resumes-stock-buybacks-ethereum-144900850.html)**
 
 Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ...
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.](https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/)**
+
+If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom.
+
+The Motley Fool • 3d ago
 
 ---
 
@@ -242,7 +240,17 @@ CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 1K • 💬 114 • ⏱️ 28:10 • 8h ago
+👁️ 67K • 👍 2K • 💬 152 • ⏱️ 28:10 • 16h ago
+
+---
+
+**[Tom Lee :&quot;This is Why ETH Is Going To $62,000 Per Coin, 1 ETH Will Be Huge!&quot;](https://www.youtube.com/watch?v=4H7pVbT5wRk)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 51 • 💬 39 • ⏱️ 20:56 • 9h ago
 
 ---
 
@@ -252,7 +260,7 @@ Ethereum could move before Bitcoin and lead the altcoin market out of this pullb
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 4K • 👍 246 • 💬 35 • ⏱️ 10:11 • 6h ago
+👁️ 8K • 👍 338 • 💬 46 • ⏱️ 10:11 • 13h ago
 
 ---
 
@@ -262,47 +270,7 @@ I can almost guarantee only 5% of you rememeber which blockchains Visa and Maste
 
 📺 Money Rules - Investing Tips 
 
-👁️ 37K • 👍 2K • 💬 321 • ⏱️ 11:45 • 18h ago
-
----
-
-**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=j5Wr41xwS7U)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 198 • 💬 107 • ⏱️ 23:30 • 14h ago
-
----
-
-**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
-
-Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain.
-
-📺 The Rollup
-
-👁️ 22K • 👍 287 • 💬 5 • ⏱️ 9:00 • 2d ago
-
----
-
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 109 • 💬 63 • ⏱️ 23:50 • 1d ago
-
----
-
-**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 17K • 👍 302 • 💬 74 • ⏱️ 10:12 • 2d ago
+👁️ 40K • 👍 2K • 💬 461 • ⏱️ 11:45 • 1d ago
 
 ---
 
@@ -312,7 +280,37 @@ Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:3
 
 📺 Thomas Sutton
 
-👁️ 6K • 👍 47 • 💬 31 • ⏱️ 5:59 • 22h ago
+👁️ 6K • 👍 58 • 💬 37 • ⏱️ 5:59 • 1d ago
+
+---
+
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 110 • 💬 63 • ⏱️ 23:50 • 1d ago
+
+---
+
+**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
+
+Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain. Arthur ...
+
+📺 The Rollup
+
+👁️ 23K • 👍 291 • 💬 5 • ⏱️ 9:00 • 2d ago
+
+---
+
+**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=j5Wr41xwS7U)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 11K • 👍 218 • 💬 109 • ⏱️ 23:30 • 21h ago
 
 ---
 
@@ -322,17 +320,17 @@ How much Bitcoin and XRP do you think these companies and banks will own by the 
 
 📺 The Modern Investor
 
-👁️ 8K • 👍 609 • 💬 102 • ⏱️ 30:21 • 20h ago
+👁️ 8K • 👍 622 • 💬 106 • ⏱️ 30:21 • 1d ago
 
 ---
 
-**[Ripple And XRP Are Making Major Moves And No One Notices Ethereum Is About To Become Mainstream](https://www.youtube.com/watch?v=ZInfCw1FagQ)**
+**[I sold my Ethereum, here’s why](https://www.youtube.com/watch?v=mcrJu_BYqMw)**
 
-Everyone out there is going to miss out on whats going on and its a shame. The cryptocurrency market has never seen this much ...
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
-📺 The Modern Investor
+📺 Lark Davis
 
-👁️ 10K • 👍 756 • 💬 271 • ⏱️ 33:44 • 1d ago
+👁️ 18K • 👍 310 • 💬 76 • ⏱️ 10:12 • 2d ago
 
 ---
 
