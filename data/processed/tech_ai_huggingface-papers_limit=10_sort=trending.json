@@ -16,7 +16,7 @@
       "num_comments": 10,
       "published_at": "2025-08-26T13:09:12.000Z",
       "github_repo": "https://github.com/microsoft/VibeVoice",
-      "github_stars": 56619,
+      "github_stars": 56706,
       "project_page": "https://microsoft.github.io/VibeVoice/"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 121139,
+      "github_stars": 121221,
       "project_page": null
     },
     {
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2508.02739",
       "arxiv_url": "https://arxiv.org/abs/2508.02739",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
-      "upvotes": 63,
+      "upvotes": 64,
       "num_comments": 5,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 47149,
+      "github_stars": 47250,
       "project_page": null
     },
     {
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2610.22732",
       "arxiv_url": "https://arxiv.org/abs/2610.22732",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22732.png",
-      "upvotes": 13,
+      "upvotes": 14,
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 4930,
+      "github_stars": 4955,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 23009,
+      "github_stars": 23053,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 16799,
+      "github_stars": 16816,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 30832,
+      "github_stars": 30853,
       "project_page": null
     },
     {
@@ -172,26 +172,26 @@
       "project_page": null
     },
     {
-      "id": "2611.04894",
-      "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
-      "authors": "ZhengXian Wu, Qianhao Nie, Zhuohong Chen et al. (13 authors)",
-      "organization_name": "antgroup",
-      "organization_fullname": "Ant Group",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/662e1f9da266499277937d33/7VcPHdLSGlged3ixK1dys.jpeg",
-      "summary": "Multimodal agents use web and image tools to answer questions beyond their internal knowledge. Some search tasks use images mainly to identify an initial entity, then rely on text retrieval. These tasks offer limited insight into how agents connect information across images, objects, and search steps. We therefore focus on visual context management. This involves organizing and using visual information and linking it to other findings during search. Visually intensive tasks require agents to combine object appearance, local details, or spatial relations with external information. We introduce VisSearch-Bench, with 204 human-written tasks across 7 main domains and 25 subdomains. It covers Set-wise Visual Search, Sequential Visual Search, Hybrid Wide-Deep Search, Competitive Visual Disambiguation, and Visual-Structure-Guided Search. Each task provides a reference answer, traceable evidence, and scoring rules. Accuracy measures complete task success, while Process Score measures the correctness and completeness of individual results and subquestion answers. Across 16 multimodal models, the best system fully solves only 26.47% of tasks, even with search tools. These results highlight the challenge of linking visual evidence with search results to produce complete answers.",
-      "ai_summary": "VisSearch-Bench evaluates multimodal agents on visually intensive search tasks that require integrating visual context with external information, showing that even the best system fully solves only 26.47% of tasks.",
-      "hf_url": "https://huggingface.co/papers/2611.04894",
-      "arxiv_url": "https://arxiv.org/abs/2611.04894",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.04894.png",
-      "upvotes": 20,
-      "num_comments": 3,
-      "published_at": "2026-11-02T19:00:00.000Z",
-      "github_repo": "https://github.com/antins-labs/VisSearch-Bench-v1",
-      "github_stars": 59,
-      "project_page": "https://dingwu1021.github.io/VisSearch-Bench/"
+      "id": "2407.16741",
+      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
+      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
+      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2407.16741",
+      "arxiv_url": "https://arxiv.org/abs/2407.16741",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
+      "upvotes": 86,
+      "num_comments": 7,
+      "published_at": "2024-07-23T13:50:43.000Z",
+      "github_repo": "https://github.com/opendevin/opendevin",
+      "github_stars": 92893,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-08T00:50:34.978918+00:00"
+  "fetched_at": "2026-11-08T06:57:24.406417+00:00"
 }

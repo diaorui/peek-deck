@@ -5,14 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Serve Robotics launches new business to become the AWS for robots",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BDTjhHVkwweU9jY0FBeEhpcWxIanNXa3QzLThVVEZ0cjl6S0tYZmFBeWxkRFI0T0xGcHlLR0psVUh4ekctWVE1NzJrMFVYWEl3MDBOdWg1NXdoT0duY2dMaU9xaTlyWmN5SXU4VldtZVJwNTRJUVA0YTZkV25UbjJtN1hWTXBfbmRhU1hxaU1LRlFtYjZ0eU9LcWJoZkhpZEE?oc=5",
-      "pub_date": 1793913300.0,
-      "article_url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
-      "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools."
+      "headline": "Oregon robotics company has volatile debut on Wall Street",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHFpVUVzQzlVUG0wM0laczJ1R1JKdW1ubWF0cjE5a0VTdEx3cHlGSDBVc0ZnNjRPOGpQZ09iRHZLNkhQX1ZhSkxZV1BtU0JxVDM2d2wycDBOWmhrTlpRT2pPbDBsUjJGNGNJVENhMTBYMEhpNXRCb3hIbHU4NzkzUmV1SXpmYTdzTno4YmpFNXpSOGlBWGlreWVpVlBNT2ZQbE50aU5RbjFuTjczSnlQZTFraldpLVU?oc=5",
+      "pub_date": 1793914680.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-companys-stock-slides-on-first-day-of-trading.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Agility Robotics\u2019 Nasdaq debut invites scrutiny of humanoid robot market",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmp2QnJjbUhiWkhTQmhfZzgydGJIS1g3QkZsVnVyYjJvV19xUWpMVkNwS0dyWXBoOU56WThDRVZPMGk4cTExY1lEQTZaREtVNDdiSjB0a3NNOEtTb1F2MHg3aHJBdkN0V1RWTWhVUWRONmRkM1JrY29NeDBzZkw3ZFh1U2c0cV9KcGg3X0VHamxONS1yNk9oWU03dEs0TFNyM2FDTG1NVGpVZFU?oc=5",
+      "pub_date": 1793880041.0,
+      "article_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
+      "description": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
+    },
+    {
+      "headline": "Six humanoid robots in China work 24-hour shift in a store, two fail assessment",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUjF2bTdpdzNYcWlzanYtdmlrc3hFOEdCZnFkU0tIMGlrdFJJX0ZKUkFCaFk5ZGRISTJ4Y19JakdIeVc4MVFrSUlTZWNTa1BlOTBKRUtVUDBWWHZlM2xNekh3aWxoeU9iTTBUNGZNYkV3RmJLcF9yZThNZ05CbktQMFZJcFE3ei1XcFE?oc=5",
+      "pub_date": 1794074100.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Agibot.jpg",
+      "description": "Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment."
     },
     {
       "headline": "Standing in the way of slop bowls: the woman blocking food delivery robots",
@@ -35,22 +55,22 @@
       "description": null
     },
     {
-      "headline": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWhOZ29fWXk2aERCZC1HVmhTY0k3VjFfV1pGZGpuengxTEdRNndXX2NHNWtXdXozbzFuRmE5QWtpT3lqZVEtQ21NZHdpS2NiOHB4d05SUUI3MVcyMkhJS0QtQlhRM3JTU0dITkhobG1fQ2NxaUE5QjZYeVA5Q2xfUXRvdHdYX2NiVWZMMkV4WDdGSjd1QXc5czFLNDFNc0NSdFJBcjducXc1ZERUR1pv?oc=5",
-      "pub_date": 1794040766.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son\u2019s SoftBank",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR3JmZnpkSnhkN0lYVzhyVHhGRm1BMWJaZVNPUGt4M1RJZ2R1b3JJUmdkOGpoNnY0LWFzbjhoaDhVMlJXOEFlSW15alo4ZVNHekFGczktem52Q0JNZGZ1TzFCN2J4cWVQZFI2R0ZpZU9ETHNraDFnaWN5QlFiZC1zWXFReUN2Mm95T0M4azJ5SFRybDZ6bFFpSVB2YkVLekhOQXJpNGJ2cVNmVjJBenJfSFI5LVF5QmdIM2VoT2JaNkEtN1pmcENLTU9sNnB3UQ?oc=5",
       "pub_date": 1794065160.0,
       "article_url": "https://www.forbes.com/sites/iansayson/2026/11/07/china-blocks-54-billion-abb-robotics-deal-with-billionaire-masayoshi-sons-softbank/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWhOZ29fWXk2aERCZC1HVmhTY0k3VjFfV1pGZGpuengxTEdRNndXX2NHNWtXdXozbzFuRmE5QWtpT3lqZVEtQ21NZHdpS2NiOHB4d05SUUI3MVcyMkhJS0QtQlhRM3JTU0dITkhobG1fQ2NxaUE5QjZYeVA5Q2xfUXRvdHdYX2NiVWZMMkV4WDdGSjd1QXc5czFLNDFNc0NSdFJBcjducXc1ZERUR1pv?oc=5",
+      "pub_date": 1794040766.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
       "image": null,
       "description": null
     },
@@ -65,46 +85,26 @@
       "description": null
     },
     {
-      "headline": "Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHl1UXVmSUktSXl4cy1OWFJaMDJSSTRTLTZwRmRMcUp4dVJONjBlRXA2NUliN0FkR3d0dFlrdU4xZ0tHOHliUzRJUTZvWm9sYUxHOW5pY0MzZVpYUTdsVjNFSnYtdEhQcXA1TDJvV3ZKWWpFMlhzck1DWEgtQVd3RlZzc2hqaGh5QjRsSmVSTUhLYWY0ajdxNU1pcUZ3d180VGdmSGtOSWVvMjRaVHFDUzR4emNBUFBFTU1TRjFB?oc=5",
-      "pub_date": 1793933696.0,
-      "article_url": "https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/hurst-digit5-lead.jpg",
-      "description": "Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people."
+      "headline": "Meet the 20-something Brooklyn whiz kids building robots NASA will send to space next year",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUlMQjYwWWZfYkdXa1pGVk5HVGljby1qQlJfbGFBZVhFU2hYcVpIQzdQeU9FdWdZTEFoMkhUMHA2anItMTFPSEdSMDlzT2ZKUGhXZXBRZTFNRkQ2SjJNNEJiWlctbkNOLWZjUUtweEo5S3VQOFRtakJCWlpQZGRoWGxmLTMtZTN4MDRpN1VoY01RN3ZweTVzTWZHVHlWUQ?oc=5",
+      "pub_date": 1793986620.0,
+      "article_url": "https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-iebfzz08i-1793986550429.jpg?quality=75&strip=all&1793968563&w=1200",
+      "description": "\u201cWe have big ambitions,\u201d says Icarus Robotics co-founder Jamie Palmer, 26."
     },
     {
-      "headline": "The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGJHUFZXc2xYc0dDSHdkaHhicmpzZldYU0lua0ZzWk5mU2RpU3E0b3hpR0o0MUIybmE0ZFRZZ3M2bEtBVWV0RjhjY3dmVTloRE9OZkhPOE9vS3RJMlVvVlpVY2RCU2VRa2JZWWczVXRZeFg5QTV0SERPOTVhMk90dkFDS3hYcXFwRXRnRENqWFZrcDJDVW9ORm4yTmE5TDlGU3RBb0FOdlJXd1V2bGc?oc=5",
-      "pub_date": 1794052836.0,
-      "article_url": "https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241434981/image_2241434981.jpg?io=getty-c-w630",
-      "description": "Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play."
-    },
-    {
-      "headline": "Six humanoid robots in China work 24-hour shift in a store, two fail assessment",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUjF2bTdpdzNYcWlzanYtdmlrc3hFOEdCZnFkU0tIMGlrdFJJX0ZKUkFCaFk5ZGRISTJ4Y19JakdIeVc4MVFrSUlTZWNTa1BlOTBKRUtVUDBWWHZlM2xNekh3aWxoeU9iTTBUNGZNYkV3RmJLcF9yZThNZ05CbktQMFZJcFE3ei1XcFE?oc=5",
-      "pub_date": 1794074100.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Agibot.jpg",
-      "description": "Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment."
-    },
-    {
-      "headline": "New Jersey high school students teach robotics to a school in Kenya - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrZExYejVTUXdsNGg1NXIwdWRYYmhoQ1RXOW9wbENEYmJhRlBKSDdGNl9mRFg3aW1CbnlCTDRhdlBhMC1DM1hhaGZqajI?oc=5",
-      "pub_date": 1794002576.0,
-      "article_url": "https://abcnews.com/video/137927944/",
-      "image": "https://i.abcnewsfe.com/a/552c1072-d002-4b1c-a64e-311d57794df6/261106_Teaching_robots_in_Kenya_schools_2_vert_hpMain_16x9.jpg",
-      "description": "New Jersey high school students partnered with a nonprofit to bring robotics education to The Grace School in Kenya, where students have limited access to STEM resources."
+      "headline": "Serve Robotics Inc (SERV) Q3 2026 Earnings Call Highlights: Revenue Surges Over 300% as ...",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajd1cHVxRlFFN05fUTBORUFqcWFqYWczdEVxenN2X1ItbU1kV0hmWHdTVkF5eHU3QlZHZGQtdEs4MHdzWlJiNU8wYlduYk80UkNPR3BrWnE0b0llNERNNjJGaFFvRm5PSlVyUDY1M2Rzd3d4QkR3dE1UVko1NVFoUldZWEpuUUNseHU0WVplelI3MkxNbkE?oc=5",
+      "pub_date": 1793942400.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-inc-serv-q3-052023243.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Serve Robotics Inc (SERV) beat Q3 revenue expectations, lifted full-year 2026 guidance to $12 million, and unveiled a new high-margin physical AI services business despite a widening GAAP net loss."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-08T00:50:55.800508+00:00"
+  "fetched_at": "2026-11-08T06:57:34.995713+00:00"
 }
