@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-08T00:50:57.895289+00:00'
+updated: '2026-11-08T06:57:36.640527+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 08, 2026 at 00:50 UTC  
+**Last Updated:** November 08, 2026 at 06:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,225.69
+### $2,232.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -0.8%  
-**30d:** -10.8%  
-**90d:** +18.7%  
+**24h:** -0.6%  
+**7d:** -0.9%  
+**30d:** -10.9%  
+**90d:** +18.6%  
 **1y:** -37.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.87B
+**Market Cap:** $272.58B
 Rank #2
 
-**Circulating Supply:** 122,197,894 ETH
+**Circulating Supply:** 122,200,877 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -54.9%
 
 **All-Time Low:** $0.43
-+515640.9%
++515070.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -88,7 +88,7 @@ Explore how Ethereum's open, global network can support digital public infrastru
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -104,7 +104,7 @@ Most people seem to hold ETH as an investment, while USDT and USDC are increasin
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -120,7 +120,7 @@ My Geth node had a publicly listening MPTCP socket. Disabling MPTCP didn't close
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -144,7 +144,7 @@ From the original post on x: Quantum computing poses a serious threat to the cry
 
 So the thing is I bought a devcon ticket but it seems like I won't be able to attend due to some emergency situation...in case anyone's willing to buy one for a discounted price, we can discuss Win win for both
 
-6d ago
+7d ago
 
 ---
 
@@ -176,6 +176,14 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading](https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/)**
+
+Russia's final Bitcoin, Ethereum, and USDT rules take effect Nov. 17, with retail purchase limits and testing.
+
+CryptoSlate • 1d ago
+
+---
+
 **[1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee](https://www.fool.com/investing/2026/11/06/1-cryptocurrency-buy-soars-11000-bitmines-tom-lee/)**
 
 Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors.
@@ -184,27 +192,27 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading](https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/)**
-
-Russia's final Bitcoin, Ethereum, and USDT rules take effect Nov. 17, with retail purchase limits and testing.
-
-CryptoSlate • 20h ago
-
----
-
 **[How Low Could Bitcoin, Ethereum, and XRP Go If Crypto Keeps Dumping?](https://coinpedia.org/news/how-low-could-bitcoin-ethereum-and-xrp-go-if-crypto-keeps-dumping/)**
 
 Since the start of this month, the global crypto market has lost more than $180 billion, bringing its total value down to $2.64 trillion. The drop comes
 
-Coinpedia • 6h ago
+Coinpedia • 13h ago
 
 ---
 
-**[Ethereum Whale: Buys 8,775 ETH at $2,245](https://blockchain.news/flashnews/ethereum-whale-buys-8-775-eth-2-245)**
+**[Zilliqa: Builds vLEI Layer for Agentic Finance on Ethereum](https://blockchain.news/flashnews/zilliqa-builds-vlei-layer-agentic-finance-ethereum)**
 
-Whale tracked by @EmberCN adds 8,775 ETH for 19.7 million USDT at $2,245 after June purchase of 10,376 ETH at $1,626, now holding 23,097 ETH with average...
+Zilliqa detailed its push to establish verified legal entity identity infrastructure on Ethereum so AI agents can trade and settle on behalf of regulated...
 
 Blockchain News • 1d ago
+
+---
+
+**[Grayscale says Ethereum leads smart contract platforms in stablecoins and tokenized assets](https://cryptobriefing.com/grayscale-ethereum-leads-stablecoins-tokenized-assets/)**
+
+Grayscale Research says Ethereum leads smart contract platforms with nearly $140 billion in stablecoins and about 40% of tokenized assets.
+
+Crypto Briefing • 14h ago
 
 ---
 
@@ -216,19 +224,11 @@ XRP trades at $1.18, down sharply in 2026. Here's what needs to happen for it to
 
 ---
 
-**[Grayscale says Ethereum leads smart contract platforms in stablecoins and tokenized assets](https://cryptobriefing.com/grayscale-ethereum-leads-stablecoins-tokenized-assets/)**
+**[Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow](https://finance.yahoo.com/markets/stocks/articles/bitmine-resumes-stock-buybacks-ethereum-144900850.html)**
 
-Grayscale Research says Ethereum leads smart contract platforms with nearly $140 billion in stablecoins and about 40% of tokenized assets.
+Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ...
 
-Crypto Briefing • 8h ago
-
----
-
-**[Ethereum’s decentralization model is the answer to an AI arms race: Vitalik Buterin](https://ambcrypto.com/ethereums-decentralization-model-is-the-answer-to-ai-arms-race-vitalik-buterin/)**
-
-Ethereum’s decentralization could strengthen its long-term value as AI risks increase demand for open infrastructure.
-
-AMBCrypto • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -242,17 +242,17 @@ CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 654 • 💬 68 • ⏱️ 28:10 • 2h ago
+👁️ 43K • 👍 1K • 💬 114 • ⏱️ 28:10 • 8h ago
 
 ---
 
-**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
+**[You&#39;re Not Ready For ETH&#39;s Come Back](https://www.youtube.com/watch?v=x1EFpB251gE)**
 
-Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain. Arthur ...
+Ethereum could move before Bitcoin and lead the altcoin market out of this pullback. That's my thesis in this Sunday deep dive, ...
 
-📺 The Rollup
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 21K • 👍 278 • 💬 5 • ⏱️ 9:00 • 2d ago
+👁️ 4K • 👍 246 • 💬 35 • ⏱️ 10:11 • 6h ago
 
 ---
 
@@ -262,7 +262,7 @@ I can almost guarantee only 5% of you rememeber which blockchains Visa and Maste
 
 📺 Money Rules - Investing Tips 
 
-👁️ 32K • 👍 2K • 💬 298 • ⏱️ 11:45 • 12h ago
+👁️ 37K • 👍 2K • 💬 321 • ⏱️ 11:45 • 18h ago
 
 ---
 
@@ -272,7 +272,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 161 • 💬 73 • ⏱️ 23:30 • 8h ago
+👁️ 9K • 👍 198 • 💬 107 • ⏱️ 23:30 • 14h ago
+
+---
+
+**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
+
+Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain.
+
+📺 The Rollup
+
+👁️ 22K • 👍 287 • 💬 5 • ⏱️ 9:00 • 2d ago
 
 ---
 
@@ -282,17 +292,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 106 • 💬 63 • ⏱️ 23:50 • 20h ago
-
----
-
-**[I Built a Live Trading Bot with Claude Code AI (Ethereum AI Trading)](https://www.youtube.com/watch?v=1hoICfzfZoE)**
-
-Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:37 - Setup Guide and Platform 01:16 - Compile and ...
-
-📺 Thomas Sutton
-
-👁️ 5K • 👍 45 • 💬 26 • ⏱️ 5:59 • 16h ago
+👁️ 6K • 👍 109 • 💬 63 • ⏱️ 23:50 • 1d ago
 
 ---
 
@@ -302,7 +302,17 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 16K • 👍 294 • 💬 74 • ⏱️ 10:12 • 2d ago
+👁️ 17K • 👍 302 • 💬 74 • ⏱️ 10:12 • 2d ago
+
+---
+
+**[I Built a Live Trading Bot with Claude Code AI (Ethereum AI Trading)](https://www.youtube.com/watch?v=1hoICfzfZoE)**
+
+Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:37 - Setup Guide and Platform 01:16 - Compile and ...
+
+📺 Thomas Sutton
+
+👁️ 6K • 👍 47 • 💬 31 • ⏱️ 5:59 • 22h ago
 
 ---
 
@@ -312,7 +322,7 @@ How much Bitcoin and XRP do you think these companies and banks will own by the 
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 591 • 💬 101 • ⏱️ 30:21 • 14h ago
+👁️ 8K • 👍 609 • 💬 102 • ⏱️ 30:21 • 20h ago
 
 ---
 
@@ -322,17 +332,7 @@ Everyone out there is going to miss out on whats going on and its a shame. The c
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 755 • 💬 278 • ⏱️ 33:44 • 1d ago
-
----
-
-**[Altcoin TA: ETH, SOL, HYPE, PLUME | Elite Picks](https://www.youtube.com/watch?v=NJgVlE_UoVk)**
-
-Ethereum, Solana, HYPE and Plume get elite-level technical analysis in this week's altcoin TA. We break down ETH's golden ...
-
-📺 The Trading Parrot
-
-👁️ 2K • 👍 71 • 💬 15 • ⏱️ 14:27 • 8h ago
+👁️ 10K • 👍 756 • 💬 271 • ⏱️ 33:44 • 1d ago
 
 ---
 

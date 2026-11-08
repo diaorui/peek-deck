@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-08T00:50:57.898538+00:00'
+updated: '2026-11-08T06:57:36.642750+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 08, 2026 at 00:50 UTC  
+**Last Updated:** November 08, 2026 at 06:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Después de un accidente se han vuelto a construir las piernas. Está vez con en
 
 I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
 
-2d ago
+3d ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev ki
 
 guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can’t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online
 
-2d ago
+3d ago
 
 ---
 
@@ -92,7 +92,7 @@ guys, need help asap, how can i connect the sg90 servo motor and 10k potentiomet
 
 Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!
 
-2d ago
+3d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I am developing a project called SmartGrid, an offline robotic tool
 
 Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?
 
-2d ago
+3d ago
 
 ---
 
@@ -116,11 +116,25 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 ## Google News: "robotics"
 
-**[Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/)**
+**[Oregon robotics company has volatile debut on Wall Street](https://www.oregonlive.com/silicon-forest/2026/11/oregon-robotics-companys-stock-slides-on-first-day-of-trading.html)**
 
-Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.
+OregonLive.com • 2d ago
 
-TechCrunch • 2d ago
+---
+
+**[Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)**
+
+US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.
+
+Ars Technica • 2d ago
+
+---
+
+**[Six humanoid robots in China work 24-hour shift in a store, two fail assessment](https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete)**
+
+Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment.
+
+Interesting Engineering • 13h ago
 
 ---
 
@@ -128,25 +142,25 @@ TechCrunch • 2d ago
 
 Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’
 
-The Guardian • 10h ago
+The Guardian • 16h ago
 
 ---
 
 **[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
 
-Reuters • 14h ago
-
----
-
-**[SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal](https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal)**
-
-Bloomberg.com • 16h ago
+Reuters • 21h ago
 
 ---
 
 **[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/07/china-blocks-54-billion-abb-robotics-deal-with-billionaire-masayoshi-sons-softbank/)**
 
-Forbes • 9h ago
+Forbes • 15h ago
+
+---
+
+**[SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal](https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal)**
+
+Bloomberg.com • 22h ago
 
 ---
 
@@ -156,35 +170,19 @@ Financial Times • 1d ago
 
 ---
 
-**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
+**[Meet the 20-something Brooklyn whiz kids building robots NASA will send to space next year](https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/)**
 
-Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
+“We have big ambitions,” says Icarus Robotics co-founder Jamie Palmer, 26.
 
-GeekWire • 1d ago
-
----
-
-**[The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)](https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade)**
-
-Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play.
-
-Seeking Alpha • 12h ago
+New York Post • 1d ago
 
 ---
 
-**[Six humanoid robots in China work 24-hour shift in a store, two fail assessment](https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete)**
+**[Serve Robotics Inc (SERV) Q3 2026 Earnings Call Highlights: Revenue Surges Over 300% as ...](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-inc-serv-q3-052023243.html)**
 
-Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment.
+Serve Robotics Inc (SERV) beat Q3 revenue expectations, lifted full-year 2026 guidance to $12 million, and unveiled a new high-margin physical AI services business despite a widening GAAP net loss.
 
-Interesting Engineering • 6h ago
-
----
-
-**[New Jersey high school students teach robotics to a school in Kenya - ABC News](https://abcnews.com/video/137927944/)**
-
-New Jersey high school students partnered with a nonprofit to bring robotics education to The Grace School in Kenya, where students have limited access to STEM resources.
-
-ABC News - Breaking News, Latest News and Videos • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -192,33 +190,13 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
-
-Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
-
-📺 Agility
-
-👁️ 13K • 👍 249 • 💬 35 • ⏱️ 6:44 • 3d ago
-
----
-
 **[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
 
 Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
 
 📺 Statrys
 
-👁️ 125K • 👍 2K • 💬 373 • ⏱️ 15:13 • 1d ago
-
----
-
-**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
-
-https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
-
-📺 Casey.aicreates
-
-👁️ 15K • 👍 719 • 💬 28 • ⏱️ 1:44 • 1d ago
+👁️ 128K • 👍 2K • 💬 376 • ⏱️ 15:13 • 1d ago
 
 ---
 
@@ -228,27 +206,25 @@ This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https:/
 
 📺 Unstoppable Gadgets
 
-👁️ 41K • 👍 761 • 💬 22 • ⏱️ 0:21 • 2d ago
+👁️ 45K • 👍 877 • 💬 23 • ⏱️ 0:21 • 2d ago
 
 ---
 
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
 
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
 
-📺 MostAmazingTop10
+📺 Casey.aicreates
 
-👁️ 143K • 👍 940 • 💬 118 • ⏱️ 9:12 • 5d ago
+👁️ 16K • 👍 770 • 💬 29 • ⏱️ 1:44 • 1d ago
 
 ---
 
-**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
+**[IO #robot #robotics #robotdance #minions #shorts #shortvideo](https://www.youtube.com/watch?v=5h2uOWYC-6g)**
 
-Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
+📺 SirNex Tv
 
-📺 Mahdi Designs
-
-👁️ 208K • 👍 3K • 💬 315 • ⏱️ 15:06 • 4d ago
+👁️ 1K • 👍 15 • ⏱️ 0:29 • 4h ago
 
 ---
 
@@ -262,33 +238,53 @@ Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming F
 
 ---
 
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 144K • 👍 954 • 💬 119 • ⏱️ 9:12 • 5d ago
+
+---
+
 **[Why This Robot Runs Its AI on Board](https://www.youtube.com/watch?v=3do6Tbmda7c)**
 
 Why does this factory robot run its AI on board? I asked Jarad Cannon, CTO of Humanoid, what happens when a whole fleet of ...
 
 📺 David Bombal
 
-👁️ 3K • 👍 154 • 💬 13 • ⏱️ 2:51 • 8h ago
+👁️ 5K • 👍 207 • 💬 14 • ⏱️ 2:51 • 14h ago
 
 ---
 
-**[Two robots and a dog play spin the bottle #Shorts](https://www.youtube.com/watch?v=_MxcRdZ9FXM)**
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
 
-The bottle stops on Reachy Mini. Again. Microduck asks about the secret module… Credits: • Music: "Réveille-toi, on danse" by La ...
+Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
 
-📺 Remi Fabre
+📺 Mahdi Designs
 
-👁️ 6K • 👍 186 • 💬 9 • ⏱️ 0:39 • 8h ago
+👁️ 214K • 👍 3K • 💬 318 • ⏱️ 15:06 • 5d ago
 
 ---
 
-**[Why One Robot Hand Stalled Tesla&#39;s $1-an-Hour Factory Math](https://www.youtube.com/watch?v=bP2Ek-DdlEw)**
+**[Learn Physical AI with this $300 Robot Arm Kit! (SO-101 Tutorial)](https://www.youtube.com/watch?v=Q4p03s60MQQ)**
 
-LAST MONTH: Tesla gutted two Fremont car lines in 46 days and started early production of Optimus robots built to run for under ...
+Get Your SO-101 Robot Arm Kit Today ($30 OFF after checkout with my link): ...
 
-📺 Bradford Manning
+📺 Kevin Wood | Robotics & AI
 
-👁️ 30K • 👍 829 • 💬 56 • ⏱️ 1:29 • 1d ago
+👁️ 19K • 👍 312 • 💬 21 • ⏱️ 25:20 • 2d ago
+
+---
+
+**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
+
+America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
+
+📺 Living in China
+
+👁️ 101K • 👍 2K • 💬 169 • ⏱️ 7:07 • 2d ago
 
 ---
 
