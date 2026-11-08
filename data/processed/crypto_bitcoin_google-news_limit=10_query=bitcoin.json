@@ -15,24 +15,14 @@
       "description": null
     },
     {
-      "headline": "Bitcoin developer proposes \u2018landmines\u2019 to make quantum thieves lose their own BTC",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVV5ZzZtc1hmWWFEMkpxNjBfc1lkV3JEV3FzLWtkbk1yek1UVmhVYXRmTmxhaEZlbDl0VVFOYm94LUN1Ykp6clRhaHNGbW4xS2VGaVhOZjlvZllRWU5qSGd6SkNuUnRyZm1kbjNEQmlJVUJWTGxUNUNiaEkxdXNwMDVucmlwcW5hUFh4LXF1a0xnWGFjX2pxZ1lNXzFGUjhnSjYwaV91QzFIMEhNeTNwVFZTUWx2bGFHWXRyYw?oc=5",
-      "pub_date": 1793928600.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk15NzBWNnFaRWxWanU2NDk2VXMwR1NMLXIzamp3OWpzZ1YtMHduZm53Q0JiMEZndWpGcUtUV09GNGgyUWtwaUIzeFRkSGdfeTJtU25Ja0FOM3VHb1hscXlzNU1YTk9rSUpsLXJNUWliZkVuWlFDdmZPOFdJSGJRejBkSUpPWDBOOEI4TFR3bDF6TTdReTMxTFN6bjhGMUt2eW5N?oc=5",
-      "pub_date": 1794136980.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/top-silicon-valley-investor-predicts-112300337.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/585efdf81365baa6485cd14bbfbc50644b1f7bbd74b839d3ef12b1b8bcf92e9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F965d2ca6fca9b8a241ad4cf1b8e74db0.jpg",
-      "description": "Longtime Bitcoin investors have seen this story before: a crash, and then a spectacular rally."
+      "headline": "Higher wages don\u2019t have to mean higher inflation. That could matter for Bitcoin",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObElHVVF6TF9pMHFDaTd3clY4c1RJeDBndnR2NU54WC03djNtU1VHbWhWcHJReFQ5aFE2aUFYbldQZE92d3pwNU4zX0luZVp5Ujh4a3ZwT2tFbjRuSFJVNXBpb1hYeEJDOXNZYnhVdzlvX3FBSDExN2dQWGF0UlFiN0o3a2RtTllSX082LXNYdG42bTFpcUtwenZnQzZKWlVZUzhnTw?oc=5",
+      "pub_date": 1794075346.0,
+      "article_url": "https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-labor-cost-lens.webp",
+      "description": "US labor costs fell as productivity outpaced pay in Q3. Why higher wages alone do not settle the inflation outlook or Bitcoin\u2019s rates risk."
     },
     {
       "headline": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
@@ -45,22 +35,52 @@
       "description": null
     },
     {
+      "headline": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXNJODEtQ2tFSVhQUWkzY255dG9kMEdRYWRtaC00MW1TXzFKQmR4U0NxaUEta2pwOTRKMGsteldTQ2VPSy1kTkJJMG1ybDB1TkpLT3oyc2VzVW9tOE9vTXdfN0RUdW5vZUdlTmNuUGEzdWRxYW5EdW9aTEVYWi1SMjA4QWVlWDdkVHRvRjQ1ZHNQSkRlYXJZS21KVE8?oc=5",
+      "pub_date": 1794119400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-below-76k-binance-063007720.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Investing.com -- Bitcoin traded below $76,000 on Sunday as fresh regulatory and security concerns weighed on the cryptocurrency industry, with Binance preparing to close certain European customer accounts and authorities intensifying scrutiny of digital asset transactions."
+    },
+    {
+      "headline": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwQWg4c1pyeGJzTmdlR3dldnVGbEFtaTB0WFhHRngzd0daRVRFNDBleFJQcXRxU0p2Z3oyTWt1VUJqWExnWG15d3hWSldhaTlIUHZfZExneGplb2JqVlR6X21SY2ZVLTRxQTM2LWlZbjBEbThVaFI1SmYwZkg?oc=5",
+      "pub_date": 1794146463.0,
+      "article_url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg",
+      "description": "Bitcoin developer Cory Fields has an unusual idea for dealing with future quantum thieves: Make them risk their own Bitcoin."
+    },
+    {
+      "headline": "Bitcoin Could See Another Decline, Core Scientific's Mining Exit and More: This Week in Crypto",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTDZxOERSTFM5QXR0T01LVWx3VTVQM0pEUDdHSmYyckctSElLMURSWDJiamd1NEtCTEJPa1FWMkxHV1RzMlI3TmM3ZkVtNlNpRi1ESV9TbE04eDVHV1NpZGtpdWhYVksxLTQxaDVqTDB6V29PbW1ROFg0UHJUR0ZCVFhRYllNZFN6VWRYVXczel9UOU1tZ0F2NlhldlR4MjlhZlBVZno1UkpobDhmd3pKcm1EZjBLODlxZUVCMWFxMUdhcHhFSmtsVkExbUdWbVdkaTZob0w1R1NrTy1vLWxIQjVyME9xUQ?oc=5",
+      "pub_date": 1794142807.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:ec53988ec094b:0-bitcoin-could-see-another-decline-core-scientific-s-mining-exit-and-more-this-week-in-crypto/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin faced competing narratives this week: some analysts saw an exhausted selloff and a potential rebound, while others warned that another decline could arrive before year-end.Elsewhere, Core Scientific prepared to leave Bitcoin mining, Peter Schiff questioned Ethereum\u2019s valuation and analyst W\u2026"
+    },
+    {
+      "headline": "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0o0UmFFWlRiWDFHSE5LVG4zNUw1amJaM1c1czBrNG43OEJKS3RIcEpTaTAtRUdCcHNhNnZtY21RUlBpWFpyVXgyamxXT21kWWloamlrNndRZi1wemR5anJGand4cVVwOUoxNXowazl0R2pCNVQzM1JVbXNiNFVJMm5qbDllcEFKQWZ5VUxrMnVCNmZIOFZv?oc=5",
+      "pub_date": 1794054300.0,
+      "article_url": "https://www.fool.com/investing/2026/11/07/in-5-years-one-of-these-cryptocurrencies-could-be/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892899%2Fcrypto-bitcoin-up-and-down-arrows.jpg&w=1200&op=resize",
+      "description": "If Bitcoin hits one serious snag in particular, a few of its smaller competitors might have a shot at overcoming it."
+    },
+    {
       "headline": "Bitcoin Selloff Eases as Investors Explore Cautious Recovery",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanI5WVpaVXdYVDM4dVdieTFHSnFjcU9vLUhPMk1velVJMUFZdHdzUjB1WGJMYTlkeVRaVEJVeHdSd0tJVU1IUVpsZ3JReUxORTBLVlFzSGo5cjU2R1dMemRhcWNHbTNfV29oUEFQYldxaTB0UmltbFpsVy1BX1JlV1l2MjByb3RxQVNyTzcwdmp4NDM4UHhrZW9odWVlVmZxX3VuWkxLNVJNRmdPY1gtbA?oc=5",
       "pub_date": 1794000985.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdF9qRWk2RGF2X29PZXdKaWpYa19Od1J0WTBUSS1yQ0NlOWU3d0JDYVhGT2hWWm5VU2hqR08wa0FKTk4zUG1FNE9QcGJBdDVORVcxSHRMNDZhb3VUYWtWblFVVGxueFN0NnZaZ3A5UmJsQkg4NHpjU2hhVEZpUk40d2dSSWdBb2k5dkpCdjc4NFpjWGZaZEVjbXRGRGJuMWNLSWZEQ2YwblFHcGRjYzFXelZuLW9ERzhlSWtvWA?oc=5",
-      "pub_date": 1793958807.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
       "image": null,
       "description": null
     },
@@ -75,36 +95,16 @@
       "description": "Scott Melker discusses how bitcoin's (BTC-USD) latest rebound above $80,000 per token this week was swiftly erased following the massive tech sell-off that rocked Wall Street on Thursday.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
     },
     {
-      "headline": "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0o0UmFFWlRiWDFHSE5LVG4zNUw1amJaM1c1czBrNG43OEJKS3RIcEpTaTAtRUdCcHNhNnZtY21RUlBpWFpyVXgyamxXT21kWWloamlrNndRZi1wemR5anJGand4cVVwOUoxNXowazl0R2pCNVQzM1JVbXNiNFVJMm5qbDllcEFKQWZ5VUxrMnVCNmZIOFZv?oc=5",
-      "pub_date": 1794054300.0,
-      "article_url": "https://www.fool.com/investing/2026/11/07/in-5-years-one-of-these-cryptocurrencies-could-be/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892899%2Fcrypto-bitcoin-up-and-down-arrows.jpg&w=1200&op=resize",
-      "description": "If Bitcoin hits one serious snag in particular, a few of its smaller competitors might have a shot at overcoming it."
-    },
-    {
-      "headline": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ05mSjFiN2djQi1IS25LSERFa1kyRlhZenE5WFA3NUJ5bU4xSkNxa25kbXpEM256LTRfTVhGTnJoaXNQcklPZ3VCejNlVF9wWExYSjNyUW5XYmJuRGtWbzc1NE9JRE5qNVRMakpYYjFGY01WZkxLdWI3SG5IMVBrRllBOUI0Qzh0Nzk2TEpkY3VBU2F0YURHYlB5TWhlemRUWlZpQUZCSlU3UzhoQ0NRaUtiT1J2elBqc3BkdEZrcEc2dWNZaWhoQ1BBLTRUbkZfMkJGR1hR?oc=5",
-      "pub_date": 1794069960.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png",
-      "description": "The 12 U.S.-listed spot bitcoin funds have now lost $914.1 million for the year, while ether, Solana and Hyperliquid ETFs all extended weekly outflow streaks in a brutal turn for crypto ETFs."
-    },
-    {
-      "headline": "Bitcoin's Four-Year Cycle: Is History About to Repeat? for CRYPTO:BTCUSD by Dr_Rabbit_",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeW1COW1nTkRHWHZVUFY3RTNDNDlsTmNoS0pEWjhqV1lSY0d0eldkMWltWkF3ZXA2dV9LZXRUMGlmbS1COE5EaVRkdnhsdC1YVk1aV2V6bmkxMkxuRXRHVzNfUFZ2QXVrS3hMWGZYZTVXS1QyNTZ3TmJ1TktXUEtrNHI0NTBmSmN4eER3TWV2cWs1VzNjbVY3b1ZzX1kySVRsZmdHbmJn?oc=5",
-      "pub_date": 1793990431.0,
-      "article_url": "https://www.tradingview.com/chart/BTCUSD/rY7IlAA6-Bitcoin-s-Four-Year-Cycle-Is-History-About-to-Repeat/",
-      "image": "https://s3.tradingview.com/r/rY7IlAA6_big.png",
-      "description": "Bitcoin has gone through several major bull and bear markets, and there has always been one pattern that traders keep coming back to: the four-year cycle.\n\nEvery few years, Bitcoin goes through a strong rally, reaches a new high, and then enters a long correction. The timing has often been connected to Bitcoin halving events, when the amount of new BTC entering the market is cut in half.\n\nLooking at the weekly chart, the similarities between previous cycles are hard to ignore. But there is \u2026"
+      "headline": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdF9qRWk2RGF2X29PZXdKaWpYa19Od1J0WTBUSS1yQ0NlOWU3d0JDYVhGT2hWWm5VU2hqR08wa0FKTk4zUG1FNE9QcGJBdDVORVcxSHRMNDZhb3VUYWtWblFVVGxueFN0NnZaZ3A5UmJsQkg4NHpjU2hhVEZpUk40d2dSSWdBb2k5dkpCdjc4NFpjWGZaZEVjbXRGRGJuMWNLSWZEQ2YwblFHcGRjYzFXelZuLW9ERzhlSWtvWA?oc=5",
+      "pub_date": 1793958807.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-08T14:11:08.424177+00:00"
+  "fetched_at": "2026-11-08T18:57:50.104538+00:00"
 }

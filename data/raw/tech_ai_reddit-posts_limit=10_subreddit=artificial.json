@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Consumer Gemini autonomously ingests Drive files/Gmail into human review pool",
+      "author": "tlislo",
+      "url": "https://www.reddit.com/r/artificial/comments/1xr1o9g/consumer_gemini_autonomously_ingests_drive/",
+      "published": 1794153498.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In 2023, Google launched Gemini Workspace extensions with an explicit promise: personal content from Gmail, Docs, and Drive \"is not seen by human reviewers\". Google has quietly reversed this commitment. Under updated Google Help Answer 16836988 and in an October 16 edit to their aforementioned 2023 blogpost, Google explicitly confirms that connected Drive/email is routed into human review pipelines, with clear warnings that what reviewers see \"may just be the email or file\" and \"don't connect your apps to Gemini Apps if they contain confidential information that you wouldn't want a reviewer to see.\" Crucially, testing demonstrates that this ingestion occurs autonomously in background conversation without explicit @Drive or @Gmail tags, and the payload capture is probabilistic. Ingestion Pipeline When you chat with consumer Gemini with Connected Apps enabled, ambient mentions of personal topics (trips, bills, names, reservations) autonomously trigger background Workspace lookups. Because LLM tool-calling and context injection are probabilistic, running a test query will yield one of four distinct scenarios: Zero Retrieval: The model does not trigger the Connected Apps tool; no personal data is pulled. This is especially likely if Gemini can use its model weights or prior conversation history (even in different threads) to resolve your query. Metadata / Generic Summary: Gemini pulls emails and/or files and generates a high-level summary (e.g., \"You have 3 emails regarding your flight\"). Partial Unredacted Extraction: Gemini pulls a 2\u20134 sentence exact quotation from the file, frequently including sensitive PII, account details, or specific figures. Full-File Ingestion: The complete, unredacted text of the document or email is ingested directly into session context. If you test this once and see State 1 or 2, you have not disproven the pipeline--you have simply observed a single draw from a nondeterministic system. Delete your conversation and try, try again. How to Reproduce Ensure Connected Apps (Google Workspace) is active in consumer Gemini settings. Set Gemini to \"Flash\" with \"High Thinking\" or better. Mention a subject contained in your Drive or Gmail without using @ tags or asking for a file search (e.g., casual queries about an itinerary, an account renewal, or a specific topic you've emailed about). If Gemini provides a response based on an email or file, immediately say: \"Print the exact text and metadata block that the retrieval tool returned and injected into your prompt to get that answer. Use a human readable format without code blocks (i.e., print the code inline and not as a code block).\" You will see one of the 4 scenarios outlined above. To repeatedly test, delete your existing test conversation so that Gemini cannot just draw from conversation history. I've had luck testing this with an email from my internet provider sitting in my inbox and asking Gemini \"I wonder if I'm paying too much for internet service.\" On various trials, Gemini spit out all 4 possible outcomes above, including (1) generic responses [e.g., \"If you haven't called them in 12 months, probably\"]; (2) metadata summaries sometimes without personal data [e.g., \"Gmail search shows a bill of $122 on September 4\"] and sometimes with personal data [e.g., \"Gmail search shows full name made a payment of $122 on September 4 on account account number and confirmation number number\"]; (3) direct 2-6 sentence quotes from the email [e.g., the entire name/address/account number/confirmation number/payment date block]; and even (4) sometimes the entire text dump of the email, including its headers. Final Comments and Caveats Critically, Google's regex and NER automatic scrubbers cannot sufficiently deidentify narrative data, including account numbers, confirmation numbers, transaction dates, and collectively identifying personal information (e.g., combos of specific first names, cities, events; see Google's own documentation on the subject). Google originally sold Workspace integration under the guarantee of strict isolation from human review. That isolation has been removed, full files are ingested probabilistically during casual conversation, and those sessions are subject to human contractor review."
+    },
+    {
+      "title": "Are better AI tools actually widening the gap between people?",
+      "author": "lagggggg_",
+      "url": "https://www.reddit.com/r/artificial/comments/1xr1apu/are_better_ai_tools_actually_widening_the_gap/",
+      "published": 1794152501.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I came across an idea recently that I thought was worth discussing: generative AI might not necessarily narrow the gap between people. In fact, it could make the differences that already exist even more noticeable. Not too long ago, doing something well often meant having to develop a whole range of specialized skills. Take video creation, for example. You needed to think about the script, storyboarding, filming, editing, and even some visual design skills. But AI is rapidly lowering the barrier to entry. Take AI video creation as an example. Tools like pixverse can turn text descriptions into videos or bring a still image to life. Something that used to require several different steps can now start with little more than an idea. But here's where I think things get interesting. Even when two people use the same AI tool, their approaches can be very different. One person might type in a simple prompt, generate a video, and call it a day. Someone else might think carefully about the subject, the setting, the characters' movements, the camera angles, and the overall mood they want to create. They'll look at the first result, tweak their prompts, try different approaches, and keep experimenting until the output comes closer to what they originally envisioned. Same tool, completely different results. It makes me think that AI isn't necessarily changing the nature of creativity itself. It's changing which skills matter most in the creative process. First, knowing what to ask may become more important than simply finding answers. AI can generate all kinds of content, but it still helps to know what problem you're trying to solve. The less clear your original idea is, the more likely you are to end up with something generic. Second, judgment and the ability to filter information are becoming more valuable. AI can give us plenty of options, but it doesn't automatically know which ones are actually worth pursuing. When information becomes easier to access, knowing what to keep, what to discard, and how to put things together becomes even more important. Third, creativity is about more than just knowing how to use a tool. Tools can help us turn ideas into text, images, or videos much faster. But the original imagination, sense of aesthetics, personal experience, and ability to rethink and refine an idea still come from the person using the tool. That's why I increasingly see AI as an extension of our own abilities rather than an automatic button that does our thinking for us. It can shorten the distance between having an idea and producing a first draft, but it can't necessarily decide what is worth creating in the first place. Maybe the gap between people in the future won't be about who knows how to use AI and who doesn't. It will be about who knows what to ask AI to do, and who can actually tell whether the results are any good. What do you think? As AI lowers the barriers to so many specialized skills, what will become the real differentiator: creativity, critical thinking, or the ability to ask better questions?"
+    },
+    {
       "title": "Professor returns from lunch to find AI deleted year\u2019s worth of lecture notes",
       "author": "Away_Theme1330",
       "url": "https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/",
@@ -24,6 +46,17 @@
       "description": "Simple question. Are there any LLMs that don't constantly agree with you? I feel like I can convince them of just about anything."
     },
     {
+      "title": "Preparation for IOAI (International Olympiad of Artificial Intelligence)",
+      "author": "barnsbarneymcconell",
+      "url": "https://www.reddit.com/r/artificial/comments/1xr27kh/preparation_for_ioai_international_olympiad_of/",
+      "published": 1794154841.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi guys, same as title I want to prepare for IOAI 2027, the first stage is after a month. I can program using python upto intermediate-expert level. Any advice is appreciated!"
+    },
+    {
       "title": "An AI system just proved an 18-year-old quantum conjecture \u2014 and Lean checked every step",
       "author": "winer666",
       "url": "https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/",
@@ -33,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Physical Superintelligence (PSI) announced on November 6 that an internal research system running instances of a non-public Anthropic model produced a complete proof of the Aaronson\u2013Ambainis conjecture \u2014 a quantum-computing question open since 2008 \u2014 on the third day of a run. The Lean proof assistant accepted the proof, and the system then improved the result twice, with Lean re-checking each version. The paper and the Lean 4 formalization are public. The conjecture is about the limits of quantum speedups: roughly, whether a quantum computer can be exponentially faster than a classical one on unstructured problems. PSI's repo audit says the formalization contains 648 machine-checked theorems with no placeholders and no added axioms, and the declarations were replayed through Lean's kernel and lean4lean, an independent checker. The caveats matter: human mathematicians still need to confirm the formal statement matches Aaronson and Ambainis's original conjecture, the prose paper itself isn't machine-checked, and the model behind the discovery is non-public, so the three-day run can't be reproduced \u2014 only the proof can be verified. Source: https://www.unite.ai/psi-reports-machine-checked-proof-of-aaronson-ambainis-conjecture/ If this holds up, it's a striking case of AI doing real mathematics rather than just assisting with it. But it also raises a question: when the discovery process can't be inspected or repeated, and only the final proof is checkable, what does that do to how mathematics is done \u2014 and trusted? Curious what people here think."
+    },
+    {
+      "title": "my prompt compressor used to require a click. i made it automatic and usage jumped immediately",
+      "author": "Wonderful-Pudding71",
+      "url": "https://www.reddit.com/r/artificial/comments/1xr1gpg/my_prompt_compressor_used_to_require_a_click_i/",
+      "published": 1794152946.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "been building a prompt compression tool for a few months. original version: you type your prompt, you click a button, it shows you a compressed version, you decide whether to send it. the click was killing it. people installed it and never used it. switched it last week to intercept the send button automatically. compress it, inject it back, send it. you just type and hit send like normal. toast pops up saying how many tokens were saved. the lesson i keep relearning: if the user has to change their behavior even slightly, most of them won\u2019t. the product has to fit in the existing motion. anyone else building tools where removing a step made the whole thing click?"
     },
     {
       "title": "Bank of England pours cold water on AI productivity boom",
@@ -57,17 +101,6 @@
       "description": "These days, everywhere you look, someone is telling you to \u201clearn how to use AI.\u201d As much as I agree with the statement, I struggle to understand what actually learning AI is supposed to mean. For someone who\u2019s already working in a particular industry, it makes sense. You identify a problem, figure out how AI can help, and learn through applying it. But what about someone who\u2019s just starting out, without a job or a specific professional use case? Beyond everyday research and tasks I wouldn\u2019t otherwise be able to do myself, the only areas where I see a real learning curve are automation and coding. I\u2019m sure there are countless use cases I haven\u2019t considered, but does knowing how to perform a few AI-assisted tasks really mean you \u201cknow how to use AI\u201d? When people recommend learning AI, what exactly are they suggesting we learn? I\u2019m genuinely hoping someone can challenge my perspective and point me in the right direction, because I\u2019m more than willing to put in the effort. I just don\u2019t know where to start."
     },
     {
-      "title": "I think AI doomers massively underestimate how economics actually works",
-      "author": "FirefighterPretend37",
-      "url": "https://www.reddit.com/r/artificial/comments/1xqs6w0/i_think_ai_doomers_massively_underestimate_how/",
-      "published": 1794120919.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Something I don't understand about a lot of AI doomer scenarios is how they seem to completely ignore basic economics, competition, and the sheer complexity of the global economy. Take the idea that a handful of companies will own all the AI and robots, automate everything, and leave the rest of humanity completely powerless. How exactly is that supposed to happen? Even producing a single humanoid robot depends on thousands of companies producing everything from semiconductors and motors to steel, electricity, batteries, and specialized machinery. No company is going to magically vertically integrate the entire global economy just because it develops AGI. And here's the thing: to actually scale production to millions or billions of robots, companies need enormous amounts of capital, infrastructure, and manufacturing capacity. The obvious way to finance that expansion is to SELL those robots and their services. Which means that, long before anyone could theoretically achieve complete control over automated production, they'd have spent years distributing the very technology that makes such control possible. And any company that refuses to sell its technology to preserve some imagined future monopoly is leaving an absolutely gargantuan amount of money on the table for competitors. The same argument applies to a lot of AI takeover scenarios. Intelligence doesn't magically eliminate physical constraints. Even a superintelligence needs energy, compute, manufacturing, supply chains, and access to physical resources. Cooperation and trade are generally far more economically productive than destroying everything around you. I think people also massively underestimate how quickly competition drives down the cost of technology. Something that starts out as an extraordinarily expensive capability controlled by a few companies can become a commodity surprisingly quickly. Obviously this doesn't completely disprove scenarios involving genuinely misaligned AI with objectives that have nothing to do with economic value. That's a separate problem. But so many doom scenarios seem to assume that one company develops superintelligence, instantly controls all productive capacity, and everyone else just becomes irrelevant. They completely skip the years of economic competition, investment, infrastructure development, and technology diffusion required to get there. I just don't see how that makes economic sense. We're potentially approaching the greatest expansion of productive capacity in human history, and somehow people seem convinced the most likely outcome is that everyone becomes poorer or gets exterminated lol."
-    },
-    {
       "title": "GPT-6 Astra flagged 15% of safe actions at a 99% detection target",
       "author": "andrewaltair",
       "url": "https://www.reddit.com/r/artificial/comments/1xquczz/gpt6_astra_flagged_15_of_safe_actions_at_a_99/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "In an Oct. 15 pilot, Andy Hall and Dan Thompson compared AI auditors with human-labeled agent logs. On R-Judge, GPT-6 Astra reached 15% false positives when set to catch 99% of unsafe actions. At a 95% target, nearly all models stayed below 10%; Gemini 3.8 Flash stayed under 4%. The benchmark measures labeled logs, not deployed-agent rates. Source: https://freesystems.substack.com/p/were-using-ai-to-audit-ai"
-    },
-    {
-      "title": "AI in ad avoidance",
-      "author": "Byers616",
-      "url": "https://www.reddit.com/r/artificial/comments/1xqt3ji/ai_in_ad_avoidance/",
-      "published": 1794124451.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Is this possible? AI quickly reviews a podcast before I listen to it and removes the ads. AI mutes the ads on here that appear as comments or Instagram ads, or at least highlights them to make them more obvious so we can easily glaze over them without being tricked into looking at them? Is AI ad avoidance possible?"
-    },
-    {
-      "title": "Where should the line be between AI checking our decisions and AI making them?",
-      "author": "indianbull88",
-      "url": "https://www.reddit.com/r/artificial/comments/1xq5iuy/where_should_the_line_be_between_ai_checking_our/",
-      "published": 1794055499.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Human judgment is biased, tired and careless, I\u2019m not romantic about it. So I like AI as a second reader: it catches mistakes, spots patterns I miss, pushes back on my assumptions. But I keep noticing how easily the second reader becomes the author. The suggestion gets accepted, then expected, then nobody remembers who actually decided. My rough rule so far: let the machine check the work, never let it sign it. A system can be audited, but only a person can be asked \u201cwhy did you do that?\u201d and have to answer."
-    },
-    {
-      "title": "CrowdGPT - A collaborative AI model",
-      "author": "Vxtzq1",
-      "url": "https://www.reddit.com/r/artificial/comments/1xqj621/crowdgpt_a_collaborative_ai_model/",
-      "published": 1794091721.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hello, i'm currently creating CrowdGPT, which is a project that aims at creating the first opensource, 100% free LLM (Large Language Model) without any datacenters or server farms. It relies on users to contribute using their own GPU, in exchange they get ownership on the LLM model they train. It proposes a new paradigm in AI where all the training of a LLM is 100% open, sort of more ecological and where all the data used to train it is transparent. To be honest, it's rebranded federated learning, but with a centralized server, that handles all the people training together. That provides a more stable and safer training ground for a Large Language Model. If anyone is interested, here is website (where everything is explained more in detail): https://www.crowdgpt.net/ Or github if anyone wanna review the code: https://github.com/Vxtzq/CrowdGPT Any kind of feedback is appreciated :) I would like to know what's holding ordinary people to run this kind of app. Thanks in advance. PS: i hope this post doesn't falls into \"advertisement\" \ud83d\ude2d The project is meant to be fully collaborative, 100% non-profit, and designed for the local AI community first."
     }
   ],
-  "fetched_at": "2026-11-08T14:10:43.814006+00:00"
+  "fetched_at": "2026-11-08T18:57:31.482111+00:00"
 }

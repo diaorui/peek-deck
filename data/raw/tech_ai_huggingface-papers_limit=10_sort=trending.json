@@ -1,6 +1,25 @@
 {
   "papers": [
     {
+      "id": "2412.20138",
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
+      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
+      "hf_url": "https://huggingface.co/papers/2412.20138",
+      "arxiv_url": "https://arxiv.org/abs/2412.20138",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
+      "upvotes": 163,
+      "num_comments": 6,
+      "published_at": "2024-12-28T07:54:06.000Z",
+      "github_repo": "https://github.com/tauricresearch/tradingagents",
+      "github_stars": 121326,
+      "project_page": null
+    },
+    {
       "id": "2508.19205",
       "title": "VibeVoice Technical Report",
       "authors": "Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)",
@@ -16,27 +35,8 @@
       "num_comments": 10,
       "published_at": "2025-08-26T13:09:12.000Z",
       "github_repo": "https://github.com/microsoft/VibeVoice",
-      "github_stars": 56706,
+      "github_stars": 56749,
       "project_page": "https://microsoft.github.io/VibeVoice/"
-    },
-    {
-      "id": "2412.20138",
-      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
-      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
-      "hf_url": "https://huggingface.co/papers/2412.20138",
-      "arxiv_url": "https://arxiv.org/abs/2412.20138",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 162,
-      "num_comments": 6,
-      "published_at": "2024-12-28T07:54:06.000Z",
-      "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 121221,
-      "project_page": null
     },
     {
       "id": "2508.02739",
@@ -73,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 4955,
+      "github_stars": 5065,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
@@ -92,27 +92,8 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 23053,
+      "github_stars": 23102,
       "project_page": "https://harness2.github.io/"
-    },
-    {
-      "id": "2608.16157",
-      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
-      "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
-      "organization_name": "UCBerkeley",
-      "organization_fullname": "University of California, Berkeley",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
-      "summary": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai.",
-      "ai_summary": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
-      "hf_url": "https://huggingface.co/papers/2608.16157",
-      "arxiv_url": "https://arxiv.org/abs/2608.16157",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 111,
-      "num_comments": 2,
-      "published_at": "2026-08-16T20:00:00.000Z",
-      "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 16816,
-      "project_page": "https://www.flashml.ai/"
     },
     {
       "id": "2608.10450",
@@ -134,6 +115,25 @@
       "project_page": "https://genesis.evox.group/"
     },
     {
+      "id": "2608.16157",
+      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+      "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
+      "organization_name": "UCBerkeley",
+      "organization_fullname": "University of California, Berkeley",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
+      "summary": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai.",
+      "ai_summary": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
+      "hf_url": "https://huggingface.co/papers/2608.16157",
+      "arxiv_url": "https://arxiv.org/abs/2608.16157",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
+      "upvotes": 111,
+      "num_comments": 2,
+      "published_at": "2026-08-16T20:00:00.000Z",
+      "github_repo": "https://github.com/FlashML-org/FreeToken",
+      "github_stars": 16826,
+      "project_page": "https://www.flashml.ai/"
+    },
+    {
       "id": "2606.23050",
       "title": "Unlimited OCR Works",
       "authors": "Youyang Yin, Huanhuan Liu, YY et al. (17 authors)",
@@ -149,7 +149,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 30853,
+      "github_stars": 30894,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-08T14:10:54.903481+00:00"
+  "fetched_at": "2026-11-08T18:57:31.259377+00:00"
 }
