@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-07T21:03:47.135181+00:00'
+updated: '2026-11-08T00:50:57.895289+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 07, 2026 at 21:03 UTC  
+**Last Updated:** November 08, 2026 at 00:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,243.98
+### $2,225.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -2.1%  
-**30d:** -10.5%  
-**90d:** +19.0%  
-**1y:** -34.6%  
+**24h:** -0.5%  
+**7d:** -0.8%  
+**30d:** -10.8%  
+**90d:** +18.7%  
+**1y:** -37.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.08B
+**Market Cap:** $272.87B
 Rank #2
 
 **Circulating Supply:** 122,197,894 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.0%
+-54.9%
 
 **All-Time Low:** $0.43
-+514155.9%
++515640.9%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My Geth node had a publicly listening MPTCP socket. Disabling MPTCP didn't close existing listeners! Check ss -Mlntp, apply mitigations and patch your kernel ASAP. https://ubuntu.com/security/CVE-2026-98432
 
-5d ago
+6d ago
 
 ---
 
@@ -136,7 +136,7 @@ Found an old post on CREATE2 Wisp contracts (a contract created, used and selfde
 
 From the original post on x: Quantum computing poses a serious threat to the cryptography blockchains currently rely on, while advances in AI compress best estimates for the threat's timeline. That's why experts gathered in Cambridge to coordinate research upgrading our cryptography to be quantum-resistant.
 
-6d ago
+7d ago
 
 ---
 
@@ -184,33 +184,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP May Look at a Final Decline Before Year-End, Experts Say](https://www.tradingview.com/news/benzinga:ac59adb02094b:0-bitcoin-ethereum-xrp-may-look-at-a-final-decline-before-year-end-experts-say/)**
-
-Bitcoin CRYPTO:BTCUSD faces a potential final decline toward $73,400 to $74,500 before reversing, as experts and analysts highlight signs that the recent crypto market selloff could be nearing exhaustion.While Franklin Templeton’s chief investment officer Seth Ginns sees improving market fundamenta…
-
-TradingView • 1d ago
-
----
-
 **[Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading](https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/)**
 
 Russia's final Bitcoin, Ethereum, and USDT rules take effect Nov. 17, with retail purchase limits and testing.
 
-CryptoSlate • 16h ago
-
----
-
-**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says | CoinDesk Videos](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
-
-CoinDesk • 1d ago
-
----
-
-**[Current price of Ethereum for November 6, 2026](https://fortune.com/article/price-of-ethereum-11-06-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
+CryptoSlate • 20h ago
 
 ---
 
@@ -218,7 +196,7 @@ Fortune • 1d ago
 
 Since the start of this month, the global crypto market has lost more than $180 billion, bringing its total value down to $2.64 trillion. The drop comes
 
-Coinpedia • 10h ago
+Coinpedia • 6h ago
 
 ---
 
@@ -230,37 +208,41 @@ Blockchain News • 1d ago
 
 ---
 
+**[Is XRP a Good Investment Right Now at $1.18?](https://247wallst.com/investing/cryptocurrency/2026/11/06/is-xrp-a-good-investment-right-now-at-1-18/)**
+
+XRP trades at $1.18, down sharply in 2026. Here's what needs to happen for it to reach $2 again and whether it's a smart investment now.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[Grayscale says Ethereum leads smart contract platforms in stablecoins and tokenized assets](https://cryptobriefing.com/grayscale-ethereum-leads-stablecoins-tokenized-assets/)**
+
+Grayscale Research says Ethereum leads smart contract platforms with nearly $140 billion in stablecoins and about 40% of tokenized assets.
+
+Crypto Briefing • 8h ago
+
+---
+
+**[Ethereum’s decentralization model is the answer to an AI arms race: Vitalik Buterin](https://ambcrypto.com/ethereums-decentralization-model-is-the-answer-to-ai-arms-race-vitalik-buterin/)**
+
+Ethereum’s decentralization could strengthen its long-term value as AI risks increase demand for open infrastructure.
+
+AMBCrypto • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=j5Wr41xwS7U)**
+**[Tom Lee: &quot;The Crypto Bull Market Just Started”, How ETH Hits $50,000](https://www.youtube.com/watch?v=lQPebhVEMlc)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
 
-📺 Crypto Nutshell
+📺 Altcoin Daily
 
-👁️ 3K • 👍 116 • 💬 64 • ⏱️ 23:30 • 4h ago
-
----
-
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 102 • 💬 63 • ⏱️ 23:50 • 16h ago
-
----
-
-**[XRP And Ethereum Are Involved &quot;It&#39;s Almost Done&quot; Crypto Holders Are In For The Shock Of Their Lives](https://www.youtube.com/watch?v=OqYKMVMwDz4)**
-
-I can almost guarantee only 5% of you rememeber which blockchains Visa and Mastercard are going to be using to send trillions ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 27K • 👍 2K • 💬 236 • ⏱️ 11:45 • 9h ago
+👁️ 9K • 👍 654 • 💬 68 • ⏱️ 28:10 • 2h ago
 
 ---
 
@@ -270,7 +252,37 @@ Arthur Hayes says the market has bottomed and belief is back: Wall Street money 
 
 📺 The Rollup
 
-👁️ 20K • 👍 274 • 💬 4 • ⏱️ 9:00 • 1d ago
+👁️ 21K • 👍 278 • 💬 5 • ⏱️ 9:00 • 2d ago
+
+---
+
+**[XRP And Ethereum Are Involved &quot;It&#39;s Almost Done&quot; Crypto Holders Are In For The Shock Of Their Lives](https://www.youtube.com/watch?v=OqYKMVMwDz4)**
+
+I can almost guarantee only 5% of you rememeber which blockchains Visa and Mastercard are going to be using to send trillions ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 32K • 👍 2K • 💬 298 • ⏱️ 11:45 • 12h ago
+
+---
+
+**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=j5Wr41xwS7U)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 161 • 💬 73 • ⏱️ 23:30 • 8h ago
+
+---
+
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 106 • 💬 63 • ⏱️ 23:50 • 20h ago
 
 ---
 
@@ -280,7 +292,7 @@ Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:3
 
 📺 Thomas Sutton
 
-👁️ 4K • 👍 41 • 💬 20 • ⏱️ 5:59 • 13h ago
+👁️ 5K • 👍 45 • 💬 26 • ⏱️ 5:59 • 16h ago
 
 ---
 
@@ -290,17 +302,17 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 15K • 👍 287 • 💬 72 • ⏱️ 10:12 • 2d ago
+👁️ 16K • 👍 294 • 💬 74 • ⏱️ 10:12 • 2d ago
 
 ---
 
-**[Ethereum: The Final Drop of This Correction?](https://www.youtube.com/watch?v=W5wnnUYOJ2M)**
+**[Bitcoin Investors Won&#39;t See This Coming Ethereum And Ripple Are Shaking Up The Cryptocurrency Market](https://www.youtube.com/watch?v=J6buGQxWwcU)**
 
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+How much Bitcoin and XRP do you think these companies and banks will own by the time we get to the year 2030? Not one single ...
 
-📺 More Crypto Online
+📺 The Modern Investor
 
-👁️ 6K • 👍 172 • 💬 7 • ⏱️ 6:44 • 1d ago
+👁️ 7K • 👍 591 • 💬 101 • ⏱️ 30:21 • 14h ago
 
 ---
 
@@ -310,27 +322,17 @@ Everyone out there is going to miss out on whats going on and its a shame. The c
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 752 • 💬 278 • ⏱️ 33:44 • 1d ago
+👁️ 10K • 👍 755 • 💬 278 • ⏱️ 33:44 • 1d ago
 
 ---
 
-**[Bitcoin And Ethereum Are Preparing For Something Massive Crypto Whales Are Doing The Unthinkable](https://www.youtube.com/watch?v=fI-6zqZly_M)**
+**[Altcoin TA: ETH, SOL, HYPE, PLUME | Elite Picks](https://www.youtube.com/watch?v=NJgVlE_UoVk)**
 
-When crypto prices fall, retail investors flee the market, unable to understand that something bigger is happening behind the ...
+Ethereum, Solana, HYPE and Plume get elite-level technical analysis in this week's altcoin TA. We break down ETH's golden ...
 
-📺 The Modern Investor
+📺 The Trading Parrot
 
-👁️ 9K • 👍 699 • 💬 127 • ⏱️ 32:49 • 2d ago
-
----
-
-**[BITCOIN CRASH: BlackRock EXPOSED SELLING (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=TtFvj7AZ6Pw)**
-
-BITCOIN CRASH: BlackRock EXPOSED SELLING (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 210 • 💬 142 • ⏱️ 19:00 • 4h ago
+👁️ 2K • 👍 71 • 💬 15 • ⏱️ 14:27 • 8h ago
 
 ---
 
