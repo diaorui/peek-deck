@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-08T18:58:05.910023+00:00'
+updated: '2026-11-08T22:44:33.898183+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 08, 2026 at 18:58 UTC  
+**Last Updated:** November 08, 2026 at 22:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,960.52
+### $74,268.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -1.1%  
-**30d:** -8.5%  
-**90d:** +19.4%  
-**1y:** -27.6%  
+**24h:** -2.0%  
+**7d:** -3.2%  
+**30d:** -10.4%  
+**90d:** +17.0%  
+**1y:** -29.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1525.87B
+**Market Cap:** $1496.15B
 Rank #1
 
-**Circulating Supply:** 20,109,603 BTC
+**Circulating Supply:** 20,109,668 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--39.8%
+-41.0%
 
 **All-Time Low:** $67.81
-+111798.0%
++109616.9%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Invest in bitcoin](https://www.reddit.com/r/Bitcoin/comments/1xpll6b/invest_in_bitcoin/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -165,25 +165,17 @@ CryptoSlate • 1d ago
 
 ---
 
-**[These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)](https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000)**
-
-CoinDesk • 6h ago
-
----
-
 **[Bitcoin holds below $76K as Binance EU closures add to crypto market pressure](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-below-76k-binance-063007720.html)**
 
 Investing.com -- Bitcoin traded below $76,000 on Sunday as fresh regulatory and security concerns weighed on the cryptocurrency industry, with Binance preparing to close certain European customer accounts and authorities intensifying scrutiny of digital asset transactions.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet](https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet)**
+**[These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)](https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000)**
 
-Bitcoin developer Cory Fields has an unusual idea for dealing with future quantum thieves: Make them risk their own Bitcoin.
-
-Decrypt • 4h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -191,7 +183,7 @@ Decrypt • 4h ago
 
 Bitcoin faced competing narratives this week: some analysts saw an exhausted selloff and a potential rebound, while others warned that another decline could arrive before year-end.Elsewhere, Core Scientific prepared to leave Bitcoin mining, Peter Schiff questioned Ethereum’s valuation and analyst W…
 
-TradingView • 5h ago
+TradingView • 9h ago
 
 ---
 
@@ -203,27 +195,33 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Selloff Eases as Investors Explore Cautious Recovery](https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery)**
+**[This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet](https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet)**
 
-Bloomberg.com • 1d ago
+Bitcoin developer Cory Fields has an unusual idea for dealing with future quantum thieves: Make them risk their own Bitcoin.
 
----
-
-**[Bitcoin gains undone by massive tech sell-off, triggering liquidations](https://finance.yahoo.com/video/bitcoin-gains-undone-massive-tech-170000832.html)**
-
-Scott Melker discusses how bitcoin's (BTC-USD) latest rebound above $80,000 per token this week was swiftly erased following the massive tech sell-off that rocked Wall Street on Thursday.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
+Decrypt • 8h ago
 
 ---
 
-**[Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout](https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout)**
+**[Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms](https://www.benzinga.com/crypto/26/11/63020476/bitcoin-ethereum-and-solana-etf-outflows-jump-as-key-fear-gauge-drops-after-midterms)**
 
-CoinDesk • 2d ago
+Benzinga • 3h ago
+
+---
+
+**[XRP Is Ripple's North Star: CEO Centers Strategy on 'Things That Are Good for XRP'](https://news.bitcoin.com/featured/xrp-is-ripples-north-star-ceo-centers-strategy-on-things-that-are-good-for-xrp/)**
+
+Ripple CEO Brad Garlinghouse reaffirmed XRP as the company's north star, linking RLUSD expansion and business integration to greater liquidity and utility
+
+Bitcoin News • 1d ago
+
+---
+
+**[BTC Price Prediction: Bitcoin steadies near support as spot selling meets mixed derivatives signals](https://blockchain.news/news/20261108-price-prediction-btc-bitcoin-steadies-near-support-as-spot)**
+
+Bitcoin is trading at $75,842.28, just above its immediate support band, after a quiet 24-hour move of -0.28% on Binance spot. Technicals are leaning soft —...
+
+Blockchain News • 15h ago
 
 ---
 
@@ -235,7 +233,7 @@ CoinDesk • 2d ago
 
 Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.
 
-⬆️ 30 • 💬 8 • 5d ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
+⬆️ 30 • 💬 8 • 6d ago • [SWI swissinfo.ch](https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545)
 
 ---
 
@@ -249,7 +247,7 @@ Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs developme
 
 **[The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers](https://news.ycombinator.com/item?id=50357834)**
 
-⬆️ 3 • 💬 1 • 4d ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
+⬆️ 3 • 💬 1 • 5d ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
 
 ---
 
@@ -273,7 +271,7 @@ Silent Payments has suffered from the lack of multisig & hardware wallet support
 
 Wallets linked to Mercado Bitcoin’s security breach remained active after transactions were paused. The exchange said customers suffered no losses.
 
-⬆️ 2 • 💬 0 • 5d ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
+⬆️ 2 • 💬 0 • 6d ago • [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack)
 
 ---
 
@@ -297,7 +295,13 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 Discord is moving its apps fully over to the Rust programming language.
 
-⬆️ 493 • 💬 432 • 3d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
+⬆️ 493 • 💬 434 • 3d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
+
+---
+
+**[Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153)**
+
+⬆️ 1 • 💬 1 • 1d ago
 
 ---
 
@@ -311,7 +315,7 @@ Bitcoin is trading in the mid to high $70000s after a brutal week for the AI tra
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 785 • 💬 120 • ⏱️ 50:05 • 23h ago
+👁️ 22K • 👍 820 • 💬 121 • ⏱️ 50:05 • 1d ago
 
 ---
 
@@ -321,37 +325,17 @@ WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activ
 
 📺 Crypto Rover
 
-👁️ 24K • 👍 792 • 💬 57 • ⏱️ 7:27 • 12h ago
+👁️ 27K • 👍 831 • 💬 49 • ⏱️ 7:27 • 16h ago
 
 ---
 
-**[Bitcoin Did This at $60K... Now It’s Happening Again!](https://www.youtube.com/watch?v=tNyGHlCIuTc)**
+**[BITCOIN: It All Ends THIS MONTH! (Decision Time)](https://www.youtube.com/watch?v=p54mJ4uX4oY)**
 
-Before You Sell Your Bitcoin, Watch This!! Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
+Opening Statement & Video Context 0:00-1:59 Analysis 1:59-13:37 Trade where I Trade! Bitunix Exchange • 15% lifetime fee ...
 
-📺 Altcoin Daily
+📺 Wolves of Crypto
 
-👁️ 56K • 👍 2K • 💬 75 • ⏱️ 9:47 • 1d ago
-
----
-
-**[Bitcoin Is About To Surprise Everyone Again](https://www.youtube.com/watch?v=Uq7-Gp9GYm8)**
-
-Bitcoin Is About To Surprise Everyone Again FREE Crypto Updates & Trade Setups on Telegram: ...
-
-📺 Mister Crypto
-
-👁️ 7K • 👍 142 • 💬 12 • ⏱️ 9:30 • 10h ago
-
----
-
-**[🚨BITCOIN‘s FUTURE HAS DRAMATICALLY CHANGED!!!!!!!!!!!!!!!!!!!🚨](https://www.youtube.com/watch?v=BP4NjjLs6YA)**
-
-Bitcoin indicators are lining up with some of the biggest cycle bottoms in BTC history! The MVRV ratio just crossed above its ...
-
-📺 Crypto Love
-
-👁️ 661 • 👍 107 • 💬 52 • ⏱️ 7:27 • 1h ago
+👁️ 3K • 👍 147 • 💬 94 • ⏱️ 13:38 • 5h ago
 
 ---
 
@@ -361,17 +345,7 @@ SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WE
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 181 • 💬 19 • ⏱️ 16:21 • 6h ago
-
----
-
-**[The Bitcoin Trap No One Is Expecting! [PREPARE NOW!]](https://www.youtube.com/watch?v=JQtLWTEY-1g)**
-
-0 LOSSES IN 76 DAYS - Join the $500 to $10K Challenge (only $100 to start!) Sign up: https://t.me/Al3xC7ypto_Bot Join via ...
-
-📺 AMCrypto
-
-👁️ 1K • 👍 91 • 💬 5 • ⏱️ 12:38 • 4h ago
+👁️ 7K • 👍 213 • 💬 24 • ⏱️ 16:21 • 10h ago
 
 ---
 
@@ -381,27 +355,57 @@ Every Bitcoin price prediction that happened on The Iced Coffee Hour - price / d
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 17K • 👍 89 • 💬 61 • ⏱️ 29:25 • 17h ago
+👁️ 19K • 👍 97 • 💬 63 • ⏱️ 29:25 • 21h ago
 
 ---
 
-**[BITCOIN MONDAY LIQUIDATION WIPEOUT!? OPEN INTEREST WARNING!!](https://www.youtube.com/watch?v=9dqypnWDLDM)**
+**[Bitcoin Did This at $60K... Now It’s Happening Again!](https://www.youtube.com/watch?v=tNyGHlCIuTc)**
 
-BITCOIN TRADING | BITCOIN PRICE ANALYSIS | BITCOIN LIQUIDATION HEATMAP | BITCOIN OPEN INTEREST ⠀ Today I ...
+Before You Sell Your Bitcoin, Watch This!! Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
 
-📺 TMG Trades
+📺 Altcoin Daily
 
-👁️ 2K • 👍 289 • 💬 19 • ⏱️ 23:45 • 2h ago
+👁️ 57K • 👍 2K • 💬 77 • ⏱️ 9:47 • 1d ago
 
 ---
 
-**[I TOLD YOU SO! BTC DOWN... here is what&#39;s next!](https://www.youtube.com/watch?v=8glJP3fFtiY)**
+**[Bitcoin Is About To Surprise Everyone Again](https://www.youtube.com/watch?v=Uq7-Gp9GYm8)**
 
-I'm breaking down my $76500 revisit-and-breakdown thesis, the media's explanation and what I'm watching next—comment ...
+Bitcoin Is About To Surprise Everyone Again FREE Crypto Updates & Trade Setups on Telegram: ...
 
-📺 Davinci Jeremie
+📺 Mister Crypto
 
-👁️ 17K • 👍 353 • 💬 85 • ⏱️ 17:27 • 1d ago
+👁️ 8K • 👍 147 • 💬 15 • ⏱️ 9:30 • 13h ago
+
+---
+
+**[Bitcoin Hasn’t Hit Bottom Yet. Here’s Where It Probably Will](https://www.youtube.com/watch?v=CvuLqIyQ1T0)**
+
+Bitcoin keeps falling, and there is no low yet. I went through the key indicators from the daily to the monthly chart, from RSI and ...
+
+📺 More Crypto Online
+
+👁️ 18K • 👍 778 • 💬 49 • ⏱️ 17:59 • 14h ago
+
+---
+
+**[BITCOIN: IT&#39;S STARTING NOW...](https://www.youtube.com/watch?v=4Z8WSywIANI)**
+
+WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activity Up to $3000 in BTC position ...
+
+📺 Crypto Rover
+
+👁️ 25K • 👍 757 • 💬 36 • ⏱️ 7:24 • 1d ago
+
+---
+
+**[THE BITCOIN DIVIDEND TRAP: Why Strategy Sold 7,000 Bitcoins Near The Lows!](https://www.youtube.com/watch?v=zCNypPDE1Cs)**
+
+Strategy—the world's largest corporate holder of Bitcoin—just announced a headline third-quarter net income of $19.53 Billion, ...
+
+📺 Wall Street Truthbombs
+
+👁️ 22K • 👍 648 • 💬 286 • ⏱️ 14:52 • 1d ago
 
 ---
 
