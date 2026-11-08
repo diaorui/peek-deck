@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-08T18:58:05.914205+00:00'
+updated: '2026-11-08T22:44:33.903130+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 08, 2026 at 18:58 UTC  
+**Last Updated:** November 08, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,230.00
+### $2,127.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -0.8%  
-**30d:** -10.8%  
-**90d:** +18.7%  
-**1y:** -37.7%  
+**24h:** -5.2%  
+**7d:** -5.8%  
+**30d:** -15.3%  
+**90d:** +12.7%  
+**1y:** -40.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $273.05B
+**Market Cap:** $259.57B
 Rank #2
 
 **Circulating Supply:** 122,200,877 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.8%
+-57.1%
 
 **All-Time Low:** $0.43
-+515957.4%
++490475.8%
 
 ---
 
@@ -136,7 +136,7 @@ Found an old post on CREATE2 Wisp contracts (a contract created, used and selfde
 
 From the original post on x: Quantum computing poses a serious threat to the cryptography blockchains currently rely on, while advances in AI compress best estimates for the threat's timeline. That's why experts gathered in Cambridge to coordinate research upgrading our cryptography to be quantum-resistant.
 
-7d ago
+8d ago
 
 ---
 
@@ -154,7 +154,7 @@ So the thing is I bought a devcon ticket but it seems like I won't be able to at
 
 **[Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum](https://beincrypto.com/ansem-zcash-price-weakness-bitcoin/)**
 
-BeInCrypto • 17h ago
+BeInCrypto • 21h ago
 
 ---
 
@@ -174,11 +174,33 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum USD (ETH-USD) Seasonal Returns Chart - Yahoo Finance](https://ca.finance.yahoo.com/quote/ETH-USD/seasonality/)**
+
+Ethereum USD (ETH-USD) seasonal returns chart provides the mean and median returns by month to inform your investment strategy.
+
+Yahoo! Finance Canada • 30m ago
+
+---
+
 **[EIP-8037/EIP-8038 Glamsterdam](https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038)**
 
 In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
 
 ethereum.org • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms](https://www.benzinga.com/crypto/26/11/63020476/bitcoin-ethereum-and-solana-etf-outflows-jump-as-key-fear-gauge-drops-after-midterms)**
+
+Benzinga • 3h ago
+
+---
+
+**[Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token](https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022)**
+
+The Ethereum co-founder said the case for valuing ETH as a fee-burning token "never was as strong as it seemed" and that maximizing fees would force Ethereum to operate like a major corporation.
+
+The Block • 6h ago
 
 ---
 
@@ -190,11 +212,9 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Where Will Ethereum Be in 3 Years?](https://finance.yahoo.com/markets/crypto/articles/where-ethereum-3-years-190100780.html)**
+**[Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says](https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says)**
 
-Ethereum isn't broken; it's just slow. Here's why that matters over the next three years.
-
-Yahoo Finance • 2d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -202,31 +222,7 @@ Yahoo Finance • 2d ago
 
 Vitalik Buterin says Ethereum should prioritize ETH as a store of value over fee burning, warning aggressive burns could risk centralization.
 
-Crypto Briefing • 6h ago
-
----
-
-**[1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee](https://www.fool.com/investing/2026/11/06/1-cryptocurrency-buy-soars-11000-bitmines-tom-lee/)**
-
-Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors.
-
-The Motley Fool • 2d ago
-
----
-
-**[Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow](https://finance.yahoo.com/markets/stocks/articles/bitmine-resumes-stock-buybacks-ethereum-144900850.html)**
-
-Bitmine Immersion Technologies (NYSE: $BMNR) is ramping up its stock buybacks as it nears its goal of owning 5% of ...
-
-Yahoo Finance • 3d ago
-
----
-
-**[Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027.](https://www.fool.com/investing/2026/11/05/not-x-not-y-this-will-be-the-top-performing-crypto/)**
-
-If history is any guide, Ethereum will be one of the biggest winners during the next DeFi boom.
-
-The Motley Fool • 3d ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -240,17 +236,7 @@ CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in
 
 📺 Altcoin Daily
 
-👁️ 82K • 👍 2K • 💬 158 • ⏱️ 28:10 • 20h ago
-
----
-
-**[You&#39;re Not Ready For ETH&#39;s Come Back](https://www.youtube.com/watch?v=x1EFpB251gE)**
-
-Ethereum could move before Bitcoin and lead the altcoin market out of this pullback. That's my thesis in this Sunday deep dive, ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 9K • 👍 365 • 💬 50 • ⏱️ 10:11 • 18h ago
+👁️ 90K • 👍 2K • 💬 165 • ⏱️ 28:10 • 1d ago
 
 ---
 
@@ -260,57 +246,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 69 • 💬 41 • ⏱️ 20:56 • 13h ago
+👁️ 6K • 👍 79 • 💬 42 • ⏱️ 20:56 • 17h ago
 
 ---
 
-**[XRP And Ethereum Are Involved &quot;It&#39;s Almost Done&quot; Crypto Holders Are In For The Shock Of Their Lives](https://www.youtube.com/watch?v=OqYKMVMwDz4)**
+**[Is This the Crypto Bottom? Ethereum Just Changed Everything!](https://www.youtube.com/watch?v=VRR3VDxRFXo)**
 
-I can almost guarantee only 5% of you rememeber which blockchains Visa and Mastercard are going to be using to send trillions ...
+Is This the Crypto Bottom? Ethereum Just Changed Everything! Is the crypto bottom almost in? We analyze the current market ...
 
-📺 Money Rules - Investing Tips 
+📺 CryptoWendyO
 
-👁️ 42K • 👍 2K • 💬 447 • ⏱️ 11:45 • 1d ago
-
----
-
-**[I Built a Live Trading Bot with Claude Code AI (Ethereum AI Trading)](https://www.youtube.com/watch?v=1hoICfzfZoE)**
-
-Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:37 - Setup Guide and Platform 01:16 - Compile and ...
-
-📺 Thomas Sutton
-
-👁️ 7K • 👍 63 • 💬 44 • ⏱️ 5:59 • 1d ago
+👁️ 4K • 👍 230 • 💬 15 • ⏱️ 23:10 • 4h ago
 
 ---
 
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
+**[You&#39;re Not Ready For ETH&#39;s Come Back](https://www.youtube.com/watch?v=x1EFpB251gE)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Ethereum could move before Bitcoin and lead the altcoin market out of this pullback. That's my thesis in this Sunday deep dive, ...
 
-📺 Crypto Nutshell
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 113 • 💬 63 • ⏱️ 23:50 • 1d ago
-
----
-
-**[Ethereum: The Final Drop of This Correction?](https://www.youtube.com/watch?v=W5wnnUYOJ2M)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 178 • 💬 10 • ⏱️ 6:44 • 1d ago
-
----
-
-**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
-
-Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain. Arthur ...
-
-📺 The Rollup
-
-👁️ 23K • 👍 294 • 💬 6 • ⏱️ 9:00 • 2d ago
+👁️ 9K • 👍 379 • 💬 56 • ⏱️ 10:11 • 22h ago
 
 ---
 
@@ -320,7 +276,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.c
 
 📺 Cilinix Crypto
 
-👁️ 314 • 👍 12 • 💬 1 • ⏱️ 4:40 • 8h ago
+👁️ 445 • 👍 14 • 💬 1 • ⏱️ 4:40 • 12h ago
+
+---
+
+**[Arthur Hayes: Ethereum Is Headed For A Historic Run (Bull Case)](https://www.youtube.com/watch?v=7IzqpFtFRuI)**
+
+Arthur Hayes says the market has bottomed and belief is back: Wall Street money and AI agents are heading onchain. Arthur ...
+
+📺 The Rollup
+
+👁️ 24K • 👍 301 • 💬 6 • ⏱️ 9:00 • 2d ago
 
 ---
 
@@ -330,7 +296,37 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 227 • 💬 110 • ⏱️ 23:30 • 1d ago
+👁️ 13K • 👍 233 • 💬 110 • ⏱️ 23:30 • 1d ago
+
+---
+
+**[XRP And Ethereum Are Involved &quot;It&#39;s Almost Done&quot; Crypto Holders Are In For The Shock Of Their Lives](https://www.youtube.com/watch?v=OqYKMVMwDz4)**
+
+I can almost guarantee only 5% of you rememeber which blockchains Visa and Mastercard are going to be using to send trillions ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 44K • 👍 2K • 💬 456 • ⏱️ 11:45 • 1d ago
+
+---
+
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 116 • 💬 61 • ⏱️ 23:50 • 1d ago
+
+---
+
+**[I Built a Live Trading Bot with Claude Code AI (Ethereum AI Trading)](https://www.youtube.com/watch?v=1hoICfzfZoE)**
+
+Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:37 - Setup Guide and Platform 01:16 - Compile and ...
+
+📺 Thomas Sutton
+
+👁️ 8K • 👍 70 • 💬 49 • ⏱️ 5:59 • 1d ago
 
 ---
 

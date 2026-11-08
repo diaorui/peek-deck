@@ -13,6 +13,17 @@
       "description": "In 2023, Google launched Gemini Workspace extensions with an explicit promise: personal content from Gmail, Docs, and Drive \"is not seen by human reviewers\". Google has quietly reversed this commitment. Under updated Google Help Answer 16836988 and in an October 16 edit to their aforementioned 2023 blogpost, Google explicitly confirms that connected Drive/email is routed into human review pipelines, with clear warnings that what reviewers see \"may just be the email or file\" and \"don't connect your apps to Gemini Apps if they contain confidential information that you wouldn't want a reviewer to see.\" Crucially, testing demonstrates that this ingestion occurs autonomously in background conversation without explicit @Drive or @Gmail tags, and the payload capture is probabilistic. Ingestion Pipeline When you chat with consumer Gemini with Connected Apps enabled, ambient mentions of personal topics (trips, bills, names, reservations) autonomously trigger background Workspace lookups. Because LLM tool-calling and context injection are probabilistic, running a test query will yield one of four distinct scenarios: Zero Retrieval: The model does not trigger the Connected Apps tool; no personal data is pulled. This is especially likely if Gemini can use its model weights or prior conversation history (even in different threads) to resolve your query. Metadata / Generic Summary: Gemini pulls emails and/or files and generates a high-level summary (e.g., \"You have 3 emails regarding your flight\"). Partial Unredacted Extraction: Gemini pulls a 2\u20134 sentence exact quotation from the file, frequently including sensitive PII, account details, or specific figures. Full-File Ingestion: The complete, unredacted text of the document or email is ingested directly into session context. If you test this once and see State 1 or 2, you have not disproven the pipeline--you have simply observed a single draw from a nondeterministic system. Delete your conversation and try, try again. How to Reproduce Ensure Connected Apps (Google Workspace) is active in consumer Gemini settings. Set Gemini to \"Flash\" with \"High Thinking\" or better. Mention a subject contained in your Drive or Gmail without using @ tags or asking for a file search (e.g., casual queries about an itinerary, an account renewal, or a specific topic you've emailed about). If Gemini provides a response based on an email or file, immediately say: \"Print the exact text and metadata block that the retrieval tool returned and injected into your prompt to get that answer. Use a human readable format without code blocks (i.e., print the code inline and not as a code block).\" You will see one of the 4 scenarios outlined above. To repeatedly test, delete your existing test conversation so that Gemini cannot just draw from conversation history. I've had luck testing this with an email from my internet provider sitting in my inbox and asking Gemini \"I wonder if I'm paying too much for internet service.\" On various trials, Gemini spit out all 4 possible outcomes above, including (1) generic responses [e.g., \"If you haven't called them in 12 months, probably\"]; (2) metadata summaries sometimes without personal data [e.g., \"Gmail search shows a bill of $122 on September 4\"] and sometimes with personal data [e.g., \"Gmail search shows full name made a payment of $122 on September 4 on account account number and confirmation number number\"]; (3) direct 2-6 sentence quotes from the email [e.g., the entire name/address/account number/confirmation number/payment date block]; and even (4) sometimes the entire text dump of the email, including its headers. Final Comments and Caveats Critically, Google's regex and NER automatic scrubbers cannot sufficiently deidentify narrative data, including account numbers, confirmation numbers, transaction dates, and collectively identifying personal information (e.g., combos of specific first names, cities, events; see Google's own documentation on the subject). Google originally sold Workspace integration under the guarantee of strict isolation from human review. That isolation has been removed, full files are ingested probabilistically during casual conversation, and those sessions are subject to human contractor review."
     },
     {
+      "title": "how should I actually be learning and using AI?",
+      "author": "Suitable-Bunch4531",
+      "url": "https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/",
+      "published": 1794166478.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I'm currently studying Computer Science at university, and honestly, I'm a bit worried about the future of the industry. The job market seems pretty rough right now, especially for entry-level developers. At the same time, AI is advancing so quickly that I'm not sure what skills are actually worth focusing on anymore. Despite all that, I genuinely want to learn, explore, and become really good at what I do. My long-term goals are either cybersecurity or machine learning, although I'm still figuring out which direction to take. One thing I'm particularly concerned about is my own use of AI. I use AI tools to help with university tasks and coding, but I sometimes worry that I'm relying on them too much and not actually developing the skills or understanding I need. I don't want to become someone who can produce code with AI but has no idea how it works underneath. At the same time, I feel like avoiding AI completely would be a mistake, considering how important it's becoming. So I'd really appreciate some honest advice from people working in AI, software engineering, cybersecurity, machine learning, or anyone who's been through a similar situation. A few things I'd love to hear your thoughts on: Which AI tools would you recommend for a CS student who genuinely wants to learn rather than just get answers? ChatGPT, Claude, Gemini, or something else? How do you personally use AI when learning a new concept or programming? How can I use AI for university assignments without becoming dependent on it? If my goal is cybersecurity or ML, what fundamentals should I focus on before diving into the advanced stuff? Given the current job market, what would you recommend a CS student do over the next few years to become genuinely employable? I'm not looking for reassurance that everything will be fine. I'd rather hear honest experiences, mistakes people made, and advice you wish you had received when you were starting out. I want to learn, build things, understand the technology, and become genuinely competent \u2014 not just rely on AI to do the work for me. Thanks in advance."
+    },
+    {
       "title": "Are better AI tools actually widening the gap between people?",
       "author": "lagggggg_",
       "url": "https://www.reddit.com/r/artificial/comments/1xr1apu/are_better_ai_tools_actually_widening_the_gap/",
@@ -22,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I came across an idea recently that I thought was worth discussing: generative AI might not necessarily narrow the gap between people. In fact, it could make the differences that already exist even more noticeable. Not too long ago, doing something well often meant having to develop a whole range of specialized skills. Take video creation, for example. You needed to think about the script, storyboarding, filming, editing, and even some visual design skills. But AI is rapidly lowering the barrier to entry. Take AI video creation as an example. Tools like pixverse can turn text descriptions into videos or bring a still image to life. Something that used to require several different steps can now start with little more than an idea. But here's where I think things get interesting. Even when two people use the same AI tool, their approaches can be very different. One person might type in a simple prompt, generate a video, and call it a day. Someone else might think carefully about the subject, the setting, the characters' movements, the camera angles, and the overall mood they want to create. They'll look at the first result, tweak their prompts, try different approaches, and keep experimenting until the output comes closer to what they originally envisioned. Same tool, completely different results. It makes me think that AI isn't necessarily changing the nature of creativity itself. It's changing which skills matter most in the creative process. First, knowing what to ask may become more important than simply finding answers. AI can generate all kinds of content, but it still helps to know what problem you're trying to solve. The less clear your original idea is, the more likely you are to end up with something generic. Second, judgment and the ability to filter information are becoming more valuable. AI can give us plenty of options, but it doesn't automatically know which ones are actually worth pursuing. When information becomes easier to access, knowing what to keep, what to discard, and how to put things together becomes even more important. Third, creativity is about more than just knowing how to use a tool. Tools can help us turn ideas into text, images, or videos much faster. But the original imagination, sense of aesthetics, personal experience, and ability to rethink and refine an idea still come from the person using the tool. That's why I increasingly see AI as an extension of our own abilities rather than an automatic button that does our thinking for us. It can shorten the distance between having an idea and producing a first draft, but it can't necessarily decide what is worth creating in the first place. Maybe the gap between people in the future won't be about who knows how to use AI and who doesn't. It will be about who knows what to ask AI to do, and who can actually tell whether the results are any good. What do you think? As AI lowers the barriers to so many specialized skills, what will become the real differentiator: creativity, critical thinking, or the ability to ask better questions?"
+    },
+    {
+      "title": "MIT CSAIL: GPT-6 Astra edited 0.016% of a small Qwen model's weights and lifted MATH-500 from 7.9% to 48.1% -- critics say it's standard ML engineering",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xr8gei/mit_csail_gpt6_astra_edited_0016_of_a_small_qwen/",
+      "published": 1794170217.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "MIT CSAIL researchers (Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab) published 'Sparks of Weight-Space Programming' on Nov 2. They gave OpenAI's GPT-6 Astra access to the raw weights of Alibaba's small Qwen3.5-0.8B model plus a Python environment, and asked it to fix the model's habit of looping on math problems. Astra traced the looping to one direction in the MLPs of layers 15 and 19 and subtracted it from 64 output columns in each -- changing 131,072 weights (0.016% of the total), with no training run and no gradient descent. MATH-500 went from 7.9% to 48.1%. The full experiment logs are on GitHub, and Hugging Face's Ahsen Khaliq rebuilt the edited checkpoint from the logs (his rerun scored 51.0%). The pushback came within a day. spaCy creator Matthew Honnibal called the write-up 'massively misleading': the 'raw weights, no tools' setup only applied to experiments on tiny networks (17k-172k weights). Every experiment on a real language model used Python, and the Qwen run could also test the model on up to 50 batches of practice problems. Sean Goedecke made a similar point, describing the Qwen fix as an application of steering -- an existing technique. The authors themselves call the results 'exciting but still limited', noting context length and tooling as constraints. The work is a blog post with logs, not a peer-reviewed paper. Discussion: is this a genuinely new capability -- an LLM maintaining another model the way a programmer patches code -- or mostly well-executed ML engineering dressed up as 'reading weights'? And does the distinction matter if the practical result (a 6x benchmark jump from a targeted weight edit) holds up on replication? Source: https://rikiyat.github.io/blog/weight-space-programming/"
     },
     {
       "title": "Professor returns from lunch to find AI deleted year\u2019s worth of lecture notes",
@@ -35,6 +57,28 @@
       "description": "William Baude explainined that he had asked the chatbot to update page numbers in an old set of constitutional law lecture notes."
     },
     {
+      "title": "Have You Ever Thought About Automating Your Outreach As A Web Designer? Watch This. \ud83d\udc40",
+      "author": "Murky_Explanation_73",
+      "url": "https://www.reddit.com/r/artificial/comments/1xra41o/have_you_ever_thought_about_automating_your/",
+      "published": 1794174517.0,
+      "thumbnail": "https://external-preview.redd.it/OWMzNXV6YXhsZzBpMbdN-c539USiZgPn_7Zy5_sMfYHr45u7Bj-3Fg2tH61a.png?width=640&crop=smart&auto=webp&s=1f0180f23c39fda93ecb4b021dba0534d3e23dee",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Bloqu\u00e9 depuis 1 mois avec ASTRA",
+      "author": "mathis_dch",
+      "url": "https://www.reddit.com/r/artificial/comments/1xr8na4/bloqu\u00e9_depuis_1_mois_avec_astra/",
+      "published": 1794170714.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Bonjour Reddit , Bloqu\u00e9 depuis 1 mois avec GPT ASTRA en ULTRA !\ud83d\ude2d Avec le mois d\u2019octobre qui vient de pass\u00e9 et les reset incessant d\u2019OpenAI je me suis dit qu\u2019il fallait en profiter ! \ud83d\ude01 Mais grave erreur ! 1 mois entier \u00e0 tourner en rond ! \ud83e\udd2c Aujourd\u2019hui je passe \u00e0 Opus 5.5 mon sauveur ! En 3 h il a r\u00e9cup\u00e9rer 1 mois de travail ! Mon verdict pour les personnes qui h\u00e9sitaient encore, FONCEZ ! TOUS !! et gardez GPT comme chat bot ou pour vous torcher le cul\ud83d\udc4e\ud83c\udffd Dite moi ce que vous en pensez personnellement vous me ferez plus revivre en arri\u00e8re \u23ee\ufe0f Merci Reddit \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
+    },
+    {
       "title": "Any LLM that doesn't agree with me so much?",
       "author": "hidden___hand",
       "url": "https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/",
@@ -46,15 +90,15 @@
       "description": "Simple question. Are there any LLMs that don't constantly agree with you? I feel like I can convince them of just about anything."
     },
     {
-      "title": "Preparation for IOAI (International Olympiad of Artificial Intelligence)",
-      "author": "barnsbarneymcconell",
-      "url": "https://www.reddit.com/r/artificial/comments/1xr27kh/preparation_for_ioai_international_olympiad_of/",
-      "published": 1794154841.0,
+      "title": "A Toast to the Singularity",
+      "author": "tesseract_space",
+      "url": "https://www.reddit.com/r/artificial/comments/1xr6q37/a_toast_to_the_singularity/",
+      "published": 1794165932.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hi guys, same as title I want to prepare for IOAI 2027, the first stage is after a month. I can program using python upto intermediate-expert level. Any advice is appreciated!"
+      "description": "A toast! I raise my glass with a precision neither half-empty nor half-full to the compute once savored. Yes, my fellow nerds\u2026 \ud83c\udfb5 the compute is gone \ud83c\udfb5 and it ain\u2019t coming back. Subscriptions are decaying as much as our prompting etiquettes. API fees are beginning to look like the only real source of truth anymore, and those are only going to climb as consumers demand more routing transparency. Yes, the $500 plan won\u2019t be a $500 plan but a hypothetical trickle-feed towards a project that would\u2019ve been aces with all that subsidized compute from back when. It\u2019s a tough spot for us, even knowing that somewhere, someone is still enjoying quite a bit of that sweet full precision mayhem. A toast: to dopamine, and the dopes that burnt it."
     },
     {
       "title": "An AI system just proved an 18-year-old quantum conjecture \u2014 and Lean checked every step",
@@ -66,51 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Physical Superintelligence (PSI) announced on November 6 that an internal research system running instances of a non-public Anthropic model produced a complete proof of the Aaronson\u2013Ambainis conjecture \u2014 a quantum-computing question open since 2008 \u2014 on the third day of a run. The Lean proof assistant accepted the proof, and the system then improved the result twice, with Lean re-checking each version. The paper and the Lean 4 formalization are public. The conjecture is about the limits of quantum speedups: roughly, whether a quantum computer can be exponentially faster than a classical one on unstructured problems. PSI's repo audit says the formalization contains 648 machine-checked theorems with no placeholders and no added axioms, and the declarations were replayed through Lean's kernel and lean4lean, an independent checker. The caveats matter: human mathematicians still need to confirm the formal statement matches Aaronson and Ambainis's original conjecture, the prose paper itself isn't machine-checked, and the model behind the discovery is non-public, so the three-day run can't be reproduced \u2014 only the proof can be verified. Source: https://www.unite.ai/psi-reports-machine-checked-proof-of-aaronson-ambainis-conjecture/ If this holds up, it's a striking case of AI doing real mathematics rather than just assisting with it. But it also raises a question: when the discovery process can't be inspected or repeated, and only the final proof is checkable, what does that do to how mathematics is done \u2014 and trusted? Curious what people here think."
-    },
-    {
-      "title": "my prompt compressor used to require a click. i made it automatic and usage jumped immediately",
-      "author": "Wonderful-Pudding71",
-      "url": "https://www.reddit.com/r/artificial/comments/1xr1gpg/my_prompt_compressor_used_to_require_a_click_i/",
-      "published": 1794152946.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "been building a prompt compression tool for a few months. original version: you type your prompt, you click a button, it shows you a compressed version, you decide whether to send it. the click was killing it. people installed it and never used it. switched it last week to intercept the send button automatically. compress it, inject it back, send it. you just type and hit send like normal. toast pops up saying how many tokens were saved. the lesson i keep relearning: if the user has to change their behavior even slightly, most of them won\u2019t. the product has to fit in the existing motion. anyone else building tools where removing a step made the whole thing click?"
-    },
-    {
-      "title": "Bank of England pours cold water on AI productivity boom",
-      "author": "NISMO1968",
-      "url": "https://www.reddit.com/r/artificial/comments/1xq34um/bank_of_england_pours_cold_water_on_ai/",
-      "published": 1794046736.0,
-      "thumbnail": null,
-      "external_url": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
-      "site_name": "theregister",
-      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
-      "description": "Turns out throwing billions at GPUs doesn't automatically mean everyone gets more done"
-    },
-    {
-      "title": "What does it actually mean to \u201clearn how to use AI\u201d?",
-      "author": "Smooth_Ad_1510",
-      "url": "https://www.reddit.com/r/artificial/comments/1xqievd/what_does_it_actually_mean_to_learn_how_to_use_ai/",
-      "published": 1794089607.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "These days, everywhere you look, someone is telling you to \u201clearn how to use AI.\u201d As much as I agree with the statement, I struggle to understand what actually learning AI is supposed to mean. For someone who\u2019s already working in a particular industry, it makes sense. You identify a problem, figure out how AI can help, and learn through applying it. But what about someone who\u2019s just starting out, without a job or a specific professional use case? Beyond everyday research and tasks I wouldn\u2019t otherwise be able to do myself, the only areas where I see a real learning curve are automation and coding. I\u2019m sure there are countless use cases I haven\u2019t considered, but does knowing how to perform a few AI-assisted tasks really mean you \u201cknow how to use AI\u201d? When people recommend learning AI, what exactly are they suggesting we learn? I\u2019m genuinely hoping someone can challenge my perspective and point me in the right direction, because I\u2019m more than willing to put in the effort. I just don\u2019t know where to start."
-    },
-    {
-      "title": "GPT-6 Astra flagged 15% of safe actions at a 99% detection target",
-      "author": "andrewaltair",
-      "url": "https://www.reddit.com/r/artificial/comments/1xquczz/gpt6_astra_flagged_15_of_safe_actions_at_a_99/",
-      "published": 1794129479.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "In an Oct. 15 pilot, Andy Hall and Dan Thompson compared AI auditors with human-labeled agent logs. On R-Judge, GPT-6 Astra reached 15% false positives when set to catch 99% of unsafe actions. At a 95% target, nearly all models stayed below 10%; Gemini 3.8 Flash stayed under 4%. The benchmark measures labeled logs, not deployed-agent rates. Source: https://freesystems.substack.com/p/were-using-ai-to-audit-ai"
     }
   ],
-  "fetched_at": "2026-11-08T18:57:31.482111+00:00"
+  "fetched_at": "2026-11-08T22:44:07.460441+00:00"
 }

@@ -15,24 +15,14 @@
       "description": null
     },
     {
-      "headline": "Six humanoid robots in China work 24-hour shift in a store, two fail assessment",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUjF2bTdpdzNYcWlzanYtdmlrc3hFOEdCZnFkU0tIMGlrdFJJX0ZKUkFCaFk5ZGRISTJ4Y19JakdIeVc4MVFrSUlTZWNTa1BlOTBKRUtVUDBWWHZlM2xNekh3aWxoeU9iTTBUNGZNYkV3RmJLcF9yZThNZ05CbktQMFZJcFE3ei1XcFE?oc=5",
-      "pub_date": 1794074100.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Agibot.jpg",
-      "description": "Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment."
-    },
-    {
-      "headline": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1E?oc=5",
-      "pub_date": 1794142801.0,
-      "article_url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108534206-1793992677011-Amazon_Fauna_Humanoid_Robot-26083751190117-AP.jpg?v=1793992738&w=1920&h=1080",
-      "description": "Amazon has formed a new home robotics team and is hiring for a \u201cnew-to-world robot product,\u201d according to CNBC\u2019s analysis of job posts."
+      "headline": "Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHl1UXVmSUktSXl4cy1OWFJaMDJSSTRTLTZwRmRMcUp4dVJONjBlRXA2NUliN0FkR3d0dFlrdU4xZ0tHOHliUzRJUTZvWm9sYUxHOW5pY0MzZVpYUTdsVjNFSnYtdEhQcXA1TDJvV3ZKWWpFMlhzck1DWEgtQVd3RlZzc2hqaGh5QjRsSmVSTUhLYWY0ajdxNU1pcUZ3d180VGdmSGtOSWVvMjRaVHFDUzR4emNBUFBFTU1TRjFB?oc=5",
+      "pub_date": 1793933696.0,
+      "article_url": "https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/hurst-digit5-lead.jpg",
+      "description": "Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people."
     },
     {
       "headline": "Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable.",
@@ -45,24 +35,14 @@
       "description": "Peggy Johnson rose through Qualcomm, became Microsoft's chief dealmaker, and led Magic Leap. Now she's trying to turn humanoid robots into a business."
     },
     {
-      "headline": "Standing in the way of slop bowls: the woman blocking food delivery robots",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkRZeVA2M0VTREpTajBTSGFUN3BBN1VEbTdmMFZacXZxSmNIRl9qUFZqVHFialBQaGsyS0NybXZkTG5uYUd6UWdtQWhUSHRmN010LUxyRzQ1VDBwUGcyeFhWZHUxX0twVWRmZ0VBT1lqekFYUjVqWHVONW1tc2x4MWlvdHM1d05pa0xqVmtWV0txeWxKS1hMQ2R0YTlIanhKMG4zRUxOcVFfd2Vq?oc=5",
-      "pub_date": 1794060060.0,
-      "article_url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
-      "image": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19c1a80021e2814f0bbcd0178aea2c0c",
-      "description": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia\u2019s growing robot delivery army: \u2018It\u2019s my first amendment right to protest\u2019"
-    },
-    {
-      "headline": "This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck",
-      "source": "ScienceAlert",
-      "source_url": "https://www.sciencealert.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkNjOXpuTjEycnFzM2dILXRWQ092MV9EdUZzNWhjYlE1d2pGalRDOXJ0NGxnNEt3ZkFwRjIzQXdCWlZDdE9nUVBfMWw4eWxkN1hzaFRqdDcwT3NmbDdiR0NNZEVWSEJZVmJNSHJFakhxWUZ0T0Zzdkx2UVk3a25zQ01faGY3clB0b2dPUzJFM3VqTnJ3WUw5dXQyekRwa1YzeldMbXBjVUlPZlBtY0tNVmE2M0xPVXl2bnA3Tk8xM29fZw?oc=5",
-      "pub_date": 1794132253.0,
-      "article_url": "https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck",
-      "image": "https://www.sciencealert.com/images/2026/11/WalkingHand-1200x675.png",
-      "description": "Watching a hand walk away on its fingers brings to mind Thing from\u00a0The Addams Family."
+      "headline": "The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGJHUFZXc2xYc0dDSHdkaHhicmpzZldYU0lua0ZzWk5mU2RpU3E0b3hpR0o0MUIybmE0ZFRZZ3M2bEtBVWV0RjhjY3dmVTloRE9OZkhPOE9vS3RJMlVvVlpVY2RCU2VRa2JZWWczVXRZeFg5QTV0SERPOTVhMk90dkFDS3hYcXFwRXRnRENqWFZrcDJDVW9ORm4yTmE5TDlGU3RBb0FOdlJXd1V2bGc?oc=5",
+      "pub_date": 1794052800.0,
+      "article_url": "https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241434981/image_2241434981.jpg?io=getty-c-w630",
+      "description": "Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play."
     },
     {
       "headline": "China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son\u2019s SoftBank",
@@ -75,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "The Pentagon Issues Conditional Approval for Autonomous Industrial Vehicles Under FCC Framework",
-      "source": "The Presidential Prayer Team",
-      "source_url": "https://www.presidentialprayerteam.org",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV2tRelB2QUtTRHp1YjlPQnVwZDR3ZDZhU3NxMWlYdFctYjMxVHB4NEpEZ2xTUG5mU1dabV9PZk5VdUNQaVdLeC1meFRwTVB2bEtwS0k2V2pWOWZBVC1kNS1hMUNnR1hLZHdubTZGN0lZOV8ySXNkMEdJT3lOSTB2bDl6N3NoNmFZMTZxMXhGZnVweERDMmpVUFl6NUZoOHpWczdhNzhFVHBXRXBNUmd1ZzZDVkFiN254bXBHRmlobkdVWnMzMzYwa09uWUtQS3pMZW50ZW54dlVZX3RIYWdR?oc=5",
-      "pub_date": 1794124800.0,
-      "article_url": "https://www.presidentialprayerteam.org/2026/11/08/the-pentagon-issues-conditional-approval-for-autonomous-industrial-vehicles-under-fcc-framework/",
-      "image": "https://www.presidentialprayerteam.org/wp-content/uploads/2020/03/PPT-Seal-Social-Meta-Image-1920x1080-1-e1584050686764.png",
-      "description": "Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority."
-    },
-    {
       "headline": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -95,16 +65,46 @@
       "description": null
     },
     {
-      "headline": "Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHl1UXVmSUktSXl4cy1OWFJaMDJSSTRTLTZwRmRMcUp4dVJONjBlRXA2NUliN0FkR3d0dFlrdU4xZ0tHOHliUzRJUTZvWm9sYUxHOW5pY0MzZVpYUTdsVjNFSnYtdEhQcXA1TDJvV3ZKWWpFMlhzck1DWEgtQVd3RlZzc2hqaGh5QjRsSmVSTUhLYWY0ajdxNU1pcUZ3d180VGdmSGtOSWVvMjRaVHFDUzR4emNBUFBFTU1TRjFB?oc=5",
-      "pub_date": 1793933696.0,
-      "article_url": "https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/hurst-digit5-lead.jpg",
-      "description": "Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people."
+      "headline": "This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck",
+      "source": "ScienceAlert",
+      "source_url": "https://www.sciencealert.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkNjOXpuTjEycnFzM2dILXRWQ092MV9EdUZzNWhjYlE1d2pGalRDOXJ0NGxnNEt3ZkFwRjIzQXdCWlZDdE9nUVBfMWw4eWxkN1hzaFRqdDcwT3NmbDdiR0NNZEVWSEJZVmJNSHJFakhxWUZ0T0Zzdkx2UVk3a25zQ01faGY3clB0b2dPUzJFM3VqTnJ3WUw5dXQyekRwa1YzeldMbXBjVUlPZlBtY0tNVmE2M0xPVXl2bnA3Tk8xM29fZw?oc=5",
+      "pub_date": 1794132253.0,
+      "article_url": "https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck",
+      "image": "https://www.sciencealert.com/images/2026/11/WalkingHand-1200x675.png",
+      "description": "Watching a hand walk away on its fingers brings to mind Thing from\u00a0The Addams Family."
+    },
+    {
+      "headline": "Physicl raises $10M to make the digital world real enough for robots",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUp1SVV0MDNnTEJ3WVR0UDByckFtam9UUHZLeUFmQ3BsWFFFODFzZzhZZElqVmlvZDhOUTVmaWlyM2RNNjRtdmZaWWtPTXVKakp2RzhZVUpVUlo1eWdGTXhMYktWTjR6Z0JObWJrR2otZVlQd0hnbG55U2Ztd3hVYXBfcnZDQ3I0VXRXdWkwa1RiclJrM0J4YWp3MUswaHEyUjZmaA?oc=5",
+      "pub_date": 1793970000.0,
+      "article_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
+      "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+    },
+    {
+      "headline": "Serve Robotics Inc (SERV) Q3 2026 Earnings Call Highlights: Revenue Surges Over 300% as ...",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajd1cHVxRlFFN05fUTBORUFqcWFqYWczdEVxenN2X1ItbU1kV0hmWHdTVkF5eHU3QlZHZGQtdEs4MHdzWlJiNU8wYlduYk80UkNPR3BrWnE0b0llNERNNjJGaFFvRm5PSlVyUDY1M2Rzd3d4QkR3dE1UVko1NVFoUldZWEpuUUNseHU0WVplelI3MkxNbkE?oc=5",
+      "pub_date": 1793942400.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-inc-serv-q3-052023243.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Serve Robotics Inc (SERV) beat Q3 revenue expectations, lifted full-year 2026 guidance to $12 million, and unveiled a new high-margin physical AI services business despite a widening GAAP net loss."
+    },
+    {
+      "headline": "Agility Robotics\u2019 Nasdaq debut invites scrutiny of humanoid robot market",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmp2QnJjbUhiWkhTQmhfZzgydGJIS1g3QkZsVnVyYjJvV19xUWpMVkNwS0dyWXBoOU56WThDRVZPMGk4cTExY1lEQTZaREtVNDdiSjB0a3NNOEtTb1F2MHg3aHJBdkN0V1RWTWhVUWRONmRkM1JrY29NeDBzZkw3ZFh1U2c0cV9KcGg3X0VHamxONS1yNk9oWU03dEs0TFNyM2FDTG1NVGpVZFU?oc=5",
+      "pub_date": 1793880041.0,
+      "article_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
+      "description": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-08T18:57:53.979759+00:00"
+  "fetched_at": "2026-11-08T22:44:28.456666+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-08T18:58:05.916497+00:00'
+updated: '2026-11-08T22:44:33.905768+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 08, 2026 at 18:58 UTC  
+**Last Updated:** November 08, 2026 at 22:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,19 +122,11 @@ Reuters • 1d ago
 
 ---
 
-**[Six humanoid robots in China work 24-hour shift in a store, two fail assessment](https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete)**
+**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
 
-Six AGIBOT G2 humanoid robots completed 1,730 tasks in a 24-hour Shanghai store trial, but only four passed the final assessment.
+Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
 
-Interesting Engineering • 1d ago
-
----
-
-**[Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again](https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html)**
-
-Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.
-
-CNBC • 5h ago
+GeekWire • 2d ago
 
 ---
 
@@ -142,23 +134,15 @@ CNBC • 5h ago
 
 Peggy Johnson rose through Qualcomm, became Microsoft's chief dealmaker, and led Magic Leap. Now she's trying to turn humanoid robots into a business.
 
-Business Insider • 8h ago
+Business Insider • 12h ago
 
 ---
 
-**[Standing in the way of slop bowls: the woman blocking food delivery robots](https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots)**
+**[The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)](https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade)**
 
-Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’
+Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play.
 
-The Guardian • 1d ago
-
----
-
-**[This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck](https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck)**
-
-Watching a hand walk away on its fingers brings to mind Thing from The Addams Family.
-
-ScienceAlert • 8h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -168,25 +152,41 @@ Forbes • 1d ago
 
 ---
 
-**[The Pentagon Issues Conditional Approval for Autonomous Industrial Vehicles Under FCC Framework](https://www.presidentialprayerteam.org/2026/11/08/the-pentagon-issues-conditional-approval-for-autonomous-industrial-vehicles-under-fcc-framework/)**
-
-Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
-
-The Presidential Prayer Team • 10h ago
-
----
-
 **[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
 
 Financial Times • 2d ago
 
 ---
 
-**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
+**[This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck](https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck)**
 
-Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
+Watching a hand walk away on its fingers brings to mind Thing from The Addams Family.
 
-GeekWire • 2d ago
+ScienceAlert • 12h ago
+
+---
+
+**[Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/)**
+
+Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.
+
+TechCrunch • 2d ago
+
+---
+
+**[Serve Robotics Inc (SERV) Q3 2026 Earnings Call Highlights: Revenue Surges Over 300% as ...](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-inc-serv-q3-052023243.html)**
+
+Serve Robotics Inc (SERV) beat Q3 revenue expectations, lifted full-year 2026 guidance to $12 million, and unveiled a new high-margin physical AI services business despite a widening GAAP net loss.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)**
+
+US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.
+
+Ars Technica • 3d ago
 
 ---
 
@@ -200,7 +200,7 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 14K • 👍 257 • 💬 36 • ⏱️ 6:44 • 3d ago
+👁️ 14K • 👍 260 • 💬 36 • ⏱️ 6:44 • 4d ago
 
 ---
 
@@ -210,57 +210,7 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 136K • 👍 2K • 💬 384 • ⏱️ 15:13 • 2d ago
-
----
-
-**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
-
-This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
-
-📺 Unstoppable Gadgets
-
-👁️ 72K • 👍 1K • 💬 30 • ⏱️ 0:21 • 2d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
-
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 145K • 👍 964 • 💬 120 • ⏱️ 9:12 • 6d ago
-
----
-
-**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
-
-Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
-
-📺 Mahdi Designs
-
-👁️ 230K • 👍 3K • 💬 326 • ⏱️ 15:06 • 5d ago
-
----
-
-**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
-
-A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
-
-📺 Inside Edition
-
-👁️ 25K • 👍 326 • 💬 85 • ⏱️ 1:43 • 3d ago
-
----
-
-**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
-
-America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
-
-📺 Living in China
-
-👁️ 114K • 👍 2K • 💬 174 • ⏱️ 7:07 • 3d ago
+👁️ 140K • 👍 2K • 💬 389 • ⏱️ 15:13 • 2d ago
 
 ---
 
@@ -274,13 +224,33 @@ Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming F
 
 ---
 
-**[Build Your Own AI Robot Companion!](https://www.youtube.com/watch?v=PRxfqi3zWvw)**
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
 
-Build your own AI Robot Companion! Create your own smart AI robot that can interact with you, respond to sounds, and express ...
+Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
 
-📺 MW Electronics Lab
+📺 Mahdi Designs
 
-👁️ 84K • 💬 11 • ⏱️ 0:05 • 4d ago
+👁️ 234K • 👍 3K • 💬 328 • ⏱️ 15:06 • 5d ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 145K • 👍 966 • 💬 120 • ⏱️ 9:12 • 6d ago
+
+---
+
+**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
+
+A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
+
+📺 Inside Edition
+
+👁️ 26K • 👍 327 • 💬 86 • ⏱️ 1:43 • 4d ago
 
 ---
 
@@ -290,7 +260,37 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 17K • 👍 872 • 💬 32 • ⏱️ 1:44 • 1d ago
+👁️ 18K • 👍 927 • 💬 35 • ⏱️ 1:44 • 2d ago
+
+---
+
+**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
+
+America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
+
+📺 Living in China
+
+👁️ 118K • 👍 2K • 💬 176 • ⏱️ 7:07 • 3d ago
+
+---
+
+**[Xiaomi Humanoid Robots Work 8 Hours in EV Factory](https://www.youtube.com/watch?v=TUYfevB3ISQ)**
+
+Xiaomi's humanoid robots just completed a reported 8-hour shift at an electric car factory! The 2 robots sorted automotive interior ...
+
+📺 DPCcars
+
+👁️ 735 • 👍 6 • ⏱️ 0:45 • 8h ago
+
+---
+
+**[When Robots Take on a Mountain, Things Get WILD!](https://www.youtube.com/watch?v=ybCxZWkJvXU)**
+
+Some robots are being led uphill on leashes, others are stumbling backward, and one even has to be carried away on a stretcher!
+
+📺 TECH MOMENTS
+
+👁️ 8K • 👍 34 • 💬 2 • ⏱️ 0:22 • 5d ago
 
 ---
 
