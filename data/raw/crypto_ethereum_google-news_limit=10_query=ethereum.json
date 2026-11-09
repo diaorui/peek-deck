@@ -5,24 +5,54 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "EIP-8037/EIP-8038 Glamsterdam",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11VU05Q1NIWkhrX0RFTnRXM2FUZFVPaERuS3dhRWRyNTZ0V2JrUjJWX1Z0MUxVZjl5Rmc2QjFteGRTcTNSa1ZFYWhCa1JKMFZPUTRZQXVJUENJMW9OcDY3ZHVCbXhnSFdmTkE?oc=5",
-      "pub_date": 1793977137.0,
-      "article_url": "https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038",
-      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
-      "description": "In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants..."
+      "headline": "Cryptocurrency lawsuit: Ethereum Foundation required suicide pledge",
+      "source": "The Denver Post",
+      "source_url": "https://www.denverpost.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2dvSTJleHFjZ21zb01tM3d1WHY5cFZBNUlFc3YxclJadjJqSzMxM1Y3Sl85X2E3ekxTc2dBOFdYbGxMLVBqU2lyalRJSktiR2ZaRUZlSmtnWkxtYXBtMDE4S19hNVZqTkVxUlJqR3NVLUdaRkE4Y3poM1oyVDJGcGN2RHdfbE5TTjFBVC1EdmdENWs2Wm4yWg?oc=5",
+      "pub_date": 1793962822.0,
+      "article_url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+      "image": "https://www.denverpost.com/wp-content/uploads/2026/11/TDP-Z-GettyImages-1243256258.jpg?w=5093&h=3395",
+      "description": "On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership\u2019s vision for the foundation for the next 1,000 years."
     },
     {
-      "headline": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcHhZNUhxeGtaOVdGb0NTTHhucFRnaVZvc1VGY3pMN1NuRl9nR3VpUldLWTQwZnNXQXpzbFJOSWM5NmZmRDF0WXQwLTAyOWF3M01NTE1XZGhOZDVnRGgyNXUwbnF1cGoyM2c?oc=5",
-      "pub_date": 1794100021.0,
-      "article_url": "https://beincrypto.com/ansem-zcash-price-weakness-bitcoin/",
-      "image": null,
-      "description": null
+      "headline": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZm9aVmM0Mzlnb2FPS1k3ZmU2YXNFNi1sdlJBeW8xS1otS2ZGRkloWXhId1oxTFM0N2NrZkJzNnNSeUwwSjAzX1lVTXJEcVgtekFJTmVLODNfSng1MmZWQlYzR2ZvcHl4S0sxX1hBR2tSb1VqMFhGdFRUdTJ3WkdBMWkzYUNQM0pEUUNWdG00WDdnWUxIYUhwX0pwYk5qRnlWTkRfTC1rMEhHcnlqR0xWbGlqb1dmbWJGZFJIVzNvMm1PUmRacV9vZmtyaC1mY1V0LV9MZA?oc=5",
+      "pub_date": 1794215100.0,
+      "article_url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/raycash-zama-protocol.png",
+      "description": "Raycash says it has more than 75,000 people on its waitlist and is offering USDC payments and yield through Morpho."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd0ZsNHpodlBpbU80cTZXNkRQVWd2RmNaUWFZVGF3T3hDVlQ5clVLZnhKdUVKc3ZzRXJoVDVFRjF5OGI3RFgzT2hUVnVqa0R1WTBaUDJBTjZhalV5OWNGeTJUaGxRb2ZqT0J6RFZSSFNCVHA1emdUU1pKWXUwNGJTUFlET2FvUDNGN2pjYnc1RXRYdm1NX2c5UUJia2YwU0R0alE?oc=5",
+      "pub_date": 1794220152.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-whipsaw-nvidia-102912603.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a63151418627df702d7ec93bb6eaae9939bbd945c9f72f85140e2c6c7176316a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F6129a272780d47af83dc364aba17971f",
+      "description": "More than $1.14 billion in leveraged crypto positions were liquidated in the last 24 hours, with long positions accounting for about 90% of the total."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Persists: Analyst Says BTC Needs to Hold This 'Pivotal' Area or Else...",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM1R3ZlBoSmpRMU1IdTF6Q3VicHdQdDJoUHRkQjQxWGt0ak1yMGRycTh3U2NVS1JTQkIzVld2YnF1X0c5Nlc3UFJ6Q2JEY2xrWjRKd0lqSXEyY0x2NGtLMXRXV3MxYW1zcURCdzFBS3g3dFBGZl9JczFUYkpOTXJBVUxBejlhUExwYVRVNThQa21LUG40TjlyRGVkNGNVRWRYcHJMZHBpcUxjZFItOE41NVBLbWhOSGtZdDVqb0JLSHkybGxraXVKUk83VFk2ZTFNZGZqNEFZbzFfaVRTRm9HQ19LXzFrZ0Z4ZC1ndXlBbFExRU5BWFEyc2hEeXU2NElUYXF1Skgta1Bidw?oc=5",
+      "pub_date": 1794038400.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:f6d547cdb094b:0-bitcoin-ethereum-xrp-dogecoin-slide-as-fear-sentiment-persists-analyst-says-btc-needs-to-hold-this-pivotal-area-or-else/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies fell sharply overnight on Sunday as investors awaited upcoming inflation reports for clues on the future path of monetary policy.Crypto Fails to ExciteBitcoin slipped below $74,000 late in the evening before recovering to the high $74,000s. Ethereum wiggled in the high $2,0\u2026"
+    },
+    {
+      "headline": "Bitcoin tests support as Ethereum shows relative strength",
+      "source": "Kitco",
+      "source_url": "https://www.kitco.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTk1bktjMm4xYjZuZkxyZnZTS0VGUGZHRTFWMDBMZFZXSmNWNXNBeEVfY0EtWW1udkxjak8wdllPMDhaeXF5WWI1YkRKQlhlOWFoRHV6Zmxvd29nam45U3drR2RaZ3ZwTWl5TTBOQ1JWZGx0Um5ONFhEMUV5VXZOZXRMaGpxWVl4bnlkOXNNRVZWc0xpc1hrRTdqaw?oc=5",
+      "pub_date": 1794253408.0,
+      "article_url": "https://www.kitco.com/opinion/2026-11-09/bitcoin-tests-support-ethereum-shows-relative-strength",
+      "image": "https://image-api.prod.kitco.com/image/345d783e-ccc8-4bf2-8236-201ac3c1c9f7.jpeg?top=0&left=148.06706813083&width=431.86586373834&height=243&scale_width=1920&token=d0f0621fc796b8a0f4ced987840b1d1b6b05d11bd4f520a045b81c025819d1f1",
+      "description": ".embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:\u2026"
     },
     {
       "headline": "ETH news: Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
@@ -35,76 +65,46 @@
       "description": null
     },
     {
-      "headline": "Crypto foundation demanded employees endorse suicide pledge, then fired leaders who objected, Colorado lawsuit alleges",
-      "source": "The Denver Post",
-      "source_url": "https://www.denverpost.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2dvSTJleHFjZ21zb01tM3d1WHY5cFZBNUlFc3YxclJadjJqSzMxM1Y3Sl85X2E3ekxTc2dBOFdYbGxMLVBqU2lyalRJSktiR2ZaRUZlSmtnWkxtYXBtMDE4S19hNVZqTkVxUlJqR3NVLUdaRkE4Y3poM1oyVDJGcGN2RHdfbE5TTjFBVC1EdmdENWs2Wm4yWg?oc=5",
-      "pub_date": 1793962822.0,
-      "article_url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
-      "image": "https://www.denverpost.com/wp-content/uploads/2026/11/TDP-Z-GettyImages-1243256258.jpg?w=5093&h=3395",
-      "description": "On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership\u2019s vision for the foundation for the next 1,000 years."
+      "headline": "Current price of Ethereum for November 9, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QaXJGbi1NVkNFN2NLRU1nUnVWNG9veTlvaXZJS3hFdlMxN2Fqd1pFUHRXUTdlSkI0c3YzYkJyT3JFYkp4SUpib0tKVlNCMC1KYzJTakJFdlJ0TWZlOVRYakxJMkhNbWp1?oc=5",
+      "pub_date": 1794228300.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-09-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-9.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Persists: Analyst Says BTC Needs to Hold This 'Pivotal' Area or Else...",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM1R3ZlBoSmpRMU1IdTF6Q3VicHdQdDJoUHRkQjQxWGt0ak1yMGRycTh3U2NVS1JTQkIzVld2YnF1X0c5Nlc3UFJ6Q2JEY2xrWjRKd0lqSXEyY0x2NGtLMXRXV3MxYW1zcURCdzFBS3g3dFBGZl9JczFUYkpOTXJBVUxBejlhUExwYVRVNThQa21LUG40TjlyRGVkNGNVRWRYcHJMZHBpcUxjZFItOE41NVBLbWhOSGtZdDVqb0JLSHkybGxraXVKUk83VFk2ZTFNZGZqNEFZbzFfaVRTRm9HQ19LXzFrZ0Z4ZC1ndXlBbFExRU5BWFEyc2hEeXU2NElUYXF1Skgta1Bidw?oc=5",
-      "pub_date": 1794189780.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:f6d547cdb094b:0-bitcoin-ethereum-xrp-dogecoin-slide-as-fear-sentiment-persists-analyst-says-btc-needs-to-hold-this-pivotal-area-or-else/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Leading cryptocurrencies fell sharply overnight on Sunday as investors awaited upcoming inflation reports for clues on the future path of monetary policy.Crypto Fails to ExciteBitcoin slipped below $74,000 late in the evening before recovering to the high $74,000s. Ethereum wiggled in the high $2,0\u2026"
+      "headline": "Digital Asset Treasury Firms Continue to Buy Bitcoin and Ethereum. That's Why I'm Bullish on These Two Cryptocurrencies.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUotM04yMkhJdHlMeUVrdFJXQ1FXNVE4MVB6MnZ3MTYzZGM1emlvTkJsSy1VZWlnaThhYzZEMzRteUlwQ3J4bE8walZ2RjNISkhQa1NmTV9PaUpnRTRHRENPaHFzX19xRGVTMmMzTE9oWk1WT1dHWVVDdGh6TUdkblNUbWMwczA4TERESkNQbDdnQnZNSG1XZA?oc=5",
+      "pub_date": 1794219720.0,
+      "article_url": "https://www.fool.com/investing/2026/11/09/digital-asset-treasury-firms-continue-to-buy-bitco/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892693%2Fbtcmstr.jpg&w=1200&op=resize",
+      "description": "These big buyers have slowed their purchases, but they haven't stopped."
     },
     {
-      "headline": "Wall Street Keeps Selling Ethereum, but Whales Are Buying In",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxZV0xmaFZVdk9nM0E3bGEtM1Btc3U5aDM3LUo1ZE1lRVJlVDVmT3ItcWZxNXBTY1NhUHRHaGRZa2FOTnFpWEt3Yl9BV1J4cHp6YzBfalY0MjhJSml2UXg4SEszRE1XQ0pKOFJ5Zm9pZW04RkNJaVB5cEJid01td3gzb2hxLXU1dEROR2hpOEZqR0ZTUktGRnZEVy0wenNs?oc=5",
-      "pub_date": 1794201360.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-keeps-selling-ethereum-051629684.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d2c4032da04b735ab7b809be315b83f340b59d9558ffc625b78ef1e7da65b652/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F9a93af0fd9452e9899dd40e1de10c76f.jpg",
-      "description": "Ethereum price fell 13.98% in a month as spot ETFs logged six weeks of outflows and a few whales bought the dip."
+      "headline": "Why Wall Street can use Ethereum without betting on ETH",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmxkNzFNcnczUVIzZ1VBaHliSFNkSFlNNFU5cUxzQTN5SmlyWEw1M191YUtDWHVPMHVOTVpzWTZjUWVWTEdlMExaai1XaWFLVzhmbDhnMmtaakdqVEpXaXpvNzUtVDRKaldPOG81LU40RXJDc05fWWxNRlI2VF9mUE1ZcFVKbUk?oc=5",
+      "pub_date": 1794222168.0,
+      "article_url": "https://cryptoslate.com/why-wall-street-can-use-ethereum-without-betting-on-eth/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/vitalik-ethereum-thesis-test.webp",
+      "description": "Vitalik Buterin\u2019s ETH case meets BUIDL\u2019s established dollar collateral route, separating Ethereum settlement from demand to hold ETH as margin."
     },
     {
-      "headline": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaGlONVQtQWJZS1U1RXJoQjlkSGVVcE5kZ0FhNzZRdER4N1A3c3hNZnpxaFRZbjhxb25GYURlUWlVWDdteUhYdGdYVlp3ZEdDN2dWMEhMaGhPRWpMbEI2QjVXMERkaDR4LU5kcEJBNWwwRmkzR2liZDRDS1g4UGFnNjVzYk1MZG9IRHR1U3JoQzNSLW15Y1F5Y2dvY3hydlpHYU1yYU9kTU9PUXRyMHQ5RDJueTVreEVjTWFGd3gzaHV0ajF0NDJuRVJ4ZzRqU1I0UjB6ZmJma3RMejQ?oc=5",
-      "pub_date": 1794153420.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Vitalik-Amidst-Crimson-Geometric-Waves-unmarker.jpg",
-      "description": "The Ethereum co-founder said the case for valuing ETH as a fee-burning token \"never was as strong as it seemed\" and that maximizing fees would force Ethereum to operate like a major corporation."
-    },
-    {
-      "headline": "Bitcoin Tumbles To US$73,708, Ethereum Hits US$2,223 As Regulatory Fears Rock Crypto Market",
-      "source": "BusinessToday Malaysia",
-      "source_url": "https://www.businesstoday.com.my",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOUdlOG43MWVJd0N0dUFXai1oZmpzYkN3b0loZGltVGhQMHFSOWVYRzJaSEVrODVIejl6dnIyYWY2b095UWVfQk54VF9FdGxZeldhT2xXTURwamF5cWVWT1hicW50NGI3c1FpbUZuMDktY0RDenRBa3BNMEpMd2NEX0lMdDYweWFoZ1VoVjRZdXBFajNTOEVmaTdrRlIzLTRvd1h3VURlMlpTTGpmWnBuRGhIX1hoNmJ4NnZCVk1Na0xuSjZfcGFCNlQwMA?oc=5",
-      "pub_date": 1794188669.0,
-      "article_url": "https://www.businesstoday.com.my/2026/11/09/bitcoin-tumbles-to-us73708-ethereum-hits-us2223-as-regulatory-fears-rock-crypto-market/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Crypto News Today: Saylor Hints at Bitcoin Buy as Buterin Questions Ethereum Burn Thesis, and Schwartz Downplays XRP Price Influence",
-      "source": "Brave New Coin",
-      "source_url": "https://bravenewcoin.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUWJZYWdQWTAzZkQ3M0JoY1p2RWxYSGIzRGRuWE0yVDlrWFdOcG9nZUF6LUZxT0V3QldVVWhDQmtHWkZyaUVjbWdmM2pSOUdCWHgzOUl6Y0g5NWJiNHl0aWdlUXo1M0RMeFJtTzdGU2xjc1RYcEpaeUJzd1dLSnN6SFJQS3NndVl3R2dYNmpielFhQUYxV3pvVFlmVkVueXYteGh6Z0hwMWZFZEhUTUd4eG5BdVpkSkNERzFSS09icXBUQWlnbER1N1RRYXpBVEk5emxDZ2U3NXhhTmhGRDd1TFVsRkRfbGtVTVBfaTNCTkhDTlZsa09v?oc=5",
-      "pub_date": 1794203887.0,
-      "article_url": "https://bravenewcoin.com/insights/crypto-news-today-saylor-hints-at-bitcoin-buy-as-buterin-questions-ethereum-burn-thesis-and-schwartz-downplays-xrp-price-influence",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/crypto-news-today-image3.jpg",
-      "description": "Three prominent crypto figures have drawn attention to separate market issues as fresh Bitcoin buying speculation, an Ethereum tokenomics debate, and XRP price criticism converge."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms",
+      "headline": "Gold-Backed Tokens Shine in Falling Crypto Market, Defy Bitcoin and Ethereum\u2019s Downturn Last Week",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZDdXNVlRT2ZCX05wYXdVMU92UUtvbEF6b214dzlRVUZCY3JBMVJ0THVUUFFfQm55cUhiLW5qdkh6bm50TEdNMEt4VE1SSm45anBaUnAzcEttcDNNOXFGWG5yME15RktDMlZvTE1uZmhuSkttNVFlWU9KOEhjOXdNanpHc2Q1VnFMeGNQajUtOHllTHNNWVVDcnJYYkxiOWgyREJKUWVBWWdFN1RsbTV2VURYNnFIb3hDcmFLT000SHc1aGo1WkZtVjNadw?oc=5",
-      "pub_date": 1794166207.0,
-      "article_url": "https://www.benzinga.com/crypto/26/11/63020476/bitcoin-ethereum-and-solana-etf-outflows-jump-as-key-fear-gauge-drops-after-midterms",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXFRaHNENnd5TGxzOG0zSVRnZXk3UTZkWGVLMzcwTWZLclFWSlhoVk1JSE9fVVRTVVI5c2R5N0wwQXREcXNpa25PUUU5Qm9LSFdObFJVUl9IM1huQ01QVEE0dWp2RmNVTmxIU0swNGt2S2hqZzVqUFlGWXdOVTNsN3M2b2hYTlBWejNVckdGTzZRelZ2MktQalhQT3p4WkgyMVo4?oc=5",
+      "pub_date": 1794216097.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63023650/tether-gold-pax-crypto-bitcoin-ethereum",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-09T10:06:45.522762+00:00"
+  "fetched_at": "2026-11-09T20:58:01.418615+00:00"
 }

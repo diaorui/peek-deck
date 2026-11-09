@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-09T20:57:52.653788+00:00",
+  "data": {
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "description": "At the Conference on Robot Learning, NVIDIA is introducing GR00T 2, Isaac Lab 3.0 and new open benchmarks, built in collaboration with partners, bringing precision and scale to robot training.",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1-1680x945.png",
+    "favicon": "https://blogs.nvidia.com/favicon.ico",
+    "site_name": "NVIDIA Blog",
+    "author": "Sasa Docca",
+    "keywords": null
+  }
+}
