@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-09T02:25:27.896214+00:00'
+updated: '2026-11-09T10:06:52.155806+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 09, 2026 at 02:25 UTC  
+**Last Updated:** November 09, 2026 at 10:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,208.75
+### $74,309.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -2.5%  
-**30d:** -9.9%  
-**90d:** +19.0%  
-**1y:** -28.9%  
+**24h:** -2.4%  
+**7d:** -4.2%  
+**30d:** -11.4%  
+**90d:** +16.9%  
+**1y:** -30.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1513.12B
+**Market Cap:** $1491.94B
 Rank #1
 
-**Circulating Supply:** 20,109,703 BTC
+**Circulating Supply:** 20,109,831 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--40.3%
+-41.2%
 
 **All-Time Low:** $67.81
-+110861.5%
++109298.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 28
+### 29
 **FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Actually, nah, boating accident](https://www.reddit.com/r/Bitcoin/comments/1xpxt2r/actually_nah_boating_accident/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -109,7 +109,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1d ago
+2d ago
 
 ---
 
@@ -121,7 +121,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC](https://www.reddit.com/r/Bitcoin/comments/1xp62bf/bitcoin_developer_proposes_landmines_to_make/)**
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc) • 2d ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc) • 3d ago
 
 ---
 
@@ -157,37 +157,23 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC](https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc)**
+**[Bitcoin's Blockchain Just Ran Backward in Time. Is Something Wrong?](https://beincrypto.com/bitcoin-block-timestamps-run-backward/)**
 
-CoinDesk • 3d ago
-
----
-
-**[Cryptocurrencies slide to two-month lows after US midterms](https://www.reuters.com/business/cryptocurrencies-slide-two-month-lows-after-us-midterms-2026-11-08/)**
-
-Reuters • 3h ago
+BeInCrypto • 6h ago
 
 ---
 
-**[An Analyst Who Expects One More Big Drop Still Sees Bitcoin Reaching $2 Million. Can BTC Rise 26 Times From $75,000?](https://finance.yahoo.com/markets/crypto/articles/analyst-expects-one-more-big-230142327.html)**
+**[Bitcoin's drop and pop triggers $1 billion in liquidations](https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility)**
 
-Beth Kindig warns another sharp selloff is coming, yet she still holds a seven-figure target for Bitcoin. The math behind that call hinges on one deadline, and ETF outflows and a rising dollar are already testing it.
-
-Yahoo Finance • 3h ago
+CoinDesk • 6h ago
 
 ---
 
-**[$1B liquidated from crypto market as Bitcoin, Ethereum drop](https://www.tradingview.com/news/cryptobriefing:19cce9562094b:0-1b-liquidated-from-crypto-market-as-bitcoin-ethereum-drop/)**
+**[These early investors rode Firmus from bitcoin to billion-dollar play](https://www.afr.com/technology/these-early-investors-rode-firmus-from-bitcoin-to-billion-dollar-play-20261109-p61cc1)**
 
-Crypto traders who bet on higher prices just had a very expensive couple of days.More than $1 billion in leveraged positions were liquidated as Bitcoin, Ethereum, XRP, and Solana all fell below key price levels. A widely shared market post put the wipeout at $1 billion in just 10 minutes. Broader d…
+A long-time banker, a former Victorian Liberal Party official and a low-profile lawyer were among the first to back the data centre hopeful – at a bargain price.
 
-TradingView • 4h ago
-
----
-
-**[Bitcoin holds below $76K as Binance EU closures add to crypto market pressure](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133)**
-
-Investing.com • 20h ago
+AFR • 16h ago
 
 ---
 
@@ -195,21 +181,29 @@ Investing.com • 20h ago
 
 Bitcoin trades just $211 above Strategy's $75,451 average cost. Here's what could happen to MSTR if Bitcoin closes below it.
 
-24/7 Wall St. • 7h ago
+24/7 Wall St. • 15h ago
 
 ---
 
-**[In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin](https://www.fool.com/investing/2026/11/07/in-5-years-one-of-these-cryptocurrencies-could-be/)**
+**[This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet](https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet)**
 
-If Bitcoin hits one serious snag in particular, a few of its smaller competitors might have a shot at overcoming it.
+Bitcoin developer Cory Fields has an unusual idea for dealing with future quantum thieves: Make them risk their own Bitcoin.
+
+Decrypt • 20h ago
+
+---
+
+**[AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.](https://www.fool.com/investing/2026/11/07/ai-stocks-are-falling-bitcoin-is-holding-ground/)**
+
+Bitcoin's relative stability amid market turbulence portends well for its future.
 
 The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Faces CPI Test After AI Stock Sell-Off](https://bravenewcoin.com/insights/bitcoin-cpi-inflation-ai-stock-sell-off)**
+**[Crypto News Today: Saylor Hints at Bitcoin Buy as Buterin Questions Ethereum Burn Thesis, and Schwartz Downplays XRP Price Influence](https://bravenewcoin.com/insights/crypto-news-today-saylor-hints-at-bitcoin-buy-as-buterin-questions-ethereum-burn-thesis-and-schwartz-downplays-xrp-price-influence)**
 
-Bitcoin CPI preview: November 10 inflation data and CoreWeave earnings put interest rates and AI demand in focus after the tech sell-off.
+Three prominent crypto figures have drawn attention to separate market issues as fresh Bitcoin buying speculation, an Ethereum tokenomics debate, and XRP price criticism converge.
 
 Brave New Coin • 4h ago
 
@@ -217,7 +211,13 @@ Brave New Coin • 4h ago
 
 **[Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms](https://www.benzinga.com/crypto/26/11/63020476/bitcoin-ethereum-and-solana-etf-outflows-jump-as-key-fear-gauge-drops-after-midterms)**
 
-Benzinga • 6h ago
+Benzinga • 14h ago
+
+---
+
+**[Bitcoin Price Prediction: Why BTC Could Rally This Week as $70K Risk Persists](https://coingape.com/markets/bitcoin-price-prediction-why-btc-could-rally-this-week-as-70k-risk-persists/)**
+
+CoinGape • 16h ago
 
 ---
 
@@ -237,7 +237,7 @@ Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen
 
 Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs development by creating an account on GitHub.
 
-⬆️ 10 • 💬 0 • 5d ago • [GitHub](https://github.com/gosuda/bitcoin-rs)
+⬆️ 10 • 💬 0 • 6d ago • [GitHub](https://github.com/gosuda/bitcoin-rs)
 
 ---
 
@@ -275,7 +275,7 @@ Wallets linked to Mercado Bitcoin’s security breach remained active after tran
 
 Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32, cpuminer). Every share&#39;s difficulty in real time, records with confetti and siren, pool failover, luck meter. Z...
 
-⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/Modanez/HomeMinerProxy)
+⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/Modanez/HomeMinerProxy)
 
 ---
 
@@ -291,13 +291,7 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 Discord is moving its apps fully over to the Rust programming language.
 
-⬆️ 494 • 💬 434 • 3d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
-
----
-
-**[Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153)**
-
-⬆️ 1 • 💬 1 • 1d ago
+⬆️ 494 • 💬 436 • 3d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 
 ---
 
@@ -305,33 +299,23 @@ Discord is moving its apps fully over to the Rust programming language.
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Falls to the Bull Market Support Band](https://www.youtube.com/watch?v=0AGXzdZNwq0)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 75K • 👍 3K • 💬 122 • ⏱️ 9:28 • 6h ago
+
+---
+
 **[They See $2 Million Bitcoin! Why Are They Warning of $30K First?](https://www.youtube.com/watch?v=xpBOtX6vLZw)**
 
 Could Bitcoin crash to $30000 before eventually reaching $2 million? A bold new forecast from Nvidia bull Beth Kindig raises ...
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 589 • 💬 65 • ⏱️ 9:11 • 3h ago
-
----
-
-**[Is This the Start of a Financial Crisis or Bitcoin’s Biggest Bull Run?](https://www.youtube.com/watch?v=vqFt75tN3AI)**
-
-Bitcoin is trading in the mid to high $70000s after a brutal week for the AI trade and the banks, and Rustin, Hurley and Opti break it ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 839 • 💬 125 • ⏱️ 50:05 • 1d ago
-
----
-
-**[Every Bitcoin Price Prediction on Our Podcast… Who Got It RIGHT?](https://www.youtube.com/watch?v=PkEAsd_5m_g)**
-
-Every Bitcoin price prediction that happened on The Iced Coffee Hour - price / date included at the time of the prediction PLUS ...
-
-📺 The Iced Coffee Hour Clips
-
-👁️ 20K • 👍 99 • 💬 66 • ⏱️ 29:25 • 1d ago
+👁️ 26K • 👍 968 • 💬 87 • ⏱️ 9:11 • 11h ago
 
 ---
 
@@ -341,7 +325,27 @@ Crypto is about to get INTERESTING! What Comes Next? Earn $14550 as a new user o
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 942 • 💬 117 • ⏱️ 12:28 • 3h ago
+👁️ 51K • 👍 2K • 💬 192 • ⏱️ 12:28 • 11h ago
+
+---
+
+**[BITCOIN JUST DID SOMETHING INSANE...](https://www.youtube.com/watch?v=fEQObe2KFV4)**
+
+WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activity Up to $3000 in BTC position ...
+
+📺 Crypto Rover
+
+👁️ 10K • 👍 590 • 💬 48 • ⏱️ 10:21 • 3h ago
+
+---
+
+**[CAUTION: Bitcoin Bulls LOST The Only Level That Matters! [What’s Next?]](https://www.youtube.com/watch?v=wkw7doy4aPI)**
+
+Today's live market update dissects Bitcoin's critical weekly close, confirming a decisive win for bears. We'll analyze the ...
+
+📺 Crypto Banter
+
+👁️ 9K • 👍 665 • 💬 12 • ⏱️ 45:10 • 2h ago
 
 ---
 
@@ -351,27 +355,17 @@ WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activ
 
 📺 Crypto Rover
 
-👁️ 29K • 👍 850 • 💬 50 • ⏱️ 7:27 • 20h ago
+👁️ 31K • 👍 862 • 💬 46 • ⏱️ 7:27 • 1d ago
 
 ---
 
-**[WAS BEN COWEN RIGHT ALL ALONG? [NEW BITCOIN LOW SOON?]](https://www.youtube.com/watch?v=WH58IVFSVOE)**
+**[🚨 BITCOIN IS CRASHING! [EMERGENCY UPDATE]](https://www.youtube.com/watch?v=fME4If3xKFs)**
 
 SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
 
 📺 Crypto Kid
 
-👁️ 9K • 👍 223 • 💬 29 • ⏱️ 16:21 • 14h ago
-
----
-
-**[Bitcoin Did This at $60K... Now It’s Happening Again!](https://www.youtube.com/watch?v=tNyGHlCIuTc)**
-
-Before You Sell Your Bitcoin, Watch This!! Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
-
-📺 Altcoin Daily
-
-👁️ 57K • 👍 2K • 💬 77 • ⏱️ 9:47 • 2d ago
+👁️ 9K • 👍 267 • 💬 40 • ⏱️ 5:48 • 11h ago
 
 ---
 
@@ -381,27 +375,27 @@ Bitcoin Is About To Surprise Everyone Again FREE Crypto Updates & Trade Setups o
 
 📺 Mister Crypto
 
-👁️ 9K • 👍 148 • 💬 15 • ⏱️ 9:30 • 17h ago
+👁️ 10K • 👍 153 • 💬 15 • ⏱️ 9:30 • 1d ago
 
 ---
 
-**[Bitcoin Just Wiped Out The Bulls](https://www.youtube.com/watch?v=y0SjcqQPdpA)**
+**[Bitcoin: Is the Bottom Coming in the Next Few Weeks?](https://www.youtube.com/watch?v=5ZJyc9sy8s4)**
 
-Bitcoin erased Wednesday's short-squeeze rally in Thursday's AI and Nasdaq crash, with about $1.26 billion in crypto liquidations ...
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
-📺 The Wolf Of All Streets
+📺 More Crypto Online
 
-👁️ 20K • 👍 569 • 💬 73 • ⏱️ 25:02 • 2d ago
+👁️ 12K • 👍 472 • 💬 32 • ⏱️ 17:51 • 11h ago
 
 ---
 
-**[THE BITCOIN DIVIDEND TRAP: Why Strategy Sold 7,000 Bitcoins Near The Lows!](https://www.youtube.com/watch?v=zCNypPDE1Cs)**
+**[WAS BEN COWEN RIGHT ALL ALONG? [NEW BITCOIN LOW SOON?]](https://www.youtube.com/watch?v=WH58IVFSVOE)**
 
-Strategy—the world's largest corporate holder of Bitcoin—just announced a headline third-quarter net income of $19.53 Billion, ...
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
 
-📺 Wall Street Truthbombs
+📺 Crypto Kid
 
-👁️ 23K • 👍 654 • 💬 287 • ⏱️ 14:52 • 1d ago
+👁️ 10K • 👍 229 • 💬 29 • ⏱️ 16:21 • 22h ago
 
 ---
 
