@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-09T10:06:52.164028+00:00'
+updated: '2026-11-09T20:58:12.635766+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 09, 2026 at 10:06 UTC  
+**Last Updated:** November 09, 2026 at 20:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be t
 
 Hello everyone, I’m new to the group. I’ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony’s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn’t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It’s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I’m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox
 
-4d ago
+5d ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello everyone, I’m new to the group. I’ve been interested in robotics from 
 
 I just finished testing the legs, i had to swap the modules i used to control the actuators because they were too weak. The test went smoothly, no burning just a little code adjustments and the legs move as they should. Next step it to figure out the necessary movements for it to walk.
 
-4d ago
+5d ago
 
 ---
 
@@ -60,7 +60,7 @@ I just finished testing the legs, i had to swap the modules i used to control th
 
 I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?
 
-4d ago
+5d ago
 
 ---
 
@@ -68,7 +68,7 @@ I modeled the individual parts and built the full assembly using SolidCraft and 
 
 Después de un accidente se han vuelto a construir las piernas. Está vez con encoder y un par de servoblocks en las caderas. Encoders magnéticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad .
 
-4d ago
+5d ago
 
 ---
 
@@ -116,25 +116,25 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 ## Google News: "robotics"
 
-**[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
+**[Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/)**
 
-Reuters • 2d ago
+At the Conference on Robot Learning, NVIDIA is introducing GR00T 2, Isaac Lab 3.0 and new open benchmarks, built in collaboration with partners, bringing precision and scale to robot training.
 
----
-
-**[Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again](https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html)**
-
-Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.
-
-CNBC • 21h ago
+NVIDIA Blog • 6h ago
 
 ---
 
-**[Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable.](https://www.businessinsider.com/peggy-johnson-took-robots-to-wall-street-they-turn-profit-2026-11)**
+**[Are We Ready for Robots That Code Their Own Skills?](https://spectrum.ieee.org/agentic-robotics)**
 
-Peggy Johnson rose through Qualcomm, became Microsoft's chief dealmaker, and led Magic Leap. Now she's trying to turn humanoid robots into a business.
+AI agents use simulation to solve tough robotics problems with code, not data
 
-Business Insider • 1d ago
+IEEE Spectrum • 1d ago
+
+---
+
+**[Nvidia announces GR00T 2 robotics model, Isaac Lab 3.0 tools (NVDA:NASDAQ)](https://seekingalpha.com/news/4669003-nvidia-announces-gr00t-2-robotics-model-isaac-lab-3_0-tools)**
+
+Seeking Alpha • 6h ago
 
 ---
 
@@ -144,47 +144,47 @@ Financial Times • 3d ago
 
 ---
 
-**[This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck](https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck)**
+**[Boston Dynamics Turns Atlas Into a Wheeled Actuator Testbed](https://www.unite.ai/boston-dynamics-turns-atlas-into-a-wheeled-actuator-testbed/)**
 
-Watching a hand walk away on its fingers brings to mind Thing from The Addams Family.
+Boston Dynamics detailed a wheeled Atlas experiment on November 9, 2026, after replacing the humanoid’s feet with wheels to probe actuator limits and the transfer of whole-body reinforcement learning from simulation to h...
 
-ScienceAlert • 1d ago
-
----
-
-**[Pakistan-built robots serve taste of future to Karachi diners](https://www.dawn.com/news/2043044)**
-
-The robots are proving a hit with families, who flock to the restaurant to watch the machines in action.
-
-Dawn • 1d ago
+Unite.AI • 32m ago
 
 ---
 
-**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
+**[AI-assisted learning platform helps robots reason beyond literal commands](https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109)**
 
-Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
+FLEX, a new AI-assisted learning platform developed by MIT engineers, enables motion-planning robots to follow a human’s explicit instructions while also drawing larger generalizations that help to improve its performance.
 
-GeekWire • 3d ago
-
----
-
-**[Chinese robotics stock surge on Apple robotics research](https://www.investing.com/news/stock-market-news/chinese-robotics-stock-surge-on-apple-robotics-research-5010497)**
-
-Investing.com • 4h ago
+MIT News • 15h ago
 
 ---
 
-**[China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son’s SoftBank](https://www.forbes.com/sites/iansayson/2026/11/07/china-blocks-54-billion-abb-robotics-deal-with-billionaire-masayoshi-sons-softbank/)**
+**[Serve Robotics: 3 Key Takeaways for Long-Term Investors](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-3-key-takeaways-010417331.html)**
 
-Forbes • 1d ago
+Software licensing lets Serve Robotics earn recurring revenue from outside robot builders without buying additional hardware, a model that the fleet-cost gains alone do not capture.
+
+Yahoo Finance • 19h ago
 
 ---
 
-**[Ukraine builds combat robots to hunt Russian troops in underground gas pipelines — UGVs adapted following 15-kilometer subterranean assault](https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault)**
+**[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
 
-Ukraine is developing a new class of combat robots designed to operate inside underground gas pipelines.
+Reuters • 2d ago
 
-Tom's Hardware • 19h ago
+---
+
+**[These Robotic Arms Are Powered by Algae. Watch How They Move](https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/)**
+
+The key to the movement of these flexible robots is the algae’s photosynthetic capabilities.
+
+WIRED • 10h ago
+
+---
+
+**[Ambi Robotics seeks Bay Area manufacturing space for next generation of AI-driven robots](https://www.bizjournals.com/sanfrancisco/news/2026/11/06/ambi-robotics-ai-robots-bay-area-manufacturing.html)**
+
+The Business Journals • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ King Kong Technology is giving away 100 crab robots for free to collect real-wor
 
 📺 Kathryn Petrillo
 
-👁️ 21K • 👍 538 • 💬 16 • ⏱️ 0:49 • 4d ago
+👁️ 21K • 👍 539 • 💬 16 • ⏱️ 0:49 • 4d ago
 
 ---
 
@@ -208,17 +208,7 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 15K • 👍 264 • 💬 37 • ⏱️ 6:44 • 4d ago
-
----
-
-**[Xiaomi Humanoid Robots Just Worked an 8 Hour Shift at a Car Factory](https://www.youtube.com/watch?v=RgJhL6_f1mE)**
-
-Xiaomi humanoid robots have completed their first reported 8-hour shift at an electric car factory. The 2 robots were tested on ...
-
-📺 DPCcars
-
-👁️ 3K • 👍 26 • 💬 5 • ⏱️ 5:46 • 19h ago
+👁️ 15K • 👍 266 • 💬 37 • ⏱️ 6:44 • 4d ago
 
 ---
 
@@ -228,47 +218,17 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 153K • 👍 2K • 💬 407 • ⏱️ 15:13 • 2d ago
+👁️ 161K • 👍 2K • 💬 413 • ⏱️ 15:13 • 3d ago
 
 ---
 
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
 
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
 
-📺 MostAmazingTop10
+📺 Unstoppable Gadgets
 
-👁️ 146K • 👍 972 • 💬 121 • ⏱️ 9:12 • 6d ago
-
----
-
-**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
-
-A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
-
-📺 Inside Edition
-
-👁️ 26K • 👍 334 • 💬 88 • ⏱️ 1:43 • 4d ago
-
----
-
-**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
-
-Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
-
-📺 NextGen Humanoids
-
-👁️ 23K • 👍 171 • 💬 28 • ⏱️ 8:50 • 6d ago
-
----
-
-**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
-
-Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
-
-📺 Mahdi Designs
-
-👁️ 242K • 👍 3K • 💬 330 • ⏱️ 15:06 • 6d ago
+👁️ 112K • 👍 2K • 💬 40 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -278,17 +238,57 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 20K • 👍 1K • 💬 37 • ⏱️ 1:44 • 2d ago
+👁️ 21K • 👍 1K • 💬 41 • ⏱️ 1:44 • 2d ago
 
 ---
 
-**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
+**[Xiaomi humanoid robots work a full 8-hour shift in its EV factory](https://www.youtube.com/watch?v=X2qjDBGiER8)**
 
-America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
+Xiaomi's humanoid robots worked a full eight-hour shift on its own EV assembly line, sorting car parts. In March, the longest run ...
 
-📺 Living in China
+📺 Klaank
 
-👁️ 127K • 👍 2K • 💬 181 • ⏱️ 7:07 • 3d ago
+👁️ 21K • 👍 174 • 💬 11 • ⏱️ 0:57 • 5d ago
+
+---
+
+**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
+
+Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
+
+📺 NextGen Humanoids
+
+👁️ 23K • 👍 175 • 💬 28 • ⏱️ 8:50 • 6d ago
+
+---
+
+**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
+
+A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
+
+📺 Inside Edition
+
+👁️ 26K • 👍 336 • 💬 88 • ⏱️ 1:43 • 4d ago
+
+---
+
+**[New AI Robot Is Run By Living Human Brain Cells (Absolutely Terrifying)](https://www.youtube.com/watch?v=qoBGtiOBzBA)**
+
+Scientists at Indiana University just hooked living human brain cells up to a humanoid robot, and it's learning. Called Brainobot ...
+
+📺 MACHINEKIND
+
+👁️ 138K • 👍 2K • 💬 537 • ⏱️ 12:18 • 2d ago
+
+---
+
+**[When Robots Take on a Mountain, Things Get WILD!](https://www.youtube.com/watch?v=ybCxZWkJvXU)**
+
+Some robots are being led uphill on leashes, others are stumbling backward, and one even has to be carried away on a stretcher!
+
+📺 TECH MOMENTS
+
+👁️ 8K • 👍 33 • 💬 2 • ⏱️ 0:22 • 6d ago
 
 ---
 
