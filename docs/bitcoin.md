@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-08T22:44:33.898183+00:00'
+updated: '2026-11-09T02:25:27.896214+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 08, 2026 at 22:44 UTC  
+**Last Updated:** November 09, 2026 at 02:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,268.32
+### $75,208.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -3.2%  
-**30d:** -10.4%  
-**90d:** +17.0%  
-**1y:** -29.1%  
+**24h:** -0.6%  
+**7d:** -2.5%  
+**30d:** -9.9%  
+**90d:** +19.0%  
+**1y:** -28.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1496.15B
+**Market Cap:** $1513.12B
 Rank #1
 
-**Circulating Supply:** 20,109,668 BTC
+**Circulating Supply:** 20,109,703 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--41.0%
+-40.3%
 
 **All-Time Low:** $67.81
-+109616.9%
++110861.5%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Paraguay bank crisis is showing why Bitcoin was created in the first place. USDT sellers reportedly demanded premiums of up to 13% after authorities placed major digital lender Ueno Bank into resolution.MILLIONS of people LOCKED OUT of their own money as Ueno bank COLLAPSES IN Paraguay President Pe…
 
-🔗 [TradingView](https://www.tradingview.com/news/cryptonews:e87712384094b:0-paraguay-bank-collapse-shows-why-bitcoin-was-created-as-usdt-hits-premium/) • 1d ago
+🔗 [TradingView](https://www.tradingview.com/news/cryptonews:e87712384094b:0-paraguay-bank-collapse-shows-why-bitcoin-was-created-as-usdt-hits-premium/) • 2d ago
 
 ---
 
@@ -101,7 +101,7 @@ Paraguay bank crisis is showing why Bitcoin was created in the first place. USDT
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8CWJBRhGeVI) • 1d ago
+🔗 [youtu.be](https://youtu.be/8CWJBRhGeVI) • 2d ago
 
 ---
 
@@ -157,33 +157,45 @@ Forbes • 1d ago
 
 ---
 
-**[Higher wages don’t have to mean higher inflation. That could matter for Bitcoin](https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin/)**
+**[Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC](https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc)**
 
-US labor costs fell as productivity outpaced pay in Q3. Why higher wages alone do not settle the inflation outlook or Bitcoin’s rates risk.
-
-CryptoSlate • 1d ago
+CoinDesk • 3d ago
 
 ---
 
-**[Bitcoin holds below $76K as Binance EU closures add to crypto market pressure](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-below-76k-binance-063007720.html)**
+**[Cryptocurrencies slide to two-month lows after US midterms](https://www.reuters.com/business/cryptocurrencies-slide-two-month-lows-after-us-midterms-2026-11-08/)**
 
-Investing.com -- Bitcoin traded below $76,000 on Sunday as fresh regulatory and security concerns weighed on the cryptocurrency industry, with Binance preparing to close certain European customer accounts and authorities intensifying scrutiny of digital asset transactions.
-
-Yahoo Finance • 16h ago
+Reuters • 3h ago
 
 ---
 
-**[These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)](https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000)**
+**[An Analyst Who Expects One More Big Drop Still Sees Bitcoin Reaching $2 Million. Can BTC Rise 26 Times From $75,000?](https://finance.yahoo.com/markets/crypto/articles/analyst-expects-one-more-big-230142327.html)**
 
-CoinDesk • 9h ago
+Beth Kindig warns another sharp selloff is coming, yet she still holds a seven-figure target for Bitcoin. The math behind that call hinges on one deadline, and ETF outflows and a rising dollar are already testing it.
+
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin Could See Another Decline, Core Scientific's Mining Exit and More: This Week in Crypto](https://www.tradingview.com/news/benzinga:ec53988ec094b:0-bitcoin-could-see-another-decline-core-scientific-s-mining-exit-and-more-this-week-in-crypto/)**
+**[$1B liquidated from crypto market as Bitcoin, Ethereum drop](https://www.tradingview.com/news/cryptobriefing:19cce9562094b:0-1b-liquidated-from-crypto-market-as-bitcoin-ethereum-drop/)**
 
-Bitcoin faced competing narratives this week: some analysts saw an exhausted selloff and a potential rebound, while others warned that another decline could arrive before year-end.Elsewhere, Core Scientific prepared to leave Bitcoin mining, Peter Schiff questioned Ethereum’s valuation and analyst W…
+Crypto traders who bet on higher prices just had a very expensive couple of days.More than $1 billion in leveraged positions were liquidated as Bitcoin, Ethereum, XRP, and Solana all fell below key price levels. A widely shared market post put the wipeout at $1 billion in just 10 minutes. Broader d…
 
-TradingView • 9h ago
+TradingView • 4h ago
+
+---
+
+**[Bitcoin holds below $76K as Binance EU closures add to crypto market pressure](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133)**
+
+Investing.com • 20h ago
+
+---
+
+**[Bitcoin Trades $200 Above Strategy's Average Cost of $75,451. What Happens to MSTR if BTC Closes Below It?](https://247wallst.com/investing/cryptocurrency/2026/11/08/bitcoin-trades-200-above-strategys-average-cost-of-75451-what-happens-to-mstr-if-btc-closes-below-it/)**
+
+Bitcoin trades just $211 above Strategy's $75,451 average cost. Here's what could happen to MSTR if Bitcoin closes below it.
+
+24/7 Wall St. • 7h ago
 
 ---
 
@@ -195,33 +207,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet](https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet)**
+**[Bitcoin Faces CPI Test After AI Stock Sell-Off](https://bravenewcoin.com/insights/bitcoin-cpi-inflation-ai-stock-sell-off)**
 
-Bitcoin developer Cory Fields has an unusual idea for dealing with future quantum thieves: Make them risk their own Bitcoin.
+Bitcoin CPI preview: November 10 inflation data and CoreWeave earnings put interest rates and AI demand in focus after the tech sell-off.
 
-Decrypt • 8h ago
+Brave New Coin • 4h ago
 
 ---
 
 **[Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms](https://www.benzinga.com/crypto/26/11/63020476/bitcoin-ethereum-and-solana-etf-outflows-jump-as-key-fear-gauge-drops-after-midterms)**
 
-Benzinga • 3h ago
-
----
-
-**[XRP Is Ripple's North Star: CEO Centers Strategy on 'Things That Are Good for XRP'](https://news.bitcoin.com/featured/xrp-is-ripples-north-star-ceo-centers-strategy-on-things-that-are-good-for-xrp/)**
-
-Ripple CEO Brad Garlinghouse reaffirmed XRP as the company's north star, linking RLUSD expansion and business integration to greater liquidity and utility
-
-Bitcoin News • 1d ago
-
----
-
-**[BTC Price Prediction: Bitcoin steadies near support as spot selling meets mixed derivatives signals](https://blockchain.news/news/20261108-price-prediction-btc-bitcoin-steadies-near-support-as-spot)**
-
-Bitcoin is trading at $75,842.28, just above its immediate support band, after a quiet 24-hour move of -0.28% on Binance spot. Technicals are leaning soft —...
-
-Blockchain News • 15h ago
+Benzinga • 6h ago
 
 ---
 
@@ -295,7 +291,7 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 Discord is moving its apps fully over to the Rust programming language.
 
-⬆️ 493 • 💬 434 • 3d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
+⬆️ 494 • 💬 434 • 3d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 
 ---
 
@@ -309,43 +305,23 @@ Discord is moving its apps fully over to the Rust programming language.
 
 ## YouTube Videos: "bitcoin"
 
+**[They See $2 Million Bitcoin! Why Are They Warning of $30K First?](https://www.youtube.com/watch?v=xpBOtX6vLZw)**
+
+Could Bitcoin crash to $30000 before eventually reaching $2 million? A bold new forecast from Nvidia bull Beth Kindig raises ...
+
+📺 Simply Bitcoin
+
+👁️ 10K • 👍 589 • 💬 65 • ⏱️ 9:11 • 3h ago
+
+---
+
 **[Is This the Start of a Financial Crisis or Bitcoin’s Biggest Bull Run?](https://www.youtube.com/watch?v=vqFt75tN3AI)**
 
 Bitcoin is trading in the mid to high $70000s after a brutal week for the AI trade and the banks, and Rustin, Hurley and Opti break it ...
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 820 • 💬 121 • ⏱️ 50:05 • 1d ago
-
----
-
-**[BITCOIN IS ABOUT TO SQUEEZE... *prepare now*](https://www.youtube.com/watch?v=RgIjqUgoDiQ)**
-
-WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activity Up to $3000 in BTC position ...
-
-📺 Crypto Rover
-
-👁️ 27K • 👍 831 • 💬 49 • ⏱️ 7:27 • 16h ago
-
----
-
-**[BITCOIN: It All Ends THIS MONTH! (Decision Time)](https://www.youtube.com/watch?v=p54mJ4uX4oY)**
-
-Opening Statement & Video Context 0:00-1:59 Analysis 1:59-13:37 Trade where I Trade! Bitunix Exchange • 15% lifetime fee ...
-
-📺 Wolves of Crypto
-
-👁️ 3K • 👍 147 • 💬 94 • ⏱️ 13:38 • 5h ago
-
----
-
-**[WAS BEN COWEN RIGHT ALL ALONG? [NEW BITCOIN LOW SOON?]](https://www.youtube.com/watch?v=WH58IVFSVOE)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
-
-📺 Crypto Kid
-
-👁️ 7K • 👍 213 • 💬 24 • ⏱️ 16:21 • 10h ago
+👁️ 24K • 👍 839 • 💬 125 • ⏱️ 50:05 • 1d ago
 
 ---
 
@@ -355,7 +331,37 @@ Every Bitcoin price prediction that happened on The Iced Coffee Hour - price / d
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 19K • 👍 97 • 💬 63 • ⏱️ 29:25 • 21h ago
+👁️ 20K • 👍 99 • 💬 66 • ⏱️ 29:25 • 1d ago
+
+---
+
+**[Crypto is about to get EXTREMELY INTERESTING! (What Comes Next?)](https://www.youtube.com/watch?v=Ov5jg52HqIY)**
+
+Crypto is about to get INTERESTING! What Comes Next? Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
+
+📺 Altcoin Daily
+
+👁️ 15K • 👍 942 • 💬 117 • ⏱️ 12:28 • 3h ago
+
+---
+
+**[BITCOIN IS ABOUT TO SQUEEZE... *prepare now*](https://www.youtube.com/watch?v=RgIjqUgoDiQ)**
+
+WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activity Up to $3000 in BTC position ...
+
+📺 Crypto Rover
+
+👁️ 29K • 👍 850 • 💬 50 • ⏱️ 7:27 • 20h ago
+
+---
+
+**[WAS BEN COWEN RIGHT ALL ALONG? [NEW BITCOIN LOW SOON?]](https://www.youtube.com/watch?v=WH58IVFSVOE)**
+
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+
+📺 Crypto Kid
+
+👁️ 9K • 👍 223 • 💬 29 • ⏱️ 16:21 • 14h ago
 
 ---
 
@@ -365,7 +371,7 @@ Before You Sell Your Bitcoin, Watch This!! Earn $14550 as a new user on Bitbase 
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 77 • ⏱️ 9:47 • 1d ago
+👁️ 57K • 👍 2K • 💬 77 • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -375,27 +381,17 @@ Bitcoin Is About To Surprise Everyone Again FREE Crypto Updates & Trade Setups o
 
 📺 Mister Crypto
 
-👁️ 8K • 👍 147 • 💬 15 • ⏱️ 9:30 • 13h ago
+👁️ 9K • 👍 148 • 💬 15 • ⏱️ 9:30 • 17h ago
 
 ---
 
-**[Bitcoin Hasn’t Hit Bottom Yet. Here’s Where It Probably Will](https://www.youtube.com/watch?v=CvuLqIyQ1T0)**
+**[Bitcoin Just Wiped Out The Bulls](https://www.youtube.com/watch?v=y0SjcqQPdpA)**
 
-Bitcoin keeps falling, and there is no low yet. I went through the key indicators from the daily to the monthly chart, from RSI and ...
+Bitcoin erased Wednesday's short-squeeze rally in Thursday's AI and Nasdaq crash, with about $1.26 billion in crypto liquidations ...
 
-📺 More Crypto Online
+📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 778 • 💬 49 • ⏱️ 17:59 • 14h ago
-
----
-
-**[BITCOIN: IT&#39;S STARTING NOW...](https://www.youtube.com/watch?v=4Z8WSywIANI)**
-
-WEEX: https://www.weex.com/events/promo/depositearn-18?vipCode=00dt&qrType=activity Up to $3000 in BTC position ...
-
-📺 Crypto Rover
-
-👁️ 25K • 👍 757 • 💬 36 • ⏱️ 7:24 • 1d ago
+👁️ 20K • 👍 569 • 💬 73 • ⏱️ 25:02 • 2d ago
 
 ---
 
@@ -405,7 +401,7 @@ Strategy—the world's largest corporate holder of Bitcoin—just announced a he
 
 📺 Wall Street Truthbombs
 
-👁️ 22K • 👍 648 • 💬 286 • ⏱️ 14:52 • 1d ago
+👁️ 23K • 👍 654 • 💬 287 • ⏱️ 14:52 • 1d ago
 
 ---
 

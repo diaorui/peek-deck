@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "EIP-8037/EIP-8038 Glamsterdam",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11VU05Q1NIWkhrX0RFTnRXM2FUZFVPaERuS3dhRWRyNTZ0V2JrUjJWX1Z0MUxVZjl5Rmc2QjFteGRTcTNSa1ZFYWhCa1JKMFZPUTRZQXVJUENJMW9OcDY3ZHVCbXhnSFdmTkE?oc=5",
+      "pub_date": 1793977137.0,
+      "article_url": "https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038",
+      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
+      "description": "In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants..."
+    },
+    {
       "headline": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum",
       "source": "BeInCrypto",
       "source_url": "https://beincrypto.com",
@@ -25,44 +35,14 @@
       "description": "On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership\u2019s vision for the foundation for the next 1,000 years."
     },
     {
-      "headline": "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0o0UmFFWlRiWDFHSE5LVG4zNUw1amJaM1c1czBrNG43OEJKS3RIcEpTaTAtRUdCcHNhNnZtY21RUlBpWFpyVXgyamxXT21kWWloamlrNndRZi1wemR5anJGand4cVVwOUoxNXowazl0R2pCNVQzM1JVbXNiNFVJMm5qbDllcEFKQWZ5VUxrMnVCNmZIOFZv?oc=5",
-      "pub_date": 1794054300.0,
-      "article_url": "https://www.fool.com/investing/2026/11/07/in-5-years-one-of-these-cryptocurrencies-could-be/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892899%2Fcrypto-bitcoin-up-and-down-arrows.jpg&w=1200&op=resize",
-      "description": "If Bitcoin hits one serious snag in particular, a few of its smaller competitors might have a shot at overcoming it."
-    },
-    {
-      "headline": "Ethereum USD (ETH-USD) Seasonal Returns Chart - Yahoo Finance",
-      "source": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CSGRJTmVVcHlXWTI5bnhVd3N0WjNYWV9zUm1qTHJkYzEwcEZ5dmhIa2RVbUw2QVNRSXN0czJPVFdrYlZRR21rb01FcDRhVVMyQXJ5NUVBNXhyRVlfb213eW1rejlZUQ?oc=5",
-      "pub_date": 1794176027.0,
-      "article_url": "https://ca.finance.yahoo.com/quote/ETH-USD/seasonality/",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Ethereum USD (ETH-USD) seasonal returns chart provides the mean and median returns by month to inform your investment strategy."
-    },
-    {
-      "headline": "EIP-8037/EIP-8038 Glamsterdam",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11VU05Q1NIWkhrX0RFTnRXM2FUZFVPaERuS3dhRWRyNTZ0V2JrUjJWX1Z0MUxVZjl5Rmc2QjFteGRTcTNSa1ZFYWhCa1JKMFZPUTRZQXVJUENJMW9OcDY3ZHVCbXhnSFdmTkE?oc=5",
-      "pub_date": 1793977137.0,
-      "article_url": "https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038",
-      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
-      "description": "In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants..."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZDdXNVlRT2ZCX05wYXdVMU92UUtvbEF6b214dzlRVUZCY3JBMVJ0THVUUFFfQm55cUhiLW5qdkh6bm50TEdNMEt4VE1SSm45anBaUnAzcEttcDNNOXFGWG5yME15RktDMlZvTE1uZmhuSkttNVFlWU9KOEhjOXdNanpHc2Q1VnFMeGNQajUtOHllTHNNWVVDcnJYYkxiOWgyREJKUWVBWWdFN1RsbTV2VURYNnFIb3hDcmFLT000SHc1aGo1WkZtVjNadw?oc=5",
-      "pub_date": 1794166207.0,
-      "article_url": "https://www.benzinga.com/crypto/26/11/63020476/bitcoin-ethereum-and-solana-etf-outflows-jump-as-key-fear-gauge-drops-after-midterms",
-      "image": null,
-      "description": null
+      "headline": "$1B liquidated from crypto market as Bitcoin, Ethereum drop",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTk9QS25DallzSEtEUXNEcC1uWFNKdXVrVUw1Q3p0WDExUWEyRTNJVjN4Q0x4Zkd1LUhteEN2ZlBwUTNMRWc4d1Z4bDNpeTcwUjNBeWp5cVhXN1JjcGUtdTVkbmJKY0ZRejdqc0RxMXVubnlVWS1VZG1NYkh1U1FEM1dtTFVvZ3ZlWEpkT0dqcGxnekJwcnNNd0JCWHNvbjFBOWNwOW9NQUFpOWNDUXNXcHNuNUZzWWtWQnVFVVMtSQ?oc=5",
+      "pub_date": 1794175811.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:19cce9562094b:0-1b-liquidated-from-crypto-market-as-bitcoin-ethereum-drop/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Crypto traders who bet on higher prices just had a very expensive couple of days.More than $1 billion in leveraged positions were liquidated as Bitcoin, Ethereum, XRP, and Solana all fell below key price levels. A widely shared market post put the wipeout at $1 billion in just 10 minutes. Broader d\u2026"
     },
     {
       "headline": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
@@ -75,14 +55,34 @@
       "description": "The Ethereum co-founder said the case for valuing ETH as a fee-burning token \"never was as strong as it seemed\" and that maximizing fees would force Ethereum to operate like a major corporation."
     },
     {
-      "headline": "Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUNpYjhCaFFpdmFnMmJuOE5Dek1CbmRYVE9WdDgtblBGb3R0cXJONG5hdEduUXZVTEdqVTdPMlFYWm0xVUh4VjQ4UEQ0N2pyOWhIaUt3TklqZmVET3dwUXRNRXR4Y010azBzdnYyRXBNeHRGeXJLV3djQkdVMTNaMGZCOHpFcjVrQXVQSnlPb3ZNT1Fl?oc=5",
-      "pub_date": 1794026662.0,
-      "article_url": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/moex-one-live-lane.jpg",
-      "description": "Russia's final Bitcoin, Ethereum, and USDT rules take effect Nov. 17, with retail purchase limits and testing."
+      "headline": "Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZDdXNVlRT2ZCX05wYXdVMU92UUtvbEF6b214dzlRVUZCY3JBMVJ0THVUUFFfQm55cUhiLW5qdkh6bm50TEdNMEt4VE1SSm45anBaUnAzcEttcDNNOXFGWG5yME15RktDMlZvTE1uZmhuSkttNVFlWU9KOEhjOXdNanpHc2Q1VnFMeGNQajUtOHllTHNNWVVDcnJYYkxiOWgyREJKUWVBWWdFN1RsbTV2VURYNnFIb3hDcmFLT000SHc1aGo1WkZtVjNadw?oc=5",
+      "pub_date": 1794166207.0,
+      "article_url": "https://www.benzinga.com/crypto/26/11/63020476/bitcoin-ethereum-and-solana-etf-outflows-jump-as-key-fear-gauge-drops-after-midterms",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHhkenlzdGxoSnI0VTlBN3NqNG5DSDZiTWpUQjZ3LUZGNW5vQzRKbGFHN2ZHeXpZREpsc1RYcmdtNGdFakdCZ010NnF0X0wwVV9wLUhrOFhFVnhpME9HZ2FSRjFPLUtONW5YWmFuZFQyTjV3N2ladk9hZUdRdHYxZHJuajhtUnc2M1VRVnlveTAteXhWbVBKcDBrdzM2aGc?oc=5",
+      "pub_date": 1794065035.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-flashing-warning-sign-152355542.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/85cff829fbf1354b1c262145deeb48821c369e289a920695cd723be4926462a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F3e611b2b8b98a668579aba30b16996cf.png",
+      "description": "Crypto trader Ansem says intraday weakness in the Zcash price, where most unrealized profit sits, could signal the next move for Bitcoin."
+    },
+    {
+      "headline": "1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3dFTEZ2WEpTYmxHTkw4WjNmSVJJdXdiZkR2VVRlYnhsZkRpUXVaXzg1SERRcERORFNaZWFzZHQyNzI0R2d6c0NnRElXc1RDaGRmQkNQUjI5NnFobVY1MFBhMkptQ283S0l6OWJPYkwtYm5xU3JlRlg0MkkzOXpDMnNrWEdvOEJwSUtodmZBWkVLbnprRkhz?oc=5",
+      "pub_date": 1793981160.0,
+      "article_url": "https://www.fool.com/investing/2026/11/06/1-cryptocurrency-buy-soars-11000-bitmines-tom-lee/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893307%2Fa-person-analyzing-stock-charts-across-three-different-laptop-computers.jpg&w=1200&op=resize",
+      "description": "Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors."
     },
     {
       "headline": "Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-08T22:44:27.116453+00:00"
+  "fetched_at": "2026-11-09T02:25:15.108457+00:00"
 }

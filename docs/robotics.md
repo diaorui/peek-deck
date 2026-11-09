@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-08T22:44:33.905768+00:00'
+updated: '2026-11-09T02:25:27.904385+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 08, 2026 at 22:44 UTC  
+**Last Updated:** November 09, 2026 at 02:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Después de un accidente se han vuelto a construir las piernas. Está vez con en
 
 I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
 
-3d ago
+4d ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi guys, I need help. I'm trying to make my first autonomous navigating robot wi
 
 Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
 
-4d ago
+5d ago
 
 ---
 
@@ -122,11 +122,11 @@ Reuters • 1d ago
 
 ---
 
-**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
+**[Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again](https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html)**
 
-Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
+Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.
 
-GeekWire • 2d ago
+CNBC • 13h ago
 
 ---
 
@@ -134,15 +134,7 @@ GeekWire • 2d ago
 
 Peggy Johnson rose through Qualcomm, became Microsoft's chief dealmaker, and led Magic Leap. Now she's trying to turn humanoid robots into a business.
 
-Business Insider • 12h ago
-
----
-
-**[The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)](https://seekingalpha.com/news/4666593-the-humanoid-robot-race-heats-up-after-agility-robotics-begins-to-trade)**
-
-Agility Robotics begins trading as the first U.S.-listed humanoid robot pure play.
-
-Seeking Alpha • 1d ago
+Business Insider • 16h ago
 
 ---
 
@@ -152,41 +144,49 @@ Forbes • 1d ago
 
 ---
 
+**[This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck](https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck)**
+
+Watching a hand walk away on its fingers brings to mind Thing from The Addams Family.
+
+ScienceAlert • 16h ago
+
+---
+
+**[The Pentagon Issues Conditional Approval for Autonomous Industrial Vehicles Under FCC Framework](https://www.presidentialprayerteam.org/2026/11/08/the-pentagon-issues-conditional-approval-for-autonomous-industrial-vehicles-under-fcc-framework/)**
+
+Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
+
+The Presidential Prayer Team • 18h ago
+
+---
+
 **[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
 
 Financial Times • 2d ago
 
 ---
 
-**[This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck](https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck)**
+**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
 
-Watching a hand walk away on its fingers brings to mind Thing from The Addams Family.
+Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
 
-ScienceAlert • 12h ago
-
----
-
-**[Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/)**
-
-Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.
-
-TechCrunch • 2d ago
+GeekWire • 2d ago
 
 ---
 
-**[Serve Robotics Inc (SERV) Q3 2026 Earnings Call Highlights: Revenue Surges Over 300% as ...](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-inc-serv-q3-052023243.html)**
+**[Nebraska robotics program inspires students to pursue growing careers in automation and technology](https://www.3newsnow.com/news/local-news/nebraska-robotics-program-inspires-students-to-pursue-growing-careers-in-automation-and-technology)**
 
-Serve Robotics Inc (SERV) beat Q3 revenue expectations, lifted full-year 2026 guidance to $12 million, and unveiled a new high-margin physical AI services business despite a widening GAAP net loss.
+A Nebraska robotics program inspires students to explore automation and tech careers as demand for skilled workers continues to grow.
 
-Yahoo Finance • 2d ago
+KMTV 3 News Now Omaha • 41m ago
 
 ---
 
-**[Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)**
+**[Pakistan-built robots serve taste of future to Karachi diners](https://www.dawn.com/news/2043044)**
 
-US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.
+The robots are proving a hit with families, who flock to the restaurant to watch the machines in action.
 
-Ars Technica • 3d ago
+Dawn • 17h ago
 
 ---
 
@@ -194,13 +194,13 @@ Ars Technica • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
+**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
 
-Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
+This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
 
-📺 Agility
+📺 Unstoppable Gadgets
 
-👁️ 14K • 👍 260 • 💬 36 • ⏱️ 6:44 • 4d ago
+👁️ 84K • 👍 1K • 💬 32 • ⏱️ 0:21 • 3d ago
 
 ---
 
@@ -210,47 +210,17 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 140K • 👍 2K • 💬 389 • ⏱️ 15:13 • 2d ago
+👁️ 144K • 👍 2K • 💬 390 • ⏱️ 15:13 • 2d ago
 
 ---
 
-**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
+**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
 
-Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
+Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
 
-📺 NextGen Humanoids
+📺 Agility
 
-👁️ 23K • 👍 170 • 💬 28 • ⏱️ 8:50 • 5d ago
-
----
-
-**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
-
-Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
-
-📺 Mahdi Designs
-
-👁️ 234K • 👍 3K • 💬 328 • ⏱️ 15:06 • 5d ago
-
----
-
-**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
-
-Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
-
-📺 MostAmazingTop10
-
-👁️ 145K • 👍 966 • 💬 120 • ⏱️ 9:12 • 6d ago
-
----
-
-**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
-
-A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
-
-📺 Inside Edition
-
-👁️ 26K • 👍 327 • 💬 86 • ⏱️ 1:43 • 4d ago
+👁️ 14K • 👍 261 • 💬 37 • ⏱️ 6:44 • 4d ago
 
 ---
 
@@ -260,17 +230,7 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 18K • 👍 927 • 💬 35 • ⏱️ 1:44 • 2d ago
-
----
-
-**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
-
-America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
-
-📺 Living in China
-
-👁️ 118K • 👍 2K • 💬 176 • ⏱️ 7:07 • 3d ago
+👁️ 19K • 👍 960 • 💬 35 • ⏱️ 1:44 • 2d ago
 
 ---
 
@@ -280,7 +240,17 @@ Xiaomi's humanoid robots just completed a reported 8-hour shift at an electric c
 
 📺 DPCcars
 
-👁️ 735 • 👍 6 • ⏱️ 0:45 • 8h ago
+👁️ 1K • 👍 12 • ⏱️ 0:45 • 12h ago
+
+---
+
+**[Robots Going Completely Wrong Caught on Camera - Part 4](https://www.youtube.com/watch?v=xVL2mLQGySs)**
+
+Robots going completely wrong caught on camera return in Part 4 with more shocking malfunctions, unexpected behavior, and ...
+
+📺 MostAmazingTop10
+
+👁️ 146K • 👍 970 • 💬 120 • ⏱️ 9:12 • 6d ago
 
 ---
 
@@ -291,6 +261,36 @@ Some robots are being led uphill on leashes, others are stumbling backward, and 
 📺 TECH MOMENTS
 
 👁️ 8K • 👍 34 • 💬 2 • ⏱️ 0:22 • 5d ago
+
+---
+
+**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
+
+Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
+
+📺 NextGen Humanoids
+
+👁️ 23K • 👍 171 • 💬 28 • ⏱️ 8:50 • 6d ago
+
+---
+
+**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
+
+A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
+
+📺 Inside Edition
+
+👁️ 26K • 👍 331 • 💬 86 • ⏱️ 1:43 • 4d ago
+
+---
+
+**[Xiaomi humanoid robots work a full 8-hour shift in its EV factory](https://www.youtube.com/watch?v=X2qjDBGiER8)**
+
+Xiaomi's humanoid robots worked a full eight-hour shift on its own EV assembly line, sorting car parts. In March, the longest run ...
+
+📺 Klaank
+
+👁️ 11K • 👍 92 • 💬 6 • ⏱️ 0:57 • 4d ago
 
 ---
 
