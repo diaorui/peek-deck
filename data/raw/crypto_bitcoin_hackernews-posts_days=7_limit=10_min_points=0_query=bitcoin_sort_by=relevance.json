@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies",
-      "url": "https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545",
-      "hn_url": "https://news.ycombinator.com/item?id=50342908",
-      "author": "novaRom",
-      "points": 30,
-      "num_comments": 8,
-      "created_at": "2026-11-02T20:06:43Z",
-      "object_id": "50342908",
-      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f915e254cd47423edb17f5452558219ed0c78700-92313700.jpg?ver=b061450f&fit=1200,900",
-      "description": "Bitcoin Suisse cuts Swiss jobs and shifts operations abroad as CEO Andrej Majcen says crypto momentum has moved elsewhere.",
-      "favicon": "https://www.swissinfo.ch/eng/wp-content/client-mu-plugins/swissinfo-wp-customizations/resources/png/swi-site-icon-180.png?ver=1792148606",
-      "site_name": "SWI swissinfo.ch"
-    },
-    {
       "title": "Show HN: Bitcoin-rs \u2013 An independent Bitcoin full node in Rust",
       "url": "https://github.com/gosuda/bitcoin-rs",
       "hn_url": "https://news.ycombinator.com/item?id=50348456",
@@ -75,20 +61,6 @@
       "site_name": "bitcoin++"
     },
     {
-      "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
-      "url": "https://cointelegraph.com/news/mercado-bitcoin-hack",
-      "hn_url": "https://news.ycombinator.com/item?id=50342589",
-      "author": "guiambros",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-11-02T19:45:25Z",
-      "object_id": "50342589",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EWA1DBSVSDFZVCPZQ3HZ8W/mercado-bitcoin-hack.png",
-      "description": "Wallets linked to Mercado Bitcoin\u2019s security breach remained active after transactions were paused. The exchange said customers suffered no losses.",
-      "favicon": "https://cointelegraph.com/apple-touch-icon.png",
-      "site_name": "Cointelegraph"
-    },
-    {
       "title": "HomeMinerProxy: home dashboard and Stratum proxy for Bitcoin lottery mining",
       "url": "https://github.com/Modanez/HomeMinerProxy",
       "hn_url": "https://news.ycombinator.com/item?id=50401548",
@@ -117,12 +89,26 @@
       "site_name": "Delving Bitcoin"
     },
     {
+      "title": "Why Gmx.com?",
+      "url": "https://news.ycombinator.com/item?id=50429813",
+      "hn_url": "https://news.ycombinator.com/item?id=50429813",
+      "author": "nitishxbt",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-11-09T18:51:03Z",
+      "object_id": "50429813",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
+    },
+    {
       "title": "Discord is ditching Electron and its new app uses less RAM",
       "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
       "hn_url": "https://news.ycombinator.com/item?id=50378625",
       "author": "archb",
       "points": 494,
-      "num_comments": 436,
+      "num_comments": 438,
       "created_at": "2026-11-05T13:05:28Z",
       "object_id": "50378625",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -131,7 +117,7 @@
       "site_name": "The Verge"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-11-09T10:06:17.789960+00:00"
+  "fetched_at": "2026-11-09T20:57:31.690249+00:00"
 }
