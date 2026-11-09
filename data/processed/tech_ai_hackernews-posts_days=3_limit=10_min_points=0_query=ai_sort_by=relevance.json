@@ -5,26 +5,12 @@
   "days": 3,
   "posts": [
     {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50385870",
-      "author": "randycupertino",
-      "points": 517,
-      "num_comments": 231,
-      "created_at": "2026-11-05T23:09:57Z",
-      "object_id": "50385870",
-      "image": "https://s.yimg.com/lo/mysterio/api/c7b9e208fd6dff01b9115dea6cf00d560e269c36a6987f309be6e79d843e306b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F892777675c4b84ce45a666a8bfe1fb93.jpg",
-      "description": "Cuban says he has been seeing his own face in scammy AI-generated ads for nonexistent diabetes cures.",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "site_name": "Yahoo Finance"
-    },
-    {
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "hn_url": "https://news.ycombinator.com/item?id=50406563",
       "author": "srean",
-      "points": 487,
-      "num_comments": 302,
+      "points": 496,
+      "num_comments": 305,
       "created_at": "2026-11-07T18:02:17Z",
       "object_id": "50406563",
       "image": null,
@@ -37,7 +23,7 @@
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "hn_url": "https://news.ycombinator.com/item?id=50388001",
       "author": "ChrisArchitect",
-      "points": 403,
+      "points": 405,
       "num_comments": 329,
       "created_at": "2026-11-06T04:00:28Z",
       "object_id": "50388001",
@@ -52,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50397994",
       "author": "yurivish",
       "points": 373,
-      "num_comments": 351,
+      "num_comments": 354,
       "created_at": "2026-11-06T20:27:23Z",
       "object_id": "50397994",
       "image": "https://substackcdn.com/image/fetch/$s_!u_X_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd74ff70-df26-4e1a-be31-4fc3543bada8_2048x1072.png",
@@ -75,6 +61,20 @@
       "site_name": "lesswrong.com"
     },
     {
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "hn_url": "https://news.ycombinator.com/item?id=50416363",
+      "author": "kyunez",
+      "points": 159,
+      "num_comments": 130,
+      "created_at": "2026-11-08T19:37:42Z",
+      "object_id": "50416363",
+      "image": null,
+      "description": "If you work with Claude Code or Codex from the terminal, you know this one.",
+      "favicon": "https://sergeykuhne.com/favicon.svg",
+      "site_name": "sergeykuhne.com"
+    },
+    {
       "title": "University libraries are being swarmed by AI bots, putting public access at risk",
       "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
       "hn_url": "https://news.ycombinator.com/item?id=50392499",
@@ -87,20 +87,6 @@
       "description": "Academic libraries are fighting off swarms of data-scraping bots \u2014 that are slowing or crashing sites meant for students, researchers and the public \u2014 as AI companies continue hunting for content to feed their large language models.",
       "favicon": "https://www.cbc.ca/a/apple-touch-icon.png",
       "site_name": "CBC"
-    },
-    {
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "hn_url": "https://news.ycombinator.com/item?id=50416363",
-      "author": "kyunez",
-      "points": 113,
-      "num_comments": 96,
-      "created_at": "2026-11-08T19:37:42Z",
-      "object_id": "50416363",
-      "image": null,
-      "description": "If you work with Claude Code or Codex from the terminal, you know this one.",
-      "favicon": "https://sergeykuhne.com/favicon.svg",
-      "site_name": "sergeykuhne.com"
     },
     {
       "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
@@ -136,16 +122,30 @@
       "hn_url": "https://news.ycombinator.com/item?id=50401029",
       "author": "hubraumhugo",
       "points": 98,
-      "num_comments": 82,
+      "num_comments": 83,
       "created_at": "2026-11-07T02:20:06Z",
       "object_id": "50401029",
       "image": "https://www.kadoa.com/companies/og/insights/ai-selloff-perspective.png",
       "description": "The S&P 500 fell 4.4% on 5 Nov 2026, its worst day since April 2025, and is 6% below its 6 Oct record. Charted day by day against 1987, 2008, Covid and other falls since 1950.",
       "favicon": "https://www.kadoa.com/companies/favicon.svg",
       "site_name": "Company Tracker"
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "hn_url": "https://news.ycombinator.com/item?id=50415817",
+      "author": "zzzeek",
+      "points": 89,
+      "num_comments": 108,
+      "created_at": "2026-11-08T18:43:07Z",
+      "object_id": "50415817",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "wsj.com"
     }
   ],
-  "total_hits": 458,
+  "total_hits": 457,
   "has_metadata": true,
-  "fetched_at": "2026-11-08T22:44:09.096685+00:00"
+  "fetched_at": "2026-11-09T02:24:58.420850+00:00"
 }
