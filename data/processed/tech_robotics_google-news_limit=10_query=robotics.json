@@ -5,34 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
-      "pub_date": 1794045343.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/",
+      "headline": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94RlZCQm5zZlBzUEFUNHFkbWdaWFYyU2xkXzhPNS1OZW9WdHFzS0lLZTd6M2s1SW5hUlRCYnJ4ZDZNMzJpRnhrR1dMSWw4dlpXZ19tbk9WZ1dieVJsSlhKY3RscUZDTS1MdXJXSVJGclRhTHdBcThF?oc=5",
+      "pub_date": 1794233191.0,
+      "article_url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1-1680x945.png",
+      "description": "At the Conference on Robot Learning, NVIDIA is introducing GR00T 2, Isaac Lab 3.0 and new open benchmarks, built in collaboration with partners, bringing precision and scale to robot training."
+    },
+    {
+      "headline": "Are We Ready for Robots That Code Their Own Skills?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybFJOdVk0OHdna2ozVl83ZFRtUFViZzdaTFotUXY1djJweHZhQ3h1Y1NEWjRHWHhwdEdqYWtXVzIzZlRSbmlPTkxFeUl3MDA3NEFyeQ?oc=5",
+      "pub_date": 1794124800.0,
+      "article_url": "https://spectrum.ieee.org/agentic-robotics",
+      "image": "https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=1200&height=600&coordinates=0%2C346%2C0%2C673",
+      "description": "AI agents use simulation to solve tough robotics problems with code, not data"
+    },
+    {
+      "headline": "Nvidia announces GR00T 2 robotics model, Isaac Lab 3.0 tools (NVDA:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlJab092T0xkQ09lYkRIVG5hYkhIOVU2VEg3dXFtWlpTWnBXSlZxN05vTU53R1dGZndGdGdZQkt1VkV3VndhbGJQUHB3Vm1hUVVPVXBtZERxWTh4OEdWMXdzUjFSelA5cF9wYUxPUEtmSVNrWTVvWmoxZVNoS082MnVoWWI1SzRkd2FlMnBxbzU5dTRyeFpjUDh1ZHFUZw?oc=5",
+      "pub_date": 1794234600.0,
+      "article_url": "https://seekingalpha.com/news/4669003-nvidia-announces-gr00t-2-robotics-model-isaac-lab-3_0-tools",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1E?oc=5",
-      "pub_date": 1794142801.0,
-      "article_url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108534206-1793992677011-Amazon_Fauna_Humanoid_Robot-26083751190117-AP.jpg?v=1793992738&w=1920&h=1080",
-      "description": "Amazon has formed a new home robotics team and is hiring for a \u201cnew-to-world robot product,\u201d according to CNBC\u2019s analysis of job posts."
-    },
-    {
-      "headline": "Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2R3TjRSOVVRR21VQ1FRQWxvN2pPdjRidUQ4ZFZ4Q3QxNDV5SXN2c25RcUxRX2ZuVk96VWdYMEtSM21pa25VRXVXQVlmdGJWSVBOTTJzcE52T2tVRnE0ZWpNdDZ3cjR5X243Qmp3ekpUdHBHREpudnYxR3VKS2swNzRXYWFMak50amN2RTg0c25sOFBhZWhpUzZiT2NUQQ?oc=5",
-      "pub_date": 1794132000.0,
-      "article_url": "https://www.businessinsider.com/peggy-johnson-took-robots-to-wall-street-they-turn-profit-2026-11",
-      "image": "https://i.insider.com/6aee1fde80d4b24f18347068?width=1200&format=jpeg",
-      "description": "Peggy Johnson rose through Qualcomm, became Microsoft's chief dealmaker, and led Magic Leap. Now she's trying to turn humanoid robots into a business."
     },
     {
       "headline": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
@@ -45,66 +45,66 @@
       "description": null
     },
     {
-      "headline": "This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck",
-      "source": "ScienceAlert",
-      "source_url": "https://www.sciencealert.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkNjOXpuTjEycnFzM2dILXRWQ092MV9EdUZzNWhjYlE1d2pGalRDOXJ0NGxnNEt3ZkFwRjIzQXdCWlZDdE9nUVBfMWw4eWxkN1hzaFRqdDcwT3NmbDdiR0NNZEVWSEJZVmJNSHJFakhxWUZ0T0Zzdkx2UVk3a25zQ01faGY3clB0b2dPUzJFM3VqTnJ3WUw5dXQyekRwa1YzeldMbXBjVUlPZlBtY0tNVmE2M0xPVXl2bnA3Tk8xM29fZw?oc=5",
-      "pub_date": 1794132253.0,
-      "article_url": "https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck",
-      "image": "https://www.sciencealert.com/images/2026/11/WalkingHand-1200x675.png",
-      "description": "Watching a hand walk away on its fingers brings to mind Thing from\u00a0The Addams Family."
+      "headline": "Boston Dynamics Turns Atlas Into a Wheeled Actuator Testbed",
+      "source": "Unite.AI",
+      "source_url": "https://www.unite.ai",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWhlZ0lZVV9qS0hrd1ZEVTU1R1BWOFBEeTU0bVhVZkZxMExVcjdxUkRlWTd5MThPM1JSZjJOVHIxeXp2WDZWa3FkWDRVRG9uNV9sTTJXaGhrRk1HRi1SbjlDM2E1NkVYVThMOVFMdGF6QnFUdXNjTkptVDNzcElhTkQ3NVhsM3pL?oc=5",
+      "pub_date": 1794255916.0,
+      "article_url": "https://www.unite.ai/boston-dynamics-turns-atlas-into-a-wheeled-actuator-testbed/",
+      "image": "https://www.unite.ai/wp-content/uploads/2026/11/boston-dynamics-turns-atlas-into-a-wheeled-actuator-testbed.jpg",
+      "description": "Boston Dynamics detailed a wheeled Atlas experiment on November 9, 2026, after replacing the humanoid\u2019s feet with wheels to probe actuator limits and the transfer of whole-body reinforcement learning from simulation to h..."
     },
     {
-      "headline": "Pakistan-built robots serve taste of future to Karachi diners",
-      "source": "Dawn",
-      "source_url": "https://www.dawn.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wZERvMWI4ZlJzc2wtUmhPUFRuYW5RZ0stVWNfMDJ1RjVXckVjeFhRMHhOTWNNRlBYVV9QS1owNjhSNjRkNG1pSA?oc=5",
-      "pub_date": 1794126740.0,
-      "article_url": "https://www.dawn.com/news/2043044",
-      "image": "https://i.dawn.com/large/2026/11/08132527233673c.webp",
-      "description": "The robots are proving a hit with families, who flock to the restaurant to watch the machines in action."
+      "headline": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkZwbnRqbVVWU2JTaWhEY2RqNTd5RWJsYTQ3UW9YUHpwTklIOFdIeVBjdVdFMUV6UkZiMjN1RnM1WXVDdGtReVJwb1VHMUFQUEtiNFFEbHRlZ3NDc05jNldLOVlzc1ZuOU1VV2otNXlYVmxyWlBmYmNlemFfWmU2ZkFiZWJFZV95WS1ETmxvaGo2WlViNC1JRWNTc1RDRzRYV0VnV3duaw?oc=5",
+      "pub_date": 1794200400.0,
+      "article_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "image": "https://news.mit.edu/sites/default/files/images/202611/MIT-FLEX-01-press.jpg",
+      "description": "FLEX, a new AI-assisted learning platform developed by MIT engineers, enables motion-planning robots to follow a human\u2019s explicit instructions while also drawing larger generalizations that help to improve its performance."
     },
     {
-      "headline": "Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHl1UXVmSUktSXl4cy1OWFJaMDJSSTRTLTZwRmRMcUp4dVJONjBlRXA2NUliN0FkR3d0dFlrdU4xZ0tHOHliUzRJUTZvWm9sYUxHOW5pY0MzZVpYUTdsVjNFSnYtdEhQcXA1TDJvV3ZKWWpFMlhzck1DWEgtQVd3RlZzc2hqaGh5QjRsSmVSTUhLYWY0ajdxNU1pcUZ3d180VGdmSGtOSWVvMjRaVHFDUzR4emNBUFBFTU1TRjFB?oc=5",
-      "pub_date": 1793933696.0,
-      "article_url": "https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/hurst-digit5-lead.jpg",
-      "description": "Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people."
+      "headline": "Serve Robotics: 3 Key Takeaways for Long-Term Investors",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3JxZDN4TnFEVWZqNEdMNW8yNWROOFNGV1pjRklYSllBem51M2FnYk5TX2UyLTBMVzNWSldwWTNLT0pYd1FTcnBPWVFpTHFkRWt5cFlKYUVaMUVSYXlFUnd1bGJ6RUoxQTk1YzNaY3BZLV9kOUdWc0k3NnNCM1loZEZRckFjdWZQTXFHeTdTNDhyOElkSzROYUE5OA?oc=5",
+      "pub_date": 1794186240.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-3-key-takeaways-010417331.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fb2e9a830a976a7f0deffbe65ccc135eabc28a29b248063c45b4aa8483629e91/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd508b4a8e6870947697b7de5a1cd5b85.jpg",
+      "description": "Software licensing lets Serve Robotics earn recurring revenue from outside robot builders without buying additional hardware, a model that the fleet-cost gains alone do not capture."
     },
     {
-      "headline": "Chinese robotics stock surge on Apple robotics research",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEo1c01fMFpfZElheWJrVExPQXE5djFQOG9aQm9nQWRUdUEyZ0FmbTROSGZ3S1pNUGd6OUp6R05Rd21XMkY5NGpNRlRMSUZzRGkzd19SYlZ6eDctT3lYN2JEdjd2ZUhZSXNCMG1JNHpmel90SXdhZ2Y1N2pVVEROZ2lJZHA2eThiaDVwZWhzZms5SXhKaWVUMl96NEJENXBuTlJhQi1ObHR5RDBnYV91b2Zn?oc=5",
-      "pub_date": 1794203086.0,
-      "article_url": "https://www.investing.com/news/stock-market-news/chinese-robotics-stock-surge-on-apple-robotics-research-5010497",
+      "headline": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
+      "pub_date": 1794045343.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/",
       "image": null,
       "description": null
     },
     {
-      "headline": "China Blocks $5.4 Billion ABB Robotics Deal With Billionaire Masayoshi Son\u2019s SoftBank",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR3JmZnpkSnhkN0lYVzhyVHhGRm1BMWJaZVNPUGt4M1RJZ2R1b3JJUmdkOGpoNnY0LWFzbjhoaDhVMlJXOEFlSW15alo4ZVNHekFGczktem52Q0JNZGZ1TzFCN2J4cWVQZFI2R0ZpZU9ETHNraDFnaWN5QlFiZC1zWXFReUN2Mm95T0M4azJ5SFRybDZ6bFFpSVB2YkVLekhOQXJpNGJ2cVNmVjJBenJfSFI5LVF5QmdIM2VoT2JaNkEtN1pmcENLTU9sNnB3UQ?oc=5",
-      "pub_date": 1794065160.0,
-      "article_url": "https://www.forbes.com/sites/iansayson/2026/11/07/china-blocks-54-billion-abb-robotics-deal-with-billionaire-masayoshi-sons-softbank/",
-      "image": null,
-      "description": null
+      "headline": "These Robotic Arms Are Powered by Algae. Watch How They Move",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjlqaUF2cHZrMUVvLTY4bGZXOG1Sc0VSRFRrdG0tZzRuMHJ4LVdVVXRjM0JYbW5aRnFDZzBueVNtam9Ra0xocW50djdXTDFSQW9xSGFETmZsLUxnZE1ucnBBZ0t1cHpWM0VMY21wcjBBWmg2My1wY1g0WkVXWS10b05ySjBuU2duWUJJVnF3?oc=5",
+      "pub_date": 1794220200.0,
+      "article_url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+      "image": "https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/191:100/w_1280,c_limit/Soft-robot-arm_3.jpeg",
+      "description": "The key to the movement of these flexible robots is the algae\u2019s photosynthetic capabilities."
     },
     {
-      "headline": "Ukraine builds combat robots to hunt Russian troops in underground gas pipelines \u2014 UGVs adapted following 15-kilometer subterranean assault",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNeml2dDh0ekNTWnFpRnV2dXA1RHRMN05IX2FUVFRwVlYyZjZRa0lxc1BpVUxHbEw0YmNIQkt5b0tsRy1RUFZTblRmUmdMQUN2eENCSjdBeWc3eENlYk9EQkVHYXBxNExIUGFWeXVrSUh1em8zUGRHVElHcXd2T2xvT25ORU1UUjV5TFVVZVlUUHRBLS0tUm9RZV9vUFB1OHV2NndQWVpzZmlyTFFCeC14ZHlXcXNHTlFEc2tpbTJUR3NQRnVmU3hqVy1wdTgxOEp2cWFJUHVjTERIRUlEN1hSY1lyMXlRZXJEVW11UlBBMXZjUXMxQ3dpdTNMYVY2VDdYYkJmZFk4RHotUVdYRDBzVFdaUDFQaDNR?oc=5",
-      "pub_date": 1794148599.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault",
-      "image": "https://cdn.mos.cms.futurecdn.net/LxFmy4cYLLRUZKdapra5MC-1920-80.jpg",
-      "description": "Ukraine is developing a new class of combat robots designed to operate inside underground gas pipelines."
+      "headline": "Ambi Robotics seeks Bay Area manufacturing space for next generation of AI-driven robots",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFJFWWFEMC1haEhGbFgwZWNMbktBVVNmeTVNZWRUZXdRZDV0TlZka0RPUE4tVHhjSFFQQ19Gc3ltQW9ackNDb2EwaUtXLVViUWJRSV9PUllfZTExS0RCWGJHVHFIakRBb0wwQUdtM0EwbGJ3SFB0M3l1UlNGWVRsVl9nbFVnT2JBZzEzM09rSGJZRTQ4WWg0a3lFNm85MmM5Q0NSUkdSMGc1aXZa?oc=5",
+      "pub_date": 1793991180.0,
+      "article_url": "https://www.bizjournals.com/sanfrancisco/news/2026/11/06/ambi-robotics-ai-robots-bay-area-manufacturing.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-09T10:06:42.338129+00:00"
+  "fetched_at": "2026-11-09T20:58:07.684875+00:00"
 }
