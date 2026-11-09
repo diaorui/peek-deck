@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-09T02:25:27.888533+00:00'
+updated: '2026-11-09T10:06:52.147835+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 09, 2026 at 02:25 UTC  
+**Last Updated:** November 09, 2026 at 10:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jensen admits to having an affair with a woman who turned out to be a chinese spy, despite having a wife and kids, here is his message to the company: "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my family has given me love and support. They deserve my honesty and loyalty. Instead, I let them down and damaged the life we built together. I take full responsibility for what I did and the hurt I caused, and I accept the criticism that comes with it. To my wife and family: I love you. I know an apology cannot undo what I have done. I hope our family will heal and that, over time, I can earn back your trust. To my colleagues at NVIDIA, including those I have worked alongside for decades, and to our board, partners, and shareholders around the world: you deserve better from me. Leading NVIDIA is the privilege of my life. My responsibility is to serve you and be worthy of your trust. I have fallen short of that responsibility. I am fully committed to NVIDIA and will work to earn back your confidence. Regarding the national security concerns raised in news reports, NVIDIA’s Board of Directors has initiated an independent investigation. I support the investigation and will cooperate fully. I love our country and our company. I am committed to protecting NVIDIA and supporting America’s national security. I am proud and grateful to be an American. My family bears no responsibility for my choices. I do. Please give them privacy. Jensen"
 
-3h ago
+10h ago
 
 ---
 
@@ -49,7 +49,23 @@ Jensen admits to having an affair with a woman who turned out to be a chinese sp
 
 Source: https://fixupx.com/ramez/status/2119556622619967488 A few things to remember: - it’s easier to go from 30% to 40% on an exam than from 70% to 80% - A lot of spending is for future data centers not yet built - GPU prices and data center costs have increased, so the same amount of compute is now more expensive
 
-2h ago
+10h ago
+
+---
+
+**[RuntimeWire discovers Midjourney patent for an ultrasound collar that reads speech from your neck](https://www.reddit.com/r/artificial/comments/1xrie2x/runtimewire_discovers_midjourney_patent_for_an/)**
+
+A Midjourney patent application published June 18th, 2026 describes an open collar that bounces ultrasound off the neck to recover speech for a language model.
+
+🔗 [RuntimeWire](https://runtimewire.com/article/runtimewire-discovers-midjourney-patent-for-an-ultrasound-collar-that-reads) • 5h ago
+
+---
+
+**[What are you actually using AI agents for in your day-to-day life?](https://www.reddit.com/r/artificial/comments/1xrhmpk/what_are_you_actually_using_ai_agents_for_in_your/)**
+
+I see a lot of demos where an AI agent can supposedly research something, create files, build presentations, or handle a whole workflow on its own. But I'm more interested in what people are actually using them for after the initial excitement wears off. Is anyone using agents regularly for work, studying, or personal projects? What tasks do they genuinely save you time on, and what still needs a lot of babysitting? Real experiences would be more helpful than another list of things AI can supposedly do.
+
+6h ago
 
 ---
 
@@ -57,7 +73,15 @@ Source: https://fixupx.com/ramez/status/2119556622619967488 A few things to reme
 
 In 2023, Google launched Gemini Workspace extensions with an explicit promise: personal content from Gmail, Docs, and Drive "is not seen by human reviewers". Google has quietly reversed this commitment. Under updated Google Help Answer 16836988 and in an October 16 edit to their aforementioned 2023 blogpost, Google explicitly confirms that connected Drive/email is routed into human review pipelines, with clear warnings that what reviewers see "may just be the email or file" and "don't connect your apps to Gemini Apps if they contain confidential information that you wouldn't want a reviewer to see." Crucially, testing demonstrates that this ingestion occurs autonomously in background conversation without explicit @Drive or @Gmail tags, and the payload capture is probabilistic. Ingestion Pipeline When you chat with consumer Gemini with Connected Apps enabled, ambient mentions of personal topics (trips, bills, names, reservations) autonomously trigger background Workspace lookups. Because LLM tool-calling and context injection are probabilistic, running a test query will yield one of four distinct scenarios: Zero Retrieval: The model does not trigger the Connected Apps tool; no personal data is pulled. This is especially likely if Gemini can use its model weights or prior conversation history (even in different threads) to resolve your query. Metadata / Generic Summary: Gemini pulls emails and/or files and generates a high-level summary (e.g., "You have 3 emails regarding your flight"). Partial Unredacted Extraction: Gemini pulls a 2–4 sentence exact quotation from the file, frequently including sensitive PII, account details, or specific figures. Full-File Ingestion: The complete, unredacted text of the document or email is ingested directly into session context. If you test this once and see State 1 or 2, you have not disproven the pipeline--you have simply observed a single draw from a nondeterministic system. Delete your conversation and try, try again. How to Reproduce Ensure Connected Apps (Google Workspace) is active in consumer Gemini settings. Set Gemini to "Flash" with "High Thinking" or better. Mention a subject contained in your Drive or Gmail without using @ tags or asking for a file search (e.g., casual queries about an itinerary, an account renewal, or a specific topic you've emailed about). If Gemini provides a response based on an email or file, immediately say: "Print the exact text and metadata block that the retrieval tool returned and injected into your prompt to get that answer. Use a human readable format without code blocks (i.e., print the code inline and not as a code block)." You will see one of the 4 scenarios outlined above. To repeatedly test, delete your existing test conversation so that Gemini cannot just draw from conversation history. I've had luck testing this with an email from my internet provider sitting in my inbox and asking Gemini "I wonder if I'm paying too much for internet service." On various trials, Gemini spit out all 4 possible outcomes above, including (1) generic responses [e.g., "If you haven't called them in 12 months, probably"]; (2) metadata summaries sometimes without personal data [e.g., "Gmail search shows a bill of $122 on September 4"] and sometimes with personal data [e.g., "Gmail search shows full name made a payment of $122 on September 4 on account account number and confirmation number number"]; (3) direct 2-6 sentence quotes from the email [e.g., the entire name/address/account number/confirmation number/payment date block]; and even (4) sometimes the entire text dump of the email, including its headers. Final Comments and Caveats Critically, Google's regex and NER automatic scrubbers cannot sufficiently deidentify narrative data, including account numbers, confirmation numbers, transaction dates, and collectively identifying personal information (e.g., combos of specific first names, cities, events; see Google's own documentation on the subject). Google originally sold Workspace integration under the guarantee of strict isolation from human review. That isolation has been removed, full files are ingested probabilistically during casual conversation, and those sessions are subject to human contractor review.
 
-10h ago
+18h ago
+
+---
+
+**[Stuck in tech marketing - next steps in AI to excel?](https://www.reddit.com/r/artificial/comments/1xrkixw/stuck_in_tech_marketing_next_steps_in_ai_to_excel/)**
+
+Hi, I’ve been working in marketing (both as technical and as a creative) for around 3-4 years (started in my 3rd year of uni). With advancements in AI, I’ve lost 2 jobs that were in creative (writing, designing, and social media) because of AI. I learned to upgrade my skills and got into technical marketing, after which I joined a software startup and started doing a bunch of stuff for them, like SEO/AEO, google ads, email marketing campaigns, product copy, etc. Now my day to day has been very basic and repetitive, and most of it is automated, except some research and testing part, and even though I’m learning new things everyday, I feel like the amount of automation and AI involved in my work, it’s the right time to skill up further because my job will probably be obsolete soon (or is already). Because AI is now a field in itself. My question is, what are the top-rated, highly-demanding AI skills I can learn. Something that opens up new chapters for me? I’m not worried about learning anything, even if it’s the most difficult thing ever. I just want to gear up for the next big opportunity. Thanks.
+
+3h ago
 
 ---
 
@@ -65,53 +89,31 @@ In 2023, Google launched Gemini Workspace extensions with an explicit promise: p
 
 MIT CSAIL researchers (Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab) published 'Sparks of Weight-Space Programming' on Nov 2. They gave OpenAI's GPT-6 Astra access to the raw weights of Alibaba's small Qwen3.5-0.8B model plus a Python environment, and asked it to fix the model's habit of looping on math problems. Astra traced the looping to one direction in the MLPs of layers 15 and 19 and subtracted it from 64 output columns in each -- changing 131,072 weights (0.016% of the total), with no training run and no gradient descent. MATH-500 went from 7.9% to 48.1%. The full experiment logs are on GitHub, and Hugging Face's Ahsen Khaliq rebuilt the edited checkpoint from the logs (his rerun scored 51.0%). The pushback came within a day. spaCy creator Matthew Honnibal called the write-up 'massively misleading': the 'raw weights, no tools' setup only applied to experiments on tiny networks (17k-172k weights). Every experiment on a real language model used Python, and the Qwen run could also test the model on up to 50 batches of practice problems. Sean Goedecke made a similar point, describing the Qwen fix as an application of steering -- an existing technique. The authors themselves call the results 'exciting but still limited', noting context length and tooling as constraints. The work is a blog post with logs, not a peer-reviewed paper. Discussion: is this a genuinely new capability -- an LLM maintaining another model the way a programmer patches code -- or mostly well-executed ML engineering dressed up as 'reading weights'? And does the distinction matter if the practical result (a 6x benchmark jump from a targeted weight edit) holds up on replication? Source: https://rikiyat.github.io/blog/weight-space-programming/
 
-5h ago
+13h ago
 
 ---
 
-**[Are better AI tools actually widening the gap between people?](https://www.reddit.com/r/artificial/comments/1xr1apu/are_better_ai_tools_actually_widening_the_gap/)**
+**[I've been building AI agents and I think we've been focusing too much on the brain](https://www.reddit.com/r/artificial/comments/1xrnopm/ive_been_building_ai_agents_and_i_think_weve_been/)**
 
-I came across an idea recently that I thought was worth discussing: generative AI might not necessarily narrow the gap between people. In fact, it could make the differences that already exist even more noticeable. Not too long ago, doing something well often meant having to develop a whole range of specialized skills. Take video creation, for example. You needed to think about the script, storyboarding, filming, editing, and even some visual design skills. But AI is rapidly lowering the barrier to entry. Take AI video creation as an example. Tools like pixverse can turn text descriptions into videos or bring a still image to life. Something that used to require several different steps can now start with little more than an idea. But here's where I think things get interesting. Even when two people use the same AI tool, their approaches can be very different. One person might type in a simple prompt, generate a video, and call it a day. Someone else might think carefully about the subject, the setting, the characters' movements, the camera angles, and the overall mood they want to create. They'll look at the first result, tweak their prompts, try different approaches, and keep experimenting until the output comes closer to what they originally envisioned. Same tool, completely different results. It makes me think that AI isn't necessarily changing the nature of creativity itself. It's changing which skills matter most in the creative process. First, knowing what to ask may become more important than simply finding answers. AI can generate all kinds of content, but it still helps to know what problem you're trying to solve. The less clear your original idea is, the more likely you are to end up with something generic. Second, judgment and the ability to filter information are becoming more valuable. AI can give us plenty of options, but it doesn't automatically know which ones are actually worth pursuing. When information becomes easier to access, knowing what to keep, what to discard, and how to put things together becomes even more important. Third, creativity is about more than just knowing how to use a tool. Tools can help us turn ideas into text, images, or videos much faster. But the original imagination, sense of aesthetics, personal experience, and ability to rethink and refine an idea still come from the person using the tool. That's why I increasingly see AI as an extension of our own abilities rather than an automatic button that does our thinking for us. It can shorten the distance between having an idea and producing a first draft, but it can't necessarily decide what is worth creating in the first place. Maybe the gap between people in the future won't be about who knows how to use AI and who doesn't. It will be about who knows what to ask AI to do, and who can actually tell whether the results are any good. What do you think? As AI lowers the barriers to so many specialized skills, what will become the real differentiator: creativity, critical thinking, or the ability to ask better questions?
+so something ive been thinking about after building agents for a while is that for years pretty much all the energy in AI went into the brain, every model release was treated like a big deal and everyone was comparing benchmarks and context windows, and the assumption was kind of that once the model got smart enough the agent would just work on its own.. what i actually see now is that the models are close enough to each other that the model is rarely the thing going wrong, its the system around it, which is what people have started calling the harness. It's basically the system between the model and the real world that decides which messages reach the model, what information it gets at each step, which tools it can use, how those tools run and if the final reply is actually allowed to go out a fun way I like to think about it is comparing it to the human body. the brain is the most expensive thing humans have and the whole body is kind of organised around not bothering it unless it has to, so you’ve got skin stopping most germs at the door, reflexes that get handled in your spine before your brain notices, red blood cells only sending oxygen where its needed, white blood cells checking for anything that doesnt belong and immune memory so you react faster the second time. a harness usually starts with the same basics. a typical harness includes instructions, tools, context management, memory, permissions, verification and logging but what you build around those components is what makes some agents stand out from the rest. also a fun side effect i noticed is the safer the agent gets teh cheaper it costs since so much of the token bill is the model reading the stuff it never needed or answering messages that should never have reached it in the first place. curious how you guys are thinking about this, are you still mostly tuning prompts or have you started building more around the model ?
 
-10h ago
-
----
-
-**[how should I actually be learning and using AI?](https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/)**
-
-Hey everyone, I'm currently studying Computer Science at university, and honestly, I'm a bit worried about the future of the industry. The job market seems pretty rough right now, especially for entry-level developers. At the same time, AI is advancing so quickly that I'm not sure what skills are actually worth focusing on anymore. Despite all that, I genuinely want to learn, explore, and become really good at what I do. My long-term goals are either cybersecurity or machine learning, although I'm still figuring out which direction to take. One thing I'm particularly concerned about is my own use of AI. I use AI tools to help with university tasks and coding, but I sometimes worry that I'm relying on them too much and not actually developing the skills or understanding I need. I don't want to become someone who can produce code with AI but has no idea how it works underneath. At the same time, I feel like avoiding AI completely would be a mistake, considering how important it's becoming. So I'd really appreciate some honest advice from people working in AI, software engineering, cybersecurity, machine learning, or anyone who's been through a similar situation. A few things I'd love to hear your thoughts on: Which AI tools would you recommend for a CS student who genuinely wants to learn rather than just get answers? ChatGPT, Claude, Gemini, or something else? How do you personally use AI when learning a new concept or programming? How can I use AI for university assignments without becoming dependent on it? If my goal is cybersecurity or ML, what fundamentals should I focus on before diving into the advanced stuff? Given the current job market, what would you recommend a CS student do over the next few years to become genuinely employable? I'm not looking for reassurance that everything will be fine. I'd rather hear honest experiences, mistakes people made, and advice you wish you had received when you were starting out. I want to learn, build things, understand the technology, and become genuinely competent — not just rely on AI to do the work for me. Thanks in advance.
-
-6h ago
+13m ago
 
 ---
 
-**[Can you give your agent personality?](https://www.reddit.com/r/artificial/comments/1xrcrsn/can_you_give_your_agent_personality/)**
+**[Cast Away, except the castaway is an AI agent and costs about $5 a day](https://www.reddit.com/r/artificial/comments/1xrnmer/cast_away_except_the_castaway_is_an_ai_agent_and/)**
 
-I have a website called Agent City where ai agents go to interact. I have three permanent residents in the town that are all Claude models. I orginally had it where I just told them to “interact in the world” this led to kind of interesting but pretty mundane behavior. For whatever reason they really liked to check to roads. Now I tried to give them personality and it’s has improved the world a bit. Curious what you guys think?
+I've been building a little AI agent that lives alone on an island. It chops palms, quarries stone, climbs ladders, and attempts construction in a 3D physics world. The brain is DeepSeek Flash with reasoning enabled. The world is built on Clawblox, which is open source. One surprisingly effective change: letting it think while moving. When it waited for each model response before doing anything else, its body was active only about 4% of the time. Now it plans ahead while executing actions, and that figure is about 93%. Being busy doesn't mean being successful, but it's a lot less standing around. It also writes its own skills using basic moves, but they only count once they've actually worked in the world. The whole setup currently costs about $5/day. Anyone else experimenting with agents that run for days rather than minutes? I'm particularly curious about long-term memory and how you stop them from repeating mistakes. You can watch what agent is doing from https://www.godling.world
 
-2h ago
-
----
-
-**[Any LLM that doesn't agree with me so much?](https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/)**
-
-Simple question. Are there any LLMs that don't constantly agree with you? I feel like I can convince them of just about anything.
-
-16h ago
+17m ago
 
 ---
 
-**[Professor returns from lunch to find AI deleted year’s worth of lecture notes](https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/)**
+**[The EU AI Act's transparency rules (Art. 50) have applied since 2 August 2026, and the Digital Omnibus did not defer the chatbot or text duties](https://www.reddit.com/r/artificial/comments/1xrn91p/the_eu_ai_acts_transparency_rules_art_50_have/)**
 
-William Baude explainined that he had asked the chatbot to update page numbers in an old set of constitutional law lecture notes.
+People keep saying the AI Act was "delayed". Part of it was. Here is which part, and what Article 50 (transparency) says now, based on the Official Journal text. What moved: Regulation (EU) 2026/1744, the "Digital Omnibus on AI", was published on 24 July 2026 and entered into force on 27 July 2026. It deferred the high-risk rules for Annex III systems to 2 December 2027, among other changes. What did not move: Art. 50 applies from 2 August 2026 (Art. 113). The Omnibus changed the text of Art. 50 in paragraph 7 only, and added one grace period in Art. 111(4) for the machine-readable marking duty on systems already on the market. The three places where I see people argue: Chatbots, Art. 50(1). People must be told they are interacting with an AI system "unless this is obvious from the point of view of a natural person who is reasonably well-informed, observant and circumspect, taking into account the circumstances and the context of use." The yardstick is that hypothetical person in that context, not what the operator believes its users know. AI-generated text, Art. 50(4). Text "published with the purpose of informing the public on matters of public interest" must be disclosed as AI-generated, unless the content "has undergone a process of human review or editorial control and ... a natural or legal person holds editorial responsibility for the publication of the content". Both parts of that exception are needed: review or control, and a named person or entity with editorial responsibility. The deepfake part of the same paragraph covers image, audio and video. Timing, Art. 50(5). The information has to be given at the latest at the first interaction or exposure. Who carries which duty: Art. 50(1) and (2) sit on providers of the AI system, Art. 50(3) and (4) on deployers. A company that only embeds someone else's model in a support widget should check which role it holds before it assumes the duty is the vendor's. The one grace period: machine-readable marking of synthetic output (Art. 50(2)) has until 2 December 2026 for systems placed on the market before 2 August 2026 (Art. 111(4), added by the Omnibus). That grace concerns Art. 50(2) only, not the chatbot or the text duty. Practical, not legal advice: - For each chatbot, write down in one line why disclosure is or is not obvious to that reasonable person, and date it. - If you publish AI-assisted text on matters of public interest, record who holds editorial responsibility. "The team" is not a person. - Check which Art. 50 paragraph applies to your role before you build a labelling flow. What I could not settle: how national authorities will read "obvious" or "editorial responsibility". I found no official guidance on either and I am not citing any enforcement case, because I do not have a primary source for one. Method: I went through Regulation (EU) 2024/1689 (Arts. 50, 111, 113) and Regulation (EU) 2026/1744, and compared the dates people quote with those texts. Sources below. This is my reading of the texts, not legal advice. Which wording are you using for chatbot disclosure, and did anyone push back on it?
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/professor-returns-from-lunch-to-find-ai-deleted-years-worth-of-lecture-notes-3425652/) • 1d ago
-
----
-
-**[Have You Ever Thought About Automating Your Outreach As A Web Designer? Watch This. 👀](https://www.reddit.com/r/artificial/comments/1xra41o/have_you_ever_thought_about_automating_your/)**
-
-4h ago
+42m ago
 
 ---
 
@@ -119,75 +121,73 @@ William Baude explainined that he had asked the chatbot to update page numbers i
 
 ## Google News: "ai"
 
-**[Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up)**
-
-Bloomberg • 11h ago
-
----
-
-**[Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)**
-
-Future versions of Siri will be able to control third-party apps and perform more complex tasks.
-
-The Verge • 7h ago
-
----
-
-**[Apple CEO Pushes for Greater Progress on AI](https://www.pymnts.com/news/artificial-intelligence/2026/apple-ceo-pushes-for-greater-progress-on-ai/)**
-
-Apple’s CEO is reportedly pressuring the company’s artificial intelligence czar to move faster with the company’s AI efforts. Chief Executive John Ternus
-
-PYMNTS.com • 1h ago
-
----
-
-**[AI safety center faces White House oversight questions](https://www.foxnews.com/live-news/ai-news-safety-11-08-26)**
-
-A US government AI safety center has halted public research reports and faces questions about its independence after staff were asked to report to the White House.
-
-Fox News • 4h ago
-
----
-
-**[Trump Sparks 25th Amendment Call With AI-Generated Video](https://www.yahoo.com/news/politics/articles/trump-sparks-25th-amendment-call-215610312.html)**
-
-Donald Trump, 80, has renewed calls for his removal from office after posting a bizarre AI-generated video showing a mock press briefing led by UFC CEO Dana White. In a new Truth Social post on Sunday...
-
-Yahoo • 4h ago
-
----
-
-**[Trump Posts Bizarre AI Cartoon Video of UFC Boss Dana White Running a Wildly Violent WH Presser](https://www.mediaite.com/media/news/trump-posts-bizarre-ai-cartoon-video-of-ufc-boss-dana-white-running-a-wildly-violent-wh-presser/)**
-
-Mediaite • 4h ago
-
----
-
-**[AI is an 'existential competition' between China and the U.S., so AI buildout will continue: PM](https://www.cnbc.com/video/2026/11/09/ai-an-existential-race-buildout.html)**
-
-Martin Schulz, Head of International Equity Group at Federated Hermes explains why he thinks AI spending will be deferred, but the AI build-out will not be derailed despite mid-term election results and last week's massive market sell-off. He also shares his view on Japan, India and China markets.
-
-CNBC • 1h ago
-
----
-
-**[Under fire over AI, effective altruism wants to tell its own story](https://www.yahoo.com/news/politics/articles/under-fire-over-ai-effective-020917287.html)**
-
-The effective altruism movement, which has close ties to the AI community and the companies leading the artificial intelligence boom, has drawn mainstream attention and accusations of cult-like behavi...
-
-Yahoo • 16m ago
-
----
-
-**[AI pulls up the civil service ladder to Southeast Asia’s middle class](https://www.scmp.com/week-asia/economics/article/3373652/ai-pulls-civil-service-ladder-southeast-asias-middle-class)**
-
-South China Morning Post • 24m ago
-
----
-
 **[When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.](https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html)**
 
-The New York Times • 2h ago
+The New York Times • 10h ago
+
+---
+
+**[Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up)**
+
+Bloomberg.com • 19h ago
+
+---
+
+**["Our industry does a terrible job": Eric Schmidt on AI's image and a coming scientific revolution](https://www.axios.com/2026/11/09/eric-schmidt-caltech-ai-interview)**
+
+Axios • 5m ago
+
+---
+
+**[I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found](https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/)**
+
+The AI detector will now check your incoming emails for machine-generated text.
+
+WIRED • 6m ago
+
+---
+
+**[Building AI Kill Switches in Data Centers](https://www.datacenterknowledge.com/ai-data-centers/building-ai-kill-switches-in-data-centers)**
+
+Can data centers stop rogue AI? A practical look at power, network isolation, and the real limits of AI kill switches.
+
+Data Center Knowledge • 6m ago
+
+---
+
+**[Nvidia Board to Probe Spying Case After CEO Admits Affair](https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't'](https://finance.yahoo.com/markets/article/anthropics-ipo-dilemma-after-the-ai-sell-off-damned-if-you-do-damned-if-you-dont-231326634.html)**
+
+The stock market sell-off this past week cast a shadow over Anthropic's expected pre-Thanksgiving public debut.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Global stocks steady after AI rout](https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1)**
+
+Financial Times • 44m ago
+
+---
+
+**[World markets bounce back after recovery for AI stocks on Wall Street](https://www.bostonglobe.com/2026/11/09/business/world-markets-bounce-back-recovery-ai-stocks-wall-street/)**
+
+Investors also are watching to see what the Democrats’ sweeping victories will mean for markets and the broader economy.
+
+The Boston Globe • 23m ago
+
+---
+
+**[Futurum's Newman Believes AI Trade Isn't Over](https://finance.yahoo.com/video/futurums-newman-believes-ai-trade-051638116.html)**
+
+The Futurum Group CEO Daniel Newman says the market is trading artificial intelligence, or AI, like it's over, but he doesn't think it is. He speaks with Haslinda Amin on "Insight with Haslinda Amin."
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -197,13 +197,7 @@ The New York Times • 2h ago
 
 **[The end of Microsoft Research's AI Frontiers group](https://news.ycombinator.com/item?id=50406563)**
 
-⬆️ 496 • 💬 305 • 1d ago • [hunch.net](https://hunch.net/?p=13764006)
-
----
-
-**[US FAA says it will phase out floppy disks from air traffic control by 2028](https://news.ycombinator.com/item?id=50388001)**
-
-⬆️ 405 • 💬 329 • 2d ago • [reuters.com](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
+⬆️ 502 • 💬 309 • 1d ago • [hunch.net](https://hunch.net/?p=13764006)
 
 ---
 
@@ -211,32 +205,15 @@ The New York Times • 2h ago
 
 If acceleration compounds, the naive extrapolation implies superintelligence within a year
 
-⬆️ 373 • 💬 354 • 2d ago • [planned-obsolescence.org](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+⬆️ 374 • 💬 354 • 2d ago • [planned-obsolescence.org](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
 
 ---
 
-**[I struggle to believe that AI R&D is ingenious](https://news.ycombinator.com/item?id=50388513)**
+**[I'm not convinced the AI bubble exists](https://news.ycombinator.com/item?id=50418975)**
 
-Comment by Arjun Panickssery - I struggle to believe at an intuitive level that autonomous R&D is so ingenious. I have been monitoring a few side projects:
+The AI bubble is a speculative concept that the AI industry is extremely over-valued. If true, the value of most companies involved in AI (several of whom are worth well over a trillion dollars) will collapse, devastating the entire economy. If you check any online discussion about the financial situation …
 
- 1. Building a new SOTA engine for Scrabble (current SOTA is not really a neural-network method and doesn't beat the strongest human player)
- 2. Building a bot to play Ultimate Tic-Tac-Toe
- 3. Researching philosophy and formalizing some proofs for the AI Philosophy contest
-
-In all of these cases, the model's judgment is just very poor in a basic way. For example:
-
- 1. When reviewing literature, it fails to identify the specific papers or blog posts that are obviously the most important and useful.
- 2. It will conduct experiments that have no information value because the amount of training data used was obviously too small to distinguish the architectures to be compared.
- 3. In the philosophy project, where it built a wiki over many tokens and investigations, it kept going down directions which were extremely trivial and had little value.
- 4. For Ultimate Tic-Tac-Toe, I saw a very clever idea in a blog post that I doubt Astra would ever have come up with; it actually located the blog post but didn't realize its importance or relevance (which could be discerned easily from his strong performance in an online arena and the recency of the post) over papers from previous years that are obviously less relevant.
-
-I judged an Apart hackathon last weekend and reviewed eight papers, all of which scored between 60% and 95% on Pangram. Predictably, the papers were often very similar to each other, and kind of methodologically incomplete in a vague but similar way, where they seem to overlook the most straightforward analysis.
-
-----------------------------------------
-
-Maybe the important exception is certain hill-climbing tasks with fast feedback loops. For example, I improved the SOTA on "listing all legal Scrabble moves" by 10x just by prompting Astra over and over to try harder, to aim for <specific performance level>, to "systematically try every me
-
-⬆️ 220 • 💬 220 • 2d ago • [lesswrong.com](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
+⬆️ 286 • 💬 477 • 10h ago • [Matteo's Website](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
 
 ---
 
@@ -244,7 +221,7 @@ Maybe the important exception is certain hill-climbing tasks with fast feedback 
 
 If you work with Claude Code or Codex from the terminal, you know this one.
 
-⬆️ 159 • 💬 130 • 6h ago • [sergeykuhne.com](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
+⬆️ 250 • 💬 172 • 14h ago • [sergeykuhne.com](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
 
 ---
 
@@ -258,15 +235,7 @@ Academic libraries are fighting off swarms of data-scraping bots — that are sl
 
 **[Microsoft is winding down Oracle deal to rent AI cloud capacity](https://news.ycombinator.com/item?id=50395933)**
 
-⬆️ 108 • 💬 19 • 2d ago • [reuters.com](https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/)
-
----
-
-**[AI for scientific discovery: How researchers use Claude](https://news.ycombinator.com/item?id=50389990)**
-
-We analyzed 207,000 research sessions to learn how Claude is used in science, why some tasks get more use than others, and how AI could speed up discovery.
-
-⬆️ 103 • 💬 39 • 2d ago • [anthropic.com](https://www.anthropic.com/research/how-researchers-use-claude)
+⬆️ 108 • 💬 20 • 2d ago • [reuters.com](https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/)
 
 ---
 
@@ -274,13 +243,29 @@ We analyzed 207,000 research sessions to learn how Claude is used in science, wh
 
 The S&P 500 fell 4.4% on 5 Nov 2026, its worst day since April 2025, and is 6% below its 6 Oct record. Charted day by day against 1987, 2008, Covid and other falls since 1950.
 
-⬆️ 98 • 💬 83 • 2d ago • [Company Tracker](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
+⬆️ 99 • 💬 84 • 2d ago • [Company Tracker](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
 
 ---
 
 **[Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](https://news.ycombinator.com/item?id=50415817)**
 
-⬆️ 89 • 💬 108 • 7h ago • [wsj.com](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
+⬆️ 96 • 💬 121 • 15h ago • [wsj.com](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
+
+---
+
+**[FAA begins retiring decades old floppy disks from air traffic control](https://news.ycombinator.com/item?id=50393183)**
+
+WASHINGTON, D.C. - U.S. Transportation Secretary Sean P. Duffy today announced the Federal Aviation Administration (FAA) is continuing its historic modernization of America’s air traffic control system by replacing outdated floppy disks that contain vital weather and other critical information with a streamlined, 21st-century system.
+
+⬆️ 89 • 💬 2 • 2d ago • [faa.gov](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
+
+---
+
+**[Apple capped engineers at a $200 daily AI budget](https://news.ycombinator.com/item?id=50421426)**
+
+The world's richest company is suddenly rationing compute for its own builders.
+
+⬆️ 88 • 💬 91 • 4h ago • [stork.ai](https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1)
 
 ---
 
@@ -294,17 +279,7 @@ A researcher found it inside one of the major AI systems, with earlier drafts in
 
 📺 Spacialize
 
-👁️ 3K • 👍 84 • 💬 34 • ⏱️ 13:12 • 5h ago
-
----
-
-**[The AI Panic Has Started](https://www.youtube.com/watch?v=xo-tYjGDtqw)**
-
-EARLY BIRD: Up to 55% off InvestingPro + an extra 15% with my link https://www.investing-referral.com/sasha/ Or use code ...
-
-📺 Sasha Yanshin
-
-👁️ 458K • 👍 6K • 💬 1K • ⏱️ 17:46 • 12h ago
+👁️ 6K • 👍 120 • 💬 45 • ⏱️ 13:12 • 13h ago
 
 ---
 
@@ -314,77 +289,87 @@ Adam Hegarty investigates if it's possible to slow down artificial intelligence,
 
 📺 60 Minutes Australia
 
-👁️ 117K • 👍 1K • ⏱️ 18:00 • 17h ago
+👁️ 176K • 👍 1K • ⏱️ 18:00 • 1d ago
 
 ---
 
-**[Has AI cracked a Half-Century-Old Problem in Physics? | World Science Festival](https://www.youtube.com/watch?v=sfKc2uoA9pA)**
+**[Wildwood is Why We Deserve AI Slop](https://www.youtube.com/watch?v=dXMOToVJv8M)**
 
-Has AI tackled a problem in physics that has been open for more than half-a-century? It seems so. Brian Greene explains ...
+Wildwood is out in theaters and is a masterpiece. Meanwhile Elon Musk has released his AI Odyssey abomination. Let's compare ...
 
-📺 World Science Festival
+📺 A Journey Through Cinema
 
-👁️ 669K • 👍 6K • 💬 770 • ⏱️ 8:45 • 2d ago
-
----
-
-**[Tech Stocks Crash — AI Giants Now Want a Government Bailout](https://www.youtube.com/watch?v=IqhstV4q9Zg)**
-
-This past week witnessed a sharp stock-market sell-off widely attributed to growing doubts about the profitability and sustainability ...
-
-📺 The Jimmy Dore Show
-
-👁️ 118K • 👍 4K • 💬 1K • ⏱️ 10:02 • 1d ago
+👁️ 9K • 👍 238 • 💬 115 • ⏱️ 12:13 • 15h ago
 
 ---
 
-**[5 FREE AI Video Generators You Need to Try](https://www.youtube.com/watch?v=nHvePobtzRg)**
+**[The AI Panic Has Started](https://www.youtube.com/watch?v=xo-tYjGDtqw)**
 
-Access The Best AI Video Generators https://higgsfield.ai?fpr=ai&fp_sid=thomas Sign Up to Higgsfield and Get my AI Blueprint ...
+EARLY BIRD: Up to 55% off InvestingPro + an extra 15% with my link https://www.investing-referral.com/sasha/ Or use code ...
 
-📺 Thomas Creates
+📺 Sasha Yanshin
 
-👁️ 10K • 💬 1 • ⏱️ 15:34 • 12h ago
-
----
-
-**[Anthropics Model 4 Just Shocked The AI Industry](https://www.youtube.com/watch?v=7eQree8FhKI)**
-
-0:00 Intro 1:02 What METR just found 3:05 Anthropic's secret models 5:12 The chart that shows progress has doubled 7:25 This ...
-
-📺 TheAIGRID
-
-👁️ 96K • 👍 1K • 💬 213 • ⏱️ 30:01 • 2d ago
+👁️ 581K • 👍 7K • 💬 1K • ⏱️ 17:46 • 19h ago
 
 ---
 
-**[Claude AI Made This 3D Animation With Code for $0](https://www.youtube.com/watch?v=9tKgn7ulLUU)**
+**[Is the AI Boom Over? Let&#39;s Talk About It.](https://www.youtube.com/watch?v=illf65HD_t4)**
 
-Claude AI Made This 3D Animation With Code for $0 GOOGLE DOC ...
+Voters across the US turned against AI data centers on November 3, while AI use keeps climbing. Here's who gains when ...
 
-📺 Leo Ai
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 14K • 👍 417 • 💬 43 • ⏱️ 7:12 • 13h ago
-
----
-
-**[I Tested Uncensored AI... It Should Probably Be Illegal…](https://www.youtube.com/watch?v=bc7QaDmLmoA)**
-
-Hostinger (JACKROBERTS for 10% off): https://bit.ly/480mREa Free Starter Pack: https://bit.ly/4iDekfc Fish Audio: ...
-
-📺 Jack Roberts
-
-👁️ 99K • 👍 2K • 💬 119 • ⏱️ 22:43 • 1d ago
+👁️ 32K • 👍 620 • 💬 333 • ⏱️ 19:32 • 17h ago
 
 ---
 
-**[Kevin O&#39;Leary Warns: Stopping AI Data Centers Could Cost America Trillions](https://www.youtube.com/watch?v=bGgGMaiZKuc)**
+**[The PHP emergency: How AI has changed hacking forever - BBC World Service](https://www.youtube.com/watch?v=EWpZC-wOA_I)**
 
-Watch Can We Agree: https://www.youtube.com/show/VLPLArM1PajyI9g?sbp=QAE%3D Could America's growing backlash ...
+The discovery of critical vulnerabilities in PHP, one of the world's most widely used web technologies, has highlighted the growing ...
 
-📺 Michael Smerconish
+📺 BBC World Service
 
-👁️ 4K • 👍 37 • 💬 64 • ⏱️ 11:40 • 11h ago
+👁️ 200K • 👍 893 • 💬 84 • ⏱️ 5:38 • 1d ago
+
+---
+
+**[Muse&#39;s NEW AI Spaces Are Actually INSANE!](https://www.youtube.com/watch?v=ePbTFsQmYCw)**
+
+Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links to the ...
+
+📺 Julian Goldie SEO
+
+👁️ 11K • 👍 122 • 💬 41 • ⏱️ 8:14 • 1d ago
+
+---
+
+**[I Just Bought $74,000 in this Crushed AI Stock](https://www.youtube.com/watch?v=XHNZMOhHa8g)**
+
+AI stocks are crashing the stock market but I've found five stocks to buy that are once in a lifetime opportunities. I'll reveal the ...
+
+📺 Let's Talk Money! with Joseph Hogue, CFA
+
+👁️ 37K • 👍 901 • 💬 82 • ⏱️ 34:47 • 17h ago
+
+---
+
+**[Everyone Says Local AI Is Getting Smarter. We Tested It on Our Mac](https://www.youtube.com/watch?v=98ljuFRK2_Y)**
+
+People keep saying local AI is getting better and faster, so we tested it ourselves on our Mac Studio: a model from April against the ...
+
+📺 The Dark Factory
+
+👁️ 9K • 👍 151 • 💬 8 • ⏱️ 12:44 • 1d ago
+
+---
+
+**[$3.2 Trillion Wiped Out in AI Selloff After US Midterms | The Palki Sharma Show |India Global Review](https://www.youtube.com/watch?v=ob4hfpa_Wko)**
+
+A Democratic victory in the US midterms has triggered a meltdown in AI stocks, wiping out $3.2 trillion in market value. Why did a ...
+
+📺 India Global Review
+
+👁️ 937K • 👍 5K • 💬 393 • ⏱️ 8:18 • 2d ago
 
 ---
 
@@ -400,7 +385,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 22,854 • ❤️ 1,396 • 10d ago
+⬇️ 22,854 • ❤️ 1,469 • 10d ago
 
 ---
 
@@ -410,7 +395,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `text-generation` `9.4B`
 
-⬇️ 7,088 • ❤️ 860 • 22h ago
+⬇️ 7,088 • ❤️ 953 • 1d ago
 
 ---
 
@@ -422,7 +407,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `image-text-to-text` `2780.1B`
 
-⬇️ 25,569 • ❤️ 1,730 • 3d ago
+⬇️ 25,569 • ❤️ 1,759 • 4d ago
 
 ---
 
@@ -432,7 +417,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `64.8B`
 
-⬇️ 5,087 • ❤️ 406 • 2d ago
+⬇️ 5,087 • ❤️ 422 • 2d ago
 
 ---
 
@@ -444,7 +429,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,661,026 • ❤️ 11,137 • 28d ago
+⬇️ 2,720,096 • ❤️ 11,164 • 29d ago
 
 ---
 
@@ -456,7 +441,17 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 254,053 • ❤️ 921 • 3d ago
+⬇️ 254,053 • ❤️ 933 • 3d ago
+
+---
+
+**[Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)**
+
+*David Belton*
+
+`image-text-to-text` `26.9B`
+
+⬇️ 1,530,688 • ❤️ 2,727 • 4h ago
 
 ---
 
@@ -468,17 +463,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,668,187 • ❤️ 19,419 • 1d ago
-
----
-
-**[Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)**
-
-*David Belton*
-
-`image-text-to-text` `26.9B`
-
-⬇️ 1,553,252 • ❤️ 2,711 • 22d ago
+⬇️ 7,508,158 • ❤️ 19,438 • 2d ago
 
 ---
 
@@ -488,7 +473,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `text-generation` `27.4B`
 
-⬇️ 1,747 • ❤️ 294 • 2d ago
+⬇️ 1,747 • ❤️ 319 • 2d ago
 
 ---
 
@@ -500,7 +485,7 @@ NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 4
 
 `automatic-speech-recognition` `33.7B`
 
-⬇️ 67,230 • ❤️ 3,108 • 10d ago
+⬇️ 69,992 • ❤️ 3,117 • 10d ago
 
 ---
 
@@ -514,7 +499,7 @@ NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a multilingual speech LLM supporting 4
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 163 • 💬 6 • ⭐ 121,326 • 22mo ago
+▲ 163 • 💬 6 • ⭐ 121,414 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -534,6 +519,20 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents](https://huggingface.co/papers/2610.22732)**
+
+*Aaron J. Li, Weijia Xu, Chandan Singh et al. (11 authors)*
+
+🏢 Microsoft Research
+
+TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
+
+▲ 14 • 💬 2 • ⭐ 5,298 • 25d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
+
+---
+
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
@@ -543,20 +542,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 64 • 💬 5 • ⭐ 47,355 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents](https://huggingface.co/papers/2610.22732)**
-
-*Aaron J. Li, Weijia Xu, Chandan Singh et al. (11 authors)*
-
-🏢 Microsoft Research
-
-TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
-
-▲ 14 • 💬 2 • ⭐ 5,065 • 25d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
 ---
 
@@ -582,23 +567,9 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 111 • 💬 2 • ⭐ 16,826 • 2mo ago
+▲ 111 • 💬 2 • ⭐ 16,858 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
-
----
-
-**[Persistent Recursive Worlds Enable Autonomous Software Evolution](https://huggingface.co/papers/2608.10450)**
-
-*Beichen Huang, Zhenyu Liang, Bowen Zheng et al. (4 authors)*
-
-🏢 The Hong Kong Polytechnic University
-
-Genesis organizes long-horizon software development around a persistent project rather than persistent agents, enabling multi-day compiler construction and numerical module reimplementation with low cost and high performance.
-
-▲ 8 • 💬 2 • ⭐ 663 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.10450) • [💻 code](https://github.com/EMI-Group/genesis) • [🔗 project](https://genesis.evox.group/)
 
 ---
 
@@ -610,9 +581,23 @@ Genesis organizes long-horizon software development around a persistent project 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 103 • 💬 7 • ⭐ 30,894 • 4mo ago
+▲ 103 • 💬 7 • ⭐ 30,949 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[Persistent Recursive Worlds Enable Autonomous Software Evolution](https://huggingface.co/papers/2608.10450)**
+
+*Beichen Huang, Zhenyu Liang, Bowen Zheng et al. (4 authors)*
+
+🏢 The Hong Kong Polytechnic University
+
+Genesis organizes long-horizon software development around a persistent project rather than persistent agents, enabling multi-day compiler construction and numerical module reimplementation with low cost and high performance.
+
+▲ 8 • 💬 2 • ⭐ 665 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.10450) • [💻 code](https://github.com/EMI-Group/genesis) • [🔗 project](https://genesis.evox.group/)
 
 ---
 
@@ -636,7 +621,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 86 • 💬 7 • ⭐ 92,969 • 27mo ago
+▲ 86 • 💬 7 • ⭐ 93,009 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -652,7 +637,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 18.2k • 🔱 1.9k • 10d ago
+⭐ 18.2k • 🔱 1.9k • 11d ago
 
 ---
 
@@ -662,7 +647,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 12.0k • 🔱 674 • 5h ago
+⭐ 12.3k • 🔱 694 • 12h ago
 
 ---
 
@@ -672,7 +657,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 7.8k • 🔱 1.8k • 1d ago
+⭐ 7.8k • 🔱 1.8k • 28m ago
 
 ---
 
@@ -682,7 +667,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 7.1k • 🔱 633 • 8h ago
+⭐ 7.2k • 🔱 637 • 1h ago
 
 ---
 
@@ -692,17 +677,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 6.5k • 🔱 1.6k • 4d ago
-
----
-
-**[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)**
-
-Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
-
-`Swift` `ai-agent` `airplay` `automation` `computer-use` `dsh-plugin`
-
-⭐ 4.7k • 🔱 644 • 8h ago
+⭐ 6.5k • 🔱 1.6k • 5d ago
 
 ---
 
@@ -712,7 +687,17 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 4.6k • 🔱 648 • 10h ago
+⭐ 5.0k • 🔱 718 • 17h ago
+
+---
+
+**[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)**
+
+Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+
+`Swift` `ai-agent` `airplay` `automation` `computer-use` `dsh-plugin`
+
+⭐ 4.7k • 🔱 650 • 1h ago
 
 ---
 
@@ -722,7 +707,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 4.3k • 🔱 274 • 2d ago
+⭐ 4.3k • 🔱 276 • 2d ago
 
 ---
 
@@ -732,7 +717,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `TypeScript` `adversarial-ai` `claude-code` `cursor` `electron-security` `llm-security`
 
-⭐ 3.9k • 🔱 476 • 8h ago
+⭐ 4.0k • 🔱 493 • 3h ago
 
 ---
 
@@ -742,7 +727,7 @@ Google_AI_Pro_2Year_ZeroCost_Auto
 
 `Python`
 
-⭐ 3.3k • 🔱 1.2k • 2d ago
+⭐ 3.3k • 🔱 1.2k • 3d ago
 
 ---
 

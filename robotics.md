@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-09T02:25:27.904385+00:00'
+updated: '2026-11-09T10:06:52.164028+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 09, 2026 at 02:25 UTC  
+**Last Updated:** November 09, 2026 at 10:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D
 
-3d ago
+4d ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev ki
 
 guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can’t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online
 
-3d ago
+4d ago
 
 ---
 
@@ -92,7 +92,7 @@ guys, need help asap, how can i connect the sg90 servo motor and 10k potentiomet
 
 Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!
 
-3d ago
+4d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I am developing a project called SmartGrid, an offline robotic tool
 
 Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?
 
-3d ago
+4d ago
 
 ---
 
@@ -118,7 +118,7 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 **[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -126,7 +126,7 @@ Reuters • 1d ago
 
 Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.
 
-CNBC • 13h ago
+CNBC • 21h ago
 
 ---
 
@@ -134,7 +134,43 @@ CNBC • 13h ago
 
 Peggy Johnson rose through Qualcomm, became Microsoft's chief dealmaker, and led Magic Leap. Now she's trying to turn humanoid robots into a business.
 
-Business Insider • 16h ago
+Business Insider • 1d ago
+
+---
+
+**[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
+
+Financial Times • 3d ago
+
+---
+
+**[This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck](https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck)**
+
+Watching a hand walk away on its fingers brings to mind Thing from The Addams Family.
+
+ScienceAlert • 1d ago
+
+---
+
+**[Pakistan-built robots serve taste of future to Karachi diners](https://www.dawn.com/news/2043044)**
+
+The robots are proving a hit with families, who flock to the restaurant to watch the machines in action.
+
+Dawn • 1d ago
+
+---
+
+**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
+
+Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
+
+GeekWire • 3d ago
+
+---
+
+**[Chinese robotics stock surge on Apple robotics research](https://www.investing.com/news/stock-market-news/chinese-robotics-stock-surge-on-apple-robotics-research-5010497)**
+
+Investing.com • 4h ago
 
 ---
 
@@ -144,49 +180,11 @@ Forbes • 1d ago
 
 ---
 
-**[This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck](https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck)**
+**[Ukraine builds combat robots to hunt Russian troops in underground gas pipelines — UGVs adapted following 15-kilometer subterranean assault](https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault)**
 
-Watching a hand walk away on its fingers brings to mind Thing from The Addams Family.
+Ukraine is developing a new class of combat robots designed to operate inside underground gas pipelines.
 
-ScienceAlert • 16h ago
-
----
-
-**[The Pentagon Issues Conditional Approval for Autonomous Industrial Vehicles Under FCC Framework](https://www.presidentialprayerteam.org/2026/11/08/the-pentagon-issues-conditional-approval-for-autonomous-industrial-vehicles-under-fcc-framework/)**
-
-Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
-
-The Presidential Prayer Team • 18h ago
-
----
-
-**[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
-
-Financial Times • 2d ago
-
----
-
-**[Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)**
-
-Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon's warehouse tests convinced the company it needed a robot that could work safely next to people.
-
-GeekWire • 2d ago
-
----
-
-**[Nebraska robotics program inspires students to pursue growing careers in automation and technology](https://www.3newsnow.com/news/local-news/nebraska-robotics-program-inspires-students-to-pursue-growing-careers-in-automation-and-technology)**
-
-A Nebraska robotics program inspires students to explore automation and tech careers as demand for skilled workers continues to grow.
-
-KMTV 3 News Now Omaha • 41m ago
-
----
-
-**[Pakistan-built robots serve taste of future to Karachi diners](https://www.dawn.com/news/2043044)**
-
-The robots are proving a hit with families, who flock to the restaurant to watch the machines in action.
-
-Dawn • 17h ago
+Tom's Hardware • 19h ago
 
 ---
 
@@ -194,23 +192,13 @@ Dawn • 17h ago
 
 ## YouTube Videos: "robotics"
 
-**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
+**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
 
-This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
+King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
 
-📺 Unstoppable Gadgets
+📺 Kathryn Petrillo
 
-👁️ 84K • 👍 1K • 💬 32 • ⏱️ 0:21 • 3d ago
-
----
-
-**[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
-
-Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
-
-📺 Statrys
-
-👁️ 144K • 👍 2K • 💬 390 • ⏱️ 15:13 • 2d ago
+👁️ 21K • 👍 538 • 💬 16 • ⏱️ 0:49 • 4d ago
 
 ---
 
@@ -220,27 +208,27 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 14K • 👍 261 • 💬 37 • ⏱️ 6:44 • 4d ago
+👁️ 15K • 👍 264 • 💬 37 • ⏱️ 6:44 • 4d ago
 
 ---
 
-**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
+**[Xiaomi Humanoid Robots Just Worked an 8 Hour Shift at a Car Factory](https://www.youtube.com/watch?v=RgJhL6_f1mE)**
 
-https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
-
-📺 Casey.aicreates
-
-👁️ 19K • 👍 960 • 💬 35 • ⏱️ 1:44 • 2d ago
-
----
-
-**[Xiaomi Humanoid Robots Work 8 Hours in EV Factory](https://www.youtube.com/watch?v=TUYfevB3ISQ)**
-
-Xiaomi's humanoid robots just completed a reported 8-hour shift at an electric car factory! The 2 robots sorted automotive interior ...
+Xiaomi humanoid robots have completed their first reported 8-hour shift at an electric car factory. The 2 robots were tested on ...
 
 📺 DPCcars
 
-👁️ 1K • 👍 12 • ⏱️ 0:45 • 12h ago
+👁️ 3K • 👍 26 • 💬 5 • ⏱️ 5:46 • 19h ago
+
+---
+
+**[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
+
+Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
+
+📺 Statrys
+
+👁️ 153K • 👍 2K • 💬 407 • ⏱️ 15:13 • 2d ago
 
 ---
 
@@ -250,17 +238,17 @@ Robots going completely wrong caught on camera return in Part 4 with more shocki
 
 📺 MostAmazingTop10
 
-👁️ 146K • 👍 970 • 💬 120 • ⏱️ 9:12 • 6d ago
+👁️ 146K • 👍 972 • 💬 121 • ⏱️ 9:12 • 6d ago
 
 ---
 
-**[When Robots Take on a Mountain, Things Get WILD!](https://www.youtube.com/watch?v=ybCxZWkJvXU)**
+**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
 
-Some robots are being led uphill on leashes, others are stumbling backward, and one even has to be carried away on a stretcher!
+A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
 
-📺 TECH MOMENTS
+📺 Inside Edition
 
-👁️ 8K • 👍 34 • 💬 2 • ⏱️ 0:22 • 5d ago
+👁️ 26K • 👍 334 • 💬 88 • ⏱️ 1:43 • 4d ago
 
 ---
 
@@ -274,23 +262,33 @@ Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming F
 
 ---
 
-**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
+**[How I Built a $300 Robot Hand With 18 Motors](https://www.youtube.com/watch?v=Sk0x-xMNQks)**
 
-A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
+Waitlist: https://mdesigns.space/projects/m1-humanoid-arm Donations: https://mdesigns.space/projects/m1-humanoid-arm ...
 
-📺 Inside Edition
+📺 Mahdi Designs
 
-👁️ 26K • 👍 331 • 💬 86 • ⏱️ 1:43 • 4d ago
+👁️ 242K • 👍 3K • 💬 330 • ⏱️ 15:06 • 6d ago
 
 ---
 
-**[Xiaomi humanoid robots work a full 8-hour shift in its EV factory](https://www.youtube.com/watch?v=X2qjDBGiER8)**
+**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
 
-Xiaomi's humanoid robots worked a full eight-hour shift on its own EV assembly line, sorting car parts. In March, the longest run ...
+https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
 
-📺 Klaank
+📺 Casey.aicreates
 
-👁️ 11K • 👍 92 • 💬 6 • ⏱️ 0:57 • 4d ago
+👁️ 20K • 👍 1K • 💬 37 • ⏱️ 1:44 • 2d ago
+
+---
+
+**[America Doesn&#39;t Know What&#39;s Coming...China&#39;s Robot are...](https://www.youtube.com/watch?v=-zhvImdzHlE)**
+
+America Doesn't Know What's Coming...China's Robot are... China is building the future of the internet, and I've come to Wuzhen, ...
+
+📺 Living in China
+
+👁️ 127K • 👍 2K • 💬 181 • ⏱️ 7:07 • 3d ago
 
 ---
 
