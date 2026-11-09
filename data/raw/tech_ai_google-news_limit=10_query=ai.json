@@ -5,96 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5",
-      "pub_date": 1794150001.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Apple is racing to make Siri more agentic",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3JaWFBERDlYSHRpakp2VDhPRFAxSk8wX3hyalFtZk5RVEhVQ3hnSndLdjVmdE43S0JfZkRIZ2paYk83MUNrRmlnYVFPbDJUSnJLVEF2bDg1Sk5pOFZQSm5tQVFlUUxfSVQ4SjFsSFp6T1dEMWhLMzlrTzN4WHdHblNiQndxc3dv?oc=5",
-      "pub_date": 1794165499.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200",
-      "description": "Future versions of Siri will be able to control third-party apps and perform more complex tasks."
-    },
-    {
-      "headline": "Apple CEO Pushes for Greater Progress on AI",
-      "source": "PYMNTS.com",
-      "source_url": "https://www.pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEFPMDdVaVY0cXkwZ3V6LWtkdGRIYklObXNTRXZ4dF9ETFNGT0tfNWxCUEpxZmtzQVNtSTRKQkpzcFhuX1NHbWxuWnc5Vjd1MUNvUWcyNHZ0T3ZHc1FKeGlLamtoaWRaclV6cmdmUzAtS0tOdUhrNXNXLXl4VV9kQUtXajVOQ1lESzAyNXFRTUx6QXlNOXlTYWhjUE9vYWd4RUlB?oc=5",
-      "pub_date": 1794184319.0,
-      "article_url": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-ceo-pushes-for-greater-progress-on-ai/",
-      "image": "https://www.pymnts.com/wp-content/uploads/2025/10/Apple-AI-6.jpg",
-      "description": "Apple\u2019s CEO is reportedly pressuring the company\u2019s artificial intelligence czar to move faster with the company\u2019s AI efforts. Chief Executive John Ternus"
-    },
-    {
-      "headline": "AI safety center faces White House oversight questions",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NcGlRZm42NkFGVnVmZFBkQXE5SGpKR2dtV2o0dkFwVG9OM0lhcDBkZWJwVFRyaDRldWdsVDZIOWpmeTJBYjdfYUQtSF9vZUpUemluai1xdldDZzA3R1hWeWZhUjhyU2Iy?oc=5",
-      "pub_date": 1794175401.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-news-safety-11-08-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/ecac1a92c265e409983e3202e4872e3d.jpg",
-      "description": "A US government AI safety center has halted public research reports and faces questions about its independence after staff were asked to report to the White House."
-    },
-    {
-      "headline": "Trump Sparks 25th Amendment Call With AI-Generated Video",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYmpsRXdtRG9YZC1Mc3NrUGxoUjFkVVVaR2pwUVZHRjNfTFlGS1hHMXZvaUE5b2xFbktlMW5FdDZNQ3RJelRFMEN3aWZfZXVVMHhzUG5MUzZ2UHpfclZyckNZOUtldTd2SDZxN3A3eGIyUElKZHlWUDFZRGNxT3RQYUFSZ2lla1Z1QmhEWDNHLURkMjdtZVE0?oc=5",
-      "pub_date": 1794174970.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/trump-sparks-25th-amendment-call-215610312.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d9c06a3e9cdb1c3d6dcce1fd0fce9e84589cdeca593528f4ee26141dd62ae54a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2Fcf7f022e7f613f87abe256f00491655d.jpg",
-      "description": "Donald Trump, 80, has renewed calls for his removal from office after posting a bizarre AI-generated video showing a mock press briefing led by UFC CEO Dana White. In a new Truth Social post on Sunday..."
-    },
-    {
-      "headline": "Trump Posts Bizarre AI Cartoon Video of UFC Boss Dana White Running a Wildly Violent WH Presser",
-      "source": "Mediaite",
-      "source_url": "https://www.mediaite.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGpScXpuU2VZTGRsNVkyNzVDQ3JMWFNRdVNBeTlPSHMxSnRYdE9PNE9HbGtvYnJTOGthRjdmeEJyYS1NMlJSZ2JCeEVuSlRFbkJkZlRCMXA4aWUxYU9RdGJiSEtHeEhtU1c4N1IwR09vVG1lTkNiZy1rT045UHF4enJVSVo3dXBuaGtmUk5MVUJDT0VNMUx4MklUNjFBcGh1YjB3b3ZBRi0zWFpBSHBnZTloVXNCeERIM2E0cVFRaExjT2xwRi0zOTNkcVg?oc=5",
-      "pub_date": 1794175020.0,
-      "article_url": "https://www.mediaite.com/media/news/trump-posts-bizarre-ai-cartoon-video-of-ufc-boss-dana-white-running-a-wildly-violent-wh-presser/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI is an 'existential competition' between China and the U.S., so AI buildout will continue: PM",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Y0RoSEhtaDJrMGpXWUhsZ2J5VGZUVGNTakwydXl2dFFuaHFWeDZtYVYyeHF2RDdwLW9uUlloQmRkYVo1eE9OR1g4X1VLSFhPYkNMcXhqdWdEWkppMkRVMnZzcFRUaHQxZUNVYkhDc2NySkF4TmtVbkhZS3Y3aFU?oc=5",
-      "pub_date": 1794186358.0,
-      "article_url": "https://www.cnbc.com/video/2026/11/09/ai-an-existential-race-buildout.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108545288-17941855491794185546-49521451679-1080pnbcnews.jpg?v=1794185548&w=1920&h=1080",
-      "description": "Martin Schulz, Head of International Equity Group at Federated Hermes explains why he thinks AI spending will be deferred, but the AI build-out will not be derailed despite mid-term election results and last week's massive market sell-off. He also shares his view on Japan, India and China markets."
-    },
-    {
-      "headline": "Under fire over AI, effective altruism wants to tell its own story",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnZvWXVZeGF6Mjk5a2VuanZMQlZPeDZkYVlhWm9wWTRSU3pjNk5fZmdxeHFYR1gzVTlCMjF3bjViZFF6eU41Z2lxanZwWXVWNXZEeF8ycjI0cHpGSHgyTlhXQkRpZnhQcENjNmlCSFk3ODFXTTF4VWZIQ1ZNYmswYlpnTTFYRnZKSGJucUYxbHJnZw?oc=5",
-      "pub_date": 1794190140.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/under-fire-over-ai-effective-020917287.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bea2a22523e216d4fc6dadb0a1d374cecb3ca03c77815fd1e0642fd2c8143016/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fca3e4ce9e0f27097d8c140b4d3f20c65.jpg",
-      "description": "The effective altruism movement, which has close ties to the AI community and the companies leading the artificial intelligence boom, has drawn mainstream attention and accusations of cult-like behavi..."
-    },
-    {
-      "headline": "AI pulls up the civil service ladder to Southeast Asia\u2019s middle class",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkNuV21wQXJvWVgxdEZOLTF2Y0NZR2pPcjB4SDVNc0t5Ump5RzhvbjFUYWo3WE5JZnMxVWhsNTZyaHpsSmhaZW1fZ1VZa3hHNFJyQnl4M3pxejR4QVZ5ZThOZUljblJsS1duSFNUWkpZbDhvNk5Fb0o5cnRfbFZmblgtbjlyNlYxODJoTVYwRTk3THNMMU5zSmdjYzM4M1Z5R1RDeE9LSmc3SzBiUzMwalB2bFowZ9IBtgFBVV95cUxQWlJYN2JrNFdBQjY3YTVQZDRLNnN5bFQ2eGlxZGxBbHN0OXRRQXl2VlE2akF6SDhSbERtOFpob0s5TXgwZHRqdkkwUngxWkxnVjhjQ3FyZFBtdGdtVmk1WjBlbV92WUpySktsc1JseVhqcGRKQVNPV0JGMFBGYmFpLVFsc1paM3NhZlkyclFndU5hQW9RV2s0Q1h6Y012QzNfTElPX1l3U1Uta2dlZHNGa2dlRXBidw?oc=5",
-      "pub_date": 1794189638.0,
-      "article_url": "https://www.scmp.com/week-asia/economics/article/3373652/ai-pulls-civil-service-ladder-southeast-asias-middle-class",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "When the Boss on the Phone Isn\u2019t Real: How More Than $129 Million Was Stolen Using A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -103,8 +13,98 @@
       "article_url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5",
+      "pub_date": 1794150001.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\"Our industry does a terrible job\": Eric Schmidt on AI's image and a coming scientific revolution",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FZW4zVzZKRUJFZ3lYQnRMN1lpQzlQeWYwRFJkOUMtV2NkNGZDX09CTXhBS0xQdFd2ckZ3QUNrMVhNR3A5YUpwRDlWNmhwZXd2UnltYlJtM18wanYzM0ZLOGR1TWhLcU1KUGt4NFpKaWlWcTlO?oc=5",
+      "pub_date": 1794218506.0,
+      "article_url": "https://www.axios.com/2026/11/09/eric-schmidt-caltech-ai-interview",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "I Let Pangram Loose on My Gmail Inbox. Here\u2019s How Much AI It Found",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0hlSHpKaGpDajFqam12cEpUN2RyV0FrcUR3NlRmdnZ0UXNmMm03TUVTckZYU0NOVEg3dDlMbGxpQjBCMkpzYmV4dG5QVVR5MXRxcHo1TTU0S09IT3ZOS0pBWWJpSm5NVE4wX0xhcGV5aFRXYW5yWkpFZGVvRHBwR19LZUNBMG5wMTN0aUlIbDhQcmlfQVdWWQ?oc=5",
+      "pub_date": 1794218400.0,
+      "article_url": "https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/",
+      "image": "https://media.wired.com/photos/6aee0b17f697b202d42adfcb/191:100/w_1280,c_limit/gear-pangram-email-ai-detector.jpg",
+      "description": "The AI detector will now check your incoming emails for machine-generated text."
+    },
+    {
+      "headline": "Building AI Kill Switches in Data Centers",
+      "source": "Data Center Knowledge",
+      "source_url": "https://www.datacenterknowledge.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDBuOHByQlNSX240WGM2eC1NOWxUd2JrQk9GSm81RHBTMnlOV3BIVmczQVY0dVl4QjUzLVh4OV9YeG56RkVhNnBNODNrYmxTbUVXYU5nY1k5Qmt0UXp6UXNETFNNal8zUHlYQUZ2ZDVxYWJvejVoUFo2UXhfcTk3V29IUjdNOF90MzVfck9pMlN2WTRRZWNjSQ?oc=5",
+      "pub_date": 1794218444.0,
+      "article_url": "https://www.datacenterknowledge.com/ai-data-centers/building-ai-kill-switches-in-data-centers",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/bltaaf5bcf7dba6bfa9/6aee183fb6e98c3a57ef8b1d/Close-up_of_bright_red_emergency_shutdown_switch_on_control_panel_.png?disable=upscale&width=1200&height=630&fit=crop",
+      "description": "Can data centers stop rogue AI? A practical look at power, network isolation, and the real limits of AI kill switches."
+    },
+    {
+      "headline": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5",
+      "pub_date": 1794199560.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVlpNjBPSk5CcWpIVmc4RnVtUmsxT00wUFVZTXNrYzJqU2w1VGFoUUlUVS02TXVDODhpanJQSUlrNEUzLUo5c0czMXRaYVdSUzdubzBSTG5lVnVEUUE4bW9HSmVHZGV0ZVhYazJsOWw1WDdLMzYxRU1BaEVfbWpWTWtkTDZhakdWd1l5aU1DZk1abDJKY1JRM1VHQnU2Snl5X2xCMHQwaXJ5bWJxYzZPMFFybnlXOWhGSlByeGFDRXZGY291RzJkeW01dHN2a3Fsd0Jn?oc=5",
+      "pub_date": 1794179548.0,
+      "article_url": "https://finance.yahoo.com/markets/article/anthropics-ipo-dilemma-after-the-ai-sell-off-damned-if-you-do-damned-if-you-dont-231326634.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7f31accd38b2ea38db8c378ceb77628eea85a250943f146f83bf39d1be7fd502/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F1f0ede70-9772-4b5b-a468-7a22619946c3",
+      "description": "The stock market sell-off this past week cast a shadow over Anthropic's expected pre-Thanksgiving public debut."
+    },
+    {
+      "headline": "Global stocks steady after AI rout",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHEzQjNVM0hCVHUxV3NxbWpTSDFrQzZ2MkwwWW13Q0Vubm82dW1IU0wyT2xfMWpCa1VpcFNKQ3lGS3FnYjZmMHcyZG1kQjQtaDczbVZCSGItak53QklrVVZqOEVfQzRMY1Y2ak0tQnFOcW15dGgxdlZaR1R4UXdocl9nbWE?oc=5",
+      "pub_date": 1794216150.0,
+      "article_url": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "World markets bounce back after recovery for AI stocks on Wall Street",
+      "source": "The Boston Globe",
+      "source_url": "https://www.bostonglobe.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVVBdHUzc2ExajdCUlhNWXYwdnFfVlNENmUzOTJsendzR3JheVJKNkpKa29pMUd4bXdzcU52aEdvSll5T1hma092RHZiS3o1RFExV0hHZ1hKOXRBSmJFLWxIMTBXQlRzNmtOSHM0MnFXc3JfOFhrNXZ5WjM3MkJxTkx6SDF5dVZnYmFqcXh5TWwtSFpjbjRHSGlzMXJKT0NQNURMZ21naW8?oc=5",
+      "pub_date": 1794217415.0,
+      "article_url": "https://www.bostonglobe.com/2026/11/09/business/world-markets-bounce-back-recovery-ai-stocks-wall-street/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/J6SQI6SLOD5MJAXBB5LNUJV6UQ.jpg?auth=b8ff3025f852ed6971055572555e826bec8c7df1c591f85272ed6909a83f6207&width=1440",
+      "description": "Investors also are watching to see what the Democrats\u2019 sweeping victories will mean for markets and the broader economy."
+    },
+    {
+      "headline": "Futurum's Newman Believes AI Trade Isn't Over",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjlLNDdNOXZTeW50eEFwWnBUOHczMjNyRlE4Umpfby16YXlxX3Y1cXVmaVBhai16RWVGNUFZSmEzaHJ3ck5TYl9OU2lWcFZTclNTR2RKLVBJY2JON2pTMG95b3JsZjd3cmdHNVNqem9IVFBuVXczVnZETDNBRUd2XzhFNkl1Vnc?oc=5",
+      "pub_date": 1794201360.0,
+      "article_url": "https://finance.yahoo.com/video/futurums-newman-believes-ai-trade-051638116.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6150f2aa4133a947c554c8ff685a9a14970bea4895a45cda11c4d300cf156b3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_markets_video_2%2F060795016a32998b5eaced5a01b5129e.jpg",
+      "description": "The Futurum Group CEO Daniel Newman says the market is trading artificial intelligence, or AI, like it's over, but he doesn't think it is. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\""
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-09T02:25:25.543686+00:00"
+  "fetched_at": "2026-11-09T10:06:49.993009+00:00"
 }

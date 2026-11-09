@@ -25,6 +25,16 @@
       "description": null
     },
     {
+      "headline": "ETH news: Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlNQUEFhVmFUOU93ODJpVTYwTFBVY0tIM25zVjFDbVAycmRUSkdoYVpZRnZpSExqSS1DSG8wbWxfR1dxMTFENTlwQ2NoN2wzcW1JT0ZQbzNmT1VWU3c5WE1Uc291TU0xY0N4X0dzT2pXUTlTMHF4MlMyUEdySEhPdDRzSVdXT0RvU0x6R2RfSWNKd2hQLWhKcVJwTnFNcVliUjhhTkNoQ1VTMUhNc3M3U24wU2dJaVE?oc=5",
+      "pub_date": 1794201414.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Crypto foundation demanded employees endorse suicide pledge, then fired leaders who objected, Colorado lawsuit alleges",
       "source": "The Denver Post",
       "source_url": "https://www.denverpost.com",
@@ -35,24 +45,54 @@
       "description": "On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership\u2019s vision for the foundation for the next 1,000 years."
     },
     {
-      "headline": "$1B liquidated from crypto market as Bitcoin, Ethereum drop",
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Persists: Analyst Says BTC Needs to Hold This 'Pivotal' Area or Else...",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTk9QS25DallzSEtEUXNEcC1uWFNKdXVrVUw1Q3p0WDExUWEyRTNJVjN4Q0x4Zkd1LUhteEN2ZlBwUTNMRWc4d1Z4bDNpeTcwUjNBeWp5cVhXN1JjcGUtdTVkbmJKY0ZRejdqc0RxMXVubnlVWS1VZG1NYkh1U1FEM1dtTFVvZ3ZlWEpkT0dqcGxnekJwcnNNd0JCWHNvbjFBOWNwOW9NQUFpOWNDUXNXcHNuNUZzWWtWQnVFVVMtSQ?oc=5",
-      "pub_date": 1794175811.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:19cce9562094b:0-1b-liquidated-from-crypto-market-as-bitcoin-ethereum-drop/",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM1R3ZlBoSmpRMU1IdTF6Q3VicHdQdDJoUHRkQjQxWGt0ak1yMGRycTh3U2NVS1JTQkIzVld2YnF1X0c5Nlc3UFJ6Q2JEY2xrWjRKd0lqSXEyY0x2NGtLMXRXV3MxYW1zcURCdzFBS3g3dFBGZl9JczFUYkpOTXJBVUxBejlhUExwYVRVNThQa21LUG40TjlyRGVkNGNVRWRYcHJMZHBpcUxjZFItOE41NVBLbWhOSGtZdDVqb0JLSHkybGxraXVKUk83VFk2ZTFNZGZqNEFZbzFfaVRTRm9HQ19LXzFrZ0Z4ZC1ndXlBbFExRU5BWFEyc2hEeXU2NElUYXF1Skgta1Bidw?oc=5",
+      "pub_date": 1794189780.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:f6d547cdb094b:0-bitcoin-ethereum-xrp-dogecoin-slide-as-fear-sentiment-persists-analyst-says-btc-needs-to-hold-this-pivotal-area-or-else/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Crypto traders who bet on higher prices just had a very expensive couple of days.More than $1 billion in leveraged positions were liquidated as Bitcoin, Ethereum, XRP, and Solana all fell below key price levels. A widely shared market post put the wipeout at $1 billion in just 10 minutes. Broader d\u2026"
+      "description": "Leading cryptocurrencies fell sharply overnight on Sunday as investors awaited upcoming inflation reports for clues on the future path of monetary policy.Crypto Fails to ExciteBitcoin slipped below $74,000 late in the evening before recovering to the high $74,000s. Ethereum wiggled in the high $2,0\u2026"
+    },
+    {
+      "headline": "Wall Street Keeps Selling Ethereum, but Whales Are Buying In",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxZV0xmaFZVdk9nM0E3bGEtM1Btc3U5aDM3LUo1ZE1lRVJlVDVmT3ItcWZxNXBTY1NhUHRHaGRZa2FOTnFpWEt3Yl9BV1J4cHp6YzBfalY0MjhJSml2UXg4SEszRE1XQ0pKOFJ5Zm9pZW04RkNJaVB5cEJid01td3gzb2hxLXU1dEROR2hpOEZqR0ZTUktGRnZEVy0wenNs?oc=5",
+      "pub_date": 1794201360.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-keeps-selling-ethereum-051629684.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d2c4032da04b735ab7b809be315b83f340b59d9558ffc625b78ef1e7da65b652/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F9a93af0fd9452e9899dd40e1de10c76f.jpg",
+      "description": "Ethereum price fell 13.98% in a month as spot ETFs logged six weeks of outflows and a few whales bought the dip."
     },
     {
       "headline": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaGlONVQtQWJZS1U1RXJoQjlkSGVVcE5kZ0FhNzZRdER4N1A3c3hNZnpxaFRZbjhxb25GYURlUWlVWDdteUhYdGdYVlp3ZEdDN2dWMEhMaGhPRWpMbEI2QjVXMERkaDR4LU5kcEJBNWwwRmkzR2liZDRDS1g4UGFnNjVzYk1MZG9IRHR1U3JoQzNSLW15Y1F5Y2dvY3hydlpHYU1yYU9kTU9PUXRyMHQ5RDJueTVreEVjTWFGd3gzaHV0ajF0NDJuRVJ4ZzRqU1I0UjB6ZmJma3RMejQ?oc=5",
-      "pub_date": 1794153120.0,
+      "pub_date": 1794153420.0,
       "article_url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
       "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Vitalik-Amidst-Crimson-Geometric-Waves-unmarker.jpg",
       "description": "The Ethereum co-founder said the case for valuing ETH as a fee-burning token \"never was as strong as it seemed\" and that maximizing fees would force Ethereum to operate like a major corporation."
+    },
+    {
+      "headline": "Bitcoin Tumbles To US$73,708, Ethereum Hits US$2,223 As Regulatory Fears Rock Crypto Market",
+      "source": "BusinessToday Malaysia",
+      "source_url": "https://www.businesstoday.com.my",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOUdlOG43MWVJd0N0dUFXai1oZmpzYkN3b0loZGltVGhQMHFSOWVYRzJaSEVrODVIejl6dnIyYWY2b095UWVfQk54VF9FdGxZeldhT2xXTURwamF5cWVWT1hicW50NGI3c1FpbUZuMDktY0RDenRBa3BNMEpMd2NEX0lMdDYweWFoZ1VoVjRZdXBFajNTOEVmaTdrRlIzLTRvd1h3VURlMlpTTGpmWnBuRGhIX1hoNmJ4NnZCVk1Na0xuSjZfcGFCNlQwMA?oc=5",
+      "pub_date": 1794188669.0,
+      "article_url": "https://www.businesstoday.com.my/2026/11/09/bitcoin-tumbles-to-us73708-ethereum-hits-us2223-as-regulatory-fears-rock-crypto-market/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Crypto News Today: Saylor Hints at Bitcoin Buy as Buterin Questions Ethereum Burn Thesis, and Schwartz Downplays XRP Price Influence",
+      "source": "Brave New Coin",
+      "source_url": "https://bravenewcoin.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUWJZYWdQWTAzZkQ3M0JoY1p2RWxYSGIzRGRuWE0yVDlrWFdOcG9nZUF6LUZxT0V3QldVVWhDQmtHWkZyaUVjbWdmM2pSOUdCWHgzOUl6Y0g5NWJiNHl0aWdlUXo1M0RMeFJtTzdGU2xjc1RYcEpaeUJzd1dLSnN6SFJQS3NndVl3R2dYNmpielFhQUYxV3pvVFlmVkVueXYteGh6Z0hwMWZFZEhUTUd4eG5BdVpkSkNERzFSS09icXBUQWlnbER1N1RRYXpBVEk5emxDZ2U3NXhhTmhGRDd1TFVsRkRfbGtVTVBfaTNCTkhDTlZsa09v?oc=5",
+      "pub_date": 1794203887.0,
+      "article_url": "https://bravenewcoin.com/insights/crypto-news-today-saylor-hints-at-bitcoin-buy-as-buterin-questions-ethereum-burn-thesis-and-schwartz-downplays-xrp-price-influence",
+      "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/crypto-news-today-image3.jpg",
+      "description": "Three prominent crypto figures have drawn attention to separate market issues as fresh Bitcoin buying speculation, an Ethereum tokenomics debate, and XRP price criticism converge."
     },
     {
       "headline": "Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms",
@@ -63,48 +103,8 @@
       "article_url": "https://www.benzinga.com/crypto/26/11/63020476/bitcoin-ethereum-and-solana-etf-outflows-jump-as-key-fear-gauge-drops-after-midterms",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHhkenlzdGxoSnI0VTlBN3NqNG5DSDZiTWpUQjZ3LUZGNW5vQzRKbGFHN2ZHeXpZREpsc1RYcmdtNGdFakdCZ010NnF0X0wwVV9wLUhrOFhFVnhpME9HZ2FSRjFPLUtONW5YWmFuZFQyTjV3N2ladk9hZUdRdHYxZHJuajhtUnc2M1VRVnlveTAteXhWbVBKcDBrdzM2aGc?oc=5",
-      "pub_date": 1794065035.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-flashing-warning-sign-152355542.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/85cff829fbf1354b1c262145deeb48821c369e289a920695cd723be4926462a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F3e611b2b8b98a668579aba30b16996cf.png",
-      "description": "Crypto trader Ansem says intraday weakness in the Zcash price, where most unrealized profit sits, could signal the next move for Bitcoin."
-    },
-    {
-      "headline": "1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3dFTEZ2WEpTYmxHTkw4WjNmSVJJdXdiZkR2VVRlYnhsZkRpUXVaXzg1SERRcERORFNaZWFzZHQyNzI0R2d6c0NnRElXc1RDaGRmQkNQUjI5NnFobVY1MFBhMkptQ283S0l6OWJPYkwtYm5xU3JlRlg0MkkzOXpDMnNrWEdvOEJwSUtodmZBWkVLbnprRkhz?oc=5",
-      "pub_date": 1793981160.0,
-      "article_url": "https://www.fool.com/investing/2026/11/06/1-cryptocurrency-buy-soars-11000-bitmines-tom-lee/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893307%2Fa-person-analyzing-stock-charts-across-three-different-laptop-computers.jpg&w=1200&op=resize",
-      "description": "Lee thinks the Ether cryptocurrency is entering a new era, and it could create significant value for investors."
-    },
-    {
-      "headline": "Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW9RWUw3WWhrRDJRWk93eGVFZzRaTTlPTWdLdlA2S3hXeEZyOVBPMGhISlV5ZWFpZ2sxMXUyZzI2RGRUb3Z1Ukxmb0tGLWd2S2xGdEZmbDJhcU1RUlZFMjE0V1IxWkVfQU5TRHg3WW5ydGJVMGhBVVFPZkdSc0hoN2E5TkJLUXh2bWdNdGxuRi1YM000SDQwYUdIamZ2ZkZ3R0NBWm5HN0xGSkhPSEJISVIwS01OXzkt?oc=5",
-      "pub_date": 1794018395.0,
-      "article_url": "https://www.coindesk.com/video/robinhood-s-crypto-chain-out-earned-ethereum-in-network-revenue-last-quarter-exec-says",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Vitalik Buterin wants ETH to be a store of value, not a fee-burning token",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yMUtTSkJaaWlUYm9TVzBEOXM1RGx1NVdPa2FGWnFnZHQxeG0weUw0T1pjblpWNW1ucEtELVk3ZG1EMDNnV0VjZ3ZmazJUNkV3SkRYSWlDWWI0RkxjNnRoNFpta0c4dWJOcHFLVDVHMA?oc=5",
-      "pub_date": 1794142160.0,
-      "article_url": "https://cryptobriefing.com/vitalik-buterin-eth-store-of-value/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/08074911/library-vitalik-buterin-wants-eth-to-be-a-store-of-value-not-a-f-800x450.png",
-      "description": "Vitalik Buterin says Ethereum should prioritize ETH as a store of value over fee burning, warning aggressive burns could risk centralization."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-09T02:25:15.108457+00:00"
+  "fetched_at": "2026-11-09T10:06:45.522762+00:00"
 }

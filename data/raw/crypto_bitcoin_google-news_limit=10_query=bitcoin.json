@@ -15,54 +15,34 @@
       "description": null
     },
     {
-      "headline": "Bitcoin developer proposes \u2018landmines\u2019 to make quantum thieves lose their own BTC",
+      "headline": "Bitcoin's Blockchain Just Ran Backward in Time. Is Something Wrong?",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1neTR5MUE4SUd3NlVSaEJHRFdJdmNWQUl5c08wSlFoSkZILXpsWWI3Uk5rV09UeHRYS0dqNHZUa2J2UHZJdEwxNWh0NERPSGFVd29NVUpKN3RKdTRoNnpRNHYyYl96TzVQOGM0TkNB?oc=5",
+      "pub_date": 1794195564.0,
+      "article_url": "https://beincrypto.com/bitcoin-block-timestamps-run-backward/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin's drop and pop triggers $1 billion in liquidations",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVV5ZzZtc1hmWWFEMkpxNjBfc1lkV3JEV3FzLWtkbk1yek1UVmhVYXRmTmxhaEZlbDl0VVFOYm94LUN1Ykp6clRhaHNGbW4xS2VGaVhOZjlvZllRWU5qSGd6SkNuUnRyZm1kbjNEQmlJVUJWTGxUNUNiaEkxdXNwMDVucmlwcW5hUFh4LXF1a0xnWGFjX2pxZ1lNXzFGUjhnSjYwaV91QzFIMEhNeTNwVFZTUWx2bGFHWXRyYw?oc=5",
-      "pub_date": 1793928600.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1lCdHhqRkREYU9TTjQ2Zm1ENDd0T0Z2WHB3MW1RcmhocVdpQzc5WlhfUWdwX0xWWkdLM2t6SVg5VzZfQmd3STZZd1lsNjhjREYxZmpiMzJoaUxIZ19CNUJEZjFGajEyWF8xaVBocjlWa0pWdHdsY29ORTg5VWw0RDZoRHpIdWF1QmN1cGRyVzl4MW5EdFAxSFpJcFJXWTRYcGpEeURGbDFIQ2xublBPN3JidVF4U1A2T0JoWFZyUEQ5RkEtTmdhbEw4czhXY3A3?oc=5",
+      "pub_date": 1794194460.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
       "image": null,
       "description": null
     },
     {
-      "headline": "Cryptocurrencies slide to two-month lows after US midterms",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ19jb0ZtdjRvY1E4V0ltOHBXdkI0UXpfY3lNeFVhM0pxRUlUUmVhWVdRSW1Ec25SMnVvSXVxQ0hQcjJfamxSWWpRSVNoYnh4QUxaSHlHRExaWVBiNklkRUpvM1dMZENjS1RNRzJJUFNydjN2RVFpQkxfcGpSaGNUREEyX29scVBNTkoycjdRckk1ZFBIaTgybHh1NjU4eUxVUEE?oc=5",
-      "pub_date": 1794176820.0,
-      "article_url": "https://www.reuters.com/business/cryptocurrencies-slide-two-month-lows-after-us-midterms-2026-11-08/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "An Analyst Who Expects One More Big Drop Still Sees Bitcoin Reaching $2 Million. Can BTC Rise 26 Times From $75,000?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcmFCRW5UeV9KaGFWLWR4NlJybGE2WGxQZE9Idm5tazNmRWF6SDFCMEVyM1BJeW11SEpZczZjQVhZOU1DMTlpOHpLRDRJWl81bWVPZ05pQ2pKWTg5MkdHNnIxSlMwazVUNDlrMVFnbTZodkFURExrNURRZ3ZtMUpXQ3Jqdy01WndGaTdIUzg2OHdoaVZJYXdmSg?oc=5",
-      "pub_date": 1794178902.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/analyst-expects-one-more-big-230142327.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0add2cd50c8db044010478da315809e9e569b55b23a337e699dd882ad6971a8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F740197d842c18fd9c35b4884d4540dc0.jpg",
-      "description": "Beth Kindig warns another sharp selloff is coming, yet she still holds a seven-figure target for Bitcoin. The math behind that call hinges on one deadline, and ETF outflows and a rising dollar are already testing it."
-    },
-    {
-      "headline": "$1B liquidated from crypto market as Bitcoin, Ethereum drop",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTk9QS25DallzSEtEUXNEcC1uWFNKdXVrVUw1Q3p0WDExUWEyRTNJVjN4Q0x4Zkd1LUhteEN2ZlBwUTNMRWc4d1Z4bDNpeTcwUjNBeWp5cVhXN1JjcGUtdTVkbmJKY0ZRejdqc0RxMXVubnlVWS1VZG1NYkh1U1FEM1dtTFVvZ3ZlWEpkT0dqcGxnekJwcnNNd0JCWHNvbjFBOWNwOW9NQUFpOWNDUXNXcHNuNUZzWWtWQnVFVVMtSQ?oc=5",
-      "pub_date": 1794175811.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:19cce9562094b:0-1b-liquidated-from-crypto-market-as-bitcoin-ethereum-drop/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Crypto traders who bet on higher prices just had a very expensive couple of days.More than $1 billion in leveraged positions were liquidated as Bitcoin, Ethereum, XRP, and Solana all fell below key price levels. A widely shared market post put the wipeout at $1 billion in just 10 minutes. Broader d\u2026"
-    },
-    {
-      "headline": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORzZWNlIxdzZIdzJibzk3dHBhalE3b1VRU0p4aGZOTDA4eHA3RzlVMlAxM3QxQTlSSzN1ZFNhelZHWk5sMHU4d3R1RjhZUUxPZzRsNzg5YTNFX0VKT29ZaGdjLXd5T1pqVzZMYTdCMU16Y3RpbFVPbkxnQWxNZ0xMSWh1TFYxT0g4TC00NlROaW5rNTNIZGNhb2JMS1BJdGFVQ1E3d2tSUXhHZDdoeUFvaWVKRVo5TWZNczhrVE5MTldCU1RSNG5USTdVclZ4SFEt?oc=5",
-      "pub_date": 1794118213.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
-      "image": null,
-      "description": null
+      "headline": "These early investors rode Firmus from bitcoin to billion-dollar play",
+      "source": "AFR",
+      "source_url": "https://www.afr.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaTJaY3pqTG5nMDFTTXdNMWJUY29mUk1UOTk1cjB3V044cDNFLTNia3Nyb0NNQlQ3QmJ4RHBJblVPSFhLRVAtbU1IQWlEQVNrbmh1N2xkd2lTNGR1Rk9ncEVkV2gwaEhBbzlCNDBsU3RQWjNSaXpqQWFtNXgyWjBUdWI5MkE3X29WZkpMYUxwODhPR24wME1ZSmJCTXEwTTBQbWk3dndpa1NBVnJiNko3UWJKMlNsOFU?oc=5",
+      "pub_date": 1794160800.0,
+      "article_url": "https://www.afr.com/technology/these-early-investors-rode-firmus-from-bitcoin-to-billion-dollar-play-20261109-p61cc1",
+      "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/23ccfdff750856ae822e3d3872c6908beb1def56cc9857f10aff567d02709c4c",
+      "description": "A long-time banker, a former Victorian Liberal Party official and a low-profile lawyer were among the first to back the data centre hopeful \u2013 at a bargain price."
     },
     {
       "headline": "Bitcoin Trades $200 Above Strategy's Average Cost of $75,451. What Happens to MSTR if BTC Closes Below It?",
@@ -75,24 +55,34 @@
       "description": "Bitcoin trades just $211 above Strategy's $75,451 average cost. Here's what could happen to MSTR if Bitcoin closes below it."
     },
     {
-      "headline": "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0o0UmFFWlRiWDFHSE5LVG4zNUw1amJaM1c1czBrNG43OEJKS3RIcEpTaTAtRUdCcHNhNnZtY21RUlBpWFpyVXgyamxXT21kWWloamlrNndRZi1wemR5anJGand4cVVwOUoxNXowazl0R2pCNVQzM1JVbXNiNFVJMm5qbDllcEFKQWZ5VUxrMnVCNmZIOFZv?oc=5",
-      "pub_date": 1794054300.0,
-      "article_url": "https://www.fool.com/investing/2026/11/07/in-5-years-one-of-these-cryptocurrencies-could-be/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892899%2Fcrypto-bitcoin-up-and-down-arrows.jpg&w=1200&op=resize",
-      "description": "If Bitcoin hits one serious snag in particular, a few of its smaller competitors might have a shot at overcoming it."
+      "headline": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwQWg4c1pyeGJzTmdlR3dldnVGbEFtaTB0WFhHRngzd0daRVRFNDBleFJQcXRxU0p2Z3oyTWt1VUJqWExnWG15d3hWSldhaTlIUHZfZExneGplb2JqVlR6X21SY2ZVLTRxQTM2LWlZbjBEbThVaFI1SmYwZkg?oc=5",
+      "pub_date": 1794146463.0,
+      "article_url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg",
+      "description": "Bitcoin developer Cory Fields has an unusual idea for dealing with future quantum thieves: Make them risk their own Bitcoin."
     },
     {
-      "headline": "Bitcoin Faces CPI Test After AI Stock Sell-Off",
+      "headline": "AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXJIWXJpcDBqQ0tKY0pqQU9mQl9IUnpKa3VwcUFSaVBQb0hjalR5RmM0Z3pTMXpQRExDaDRDb1pkeHFUZGNGdXJ2emlOSFI1U0tMVDRjbkFFcXhWYUNLYmNZVDRMMGZZUXVyRGgxZ1ZqNHNmZUVucURLWlBpejRUUmUtUGZjNDE4OW1hUDhkSkZ1Q2s4?oc=5",
+      "pub_date": 1794069060.0,
+      "article_url": "https://www.fool.com/investing/2026/11/07/ai-stocks-are-falling-bitcoin-is-holding-ground/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893232%2Finvestor-ponders-phone-and-laptop-stock-charts.jpg&w=1200&op=resize",
+      "description": "Bitcoin's relative stability amid market turbulence portends well for its future."
+    },
+    {
+      "headline": "Crypto News Today: Saylor Hints at Bitcoin Buy as Buterin Questions Ethereum Burn Thesis, and Schwartz Downplays XRP Price Influence",
       "source": "Brave New Coin",
       "source_url": "https://bravenewcoin.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WQmFyUnhBVHZudFlVUWl2VG1sX2RjWkR4RTB4NVhWWElLUmFfSEpRWG5yMzhVTFg0R0llWjdWbzZ4dmdET25wbGVnX3ZkQWd3Y09jcjE1TmI4MzZaSXpLdVlxNUxITlJ5M2hPU0dQcTVpTXVIZk12VC1sOVQ5UQ?oc=5",
-      "pub_date": 1794176532.0,
-      "article_url": "https://bravenewcoin.com/insights/bitcoin-cpi-inflation-ai-stock-sell-off",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/bitcoin-cpi-featured-v2.jpg",
-      "description": "Bitcoin CPI preview: November 10 inflation data and CoreWeave earnings put interest rates and AI demand in focus after the tech sell-off."
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUWJZYWdQWTAzZkQ3M0JoY1p2RWxYSGIzRGRuWE0yVDlrWFdOcG9nZUF6LUZxT0V3QldVVWhDQmtHWkZyaUVjbWdmM2pSOUdCWHgzOUl6Y0g5NWJiNHl0aWdlUXo1M0RMeFJtTzdGU2xjc1RYcEpaeUJzd1dLSnN6SFJQS3NndVl3R2dYNmpielFhQUYxV3pvVFlmVkVueXYteGh6Z0hwMWZFZEhUTUd4eG5BdVpkSkNERzFSS09icXBUQWlnbER1N1RRYXpBVEk5emxDZ2U3NXhhTmhGRDd1TFVsRkRfbGtVTVBfaTNCTkhDTlZsa09v?oc=5",
+      "pub_date": 1794203887.0,
+      "article_url": "https://bravenewcoin.com/insights/crypto-news-today-saylor-hints-at-bitcoin-buy-as-buterin-questions-ethereum-burn-thesis-and-schwartz-downplays-xrp-price-influence",
+      "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/crypto-news-today-image3.jpg",
+      "description": "Three prominent crypto figures have drawn attention to separate market issues as fresh Bitcoin buying speculation, an Ethereum tokenomics debate, and XRP price criticism converge."
     },
     {
       "headline": "Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms",
@@ -103,8 +93,18 @@
       "article_url": "https://www.benzinga.com/crypto/26/11/63020476/bitcoin-ethereum-and-solana-etf-outflows-jump-as-key-fear-gauge-drops-after-midterms",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin Price Prediction: Why BTC Could Rally This Week as $70K Risk Persists",
+      "source": "CoinGape",
+      "source_url": "https://coingape.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzhweVZkUzRUTFNKTFhYdXFpMGctVXE5Vk5wb2s5R1VveGxRWTc5VzBpZjdTb05iY0VjcTNjZFBSZllQOGU0aGstdk5MLWZDMHhvZlUwNHVsN0pqa2luRFdLTU1TMzlkcGxoMkY3LXJZMlAxZjFxME04cDVaS25OTkJnN0s2cERuNGMzcHdJM0dvX1NvLU03S2FHek1VQTBGUURsWTcyYUk?oc=5",
+      "pub_date": 1794157770.0,
+      "article_url": "https://coingape.com/markets/bitcoin-price-prediction-why-btc-could-rally-this-week-as-70k-risk-persists/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-09T02:25:20.036402+00:00"
+  "fetched_at": "2026-11-09T10:06:49.994742+00:00"
 }

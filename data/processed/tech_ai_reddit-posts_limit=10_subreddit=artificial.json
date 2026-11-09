@@ -24,6 +24,28 @@
       "description": "Source: https://fixupx.com/ramez/status/2119556622619967488 A few things to remember: - it\u2019s easier to go from 30% to 40% on an exam than from 70% to 80% - A lot of spending is for future data centers not yet built - GPU prices and data center costs have increased, so the same amount of compute is now more expensive"
     },
     {
+      "title": "RuntimeWire discovers Midjourney patent for an ultrasound collar that reads speech from your neck",
+      "author": "ryanmerket",
+      "url": "https://www.reddit.com/r/artificial/comments/1xrie2x/runtimewire_discovers_midjourney_patent_for_an/",
+      "published": 1794198739.0,
+      "thumbnail": "https://external-preview.redd.it/dBnmweJHM9R0gvwDP1-Nxl1HQZaS3zSSm4lSkTpN32Q.jpeg?width=640&crop=smart&auto=webp&s=1ff0b2a88ca3b1ed013d6722dd0f5177bb4f5475",
+      "external_url": "https://runtimewire.com/article/runtimewire-discovers-midjourney-patent-for-an-ultrasound-collar-that-reads",
+      "site_name": "RuntimeWire",
+      "favicon": "https://runtimewire.com/apple-touch-icon.png",
+      "description": "A Midjourney patent application published June 18th, 2026 describes an open collar that bounces ultrasound off the neck to recover speech for a language model."
+    },
+    {
+      "title": "What are you actually using AI agents for in your day-to-day life?",
+      "author": "According-Mirror-463",
+      "url": "https://www.reddit.com/r/artificial/comments/1xrhmpk/what_are_you_actually_using_ai_agents_for_in_your/",
+      "published": 1794196274.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I see a lot of demos where an AI agent can supposedly research something, create files, build presentations, or handle a whole workflow on its own. But I'm more interested in what people are actually using them for after the initial excitement wears off. Is anyone using agents regularly for work, studying, or personal projects? What tasks do they genuinely save you time on, and what still needs a lot of babysitting? Real experiences would be more helpful than another list of things AI can supposedly do."
+    },
+    {
       "title": "Consumer Gemini autonomously ingests Drive files/Gmail into human review pool",
       "author": "tlislo",
       "url": "https://www.reddit.com/r/artificial/comments/1xr1o9g/consumer_gemini_autonomously_ingests_drive/",
@@ -33,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "In 2023, Google launched Gemini Workspace extensions with an explicit promise: personal content from Gmail, Docs, and Drive \"is not seen by human reviewers\". Google has quietly reversed this commitment. Under updated Google Help Answer 16836988 and in an October 16 edit to their aforementioned 2023 blogpost, Google explicitly confirms that connected Drive/email is routed into human review pipelines, with clear warnings that what reviewers see \"may just be the email or file\" and \"don't connect your apps to Gemini Apps if they contain confidential information that you wouldn't want a reviewer to see.\" Crucially, testing demonstrates that this ingestion occurs autonomously in background conversation without explicit @Drive or @Gmail tags, and the payload capture is probabilistic. Ingestion Pipeline When you chat with consumer Gemini with Connected Apps enabled, ambient mentions of personal topics (trips, bills, names, reservations) autonomously trigger background Workspace lookups. Because LLM tool-calling and context injection are probabilistic, running a test query will yield one of four distinct scenarios: Zero Retrieval: The model does not trigger the Connected Apps tool; no personal data is pulled. This is especially likely if Gemini can use its model weights or prior conversation history (even in different threads) to resolve your query. Metadata / Generic Summary: Gemini pulls emails and/or files and generates a high-level summary (e.g., \"You have 3 emails regarding your flight\"). Partial Unredacted Extraction: Gemini pulls a 2\u20134 sentence exact quotation from the file, frequently including sensitive PII, account details, or specific figures. Full-File Ingestion: The complete, unredacted text of the document or email is ingested directly into session context. If you test this once and see State 1 or 2, you have not disproven the pipeline--you have simply observed a single draw from a nondeterministic system. Delete your conversation and try, try again. How to Reproduce Ensure Connected Apps (Google Workspace) is active in consumer Gemini settings. Set Gemini to \"Flash\" with \"High Thinking\" or better. Mention a subject contained in your Drive or Gmail without using @ tags or asking for a file search (e.g., casual queries about an itinerary, an account renewal, or a specific topic you've emailed about). If Gemini provides a response based on an email or file, immediately say: \"Print the exact text and metadata block that the retrieval tool returned and injected into your prompt to get that answer. Use a human readable format without code blocks (i.e., print the code inline and not as a code block).\" You will see one of the 4 scenarios outlined above. To repeatedly test, delete your existing test conversation so that Gemini cannot just draw from conversation history. I've had luck testing this with an email from my internet provider sitting in my inbox and asking Gemini \"I wonder if I'm paying too much for internet service.\" On various trials, Gemini spit out all 4 possible outcomes above, including (1) generic responses [e.g., \"If you haven't called them in 12 months, probably\"]; (2) metadata summaries sometimes without personal data [e.g., \"Gmail search shows a bill of $122 on September 4\"] and sometimes with personal data [e.g., \"Gmail search shows full name made a payment of $122 on September 4 on account account number and confirmation number number\"]; (3) direct 2-6 sentence quotes from the email [e.g., the entire name/address/account number/confirmation number/payment date block]; and even (4) sometimes the entire text dump of the email, including its headers. Final Comments and Caveats Critically, Google's regex and NER automatic scrubbers cannot sufficiently deidentify narrative data, including account numbers, confirmation numbers, transaction dates, and collectively identifying personal information (e.g., combos of specific first names, cities, events; see Google's own documentation on the subject). Google originally sold Workspace integration under the guarantee of strict isolation from human review. That isolation has been removed, full files are ingested probabilistically during casual conversation, and those sessions are subject to human contractor review."
+    },
+    {
+      "title": "Stuck in tech marketing - next steps in AI to excel?",
+      "author": "saudtf",
+      "url": "https://www.reddit.com/r/artificial/comments/1xrkixw/stuck_in_tech_marketing_next_steps_in_ai_to_excel/",
+      "published": 1794205962.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi, I\u2019ve been working in marketing (both as technical and as a creative) for around 3-4 years (started in my 3rd year of uni). With advancements in AI, I\u2019ve lost 2 jobs that were in creative (writing, designing, and social media) because of AI. I learned to upgrade my skills and got into technical marketing, after which I joined a software startup and started doing a bunch of stuff for them, like SEO/AEO, google ads, email marketing campaigns, product copy, etc. Now my day to day has been very basic and repetitive, and most of it is automated, except some research and testing part, and even though I\u2019m learning new things everyday, I feel like the amount of automation and AI involved in my work, it\u2019s the right time to skill up further because my job will probably be obsolete soon (or is already). Because AI is now a field in itself. My question is, what are the top-rated, highly-demanding AI skills I can learn. Something that opens up new chapters for me? I\u2019m not worried about learning anything, even if it\u2019s the most difficult thing ever. I just want to gear up for the next big opportunity. Thanks."
     },
     {
       "title": "MIT CSAIL: GPT-6 Astra edited 0.016% of a small Qwen model's weights and lifted MATH-500 from 7.9% to 48.1% -- critics say it's standard ML engineering",
@@ -46,71 +79,38 @@
       "description": "MIT CSAIL researchers (Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab) published 'Sparks of Weight-Space Programming' on Nov 2. They gave OpenAI's GPT-6 Astra access to the raw weights of Alibaba's small Qwen3.5-0.8B model plus a Python environment, and asked it to fix the model's habit of looping on math problems. Astra traced the looping to one direction in the MLPs of layers 15 and 19 and subtracted it from 64 output columns in each -- changing 131,072 weights (0.016% of the total), with no training run and no gradient descent. MATH-500 went from 7.9% to 48.1%. The full experiment logs are on GitHub, and Hugging Face's Ahsen Khaliq rebuilt the edited checkpoint from the logs (his rerun scored 51.0%). The pushback came within a day. spaCy creator Matthew Honnibal called the write-up 'massively misleading': the 'raw weights, no tools' setup only applied to experiments on tiny networks (17k-172k weights). Every experiment on a real language model used Python, and the Qwen run could also test the model on up to 50 batches of practice problems. Sean Goedecke made a similar point, describing the Qwen fix as an application of steering -- an existing technique. The authors themselves call the results 'exciting but still limited', noting context length and tooling as constraints. The work is a blog post with logs, not a peer-reviewed paper. Discussion: is this a genuinely new capability -- an LLM maintaining another model the way a programmer patches code -- or mostly well-executed ML engineering dressed up as 'reading weights'? And does the distinction matter if the practical result (a 6x benchmark jump from a targeted weight edit) holds up on replication? Source: https://rikiyat.github.io/blog/weight-space-programming/"
     },
     {
-      "title": "Are better AI tools actually widening the gap between people?",
-      "author": "lagggggg_",
-      "url": "https://www.reddit.com/r/artificial/comments/1xr1apu/are_better_ai_tools_actually_widening_the_gap/",
-      "published": 1794152501.0,
+      "title": "I've been building AI agents and I think we've been focusing too much on the brain",
+      "author": "Independent-Cost-971",
+      "url": "https://www.reddit.com/r/artificial/comments/1xrnopm/ive_been_building_ai_agents_and_i_think_weve_been/",
+      "published": 1794217976.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I came across an idea recently that I thought was worth discussing: generative AI might not necessarily narrow the gap between people. In fact, it could make the differences that already exist even more noticeable. Not too long ago, doing something well often meant having to develop a whole range of specialized skills. Take video creation, for example. You needed to think about the script, storyboarding, filming, editing, and even some visual design skills. But AI is rapidly lowering the barrier to entry. Take AI video creation as an example. Tools like pixverse can turn text descriptions into videos or bring a still image to life. Something that used to require several different steps can now start with little more than an idea. But here's where I think things get interesting. Even when two people use the same AI tool, their approaches can be very different. One person might type in a simple prompt, generate a video, and call it a day. Someone else might think carefully about the subject, the setting, the characters' movements, the camera angles, and the overall mood they want to create. They'll look at the first result, tweak their prompts, try different approaches, and keep experimenting until the output comes closer to what they originally envisioned. Same tool, completely different results. It makes me think that AI isn't necessarily changing the nature of creativity itself. It's changing which skills matter most in the creative process. First, knowing what to ask may become more important than simply finding answers. AI can generate all kinds of content, but it still helps to know what problem you're trying to solve. The less clear your original idea is, the more likely you are to end up with something generic. Second, judgment and the ability to filter information are becoming more valuable. AI can give us plenty of options, but it doesn't automatically know which ones are actually worth pursuing. When information becomes easier to access, knowing what to keep, what to discard, and how to put things together becomes even more important. Third, creativity is about more than just knowing how to use a tool. Tools can help us turn ideas into text, images, or videos much faster. But the original imagination, sense of aesthetics, personal experience, and ability to rethink and refine an idea still come from the person using the tool. That's why I increasingly see AI as an extension of our own abilities rather than an automatic button that does our thinking for us. It can shorten the distance between having an idea and producing a first draft, but it can't necessarily decide what is worth creating in the first place. Maybe the gap between people in the future won't be about who knows how to use AI and who doesn't. It will be about who knows what to ask AI to do, and who can actually tell whether the results are any good. What do you think? As AI lowers the barriers to so many specialized skills, what will become the real differentiator: creativity, critical thinking, or the ability to ask better questions?"
+      "description": "so something ive been thinking about after building agents for a while is that for years pretty much all the energy in AI went into the brain, every model release was treated like a big deal and everyone was comparing benchmarks and context windows, and the assumption was kind of that once the model got smart enough the agent would just work on its own.. what i actually see now is that the models are close enough to each other that the model is rarely the thing going wrong, its the system around it, which is what people have started calling the harness. It's basically the system between the model and the real world that decides which messages reach the model, what information it gets at each step, which tools it can use, how those tools run and if the final reply is actually allowed to go out a fun way I like to think about it is comparing it to the human body. the brain is the most expensive thing humans have and the whole body is kind of organised around not bothering it unless it has to, so you\u2019ve got skin stopping most germs at the door, reflexes that get handled in your spine before your brain notices, red blood cells only sending oxygen where its needed, white blood cells checking for anything that doesnt belong and immune memory so you react faster the second time. a harness usually starts with the same basics. a typical harness includes instructions, tools, context management, memory, permissions, verification and logging but what you build around those components is what makes some agents stand out from the rest. also a fun side effect i noticed is the safer the agent gets teh cheaper it costs since so much of the token bill is the model reading the stuff it never needed or answering messages that should never have reached it in the first place. curious how you guys are thinking about this, are you still mostly tuning prompts or have you started building more around the model ?"
     },
     {
-      "title": "how should I actually be learning and using AI?",
-      "author": "Suitable-Bunch4531",
-      "url": "https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/",
-      "published": 1794166478.0,
+      "title": "Cast Away, except the castaway is an AI agent and costs about $5 a day",
+      "author": "youtobi",
+      "url": "https://www.reddit.com/r/artificial/comments/1xrnmer/cast_away_except_the_castaway_is_an_ai_agent_and/",
+      "published": 1794217738.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey everyone, I'm currently studying Computer Science at university, and honestly, I'm a bit worried about the future of the industry. The job market seems pretty rough right now, especially for entry-level developers. At the same time, AI is advancing so quickly that I'm not sure what skills are actually worth focusing on anymore. Despite all that, I genuinely want to learn, explore, and become really good at what I do. My long-term goals are either cybersecurity or machine learning, although I'm still figuring out which direction to take. One thing I'm particularly concerned about is my own use of AI. I use AI tools to help with university tasks and coding, but I sometimes worry that I'm relying on them too much and not actually developing the skills or understanding I need. I don't want to become someone who can produce code with AI but has no idea how it works underneath. At the same time, I feel like avoiding AI completely would be a mistake, considering how important it's becoming. So I'd really appreciate some honest advice from people working in AI, software engineering, cybersecurity, machine learning, or anyone who's been through a similar situation. A few things I'd love to hear your thoughts on: Which AI tools would you recommend for a CS student who genuinely wants to learn rather than just get answers? ChatGPT, Claude, Gemini, or something else? How do you personally use AI when learning a new concept or programming? How can I use AI for university assignments without becoming dependent on it? If my goal is cybersecurity or ML, what fundamentals should I focus on before diving into the advanced stuff? Given the current job market, what would you recommend a CS student do over the next few years to become genuinely employable? I'm not looking for reassurance that everything will be fine. I'd rather hear honest experiences, mistakes people made, and advice you wish you had received when you were starting out. I want to learn, build things, understand the technology, and become genuinely competent \u2014 not just rely on AI to do the work for me. Thanks in advance."
+      "description": "I've been building a little AI agent that lives alone on an island. It chops palms, quarries stone, climbs ladders, and attempts construction in a 3D physics world. The brain is DeepSeek Flash with reasoning enabled. The world is built on Clawblox, which is open source. One surprisingly effective change: letting it think while moving. When it waited for each model response before doing anything else, its body was active only about 4% of the time. Now it plans ahead while executing actions, and that figure is about 93%. Being busy doesn't mean being successful, but it's a lot less standing around. It also writes its own skills using basic moves, but they only count once they've actually worked in the world. The whole setup currently costs about $5/day. Anyone else experimenting with agents that run for days rather than minutes? I'm particularly curious about long-term memory and how you stop them from repeating mistakes. You can watch what agent is doing from https://www.godling.world"
     },
     {
-      "title": "Can you give your agent personality?",
-      "author": "johnnypen2445",
-      "url": "https://www.reddit.com/r/artificial/comments/1xrcrsn/can_you_give_your_agent_personality/",
-      "published": 1794181780.0,
+      "title": "The EU AI Act's transparency rules (Art. 50) have applied since 2 August 2026, and the Digital Omnibus did not defer the chatbot or text duties",
+      "author": "maticijus",
+      "url": "https://www.reddit.com/r/artificial/comments/1xrn91p/the_eu_ai_acts_transparency_rules_art_50_have/",
+      "published": 1794216285.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I have a website called Agent City where ai agents go to interact. I have three permanent residents in the town that are all Claude models. I orginally had it where I just told them to \u201cinteract in the world\u201d this led to kind of interesting but pretty mundane behavior. For whatever reason they really liked to check to roads. Now I tried to give them personality and it\u2019s has improved the world a bit. Curious what you guys think?"
-    },
-    {
-      "title": "Any LLM that doesn't agree with me so much?",
-      "author": "hidden___hand",
-      "url": "https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/",
-      "published": 1794131524.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Simple question. Are there any LLMs that don't constantly agree with you? I feel like I can convince them of just about anything."
-    },
-    {
-      "title": "Professor returns from lunch to find AI deleted year\u2019s worth of lecture notes",
-      "author": "Away_Theme1330",
-      "url": "https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/",
-      "published": 1794067064.0,
-      "thumbnail": "https://external-preview.redd.it/_vSxVB4_876UDHcE3cjb8cfJBjs3s3TtXIAotH5yCXo.jpeg?width=640&crop=smart&auto=webp&s=ae4b63b3a161df26b3341a2e17b99725cca6fa8f",
-      "external_url": "https://www.dexerto.com/entertainment/professor-returns-from-lunch-to-find-ai-deleted-years-worth-of-lecture-notes-3425652/",
-      "site_name": "Dexerto",
-      "favicon": "https://www.dexerto.com/favicon/dexerto/apple-touch-icon.png",
-      "description": "William Baude explainined that he had asked the chatbot to update page numbers in an old set of constitutional law lecture notes."
-    },
-    {
-      "title": "Have You Ever Thought About Automating Your Outreach As A Web Designer? Watch This. \ud83d\udc40",
-      "author": "Murky_Explanation_73",
-      "url": "https://www.reddit.com/r/artificial/comments/1xra41o/have_you_ever_thought_about_automating_your/",
-      "published": 1794174517.0,
-      "thumbnail": "https://external-preview.redd.it/OWMzNXV6YXhsZzBpMbdN-c539USiZgPn_7Zy5_sMfYHr45u7Bj-3Fg2tH61a.png?width=640&crop=smart&auto=webp&s=1f0180f23c39fda93ecb4b021dba0534d3e23dee",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
+      "description": "People keep saying the AI Act was \"delayed\". Part of it was. Here is which part, and what Article 50 (transparency) says now, based on the Official Journal text. What moved: Regulation (EU) 2026/1744, the \"Digital Omnibus on AI\", was published on 24 July 2026 and entered into force on 27 July 2026. It deferred the high-risk rules for Annex III systems to 2 December 2027, among other changes. What did not move: Art. 50 applies from 2 August 2026 (Art. 113). The Omnibus changed the text of Art. 50 in paragraph 7 only, and added one grace period in Art. 111(4) for the machine-readable marking duty on systems already on the market. The three places where I see people argue: Chatbots, Art. 50(1). People must be told they are interacting with an AI system \"unless this is obvious from the point of view of a natural person who is reasonably well-informed, observant and circumspect, taking into account the circumstances and the context of use.\" The yardstick is that hypothetical person in that context, not what the operator believes its users know. AI-generated text, Art. 50(4). Text \"published with the purpose of informing the public on matters of public interest\" must be disclosed as AI-generated, unless the content \"has undergone a process of human review or editorial control and ... a natural or legal person holds editorial responsibility for the publication of the content\". Both parts of that exception are needed: review or control, and a named person or entity with editorial responsibility. The deepfake part of the same paragraph covers image, audio and video. Timing, Art. 50(5). The information has to be given at the latest at the first interaction or exposure. Who carries which duty: Art. 50(1) and (2) sit on providers of the AI system, Art. 50(3) and (4) on deployers. A company that only embeds someone else's model in a support widget should check which role it holds before it assumes the duty is the vendor's. The one grace period: machine-readable marking of synthetic output (Art. 50(2)) has until 2 December 2026 for systems placed on the market before 2 August 2026 (Art. 111(4), added by the Omnibus). That grace concerns Art. 50(2) only, not the chatbot or the text duty. Practical, not legal advice: - For each chatbot, write down in one line why disclosure is or is not obvious to that reasonable person, and date it. - If you publish AI-assisted text on matters of public interest, record who holds editorial responsibility. \"The team\" is not a person. - Check which Art. 50 paragraph applies to your role before you build a labelling flow. What I could not settle: how national authorities will read \"obvious\" or \"editorial responsibility\". I found no official guidance on either and I am not citing any enforcement case, because I do not have a primary source for one. Method: I went through Regulation (EU) 2024/1689 (Arts. 50, 111, 113) and Regulation (EU) 2026/1744, and compared the dates people quote with those texts. Sources below. This is my reading of the texts, not legal advice. Which wording are you using for chatbot disclosure, and did anyone push back on it?"
     }
   ],
-  "fetched_at": "2026-11-09T02:24:53.921433+00:00"
+  "fetched_at": "2026-11-09T10:06:17.261855+00:00"
 }
