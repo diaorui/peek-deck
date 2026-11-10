@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "Show HN: Bitcoin-rs \u2013 An independent Bitcoin full node in Rust",
-      "url": "https://github.com/gosuda/bitcoin-rs",
-      "hn_url": "https://news.ycombinator.com/item?id=50348456",
-      "author": "dreamcacao02183",
-      "points": 10,
-      "num_comments": 0,
-      "created_at": "2026-11-03T05:31:21Z",
-      "object_id": "50348456",
-      "image": "https://opengraph.githubassets.com/fc4815ebd763c10e4705e889fd6704fdd1979eadb1db7c88c54b2c1740636271/gosuda/bitcoin-rs",
-      "description": "Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs development by creating an account on GitHub.",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers",
       "url": "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly",
       "hn_url": "https://news.ycombinator.com/item?id=50357834",
@@ -101,23 +87,9 @@
       "description": null,
       "favicon": null,
       "site_name": null
-    },
-    {
-      "title": "Discord is ditching Electron and its new app uses less RAM",
-      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "hn_url": "https://news.ycombinator.com/item?id=50378625",
-      "author": "archb",
-      "points": 495,
-      "num_comments": 438,
-      "created_at": "2026-11-05T13:05:28Z",
-      "object_id": "50378625",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Discord is moving its apps fully over to the Rust programming language.",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "site_name": "The Verge"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-11-10T03:21:03.396532+00:00"
+  "fetched_at": "2026-11-10T11:32:38.418908+00:00"
 }

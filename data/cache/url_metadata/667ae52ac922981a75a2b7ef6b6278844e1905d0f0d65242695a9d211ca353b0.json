@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-10T11:33:09.560329+00:00",
+  "data": {
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "description": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for \u201call the software of the world.\u201d",
+    "image": "https://media.wired.com/photos/6af23a5e398c3a1348a23455/191:100/w_1280,c_limit/Security_A%20New%20AI%20Tool%20From%20Google%20DeepMind%20Formally%20Verified%20the%20Signal%20Protocol_v1.jpg",
+    "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+    "site_name": "WIRED",
+    "author": "Lily Hay Newman",
+    "keywords": "signal,google,deepmind,agentic ai,artificial intelligence,cryptography,encryption,end-to-end encryption,math"
+  }
+}

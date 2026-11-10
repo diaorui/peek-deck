@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-10T11:33:02.065658+00:00",
+  "data": {
+    "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+    "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+    "description": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas.",
+    "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/wheeled-atlas-humanoid.jpg",
+    "favicon": "https://www.therobotreport.com/wp-content/uploads/2017/08/cropped-robot-report-site-180x180.png",
+    "site_name": "The Robot Report",
+    "author": "Mike Oitzman",
+    "keywords": null
+  }
+}

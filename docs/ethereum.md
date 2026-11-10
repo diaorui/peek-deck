@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-10T03:21:42.790624+00:00'
+updated: '2026-11-10T11:33:13.383021+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 10, 2026 at 03:21 UTC  
+**Last Updated:** November 10, 2026 at 11:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -12.5%  
-**30d:** -13.2%  
-**90d:** +12.5%  
-**1y:** -37.8%  
+**24h:** -1.4%  
+**7d:** -13.8%  
+**30d:** -14.5%  
+**90d:** +10.9%  
+**1y:** -38.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.16B
+**Market Cap:** $255.63B
 Rank #2
 
-**Circulating Supply:** 122,203,847 ETH
+**Circulating Supply:** 122,206,811 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.1%
+-57.7%
 
 **All-Time Low:** $0.43
-+489683.6%
++483006.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam, the next update for Ethereum, is currently being tested on testnets. During these tests Chainsecurity has found a few projects that would be...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038) • 3d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038) • 4d ago
 
 ---
 
@@ -110,7 +110,7 @@ Glamsterdam, the next update for Ethereum, is currently being tested on testnets
 
 I have been in crypto for the last 7 to 8 years, and over time, maybe with age, I am becoming more conservative regarding holding coins. Since hacks in crypto never stop and keep getting bigger, I am on the verge of thinking whether staking ETH is worth taking smart contract risks. No staking platform is risk free, and the safest way to keep ETH is simply holding it in cold storage without staking it anywhere. My questions to the community: What do you think about this, and what is your current strategy? Do you stake your ETH? If yes, what percentage of your holdings? Do you consider the smart contract risk low enough to justify the yield?
 
-3d ago
+4d ago
 
 ---
 
@@ -126,7 +126,7 @@ Post quantum & post AI transition targeting December 2028, Amundi tokenized equi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -148,25 +148,57 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum](https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909)**
+
+Raycash says it has more than 75,000 people on its waitlist and is offering USDC payments and yield through Morpho.
+
+The Block • 1d ago
+
+---
+
 **[Cryptocurrency lawsuit: Ethereum Foundation required suicide pledge](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)**
 
 On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership’s vision for the foundation for the next 1,000 years.
 
-The Denver Post • 3d ago
+The Denver Post • 4d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-whipsaw-nvidia-102912603.html)**
+**[An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes](https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes)**
 
-More than $1.14 billion in leveraged crypto positions were liquidated in the last 24 hours, with long positions accounting for about 90% of the total.
-
-Yahoo Finance • 16h ago
+CoinDesk • 4h ago
 
 ---
 
-**[ETH news: Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts](https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts)**
+**[Ethereum Foundation, Vitalik Buterin sued over firing after 'suicide pledge' dispute](https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739)**
 
-CoinDesk • 22h ago
+The complaint challenges Fulton’s dismissal and quotes a recorded Buterin conversation about handling internal dissent.
+
+The Block • 17h ago
+
+---
+
+**[Vitalik Buterin Sued in Ethereum ‘Suicide Pledge' Row](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-sued-ethereum-suicide-204108478.html)**
+
+Vitalik Buterin faces a US lawsuit alleging the Ethereum Foundation fired a cancer patient who led a staff revolt.
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact — non-profit crypto firm demanded employees pledge to take their own lives with a sword to protect open-source code, founder Vitalik Buterin claims bizarre 1,000-](https://www.tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork)**
+
+A former employee of The Ethereum Foundation is suing the nonprofit after being fired for refusing to sign its 'Source Seppuku License.'
+
+Tom's Hardware • 16h ago
+
+---
+
+**[Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-just-hit-lowest-170115996.html)**
+
+A liquidation cascade just wiped out billions in leveraged bets, and Ethereum has already cracked a level Bitcoin is still defending. Analysts are now arguing over which line decides whether the sell-off ends or the real damage begins.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -174,53 +206,23 @@ CoinDesk • 22h ago
 
 Tom Lee's Bitmine Immersion Technologies extended its weekly Ethereum buying streak, adding 9,587 ETH worth roughly $20 million.
 
-Decrypt • 10h ago
+Decrypt • 18h ago
 
 ---
 
-**[Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum](https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909)**
+**[Digital Asset Treasury Firms Continue to Buy Bitcoin and Ethereum. That's Why I'm Bullish on These Two Cryptocurrencies.](https://www.fool.com/investing/2026/11/09/digital-asset-treasury-firms-continue-to-buy-bitco/)**
 
-Raycash says it has more than 75,000 people on its waitlist and is offering USDC payments and yield through Morpho.
+These big buyers have slowed their purchases, but they haven't stopped.
 
-The Block • 18h ago
-
----
-
-**[Current price of Ethereum for November 9, 2026](https://fortune.com/article/price-of-ethereum-11-09-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 14h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Crypto Market Today, Nov. 9: Bitcoin and Ethereum Lag as Nasdaq Surges Nearly 3%](https://www.fool.com/coverage/stock-market-today/2026/11/09/crypto-market-today-nov-9-bitcoin-and-ethereum-lag-as-nasdaq-surges-nearly-3/)**
+**[Amundi puts European stocks on Ethereum, but access terms stay hidden](https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/)**
 
-Stocks staged a powerful recovery on Monday, but cryptocurrencies failed to follow as persistent ETF outflows and weakening investor confidence cast doubt on across the asset class.
+Amundi issued a tokenized share class of its Europe 600 index fund on Ethereum, with CACEIS providing the infrastructure.
 
-The Motley Fool • 5h ago
-
----
-
-**[Ethereum loses 2024 gains – Is Vitalik Buterin rethinking ETH’s long-term value?](https://ambcrypto.com/ethereum-loses-2024-gains-is-vitalik-buterin-rethinking-eths-long-term-value/)**
-
-Ethereum’s store-of-value narrative gains traction as Vitalik Buterin signals a potential shift in ETH’s long-term investment case
-
-AMBCrypto • 8h ago
-
----
-
-**[Bitcoin tests support as Ethereum shows relative strength](https://www.kitco.com/opinion/2026-11-09/bitcoin-tests-support-ethereum-shows-relative-strength)**
-
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
-
-Kitco • 7h ago
-
----
-
-**[Bitcoin Tumbles To US$73,708, Ethereum Hits US$2,223 As Regulatory Fears Rock Crypto Market](https://www.businesstoday.com.my/2026/11/09/bitcoin-tumbles-to-us73708-ethereum-hits-us2223-as-regulatory-fears-rock-crypto-market/)**
-
-BusinessToday Malaysia • 1d ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -228,13 +230,13 @@ BusinessToday Malaysia • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[“It Started” Tom Lee Reveals The $50,000 Ethereum Endgame](https://www.youtube.com/watch?v=lQPebhVEMlc)**
+**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=ftceDWupgqw)**
 
-CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Altcoin Daily
+📺 Crypto Nutshell
 
-👁️ 115K • 👍 2K • 💬 231 • ⏱️ 28:10 • 2d ago
+👁️ 4K • 👍 92 • 💬 34 • ⏱️ 22:13 • 7h ago
 
 ---
 
@@ -244,7 +246,7 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 15 • 💬 9 • ⏱️ 3:30 • 15h ago
+👁️ 2K • 👍 17 • 💬 9 • ⏱️ 3:30 • 23h ago
 
 ---
 
@@ -254,17 +256,27 @@ BMNR HOLDERS: ETH JUST CHANGED FOREVER! Earn on Crypto & Stocks with MaxFi: http
 
 📺 Big Time Trades
 
-👁️ 569 • 👍 47 • 💬 5 • ⏱️ 26:54 • 3h ago
+👁️ 2K • 👍 67 • 💬 12 • ⏱️ 26:54 • 11h ago
 
 ---
 
-**[📢 ETHEREUM:  FOMO or Wait?! [strategy, and analysis]👀 Buy ETH now?](https://www.youtube.com/watch?v=Cg-x_dxlF2g)**
+**[Ethereum Hit Its Target Zone. CPI Could Decide Everything](https://www.youtube.com/watch?v=4KMZJhGv6L4)**
 
-ETH price update: Looking for good crypto trading opportunities? ⭐️Deep dives playlist: ...
+We analyse Ethereum on 9 November 2026 using Elliott Wave, with the target zone at $1832 to $2069 as the area where this ...
 
-📺 BTDcrypto
+📺 More Crypto Online
 
-👁️ 52 • 👍 4 • ⏱️ 14:49 • 6h ago
+👁️ 5K • 👍 180 • 💬 6 • ⏱️ 6:36 • 9h ago
+
+---
+
+**[Tom Lee: Ethereum Will FLIP Bitcoin?](https://www.youtube.com/watch?v=T_5kfzBLd0U)**
+
+CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
+
+📺 Altcoin Daily
+
+👁️ 10K • 👍 214 • 💬 15 • ⏱️ 1:03 • 17h ago
 
 ---
 
@@ -274,7 +286,17 @@ Is This the Crypto Bottom? Ethereum Just Changed Everything! iTrustCapital (Part
 
 📺 CryptoWendyO
 
-👁️ 11K • 👍 339 • 💬 59 • ⏱️ 23:10 • 1d ago
+👁️ 11K • 👍 340 • 💬 59 • ⏱️ 23:10 • 1d ago
+
+---
+
+**[“It Started” Tom Lee Reveals The $50,000 Ethereum Endgame](https://www.youtube.com/watch?v=lQPebhVEMlc)**
+
+CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
+
+📺 Altcoin Daily
+
+👁️ 118K • 👍 2K • 💬 232 • ⏱️ 28:10 • 2d ago
 
 ---
 
@@ -284,47 +306,27 @@ The New York Stock Exchange is turning to Avalanche to help power its push into 
 
 📺 Coinage
 
-👁️ 616 • 👍 8 • 💬 24 • ⏱️ 13:00 • 8h ago
+👁️ 929 • 👍 10 • 💬 24 • ⏱️ 13:00 • 17h ago
 
 ---
 
-**[Cathie Wood :&quot;Don&#39;t SELL Before These EXACT Dates&quot; (2026 Bitcoin &amp; Ethereum Prediction)](https://www.youtube.com/watch?v=jMIZ6-o6zH8)**
+**[Ethereum Analysis Today: Buy or Sell ETH? Key Levels &amp; Next Move | KSA Trades](https://www.youtube.com/watch?v=5lpaOhoo43Q)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Should you buy or sell Ethereum right now? In this Ethereum analysis today, I explain the current ETH market structure, important ...
 
-📺 Crypto Nutshell
+📺 Trade With KSA
 
-👁️ 2K • 👍 42 • 💬 31 • ⏱️ 23:34 • 11h ago
-
----
-
-**[ETH Ethereum Price Prediction: 9th of November](https://www.youtube.com/watch?v=39twfmxa1U4)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 240 • 👍 8 • 💬 1 • ⏱️ 8:35 • 11h ago
+👁️ 114 • 👍 35 • 💬 6 • ⏱️ 2:36 • 1h ago
 
 ---
 
-**[You&#39;re Not Ready For ETH&#39;s Come Back](https://www.youtube.com/watch?v=x1EFpB251gE)**
+**[Crypto: Ethereum is officially a corporate suicide cult](https://www.youtube.com/watch?v=lJSiilcSjpY)**
 
-Ethereum could move before Bitcoin and lead the altcoin market out of this pullback. That's my thesis in this Sunday deep dive, ...
+Now with Nazis! by Amy Castor and David Gerard ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 Pivot to AI
 
-👁️ 11K • 👍 394 • 💬 64 • ⏱️ 10:11 • 2d ago
-
----
-
-**[I Built a Live Trading Bot with Claude Code AI (Ethereum AI Trading)](https://www.youtube.com/watch?v=1hoICfzfZoE)**
-
-Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:37 - Setup Guide and Platform 01:16 - Compile and ...
-
-📺 Thomas Sutton
-
-👁️ 10K • 👍 86 • 💬 81 • ⏱️ 5:59 • 2d ago
+👁️ 10K • 👍 881 • 💬 197 • ⏱️ 11:26 • 11h ago
 
 ---
 

@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 163,
+      "upvotes": 164,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 121527,
+      "github_stars": 121707,
       "project_page": null
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2610.22732",
       "arxiv_url": "https://arxiv.org/abs/2610.22732",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22732.png",
-      "upvotes": 14,
+      "upvotes": 15,
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2508.19205",
       "arxiv_url": "https://arxiv.org/abs/2508.19205",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.19205.png",
-      "upvotes": 184,
+      "upvotes": 185,
       "num_comments": 10,
       "published_at": "2025-08-26T13:09:12.000Z",
       "github_repo": "https://github.com/microsoft/VibeVoice",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2508.02739",
       "arxiv_url": "https://arxiv.org/abs/2508.02739",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png",
-      "upvotes": 64,
+      "upvotes": 65,
       "num_comments": 5,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
@@ -96,25 +96,6 @@
       "project_page": "https://harness2.github.io/"
     },
     {
-      "id": "2611.08264",
-      "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
-      "authors": "Hao Yu, Zhenwei Wang, Yongzhen Hu et al. (10 authors)",
-      "organization_name": "zju",
-      "organization_fullname": "Zhejiang University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
-      "summary": "We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of the reconstructed geometry, while the spacing between neighboring Gaussian centers can still vary substantially across scene scales and camera configurations. This mismatch induces systematic shifts in Gaussian-scale targets, leading to ambiguous supervision. To address this, we propose SplatAnything with Gaussian Spacing Normalization (GSNorm), which canonicalizes a robust scene-level statistic of Gaussian spacing to provide a more consistent spatial reference for Gaussian prediction. To rigorously assess our method, we further establish a systematic benchmark spanning diverse datasets, input sparsity levels, and challenging extrapolated viewpoints. Extensive experiments demonstrate that SplatAnything achieves state-of-the-art performance, with particularly strong gains under substantial variations in scene scale and viewpoint.",
-      "ai_summary": "SplatAnything applies Gaussian Spacing Normalization to canonicalize scene-level Gaussian spacing, yielding more consistent supervision and improved feed-forward 3D Gaussian Splatting under varying scene scales and viewpoints.",
-      "hf_url": "https://huggingface.co/papers/2611.08264",
-      "arxiv_url": "https://arxiv.org/abs/2611.08264",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.08264.png",
-      "upvotes": 64,
-      "num_comments": 2,
-      "published_at": "2026-11-05T11:37:29.000Z",
-      "github_repo": "https://github.com/zju3dv/SplatAnything",
-      "github_stars": 88,
-      "project_page": "https://zju3dv.github.io/SplatAnything/"
-    },
-    {
       "id": "2608.16157",
       "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
       "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
@@ -130,7 +111,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 16906,
+      "github_stars": 16948,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -151,6 +132,25 @@
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
       "github_stars": 31045,
       "project_page": null
+    },
+    {
+      "id": "2611.08264",
+      "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+      "authors": "Hao Yu, Zhenwei Wang, Yongzhen Hu et al. (10 authors)",
+      "organization_name": "zju",
+      "organization_fullname": "Zhejiang University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5e1058e9fcf41d740b69966d/7G1xjlxwCdMEmKcxNR0n5.png",
+      "summary": "We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of the reconstructed geometry, while the spacing between neighboring Gaussian centers can still vary substantially across scene scales and camera configurations. This mismatch induces systematic shifts in Gaussian-scale targets, leading to ambiguous supervision. To address this, we propose SplatAnything with Gaussian Spacing Normalization (GSNorm), which canonicalizes a robust scene-level statistic of Gaussian spacing to provide a more consistent spatial reference for Gaussian prediction. To rigorously assess our method, we further establish a systematic benchmark spanning diverse datasets, input sparsity levels, and challenging extrapolated viewpoints. Extensive experiments demonstrate that SplatAnything achieves state-of-the-art performance, with particularly strong gains under substantial variations in scene scale and viewpoint.",
+      "ai_summary": "SplatAnything applies Gaussian Spacing Normalization to canonicalize scene-level Gaussian spacing, yielding more consistent supervision and improved feed-forward 3D Gaussian Splatting under varying scene scales and viewpoints.",
+      "hf_url": "https://huggingface.co/papers/2611.08264",
+      "arxiv_url": "https://arxiv.org/abs/2611.08264",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.08264.png",
+      "upvotes": 67,
+      "num_comments": 2,
+      "published_at": "2026-11-05T11:37:29.000Z",
+      "github_repo": "https://github.com/zju3dv/SplatAnything",
+      "github_stars": 116,
+      "project_page": "https://zju3dv.github.io/SplatAnything/"
     },
     {
       "id": "2309.06180",
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 93051,
+      "github_stars": 93094,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-10T03:21:12.863119+00:00"
+  "fetched_at": "2026-11-10T11:32:47.455569+00:00"
 }
