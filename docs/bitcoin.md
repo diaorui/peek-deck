@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-10T11:33:13.376896+00:00'
+updated: '2026-11-10T19:25:03.178211+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 10, 2026 at 11:33 UTC  
+**Last Updated:** November 10, 2026 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,395.33
+### $73,309.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -7.9%  
-**30d:** -9.5%  
-**90d:** +16.8%  
-**1y:** -28.2%  
+**24h:** -2.0%  
+**7d:** -8.8%  
+**30d:** -10.4%  
+**90d:** +15.6%  
+**1y:** -28.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1493.05B
+**Market Cap:** $1474.56B
 Rank #1
 
-**Circulating Supply:** 20,110,225 BTC
+**Circulating Supply:** 20,110,356 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--41.1%
+-41.9%
 
 **All-Time Low:** $67.81
-+109386.8%
++108013.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Office: Michael Puts Dunder Mifflin on a Bitcoin Standard (Part 1)](https://www.reddit.com/r/Bitcoin/comments/1xrvem5/the_office_michael_puts_dunder_mifflin_on_a/)**
 
-19h ago
+1d ago
 
 ---
 
 **[∞/21M](https://www.reddit.com/r/Bitcoin/comments/1xrtawq/21m/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 The miner heats water to 60°C for the radiators and underfloor heating in a 180 m² home. So while it mines BTC, the heat it gives off warms the house. The setup cost around $20,000. Mining revenue could cover the electricity bill, but that depends on Bitcoin’s price, local power rates and mining difficulty. And if the 2028 halving cuts that income, the house will still need the same amount of heat.
 
-20h ago
+1d ago
 
 ---
 
 **[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1xs9tbj/buy_bitcoin/)**
 
-10h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ The miner heats water to 60°C for the radiators and underfloor heating in a 180
 
 Following up on yesterday’s post about 3+ year coin volume dropping to a multi-year low of 0.08% during the weekend price action. A question from that thread caused me to dig into this deeper and I wanted to share an animated visual breakdown with more context of how these coin-age cohorts actually shift over time. Just the data, not predictions. Why this metric matters: Price feeds tell you what happened, but on-chain age cohorts tell you who is driving it. When over 50% of the active supply (coins held >3 years) completely goes dormant during sharp intraday volatility, it signals high-conviction supply withholding rather than distribution. Why I put this together: I recently started an educational channel called Over 21 Million dedicated strictly to breaking down raw on-chain metrics and network dynamics that I track in my spare time and post about. The goal isn't to make price predictions or tell anyone what direction the market will go next... nobody knows that. But historical behavior and liquidity patterns frequently rhyme. My focus is simply putting transparent, high-signal data into people's hands so everyone can interpret the underlying mechanics and form their own objective conclusions instead of reacting to exchange noise. Feedback, particularly requests for what to look into next are valuable to me. If this sparks any curiosity to look at the universe of UTXOs or raises any questions please don't hesitate to ask. Cheers.
 
-16h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Following up on yesterday’s post about 3+ year coin volume dropping to a multi
 
 The LNbits project issued an emergency warning instructing operators to shut down their LNbits servers following reported exploitation. One operator reported losing 2,285,545 satoshis (approximately 0.023 BTC) after attackers allegedly exploited an extension. The project initially warned about its Paywall extension before expanding the warning to all LNbits servers. As of 09:00 UTC November 9, no fixed release had been announced. LNbits is used to manage Bitcoin Lightning payments. Vulnerable server software can put funds at risk, even though the underlying Bitcoin network is not compromised. Community action: High priority for an administrator alert. LNbits operators should follow the project's shutdown instructions and wait for verified fixes.
 
-🔗 [The Hacker News](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html?m=1) • 19h ago
+🔗 [The Hacker News](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html?m=1) • 1d ago
 
 ---
 
@@ -129,7 +129,7 @@ The LNbits project issued an emergency warning instructing operators to shut dow
 
 The world is on fire, and we're all still at the table yelling at a chart at 3 AM. So let's hear it. No "we're so early," no shilling, just the one move that still haunts you.
 
-23h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ The world is on fire, and we're all still at the table yelling at a chart at 3 A
 
 I seen that cashapp is offering a 2 percent weekly bonus payout for leaving bitcoin on their app. Has anyone done this yet and what are your thoughts on it?
 
-9h ago
+16h ago
 
 ---
 
@@ -155,35 +155,61 @@ Prepare for what's coming. Put in the work to understand bitcoin.
 
 **[Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/11/09/elon-musk-stokes-global-bankruptcy-fears-that-could-be-a-bitcoin-price-game-changer/)**
 
-Forbes • 14h ago
+Forbes • 22h ago
 
 ---
 
-**[LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)**
+**[Bitcoin Drops to Almost Three-Month Low as US Inflation Dims Risk Appetite](https://www.bloomberg.com/news/articles/2026-11-10/bitcoin-drops-to-almost-three-month-low-as-us-inflation-dims-risk-appetite)**
 
-LNbits urges server shutdowns amid attacks after an operator reports losing 2.28 million satoshis through an extension exploit.
-
-The Hacker News • 1d ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Live news: Traders price in fed rate hike for December as bitcoin and gold retreat](https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat)**
+**[Virtual fruit fly brains can play Doom and trade bitcoin](https://www.scientificamerican.com/article/virtual-fruit-fly-brains-can-play-doom-and-trade-bitcoin/)**
 
-CoinDesk • 47m ago
+Researchers created a new map of the fruit fly brain. Then the Internet found it
 
----
-
-**[Bitcoin to $2M? Investment Firm Backs Huge Target but Warns of $30K Crash First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-2m-investment-firm-backs-102447422.html)**
-
-I/O Fund has maintained its $2 million Bitcoin target while warning of a potential decline toward $30,000–$40,000. Its bearish outlook depends on key price levels.…
-
-Yahoo Finance • 1h ago
+Scientific American • 7h ago
 
 ---
 
-**[Bitcoin (BTC) price slips as ETF outflows mount ahead of U.S. CPI data: Crypto Markets Today](https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report)**
+**[Bitcoin Just Did Something Completely Unexpected. History Says This Will Happen Next.](https://www.fool.com/investing/2026/11/10/bitcoin-just-did-something-completely-unexpected/)**
 
-CoinDesk • 9m ago
+Where does Bitcoin go after the midterm elections? History provides some clues.
+
+The Motley Fool • 3h ago
+
+---
+
+**[Over $10 billion in leveraged Bitcoin shorts stack up near $83K, raising squeeze risk](https://www.tradingview.com/news/cryptobriefing:25ba4cbfe094b:0-over-10-billion-in-leveraged-bitcoin-shorts-stack-up-near-83k-raising-squeeze-risk/)**
+
+Traders have piled more than $10 billion in leveraged short bets on Bitcoin, stacked up to the $83,000 level as of November 9, 2026, according to trader commentary circulating on X.Bitcoin was trading in the mid-to-high $70,000s at the time.That setup has revived talk of a short squeeze.The most de…
+
+TradingView • 6h ago
+
+---
+
+**[US CPI Tops Forecasts in October as Bitcoin, Ether Fall](https://thedefiant.io/news/markets/us-cpi-tops-forecasts-in-october-as-bitcoin-ether-fall)**
+
+October US CPI rose 0.4% and core prices increased 0.3%, above consensus forecasts. Bitcoin and ether traded lower around the release.
+
+The Defiant • 5h ago
+
+---
+
+**[Hyperscale Data Sells Remaining Bitcoin Reserves to Reduce Debt and Fund Michigan AI Data Center](https://www.prnewswire.com/news-releases/hyperscale-data-sells-remaining-bitcoin-reserves-to-reduce-debt-and-fund-michigan-ai-data-center-302934282.html)**
+
+/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company ("Hyperscale Data" or the "Company"), today...
+
+PR Newswire • 7h ago
+
+---
+
+**[Bitcoin Gains Lift Trump Media to a Q3 Profit as Operations Lose $23.6 Million](https://unchainedcrypto.com/bitcoin-gains-lift-trump-media-to-a-q3-profit-as-operations-lose-23-6-million/)**
+
+The $23.6 million operating loss is Unchained's calculation excluding a $378.1 million digital-asset gain, which the 10-Q books inside operating results, while revenue came to $3.0 million.
+
+unchainedcrypto.com • 9h ago
 
 ---
 
@@ -191,39 +217,15 @@ CoinDesk • 9m ago
 
 MARA sold 13,597 bitcoin for approximately $1.1 billion after the quarter ended, using $750 million to fully repay its bitcoin-collateralized loans.
 
-The Block • 13h ago
+The Block • 21h ago
 
 ---
 
-**[Bitcoin pinned below $75k as regulatory uncertainty, ETF outflows persist](https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-75k-as-regulatory-uncertainty-etf-outflows-persist-5014179)**
+**[Strategy Spent More on Its Own Shares Than on Bitcoin Last Week. Why Is Saylor Buying Back Stock Instead of BTC?](https://247wallst.com/investing/cryptocurrency/2026/11/09/strategy-spent-more-on-its-own-shares-than-on-bitcoin-last-week-why-is-saylor-buying-back-stock-instead-of-btc/)**
 
-Investing.com • 5h ago
+Strategy spent $188 million buying back STRC and $82 million on Bitcoin in one week. Here's why Saylor is propping up STRC.
 
----
-
-**[Why Saylor's 'Underwater' bitcoin narrative is misleading](https://finance.yahoo.com/video/why-saylors-underwater-bitcoin-narrative-170000340.html)**
-
-Scott Melker discusses Michael Saylor and Strategy's (MSTR) latest 1,036 bitcoin (BTC-USD), challenging the narrative that the company's bitcoin holdings are underwater. Melker explains why he believes major news outlets are missing the bigger picture when it comes to Strategy's long-term bitcoin investment strategy.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Yahoo Finance • 18h ago
-
----
-
-**[Strategy’s $64 Billion Bitcoin Bet Just Went Underwater](https://247wallst.com/investing/2026/11/09/strategys-64-billion-bitcoin-bet-just-went-underwater/)**
-
-Bitcoin fell below the $75,451 average Strategy has paid for its 849,327 coins, putting a $64 billion position about $780 million underwater. Here is what 1,000 shares actually own after the notes and preferred stock, what the MSCI decision on Wednesday and the quarter-end mark do to it, and the sell, hold or trim math for a retiree holding the stock.
-
-24/7 Wall St. • 22h ago
-
----
-
-**[Digital Asset Treasury Firms Continue to Buy Bitcoin and Ethereum. That's Why I'm Bullish on These Two Cryptocurrencies.](https://www.fool.com/investing/2026/11/09/digital-asset-treasury-firms-continue-to-buy-bitco/)**
-
-These big buyers have slowed their purchases, but they haven't stopped.
-
-The Motley Fool • 1d ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -249,7 +251,7 @@ The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlest
 
 Silent Payments has suffered from the lack of multisig & hardware wallet support. We built payments using FROST / Frostsnap hardware that enable distributed signing coordinated using Marmot.
 
-⬆️ 2 • 💬 1 • 3d ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
+⬆️ 2 • 💬 1 • 4d ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
 
 ---
 
@@ -261,17 +263,17 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 ---
 
-**[Full Op_return Pruning in Bitcoin](https://news.ycombinator.com/item?id=50352901)**
+**[Why Gmx.com?](https://news.ycombinator.com/item?id=50429813)**
 
-satd is the first Bitcoin node implementation to allow optional full OP_RETURN value pruning. It is controlled by these options:   -pruneopreturn=N (N is the number of blocks behind tip, 288 minimum to match NODE_NETWORK_LIMITED guarantee) -pruneopreturnsize=X (X is the value size in bytes, greater than or equal to X will be pruned) -restoreopreturns (stop pruning and restore all pruned blocks; mutually-exclusive with above options)  Why do OP_RETURN value pruning? The recent BIP-110 controversy...
-
-⬆️ 1 • 💬 0 • 6d ago • [Delving Bitcoin](https://delvingbitcoin.org/t/full-op-return-value-pruning/3026)
+⬆️ 2 • 💬 1 • 1d ago
 
 ---
 
-**[Why Gmx.com?](https://news.ycombinator.com/item?id=50429813)**
+**[Discord is ditching Electron and its new app uses less RAM](https://news.ycombinator.com/item?id=50378625)**
 
-⬆️ 2 • 💬 1 • 16h ago
+Discord is moving its apps fully over to the Rust programming language.
+
+⬆️ 495 • 💬 438 • 5d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 
 ---
 
@@ -285,57 +287,37 @@ Bitcoin just lost its 50-week moving average after five straight red weeks, reig
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 1K • 💬 184 • ⏱️ 17:23 • 13h ago
+👁️ 39K • 👍 2K • 💬 229 • ⏱️ 17:23 • 21h ago
+
+---
+
+**[BITCOIN BULLS..... THIS IS REALLY BAD.....](https://www.youtube.com/watch?v=cx1w2rDLQfQ)**
+
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+
+📺 Crypto Kid
+
+👁️ 2K • 👍 186 • 💬 14 • ⏱️ 6:44 • 3h ago
+
+---
+
+**[Hot CPI Lands Before the Fed’s Final Rate Decision (Big for Crypto)](https://www.youtube.com/watch?v=35hR5quiYbk)**
+
+Markets are bouncing back after a sharp correction, but is this the beginning of a bigger recovery? Today's CPI report is the final ...
+
+📺 Crypto Banter
+
+👁️ 27K • 👍 756 • 💬 13 • ⏱️ 28:16 • 5h ago
 
 ---
 
 **[“Bitcoin Under $200K? It Makes No Sense” —  Anthony Scaramucci Explains](https://www.youtube.com/watch?v=LGzfQjA2SHA)**
 
-Why is Bitcoin still trading around $75K–$80K when Anthony Scaramucci believes it should already be worth $200000? In this ...
+Why is Bitcoin still trading around $75K–$80K when Anthony Scaramucci believes it should already be worth $200000?
 
 📺 Cointelegraph
 
-👁️ 38K • 👍 389 • 💬 74 • ⏱️ 11:26 • 21h ago
-
----
-
-**[Coinbase just got what it always wanted.](https://www.youtube.com/watch?v=36HPi9UZPOc)**
-
-Strategy bought 1036 Bitcoin for about $81.9 million, taking its holdings past 850000 for the first time. Scott Melker's point is that ...
-
-📺 Yahoo Finance
-
-👁️ 50K • 👍 599 • 💬 94 • ⏱️ 14:50 • 17h ago
-
----
-
-**[Bitcoin, AI &amp; $40 Trillion in Debt: What Happens Next?](https://www.youtube.com/watch?v=wO4A4TR0dw0)**
-
-Tillman Holloway is the CEO of Arch Public. In this conversation, we break down why volatility is showing up everywhere, what it ...
-
-📺 Anthony Pompliano
-
-👁️ 22K • 👍 324 • 💬 10 • ⏱️ 47:59 • 13h ago
-
----
-
-**[They See $2 Million Bitcoin! Why Are They Warning of $30K First?](https://www.youtube.com/watch?v=xpBOtX6vLZw)**
-
-Could Bitcoin crash to $30000 before eventually reaching $2 million? A bold new forecast from Nvidia bull Beth Kindig raises ...
-
-📺 Simply Bitcoin
-
-👁️ 40K • 👍 1K • 💬 102 • ⏱️ 9:11 • 1d ago
-
----
-
-**[BITCOIN: IT&#39;S ALMOST TIME!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=lrzgbsWHml4)**
-
-Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): https://partner.blofin.com/d/RT1M Get ...
-
-📺 Road To $1 Million USD
-
-👁️ 5K • 👍 235 • 💬 28 • ⏱️ 7:50 • 13h ago
+👁️ 44K • 👍 434 • 💬 82 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -345,7 +327,17 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 1K • 💬 49 • ⏱️ 10:00 • 10h ago
+👁️ 59K • 👍 2K • 💬 61 • ⏱️ 10:00 • 18h ago
+
+---
+
+**[Bitcoin: Close Your Eyes &amp; Buy? [My Plan Of Action]](https://www.youtube.com/watch?v=NXJZ-OOcCvo)**
+
+In today's live market analysis, Kyle Doops dissects the 'close your eyes and buy' approach to Bitcoin, specifically leveraging the ...
+
+📺 Crypto Banter
+
+👁️ 21K • 👍 935 • 💬 13 • ⏱️ 49:47 • 11h ago
 
 ---
 
@@ -355,27 +347,37 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 191K • 👍 6K • 💬 211 • ⏱️ 9:28 • 1d ago
+👁️ 200K • 👍 6K • 💬 217 • ⏱️ 9:28 • 1d ago
 
 ---
 
-**[Crypto is about to get EXTREMELY INTERESTING! (What Comes Next?)](https://www.youtube.com/watch?v=Ov5jg52HqIY)**
+**[Bitcoin Faces Nvidia Shock](https://www.youtube.com/watch?v=4dG6hoLc72E)**
 
-Crypto is about to get INTERESTING! What Comes Next? Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 81K • 👍 2K • 💬 242 • ⏱️ 12:28 • 1d ago
+👁️ 27K • 👍 735 • 💬 72 • ⏱️ 1:00:07 • 1d ago
 
 ---
 
-**[Bitcoin in BIG TROUBLE (Nvidia Sell-Off BEGINS)](https://www.youtube.com/watch?v=o6jppPs5mNo)**
+**[Why Bitcoin Just Dumped.](https://www.youtube.com/watch?v=UJFQBaMh3yg)**
 
-Bitcoin is facing major downside pressure as Nvidia's sell-off raises fears across the stock market and crypto markets! We break ...
+Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
 
-📺 Discover Crypto
+📺 Coin Bureau
 
-👁️ 8K • 👍 248 • 💬 53 • ⏱️ 59:59 • 18h ago
+👁️ 32K • 👍 854 • 💬 75 • ⏱️ 12:01 • 7h ago
+
+---
+
+**[BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67,000!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WZFYiNA3RNM)**
+
+BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67000!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 161 • 💬 86 • ⏱️ 26:05 • 2h ago
 
 ---
 

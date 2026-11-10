@@ -61,20 +61,6 @@
       "site_name": "GitHub"
     },
     {
-      "title": "Full Op_return Pruning in Bitcoin",
-      "url": "https://delvingbitcoin.org/t/full-op-return-value-pruning/3026",
-      "hn_url": "https://news.ycombinator.com/item?id=50352901",
-      "author": "epochbtc",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-03T15:03:17Z",
-      "object_id": "50352901",
-      "image": "https://delvingbitcoin.org/uploads/default/original/1X/863d31b22a9d4d4072777bffb9b9ded86a1638bc.svg",
-      "description": "satd is the first Bitcoin node implementation to allow optional full OP_RETURN value pruning. It is controlled by these options:   -pruneopreturn=N (N is the number of blocks behind tip, 288 minimum to match NODE_NETWORK_LIMITED guarantee) -pruneopreturnsize=X (X is the value size in bytes, greater than or equal to X will be pruned) -restoreopreturns (stop pruning and restore all pruned blocks; mutually-exclusive with above options)  Why do OP_RETURN value pruning? The recent BIP-110 controversy...",
-      "favicon": "https://delvingbitcoin.org/uploads/default/optimized/1X/863d31b22a9d4d4072777bffb9b9ded86a1638bc_2_180x180.svg",
-      "site_name": "Delving Bitcoin"
-    },
-    {
       "title": "Why Gmx.com?",
       "url": "https://news.ycombinator.com/item?id=50429813",
       "hn_url": "https://news.ycombinator.com/item?id=50429813",
@@ -87,9 +73,23 @@
       "description": null,
       "favicon": null,
       "site_name": null
+    },
+    {
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "hn_url": "https://news.ycombinator.com/item?id=50378625",
+      "author": "archb",
+      "points": 495,
+      "num_comments": 438,
+      "created_at": "2026-11-05T13:05:28Z",
+      "object_id": "50378625",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Discord is moving its apps fully over to the Rust programming language.",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "site_name": "The Verge"
     }
   ],
   "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-11-10T11:32:38.418908+00:00"
+  "fetched_at": "2026-11-10T19:24:22.498221+00:00"
 }

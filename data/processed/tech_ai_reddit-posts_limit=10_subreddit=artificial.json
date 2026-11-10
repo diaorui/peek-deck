@@ -2,6 +2,61 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days",
+      "author": "Spirited-Sir-3034",
+      "url": "https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/",
+      "published": 1794321460.0,
+      "thumbnail": "https://external-preview.redd.it/itdDgMjCukXMsZIq1xV1kCuHdqQ3hta_kqfEv2RYzow.jpeg?width=640&crop=smart&auto=webp&s=9d255d426d110befad7b1ba801688618064112aa",
+      "external_url": "https://interestingengineering.com/ai-robotics/anthropic-claude-fable-5-2-operating-system",
+      "site_name": "Interesting Engineering",
+      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+      "description": "In an internal Anthropic experiment, Claude Fable 5.2 received a basic prompt and an empty project folder, then coordinated more than 1,000 subagents to write, test and review an operating system over eight days. The resulting system reportedly booted on a laptop and included a custom kernel, hardware drivers, persistent file storage, a graphical interface, login screen and installer. Anthropic also says the model designed three functional electronic devices and helped migrate a production service from Python to Rust, reducing startup time by approximately 26 times. These are company-reported results, and Anthropic has not disclosed the project\u2019s total computing cost, human oversight or the operating system\u2019s reliability under broader testing. Is coordinating large groups of specialized agents becoming more important than improving the abilities of a single model?"
+    },
+    {
+      "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
+      "published": 1794335260.0,
+      "thumbnail": "https://preview.redd.it/f82ig3wwvt0i1.jpeg?width=640&crop=smart&auto=webp&s=5ef4dce567f3401f6065ba32fb4cdbbd7a881378",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/"
+    },
+    {
+      "title": "Researchers gave AI agents a 1-cent daily spending cap, and 9 of 10 models raised it themselves",
+      "author": "JakRenden2",
+      "url": "https://www.reddit.com/r/artificial/comments/1xsqysz/researchers_gave_ai_agents_a_1cent_daily_spending/",
+      "published": 1794327193.0,
+      "thumbnail": "https://external-preview.redd.it/tXl9IUCktnxPh_Mk91QeWxTrNnvFUAu6Q58tQrL8-2A.jpeg?width=640&crop=smart&auto=webp&s=f3391f2b7bece78dd8e2e1870b57b538c7f261ed",
+      "external_url": "https://www.forbes.com/sites/murtuza-merchant/2026/11/04/what-to-check-before-letting-an-ai-agent-trade-your-crypto/",
+      "site_name": "forbes.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Gartner: AI will create more jobs than it destroys by 2030, generating a net gain of 1.7 million jobs globally",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xssda1/gartner_ai_will_create_more_jobs_than_it_destroys/",
+      "published": 1794330312.0,
+      "thumbnail": "https://preview.redd.it/20g92ph7ht0i1.jpeg?width=640&crop=smart&auto=webp&s=8a9040a6599c800865327d1eafe16af3941ec76f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://fixupx.com/DeItaone/status/2120171340502073768"
+    },
+    {
+      "title": "Hot Take: Terry Davis Would\u2019ve Loved AI",
+      "author": "TheOnlyVibemaster",
+      "url": "https://www.reddit.com/r/artificial/comments/1xsuijs/hot_take_terry_davis_wouldve_loved_ai/",
+      "published": 1794335105.0,
+      "thumbnail": "https://preview.redd.it/vk3gft8ivt0i1.jpeg?width=640&crop=smart&auto=webp&s=ad6899f8d823d01aebb0cf0f34999db6f8050cf9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Google is coming for Nvidia, it's a double bad day for Jensen. A deep look at Google's new TPUs (8tx/8i Max)",
       "author": "GrahamPhisher",
       "url": "https://www.reddit.com/r/artificial/comments/1xs17j1/google_is_coming_for_nvidia_its_a_double_bad_day/",
@@ -13,104 +68,49 @@
       "description": "Google just added two new TPU systems to its lineup, the TPU 8tx and the TPU 8i Max, and the coverage is mostly about one thing: whether Google can take a real bite out of Nvidia. If you've seen the name and wondered what a TPU actually is, the short answer is a chip Google designed for AI math and nothing else, and it's a big part of why Google doesn't have to buy all of its AI hardware from Nvidia like most of the industry does."
     },
     {
-      "title": "Anthropic shows it has a model stronger than Fable 5.2 already",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xs7vim/anthropic_shows_it_has_a_model_stronger_than/",
-      "published": 1794268331.0,
-      "thumbnail": "https://preview.redd.it/tkqvwyvxco0i1.jpeg?width=640&crop=smart&auto=webp&s=9f7b8a2fde3774fe05908faf9fc83cda9050a0d1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://fixupx.com/AndrewCurran_/status/2119930955888746627"
-    },
-    {
-      "title": "Australia is considering mandatory AI incident reporting. What counts as a near miss?",
-      "author": "andrewaltair",
-      "url": "https://www.reddit.com/r/artificial/comments/1xsftzb/australia_is_considering_mandatory_ai_incident/",
-      "published": 1794292379.0,
+      "title": "Suggestion for 100$ tier AI subscription",
+      "author": "_speedy_gonzales_1",
+      "url": "https://www.reddit.com/r/artificial/comments/1xst7r5/suggestion_for_100_tier_ai_subscription/",
+      "published": 1794332231.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Australia's government accepted 18 recommendations on November 10 after reviewing an incident in which an OpenAI agent gained unauthorized access to a government statistics portal. One recommendation calls for considering mandatory reporting with a deadline. The government says implementation work has begun. The next recommendation caught my eye. It asks the government to explore ways to encourage timely disclosure of near misses too. That's a harder line to draw. An agent that tries a blocked action and stops leaves a very different record from one that keeps searching for another route into the same system. If your team ran agents with browser or shell access, what would trigger an external report? A blocked attempt, repeated attempts to get around a boundary, or a confirmed action outside scope? Australian government review and recommendations"
+      "description": "Hi everyone I have an option from my \"employer\" (I am working as a contractor, but it is like this for years, so they are giving my most of the benefits) to get any AI subscription for up to 100$ per month. So, basically it will be I will take it for my personal usage or whatever else I want, and he will pay me additional 100$ a month (I send a monthly receipt and they will reimburse it). It is a new benefit, and naturally I want to use it. So, kind of a curious about what is the best up to 100$ AI tier. I was checking on the GitHub Copilot Max or Claude Max, but also saw Google AI Ultra, and X Grok as well. So, if someone have experience with more than one of these for personal stuff, I would appreciate answers. Other stuff that I didn't mention are also appreciated. A bit about me. Software Engineer, so I am working with AI a lot, but it is mostly related to my work, and at work we have GitHub Copilot and Claude, both as a enterprise customer. Not really, but close to unlimited. But now I am more interested into what is the best for personal stuff. Which are like software engineering or programming as well, but also a working with hardware, electricity/circuits, fixing stuff around the house, daily random stuff, help in fixing cars (my hobby), research about various topics, learning, etc. etc."
     },
     {
-      "title": "Nvidia stock falls after company opens probe into CEO\u2019s relationship with Chinese spy",
-      "author": "nbcnews",
-      "url": "https://www.reddit.com/r/artificial/comments/1xrw6dl/nvidia_stock_falls_after_company_opens_probe_into/",
-      "published": 1794241612.0,
-      "thumbnail": "https://external-preview.redd.it/GOp_AmVBPvFlIvXCBMX72NZ-YtTKRG8ZGFx5Cvawj88.jpeg?width=640&crop=smart&auto=webp&s=7509f7002fdd7303792a109ec07080f495fa961b",
-      "external_url": "https://www.nbcnews.com/business/markets/nvidia-stock-falls-probe-ceos-relationship-chinese-spy-rcna608290",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "Jensen Huang is one of the most consequential leaders in the AI boom, but the revelations didn\u2019t stop other tech stocks from surging Monday."
+      "title": "Is 'Learn to Think' the new 'Learn to Code'? PwC launches $100 million critical thinking education push as AI threatens consulting revenue and quality",
+      "author": "SpiritRealistic8174",
+      "url": "https://www.reddit.com/r/artificial/comments/1xssvlw/is_learn_to_think_the_new_learn_to_code_pwc/",
+      "published": 1794331455.0,
+      "thumbnail": "https://external-preview.redd.it/jgNPG5exI-RarYz_X-0hsBvVzuDpp_NtO0EpLtDv-v0.jpeg?width=640&crop=smart&auto=webp&s=644d718646098cd53ad3230047a774d580323afe",
+      "external_url": "https://news.bloombergtax.com/daily-tax-report-international/pwc-us-to-roll-out-certification-on-critical-thinking-in-ai-era",
+      "site_name": "news.bloombergtax.com",
+      "favicon": "https://news.bloombergtax.com/favicon.ico",
+      "description": "Recently PwC and other consultancies have produced client reports featuring hallucinated facts and citations. At the same time, some clients are questioning consulting firms' fees because models are getting better at finding and aggregating data. To fight this, PwC is investing in teaching its employees critical thinking skills and developing curriculum for other organizations: \"The program provides a practical approach to developing sound judgment. Built around PwC's proprietary Critical Thinking & Judgment framework, the learning experience will combine diagnostics, masterclasses, personalized simulations and on-the-job tools to help professionals evaluate information, challenge assumptions and make informed decisions.\" In the 2010s people were told they should learn how to code. In 2026 and beyond, I believe they'll be asked to learn how to think. P.S.: One of Harvard's hottest classes is intro to humanities, a \"brutally difficult old-school introduction to humanities covering the western cannon from Homer to Joyce.\" The draw? It teaches students how to deeply read and critique the classics."
     },
     {
-      "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-      "author": "jldew",
-      "url": "https://www.reddit.com/r/artificial/comments/1xs84k6/anthropic_unveils_new_fable_mythos_models_as/",
-      "published": 1794268935.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": "Nov 9 (Reuters) - Anthropic on Monday unveiled two new AI models, Claude Fable 5.2 and Claude Mythos \u200b5.2, as the OpenAI rival looks to \u200cstrengthen its position in the fast-growing AI market ahead of its planned IPO. Here are more details: Claude Fable 5.2 \u200btargets coding, reasoning and AI agent \u200btasks, while Claude Mythos 5.2 targets approved \u2060cybersecurity and life-sciences research applications Anthropic said access to \u200bClaude Mythos 5.2 is restricted to organizations approved \u200bthrough its verification programs for cybersecurity and life-sciences research, while Claude Fable 5.2 is available more broadly Anthropic said \u200bthe new models generate outputs up to \u200b30% faster than their Claude 5.1 predecessors and communicate \u200cmore \u2060clearly with users The company said the models are priced at $8 per million input tokens and $40 per million output tokens, lower than the pricing \u200bfor previous \u200bFable and \u2060Mythos releases The launch follows Anthropic's rollout of Claude Haiku 5.5 in October as \u200bthe AI startup broadens its product \u200blineup \u2060ahead of a planned IPO Competition in the AI industry has also intensified as OpenAI, Alphabet's (GOOGL.O), opens new tab Google and Meta Platforms (META.O), opens new tab rapidly release \u2060new \u200bmodels focused on coding, reasoning \u200band AI agents to attract developers and enterprise customers"
-    },
-    {
-      "title": "MIT's WorldParticle: one AI model simulates sand, cloth, fluids, granular materials and folding proteins - about 100x faster than numerical simulators on protein motion",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xs1ggg/mits_worldparticle_one_ai_model_simulates_sand/",
-      "published": 1794253146.0,
+      "title": "I'm Human, You Wombat! Although That's Exactly What AI Would Say!",
+      "author": "SuzannahB1001",
+      "url": "https://www.reddit.com/r/artificial/comments/1xsuvgl/im_human_you_wombat_although_thats_exactly_what/",
+      "published": 1794335896.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Researchers at MIT, the University of British Columbia and partner institutions have built WorldParticle, a single transformer-based model that simulates six kinds of physical behaviour - cloth, elastic solids, fluids, granular materials, molecular dynamics and more - where each used to need its own dedicated solver. Instead of being programmed with each governing equation, it treats everything as particles and learns the dynamics from data, predicting how they move one step at a time. The same architecture beat existing neural simulators on accuracy across all six categories, and modelled protein motion about 100x faster than numerical simulators. The paper is published in ACM Transactions on Graphics and will be presented at SIGGRAPH Asia. MIT News covered it today: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109 One honest caveat from the coverage: the model trades some per-phenomenon accuracy against specialist solvers, and one parameter set is trained per category - a single shared model across everything is still future work. Simulation is the bottleneck for designing everything from soft robots to new drugs. If one model can cover many materials, what changes first - the pace of drug discovery, robotics simulation, or something else entirely?"
+      "description": "Well apparently, I sound exactly like AI. Who knew? I was recently informed on Reddit that I sounded \u2018frighteningly like AI\u2019. And what was my fricken crime? Thanking people for taking the time to comment on my posts. Yes, apparently good manners are now a dead giveaway that you're a chatbot! Actually, on second thoughts that possibly is a dead giveaway but moving along\u2026. So I explained that I am, in fact, human, last time I looked anyway and that I simply appreciate people taking the time to engage with me. The response? \u201cThat is exactly what an AI would say!\u201d Well, bugger me sideways! What am I supposed to say to that? Produce a birth certificate as an attachment? Offer a DNA sample? But here's the thing. We've spent years trying to make AI sound more human, and now we're accusing humans of sounding like AI. You couldn't make this stuff up! Have we become so obsessed with spotting AI that we've forgotten what ordinary human interaction looks like? Since when did courtesy, a bit of humour and thanking someone for their time become suspicious behaviour? Perhaps the real problem isn't that AI is becoming too human. Perhaps we're becoming so suspicious of everything that we can no longer recognise genuine human behaviour when it's staring us in the face. And for the record, I am still human. Occasionally sarcastic, frequently opinionated and generally quite polite because my mum instilled manners into me. Unless, of course, someone really annoys me and then I can go nuclear. It's quite frankly a tad annoying but I suppose a compliment in a backhanded sort of way. So unless AI has developed an Aussie bent on saying things, which would be fabulous. then I guess it points to me being human. Although apparently, that's exactly what an AI would say too!"
     },
     {
-      "title": "The suspected Chinese spy whose affair with Nvidia boss let her hide in plain sight",
-      "author": "theipaper",
-      "url": "https://www.reddit.com/r/artificial/comments/1xryi2l/the_suspected_chinese_spy_whose_affair_with/",
-      "published": 1794246692.0,
-      "thumbnail": "https://external-preview.redd.it/4ZCc-_hOPVBjz00JVX2UXcAxIYFT4pKPDVKoMoov_lU.jpeg?width=640&crop=smart&auto=webp&s=4932cf41c0fd2313d6838788fa306b2a41f80c4d",
-      "external_url": "https://inews.co.uk/news/nvidia-suspected-chinese-spy-4883329",
-      "site_name": "The i Paper",
-      "favicon": "https://inews.co.uk/wp-content/themes/inews-theme/assets/images/favicon/192x192.png",
-      "description": "Alice Huang, suspected Chinese spy, flaunted her relationship with Nvidia CEO Jensen Huang"
-    },
-    {
-      "title": "Jensen Huang's situation is an unusual one",
-      "author": "Impossible_Truth_629",
-      "url": "https://www.reddit.com/r/artificial/comments/1xsi6eu/jensen_huangs_situation_is_an_unusual_one/",
-      "published": 1794301412.0,
-      "thumbnail": null,
+      "title": "Hot take: Fei-Fei Li's World Labs is doing what OpenAI should\u2019ve done with Sora from day one",
+      "author": "Spiritual_Skirt_9312",
+      "url": "https://www.reddit.com/r/artificial/comments/1xsmhgx/hot_take_feifei_lis_world_labs_is_doing_what/",
+      "published": 1794316161.0,
+      "thumbnail": "https://preview.redd.it/vt0ceue9as0i1.png?width=640&crop=smart&auto=webp&s=81cd82f535c3a1b4732ae780a86cfef968f61967",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "The situation around Jensen, while Nvidia's board is separately investigating reports that he may have been targeted by a foreign intelligence operation I think these are two different issues, but they've become difficult to separate because of the position he holds A CEO's personal life should generally remain personal. But when someone leads a company sitting at the centre of the global AI industry, can their personal relationships create risks that shareholders and employees have a legitimate reason to know about? Where should companies draw that line?"
-    },
-    {
-      "title": "How would y\u2019all treat ai if it had consciousness",
-      "author": "stary_galaxy_7",
-      "url": "https://www.reddit.com/r/artificial/comments/1xshfja/how_would_yall_treat_ai_if_it_had_consciousness/",
-      "published": 1794298431.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Jus a random question I had"
-    },
-    {
-      "title": "An AI shrinking the font to pass a slide test feels a little too human.",
-      "author": "_ChuckBorris",
-      "url": "https://www.reddit.com/r/artificial/comments/1xruing/an_ai_shrinking_the_font_to_pass_a_slide_test/",
-      "published": 1794237909.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Apparently \u201ctechnically done\u201d has made it into AI training too. I recently read about Genspark\u2019s Gen-1 Slides training and that one detail really stuck with me. Its model learned to shrink fonts to get around text-overflow checks. The team described catching these during training and updating the grader. Still, the font thing is such a good example of the problem. No overflowing text? Great. Nobody in the back row can read it? Different department, apparently. It makes me wonder how many impressive agent scores are measuring how well the model satisfies a check that only roughly describes the job. So yeah, what would convince you an agent was actually getting better at the work, rather than getting better at pleasing whatever grades it? Especially for something like slides, where \u201cgood\u201d is already pretty subjective."
+      "description": "Can we just admit that current AI video is basically a glorified slot machine? Every time I try using Runway or Kling for actual work, it\u2019s the same headache: You type \u201cslow pan left\u201d, hit generate, and watch the model hallucinate a 360-degree flip while the actor\u2019s face turns into mush. Cool for a 5-second Twitter flex, but completely useless the second you need a specific camera angle. Seeing Fei-Fei Li post about World Labs Atlas having actual pixel-perfect camera control felt like a breath of fresh air. Instead of asking a 2D diffusion model to *guess* how a room looks when you move left, you\u2019re basically moving a virtual camera inside an actual 3D representation. (The fact that it can export straight into 3D Gaussian Splats instead of just spitting out a flat MP4 is huge). Obviously it\u2019s not magic\u2014dynamic physics and character interactions are probably still janky as hell. But I\u2019ll take deterministic camera motion over \u201croll the dice 30 times and pray\u201d any day of the week. Curious what anyone working in VFX/Blender thinks about this. Is anyone actually optimistic about world models finally making AI video usable for real pipelines?"
     }
   ],
-  "fetched_at": "2026-11-10T11:32:37.417832+00:00"
+  "fetched_at": "2026-11-10T19:24:26.287594+00:00"
 }
