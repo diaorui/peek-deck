@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-10T11:33:13.383021+00:00'
+updated: '2026-11-10T19:25:03.184186+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 10, 2026 at 11:33 UTC  
+**Last Updated:** November 10, 2026 at 19:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -13.8%  
-**30d:** -14.5%  
-**90d:** +10.9%  
-**1y:** -38.7%  
+**24h:** -4.2%  
+**7d:** -15.8%  
+**30d:** -16.6%  
+**90d:** +8.2%  
+**1y:** -40.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.63B
+**Market Cap:** $249.21B
 Rank #2
 
 **Circulating Supply:** 122,206,811 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.7%
+-58.8%
 
 **All-Time Low:** $0.43
-+483006.6%
++470777.3%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[So are we just moving on from the whole ‘World Computer’ narrative now?](https://www.reddit.com/r/ethereum/comments/1xr1260/so_are_we_just_moving_on_from_the_whole_world/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ I have been in crypto for the last 7 to 8 years, and over time, maybe with age, 
 
 Post quantum & post AI transition targeting December 2028, Amundi tokenized equity index fund, Solar v0.3 & Slang alpha Solidity compilers
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-46/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-46/) • 4d ago
 
 ---
 
@@ -164,9 +164,11 @@ The Denver Post • 4d ago
 
 ---
 
-**[An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes](https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes)**
+**[Ethereum Foundation Sued After Employee With Cancer Challenges Bizarre Suicide Pledge](https://www.yahoo.com/news/us/articles/ethereum-foundation-sued-employee-cancer-183817824.html)**
 
-CoinDesk • 4h ago
+Ethereum Foundation faces a federal lawsuit after a cancer patient says she was fired days after disclosing her diagnosis and signing a staff protest letter.
+
+Yahoo • 46m ago
 
 ---
 
@@ -174,31 +176,13 @@ CoinDesk • 4h ago
 
 The complaint challenges Fulton’s dismissal and quotes a recorded Buterin conversation about handling internal dissent.
 
-The Block • 17h ago
+The Block • 1d ago
 
 ---
 
-**[Vitalik Buterin Sued in Ethereum ‘Suicide Pledge' Row](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-sued-ethereum-suicide-204108478.html)**
+**[An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes](https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes)**
 
-Vitalik Buterin faces a US lawsuit alleging the Ethereum Foundation fired a cancer patient who led a staff revolt.
-
-Yahoo Finance • 14h ago
-
----
-
-**[Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact — non-profit crypto firm demanded employees pledge to take their own lives with a sword to protect open-source code, founder Vitalik Buterin claims bizarre 1,000-](https://www.tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork)**
-
-A former employee of The Ethereum Foundation is suing the nonprofit after being fired for refusing to sign its 'Source Seppuku License.'
-
-Tom's Hardware • 16h ago
-
----
-
-**[Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-just-hit-lowest-170115996.html)**
-
-A liquidation cascade just wiped out billions in leveraged bets, and Ethereum has already cracked a level Bitcoin is still defending. Analysts are now arguing over which line decides whether the sell-off ends or the real damage begins.
-
-Yahoo Finance • 18h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -206,7 +190,15 @@ Yahoo Finance • 18h ago
 
 Tom Lee's Bitmine Immersion Technologies extended its weekly Ethereum buying streak, adding 9,587 ETH worth roughly $20 million.
 
-Decrypt • 18h ago
+Decrypt • 1d ago
+
+---
+
+**[Current price of Ethereum for November 10, 2026](https://fortune.com/article/price-of-ethereum-11-10-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
@@ -222,7 +214,13 @@ The Motley Fool • 1d ago
 
 Amundi issued a tokenized share class of its Europe 600 index fund on Ethereum, with CACEIS providing the infrastructure.
 
-CryptoSlate • 12h ago
+CryptoSlate • 20h ago
+
+---
+
+**[Bitcoin Falls Below $75,000, Drags Ethereum, XRP, Dogecoin 5% Lower](https://www.benzinga.com/crypto/cryptocurrency/26/11/63059390/bitcoin-falls-below-75000-drags-ethereum-xrp-dogecoin-5-lower)**
+
+Benzinga • 1d ago
 
 ---
 
@@ -230,13 +228,23 @@ CryptoSlate • 12h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67,000!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WZFYiNA3RNM)**
+
+BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67000!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 161 • 💬 86 • ⏱️ 26:05 • 2h ago
+
+---
+
 **[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=ftceDWupgqw)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 92 • 💬 34 • ⏱️ 22:13 • 7h ago
+👁️ 8K • 👍 164 • 💬 41 • ⏱️ 22:13 • 15h ago
 
 ---
 
@@ -246,17 +254,17 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 17 • 💬 9 • ⏱️ 3:30 • 23h ago
+👁️ 2K • 👍 18 • 💬 10 • ⏱️ 3:30 • 1d ago
 
 ---
 
-**[🚀 BMNR HOLDERS: ETH JUST CHANGED FOREVER!  NVIDIA SHOCKER! Jensen Huang Will NVDA Recover?](https://www.youtube.com/watch?v=VnDCthfb0rc)**
+**[MAJOR ETH PULLBACK WARNING!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=5KsodpNb10M)**
 
-BMNR HOLDERS: ETH JUST CHANGED FOREVER! Earn on Crypto & Stocks with MaxFi: https://www.Maxfi.tech/ NVIDIA ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
 
-📺 Big Time Trades
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 67 • 💬 12 • ⏱️ 26:54 • 11h ago
+👁️ 931 • 👍 22 • 💬 3 • ⏱️ 4:57 • 8h ago
 
 ---
 
@@ -266,7 +274,27 @@ We analyse Ethereum on 9 November 2026 using Elliott Wave, with the target zone 
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 180 • 💬 6 • ⏱️ 6:36 • 9h ago
+👁️ 7K • 👍 220 • 💬 9 • ⏱️ 6:36 • 16h ago
+
+---
+
+**[Ethereum has $15 BILLION of real assets. Hedera has $90M](https://www.youtube.com/watch?v=-2RolXD3VcU)**
+
+I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
+
+📺 Cheeky Crypto Plus
+
+👁️ 2K • 👍 77 • 💬 15 • ⏱️ 18:58 • 9h ago
+
+---
+
+**[🚀 BMNR HOLDERS: ETH JUST CHANGED FOREVER!  NVIDIA SHOCKER! Jensen Huang Will NVDA Recover?](https://www.youtube.com/watch?v=VnDCthfb0rc)**
+
+BMNR HOLDERS: ETH JUST CHANGED FOREVER! Earn on Crypto & Stocks with MaxFi: https://www.Maxfi.tech/ NVIDIA ...
+
+📺 Big Time Trades
+
+👁️ 3K • 👍 78 • 💬 15 • ⏱️ 26:54 • 19h ago
 
 ---
 
@@ -276,17 +304,7 @@ CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 214 • 💬 15 • ⏱️ 1:03 • 17h ago
-
----
-
-**[Is This the Crypto Bottom? Ethereum Just Changed Everything!](https://www.youtube.com/watch?v=VRR3VDxRFXo)**
-
-Is This the Crypto Bottom? Ethereum Just Changed Everything! iTrustCapital (Partner) ...
-
-📺 CryptoWendyO
-
-👁️ 11K • 👍 340 • 💬 59 • ⏱️ 23:10 • 1d ago
+👁️ 12K • 👍 236 • 💬 17 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -296,37 +314,17 @@ CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in
 
 📺 Altcoin Daily
 
-👁️ 118K • 👍 2K • 💬 232 • ⏱️ 28:10 • 2d ago
+👁️ 122K • 👍 2K • 💬 234 • ⏱️ 28:10 • 2d ago
 
 ---
 
-**[How Avalanche Beat Out Ethereum And Other Blockchains to Power NYSE&#39;s 24/7 Stock Trading](https://www.youtube.com/watch?v=if-HZzME9ZU)**
+**[Is Ethereum Ultrasound Money DEAD? ⚠️ Vitalik&#39;s 90% Supply Dilution Bombshell!](https://www.youtube.com/watch?v=5uTIUhVEku4)**
 
-The New York Stock Exchange is turning to Avalanche to help power its push into 24/7 tokenized stock trading. But why did the ...
+If you invested in Ethereum believing it is a deflationary "store of value" and "ultrasound money," you need to know this critical ...
 
-📺 Coinage
+📺 ilme aalim
 
-👁️ 929 • 👍 10 • 💬 24 • ⏱️ 13:00 • 17h ago
-
----
-
-**[Ethereum Analysis Today: Buy or Sell ETH? Key Levels &amp; Next Move | KSA Trades](https://www.youtube.com/watch?v=5lpaOhoo43Q)**
-
-Should you buy or sell Ethereum right now? In this Ethereum analysis today, I explain the current ETH market structure, important ...
-
-📺 Trade With KSA
-
-👁️ 114 • 👍 35 • 💬 6 • ⏱️ 2:36 • 1h ago
-
----
-
-**[Crypto: Ethereum is officially a corporate suicide cult](https://www.youtube.com/watch?v=lJSiilcSjpY)**
-
-Now with Nazis! by Amy Castor and David Gerard ...
-
-📺 Pivot to AI
-
-👁️ 10K • 👍 881 • 💬 197 • ⏱️ 11:26 • 11h ago
+👁️ 3K • 👍 100 • 💬 17 • ⏱️ 1:34 • 9h ago
 
 ---
 
