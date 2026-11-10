@@ -5,14 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin's Blockchain Just Ran Backward in Time. Is Something Wrong?",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1neTR5MUE4SUd3NlVSaEJHRFdJdmNWQUl5c08wSlFoSkZILXpsWWI3Uk5rV09UeHRYS0dqNHZUa2J2UHZJdEwxNWh0NERPSGFVd29NVUpKN3RKdTRoNnpRNHYyYl96TzVQOGM0TkNB?oc=5",
-      "pub_date": 1794236647.0,
-      "article_url": "https://beincrypto.com/bitcoin-block-timestamps-run-backward/",
+      "headline": "Elon Musk Confirms \u2018Global Bankruptcy\u2019 Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
+      "pub_date": 1794259080.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/09/elon-musk-stokes-global-bankruptcy-fears-that-could-be-a-bitcoin-price-game-changer/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Strategy (MSTR) Is Building A Global Bitcoin Bank",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1RNUlIxSmp3MDJJbzUxMTdqTFBUQksyT0FBRjJTaHZjWk5IV04tYVlwbm5mZ21jTEY1NFJtTTI4bEFLUWstdER4eGJFbjBKS1MwRzdwMllhR0QtWktRa0pmd2R5T0dpYlYwRWkyRnBkZ3o0OW81ZWNyLVJyVXY5UldTRE1lYUkzNnFJbEF3dUFLTFNpWHBiQjlHaDYySU9iYTNINA?oc=5",
+      "pub_date": 1794278556.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-building-global-bitcoin-021814783.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
+      "description": "MicroStrategy (NasdaqGS:MSTR) outlined plans to become a global Bitcoin bank at a major fintech conference, as described by CEO Phong Le. Phong Le detailed efforts to link traditional finance services with decentralized Bitcoin holdings for institutional clients. The corporation aims to build full-scale institutional Bitcoin banking capabilities that integrate with existing financial infrastructure. MicroStrategy's push toward full-scale institutional Bitcoin banking is a major shift that..."
     },
     {
       "headline": "Crypto Miners Shifted to AI. A Regulatory Maze Could Threaten the Boom.",
@@ -25,86 +35,76 @@
       "description": null
     },
     {
-      "headline": "Live news: Bitcoin remains lower as stocks surge, crude oil tumbles",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUsxZkQxT242bG9CNFJ6QUl1NmdQQ3ZxLUkzazU2VjVvMHd1dWdydmo0YmlzUXFNajdLTmNsT2tuM2tuNTgxMjhPRWE1dWVEaWZIbVJEY2tZcW1tLXQxemZfSEJsRUZnam95MF9GYzVlc05WSkxEdW0wRnZwU3NUT3BRZEZmbjhodTVXVndJWE40Ni1teTRKV2tId1FaU1BnTkNTWTN0YS1fbFc4R1N6cjM2dHJ4NlRKSWk3TWRYaVpJWTJzNHp3c2dETEk?oc=5",
-      "pub_date": 1794254558.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-      "image": null,
-      "description": null
+      "headline": "Miami-Dade Tax Collector now accepts Bitcoin for property tax payments",
+      "source": "News4JAX",
+      "source_url": "https://www.news4jax.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLW0xNzhlWDVWdk1PaVRPR1lIb2N2VENGMVNxQWlpSkh3T1ZhVWpQTkRySWMySTMyOVJIb01zb2RoR3NNUFZESWdZRGJnQXg0cHVDZG5Kc2NDUzNCWHZVblFwVVRCVk42ZWowQ1lWaFBtQWo0OG1HSUFuWnM0RTkxY2VqSWNPanUzV25DcDh4Vld1M3BDb3hkVkE0aGFiX2FDcVVlY0dMd0pvOXZZNVI5QTctSEdyd0pIWHc?oc=5",
+      "pub_date": 1794264312.0,
+      "article_url": "https://www.news4jax.com/news/local/2026/11/09/miami-dade-tax-collector-now-accepts-bitcoin-for-property-tax-payments/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/57GCSKY7IJGH5AYB5OO3JMMWMI.png?api_key=news4jax_3f10b25586458189",
+      "description": "Miami-Dade County Tax Collector Dariel Fernandez announced Monday that his office has begun accepting Bitcoin as a payment option for property taxes \u2014 both online and in person \u2014 making Miami-Dade one of the first government agencies in the country to do so."
     },
     {
-      "headline": "Watch 95% S&P 500, 5% Bitcoin in New Franklin ETF: Drilldown",
+      "headline": "Watch S&P 500 Erases Midterm Losses, Bitcoin Bounce",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3ZUenEyWGJnQUltc1BVZHhldjgwZWxkb1EtcXdKeFlHbVFWNE1lUjNJZ2pGdEhnblI2cDYtQ3p6TVAxamNnSXp6aHNhLTM5eTU5WHVIMUJuOFM5TDJCYjJVV2FvbVlFa2lwNWwtRkd4dGU1MFJNUkpHeU9ITGdJTVVCeTlzYk1CZklSWndDdXpmT0NKX1hGdjlxZ3J2Yl9KLW96aElmZGM?oc=5",
-      "pub_date": 1794182400.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-11-09/95-s-p-500-5-bitcoin-in-new-franklin-etf-drilldown-video",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94NlRCWW9OSGFMcGVaM1F6SGxoYmNHTWRRUmg5N3VHRXRabVZWdk55NkpTWFp0b0dOUEFOUlpEbkhhaTA0anJ4dG8yTTdGTnp6QnFLeHZGMGNsSXNLX1BXQkpoTm5VN3NDTEhSTjU1TjRKRG1WTTBJYzMwaw?oc=5",
+      "pub_date": 1794261636.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video",
       "image": null,
       "description": null
     },
     {
-      "headline": "Strategy buys more bitcoin, and Coinbase gets final federal trust charter",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakFYZU5DVkVZSDZHMFZhWkh1TEQ5M1ZxU3N1VUt6Nld4NHI0V1EzSDdYSEJFOGlrNndCbmkwZEctQTYxcWphSGRhQVJEMDFpME82ZTBXLW9wVHNueUhaYndDV1V4dWd0ZHJTd0txU2RsOGloajAyQS11cHF5dGFQQ041dzB3ZGtXU2c?oc=5",
-      "pub_date": 1794243600.0,
-      "article_url": "https://finance.yahoo.com/video/strategy-buys-more-bitcoin-coinbase-170000376.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c6158ecb624d8a942d9eb4891535b4dc659e3701a73233f0f2a11936fd6b8d4e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-1109_8549.png",
-      "description": "Scott Melker discusses the latest crypto-related headlines. Such as Strategy buying more bitcoin (BTC-USD), Coinbase (COIN) getting its final federal trust charter, and Binance planning a European exit\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
-    },
-    {
-      "headline": "Elon Musk Confirms \u2018Global Bankruptcy\u2019 Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnNGYjNvV3k2Ymw5ZzdiTi04T1p5N0lVYi1YSFhSZGJuWnIwYTJBeVZYb3RqTEw3aGVCNnZtWkx1dWswUzhzRGtXMFAzYTR0RXBPdlpVQUhOaEFkdzBpSm0wM090UVJDc1ZuYjBDVzkydXNjVWIzcW84V2tvaU44NG94VFNFZGg5WU9IWGtaWmk0bUtWeEwwV3FPZk9VY2NqQVhZYnNTOUVPLTAyXzYtUFdVbDl3VDQxN0YyRGtlbktPdGlKLWpUVkFELXJBR05WdWdSeTlB?oc=5",
-      "pub_date": 1794054645.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/07/elon-musk-stokes-global-bankruptcy-fears-that-could-be-a-bitcoin-price-game-changer/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "This Bearish Bitcoin Trade Aims To Profit After Biggest Crypto Hack In History",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajFlb0s4bXJRTGp2SzhiRmdUODI4Q0RUVG5TMjVNWUQ5dnJWSTNIRmVJMjQtandqZWpOQTQ2TU1JX2drc3pFaTAtU19RejA0OVJXcURMd3phVXVITHZVMjE1MkF5TThRMDEwcjRHWVVUWTdKXzUwQm5rOXVOLV9JLUdhbVUtZ3RCRGVCUUtwRTR5d09ONERtY0hjeFJfOXVyME9wOEx0ZGM?oc=5",
-      "pub_date": 1794248280.0,
-      "article_url": "https://www.investors.com/research/options/crypto-bitcoin-binance-biggest-hack-ibit-etf-markets-exchange/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/11/stock-bitcoin-miners-adobe.jpg",
-      "description": "Crypto hacks could grow as AI advances. Investors who see more bitcoin weakness can consider this trade on the iShares Bitcoin Trust ETF."
-    },
-    {
-      "headline": "Bitcoin dips to $74k as regulatory uncertainty, ETF outflows weigh",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTh1Q2dfQ0lSSWw5LWNXOW5OOWVmb2s0emJlWkgxWC1BdmI5c2FfUnZycW83aVJveF8wRERiYXhqZ1E4VlBsb2FjbWhZZHhDTV9WcEh2RGtiSktpY0swZ013blVjVnpNT0p5aUk1NXhqTmpxc0dCUmJtQk9QQ0ZqN2NuSHp2VzBqRVlkWkhTWW1vdzVCbWVuZEVRc1JXV2hMZzZvVUNIUW4?oc=5",
-      "pub_date": 1794208560.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-74k-regulatory-uncertainty-071620566.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Investing.com-- Bitcoin dipped on Monday, extending a steep downturn from last week as a souring regulatory outlook for U.S. markets, following a Democratic sweep of Congress, dampened appetite for cryptocurrencies."
-    },
-    {
-      "headline": "Bitcoin's drop and pop triggers $1 billion in liquidations",
+      "headline": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1lCdHhqRkREYU9TTjQ2Zm1ENDd0T0Z2WHB3MW1RcmhocVdpQzc5WlhfUWdwX0xWWkdLM2t6SVg5VzZfQmd3STZZd1lsNjhjREYxZmpiMzJoaUxIZ19CNUJEZjFGajEyWF8xaVBocjlWa0pWdHdsY29ORTg5VWw0RDZoRHpIdWF1QmN1cGRyVzl4MW5EdFAxSFpJcFJXWTRYcGpEeURGbDFIQ2xublBPN3JidVF4U1A2T0JoWFZyUEQ5RkEtTmdhbEw4czhXY3A3?oc=5",
-      "pub_date": 1794227514.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0wtTXptVWtmRDliZklLM2J0TkdFcFJ3MnRZWWlHdFpQNjBsaHNuUGpxdVUwZWxaeHlaSHd1YlFsQ1hOQ1Aybzl0aEpjazA2d1BuZGVaWU5ZSXV1Y3ZGUlk3NHJUZ3hBaWFGSkYyNFUxMUVZUjd4dll2TkY1Y1pTNUhXTWY4V3dqOFQ3S25qdW9fRF9TVS1lbHdLbW1lMnNvSTllb3hIWkhveTNZMFdfVkM0cU5abUFrLXNHalRnWWg?oc=5",
+      "pub_date": 1794241411.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin holds near $75,000 after tech stock rout, altcoins suffer steeper losses",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1JkcDV0dTNRVXBPMUdTTjZhaVA1a2FNMTlCQnZ6Z1EwSjAyLWxjSk1zZVVOdWJZLVE3X2FUaVNlQUtUaWgtaExiMk5YNk04QzN2bGhpa094SGxEcXZ5NDRfOHc1SlZyS1dCdXV4VXVNWXZuMjVvaEZkbWFhc2RwR1ZFY3hBTXFVV0pSOV9R?oc=5",
-      "pub_date": 1794246180.0,
-      "article_url": "https://fortune.com/2026/11/09/bitcoin-75000-tech-stock-rout-altcoins-steeper-losses/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2303648637-e1794246090241.jpg?resize=1200,600",
-      "description": "The leading cryptocurrency has weathered a political shake-up, a record hack and market turmoil. Its earlier losses may help explain why."
+      "headline": "Strategy sells MSTR shares, buys bitcoin, and repurchases STRC stock",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjVENmxGaE9EaFh1dGNTMVB3Nk4ydi15aVdRSDYwdmVZaWV6cjJfcGQ2bVlZZGZTNG8zd1pLWUo0RDNKRVhPb3doMGp4Y2FMMUdjSWVTWHNHZVNMa3c5RXVXeUFLcktqSE92a0NnSXBicnpITlRwemlMRXlWZEFGeW54dWVFTzZwNTdfVmNBMmdYMGI4cGtBaWxadW1RWUNndEc2TWpINm1NcWtPVEJWeEZSSEhnNnd5NnUxZnBsc2pyLTNBdUphaG01VQ?oc=5",
+      "pub_date": 1794229686.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/strategy-sells-mstr-shares-buys-bitcoin-and-repurchases-strc-stock-432SI-5011934",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "BlackRock: Bitcoin Whales Are Swapping Self-Custody For IBIT At Record Pace",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFV6aERVb1lmemdUdDR4TDFscURWTFVPR21wa2VrdEVIMGZTU3A1OXplRTBEV2FHWk5EMXA3em53WWR4SU0taUZSQzRFVGRTcVRobjVwMGN3RHFxeU5uY243S2hSdU1EaXI2dkNSSWVRREtpM2FmNWlyM3NVd3BFYg?oc=5",
+      "pub_date": 1794241987.0,
+      "article_url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-whales-self-custody-ibit",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/BlackRock-Security-Fears-Are-Driving-Bitcoin-Whales-Into-IBIT.jpg",
+      "description": "BlackRock's Robbie Mitchnick says demand to convert bitcoin into IBIT shares in kind is at a record, with security the top reason as kidnappings and hacks rise."
+    },
+    {
+      "headline": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWJOT2U0ZHNMMWlOSXFKY3pDWFhHSTZaZkZsMGVUZ3E3WVhfRUtQb20zR2o4SzVDdmxLT1NfMVF6Snc1UzEwcTBFQXhlRU93UFpQVGQtUEtiSnpERkJTUENQX0tlMnZTSHJ2UjZEUDdVT2xYVEFZX1Zxc3lDdjBFYzBINm1jVWtKY1RpUGc5Tl9DdWxuelVCY1VjZEVOSGlfX3VlYXZvbGs?oc=5",
+      "pub_date": 1794262020.0,
+      "article_url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260428_Mara_News.jpg",
+      "description": "MARA sold 13,597 bitcoin for approximately $1.1 billion after the quarter ended, using $750 million to fully repay its bitcoin-collateralized loans."
+    },
+    {
+      "headline": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Rc3RqQlFvV1ZhT25iR2hreV95SllyODV6QU4waWFWUXlqbm9sb2hKSnhsZll3SEJUVnpPZWd3R3NoQjZSa1IwWThBQzVBakMzQWdrZlUzdDJNYW5EbWZORVdfV25uNVdid05mYlAyS0RRZjUyV3c?oc=5",
+      "pub_date": 1794251163.0,
+      "article_url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+      "description": "Stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday\u2019s inflation report set to test bets."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-09T20:58:04.680483+00:00"
+  "fetched_at": "2026-11-10T03:21:40.775609+00:00"
 }

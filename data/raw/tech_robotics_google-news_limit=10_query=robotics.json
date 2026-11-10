@@ -15,64 +15,14 @@
       "description": "At the Conference on Robot Learning, NVIDIA is introducing GR00T 2, Isaac Lab 3.0 and new open benchmarks, built in collaboration with partners, bringing precision and scale to robot training."
     },
     {
-      "headline": "Are We Ready for Robots That Code Their Own Skills?",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybFJOdVk0OHdna2ozVl83ZFRtUFViZzdaTFotUXY1djJweHZhQ3h1Y1NEWjRHWHhwdEdqYWtXVzIzZlRSbmlPTkxFeUl3MDA3NEFyeQ?oc=5",
-      "pub_date": 1794124800.0,
-      "article_url": "https://spectrum.ieee.org/agentic-robotics",
-      "image": "https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=1200&height=600&coordinates=0%2C346%2C0%2C673",
-      "description": "AI agents use simulation to solve tough robotics problems with code, not data"
-    },
-    {
-      "headline": "Nvidia announces GR00T 2 robotics model, Isaac Lab 3.0 tools (NVDA:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlJab092T0xkQ09lYkRIVG5hYkhIOVU2VEg3dXFtWlpTWnBXSlZxN05vTU53R1dGZndGdGdZQkt1VkV3VndhbGJQUHB3Vm1hUVVPVXBtZERxWTh4OEdWMXdzUjFSelA5cF9wYUxPUEtmSVNrWTVvWmoxZVNoS082MnVoWWI1SzRkd2FlMnBxbzU5dTRyeFpjUDh1ZHFUZw?oc=5",
-      "pub_date": 1794234600.0,
-      "article_url": "https://seekingalpha.com/news/4669003-nvidia-announces-gr00t-2-robotics-model-isaac-lab-3_0-tools",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlVaZU1LeDhwOFdtY2ltb2ZHRV9mSHdENXZDYm83Nl92dUF2UWpJSU5TbWVzV2RvNXVBNGV4bkVIYmpMNE1LclE4ampWYXRnWkpuUVhrdS1VVE5tcFptakxSYzNGMWpqTkY0Z3BzVFk1WldlenFVcWJhU09WcWlwTUQ0MFY?oc=5",
-      "pub_date": 1793958258.0,
-      "article_url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Boston Dynamics Turns Atlas Into a Wheeled Actuator Testbed",
-      "source": "Unite.AI",
-      "source_url": "https://www.unite.ai",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWhlZ0lZVV9qS0hrd1ZEVTU1R1BWOFBEeTU0bVhVZkZxMExVcjdxUkRlWTd5MThPM1JSZjJOVHIxeXp2WDZWa3FkWDRVRG9uNV9sTTJXaGhrRk1HRi1SbjlDM2E1NkVYVThMOVFMdGF6QnFUdXNjTkptVDNzcElhTkQ3NVhsM3pL?oc=5",
-      "pub_date": 1794255916.0,
-      "article_url": "https://www.unite.ai/boston-dynamics-turns-atlas-into-a-wheeled-actuator-testbed/",
-      "image": "https://www.unite.ai/wp-content/uploads/2026/11/boston-dynamics-turns-atlas-into-a-wheeled-actuator-testbed.jpg",
-      "description": "Boston Dynamics detailed a wheeled Atlas experiment on November 9, 2026, after replacing the humanoid\u2019s feet with wheels to probe actuator limits and the transfer of whole-body reinforcement learning from simulation to h..."
-    },
-    {
-      "headline": "AI-assisted learning platform helps robots reason beyond literal commands",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkZwbnRqbVVWU2JTaWhEY2RqNTd5RWJsYTQ3UW9YUHpwTklIOFdIeVBjdVdFMUV6UkZiMjN1RnM1WXVDdGtReVJwb1VHMUFQUEtiNFFEbHRlZ3NDc05jNldLOVlzc1ZuOU1VV2otNXlYVmxyWlBmYmNlemFfWmU2ZkFiZWJFZV95WS1ETmxvaGo2WlViNC1JRWNTc1RDRzRYV0VnV3duaw?oc=5",
-      "pub_date": 1794200400.0,
-      "article_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-      "image": "https://news.mit.edu/sites/default/files/images/202611/MIT-FLEX-01-press.jpg",
-      "description": "FLEX, a new AI-assisted learning platform developed by MIT engineers, enables motion-planning robots to follow a human\u2019s explicit instructions while also drawing larger generalizations that help to improve its performance."
-    },
-    {
-      "headline": "Serve Robotics: 3 Key Takeaways for Long-Term Investors",
+      "headline": "Agility Robotics (AGLT) Stock Keeps Valuation Questions Open Despite Nasdaq Debut",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3JxZDN4TnFEVWZqNEdMNW8yNWROOFNGV1pjRklYSllBem51M2FnYk5TX2UyLTBMVzNWSldwWTNLT0pYd1FTcnBPWVFpTHFkRWt5cFlKYUVaMUVSYXlFUnd1bGJ6RUoxQTk1YzNaY3BZLV9kOUdWc0k3NnNCM1loZEZRckFjdWZQTXFHeTdTNDhyOElkSzROYUE5OA?oc=5",
-      "pub_date": 1794186240.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-3-key-takeaways-010417331.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fb2e9a830a976a7f0deffbe65ccc135eabc28a29b248063c45b4aa8483629e91/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd508b4a8e6870947697b7de5a1cd5b85.jpg",
-      "description": "Software licensing lets Serve Robotics earn recurring revenue from outside robot builders without buying additional hardware, a model that the fleet-cost gains alone do not capture."
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2xEOEU1Q2xoZnQ0WWVwUjljRDA2QVNFQlBhUGN5ZDdqSUsyamFtZnNqX1BjMmdJdkZ3UFdQR3l4Ukd6UU5PZGxnaVY5bXdIT0VqTGVWY2EzekFfYUQ4VUhfYzlXNXZ0NTJMN1JEczNxbmVIZjVfR3Fkdk8wa2d2RXJYYmtnQVgyd2FyRFJkQzRBVTQyZmJtRWV4OFJQZGM?oc=5",
+      "pub_date": 1794143391.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/agility-robotics-aglt-stock-keeps-130951307.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/63716565ebb160136948d580006923133638709010c1ad8a23ec99841e72d121/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff3fe598c37375f317d411f77b6895621.jpg",
+      "description": "Agility Robotics has just arrived on Nasdaq after its reverse merger, and the stock has already moved enough to make investors ask a simple question: Is the current price putting a fair tag on the company compared with the book value that sits on its balance sheet? The share price has climbed about 21.5% over the past week, which puts fresh focus on whether recent buying now stretches or still aligns with what the underlying net assets support. The reverse merger and Nasdaq debut valued..."
     },
     {
       "headline": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
@@ -85,6 +35,26 @@
       "description": null
     },
     {
+      "headline": "Micron: The Robotic Play Most Investors Are Missing (NASDAQ:MU)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanc2UjJTQTJSb0FHQ05pbGZqZ3lWQUZUT1Zpa1lzeFR5bjdTS2ctZzBNenhaTk5sZk9QeGE3d21fNm9XVlAyWE5kMzVtZ3IzZjF6bm1rZENUdExnSEFuQTRzdGFZMFZ5WGZhOTBMakhwd2kzRjBDakhadFBoZlBXVTZlMGI5dTlKRzZCQUE1LXNHYllBNWc?oc=5",
+      "pub_date": 1794244380.0,
+      "article_url": "https://seekingalpha.com/article/4965145-micron-the-robotic-play-most-investors-are-missing",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Claude Fable 5.2 builds a working operating system with 1,000 agents in eight days",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzJkS1p0RHRLeV9LdWdGSzF5Vnhvd0dyU3NGalFXbzdoNmh5Xy1xc2o5SmFUeExYVnVoa0JSa0lob195RHFOcE5NRG1qRmhPNzEzUENPNm9SbTJVSVktelRrU1hrc3RxU3pvZk14MVNqdk96RWhJM19iS0stMk5CcHV5bEkweVZJUkRCMUViaTB6QzR5?oc=5",
+      "pub_date": 1794256920.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/anthropic-claude-fable-5-2-operating-system",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-design-2026-11-10T014425.857.jpg",
+      "description": "Anthropic is giving Claude increasingly difficult engineering assignments, and its latest models are delivering some remarkable results."
+    },
+    {
       "headline": "These Robotic Arms Are Powered by Algae. Watch How They Move",
       "source": "WIRED",
       "source_url": "https://www.wired.com",
@@ -95,16 +65,46 @@
       "description": "The key to the movement of these flexible robots is the algae\u2019s photosynthetic capabilities."
     },
     {
-      "headline": "Ambi Robotics seeks Bay Area manufacturing space for next generation of AI-driven robots",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFJFWWFEMC1haEhGbFgwZWNMbktBVVNmeTVNZWRUZXdRZDV0TlZka0RPUE4tVHhjSFFQQ19Gc3ltQW9ackNDb2EwaUtXLVViUWJRSV9PUllfZTExS0RCWGJHVHFIakRBb0wwQUdtM0EwbGJ3SFB0M3l1UlNGWVRsVl9nbFVnT2JBZzEzM09rSGJZRTQ4WWg0a3lFNm85MmM5Q0NSUkdSMGc1aXZa?oc=5",
-      "pub_date": 1793991180.0,
-      "article_url": "https://www.bizjournals.com/sanfrancisco/news/2026/11/06/ambi-robotics-ai-robots-bay-area-manufacturing.html",
+      "headline": "AI agents test and improve robot code in virtual worlds before deployment",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTRHl4RnpwREUzVlJickl4TzRSRGZ1WGVXaUF5LVBBcndESTM4UzhqMGpKOVVCUEhKakxsbW9mQUQyWkVYT01HbTZsZExkRkYyZHhjbzdOUUpBU25MbkhaZktuaDd5YVl0YnhJbThic19JR3pfOWhPZA?oc=5",
+      "pub_date": 1794233490.0,
+      "article_url": "https://techxplore.com/news/2026-11-ai-agents-robot-code-virtual.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkZwbnRqbVVWU2JTaWhEY2RqNTd5RWJsYTQ3UW9YUHpwTklIOFdIeVBjdVdFMUV6UkZiMjN1RnM1WXVDdGtReVJwb1VHMUFQUEtiNFFEbHRlZ3NDc05jNldLOVlzc1ZuOU1VV2otNXlYVmxyWlBmYmNlemFfWmU2ZkFiZWJFZV95WS1ETmxvaGo2WlViNC1JRWNTc1RDRzRYV0VnV3duaw?oc=5",
+      "pub_date": 1794200400.0,
+      "article_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "image": "https://news.mit.edu/sites/default/files/images/202611/MIT-FLEX-01-press.jpg",
+      "description": "FLEX, a new AI-assisted learning platform developed by MIT engineers, enables motion-planning robots to follow a human\u2019s explicit instructions while also drawing larger generalizations that help to improve its performance."
+    },
+    {
+      "headline": "Are We Ready for Robots That Code Their Own Skills?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybFJOdVk0OHdna2ozVl83ZFRtUFViZzdaTFotUXY1djJweHZhQ3h1Y1NEWjRHWHhwdEdqYWtXVzIzZlRSbmlPTkxFeUl3MDA3NEFyeQ?oc=5",
+      "pub_date": 1794124800.0,
+      "article_url": "https://spectrum.ieee.org/agentic-robotics",
+      "image": "https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=1200&height=600&coordinates=0%2C346%2C0%2C673",
+      "description": "AI agents use simulation to solve tough robotics problems with code, not data"
+    },
+    {
+      "headline": "Chinese robotics stock surge on Apple robotics research",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEo1c01fMFpfZElheWJrVExPQXE5djFQOG9aQm9nQWRUdUEyZ0FmbTROSGZ3S1pNUGd6OUp6R05Rd21XMkY5NGpNRlRMSUZzRGkzd19SYlZ6eDctT3lYN2JEdjd2ZUhZSXNCMG1JNHpmel90SXdhZ2Y1N2pVVEROZ2lJZHA2eThiaDVwZWhzZms5SXhKaWVUMl96NEJENXBuTlJhQi1ObHR5RDBnYV91b2Zn?oc=5",
+      "pub_date": 1794213133.0,
+      "article_url": "https://www.investing.com/news/stock-market-news/chinese-robotics-stock-surge-on-apple-robotics-research-5010497",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-09T20:58:07.684875+00:00"
+  "fetched_at": "2026-11-10T03:21:34.862087+00:00"
 }

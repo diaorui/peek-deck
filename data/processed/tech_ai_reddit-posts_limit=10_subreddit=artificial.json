@@ -13,6 +13,17 @@
       "description": "Google just added two new TPU systems to its lineup, the TPU 8tx and the TPU 8i Max, and the coverage is mostly about one thing: whether Google can take a real bite out of Nvidia. If you've seen the name and wondered what a TPU actually is, the short answer is a chip Google designed for AI math and nothing else, and it's a big part of why Google doesn't have to buy all of its AI hardware from Nvidia like most of the industry does."
     },
     {
+      "title": "Anthropic shows it has a model stronger than Fable 5.2 already",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xs7vim/anthropic_shows_it_has_a_model_stronger_than/",
+      "published": 1794268331.0,
+      "thumbnail": "https://preview.redd.it/tkqvwyvxco0i1.jpeg?width=640&crop=smart&auto=webp&s=9f7b8a2fde3774fe05908faf9fc83cda9050a0d1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://fixupx.com/AndrewCurran_/status/2119930955888746627"
+    },
+    {
       "title": "Nvidia stock falls after company opens probe into CEO\u2019s relationship with Chinese spy",
       "author": "nbcnews",
       "url": "https://www.reddit.com/r/artificial/comments/1xrw6dl/nvidia_stock_falls_after_company_opens_probe_into/",
@@ -24,17 +35,6 @@
       "description": "Jensen Huang is one of the most consequential leaders in the AI boom, but the revelations didn\u2019t stop other tech stocks from surging Monday."
     },
     {
-      "title": "An AI shrinking the font to pass a slide test feels a little too human.",
-      "author": "_ChuckBorris",
-      "url": "https://www.reddit.com/r/artificial/comments/1xruing/an_ai_shrinking_the_font_to_pass_a_slide_test/",
-      "published": 1794237909.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Apparently \u201ctechnically done\u201d has made it into AI training too. I recently read about Genspark\u2019s Gen-1 Slides training and that one detail really stuck with me. Its model learned to shrink fonts to get around text-overflow checks. The team described catching these during training and updating the grader. Still, the font thing is such a good example of the problem. No overflowing text? Great. Nobody in the back row can read it? Different department, apparently. It makes me wonder how many impressive agent scores are measuring how well the model satisfies a check that only roughly describes the job. So yeah, what would convince you an agent was actually getting better at the work, rather than getting better at pleasing whatever grades it? Especially for something like slides, where \u201cgood\u201d is already pretty subjective."
-    },
-    {
       "title": "MIT's WorldParticle: one AI model simulates sand, cloth, fluids, granular materials and folding proteins - about 100x faster than numerical simulators on protein motion",
       "author": "winer666",
       "url": "https://www.reddit.com/r/artificial/comments/1xs1ggg/mits_worldparticle_one_ai_model_simulates_sand/",
@@ -44,6 +44,28 @@
       "site_name": null,
       "favicon": null,
       "description": "Researchers at MIT, the University of British Columbia and partner institutions have built WorldParticle, a single transformer-based model that simulates six kinds of physical behaviour - cloth, elastic solids, fluids, granular materials, molecular dynamics and more - where each used to need its own dedicated solver. Instead of being programmed with each governing equation, it treats everything as particles and learns the dynamics from data, predicting how they move one step at a time. The same architecture beat existing neural simulators on accuracy across all six categories, and modelled protein motion about 100x faster than numerical simulators. The paper is published in ACM Transactions on Graphics and will be presented at SIGGRAPH Asia. MIT News covered it today: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109 One honest caveat from the coverage: the model trades some per-phenomenon accuracy against specialist solvers, and one parameter set is trained per category - a single shared model across everything is still future work. Simulation is the bottleneck for designing everything from soft robots to new drugs. If one model can cover many materials, what changes first - the pace of drug discovery, robotics simulation, or something else entirely?"
+    },
+    {
+      "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
+      "author": "jldew",
+      "url": "https://www.reddit.com/r/artificial/comments/1xs84k6/anthropic_unveils_new_fable_mythos_models_as/",
+      "published": 1794268935.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": "Nov 9 (Reuters) - Anthropic on Monday unveiled two new AI models, Claude Fable 5.2 and Claude Mythos \u200b5.2, as the OpenAI rival looks to \u200cstrengthen its position in the fast-growing AI market ahead of its planned IPO. Here are more details: Claude Fable 5.2 \u200btargets coding, reasoning and AI agent \u200btasks, while Claude Mythos 5.2 targets approved \u2060cybersecurity and life-sciences research applications Anthropic said access to \u200bClaude Mythos 5.2 is restricted to organizations approved \u200bthrough its verification programs for cybersecurity and life-sciences research, while Claude Fable 5.2 is available more broadly Anthropic said \u200bthe new models generate outputs up to \u200b30% faster than their Claude 5.1 predecessors and communicate \u200cmore \u2060clearly with users The company said the models are priced at $8 per million input tokens and $40 per million output tokens, lower than the pricing \u200bfor previous \u200bFable and \u2060Mythos releases The launch follows Anthropic's rollout of Claude Haiku 5.5 in October as \u200bthe AI startup broadens its product \u200blineup \u2060ahead of a planned IPO Competition in the AI industry has also intensified as OpenAI, Alphabet's (GOOGL.O), opens new tab Google and Meta Platforms (META.O), opens new tab rapidly release \u2060new \u200bmodels focused on coding, reasoning \u200band AI agents to attract developers and enterprise customers"
+    },
+    {
+      "title": "An AI shrinking the font to pass a slide test feels a little too human.",
+      "author": "_ChuckBorris",
+      "url": "https://www.reddit.com/r/artificial/comments/1xruing/an_ai_shrinking_the_font_to_pass_a_slide_test/",
+      "published": 1794237909.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Apparently \u201ctechnically done\u201d has made it into AI training too. I recently read about Genspark\u2019s Gen-1 Slides training and that one detail really stuck with me. Its model learned to shrink fonts to get around text-overflow checks. The team described catching these during training and updating the grader. Still, the font thing is such a good example of the problem. No overflowing text? Great. Nobody in the back row can read it? Different department, apparently. It makes me wonder how many impressive agent scores are measuring how well the model satisfies a check that only roughly describes the job. So yeah, what would convince you an agent was actually getting better at the work, rather than getting better at pleasing whatever grades it? Especially for something like slides, where \u201cgood\u201d is already pretty subjective."
     },
     {
       "title": "I tried the AI slop detector you can add to your web browser",
@@ -68,6 +90,17 @@
       "description": "Jensen admits to having an affair with a woman who turned out to be a chinese spy, despite having a wife and kids, here is his message to the company: \"I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my family has given me love and support. They deserve my honesty and loyalty. Instead, I let them down and damaged the life we built together. I take full responsibility for what I did and the hurt I caused, and I accept the criticism that comes with it. To my wife and family: I love you. I know an apology cannot undo what I have done. I hope our family will heal and that, over time, I can earn back your trust. To my colleagues at NVIDIA, including those I have worked alongside for decades, and to our board, partners, and shareholders around the world: you deserve better from me. Leading NVIDIA is the privilege of my life. My responsibility is to serve you and be worthy of your trust. I have fallen short of that responsibility. I am fully committed to NVIDIA and will work to earn back your confidence. Regarding the national security concerns raised in news reports, NVIDIA\u2019s Board of Directors has initiated an independent investigation. I support the investigation and will cooperate fully. I love our country and our company. I am committed to protecting NVIDIA and supporting America\u2019s national security. I am proud and grateful to be an American. My family bears no responsibility for my choices. I do. Please give them privacy. Jensen\""
     },
     {
+      "title": "AI in Universities?",
+      "author": "sharksrcxxl",
+      "url": "https://www.reddit.com/r/artificial/comments/1xs7hq0/ai_in_universities/",
+      "published": 1794267325.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Do university professors typically run essays through AI checkers? I\u2019m a first year college student and I\u2019m worried about my essays being flagged for AI. I\u2019m particularly paranoid about my essays being flagged for AI after a fully human written essay I wrote was flagged for AI in high school and I almost got into deep trouble for it. The essay I\u2019m currently working on is worth a good chunk of my grade in the class and every AI checker I\u2019ve run it through flags it for AI even though I haven\u2019t even went as far as to use Grammarly. I haven\u2019t even gotten any of my information off the essay off of the AI overview that pops up when you Google anything. I feel like I\u2019m being punished for using academic vocabulary and grammar. I write like a college student and get flagged for AI, but if I write like a 4th grader, I get a bad grade."
+    },
+    {
       "title": "As an ML/CV engineer of 7+ years, the current generative AI hype train makes me pessimistic. Where are the non-LLM, real-world hard problems still waiting to be solved?",
       "author": "SchwingBesen",
       "url": "https://www.reddit.com/r/artificial/comments/1xrqpq1/as_an_mlcv_engineer_of_7_years_the_current/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I love machine learning. I spent years training custom vision models, working with time-series data, and architecting multimodal pipelines from scratch. But the current shift toward treating AI exclusively as \"prompt engineering\" and massive LLM wrappers feels reductive and disappointing. I want to build software that creates genuine, positive real-world impact. Specifically in fields like environmental science, specialized B2B workflows, or complex physical monitoring, where off-the-shelf generative APIs simply don't cut it. For engineers and researchers still working on core ML/CV: What are the high-impact, non-LLM problems that still desperately need custom models and deep domain expertise? How are you maintaining enthusiasm for foundational data science and ML craftsmanship in an industry currently obsessed with generative text and image tools?"
-    },
-    {
-      "title": "Automattic launches Spacefast for AI-built app deployment with approval checks",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1xs1vhm/automattic_launches_spacefast_for_aibuilt_app/",
-      "published": 1794254087.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Automattic launched Spacefast today, a new company that lets users connect an existing AI assistant or coding agent to build, publish, and manage apps and websites. Its announcement lists hosting, a domain, a SQL database, versioned permanent URLs, an API, a CLI, and an MCP server. Spacefast also has approval checks for sensitive agent actions such as rollbacks and DNS changes. It charges for infrastructure rather than AI credits, so users keep the agent and model they already use. Built-in app authentication is listed as coming soon. The practical trade-off is that deployment becomes part of the agent workflow, but the approval boundary still matters. A coding agent can publish a change, roll back a release, or alter DNS, so these actions should not be silently trusted. Sources: Automattic: https://automattic.com/2026/11/09/meet-spacefast/ TechCrunch: https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
-    },
-    {
-      "title": "RuntimeWire discovers Midjourney patent for an ultrasound collar that reads speech from your neck",
-      "author": "ryanmerket",
-      "url": "https://www.reddit.com/r/artificial/comments/1xrie2x/runtimewire_discovers_midjourney_patent_for_an/",
-      "published": 1794198739.0,
-      "thumbnail": "https://external-preview.redd.it/dBnmweJHM9R0gvwDP1-Nxl1HQZaS3zSSm4lSkTpN32Q.jpeg?width=640&crop=smart&auto=webp&s=1ff0b2a88ca3b1ed013d6722dd0f5177bb4f5475",
-      "external_url": "https://runtimewire.com/article/runtimewire-discovers-midjourney-patent-for-an-ultrasound-collar-that-reads",
-      "site_name": "RuntimeWire",
-      "favicon": "https://runtimewire.com/apple-touch-icon.png",
-      "description": "A Midjourney patent application published June 18th, 2026 describes an open collar that bounces ultrasound off the neck to recover speech for a language model."
-    },
-    {
-      "title": "What are you actually using AI agents for in your day-to-day life?",
-      "author": "According-Mirror-463",
-      "url": "https://www.reddit.com/r/artificial/comments/1xrhmpk/what_are_you_actually_using_ai_agents_for_in_your/",
-      "published": 1794196274.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I see a lot of demos where an AI agent can supposedly research something, create files, build presentations, or handle a whole workflow on its own. But I'm more interested in what people are actually using them for after the initial excitement wears off. Is anyone using agents regularly for work, studying, or personal projects? What tasks do they genuinely save you time on, and what still needs a lot of babysitting? Real experiences would be more helpful than another list of things AI can supposedly do."
     }
   ],
-  "fetched_at": "2026-11-09T20:57:36.372245+00:00"
+  "fetched_at": "2026-11-10T03:21:05.507604+00:00"
 }
