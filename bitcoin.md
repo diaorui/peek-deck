@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-10T03:21:42.785617+00:00'
+updated: '2026-11-10T11:33:13.376896+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 10, 2026 at 03:21 UTC  
+**Last Updated:** November 10, 2026 at 11:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,822.91
+### $74,395.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -7.0%  
-**30d:** -8.6%  
-**90d:** +17.9%  
-**1y:** -27.5%  
+**24h:** -1.0%  
+**7d:** -7.9%  
+**30d:** -9.5%  
+**90d:** +16.8%  
+**1y:** -28.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1503.29B
+**Market Cap:** $1493.05B
 Rank #1
 
-**Circulating Supply:** 20,110,078 BTC
+**Circulating Supply:** 20,110,225 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--40.7%
+-41.1%
 
 **All-Time Low:** $67.81
-+110138.9%
++109386.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Office: Michael Puts Dunder Mifflin on a Bitcoin Standard (Part 1)](https://www.reddit.com/r/Bitcoin/comments/1xrvem5/the_office_michael_puts_dunder_mifflin_on_a/)**
 
-11h ago
+19h ago
 
 ---
 
 **[∞/21M](https://www.reddit.com/r/Bitcoin/comments/1xrtawq/21m/)**
 
-12h ago
+20h ago
 
 ---
 
@@ -93,19 +93,19 @@ Rank #1
 
 The miner heats water to 60°C for the radiators and underfloor heating in a 180 m² home. So while it mines BTC, the heat it gives off warms the house. The setup cost around $20,000. Mining revenue could cover the electricity bill, but that depends on Bitcoin’s price, local power rates and mining difficulty. And if the 2028 halving cuts that income, the house will still need the same amount of heat.
 
-12h ago
+20h ago
 
 ---
 
 **[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1xs9tbj/buy_bitcoin/)**
 
-2h ago
+10h ago
 
 ---
 
 **[Same](https://www.reddit.com/r/Bitcoin/comments/1xrl6pk/same/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ The miner heats water to 60°C for the radiators and underfloor heating in a 180
 
 Following up on yesterday’s post about 3+ year coin volume dropping to a multi-year low of 0.08% during the weekend price action. A question from that thread caused me to dig into this deeper and I wanted to share an animated visual breakdown with more context of how these coin-age cohorts actually shift over time. Just the data, not predictions. Why this metric matters: Price feeds tell you what happened, but on-chain age cohorts tell you who is driving it. When over 50% of the active supply (coins held >3 years) completely goes dormant during sharp intraday volatility, it signals high-conviction supply withholding rather than distribution. Why I put this together: I recently started an educational channel called Over 21 Million dedicated strictly to breaking down raw on-chain metrics and network dynamics that I track in my spare time and post about. The goal isn't to make price predictions or tell anyone what direction the market will go next... nobody knows that. But historical behavior and liquidity patterns frequently rhyme. My focus is simply putting transparent, high-signal data into people's hands so everyone can interpret the underlying mechanics and form their own objective conclusions instead of reacting to exchange noise. Feedback, particularly requests for what to look into next are valuable to me. If this sparks any curiosity to look at the universe of UTXOs or raises any questions please don't hesitate to ask. Cheers.
 
-8h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ Following up on yesterday’s post about 3+ year coin volume dropping to a multi
 
 The LNbits project issued an emergency warning instructing operators to shut down their LNbits servers following reported exploitation. One operator reported losing 2,285,545 satoshis (approximately 0.023 BTC) after attackers allegedly exploited an extension. The project initially warned about its Paywall extension before expanding the warning to all LNbits servers. As of 09:00 UTC November 9, no fixed release had been announced. LNbits is used to manage Bitcoin Lightning payments. Vulnerable server software can put funds at risk, even though the underlying Bitcoin network is not compromised. Community action: High priority for an administrator alert. LNbits operators should follow the project's shutdown instructions and wait for verified fixes.
 
-🔗 [The Hacker News](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html?m=1) • 11h ago
+🔗 [The Hacker News](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html?m=1) • 19h ago
 
 ---
 
@@ -129,7 +129,7 @@ The LNbits project issued an emergency warning instructing operators to shut dow
 
 The world is on fire, and we're all still at the table yelling at a chart at 3 AM. So let's hear it. No "we're so early," no shilling, just the one move that still haunts you.
 
-15h ago
+23h ago
 
 ---
 
@@ -137,7 +137,7 @@ The world is on fire, and we're all still at the table yelling at a chart at 3 A
 
 I seen that cashapp is offering a 2 percent weekly bonus payout for leaving bitcoin on their app. Has anyone done this yet and what are your thoughts on it?
 
-48m ago
+9h ago
 
 ---
 
@@ -155,55 +155,35 @@ Prepare for what's coming. Put in the work to understand bitcoin.
 
 **[Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/11/09/elon-musk-stokes-global-bankruptcy-fears-that-could-be-a-bitcoin-price-game-changer/)**
 
-Forbes • 6h ago
+Forbes • 14h ago
 
 ---
 
-**[Strategy (MSTR) Is Building A Global Bitcoin Bank](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-building-global-bitcoin-021814783.html)**
+**[LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)**
 
-MicroStrategy (NasdaqGS:MSTR) outlined plans to become a global Bitcoin bank at a major fintech conference, as described by CEO Phong Le. Phong Le detailed efforts to link traditional finance services with decentralized Bitcoin holdings for institutional clients. The corporation aims to build full-scale institutional Bitcoin banking capabilities that integrate with existing financial infrastructure. MicroStrategy's push toward full-scale institutional Bitcoin banking is a major shift that...
+LNbits urges server shutdowns amid attacks after an operator reports losing 2.28 million satoshis through an extension exploit.
 
-Yahoo Finance • 39m ago
-
----
-
-**[Crypto Miners Shifted to AI. A Regulatory Maze Could Threaten the Boom.](https://www.barrons.com/articles/bitcoin-miners-stock-ai-b92f5e21)**
-
-Barron's • 7h ago
+The Hacker News • 1d ago
 
 ---
 
-**[Miami-Dade Tax Collector now accepts Bitcoin for property tax payments](https://www.news4jax.com/news/local/2026/11/09/miami-dade-tax-collector-now-accepts-bitcoin-for-property-tax-payments/)**
+**[Live news: Traders price in fed rate hike for December as bitcoin and gold retreat](https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat)**
 
-Miami-Dade County Tax Collector Dariel Fernandez announced Monday that his office has begun accepting Bitcoin as a payment option for property taxes — both online and in person — making Miami-Dade one of the first government agencies in the country to do so.
-
-News4JAX • 4h ago
+CoinDesk • 47m ago
 
 ---
 
-**[Watch S&P 500 Erases Midterm Losses, Bitcoin Bounce](https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video)**
+**[Bitcoin to $2M? Investment Firm Backs Huge Target but Warns of $30K Crash First](https://finance.yahoo.com/markets/crypto/articles/bitcoin-2m-investment-firm-backs-102447422.html)**
 
-Bloomberg.com • 5h ago
+I/O Fund has maintained its $2 million Bitcoin target while warning of a potential decline toward $30,000–$40,000. Its bearish outlook depends on key price levels.…
 
----
-
-**[A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees](https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees)**
-
-CoinDesk • 10h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Strategy sells MSTR shares, buys bitcoin, and repurchases STRC stock](https://www.investing.com/news/cryptocurrency-news/strategy-sells-mstr-shares-buys-bitcoin-and-repurchases-strc-stock-432SI-5011934)**
+**[Bitcoin (BTC) price slips as ETF outflows mount ahead of U.S. CPI data: Crypto Markets Today](https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report)**
 
-Investing.com • 14h ago
-
----
-
-**[BlackRock: Bitcoin Whales Are Swapping Self-Custody For IBIT At Record Pace](https://bitcoinmagazine.com/news/blackrock-bitcoin-whales-self-custody-ibit)**
-
-BlackRock's Robbie Mitchnick says demand to convert bitcoin into IBIT shares in kind is at a record, with security the top reason as kidnappings and hacks rise.
-
-Bitcoin Magazine • 10h ago
+CoinDesk • 9m ago
 
 ---
 
@@ -211,29 +191,45 @@ Bitcoin Magazine • 10h ago
 
 MARA sold 13,597 bitcoin for approximately $1.1 billion after the quarter ended, using $750 million to fully repay its bitcoin-collateralized loans.
 
-The Block • 5h ago
+The Block • 13h ago
 
 ---
 
-**[Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report](https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation)**
+**[Bitcoin pinned below $75k as regulatory uncertainty, ETF outflows persist](https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-75k-as-regulatory-uncertainty-etf-outflows-persist-5014179)**
 
-Stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets.
+Investing.com • 5h ago
 
-Decrypt • 8h ago
+---
+
+**[Why Saylor's 'Underwater' bitcoin narrative is misleading](https://finance.yahoo.com/video/why-saylors-underwater-bitcoin-narrative-170000340.html)**
+
+Scott Melker discusses Michael Saylor and Strategy's (MSTR) latest 1,036 bitcoin (BTC-USD), challenging the narrative that the company's bitcoin holdings are underwater. Melker explains why he believes major news outlets are missing the bigger picture when it comes to Strategy's long-term bitcoin investment strategy.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Strategy’s $64 Billion Bitcoin Bet Just Went Underwater](https://247wallst.com/investing/2026/11/09/strategys-64-billion-bitcoin-bet-just-went-underwater/)**
+
+Bitcoin fell below the $75,451 average Strategy has paid for its 849,327 coins, putting a $64 billion position about $780 million underwater. Here is what 1,000 shares actually own after the notes and preferred stock, what the MSCI decision on Wednesday and the quarter-end mark do to it, and the sell, hold or trim math for a retiree holding the stock.
+
+24/7 Wall St. • 22h ago
+
+---
+
+**[Digital Asset Treasury Firms Continue to Buy Bitcoin and Ethereum. That's Why I'm Bullish on These Two Cryptocurrencies.](https://www.fool.com/investing/2026/11/09/digital-asset-treasury-firms-continue-to-buy-bitco/)**
+
+These big buyers have slowed their purchases, but they haven't stopped.
+
+The Motley Fool • 1d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Show HN: Bitcoin-rs – An independent Bitcoin full node in Rust](https://news.ycombinator.com/item?id=50348456)**
-
-Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs development by creating an account on GitHub.
-
-⬆️ 10 • 💬 0 • 6d ago • [GitHub](https://github.com/gosuda/bitcoin-rs)
-
----
 
 **[The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers](https://news.ycombinator.com/item?id=50357834)**
 
@@ -245,7 +241,7 @@ Independent bitcoin full node in Rust. Contribute to gosuda/bitcoin-rs developme
 
 The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlesticks, a footprint chart and every trade as a bubble. Free, no sign-up.
 
-⬆️ 3 • 💬 0 • 3d ago • [Swiftedge](https://swiftedge.uk/depth)
+⬆️ 3 • 💬 0 • 4d ago • [Swiftedge](https://swiftedge.uk/depth)
 
 ---
 
@@ -261,7 +257,7 @@ Silent Payments has suffered from the lack of multisig & hardware wallet support
 
 Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32, cpuminer). Every share&#39;s difficulty in real time, records with confetti and siren, pool failover, luck meter. Z...
 
-⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/Modanez/HomeMinerProxy)
+⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/Modanez/HomeMinerProxy)
 
 ---
 
@@ -275,15 +271,7 @@ satd is the first Bitcoin node implementation to allow optional full OP_RETURN v
 
 **[Why Gmx.com?](https://news.ycombinator.com/item?id=50429813)**
 
-⬆️ 2 • 💬 1 • 8h ago
-
----
-
-**[Discord is ditching Electron and its new app uses less RAM](https://news.ycombinator.com/item?id=50378625)**
-
-Discord is moving its apps fully over to the Rust programming language.
-
-⬆️ 495 • 💬 438 • 4d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
+⬆️ 2 • 💬 1 • 16h ago
 
 ---
 
@@ -291,13 +279,13 @@ Discord is moving its apps fully over to the Rust programming language.
 
 ## YouTube Videos: "bitcoin"
 
-**[Coinbase just got what it always wanted.](https://www.youtube.com/watch?v=36HPi9UZPOc)**
+**[Bitcoin Has Only Done This Twice Before. Here’s What Came Next](https://www.youtube.com/watch?v=qo8rDU3bbMo)**
 
-Strategy bought 1036 Bitcoin for about $81.9 million, taking its holdings past 850000 for the first time. Scott Melker's point is that ...
+Bitcoin just lost its 50-week moving average after five straight red weeks, reigniting fears that the Bitcoin bear market is back.
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 34K • 👍 509 • 💬 93 • ⏱️ 14:50 • 9h ago
+👁️ 31K • 👍 1K • 💬 184 • ⏱️ 17:23 • 13h ago
 
 ---
 
@@ -307,17 +295,27 @@ Why is Bitcoin still trading around $75K–$80K when Anthony Scaramucci believes
 
 📺 Cointelegraph
 
-👁️ 29K • 👍 339 • 💬 56 • ⏱️ 11:26 • 12h ago
+👁️ 38K • 👍 389 • 💬 74 • ⏱️ 11:26 • 21h ago
 
 ---
 
-**[Bitcoin Has Only Done This Twice Before. Here’s What Came Next](https://www.youtube.com/watch?v=qo8rDU3bbMo)**
+**[Coinbase just got what it always wanted.](https://www.youtube.com/watch?v=36HPi9UZPOc)**
 
-Bitcoin just lost its 50-week moving average after five straight red weeks, reigniting fears that the Bitcoin bear market is back.
+Strategy bought 1036 Bitcoin for about $81.9 million, taking its holdings past 850000 for the first time. Scott Melker's point is that ...
 
-📺 Simply Bitcoin
+📺 Yahoo Finance
 
-👁️ 14K • 👍 894 • 💬 167 • ⏱️ 17:23 • 5h ago
+👁️ 50K • 👍 599 • 💬 94 • ⏱️ 14:50 • 17h ago
+
+---
+
+**[Bitcoin, AI &amp; $40 Trillion in Debt: What Happens Next?](https://www.youtube.com/watch?v=wO4A4TR0dw0)**
+
+Tillman Holloway is the CEO of Arch Public. In this conversation, we break down why volatility is showing up everywhere, what it ...
+
+📺 Anthony Pompliano
+
+👁️ 22K • 👍 324 • 💬 10 • ⏱️ 47:59 • 13h ago
 
 ---
 
@@ -327,57 +325,7 @@ Could Bitcoin crash to $30000 before eventually reaching $2 million? A bold new 
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 1K • 💬 102 • ⏱️ 9:11 • 1d ago
-
----
-
-**[Bitcoin Falls to the Bull Market Support Band](https://www.youtube.com/watch?v=0AGXzdZNwq0)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 182K • 👍 6K • 💬 208 • ⏱️ 9:28 • 1d ago
-
----
-
-**[Bitcoin Just Closed Below the 50 Week (I&#39;m Not Worried)](https://www.youtube.com/watch?v=zpc4Eym2q48)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trade on BTCC & 10% ...
-
-📺 Aaron Bennett
-
-👁️ 1K • 👍 101 • 💬 10 • ⏱️ 12:44 • 2h ago
-
----
-
-**[THE PATTERN THAT MARKED THE LAST BITCOIN BOTTOM FLASHED AGAIN!](https://www.youtube.com/watch?v=Gw2ynhMiBis)**
-
-The pattern that marked the 2022 Bitcoin bottom just flashed again, and price is sitting on the 50% level of the weekly chart.
-
-📺 100XClub
-
-👁️ 8K • 👍 681 • 💬 87 • ⏱️ 9:10 • 11h ago
-
----
-
-**[BITCOIN IS ABOUT TO SHOCK EVERYONE! (History Is Repeating)](https://www.youtube.com/watch?v=IRDZ6_7cUrw)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
-
-📺 Crypto Kid
-
-👁️ 8K • 👍 264 • 💬 23 • ⏱️ 11:26 • 10h ago
-
----
-
-**[Bitcoin in BIG TROUBLE (Nvidia Sell-Off BEGINS)](https://www.youtube.com/watch?v=o6jppPs5mNo)**
-
-Bitcoin is facing major downside pressure as Nvidia's sell-off raises fears across the stock market and crypto markets! We break ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 241 • 💬 61 • ⏱️ 59:59 • 10h ago
+👁️ 40K • 👍 1K • 💬 102 • ⏱️ 9:11 • 1d ago
 
 ---
 
@@ -387,7 +335,47 @@ Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): h
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 187 • 💬 30 • ⏱️ 7:50 • 4h ago
+👁️ 5K • 👍 235 • 💬 28 • ⏱️ 7:50 • 13h ago
+
+---
+
+**[Terrible News for Nvidia &amp; Crypto Investors](https://www.youtube.com/watch?v=zzUEnuqJaeg)**
+
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 1K • 💬 49 • ⏱️ 10:00 • 10h ago
+
+---
+
+**[Bitcoin Falls to the Bull Market Support Band](https://www.youtube.com/watch?v=0AGXzdZNwq0)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 191K • 👍 6K • 💬 211 • ⏱️ 9:28 • 1d ago
+
+---
+
+**[Crypto is about to get EXTREMELY INTERESTING! (What Comes Next?)](https://www.youtube.com/watch?v=Ov5jg52HqIY)**
+
+Crypto is about to get INTERESTING! What Comes Next? Earn $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
+
+📺 Altcoin Daily
+
+👁️ 81K • 👍 2K • 💬 242 • ⏱️ 12:28 • 1d ago
+
+---
+
+**[Bitcoin in BIG TROUBLE (Nvidia Sell-Off BEGINS)](https://www.youtube.com/watch?v=o6jppPs5mNo)**
+
+Bitcoin is facing major downside pressure as Nvidia's sell-off raises fears across the stock market and crypto markets! We break ...
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 248 • 💬 53 • ⏱️ 59:59 • 18h ago
 
 ---
 

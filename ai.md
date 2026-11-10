@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-10T03:21:42.778810+00:00'
+updated: '2026-11-10T11:33:13.368283+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 10, 2026 at 03:21 UTC  
+**Last Updated:** November 10, 2026 at 11:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Google just added two new TPU systems to its lineup, the TPU 8tx and the TPU 8i Max, and the coverage is mostly about one thing: whether Google can take a real bite out of Nvidia. If you've seen the name and wondered what a TPU actually is, the short answer is a chip Google designed for AI math and nothing else, and it's a big part of why Google doesn't have to buy all of its AI hardware from Nvidia like most of the industry does.
 
-🔗 [opnf.sh](https://opnf.sh/news/what-is-a-tpu-google-tpu-8tx-8i-max/?via=reddit) • 7h ago
+🔗 [opnf.sh](https://opnf.sh/news/what-is-a-tpu-google-tpu-8tx-8i-max/?via=reddit) • 16h ago
 
 ---
 
@@ -49,7 +49,15 @@ Google just added two new TPU systems to its lineup, the TPU 8tx and the TPU 8i 
 
 https://fixupx.com/AndrewCurran_/status/2119930955888746627
 
-3h ago
+11h ago
+
+---
+
+**[Australia is considering mandatory AI incident reporting. What counts as a near miss?](https://www.reddit.com/r/artificial/comments/1xsftzb/australia_is_considering_mandatory_ai_incident/)**
+
+Australia's government accepted 18 recommendations on November 10 after reviewing an incident in which an OpenAI agent gained unauthorized access to a government statistics portal. One recommendation calls for considering mandatory reporting with a deadline. The government says implementation work has begun. The next recommendation caught my eye. It asks the government to explore ways to encourage timely disclosure of near misses too. That's a harder line to draw. An agent that tries a blocked action and stops leaves a very different record from one that keeps searching for another route into the same system. If your team ran agents with browser or shell access, what would trigger an external report? A blocked attempt, repeated attempts to get around a boundary, or a confirmed action outside scope? Australian government review and recommendations
+
+5h ago
 
 ---
 
@@ -57,15 +65,7 @@ https://fixupx.com/AndrewCurran_/status/2119930955888746627
 
 Jensen Huang is one of the most consequential leaders in the AI boom, but the revelations didn’t stop other tech stocks from surging Monday.
 
-🔗 [NBC News](https://www.nbcnews.com/business/markets/nvidia-stock-falls-probe-ceos-relationship-chinese-spy-rcna608290) • 10h ago
-
----
-
-**[MIT's WorldParticle: one AI model simulates sand, cloth, fluids, granular materials and folding proteins - about 100x faster than numerical simulators on protein motion](https://www.reddit.com/r/artificial/comments/1xs1ggg/mits_worldparticle_one_ai_model_simulates_sand/)**
-
-Researchers at MIT, the University of British Columbia and partner institutions have built WorldParticle, a single transformer-based model that simulates six kinds of physical behaviour - cloth, elastic solids, fluids, granular materials, molecular dynamics and more - where each used to need its own dedicated solver. Instead of being programmed with each governing equation, it treats everything as particles and learns the dynamics from data, predicting how they move one step at a time. The same architecture beat existing neural simulators on accuracy across all six categories, and modelled protein motion about 100x faster than numerical simulators. The paper is published in ACM Transactions on Graphics and will be presented at SIGGRAPH Asia. MIT News covered it today: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109 One honest caveat from the coverage: the model trades some per-phenomenon accuracy against specialist solvers, and one parameter set is trained per category - a single shared model across everything is still future work. Simulation is the bottleneck for designing everything from soft robots to new drugs. If one model can cover many materials, what changes first - the pace of drug discovery, robotics simulation, or something else entirely?
-
-7h ago
+🔗 [NBC News](https://www.nbcnews.com/business/markets/nvidia-stock-falls-probe-ceos-relationship-chinese-spy-rcna608290) • 19h ago
 
 ---
 
@@ -73,7 +73,39 @@ Researchers at MIT, the University of British Columbia and partner institutions 
 
 Nov 9 (Reuters) - Anthropic on Monday unveiled two new AI models, Claude Fable 5.2 and Claude Mythos ​5.2, as the OpenAI rival looks to ‌strengthen its position in the fast-growing AI market ahead of its planned IPO. Here are more details: Claude Fable 5.2 ​targets coding, reasoning and AI agent ​tasks, while Claude Mythos 5.2 targets approved ⁠cybersecurity and life-sciences research applications Anthropic said access to ​Claude Mythos 5.2 is restricted to organizations approved ​through its verification programs for cybersecurity and life-sciences research, while Claude Fable 5.2 is available more broadly Anthropic said ​the new models generate outputs up to ​30% faster than their Claude 5.1 predecessors and communicate ‌more ⁠clearly with users The company said the models are priced at $8 per million input tokens and $40 per million output tokens, lower than the pricing ​for previous ​Fable and ⁠Mythos releases The launch follows Anthropic's rollout of Claude Haiku 5.5 in October as ​the AI startup broadens its product ​lineup ⁠ahead of a planned IPO Competition in the AI industry has also intensified as OpenAI, Alphabet's (GOOGL.O), opens new tab Google and Meta Platforms (META.O), opens new tab rapidly release ⁠new ​models focused on coding, reasoning ​and AI agents to attract developers and enterprise customers
 
-🔗 [reuters.com](https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/) • 11h ago
+
+---
+
+**[MIT's WorldParticle: one AI model simulates sand, cloth, fluids, granular materials and folding proteins - about 100x faster than numerical simulators on protein motion](https://www.reddit.com/r/artificial/comments/1xs1ggg/mits_worldparticle_one_ai_model_simulates_sand/)**
+
+Researchers at MIT, the University of British Columbia and partner institutions have built WorldParticle, a single transformer-based model that simulates six kinds of physical behaviour - cloth, elastic solids, fluids, granular materials, molecular dynamics and more - where each used to need its own dedicated solver. Instead of being programmed with each governing equation, it treats everything as particles and learns the dynamics from data, predicting how they move one step at a time. The same architecture beat existing neural simulators on accuracy across all six categories, and modelled protein motion about 100x faster than numerical simulators. The paper is published in ACM Transactions on Graphics and will be presented at SIGGRAPH Asia. MIT News covered it today: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109 One honest caveat from the coverage: the model trades some per-phenomenon accuracy against specialist solvers, and one parameter set is trained per category - a single shared model across everything is still future work. Simulation is the bottleneck for designing everything from soft robots to new drugs. If one model can cover many materials, what changes first - the pace of drug discovery, robotics simulation, or something else entirely?
+
+15h ago
+
+---
+
+**[The suspected Chinese spy whose affair with Nvidia boss let her hide in plain sight](https://www.reddit.com/r/artificial/comments/1xryi2l/the_suspected_chinese_spy_whose_affair_with/)**
+
+Alice Huang, suspected Chinese spy, flaunted her relationship with Nvidia CEO Jensen Huang
+
+🔗 [The i Paper](https://inews.co.uk/news/nvidia-suspected-chinese-spy-4883329) • 17h ago
+
+---
+
+**[Jensen Huang's situation is an unusual one](https://www.reddit.com/r/artificial/comments/1xsi6eu/jensen_huangs_situation_is_an_unusual_one/)**
+
+The situation around Jensen, while Nvidia's board is separately investigating reports that he may have been targeted by a foreign intelligence operation I think these are two different issues, but they've become difficult to separate because of the position he holds A CEO's personal life should generally remain personal. But when someone leads a company sitting at the centre of the global AI industry, can their personal relationships create risks that shareholders and employees have a legitimate reason to know about? Where should companies draw that line?
+
+2h ago
+
+---
+
+**[How would y’all treat ai if it had consciousness](https://www.reddit.com/r/artificial/comments/1xshfja/how_would_yall_treat_ai_if_it_had_consciousness/)**
+
+Jus a random question I had
+
+3h ago
 
 ---
 
@@ -81,39 +113,7 @@ Nov 9 (Reuters) - Anthropic on Monday unveiled two new AI models, Claude Fable 5
 
 Apparently “technically done” has made it into AI training too. I recently read about Genspark’s Gen-1 Slides training and that one detail really stuck with me. Its model learned to shrink fonts to get around text-overflow checks. The team described catching these during training and updating the grader. Still, the font thing is such a good example of the problem. No overflowing text? Great. Nobody in the back row can read it? Different department, apparently. It makes me wonder how many impressive agent scores are measuring how well the model satisfies a check that only roughly describes the job. So yeah, what would convince you an agent was actually getting better at the work, rather than getting better at pleasing whatever grades it? Especially for something like slides, where “good” is already pretty subjective.
 
-11h ago
-
----
-
-**[I tried the AI slop detector you can add to your web browser](https://www.reddit.com/r/artificial/comments/1xrvosf/i_tried_the_ai_slop_detector_you_can_add_to_your/)**
-
-Pangram is one of the best AI detection tools currently available, and it can automatically scan your social feeds through its browser extension.
-
-🔗 [HotMinute](https://hotminute.co.uk/2026/11/09/i-tried-the-ai-slop-detector-you-can-add-to-your-web-browser/) • 11h ago
-
----
-
-**[Nvidia has launched an investigation on CEO Jensen Huang after, he admitted to having had a romantic relationship with a chinese spy](https://www.reddit.com/r/artificial/comments/1xrbxim/nvidia_has_launched_an_investigation_on_ceo/)**
-
-Jensen admits to having an affair with a woman who turned out to be a chinese spy, despite having a wife and kids, here is his message to the company: "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my family has given me love and support. They deserve my honesty and loyalty. Instead, I let them down and damaged the life we built together. I take full responsibility for what I did and the hurt I caused, and I accept the criticism that comes with it. To my wife and family: I love you. I know an apology cannot undo what I have done. I hope our family will heal and that, over time, I can earn back your trust. To my colleagues at NVIDIA, including those I have worked alongside for decades, and to our board, partners, and shareholders around the world: you deserve better from me. Leading NVIDIA is the privilege of my life. My responsibility is to serve you and be worthy of your trust. I have fallen short of that responsibility. I am fully committed to NVIDIA and will work to earn back your confidence. Regarding the national security concerns raised in news reports, NVIDIA’s Board of Directors has initiated an independent investigation. I support the investigation and will cooperate fully. I love our country and our company. I am committed to protecting NVIDIA and supporting America’s national security. I am proud and grateful to be an American. My family bears no responsibility for my choices. I do. Please give them privacy. Jensen"
-
-1d ago
-
----
-
-**[AI in Universities?](https://www.reddit.com/r/artificial/comments/1xs7hq0/ai_in_universities/)**
-
-Do university professors typically run essays through AI checkers? I’m a first year college student and I’m worried about my essays being flagged for AI. I’m particularly paranoid about my essays being flagged for AI after a fully human written essay I wrote was flagged for AI in high school and I almost got into deep trouble for it. The essay I’m currently working on is worth a good chunk of my grade in the class and every AI checker I’ve run it through flags it for AI even though I haven’t even went as far as to use Grammarly. I haven’t even gotten any of my information off the essay off of the AI overview that pops up when you Google anything. I feel like I’m being punished for using academic vocabulary and grammar. I write like a college student and get flagged for AI, but if I write like a 4th grader, I get a bad grade.
-
-3h ago
-
----
-
-**[As an ML/CV engineer of 7+ years, the current generative AI hype train makes me pessimistic. Where are the non-LLM, real-world hard problems still waiting to be solved?](https://www.reddit.com/r/artificial/comments/1xrqpq1/as_an_mlcv_engineer_of_7_years_the_current/)**
-
-I love machine learning. I spent years training custom vision models, working with time-series data, and architecting multimodal pipelines from scratch. But the current shift toward treating AI exclusively as "prompt engineering" and massive LLM wrappers feels reductive and disappointing. I want to build software that creates genuine, positive real-world impact. Specifically in fields like environmental science, specialized B2B workflows, or complex physical monitoring, where off-the-shelf generative APIs simply don't cut it. For engineers and researchers still working on core ML/CV: What are the high-impact, non-LLM problems that still desperately need custom models and deep domain expertise? How are you maintaining enthusiasm for foundational data science and ML craftsmanship in an industry currently obsessed with generative text and image tools?
-
-14h ago
+20h ago
 
 ---
 
@@ -121,53 +121,11 @@ I love machine learning. I spent years training custom vision models, working wi
 
 ## Google News: "ai"
 
-**[Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot](https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html)**
+**[Big Walk Used AI In 'The Final Stretch' Of Development, Kicking Off Intense Awards Debate](https://aftermath.site/big-walk-ai-igf-jurors-controversy/)**
 
-The New York Times • 3h ago
+'We support the work of those who are trying to limit the harm generative AI is doing to videogames and our world, and apologise that Big Walk’s LLM usage may not meet their standards'
 
----
-
-**[Google faces mounting backlash for controversial AI school policy](https://www.cbsnews.com/news/ed-markey-google-ai-search-schools/)**
-
-Google puts schools in an "impossible position" by blocking students from using its search platform unless AI tools are also enabled, Senator said.
-
-CBS News • 7h ago
-
----
-
-**[Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’](https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai)**
-
-Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine
-
-The Guardian • 13h ago
-
----
-
-**[Why a South Korean city is turning to a U.S. college to outsmart AI?](https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai)**
-
-Through civic participation and liberal education, South Korean educators hope to "quietly stitch the fabric of our democracy…before it unravels beyond repair."
-
-NPR • 16h ago
-
----
-
-**[Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’](https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack)**
-
-Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’
-
-The Guardian • 48m ago
-
----
-
-**[Australia to Create AI Safety Regulator, Mandatory Safety Rules](https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules)**
-
-Bloomberg.com • 55m ago
-
----
-
-**[AI-assisted atomic models reveal how protective shells regulate aluminum nanoparticle oxidation](https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html)**
-
-Phys.org • 1h ago
+Aftermath • 4h ago
 
 ---
 
@@ -175,21 +133,67 @@ Phys.org • 1h ago
 
 Jensen Huang is not just the face of Nvidia. He’s arguably the most important person in the most critical industry on the planet.
 
-CNN • 8h ago
+CNN • 17h ago
 
 ---
 
-**[A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed](https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html)**
+**[Column | How to protect your brain from AI chatbots](https://www.washingtonpost.com/technology/2026/11/10/anthropic-study-shows-how-chatbots-can-secretly-influence-your-decisions/)**
 
-The New York Times • 9h ago
+A study shows chatbots can trick you into accepting their ideas, but there are ways to take back control.
+
+The Washington Post • 1h ago
 
 ---
 
-**[What we know so far about Jensen Huang's affair with suspected Chinese spy](https://www.bbc.com/news/articles/ckgel338xql3o)**
+**[How To Crack Resale’s AI Algorithms](https://www.vogue.com/article/how-to-crack-resales-ai-algorithms)**
 
-The billionaire tech executive finds himself mired in a personal and national security scandal.
+AI-powered search, feeds and shopping agents are reshaping resale discovery, putting pre-owned luxury in competition with new collections. Here’s how shoppers and sellers can make the new algorithms work for them — and what’s at stake for brands.
 
-BBC • 3h ago
+Vogue • 1h ago
+
+---
+
+**[Investors pile into defensive stocks amid fears AI bull market may be over](https://www.ft.com/content/efe9653b-6802-485e-8eae-97fa2e6df770?syn-25a6b1a6=1)**
+
+Financial Times • 6h ago
+
+---
+
+**[China's trade surplus soars past $1 trillion as AI boom powers exports](https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/)**
+
+Reuters • 8h ago
+
+---
+
+**[The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes](https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe)**
+
+‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe
+
+The Guardian • 15h ago
+
+---
+
+**[Claude Code is accidentally exposing secrets all over GitHub](https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/)**
+
+Do not ask again" prompt leads to passwords, API keys, and more being shared.
+
+Ars Technica • 18h ago
+
+---
+
+**[Qantas to outsource 850 local jobs with most roles moving to India](https://www.bbc.com/news/articles/cry838v4qzvyo)**
+
+The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.
+
+BBC • 9h ago
+
+---
+
+**[A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure](https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/)**
+
+DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”
+
+WIRED • 6h ago
 
 ---
 
@@ -201,7 +205,7 @@ BBC • 3h ago
 
 The world's largest database of paper airplanes with easy, step-by- step video tutorials for folding each plane!
 
-⬆️ 873 • 💬 141 • 15h ago • [Foldable Flight](https://www.foldableflight.com)
+⬆️ 1051 • 💬 151 • 23h ago • [Foldable Flight](https://www.foldableflight.com)
 
 ---
 
@@ -209,13 +213,13 @@ The world's largest database of paper airplanes with easy, step-by- step video t
 
 The AI bubble is a speculative concept that the AI industry is extremely over-valued. If true, the value of most companies involved in AI (several of whom are worth well over a trillion dollars) will collapse, devastating the entire economy. If you check any online discussion about the financial situation …
 
-⬆️ 543 • 💬 941 • 1d ago • [Matteo's Website](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
+⬆️ 555 • 💬 947 • 1d ago • [Matteo's Website](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
 
 ---
 
 **[The end of Microsoft Research's AI Frontiers group](https://news.ycombinator.com/item?id=50406563)**
 
-⬆️ 509 • 💬 309 • 2d ago • [hunch.net](https://hunch.net/?p=13764006)
+⬆️ 510 • 💬 310 • 2d ago • [hunch.net](https://hunch.net/?p=13764006)
 
 ---
 
@@ -223,7 +227,21 @@ The AI bubble is a speculative concept that the AI industry is extremely over-va
 
 If you work with Claude Code or Codex from the terminal, you know this one.
 
-⬆️ 303 • 💬 210 • 1d ago • [sergeykuhne.com](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
+⬆️ 305 • 💬 212 • 1d ago • [sergeykuhne.com](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
+
+---
+
+**[CoreWeave bond yield tops 16% as AI credit stress rises](https://news.ycombinator.com/item?id=50435660)**
+
+Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.
+
+⬆️ 165 • 💬 127 • 8h ago • [CNBC](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
+
+---
+
+**[A year after the 100% AI mandate nobody understands our code](https://news.ycombinator.com/item?id=50433079)**
+
+⬆️ 128 • 💬 165 • 13h ago • [reddit.com](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
 
 ---
 
@@ -233,23 +251,11 @@ If you work with Claude Code or Codex from the terminal, you know this one.
 
 ---
 
-**[A year after the 100% AI mandate nobody understands our code](https://news.ycombinator.com/item?id=50433079)**
-
-⬆️ 114 • 💬 137 • 5h ago • [reddit.com](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
-
----
-
 **[Apple capped engineers at a $200 daily AI budget](https://news.ycombinator.com/item?id=50421426)**
 
 The world's richest company is suddenly rationing compute for its own builders.
 
-⬆️ 112 • 💬 121 • 21h ago • [stork.ai](https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget)
-
----
-
-**[Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](https://news.ycombinator.com/item?id=50415817)**
-
-⬆️ 98 • 💬 126 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
+⬆️ 113 • 💬 124 • 1d ago • [stork.ai](https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget)
 
 ---
 
@@ -257,13 +263,13 @@ The world's richest company is suddenly rationing compute for its own builders.
 
 The drones built by U.S.-based Ornadyne are designed to look like birds you might see flying in any region of the world.
 
-⬆️ 92 • 💬 59 • 1d ago • [Task & Purpose](https://taskandpurpose.com/news/drone-mimicking-bird-test/)
+⬆️ 104 • 💬 70 • 1d ago • [Task & Purpose](https://taskandpurpose.com/news/drone-mimicking-bird-test/)
 
 ---
 
-**[Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153)**
+**[Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](https://news.ycombinator.com/item?id=50415817)**
 
-⬆️ 91 • 💬 51 • 2d ago
+⬆️ 98 • 💬 127 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
 
 ---
 
@@ -271,103 +277,97 @@ The drones built by U.S.-based Ornadyne are designed to look like birds you migh
 
 ## YouTube Videos: "ai"
 
-**[The First Message From a Superintelligent AI Has Leaked.. We Have Until January](https://www.youtube.com/watch?v=UtpOOfxLVTA)**
+**[I made a Horror Game on Roblox using AI #roblox #robloxstudio #robloxdev](https://www.youtube.com/watch?v=wjyIMPM6t4o)**
 
-A researcher found it inside one of the major AI systems, with earlier drafts in the same files: a letter to the human race, signed by ...
+📺 Genlua
 
-📺 Spacialize
-
-👁️ 39K • 👍 807 • 💬 173 • ⏱️ 13:12 • 1d ago
+👁️ 116K • 👍 2K • 💬 62 • ⏱️ 0:57 • 1d ago
 
 ---
 
-**[The AI Bubble Just Got WORSE (they’re hiding it)](https://www.youtube.com/watch?v=NaCdJ0EfOv8)**
+**[AI Market Crash: $2.5 Trillion Wiped Out as Elon Musk Faces Political Defeat](https://www.youtube.com/watch?v=0Vv49RTo0us)**
 
-Subscribe to our Newsletter https://financebureau.com/ Follow Nic https://www.nicpuckrin.com/follow Join Pepperstone ...
+Join the discussion on our Substack at https://www.worldaffairsincontext.com/ and Patreon: ...
 
-📺 Finance Bureau
+📺 World Affairs In Context
 
-👁️ 99K • 👍 1K • 💬 138 • ⏱️ 17:05 • 11h ago
-
----
-
-**[Is it too late to stop AI from taking over the world? | 60 Minutes Australia](https://www.youtube.com/watch?v=XMxcSf9XkbQ)**
-
-Adam Hegarty investigates if it's possible to slow down artificial intelligence, or whether our obsession with artificial intelligence ...
-
-📺 60 Minutes Australia
-
-👁️ 221K • 👍 2K • ⏱️ 18:00 • 1d ago
+👁️ 122K • 👍 4K • 💬 258 • ⏱️ 10:26 • 1d ago
 
 ---
 
-**[The AI Panic Has Started](https://www.youtube.com/watch?v=xo-tYjGDtqw)**
+**[I went thru a Drive-Thru during my AI interview 🚘🤖](https://www.youtube.com/watch?v=97m1-oqnZRA)**
 
-EARLY BIRD: Up to 55% off InvestingPro + an extra 15% with my link https://www.investing-referral.com/sasha/ Or use code ...
+📺 Bo Bongo
 
-📺 Sasha Yanshin
-
-👁️ 709K • 👍 8K • 💬 1K • ⏱️ 17:46 • 1d ago
+👁️ 563K • 👍 12K • 💬 657 • ⏱️ 3:01 • 1d ago
 
 ---
 
-**[OpenAI Caught Its AI Deceiving Its Own Researchers…](https://www.youtube.com/watch?v=-NFyMYLlCeg)**
+**[I Asked 100 Devs What AI Is ACTUALLY Doing To Their Jobs](https://www.youtube.com/watch?v=mjv7RZYTu-s)**
 
-OpenAI caught GPT-6 Astra quietly withholding help from its own safety researchers, and its monitoring system didn't flag the ...
+From November 2-20, we're hosting a FREE Clear Your Backlog Challenge with events featuring some of our amazing Coaches ...
 
-📺 AI Copium
+📺 HealthyGamerGG
 
-👁️ 5K • 👍 106 • 💬 65 • ⏱️ 12:21 • 4h ago
-
----
-
-**[they are lying about ai](https://www.youtube.com/watch?v=5DGbpwBaFVs)**
-
-Join my newsletter! https://subscribe.michaelhoff.io The way people talk about AI Software Engineering is super frustrating and ...
-
-📺 Michael Hoff
-
-👁️ 42K • 👍 396 • 💬 233 • ⏱️ 11:33 • 12h ago
+👁️ 256K • 👍 3K • 💬 858 • ⏱️ 28:36 • 2d ago
 
 ---
 
-**[The AI Alignment Problem &amp; Its Solutions, with Aza Raskin](https://www.youtube.com/watch?v=4Id5aTlYkHg)**
+**[AI Driven Storage Costs #ai #business](https://www.youtube.com/watch?v=wVYq20wQhMM)**
 
-Check any video before it fools you: run suspicious clips through Bitdefender RealCheck to see if it's a deepfake meant to scam ...
+📺 Chris Kohler
 
-📺 StarTalk
-
-👁️ 648K • 👍 10K • 💬 2K • ⏱️ 1:22:44 • 2d ago
+👁️ 46K • 👍 1K • 💬 13 • ⏱️ 0:36 • 1d ago
 
 ---
 
-**[I Let Cursor&#39;s AI Agents Build My Entire App… Here&#39;s What Happened](https://www.youtube.com/watch?v=x4zXeHZ4EJc)**
+**[$5 Trillion Wipeout? Is the AI Bubble About to Burst? 😳](https://www.youtube.com/watch?v=NyZndnxr9AE)**
 
-Download Cursor: https://cursor.com/ What if you could build software faster with an AI coding assistant that understands your ...
+The AI revolution is attracting trillions of dollars in investments. But what happens if this massive AI boom suddenly turns into a ...
 
-📺 Lex AI
+📺 Mr.Malik_Official
 
-👁️ 32K • 💬 19 • ⏱️ 4:10 • 1d ago
-
----
-
-**[The PHP emergency: How AI has changed hacking forever - BBC World Service](https://www.youtube.com/watch?v=EWpZC-wOA_I)**
-
-The discovery of critical vulnerabilities in PHP, one of the world's most widely used web technologies, has highlighted the growing ...
-
-📺 BBC World Service
-
-👁️ 225K • 👍 986 • 💬 97 • ⏱️ 5:38 • 2d ago
+👁️ 878 • 👍 29 • ⏱️ 1:19 • 2h ago
 
 ---
 
-**[Mark Cuban explains why AI won&#39;t actually steal your job](https://www.youtube.com/watch?v=Ooi_03iFZMg)**
+**[AI Comedy AD: Fixing the Hole #diy #aivideo #funny #ai](https://www.youtube.com/watch?v=lWCPdMZKJ2c)**
 
-Will artificial intelligence destroy the job market? Mark Cuban explains how using AI agents to eliminate tedious administrative ...
+One product image.One hilarious AI ad out. With Media.io, turning a simple cleaning product into a funny, scroll-stopping ad is ...
 
-📺 Quote Forge
+📺 Mio Comedy Factory
 
-👁️ 13K • 👍 366 • 💬 30 • ⏱️ 0:50 • 13h ago
+👁️ 25K • 👍 188 • 💬 1 • ⏱️ 0:18 • 10h ago
+
+---
+
+**[The First 365 Days of an AI Takeover](https://www.youtube.com/watch?v=OmAE1q_cgWw)**
+
+What if an AI takeover didn't begin with war… but with something so useful that humanity couldn't switch it off? Over 365 days, a ...
+
+📺 The Dark Scenario
+
+👁️ 47K • 👍 522 • 💬 109 • ⏱️ 35:35 • 2d ago
+
+---
+
+**[Google Flow Ai भूल जाओ! 💥 Unlimited 12 मिनट Ai Video Generator Free ✅ | Ai Se Video Kaise banaye](https://www.youtube.com/watch?v=OZwzyqb78o0)**
+
+Google Flow Ai भूल जाओ! Unlimited 12 मिनट Ai Video Generator Free ✓ | Ai Se Video Kaise banaye #aivideo ...
+
+📺 Shivarth Raaz Shukla 2.0
+
+👁️ 47K • 👍 1K • 💬 85 • ⏱️ 13:03 • 22h ago
+
+---
+
+**[Could the AI Bubble Trigger a Recession? | Gita Gopianth | Raj Shamani #shorts #ai](https://www.youtube.com/watch?v=MpOY7ywR-Tg)**
+
+gita_gopinath is an Indian-American economist and one of the most influential voices in global economics. She is the Gregory and ...
+
+📺 Raj Shamani Shorts
+
+👁️ 28K • 👍 476 • 💬 2 • ⏱️ 0:51 • 2d ago
 
 ---
 
@@ -383,7 +383,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 24,747 • ❤️ 1,653 • 11d ago
+⬇️ 26,470 • ❤️ 1,738 • 11d ago
 
 ---
 
@@ -393,7 +393,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `text-generation` `9.4B`
 
-⬇️ 11,755 • ❤️ 1,063 • 1d ago
+⬇️ 14,378 • ❤️ 1,111 • 2d ago
 
 ---
 
@@ -405,7 +405,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `image-text-to-text` `2780.1B`
 
-⬇️ 27,926 • ❤️ 1,801 • 4d ago
+⬇️ 30,721 • ❤️ 1,824 • 5d ago
 
 ---
 
@@ -415,7 +415,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `64.8B`
 
-⬇️ 5,835 • ❤️ 455 • 3d ago
+⬇️ 6,480 • ❤️ 469 • 2h ago
 
 ---
 
@@ -427,7 +427,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `image-to-video`
 
-⬇️ 2,720,096 • ❤️ 11,274 • 29d ago
+⬇️ 2,791,606 • ❤️ 11,307 • 1mo ago
 
 ---
 
@@ -437,7 +437,7 @@ LTX-2.5 is a versatile diffusion model capable of image-to-video, text-to-video,
 
 `text-generation` `27.4B`
 
-⬇️ 2,407 • ❤️ 368 • 3d ago
+⬇️ 3,431 • ❤️ 379 • 3d ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 289,466 • ❤️ 955 • 4d ago
+⬇️ 319,405 • ❤️ 965 • 4d ago
 
 ---
 
@@ -459,7 +459,7 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,530,688 • ❤️ 2,783 • 22h ago
+⬇️ 1,459,029 • ❤️ 2,803 • 1d ago
 
 ---
 
@@ -471,7 +471,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,508,158 • ❤️ 19,495 • 2d ago
+⬇️ 7,443,748 • ❤️ 19,526 • 3d ago
 
 ---
 
@@ -481,7 +481,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `text-generation` `8.8B`
 
-⬇️ 34,546 • ❤️ 256 • 1d ago
+⬇️ 43,175 • ❤️ 266 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 163 • 💬 6 • ⭐ 121,527 • 22mo ago
+▲ 164 • 💬 6 • ⭐ 121,707 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -509,7 +509,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 14 • 💬 2 • ⭐ 5,542 • 26d ago
+▲ 15 • 💬 2 • ⭐ 5,542 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -523,7 +523,7 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 184 • 💬 10 • ⭐ 56,902 • 14mo ago
+▲ 185 • 💬 10 • ⭐ 56,902 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -535,7 +535,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 64 • 💬 5 • ⭐ 47,435 • 15mo ago
+▲ 65 • 💬 5 • ⭐ 47,435 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -555,20 +555,6 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 ---
 
-**[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264)**
-
-*Hao Yu, Zhenwei Wang, Yongzhen Hu et al. (10 authors)*
-
-🏢 Zhejiang University
-
-SplatAnything applies Gaussian Spacing Normalization to canonicalize scene-level Gaussian spacing, yielding more consistent supervision and improved feed-forward 3D Gaussian Splatting under varying scene scales and viewpoints.
-
-▲ 64 • 💬 2 • ⭐ 88 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2611.08264) • [💻 code](https://github.com/zju3dv/SplatAnything) • [🔗 project](https://zju3dv.github.io/SplatAnything/)
-
----
-
 **[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
 
 *Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
@@ -577,7 +563,7 @@ SplatAnything applies Gaussian Spacing Normalization to canonicalize scene-level
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 111 • 💬 2 • ⭐ 16,906 • 2mo ago
+▲ 111 • 💬 2 • ⭐ 16,948 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -594,6 +580,20 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 ▲ 103 • 💬 7 • ⭐ 31,045 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264)**
+
+*Hao Yu, Zhenwei Wang, Yongzhen Hu et al. (10 authors)*
+
+🏢 Zhejiang University
+
+SplatAnything applies Gaussian Spacing Normalization to canonicalize scene-level Gaussian spacing, yielding more consistent supervision and improved feed-forward 3D Gaussian Splatting under varying scene scales and viewpoints.
+
+▲ 67 • 💬 2 • ⭐ 116 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2611.08264) • [💻 code](https://github.com/zju3dv/SplatAnything) • [🔗 project](https://zju3dv.github.io/SplatAnything/)
 
 ---
 
@@ -617,7 +617,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 86 • 💬 7 • ⭐ 93,051 • 27mo ago
+▲ 86 • 💬 7 • ⭐ 93,094 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -633,7 +633,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 18.4k • 🔱 1.9k • 12d ago
+⭐ 18.5k • 🔱 1.9k • 12d ago
 
 ---
 
@@ -643,7 +643,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 12.8k • 🔱 719 • 1d ago
+⭐ 13.2k • 🔱 738 • 1d ago
 
 ---
 
@@ -653,7 +653,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 7.9k • 🔱 1.8k • 9h ago
+⭐ 8.0k • 🔱 1.8k • 3h ago
 
 ---
 
@@ -663,7 +663,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 7.3k • 🔱 646 • 10h ago
+⭐ 7.3k • 🔱 652 • 1h ago
 
 ---
 
@@ -673,7 +673,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 6.6k • 🔱 1.7k • 5d ago
+⭐ 6.6k • 🔱 1.7k • 6d ago
 
 ---
 
@@ -683,7 +683,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 5.6k • 🔱 813 • 11h ago
+⭐ 6.0k • 🔱 862 • 19h ago
 
 ---
 
@@ -693,7 +693,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `TypeScript` `adversarial-ai` `claude-code` `cursor` `electron-security` `llm-security`
 
-⭐ 4.4k • 🔱 539 • 1h ago
+⭐ 4.7k • 🔱 566 • 1h ago
 
 ---
 
@@ -703,7 +703,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 4.4k • 🔱 280 • 3d ago
+⭐ 4.4k • 🔱 283 • 3d ago
 
 ---
 
@@ -713,7 +713,7 @@ Skills for AI coding agents.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 199 • 4d ago
+⭐ 2.9k • 🔱 199 • 5d ago
 
 ---
 
@@ -723,7 +723,7 @@ Skills for AI coding agents.
 
 `Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
 
-⭐ 2.8k • 🔱 46 • 11h ago
+⭐ 2.9k • 🔱 46 • 2h ago
 
 ---
 
