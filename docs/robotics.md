@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-09T20:58:12.635766+00:00'
+updated: '2026-11-10T03:21:42.793059+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 09, 2026 at 20:58 UTC  
+**Last Updated:** November 10, 2026 at 03:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Después de un accidente se han vuelto a construir las piernas. Está vez con en
 
 I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
 
-4d ago
+5d ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi guys, I need help. I'm trying to make my first autonomous navigating robot wi
 
 Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
 
-5d ago
+6d ago
 
 ---
 
@@ -120,7 +120,57 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 At the Conference on Robot Learning, NVIDIA is introducing GR00T 2, Isaac Lab 3.0 and new open benchmarks, built in collaboration with partners, bringing precision and scale to robot training.
 
-NVIDIA Blog • 6h ago
+NVIDIA Blog • 13h ago
+
+---
+
+**[Agility Robotics (AGLT) Stock Keeps Valuation Questions Open Despite Nasdaq Debut](https://finance.yahoo.com/markets/stocks/articles/agility-robotics-aglt-stock-keeps-130951307.html)**
+
+Agility Robotics has just arrived on Nasdaq after its reverse merger, and the stock has already moved enough to make investors ask a simple question: Is the current price putting a fair tag on the company compared with the book value that sits on its balance sheet? The share price has climbed about 21.5% over the past week, which puts fresh focus on whether recent buying now stretches or still aligns with what the underlying net assets support. The reverse merger and Nasdaq debut valued...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
+
+Reuters • 2d ago
+
+---
+
+**[Micron: The Robotic Play Most Investors Are Missing (NASDAQ:MU)](https://seekingalpha.com/article/4965145-micron-the-robotic-play-most-investors-are-missing)**
+
+Seeking Alpha • 10h ago
+
+---
+
+**[Claude Fable 5.2 builds a working operating system with 1,000 agents in eight days](https://interestingengineering.com/ai-robotics/anthropic-claude-fable-5-2-operating-system)**
+
+Anthropic is giving Claude increasingly difficult engineering assignments, and its latest models are delivering some remarkable results.
+
+Interesting Engineering • 6h ago
+
+---
+
+**[These Robotic Arms Are Powered by Algae. Watch How They Move](https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/)**
+
+The key to the movement of these flexible robots is the algae’s photosynthetic capabilities.
+
+WIRED • 16h ago
+
+---
+
+**[AI agents test and improve robot code in virtual worlds before deployment](https://techxplore.com/news/2026-11-ai-agents-robot-code-virtual.html)**
+
+Tech Xplore • 13h ago
+
+---
+
+**[AI-assisted learning platform helps robots reason beyond literal commands](https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109)**
+
+FLEX, a new AI-assisted learning platform developed by MIT engineers, enables motion-planning robots to follow a human’s explicit instructions while also drawing larger generalizations that help to improve its performance.
+
+MIT News • 22h ago
 
 ---
 
@@ -132,59 +182,9 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Nvidia announces GR00T 2 robotics model, Isaac Lab 3.0 tools (NVDA:NASDAQ)](https://seekingalpha.com/news/4669003-nvidia-announces-gr00t-2-robotics-model-isaac-lab-3_0-tools)**
+**[Chinese robotics stock surge on Apple robotics research](https://www.investing.com/news/stock-market-news/chinese-robotics-stock-surge-on-apple-robotics-research-5010497)**
 
-Seeking Alpha • 6h ago
-
----
-
-**[Tesla to axe Cybertruck as Musk shifts focus to robotics and AI](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98?syn-25a6b1a6=1)**
-
-Financial Times • 3d ago
-
----
-
-**[Boston Dynamics Turns Atlas Into a Wheeled Actuator Testbed](https://www.unite.ai/boston-dynamics-turns-atlas-into-a-wheeled-actuator-testbed/)**
-
-Boston Dynamics detailed a wheeled Atlas experiment on November 9, 2026, after replacing the humanoid’s feet with wheels to probe actuator limits and the transfer of whole-body reinforcement learning from simulation to h...
-
-Unite.AI • 32m ago
-
----
-
-**[AI-assisted learning platform helps robots reason beyond literal commands](https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109)**
-
-FLEX, a new AI-assisted learning platform developed by MIT engineers, enables motion-planning robots to follow a human’s explicit instructions while also drawing larger generalizations that help to improve its performance.
-
-MIT News • 15h ago
-
----
-
-**[Serve Robotics: 3 Key Takeaways for Long-Term Investors](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-3-key-takeaways-010417331.html)**
-
-Software licensing lets Serve Robotics earn recurring revenue from outside robot builders without buying additional hardware, a model that the fleet-cost gains alone do not capture.
-
-Yahoo Finance • 19h ago
-
----
-
-**[SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports](https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/)**
-
-Reuters • 2d ago
-
----
-
-**[These Robotic Arms Are Powered by Algae. Watch How They Move](https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/)**
-
-The key to the movement of these flexible robots is the algae’s photosynthetic capabilities.
-
-WIRED • 10h ago
-
----
-
-**[Ambi Robotics seeks Bay Area manufacturing space for next generation of AI-driven robots](https://www.bizjournals.com/sanfrancisco/news/2026/11/06/ambi-robotics-ai-robots-bay-area-manufacturing.html)**
-
-The Business Journals • 3d ago
+Investing.com • 18h ago
 
 ---
 
@@ -208,7 +208,7 @@ Agility Robotics CEO Peggy Johnson walks through the full product suite behind D
 
 📺 Agility
 
-👁️ 15K • 👍 266 • 💬 37 • ⏱️ 6:44 • 4d ago
+👁️ 15K • 👍 267 • 💬 38 • ⏱️ 6:44 • 5d ago
 
 ---
 
@@ -218,7 +218,7 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 161K • 👍 2K • 💬 413 • ⏱️ 15:13 • 3d ago
+👁️ 165K • 👍 2K • 💬 421 • ⏱️ 15:13 • 3d ago
 
 ---
 
@@ -228,37 +228,7 @@ This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https:/
 
 📺 Unstoppable Gadgets
 
-👁️ 112K • 👍 2K • 💬 40 • ⏱️ 0:21 • 3d ago
-
----
-
-**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
-
-https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
-
-📺 Casey.aicreates
-
-👁️ 21K • 👍 1K • 💬 41 • ⏱️ 1:44 • 2d ago
-
----
-
-**[Xiaomi humanoid robots work a full 8-hour shift in its EV factory](https://www.youtube.com/watch?v=X2qjDBGiER8)**
-
-Xiaomi's humanoid robots worked a full eight-hour shift on its own EV assembly line, sorting car parts. In March, the longest run ...
-
-📺 Klaank
-
-👁️ 21K • 👍 174 • 💬 11 • ⏱️ 0:57 • 5d ago
-
----
-
-**[Figure AI Just Revealed Its Most Advanced Robot](https://www.youtube.com/watch?v=JH8o8BV8Vds)**
-
-Figure AI is accelerating the humanoid robot race with Figure 03, its upcoming Figure 04, and a powerful new AI model called ...
-
-📺 NextGen Humanoids
-
-👁️ 23K • 👍 175 • 💬 28 • ⏱️ 8:50 • 6d ago
+👁️ 120K • 👍 2K • 💬 42 • ⏱️ 0:21 • 4d ago
 
 ---
 
@@ -268,17 +238,17 @@ A humanoid robot shook hands and struck poses while out in public in California.
 
 📺 Inside Edition
 
-👁️ 26K • 👍 336 • 💬 88 • ⏱️ 1:43 • 4d ago
+👁️ 27K • 👍 338 • 💬 88 • ⏱️ 1:43 • 5d ago
 
 ---
 
-**[New AI Robot Is Run By Living Human Brain Cells (Absolutely Terrifying)](https://www.youtube.com/watch?v=qoBGtiOBzBA)**
+**[China&#39;s IRON Robot Is Advancing Faster Than Expected](https://www.youtube.com/watch?v=QfYFq24hX2c)**
 
-Scientists at Indiana University just hooked living human brain cells up to a humanoid robot, and it's learning. Called Brainobot ...
+China's humanoid robot race is accelerating. XPENG's IRON robot has received ten major updates in roughly nine weeks, ...
 
-📺 MACHINEKIND
+📺 NextGen Humanoids
 
-👁️ 138K • 👍 2K • 💬 537 • ⏱️ 12:18 • 2d ago
+👁️ 51K • 👍 414 • 💬 39 • ⏱️ 8:58 • 5d ago
 
 ---
 
@@ -289,6 +259,36 @@ Some robots are being led uphill on leashes, others are stumbling backward, and 
 📺 TECH MOMENTS
 
 👁️ 8K • 👍 33 • 💬 2 • ⏱️ 0:22 • 6d ago
+
+---
+
+**[Xiaomi humanoid robots work a full 8-hour shift in its EV factory](https://www.youtube.com/watch?v=X2qjDBGiER8)**
+
+Xiaomi's humanoid robots worked a full eight-hour shift on its own EV assembly line, sorting car parts. In March, the longest run ...
+
+📺 Klaank
+
+👁️ 23K • 👍 179 • 💬 11 • ⏱️ 0:57 • 5d ago
+
+---
+
+**[Building an analogue robot pet for my living room](https://www.youtube.com/watch?v=Zdgq6D2911U)**
+
+I recently took care of some frogs, and I thought, "What if I made a robot pet?" So I turned to some old BEAM designs and built ...
+
+📺 ALTco
+
+👁️ 135K • 👍 3K • 💬 113 • ⏱️ 10:29 • 4d ago
+
+---
+
+**[Build Your Own AI Robot Companion!](https://www.youtube.com/watch?v=PRxfqi3zWvw)**
+
+Build your own AI Robot Companion! Create your own smart AI robot that can interact with you, respond to sounds, and express ...
+
+📺 MW Electronics Lab
+
+👁️ 92K • 💬 13 • ⏱️ 0:05 • 5d ago
 
 ---
 
