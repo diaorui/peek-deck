@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-09T20:58:12.632487+00:00'
+updated: '2026-11-10T03:21:42.790624+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 09, 2026 at 20:58 UTC  
+**Last Updated:** November 10, 2026 at 03:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -6.3%  
-**30d:** -16.0%  
-**90d:** +13.4%  
-**1y:** -40.2%  
+**24h:** -0.7%  
+**7d:** -12.5%  
+**30d:** -13.2%  
+**90d:** +12.5%  
+**1y:** -37.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.28B
+**Market Cap:** $259.16B
 Rank #2
 
 **Circulating Supply:** 122,203,847 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.9%
+-57.1%
 
 **All-Time Low:** $0.43
-+491796.8%
++489683.6%
 
 ---
 
@@ -156,41 +156,33 @@ The Denver Post • 3d ago
 
 ---
 
-**[Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum](https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909)**
-
-Raycash says it has more than 75,000 people on its waitlist and is offering USDC payments and yield through Morpho.
-
-The Block • 11h ago
-
----
-
 **[Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-whipsaw-nvidia-102912603.html)**
 
 More than $1.14 billion in leveraged crypto positions were liquidated in the last 24 hours, with long positions accounting for about 90% of the total.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Fear' Sentiment Persists: Analyst Says BTC Needs to Hold This 'Pivotal' Area or Else...](https://www.tradingview.com/news/benzinga:f6d547cdb094b:0-bitcoin-ethereum-xrp-dogecoin-slide-as-fear-sentiment-persists-analyst-says-btc-needs-to-hold-this-pivotal-area-or-else/)**
-
-Leading cryptocurrencies fell sharply overnight on Sunday as investors awaited upcoming inflation reports for clues on the future path of monetary policy.Crypto Fails to ExciteBitcoin slipped below $74,000 late in the evening before recovering to the high $74,000s. Ethereum wiggled in the high $2,0…
-
-TradingView • 2d ago
-
----
-
-**[Bitcoin tests support as Ethereum shows relative strength](https://www.kitco.com/opinion/2026-11-09/bitcoin-tests-support-ethereum-shows-relative-strength)**
-
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
-
-Kitco • 1h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **[ETH news: Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts](https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts)**
 
-CoinDesk • 15h ago
+CoinDesk • 22h ago
+
+---
+
+**[Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration](https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money)**
+
+Tom Lee's Bitmine Immersion Technologies extended its weekly Ethereum buying streak, adding 9,587 ETH worth roughly $20 million.
+
+Decrypt • 10h ago
+
+---
+
+**[Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum](https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909)**
+
+Raycash says it has more than 75,000 people on its waitlist and is offering USDC payments and yield through Morpho.
+
+The Block • 18h ago
 
 ---
 
@@ -198,29 +190,37 @@ CoinDesk • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 14h ago
 
 ---
 
-**[Digital Asset Treasury Firms Continue to Buy Bitcoin and Ethereum. That's Why I'm Bullish on These Two Cryptocurrencies.](https://www.fool.com/investing/2026/11/09/digital-asset-treasury-firms-continue-to-buy-bitco/)**
+**[Crypto Market Today, Nov. 9: Bitcoin and Ethereum Lag as Nasdaq Surges Nearly 3%](https://www.fool.com/coverage/stock-market-today/2026/11/09/crypto-market-today-nov-9-bitcoin-and-ethereum-lag-as-nasdaq-surges-nearly-3/)**
 
-These big buyers have slowed their purchases, but they haven't stopped.
+Stocks staged a powerful recovery on Monday, but cryptocurrencies failed to follow as persistent ETF outflows and weakening investor confidence cast doubt on across the asset class.
 
-The Motley Fool • 10h ago
-
----
-
-**[Why Wall Street can use Ethereum without betting on ETH](https://cryptoslate.com/why-wall-street-can-use-ethereum-without-betting-on-eth/)**
-
-Vitalik Buterin’s ETH case meets BUIDL’s established dollar collateral route, separating Ethereum settlement from demand to hold ETH as margin.
-
-CryptoSlate • 9h ago
+The Motley Fool • 5h ago
 
 ---
 
-**[Gold-Backed Tokens Shine in Falling Crypto Market, Defy Bitcoin and Ethereum’s Downturn Last Week](https://www.benzinga.com/crypto/cryptocurrency/26/11/63023650/tether-gold-pax-crypto-bitcoin-ethereum)**
+**[Ethereum loses 2024 gains – Is Vitalik Buterin rethinking ETH’s long-term value?](https://ambcrypto.com/ethereum-loses-2024-gains-is-vitalik-buterin-rethinking-eths-long-term-value/)**
 
-Benzinga • 11h ago
+Ethereum’s store-of-value narrative gains traction as Vitalik Buterin signals a potential shift in ETH’s long-term investment case
+
+AMBCrypto • 8h ago
+
+---
+
+**[Bitcoin tests support as Ethereum shows relative strength](https://www.kitco.com/opinion/2026-11-09/bitcoin-tests-support-ethereum-shows-relative-strength)**
+
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
+
+Kitco • 7h ago
+
+---
+
+**[Bitcoin Tumbles To US$73,708, Ethereum Hits US$2,223 As Regulatory Fears Rock Crypto Market](https://www.businesstoday.com.my/2026/11/09/bitcoin-tumbles-to-us73708-ethereum-hits-us2223-as-regulatory-fears-rock-crypto-market/)**
+
+BusinessToday Malaysia • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in
 
 📺 Altcoin Daily
 
-👁️ 111K • 👍 2K • 💬 236 • ⏱️ 28:10 • 1d ago
+👁️ 115K • 👍 2K • 💬 231 • ⏱️ 28:10 • 2d ago
 
 ---
 
@@ -244,7 +244,27 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 776 • 👍 14 • 💬 7 • ⏱️ 3:30 • 9h ago
+👁️ 1K • 👍 15 • 💬 9 • ⏱️ 3:30 • 15h ago
+
+---
+
+**[🚀 BMNR HOLDERS: ETH JUST CHANGED FOREVER!  NVIDIA SHOCKER! Jensen Huang Will NVDA Recover?](https://www.youtube.com/watch?v=VnDCthfb0rc)**
+
+BMNR HOLDERS: ETH JUST CHANGED FOREVER! Earn on Crypto & Stocks with MaxFi: https://www.Maxfi.tech/ NVIDIA ...
+
+📺 Big Time Trades
+
+👁️ 569 • 👍 47 • 💬 5 • ⏱️ 26:54 • 3h ago
+
+---
+
+**[📢 ETHEREUM:  FOMO or Wait?! [strategy, and analysis]👀 Buy ETH now?](https://www.youtube.com/watch?v=Cg-x_dxlF2g)**
+
+ETH price update: Looking for good crypto trading opportunities? ⭐️Deep dives playlist: ...
+
+📺 BTDcrypto
+
+👁️ 52 • 👍 4 • ⏱️ 14:49 • 6h ago
 
 ---
 
@@ -254,7 +274,7 @@ Is This the Crypto Bottom? Ethereum Just Changed Everything! iTrustCapital (Part
 
 📺 CryptoWendyO
 
-👁️ 11K • 👍 335 • 💬 59 • ⏱️ 23:10 • 1d ago
+👁️ 11K • 👍 339 • 💬 59 • ⏱️ 23:10 • 1d ago
 
 ---
 
@@ -264,17 +284,27 @@ The New York Stock Exchange is turning to Avalanche to help power its push into 
 
 📺 Coinage
 
-👁️ 93 • 👍 3 • 💬 30 • ⏱️ 13:00 • 2h ago
+👁️ 616 • 👍 8 • 💬 24 • ⏱️ 13:00 • 8h ago
 
 ---
 
-**[Bitcoin CRASHES 16%! Ethereum &amp; Dogecoin Flash Major Signals!](https://www.youtube.com/watch?v=RXTVaDsN11M)**
+**[Cathie Wood :&quot;Don&#39;t SELL Before These EXACT Dates&quot; (2026 Bitcoin &amp; Ethereum Prediction)](https://www.youtube.com/watch?v=jMIZ6-o6zH8)**
 
-Get the complete market edge with DataDash Pro — combining Nick's Dash Report with Paul's Market Intel for in depth market ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 DataDash
+📺 Crypto Nutshell
 
-👁️ 1K • 👍 73 • 💬 19 • ⏱️ 20:03 • 3h ago
+👁️ 2K • 👍 42 • 💬 31 • ⏱️ 23:34 • 11h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 9th of November](https://www.youtube.com/watch?v=39twfmxa1U4)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 240 • 👍 8 • 💬 1 • ⏱️ 8:35 • 11h ago
 
 ---
 
@@ -284,17 +314,7 @@ Ethereum could move before Bitcoin and lead the altcoin market out of this pullb
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 11K • 👍 393 • 💬 64 • ⏱️ 10:11 • 1d ago
-
----
-
-**[Crypto Bleeds as BTC Outflows Spike, Jensen Smashed A Spy, &amp; Eth Dev Finally Admits The Obvious](https://www.youtube.com/watch?v=u6jdEKLe4Cc)**
-
-NVidia Scandal, BTC ETF outflows, Vitalik changes ETH again, Fidelity Solana BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 17K • 👍 426 • 💬 24 • ⏱️ 1:11:39 • 8h ago
+👁️ 11K • 👍 394 • 💬 64 • ⏱️ 10:11 • 2d ago
 
 ---
 
@@ -304,27 +324,7 @@ Full Tutorial Guide: https://tr.ee/q2uIoc Timeline: 00:00 - Results Preview 00:3
 
 📺 Thomas Sutton
 
-👁️ 10K • 👍 80 • 💬 76 • ⏱️ 5:59 • 2d ago
-
----
-
-**[ETH price prediction today: TRAP risk is still real here](https://www.youtube.com/watch?v=j6oQ24F2yI8)**
-
-Ethereum price prediction: reject 2172.33; first target 2050.32; invalidation 2240.49. This ETH (Ethereum) chart update focuses on ...
-
-📺 Dr Niki
-
-👁️ 21 • ⏱️ 8:37 • 13h ago
-
----
-
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=lRFhJK1McaI)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 120 • 💬 56 • ⏱️ 23:50 • 2d ago
+👁️ 10K • 👍 86 • 💬 81 • ⏱️ 5:59 • 2d ago
 
 ---
 
