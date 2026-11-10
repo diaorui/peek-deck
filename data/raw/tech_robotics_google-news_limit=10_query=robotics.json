@@ -15,6 +15,36 @@
       "description": "At the Conference on Robot Learning, NVIDIA is introducing GR00T 2, Isaac Lab 3.0 and new open benchmarks, built in collaboration with partners, bringing precision and scale to robot training."
     },
     {
+      "headline": "Are We Ready for Robots That Code Their Own Skills?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybFJOdVk0OHdna2ozVl83ZFRtUFViZzdaTFotUXY1djJweHZhQ3h1Y1NEWjRHWHhwdEdqYWtXVzIzZlRSbmlPTkxFeUl3MDA3NEFyeQ?oc=5",
+      "pub_date": 1794124800.0,
+      "article_url": "https://spectrum.ieee.org/agentic-robotics",
+      "image": "https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=1200&height=600&coordinates=0%2C346%2C0%2C673",
+      "description": "AI agents use simulation to solve tough robotics problems with code, not data"
+    },
+    {
+      "headline": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXAxVGN4VW9UTDVUVEZNcG9sS25IcVJNR0RxRE9IZFZwQ3NSMjI0SUktbWVNN3RWaWlUWFlpSUN1czB4T2RvdE5xeHQ1dG5zX2lGNEN5c0RUbGxoOEh6d2cxTkFQY19kOWE2aXhSMjlwaW9LS3VTYVQxdU1mU1d6cWE5UmFBOFY2WnVYZWhfaUJNWVJRTjNta1lSYmlCdTBiVU5LNzNIb2VLWEk?oc=5",
+      "pub_date": 1794294900.0,
+      "article_url": "https://www.reuters.com/business/europe-can-compete-robotics-physical-ai-top-chipmaker-ceos-say-2026-11-10/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZsNUU0b0tURkpENTdIRGt5NGNFZjQwWjBZOWkzUGFhUzRMeTFQak9FSlhwMzZ3ckd5ZHUyOHM3TFowVnY2WUxEcWZnaWJoMUYzd1NCTFpMeUt4UzEtUHJ0QkRzMzUxN0lLbmdhUXlrdmNHb25Rd05INlBpUDMtSDB5ZnVIdWJkRkxoM1lCa3dIWlJIOWIzbmhFZjFyUTNxTEhDWWI1Zw?oc=5",
+      "pub_date": 1794249746.0,
+      "article_url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/wheeled-atlas-humanoid.jpg",
+      "description": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas."
+    },
+    {
       "headline": "Agility Robotics (AGLT) Stock Keeps Valuation Questions Open Despite Nasdaq Debut",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -23,26 +53,6 @@
       "article_url": "https://finance.yahoo.com/markets/stocks/articles/agility-robotics-aglt-stock-keeps-130951307.html",
       "image": "https://s.yimg.com/lo/mysterio/api/63716565ebb160136948d580006923133638709010c1ad8a23ec99841e72d121/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff3fe598c37375f317d411f77b6895621.jpg",
       "description": "Agility Robotics has just arrived on Nasdaq after its reverse merger, and the stock has already moved enough to make investors ask a simple question: Is the current price putting a fair tag on the company compared with the book value that sits on its balance sheet? The share price has climbed about 21.5% over the past week, which puts fresh focus on whether recent buying now stretches or still aligns with what the underlying net assets support. The reverse merger and Nasdaq debut valued..."
-    },
-    {
-      "headline": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
-      "pub_date": 1794045343.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Micron: The Robotic Play Most Investors Are Missing (NASDAQ:MU)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanc2UjJTQTJSb0FHQ05pbGZqZ3lWQUZUT1Zpa1lzeFR5bjdTS2ctZzBNenhaTk5sZk9QeGE3d21fNm9XVlAyWE5kMzVtZ3IzZjF6bm1rZENUdExnSEFuQTRzdGFZMFZ5WGZhOTBMakhwd2kzRjBDakhadFBoZlBXVTZlMGI5dTlKRzZCQUE1LXNHYllBNWc?oc=5",
-      "pub_date": 1794244380.0,
-      "article_url": "https://seekingalpha.com/article/4965145-micron-the-robotic-play-most-investors-are-missing",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Claude Fable 5.2 builds a working operating system with 1,000 agents in eight days",
@@ -55,6 +65,36 @@
       "description": "Anthropic is giving Claude increasingly difficult engineering assignments, and its latest models are delivering some remarkable results."
     },
     {
+      "headline": "Robotics company Figure AI is hiring a human to babysit humanoid robots overnight",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNktxRzhBalRqY1F6dDNXU3c2aWVKS01hVnl6akc1NVpCYk52dS01QTRVWEJiZ29HeUZ6U2lYNktmc3JRN25WSmZCQ09fRWdXem1KdGlBN1pGTWRWSjJQbTJmTDl5bDVhQ1dpdjF3ZzFfZjBqSGdDTC1HNUY4cEtaN0NRQmVndVo3b19BaXdFbnQ?oc=5",
+      "pub_date": 1794307920.0,
+      "article_url": "https://www.businessinsider.com/figure-ai-hiring-human-babysit-robots-overnight-2026-11",
+      "image": "https://i.insider.com/6af249148f37e8e0b5bab9d9?width=1200&format=jpeg",
+      "description": "Robotics startup Figure AI is hiring a night-shift coordinator to oversee humanoid robots and human operators."
+    },
+    {
+      "headline": "Micron: The Robotic Play Most Investors Are Missing (NASDAQ:MU)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanc2UjJTQTJSb0FHQ05pbGZqZ3lWQUZUT1Zpa1lzeFR5bjdTS2ctZzBNenhaTk5sZk9QeGE3d21fNm9XVlAyWE5kMzVtZ3IzZjF6bm1rZENUdExnSEFuQTRzdGFZMFZ5WGZhOTBMakhwd2kzRjBDakhadFBoZlBXVTZlMGI5dTlKRzZCQUE1LXNHYllBNWc?oc=5",
+      "pub_date": 1794244380.0,
+      "article_url": "https://seekingalpha.com/article/4965145-micron-the-robotic-play-most-investors-are-missing",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "SoftBank and ABB consider China carve-out to salvage robotics deal",
+      "source": "The Japan Times",
+      "source_url": "https://www.japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHZSNXFONDJoM1ZFV2pROEJFT0FkaXRpemZqNU5IZ1pxQVhJYUtEeWtuRzdTVWt5QnNmeUZwc2hDOWxqRWpWLWtLalMzSGh0R1FWazItQThDeGZxMXFaYnJXY0VXSmV0ZVZoTEx1QjlTWmpWZmdycEZnOTZpck4xeWRwUkFDUnhRclg0TEppcGlYZw?oc=5",
+      "pub_date": 1794108180.0,
+      "article_url": "https://www.japantimes.co.jp/business/2026/11/08/companies/softbank-abb-china-carve-out/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572878.jpg?v=3.1",
+      "description": "The companies seek a solution after China\u2019s Office of the Working Mechanism for Foreign Investment Security Review halted plans worth $5.4 billion."
+    },
+    {
       "headline": "These Robotic Arms Are Powered by Algae. Watch How They Move",
       "source": "WIRED",
       "source_url": "https://www.wired.com",
@@ -63,48 +103,8 @@
       "article_url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
       "image": "https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/191:100/w_1280,c_limit/Soft-robot-arm_3.jpeg",
       "description": "The key to the movement of these flexible robots is the algae\u2019s photosynthetic capabilities."
-    },
-    {
-      "headline": "AI agents test and improve robot code in virtual worlds before deployment",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTRHl4RnpwREUzVlJickl4TzRSRGZ1WGVXaUF5LVBBcndESTM4UzhqMGpKOVVCUEhKakxsbW9mQUQyWkVYT01HbTZsZExkRkYyZHhjbzdOUUpBU25MbkhaZktuaDd5YVl0YnhJbThic19JR3pfOWhPZA?oc=5",
-      "pub_date": 1794233490.0,
-      "article_url": "https://techxplore.com/news/2026-11-ai-agents-robot-code-virtual.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI-assisted learning platform helps robots reason beyond literal commands",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkZwbnRqbVVWU2JTaWhEY2RqNTd5RWJsYTQ3UW9YUHpwTklIOFdIeVBjdVdFMUV6UkZiMjN1RnM1WXVDdGtReVJwb1VHMUFQUEtiNFFEbHRlZ3NDc05jNldLOVlzc1ZuOU1VV2otNXlYVmxyWlBmYmNlemFfWmU2ZkFiZWJFZV95WS1ETmxvaGo2WlViNC1JRWNTc1RDRzRYV0VnV3duaw?oc=5",
-      "pub_date": 1794200400.0,
-      "article_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-      "image": "https://news.mit.edu/sites/default/files/images/202611/MIT-FLEX-01-press.jpg",
-      "description": "FLEX, a new AI-assisted learning platform developed by MIT engineers, enables motion-planning robots to follow a human\u2019s explicit instructions while also drawing larger generalizations that help to improve its performance."
-    },
-    {
-      "headline": "Are We Ready for Robots That Code Their Own Skills?",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybFJOdVk0OHdna2ozVl83ZFRtUFViZzdaTFotUXY1djJweHZhQ3h1Y1NEWjRHWHhwdEdqYWtXVzIzZlRSbmlPTkxFeUl3MDA3NEFyeQ?oc=5",
-      "pub_date": 1794124800.0,
-      "article_url": "https://spectrum.ieee.org/agentic-robotics",
-      "image": "https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=1200&height=600&coordinates=0%2C346%2C0%2C673",
-      "description": "AI agents use simulation to solve tough robotics problems with code, not data"
-    },
-    {
-      "headline": "Chinese robotics stock surge on Apple robotics research",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEo1c01fMFpfZElheWJrVExPQXE5djFQOG9aQm9nQWRUdUEyZ0FmbTROSGZ3S1pNUGd6OUp6R05Rd21XMkY5NGpNRlRMSUZzRGkzd19SYlZ6eDctT3lYN2JEdjd2ZUhZSXNCMG1JNHpmel90SXdhZ2Y1N2pVVEROZ2lJZHA2eThiaDVwZWhzZms5SXhKaWVUMl96NEJENXBuTlJhQi1ObHR5RDBnYV91b2Zn?oc=5",
-      "pub_date": 1794213133.0,
-      "article_url": "https://www.investing.com/news/stock-market-news/chinese-robotics-stock-surge-on-apple-robotics-research-5010497",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-10T03:21:34.862087+00:00"
+  "fetched_at": "2026-11-10T11:33:05.254145+00:00"
 }
