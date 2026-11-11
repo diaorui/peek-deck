@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZm9aVmM0Mzlnb2FPS1k3ZmU2YXNFNi1sdlJBeW8xS1otS2ZGRkloWXhId1oxTFM0N2NrZkJzNnNSeUwwSjAzX1lVTXJEcVgtekFJTmVLODNfSng1MmZWQlYzR2ZvcHl4S0sxX1hBR2tSb1VqMFhGdFRUdTJ3WkdBMWkzYUNQM0pEUUNWdG00WDdnWUxIYUhwX0pwYk5qRnlWTkRfTC1rMEhHcnlqR0xWbGlqb1dmbWJGZFJIVzNvMm1PUmRacV9vZmtyaC1mY1V0LV9MZA?oc=5",
-      "pub_date": 1794215100.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/raycash-zama-protocol.png",
-      "description": "Raycash says it has more than 75,000 people on its waitlist and is offering USDC payments and yield through Morpho."
+      "headline": "Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge",
+      "source": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckZvNmlIMDFlNldRN1hIMmNoY2ZqMGQ3SlpaZ29DTzU4NjV3RFFPOF9uaGl1eVRkUDJudWx0WGU5MktIRUszUUlYM2MzOVNTeTItLWFvdHg5Q1p1dmtGSXJUTTdyMDJ1LTk5cU9vN3RSY0hOb2stdkxFU2xxa25HZGtXaHRRVE0?oc=5",
+      "pub_date": 1794385967.0,
+      "article_url": "https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit",
+      "image": "https://helios-i.mashable.com/imagery/articles/045VD1jHpCJAt2Ikd7H5FLU/hero-image.fill.size_1200x675.v1794382017.jpg",
+      "description": "The non-profit allegedly told workers to pledge they'd die by suicide \"with a sword.\""
     },
     {
       "headline": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
@@ -29,10 +29,50 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pdjdsNTdZVnZ6NWU0MkpYeDNJd1U4aUZNbFBOb1diOFh2Sk9NT29ZMjRPcUlHWjQtcm1UZjk5NWU5d2dCQ05Vdmo1S2lySzRNUUx6cnJ4c3NZNjRxVzFGRzY5bFhpWWZz?oc=5",
-      "pub_date": 1794328286.0,
+      "pub_date": 1794351124.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-11-10-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-10.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "Urgent Ethereum node patch issued due to hidden security flaws",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHc0TEkzZ1lIdXh3a3RMTUFYZGRfbDBGTnVuZnI3ajk1THpKNHcyR3ZhejZWZm5qR2l4Yk9RYmZJZjN4dTlSZ2pMcTNfM0hEQTE3RlRYWWFkNV9mUUdhN0JNeWxZQndIRjlMSzZlU0cwcm5Hc0ZHRWFnQVRPekp3NUlkY3VkdWhlM0NTRV9yRk00LUZRX25VbWhSOFZrcXM?oc=5",
+      "pub_date": 1794381000.0,
+      "article_url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/lighthouse-ethereum-protective-retrofit-1280x720-1.jpg",
+      "description": "Ethereum's Lighthouse urged all beacon node operators to install a high-priority security patch ahead of a planned vulnerability disclosure."
+    },
+    {
+      "headline": "Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins",
+      "source": "Crypto News",
+      "source_url": "https://crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDEwajI3MUNPcHFsYk5aTjRuYktNNzhWckRlUkhUbGdEMGs0dXJGbVR0ZEpMYTcyQmlPeGdIazM2b0pkS3hPZlRTc19wU3FWbEhKeHhiTGxCdDhURlRGY3EtbHVlb2ZnTUxWSzNlV2ZTTFFwTVg2WHR5ZnRucnJDaw?oc=5",
+      "pub_date": 1794388557.0,
+      "article_url": "https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/",
+      "image": "https://media.crypto.news/2024/09/crypto-news-Crypto-custody-has-stuck-in-2021-option02.webp",
+      "description": "Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027."
+    },
+    {
+      "headline": "Ripple Ex-CTO David Schwartz Reveals How Much XRP, Ethereum, and Bitcoin He Owns",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QUHh2Q01WUG0wZUZsY1dqTUIxck5wMDg1U3I5N0hYUkQ0RjBIQlkySFFSQUNMWTRGc1R5eTdidV9LUHZVRDI5Mk4zRzhjWURwRFFRSUVHbE10S0ZhQ2tScXRmaFllcWMtVllkblBLbXFONGM4VU9v?oc=5",
+      "pub_date": 1794390254.0,
+      "article_url": "https://beincrypto.com/david-schwartz-xrp-bitcoin-ethereum-holdings/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Drop as Investors Weigh Rate Hike Odds: Analyst Explains Why \u2018Horrific\u2019 BTC Chart Is Routine in a Bull Market",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOelhzV2Vqall1MlhYVW1vem1SWk1RSEQ1cFpQeWN0WUs5b0I2LXFURVFrSXMtR3lSa2dOQVlUZWtidDNfZUNOMDRFOGhIZmtGSU9LWVl1WUNkOWxfalNlbUdpUGliYmMxTDlHRE9wb0xoTW0yMVVzYjVZdFdaRThvS1lXbXZySGZJOU4tZTMyc25KZU1yclZYLTJ1VzdMbk1ZTHZtZGp5aTZxSTdNVC1Dd0xuMnlRWGVMOHpsS1ZBaXpSTldQRW9HaUtVTDc0cEFiWEQzNUpfSUw2NzgwRWM2WElqaW5KZjJBbk5EX2hrSGduSU5DT3N3Q2dtc3lNVEFaV1lzRmZZdzdqQV9BWnRWbFRRNHkya2k5amVGX0Q1YVY?oc=5",
+      "pub_date": 1794361624.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:c294080fe094b:0-bitcoin-ethereum-xrp-dogecoin-drop-as-investors-weigh-rate-hike-odds-analyst-explains-why-horrific-btc-chart-is-routine-in-a-bull-market/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies fell further on Tuesday as investors weighed hotter-than-expected consumer prices and the rising odds of an interest-rate hike.Crypto Market Extends LossesBitcoin fell below $73,000, while Ethereum stayed trapped in the $2,000\u2013$2,100 range amid a sharp drop in overall marke\u2026"
     },
     {
       "headline": "Digital Asset Treasury Firms Continue to Buy Bitcoin and Ethereum. That's Why I'm Bullish on These Two Cryptocurrencies.",
@@ -45,16 +85,6 @@
       "description": "These big buyers have slowed their purchases, but they haven't stopped."
     },
     {
-      "headline": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjdkMzJYbHhxem5KZ1ViT2d3LWNZQWd4SmpWOWFwNmVEOHB5c05UdzV2MXFyUmtIZTNlUDRhd0JfUWVFMmZLcUxxRDk0WjR0S0lQSHc0Yl9pcHNyRmNyRHllOXIxMEpMcHhTUEFOYzNvMnV0dlFnVlV2a0ZrR3FiZmdhQTZYQVF4X1dYWk81RkVpVjRLY2h1OQ?oc=5",
-      "pub_date": 1794264600.0,
-      "article_url": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/amundi-fund-unit-viewfinder.webp",
-      "description": "Amundi issued a tokenized share class of its Europe 600 index fund on Ethereum, with CACEIS providing the infrastructure."
-    },
-    {
       "headline": "Crypto News: New Crypto Pepeto Announces $11.3M Raised While Ethereum Price Could Reach $15,000",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -63,36 +93,6 @@
       "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-new-crypto-pepeto-announces-11-3m-raised-while-ethereum-price-could-reach-15-000-1036744199",
       "image": "https://ml.globenewswire.com/Resource/Download/ee7ecf43-b852-4488-a17b-02d1fdd2c5fc/crypto-news-new-crypto-pepeto-announces-11-3m-raised-while-ethereum-price-could-reach-15-000.jpg",
       "description": "DUBAI, United Arab Emirates, Nov.  10, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has announced that its presale total has passed $11.3 million, ..."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Drop as Investors Weigh Rate Hike Odds: Analyst Explains Why \u2018Horrific\u2019",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUZ5MWtfOG5IY0hTQVNaQWNHZEFMeGZDcmZINWswWTJ4RFd2QUdDbVVVUVFOTklNOWFGVDVLYnFaMGI0VTRFLTR6MzNKMjhmdUF0Tnh6V3F3MmZnVjNYdVBsWWlwNXNwTmpVQUYteTg5MWQ2N29VUEdkTV9SUkpXeF9COXpTeW9TMUl2cW5DLVhqQ0VuM1NXZHZ4VU8tSUhUMWt5RGhjZHZkcVBqWFdpbDBn?oc=5",
-      "pub_date": 1794361624.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63129630/bitcoin-ethereum-xrp-dogecoin-crypto-cpi-inflation",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum: Retest Zone Draws Long Interest",
-      "source": "Blockchain News",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBUlZXSkRYZkZkcml2RG40dnlpZEtWMFByaHR5Ym9NV05iNjVWSXh6V2ROSjhqUzdndVhiMFYtZmJ4SU05S0Nhc2NNY29UeHRGaGxQR2R2Tl9sSTduUDhLS0NQZ3ZKdTF4ZTJ4QWpXaGZxWlUtc3ZVei01UF9YUjQ?oc=5",
-      "pub_date": 1794301200.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-retest-zone-draws-long-interest",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Micha\u00ebl van de Poppe states Ethereum fell deeper than expected yet grew more attractive on retest of prior resistance as support with lower-timeframe sell..."
-    },
-    {
-      "headline": "Ethereum Foundation Sued Over Bizarre Suicide Pledge and Firing",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXFOLUktSmJLdzQ4LXhHcjFxS2JLeGNYc0lXRWxKX1E3NDByUVQ1VkoxMlNtX2NqSG40SERCcWl2eDZrSktISE5hUGNXNGZIT2RER011SGRPdjh3VEJhSkxiVXhfdVoxaTJ5NnBIRUMwYlY4dXlxR2lfa2NEb3AtQ0xVZzhXX3BVWHlYMjFjMmxHdTVNeDNJNmRULXl5U2NEUTcwYUJpUTRxWV9NRDd0aDJ3?oc=5",
-      "pub_date": 1794321032.0,
-      "article_url": "https://gizmodo.com/ethereum-foundation-allegedly-fired-cancer-patient-who-objected-to-suicide-pledge-2000837316",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Ethereum ended CoreWeave's mining days. Earnings test its AI bet",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-11T06:56:47.862654+00:00"
+  "fetched_at": "2026-11-11T14:58:55.629666+00:00"
 }
