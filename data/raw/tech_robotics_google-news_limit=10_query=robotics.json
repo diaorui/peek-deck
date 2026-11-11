@@ -15,6 +15,26 @@
       "description": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments."
     },
     {
+      "headline": "Intel: Robotics Is A Key Strategic Focus Going Forward",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0I0MXJtV3Z6eTc0aGNSNDZKN3dvMnUxcHdUekJGSk1rcEdEekhUUzA0eGRRTVR3V0pMOXRtV3RFa29YaWpUYTdlc19wMGUxRGtwWnBSZFlnNnJUSTBxM3F0UXlibmJha1RmMDgzU0hwOEN5OHAxR1VvSVE4Ni1lejFmRkRjanJXVlJuTVRlaGd3U3NpUEhtZTFjQy1OMm0zVVlFbDdMVnk?oc=5",
+      "pub_date": 1794396633.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXAxVGN4VW9UTDVUVEZNcG9sS25IcVJNR0RxRE9IZFZwQ3NSMjI0SUktbWVNN3RWaWlUWFlpSUN1czB4T2RvdE5xeHQ1dG5zX2lGNEN5c0RUbGxoOEh6d2cxTkFQY19kOWE2aXhSMjlwaW9LS3VTYVQxdU1mU1d6cWE5UmFBOFY2WnVYZWhfaUJNWVJRTjNta1lSYmlCdTBiVU5LNzNIb2VLWEk?oc=5",
+      "pub_date": 1794294900.0,
+      "article_url": "https://www.reuters.com/business/europe-can-compete-robotics-physical-ai-top-chipmaker-ceos-say-2026-11-10/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Ring announces Ring Robotics, ushering in a new era of security",
       "source": "About Amazon",
       "source_url": "https://www.aboutamazon.com",
@@ -23,16 +43,6 @@
       "article_url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
       "image": "https://assets.aboutamazon.com/dims4/default/b73122b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F07%2Fc1%2F82d8a1204627a837d203c57dd918%2Fring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
       "description": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it."
-    },
-    {
-      "headline": "Amazon's Ring launches flying security drones, patrol robots to guard homes, businesses",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFhaU0hya1hreHcyQmV2VlpyTU9QUEtMZE05MzkyajczbFZ1MndzSklxcEh0V0VJUTNseU02UFNhNVYwdU11VkhtT0JqQUpyZk8zT25uZUJDeWh5NlBTNTd6akMweUtNUi1MRWdTbkdCVk5Md19GbVpvUVM1VXRqckxGUGhld21abzhmc1EtdW45UEtOMnREcWlHaHFpUkgxM3Q0TGhXdmtaSnZ6UTFNRWNUam1faDFsWTVn0gHAAUFVX3lxTE1tZjRhNVNHcVZBNHo1Uk1ITERhWHJmX0xVQk80dHJqMjNpSTBDb1BJYWZSMTAzMnlqOUxodDUtMjdhdXlENXZaa1o0d0dadGNtQU0wRnpUaTdER0ZCZUlYRnpLa3FDMzhWNzNobWxNTl8zWFlKUFduY1RWOEQwVTBlSTN4ZVVZdFMtYnUwSWlJQkdUM3Bxb211dzFGU0kyNTlWLXlNc0tOckFCVGxneURJQU8tOHlzYUl4cUVqSlV3eg?oc=5",
-      "pub_date": 1794336107.0,
-      "article_url": "https://www.foxbusiness.com/technology/amazon-ring-launches-flying-security-drones-patrol-robots-guard-homes-businesses",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/amazon-ring.jpg?ve=1&tl=1",
-      "description": "Ring expands beyond fixed cameras with a new flying indoor drone and autonomous business robot built to patrol, investigate and eliminate blind spots."
     },
     {
       "headline": "Ring unveils AI-enabled home security drones, robots",
@@ -45,24 +55,34 @@
       "description": "Security camera company Ring on Tuesday unveiled flying drones and wheeled robots designed to monitor homes and businesses."
     },
     {
-      "headline": "Intel: Robotics Is A Key Strategic Focus Going Forward",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0I0MXJtV3Z6eTc0aGNSNDZKN3dvMnUxcHdUekJGSk1rcEdEekhUUzA0eGRRTVR3V0pMOXRtV3RFa29YaWpUYTdlc19wMGUxRGtwWnBSZFlnNnJUSTBxM3F0UXlibmJha1RmMDgzU0hwOEN5OHAxR1VvSVE4Ni1lejFmRkRjanJXVlJuTVRlaGd3U3NpUEhtZTFjQy1OMm0zVVlFbDdMVnk?oc=5",
-      "pub_date": 1794396633.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/",
-      "image": null,
-      "description": null
+      "headline": "Amazon's 'Ring Robotics' debuts: Rover and Drone Cam patrol with sirens",
+      "source": "Yahoo Tech",
+      "source_url": "https://tech.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaU1wVF94UWp4aVFONC1LTXlGaGtEOWhSd19VaklMQlJtUDJiY1oxZkFGdWF3cGNHY1NacTdxdkdTV0pBdFM2ZzJDd2xfcTBXTFVPSGIzbDBhVU9ES3JWaENxb1BxSTVlQlliVktFMURuYXJQa3VCNmk2RzN1Y0l4bU1BUTUtYlhNN0g2NVlwZw?oc=5",
+      "pub_date": 1794338106.0,
+      "article_url": "https://tech.yahoo.com/home/articles/amazons-ring-robotics-debuts-rover-191506357.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/63a02c4d57b2dcdb637e606a608d8dbd27e35c91b91e4b21a3578ef3ebbddf87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fandroid_central_347%2Fff0b2e3f50fb294b9f196a6a01395d90.jpg",
+      "description": "Amazon's Ring Robotics unveils a new future in home security with patrolling Ring Rover and Ring Drone cams."
     },
     {
-      "headline": "Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3lmWVBydnloanZPMGxBTndkN3VPU0F4X18tVnJSdzM2WXNsOXRtRmowU1Vua1N1WXRGYjVqRE41eXdiNmEyS2dzWl83YjFsV2VTdVlXb2ozX0w4QXh1anZUTHdsQmFpMFlabkUtRTVBcFBnTmVXaWxOMm5CM1pEOUd6TnNuS2hnbzc5dW1TNUVFcTd0T2NQUHA4TERHRFludHBOMnNnRklzRDU3X3NOTXdFT0NXRnRob3E3V1c1NTFxdw?oc=5",
-      "pub_date": 1794319205.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round",
-      "image": null,
-      "description": null
+      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bkx4MS1XeDlTd2Q2UHktLVBvX3YtSkJYMkVxa2l0TTMtTld3ZWp0d29udm1SckdEZi1wNnhqb0hJZldURzFyVUxxV1F0S2dJS3NNZWFvRWtRZ0F2Ym5taXFlUVVPM1FBTGFPV1V4Z0ZELUZfOTE5TEZxaw?oc=5",
+      "pub_date": 1794426900.0,
+      "article_url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+      "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
+    },
+    {
+      "headline": "Eric Trump-backed firm in talks to send humanoid robots into Hamas tunnels",
+      "source": "The Telegraph",
+      "source_url": "https://www.telegraph.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0NSa0hOcG9fZ1ZyNXJsS1QtN3Z5ckVQOXYtdnpIY0k2Y0k0aXRidlhURGE2N3pQTUk1aEtxQUNwLU5vd2t4dEhtR00zTEk3bVQ4Tjc5eXBSTWlvSnZhNnl3TGVTOFRaYldwME1XeEQtb1dNMUJWLXVWbEZDU0Fwd2tkZHg3bXl5QU84?oc=5",
+      "pub_date": 1794425760.0,
+      "article_url": "https://www.telegraph.co.uk/us/news/2026/11/11/trump-humanoid-robots-hamas-tunnels/",
+      "image": "https://www.telegraph.co.uk/content/dam/en-us/news/2026/11/11/TELEMMGLPICT000509700786_17944247000860_trans_NvBQzQNjv4BqRvADYWT2fNkMTyxaPU75dk0FulbihTF5yCikynWnsbo.jpeg?impolicy=OG-Standard",
+      "description": "IDF expected to purchase up to 1,000 from Foundation Future Industries where president\u2019s son is adviser"
     },
     {
       "headline": "Recent advances in AI are creating a \u2018paradigm shift\u2019 for robotics",
@@ -73,26 +93,6 @@
       "article_url": "https://news.berkeley.edu/2026/11/09/recent-advances-in-ai-are-creating-a-paradigm-shift-for-robotics/",
       "image": "https://news.berkeley.edu/wp-content/uploads/2026/11/Ambi-Robotics-AmbiKit_2-1024x683.jpg",
       "description": "Professor Ken Goldberg has long had doubts about how quickly robot capabilities could advance. But new AI models are leading to robotic innovations that give him \"goosebumps.\""
-    },
-    {
-      "headline": "Extra robotic thumb lets wearers complete two-handed tasks with one hand",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SWnZhNXFHSlN2UC04ajNWQ1dNRy1iSWdiRTlIMEhSMlBYVVBLcVRDdEU0ajRzdHRJdjdxUHg2eXpLdGUtR3pUX1ZIbjloc01Td0NlSzJYVWswYzJnNTJ0N2NoTmRLZDJtMmxqX2VyT2JKRWhYeFNmbVhnU2NrVm8?oc=5",
-      "pub_date": 1794320602.0,
-      "article_url": "https://techxplore.com/news/2026-11-extra-robotic-thumb-wearers-tasks.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzRrTEw4QUxHdnc3UUlmUE04TXJrX3BlSDFTQ0FWYWticVpaLVhvZzJlMVVodXdRLVpEbENfakZEbkROeDc5YTV2M2U1eVpxWkFlMEJUbURibWxWemJ6RWtpM0Npblp6UnVpOUtWWkE1Ri0tanhEUlNXT0FSUVFGM0w5WnBPNFE1OGF2c0R2SHhFb0J5OU1fYjhmOU1OV1FEcnlNNjhleUNLX3I1VVh5OUtoaFdvZDNqdnRn?oc=5",
-      "pub_date": 1794322839.0,
-      "article_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
-      "description": "The new model is up to twice as successful at some tasks."
     },
     {
       "headline": "Serve Robotics wants to democratize sidewalk delivery robots",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-11T14:58:55.134979+00:00"
+  "fetched_at": "2026-11-11T21:55:31.618980+00:00"
 }
