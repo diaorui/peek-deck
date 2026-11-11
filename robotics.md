@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-11T00:11:16.555264+00:00'
+updated: '2026-11-11T06:56:50.136494+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 11, 2026 at 00:11 UTC  
+**Last Updated:** November 11, 2026 at 06:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Después de un accidente se han vuelto a construir las piernas. Está vez con en
 
 I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
 
-5d ago
+6d ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev ki
 
 guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can’t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online
 
-5d ago
+6d ago
 
 ---
 
@@ -92,7 +92,7 @@ guys, need help asap, how can i connect the sg90 servo motor and 10k potentiomet
 
 Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!
 
-5d ago
+6d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I am developing a project called SmartGrid, an offline robotic tool
 
 Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?
 
-5d ago
+6d ago
 
 ---
 
@@ -120,7 +120,7 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
 
-Google DeepMind • 9h ago
+Google DeepMind • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ Google DeepMind • 9h ago
 
 Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.
 
-About Amazon • 10h ago
+About Amazon • 17h ago
 
 ---
 
@@ -136,7 +136,7 @@ About Amazon • 10h ago
 
 Ring expands beyond fixed cameras with a new flying indoor drone and autonomous business robot built to patrol, investigate and eliminate blind spots.
 
-Fox Business • 5h ago
+Fox Business • 12h ago
 
 ---
 
@@ -144,41 +144,19 @@ Fox Business • 5h ago
 
 Amazon's Ring Robotics unveils a new future in home security with patrolling Ring Rover and Ring Drone cams.
 
-Yahoo Tech • 4h ago
+Yahoo Tech • 11h ago
 
 ---
 
-**[Path Robotics hits $2.5b, Zacus' $135m, and Mubadala's secondary buy](https://www.axios.com/pro/all-deals/2026/11/10/pro-rata-premium-first-look)**
+**[Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round](https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round)**
 
-Axios • 3h ago
-
----
-
-**[Europe can compete in robotics and physical AI, top chipmaker CEOs say](https://www.reuters.com/business/europe-can-compete-robotics-physical-ai-top-chipmaker-ceos-say-2026-11-10/)**
-
-Reuters • 16h ago
+Bloomberg.com • 16h ago
 
 ---
 
-**[DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"](https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/)**
+**[Extra robotic thumb lets wearers complete two-handed tasks with one hand](https://techxplore.com/news/2026-11-extra-robotic-thumb-wearers-tasks.html)**
 
-The new model is up to twice as successful at some tasks.
-
-Ars Technica • 9h ago
-
----
-
-**[Path Robotics raises $300M at $2.45B valuation as it plans to automate more than welding](https://www.bizjournals.com/columbus/news/2026/11/10/path-robotics-unicorn-vc-round.html)**
-
-The Business Journals • 6h ago
-
----
-
-**[Robotics company Figure AI is hiring a human to babysit humanoid robots overnight](https://www.businessinsider.com/figure-ai-hiring-human-babysit-robots-overnight-2026-11)**
-
-Robotics startup Figure AI is hiring a night-shift coordinator to oversee humanoid robots and human operators.
-
-Business Insider • 13h ago
+Tech Xplore • 16h ago
 
 ---
 
@@ -190,29 +168,31 @@ University of California, Berkeley • 1d ago
 
 ---
 
+**[Europe can compete in robotics and physical AI, top chipmaker CEOs say](https://www.reuters.com/business/europe-can-compete-robotics-physical-ai-top-chipmaker-ceos-say-2026-11-10/)**
+
+Reuters • 23h ago
+
+---
+
+**[DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"](https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/)**
+
+The new model is up to twice as successful at some tasks.
+
+Ars Technica • 15h ago
+
+---
+
+**[Calvary Christian Robotics wins Falcon BEST Tournament, advances to regional championship](https://www.peakofohio.com/local-news/calvary-christian-robotics-wins-falcon-best-tournament-advances-to-regional-championship/)**
+
+The Calvary Christian School Robotics Club won the Falcon BEST Robotics Hub Tournament on Saturday at Bowling Green State University, earning a trip to…
+
+Peak of Ohio • 15h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
-
-Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
-
-📺 Arctos Robotics
-
-👁️ 68K • 👍 1K • 💬 85 • ⏱️ 8:25 • 1d ago
-
----
-
-**[China’s New Bionic AI Robots Look Too Human With Artificial Skin](https://www.youtube.com/watch?v=WPc-_6ToOqE)**
-
-China's new bionic AI robots read the news with artificial skin, camera eyes, and faces designed by Zhang Yimou. UBTech and ...
-
-📺 AI Revolution
-
-👁️ 12K • 👍 213 • 💬 16 • ⏱️ 14:05 • 23h ago
-
----
 
 **[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
 
@@ -220,27 +200,27 @@ King Kong Technology is giving away 100 crab robots for free to collect real-wor
 
 📺 Kathryn Petrillo
 
-👁️ 21K • 👍 539 • 💬 16 • ⏱️ 0:49 • 5d ago
+👁️ 21K • 👍 539 • 💬 16 • ⏱️ 0:49 • 6d ago
 
 ---
 
-**[I&#39;ve Tested Beni the Robot From the Beginning… Here&#39;s My Final Verdict!](https://www.youtube.com/watch?v=hfSRypjm2Vk)**
+**[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
 
-Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities, can travel on ...
+Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
 
-📺 51 Drones
+📺 Arctos Robotics
 
-👁️ 3K • 👍 128 • 💬 44 • ⏱️ 16:04 • 8h ago
+👁️ 92K • 👍 2K • 💬 92 • ⏱️ 8:25 • 1d ago
 
 ---
 
-**[Race Car Suspension Meets Field Robotics | SCOUT 2.0 Off-Road Mobile Robot](https://www.youtube.com/watch?v=MI86azwKTBM)**
+**[I Wasn&#39;t Expecting THIS From Ring! (Hands-on)](https://www.youtube.com/watch?v=1NARFzFzZdo)**
 
-What helps a supercar stay composed through corners can also help a robot tackle rough terrain. SCOUT 2.0 features ...
+(AD) Ring just unveiled Ring Robotics Drone Cam & Rover Cam - for your home and business! • Ring Drone Cam: ...
 
-📺 AgileX Robotics
+📺 The Tech Chap
 
-👁️ 1K • 👍 9 • ⏱️ 0:23 • 6h ago
+👁️ 32K • 👍 549 • 💬 111 • ⏱️ 5:28 • 14h ago
 
 ---
 
@@ -250,27 +230,17 @@ This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https:/
 
 📺 Unstoppable Gadgets
 
-👁️ 156K • 👍 2K • 💬 61 • ⏱️ 0:21 • 5d ago
+👁️ 164K • 👍 2K • 💬 63 • ⏱️ 0:21 • 5d ago
 
 ---
 
-**[Anker eufy Robot Vacuum Omni S2 Pro - The ONLY Robot You will Ever Need](https://www.youtube.com/watch?v=3CBc2OsDxfg)**
+**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
 
-The Anker eufy Robot Vacuum Omni S2 Pro is official! First Robot that features UV-C floor disinfection! Buy on Amazon: ...
+Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
 
-📺 Redskull
+📺 Agility
 
-👁️ 9K • 👍 452 • 💬 80 • ⏱️ 9:20 • 13h ago
-
----
-
-**[This made-in-India robot can tow 4,600 kilograms](https://www.youtube.com/watch?v=-Yodd5zfVAY)**
-
-Ati Robotics is a pioneering manufacturer of autonomous mobile robots designed for industrial and manufacturing environments.
-
-📺 RuntimeBRT
-
-👁️ 21K • 👍 1K • 💬 28 • ⏱️ 2:55 • 14h ago
+👁️ 15K • 👍 271 • 💬 38 • ⏱️ 6:44 • 6d ago
 
 ---
 
@@ -280,17 +250,47 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 181K • 👍 2K • 💬 431 • ⏱️ 15:13 • 4d ago
+👁️ 184K • 👍 3K • 💬 435 • ⏱️ 15:13 • 4d ago
 
 ---
 
-**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
+**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
 
-Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
+A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
 
-📺 Nexio Core
+📺 Inside Edition
 
-👁️ 38K • 💬 10 • ⏱️ 0:06 • 21h ago
+👁️ 27K • 👍 343 • 💬 89 • ⏱️ 1:43 • 6d ago
+
+---
+
+**[This made-in-India robot can tow 4,600 kilograms](https://www.youtube.com/watch?v=-Yodd5zfVAY)**
+
+Ati Robotics is a pioneering manufacturer of autonomous mobile robots designed for industrial and manufacturing environments.
+
+📺 RuntimeBRT
+
+👁️ 24K • 👍 2K • 💬 33 • ⏱️ 2:55 • 20h ago
+
+---
+
+**[Race Car Suspension Meets Field Robotics | SCOUT 2.0 Off-Road Mobile Robot](https://www.youtube.com/watch?v=MI86azwKTBM)**
+
+What helps a supercar stay composed through corners can also help a robot tackle rough terrain. SCOUT 2.0 features ...
+
+📺 AgileX Robotics
+
+👁️ 1K • 👍 10 • ⏱️ 0:23 • 13h ago
+
+---
+
+**[China’s New Bionic AI Robots Look Too Human With Artificial Skin](https://www.youtube.com/watch?v=WPc-_6ToOqE)**
+
+China's new bionic AI robots read the news with artificial skin, camera eyes, and faces designed by Zhang Yimou. UBTech and ...
+
+📺 AI Revolution
+
+👁️ 13K • 👍 227 • 💬 17 • ⏱️ 14:05 • 1d ago
 
 ---
 
