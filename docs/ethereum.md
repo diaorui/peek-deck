@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-11T00:11:16.553523+00:00'
+updated: '2026-11-11T06:56:50.133239+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 11, 2026 at 00:11 UTC  
+**Last Updated:** November 11, 2026 at 06:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,149.06
+### $2,066.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** -8.3%  
-**30d:** -17.9%  
-**90d:** +9.0%  
-**1y:** -39.9%  
+**24h:** -2.8%  
+**7d:** -8.1%  
+**30d:** -17.7%  
+**90d:** +9.3%  
+**1y:** -39.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.51B
+**Market Cap:** $250.77B
 Rank #2
 
-**Circulating Supply:** 122,206,811 ETH
+**Circulating Supply:** 122,209,758 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.6%
+-58.5%
 
 **All-Time Low:** $0.43
-+473331.7%
++473826.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -126,7 +126,7 @@ Post quantum & post AI transition targeting December 2028, Amundi tokenized equi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -156,57 +156,17 @@ The Block • 1d ago
 
 ---
 
-**[Cryptocurrency lawsuit: Ethereum Foundation required suicide pledge](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)**
-
-On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership’s vision for the foundation for the next 1,000 years.
-
-The Denver Post • 4d ago
-
----
-
-**[Ethereum Foundation, Vitalik Buterin sued over firing after 'suicide pledge' dispute](https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739)**
-
-The complaint challenges Fulton’s dismissal and quotes a recorded Buterin conversation about handling internal dissent.
-
-The Block • 1d ago
-
----
-
-**[Ethereum Foundation Sued After Employee With Cancer Challenges Bizarre Suicide Pledge](https://www.yahoo.com/news/us/articles/ethereum-foundation-sued-employee-cancer-183817824.html)**
-
-Ethereum Foundation faces a federal lawsuit after a cancer patient says she was fired days after disclosing her diagnosis and signing a staff protest letter.
-
-Yahoo • 5h ago
-
----
-
 **[An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes](https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes)**
 
-CoinDesk • 17h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-just-hit-lowest-170115996.html)**
+**[Current price of Ethereum for November 10, 2026](https://fortune.com/article/price-of-ethereum-11-10-2026/)**
 
-A liquidation cascade just wiped out billions in leveraged bets, and Ethereum has already cracked a level Bitcoin is still defending. Analysts are now arguing over which line decides whether the sell-off ends or the real damage begins.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Crypto News: New Crypto Pepeto Announces $11.3M Raised While Ethereum Price Could Reach $15,000](https://markets.businessinsider.com/news/stocks/crypto-news-new-crypto-pepeto-announces-11-3m-raised-while-ethereum-price-could-reach-15-000-1036744199)**
-
-DUBAI, United Arab Emirates, Nov.  10, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has announced that its presale total has passed $11.3 million, ...
-
-markets.businessinsider.com • 3h ago
-
----
-
-**[Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration](https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money)**
-
-Tom Lee's Bitmine Immersion Technologies extended its weekly Ethereum buying streak, adding 9,587 ETH worth roughly $20 million.
-
-Decrypt • 1d ago
+Fortune • 14h ago
 
 ---
 
@@ -226,6 +186,40 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Crypto News: New Crypto Pepeto Announces $11.3M Raised While Ethereum Price Could Reach $15,000](https://markets.businessinsider.com/news/stocks/crypto-news-new-crypto-pepeto-announces-11-3m-raised-while-ethereum-price-could-reach-15-000-1036744199)**
+
+DUBAI, United Arab Emirates, Nov.  10, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has announced that its presale total has passed $11.3 million, ...
+
+markets.businessinsider.com • 10h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Drop as Investors Weigh Rate Hike Odds: Analyst Explains Why ‘Horrific’](https://www.benzinga.com/crypto/cryptocurrency/26/11/63129630/bitcoin-ethereum-xrp-dogecoin-crypto-cpi-inflation)**
+
+Benzinga • 5h ago
+
+---
+
+**[Ethereum: Retest Zone Draws Long Interest](https://blockchain.news/flashnews/ethereum-retest-zone-draws-long-interest)**
+
+Michaël van de Poppe states Ethereum fell deeper than expected yet grew more attractive on retest of prior resistance as support with lower-timeframe sell...
+
+Blockchain News • 21h ago
+
+---
+
+**[Ethereum Foundation Sued Over Bizarre Suicide Pledge and Firing](https://gizmodo.com/ethereum-foundation-allegedly-fired-cancer-patient-who-objected-to-suicide-pledge-2000837316)**
+
+Gizmodo • 16h ago
+
+---
+
+**[Ethereum ended CoreWeave's mining days. Earnings test its AI bet](https://www.thestreet.com/crypto/markets/coreweave-stock-could-swing-15-on-q3-earnings-options-imply)**
+
+TheStreet • 10h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +230,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 3K • 👍 97 • 💬 21 • ⏱️ 10:11 • 2h ago
+👁️ 9K • 👍 175 • 💬 24 • ⏱️ 10:11 • 9h ago
 
 ---
 
@@ -246,7 +240,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 174 • 💬 42 • ⏱️ 22:13 • 19h ago
+👁️ 11K • 👍 200 • 💬 51 • ⏱️ 22:13 • 1d ago
+
+---
+
+**[Ethereum 2027-2028 Prediction: The Bottom Is IN!!](https://www.youtube.com/watch?v=M-NjWnsxk5c)**
+
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v109 CoinGPT - the AI Trade Agent I ...
+
+📺 Marzell Crypto
+
+👁️ 2K • 👍 20 • 💬 10 • ⏱️ 3:30 • 1d ago
 
 ---
 
@@ -256,17 +260,27 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 486 • 💬 206 • ⏱️ 15:45 • 6h ago
+👁️ 16K • 👍 585 • 💬 250 • ⏱️ 15:45 • 13h ago
 
 ---
 
-**[Ethereum has $15 BILLION of real assets. Hedera has $90M](https://www.youtube.com/watch?v=-2RolXD3VcU)**
+**[MASSIVE Crypto SHORT!  (How Low Will Ethereum Go?)](https://www.youtube.com/watch?v=1FHsl1gVMkw)**
 
-I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
+Join Skool Community - https://www.skool.com/discovercrypto/about Trade at Bitbase ...
 
-📺 Cheeky Crypto Plus
+📺 Discover Crypto
 
-👁️ 2K • 👍 87 • 💬 19 • ⏱️ 18:58 • 14h ago
+👁️ 2K • 👍 44 • 💬 52 • ⏱️ 5:28 • 7h ago
+
+---
+
+**[Ethereum price prediction - ETH is a $10k coin](https://www.youtube.com/watch?v=vcSp3YIQNRM)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 3K • 👍 74 • 💬 52 • ⏱️ 14:58 • 12h ago
 
 ---
 
@@ -276,57 +290,37 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 215 • 👍 9 • 💬 7 • ⏱️ 3:16 • 6h ago
+👁️ 534 • 👍 12 • 💬 6 • ⏱️ 3:16 • 12h ago
 
 ---
 
-**[Is ICP the New Ethereum? | Internet Computer](https://www.youtube.com/watch?v=zd_GTu4Swu0)**
+**[Ethereum has $15 BILLION of real assets. Hedera has $90M](https://www.youtube.com/watch?v=-2RolXD3VcU)**
 
-Vitalik Buterin posted on X that ether should be valued as a store of value rather than as a fee-burning token, and that the ...
+I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
 
-📺 BasedGiant
+📺 Cheeky Crypto Plus
 
-👁️ 2K • 👍 177 • 💬 12 • ⏱️ 9:02 • 1d ago
-
----
-
-**[BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67,000!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WZFYiNA3RNM)**
-
-BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67000!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 241 • 💬 81 • ⏱️ 26:05 • 7h ago
+👁️ 3K • 👍 96 • 💬 20 • ⏱️ 18:58 • 20h ago
 
 ---
 
-**[Tom Lee: Ethereum Will FLIP Bitcoin?](https://www.youtube.com/watch?v=T_5kfzBLd0U)**
+**[Ethereum Seppuku License](https://www.youtube.com/watch?v=9-GalsnGqQ4)**
 
-CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
+Writer: Brett Stelmaszek Editor: Jayson van Kerckhoven Music: Daniel Fridell - Velvet Starlight | Epidemic Sound ...
 
-📺 Altcoin Daily
+📺 UFD Tech
 
-👁️ 13K • 👍 239 • 💬 18 • ⏱️ 1:03 • 1d ago
-
----
-
-**[Ethereum Hit Its Target Zone. CPI Could Decide Everything](https://www.youtube.com/watch?v=4KMZJhGv6L4)**
-
-We analyse Ethereum on 9 November 2026 using Elliott Wave, with the target zone at $1832 to $2069 as the area where this ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 229 • 💬 9 • ⏱️ 6:36 • 21h ago
+👁️ 10K • 👍 909 • 💬 39 • ⏱️ 0:41 • 2h ago
 
 ---
 
-**[🚀 BMNR HOLDERS: ETH JUST CHANGED FOREVER!  NVIDIA SHOCKER! Jensen Huang Will NVDA Recover?](https://www.youtube.com/watch?v=VnDCthfb0rc)**
+**[Crypto: Ethereum is officially a corporate suicide cult](https://www.youtube.com/watch?v=lJSiilcSjpY)**
 
-BMNR HOLDERS: ETH JUST CHANGED FOREVER! Earn on Crypto & Stocks with MaxFi: https://www.Maxfi.tech/ NVIDIA ...
+Now with Nazis! by Amy Castor and David Gerard ...
 
-📺 Big Time Trades
+📺 Pivot to AI
 
-👁️ 3K • 👍 81 • 💬 15 • ⏱️ 26:54 • 23h ago
+👁️ 16K • 👍 1K • 💬 242 • ⏱️ 11:26 • 1d ago
 
 ---
 

@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Elon Musk Confirms \u2018Global Bankruptcy\u2019 Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
-      "pub_date": 1794259080.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/09/elon-musk-stokes-global-bankruptcy-fears-that-could-be-a-bitcoin-price-game-changer/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin Just Did Something Completely Unexpected. History Says This Will Happen Next.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -25,24 +15,44 @@
       "description": "Where does Bitcoin go after the midterm elections? History provides some clues."
     },
     {
-      "headline": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXJTMUc5ZEtrbUY1X1JIa0pLeV9POWQ5SHQtNGgyRWJOZUktSk1Dc2FRZXZHaHc2SDRGVVk3U0lMdVdkTmVSZ3pIZ3Z0dEFjUTlaVlZTaGltRzhJSW5DZFh2MWZaT2FUZEhsT1RPYjQ0Ul9pa3UxT2RWV2pMUXZMaVJ3bmZJR2hSM0tkU3N1NmkzOGdQZXc?oc=5",
-      "pub_date": 1794350762.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-miner-hive-eyes-45-224602372.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0d39a6f81c8e56c1af659d42b6ad59380ab2d4b3a8c1b9b619f0f7b37e7dab1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F080e3753917bc27619cf3cea1439ba35.png",
-      "description": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project."
-    },
-    {
-      "headline": "Bitcoin Drops to Almost Three-Month Low as US Inflation Dims Risk Appetite",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0FLMWZvR0pfNmNSdVFyODBWRG9FT21PSEd4RHBuOVpXVVJid21RQmx5Tjh3MFR5OGNud2NfX0ZhSEMyX3FRT0EwekhVMUpITFVheE5oQ2NWQXNZbFIxTkxTNVFJNDZQR0F3ZmthY0hBc2lYR2lnOVVoRHQtRWY1ci03LWZobjNzT0NMUVVleVJMcFRPWnFRRnNrZDhXNGhST2MzN2ZoMkJJRWFXTlZ6TVhiNXg2aF9KUGpEaUdZb0JiZW8?oc=5",
-      "pub_date": 1794331475.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-10/bitcoin-drops-to-almost-three-month-low-as-us-inflation-dims-risk-appetite",
+      "headline": "Elon Musk Confirms \u2018Global Bankruptcy\u2019 Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
+      "pub_date": 1794259080.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/09/elon-musk-stokes-global-bankruptcy-fears-that-could-be-a-bitcoin-price-game-changer/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Fidelity's Timmer Says Selloff Pushed Bitcoin Correlation With Stocks Higher",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhhcXBPTWp1R1NWN3VTeHJuZHFWWksxWVktbFlubE9xVmFJVmpPclFSc2VYbDBnWjRBSHkya3NyMkc4Tm1UUV9rQUVsclBpOVFRMWRrelppSks1MWRONnFCSXNVc19lUzNiSFNlSjlhWk1sOW05ZDZULTcwdnVhTEVsV0w5LXpKRkJzSjFJeXVOWTBxNHRRdlM3WldKNWZwUzM4?oc=5",
+      "pub_date": 1794376800.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/fidelitys-timmer-says-selloff-pushed-060000511.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/398841684e17714c4b4be1ea1b45ca481c905c5c1ddfe2be464077538f3e0749/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F7dd52e52ca37217c61ae434802cde791.jpg",
+      "description": "Fidelity's Timmer says Bitcoin correlation with stocks rose in last week's rout, as REITs and ex-AI shares followed."
+    },
+    {
+      "headline": "Hyperscale Data Sells Last Bitcoin, Abandons $100M BTC Treasury Plan To Fund Michigan AI Data Center",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1laYkFoTzFlMl82ZUdEWlVCWmM4Y19UUGs1ZUFQQ1VBQ3ZrSEI4aW8yamFHY1VianFlUURjMnlpM1dCUDZBcWl6Y3JqdXN4Z3dxSDRaVlVoWUdtMFJaSmh3WEpOYVBIS08xbGtMbE1DMzVzZmJoT19Da0kyY1pkUmlXRW9hWmtRMW9WdG9PSzFvVEJ5Rk5wTkdEdmJlWVVZ?oc=5",
+      "pub_date": 1794372300.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/hyperscale-data-sells-last-bitcoin-044518433.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ae10bc3f9addbc6996e2d4ff170c5239c9c625c5580844a1606485f0bb808dc2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2a06ee8bfc4b7ee34df423de8bf36160",
+      "description": "Hyperscale Data projected third-quarter revenue at approximately $40 million, up approximately 64% from a year ago."
+    },
+    {
+      "headline": "Fold Holdings Inc (FLD) (Q3 2026) Earnings Call Highlights: Bitcoin Gift Card Momentum and ...",
+      "source": "Yahoo Finance Singapore",
+      "source_url": "https://sg.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sQWdrV01najJfTVoxVGFpTmZnUWU0bFBJYzI5eWx0eXhVaVI3d2xsYy1YX1diZTBFUVdhVGdRX0Y3dVh4WWJFMUdVSlAyNjQ0WWF4OGJtZ0JUX2p3SThwN0NUWWwwWFVwUWRYc3ZCWHVHZFR4eFk2bU1YMWJOUQ?oc=5",
+      "pub_date": 1794373620.0,
+      "article_url": "https://sg.finance.yahoo.com/news/fold-holdings-inc-fld-q3-050706987.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Fold Holdings Inc (FLD) posted a 44% revenue drop to $4.2 million but saw custody and trading revenue nearly quadruple, driven by its TikTok-partnered Bitcoin gift card and new deposit products."
     },
     {
       "headline": "Virtual fruit fly brains can play Doom and trade bitcoin",
@@ -55,34 +65,14 @@
       "description": "Researchers created a new map of the fruit fly brain. Then the Internet found it"
     },
     {
-      "headline": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTW9Kai1jSnhka3dBUWxaUG1seURfbzFKeHVmUzFRRjlZc0U1UVlYNnlHbmRZdXBYOFpxTFltTDdaMDladzVDMkR2ZGVWejRDRGY3elBpUTZTaW5RN18wa3RGM3J0eV9GUkJVOUlrWS03a05YU0JOaDNPYXZza2M2SDI1YUNwUlJHNFdfdTl4RFpacEpXWGpVOG1NSVJkTW1PU2MtZG9XZWhQbTExOHZ1SzNjMDFZVHl6OG9UTHBHR0x6TE5hSlQ1WA?oc=5",
-      "pub_date": 1794290015.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+      "headline": "Bitcoin Drops to Almost Three-Month Low as US Inflation Dims Risk Appetite",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0FLMWZvR0pfNmNSdVFyODBWRG9FT21PSEd4RHBuOVpXVVJid21RQmx5Tjh3MFR5OGNud2NfX0ZhSEMyX3FRT0EwekhVMUpITFVheE5oQ2NWQXNZbFIxTkxTNVFJNDZQR0F3ZmthY0hBc2lYR2lnOVVoRHQtRWY1ci03LWZobjNzT0NMUVVleVJMcFRPWnFRRnNrZDhXNGhST2MzN2ZoMkJJRWFXTlZ6TVhiNXg2aF9KUGpEaUdZb0JiZW8?oc=5",
+      "pub_date": 1794331475.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-10/bitcoin-drops-to-almost-three-month-low-as-us-inflation-dims-risk-appetite",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "US CPI Tops Forecasts in October as Bitcoin, Ether Fall",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkcxVGlFWEw0X1JaQW1wTWU3SThLcGdoSG9Qejl4YTFWaE16MUtUdmh1WkprYnZQeXZwSTM3Si0tVGprazVmNjNodUdrUUVoeWU5TVFYUDFTQTdjYmxpYVV3cGtOajlNa04yWDlFWEhrZWRFMWlFNEhBVnFibnNNTUhjbmpUUmdsLUF0bkNPZC1lMFE?oc=5",
-      "pub_date": 1794292904.0,
-      "article_url": "https://thedefiant.io/news/markets/us-cpi-tops-forecasts-in-october-as-bitcoin-ether-fall",
-      "image": "https://cdn.sanity.io/images/6oftkxoa/production/c5c152c18ca3ea805794d1df1e95f3e7d22507ce-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff",
-      "description": "October US CPI rose 0.4% and core prices increased 0.3%, above consensus forecasts. Bitcoin and ether traded lower around the release."
-    },
-    {
-      "headline": "Over $10 billion in leveraged Bitcoin shorts stack up near $83K, raising squeeze risk",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWEZseHNabC04Nk83YmRZNTBGaHdROW1QZjhiOVlRY0JhUjJtTGtiMEF2UmpPb1VQb3R0RGhhQ1JTYnp1cTBLSHE5Nmd5SEwtTFlreHpPM21uZjBqY3VXT2lhTmtYcUx1ZGlwRkJqSm53MlR5RXVFNS11czlQbGFfcUxGWGlyM0NwdXMtWk1kVUpsVERKN0NkYlczdEVtY0VYUjhsSDZlWGNNc292QUhQNTJ3RENlbVRtMnpqQWZtVU5LelNCRW1Uc0FBdDNya0lCVHdzWDFRdUdtaTg4TXZFYg?oc=5",
-      "pub_date": 1794317030.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:25ba4cbfe094b:0-over-10-billion-in-leveraged-bitcoin-shorts-stack-up-near-83k-raising-squeeze-risk/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Traders have piled more than $10 billion in leveraged short bets on Bitcoin, stacked up to the $83,000 level as of November 9, 2026, according to trader commentary circulating on X.Bitcoin was trading in the mid-to-high $70,000s at the time.That setup has revived talk of a short squeeze.The most de\u2026"
     },
     {
       "headline": "Trump Media Pledged 11,385 Bitcoin. Could a $1 Billion Note Demand Force It to Sell?",
@@ -95,16 +85,26 @@
       "description": "Trump Media has pledged 11,385 Bitcoin while facing a $1 billion cash option on November 30. Could noteholders force a sale?"
     },
     {
-      "headline": "Hyperscale Data Sells Remaining Bitcoin Reserves to Reduce Debt and Fund Michigan AI Data Center",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa255ak9ib21CcjlEVmU4M3gyUXZuU3FiSzRIU0V6SWR3WmU1Q0hSRWp6dWFMNElTaWVuQ0JKS0Fwd0s1YzM5QUdFdk5ST3M5bVdra05fLTU4VGhaNVhsWUxKTU56MXdxbTZNamlzMTlaX0tYZFdpR0dwLXlDMUEtOGJaNTJtQlVqazhQNE5keVhHUmktT3lBdkhna0gyRVlHaDJ1YTY1VmFGYnltblliTzN6d29LQVBGTHNuc1U4YlZjdzlKUm5lSF9SUk4yX2NwMkZSaUZib3F1S2paa2JVNEhGNTY3dzA?oc=5",
-      "pub_date": 1794310200.0,
-      "article_url": "https://www.prnewswire.com/news-releases/hyperscale-data-sells-remaining-bitcoin-reserves-to-reduce-debt-and-fund-michigan-ai-data-center-302934282.html",
-      "image": "https://mmx.prnewswire.com/media/MS1845972/Hyperscale-Data-Registered-Mark-Logo.jpg?id=OA3068687&p=facebook",
-      "description": "/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company (\"Hyperscale Data\" or the \"Company\"), today..."
+      "headline": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTW9Kai1jSnhka3dBUWxaUG1seURfbzFKeHVmUzFRRjlZc0U1UVlYNnlHbmRZdXBYOFpxTFltTDdaMDladzVDMkR2ZGVWejRDRGY3elBpUTZTaW5RN18wa3RGM3J0eV9GUkJVOUlrWS03a05YU0JOaDNPYXZza2M2SDI1YUNwUlJHNFdfdTl4RFpacEpXWGpVOG1NSVJkTW1PU2MtZG9XZWhQbTExOHZ1SzNjMDFZVHl6OG9UTHBHR0x6TE5hSlQ1WA?oc=5",
+      "pub_date": 1794290015.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "MARA Holdings Jumps 11% on $500 Million Buyback, Riot Platforms Climbs 2% on Jefferies Upgrade Despite Bitcoin\u2019s Drop; Core Scientific Edges Higher",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelozWmplcC0tSTdiOF80bFQxbklrdHRlRzNHbW5mZmRkQ0N6dXdadU9iUlhqM202WGtjN1V3c3JHMTJRNXlkZC1VNmNkUmlaX1JoMUM4bG9iSE9hcGdaUFp0c2VNVmFTeHlkR1pWX3VLeWZWbVZHLXlSSkZWdkgtZlhpYWVWQS1EX3o3LUxFWjdNbG5KRFE?oc=5",
+      "pub_date": 1794326659.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/mara-holdings-jumps-11-500-160419668.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1253cef80d7f7b52899316eeed73efacc1008ad1f51e2dcc0ba35ef9fcdfe5fb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2806305cfdab2d6628a854e4afd0f434.jpg",
+      "description": "Bitcoin is sliding and Fed hike odds are climbing, yet three miners are rallying anyway. One of them posted a huge earnings beat that hides a much weaker quarter underneath, and the real test comes before year end."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-11T00:11:05.354819+00:00"
+  "fetched_at": "2026-11-11T06:56:35.424678+00:00"
 }
