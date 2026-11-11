@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-11T06:56:50.127166+00:00'
+updated: '2026-11-11T14:59:07.955778+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 11, 2026 at 06:56 UTC  
+**Last Updated:** November 11, 2026 at 14:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,567.67
+### $73,832.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
+**24h:** +0.5%  
 **7d:** -3.2%  
-**30d:** -11.4%  
-**90d:** +16.9%  
-**1y:** -27.6%  
+**30d:** -11.5%  
+**90d:** +16.8%  
+**1y:** -27.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1478.26B
+**Market Cap:** $1478.85B
 Rank #1
 
-**Circulating Supply:** 20,110,575 BTC
+**Circulating Supply:** 20,110,675 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
 -41.7%
 
 **All-Time Low:** $67.81
-+108299.9%
++108364.8%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[∞/21M](https://www.reddit.com/r/Bitcoin/comments/1xrtawq/21m/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -105,7 +105,7 @@ The miner heats water to 60°C for the radiators and underfloor heating in a 180
 
 **[Same](https://www.reddit.com/r/Bitcoin/comments/1xrl6pk/same/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -129,7 +129,7 @@ The LNbits project issued an emergency warning instructing operators to shut dow
 
 The world is on fire, and we're all still at the table yelling at a chart at 3 AM. So let's hear it. No "we're so early," no shilling, just the one move that still haunts you.
 
-1d ago
+2d ago
 
 ---
 
@@ -157,7 +157,7 @@ Prepare for what's coming. Put in the work to understand bitcoin.
 
 Where does Bitcoin go after the midterm elections? History provides some clues.
 
-The Motley Fool • 15h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -167,27 +167,23 @@ Forbes • 1d ago
 
 ---
 
-**[Fidelity's Timmer Says Selloff Pushed Bitcoin Correlation With Stocks Higher](https://finance.yahoo.com/markets/crypto/articles/fidelitys-timmer-says-selloff-pushed-060000511.html)**
+**[Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound](https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks)**
 
-Fidelity's Timmer says Bitcoin correlation with stocks rose in last week's rout, as REITs and ex-AI shares followed.
-
-Yahoo Finance • 56m ago
+CoinDesk • 35m ago
 
 ---
 
-**[Hyperscale Data Sells Last Bitcoin, Abandons $100M BTC Treasury Plan To Fund Michigan AI Data Center](https://finance.yahoo.com/markets/crypto/articles/hyperscale-data-sells-last-bitcoin-044518433.html)**
+**[Bitcoin ETF Outflows Continue As Crypto Prices Sink](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-continue-crypto-143800988.html)**
 
-Hyperscale Data projected third-quarter revenue at approximately $40 million, up approximately 64% from a year ago.
+Exchange-traded funds (ETFs) that track the spot price of Bitcoin (CRYPTO: $BTC) continue to experience steady outf...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 21m ago
 
 ---
 
-**[Fold Holdings Inc (FLD) (Q3 2026) Earnings Call Highlights: Bitcoin Gift Card Momentum and ...](https://sg.finance.yahoo.com/news/fold-holdings-inc-fld-q3-050706987.html)**
+**[MillionMiner Keeps 95 MW of U.S. Hosting Dedicated to Bitcoin Mining, Adds AI Servers to its Product Line](https://www.coindesk.com/press-release/2026/11/11/millionminer-keeps-95-mw-of-u-s-hosting-dedicated-to-bitcoin-mining-adds-ai-servers-to-its-product-line)**
 
-Fold Holdings Inc (FLD) posted a 44% revenue drop to $4.2 million but saw custody and trading revenue nearly quadruple, driven by its TikTok-partnered Bitcoin gift card and new deposit products.
-
-Yahoo Finance Singapore • 1h ago
+CoinDesk • 20m ago
 
 ---
 
@@ -195,35 +191,37 @@ Yahoo Finance Singapore • 1h ago
 
 Researchers created a new map of the fruit fly brain. Then the Internet found it
 
-Scientific American • 19h ago
+Scientific American • 1d ago
 
 ---
 
 **[Bitcoin Drops to Almost Three-Month Low as US Inflation Dims Risk Appetite](https://www.bloomberg.com/news/articles/2026-11-10/bitcoin-drops-to-almost-three-month-low-as-us-inflation-dims-risk-appetite)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 21h ago
 
 ---
 
-**[Trump Media Pledged 11,385 Bitcoin. Could a $1 Billion Note Demand Force It to Sell?](https://247wallst.com/investing/cryptocurrency/2026/11/10/trump-media-pledged-11385-bitcoin-could-a-1-billion-note-demand-force-it-to-sell/)**
+**[Why Bitcoin, Nasdaq, AI Stocks, and Chips Move Together? The Liquidity Machine Explained](https://www.tradingview.com/news/cryptonews:26ea9fb97094b:0-why-bitcoin-nasdaq-ai-stocks-and-chips-move-together-the-liquidity-machine-explained/)**
 
-Trump Media has pledged 11,385 Bitcoin while facing a $1 billion cash option on November 30. Could noteholders force a sale?
+Bitcoin can fall alongside Nvidia, and Nasdaq can rally while Ethereum follows. Semiconductor stocks can plunge as investors reassess AI spending, dragging crypto sentiment down with them. These markets appear to have little in common. Bitcoin was designed outside traditional banking, while chipmak…
 
-24/7 Wall St. • 12h ago
-
----
-
-**[Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more](https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more)**
-
-CoinDesk • 1d ago
+TradingView • 6h ago
 
 ---
 
-**[MARA Holdings Jumps 11% on $500 Million Buyback, Riot Platforms Climbs 2% on Jefferies Upgrade Despite Bitcoin’s Drop; Core Scientific Edges Higher](https://finance.yahoo.com/markets/stocks/articles/mara-holdings-jumps-11-500-160419668.html)**
+**[JPMorgan Says Strategy Could Face $2.8 Billion in Forced Selling. What Would That Do to the Bitcoin Price?](https://247wallst.com/investing/cryptocurrency/2026/11/11/jpmorgan-says-strategy-could-face-2-8-billion-in-forced-selling-what-would-that-do-to-the-bitcoin-price/)**
 
-Bitcoin is sliding and Fed hike odds are climbing, yet three miners are rallying anyway. One of them posted a huge earnings beat that hides a much weaker quarter underneath, and the real test comes before year end.
+JPMorgan estimated Strategy could face $2.8 billion in forced selling after an MSCI exit. Here's whether any of it reaches Bitcoin.
 
-Yahoo Finance • 14h ago
+24/7 Wall St. • 1h ago
+
+---
+
+**[Current price of Bitcoin for Nov. 11, 2026](https://fortune.com/article/price-of-bitcoin-11-11-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 12h ago
 
 ---
 
@@ -235,7 +233,7 @@ Yahoo Finance • 14h ago
 
 The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlesticks, a footprint chart and every trade as a bubble. Free, no sign-up.
 
-⬆️ 3 • 💬 0 • 4d ago • [Swiftedge](https://swiftedge.uk/depth)
+⬆️ 3 • 💬 0 • 5d ago • [Swiftedge](https://swiftedge.uk/depth)
 
 ---
 
@@ -249,7 +247,7 @@ Silent Payments has suffered from the lack of multisig & hardware wallet support
 
 **[Digital Forensics Case (Who Tried to Trade Bitcoin)](https://news.ycombinator.com/item?id=50447845)**
 
-⬆️ 1 • 💬 0 • 7h ago • [luthmann.substack.com](https://luthmann.substack.com/p/rape-or-setup)
+⬆️ 1 • 💬 0 • 15h ago • [luthmann.substack.com](https://luthmann.substack.com/p/rape-or-setup)
 
 ---
 
@@ -267,11 +265,19 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 ---
 
+**[Web-based tools in one place](https://news.ycombinator.com/item?id=50451750)**
+
+The one tool for it all. Image, Video, Audio & Code Tools and others. Convert (JPG to PNG, PDF to JPG, SVG to PNG, WEBP to JPG) | Compress image | Combine PDF | Clean metadata | Create a signature | Convert Audio | Create GIF | Code snippet tool
+
+⬆️ 2 • 💬 2 • 4h ago • [BC Tools](https://bitcrunching.com/)
+
+---
+
 **[Discord is ditching Electron and its new app uses less RAM](https://news.ycombinator.com/item?id=50378625)**
 
 Discord is moving its apps fully over to the Rust programming language.
 
-⬆️ 496 • 💬 439 • 5d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
+⬆️ 496 • 💬 439 • 6d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 
 ---
 
@@ -285,7 +291,17 @@ Crypto Crashing… How Low Can Bitcoin Go? (Cardano Founder Sold?) Become a chan
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 212 • ⏱️ 11:07 • 9h ago
+👁️ 62K • 👍 2K • 💬 245 • ⏱️ 11:07 • 17h ago
+
+---
+
+**[Bitcoin Faces Critical $73K Test](https://www.youtube.com/watch?v=oD5NYYj1vo0)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
+
+📺 CryptosRUs
+
+👁️ 1K • 👍 125 • 33m ago
 
 ---
 
@@ -295,87 +311,77 @@ Bitcoin just lost its 50-week moving average after five straight red weeks, reig
 
 📺 Simply Bitcoin
 
-👁️ 45K • 👍 2K • 💬 241 • ⏱️ 17:23 • 1d ago
+👁️ 47K • 👍 2K • 💬 227 • ⏱️ 17:23 • 1d ago
 
 ---
 
-**[Saylor Saw This In June. Bitcoin Bottomed Right After](https://www.youtube.com/watch?v=anSDOymvNk8)**
+**[Bitcoin: Brutally Honest Truth](https://www.youtube.com/watch?v=AhxU2bq6QOk)**
 
-Bitcoin isn't falling because it's broken — it's because Wall Street is chasing the biggest AI IPOs in history. Michael Saylor warned ...
+Bitcoin: Brutally Honest Truth CPI hot but markets don't care Stocks confirming cycle lows? Bitcoin & ETH - where's the ...
 
-📺 Digital Asset News
+📺 Camel Finance
 
-👁️ 12K • 👍 431 • 💬 37 • ⏱️ 33:14 • 10h ago
+👁️ 6K • 👍 470 • ⏱️ 16:50 • 3h ago
 
 ---
 
-**[James Lavish: Why Bitcoin Could Hit $500K by 2029](https://www.youtube.com/watch?v=VbFONMQjm0A)**
+**[Elizabeth Warren just made her first move](https://www.youtube.com/watch?v=Rv1vVwhEhwE)**
 
-James Lavish explains why Bitcoin's 3-year cycle points to a $400K–$500K peak by mid-2029, and why he'd be shocked if BTC ...
+Marathon sold 13597 Bitcoin for about $1.1 billion in six weeks, roughly 40% of what it held at the end of September, and used ...
+
+📺 Yahoo Finance
+
+👁️ 46K • 👍 711 • 💬 253 • ⏱️ 14:49 • 20h ago
+
+---
+
+**[LIVE TRADING CRYPTO &amp; STOCKS US OPEN | Even If Bitcoin SQUEEZES... The Bottom Isn&#39;t In!](https://www.youtube.com/watch?v=i2gpfVSvm-I)**
+
+Dylan's back for the US Open! We're diving into the market carnage, hunting for those sexy reji plays on Bitcoin, Gold, Nasdaq, ...
+
+📺 Chart Hackers
+
+👁️ 1K • 👍 145 • 2h ago
+
+---
+
+**[Cathie Wood :&quot;The Fed’s About to TRIGGER Bitcoin’s Biggest Bull Market” | BTC Update 2026](https://www.youtube.com/watch?v=MHGLgABjtgM)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 2K • 👍 64 • 💬 20 • ⏱️ 22:54 • 8h ago
+
+---
+
+**[The Truth About the &quot;Pro-Bitcoin Congress&quot; Hype](https://www.youtube.com/watch?v=-1wjtPhNgG4)**
+
+Is Washington really about to become pro-crypto, or is the enthusiasm premature? In this clip from The News Block, Natalie ...
+
+📺 Natalie Brunell
+
+👁️ 215 • 👍 15 • ⏱️ 1:22 • 36m ago
+
+---
+
+**[James Lavish: Bitcoin Price Target, $400K–$500K by Mid-2029](https://www.youtube.com/watch?v=wVb51WmQ2Os)**
+
+James Lavish told BMTV last month that he believes the bottom is in, and he says that cycle call still holds after hike odds spiked ...
 
 📺 Bitcoin Magazine
 
-👁️ 2K • 👍 72 • 💬 10 • ⏱️ 1:36 • 6h ago
+👁️ 14K • 👍 277 • 💬 28 • ⏱️ 25:01 • 17h ago
 
 ---
 
-**[Terrible News for Nvidia &amp; Crypto Investors](https://www.youtube.com/watch?v=zzUEnuqJaeg)**
+**[GOLD Trading LIVE: BTC Live Trading Bitcoin Analysis | 11 NOV #crypto #btc](https://www.youtube.com/watch?v=Kc8l5eIdCu0)**
 
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+Telegram- https://t.me/+AjKytu9tGz1iMjU1 ✓BEST CFD BROKER(FOREX+CRYPTO) -PRIMEXBT- ...
 
-📺 Altcoin Daily
+📺 Trade For Profit
 
-👁️ 66K • 👍 2K • 💬 61 • ⏱️ 10:00 • 1d ago
-
----
-
-**[It&#39;s TELLING US what&#39;s about to happen to Bitcoin....](https://www.youtube.com/watch?v=-Npwkfv2ZPo)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
-
-📺 Tyler S
-
-👁️ 17K • 👍 559 • 💬 56 • ⏱️ 16:35 • 13h ago
-
----
-
-**[Why Bitcoin Just Dumped.](https://www.youtube.com/watch?v=UJFQBaMh3yg)**
-
-Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 84K • 👍 2K • 💬 122 • ⏱️ 12:01 • 19h ago
-
----
-
-**[Bitcoin CRASHES Below $73K! Bull Market OVER?](https://www.youtube.com/watch?v=vCHx7Zdc2zc)**
-
-Bitcoin crashed below 73K after a hotter-than-expected CPI report. Is the bull market over? Nick Valdez, Chief Crypto Strategist for ...
-
-📺 Verified Investing
-
-👁️ 14K • 👍 445 • 💬 22 • ⏱️ 19:51 • 11h ago
-
----
-
-**[Bitcoin Falls to the Bull Market Support Band](https://www.youtube.com/watch?v=0AGXzdZNwq0)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 210K • 👍 6K • 💬 219 • ⏱️ 9:28 • 2d ago
-
----
-
-**[CPI Tonight: Why Bitcoin Ignored the Stock Rally](https://www.youtube.com/watch?v=W7AegdI_BTY)**
-
-US stocks had their best day since April on Monday, with chip stocks up about 7%, but Bitcoin barely moved. Why did crypto sit out ...
-
-📺 Crypto Jargon
-
-👁️ 9K • 👍 160 • 💬 17 • ⏱️ 6:09 • 22h ago
+👁️ 5K • 👍 855 • 1h ago
 
 ---
 

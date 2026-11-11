@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-11T06:56:50.136494+00:00'
+updated: '2026-11-11T14:59:07.962083+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 11, 2026 at 06:56 UTC  
+**Last Updated:** November 11, 2026 at 14:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D
 
-5d ago
+6d ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello everyone, I’m new to the group. I’ve been interested in robotics from 
 
 I just finished testing the legs, i had to swap the modules i used to control the actuators because they were too weak. The test went smoothly, no burning just a little code adjustments and the legs move as they should. Next step it to figure out the necessary movements for it to walk.
 
-6d ago
+7d ago
 
 ---
 
@@ -120,7 +120,7 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
 
-Google DeepMind • 15h ago
+Google DeepMind • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ Google DeepMind • 15h ago
 
 Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.
 
-About Amazon • 17h ago
+About Amazon • 1d ago
 
 ---
 
@@ -136,27 +136,27 @@ About Amazon • 17h ago
 
 Ring expands beyond fixed cameras with a new flying indoor drone and autonomous business robot built to patrol, investigate and eliminate blind spots.
 
-Fox Business • 12h ago
+Fox Business • 20h ago
 
 ---
 
-**[Amazon's 'Ring Robotics' debuts: Rover and Drone Cam patrol with sirens](https://tech.yahoo.com/home/articles/amazons-ring-robotics-debuts-rover-191506357.html)**
+**[Ring unveils AI-enabled home security drones, robots](https://nypost.com/2026/11/10/business/ring-unveils-flying-drones-and-rolling-robots-for-homes-and-businesses/)**
 
-Amazon's Ring Robotics unveils a new future in home security with patrolling Ring Rover and Ring Drone cams.
+Security camera company Ring on Tuesday unveiled flying drones and wheeled robots designed to monitor homes and businesses.
 
-Yahoo Tech • 11h ago
+New York Post • 17h ago
+
+---
+
+**[Intel: Robotics Is A Key Strategic Focus Going Forward](https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/)**
+
+Forbes • 3h ago
 
 ---
 
 **[Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round](https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round)**
 
-Bloomberg.com • 16h ago
-
----
-
-**[Extra robotic thumb lets wearers complete two-handed tasks with one hand](https://techxplore.com/news/2026-11-extra-robotic-thumb-wearers-tasks.html)**
-
-Tech Xplore • 16h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -164,13 +164,13 @@ Tech Xplore • 16h ago
 
 Professor Ken Goldberg has long had doubts about how quickly robot capabilities could advance. But new AI models are leading to robotic innovations that give him "goosebumps."
 
-University of California, Berkeley • 1d ago
+University of California, Berkeley • 2d ago
 
 ---
 
-**[Europe can compete in robotics and physical AI, top chipmaker CEOs say](https://www.reuters.com/business/europe-can-compete-robotics-physical-ai-top-chipmaker-ceos-say-2026-11-10/)**
+**[Extra robotic thumb lets wearers complete two-handed tasks with one hand](https://techxplore.com/news/2026-11-extra-robotic-thumb-wearers-tasks.html)**
 
-Reuters • 23h ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -178,15 +178,15 @@ Reuters • 23h ago
 
 The new model is up to twice as successful at some tasks.
 
-Ars Technica • 15h ago
+Ars Technica • 23h ago
 
 ---
 
-**[Calvary Christian Robotics wins Falcon BEST Tournament, advances to regional championship](https://www.peakofohio.com/local-news/calvary-christian-robotics-wins-falcon-best-tournament-advances-to-regional-championship/)**
+**[Serve Robotics wants to democratize sidewalk delivery robots](https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery)**
 
-The Calvary Christian School Robotics Club won the Falcon BEST Robotics Hub Tournament on Saturday at Bowling Green State University, earning a trip to…
+Serve Robotics is breaking away from delivery app lock-in.
 
-Peak of Ohio • 15h ago
+The Verge • 2h ago
 
 ---
 
@@ -204,83 +204,33 @@ King Kong Technology is giving away 100 crab robots for free to collect real-wor
 
 ---
 
-**[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
-
-Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
-
-📺 Arctos Robotics
-
-👁️ 92K • 👍 2K • 💬 92 • ⏱️ 8:25 • 1d ago
-
----
-
 **[I Wasn&#39;t Expecting THIS From Ring! (Hands-on)](https://www.youtube.com/watch?v=1NARFzFzZdo)**
 
 (AD) Ring just unveiled Ring Robotics Drone Cam & Rover Cam - for your home and business! • Ring Drone Cam: ...
 
 📺 The Tech Chap
 
-👁️ 32K • 👍 549 • 💬 111 • ⏱️ 5:28 • 14h ago
+👁️ 42K • 👍 628 • 💬 128 • ⏱️ 5:28 • 22h ago
 
 ---
 
-**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
+**[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
 
-This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
+Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
 
-📺 Unstoppable Gadgets
+📺 Arctos Robotics
 
-👁️ 164K • 👍 2K • 💬 63 • ⏱️ 0:21 • 5d ago
-
----
-
-**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
-
-Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
-
-📺 Agility
-
-👁️ 15K • 👍 271 • 💬 38 • ⏱️ 6:44 • 6d ago
+👁️ 116K • 👍 2K • 💬 104 • ⏱️ 8:25 • 1d ago
 
 ---
 
-**[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
+**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
 
-Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
+Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
 
-📺 Statrys
+📺 Nexio Core
 
-👁️ 184K • 👍 3K • 💬 435 • ⏱️ 15:13 • 4d ago
-
----
-
-**[Life-Like Robots Meet People In Public](https://www.youtube.com/watch?v=BiwgHRTXByA)**
-
-A humanoid robot shook hands and struck poses while out in public in California. The AI-powered robot was accompanied by a ...
-
-📺 Inside Edition
-
-👁️ 27K • 👍 343 • 💬 89 • ⏱️ 1:43 • 6d ago
-
----
-
-**[This made-in-India robot can tow 4,600 kilograms](https://www.youtube.com/watch?v=-Yodd5zfVAY)**
-
-Ati Robotics is a pioneering manufacturer of autonomous mobile robots designed for industrial and manufacturing environments.
-
-📺 RuntimeBRT
-
-👁️ 24K • 👍 2K • 💬 33 • ⏱️ 2:55 • 20h ago
-
----
-
-**[Race Car Suspension Meets Field Robotics | SCOUT 2.0 Off-Road Mobile Robot](https://www.youtube.com/watch?v=MI86azwKTBM)**
-
-What helps a supercar stay composed through corners can also help a robot tackle rough terrain. SCOUT 2.0 features ...
-
-📺 AgileX Robotics
-
-👁️ 1K • 👍 10 • ⏱️ 0:23 • 13h ago
+👁️ 47K • 💬 12 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -290,7 +240,57 @@ China's new bionic AI robots read the news with artificial skin, camera eyes, an
 
 📺 AI Revolution
 
-👁️ 13K • 👍 227 • 💬 17 • ⏱️ 14:05 • 1d ago
+👁️ 14K • 👍 232 • 💬 17 • ⏱️ 14:05 • 1d ago
+
+---
+
+**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
+
+This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
+
+📺 Unstoppable Gadgets
+
+👁️ 177K • 👍 3K • 💬 68 • ⏱️ 0:21 • 5d ago
+
+---
+
+**[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
+
+Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
+
+📺 Statrys
+
+👁️ 188K • 👍 3K • 💬 439 • ⏱️ 15:13 • 5d ago
+
+---
+
+**[Anker eufy Robot Vacuum Omni S2 Pro - The ONLY Robot You will Ever Need](https://www.youtube.com/watch?v=3CBc2OsDxfg)**
+
+The Anker eufy Robot Vacuum Omni S2 Pro is official! First Robot that features UV-C floor disinfection! Buy on Amazon: ...
+
+📺 Redskull
+
+👁️ 13K • 👍 521 • 💬 92 • ⏱️ 9:20 • 1d ago
+
+---
+
+**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
+
+Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
+
+📺 Agility
+
+👁️ 15K • 👍 273 • 💬 38 • ⏱️ 6:44 • 6d ago
+
+---
+
+**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
+
+https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
+
+📺 Casey.aicreates
+
+👁️ 25K • 👍 1K • 💬 42 • ⏱️ 1:44 • 4d ago
 
 ---
 

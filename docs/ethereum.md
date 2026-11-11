@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-11T06:56:50.133239+00:00'
+updated: '2026-11-11T14:59:07.959873+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 11, 2026 at 06:56 UTC  
+**Last Updated:** November 11, 2026 at 14:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,066.79
+### $2,058.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
+**24h:** +1.6%  
 **7d:** -8.1%  
 **30d:** -17.7%  
-**90d:** +9.3%  
+**90d:** +9.2%  
 **1y:** -39.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.77B
+**Market Cap:** $250.79B
 Rank #2
 
 **Circulating Supply:** 122,209,758 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.5%
 
 **All-Time Low:** $0.43
-+473826.0%
++473957.6%
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam, the next update for Ethereum, is currently being tested on testnets. During these tests Chainsecurity has found a few projects that would be...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038) • 4d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038) • 5d ago
 
 ---
 
@@ -110,7 +110,7 @@ Glamsterdam, the next update for Ethereum, is currently being tested on testnets
 
 I have been in crypto for the last 7 to 8 years, and over time, maybe with age, I am becoming more conservative regarding holding coins. Since hacks in crypto never stop and keep getting bigger, I am on the verge of thinking whether staking ETH is worth taking smart contract risks. No staking platform is risk free, and the safest way to keep ETH is simply holding it in cold storage without staking it anywhere. My questions to the community: What do you think about this, and what is your current strategy? Do you stake your ETH? If yes, what percentage of your holdings? Do you consider the smart contract risk low enough to justify the yield?
 
-4d ago
+5d ago
 
 ---
 
@@ -118,7 +118,7 @@ I have been in crypto for the last 7 to 8 years, and over time, maybe with age, 
 
 Post quantum & post AI transition targeting December 2028, Amundi tokenized equity index fund, Solar v0.3 & Slang alpha Solidity compilers
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-46/) • 4d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-46/) • 5d ago
 
 ---
 
@@ -148,17 +148,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum](https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909)**
+**[Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge](https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit)**
 
-Raycash says it has more than 75,000 people on its waitlist and is offering USDC payments and yield through Morpho.
+The non-profit allegedly told workers to pledge they'd die by suicide "with a sword."
 
-The Block • 1d ago
+Mashable • 6h ago
 
 ---
 
 **[An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes](https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes)**
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -166,7 +166,37 @@ CoinDesk • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 16h ago
+
+---
+
+**[Urgent Ethereum node patch issued due to hidden security flaws](https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/)**
+
+Ethereum's Lighthouse urged all beacon node operators to install a high-priority security patch ahead of a planned vulnerability disclosure.
+
+CryptoSlate • 7h ago
+
+---
+
+**[Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins](https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/)**
+
+Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027.
+
+Crypto News • 5h ago
+
+---
+
+**[Ripple Ex-CTO David Schwartz Reveals How Much XRP, Ethereum, and Bitcoin He Owns](https://beincrypto.com/david-schwartz-xrp-bitcoin-ethereum-holdings/)**
+
+BeInCrypto • 5h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Drop as Investors Weigh Rate Hike Odds: Analyst Explains Why ‘Horrific’ BTC Chart Is Routine in a Bull Market](https://www.tradingview.com/news/benzinga:c294080fe094b:0-bitcoin-ethereum-xrp-dogecoin-drop-as-investors-weigh-rate-hike-odds-analyst-explains-why-horrific-btc-chart-is-routine-in-a-bull-market/)**
+
+Leading cryptocurrencies fell further on Tuesday as investors weighed hotter-than-expected consumer prices and the rising odds of an interest-rate hike.Crypto Market Extends LossesBitcoin fell below $73,000, while Ethereum stayed trapped in the $2,000–$2,100 range amid a sharp drop in overall marke…
+
+TradingView • 13h ago
 
 ---
 
@@ -174,15 +204,7 @@ Fortune • 14h ago
 
 These big buyers have slowed their purchases, but they haven't stopped.
 
-The Motley Fool • 1d ago
-
----
-
-**[Amundi puts European stocks on Ethereum, but access terms stay hidden](https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/)**
-
-Amundi issued a tokenized share class of its Europe 600 index fund on Ethereum, with CACEIS providing the infrastructure.
-
-CryptoSlate • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -190,33 +212,13 @@ CryptoSlate • 1d ago
 
 DUBAI, United Arab Emirates, Nov.  10, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has announced that its presale total has passed $11.3 million, ...
 
-markets.businessinsider.com • 10h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Drop as Investors Weigh Rate Hike Odds: Analyst Explains Why ‘Horrific’](https://www.benzinga.com/crypto/cryptocurrency/26/11/63129630/bitcoin-ethereum-xrp-dogecoin-crypto-cpi-inflation)**
-
-Benzinga • 5h ago
-
----
-
-**[Ethereum: Retest Zone Draws Long Interest](https://blockchain.news/flashnews/ethereum-retest-zone-draws-long-interest)**
-
-Michaël van de Poppe states Ethereum fell deeper than expected yet grew more attractive on retest of prior resistance as support with lower-timeframe sell...
-
-Blockchain News • 21h ago
-
----
-
-**[Ethereum Foundation Sued Over Bizarre Suicide Pledge and Firing](https://gizmodo.com/ethereum-foundation-allegedly-fired-cancer-patient-who-objected-to-suicide-pledge-2000837316)**
-
-Gizmodo • 16h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
 **[Ethereum ended CoreWeave's mining days. Earnings test its AI bet](https://www.thestreet.com/crypto/markets/coreweave-stock-could-swing-15-on-q3-earnings-options-imply)**
 
-TheStreet • 10h ago
+TheStreet • 18h ago
 
 ---
 
@@ -230,37 +232,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 9K • 👍 175 • 💬 24 • ⏱️ 10:11 • 9h ago
-
----
-
-**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=ftceDWupgqw)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 11K • 👍 200 • 💬 51 • ⏱️ 22:13 • 1d ago
-
----
-
-**[Ethereum 2027-2028 Prediction: The Bottom Is IN!!](https://www.youtube.com/watch?v=M-NjWnsxk5c)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v109 CoinGPT - the AI Trade Agent I ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 20 • 💬 10 • ⏱️ 3:30 • 1d ago
-
----
-
-**[This Crypto Crash Is NOT What It Looks Like (Bears Are Running Out Of Time)](https://www.youtube.com/watch?v=-EvSSOJPOZE)**
-
-Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my affiliate link for 80% off spot trading fees.
-
-📺 Crypto Capital Venture
-
-👁️ 16K • 👍 585 • 💬 250 • ⏱️ 15:45 • 13h ago
+👁️ 13K • 👍 213 • 💬 29 • ⏱️ 10:11 • 17h ago
 
 ---
 
@@ -270,7 +242,17 @@ Join Skool Community - https://www.skool.com/discovercrypto/about Trade at Bitba
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 44 • 💬 52 • ⏱️ 5:28 • 7h ago
+👁️ 3K • 👍 57 • 💬 34 • ⏱️ 5:28 • 15h ago
+
+---
+
+**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=ftceDWupgqw)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 13K • 👍 214 • 💬 51 • ⏱️ 22:13 • 1d ago
 
 ---
 
@@ -280,17 +262,27 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 74 • 💬 52 • ⏱️ 14:58 • 12h ago
+👁️ 3K • 👍 77 • 💬 52 • ⏱️ 14:58 • 20h ago
 
 ---
 
-**[Ethereum Crashed to $2,006.. I&#39;m Buying the DIP!!](https://www.youtube.com/watch?v=VK9vPu8s-oU)**
+**[I Tested an AI Trading Bot Built with ChatGPT Astra AI - Ethereum Day Trading](https://www.youtube.com/watch?v=PMtWzSh1o0A)**
 
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v111 Ethereum (ETH) just crashed to its ...
+Complete Tutorial Guide: https://tr.ee/6uBcSI This tutorial covers ai trading, day trading, day trading for beginners, and ...
+
+📺 Owen Parker
+
+👁️ 877 • 👍 9 • 💬 10 • ⏱️ 5:59 • 20h ago
+
+---
+
+**[Ethereum 2027-2028 Prediction: The Bottom Is IN!!](https://www.youtube.com/watch?v=M-NjWnsxk5c)**
+
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v109 CoinGPT - the AI Trade Agent I ...
 
 📺 Marzell Crypto
 
-👁️ 534 • 👍 12 • 💬 6 • ⏱️ 3:16 • 12h ago
+👁️ 3K • 👍 21 • 💬 10 • ⏱️ 3:30 • 2d ago
 
 ---
 
@@ -300,17 +292,27 @@ I've compiled a full list of the crypto exchanges I personally use and recommend
 
 📺 Cheeky Crypto Plus
 
-👁️ 3K • 👍 96 • 💬 20 • ⏱️ 18:58 • 20h ago
+👁️ 3K • 👍 103 • 💬 20 • ⏱️ 18:58 • 1d ago
 
 ---
 
-**[Ethereum Seppuku License](https://www.youtube.com/watch?v=9-GalsnGqQ4)**
+**[Ethereum Crashed to $2,006.. I&#39;m Buying the DIP!!](https://www.youtube.com/watch?v=VK9vPu8s-oU)**
 
-Writer: Brett Stelmaszek Editor: Jayson van Kerckhoven Music: Daniel Fridell - Velvet Starlight | Epidemic Sound ...
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v111 Ethereum (ETH) just crashed to its ...
 
-📺 UFD Tech
+📺 Marzell Crypto
 
-👁️ 10K • 👍 909 • 💬 39 • ⏱️ 0:41 • 2h ago
+👁️ 771 • 👍 14 • 💬 3 • ⏱️ 3:16 • 21h ago
+
+---
+
+**[This Crypto Crash Is NOT What It Looks Like (Bears Are Running Out Of Time)](https://www.youtube.com/watch?v=-EvSSOJPOZE)**
+
+Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my affiliate link for 80% off spot trading fees.
+
+📺 Crypto Capital Venture
+
+👁️ 19K • 👍 629 • 💬 147 • ⏱️ 15:45 • 21h ago
 
 ---
 
@@ -320,7 +322,7 @@ Now with Nazis! by Amy Castor and David Gerard ...
 
 📺 Pivot to AI
 
-👁️ 16K • 👍 1K • 💬 242 • ⏱️ 11:26 • 1d ago
+👁️ 17K • 👍 1K • 💬 248 • ⏱️ 11:26 • 1d ago
 
 ---
 
