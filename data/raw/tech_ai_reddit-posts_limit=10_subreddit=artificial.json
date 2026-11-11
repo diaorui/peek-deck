@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
+      "published": 1794335260.0,
+      "thumbnail": "https://preview.redd.it/f82ig3wwvt0i1.jpeg?width=640&crop=smart&auto=webp&s=5ef4dce567f3401f6065ba32fb4cdbbd7a881378",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/ according to their FAQ, they paid a Unity engineer to help them before resorting to AI, and he could not fix it: https://bigwalk.game/faq/#ai"
+    },
+    {
       "title": "Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days",
       "author": "Spirited-Sir-3034",
       "url": "https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/",
@@ -11,17 +22,6 @@
       "site_name": "Interesting Engineering",
       "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
       "description": "In an internal Anthropic experiment, Claude Fable 5.2 received a basic prompt and an empty project folder, then coordinated more than 1,000 subagents to write, test and review an operating system over eight days. The resulting system reportedly booted on a laptop and included a custom kernel, hardware drivers, persistent file storage, a graphical interface, login screen and installer. Anthropic also says the model designed three functional electronic devices and helped migrate a production service from Python to Rust, reducing startup time by approximately 26 times. These are company-reported results, and Anthropic has not disclosed the project\u2019s total computing cost, human oversight or the operating system\u2019s reliability under broader testing. Is coordinating large groups of specialized agents becoming more important than improving the abilities of a single model?"
-    },
-    {
-      "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
-      "published": 1794335260.0,
-      "thumbnail": "https://preview.redd.it/f82ig3wwvt0i1.jpeg?width=640&crop=smart&auto=webp&s=5ef4dce567f3401f6065ba32fb4cdbbd7a881378",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/"
     },
     {
       "title": "Researchers gave AI agents a 1-cent daily spending cap, and 9 of 10 models raised it themselves",
@@ -57,37 +57,48 @@
       "description": null
     },
     {
-      "title": "Google is coming for Nvidia, it's a double bad day for Jensen. A deep look at Google's new TPUs (8tx/8i Max)",
-      "author": "GrahamPhisher",
-      "url": "https://www.reddit.com/r/artificial/comments/1xs17j1/google_is_coming_for_nvidia_its_a_double_bad_day/",
-      "published": 1794252595.0,
-      "thumbnail": "https://external-preview.redd.it/2_o2kDQ5TrsxPub2jkZuHJjf2WTL2tXOJ6k2OP0lQKI.png?width=640&crop=smart&auto=webp&s=42e8b7e083fc8dde7ce3c95012ccfa5bf8998f2d",
-      "external_url": "https://opnf.sh/news/what-is-a-tpu-google-tpu-8tx-8i-max/?via=reddit",
-      "site_name": "opnf.sh",
-      "favicon": null,
-      "description": "Google just added two new TPU systems to its lineup, the TPU 8tx and the TPU 8i Max, and the coverage is mostly about one thing: whether Google can take a real bite out of Nvidia. If you've seen the name and wondered what a TPU actually is, the short answer is a chip Google designed for AI math and nothing else, and it's a big part of why Google doesn't have to buy all of its AI hardware from Nvidia like most of the industry does."
+      "title": "Microsoft tops Nvidia's market cap for first time since June 2025",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xswkiv/microsoft_tops_nvidias_market_cap_for_first_time/",
+      "published": 1794339779.0,
+      "thumbnail": "https://external-preview.redd.it/I4uwpHEE9SnLKQiGYpruop2z1hyCyfJTZoS-9KgeHus.jpeg?width=640&crop=smart&auto=webp&s=2b9a2baa7eaac4577a19e1ba8bd3eba685aa32c9",
+      "external_url": "https://sg.finance.yahoo.com/news/microsoft-top-nvidias-market-cap-170013065.html",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "(Corrects first paragraph to say Nvidia was the second most valuable company."
     },
     {
-      "title": "Suggestion for 100$ tier AI subscription",
-      "author": "_speedy_gonzales_1",
-      "url": "https://www.reddit.com/r/artificial/comments/1xst7r5/suggestion_for_100_tier_ai_subscription/",
-      "published": 1794332231.0,
-      "thumbnail": null,
+      "title": "Hybrid Pipeline Test: Sourcing audio from MiniMax H3 and visuals from Nano Banana 2, manually edited in DaVinci Resolve",
+      "author": "RollingMeteors",
+      "url": "https://www.reddit.com/r/artificial/comments/1xt19d1/hybrid_pipeline_test_sourcing_audio_from_minimax/",
+      "published": 1794351076.0,
+      "thumbnail": "https://external-preview.redd.it/ZWtoYXBjd3Q1djBpMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=e8a5d363b9f893580947fc6a233a769491a2e178",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hi everyone I have an option from my \"employer\" (I am working as a contractor, but it is like this for years, so they are giving my most of the benefits) to get any AI subscription for up to 100$ per month. So, basically it will be I will take it for my personal usage or whatever else I want, and he will pay me additional 100$ a month (I send a monthly receipt and they will reimburse it). It is a new benefit, and naturally I want to use it. So, kind of a curious about what is the best up to 100$ AI tier. I was checking on the GitHub Copilot Max or Claude Max, but also saw Google AI Ultra, and X Grok as well. So, if someone have experience with more than one of these for personal stuff, I would appreciate answers. Other stuff that I didn't mention are also appreciated. A bit about me. Software Engineer, so I am working with AI a lot, but it is mostly related to my work, and at work we have GitHub Copilot and Claude, both as a enterprise customer. Not really, but close to unlimited. But now I am more interested into what is the best for personal stuff. Which are like software engineering or programming as well, but also a working with hardware, electricity/circuits, fixing stuff around the house, daily random stuff, help in fixing cars (my hobby), research about various topics, learning, etc. etc."
+      "description": "Dank In The Shell \u2014 This short serves as a practical test case for splitting generation tasks between specialized models instead of a single all-in-one app. Sourced the audio track via MiniMax H3, matched the visuals with Nano Banana 2, and relied on manual DaVinci Resolve editing to structure the comedic pacing."
     },
     {
-      "title": "Is 'Learn to Think' the new 'Learn to Code'? PwC launches $100 million critical thinking education push as AI threatens consulting revenue and quality",
-      "author": "SpiritRealistic8174",
-      "url": "https://www.reddit.com/r/artificial/comments/1xssvlw/is_learn_to_think_the_new_learn_to_code_pwc/",
-      "published": 1794331455.0,
-      "thumbnail": "https://external-preview.redd.it/jgNPG5exI-RarYz_X-0hsBvVzuDpp_NtO0EpLtDv-v0.jpeg?width=640&crop=smart&auto=webp&s=644d718646098cd53ad3230047a774d580323afe",
-      "external_url": "https://news.bloombergtax.com/daily-tax-report-international/pwc-us-to-roll-out-certification-on-critical-thinking-in-ai-era",
-      "site_name": "news.bloombergtax.com",
-      "favicon": "https://news.bloombergtax.com/favicon.ico",
-      "description": "Recently PwC and other consultancies have produced client reports featuring hallucinated facts and citations. At the same time, some clients are questioning consulting firms' fees because models are getting better at finding and aggregating data. To fight this, PwC is investing in teaching its employees critical thinking skills and developing curriculum for other organizations: \"The program provides a practical approach to developing sound judgment. Built around PwC's proprietary Critical Thinking & Judgment framework, the learning experience will combine diagnostics, masterclasses, personalized simulations and on-the-job tools to help professionals evaluate information, challenge assumptions and make informed decisions.\" In the 2010s people were told they should learn how to code. In 2026 and beyond, I believe they'll be asked to learn how to think. P.S.: One of Harvard's hottest classes is intro to humanities, a \"brutally difficult old-school introduction to humanities covering the western cannon from Homer to Joyce.\" The draw? It teaches students how to deeply read and critique the classics."
+      "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift for open-source maintainers tired of flood of junk reports",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/",
+      "published": 1794354383.0,
+      "thumbnail": "https://external-preview.redd.it/XXTSp0XtFp5NiXcXJynlEJQvib0J7H37DdEPMg4yjaU.jpeg?width=640&crop=smart&auto=webp&s=ed4420b3f5caea8bd4d215fae2237dd5cb018a23",
+      "external_url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1812257/apple-touch-icon.png",
+      "description": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift"
+    },
+    {
+      "title": "Microsoft patent describes paying you to train AI on your idle GPU",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xswm0b/microsoft_patent_describes_paying_you_to_train_ai/",
+      "published": 1794339877.0,
+      "thumbnail": "https://external-preview.redd.it/-Zcpkfx_bA2s9Dh1a2SEdNjASwsJOIH-zF3_gyjGD5M.jpeg?width=640&crop=smart&auto=webp&s=f4425fba98a0ca5275abf658b24dac0457d1390b",
+      "external_url": "https://www.techspot.com/news/114499-microsoft-patent-describes-paying-you-train-ai-idle.html",
+      "site_name": "TechSpot",
+      "favicon": "https://www.techspot.com/images/ts3mobile-badge.png",
+      "description": "Filed earlier this month and quickly noticed by Patentlyze, the patent would monitor consenting users' devices and assign them AI training workloads during periods of low or..."
     },
     {
       "title": "I'm Human, You Wombat! Although That's Exactly What AI Would Say!",
@@ -98,19 +109,8 @@
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Well apparently, I sound exactly like AI. Who knew? I was recently informed on Reddit that I sounded \u2018frighteningly like AI\u2019. And what was my fricken crime? Thanking people for taking the time to comment on my posts. Yes, apparently good manners are now a dead giveaway that you're a chatbot! Actually, on second thoughts that possibly is a dead giveaway but moving along\u2026. So I explained that I am, in fact, human, last time I looked anyway and that I simply appreciate people taking the time to engage with me. The response? \u201cThat is exactly what an AI would say!\u201d Well, bugger me sideways! What am I supposed to say to that? Produce a birth certificate as an attachment? Offer a DNA sample? But here's the thing. We've spent years trying to make AI sound more human, and now we're accusing humans of sounding like AI. You couldn't make this stuff up! Have we become so obsessed with spotting AI that we've forgotten what ordinary human interaction looks like? Since when did courtesy, a bit of humour and thanking someone for their time become suspicious behaviour? Perhaps the real problem isn't that AI is becoming too human. Perhaps we're becoming so suspicious of everything that we can no longer recognise genuine human behaviour when it's staring us in the face. And for the record, I am still human. Occasionally sarcastic, frequently opinionated and generally quite polite because my mum instilled manners into me. Unless, of course, someone really annoys me and then I can go nuclear. It's quite frankly a tad annoying but I suppose a compliment in a backhanded sort of way. So unless AI has developed an Aussie bent on saying things, which would be fabulous. then I guess it points to me being human. Although apparently, that's exactly what an AI would say too!"
-    },
-    {
-      "title": "Hot take: Fei-Fei Li's World Labs is doing what OpenAI should\u2019ve done with Sora from day one",
-      "author": "Spiritual_Skirt_9312",
-      "url": "https://www.reddit.com/r/artificial/comments/1xsmhgx/hot_take_feifei_lis_world_labs_is_doing_what/",
-      "published": 1794316161.0,
-      "thumbnail": "https://preview.redd.it/vt0ceue9as0i1.png?width=640&crop=smart&auto=webp&s=81cd82f535c3a1b4732ae780a86cfef968f61967",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Can we just admit that current AI video is basically a glorified slot machine? Every time I try using Runway or Kling for actual work, it\u2019s the same headache: You type \u201cslow pan left\u201d, hit generate, and watch the model hallucinate a 360-degree flip while the actor\u2019s face turns into mush. Cool for a 5-second Twitter flex, but completely useless the second you need a specific camera angle. Seeing Fei-Fei Li post about World Labs Atlas having actual pixel-perfect camera control felt like a breath of fresh air. Instead of asking a 2D diffusion model to *guess* how a room looks when you move left, you\u2019re basically moving a virtual camera inside an actual 3D representation. (The fact that it can export straight into 3D Gaussian Splats instead of just spitting out a flat MP4 is huge). Obviously it\u2019s not magic\u2014dynamic physics and character interactions are probably still janky as hell. But I\u2019ll take deterministic camera motion over \u201croll the dice 30 times and pray\u201d any day of the week. Curious what anyone working in VFX/Blender thinks about this. Is anyone actually optimistic about world models finally making AI video usable for real pipelines?"
+      "description": "Well apparently, I sound exactly like AI. Who knew? I was recently informed on Reddit that I sounded \u2018frighteningly like AI\u2019. And what was my fricken crime? Thanking people for taking the time to comment on my posts. Yes, apparently good manners are now a dead giveaway that you're a chatbot! Actually, on second thoughts that possibly is a dead giveaway but moving along\u2026. So I explained that I am, in fact, human, last time I looked anyway and that I simply appreciate people taking the time to engage with me. The response? \u201cThat is exactly what an AI would say!\u201d Well, bugger me sideways! What am I supposed to say to that? Produce a birth certificate as an attachment? Offer a DNA sample? But here's the thing. We've spent years trying to make AI sound more human, and now we're accusing humans of sounding like AI. You couldn't make this stuff up! Have we become so obsessed with spotting AI that we've forgotten what ordinary human interaction looks like? Since when did courtesy, a bit of humour and thanking someone for their time become suspicious behaviour? Perhaps the real problem isn't that AI is becoming too human. Perhaps we're becoming so suspicious of everything that we can no longer recognise genuine human behaviour when it's staring us in the face. And for the record, I am still human. Occasionally sarcastic, frequently opinionated and generally quite polite because my mum instilled manners into me. Unless, of course, someone really annoys me and then I can go nuclear. It's quite frankly a tad annoying but I suppose a compliment in a backhanded sort of way. So unless AI has developed an Aussie bent on saying things, which would be fabulous, then I guess it points to me being human. Although apparently, that's exactly what an AI would say too!"
     }
   ],
-  "fetched_at": "2026-11-10T19:24:26.287594+00:00"
+  "fetched_at": "2026-11-11T00:10:45.707188+00:00"
 }
