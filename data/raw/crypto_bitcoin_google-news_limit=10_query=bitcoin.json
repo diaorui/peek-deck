@@ -5,52 +5,32 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Just Did Something Completely Unexpected. History Says This Will Happen Next.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUVGUlFLU1Zvb0MtX1hpSzI2QjctZUVzX21rMUo0emFhLXRSNzFEcEYySW1XVE0yZFBZcHBibGpyRDdLVWVobWJkOGlJdUxWbWRtY0VBTkpYVERkQmhBcnpHQ09PYUo0MEd4WkZYTW1jOTJEc3M0SnlyRlBVZlRVMnl4ODE3Y1ZUMDQ3amxndGRQRFZXYlE?oc=5",
-      "pub_date": 1794324600.0,
-      "article_url": "https://www.fool.com/investing/2026/11/10/bitcoin-just-did-something-completely-unexpected/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892903%2Fbitcoin-cryptocurrency-computer-display.jpg&w=1200&op=resize",
-      "description": "Where does Bitcoin go after the midterm elections? History provides some clues."
-    },
-    {
-      "headline": "Elon Musk Confirms \u2018Global Bankruptcy\u2019 Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
-      "pub_date": 1794259080.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/09/elon-musk-stokes-global-bankruptcy-fears-that-could-be-a-bitcoin-price-game-changer/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0FSUE4taWUwd0I1SzVOX0lMQUZUWnUwWm5YaWh2eGtVR2I1d3l5RVppalJTR0F5ZEllNE1sVkJUR3JrWGQ0MkF3eDc3YzJSalpHbWZ5bUdxbHFKNkxsZGtvN1ZUSVl1TXBHdldnNTNiR3Y5cHd1d2NPRDNRczYtT3RXeVJPZjVQVUxTN3NvLS1YLXI1OHdodVlUeXZuZ2VXVTM4RVhyVm43Q3BtTE9aOXNBckZpeG1OYzNSdw?oc=5",
-      "pub_date": 1794407002.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin ETF Outflows Continue As Crypto Prices Sink",
+      "headline": "Is Political Gridlock Actually Good For Bitcoin? The Answer Might Surprise You.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU83MjlMZnFPZzZHTUNmVEtMczlqTGlGX1hwWkw0ZmhCSXowcHl0eWU1TnYtR1hQM2VIYjVabzZEaVFrS3dURzRWbnpfLTU1djctZHlaVWp1MFZxcEpsWFd0c3ZnWmIzUHhsNmhjVUw5MzlVS2tXUjNGdFZGeUJCX0NpMEpXV0U2bDlDSVpnV2VobW9vb2IwZEQtcEkycWwycV9Z?oc=5",
-      "pub_date": 1794407880.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-continue-crypto-143800988.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fbb18c3acf14a11d3869bc59b343927a5a96ca7219a93d4e7573a2f3c5fc77a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fe8f1ad21c72f97c614e1701abcc5fa6c.jpg",
-      "description": "Exchange-traded funds (ETFs) that track the spot price of Bitcoin (CRYPTO: $BTC) continue to experience steady outf..."
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY2pNUGphNS1oQ0Iyc0tkRkhBWnNjTlBHbTY5MWJxeTNpaG5Dc2xjb1lTckQxODl0TWMydUpJcHJwX3J5dVRIWEtUcTBnbWs3Qjh4T25aR09waFVZWmtwVFRqSTN6OV9odTJKMnA0RzhpRkl3SUNhN3ozNC02aGJ6WkhEeW5jUHpaYmVSWS03MjZuVnFBZW16dThIc2c4MmxjZk1LejluTGM?oc=5",
+      "pub_date": 1794432000.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/political-gridlock-actually-good-bitcoin-212000540.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b68b6afa9af384b0c2b01c2d7d44287f1417026bf0970edf0de3f883afadd95d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F1aeb7bf523c7ac0dd7163587d20179a4.jpg",
+      "description": "Investors' intuitions about the impact of political quagmires on Bitcoin need to be tempered with some real data."
     },
     {
-      "headline": "MillionMiner Keeps 95 MW of U.S. Hosting Dedicated to Bitcoin Mining, Adds AI Servers to its Product Line",
+      "headline": "This New Water Heater Gadget Could Turn Your Hot Showers Into Bitcoin. But Is It Worth It?",
+      "source": "Yahoo",
+      "source_url": "https://shopping.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVFNOG5OZkptd3lTYjhoellWbEFwTzdnNk5aN2s0bUpUSURERW5mYno0ZzAwdDlqN0liTk1ZVWdUcWpYZWVKV0FHQXF4R1lRMnFLc0VzbGMwYnJ6Q1JaemQ4QjJsSVJRajctTUVMT3FfbTVyVVdoUjlJOWNtVy1IbWl6eVItcGJTWjBPbi1zdk1UR3B0U0VWVTh5RnA5cHdXWV90aGxkTWY5ZFAtaVlB?oc=5",
+      "pub_date": 1794431145.0,
+      "article_url": "https://shopping.yahoo.com/home-garden/home-improvement/articles/water-heater-gadget-could-turn-210545384.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/de4ed7e0a99a75706b2fd0b42ac297ed2319b0a238844daefa29bc60db1c597c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frealtor_com_468%2F8174c1d8a68a5dbfdaa9af3effeac76c.jpg",
+      "description": "Heatbit's new Bitwater promises to turn an ordinary household water heater into a cryptocurrency miner."
+    },
+    {
+      "headline": "Bitcoin sits out stock rebound as ETF outflows continue: Crypto Markets Today",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONGJUTkoteXlYRE5sWW5ROVFHWE0wU2V4dDNJeDBlc1ZHZXJjT3FsWk9oX0k0S2cwQmk0MXVKOHh3RXF3U2plTUtwZ21qMTJNTkx2aDdUMVB6dW5qejBlSnFEQkp1RFNsQXBfbEVoNmNleTJ2RnpKTjhoWERXblJEME1UeGdiT182cUhsYW91OEtraTZtUHA1X2x4YnRET3NnZ1hfc1lSUWRKZWlCekFzZGVLZmFYMDFUcTVlZUs1NE9zM2hpTzhzbGkxTFlENlZyM1pDLTJyeVNGekcyZ2NKN0RFM3J2cHJu?oc=5",
-      "pub_date": 1794407914.0,
-      "article_url": "https://www.coindesk.com/press-release/2026/11/11/millionminer-keeps-95-mw-of-u-s-hosting-dedicated-to-bitcoin-mining-adds-ai-servers-to-its-product-line",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVE1LTjN4empxV2lyWVZDMDkxX2xMRlRlS0hvRXhYY01kVlZYaVVGT3psdE9XUTIwUXdPalhwRm5ocDNyWjd3cEhCOUtZdHlzS292U2JHZlA3a2Itd05oenNlQ1JMcEJFSzRUZHFfeERuMktnLW9EM2pFR3dEWVNrenkyZFhBZi15T1RIT3ExU1N2a2d3akpGN3dXeDlMRWNYU3ZWZ3lqNjhrczNRWWU0RQ?oc=5",
+      "pub_date": 1794397024.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
       "image": null,
       "description": null
     },
@@ -65,24 +45,54 @@
       "description": "Researchers created a new map of the fruit fly brain. Then the Internet found it"
     },
     {
-      "headline": "Bitcoin Drops to Almost Three-Month Low as US Inflation Dims Risk Appetite",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0FLMWZvR0pfNmNSdVFyODBWRG9FT21PSEd4RHBuOVpXVVJid21RQmx5Tjh3MFR5OGNud2NfX0ZhSEMyX3FRT0EwekhVMUpITFVheE5oQ2NWQXNZbFIxTkxTNVFJNDZQR0F3ZmthY0hBc2lYR2lnOVVoRHQtRWY1ci03LWZobjNzT0NMUVVleVJMcFRPWnFRRnNrZDhXNGhST2MzN2ZoMkJJRWFXTlZ6TVhiNXg2aF9KUGpEaUdZb0JiZW8?oc=5",
-      "pub_date": 1794331475.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-10/bitcoin-drops-to-almost-three-month-low-as-us-inflation-dims-risk-appetite",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why Bitcoin, Nasdaq, AI Stocks, and Chips Move Together? The Liquidity Machine Explained",
+      "headline": "Derive options traders price 31% odds of Bitcoin falling below $70,000 by Christmas",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkJnVURtQWRreU9hbGZ4eFNhMWF2MHBDS0JhTkVHQU15UGdOeVJlSnBTV0lraW5TMGxPdkFuY184Um9VVFZwakRFcHVNa2piQklRQ0ZsczIwZGQwcEdYc0lmM3l0M0pvWklSUEpzWXp1SW5LaHJuNkpLWi1fZDJpanZYX3hsWnJBUkRsSjFQNGRDZDRnUkQ4NkppTG50ZzN5Zkg3R2JQS2MxZExOXzJGQ2VDdHVjSkZ5VGlvOGJkRzctZ2FOOEdBWW5STlRERENtZGotdl84bFA2WDdWNUE?oc=5",
-      "pub_date": 1794385545.0,
-      "article_url": "https://www.tradingview.com/news/cryptonews:26ea9fb97094b:0-why-bitcoin-nasdaq-ai-stocks-and-chips-move-together-the-liquidity-machine-explained/",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcC1Zbi1QUzJkYkJjekJpRTJMOTQyeDFXb1lPS2hPVExuU0RyZ0w4dFdGWmFuVDRfc3hRMkctN2VMcEx2czIxT1NvcjBMeEgyYmNaazZVeWxLV2hnR0NOTmgtdmQ3bmRPWU03Q1UyRU9VbHpHa01CdjJYNEZiQ0RjM19EUDJ5aXVBcFZuQnY5eG95bFFLcmZqQUt5ZWNDeC1RZjlJUEFXZ21vMVhHejY3eEs5MmpDUzY3dk9NUFJYVy1lbjFYNVJ5cDFzcE0ycDhXZVB6THIzTllxX3EyQ1pF?oc=5",
+      "pub_date": 1794408794.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:c8632b13e094b:0-derive-options-traders-price-31-odds-of-bitcoin-falling-below-70-000-by-christmas/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin can fall alongside Nvidia, and Nasdaq can rally while Ethereum follows. Semiconductor stocks can plunge as investors reassess AI spending, dragging crypto sentiment down with them. These markets appear to have little in common. Bitcoin was designed outside traditional banking, while chipmak\u2026"
+      "description": "Options traders on Derive now see a better chance of Bitcoin landing under $70,000 by Christmas than finishing above $80,000. A week ago, the market leaned the other way.Bitcoin was changing hands around $73,500 on Wednesday after five consecutive weekly losses.According to Derive founder and CEO N\u2026"
+    },
+    {
+      "headline": "Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins",
+      "source": "Crypto News",
+      "source_url": "https://crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDEwajI3MUNPcHFsYk5aTjRuYktNNzhWckRlUkhUbGdEMGs0dXJGbVR0ZEpMYTcyQmlPeGdIazM2b0pkS3hPZlRTc19wU3FWbEhKeHhiTGxCdDhURlRGY3EtbHVlb2ZnTUxWSzNlV2ZTTFFwTVg2WHR5ZnRucnJDaw?oc=5",
+      "pub_date": 1794388557.0,
+      "article_url": "https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/",
+      "image": "https://media.crypto.news/2024/09/crypto-news-Crypto-custody-has-stuck-in-2021-option02.webp",
+      "description": "Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027."
+    },
+    {
+      "headline": "Bitcoin miners-turned-neoclouds jump after AI fears eased (HUT:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGFhSkFtN1hBY2xBazFjREpSWFVXTVpEaW5WSG94WHhIMnVRUVRRU0NYWjdiNm42NkU0NENiT1M1endvUDZjdWktUzZaTXhycXlVSV9wWmtZMEtOS0FxbmNKaHQzV05SWHN0cGxtd1BZaS1oYzJkX0x0NldObnAySEdfajJSUEh4ZHdVM3hudXVFelEzU004YUVmQQ?oc=5",
+      "pub_date": 1794424564.0,
+      "article_url": "https://seekingalpha.com/news/4670918-bitcoin-miners-turned-neoclouds-jump-after-ai-fears-eased",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266839811/image_2266839811.jpg?io=getty-c-og",
+      "description": "Bitcoin miners pivoting to data centers rally after CoreWeave results ease AI-demand fears; Galaxy Digital gains 13%, Hut 8 rises 9%."
+    },
+    {
+      "headline": "Square Makes Bitcoin Payments Free. Will Merchants Pay When the Promotion Ends?",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzdESGxzTEVwS1JYOHF6aHJNQkdMenUyQmJEZUR4cHRMM0Y2S0RsUkF3Y1ZIWjFjYVdFbjE2NklsTF84dVo0Q2dicEVySkMycy1DOEpMUHRKVGtQZVlJR0RjZWg1MUpBVnFjZWFzSlNmSDBMWmNudXQ5RmhYVWU5YjUyb01DRjBROWxTblhFUUJTUjhhR1BiRkp5dUtqMzc4VEZIMlFvUTF4TGQxN2FSbkkyeEt0OWFUS0hXX3pR?oc=5",
+      "pub_date": 1794417300.0,
+      "article_url": "https://www.pymnts.com/blockchain/bitcoin/2026/square-makes-bitcoin-payments-free-will-merchants-pay-when-promotion-ends/",
+      "image": "https://www.pymnts.com/wp-content/uploads/2023/10/Square.jpg",
+      "description": "Bitcoin has spent much of its existence trying to become a payment method. The launch this week by Square of always-on Bitcoin payment capabilities for"
+    },
+    {
+      "headline": "Bitcoin ATM company criticizes new Ann Arbor law limiting crypto kiosk transactions",
+      "source": "MLive.com",
+      "source_url": "https://www.mlive.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbjFwWm1DcC13WE45VEl6d2sxX3JmZkhGUDllelMtQnhRT19DX09ZOVBVVHhJUEVtNWkyc0VQdXgxVk4yTWRzYnVHM3BpNnUxV1VlSmZfbG5YTV95ZWphUEphUmpDc2NCUlFQOHVFcVprNV9yYVdsZEF0cEM1RDVBWFAySTVFTEZTX0E3eHJENTZpNTlGUTU2X2J5a0c1aHNCdnJnUV9FOHZCOTRJdmpvQzBxTHNHMGRTaWV1NmNkbVd2OUdHdUZGTmZEaWU0QQ?oc=5",
+      "pub_date": 1794411540.0,
+      "article_url": "https://www.mlive.com/news/ann-arbor/2026/11/bitcoin-atm-company-criticizes-new-ann-arbor-law-limiting-crypto-kiosk-transactions.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "JPMorgan Says Strategy Could Face $2.8 Billion in Forced Selling. What Would That Do to the Bitcoin Price?",
@@ -93,18 +103,8 @@
       "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/11/jpmorgan-says-strategy-could-face-2-8-billion-in-forced-selling-what-would-that-do-to-the-bitcoin-price/",
       "image": "https://247wallst.com/wp-content/uploads/2021/02/imageForEntry7-Zvm.jpg",
       "description": "JPMorgan estimated Strategy could face $2.8 billion in forced selling after an MSCI exit. Here's whether any of it reaches Bitcoin."
-    },
-    {
-      "headline": "Current price of Bitcoin for Nov. 11, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BdWhhNDJsYkZZbWlGUC1zLUtKczZhTjBjOEh4YUxKMjJiWFBlSkFhc2NscEJNMkxMSlhyM2luX3U3U01yZHNWckFtYVQ4WXA4dVlvT2dkbXhjQXI2SFh0bjFQR2pxbms?oc=5",
-      "pub_date": 1794362515.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-11-11-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-11.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-11T14:58:55.810580+00:00"
+  "fetched_at": "2026-11-11T21:55:35.702781+00:00"
 }

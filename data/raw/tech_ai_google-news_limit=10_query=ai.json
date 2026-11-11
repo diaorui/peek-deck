@@ -5,14 +5,54 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWelJQMjBsU1NEQ29GNlZhMXlKMkRvTDhabTFsNDdRSmxXUTFlaUlEY3hER1dQYml3TE1iQ0dsdHRRLXkxU2xtV18xY0VQd1E1V3hwSXRDMm5oc2o0Mm1nYzdHQ1dCOHJkRlRXbFd5SXVTTklXd2gwRWw3MGU2UQ?oc=5",
-      "pub_date": 1794391311.0,
-      "article_url": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
+      "headline": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXhKWElWbF84SlAwVHhHTjBZQ044MTBtVFZJVjFqR3czZFB4RVRGZ1lmcGJjWGZfZTl3T3lUNk5Ucy1CRDhmREpBN1E4OGpHWlhHN2ZEZFhSV0E1ekZubEtEVmVMTjRZamRtREdPeDhtWHNmaUU2d3YyaGxqa19HSERTVERTV3Nr?oc=5",
+      "pub_date": 1794420590.0,
+      "article_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108548918-1794403575214-gettyimages-2192346840-widak-nvidiasc250106_npmp9.jpeg?v=1794403600&w=1920&h=1080",
+      "description": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage."
+    },
+    {
+      "headline": "Exclusive | United Airlines Is Banning AI Bots From Booking Flights",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmJHb3JWSEhmc1BHMWxtalktN2E1bHZPZkN4dFRDT2dfVGFSLTNLRktaUXphdHVkZm9JT0dWTG5PamFFLUxTNlVGS01GVm5EYllERWRTSE9RQVBPNWNjWmNuWmZFdTJKNzFHZmRBS3VYT3JtYUwyWnNoQTE5Q09wNVh0R1lqanZubEU0VmdhSmZ2OUNXaVdR?oc=5",
+      "pub_date": 1794429540.0,
+      "article_url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDJtSXdwdkJWUlI4SlRWMzhQNlFKTG00LW4xVW9tZ1pLcFUtRzBQYklOMWRvZVZ4a3AwOTliX2hvcWpjYTN2eGR4NWp2M1BiMGNUMl9SZUxqQnpOWDU0QnRpUkdyX1FVSkVaRDFSUmw1R1pQWFFEMzNfVDN1MjY3QUNn?oc=5",
+      "pub_date": 1794425858.0,
+      "article_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
+      "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United."
+    },
+    {
+      "headline": "Bots don't fly here: United Airlines restricts AI agents from booking flights",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnpEczhyWU5zaEdRZDd1b3Y0eVhuZ2hROFkyRkxTNmNPeEVXQmY5ZnYyeEJrMnpFdnd0NlktWGpCQ0hqVUdDNkJtZ3pjeVgtYkxxWGVUUWYzeGZ6UkJScDAtX2ZjVTNhU2FibDFvbUNFX01STzAwQkR6bTZ3dWZBVmlScjBqdkVqNnU2TGZWdngzMzhmT3l5eU1VU0FBeXozOXlyTk94dmNtajJOUHd3WTJmWUpfdWx4cllJdWNfYTZTUExWUXZyRGhxNGl2eU5qY015MEtR?oc=5",
+      "pub_date": 1794429583.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/bots-dont-fly-here-united-airlines-restricts-ai-agents-from-booking-flights-203943442.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1e9bd808a99c42b3135b094ba80aed0f1c9661fee27f683d6c7aa14c594536ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F6c3dba0e-494e-44da-a1f4-bee0a6b509f3",
+      "description": "AI agents just got denied boarding at United Airlines."
+    },
+    {
+      "headline": "Sequoia Capital to Invest in AI Holding Co. Sequence",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXJIc3BQN0RORVNaQVY0Q3ZucHF6bVkwWDBBS2tQVEhYazBKZVlEcldmanp2SVhUZE5FNk9mSWhPTE9hQmxuMWt0X1BOUDZxSF9xVDhiVGlfTlhLUzlray1rVVYwQXlZQ0Y2ZlhidTlDQzNJMHZxUjQ1aVRUallqSDFxeFBTaUpyQzlJRnNn?oc=5",
+      "pub_date": 1794432420.0,
+      "article_url": "https://www.theinformation.com/articles/sequoia-capital-invest-ai-holding-co-sequence",
+      "image": "https://tii.imgix.net/production/articles/18152/51f1c5df-d8f7-4a2b-b7e0-a5afcbec2cbb.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "Sequoia Capital is investing hundreds of millions of dollars into Sequence Holding, a one-year-old business that just announced a $7.7 billion insurance acquisition co-led by Michael Dell\u2019s family office, say people familiar with the matter. This will be Sequoia\u2019s second known investment in a ..."
     },
     {
       "headline": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
@@ -25,86 +65,46 @@
       "description": "Anthropic's new IPO filing says AI is now accelerating its own research to the point that it's triggering one of the company's key safety alarms."
     },
     {
-      "headline": "Anthropic IPO Lockup Risks Triggering AI Correction, Selby Says",
+      "headline": "The AI industry's week from hell",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5STzlCTEFvX01KVHZJZGRLM2NnQzVyTV9CQjNYT3dqWDBUZmlRdVpNVUIxNWp5TVRZV1lrcjctR0NqZjRTQ2xsWGktN3dVQU1MazM1UTF2SGMxNUlxMDVDNmZJOTVuQkxXNWh3Vi01ekt2RzA?oc=5",
+      "pub_date": 1794414656.0,
+      "article_url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic IPO Is \u2018Jenga Block\u2019 Holding Up Next Leg of AI Trade",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWFqMldhdkNxd1lUQWlpaWV3cXdHRVVIT083bXhkTjlJNWVGR3BPT19uSWtHVjVlUXYtaWpYRG1haXpES0VGalM4QVdSTzdZak05MTNUZm5acGVLZmhpR05zVHhfMVVuRWQzU2xsNDYzR1FfM0k3TE1HX0ZqZV8zWGpZblN1Nmlqc2dtSTQ0T01uQS1CVThDaW96akRGN1VuR3dTS20yYW51WGx4Y3NteEZZdw?oc=5",
-      "pub_date": 1794383100.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGdCeFJuSW5EWTJkTy1ERGxfeVdsRDRDMFBQcmM3UXB2dlhWQlhMQ1ZGdEdxd05BcTZyZDI0RVpWb3F5XzB2a2tIOWwwQWF3Y05pU3JVd3pCTUFqMWFXM1VUcmtEaGhhcWh6MHZQYzU0U1hJejMxOElDLWZwYzlubFk4TG9zYUkwSHZaUXlvTnI1WF9qemV2TXd5TXluNmtZc015dFNXbDVqcnFlOGhlTQ?oc=5",
+      "pub_date": 1794431702.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-is-jenga-block-holding-up-next-leg-of-ai-trade",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic\u2019s I.P.O. and the Clubby Business of A.I.",
+      "headline": "Ultrasound and AI turn off-the-shelf smartwatch into full-body tracker without cameras",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmV3OWJLeTE3Yk9qU3lsYWx6YUVwWGpWOUo3ZDFhYWpsd2JlSURKdjM4SWdVSHY1NWFYcFFwUkxyUW9xZVFHbHI0eHhFRVF0aFRXUGFYRTFHRGFLV0FzUks4cVhQSHVET0JTX3RlbDdBZGZndXR6YWtzUVNHaFlfdTRR?oc=5",
+      "pub_date": 1794432004.0,
+      "article_url": "https://techxplore.com/news/2026-11-ultrasound-ai-shelf-smartwatch-full.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2JLM2NpM2tmaXR1MTJvb0VXczItSHBOaTdacGVsSDRPRzBHbWJYLTk4ZWY3enJISGdreml2aElvRk5oYm9UbWsxRWRxcnVCc0xobHJtYW1tSzhwRmhZUWE3Vmt2MlNTSTVuVS1hUzlTLVBQaFMyQ2hpS24yWlNOM0czR2Y?oc=5",
-      "pub_date": 1794404436.0,
-      "article_url": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWelJQMjBsU1NEQ29GNlZhMXlKMkRvTDhabTFsNDdRSmxXUTFlaUlEY3hER1dQYml3TE1iQ0dsdHRRLXkxU2xtV18xY0VQd1E1V3hwSXRDMm5oc2o0Mm1nYzdHQ1dCOHJkRlRXbFd5SXVTTklXd2gwRWw3MGU2UQ?oc=5",
+      "pub_date": 1794391311.0,
+      "article_url": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Inside a data center built pre-AI boom, and how it's benefitted a community",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjB0R2VzdEVJY2FQM25KWFhvdW9SQ0xpQTdROHlCTkxaaEJpbHZ5M2JLeHFNQUMtbEtQX3llODNEWGx4TVRWOVZiTnQtUXlMMGtHejdxUXR3Qlg0ajFTdHdtTGpIQjV2VE5KTFZmZW51a3BBc3JxR3A2WDl1cEp0NmFkdHhCal9EQmJVVURjTmowUDJrNFNzVnVUUjNheDZaSTV3TFhpWQ?oc=5",
-      "pub_date": 1794405660.0,
-      "article_url": "https://www.cbsnews.com/video/inside-a-data-center-built-pre-ai-boom-and-how-its-benefitted-a-community/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/35fe9f16-0e92-4582-af92-7b7e6432c101/thumbnail/1200x630/ebcdf535cdc43f1bb7227caf27e0a2e0/cbsn-fusion-inside-a-data-center-built-pre-ai-boom-and-how-its-benefitted-a-community-thumbnail.jpg",
-      "description": "Jo Ling Kent goes inside a Microsoft data center built two decades ago in Quincy, Washington, and speaks to the town's mayor to learn how it has benefited the community."
-    },
-    {
-      "headline": "CoreWeave stock pops 11% after outlook raise eases AI slowdown concerns",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Xbk9mUmE3V3VXVzVkMV9hV2pxOFlsZU84VG1haWs5dkNZSW5lNmd5dmJ1UlJseVJCa1MyMlFOcDhiZHlHd2V5V2xjT1BiVk96dWxDRnl0bFNiMHF5c2tfRUtzTXpsOHpCMjhnLU1NZ3E5bkFWcXJtUVpFTQ?oc=5",
-      "pub_date": 1794387836.0,
-      "article_url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108223839-1762804083127-gettyimages-2206665095-COREWEAVE_IPO.jpeg?v=1776970332&w=1920&h=1080",
-      "description": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade."
-    },
-    {
-      "headline": "Tech lifts world stocks as CoreWeave revives AI trade",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2pqenNYSWUzSVBxc3U2RlhRT29TZGNJWFVMRVVQa0NkaDd6STY3VzhiZTB1b0RPcXB4c0ZEM1RwaGdkZUpkZHp2Q0ZCenBZZF90eTZFMnJvT2F4elJlZlMzOFFiaTVfUmxxNVcxNFZLOVpRY1ZHTjFITVpqVlJHdDJ6UXVUNXU4Z2NoOGZrVjB0QQ?oc=5",
-      "pub_date": 1794362700.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/global-markets-global-markets-2026-11-11/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Chip, memory stocks rally after CoreWeave results ease AI demand worries (NVDA:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV3ZnZnNZZURYTVc5Sm9YSnFwWXZPRFBYOFdxMVlBUG5vMTVPQ0NwNW41Q2VNUGJKLUM1N1loemVhSG9peERBY1hELWNidmQ3enNOZmRDRnJGWFJDc2tSamZaUHVBakk3amo5MlEwSFN5YVB4SGR5eUg0UWUwNVdDMTRhMk1taHIwNGwyUTR5dkhWbHFqcE9hQjRHc3V4YUZLMnRpSzdPM2JtYVluRmc?oc=5",
-      "pub_date": 1794405277.0,
-      "article_url": "https://seekingalpha.com/news/4670625-chip-memory-stocks-rally-after-coreweave-results-ease-ai-demand-worries",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2163792349/image_2163792349.jpg?io=getty-c-og",
-      "description": "Semiconductor and memory stocks rally as CoreWeave results ease AI spending concerns; its record $132.5 billion backlog is up 138% year over year."
-    },
-    {
-      "headline": "The Hidden Costs of Delegating to AI",
-      "source": "Harvard Business Review",
-      "source_url": "https://hbr.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VWEtvaE95cFlqT3RCR1U2V0FHUE4xOU1KblVwRmpfR2V2SGJjRk9NRWtURGd4UUFfa3lXVWdpX0dmM1cwVUJMeGRxSEEtNEZJZWJ0SWtTQ3pDclQzMWFwTFhPX25LdlgzU0xZYw?oc=5",
-      "pub_date": 1794406783.0,
-      "article_url": "https://hbr.org/2026/11/the-hidden-costs-of-delegating-to-ai",
-      "image": "https://hbr.org/resources/images/article_assets/2026/11/Nov26_11_2227611669.jpg",
-      "description": "AI can dramatically accelerate individual tasks without delivering equivalent gains for the organization, because delegating work creates costs beyond execution. Evidence from four accounting firms shows how faster tax preparation can shift bottlenecks to review, undermine employee incentives, and disrupt the development of future professionals. To turn time savings into lasting value, leaders must assess the full costs of delegation, redesign workflows and roles, and decide how to use the capacity AI creates."
-    },
-    {
-      "headline": "Introducing Businesses in ChatGPT",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5",
-      "pub_date": 1794263937.0,
-      "article_url": "https://openai.com/index/introducing-businesses-chatgpt/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7Eicp7g84HA3PCzyVJTfbT/d423890d5a1a863bf69a57bcbbbf6e99/business-agents-blog-social.png?w=1600&h=900&fit=fill",
-      "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-11T14:59:05.486645+00:00"
+  "fetched_at": "2026-11-11T21:55:42.372286+00:00"
 }
