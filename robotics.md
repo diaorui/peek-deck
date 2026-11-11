@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-10T19:25:03.187404+00:00'
+updated: '2026-11-11T00:11:16.555264+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 10, 2026 at 19:25 UTC  
+**Last Updated:** November 11, 2026 at 00:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,7 +108,7 @@ Hi guys, I need help. I'm trying to make my first autonomous navigating robot wi
 
 Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
 
-6d ago
+7d ago
 
 ---
 
@@ -120,7 +120,7 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
 
-Google DeepMind • 4h ago
+Google DeepMind • 9h ago
 
 ---
 
@@ -128,7 +128,7 @@ Google DeepMind • 4h ago
 
 Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.
 
-About Amazon • 5h ago
+About Amazon • 10h ago
 
 ---
 
@@ -136,21 +136,27 @@ About Amazon • 5h ago
 
 Ring expands beyond fixed cameras with a new flying indoor drone and autonomous business robot built to patrol, investigate and eliminate blind spots.
 
-Fox Business • 43m ago
+Fox Business • 5h ago
 
 ---
 
-**[From doorbell to drones: Amazon introduces the future of home security with Ring Robotics (AMZN:NASDAQ)](https://seekingalpha.com/news/4669794-from-doorbell-to-drones-amazon-introduces-the-future-of-home-security-with-ring-robotics)**
+**[Amazon's 'Ring Robotics' debuts: Rover and Drone Cam patrol with sirens](https://tech.yahoo.com/home/articles/amazons-ring-robotics-debuts-rover-191506357.html)**
 
-Amazon Ring unveils AI patrol devices: Drone Cam costs $249.99 and ships Jan.
+Amazon's Ring Robotics unveils a new future in home security with patrolling Ring Rover and Ring Drone cams.
 
-Seeking Alpha • 4h ago
+Yahoo Tech • 4h ago
+
+---
+
+**[Path Robotics hits $2.5b, Zacus' $135m, and Mubadala's secondary buy](https://www.axios.com/pro/all-deals/2026/11/10/pro-rata-premium-first-look)**
+
+Axios • 3h ago
 
 ---
 
 **[Europe can compete in robotics and physical AI, top chipmaker CEOs say](https://www.reuters.com/business/europe-can-compete-robotics-physical-ai-top-chipmaker-ceos-say-2026-11-10/)**
 
-Reuters • 12h ago
+Reuters • 16h ago
 
 ---
 
@@ -158,27 +164,21 @@ Reuters • 12h ago
 
 The new model is up to twice as successful at some tasks.
 
-Ars Technica • 4h ago
+Ars Technica • 9h ago
 
 ---
 
-**[Boston Dynamics adds wheels to Atlas humanoid to test whole-body control](https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/)**
+**[Path Robotics raises $300M at $2.45B valuation as it plans to automate more than welding](https://www.bizjournals.com/columbus/news/2026/11/10/path-robotics-unicorn-vc-round.html)**
 
-Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas.
-
-The Robot Report • 1d ago
+The Business Journals • 6h ago
 
 ---
 
-**[Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round](https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round)**
+**[Robotics company Figure AI is hiring a human to babysit humanoid robots overnight](https://www.businessinsider.com/figure-ai-hiring-human-babysit-robots-overnight-2026-11)**
 
-Bloomberg.com • 5h ago
+Robotics startup Figure AI is hiring a night-shift coordinator to oversee humanoid robots and human operators.
 
----
-
-**[Extra robotic thumb lets wearers complete two-handed tasks with one hand](https://techxplore.com/news/2026-11-extra-robotic-thumb-wearers-tasks.html)**
-
-Tech Xplore • 5h ago
+Business Insider • 13h ago
 
 ---
 
@@ -194,23 +194,93 @@ University of California, Berkeley • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s IRON Robot Is Advancing Faster Than Expected](https://www.youtube.com/watch?v=QfYFq24hX2c)**
+**[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
 
-China's humanoid robot race is accelerating. XPENG's IRON robot has received ten major updates in roughly nine weeks, ...
+Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
 
-📺 NextGen Humanoids
+📺 Arctos Robotics
 
-👁️ 52K • 👍 416 • 💬 40 • ⏱️ 8:58 • 5d ago
+👁️ 68K • 👍 1K • 💬 85 • ⏱️ 8:25 • 1d ago
 
 ---
 
-**[I Made a 3D Printed Robotic Hand! 🤖🔥](https://www.youtube.com/watch?v=BHHBE8rUoro)**
+**[China’s New Bionic AI Robots Look Too Human With Artificial Skin](https://www.youtube.com/watch?v=WPc-_6ToOqE)**
 
-Day 55 of my ₹1 Crore 3D Printing Business Challenge! Today, I made an amazing 3D Printed Robotic Hand using my Bambu ...
+China's new bionic AI robots read the news with artificial skin, camera eyes, and faces designed by Zhang Yimou. UBTech and ...
 
-📺 EJAZ AHMED 3D
+📺 AI Revolution
 
-👁️ 80K • 👍 994 • 💬 13 • ⏱️ 1:07 • 1d ago
+👁️ 12K • 👍 213 • 💬 16 • ⏱️ 14:05 • 23h ago
+
+---
+
+**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
+
+King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
+
+📺 Kathryn Petrillo
+
+👁️ 21K • 👍 539 • 💬 16 • ⏱️ 0:49 • 5d ago
+
+---
+
+**[I&#39;ve Tested Beni the Robot From the Beginning… Here&#39;s My Final Verdict!](https://www.youtube.com/watch?v=hfSRypjm2Vk)**
+
+Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities, can travel on ...
+
+📺 51 Drones
+
+👁️ 3K • 👍 128 • 💬 44 • ⏱️ 16:04 • 8h ago
+
+---
+
+**[Race Car Suspension Meets Field Robotics | SCOUT 2.0 Off-Road Mobile Robot](https://www.youtube.com/watch?v=MI86azwKTBM)**
+
+What helps a supercar stay composed through corners can also help a robot tackle rough terrain. SCOUT 2.0 features ...
+
+📺 AgileX Robotics
+
+👁️ 1K • 👍 9 • ⏱️ 0:23 • 6h ago
+
+---
+
+**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
+
+This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
+
+📺 Unstoppable Gadgets
+
+👁️ 156K • 👍 2K • 💬 61 • ⏱️ 0:21 • 5d ago
+
+---
+
+**[Anker eufy Robot Vacuum Omni S2 Pro - The ONLY Robot You will Ever Need](https://www.youtube.com/watch?v=3CBc2OsDxfg)**
+
+The Anker eufy Robot Vacuum Omni S2 Pro is official! First Robot that features UV-C floor disinfection! Buy on Amazon: ...
+
+📺 Redskull
+
+👁️ 9K • 👍 452 • 💬 80 • ⏱️ 9:20 • 13h ago
+
+---
+
+**[This made-in-India robot can tow 4,600 kilograms](https://www.youtube.com/watch?v=-Yodd5zfVAY)**
+
+Ati Robotics is a pioneering manufacturer of autonomous mobile robots designed for industrial and manufacturing environments.
+
+📺 RuntimeBRT
+
+👁️ 21K • 👍 1K • 💬 28 • ⏱️ 2:55 • 14h ago
+
+---
+
+**[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
+
+Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
+
+📺 Statrys
+
+👁️ 181K • 👍 2K • 💬 431 • ⏱️ 15:13 • 4d ago
 
 ---
 
@@ -220,75 +290,7 @@ Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Hu
 
 📺 Nexio Core
 
-👁️ 29K • 💬 8 • ⏱️ 0:06 • 16h ago
-
----
-
-**[Vir The Robot Boy : Robo Vir Aur imli Pat Huwa Attack | Best Scenes Robot Cartoon for kids](https://www.youtube.com/watch?v=5f_pmSVu5tM)**
-
-Vir The Robot Boy : Robo Vir Aur imli Pat Huwa Attack | Best Scenes Robot Cartoon for kids #VirTheRobotBoy #HindiCartoon ...
-
-📺 Vir - The Robot Boy
-
-👁️ 83K • 👍 292 • ⏱️ 11:58 • 2d ago
-
----
-
-**[⚙️ Precision Assembly of Tricolour Hair Straighteners](https://www.youtube.com/watch?v=JDWzIg-hfCo)**
-
-Witness the mesmerizing world of high-tech manufacturing as we go behind the scenes to see how a premium hair straightener is ...
-
-📺 Dancer sandhya lifestyle 
-
-👁️ 131K • 👍 1K • ⏱️ 0:11 • 1d ago
-
----
-
-**[Chinese Humanoid Robots Showcase Boxing Skills at CIIE | NewsX World](https://www.youtube.com/watch?v=8eBV6wOKSJM)**
-
-Chinese humanoid robots have showcased their boxing skills and human-like movements at the China International Import Expo ...
-
-📺 NewsX World
-
-👁️ 104K • 👍 85 • 💬 23 • ⏱️ 0:49 • 2d ago
-
----
-
-**[ANOTHER NERF that went TOO FAR in War Robots](https://www.youtube.com/watch?v=XAUTpQh8zyQ)**
-
-War Robots Gameplay: Anaksor after the 12.5 Nerf - it's not so much fun to play anymore. Too fragile, too much can one-shot you ...
-
-📺 Manni-Gaming
-
-👁️ 17K • 👍 428 • 💬 99 • ⏱️ 14:13 • 1d ago
-
----
-
-**[🔥 5 Amazing Working Projects 🤯 | Robotics &amp; Science Exhibition Ideas | DM Squad #shorts](https://www.youtube.com/watch?v=_XFp6t5z4O4)**
-
-📺 DM SqUad 
-
-👁️ 20K • 👍 131 • ⏱️ 0:17 • 15h ago
-
----
-
-**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
-
-Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
-
-📺 Agility
-
-👁️ 15K • 👍 272 • 💬 38 • ⏱️ 6:44 • 5d ago
-
----
-
-**[Xiaomi humanoid robots work a full 8-hour shift in its EV factory](https://www.youtube.com/watch?v=X2qjDBGiER8)**
-
-Xiaomi's humanoid robots worked a full eight-hour shift on its own EV assembly line, sorting car parts. In March, the longest run ...
-
-📺 Klaank
-
-👁️ 27K • 👍 207 • 💬 16 • ⏱️ 0:57 • 6d ago
+👁️ 38K • 💬 10 • ⏱️ 0:06 • 21h ago
 
 ---
 
