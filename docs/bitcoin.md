@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-10T19:25:03.178211+00:00'
+updated: '2026-11-11T00:11:16.550087+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 10, 2026 at 19:25 UTC  
+**Last Updated:** November 11, 2026 at 00:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,309.63
+### $73,709.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -8.8%  
-**30d:** -10.4%  
-**90d:** +15.6%  
-**1y:** -28.9%  
+**24h:** -1.8%  
+**7d:** -3.1%  
+**30d:** -11.4%  
+**90d:** +16.9%  
+**1y:** -27.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1474.56B
+**Market Cap:** $1481.61B
 Rank #1
 
 **Circulating Supply:** 20,110,356 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--41.9%
+-41.6%
 
 **All-Time Low:** $67.81
-+108013.8%
++108547.7%
 
 ---
 
@@ -99,7 +99,7 @@ The miner heats water to 60°C for the radiators and underfloor heating in a 180
 
 **[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1xs9tbj/buy_bitcoin/)**
 
-18h ago
+22h ago
 
 ---
 
@@ -137,7 +137,7 @@ The world is on fire, and we're all still at the table yelling at a chart at 3 A
 
 I seen that cashapp is offering a 2 percent weekly bonus payout for leaving bitcoin on their app. Has anyone done this yet and what are your thoughts on it?
 
-16h ago
+21h ago
 
 ---
 
@@ -145,7 +145,7 @@ I seen that cashapp is offering a 2 percent weekly bonus payout for leaving bitc
 
 Prepare for what's coming. Put in the work to understand bitcoin.
 
-1d ago
+2d ago
 
 ---
 
@@ -155,21 +155,7 @@ Prepare for what's coming. Put in the work to understand bitcoin.
 
 **[Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/11/09/elon-musk-stokes-global-bankruptcy-fears-that-could-be-a-bitcoin-price-game-changer/)**
 
-Forbes • 22h ago
-
----
-
-**[Bitcoin Drops to Almost Three-Month Low as US Inflation Dims Risk Appetite](https://www.bloomberg.com/news/articles/2026-11-10/bitcoin-drops-to-almost-three-month-low-as-us-inflation-dims-risk-appetite)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Virtual fruit fly brains can play Doom and trade bitcoin](https://www.scientificamerican.com/article/virtual-fruit-fly-brains-can-play-doom-and-trade-bitcoin/)**
-
-Researchers created a new map of the fruit fly brain. Then the Internet found it
-
-Scientific American • 7h ago
+Forbes • 1d ago
 
 ---
 
@@ -177,15 +163,35 @@ Scientific American • 7h ago
 
 Where does Bitcoin go after the midterm elections? History provides some clues.
 
-The Motley Fool • 3h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Over $10 billion in leveraged Bitcoin shorts stack up near $83K, raising squeeze risk](https://www.tradingview.com/news/cryptobriefing:25ba4cbfe094b:0-over-10-billion-in-leveraged-bitcoin-shorts-stack-up-near-83k-raising-squeeze-risk/)**
+**[Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miner-hive-eyes-45-224602372.html)**
 
-Traders have piled more than $10 billion in leveraged short bets on Bitcoin, stacked up to the $83,000 level as of November 9, 2026, according to trader commentary circulating on X.Bitcoin was trading in the mid-to-high $70,000s at the time.That setup has revived talk of a short squeeze.The most de…
+The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.
 
-TradingView • 6h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Drops to Almost Three-Month Low as US Inflation Dims Risk Appetite](https://www.bloomberg.com/news/articles/2026-11-10/bitcoin-drops-to-almost-three-month-low-as-us-inflation-dims-risk-appetite)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[Virtual fruit fly brains can play Doom and trade bitcoin](https://www.scientificamerican.com/article/virtual-fruit-fly-brains-can-play-doom-and-trade-bitcoin/)**
+
+Researchers created a new map of the fruit fly brain. Then the Internet found it
+
+Scientific American • 12h ago
+
+---
+
+**[Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more](https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more)**
+
+CoinDesk • 18h ago
 
 ---
 
@@ -193,7 +199,23 @@ TradingView • 6h ago
 
 October US CPI rose 0.4% and core prices increased 0.3%, above consensus forecasts. Bitcoin and ether traded lower around the release.
 
-The Defiant • 5h ago
+The Defiant • 17h ago
+
+---
+
+**[Over $10 billion in leveraged Bitcoin shorts stack up near $83K, raising squeeze risk](https://www.tradingview.com/news/cryptobriefing:25ba4cbfe094b:0-over-10-billion-in-leveraged-bitcoin-shorts-stack-up-near-83k-raising-squeeze-risk/)**
+
+Traders have piled more than $10 billion in leveraged short bets on Bitcoin, stacked up to the $83,000 level as of November 9, 2026, according to trader commentary circulating on X.Bitcoin was trading in the mid-to-high $70,000s at the time.That setup has revived talk of a short squeeze.The most de…
+
+TradingView • 10h ago
+
+---
+
+**[Trump Media Pledged 11,385 Bitcoin. Could a $1 Billion Note Demand Force It to Sell?](https://247wallst.com/investing/cryptocurrency/2026/11/10/trump-media-pledged-11385-bitcoin-could-a-1-billion-note-demand-force-it-to-sell/)**
+
+Trump Media has pledged 11,385 Bitcoin while facing a $1 billion cash option on November 30. Could noteholders force a sale?
+
+24/7 Wall St. • 5h ago
 
 ---
 
@@ -201,43 +223,13 @@ The Defiant • 5h ago
 
 /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company ("Hyperscale Data" or the "Company"), today...
 
-PR Newswire • 7h ago
-
----
-
-**[Bitcoin Gains Lift Trump Media to a Q3 Profit as Operations Lose $23.6 Million](https://unchainedcrypto.com/bitcoin-gains-lift-trump-media-to-a-q3-profit-as-operations-lose-23-6-million/)**
-
-The $23.6 million operating loss is Unchained's calculation excluding a $378.1 million digital-asset gain, which the 10-Q books inside operating results, while revenue came to $3.0 million.
-
-unchainedcrypto.com • 9h ago
-
----
-
-**[MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans](https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950)**
-
-MARA sold 13,597 bitcoin for approximately $1.1 billion after the quarter ended, using $750 million to fully repay its bitcoin-collateralized loans.
-
-The Block • 21h ago
-
----
-
-**[Strategy Spent More on Its Own Shares Than on Bitcoin Last Week. Why Is Saylor Buying Back Stock Instead of BTC?](https://247wallst.com/investing/cryptocurrency/2026/11/09/strategy-spent-more-on-its-own-shares-than-on-bitcoin-last-week-why-is-saylor-buying-back-stock-instead-of-btc/)**
-
-Strategy spent $188 million buying back STRC and $82 million on Bitcoin in one week. Here's why Saylor is propping up STRC.
-
-24/7 Wall St. • 1d ago
+PR Newswire • 12h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers](https://news.ycombinator.com/item?id=50357834)**
-
-⬆️ 3 • 💬 1 • 6d ago • [0xca333.substack.com](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
-
----
 
 **[Show HN: Free real-time order book heatmap for Bitcoin, gold and US 500](https://news.ycombinator.com/item?id=50390550)**
 
@@ -252,6 +244,12 @@ The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlest
 Silent Payments has suffered from the lack of multisig & hardware wallet support. We built payments using FROST / Frostsnap hardware that enable distributed signing coordinated using Marmot.
 
 ⬆️ 2 • 💬 1 • 4d ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
+
+---
+
+**[Digital Forensics Case (Who Tried to Trade Bitcoin)](https://news.ycombinator.com/item?id=50447845)**
+
+⬆️ 1 • 💬 0 • 36m ago • [luthmann.substack.com](https://luthmann.substack.com/p/rape-or-setup)
 
 ---
 
@@ -273,7 +271,7 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 Discord is moving its apps fully over to the Rust programming language.
 
-⬆️ 495 • 💬 438 • 5d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
+⬆️ 495 • 💬 439 • 5d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 
 ---
 
@@ -287,7 +285,17 @@ Bitcoin just lost its 50-week moving average after five straight red weeks, reig
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 2K • 💬 229 • ⏱️ 17:23 • 21h ago
+👁️ 42K • 👍 2K • 💬 237 • ⏱️ 17:23 • 1d ago
+
+---
+
+**[Saylor Saw This In June. Bitcoin Bottomed Right After](https://www.youtube.com/watch?v=anSDOymvNk8)**
+
+Bitcoin isn't falling because it's broken — it's because Wall Street is chasing the biggest AI IPOs in history. Michael Saylor warned ...
+
+📺 Digital Asset News
+
+👁️ 6K • 👍 301 • 💬 27 • ⏱️ 33:14 • 3h ago
 
 ---
 
@@ -297,67 +305,37 @@ SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WE
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 186 • 💬 14 • ⏱️ 6:44 • 3h ago
+👁️ 8K • 👍 250 • 💬 31 • ⏱️ 6:44 • 8h ago
 
 ---
 
-**[Hot CPI Lands Before the Fed’s Final Rate Decision (Big for Crypto)](https://www.youtube.com/watch?v=35hR5quiYbk)**
+**[Elizabeth Warren just made her first move](https://www.youtube.com/watch?v=Rv1vVwhEhwE)**
 
-Markets are bouncing back after a sharp correction, but is this the beginning of a bigger recovery? Today's CPI report is the final ...
+Marathon sold 13597 Bitcoin for about $1.1 billion in six weeks, roughly 40% of what it held at the end of September, and used ...
 
-📺 Crypto Banter
+📺 Yahoo Finance
 
-👁️ 27K • 👍 756 • 💬 13 • ⏱️ 28:16 • 5h ago
-
----
-
-**[“Bitcoin Under $200K? It Makes No Sense” —  Anthony Scaramucci Explains](https://www.youtube.com/watch?v=LGzfQjA2SHA)**
-
-Why is Bitcoin still trading around $75K–$80K when Anthony Scaramucci believes it should already be worth $200000?
-
-📺 Cointelegraph
-
-👁️ 44K • 👍 434 • 💬 82 • ⏱️ 11:26 • 1d ago
+👁️ 16K • 👍 394 • 💬 152 • ⏱️ 14:49 • 6h ago
 
 ---
 
-**[Terrible News for Nvidia &amp; Crypto Investors](https://www.youtube.com/watch?v=zzUEnuqJaeg)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 59K • 👍 2K • 💬 61 • ⏱️ 10:00 • 18h ago
-
----
-
-**[Bitcoin: Close Your Eyes &amp; Buy? [My Plan Of Action]](https://www.youtube.com/watch?v=NXJZ-OOcCvo)**
-
-In today's live market analysis, Kyle Doops dissects the 'close your eyes and buy' approach to Bitcoin, specifically leveraging the ...
-
-📺 Crypto Banter
-
-👁️ 21K • 👍 935 • 💬 13 • ⏱️ 49:47 • 11h ago
-
----
-
-**[Bitcoin Falls to the Bull Market Support Band](https://www.youtube.com/watch?v=0AGXzdZNwq0)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 200K • 👍 6K • 💬 217 • ⏱️ 9:28 • 1d ago
-
----
-
-**[Bitcoin Faces Nvidia Shock](https://www.youtube.com/watch?v=4dG6hoLc72E)**
+**[Bitcoin Faces CPI Shock and a Hawkish Fed](https://www.youtube.com/watch?v=luAqXHyeZyc)**
 
 AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 735 • 💬 72 • ⏱️ 1:00:07 • 1d ago
+👁️ 24K • 👍 642 • 💬 24 • ⏱️ 45:55 • 6h ago
+
+---
+
+**[Jeff Booth Warning: The Scenario Nobody in Bitcoin Wants to Talk About](https://www.youtube.com/watch?v=wdk5JZ9hPzs)**
+
+Are we headed toward a future of abundance and freedom...or control and scarcity? Jeff Booth joins me to revisit The Price of ...
+
+📺 Natalie Brunell
+
+👁️ 37K • 👍 1K • 💬 155 • ⏱️ 58:43 • 10h ago
 
 ---
 
@@ -367,17 +345,37 @@ Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest C
 
 📺 Coin Bureau
 
-👁️ 32K • 👍 854 • 💬 75 • ⏱️ 12:01 • 7h ago
+👁️ 63K • 👍 1K • 💬 103 • ⏱️ 12:01 • 12h ago
 
 ---
 
-**[BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67,000!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WZFYiNA3RNM)**
+**[This CONFIRMS They’re Coming After YOUR Bitcoin NEXT!! | EP 1631](https://www.youtube.com/watch?v=GFDUlOBUnac)**
 
-BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67000!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+As has been long predicted on Simply Bitcoin, after midterm blow out, the attacks on bitcoin association via the Trump ...
 
-📺 Crypto World
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 161 • 💬 86 • ⏱️ 26:05 • 2h ago
+👁️ 11K • 👍 261 • 💬 45 • ⏱️ 1:22:57 • 5h ago
+
+---
+
+**[This Crypto Crash Is NOT What It Looks Like (Bears Are Running Out Of Time)](https://www.youtube.com/watch?v=-EvSSOJPOZE)**
+
+Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my affiliate link for 80% off spot trading fees.
+
+📺 Crypto Capital Venture
+
+👁️ 11K • 👍 486 • 💬 206 • ⏱️ 15:45 • 6h ago
+
+---
+
+**[Bitcoin Falls to the Bull Market Support Band](https://www.youtube.com/watch?v=0AGXzdZNwq0)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 206K • 👍 6K • 💬 218 • ⏱️ 9:28 • 1d ago
 
 ---
 

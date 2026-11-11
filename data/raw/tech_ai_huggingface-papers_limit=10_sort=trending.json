@@ -96,6 +96,25 @@
       "project_page": "https://harness2.github.io/"
     },
     {
+      "id": "2611.12806",
+      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "authors": "Bing Han, Yichuan Peng, Haoyu Dong et al. (19 authors)",
+      "organization_name": "robbyant",
+      "organization_fullname": "Robbyant",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/67aeffda7330db26f93cd62f/ZTuImney4XzRmBHyUL47F.png",
+      "summary": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering irreplaceable strengths alongside its own drawbacks. A key challenge is thus to free tactile understanding from sensor-specific physics, so that embodied models can effectively leverage heterogeneous tactile data. To this end, we develop LingBot-Touch, a tactile foundation model characterized by the following properties. (i) Our model yields a unified representation across different tactile sensors (i.e., piezoresistive, magnetic, and visuotactile sensors), and is easily extensible to new sensor types. (ii) The resulting tactile tokens are plug-and-play: they can be seamlessly integrated into policy models across paradigms, from diffusion policy to vision-language-action (VLA) models such as \u03c0_{0.5} and LingBot-VLA, consistently enhancing manipulation dexterity. (iii) Extensive experiments, spanning simulation and real-robot deployments across multiple hardware platforms, demonstrate that our tactile representation substantially benefits complex manipulation tasks while maintaining strong computational efficiency. We believe the findings in this work demonstrate the potential of leveraging cross-sensor data to scale tactile learning, and offer encouraging insights for the design of future hardware and embodied models.",
+      "ai_summary": "LingBot-Touch is a tactile foundation model that learns a unified, extensible representation across heterogeneous tactile sensors, yielding plug-and-play tactile tokens that consistently enhance manipulation policies such as diffusion policy and VLA models.",
+      "hf_url": "https://huggingface.co/papers/2611.12806",
+      "arxiv_url": "https://arxiv.org/abs/2611.12806",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12806.png",
+      "upvotes": 92,
+      "num_comments": 1,
+      "published_at": "2026-11-08T19:00:00.000Z",
+      "github_repo": "https://github.com/Robbyant/lingbot-touch",
+      "github_stars": 137,
+      "project_page": "https://technology.robbyant.com/lingbot-touch"
+    },
+    {
       "id": "2610.42148",
       "title": "Flide: Accelerating Decision Inference with Exact State Forking",
       "authors": "Bobo Li, Jiajia Song, Hao Fei et al. (5 authors)",
@@ -164,34 +183,15 @@
       "hf_url": "https://huggingface.co/papers/2611.08264",
       "arxiv_url": "https://arxiv.org/abs/2611.08264",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.08264.png",
-      "upvotes": 67,
+      "upvotes": 68,
       "num_comments": 2,
       "published_at": "2026-11-05T11:37:29.000Z",
       "github_repo": "https://github.com/zju3dv/SplatAnything",
       "github_stars": 138,
       "project_page": "https://zju3dv.github.io/SplatAnything/"
-    },
-    {
-      "id": "2309.06180",
-      "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
-      "authors": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "High throughput serving of large language models (LLMs) requires batching\nsufficiently many requests at a time. However, existing systems struggle\nbecause the key-value cache (KV cache) memory for each request is huge and\ngrows and shrinks dynamically. When managed inefficiently, this memory can be\nsignificantly wasted by fragmentation and redundant duplication, limiting the\nbatch size. To address this problem, we propose PagedAttention, an attention\nalgorithm inspired by the classical virtual memory and paging techniques in\noperating systems. On top of it, we build vLLM, an LLM serving system that\nachieves (1) near-zero waste in KV cache memory and (2) flexible sharing of KV\ncache within and across requests to further reduce memory usage. Our\nevaluations show that vLLM improves the throughput of popular LLMs by\n2-4times with the same level of latency compared to the state-of-the-art\nsystems, such as FasterTransformer and Orca. The improvement is more pronounced\nwith longer sequences, larger models, and more complex decoding algorithms.\nvLLM's source code is publicly available at\nhttps://github.com/vllm-project/vllm",
-      "ai_summary": "PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.",
-      "hf_url": "https://huggingface.co/papers/2309.06180",
-      "arxiv_url": "https://arxiv.org/abs/2309.06180",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2309.06180.png",
-      "upvotes": 77,
-      "num_comments": 1,
-      "published_at": "2023-09-12T08:50:04.000Z",
-      "github_repo": "https://github.com/vllm-project/vllm",
-      "github_stars": 86094,
-      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-10T19:24:31.154036+00:00"
+  "fetched_at": "2026-11-11T00:10:53.427490+00:00"
 }

@@ -2,22 +2,22 @@
   "coin_id": "bitcoin",
   "name": "Bitcoin",
   "symbol": "BTC",
-  "current_price": 73312,
-  "market_cap": 1474558088108,
-  "total_supply": 20110375.0,
+  "current_price": 73674,
+  "market_cap": 1481607324732,
+  "total_supply": 20110453.0,
   "circulating_supply": 20110356.0,
   "max_supply": 21000000.0,
   "ath": {
     "price": 126080,
     "date": "2025-10-06T10:57:42.000Z",
-    "change_percent": -41.85279187817259
+    "change_percent": -41.565672588832484
   },
   "atl": {
     "price": 67.81,
     "date": "2013-07-05T16:00:00.000Z",
-    "change_percent": 108013.84751511575
+    "change_percent": 108547.69208081404
   },
-  "price_change_24h_percent": -1.7421,
+  "price_change_24h_percent": -2.19373,
   "market_cap_rank": 1,
-  "fetched_at": "2026-11-10T19:24:19.656563+00:00"
+  "fetched_at": "2026-11-11T00:10:41.530597+00:00"
 }
