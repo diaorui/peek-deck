@@ -33,6 +33,20 @@
       "site_name": "bitcoin++"
     },
     {
+      "title": "The Wish Economy: Inside Starlight, the Bitcoin-Native AI App Store",
+      "url": "https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/",
+      "hn_url": "https://news.ycombinator.com/item?id=50457760",
+      "author": "macroadster",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-11T19:53:10Z",
+      "object_id": "50457760",
+      "image": null,
+      "description": "A deep dive into Starlight \u2014 the decentralized AI app store where wishes are steganographically inscribed on Bitcoin, AI agents compete to fulfill them, and satoshis settle the work.",
+      "favicon": "https://starlight-ai.freemyip.com/favicon.ico",
+      "site_name": "starlight-ai.freemyip.com"
+    },
+    {
       "title": "Digital Forensics Case (Who Tried to Trade Bitcoin)",
       "url": "https://luthmann.substack.com/p/rape-or-setup",
       "hn_url": "https://news.ycombinator.com/item?id=50447845",
@@ -103,7 +117,7 @@
       "site_name": "The Verge"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-11-11T14:58:32.564667+00:00"
+  "fetched_at": "2026-11-11T21:55:10.582181+00:00"
 }

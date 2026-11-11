@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-11T14:59:07.959873+00:00'
+updated: '2026-11-11T21:55:44.926874+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 11, 2026 at 14:59 UTC  
+**Last Updated:** November 11, 2026 at 21:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,058.23
+### $2,083.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** -8.1%  
-**30d:** -17.7%  
-**90d:** +9.2%  
-**1y:** -39.7%  
+**24h:** +1.2%  
+**7d:** -7.4%  
+**30d:** -17.0%  
+**90d:** +10.1%  
+**1y:** -39.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.79B
+**Market Cap:** $253.33B
 Rank #2
 
 **Circulating Supply:** 122,209,758 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-58.1%
 
 **All-Time Low:** $0.43
-+473957.6%
++478648.4%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[So are we just moving on from the whole ‘World Computer’ narrative now?](https://www.reddit.com/r/ethereum/comments/1xr1260/so_are_we_just_moving_on_from_the_whole_world/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Lasso RPC v0.8.0 is live: route transaction sends to private RPC relays + automatic RPC provider limit learning](https://www.reddit.com/r/ethereum/comments/1xot8zs/lasso_rpc_v080_is_live_route_transaction_sends_to/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -152,7 +152,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The non-profit allegedly told workers to pledge they'd die by suicide "with a sword."
 
-Mashable • 6h ago
+Mashable • 13h ago
+
+---
+
+**[What Will Bitcoin and Ethereum Be Worth in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-worth-5-years-173406465.html)**
+
+Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -166,15 +174,7 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
-
----
-
-**[Urgent Ethereum node patch issued due to hidden security flaws](https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/)**
-
-Ethereum's Lighthouse urged all beacon node operators to install a high-priority security patch ahead of a planned vulnerability disclosure.
-
-CryptoSlate • 7h ago
+Fortune • 1d ago
 
 ---
 
@@ -182,43 +182,47 @@ CryptoSlate • 7h ago
 
 Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027.
 
-Crypto News • 5h ago
+Crypto News • 12h ago
 
 ---
 
-**[Ripple Ex-CTO David Schwartz Reveals How Much XRP, Ethereum, and Bitcoin He Owns](https://beincrypto.com/david-schwartz-xrp-bitcoin-ethereum-holdings/)**
+**[What the Ethereum Foundation’s New Institutional Team Is Meant to Do](https://www.burlingtonfreepress.com/story/special/contributor-content/2026/11/11/what-the-ethereum-foundations-new-institutional-team-is-meant-to-do/92664517007/)**
 
-BeInCrypto • 5h ago
+The development is relevant beyond anyone who tracks the ether price. It shows how one of the largest public blockchain projects is organizing its work as more traditional financial firms explore stablecoins, tokenized funds and other applications built on public networks. It does not say anything a
 
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Drop as Investors Weigh Rate Hike Odds: Analyst Explains Why ‘Horrific’ BTC Chart Is Routine in a Bull Market](https://www.tradingview.com/news/benzinga:c294080fe094b:0-bitcoin-ethereum-xrp-dogecoin-drop-as-investors-weigh-rate-hike-odds-analyst-explains-why-horrific-btc-chart-is-routine-in-a-bull-market/)**
-
-Leading cryptocurrencies fell further on Tuesday as investors weighed hotter-than-expected consumer prices and the rising odds of an interest-rate hike.Crypto Market Extends LossesBitcoin fell below $73,000, while Ethereum stayed trapped in the $2,000–$2,100 range amid a sharp drop in overall marke…
-
-TradingView • 13h ago
+Burlington Free Press • 7h ago
 
 ---
 
-**[Digital Asset Treasury Firms Continue to Buy Bitcoin and Ethereum. That's Why I'm Bullish on These Two Cryptocurrencies.](https://www.fool.com/investing/2026/11/09/digital-asset-treasury-firms-continue-to-buy-bitco/)**
+**[Ripple's David Schwartz Once Held 26 Million XRP, 1,500 Bitcoin and 40,000 Ethereum. Why Did He Sell Over 90% of His Crypto?](https://247wallst.com/investing/cryptocurrency/2026/11/11/ripples-david-schwartz-once-held-26-million-xrp-1500-bitcoin-and-40000-ethereum-why-did-he-sell-over-90-of-his-crypto/)**
 
-These big buyers have slowed their purchases, but they haven't stopped.
+Former Ripple CTO David Schwartz once held 26 million XRP, 1,500 Bitcoin and 40,000 Ethereum. Here's why he sold over 90% of it.
 
-The Motley Fool • 2d ago
-
----
-
-**[Crypto News: New Crypto Pepeto Announces $11.3M Raised While Ethereum Price Could Reach $15,000](https://markets.businessinsider.com/news/stocks/crypto-news-new-crypto-pepeto-announces-11-3m-raised-while-ethereum-price-could-reach-15-000-1036744199)**
-
-DUBAI, United Arab Emirates, Nov.  10, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has announced that its presale total has passed $11.3 million, ...
-
-markets.businessinsider.com • 18h ago
+24/7 Wall St. • 9h ago
 
 ---
 
-**[Ethereum ended CoreWeave's mining days. Earnings test its AI bet](https://www.thestreet.com/crypto/markets/coreweave-stock-could-swing-15-on-q3-earnings-options-imply)**
+**[Urgent Ethereum node patch issued due to hidden security flaws](https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/)**
 
-TheStreet • 18h ago
+Ethereum's Lighthouse urged all beacon node operators to install a high-priority security patch ahead of a planned vulnerability disclosure.
+
+CryptoSlate • 14h ago
+
+---
+
+**[Crypto Crash Aftermath: What’s Next For Bitcoin, Ethereum And XRP Prices?](https://www.tradingview.com/news/coinpedia:ca523dfbb094b:0-crypto-crash-aftermath-what-s-next-for-bitcoin-ethereum-and-xrp-prices/)**
+
+The worst of the selling may have slowed, but the crypto market is not out of danger yet. After a week of heavy losses driven by hot US inflation data and a tech stock rout, Bitcoin is sitting on its final major support zone. Ethereum and XRP still look weak.According to an analyst Josh of Crypto W…
+
+TradingView • 10h ago
+
+---
+
+**[CoinShares survey: Bitcoin leads growth outlook as Ethereum sentiment improves](https://cryptobriefing.com/coinshares-survey-bitcoin-growth-outlook-ethereum/)**
+
+CoinShares survey reveals Bitcoin leads growth outlook among institutional managers, while Ethereum sentiment improves and crypto allocations
+
+Crypto Briefing • 3h ago
 
 ---
 
@@ -226,23 +230,43 @@ TheStreet • 18h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Jamie Dimon Hates Crypto. So Why Is JPMorgan&#39;s Dollar On Ethereum?](https://www.youtube.com/watch?v=z75gejjuHnQ)**
+
+Jamie Dimon called Bitcoin a fraud. Then JPMorgan put its own dollar on Ethereum. JPM Coin, ticker JPMD, went live on the ...
+
+📺 Dana Love, PhD
+
+👁️ 8K • 👍 257 • 💬 34 • ⏱️ 19:35 • 6h ago
+
+---
+
 **[Ethereum’s Vitalik Just Killed Ultrasound Money](https://www.youtube.com/watch?v=c0_agF2_9IQ)**
 
 AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
 📺 Lark Davis
 
-👁️ 13K • 👍 213 • 💬 29 • ⏱️ 10:11 • 17h ago
+👁️ 15K • 👍 223 • 💬 29 • ⏱️ 10:11 • 1d ago
 
 ---
 
-**[MASSIVE Crypto SHORT!  (How Low Will Ethereum Go?)](https://www.youtube.com/watch?v=1FHsl1gVMkw)**
+**[Bitcoin, XRP And Ethereum Are Preparing For A Major Move While AI Stocks Around The World Drop](https://www.youtube.com/watch?v=ZdV5k0K1dFo)**
 
-Join Skool Community - https://www.skool.com/discovercrypto/about Trade at Bitbase ...
+Why in the world is so much crypto being taken off of crypto exchanges this year? Why is every major bank on the planet ...
 
-📺 Discover Crypto
+📺 Money Rules - Investing Tips 
 
-👁️ 3K • 👍 57 • 💬 34 • ⏱️ 5:28 • 15h ago
+👁️ 22K • 👍 1K • 💬 260 • ⏱️ 14:18 • 9h ago
+
+---
+
+**[BITCOIN FLIPPED: EVERYONE IS WRONG (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sqx6tMo8XrI)**
+
+BITCOIN FLIPPED: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 199 • 💬 62 • ⏱️ 17:50 • 4h ago
 
 ---
 
@@ -252,7 +276,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 214 • 💬 51 • ⏱️ 22:13 • 1d ago
+👁️ 14K • 👍 220 • 💬 51 • ⏱️ 22:13 • 1d ago
 
 ---
 
@@ -262,17 +286,17 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 77 • 💬 52 • ⏱️ 14:58 • 20h ago
+👁️ 4K • 👍 77 • 💬 51 • ⏱️ 14:58 • 1d ago
 
 ---
 
-**[I Tested an AI Trading Bot Built with ChatGPT Astra AI - Ethereum Day Trading](https://www.youtube.com/watch?v=PMtWzSh1o0A)**
+**[MASSIVE Crypto SHORT!  (How Low Will Ethereum Go?)](https://www.youtube.com/watch?v=1FHsl1gVMkw)**
 
-Complete Tutorial Guide: https://tr.ee/6uBcSI This tutorial covers ai trading, day trading, day trading for beginners, and ...
+Join Skool Community - https://www.skool.com/discovercrypto/about Trade at Bitbase ...
 
-📺 Owen Parker
+📺 Discover Crypto
 
-👁️ 877 • 👍 9 • 💬 10 • ⏱️ 5:59 • 20h ago
+👁️ 4K • 👍 61 • 💬 35 • ⏱️ 5:28 • 22h ago
 
 ---
 
@@ -286,33 +310,13 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 ---
 
-**[Ethereum has $15 BILLION of real assets. Hedera has $90M](https://www.youtube.com/watch?v=-2RolXD3VcU)**
+**[I Tested an AI Trading Bot Built with ChatGPT Astra AI - Ethereum Day Trading](https://www.youtube.com/watch?v=PMtWzSh1o0A)**
 
-I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
+Complete Tutorial Guide: https://tr.ee/6uBcSI This tutorial covers ai trading, day trading, day trading for beginners, and ...
 
-📺 Cheeky Crypto Plus
+📺 Owen Parker
 
-👁️ 3K • 👍 103 • 💬 20 • ⏱️ 18:58 • 1d ago
-
----
-
-**[Ethereum Crashed to $2,006.. I&#39;m Buying the DIP!!](https://www.youtube.com/watch?v=VK9vPu8s-oU)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v111 Ethereum (ETH) just crashed to its ...
-
-📺 Marzell Crypto
-
-👁️ 771 • 👍 14 • 💬 3 • ⏱️ 3:16 • 21h ago
-
----
-
-**[This Crypto Crash Is NOT What It Looks Like (Bears Are Running Out Of Time)](https://www.youtube.com/watch?v=-EvSSOJPOZE)**
-
-Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my affiliate link for 80% off spot trading fees.
-
-📺 Crypto Capital Venture
-
-👁️ 19K • 👍 629 • 💬 147 • ⏱️ 15:45 • 21h ago
+👁️ 2K • 👍 15 • 💬 23 • ⏱️ 5:59 • 1d ago
 
 ---
 
@@ -322,7 +326,7 @@ Now with Nazis! by Amy Castor and David Gerard ...
 
 📺 Pivot to AI
 
-👁️ 17K • 👍 1K • 💬 248 • ⏱️ 11:26 • 1d ago
+👁️ 17K • 👍 1K • 💬 255 • ⏱️ 11:26 • 1d ago
 
 ---
 

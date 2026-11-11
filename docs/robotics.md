@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-11T14:59:07.962083+00:00'
+updated: '2026-11-11T21:55:44.930064+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 11, 2026 at 14:59 UTC  
+**Last Updated:** November 11, 2026 at 21:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be t
 
 Hello everyone, I’m new to the group. I’ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony’s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn’t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It’s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I’m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox
 
-6d ago
+7d ago
 
 ---
 
@@ -60,7 +60,7 @@ I just finished testing the legs, i had to swap the modules i used to control th
 
 I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?
 
-6d ago
+7d ago
 
 ---
 
@@ -68,7 +68,7 @@ I modeled the individual parts and built the full assembly using SolidCraft and 
 
 Después de un accidente se han vuelto a construir las piernas. Está vez con encoder y un par de servoblocks en las caderas. Encoders magnéticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad .
 
-6d ago
+7d ago
 
 ---
 
@@ -120,7 +120,19 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
 
-Google DeepMind • 23h ago
+Google DeepMind • 1d ago
+
+---
+
+**[Intel: Robotics Is A Key Strategic Focus Going Forward](https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/)**
+
+Forbes • 10h ago
+
+---
+
+**[Europe can compete in robotics and physical AI, top chipmaker CEOs say](https://www.reuters.com/business/europe-can-compete-robotics-physical-ai-top-chipmaker-ceos-say-2026-11-10/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -132,31 +144,35 @@ About Amazon • 1d ago
 
 ---
 
-**[Amazon's Ring launches flying security drones, patrol robots to guard homes, businesses](https://www.foxbusiness.com/technology/amazon-ring-launches-flying-security-drones-patrol-robots-guard-homes-businesses)**
-
-Ring expands beyond fixed cameras with a new flying indoor drone and autonomous business robot built to patrol, investigate and eliminate blind spots.
-
-Fox Business • 20h ago
-
----
-
 **[Ring unveils AI-enabled home security drones, robots](https://nypost.com/2026/11/10/business/ring-unveils-flying-drones-and-rolling-robots-for-homes-and-businesses/)**
 
 Security camera company Ring on Tuesday unveiled flying drones and wheeled robots designed to monitor homes and businesses.
 
-New York Post • 17h ago
+New York Post • 1d ago
 
 ---
 
-**[Intel: Robotics Is A Key Strategic Focus Going Forward](https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/)**
+**[Amazon's 'Ring Robotics' debuts: Rover and Drone Cam patrol with sirens](https://tech.yahoo.com/home/articles/amazons-ring-robotics-debuts-rover-191506357.html)**
 
-Forbes • 3h ago
+Amazon's Ring Robotics unveils a new future in home security with patrolling Ring Rover and Ring Drone cams.
+
+Yahoo Tech • 1d ago
 
 ---
 
-**[Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round](https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round)**
+**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
 
-Bloomberg.com • 1d ago
+An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
+
+WIRED • 2h ago
+
+---
+
+**[Eric Trump-backed firm in talks to send humanoid robots into Hamas tunnels](https://www.telegraph.co.uk/us/news/2026/11/11/trump-humanoid-robots-hamas-tunnels/)**
+
+IDF expected to purchase up to 1,000 from Foundation Future Industries where president’s son is adviser
+
+The Telegraph • 2h ago
 
 ---
 
@@ -168,25 +184,11 @@ University of California, Berkeley • 2d ago
 
 ---
 
-**[Extra robotic thumb lets wearers complete two-handed tasks with one hand](https://techxplore.com/news/2026-11-extra-robotic-thumb-wearers-tasks.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"](https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/)**
-
-The new model is up to twice as successful at some tasks.
-
-Ars Technica • 23h ago
-
----
-
 **[Serve Robotics wants to democratize sidewalk delivery robots](https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery)**
 
 Serve Robotics is breaking away from delivery app lock-in.
 
-The Verge • 2h ago
+The Verge • 9h ago
 
 ---
 
@@ -194,23 +196,13 @@ The Verge • 2h ago
 
 ## YouTube Videos: "robotics"
 
-**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
+**[China’s New Bionic AI Robots Look Too Human With Artificial Skin](https://www.youtube.com/watch?v=WPc-_6ToOqE)**
 
-King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
+China's new bionic AI robots read the news with artificial skin, camera eyes, and faces designed by Zhang Yimou. UBTech and ...
 
-📺 Kathryn Petrillo
+📺 AI Revolution
 
-👁️ 21K • 👍 539 • 💬 16 • ⏱️ 0:49 • 6d ago
-
----
-
-**[I Wasn&#39;t Expecting THIS From Ring! (Hands-on)](https://www.youtube.com/watch?v=1NARFzFzZdo)**
-
-(AD) Ring just unveiled Ring Robotics Drone Cam & Rover Cam - for your home and business! • Ring Drone Cam: ...
-
-📺 The Tech Chap
-
-👁️ 42K • 👍 628 • 💬 128 • ⏱️ 5:28 • 22h ago
+👁️ 15K • 👍 243 • 💬 18 • ⏱️ 14:05 • 1d ago
 
 ---
 
@@ -220,27 +212,47 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 116K • 👍 2K • 💬 104 • ⏱️ 8:25 • 1d ago
+👁️ 138K • 👍 2K • 💬 109 • ⏱️ 8:25 • 2d ago
 
 ---
 
-**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
+**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
 
-Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
+China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
 
-📺 Nexio Core
+📺 The AI Nexus
 
-👁️ 47K • 💬 12 • ⏱️ 0:06 • 1d ago
+👁️ 36K • 👍 419 • 💬 52 • ⏱️ 15:41 • 1d ago
 
 ---
 
-**[China’s New Bionic AI Robots Look Too Human With Artificial Skin](https://www.youtube.com/watch?v=WPc-_6ToOqE)**
+**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
 
-China's new bionic AI robots read the news with artificial skin, camera eyes, and faces designed by Zhang Yimou. UBTech and ...
+King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
 
-📺 AI Revolution
+📺 Kathryn Petrillo
 
-👁️ 14K • 👍 232 • 💬 17 • ⏱️ 14:05 • 1d ago
+👁️ 21K • 👍 540 • 💬 16 • ⏱️ 0:49 • 6d ago
+
+---
+
+**[I Wasn&#39;t Expecting THIS From Ring! (Hands-on)](https://www.youtube.com/watch?v=1NARFzFzZdo)**
+
+(AD) Ring just unveiled Ring Robotics Drone Cam & Rover Cam - for your home and business! • Ring Drone Cam: ...
+
+📺 The Tech Chap
+
+👁️ 52K • 👍 738 • 💬 157 • ⏱️ 5:28 • 1d ago
+
+---
+
+**[Japan&#39;s Fake Humans: JSK Lab&#39;s 25+ Year Evolution #robotics #robots #uncannyvalley](https://www.youtube.com/watch?v=QQ2EjgAKpWA)**
+
+The University of Tokyo's JSK Robotics Laboratory has been pioneering musculoskeletal humanoids since the late 1990s. Kenta ...
+
+📺 Kalil 4.0
+
+👁️ 774 • 👍 24 • 💬 1 • ⏱️ 1:04 • 4h ago
 
 ---
 
@@ -250,7 +262,7 @@ This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https:/
 
 📺 Unstoppable Gadgets
 
-👁️ 177K • 👍 3K • 💬 68 • ⏱️ 0:21 • 5d ago
+👁️ 194K • 👍 3K • 💬 74 • ⏱️ 0:21 • 5d ago
 
 ---
 
@@ -260,27 +272,7 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 188K • 👍 3K • 💬 439 • ⏱️ 15:13 • 5d ago
-
----
-
-**[Anker eufy Robot Vacuum Omni S2 Pro - The ONLY Robot You will Ever Need](https://www.youtube.com/watch?v=3CBc2OsDxfg)**
-
-The Anker eufy Robot Vacuum Omni S2 Pro is official! First Robot that features UV-C floor disinfection! Buy on Amazon: ...
-
-📺 Redskull
-
-👁️ 13K • 👍 521 • 💬 92 • ⏱️ 9:20 • 1d ago
-
----
-
-**[Agility Robotics: Company Overview](https://www.youtube.com/watch?v=XWJdPNFD1h8)**
-
-Agility Robotics CEO Peggy Johnson walks through the full product suite behind Digit: the humanoid, the AI software stack that ...
-
-📺 Agility
-
-👁️ 15K • 👍 273 • 💬 38 • ⏱️ 6:44 • 6d ago
+👁️ 191K • 👍 3K • 💬 442 • ⏱️ 15:13 • 5d ago
 
 ---
 
@@ -290,7 +282,17 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 25K • 👍 1K • 💬 42 • ⏱️ 1:44 • 4d ago
+👁️ 25K • 👍 1K • 💬 42 • ⏱️ 1:44 • 5d ago
+
+---
+
+**[THEY BUILT ROBOTS FOR WAR… BUT WHAT HAPPENS WHEN THEY STOP OBEYING HUMANS? 💀](https://www.youtube.com/watch?v=lTLV7N3ydnM)**
+
+THEY BUILT ROBOTS FOR WAR… BUT WHAT HAPPENS WHEN THEY STOP OBEYING HUMANS? Imagine a battlefield ...
+
+📺 ejunky66
+
+👁️ 27K • 👍 399 • 💬 18 • ⏱️ 0:59 • 1d ago
 
 ---
 

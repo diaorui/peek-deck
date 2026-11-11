@@ -15,6 +15,16 @@
       "description": "The non-profit allegedly told workers to pledge they'd die by suicide \"with a sword.\""
     },
     {
+      "headline": "What Will Bitcoin and Ethereum Be Worth in 5 Years?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTG5UY1MzMnhDcDhMS0I3cHFiWkNCbWVUR0VxWEV3bnhSb1lBOXpiUGZNUXBuN0VqUG5VNG5obGd5bHlBWHRsY3dNRW5mLVh4eF9FZlZwazVpUkxrNmVsMlZOcENMTFQzVUVyTXA2ZFJ4dlIyelU2QUp5ektRRnZ6YWYxZHdNc1kxMy1jeFpISUt1amlTeTFBcDJDWQ?oc=5",
+      "pub_date": 1794418446.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-worth-5-years-173406465.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6d26859e240180cb72546bdbb5e235c53eb6db8fcb2907675f85ef6711e74cc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8ce6a176ccf96abe9b1c70957e183451.jpg",
+      "description": "Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?"
+    },
+    {
       "headline": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -29,20 +39,10 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pdjdsNTdZVnZ6NWU0MkpYeDNJd1U4aUZNbFBOb1diOFh2Sk9NT29ZMjRPcUlHWjQtcm1UZjk5NWU5d2dCQ05Vdmo1S2lySzRNUUx6cnJ4c3NZNjRxVzFGRzY5bFhpWWZz?oc=5",
-      "pub_date": 1794351124.0,
+      "pub_date": 1794324709.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-11-10-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-10.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Urgent Ethereum node patch issued due to hidden security flaws",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHc0TEkzZ1lIdXh3a3RMTUFYZGRfbDBGTnVuZnI3ajk1THpKNHcyR3ZhejZWZm5qR2l4Yk9RYmZJZjN4dTlSZ2pMcTNfM0hEQTE3RlRYWWFkNV9mUUdhN0JNeWxZQndIRjlMSzZlU0cwcm5Hc0ZHRWFnQVRPekp3NUlkY3VkdWhlM0NTRV9yRk00LUZRX25VbWhSOFZrcXM?oc=5",
-      "pub_date": 1794381000.0,
-      "article_url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/lighthouse-ethereum-protective-retrofit-1280x720-1.jpg",
-      "description": "Ethereum's Lighthouse urged all beacon node operators to install a high-priority security patch ahead of a planned vulnerability disclosure."
     },
     {
       "headline": "Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins",
@@ -55,56 +55,56 @@
       "description": "Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027."
     },
     {
-      "headline": "Ripple Ex-CTO David Schwartz Reveals How Much XRP, Ethereum, and Bitcoin He Owns",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QUHh2Q01WUG0wZUZsY1dqTUIxck5wMDg1U3I5N0hYUkQ0RjBIQlkySFFSQUNMWTRGc1R5eTdidV9LUHZVRDI5Mk4zRzhjWURwRFFRSUVHbE10S0ZhQ2tScXRmaFllcWMtVllkblBLbXFONGM4VU9v?oc=5",
-      "pub_date": 1794390254.0,
-      "article_url": "https://beincrypto.com/david-schwartz-xrp-bitcoin-ethereum-holdings/",
-      "image": null,
-      "description": null
+      "headline": "What the Ethereum Foundation\u2019s New Institutional Team Is Meant to Do",
+      "source": "Burlington Free Press",
+      "source_url": "https://www.burlingtonfreepress.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFNVWEtPYUtIUnVfOGZWMFB2NjFSN3dwS1R3UFBwakdtNi1LWlNJVGV5WlVTbmtnWmJwTzJUTUY1cTZPZVNqalM1ZVhEZ3ZzVVFpOEdwc1M1T1c5bHlMSTI2QmNOaVVUZlU2YVg2MmRRbTdxdGRBSFV1N1BVeTljWkpMUjdXWjFwMXdUWVNxbVYtY1ZqM0t6UVdieVJwblVlYUUtZHotUEU4MERyOHpwbnplSUNtR2xEUUowOUlfNXFFS2E1UjdRUVY0Zzl2c3FyZ3V1Q2gyemc2Yy1HLWpLaFEtekxVcE9BbjFBV2Zpd2hsU28?oc=5",
+      "pub_date": 1794405600.0,
+      "article_url": "https://www.burlingtonfreepress.com/story/special/contributor-content/2026/11/11/what-the-ethereum-foundations-new-institutional-team-is-meant-to-do/92664517007/",
+      "image": "https://www.burlingtonfreepress.com/gcdn/authoring/authoring-images/2026/11/07/USAT/92664529007-image-1-62.jpg?crop=1998,1124,x0,y104&width=1998&height=1124&format=pjpg&auto=webp",
+      "description": "The development is relevant beyond anyone who tracks the ether price. It shows how one of the largest public blockchain projects is organizing its work as more traditional financial firms explore stablecoins, tokenized funds and other applications built on public networks. It does not say anything a"
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Drop as Investors Weigh Rate Hike Odds: Analyst Explains Why \u2018Horrific\u2019 BTC Chart Is Routine in a Bull Market",
+      "headline": "Ripple's David Schwartz Once Held 26 Million XRP, 1,500 Bitcoin and 40,000 Ethereum. Why Did He Sell Over 90% of His Crypto?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR21BQU1zdlZhOU1EVlFmQS1DV1Q1dHkwVU9QOGxPRE93NmNYa3VITC03Q1lLSW13N3pRUG1vM3JXSnd6THJQLUpGekc5VFRuek1hUE5vUFlkUFhXanBzTTlERU4zbkhSanh0ZnJaX05hSjFBYjJyZ1kzRDhkTVVkM2xlQmJKd05tQ2piSkxBWGhHVE91NUtKZ29zcFp6ZDZOWWx3cktvNjMzcExaeHZHVUktNkFfbkwwdGVtRHhxY0UyYnh5MnFtNGtsdWplS1NnZmJMdDhENWJyaks0OGNvRGtyV20wTWRKM0U5Y09rWE5aeTZMM2h1c0JGR3hVd2tqNHAzYlBHOA?oc=5",
+      "pub_date": 1794400260.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/11/ripples-david-schwartz-once-held-26-million-xrp-1500-bitcoin-and-40000-ethereum-why-did-he-sell-over-90-of-his-crypto/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/11/shutterstock_2719495553-scaled.jpg",
+      "description": "Former Ripple CTO David Schwartz once held 26 million XRP, 1,500 Bitcoin and 40,000 Ethereum. Here's why he sold over 90% of it."
+    },
+    {
+      "headline": "Urgent Ethereum node patch issued due to hidden security flaws",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHc0TEkzZ1lIdXh3a3RMTUFYZGRfbDBGTnVuZnI3ajk1THpKNHcyR3ZhejZWZm5qR2l4Yk9RYmZJZjN4dTlSZ2pMcTNfM0hEQTE3RlRYWWFkNV9mUUdhN0JNeWxZQndIRjlMSzZlU0cwcm5Hc0ZHRWFnQVRPekp3NUlkY3VkdWhlM0NTRV9yRk00LUZRX25VbWhSOFZrcXM?oc=5",
+      "pub_date": 1794381000.0,
+      "article_url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/lighthouse-ethereum-protective-retrofit-1280x720-1.jpg",
+      "description": "Ethereum's Lighthouse urged all beacon node operators to install a high-priority security patch ahead of a planned vulnerability disclosure."
+    },
+    {
+      "headline": "Crypto Crash Aftermath: What\u2019s Next For Bitcoin, Ethereum And XRP Prices?",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOelhzV2Vqall1MlhYVW1vem1SWk1RSEQ1cFpQeWN0WUs5b0I2LXFURVFrSXMtR3lSa2dOQVlUZWtidDNfZUNOMDRFOGhIZmtGSU9LWVl1WUNkOWxfalNlbUdpUGliYmMxTDlHRE9wb0xoTW0yMVVzYjVZdFdaRThvS1lXbXZySGZJOU4tZTMyc25KZU1yclZYLTJ1VzdMbk1ZTHZtZGp5aTZxSTdNVC1Dd0xuMnlRWGVMOHpsS1ZBaXpSTldQRW9HaUtVTDc0cEFiWEQzNUpfSUw2NzgwRWM2WElqaW5KZjJBbk5EX2hrSGduSU5DT3N3Q2dtc3lNVEFaV1lzRmZZdzdqQV9BWnRWbFRRNHkya2k5amVGX0Q1YVY?oc=5",
-      "pub_date": 1794361624.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:c294080fe094b:0-bitcoin-ethereum-xrp-dogecoin-drop-as-investors-weigh-rate-hike-odds-analyst-explains-why-horrific-btc-chart-is-routine-in-a-bull-market/",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNENNUkpVNFJoSnYtTm5Yd29WTjhXLUNkVGZvQ0djZmtjb09FZFNKeGl1TmsyT1pZcHlBbGRDTEpxU1E0YU52NDhTMkJjUHJfQ2FZZ2hUR0JaSWt5MmhvWTlqb19uOXFyQl9pbUNSTWhsNzdNbE9VcndzSzZSRWRYZ0JyY0ZyOFB0aENJd00wMFRBTlZSeGNwUXJRM190WVNTUUZRZlRhTjd4ck1Pc0RudXdiZ1JpZVBSQ2RxMnFUWU5fVWgtUXJOMlpR?oc=5",
+      "pub_date": 1794397974.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:ca523dfbb094b:0-crypto-crash-aftermath-what-s-next-for-bitcoin-ethereum-and-xrp-prices/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Leading cryptocurrencies fell further on Tuesday as investors weighed hotter-than-expected consumer prices and the rising odds of an interest-rate hike.Crypto Market Extends LossesBitcoin fell below $73,000, while Ethereum stayed trapped in the $2,000\u2013$2,100 range amid a sharp drop in overall marke\u2026"
+      "description": "The worst of the selling may have slowed, but the crypto market is not out of danger yet. After a week of heavy losses driven by hot US inflation data and a tech stock rout, Bitcoin is sitting on its final major support zone. Ethereum and XRP still look weak.According to an analyst Josh of Crypto W\u2026"
     },
     {
-      "headline": "Digital Asset Treasury Firms Continue to Buy Bitcoin and Ethereum. That's Why I'm Bullish on These Two Cryptocurrencies.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUotM04yMkhJdHlMeUVrdFJXQ1FXNVE4MVB6MnZ3MTYzZGM1emlvTkJsSy1VZWlnaThhYzZEMzRteUlwQ3J4bE8walZ2RjNISkhQa1NmTV9PaUpnRTRHRENPaHFzX19xRGVTMmMzTE9oWk1WT1dHWVVDdGh6TUdkblNUbWMwczA4TERESkNQbDdnQnZNSG1XZA?oc=5",
-      "pub_date": 1794219720.0,
-      "article_url": "https://www.fool.com/investing/2026/11/09/digital-asset-treasury-firms-continue-to-buy-bitco/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892693%2Fbtcmstr.jpg&w=1200&op=resize",
-      "description": "These big buyers have slowed their purchases, but they haven't stopped."
-    },
-    {
-      "headline": "Crypto News: New Crypto Pepeto Announces $11.3M Raised While Ethereum Price Could Reach $15,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMWY5V0cxTUY3ejAySm4tY2sybjh4akkwLVVzUnlmWnA5ZERfZ05venMtOWtpU2N4emcwSHNtcHA2RXRybkxkOWYySy05emhwQ2UtMk9SMm1DUVJZd2xIOGJQaHlnNFZxV1FOUG4tTmJtZHlnQTItcEVYcFRlX3E0TkVwc0p0UjkxMjZkTmdFa2pPNC1aSTJwUjNuUWdGZ29hYlFTLVdlOGZIUkdPaUhWdVlqZ0VQajNPcjhBVXNrSWh4NTlPaWtETFVYcnlpWVZoZUY2RkZFMGIyLVFOZnFkMXhTSG45Zw?oc=5",
-      "pub_date": 1794342528.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-new-crypto-pepeto-announces-11-3m-raised-while-ethereum-price-could-reach-15-000-1036744199",
-      "image": "https://ml.globenewswire.com/Resource/Download/ee7ecf43-b852-4488-a17b-02d1fdd2c5fc/crypto-news-new-crypto-pepeto-announces-11-3m-raised-while-ethereum-price-could-reach-15-000.jpg",
-      "description": "DUBAI, United Arab Emirates, Nov.  10, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has announced that its presale total has passed $11.3 million, ..."
-    },
-    {
-      "headline": "Ethereum ended CoreWeave's mining days. Earnings test its AI bet",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkN6WGpsSjNWM1RmYjBoMEdxYnZyQWJ0YUNyQ3FSeDBvTFk3dHY2cm9heXBnUmZSOV9RbjNkSjhIQkhOSUFnamc0TlR1SlhjazF2T0Yta2Mxa2R6YWtCTWRwVEtDY1BIaU5kZklVMnZaN01CcFBOaDZEZTZzdkxOV0JJVHRDV2pGZDV5bnU3UFFzZHg2SzlNT09zcTdxNnZvT0E?oc=5",
-      "pub_date": 1794343633.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/coreweave-stock-could-swing-15-on-q3-earnings-options-imply",
-      "image": null,
-      "description": null
+      "headline": "CoinShares survey: Bitcoin leads growth outlook as Ethereum sentiment improves",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWJjVVpQRjdubzFERlRITHQ0SWNXQUQzNURfUzZ6SDBSTW1fc2p0WmdwQV9nUFdNVzVENVVtOHRQeUJzdEtPam8wMkdpRmE2UXZYbDFXM3d4Q2c4bkpyV3RnSEVjX3VXY2d3LUdLa0FfSEplTmVGY1Z3WVYxVTZ0TEM3bw?oc=5",
+      "pub_date": 1794423151.0,
+      "article_url": "https://cryptobriefing.com/coinshares-survey-bitcoin-growth-outlook-ethereum/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/11135215/library-coinshares-survey-bitcoin-leads-growth-outlook-as-ethere-800x450.png",
+      "description": "CoinShares survey reveals Bitcoin leads growth outlook among institutional managers, while Ethereum sentiment improves and crypto allocations"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-11T14:58:55.629666+00:00"
+  "fetched_at": "2026-11-11T21:55:32.007173+00:00"
 }
