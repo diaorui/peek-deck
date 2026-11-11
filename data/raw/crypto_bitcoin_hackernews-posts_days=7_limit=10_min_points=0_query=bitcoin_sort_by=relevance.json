@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers",
-      "url": "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly",
-      "hn_url": "https://news.ycombinator.com/item?id=50357834",
-      "author": "thelonelyborg",
-      "points": 3,
-      "num_comments": 1,
-      "created_at": "2026-11-03T20:37:45Z",
-      "object_id": "50357834",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "0xca333.substack.com"
-    },
-    {
       "title": "Show HN: Free real-time order book heatmap for Bitcoin, gold and US 500",
       "url": "https://swiftedge.uk/depth",
       "hn_url": "https://news.ycombinator.com/item?id=50390550",
@@ -45,6 +31,20 @@
       "description": "Silent Payments has suffered from the lack of multisig & hardware wallet support. We built payments using FROST / Frostsnap hardware that enable distributed signing coordinated using Marmot.",
       "favicon": "https://btcpp.dev/favicon.ico",
       "site_name": "bitcoin++"
+    },
+    {
+      "title": "Digital Forensics Case (Who Tried to Trade Bitcoin)",
+      "url": "https://luthmann.substack.com/p/rape-or-setup",
+      "hn_url": "https://news.ycombinator.com/item?id=50447845",
+      "author": "MrTofErran",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-10T23:35:03Z",
+      "object_id": "50447845",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "luthmann.substack.com"
     },
     {
       "title": "HomeMinerProxy: home dashboard and Stratum proxy for Bitcoin lottery mining",
@@ -80,7 +80,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50378625",
       "author": "archb",
       "points": 495,
-      "num_comments": 438,
+      "num_comments": 439,
       "created_at": "2026-11-05T13:05:28Z",
       "object_id": "50378625",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -91,5 +91,5 @@
   ],
   "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-11-10T19:24:22.498221+00:00"
+  "fetched_at": "2026-11-11T00:10:47.359063+00:00"
 }

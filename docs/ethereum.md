@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-10T19:25:03.184186+00:00'
+updated: '2026-11-11T00:11:16.553523+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 10, 2026 at 19:25 UTC  
+**Last Updated:** November 11, 2026 at 00:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** -15.8%  
-**30d:** -16.6%  
-**90d:** +8.2%  
-**1y:** -40.2%  
+**24h:** -3.5%  
+**7d:** -8.3%  
+**30d:** -17.9%  
+**90d:** +9.0%  
+**1y:** -39.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.21B
+**Market Cap:** $250.51B
 Rank #2
 
 **Circulating Supply:** 122,206,811 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.8%
+-58.6%
 
 **All-Time Low:** $0.43
-+470777.3%
++473331.7%
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Lasso RPC v0.8.0 is live: route transaction sends to private RPC relays + automatic RPC provider limit learning](https://www.reddit.com/r/ethereum/comments/1xot8zs/lasso_rpc_v080_is_live_route_transaction_sends_to/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -164,14 +164,6 @@ The Denver Post • 4d ago
 
 ---
 
-**[Ethereum Foundation Sued After Employee With Cancer Challenges Bizarre Suicide Pledge](https://www.yahoo.com/news/us/articles/ethereum-foundation-sued-employee-cancer-183817824.html)**
-
-Ethereum Foundation faces a federal lawsuit after a cancer patient says she was fired days after disclosing her diagnosis and signing a staff protest letter.
-
-Yahoo • 46m ago
-
----
-
 **[Ethereum Foundation, Vitalik Buterin sued over firing after 'suicide pledge' dispute](https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739)**
 
 The complaint challenges Fulton’s dismissal and quotes a recorded Buterin conversation about handling internal dissent.
@@ -180,9 +172,33 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum Foundation Sued After Employee With Cancer Challenges Bizarre Suicide Pledge](https://www.yahoo.com/news/us/articles/ethereum-foundation-sued-employee-cancer-183817824.html)**
+
+Ethereum Foundation faces a federal lawsuit after a cancer patient says she was fired days after disclosing her diagnosis and signing a staff protest letter.
+
+Yahoo • 5h ago
+
+---
+
 **[An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes](https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes)**
 
-CoinDesk • 12h ago
+CoinDesk • 17h ago
+
+---
+
+**[Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-just-hit-lowest-170115996.html)**
+
+A liquidation cascade just wiped out billions in leveraged bets, and Ethereum has already cracked a level Bitcoin is still defending. Analysts are now arguing over which line decides whether the sell-off ends or the real damage begins.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Crypto News: New Crypto Pepeto Announces $11.3M Raised While Ethereum Price Could Reach $15,000](https://markets.businessinsider.com/news/stocks/crypto-news-new-crypto-pepeto-announces-11-3m-raised-while-ethereum-price-could-reach-15-000-1036744199)**
+
+DUBAI, United Arab Emirates, Nov.  10, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has announced that its presale total has passed $11.3 million, ...
+
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -191,14 +207,6 @@ CoinDesk • 12h ago
 Tom Lee's Bitmine Immersion Technologies extended its weekly Ethereum buying streak, adding 9,587 ETH worth roughly $20 million.
 
 Decrypt • 1d ago
-
----
-
-**[Current price of Ethereum for November 10, 2026](https://fortune.com/article/price-of-ethereum-11-10-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
 
 ---
 
@@ -214,13 +222,7 @@ The Motley Fool • 1d ago
 
 Amundi issued a tokenized share class of its Europe 600 index fund on Ethereum, with CACEIS providing the infrastructure.
 
-CryptoSlate • 20h ago
-
----
-
-**[Bitcoin Falls Below $75,000, Drags Ethereum, XRP, Dogecoin 5% Lower](https://www.benzinga.com/crypto/cryptocurrency/26/11/63059390/bitcoin-falls-below-75000-drags-ethereum-xrp-dogecoin-5-lower)**
-
-Benzinga • 1d ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -228,13 +230,13 @@ Benzinga • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67,000!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WZFYiNA3RNM)**
+**[Ethereum’s Vitalik Just Killed Ultrasound Money](https://www.youtube.com/watch?v=c0_agF2_9IQ)**
 
-BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67000!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
-📺 Crypto World
+📺 Lark Davis
 
-👁️ 3K • 👍 161 • 💬 86 • ⏱️ 26:05 • 2h ago
+👁️ 3K • 👍 97 • 💬 21 • ⏱️ 10:11 • 2h ago
 
 ---
 
@@ -244,37 +246,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 164 • 💬 41 • ⏱️ 22:13 • 15h ago
+👁️ 10K • 👍 174 • 💬 42 • ⏱️ 22:13 • 19h ago
 
 ---
 
-**[Ethereum 2027-2028 Prediction: The Bottom Is IN!!](https://www.youtube.com/watch?v=M-NjWnsxk5c)**
+**[This Crypto Crash Is NOT What It Looks Like (Bears Are Running Out Of Time)](https://www.youtube.com/watch?v=-EvSSOJPOZE)**
 
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v109 CoinGPT - the AI Trade Agent I ...
+Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my affiliate link for 80% off spot trading fees.
 
-📺 Marzell Crypto
+📺 Crypto Capital Venture
 
-👁️ 2K • 👍 18 • 💬 10 • ⏱️ 3:30 • 1d ago
-
----
-
-**[MAJOR ETH PULLBACK WARNING!🚨 (Ethereum Update)](https://www.youtube.com/watch?v=5KsodpNb10M)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 931 • 👍 22 • 💬 3 • ⏱️ 4:57 • 8h ago
-
----
-
-**[Ethereum Hit Its Target Zone. CPI Could Decide Everything](https://www.youtube.com/watch?v=4KMZJhGv6L4)**
-
-We analyse Ethereum on 9 November 2026 using Elliott Wave, with the target zone at $1832 to $2069 as the area where this ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 220 • 💬 9 • ⏱️ 6:36 • 16h ago
+👁️ 11K • 👍 486 • 💬 206 • ⏱️ 15:45 • 6h ago
 
 ---
 
@@ -284,17 +266,37 @@ I've compiled a full list of the crypto exchanges I personally use and recommend
 
 📺 Cheeky Crypto Plus
 
-👁️ 2K • 👍 77 • 💬 15 • ⏱️ 18:58 • 9h ago
+👁️ 2K • 👍 87 • 💬 19 • ⏱️ 18:58 • 14h ago
 
 ---
 
-**[🚀 BMNR HOLDERS: ETH JUST CHANGED FOREVER!  NVIDIA SHOCKER! Jensen Huang Will NVDA Recover?](https://www.youtube.com/watch?v=VnDCthfb0rc)**
+**[Ethereum Crashed to $2,006.. I&#39;m Buying the DIP!!](https://www.youtube.com/watch?v=VK9vPu8s-oU)**
 
-BMNR HOLDERS: ETH JUST CHANGED FOREVER! Earn on Crypto & Stocks with MaxFi: https://www.Maxfi.tech/ NVIDIA ...
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v111 Ethereum (ETH) just crashed to its ...
 
-📺 Big Time Trades
+📺 Marzell Crypto
 
-👁️ 3K • 👍 78 • 💬 15 • ⏱️ 26:54 • 19h ago
+👁️ 215 • 👍 9 • 💬 7 • ⏱️ 3:16 • 6h ago
+
+---
+
+**[Is ICP the New Ethereum? | Internet Computer](https://www.youtube.com/watch?v=zd_GTu4Swu0)**
+
+Vitalik Buterin posted on X that ether should be valued as a store of value rather than as a fee-burning token, and that the ...
+
+📺 BasedGiant
+
+👁️ 2K • 👍 177 • 💬 12 • ⏱️ 9:02 • 1d ago
+
+---
+
+**[BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67,000!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WZFYiNA3RNM)**
+
+BITCOIN ALERT: LAST CHANCE BEFORE CRASH TO $67000!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 241 • 💬 81 • ⏱️ 26:05 • 7h ago
 
 ---
 
@@ -304,27 +306,27 @@ CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 236 • 💬 17 • ⏱️ 1:03 • 1d ago
+👁️ 13K • 👍 239 • 💬 18 • ⏱️ 1:03 • 1d ago
 
 ---
 
-**[“It Started” Tom Lee Reveals The $50,000 Ethereum Endgame](https://www.youtube.com/watch?v=lQPebhVEMlc)**
+**[Ethereum Hit Its Target Zone. CPI Could Decide Everything](https://www.youtube.com/watch?v=4KMZJhGv6L4)**
 
-CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
+We analyse Ethereum on 9 November 2026 using Elliott Wave, with the target zone at $1832 to $2069 as the area where this ...
 
-📺 Altcoin Daily
+📺 More Crypto Online
 
-👁️ 122K • 👍 2K • 💬 234 • ⏱️ 28:10 • 2d ago
+👁️ 8K • 👍 229 • 💬 9 • ⏱️ 6:36 • 21h ago
 
 ---
 
-**[Is Ethereum Ultrasound Money DEAD? ⚠️ Vitalik&#39;s 90% Supply Dilution Bombshell!](https://www.youtube.com/watch?v=5uTIUhVEku4)**
+**[🚀 BMNR HOLDERS: ETH JUST CHANGED FOREVER!  NVIDIA SHOCKER! Jensen Huang Will NVDA Recover?](https://www.youtube.com/watch?v=VnDCthfb0rc)**
 
-If you invested in Ethereum believing it is a deflationary "store of value" and "ultrasound money," you need to know this critical ...
+BMNR HOLDERS: ETH JUST CHANGED FOREVER! Earn on Crypto & Stocks with MaxFi: https://www.Maxfi.tech/ NVIDIA ...
 
-📺 ilme aalim
+📺 Big Time Trades
 
-👁️ 3K • 👍 100 • 💬 17 • ⏱️ 1:34 • 9h ago
+👁️ 3K • 👍 81 • 💬 15 • ⏱️ 26:54 • 23h ago
 
 ---
 

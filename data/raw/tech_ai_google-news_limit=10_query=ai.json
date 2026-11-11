@@ -5,17 +5,17 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Work at the Frontier: AI\u2019s effect on freelance work",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5",
-      "pub_date": 1794323044.0,
-      "article_url": "https://openai.com/index/ai-effect-on-freelance-work/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6uOuGMP8uXe0QmAClG9qAN/692ade63f2f37280ed6b8ffb00f9f53b/ai-effect-on-freelance-work-social.png?w=1600&h=900&fit=fill",
-      "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+      "headline": "Trahan crafting AI safety bill with narrower state preemption",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU16M2J5ZnZXN3Rrd0N3dWtvdThzTWVsblZOZmxlaTY5cEdwdWJHZXFKekNCM2JCOE04WTV0SE9kNFBUbHl4ZkhmX1M4RjNNVGlfakRiMm5NUmsybUZMODc2eEtoeTVxX3c4TWZINUxSM1IwYkNZV2xIYjFpekhRYlhVdFpJdUFxWDVid3lGbWtVSUZpMHZZdnhJZGk3Z2Y1RHR0RFBJbk1odEhjbEdHandNekY1N0NBMVlYWUttUzQ5NEFhSUtSR2xIbnM?oc=5",
+      "pub_date": 1794334059.0,
+      "article_url": "https://www.politico.com/live-updates/2026/11/10/congress/trahan-crafting-ai-safety-bill-with-narrower-state-law-preemption-01158965",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "headline": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HNWFGZG1teU8xOWttMlMzb1gtbVhmNW94MlFvanZrY3JCbVVkcExpX3VrTGFLOVgwaGhON21KMUN5SGI1R2hmM2pMMkJXQlFDaUU0TnV6TWVqNWM?oc=5",
@@ -29,40 +29,60 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
-      "pub_date": 1794332275.0,
+      "pub_date": 1794340519.0,
       "article_url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic files for IPO targeting $1T valuation amid AI stock surge",
+      "headline": "Stifel CEO: Using Anthropic's AI tools made us realize we need more positions",
       "source": "Fox Business",
       "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrQWRKSkJTeklVYmRkbXlvYWlYVmVMdHl2ZmF3WHotS1VqM3Y2R2laY2hyV09YUUl1NllraXpRZFpOcW84a2lNV3JEcS14R3czZENWOFdWeFk0QU0?oc=5",
-      "pub_date": 1794336857.0,
-      "article_url": "https://www.foxbusiness.com/video/6408196726112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/85107a78-97ac-49c8-99aa-232ca532bc96/07bac227-5d8e-4ccf-b43a-ff29b08c7140/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "FOX Business' Madison Alworth reports on Anthropic filing for an IPO targeting a $1T valuation."
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSnJrTWRWdTZxTkdKMlV4bjNZYUh6TWdXOExMbG1Oa08wUDFjV0N5LW0talp0ZGN2M3Z4Ul9Pa2ZucGhYUzljNm96YXgtdHlxeW5HU1FBZXpMRTg?oc=5",
+      "pub_date": 1794351186.0,
+      "article_url": "https://www.foxbusiness.com/video/6408204231112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/690358e0-746b-42f5-95fc-e94e74c510a3/cdb12e5a-11a3-48a1-ada1-00fe81f771b2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Stifel CEO Ron Kruszewski discusses Anthropic's amended S-1 filing to offer 825 million shares ahead of its Nasdaq debut on \u2018The Claman Countdown.\u2019"
     },
     {
-      "headline": "Testing the new generation of AI-enabled fire-extinguishing drones",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVy1RdFlIZENCQUotdmNwN080eDlNRkI5dDNGRy1YRXBFbzJkZlQwaUxRdzBkWXNNZUdFZVJpRXRDMVIzZlNScmtpSnBfNVRENjhKMXBNdkh1RWVUbHI2UFRCeng0WWhUV1hZOWVTQmJVcEZybm1laEx6Ulk5WkUzdW04YWhvazB5WVFDWUppSGV3UmlYNENiVkJhbDlhLWlDTDAtbFpoTkE3VF96UnFLNw?oc=5",
-      "pub_date": 1794337200.0,
-      "article_url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F80%2F01baaa0a4c94873b6dc5ebe9eedc%2Fseneca-drone.jpg",
-      "description": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out. Cool and expensive? Yes. Effective? TBD."
+      "headline": "Blue wave raises investor concerns over AI data center expansion",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zM09hMmczWWt5dy10Y0M1bEVwRWh2eVZyRlF2QUZaZ2d4eFJRMC1QN0R4MjNGNTZ2ckQ1Um5aNWRqbW1odjlDWEQ4VGIwUGtObGxUcGFR?oc=5",
+      "pub_date": 1794354732.0,
+      "article_url": "https://www.foxnews.com/video/6408206386112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e2a4ab4a-c98b-4399-a72b-b2b5e81fb582/892c515e-d865-41eb-9563-7dfb3812bacd/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "XPRIZE founder Peter Diamandis joins \u2018Making Money\u2019 to discuss concerns over AI data centers\u2019 environmental impact, growing energy demands and the potential for artificial intelligence to transform programmable biology."
     },
     {
-      "headline": "OpenAI Acquires AI Travel Agent Odessia",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXZGTWs3akI4NHc2ZkJ0WUp0djlMeHlQVVk4MXc1Ym9zWVpvTnVCVnI2dlU5TW00WTBKajlheWRsZm1IVDdVTG90ZXB3U09kN1hNbVVDellsd0lBSzJRSG9XUG1sVTN6VUJGSHF1QmkyUXFHT2tNTFQ4NzM4YXZfTGMwSFNOMjA?oc=5",
-      "pub_date": 1794335940.0,
-      "article_url": "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia",
-      "image": "https://tii.imgix.net/global/defaults/article_image_unavailable.jpg",
-      "description": "OpenAI has acquired the AI travel planning platform Odessia, Odessia\u2019s founder Francis Davidson  announced  on Tuesday. Davidson will be joining OpenAI to focus on \u201cthe future of travel,\u201d he said in an X post. \n\n Davidson founded Odessia earlier this year. The platform uses AI to help users plan and book trips. Odessia raised a $6 million seed round from investors including Sequoia Capital in"
+      "headline": "Democrats\u2019 Next Big AI Challenge",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXZDMldaRE1KNjlvTnBIeVBGeExFNV80MHU4YWF1RHRWVXdPQjQ3RTBURlJ6SmxFNHd1YkNjLTBYTDMtN0FFTE1zMjhEQTVOUHpiV0wwYnR2QlhVZ2ZSWWRtbktGWkk1QnlsMVZPOXh6ellpNVNSSDRLQUhPM3FXWDJrajJLUVgzSnJibTNuVGY?oc=5",
+      "pub_date": 1794352980.0,
+      "article_url": "https://www.theatlantic.com/newsletters/2026/11/democrats-next-big-ai-challenge/689376/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Data Centers Are Hitting Limits in Power, Water, and Community Consent. What Comes Next?",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORERTc3hDLW5vR0tVSFJDZklwTlVIUWFPb2MxZDNuNmZFUFFSclhGWHFGdnZTLWEzTzdFdDZQc01wTEItZzR5Wmlwa1lrR0xnRFR5SU9BTE5LUmZXRXB5eHFqMUprWjl6OG9Yb2I2YTY5d1dzbFZSX3Rsd01fWVVlT0VWYVVlM21rZHM4cVBQZkYyblJXcEpoRHhKaWdnVl9iZ0dtbm42TElLamRzbHU2VXNnWlpWOUxqSGtB?oc=5",
+      "pub_date": 1794355228.0,
+      "article_url": "https://www.forbes.com/sites/nili-gilbert/2026/11/10/what-will-it-take-for-ai-to-keep-growing-within-real-world-limits/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Is Jensen Huang\u2019s Affair a Crisis for the A.I. Boom?",
+      "source": "The New Yorker",
+      "source_url": "https://www.newyorker.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDdGbzdWTjZpbjgyU0x4UXJZa3B3b281TzV0Z3U5UzlZbHY0ZnVKR1I3NWZaYjc4eG04Z2NjelhJWjFWRDRLOElWekcwenZ3NHg2TEJ0ZnZMdi1xanhvQmdqNTlrTW94bVk5ZE50VWVFNk5wUEdqYnI4OTlfMzQtWVVJczVjTlBhTXBwU2xZeWk2UQ?oc=5",
+      "pub_date": 1794340167.0,
+      "article_url": "https://www.newyorker.com/news/the-lede/is-jensen-huangs-affair-a-crisis-for-the-ai-boom",
+      "image": "https://media.newyorker.com/photos/6af24a72c59d0d344991032d/16:9/w_1280,c_limit/Cassidy---Jensen-Huang--h_16526682.jpg",
+      "description": "It\u2019s not yet clear what Jensen Huang, the Nvidia C.E.O.\u2014or the Trump Administration\u2014knew about the alleged Chinese spy he was involved with."
     },
     {
       "headline": "Jensen Huang\u2019s Apology May Be the Only Correct Use of AI",
@@ -75,36 +95,16 @@
       "description": null
     },
     {
-      "headline": "The A.I. Spy Thriller",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CMlkzWVZmTktnWFRTczc2WkVrVDc2cmtFLUg1d1lkcldUWnAycjFXdWZtXzZIQm1ZcGhVNkhPN2FaZGVwaXRITnFsV3R0NEdidDBwcHl2bmtGTjdIMTFTU2RESTU5WkNLVm5UWkV1LUFfWWFpVWc?oc=5",
-      "pub_date": 1794317280.0,
-      "article_url": "https://www.nytimes.com/2026/11/10/briefing/nvidia-spy-scandal.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia Scandal Underscores Growing Espionage Risks for AI Firms",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1JoRlJxc0VGZVBNZXlySjl2b0RqT3B0SGt0NE5VYjNWckc5Slh2MXhWNzNIc0xWMEk2VU5fV0F3RXYtUkZWRm5nQUpxRjZNQjJFdzlKVHRJeE90ZEpzSjhFWUR5OGxwYkpkc0VEMWd2aVRia2pQTE9DWlJYd0pjZ3hEYzBTaUl0b0ZaRVRVU1BMTXlUWGROdW5IczU1VlBoTzd0d2xGX3BMNDVsQXJTaXRXZlo?oc=5",
-      "pub_date": 1794335959.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-scandal-underscores-growing-espionage-risks-for-ai-firms",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trahan crafting AI safety bill with narrower state preemption",
+      "headline": "Nvidia\u2019s spy scandal threatens America\u2019s AI edge",
       "source": "Politico",
       "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU16M2J5ZnZXN3Rrd0N3dWtvdThzTWVsblZOZmxlaTY5cEdwdWJHZXFKekNCM2JCOE04WTV0SE9kNFBUbHl4ZkhmX1M4RjNNVGlfakRiMm5NUmsybUZMODc2eEtoeTVxX3c4TWZINUxSM1IwYkNZV2xIYjFpekhRYlhVdFpJdUFxWDVid3lGbWtVSUZpMHZZdnhJZGk3Z2Y1RHR0RFBJbk1odEhjbEdHandNekY1N0NBMVlYWUttUzQ5NEFhSUtSR2xIbnM?oc=5",
-      "pub_date": 1794334059.0,
-      "article_url": "https://www.politico.com/live-updates/2026/11/10/congress/trahan-crafting-ai-safety-bill-with-narrower-state-law-preemption-01158965",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tUnRhLTd0OV9sOXkybXVjb0NLVlNUX09mZkpnb0JCRVpLU0t1cWhGY3Myeks5YlJTYmRjQ2xDaUVaa0ZPRnV2WDdRMHJMUmIwcDQ3MkxuRWluMHlTWndlTWI2VVg4NGdka3I5RU5JdlVSbHFnbnpkeTJPYw?oc=5",
+      "pub_date": 1794352440.0,
+      "article_url": "https://www.politico.com/news/2026/11/10/nvidia-china-ai-chips-01160103",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-10T19:25:00.520259+00:00"
+  "fetched_at": "2026-11-11T00:11:13.582526+00:00"
 }

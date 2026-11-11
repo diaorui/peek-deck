@@ -35,14 +35,24 @@
       "description": "Ring expands beyond fixed cameras with a new flying indoor drone and autonomous business robot built to patrol, investigate and eliminate blind spots."
     },
     {
-      "headline": "From doorbell to drones: Amazon introduces the future of home security with Ring Robotics (AMZN:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0ozNWw1MDFHSmtKOUtIY0NBeWNBNXdxT1BUak1YWG9ROGsxWVk5bUtnbTJ1VEtsb2tHWlVIUHFTUjRaY0VucmQzMGxvM3dBSmNqWjJXRW9uN1pVbDc5X3VnWlp5T19Pc1RheHB6R2w3VTlIMXpZbnNiQ0h6VWRSQ1dVOHA5aDU3b1JDZzdfQU1WZDgwUEZ1VmxFdm80RnY3SnMtYjJ0eUlBcEp5RU50dUZYa1ltVDluWXVwWU41Z3lOZURt?oc=5",
-      "pub_date": 1794321780.0,
-      "article_url": "https://seekingalpha.com/news/4669794-from-doorbell-to-drones-amazon-introduces-the-future-of-home-security-with-ring-robotics",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2216539624/image_2216539624.jpg?io=getty-c-og",
-      "description": "Amazon Ring unveils AI patrol devices: Drone Cam costs $249.99 and ships Jan."
+      "headline": "Amazon's 'Ring Robotics' debuts: Rover and Drone Cam patrol with sirens",
+      "source": "Yahoo Tech",
+      "source_url": "https://tech.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaU1wVF94UWp4aVFONC1LTXlGaGtEOWhSd19VaklMQlJtUDJiY1oxZkFGdWF3cGNHY1NacTdxdkdTV0pBdFM2ZzJDd2xfcTBXTFVPSGIzbDBhVU9ES3JWaENxb1BxSTVlQlliVktFMURuYXJQa3VCNmk2RzN1Y0l4bU1BUTUtYlhNN0g2NVlwZw?oc=5",
+      "pub_date": 1794338106.0,
+      "article_url": "https://tech.yahoo.com/home/articles/amazons-ring-robotics-debuts-rover-191506357.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/63a02c4d57b2dcdb637e606a608d8dbd27e35c91b91e4b21a3578ef3ebbddf87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fandroid_central_347%2Fff0b2e3f50fb294b9f196a6a01395d90.jpg",
+      "description": "Amazon's Ring Robotics unveils a new future in home security with patrolling Ring Rover and Ring Drone cams."
+    },
+    {
+      "headline": "Path Robotics hits $2.5b, Zacus' $135m, and Mubadala's secondary buy",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHajA1T0NrOW1IZDJoZWJsNlBBZFhMVW8xam1yLXJKSWZ0RHYycTA0U1JYYmU0bGlzbFYxeEdETFlEUmk5cU1qT0s1X1ZiSkNvUjlpd1Q2V2dKbnh6R3hlRXB0eWtvZHRZTWVyRjJoRERNTjA4M1lVdTJkVU91T2M?oc=5",
+      "pub_date": 1794344392.0,
+      "article_url": "https://www.axios.com/pro/all-deals/2026/11/10/pro-rata-premium-first-look",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
@@ -65,34 +75,24 @@
       "description": "The new model is up to twice as successful at some tasks."
     },
     {
-      "headline": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZsNUU0b0tURkpENTdIRGt5NGNFZjQwWjBZOWkzUGFhUzRMeTFQak9FSlhwMzZ3ckd5ZHUyOHM3TFowVnY2WUxEcWZnaWJoMUYzd1NCTFpMeUt4UzEtUHJ0QkRzMzUxN0lLbmdhUXlrdmNHb25Rd05INlBpUDMtSDB5ZnVIdWJkRkxoM1lCa3dIWlJIOWIzbmhFZjFyUTNxTEhDWWI1Zw?oc=5",
-      "pub_date": 1794249746.0,
-      "article_url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/wheeled-atlas-humanoid.jpg",
-      "description": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas."
-    },
-    {
-      "headline": "Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3lmWVBydnloanZPMGxBTndkN3VPU0F4X18tVnJSdzM2WXNsOXRtRmowU1Vua1N1WXRGYjVqRE41eXdiNmEyS2dzWl83YjFsV2VTdVlXb2ozX0w4QXh1anZUTHdsQmFpMFlabkUtRTVBcFBnTmVXaWxOMm5CM1pEOUd6TnNuS2hnbzc5dW1TNUVFcTd0T2NQUHA4TERHRFludHBOMnNnRklzRDU3X3NOTXdFT0NXRnRob3E3V1c1NTFxdw?oc=5",
-      "pub_date": 1794319205.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round",
+      "headline": "Path Robotics raises $300M at $2.45B valuation as it plans to automate more than welding",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2Y5R2tJYlhibnlXYXRvTlRFUTBwMmV2aXJQaS0ya1pzZ25lUmZSdTlBQU54MFZRYW9aUnpZSDAyR1FjN3FrVHhLTWRmVlVsUjFtMWo4cDNpUXJ6ZWxGQWs5aGY3WE1ONzJVWVZtMy04azFrSXUzYnZVaFgyZjFXa0pEWFM4NXhINWFuc0FuQkRLUQ?oc=5",
+      "pub_date": 1794332700.0,
+      "article_url": "https://www.bizjournals.com/columbus/news/2026/11/10/path-robotics-unicorn-vc-round.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Extra robotic thumb lets wearers complete two-handed tasks with one hand",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SWnZhNXFHSlN2UC04ajNWQ1dNRy1iSWdiRTlIMEhSMlBYVVBLcVRDdEU0ajRzdHRJdjdxUHg2eXpLdGUtR3pUX1ZIbjloc01Td0NlSzJYVWswYzJnNTJ0N2NoTmRLZDJtMmxqX2VyT2JKRWhYeFNmbVhnU2NrVm8?oc=5",
-      "pub_date": 1794320602.0,
-      "article_url": "https://techxplore.com/news/2026-11-extra-robotic-thumb-wearers-tasks.html",
-      "image": null,
-      "description": null
+      "headline": "Robotics company Figure AI is hiring a human to babysit humanoid robots overnight",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNktxRzhBalRqY1F6dDNXU3c2aWVKS01hVnl6akc1NVpCYk52dS01QTRVWEJiZ29HeUZ6U2lYNktmc3JRN25WSmZCQ09fRWdXem1KdGlBN1pGTWRWSjJQbTJmTDl5bDVhQ1dpdjF3ZzFfZjBqSGdDTC1HNUY4cEtaN0NRQmVndVo3b19BaXdFbnQ?oc=5",
+      "pub_date": 1794307920.0,
+      "article_url": "https://www.businessinsider.com/figure-ai-hiring-human-babysit-robots-overnight-2026-11",
+      "image": "https://i.insider.com/6af249148f37e8e0b5bab9d9?width=1200&format=jpeg",
+      "description": "Robotics startup Figure AI is hiring a night-shift coordinator to oversee humanoid robots and human operators."
     },
     {
       "headline": "Recent advances in AI are creating a \u2018paradigm shift\u2019 for robotics",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-10T19:24:55.955563+00:00"
+  "fetched_at": "2026-11-11T00:11:14.955890+00:00"
 }
