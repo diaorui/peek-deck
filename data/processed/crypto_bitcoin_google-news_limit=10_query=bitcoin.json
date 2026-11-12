@@ -5,24 +5,34 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Just Did Something Completely Unexpected. History Says This Will Happen Next.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUVGUlFLU1Zvb0MtX1hpSzI2QjctZUVzX21rMUo0emFhLXRSNzFEcEYySW1XVE0yZFBZcHBibGpyRDdLVWVobWJkOGlJdUxWbWRtY0VBTkpYVERkQmhBcnpHQ09PYUo0MEd4WkZYTW1jOTJEc3M0SnlyRlBVZlRVMnl4ODE3Y1ZUMDQ3amxndGRQRFZXYlE?oc=5",
-      "pub_date": 1794324600.0,
-      "article_url": "https://www.fool.com/investing/2026/11/10/bitcoin-just-did-something-completely-unexpected/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892903%2Fbitcoin-cryptocurrency-computer-display.jpg&w=1200&op=resize",
-      "description": "Where does Bitcoin go after the midterm elections? History provides some clues."
+      "headline": "Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins",
+      "source": "Crypto News",
+      "source_url": "https://crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDEwajI3MUNPcHFsYk5aTjRuYktNNzhWckRlUkhUbGdEMGs0dXJGbVR0ZEpMYTcyQmlPeGdIazM2b0pkS3hPZlRTc19wU3FWbEhKeHhiTGxCdDhURlRGY3EtbHVlb2ZnTUxWSzNlV2ZTTFFwTVg2WHR5ZnRucnJDaw?oc=5",
+      "pub_date": 1794388557.0,
+      "article_url": "https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/",
+      "image": "https://media.crypto.news/2024/09/crypto-news-Crypto-custody-has-stuck-in-2021-option02.webp",
+      "description": "Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027."
     },
     {
-      "headline": "Japan Nears a 37-Year Rate Hike First: Will Bitcoin and Stocks Suffer?",
+      "headline": "Bitcoin Retreats as Nvidia Turmoil Weighs on Risk Appetite",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUxZZzlNWWNPa1prTjRxVlVjVGlKU05HRmwzZWkwY1M0WmZLeTQ0U2ZaVG9fYWZxeDZyQVBJRVNhWXN2b0puckFfNDN0czMzU3U2ZWlrUmVqWkdpd3IxOHN3S2hEUkk4Uzd5UHloOGJDRmxJaVozT2FxT2JpSGlnTWNrajc3MlRoUTk4N3I1TjlOMG8tNl8xTzFuVl9DaFNKSUZHZ1Rzem9vd3J3NEE?oc=5",
+      "pub_date": 1794473716.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-12/bitcoin-retreats-as-nvidia-turmoil-weighs-on-risk-appetite",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic IPO Could Be Bitcoin's Next Catalyst: Arthur Hayes Turns 'Mini-Bulled Up' Ahead Of Nasdaq Listing",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEdEZU1xTk90MHROcGEzYjczeWI1d3ZKS0twTHZQa1NwOGEya3FPNGllZ0dJNlRpU1M2SkNZWFViclhQS1FxRjQwMkdkeWpKVVM4Uks2SjR0VmhYbktTczB2blJNWTZQMXFiSUVlaS1WX0d1X1RkYmdaUl9qUUJPeWFSZmp2OHNlaUtOdHJyNm9SZWNVODczOA?oc=5",
-      "pub_date": 1794447660.0,
-      "article_url": "https://finance.yahoo.com/markets/currencies/articles/japan-nears-37-rate-hike-014106462.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ccf4dba73995108d3eb54286f1616390bc3ba3521cd8e2ee210001b5f30d5d27/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Ffce6d00d0cb5ba53a25650abba5f4eec.jpg",
-      "description": "Japan could hike rates three times in 2026 for the first time in 37 years. What does it mean for Bitcoin and US stocks?"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnBqMFFWY1lIZGROam93Wk9ZWGlQUlZuX2JnMFVnbFZ1bWxuRENPbXpoS3R0eXplbDQwSXY4YTV0czJBMV9xVmJMdEdGTzhWRV9mN29wS2MwTWlOc2FZOXpHR3BuLVhEOURlbUZIWFRZcjJuU1dtN2Z2aHhabGpYTTI1YjRjX1JzZEVkMXV1dENHQzhyUDFLeDdIcHYyZ2M?oc=5",
+      "pub_date": 1794475321.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/anthropic-ipo-could-bitcoins-next-092201345.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/bb61cc3d39a12a99ef9120999caf913a6b704cb59b510f682660db24cf582a56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fc34d7abda539def2a466c40f5e27e886",
+      "description": "Earlier this month, Hayes said Anthropic IPO investors would face 83% dilution by June 2027, calling it \"almost mathematically impossible\" for the stock to gain before then."
     },
     {
       "headline": "Index Provider MSCI Removes Strategy From Equity Benchmark",
@@ -35,17 +45,47 @@
       "description": null
     },
     {
-      "headline": "Bitcoin sits out stock rebound as ETF outflows continue: Crypto Markets Today",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVE1LTjN4empxV2lyWVZDMDkxX2xMRlRlS0hvRXhYY01kVlZYaVVGT3psdE9XUTIwUXdPalhwRm5ocDNyWjd3cEhCOUtZdHlzS292U2JHZlA3a2Itd05oenNlQ1JMcEJFSzRUZHFfeERuMktnLW9EM2pFR3dEWVNrenkyZFhBZi15T1RIT3ExU1N2a2d3akpGN3dXeDlMRWNYU3ZWZ3lqNjhrczNRWWU0RQ?oc=5",
-      "pub_date": 1794397024.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+      "headline": "Strategy, the World\u2019s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHV1TFRnVmtTRlJ0LWlRcXZKQTQtSWJiMWhGVmpkZ2NmRFNhQ2tKSWdldjZFRk12eUMzc0Vhb3JYRlpjaktiWk9MZTVEanVRdjRETmdLNUtUem5SZjl3VHA2N3BDRkUyQUkwR1hlTzVhQzR1ZEQwT3dOaExSNHN3RmxXczdXNzRMcnVpU195cEFQc3k1eUFmSnQtR3g2bzgtQ1JCUTgwS0RhRUduWmUycHcteEFYUEVKZDNOTkRGYm5xZ3dNOXFpOGtCVQ?oc=5",
+      "pub_date": 1794478348.0,
+      "article_url": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4",
       "image": null,
       "description": null
     },
     {
-      "headline": "Square Makes Bitcoin Payments Free. Will Merchants Pay When the Promotion Ends?",
+      "headline": "Bitcoin slips to $73.6k; Strategy drops on MSCI index removal",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdElUbUg0ZkZBSnlUNGNDZG5UOGNWQmtpVUFxX1ltSERURW5FYUtCVF90M2hxZXV1ME94T2dFbGVrRWtsZjVCSGJGSU1zWHFQdGVMSFl5NDVGd1c5ZG9yNU81V3FDN056SXZhNzBsQzB6ZHFyRFlHQTNVZzZONHRZNmNIaDM2Q3JXajBXUjlXNDUzMkFQRGxxSGxFYzg0OHg3UnJwN2g3VXhGN1N4SDBYUDdacGM2U0oy?oc=5",
+      "pub_date": 1794465805.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "BTC news: Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeXR2eDExOFdJZjZwaDFrbzFBQUlCbXY4R3N4cW9yMDhTVmtnaEwyQ2pYeXVHOXlEYk0tS2RLME5BZkZVYk1paVdrS01icTF1aEtPM1hvWnZXdkVKYVBJNzR5Y1piUXhydVJYMWtWM3czMGVjaWV6T0JFZldicnI5QktWWnVEbEpSWXZHMnhnb2prT2N1Q0VvemUzeTQ1dnRmUlVUV0h5Mi1vT3FTdk10UmNTVEQwR1YtbEFxWg?oc=5",
+      "pub_date": 1794460951.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Current price of Bitcoin for November 11, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BdWhhNDJsYkZZbWlGUC1zLUtKczZhTjBjOEh4YUxKMjJiWFBlSkFhc2NscEJNMkxMSlhyM2luX3U3U01yZHNWckFtYVQ4WXA4dVlvT2dkbXhjQXI2SFh0bjFQR2pxbms?oc=5",
+      "pub_date": 1794400200.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-11-11-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-11.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Square Lets Merchants Accept Bitcoin and Receive Dollars",
       "source": "PYMNTS.com",
       "source_url": "https://www.pymnts.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzdESGxzTEVwS1JYOHF6aHJNQkdMenUyQmJEZUR4cHRMM0Y2S0RsUkF3Y1ZIWjFjYVdFbjE2NklsTF84dVo0Q2dicEVySkMycy1DOEpMUHRKVGtQZVlJR0RjZWg1MUpBVnFjZWFzSlNmSDBMWmNudXQ5RmhYVWU5YjUyb01DRjBROWxTblhFUUJTUjhhR1BiRkp5dUtqMzc4VEZIMlFvUTF4TGQxN2FSbkkyeEt0OWFUS0hXX3pR?oc=5",
@@ -55,56 +95,16 @@
       "description": "Bitcoin has spent much of its existence trying to become a payment method. The launch this week by Square of always-on Bitcoin payment capabilities for"
     },
     {
-      "headline": "Bitcoin's bull case is still ahead, says Blockstream CEO",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdng2ZnBJWEM0T0I5SXFiZV9zMEhlMmFydEpCNFdLdm1HLW9SZVNrM1YtMTNIc0d3d1RtZ01LcmdUMkNsZ1JEeU4zNFVET2p6LXNyZ2FiWFJ6VHk0dlFJbnM1LXZHblRpckJqaHF6ay03LXBFQnp2M3dDM1FLM0FmamRFc09xR3l1R0hVLXhEVTMzNzRJbDAzTHBRUzFaUQ?oc=5",
-      "pub_date": 1794436388.0,
-      "article_url": "https://www.cnbc.com/video/2026/11/11/bitcoins-bull-case-is-still-ahead-says-blockstream-ceo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108549486-17944353311794435327-49580250260-1080pnbcnews.jpg?v=1794435330&w=1920&h=1080",
-      "description": "Blockstream Co-Founder and CEO Adam Back joins 'Closing Bell Overtime' to talk what is ahead for the crypto space after a volatile few weeks."
-    },
-    {
-      "headline": "This New Water Heater Gadget Could Turn Your Hot Showers Into Bitcoin. But Is It Worth It?",
-      "source": "Realtor.com",
-      "source_url": "https://www.realtor.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUEFXdWJidzdLZFJGNFNGR2hjc1QybzJ6ck5TVHFpUmJMRE42XzU2TVBLcWk4cGZqeF9LMmJJVjRpVTZPNHVGN1JNMFhLYzVjWWtYSXhybWVsS3hGT0VCZ1RwLXBMNkJQNjdHUHkyNzQtWVA5RnBnUTRKbEwwMTJCd0RZUW5rUGtuRzlPVldrYWFmeGFIQnZZ?oc=5",
-      "pub_date": 1794431145.0,
-      "article_url": "https://www.realtor.com/advice/home-improvement/water-heater-gadget-bitcoin-heating-element/",
-      "image": "https://na.rdcpix.com/0d5c990d83cc5e1c5ad080056da51e6cw-c3797230185srd_w1200_q80.jpg",
-      "description": "A new gadget replaces standard water heater elements with bitcoin-mining chips, promising to warm your water while earning crypto on the side."
-    },
-    {
-      "headline": "Bitcoin Treasury Selling Hits Rare Level Ahead of MicroStrategy\u2019s MSCI Test",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kMnVLN1VaX3YtcG5WNk1uTkJ6XzNBX0J5eDZwR1F3clc5UUVDaXJXVkVxLWVvcERvelV5RHR4Z18zZzdVQVlXbGpjMDYxV0dFZ1RiVTU4bWhzQ1phX0RRRTBLMDY3dWNhbE1MWjk2VVNLNl9KeEE?oc=5",
-      "pub_date": 1794434861.0,
-      "article_url": "https://beincrypto.com/bitcoin-treasury-capitulation-msci-strategy/",
+      "headline": "Bitcoin sits out stock rebound as ETF outflows continue: Crypto Markets Today",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVE1LTjN4empxV2lyWVZDMDkxX2xMRlRlS0hvRXhYY01kVlZYaVVGT3psdE9XUTIwUXdPalhwRm5ocDNyWjd3cEhCOUtZdHlzS292U2JHZlA3a2Itd05oenNlQ1JMcEJFSzRUZHFfeERuMktnLW9EM2pFR3dEWVNrenkyZFhBZi15T1RIT3ExU1N2a2d3akpGN3dXeDlMRWNYU3ZWZ3lqNjhrczNRWWU0RQ?oc=5",
+      "pub_date": 1794397024.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin's Bull Score drops to zero, signaling bearish trend: CryptoQuant",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQnFLN1p0Z0V0bVNHZkp2bGNyOUdYRGlOY3BTajIxXzQ4NkRfOHlwaXF0VzBlNWNUbGtQcEtQd2lqZHBpUmxGNWdEQ0l4YnhWb2FyOXl5bmFjN19kMy1BQk1FOWNLTFhPQ05KbjJJR3dObk1HT1JqbkJUVU1nOVZLUGtOdG5IMHdfRFRTeUdjS0tEV3Y1c3Q2TnVENTE5TkhUUkE4VEJFSTFkdlhwaVp1V2phUWNLd0NobDdxaTJRMW5uWEEzWUdoUnczQlhKajVS?oc=5",
-      "pub_date": 1794426271.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:1728ee173094b:0-bitcoin-s-bull-score-drops-to-zero-signaling-bearish-trend-cryptoquant/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin's Bull Score Index has fallen to zero, the most bearish reading the gauge can produce, according to CryptoQuant head of research Julio Moreno.The index runs on a scale of 0 to 100. Zero is the floor.The reading landed on November 11, 2026. It caps a remarkably fast slide for a metric that l\u2026"
-    },
-    {
-      "headline": "JPMorgan Says Strategy Could Face $2.8 Billion in Forced Selling. What Would That Do to the Bitcoin Price?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbEV4RmVWWEtSS1JINHVycTEyXzk0WFY1SW5mR2pPQTMzU3luU3ItMDVwT2dVcEwzMVBzOWt0RlMxb3hpOEE3QnJJc19DSnVOaG9BbXF6a29LeUFidi1kRnVCczNYRHA2aTdRZldNZmZFVUZzWUNSMFhubzVmeDZvZlZyWnVPZjZiVGZDOXZSVEdBcnJKNE5aOXlNb01vOWJVT211bUpTVGVJTUNBRnpjSUZERERNaldEZldBNXllZWt5MHpHQ1RWUEZmTTc0Y2NCRklSc3ZqSE1XSlJMSHFIY3JGWVpSM0d2QlpiTGtBUkIxR3Fv?oc=5",
-      "pub_date": 1794402840.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/11/jpmorgan-says-strategy-could-face-2-8-billion-in-forced-selling-what-would-that-do-to-the-bitcoin-price/",
-      "image": "https://247wallst.com/wp-content/uploads/2021/02/imageForEntry7-Zvm.jpg",
-      "description": "JPMorgan estimated Strategy could face $2.8 billion in forced selling after an MSCI exit. Here's whether any of it reaches Bitcoin."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T02:43:54.074933+00:00"
+  "fetched_at": "2026-11-12T10:42:55.537176+00:00"
 }

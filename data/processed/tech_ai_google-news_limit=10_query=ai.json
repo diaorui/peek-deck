@@ -5,42 +5,32 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXhKWElWbF84SlAwVHhHTjBZQ044MTBtVFZJVjFqR3czZFB4RVRGZ1lmcGJjWGZfZTl3T3lUNk5Ucy1CRDhmREpBN1E4OGpHWlhHN2ZEZFhSV0E1ekZubEtEVmVMTjRZamRtREdPeDhtWHNmaUU2d3YyaGxqa19HSERTVERTV3Nr?oc=5",
-      "pub_date": 1794420590.0,
-      "article_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108548918-1794403575214-gettyimages-2192346840-widak-nvidiasc250106_npmp9.jpeg?v=1794403600&w=1920&h=1080",
-      "description": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage."
-    },
-    {
-      "headline": "The biggest winner from the downfall of Jensen Huang is China",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU9sVEtRYXREaUtyRTVfTUV0REdadjA5NXpiU1RDUUg2M2xmOXVNMnFKWm1JVWNBM0lkekZLb0t0T0l6T1VWYWdWSDROVnpULUFJR2NxTTJvNWxoNEVjODV6bkd4SmJqTXlqOHQ5dlJJSXZJOGZYZFhYbzMwdUp0NDRPMEpneUctTW5GcS1YcjFwV0pTZ0JZUlJ4OA?oc=5",
-      "pub_date": 1794446100.0,
-      "article_url": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-downfall-benefits-china-ai-race-2026-11",
-      "image": "https://i.insider.com/6af50a740cc3ffba8779c344?width=1200&format=jpeg",
-      "description": "The downfall of Jensen Huang hands China a big win in the AI race."
-    },
-    {
-      "headline": "Nvidia\u2019s Board Is Meeting to Discuss Jensen Huang\u2019s Future",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SV0s4M3NYaTUtT2tIVWpBRHdfTk51cUIxcE0tLU9LV3M1akRWMTRheE9qY3BCa0pRVDR0MGhxaGVIcERRakZ0LWxJUWtpeFk4aW50TlRLVWt0NUEwSzVBVWFoZGNMQ0NEUWl4eUZyR3h0YmpHRjNfVk1n?oc=5",
-      "pub_date": 1794439934.0,
-      "article_url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+      "headline": "Jensen Huang's looming ouster triggers an AI earthquake",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94ak4xcTZteHBzaGNaXzhfWGZ0MzJ0R2VCOEJQSUF0eVhrWUZmUWx6TVhFOGZmVkdOSG1rdm1KbkZKV3YxTTloUnlNeDdTZjRxeHplWmVFaXZ4bUNuYndJRV9zdm9jb1lfZlE?oc=5",
+      "pub_date": 1794478103.0,
+      "article_url": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board",
       "image": null,
       "description": null
     },
     {
-      "headline": "United Airlines Blocks A.I. Agents From Booking Flights on Customers\u2019 Behalf",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTVycnZoZS1nNU50eTQ2MGY3RUdNOXpTbi1vRGlWT2VsUTZ0QW1sYnY0amNTdjFDcW9zZ0NuVU5ua0dvS2VFUURrb3IxVGZBVk1lbjJUOExtQWl2a28teDB5RDkzdUJ1RFhwNkJqSTdEZTJTR3Q1X3plUnpSbndiTG9WV0pMMEx0UzRUMmpZcFZpSnJn?oc=5",
-      "pub_date": 1794438931.0,
-      "article_url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
+      "headline": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5",
+      "pub_date": 1794461460.0,
+      "article_url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia Leadership Scandal Drags on U.S. Stock Futures, Pressures AI Trade",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFA2c196U0Ewd255MEZwXzRYX0xlQTZzRV90enFaMGk3REwzVmtQVFVQRFV5Q2Q1WWdOTnVXUlY4VEJ5SjhQanJNckVzcnhxdzloTWMzc095MTk2Q1FWN0xTYl9lbkpPRnliNVFFcngyVjl5ZlVuX05IOFc1ODUzNjRUTzl5YkM2UU9nWGNES1ZRaWRkdFAxMzlBZFd0eW1nTlc2QU11R0tjT2FMZ1NNSVlWOHFJUQ?oc=5",
+      "pub_date": 1794475020.0,
+      "article_url": "https://www.wsj.com/finance/stocks/nvidia-leadership-scandal-drags-on-u-s-stock-futures-pressures-ai-trade-e7f6e5b8",
       "image": null,
       "description": null
     },
@@ -55,56 +45,66 @@
       "description": null
     },
     {
-      "headline": "United blocks AI agents from booking flights for customers",
-      "source": "10TV",
-      "source_url": "https://www.10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVENMY0NTektHUU5tUm92ekVLbU1GYWxaeXE1ZXQ1THJ3RUZaNUVfYWNhTENhU2kybkFBMjhJdTgyUjJLLWtHeTFweVEzbTlJQ3BucjZwOTJuQkRuQml3OEdpbjV6d2RfMlJSLTZGTVRka0NHd212VnZoV2dlV0VldEtTM0FpTUVrTlNkeGJLY2E5MUJvNDBuVzZzdXBnNUpoQnhjSDJYUDh6aWJFaGRQVk55ZlhIUEpJV05VLWRuU2NkZ0NSZjhid0pHZGIwb0psa0E?oc=5",
-      "pub_date": 1794444720.0,
-      "article_url": "https://www.10tv.com/article/news/nation-world/united-ai-agents-blocked-booking-systems-flights/507-77415d11-2322-4590-8789-5eaac986892a",
+      "headline": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDJtSXdwdkJWUlI4SlRWMzhQNlFKTG00LW4xVW9tZ1pLcFUtRzBQYklOMWRvZVZ4a3AwOTliX2hvcWpjYTN2eGR4NWp2M1BiMGNUMl9SZUxqQnpOWDU0QnRpUkdyX1FVSkVaRDFSUmw1R1pQWFFEMzNfVDN1MjY3QUNn?oc=5",
+      "pub_date": 1794425858.0,
+      "article_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
+      "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United."
+    },
+    {
+      "headline": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWelJQMjBsU1NEQ29GNlZhMXlKMkRvTDhabTFsNDdRSmxXUTFlaUlEY3hER1dQYml3TE1iQ0dsdHRRLXkxU2xtV18xY0VQd1E1V3hwSXRDMm5oc2o0Mm1nYzdHQ1dCOHJkRlRXbFd5SXVTTklXd2gwRWw3MGU2UQ?oc=5",
+      "pub_date": 1794391311.0,
+      "article_url": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI has made it \u2018close to impossible\u2019 to assess university coursework, regulator says",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnRuQjZGUU9xbUxieGFPbU9Yal9meFoxVlhVUkVCcm1DRVdrcE5LZzZEQlZJWFk2Y3k1LXNYTmZKOWd3dHh0TjFER0hScGJNUmlwWm9KaU9mOGZRMnV5TU5YeS1pd210Vmk1cUJ0VlJtV3k1aFNid3hvcl9yRlBpRWlVTDlVVVlYS295SUstY3B3Q19YOF8tTU81UkZmaWhZWF9QbkhjRWdKVlpQSXE1Qg?oc=5",
-      "pub_date": 1794394620.0,
-      "article_url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
-      "image": "https://i.guim.co.uk/img/media/d3a1271d3a03313b67f28cd9ca99f9f80e115ce7/671_0_5849_4679/master/5849.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2d387c03ee68e491945ef880c521fec",
-      "description": "Office for Students says institutions in England should return to traditional exams and in-person presentations"
+      "headline": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGVFa0w0cmk4aTZOc0dVWnc5bm5lSzRZOE9aQldlcTZZUGc4MGNNWGlTbDFJYUlibHJoQ2xpOEdrUFpPODBQOGluNUhVQWxvY2ZuWE84TVN3NVJza04xVXlBcW1kVkl1WjZMM2RxREktM2Z3bVVqbTBkUnJuTy0tRl9KSkxuT2pzY0Zib1dKV24?oc=5",
+      "pub_date": 1794421363.0,
+      "article_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+      "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
     },
     {
-      "headline": "Universities Are Giving Up on Trying to Detect AI Cheating",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWJiVUxCUnI0cXNQS2RsR1VsXzJ2d3RvOVVvYXNNNDExZ2NmdmFjQmVEekVac1ZaYmt0dXp0OTZ6SFhoamM1NGQ2TlA5VEpPcU9GZXVHbWp2OTZhUFVIeVNNVHpHVmhJbzFiMF9zMzkzeEtnQ1ZoT3hlaGFpV0JSekNDWWs3bXgyWGhHMkp4UV8wRzA?oc=5",
-      "pub_date": 1794427824.0,
-      "article_url": "https://gizmodo.com/universities-are-giving-up-on-trying-to-detect-ai-cheating-2000838311",
+      "headline": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIcURDWS16ajRLSUZqZzNpOW01T3RzVWhjdDJLWkNXOGRwVG5EVkJiV1ZxNjd5YUhjbElRdFd1Vmc5aERiOFV6WllGMXlwajAxOUhSeDhBazAtcTNqQnBjQi1sNVBTQ1hhQlRaY0ZzaWtEeTV6ZGNLczBFNA?oc=5",
+      "pub_date": 1794477656.0,
+      "article_url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Google warned school districts about disabling AI mode for its search engine. Some Chicagoans replied with protest.",
-      "source": "Chalkbeat",
-      "source_url": "https://www.chalkbeat.org",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeE1OM3ZDcVNTcTBtSDU3Q3huN25xTm5Ic3AwTlpFd3JLc2syUGZPNE1NTkNrU0JBYU1oU1lTT3lFUlRtRlhpQ1g5dXU3aGFyUm1IOXBFaTdOLVh4cjMxRzRpOHJLNWZTcG1jTlg3TzNQZ29DSnBxRDAyd0VDWU5Zc3RFdXltZkhhTFM1Xzg4YTBYWmhJdkEyb3dRcTVhbnpVLXgwQUV6QjZ5eHFI?oc=5",
-      "pub_date": 1794450840.0,
-      "article_url": "https://www.chalkbeat.org/chicago/2026/11/12/chicago-ai-protest-against-google-removal-in-school-classrooms/",
-      "image": "https://www.chalkbeat.org/resizer/v2/6DQUZN3QLRHTPHA3XIF43L5QGY.jpg?smart=true&auth=ee5afe0cec611b3c4497524b349bc8f0f065dc1495d140aa6df661aafcce55ce&width=1200&height=630",
-      "description": "Artificial intelligence has long faced the ire of parents and educators who are concerned about its role in the future of education. Now, rising tensions with one of the world\u2019s largest tech giants is adding fuel to that fire."
+      "headline": "AI data centers need more raw materials. One investor is betting on recyclers.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXpEVnE4cWN6ZzNUTGN4elBzTUNPWHBoMXRidXRWanlZZXNibFJqTWotOExZeXZrUXktYkhaSFZ4N1dLNVFRSVNJbFdsNTZiNGd2cjIyazFEcHpGZW9qZFZDNEdPbTFPWHVQRXpPTkdnNDdCNXhEc1A3THhxMkhtMm92RjNMbC1hUm83OV84N1Njdw?oc=5",
+      "pub_date": 1794479160.0,
+      "article_url": "https://www.businessinsider.com/ai-data-centers-recycling-investment-opportunity-2026-11",
+      "image": "https://i.insider.com/6af4c9ab0cc3ffba8779c0f6?width=1200&format=jpeg",
+      "description": "As hyperscalers race to build AI data centers, companies that recycle critical components have become an investment opportunity."
     },
     {
-      "headline": "Rumble\u2019s AI Business Now Drives 70% Of Revenue \u2013 CEO Chris Pavlovski Says GPU Fleet Is \u2018Nearly Sold Out\u2019",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlBBVjVXd0Z5SzdPRHlmU3FEdmlnR0dwVTZSaWFGVDU2QjRseng2NE9aSDBhVVFCM1hlNkVNSnk4ZWl1MUk4eXV5OE1kY2xTUGY2SG1TZVU2S0FYOFE4a2EzbVVMUzBDeHFaYWp6WHJ6N29CdWFLcGRqWnF0S3V2U1E2RVhlLUxuV1ljSV9IbmVnWk9xaURGNA?oc=5",
-      "pub_date": 1794449280.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/rumble-ai-business-now-drives-020818886.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fb51053556c4d735bd680d6815078c407ee89f8550fff118ceb2009035f9ea44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fba330712a7101516a688427cde69a525.jpg",
-      "description": "Strong AI infrastructure growth helped RUM deliver 290% revenue growth and its first adjusted EBITDA profit."
+      "headline": "AI has proved that a theory underpinning fundamental physics is trustworthy",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQVhqQmRuQUg4NzV0SXQ0ejNaX2MzOHpxdThReEFnUkstejQ2bVg4dUVOeXRXTzlBaW9rRnlVRzB0Mk5XTlpXVDAzWGFyQjZOclluOFQ1ZmZ0RUR4LURBT3BxVDE1ZEpIYkxGd0xCcjZvQmsxS2xOMjcyWEtJUDhOclpmRGFkQ3FwQkN5R0x3aFNMLWFPSUNUd0lYZFJkQnA5Mm56YnVxa2ZORFRvbHVBR1dJcjVMUUJFbnU5UjZ4NmRXblZCU1F2QmZGVHZCbTZy?oc=5",
+      "pub_date": 1794420929.0,
+      "article_url": "https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T02:44:00.047617+00:00"
+  "fetched_at": "2026-11-12T10:43:02.002926+00:00"
 }

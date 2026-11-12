@@ -15,16 +15,6 @@
       "description": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments."
     },
     {
-      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bkx4MS1XeDlTd2Q2UHktLVBvX3YtSkJYMkVxa2l0TTMtTld3ZWp0d29udm1SckdEZi1wNnhqb0hJZldURzFyVUxxV1F0S2dJS3NNZWFvRWtRZ0F2Ym5taXFlUVVPM1FBTGFPV1V4Z0ZELUZfOTE5TEZxaw?oc=5",
-      "pub_date": 1794426900.0,
-      "article_url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
-      "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
-    },
-    {
       "headline": "Intel: Robotics Is A Key Strategic Focus Going Forward",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -33,6 +23,16 @@
       "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzRrTEw4QUxHdnc3UUlmUE04TXJrX3BlSDFTQ0FWYWticVpaLVhvZzJlMVVodXdRLVpEbENfakZEbkROeDc5YTV2M2U1eVpxWkFlMEJUbURibWxWemJ6RWtpM0Npblp6UnVpOUtWWkE1Ri0tanhEUlNXT0FSUVFGM0w5WnBPNFE1OGF2c0R2SHhFb0J5OU1fYjhmOU1OV1FEcnlNNjhleUNLX3I1VVh5OUtoaFdvZDNqdnRn?oc=5",
+      "pub_date": 1794322839.0,
+      "article_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
+      "description": "The new model is up to twice as successful at some tasks."
     },
     {
       "headline": "Can AI agents program industrial robots without training data? Berkeley says yes",
@@ -45,14 +45,24 @@
       "description": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs."
     },
     {
-      "headline": "The PLA\u2019s Push for Military Robotics",
-      "source": "CSET | Center for Security and Emerging Technology",
-      "source_url": "https://cset.georgetown.edu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0dZWGFERUoyOWZOSnd3TzZhRVdnbW1UZzVkSENCalVNUEk1UjlQUW0xTGtGTjJnVE1mMThtX1NCeFFVZEpDYWhmT1ZUNXc2eWtJZUNCOGZHR19QY01QeG0xc1V4N0VNM1lfd0ZlQ3d5TFlXdnduUU9NN1RxNVlGQWF3?oc=5",
-      "pub_date": 1794400804.0,
-      "article_url": "https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/",
-      "image": "https://cset.georgetown.edu/wp-content/uploads/The-PLAs-Push-for-Military-Robotics_Social-Media-Card-700x366.png",
-      "description": "Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People\u2019s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing\u2019s military robotics ambitions."
+      "headline": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDBwNTBVZzdhQjlkVDRaQXRiM2dsVUJYdmx3c3NLeC1ZeUJfNDd3ZHdoOFZhdXh0S3FZdEk3dEVfXzA4UE80ckVLYnktSDFfbHRQRW94ZndRWndBV3B1SEFOaUNFbmhhbGZSS1BwelA4ZDB4MzRCQndMcDJfakNFSkQtZw?oc=5",
+      "pub_date": 1794462305.0,
+      "article_url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bkx4MS1XeDlTd2Q2UHktLVBvX3YtSkJYMkVxa2l0TTMtTld3ZWp0d29udm1SckdEZi1wNnhqb0hJZldURzFyVUxxV1F0S2dJS3NNZWFvRWtRZ0F2Ym5taXFlUVVPM1FBTGFPV1V4Z0ZELUZfOTE5TEZxaw?oc=5",
+      "pub_date": 1794426900.0,
+      "article_url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+      "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
     },
     {
       "headline": "Praxis-1 Is Now Available",
@@ -65,46 +75,36 @@
       "description": "Runway Praxis-1, our open-weight world action model for robotics, is now available under Apache 2.0. Download the weights on Hugging Face and GitHub."
     },
     {
-      "headline": "Eric Trump-backed firm in talks to send humanoid robots into Hamas tunnels",
-      "source": "The Telegraph",
-      "source_url": "https://www.telegraph.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0NSa0hOcG9fZ1ZyNXJsS1QtN3Z5ckVQOXYtdnpIY0k2Y0k0aXRidlhURGE2N3pQTUk1aEtxQUNwLU5vd2t4dEhtR00zTEk3bVQ4Tjc5eXBSTWlvSnZhNnl3TGVTOFRaYldwME1XeEQtb1dNMUJWLXVWbEZDU0Fwd2tkZHg3bXl5QU84?oc=5",
-      "pub_date": 1794425760.0,
-      "article_url": "https://www.telegraph.co.uk/us/news/2026/11/11/trump-humanoid-robots-hamas-tunnels/",
-      "image": "https://www.telegraph.co.uk/content/dam/en-us/news/2026/11/11/TELEMMGLPICT000509700786_17944247000860_trans_NvBQzQNjv4BqRvADYWT2fNkMTyxaPU75dk0FulbihTF5yCikynWnsbo.jpeg?impolicy=OG-Standard",
-      "description": "IDF expected to purchase up to 1,000 from Foundation Future Industries where president\u2019s son is adviser"
+      "headline": "PRISM helps robots move better by learning how forces and motion interact",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5ZXdnMk1NT1pnUkREdUhod1I1MGU1YWNFeVBIWE92bXg3amRBT2RrOUplekdmanc0MHVpemlhMWw2N083Wms3YjZweE95NDNkREdLWkR0b0lCYXlXeGxHOTQ0bTlTWEFOYXY0VnlaVFZWWl8zX1l3Zw?oc=5",
+      "pub_date": 1794416401.0,
+      "article_url": "https://techxplore.com/news/2026-11-prism-robots-motion-interact.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Ring announces Ring Robotics, ushering in a new era of security",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
-      "pub_date": 1794317162.0,
-      "article_url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
-      "image": "https://assets.aboutamazon.com/dims4/default/b73122b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F07%2Fc1%2F82d8a1204627a837d203c57dd918%2Fring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
-      "description": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it."
+      "headline": "NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust",
+      "source": "EE Times",
+      "source_url": "https://www.eetimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTZ5d2VqNmF4ZUF5U0xNc0Fwal9vS29RWmpQc0RqSEhQWVI5cHhjS1p4Ym4zYXFRbExqV1hRSEt6M0c1LXhBOUhHMXdreHpPWGNOY2d2M2FTMlpQNlhJR09QUDdfUUpGRzBUTGo4X2E4VXRJVnJLSWxHSzgyWXBEdDMxNDZZVEJ3OFE?oc=5",
+      "pub_date": 1794428660.0,
+      "article_url": "https://www.eetimes.com/nxp-cto-lars-reger-on-physical-ai-robots-drones-and-trust/",
+      "image": "https://www.eetimes.com/wp-content/uploads/Screenshot-2026-11-11-152131.png?resize=1200,675",
+      "description": "NXP CTO Lars Reger on physical AI at electronica 2026: NavQ95 gets robots and drones running in 30 minutes, plus security and RISC-V."
     },
     {
-      "headline": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45aFplN3BxZkFpLVBZNThZaURKeG4wUFFnbjh0UjFvQUNwQzBWdzdaU0NaeTRRLXVXSU04VW0yOTI2T3ZvUGRXc002eHNpRVRXUFJiakVSS281QnVMVW9BWVFB?oc=5",
-      "pub_date": 1794388457.0,
-      "article_url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1-1680x945.png",
-      "description": "Vision AI and robotics pick what\u2019s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills."
-    },
-    {
-      "headline": "Serve Robotics wants to democratize sidewalk delivery robots",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3YyTEx1S0Zlem1UbUJWeTZncjBxdDdoQ2JhWHdjU0xXN2dpV3RkX1AwM2JqaFRWSVZVR1JFbVpsUUlRWTN0TnN2TUl5OXJQTjYtTFYteHVtQzFLNkdJcnpTZHlaVnNEbjJTZWVtaDBvNFNlY1AwcVctXzBDeFNEdndlUU5aUXdoMHIzLU50MG9IN1pzamVoZHlRUE5HTzJ4?oc=5",
-      "pub_date": 1794400200.0,
-      "article_url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200",
-      "description": "Serve Robotics is breaking away from delivery app lock-in."
+      "headline": "The PLA\u2019s Push for Military Robotics",
+      "source": "CSET | Center for Security and Emerging Technology",
+      "source_url": "https://cset.georgetown.edu",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0dZWGFERUoyOWZOSnd3TzZhRVdnbW1UZzVkSENCalVNUEk1UjlQUW0xTGtGTjJnVE1mMThtX1NCeFFVZEpDYWhmT1ZUNXc2eWtJZUNCOGZHR19QY01QeG0xc1V4N0VNM1lfd0ZlQ3d5TFlXdnduUU9NN1RxNVlGQWF3?oc=5",
+      "pub_date": 1794400804.0,
+      "article_url": "https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/",
+      "image": "https://cset.georgetown.edu/wp-content/uploads/The-PLAs-Push-for-Military-Robotics_Social-Media-Card-700x366.png",
+      "description": "Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People\u2019s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing\u2019s military robotics ambitions."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T02:43:49.944982+00:00"
+  "fetched_at": "2026-11-12T10:42:53.230487+00:00"
 }

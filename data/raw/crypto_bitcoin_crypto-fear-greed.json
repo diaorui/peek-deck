@@ -1,13 +1,8 @@
 {
-  "current_value": 29,
+  "current_value": 28,
   "current_classification": "Fear",
-  "current_timestamp": 1794355200,
+  "current_timestamp": 1794441600,
   "historical": [
-    {
-      "value": 26,
-      "timestamp": 1762819200,
-      "classification": "Fear"
-    },
     {
       "value": 24,
       "timestamp": 1762905600,
@@ -1832,7 +1827,12 @@
       "value": 29,
       "timestamp": 1794355200,
       "classification": "Fear"
+    },
+    {
+      "value": 28,
+      "timestamp": 1794441600,
+      "classification": "Fear"
     }
   ],
-  "fetched_at": "2026-11-11T21:55:08.042807+00:00"
+  "fetched_at": "2026-11-12T10:42:23.715745+00:00"
 }

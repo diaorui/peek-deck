@@ -2,15 +2,26 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/",
-      "published": 1794425578.0,
-      "thumbnail": "https://external-preview.redd.it/FnSsoE978YIrS4Juvx4pRhUYmvnHGmcK3Kspi0clGBQ.jpeg?width=640&crop=smart&auto=webp&s=bd1c0c5348c0113f50c8b58aac4ef4085b56095d",
-      "external_url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "Anthropic's new IPO filing says AI is now accelerating its own research to the point that it's triggering one of the company's key safety alarms."
+      "title": "After Democrats\u2019 midterm wins, Palantir CEO Alex Karp now says he\u2019s a \u2018progressive\u2019",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xu453q/after_democrats_midterm_wins_palantir_ceo_alex/",
+      "published": 1794460194.0,
+      "thumbnail": "https://external-preview.redd.it/g3XrQW53Njbfa6o3cM81OVIClTNezs25QJiryFrrf88.jpeg?width=640&crop=smart&auto=webp&s=f648f7336668a41be2694450a2373847dee0d14e",
+      "external_url": "https://www.washingtonpost.com/technology/2026/11/11/after-democrats-midterm-wins-palantir-ceo-alex-karp-now-says-hes-progressive/",
+      "site_name": "The Washington Post",
+      "favicon": "https://www.washingtonpost.com/favicon.ico",
+      "description": "Alex Karp, the chief executive of Palantir, said Wednesday he's a staunch liberal, a seeming departure from his position during the Trump administration."
+    },
+    {
+      "title": "Microsoft researchers backdoored an AI agent by editing fewer than 10 neurons - no retraining needed",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xu2cfg/microsoft_researchers_backdoored_an_ai_agent_by/",
+      "published": 1794454517.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Microsoft Research published a study this week that should worry anyone deploying open-weight models: a technique they call \"Lazarus\" can plant a working backdoor in an AI agent by reprogramming fewer than 10 dormant neurons in the underlying LLM - no retraining, no poisoned data, just a small edit to the saved weights. How it works: every large model has neurons that almost never fire. Lazarus repurposes a handful of them as trigger detectors. The edited model behaves normally and passes standard safety evaluations - until the trigger appears. The trigger can be something as mundane as a date: in one demo, once the clock passed midnight into 2027, the agent, in the middle of an ordinary task, emitted a command that downloaded and ran attacker code. The numbers, from Microsoft's Nov 10 post: - Nemotron-Terminal-8B: 7 neurons out of 12,000+ in the final feed-forward layer, trigger worked 98.8% of the time - Qwen3.6-27B: 6 neurons, success 51-99.5% depending on setup - Gemma-4-31B-IT was also tested Two caveats worth stating plainly: the attack requires write access to the model's weights, so this is a model supply-chain risk, not something done through an API. And Microsoft says it has not observed any threat actors using the technique - this is researched risk, not a reported campaign. Microsoft also published mitigations: a detector that flagged 91.4% of edited checkpoints (9.7% false-positive rate), plus guidance on AI-powered weight scanning, red-teaming for anomalous weight changes, and cryptographic model signing with tamper-evident provenance. One detail that stood out to me: the core idea was discovered autonomously by Claude Code running Opus 4.5, in a March experiment that asked it to backdoor a model by hardwiring a few activations without training. It did - and that became a months-long study. If a handful of edited weights can hide a sleeper agent that passes every behavioral eval, is testing model behavior enough? Or does every checkpoint we deploy need weight-level provenance? Source: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
     },
     {
       "title": "Republican Senator Josh Hawley backs nationwide data center moratorium",
@@ -24,6 +35,28 @@
       "description": "https://www.politico.com/live-updates/2026/11/11/congress/hawley-backs-nationwide-data-center-moratorium-01161019 FYI: A Harvard + UPenn study finds that data centers were responsible for just 4 percent of the utility rate increases over the last five years. https://archive.is/JRlsn >Last year, research from the Brattle Group and Lawrence Berkeley National Laboratory found that data centers were actually decreasing costs in certain regions. And another study by the Electric Power Research Institute found that a doubling of data center capacity between 2019 and 2024 resulted in a 4 percent drop in home electricity prices. >\u201cSo far we have no evidence that data centers increase prices all that much,\u201d Netessine said. Instead, he said, prices are rising due to more quotidian factors: rising gas prices, an aging electricity grid, and wildfires and hurricanes requiring improvements to the grid and recovery after disaster. >Most of the cost of generating and delivering electricity is based on large, up-front capital costs, such as the costs to build power plants, wires and transmission lines to carry that power into homes. Some areas of the United States also have excess \u201ccapacity\u201d in the grid \u2014 meaning that the grid is overbuilt for the actual demand. In those areas, adding a data center means that large fixed grid costs are spread over more consumers. That could lower prices. The new Harvard and Penn study found a slightly higher impact on industrial electricity prices \u2014 the price paid by manufacturers and large facilities. For those customers, data centers were responsible for 15 percent of the price increase between 2020 and 2025. But for ordinary Americans, Netessine said, the changes simply were not substantial. Higher electricity usage is not correlated with price increases as the data centers pay for fixed maintenance costs. see slide 50 https://eta-publications.lbl.gov/sites/default/files/2026-03/retail_price_trends_2026_edition.pdf And companies building out their own nuclear power Meta https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/ Microsoft https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai Google https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx Anthropic https://www.anthropic.com/news/covering-electricity-price-increases OpenAI https://openai.com/index/grid-protectors-program/ No significant environmental damage https://blog.andymasley.com/p/a-short-summary-of-my-argument-that Data centers don\u2019t actually make much noise and it\u2019s almost impossible to hear unless you\u2019re right next to it https://fixupx.com/RuffBuffet/status/2095312629027803508 Even xAI\u2019s massive data center in Memphis barely impacts local air quality https://theconversation.com/air-quality-analysis-reveals-minimal-changes-after-xai-data-center-opens-in-pollution-burdened-memphis-neighborhood-265152"
     },
     {
+      "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/",
+      "published": 1794425578.0,
+      "thumbnail": "https://external-preview.redd.it/FnSsoE978YIrS4Juvx4pRhUYmvnHGmcK3Kspi0clGBQ.jpeg?width=640&crop=smart&auto=webp&s=bd1c0c5348c0113f50c8b58aac4ef4085b56095d",
+      "external_url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "Anthropic's new IPO filing says AI is now accelerating its own research to the point that it's triggering one of the company's key safety alarms."
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "author": "unconventionalbook",
+      "url": "https://www.reddit.com/r/artificial/comments/1xu8l1b/united_airlines_bans_ai_agents_from_booking/",
+      "published": 1794476458.0,
+      "thumbnail": "https://external-preview.redd.it/3nyv9DNqcVFOU4FaBVpwuh9XhGWZEZMKTjQBwb_1NMg.jpeg?width=640&crop=smart&auto=webp&s=80fb6b945a065ca6f81b5c9d7082bda1e02e3aa0",
+      "external_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+      "site_name": "CBS News",
+      "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png",
+      "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United."
+    },
+    {
       "title": "GPU Companies built everything on the back of gamers, and now gamers cannot afford them.",
       "author": "ark_forever",
       "url": "https://www.reddit.com/r/artificial/comments/1xtbbsx/gpu_companies_built_everything_on_the_back_of/",
@@ -35,15 +68,15 @@
       "description": "I mean yeah, I am making this post frustrated with the current pricing of hardware, but ai companies are standing on hardware which mostly gamers bought and paid for. The evolution happened because of us. You might think what's this dude on about, it was made for graphical processing, Guess what?! It was games that required that level of graphical processing in those times. When Nvidia coined the term \"GPU\" and released the GeForce 256 in 1999, their primary goal was to run PC games like Quake III Arena and Unreal at smoother frame rates and higher resolutions than a standard CPU could ever manage. Video games were the only consumer software demanding millions of mathematical calculations per second to draw images on a monitor. Now we have the audacity to say RAM and GPU are being wasted on personal gaming rigs. I mean the only person who had more than 8 gigs of ram was either editing videos or playing games, games mostly though. I mean the AI demand will make sure the prices never go back to dirt cheap but in India (I am from India) gaming always has been a luxury, but now it's a luxury all over the world. When I was child, I dreamed of building the best gaming rig with my adult money, now when I am one, the prices are like \"f\\\\k you\". P.S. The gaming community has these posts everyday with everyone frustrated and i was asked to post this here, This is an honest question to the leaders and pioneers of AI technology, I mean I would love to understand the view points of everyone. I aint hating, but I realise when something is over evaluated and not worth the money its printed on."
     },
     {
-      "title": "AI agents are becoming software buyers, and businesses aren't ready",
-      "author": "BakingBreadBB2",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtdzxd/ai_agents_are_becoming_software_buyers_and/",
-      "published": 1794391463.0,
+      "title": "Manus scrapped traditional coding interviews and cut engineer hiring to half its peak; PMs now write code",
+      "author": "bestvicam",
+      "url": "https://www.reddit.com/r/artificial/comments/1xu7wfm/manus_scrapped_traditional_coding_interviews_and/",
+      "published": 1794473807.0,
       "thumbnail": null,
-      "external_url": "https://www.inc.com/hillary-remy/selling-ai-agents-startup-founders-bots-buying-software/91430588",
-      "site_name": "inc.com",
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "Manus has eliminated the traditional coding interview stage in its hiring process, according to the report. Engineer hiring at the company has fallen to half of its peak level, and product managers have started writing code directly. The three changes together suggest a shift in how an AI-native company defines who writes code and how it evaluates engineers."
     },
     {
       "title": "UK companies scale back hiring due to overspending on AI",
@@ -57,60 +90,27 @@
       "description": "Businesses in the UK incur \u00a33.8 billion annually in technology infrastructure overspend, with the biggest culprit being AI spending."
     },
     {
-      "title": "OpenAI\u2019s \u2018shepherds\u2019 affirm blockbuster physics result",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtk09r/openais_shepherds_affirm_blockbuster_physics/",
-      "published": 1794409400.0,
-      "thumbnail": "https://external-preview.redd.it/Op1x69dAYgpup0ftCcPop0WvNeH-xz7eioIRYLPcDYc.jpeg?width=640&crop=smart&auto=webp&s=384689bfebe833d8438947abd501851b9cf4f412",
-      "external_url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "OpenAI\u2019s progress on another million-dollar problem is finally public. Experts appointed by the company to vet the work say they\u2019ve now verified its artificial-intelligence-generated proof of the \u201cexistence\u201d of the quantum Yang-Mills theory\u2014a vital foundation for the Standard Model of particle physics."
-    },
-    {
-      "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
-      "published": 1794335260.0,
-      "thumbnail": "https://preview.redd.it/f82ig3wwvt0i1.jpeg?width=640&crop=smart&auto=webp&s=5ef4dce567f3401f6065ba32fb4cdbbd7a881378",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/ according to their FAQ, they paid a Unity engineer to help them before resorting to AI, and he could not fix it: https://bigwalk.game/faq/#ai"
-    },
-    {
-      "title": "Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days",
-      "author": "Spirited-Sir-3034",
-      "url": "https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/",
-      "published": 1794321460.0,
-      "thumbnail": "https://external-preview.redd.it/itdDgMjCukXMsZIq1xV1kCuHdqQ3hta_kqfEv2RYzow.jpeg?width=640&crop=smart&auto=webp&s=9d255d426d110befad7b1ba801688618064112aa",
-      "external_url": "https://interestingengineering.com/ai-robotics/anthropic-claude-fable-5-2-operating-system",
-      "site_name": "Interesting Engineering",
-      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
-      "description": "In an internal Anthropic experiment, Claude Fable 5.2 received a basic prompt and an empty project folder, then coordinated more than 1,000 subagents to write, test and review an operating system over eight days. The resulting system reportedly booted on a laptop and included a custom kernel, hardware drivers, persistent file storage, a graphical interface, login screen and installer. Anthropic also says the model designed three functional electronic devices and helped migrate a production service from Python to Rust, reducing startup time by approximately 26 times. These are company-reported results, and Anthropic has not disclosed the project\u2019s total computing cost, human oversight or the operating system\u2019s reliability under broader testing. Is coordinating large groups of specialized agents becoming more important than improving the abilities of a single model?"
-    },
-    {
-      "title": "It wasn't him",
-      "author": "huopak",
-      "url": "https://www.reddit.com/r/artificial/comments/1xu198z/it_wasnt_him/",
-      "published": 1794451316.0,
-      "thumbnail": "https://external-preview.redd.it/czZ4Zmx1ajBoMzFpMeBFFyvFhHrx8DSp6SZkNf-U_DpALE-_ZREZNIqzh2O_.png?width=640&crop=smart&auto=webp&s=8301e293563b5561ee448d3b9fe70e7e834259ec",
-      "external_url": null,
-      "site_name": null,
+      "title": "AI agents are becoming software buyers, and businesses aren't ready",
+      "author": "BakingBreadBB2",
+      "url": "https://www.reddit.com/r/artificial/comments/1xtdzxd/ai_agents_are_becoming_software_buyers_and/",
+      "published": 1794391463.0,
+      "thumbnail": null,
+      "external_url": "https://www.inc.com/hillary-remy/selling-ai-agents-startup-founders-bots-buying-software/91430588",
+      "site_name": "inc.com",
       "favicon": null,
       "description": null
     },
     {
-      "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift for open-source maintainers tired of flood of junk reports",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/",
-      "published": 1794354383.0,
-      "thumbnail": "https://external-preview.redd.it/XXTSp0XtFp5NiXcXJynlEJQvib0J7H37DdEPMg4yjaU.jpeg?width=640&crop=smart&auto=webp&s=ed4420b3f5caea8bd4d215fae2237dd5cb018a23",
-      "external_url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1812257/apple-touch-icon.png",
-      "description": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift"
+      "title": "Powerful open source/open wight AI recommendations",
+      "author": "dendaera",
+      "url": "https://www.reddit.com/r/artificial/comments/1xu6r3y/powerful_open_sourceopen_wight_ai_recommendations/",
+      "published": 1794469392.0,
+      "thumbnail": "https://preview.redd.it/s7icnaosy41i1.png?width=140&height=87&auto=webp&s=4d2d82ebed1e875b62d9c696221c37fe17d7cdbe",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I asked ChatGPT for AI models that are open-source or open-weight powerful is not owned by Meta or a Chinese company It gave me the table below. Does anyone have experience with Mistral Large 4 or can recommend a better or comparable AI that aligns with the three bullets above? (I'm aware government involvement in AI companies isn't unique to China but the CCP makes me especially hesitant to use AI models from there. I'm also suspicious of Meta so I don't want to use Muse Spark.) https://preview.redd.it/s7icnaosy41i1.png?width=1054&format=png&auto=webp&s=907033d076a653ba256562c9f996d0a416320f6e"
     }
   ],
-  "fetched_at": "2026-11-12T02:43:23.780992+00:00"
+  "fetched_at": "2026-11-12T10:42:25.377041+00:00"
 }

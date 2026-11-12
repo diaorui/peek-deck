@@ -37,7 +37,7 @@
       "url": "https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/",
       "hn_url": "https://news.ycombinator.com/item?id=50457760",
       "author": "macroadster",
-      "points": 1,
+      "points": 2,
       "num_comments": 0,
       "created_at": "2026-11-11T19:53:10Z",
       "object_id": "50457760",
@@ -94,7 +94,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50451750",
       "author": "bitcrunching",
       "points": 2,
-      "num_comments": 2,
+      "num_comments": 3,
       "created_at": "2026-11-11T10:24:06Z",
       "object_id": "50451750",
       "image": "https://bitcrunching.com/share.png",
@@ -119,5 +119,5 @@
   ],
   "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-11-12T02:43:25.013955+00:00"
+  "fetched_at": "2026-11-12T10:42:25.282887+00:00"
 }
