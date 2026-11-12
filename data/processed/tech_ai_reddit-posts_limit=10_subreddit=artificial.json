@@ -13,6 +13,17 @@
       "description": "Anthropic's new IPO filing says AI is now accelerating its own research to the point that it's triggering one of the company's key safety alarms."
     },
     {
+      "title": "Republican Senator Josh Hawley backs nationwide data center moratorium",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xtx3n9/republican_senator_josh_hawley_backs_nationwide/",
+      "published": 1794439673.0,
+      "thumbnail": "https://preview.redd.it/5jsejz0di21i1.jpeg?width=640&crop=smart&auto=webp&s=71b80c4ac6f5378950230c47e6459b9e88d90f49",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://www.politico.com/live-updates/2026/11/11/congress/hawley-backs-nationwide-data-center-moratorium-01161019 FYI: A Harvard + UPenn study finds that data centers were responsible for just 4 percent of the utility rate increases over the last five years. https://archive.is/JRlsn >Last year, research from the Brattle Group and Lawrence Berkeley National Laboratory found that data centers were actually decreasing costs in certain regions. And another study by the Electric Power Research Institute found that a doubling of data center capacity between 2019 and 2024 resulted in a 4 percent drop in home electricity prices. >\u201cSo far we have no evidence that data centers increase prices all that much,\u201d Netessine said. Instead, he said, prices are rising due to more quotidian factors: rising gas prices, an aging electricity grid, and wildfires and hurricanes requiring improvements to the grid and recovery after disaster. >Most of the cost of generating and delivering electricity is based on large, up-front capital costs, such as the costs to build power plants, wires and transmission lines to carry that power into homes. Some areas of the United States also have excess \u201ccapacity\u201d in the grid \u2014 meaning that the grid is overbuilt for the actual demand. In those areas, adding a data center means that large fixed grid costs are spread over more consumers. That could lower prices. The new Harvard and Penn study found a slightly higher impact on industrial electricity prices \u2014 the price paid by manufacturers and large facilities. For those customers, data centers were responsible for 15 percent of the price increase between 2020 and 2025. But for ordinary Americans, Netessine said, the changes simply were not substantial. Higher electricity usage is not correlated with price increases as the data centers pay for fixed maintenance costs. see slide 50 https://eta-publications.lbl.gov/sites/default/files/2026-03/retail_price_trends_2026_edition.pdf And companies building out their own nuclear power Meta https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/ Microsoft https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai Google https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx Anthropic https://www.anthropic.com/news/covering-electricity-price-increases OpenAI https://openai.com/index/grid-protectors-program/ No significant environmental damage https://blog.andymasley.com/p/a-short-summary-of-my-argument-that Data centers don\u2019t actually make much noise and it\u2019s almost impossible to hear unless you\u2019re right next to it https://fixupx.com/RuffBuffet/status/2095312629027803508 Even xAI\u2019s massive data center in Memphis barely impacts local air quality https://theconversation.com/air-quality-analysis-reveals-minimal-changes-after-xai-data-center-opens-in-pollution-burdened-memphis-neighborhood-265152"
+    },
+    {
       "title": "GPU Companies built everything on the back of gamers, and now gamers cannot afford them.",
       "author": "ark_forever",
       "url": "https://www.reddit.com/r/artificial/comments/1xtbbsx/gpu_companies_built_everything_on_the_back_of/",
@@ -46,6 +57,17 @@
       "description": "Businesses in the UK incur \u00a33.8 billion annually in technology infrastructure overspend, with the biggest culprit being AI spending."
     },
     {
+      "title": "OpenAI\u2019s \u2018shepherds\u2019 affirm blockbuster physics result",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1xtk09r/openais_shepherds_affirm_blockbuster_physics/",
+      "published": 1794409400.0,
+      "thumbnail": "https://external-preview.redd.it/Op1x69dAYgpup0ftCcPop0WvNeH-xz7eioIRYLPcDYc.jpeg?width=640&crop=smart&auto=webp&s=384689bfebe833d8438947abd501851b9cf4f412",
+      "external_url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "OpenAI\u2019s progress on another million-dollar problem is finally public. Experts appointed by the company to vet the work say they\u2019ve now verified its artificial-intelligence-generated proof of the \u201cexistence\u201d of the quantum Yang-Mills theory\u2014a vital foundation for the Standard Model of particle physics."
+    },
+    {
       "title": "Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use",
       "author": "Eliv_nurotic",
       "url": "https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/",
@@ -68,26 +90,15 @@
       "description": "In an internal Anthropic experiment, Claude Fable 5.2 received a basic prompt and an empty project folder, then coordinated more than 1,000 subagents to write, test and review an operating system over eight days. The resulting system reportedly booted on a laptop and included a custom kernel, hardware drivers, persistent file storage, a graphical interface, login screen and installer. Anthropic also says the model designed three functional electronic devices and helped migrate a production service from Python to Rust, reducing startup time by approximately 26 times. These are company-reported results, and Anthropic has not disclosed the project\u2019s total computing cost, human oversight or the operating system\u2019s reliability under broader testing. Is coordinating large groups of specialized agents becoming more important than improving the abilities of a single model?"
     },
     {
-      "title": "OpenAI\u2019s \u2018shepherds\u2019 affirm blockbuster physics result",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtk09r/openais_shepherds_affirm_blockbuster_physics/",
-      "published": 1794409400.0,
-      "thumbnail": "https://external-preview.redd.it/Op1x69dAYgpup0ftCcPop0WvNeH-xz7eioIRYLPcDYc.jpeg?width=640&crop=smart&auto=webp&s=384689bfebe833d8438947abd501851b9cf4f412",
-      "external_url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "OpenAI\u2019s progress on another million-dollar problem is finally public. Experts appointed by the company to vet the work say they\u2019ve now verified its artificial-intelligence-generated proof of the \u201cexistence\u201d of the quantum Yang-Mills theory\u2014a vital foundation for the Standard Model of particle physics."
-    },
-    {
-      "title": "Blind test of 32 ElevenLabs Voice Library voices for audiobooks (125 paid listeners, 1,122 judgments): \"professional\" voices no better than instant clones, popularity predicts nothing, louder voices win",
-      "author": "antiochIst",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtuiq3/blind_test_of_32_elevenlabs_voice_library_voices/",
-      "published": 1794433213.0,
-      "thumbnail": null,
+      "title": "It wasn't him",
+      "author": "huopak",
+      "url": "https://www.reddit.com/r/artificial/comments/1xu198z/it_wasnt_him/",
+      "published": 1794451316.0,
+      "thumbnail": "https://external-preview.redd.it/czZ4Zmx1ajBoMzFpMeBFFyvFhHrx8DSp6SZkNf-U_DpALE-_ZREZNIqzh2O_.png?width=640&crop=smart&auto=webp&s=8301e293563b5561ee448d3b9fe70e7e834259ec",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "We needed a defensible way to pick narrator voices from the Voice Library (5,000+ English narration voices, no quality signal), so we ran a paid blind test. Setup: 32 voices stratified across gender, age, accent, tier (professional vs instant clone) and usage; the same 30-second first-person nonfiction passage; identical eleven_v4 settings for every voice; 128 pairs in a connected design; 125 paid US listeners, 1,122 forced-choice judgments; no listener heard any voice more than twice. Results: Marie - Audiobook Narrator and Measured finished first (66% of pairings won, 95% CI 55\u201376). Alder - Warm, Raspy and Comforting finished last (24%). The top eight overlap and can't be ordered. The \"professional\" badge told listeners nothing. Studio-recorded PVC voices won 46% of 649 head-to-head pairs against instant clones. Popularity predicts nothing. Usage from under 1M to nearly 1B characters/year; coefficient zero. Adam and Bill Oxley finished 16th and 13th. Loudness matters. These voices ship up to 15 dB apart and we deliberately did not normalise (you get what the voice ships at). The louder clip won 54% of pairs; the quietest voice finished last. \"Old\"-tagged voices lose, mostly female ones: young female voices won 58% of pairings, old female 43%. Male voices barely move with age. Gender itself: 49/51. Matching narrator gender to the author has nothing behind it. Calm, measured delivery beat \"expressive\" voices for this kind of text. All 32 clips are playable on the page, and the per-judgment CSV is published. Chart of all 32: https://woodstitch.com/research/og/study004.png Full report with method and limitations (one passage, one setting, sample raised from 3 to 9 judgments per pair after a first look): https://woodstitch.com/research/which-elevenlabs-voice-is-best-for-audiobooks Disclosure: we run Woodstitch, the listening-test platform this was run on. HN thread: https://news.ycombinator.com/item?id=50458929"
+      "description": null
     },
     {
       "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift for open-source maintainers tired of flood of junk reports",
@@ -99,18 +110,7 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1812257/apple-touch-icon.png",
       "description": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift"
-    },
-    {
-      "title": "Nvidia-Backed Fireworks AI Notifies Customers of Its Second Hack in Weeks",
-      "author": "IndependentCoast3974",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtqiah/nvidiabacked_fireworks_ai_notifies_customers_of/",
-      "published": 1794423892.0,
-      "thumbnail": "https://external-preview.redd.it/xs5NrtucgCaom8fXkR_UdNEjQaczx3ERzYUrnzmlkR0.jpeg?width=640&crop=smart&auto=webp&s=71ef2c00b90d6a304b00e6b2e4467117fc263fd1",
-      "external_url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks",
-      "site_name": "bloomberg.com",
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-11-11T21:55:14.618025+00:00"
+  "fetched_at": "2026-11-12T02:43:23.780992+00:00"
 }
