@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-12T18:43:28.541940+00:00'
+updated: '2026-11-12T23:59:18.929318+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 12, 2026 at 18:43 UTC  
+**Last Updated:** November 12, 2026 at 23:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ I modeled the individual parts and built the full assembly using SolidCraft and 
 
 Después de un accidente se han vuelto a construir las piernas. Está vez con encoder y un par de servoblocks en las caderas. Encoders magnéticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad .
 
-7d ago
+8d ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi guys, I need help. I'm trying to make my first autonomous navigating robot wi
 
 Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
 
-8d ago
+9d ago
 
 ---
 
@@ -124,39 +124,17 @@ Google DeepMind • 2d ago
 
 ---
 
-**[2 AI Robotics Stocks That Could Help Set You Up for Life](https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/)**
-
-While AI models and chips take center stage, the AI robotics boom is silently building.
-
-The Motley Fool • 6h ago
-
----
-
-**[Intel: Robotics Is A Key Strategic Focus Going Forward](https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/)**
-
-Forbes • 1d ago
-
----
-
 **[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
 
 An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
 
-WIRED • 22h ago
+WIRED • 1d ago
 
 ---
 
 **[Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation](https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html)**
 
-The New York Times • 12h ago
-
----
-
-**[Meet the founder betting Washington can help him take on China's robot makers](https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11)**
-
-Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US — and he's looking to Washington for help.
-
-Business Insider • 8h ago
+The New York Times • 18h ago
 
 ---
 
@@ -164,29 +142,53 @@ Business Insider • 8h ago
 
 Japanese researchers are teaching AI-powered robots to navigate the Moon and build infrastructure for the future.
 
-BBC • 8h ago
+BBC • 13h ago
 
 ---
 
-**[PRISM helps robots move better by learning how forces and motion interact](https://techxplore.com/news/2026-11-prism-robots-motion-interact.html)**
+**[Meet the founder betting Washington can help him build America's robotics giant](https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11)**
 
-Tech Xplore • 1d ago
+Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US — and he's looking to Washington for help.
 
----
-
-**[Can AI agents program industrial robots without training data? Berkeley says yes](https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/)**
-
-UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs.
-
-The Robot Report • 1d ago
+Business Insider • 13h ago
 
 ---
 
-**[NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust](https://www.eetimes.com/nxp-cto-lars-reger-on-physical-ai-robots-drones-and-trust/)**
+**[2 AI Robotics Stocks That Could Help Set You Up for Life](https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/)**
 
-NXP CTO Lars Reger on physical AI at electronica 2026: NavQ95 gets robots and drones running in 30 minutes, plus security and RISC-V.
+While AI models and chips take center stage, the AI robotics boom is silently building.
 
-EE Times • 22h ago
+The Motley Fool • 12h ago
+
+---
+
+**[The PLA’s Push for Military Robotics](https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/)**
+
+Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People’s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing’s military robotics ambitions.
+
+CSET | Center for Security and Emerging Technology • 1d ago
+
+---
+
+**[We’re Adding to Our Robotics Holding](https://pro.thestreet.com/portfolio/were-adding-to-our-robotics-holding)**
+
+Third-quarter industry data and moves by Walmart, Amazon and D.R. Horton prompt our move.
+
+RealMoney Pro • 6h ago
+
+---
+
+**[Ring announces Ring Robotics, ushering in a new era of security](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)**
+
+Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.
+
+About Amazon • 2d ago
+
+---
+
+**[GXO Doubles Down On Humanoids With Plan For Up To 1,000 Apptronik Robots](https://www.forbes.com/sites/johnkoetsier/2026/11/12/gxo-doubles-down-on-humanoids-with-plan-for-up-to-1000-apptronik-robots/)**
+
+Forbes • 11h ago
 
 ---
 
@@ -200,7 +202,17 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 185K • 👍 3K • 💬 132 • ⏱️ 8:25 • 3d ago
+👁️ 193K • 👍 3K • 💬 132 • ⏱️ 8:25 • 3d ago
+
+---
+
+**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+
+A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+
+📺 NBC News
+
+👁️ 31K • 👍 89 • 💬 36 • ⏱️ 1:56 • 1d ago
 
 ---
 
@@ -210,7 +222,7 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The AI Nexus
 
-👁️ 39K • 👍 449 • 💬 61 • ⏱️ 15:41 • 2d ago
+👁️ 40K • 👍 454 • 💬 61 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -220,17 +232,7 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 197K • 👍 3K • 💬 450 • ⏱️ 15:13 • 6d ago
-
----
-
-**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
-
-Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
-
-📺 Imagination in Action
-
-👁️ 14K • 👍 118 • 💬 22 • ⏱️ 37:09 • 1d ago
+👁️ 199K • 👍 3K • 💬 454 • ⏱️ 15:13 • 6d ago
 
 ---
 
@@ -240,7 +242,27 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 26K • 👍 1K • 💬 42 • ⏱️ 1:44 • 5d ago
+👁️ 26K • 👍 1K • 💬 42 • ⏱️ 1:44 • 6d ago
+
+---
+
+**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
+
+Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
+
+📺 Imagination in Action
+
+👁️ 14K • 👍 120 • 💬 22 • ⏱️ 37:09 • 2d ago
+
+---
+
+**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
+
+Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
+
+📺 Nexio Core
+
+👁️ 53K • 💬 13 • ⏱️ 0:06 • 2d ago
 
 ---
 
@@ -250,7 +272,7 @@ War Robots Gameplay: Manni FINALLY gets UE VORTEX and UE Ravana! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 37K • 👍 1K • 💬 192 • ⏱️ 36:34 • 1d ago
+👁️ 39K • 👍 1K • 💬 202 • ⏱️ 36:34 • 1d ago
 
 ---
 
@@ -260,17 +282,7 @@ What if my tiny walking robot could transform into a fully functioning drone? We
 
 📺 Dorian Todd
 
-👁️ 53K • 👍 1K • 💬 52 • ⏱️ 14:42 • 3d ago
-
----
-
-**[Forget the Hype! China&#39;s Robots Are Already Working!](https://www.youtube.com/watch?v=69slpmQhg8E)**
-
-China's robot revolution isn't something that's coming in the future — it's already happening! Here in Shenzhen, robots are ...
-
-📺 Barrett
-
-👁️ 70K • 👍 243 • 💬 20 • ⏱️ 13:20 • 4d ago
+👁️ 55K • 👍 1K • 💬 53 • ⏱️ 14:42 • 3d ago
 
 ---
 
@@ -280,15 +292,7 @@ LAST MONTH: Toyota won the Red Dot: Luminary top concept prize in Singapore for 
 
 📺 Bradford Manning
 
-👁️ 16K • 👍 547 • 💬 18 • ⏱️ 1:10 • 2d ago
-
----
-
-**[Comment “adult” if you want one😂 #robots #toys #gamer](https://www.youtube.com/watch?v=Cl8hGRWR1X8)**
-
-📺 RoboBlasters
-
-👁️ 245K • 👍 2K • 💬 27 • ⏱️ 0:21 • 2d ago
+👁️ 17K • 👍 552 • 💬 19 • ⏱️ 1:10 • 2d ago
 
 ---
 
