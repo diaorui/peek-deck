@@ -5,41 +5,11 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "United Airlines Blocks A.I. Agents From Booking Flights on Customers\u2019 Behalf",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTVycnZoZS1nNU50eTQ2MGY3RUdNOXpTbi1vRGlWT2VsUTZ0QW1sYnY0amNTdjFDcW9zZ0NuVU5ua0dvS2VFUURrb3IxVGZBVk1lbjJUOExtQWl2a28teDB5RDkzdUJ1RFhwNkJqSTdEZTJTR3Q1X3plUnpSbndiTG9WV0pMMEx0UzRUMmpZcFZpSnJn?oc=5",
-      "pub_date": 1794438931.0,
-      "article_url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "United Airlines blocks AI agents from booking flights",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5",
-      "pub_date": 1794505721.0,
-      "article_url": "https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NBUIZZXZ34PFNYJWD3GDBCVJXE.JPG&w=1440",
-      "description": "The airline said the use of artificial intelligence agents could violate regulations."
-    },
-    {
-      "headline": "Exclusive | United Airlines Is Banning AI Bots From Booking Flights",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmJHb3JWSEhmc1BHMWxtalktN2E1bHZPZkN4dFRDT2dfVGFSLTNLRktaUXphdHVkZm9JT0dWTG5PamFFLUxTNlVGS01GVm5EYllERWRTSE9RQVBPNWNjWmNuWmZFdTJKNzFHZmRBS3VYT3JtYUwyWnNoQTE5Q09wNVh0R1lqanZubEU0VmdhSmZ2OUNXaVdR?oc=5",
-      "pub_date": 1794436980.0,
-      "article_url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia CEO Jensen Huang resigns, in blow to AI boom he helped foster",
+      "headline": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
-      "pub_date": 1794508315.0,
+      "pub_date": 1794516415.0,
       "article_url": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/",
       "image": null,
       "description": null
@@ -55,56 +25,86 @@
       "description": "Today, we\u2019re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows"
     },
     {
-      "headline": "SpaceX Announces $74 Billion AI Data-Center Expansions In Texas, Arizona",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFhoUmZPdDBKWHFJb0hYV0lhUmdSOV9oOFZDUnVxYm4yRENUUEpLeUY5NnJsSXFScFl2MXpSSmRxdzktOC14cmNfNERPT09UbmMwaUdIbHVpbnloOFg1QjZfNVkzZG1MRk9iNmFRVURpUGFVUmU2RkNlS19neXpNazREMUdFNFJRR0cyMlpETEIzT0ptLWtGZEZKOTBFZDl0eW5Qa3V3?oc=5",
-      "pub_date": 1794508800.0,
-      "article_url": "https://www.investors.com/news/spacex-stock-ai-data-center-projects-74-billion-texas-arizona-elon-musk/",
-      "image": "https://www.investors.com/wp-content/uploads/2026/11/stock-spaceX-Hawthorne-adobe.jpg",
-      "description": "SpaceX on Thursday announced plans to invest $74 billion to build new AI data center facilities in Texas, Arizona. SPCX stock rises."
+      "headline": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nd0pKdEtsZnJ6UWhKZlR1dUJNV2UwUDRLSHdfVExwQUhNb3hnLW1vYzFuRWRMNlM1dk53dHZyM3pqQXB6Uy1lNlhQc251N2gyVXdxdEFIMUN0X0hadFdZc0ZCMGNkRnVKYVJCMERNdw?oc=5",
+      "pub_date": 1794525923.0,
+      "article_url": "https://www.cbsnews.com/news/advocacy-groups-sue-ai-companies/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/12/a5d9a099-9ab9-4ab5-99ba-89f578872070/thumbnail/1200x630/ee21a744dc3b357292f27e27a8a15013/gettyimages-2291918897.jpg",
+      "description": "Companies including Anthropic, Meta and OpenAI are knowingly building technology that poses catastrophic risks to humanity, nonprofit groups claim in a lawsuit."
+    },
+    {
+      "headline": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
+      "pub_date": 1794515749.0,
+      "article_url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
+      "pub_date": 1794522240.0,
+      "article_url": "https://www.politico.com/news/2026/11/12/nonprofits-sue-ai-companies-over-existential-risk-01161965",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI-powered lung cancer atlas identifies cell types linked to higher risk of spread",
+      "source": "Medical Xpress",
+      "source_url": "https://medicalxpress.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MckpoTk1FWDk4QW4yaFoyV1BDMDVOMmxCOGFydDkwcU9RclhQV1N5M2hxXzZ6dk1zOEZTcVNUVk5TMDQ0MTFDcmpCS2lzemRDT3A4a0x5cU9MNGhhT19aYnJsRUIxWjFxZ2tKMDVhOHdBaktMbS1SRkVjN0k?oc=5",
+      "pub_date": 1794524405.0,
+      "article_url": "https://medicalxpress.com/news/2026-11-ai-powered-lung-cancer-atlas.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "United Airlines blocks AI agents from booking flights",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5",
+      "pub_date": 1794515400.0,
+      "article_url": "https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NBUIZZXZ34PFNYJWD3GDBCVJXE.JPG&w=1440",
+      "description": "The airline said the use of artificial intelligence agents could violate regulations."
+    },
+    {
+      "headline": "United Airlines Blocks A.I. Agents From Booking Flights on Customers\u2019 Behalf",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTVycnZoZS1nNU50eTQ2MGY3RUdNOXpTbi1vRGlWT2VsUTZ0QW1sYnY0amNTdjFDcW9zZ0NuVU5ua0dvS2VFUURrb3IxVGZBVk1lbjJUOExtQWl2a28teDB5RDkzdUJ1RFhwNkJqSTdEZTJTR3Q1X3plUnpSbndiTG9WV0pMMEx0UzRUMmpZcFZpSnJn?oc=5",
+      "pub_date": 1794438931.0,
+      "article_url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "United Airlines won\u2019t let AI agents book your flight. Expert says you shouldn't let a bot do that for you, anyway",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1idkM0RUExSkNDUS02X2NMMWJKX3Z2NlVISVZpbE1RWjRfN1FoZ2h2MXNTeDRJS0RJSE5ZejZXY1Y1NDFRbV9xZ3o3a0E3US1QQ0xzelBma2pSZnhYd2RNbktwZ3lvN0pYYVRURWQ3MFZOSjFXUHJV0gF8QVVfeXFMT2NUQTdWSVRuYnl3cDlfSWc1U1Vsemk0Z254RzVwZkd3a1ZQdFlkME1MNWZDTEVxV2RPTWViMnZPZ1l3YlZNX2d0dFRhbXJWNUVPRWF5eElxY0dtaUdRODkxc1BFSGZ5b2tTXzNxSnRaTmFDQUpidy0xQzJDaw?oc=5",
+      "pub_date": 1794515099.0,
+      "article_url": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354100-1787685448125-gettyimages-2291484368-UNITED_NEWARK.jpeg?v=1794514770&w=1920&h=1080",
+      "description": "AI agents can save you time, but an expert says decisions involving your health, wealth and privacy still need human input."
     },
     {
       "headline": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5",
-      "pub_date": 1794502125.0,
+      "pub_date": 1794515004.0,
       "article_url": "https://www.reuters.com/business/media-telecom/spacex-invest-over-74-billion-supercompute-facilities-texas-arizona-2026-11-12/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "SpaceX plans more than $74 billion in AI supercomputing sites",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00dWQtOGRIVG9ubjdzcDRhNGVWb1RibFp5aExaSEVaQXVnZkhrTTFHTjFMMG04TWdwSm1fMzVSb0FRNjFzQjlrbmZUVzk5QTZXbjBYY0lyNnNoYW9DWkZHRWc2X1JEMVo1STJBYk5CdVRpNmY0aDZyMVgzQQ?oc=5",
-      "pub_date": 1794508781.0,
-      "article_url": "https://qz.com/spacex-74-billion-ai-supercomputing-texas-arizona-111226",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2270727188-300x200.jpg",
-      "description": "SpaceX said the Arizona campus carries a planned investment of about $50 billion, with up to $24 billion for the Texas site near Starbase"
-    },
-    {
-      "headline": "Adobe Just Changed Content Creation Forever. Here\u2019s How to Stand Out in the Age of AI",
-      "source": "Inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnhVMVJMM3U2U2hTa0luem0yNFRycEEyWnZ1NFNBZlM1ZVVET3RuSjZ3MXRxeTF6MmVfVjJibS02TXpPU1g5OTJ2TWRHcFFXZU9jalVpSGJPQnlnQ2NtbUx0dl94OE9LYk05Qk5QYmNpdHNVa3ZjalBsTklVbnlCN1FDdE1TcWt3cEp0Y1ZjUXBma2s?oc=5",
-      "pub_date": 1794507476.0,
-      "article_url": "https://www.inc.com/nicole-ramirez/adobe-max-creative-agents-ai-content-creation/91435490",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/11/adobe-max-ai-perspective-inc-213634510.jpg",
-      "description": "Adobe's latest AI agents handle the heavy lifting of production. Discover why your unique point of view matters more than ever."
-    },
-    {
-      "headline": "Opinion | The internet won\u2019t necessarily go dark. It could simply stop working.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDRWeDgySlpmMWUxZXYyR09XUEhOb0EwTnVVUVpoWnEyNDdYd1BBekZVUXk0R2x0VW5kTEgtMnkzUzV5WGtBcWFmWDZZTzhFS2xmYzNrVkIyWVg1UGZWeWFJeTNMalF2RVFZR2VyN1FLb2kwMFJzMFZ2OFU4TXBCT2hNYm9IZ29SRDRSbHRzTHh6WGxiUHVfOUdwSGx4Mm5SRlRDNGRBUmJWUQ?oc=5",
-      "pub_date": 1794508343.0,
-      "article_url": "https://www.washingtonpost.com/opinions/2026/11/12/ai-is-exposing-internets-cybersecurity-vulnerabilities/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OVMLILRC5BFJNHKKF6O3S6Y7QY.jpg&w=1440",
-      "description": "AI is exposing decades of software shortcuts. They need fixing before hackers exploit the weaknesses."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T18:43:22.248617+00:00"
+  "fetched_at": "2026-11-12T23:59:11.846729+00:00"
 }

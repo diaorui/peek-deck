@@ -101,9 +101,23 @@
       "description": null,
       "favicon": null,
       "site_name": "wsj.com"
+    },
+    {
+      "title": "Fusee. Embeddable durable execution at the speed of the disk",
+      "url": "https://www.bitsinfra.com/fusee",
+      "hn_url": "https://news.ycombinator.com/item?id=50474532",
+      "author": "shawkisukkar",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-12T21:27:10Z",
+      "object_id": "50474532",
+      "image": "https://www.bitsinfra.com/apple-touch-icon.png",
+      "description": "Fusee is an open-source durable execution engine for Rust, TypeScript, Python, Go and Java. Workflows are ordinary async code, and each step costs about one disk write.",
+      "favicon": "https://www.bitsinfra.com/apple-touch-icon.png",
+      "site_name": "The Bits Infrastructure Company"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-11-12T18:42:55.966044+00:00"
+  "fetched_at": "2026-11-12T23:58:47.294676+00:00"
 }

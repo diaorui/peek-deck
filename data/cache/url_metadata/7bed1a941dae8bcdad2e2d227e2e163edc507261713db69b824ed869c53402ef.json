@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-12T23:58:47.294472+00:00",
+  "data": {
+    "url": "https://www.bitsinfra.com/fusee",
+    "title": "Fusee \u00b7 The Bits Infrastructure Company",
+    "description": "Fusee is an open-source durable execution engine for Rust, TypeScript, Python, Go and Java. Workflows are ordinary async code, and each step costs about one disk write.",
+    "image": "https://www.bitsinfra.com/apple-touch-icon.png",
+    "favicon": "https://www.bitsinfra.com/apple-touch-icon.png",
+    "site_name": "The Bits Infrastructure Company",
+    "author": null,
+    "keywords": null
+  }
+}

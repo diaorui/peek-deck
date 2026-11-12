@@ -15,26 +15,6 @@
       "description": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments."
     },
     {
-      "headline": "2 AI Robotics Stocks That Could Help Set You Up for Life",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE4xSVpReDNHbWNmSUZjVXNSWjZjekpsdnd6WVBQWW1mc19majZvWHBFVXFYaC1pQWY4bVVoVzZlZXNyN1JfQ3pXcnhqUGkwQzFNc3RVbkVDZ2lmSjd5YVNxVnhhMFZlUEp1eEJIb19wb3hsc3FLSVFjNGJsSlAteGY3NXFGNmJkUHNfU3F6LUhMNFlSc1hQTQ?oc=5",
-      "pub_date": 1794484500.0,
-      "article_url": "https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892868%2Fgettyimages-1515913422-1200x800-5b2df79.jpg&w=1200&op=resize",
-      "description": "While AI models and chips take center stage, the AI robotics boom is silently building."
-    },
-    {
-      "headline": "Intel: Robotics Is A Key Strategic Focus Going Forward",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0I0MXJtV3Z6eTc0aGNSNDZKN3dvMnUxcHdUekJGSk1rcEdEekhUUzA0eGRRTVR3V0pMOXRtV3RFa29YaWpUYTdlc19wMGUxRGtwWnBSZFlnNnJUSTBxM3F0UXlibmJha1RmMDgzU0hwOEN5OHAxR1VvSVE4Ni1lejFmRkRjanJXVlJuTVRlaGd3U3NpUEhtZTFjQy1OMm0zVVlFbDdMVnk?oc=5",
-      "pub_date": 1794396633.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
       "source": "WIRED",
       "source_url": "https://www.wired.com",
@@ -55,16 +35,6 @@
       "description": null
     },
     {
-      "headline": "Meet the founder betting Washington can help him take on China's robot makers",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1A2eE5YSkdBb216NnVjcF9MWnQ5ZHQxSTNiNmpHYlZqRU9tWkI1d0VqZWtlMVpwc1ByOVhyS2EtTEFZNzU2SHN1WVV0dWRVeFlFeFJrOEJSQjh4SHNXa2p5N012NnVCLW4yZUtOdWNOdHhrQXZpNHBQdHk1a21xb21aRjhrbm5DUkRyVkxwbTBzcmFVVlJMZ3RwaXNuTms0MUU0WQ?oc=5",
-      "pub_date": 1794477600.0,
-      "article_url": "https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11",
-      "image": "https://i.insider.com/6af38c88a96052a81c349b1b?width=1200&format=jpeg",
-      "description": "Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US \u2014 and he's looking to Washington for help."
-    },
-    {
       "headline": "Japan's AI robots are preparing for life on the Moon",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -75,36 +45,66 @@
       "description": "Japanese researchers are teaching AI-powered robots to navigate the Moon and build infrastructure for the future."
     },
     {
-      "headline": "PRISM helps robots move better by learning how forces and motion interact",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5ZXdnMk1NT1pnUkREdUhod1I1MGU1YWNFeVBIWE92bXg3amRBT2RrOUplekdmanc0MHVpemlhMWw2N083Wms3YjZweE95NDNkREdLWkR0b0lCYXlXeGxHOTQ0bTlTWEFOYXY0VnlaVFZWWl8zX1l3Zw?oc=5",
-      "pub_date": 1794416401.0,
-      "article_url": "https://techxplore.com/news/2026-11-prism-robots-motion-interact.html",
+      "headline": "Meet the founder betting Washington can help him build America's robotics giant",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1A2eE5YSkdBb216NnVjcF9MWnQ5ZHQxSTNiNmpHYlZqRU9tWkI1d0VqZWtlMVpwc1ByOVhyS2EtTEFZNzU2SHN1WVV0dWRVeFlFeFJrOEJSQjh4SHNXa2p5N012NnVCLW4yZUtOdWNOdHhrQXZpNHBQdHk1a21xb21aRjhrbm5DUkRyVkxwbTBzcmFVVlJMZ3RwaXNuTms0MUU0WQ?oc=5",
+      "pub_date": 1794477600.0,
+      "article_url": "https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11",
+      "image": "https://i.insider.com/6af38c88a96052a81c349b1b?width=1200&format=jpeg",
+      "description": "Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US \u2014 and he's looking to Washington for help."
+    },
+    {
+      "headline": "2 AI Robotics Stocks That Could Help Set You Up for Life",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE4xSVpReDNHbWNmSUZjVXNSWjZjekpsdnd6WVBQWW1mc19majZvWHBFVXFYaC1pQWY4bVVoVzZlZXNyN1JfQ3pXcnhqUGkwQzFNc3RVbkVDZ2lmSjd5YVNxVnhhMFZlUEp1eEJIb19wb3hsc3FLSVFjNGJsSlAteGY3NXFGNmJkUHNfU3F6LUhMNFlSc1hQTQ?oc=5",
+      "pub_date": 1794484500.0,
+      "article_url": "https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892868%2Fgettyimages-1515913422-1200x800-5b2df79.jpg&w=1200&op=resize",
+      "description": "While AI models and chips take center stage, the AI robotics boom is silently building."
+    },
+    {
+      "headline": "The PLA\u2019s Push for Military Robotics",
+      "source": "CSET | Center for Security and Emerging Technology",
+      "source_url": "https://cset.georgetown.edu",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0dZWGFERUoyOWZOSnd3TzZhRVdnbW1UZzVkSENCalVNUEk1UjlQUW0xTGtGTjJnVE1mMThtX1NCeFFVZEpDYWhmT1ZUNXc2eWtJZUNCOGZHR19QY01QeG0xc1V4N0VNM1lfd0ZlQ3d5TFlXdnduUU9NN1RxNVlGQWF3?oc=5",
+      "pub_date": 1794400804.0,
+      "article_url": "https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/",
+      "image": "https://cset.georgetown.edu/wp-content/uploads/The-PLAs-Push-for-Military-Robotics_Social-Media-Card-700x366.png",
+      "description": "Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People\u2019s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing\u2019s military robotics ambitions."
+    },
+    {
+      "headline": "We\u2019re Adding to Our Robotics Holding",
+      "source": "RealMoney Pro",
+      "source_url": "https://pro.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jQTByS0d3ZWJZMkJIa09qdlpwTl9KcGdBVWF6dFAzLW5sMVlGNGlPdlpxTDFkZEZ5V1g1VEMzTUZhMWdMU0ptTXA4WjJweG1EU1YySzFSVVdyTEdFT3dDYlM5aTlCMk5OMGNxN0J6WlNsXzF6ZXFpeHdDSQ?oc=5",
+      "pub_date": 1794505020.0,
+      "article_url": "https://pro.thestreet.com/portfolio/were-adding-to-our-robotics-holding",
+      "image": "https://wp.thestreetpro.com/wp-content/uploads/2026/06/6-2-26-buy-stock.jpg",
+      "description": "Third-quarter industry data and moves by Walmart, Amazon and D.R. Horton prompt our move."
+    },
+    {
+      "headline": "Ring announces Ring Robotics, ushering in a new era of security",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
+      "pub_date": 1794317162.0,
+      "article_url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
+      "image": "https://assets.aboutamazon.com/dims4/default/b73122b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F07%2Fc1%2F82d8a1204627a837d203c57dd918%2Fring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
+      "description": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it."
+    },
+    {
+      "headline": "GXO Doubles Down On Humanoids With Plan For Up To 1,000 Apptronik Robots",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObW01STRBOHJNWjdIdDhmWlVLSEtWbm1vRjRNa1VPNW93REhQNk15QVN6YnhwWWYwblZlTnNCVHIxUzJoeUlKMmlBMDhJNy1fWTZYc0FqUnFDTDRzdUFtRWxDT2RyXzZUbWpzSnMyTHlwLTRfWUhzTTRMS2Q3Rk1SVXc2RDlsblBTYXo0Q3BZWVVJYjAxeHJJVjMxTkRhbEo3UjNEc0U5SnI3QURCdzhvdWVxV0RocnVxbmdYeUJDVkNkVjA?oc=5",
+      "pub_date": 1794488079.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/12/gxo-doubles-down-on-humanoids-with-plan-for-up-to-1000-apptronik-robots/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Can AI agents program industrial robots without training data? Berkeley says yes",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSi1ncmhKMndUQ2tsOFpsV2JUZElxRWtlcFBoZ2FrSVhUVTFuOXo2YlFWUi13SE4wRVdLcU5ZOHRwbFExd2tZUGZDejYzbFJZN0hXNUdCaUFJUXJpSUxWSGYycXREd1VBNU53a0p6TmlVMWt4cnhwdnJXdlBhR2s5NkloeExMS2R6WjhqTllzUUZHenc5cV9qUHZuZkUzWlFkSUdXOU1PNVlQeG9lZTBISA?oc=5",
-      "pub_date": 1794401969.0,
-      "article_url": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/robosimstudio.jpg",
-      "description": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs."
-    },
-    {
-      "headline": "NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust",
-      "source": "EE Times",
-      "source_url": "https://www.eetimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTZ5d2VqNmF4ZUF5U0xNc0Fwal9vS29RWmpQc0RqSEhQWVI5cHhjS1p4Ym4zYXFRbExqV1hRSEt6M0c1LXhBOUhHMXdreHpPWGNOY2d2M2FTMlpQNlhJR09QUDdfUUpGRzBUTGo4X2E4VXRJVnJLSWxHSzgyWXBEdDMxNDZZVEJ3OFE?oc=5",
-      "pub_date": 1794428660.0,
-      "article_url": "https://www.eetimes.com/nxp-cto-lars-reger-on-physical-ai-robots-drones-and-trust/",
-      "image": "https://www.eetimes.com/wp-content/uploads/Screenshot-2026-11-11-152131.png?resize=1200,675",
-      "description": "NXP CTO Lars Reger on physical AI at electronica 2026: NavQ95 gets robots and drones running in 30 minutes, plus security and RISC-V."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T18:43:17.613219+00:00"
+  "fetched_at": "2026-11-12T23:59:09.701619+00:00"
 }

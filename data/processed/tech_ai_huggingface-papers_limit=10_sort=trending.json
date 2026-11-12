@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2609.18063",
       "arxiv_url": "https://arxiv.org/abs/2609.18063",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 29,
+      "upvotes": 30,
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2610.22732",
       "arxiv_url": "https://arxiv.org/abs/2610.22732",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22732.png",
-      "upvotes": 15,
+      "upvotes": 16,
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-11-08T19:00:00.000Z",
       "github_repo": "https://github.com/Robbyant/lingbot-touch",
-      "github_stars": 304,
+      "github_stars": 367,
       "project_page": "https://technology.robbyant.com/lingbot-touch"
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 3,
       "published_at": "2026-11-05T19:00:00.000Z",
       "github_repo": "https://github.com/facebookresearch/faiss",
-      "github_stars": 41478,
+      "github_stars": 41525,
       "project_page": "https://e-means.github.io/"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 93304,
+      "github_stars": 93341,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-12T18:43:05.148486+00:00"
+  "fetched_at": "2026-11-12T23:58:55.917325+00:00"
 }
