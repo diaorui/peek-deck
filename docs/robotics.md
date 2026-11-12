@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-11T21:55:44.930064+00:00'
+updated: '2026-11-12T02:44:02.321440+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 11, 2026 at 21:55 UTC  
+**Last Updated:** November 12, 2026 at 02:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Después de un accidente se han vuelto a construir las piernas. Está vez con en
 
 I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
 
-6d ago
+7d ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi guys, I need help. I'm trying to make my first autonomous navigating robot wi
 
 Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
 
-7d ago
+8d ago
 
 ---
 
@@ -124,15 +124,49 @@ Google DeepMind • 1d ago
 
 ---
 
-**[Intel: Robotics Is A Key Strategic Focus Going Forward](https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/)**
+**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
 
-Forbes • 10h ago
+An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
+
+WIRED • 6h ago
 
 ---
 
-**[Europe can compete in robotics and physical AI, top chipmaker CEOs say](https://www.reuters.com/business/europe-can-compete-robotics-physical-ai-top-chipmaker-ceos-say-2026-11-10/)**
+**[Intel: Robotics Is A Key Strategic Focus Going Forward](https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/)**
 
-Reuters • 1d ago
+Forbes • 15h ago
+
+---
+
+**[Can AI agents program industrial robots without training data? Berkeley says yes](https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/)**
+
+UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs.
+
+The Robot Report • 13h ago
+
+---
+
+**[The PLA’s Push for Military Robotics](https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/)**
+
+Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People’s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing’s military robotics ambitions.
+
+CSET | Center for Security and Emerging Technology • 14h ago
+
+---
+
+**[Praxis-1 Is Now Available](https://runway.com/news/company-news/praxis-1-is-now-available)**
+
+Runway Praxis-1, our open-weight world action model for robotics, is now available under Apache 2.0. Download the weights on Hugging Face and GitHub.
+
+Runway • 11h ago
+
+---
+
+**[Eric Trump-backed firm in talks to send humanoid robots into Hamas tunnels](https://www.telegraph.co.uk/us/news/2026/11/11/trump-humanoid-robots-hamas-tunnels/)**
+
+IDF expected to purchase up to 1,000 from Foundation Future Industries where president’s son is adviser
+
+The Telegraph • 7h ago
 
 ---
 
@@ -144,43 +178,11 @@ About Amazon • 1d ago
 
 ---
 
-**[Ring unveils AI-enabled home security drones, robots](https://nypost.com/2026/11/10/business/ring-unveils-flying-drones-and-rolling-robots-for-homes-and-businesses/)**
+**[How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/)**
 
-Security camera company Ring on Tuesday unveiled flying drones and wheeled robots designed to monitor homes and businesses.
+Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.
 
-New York Post • 1d ago
-
----
-
-**[Amazon's 'Ring Robotics' debuts: Rover and Drone Cam patrol with sirens](https://tech.yahoo.com/home/articles/amazons-ring-robotics-debuts-rover-191506357.html)**
-
-Amazon's Ring Robotics unveils a new future in home security with patrolling Ring Rover and Ring Drone cams.
-
-Yahoo Tech • 1d ago
-
----
-
-**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
-
-An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
-
-WIRED • 2h ago
-
----
-
-**[Eric Trump-backed firm in talks to send humanoid robots into Hamas tunnels](https://www.telegraph.co.uk/us/news/2026/11/11/trump-humanoid-robots-hamas-tunnels/)**
-
-IDF expected to purchase up to 1,000 from Foundation Future Industries where president’s son is adviser
-
-The Telegraph • 2h ago
-
----
-
-**[Recent advances in AI are creating a ‘paradigm shift’ for robotics](https://news.berkeley.edu/2026/11/09/recent-advances-in-ai-are-creating-a-paradigm-shift-for-robotics/)**
-
-Professor Ken Goldberg has long had doubts about how quickly robot capabilities could advance. But new AI models are leading to robotic innovations that give him "goosebumps."
-
-University of California, Berkeley • 2d ago
+NVIDIA Blog • 17h ago
 
 ---
 
@@ -188,7 +190,7 @@ University of California, Berkeley • 2d ago
 
 Serve Robotics is breaking away from delivery app lock-in.
 
-The Verge • 9h ago
+The Verge • 14h ago
 
 ---
 
@@ -202,7 +204,7 @@ China's new bionic AI robots read the news with artificial skin, camera eyes, an
 
 📺 AI Revolution
 
-👁️ 15K • 👍 243 • 💬 18 • ⏱️ 14:05 • 1d ago
+👁️ 16K • 👍 248 • 💬 20 • ⏱️ 14:05 • 2d ago
 
 ---
 
@@ -212,17 +214,7 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 138K • 👍 2K • 💬 109 • ⏱️ 8:25 • 2d ago
-
----
-
-**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
-
-China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
-
-📺 The AI Nexus
-
-👁️ 36K • 👍 419 • 💬 52 • ⏱️ 15:41 • 1d ago
+👁️ 152K • 👍 2K • 💬 111 • ⏱️ 8:25 • 2d ago
 
 ---
 
@@ -236,33 +228,23 @@ King Kong Technology is giving away 100 crab robots for free to collect real-wor
 
 ---
 
+**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
+
+China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
+
+📺 The AI Nexus
+
+👁️ 37K • 👍 427 • 💬 54 • ⏱️ 15:41 • 1d ago
+
+---
+
 **[I Wasn&#39;t Expecting THIS From Ring! (Hands-on)](https://www.youtube.com/watch?v=1NARFzFzZdo)**
 
 (AD) Ring just unveiled Ring Robotics Drone Cam & Rover Cam - for your home and business! • Ring Drone Cam: ...
 
 📺 The Tech Chap
 
-👁️ 52K • 👍 738 • 💬 157 • ⏱️ 5:28 • 1d ago
-
----
-
-**[Japan&#39;s Fake Humans: JSK Lab&#39;s 25+ Year Evolution #robotics #robots #uncannyvalley](https://www.youtube.com/watch?v=QQ2EjgAKpWA)**
-
-The University of Tokyo's JSK Robotics Laboratory has been pioneering musculoskeletal humanoids since the late 1990s. Kenta ...
-
-📺 Kalil 4.0
-
-👁️ 774 • 👍 24 • 💬 1 • ⏱️ 1:04 • 4h ago
-
----
-
-**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
-
-This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
-
-📺 Unstoppable Gadgets
-
-👁️ 194K • 👍 3K • 💬 74 • ⏱️ 0:21 • 5d ago
+👁️ 59K • 👍 796 • 💬 163 • ⏱️ 5:28 • 1d ago
 
 ---
 
@@ -272,7 +254,37 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 191K • 👍 3K • 💬 442 • ⏱️ 15:13 • 5d ago
+👁️ 192K • 👍 3K • 💬 444 • ⏱️ 15:13 • 5d ago
+
+---
+
+**[Japan&#39;s Fake Humans: JSK Lab&#39;s 25+ Year Evolution #robotics #robots #uncannyvalley](https://www.youtube.com/watch?v=QQ2EjgAKpWA)**
+
+The University of Tokyo's JSK Robotics Laboratory has been pioneering musculoskeletal humanoids since the late 1990s. Kenta ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 28 • 💬 1 • ⏱️ 1:04 • 9h ago
+
+---
+
+**[Claude and GPT Stabs Objects With a Blurry Camera #ai #robotics #aisafety](https://www.youtube.com/watch?v=0RTCSNarNvY)**
+
+Source: https://papers.robocurve.org/robospoof.
+
+📺 Better Stack
+
+👁️ 284 • 👍 18 • 💬 1 • ⏱️ 2:52 • 29m ago
+
+---
+
+**[Amazon unveils Ring indoor security drone and autonomous patrol robot](https://www.youtube.com/watch?v=sBwJ9d_YASo)**
+
+Amazon has unveiled two new robotics devices under its Ring brand, introducing the Ring Rover Cam—an autonomous ...
+
+📺 FOX 5 New York
+
+👁️ 3K • 👍 14 • 💬 11 • ⏱️ 2:31 • 12h ago
 
 ---
 
@@ -282,17 +294,7 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 25K • 👍 1K • 💬 42 • ⏱️ 1:44 • 5d ago
-
----
-
-**[THEY BUILT ROBOTS FOR WAR… BUT WHAT HAPPENS WHEN THEY STOP OBEYING HUMANS? 💀](https://www.youtube.com/watch?v=lTLV7N3ydnM)**
-
-THEY BUILT ROBOTS FOR WAR… BUT WHAT HAPPENS WHEN THEY STOP OBEYING HUMANS? Imagine a battlefield ...
-
-📺 ejunky66
-
-👁️ 27K • 👍 399 • 💬 18 • ⏱️ 0:59 • 1d ago
+👁️ 25K • 👍 1K • 💬 43 • ⏱️ 1:44 • 5d ago
 
 ---
 

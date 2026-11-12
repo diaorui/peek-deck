@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-11T21:55:44.926874+00:00'
+updated: '2026-11-12T02:44:02.318197+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 11, 2026 at 21:55 UTC  
+**Last Updated:** November 12, 2026 at 02:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,083.77
+### $2,050.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -7.4%  
-**30d:** -17.0%  
-**90d:** +10.1%  
-**1y:** -39.2%  
+**24h:** -0.2%  
+**7d:** -8.1%  
+**30d:** -14.9%  
+**90d:** +9.3%  
+**1y:** -36.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $253.33B
+**Market Cap:** $251.18B
 Rank #2
 
 **Circulating Supply:** 122,209,758 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-58.4%
 
 **All-Time Low:** $0.43
-+478648.4%
++474602.0%
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The non-profit allegedly told workers to pledge they'd die by suicide "with a sword."
 
-Mashable • 13h ago
+Mashable • 18h ago
 
 ---
 
@@ -160,7 +160,7 @@ Mashable • 13h ago
 
 Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -182,23 +182,29 @@ Fortune • 1d ago
 
 Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027.
 
-Crypto News • 12h ago
+Crypto News • 17h ago
 
 ---
 
-**[What the Ethereum Foundation’s New Institutional Team Is Meant to Do](https://www.burlingtonfreepress.com/story/special/contributor-content/2026/11/11/what-the-ethereum-foundations-new-institutional-team-is-meant-to-do/92664517007/)**
+**[Ripple Ex-CTO David Schwartz Reveals How Much XRP, Ethereum, and Bitcoin He Owns](https://beincrypto.com/david-schwartz-xrp-bitcoin-ethereum-holdings/)**
 
-The development is relevant beyond anyone who tracks the ether price. It shows how one of the largest public blockchain projects is organizing its work as more traditional financial firms explore stablecoins, tokenized funds and other applications built on public networks. It does not say anything a
-
-Burlington Free Press • 7h ago
+BeInCrypto • 11h ago
 
 ---
 
-**[Ripple's David Schwartz Once Held 26 Million XRP, 1,500 Bitcoin and 40,000 Ethereum. Why Did He Sell Over 90% of His Crypto?](https://247wallst.com/investing/cryptocurrency/2026/11/11/ripples-david-schwartz-once-held-26-million-xrp-1500-bitcoin-and-40000-ethereum-why-did-he-sell-over-90-of-his-crypto/)**
+**[Ethereum upgrades pose testing challenges, says Sprinter co-founder](https://cryptobriefing.com/ethereum-upgrades-testing-challenges-sprinter-markou/)**
 
-Former Ripple CTO David Schwartz once held 26 million XRP, 1,500 Bitcoin and 40,000 Ethereum. Here's why he sold over 90% of it.
+Sprinter CEO Greg Markou says Ethereum upgrades are hard to test, recalling how the London hard fork broke nearly all web3.js apps.
 
-24/7 Wall St. • 9h ago
+Crypto Briefing • 4h ago
+
+---
+
+**[Ethereum’s Vitalik Buterin Just Told Investors Why to Hold It. One Popular Reason Isn’t on the List.](https://www.fool.com/investing/2026/11/11/ethereums-vitalik-buterin-just-told-investors-why-to-hold-it-one-popular-reason-isnt-on-the-list/)**
+
+The coin's co-founder seems to be trying to clarify the direction that it's heading by discussing how it should be valued.
+
+The Motley Fool • 11h ago
 
 ---
 
@@ -206,23 +212,13 @@ Former Ripple CTO David Schwartz once held 26 million XRP, 1,500 Bitcoin and 40,
 
 Ethereum's Lighthouse urged all beacon node operators to install a high-priority security patch ahead of a planned vulnerability disclosure.
 
-CryptoSlate • 14h ago
+CryptoSlate • 19h ago
 
 ---
 
-**[Crypto Crash Aftermath: What’s Next For Bitcoin, Ethereum And XRP Prices?](https://www.tradingview.com/news/coinpedia:ca523dfbb094b:0-crypto-crash-aftermath-what-s-next-for-bitcoin-ethereum-and-xrp-prices/)**
+**[Bitcoin, Ethereum, XRP Steady, but Dogecoin Dips: Analyst Bets a Repeat of BTC's Short Squeeze, Driving I](https://www.benzinga.com/crypto/cryptocurrency/26/11/63171545/bitcoin-ethereum-xrp-dogecoin-crypto-3)**
 
-The worst of the selling may have slowed, but the crypto market is not out of danger yet. After a week of heavy losses driven by hot US inflation data and a tech stock rout, Bitcoin is sitting on its final major support zone. Ethereum and XRP still look weak.According to an analyst Josh of Crypto W…
-
-TradingView • 10h ago
-
----
-
-**[CoinShares survey: Bitcoin leads growth outlook as Ethereum sentiment improves](https://cryptobriefing.com/coinshares-survey-bitcoin-growth-outlook-ethereum/)**
-
-CoinShares survey reveals Bitcoin leads growth outlook among institutional managers, while Ethereum sentiment improves and crypto allocations
-
-Crypto Briefing • 3h ago
+Benzinga • 50m ago
 
 ---
 
@@ -236,7 +232,7 @@ Jamie Dimon called Bitcoin a fraud. Then JPMorgan put its own dollar on Ethereum
 
 📺 Dana Love, PhD
 
-👁️ 8K • 👍 257 • 💬 34 • ⏱️ 19:35 • 6h ago
+👁️ 13K • 👍 318 • 💬 69 • ⏱️ 19:35 • 11h ago
 
 ---
 
@@ -246,37 +242,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 15K • 👍 223 • 💬 29 • ⏱️ 10:11 • 1d ago
-
----
-
-**[Bitcoin, XRP And Ethereum Are Preparing For A Major Move While AI Stocks Around The World Drop](https://www.youtube.com/watch?v=ZdV5k0K1dFo)**
-
-Why in the world is so much crypto being taken off of crypto exchanges this year? Why is every major bank on the planet ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 22K • 👍 1K • 💬 260 • ⏱️ 14:18 • 9h ago
-
----
-
-**[BITCOIN FLIPPED: EVERYONE IS WRONG (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sqx6tMo8XrI)**
-
-BITCOIN FLIPPED: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 199 • 💬 62 • ⏱️ 17:50 • 4h ago
-
----
-
-**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=ftceDWupgqw)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 14K • 👍 220 • 💬 51 • ⏱️ 22:13 • 1d ago
+👁️ 15K • 👍 227 • 💬 33 • ⏱️ 10:11 • 1d ago
 
 ---
 
@@ -286,37 +252,47 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 4K • 👍 77 • 💬 51 • ⏱️ 14:58 • 1d ago
+👁️ 4K • 👍 79 • 💬 51 • ⏱️ 14:58 • 1d ago
 
 ---
 
-**[MASSIVE Crypto SHORT!  (How Low Will Ethereum Go?)](https://www.youtube.com/watch?v=1FHsl1gVMkw)**
+**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=ftceDWupgqw)**
 
-Join Skool Community - https://www.skool.com/discovercrypto/about Trade at Bitbase ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Discover Crypto
+📺 Crypto Nutshell
 
-👁️ 4K • 👍 61 • 💬 35 • ⏱️ 5:28 • 22h ago
-
----
-
-**[Ethereum 2027-2028 Prediction: The Bottom Is IN!!](https://www.youtube.com/watch?v=M-NjWnsxk5c)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v109 CoinGPT - the AI Trade Agent I ...
-
-📺 Marzell Crypto
-
-👁️ 3K • 👍 21 • 💬 10 • ⏱️ 3:30 • 2d ago
+👁️ 15K • 👍 227 • 💬 51 • ⏱️ 22:13 • 1d ago
 
 ---
 
-**[I Tested an AI Trading Bot Built with ChatGPT Astra AI - Ethereum Day Trading](https://www.youtube.com/watch?v=PMtWzSh1o0A)**
+**[Tom Lee: Ethereum Will FLIP Bitcoin?](https://www.youtube.com/watch?v=T_5kfzBLd0U)**
 
-Complete Tutorial Guide: https://tr.ee/6uBcSI This tutorial covers ai trading, day trading, day trading for beginners, and ...
+CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
 
-📺 Owen Parker
+📺 Altcoin Daily
 
-👁️ 2K • 👍 15 • 💬 23 • ⏱️ 5:59 • 1d ago
+👁️ 16K • 👍 266 • 💬 18 • ⏱️ 1:03 • 2d ago
+
+---
+
+**[You Can’t Value Ethereum Like a Business](https://www.youtube.com/watch?v=di-1M2Z1i6A)**
+
+HOW TO VALUE ETHEREUM AND SOLANA (MOST PEOPLE GET THIS WRONG) If you value Ethereum like a business, you'd ...
+
+📺 Cryptonary
+
+👁️ 603 • 👍 7 • ⏱️ 1:14 • 1d ago
+
+---
+
+**[ETH Could Drop Below $2,000 If This Happens #ethereum #trading](https://www.youtube.com/watch?v=Y-040ME6zvE)**
+
+Ethereum price analysis: evaluating critical support and resistance levels to manage your next ETH trade setup effectively.
+
+📺 Freedom Hacking
+
+👁️ 221 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -326,7 +302,27 @@ Now with Nazis! by Amy Castor and David Gerard ...
 
 📺 Pivot to AI
 
-👁️ 17K • 👍 1K • 💬 255 • ⏱️ 11:26 • 1d ago
+👁️ 17K • 👍 1K • 💬 258 • ⏱️ 11:26 • 2d ago
+
+---
+
+**[I Tested an AI Trading Bot Built with ChatGPT Astra AI - Ethereum Day Trading](https://www.youtube.com/watch?v=PMtWzSh1o0A)**
+
+Complete Tutorial Guide: https://tr.ee/6uBcSI This tutorial covers ai trading, day trading, day trading for beginners, and ...
+
+📺 Owen Parker
+
+👁️ 2K • 👍 14 • 💬 26 • ⏱️ 5:59 • 1d ago
+
+---
+
+**[How Much ETH Is Burned vs Created? Only 1% Is Burned](https://www.youtube.com/watch?v=bOjMFioCDbo)**
+
+A viewer asked: how much ETH is burning right now, and how much new ETH is coming from staking? Here are the real numbers, ...
+
+📺 Crypto Jargon
+
+👁️ 5K • 👍 165 • 💬 5 • ⏱️ 0:53 • 2d ago
 
 ---
 

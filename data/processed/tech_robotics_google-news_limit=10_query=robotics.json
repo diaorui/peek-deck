@@ -15,6 +15,16 @@
       "description": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments."
     },
     {
+      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bkx4MS1XeDlTd2Q2UHktLVBvX3YtSkJYMkVxa2l0TTMtTld3ZWp0d29udm1SckdEZi1wNnhqb0hJZldURzFyVUxxV1F0S2dJS3NNZWFvRWtRZ0F2Ym5taXFlUVVPM1FBTGFPV1V4Z0ZELUZfOTE5TEZxaw?oc=5",
+      "pub_date": 1794426900.0,
+      "article_url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+      "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
+    },
+    {
       "headline": "Intel: Robotics Is A Key Strategic Focus Going Forward",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -25,54 +35,34 @@
       "description": null
     },
     {
-      "headline": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXAxVGN4VW9UTDVUVEZNcG9sS25IcVJNR0RxRE9IZFZwQ3NSMjI0SUktbWVNN3RWaWlUWFlpSUN1czB4T2RvdE5xeHQ1dG5zX2lGNEN5c0RUbGxoOEh6d2cxTkFQY19kOWE2aXhSMjlwaW9LS3VTYVQxdU1mU1d6cWE5UmFBOFY2WnVYZWhfaUJNWVJRTjNta1lSYmlCdTBiVU5LNzNIb2VLWEk?oc=5",
-      "pub_date": 1794294900.0,
-      "article_url": "https://www.reuters.com/business/europe-can-compete-robotics-physical-ai-top-chipmaker-ceos-say-2026-11-10/",
-      "image": null,
-      "description": null
+      "headline": "Can AI agents program industrial robots without training data? Berkeley says yes",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSi1ncmhKMndUQ2tsOFpsV2JUZElxRWtlcFBoZ2FrSVhUVTFuOXo2YlFWUi13SE4wRVdLcU5ZOHRwbFExd2tZUGZDejYzbFJZN0hXNUdCaUFJUXJpSUxWSGYycXREd1VBNU53a0p6TmlVMWt4cnhwdnJXdlBhR2s5NkloeExMS2R6WjhqTllzUUZHenc5cV9qUHZuZkUzWlFkSUdXOU1PNVlQeG9lZTBISA?oc=5",
+      "pub_date": 1794401969.0,
+      "article_url": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/robosimstudio.jpg",
+      "description": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs."
     },
     {
-      "headline": "Ring announces Ring Robotics, ushering in a new era of security",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
-      "pub_date": 1794317162.0,
-      "article_url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
-      "image": "https://assets.aboutamazon.com/dims4/default/b73122b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F07%2Fc1%2F82d8a1204627a837d203c57dd918%2Fring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
-      "description": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it."
+      "headline": "The PLA\u2019s Push for Military Robotics",
+      "source": "CSET | Center for Security and Emerging Technology",
+      "source_url": "https://cset.georgetown.edu",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0dZWGFERUoyOWZOSnd3TzZhRVdnbW1UZzVkSENCalVNUEk1UjlQUW0xTGtGTjJnVE1mMThtX1NCeFFVZEpDYWhmT1ZUNXc2eWtJZUNCOGZHR19QY01QeG0xc1V4N0VNM1lfd0ZlQ3d5TFlXdnduUU9NN1RxNVlGQWF3?oc=5",
+      "pub_date": 1794400804.0,
+      "article_url": "https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/",
+      "image": "https://cset.georgetown.edu/wp-content/uploads/The-PLAs-Push-for-Military-Robotics_Social-Media-Card-700x366.png",
+      "description": "Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People\u2019s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing\u2019s military robotics ambitions."
     },
     {
-      "headline": "Ring unveils AI-enabled home security drones, robots",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1QtRnA4Y1IzMjB6dmVhQjQ4Q2E3cGZ6ZDJWZ3J5QjZNUDYzMVF1SGNfeUpUQ20xSVozY0Q4Uk1GQmtSRm5pN0pCbldUWUc2R3Awc0NORHEyOHd3WmlvTmtVajdaRkRsbzc5Ml9xajBmVnhrbElrdHFDMTFxUm9yZWFRbHZGYWc1Sjl0RDgwMkp6aXIzczRIczM2cU1BQTQzQUh3QzBHWHhkX1liMGJB?oc=5",
-      "pub_date": 1794346920.0,
-      "article_url": "https://nypost.com/2026/11/10/business/ring-unveils-flying-drones-and-rolling-robots-for-homes-and-businesses/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/amazons-ring-launches-flying-security-148253056.jpg?quality=75&strip=all&w=1200",
-      "description": "Security camera company Ring on Tuesday unveiled flying drones and wheeled robots designed to monitor homes and businesses."
-    },
-    {
-      "headline": "Amazon's 'Ring Robotics' debuts: Rover and Drone Cam patrol with sirens",
-      "source": "Yahoo Tech",
-      "source_url": "https://tech.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaU1wVF94UWp4aVFONC1LTXlGaGtEOWhSd19VaklMQlJtUDJiY1oxZkFGdWF3cGNHY1NacTdxdkdTV0pBdFM2ZzJDd2xfcTBXTFVPSGIzbDBhVU9ES3JWaENxb1BxSTVlQlliVktFMURuYXJQa3VCNmk2RzN1Y0l4bU1BUTUtYlhNN0g2NVlwZw?oc=5",
-      "pub_date": 1794338106.0,
-      "article_url": "https://tech.yahoo.com/home/articles/amazons-ring-robotics-debuts-rover-191506357.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/63a02c4d57b2dcdb637e606a608d8dbd27e35c91b91e4b21a3578ef3ebbddf87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fandroid_central_347%2Fff0b2e3f50fb294b9f196a6a01395d90.jpg",
-      "description": "Amazon's Ring Robotics unveils a new future in home security with patrolling Ring Rover and Ring Drone cams."
-    },
-    {
-      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bkx4MS1XeDlTd2Q2UHktLVBvX3YtSkJYMkVxa2l0TTMtTld3ZWp0d29udm1SckdEZi1wNnhqb0hJZldURzFyVUxxV1F0S2dJS3NNZWFvRWtRZ0F2Ym5taXFlUVVPM1FBTGFPV1V4Z0ZELUZfOTE5TEZxaw?oc=5",
-      "pub_date": 1794426900.0,
-      "article_url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
-      "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
+      "headline": "Praxis-1 Is Now Available",
+      "source": "Runway",
+      "source_url": "https://runway.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5acXBiLV96NUFWbm9pRmRKR0ZsX29pMDljZ09HSm5XWWJpUXBjNU1pR3ByT1k5alVVOWdtVllWcWRXQU80Y1I1d0JEaVh1dWlFSGJsb3VwY2JqRkY1ZGVlTjRzcVpKVGJRV3prTHl1bw?oc=5",
+      "pub_date": 1794409200.0,
+      "article_url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+      "image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/frame-8-bddb7fbc-4647-44e5-bf65-1fbb7e559b24-af3f1b60-26e7-4a91-afda-ee27b0a4674b.webp",
+      "description": "Runway Praxis-1, our open-weight world action model for robotics, is now available under Apache 2.0. Download the weights on Hugging Face and GitHub."
     },
     {
       "headline": "Eric Trump-backed firm in talks to send humanoid robots into Hamas tunnels",
@@ -85,14 +75,24 @@
       "description": "IDF expected to purchase up to 1,000 from Foundation Future Industries where president\u2019s son is adviser"
     },
     {
-      "headline": "Recent advances in AI are creating a \u2018paradigm shift\u2019 for robotics",
-      "source": "University of California, Berkeley",
-      "source_url": "https://news.berkeley.edu",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFdMQW9EaFB1b0s5TnA2amhyLVRxYzcwYk41MEdLYkFMNGQ1T2pSTVNGQjhBWHFjREJ1MGVVU3N3eTM0Q05SYlFVS3JoOWdKSlp4bGI0ZDR1c3dIZ3FubHJsUk9zMWNBdDRteW1wOGtyNW8wVTlHV2Rhb2sxMFZDOEJHc19ja2Q2X1lJX1lGN0o2dVVmbW4taXdsVnJGcTlPUkZfZw?oc=5",
-      "pub_date": 1794233841.0,
-      "article_url": "https://news.berkeley.edu/2026/11/09/recent-advances-in-ai-are-creating-a-paradigm-shift-for-robotics/",
-      "image": "https://news.berkeley.edu/wp-content/uploads/2026/11/Ambi-Robotics-AmbiKit_2-1024x683.jpg",
-      "description": "Professor Ken Goldberg has long had doubts about how quickly robot capabilities could advance. But new AI models are leading to robotic innovations that give him \"goosebumps.\""
+      "headline": "Ring announces Ring Robotics, ushering in a new era of security",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
+      "pub_date": 1794317162.0,
+      "article_url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
+      "image": "https://assets.aboutamazon.com/dims4/default/b73122b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F07%2Fc1%2F82d8a1204627a837d203c57dd918%2Fring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
+      "description": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it."
+    },
+    {
+      "headline": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45aFplN3BxZkFpLVBZNThZaURKeG4wUFFnbjh0UjFvQUNwQzBWdzdaU0NaeTRRLXVXSU04VW0yOTI2T3ZvUGRXc002eHNpRVRXUFJiakVSS281QnVMVW9BWVFB?oc=5",
+      "pub_date": 1794388457.0,
+      "article_url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1-1680x945.png",
+      "description": "Vision AI and robotics pick what\u2019s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills."
     },
     {
       "headline": "Serve Robotics wants to democratize sidewalk delivery robots",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-11T21:55:31.618980+00:00"
+  "fetched_at": "2026-11-12T02:43:49.944982+00:00"
 }
