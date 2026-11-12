@@ -15,42 +15,22 @@
       "description": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments."
     },
     {
+      "headline": "2 AI Robotics Stocks That Could Help Set You Up for Life",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE4xSVpReDNHbWNmSUZjVXNSWjZjekpsdnd6WVBQWW1mc19majZvWHBFVXFYaC1pQWY4bVVoVzZlZXNyN1JfQ3pXcnhqUGkwQzFNc3RVbkVDZ2lmSjd5YVNxVnhhMFZlUEp1eEJIb19wb3hsc3FLSVFjNGJsSlAteGY3NXFGNmJkUHNfU3F6LUhMNFlSc1hQTQ?oc=5",
+      "pub_date": 1794484500.0,
+      "article_url": "https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892868%2Fgettyimages-1515913422-1200x800-5b2df79.jpg&w=1200&op=resize",
+      "description": "While AI models and chips take center stage, the AI robotics boom is silently building."
+    },
+    {
       "headline": "Intel: Robotics Is A Key Strategic Focus Going Forward",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0I0MXJtV3Z6eTc0aGNSNDZKN3dvMnUxcHdUekJGSk1rcEdEekhUUzA0eGRRTVR3V0pMOXRtV3RFa29YaWpUYTdlc19wMGUxRGtwWnBSZFlnNnJUSTBxM3F0UXlibmJha1RmMDgzU0hwOEN5OHAxR1VvSVE4Ni1lejFmRkRjanJXVlJuTVRlaGd3U3NpUEhtZTFjQy1OMm0zVVlFbDdMVnk?oc=5",
       "pub_date": 1794396633.0,
       "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzRrTEw4QUxHdnc3UUlmUE04TXJrX3BlSDFTQ0FWYWticVpaLVhvZzJlMVVodXdRLVpEbENfakZEbkROeDc5YTV2M2U1eVpxWkFlMEJUbURibWxWemJ6RWtpM0Npblp6UnVpOUtWWkE1Ri0tanhEUlNXT0FSUVFGM0w5WnBPNFE1OGF2c0R2SHhFb0J5OU1fYjhmOU1OV1FEcnlNNjhleUNLX3I1VVh5OUtoaFdvZDNqdnRn?oc=5",
-      "pub_date": 1794322839.0,
-      "article_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-2560x1440.jpg",
-      "description": "The new model is up to twice as successful at some tasks."
-    },
-    {
-      "headline": "Can AI agents program industrial robots without training data? Berkeley says yes",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSi1ncmhKMndUQ2tsOFpsV2JUZElxRWtlcFBoZ2FrSVhUVTFuOXo2YlFWUi13SE4wRVdLcU5ZOHRwbFExd2tZUGZDejYzbFJZN0hXNUdCaUFJUXJpSUxWSGYycXREd1VBNU53a0p6TmlVMWt4cnhwdnJXdlBhR2s5NkloeExMS2R6WjhqTllzUUZHenc5cV9qUHZuZkUzWlFkSUdXOU1PNVlQeG9lZTBISA?oc=5",
-      "pub_date": 1794401969.0,
-      "article_url": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/robosimstudio.jpg",
-      "description": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs."
-    },
-    {
-      "headline": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDBwNTBVZzdhQjlkVDRaQXRiM2dsVUJYdmx3c3NLeC1ZeUJfNDd3ZHdoOFZhdXh0S3FZdEk3dEVfXzA4UE80ckVLYnktSDFfbHRQRW94ZndRWndBV3B1SEFOaUNFbmhhbGZSS1BwelA4ZDB4MzRCQndMcDJfakNFSkQtZw?oc=5",
-      "pub_date": 1794462305.0,
-      "article_url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
       "image": null,
       "description": null
     },
@@ -65,14 +45,34 @@
       "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
     },
     {
-      "headline": "Praxis-1 Is Now Available",
-      "source": "Runway",
-      "source_url": "https://runway.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5acXBiLV96NUFWbm9pRmRKR0ZsX29pMDljZ09HSm5XWWJpUXBjNU1pR3ByT1k5alVVOWdtVllWcWRXQU80Y1I1d0JEaVh1dWlFSGJsb3VwY2JqRkY1ZGVlTjRzcVpKVGJRV3prTHl1bw?oc=5",
-      "pub_date": 1794409200.0,
-      "article_url": "https://runway.com/news/company-news/praxis-1-is-now-available",
-      "image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/11/frame-8-bddb7fbc-4647-44e5-bf65-1fbb7e559b24-af3f1b60-26e7-4a91-afda-ee27b0a4674b.webp",
-      "description": "Runway Praxis-1, our open-weight world action model for robotics, is now available under Apache 2.0. Download the weights on Hugging Face and GitHub."
+      "headline": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDBwNTBVZzdhQjlkVDRaQXRiM2dsVUJYdmx3c3NLeC1ZeUJfNDd3ZHdoOFZhdXh0S3FZdEk3dEVfXzA4UE80ckVLYnktSDFfbHRQRW94ZndRWndBV3B1SEFOaUNFbmhhbGZSS1BwelA4ZDB4MzRCQndMcDJfakNFSkQtZw?oc=5",
+      "pub_date": 1794462305.0,
+      "article_url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meet the founder betting Washington can help him take on China's robot makers",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1A2eE5YSkdBb216NnVjcF9MWnQ5ZHQxSTNiNmpHYlZqRU9tWkI1d0VqZWtlMVpwc1ByOVhyS2EtTEFZNzU2SHN1WVV0dWRVeFlFeFJrOEJSQjh4SHNXa2p5N012NnVCLW4yZUtOdWNOdHhrQXZpNHBQdHk1a21xb21aRjhrbm5DUkRyVkxwbTBzcmFVVlJMZ3RwaXNuTms0MUU0WQ?oc=5",
+      "pub_date": 1794477600.0,
+      "article_url": "https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11",
+      "image": "https://i.insider.com/6af38c88a96052a81c349b1b?width=1200&format=jpeg",
+      "description": "Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US \u2014 and he's looking to Washington for help."
+    },
+    {
+      "headline": "Japan's AI robots are preparing for life on the Moon",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5Y3JRU0lac1FyTC10OXFBMVVyWXp4ZURKZGE5b0wwUldTVXlZU2FJd094R1FzTU96a1pPdlhmOENLeHJjZTMzTmpIbG5DaFdqdTJJakZDU3M?oc=5",
+      "pub_date": 1794477600.0,
+      "article_url": "https://www.bbc.com/reel/video/p0pkc1mt/watch",
+      "image": "https://ichef.bbci.co.uk/images/ic/1024xn/p0pmkrzd.jpg",
+      "description": "Japanese researchers are teaching AI-powered robots to navigate the Moon and build infrastructure for the future."
     },
     {
       "headline": "PRISM helps robots move better by learning how forces and motion interact",
@@ -85,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "Can AI agents program industrial robots without training data? Berkeley says yes",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSi1ncmhKMndUQ2tsOFpsV2JUZElxRWtlcFBoZ2FrSVhUVTFuOXo2YlFWUi13SE4wRVdLcU5ZOHRwbFExd2tZUGZDejYzbFJZN0hXNUdCaUFJUXJpSUxWSGYycXREd1VBNU53a0p6TmlVMWt4cnhwdnJXdlBhR2s5NkloeExMS2R6WjhqTllzUUZHenc5cV9qUHZuZkUzWlFkSUdXOU1PNVlQeG9lZTBISA?oc=5",
+      "pub_date": 1794401969.0,
+      "article_url": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/robosimstudio.jpg",
+      "description": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs."
+    },
+    {
       "headline": "NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust",
       "source": "EE Times",
       "source_url": "https://www.eetimes.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.eetimes.com/nxp-cto-lars-reger-on-physical-ai-robots-drones-and-trust/",
       "image": "https://www.eetimes.com/wp-content/uploads/Screenshot-2026-11-11-152131.png?resize=1200,675",
       "description": "NXP CTO Lars Reger on physical AI at electronica 2026: NavQ95 gets robots and drones running in 30 minutes, plus security and RISC-V."
-    },
-    {
-      "headline": "The PLA\u2019s Push for Military Robotics",
-      "source": "CSET | Center for Security and Emerging Technology",
-      "source_url": "https://cset.georgetown.edu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0dZWGFERUoyOWZOSnd3TzZhRVdnbW1UZzVkSENCalVNUEk1UjlQUW0xTGtGTjJnVE1mMThtX1NCeFFVZEpDYWhmT1ZUNXc2eWtJZUNCOGZHR19QY01QeG0xc1V4N0VNM1lfd0ZlQ3d5TFlXdnduUU9NN1RxNVlGQWF3?oc=5",
-      "pub_date": 1794400804.0,
-      "article_url": "https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/",
-      "image": "https://cset.georgetown.edu/wp-content/uploads/The-PLAs-Push-for-Military-Robotics_Social-Media-Card-700x366.png",
-      "description": "Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People\u2019s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing\u2019s military robotics ambitions."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T10:42:53.230487+00:00"
+  "fetched_at": "2026-11-12T18:43:17.613219+00:00"
 }

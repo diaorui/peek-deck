@@ -5,6 +5,36 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Strategy, the World\u2019s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHV1TFRnVmtTRlJ0LWlRcXZKQTQtSWJiMWhGVmpkZ2NmRFNhQ2tKSWdldjZFRk12eUMzc0Vhb3JYRlpjaktiWk9MZTVEanVRdjRETmdLNUtUem5SZjl3VHA2N3BDRkUyQUkwR1hlTzVhQzR1ZEQwT3dOaExSNHN3RmxXczdXNzRMcnVpU195cEFQc3k1eUFmSnQtR3g2bzgtQ1JCUTgwS0RhRUduWmUycHcteEFYUEVKZDNOTkRGYm5xZ3dNOXFpOGtCVQ?oc=5",
+      "pub_date": 1794476640.0,
+      "article_url": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Index Provider MSCI Removes Strategy From Equity Benchmark",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZW5DR09LVkg4dkthOHBBckpTQU92UGhvUFNQNTZneVNtV2diNHd6TlEyT1RWMHNKb1pJTWFYU3ZLbERzUkFHS1ZNSkVFYi1lSW1lMmo2MFFteERJNG5Td25UNlBzWDNyaUpsbDZNY1NVcnFnNW5ncVZMMmJaNldfdTNQdHlZZ1Y1bU5TbHF6QVBsWFo2cmtyekZjdWRTNjl1cnNZTlNNR3VlRkJPYWc?oc=5",
+      "pub_date": 1794494991.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy to be removed from MSCI indexes: What are the risks for Bitcoin?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekJLWGRPLWw2X20wTUpOeWl5VWNiS3pFeWl5U0hlT1BhSXhieDViNVhVNzdfbHhEbWl4YVQ1UFd4M3N1cno0d1o4d3R3OFVMMmJEeHdNVTRVTUVhUDB4MTZOVWNxYTFOYW9YUFBFNmloeWpJODZwVlZ0cGZBV0w1VlNtT2N4UHdRbFR4ajNPWlR5eERZUUdoQjhHLVBxSGw1LXc?oc=5",
+      "pub_date": 1794467880.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-removed-msci-indexes-risks-071828604.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Investing.com -- MSCI confirmed on Nov 11 that Strategy Inc (MSTR) will be dropped from its global indexes, effective Dec 1. Removal doesn\u2019t touch Strategy\u2019s Bitcoin holdings directly. The danger is the financing chain behind them. Read more (Nov 11, 2026)"
+    },
+    {
       "headline": "Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins",
       "source": "Crypto News",
       "source_url": "https://crypto.news",
@@ -15,96 +45,66 @@
       "description": "Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027."
     },
     {
+      "headline": "Why bitcoin suffers alongside everything else on bad trading days",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1JCbGZMRV9oUnJFLXlJMjkxcEZLQkFiUGhWclRqT1BWQmFIWXo3NjIyNDY2eW9fN1ZOazJMN0pMOHNZTW5FOUZFQjdJZW1yalQ2WG1uQzVCQTN6ZkNnTHFkNW9leFp0bmVYNWFrV3F1OFNZZWltbnJjRDNNZ2w3T0Fyd3lPR1RJQ1hQdlJKNkw1b0FVN3FBT0xnbDk4N0E1T2J1YU15dDZqdXl0ejBfX1pn?oc=5",
+      "pub_date": 1794504998.0,
+      "article_url": "https://finance.yahoo.com/video/why-bitcoin-suffers-alongside-everything-else-on-bad-trading-days-173638454.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2e6cf9a520d6bba63753c1373f352db833c955abbf87fd3049fd6ef372ba5936/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Finvest-scott-melker-1_1530.png",
+      "description": "\"The Daily Wolf\" host Scott Melker joins Yahoo Finance's Julie Hyman at Yahoo Finance's 2026 Invest conference to discuss how bitcoin (BTC-USD) can still be susceptible to falling on risk-off days, all this coming as Nvidia's (NVDA) CEO Jensen Huang resigned."
+    },
+    {
+      "headline": "Deutsche Bank Launched Crypto Custody With Bitcoin and Ethereum but Not XRP or Solana. Why Were They Left Out?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWVVTHpQdm03SmZKUjVqVDV2YmNjazlXU25TRUpBWFRqeElJMkZmbXhpYUFzWEFPR2FPTGhrdjJqdy1fczBjSUwxWkNjWWZSQUNuSVhQRXJObjdOT28wZTJ3OVlnUWtBSmRuYnozaDNvLWRHVzhOMzNDeFVnN0tXNW13cDhtb05lOFFWRFdZSHZtVjJHandCclJJb2pmRkJEWWI5Vg?oc=5",
+      "pub_date": 1794504298.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/deutsche-bank-launched-crypto-custody-172458766.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3626fef5324ad74ff0e947cccfe3c5bc9ff0a16d0591a6a31f14fa041abb4ea7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Faf6f2383187e6be190c118fa30d761c8.jpg",
+      "description": "Germany's largest bank just opened its vault to institutional clients, and two of crypto's biggest names never got a key. The real reason may lie in who is on the guest list, and who owns one of the five spots."
+    },
+    {
+      "headline": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkdSY1VzQndXdEpTb2hKT3BYcWJ2bVpreC15dHg4MFRlc3AwT2dBZzFOZ1J5aWcxWVdFQk5rQUFVTGVVM1JHems3VjlJY0o3em9VeTV5SGVvUXF4TWpqY0VMZ1RvMlJaYk8ya1BqV29YLWNVZjJ0Z2NRdEZJdUYxQmtrY1ZMWk9aRWRRZWFBdGE2bTNnZXdjOFpyZXFqM281c2dDMENpUDhWYldNNUU0aEU3SmVKUUpLY1E?oc=5",
+      "pub_date": 1794501422.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin Retreats as Nvidia Turmoil Weighs on Risk Appetite",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUxZZzlNWWNPa1prTjRxVlVjVGlKU05HRmwzZWkwY1M0WmZLeTQ0U2ZaVG9fYWZxeDZyQVBJRVNhWXN2b0puckFfNDN0czMzU3U2ZWlrUmVqWkdpd3IxOHN3S2hEUkk4Uzd5UHloOGJDRmxJaVozT2FxT2JpSGlnTWNrajc3MlRoUTk4N3I1TjlOMG8tNl8xTzFuVl9DaFNKSUZHZ1Rzem9vd3J3NEE?oc=5",
-      "pub_date": 1794473716.0,
+      "pub_date": 1794494251.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-11-12/bitcoin-retreats-as-nvidia-turmoil-weighs-on-risk-appetite",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic IPO Could Be Bitcoin's Next Catalyst: Arthur Hayes Turns 'Mini-Bulled Up' Ahead Of Nasdaq Listing",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnBqMFFWY1lIZGROam93Wk9ZWGlQUlZuX2JnMFVnbFZ1bWxuRENPbXpoS3R0eXplbDQwSXY4YTV0czJBMV9xVmJMdEdGTzhWRV9mN29wS2MwTWlOc2FZOXpHR3BuLVhEOURlbUZIWFRZcjJuU1dtN2Z2aHhabGpYTTI1YjRjX1JzZEVkMXV1dENHQzhyUDFLeDdIcHYyZ2M?oc=5",
-      "pub_date": 1794475321.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/anthropic-ipo-could-bitcoins-next-092201345.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bb61cc3d39a12a99ef9120999caf913a6b704cb59b510f682660db24cf582a56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fc34d7abda539def2a466c40f5e27e886",
-      "description": "Earlier this month, Hayes said Anthropic IPO investors would face 83% dilution by June 2027, calling it \"almost mathematically impossible\" for the stock to gain before then."
+      "headline": "Bitcoin slips to about $73,000 as Nvidia CEO turmoil rattles risk appetite",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2NDlvbUZmQU91WjhpLWRTUmZjaUp1MTFpakN2ZmZXemswUTFMVUJQd0JPMFZWVWNPMEpvQVdqY0FnMklqSGp2SE5DelJkc0R1WVBRdzhZN3NIYkJQanNTRGdmS0RUVHFGREFRZV9KSlA4OTFMbjE0?oc=5",
+      "pub_date": 1794488531.0,
+      "article_url": "https://qz.com/bitcoin-slips-nvidia-ceo-turmoil-risk-appetite-111226",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2269684426-300x200.jpg",
+      "description": "Nvidia stock fell as much as 10% in late trading Wednesday, and U.S. spot bitcoin ETFs have seen roughly $2.5 billion in net outflows since Oct. 30"
     },
     {
-      "headline": "Index Provider MSCI Removes Strategy From Equity Benchmark",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZW5DR09LVkg4dkthOHBBckpTQU92UGhvUFNQNTZneVNtV2diNHd6TlEyT1RWMHNKb1pJTWFYU3ZLbERzUkFHS1ZNSkVFYi1lSW1lMmo2MFFteERJNG5Td25UNlBzWDNyaUpsbDZNY1NVcnFnNW5ncVZMMmJaNldfdTNQdHlZZ1Y1bU5TbHF6QVBsWFo2cmtyekZjdWRTNjl1cnNZTlNNR3VlRkJPYWc?oc=5",
-      "pub_date": 1794443520.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Strategy, the World\u2019s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHV1TFRnVmtTRlJ0LWlRcXZKQTQtSWJiMWhGVmpkZ2NmRFNhQ2tKSWdldjZFRk12eUMzc0Vhb3JYRlpjaktiWk9MZTVEanVRdjRETmdLNUtUem5SZjl3VHA2N3BDRkUyQUkwR1hlTzVhQzR1ZEQwT3dOaExSNHN3RmxXczdXNzRMcnVpU195cEFQc3k1eUFmSnQtR3g2bzgtQ1JCUTgwS0RhRUduWmUycHcteEFYUEVKZDNOTkRGYm5xZ3dNOXFpOGtCVQ?oc=5",
-      "pub_date": 1794478348.0,
-      "article_url": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin slips to $73.6k; Strategy drops on MSCI index removal",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdElUbUg0ZkZBSnlUNGNDZG5UOGNWQmtpVUFxX1ltSERURW5FYUtCVF90M2hxZXV1ME94T2dFbGVrRWtsZjVCSGJGSU1zWHFQdGVMSFl5NDVGd1c5ZG9yNU81V3FDN056SXZhNzBsQzB6ZHFyRFlHQTNVZzZONHRZNmNIaDM2Q3JXajBXUjlXNDUzMkFQRGxxSGxFYzg0OHg3UnJwN2g3VXhGN1N4SDBYUDdacGM2U0oy?oc=5",
-      "pub_date": 1794465805.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "BTC news: Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeXR2eDExOFdJZjZwaDFrbzFBQUlCbXY4R3N4cW9yMDhTVmtnaEwyQ2pYeXVHOXlEYk0tS2RLME5BZkZVYk1paVdrS01icTF1aEtPM1hvWnZXdkVKYVBJNzR5Y1piUXhydVJYMWtWM3czMGVjaWV6T0JFZldicnI5QktWWnVEbEpSWXZHMnhnb2prT2N1Q0VvemUzeTQ1dnRmUlVUV0h5Mi1vT3FTdk10UmNTVEQwR1YtbEFxWg?oc=5",
-      "pub_date": 1794460951.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Current price of Bitcoin for November 11, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BdWhhNDJsYkZZbWlGUC1zLUtKczZhTjBjOEh4YUxKMjJiWFBlSkFhc2NscEJNMkxMSlhyM2luX3U3U01yZHNWckFtYVQ4WXA4dVlvT2dkbXhjQXI2SFh0bjFQR2pxbms?oc=5",
-      "pub_date": 1794400200.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-11-11-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-11.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Square Lets Merchants Accept Bitcoin and Receive Dollars",
-      "source": "PYMNTS.com",
-      "source_url": "https://www.pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzdESGxzTEVwS1JYOHF6aHJNQkdMenUyQmJEZUR4cHRMM0Y2S0RsUkF3Y1ZIWjFjYVdFbjE2NklsTF84dVo0Q2dicEVySkMycy1DOEpMUHRKVGtQZVlJR0RjZWg1MUpBVnFjZWFzSlNmSDBMWmNudXQ5RmhYVWU5YjUyb01DRjBROWxTblhFUUJTUjhhR1BiRkp5dUtqMzc4VEZIMlFvUTF4TGQxN2FSbkkyeEt0OWFUS0hXX3pR?oc=5",
-      "pub_date": 1794417887.0,
-      "article_url": "https://www.pymnts.com/blockchain/bitcoin/2026/square-makes-bitcoin-payments-free-will-merchants-pay-when-promotion-ends/",
-      "image": "https://www.pymnts.com/wp-content/uploads/2023/10/Square.jpg",
-      "description": "Bitcoin has spent much of its existence trying to become a payment method. The launch this week by Square of always-on Bitcoin payment capabilities for"
-    },
-    {
-      "headline": "Bitcoin sits out stock rebound as ETF outflows continue: Crypto Markets Today",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVE1LTjN4empxV2lyWVZDMDkxX2xMRlRlS0hvRXhYY01kVlZYaVVGT3psdE9XUTIwUXdPalhwRm5ocDNyWjd3cEhCOUtZdHlzS292U2JHZlA3a2Itd05oenNlQ1JMcEJFSzRUZHFfeERuMktnLW9EM2pFR3dEWVNrenkyZFhBZi15T1RIT3ExU1N2a2d3akpGN3dXeDlMRWNYU3ZWZ3lqNjhrczNRWWU0RQ?oc=5",
-      "pub_date": 1794397024.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin's bull case is still ahead, says Blockstream CEO",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdng2ZnBJWEM0T0I5SXFiZV9zMEhlMmFydEpCNFdLdm1HLW9SZVNrM1YtMTNIc0d3d1RtZ01LcmdUMkNsZ1JEeU4zNFVET2p6LXNyZ2FiWFJ6VHk0dlFJbnM1LXZHblRpckJqaHF6ay03LXBFQnp2M3dDM1FLM0FmamRFc09xR3l1R0hVLXhEVTMzNzRJbDAzTHBRUzFaUQ?oc=5",
+      "pub_date": 1794436388.0,
+      "article_url": "https://www.cnbc.com/video/2026/11/11/bitcoins-bull-case-is-still-ahead-says-blockstream-ceo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108549486-17944353311794435327-49580250260-1080pnbcnews.jpg?v=1794435330&w=1920&h=1080",
+      "description": "Blockstream Co-Founder and CEO Adam Back joins 'Closing Bell Overtime' to talk what is ahead for the crypto space after a volatile few weeks."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T10:42:55.537176+00:00"
+  "fetched_at": "2026-11-12T18:43:17.393970+00:00"
 }

@@ -5,34 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Jensen Huang's looming ouster triggers an AI earthquake",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94ak4xcTZteHBzaGNaXzhfWGZ0MzJ0R2VCOEJQSUF0eVhrWUZmUWx6TVhFOGZmVkdOSG1rdm1KbkZKV3YxTTloUnlNeDdTZjRxeHplWmVFaXZ4bUNuYndJRV9zdm9jb1lfZlE?oc=5",
-      "pub_date": 1794478103.0,
-      "article_url": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board",
+      "headline": "United Airlines Blocks A.I. Agents From Booking Flights on Customers\u2019 Behalf",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTVycnZoZS1nNU50eTQ2MGY3RUdNOXpTbi1vRGlWT2VsUTZ0QW1sYnY0amNTdjFDcW9zZ0NuVU5ua0dvS2VFUURrb3IxVGZBVk1lbjJUOExtQWl2a28teDB5RDkzdUJ1RFhwNkJqSTdEZTJTR3Q1X3plUnpSbndiTG9WV0pMMEx0UzRUMmpZcFZpSnJn?oc=5",
+      "pub_date": 1794438931.0,
+      "article_url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5",
-      "pub_date": 1794461460.0,
-      "article_url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia Leadership Scandal Drags on U.S. Stock Futures, Pressures AI Trade",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFA2c196U0Ewd255MEZwXzRYX0xlQTZzRV90enFaMGk3REwzVmtQVFVQRFV5Q2Q1WWdOTnVXUlY4VEJ5SjhQanJNckVzcnhxdzloTWMzc095MTk2Q1FWN0xTYl9lbkpPRnliNVFFcngyVjl5ZlVuX05IOFc1ODUzNjRUTzl5YkM2UU9nWGNES1ZRaWRkdFAxMzlBZFd0eW1nTlc2QU11R0tjT2FMZ1NNSVlWOHFJUQ?oc=5",
-      "pub_date": 1794475020.0,
-      "article_url": "https://www.wsj.com/finance/stocks/nvidia-leadership-scandal-drags-on-u-s-stock-futures-pressures-ai-trade-e7f6e5b8",
-      "image": null,
-      "description": null
+      "headline": "United Airlines blocks AI agents from booking flights",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5",
+      "pub_date": 1794505721.0,
+      "article_url": "https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NBUIZZXZ34PFNYJWD3GDBCVJXE.JPG&w=1440",
+      "description": "The airline said the use of artificial intelligence agents could violate regulations."
     },
     {
       "headline": "Exclusive | United Airlines Is Banning AI Bots From Booking Flights",
@@ -45,66 +35,76 @@
       "description": null
     },
     {
-      "headline": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDJtSXdwdkJWUlI4SlRWMzhQNlFKTG00LW4xVW9tZ1pLcFUtRzBQYklOMWRvZVZ4a3AwOTliX2hvcWpjYTN2eGR4NWp2M1BiMGNUMl9SZUxqQnpOWDU0QnRpUkdyX1FVSkVaRDFSUmw1R1pQWFFEMzNfVDN1MjY3QUNn?oc=5",
-      "pub_date": 1794425858.0,
-      "article_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
-      "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United."
-    },
-    {
-      "headline": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWelJQMjBsU1NEQ29GNlZhMXlKMkRvTDhabTFsNDdRSmxXUTFlaUlEY3hER1dQYml3TE1iQ0dsdHRRLXkxU2xtV18xY0VQd1E1V3hwSXRDMm5oc2o0Mm1nYzdHQ1dCOHJkRlRXbFd5SXVTTklXd2gwRWw3MGU2UQ?oc=5",
-      "pub_date": 1794391311.0,
-      "article_url": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
+      "headline": "Nvidia CEO Jensen Huang resigns, in blow to AI boom he helped foster",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
+      "pub_date": 1794508315.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "headline": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
       "source": "blog.google",
       "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGVFa0w0cmk4aTZOc0dVWnc5bm5lSzRZOE9aQldlcTZZUGc4MGNNWGlTbDFJYUlibHJoQ2xpOEdrUFpPODBQOGluNUhVQWxvY2ZuWE84TVN3NVJza04xVXlBcW1kVkl1WjZMM2RxREktM2Z3bVVqbTBkUnJuTy0tRl9KSkxuT2pzY0Zib1dKV24?oc=5",
-      "pub_date": 1794421363.0,
-      "article_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
-      "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
+      "pub_date": 1794506644.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+      "description": "Today, we\u2019re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows"
     },
     {
-      "headline": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIcURDWS16ajRLSUZqZzNpOW01T3RzVWhjdDJLWkNXOGRwVG5EVkJiV1ZxNjd5YUhjbElRdFd1Vmc5aERiOFV6WllGMXlwajAxOUhSeDhBazAtcTNqQnBjQi1sNVBTQ1hhQlRaY0ZzaWtEeTV6ZGNLczBFNA?oc=5",
-      "pub_date": 1794477656.0,
-      "article_url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
+      "headline": "SpaceX Announces $74 Billion AI Data-Center Expansions In Texas, Arizona",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFhoUmZPdDBKWHFJb0hYV0lhUmdSOV9oOFZDUnVxYm4yRENUUEpLeUY5NnJsSXFScFl2MXpSSmRxdzktOC14cmNfNERPT09UbmMwaUdIbHVpbnloOFg1QjZfNVkzZG1MRk9iNmFRVURpUGFVUmU2RkNlS19neXpNazREMUdFNFJRR0cyMlpETEIzT0ptLWtGZEZKOTBFZDl0eW5Qa3V3?oc=5",
+      "pub_date": 1794508800.0,
+      "article_url": "https://www.investors.com/news/spacex-stock-ai-data-center-projects-74-billion-texas-arizona-elon-musk/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/11/stock-spaceX-Hawthorne-adobe.jpg",
+      "description": "SpaceX on Thursday announced plans to invest $74 billion to build new AI data center facilities in Texas, Arizona. SPCX stock rises."
+    },
+    {
+      "headline": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5",
+      "pub_date": 1794502125.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/spacex-invest-over-74-billion-supercompute-facilities-texas-arizona-2026-11-12/",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI data centers need more raw materials. One investor is betting on recyclers.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXpEVnE4cWN6ZzNUTGN4elBzTUNPWHBoMXRidXRWanlZZXNibFJqTWotOExZeXZrUXktYkhaSFZ4N1dLNVFRSVNJbFdsNTZiNGd2cjIyazFEcHpGZW9qZFZDNEdPbTFPWHVQRXpPTkdnNDdCNXhEc1A3THhxMkhtMm92RjNMbC1hUm83OV84N1Njdw?oc=5",
-      "pub_date": 1794479160.0,
-      "article_url": "https://www.businessinsider.com/ai-data-centers-recycling-investment-opportunity-2026-11",
-      "image": "https://i.insider.com/6af4c9ab0cc3ffba8779c0f6?width=1200&format=jpeg",
-      "description": "As hyperscalers race to build AI data centers, companies that recycle critical components have become an investment opportunity."
+      "headline": "SpaceX plans more than $74 billion in AI supercomputing sites",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00dWQtOGRIVG9ubjdzcDRhNGVWb1RibFp5aExaSEVaQXVnZkhrTTFHTjFMMG04TWdwSm1fMzVSb0FRNjFzQjlrbmZUVzk5QTZXbjBYY0lyNnNoYW9DWkZHRWc2X1JEMVo1STJBYk5CdVRpNmY0aDZyMVgzQQ?oc=5",
+      "pub_date": 1794508781.0,
+      "article_url": "https://qz.com/spacex-74-billion-ai-supercomputing-texas-arizona-111226",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2270727188-300x200.jpg",
+      "description": "SpaceX said the Arizona campus carries a planned investment of about $50 billion, with up to $24 billion for the Texas site near Starbase"
     },
     {
-      "headline": "AI has proved that a theory underpinning fundamental physics is trustworthy",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQVhqQmRuQUg4NzV0SXQ0ejNaX2MzOHpxdThReEFnUkstejQ2bVg4dUVOeXRXTzlBaW9rRnlVRzB0Mk5XTlpXVDAzWGFyQjZOclluOFQ1ZmZ0RUR4LURBT3BxVDE1ZEpIYkxGd0xCcjZvQmsxS2xOMjcyWEtJUDhOclpmRGFkQ3FwQkN5R0x3aFNMLWFPSUNUd0lYZFJkQnA5Mm56YnVxa2ZORFRvbHVBR1dJcjVMUUJFbnU5UjZ4NmRXblZCU1F2QmZGVHZCbTZy?oc=5",
-      "pub_date": 1794420929.0,
-      "article_url": "https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy",
-      "image": null,
-      "description": null
+      "headline": "Adobe Just Changed Content Creation Forever. Here\u2019s How to Stand Out in the Age of AI",
+      "source": "Inc.com",
+      "source_url": "https://www.inc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnhVMVJMM3U2U2hTa0luem0yNFRycEEyWnZ1NFNBZlM1ZVVET3RuSjZ3MXRxeTF6MmVfVjJibS02TXpPU1g5OTJ2TWRHcFFXZU9jalVpSGJPQnlnQ2NtbUx0dl94OE9LYk05Qk5QYmNpdHNVa3ZjalBsTklVbnlCN1FDdE1TcWt3cEp0Y1ZjUXBma2s?oc=5",
+      "pub_date": 1794507476.0,
+      "article_url": "https://www.inc.com/nicole-ramirez/adobe-max-creative-agents-ai-content-creation/91435490",
+      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/11/adobe-max-ai-perspective-inc-213634510.jpg",
+      "description": "Adobe's latest AI agents handle the heavy lifting of production. Discover why your unique point of view matters more than ever."
+    },
+    {
+      "headline": "Opinion | The internet won\u2019t necessarily go dark. It could simply stop working.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDRWeDgySlpmMWUxZXYyR09XUEhOb0EwTnVVUVpoWnEyNDdYd1BBekZVUXk0R2x0VW5kTEgtMnkzUzV5WGtBcWFmWDZZTzhFS2xmYzNrVkIyWVg1UGZWeWFJeTNMalF2RVFZR2VyN1FLb2kwMFJzMFZ2OFU4TXBCT2hNYm9IZ29SRDRSbHRzTHh6WGxiUHVfOUdwSGx4Mm5SRlRDNGRBUmJWUQ?oc=5",
+      "pub_date": 1794508343.0,
+      "article_url": "https://www.washingtonpost.com/opinions/2026/11/12/ai-is-exposing-internets-cybersecurity-vulnerabilities/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OVMLILRC5BFJNHKKF6O3S6Y7QY.jpg&w=1440",
+      "description": "AI is exposing decades of software shortcuts. They need fixing before hackers exploit the weaknesses."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T10:43:02.002926+00:00"
+  "fetched_at": "2026-11-12T18:43:22.248617+00:00"
 }
