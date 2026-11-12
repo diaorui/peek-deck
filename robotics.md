@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-12T02:44:02.321440+00:00'
+updated: '2026-11-12T10:43:04.284893+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 12, 2026 at 02:44 UTC  
+**Last Updated:** November 12, 2026 at 10:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D
 
-6d ago
+7d ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev ki
 
 guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can’t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online
 
-6d ago
+7d ago
 
 ---
 
@@ -92,7 +92,7 @@ guys, need help asap, how can i connect the sg90 servo motor and 10k potentiomet
 
 Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!
 
-6d ago
+7d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I am developing a project called SmartGrid, an offline robotic tool
 
 Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?
 
-6d ago
+7d ago
 
 ---
 
@@ -124,17 +124,17 @@ Google DeepMind • 1d ago
 
 ---
 
-**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
+**[Intel: Robotics Is A Key Strategic Focus Going Forward](https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/)**
 
-An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
-
-WIRED • 6h ago
+Forbes • 23h ago
 
 ---
 
-**[Intel: Robotics Is A Key Strategic Focus Going Forward](https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/)**
+**[DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"](https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/)**
 
-Forbes • 15h ago
+The new model is up to twice as successful at some tasks.
+
+Ars Technica • 1d ago
 
 ---
 
@@ -142,15 +142,21 @@ Forbes • 15h ago
 
 UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs.
 
-The Robot Report • 13h ago
+The Robot Report • 21h ago
 
 ---
 
-**[The PLA’s Push for Military Robotics](https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/)**
+**[Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation](https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html)**
 
-Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People’s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing’s military robotics ambitions.
+The New York Times • 4h ago
 
-CSET | Center for Security and Emerging Technology • 14h ago
+---
+
+**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
+
+An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
+
+WIRED • 14h ago
 
 ---
 
@@ -158,39 +164,29 @@ CSET | Center for Security and Emerging Technology • 14h ago
 
 Runway Praxis-1, our open-weight world action model for robotics, is now available under Apache 2.0. Download the weights on Hugging Face and GitHub.
 
-Runway • 11h ago
+Runway • 19h ago
 
 ---
 
-**[Eric Trump-backed firm in talks to send humanoid robots into Hamas tunnels](https://www.telegraph.co.uk/us/news/2026/11/11/trump-humanoid-robots-hamas-tunnels/)**
+**[PRISM helps robots move better by learning how forces and motion interact](https://techxplore.com/news/2026-11-prism-robots-motion-interact.html)**
 
-IDF expected to purchase up to 1,000 from Foundation Future Industries where president’s son is adviser
-
-The Telegraph • 7h ago
+Tech Xplore • 17h ago
 
 ---
 
-**[Ring announces Ring Robotics, ushering in a new era of security](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)**
+**[NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust](https://www.eetimes.com/nxp-cto-lars-reger-on-physical-ai-robots-drones-and-trust/)**
 
-Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.
+NXP CTO Lars Reger on physical AI at electronica 2026: NavQ95 gets robots and drones running in 30 minutes, plus security and RISC-V.
 
-About Amazon • 1d ago
-
----
-
-**[How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/)**
-
-Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.
-
-NVIDIA Blog • 17h ago
+EE Times • 14h ago
 
 ---
 
-**[Serve Robotics wants to democratize sidewalk delivery robots](https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery)**
+**[The PLA’s Push for Military Robotics](https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/)**
 
-Serve Robotics is breaking away from delivery app lock-in.
+Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People’s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing’s military robotics ambitions.
 
-The Verge • 14h ago
+CSET | Center for Security and Emerging Technology • 22h ago
 
 ---
 
@@ -198,43 +194,23 @@ The Verge • 14h ago
 
 ## YouTube Videos: "robotics"
 
-**[China’s New Bionic AI Robots Look Too Human With Artificial Skin](https://www.youtube.com/watch?v=WPc-_6ToOqE)**
-
-China's new bionic AI robots read the news with artificial skin, camera eyes, and faces designed by Zhang Yimou. UBTech and ...
-
-📺 AI Revolution
-
-👁️ 16K • 👍 248 • 💬 20 • ⏱️ 14:05 • 2d ago
-
----
-
 **[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
 
 Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
 
 📺 Arctos Robotics
 
-👁️ 152K • 👍 2K • 💬 111 • ⏱️ 8:25 • 2d ago
+👁️ 168K • 👍 2K • 💬 120 • ⏱️ 8:25 • 2d ago
 
 ---
 
-**[King Kong Technology launches crab robot giveaway to collect AI training data #AI #Robotics](https://www.youtube.com/watch?v=mJpbk5aR1J8)**
+**[China’s New Bionic AI Robots Look Too Human With Artificial Skin](https://www.youtube.com/watch?v=WPc-_6ToOqE)**
 
-King Kong Technology is giving away 100 crab robots for free to collect real-world training data. These six-legged robots, ...
+China's new bionic AI robots read the news with artificial skin, camera eyes, and faces designed by Zhang Yimou. UBTech and ...
 
-📺 Kathryn Petrillo
+📺 AI Revolution
 
-👁️ 21K • 👍 540 • 💬 16 • ⏱️ 0:49 • 6d ago
-
----
-
-**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
-
-China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
-
-📺 The AI Nexus
-
-👁️ 37K • 👍 427 • 💬 54 • ⏱️ 15:41 • 1d ago
+👁️ 16K • 👍 251 • 💬 20 • ⏱️ 14:05 • 2d ago
 
 ---
 
@@ -244,27 +220,37 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The Tech Chap
 
-👁️ 59K • 👍 796 • 💬 163 • ⏱️ 5:28 • 1d ago
+👁️ 64K • 👍 838 • 💬 168 • ⏱️ 5:28 • 1d ago
 
 ---
 
-**[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
+**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
 
-Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
+China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
 
-📺 Statrys
+📺 The AI Nexus
 
-👁️ 192K • 👍 3K • 💬 444 • ⏱️ 15:13 • 5d ago
+👁️ 38K • 👍 437 • 💬 55 • ⏱️ 15:41 • 2d ago
 
 ---
 
-**[Japan&#39;s Fake Humans: JSK Lab&#39;s 25+ Year Evolution #robotics #robots #uncannyvalley](https://www.youtube.com/watch?v=QQ2EjgAKpWA)**
+**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
 
-The University of Tokyo's JSK Robotics Laboratory has been pioneering musculoskeletal humanoids since the late 1990s. Kenta ...
+This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
 
-📺 Kalil 4.0
+📺 Unstoppable Gadgets
 
-👁️ 1K • 👍 28 • 💬 1 • ⏱️ 1:04 • 9h ago
+👁️ 211K • 👍 3K • 💬 80 • ⏱️ 0:21 • 6d ago
+
+---
+
+**[Race Car Suspension Meets Field Robotics | SCOUT 2.0 Off-Road Mobile Robot](https://www.youtube.com/watch?v=MI86azwKTBM)**
+
+What helps a supercar stay composed through corners can also help a robot tackle rough terrain. SCOUT 2.0 features ...
+
+📺 AgileX Robotics
+
+👁️ 1K • 👍 11 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -274,17 +260,17 @@ Source: https://papers.robocurve.org/robospoof.
 
 📺 Better Stack
 
-👁️ 284 • 👍 18 • 💬 1 • ⏱️ 2:52 • 29m ago
+👁️ 9K • 👍 467 • 💬 38 • ⏱️ 2:52 • 8h ago
 
 ---
 
-**[Amazon unveils Ring indoor security drone and autonomous patrol robot](https://www.youtube.com/watch?v=sBwJ9d_YASo)**
+**[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
 
-Amazon has unveiled two new robotics devices under its Ring brand, introducing the Ring Rover Cam—an autonomous ...
+Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
 
-📺 FOX 5 New York
+📺 Statrys
 
-👁️ 3K • 👍 14 • 💬 11 • ⏱️ 2:31 • 12h ago
+👁️ 195K • 👍 3K • 💬 449 • ⏱️ 15:13 • 5d ago
 
 ---
 
@@ -294,7 +280,17 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 25K • 👍 1K • 💬 43 • ⏱️ 1:44 • 5d ago
+👁️ 25K • 👍 1K • 💬 42 • ⏱️ 1:44 • 5d ago
+
+---
+
+**[I ONLY WAITED 1 YEAR FOR THIS... [WAR ROBOTS]](https://www.youtube.com/watch?v=QJ63Jp7alAs)**
+
+War Robots Gameplay: Manni FINALLY gets UE VORTEX and UE Ravana! My War Robots Creator Link: ...
+
+📺 Manni-Gaming
+
+👁️ 32K • 👍 1K • 💬 178 • ⏱️ 36:34 • 22h ago
 
 ---
 
