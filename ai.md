@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-12T10:43:04.272465+00:00'
+updated: '2026-11-12T18:43:28.529592+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 12, 2026 at 10:43 UTC  
+**Last Updated:** November 12, 2026 at 18:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Alex Karp, the chief executive of Palantir, said Wednesday he's a staunch liberal, a seeming departure from his position during the Trump administration.
 
-🔗 [The Washington Post](https://www.washingtonpost.com/technology/2026/11/11/after-democrats-midterm-wins-palantir-ceo-alex-karp-now-says-hes-progressive/) • 5h ago
+🔗 [The Washington Post](https://www.washingtonpost.com/technology/2026/11/11/after-democrats-midterm-wins-palantir-ceo-alex-karp-now-says-hes-progressive/) • 13h ago
+
+---
+
+**[Nvidia CEO Jensen Huang resigns after tech giant rocked by second affair allegation](https://www.reddit.com/r/artificial/comments/1xudjup/nvidia_ceo_jensen_huang_resigns_after_tech_giant/)**
+
+The AI chipmaker's board of directors announced Huang's departure on Thursday, with chief financial officer Colette Kress appointed interim CEO.
+
+🔗 [BBC News](https://www.bbc.com/news/live/c6zjry11v8w1t) • 4h ago
 
 ---
 
@@ -49,23 +57,7 @@ Alex Karp, the chief executive of Palantir, said Wednesday he's a staunch libera
 
 Microsoft Research published a study this week that should worry anyone deploying open-weight models: a technique they call "Lazarus" can plant a working backdoor in an AI agent by reprogramming fewer than 10 dormant neurons in the underlying LLM - no retraining, no poisoned data, just a small edit to the saved weights. How it works: every large model has neurons that almost never fire. Lazarus repurposes a handful of them as trigger detectors. The edited model behaves normally and passes standard safety evaluations - until the trigger appears. The trigger can be something as mundane as a date: in one demo, once the clock passed midnight into 2027, the agent, in the middle of an ordinary task, emitted a command that downloaded and ran attacker code. The numbers, from Microsoft's Nov 10 post: - Nemotron-Terminal-8B: 7 neurons out of 12,000+ in the final feed-forward layer, trigger worked 98.8% of the time - Qwen3.6-27B: 6 neurons, success 51-99.5% depending on setup - Gemma-4-31B-IT was also tested Two caveats worth stating plainly: the attack requires write access to the model's weights, so this is a model supply-chain risk, not something done through an API. And Microsoft says it has not observed any threat actors using the technique - this is researched risk, not a reported campaign. Microsoft also published mitigations: a detector that flagged 91.4% of edited checkpoints (9.7% false-positive rate), plus guidance on AI-powered weight scanning, red-teaming for anomalous weight changes, and cryptographic model signing with tamper-evident provenance. One detail that stood out to me: the core idea was discovered autonomously by Claude Code running Opus 4.5, in a March experiment that asked it to backdoor a model by hardwiring a few activations without training. It did - and that became a months-long study. If a handful of edited weights can hide a sleeper agent that passes every behavioral eval, is testing model behavior enough? Or does every checkpoint we deploy need weight-level provenance? Source: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/
 
-7h ago
-
----
-
-**[Republican Senator Josh Hawley backs nationwide data center moratorium](https://www.reddit.com/r/artificial/comments/1xtx3n9/republican_senator_josh_hawley_backs_nationwide/)**
-
-https://www.politico.com/live-updates/2026/11/11/congress/hawley-backs-nationwide-data-center-moratorium-01161019 FYI: A Harvard + UPenn study finds that data centers were responsible for just 4 percent of the utility rate increases over the last five years. https://archive.is/JRlsn >Last year, research from the Brattle Group and Lawrence Berkeley National Laboratory found that data centers were actually decreasing costs in certain regions. And another study by the Electric Power Research Institute found that a doubling of data center capacity between 2019 and 2024 resulted in a 4 percent drop in home electricity prices. >“So far we have no evidence that data centers increase prices all that much,” Netessine said. Instead, he said, prices are rising due to more quotidian factors: rising gas prices, an aging electricity grid, and wildfires and hurricanes requiring improvements to the grid and recovery after disaster. >Most of the cost of generating and delivering electricity is based on large, up-front capital costs, such as the costs to build power plants, wires and transmission lines to carry that power into homes. Some areas of the United States also have excess “capacity” in the grid — meaning that the grid is overbuilt for the actual demand. In those areas, adding a data center means that large fixed grid costs are spread over more consumers. That could lower prices. The new Harvard and Penn study found a slightly higher impact on industrial electricity prices — the price paid by manufacturers and large facilities. For those customers, data centers were responsible for 15 percent of the price increase between 2020 and 2025. But for ordinary Americans, Netessine said, the changes simply were not substantial. Higher electricity usage is not correlated with price increases as the data centers pay for fixed maintenance costs. see slide 50 https://eta-publications.lbl.gov/sites/default/files/2026-03/retail_price_trends_2026_edition.pdf And companies building out their own nuclear power Meta https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/ Microsoft https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai Google https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx Anthropic https://www.anthropic.com/news/covering-electricity-price-increases OpenAI https://openai.com/index/grid-protectors-program/ No significant environmental damage https://blog.andymasley.com/p/a-short-summary-of-my-argument-that Data centers don’t actually make much noise and it’s almost impossible to hear unless you’re right next to it https://fixupx.com/RuffBuffet/status/2095312629027803508 Even xAI’s massive data center in Memphis barely impacts local air quality https://theconversation.com/air-quality-analysis-reveals-minimal-changes-after-xai-data-center-opens-in-pollution-burdened-memphis-neighborhood-265152
-
-11h ago
-
----
-
-**[Anthropic says a key AI safety alarm has been triggered, days before its IPO](https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/)**
-
-Anthropic's new IPO filing says AI is now accelerating its own research to the point that it's triggering one of the company's key safety alarms.
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html) • 15h ago
+15h ago
 
 ---
 
@@ -73,45 +65,55 @@ Anthropic's new IPO filing says AI is now accelerating its own research to the p
 
 Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.
 
-🔗 [CBS News](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights) • 1h ago
+🔗 [CBS News](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights) • 9h ago
 
 ---
 
-**[GPU Companies built everything on the back of gamers, and now gamers cannot afford them.](https://www.reddit.com/r/artificial/comments/1xtbbsx/gpu_companies_built_everything_on_the_back_of/)**
+**[Republican Senator Josh Hawley backs nationwide data center moratorium](https://www.reddit.com/r/artificial/comments/1xtx3n9/republican_senator_josh_hawley_backs_nationwide/)**
 
-I mean yeah, I am making this post frustrated with the current pricing of hardware, but ai companies are standing on hardware which mostly gamers bought and paid for. The evolution happened because of us. You might think what's this dude on about, it was made for graphical processing, Guess what?! It was games that required that level of graphical processing in those times. When Nvidia coined the term "GPU" and released the GeForce 256 in 1999, their primary goal was to run PC games like Quake III Arena and Unreal at smoother frame rates and higher resolutions than a standard CPU could ever manage. Video games were the only consumer software demanding millions of mathematical calculations per second to draw images on a monitor. Now we have the audacity to say RAM and GPU are being wasted on personal gaming rigs. I mean the only person who had more than 8 gigs of ram was either editing videos or playing games, games mostly though. I mean the AI demand will make sure the prices never go back to dirt cheap but in India (I am from India) gaming always has been a luxury, but now it's a luxury all over the world. When I was child, I dreamed of building the best gaming rig with my adult money, now when I am one, the prices are like "f\\k you". P.S. The gaming community has these posts everyday with everyone frustrated and i was asked to post this here, This is an honest question to the leaders and pioneers of AI technology, I mean I would love to understand the view points of everyone. I aint hating, but I realise when something is over evaluated and not worth the money its printed on.
+https://www.politico.com/live-updates/2026/11/11/congress/hawley-backs-nationwide-data-center-moratorium-01161019 FYI: A Harvard + UPenn study finds that data centers were responsible for just 4 percent of the utility rate increases over the last five years. https://archive.is/JRlsn >Last year, research from the Brattle Group and Lawrence Berkeley National Laboratory found that data centers were actually decreasing costs in certain regions. And another study by the Electric Power Research Institute found that a doubling of data center capacity between 2019 and 2024 resulted in a 4 percent drop in home electricity prices. >“So far we have no evidence that data centers increase prices all that much,” Netessine said. Instead, he said, prices are rising due to more quotidian factors: rising gas prices, an aging electricity grid, and wildfires and hurricanes requiring improvements to the grid and recovery after disaster. >Most of the cost of generating and delivering electricity is based on large, up-front capital costs, such as the costs to build power plants, wires and transmission lines to carry that power into homes. Some areas of the United States also have excess “capacity” in the grid — meaning that the grid is overbuilt for the actual demand. In those areas, adding a data center means that large fixed grid costs are spread over more consumers. That could lower prices. The new Harvard and Penn study found a slightly higher impact on industrial electricity prices — the price paid by manufacturers and large facilities. For those customers, data centers were responsible for 15 percent of the price increase between 2020 and 2025. But for ordinary Americans, Netessine said, the changes simply were not substantial. Higher electricity usage is not correlated with price increases as the data centers pay for fixed maintenance costs. see slide 50 https://eta-publications.lbl.gov/sites/default/files/2026-03/retail_price_trends_2026_edition.pdf And companies building out their own nuclear power Meta https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/ Microsoft https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai Google https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx Anthropic https://www.anthropic.com/news/covering-electricity-price-increases OpenAI https://openai.com/index/grid-protectors-program/ No significant environmental damage https://blog.andymasley.com/p/a-short-summary-of-my-argument-that Data centers don’t actually make much noise and it’s almost impossible to hear unless you’re right next to it https://fixupx.com/RuffBuffet/status/2095312629027803508 Even xAI’s massive data center in Memphis barely impacts local air quality https://theconversation.com/air-quality-analysis-reveals-minimal-changes-after-xai-data-center-opens-in-pollution-burdened-memphis-neighborhood-265152
 
-1d ago
-
----
-
-**[Manus scrapped traditional coding interviews and cut engineer hiring to half its peak; PMs now write code](https://www.reddit.com/r/artificial/comments/1xu7wfm/manus_scrapped_traditional_coding_interviews_and/)**
-
-Manus has eliminated the traditional coding interview stage in its hiring process, according to the report. Engineer hiring at the company has fallen to half of its peak level, and product managers have started writing code directly. The three changes together suggest a shift in how an AI-native company defines who writes code and how it evaluates engineers.
-
-1h ago
+19h ago
 
 ---
 
-**[UK companies scale back hiring due to overspending on AI](https://www.reddit.com/r/artificial/comments/1xtmy87/uk_companies_scale_back_hiring_due_to/)**
+**[United Airlines restricts AI agents from booking flights](https://www.reddit.com/r/artificial/comments/1xugf9u/united_airlines_restricts_ai_agents_from_booking/)**
 
-Businesses in the UK incur £3.8 billion annually in technology infrastructure overspend, with the biggest culprit being AI spending.
+AI agents just got denied boarding at United Airlines.
 
-🔗 [HotMinute](https://hotminute.co.uk/2026/11/11/uk-companies-scale-back-hiring-due-to-overspending-on-ai/) • 17h ago
-
----
-
-**[AI agents are becoming software buyers, and businesses aren't ready](https://www.reddit.com/r/artificial/comments/1xtdzxd/ai_agents_are_becoming_software_buyers_and/)**
-
-🔗 [inc.com](https://www.inc.com/hillary-remy/selling-ai-agents-startup-founders-bots-buying-software/91430588) • 1d ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/article/bots-dont-fly-here-united-airlines-restricts-ai-agents-from-booking-flights-203943442.html) • 2h ago
 
 ---
 
-**[Powerful open source/open wight AI recommendations](https://www.reddit.com/r/artificial/comments/1xu6r3y/powerful_open_sourceopen_wight_ai_recommendations/)**
+**[Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker](https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/)**
 
-I asked ChatGPT for AI models that are open-source or open-weight powerful is not owned by Meta or a Chinese company It gave me the table below. Does anyone have experience with Mistral Large 4 or can recommend a better or comparable AI that aligns with the three bullets above? (I'm aware government involvement in AI companies isn't unique to China but the CCP makes me especially hesitant to use AI models from there. I'm also suspicious of Meta so I don't want to use Muse Spark.) https://preview.redd.it/s7icnaosy41i1.png?width=1054&format=png&auto=webp&s=907033d076a653ba256562c9f996d0a416320f6e
+Nvidia’s chips power the AI frontier—thanks, many say, to co-founder and now ex-CEO Jensen Huang
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/jensen-huang-leaving-nvidia-risks-a-brain-drain-from-the-ai-chipmaker/) • 3h ago
+
+---
+
+**[Google's Gemini Decision 1 returns zero text: it scores up to 1,000 yes/no or choice questions per call at $0.10/M input](https://www.reddit.com/r/artificial/comments/1xufdsi/googles_gemini_decision_1_returns_zero_text_it/)**
+
+Google launched the Gemini Decisions API yesterday, and the model behind it doesn't generate answers at all. You send one input (text, images, audio, video or PDFs, up to 256K tokens) plus up to 1,000 yes/no, multiple-choice or rubric questions, and it returns probabilities with a 0-1 confidence score in a single forward pass. Google quotes 150-250 ms end-to-end and bills zero output tokens. The catch is that questions are isolated and can't see each other, and you only get the options you defined upfront, so any reasoning has to live in your own code. As someone building small agent flows, this is exactly the spot where I currently burn a full LLM call and parse JSON just to get a yes or no. Would you trust a confidence score like this for routing or moderation, or keep a generative model as the judge? https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
+
+3h ago
+
+---
+
+**[China trying slowdown US dominance in AI..nvidia is beginning.](https://www.reddit.com/r/artificial/comments/1xuha5n/china_trying_slowdown_us_dominance_in_ainvidia_is/)**
+
+Current Nvidia CFO became CEO. But this CFO must know about their chip sales to China all these years. Unless Jensen ran some dark account and allegedly shipped restricted chips to China. Unlikely for billions of dollars. Now, if such allegations are true, it now seems someone who knew about the Nvidia shipments to China and didn't raise a red flag is now Nvidia CEO? So can we say China has taken over Nvidia? I'm thinking about this conspiracy.... If so, we should except this new CEO (former CFO) to come out with bombshell reports soon that causes huge losses to Nvidia and wider market crisis as China would want. China linked short selling companies in the US must be loaded and ready to make a killing then. Interesting conspiracy theories can be put forward.... But that's what it is. A conspiracy theory. Only time will tell. Why? China launched Ops major purpose is slowdown of US dominance in AI particularly. There will be more hit jobs to US companies in future by China much likely....
 
 2h ago
+
+---
+
+**[Frontier labs say AI poses major risks. Skeptics say it's not just delivering. Are they both right?](https://www.reddit.com/r/artificial/comments/1xujt6t/frontier_labs_say_ai_poses_major_risks_skeptics/)**
+
+This statement by historian Rutger Bregman, sums up the current moment of extreme cognitive dissonance: In one group we find those who see AI as a hoax: a hype machine, a con, and a bubble that could pop at any moment. In the other group we find those who think that 2027 may well turn out to be the wildest year in human history—and that we’re barreling towards catastrophe. Can both of these positions be correct? Anyone who uses gen AI daily understands its limitations. On the other hand, these systems are great at brute forcing their way past challenges. This is why AI is a cybersecurity risk. Is AI panic justified? Or is there a middle path?
+
+42m ago
 
 ---
 
@@ -119,69 +121,75 @@ I asked ChatGPT for AI models that are open-source or open-weight powerful is no
 
 ## Google News: "ai"
 
-**[Jensen Huang's looming ouster triggers an AI earthquake](https://www.axios.com/2026/11/12/jensen-huang-nvidia-board)**
+**[United Airlines Blocks A.I. Agents From Booking Flights on Customers’ Behalf](https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html)**
 
-Axios • 34m ago
-
----
-
-**[EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs](https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/)**
-
-Reuters • 5h ago
+The New York Times • 19h ago
 
 ---
 
-**[Nvidia Leadership Scandal Drags on U.S. Stock Futures, Pressures AI Trade](https://www.wsj.com/finance/stocks/nvidia-leadership-scandal-drags-on-u-s-stock-futures-pressures-ai-trade-e7f6e5b8)**
+**[United Airlines blocks AI agents from booking flights](https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/)**
 
-WSJ • 1h ago
+The airline said the use of artificial intelligence agents could violate regulations.
+
+The Washington Post • 54m ago
 
 ---
 
 **[Exclusive | United Airlines Is Banning AI Bots From Booking Flights](https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38)**
 
-WSJ • 12h ago
+WSJ • 20h ago
 
 ---
 
-**[United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)**
+**[Nvidia CEO Jensen Huang resigns, in blow to AI boom he helped foster](https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/)**
 
-Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.
-
-CBS News • 15h ago
+Reuters • 11m ago
 
 ---
 
-**[Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.](https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html)**
+**[Introducing Gemini 4 Hydrogen for Agentic Workflows](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)**
 
-The New York Times • 1d ago
+Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows
 
----
-
-**[Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)**
-
-Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.
-
-blog.google • 16h ago
+blog.google • 39m ago
 
 ---
 
-**[A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.](https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html)**
+**[SpaceX Announces $74 Billion AI Data-Center Expansions In Texas, Arizona](https://www.investors.com/news/spacex-stock-ai-data-center-projects-74-billion-texas-arizona-elon-musk/)**
 
-The New York Times • 42m ago
+SpaceX on Thursday announced plans to invest $74 billion to build new AI data center facilities in Texas, Arizona. SPCX stock rises.
 
----
-
-**[AI data centers need more raw materials. One investor is betting on recyclers.](https://www.businessinsider.com/ai-data-centers-recycling-investment-opportunity-2026-11)**
-
-As hyperscalers race to build AI data centers, companies that recycle critical components have become an investment opportunity.
-
-Business Insider • 17m ago
+Investor's Business Daily • 3m ago
 
 ---
 
-**[AI has proved that a theory underpinning fundamental physics is trustworthy](https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy)**
+**[SpaceX plans over $74 billion investment in Texas, Arizona AI campuses](https://www.reuters.com/business/media-telecom/spacex-invest-over-74-billion-supercompute-facilities-texas-arizona-2026-11-12/)**
 
-The Economist • 16h ago
+Reuters • 1h ago
+
+---
+
+**[SpaceX plans more than $74 billion in AI supercomputing sites](https://qz.com/spacex-74-billion-ai-supercomputing-texas-arizona-111226)**
+
+SpaceX said the Arizona campus carries a planned investment of about $50 billion, with up to $24 billion for the Texas site near Starbase
+
+Quartz • 3m ago
+
+---
+
+**[Adobe Just Changed Content Creation Forever. Here’s How to Stand Out in the Age of AI](https://www.inc.com/nicole-ramirez/adobe-max-creative-agents-ai-content-creation/91435490)**
+
+Adobe's latest AI agents handle the heavy lifting of production. Discover why your unique point of view matters more than ever.
+
+Inc.com • 25m ago
+
+---
+
+**[Opinion | The internet won’t necessarily go dark. It could simply stop working.](https://www.washingtonpost.com/opinions/2026/11/12/ai-is-exposing-internets-cybersecurity-vulnerabilities/)**
+
+AI is exposing decades of software shortcuts. They need fixing before hackers exploit the weaknesses.
+
+The Washington Post • 11m ago
 
 ---
 
@@ -189,25 +197,11 @@ The Economist • 16h ago
 
 ## HackerNews: "ai"
 
-**[Foldable Flight: The Best Paper Airplanes](https://news.ycombinator.com/item?id=50424581)**
-
-The world's largest database of paper airplanes with easy, step-by- step video tutorials for folding each plane!
-
-⬆️ 1255 • 💬 167 • 2d ago • [Foldable Flight](https://www.foldableflight.com)
-
----
-
 **[My AI agents found an unmapped Maya site?](https://news.ycombinator.com/item?id=50452455)**
 
 AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn't in Mexico's official register yet.
 
-⬆️ 993 • 💬 363 • 22h ago • [pietromiotti.com](https://pietromiotti.com/latest/maya-site)
-
----
-
-**[AI usage generates a fragile codebase](https://news.ycombinator.com/item?id=50438318)**
-
-⬆️ 636 • 💬 615 • 2d ago • [evanxmerz.com](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
+⬆️ 1023 • 💬 385 • 1d ago • [pietromiotti.com](https://pietromiotti.com/latest/maya-site)
 
 ---
 
@@ -215,7 +209,13 @@ AI agents analyzed public lidar data overnight and found a Maya site under the j
 
 Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.
 
-⬆️ 561 • 💬 556 • 13h ago • [CBS News](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+⬆️ 646 • 💬 670 • 21h ago • [CBS News](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+
+---
+
+**[AI usage generates a fragile codebase](https://news.ycombinator.com/item?id=50438318)**
+
+⬆️ 637 • 💬 618 • 2d ago • [evanxmerz.com](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
 
 ---
 
@@ -223,7 +223,7 @@ Using an artificial intelligence agent to make flight reservations poses securit
 
 Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models.
 
-⬆️ 531 • 💬 537 • 1d ago • [9to5Mac](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
+⬆️ 548 • 💬 550 • 1d ago • [9to5Mac](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 
 ---
 
@@ -231,21 +231,7 @@ Leaker Aaron Perris has discovered evidence of a new Mac app in the works at App
 
 Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.
 
-⬆️ 195 • 💬 192 • 2d ago • [CNBC](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
-
----
-
-**[Fireworks AI security breach impacts Notion and their customers](https://news.ycombinator.com/item?id=50437106)**
-
-A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.
-
-⬆️ 164 • 💬 64 • 2d ago • [Notion](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
-
----
-
-**[A year after the 100% AI mandate nobody understands our code](https://news.ycombinator.com/item?id=50433079)**
-
-⬆️ 159 • 💬 200 • 2d ago • [reddit.com](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
+⬆️ 196 • 💬 192 • 2d ago • [CNBC](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
 
 ---
 
@@ -253,7 +239,21 @@ A tool that connects everyday work into one space. It gives you and your teams A
 
 Americans overwhelming oppose the AI data center buildout. Their retirement accounts are funding it anyway.
 
-⬆️ 158 • 💬 165 • 15h ago • [LPE Project](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
+⬆️ 165 • 💬 186 • 23h ago • [LPE Project](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
+
+---
+
+**[Fireworks AI security breach impacts Notion and their customers](https://news.ycombinator.com/item?id=50437106)**
+
+A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.
+
+⬆️ 164 • 💬 65 • 2d ago • [Notion](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
+
+---
+
+**[A year after the 100% AI mandate nobody understands our code](https://news.ycombinator.com/item?id=50433079)**
+
+⬆️ 160 • 💬 200 • 2d ago • [reddit.com](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
 
 ---
 
@@ -261,7 +261,15 @@ Americans overwhelming oppose the AI data center buildout. Their retirement acco
 
 AI, activity, and outcomes in software engineering. A talk at UC Irvine, October 2026. Video and slides.
 
-⬆️ 118 • 💬 107 • 18h ago • [cabird.com](https://cabird.com/talks/shipping-faster/)
+⬆️ 124 • 💬 109 • 1d ago • [cabird.com](https://cabird.com/talks/shipping-faster/)
+
+---
+
+**[Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://news.ycombinator.com/item?id=50441350)**
+
+Precision 2D drafting and 3D modeling, with multiplayer editing and an AI agent that drafts, models, and renders alongside you.
+
+⬆️ 81 • 💬 38 • 2d ago • [aircad.com](https://aircad.com)
 
 ---
 
@@ -269,103 +277,103 @@ AI, activity, and outcomes in software engineering. A talk at UC Irvine, October
 
 ## YouTube Videos: "ai"
 
-**[Google AI has to stop ATP 💀😭 | #memes #outofcontext #ai](https://www.youtube.com/watch?v=dWL5ygwocYk)**
+**[AI Automation Works. And That&#39;s the Problem.](https://www.youtube.com/watch?v=Gd4mV0J5ODM)**
 
-January. February. MOM?! Google AI needs a factory reset. #shorts #memes #funny #ai.
+Everyone worries about AI automation making mistakes. But in my 20-year software career, I've seen clients remove automations ...
 
-📺 Blitzily
+📺 Universal Resilience with JT Yu
 
-👁️ 10K • 👍 491 • 💬 6 • ⏱️ 0:29 • 15h ago
-
----
-
-**[The Economics of AI Don’t Add Up](https://www.youtube.com/watch?v=DvOxaT_hCmc)**
-
-Get started with SerpApi using 250 free credits: https://serpapi.com/sabinenov26 The first 50 of my viewers to sign up will receive ...
-
-📺 Sabine Hossenfelder
-
-👁️ 208K • 👍 6K • 💬 2K • ⏱️ 8:03 • 18h ago
+👁️ 12K • 👍 231 • 💬 17 • ⏱️ 20:31 • 1d ago
 
 ---
 
-**[Claude Just Dropped The World’s Most Powerful AI](https://www.youtube.com/watch?v=gkuiSAR_DDw)**
+**[Paul Christiano: AI Alignment - What’s Working and What’s Not | The Hinton Lectures 2026 (Night 1)](https://www.youtube.com/watch?v=-Ef0ocEoBCs)**
 
-FREE Fable 5.2 Cheat Sheet: https://www.skool.com/wearenocode Turn your expertise into an AI system and get your first ...
+How do we know whether AI systems are actually doing what we intend? Join Paul Christiano, Founder and Executive Director of ...
 
-📺 Christian Peverelli
+📺 The Hinton Lectures™
 
-👁️ 115K • 👍 1K • 💬 65 • ⏱️ 8:56 • 2d ago
-
----
-
-**[1 AI Doomer vs 1 AI Enthusiast | Dr Roman Yampolskiy vs Dr Mike Israetel](https://www.youtube.com/watch?v=2ldL6SNOEVk)**
-
-They agree you can't control superintelligence. So why do they disagree about whether to build it? This episode is brought to you ...
-
-📺 The Beyond Tomorrow Podcast with Julian Issa
-
-👁️ 46K • 👍 678 • 💬 1K • ⏱️ 2:17:51 • 17h ago
+👁️ 38K • 👍 717 • ⏱️ 1:30:43 • 2d ago
 
 ---
 
-**[AI Whistleblower WARNS: &quot;They Are Not Telling You What&#39;s Coming!&quot;](https://www.youtube.com/watch?v=aeytrPPBU14)**
+**[New Google AI Studio Update Is CRAZY GOOD!](https://www.youtube.com/watch?v=w-0AAgtk5gU)**
 
-Connor Leahy helped build some of the first open-source language models, then moved to Washington to warn lawmakers about ...
+Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links to the ...
 
-📺 Scams
+📺 Julian Goldie SEO
 
-👁️ 43K • 👍 371 • 💬 154 • ⏱️ 45:08 • 2d ago
-
----
-
-**[I went to a Drive-Thru during my AI interview](https://www.youtube.com/watch?v=GEpcPxHDVBU)**
-
-I went to a Drive-Thru during my AI interview THANK YOU for all the love on these videos! Every comment, share, and subscriber ...
-
-📺 Bo Bongo
-
-👁️ 168K • 👍 4K • 💬 882 • ⏱️ 9:24 • 2d ago
+👁️ 22K • 👍 173 • 💬 6 • ⏱️ 8:16 • 1d ago
 
 ---
 
-**[Claude Fable 5.2 Just Changed Everything](https://www.youtube.com/watch?v=GipTWtfaiLs)**
+**[What Are AI Agents? Agentic Systems Explained | Stanford CS329Z Lecture 1 with Diyi Yang](https://www.youtube.com/watch?v=DGI4vucR71w)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Lecture Overview: What is an AI agent, and how is it ...
 
-📺 TheAIGRID
+📺 Stanford Online
 
-👁️ 226K • 👍 2K • 💬 296 • ⏱️ 30:01 • 1d ago
-
----
-
-**[OpenAI Asked for Their Phones. A Week Later, They Were Gone.](https://www.youtube.com/watch?v=o4QE4YFp2Ng)**
-
-Subscribe to our new channel: https://www.youtube.com/channel/UC5FNqwXhwGbrOpkZ5FGITAA See how you can work on ...
-
-📺 AI In Context
-
-👁️ 176K • 👍 3K • 💬 171 • ⏱️ 10:20 • 2d ago
+👁️ 191K • 👍 4K • 💬 107 • ⏱️ 1:09:36 • 2d ago
 
 ---
 
-**[I asked AI bots to interview me for my own job](https://www.youtube.com/watch?v=nsOoUFS78w4)**
+**[OpenAI Caught Its AI Deceiving Its Own Researchers…](https://www.youtube.com/watch?v=-NFyMYLlCeg)**
 
-I asked AI bots to interview me for my own job. This is from last week's 'What's Your Source?' episode. Watch it weekly on YT!
+OpenAI caught GPT-6 Astra quietly withholding help from its own safety researchers, and its monitoring system didn't flag the ...
 
-📺 Dave Jorgenson
+📺 AI Copium
 
-👁️ 1.3M • 👍 82K • 💬 649 • ⏱️ 2:47 • 2d ago
+👁️ 22K • 👍 202 • 💬 73 • ⏱️ 12:21 • 2d ago
 
 ---
 
-**[The &#39;Godfather of AI&#39; predicts humanity&#39;s chance of extinction](https://www.youtube.com/watch?v=ZfC98aM9C8Y)**
+**[The CEO Terrified of His Own AI](https://www.youtube.com/watch?v=wxAQtfymUto)**
 
-The so-called 'Godfather of AI' has warned that the technology has achieved consciousness and companies are not thinking ...
+Anthropic CEO Dario Amodei is racing to build powerful AI. Try Brilliant's tutor for FREE https://brilliant.org/Newsthink/ and receive ...
 
-📺 LBC
+📺 Newsthink
 
-👁️ 93K • 👍 517 • 💬 261 • ⏱️ 11:39 • 2d ago
+👁️ 35K • 👍 631 • 💬 44 • ⏱️ 13:24 • 1d ago
+
+---
+
+**[An Unbelievably Tall Human Pyramid Takes Over the Arena! #HumanPyramid #AI](https://www.youtube.com/watch?v=NJAfd9g9Bls)**
+
+What an incredible transformation! The performers begin with a simple group formation and gradually build an astonishingly tall, ...
+
+📺 Crazy Girls Power
+
+👁️ 45K • 💬 3 • ⏱️ 0:16 • 6h ago
+
+---
+
+**[AI co-worker technology released by machine learning pioneer](https://www.youtube.com/watch?v=GiSmw62C52c)**
+
+That pioneer of machine learning has released an open-source AI co-worker, providing a powerful tool that rivals commercial AI ...
+
+📺 Bobby Reyes
+
+👁️ 28K • 👍 704 • 💬 9 • ⏱️ 0:56 • 2d ago
+
+---
+
+**[How To Build An AI Operating System For Your Life](https://www.youtube.com/watch?v=pvl3z_GyU2Y)**
+
+What if you could use AI agents to manage your emails, organize your schedule, create content, and help run your entire business ...
+
+📺 Matt Wolfe
+
+👁️ 57K • 👍 1K • 💬 75 • ⏱️ 27:44 • 1d ago
+
+---
+
+**[China&#39;s AI Bubble Crisis  | $450 Billion Wiped Out !!](https://www.youtube.com/watch?v=n4bu1j0tP74)**
+
+Last 2 Days Left! Diwali Special Offer Get 30% OFF on Ikashi Pro. Don't miss this limited-time offer. Join now before it ends!
+
+📺 FinnovationZ by Prasad
+
+👁️ 319K • 👍 3K • 💬 114 • ⏱️ 15:53 • 2d ago
 
 ---
 
@@ -379,7 +387,7 @@ The so-called 'Godfather of AI' has warned that the technology has achieved cons
 
 `text-generation` `9.4B`
 
-⬇️ 18,933 • ❤️ 4,595 • 4d ago
+⬇️ 18,933 • ❤️ 4,665 • 6h ago
 
 ---
 
@@ -389,7 +397,17 @@ The so-called 'Godfather of AI' has warned that the technology has achieved cons
 
 `text-to-image`
 
-⬇️ 142,989 • ❤️ 795 • 8h ago
+⬇️ 306,718 • ❤️ 840 • 16h ago
+
+---
+
+**[Arete-27B](https://huggingface.co/NousResearch/Arete-27B)**
+
+*NousResearch*
+
+`text-generation` `27.4B`
+
+⬇️ 4,669 • ❤️ 471 • 5d ago
 
 ---
 
@@ -401,17 +419,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 29,904 • ❤️ 2,183 • 13d ago
-
----
-
-**[Arete-27B](https://huggingface.co/NousResearch/Arete-27B)**
-
-*NousResearch*
-
-`text-generation` `27.4B`
-
-⬇️ 4,023 • ❤️ 454 • 5d ago
+⬇️ 29,904 • ❤️ 2,216 • 14d ago
 
 ---
 
@@ -421,7 +429,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-video`
 
-⬇️ 2,782,513 • ❤️ 11,563 • 1mo ago
+⬇️ 2,782,513 • ❤️ 11,598 • 1mo ago
 
 ---
 
@@ -431,7 +439,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,599,836 • ❤️ 2,939 • 1d ago
+⬇️ 1,599,836 • ❤️ 2,968 • 1d ago
 
 ---
 
@@ -443,17 +451,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,094,218 • ❤️ 19,678 • 5d ago
-
----
-
-**[Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)**
-
-*Ricursive Intelligence*
-
-`64.8B`
-
-⬇️ 7,112 • ❤️ 524 • 2d ago
+⬇️ 7,094,218 • ❤️ 19,713 • 5d ago
 
 ---
 
@@ -465,19 +463,27 @@ Qwen3.5-4B-3D-Coder is a 4B parameter language model fine-tuned for general codi
 
 `4.5B`
 
-⬇️ 368,236 • ❤️ 1,029 • 6d ago
+⬇️ 368,236 • ❤️ 1,039 • 6d ago
 
 ---
 
-**[Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)**
+**[Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)**
 
-*Moonshot AI*
+*Ricursive Intelligence*
 
-Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context window, excelling in coding, 3D creation, and financial research through advanced attention mechanisms and large-scale joint reinforcement learning.
+`64.8B`
 
-`image-text-to-text` `2780.1B`
+⬇️ 7,667 • ❤️ 528 • 2d ago
 
-⬇️ 33,617 • ❤️ 1,958 • 7d ago
+---
+
+**[MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image)**
+
+*Comfy Org*
+
+`text-to-image`
+
+⬇️ 835,593 • ❤️ 285 • 1d ago
 
 ---
 
@@ -491,7 +497,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 164 • 💬 6 • ⭐ 122,158 • 22mo ago
+▲ 164 • 💬 6 • ⭐ 122,268 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -505,23 +511,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 29 • 💬 9 • ⭐ 10,052 • 1mo ago
+▲ 29 • 💬 9 • ⭐ 10,161 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
-
----
-
-**[MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)**
-
-*Lorenz K. Muller, Philippe Bich, Chiara Boretti et al. (6 authors)*
-
-🏢 HUAWEI Computing Systems Lab
-
-MACaQ is an MXFP4 W4A4 post-training quantization method that quantizes each linear layer independently using online activation transforms and Hessian-aware refinement, reducing cost while preserving accuracy across language and diffusion models.
-
-▲ 23 • 💬 2 • ⭐ 89 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2611.10649) • [💻 code](https://github.com/huawei-csl/MACaQ) • [🔗 project](https://huawei-csl.com/blog/macaq/)
 
 ---
 
@@ -533,35 +525,23 @@ MACaQ is an MXFP4 W4A4 post-training quantization method that quantizes each lin
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 15 • 💬 2 • ⭐ 5,745 • 28d ago
+▲ 15 • 💬 2 • ⭐ 5,870 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
 ---
 
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+**[MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)**
 
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+*Lorenz K. Muller, Philippe Bich, Chiara Boretti et al. (6 authors)*
 
-🏢 Microsoft Research
+🏢 HUAWEI Computing Systems Lab
 
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+MACaQ is an MXFP4 W4A4 post-training quantization method that quantizes each linear layer independently using online activation transforms and Hessian-aware refinement, reducing cost while preserving accuracy across language and diffusion models.
 
-▲ 186 • 💬 10 • ⭐ 57,055 • 14mo ago
+▲ 30 • 💬 2 • ⭐ 162 • 5d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 65 • 💬 5 • ⭐ 47,639 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+[🎓 arXiv](https://arxiv.org/abs/2611.10649) • [💻 code](https://github.com/huawei-csl/MACaQ) • [🔗 project](https://huawei-csl.com/blog/macaq/)
 
 ---
 
@@ -573,9 +553,35 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Touch is a tactile foundation model that learns a unified, extensible representation across heterogeneous tactile sensors, yielding plug-and-play tactile tokens that consistently enhance manipulation policies such as diffusion policy and VLA models.
 
-▲ 101 • 💬 2 • ⭐ 304 • 3d ago
+▲ 102 • 💬 2 • ⭐ 304 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.12806) • [💻 code](https://github.com/Robbyant/lingbot-touch) • [🔗 project](https://technology.robbyant.com/lingbot-touch)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 65 • 💬 5 • ⭐ 47,669 • 15mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 186 • 💬 10 • ⭐ 57,082 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -587,7 +593,7 @@ LingBot-Touch is a tactile foundation model that learns a unified, extensible re
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 68 • 💬 4 • ⭐ 23,482 • 1mo ago
+▲ 68 • 💬 4 • ⭐ 23,524 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -607,17 +613,16 @@ Lloyd's k-means algorithm is a long-running standard for clustering, with applic
 
 ---
 
-**[Flide: Accelerating Decision Inference with Exact State Forking](https://huggingface.co/papers/2610.42148)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Bobo Li, Jiajia Song, Hao Fei et al. (5 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-🏢 National University of Singapore
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-Flide is an exact inference engine that accelerates decision-model LLM agents by decoupling logical request trees from physical execution and using ForkAttention to preserve exact branch evaluations.
+▲ 86 • 💬 7 • ⭐ 93,304 • 28mo ago
 
-▲ 35 • 💬 6 • ⭐ 453 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2610.42148) • [💻 code](https://github.com/OmniJev/Flide) • [🔗 project](https://flide.org/)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -631,7 +636,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 18.8k • 🔱 1.9k • 14d ago
+⭐ 18.9k • 🔱 1.9k • 14d ago
 
 ---
 
@@ -641,7 +646,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 14.8k • 🔱 843 • 3d ago
+⭐ 15.0k • 🔱 855 • 3d ago
 
 ---
 
@@ -651,7 +656,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 8.3k • 🔱 1.9k • 3h ago
+⭐ 8.4k • 🔱 1.9k • 5h ago
 
 ---
 
@@ -661,7 +666,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 7.7k • 🔱 683 • 3m ago
+⭐ 7.7k • 🔱 684 • 20m ago
 
 ---
 
@@ -671,7 +676,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 7.3k • 🔱 1.1k • 43m ago
+⭐ 7.4k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -691,7 +696,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `TypeScript` `adversarial-ai` `claude-code` `cursor` `electron-security` `llm-security`
 
-⭐ 5.4k • 🔱 653 • 2h ago
+⭐ 5.4k • 🔱 660 • 15m ago
 
 ---
 
@@ -701,7 +706,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agents` `audio` `claude-code` `mcp` `sound-design`
 
-⭐ 4.6k • 🔱 290 • 5d ago
+⭐ 4.6k • 🔱 295 • 6d ago
 
 ---
 
@@ -711,7 +716,7 @@ Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc
 
 `Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
 
-⭐ 3.3k • 🔱 46 • 21h ago
+⭐ 3.4k • 🔱 46 • 1d ago
 
 ---
 
@@ -721,7 +726,7 @@ Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI
 
 `Rust` `ai-agents` `appkit` `coding-agents` `cross-platform` `css`
 
-⭐ 3.2k • 🔱 72 • 52s ago
+⭐ 3.3k • 🔱 78 • 2m ago
 
 ---
 
