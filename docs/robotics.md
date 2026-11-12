@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-12T10:43:04.284893+00:00'
+updated: '2026-11-12T18:43:28.541940+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 12, 2026 at 10:43 UTC  
+**Last Updated:** November 12, 2026 at 18:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be t
 
 Hello everyone, I’m new to the group. I’ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony’s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn’t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It’s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I’m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox
 
-7d ago
+8d ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello everyone, I’m new to the group. I’ve been interested in robotics from 
 
 I just finished testing the legs, i had to swap the modules i used to control the actuators because they were too weak. The test went smoothly, no burning just a little code adjustments and the legs move as they should. Next step it to figure out the necessary movements for it to walk.
 
-7d ago
+8d ago
 
 ---
 
@@ -60,7 +60,7 @@ I just finished testing the legs, i had to swap the modules i used to control th
 
 I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?
 
-7d ago
+8d ago
 
 ---
 
@@ -120,35 +120,21 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
 
-Google DeepMind • 1d ago
+Google DeepMind • 2d ago
+
+---
+
+**[2 AI Robotics Stocks That Could Help Set You Up for Life](https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/)**
+
+While AI models and chips take center stage, the AI robotics boom is silently building.
+
+The Motley Fool • 6h ago
 
 ---
 
 **[Intel: Robotics Is A Key Strategic Focus Going Forward](https://www.forbes.com/sites/johnkoetsier/2026/11/11/intel-robotics-is-key-strategic-focus-going-forward/)**
 
-Forbes • 23h ago
-
----
-
-**[DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"](https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/)**
-
-The new model is up to twice as successful at some tasks.
-
-Ars Technica • 1d ago
-
----
-
-**[Can AI agents program industrial robots without training data? Berkeley says yes](https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/)**
-
-UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs.
-
-The Robot Report • 21h ago
-
----
-
-**[Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation](https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html)**
-
-The New York Times • 4h ago
+Forbes • 1d ago
 
 ---
 
@@ -156,21 +142,43 @@ The New York Times • 4h ago
 
 An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
 
-WIRED • 14h ago
+WIRED • 22h ago
 
 ---
 
-**[Praxis-1 Is Now Available](https://runway.com/news/company-news/praxis-1-is-now-available)**
+**[Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation](https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html)**
 
-Runway Praxis-1, our open-weight world action model for robotics, is now available under Apache 2.0. Download the weights on Hugging Face and GitHub.
+The New York Times • 12h ago
 
-Runway • 19h ago
+---
+
+**[Meet the founder betting Washington can help him take on China's robot makers](https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11)**
+
+Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US — and he's looking to Washington for help.
+
+Business Insider • 8h ago
+
+---
+
+**[Japan's AI robots are preparing for life on the Moon](https://www.bbc.com/reel/video/p0pkc1mt/watch)**
+
+Japanese researchers are teaching AI-powered robots to navigate the Moon and build infrastructure for the future.
+
+BBC • 8h ago
 
 ---
 
 **[PRISM helps robots move better by learning how forces and motion interact](https://techxplore.com/news/2026-11-prism-robots-motion-interact.html)**
 
-Tech Xplore • 17h ago
+Tech Xplore • 1d ago
+
+---
+
+**[Can AI agents program industrial robots without training data? Berkeley says yes](https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/)**
+
+UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -178,15 +186,7 @@ Tech Xplore • 17h ago
 
 NXP CTO Lars Reger on physical AI at electronica 2026: NavQ95 gets robots and drones running in 30 minutes, plus security and RISC-V.
 
-EE Times • 14h ago
-
----
-
-**[The PLA’s Push for Military Robotics](https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/)**
-
-Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People’s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing’s military robotics ambitions.
-
-CSET | Center for Security and Emerging Technology • 22h ago
+EE Times • 22h ago
 
 ---
 
@@ -200,27 +200,7 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 168K • 👍 2K • 💬 120 • ⏱️ 8:25 • 2d ago
-
----
-
-**[China’s New Bionic AI Robots Look Too Human With Artificial Skin](https://www.youtube.com/watch?v=WPc-_6ToOqE)**
-
-China's new bionic AI robots read the news with artificial skin, camera eyes, and faces designed by Zhang Yimou. UBTech and ...
-
-📺 AI Revolution
-
-👁️ 16K • 👍 251 • 💬 20 • ⏱️ 14:05 • 2d ago
-
----
-
-**[I Wasn&#39;t Expecting THIS From Ring! (Hands-on)](https://www.youtube.com/watch?v=1NARFzFzZdo)**
-
-(AD) Ring just unveiled Ring Robotics Drone Cam & Rover Cam - for your home and business! • Ring Drone Cam: ...
-
-📺 The Tech Chap
-
-👁️ 64K • 👍 838 • 💬 168 • ⏱️ 5:28 • 1d ago
+👁️ 185K • 👍 3K • 💬 132 • ⏱️ 8:25 • 3d ago
 
 ---
 
@@ -230,37 +210,7 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The AI Nexus
 
-👁️ 38K • 👍 437 • 💬 55 • ⏱️ 15:41 • 2d ago
-
----
-
-**[This is a robot rat built by rat scientists](https://www.youtube.com/watch?v=3QkwBja0KKM)**
-
-This is a robot rat built by rat scientists WHISKEYE ROBOT WITH WHISKERS https://www.youtube.com/watch?v=GTekO_RQCzE ...
-
-📺 Unstoppable Gadgets
-
-👁️ 211K • 👍 3K • 💬 80 • ⏱️ 0:21 • 6d ago
-
----
-
-**[Race Car Suspension Meets Field Robotics | SCOUT 2.0 Off-Road Mobile Robot](https://www.youtube.com/watch?v=MI86azwKTBM)**
-
-What helps a supercar stay composed through corners can also help a robot tackle rough terrain. SCOUT 2.0 features ...
-
-📺 AgileX Robotics
-
-👁️ 1K • 👍 11 • ⏱️ 0:23 • 1d ago
-
----
-
-**[Claude and GPT Stabs Objects With a Blurry Camera #ai #robotics #aisafety](https://www.youtube.com/watch?v=0RTCSNarNvY)**
-
-Source: https://papers.robocurve.org/robospoof.
-
-📺 Better Stack
-
-👁️ 9K • 👍 467 • 💬 38 • ⏱️ 2:52 • 8h ago
+👁️ 39K • 👍 449 • 💬 61 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -270,7 +220,17 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 195K • 👍 3K • 💬 449 • ⏱️ 15:13 • 5d ago
+👁️ 197K • 👍 3K • 💬 450 • ⏱️ 15:13 • 6d ago
+
+---
+
+**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
+
+Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
+
+📺 Imagination in Action
+
+👁️ 14K • 👍 118 • 💬 22 • ⏱️ 37:09 • 1d ago
 
 ---
 
@@ -280,7 +240,7 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 📺 Casey.aicreates
 
-👁️ 25K • 👍 1K • 💬 42 • ⏱️ 1:44 • 5d ago
+👁️ 26K • 👍 1K • 💬 42 • ⏱️ 1:44 • 5d ago
 
 ---
 
@@ -290,7 +250,45 @@ War Robots Gameplay: Manni FINALLY gets UE VORTEX and UE Ravana! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 32K • 👍 1K • 💬 178 • ⏱️ 36:34 • 22h ago
+👁️ 37K • 👍 1K • 💬 192 • ⏱️ 36:34 • 1d ago
+
+---
+
+**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
+
+What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
+
+📺 Dorian Todd
+
+👁️ 53K • 👍 1K • 💬 52 • ⏱️ 14:42 • 3d ago
+
+---
+
+**[Forget the Hype! China&#39;s Robots Are Already Working!](https://www.youtube.com/watch?v=69slpmQhg8E)**
+
+China's robot revolution isn't something that's coming in the future — it's already happening! Here in Shenzhen, robots are ...
+
+📺 Barrett
+
+👁️ 70K • 👍 243 • 💬 20 • ⏱️ 13:20 • 4d ago
+
+---
+
+**[Why Toyota Built a Wheelchair With Four Robotic Legs](https://www.youtube.com/watch?v=fKgsLfpIZD0)**
+
+LAST MONTH: Toyota won the Red Dot: Luminary top concept prize in Singapore for Walk Me, a robotic chair on four folding legs ...
+
+📺 Bradford Manning
+
+👁️ 16K • 👍 547 • 💬 18 • ⏱️ 1:10 • 2d ago
+
+---
+
+**[Comment “adult” if you want one😂 #robots #toys #gamer](https://www.youtube.com/watch?v=Cl8hGRWR1X8)**
+
+📺 RoboBlasters
+
+👁️ 245K • 👍 2K • 💬 27 • ⏱️ 0:21 • 2d ago
 
 ---
 

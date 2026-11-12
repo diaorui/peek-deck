@@ -89,35 +89,21 @@
       "site_name": null
     },
     {
-      "title": "Web-based tools in one place",
-      "url": "https://bitcrunching.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50451750",
-      "author": "bitcrunching",
-      "points": 2,
-      "num_comments": 3,
-      "created_at": "2026-11-11T10:24:06Z",
-      "object_id": "50451750",
-      "image": "https://bitcrunching.com/share.png",
-      "description": "The one tool for it all. Image, Video, Audio & Code Tools and others. Convert (JPG to PNG, PDF to JPG, SVG to PNG, WEBP to JPG) | Compress image | Combine PDF | Clean metadata | Create a signature | Convert Audio | Create GIF | Code snippet tool",
-      "favicon": "https://bitcrunching.com/favicon.svg?v=4",
-      "site_name": "BC Tools"
-    },
-    {
-      "title": "Discord is ditching Electron and its new app uses less RAM",
-      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "hn_url": "https://news.ycombinator.com/item?id=50378625",
-      "author": "archb",
-      "points": 496,
-      "num_comments": 439,
-      "created_at": "2026-11-05T13:05:28Z",
-      "object_id": "50378625",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Discord is moving its apps fully over to the Rust programming language.",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "site_name": "The Verge"
+      "title": "Strategy to Be Dropped from MSCI Indexes After New Eligibility Rules",
+      "url": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4",
+      "hn_url": "https://news.ycombinator.com/item?id=50469437",
+      "author": "tosh",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-12T15:53:40Z",
+      "object_id": "50469437",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "wsj.com"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-11-12T10:42:25.282887+00:00"
+  "fetched_at": "2026-11-12T18:42:55.966044+00:00"
 }
