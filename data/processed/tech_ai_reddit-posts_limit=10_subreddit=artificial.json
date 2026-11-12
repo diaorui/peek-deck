@@ -13,6 +13,28 @@
       "description": "Alex Karp, the chief executive of Palantir, said Wednesday he's a staunch liberal, a seeming departure from his position during the Trump administration."
     },
     {
+      "title": "A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese people use AI in their day-to-day life, as many embrace the technology and the infrastructure behind it",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/",
+      "published": 1794522140.0,
+      "thumbnail": "https://external-preview.redd.it/lQBSZ9gPDMiiEzNuN9o4sjjuFI9kxtyhcS_tguOsdgw.png?width=640&crop=smart&auto=webp&s=9805a217f8a444339430a3bd3a51c4dfadd071fc",
+      "external_url": "https://www.cbsnews.com/news/china-ai-data-center-boom-as-us-tech-firms-face-resistance/",
+      "site_name": "CBS News",
+      "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png",
+      "description": ">Experts cited by the Financial Times say data centers in China are built at about one-fifth of the costs incurred in the U.S., not least due to the much higher land and labor costs. Why is there such a big difference between support for data centers in China compared to the US? https://www.cbsnews.com/news/china-ai-data-center-boom-as-us-tech-firms-face-resistance/"
+    },
+    {
+      "title": "Anthropic says it has met its own threshold for AI-accelerated AI research \u2014 days before its IPO",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xuo0rf/anthropic_says_it_has_met_its_own_threshold_for/",
+      "published": 1794515907.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In its amended IPO filing on Tuesday (Nov 10), Anthropic said it has determined it met the 'research acceleration threshold' in its Responsible Scaling Policy \u2014 the point where AI assistance is expected to roughly double the pace of AI capability gains. The company stressed the judgment rests on expectations about future models and the overall pace of progress, not on demonstrated capabilities of current systems, and said it is still assessing the data and will publish further reports. Independent evaluator METR estimated Anthropic's progress on defined capability tests has run at about 1.9x its earlier pace since October 2025, while cautioning its estimates are highly uncertain. What interests me: meeting the threshold is meant to trigger stronger safeguards, not a halt \u2014 but Anthropic also warned faster development could outpace its ability to validate safety measures. With the IPO pricing expected next week, do you think a self-reported threshold like this is a meaningful safety signal, or mostly a disclosure exercise? And what would independent verification even look like here?"
+    },
+    {
       "title": "Nvidia CEO Jensen Huang resigns after tech giant rocked by second affair allegation",
       "author": "twoloafbread",
       "url": "https://www.reddit.com/r/artificial/comments/1xudjup/nvidia_ceo_jensen_huang_resigns_after_tech_giant/",
@@ -46,28 +68,6 @@
       "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United."
     },
     {
-      "title": "Republican Senator Josh Hawley backs nationwide data center moratorium",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtx3n9/republican_senator_josh_hawley_backs_nationwide/",
-      "published": 1794439673.0,
-      "thumbnail": "https://preview.redd.it/5jsejz0di21i1.jpeg?width=640&crop=smart&auto=webp&s=71b80c4ac6f5378950230c47e6459b9e88d90f49",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://www.politico.com/live-updates/2026/11/11/congress/hawley-backs-nationwide-data-center-moratorium-01161019 FYI: A Harvard + UPenn study finds that data centers were responsible for just 4 percent of the utility rate increases over the last five years. https://archive.is/JRlsn >Last year, research from the Brattle Group and Lawrence Berkeley National Laboratory found that data centers were actually decreasing costs in certain regions. And another study by the Electric Power Research Institute found that a doubling of data center capacity between 2019 and 2024 resulted in a 4 percent drop in home electricity prices. >\u201cSo far we have no evidence that data centers increase prices all that much,\u201d Netessine said. Instead, he said, prices are rising due to more quotidian factors: rising gas prices, an aging electricity grid, and wildfires and hurricanes requiring improvements to the grid and recovery after disaster. >Most of the cost of generating and delivering electricity is based on large, up-front capital costs, such as the costs to build power plants, wires and transmission lines to carry that power into homes. Some areas of the United States also have excess \u201ccapacity\u201d in the grid \u2014 meaning that the grid is overbuilt for the actual demand. In those areas, adding a data center means that large fixed grid costs are spread over more consumers. That could lower prices. The new Harvard and Penn study found a slightly higher impact on industrial electricity prices \u2014 the price paid by manufacturers and large facilities. For those customers, data centers were responsible for 15 percent of the price increase between 2020 and 2025. But for ordinary Americans, Netessine said, the changes simply were not substantial. Higher electricity usage is not correlated with price increases as the data centers pay for fixed maintenance costs. see slide 50 https://eta-publications.lbl.gov/sites/default/files/2026-03/retail_price_trends_2026_edition.pdf And companies building out their own nuclear power Meta https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/ Microsoft https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai Google https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx Anthropic https://www.anthropic.com/news/covering-electricity-price-increases OpenAI https://openai.com/index/grid-protectors-program/ No significant environmental damage https://blog.andymasley.com/p/a-short-summary-of-my-argument-that Data centers don\u2019t actually make much noise and it\u2019s almost impossible to hear unless you\u2019re right next to it https://fixupx.com/RuffBuffet/status/2095312629027803508 Even xAI\u2019s massive data center in Memphis barely impacts local air quality https://theconversation.com/air-quality-analysis-reveals-minimal-changes-after-xai-data-center-opens-in-pollution-burdened-memphis-neighborhood-265152"
-    },
-    {
-      "title": "United Airlines restricts AI agents from booking flights",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xugf9u/united_airlines_restricts_ai_agents_from_booking/",
-      "published": 1794498982.0,
-      "thumbnail": "https://external-preview.redd.it/tpWRLezM8QBCSOPeP7-XnP1NdrvjgHCDLQ6jlC4XenQ.jpeg?width=640&crop=smart&auto=webp&s=ca6d6b3d6f5055844fb34e34755565ab5289eb57",
-      "external_url": "https://finance.yahoo.com/markets/stocks/article/bots-dont-fly-here-united-airlines-restricts-ai-agents-from-booking-flights-203943442.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "AI agents just got denied boarding at United Airlines."
-    },
-    {
       "title": "Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker",
       "author": "scientificamerican",
       "url": "https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/",
@@ -79,15 +79,15 @@
       "description": "Nvidia\u2019s chips power the AI frontier\u2014thanks, many say, to co-founder and now ex-CEO Jensen Huang"
     },
     {
-      "title": "Google's Gemini Decision 1 returns zero text: it scores up to 1,000 yes/no or choice questions per call at $0.10/M input",
-      "author": "javimbuilds",
-      "url": "https://www.reddit.com/r/artificial/comments/1xufdsi/googles_gemini_decision_1_returns_zero_text_it/",
-      "published": 1794496570.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Google launched the Gemini Decisions API yesterday, and the model behind it doesn't generate answers at all. You send one input (text, images, audio, video or PDFs, up to 256K tokens) plus up to 1,000 yes/no, multiple-choice or rubric questions, and it returns probabilities with a 0-1 confidence score in a single forward pass. Google quotes 150-250 ms end-to-end and bills zero output tokens. The catch is that questions are isolated and can't see each other, and you only get the options you defined upfront, so any reasoning has to live in your own code. As someone building small agent flows, this is exactly the spot where I currently burn a full LLM call and parse JSON just to get a yes or no. Would you trust a confidence score like this for routing or moderation, or keep a generative model as the judge? https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+      "title": "Nvidia CEO Jensen Huang Resigns After Multiple Affairs",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xumr55/nvidia_ceo_jensen_huang_resigns_after_multiple/",
+      "published": 1794512979.0,
+      "thumbnail": "https://external-preview.redd.it/_TQ5DAOjDOLtnRtL9Q4-kOja7R9SM8weHF7uIRE00fs.jpeg?width=640&crop=smart&auto=webp&s=25cd3e563c80dd145f4b9fcda6fbfdc130a1d9aa",
+      "external_url": "https://variety.com/2026/biz/news/nvidia-ceo-jensen-huang-resigns-affairs-alleged-chinese-spy-1236945653/",
+      "site_name": "Variety",
+      "favicon": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/apple-touch-icon.png",
+      "description": "Nvidia CEO Jensen Huang resigned, ending a saga that revealed the executive engaged in several affairs \u2014\u00a0including with an alleged Chinese spy."
     },
     {
       "title": "China trying slowdown US dominance in AI..nvidia is beginning.",
@@ -101,16 +101,16 @@
       "description": "Current Nvidia CFO became CEO. But this CFO must know about their chip sales to China all these years. Unless Jensen ran some dark account and allegedly shipped restricted chips to China. Unlikely for billions of dollars. Now, if such allegations are true, it now seems someone who knew about the Nvidia shipments to China and didn't raise a red flag is now Nvidia CEO? So can we say China has taken over Nvidia? I'm thinking about this conspiracy.... If so, we should except this new CEO (former CFO) to come out with bombshell reports soon that causes huge losses to Nvidia and wider market crisis as China would want. China linked short selling companies in the US must be loaded and ready to make a killing then. Interesting conspiracy theories can be put forward.... But that's what it is. A conspiracy theory. Only time will tell. Why? China launched Ops major purpose is slowdown of US dominance in AI particularly. There will be more hit jobs to US companies in future by China much likely...."
     },
     {
-      "title": "Frontier labs say AI poses major risks. Skeptics say it's not just delivering. Are they both right?",
-      "author": "SpiritRealistic8174",
-      "url": "https://www.reddit.com/r/artificial/comments/1xujt6t/frontier_labs_say_ai_poses_major_risks_skeptics/",
-      "published": 1794506472.0,
-      "thumbnail": "https://preview.redd.it/6nllvsxfz71i1.png?width=640&crop=smart&auto=webp&s=b7eab5f1c16a74aad728db21a70edeb30d80afa0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This statement by historian Rutger Bregman, sums up the current moment of extreme cognitive dissonance: In one group we find those who see AI as a hoax: a hype machine, a con, and a bubble that could pop at any moment. In the other group we find those who think that 2027 may well turn out to be the wildest year in human history\u2014and that we\u2019re barreling towards catastrophe. Can both of these positions be correct? Anyone who uses gen AI daily understands its limitations. On the other hand, these systems are great at brute forcing their way past challenges. This is why AI is a cybersecurity risk. Is AI panic justified? Or is there a middle path?"
+      "title": "United Airlines restricts AI agents from booking flights",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xugf9u/united_airlines_restricts_ai_agents_from_booking/",
+      "published": 1794498982.0,
+      "thumbnail": "https://external-preview.redd.it/tpWRLezM8QBCSOPeP7-XnP1NdrvjgHCDLQ6jlC4XenQ.jpeg?width=640&crop=smart&auto=webp&s=ca6d6b3d6f5055844fb34e34755565ab5289eb57",
+      "external_url": "https://finance.yahoo.com/markets/stocks/article/bots-dont-fly-here-united-airlines-restricts-ai-agents-from-booking-flights-203943442.html",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "AI agents just got denied boarding at United Airlines."
     }
   ],
-  "fetched_at": "2026-11-12T18:42:56.155728+00:00"
+  "fetched_at": "2026-11-12T23:58:46.831314+00:00"
 }
