@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-12T02:44:02.318197+00:00'
+updated: '2026-11-12T10:43:04.282697+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 12, 2026 at 02:44 UTC  
+**Last Updated:** November 12, 2026 at 10:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,050.00
+### $2,054.68
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -8.1%  
-**30d:** -14.9%  
-**90d:** +9.3%  
-**1y:** -36.5%  
+**24h:** -0.4%  
+**7d:** -8.4%  
+**30d:** -15.3%  
+**90d:** +8.8%  
+**1y:** -36.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $251.18B
+**Market Cap:** $250.31B
 Rank #2
 
-**Circulating Supply:** 122,209,758 ETH
+**Circulating Supply:** 122,212,724 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.4%
+-58.6%
 
 **All-Time Low:** $0.43
-+474602.0%
++472918.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam, the next update for Ethereum, is currently being tested on testnets. During these tests Chainsecurity has found a few projects that would be...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038) • 5d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/en/2026/11/06/glamsterdam-8037-8038) • 6d ago
 
 ---
 
@@ -110,7 +110,7 @@ Glamsterdam, the next update for Ethereum, is currently being tested on testnets
 
 I have been in crypto for the last 7 to 8 years, and over time, maybe with age, I am becoming more conservative regarding holding coins. Since hacks in crypto never stop and keep getting bigger, I am on the verge of thinking whether staking ETH is worth taking smart contract risks. No staking platform is risk free, and the safest way to keep ETH is simply holding it in cold storage without staking it anywhere. My questions to the community: What do you think about this, and what is your current strategy? Do you stake your ETH? If yes, what percentage of your holdings? Do you consider the smart contract risk low enough to justify the yield?
 
-5d ago
+6d ago
 
 ---
 
@@ -126,7 +126,7 @@ Post quantum & post AI transition targeting December 2028, Amundi tokenized equi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -148,11 +148,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge](https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit)**
+**[Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins](https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/)**
 
-The non-profit allegedly told workers to pledge they'd die by suicide "with a sword."
+Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027.
 
-Mashable • 18h ago
+Crypto News • 1d ago
 
 ---
 
@@ -160,13 +160,21 @@ Mashable • 18h ago
 
 Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes](https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes)**
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
+
+---
+
+**[Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge](https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit)**
+
+The non-profit allegedly told workers to pledge they'd die by suicide "with a sword."
+
+Mashable • 1d ago
 
 ---
 
@@ -178,17 +186,11 @@ Fortune • 1d ago
 
 ---
 
-**[Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins](https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/)**
+**[This 1 Important Signal Is Now Flashing Red for Ethereum. That's Why I'm Selling ETH Right Now.](https://www.fool.com/investing/2026/11/12/this-1-important-signal-is-now-flashing-redgreen-f/)**
 
-Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027.
+Until Ethereum ETF inflows return, it may be time to look elsewhere for upside.
 
-Crypto News • 17h ago
-
----
-
-**[Ripple Ex-CTO David Schwartz Reveals How Much XRP, Ethereum, and Bitcoin He Owns](https://beincrypto.com/david-schwartz-xrp-bitcoin-ethereum-holdings/)**
-
-BeInCrypto • 11h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -196,29 +198,29 @@ BeInCrypto • 11h ago
 
 Sprinter CEO Greg Markou says Ethereum upgrades are hard to test, recalling how the London hard fork broke nearly all web3.js apps.
 
-Crypto Briefing • 4h ago
-
----
-
-**[Ethereum’s Vitalik Buterin Just Told Investors Why to Hold It. One Popular Reason Isn’t on the List.](https://www.fool.com/investing/2026/11/11/ethereums-vitalik-buterin-just-told-investors-why-to-hold-it-one-popular-reason-isnt-on-the-list/)**
-
-The coin's co-founder seems to be trying to clarify the direction that it's heading by discussing how it should be valued.
-
-The Motley Fool • 11h ago
-
----
-
-**[Urgent Ethereum node patch issued due to hidden security flaws](https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/)**
-
-Ethereum's Lighthouse urged all beacon node operators to install a high-priority security patch ahead of a planned vulnerability disclosure.
-
-CryptoSlate • 19h ago
+Crypto Briefing • 11h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Steady, but Dogecoin Dips: Analyst Bets a Repeat of BTC's Short Squeeze, Driving I](https://www.benzinga.com/crypto/cryptocurrency/26/11/63171545/bitcoin-ethereum-xrp-dogecoin-crypto-3)**
 
-Benzinga • 50m ago
+Benzinga • 8h ago
+
+---
+
+**[Ethereum Based New Crypto Pepeto Opens New Stage Ahead Of Binance While Cardano Price Targets $3.25](https://markets.businessinsider.com/news/stocks/ethereum-based-new-crypto-pepeto-opens-new-stage-ahead-of-binance-while-cardano-price-targets-3-25-1036749011)**
+
+DUBAI, United Arab Emirates, Nov.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum based new crypto, has confirmed its presale is now in its la...
+
+markets.businessinsider.com • 23h ago
+
+---
+
+**[Ripple's David Schwartz Once Held 26 Million XRP, 1,500 Bitcoin and 40,000 Ethereum. Why Did He Sell Over 90% of His Crypto?](https://247wallst.com/investing/cryptocurrency/2026/11/11/ripples-david-schwartz-once-held-26-million-xrp-1500-bitcoin-and-40000-ethereum-why-did-he-sell-over-90-of-his-crypto/)**
+
+Former Ripple CTO David Schwartz once held 26 million XRP, 1,500 Bitcoin and 40,000 Ethereum. Here's why he sold over 90% of it.
+
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -232,7 +234,7 @@ Jamie Dimon called Bitcoin a fraud. Then JPMorgan put its own dollar on Ethereum
 
 📺 Dana Love, PhD
 
-👁️ 13K • 👍 318 • 💬 69 • ⏱️ 19:35 • 11h ago
+👁️ 18K • 👍 346 • 💬 98 • ⏱️ 19:35 • 19h ago
 
 ---
 
@@ -242,7 +244,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 15K • 👍 227 • 💬 33 • ⏱️ 10:11 • 1d ago
+👁️ 16K • 👍 230 • 💬 35 • ⏱️ 10:11 • 1d ago
 
 ---
 
@@ -252,7 +254,27 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 4K • 👍 79 • 💬 51 • ⏱️ 14:58 • 1d ago
+👁️ 4K • 👍 80 • 💬 51 • ⏱️ 14:58 • 1d ago
+
+---
+
+**[Is Ethereum Gold? Seppuku Suit + Nvidia Honeypot - The Chopping Block](https://www.youtube.com/watch?v=XDYwp2O4jic)**
+
+Haseeb, Tom, and Tarun debate Vitalik's case that ETH should be valued as a store of value, whether Bitcoin survives the ...
+
+📺 Unchained
+
+👁️ 5K • 👍 47 • 💬 20 • ⏱️ 50:40 • 20h ago
+
+---
+
+**[2 Minutes Ago: Raoul Pal Shared a Horrible News | BTC Price 2026](https://www.youtube.com/watch?v=d0kflLBo-r4)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 4K • 👍 199 • 💬 76 • ⏱️ 23:27 • 5h ago
 
 ---
 
@@ -262,37 +284,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 227 • 💬 51 • ⏱️ 22:13 • 1d ago
-
----
-
-**[Tom Lee: Ethereum Will FLIP Bitcoin?](https://www.youtube.com/watch?v=T_5kfzBLd0U)**
-
-CNBC's Tom Lee (Fundstrat Founder, Bitmine CEO) shares his thoughts on crypto in 2027, AI bubble, ETH outlook, crypto ...
-
-📺 Altcoin Daily
-
-👁️ 16K • 👍 266 • 💬 18 • ⏱️ 1:03 • 2d ago
-
----
-
-**[You Can’t Value Ethereum Like a Business](https://www.youtube.com/watch?v=di-1M2Z1i6A)**
-
-HOW TO VALUE ETHEREUM AND SOLANA (MOST PEOPLE GET THIS WRONG) If you value Ethereum like a business, you'd ...
-
-📺 Cryptonary
-
-👁️ 603 • 👍 7 • ⏱️ 1:14 • 1d ago
-
----
-
-**[ETH Could Drop Below $2,000 If This Happens #ethereum #trading](https://www.youtube.com/watch?v=Y-040ME6zvE)**
-
-Ethereum price analysis: evaluating critical support and resistance levels to manage your next ETH trade setup effectively.
-
-📺 Freedom Hacking
-
-👁️ 221 • ⏱️ 0:59 • 1d ago
+👁️ 16K • 👍 238 • 💬 50 • ⏱️ 22:13 • 2d ago
 
 ---
 
@@ -302,27 +294,37 @@ Now with Nazis! by Amy Castor and David Gerard ...
 
 📺 Pivot to AI
 
-👁️ 17K • 👍 1K • 💬 258 • ⏱️ 11:26 • 2d ago
+👁️ 18K • 👍 1K • 💬 259 • ⏱️ 11:26 • 2d ago
 
 ---
 
-**[I Tested an AI Trading Bot Built with ChatGPT Astra AI - Ethereum Day Trading](https://www.youtube.com/watch?v=PMtWzSh1o0A)**
+**[Bitcoin, XRP And Ethereum Are Preparing For A Major Move While AI Stocks Around The World Drop](https://www.youtube.com/watch?v=ZdV5k0K1dFo)**
 
-Complete Tutorial Guide: https://tr.ee/6uBcSI This tutorial covers ai trading, day trading, day trading for beginners, and ...
+Why in the world is so much crypto being taken off of crypto exchanges this year? Why is every major bank on the planet ...
 
-📺 Owen Parker
+📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 14 • 💬 26 • ⏱️ 5:59 • 1d ago
+👁️ 28K • 👍 2K • 💬 287 • ⏱️ 14:18 • 22h ago
 
 ---
 
-**[How Much ETH Is Burned vs Created? Only 1% Is Burned](https://www.youtube.com/watch?v=bOjMFioCDbo)**
+**[Ethereum Hit Its Target Zone. CPI Could Decide Everything](https://www.youtube.com/watch?v=4KMZJhGv6L4)**
 
-A viewer asked: how much ETH is burning right now, and how much new ETH is coming from staking? Here are the real numbers, ...
+We analyse Ethereum on 9 November 2026 using Elliott Wave, with the target zone at $1832 to $2069 as the area where this ...
 
-📺 Crypto Jargon
+📺 More Crypto Online
 
-👁️ 5K • 👍 165 • 💬 5 • ⏱️ 0:53 • 2d ago
+👁️ 9K • 👍 241 • 💬 9 • ⏱️ 6:36 • 2d ago
+
+---
+
+**[🧃 Ethereum Enters 6 Years LOSS](https://www.youtube.com/watch?v=ajt2fGfK2uE)**
+
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 3K • 👍 214 • 💬 29 • ⏱️ 21:01 • 1d ago
 
 ---
 
