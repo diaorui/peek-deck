@@ -13,6 +13,17 @@
       "description": "Alex Karp, the chief executive of Palantir, said Wednesday he's a staunch liberal, a seeming departure from his position during the Trump administration."
     },
     {
+      "title": "Nvidia CEO Jensen Huang resigns after tech giant rocked by second affair allegation",
+      "author": "twoloafbread",
+      "url": "https://www.reddit.com/r/artificial/comments/1xudjup/nvidia_ceo_jensen_huang_resigns_after_tech_giant/",
+      "published": 1794492161.0,
+      "thumbnail": "https://external-preview.redd.it/EnTSr9qyJKfDNArSxADpgNN5NBTv-SiVJ3FMLbsFFUA.jpeg?width=640&crop=smart&auto=webp&s=34d52efd3ad4b648fff6fb8ee8aac8fc53fdbb00",
+      "external_url": "https://www.bbc.com/news/live/c6zjry11v8w1t",
+      "site_name": "BBC News",
+      "favicon": "https://static.files.bbci.co.uk/core/website/assets/static/icons/touch/news/touch-icon-36.413a37b227.png",
+      "description": "The AI chipmaker's board of directors announced Huang's departure on Thursday, with chief financial officer Colette Kress appointed interim CEO."
+    },
+    {
       "title": "Microsoft researchers backdoored an AI agent by editing fewer than 10 neurons - no retraining needed",
       "author": "winer666",
       "url": "https://www.reddit.com/r/artificial/comments/1xu2cfg/microsoft_researchers_backdoored_an_ai_agent_by/",
@@ -22,28 +33,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Microsoft Research published a study this week that should worry anyone deploying open-weight models: a technique they call \"Lazarus\" can plant a working backdoor in an AI agent by reprogramming fewer than 10 dormant neurons in the underlying LLM - no retraining, no poisoned data, just a small edit to the saved weights. How it works: every large model has neurons that almost never fire. Lazarus repurposes a handful of them as trigger detectors. The edited model behaves normally and passes standard safety evaluations - until the trigger appears. The trigger can be something as mundane as a date: in one demo, once the clock passed midnight into 2027, the agent, in the middle of an ordinary task, emitted a command that downloaded and ran attacker code. The numbers, from Microsoft's Nov 10 post: - Nemotron-Terminal-8B: 7 neurons out of 12,000+ in the final feed-forward layer, trigger worked 98.8% of the time - Qwen3.6-27B: 6 neurons, success 51-99.5% depending on setup - Gemma-4-31B-IT was also tested Two caveats worth stating plainly: the attack requires write access to the model's weights, so this is a model supply-chain risk, not something done through an API. And Microsoft says it has not observed any threat actors using the technique - this is researched risk, not a reported campaign. Microsoft also published mitigations: a detector that flagged 91.4% of edited checkpoints (9.7% false-positive rate), plus guidance on AI-powered weight scanning, red-teaming for anomalous weight changes, and cryptographic model signing with tamper-evident provenance. One detail that stood out to me: the core idea was discovered autonomously by Claude Code running Opus 4.5, in a March experiment that asked it to backdoor a model by hardwiring a few activations without training. It did - and that became a months-long study. If a handful of edited weights can hide a sleeper agent that passes every behavioral eval, is testing model behavior enough? Or does every checkpoint we deploy need weight-level provenance? Source: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
-    },
-    {
-      "title": "Republican Senator Josh Hawley backs nationwide data center moratorium",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtx3n9/republican_senator_josh_hawley_backs_nationwide/",
-      "published": 1794439673.0,
-      "thumbnail": "https://preview.redd.it/5jsejz0di21i1.jpeg?width=640&crop=smart&auto=webp&s=71b80c4ac6f5378950230c47e6459b9e88d90f49",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://www.politico.com/live-updates/2026/11/11/congress/hawley-backs-nationwide-data-center-moratorium-01161019 FYI: A Harvard + UPenn study finds that data centers were responsible for just 4 percent of the utility rate increases over the last five years. https://archive.is/JRlsn >Last year, research from the Brattle Group and Lawrence Berkeley National Laboratory found that data centers were actually decreasing costs in certain regions. And another study by the Electric Power Research Institute found that a doubling of data center capacity between 2019 and 2024 resulted in a 4 percent drop in home electricity prices. >\u201cSo far we have no evidence that data centers increase prices all that much,\u201d Netessine said. Instead, he said, prices are rising due to more quotidian factors: rising gas prices, an aging electricity grid, and wildfires and hurricanes requiring improvements to the grid and recovery after disaster. >Most of the cost of generating and delivering electricity is based on large, up-front capital costs, such as the costs to build power plants, wires and transmission lines to carry that power into homes. Some areas of the United States also have excess \u201ccapacity\u201d in the grid \u2014 meaning that the grid is overbuilt for the actual demand. In those areas, adding a data center means that large fixed grid costs are spread over more consumers. That could lower prices. The new Harvard and Penn study found a slightly higher impact on industrial electricity prices \u2014 the price paid by manufacturers and large facilities. For those customers, data centers were responsible for 15 percent of the price increase between 2020 and 2025. But for ordinary Americans, Netessine said, the changes simply were not substantial. Higher electricity usage is not correlated with price increases as the data centers pay for fixed maintenance costs. see slide 50 https://eta-publications.lbl.gov/sites/default/files/2026-03/retail_price_trends_2026_edition.pdf And companies building out their own nuclear power Meta https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/ Microsoft https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai Google https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx Anthropic https://www.anthropic.com/news/covering-electricity-price-increases OpenAI https://openai.com/index/grid-protectors-program/ No significant environmental damage https://blog.andymasley.com/p/a-short-summary-of-my-argument-that Data centers don\u2019t actually make much noise and it\u2019s almost impossible to hear unless you\u2019re right next to it https://fixupx.com/RuffBuffet/status/2095312629027803508 Even xAI\u2019s massive data center in Memphis barely impacts local air quality https://theconversation.com/air-quality-analysis-reveals-minimal-changes-after-xai-data-center-opens-in-pollution-burdened-memphis-neighborhood-265152"
-    },
-    {
-      "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/",
-      "published": 1794425578.0,
-      "thumbnail": "https://external-preview.redd.it/FnSsoE978YIrS4Juvx4pRhUYmvnHGmcK3Kspi0clGBQ.jpeg?width=640&crop=smart&auto=webp&s=bd1c0c5348c0113f50c8b58aac4ef4085b56095d",
-      "external_url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "Anthropic's new IPO filing says AI is now accelerating its own research to the point that it's triggering one of the company's key safety alarms."
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
@@ -57,60 +46,71 @@
       "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United."
     },
     {
-      "title": "GPU Companies built everything on the back of gamers, and now gamers cannot afford them.",
-      "author": "ark_forever",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtbbsx/gpu_companies_built_everything_on_the_back_of/",
-      "published": 1794381227.0,
-      "thumbnail": "https://preview.redd.it/mcodo5fnox0i1.jpeg?width=640&crop=smart&auto=webp&s=5423bd4ac569b98bfaed585dca7a594cdfd6ee2a",
+      "title": "Republican Senator Josh Hawley backs nationwide data center moratorium",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xtx3n9/republican_senator_josh_hawley_backs_nationwide/",
+      "published": 1794439673.0,
+      "thumbnail": "https://preview.redd.it/5jsejz0di21i1.jpeg?width=640&crop=smart&auto=webp&s=71b80c4ac6f5378950230c47e6459b9e88d90f49",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I mean yeah, I am making this post frustrated with the current pricing of hardware, but ai companies are standing on hardware which mostly gamers bought and paid for. The evolution happened because of us. You might think what's this dude on about, it was made for graphical processing, Guess what?! It was games that required that level of graphical processing in those times. When Nvidia coined the term \"GPU\" and released the GeForce 256 in 1999, their primary goal was to run PC games like Quake III Arena and Unreal at smoother frame rates and higher resolutions than a standard CPU could ever manage. Video games were the only consumer software demanding millions of mathematical calculations per second to draw images on a monitor. Now we have the audacity to say RAM and GPU are being wasted on personal gaming rigs. I mean the only person who had more than 8 gigs of ram was either editing videos or playing games, games mostly though. I mean the AI demand will make sure the prices never go back to dirt cheap but in India (I am from India) gaming always has been a luxury, but now it's a luxury all over the world. When I was child, I dreamed of building the best gaming rig with my adult money, now when I am one, the prices are like \"f\\\\k you\". P.S. The gaming community has these posts everyday with everyone frustrated and i was asked to post this here, This is an honest question to the leaders and pioneers of AI technology, I mean I would love to understand the view points of everyone. I aint hating, but I realise when something is over evaluated and not worth the money its printed on."
+      "description": "https://www.politico.com/live-updates/2026/11/11/congress/hawley-backs-nationwide-data-center-moratorium-01161019 FYI: A Harvard + UPenn study finds that data centers were responsible for just 4 percent of the utility rate increases over the last five years. https://archive.is/JRlsn >Last year, research from the Brattle Group and Lawrence Berkeley National Laboratory found that data centers were actually decreasing costs in certain regions. And another study by the Electric Power Research Institute found that a doubling of data center capacity between 2019 and 2024 resulted in a 4 percent drop in home electricity prices. >\u201cSo far we have no evidence that data centers increase prices all that much,\u201d Netessine said. Instead, he said, prices are rising due to more quotidian factors: rising gas prices, an aging electricity grid, and wildfires and hurricanes requiring improvements to the grid and recovery after disaster. >Most of the cost of generating and delivering electricity is based on large, up-front capital costs, such as the costs to build power plants, wires and transmission lines to carry that power into homes. Some areas of the United States also have excess \u201ccapacity\u201d in the grid \u2014 meaning that the grid is overbuilt for the actual demand. In those areas, adding a data center means that large fixed grid costs are spread over more consumers. That could lower prices. The new Harvard and Penn study found a slightly higher impact on industrial electricity prices \u2014 the price paid by manufacturers and large facilities. For those customers, data centers were responsible for 15 percent of the price increase between 2020 and 2025. But for ordinary Americans, Netessine said, the changes simply were not substantial. Higher electricity usage is not correlated with price increases as the data centers pay for fixed maintenance costs. see slide 50 https://eta-publications.lbl.gov/sites/default/files/2026-03/retail_price_trends_2026_edition.pdf And companies building out their own nuclear power Meta https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/ Microsoft https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai Google https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx Anthropic https://www.anthropic.com/news/covering-electricity-price-increases OpenAI https://openai.com/index/grid-protectors-program/ No significant environmental damage https://blog.andymasley.com/p/a-short-summary-of-my-argument-that Data centers don\u2019t actually make much noise and it\u2019s almost impossible to hear unless you\u2019re right next to it https://fixupx.com/RuffBuffet/status/2095312629027803508 Even xAI\u2019s massive data center in Memphis barely impacts local air quality https://theconversation.com/air-quality-analysis-reveals-minimal-changes-after-xai-data-center-opens-in-pollution-burdened-memphis-neighborhood-265152"
     },
     {
-      "title": "Manus scrapped traditional coding interviews and cut engineer hiring to half its peak; PMs now write code",
-      "author": "bestvicam",
-      "url": "https://www.reddit.com/r/artificial/comments/1xu7wfm/manus_scrapped_traditional_coding_interviews_and/",
-      "published": 1794473807.0,
+      "title": "United Airlines restricts AI agents from booking flights",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xugf9u/united_airlines_restricts_ai_agents_from_booking/",
+      "published": 1794498982.0,
+      "thumbnail": "https://external-preview.redd.it/tpWRLezM8QBCSOPeP7-XnP1NdrvjgHCDLQ6jlC4XenQ.jpeg?width=640&crop=smart&auto=webp&s=ca6d6b3d6f5055844fb34e34755565ab5289eb57",
+      "external_url": "https://finance.yahoo.com/markets/stocks/article/bots-dont-fly-here-united-airlines-restricts-ai-agents-from-booking-flights-203943442.html",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "AI agents just got denied boarding at United Airlines."
+    },
+    {
+      "title": "Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/",
+      "published": 1794497184.0,
+      "thumbnail": "https://external-preview.redd.it/l8quDXsm83eIanPMpG8G-ToQ0vn8mLoSyhyIDU8kTzY.jpeg?width=640&crop=smart&auto=webp&s=93b12575480cc9a20ef0c57dc899d05da7b3188c",
+      "external_url": "https://www.scientificamerican.com/article/jensen-huang-leaving-nvidia-risks-a-brain-drain-from-the-ai-chipmaker/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "Nvidia\u2019s chips power the AI frontier\u2014thanks, many say, to co-founder and now ex-CEO Jensen Huang"
+    },
+    {
+      "title": "Google's Gemini Decision 1 returns zero text: it scores up to 1,000 yes/no or choice questions per call at $0.10/M input",
+      "author": "javimbuilds",
+      "url": "https://www.reddit.com/r/artificial/comments/1xufdsi/googles_gemini_decision_1_returns_zero_text_it/",
+      "published": 1794496570.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Manus has eliminated the traditional coding interview stage in its hiring process, according to the report. Engineer hiring at the company has fallen to half of its peak level, and product managers have started writing code directly. The three changes together suggest a shift in how an AI-native company defines who writes code and how it evaluates engineers."
+      "description": "Google launched the Gemini Decisions API yesterday, and the model behind it doesn't generate answers at all. You send one input (text, images, audio, video or PDFs, up to 256K tokens) plus up to 1,000 yes/no, multiple-choice or rubric questions, and it returns probabilities with a 0-1 confidence score in a single forward pass. Google quotes 150-250 ms end-to-end and bills zero output tokens. The catch is that questions are isolated and can't see each other, and you only get the options you defined upfront, so any reasoning has to live in your own code. As someone building small agent flows, this is exactly the spot where I currently burn a full LLM call and parse JSON just to get a yes or no. Would you trust a confidence score like this for routing or moderation, or keep a generative model as the judge? https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
     },
     {
-      "title": "UK companies scale back hiring due to overspending on AI",
-      "author": "HotMinuteUK",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtmy87/uk_companies_scale_back_hiring_due_to/",
-      "published": 1794416084.0,
-      "thumbnail": "https://external-preview.redd.it/OR_SAi01COe0OPnU4Y-4suMRqWjLghGbyEJfB8jStMA.jpeg?width=640&crop=smart&auto=webp&s=ea27910c6f9b0f5ab5f7e5d01933297d5a4e5d1d",
-      "external_url": "https://hotminute.co.uk/2026/11/11/uk-companies-scale-back-hiring-due-to-overspending-on-ai/",
-      "site_name": "HotMinute",
-      "favicon": "https://hotminute.co.uk/wp-content/uploads/2026/04/cropped-hotminute-site-icon-180x180.png",
-      "description": "Businesses in the UK incur \u00a33.8 billion annually in technology infrastructure overspend, with the biggest culprit being AI spending."
-    },
-    {
-      "title": "AI agents are becoming software buyers, and businesses aren't ready",
-      "author": "BakingBreadBB2",
-      "url": "https://www.reddit.com/r/artificial/comments/1xtdzxd/ai_agents_are_becoming_software_buyers_and/",
-      "published": 1794391463.0,
+      "title": "China trying slowdown US dominance in AI..nvidia is beginning.",
+      "author": "base64-encode",
+      "url": "https://www.reddit.com/r/artificial/comments/1xuha5n/china_trying_slowdown_us_dominance_in_ainvidia_is/",
+      "published": 1794500900.0,
       "thumbnail": null,
-      "external_url": "https://www.inc.com/hillary-remy/selling-ai-agents-startup-founders-bots-buying-software/91430588",
-      "site_name": "inc.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Powerful open source/open wight AI recommendations",
-      "author": "dendaera",
-      "url": "https://www.reddit.com/r/artificial/comments/1xu6r3y/powerful_open_sourceopen_wight_ai_recommendations/",
-      "published": 1794469392.0,
-      "thumbnail": "https://preview.redd.it/s7icnaosy41i1.png?width=140&height=87&auto=webp&s=4d2d82ebed1e875b62d9c696221c37fe17d7cdbe",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I asked ChatGPT for AI models that are open-source or open-weight powerful is not owned by Meta or a Chinese company It gave me the table below. Does anyone have experience with Mistral Large 4 or can recommend a better or comparable AI that aligns with the three bullets above? (I'm aware government involvement in AI companies isn't unique to China but the CCP makes me especially hesitant to use AI models from there. I'm also suspicious of Meta so I don't want to use Muse Spark.) https://preview.redd.it/s7icnaosy41i1.png?width=1054&format=png&auto=webp&s=907033d076a653ba256562c9f996d0a416320f6e"
+      "description": "Current Nvidia CFO became CEO. But this CFO must know about their chip sales to China all these years. Unless Jensen ran some dark account and allegedly shipped restricted chips to China. Unlikely for billions of dollars. Now, if such allegations are true, it now seems someone who knew about the Nvidia shipments to China and didn't raise a red flag is now Nvidia CEO? So can we say China has taken over Nvidia? I'm thinking about this conspiracy.... If so, we should except this new CEO (former CFO) to come out with bombshell reports soon that causes huge losses to Nvidia and wider market crisis as China would want. China linked short selling companies in the US must be loaded and ready to make a killing then. Interesting conspiracy theories can be put forward.... But that's what it is. A conspiracy theory. Only time will tell. Why? China launched Ops major purpose is slowdown of US dominance in AI particularly. There will be more hit jobs to US companies in future by China much likely...."
+    },
+    {
+      "title": "Frontier labs say AI poses major risks. Skeptics say it's not just delivering. Are they both right?",
+      "author": "SpiritRealistic8174",
+      "url": "https://www.reddit.com/r/artificial/comments/1xujt6t/frontier_labs_say_ai_poses_major_risks_skeptics/",
+      "published": 1794506472.0,
+      "thumbnail": "https://preview.redd.it/6nllvsxfz71i1.png?width=640&crop=smart&auto=webp&s=b7eab5f1c16a74aad728db21a70edeb30d80afa0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This statement by historian Rutger Bregman, sums up the current moment of extreme cognitive dissonance: In one group we find those who see AI as a hoax: a hype machine, a con, and a bubble that could pop at any moment. In the other group we find those who think that 2027 may well turn out to be the wildest year in human history\u2014and that we\u2019re barreling towards catastrophe. Can both of these positions be correct? Anyone who uses gen AI daily understands its limitations. On the other hand, these systems are great at brute forcing their way past challenges. This is why AI is a cybersecurity risk. Is AI panic justified? Or is there a middle path?"
     }
   ],
-  "fetched_at": "2026-11-12T10:42:25.377041+00:00"
+  "fetched_at": "2026-11-12T18:42:56.155728+00:00"
 }

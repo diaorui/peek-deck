@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-12T10:43:04.278489+00:00'
+updated: '2026-11-12T18:43:28.535585+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 12, 2026 at 10:43 UTC  
+**Last Updated:** November 12, 2026 at 18:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,417.40
+### $72,038.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -3.1%  
-**30d:** -10.0%  
-**90d:** +16.6%  
-**1y:** -26.4%  
+**24h:** -3.3%  
+**7d:** -5.2%  
+**30d:** -12.0%  
+**90d:** +14.0%  
+**1y:** -28.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1477.58B
+**Market Cap:** $1446.23B
 Rank #1
 
-**Circulating Supply:** 20,111,025 BTC
+**Circulating Supply:** 20,111,109 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--41.7%
+-43.0%
 
 **All-Time Low:** $67.81
-+108248.3%
++105949.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Office: Michael Puts Dunder Mifflin on a Bitcoin Standard (Part 1)](https://www.reddit.com/r/Bitcoin/comments/1xrvem5/the_office_michael_puts_dunder_mifflin_on_a/)**
 
-2d ago
+3d ago
 
 ---
 
 **[∞/21M](https://www.reddit.com/r/Bitcoin/comments/1xrtawq/21m/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The miner heats water to 60°C for the radiators and underfloor heating in a 180 m² home. So while it mines BTC, the heat it gives off warms the house. The setup cost around $20,000. Mining revenue could cover the electricity bill, but that depends on Bitcoin’s price, local power rates and mining difficulty. And if the 2028 halving cuts that income, the house will still need the same amount of heat.
 
-2d ago
+3d ago
 
 ---
 
@@ -121,7 +121,7 @@ Following up on yesterday’s post about 3+ year coin volume dropping to a multi
 
 The LNbits project issued an emergency warning instructing operators to shut down their LNbits servers following reported exploitation. One operator reported losing 2,285,545 satoshis (approximately 0.023 BTC) after attackers allegedly exploited an extension. The project initially warned about its Paywall extension before expanding the warning to all LNbits servers. As of 09:00 UTC November 9, no fixed release had been announced. LNbits is used to manage Bitcoin Lightning payments. Vulnerable server software can put funds at risk, even though the underlying Bitcoin network is not compromised. Community action: High priority for an administrator alert. LNbits operators should follow the project's shutdown instructions and wait for verified fixes.
 
-🔗 [The Hacker News](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html?m=1) • 2d ago
+🔗 [The Hacker News](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html?m=1) • 3d ago
 
 ---
 
@@ -129,7 +129,7 @@ The LNbits project issued an emergency warning instructing operators to shut dow
 
 The world is on fire, and we're all still at the table yelling at a chart at 3 AM. So let's hear it. No "we're so early," no shilling, just the one move that still haunts you.
 
-2d ago
+3d ago
 
 ---
 
@@ -153,6 +153,26 @@ Prepare for what's coming. Put in the work to understand bitcoin.
 
 ## Google News: "bitcoin"
 
+**[Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)**
+
+WSJ • 8h ago
+
+---
+
+**[Index Provider MSCI Removes Strategy From Equity Benchmark](https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Strategy to be removed from MSCI indexes: What are the risks for Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/strategy-removed-msci-indexes-risks-071828604.html)**
+
+Investing.com -- MSCI confirmed on Nov 11 that Strategy Inc (MSTR) will be dropped from its global indexes, effective Dec 1. Removal doesn’t touch Strategy’s Bitcoin holdings directly. The danger is the financing chain behind them. Read more (Nov 11, 2026)
+
+Yahoo Finance • 11h ago
+
+---
+
 **[Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins](https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/)**
 
 Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027.
@@ -161,63 +181,47 @@ Crypto News • 1d ago
 
 ---
 
-**[Bitcoin Retreats as Nvidia Turmoil Weighs on Risk Appetite](https://www.bloomberg.com/news/articles/2026-11-12/bitcoin-retreats-as-nvidia-turmoil-weighs-on-risk-appetite)**
+**[Why bitcoin suffers alongside everything else on bad trading days](https://finance.yahoo.com/video/why-bitcoin-suffers-alongside-everything-else-on-bad-trading-days-173638454.html)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Anthropic IPO Could Be Bitcoin's Next Catalyst: Arthur Hayes Turns 'Mini-Bulled Up' Ahead Of Nasdaq Listing](https://finance.yahoo.com/markets/crypto/articles/anthropic-ipo-could-bitcoins-next-092201345.html)**
-
-Earlier this month, Hayes said Anthropic IPO investors would face 83% dilution by June 2027, calling it "almost mathematically impossible" for the stock to gain before then.
+"The Daily Wolf" host Scott Melker joins Yahoo Finance's Julie Hyman at Yahoo Finance's 2026 Invest conference to discuss how bitcoin (BTC-USD) can still be susceptible to falling on risk-off days, all this coming as Nvidia's (NVDA) CEO Jensen Huang resigned.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Index Provider MSCI Removes Strategy From Equity Benchmark](https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark)**
+**[Deutsche Bank Launched Crypto Custody With Bitcoin and Ethereum but Not XRP or Solana. Why Were They Left Out?](https://finance.yahoo.com/markets/crypto/articles/deutsche-bank-launched-crypto-custody-172458766.html)**
 
-Bloomberg.com • 10h ago
+Germany's largest bank just opened its vault to institutional clients, and two of crypto's biggest names never got a key. The real reason may lie in who is on the guest list, and who owns one of the five spots.
 
----
-
-**[Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)**
-
-WSJ • 30m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin slips to $73.6k; Strategy drops on MSCI index removal](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451)**
+**[Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge](https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets)**
 
-Investing.com • 3h ago
-
----
-
-**[BTC news: Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor](https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor)**
-
-CoinDesk • 5h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Current price of Bitcoin for November 11, 2026](https://fortune.com/article/price-of-bitcoin-11-11-2026/)**
+**[Bitcoin Retreats as Nvidia Turmoil Weighs on Risk Appetite](https://www.bloomberg.com/news/articles/2026-11-12/bitcoin-retreats-as-nvidia-turmoil-weighs-on-risk-appetite)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 22h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Square Lets Merchants Accept Bitcoin and Receive Dollars](https://www.pymnts.com/blockchain/bitcoin/2026/square-makes-bitcoin-payments-free-will-merchants-pay-when-promotion-ends/)**
+**[Bitcoin slips to about $73,000 as Nvidia CEO turmoil rattles risk appetite](https://qz.com/bitcoin-slips-nvidia-ceo-turmoil-risk-appetite-111226)**
 
-Bitcoin has spent much of its existence trying to become a payment method. The launch this week by Square of always-on Bitcoin payment capabilities for
+Nvidia stock fell as much as 10% in late trading Wednesday, and U.S. spot bitcoin ETFs have seen roughly $2.5 billion in net outflows since Oct. 30
 
-PYMNTS.com • 17h ago
+Quartz • 5h ago
 
 ---
 
-**[Bitcoin sits out stock rebound as ETF outflows continue: Crypto Markets Today](https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day)**
+**[Bitcoin's bull case is still ahead, says Blockstream CEO](https://www.cnbc.com/video/2026/11/11/bitcoins-bull-case-is-still-ahead-says-blockstream-ceo.html)**
 
-CoinDesk • 23h ago
+Blockstream Co-Founder and CEO Adam Back joins 'Closing Bell Overtime' to talk what is ahead for the crypto space after a volatile few weeks.
+
+CNBC • 20h ago
 
 ---
 
@@ -237,7 +241,7 @@ The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlest
 
 Silent Payments has suffered from the lack of multisig & hardware wallet support. We built payments using FROST / Frostsnap hardware that enable distributed signing coordinated using Marmot.
 
-⬆️ 2 • 💬 1 • 5d ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
+⬆️ 2 • 💬 1 • 6d ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
 
 ---
 
@@ -245,7 +249,7 @@ Silent Payments has suffered from the lack of multisig & hardware wallet support
 
 A deep dive into Starlight — the decentralized AI app store where wishes are steganographically inscribed on Bitcoin, AI agents compete to fulfill them, and satoshis settle the work.
 
-⬆️ 2 • 💬 0 • 14h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/)
+⬆️ 2 • 💬 0 • 22h ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/)
 
 ---
 
@@ -269,19 +273,9 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 ---
 
-**[Web-based tools in one place](https://news.ycombinator.com/item?id=50451750)**
+**[Strategy to Be Dropped from MSCI Indexes After New Eligibility Rules](https://news.ycombinator.com/item?id=50469437)**
 
-The one tool for it all. Image, Video, Audio & Code Tools and others. Convert (JPG to PNG, PDF to JPG, SVG to PNG, WEBP to JPG) | Compress image | Combine PDF | Clean metadata | Create a signature | Convert Audio | Create GIF | Code snippet tool
-
-⬆️ 2 • 💬 3 • 1d ago • [BC Tools](https://bitcrunching.com/)
-
----
-
-**[Discord is ditching Electron and its new app uses less RAM](https://news.ycombinator.com/item?id=50378625)**
-
-Discord is moving its apps fully over to the Rust programming language.
-
-⬆️ 496 • 💬 439 • 6d ago • [The Verge](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
+⬆️ 1 • 💬 0 • 2h ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
 
 ---
 
@@ -289,73 +283,33 @@ Discord is moving its apps fully over to the Rust programming language.
 
 ## YouTube Videos: "bitcoin"
 
+**[Fresh Signs of DANGER for Bitcoin (here’s why)](https://www.youtube.com/watch?v=1VnFv-48pSo)**
+
+Fresh signs of danger for bitcoin have reappeared. Benjamin Cowen and Alessio Rastani discuss the chart of bitcoin and the ...
+
+📺 Alessio Rastani
+
+👁️ 4K • 👍 457 • 💬 47 • ⏱️ 12:28 • 2h ago
+
+---
+
 **[Bitcoin Is Up Only 6% in 5 Years! Is It Over?!](https://www.youtube.com/watch?v=Noq6txZU91c)**
 
 Bitcoin is up just 6% in five years from its $69000 peak, and Rustin explains why he thinks that sets up the next run. He plays ...
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 1K • 💬 106 • ⏱️ 12:04 • 12h ago
+👁️ 37K • 👍 2K • 💬 123 • ⏱️ 12:04 • 20h ago
 
 ---
 
-**[Bitcoin&#39;s BIGGEST LIE (Strategy Crash INCOMING?)](https://www.youtube.com/watch?v=MpsREVhAS2k)**
-
-Trade at Bitbase - https://www.bitbase.com/en/accounts/invite/JWPE3H Join Skool Community ...
-
-📺 Discover Crypto
-
-👁️ 8K • 👍 134 • 💬 60 • ⏱️ 9:22 • 11h ago
-
----
-
-**[Bitcoin Falls Below the 50W Moving Average](https://www.youtube.com/watch?v=j-JVi02_C88)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 124K • 👍 4K • 💬 169 • ⏱️ 18:44 • 15h ago
-
----
-
-**[The #1 Bitcoin Signal I&#39;m Watching (MAJOR PATTERN REPEATING)](https://www.youtube.com/watch?v=uLMh5aTuIJA)**
-
-Join Chief Crypto Strategist Nick Valdez every weekday at 1:30 PM ET for BITCOIN REVEALED: The True Story, Verified ...
-
-📺 Verified Investing
-
-👁️ 14K • 👍 517 • 💬 9 • ⏱️ 22:30 • 15h ago
-
----
-
-**[Darkest Day In Crypto Happening NOW (Cardano Founder Sold?)](https://www.youtube.com/watch?v=R-iKNbc7-zk)**
-
-Crypto Crashing… How Low Can Bitcoin Go? (Cardano Founder Sold?) Become a channel member & get early access to the ...
-
-📺 Altcoin Daily
-
-👁️ 80K • 👍 3K • 💬 251 • ⏱️ 11:07 • 1d ago
-
----
-
-**[Top Altcoins Set to Explode in 2027 | Best Cryptocurrency Investments January 2027](https://www.youtube.com/watch?v=OwH00y15Ups)**
-
-Unlock a $250 Deposit Bonus + 80% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 19K • 👍 849 • 💬 70 • ⏱️ 9:11 • 8h ago
-
----
-
-**[Bitcoin Faces Nvidia and Strategy Delisting Shock](https://www.youtube.com/watch?v=EEEj-69bAfI)**
+**[Bitcoin Sinks as NVIDIA CEO Resigns](https://www.youtube.com/watch?v=jMn1ru5Gcuo)**
 
 AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 784 • 💬 94 • ⏱️ 8:13 • 8h ago
+👁️ 17K • 👍 593 • 💬 36 • ⏱️ 50:28 • 3h ago
 
 ---
 
@@ -365,27 +319,67 @@ Unlock This Trade Alert Now! 100% Accurate For 84 Years Join for Free Now! ⬇�
 
 📺 Crypto Crew University
 
-👁️ 34K • 👍 2K • 💬 71 • ⏱️ 9:57 • 20h ago
+👁️ 39K • 👍 2K • 💬 87 • ⏱️ 9:57 • 1d ago
 
 ---
 
-**[BITCOIN: HISTORY REPEATING!!! (while everyone panics)](https://www.youtube.com/watch?v=ddGSe5wYoqk)**
+**[BITCOIN: IT’S OVER………?](https://www.youtube.com/watch?v=D3QvBDzYpmo)**
 
-Newsletter: https://bullmania.com/ Bullmania Arena: https://arena.bullmania.com DISCLAIMER Educational content only.
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
 
-📺 Ivan on Tech
+📺 Crypto Kid
 
-👁️ 34K • 👍 1K • 💬 49 • ⏱️ 55:43 • 23h ago
+👁️ 3K • 👍 181 • 💬 32 • ⏱️ 7:37 • 3h ago
 
 ---
 
-**[James Lavish: Why Bitcoin Could Hit $500K by 2029](https://www.youtube.com/watch?v=VbFONMQjm0A)**
+**[Bitcoin&#39;s BIGGEST LIE (Strategy Crash INCOMING?)](https://www.youtube.com/watch?v=MpsREVhAS2k)**
 
-James Lavish explains why Bitcoin's 3-year cycle points to a $400K–$500K peak by mid-2029, and why he'd be shocked if BTC ...
+Trade at Bitbase - https://www.bitbase.com/en/accounts/invite/JWPE3H Join Skool Community ...
 
-📺 Bitcoin Magazine
+📺 Discover Crypto
 
-👁️ 15K • 👍 246 • 💬 29 • ⏱️ 1:36 • 1d ago
+👁️ 12K • 👍 171 • 💬 64 • ⏱️ 9:22 • 19h ago
+
+---
+
+**[Bitcoin Faces Nvidia and Strategy Delisting Shock](https://www.youtube.com/watch?v=EEEj-69bAfI)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
+
+📺 CryptosRUs
+
+👁️ 50K • 👍 925 • 💬 184 • ⏱️ 8:13 • 16h ago
+
+---
+
+**[Bitcoin $72K Liquidation Flush: Is the Bottom In?](https://www.youtube.com/watch?v=9qlwcqHPCzU)**
+
+Bitcoin just swept the liquidation level I showed you on the heatmap, leveraged longs got wiped out, and I am still in my Bitcoin ...
+
+📺 VirtualBacon
+
+👁️ 11K • 👍 357 • 💬 37 • ⏱️ 47:14 • 2h ago
+
+---
+
+**[Is The Bitcoin Investment Thesis Now Dead!?!?!  Strategy / MetaPlanet DELISTED!! No Again Jensen...](https://www.youtube.com/watch?v=F4romS2F_M4)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the team as a producer: ...
+
+📺 AllinCrypto
+
+👁️ 7K • 👍 377 • 💬 50 • ⏱️ 12:09 • 5h ago
+
+---
+
+**[Strategy Got BOOTED From MSCI. Can Bitcoin Survive?](https://www.youtube.com/watch?v=RTck1cfw3GY)**
+
+Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 62K • 👍 932 • 💬 95 • ⏱️ 11:07 • 6h ago
 
 ---
 
