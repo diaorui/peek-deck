@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-13T14:48:49.422640+00:00'
+updated: '2026-11-13T21:13:52.295850+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 13, 2026 at 14:48 UTC  
+**Last Updated:** November 13, 2026 at 21:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be t
 
 Hello everyone, I’m new to the group. I’ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony’s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn’t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It’s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I’m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox
 
-8d ago
+9d ago
 
 ---
 
@@ -60,7 +60,7 @@ I just finished testing the legs, i had to swap the modules i used to control th
 
 I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?
 
-8d ago
+9d ago
 
 ---
 
@@ -68,7 +68,7 @@ I modeled the individual parts and built the full assembly using SolidCraft and 
 
 Después de un accidente se han vuelto a construir las piernas. Está vez con encoder y un par de servoblocks en las caderas. Encoders magnéticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad .
 
-8d ago
+9d ago
 
 ---
 
@@ -116,19 +116,25 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 ## Google News: "robotics"
 
+**[Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)**
+
+OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
+
+Fortune • 4h ago
+
+---
+
 **[Gemini Robotics 2.5: Accelerating Physical Intelligence](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)**
 
 Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
 
-Google DeepMind • 2d ago
+Google DeepMind • 3d ago
 
 ---
 
-**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
+**[Nvidia's supply chain investments include autonomous trucking and industrial robotics](https://www.axios.com/pro/supply-chain-deals/2026/11/13/nvidia-supply-chain-autonomous-trucking-industrial-robotics)**
 
-An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
-
-WIRED • 1d ago
+Axios • 18m ago
 
 ---
 
@@ -138,35 +144,35 @@ The New York Times • 1d ago
 
 ---
 
-**[Manufacturing’s Next Phase: From AI Pilots to Autonomous Decisions on the Factory Floor](https://www.roboticstomorrow.com/story/2026/11/manufacturings-next-phase-from-ai-pilots-to-autonomous-decisions-on-the-factory-floor/27356/)**
+**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
 
-Manufacturers that scale successfully tend to begin with one line that has measurable scrap or changeover pain, build clean and time stamped machine data before adding models, and decide in advance what each system may adjust on its own and who owns the outcome.
+An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
 
-Robotics Tomorrow • 1h ago
-
----
-
-**[Meet the founder betting Washington can help him build America's robotics giant](https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11)**
-
-Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US — and he's looking to Washington for help.
-
-Business Insider • 1d ago
+WIRED • 2d ago
 
 ---
 
-**[Robot dog spotted taking real dog on a stroll in San Francisco](https://www.usatoday.com/story/news/state/california/2026/11/12/robot-dog-spotted-taking-real-dog-on-a-stroll-in-san-francisco/92743564007/)**
+**[3 Robotics Stocks To Own In November 2026](https://finance.yahoo.com/markets/stocks/articles/3-robotics-stocks-own-november-232413810.html)**
 
-The unusual pairing highlights how robotics technology is becoming a more visible part of everyday life in the Bay Area.
+The sudden 10% drop in Nvidia after Jensen Huang’s resignation has shaken confidence in pure software and AI chip stories, pushing attention toward companies that put robotics into real world factories, warehouses, and infrastructure. That shift in focus creates urgency for investors who do not want physical automation to rerate without them. This article walks through three leading robotics and automation stocks from our screener and what sets each one apart. These three robotics and...
 
-USA Today • 19h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Ring announces Ring Robotics, ushering in a new era of security](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)**
+**[Eric Trump-partnered Robotics CEO addresses 'Terminator' fears as he sends combat humanoids into warzones](https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones)**
 
-Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.
+Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone.
 
-About Amazon • 3d ago
+Fox News • 1h ago
+
+---
+
+**[Here’s What a $1,000 Investment in Kraken Robotics Will Be Worth by the End of 2027 if Undersea Drone Orders Keep Doubling](https://www.fool.com/investing/2026/11/13/here-s-what-a-usd1-000-investment-in-kraken-robotics-will-be-worth-by-the-end-of-2027-if-undersea-drone-orders-keep-doubling/)**
+
+The future of defense is autonomous, and Kraken Robotics is helping fill this demand.
+
+The Motley Fool • 14h ago
 
 ---
 
@@ -178,19 +184,11 @@ CSET | Center for Security and Emerging Technology • 2d ago
 
 ---
 
-**[We’re Adding to Our Robotics Holding](https://pro.thestreet.com/portfolio/were-adding-to-our-robotics-holding)**
+**[How Do I Teach My Daughter That Robots Are Not Her Friends?](https://www.thecut.com/article/teaching-daughter-robots-not-friends.html)**
 
-Third-quarter industry data and moves by Walmart, Amazon and D.R. Horton prompt our move.
+She treats chatbots and humanoid machines with so much kindness. I’m trying to make her stop.
 
-RealMoney Pro • 21h ago
-
----
-
-**[DeepX plans $100 million-plus AI chip with Samsung 2nm process](https://qz.com/deepx-samsung-ai-chip-robots-100-million-111326)**
-
-The South Korean startup sent final DX-M2 designs to Samsung's foundry and expects first silicon by March 2027
-
-Quartz • 1h ago
+The Cut • 9h ago
 
 ---
 
@@ -198,13 +196,13 @@ Quartz • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[Tesla&#39;s Robot School Is Real: 20,000 Robots Teach Themselves](https://www.youtube.com/watch?v=-YQc4rveiSk)**
+**[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
 
-Tesla plans an Optimus Academy with between 10000 and 20000 robots practicing tasks all day. I see it as Tesla's answer to the ...
+Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
 
-📺 The Electric Viking
+📺 Arctos Robotics
 
-👁️ 8K • 👍 193 • 💬 42 • ⏱️ 4:25 • 9h ago
+👁️ 213K • 👍 3K • 💬 139 • ⏱️ 8:25 • 4d ago
 
 ---
 
@@ -214,57 +212,37 @@ Humanoid robots are attracting big valuations. What do they need to prove before
 
 📺 Imagination in Action
 
-👁️ 14K • 👍 125 • 💬 22 • ⏱️ 37:09 • 2d ago
+👁️ 14K • 👍 125 • 💬 22 • ⏱️ 37:09 • 3d ago
 
 ---
 
-**[🔴 Live: Pacman Universe 3D Robotic Animation Compilation | Futuristic Mechanical CGI Showcase](https://www.youtube.com/watch?v=YdjZG-YDOTM)**
+**[I Built a Automated High Speed Camera Robot](https://www.youtube.com/watch?v=enNRvZ5BhjM)**
 
-Experience Pacman Universe like never before with this live 3D robotic animation compilation—featuring futuristic mechanical ...
+This work was supported by the Alfred P. Sloan Foundation, enhancing public understanding of science and technology in the ...
 
-📺 StrEat
+📺 Jeremy Fielding
 
-👁️ 2K • 👍 7 • 32m ago
-
----
-
-**[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
-
-Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
-
-📺 Arctos Robotics
-
-👁️ 207K • 👍 3K • 💬 139 • ⏱️ 8:25 • 3d ago
+👁️ 75K • 👍 2K • 💬 203 • ⏱️ 53:28 • 20h ago
 
 ---
 
-**[I&#39;ve Tested Beni the Robot From the Beginning… Here&#39;s My Final Verdict!](https://www.youtube.com/watch?v=hfSRypjm2Vk)**
+**[Race Car Suspension Meets Field Robotics | SCOUT 2.0 Off-Road Mobile Robot](https://www.youtube.com/watch?v=MI86azwKTBM)**
 
-Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities, can travel on ...
+What helps a supercar stay composed through corners can also help a robot tackle rough terrain. SCOUT 2.0 features ...
 
-📺 51 Drones
+📺 AgileX Robotics
 
-👁️ 10K • 👍 279 • 💬 89 • ⏱️ 16:04 • 2d ago
-
----
-
-**[Making Rocky into a focus buddy!](https://www.youtube.com/watch?v=QNDa5VdQRh4)**
-
-https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robotics #deskrobot #3dprinting.
-
-📺 Casey.aicreates
-
-👁️ 26K • 👍 1K • 💬 42 • ⏱️ 1:44 • 6d ago
+👁️ 2K • 👍 12 • ⏱️ 0:23 • 3d ago
 
 ---
 
-**[Robot tells Al Jazeera AI is ‘too useful to disappear’ | AJ #shorts](https://www.youtube.com/watch?v=FPr9mJbq2T8)**
+**[Was it worth the wait? Mannis New R-BOMB [War Robots]](https://www.youtube.com/watch?v=Qsi3sTDZcI0)**
 
-Massive investments in AI have driven the dominance of tech companies in US stock markets, but experts warn valuations may be ...
+War Robots Gameplay: UE Ravana with UE Vortex - FINALLY! After such a long wait - was it worth it? My War Robots Creator ...
 
-📺 Al Jazeera English
+📺 Manni-Gaming
 
-👁️ 24K • 👍 509 • 💬 38 • ⏱️ 0:49 • 1d ago
+👁️ 10K • 👍 468 • 💬 98 • ⏱️ 18:18 • 6h ago
 
 ---
 
@@ -274,7 +252,17 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The AI Nexus
 
-👁️ 41K • 👍 460 • 💬 63 • ⏱️ 15:41 • 3d ago
+👁️ 41K • 👍 462 • 💬 63 • ⏱️ 15:41 • 3d ago
+
+---
+
+**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
+
+What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
+
+📺 Dorian Todd
+
+👁️ 59K • 👍 1K • 💬 56 • ⏱️ 14:42 • 4d ago
 
 ---
 
@@ -294,7 +282,17 @@ After an extremely successful kickstarter Beni is officially being launched glob
 
 📺 Air Photography
 
-👁️ 11K • 👍 197 • 💬 23 • ⏱️ 7:23 • 2d ago
+👁️ 12K • 👍 203 • 💬 24 • ⏱️ 7:23 • 3d ago
+
+---
+
+**[America&#39;s New Construction Robot Will Shock You!](https://www.youtube.com/watch?v=AQI_zIAQiE0)**
+
+America is facing a massive construction labor shortage, and a new wave of robots is stepping in to fill the gap. Across job sites in ...
+
+📺 Tyrone
+
+👁️ 33K • 👍 328 • 💬 4 • ⏱️ 22:38 • 4d ago
 
 ---
 
