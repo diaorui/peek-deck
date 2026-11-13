@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-12T23:59:18.927107+00:00'
+updated: '2026-11-13T06:23:57.823552+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 12, 2026 at 23:59 UTC  
+**Last Updated:** November 13, 2026 at 06:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,021.25
+### $1,962.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -9.8%  
-**30d:** -16.5%  
-**90d:** +7.2%  
-**1y:** -37.7%  
+**24h:** -5.9%  
+**7d:** -13.9%  
+**30d:** -21.0%  
+**90d:** +2.8%  
+**1y:** -37.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $246.66B
+**Market Cap:** $235.26B
 Rank #2
 
-**Circulating Supply:** 122,212,724 ETH
+**Circulating Supply:** 122,215,669 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.2%
+-61.1%
 
 **All-Time Low:** $0.43
-+466040.4%
++444492.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-11h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 got a token thats not on the big exchanges in any useful way, withdrawal fee makes the listing pointless even where it exists. stealthex and godex both show a route to ETH but ive never done anything outside top coins and dont want to be the test tx. not hunting spread, just want to know if these actually pay out thin pairs or if it sits until you email someone. done one this year? how long did it take
 
-13h ago
+20h ago
 
 ---
 
@@ -112,7 +112,7 @@ i’ve finally switched from rabby wallet to ambire after a long while been a bi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -158,17 +158,31 @@ Crypto News • 1d ago
 
 ---
 
-**[What Will Bitcoin and Ethereum Be Worth in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-worth-5-years-173406465.html)**
+**[What Will Bitcoin and Ethereum Be Worth in 5 Years?](https://247wallst.com/investing/cryptocurrency/2026/11/11/what-will-bitcoin-and-ethereum-be-worth-in-5-years/)**
 
-Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?
+Forecasts put Bitcoin at $166,000 to $1.2 million by 2030 or 2031. Here's what Bitcoin and Ethereum could be worth in 5 years.
 
-Yahoo Finance • 1d ago
+24/7 Wall St. • 1d ago
+
+---
+
+**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/)**
+
+BeInCrypto • 5h ago
 
 ---
 
 **[Ethereum researchers drop faster blocks to race toward quantum defenses in 2027](https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027)**
 
-CoinDesk • 12h ago
+CoinDesk • 18h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Crack as Trump Says 'We Don't Need a Deal With Iran': Analyst Warns BTC's Correction Could Deepen](https://www.tradingview.com/news/benzinga:2ee55bd2d094b:0-bitcoin-ethereum-xrp-dogecoin-crack-as-trump-says-we-don-t-need-a-deal-with-iran-analyst-warns-btc-s-correction-could-deepen/)**
+
+Leading cryptocurrencies plunged deeper on Thursday as investors weighed President Donald Trump’s latest remarks on Iran.Crypto Market TumblesBitcoin fell below $71,000 for the first time in nearly three months, while Ethereum slipped below $2,000 as major cryptocurrencies faced heavy selling press…
+
+TradingView • 4h ago
 
 ---
 
@@ -184,7 +198,21 @@ Mashable • 1d ago
 
 BOSTON, Nov.  12, 2026  (GLOBE NEWSWIRE) -- Developed by Ledger cofounder Nicolas Bacca, the app runs on KeyOS, Foundation's open source operating...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 14h ago
+
+---
+
+**[This 1 Important Signal Is Now Flashing Red for Ethereum. That's Why I'm Selling ETH Right Now.](https://www.fool.com/investing/2026/11/12/this-1-important-signal-is-now-flashing-redgreen-f/)**
+
+Until Ethereum ETF inflows return, it may be time to look elsewhere for upside.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum’s founder came to Mumbai. So did 5,000 others. Few noticed](https://indianexpress.com/article/india/ethereum-devon-mumbai-gathering-vitalik-buterin-aadhaar-zero-knowledge-proof-10960232/)**
+
+The Indian Express • 18h ago
 
 ---
 
@@ -196,49 +224,9 @@ Fortune • 2d ago
 
 ---
 
-**[This 1 Important Signal Is Now Flashing Red for Ethereum. That's Why I'm Selling ETH Right Now.](https://www.fool.com/investing/2026/11/12/this-1-important-signal-is-now-flashing-redgreen-f/)**
-
-Until Ethereum ETF inflows return, it may be time to look elsewhere for upside.
-
-The Motley Fool • 17h ago
-
----
-
-**[Crypto Market Sell-Off Deepens: Why Are Bitcoin, Ethereum and Solana Falling?](https://www.tradingview.com/news/coinpedia:5144f0c0d094b:0-crypto-market-sell-off-deepens-why-are-bitcoin-ethereum-and-solana-falling/)**
-
-The cryptocurrency market is struggling to find support as Bitcoin, Ethereum and major altcoins extend their declines. Bitcoin traded near $73,400 on November 11, while Ethereum slipped toward $2,050 and Solana fell below $85. The broader market has come under pressure from institutional withdrawal…
-
-TradingView • 15h ago
-
----
-
-**[Ethereum’s biggest gathering came to India for the first time. Mumbai barely noticed](https://indianexpress.com/article/india/ethereum-devon-mumbai-gathering-vitalik-buterin-aadhaar-zero-knowledge-proof-10960232/)**
-
-The Indian Express • 12h ago
-
----
-
-**[Crypto Crash Aftermath: What’s Next For Bitcoin, Ethereum And XRP Prices?](https://coinpedia.org/news/crypto-crash-aftermath-whats-next-for-bitcoin-ethereum-and-xrp-prices/)**
-
-The worst of the selling may have slowed, but the crypto market is not out of danger yet. After a week of heavy losses driven by hot US inflation data and
-
-Coinpedia • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Jamie Dimon Hates Crypto. So Why Is JPMorgan&#39;s Dollar On Ethereum?](https://www.youtube.com/watch?v=z75gejjuHnQ)**
-
-Jamie Dimon called Bitcoin a fraud. Then JPMorgan put its own dollar on Ethereum. JPM Coin, ticker JPMD, went live on the ...
-
-📺 Dana Love, PhD
-
-👁️ 21K • 👍 380 • 💬 56 • ⏱️ 19:35 • 1d ago
-
----
 
 **[🚀 Ethereum Gets A New Story - ETH Crypto Analysis](https://www.youtube.com/watch?v=gxlBCJK4LKE)**
 
@@ -246,27 +234,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bCR7dFhS My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 1K • 👍 21 • 💬 8 • ⏱️ 8:43 • 12h ago
+👁️ 2K • 👍 25 • 💬 11 • ⏱️ 8:43 • 19h ago
 
 ---
 
-**[Ethereum’s Vitalik Just Killed Ultrasound Money](https://www.youtube.com/watch?v=c0_agF2_9IQ)**
+**[Jamie Dimon Hates Crypto. So Why Is JPMorgan&#39;s Dollar On Ethereum?](https://www.youtube.com/watch?v=z75gejjuHnQ)**
 
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+Jamie Dimon called Bitcoin a fraud. Then JPMorgan put its own dollar on Ethereum. JPM Coin, ticker JPMD, went live on the ...
 
-📺 Lark Davis
+📺 Dana Love, PhD
 
-👁️ 17K • 👍 233 • 💬 35 • ⏱️ 10:11 • 2d ago
-
----
-
-**[Ethereum Just Dipped Into the Target Zone. Is the Low Close?](https://www.youtube.com/watch?v=fhZpdHv2Bww)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 169 • 💬 6 • ⏱️ 8:00 • 10h ago
+👁️ 22K • 👍 381 • 💬 56 • ⏱️ 19:35 • 1d ago
 
 ---
 
@@ -276,7 +254,27 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 1K • 👍 64 • 💬 13 • ⏱️ 12:35 • 2h ago
+👁️ 5K • 👍 99 • 💬 17 • ⏱️ 12:35 • 9h ago
+
+---
+
+**[Ethereum Just Dipped Into the Target Zone. Is the Low Close?](https://www.youtube.com/watch?v=fhZpdHv2Bww)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 9K • 👍 186 • 💬 6 • ⏱️ 8:00 • 16h ago
+
+---
+
+**[Ethereum’s Vitalik Just Killed Ultrasound Money](https://www.youtube.com/watch?v=c0_agF2_9IQ)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 17K • 👍 234 • 💬 35 • ⏱️ 10:11 • 2d ago
 
 ---
 
@@ -286,17 +284,17 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 4K • 👍 83 • 💬 51 • ⏱️ 14:58 • 2d ago
+👁️ 5K • 👍 83 • 💬 50 • ⏱️ 14:58 • 2d ago
 
 ---
 
-**[Is Ethereum Gold? Seppuku Suit + Nvidia Honeypot - The Chopping Block](https://www.youtube.com/watch?v=XDYwp2O4jic)**
+**[Bitcoin Breaking Down! Fibonacci Support Levels for BTC, ETH, SOL, and HYPE](https://www.youtube.com/watch?v=0lbcy9GhswA)**
 
-Haseeb, Tom, and Tarun debate Vitalik's case that ETH should be valued as a store of value, whether Bitcoin survives the ...
+Bitcoin is losing a key support level, and crypto is getting oversold. Pro Trader Drew Dosek uses Fibonacci retracements, parallel ...
 
-📺 Unchained
+📺 Verified Investing
 
-👁️ 6K • 👍 59 • 💬 20 • ⏱️ 50:40 • 1d ago
+👁️ 11K • 👍 265 • 💬 6 • ⏱️ 9:21 • 9h ago
 
 ---
 
@@ -306,27 +304,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.c
 
 📺 Cilinix Crypto
 
-👁️ 454 • 👍 10 • 💬 1 • ⏱️ 4:42 • 13h ago
+👁️ 561 • 👍 12 • 💬 1 • ⏱️ 4:42 • 19h ago
 
 ---
 
-**[Tom Lee Ethereum Prediction: $20K or $250K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=ftceDWupgqw)**
+**[BITCOIN &amp; ALTCOIN WARNING: Bearish Price Target Revealed!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SvGo6yATLOk)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+BITCOIN & ALTCOIN WARNING: Bearish Price Target Revealed!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 17K • 👍 242 • 💬 50 • ⏱️ 22:13 • 2d ago
+👁️ 10K • 👍 303 • 💬 87 • ⏱️ 24:54 • 13h ago
 
 ---
 
-**[Crypto: Ethereum is officially a corporate suicide cult](https://www.youtube.com/watch?v=lJSiilcSjpY)**
+**[Is ETH a Store of Value Like BTC and Gold? Ethereum Founder Vitalik Flips](https://www.youtube.com/watch?v=JDLc2T1bomQ)**
 
-Now with Nazis! by Amy Castor and David Gerard ...
+Can ether hold its value the way gold does? If you bought ether at its 2025 peak, you're down about 58%. On November 8 ...
 
-📺 Pivot to AI
+📺 EvidenceDad
 
-👁️ 18K • 👍 1K • 💬 262 • ⏱️ 11:26 • 2d ago
+👁️ 12 • 💬 1 • ⏱️ 17:29 • 19h ago
 
 ---
 
