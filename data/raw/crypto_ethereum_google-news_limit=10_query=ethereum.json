@@ -5,42 +5,22 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins",
-      "source": "Crypto News",
-      "source_url": "https://crypto.news",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDEwajI3MUNPcHFsYk5aTjRuYktNNzhWckRlUkhUbGdEMGs0dXJGbVR0ZEpMYTcyQmlPeGdIazM2b0pkS3hPZlRTc19wU3FWbEhKeHhiTGxCdDhURlRGY3EtbHVlb2ZnTUxWSzNlV2ZTTFFwTVg2WHR5ZnRucnJDaw?oc=5",
-      "pub_date": 1794388557.0,
-      "article_url": "https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/",
-      "image": "https://media.crypto.news/2024/09/crypto-news-Crypto-custody-has-stuck-in-2021-option02.webp",
-      "description": "Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027."
-    },
-    {
-      "headline": "What Will Bitcoin and Ethereum Be Worth in 5 Years?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGl5QTZSV2hLYTJtZTc1b1ZMRU5oMktueloyaXQ1N2I2Nk80eHEwUzlfSExwemNsRDc2cXduenplM0RUaHFOU2ZQQXZ3VGQxMzBBaWp1VHhNZlUzOVJlUTZxRFYyRGhjanlHcnhMVTN0ZGZiTmltR19KSFdoUFlnaks0aWs2c1E5VGxoLV9BaTNBUnRSOW1yaUhTYzlOcFlySDdFRDVUbURWTkxXNXc?oc=5",
-      "pub_date": 1794418440.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/11/what-will-bitcoin-and-ethereum-be-worth-in-5-years/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/10/shutterstock-2116841900-medium-licensed.jpg",
-      "description": "Forecasts put Bitcoin at $166,000 to $1.2 million by 2030 or 2031. Here's what Bitcoin and Ethereum could be worth in 5 years."
-    },
-    {
       "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jSkxvVlFEZXVFVnk0cUhsN2JXNnFQaUplOFFGOWNhbHZESGVZZllWc1VfS0VKc1JvUlpwQW9kYmtjcmIyUVFienRkWk81V2lYaXlDV25qN0JzRnkwRVlXWDR5YWtCeXR1RGlTYnFqUlhqNzFDVUNndEhkb0g?oc=5",
-      "pub_date": 1794530239.0,
-      "article_url": "https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/",
-      "image": null,
-      "description": null
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1FfMXF3WEE5NkV0aF9WYzBYb3BFTXRMMlktTWZmRUZrUGp0cHBhQ1VJOE5nUmN1dGJMOURzMWVLVFhkSGtOTGd1R3JZa3RFdmdqTnhVZUtzU09wLVhFUS1KeVNhekRlT2s4NkVfSjdyZ2xRTE1HcVJiNnROXzRGNl83UzY1MXRIQUl3NnhzbUo1MXVnTnQ3UDVvWG0?oc=5",
+      "pub_date": 1794534840.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0bf64da86efd78bf135b7d6c45ece42f9836b58e3ccfbbfe6ce2c568fbe12fef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fcd95f6d21e25ae21a72b8d220024753f.jpg",
+      "description": "Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data."
     },
     {
-      "headline": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+      "headline": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSG5nQ21keXQ0VlB5TDhaYThnMlBRcFdOYXpPZFdLOHEtYkhCWUtXbjJMWGNGZW1ZSUVkRnZHdFFaX3g3YVE3RWJQR1VJamhmOHJnZkdhVE9RNGJtdGNtRkY4TWRLSUEtMTFudTRISDBBZDJkS0xBZU5BRTZPWUdSYzl0WkV4dzljeDcxb2d2N0psOGktc2FmNDFPSkJmRGc3NERYQzBvb1BsNHlHdnNrdndFaEZIb1MtZ1ZMaQ?oc=5",
-      "pub_date": 1794483821.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRHFhRk1sNXA0eVBZTHM2TXZRNXNPbl9DS1l2QmE4UGVSM2tEN2Z6RUJWa2JVVW4ta1BaSkpxVHpxMWZoejZtRl85WEY5b1JlZzFid3R0bUVvSHJmQUhxeDM2cXdCOGd1c1RWek8tUnRfZGQyeGF0cHpUMlM3dWhlSkVESWpWa1hsYXVTbVk4bk5uWExBc21jbFF0SzVtWHB4R2FXNUNNTkpVZ01iRVFMWm11cndISGhzSVNfSnRGQlRadERic2U1ZGpKcE0?oc=5",
+      "pub_date": 1794553529.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
       "image": null,
       "description": null
     },
@@ -65,6 +45,16 @@
       "description": "The non-profit allegedly told workers to pledge they'd die by suicide \"with a sword.\""
     },
     {
+      "headline": "Ethereum unveils quantum-safe accounts, with a costly catch",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMk5SZ2x1eEpiZnh0VklfNmV4QjVUelN1OWlDaEhQYUpuM3BqY1A0RG1vUVJiNnpZRlItYXQyUS0wQU1JZ0ppWDNRMzhYWklsOGVMdGRra2xTMjcybUtUWG4zNE9FMVdUOTBPTVlnekZjTmszQVBCc2RQb2dQbUNpSWpic2tzY2VfNU80?oc=5",
+      "pub_date": 1794550800.0,
+      "article_url": "https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-quantum-gas-cost.jpg",
+      "description": "Ethereum researchers propose quantum-resistant accounts by 2027, with higher transaction costs until scaling upgrades arrive."
+    },
+    {
       "headline": "Foundation Launches Universal Ethereum Signer in Beta, First on Passport Hardware",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -85,26 +75,36 @@
       "description": "Until Ethereum ETF inflows return, it may be time to look elsewhere for upside."
     },
     {
-      "headline": "Ethereum\u2019s founder came to Mumbai. So did 5,000 others. Few noticed",
-      "source": "The Indian Express",
-      "source_url": "https://indianexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVJ1VjdxUHdSV0UyclRfcG1Jemw3c2FsajJWNHVxY2RQa09iVjFNVDVLd2t0MG1NWUVmLWtUZzdQNTh2SFZTdzNVVVZKNUQ4dWpwd2tEMkNXa2RCQmxGZ2NrOEFEb3gyN05FYkdIcVdaRHEzS1FCLWVOM1Zhd3o4VTFhMEw0N3VSWkFmbldwQ2lvSlJValJhSUNQWnh1QzhsclJSN0ZOUkREVXhOOWNTQmFqMTZuTmFkUWliX0M3eEdsaF900gHLAUFVX3lxTFBmZ2k2M3ZhZ2NOREd2azFZR1Bqd0JPZXRIN1huOXd2a0xJd1ZMMmNLeDFDZzlLdEFGcWdSWWYzRloyQVZON0ZFSDdwNGt6YUtHYWpjM1RKdWlwMWhXWDZhTDBCbmlxR1k1VTd1dEFndG5KUGxRTGJEc2M2dExCdTl5QkdXTVQxYUdLV3JZVzBRQjFVajhOYV9uM1BYYzZfMkFfd0NMQkU5ckdhZ3RaU29fb1FSSGNOaUJtajBvSUw5NVZDVng5cVZDeXZv?oc=5",
-      "pub_date": 1794482883.0,
-      "article_url": "https://indianexpress.com/article/india/ethereum-devon-mumbai-gathering-vitalik-buterin-aadhaar-zero-knowledge-proof-10960232/",
+      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP extend losses as downside momentum dominates",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOczRpek1FN0tvYlN5YWs0YVJaTzJEdmxxcGNhaW8xdklnQXNHWElFNGwyVUVJWFdyMVJyX3ZEQzN6cTRnYzhtelUzbWpXTWlaWTBRTVh2dDNQcm15MFZTd0F0TktSWUYyak45VVZtMy1EV2ZDS1lnSGNlMDZPbUZReDdfdHZPd1dDUkg3YUVJVndobTBzU2l1YVV0WlpsOU9VX3RpdUQzR3RsRnR0Y0E5R2dKU3hQSWhvMTJNZW9yZXRBSEVWa0prTDFzMmpOa1R6QlJmcmhEcWdaYjNmT2ROa2hHZ1hudTlMQm9jS3l4R1ZianliOHhUQnU2Sjk?oc=5",
+      "pub_date": 1794541378.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-losses-as-downside-momentum-dominates-202611130342",
       "image": null,
       "description": null
     },
     {
-      "headline": "Current price of Ethereum for November 10, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pdjdsNTdZVnZ6NWU0MkpYeDNJd1U4aUZNbFBOb1diOFh2Sk9NT29ZMjRPcUlHWjQtcm1UZjk5NWU5d2dCQ05Vdmo1S2lySzRNUUx6cnJ4c3NZNjRxVzFGRzY5bFhpWWZz?oc=5",
-      "pub_date": 1794313800.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-10-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-10.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "How Ethereum staking hit a record 36.3% despite ETH\u2019s price drop",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjdDSHh0enNwMTg1Yk5td2VpdGNDaEc3b2dJQUNOand0RFp6Ym5mZWlSYVpKbUV6YnRsWnVpSmpWWTltV2hhZVUyNG83QUxoUGxlX2k0RVhKblY3TUh5a3pmQXJ2eUFKUUZEcFVWb2I2Y2pzSktPMHpoSkt4WENSLXJQajd6Y09RUmxITW1R?oc=5",
+      "pub_date": 1794535253.0,
+      "article_url": "https://ambcrypto.com/how-ethereum-staking-hit-a-record-36-3-despite-eths-price-drop/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/11/Ethereums-staking-ratio-has-reached-an-all-time-high-e1794480450121.webp",
+      "description": "More than one-third of Ethereum's circulating supply is now staked."
+    },
+    {
+      "headline": "Crypto Market Sell-Off Deepens: Why Are Bitcoin, Ethereum and Solana Falling?",
+      "source": "Coinpedia",
+      "source_url": "https://coinpedia.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlNkN2ItMFJyTmV5cjhCOGFyNnNLal9lelBld25fQ3puMWFYdF92dmxPWkFTMmp5VGQxYVlMYXc3NnBaS29HMUw0MkNEcE8wUVVnVkF6alFPRUNmSFNoZHdvQ2RZWnpZXzZ0TnUwTnRYdDVFR21HbnJNWjdtelJTbTloc2JIS29PcVRrMnNDR1pZUW92XzBVSDNUVmUxXzZZdXB5V1RDVV9vYkhWeXZBLXd30gG3AUFVX3lxTE5pbjFYVVo1RnNqdVZ3Q0J1MC1IbUhhTVllZEtBS2ROUnJGYjJPRHI0ZS02ejA2YkxCbHJqaFNYUlNOWVFnWDNWRGdsVFU4S1NlSHloMzlVcGw5Y0JKSWtRQjBXYVAtMkVHRnZ6bTZOWnBKS1gtTFBVNWpWb3A3NHNOcE13ZWh6eXJBd0Myc0prSmw3bWNtMWQwb2pYVlBBQmpLMEJWell2SklFMEhVcG5GLUNoZVNUQQ?oc=5",
+      "pub_date": 1794426780.0,
+      "article_url": "https://coinpedia.org/price-analysis/crypto-market-sell-off-deepens-why-are-bitcoin-ethereum-and-solana-falling/",
+      "image": "https://image.coinpedia.org/wp-content/uploads/2026/11/12190411/xrp-price-reversal-ahead-whale-buying-accelerates-near-1-dollar-support.jpg",
+      "description": "The cryptocurrency market is struggling to find support as Bitcoin, Ethereum and major altcoins extend their declines. Bitcoin traded near $73,400 on"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-13T06:23:51.533218+00:00"
+  "fetched_at": "2026-11-13T14:48:44.464664+00:00"
 }

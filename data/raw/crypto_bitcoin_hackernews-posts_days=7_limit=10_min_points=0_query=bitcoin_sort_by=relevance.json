@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "Show HN: Free real-time order book heatmap for Bitcoin, gold and US 500",
-      "url": "https://swiftedge.uk/depth",
-      "hn_url": "https://news.ycombinator.com/item?id=50390550",
-      "author": "Stangenberg295",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-11-06T10:24:05Z",
-      "object_id": "50390550",
-      "image": "https://swiftedge.uk/static/og.jpg",
-      "description": "The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlesticks, a footprint chart and every trade as a bubble. Free, no sign-up.",
-      "favicon": "https://swiftedge.uk/static/icons/icon-180.png",
-      "site_name": "Swiftedge"
-    },
-    {
       "title": "Bitcoin++ privacy hackathon winner: BlackIce, distributed frost silent payments",
       "url": "https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60",
       "hn_url": "https://news.ycombinator.com/item?id=50393263",
@@ -103,20 +89,6 @@
       "site_name": "wsj.com"
     },
     {
-      "title": "Web-based tools in one place",
-      "url": "https://bitcrunching.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50451750",
-      "author": "bitcrunching",
-      "points": 2,
-      "num_comments": 3,
-      "created_at": "2026-11-11T10:24:06Z",
-      "object_id": "50451750",
-      "image": "https://bitcrunching.com/share.png",
-      "description": "The one tool for it all. Image, Video, Audio & Code Tools and others. Convert (JPG to PNG, PDF to JPG, SVG to PNG, WEBP to JPG) | Compress image | Combine PDF | Clean metadata | Create a signature | Convert Audio | Create GIF | Code snippet tool",
-      "favicon": "https://bitcrunching.com/favicon.svg?v=4",
-      "site_name": "BC Tools"
-    },
-    {
       "title": "Fusee. Embeddable durable execution at the speed of the disk",
       "url": "https://www.bitsinfra.com/fusee",
       "hn_url": "https://news.ycombinator.com/item?id=50474532",
@@ -145,7 +117,7 @@
       "site_name": "deploy95.substack.com"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-11-13T06:23:32.423045+00:00"
+  "fetched_at": "2026-11-13T14:48:17.806494+00:00"
 }
