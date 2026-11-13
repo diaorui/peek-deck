@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-13T14:48:49.416561+00:00'
+updated: '2026-11-13T21:13:52.289404+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 13, 2026 at 14:48 UTC  
+**Last Updated:** November 13, 2026 at 21:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,000.73
+### $68,621.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** -8.9%  
-**30d:** -16.0%  
-**90d:** +9.9%  
-**1y:** -27.0%  
+**24h:** -3.9%  
+**7d:** -9.5%  
+**30d:** -16.5%  
+**90d:** +9.2%  
+**1y:** -27.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1388.87B
+**Market Cap:** $1379.94B
 Rank #1
 
-**Circulating Supply:** 20,111,456 BTC
+**Circulating Supply:** 20,111,481 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--45.2%
+-45.6%
 
 **All-Time Low:** $67.81
-+101767.0%
++101087.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The Office: Michael Puts Dunder Mifflin on a Bitcoin Standard (Part 1)](https://www.reddit.com/r/Bitcoin/comments/1xrvem5/the_office_michael_puts_dunder_mifflin_on_a/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The miner heats water to 60°C for the radiators and underfloor heating in a 180 m² home. So while it mines BTC, the heat it gives off warms the house. The setup cost around $20,000. Mining revenue could cover the electricity bill, but that depends on Bitcoin’s price, local power rates and mining difficulty. And if the 2028 halving cuts that income, the house will still need the same amount of heat.
 
-3d ago
+4d ago
 
 ---
 
@@ -113,7 +113,7 @@ The miner heats water to 60°C for the radiators and underfloor heating in a 180
 
 Following up on yesterday’s post about 3+ year coin volume dropping to a multi-year low of 0.08% during the weekend price action. A question from that thread caused me to dig into this deeper and I wanted to share an animated visual breakdown with more context of how these coin-age cohorts actually shift over time. Just the data, not predictions. Why this metric matters: Price feeds tell you what happened, but on-chain age cohorts tell you who is driving it. When over 50% of the active supply (coins held >3 years) completely goes dormant during sharp intraday volatility, it signals high-conviction supply withholding rather than distribution. Why I put this together: I recently started an educational channel called Over 21 Million dedicated strictly to breaking down raw on-chain metrics and network dynamics that I track in my spare time and post about. The goal isn't to make price predictions or tell anyone what direction the market will go next... nobody knows that. But historical behavior and liquidity patterns frequently rhyme. My focus is simply putting transparent, high-signal data into people's hands so everyone can interpret the underlying mechanics and form their own objective conclusions instead of reacting to exchange noise. Feedback, particularly requests for what to look into next are valuable to me. If this sparks any curiosity to look at the universe of UTXOs or raises any questions please don't hesitate to ask. Cheers.
 
-3d ago
+4d ago
 
 ---
 
@@ -121,7 +121,7 @@ Following up on yesterday’s post about 3+ year coin volume dropping to a multi
 
 The LNbits project issued an emergency warning instructing operators to shut down their LNbits servers following reported exploitation. One operator reported losing 2,285,545 satoshis (approximately 0.023 BTC) after attackers allegedly exploited an extension. The project initially warned about its Paywall extension before expanding the warning to all LNbits servers. As of 09:00 UTC November 9, no fixed release had been announced. LNbits is used to manage Bitcoin Lightning payments. Vulnerable server software can put funds at risk, even though the underlying Bitcoin network is not compromised. Community action: High priority for an administrator alert. LNbits operators should follow the project's shutdown instructions and wait for verified fixes.
 
-🔗 [The Hacker News](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html?m=1) • 3d ago
+🔗 [The Hacker News](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html?m=1) • 4d ago
 
 ---
 
@@ -157,31 +157,47 @@ Prepare for what's coming. Put in the work to understand bitcoin.
 
 Investing.com-- Bitcoin tumbled to a near three-month low on Friday as growing bets on more interest rate hikes and concerns over Strategy’s removal from MSCI indexes dented appetite for cryptocurrencies.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)**
+**[Bitcoin’s Billion-Dollar Wipeouts Are Becoming a Familiar Sight](https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight)**
 
-WSJ • 3h ago
+Bloomberg.com • 1h ago
+
+---
+
+**[JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-bitcoin-crypto-linked-holdings-201603257.html)**
+
+The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.
+
+Yahoo Finance • 57m ago
+
+---
+
+**[Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out](https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets)**
+
+CoinDesk • 19m ago
 
 ---
 
 **['Fast Money' traders discuss if a bitcoin rebound is on the horizon](https://www.cnbc.com/video/2026/11/12/fast-money-traders-discuss-if-a-bitcoin-rebound-is-on-the-horizon.html)**
 
-CNBC • 15h ago
+CNBC • 22h ago
 
 ---
 
-**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/)**
+**[Bitcoin climbs above $70K and gold rises after cooler PPI report](https://www.tradingview.com/news/cryptobriefing:241847db4094b:0-bitcoin-climbs-above-70k-and-gold-rises-after-cooler-ppi-report/)**
 
-BeInCrypto • 1h ago
+Bitcoin pushed back above $70,000 on November 13, 2026, after a producer inflation report came in a touch cooler than Wall Street expected. Gold followed it up, trading above $3,900 per ounce.The moves were modest. Bitcoin gained approximately 1-1.35%, and gold added around 0.6-1%. Still, in a week…
+
+TradingView • 7h ago
 
 ---
 
-**[Bitcoin News | SpaceX–Tesla Merger Talks Would Combine 30,220 Bitcoin Worth $2.1 Billion Under One Roof](https://www.binance.com/en/square/post/387820858420685)**
+**[Most large cryptocurrencies decline on Bitcoin, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decline-on-bitcoin-ethereum-drops-d61b89f0-c3eb49fad404)**
 
-Binance • 2h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -189,35 +205,19 @@ Binance • 2h ago
 
 Anthropic’s planned $64.4B IPO reportedly draws 6x available-share orders; Michael Burry adds Nasdaq puts as Bitcoin falls to about $69,000.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 9h ago
+
+---
+
+**[Is Bitcoin the Better Gold? These 3 Factors Say Yes](https://www.benzinga.com/crypto/cryptocurrency/26/11/63254640/is-bitcoin-the-better-gold-these-3-factors-say-yes)**
+
+Benzinga • 4h ago
 
 ---
 
 **[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend losses as downside momentum dominates](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-losses-as-downside-momentum-dominates-202611130342)**
 
-FXStreet • 11h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Crack as Trump Says 'We Don't Need a Deal With Iran': Analyst Warns BTC'](https://www.benzinga.com/crypto/cryptocurrency/26/11/63228629/bitcoin-ethereum-xrp-dogecoin-crypto-iran-war-2)**
-
-Benzinga • 12h ago
-
----
-
-**[Bitcoin risks falling to $62,000 as Fed hike odds climb, risk appetite weakens: Bitget Wallet analyst](https://cryptobriefing.com/crypto-liquidation-event-longs-billions/)**
-
-Crypto liquidation event sees $1.26B in longs wiped as Bitcoin falls below $69,000, leading to massive market shifts and CPI-driven volatility.
-
-Crypto Briefing • 8h ago
-
----
-
-**[Bitcoin and Ethereum ETFs Record $55.7 Million in Outflows as Crypto Market Sell-Off Deepens](https://financefeeds.com/bitcoin-and-ethereum-etfs-record-55-7-million-in-outflows-as-crypto-market-sell-off-deepens/)**
-
-US spot Bitcoin ETFs shed $47.7M and Ether funds $8M on November 12 in preliminary data, with BlackRock and Fidelity yet to report; Solana took in $1.7M.
-
-FinanceFeeds • 4h ago
+FXStreet • 17h ago
 
 ---
 
@@ -225,19 +225,11 @@ FinanceFeeds • 4h ago
 
 ## HackerNews: "bitcoin"
 
-**[Bitcoin++ privacy hackathon winner: BlackIce, distributed frost silent payments](https://news.ycombinator.com/item?id=50393263)**
-
-Silent Payments has suffered from the lack of multisig & hardware wallet support. We built payments using FROST / Frostsnap hardware that enable distributed signing coordinated using Marmot.
-
-⬆️ 2 • 💬 1 • 6d ago • [bitcoin++](https://btcpp.dev/seoul/hackathon/projects/33249dbf-181b-4cc6-9074-1a742f71cb60)
-
----
-
 **[The Wish Economy: Inside Starlight, the Bitcoin-Native AI App Store](https://news.ycombinator.com/item?id=50457760)**
 
 A deep dive into Starlight — the decentralized AI app store where wishes are steganographically inscribed on Bitcoin, AI agents compete to fulfill them, and satoshis settle the work.
 
-⬆️ 2 • 💬 0 • 1d ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/)
+⬆️ 2 • 💬 0 • 2d ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/)
 
 ---
 
@@ -257,13 +249,21 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 **[Why Gmx.com?](https://news.ycombinator.com/item?id=50429813)**
 
-⬆️ 2 • 💬 1 • 3d ago
+⬆️ 2 • 💬 1 • 4d ago
 
 ---
 
 **[Strategy to Be Dropped from MSCI Indexes After New Eligibility Rules](https://news.ycombinator.com/item?id=50469437)**
 
-⬆️ 1 • 💬 0 • 22h ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
+⬆️ 1 • 💬 0 • 1d ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
+
+---
+
+**[Gnomon. Git for Postgres data, built for agents](https://news.ycombinator.com/item?id=50486480)**
+
+Git for Postgres data, built for agents. Branch, diff, merge and undo inside PostgreSQL. - bitsinfra/gnomon
+
+⬆️ 22 • 💬 11 • 4h ago • [GitHub](https://github.com/bitsinfra/gnomon)
 
 ---
 
@@ -271,13 +271,13 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 Fusee is an open-source durable execution engine for Rust, TypeScript, Python, Go and Java. Workflows are ordinary async code, and each step costs about one disk write.
 
-⬆️ 1 • 💬 0 • 17h ago • [The Bits Infrastructure Company](https://www.bitsinfra.com/fusee)
+⬆️ 1 • 💬 0 • 23h ago • [The Bits Infrastructure Company](https://www.bitsinfra.com/fusee)
 
 ---
 
 **[Why Does Pitching Integrators Feel Like a One-Way Street?](https://news.ycombinator.com/item?id=50478476)**
 
-⬆️ 2 • 💬 0 • 9h ago • [deploy95.substack.com](https://deploy95.substack.com/p/why-does-pitching-integrators-feel)
+⬆️ 2 • 💬 0 • 16h ago • [deploy95.substack.com](https://deploy95.substack.com/p/why-does-pitching-integrators-feel)
 
 ---
 
@@ -285,23 +285,53 @@ Fusee is an open-source durable execution engine for Rust, TypeScript, Python, G
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is Below $70K Again (My Plan)](https://www.youtube.com/watch?v=5aSvQFlsUEM)**
+**[The Real Reason Bitcoin Dropped to $67,000 Overnight](https://www.youtube.com/watch?v=Z1RFzHDftu8)**
 
-Welcome back to the channel! ➡️ Trade on BTCC & 10% deposit bonus: https://aaronbtc.com/trade ➡️ Trezor: ...
+Strategy, the world's largest corporate Bitcoin holder, is being dropped from MSCI's stock indexes under a rule that targets ...
 
-📺 Aaron Bennett
+📺 Yahoo Finance
 
-👁️ 19K • 👍 495 • 💬 126 • ⏱️ 10:29 • 11h ago
+👁️ 9K • 👍 397 • 💬 128 • ⏱️ 14:52 • 3h ago
 
 ---
 
-**[BITCOIN TO $60K... YES OR NO?!](https://www.youtube.com/watch?v=EII_-PaTcRk)**
+**[Crypto Collapse: Why I’m Buying $67,000 Bitcoin - Technical Analysis (BTC, ETH, ZEC, SOL, HYPE)](https://www.youtube.com/watch?v=fUZh_SYMpjA)**
 
-APPLY TO JOIN MY COMMUNITY. We take a limited number of new members each month.
+No B.S. Just Charts. Bitcoin and the crypto market are in collapse mode after Bitcoin broke $75500, and Gareth Soloway shows ...
 
-📺 THE BITCOIN FAMILY Didi Taihuttu
+📺 Gareth Soloway
 
-👁️ 3K • 👍 451 • 💬 101 • ⏱️ 16:24 • 2h ago
+👁️ 16K • 👍 1K • 💬 103 • ⏱️ 11:18 • 2h ago
+
+---
+
+**[MAJOR BITCOIN SIGNAL JUST FLASHED!!](https://www.youtube.com/watch?v=meMfgAfeTsQ)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 7K • 👍 268 • 💬 40 • ⏱️ 8:26 • 6h ago
+
+---
+
+**[the bottom in for bitcoin?](https://www.youtube.com/watch?v=iVHfsHWvwkQ)**
+
+Come look into the next BIG move in crypto & metals! All LIVE analysis, charting, and trades! 1️⃣ SIGN UP With ANY ...
+
+📺 Tom Crown
+
+👁️ 4K • 👍 191 • 💬 17 • ⏱️ 1:19:43 • 2h ago
+
+---
+
+**[Bitcoin Just Got FLUSHED...Bottom in?](https://www.youtube.com/watch?v=6L-H8IzQTv8)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 599 • 💬 55 • ⏱️ 48:07 • 5h ago
 
 ---
 
@@ -311,77 +341,47 @@ Bitcoin has fallen to $68K, and the crypto market is showing signs of deep capit
 
 📺 Crypto Banter
 
-👁️ 2K • 👍 141 • 2h ago
+👁️ 24K • 👍 862 • 💬 53 • ⏱️ 27:20 • 6h ago
 
 ---
 
-**[Bitcoin Q4 Dump Came Just the Same](https://www.youtube.com/watch?v=QcJlPjcOZjw)**
+**[Bitcoin Is Below $70K Again (My Plan)](https://www.youtube.com/watch?v=5aSvQFlsUEM)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Welcome back to the channel! ➡️ Trade on BTCC & 10% deposit bonus: https://aaronbtc.com/trade ➡️ Trezor: ...
+
+📺 Aaron Bennett
+
+👁️ 23K • 👍 549 • 💬 135 • ⏱️ 10:29 • 17h ago
+
+---
+
+**[Bitcoin Drops Below $70k](https://www.youtube.com/watch?v=7XTLBzDzOHA)**
+
+Bitcoin has fallen below $70k. Let's discuss what comes next. Come to the 1st ITC Conference: ...
 
 📺 Benjamin Cowen
 
-👁️ 178K • 👍 8K • 💬 514 • ⏱️ 13:26 • 19h ago
+👁️ 57K • 👍 3K • 💬 241 • ⏱️ 24:07 • 4h ago
 
 ---
 
-**[BITCOIN: THIS IS VERY BAD !!!](https://www.youtube.com/watch?v=N7ktU0RYa8U)**
+**[Bitcoin Just Lost $70K: This Is What Happened Last Time](https://www.youtube.com/watch?v=3eDRu9w1gwM)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Up to ...
+Join Learning Crypto: ...
 
-📺 The Moon Show
+📺 Crypto Tips
 
-👁️ 6K • 👍 422 • 💬 23 • ⏱️ 8:52 • 3h ago
-
----
-
-**[BITCOIN CRASHED... this is why](https://www.youtube.com/watch?v=1d0uqgnkWdg)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-8?vipCode=00dt&qrType=activity Instant VIP6 (44% fee ...
-
-📺 Crypto Rover
-
-👁️ 13K • 👍 674 • 💬 87 • ⏱️ 10:00 • 5h ago
+👁️ 5K • 👍 317 • 💬 36 • ⏱️ 8:35 • 4h ago
 
 ---
 
-**[Bitcoin Crash: The Cycle Is Repeating (and how BTC can be saved)](https://www.youtube.com/watch?v=aNNrh4GJGuA)**
+**[BITCOIN TO $60K... YES OR NO?!](https://www.youtube.com/watch?v=EII_-PaTcRk)**
 
-The Investor Accelerator Membership HUGE BLACK FRIDAY SALE → https://tiainvestor.com/black-friday/ ------------- Are you ...
+APPLY TO JOIN MY COMMUNITY. We take a limited number of new members each month.
 
-📺 Jason Pizzino
+📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 29K • 👍 730 • 💬 94 • ⏱️ 25:43 • 12h ago
-
----
-
-**[Bitcoin Is Up Only 6% in 5 Years! Is It Over?!](https://www.youtube.com/watch?v=Noq6txZU91c)**
-
-Bitcoin is up just 6% in five years from its $69000 peak, and Rustin explains why he thinks that sets up the next run. He plays ...
-
-📺 Simply Bitcoin
-
-👁️ 46K • 👍 2K • 💬 136 • ⏱️ 12:04 • 1d ago
-
----
-
-**[Bitcoin Bottom Is NOT In! [Don&#39;t Trust This Pump]](https://www.youtube.com/watch?v=2F4fK-P0Q08)**
-
-The market's been violent, crypto dumping hard. Dylan's back with Pimp My PNL, hitting those key altcoin support levels. Is this a ...
-
-📺 Chart Hackers
-
-👁️ 897 • 👍 143 • 1h ago
-
----
-
-**[Peter Schiff on the Bitcoin Crash: &quot;Get the Hell Out&quot;](https://www.youtube.com/watch?v=8HRAH-P7I4g)**
-
-Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before ...
-
-📺 Bitcoin Magazine
-
-👁️ 10K • 👍 64 • 💬 52 • ⏱️ 20:10 • 18h ago
+👁️ 13K • 👍 755 • 💬 129 • ⏱️ 16:24 • 9h ago
 
 ---
 
