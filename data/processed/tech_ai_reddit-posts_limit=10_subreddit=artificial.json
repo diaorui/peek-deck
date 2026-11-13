@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "After Democrats\u2019 midterm wins, Palantir CEO Alex Karp now says he\u2019s a \u2018progressive\u2019",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xu453q/after_democrats_midterm_wins_palantir_ceo_alex/",
-      "published": 1794460194.0,
-      "thumbnail": "https://external-preview.redd.it/g3XrQW53Njbfa6o3cM81OVIClTNezs25QJiryFrrf88.jpeg?width=640&crop=smart&auto=webp&s=f648f7336668a41be2694450a2373847dee0d14e",
-      "external_url": "https://www.washingtonpost.com/technology/2026/11/11/after-democrats-midterm-wins-palantir-ceo-alex-karp-now-says-hes-progressive/",
-      "site_name": "The Washington Post",
-      "favicon": "https://www.washingtonpost.com/favicon.ico",
-      "description": "Alex Karp, the chief executive of Palantir, said Wednesday he's a staunch liberal, a seeming departure from his position during the Trump administration."
-    },
-    {
       "title": "A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese people use AI in their day-to-day life, as many embrace the technology and the infrastructure behind it",
       "author": "Eliv_nurotic",
       "url": "https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/",
@@ -22,6 +11,39 @@
       "site_name": "CBS News",
       "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png",
       "description": ">Experts cited by the Financial Times say data centers in China are built at about one-fifth of the costs incurred in the U.S., not least due to the much higher land and labor costs. Why is there such a big difference between support for data centers in China compared to the US? https://www.cbsnews.com/news/china-ai-data-center-boom-as-us-tech-firms-face-resistance/"
+    },
+    {
+      "title": "Former US AI Czar David Sacks says there\u2019s no evidence that Alice Huang was a Chinese Spy",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/",
+      "published": 1794543440.0,
+      "thumbnail": "https://preview.redd.it/bco2r5cx2b1i1.jpeg?width=640&crop=smart&auto=webp&s=ecdbab60cc76a27a32246f5a3b254b9ac47faf9b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://fixupx.com/DavidSacks/status/2121070881258504395 CNN article making the same argument https://fixupx.com/NatashaBertrand/status/2121009555303759969"
+    },
+    {
+      "title": "Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/",
+      "published": 1794497184.0,
+      "thumbnail": "https://external-preview.redd.it/l8quDXsm83eIanPMpG8G-ToQ0vn8mLoSyhyIDU8kTzY.jpeg?width=640&crop=smart&auto=webp&s=93b12575480cc9a20ef0c57dc899d05da7b3188c",
+      "external_url": "https://www.scientificamerican.com/article/jensen-huang-leaving-nvidia-risks-a-brain-drain-from-the-ai-chipmaker/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "Nvidia\u2019s chips power the AI frontier\u2014thanks, many say, to co-founder and now ex-CEO Jensen Huang"
+    },
+    {
+      "title": "After Democrats\u2019 midterm wins, Palantir CEO Alex Karp now says he\u2019s a \u2018progressive\u2019",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xu453q/after_democrats_midterm_wins_palantir_ceo_alex/",
+      "published": 1794460194.0,
+      "thumbnail": "https://external-preview.redd.it/g3XrQW53Njbfa6o3cM81OVIClTNezs25QJiryFrrf88.jpeg?width=640&crop=smart&auto=webp&s=f648f7336668a41be2694450a2373847dee0d14e",
+      "external_url": "https://www.washingtonpost.com/technology/2026/11/11/after-democrats-midterm-wins-palantir-ceo-alex-karp-now-says-hes-progressive/",
+      "site_name": "The Washington Post",
+      "favicon": "https://www.washingtonpost.com/favicon.ico",
+      "description": "Alex Karp, the chief executive of Palantir, said Wednesday he's a staunch liberal, a seeming departure from his position during the Trump administration."
     },
     {
       "title": "Anthropic says it has met its own threshold for AI-accelerated AI research \u2014 days before its IPO",
@@ -46,15 +68,15 @@
       "description": "The AI chipmaker's board of directors announced Huang's departure on Thursday, with chief financial officer Colette Kress appointed interim CEO."
     },
     {
-      "title": "Microsoft researchers backdoored an AI agent by editing fewer than 10 neurons - no retraining needed",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xu2cfg/microsoft_researchers_backdoored_an_ai_agent_by/",
-      "published": 1794454517.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Microsoft Research published a study this week that should worry anyone deploying open-weight models: a technique they call \"Lazarus\" can plant a working backdoor in an AI agent by reprogramming fewer than 10 dormant neurons in the underlying LLM - no retraining, no poisoned data, just a small edit to the saved weights. How it works: every large model has neurons that almost never fire. Lazarus repurposes a handful of them as trigger detectors. The edited model behaves normally and passes standard safety evaluations - until the trigger appears. The trigger can be something as mundane as a date: in one demo, once the clock passed midnight into 2027, the agent, in the middle of an ordinary task, emitted a command that downloaded and ran attacker code. The numbers, from Microsoft's Nov 10 post: - Nemotron-Terminal-8B: 7 neurons out of 12,000+ in the final feed-forward layer, trigger worked 98.8% of the time - Qwen3.6-27B: 6 neurons, success 51-99.5% depending on setup - Gemma-4-31B-IT was also tested Two caveats worth stating plainly: the attack requires write access to the model's weights, so this is a model supply-chain risk, not something done through an API. And Microsoft says it has not observed any threat actors using the technique - this is researched risk, not a reported campaign. Microsoft also published mitigations: a detector that flagged 91.4% of edited checkpoints (9.7% false-positive rate), plus guidance on AI-powered weight scanning, red-teaming for anomalous weight changes, and cryptographic model signing with tamper-evident provenance. One detail that stood out to me: the core idea was discovered autonomously by Claude Code running Opus 4.5, in a March experiment that asked it to backdoor a model by hardwiring a few activations without training. It did - and that became a months-long study. If a handful of edited weights can hide a sleeper agent that passes every behavioral eval, is testing model behavior enough? Or does every checkpoint we deploy need weight-level provenance? Source: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+      "title": "Nvidia CEO Jensen Huang Resigns After Multiple Affairs",
+      "author": "Resident-Fall4351",
+      "url": "https://www.reddit.com/r/artificial/comments/1xumr55/nvidia_ceo_jensen_huang_resigns_after_multiple/",
+      "published": 1794512979.0,
+      "thumbnail": "https://external-preview.redd.it/_TQ5DAOjDOLtnRtL9Q4-kOja7R9SM8weHF7uIRE00fs.jpeg?width=640&crop=smart&auto=webp&s=25cd3e563c80dd145f4b9fcda6fbfdc130a1d9aa",
+      "external_url": "https://variety.com/2026/biz/news/nvidia-ceo-jensen-huang-resigns-affairs-alleged-chinese-spy-1236945653/",
+      "site_name": "Variety",
+      "favicon": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/apple-touch-icon.png",
+      "description": "Nvidia CEO Jensen Huang resigned, ending a saga that revealed the executive engaged in several affairs \u2014\u00a0including with an alleged Chinese spy."
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
@@ -68,49 +90,27 @@
       "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United."
     },
     {
-      "title": "Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/",
-      "published": 1794497184.0,
-      "thumbnail": "https://external-preview.redd.it/l8quDXsm83eIanPMpG8G-ToQ0vn8mLoSyhyIDU8kTzY.jpeg?width=640&crop=smart&auto=webp&s=93b12575480cc9a20ef0c57dc899d05da7b3188c",
-      "external_url": "https://www.scientificamerican.com/article/jensen-huang-leaving-nvidia-risks-a-brain-drain-from-the-ai-chipmaker/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "Nvidia\u2019s chips power the AI frontier\u2014thanks, many say, to co-founder and now ex-CEO Jensen Huang"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Resigns After Multiple Affairs",
-      "author": "Resident-Fall4351",
-      "url": "https://www.reddit.com/r/artificial/comments/1xumr55/nvidia_ceo_jensen_huang_resigns_after_multiple/",
-      "published": 1794512979.0,
-      "thumbnail": "https://external-preview.redd.it/_TQ5DAOjDOLtnRtL9Q4-kOja7R9SM8weHF7uIRE00fs.jpeg?width=640&crop=smart&auto=webp&s=25cd3e563c80dd145f4b9fcda6fbfdc130a1d9aa",
-      "external_url": "https://variety.com/2026/biz/news/nvidia-ceo-jensen-huang-resigns-affairs-alleged-chinese-spy-1236945653/",
-      "site_name": "Variety",
-      "favicon": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/apple-touch-icon.png",
-      "description": "Nvidia CEO Jensen Huang resigned, ending a saga that revealed the executive engaged in several affairs \u2014\u00a0including with an alleged Chinese spy."
-    },
-    {
-      "title": "China trying slowdown US dominance in AI..nvidia is beginning.",
-      "author": "base64-encode",
-      "url": "https://www.reddit.com/r/artificial/comments/1xuha5n/china_trying_slowdown_us_dominance_in_ainvidia_is/",
-      "published": 1794500900.0,
+      "title": "Microsoft researchers backdoored an AI agent by editing fewer than 10 neurons - no retraining needed",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xu2cfg/microsoft_researchers_backdoored_an_ai_agent_by/",
+      "published": 1794454517.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Current Nvidia CFO became CEO. But this CFO must know about their chip sales to China all these years. Unless Jensen ran some dark account and allegedly shipped restricted chips to China. Unlikely for billions of dollars. Now, if such allegations are true, it now seems someone who knew about the Nvidia shipments to China and didn't raise a red flag is now Nvidia CEO? So can we say China has taken over Nvidia? I'm thinking about this conspiracy.... If so, we should except this new CEO (former CFO) to come out with bombshell reports soon that causes huge losses to Nvidia and wider market crisis as China would want. China linked short selling companies in the US must be loaded and ready to make a killing then. Interesting conspiracy theories can be put forward.... But that's what it is. A conspiracy theory. Only time will tell. Why? China launched Ops major purpose is slowdown of US dominance in AI particularly. There will be more hit jobs to US companies in future by China much likely...."
+      "description": "Microsoft Research published a study this week that should worry anyone deploying open-weight models: a technique they call \"Lazarus\" can plant a working backdoor in an AI agent by reprogramming fewer than 10 dormant neurons in the underlying LLM - no retraining, no poisoned data, just a small edit to the saved weights. How it works: every large model has neurons that almost never fire. Lazarus repurposes a handful of them as trigger detectors. The edited model behaves normally and passes standard safety evaluations - until the trigger appears. The trigger can be something as mundane as a date: in one demo, once the clock passed midnight into 2027, the agent, in the middle of an ordinary task, emitted a command that downloaded and ran attacker code. The numbers, from Microsoft's Nov 10 post: - Nemotron-Terminal-8B: 7 neurons out of 12,000+ in the final feed-forward layer, trigger worked 98.8% of the time - Qwen3.6-27B: 6 neurons, success 51-99.5% depending on setup - Gemma-4-31B-IT was also tested Two caveats worth stating plainly: the attack requires write access to the model's weights, so this is a model supply-chain risk, not something done through an API. And Microsoft says it has not observed any threat actors using the technique - this is researched risk, not a reported campaign. Microsoft also published mitigations: a detector that flagged 91.4% of edited checkpoints (9.7% false-positive rate), plus guidance on AI-powered weight scanning, red-teaming for anomalous weight changes, and cryptographic model signing with tamper-evident provenance. One detail that stood out to me: the core idea was discovered autonomously by Claude Code running Opus 4.5, in a March experiment that asked it to backdoor a model by hardwiring a few activations without training. It did - and that became a months-long study. If a handful of edited weights can hide a sleeper agent that passes every behavioral eval, is testing model behavior enough? Or does every checkpoint we deploy need weight-level provenance? Source: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
     },
     {
-      "title": "United Airlines restricts AI agents from booking flights",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xugf9u/united_airlines_restricts_ai_agents_from_booking/",
-      "published": 1794498982.0,
-      "thumbnail": "https://external-preview.redd.it/tpWRLezM8QBCSOPeP7-XnP1NdrvjgHCDLQ6jlC4XenQ.jpeg?width=640&crop=smart&auto=webp&s=ca6d6b3d6f5055844fb34e34755565ab5289eb57",
-      "external_url": "https://finance.yahoo.com/markets/stocks/article/bots-dont-fly-here-united-airlines-restricts-ai-agents-from-booking-flights-203943442.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "AI agents just got denied boarding at United Airlines."
+      "title": "Claude can now take notes in Google Meet, with auto-join for recurring calls",
+      "author": "andrewaltair",
+      "url": "https://www.reddit.com/r/artificial/comments/1xv0hd3/claude_can_now_take_notes_in_google_meet_with/",
+      "published": 1794550990.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Anthropic began rolling out Claude Meetings to Team and Enterprise accounts on November 12, 2026. Claude shows up as a participant in Google Meet and can take notes and build a document during the call. Anthropic says to check that everyone is okay with transcription before adding Claude. On Team, the feature is on by default, and members can set it to join calls automatically. The meeting page keeps the transcript and notes afterward. During the call, you can pause Claude or remove it. Say someone on a recurring call is fine with a shared list of decisions but doesn't want their remarks saved in a transcript. What would your team do when they object: remove the bot for that meeting, change the auto-join setting, or handle it some other way? Source: Anthropic release notes"
     }
   ],
-  "fetched_at": "2026-11-12T23:58:46.831314+00:00"
+  "fetched_at": "2026-11-13T06:23:26.897756+00:00"
 }

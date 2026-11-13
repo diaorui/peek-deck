@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-12T23:59:18.929318+00:00'
+updated: '2026-11-13T06:23:57.826871+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 12, 2026 at 23:59 UTC  
+**Last Updated:** November 13, 2026 at 06:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Después de un accidente se han vuelto a construir las piernas. Está vez con en
 
 I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
 
-7d ago
+8d ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev ki
 
 guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can’t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online
 
-7d ago
+8d ago
 
 ---
 
@@ -92,7 +92,7 @@ guys, need help asap, how can i connect the sg90 servo motor and 10k potentiomet
 
 Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!
 
-7d ago
+8d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I am developing a project called SmartGrid, an offline robotic tool
 
 Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?
 
-7d ago
+8d ago
 
 ---
 
@@ -134,15 +134,7 @@ WIRED • 1d ago
 
 **[Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation](https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html)**
 
-The New York Times • 18h ago
-
----
-
-**[Japan's AI robots are preparing for life on the Moon](https://www.bbc.com/reel/video/p0pkc1mt/watch)**
-
-Japanese researchers are teaching AI-powered robots to navigate the Moon and build infrastructure for the future.
-
-BBC • 13h ago
+The New York Times • 1d ago
 
 ---
 
@@ -150,7 +142,7 @@ BBC • 13h ago
 
 Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US — and he's looking to Washington for help.
 
-Business Insider • 13h ago
+Business Insider • 20h ago
 
 ---
 
@@ -158,7 +150,23 @@ Business Insider • 13h ago
 
 While AI models and chips take center stage, the AI robotics boom is silently building.
 
-The Motley Fool • 12h ago
+The Motley Fool • 18h ago
+
+---
+
+**[Japan's AI robots are preparing for life on the Moon](https://www.bbc.com/reel/video/p0pkc1mt/watch)**
+
+Japanese researchers are teaching AI-powered robots to navigate the Moon and build infrastructure for the future.
+
+BBC • 20h ago
+
+---
+
+**[Robot dog spotted taking real dog on a stroll in San Francisco](https://www.usatoday.com/story/news/state/california/2026/11/12/robot-dog-spotted-taking-real-dog-on-a-stroll-in-san-francisco/92743564007/)**
+
+The unusual pairing highlights how robotics technology is becoming a more visible part of everyday life in the Bay Area.
+
+USA Today • 11h ago
 
 ---
 
@@ -174,21 +182,15 @@ CSET | Center for Security and Emerging Technology • 1d ago
 
 Third-quarter industry data and moves by Walmart, Amazon and D.R. Horton prompt our move.
 
-RealMoney Pro • 6h ago
+RealMoney Pro • 12h ago
 
 ---
 
-**[Ring announces Ring Robotics, ushering in a new era of security](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)**
+**[Robotic technology helping to detect and treat lung cancer earlier, saving lives](https://wset.com/news/local/robotic-technology-helping-to-detect-and-treat-lung-cancer-earlier-saving-lives)**
 
-Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.
+Relatively new technology is helping Lynchburg doctors to detect, treat and cure lung cancer and earlier stages leading to more positive outcomes for patients.
 
-About Amazon • 2d ago
-
----
-
-**[GXO Doubles Down On Humanoids With Plan For Up To 1,000 Apptronik Robots](https://www.forbes.com/sites/johnkoetsier/2026/11/12/gxo-doubles-down-on-humanoids-with-plan-for-up-to-1000-apptronik-robots/)**
-
-Forbes • 11h ago
+WSET • 6h ago
 
 ---
 
@@ -196,23 +198,23 @@ Forbes • 11h ago
 
 ## YouTube Videos: "robotics"
 
+**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
+
+Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
+
+📺 Imagination in Action
+
+👁️ 14K • 👍 122 • 💬 22 • ⏱️ 37:09 • 2d ago
+
+---
+
 **[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
 
 Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
 
 📺 Arctos Robotics
 
-👁️ 193K • 👍 3K • 💬 132 • ⏱️ 8:25 • 3d ago
-
----
-
-**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
-
-A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
-
-📺 NBC News
-
-👁️ 31K • 👍 89 • 💬 36 • ⏱️ 1:56 • 1d ago
+👁️ 201K • 👍 3K • 💬 134 • ⏱️ 8:25 • 3d ago
 
 ---
 
@@ -222,7 +224,7 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The AI Nexus
 
-👁️ 40K • 👍 454 • 💬 61 • ⏱️ 15:41 • 2d ago
+👁️ 40K • 👍 456 • 💬 61 • ⏱️ 15:41 • 3d ago
 
 ---
 
@@ -232,7 +234,17 @@ Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a busi
 
 📺 Statrys
 
-👁️ 199K • 👍 3K • 💬 454 • ⏱️ 15:13 • 6d ago
+👁️ 200K • 👍 3K • 💬 456 • ⏱️ 15:13 • 6d ago
+
+---
+
+**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+
+A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+
+📺 NBC News
+
+👁️ 32K • 👍 93 • 💬 37 • ⏱️ 1:56 • 2d ago
 
 ---
 
@@ -246,13 +258,13 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 ---
 
-**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
+**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
 
-Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
+What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
 
-📺 Imagination in Action
+📺 Dorian Todd
 
-👁️ 14K • 👍 120 • 💬 22 • ⏱️ 37:09 • 2d ago
+👁️ 56K • 👍 1K • 💬 54 • ⏱️ 14:42 • 4d ago
 
 ---
 
@@ -262,37 +274,27 @@ Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Hu
 
 📺 Nexio Core
 
-👁️ 53K • 💬 13 • ⏱️ 0:06 • 2d ago
+👁️ 53K • 💬 13 • ⏱️ 0:06 • 3d ago
 
 ---
 
-**[I ONLY WAITED 1 YEAR FOR THIS... [WAR ROBOTS]](https://www.youtube.com/watch?v=QJ63Jp7alAs)**
+**[Forget the Hype! China&#39;s Robots Are Already Working!](https://www.youtube.com/watch?v=69slpmQhg8E)**
 
-War Robots Gameplay: Manni FINALLY gets UE VORTEX and UE Ravana! My War Robots Creator Link: ...
+China's robot revolution isn't something that's coming in the future — it's already happening! Here in Shenzhen, robots are ...
 
-📺 Manni-Gaming
+📺 Barrett
 
-👁️ 39K • 👍 1K • 💬 202 • ⏱️ 36:34 • 1d ago
-
----
-
-**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
-
-What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
-
-📺 Dorian Todd
-
-👁️ 55K • 👍 1K • 💬 53 • ⏱️ 14:42 • 3d ago
+👁️ 70K • 👍 244 • 💬 20 • ⏱️ 13:20 • 5d ago
 
 ---
 
-**[Why Toyota Built a Wheelchair With Four Robotic Legs](https://www.youtube.com/watch?v=fKgsLfpIZD0)**
+**[Xiaomi Humanoid Robots Just Worked an 8 Hour Shift at a Car Factory](https://www.youtube.com/watch?v=RgJhL6_f1mE)**
 
-LAST MONTH: Toyota won the Red Dot: Luminary top concept prize in Singapore for Walk Me, a robotic chair on four folding legs ...
+Xiaomi humanoid robots have completed their first reported 8-hour shift at an electric car factory. The 2 robots were tested on ...
 
-📺 Bradford Manning
+📺 DPCcars
 
-👁️ 17K • 👍 552 • 💬 19 • ⏱️ 1:10 • 2d ago
+👁️ 24K • 👍 139 • 💬 33 • ⏱️ 5:46 • 4d ago
 
 ---
 

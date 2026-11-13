@@ -16,13 +16,23 @@
     },
     {
       "headline": "What Will Bitcoin and Ethereum Be Worth in 5 Years?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTG5UY1MzMnhDcDhMS0I3cHFiWkNCbWVUR0VxWEV3bnhSb1lBOXpiUGZNUXBuN0VqUG5VNG5obGd5bHlBWHRsY3dNRW5mLVh4eF9FZlZwazVpUkxrNmVsMlZOcENMTFQzVUVyTXA2ZFJ4dlIyelU2QUp5ektRRnZ6YWYxZHdNc1kxMy1jeFpISUt1amlTeTFBcDJDWQ?oc=5",
-      "pub_date": 1794418446.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-worth-5-years-173406465.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6d26859e240180cb72546bdbb5e235c53eb6db8fcb2907675f85ef6711e74cc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8ce6a176ccf96abe9b1c70957e183451.jpg",
-      "description": "Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?"
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGl5QTZSV2hLYTJtZTc1b1ZMRU5oMktueloyaXQ1N2I2Nk80eHEwUzlfSExwemNsRDc2cXduenplM0RUaHFOU2ZQQXZ3VGQxMzBBaWp1VHhNZlUzOVJlUTZxRFYyRGhjanlHcnhMVTN0ZGZiTmltR19KSFdoUFlnaks0aWs2c1E5VGxoLV9BaTNBUnRSOW1yaUhTYzlOcFlySDdFRDVUbURWTkxXNXc?oc=5",
+      "pub_date": 1794418440.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/11/what-will-bitcoin-and-ethereum-be-worth-in-5-years/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/10/shutterstock-2116841900-medium-licensed.jpg",
+      "description": "Forecasts put Bitcoin at $166,000 to $1.2 million by 2030 or 2031. Here's what Bitcoin and Ethereum could be worth in 5 years."
+    },
+    {
+      "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jSkxvVlFEZXVFVnk0cUhsN2JXNnFQaUplOFFGOWNhbHZESGVZZllWc1VfS0VKc1JvUlpwQW9kYmtjcmIyUVFienRkWk81V2lYaXlDV25qN0JzRnkwRVlXWDR5YWtCeXR1RGlTYnFqUlhqNzFDVUNndEhkb0g?oc=5",
+      "pub_date": 1794530239.0,
+      "article_url": "https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
@@ -33,6 +43,16 @@
       "article_url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Crack as Trump Says 'We Don't Need a Deal With Iran': Analyst Warns BTC's Correction Could Deepen",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOE1ab0x3eEp6dXlRdGpUUFktMEJYdkd3RlFEbWJ1Njh2MUp5cG1RWWRJaV8yamxsUVZTRGNjR1JTSkI0ckZ4NlpJVmtkbUEwakNvOUMxYTZTTnFxWDRpUmZqQ2NvZnlzOVFENWdVQ0tjMXNoQmdqN3pQaFAzRnltQ1BoWTUxUC1YMEFlZ0VmWVA0eVVkTlYyZ1RmWW4wTzdQQV92emExZTgwR29GS18zVzVkR194cnB4ZnZZeGJrQWxwY01LS3BiRzQ1ZDlKckp0cW5zTy04WmY4V1pqdkJRSGFyakJuZDVZZndBZUlkU1l6VjBOeDM4UG40eFNrc050VGR2WGJCU2NOQl9HN0w4cw?oc=5",
+      "pub_date": 1794534600.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:2ee55bd2d094b:0-bitcoin-ethereum-xrp-dogecoin-crack-as-trump-says-we-don-t-need-a-deal-with-iran-analyst-warns-btc-s-correction-could-deepen/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies plunged deeper on Thursday as investors weighed President Donald Trump\u2019s latest remarks on Iran.Crypto Market TumblesBitcoin fell below $71,000 for the first time in nearly three months, while Ethereum slipped below $2,000 as major cryptocurrencies faced heavy selling press\u2026"
     },
     {
       "headline": "Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge",
@@ -55,16 +75,6 @@
       "description": "BOSTON, Nov.  12, 2026  (GLOBE NEWSWIRE) -- Developed by Ledger cofounder Nicolas Bacca, the app runs on KeyOS, Foundation's open source operating..."
     },
     {
-      "headline": "Current price of Ethereum for November 10, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pdjdsNTdZVnZ6NWU0MkpYeDNJd1U4aUZNbFBOb1diOFh2Sk9NT29ZMjRPcUlHWjQtcm1UZjk5NWU5d2dCQ05Vdmo1S2lySzRNUUx6cnJ4c3NZNjRxVzFGRzY5bFhpWWZz?oc=5",
-      "pub_date": 1794313800.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-10-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-10.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
       "headline": "This 1 Important Signal Is Now Flashing Red for Ethereum. That's Why I'm Selling ETH Right Now.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -75,17 +85,7 @@
       "description": "Until Ethereum ETF inflows return, it may be time to look elsewhere for upside."
     },
     {
-      "headline": "Crypto Market Sell-Off Deepens: Why Are Bitcoin, Ethereum and Solana Falling?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWM5dmF2OTdVYU5CNEl6dE93VWp0UzNDeTI2d3JnMV9SQTBETDgwOFZJTUFPVC0xTFNUVlY2YkdvSjVrR0FpRG9XRDB4U25OdzducjJiZHQ2YWJQQl95akFJeVFfNU8zS0JiUjBSemR6VVA2OWxyV0Vhckhhak9pTlNZdWk1ZGhHcF9VT1ZmNkRjWHpnMlRSVkdTMjJ0bTVCSWMwQmt0OWZLVkx1c0FyeUhjQWhXTkd3bElILU5iTG5OMVhLUERwWmN3T3V1X2s?oc=5",
-      "pub_date": 1794471831.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:5144f0c0d094b:0-crypto-market-sell-off-deepens-why-are-bitcoin-ethereum-and-solana-falling/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The cryptocurrency market is struggling to find support as Bitcoin, Ethereum and major altcoins extend their declines. Bitcoin traded near $73,400 on November 11, while Ethereum slipped toward $2,050 and Solana fell below $85. The broader market has come under pressure from institutional withdrawal\u2026"
-    },
-    {
-      "headline": "Ethereum\u2019s biggest gathering came to India for the first time. Mumbai barely noticed",
+      "headline": "Ethereum\u2019s founder came to Mumbai. So did 5,000 others. Few noticed",
       "source": "The Indian Express",
       "source_url": "https://indianexpress.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVJ1VjdxUHdSV0UyclRfcG1Jemw3c2FsajJWNHVxY2RQa09iVjFNVDVLd2t0MG1NWUVmLWtUZzdQNTh2SFZTdzNVVVZKNUQ4dWpwd2tEMkNXa2RCQmxGZ2NrOEFEb3gyN05FYkdIcVdaRHEzS1FCLWVOM1Zhd3o4VTFhMEw0N3VSWkFmbldwQ2lvSlJValJhSUNQWnh1QzhsclJSN0ZOUkREVXhOOWNTQmFqMTZuTmFkUWliX0M3eEdsaF900gHLAUFVX3lxTFBmZ2k2M3ZhZ2NOREd2azFZR1Bqd0JPZXRIN1huOXd2a0xJd1ZMMmNLeDFDZzlLdEFGcWdSWWYzRloyQVZON0ZFSDdwNGt6YUtHYWpjM1RKdWlwMWhXWDZhTDBCbmlxR1k1VTd1dEFndG5KUGxRTGJEc2M2dExCdTl5QkdXTVQxYUdLV3JZVzBRQjFVajhOYV9uM1BYYzZfMkFfd0NMQkU5ckdhZ3RaU29fb1FSSGNOaUJtajBvSUw5NVZDVng5cVZDeXZv?oc=5",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "Crypto Crash Aftermath: What\u2019s Next For Bitcoin, Ethereum And XRP Prices?",
-      "source": "Coinpedia",
-      "source_url": "https://coinpedia.org",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUXl2WFllaXVzWUFmRHE0MnF5WDV3RDVUbzMtbi13RXFMUDVOa0VaWU5nV0dXTWt1Y3Q4U0Z2U2VrVURhVS1LcUNzWVNRd002cjN3S2NQaU5WTzlPTEVJQXV0bE1hWUJvdGFwYlh5eXFXN0pna2dBcXlaMU9lVkFVRTQ4a3BmZlNvN0dWajh6QTVCa2lubDFqbGE2cU5NZ9IBowFBVV95cUxPbUo5QkxnNjhpUUFZLUdZMjRfemNxYkJnR2ZoWHVsMnpnM2dTUnhmZTl5S00wY3ViVHJxOFp4bTJGcDAwbi1GRmNXVktNYkU0U3ZCTk9IVlZFVFVQN3I2VERBcTlHOVAtbDNVQW5lYVhMRFZLWGE2WkJadzdxa3FBMUF4VG5CMHdLQ21jOXpiZW5Ha28zVHZiVW51VE04Ty1pZ0Mw?oc=5",
-      "pub_date": 1794404879.0,
-      "article_url": "https://coinpedia.org/news/crypto-crash-aftermath-whats-next-for-bitcoin-ethereum-and-xrp-prices/",
-      "image": "https://image.coinpedia.org/wp-content/uploads/2026/10/12153152/Bitcoin-Ethereum-and-XRP-Price-Analysis-This-Week-CPI-Data-in-Focus-1.jpg",
-      "description": "The worst of the selling may have slowed, but the crypto market is not out of danger yet. After a week of heavy losses driven by hot US inflation data and"
+      "headline": "Current price of Ethereum for November 10, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pdjdsNTdZVnZ6NWU0MkpYeDNJd1U4aUZNbFBOb1diOFh2Sk9NT29ZMjRPcUlHWjQtcm1UZjk5NWU5d2dCQ05Vdmo1S2lySzRNUUx6cnJ4c3NZNjRxVzFGRzY5bFhpWWZz?oc=5",
+      "pub_date": 1794313800.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-10-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-10.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T23:59:06.105768+00:00"
+  "fetched_at": "2026-11-13T06:23:51.533218+00:00"
 }

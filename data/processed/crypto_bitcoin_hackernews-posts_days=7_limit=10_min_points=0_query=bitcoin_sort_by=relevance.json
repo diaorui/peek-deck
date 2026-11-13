@@ -103,6 +103,20 @@
       "site_name": "wsj.com"
     },
     {
+      "title": "Web-based tools in one place",
+      "url": "https://bitcrunching.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50451750",
+      "author": "bitcrunching",
+      "points": 2,
+      "num_comments": 3,
+      "created_at": "2026-11-11T10:24:06Z",
+      "object_id": "50451750",
+      "image": "https://bitcrunching.com/share.png",
+      "description": "The one tool for it all. Image, Video, Audio & Code Tools and others. Convert (JPG to PNG, PDF to JPG, SVG to PNG, WEBP to JPG) | Compress image | Combine PDF | Clean metadata | Create a signature | Convert Audio | Create GIF | Code snippet tool",
+      "favicon": "https://bitcrunching.com/favicon.svg?v=4",
+      "site_name": "BC Tools"
+    },
+    {
       "title": "Fusee. Embeddable durable execution at the speed of the disk",
       "url": "https://www.bitsinfra.com/fusee",
       "hn_url": "https://news.ycombinator.com/item?id=50474532",
@@ -115,9 +129,23 @@
       "description": "Fusee is an open-source durable execution engine for Rust, TypeScript, Python, Go and Java. Workflows are ordinary async code, and each step costs about one disk write.",
       "favicon": "https://www.bitsinfra.com/apple-touch-icon.png",
       "site_name": "The Bits Infrastructure Company"
+    },
+    {
+      "title": "Why Does Pitching Integrators Feel Like a One-Way Street?",
+      "url": "https://deploy95.substack.com/p/why-does-pitching-integrators-feel",
+      "hn_url": "https://news.ycombinator.com/item?id=50478476",
+      "author": "dddddaviddddd",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-11-13T04:48:54Z",
+      "object_id": "50478476",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "deploy95.substack.com"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-12T23:58:47.294676+00:00"
+  "fetched_at": "2026-11-13T06:23:32.423045+00:00"
 }

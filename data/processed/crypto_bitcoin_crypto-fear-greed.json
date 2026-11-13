@@ -1,13 +1,8 @@
 {
-  "current_value": 28,
-  "current_classification": "Fear",
-  "current_timestamp": 1794441600,
+  "current_value": 20,
+  "current_classification": "Extreme Fear",
+  "current_timestamp": 1794528000,
   "historical": [
-    {
-      "value": 24,
-      "timestamp": 1762905600,
-      "classification": "Extreme Fear"
-    },
     {
       "value": 15,
       "timestamp": 1762992000,
@@ -1832,7 +1827,12 @@
       "value": 28,
       "timestamp": 1794441600,
       "classification": "Fear"
+    },
+    {
+      "value": 20,
+      "timestamp": 1794528000,
+      "classification": "Extreme Fear"
     }
   ],
-  "fetched_at": "2026-11-12T18:42:54.723089+00:00"
+  "fetched_at": "2026-11-13T06:23:27.661315+00:00"
 }
