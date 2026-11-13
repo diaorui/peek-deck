@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-13T06:23:57.826871+00:00'
+updated: '2026-11-13T14:48:49.422640+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 13, 2026 at 06:23 UTC  
+**Last Updated:** November 13, 2026 at 14:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D
 
-7d ago
+8d ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello everyone, I’m new to the group. I’ve been interested in robotics from 
 
 I just finished testing the legs, i had to swap the modules i used to control the actuators because they were too weak. The test went smoothly, no burning just a little code adjustments and the legs move as they should. Next step it to figure out the necessary movements for it to walk.
 
-8d ago
+9d ago
 
 ---
 
@@ -138,27 +138,19 @@ The New York Times • 1d ago
 
 ---
 
+**[Manufacturing’s Next Phase: From AI Pilots to Autonomous Decisions on the Factory Floor](https://www.roboticstomorrow.com/story/2026/11/manufacturings-next-phase-from-ai-pilots-to-autonomous-decisions-on-the-factory-floor/27356/)**
+
+Manufacturers that scale successfully tend to begin with one line that has measurable scrap or changeover pain, build clean and time stamped machine data before adding models, and decide in advance what each system may adjust on its own and who owns the outcome.
+
+Robotics Tomorrow • 1h ago
+
+---
+
 **[Meet the founder betting Washington can help him build America's robotics giant](https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11)**
 
 Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US — and he's looking to Washington for help.
 
-Business Insider • 20h ago
-
----
-
-**[2 AI Robotics Stocks That Could Help Set You Up for Life](https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/)**
-
-While AI models and chips take center stage, the AI robotics boom is silently building.
-
-The Motley Fool • 18h ago
-
----
-
-**[Japan's AI robots are preparing for life on the Moon](https://www.bbc.com/reel/video/p0pkc1mt/watch)**
-
-Japanese researchers are teaching AI-powered robots to navigate the Moon and build infrastructure for the future.
-
-BBC • 20h ago
+Business Insider • 1d ago
 
 ---
 
@@ -166,7 +158,15 @@ BBC • 20h ago
 
 The unusual pairing highlights how robotics technology is becoming a more visible part of everyday life in the Bay Area.
 
-USA Today • 11h ago
+USA Today • 19h ago
+
+---
+
+**[Ring announces Ring Robotics, ushering in a new era of security](https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot)**
+
+Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it.
+
+About Amazon • 3d ago
 
 ---
 
@@ -174,7 +174,7 @@ USA Today • 11h ago
 
 Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People’s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing’s military robotics ambitions.
 
-CSET | Center for Security and Emerging Technology • 1d ago
+CSET | Center for Security and Emerging Technology • 2d ago
 
 ---
 
@@ -182,15 +182,15 @@ CSET | Center for Security and Emerging Technology • 1d ago
 
 Third-quarter industry data and moves by Walmart, Amazon and D.R. Horton prompt our move.
 
-RealMoney Pro • 12h ago
+RealMoney Pro • 21h ago
 
 ---
 
-**[Robotic technology helping to detect and treat lung cancer earlier, saving lives](https://wset.com/news/local/robotic-technology-helping-to-detect-and-treat-lung-cancer-earlier-saving-lives)**
+**[DeepX plans $100 million-plus AI chip with Samsung 2nm process](https://qz.com/deepx-samsung-ai-chip-robots-100-million-111326)**
 
-Relatively new technology is helping Lynchburg doctors to detect, treat and cure lung cancer and earlier stages leading to more positive outcomes for patients.
+The South Korean startup sent final DX-M2 designs to Samsung's foundry and expects first silicon by March 2027
 
-WSET • 6h ago
+Quartz • 1h ago
 
 ---
 
@@ -198,13 +198,33 @@ WSET • 6h ago
 
 ## YouTube Videos: "robotics"
 
+**[Tesla&#39;s Robot School Is Real: 20,000 Robots Teach Themselves](https://www.youtube.com/watch?v=-YQc4rveiSk)**
+
+Tesla plans an Optimus Academy with between 10000 and 20000 robots practicing tasks all day. I see it as Tesla's answer to the ...
+
+📺 The Electric Viking
+
+👁️ 8K • 👍 193 • 💬 42 • ⏱️ 4:25 • 9h ago
+
+---
+
 **[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
 
 Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
 
 📺 Imagination in Action
 
-👁️ 14K • 👍 122 • 💬 22 • ⏱️ 37:09 • 2d ago
+👁️ 14K • 👍 125 • 💬 22 • ⏱️ 37:09 • 2d ago
+
+---
+
+**[🔴 Live: Pacman Universe 3D Robotic Animation Compilation | Futuristic Mechanical CGI Showcase](https://www.youtube.com/watch?v=YdjZG-YDOTM)**
+
+Experience Pacman Universe like never before with this live 3D robotic animation compilation—featuring futuristic mechanical ...
+
+📺 StrEat
+
+👁️ 2K • 👍 7 • 32m ago
 
 ---
 
@@ -214,37 +234,17 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 201K • 👍 3K • 💬 134 • ⏱️ 8:25 • 3d ago
+👁️ 207K • 👍 3K • 💬 139 • ⏱️ 8:25 • 3d ago
 
 ---
 
-**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
+**[I&#39;ve Tested Beni the Robot From the Beginning… Here&#39;s My Final Verdict!](https://www.youtube.com/watch?v=hfSRypjm2Vk)**
 
-China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
+Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities, can travel on ...
 
-📺 The AI Nexus
+📺 51 Drones
 
-👁️ 40K • 👍 456 • 💬 61 • ⏱️ 15:41 • 3d ago
-
----
-
-**[Something weird is happening with robots…](https://www.youtube.com/watch?v=9pqzsU425Cg)**
-
-Receive our guide to sourcing in China → https://hubs.li/Q04yx4xz0 Open a business account: ...
-
-📺 Statrys
-
-👁️ 200K • 👍 3K • 💬 456 • ⏱️ 15:13 • 6d ago
-
----
-
-**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
-
-A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
-
-📺 NBC News
-
-👁️ 32K • 👍 93 • 💬 37 • ⏱️ 1:56 • 2d ago
+👁️ 10K • 👍 279 • 💬 89 • ⏱️ 16:04 • 2d ago
 
 ---
 
@@ -258,43 +258,43 @@ https://caseygrothaus.com/projects/ai-desk-robot-v2 #hardware #engineering #robo
 
 ---
 
-**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
+**[Robot tells Al Jazeera AI is ‘too useful to disappear’ | AJ #shorts](https://www.youtube.com/watch?v=FPr9mJbq2T8)**
 
-What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
+Massive investments in AI have driven the dominance of tech companies in US stock markets, but experts warn valuations may be ...
 
-📺 Dorian Todd
+📺 Al Jazeera English
 
-👁️ 56K • 👍 1K • 💬 54 • ⏱️ 14:42 • 4d ago
-
----
-
-**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
-
-Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
-
-📺 Nexio Core
-
-👁️ 53K • 💬 13 • ⏱️ 0:06 • 3d ago
+👁️ 24K • 👍 509 • 💬 38 • ⏱️ 0:49 • 1d ago
 
 ---
 
-**[Forget the Hype! China&#39;s Robots Are Already Working!](https://www.youtube.com/watch?v=69slpmQhg8E)**
+**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
 
-China's robot revolution isn't something that's coming in the future — it's already happening! Here in Shenzhen, robots are ...
+China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
 
-📺 Barrett
+📺 The AI Nexus
 
-👁️ 70K • 👍 244 • 💬 20 • ⏱️ 13:20 • 5d ago
+👁️ 41K • 👍 460 • 💬 63 • ⏱️ 15:41 • 3d ago
 
 ---
 
-**[Xiaomi Humanoid Robots Just Worked an 8 Hour Shift at a Car Factory](https://www.youtube.com/watch?v=RgJhL6_f1mE)**
+**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
 
-Xiaomi humanoid robots have completed their first reported 8-hour shift at an electric car factory. The 2 robots were tested on ...
+A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
 
-📺 DPCcars
+📺 NBC News
 
-👁️ 24K • 👍 139 • 💬 33 • ⏱️ 5:46 • 4d ago
+👁️ 33K • 👍 93 • 💬 37 • ⏱️ 1:56 • 2d ago
+
+---
+
+**[Beni the Following Camera Robot is Back ... and Better Than Ever!](https://www.youtube.com/watch?v=eMXvWO1FxSk)**
+
+After an extremely successful kickstarter Beni is officially being launched globally today. Beni is an auto following camera robot ...
+
+📺 Air Photography
+
+👁️ 11K • 👍 197 • 💬 23 • ⏱️ 7:23 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-13T06:23:57.817396+00:00'
+updated: '2026-11-13T14:48:49.416561+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 13, 2026 at 06:23 UTC  
+**Last Updated:** November 13, 2026 at 14:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,295.08
+### $69,000.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -6.8%  
-**7d:** -9.5%  
-**30d:** -16.5%  
-**90d:** +9.2%  
-**1y:** -27.5%  
+**24h:** -3.6%  
+**7d:** -8.9%  
+**30d:** -16.0%  
+**90d:** +9.9%  
+**1y:** -27.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1376.50B
+**Market Cap:** $1388.87B
 Rank #1
 
-**Circulating Supply:** 20,111,231 BTC
+**Circulating Supply:** 20,111,456 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-45.2%
 
 **All-Time Low:** $67.81
-+100827.6%
++101767.0%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[∞/21M](https://www.reddit.com/r/Bitcoin/comments/1xrtawq/21m/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -105,7 +105,7 @@ The miner heats water to 60°C for the radiators and underfloor heating in a 180
 
 **[Same](https://www.reddit.com/r/Bitcoin/comments/1xrl6pk/same/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -129,7 +129,7 @@ The LNbits project issued an emergency warning instructing operators to shut dow
 
 The world is on fire, and we're all still at the table yelling at a chart at 3 AM. So let's hear it. No "we're so early," no shilling, just the one move that still haunts you.
 
-3d ago
+4d ago
 
 ---
 
@@ -153,85 +153,77 @@ Prepare for what's coming. Put in the work to understand bitcoin.
 
 ## Google News: "bitcoin"
 
+**[Bitcoin sinks below 70k, set for deep weekly loss as crypto appetite sours](https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-70k-crypto-043421543.html)**
+
+Investing.com-- Bitcoin tumbled to a near three-month low on Friday as growing bets on more interest rate hikes and concerns over Strategy’s removal from MSCI indexes dented appetite for cryptocurrencies.
+
+Yahoo Finance • 10h ago
+
+---
+
 **[Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)**
 
-WSJ • 20h ago
-
----
-
-**[Index Provider MSCI Removes Strategy From Equity Benchmark](https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark)**
-
-Bloomberg.com • 9h ago
-
----
-
-**[Strategy Sinks As MSCI Axes Bitcoin Whale; Is Nasdaq 100 Next?](https://www.investors.com/news/mstr-stock-bitcoin-price-msci-index-exclusion-nasdaq-100/)**
-
-MSTR stock slid and the bitcoin price underperformed gold after MSCI decided to boot Strategy and crypto holding companies from its indexes.
-
-Investor's Business Daily • 15h ago
-
----
-
-**[BTC news: Prices slip below $70K, triggering $1.2 billion in liquidations](https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace)**
-
-CoinDesk • 2h ago
+WSJ • 3h ago
 
 ---
 
 **['Fast Money' traders discuss if a bitcoin rebound is on the horizon](https://www.cnbc.com/video/2026/11/12/fast-money-traders-discuss-if-a-bitcoin-rebound-is-on-the-horizon.html)**
 
-CNBC • 7h ago
+CNBC • 15h ago
 
 ---
 
-**[Bitcoin Retreats as Nvidia Turmoil Weighs on Risk Appetite](https://www.bloomberg.com/news/articles/2026-11-12/bitcoin-retreats-as-nvidia-turmoil-weighs-on-risk-appetite)**
+**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/)**
 
-Bloomberg.com • 9h ago
-
----
-
-**[Bitcoin Fell to $71,800 After Nvidia CEO Jensen Huang Resigned. Is That Why BTC Hit Its Lowest Price Since August?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-fell-71-800-nvidia-162911727.html)**
-
-Bitcoin was already sliding for weeks when NVIDIA's CEO walked out the door. Between ETF outflows, shrinking stablecoin supply, and a surprising miner link to AI, the real culprit may be hiding in plain sight.
-
-Yahoo Finance • 13h ago
+BeInCrypto • 1h ago
 
 ---
 
-**[Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge](https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets)**
+**[Bitcoin News | SpaceX–Tesla Merger Talks Would Combine 30,220 Bitcoin Worth $2.1 Billion Under One Roof](https://www.binance.com/en/square/post/387820858420685)**
 
-CoinDesk • 13h ago
-
----
-
-**[Current price of Bitcoin for November 12, 2026](https://fortune.com/article/price-of-bitcoin-11-12-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 18h ago
+Binance • 2h ago
 
 ---
 
-**[Bitcoin plunges below $70,000 as liquidations reach $622M](https://www.tradingview.com/news/cryptobriefing:998c289d5094b:0-bitcoin-plunges-below-70-000-as-liquidations-reach-622m/)**
+**[AM Markets Need to Know: Anthropic IPO demand surges, Bitcoin slides, and more (SP500:)](https://seekingalpha.com/news/4672226-am-markets-need-to-know-anthropic-ipo-demand-surges-bitcoin-slides-and-more)**
 
-Bitcoin slipped under $70,000, and the traders who borrowed to bet on it going higher paid for it. Crypto liquidations hit $622 million in a span of just four hours.The drop sent Bitcoin to an intraday low of $68,943 on November 13, 2026. It later steadied around $69,297, leaving it down 6% over 24…
+Anthropic’s planned $64.4B IPO reportedly draws 6x available-share orders; Michael Burry adds Nasdaq puts as Bitcoin falls to about $69,000.
 
-TradingView • 2h ago
+Seeking Alpha • 3h ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend losses as downside momentum dominates](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-losses-as-downside-momentum-dominates-202611130342)**
+
+FXStreet • 11h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Crack as Trump Says 'We Don't Need a Deal With Iran': Analyst Warns BTC'](https://www.benzinga.com/crypto/cryptocurrency/26/11/63228629/bitcoin-ethereum-xrp-dogecoin-crypto-iran-war-2)**
+
+Benzinga • 12h ago
+
+---
+
+**[Bitcoin risks falling to $62,000 as Fed hike odds climb, risk appetite weakens: Bitget Wallet analyst](https://cryptobriefing.com/crypto-liquidation-event-longs-billions/)**
+
+Crypto liquidation event sees $1.26B in longs wiped as Bitcoin falls below $69,000, leading to massive market shifts and CPI-driven volatility.
+
+Crypto Briefing • 8h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Record $55.7 Million in Outflows as Crypto Market Sell-Off Deepens](https://financefeeds.com/bitcoin-and-ethereum-etfs-record-55-7-million-in-outflows-as-crypto-market-sell-off-deepens/)**
+
+US spot Bitcoin ETFs shed $47.7M and Ether funds $8M on November 12 in preliminary data, with BlackRock and Fidelity yet to report; Solana took in $1.7M.
+
+FinanceFeeds • 4h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Show HN: Free real-time order book heatmap for Bitcoin, gold and US 500](https://news.ycombinator.com/item?id=50390550)**
-
-The live Bitcoin, gold, Ethereum and more order book as a heatmap, with candlesticks, a footprint chart and every trade as a bubble. Free, no sign-up.
-
-⬆️ 3 • 💬 0 • 6d ago • [Swiftedge](https://swiftedge.uk/depth)
-
----
 
 **[Bitcoin++ privacy hackathon winner: BlackIce, distributed frost silent payments](https://news.ycombinator.com/item?id=50393263)**
 
@@ -271,15 +263,7 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 **[Strategy to Be Dropped from MSCI Indexes After New Eligibility Rules](https://news.ycombinator.com/item?id=50469437)**
 
-⬆️ 1 • 💬 0 • 14h ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
-
----
-
-**[Web-based tools in one place](https://news.ycombinator.com/item?id=50451750)**
-
-The one tool for it all. Image, Video, Audio & Code Tools and others. Convert (JPG to PNG, PDF to JPG, SVG to PNG, WEBP to JPG) | Compress image | Combine PDF | Clean metadata | Create a signature | Convert Audio | Create GIF | Code snippet tool
-
-⬆️ 2 • 💬 3 • 1d ago • [BC Tools](https://bitcrunching.com/)
+⬆️ 1 • 💬 0 • 22h ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
 
 ---
 
@@ -287,13 +271,13 @@ The one tool for it all. Image, Video, Audio & Code Tools and others. Convert (J
 
 Fusee is an open-source durable execution engine for Rust, TypeScript, Python, Go and Java. Workflows are ordinary async code, and each step costs about one disk write.
 
-⬆️ 1 • 💬 0 • 8h ago • [The Bits Infrastructure Company](https://www.bitsinfra.com/fusee)
+⬆️ 1 • 💬 0 • 17h ago • [The Bits Infrastructure Company](https://www.bitsinfra.com/fusee)
 
 ---
 
 **[Why Does Pitching Integrators Feel Like a One-Way Street?](https://news.ycombinator.com/item?id=50478476)**
 
-⬆️ 2 • 💬 0 • 1h ago • [deploy95.substack.com](https://deploy95.substack.com/p/why-does-pitching-integrators-feel)
+⬆️ 2 • 💬 0 • 9h ago • [deploy95.substack.com](https://deploy95.substack.com/p/why-does-pitching-integrators-feel)
 
 ---
 
@@ -307,17 +291,27 @@ Welcome back to the channel! ➡️ Trade on BTCC & 10% deposit bonus: https://a
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 231 • 💬 61 • ⏱️ 10:29 • 2h ago
+👁️ 19K • 👍 495 • 💬 126 • ⏱️ 10:29 • 11h ago
 
 ---
 
-**[Emergency Alert. CRYPTO Crashes HARD! &quot;$1.3 Billion Wiped Out!&quot;](https://www.youtube.com/watch?v=SIOFKGwai8s)**
+**[BITCOIN TO $60K... YES OR NO?!](https://www.youtube.com/watch?v=EII_-PaTcRk)**
 
-This Bitcoin crash is the dip I've been warning about since September, and 49 days later BTC is finally testing the higher-low ...
+APPLY TO JOIN MY COMMUNITY. We take a limited number of new members each month.
 
-📺 Crypto Capital Venture
+📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 4K • 👍 341 • 💬 43 • ⏱️ 43:38 • 1h ago
+👁️ 3K • 👍 451 • 💬 101 • ⏱️ 16:24 • 2h ago
+
+---
+
+**[Bitcoin Has Bottomed, Time To Start Buying Crypto!](https://www.youtube.com/watch?v=-S-CuMfcMcg)**
+
+Bitcoin has fallen to $68K, and the crypto market is showing signs of deep capitulation as liquidations accelerate and Extreme ...
+
+📺 Crypto Banter
+
+👁️ 2K • 👍 141 • 2h ago
 
 ---
 
@@ -327,47 +321,27 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 128K • 👍 6K • 💬 437 • ⏱️ 13:26 • 11h ago
+👁️ 178K • 👍 8K • 💬 514 • ⏱️ 13:26 • 19h ago
 
 ---
 
-**[NVIDIA CEO RESIGNS?! Bitcoin Sinks As $14B In Stablecoins Vanish](https://www.youtube.com/watch?v=oPq2AxVzdWM)**
+**[BITCOIN: THIS IS VERY BAD !!!](https://www.youtube.com/watch?v=N7ktU0RYa8U)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play FPS Frontline ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Up to ...
 
-📺 CryptosRus Extra
+📺 The Moon Show
 
-👁️ 4K • 👍 130 • 💬 73 • ⏱️ 8:09 • 5h ago
-
----
-
-**[Peter Schiff on the Bitcoin Crash: &quot;Get the Hell Out&quot;](https://www.youtube.com/watch?v=8HRAH-P7I4g)**
-
-Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before ...
-
-📺 Bitcoin Magazine
-
-👁️ 6K • 👍 50 • 💬 41 • ⏱️ 20:10 • 10h ago
+👁️ 6K • 👍 422 • 💬 23 • ⏱️ 8:52 • 3h ago
 
 ---
 
-**[🚨BITCOIN IS CRASHING- EMERGENCY STREAM](https://www.youtube.com/watch?v=gJ3zE8vxaWw)**
+**[BITCOIN CRASHED... this is why](https://www.youtube.com/watch?v=1d0uqgnkWdg)**
 
-Bitcoin is below 70k. What now?!?! Get 20% deposit bonus with BTCC ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-8?vipCode=00dt&qrType=activity Instant VIP6 (44% fee ...
 
-📺 Sin City Crypto
+📺 Crypto Rover
 
-👁️ 5K • 👍 229 • ⏱️ 2:16:51 • 22m ago
-
----
-
-**[BITCOIN - WE NEED TO TALK](https://www.youtube.com/watch?v=fCa2_o8GNT0)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 9K • 👍 264 • 💬 32 • ⏱️ 10:18 • 9h ago
+👁️ 13K • 👍 674 • 💬 87 • ⏱️ 10:00 • 5h ago
 
 ---
 
@@ -377,7 +351,7 @@ The Investor Accelerator Membership HUGE BLACK FRIDAY SALE → https://tiainvest
 
 📺 Jason Pizzino
 
-👁️ 8K • 👍 378 • 💬 54 • ⏱️ 25:43 • 3h ago
+👁️ 29K • 👍 730 • 💬 94 • ⏱️ 25:43 • 12h ago
 
 ---
 
@@ -387,17 +361,27 @@ Bitcoin is up just 6% in five years from its $69000 peak, and Rustin explains wh
 
 📺 Simply Bitcoin
 
-👁️ 45K • 👍 2K • 💬 133 • ⏱️ 12:04 • 1d ago
+👁️ 46K • 👍 2K • 💬 136 • ⏱️ 12:04 • 1d ago
 
 ---
 
-**[Bitcoin Breaking Down! Fibonacci Support Levels for BTC, ETH, SOL, and HYPE](https://www.youtube.com/watch?v=0lbcy9GhswA)**
+**[Bitcoin Bottom Is NOT In! [Don&#39;t Trust This Pump]](https://www.youtube.com/watch?v=2F4fK-P0Q08)**
 
-Bitcoin is losing a key support level, and crypto is getting oversold. Pro Trader Drew Dosek uses Fibonacci retracements, parallel ...
+The market's been violent, crypto dumping hard. Dylan's back with Pimp My PNL, hitting those key altcoin support levels. Is this a ...
 
-📺 Verified Investing
+📺 Chart Hackers
 
-👁️ 11K • 👍 265 • 💬 6 • ⏱️ 9:21 • 9h ago
+👁️ 897 • 👍 143 • 1h ago
+
+---
+
+**[Peter Schiff on the Bitcoin Crash: &quot;Get the Hell Out&quot;](https://www.youtube.com/watch?v=8HRAH-P7I4g)**
+
+Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before ...
+
+📺 Bitcoin Magazine
+
+👁️ 10K • 👍 64 • 💬 52 • ⏱️ 20:10 • 18h ago
 
 ---
 
