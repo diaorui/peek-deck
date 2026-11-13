@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
+      "pub_date": 1794589500.0,
+      "article_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
+      "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
+    },
+    {
       "headline": "Gemini Robotics 2.5: Accelerating Physical Intelligence",
       "source": "Google DeepMind",
       "source_url": "https://deepmind.google",
@@ -15,14 +25,14 @@
       "description": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments."
     },
     {
-      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bkx4MS1XeDlTd2Q2UHktLVBvX3YtSkJYMkVxa2l0TTMtTld3ZWp0d29udm1SckdEZi1wNnhqb0hJZldURzFyVUxxV1F0S2dJS3NNZWFvRWtRZ0F2Ym5taXFlUVVPM1FBTGFPV1V4Z0ZELUZfOTE5TEZxaw?oc=5",
-      "pub_date": 1794426900.0,
-      "article_url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
-      "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
+      "headline": "Nvidia's supply chain investments include autonomous trucking and industrial robotics",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlc0SnY2WDQyaWxBWnV3ZjhDZWd4UXdKVWRGUXYxSkdGWHB3V2FvRi04ZXp4VEM3MU5zM2FGc3UxVTFNR2ZocGczM2x3U09GV0pwNTJlTXVJb3piak54azJld1l4akVPbktSNjhQSGRqRmJ1R3lDOEw1NktwdlljbjdtcjZSemFZQTd2X0Rfa1h0aS1zVnNLRUJiREVDZzJ2VkZrQ1NIM0dKcXZ0OG14QlFUeTNsQQ?oc=5",
+      "pub_date": 1794603298.0,
+      "article_url": "https://www.axios.com/pro/supply-chain-deals/2026/11/13/nvidia-supply-chain-autonomous-trucking-industrial-robotics",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
@@ -35,44 +45,44 @@
       "description": null
     },
     {
-      "headline": "Manufacturing\u2019s Next Phase: From AI Pilots to Autonomous Decisions on the Factory Floor",
-      "source": "Robotics Tomorrow",
-      "source_url": "https://www.roboticstomorrow.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1lrVzNXVkxnRUYxM3pObFFOZGJJUGgxV2ZqTk5ZV05qeHdXYXFUc0pJMzdPc0dfTXJHZEdqRW5vX3o3SzJFT0RlbUZCRThGYW1UMW0tWEJJRUduaGJMaV9sY3RGUzR4TXRjOHdEeU9SbWR3X09ELUZSa3EwdkRjQmYza0RTLWp6RDZtakJwQWxTOWd4d0loQUZ4Y0NWN1NyLW5DdjhhY3NlcEtvdVdwdVhkNFFHYmpHX0x4bmVfT0o0UTRYZ0tVWjJNNlBZUlVMbFRrMGl3?oc=5",
-      "pub_date": 1794577325.0,
-      "article_url": "https://www.roboticstomorrow.com/story/2026/11/manufacturings-next-phase-from-ai-pilots-to-autonomous-decisions-on-the-factory-floor/27356/",
-      "image": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
-      "description": "Manufacturers that scale successfully tend to begin with one line that has measurable scrap or changeover pain, build clean and time stamped machine data before adding models, and decide in advance what each system may adjust on its own and who owns the outcome."
+      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bkx4MS1XeDlTd2Q2UHktLVBvX3YtSkJYMkVxa2l0TTMtTld3ZWp0d29udm1SckdEZi1wNnhqb0hJZldURzFyVUxxV1F0S2dJS3NNZWFvRWtRZ0F2Ym5taXFlUVVPM1FBTGFPV1V4Z0ZELUZfOTE5TEZxaw?oc=5",
+      "pub_date": 1794426900.0,
+      "article_url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+      "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
     },
     {
-      "headline": "Meet the founder betting Washington can help him build America's robotics giant",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1A2eE5YSkdBb216NnVjcF9MWnQ5ZHQxSTNiNmpHYlZqRU9tWkI1d0VqZWtlMVpwc1ByOVhyS2EtTEFZNzU2SHN1WVV0dWRVeFlFeFJrOEJSQjh4SHNXa2p5N012NnVCLW4yZUtOdWNOdHhrQXZpNHBQdHk1a21xb21aRjhrbm5DUkRyVkxwbTBzcmFVVlJMZ3RwaXNuTms0MUU0WQ?oc=5",
-      "pub_date": 1794477600.0,
-      "article_url": "https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11",
-      "image": "https://i.insider.com/6af38c88a96052a81c349b1b?width=1200&format=jpeg",
-      "description": "Standard Bots CEO Evan Beard wants to build the world's largest robot manufacturer in the US \u2014 and he's looking to Washington for help."
+      "headline": "3 Robotics Stocks To Own In November 2026",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZW5VV2ZWbVVlaF9NOUxNQ1RfNURSZm1RWnNlc3N2V2RQQi1BTlE3VEM2ejM0OFRoNlprM2RZNG1OR25fT0wxRUFwQXF0STlUWGMyVUZsaFVpT3pkLWZWSV9QOWRmblFfSVEtX0FJWVB0WE1TSXVRVXY2VzRKN3VqUnhMejdxNjEwZ25NUnI0TUhXSjZxVXpnd0dWQQ?oc=5",
+      "pub_date": 1794525853.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/3-robotics-stocks-own-november-232413810.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c82edf4e44f755b236a92ed8c3c8c9d6aacf2473271be79de0cb78de3521d5a4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fd8667990be0f7a973b8be81c8989089e.jpg",
+      "description": "The sudden 10% drop in Nvidia after Jensen Huang\u2019s resignation has shaken confidence in pure software and AI chip stories, pushing attention toward companies that put robotics into real world factories, warehouses, and infrastructure. That shift in focus creates urgency for investors who do not want physical automation to rerate without them. This article walks through three leading robotics and automation stocks from our screener and what sets each one apart. These three robotics and..."
     },
     {
-      "headline": "Robot dog spotted taking real dog on a stroll in San Francisco",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcHBsUFhvc0xhYlFKNUV2aUt3dmZ1djJCYkwxWWZQUE1MMmZuOF9tS2xSeDlmdVdRZTF2Rl9fcGlQY1k3R3R5UnNtSzB6clRhWGhlNFlQU0dXVWJyTFhKeDBGUGoxSkttUWNGSWZsbUlYM21yX0hjUU1tUk5SMlVfZHcyb0RxZFdzdlYzdG5Zd1FCaDQ0MUVqVEZIZl80d0plQmY1cFREUktkVXJrZ0dpUF9kWDl0bGViTTllcGdBWnY0NWMxWkZYbkkxdFJQc1pXcXNUa0F3?oc=5",
-      "pub_date": 1794509520.0,
-      "article_url": "https://www.usatoday.com/story/news/state/california/2026/11/12/robot-dog-spotted-taking-real-dog-on-a-stroll-in-san-francisco/92743564007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/12/USAT/92744141007-robot-dog-promo-article.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
-      "description": "The unusual pairing highlights how robotics technology is becoming a more visible part of everyday life in the Bay Area."
+      "headline": "Eric Trump-partnered Robotics CEO addresses 'Terminator' fears as he sends combat humanoids into warzones",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQenhjWkZONTI4TVZzcFNUUWZrT3JhYW42WlpqNVdaaFFHXzBRSFJwRm9aY3dySUxic0ZEb04xQkdHM0xDVlVpZUIzemFTR0RBaHlhNnNEMVloSmswNW1Zb3FDMU1yVE1uM2pGN2FENmYwalZNVTE3Ny1nT0tWa0FPM2VYbi02eG5kSnB3Yk04NnJZQUM2S0lyNkJ6MkwwRHEtWnVYMGFOV3dtd0xvUmVQQlN6SnFaQmRiVld4WnFR0gHDAUFVX3lxTE02LVZCUGZoM0Iwb3JwT2Z3Z2hsek9CckxYdG5ONkFjeFAzR0ZIM3Rac2hSaUNPcl9LZ1Ryd3lYTlY2N0JtNU82X20xbDZUTGNxZTB1NG5ZaVZWUnYxSGdJYTROZDluRy1MeXM4TlF1NE52OGhrUVJsRzJnTXp6dW5GSDBJVDNIbmU5QV9Vd3ZLNjJMc1JtMnpvc3p0TzZWMXlRa296R0owaUVBb3hXT2JrSTdzX3NiSTF3cUZEN2RfaF95UQ?oc=5",
+      "pub_date": 1794597604.0,
+      "article_url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg",
+      "description": "Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone."
     },
     {
-      "headline": "Ring announces Ring Robotics, ushering in a new era of security",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
-      "pub_date": 1794317162.0,
-      "article_url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
-      "image": "https://assets.aboutamazon.com/dims4/default/b73122b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F07%2Fc1%2F82d8a1204627a837d203c57dd918%2Fring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
-      "description": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it."
+      "headline": "Here\u2019s What a $1,000 Investment in Kraken Robotics Will Be Worth by the End of 2027 if Undersea Drone Orders Keep Doubling",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbFZ1My1lTmpwQ3ZqbDc2LUNqaUVZYkZwbmJEZlVPZEhCanlEa1QyX1FrWHhxYUl0bC14VzZCbks1cV9uVVhxUUk5SlF3bkt1VnowYmhiYlZyazFJeEpfcDRkSXdycDNmN1hjallDUkJsNXVnU1hRbzhVQ2Jsb0pLYy1EemptaHZwMjdNZFFJTE16c2xJOGVPZld5UGVHakdqSmQxZjc4LVlxSjR2M2xZWDl4N3BxNVM0NGVFLUNmcDlNT3ZiaHlMRW9JOU03cjNLRGoxelVHamRTblpaMFRMMG9FSnlQcUZVWGhoNWlpNHdOQ1JsQnE1blNOcw?oc=5",
+      "pub_date": 1794551580.0,
+      "article_url": "https://www.fool.com/investing/2026/11/13/here-s-what-a-usd1-000-investment-in-kraken-robotics-will-be-worth-by-the-end-of-2027-if-undersea-drone-orders-keep-doubling/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc106e8399a1cb97a190d0312f33d406fba1ccf55-1280x853.png&w=1200&op=resize",
+      "description": "The future of defense is autonomous, and Kraken Robotics is helping fill this demand."
     },
     {
       "headline": "The PLA\u2019s Push for Military Robotics",
@@ -85,26 +95,16 @@
       "description": "Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People\u2019s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing\u2019s military robotics ambitions."
     },
     {
-      "headline": "We\u2019re Adding to Our Robotics Holding",
-      "source": "RealMoney Pro",
-      "source_url": "https://pro.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jQTByS0d3ZWJZMkJIa09qdlpwTl9KcGdBVWF6dFAzLW5sMVlGNGlPdlpxTDFkZEZ5V1g1VEMzTUZhMWdMU0ptTXA4WjJweG1EU1YySzFSVVdyTEdFT3dDYlM5aTlCMk5OMGNxN0J6WlNsXzF6ZXFpeHdDSQ?oc=5",
-      "pub_date": 1794505020.0,
-      "article_url": "https://pro.thestreet.com/portfolio/were-adding-to-our-robotics-holding",
-      "image": "https://wp.thestreetpro.com/wp-content/uploads/2026/06/6-2-26-buy-stock.jpg",
-      "description": "Third-quarter industry data and moves by Walmart, Amazon and D.R. Horton prompt our move."
-    },
-    {
-      "headline": "DeepX plans $100 million-plus AI chip with Samsung 2nm process",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13YmxzUENTYVBFVVdLZ3N6TklBUUVEaHpoZ2NpRDZxLXpvaGxrXzB4VHZRRnhDZmlZbjlraTE4eGJMQTJOZTNZVzZRb0xJd2wzaU9fTVVlRGZ6N1FrOTdneHpDa0FvRkI3akt5cVV5dw?oc=5",
-      "pub_date": 1794576816.0,
-      "article_url": "https://qz.com/deepx-samsung-ai-chip-robots-100-million-111326",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/deepx_corp_logo-300x300.jpg",
-      "description": "The South Korean startup sent final DX-M2 designs to Samsung's foundry and expects first silicon by March 2027"
+      "headline": "How Do I Teach My Daughter That Robots Are Not Her Friends?",
+      "source": "The Cut",
+      "source_url": "https://www.thecut.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqcTNQai1CTTljcnlvYmV4X01TNWNZY1dFZllnYzcxYVlicDlOdHBIYnlKbXhxbVRjR1JBVDZ2QmhhMGtheDZBR0gzN0JvNmIyOEZHSDJMZ0k0OWlRdVpFYVp2RGlqU1NlZE1aY0tIQ1o2cXYtUmxNSTJUTHA?oc=5",
+      "pub_date": 1794571225.0,
+      "article_url": "https://www.thecut.com/article/teaching-daughter-robots-not-friends.html",
+      "image": "https://pyxis.nymag.com/v1/imgs/4c6/daa/89f8a02997b55644239d4e9dd8b0901eb5-less-nice-to-ai.1x.rsocial.w1200.gif",
+      "description": "She treats chatbots and humanoid machines with so much kindness. I\u2019m trying to make her stop."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-13T14:48:40.074609+00:00"
+  "fetched_at": "2026-11-13T21:13:48.889475+00:00"
 }

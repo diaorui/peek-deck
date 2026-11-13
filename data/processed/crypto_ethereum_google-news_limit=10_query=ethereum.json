@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "What Will Bitcoin and Ethereum Be Worth in 5 Years?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGl5QTZSV2hLYTJtZTc1b1ZMRU5oMktueloyaXQ1N2I2Nk80eHEwUzlfSExwemNsRDc2cXduenplM0RUaHFOU2ZQQXZ3VGQxMzBBaWp1VHhNZlUzOVJlUTZxRFYyRGhjanlHcnhMVTN0ZGZiTmltR19KSFdoUFlnaks0aWs2c1E5VGxoLV9BaTNBUnRSOW1yaUhTYzlOcFlySDdFRDVUbURWTkxXNXc?oc=5",
+      "pub_date": 1794418440.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/11/what-will-bitcoin-and-ethereum-be-worth-in-5-years/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/10/shutterstock-2116841900-medium-licensed.jpg",
+      "description": "Forecasts put Bitcoin at $166,000 to $1.2 million by 2030 or 2031. Here's what Bitcoin and Ethereum could be worth in 5 years."
+    },
+    {
       "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,14 +35,14 @@
       "description": null
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Crack as Trump Says 'We Don't Need a Deal With Iran': Analyst Warns BTC's Correction Could Deepen",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOE1ab0x3eEp6dXlRdGpUUFktMEJYdkd3RlFEbWJ1Njh2MUp5cG1RWWRJaV8yamxsUVZTRGNjR1JTSkI0ckZ4NlpJVmtkbUEwakNvOUMxYTZTTnFxWDRpUmZqQ2NvZnlzOVFENWdVQ0tjMXNoQmdqN3pQaFAzRnltQ1BoWTUxUC1YMEFlZ0VmWVA0eVVkTlYyZ1RmWW4wTzdQQV92emExZTgwR29GS18zVzVkR194cnB4ZnZZeGJrQWxwY01LS3BiRzQ1ZDlKckp0cW5zTy04WmY4V1pqdkJRSGFyakJuZDVZZndBZUlkU1l6VjBOeDM4UG40eFNrc050VGR2WGJCU2NOQl9HN0w4cw?oc=5",
-      "pub_date": 1794534600.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:2ee55bd2d094b:0-bitcoin-ethereum-xrp-dogecoin-crack-as-trump-says-we-don-t-need-a-deal-with-iran-analyst-warns-btc-s-correction-could-deepen/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Leading cryptocurrencies plunged deeper on Thursday as investors weighed President Donald Trump\u2019s latest remarks on Iran.Crypto Market TumblesBitcoin fell below $71,000 for the first time in nearly three months, while Ethereum slipped below $2,000 as major cryptocurrencies faced heavy selling press\u2026"
+      "headline": "Most large cryptocurrencies decline on Bitcoin, Ethereum drops",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUdfX29ZdXR3c0hGZGV5WVdPUU5PbUNITHBkUVE1UFdqRm9WWTFQTU44dHotSXZBUEpDZGY5Ukt0N3VXMklYWXc2Mk9pSHhOTzBXVDJHNV9EWjJoeVotZElEY1RJUjd1V1RKZ0lKS3NKSzRfNUJ1bEwxcWtpenhULUhNdnJ6T2pMMGNUa2lkSTh1ZzlFRlE4YnJ6aEFFNTlnM2s3VEZyQ2dWeWNwem56U0xfSGlvekFTZXdFLUJB?oc=5",
+      "pub_date": 1794582000.0,
+      "article_url": "https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decline-on-bitcoin-ethereum-drops-d61b89f0-c3eb49fad404",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge",
@@ -55,6 +65,16 @@
       "description": "Ethereum researchers propose quantum-resistant accounts by 2027, with higher transaction costs until scaling upgrades arrive."
     },
     {
+      "headline": "Current price of Ethereum for November 13, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MRGQyakNqWFl5WXY5RVVpcWlRMm1GbG03cTJLSmpvRk0wcE1RcjI4eHJaajB3WkxwdWt5Mm1OUWdXTDJhMHE0TXFQeWhpTDNOVFVRa19FUk1YUFpuZHl1UVlGN2xILWlC?oc=5",
+      "pub_date": 1794578516.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-13-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-13.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
       "headline": "Foundation Launches Universal Ethereum Signer in Beta, First on Passport Hardware",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -65,6 +85,16 @@
       "description": "BOSTON, Nov.  12, 2026  (GLOBE NEWSWIRE) -- Developed by Ledger cofounder Nicolas Bacca, the app runs on KeyOS, Foundation's open source operating..."
     },
     {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Crack as Trump Says 'We Don't Need a Deal With Iran': Analyst Warns BTC's Correction Could Deepen",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOE1ab0x3eEp6dXlRdGpUUFktMEJYdkd3RlFEbWJ1Njh2MUp5cG1RWWRJaV8yamxsUVZTRGNjR1JTSkI0ckZ4NlpJVmtkbUEwakNvOUMxYTZTTnFxWDRpUmZqQ2NvZnlzOVFENWdVQ0tjMXNoQmdqN3pQaFAzRnltQ1BoWTUxUC1YMEFlZ0VmWVA0eVVkTlYyZ1RmWW4wTzdQQV92emExZTgwR29GS18zVzVkR194cnB4ZnZZeGJrQWxwY01LS3BiRzQ1ZDlKckp0cW5zTy04WmY4V1pqdkJRSGFyakJuZDVZZndBZUlkU1l6VjBOeDM4UG40eFNrc050VGR2WGJCU2NOQl9HN0w4cw?oc=5",
+      "pub_date": 1794534600.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:2ee55bd2d094b:0-bitcoin-ethereum-xrp-dogecoin-crack-as-trump-says-we-don-t-need-a-deal-with-iran-analyst-warns-btc-s-correction-could-deepen/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies plunged deeper on Thursday as investors weighed President Donald Trump\u2019s latest remarks on Iran.Crypto Market TumblesBitcoin fell below $71,000 for the first time in nearly three months, while Ethereum slipped below $2,000 as major cryptocurrencies faced heavy selling press\u2026"
+    },
+    {
       "headline": "This 1 Important Signal Is Now Flashing Red for Ethereum. That's Why I'm Selling ETH Right Now.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -73,38 +103,8 @@
       "article_url": "https://www.fool.com/investing/2026/11/12/this-1-important-signal-is-now-flashing-redgreen-f/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893603%2Fangry-investor-with-smartphone.jpg&w=1200&op=resize",
       "description": "Until Ethereum ETF inflows return, it may be time to look elsewhere for upside."
-    },
-    {
-      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP extend losses as downside momentum dominates",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOczRpek1FN0tvYlN5YWs0YVJaTzJEdmxxcGNhaW8xdklnQXNHWElFNGwyVUVJWFdyMVJyX3ZEQzN6cTRnYzhtelUzbWpXTWlaWTBRTVh2dDNQcm15MFZTd0F0TktSWUYyak45VVZtMy1EV2ZDS1lnSGNlMDZPbUZReDdfdHZPd1dDUkg3YUVJVndobTBzU2l1YVV0WlpsOU9VX3RpdUQzR3RsRnR0Y0E5R2dKU3hQSWhvMTJNZW9yZXRBSEVWa0prTDFzMmpOa1R6QlJmcmhEcWdaYjNmT2ROa2hHZ1hudTlMQm9jS3l4R1ZianliOHhUQnU2Sjk?oc=5",
-      "pub_date": 1794541378.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-losses-as-downside-momentum-dominates-202611130342",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How Ethereum staking hit a record 36.3% despite ETH\u2019s price drop",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjdDSHh0enNwMTg1Yk5td2VpdGNDaEc3b2dJQUNOand0RFp6Ym5mZWlSYVpKbUV6YnRsWnVpSmpWWTltV2hhZVUyNG83QUxoUGxlX2k0RVhKblY3TUh5a3pmQXJ2eUFKUUZEcFVWb2I2Y2pzSktPMHpoSkt4WENSLXJQajd6Y09RUmxITW1R?oc=5",
-      "pub_date": 1794535253.0,
-      "article_url": "https://ambcrypto.com/how-ethereum-staking-hit-a-record-36-3-despite-eths-price-drop/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/11/Ethereums-staking-ratio-has-reached-an-all-time-high-e1794480450121.webp",
-      "description": "More than one-third of Ethereum's circulating supply is now staked."
-    },
-    {
-      "headline": "Crypto Market Sell-Off Deepens: Why Are Bitcoin, Ethereum and Solana Falling?",
-      "source": "Coinpedia",
-      "source_url": "https://coinpedia.org",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlNkN2ItMFJyTmV5cjhCOGFyNnNLal9lelBld25fQ3puMWFYdF92dmxPWkFTMmp5VGQxYVlMYXc3NnBaS29HMUw0MkNEcE8wUVVnVkF6alFPRUNmSFNoZHdvQ2RZWnpZXzZ0TnUwTnRYdDVFR21HbnJNWjdtelJTbTloc2JIS29PcVRrMnNDR1pZUW92XzBVSDNUVmUxXzZZdXB5V1RDVV9vYkhWeXZBLXd30gG3AUFVX3lxTE5pbjFYVVo1RnNqdVZ3Q0J1MC1IbUhhTVllZEtBS2ROUnJGYjJPRHI0ZS02ejA2YkxCbHJqaFNYUlNOWVFnWDNWRGdsVFU4S1NlSHloMzlVcGw5Y0JKSWtRQjBXYVAtMkVHRnZ6bTZOWnBKS1gtTFBVNWpWb3A3NHNOcE13ZWh6eXJBd0Myc0prSmw3bWNtMWQwb2pYVlBBQmpLMEJWell2SklFMEhVcG5GLUNoZVNUQQ?oc=5",
-      "pub_date": 1794426780.0,
-      "article_url": "https://coinpedia.org/price-analysis/crypto-market-sell-off-deepens-why-are-bitcoin-ethereum-and-solana-falling/",
-      "image": "https://image.coinpedia.org/wp-content/uploads/2026/11/12190411/xrp-price-reversal-ahead-whale-buying-accelerates-near-1-dollar-support.jpg",
-      "description": "The cryptocurrency market is struggling to find support as Bitcoin, Ethereum and major altcoins extend their declines. Bitcoin traded near $73,400 on"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-13T14:48:44.464664+00:00"
+  "fetched_at": "2026-11-13T21:13:43.797943+00:00"
 }
