@@ -5,22 +5,22 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Index Provider MSCI Removes Strategy From Equity Benchmark",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZW5DR09LVkg4dkthOHBBckpTQU92UGhvUFNQNTZneVNtV2diNHd6TlEyT1RWMHNKb1pJTWFYU3ZLbERzUkFHS1ZNSkVFYi1lSW1lMmo2MFFteERJNG5Td25UNlBzWDNyaUpsbDZNY1NVcnFnNW5ncVZMMmJaNldfdTNQdHlZZ1Y1bU5TbHF6QVBsWFo2cmtyekZjdWRTNjl1cnNZTlNNR3VlRkJPYWc?oc=5",
-      "pub_date": 1794518401.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Strategy, the World\u2019s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHV1TFRnVmtTRlJ0LWlRcXZKQTQtSWJiMWhGVmpkZ2NmRFNhQ2tKSWdldjZFRk12eUMzc0Vhb3JYRlpjaktiWk9MZTVEanVRdjRETmdLNUtUem5SZjl3VHA2N3BDRkUyQUkwR1hlTzVhQzR1ZEQwT3dOaExSNHN3RmxXczdXNzRMcnVpU195cEFQc3k1eUFmSnQtR3g2bzgtQ1JCUTgwS0RhRUduWmUycHcteEFYUEVKZDNOTkRGYm5xZ3dNOXFpOGtCVQ?oc=5",
       "pub_date": 1794476640.0,
       "article_url": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Index Provider MSCI Removes Strategy From Equity Benchmark",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZW5DR09LVkg4dkthOHBBckpTQU92UGhvUFNQNTZneVNtV2diNHd6TlEyT1RWMHNKb1pJTWFYU3ZLbERzUkFHS1ZNSkVFYi1lSW1lMmo2MFFteERJNG5Td25UNlBzWDNyaUpsbDZNY1NVcnFnNW5ncVZMMmJaNldfdTNQdHlZZ1Y1bU5TbHF6QVBsWFo2cmtyekZjdWRTNjl1cnNZTlNNR3VlRkJPYWc?oc=5",
+      "pub_date": 1794518401.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark",
       "image": null,
       "description": null
     },
@@ -35,12 +35,12 @@
       "description": "MSTR stock slid and the bitcoin price underperformed gold after MSCI decided to boot Strategy and crypto holding companies from its indexes."
     },
     {
-      "headline": "Power Landlords Are Highlighting Bitcoin Mining Roots During AI Rout",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjIzNXgwQ2xiUlpYM3hNZkFtNUloQlJzc1Fpb19ENUtTWHMtVmczdFhZOXdMVkRfM3FrNE5OR3puQ1JFY2c0WlZQczZ6OF9NMkFCcDJhajhuVWRURjR5ZUlYbVpVbHRjUnZGdjRfVHVDc1VReko3VExtUlB4YTdYQ2N2RTRIVzl5dWNzYnZBMGtxZHJMV3NvQ2FXYjdVZTNSTmlzOXQxeVlNUlczSWRENFFxWnB4QWJJZ0lrNm9Kdw?oc=5",
-      "pub_date": 1794520801.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-11-12/power-landlords-are-highlighting-bitcoin-mining-roots-during-ai-rout",
+      "headline": "BTC news: Prices slip below $70K, triggering $1.2 billion in liquidations",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUFvUmV4NkRTR3k0bnVVUjBYQTh5Z1BNX3NsTE1YWE9YUEpRMTJ4TEF5NFJfVmxPaUZQWl9CZEJpNGQtOTRMNmtYRHV0N3NUM2FtOUp1dWNaSV9OSlVYMFRwNld4ZWI4bUV4a251VjdzeUVnTW1EbFBuUndERzNjTWg1cDZ4Y1d1aXFPbzZYUXFoT2NJcnVBcXFXdFo?oc=5",
+      "pub_date": 1794541260.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
       "image": null,
       "description": null
     },
@@ -49,62 +49,62 @@
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakhlNzA2VFpFTk5fOHh5QWNNN2xZT3Z2UVBGcFprRmJGZk5teG8tSDVta0hYREdqNmpEazhMcjhoWDBFMmgzM3dhejFsZHdjRXM3NW1VY2dOekJ1d1duN2hhc3JSMHdydFdELTFjNG1NU0d1ZHR0Z1NVdmhvVW1XQzFtd2RyRlVzLTdCb3ZESXA0RUVQOW93VmlpRVRfUU5idDdXYzJSbkk5anlJ?oc=5",
-      "pub_date": 1794524577.0,
+      "pub_date": 1794524520.0,
       "article_url": "https://www.cnbc.com/video/2026/11/12/fast-money-traders-discuss-if-a-bitcoin-rebound-is-on-the-horizon.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108550661-17945238851794523883-49601035246-1080pnbcnews.jpg?v=1794523884&w=1920&h=1080",
       "description": null
     },
     {
-      "headline": "How Much Does a Bitcoin ATM Charge You to Buy $100 of Bitcoin?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXBaSnBzVG9KS0NWSHpncElXbmtHNlRaMldLYTZEdWhaVHdZRHpxQk5FOEd0QTI3MDY3RFIwOHhaYU90ZVk4dVlvaWdKallLZFBnVjNCMDNvQ3FXazVuM1lBNEZQb3BxTzFSVmhqMHlua0FSWWtFQ1hXOUtnajBtbTlDV3JUS1Y4ZlEwWmlMNGtTR1Y1VTVPQg?oc=5",
-      "pub_date": 1794523076.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/much-does-bitcoin-atm-charge-223756128.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ddfa4e5c8a12ac858575b1914a678f012d64362c734ce28d3e79d7e4dbad8b15/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F08c817746772087498281a9990e3ef5e.jpg",
-      "description": "One reporter fed a crypto kiosk a $20 bill and walked away with far less Bitcoin than expected. Before you hand cash to one of these machines, see which hidden charges take the biggest bite and what cheaper routes exist."
-    },
-    {
-      "headline": "Serious Fed Warning Triggers \u2018Significant\u2019 Bitcoin Price Flip",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUY3aEJOb0Nmekg5MnBYSXdkLWdtU0UyUGVZQWJyTkkzRldRd0tmbzcyZkZuMnJmX29Rdl93eTd5eWhYRmdJQ0FMNkhXd1dRTGZhTjBJWFpoRkRqZnhLU0trRGxCaVY5QTM5WWVQNmVFWW1oVFY0U3hpeE9Jc0ItRnJBbTVwYkhzaUc0WDdMNmJVaVlJWkdzUFdHQXNkcDVseWV5WmhnRV9SWFBOU3lsMEszendGZw?oc=5",
-      "pub_date": 1794486899.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/12/serious-fed-warning-triggers-significant-bitcoin-price-flip/",
+      "headline": "Bitcoin Retreats as Nvidia Turmoil Weighs on Risk Appetite",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUxZZzlNWWNPa1prTjRxVlVjVGlKU05HRmwzZWkwY1M0WmZLeTQ0U2ZaVG9fYWZxeDZyQVBJRVNhWXN2b0puckFfNDN0czMzU3U2ZWlrUmVqWkdpd3IxOHN3S2hEUkk4Uzd5UHloOGJDRmxJaVozT2FxT2JpSGlnTWNrajc3MlRoUTk4N3I1TjlOMG8tNl8xTzFuVl9DaFNKSUZHZ1Rzem9vd3J3NEE?oc=5",
+      "pub_date": 1794518115.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-12/bitcoin-retreats-as-nvidia-turmoil-weighs-on-risk-appetite",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin Fell to $71,800 After Nvidia CEO Jensen Huang Resigned. Is That Why BTC Hit Its Lowest Price Since August?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1U1NG1JOXlMLU5UZDI1NDlsb3N2RnIyTmZMVnNXcWZKMjdjUkduZXhvTGt0SUFwTDVrTG9nSVBERGYzZ2VzbEd5eHpkNVhQQVFPZ3FFSmx1cExncU90SDlsUXZIR25YOHdTSzhNSXk4Y3lRa2dwUUtiMmRsMWs1RjNkTkZXVWtsMG9GNjF1SEdCVTg1VWc?oc=5",
+      "pub_date": 1794500951.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-fell-71-800-nvidia-162911727.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/949b8fd274efaf276a998d184a316ae09225064b1f2ba59cb675136ee676d4e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fb78f10b71a5f329e86db9e8d5bee9297.jpg",
+      "description": "Bitcoin was already sliding for weeks when NVIDIA's CEO walked out the door. Between ETF outflows, shrinking stablecoin supply, and a surprising miner link to AI, the real culprit may be hiding in plain sight."
     },
     {
       "headline": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkdSY1VzQndXdEpTb2hKT3BYcWJ2bVpreC15dHg4MFRlc3AwT2dBZzFOZ1J5aWcxWVdFQk5rQUFVTGVVM1JHems3VjlJY0o3em9VeTV5SGVvUXF4TWpqY0VMZ1RvMlJaYk8ya1BqV29YLWNVZjJ0Z2NRdEZJdUYxQmtrY1ZMWk9aRWRRZWFBdGE2bTNnZXdjOFpyZXFqM281c2dDMENpUDhWYldNNUU0aEU3SmVKUUpLY1E?oc=5",
-      "pub_date": 1794506553.0,
+      "pub_date": 1794502059.0,
       "article_url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
       "image": null,
       "description": null
     },
     {
-      "headline": "Democrats Win Sweeping Control of Congress. Here's 1 Cryptocurrency to Buy and 1 Cryptocurrency to Sell.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZElBTFJ3ODB5eWpFQkJBUlVTMndsdldta2dUdVBrZjAzVzVCNzVyZm5tU0JKdENpS3liTXNkMXVTV1BGTGttang1c1BzS2xDUzZuYWpXRVF6dXAtOTRfbnVsZ2FGVGhzWXdTTVdTSDdSU1hHb09aX2tNcVUwR2Fya19oRkRYVUlHRDFEWHpEczJ3Y3kxcjF5cw?oc=5",
-      "pub_date": 1794508500.0,
-      "article_url": "https://www.fool.com/investing/2026/11/12/democrats-win-sweeping-control-of-congress-heres-1/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893659%2Fblockchain.jpg&w=1200&op=resize",
-      "description": "Bitcoin is still worth buying, but XRP could stay in the penalty box."
+      "headline": "Current price of Bitcoin for November 12, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RWpEbzB5M20zdk4wdWtXa2czYWJvSVZJTFREc2RiYVZ5bG9VQ0kyWVQxcVJubjhWNmJSc2VsX1dEWmVPaHk3QVUyNEJBVW1xcUJ3SEx2TFhMeTA3a3UzbW51ZDcxNnM?oc=5",
+      "pub_date": 1794484800.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-11-12-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-12.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "Bitcoin Price Breaks Below $72K as $656M Liquidation Bloodbath Hits Crypto",
-      "source": "Bitcoin News",
-      "source_url": "https://news.bitcoin.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUs5SC02RzgwV05HOFRZODlzemlaVjVXb3d5UzRoTWtkN0c5VHQzX2xPUUZuczBzS1AzQkdRaS12NW5LTVdYTk05RS0tTTc4Z3NZRHJvRlFvYXNGWU81bjliY3NTd3l4azdDc1BwQk90SUQ3MkgxOG0yai1MeHBfemJIZngybnhzS0dYaHZ4eElYbV85Q05nVDFRNmRWMWc?oc=5",
-      "pub_date": 1794512185.0,
-      "article_url": "https://news.bitcoin.com/market-updates/bitcoin-price-breaks-below-72k-656m-liquidation-bloodbath/",
-      "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/11/bitcoin-price-nov12-2026am.png",
-      "description": "Bitcoin falls below $72,000 on Nov. 12 as $656 million in crypto derivatives positions are liquidated amid mounting selling pressure."
+      "headline": "Bitcoin plunges below $70,000 as liquidations reach $622M",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUFjcVpXdEhDRHFkQU9QZ3BtVnBfX0ZScnVKa1BMT05nRGlEckgtYUx1cWdScFJjYlVnckVyVVBBc210cVpNcEtZMnZ5RG1HeWRDVnhybU5EQjVSanVtd3BNSUtYVFFVVjU2VU1RT291WDJzMm1TWUZuYWxMcEZEVEJyVndNem90c1IyN3hpSHVIcVpqaHVFOVlxWk5HZjBYX0dNUVFDX2FnSkZTdFBCaHJsd3JpSmhnZFF5Xw?oc=5",
+      "pub_date": 1794541560.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:998c289d5094b:0-bitcoin-plunges-below-70-000-as-liquidations-reach-622m/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin slipped under $70,000, and the traders who borrowed to bet on it going higher paid for it. Crypto liquidations hit $622 million in a span of just four hours.The drop sent Bitcoin to an intraday low of $68,943 on November 13, 2026. It later steadied around $69,297, leaving it down 6% over 24\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T23:59:16.502257+00:00"
+  "fetched_at": "2026-11-13T06:23:48.457961+00:00"
 }

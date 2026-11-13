@@ -35,16 +35,6 @@
       "description": null
     },
     {
-      "headline": "Japan's AI robots are preparing for life on the Moon",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5Y3JRU0lac1FyTC10OXFBMVVyWXp4ZURKZGE5b0wwUldTVXlZU2FJd094R1FzTU96a1pPdlhmOENLeHJjZTMzTmpIbG5DaFdqdTJJakZDU3M?oc=5",
-      "pub_date": 1794477600.0,
-      "article_url": "https://www.bbc.com/reel/video/p0pkc1mt/watch",
-      "image": "https://ichef.bbci.co.uk/images/ic/1024xn/p0pmkrzd.jpg",
-      "description": "Japanese researchers are teaching AI-powered robots to navigate the Moon and build infrastructure for the future."
-    },
-    {
       "headline": "Meet the founder betting Washington can help him build America's robotics giant",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -63,6 +53,26 @@
       "article_url": "https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892868%2Fgettyimages-1515913422-1200x800-5b2df79.jpg&w=1200&op=resize",
       "description": "While AI models and chips take center stage, the AI robotics boom is silently building."
+    },
+    {
+      "headline": "Japan's AI robots are preparing for life on the Moon",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5Y3JRU0lac1FyTC10OXFBMVVyWXp4ZURKZGE5b0wwUldTVXlZU2FJd094R1FzTU96a1pPdlhmOENLeHJjZTMzTmpIbG5DaFdqdTJJakZDU3M?oc=5",
+      "pub_date": 1794477600.0,
+      "article_url": "https://www.bbc.com/reel/video/p0pkc1mt/watch",
+      "image": "https://ichef.bbci.co.uk/images/ic/1024xn/p0pmkrzd.jpg",
+      "description": "Japanese researchers are teaching AI-powered robots to navigate the Moon and build infrastructure for the future."
+    },
+    {
+      "headline": "Robot dog spotted taking real dog on a stroll in San Francisco",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcHBsUFhvc0xhYlFKNUV2aUt3dmZ1djJCYkwxWWZQUE1MMmZuOF9tS2xSeDlmdVdRZTF2Rl9fcGlQY1k3R3R5UnNtSzB6clRhWGhlNFlQU0dXVWJyTFhKeDBGUGoxSkttUWNGSWZsbUlYM21yX0hjUU1tUk5SMlVfZHcyb0RxZFdzdlYzdG5Zd1FCaDQ0MUVqVEZIZl80d0plQmY1cFREUktkVXJrZ0dpUF9kWDl0bGViTTllcGdBWnY0NWMxWkZYbkkxdFJQc1pXcXNUa0F3?oc=5",
+      "pub_date": 1794509520.0,
+      "article_url": "https://www.usatoday.com/story/news/state/california/2026/11/12/robot-dog-spotted-taking-real-dog-on-a-stroll-in-san-francisco/92743564007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/12/USAT/92744141007-robot-dog-promo-article.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+      "description": "The unusual pairing highlights how robotics technology is becoming a more visible part of everyday life in the Bay Area."
     },
     {
       "headline": "The PLA\u2019s Push for Military Robotics",
@@ -85,26 +95,16 @@
       "description": "Third-quarter industry data and moves by Walmart, Amazon and D.R. Horton prompt our move."
     },
     {
-      "headline": "Ring announces Ring Robotics, ushering in a new era of security",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
-      "pub_date": 1794317162.0,
-      "article_url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
-      "image": "https://assets.aboutamazon.com/dims4/default/b73122b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F07%2Fc1%2F82d8a1204627a837d203c57dd918%2Fring-devices-drone-rover-amazon-amazonnews-cdlt-09112026.png",
-      "description": "Ring Robotics is launching with two robots: Ring Drone Cam and Ring Rover Cam, providing mobile, proactive protection whenever and wherever you need it."
-    },
-    {
-      "headline": "GXO Doubles Down On Humanoids With Plan For Up To 1,000 Apptronik Robots",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObW01STRBOHJNWjdIdDhmWlVLSEtWbm1vRjRNa1VPNW93REhQNk15QVN6YnhwWWYwblZlTnNCVHIxUzJoeUlKMmlBMDhJNy1fWTZYc0FqUnFDTDRzdUFtRWxDT2RyXzZUbWpzSnMyTHlwLTRfWUhzTTRMS2Q3Rk1SVXc2RDlsblBTYXo0Q3BZWVVJYjAxeHJJVjMxTkRhbEo3UjNEc0U5SnI3QURCdzhvdWVxV0RocnVxbmdYeUJDVkNkVjA?oc=5",
-      "pub_date": 1794488079.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/12/gxo-doubles-down-on-humanoids-with-plan-for-up-to-1000-apptronik-robots/",
-      "image": null,
-      "description": null
+      "headline": "Robotic technology helping to detect and treat lung cancer earlier, saving lives",
+      "source": "WSET",
+      "source_url": "https://wset.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMnhDdEhkVVppTlhwNHF5bTlIWXFGcHJLYWtSSXlSN2VQYlUwYkIzTEtXYTI4V2laTS1DMVZzcnRhd05OWF9RNHktcHVZU0g0c1hSQWd3aUFPMFlNM1RISmpiaS1Wa2w4WmhxMmZFalM1WUtPLXBVMFBFVzhWVnpzaVFlSENEWDFYOXNtMm4zN19oMDZ2VjlvNkN0aXlIYnBNT3lxdDdsY3I0Qnc?oc=5",
+      "pub_date": 1794526447.0,
+      "article_url": "https://wset.com/news/local/robotic-technology-helping-to-detect-and-treat-lung-cancer-earlier-saving-lives",
+      "image": "https://wset.com/resources/media2/16x9/1920/1320/center/90/668acf73-7e96-4516-8dbc-5026121d812c-ion.jpg",
+      "description": "Relatively new technology is helping Lynchburg doctors to detect, treat and cure lung cancer and earlier stages leading to more positive outcomes for patients."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-12T23:59:09.701619+00:00"
+  "fetched_at": "2026-11-13T06:23:48.985022+00:00"
 }
