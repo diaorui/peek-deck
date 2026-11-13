@@ -5,42 +5,22 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin sinks below 70k, set for deep weekly loss as crypto appetite sours",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUV5SENBU3cxaXZ3aFNZRkJFM0NNOGFXQl9PbG1BYjA1Y1pxQ3JDQkZnVUEwWUxheG9GR213U3pNajg1WUZGYlIteGV1RWx2UTdtR0V6VTAyajJOWnJrcDJ1RldxMUFxdlN5SlFKQ2p0ZzllVHNMV2g4cUhwZEhQMXNSZENPdjhkMEFkQnl0clJZOVNibXU4Ul84Zw?oc=5",
+      "pub_date": 1794545262.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-70k-crypto-043421543.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Investing.com-- Bitcoin tumbled to a near three-month low on Friday as growing bets on more interest rate hikes and concerns over Strategy\u2019s removal from MSCI indexes dented appetite for cryptocurrencies."
+    },
+    {
       "headline": "Strategy, the World\u2019s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHV1TFRnVmtTRlJ0LWlRcXZKQTQtSWJiMWhGVmpkZ2NmRFNhQ2tKSWdldjZFRk12eUMzc0Vhb3JYRlpjaktiWk9MZTVEanVRdjRETmdLNUtUem5SZjl3VHA2N3BDRkUyQUkwR1hlTzVhQzR1ZEQwT3dOaExSNHN3RmxXczdXNzRMcnVpU195cEFQc3k1eUFmSnQtR3g2bzgtQ1JCUTgwS0RhRUduWmUycHcteEFYUEVKZDNOTkRGYm5xZ3dNOXFpOGtCVQ?oc=5",
-      "pub_date": 1794476640.0,
+      "pub_date": 1794568320.0,
       "article_url": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Index Provider MSCI Removes Strategy From Equity Benchmark",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZW5DR09LVkg4dkthOHBBckpTQU92UGhvUFNQNTZneVNtV2diNHd6TlEyT1RWMHNKb1pJTWFYU3ZLbERzUkFHS1ZNSkVFYi1lSW1lMmo2MFFteERJNG5Td25UNlBzWDNyaUpsbDZNY1NVcnFnNW5ncVZMMmJaNldfdTNQdHlZZ1Y1bU5TbHF6QVBsWFo2cmtyekZjdWRTNjl1cnNZTlNNR3VlRkJPYWc?oc=5",
-      "pub_date": 1794518401.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Strategy Sinks As MSCI Axes Bitcoin Whale; Is Nasdaq 100 Next?",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUFJJWHVqZkRrWUlDV3N6V04yUUVCbHVJczFOYk1hQmhlUURjalNDaTF3N2g0Y0FtUDlKeUFSRkI1WW5mdTRmal8xQ0NaU25oNU0xdXpzWHptRmlyR1p3YjBtQzdYZ2tTSi02Y0o3c2dTYS1BSXFKb19iSTQxZ2V1WjNFZHZscXNHcHZLVEdLaDM2QQ?oc=5",
-      "pub_date": 1794496080.0,
-      "article_url": "https://www.investors.com/news/mstr-stock-bitcoin-price-msci-index-exclusion-nasdaq-100/",
-      "image": "https://www.investors.com/wp-content/uploads/2026/03/stock-bitcoin-coin-adobe.jpg",
-      "description": "MSTR stock slid and the bitcoin price underperformed gold after MSCI decided to boot Strategy and crypto holding companies from its indexes."
-    },
-    {
-      "headline": "BTC news: Prices slip below $70K, triggering $1.2 billion in liquidations",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUFvUmV4NkRTR3k0bnVVUjBYQTh5Z1BNX3NsTE1YWE9YUEpRMTJ4TEF5NFJfVmxPaUZQWl9CZEJpNGQtOTRMNmtYRHV0N3NUM2FtOUp1dWNaSV9OSlVYMFRwNld4ZWI4bUV4a251VjdzeUVnTW1EbFBuUndERzNjTWg1cDZ4Y1d1aXFPbzZYUXFoT2NJcnVBcXFXdFo?oc=5",
-      "pub_date": 1794541260.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
       "image": null,
       "description": null
     },
@@ -55,56 +35,76 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Retreats as Nvidia Turmoil Weighs on Risk Appetite",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUxZZzlNWWNPa1prTjRxVlVjVGlKU05HRmwzZWkwY1M0WmZLeTQ0U2ZaVG9fYWZxeDZyQVBJRVNhWXN2b0puckFfNDN0czMzU3U2ZWlrUmVqWkdpd3IxOHN3S2hEUkk4Uzd5UHloOGJDRmxJaVozT2FxT2JpSGlnTWNrajc3MlRoUTk4N3I1TjlOMG8tNl8xTzFuVl9DaFNKSUZHZ1Rzem9vd3J3NEE?oc=5",
-      "pub_date": 1794518115.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-12/bitcoin-retreats-as-nvidia-turmoil-weighs-on-risk-appetite",
+      "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jSkxvVlFEZXVFVnk0cUhsN2JXNnFQaUplOFFGOWNhbHZESGVZZllWc1VfS0VKc1JvUlpwQW9kYmtjcmIyUVFienRkWk81V2lYaXlDV25qN0JzRnkwRVlXWDR5YWtCeXR1RGlTYnFqUlhqNzFDVUNndEhkb0g?oc=5",
+      "pub_date": 1794575786.0,
+      "article_url": "https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Fell to $71,800 After Nvidia CEO Jensen Huang Resigned. Is That Why BTC Hit Its Lowest Price Since August?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1U1NG1JOXlMLU5UZDI1NDlsb3N2RnIyTmZMVnNXcWZKMjdjUkduZXhvTGt0SUFwTDVrTG9nSVBERGYzZ2VzbEd5eHpkNVhQQVFPZ3FFSmx1cExncU90SDlsUXZIR25YOHdTSzhNSXk4Y3lRa2dwUUtiMmRsMWs1RjNkTkZXVWtsMG9GNjF1SEdCVTg1VWc?oc=5",
-      "pub_date": 1794500951.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-fell-71-800-nvidia-162911727.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/949b8fd274efaf276a998d184a316ae09225064b1f2ba59cb675136ee676d4e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fb78f10b71a5f329e86db9e8d5bee9297.jpg",
-      "description": "Bitcoin was already sliding for weeks when NVIDIA's CEO walked out the door. Between ETF outflows, shrinking stablecoin supply, and a surprising miner link to AI, the real culprit may be hiding in plain sight."
-    },
-    {
-      "headline": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkdSY1VzQndXdEpTb2hKT3BYcWJ2bVpreC15dHg4MFRlc3AwT2dBZzFOZ1J5aWcxWVdFQk5rQUFVTGVVM1JHems3VjlJY0o3em9VeTV5SGVvUXF4TWpqY0VMZ1RvMlJaYk8ya1BqV29YLWNVZjJ0Z2NRdEZJdUYxQmtrY1ZMWk9aRWRRZWFBdGE2bTNnZXdjOFpyZXFqM281c2dDMENpUDhWYldNNUU0aEU3SmVKUUpLY1E?oc=5",
-      "pub_date": 1794502059.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+      "headline": "Bitcoin News | SpaceX\u2013Tesla Merger Talks Would Combine 30,220 Bitcoin Worth $2.1 Billion Under One Roof",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vTnIyc2oxcFhEVGpjTHFmdl9oU3BoNDctM3lkRHNTM053d1RWQmlhRW40WlhHUlpGSnlta2ZVeWg1ZzhCQVV2ZmRJVGNMaWFVWl9MTzVPSXBXZlZqLUo0U19vVGc?oc=5",
+      "pub_date": 1794574026.0,
+      "article_url": "https://www.binance.com/en/square/post/387820858420685",
       "image": null,
       "description": null
     },
     {
-      "headline": "Current price of Bitcoin for November 12, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RWpEbzB5M20zdk4wdWtXa2czYWJvSVZJTFREc2RiYVZ5bG9VQ0kyWVQxcVJubjhWNmJSc2VsX1dEWmVPaHk3QVUyNEJBVW1xcUJ3SEx2TFhMeTA3a3UzbW51ZDcxNnM?oc=5",
-      "pub_date": 1794484800.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-11-12-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-12.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+      "headline": "AM Markets Need to Know: Anthropic IPO demand surges, Bitcoin slides, and more (SP500:)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXJMeHNwTERIbk5MVW5ab19hTnNUNEhFS0pfeEt3OE1aRHJVLVlVbER0VkRtRmVLU3NkeW5SN29zdXZvMVZYeGExd1BoMHZmYUd2X1BDQnIyNkNiaERqRXF3TjU0cGZVRFh0aGRURjNsalkwWnFXVDVBdmZRYTZwaDNSMngyN2VEeEptMWEwenBDM0Z6c2tJa2d4N2d1S3ZuR2I5UU9LQTdoeVpzVUh5V1Z1OA?oc=5",
+      "pub_date": 1794569842.0,
+      "article_url": "https://seekingalpha.com/news/4672226-am-markets-need-to-know-anthropic-ipo-demand-surges-bitcoin-slides-and-more",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2259148968/image_2259148968.jpg?io=getty-c-og",
+      "description": "Anthropic\u2019s planned $64.4B IPO reportedly draws 6x available-share orders; Michael Burry adds Nasdaq puts as Bitcoin falls to about $69,000."
     },
     {
-      "headline": "Bitcoin plunges below $70,000 as liquidations reach $622M",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUFjcVpXdEhDRHFkQU9QZ3BtVnBfX0ZScnVKa1BMT05nRGlEckgtYUx1cWdScFJjYlVnckVyVVBBc210cVpNcEtZMnZ5RG1HeWRDVnhybU5EQjVSanVtd3BNSUtYVFFVVjU2VU1RT291WDJzMm1TWUZuYWxMcEZEVEJyVndNem90c1IyN3hpSHVIcVpqaHVFOVlxWk5HZjBYX0dNUVFDX2FnSkZTdFBCaHJsd3JpSmhnZFF5Xw?oc=5",
-      "pub_date": 1794541560.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:998c289d5094b:0-bitcoin-plunges-below-70-000-as-liquidations-reach-622m/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin slipped under $70,000, and the traders who borrowed to bet on it going higher paid for it. Crypto liquidations hit $622 million in a span of just four hours.The drop sent Bitcoin to an intraday low of $68,943 on November 13, 2026. It later steadied around $69,297, leaving it down 6% over 24\u2026"
+      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP extend losses as downside momentum dominates",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOczRpek1FN0tvYlN5YWs0YVJaTzJEdmxxcGNhaW8xdklnQXNHWElFNGwyVUVJWFdyMVJyX3ZEQzN6cTRnYzhtelUzbWpXTWlaWTBRTVh2dDNQcm15MFZTd0F0TktSWUYyak45VVZtMy1EV2ZDS1lnSGNlMDZPbUZReDdfdHZPd1dDUkg3YUVJVndobTBzU2l1YVV0WlpsOU9VX3RpdUQzR3RsRnR0Y0E5R2dKU3hQSWhvMTJNZW9yZXRBSEVWa0prTDFzMmpOa1R6QlJmcmhEcWdaYjNmT2ROa2hHZ1hudTlMQm9jS3l4R1ZianliOHhUQnU2Sjk?oc=5",
+      "pub_date": 1794541378.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-losses-as-downside-momentum-dominates-202611130342",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Crack as Trump Says 'We Don't Need a Deal With Iran': Analyst Warns BTC'",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVZrTExTaU1IWHhuZy1FSWNPMEhtRzNHTmhkaXBFOXJmM0ZMZEQ0TE5VcnBEWllwem1ISHRUMm5iSE82M19FbFN3dzgxaHpmeVZOLVg3dXFOTmRrOWx4aTBQRy1zXzA0V1dkRmlSRHBoWkg4V2xDS3JSTXlCLTRYWFdoa0dvcl9BblNRb01PS01RN1pFQ2xDTVVJVzFxZVl4UzRWeTVtZ1dDdW15REE?oc=5",
+      "pub_date": 1794534607.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63228629/bitcoin-ethereum-xrp-dogecoin-crypto-iran-war-2",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin risks falling to $62,000 as Fed hike odds climb, risk appetite weakens: Bitget Wallet analyst",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DSnd5RnYyLW9ndlcyTjBZeXluRGQ0dkw2VFlwQmpDdktXaUlkNXZhSVZKby10SFJtMk1sVU1MTmwwREM3RDRKU293b2RBdHhnM2NmUGtxQkJjMGE5RmhwWE5Uc2VGQlk0N1Vtamxabkl2d1ZRVVE?oc=5",
+      "pub_date": 1794552366.0,
+      "article_url": "https://cryptobriefing.com/crypto-liquidation-event-longs-billions/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13001217/library-crypto-longs-lose-1-26-billion-as-bitcoin-slides-under-6-800x450.png",
+      "description": "Crypto liquidation event sees $1.26B in longs wiped as Bitcoin falls below $69,000, leading to massive market shifts and CPI-driven volatility."
+    },
+    {
+      "headline": "Bitcoin and Ethereum ETFs Record $55.7 Million in Outflows as Crypto Market Sell-Off Deepens",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkxtS2s5ZHBFSjJIMENBY3ljRkRFQXhzN25tTWYzYmNLX1BSOV9CS0twSms5a1FkTDV2RWRpamplUXViT1lxODU5cjE3endQNjJ5X20wN3V3eGM0MjQwM0p3ZEFXa3RSN09NQ0ZpSzE4UEJWSmxIMjVMYmtVSGtpTXJxUmhTOEo3MWRGc045ZjJoWW4zb0Q2Nmdqcm10SHlnNHQ4d0VNbmpxWE8zRkpvc0ZTMlQ0dXYy?oc=5",
+      "pub_date": 1794564088.0,
+      "article_url": "https://financefeeds.com/bitcoin-and-ethereum-etfs-record-55-7-million-in-outflows-as-crypto-market-sell-off-deepens/",
+      "image": "https://financefeeds.com/wp-content/uploads/2026/07/Bitcoin-ETFs-Hemorrhage-425M-in-Brutal-Reversal.webp",
+      "description": "US spot Bitcoin ETFs shed $47.7M and Ether funds $8M on November 12 in preliminary data, with BlackRock and Fidelity yet to report; Solana took in $1.7M."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-13T06:23:48.457961+00:00"
+  "fetched_at": "2026-11-13T14:48:45.625276+00:00"
 }

@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 164,
+      "upvotes": 165,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
@@ -73,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-11-06T19:00:00.000Z",
       "github_repo": "https://github.com/huawei-csl/MACaQ",
-      "github_stars": 203,
+      "github_stars": 220,
       "project_page": "https://huawei-csl.com/blog/macaq/"
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-11-08T19:00:00.000Z",
       "github_repo": "https://github.com/Robbyant/lingbot-touch",
-      "github_stars": 367,
+      "github_stars": 441,
       "project_page": "https://technology.robbyant.com/lingbot-touch"
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 3,
       "published_at": "2026-11-05T19:00:00.000Z",
       "github_repo": "https://github.com/facebookresearch/faiss",
-      "github_stars": 41525,
+      "github_stars": 41575,
       "project_page": "https://e-means.github.io/"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 93341,
+      "github_stars": 93387,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-13T06:23:38.168291+00:00"
+  "fetched_at": "2026-11-13T14:48:28.168900+00:00"
 }

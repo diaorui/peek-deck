@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-13T06:23:57.823552+00:00'
+updated: '2026-11-13T14:48:49.420551+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 13, 2026 at 06:23 UTC  
+**Last Updated:** November 13, 2026 at 14:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,962.45
+### $1,976.13
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.9%  
-**7d:** -13.9%  
-**30d:** -21.0%  
-**90d:** +2.8%  
-**1y:** -37.9%  
+**24h:** -2.4%  
+**7d:** -12.4%  
+**30d:** -19.7%  
+**90d:** +4.5%  
+**1y:** -36.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.26B
+**Market Cap:** $239.61B
 Rank #2
 
 **Circulating Supply:** 122,215,669 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-60.4%
 
 **All-Time Low:** $0.43
-+444492.0%
++452797.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-17h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 got a token thats not on the big exchanges in any useful way, withdrawal fee makes the listing pointless even where it exists. stealthex and godex both show a route to ETH but ive never done anything outside top coins and dont want to be the test tx. not hunting spread, just want to know if these actually pay out thin pairs or if it sits until you email someone. done one this year? how long did it take
 
-20h ago
+1d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello all, We are building a tool for interfacing between wallets and users as a fun learning project. I wanted to know what are the most operations used within wallets? Are smart contracts common for the average user? How about cross-chain swapping? Please list out more operations if they come to your mind.
 
-2d ago
+3d ago
 
 ---
 
@@ -150,31 +150,17 @@ A court filing last week provided the missing pieces explaining the Ethereum Fou
 
 ## Google News: "ethereum"
 
-**[Deutsche Bank launches crypto custody for Bitcoin, Ethereum, stablecoins](https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/)**
+**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html)**
 
-Deutsche Bank launches regulated crypto custody for institutional clients, supporting Bitcoin, Ethereum and stablecoins, with Asia expansion planned for 2027.
+Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data.
 
-Crypto News • 1d ago
-
----
-
-**[What Will Bitcoin and Ethereum Be Worth in 5 Years?](https://247wallst.com/investing/cryptocurrency/2026/11/11/what-will-bitcoin-and-ethereum-be-worth-in-5-years/)**
-
-Forecasts put Bitcoin at $166,000 to $1.2 million by 2030 or 2031. Here's what Bitcoin and Ethereum could be worth in 5 years.
-
-24/7 Wall St. • 1d ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/)**
+**[Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy](https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy)**
 
-BeInCrypto • 5h ago
-
----
-
-**[Ethereum researchers drop faster blocks to race toward quantum defenses in 2027](https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027)**
-
-CoinDesk • 18h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -182,7 +168,7 @@ CoinDesk • 18h ago
 
 Leading cryptocurrencies plunged deeper on Thursday as investors weighed President Donald Trump’s latest remarks on Iran.Crypto Market TumblesBitcoin fell below $71,000 for the first time in nearly three months, while Ethereum slipped below $2,000 as major cryptocurrencies faced heavy selling press…
 
-TradingView • 4h ago
+TradingView • 12h ago
 
 ---
 
@@ -190,7 +176,15 @@ TradingView • 4h ago
 
 The non-profit allegedly told workers to pledge they'd die by suicide "with a sword."
 
-Mashable • 1d ago
+Mashable • 2d ago
+
+---
+
+**[Ethereum unveils quantum-safe accounts, with a costly catch](https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/)**
+
+Ethereum researchers propose quantum-resistant accounts by 2027, with higher transaction costs until scaling upgrades arrive.
+
+CryptoSlate • 8h ago
 
 ---
 
@@ -198,7 +192,7 @@ Mashable • 1d ago
 
 BOSTON, Nov.  12, 2026  (GLOBE NEWSWIRE) -- Developed by Ledger cofounder Nicolas Bacca, the app runs on KeyOS, Foundation's open source operating...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -210,17 +204,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum’s founder came to Mumbai. So did 5,000 others. Few noticed](https://indianexpress.com/article/india/ethereum-devon-mumbai-gathering-vitalik-buterin-aadhaar-zero-knowledge-proof-10960232/)**
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend losses as downside momentum dominates](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-losses-as-downside-momentum-dominates-202611130342)**
 
-The Indian Express • 18h ago
+FXStreet • 11h ago
 
 ---
 
-**[Current price of Ethereum for November 10, 2026](https://fortune.com/article/price-of-ethereum-11-10-2026/)**
+**[How Ethereum staking hit a record 36.3% despite ETH’s price drop](https://ambcrypto.com/how-ethereum-staking-hit-a-record-36-3-despite-eths-price-drop/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+More than one-third of Ethereum's circulating supply is now staked.
 
-Fortune • 2d ago
+AMBCrypto • 12h ago
+
+---
+
+**[Crypto Market Sell-Off Deepens: Why Are Bitcoin, Ethereum and Solana Falling?](https://coinpedia.org/price-analysis/crypto-market-sell-off-deepens-why-are-bitcoin-ethereum-and-solana-falling/)**
+
+The cryptocurrency market is struggling to find support as Bitcoin, Ethereum and major altcoins extend their declines. Bitcoin traded near $73,400 on
+
+Coinpedia • 1d ago
 
 ---
 
@@ -228,13 +230,13 @@ Fortune • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚀 Ethereum Gets A New Story - ETH Crypto Analysis](https://www.youtube.com/watch?v=gxlBCJK4LKE)**
+**[Ethereum’s Use Case Is Fading (Coinbase Analyst)](https://www.youtube.com/watch?v=udWRxduO4vc)**
 
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bCR7dFhS My Chart Software: ...
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Coinbase quant ...
 
-📺 Bitcoin Strategy
+📺 Lark Davis
 
-👁️ 2K • 👍 25 • 💬 11 • ⏱️ 8:43 • 19h ago
+👁️ 8K • 👍 112 • 💬 24 • ⏱️ 12:35 • 17h ago
 
 ---
 
@@ -244,17 +246,17 @@ Jamie Dimon called Bitcoin a fraud. Then JPMorgan put its own dollar on Ethereum
 
 📺 Dana Love, PhD
 
-👁️ 22K • 👍 381 • 💬 56 • ⏱️ 19:35 • 1d ago
+👁️ 23K • 👍 384 • 💬 58 • ⏱️ 19:35 • 1d ago
 
 ---
 
-**[Ethereum’s Use Case Is Fading (Coinbase Analyst)](https://www.youtube.com/watch?v=udWRxduO4vc)**
+**[🚀 Ethereum Gets A New Story - ETH Crypto Analysis](https://www.youtube.com/watch?v=gxlBCJK4LKE)**
 
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Coinbase quant ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bCR7dFhS My Chart Software: ...
 
-📺 Lark Davis
+📺 Bitcoin Strategy
 
-👁️ 5K • 👍 99 • 💬 17 • ⏱️ 12:35 • 9h ago
+👁️ 3K • 👍 31 • 💬 12 • ⏱️ 8:43 • 1d ago
 
 ---
 
@@ -264,7 +266,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 186 • 💬 6 • ⏱️ 8:00 • 16h ago
+👁️ 9K • 👍 195 • 💬 10 • ⏱️ 8:00 • 1d ago
 
 ---
 
@@ -274,7 +276,47 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 17K • 👍 234 • 💬 35 • ⏱️ 10:11 • 2d ago
+👁️ 17K • 👍 234 • 💬 36 • ⏱️ 10:11 • 2d ago
+
+---
+
+**[The Rich Are Preparing While Everyone Else Is Afraid Ethereum &amp; Bitcoin Hype During Bank Collapses](https://www.youtube.com/watch?v=ozyjlqoHf08)**
+
+Banks are collapsing, debt levels are higher than ever and it looks like we might actually see a total economic collapse on the ...
+
+📺 The Modern Investor
+
+👁️ 9K • 👍 707 • 💬 200 • ⏱️ 30:47 • 1d ago
+
+---
+
+**[Live Crypto &amp; Gold Psychological Trading 13 Nov ||  #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=pugJJWzoUsA)**
+
+TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :-https://india.delta.exchange/?code=JFWJTR ...
+
+📺 Vibe With Sahil
+
+👁️ 3K • 👍 254 • 1h ago
+
+---
+
+**[🚨 NVIDIA CRUSHES ETH! Tom Lee Reveals His Stance on NVDA](https://www.youtube.com/watch?v=mi7zf6h2Juk)**
+
+NVIDIA SCANDAL ROCKS THE MARKETS Mainly ETH and Bitcoin! Earn on Stocks with MaxFi: https://www.Maxfi.tech/ NVIDIA ...
+
+📺 Big Time Trades
+
+👁️ 3K • 👍 52 • 💬 20 • ⏱️ 25:53 • 15h ago
+
+---
+
+**[ETH - This Powerful SIGNAL is Saying This | Ethereum ETH Price Prediction](https://www.youtube.com/watch?v=LIy6bHHox4o)**
+
+A.D INVESTMENT CLUB https://buymeacoffee.com/altcoindoc/e/581789 Join the $1K to $100K Trading Challenge!
+
+📺 Altcoin Doctor
+
+👁️ 32 • ⏱️ 9:00 • 9h ago
 
 ---
 
@@ -284,47 +326,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 5K • 👍 83 • 💬 50 • ⏱️ 14:58 • 2d ago
-
----
-
-**[Bitcoin Breaking Down! Fibonacci Support Levels for BTC, ETH, SOL, and HYPE](https://www.youtube.com/watch?v=0lbcy9GhswA)**
-
-Bitcoin is losing a key support level, and crypto is getting oversold. Pro Trader Drew Dosek uses Fibonacci retracements, parallel ...
-
-📺 Verified Investing
-
-👁️ 11K • 👍 265 • 💬 6 • ⏱️ 9:21 • 9h ago
-
----
-
-**[YOU NEED TO WATCH THIS LEVEL FOR ETH! (Ethereum Update)](https://www.youtube.com/watch?v=4B5H-f0w_b0)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 561 • 👍 12 • 💬 1 • ⏱️ 4:42 • 19h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: Bearish Price Target Revealed!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SvGo6yATLOk)**
-
-BITCOIN & ALTCOIN WARNING: Bearish Price Target Revealed!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 303 • 💬 87 • ⏱️ 24:54 • 13h ago
-
----
-
-**[Is ETH a Store of Value Like BTC and Gold? Ethereum Founder Vitalik Flips](https://www.youtube.com/watch?v=JDLc2T1bomQ)**
-
-Can ether hold its value the way gold does? If you bought ether at its 2025 peak, you're down about 58%. On November 8 ...
-
-📺 EvidenceDad
-
-👁️ 12 • 💬 1 • ⏱️ 17:29 • 19h ago
+👁️ 5K • 👍 83 • 💬 49 • ⏱️ 14:58 • 2d ago
 
 ---
 
