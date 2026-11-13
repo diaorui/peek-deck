@@ -5,82 +5,32 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
-      "pub_date": 1794579145.0,
-      "article_url": "https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/",
-      "image": null,
-      "description": null
+      "headline": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0oxbjBlUlEwbUh1bmtnX0d2YUZMWHZqR3VNV0F6R3Q5cUVDTUV2WXA3RmFlYVhfMTUyd2dYVDNGaWJ0YWx3d2JYZHFwZTVLcG1sMFpneUFQbnFUNThMa0tDM2MzUHVOeGY4Q3poVVFRX2I2aWZQUlNPVEQ5MHdSQk9SejNoajFyVFA5U1BIclVJU1BBcGt0TEZlb1JqUm5JZUZ5S081QnhuQQ?oc=5",
+      "pub_date": 1794590745.0,
+      "article_url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+      "description": "Researcher traces a path from AI reward hacking to potential human extinction."
     },
     {
-      "headline": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tOFFMdGZoTHJtVDFvbFkyRjM0Z0dhUGlNNGZzbF9KcUctWUdfaUNkQnpCa3dLY3EtY0tPZ0NRbEljamJyREFubG5mUVM4V1B2c1VtbElHNjhkN2N2MHNoT1JrWS1hS1hWQjBDakI2YkRrX0hmLTgzQQ?oc=5",
-      "pub_date": 1794564000.0,
-      "article_url": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3328x1872+0+115/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F0a%2F07635bc543269981b602417914fe%2Fap23345330599272.jpg",
-      "description": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations."
+      "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
+      "pub_date": 1794589500.0,
+      "article_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
+      "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
     },
     {
-      "headline": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
-      "pub_date": 1794506644.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
-      "description": "Today, we\u2019re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows"
-    },
-    {
-      "headline": "Microsoft 365 Outage Shows AI Agents Can Undo Work After Email Returns",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcl9TYnRRaGJLRW1kQ3Axd05OMmt4VmVyQmxwU2phT1pzZTBxY1dINFpabk4tR2FBbnNUQTJRWW9qTjVuSFk4S2VJZ1A1dUlyb3Ezck0zS3hUc0hIZlFYTFNkUGJNWnFtMnd0QzJkTnN4TEVQT0JtN2EzQTliYUtVZXc1R1hfcThjYW9zUTdDdEMyMnZJU1dLenJvdzJNOUxTd1oxM1VWUUtDOEpDaDlmeg?oc=5",
-      "pub_date": 1794579427.0,
-      "article_url": "https://www.forbes.com/sites/robertszczerba/2026/11/13/microsoft-outage-exposes-a-blind-spot-in-your-ai-agents/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Smartwatch blood pressure monitoring was okay. AI is making it better.",
-      "source": "Popular Science",
-      "source_url": "https://www.popsci.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTC1HQTVHWG9BSVQ3aDR3aHM0d0h6UGlHUVcwQWFYSmhYdWFTSjlFSGV6Q2pfWE1uTDZBeTRLMU5RZHp2akQ3UVY3U1ZSdi1NUTB5aTN4Q0oxYW1jVnFhR1JjYkpVMUV3ZDV5QWtNSHRRalZsOThQVEZnYkxQVEVZQmtCdnRlS1o2MFE?oc=5",
-      "pub_date": 1794580746.0,
-      "article_url": "https://www.popsci.com/technology/ai-improve-smartwatch-blood-pressure-monitoring/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/11/smart-watch-heart-health.png?w=1200",
-      "description": "Hypertension is often a \u2018silent killer.\u2019 Better monitoring can save lives."
-    },
-    {
-      "headline": "OpenAI safety board member warned AI takeover could come within months",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sTHlFUW5hRXR5YVNCdWd0Sy1PX1NDYXU3UUNIQmxxWG9abUVpLWNGUThwYzQ4WGU3VHlyaVQ2dnRmTnpWZVFtOXZvcTZQVnN1dU15Zjh1QlRfZFVYVHJSU0VoNXpCaTF3Q2stWF9WNzZxQVhIOG9r?oc=5",
-      "pub_date": 1794577626.0,
-      "article_url": "https://qz.com/openai-safety-board-member-ai-takeover-warning-111326",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2266383509-300x200.jpg",
-      "description": "Paul Christiano said the risk stays high even with policy responses; his September estimate was 15% within three years"
-    },
-    {
-      "headline": "Why you should expect an AI crash",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjc1ZHRjSlp2bmc3RGpjQVZad1I1cmdvOWxNYUJwRU13SmhXaHdQUW9Dd1hXTmxOQ1BGNGg3anN4UlpsWGxfZktEc3hESXRDR1BMVkN2RmJhSVpDMmRfM1I1MHlpdGNCRnFqMmN5c2JaVWxCWGZEckl0YllKOEJuMWJDSWQ?oc=5",
-      "pub_date": 1794477290.0,
-      "article_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldJX01OcW9RMkRvR2QxbDljdmNZMGEyVUlnRjkwTWtqbmRsdVZHYnktd0ExUjlOYXFtNXdqcldodFpmemEyQWNfRDZXXzhIUi1DUVI2NFNBczZxdzc2ZWM0eW16bFJSa19PV1ZvSnQ2N1Y0RnJPM2F5R2VTWG1DOVBHNUFjUkhRbWZnYXFEenRMVjJlVlgyOF9JOA?oc=5",
-      "pub_date": 1794531600.0,
-      "article_url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30",
+      "headline": "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjhJdzBDdFpRc3VSX0ZSNFV1SFRJS2JhYXpKMlU5Mm1ZNEVsN2o1Mno3TkNrQ2lBYlVoOVdsUVZJS2JDVUhCLXdyMG1tNG1ldGFLV0dqUWZxMzJWWWxYaDUzYWdiWXJILUxNdnlEOFgtWWI0V0s2VVFmMmxPZm5vekpwM1BBZlVGZDYyd2E3OW5lNVZWOF9MY05MdmtFb2gxRVQxN2FCZVh6djhXSG5uS3d4Y3VyQQ?oc=5",
+      "pub_date": 1794603600.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai",
       "image": null,
       "description": null
     },
@@ -95,16 +45,66 @@
       "description": "Jensen Huang\u2019s resignation from Nvidia in scandal leaves the company without its visionary leader. It also leaves a major void for the AI industry, where Huang was kingmaker in inking deals to support the tech boom."
     },
     {
-      "headline": "Opinion | The internet won\u2019t necessarily go dark. It could simply stop working.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDRWeDgySlpmMWUxZXYyR09XUEhOb0EwTnVVUVpoWnEyNDdYd1BBekZVUXk0R2x0VW5kTEgtMnkzUzV5WGtBcWFmWDZZTzhFS2xmYzNrVkIyWVg1UGZWeWFJeTNMalF2RVFZR2VyN1FLb2kwMFJzMFZ2OFU4TXBCT2hNYm9IZ29SRDRSbHRzTHh6WGxiUHVfOUdwSGx4Mm5SRlRDNGRBUmJWUQ?oc=5",
-      "pub_date": 1794510000.0,
-      "article_url": "https://www.washingtonpost.com/opinions/2026/11/12/ai-is-exposing-internets-cybersecurity-vulnerabilities/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OVMLILRC5BFJNHKKF6O3S6Y7QY.jpg&w=1440",
-      "description": "AI is exposing decades of software shortcuts. They need fixing before hackers exploit the weaknesses."
+      "headline": "EU Holds First AI Summit, but Russia-Ukraine Talks Risk Derailing the Agenda",
+      "source": "Foreign Policy",
+      "source_url": "https://foreignpolicy.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjV3Ry1ibXM0SnQ0SWx4bFdyZklpekJYZllDaC1LQjI4RE00Z05EdzNCRG56d1FQdnJaTGJrVWxla2dNVEdSeXdQSjZZSG9wZEJDdlc0VmctcUVlbGFzaDVXMk8xSXBONm5pcmhRV19vcmhxaEhOX1c2Zzc2Y2xOT29ablV5bmREQjMtQ1BsZHBvQzI3VzJfRmRnRHdTYVF0bzNfZUpJUQ?oc=5",
+      "pub_date": 1794601772.0,
+      "article_url": "https://foreignpolicy.com/2026/11/13/eu-ai-summit-semiconductor-chips-russia-ukraine-peace-talks-nvidia/",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/EUAI-GettyImages-2304377246.jpg",
+      "description": "Outlooks aren\u2019t optimistic, as the bloc is set to fall short of its chip-manufacturing goals."
+    },
+    {
+      "headline": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+      "pub_date": 1794586301.0,
+      "article_url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "image": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-facebookJumbo.jpg",
+      "description": "Dario Amodei, the company\u2019s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
+    },
+    {
+      "headline": "Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldJX01OcW9RMkRvR2QxbDljdmNZMGEyVUlnRjkwTWtqbmRsdVZHYnktd0ExUjlOYXFtNXdqcldodFpmemEyQWNfRDZXXzhIUi1DUVI2NFNBczZxdzc2ZWM0eW16bFJSa19PV1ZvSnQ2N1Y0RnJPM2F5R2VTWG1DOVBHNUFjUkhRbWZnYXFEenRMVjJlVlgyOF9JOA?oc=5",
+      "pub_date": 1794531600.0,
+      "article_url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Ahead of his time\u2019: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmZkUnVoTE4wSmlQSE90Vy1Hd0U1elZDOUtuVmxCYkVsWUtWTkNpYTdaSXQ3QjBuRGUwWE0yZ2UwSzg0UzdTbHB2WmRLeXUyQ3lBUnZ3RXhMVUtxQ1oxd1hUODVRcml2VFE3aGF6MmlCQ3JKWXNEU1AzQzZSUGhqWl8zd1NpSUxnVnRxQldMNXV4c2ZmNHhhTjZjUHREc1hMWXQydzQzWjJQbW9rcGcxcWZuMmJaRk1jMDNLbzhQUDhVUmNpcDJ3WQ?oc=5",
+      "pub_date": 1794595080.0,
+      "article_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
+      "description": "Kurt G\u00f6del left 1,009 pages of densely written text \u2013 much of it in an obsolete shorthand \u2013 which is now said to contain hundreds of proved theorems"
+    },
+    {
+      "headline": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tOFFMdGZoTHJtVDFvbFkyRjM0Z0dhUGlNNGZzbF9KcUctWUdfaUNkQnpCa3dLY3EtY0tPZ0NRbEljamJyREFubG5mUVM4V1B2c1VtbElHNjhkN2N2MHNoT1JrWS1hS1hWQjBDakI2YkRrX0hmLTgzQQ?oc=5",
+      "pub_date": 1794564000.0,
+      "article_url": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3328x1872+0+115/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F0a%2F07635bc543269981b602417914fe%2Fap23345330599272.jpg",
+      "description": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations."
+    },
+    {
+      "headline": "Claim your Google Cloud Credits in Google AI Studio",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjJuQXllUkRfTG1mbVdOMVhfVk1wLWhySkdIVndNWGJtamhqaFBJVEhTUUg3NThaWEVPeDJNZktNUDAwd0FmN1NKV3Q4NDl5SEpYWHZKTFNPLUdWdXNNeGdvVHo2Rzl6aG04SkZYOWd5anBlaWFRX1R6TzkybWtIbTZKbnJGMWVIREZXZklkcHBraE16a1dMekRqV2ZWejl4NWd3?oc=5",
+      "pub_date": 1794602139.0,
+      "article_url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_hero.width-1300.png",
+      "description": "Claim your Google Cloud Credits in Google AI Studio"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-13T14:48:47.391811+00:00"
+  "fetched_at": "2026-11-13T21:13:46.545210+00:00"
 }

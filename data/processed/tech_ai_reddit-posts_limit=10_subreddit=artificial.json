@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
+      "author": "Eliv_nurotic",
+      "url": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
+      "published": 1794601947.0,
+      "thumbnail": "https://preview.redd.it/ydrml86wwf1i1.png?width=640&crop=smart&auto=webp&s=c25712a47ee08a94858a1edd31d06ea9f3281b78",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+    },
+    {
+      "title": "\"We are deeply sorry\" Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours \u2013 insists it wasn't AI that caused it",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/",
+      "published": 1794601400.0,
+      "thumbnail": "https://external-preview.redd.it/53xdW0GXkuPs1uANWMdY4vL7yZiDAutULEaK-DK17d0.jpeg?width=640&crop=smart&auto=webp&s=34c57f71d2397025b6d291757eb2b50d45c2c045",
+      "external_url": "https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it",
+      "site_name": "Windows Central",
+      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/equrc8bkhv1780316740.png",
+      "description": "The company blames a network upgrade which caused an outage across Microsoft 365, Outlook, Teams, OneDrive, and more."
+    },
+    {
       "title": "Former US AI Czar David Sacks says there\u2019s no evidence that Alice Huang was a Chinese Spy",
       "author": "Eliv_nurotic",
       "url": "https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/",
@@ -11,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "https://fixupx.com/DavidSacks/status/2121070881258504395 CNN article making the same argument https://fixupx.com/NatashaBertrand/status/2121009555303759969"
+    },
+    {
+      "title": "so are robots just chatbots with arms now?",
+      "author": "ironAtlasuy7",
+      "url": "https://www.reddit.com/r/artificial/comments/1xve0b0/so_are_robots_just_chatbots_with_arms_now/",
+      "published": 1794590897.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "every robot demo lately is an AI company saying their chatbot model can control a robot now. is that really all a robot is at this point, a chatbot with arms? or is there other stuff inside doing the hard part and the chatbot just gets the credit. i saw LingBot-Touch is a whole separate model just so the fingers can feel things, so it can't be that simple. genuinely confused how these things are put together"
     },
     {
       "title": "A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese people use AI in their day-to-day life, as many embrace the technology and the infrastructure behind it",
@@ -24,15 +57,26 @@
       "description": ">Experts cited by the Financial Times say data centers in China are built at about one-fifth of the costs incurred in the U.S., not least due to the much higher land and labor costs. Why is there such a big difference between support for data centers in China compared to the US? https://www.cbsnews.com/news/china-ai-data-center-boom-as-us-tech-firms-face-resistance/"
     },
     {
-      "title": "Korea's tax accountant exam top scorer is facing \"AI glasses\" suspicion with no evidence.",
-      "author": "meshive",
-      "url": "https://www.reddit.com/r/artificial/comments/1xv6aut/koreas_tax_accountant_exam_top_scorer_is_facing/",
-      "published": 1794571992.0,
+      "title": "This AI finds patterns in visual brain activity and turns them into pictures",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1xvissf/this_ai_finds_patterns_in_visual_brain_activity/",
+      "published": 1794601773.0,
+      "thumbnail": "https://external-preview.redd.it/1OUP9IvnXtCshk_NTBs5YpLHyn6l2sKbVqfo_Mmm2bY.jpeg?width=640&crop=smart&auto=webp&s=97a471c58e210c4362dc7774de9df1e9ddda0ae6",
+      "external_url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=app.dashsocial.com/live-science/library/media/746552371",
+      "site_name": "Live Science",
+      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/ze6kddeaxb1774625505.png",
+      "description": "\"An artificial intelligence (AI) tool can use brain scans to recreate the images people looked at with eerie accuracy. The system, called Brain-IT, uses data from functional magnetic resonance imaging (fMRI) to measure activity in the visual cortex, the part of the brain that processes visual input. A computer model then predicts both the broad layout of an image and high-level information about its content. It then passes those predictions to an AI image generator, researchers explained in a study uploaded to the preprint database arXiv. The research was presented at the ICLR 2026 conference, held April 23-25, and publicized by its authors in September.\" - Live Science"
+    },
+    {
+      "title": "Thinking Machines Lab releases Inkling 2 Small weights under Apache 2.0 \u2014 594B MoE, top open-weights model on DesignArena",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xvhgst/thinking_machines_lab_releases_inkling_2_small/",
+      "published": 1794598630.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "This is all over Korean news this week. The top scorer on Korea\u2019s tax accountant exam got 397.5/400 in the first round, 159 of 160 questions right. One of his perfect scores was in intro tax law, where the average across 16,856 candidates was 30.18/100 and 74.21% failed (under 40). You get roughly a minute per question. People online decided that\u2019s not humanly possible and started saying he wore AI smart glasses. There\u2019s no evidence. Neither of the two proctors reported anything, the exam agency says it\u2019s reviewing, and he says he just studied for two years and managed his time. The tax accountants\u2019 association asked for an investigation but also warned that unproven accusations could wreck his reputation. Source: https://www.koreaherald.com/article/10936587 What gets me is that there\u2019s no clean way out. If he\u2019s innocent, \u201cwe found nothing\u201d doesn\u2019t fully clear him. If someone does this for real someday, a proctor probably can\u2019t tell AI glasses from normal glasses anyway. So what should exams actually do? Ban glasses at the door? Use detectors? Or is the answer to stop testing stuff that a camera plus a model can answer in a minute?"
+      "description": "Thinking Machines Lab updated its Inkling 2 Small announcement yesterday (Nov 12): the model's weights are now downloadable on Hugging Face under an Apache 2.0 license, about a week after launch. The model initially shipped with closed weights on Tinker while external safety testing and red-teaming finished. The details: a 594B-parameter Mixture-of-Experts model with 17B active parameters, image inputs and variable effort. TML reports an Artificial Analysis Intelligence Index score of 31, with particular strength in agentic coding, vision and 3D design \u2014 it tops the open-weights ranking on DesignArena. It is also integrated with SGLang, vLLM and Unsloth, and available via API at NVIDIA, Fireworks, Together, Baseten, Nebius, Modal and Cloudflare. What interests me: TML explicitly followed a 'safe path to open weights' \u2014 closed launch first, open release after outside safety review. Do you think that staged approach should become the norm for frontier open-weights releases, or does a week of closed weights mostly just delay what the community would have stress-tested faster? And with 594B total params, how much does the Apache 2.0 license matter versus the compute needed to actually run it? Source: https://thinkingmachines.ai/news/inkling-2-small/"
     },
     {
       "title": "Why hasn\u2019t the unemployment rate gone up at all yet?",
@@ -46,71 +90,27 @@
       "description": "The unemployment rate is still at 4.1%. If AI is smart enough to solve millennium problem, why hasn\u2019t the unemployment rate gone up at all?"
     },
     {
-      "title": "Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/",
-      "published": 1794497184.0,
-      "thumbnail": "https://external-preview.redd.it/l8quDXsm83eIanPMpG8G-ToQ0vn8mLoSyhyIDU8kTzY.jpeg?width=640&crop=smart&auto=webp&s=93b12575480cc9a20ef0c57dc899d05da7b3188c",
-      "external_url": "https://www.scientificamerican.com/article/jensen-huang-leaving-nvidia-risks-a-brain-drain-from-the-ai-chipmaker/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "Nvidia\u2019s chips power the AI frontier\u2014thanks, many say, to co-founder and now ex-CEO Jensen Huang"
-    },
-    {
-      "title": "Technology flags, people verify, governments decide. Is that the right split for AI in public services?",
-      "author": "TedTheTalk",
-      "url": "https://www.reddit.com/r/artificial/comments/1xv59ne/technology_flags_people_verify_governments_decide/",
-      "published": 1794568715.0,
+      "title": "Korea's tax accountant exam top scorer is facing \"AI glasses\" suspicion with no evidence.",
+      "author": "meshive",
+      "url": "https://www.reddit.com/r/artificial/comments/1xv6aut/koreas_tax_accountant_exam_top_scorer_is_facing/",
+      "published": 1794571992.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Debates about AI in government services usually swing between two extremes: \u201cautomate everything\u201d and \u201cnever let a machine near it.\u201d The more useful question is where exactly the line should sit. One clear answer came from BLS International, which handles visa and consular services for governments in 100+ countries and has processed over 500 million applications. When it announced its AI document-verification integration with Signzy in October, it described its operating model in three steps: Technology flags. People verify. Governments decide. It\u2019s a simple framework, and it holds up well when you apply it stage by stage. What technology should do: flag Spot anomalies in documents, such as edited bank statements, altered photos or AI-generated material Check completeness and format before a human ever opens the file Prioritise the queue so reviewers spend their time on the cases that need it Machines are fast, consistent and don\u2019t get tired at 5 pm. This is where they add the most value with the least risk. What people should do: verify Review every flagged case before anything happens to the application Use context a model can\u2019t see, like a genuine document from an unusual issuing office Overrule the system when it\u2019s wrong This is the accountability layer. A flag is a prompt for a human to look, not a verdict. What governments should do: decide Make the final call on every visa Set the rules the technology and reviewers work within Stay answerable to applicants for the outcome Keeping the decision with the authority that is legally accountable is what makes the whole system trustworthy. Why this split works It puts each part where it\u2019s strongest. AI handles scale and pattern detection, humans handle judgment, and governments keep authority. Accountability is never handed to an algorithm, and applicants still benefit from faster, more consistent checks. BLS International pairs this with an ISO 27001-certified, CMMI Level 5 setup, which also addresses the data-security side. What\u2019s still worth discussing How do you make sure human review stays meaningful at high volume, rather than becoming a rubber stamp? Question for the sub: Which decisions in public services should never be left entirely to an automated system? And is \u201cflag, verify, decide\u201d a model other sectors, like banking KYC or immigration, should adopt too?"
+      "description": "This is all over Korean news this week. The top scorer on Korea\u2019s tax accountant exam got 397.5/400 in the first round, 159 of 160 questions right. One of his perfect scores was in intro tax law, where the average across 16,856 candidates was 30.18/100 and 74.21% failed (under 40). You get roughly a minute per question. People online decided that\u2019s not humanly possible and started saying he wore AI smart glasses. There\u2019s no evidence. Neither of the two proctors reported anything, the exam agency says it\u2019s reviewing, and he says he just studied for two years and managed his time. The tax accountants\u2019 association asked for an investigation but also warned that unproven accusations could wreck his reputation. Source: https://www.koreaherald.com/article/10936587 What gets me is that there\u2019s no clean way out. If he\u2019s innocent, \u201cwe found nothing\u201d doesn\u2019t fully clear him. If someone does this for real someday, a proctor probably can\u2019t tell AI glasses from normal glasses anyway. So what should exams actually do? Ban glasses at the door? Use detectors? Or is the answer to stop testing stuff that a camera plus a model can answer in a minute?"
     },
     {
-      "title": "Entre ChatGptPro | GeminiPro | CloudePro",
-      "author": "Deep-Emotion-2089",
-      "url": "https://www.reddit.com/r/artificial/comments/1xv8yck/entre_chatgptpro_geminipro_cloudepro/",
-      "published": 1794579204.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Cu\u00e1l de los 3 me recomiendan para generar un plan de contenido para Instagram y redes sociales? \u00bfCu\u00e1l creen que es la mejor forma de generar el promt? Muchas gracias Saludos"
-    },
-    {
-      "title": "After Democrats\u2019 midterm wins, Palantir CEO Alex Karp now says he\u2019s a \u2018progressive\u2019",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xu453q/after_democrats_midterm_wins_palantir_ceo_alex/",
-      "published": 1794460194.0,
-      "thumbnail": "https://external-preview.redd.it/g3XrQW53Njbfa6o3cM81OVIClTNezs25QJiryFrrf88.jpeg?width=640&crop=smart&auto=webp&s=f648f7336668a41be2694450a2373847dee0d14e",
-      "external_url": "https://www.washingtonpost.com/technology/2026/11/11/after-democrats-midterm-wins-palantir-ceo-alex-karp-now-says-hes-progressive/",
-      "site_name": "The Washington Post",
-      "favicon": "https://www.washingtonpost.com/favicon.ico",
-      "description": "Alex Karp, the chief executive of Palantir, said Wednesday he's a staunch liberal, a seeming departure from his position during the Trump administration."
-    },
-    {
-      "title": "Anthropic says it has met its own threshold for AI-accelerated AI research \u2014 days before its IPO",
-      "author": "winer666",
-      "url": "https://www.reddit.com/r/artificial/comments/1xuo0rf/anthropic_says_it_has_met_its_own_threshold_for/",
-      "published": 1794515907.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "In its amended IPO filing on Tuesday (Nov 10), Anthropic said it has determined it met the 'research acceleration threshold' in its Responsible Scaling Policy \u2014 the point where AI assistance is expected to roughly double the pace of AI capability gains. The company stressed the judgment rests on expectations about future models and the overall pace of progress, not on demonstrated capabilities of current systems, and said it is still assessing the data and will publish further reports. Independent evaluator METR estimated Anthropic's progress on defined capability tests has run at about 1.9x its earlier pace since October 2025, while cautioning its estimates are highly uncertain. What interests me: meeting the threshold is meant to trigger stronger safeguards, not a halt \u2014 but Anthropic also warned faster development could outpace its ability to validate safety measures. With the IPO pricing expected next week, do you think a self-reported threshold like this is a meaningful safety signal, or mostly a disclosure exercise? And what would independent verification even look like here?"
-    },
-    {
-      "title": "Anybody have any idea what model \"Pumpkin Wombat\" is? I've been seeing it a lot on arena.ai and it's very impressive at image editing.",
-      "author": "Earthling_Aprill",
-      "url": "https://www.reddit.com/r/artificial/comments/1xv0zh4/anybody_have_any_idea_what_model_pumpkin_wombat/",
-      "published": 1794552817.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "See title."
+      "title": "CutGPT is now giving users $1 just to sign up",
+      "author": "thepillowco",
+      "url": "https://www.reddit.com/r/artificial/comments/1xvjotn/cutgpt_is_now_giving_users_1_just_to_sign_up/",
+      "published": 1794603854.0,
+      "thumbnail": "https://external-preview.redd.it/fYoSTrJn23GQWvyUvE7MTpsEgMRIWZW7zfaNoOJ85us.png?width=640&crop=smart&auto=webp&s=900ac42ad199cda4cf486165bb7ab5e409a850f0",
+      "external_url": "https://www.linkedin.com/pulse/cutgpts-1-sign-up-bonus-how-works-make-money-ai-cutgpt-u2lye/?trackingId=Rzb8ehgQqmtezrSKiAR%2BNQ%3D%3D",
+      "site_name": "linkedin.com",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "Anyone else see this? This free AI app is now giving users $1 just to sign up. Has anyone looked into this?"
     }
   ],
-  "fetched_at": "2026-11-13T14:48:16.303833+00:00"
+  "fetched_at": "2026-11-13T21:13:21.570535+00:00"
 }
