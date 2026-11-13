@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-12T23:59:18.923024+00:00'
+updated: '2026-11-13T06:23:57.817396+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 12, 2026 at 23:59 UTC  
+**Last Updated:** November 13, 2026 at 06:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,250.00
+### $68,295.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** -5.8%  
-**30d:** -12.6%  
-**90d:** +13.2%  
-**1y:** -28.5%  
+**24h:** -6.8%  
+**7d:** -9.5%  
+**30d:** -16.5%  
+**90d:** +9.2%  
+**1y:** -27.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1435.53B
+**Market Cap:** $1376.50B
 Rank #1
 
 **Circulating Supply:** 20,111,231 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--43.4%
+-45.7%
 
 **All-Time Low:** $67.81
-+105139.6%
++100827.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 28
-**FEAR**
+### 20
+**EXTREME FEAR**
 
 ---
 
@@ -99,7 +99,7 @@ The miner heats water to 60°C for the radiators and underfloor heating in a 180
 
 **[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1xs9tbj/buy_bitcoin/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -137,7 +137,7 @@ The world is on fire, and we're all still at the table yelling at a chart at 3 A
 
 I seen that cashapp is offering a 2 percent weekly bonus payout for leaving bitcoin on their app. Has anyone done this yet and what are your thoughts on it?
 
-2d ago
+3d ago
 
 ---
 
@@ -153,15 +153,15 @@ Prepare for what's coming. Put in the work to understand bitcoin.
 
 ## Google News: "bitcoin"
 
-**[Index Provider MSCI Removes Strategy From Equity Benchmark](https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark)**
+**[Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)**
 
-Bloomberg.com • 2h ago
+WSJ • 20h ago
 
 ---
 
-**[Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)**
+**[Index Provider MSCI Removes Strategy From Equity Benchmark](https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark)**
 
-WSJ • 14h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -169,55 +169,55 @@ WSJ • 14h ago
 
 MSTR stock slid and the bitcoin price underperformed gold after MSCI decided to boot Strategy and crypto holding companies from its indexes.
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 15h ago
 
 ---
 
-**[Power Landlords Are Highlighting Bitcoin Mining Roots During AI Rout](https://www.bloomberg.com/news/newsletters/2026-11-12/power-landlords-are-highlighting-bitcoin-mining-roots-during-ai-rout)**
+**[BTC news: Prices slip below $70K, triggering $1.2 billion in liquidations](https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace)**
 
-Bloomberg.com • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **['Fast Money' traders discuss if a bitcoin rebound is on the horizon](https://www.cnbc.com/video/2026/11/12/fast-money-traders-discuss-if-a-bitcoin-rebound-is-on-the-horizon.html)**
 
-CNBC • 56m ago
+CNBC • 7h ago
 
 ---
 
-**[How Much Does a Bitcoin ATM Charge You to Buy $100 of Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/much-does-bitcoin-atm-charge-223756128.html)**
+**[Bitcoin Retreats as Nvidia Turmoil Weighs on Risk Appetite](https://www.bloomberg.com/news/articles/2026-11-12/bitcoin-retreats-as-nvidia-turmoil-weighs-on-risk-appetite)**
 
-One reporter fed a crypto kiosk a $20 bill and walked away with far less Bitcoin than expected. Before you hand cash to one of these machines, see which hidden charges take the biggest bite and what cheaper routes exist.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Serious Fed Warning Triggers ‘Significant’ Bitcoin Price Flip](https://www.forbes.com/sites/digital-assets/2026/11/12/serious-fed-warning-triggers-significant-bitcoin-price-flip/)**
+**[Bitcoin Fell to $71,800 After Nvidia CEO Jensen Huang Resigned. Is That Why BTC Hit Its Lowest Price Since August?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-fell-71-800-nvidia-162911727.html)**
 
-Forbes • 11h ago
+Bitcoin was already sliding for weeks when NVIDIA's CEO walked out the door. Between ETF outflows, shrinking stablecoin supply, and a surprising miner link to AI, the real culprit may be hiding in plain sight.
+
+Yahoo Finance • 13h ago
 
 ---
 
 **[Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge](https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets)**
 
-CoinDesk • 5h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Democrats Win Sweeping Control of Congress. Here's 1 Cryptocurrency to Buy and 1 Cryptocurrency to Sell.](https://www.fool.com/investing/2026/11/12/democrats-win-sweeping-control-of-congress-heres-1/)**
+**[Current price of Bitcoin for November 12, 2026](https://fortune.com/article/price-of-bitcoin-11-12-2026/)**
 
-Bitcoin is still worth buying, but XRP could stay in the penalty box.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-The Motley Fool • 5h ago
+Fortune • 18h ago
 
 ---
 
-**[Bitcoin Price Breaks Below $72K as $656M Liquidation Bloodbath Hits Crypto](https://news.bitcoin.com/market-updates/bitcoin-price-breaks-below-72k-656m-liquidation-bloodbath/)**
+**[Bitcoin plunges below $70,000 as liquidations reach $622M](https://www.tradingview.com/news/cryptobriefing:998c289d5094b:0-bitcoin-plunges-below-70-000-as-liquidations-reach-622m/)**
 
-Bitcoin falls below $72,000 on Nov. 12 as $656 million in crypto derivatives positions are liquidated amid mounting selling pressure.
+Bitcoin slipped under $70,000, and the traders who borrowed to bet on it going higher paid for it. Crypto liquidations hit $622 million in a span of just four hours.The drop sent Bitcoin to an intraday low of $68,943 on November 13, 2026. It later steadied around $69,297, leaving it down 6% over 24…
 
-Bitcoin News • 4h ago
+TradingView • 2h ago
 
 ---
 
@@ -259,7 +259,7 @@ A deep dive into Starlight — the decentralized AI app store where wishes are s
 
 Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32, cpuminer). Every share&#39;s difficulty in real time, records with confetti and siren, pool failover, luck meter. Z...
 
-⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/Modanez/HomeMinerProxy)
+⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/Modanez/HomeMinerProxy)
 
 ---
 
@@ -271,7 +271,15 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 **[Strategy to Be Dropped from MSCI Indexes After New Eligibility Rules](https://news.ycombinator.com/item?id=50469437)**
 
-⬆️ 1 • 💬 0 • 8h ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
+⬆️ 1 • 💬 0 • 14h ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
+
+---
+
+**[Web-based tools in one place](https://news.ycombinator.com/item?id=50451750)**
+
+The one tool for it all. Image, Video, Audio & Code Tools and others. Convert (JPG to PNG, PDF to JPG, SVG to PNG, WEBP to JPG) | Compress image | Combine PDF | Clean metadata | Create a signature | Convert Audio | Create GIF | Code snippet tool
+
+⬆️ 2 • 💬 3 • 1d ago • [BC Tools](https://bitcrunching.com/)
 
 ---
 
@@ -279,7 +287,13 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 Fusee is an open-source durable execution engine for Rust, TypeScript, Python, Go and Java. Workflows are ordinary async code, and each step costs about one disk write.
 
-⬆️ 1 • 💬 0 • 2h ago • [The Bits Infrastructure Company](https://www.bitsinfra.com/fusee)
+⬆️ 1 • 💬 0 • 8h ago • [The Bits Infrastructure Company](https://www.bitsinfra.com/fusee)
+
+---
+
+**[Why Does Pitching Integrators Feel Like a One-Way Street?](https://news.ycombinator.com/item?id=50478476)**
+
+⬆️ 2 • 💬 0 • 1h ago • [deploy95.substack.com](https://deploy95.substack.com/p/why-does-pitching-integrators-feel)
 
 ---
 
@@ -287,33 +301,43 @@ Fusee is an open-source durable execution engine for Rust, TypeScript, Python, G
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Is Below $70K Again (My Plan)](https://www.youtube.com/watch?v=5aSvQFlsUEM)**
+
+Welcome back to the channel! ➡️ Trade on BTCC & 10% deposit bonus: https://aaronbtc.com/trade ➡️ Trezor: ...
+
+📺 Aaron Bennett
+
+👁️ 4K • 👍 231 • 💬 61 • ⏱️ 10:29 • 2h ago
+
+---
+
+**[Emergency Alert. CRYPTO Crashes HARD! &quot;$1.3 Billion Wiped Out!&quot;](https://www.youtube.com/watch?v=SIOFKGwai8s)**
+
+This Bitcoin crash is the dip I've been warning about since September, and 49 days later BTC is finally testing the higher-low ...
+
+📺 Crypto Capital Venture
+
+👁️ 4K • 👍 341 • 💬 43 • ⏱️ 43:38 • 1h ago
+
+---
+
 **[Bitcoin Q4 Dump Came Just the Same](https://www.youtube.com/watch?v=QcJlPjcOZjw)**
 
 Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 320 • ⏱️ 13:26 • 4h ago
+👁️ 128K • 👍 6K • 💬 437 • ⏱️ 13:26 • 11h ago
 
 ---
 
-**[Bitcoin Is Up Only 6% in 5 Years! Is It Over?!](https://www.youtube.com/watch?v=Noq6txZU91c)**
+**[NVIDIA CEO RESIGNS?! Bitcoin Sinks As $14B In Stablecoins Vanish](https://www.youtube.com/watch?v=oPq2AxVzdWM)**
 
-Bitcoin is up just 6% in five years from its $69000 peak, and Rustin explains why he thinks that sets up the next run. He plays ...
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play FPS Frontline ...
 
-📺 Simply Bitcoin
+📺 CryptosRus Extra
 
-👁️ 42K • 👍 2K • 💬 130 • ⏱️ 12:04 • 1d ago
-
----
-
-**[Fresh Signs of DANGER for Bitcoin (here’s why)](https://www.youtube.com/watch?v=1VnFv-48pSo)**
-
-Fresh signs of danger for bitcoin have reappeared. Benjamin Cowen and Alessio Rastani discuss the chart of bitcoin and the ...
-
-📺 Alessio Rastani
-
-👁️ 25K • 👍 1K • 💬 104 • ⏱️ 12:28 • 7h ago
+👁️ 4K • 👍 130 • 💬 73 • ⏱️ 8:09 • 5h ago
 
 ---
 
@@ -323,67 +347,57 @@ Challenged on why two or three down years would matter for Bitcoin when gold and
 
 📺 Bitcoin Magazine
 
-👁️ 1K • 👍 19 • 💬 17 • ⏱️ 20:10 • 3h ago
+👁️ 6K • 👍 50 • 💬 41 • ⏱️ 20:10 • 10h ago
 
 ---
 
-**[Bitcoin&#39;s BIGGEST LIE (Strategy Crash INCOMING?)](https://www.youtube.com/watch?v=MpsREVhAS2k)**
+**[🚨BITCOIN IS CRASHING- EMERGENCY STREAM](https://www.youtube.com/watch?v=gJ3zE8vxaWw)**
 
-Trade at Bitbase - https://www.bitbase.com/en/accounts/invite/JWPE3H Join Skool Community ...
+Bitcoin is below 70k. What now?!?! Get 20% deposit bonus with BTCC ...
 
-📺 Discover Crypto
+📺 Sin City Crypto
 
-👁️ 14K • 👍 180 • 💬 67 • ⏱️ 9:22 • 1d ago
+👁️ 5K • 👍 229 • ⏱️ 2:16:51 • 22m ago
 
 ---
 
-**[Was Nvidia’s CEO Taken Out? The Bitcoin Link No One Is Talking About!](https://www.youtube.com/watch?v=BS0XC_tixa8)**
+**[BITCOIN - WE NEED TO TALK](https://www.youtube.com/watch?v=fCa2_o8GNT0)**
 
-NVIDIA CEO Jensen Huang is out, NVIDIA stock is crashing, and Bitcoin is falling with it. But was Huang's sudden exit really just a ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 9K • 👍 264 • 💬 32 • ⏱️ 10:18 • 9h ago
+
+---
+
+**[Bitcoin Crash: The Cycle Is Repeating (and how BTC can be saved)](https://www.youtube.com/watch?v=aNNrh4GJGuA)**
+
+The Investor Accelerator Membership HUGE BLACK FRIDAY SALE → https://tiainvestor.com/black-friday/ ------------- Are you ...
+
+📺 Jason Pizzino
+
+👁️ 8K • 👍 378 • 💬 54 • ⏱️ 25:43 • 3h ago
+
+---
+
+**[Bitcoin Is Up Only 6% in 5 Years! Is It Over?!](https://www.youtube.com/watch?v=Noq6txZU91c)**
+
+Bitcoin is up just 6% in five years from its $69000 peak, and Rustin explains why he thinks that sets up the next run. He plays ...
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 508 • 💬 37 • ⏱️ 17:12 • 1h ago
+👁️ 45K • 👍 2K • 💬 133 • ⏱️ 12:04 • 1d ago
 
 ---
 
-**[Bitcoin Sinks as NVIDIA CEO Resigns](https://www.youtube.com/watch?v=jMn1ru5Gcuo)**
+**[Bitcoin Breaking Down! Fibonacci Support Levels for BTC, ETH, SOL, and HYPE](https://www.youtube.com/watch?v=0lbcy9GhswA)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
+Bitcoin is losing a key support level, and crypto is getting oversold. Pro Trader Drew Dosek uses Fibonacci retracements, parallel ...
 
-📺 CryptosRUs
+📺 Verified Investing
 
-👁️ 25K • 👍 704 • 💬 54 • ⏱️ 50:28 • 8h ago
-
----
-
-**[Bitcoin $72K Liquidation Flush: Is the Bottom In?](https://www.youtube.com/watch?v=9qlwcqHPCzU)**
-
-Bitcoin just swept the liquidation level I showed you on the heatmap, leveraged longs got wiped out, and I am still in my Bitcoin ...
-
-📺 VirtualBacon
-
-👁️ 21K • 👍 485 • 💬 88 • ⏱️ 47:14 • 8h ago
-
----
-
-**[Is The Bitcoin Investment Thesis Now Dead!?!?!  Strategy / MetaPlanet DELISTED!! No Again Jensen...](https://www.youtube.com/watch?v=F4romS2F_M4)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the team as a producer: ...
-
-📺 AllinCrypto
-
-👁️ 11K • 👍 412 • 💬 52 • ⏱️ 12:09 • 10h ago
-
----
-
-**[Bitcoin Falls Below the 50W Moving Average](https://www.youtube.com/watch?v=j-JVi02_C88)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 175K • 👍 5K • 💬 184 • ⏱️ 18:44 • 1d ago
+👁️ 11K • 👍 265 • 💬 6 • ⏱️ 9:21 • 9h ago
 
 ---
 
