@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-13T21:13:52.293545+00:00'
+updated: '2026-11-14T01:36:30.646372+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 13, 2026 at 21:13 UTC  
+**Last Updated:** November 14, 2026 at 01:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** -13.4%  
-**30d:** -20.6%  
-**90d:** +3.4%  
-**1y:** -37.6%  
+**24h:** -3.1%  
+**7d:** -9.2%  
+**30d:** -20.3%  
+**90d:** +0.9%  
+**1y:** -39.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $236.81B
+**Market Cap:** $235.58B
 Rank #2
 
 **Circulating Supply:** 122,215,669 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.8%
+-61.0%
 
 **All-Time Low:** $0.43
-+447418.2%
++445080.9%
 
 ---
 
@@ -88,7 +88,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 1d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 2d ago
 
 ---
 
@@ -150,31 +150,47 @@ A court filing last week provided the missing pieces explaining the Ethereum Fou
 
 ## Google News: "ethereum"
 
-**[What Will Bitcoin and Ethereum Be Worth in 5 Years?](https://247wallst.com/investing/cryptocurrency/2026/11/11/what-will-bitcoin-and-ethereum-be-worth-in-5-years/)**
+**[What Will Bitcoin and Ethereum Be Worth in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-worth-5-years-173406465.html)**
 
-Forecasts put Bitcoin at $166,000 to $1.2 million by 2030 or 2031. Here's what Bitcoin and Ethereum could be worth in 5 years.
+Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?
 
-24/7 Wall St. • 2d ago
-
----
-
-**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html)**
-
-Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data.
-
-Yahoo Finance • 19h ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy](https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy)**
 
-CoinDesk • 14h ago
+CoinDesk • 18h ago
 
 ---
 
-**[Most large cryptocurrencies decline on Bitcoin, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decline-on-bitcoin-ethereum-drops-d61b89f0-c3eb49fad404)**
+**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/)**
 
-MarketWatch • 6h ago
+BeInCrypto • 12h ago
+
+---
+
+**[Bitcoin ETFs Face $1B Exodus As Ethereum, Solana Funds Bleed: Is Institutional Crypto Demand Cracking?](https://www.tradingview.com/news/benzinga:5528d17bc094b:0-bitcoin-etfs-face-1b-exodus-as-ethereum-solana-funds-bleed-is-institutional-crypto-demand-cracking/)**
+
+U.S. spot crypto ETFs suffered a broad-based exodus in the five trading days ended Nov. 10, with all six tracked asset groups recording net outflows totaling $1.48 billion, raising fresh questions about investor confidence amid a sharp cryptocurrency market downturn.Bitcoin CRYPTO:BTCUSD ETFs bore…
+
+TradingView • 7h ago
+
+---
+
+**[Ethereum unveils quantum-safe accounts, with a costly catch](https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/)**
+
+Ethereum researchers propose quantum-resistant accounts by 2027, with higher transaction costs until scaling upgrades arrive.
+
+CryptoSlate • 19h ago
+
+---
+
+**[Current price of Ethereum for November 13, 2026](https://fortune.com/article/price-of-ethereum-11-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 11h ago
 
 ---
 
@@ -186,22 +202,6 @@ Mashable • 2d ago
 
 ---
 
-**[Ethereum unveils quantum-safe accounts, with a costly catch](https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/)**
-
-Ethereum researchers propose quantum-resistant accounts by 2027, with higher transaction costs until scaling upgrades arrive.
-
-CryptoSlate • 14h ago
-
----
-
-**[Current price of Ethereum for November 13, 2026](https://fortune.com/article/price-of-ethereum-11-13-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 7h ago
-
----
-
 **[Foundation Launches Universal Ethereum Signer in Beta, First on Passport Hardware](https://markets.businessinsider.com/news/stocks/foundation-launches-universal-ethereum-signer-in-beta-first-on-passport-hardware-1036756205)**
 
 BOSTON, Nov.  12, 2026  (GLOBE NEWSWIRE) -- Developed by Ledger cofounder Nicolas Bacca, the app runs on KeyOS, Foundation's open source operating...
@@ -210,19 +210,17 @@ markets.businessinsider.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Crack as Trump Says 'We Don't Need a Deal With Iran': Analyst Warns BTC's Correction Could Deepen](https://www.tradingview.com/news/benzinga:2ee55bd2d094b:0-bitcoin-ethereum-xrp-dogecoin-crack-as-trump-says-we-don-t-need-a-deal-with-iran-analyst-warns-btc-s-correction-could-deepen/)**
+**[Most large cryptocurrencies decline on Bitcoin, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decline-on-bitcoin-ethereum-drops-d61b89f0-c3eb49fad404)**
 
-Leading cryptocurrencies plunged deeper on Thursday as investors weighed President Donald Trump’s latest remarks on Iran.Crypto Market TumblesBitcoin fell below $71,000 for the first time in nearly three months, while Ethereum slipped below $2,000 as major cryptocurrencies faced heavy selling press…
-
-TradingView • 19h ago
+MarketWatch • 10h ago
 
 ---
 
-**[This 1 Important Signal Is Now Flashing Red for Ethereum. That's Why I'm Selling ETH Right Now.](https://www.fool.com/investing/2026/11/12/this-1-important-signal-is-now-flashing-redgreen-f/)**
+**[How Ethereum staking hit a record 36.3% despite ETH’s price drop](https://ambcrypto.com/how-ethereum-staking-hit-a-record-36-3-despite-eths-price-drop/)**
 
-Until Ethereum ETF inflows return, it may be time to look elsewhere for upside.
+More than one-third of Ethereum's circulating supply is now staked.
 
-The Motley Fool • 1d ago
+AMBCrypto • 23h ago
 
 ---
 
@@ -230,23 +228,23 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Crypto Collapse: Why I’m Buying $67,000 Bitcoin - Technical Analysis (BTC, ETH, ZEC, SOL, HYPE)](https://www.youtube.com/watch?v=fUZh_SYMpjA)**
+
+No B.S. Just Charts. Bitcoin and the crypto market are in collapse mode after Bitcoin broke $75500, and Gareth Soloway shows ...
+
+📺 Gareth Soloway
+
+👁️ 54K • 👍 2K • 💬 152 • ⏱️ 11:18 • 6h ago
+
+---
+
 **[Ethereum’s Use Case Is Fading (Coinbase Analyst)](https://www.youtube.com/watch?v=udWRxduO4vc)**
 
 Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Coinbase quant ...
 
 📺 Lark Davis
 
-👁️ 9K • 👍 118 • 💬 24 • ⏱️ 12:35 • 1d ago
-
----
-
-**[Bitwise: The NYSE Just Picked Avalanche. Is Ethereum in Trouble?](https://www.youtube.com/watch?v=k7bVZQk_n9k)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 891 • 👍 72 • 💬 73 • ⏱️ 43:51 • 1h ago
+👁️ 9K • 👍 122 • 💬 25 • ⏱️ 12:35 • 1d ago
 
 ---
 
@@ -256,7 +254,37 @@ Jamie Dimon called Bitcoin a fraud. Then JPMorgan put its own dollar on Ethereum
 
 📺 Dana Love, PhD
 
-👁️ 23K • 👍 386 • 💬 59 • ⏱️ 19:35 • 2d ago
+👁️ 23K • 👍 388 • 💬 59 • ⏱️ 19:35 • 2d ago
+
+---
+
+**[BUYING NOW LIVE 🚨 BITCOIN XRP ETHEREUM ‼️](https://www.youtube.com/watch?v=uMi7unJD7go)**
+
+1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
+
+📺 Crypto Moe
+
+👁️ 421 • 👍 51 • 💬 3 • ⏱️ 11:27 • 2h ago
+
+---
+
+**[BITCOIN CRASH TO (almost) $67K... This is Coming Next!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YQAvXTvnsoA)**
+
+BITCOIN CRASH TO (almost) $67K... This is Coming Next!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 182 • 💬 29 • ⏱️ 28:12 • 4h ago
+
+---
+
+**[Ethereum Is Collapsing: Is $1,910 the Bottom?](https://www.youtube.com/watch?v=atgrpjS90xQ)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 149 • 💬 11 • ⏱️ 10:03 • 6h ago
 
 ---
 
@@ -266,57 +294,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bCR7dFhS My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 4K • 👍 31 • 💬 14 • ⏱️ 8:43 • 1d ago
+👁️ 4K • 👍 32 • 💬 14 • ⏱️ 8:43 • 1d ago
 
 ---
 
-**[Ethereum’s Vitalik Just Killed Ultrasound Money](https://www.youtube.com/watch?v=c0_agF2_9IQ)**
+**[Bitwise: The NYSE Just Picked Avalanche. Is Ethereum in Trouble?](https://www.youtube.com/watch?v=k7bVZQk_n9k)**
 
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Lark Davis
+📺 Milk Road
 
-👁️ 17K • 👍 235 • 💬 36 • ⏱️ 10:11 • 2d ago
-
----
-
-**[Ethereum Price Prediction: ETH Breaks $2,000 — Is a Deeper Crash Coming?](https://www.youtube.com/watch?v=tSJU1UpWDxU)**
-
-Ethereum (ETH) has broken below $2000, erasing its August rally gains as extreme fear grips the crypto market. Ethereum ETFs ...
-
-📺 FXEmpire
-
-👁️ 149 • ⏱️ 5:53 • 6h ago
-
----
-
-**[Ethereum Just Dipped Into the Target Zone. Is the Low Close?](https://www.youtube.com/watch?v=fhZpdHv2Bww)**
-
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
-
-📺 More Crypto Online
-
-👁️ 10K • 👍 198 • 💬 10 • ⏱️ 8:00 • 1d ago
-
----
-
-**[Cathie Wood :&quot;Why I&#39;m Loading Up MASSIVELY on These Cryptocurrencies Before December&quot;](https://www.youtube.com/watch?v=peRmG4bx_gg)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 11K • 👍 207 • 💬 26 • ⏱️ 22:37 • 16h ago
-
----
-
-**[Ethereum Crashed to $1,896.. and My Long FILLED!!](https://www.youtube.com/watch?v=Q7VnoRZ0CjU)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v114 Ethereum (ETH) just crashed to its ...
-
-📺 Marzell Crypto
-
-👁️ 202 • 👍 8 • 💬 2 • ⏱️ 3:11 • 9h ago
+👁️ 7K • 👍 199 • 💬 105 • ⏱️ 43:51 • 5h ago
 
 ---
 
@@ -326,7 +314,17 @@ Banks are collapsing, debt levels are higher than ever and it looks like we migh
 
 📺 The Modern Investor
 
-👁️ 9K • 👍 711 • 💬 200 • ⏱️ 30:47 • 1d ago
+👁️ 9K • 👍 715 • 💬 205 • ⏱️ 30:47 • 1d ago
+
+---
+
+**[The EXACT Dates To Sell Your Bitcoin &amp; Crypto (Best 2026 Guide) Ft. Tom Lee](https://www.youtube.com/watch?v=ZntCDyunUZc)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 2K • 👍 39 • 💬 30 • ⏱️ 22:38 • 9h ago
 
 ---
 

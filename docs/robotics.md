@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-13T21:13:52.295850+00:00'
+updated: '2026-11-14T01:36:30.648504+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 13, 2026 at 21:13 UTC  
+**Last Updated:** November 14, 2026 at 01:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Después de un accidente se han vuelto a construir las piernas. Está vez con en
 
 I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
 
-8d ago
+9d ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi guys, I need help. I'm trying to make my first autonomous navigating robot wi
 
 Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
 
-9d ago
+10d ago
 
 ---
 
@@ -120,21 +120,15 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
 
-Fortune • 4h ago
+Fortune • 8h ago
 
 ---
 
-**[Gemini Robotics 2.5: Accelerating Physical Intelligence](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)**
+**[Eric Trump-partnered Robotics CEO addresses 'Terminator' fears as he sends combat humanoids into warzones](https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones)**
 
-Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
+Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone.
 
-Google DeepMind • 3d ago
-
----
-
-**[Nvidia's supply chain investments include autonomous trucking and industrial robotics](https://www.axios.com/pro/supply-chain-deals/2026/11/13/nvidia-supply-chain-autonomous-trucking-industrial-robotics)**
-
-Axios • 18m ago
+Fox News • 6h ago
 
 ---
 
@@ -156,15 +150,21 @@ WIRED • 2d ago
 
 The sudden 10% drop in Nvidia after Jensen Huang’s resignation has shaken confidence in pure software and AI chip stories, pushing attention toward companies that put robotics into real world factories, warehouses, and infrastructure. That shift in focus creates urgency for investors who do not want physical automation to rerate without them. This article walks through three leading robotics and automation stocks from our screener and what sets each one apart. These three robotics and...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Eric Trump-partnered Robotics CEO addresses 'Terminator' fears as he sends combat humanoids into warzones](https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones)**
+**[Nvidia's supply chain investments include autonomous trucking and industrial robotics](https://www.axios.com/pro/supply-chain-deals/2026/11/13/nvidia-supply-chain-autonomous-trucking-industrial-robotics)**
 
-Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone.
+Axios • 4h ago
 
-Fox News • 1h ago
+---
+
+**[Gemini Robotics 2.5: Accelerating Physical Intelligence](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)**
+
+Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
+
+Google DeepMind • 3d ago
 
 ---
 
@@ -172,7 +172,7 @@ Fox News • 1h ago
 
 The future of defense is autonomous, and Kraken Robotics is helping fill this demand.
 
-The Motley Fool • 14h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -188,7 +188,7 @@ CSET | Center for Security and Emerging Technology • 2d ago
 
 She treats chatbots and humanoid machines with so much kindness. I’m trying to make her stop.
 
-The Cut • 9h ago
+The Cut • 13h ago
 
 ---
 
@@ -202,7 +202,17 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 213K • 👍 3K • 💬 139 • ⏱️ 8:25 • 4d ago
+👁️ 216K • 👍 3K • 💬 139 • ⏱️ 8:25 • 4d ago
+
+---
+
+**[Best Robot Vacuums and Mops of 2026 – After Testing 200+ Robots](https://www.youtube.com/watch?v=9A8zcyk2UVU)**
+
+Roborock Qrevo Edge 3 Pro at Amazon: https://geni.us/X2j3 Narwal Freo 20 at Amazon: https://geni.us/cAWOxEI Dreame L60 Pro ...
+
+📺 Vacuum Wars
+
+👁️ 4K • 👍 132 • 💬 44 • ⏱️ 9:09 • 4h ago
 
 ---
 
@@ -222,27 +232,7 @@ This work was supported by the Alfred P. Sloan Foundation, enhancing public unde
 
 📺 Jeremy Fielding
 
-👁️ 75K • 👍 2K • 💬 203 • ⏱️ 53:28 • 20h ago
-
----
-
-**[Race Car Suspension Meets Field Robotics | SCOUT 2.0 Off-Road Mobile Robot](https://www.youtube.com/watch?v=MI86azwKTBM)**
-
-What helps a supercar stay composed through corners can also help a robot tackle rough terrain. SCOUT 2.0 features ...
-
-📺 AgileX Robotics
-
-👁️ 2K • 👍 12 • ⏱️ 0:23 • 3d ago
-
----
-
-**[Was it worth the wait? Mannis New R-BOMB [War Robots]](https://www.youtube.com/watch?v=Qsi3sTDZcI0)**
-
-War Robots Gameplay: UE Ravana with UE Vortex - FINALLY! After such a long wait - was it worth it? My War Robots Creator ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 468 • 💬 98 • ⏱️ 18:18 • 6h ago
+👁️ 84K • 👍 2K • 💬 227 • ⏱️ 53:28 • 1d ago
 
 ---
 
@@ -252,7 +242,17 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The AI Nexus
 
-👁️ 41K • 👍 462 • 💬 63 • ⏱️ 15:41 • 3d ago
+👁️ 41K • 👍 466 • 💬 63 • ⏱️ 15:41 • 3d ago
+
+---
+
+**[Was it worth the wait? Mannis New R-BOMB [War Robots]](https://www.youtube.com/watch?v=Qsi3sTDZcI0)**
+
+War Robots Gameplay: UE Ravana with UE Vortex - FINALLY! After such a long wait - was it worth it? My War Robots Creator ...
+
+📺 Manni-Gaming
+
+👁️ 15K • 👍 557 • 💬 111 • ⏱️ 18:18 • 11h ago
 
 ---
 
@@ -262,27 +262,7 @@ What if my tiny walking robot could transform into a fully functioning drone? We
 
 📺 Dorian Todd
 
-👁️ 59K • 👍 1K • 💬 56 • ⏱️ 14:42 • 4d ago
-
----
-
-**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
-
-A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
-
-📺 NBC News
-
-👁️ 33K • 👍 93 • 💬 37 • ⏱️ 1:56 • 2d ago
-
----
-
-**[Beni the Following Camera Robot is Back ... and Better Than Ever!](https://www.youtube.com/watch?v=eMXvWO1FxSk)**
-
-After an extremely successful kickstarter Beni is officially being launched globally today. Beni is an auto following camera robot ...
-
-📺 Air Photography
-
-👁️ 12K • 👍 203 • 💬 24 • ⏱️ 7:23 • 3d ago
+👁️ 60K • 👍 1K • 💬 56 • ⏱️ 14:42 • 5d ago
 
 ---
 
@@ -292,7 +272,27 @@ America is facing a massive construction labor shortage, and a new wave of robot
 
 📺 Tyrone
 
-👁️ 33K • 👍 328 • 💬 4 • ⏱️ 22:38 • 4d ago
+👁️ 34K • 👍 334 • 💬 4 • ⏱️ 22:38 • 4d ago
+
+---
+
+**[Beni the Following Camera Robot is Back ... and Better Than Ever!](https://www.youtube.com/watch?v=eMXvWO1FxSk)**
+
+After an extremely successful kickstarter Beni is officially being launched globally today. Beni is an auto following camera robot ...
+
+📺 Air Photography
+
+👁️ 12K • 👍 208 • 💬 24 • ⏱️ 7:23 • 3d ago
+
+---
+
+**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+
+A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+
+📺 NBC News
+
+👁️ 33K • 👍 93 • 💬 37 • ⏱️ 1:56 • 3d ago
 
 ---
 

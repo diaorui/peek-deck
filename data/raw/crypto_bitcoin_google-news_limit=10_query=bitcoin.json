@@ -5,42 +5,42 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin sinks below 70k, set for deep weekly loss as crypto appetite sours",
+      "headline": "Why Bitcoin Is Falling Today",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUV5SENBU3cxaXZ3aFNZRkJFM0NNOGFXQl9PbG1BYjA1Y1pxQ3JDQkZnVUEwWUxheG9GR213U3pNajg1WUZGYlIteGV1RWx2UTdtR0V6VTAyajJOWnJrcDJ1RldxMUFxdlN5SlFKQ2p0ZzllVHNMV2g4cUhwZEhQMXNSZENPdjhkMEFkQnl0clJZOVNibXU4Ul84Zw?oc=5",
-      "pub_date": 1794544440.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-70k-crypto-043421543.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "Investing.com-- Bitcoin tumbled to a near three-month low on Friday as growing bets on more interest rate hikes and concerns over Strategy\u2019s removal from MSCI indexes dented appetite for cryptocurrencies."
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXNMM3YxTGlpTGtkckZHdjRXaWVhTlhwOXk4ZGNldGJ1Z0ZnRmM4Y29CNHJ4R1cyX0dYYTNXVEV2UFh4c295OWZFdXhMNTFuQkRKcTFVZW82NUVhZ3ZHN1ZleU5uUlZIR0ctTTZFaGdCZTJXQnlWWW9MNjJ3ZjBrVGRITEF3NTNqZzRXdUc3VTBUQm8y?oc=5",
+      "pub_date": 1794594902.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-falling-today-183502609.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4cd78baae3cf9354b4fcb3df5331873a6130af9d96ce483af90a43ba134b51f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd9de55f7416fdff7f3ed6f0285ead3d3.jpg",
+      "description": "Bitcoin dropped below $70,000 overnight, to its lowest level since August, after a hotter-than-expected inflation report pushed up rate hike expectations and a wave of leveraged positions was liquidated."
     },
     {
-      "headline": "Bitcoin\u2019s Billion-Dollar Wipeouts Are Becoming a Familiar Sight",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUd5VFhXYWFteUNtX00xalQyaGdaSUNqRkxNY0FwaWY4WFdrWE4wdTZJWV95Y1YxU3NpVkVUX0lxdl9uQnl5TGVzUEFodHdCQl84b09TU25IY19VLXc0YjhmaDlWb1hfeEFuX29oT2tIOFQ0ekNFd25wb3lERUdqVUZlOTZnbGxlT1NpUWttdUgxNm1OQzl4QVZXd3gyZVV5UTFOTGtVM2dwUEdxcW53a0NobGY?oc=5",
-      "pub_date": 1794597872.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight",
+      "headline": "Over 35% of Bitcoin Supply Faces Potential Quantum Risk, New Data Shows",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanFWa2lZdlA4SUEwSkVQQjJHcGhzWXFfVGMtMUY1Q0ZFYmlKQ3FVVWxFaDhXVnp3NldDZERRc3NkVnd6WWh6VFAzTHpCQXNjd3FWSmQ4WE9lc04ycVFYUE1ZaTNvZzlFZ0JhRXBmRTItOTNpQmNLWGVsVEczZnJabTVvMml1ZUVPTnF3elhzbmpvZGZZRHZLdQ?oc=5",
+      "pub_date": 1794612600.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/over-35-bitcoin-supply-faces-233000047.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3c84d2fe6a61ebd557ad682f93119b12545a9b47825b21072cb7d22412e9226c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F21a667e606fdc09b9a9b95d44c0b4776.jpg",
+      "description": "Glassnode says 7.12 million BTC have visible public keys. Robinhood, Binance and Satoshi's coins top the exposure list."
+    },
+    {
+      "headline": "Bitcoin and AI are fighting a $350 million battle over a dam in Paraguay",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDdUdHpvVE5rQ1FtTzYtYmlIdzNsTkN0NGZiekhPYzhpTUF4RzlaMk00VFBVcVloMkJhWGlSV0ZPOGJtSHhwYWI2ODVoZ2tDTG8zcnJCa0JjUWNpT2hRYThiNHA1b3AyWVZWVW5Fal8zMGNKOUprWFd2d1dORDZyZFE4TWlSRDRPVWl3UU5oM005UnZtaHhFY2k2aUFYbm9kNmNqNmxvdWFfT0xLY3o3NjVLYUhmMEtl?oc=5",
+      "pub_date": 1794612600.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
       "image": null,
       "description": null
     },
     {
-      "headline": "JPMorgan\u2019s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0QwR1pYZS1BUFhfeDRmSTN3U1pZWG9jbG42c1FEaG5GcGgtcXRsZUZrSVozYTcxMkVvR21EMnRjTFhnazZaT2tMOTR4bnI4aXV4RkRIRkZaU2k1WGJBME5GWnp1VTZpWTZ5YWlKS1I3bmhxTEl1d2d1Qk53bUFMUFdzRUJlN2Fra3FpMEJDM0pob2pzUC16ZXpWOHZfY2stYUJPTVZycw?oc=5",
-      "pub_date": 1794600963.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-bitcoin-crypto-linked-holdings-201603257.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c5723ba12d4406e29ed6be2b6ff00113791a095e5d455862355a6aab3235e398/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fa16f1131663281bcfb9a978d5311acf1.png",
-      "description": "The bank\u2019s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase\u2014likely over $1 billion counting Robinhood and miners."
-    },
-    {
-      "headline": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUU9fMGU2cml4SUd3cEE3QkFjRlZpcFVQVlBnVWpTcXpzemRjbXRQanRoaUFFa1c0VHZqNW1IeW5mU19HSllVa2hETGc4WWYta25JRzU3aTFwYkhpcVVhWVRmUkI4ekVBc3p0SzNnYWhIZWFlSlVKTDlDQVJmLW16QWNMd3pLRlhSSHVSSjJZOTlnNVA1SzVod0ozcldPdFBUbE9nSkdUZDlWZk9zcktoa2xHemUwU283Qzd2bk02MjlnNGdRck51dERydnRZZ19S?oc=5",
-      "pub_date": 1794603274.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+      "headline": "Bitcoin\u2019s Billion-Dollar Wipeouts Are Becoming a Familiar Sight",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUd5VFhXYWFteUNtX00xalQyaGdaSUNqRkxNY0FwaWY4WFdrWE4wdTZJWV95Y1YxU3NpVkVUX0lxdl9uQnl5TGVzUEFodHdCQl84b09TU25IY19VLXc0YjhmaDlWb1hfeEFuX29oT2tIOFQ0ekNFd25wb3lERUdqVUZlOTZnbGxlT1NpUWttdUgxNm1OQzl4QVZXd3gyZVV5UTFOTGtVM2dwUEdxcW53a0NobGY?oc=5",
+      "pub_date": 1794597872.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight",
       "image": null,
       "description": null
     },
@@ -55,56 +55,56 @@
       "description": null
     },
     {
-      "headline": "Bitcoin climbs above $70K and gold rises after cooler PPI report",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb203c29tZVVGZzZPM3A0aXQyOHA1ZUsxYmdrbGQ3ZDhKa0FmbDBwNGRkaU9UVFZLTldXNzgtZlltZml1bExXS21TRjVONjVFYVFKbVZCZC02RFJsbnBQcW9PTWdRcHB5Mm1tMjlaVGs5UkdBODJlcDd4aF9WdHA0bW1yNG9NLVlobmx2NHpjNXB0VmJudXFJOHNTMm9Ra1NTd2prLWhCUzFqcVdmSkUyVGhJYXI2UmNUc2RRclpWQkxpSlgxNFkw?oc=5",
-      "pub_date": 1794578519.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:241847db4094b:0-bitcoin-climbs-above-70k-and-gold-rises-after-cooler-ppi-report/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin pushed back above $70,000 on November 13, 2026, after a producer inflation report came in a touch cooler than Wall Street expected. Gold followed it up, trading above $3,900 per ounce.The moves were modest. Bitcoin gained approximately 1-1.35%, and gold added around 0.6-1%. Still, in a week\u2026"
-    },
-    {
-      "headline": "Most large cryptocurrencies decline on Bitcoin, Ethereum drops",
+      "headline": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUdfX29ZdXR3c0hGZGV5WVdPUU5PbUNITHBkUVE1UFdqRm9WWTFQTU44dHotSXZBUEpDZGY5Ukt0N3VXMklYWXc2Mk9pSHhOTzBXVDJHNV9EWjJoeVotZElEY1RJUjd1V1RKZ0lKS3NKSzRfNUJ1bEwxcWtpenhULUhNdnJ6T2pMMGNUa2lkSTh1ZzlFRlE4YnJ6aEFFNTlnM2s3VEZyQ2dWeWNwem56U0xfSGlvekFTZXdFLUJB?oc=5",
-      "pub_date": 1794582000.0,
-      "article_url": "https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decline-on-bitcoin-ethereum-drops-d61b89f0-c3eb49fad404",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWY1S3lwODdSRDlsR3F2Z181UE1HZUhWOWZEckxNVUZ3azFpOU9zVldJeENrS0VYYlVOWmRsTndGU3NBSXlKNmpRbXlkRGNtS2ltS0Z3RTR0QUlWQVRfYmNBNzZwUl9pTXp3ak1CeTV0cjNwcHZoT1BWaFIwTmxWNlpfRHJRT21aeE13YVgzRTJsSW5IOTJjRjYwSTRiNm5iNU8xUnA3WE9lQklUd2Y0M1JOVjFkTUxRV1Exd2xuVnFSclF2?oc=5",
+      "pub_date": 1794605160.0,
+      "article_url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a",
       "image": null,
       "description": null
     },
     {
-      "headline": "AM Markets Need to Know: Anthropic IPO demand surges, Bitcoin slides, and more (SP500:)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXJMeHNwTERIbk5MVW5ab19hTnNUNEhFS0pfeEt3OE1aRHJVLVlVbER0VkRtRmVLU3NkeW5SN29zdXZvMVZYeGExd1BoMHZmYUd2X1BDQnIyNkNiaERqRXF3TjU0cGZVRFh0aGRURjNsalkwWnFXVDVBdmZRYTZwaDNSMngyN2VEeEptMWEwenBDM0Z6c2tJa2d4N2d1S3ZuR2I5UU9LQTdoeVpzVUh5V1Z1OA?oc=5",
-      "pub_date": 1794569842.0,
-      "article_url": "https://seekingalpha.com/news/4672226-am-markets-need-to-know-anthropic-ipo-demand-surges-bitcoin-slides-and-more",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2259148968/image_2259148968.jpg?io=getty-c-og",
-      "description": "Anthropic\u2019s planned $64.4B IPO reportedly draws 6x available-share orders; Michael Burry adds Nasdaq puts as Bitcoin falls to about $69,000."
+      "headline": "BITCOIN hit its 1W MA200 again! They said it would never happen! for CRYPTO:BTCUSD by TradingShot",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWVaVUhnaEIzY2FUM0hScjJocERfX01DUEFFYk1oaDl5cGJwZEZQVE0zYzItOGFFTGJMaFNMU19CVXlKMFlrQlZiS0JIVURpVEdBSjlQYjAweGEyc1dIQ0Z0N2NmT2FpbC15VGhqZWJlMlNMcGxVZFpYdVV3Q0JGQzJBb2lmRnlCWEoxd2RNdkY0M2FaZm9JT0hzOGcwckJYNVRNaTRYbnNSZ0FoUExIa3BLZw?oc=5",
+      "pub_date": 1794566991.0,
+      "article_url": "https://www.tradingview.com/chart/BTCUSD/riK7iXN8-BITCOIN-hit-its-1W-MA200-again-They-said-it-would-never-happen/",
+      "image": "https://s3.tradingview.com/r/riK7iXN8_big.png",
+      "description": "A month ago (see charts below), we signaled a medium-term correction Bitcoin (BTCUSD) after it broke below its 1D MA50, giving a 1W MA200 Target around $68000:\n\nhttps://www.tradingview.com/chart/BTCUSD/HgOwhxuA-BITCOIN-broke-below-its-1D-MA50-after-2-months-Is-70k-next/\n\nhttps://www.tradingview.com/chart/BTCUSD/KEkYM5Bi-BITCOIN-Is-another-1W-MA200-test-possible/\n\nAt the time our view was met with huge skepticism, denial and mockery, but 7 weeks later BTC reached our Target. The reason that \u2026"
     },
     {
-      "headline": "Is Bitcoin the Better Gold? These 3 Factors Say Yes",
+      "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jSkxvVlFEZXVFVnk0cUhsN2JXNnFQaUplOFFGOWNhbHZESGVZZllWc1VfS0VKc1JvUlpwQW9kYmtjcmIyUVFienRkWk81V2lYaXlDV25qN0JzRnkwRVlXWDR5YWtCeXR1RGlTYnFqUlhqNzFDVUNndEhkb0g?oc=5",
+      "pub_date": 1794575786.0,
+      "article_url": "https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strive's Bitcoin Strategy That 'Could Even Survive an 80% Crash'",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2U2T09zZENhcTZZLXJBME1md2VPXzRMUFpPeElfNWgxOFR3alFSdDhSQ2Q5ZHdWcEtWeWJ6aWhodUp0MHdjdlhHTTdWLU9VUENULTNWM3hQdklBajFydm5ma2t0LW5hbkxGUmU1WWV0YmZKYVpiX29LUzVtczR3U1NVWVpVeThNcmdKTlF1cTNRcnlIMldUMjI5QUVPLXM3Y1JtQ1RKRFk2NzY3WjFLS2xR?oc=5",
-      "pub_date": 1794589985.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63254640/is-bitcoin-the-better-gold-these-3-factors-say-yes",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVg2WXdTeWxaMEpvN0FIaHpBRUwwZU5BdGNCd1dlWHJLdExTVm1QYzd2OHdVNS0xcXdISjE0ZFJWcnNPRGNjMkR6QjNiQXlDYnZmbGN2MmtLSGotd3ZDeVBXRGxXWThUSnI1WWZ5Z2EwNHdrVTJTWHA2Z2FwSWFEU3JCTTlnQmJjY21PRzVCakJtcWcwQlZxbGhfYXp5WWt1Y3dhVWt4MTBpX2xXTmhZQXVNZ0Y0SUJfb202S1dERQ?oc=5",
+      "pub_date": 1794602746.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63267145/strives-bitcoin-strategy-that-could-even-survive-an-80-crash",
       "image": null,
       "description": null
     },
     {
-      "headline": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP extend losses as downside momentum dominates",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOczRpek1FN0tvYlN5YWs0YVJaTzJEdmxxcGNhaW8xdklnQXNHWElFNGwyVUVJWFdyMVJyX3ZEQzN6cTRnYzhtelUzbWpXTWlaWTBRTVh2dDNQcm15MFZTd0F0TktSWUYyak45VVZtMy1EV2ZDS1lnSGNlMDZPbUZReDdfdHZPd1dDUkg3YUVJVndobTBzU2l1YVV0WlpsOU9VX3RpdUQzR3RsRnR0Y0E5R2dKU3hQSWhvMTJNZW9yZXRBSEVWa0prTDFzMmpOa1R6QlJmcmhEcWdaYjNmT2ROa2hHZ1hudTlMQm9jS3l4R1ZianliOHhUQnU2Sjk?oc=5",
-      "pub_date": 1794541378.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-losses-as-downside-momentum-dominates-202611130342",
-      "image": null,
-      "description": null
+      "headline": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRV9INE42NjV6M2ZrRm94VU1sSElYZHNmeFVBUEhCSDVKZ3RtWEJnWm16NElsaWRUMXJKZVVqRF9ZQUNZem5wd0NzRVZla3NPQnJpcV8yXzVyYlM2ekctX2s3bnduLVNtTG92R0MwZm8tS3d2ODhTZlRTMXAwT2VuSWpB?oc=5",
+      "pub_date": 1794613680.0,
+      "article_url": "https://cryptobriefing.com/coinbase-institutional-fed-rates-bitcoin-decline/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13184750/library-coinbase-institutional-says-fed-rate-expectations-not-th-800x450.png",
+      "description": "Coinbase Institutional says Fed rate hike expectations after hot CPI data, not the Binance hack, drove Bitcoin below $70,000."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-13T21:13:48.830590+00:00"
+  "fetched_at": "2026-11-14T01:36:28.496176+00:00"
 }

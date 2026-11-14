@@ -6,23 +6,13 @@
   "articles": [
     {
       "headline": "What Will Bitcoin and Ethereum Be Worth in 5 Years?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGl5QTZSV2hLYTJtZTc1b1ZMRU5oMktueloyaXQ1N2I2Nk80eHEwUzlfSExwemNsRDc2cXduenplM0RUaHFOU2ZQQXZ3VGQxMzBBaWp1VHhNZlUzOVJlUTZxRFYyRGhjanlHcnhMVTN0ZGZiTmltR19KSFdoUFlnaks0aWs2c1E5VGxoLV9BaTNBUnRSOW1yaUhTYzlOcFlySDdFRDVUbURWTkxXNXc?oc=5",
-      "pub_date": 1794418440.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/11/what-will-bitcoin-and-ethereum-be-worth-in-5-years/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/10/shutterstock-2116841900-medium-licensed.jpg",
-      "description": "Forecasts put Bitcoin at $166,000 to $1.2 million by 2030 or 2031. Here's what Bitcoin and Ethereum could be worth in 5 years."
-    },
-    {
-      "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1FfMXF3WEE5NkV0aF9WYzBYb3BFTXRMMlktTWZmRUZrUGp0cHBhQ1VJOE5nUmN1dGJMOURzMWVLVFhkSGtOTGd1R3JZa3RFdmdqTnhVZUtzU09wLVhFUS1KeVNhekRlT2s4NkVfSjdyZ2xRTE1HcVJiNnROXzRGNl83UzY1MXRIQUl3NnhzbUo1MXVnTnQ3UDVvWG0?oc=5",
-      "pub_date": 1794534840.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0bf64da86efd78bf135b7d6c45ece42f9836b58e3ccfbbfe6ce2c568fbe12fef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fcd95f6d21e25ae21a72b8d220024753f.jpg",
-      "description": "Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data."
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTG5UY1MzMnhDcDhMS0I3cHFiWkNCbWVUR0VxWEV3bnhSb1lBOXpiUGZNUXBuN0VqUG5VNG5obGd5bHlBWHRsY3dNRW5mLVh4eF9FZlZwazVpUkxrNmVsMlZOcENMTFQzVUVyTXA2ZFJ4dlIyelU2QUp5ektRRnZ6YWYxZHdNc1kxMy1jeFpISUt1amlTeTFBcDJDWQ?oc=5",
+      "pub_date": 1794418446.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-worth-5-years-173406465.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6d26859e240180cb72546bdbb5e235c53eb6db8fcb2907675f85ef6711e74cc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8ce6a176ccf96abe9b1c70957e183451.jpg",
+      "description": "Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?"
     },
     {
       "headline": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
@@ -35,24 +25,24 @@
       "description": null
     },
     {
-      "headline": "Most large cryptocurrencies decline on Bitcoin, Ethereum drops",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUdfX29ZdXR3c0hGZGV5WVdPUU5PbUNITHBkUVE1UFdqRm9WWTFQTU44dHotSXZBUEpDZGY5Ukt0N3VXMklYWXc2Mk9pSHhOTzBXVDJHNV9EWjJoeVotZElEY1RJUjd1V1RKZ0lKS3NKSzRfNUJ1bEwxcWtpenhULUhNdnJ6T2pMMGNUa2lkSTh1ZzlFRlE4YnJ6aEFFNTlnM2s3VEZyQ2dWeWNwem56U0xfSGlvekFTZXdFLUJB?oc=5",
-      "pub_date": 1794582000.0,
-      "article_url": "https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decline-on-bitcoin-ethereum-drops-d61b89f0-c3eb49fad404",
+      "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jSkxvVlFEZXVFVnk0cUhsN2JXNnFQaUplOFFGOWNhbHZESGVZZllWc1VfS0VKc1JvUlpwQW9kYmtjcmIyUVFienRkWk81V2lYaXlDV25qN0JzRnkwRVlXWDR5YWtCeXR1RGlTYnFqUlhqNzFDVUNndEhkb0g?oc=5",
+      "pub_date": 1794575786.0,
+      "article_url": "https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge",
-      "source": "Mashable",
-      "source_url": "https://mashable.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckZvNmlIMDFlNldRN1hIMmNoY2ZqMGQ3SlpaZ29DTzU4NjV3RFFPOF9uaGl1eVRkUDJudWx0WGU5MktIRUszUUlYM2MzOVNTeTItLWFvdHg5Q1p1dmtGSXJUTTdyMDJ1LTk5cU9vN3RSY0hOb2stdkxFU2xxa25HZGtXaHRRVE0?oc=5",
-      "pub_date": 1794385967.0,
-      "article_url": "https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit",
-      "image": "https://helios-i.mashable.com/imagery/articles/045VD1jHpCJAt2Ikd7H5FLU/hero-image.fill.size_1200x675.v1794382017.jpg",
-      "description": "The non-profit allegedly told workers to pledge they'd die by suicide \"with a sword.\""
+      "headline": "Bitcoin ETFs Face $1B Exodus As Ethereum, Solana Funds Bleed: Is Institutional Crypto Demand Cracking?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcnNMWW1ERE9rVkR1R0pMNGEzdndtYUtoRlU4QkxuQm9LM3BjUHRZclcwSnVuYUF5dXJYT0hXd3Brem9DMUZISl9UV2wzSXk5LXZTS0VaYldabkV1UmJnSWt3SkloVXVGVW9qRU52SHVaQnZoeFZta0xmeGZzdXB1RldYZ0s2QlNqRXFBNGJXREVNRzlOengyZXk4dm1EX1ZNaUtfb2loQUxWMi1mNDk1dFIwOGlMd2tUUUExaGVFNklaXzhfWVRzMF9janVtX3l4TXlDRmNMYUZsUW9CQi1UV056Ym01cENOenI3cm9R?oc=5",
+      "pub_date": 1794591608.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:5528d17bc094b:0-bitcoin-etfs-face-1b-exodus-as-ethereum-solana-funds-bleed-is-institutional-crypto-demand-cracking/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "U.S. spot crypto ETFs suffered a broad-based exodus in the five trading days ended Nov. 10, with all six tracked asset groups recording net outflows totaling $1.48 billion, raising fresh questions about investor confidence amid a sharp cryptocurrency market downturn.Bitcoin CRYPTO:BTCUSD ETFs bore\u2026"
     },
     {
       "headline": "Ethereum unveils quantum-safe accounts, with a costly catch",
@@ -75,6 +65,16 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
+      "headline": "Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge",
+      "source": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckZvNmlIMDFlNldRN1hIMmNoY2ZqMGQ3SlpaZ29DTzU4NjV3RFFPOF9uaGl1eVRkUDJudWx0WGU5MktIRUszUUlYM2MzOVNTeTItLWFvdHg5Q1p1dmtGSXJUTTdyMDJ1LTk5cU9vN3RSY0hOb2stdkxFU2xxa25HZGtXaHRRVE0?oc=5",
+      "pub_date": 1794385967.0,
+      "article_url": "https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit",
+      "image": "https://helios-i.mashable.com/imagery/articles/045VD1jHpCJAt2Ikd7H5FLU/hero-image.fill.size_1200x675.v1794382017.jpg",
+      "description": "The non-profit allegedly told workers to pledge they'd die by suicide \"with a sword.\""
+    },
+    {
       "headline": "Foundation Launches Universal Ethereum Signer in Beta, First on Passport Hardware",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -85,26 +85,26 @@
       "description": "BOSTON, Nov.  12, 2026  (GLOBE NEWSWIRE) -- Developed by Ledger cofounder Nicolas Bacca, the app runs on KeyOS, Foundation's open source operating..."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Crack as Trump Says 'We Don't Need a Deal With Iran': Analyst Warns BTC's Correction Could Deepen",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOE1ab0x3eEp6dXlRdGpUUFktMEJYdkd3RlFEbWJ1Njh2MUp5cG1RWWRJaV8yamxsUVZTRGNjR1JTSkI0ckZ4NlpJVmtkbUEwakNvOUMxYTZTTnFxWDRpUmZqQ2NvZnlzOVFENWdVQ0tjMXNoQmdqN3pQaFAzRnltQ1BoWTUxUC1YMEFlZ0VmWVA0eVVkTlYyZ1RmWW4wTzdQQV92emExZTgwR29GS18zVzVkR194cnB4ZnZZeGJrQWxwY01LS3BiRzQ1ZDlKckp0cW5zTy04WmY4V1pqdkJRSGFyakJuZDVZZndBZUlkU1l6VjBOeDM4UG40eFNrc050VGR2WGJCU2NOQl9HN0w4cw?oc=5",
-      "pub_date": 1794534600.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:2ee55bd2d094b:0-bitcoin-ethereum-xrp-dogecoin-crack-as-trump-says-we-don-t-need-a-deal-with-iran-analyst-warns-btc-s-correction-could-deepen/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Leading cryptocurrencies plunged deeper on Thursday as investors weighed President Donald Trump\u2019s latest remarks on Iran.Crypto Market TumblesBitcoin fell below $71,000 for the first time in nearly three months, while Ethereum slipped below $2,000 as major cryptocurrencies faced heavy selling press\u2026"
+      "headline": "Most large cryptocurrencies decline on Bitcoin, Ethereum drops",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUdfX29ZdXR3c0hGZGV5WVdPUU5PbUNITHBkUVE1UFdqRm9WWTFQTU44dHotSXZBUEpDZGY5Ukt0N3VXMklYWXc2Mk9pSHhOTzBXVDJHNV9EWjJoeVotZElEY1RJUjd1V1RKZ0lKS3NKSzRfNUJ1bEwxcWtpenhULUhNdnJ6T2pMMGNUa2lkSTh1ZzlFRlE4YnJ6aEFFNTlnM2s3VEZyQ2dWeWNwem56U0xfSGlvekFTZXdFLUJB?oc=5",
+      "pub_date": 1794582000.0,
+      "article_url": "https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decline-on-bitcoin-ethereum-drops-d61b89f0-c3eb49fad404",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "This 1 Important Signal Is Now Flashing Red for Ethereum. That's Why I'm Selling ETH Right Now.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjhxWGxZMTBUU29aWTdYeW40QW5MZ0hnSTdUYzZCNHRBV0dRbjJaeWVGa1VkWmxBUVlLNFl3SmZzWGtxWEQ4OWE0WG5uS0lVQURNaTJ5bnBIU29UN3kwa2cwdUhDZzZxcE9CSHFES0ZjbXROWlZiUHRILWZIZ2pBY2U5c3kyZHBFbFpmd1gxUmRMaUhJNEZfcw?oc=5",
-      "pub_date": 1794463200.0,
-      "article_url": "https://www.fool.com/investing/2026/11/12/this-1-important-signal-is-now-flashing-redgreen-f/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893603%2Fangry-investor-with-smartphone.jpg&w=1200&op=resize",
-      "description": "Until Ethereum ETF inflows return, it may be time to look elsewhere for upside."
+      "headline": "How Ethereum staking hit a record 36.3% despite ETH\u2019s price drop",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjdDSHh0enNwMTg1Yk5td2VpdGNDaEc3b2dJQUNOand0RFp6Ym5mZWlSYVpKbUV6YnRsWnVpSmpWWTltV2hhZVUyNG83QUxoUGxlX2k0RVhKblY3TUh5a3pmQXJ2eUFKUUZEcFVWb2I2Y2pzSktPMHpoSkt4WENSLXJQajd6Y09RUmxITW1R?oc=5",
+      "pub_date": 1794535253.0,
+      "article_url": "https://ambcrypto.com/how-ethereum-staking-hit-a-record-36-3-despite-eths-price-drop/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/11/Ethereums-staking-ratio-has-reached-an-all-time-high-e1794480450121.webp",
+      "description": "More than one-third of Ethereum's circulating supply is now staked."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-13T21:13:43.797943+00:00"
+  "fetched_at": "2026-11-14T01:36:15.417953+00:00"
 }

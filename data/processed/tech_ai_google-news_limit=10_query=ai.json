@@ -5,74 +5,44 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0oxbjBlUlEwbUh1bmtnX0d2YUZMWHZqR3VNV0F6R3Q5cUVDTUV2WXA3RmFlYVhfMTUyd2dYVDNGaWJ0YWx3d2JYZHFwZTVLcG1sMFpneUFQbnFUNThMa0tDM2MzUHVOeGY4Q3poVVFRX2I2aWZQUlNPVEQ5MHdSQk9SejNoajFyVFA5U1BIclVJU1BBcGt0TEZlb1JqUm5JZUZ5S081QnhuQQ?oc=5",
-      "pub_date": 1794590745.0,
-      "article_url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
-      "description": "Researcher traces a path from AI reward hacking to potential human extinction."
-    },
-    {
-      "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
-      "pub_date": 1794589500.0,
-      "article_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
-      "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
-    },
-    {
-      "headline": "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjhJdzBDdFpRc3VSX0ZSNFV1SFRJS2JhYXpKMlU5Mm1ZNEVsN2o1Mno3TkNrQ2lBYlVoOVdsUVZJS2JDVUhCLXdyMG1tNG1ldGFLV0dqUWZxMzJWWWxYaDUzYWdiWXJILUxNdnlEOFgtWWI0V0s2VVFmMmxPZm5vekpwM1BBZlVGZDYyd2E3OW5lNVZWOF9MY05MdmtFb2gxRVQxN2FCZVh6djhXSG5uS3d4Y3VyQQ?oc=5",
-      "pub_date": 1794603600.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The AI boom was built around Jensen Huang. Now what?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JOE10ZkcxSXRCTEEyazBYTmluT184SEhGUkd5cmxwd2RhV19qM1RHR01lUkpZa0lyNUJLempiR0RMQUw1TnpRb1NmbWxwemd6aHNpSktJRWZubkp2ZmNnb2RkQ0RfN2F1TnR5cElGNGJPQVhiM0t3?oc=5",
-      "pub_date": 1794560415.0,
-      "article_url": "https://www.cnn.com/2026/11/13/investing/ai-boom-jensen-huang-nvidia",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243417491.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Jensen Huang\u2019s resignation from Nvidia in scandal leaves the company without its visionary leader. It also leaves a major void for the AI industry, where Huang was kingmaker in inking deals to support the tech boom."
-    },
-    {
-      "headline": "EU Holds First AI Summit, but Russia-Ukraine Talks Risk Derailing the Agenda",
-      "source": "Foreign Policy",
-      "source_url": "https://foreignpolicy.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjV3Ry1ibXM0SnQ0SWx4bFdyZklpekJYZllDaC1LQjI4RE00Z05EdzNCRG56d1FQdnJaTGJrVWxla2dNVEdSeXdQSjZZSG9wZEJDdlc0VmctcUVlbGFzaDVXMk8xSXBONm5pcmhRV19vcmhxaEhOX1c2Zzc2Y2xOT29ablV5bmREQjMtQ1BsZHBvQzI3VzJfRmRnRHdTYVF0bzNfZUpJUQ?oc=5",
-      "pub_date": 1794601772.0,
-      "article_url": "https://foreignpolicy.com/2026/11/13/eu-ai-summit-semiconductor-chips-russia-ukraine-peace-talks-nvidia/",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/EUAI-GettyImages-2304377246.jpg",
-      "description": "Outlooks aren\u2019t optimistic, as the bloc is set to fall short of its chip-manufacturing goals."
+      "headline": "FAA investigating whether new AI technology contributed to nationwide ground stop",
+      "source": "Click2Houston",
+      "source_url": "https://www.click2houston.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWtSN25JZ3FqRk1BTEdGZDR2SHc2RkdsTEhBMmdQUThHcVYwTUhseVFxSG44TVlCZ2xVLUtyejFFbkJWTlZCMm92QzZIb2p1aU5hQVVmakIxZjZNZy1jaDNUbWxVQ2kwZ2NiR2tjeW4ydmYxazZlM3dBRFcyQ1pDSnliSmRFVGk1WUt3czBuTWFlRlZiTG5NSXBRSldyQVFJazFUVXdlOXdsV3ZqSk9ZVUI0V2NxRVc0TkEtRjFDLXU4Vm9WUEVFZDVBUktEREk?oc=5",
+      "pub_date": 1794610629.0,
+      "article_url": "https://www.click2houston.com/news/local/2026/11/13/faa-investigating-whether-new-ai-technology-contributed-to-nationwide-ground-stop/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/kprc/31e57cba-5ccf-41d7-b06b-236160b4258d/image.jpg?api_key=click2houston_85fdeb57f8cd3635",
+      "description": "nationwide ground stop"
     },
     {
       "headline": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
-      "pub_date": 1794586301.0,
+      "pub_date": 1794612011.0,
       "article_url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
       "image": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-facebookJumbo.jpg",
       "description": "Dario Amodei, the company\u2019s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
     },
     {
-      "headline": "Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldJX01OcW9RMkRvR2QxbDljdmNZMGEyVUlnRjkwTWtqbmRsdVZHYnktd0ExUjlOYXFtNXdqcldodFpmemEyQWNfRDZXXzhIUi1DUVI2NFNBczZxdzc2ZWM0eW16bFJSa19PV1ZvSnQ2N1Y0RnJPM2F5R2VTWG1DOVBHNUFjUkhRbWZnYXFEenRMVjJlVlgyOF9JOA?oc=5",
-      "pub_date": 1794531600.0,
-      "article_url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30",
+      "headline": "White House Urges Easing Liability to Encourage AI Disclosure",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnR2MHh2N1dqYVljRm44MklWcFJ1QXppTERpYnpCSUdDc2hIdTRUSTJuUTNVZTJSTmMxemUxdjlWQVp1OU4weHpwc2lveS1sbi1DazdUZUpSVGFMMUFBdGMwVnNYNV84aXdGVmdneFJlQlNaNmtnWWN0aGpVdkdaMXVMVlJsWXdfWU5kRHVsMGhBRGhoTEo5dUJEU2xuMy1GaFgtb01BZktjR2szUlZONjBR?oc=5",
+      "pub_date": 1794616440.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "The Nvidia scandal has hidden upside potential for the AI trade",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWc4Tm5XSzJjOFB1RHhiVmtkbi1BWlp0VVhtWk8yQlJQWGhkMlhxektZVmh4T1NkWThWcnNNcnBGUW5pMDl1Q1p5dU9sNUN4NHR0dUY0OUFxMjZoMC0zbFNyeWMyS1hIMk9TcTExRmJ2S2lHR1RNd05DNVRSX3JTcGwyUHp0djBEMzhtNmZ1UXlzOTloM21MUU50RVc2Sy03OFpVdDFvblc0cUVWVVBmTHlkR2pCYVFmcnQ1c1VnTEo?oc=5",
+      "pub_date": 1794567600.0,
+      "article_url": "https://finance.yahoo.com/technology/article/the-nvidia-scandal-has-hidden-upside-potential-for-the-ai-trade-110000575.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/abb6adefb5e37a7b0a6af032949df96c0a434ef46199e83727282a72d47d397d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fb5d9c1eb-655f-4099-a2ef-d164a4e64506",
+      "description": "Jensen Huang is out. The former CEO of Nvidia resigned after a rapid succession of damning news reports revealed multiple affairs."
     },
     {
       "headline": "\u2018Ahead of his time\u2019: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
@@ -85,6 +55,36 @@
       "description": "Kurt G\u00f6del left 1,009 pages of densely written text \u2013 much of it in an obsolete shorthand \u2013 which is now said to contain hundreds of proved theorems"
     },
     {
+      "headline": "Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldJX01OcW9RMkRvR2QxbDljdmNZMGEyVUlnRjkwTWtqbmRsdVZHYnktd0ExUjlOYXFtNXdqcldodFpmemEyQWNfRDZXXzhIUi1DUVI2NFNBczZxdzc2ZWM0eW16bFJSa19PV1ZvSnQ2N1Y0RnJPM2F5R2VTWG1DOVBHNUFjUkhRbWZnYXFEenRMVjJlVlgyOF9JOA?oc=5",
+      "pub_date": 1794531600.0,
+      "article_url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Leading AI safety advocate likely to run for president",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlNWWFJYZk1JZ0xCZjl2bWtJRmFOaXZBQnVROXJGb2djWWJlNXNsQWFBT05CbUFlV203NW9vWU82S2pudnhLZ3lDVFRsUEdnY1NZLWZubzh5b1pDcEZraXBsZEtCbDM1TVFtVXdNaXZIZE51Nk0zV0J4U2lUenREY1Q2ajUyR2dUUDZEZlZkb0N2Q09sb0VEQWhkN290YXlUVVE?oc=5",
+      "pub_date": 1794574860.0,
+      "article_url": "https://www.politico.com/news/2026/11/13/former-rep-brad-carson-likely-to-run-for-president-01164544",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
+      "pub_date": 1794589500.0,
+      "article_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
+      "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
+    },
+    {
       "headline": "Why is Google cutting off Search from AI-free schools? Here are some theories",
       "source": "NPR",
       "source_url": "https://www.npr.org",
@@ -95,16 +95,16 @@
       "description": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations."
     },
     {
-      "headline": "Claim your Google Cloud Credits in Google AI Studio",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjJuQXllUkRfTG1mbVdOMVhfVk1wLWhySkdIVndNWGJtamhqaFBJVEhTUUg3NThaWEVPeDJNZktNUDAwd0FmN1NKV3Q4NDl5SEpYWHZKTFNPLUdWdXNNeGdvVHo2Rzl6aG04SkZYOWd5anBlaWFRX1R6TzkybWtIbTZKbnJGMWVIREZXZklkcHBraE16a1dMekRqV2ZWejl4NWd3?oc=5",
-      "pub_date": 1794602139.0,
-      "article_url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_hero.width-1300.png",
-      "description": "Claim your Google Cloud Credits in Google AI Studio"
+      "headline": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
+      "pub_date": 1794603612.0,
+      "article_url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550641-1794522605632-gettyimages-2299887954-NSCALE_DATA_CENTER.jpeg?v=1794522669&w=1920&h=1080",
+      "description": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-13T21:13:46.545210+00:00"
+  "fetched_at": "2026-11-14T01:36:22.591846+00:00"
 }
