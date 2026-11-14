@@ -15,36 +15,6 @@
       "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
     },
     {
-      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bkx4MS1XeDlTd2Q2UHktLVBvX3YtSkJYMkVxa2l0TTMtTld3ZWp0d29udm1SckdEZi1wNnhqb0hJZldURzFyVUxxV1F0S2dJS3NNZWFvRWtRZ0F2Ym5taXFlUVVPM1FBTGFPV1V4Z0ZELUZfOTE5TEZxaw?oc=5",
-      "pub_date": 1794426900.0,
-      "article_url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
-      "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
-    },
-    {
-      "headline": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDBwNTBVZzdhQjlkVDRaQXRiM2dsVUJYdmx3c3NLeC1ZeUJfNDd3ZHdoOFZhdXh0S3FZdEk3dEVfXzA4UE80ckVLYnktSDFfbHRQRW94ZndRWndBV3B1SEFOaUNFbmhhbGZSS1BwelA4ZDB4MzRCQndMcDJfakNFSkQtZw?oc=5",
-      "pub_date": 1794462305.0,
-      "article_url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "NASA's PROMISE Will Explore the Moon Starting at Its South Pole",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HbGdFTmN3cWZxWVo3MHR1Q05JaVZ3T2hQU2xXWENVOWlCT3p5M0FIS2VuQ201SzZTY0tvbmpQWkdUVG5SWFlxWmRIRmlCOUhySjZXX3ZPM3UySDI3cmN1N196WmFPX0Rw?oc=5",
-      "pub_date": 1794591039.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=68673117&width=1200&height=600&coordinates=0%2C120%2C0%2C120",
-      "description": "Your weekly selection of awesome robot videos"
-    },
-    {
       "headline": "Eric Trump-partnered Robotics CEO addresses 'Terminator' fears as he sends combat humanoids into warzones",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -55,24 +25,44 @@
       "description": "Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone."
     },
     {
-      "headline": "The PLA\u2019s Push for Military Robotics",
-      "source": "CSET | Center for Security and Emerging Technology",
-      "source_url": "https://cset.georgetown.edu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0dZWGFERUoyOWZOSnd3TzZhRVdnbW1UZzVkSENCalVNUEk1UjlQUW0xTGtGTjJnVE1mMThtX1NCeFFVZEpDYWhmT1ZUNXc2eWtJZUNCOGZHR19QY01QeG0xc1V4N0VNM1lfd0ZlQ3d5TFlXdnduUU9NN1RxNVlGQWF3?oc=5",
-      "pub_date": 1794400804.0,
-      "article_url": "https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/",
-      "image": "https://cset.georgetown.edu/wp-content/uploads/The-PLAs-Push-for-Military-Robotics_Social-Media-Card-700x366.png",
-      "description": "Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People\u2019s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing\u2019s military robotics ambitions."
+      "headline": "Robots recognize the shape of an arena by messaging each other",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Y3RyVkc4cGNxa3F3UXBlYl96RE1LdXJ4OEZ2N0NxR251WVJJMlRxaVV0NXNlTFZpVU1RUXg3b1Q1T2ZJSVg0eDZickRNUWt0MVMxN295ajFZMjVpWjVkbTEzeTZZRnY5bndNSUNnX20?oc=5",
+      "pub_date": 1794663602.0,
+      "article_url": "https://techxplore.com/news/2026-11-robots-arena-messaging.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "2 AI Robotics Stocks That Could Help Set You Up for Life",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE4xSVpReDNHbWNmSUZjVXNSWjZjekpsdnd6WVBQWW1mc19majZvWHBFVXFYaC1pQWY4bVVoVzZlZXNyN1JfQ3pXcnhqUGkwQzFNc3RVbkVDZ2lmSjd5YVNxVnhhMFZlUEp1eEJIb19wb3hsc3FLSVFjNGJsSlAteGY3NXFGNmJkUHNfU3F6LUhMNFlSc1hQTQ?oc=5",
-      "pub_date": 1794484500.0,
-      "article_url": "https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892868%2Fgettyimages-1515913422-1200x800-5b2df79.jpg&w=1200&op=resize",
-      "description": "While AI models and chips take center stage, the AI robotics boom is silently building."
+      "headline": "Humanoid Robots Could Outnumber Humans by 2083 as Long as They Start Building Each Other",
+      "source": "ZME Science",
+      "source_url": "https://www.zmescience.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VekVZT1BvdmF6OUNWcDdQZm1DUWNjdkxZMTFlM2xkTTlEMkFvYUo3RDg1VFlvV1pTYzI3Zk1hZFVHbnB0eFVWRjJlcWdYaWN5WTlHVUNGcmJUaF9FakRNUVZKYXkzY2dMZlF6V0JTUU84ZHZuakJuQ0RYcw?oc=5",
+      "pub_date": 1794594649.0,
+      "article_url": "https://www.zmescience.com/future/humanoid-robot-population-projection/",
+      "image": "https://cdn.zmescience.com/wp-content/uploads/2026/11/608ff250-0044-485f-a878-35483f3717f4.jpg",
+      "description": "Robot-assisted manufacturing could trigger a population boom putting humanoid numbers on par with humanity."
+    },
+    {
+      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bkx4MS1XeDlTd2Q2UHktLVBvX3YtSkJYMkVxa2l0TTMtTld3ZWp0d29udm1SckdEZi1wNnhqb0hJZldURzFyVUxxV1F0S2dJS3NNZWFvRWtRZ0F2Ym5taXFlUVVPM1FBTGFPV1V4Z0ZELUZfOTE5TEZxaw?oc=5",
+      "pub_date": 1794426900.0,
+      "article_url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/191:100/w_1280,c_limit/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+      "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
+    },
+    {
+      "headline": "$500M for Torus and Agile, $300M for Path Robotics, $130M for Mavria",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFdSZXlscTY1RndVc2xnSWd4WmZva0tFa0FXQWpydWd3TlBUMHhaZnZoV1ZjY2QzRkpwQ1VoZW1ja0VKZ0FKaERpWUdZZ3JEOHB0Q1FMNTJZN2NoblEwdl9PNTV2QjlpWE1zSnJnRmEyTVVCS0NMaG10cWFZUnNBSk0wVUV6ZmZ2WmxXZlBkaGEtUnlWZ19zdjhIWE0?oc=5",
+      "pub_date": 1794660523.0,
+      "article_url": "https://www.axios.com/pro/climate-deals/2026/11/14/climate-deals-week-torus-path-robotics-mavria",
+      "image": null,
+      "description": null
     },
     {
       "headline": "ARX Robotics and Roboneers deliver first batch of jointly produced Rys Pro ground robots to Ukraine",
@@ -85,6 +75,16 @@
       "description": "German defense company ARX Robotics and Ukrainian company Roboneers have delivered the first batch of jointly manufactured Rys Pro unmanned ground vehicles to Ukraine, even before the official establishment of their joint venture, ARX Industries. \u2014 Ukrinform."
     },
     {
+      "headline": "How Do I Teach My Daughter That Robots Are Not Her Friends?",
+      "source": "The Cut",
+      "source_url": "https://www.thecut.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqcTNQai1CTTljcnlvYmV4X01TNWNZY1dFZllnYzcxYVlicDlOdHBIYnlKbXhxbVRjR1JBVDZ2QmhhMGtheDZBR0gzN0JvNmIyOEZHSDJMZ0k0OWlRdVpFYVp2RGlqU1NlZE1aY0tIQ1o2cXYtUmxNSTJUTHA?oc=5",
+      "pub_date": 1794571225.0,
+      "article_url": "https://www.thecut.com/article/teaching-daughter-robots-not-friends.html",
+      "image": "https://pyxis.nymag.com/v1/imgs/4c6/daa/89f8a02997b55644239d4e9dd8b0901eb5-less-nice-to-ai.1x.rsocial.w1200.gif",
+      "description": "She treats chatbots and humanoid machines with so much kindness. I\u2019m trying to make her stop."
+    },
+    {
       "headline": "Shape-Shifting Robotic \"Slugs\" Could One Day Crawl Across Alien Worlds",
       "source": "Universe Today",
       "source_url": "https://www.universetoday.com",
@@ -95,16 +95,16 @@
       "description": "Robots have been a mainstay of our early space exploration efforts. But they normally have wheels. Or in some cases, rotors. While those solutions are great on flat ground, they struggle with jagged boulders or tight crevices. So engineers have been working on alternative robotic form factors, and a recent paper in Nature Machine Intelligence from researchers at Colorado State University\u2019s Adaptive Robotics Lab, describes a unique morphology using a design principle typically seen in architecture rather than robotics - tensegrity."
     },
     {
-      "headline": "Serve Robotics wants to democratize sidewalk delivery robots",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3YyTEx1S0Zlem1UbUJWeTZncjBxdDdoQ2JhWHdjU0xXN2dpV3RkX1AwM2JqaFRWSVZVR1JFbVpsUUlRWTN0TnN2TUl5OXJQTjYtTFYteHVtQzFLNkdJcnpTZHlaVnNEbjJTZWVtaDBvNFNlY1AwcVctXzBDeFNEdndlUU5aUXdoMHIzLU50MG9IN1pzamVoZHlRUE5HTzJ4?oc=5",
-      "pub_date": 1794400200.0,
-      "article_url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200",
-      "description": "Serve Robotics is breaking away from delivery app lock-in."
+      "headline": "The PLA\u2019s Push for Military Robotics",
+      "source": "CSET | Center for Security and Emerging Technology",
+      "source_url": "https://cset.georgetown.edu",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0dZWGFERUoyOWZOSnd3TzZhRVdnbW1UZzVkSENCalVNUEk1UjlQUW0xTGtGTjJnVE1mMThtX1NCeFFVZEpDYWhmT1ZUNXc2eWtJZUNCOGZHR19QY01QeG0xc1V4N0VNM1lfd0ZlQ3d5TFlXdnduUU9NN1RxNVlGQWF3?oc=5",
+      "pub_date": 1794400804.0,
+      "article_url": "https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/",
+      "image": "https://cset.georgetown.edu/wp-content/uploads/The-PLAs-Push-for-Military-Robotics_Social-Media-Card-700x366.png",
+      "description": "Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People\u2019s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing\u2019s military robotics ambitions."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-14T15:36:52.023082+00:00"
+  "fetched_at": "2026-11-14T20:28:12.627309+00:00"
 }

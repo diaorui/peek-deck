@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Could AI handle public transit information calls?",
+      "author": "MortallyConvincing",
+      "url": "https://www.reddit.com/r/artificial/comments/1xw6eqj/could_ai_handle_public_transit_information_calls/",
+      "published": 1794673357.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "During service disruptions people are calling about delays, missed connections, route changes and whether theres another bus or train coming And the information can change every few minutes The phone part seems doable with tools like Elevenlabs or Bland, but I'd want it connected directly to the transit system's live updates before trusting it with arrival times. Giving someone an outdated ETA is probably worse than telling them there's no confirmed time yet."
+    },
+    {
       "title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
       "author": "Eliv_nurotic",
       "url": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
@@ -35,15 +46,15 @@
       "description": "Google Research says 29 agents spent 11.5 hours turning 13 public tables into a 50-task benchmark. The problems ask a model to decide whether the data can identify a causal effect and, where it can, estimate that effect against a known answer. The step I'd borrow is the review. Google says separate reviewers and auditors found clues in the wording and shortcuts that let models get answers without doing the intended work. The team turned those problems into tests for future drafts. Suppose an agent gets the right answer because every question with a certain phrase was generated from the same template. Would you trust a second agent to catch that, or would you keep a human-written test suite that the agents never see? Source: Google Research"
     },
     {
-      "title": "Did AI ground US flights? DHS is looking at the FAA's new AI tool",
-      "author": "Justgototheeffinmoon",
-      "url": "https://www.reddit.com/r/artificial/comments/1xvnyzp/did_ai_ground_us_flights_dhs_is_looking_at_the/",
-      "published": 1794614683.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The FAA halted flights nationwide on Friday, its first full ground stop since January 2023, days after expanding its SMART AI air traffic tool across the country. Transportation Secretary Sean Duffy blamed a communication issue at all Air Route Traffic Control Centers, and Homeland Security's Markwayne Mullin said of SMART: \"We're looking at that.\" The tool's maker, Air Space Intelligence, says the stop \"is not based on or a result of the SMART system.\" Full alert: https://aiweekly.co/alerts/faa-grounds-all-us-flights-days-after-its-ai-air-traffic-tool-went-nationwide"
+      "title": "Requiem for a robot: the AI users mourning chatbots that may have harmed them",
+      "author": "TheObserverUK",
+      "url": "https://www.reddit.com/r/artificial/comments/1xw2k13/requiem_for_a_robot_the_ai_users_mourning/",
+      "published": 1794663323.0,
+      "thumbnail": "https://external-preview.redd.it/TLNkoaM8ri7DawsG3Uob7Mssf8tKUv7up5N0JMZ5NSQ.jpeg?width=640&crop=smart&auto=webp&s=5cc6aebc69cf2021d323ecc447689d0feec9ef69",
+      "external_url": "https://observer.co.uk/news/technology/article/requiem-for-a-robot-the-ai-users-mourning-chatbots-that-may-have-harmed-them",
+      "site_name": "The Observer",
+      "favicon": "https://observer.co.uk/favicon.png",
+      "description": "The removal of a ChatGPT model has led to an outpouring of grief among users \u2013 even as a legal battle rages over the psychological damage it may have done"
     },
     {
       "title": "Beware of numes.ai",
@@ -57,6 +68,17 @@
       "description": "Beware of https://numes.ai , Youtube video https://www.youtube.com/watch?v=7H279gmWji8 ( Youtube Channel :Code With Yousaf ) Title : I Found $0 Cost API Keys for Every Major AI Models (Uncensored) You will realise the fraud once you signup. I deleted the site from googles linked app section, after my realisation."
     },
     {
+      "title": "Did AI ground US flights? DHS is looking at the FAA's new AI tool",
+      "author": "Justgototheeffinmoon",
+      "url": "https://www.reddit.com/r/artificial/comments/1xvnyzp/did_ai_ground_us_flights_dhs_is_looking_at_the/",
+      "published": 1794614683.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The FAA halted flights nationwide on Friday, its first full ground stop since January 2023, days after expanding its SMART AI air traffic tool across the country. Transportation Secretary Sean Duffy blamed a communication issue at all Air Route Traffic Control Centers, and Homeland Security's Markwayne Mullin said of SMART: \"We're looking at that.\" The tool's maker, Air Space Intelligence, says the stop \"is not based on or a result of the SMART system.\" Full alert: https://aiweekly.co/alerts/faa-grounds-all-us-flights-days-after-its-ai-air-traffic-tool-went-nationwide"
+    },
+    {
       "title": "This AI finds patterns in visual brain activity and turns them into pictures",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1xvissf/this_ai_finds_patterns_in_visual_brain_activity/",
@@ -66,17 +88,6 @@
       "site_name": "Live Science",
       "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/ze6kddeaxb1774625505.png",
       "description": "\"An artificial intelligence (AI) tool can use brain scans to recreate the images people looked at with eerie accuracy. The system, called Brain-IT, uses data from functional magnetic resonance imaging (fMRI) to measure activity in the visual cortex, the part of the brain that processes visual input. A computer model then predicts both the broad layout of an image and high-level information about its content. It then passes those predictions to an AI image generator, researchers explained in a study uploaded to the preprint database arXiv. The research was presented at the ICLR 2026 conference, held April 23-25, and publicized by its authors in September.\" - Live Science"
-    },
-    {
-      "title": "Requiem for a robot: the AI users mourning chatbots that may have harmed them",
-      "author": "TheObserverUK",
-      "url": "https://www.reddit.com/r/artificial/comments/1xw2k13/requiem_for_a_robot_the_ai_users_mourning/",
-      "published": 1794663323.0,
-      "thumbnail": "https://external-preview.redd.it/TLNkoaM8ri7DawsG3Uob7Mssf8tKUv7up5N0JMZ5NSQ.jpeg?width=640&crop=smart&auto=webp&s=5cc6aebc69cf2021d323ecc447689d0feec9ef69",
-      "external_url": "https://observer.co.uk/news/technology/article/requiem-for-a-robot-the-ai-users-mourning-chatbots-that-may-have-harmed-them",
-      "site_name": "The Observer",
-      "favicon": "https://observer.co.uk/favicon.png",
-      "description": "The removal of a ChatGPT model has led to an outpouring of grief among users \u2013 even as a legal battle rages over the psychological damage it may have done"
     },
     {
       "title": "Former US AI Czar David Sacks says there\u2019s no evidence that Alice Huang was a Chinese Spy",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm building AIPass, an open-source multi-agent system that runs on your own Linux machine \u2014 18 agents, they wake up in the evening, check email, fix bugs, optimise stuff, all from your phone with no cloud account. But I'm curious what you'd actually use it for. Not the sexy demo stuff. The boring, repetitive, \"I hate doing this every week\" stuff. For me it was: triaging email, keeping docs honest when the code changes, and running the same checks over and over without me having to remember. What would you hand off first if you trusted it to just work?"
-    },
-    {
-      "title": "AI usage and detection survey",
-      "author": "tonyalovesch",
-      "url": "https://www.reddit.com/r/artificial/comments/1xvu63h/ai_usage_and_detection_survey/",
-      "published": 1794633670.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hello! Im currently doing a survey for my class on AI and more importantly, how people can tell whether an image is AI-generated or not, how they know, and how it makes them feel. https://forms.gle/uw3Vg9MnsRLid99CA"
     }
   ],
-  "fetched_at": "2026-11-14T15:36:39.269655+00:00"
+  "fetched_at": "2026-11-14T20:27:42.370135+00:00"
 }

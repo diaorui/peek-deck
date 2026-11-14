@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-14T15:37:23.559205+00:00'
+updated: '2026-11-14T20:28:15.095707+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 14, 2026 at 15:37 UTC  
+**Last Updated:** November 14, 2026 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be t
 
 Hello everyone, I’m new to the group. I’ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony’s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn’t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It’s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I’m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox
 
-9d ago
+10d ago
 
 ---
 
@@ -60,7 +60,7 @@ I just finished testing the legs, i had to swap the modules i used to control th
 
 I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?
 
-9d ago
+10d ago
 
 ---
 
@@ -68,7 +68,7 @@ I modeled the individual parts and built the full assembly using SolidCraft and 
 
 Después de un accidente se han vuelto a construir las piernas. Está vez con encoder y un par de servoblocks en las caderas. Encoders magnéticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad .
 
-9d ago
+10d ago
 
 ---
 
@@ -120,29 +120,7 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
 
-Fortune • 22h ago
-
----
-
-**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
-
-An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
-
-WIRED • 2d ago
-
----
-
-**[Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation](https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html)**
-
-The New York Times • 2d ago
-
----
-
-**[NASA's PROMISE Will Explore the Moon Starting at Its South Pole](https://spectrum.ieee.org/video-friday-moon-rover-promise)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 22h ago
+Fortune • 1d ago
 
 ---
 
@@ -150,7 +128,59 @@ IEEE Spectrum • 22h ago
 
 Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone.
 
-Fox News • 20h ago
+Fox News • 1d ago
+
+---
+
+**[Robots recognize the shape of an arena by messaging each other](https://techxplore.com/news/2026-11-robots-arena-messaging.html)**
+
+Tech Xplore • 6h ago
+
+---
+
+**[Humanoid Robots Could Outnumber Humans by 2083 as Long as They Start Building Each Other](https://www.zmescience.com/future/humanoid-robot-population-projection/)**
+
+Robot-assisted manufacturing could trigger a population boom putting humanoid numbers on par with humanity.
+
+ZME Science • 1d ago
+
+---
+
+**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
+
+An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
+
+WIRED • 3d ago
+
+---
+
+**[$500M for Torus and Agile, $300M for Path Robotics, $130M for Mavria](https://www.axios.com/pro/climate-deals/2026/11/14/climate-deals-week-torus-path-robotics-mavria)**
+
+Axios • 7h ago
+
+---
+
+**[ARX Robotics and Roboneers deliver first batch of jointly produced Rys Pro ground robots to Ukraine](https://www.ukrinform.net/rubric-defense/4184521-arx-robotics-and-roboneers-deliver-first-batch-of-jointly-produced-rys-pro-ground-robots-to-ukraine.html)**
+
+German defense company ARX Robotics and Ukrainian company Roboneers have delivered the first batch of jointly manufactured Rys Pro unmanned ground vehicles to Ukraine, even before the official establishment of their joint venture, ARX Industries. — Ukrinform.
+
+Ukrinform • 1d ago
+
+---
+
+**[How Do I Teach My Daughter That Robots Are Not Her Friends?](https://www.thecut.com/article/teaching-daughter-robots-not-friends.html)**
+
+She treats chatbots and humanoid machines with so much kindness. I’m trying to make her stop.
+
+The Cut • 1d ago
+
+---
+
+**[Shape-Shifting Robotic "Slugs" Could One Day Crawl Across Alien Worlds](https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds)**
+
+Robots have been a mainstay of our early space exploration efforts. But they normally have wheels. Or in some cases, rotors. While those solutions are great on flat ground, they struggle with jagged boulders or tight crevices. So engineers have been working on alternative robotic form factors, and a recent paper in Nature Machine Intelligence from researchers at Colorado State University’s Adaptive Robotics Lab, describes a unique morphology using a design principle typically seen in architecture rather than robotics - tensegrity.
+
+Universe Today • 1d ago
 
 ---
 
@@ -159,38 +189,6 @@ Fox News • 20h ago
 Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People’s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing’s military robotics ambitions.
 
 CSET | Center for Security and Emerging Technology • 3d ago
-
----
-
-**[2 AI Robotics Stocks That Could Help Set You Up for Life](https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/)**
-
-While AI models and chips take center stage, the AI robotics boom is silently building.
-
-The Motley Fool • 2d ago
-
----
-
-**[ARX Robotics and Roboneers deliver first batch of jointly produced Rys Pro ground robots to Ukraine](https://www.ukrinform.net/rubric-defense/4184521-arx-robotics-and-roboneers-deliver-first-batch-of-jointly-produced-rys-pro-ground-robots-to-ukraine.html)**
-
-German defense company ARX Robotics and Ukrainian company Roboneers have delivered the first batch of jointly manufactured Rys Pro unmanned ground vehicles to Ukraine, even before the official establishment of their joint venture, ARX Industries. — Ukrinform.
-
-Ukrinform • 20h ago
-
----
-
-**[Shape-Shifting Robotic "Slugs" Could One Day Crawl Across Alien Worlds](https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds)**
-
-Robots have been a mainstay of our early space exploration efforts. But they normally have wheels. Or in some cases, rotors. While those solutions are great on flat ground, they struggle with jagged boulders or tight crevices. So engineers have been working on alternative robotic form factors, and a recent paper in Nature Machine Intelligence from researchers at Colorado State University’s Adaptive Robotics Lab, describes a unique morphology using a design principle typically seen in architecture rather than robotics - tensegrity.
-
-Universe Today • 22h ago
-
----
-
-**[Serve Robotics wants to democratize sidewalk delivery robots](https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery)**
-
-Serve Robotics is breaking away from delivery app lock-in.
-
-The Verge • 3d ago
 
 ---
 
@@ -204,7 +202,7 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 222K • 👍 3K • 💬 141 • ⏱️ 8:25 • 4d ago
+👁️ 225K • 👍 3K • 💬 143 • ⏱️ 8:25 • 5d ago
 
 ---
 
@@ -214,47 +212,7 @@ Humanoid robots are attracting big valuations. What do they need to prove before
 
 📺 Imagination in Action
 
-👁️ 15K • 👍 125 • 💬 24 • ⏱️ 37:09 • 3d ago
-
----
-
-**[Ultimate Transforming Guide! Unboxing Robot Toy: OPTIMUS PRIME, BUMBLEBEE, ELITA-1, MIRAGE, MEGATRON](https://www.youtube.com/watch?v=AhTyYS8wDEk)**
-
-Welcome to the Ultimate Transforming Guide! In today's video, we are unboxing an epic collection of Transformers robot toys ...
-
-📺 Bob ToysReview
-
-👁️ 5K • 👍 14 • ⏱️ 34:11 • 7h ago
-
----
-
-**[I Built a Automated High Speed Camera Robot](https://www.youtube.com/watch?v=enNRvZ5BhjM)**
-
-This work was supported by the Alfred P. Sloan Foundation, enhancing public understanding of science and technology in the ...
-
-📺 Jeremy Fielding
-
-👁️ 108K • 👍 3K • 💬 273 • ⏱️ 53:28 • 1d ago
-
----
-
-**[Best Robot Vacuums and Mops of 2026 – After Testing 200+ Robots](https://www.youtube.com/watch?v=9A8zcyk2UVU)**
-
-Roborock Qrevo Edge 3 Pro at Amazon: https://geni.us/X2j3 Narwal Freo 20 at Amazon: https://geni.us/cAWOxEI Dreame L60 Pro ...
-
-📺 Vacuum Wars
-
-👁️ 16K • 👍 304 • 💬 90 • ⏱️ 9:09 • 18h ago
-
----
-
-**[Cascade explanation #override #vex #robotics #engineering #build #building #vexv5 #stem #robot](https://www.youtube.com/watch?v=9YY-g3zGSlg)**
-
-Explaining our cascade for v5rc override.
-
-📺 Dynamo Robotics
-
-👁️ 2K • 👍 63 • 💬 7 • ⏱️ 2:47 • 13h ago
+👁️ 15K • 👍 126 • 💬 24 • ⏱️ 37:09 • 4d ago
 
 ---
 
@@ -264,7 +222,37 @@ What if my tiny walking robot could transform into a fully functioning drone? We
 
 📺 Dorian Todd
 
-👁️ 62K • 👍 1K • 💬 58 • ⏱️ 14:42 • 5d ago
+👁️ 63K • 👍 1K • 💬 61 • ⏱️ 14:42 • 5d ago
+
+---
+
+**[El Salvador&#39;s Bukele Unleashes Gun-Wielding Robot Dogs, Haiti Gangs &#39;Surrender&#39; | Vantage](https://www.youtube.com/watch?v=bFX4DdkJFBI)**
+
+El Salvador's President Nayib Bukele has shared footage of his troops carrying out anti-gang operations in Haiti. Salvadoran ...
+
+📺 Firstpost
+
+👁️ 458K • 👍 5K • 💬 1K • ⏱️ 5:30 • 1d ago
+
+---
+
+**[Ultimate Transforming Guide! Unboxing Robot Toy: OPTIMUS PRIME, BUMBLEBEE, ELITA-1, MIRAGE, MEGATRON](https://www.youtube.com/watch?v=AhTyYS8wDEk)**
+
+Welcome to the Ultimate Transforming Guide! In today's video, we are unboxing an epic collection of Transformers robot toys ...
+
+📺 Bob ToysReview
+
+👁️ 9K • 👍 21 • ⏱️ 34:11 • 11h ago
+
+---
+
+**[Xiaomi Humanoid Robots Just Worked an 8 Hour Shift at a Car Factory](https://www.youtube.com/watch?v=RgJhL6_f1mE)**
+
+Xiaomi humanoid robots have completed their first reported 8-hour shift at an electric car factory. The 2 robots were tested on ...
+
+📺 DPCcars
+
+👁️ 26K • 👍 146 • 💬 35 • ⏱️ 5:46 • 6d ago
 
 ---
 
@@ -274,27 +262,37 @@ The first humanoid robot capable of doing real human jobs is closer than ever. A
 
 📺 The AI Nexus
 
-👁️ 11K • 👍 122 • 💬 20 • ⏱️ 18:30 • 5d ago
+👁️ 11K • 👍 122 • 💬 21 • ⏱️ 18:30 • 6d ago
 
 ---
 
-**[Forget the Hype! China&#39;s Robots Are Already Working!](https://www.youtube.com/watch?v=69slpmQhg8E)**
+**[Cascade explanation #override #vex #robotics #engineering #build #building #vexv5 #stem #robot](https://www.youtube.com/watch?v=9YY-g3zGSlg)**
 
-China's robot revolution isn't something that's coming in the future — it's already happening! Here in Shenzhen, robots are ...
+Explaining our cascade for v5rc override.
 
-📺 Barrett
+📺 Dynamo Robotics
 
-👁️ 70K • 👍 247 • 💬 20 • ⏱️ 13:20 • 6d ago
+👁️ 2K • 👍 77 • 💬 9 • ⏱️ 2:47 • 18h ago
 
 ---
 
-**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
+**[I Built An Automated High Speed Camera Robot](https://www.youtube.com/watch?v=enNRvZ5BhjM)**
 
-Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
+This work was supported by the Alfred P. Sloan Foundation, enhancing public understanding of science and technology in the ...
 
-📺 Nexio Core
+📺 Jeremy Fielding
 
-👁️ 57K • 💬 14 • ⏱️ 0:06 • 4d ago
+👁️ 117K • 👍 3K • 💬 288 • ⏱️ 53:28 • 1d ago
+
+---
+
+**[Best Robot Vacuums and Mops of 2026 – After Testing 200+ Robots](https://www.youtube.com/watch?v=9A8zcyk2UVU)**
+
+Roborock Qrevo Edge 3 Pro at Amazon: https://geni.us/X2j3 Narwal Freo 20 at Amazon: https://geni.us/cAWOxEI Dreame L60 Pro ...
+
+📺 Vacuum Wars
+
+👁️ 20K • 👍 347 • 💬 92 • ⏱️ 9:09 • 23h ago
 
 ---
 
