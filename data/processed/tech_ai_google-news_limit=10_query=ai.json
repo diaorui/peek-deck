@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "\u2018It\u2019s like the wild west\u2019: how AI has rocked the literary world",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmdRYmNReGlVTmdJam9WZGFxcUgxMVVMcnZQOFhrNTBVS3pWRG9qTFhWQ2ZsR3ZQSnNXZ0M0bXFxY043ZV9VN2ozaHd6RlMzVl9GLW1NU3IyRld2WDktZEZ3T095aHFBT21JT2xPUF9ha0J1a19YU2pXUGY1V2xaUTliZXpjZkFHNmJHUFBUMUFnaFJuR2RwSWZFYUozUWhTNkRuUXNVVVRIamFidG1xVjgySjRfZWZjeHdWTg?oc=5",
-      "pub_date": 1794646920.0,
-      "article_url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
-      "image": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/725_1297_5935_4748/master/5935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=117c27a2f9da3e1c4f06abfc82b06ffb",
-      "description": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?"
-    },
-    {
       "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
@@ -25,54 +15,14 @@
       "description": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved."
     },
     {
-      "headline": "AI company behind FAA\u2019s SMART tool denies link to ground stop, Duffy confirms",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXVXRE54ZzE0YWRsQlUtNmE4LUR3a0hjVGh3QXRSYTB6cHc1VlU2Sk10WEw1VWdVd3ZyTmw2Z25veTNJM2VWM3ZhV2VEdkxVSU1BWlk5MUkyMTJ3Y0NqS1dSd016UjBHS3NvV2NGeHZHUTNINkt5ZE9iLUxNQkx2YUNQdGhOMzlVb3fSAY8BQVVfeXFMTjFyanBTRHZFU3U5MUd1dnh0S2FxX0xDcVR0aUg5S2JNeHI5RFlBYkRlcVJ6Rnk3ZjV1X0czMkxKWnNiSTRpXzdPQ0pFMF9DazEyaG02eU1Va2pOQ3AyRS1ZblR4aFN1VHV6Zi1Qdlh5WUZPSnNLTGVYMTA1ZzFRVkgxelVRMXE2X3lMZ1E2c0k?oc=5",
-      "pub_date": 1794629040.0,
-      "article_url": "https://thehill.com/policy/transportation/6220416-faa-smart-ai-ground-stop-denial/",
+      "headline": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
+      "pub_date": 1794668912.0,
+      "article_url": "https://www.reuters.com/business/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-2026-11-14/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "The FAA\u2019s IT troubles are far bigger then AI",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdHQtblZGdTc1RXBnWHA5Tnp4bFVFUVFBNXJNRExWZ3RkUHJKRmsydlhtQl8wb0pnZDBBdy16RVNGc3BXZkVPbFVXUkpxUmdiX0t5OTN0c0dKd05jWHczZmdNZGpIbkNEQzdOeXVwcUx0ODd0eXROdF9VaWloTFJRcHktZGo0Q0E?oc=5",
-      "pub_date": 1794670048.0,
-      "article_url": "https://www.fastcompany.com/91642664/the-faas-it-troubles-are-far-bigger-then-ai",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91642664-faa.jpg",
-      "description": "Decades of aging technology and stalled modernization continue to plague American air travel."
-    },
-    {
-      "headline": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk9KSVZ5ZlN6RFNmNnlQVEZmYzB4RkxuXzVlaGEzMDdoZ1REdGkxNnhJdW9CMmszTEtpWGlWMUZUTkNLV3FSdll5S0ZiT29JWS1FZHVuSDJpeGxfQjNoUmZPOHdFcFJWUFlSQzdhN085Mld6ZDRJLU1jODF1dmRkQ0hKSWcxTGp4dUF5eENRTkYyLWYtZktxM2VmSnNBN2l2MUVTNHFLU3BzR00?oc=5",
-      "pub_date": 1794604740.0,
-      "article_url": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The bond market just turned on the AI trade \u2014 and chip stocks lost more than $650 billion in two days: Chart of the Day",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUGx6b2tReFJJeS1mOFByMGtZUkZtZnhabFVpWDJDN0VoY3BhV3BldGNRNzNGQjlfQTV3YWEzeklJQTVMNW1adWhSamJsX2JyZGl2c0NPdE9zNXJaWDNaM3c5a0FyaWtIQlNJUG1DZTAzNDhmR3V4akZmbkxHUkNQSFFSM0ZKRmV2OG03NmJENEZDdXdzTjRjLUloTFZwQ0hwZkJNQ2VPYk1wSVJUbjZkTUtOdnNMUDdOZXNFN2FJVDNnWHhKS3RYYnhtd0d0MVR2ek4tZ1llekpqUVZ3S1VvUnZETjEwNE9Va0VLR3lNTUNyZ1YxWmMydFlKVG5ELVlSRjM4?oc=5",
-      "pub_date": 1794662335.0,
-      "article_url": "https://finance.yahoo.com/markets/article/the-bond-market-just-turned-on-the-ai-trade--and-chip-stocks-lost-more-than-650-billion-in-two-days-chart-of-the-day-131855807.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fca496b7f58e4c25cb16e55a86b4db062df5ee60e1985e9be221ce9df191be7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F679a1ba7-e5df-4ea3-b0e4-bf4fe54ff32d",
-      "description": "Traders pricing in a Fed rate hike just took away the AI trade's bond market cushion."
-    },
-    {
-      "headline": "SpaceX Just Announced 2 New AI Supercomputing Campuses. I'd Wait Before Buying the Stock.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeVJDWkVFdC1VdGduc0pUTExQelQyb0s1TGtNR1ZKWFZKd05kN25PVTlzTFNoTGsyZTh2YV9UWUhrUkhpSjNOYkZVeFBYSEdkR3Qya0RZNk8yaUJYQ2R0N3FKYW1LZGwtVjNodTNXLUlSZDZzQ05IanJkSU5NV2Q5bmNwa0djYTVzZ0VjdU1CV1AxQnE4MmpEdm9yZHRRemJycnk4VkMxTkp5ejR0eXhXQ0F0MDN2Yzd6aldXZ2ZjRG1RNFZIejlJSmN3?oc=5",
-      "pub_date": 1794666360.0,
-      "article_url": "https://www.fool.com/investing/2026/11/14/spacex-just-announced-2-new-ai-supercomputing-campuses-i-d-wait-before-buying-the-stock/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2cb5a2f89e57bfb2ff2b28fdbf68e772913d0b43-2560x1706.jpg&w=1200&op=resize",
-      "description": "With up to $40 billion in spending already planned for this quarter, how will the rocket and AI company pay for its new campuses?"
     },
     {
       "headline": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
@@ -85,26 +35,76 @@
       "description": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers...."
     },
     {
-      "headline": "The China Shock in the AI Era",
-      "source": "Time Magazine",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
-      "pub_date": 1794657604.0,
-      "article_url": "https://time.com/article/2026/11/14/the-china-shock-in-the-ai-era/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf0aac38dee3bb7ed/6af6287a8e854c64022ce8bc/Weekend_Essay_China_Shock_AI.png?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
-      "description": "The dominance of Chinese manufacturing and the rise of AI could create new economic imbalances and strains on a massive scale warns Yasheng Huang."
+      "headline": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlZuRGNwODhyT3Npb1V3dDVFSnQ3OFZ2eDY1VUk0WDdLUWktdVNrSnQwQzhhZDJWcFdCeWtwd0plOG41bEdYSk9PZmFrQ1JlUjJqb3RKWXVzOWZCOHRrU3BoWlluOU5kczhwVldlZElqa0pyUHJ5M2tNYWZFVkF3T3hvTWc1YXdCTzdOVFdOTnRGREFJSHlvbFVsanFQWlNLczZUak1ZWlNoT0EyT1R2NGNhaUtJZw?oc=5",
+      "pub_date": 1794682119.0,
+      "article_url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108549797-1794473558680-gettyimages-2300707653-261019_KBMW_PHT102.jpeg?v=1794473568&w=1920&h=1080",
+      "description": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%."
     },
     {
-      "headline": "The Massive Chinese Spy Operation Targeting Western Tech and AI | The 10-Point for Nov. 14",
+      "headline": "Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmFxb0NFNGNaVzBRdzExcGJ6a2Jremg4N1JFQk1lRHlQME04V3NnQ2ZocVlBR2RkeVpVWmwzQ3BaVmZSZjhrTFZZTndQSTJNR2hieUtXSzdaNUdraVFlU3ZUNllBRFpNTUtTZUFJeTg3TTdIWGtib0ZKZmROZGk1NHVSeERfLXZoOHNGNmY1TTlqZGpVWjl2Sg?oc=5",
+      "pub_date": 1794684608.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-does-low-193008035.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c403b448937446026cc0426d25d7d622c4470a5f153d2b77344078cfac0ae3fb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc2c07d29dd5f33604c6d09b563d78d57.jpg",
+      "description": "We just published the list of the 10 AI Infrastructure Stocks to Watch After CoreWeave\u2019s Earnings and Micron Technology, Inc. (NASDAQ:MU) ranked 7th on this list. Why Are AI Infrastructure Stocks Under Pressure? AI infrastructure stocks have faced considerable selling pressure in recent weeks, as concerns over data center expansion, rising borrowing costs, and regulatory uncertainty [\u2026]"
+    },
+    {
+      "headline": "Art \u2018must not be sacrificed on the altar of corporate profit\u2019 Liberal senator says as AI policy debate rages",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUF2TjYyb1R6ZEJRSVB2UmdQM2d5TEdYenBEWm1LMWVNUHdzcnRkY250c3lwTXd0WW1TNWJETGoyZEdkQ3dHaS1KVUF6QzNpZ3FtWUpNcDg2UU9OWV9kenUxNjBvd19OdFpJM0lLQ0sySUwwRXhleXVVdDNteTB3VzBKclFSZmYweWNUYmFSVTAtMTFBQ2pJbTNNQmhvMWhwV0x5QmRqQQ?oc=5",
+      "pub_date": 1794682920.0,
+      "article_url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+      "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc8c16eac1f5108a0736b290b0363b0",
+      "description": "Andrew McLachlan says he chooses \u2018real forests over virtual ones\u2019 as he urges Labor government to consider AI\u2019s impact on artists and environment"
+    },
+    {
+      "headline": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+      "pub_date": 1794582544.0,
+      "article_url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "image": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-facebookJumbo.jpg",
+      "description": "Dario Amodei, the company\u2019s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
+    },
+    {
+      "headline": "Wealthy parents pay $75,000 for Alpha\u2019s two-hour AI school day. Half of its K-8 students missed the math target",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWVPbTBORW1yd0lRZEdVUXB4QkFVeTVZTGVWaFlqUGg5OGxtQnpucXhmdDhnSG41NkN4Y0FNenJHZHJ5SHoyYzAycThMWlVPZWNOTkliVG4wak1KZ0MxdUg2cEQ1WU1RMUloSzVreENvQ0hxZTZVREttOG5RLXpsM3ZRVjRhdw?oc=5",
+      "pub_date": 1794658200.0,
+      "article_url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2262902677.jpg?resize=1200,600",
+      "description": "Only 42% of Alpha students hit its 2x learning goal in math and reading, internal data show, as 2,600 public school students now use its software."
+    },
+    {
+      "headline": "Maricopa County judge dismisses DUI case after trooper uses AI",
+      "source": "AZ Family",
+      "source_url": "https://www.azfamily.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmZKNzJ4T3N3UlY0elhhU2hmUUhTTGlUZlZhbkhjRUcxeFNXQzBaMjdGNkpwTGRjLVR0SnpxMFc1bVFwOU1TcXJMUWVNVXJIX0FtcEZ1RTgxeDZHcF9CanhmQ1A5Nkl4N1VQOGlacE5FczJTMU5XeEVQb0pDc1Z4UVNoOXdZbS1xekxKSU1YVGNrbEZLaHJWOUdWOThhaGZn0gG0AUFVX3lxTE1JckFQazBiSkMzc1hCSVUyZ1hvQ096WmtaMW02MVhVYlRUNnNoaktteEhjaVlnU3dIRkVlandKcVdnYXhvcV9PSF9ydWZYbUhvdzlpZVhabTJPT3N2WHBYUDlkODVjbmEwWFdZakdfUm52ODR6NEJXQTJra0s1Z2tHTmhkaDVDVVVHa3lqbXljMGF0MFBhQzBJYVVPZDdxYlVad0NReTFDb1VCVlgzTF9wd19uUg?oc=5",
+      "pub_date": 1794628680.0,
+      "article_url": "https://www.azfamily.com/2026/11/14/maricopa-county-judge-dismisses-dui-case-after-trooper-uses-ai/",
+      "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/FVYIC3BXZBA3JD4T24SRKCHLU4.png?auth=54cf95b39e4a55c274f3da004ec00c85e48dbb2d5e3e20416ecac4b76d3aed07&width=1200&height=600&smart=false&focal=643%2C596",
+      "description": "More police departments across the Valley are using AI, which raises questions about what that could mean going forward."
+    },
+    {
+      "headline": "How I Used AI to Make My Grandson a Children\u2019s Book for Less Than $200",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXd4UlN6UWw5UmxJZGc3QnA5Sm5hVi1hRUl1blh3bnRfSnc3Zk4yeG53UjdFbjFvaklZbWRrN0ludmgxbm02cDFBZURTaXdDQTNxZ0gyZUk0OG5XeGVUUy1CZW94T19IUmVLWmFacU02eDVLbnYxcGU0TDI5SDVxMTQ3T0RaanNTdFFaUWpWZEZIbnVDU0hyUFpUVHAzajF4bTlJaWlCUQ?oc=5",
-      "pub_date": 1794657960.0,
-      "article_url": "https://www.wsj.com/world/china/the-massive-chinese-spy-operation-targeting-western-tech-and-ai-cd58ff86",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsdTVxVkFTTElnc05DR3JrTGN2SURqa3lfT1Q4RXBvTmJQdjkxOVRrTjA0eHpWcVNfVTBZSFVRV1pMR2Q5UElvYm1WbU9SbXhMcGxuSU13Y2ZyaWVGdzItZWhiOXRiVmc0d0E?oc=5",
+      "pub_date": 1794672000.0,
+      "article_url": "https://www.wsj.com/tech/ai/how-ai-childrens-book-aa480255",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-14T15:36:56.963961+00:00"
+  "fetched_at": "2026-11-14T20:28:12.790923+00:00"
 }
