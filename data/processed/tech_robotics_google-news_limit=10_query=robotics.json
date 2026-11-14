@@ -15,24 +15,14 @@
       "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
     },
     {
-      "headline": "Gemini Robotics 2.5: Accelerating Physical Intelligence",
-      "source": "Google DeepMind",
-      "source_url": "https://deepmind.google",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnFDRm1lR21jZXRpR2JUak1nSUpZeU9jSXkzRFVfanhaVll4clRtdWUyZzZFeXcwb2ZiS0NsUmoxaFZkcDlGbnJqa2lIM2hBdmNqb0hPTWl4UWc2LXFXcmRPbHF4Q2VzZWQ2UG96Y1FrUzE3dkVUT0dvNHkzLWN0Y25ZR3V1SVE0TGxxb1U5YVNfRUJxc25iaVZR?oc=5",
-      "pub_date": 1794322835.0,
-      "article_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w1200-h630-n-nu-rw",
-      "description": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments."
-    },
-    {
-      "headline": "Nvidia's supply chain investments include autonomous trucking and industrial robotics",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlc0SnY2WDQyaWxBWnV3ZjhDZWd4UXdKVWRGUXYxSkdGWHB3V2FvRi04ZXp4VEM3MU5zM2FGc3UxVTFNR2ZocGczM2x3U09GV0pwNTJlTXVJb3piak54azJld1l4akVPbktSNjhQSGRqRmJ1R3lDOEw1NktwdlljbjdtcjZSemFZQTd2X0Rfa1h0aS1zVnNLRUJiREVDZzJ2VkZrQ1NIM0dKcXZ0OG14QlFUeTNsQQ?oc=5",
-      "pub_date": 1794603298.0,
-      "article_url": "https://www.axios.com/pro/supply-chain-deals/2026/11/13/nvidia-supply-chain-autonomous-trucking-industrial-robotics",
-      "image": null,
-      "description": null
+      "headline": "Eric Trump-partnered Robotics CEO addresses 'Terminator' fears as he sends combat humanoids into warzones",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQenhjWkZONTI4TVZzcFNUUWZrT3JhYW42WlpqNVdaaFFHXzBRSFJwRm9aY3dySUxic0ZEb04xQkdHM0xDVlVpZUIzemFTR0RBaHlhNnNEMVloSmswNW1Zb3FDMU1yVE1uM2pGN2FENmYwalZNVTE3Ny1nT0tWa0FPM2VYbi02eG5kSnB3Yk04NnJZQUM2S0lyNkJ6MkwwRHEtWnVYMGFOV3dtd0xvUmVQQlN6SnFaQmRiVld4WnFR0gHDAUFVX3lxTE02LVZCUGZoM0Iwb3JwT2Z3Z2hsek9CckxYdG5ONkFjeFAzR0ZIM3Rac2hSaUNPcl9LZ1Ryd3lYTlY2N0JtNU82X20xbDZUTGNxZTB1NG5ZaVZWUnYxSGdJYTROZDluRy1MeXM4TlF1NE52OGhrUVJsRzJnTXp6dW5GSDBJVDNIbmU5QV9Vd3ZLNjJMc1JtMnpvc3p0TzZWMXlRa296R0owaUVBb3hXT2JrSTdzX3NiSTF3cUZEN2RfaF95UQ?oc=5",
+      "pub_date": 1794597604.0,
+      "article_url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg",
+      "description": "Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone."
     },
     {
       "headline": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
@@ -65,14 +55,24 @@
       "description": "The sudden 10% drop in Nvidia after Jensen Huang\u2019s resignation has shaken confidence in pure software and AI chip stories, pushing attention toward companies that put robotics into real world factories, warehouses, and infrastructure. That shift in focus creates urgency for investors who do not want physical automation to rerate without them. This article walks through three leading robotics and automation stocks from our screener and what sets each one apart. These three robotics and..."
     },
     {
-      "headline": "Eric Trump-partnered Robotics CEO addresses 'Terminator' fears as he sends combat humanoids into warzones",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQenhjWkZONTI4TVZzcFNUUWZrT3JhYW42WlpqNVdaaFFHXzBRSFJwRm9aY3dySUxic0ZEb04xQkdHM0xDVlVpZUIzemFTR0RBaHlhNnNEMVloSmswNW1Zb3FDMU1yVE1uM2pGN2FENmYwalZNVTE3Ny1nT0tWa0FPM2VYbi02eG5kSnB3Yk04NnJZQUM2S0lyNkJ6MkwwRHEtWnVYMGFOV3dtd0xvUmVQQlN6SnFaQmRiVld4WnFR0gHDAUFVX3lxTE02LVZCUGZoM0Iwb3JwT2Z3Z2hsek9CckxYdG5ONkFjeFAzR0ZIM3Rac2hSaUNPcl9LZ1Ryd3lYTlY2N0JtNU82X20xbDZUTGNxZTB1NG5ZaVZWUnYxSGdJYTROZDluRy1MeXM4TlF1NE52OGhrUVJsRzJnTXp6dW5GSDBJVDNIbmU5QV9Vd3ZLNjJMc1JtMnpvc3p0TzZWMXlRa296R0owaUVBb3hXT2JrSTdzX3NiSTF3cUZEN2RfaF95UQ?oc=5",
-      "pub_date": 1794597604.0,
-      "article_url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg",
-      "description": "Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone."
+      "headline": "Nvidia's supply chain investments include autonomous trucking and industrial robotics",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlc0SnY2WDQyaWxBWnV3ZjhDZWd4UXdKVWRGUXYxSkdGWHB3V2FvRi04ZXp4VEM3MU5zM2FGc3UxVTFNR2ZocGczM2x3U09GV0pwNTJlTXVJb3piak54azJld1l4akVPbktSNjhQSGRqRmJ1R3lDOEw1NktwdlljbjdtcjZSemFZQTd2X0Rfa1h0aS1zVnNLRUJiREVDZzJ2VkZrQ1NIM0dKcXZ0OG14QlFUeTNsQQ?oc=5",
+      "pub_date": 1794603298.0,
+      "article_url": "https://www.axios.com/pro/supply-chain-deals/2026/11/13/nvidia-supply-chain-autonomous-trucking-industrial-robotics",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Gemini Robotics 2.5: Accelerating Physical Intelligence",
+      "source": "Google DeepMind",
+      "source_url": "https://deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnFDRm1lR21jZXRpR2JUak1nSUpZeU9jSXkzRFVfanhaVll4clRtdWUyZzZFeXcwb2ZiS0NsUmoxaFZkcDlGbnJqa2lIM2hBdmNqb0hPTWl4UWc2LXFXcmRPbHF4Q2VzZWQ2UG96Y1FrUzE3dkVUT0dvNHkzLWN0Y25ZR3V1SVE0TGxxb1U5YVNfRUJxc25iaVZR?oc=5",
+      "pub_date": 1794322835.0,
+      "article_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w1200-h630-n-nu-rw",
+      "description": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments."
     },
     {
       "headline": "Here\u2019s What a $1,000 Investment in Kraken Robotics Will Be Worth by the End of 2027 if Undersea Drone Orders Keep Doubling",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-13T21:13:48.889475+00:00"
+  "fetched_at": "2026-11-14T01:36:17.242351+00:00"
 }
