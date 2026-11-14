@@ -5,106 +5,106 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin falls below $70,000 as dollar surges and $1.6 billion liquidated",
+      "headline": "Meet \u2018Captain Keel,\u2019 the 37-year-old steering a Bitcoin miner into the AI data center gold rush",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWN4LUNvR3dwMFktYVFpRmZuM3MyLWhCakVVQUJjbkIwTzI3Qk1qa2Njd2lPYU1pYVdHVGRSbmdnZjBMZkZVbkt5ZHAxLXBYdVZmcXVMakxtTnRjRFFPRmgyUDNzWS1oQnI2dFN2cm9FaF9IczdjZ1dMTlhJbF9DRkt4RlpFVGkxVk1xUGYtRFk?oc=5",
+      "pub_date": 1794650400.0,
+      "article_url": "https://fortune.com/2026/11/14/ben-gagnon-keel-infrastructure-ai-data-center-gold-rush/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/7D0A7613-horizontal-crop.jpg?resize=1200,600",
+      "description": "Ben Gagnon is turning Bitfarms into Keel Infrastructure, swapping crypto for the one thing AI giants can\u2019t get enough of: power."
+    },
+    {
+      "headline": "Bitcoin is falling to fresh lows today: What\u2019s causing the crypto decline?",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWJYNlFZNUVIUzdMNFpmQ216eXZmbnQ2Qlcydnd2Vzd0NTgtTFBlRHVaRFd3emtUMW5peVZHZEtyYWJDQTYwQlctZ0x3c1FRUTZ2WjhKZlJ3WExVUV9nemE1bkZhbXAxN1o2aHU2Z2swZnFOUE5YWkNQTUx4Sk1JMi1YV1hFWmtrb3VxZ21sdXdRQlNfZDM2VQ?oc=5",
+      "pub_date": 1794582080.0,
+      "article_url": "https://www.fastcompany.com/91642070/bitcoin-price-why-btc-down-today-inflation-outflows-more",
+      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91642070-bitcoin-sinks-new-low.jpg",
+      "description": "The cryptocurrency just slipped below $70,000 for the first time in three months. Experts say what happens next depends on multiple factors."
+    },
+    {
+      "headline": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFZqX2ZESVVsSVVJMU1kR3czUU9wYzdyN3lpTkZsMms4azhnTVRyTkpEZ055c1BjQ1RiTDNLVWZTcHFLYkNQY0RhQVIydEthXzFpTFVvMGxPaXZPM0VFdzEzY1psNi1xOE5ZYzlaRjBrWVZQU1oyRkdCMzRfX2VyUVkwbXQ?oc=5",
+      "pub_date": 1794661209.0,
+      "article_url": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "UK pays wind farms to switch off. Crypto advocates say bitcoin miners can fix it.",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmN2SHc5R3NaLW95Rkw4bzdvbzA5NldfS0ZDTFlES0hYZjAwVlBXS2t1bk5ocDJfZjlkS0NmTWFqUjdVWFVmYThReUxyWmFueEU5RXQ4NXZoRGxXS3N1UVc4enJueVdwdlZYc2xSQmtsVnNaZTJWWExFU0s5c1N1YjhJMkpIOGtxSmlQbEpveU44OWxSWUtJVC11R09KQlB4TktFd296RE5RODdicENOemhtZU5YLWxmdWhxc0RZZmt3Y24tN1ZES05vSFM5elVsVGYyNjRkUC00cTg?oc=5",
-      "pub_date": 1794570745.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2dSTVgteC1yX2VlNTZtTVNGSDBmZGIxQjhKN3VZclU2UDh2NEpBak40REhBcm41REFGaHBKQ3pZcnlyaWZPc2FJVnJiZ3pZWFUtSHM3ZG0wbnJDNEg2a1hoTkkwOXJfVUl6aWdKRm1pVGVHVHBlOGpMYWhKaExDeW9rdi1DRWp5OEhQS3pZWEExSVJsZkpxUmtEb0VVY3dtcDJlTGphNlBnNmFWSTNEUko5cWgtcUdWTkM3REU2ZUVrMEsxdlFhM0k1aHI0OFNvV2hR?oc=5",
+      "pub_date": 1794661200.0,
+      "article_url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy's Michael Saylor Says Bitcoin Is Now a Bipartisan Issue That Crosses Party Lines. Here's Why He's Right.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekdFNXNYTWZYbC1WakM1SUFFY1BETXJwSXBLdlExdEpwTzVwVTk4My1Pc0NheHVfSW93WW1NOGo3X2gxeU05eGJEcTlQcktteFRsbThuQjBFUDRwNEFucFFxUzF4QlI0cUZwUFZ1WC1CLTR2UnlocWRxSkZjU2pPOEZrMVcxNFZrYTVRNmg0SDZ0RHc5MkdCVjJqQ09hd09WM3RwUQ?oc=5",
+      "pub_date": 1794657720.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategys-michael-saylor-says-bitcoin-120200961.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/471357805bbfc34a71c3f570835d0ecb49c275b1e8f4a19faecfd9ad6bedd579/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F28d8431f50be79d41bb5bdbdc6e7612b.jpg",
+      "description": "Even with a Democratic majority in Congress, Bitcoin can still soar higher over the next two years."
+    },
+    {
+      "headline": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkZIQTA4ZnRvTHpyc1RTMUp3RWw2aDNBNXNXdnJRRmlqMmxIekNVWmpPN2pOallua2JpNDZQcFZ6QlZKbWlMVjdFMXJIblowclhFdFRBMno3Wld0RUFuT1FhMDhCQ3l0SmF1OV9ZUTdVdWozY0pyYnFLdmNGSWY0WGVCQjRndHlXdXJhb0txcWN6QmV6V0gyUVZxd1Eyb0JqaWNqS2RkdFV5MmNwZEtQR0hEOU5CMzFZTnRHNDh2MVF3SlVQejQzVlpnQzdNZw?oc=5",
+      "pub_date": 1794660990.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWY1S3lwODdSRDlsR3F2Z181UE1HZUhWOWZEckxNVUZ3azFpOU9zVldJeENrS0VYYlVOWmRsTndGU3NBSXlKNmpRbXlkRGNtS2ltS0Z3RTR0QUlWQVRfYmNBNzZwUl9pTXp3ak1CeTV0cjNwcHZoT1BWaFIwTmxWNlpfRHJRT21aeE13YVgzRTJsSW5IOTJjRjYwSTRiNm5iNU8xUnA3WE9lQklUd2Y0M1JOVjFkTUxRV1Exd2xuVnFSclF2?oc=5",
+      "pub_date": 1794605160.0,
+      "article_url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Don't Wait\u2019\u2014Bitcoin Suddenly In Free Fall As Price \u2018Collapse\u2019 Fears Trigger Surprise $2 Trillion Crypto Crash",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY01Zd3JwVWFzTjBReVVyWEdXT2VDdWJ2cUFwb1ptTTduOXdRbmp2Mjd5eU9fU21kcThub2NDZ2pqNTBOM1VPTTVRY3lqc2NfTFBjS0llSjBrZEpuQVhBa1RiWkV5NnZyX0NuMTZqamhXMkVfVlZJOWttV0dlbVhLYnFtZnAtLTZUNzJnM2ZnRXZvdjI0ejg5cmZ6QUI5QTM4UERnODIzVkZtTTUtbjlJczE0TkRtSGUydUlZc0ZaV3c?oc=5",
+      "pub_date": 1794658505.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/14/bitcoin-collapse-fears-suddenly-surge-after-2-trillion-crypto-crash/",
       "image": null,
       "description": null
     },
     {
       "headline": "Strive CEO Says Bitcoin Could \u2018Go To A Penny\u2019 And The Company Would Still Survive Because It Has No Debt",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2dSLVE1ZVRTOHRpVlh0c05HcGJmYXJaQUNXTHRsQTJaRmhkUThSaGY1MEVJdDZXTGxpZHBsT1YzOW5DSGpLYzcySVpfNzFYWXNQaDhaU0hzX283bkNhVUJNSFdMbklVVU9hWmc0OXVYeUNhWWc0RXJtczE2M3k3TDdrZUIzX3VkMGhZUzVsczJ5VlYxTXNYMW1R?oc=5",
-      "pub_date": 1794638419.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-says-bitcoin-could-064019362.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0577574b430492652fd761a9fdc23efea730a1f4b94bcdfa7cd8c064edcdf4dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Ffc4060fa6580837725d9d17f8ff890e2.jpg",
-      "description": "Strive keeps around 85% to 90% of its balance sheet in Bitcoin and 10% to 15% in cash, which can cover its obligations during a downturn, the CEO said."
-    },
-    {
-      "headline": "Twenty One Capital CEO Says \u2018A Balance Sheet Is Not A Business\u2019 After $1 Billion Bitcoin-Driven Gain",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkwxdnAtUURGVlVhN3ZIOUkxLTA3SjNtSzNBd09lTjcyT1NZeEU4bnFrcFlGbHlaVGJmUnFMNWxNdmNLZGV0eFpvb2xQNFcxQTlzejlWQzBKb1VUeDJpOVJ4ZnB6cTl5NHVpdnpudDYyNTRiUUNTZ1dITEVETExEVXBFRXR6ZFBfQ0NpdUNPSE5DTmlLM1BF?oc=5",
-      "pub_date": 1794642546.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/twenty-one-capital-ceo-says-074906529.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7673731d06c4ca98c3bb2fefc7c876ab583fa4dc8dc64a3e35e346319220a565/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F755bd64b9c6b5247c14aa7601f355633.jpg",
-      "description": "Twenty One Capital ended the quarter with over 40,000 Bitcoin and $102.8 million in cash."
-    },
-    {
-      "headline": "Bitcoin\u2019s Billion-Dollar Wipeouts Are Becoming a Familiar Sight",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUd5VFhXYWFteUNtX00xalQyaGdaSUNqRkxNY0FwaWY4WFdrWE4wdTZJWV95Y1YxU3NpVkVUX0lxdl9uQnl5TGVzUEFodHdCQl84b09TU25IY19VLXc0YjhmaDlWb1hfeEFuX29oT2tIOFQ0ekNFd25wb3lERUdqVUZlOTZnbGxlT1NpUWttdUgxNm1OQzl4QVZXd3gyZVV5UTFOTGtVM2dwUEdxcW53a0NobGY?oc=5",
-      "pub_date": 1794629040.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin and AI are fighting a $350 million battle over a dam in Paraguay",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDdUdHpvVE5rQ1FtTzYtYmlIdzNsTkN0NGZiekhPYzhpTUF4RzlaMk00VFBVcVloMkJhWGlSV0ZPOGJtSHhwYWI2ODVoZ2tDTG8zcnJCa0JjUWNpT2hRYThiNHA1b3AyWVZWVW5Fal8zMGNKOUprWFd2d1dORDZyZFE4TWlSRDRPVWl3UU5oM005UnZtaHhFY2k2aUFYbm9kNmNqNmxvdWFfT0xLY3o3NjVLYUhmMEtl?oc=5",
-      "pub_date": 1794612600.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa2VmSUtpVkxWU1lnZWh2eW1LQTNzSjk5WkZqN2VaZ01ETHotVzRWY3QyeklsbFpOLXRmTjdhVTVqNU5PYXduYmw1cldtMGZvSFdYWkZDc0Z0RU5SazA0dVh1YmJyaFBXSV9fRVYzbHB5MThNb0NCQ0VfYm9BT1FHXzBCOHFTR3ZXNWROV0RTX00wNzhfVDVSQ1JXRkZ6QjZ0aE12a0xzM3doTHZGanhkbV9ISmQ1TE5wZ0pJQm1iMVY0QkY3bjJXTGZ3Sk5DME1v?oc=5",
-      "pub_date": 1794607208.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLTN6WVdTdkhvbUFGQ1JkLUMzVnUzOGhya1JVaV8wVU40dkxpdWk5MkFEdTdyMXhudm92TDBHUEdldW1DZG82ejZnY0taMENMdEE5UWd4RnI3YldPRVF3NGtDWE9GVEs4QldvTUQtRDVxZUg2c3FLTERrOUFfYm9ETjVxOEJEcHRqRVR4aVNEeV9kTEMyOEVHVU8yazZzNmhYQXZlY1hfZ25rRUZrbDZxcUJnY1M5OXZuSU8tXzZycWR0SkZ3a0lOajZiT0pKRGJLUGxuZFcwY0VrMk02bU1ZWVpyTWtZakMtSUNYUDlNbHozWVg0bUE?oc=5",
+      "pub_date": 1794638400.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:ef18eaaa9094b:0-strive-ceo-says-bitcoin-could-go-to-a-penny-and-the-company-would-still-survive-because-it-has-no-debt/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move \u2018Pure Manipulation\u2019Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever\u2026"
+      "description": "Strive Inc. (ASST) CEO Matt Cole said that Bitcoin (BTC) \u201ccould literally go to a penny,\u201d and the treasury company would still survive because it carries no debt that could force it to sell.Speaking with Anthony Pompliano on the Pomp Podcast on Thursday, Cole\u00a0explained that Strive raises money only\u2026"
     },
     {
-      "headline": "Michael Saylor\u2019s Entire $64 Billion Bitcoin Pile Is Underwater, So What Happens Next?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWdmdWxBSGFOY3I3RE1mZkc2QWlBN0lYWVV5M2hRNjI1MVZndWxvXzJhTTU0cHQzeFVQa0JKbmxQajhub3NPZk1NZkI3a3VGc2dfcEU5ODEyZGlqTk80WVhnV1huLXlGUEJNNUpyU1paSWNtdk1YbWNqdXFkemNPa3VDRmZMcmU5MlZXd0tKSG9IaDFsMU1STnNfWmFYZTk3QnNSb0ZJYmg5dWJVRXdiSk80X3JZdmctSEE1ZW50b2h1a1k?oc=5",
-      "pub_date": 1794588540.0,
-      "article_url": "https://247wallst.com/investing/2026/11/13/michael-saylors-entire-64-billion-bitcoin-pile-is-underwater-so-what-happens-next/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/01/GettyImages-1321733357-scaled.jpg",
-      "description": "Bitcoin slid below Strategy's cost basis just as ETF outflows mounted and an index giant prepared to cut the company loose. A single date at month's end could decide whether Saylor's bet gets relief or another round of forced selling."
-    },
-    {
-      "headline": "Trump\u2019s Bitcoin reserve can\u2019t buy Bitcoin without Congress, says Witt",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX050c2Nmd1hFNWlCWU0tTWU3eEF0UGo4MloxWWU4c1h5Mi1jN3lYNTU0eGZMQXc3cm84aUt1enMtZHZwY2tPMVBXSUlUWjdYNVVWWVZpc1V4S1V2cDhKalJVTVR3bTA2am9VOXRBaFFjUmtsZjV6MG9lVjdJVjluV3RxMA?oc=5",
-      "pub_date": 1794629278.0,
-      "article_url": "https://cryptobriefing.com/strategic-bitcoin-reserve-needs-congress-approval/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/14020839/library-trump-s-bitcoin-reserve-can-t-buy-bitcoin-without-congre-2-800x320.png",
-      "description": "Patrick Witt says the Strategic Bitcoin Reserve needs explicit congressional authorization before the US can buy Bitcoin on the open market."
-    },
-    {
-      "headline": "AM Markets Need to Know: Anthropic IPO demand surges, Bitcoin slides, and more (SP500:)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXJMeHNwTERIbk5MVW5ab19hTnNUNEhFS0pfeEt3OE1aRHJVLVlVbER0VkRtRmVLU3NkeW5SN29zdXZvMVZYeGExd1BoMHZmYUd2X1BDQnIyNkNiaERqRXF3TjU0cGZVRFh0aGRURjNsalkwWnFXVDVBdmZRYTZwaDNSMngyN2VEeEptMWEwenBDM0Z6c2tJa2d4N2d1S3ZuR2I5UU9LQTdoeVpzVUh5V1Z1OA?oc=5",
-      "pub_date": 1794569842.0,
-      "article_url": "https://seekingalpha.com/news/4672226-am-markets-need-to-know-anthropic-ipo-demand-surges-bitcoin-slides-and-more",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2259148968/image_2259148968.jpg?io=getty-c-og",
-      "description": "Anthropic\u2019s planned $64.4B IPO reportedly draws 6x available-share orders; Michael Burry adds Nasdaq puts as Bitcoin falls to about $69,000."
-    },
-    {
-      "headline": "Bitcoin Falls Below $69,000 as Ether Slides Under $2,000",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZTY1NTlWQjdjRXM2UHNlUVRwdmVfTkE0MjdsRzNlZm1xd0ozby0xREZXTmZ4RzJXUUVqNjRhZW41TnFaX0RBUjgxU24ydS1adEdLNkxBY0Q3bWFINHAzQlNZQkt2Y3hSa2hVNjBHS1JDdmdHYXFjTnk2ZkhSc2N2cEZscjFZdFJHM19scUVjX19VYkk?oc=5",
-      "pub_date": 1794640620.0,
-      "article_url": "https://thedefiant.io/news/markets/bitcoin-falls-below-69-000-as-ether-slides-under-2-000",
-      "image": "https://cdn.sanity.io/images/6oftkxoa/production/11696e93e39b2db91041e6f60faf808549a07593-2048x1152.webp?fm=webp&q=85",
-      "description": "Bitcoin and ether traded below $69,000 and $2,000 on Nov. 13. Coinbase data show the scale of their daily, weekly and four-week losses."
+      "headline": "Try Your Luck at Bitcoin Mining with This $45 Desktop Miner",
+      "source": "Entrepreneur",
+      "source_url": "https://www.entrepreneur.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcEYzMkxCMno3Q2Nrb2RDSmR4WVVKVXZEVV81MW5FMG1Fd0U5NEJqVWN5ZU9ZYVFCS1M5RUlDY2FZVEIwOEhBS2VWRmJTbFJ1TVJMY0Zod3JyTmgxd3hKMm5yUzR2NHZGdFRQSlozY3BZWHZFUmRNZmpaLVBrZTJLWjFEemRFN0FmUUVFQU03SkN6VkJPWGh2YndBSDE2YkVYenJMRk0zYUFpQQ?oc=5",
+      "pub_date": 1794665025.0,
+      "article_url": "https://www.entrepreneur.com/business-news/tech/try-your-luck-at-bitcoin-mining-with-this-45-desktop-miner",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/BlockChance-Bitcoin-Ticket-Super-Miner.png",
+      "description": "A compact solo miner lets crypto enthusiasts experiment with Bitcoin mining without investing in expensive hardware."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-14T08:40:58.956136+00:00"
+  "fetched_at": "2026-11-14T15:37:02.269029+00:00"
 }

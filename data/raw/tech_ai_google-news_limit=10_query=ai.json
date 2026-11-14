@@ -5,24 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
-      "pub_date": 1794582001.0,
-      "article_url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108469835-1793120540409-Screenshot_2026-10-27_at_10008_PM.png?v=1793474850&w=1920&h=1080",
-      "description": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards."
-    },
-    {
-      "headline": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
-      "pub_date": 1794612011.0,
-      "article_url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-      "image": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-facebookJumbo.jpg",
-      "description": "Dario Amodei, the company\u2019s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
+      "headline": "\u2018It\u2019s like the wild west\u2019: how AI has rocked the literary world",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmdRYmNReGlVTmdJam9WZGFxcUgxMVVMcnZQOFhrNTBVS3pWRG9qTFhWQ2ZsR3ZQSnNXZ0M0bXFxY043ZV9VN2ozaHd6RlMzVl9GLW1NU3IyRld2WDktZEZ3T095aHFBT21JT2xPUF9ha0J1a19YU2pXUGY1V2xaUTliZXpjZkFHNmJHUFBUMUFnaFJuR2RwSWZFYUozUWhTNkRuUXNVVVRIamFidG1xVjgySjRfZWZjeHdWTg?oc=5",
+      "pub_date": 1794646920.0,
+      "article_url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "image": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/725_1297_5935_4748/master/5935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=117c27a2f9da3e1c4f06abfc82b06ffb",
+      "description": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?"
     },
     {
       "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
@@ -35,76 +25,86 @@
       "description": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved."
     },
     {
-      "headline": "Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+      "headline": "AI company behind FAA\u2019s SMART tool denies link to ground stop, Duffy confirms",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXVXRE54ZzE0YWRsQlUtNmE4LUR3a0hjVGh3QXRSYTB6cHc1VlU2Sk10WEw1VWdVd3ZyTmw2Z25veTNJM2VWM3ZhV2VEdkxVSU1BWlk5MUkyMTJ3Y0NqS1dSd016UjBHS3NvV2NGeHZHUTNINkt5ZE9iLUxNQkx2YUNQdGhOMzlVb3fSAY8BQVVfeXFMTjFyanBTRHZFU3U5MUd1dnh0S2FxX0xDcVR0aUg5S2JNeHI5RFlBYkRlcVJ6Rnk3ZjV1X0czMkxKWnNiSTRpXzdPQ0pFMF9DazEyaG02eU1Va2pOQ3AyRS1ZblR4aFN1VHV6Zi1Qdlh5WUZPSnNLTGVYMTA1ZzFRVkgxelVRMXE2X3lMZ1E2c0k?oc=5",
+      "pub_date": 1794629040.0,
+      "article_url": "https://thehill.com/policy/transportation/6220416-faa-smart-ai-ground-stop-denial/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The FAA\u2019s IT troubles are far bigger then AI",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdHQtblZGdTc1RXBnWHA5Tnp4bFVFUVFBNXJNRExWZ3RkUHJKRmsydlhtQl8wb0pnZDBBdy16RVNGc3BXZkVPbFVXUkpxUmdiX0t5OTN0c0dKd05jWHczZmdNZGpIbkNEQzdOeXVwcUx0ODd0eXROdF9VaWloTFJRcHktZGo0Q0E?oc=5",
+      "pub_date": 1794670048.0,
+      "article_url": "https://www.fastcompany.com/91642664/the-faas-it-troubles-are-far-bigger-then-ai",
+      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91642664-faa.jpg",
+      "description": "Decades of aging technology and stalled modernization continue to plague American air travel."
+    },
+    {
+      "headline": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldJX01OcW9RMkRvR2QxbDljdmNZMGEyVUlnRjkwTWtqbmRsdVZHYnktd0ExUjlOYXFtNXdqcldodFpmemEyQWNfRDZXXzhIUi1DUVI2NFNBczZxdzc2ZWM0eW16bFJSa19PV1ZvSnQ2N1Y0RnJPM2F5R2VTWG1DOVBHNUFjUkhRbWZnYXFEenRMVjJlVlgyOF9JOA?oc=5",
-      "pub_date": 1794531600.0,
-      "article_url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk9KSVZ5ZlN6RFNmNnlQVEZmYzB4RkxuXzVlaGEzMDdoZ1REdGkxNnhJdW9CMmszTEtpWGlWMUZUTkNLV3FSdll5S0ZiT29JWS1FZHVuSDJpeGxfQjNoUmZPOHdFcFJWUFlSQzdhN085Mld6ZDRJLU1jODF1dmRkQ0hKSWcxTGp4dUF5eENRTkYyLWYtZktxM2VmSnNBN2l2MUVTNHFLU3BzR00?oc=5",
+      "pub_date": 1794604740.0,
+      "article_url": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49",
       "image": null,
       "description": null
     },
     {
-      "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
-      "pub_date": 1794589500.0,
-      "article_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
-      "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
+      "headline": "The bond market just turned on the AI trade \u2014 and chip stocks lost more than $650 billion in two days: Chart of the Day",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUGx6b2tReFJJeS1mOFByMGtZUkZtZnhabFVpWDJDN0VoY3BhV3BldGNRNzNGQjlfQTV3YWEzeklJQTVMNW1adWhSamJsX2JyZGl2c0NPdE9zNXJaWDNaM3c5a0FyaWtIQlNJUG1DZTAzNDhmR3V4akZmbkxHUkNQSFFSM0ZKRmV2OG03NmJENEZDdXdzTjRjLUloTFZwQ0hwZkJNQ2VPYk1wSVJUbjZkTUtOdnNMUDdOZXNFN2FJVDNnWHhKS3RYYnhtd0d0MVR2ek4tZ1llekpqUVZ3S1VvUnZETjEwNE9Va0VLR3lNTUNyZ1YxWmMydFlKVG5ELVlSRjM4?oc=5",
+      "pub_date": 1794662335.0,
+      "article_url": "https://finance.yahoo.com/markets/article/the-bond-market-just-turned-on-the-ai-trade--and-chip-stocks-lost-more-than-650-billion-in-two-days-chart-of-the-day-131855807.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fca496b7f58e4c25cb16e55a86b4db062df5ee60e1985e9be221ce9df191be7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F679a1ba7-e5df-4ea3-b0e4-bf4fe54ff32d",
+      "description": "Traders pricing in a Fed rate hike just took away the AI trade's bond market cushion."
     },
     {
-      "headline": "\u2018Ahead of his time\u2019: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmZkUnVoTE4wSmlQSE90Vy1Hd0U1elZDOUtuVmxCYkVsWUtWTkNpYTdaSXQ3QjBuRGUwWE0yZ2UwSzg0UzdTbHB2WmRLeXUyQ3lBUnZ3RXhMVUtxQ1oxd1hUODVRcml2VFE3aGF6MmlCQ3JKWXNEU1AzQzZSUGhqWl8zd1NpSUxnVnRxQldMNXV4c2ZmNHhhTjZjUHREc1hMWXQydzQzWjJQbW9rcGcxcWZuMmJaRk1jMDNLbzhQUDhVUmNpcDJ3WQ?oc=5",
-      "pub_date": 1794595080.0,
-      "article_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
-      "description": "Kurt G\u00f6del left 1,009 pages of densely written text \u2013 much of it in an obsolete shorthand \u2013 which is now said to contain hundreds of proved theorems"
+      "headline": "SpaceX Just Announced 2 New AI Supercomputing Campuses. I'd Wait Before Buying the Stock.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeVJDWkVFdC1VdGduc0pUTExQelQyb0s1TGtNR1ZKWFZKd05kN25PVTlzTFNoTGsyZTh2YV9UWUhrUkhpSjNOYkZVeFBYSEdkR3Qya0RZNk8yaUJYQ2R0N3FKYW1LZGwtVjNodTNXLUlSZDZzQ05IanJkSU5NV2Q5bmNwa0djYTVzZ0VjdU1CV1AxQnE4MmpEdm9yZHRRemJycnk4VkMxTkp5ejR0eXhXQ0F0MDN2Yzd6aldXZ2ZjRG1RNFZIejlJSmN3?oc=5",
+      "pub_date": 1794666360.0,
+      "article_url": "https://www.fool.com/investing/2026/11/14/spacex-just-announced-2-new-ai-supercomputing-campuses-i-d-wait-before-buying-the-stock/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2cb5a2f89e57bfb2ff2b28fdbf68e772913d0b43-2560x1706.jpg&w=1200&op=resize",
+      "description": "With up to $40 billion in spending already planned for this quarter, how will the rocket and AI company pay for its new campuses?"
     },
     {
-      "headline": "The AI boom was built around Jensen Huang. Now what?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JOE10ZkcxSXRCTEEyazBYTmluT184SEhGUkd5cmxwd2RhV19qM1RHR01lUkpZa0lyNUJLempiR0RMQUw1TnpRb1NmbWxwemd6aHNpSktJRWZubkp2ZmNnb2RkQ0RfN2F1TnR5cElGNGJPQVhiM0t3?oc=5",
-      "pub_date": 1794560415.0,
-      "article_url": "https://www.cnn.com/2026/11/13/investing/ai-boom-jensen-huang-nvidia",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243417491.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Jensen Huang\u2019s resignation from Nvidia in scandal leaves the company without its visionary leader. It also leaves a major void for the AI industry, where Huang was kingmaker in inking deals to support the tech boom."
+      "headline": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+      "source": "TechPowerUp",
+      "source_url": "https://www.techpowerup.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUFpREJuUk5RTzk1YWVQSGlwVDl5bmFlMC0ydXBRbmhGeGdmMGlfc1FRRzI2NlVuNEhxZU9tZkR6Qld3RnRCdGdza3l0LTh2OHZndWVTbGYtTDRyS3ZpRHBmQWpKS1BoS09SRWxqNWlPUWlDTGk4QWtUeGlaTEREV01BcVVFOTNPVUdIZDgydXNYejdQVUNEcGRBSEhlbVRybmFNMXVTZHo0MzNwb1NV0gG0AUFVX3lxTFBJVS12T1hxME9ZUUZCd2UtdkRMSGxzZlQyYjZaRTJ1M184ejdUb1lIT05haTNOOGUxMnd5ZlFvTHYxQ1JMX0VXUXNMZ05VZXJHYl9CalNJVDBoRVlFODg0RU1KRkY3OFNOdmc5Z0pNUlhmcXRfcTg0UDJGTHlQRW1kQjNxNXpsRU9mN1hMYURoQjN3em1mTUV0eEFCQXhZb3JyWUZ0cTJEU3NVcGZwMmxqYi1Vdw?oc=5",
+      "pub_date": 1794609073.0,
+      "article_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "image": "https://www.techpowerup.com/img/ooCln2q3jkKNGHen.jpg",
+      "description": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers...."
     },
     {
-      "headline": "How AI has become a utility bill for Gen Z",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWtZTE1HcjQ3dmptT2ZPRzlZQUYxUkVIWDRqbVJGOTVCYllMVVZoN1ptMk5EcEoxTWVLZEVDQUdwUlVwZWwxYlk5UzA2blVKNHNSQVdnOS1Uck5wSjhxN2xGZXpNaGR3WXRDUF9IbzlOVkEyOHZkY0hFdUNjQ1d5ZGJFUHRHamV1c0ZaOURIU0hpVjVqSktsTQ?oc=5",
-      "pub_date": 1794584797.0,
-      "article_url": "https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/",
+      "headline": "The China Shock in the AI Era",
+      "source": "Time Magazine",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVHNxLWdkakZXWEpaa2tHUkwxTnhOYVFqUEgzT0N5cWxzUjZTclZ5N2NHX3pDOGpBOWNYQkNWV3RlaFktOHZNNG1UVHUtRDRmMmI1NjktcTBSalp4NHN3M1JvNEtsWWd2UW5iMTlIblI1azN2?oc=5",
+      "pub_date": 1794657604.0,
+      "article_url": "https://time.com/article/2026/11/14/the-china-shock-in-the-ai-era/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf0aac38dee3bb7ed/6af6287a8e854c64022ce8bc/Weekend_Essay_China_Shock_AI.png?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+      "description": "The dominance of Chinese manufacturing and the rise of AI could create new economic imbalances and strains on a massive scale warns Yasheng Huang."
+    },
+    {
+      "headline": "The Massive Chinese Spy Operation Targeting Western Tech and AI | The 10-Point for Nov. 14",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXd4UlN6UWw5UmxJZGc3QnA5Sm5hVi1hRUl1blh3bnRfSnc3Zk4yeG53UjdFbjFvaklZbWRrN0ludmgxbm02cDFBZURTaXdDQTNxZ0gyZUk0OG5XeGVUUy1CZW94T19IUmVLWmFacU02eDVLbnYxcGU0TDI5SDVxMTQ3T0RaanNTdFFaUWpWZEZIbnVDU0hyUFpUVHAzajF4bTlJaWlCUQ?oc=5",
+      "pub_date": 1794657960.0,
+      "article_url": "https://www.wsj.com/world/china/the-massive-chinese-spy-operation-targeting-western-tech-and-ai-cd58ff86",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Leading AI safety advocate likely to run for president",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlNWWFJYZk1JZ0xCZjl2bWtJRmFOaXZBQnVROXJGb2djWWJlNXNsQWFBT05CbUFlV203NW9vWU82S2pudnhLZ3lDVFRsUEdnY1NZLWZubzh5b1pDcEZraXBsZEtCbDM1TVFtVXdNaXZIZE51Nk0zV0J4U2lUenREY1Q2ajUyR2dUUDZEZlZkb0N2Q09sb0VEQWhkN290YXlUVVE?oc=5",
-      "pub_date": 1794574860.0,
-      "article_url": "https://www.politico.com/news/2026/11/13/former-rep-brad-carson-likely-to-run-for-president-01164544",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
-      "source": "Amazon Web Services (AWS)",
-      "source_url": "https://aws.amazon.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQME01UzVZbGlaOHczRl94ZE1sVmdtM1FfRjI5ZHdYWHNHaWFyMkMtT1EtN0tZYzhvUXp4aFpmSFpnZDhETUFfcjVUMHNmYlItdWpnQU1xeERfbDIxMW5PV3RFTXRnRXZxYTRFTDNnN21mai1zNkJQaTNSQXRPencxY1FLOHUwQmlXZWtQME5ONVQ3RTYxYzZmSDQxdFhBa1d3U2JhTmZMTDVHY1hlcHNBeUVZSERkTUFjOUxBZkNLQksyLWxsN3NmdEhfRFZpODhCaVU4OQ?oc=5",
-      "pub_date": 1794601602.0,
-      "article_url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
-      "image": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/06/16/security-padlock-digital-1260x630.jpg",
-      "description": "From Oct. 3 to Nov. 5, 2026, Amazon\u2019s MadPot, a globally distributed network of decoy threat sensors, captured requests from AI agents that included operating memory from offensive campaigns that threat actors ran on ARTEX, an open-source agentic AI penetration testing framework. The ARTEX agents sent these requests to MadPot sensors configured to present as [\u2026]"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-14T08:40:54.537830+00:00"
+  "fetched_at": "2026-11-14T15:36:56.963961+00:00"
 }

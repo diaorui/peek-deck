@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50493695",
       "author": "otohp",
       "points": 3,
-      "num_comments": 1,
+      "num_comments": 2,
       "created_at": "2026-11-14T03:53:13Z",
       "object_id": "50493695",
       "image": null,
@@ -87,37 +87,9 @@
       "description": "Git for Postgres data, built for agents. Branch, diff, merge and undo inside PostgreSQL. - bitsinfra/gnomon",
       "favicon": "https://github.githubassets.com/favicons/favicon.png",
       "site_name": "GitHub"
-    },
-    {
-      "title": "Fusee. Embeddable durable execution at the speed of the disk",
-      "url": "https://www.bitsinfra.com/fusee",
-      "hn_url": "https://news.ycombinator.com/item?id=50474532",
-      "author": "shawkisukkar",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-12T21:27:10Z",
-      "object_id": "50474532",
-      "image": "https://www.bitsinfra.com/apple-touch-icon.png",
-      "description": "Fusee is an open-source durable execution engine for Rust, TypeScript, Python, Go and Java. Workflows are ordinary async code, and each step costs about one disk write.",
-      "favicon": "https://www.bitsinfra.com/apple-touch-icon.png",
-      "site_name": "The Bits Infrastructure Company"
-    },
-    {
-      "title": "Why Does Pitching Integrators Feel Like a One-Way Street?",
-      "url": "https://deploy95.substack.com/p/why-does-pitching-integrators-feel",
-      "hn_url": "https://news.ycombinator.com/item?id=50478476",
-      "author": "dddddaviddddd",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-11-13T04:48:54Z",
-      "object_id": "50478476",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "deploy95.substack.com"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-11-14T08:40:33.360053+00:00"
+  "fetched_at": "2026-11-14T15:36:27.523024+00:00"
 }
