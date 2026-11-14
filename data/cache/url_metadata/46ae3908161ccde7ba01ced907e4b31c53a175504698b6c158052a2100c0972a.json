@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-14T08:40:54.537423+00:00",
+  "data": {
+    "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
+    "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents | Amazon Web Services",
+    "description": "From Oct. 3 to Nov. 5, 2026, Amazon\u2019s MadPot, a globally distributed network of decoy threat sensors, captured requests from AI agents that included operating memory from offensive campaigns that threat actors ran on ARTEX, an open-source agentic AI penetration testing framework. The ARTEX agents sent these requests to MadPot sensors configured to present as [\u2026]",
+    "image": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/06/16/security-padlock-digital-1260x630.jpg",
+    "favicon": "https://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png",
+    "site_name": "Amazon Web Services",
+    "author": null,
+    "keywords": null
+  }
+}

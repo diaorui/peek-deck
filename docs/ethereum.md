@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-14T01:36:30.646372+00:00'
+updated: '2026-11-14T08:41:01.049929+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 14, 2026 at 01:36 UTC  
+**Last Updated:** November 14, 2026 at 08:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,945.31
+### $1,900.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** -9.2%  
-**30d:** -20.3%  
-**90d:** +0.9%  
-**1y:** -39.1%  
+**24h:** -2.2%  
+**7d:** -10.7%  
+**30d:** -21.7%  
+**90d:** -0.8%  
+**1y:** -40.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.58B
+**Market Cap:** $231.81B
 Rank #2
 
-**Circulating Supply:** 122,215,669 ETH
+**Circulating Supply:** 122,218,624 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.0%
+-61.7%
 
 **All-Time Low:** $0.43
-+445080.9%
++437944.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ i’ve finally switched from rabby wallet to ambire after a long while been a bi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -160,29 +160,27 @@ Yahoo Finance • 2d ago
 
 **[Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy](https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy)**
 
-CoinDesk • 18h ago
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree](https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/)**
+
+Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move ‘Pure Manipulation’Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever…
+
+TradingView • 10h ago
 
 ---
 
 **[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/)**
 
-BeInCrypto • 12h ago
+BeInCrypto • 19h ago
 
 ---
 
-**[Bitcoin ETFs Face $1B Exodus As Ethereum, Solana Funds Bleed: Is Institutional Crypto Demand Cracking?](https://www.tradingview.com/news/benzinga:5528d17bc094b:0-bitcoin-etfs-face-1b-exodus-as-ethereum-solana-funds-bleed-is-institutional-crypto-demand-cracking/)**
+**[Ethereum’s ERC-8415 tests tokenization’s ownership gap](https://asiatimes.com/2026/11/ethereums-erc-8415-tests-tokenizations-ownership-gap/)**
 
-U.S. spot crypto ETFs suffered a broad-based exodus in the five trading days ended Nov. 10, with all six tracked asset groups recording net outflows totaling $1.48 billion, raising fresh questions about investor confidence amid a sharp cryptocurrency market downturn.Bitcoin CRYPTO:BTCUSD ETFs bore…
-
-TradingView • 7h ago
-
----
-
-**[Ethereum unveils quantum-safe accounts, with a costly catch](https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/)**
-
-Ethereum researchers propose quantum-resistant accounts by 2027, with higher transaction costs until scaling upgrades arrive.
-
-CryptoSlate • 19h ago
+Asia Times • 3h ago
 
 ---
 
@@ -190,29 +188,13 @@ CryptoSlate • 19h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
-
----
-
-**[Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge](https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit)**
-
-The non-profit allegedly told workers to pledge they'd die by suicide "with a sword."
-
-Mashable • 2d ago
-
----
-
-**[Foundation Launches Universal Ethereum Signer in Beta, First on Passport Hardware](https://markets.businessinsider.com/news/stocks/foundation-launches-universal-ethereum-signer-in-beta-first-on-passport-hardware-1036756205)**
-
-BOSTON, Nov.  12, 2026  (GLOBE NEWSWIRE) -- Developed by Ledger cofounder Nicolas Bacca, the app runs on KeyOS, Foundation's open source operating...
-
-markets.businessinsider.com • 1d ago
+Fortune • 17h ago
 
 ---
 
 **[Most large cryptocurrencies decline on Bitcoin, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decline-on-bitcoin-ethereum-drops-d61b89f0-c3eb49fad404)**
 
-MarketWatch • 10h ago
+MarketWatch • 17h ago
 
 ---
 
@@ -220,7 +202,23 @@ MarketWatch • 10h ago
 
 More than one-third of Ethereum's circulating supply is now staked.
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
+
+---
+
+**[Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge](https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit)**
+
+The non-profit allegedly told workers to pledge they'd die by suicide "with a sword."
+
+Mashable • 3d ago
+
+---
+
+**[This 1 Important Signal Is Now Flashing Red for Ethereum. That's Why I'm Selling ETH Right Now.](https://www.fool.com/investing/2026/11/12/this-1-important-signal-is-now-flashing-redgreen-f/)**
+
+Until Ethereum ETF inflows return, it may be time to look elsewhere for upside.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -228,23 +226,13 @@ AMBCrypto • 23h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Crypto Collapse: Why I’m Buying $67,000 Bitcoin - Technical Analysis (BTC, ETH, ZEC, SOL, HYPE)](https://www.youtube.com/watch?v=fUZh_SYMpjA)**
-
-No B.S. Just Charts. Bitcoin and the crypto market are in collapse mode after Bitcoin broke $75500, and Gareth Soloway shows ...
-
-📺 Gareth Soloway
-
-👁️ 54K • 👍 2K • 💬 152 • ⏱️ 11:18 • 6h ago
-
----
-
 **[Ethereum’s Use Case Is Fading (Coinbase Analyst)](https://www.youtube.com/watch?v=udWRxduO4vc)**
 
 Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Coinbase quant ...
 
 📺 Lark Davis
 
-👁️ 9K • 👍 122 • 💬 25 • ⏱️ 12:35 • 1d ago
+👁️ 10K • 👍 125 • 💬 27 • ⏱️ 12:35 • 1d ago
 
 ---
 
@@ -254,7 +242,17 @@ Jamie Dimon called Bitcoin a fraud. Then JPMorgan put its own dollar on Ethereum
 
 📺 Dana Love, PhD
 
-👁️ 23K • 👍 388 • 💬 59 • ⏱️ 19:35 • 2d ago
+👁️ 24K • 👍 388 • 💬 59 • ⏱️ 19:35 • 2d ago
+
+---
+
+**[Crypto Collapse: Why I’m Buying $67,000 Bitcoin - Technical Analysis (BTC, ETH, ZEC, SOL, HYPE)](https://www.youtube.com/watch?v=fUZh_SYMpjA)**
+
+No B.S. Just Charts. Bitcoin and the crypto market are in collapse mode after Bitcoin broke $75500, and Gareth Soloway shows ...
+
+📺 Gareth Soloway
+
+👁️ 77K • 👍 3K • 💬 234 • ⏱️ 11:18 • 13h ago
 
 ---
 
@@ -264,17 +262,7 @@ Jamie Dimon called Bitcoin a fraud. Then JPMorgan put its own dollar on Ethereum
 
 📺 Crypto Moe
 
-👁️ 421 • 👍 51 • 💬 3 • ⏱️ 11:27 • 2h ago
-
----
-
-**[BITCOIN CRASH TO (almost) $67K... This is Coming Next!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YQAvXTvnsoA)**
-
-BITCOIN CRASH TO (almost) $67K... This is Coming Next!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 182 • 💬 29 • ⏱️ 28:12 • 4h ago
+👁️ 2K • 👍 95 • 💬 3 • ⏱️ 11:27 • 9h ago
 
 ---
 
@@ -284,7 +272,17 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 149 • 💬 11 • ⏱️ 10:03 • 6h ago
+👁️ 7K • 👍 176 • 💬 12 • ⏱️ 10:03 • 13h ago
+
+---
+
+**[BITCOIN CRASH TO (almost) $67K... This is Coming Next!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YQAvXTvnsoA)**
+
+BITCOIN CRASH TO (almost) $67K... This is Coming Next!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 279 • 💬 54 • ⏱️ 28:12 • 11h ago
 
 ---
 
@@ -304,17 +302,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 7K • 👍 199 • 💬 105 • ⏱️ 43:51 • 5h ago
-
----
-
-**[The Rich Are Preparing While Everyone Else Is Afraid Ethereum &amp; Bitcoin Hype During Bank Collapses](https://www.youtube.com/watch?v=ozyjlqoHf08)**
-
-Banks are collapsing, debt levels are higher than ever and it looks like we might actually see a total economic collapse on the ...
-
-📺 The Modern Investor
-
-👁️ 9K • 👍 715 • 💬 205 • ⏱️ 30:47 • 1d ago
+👁️ 14K • 👍 273 • 💬 135 • ⏱️ 43:51 • 12h ago
 
 ---
 
@@ -324,7 +312,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 39 • 💬 30 • ⏱️ 22:38 • 9h ago
+👁️ 4K • 👍 53 • 💬 43 • ⏱️ 22:38 • 16h ago
+
+---
+
+**[The Rich Are Preparing While Everyone Else Is Afraid Ethereum &amp; Bitcoin Hype During Bank Collapses](https://www.youtube.com/watch?v=ozyjlqoHf08)**
+
+Banks are collapsing, debt levels are higher than ever and it looks like we might actually see a total economic collapse on the ...
+
+📺 The Modern Investor
+
+👁️ 9K • 👍 718 • 💬 204 • ⏱️ 30:47 • 1d ago
 
 ---
 

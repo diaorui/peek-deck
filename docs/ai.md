@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-14T01:36:30.636967+00:00'
+updated: '2026-11-14T08:41:01.039818+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** November 14, 2026 at 01:36 UTC  
+**Last Updated:** November 14, 2026 at 08:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/
 
-5h ago
+12h ago
 
 ---
 
@@ -49,7 +49,15 @@ https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-mode
 
 The company blames a network upgrade which caused an outage across Microsoft 365, Outlook, Teams, OneDrive, and more.
 
-🔗 [Windows Central](https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it) • 5h ago
+🔗 [Windows Central](https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it) • 12h ago
+
+---
+
+**[Google used 29 AI agents to build a 50-task benchmark for causal reasoning](https://www.reddit.com/r/artificial/comments/1xvwdwz/google_used_29_ai_agents_to_build_a_50task/)**
+
+Google Research says 29 agents spent 11.5 hours turning 13 public tables into a 50-task benchmark. The problems ask a model to decide whether the data can identify a causal effect and, where it can, estimate that effect against a known answer. The step I'd borrow is the review. Google says separate reviewers and auditors found clues in the wording and shortcuts that let models get answers without doing the intended work. The team turned those problems into tests for future drafts. Suppose an agent gets the right answer because every question with a certain phrase was generated from the same template. Would you trust a second agent to catch that, or would you keep a human-written test suite that the agents never see? Source: Google Research
+
+1h ago
 
 ---
 
@@ -57,15 +65,7 @@ The company blames a network upgrade which caused an outage across Microsoft 365
 
 "An artificial intelligence (AI) tool can use brain scans to recreate the images people looked at with eerie accuracy. The system, called Brain-IT, uses data from functional magnetic resonance imaging (fMRI) to measure activity in the visual cortex, the part of the brain that processes visual input. A computer model then predicts both the broad layout of an image and high-level information about its content. It then passes those predictions to an AI image generator, researchers explained in a study uploaded to the preprint database arXiv. The research was presented at the ICLR 2026 conference, held April 23-25, and publicized by its authors in September." - Live Science
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=app.dashsocial.com/live-science/library/media/746552371) • 5h ago
-
----
-
-**[Former US AI Czar David Sacks says there’s no evidence that Alice Huang was a Chinese Spy](https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/)**
-
-https://fixupx.com/DavidSacks/status/2121070881258504395 CNN article making the same argument https://fixupx.com/NatashaBertrand/status/2121009555303759969
-
-21h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=app.dashsocial.com/live-science/library/media/746552371) • 12h ago
 
 ---
 
@@ -73,15 +73,39 @@ https://fixupx.com/DavidSacks/status/2121070881258504395 CNN article making the 
 
 The FAA halted flights nationwide on Friday, its first full ground stop since January 2023, days after expanding its SMART AI air traffic tool across the country. Transportation Secretary Sean Duffy blamed a communication issue at all Air Route Traffic Control Centers, and Homeland Security's Markwayne Mullin said of SMART: "We're looking at that." The tool's maker, Air Space Intelligence, says the stop "is not based on or a result of the SMART system." Full alert: https://aiweekly.co/alerts/faa-grounds-all-us-flights-days-after-its-ai-air-traffic-tool-went-nationwide
 
-1h ago
+8h ago
 
 ---
 
-**[A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese people use AI in their day-to-day life, as many embrace the technology and the infrastructure behind it](https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/)**
+**[Former US AI Czar David Sacks says there’s no evidence that Alice Huang was a Chinese Spy](https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/)**
 
->Experts cited by the Financial Times say data centers in China are built at about one-fifth of the costs incurred in the U.S., not least due to the much higher land and labor costs. Why is there such a big difference between support for data centers in China compared to the US? https://www.cbsnews.com/news/china-ai-data-center-boom-as-us-tech-firms-face-resistance/
+https://fixupx.com/DavidSacks/status/2121070881258504395 CNN article making the same argument https://fixupx.com/NatashaBertrand/status/2121009555303759969
 
-🔗 [CBS News](https://www.cbsnews.com/news/china-ai-data-center-boom-as-us-tech-firms-face-resistance/) • 1d ago
+1d ago
+
+---
+
+**[What's the most boring task you'd hand to an agent if it actually worked?](https://www.reddit.com/r/artificial/comments/1xvqnst/whats_the_most_boring_task_youd_hand_to_an_agent/)**
+
+I'm building AIPass, an open-source multi-agent system that runs on your own Linux machine — 18 agents, they wake up in the evening, check email, fix bugs, optimise stuff, all from your phone with no cloud account. But I'm curious what you'd actually use it for. Not the sexy demo stuff. The boring, repetitive, "I hate doing this every week" stuff. For me it was: triaging email, keeping docs honest when the code changes, and running the same checks over and over without me having to remember. What would you hand off first if you trusted it to just work?
+
+6h ago
+
+---
+
+**[Mark Zuckerberg wants AI walking around your home, do you? | BBC News](https://www.reddit.com/r/artificial/comments/1xvq2xe/mark_zuckerberg_wants_ai_walking_around_your_home/)**
+
+So basically the TLDW Version of the video mentions the interview in which John Hanke was in, and here's what's weird about it. He mentions that "humanoids will be inevitable", and that "the workplace is a very good training ground in which there's no human intervention". He also gives those evil eyes when Ed Zitron mentioned that robotics takes a lot of time to develop programming and mapping wise. That's just creepy and evil on so many accounts.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=MxvXe1t2QFk) • 6h ago
+
+---
+
+**[AI usage and detection survey](https://www.reddit.com/r/artificial/comments/1xvu63h/ai_usage_and_detection_survey/)**
+
+Hello! Im currently doing a survey for my class on AI and more importantly, how people can tell whether an image is AI-generated or not, how they know, and how it makes them feel. https://forms.gle/uw3Vg9MnsRLid99CA
+
+3h ago
 
 ---
 
@@ -89,31 +113,7 @@ The FAA halted flights nationwide on Friday, its first full ground stop since Ja
 
 every robot demo lately is an AI company saying their chatbot model can control a robot now. is that really all a robot is at this point, a chatbot with arms? or is there other stuff inside doing the hard part and the chatbot just gets the credit. i saw LingBot-Touch is a whole separate model just so the fingers can feel things, so it can't be that simple. genuinely confused how these things are put together
 
-8h ago
-
----
-
-**[Thinking Machines Lab releases Inkling 2 Small weights under Apache 2.0 — 594B MoE, top open-weights model on DesignArena](https://www.reddit.com/r/artificial/comments/1xvhgst/thinking_machines_lab_releases_inkling_2_small/)**
-
-Thinking Machines Lab updated its Inkling 2 Small announcement yesterday (Nov 12): the model's weights are now downloadable on Hugging Face under an Apache 2.0 license, about a week after launch. The model initially shipped with closed weights on Tinker while external safety testing and red-teaming finished. The details: a 594B-parameter Mixture-of-Experts model with 17B active parameters, image inputs and variable effort. TML reports an Artificial Analysis Intelligence Index score of 31, with particular strength in agentic coding, vision and 3D design — it tops the open-weights ranking on DesignArena. It is also integrated with SGLang, vLLM and Unsloth, and available via API at NVIDIA, Fireworks, Together, Baseten, Nebius, Modal and Cloudflare. What interests me: TML explicitly followed a 'safe path to open weights' — closed launch first, open release after outside safety review. Do you think that staged approach should become the norm for frontier open-weights releases, or does a week of closed weights mostly just delay what the community would have stress-tested faster? And with 594B total params, how much does the Apache 2.0 license matter versus the compute needed to actually run it? Source: https://thinkingmachines.ai/news/inkling-2-small/
-
-5h ago
-
----
-
-**[Why hasn’t the unemployment rate gone up at all yet?](https://www.reddit.com/r/artificial/comments/1xv1tkh/why_hasnt_the_unemployment_rate_gone_up_at_all_yet/)**
-
-The unemployment rate is still at 4.1%. If AI is smart enough to solve millennium problem, why hasn’t the unemployment rate gone up at all?
-
-17h ago
-
----
-
-**[Korea's tax accountant exam top scorer is facing "AI glasses" suspicion with no evidence.](https://www.reddit.com/r/artificial/comments/1xv6aut/koreas_tax_accountant_exam_top_scorer_is_facing/)**
-
-This is all over Korean news this week. The top scorer on Korea’s tax accountant exam got 397.5/400 in the first round, 159 of 160 questions right. One of his perfect scores was in intro tax law, where the average across 16,856 candidates was 30.18/100 and 74.21% failed (under 40). You get roughly a minute per question. People online decided that’s not humanly possible and started saying he wore AI smart glasses. There’s no evidence. Neither of the two proctors reported anything, the exam agency says it’s reviewing, and he says he just studied for two years and managed his time. The tax accountants’ association asked for an investigation but also warned that unproven accusations could wreck his reputation. Source: https://www.koreaherald.com/article/10936587 What gets me is that there’s no clean way out. If he’s innocent, “we found nothing” doesn’t fully clear him. If someone does this for real someday, a proctor probably can’t tell AI glasses from normal glasses anyway. So what should exams actually do? Ban glasses at the door? Use detectors? Or is the answer to stop testing stuff that a camera plus a model can answer in a minute?
-
-13h ago
+15h ago
 
 ---
 
@@ -121,11 +121,11 @@ This is all over Korean news this week. The top scorer on Korea’s tax accounta
 
 ## Google News: "ai"
 
-**[FAA investigating whether new AI technology contributed to nationwide ground stop](https://www.click2houston.com/news/local/2026/11/13/faa-investigating-whether-new-ai-technology-contributed-to-nationwide-ground-stop/)**
+**[OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users](https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html)**
 
-nationwide ground stop
+OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.
 
-Click2Houston • 2h ago
+CNBC • 17h ago
 
 ---
 
@@ -133,29 +133,15 @@ Click2Houston • 2h ago
 
 Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way.
 
-The New York Times • 2h ago
+The New York Times • 9h ago
 
 ---
 
-**[White House Urges Easing Liability to Encourage AI Disclosure](https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure)**
+**[FAA expands AI advice to manage air traffic congestion across entire US airspace](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)**
 
-Bloomberg • 1h ago
+Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.
 
----
-
-**[The Nvidia scandal has hidden upside potential for the AI trade](https://finance.yahoo.com/technology/article/the-nvidia-scandal-has-hidden-upside-potential-for-the-ai-trade-110000575.html)**
-
-Jensen Huang is out. The former CEO of Nvidia resigned after a rapid succession of damning news reports revealed multiple affairs.
-
-Yahoo Finance • 14h ago
-
----
-
-**[‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)**
-
-Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems
-
-The Guardian • 6h ago
+Ars Technica • 4d ago
 
 ---
 
@@ -165,33 +151,47 @@ WSJ • 1d ago
 
 ---
 
-**[Leading AI safety advocate likely to run for president](https://www.politico.com/news/2026/11/13/former-rep-brad-carson-likely-to-run-for-president-01164544)**
-
-Politico • 12h ago
-
----
-
 **[Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)**
 
 OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
 
-Fortune • 8h ago
+Fortune • 15h ago
 
 ---
 
-**[Why is Google cutting off Search from AI-free schools? Here are some theories](https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools)**
+**[‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)**
 
-The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.
+Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems
 
-NPR • 15h ago
+The Guardian • 14h ago
 
 ---
 
-**[AI risks are the biggest threat to the financial system, Fed survey finds](https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html)**
+**[The AI boom was built around Jensen Huang. Now what?](https://www.cnn.com/2026/11/13/investing/ai-boom-jensen-huang-nvidia)**
 
-The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.
+Jensen Huang’s resignation from Nvidia in scandal leaves the company without its visionary leader. It also leaves a major void for the AI industry, where Huang was kingmaker in inking deals to support the tech boom.
 
-CNBC • 4h ago
+CNN • 23h ago
+
+---
+
+**[How AI has become a utility bill for Gen Z](https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/)**
+
+Reuters • 16h ago
+
+---
+
+**[Leading AI safety advocate likely to run for president](https://www.politico.com/news/2026/11/13/former-rep-brad-carson-likely-to-run-for-president-01164544)**
+
+Politico • 19h ago
+
+---
+
+**[Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/)**
+
+From Oct. 3 to Nov. 5, 2026, Amazon’s MadPot, a globally distributed network of decoy threat sensors, captured requests from AI agents that included operating memory from offensive campaigns that threat actors ran on ARTEX, an open-source agentic AI penetration testing framework. The ARTEX agents sent these requests to MadPot sensors configured to present as […]
+
+Amazon Web Services (AWS) • 12h ago
 
 ---
 
@@ -207,21 +207,21 @@ AI agents analyzed public lidar data overnight and found a Maya site under the j
 
 ---
 
-**[United Airlines bans AI agents from booking flights on behalf of travelers](https://news.ycombinator.com/item?id=50458900)**
-
-Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.
-
-⬆️ 677 • 💬 700 • 2d ago • [CBS News](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
-
----
-
 **[Reverse engineering my Coway air purifier to ditch the cloud](https://news.ycombinator.com/item?id=50474959)**
 
 The year is 2017. A string of annual wildfires rocks the West Coast. The sky looks like this in the daytime:
 My home, like many in the Bay Area, has no insulation and isn’t really air sealed. To avoid choking on soot, a lot of people started buying air purifiers like this one:
 The venerable Coway Airmega
 
-⬆️ 673 • 💬 199 • 1d ago • [Scott's Blog](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
+⬆️ 742 • 💬 212 • 1d ago • [Scott's Blog](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
+
+---
+
+**[United Airlines bans AI agents from booking flights on behalf of travelers](https://news.ycombinator.com/item?id=50458900)**
+
+Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.
+
+⬆️ 677 • 💬 704 • 2d ago • [CBS News](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 
 ---
 
@@ -229,23 +229,15 @@ The venerable Coway Airmega
 
 Claude's Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.
 
-⬆️ 484 • 💬 382 • 15h ago • [status.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
+⬆️ 488 • 💬 384 • 22h ago • [status.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
 
 ---
 
-**[Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://news.ycombinator.com/item?id=50474883)**
+**[Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://news.ycombinator.com/item?id=50493251)**
 
-Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.
+Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers....
 
-⬆️ 355 • 💬 151 • 1d ago • [Unemployment Labs](https://unemploymentlabs.com/checkpoint-forensics)
-
----
-
-**[Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://news.ycombinator.com/item?id=50475713)**
-
-Meet Edge0-145B, an open-source 145B model for local coding, reasoning, and agent tasks, with no cloud-model token fees for local inference.
-
-⬆️ 338 • 💬 104 • 1d ago • [edge0.ai](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+⬆️ 485 • 💬 272 • 5h ago • [TechPowerUp](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 
 ---
 
@@ -253,29 +245,37 @@ Meet Edge0-145B, an open-source 145B model for local coding, reasoning, and agen
 
 Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems
 
-⬆️ 326 • 💬 92 • 8h ago • [the Guardian](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)
+⬆️ 384 • 💬 96 • 15h ago • [the Guardian](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)
+
+---
+
+**[Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://news.ycombinator.com/item?id=50474883)**
+
+Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.
+
+⬆️ 360 • 💬 154 • 1d ago • [Unemployment Labs](https://unemploymentlabs.com/checkpoint-forensics)
+
+---
+
+**[Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://news.ycombinator.com/item?id=50475713)**
+
+Meet Edge0-145B, an open-source 145B model for local coding, reasoning, and agent tasks, with no cloud-model token fees for local inference.
+
+⬆️ 344 • 💬 104 • 1d ago • [edge0.ai](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 
 ---
 
 **[AI is destroying the trust between writers and readers](https://news.ycombinator.com/item?id=50481870)**
 
-⬆️ 312 • 💬 195 • 14h ago • [theatlantic.com](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
+⬆️ 339 • 💬 205 • 21h ago • [theatlantic.com](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
 
 ---
 
-**[AI is turning Apple's app review process into a nightmare for synth developers](https://news.ycombinator.com/item?id=50474311)**
+**[Jonathan Blow – If AI solved coding, why is my software still the same? [video]](https://news.ycombinator.com/item?id=50484658)**
 
-The surge of AI and AI-generated apps is overwhelming Apple’s app review process, leaving developers caught in the crossfire – two examples!
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 196 • 💬 232 • 1d ago • [SYNTH ANATOMY](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
-
----
-
-**[Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://news.ycombinator.com/item?id=50490593)**
-
-Every aviation radio transmission heard from Orcas Island, WA: live, transcribed, and archived. Listen to all channels at once, pick your own, or rewind to any moment.
-
-⬆️ 188 • 💬 45 • 3h ago • [orcasairband.com](https://orcasairband.com/)
+⬆️ 271 • 💬 305 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=IRK8h67ol7Q)
 
 ---
 
@@ -283,23 +283,53 @@ Every aviation radio transmission heard from Orcas Island, WA: live, transcribed
 
 ## YouTube Videos: "ai"
 
+**[AI startup says nationwide ground stop was not caused by its software](https://www.youtube.com/watch?v=PYpzQk7cH_Q)**
+
+Air Space Intelligence, the AI tech startup that is a vendor for the FAA on its new SMART system for air traffic control, said its ...
+
+📺 NBC News
+
+👁️ 96K • 👍 429 • 💬 351 • ⏱️ 6:01 • 8h ago
+
+---
+
 **[AI News: Things Will Never Be The Same](https://www.youtube.com/watch?v=G_Jrexy_5Bg)**
 
 Try @OpenAI Decisions API here: https://developers.openai.com/api/docs/guides/decisions Here's the AI news from one of the ...
 
 📺 Matt Wolfe
 
-👁️ 50K • 👍 1K • 💬 155 • ⏱️ 27:11 • 8h ago
+👁️ 74K • 👍 2K • 💬 188 • ⏱️ 27:11 • 15h ago
 
 ---
 
-**[Microsoft&#39;s AI &quot;GOES INSANE&quot;... Erasing 400 Million Users OVERNIGHT](https://www.youtube.com/watch?v=CQ3YO1qEOAg)**
+**[Tech CEO: Big AI’s monopoly is breaking | Daniela Braga, Defined.ai](https://www.youtube.com/watch?v=RoFGZDEkoGI)**
 
-Protect your privacy on the network level with Cape at https://cape.co/cashjordan. Use code CASHJORDAN33 at checkout for ...
+Everyone is starting to invest in smaller, specialised AI models.” Founder and CEO of Defined․ai joins The Tech Report's Isaac ...
 
-📺 Cash Jordan
+📺 The Tech Report
 
-👁️ 178K • 👍 8K • 💬 2K • ⏱️ 19:48 • 6h ago
+👁️ 48K • 👍 609 • 💬 208 • ⏱️ 19:02 • 16h ago
+
+---
+
+**[Nvidia Just Burst The AI Bubble](https://www.youtube.com/watch?v=kINQw_0jdss)**
+
+Get 12 FREE Shares - worth up to $300 each from Webull: https://bit.ly/webull-sasha Deposit $100 or more after signing up to ...
+
+📺 Sasha Yanshin
+
+👁️ 96K • 👍 3K • 💬 345 • ⏱️ 17:35 • 14h ago
+
+---
+
+**[Google AI has to stop ATP 💀😭 | #memes #outofcontext #ai](https://www.youtube.com/watch?v=dWL5ygwocYk)**
+
+January. February. MOM?! Google AI needs a factory reset. #shorts #memes #funny #ai.
+
+📺 Blitzily
+
+👁️ 22K • 👍 745 • 💬 13 • ⏱️ 0:29 • 2d ago
 
 ---
 
@@ -309,7 +339,7 @@ There is no AI bubble without Jensen Huang.” Writer of Where's Your Ed At and 
 
 📺 The Tech Report
 
-👁️ 231K • 👍 7K • 💬 972 • ⏱️ 23:50 • 6h ago
+👁️ 365K • 👍 9K • 💬 1K • ⏱️ 23:50 • 13h ago
 
 ---
 
@@ -319,7 +349,7 @@ NVIDIA just showed how powerful personal AI computing can become! Jensen Huang i
 
 📺 VisionX Lab
 
-👁️ 342K • 👍 6K • 💬 165 • ⏱️ 0:47 • 1d ago
+👁️ 387K • 👍 7K • 💬 172 • ⏱️ 0:47 • 1d ago
 
 ---
 
@@ -329,57 +359,27 @@ Superhuman AI could arrive in 2027 as new Anthropic evidence pulls forecasts for
 
 📺 AI Revolution
 
-👁️ 57K • 👍 876 • 💬 112 • ⏱️ 13:43 • 1d ago
+👁️ 61K • 👍 914 • 💬 118 • ⏱️ 13:43 • 1d ago
 
 ---
 
-**[The Economics of AI Don’t Add Up](https://www.youtube.com/watch?v=DvOxaT_hCmc)**
+**[Robert Reich Reacts to the Smartest AI Ever](https://www.youtube.com/watch?v=qn2JmU__52w)**
 
-Get started with SerpApi using 250 free credits: https://serpapi.com/sabinenov26 The first 50 of my viewers to sign up will receive ...
+AI should never take over high-stakes tasks, like medical decisions or weapons deployment. This @HuskIRL video shows exactly ...
 
-📺 Sabine Hossenfelder
+📺 Robert Reich
 
-👁️ 307K • 👍 7K • 💬 2K • ⏱️ 8:03 • 2d ago
-
----
-
-**[The AI Bubble Just Claimed Its First Victim](https://www.youtube.com/watch?v=9hXlMbSMHeU)**
-
-Check out Wispr Flow for free today and use my link at https://ref.wisprflow.ai/monkey-explains-yt to get one free month of Wispr ...
-
-📺 MonkeyExplains
-
-👁️ 1.0M • 👍 22K • 💬 2K • ⏱️ 15:50 • 2d ago
+👁️ 18K • 👍 3K • 💬 202 • ⏱️ 1:55 • 13h ago
 
 ---
 
-**[AI will wipe out 50% of all jobs, claims former Google chief](https://www.youtube.com/watch?v=GBjWcUL77UQ)**
+**[This Dumb AI Dog Has More Followers Than Me 💔](https://www.youtube.com/watch?v=HnVQiVPs5fY)**
 
-Tom Swarbrick is joined by former president of Google China Dr Kai-Fu Lee to discuss the impact of AI on white collar jobs and ...
+WATCH THE OG:* https://www.tiktok.com/@sulivainisthegoat2330 *JOIN THE DISCORD SERVER:* ...
 
-📺 LBC
+📺 7-ElevenZ
 
-👁️ 84K • 👍 448 • 💬 343 • ⏱️ 11:09 • 1d ago
-
----
-
-**[New Apple TV 4K Hands-On: Siri AI, Find My Remote &amp; More](https://www.youtube.com/watch?v=x-AXPtU8d_Y)**
-
-The new fourth generation Apple TV 4K is here, and the biggest upgrade is Siri AI. In this video, we go hands-on with hands-free ...
-
-📺 MacRumors
-
-👁️ 114K • 👍 1K • 💬 184 • ⏱️ 8:15 • 1d ago
-
----
-
-**[Two Weeks at Grandma&#39;s House Turned Into Total Chaos! | Ai Nigerian Comedy Movie](https://www.youtube.com/watch?v=51tomKplZ2E)**
-
-Two Weeks at Grandma's House Turned Into Total Chaos! | Nigerian Comedy Movie What happens when three Gen-Z girls are ...
-
-📺 Wendy's AI Movies
-
-👁️ 133K • 👍 925 • 💬 46 • ⏱️ 9:49 • 1d ago
+👁️ 113K • 👍 3K • 💬 404 • ⏱️ 17:54 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ Two Weeks at Grandma's House Turned Into Total Chaos! | Nigerian Comedy Movie Wh
 
 `text-generation` `9.4B`
 
-⬇️ 21,586 • ❤️ 6,019 • 1d ago
+⬇️ 21,586 • ❤️ 6,938 • 1d ago
 
 ---
 
@@ -403,17 +403,7 @@ Two Weeks at Grandma's House Turned Into Total Chaos! | Nigerian Comedy Movie Wh
 
 `text-to-image`
 
-⬇️ 437,039 • ❤️ 1,017 • 1d ago
-
----
-
-**[Arete-27B](https://huggingface.co/NousResearch/Arete-27B)**
-
-*NousResearch*
-
-`text-generation` `27.4B`
-
-⬇️ 5,545 • ❤️ 554 • 7d ago
+⬇️ 437,039 • ❤️ 1,059 • 2d ago
 
 ---
 
@@ -423,7 +413,17 @@ Two Weeks at Grandma's House Turned Into Total Chaos! | Nigerian Comedy Movie Wh
 
 `image-to-video`
 
-⬇️ 2,778,909 • ❤️ 11,784 • 1mo ago
+⬇️ 2,778,909 • ❤️ 11,829 • 1mo ago
+
+---
+
+**[Arete-27B](https://huggingface.co/NousResearch/Arete-27B)**
+
+*NousResearch*
+
+`text-generation` `27.4B`
+
+⬇️ 5,545 • ❤️ 576 • 7d ago
 
 ---
 
@@ -433,7 +433,7 @@ Two Weeks at Grandma's House Turned Into Total Chaos! | Nigerian Comedy Movie Wh
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,960,395 • ❤️ 19,880 • 6d ago
+⬇️ 6,960,395 • ❤️ 19,917 • 7d ago
 
 ---
 
@@ -445,7 +445,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-to-3d`
 
-⬇️ 31,367 • ❤️ 2,299 • 15d ago
+⬇️ 31,367 • ❤️ 2,319 • 15d ago
 
 ---
 
@@ -455,7 +455,7 @@ Idol is an image-to-3D model that generates a 3D Gaussian splat representation f
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,639,400 • ❤️ 3,056 • 18h ago
+⬇️ 1,639,400 • ❤️ 3,079 • 1d ago
 
 ---
 
@@ -467,7 +467,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `image-text-to-text` `2780.1B`
 
-⬇️ 40,953 • ❤️ 2,032 • 8d ago
+⬇️ 40,953 • ❤️ 2,055 • 9d ago
 
 ---
 
@@ -477,7 +477,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `text-to-image`
 
-⬇️ 1,257,301 • ❤️ 345 • 2d ago
+⬇️ 1,257,301 • ❤️ 365 • 2d ago
 
 ---
 
@@ -487,7 +487,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 `text-to-speech` `886.3M`
 
-⬇️ 13,068 • ❤️ 290 • 6h ago
+⬇️ 13,068 • ❤️ 317 • 2h ago
 
 ---
 
@@ -503,7 +503,7 @@ Kimi K3.1 Pro is a 2.8T MoE multimodal agentic model with a 1M token context win
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 30 • 💬 9 • ⭐ 10,854 • 1mo ago
+▲ 31 • 💬 9 • ⭐ 11,111 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -515,7 +515,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 165 • 💬 6 • ⭐ 122,429 • 22mo ago
+▲ 166 • 💬 6 • ⭐ 122,488 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -529,7 +529,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 16 • 💬 2 • ⭐ 6,032 • 1mo ago
+▲ 16 • 💬 2 • ⭐ 6,067 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -543,7 +543,7 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 68 • 💬 4 • ⭐ 23,683 • 1mo ago
+▲ 69 • 💬 4 • ⭐ 23,740 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
 
@@ -577,13 +577,27 @@ MACaQ is an MXFP4 W4A4 post-training quantization method that quantizes each lin
 
 ---
 
+**[e-means: outperforming k-means (in one-tenth the epochs)](https://huggingface.co/papers/2611.09501)**
+
+*Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy et al. (7 authors)*
+
+🏢 Meta
+
+Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving average optimization procedure for k-means with mini-batch updates, powered by modern deep learning machinery and new insights. We also establish scaling laws on how decay rate and batch size impact final performance. This gives us a formulaic rule to fix them for multiple problem sizes and embedding datasets, without the need for any hyperparameter sweep. The resulting clustering algorithm, coined e-means, is much faster than Lloyd k-means and converges to lower losses, frequently even beating k-means++. On a wide array of embeddings datasets, it beats the loss of Lloyd k-means at 25 epochs in 1.4 to 2.6 epochs, which translates to 10-45x GPU wall-clock speedups compared to state-of-the-art k-means implementations. As an example, e-means partitions DINO10B, a dataset of 10 billion DINO embeddings, into 16 million clusters in only 2.5 epochs, reaching a loss below Lloyd's at 25 epochs.
+
+▲ 11 • 💬 3 • ⭐ 41,614 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2611.09501) • [💻 code](https://github.com/facebookresearch/faiss) • [🔗 project](https://e-means.github.io/)
+
+---
+
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 65 • 💬 5 • ⭐ 47,730 • 15mo ago
+▲ 65 • 💬 5 • ⭐ 47,756 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -597,23 +611,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 186 • 💬 10 • ⭐ 57,133 • 14mo ago
+▲ 186 • 💬 10 • ⭐ 57,157 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[e-means: outperforming k-means (in one-tenth the epochs)](https://huggingface.co/papers/2611.09501)**
-
-*Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy et al. (7 authors)*
-
-🏢 Meta
-
-Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving average optimization procedure for k-means with mini-batch updates, powered by modern deep learning machinery and new insights. We also establish scaling laws on how decay rate and batch size impact final performance. This gives us a formulaic rule to fix them for multiple problem sizes and embedding datasets, without the need for any hyperparameter sweep. The resulting clustering algorithm, coined e-means, is much faster than Lloyd k-means and converges to lower losses, frequently even beating k-means++. On a wide array of embeddings datasets, it beats the loss of Lloyd k-means at 25 epochs in 1.4 to 2.6 epochs, which translates to 10-45x GPU wall-clock speedups compared to state-of-the-art k-means implementations. As an example, e-means partitions DINO10B, a dataset of 10 billion DINO embeddings, into 16 million clusters in only 2.5 epochs, reaching a loss below Lloyd's at 25 epochs.
-
-▲ 11 • 💬 3 • ⭐ 41,614 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2611.09501) • [💻 code](https://github.com/facebookresearch/faiss) • [🔗 project](https://e-means.github.io/)
 
 ---
 
@@ -640,7 +640,7 @@ Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up 
 
 `C`
 
-⭐ 19.2k • 🔱 2.0k • 15d ago
+⭐ 19.3k • 🔱 2.0k • 16d ago
 
 ---
 
@@ -650,7 +650,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 15.7k • 🔱 900 • 5d ago
+⭐ 15.8k • 🔱 915 • 5d ago
 
 ---
 
@@ -660,7 +660,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 8.5k • 🔱 1.9k • 7h ago
+⭐ 8.6k • 🔱 2.0k • 14h ago
 
 ---
 
@@ -670,7 +670,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 8.0k • 🔱 1.2k • 7h ago
+⭐ 8.2k • 🔱 1.2k • 33m ago
 
 ---
 
@@ -680,7 +680,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 7.8k • 🔱 691 • 15h ago
+⭐ 7.9k • 🔱 695 • 22h ago
 
 ---
 
@@ -690,7 +690,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 6.9k • 🔱 1.8k • 9d ago
+⭐ 6.9k • 🔱 1.8k • 10d ago
 
 ---
 
@@ -700,7 +700,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `TypeScript` `adversarial-ai` `ai-security` `android-security` `binary-protection` `claude-code`
 
-⭐ 5.6k • 🔱 678 • 7h ago
+⭐ 5.6k • 🔱 685 • 14h ago
 
 ---
 
@@ -710,7 +710,7 @@ Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI
 
 `Rust` `ai-agents` `appkit` `coding-agents` `cross-platform` `css`
 
-⭐ 4.0k • 🔱 97 • 13m ago
+⭐ 4.1k • 🔱 98 • 16m ago
 
 ---
 
@@ -720,7 +720,7 @@ Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI
 
 `Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
 
-⭐ 3.6k • 🔱 50 • 2d ago
+⭐ 3.7k • 🔱 51 • 3h ago
 
 ---
 
@@ -730,7 +730,7 @@ Skills for AI coding agents.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 219 • 8d ago
+⭐ 3.3k • 🔱 221 • 9d ago
 
 ---
 

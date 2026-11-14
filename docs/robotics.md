@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-14T01:36:30.648504+00:00'
+updated: '2026-11-14T08:41:01.052207+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 14, 2026 at 01:36 UTC  
+**Last Updated:** November 14, 2026 at 08:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D
 
-8d ago
+9d ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev ki
 
 guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can’t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online
 
-8d ago
+9d ago
 
 ---
 
@@ -92,7 +92,7 @@ guys, need help asap, how can i connect the sg90 servo motor and 10k potentiomet
 
 Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!
 
-8d ago
+9d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I am developing a project called SmartGrid, an offline robotic tool
 
 Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?
 
-8d ago
+9d ago
 
 ---
 
@@ -120,7 +120,7 @@ Spent the last few weeks letting Claude Code do actual high-level hardware work:
 
 OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
 
-Fortune • 8h ago
+Fortune • 15h ago
 
 ---
 
@@ -128,13 +128,13 @@ Fortune • 8h ago
 
 Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone.
 
-Fox News • 6h ago
+Fox News • 13h ago
 
 ---
 
 **[Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation](https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -146,25 +146,11 @@ WIRED • 2d ago
 
 ---
 
-**[3 Robotics Stocks To Own In November 2026](https://finance.yahoo.com/markets/stocks/articles/3-robotics-stocks-own-november-232413810.html)**
+**[ARX Robotics and Roboneers deliver first batch of jointly produced Rys Pro ground robots to Ukraine](https://www.ukrinform.net/rubric-defense/4184521-arx-robotics-and-roboneers-deliver-first-batch-of-jointly-produced-rys-pro-ground-robots-to-ukraine.html)**
 
-The sudden 10% drop in Nvidia after Jensen Huang’s resignation has shaken confidence in pure software and AI chip stories, pushing attention toward companies that put robotics into real world factories, warehouses, and infrastructure. That shift in focus creates urgency for investors who do not want physical automation to rerate without them. This article walks through three leading robotics and automation stocks from our screener and what sets each one apart. These three robotics and...
+German defense company ARX Robotics and Ukrainian company Roboneers have delivered the first batch of jointly manufactured Rys Pro unmanned ground vehicles to Ukraine, even before the official establishment of their joint venture, ARX Industries. — Ukrinform.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Nvidia's supply chain investments include autonomous trucking and industrial robotics](https://www.axios.com/pro/supply-chain-deals/2026/11/13/nvidia-supply-chain-autonomous-trucking-industrial-robotics)**
-
-Axios • 4h ago
-
----
-
-**[Gemini Robotics 2.5: Accelerating Physical Intelligence](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)**
-
-Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
-
-Google DeepMind • 3d ago
+Ukrinform • 13h ago
 
 ---
 
@@ -172,7 +158,15 @@ Google DeepMind • 3d ago
 
 The future of defense is autonomous, and Kraken Robotics is helping fill this demand.
 
-The Motley Fool • 19h ago
+The Motley Fool • 1d ago
+
+---
+
+**[How Do I Teach My Daughter That Robots Are Not Her Friends?](https://www.thecut.com/article/teaching-daughter-robots-not-friends.html)**
+
+She treats chatbots and humanoid machines with so much kindness. I’m trying to make her stop.
+
+The Cut • 20h ago
 
 ---
 
@@ -184,11 +178,17 @@ CSET | Center for Security and Emerging Technology • 2d ago
 
 ---
 
-**[How Do I Teach My Daughter That Robots Are Not Her Friends?](https://www.thecut.com/article/teaching-daughter-robots-not-friends.html)**
+**[Rise of general-purpose models prompts scrutiny of specialized model strategies? OpenAI reportedly disbands standalone robotics team](https://news.futunn.com/en/post/1004489164/rise-of-general-purpose-models-prompts-scrutiny-of-specialized-model)**
 
-She treats chatbots and humanoid machines with so much kindness. I’m trying to make her stop.
+富途牛牛 • 11h ago
 
-The Cut • 13h ago
+---
+
+**[Humble Robotics: $51M Fuels Autonomous Electric Freight Future](https://www.freightwaves.com/news/humble-robotics-51m-fuels-autonomous-electric-freight-future)**
+
+Humble Robotics is shaking up short-haul logistics with a massive $51 million Series A funding round. Founder & CEO Eyal Cohen unveils the vision
+
+FreightWaves • 12h ago
 
 ---
 
@@ -196,33 +196,23 @@ The Cut • 13h ago
 
 ## YouTube Videos: "robotics"
 
+**[Tesla&#39;s Robot School Is Real: 20,000 Robots Teach Themselves](https://www.youtube.com/watch?v=-YQc4rveiSk)**
+
+Tesla plans an Optimus Academy with between 10000 and 20000 robots practicing tasks all day. I see it as Tesla's answer to the ...
+
+📺 The Electric Viking
+
+👁️ 15K • 👍 278 • 💬 57 • ⏱️ 4:25 • 1d ago
+
+---
+
 **[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
 
 Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
 
 📺 Arctos Robotics
 
-👁️ 216K • 👍 3K • 💬 139 • ⏱️ 8:25 • 4d ago
-
----
-
-**[Best Robot Vacuums and Mops of 2026 – After Testing 200+ Robots](https://www.youtube.com/watch?v=9A8zcyk2UVU)**
-
-Roborock Qrevo Edge 3 Pro at Amazon: https://geni.us/X2j3 Narwal Freo 20 at Amazon: https://geni.us/cAWOxEI Dreame L60 Pro ...
-
-📺 Vacuum Wars
-
-👁️ 4K • 👍 132 • 💬 44 • ⏱️ 9:09 • 4h ago
-
----
-
-**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
-
-Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
-
-📺 Imagination in Action
-
-👁️ 14K • 👍 125 • 💬 22 • ⏱️ 37:09 • 3d ago
+👁️ 219K • 👍 3K • 💬 140 • ⏱️ 8:25 • 4d ago
 
 ---
 
@@ -232,7 +222,27 @@ This work was supported by the Alfred P. Sloan Foundation, enhancing public unde
 
 📺 Jeremy Fielding
 
-👁️ 84K • 👍 2K • 💬 227 • ⏱️ 53:28 • 1d ago
+👁️ 99K • 👍 3K • 💬 250 • ⏱️ 53:28 • 1d ago
+
+---
+
+**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
+
+Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
+
+📺 Imagination in Action
+
+👁️ 15K • 👍 125 • 💬 24 • ⏱️ 37:09 • 3d ago
+
+---
+
+**[Best Robot Vacuums and Mops of 2026 – After Testing 200+ Robots](https://www.youtube.com/watch?v=9A8zcyk2UVU)**
+
+Roborock Qrevo Edge 3 Pro at Amazon: https://geni.us/X2j3 Narwal Freo 20 at Amazon: https://geni.us/cAWOxEI Dreame L60 Pro ...
+
+📺 Vacuum Wars
+
+👁️ 10K • 👍 231 • 💬 75 • ⏱️ 9:09 • 11h ago
 
 ---
 
@@ -242,17 +252,7 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The AI Nexus
 
-👁️ 41K • 👍 466 • 💬 63 • ⏱️ 15:41 • 3d ago
-
----
-
-**[Was it worth the wait? Mannis New R-BOMB [War Robots]](https://www.youtube.com/watch?v=Qsi3sTDZcI0)**
-
-War Robots Gameplay: UE Ravana with UE Vortex - FINALLY! After such a long wait - was it worth it? My War Robots Creator ...
-
-📺 Manni-Gaming
-
-👁️ 15K • 👍 557 • 💬 111 • ⏱️ 18:18 • 11h ago
+👁️ 41K • 👍 467 • 💬 63 • ⏱️ 15:41 • 4d ago
 
 ---
 
@@ -262,27 +262,25 @@ What if my tiny walking robot could transform into a fully functioning drone? We
 
 📺 Dorian Todd
 
-👁️ 60K • 👍 1K • 💬 56 • ⏱️ 14:42 • 5d ago
+👁️ 61K • 👍 1K • 💬 56 • ⏱️ 14:42 • 5d ago
 
 ---
 
-**[America&#39;s New Construction Robot Will Shock You!](https://www.youtube.com/watch?v=AQI_zIAQiE0)**
+**[Cascade explanation #override #vex #robotics #engineering #build #building #vexv5 #stem #robot](https://www.youtube.com/watch?v=9YY-g3zGSlg)**
 
-America is facing a massive construction labor shortage, and a new wave of robots is stepping in to fill the gap. Across job sites in ...
+Explaining our cascade for v5rc override.
 
-📺 Tyrone
+📺 Dynamo Robotics
 
-👁️ 34K • 👍 334 • 💬 4 • ⏱️ 22:38 • 4d ago
+👁️ 622 • 👍 30 • 💬 3 • ⏱️ 2:47 • 6h ago
 
 ---
 
-**[Beni the Following Camera Robot is Back ... and Better Than Ever!](https://www.youtube.com/watch?v=eMXvWO1FxSk)**
+**[This Robot Dog Was Too Cute to Pass Up🐶 #robot #robotics #robotdog #ruko #unboxing #shorts](https://www.youtube.com/watch?v=AFfPAise5dU)**
 
-After an extremely successful kickstarter Beni is officially being launched globally today. Beni is an auto following camera robot ...
+📺 Smarttoy Ruko
 
-📺 Air Photography
-
-👁️ 12K • 👍 208 • 💬 24 • ⏱️ 7:23 • 3d ago
+👁️ 20K • 👍 147 • 💬 1 • ⏱️ 0:19 • 9h ago
 
 ---
 
@@ -292,7 +290,7 @@ A humanoid goes head-to-head with human runners in an ultra-marathon with sub-fr
 
 📺 NBC News
 
-👁️ 33K • 👍 93 • 💬 37 • ⏱️ 1:56 • 3d ago
+👁️ 33K • 👍 94 • 💬 38 • ⏱️ 1:56 • 3d ago
 
 ---
 
