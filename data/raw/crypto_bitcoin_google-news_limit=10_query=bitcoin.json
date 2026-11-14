@@ -5,24 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Why Bitcoin Is Falling Today",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXNMM3YxTGlpTGtkckZHdjRXaWVhTlhwOXk4ZGNldGJ1Z0ZnRmM4Y29CNHJ4R1cyX0dYYTNXVEV2UFh4c295OWZFdXhMNTFuQkRKcTFVZW82NUVhZ3ZHN1ZleU5uUlZIR0ctTTZFaGdCZTJXQnlWWW9MNjJ3ZjBrVGRITEF3NTNqZzRXdUc3VTBUQm8y?oc=5",
-      "pub_date": 1794594902.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-falling-today-183502609.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4cd78baae3cf9354b4fcb3df5331873a6130af9d96ce483af90a43ba134b51f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd9de55f7416fdff7f3ed6f0285ead3d3.jpg",
-      "description": "Bitcoin dropped below $70,000 overnight, to its lowest level since August, after a hotter-than-expected inflation report pushed up rate hike expectations and a wave of leveraged positions was liquidated."
+      "headline": "Bitcoin falls below $70,000 as dollar surges and $1.6 billion liquidated",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmN2SHc5R3NaLW95Rkw4bzdvbzA5NldfS0ZDTFlES0hYZjAwVlBXS2t1bk5ocDJfZjlkS0NmTWFqUjdVWFVmYThReUxyWmFueEU5RXQ4NXZoRGxXS3N1UVc4enJueVdwdlZYc2xSQmtsVnNaZTJWWExFU0s5c1N1YjhJMkpIOGtxSmlQbEpveU44OWxSWUtJVC11R09KQlB4TktFd296RE5RODdicENOemhtZU5YLWxmdWhxc0RZZmt3Y24tN1ZES05vSFM5elVsVGYyNjRkUC00cTg?oc=5",
+      "pub_date": 1794570745.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Over 35% of Bitcoin Supply Faces Potential Quantum Risk, New Data Shows",
+      "headline": "Strive CEO Says Bitcoin Could \u2018Go To A Penny\u2019 And The Company Would Still Survive Because It Has No Debt",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanFWa2lZdlA4SUEwSkVQQjJHcGhzWXFfVGMtMUY1Q0ZFYmlKQ3FVVWxFaDhXVnp3NldDZERRc3NkVnd6WWh6VFAzTHpCQXNjd3FWSmQ4WE9lc04ycVFYUE1ZaTNvZzlFZ0JhRXBmRTItOTNpQmNLWGVsVEczZnJabTVvMml1ZUVPTnF3elhzbmpvZGZZRHZLdQ?oc=5",
-      "pub_date": 1794612600.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/over-35-bitcoin-supply-faces-233000047.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3c84d2fe6a61ebd557ad682f93119b12545a9b47825b21072cb7d22412e9226c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F21a667e606fdc09b9a9b95d44c0b4776.jpg",
-      "description": "Glassnode says 7.12 million BTC have visible public keys. Robinhood, Binance and Satoshi's coins top the exposure list."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2dSLVE1ZVRTOHRpVlh0c05HcGJmYXJaQUNXTHRsQTJaRmhkUThSaGY1MEVJdDZXTGxpZHBsT1YzOW5DSGpLYzcySVpfNzFYWXNQaDhaU0hzX283bkNhVUJNSFdMbklVVU9hWmc0OXVYeUNhWWc0RXJtczE2M3k3TDdrZUIzX3VkMGhZUzVsczJ5VlYxTXNYMW1R?oc=5",
+      "pub_date": 1794638419.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-says-bitcoin-could-064019362.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0577574b430492652fd761a9fdc23efea730a1f4b94bcdfa7cd8c064edcdf4dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Ffc4060fa6580837725d9d17f8ff890e2.jpg",
+      "description": "Strive keeps around 85% to 90% of its balance sheet in Bitcoin and 10% to 15% in cash, which can cover its obligations during a downturn, the CEO said."
+    },
+    {
+      "headline": "Twenty One Capital CEO Says \u2018A Balance Sheet Is Not A Business\u2019 After $1 Billion Bitcoin-Driven Gain",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkwxdnAtUURGVlVhN3ZIOUkxLTA3SjNtSzNBd09lTjcyT1NZeEU4bnFrcFlGbHlaVGJmUnFMNWxNdmNLZGV0eFpvb2xQNFcxQTlzejlWQzBKb1VUeDJpOVJ4ZnB6cTl5NHVpdnpudDYyNTRiUUNTZ1dITEVETExEVXBFRXR6ZFBfQ0NpdUNPSE5DTmlLM1BF?oc=5",
+      "pub_date": 1794642546.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/twenty-one-capital-ceo-says-074906529.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7673731d06c4ca98c3bb2fefc7c876ab583fa4dc8dc64a3e35e346319220a565/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F755bd64b9c6b5247c14aa7601f355633.jpg",
+      "description": "Twenty One Capital ended the quarter with over 40,000 Bitcoin and $102.8 million in cash."
+    },
+    {
+      "headline": "Bitcoin\u2019s Billion-Dollar Wipeouts Are Becoming a Familiar Sight",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUd5VFhXYWFteUNtX00xalQyaGdaSUNqRkxNY0FwaWY4WFdrWE4wdTZJWV95Y1YxU3NpVkVUX0lxdl9uQnl5TGVzUEFodHdCQl84b09TU25IY19VLXc0YjhmaDlWb1hfeEFuX29oT2tIOFQ0ekNFd25wb3lERUdqVUZlOTZnbGxlT1NpUWttdUgxNm1OQzl4QVZXd3gyZVV5UTFOTGtVM2dwUEdxcW53a0NobGY?oc=5",
+      "pub_date": 1794629040.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin and AI are fighting a $350 million battle over a dam in Paraguay",
@@ -35,76 +55,56 @@
       "description": null
     },
     {
-      "headline": "Bitcoin\u2019s Billion-Dollar Wipeouts Are Becoming a Familiar Sight",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUd5VFhXYWFteUNtX00xalQyaGdaSUNqRkxNY0FwaWY4WFdrWE4wdTZJWV95Y1YxU3NpVkVUX0lxdl9uQnl5TGVzUEFodHdCQl84b09TU25IY19VLXc0YjhmaDlWb1hfeEFuX29oT2tIOFQ0ekNFd25wb3lERUdqVUZlOTZnbGxlT1NpUWttdUgxNm1OQzl4QVZXd3gyZVV5UTFOTGtVM2dwUEdxcW53a0NobGY?oc=5",
-      "pub_date": 1794597872.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'Fast Money' traders discuss if a bitcoin rebound is on the horizon",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakhlNzA2VFpFTk5fOHh5QWNNN2xZT3Z2UVBGcFprRmJGZk5teG8tSDVta0hYREdqNmpEazhMcjhoWDBFMmgzM3dhejFsZHdjRXM3NW1VY2dOekJ1d1duN2hhc3JSMHdydFdELTFjNG1NU0d1ZHR0Z1NVdmhvVW1XQzFtd2RyRlVzLTdCb3ZESXA0RUVQOW93VmlpRVRfUU5idDdXYzJSbkk5anlJ?oc=5",
-      "pub_date": 1794524520.0,
-      "article_url": "https://www.cnbc.com/video/2026/11/12/fast-money-traders-discuss-if-a-bitcoin-rebound-is-on-the-horizon.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550661-17945238851794523883-49601035246-1080pnbcnews.jpg?v=1794523884&w=1920&h=1080",
-      "description": null
-    },
-    {
-      "headline": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWY1S3lwODdSRDlsR3F2Z181UE1HZUhWOWZEckxNVUZ3azFpOU9zVldJeENrS0VYYlVOWmRsTndGU3NBSXlKNmpRbXlkRGNtS2ltS0Z3RTR0QUlWQVRfYmNBNzZwUl9pTXp3ak1CeTV0cjNwcHZoT1BWaFIwTmxWNlpfRHJRT21aeE13YVgzRTJsSW5IOTJjRjYwSTRiNm5iNU8xUnA3WE9lQklUd2Y0M1JOVjFkTUxRV1Exd2xuVnFSclF2?oc=5",
-      "pub_date": 1794605160.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "BITCOIN hit its 1W MA200 again! They said it would never happen! for CRYPTO:BTCUSD by TradingShot",
+      "headline": "Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWVaVUhnaEIzY2FUM0hScjJocERfX01DUEFFYk1oaDl5cGJwZEZQVE0zYzItOGFFTGJMaFNMU19CVXlKMFlrQlZiS0JIVURpVEdBSjlQYjAweGEyc1dIQ0Z0N2NmT2FpbC15VGhqZWJlMlNMcGxVZFpYdVV3Q0JGQzJBb2lmRnlCWEoxd2RNdkY0M2FaZm9JT0hzOGcwckJYNVRNaTRYbnNSZ0FoUExIa3BLZw?oc=5",
-      "pub_date": 1794566991.0,
-      "article_url": "https://www.tradingview.com/chart/BTCUSD/riK7iXN8-BITCOIN-hit-its-1W-MA200-again-They-said-it-would-never-happen/",
-      "image": "https://s3.tradingview.com/r/riK7iXN8_big.png",
-      "description": "A month ago (see charts below), we signaled a medium-term correction Bitcoin (BTCUSD) after it broke below its 1D MA50, giving a 1W MA200 Target around $68000:\n\nhttps://www.tradingview.com/chart/BTCUSD/HgOwhxuA-BITCOIN-broke-below-its-1D-MA50-after-2-months-Is-70k-next/\n\nhttps://www.tradingview.com/chart/BTCUSD/KEkYM5Bi-BITCOIN-Is-another-1W-MA200-test-possible/\n\nAt the time our view was met with huge skepticism, denial and mockery, but 7 weeks later BTC reached our Target. The reason that \u2026"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa2VmSUtpVkxWU1lnZWh2eW1LQTNzSjk5WkZqN2VaZ01ETHotVzRWY3QyeklsbFpOLXRmTjdhVTVqNU5PYXduYmw1cldtMGZvSFdYWkZDc0Z0RU5SazA0dVh1YmJyaFBXSV9fRVYzbHB5MThNb0NCQ0VfYm9BT1FHXzBCOHFTR3ZXNWROV0RTX00wNzhfVDVSQ1JXRkZ6QjZ0aE12a0xzM3doTHZGanhkbV9ISmQ1TE5wZ0pJQm1iMVY0QkY3bjJXTGZ3Sk5DME1v?oc=5",
+      "pub_date": 1794607208.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move \u2018Pure Manipulation\u2019Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever\u2026"
     },
     {
-      "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jSkxvVlFEZXVFVnk0cUhsN2JXNnFQaUplOFFGOWNhbHZESGVZZllWc1VfS0VKc1JvUlpwQW9kYmtjcmIyUVFienRkWk81V2lYaXlDV25qN0JzRnkwRVlXWDR5YWtCeXR1RGlTYnFqUlhqNzFDVUNndEhkb0g?oc=5",
-      "pub_date": 1794575786.0,
-      "article_url": "https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/",
-      "image": null,
-      "description": null
+      "headline": "Michael Saylor\u2019s Entire $64 Billion Bitcoin Pile Is Underwater, So What Happens Next?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWdmdWxBSGFOY3I3RE1mZkc2QWlBN0lYWVV5M2hRNjI1MVZndWxvXzJhTTU0cHQzeFVQa0JKbmxQajhub3NPZk1NZkI3a3VGc2dfcEU5ODEyZGlqTk80WVhnV1huLXlGUEJNNUpyU1paSWNtdk1YbWNqdXFkemNPa3VDRmZMcmU5MlZXd0tKSG9IaDFsMU1STnNfWmFYZTk3QnNSb0ZJYmg5dWJVRXdiSk80X3JZdmctSEE1ZW50b2h1a1k?oc=5",
+      "pub_date": 1794588540.0,
+      "article_url": "https://247wallst.com/investing/2026/11/13/michael-saylors-entire-64-billion-bitcoin-pile-is-underwater-so-what-happens-next/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/01/GettyImages-1321733357-scaled.jpg",
+      "description": "Bitcoin slid below Strategy's cost basis just as ETF outflows mounted and an index giant prepared to cut the company loose. A single date at month's end could decide whether Saylor's bet gets relief or another round of forced selling."
     },
     {
-      "headline": "Strive's Bitcoin Strategy That 'Could Even Survive an 80% Crash'",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVg2WXdTeWxaMEpvN0FIaHpBRUwwZU5BdGNCd1dlWHJLdExTVm1QYzd2OHdVNS0xcXdISjE0ZFJWcnNPRGNjMkR6QjNiQXlDYnZmbGN2MmtLSGotd3ZDeVBXRGxXWThUSnI1WWZ5Z2EwNHdrVTJTWHA2Z2FwSWFEU3JCTTlnQmJjY21PRzVCakJtcWcwQlZxbGhfYXp5WWt1Y3dhVWt4MTBpX2xXTmhZQXVNZ0Y0SUJfb202S1dERQ?oc=5",
-      "pub_date": 1794602746.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63267145/strives-bitcoin-strategy-that-could-even-survive-an-80-crash",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin",
+      "headline": "Trump\u2019s Bitcoin reserve can\u2019t buy Bitcoin without Congress, says Witt",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRV9INE42NjV6M2ZrRm94VU1sSElYZHNmeFVBUEhCSDVKZ3RtWEJnWm16NElsaWRUMXJKZVVqRF9ZQUNZem5wd0NzRVZla3NPQnJpcV8yXzVyYlM2ekctX2s3bnduLVNtTG92R0MwZm8tS3d2ODhTZlRTMXAwT2VuSWpB?oc=5",
-      "pub_date": 1794613680.0,
-      "article_url": "https://cryptobriefing.com/coinbase-institutional-fed-rates-bitcoin-decline/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13184750/library-coinbase-institutional-says-fed-rate-expectations-not-th-800x450.png",
-      "description": "Coinbase Institutional says Fed rate hike expectations after hot CPI data, not the Binance hack, drove Bitcoin below $70,000."
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX050c2Nmd1hFNWlCWU0tTWU3eEF0UGo4MloxWWU4c1h5Mi1jN3lYNTU0eGZMQXc3cm84aUt1enMtZHZwY2tPMVBXSUlUWjdYNVVWWVZpc1V4S1V2cDhKalJVTVR3bTA2am9VOXRBaFFjUmtsZjV6MG9lVjdJVjluV3RxMA?oc=5",
+      "pub_date": 1794629278.0,
+      "article_url": "https://cryptobriefing.com/strategic-bitcoin-reserve-needs-congress-approval/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/14020839/library-trump-s-bitcoin-reserve-can-t-buy-bitcoin-without-congre-2-800x320.png",
+      "description": "Patrick Witt says the Strategic Bitcoin Reserve needs explicit congressional authorization before the US can buy Bitcoin on the open market."
+    },
+    {
+      "headline": "AM Markets Need to Know: Anthropic IPO demand surges, Bitcoin slides, and more (SP500:)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXJMeHNwTERIbk5MVW5ab19hTnNUNEhFS0pfeEt3OE1aRHJVLVlVbER0VkRtRmVLU3NkeW5SN29zdXZvMVZYeGExd1BoMHZmYUd2X1BDQnIyNkNiaERqRXF3TjU0cGZVRFh0aGRURjNsalkwWnFXVDVBdmZRYTZwaDNSMngyN2VEeEptMWEwenBDM0Z6c2tJa2d4N2d1S3ZuR2I5UU9LQTdoeVpzVUh5V1Z1OA?oc=5",
+      "pub_date": 1794569842.0,
+      "article_url": "https://seekingalpha.com/news/4672226-am-markets-need-to-know-anthropic-ipo-demand-surges-bitcoin-slides-and-more",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2259148968/image_2259148968.jpg?io=getty-c-og",
+      "description": "Anthropic\u2019s planned $64.4B IPO reportedly draws 6x available-share orders; Michael Burry adds Nasdaq puts as Bitcoin falls to about $69,000."
+    },
+    {
+      "headline": "Bitcoin Falls Below $69,000 as Ether Slides Under $2,000",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZTY1NTlWQjdjRXM2UHNlUVRwdmVfTkE0MjdsRzNlZm1xd0ozby0xREZXTmZ4RzJXUUVqNjRhZW41TnFaX0RBUjgxU24ydS1adEdLNkxBY0Q3bWFINHAzQlNZQkt2Y3hSa2hVNjBHS1JDdmdHYXFjTnk2ZkhSc2N2cEZscjFZdFJHM19scUVjX19VYkk?oc=5",
+      "pub_date": 1794640620.0,
+      "article_url": "https://thedefiant.io/news/markets/bitcoin-falls-below-69-000-as-ether-slides-under-2-000",
+      "image": "https://cdn.sanity.io/images/6oftkxoa/production/11696e93e39b2db91041e6f60faf808549a07593-2048x1152.webp?fm=webp&q=85",
+      "description": "Bitcoin and ether traded below $69,000 and $2,000 on Nov. 13. Coinbase data show the scale of their daily, weekly and four-week losses."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-14T01:36:28.496176+00:00"
+  "fetched_at": "2026-11-14T08:40:58.956136+00:00"
 }
