@@ -33,18 +33,18 @@
       "site_name": "luthmann.substack.com"
     },
     {
-      "title": "HomeMinerProxy: home dashboard and Stratum proxy for Bitcoin lottery mining",
-      "url": "https://github.com/Modanez/HomeMinerProxy",
-      "hn_url": "https://news.ycombinator.com/item?id=50401548",
-      "author": "modanez",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-07T04:14:46Z",
-      "object_id": "50401548",
-      "image": "https://opengraph.githubassets.com/5c29c3aa8aa7ce5658cee99cec118a03c0a760eadf6fe3026b9600cfe941dd08/Modanez/HomeMinerProxy",
-      "description": "Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32, cpuminer). Every share&#39;s difficulty in real time, records with confetti and siren, pool failover, luck meter. Z...",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
+      "title": "Ask HN: What use are the non-major cryptocurrencies?",
+      "url": "https://news.ycombinator.com/item?id=50493695",
+      "hn_url": "https://news.ycombinator.com/item?id=50493695",
+      "author": "otohp",
+      "points": 3,
+      "num_comments": 1,
+      "created_at": "2026-11-14T03:53:13Z",
+      "object_id": "50493695",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     },
     {
       "title": "Why Gmx.com?",
@@ -119,5 +119,5 @@
   ],
   "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-11-14T01:35:59.191942+00:00"
+  "fetched_at": "2026-11-14T08:40:33.360053+00:00"
 }
