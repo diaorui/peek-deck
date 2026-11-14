@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-14T01:36:30.642518+00:00'
+updated: '2026-11-14T08:41:01.045793+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 14, 2026 at 01:36 UTC  
+**Last Updated:** November 14, 2026 at 08:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,148.09
+### $67,084.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -8.7%  
-**30d:** -16.3%  
-**90d:** +5.9%  
-**1y:** -28.5%  
+**24h:** -3.0%  
+**7d:** -10.4%  
+**30d:** -17.8%  
+**90d:** +3.9%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1371.85B
+**Market Cap:** $1348.04B
 Rank #1
 
-**Circulating Supply:** 20,111,631 BTC
+**Circulating Supply:** 20,111,700 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--45.9%
+-46.8%
 
 **All-Time Low:** $67.81
-+100492.8%
++98746.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 20
+### 13
 **EXTREME FEAR**
 
 ---
@@ -81,31 +81,31 @@ Rank #1
 
 I did buy today. And I will keep buying for prosperity. And as it is such, so also as such is it unto you
 
-7h ago
+14h ago
 
 ---
 
 **[It's over. We're cooked.](https://www.reddit.com/r/Bitcoin/comments/1xvea7k/its_over_were_cooked/)**
 
-7h ago
+15h ago
 
 ---
 
 **[Downvember?](https://www.reddit.com/r/Bitcoin/comments/1xvlvbq/downvember/)**
 
-3h ago
+10h ago
 
 ---
 
 **[Where u at bro, McDonald’s?](https://www.reddit.com/r/Bitcoin/comments/1xvmdz0/where_u_at_bro_mcdonalds/)**
 
-2h ago
+9h ago
 
 ---
 
 **[The 68k floor is so hard it keeps bouncing back like a skipping stone](https://www.reddit.com/r/Bitcoin/comments/1xvl8u5/the_68k_floor_is_so_hard_it_keeps_bouncing_back/)**
 
-3h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ I did buy today. And I will keep buying for prosperity. And as it is such, so al
 
 There, someone had to say it.
 
-2h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ There, someone had to say it.
 
 A lot of us who have been in the game for a while were expecting drops as low as $25,000-$30,000 this fall. If this is your first time, stay strong and just keep working and stacking quietly. The next halfing is only about a year and a half away.
 
-7h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ A lot of us who have been in the game for a while were expecting drops as low as
 
 Well folks, I made it to 1 bitcoin tonight and ive got no one else to tell. Its been a long monotonous road. Im not sure if im going to sit back now or keep going and try for 2 before the next bull run. Ill hold until I'm happy with the returns so long as my life doesnt suddenly fall apart lol.
 
-1h ago
+8h ago
 
 ---
 
@@ -137,13 +137,13 @@ Well folks, I made it to 1 bitcoin tonight and ive got no one else to tell. Its 
 
 I first heard of Bitcoin circa 2011. In 2012, it became important again for reasons I don't remember, and I remember how funny it would be to mine a block "to make history" and also "just in case" it did end up working. Keep in mind at this point, even the idea of bitcoin hitting a dollar was absurd. You'd get laughed at. So I pretty much did precisely that, used my laptop (yes, really) and promptly mined 50 bitcoin. I of course promptly lost not the laptop, but the wallet it was mined to itself. Ironically enough, the laptop still works! I mean, it's an mid-2000s laptop, so it can't do much anymore, but it still sorta work, when connected to the battery, windows XP and all. I spent the better part of a month trying to find the wallet, literally buying programs to scan the free memory on my hard drive, to no real avail. I did end up investing in bitcoin a couple of times, with a mitigated success. I lost 80% of my savings when bitcoin collapsed from $1k to $200 and trust me, no one, and I mean NO ONE thought bitcoin would even touch $1,000 again. I lost 75% when it crashed from 60k to 15k and in fact, I ended up selling at 15. I remember this one clearly, because I was genuinely on the verge of homelessness (being kicked out for rent nonpayment). But the one that hurt me the most was when bitcoin crashed from 20k to 3k. I had bought 16 bitcoins at around 5k (some of it borrowed money), was at one point up 300%, then ended up taking a 20% loss because I was afraid of not even being able to repay my loan. We all know how that turned out. I had at some point been pretty active on this subreddit, before finally deleting my account when reddit banned 3rd party apps from accessing its data (I will quite possibly delete this account soon as well). Some of you might even remember me from a while ago, discussing various bitcoin risks and where the crypto was going. So today I put my entire savings - $140,000 USD, saved painfully from years of a job as a high school teacher, ignore my username please - into bitcoin. I was elated to be able to buy TWO whole bitcoin at once, however I do not expect bitcoin to recover or soar anywhere near in the future. Here, let me explain _______________________________________________________________ 1) Binance hack messed it up for a lot of people People here don't want to hear it, but for 99% of people, when they hear a bank or an exchange is hacked, fear will take over. Suddenly they think their savings/money can be stolen. Binance is supposed to be the golden standard, the top tier crypto center, and in many ways, it is, at least for the average people. To read that a massive, multi-billion "hack" was done (people hear that word alone and panic) is an utter disaster for the average person. "But the money is insured and it's chump change for binance and and..." yes, yes all of that is true, but the average person won't care. They hear "money hacked" and they lose interest. And to be fair, they aren't totally wrong. Sure, crypto is "safe" and "insured" until it isn't. Many exchanges just vanished, often with the funds of their users. Binance was supposed to be different, and this reminded us that it really isn't. Who's to say another FTX scandal isn't coming and people won't lose everything? If people invest in bitcoins at all, they will invest in ETFs. But those ETF keep their funds, well, you get the idea. Also, there are plenty of ETFs, many are safer, bigger and better managed, and trading stuff they already know. The average person has no idea how bitcoin works or even what a blockchain is or what it's used for. I remember I lost thousands investing in a crypto that was used by some warehouse company (won't say it, no promotion). Then one day the warehouse stopped using it and poof, gone. So no, the average person is never going to invest in bitcoin. At this point, it just won't happen, period. Which leads me to my next point: 2) The idea of an "exchange" makes no sense in the first place The general idea of bitcoin is, or at least was, to be your own bank. You manage when you send your funds, you, using a secret signature. Everyone can see your balance, they can even add to it, but no one can take those funds unless you agree. No tell you what to do. 2020 in particular showed us that banks can and will freeze and maybe even seize your funds. People would donate to the truckers convoy in canada (think what you want of the convoy, it's not important) and see their bank accounts limited, frozen, or even closed. You people might remember content creators being deplatformed or banned from the banking system altogether. And it's not just "evil anti-vacinners" or "evil right-wingers". Remember wikileaks? With that in mind, storing your bitcoin in an exchange is incredibly stupid, in my opinion. They can limit or steal your funds at any time. You don't really have any recourse, unless you consider spending years embroded in a legal battle that you'll probably lose "a recourse." Anti-money laundering laws and KYC laws and other garbage laws make sure that if you become a problem, your crypto will be taken. Some people have seen their cryptos taken for no reasons at all. Simply associating with the wrong person is reasons enough to seize your funds for years and years. Heck, even sometimes, your funds will be taken, locked, for no reasons at all. Try to withdraw too many at once? Account locked, pending verifications, give us your last 3 tax returns and sources of income, also get ready for a full audit either way. Someone sketchy sending you funds? Your entire life will be investigated from A to Z. The idea of bitcoin at least was to be your own bank. Be allowed to trade and interact with other worldwide without any 3rd party. I don't see what the interest of exchanges was. For most people, it is to convert bitcoin to cash. But that was not the prime purpose of bitcoin. Say I want to hire someone in a far away country for instance; sending money to him can be complicated. Paypal locks accounts, impose limits, and often close accounts with no warnings. Moneygram are costly, slow, and rely on a third party. With bitcoin, you can send money directly. Say what you want about bitcoin cash (I hate it), they at least got that idea right. I remember one time when sending $100 of bitcoin would cost you $125 in fees, it's a complete joke. I remember when it would take DAYS for your transaction to go through, and you'd have to add to your fees, edit your transactions, etc etc etc. 3) The whole stock market is propped by fake money anyway No one really believes Space X is worth trillions of dollars. No one really thinks Claude AI has a real, 1.5T valuation. No one believes AI is valued appropriately. It's all fake money being pumped out by the government. Look at the US debt; what most people forget is that this money goes somewhere, and mostly, it goes to boost the GDP. The most commonly studied factor is the debt to GDP ratio; if your debt goes up, but your GDP goes up even more, then that ratio falls. Right now, the US is at 120%, not even close to the top it reached in 2030 of 130%. This is because although the debt has exploded, the GDP has grown even more. The US debt has grown 10T in 5 years alone, where do you think the money is going? And we're not even talking Canada, Europe, or even Asia. This is why (or at least one of the reasons) everything cost so much now. I'll stop here because I'm words-limited and I want to get on bitcoin, but you get the idea. No, AMD is not worth 36 times its revenues. No, MSFT is not worth 4T. NVDA just lost 2T in a month pretty much based on pretty much nothing, do you really think this makes any sense? ______________________________________________ WITH THAT IN MIND, WHY DID I JUST PUT EVERYTHING I HAVE INTO BITCOIN Bitcoin is down roughly 48% from its peak. This is nothing new and nothing unusual, because bitcoin is an insanely easy-to-manipulate crypto. This goes both ways: up (when short sellers get squeezed, or liquidity drains out, no one wants to sell on an uptrend) and down (margin calls, panic sales, etc.). Cyclically, this is perfectly normal, and bitcoin tends to recover 250-1000% after this. This is my first time touching bitcoins in over two years (I bought an ETF if you must know), and this is why). Do you think I don't feel stupid selling my 16 bitcoin at 4k? Or my 20 bitcoin at 200$? Or even my 5 b itcoin at $15k? I remember perfectly that every single time, people said it was over. For those of you who have been there for a while, we never, and I mean it, we never, ever, ever thought bitcoin would reach 1k, 5k, 25k, 50k or even 100k. Not even in my wildest dreams, when I had my 16 bitcoins, did I ever consider even the possibly it would reach 100k and that I would have 1.6M usd. 4) Miners My target for bitcoin is $345,000 in late 2029. Here is why. Cyclically, halvenings don't have much impact on bitcoin, at least short-term. The real peak starts in september the year of the halvening. This brings us to september 2028 as the "start" of the next "cycle." Don't expect bitcoin to do miracles until then. We'll be lucky if it breaks 100k by then, if at all. But once it does, and I believe it will, it will become unstoppable based on a few elements. First, the miners. Miners need to sell a large portion of their bitcoin just to finance their operations. Every single miner I've met (and yes, I've met many) wants to expand their businesses, absolutely none of them goes "I have X Eh/s, let us stop there." They ALL reinvest part of their mining into more equipment. They also need to pay electricity, maintenance, operation costs, etc. Most miners keep very little of their bitcoins. I'd say the average is 10-20% tops. So what happens when block rewards are cut by half, especially such a sizeable amount? Well they basically need to sell more bitcoins. if the price doesn't move and they need X, and now they get half the reward, they need to sell more. It's that simple. But buyers of bitcoins (who are often very different from miners, I've never mined for instance) think differently. Most of them either add a fixed amount every X, or want to add a given amount of bitcoins. But with far fewer bitcoins coming onto the market, what can they do? Well, same amount of buyers for far fewer bitcoins. It takes some time for the miners to adjust; just because the reward is cut by half doesn't mean they will immediately adjust, but over time, this creates a downward pressure on bitcoin selling. Fewer bitcoins hit the market. All things considered, supply is down, demande is up. Simple enough. 5) Inflation I will never quite understand why people are fine with inflation at all. The bank of canada is trying to convince me inflation in 2026 so far was 2.6%. Prices go up at the grocery store by more than 2.6% literally every time I go. Last time I checked, a pound of butter was 9.49$, and I am too scared to look now. There are many reasons for that of course (one being that billionaires love to squeeze us, and government does nothing), but one of them is money printing. When you print trillions and hand it around, it increases the supply of money. Same amount of production + more people wanting to buy your production = higher prices. That's it. And the government loves it because higher prices = more sales tax. More sales tax = they can waste more money, and then use that as a reason to print even more money. This creates an unbearable inflation that frankly makes no sense, and dramatically changes society. A McDo trio is $21 here with taxes, who is really going to buy this? This junk? My local dinner still charges $15 for a far better hamburger. Deodarant is $14 at the pharmacy, who is going to buy that? Another one is 3 for $12 at Costco, you get the idea. This goes with bitcoin as well. $100k bitcoin might have sounded crazy a few years ago, but today, it's basically nothing. Everyone earns 100k a year now. I was a high school teacher, and now they earn 100k easily. Police, nurses, construction, everyone with a career seems to make $100k a year now. You can go work as a data entry analyst and you'll make 100k pretty fast, somehow. So the same idea of a 100k bitcoin is not as alluring. I want to be clear: when bitcoin first hit 100k, it was still a ton of money. 100k was a premium car, today, it doesn't even get you a tesla. 100k could still buy you a house in some part of Quebec, now you barely buy a mobile home for this price. This is my main reason to invest in bitcoin, and anyone who knows bitcoin knows why: fixed supply. People don't like to hear it, but when the block rewards goes to below 1BTC in 2032, it will be basically impossible to acquire new bitcoins. You will have to acquire from someone with bitcoin, and those people are not selling easily. I might sell mine at 345k, but that's just hoping for another -50% cycle. 6) Market manipulation & altcoins When it comes to crypto, you have to understand nothing is done by accident. EVERY single headline or "news" you read is made to manipulate and rob you. I know that far better than most, I sold my bitcoins at 15k. Imagine if I hadn't. And bitcoin wasn't a new, random, risky thing when I sold neither. It was well-established and working. Like it or not, it takes far less money to manipulate bitcoin prices than you think. There are no real regulation and even if there were, those people don't do their jobs anyway. A group of person can easily spearhead a campaign and crash a crypto 20% like it's nothing. It's a game to those people: make people panic and hit their stop losses, let the crypto collapses, buy it, pump it, rinse and repeat. Almost everything you read on cryptos is fake. The fear, the fake "bitcoin is going to 1M," it's all fake and designed to manipulate people. Look at the number of "altcoins" for instance. Look at how many were in the op 25 five years or ten year ago vs today. It's all fake. The market cap is fake, the volume is fake, the news on the cryptos are fake, the "trends" or "about to soar" are fake, nothing is real, everything is manipulated to get you to sell or buy at the worst time. People here liked to say "buy every month and hold" and they are right. Had I done that ten, fiteen years ago, I would probably hundreds of bitcoins by now. Now I have 2 And speaking of altcoins, 99% are worthless. Ever heard of Avalanche coin? Apparently, it's worth billions now. Sui, Bittensor, Cronos? Me neither, but they're worth billions of dollars as well. 99% of those projects won't exist 5 years from now. They have no real goal or purpose and if one of them actually does, understand you have almost no chance to pick the "right" one anyway. 7) So, bitcoin target price? A lot of people are panicking right now because bitcoin is down... 5% from its recent levels. 5%. Understand that the price is fake anyway. With leverage, a few important players can play with the price like they want, at least short term. I firmly believe most exchanges don't have as much bitcoins as they pretend they do. Oh, I do believe their public wallets and all, but I believe they allow far more bitcoins to be purchased than the amount they really have. If everyone tried to withdraw their bitcoins at once from a secondary exchange, that secondary exchange just wouldn't be able to do it, because they simply don't have them. People are allowed to trade on a 10x leverage; deposit 10M (chump change for rich people) and now you got 100M of bitcoins to manipulate the price. And this is why when bitcoin will soar, and it will soar, those people are in trouble. For instance, nobody, and I mean nobody thinks bitcoin can reach 200k within a month, right? If it ever reaches that amount, it will be over a year, maybe two? Yeah, not really. If those people are caught with their pants down, as they were many times in the past, they are simply SOL. Look at Gamestop and what a few people did; Robinhood had to ban people from buying a stock! I never quite got how they got away with that. Bitcoin is a phenomenal asset to own. I thought I got it when I first bought it, I thought I got it when I bought it a few years ago, and even now, I think I get it, but Satoshi was a real genius. He planned for things I couldn't even imagine. The halving for instance is much stronger than people like to pretend it is. And the demand for bitcoin is not going to go down. It's one of the very few assets that is genuinely fighting inflation. The US government, the EU government, everyone will keep printing and printing and printing (remember we only know what they tell us). There is no stopping it at this point. We could discuss in long and large what happens when interest rates go up, or the GDP goes down to a bad year, or when France isn't able to renew its debt, but for now, I will say this: you have nothing to fear, long-term, holding bitcoin. I think the new bitcoin rip will shock people by how fast and how violent it is. I am not selling my bitcoin at 150k, 200k, 250k. So if not one is selling and short sellers are forced to cover, and if my theory is right and exchanges don't have the bitcoins, what do you think happens? Many years ago, when bitcoin was at 10k, I remember reading someone posting that "bitcoin could go up and down 10k a day." An average market move. I didn't believe it then, but now, it seems like a certainty. I am genuinely convinced in my lifetime, bitcoin will trade in the millions. It's a rare, proved, working asset. So, why not wait to buy? Because I am not good enough to time anything. I have bought a bit over 2 bitcoin today and won't look until 2029. Might make another post then. For your information, 100% of my savings is in BTC. Take care and as always, this isn't financial advice, trade at your own risk and do your own due diligence.
 
-7h ago
+14h ago
 
 ---
 
 **[The time of the year again](https://www.reddit.com/r/Bitcoin/comments/1xv5wi3/the_time_of_the_year_again/)**
 
-13h ago
+20h ago
 
 ---
 
@@ -151,77 +151,77 @@ I first heard of Bitcoin circa 2011. In 2012, it became important again for reas
 
 ## Google News: "bitcoin"
 
-**[Why Bitcoin Is Falling Today](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-falling-today-183502609.html)**
+**[Bitcoin falls below $70,000 as dollar surges and $1.6 billion liquidated](https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion)**
 
-Bitcoin dropped below $70,000 overnight, to its lowest level since August, after a hotter-than-expected inflation report pushed up rate hike expectations and a wave of leveraged positions was liquidated.
-
-Yahoo Finance • 7h ago
+CoinDesk • 20h ago
 
 ---
 
-**[Over 35% of Bitcoin Supply Faces Potential Quantum Risk, New Data Shows](https://finance.yahoo.com/markets/crypto/articles/over-35-bitcoin-supply-faces-233000047.html)**
+**[Strive CEO Says Bitcoin Could ‘Go To A Penny’ And The Company Would Still Survive Because It Has No Debt](https://finance.yahoo.com/markets/crypto/articles/strive-ceo-says-bitcoin-could-064019362.html)**
 
-Glassnode says 7.12 million BTC have visible public keys. Robinhood, Binance and Satoshi's coins top the exposure list.
+Strive keeps around 85% to 90% of its balance sheet in Bitcoin and 10% to 15% in cash, which can cover its obligations during a downturn, the CEO said.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin and AI are fighting a $350 million battle over a dam in Paraguay](https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out)**
+**[Twenty One Capital CEO Says ‘A Balance Sheet Is Not A Business’ After $1 Billion Bitcoin-Driven Gain](https://finance.yahoo.com/markets/crypto/articles/twenty-one-capital-ceo-says-074906529.html)**
 
-CoinDesk • 2h ago
+Twenty One Capital ended the quarter with over 40,000 Bitcoin and $102.8 million in cash.
+
+Yahoo Finance • 51m ago
 
 ---
 
 **[Bitcoin’s Billion-Dollar Wipeouts Are Becoming a Familiar Sight](https://www.bloomberg.com/news/articles/2026-11-13/bitcoin-s-billion-dollar-wipeouts-are-becoming-a-familiar-sight)**
 
-Bloomberg • 6h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**['Fast Money' traders discuss if a bitcoin rebound is on the horizon](https://www.cnbc.com/video/2026/11/12/fast-money-traders-discuss-if-a-bitcoin-rebound-is-on-the-horizon.html)**
+**[Bitcoin and AI are fighting a $350 million battle over a dam in Paraguay](https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out)**
 
-CNBC • 1d ago
-
----
-
-**[Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO](https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a)**
-
-MarketWatch • 4h ago
+CoinDesk • 9h ago
 
 ---
 
-**[BITCOIN hit its 1W MA200 again! They said it would never happen! for CRYPTO:BTCUSD by TradingShot](https://www.tradingview.com/chart/BTCUSD/riK7iXN8-BITCOIN-hit-its-1W-MA200-again-They-said-it-would-never-happen/)**
+**[Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree](https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/)**
 
-A month ago (see charts below), we signaled a medium-term correction Bitcoin (BTCUSD) after it broke below its 1D MA50, giving a 1W MA200 Target around $68000:
+Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move ‘Pure Manipulation’Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever…
 
-https://www.tradingview.com/chart/BTCUSD/HgOwhxuA-BITCOIN-broke-below-its-1D-MA50-after-2-months-Is-70k-next/
-
-https://www.tradingview.com/chart/BTCUSD/KEkYM5Bi-BITCOIN-Is-another-1W-MA200-test-possible/
-
-At the time our view was met with huge skepticism, denial and mockery, but 7 weeks later BTC reached our Target. The reason that …
-
-TradingView • 14h ago
+TradingView • 10h ago
 
 ---
 
-**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/)**
+**[Michael Saylor’s Entire $64 Billion Bitcoin Pile Is Underwater, So What Happens Next?](https://247wallst.com/investing/2026/11/13/michael-saylors-entire-64-billion-bitcoin-pile-is-underwater-so-what-happens-next/)**
 
-BeInCrypto • 12h ago
+Bitcoin slid below Strategy's cost basis just as ETF outflows mounted and an index giant prepared to cut the company loose. A single date at month's end could decide whether Saylor's bet gets relief or another round of forced selling.
 
----
-
-**[Strive's Bitcoin Strategy That 'Could Even Survive an 80% Crash'](https://www.benzinga.com/crypto/cryptocurrency/26/11/63267145/strives-bitcoin-strategy-that-could-even-survive-an-80-crash)**
-
-Benzinga • 4h ago
+24/7 Wall St. • 15h ago
 
 ---
 
-**[Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin](https://cryptobriefing.com/coinbase-institutional-fed-rates-bitcoin-decline/)**
+**[Trump’s Bitcoin reserve can’t buy Bitcoin without Congress, says Witt](https://cryptobriefing.com/strategic-bitcoin-reserve-needs-congress-approval/)**
 
-Coinbase Institutional says Fed rate hike expectations after hot CPI data, not the Binance hack, drove Bitcoin below $70,000.
+Patrick Witt says the Strategic Bitcoin Reserve needs explicit congressional authorization before the US can buy Bitcoin on the open market.
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 4h ago
+
+---
+
+**[AM Markets Need to Know: Anthropic IPO demand surges, Bitcoin slides, and more (SP500:)](https://seekingalpha.com/news/4672226-am-markets-need-to-know-anthropic-ipo-demand-surges-bitcoin-slides-and-more)**
+
+Anthropic’s planned $64.4B IPO reportedly draws 6x available-share orders; Michael Burry adds Nasdaq puts as Bitcoin falls to about $69,000.
+
+Seeking Alpha • 21h ago
+
+---
+
+**[Bitcoin Falls Below $69,000 as Ether Slides Under $2,000](https://thedefiant.io/news/markets/bitcoin-falls-below-69-000-as-ether-slides-under-2-000)**
+
+Bitcoin and ether traded below $69,000 and $2,000 on Nov. 13. Coinbase data show the scale of their daily, weekly and four-week losses.
+
+The Defiant • 1h ago
 
 ---
 
@@ -243,11 +243,9 @@ A deep dive into Starlight — the decentralized AI app store where wishes are s
 
 ---
 
-**[HomeMinerProxy: home dashboard and Stratum proxy for Bitcoin lottery mining](https://news.ycombinator.com/item?id=50401548)**
+**[Ask HN: What use are the non-major cryptocurrencies?](https://news.ycombinator.com/item?id=50493695)**
 
-Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32, cpuminer). Every share&#39;s difficulty in real time, records with confetti and siren, pool failover, luck meter. Z...
-
-⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/Modanez/HomeMinerProxy)
+⬆️ 3 • 💬 1 • 4h ago
 
 ---
 
@@ -267,7 +265,7 @@ Stratum proxy + dashboard for home solo Bitcoin mining (Bitaxe, NerdMiner, ESP32
 
 Git for Postgres data, built for agents. Branch, diff, merge and undo inside PostgreSQL. - bitsinfra/gnomon
 
-⬆️ 22 • 💬 11 • 8h ago • [GitHub](https://github.com/bitsinfra/gnomon)
+⬆️ 22 • 💬 11 • 15h ago • [GitHub](https://github.com/bitsinfra/gnomon)
 
 ---
 
@@ -281,7 +279,7 @@ Fusee is an open-source durable execution engine for Rust, TypeScript, Python, G
 
 **[Why Does Pitching Integrators Feel Like a One-Way Street?](https://news.ycombinator.com/item?id=50478476)**
 
-⬆️ 2 • 💬 0 • 20h ago • [deploy95.substack.com](https://deploy95.substack.com/p/why-does-pitching-integrators-feel)
+⬆️ 2 • 💬 0 • 1d ago • [deploy95.substack.com](https://deploy95.substack.com/p/why-does-pitching-integrators-feel)
 
 ---
 
@@ -295,7 +293,17 @@ Strategy, the world's largest corporate Bitcoin holder, is being dropped from MS
 
 📺 Yahoo Finance
 
-👁️ 33K • 👍 593 • 💬 134 • ⏱️ 14:52 • 7h ago
+👁️ 52K • 👍 739 • 💬 163 • ⏱️ 14:52 • 14h ago
+
+---
+
+**[It’s Over: Nvidia CEO ‘Purposely’ Crashing The Crypto Market?](https://www.youtube.com/watch?v=WJL2Ta9ZNDg)**
+
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+
+📺 Altcoin Daily
+
+👁️ 32K • 👍 936 • 💬 81 • ⏱️ 9:17 • 7h ago
 
 ---
 
@@ -305,47 +313,17 @@ No B.S. Just Charts. Bitcoin and the crypto market are in collapse mode after Bi
 
 📺 Gareth Soloway
 
-👁️ 54K • 👍 2K • 💬 152 • ⏱️ 11:18 • 6h ago
+👁️ 77K • 👍 3K • 💬 234 • ⏱️ 11:18 • 13h ago
 
 ---
 
-**[Bitcoin Just Got FLUSHED...Bottom in?](https://www.youtube.com/watch?v=6L-H8IzQTv8)**
+**[Cyberattacks Are Starting. The AI Bubble is Bursting. Will Bitcoin Survive What&#39;s Next?](https://www.youtube.com/watch?v=L6H7538ogGs)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
+Bitcoin is being pitched as the escape hatch from the AI trade after Nvidia CEO Jensen Huang's reported exit, a Microsoft outage ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 23K • 👍 648 • 💬 80 • ⏱️ 48:07 • 10h ago
-
----
-
-**[MAJOR BITCOIN SIGNAL JUST FLASHED!!](https://www.youtube.com/watch?v=meMfgAfeTsQ)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 9K • 👍 292 • 💬 39 • ⏱️ 8:26 • 11h ago
-
----
-
-**[Bitcoin Drops Below $70k](https://www.youtube.com/watch?v=7XTLBzDzOHA)**
-
-Bitcoin has fallen below $70k. Let's discuss what comes next. Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 114K • 👍 4K • 💬 309 • ⏱️ 24:07 • 8h ago
-
----
-
-**[Bitcoin Just Lost $70K: This Is What Happened Last Time](https://www.youtube.com/watch?v=3eDRu9w1gwM)**
-
-Join Learning Crypto: ...
-
-📺 Crypto Tips
-
-👁️ 13K • 👍 423 • 💬 41 • ⏱️ 8:35 • 8h ago
+👁️ 19K • 👍 996 • 💬 74 • ⏱️ 16:55 • 9h ago
 
 ---
 
@@ -355,37 +333,57 @@ Welcome back to the channel! ➡️ Trade on BTCC & 10% deposit bonus: https://a
 
 📺 Aaron Bennett
 
-👁️ 24K • 👍 563 • 💬 137 • ⏱️ 10:29 • 22h ago
+👁️ 25K • 👍 578 • 💬 141 • ⏱️ 10:29 • 1d ago
 
 ---
 
-**[LEAKED: JP Morgans SECRET Bitcoin Plan EXPOSED!!! | EP 1634](https://www.youtube.com/watch?v=NtaQGnfWRR8)**
+**[Bitcoin Just Got FLUSHED...Bottom in?](https://www.youtube.com/watch?v=6L-H8IzQTv8)**
 
-Bitcoin crashing to 200w moving average at the same time 13-f fillings are finally being seen showing JP Morgans attack on ...
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
+
+📺 CryptosRUs
+
+👁️ 26K • 👍 691 • 💬 84 • ⏱️ 48:07 • 17h ago
+
+---
+
+**[MAJOR BITCOIN SIGNAL JUST FLASHED!!](https://www.youtube.com/watch?v=meMfgAfeTsQ)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 10K • 👍 302 • 💬 44 • ⏱️ 8:26 • 18h ago
+
+---
+
+**[Bitcoin Drops Below $70k](https://www.youtube.com/watch?v=7XTLBzDzOHA)**
+
+Bitcoin has fallen below $70k. Let's discuss what comes next. Come to the 1st ITC Conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 155K • 👍 5K • 💬 354 • ⏱️ 24:07 • 15h ago
+
+---
+
+**[Was Nvidia’s CEO Taken Out? The Bitcoin Link No One Is Talking About!](https://www.youtube.com/watch?v=BS0XC_tixa8)**
+
+NVIDIA CEO Jensen Huang is out, NVIDIA stock is crashing, and Bitcoin is falling with it. But was Huang's sudden exit really just a ...
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 363 • 💬 40 • ⏱️ 1:16:11 • 6h ago
+👁️ 56K • 👍 2K • 💬 137 • ⏱️ 17:12 • 1d ago
 
 ---
 
-**[Peter Schiff on the Bitcoin Crash: &quot;Get the Hell Out&quot;](https://www.youtube.com/watch?v=8HRAH-P7I4g)**
+**[Bitcoin Black Swan CONFIRMED! (How Low Can We Go?)](https://www.youtube.com/watch?v=0Ng-9t6p5tU)**
 
-Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before ...
+Trade at Bitbase - https://www.bitbase.com/en/accounts/invite/JWPE3H Join Skool Community ...
 
-📺 Bitcoin Magazine
+📺 Discover Crypto
 
-👁️ 12K • 👍 86 • 💬 58 • ⏱️ 20:10 • 1d ago
-
----
-
-**[BITCOIN: THIS IS SCARY....](https://www.youtube.com/watch?v=9kkd62M-2do)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
-
-📺 Crypto Kid
-
-👁️ 5K • 👍 179 • 💬 29 • ⏱️ 7:12 • 11h ago
+👁️ 5K • 👍 130 • 💬 68 • ⏱️ 6:31 • 8h ago
 
 ---
 
