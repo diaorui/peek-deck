@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "What Will Bitcoin and Ethereum Be Worth in 5 Years?",
+      "headline": "Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTG5UY1MzMnhDcDhMS0I3cHFiWkNCbWVUR0VxWEV3bnhSb1lBOXpiUGZNUXBuN0VqUG5VNG5obGd5bHlBWHRsY3dNRW5mLVh4eF9FZlZwazVpUkxrNmVsMlZOcENMTFQzVUVyTXA2ZFJ4dlIyelU2QUp5ektRRnZ6YWYxZHdNc1kxMy1jeFpISUt1amlTeTFBcDJDWQ?oc=5",
-      "pub_date": 1794418446.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-worth-5-years-173406465.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6d26859e240180cb72546bdbb5e235c53eb6db8fcb2907675f85ef6711e74cc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8ce6a176ccf96abe9b1c70957e183451.jpg",
-      "description": "Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzdTTmdsREU3WWdrVlZIRUFCa1ZrVm0tTWdOdHc2d2tYbkhVQUpPclc4aXpYQXU3VGU5MTRjaUxpaU0td0VUZllBbDRPNFl3SUZHaEJJYk1hQWZwcmdrT25KY2RhOTY1V2dvblBjNGtJbGVVZkVuWW45S1NWcnV6Z3dBemhHYjctdExWQnJqd0ZMSm1SSEdZWmVJbUFTamxndXc?oc=5",
+      "pub_date": 1794595406.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/claude-ai-predicts-bitcoin-ethereum-184326413.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f9eae24b584425c5075a89f7db805dd7d220a07b13f71d56dbc77242f609d1d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0e50d9f87399930f17c0fe7c6d89d619.jpg",
+      "description": "Both coins sit far below their peaks, and an AI model thinks one of them has a much better shot at reclaiming its crown. Which one needs the Fed's help, and which one depends entirely on the other?"
     },
     {
       "headline": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
@@ -45,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "Ethereum faces temporary issues due to cloud provider malfunction",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oaHVnRFlleDJUX21PRHVOcmtwWXNRWVFMTXBBdlhWYVk5Yld1YnJ0d2lBLU8waDQ4cV9zYy05Y2ZnSVZqMmxfN3RjV0J3UHE5TldWaC1hSFlUZWZxRjVWaWFsQTBqYWRhd1FNMUFzbGhoRVAxcE9kS09lRTY?oc=5",
+      "pub_date": 1794659071.0,
+      "article_url": "https://cryptobriefing.com/ethereum-cloud-provider-hardware-malfunction/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/14072423/library-ethereum-faces-temporary-issues-due-to-cloud-provider-ma-800x450.png",
+      "description": "A hardware malfunction at an unnamed cloud provider is disrupting Ethereum access while consensus keeps running. Here's what users should know."
+    },
+    {
       "headline": "Ethereum\u2019s ERC-8415 tests tokenization\u2019s ownership gap",
       "source": "Asia Times",
       "source_url": "https://asiatimes.com",
@@ -53,16 +63,6 @@
       "article_url": "https://asiatimes.com/2026/11/ethereums-erc-8415-tests-tokenizations-ownership-gap/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Current price of Ethereum for November 13, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MRGQyakNqWFl5WXY5RVVpcWlRMm1GbG03cTJLSmpvRk0wcE1RcjI4eHJaajB3WkxwdWt5Mm1OUWdXTDJhMHE0TXFQeWhpTDNOVFVRa19FUk1YUFpuZHl1UVlGN2xILWlC?oc=5",
-      "pub_date": 1794583916.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-13-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-13.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Most large cryptocurrencies decline on Bitcoin, Ethereum drops",
@@ -75,36 +75,36 @@
       "description": null
     },
     {
-      "headline": "How Ethereum staking hit a record 36.3% despite ETH\u2019s price drop",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjdDSHh0enNwMTg1Yk5td2VpdGNDaEc3b2dJQUNOand0RFp6Ym5mZWlSYVpKbUV6YnRsWnVpSmpWWTltV2hhZVUyNG83QUxoUGxlX2k0RVhKblY3TUh5a3pmQXJ2eUFKUUZEcFVWb2I2Y2pzSktPMHpoSkt4WENSLXJQajd6Y09RUmxITW1R?oc=5",
-      "pub_date": 1794535253.0,
-      "article_url": "https://ambcrypto.com/how-ethereum-staking-hit-a-record-36-3-despite-eths-price-drop/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/11/Ethereums-staking-ratio-has-reached-an-all-time-high-e1794480450121.webp",
-      "description": "More than one-third of Ethereum's circulating supply is now staked."
+      "headline": "Should Ethereum Tax Its Apps Like a Nation? Arca\u2019s Jeff Dorman Says It Has To",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3ktRUcxaEFPTUNEczZONFhLUER2OTRwM2RTLTF4cVlBNDdITkVRblBUMThGUHRuQW5qX2hZNHJYVTBQUUJlQlZIMF9wcjBSSUR6NHNoNnZKdHROTnlpN3pOM09CRkVnZ0ZyZWhsbmczTEpqUmpNSDJ3OENXM2lHeXhB?oc=5",
+      "pub_date": 1794657627.0,
+      "article_url": "https://finance.yahoo.com/video/ethereum-tax-apps-nation-arca-120027725.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/440ad1a0569313d7b58a8f1908623a75ae0fbd283653d4f698a6f5b28d06ed0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2Faef515fc773ec5ee5a689250f6deb7fd.png",
+      "description": "Jeff Dorman, Chief Investment Officer and co-founder of Arca, agrees with Vitalik Buterin that chasing fee burn would turn Ethereum into a stock, but argues a chain that never taxes its apps can\u2019t give its currency much value."
     },
     {
-      "headline": "Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge",
-      "source": "Mashable",
-      "source_url": "https://mashable.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckZvNmlIMDFlNldRN1hIMmNoY2ZqMGQ3SlpaZ29DTzU4NjV3RFFPOF9uaGl1eVRkUDJudWx0WGU5MktIRUszUUlYM2MzOVNTeTItLWFvdHg5Q1p1dmtGSXJUTTdyMDJ1LTk5cU9vN3RSY0hOb2stdkxFU2xxa25HZGtXaHRRVE0?oc=5",
-      "pub_date": 1794385967.0,
-      "article_url": "https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit",
-      "image": "https://helios-i.mashable.com/imagery/articles/045VD1jHpCJAt2Ikd7H5FLU/hero-image.fill.size_1200x675.v1794382017.jpg",
-      "description": "The non-profit allegedly told workers to pledge they'd die by suicide \"with a sword.\""
+      "headline": "What Will Bitcoin and Ethereum Be Worth in 5 Years?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTG5UY1MzMnhDcDhMS0I3cHFiWkNCbWVUR0VxWEV3bnhSb1lBOXpiUGZNUXBuN0VqUG5VNG5obGd5bHlBWHRsY3dNRW5mLVh4eF9FZlZwazVpUkxrNmVsMlZOcENMTFQzVUVyTXA2ZFJ4dlIyelU2QUp5ektRRnZ6YWYxZHdNc1kxMy1jeFpISUt1amlTeTFBcDJDWQ?oc=5",
+      "pub_date": 1794418446.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-worth-5-years-173406465.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6d26859e240180cb72546bdbb5e235c53eb6db8fcb2907675f85ef6711e74cc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8ce6a176ccf96abe9b1c70957e183451.jpg",
+      "description": "Bitcoin and Ethereum have both slid hard from their highs, but analysts see wildly different futures for each. One faces a clear path back, while the other could end up a huge winner or a painful loser. Which one carries the bigger risk?"
     },
     {
-      "headline": "This 1 Important Signal Is Now Flashing Red for Ethereum. That's Why I'm Selling ETH Right Now.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjhxWGxZMTBUU29aWTdYeW40QW5MZ0hnSTdUYzZCNHRBV0dRbjJaeWVGa1VkWmxBUVlLNFl3SmZzWGtxWEQ4OWE0WG5uS0lVQURNaTJ5bnBIU29UN3kwa2cwdUhDZzZxcE9CSHFES0ZjbXROWlZiUHRILWZIZ2pBY2U5c3kyZHBFbFpmd1gxUmRMaUhJNEZfcw?oc=5",
-      "pub_date": 1794463200.0,
-      "article_url": "https://www.fool.com/investing/2026/11/12/this-1-important-signal-is-now-flashing-redgreen-f/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893603%2Fangry-investor-with-smartphone.jpg&w=1200&op=resize",
-      "description": "Until Ethereum ETF inflows return, it may be time to look elsewhere for upside."
+      "headline": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSG5nQ21keXQ0VlB5TDhaYThnMlBRcFdOYXpPZFdLOHEtYkhCWUtXbjJMWGNGZW1ZSUVkRnZHdFFaX3g3YVE3RWJQR1VJamhmOHJnZkdhVE9RNGJtdGNtRkY4TWRLSUEtMTFudTRISDBBZDJkS0xBZU5BRTZPWUdSYzl0WkV4dzljeDcxb2d2N0psOGktc2FmNDFPSkJmRGc3NERYQzBvb1BsNHlHdnNrdndFaEZIb1MtZ1ZMaQ?oc=5",
+      "pub_date": 1794483821.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-14T08:40:57.196491+00:00"
+  "fetched_at": "2026-11-14T15:36:49.364149+00:00"
 }
