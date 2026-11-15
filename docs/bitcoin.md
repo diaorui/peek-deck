@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-15T14:39:23.221619+00:00'
+updated: '2026-11-15T20:11:25.399012+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 15, 2026 at 14:39 UTC  
+**Last Updated:** November 15, 2026 at 20:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,439.31
+### $64,967.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
+**24h:** +0.5%  
 **7d:** -14.1%  
 **30d:** -20.5%  
 **90d:** +0.0%  
-**1y:** -31.2%  
+**1y:** -31.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1305.40B
+**Market Cap:** $1303.55B
 Rank #1
 
-**Circulating Supply:** 20,112,318 BTC
+**Circulating Supply:** 20,112,500 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--48.5%
+-48.6%
 
 **All-Time Low:** $67.81
-+95617.4%
++95487.7%
 
 ---
 
@@ -77,69 +77,77 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Come to the darkside](https://www.reddit.com/r/Bitcoin/comments/1xw8la9/come_to_the_darkside/)**
+**[Got my quarter of a bitcoin finally](https://www.reddit.com/r/Bitcoin/comments/1xwxx8l/got_my_quarter_of_a_bitcoin_finally/)**
+
+Hit my goal of a quarter of a bitcoin, feels good
+
+4h ago
+
+---
+
+**[Fear Greed index at 10](https://www.reddit.com/r/Bitcoin/comments/1xww5r3/fear_greed_index_at_10/)**
+
+We’re so back! /s
+
+6h ago
+
+---
+
+**[Last 3 months of pump, GONE!](https://www.reddit.com/r/Bitcoin/comments/1xwisa4/last_3_months_of_pump_gone/)**
+
+Congrats everyone.
+
+18h ago
+
+---
+
+**[bitcoin will be 170k-200k in sep 2029](https://www.reddit.com/r/Bitcoin/comments/1xx3wds/bitcoin_will_be_170k200k_in_sep_2029/)**
+
+1h ago
+
+---
+
+**[Trezor confirms malicious hardware implants in three cryptocurrency wallets](https://www.reddit.com/r/Bitcoin/comments/1xwypkc/trezor_confirms_malicious_hardware_implants_in/)**
+
+Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian reseller CryptoBilis contained unauthorized circuit boards designed to capture recovery phrases and transmit them through cellular networks. The affected purchases occurred between August 20 and September 23. Trezor released firmware 2.13.1 on November 11 to block the identified implant behavior. No affected customers had reported losing funds at the time of the disclosure. Hardware wallets are not automatically trustworthy if their physical supply chain is compromised. Firmware updates cannot undo recovery phrases already stolen.
+
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 4h ago
+
+---
+
+**[It's so over guys!!!](https://www.reddit.com/r/Bitcoin/comments/1xwnz3q/its_so_over_guys/)**
+
+14h ago
+
+---
+
+**[We are back baby!](https://www.reddit.com/r/Bitcoin/comments/1xwk37a/we_are_back_baby/)**
+
+62 > 64.5
+
+17h ago
+
+---
+
+**[For those of you who are scared, I am too.](https://www.reddit.com/r/Bitcoin/comments/1xwgv3d/for_those_of_you_who_are_scared_i_am_too/)**
+
+I really have no words of hope. But I am holding on.
 
 20h ago
 
 ---
 
-**[The main reason Bitcoin is tanking rn](https://www.reddit.com/r/Bitcoin/comments/1xw5mk0/the_main_reason_bitcoin_is_tanking_rn/)**
+**[HODL](https://www.reddit.com/r/Bitcoin/comments/1xwizma/hodl/)**
 
-22h ago
-
----
-
-**[Hi 🌚](https://www.reddit.com/r/Bitcoin/comments/1xw242j/hi/)**
-
-1d ago
+18h ago
 
 ---
 
-**[In BTC we trust](https://www.reddit.com/r/Bitcoin/comments/1xw251p/in_btc_we_trust/)**
+**[Bitcoin rose 4% in one hour](https://www.reddit.com/r/Bitcoin/comments/1xwkayc/bitcoin_rose_4_in_one_hour/)**
 
-Same story at the beginning of every bull run: BTC corrects by 30% before taking off to new all-time highs. And every single time, people freak out and act like it's the end of Bitcoin. But let me tell you something: Bitcoin has no ceiling because fiat has no bottom.
+What is going on with Bitcoin today?
 
-1d ago
-
----
-
-**[Everyone chill](https://www.reddit.com/r/Bitcoin/comments/1xw3va7/everyone_chill/)**
-
-1d ago
-
----
-
-**[All of us now](https://www.reddit.com/r/Bitcoin/comments/1xwetl8/all_of_us_now/)**
-
-16h ago
-
----
-
-**[Sorry to do this but](https://www.reddit.com/r/Bitcoin/comments/1xwfb4u/sorry_to_do_this_but/)**
-
-16h ago
-
----
-
-**[Just bought BTC](https://www.reddit.com/r/Bitcoin/comments/1xwftpj/just_bought_btc/)**
-
-Got in the BTC game until now, hasn’t been at 63ish for a while now, what do you say? Risky move or wise and get into the waiting game?
-
-15h ago
-
----
-
-**[See you all after 15 months](https://www.reddit.com/r/Bitcoin/comments/1xw5ctt/see_you_all_after_15_months/)**
-
-BITCOIN ATH RECOVERY TIME Cycle Time to surpass previous ATH 2011–2013 20 months 2013–2017 37 months 2017–2020 36 months 2021–2024 28 months 2024–2025 19 months HISTORICAL AVERAGE: 28 months CURRENT CYCLE (2025–2026) Previous ATH: October 2025 Current date: November 2026 Time elapsed: 13 MONTHS Time remaining to historical average: 15 MONTHS Estimated reference: February 2028
-
-23h ago
-
----
-
-**[Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill](https://www.reddit.com/r/Bitcoin/comments/1xwb8vo/britain_could_turn_wasted_scottish_wind_power/)**
-
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill) • 19h ago
+17h ago
 
 ---
 
@@ -147,9 +155,19 @@ BITCOIN ATH RECOVERY TIME Cycle Time to surpass previous ATH 2011–2013 20 mont
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate](https://www.bloomberg.com/news/articles/2026-11-14/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate)**
+**[Bitcoin’s Fall to $62,000 Sparks Market Manipulation Claims](https://finance.yahoo.com/markets/crypto/articles/bitcoin-fall-62-000-sparks-092429244.html)**
 
-Bloomberg.com • 10h ago
+Bitcoin crashed to $62,000 as liquidations topped $2 billion. Analysts claim manipulation, but others blame leverage.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[What's Behind Bitcoin's Drop? CZ Points to 6 Possible Reasons](https://finance.yahoo.com/markets/crypto/articles/whats-behind-bitcoins-drop-cz-185946117.html)**
+
+Bitcoin hit $62,006 as US funds lost $1.91 billion in seven days. Binance's CZ lists six possible reasons why.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -159,35 +177,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin’s four-year cycle is about to turn bullish — if history repeats: Chart of the Day](https://finance.yahoo.com/markets/crypto/article/bitcoins-four-year-cycle-is-about-to-turn-bullish--if-history-repeats-chart-of-the-day-141744431.html)**
-
-Bitcoin’s slide has hit the window where past bear markets bottomed.
-
-Yahoo Finance • 21m ago
-
----
-
-**[Bitcoin ETF Flows Can Whipsaw: How to Know If You Should Ride It Out](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-flows-whipsaw-know-133502665.html)**
-
-Like the assets it holds, an ETF can take you on a wild ride. Here’s how to decide whether to hold on.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-lose-2-1-140102292.html)**
-
-Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.
-
-Yahoo Finance • 38m ago
-
----
-
 **[Bitcoin Is Slumping, but Michael Saylor Says Strategy Can Create $10 Billion to $30 Billion in "Digital Credit"](https://www.fool.com/investing/2026/11/14/michael-saylor-says-strategy-can-generate-10-billi/)**
 
 Michael Saylor just floated up to $30 billion in new financing for Strategy. Here's what that number does and doesn't mean.
 
-The Motley Fool • 21h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -199,7 +193,21 @@ Forbes • 1d ago
 
 **[Bitcoin Faces Final Capitulation Risk: Could $40,000 Be Next?](https://www.benzinga.com/crypto/cryptocurrency/26/11/63276093/bitcoin-faces-final-capitulation-ris-could-40000-be-next)**
 
-Benzinga • 10h ago
+Benzinga • 16h ago
+
+---
+
+**[Bitcoin hovers near $65,000 after weekend selloff to lowest since July](https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667)**
+
+Investing.com • 4h ago
+
+---
+
+**[Nic Carter says most Bitcoin treasury firms offer little beyond ETF exposure](https://cryptobriefing.com/nic-carter-bitcoin-treasury-firms-etf-critique/)**
+
+Castle Island Ventures' Nic Carter says most Bitcoin treasury firms offer little beyond spot ETF exposure as NAV discounts weigh on the sector.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -207,15 +215,15 @@ Benzinga • 10h ago
 
 Bitcoin needs a 21% rally to climb back to $80,000. Here are the low, middle, and high scenarios for where it might finish 2026.
 
-24/7 Wall St. • 16h ago
+24/7 Wall St. • 22h ago
 
 ---
 
-**[iShares Bitcoin Trust weathers $2.35B in outflows but stays positive for 2026](https://cryptobriefing.com/ishares-bitcoin-trust-2026-flows-reversal/)**
+**[ARKF: Tech Trouble Via Microsoft & The FAA - Bitcoin's Plunge Adds Pressure (BATS:ARKF)](https://seekingalpha.com/article/4968404-arkf-tech-trouble-via-microsoft-and-the-faa-bitcoins-plunge-adds-pressure)**
 
-BlackRock's iShares Bitcoin Trust swung from deep 2026 outflows back to positive year-to-date flows in a single week. Here's what it signals.
+ARKF is rated a Hold: weak technicals leave shares at risk of testing $36 support, while crypto risks and valuation balance the bull and bear cases.
 
-Crypto Briefing • 1h ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -227,7 +235,7 @@ Crypto Briefing • 1h ago
 
 Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bottom suggest the first flush rarely ends the pain. Three catalysts and two price lines will decide whether the old highs come back or the floor drops again.
 
-⬆️ 5 • 💬 0 • 16h ago • [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/)
+⬆️ 5 • 💬 0 • 22h ago • [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/)
 
 ---
 
@@ -235,7 +243,7 @@ Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bot
 
 I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of buzzwords was long and unending - proof-of-work, Merkle trees, elliptic curves, smart contracts, DeF
 
-⬆️ 2 • 💬 0 • 10h ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
+⬆️ 2 • 💬 0 • 16h ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
 
 ---
 
@@ -243,7 +251,7 @@ I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of 
 
 A deep dive into Starlight — the decentralized AI app store where wishes are steganographically inscribed on Bitcoin, AI agents compete to fulfill them, and satoshis settle the work.
 
-⬆️ 2 • 💬 0 • 3d ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/)
+⬆️ 2 • 💬 0 • 4d ago • [starlight-ai.freemyip.com](https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/)
 
 ---
 
@@ -255,25 +263,25 @@ A deep dive into Starlight — the decentralized AI app store where wishes are s
 
 **[Ask HN: What use are the non-major cryptocurrencies?](https://news.ycombinator.com/item?id=50493695)**
 
-⬆️ 4 • 💬 4 • 1d ago
+⬆️ 4 • 💬 5 • 1d ago
 
 ---
 
 **[Show HN: New In browser URL verification tool](https://news.ycombinator.com/item?id=50505178)**
 
-⬆️ 4 • 💬 2 • 5h ago
+⬆️ 4 • 💬 2 • 11h ago
 
 ---
 
 **[Why Gmx.com?](https://news.ycombinator.com/item?id=50429813)**
 
-⬆️ 2 • 💬 1 • 5d ago
+⬆️ 2 • 💬 1 • 6d ago
 
 ---
 
 **[Strategy to Be Dropped from MSCI Indexes After New Eligibility Rules](https://news.ycombinator.com/item?id=50469437)**
 
-⬆️ 1 • 💬 0 • 2d ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
+⬆️ 1 • 💬 0 • 3d ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
 
 ---
 
@@ -281,7 +289,7 @@ A deep dive into Starlight — the decentralized AI app store where wishes are s
 
 Git for Postgres data, built for agents. Branch, diff, merge and undo inside PostgreSQL. - bitsinfra/gnomon
 
-⬆️ 22 • 💬 11 • 1d ago • [GitHub](https://github.com/bitsinfra/gnomon)
+⬆️ 22 • 💬 11 • 2d ago • [GitHub](https://github.com/bitsinfra/gnomon)
 
 ---
 
@@ -289,7 +297,7 @@ Git for Postgres data, built for agents. Branch, diff, merge and undo inside Pos
 
 Worried that you're losing your edge to AI? Well, worry no more! Our puzzles test commonly automated skills, keeping you sharp with just 5 minutes a day.
 
-⬆️ 2 • 💬 0 • 15h ago • [brainsaver.app](https://brainsaver.app)
+⬆️ 2 • 💬 0 • 20h ago • [brainsaver.app](https://brainsaver.app)
 
 ---
 
@@ -297,43 +305,43 @@ Worried that you're losing your edge to AI? Well, worry no more! Our puzzles tes
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Crash: 5 Reasons Why I Kept Buying From 67K Down To 63K (ETH, HYPE, SOL, ZEC, XRP, LINK)](https://www.youtube.com/watch?v=t-nIEMEc3Go)**
+
+No B.S. Just Charts. Bitcoin crashed to about $62000 as a weekend crypto flush annihilated the altcoins, and Gareth Soloway ...
+
+📺 Gareth Soloway
+
+👁️ 15K • 👍 2K • 💬 209 • ⏱️ 17:41 • 2h ago
+
+---
+
 **[Bitcoin Just Hit $62K.  Here&#39;s What I&#39;m Doing.](https://www.youtube.com/watch?v=AZv72cW-LpY)**
 
 Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
 
 📺 Aaron Bennett
 
-👁️ 72K • 👍 2K • 💬 260 • ⏱️ 18:09 • 11h ago
+👁️ 96K • 👍 2K • 💬 294 • ⏱️ 18:09 • 17h ago
 
 ---
 
-**[BITCOIN: THIS TIME IS DIFFERENT...](https://www.youtube.com/watch?v=Xqk9Q-wNSwI)**
+**[BITCOIN: This Moment Will Shock EVERYONE (PREPARE!)](https://www.youtube.com/watch?v=KqmYwNRInGc)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-8?vipCode=00dt&qrType=activity Instant VIP6 (44% fee ...
+Opening Statement & Video Context 0:00-3:50 BTC Edging Towards Cycle Low 3:50-6:10 Nvidia Earnings HUGE For BTC ...
 
-📺 Crypto Rover
+📺 Wolves of Crypto
 
-👁️ 22K • 👍 959 • 💬 204 • ⏱️ 10:02 • 5h ago
-
----
-
-**[Bitcoin: The Capitulation Spiral](https://www.youtube.com/watch?v=hj5ySVDYASI)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 250K • 👍 8K • 💬 581 • ⏱️ 19:34 • 17h ago
+👁️ 2K • 👍 190 • 💬 36 • ⏱️ 13:40 • 2h ago
 
 ---
 
-**[My MASSIVE Warning to Crypto Holders](https://www.youtube.com/watch?v=fDRNT6oslvE)**
+**[ETFs Are Selling. Retail Is Gone. Who’s Left to Buy Bitcoin?](https://www.youtube.com/watch?v=0IAsdRykY_g)**
 
-The crypto market is facing a do or die moment. I'm analyzing the critical pressure on Bitcoin and altcoins, and what a potential ...
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
-📺 EllioTrades
+📺 Lark Davis
 
-👁️ 62K • 👍 1K • 💬 178 • ⏱️ 11:37 • 18h ago
+👁️ 26K • 👍 438 • 💬 87 • ⏱️ 11:06 • 8h ago
 
 ---
 
@@ -343,57 +351,57 @@ We are currently witnessing something quite spectacular in the cryptocurrency ma
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 437 • 💬 104 • ⏱️ 33:09 • 3h ago
+👁️ 10K • 👍 717 • 💬 234 • ⏱️ 33:09 • 9h ago
 
 ---
 
-**[EMERGENCY CRYPTO CRASH - BITCOIN DUMP](https://www.youtube.com/watch?v=cDWbBhRMCbE)**
+**[Bitcoin.. lets be honest now [crazy prediction]](https://www.youtube.com/watch?v=nHehFsT1aiY)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+Bitcoin what now.
 
-📺 Tyler S
+📺 MMCrypto
 
-👁️ 15K • 👍 561 • 💬 167 • ⏱️ 12:18 • 12h ago
-
----
-
-**[🔴 LIVE | Bitcoin &amp; Gold | Reversal Trading Setup | 6:00 PM -11:00 PM | 15 NOVEMBER 2026](https://www.youtube.com/watch?v=d7nkkYF5Y_8)**
-
-LIVE | Bitcoin & Gold | Reversal Trading Setup| 6:00 PM -11:00 PM | 15 NOVEMBER 2026 #BitcoinTrading #GoldTrading ...
-
-📺 The Reversal Trader
-
-👁️ 6K • 👍 575 • 8h ago
+👁️ 61K • 👍 2K • 💬 658 • ⏱️ 9:10 • 13h ago
 
 ---
 
-**[BITCOIN JUST CRASHED BELOW $66K | Prepare for Doomsday or New All Time Highs?!](https://www.youtube.com/watch?v=k6YRN-KZFb4)**
+**[BITCOIN: THIS TIME IS DIFFERENT...](https://www.youtube.com/watch?v=Xqk9Q-wNSwI)**
 
-Bitcoin just crashed below $66000, triggering massive liquidations as fear grips the market. But historical Bitcoin data suggests ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-8?vipCode=00dt&qrType=activity Instant VIP6 (44% fee ...
 
-📺 Simply Bitcoin
+📺 Crypto Rover
 
-👁️ 33K • 👍 1K • 💬 203 • ⏱️ 13:00 • 15h ago
-
----
-
-**[Bitcoin Is About To Crash Below $60,000 (What To Do Next)](https://www.youtube.com/watch?v=g0P9wpy8zhk)**
-
-Bitcoin is crashing again. Learn how to analyze the latest cryptocurrency charts to manage your positions during this downturn. 1.
-
-📺 Ricky Gutierrez
-
-👁️ 31K • 👍 511 • 💬 298 • ⏱️ 14:24 • 21h ago
+👁️ 37K • 👍 1K • 💬 124 • ⏱️ 10:02 • 11h ago
 
 ---
 
-**[Bitcoin $65K + Extreme Fear. Who Is Still HERE?!?](https://www.youtube.com/watch?v=PJxv8XB6Sms)**
+**[Bitcoin: The Capitulation Spiral](https://www.youtube.com/watch?v=hj5ySVDYASI)**
 
-Bitcoin just slid to $65K and the Fear & Greed index hit Extreme Fear at 13. Before you panic — this is right on track for Q4, and ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Digital Asset News
+📺 Benjamin Cowen
 
-👁️ 21K • 👍 582 • 💬 133 • ⏱️ 28:34 • 19h ago
+👁️ 282K • 👍 8K • 💬 610 • ⏱️ 19:34 • 23h ago
+
+---
+
+**[BITCOIN: THE LOW IS IN !!!? (LIQUIDATION HEATMAP ANALYSIS)](https://www.youtube.com/watch?v=IJx5Fa48rQ8)**
+
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+
+📺 Crypto Kid
+
+👁️ 11K • 👍 356 • 💬 35 • ⏱️ 8:36 • 7h ago
+
+---
+
+**[BITCOIN: WTF IS HAPPENING?!!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sSDec7C-12E)**
+
+Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): https://partner.blofin.com/d/RT1M Get ...
+
+📺 Road To $1 Million USD
+
+👁️ 11K • 👍 299 • 💬 69 • ⏱️ 5:13 • 21h ago
 
 ---
 
