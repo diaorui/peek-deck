@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Why Is Bitcoin Crashing? BTC Breaks Below $64K as Ethereum Falls Toward $1,800",
-      "source": "Coinpaper",
-      "source_url": "https://coinpaper.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1FSYWxTZjRMX0R2LW1HdXFoXzFSendaMlYtZ0JWRXhybWZ6dnp6bm1ZTWJMSjlGYTdkQ1AyRkxQOENPeTZvckI3ZElIY19uMzF6VUNlVzV1LS05NFlnR2MtRVdRNHoyMTNmRnkyRy1OeTZjTndTU0lMM25Pc3p0c01WX1I3TDFjR0ZNV2llOGJCeEQ4VFU1WmxTeVN1U0o0dlVxY1pMMA?oc=5",
-      "pub_date": 1794691723.0,
-      "article_url": "https://coinpaper.com/38863/why-is-bitcoin-crashing-btc-breaks-below-64-k-as-ethereum-falls-toward-1-800",
-      "image": "https://imagecodex.com/v1/coinpaper/media/3d7a76be-ff6d-460d-abcd-0ab65a6e7920.png",
-      "description": "Bitcoin's selloff accelerates alongside Ethereum as $1.46B in weekly ETF outflows, shrinking stablecoin liquidity and Fed rate fears pressure crypto."
-    },
-    {
       "headline": "Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -45,14 +35,14 @@
       "description": null
     },
     {
-      "headline": "Ethereum Falls 10% In Rout",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEdPZWZvYnlPOWtRWTI1em1IaXp0NW9DMDJmOGdlVTgwSGxXdGtoMEo4QUNpcklGNlJkZWFtLXd4NjNLVHN2RFp0UGY2bjBUdC1wT3J3WUNKSmlUQXk0NEthb2o1bUpicGRKMGZBODNrZjR3SHlyM19Id1VEdjVGeXRkaTk3VFVTeWtpLQ?oc=5",
-      "pub_date": 1794706232.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613",
-      "image": null,
-      "description": null
+      "headline": "Peter Schiff Warns Of \u2018A Black Monday\u2019 For BitMine And Ethereum ETFs If ETH Loses Key Support",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMnlzbUJDczlHUXpvN250TFZDbVp3dkhZUTJMWXhqNmlpdUI4elJnVnAtZFZmOWV2TjlGRXAyc01RMjItQVFCbUthRFpaZFZQWnhNclhTdmR3SkRuSlRCRk1YSlhaQXF4T2tmaFFjdm95aHRpNEEycy10YUhBbTlhRXFxSzZ0aEEyay1XOU1LVnROZndQY0VUZWR1dGhWM1NFN3hIb2dfVzc3cDYxdlR5akpfdl9nMW5McC05aExhSW9xeXlZdGZzd3lZSGMzc1d3bTFQYzJyOWZGd1ViM3RhS1BndWl6Q2c?oc=5",
+      "pub_date": 1794738365.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:1bf49b784094b:0-peter-schiff-warns-of-a-black-monday-for-bitmine-and-ethereum-etfs-if-eth-loses-key-support/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "BitMine Immersion Technologies (BMNR) and Ethereum (ETH) exchange-traded funds (ETFs) may experience a \"Black Monday\" if the token breaks a significant support level over the weekend, Peter Schiff said on Saturday.Schiff made the call in a\u00a0post on X, after an earlier warning on Ethereum. He said th\u2026"
     },
     {
       "headline": "Ethereum\u2019s ERC-8415 tests tokenization\u2019s ownership gap",
@@ -65,24 +55,14 @@
       "description": null
     },
     {
-      "headline": "Ethereum faces temporary issues due to cloud provider malfunction",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oaHVnRFlleDJUX21PRHVOcmtwWXNRWVFMTXBBdlhWYVk5Yld1YnJ0d2lBLU8waDQ4cV9zYy05Y2ZnSVZqMmxfN3RjV0J3UHE5TldWaC1hSFlUZWZxRjVWaWFsQTBqYWRhd1FNMUFzbGhoRVAxcE9kS09lRTY?oc=5",
-      "pub_date": 1794659071.0,
-      "article_url": "https://cryptobriefing.com/ethereum-cloud-provider-hardware-malfunction/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/14072423/library-ethereum-faces-temporary-issues-due-to-cloud-provider-ma-800x450.png",
-      "description": "A hardware malfunction at an unnamed cloud provider is disrupting Ethereum access while consensus keeps running. Here's what users should know."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa2VmSUtpVkxWU1lnZWh2eW1LQTNzSjk5WkZqN2VaZ01ETHotVzRWY3QyeklsbFpOLXRmTjdhVTVqNU5PYXduYmw1cldtMGZvSFdYWkZDc0Z0RU5SazA0dVh1YmJyaFBXSV9fRVYzbHB5MThNb0NCQ0VfYm9BT1FHXzBCOHFTR3ZXNWROV0RTX00wNzhfVDVSQ1JXRkZ6QjZ0aE12a0xzM3doTHZGanhkbV9ISmQ1TE5wZ0pJQm1iMVY0QkY3bjJXTGZ3Sk5DME1v?oc=5",
-      "pub_date": 1794607208.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move \u2018Pure Manipulation\u2019Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever\u2026"
+      "headline": "Ethereum Falls 10% In Rout",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEdPZWZvYnlPOWtRWTI1em1IaXp0NW9DMDJmOGdlVTgwSGxXdGtoMEo4QUNpcklGNlJkZWFtLXd4NjNLVHN2RFp0UGY2bjBUdC1wT3J3WUNKSmlUQXk0NEthb2o1bUpicGRKMGZBODNrZjR3SHlyM19Id1VEdjVGeXRkaTk3VFVTeWtpLQ?oc=5",
+      "pub_date": 1794706232.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Sharplink Gaming\u2019s Earnings Call Signals Ethereum Strategy Momentum",
@@ -93,6 +73,26 @@
       "article_url": "https://www.tipranks.com/news/company-announcements/sharplink-gamings-earnings-call-signals-ethereum-strategy-momentum",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Ethereum Foundation sells 2,000 ETH as price hovers near $2,000",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82MWYtbXVndHVYdXFZekpnVVFCMU1fN2hiSnVMVmRIZG5EME5qaDgwTUk4MUNwZXF3czhKMzhia3BJNVU5YXNlNGFpcTVXS1FLZUdROE1KRHRFeEpLTVVsZndiQ0VDbmxJZmdzcTBGTQ?oc=5",
+      "pub_date": 1794553803.0,
+      "article_url": "https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13020953/library-ethereum-foundation-sells-2-000-eth-as-price-hovers-near-800x450.png",
+      "description": "An Ethereum Foundation-linked wallet sold 2,000 ETH over two days via CoW Protocol, swapping into USDS as ETH hovered near the $2,000 level."
+    },
+    {
+      "headline": "Is Ethereum the \"worst asset of all time,\" amid estimated $8.83 billion BitMine loss ?",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWVZhV0I4b1MxQWpFbG9nZ2FEYW50a1dwMDhtT3Q1Z0QxU0lzZFlpMTA1ZGN2cE9vTWdLeC1vUnNURndvdkl4V1FMLVNxZW9sdE0xRERzbWY5bkFRU0VhLUo5d3hjSGZGNEhaRk9XNmRfdDZuNV9BbnVTc3ROYndxcVhLeE5ITjV0U1hsNDlVbk95dm1iMVh2U2NwMXpONDhja2xtc1NTUk8?oc=5",
+      "pub_date": 1794743750.0,
+      "article_url": "https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-bitmine-mixed-dates_1024.png",
+      "description": "BitMine\u2019s loss estimate combines November Ethereum holdings with an August average cost. See what the dashboard and company filings actually show."
     },
     {
       "headline": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-15T06:58:16.959328+00:00"
+  "fetched_at": "2026-11-15T14:39:11.374355+00:00"
 }

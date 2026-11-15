@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin market outlook: extreme fear, oversold signals, and key support levels",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHRIaTlyRWhMby1rZVVlSi1LMm4wbjRhNWhTaTY5YUlzQWRLWGVUTzZfdDhKakxnTmkxMjdCbzU1c1FadVUtZGE2S2tZbHFIWi1hcHhObkFKNUhnWFZKcExKUHJFcU9RY0xMdWh0WkIwY3dHaUYzdXlZcTI2d1lnQVhtdFBnYjJUYXFiLVJkY0xuS2xVYlpJc0hBcFRHREJ2Mnc?oc=5",
-      "pub_date": 1794603404.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-market-outlook-extreme-fear-205644886.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/972a728f36ceda1891bbf084e392f62dd1d03eebb4d3a396d5d7ff70a9348e19/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fwarren-echarts.investing.com%2Frender%3Fspec%3DeyJpbnRlcnZhbCI6IlAxRCIsImZyb20iOiIyMDI2LTA4LTE1VDAwOjAwOjAwWiIsInRvIjoiMjAyNi0xMS0xM1QyMDoyNToxNC41NjA0NjdaIiwidm9sdW1lTW9kZSI6Im1lcmdlZCIsImZ1dHVyZUJhcnMiOjIwLCJwcmljZVJhbmdlIjp7Im1pbiI6NjE3MzguMTIsIm1heCI6ODgzNTYuODh9LCJpbmRpY2F0b3JzIjpbeyJkZWZJZCI6InNtYSIsInBhcmFtcyI6eyJwZXJpb2QiOjIwMH19LHsiZGVmSWQiOiJzbWEiLCJwYXJhbXMiOnsicGVyaW9kIjo1MH19LHsiZGVmSWQiOiJyc2kiLCJwYXJhbXMiOnsicGVyaW9kIjoxNH19XSwiZHJhd2luZ3MiOlt7InR5cGUiOiJob3Jpem9udGFsTGluZSIsInByaWNlIjo2NzkyNS4wLCJjb2xvciI6IiMxNkEzNEEiLCJsaW5lU3R5bGUiOiJzb2xpZCIsIm5vdGUiOiIyMDAtd2VlayBTTUEgNjcsOTI1In0seyJ0eXBlIjoiaG9yaXpvbnRhbExpbmUiLCJwcmljZSI6NjQ1MDAuMCwiY29sb3IiOiIjMTZBMzRBIiwibGluZVN0eWxlIjoiZGFzaGVkIiwibm90ZSI6IkRvd25zaWRlIHRhcmdldCA2M1x1MjAxMzY2SyJ9LHsidHlwZSI6Imhvcml6b250YWxMaW5lIiwicHJpY2UiOjczMTA5LjAsImNvbG9yIjoiI0RDMjYyNiIsImxpbmVTdHlsZSI6InNvbGlkIiwibm90ZSI6IkRhaWx5IDIwMCBTTUEgNzMsMTA5In0seyJ0eXBlIjoiaG9yaXpvbnRhbExpbmUiLCJwcmljZSI6NzY1MDAuMCwiY29sb3IiOiIjREMyNjI2IiwibGluZVN0eWxlIjoiZGFzaGVkIiwibm90ZSI6IlJlc2lzdGFuY2UgNzUuNlx1MjAxMzc3LjVLIn1dLCJpbnN0cnVtZW50SWQiOjk0NTYyOSwidGhlbWUiOiJkYXJrIn0",
-      "description": "Investing.com -- Bitcoin (BTC/USD) sits at the intersection of extreme fear and heavy technical damage. Spot demand has weakened, but the market is statistically stretched to the downside."
+      "headline": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUm5KWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5",
+      "pub_date": 1794715260.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-14/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
@@ -25,14 +25,34 @@
       "description": null
     },
     {
-      "headline": "Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify",
+      "headline": "Bitcoin\u2019s four-year cycle is about to turn bullish \u2014 if history repeats: Chart of the Day",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0FuOUlkc2NuWWd3MlpuX0tTM3IzYW45QS1UV1J1dUl6T3d2cTBIM3UtRHVLNWVCcDdsMXRFYWl5VV9lZF9mVGpzZzU0S2t2OGxmRUJMZExaZlhMQUY3SFpmdFhRMkg1eTNyV3J0S1NYdGtpQ3JTakpZV3FtWU5kMlh4TXJDRksySXVRUG9laTlGTmVQQnpJdw?oc=5",
-      "pub_date": 1794723000.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-toward-60-000-061035049.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
-      "description": "Investing.com -- Bitcoin fell to a four-month low over the weekend, approaching a major liquidation zone near $60,000 as institutional outflows, leveraged selling and expectations of higher U.S. interest rates pressured cryptocurrency markets."
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZnJscnVUWk1EM255N01qYlh4M2xtWkFTV0VXdDRZcU9RbWFlOWZ0ekN6MlZESUxjRlUyRUxVQ09UWWVrcTRkZDM2Ykg3d0lueTNXQ0tBOFVEekxpazZ2OVlqVGdyb2xxYnAzSGs2OFF5WXN4Qk0wdDMxNDBnejd6ZmZjOFAyNHZkY0NmS25KcWMzcXlOYTRPRFcwSGw5aTc1NmFwdVQtMDI2ZFcxdFdTZlN6aVcxb2c4azZMQkNhWklNbXZQY2xYNFI2SlowVi0tVUJVNnFNRWdONDhfSjl4UGRFa0M?oc=5",
+      "pub_date": 1794752264.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/article/bitcoins-four-year-cycle-is-about-to-turn-bullish--if-history-repeats-chart-of-the-day-141744431.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cf8d750d0fee5fc785602e4abdb7239f91b504498527ceafc5c90e3656752baa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F8a01537c-507b-4664-a67e-1d05d6431309",
+      "description": "Bitcoin\u2019s slide has hit the window where past bear markets bottomed."
+    },
+    {
+      "headline": "Bitcoin ETF Flows Can Whipsaw: How to Know If You Should Ride It Out",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWF9kc2lPZXBrZ19UQmlpMk5aWGU3RS1nenI2V3ZCWU5lZ3JNZklKT3JyVFBpY2ZoNEVfQW9mckRZSFhOcTVNOFNGYXZhZFhmOTdBblgtRnQtWGItU2VXaW5xREltd0VUSU9tZkxsOHU4U1M4MmJlc3RmSXhWS25YTzU5eEtBZDFIdUQ0TjhZN0dRb3NiemdCeFNWTQ?oc=5",
+      "pub_date": 1794749702.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-flows-whipsaw-know-133502665.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/76f7fd2eec58120517f8823e36560dd84e557f5ac9e7cfeaaa62818aeb341f0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F64cc6a1d126ec4b90e7489e400970896.jpg",
+      "description": "Like the assets it holds, an ETF can take you on a wild ride. Here\u2019s how to decide whether to hold on."
+    },
+    {
+      "headline": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0lob0RkMHZrTFVUdEkwb1RHcUFHeGRTX1NoWC1OWGpwbC1FbVdWOFZ5TXduZURLZ3QzSlhMekxkdm50Z2xQUzdwbVJHdkJWRFRJRE0wTkhxcy1WSXd5OTVfdUFuRFNfMVVoMm1VSkl2MVBmaDhRTVNqWlphREh0NDcyQjdEckQzX1Bmb1dqOA?oc=5",
+      "pub_date": 1794751262.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-lose-2-1-140102292.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b1e56c3d9d7a2fe4ace3fb7f252d7127b7a51bb603c31578950d8a82d45b7fe1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fbd62cb690faede61f94b1ae366157e35.jpg",
+      "description": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000."
     },
     {
       "headline": "Bitcoin Is Slumping, but Michael Saylor Says Strategy Can Create $10 Billion to $30 Billion in \"Digital Credit\"",
@@ -45,16 +65,6 @@
       "description": "Michael Saylor just floated up to $30 billion in new financing for Strategy. Here's what that number does and doesn't mean."
     },
     {
-      "headline": "Meet \u2018Captain Keel,\u2019 the 37-year-old steering a Bitcoin miner into the AI data center gold rush",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWN4LUNvR3dwMFktYVFpRmZuM3MyLWhCakVVQUJjbkIwTzI3Qk1qa2Njd2lPYU1pYVdHVGRSbmdnZjBMZkZVbkt5ZHAxLXBYdVZmcXVMakxtTnRjRFFPRmgyUDNzWS1oQnI2dFN2cm9FaF9IczdjZ1dMTlhJbF9DRkt4RlpFVGkxVk1xUGYtRFk?oc=5",
-      "pub_date": 1794650400.0,
-      "article_url": "https://fortune.com/2026/11/14/ben-gagnon-keel-infrastructure-ai-data-center-gold-rush/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/7D0A7613-horizontal-crop.jpg?resize=1200,600",
-      "description": "Ben Gagnon is turning Bitfarms into Keel Infrastructure, swapping crypto for the one thing AI giants can\u2019t get enough of: power."
-    },
-    {
       "headline": "\u2018Don't Wait\u2019\u2014Bitcoin Suddenly In Free Fall As Price \u2018Collapse\u2019 Fears Trigger Surprise $2 Trillion Crypto Crash",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -65,24 +75,14 @@
       "description": null
     },
     {
-      "headline": "Ray Dalio Says Mistakes Teach Life\u2019s \u2018Best Lessons\u2019: Bitcoin Advocate Explains Why \u2018Struggling Well\u2019 Keep",
+      "headline": "Bitcoin Faces Final Capitulation Risk: Could $40,000 Be Next?",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMW9qajNaVmdRSWJRZnBzYkVTb1FjYnBnX1BGQV9GWlRkV0FrRkUzaFJQbkwzR0NWQndhRVZhdktvSVhubzNlYlVZZ0hmNzJGcnpwel9CZkFvcEExUkhMLTZ4WDdERFk3bmYtR2Vxdm9vT1NUSmZWZHJUckZHUDhiMXNwWU9pcnFhSGR4X2JoLTlUX18zS1ZFT2w4YmtycWpOUlVZbzRJU2xLV3lxcGE0bjVDQml2bVhTcjBPbllYSk5qMXVPdFF0MzAwZGJtaWJUN1pKeXFmZjM3dw?oc=5",
-      "pub_date": 1794679206.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63274039/ray-dalio-once-said-lifes-best-lessons-come-from-mistakes-and-reflecting-on-them",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWldYVUVlb0hwUVRSUzk5SHZjc1R4V05sdk16Rjk4Z0JINnJUdlhOSmNleGpUU1BKWlc3VlZyUDdrek1BY3MxUGV1SDc4SW5oZnpBcW5lZWhWXzNqYS1LWWdIaE9Ray1NMVhiVDFjd1F5N3RPaHFheDFyTF9JWVJPR2JEa1NtaXFlREJNS1lqajRXOGc2QURMM0gzcjJsZW1PWTBHWHVneUF0OWpzWWpzNHdiSWNHLWh1ZEE?oc=5",
+      "pub_date": 1794715257.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63276093/bitcoin-faces-final-capitulation-ris-could-40000-be-next",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Whale's Insight: Bitcoin, Nvidia, And Strategy, What\u2019s Changing In Crypto? (BTC-USD)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQnJsWVQxMkFqOGdHNG5VVy02Y2VKbnIyZEVzanBnX2VEeDVUSjN0SkdVODJ3MWp2d0Z2eXVRQ1B0RXU2b3BHcW81NHBWbEdZZWFRVVNhVTctZlRGLXgzc2ZuU2p2RTRYcmZuazFKYVZIY2VzLUNJcTI3NHRiY25uQ281WktmZGU2cl9SOHhja1AweGNmUVhKS3hyNHo5V1NoSTV3OThndlc?oc=5",
-      "pub_date": 1794642300.0,
-      "article_url": "https://seekingalpha.com/article/4968161-whale-insight-bitcoin-nvidia-strategy-what-is-changing-in-crypto",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194779803/image_2194779803.jpg?io=getty-c-og",
-      "description": "NVDA has fallen nearly 33% in a month, while hotter CPI pushed December Fed hike expectations higher."
     },
     {
       "headline": "Bitcoin Price Prediction: Where Could Bitcoin Be by Year-End?",
@@ -95,16 +95,16 @@
       "description": "Bitcoin needs a 21% rally to climb back to $80,000. Here are the low, middle, and high scenarios for where it might finish 2026."
     },
     {
-      "headline": "Bitcoin ETFs Shed $2.35 Billion in Two Weeks as BlackRock\u2019s Outflow Streak Hits 11",
-      "source": "Brave New Coin",
-      "source_url": "https://bravenewcoin.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1p1NEVPbE1mYVY4Z3VfVlRibi1WYlVJR3RrU0VwejVRSTJPbFZ2RThkQzhjUm1RQlBUZDl0dnhQLXVpbXlkZnBfNVV6RFpueUpJbHJ1NUlTRVlKbFhneE1zM0ZVMEJYck5sWTJjMGVLUGl0QV9iUnlwajNhSFJ2OUpvRHNaNmY5UVd0dmpHamlWTVN4?oc=5",
-      "pub_date": 1794704427.0,
-      "article_url": "https://bravenewcoin.com/insights/bitcoin-etf-outflows-2-35-billion-blackrock-ibit-11-days",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/bitcoin-etfs-nov15-featured.jpg",
-      "description": "Bitcoin ETF outflows total $2.347B across two November weeks. BlackRock\u2019s IBIT has 11 straight outflow sessions. We examine the data and its limits."
+      "headline": "iShares Bitcoin Trust weathers $2.35B in outflows but stays positive for 2026",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51UmRCU1JZeVFKaEpmLUZ1NGx6aW9HZUJTdHVKaXp2QklXTlQ1WG9fb25laVdBSWNORWRMM1g4a0NiZ2lEQWhmeVl4SjBiZ2FZUUNnTFE0aVNIRVdEcmRTRFBpZWtLYUU0cWg0ZUc0Tkp3RHEzTkUzcQ?oc=5",
+      "pub_date": 1794748889.0,
+      "article_url": "https://cryptobriefing.com/ishares-bitcoin-trust-2026-flows-reversal/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/15082119/library-ishares-bitcoin-trust-weathers-2-35b-in-outflows-but-sta-800x450.png",
+      "description": "BlackRock's iShares Bitcoin Trust swung from deep 2026 outflows back to positive year-to-date flows in a single week. Here's what it signals."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-15T06:58:13.315117+00:00"
+  "fetched_at": "2026-11-15T14:39:19.306975+00:00"
 }

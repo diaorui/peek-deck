@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-15T06:58:25.768712+00:00'
+updated: '2026-11-15T14:39:23.230764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 15, 2026 at 06:58 UTC  
+**Last Updated:** November 15, 2026 at 14:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Looking to connect with people interested in Robot Learning](https://www.reddit.com/r/robotics/comments/1xwqvqt/looking_to_connect_with_people_interested_in/)**
+
+Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
+
+5h ago
+
+---
+
 **[Day 382 of building Asimov 1, an open-source humanoid robot. Testing the new walking gait outdoors](https://www.reddit.com/r/robotics/comments/1xwl3oi/day_382_of_building_asimov_1_an_opensource/)**
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-3h ago
+11h ago
+
+---
+
+**[Low Cost Humanoid Hand Live Teleop - Amazing Hand](https://www.reddit.com/r/robotics/comments/1xwwmv9/low_cost_humanoid_hand_live_teleop_amazing_hand/)**
+
+I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
+
+20m ago
 
 ---
 
@@ -44,13 +60,27 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-13h ago
+21h ago
+
+---
+
+**[What parts do I use?](https://www.reddit.com/r/robotics/comments/1xwqnlo/what_parts_do_i_use/)**
+
+Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
+
+5h ago
 
 ---
 
 **[Im creating a robot thingy!](https://www.reddit.com/r/robotics/comments/1xwktwb/im_creating_a_robot_thingy/)**
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
+
+11h ago
+
+---
+
+**[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
 3h ago
 
@@ -64,21 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-15h ago
-
----
-
-**[My son’s school got him interested in robotics with Vex](https://www.reddit.com/r/robotics/comments/1xvqvvx/my_sons_school_got_him_interested_in_robotics/)**
-
-He looked up some of the kits so that he can start building more on his own at home. They are $2000+. He is a young high schooler. Any alternatives to Vex that we can use to indulge his curiosity?
-
-1d ago
-
----
-
-**[News: Google Intrinsic Community Platform for Physical AI / Edge / Robotics](https://www.reddit.com/r/robotics/comments/1xw40re/news_google_intrinsic_community_platform_for/)**
-
-16h ago
+22h ago
 
 ---
 
@@ -86,23 +102,7 @@ He looked up some of the kits so that he can start building more on his own at h
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-23h ago
-
----
-
-**[ROS and Open Source Robotics News for the Week of November 9th, 2026](https://www.reddit.com/r/robotics/comments/1xvhiqd/ros_and_open_source_robotics_news_for_the_week_of/)**
-
-Get all of your ROS and Open Source Robotics News on Open Robotics Discourse
-
 1d ago
-
----
-
-**[Day 382 of building Asimov, an open-source humanoid robot. Prepping it for humans and AI agents to see the world through its eyes](https://www.reddit.com/r/robotics/comments/1xuybbi/day_382_of_building_asimov_an_opensource_humanoid/)**
-
-This is a quick test of head teleoperation on Asimov 1. The operator’s head movements drive the robot’s neck (2 DoF), and the camera feed streams back, so you see what the robot sees. We're setting this up so both people and AI agents can use the robot’s view, whether that's for teleop, data collection or an agent deciding where to look.
-
-2d ago
 
 ---
 
@@ -118,33 +118,41 @@ Fortune • 1d ago
 
 ---
 
+**[Robots recognize the shape of an arena by messaging each other](https://techxplore.com/news/2026-11-robots-arena-messaging.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 **[A SoMa startup is building humanoid robots for war](https://sfstandard.com/2026/11/14/humanoid-war-robots-soma-startup/)**
 
 While rivals chase factory and household work, Foundation is courting the Pentagon.
 
-The San Francisco Standard • 16h ago
+The San Francisco Standard • 1d ago
 
 ---
 
-**[Inside Tesla’s 2027 plan to put its humanoid robot Optimus to work](https://interestingengineering.com/ai-robotics/what-could-teslas-optimus-humanoid-robot-actually-do-in-2027)**
+**[Hawaii students put robotics skills to the test in Oahu competition](https://www.hawaiinewsnow.com/2026/11/15/hawaii-students-put-robotics-skills-test-oahu-competition/)**
 
-What will Tesla’s Optimus be able to do? Watch what the humanoid robot has demonstrated. Will it be able to do laundry next?
+Hawaii FIRST Robotics brought students in grades 7-12 together to design, build and program robots for a series of challenges.
 
-Interesting Engineering • 17h ago
-
----
-
-**[Robots recognize the shape of an arena by messaging each other](https://techxplore.com/news/2026-11-robots-arena-messaging.html)**
-
-Tech Xplore • 17h ago
+Hawaii News Now • 10h ago
 
 ---
 
-**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
+**[Google's Antigravity agents formalise major mathematical proofs](https://interestingengineering.com/ai-robotics/google-antigravity-multi-agent-research)**
 
-An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
+Google's Antigravity agents formalise major mathematical proofs and speed up software engineering.
 
-WIRED • 3d ago
+Interesting Engineering • 1d ago
+
+---
+
+**[2 AI Robotics Stocks That Could Help Set You Up for Life](https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/)**
+
+While AI models and chips take center stage, the AI robotics boom is silently building.
+
+The Motley Fool • 3d ago
 
 ---
 
@@ -152,7 +160,7 @@ WIRED • 3d ago
 
 OpenAI has disbanded its standalone robotics team for the second time in six years, folding the group into its broader research and applied organisations. While the move echoes the company's decision to wind down its original robotics division in 2020, OpenAI insists the latest reorganisation is not a retreat from robotics but rather a sign of its commitment to bringing general-purpose robots into the world, according to a Fortune report.
 
-The Times of India • 3h ago
+The Times of India • 11h ago
 
 ---
 
@@ -160,7 +168,7 @@ The Times of India • 3h ago
 
 Serve Robotics is breaking away from delivery app lock-in.
 
-The Verge • 3d ago
+The Verge • 4d ago
 
 ---
 
@@ -172,19 +180,11 @@ Google DeepMind • 4d ago
 
 ---
 
-**[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
+**[I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)**
 
-What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
+An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.
 
-Anthropic • 1mo ago
-
----
-
-**[Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)**
-
-Feather is betting on a customizable, $30,000 platform built for software developers.
-
-TechCrunch • 1mo ago
+WIRED • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 229K • 👍 3K • 💬 143 • ⏱️ 8:25 • 5d ago
+👁️ 232K • 👍 3K • 💬 143 • ⏱️ 8:25 • 5d ago
 
 ---
 
@@ -208,57 +208,7 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The AI Nexus
 
-👁️ 42K • 👍 472 • 💬 63 • ⏱️ 15:41 • 5d ago
-
----
-
-**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
-
-What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
-
-📺 Dorian Todd
-
-👁️ 65K • 👍 1K • 💬 63 • ⏱️ 14:42 • 6d ago
-
----
-
-**[The First Robot That Can Actually Do a Human Job Is Almost Here…](https://www.youtube.com/watch?v=z3ZqF2NThuM)**
-
-The first humanoid robot capable of doing real human jobs is closer than ever. AI robots are entering warehouses, factories, and ...
-
-📺 The AI Nexus
-
-👁️ 11K • 👍 123 • 💬 21 • ⏱️ 18:30 • 6d ago
-
----
-
-**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
-
-Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
-
-📺 Imagination in Action
-
-👁️ 15K • 👍 127 • 💬 24 • ⏱️ 37:09 • 4d ago
-
----
-
-**[This $3,000 Robot Just Hit 10,000 Built! 🤖🎒](https://www.youtube.com/watch?v=dw_WVpqeb2o)**
-
-Chinese robotics maker PrimeBOT just produced its 10000th personal robot, doubling cumulative factory output in just 14 days!
-
-📺 CodeToCarbon
-
-👁️ 918 • 👍 24 • 💬 3 • ⏱️ 0:32 • 2h ago
-
----
-
-**[I Built An Automated High Speed Camera Robot](https://www.youtube.com/watch?v=enNRvZ5BhjM)**
-
-This work was supported by the Alfred P. Sloan Foundation, enhancing public understanding of science and technology in the ...
-
-📺 Jeremy Fielding
-
-👁️ 131K • 👍 3K • 💬 311 • ⏱️ 53:28 • 2d ago
+👁️ 42K • 👍 476 • 💬 64 • ⏱️ 15:41 • 5d ago
 
 ---
 
@@ -268,27 +218,77 @@ A humanoid goes head-to-head with human runners in an ultra-marathon with sub-fr
 
 📺 NBC News
 
-👁️ 33K • 👍 96 • 💬 38 • ⏱️ 1:56 • 4d ago
+👁️ 33K • 👍 97 • 💬 38 • ⏱️ 1:56 • 4d ago
 
 ---
 
-**[Ultimate Transforming Guide! Unboxing Robot Toy: OPTIMUS PRIME, BUMBLEBEE, ELITA-1, MIRAGE, MEGATRON](https://www.youtube.com/watch?v=AhTyYS8wDEk)**
+**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
 
-Welcome to the Ultimate Transforming Guide! In today's video, we are unboxing an epic collection of Transformers robot toys ...
+Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
 
-📺 Bob ToysReview
+📺 Imagination in Action
 
-👁️ 15K • 👍 35 • ⏱️ 34:11 • 22h ago
+👁️ 15K • 👍 129 • 💬 24 • ⏱️ 37:09 • 4d ago
 
 ---
 
-**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
+**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
 
-Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
+What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
 
-📺 Nexio Core
+📺 Dorian Todd
 
-👁️ 58K • 💬 17 • ⏱️ 0:06 • 5d ago
+👁️ 66K • 👍 1K • 💬 64 • ⏱️ 14:42 • 6d ago
+
+---
+
+**[The First Robot That Can Actually Do a Human Job Is Almost Here…](https://www.youtube.com/watch?v=z3ZqF2NThuM)**
+
+The first humanoid robot capable of doing real human jobs is closer than ever. AI robots are entering warehouses, factories, and ...
+
+📺 The AI Nexus
+
+👁️ 11K • 👍 124 • 💬 21 • ⏱️ 18:30 • 6d ago
+
+---
+
+**[Emo Robot from AliExpress: SCAM or REAL?](https://www.youtube.com/watch?v=s4VJZYpoO6I)**
+
+I bought a fake EMO robot from AliExpress for just $61.78! But is this cheap AI robot actually worth buying, or did I just get ...
+
+📺 Eric’s Tech World
+
+👁️ 5K • 👍 100 • 💬 25 • ⏱️ 17:02 • 23h ago
+
+---
+
+**[Rifle-equipped ROBOT DOGS deployed to reclaim gang-controlled stadium](https://www.youtube.com/watch?v=ard7h54M-qU)**
+
+Salvadoran President Nayib Bukele releases footage showing troops deploying rifle-equipped robotic dogs during an operation to ...
+
+📺 Fox News
+
+👁️ 18K • 👍 664 • 💬 149 • ⏱️ 0:20 • 1h ago
+
+---
+
+**[The Most Insane Construction Machine](https://www.youtube.com/watch?v=gwOQW7OGlmo)**
+
+Hadrian X: The $5 Million Bricklaying Robot Meet the Hadrian X, a massive automated bricklaying machine designed to change ...
+
+📺 Dark Narr
+
+👁️ 5K • 👍 177 • 💬 20 • ⏱️ 0:59 • 4h ago
+
+---
+
+**[Built by Chinese college students. How far can these robots go?](https://www.youtube.com/watch?v=U10sAh-4ZZk)**
+
+Zak Dychtwald, author of Young China, goes behind the scenes at the RoboMaster competition in Shenzhen, where he meets ...
+
+📺 CGTN
+
+👁️ 46K • 👍 71 • 💬 3 • ⏱️ 2:01 • 1d ago
 
 ---
 
