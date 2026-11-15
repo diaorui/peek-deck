@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-15T00:08:29.177969+00:00'
+updated: '2026-11-15T06:58:25.762964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 15, 2026 at 00:08 UTC  
+**Last Updated:** November 15, 2026 at 06:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,115.38
+### $64,404.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -6.4%  
-**7d:** -15.2%  
-**30d:** -21.6%  
-**90d:** -1.3%  
-**1y:** -32.2%  
+**24h:** -4.0%  
+**7d:** -14.5%  
+**30d:** -20.9%  
+**90d:** -0.4%  
+**1y:** -31.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1288.48B
+**Market Cap:** $1294.31B
 Rank #1
 
-**Circulating Supply:** 20,112,015 BTC
+**Circulating Supply:** 20,112,140 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-49.0%
 
 **All-Time Low:** $67.81
-+94368.4%
++94816.7%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Come to the darkside](https://www.reddit.com/r/Bitcoin/comments/1xw8la9/come_to_the_darkside/)**
 
-6h ago
+13h ago
 
 ---
 
 **[The main reason Bitcoin is tanking rn](https://www.reddit.com/r/Bitcoin/comments/1xw5mk0/the_main_reason_bitcoin_is_tanking_rn/)**
 
-8h ago
+15h ago
 
 ---
 
 **[Hi 🌚](https://www.reddit.com/r/Bitcoin/comments/1xw242j/hi/)**
 
-10h ago
+17h ago
 
 ---
 
@@ -99,25 +99,25 @@ Rank #1
 
 Same story at the beginning of every bull run: BTC corrects by 30% before taking off to new all-time highs. And every single time, people freak out and act like it's the end of Bitcoin. But let me tell you something: Bitcoin has no ceiling because fiat has no bottom.
 
-10h ago
+17h ago
 
 ---
 
 **[Everyone chill](https://www.reddit.com/r/Bitcoin/comments/1xw3va7/everyone_chill/)**
 
-9h ago
+16h ago
 
 ---
 
 **[All of us now](https://www.reddit.com/r/Bitcoin/comments/1xwetl8/all_of_us_now/)**
 
-1h ago
+8h ago
 
 ---
 
 **[Sorry to do this but](https://www.reddit.com/r/Bitcoin/comments/1xwfb4u/sorry_to_do_this_but/)**
 
-1h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Same story at the beginning of every bull run: BTC corrects by 30% before taking
 
 Got in the BTC game until now, hasn’t been at 63ish for a while now, what do you say? Risky move or wise and get into the waiting game?
 
-1h ago
+7h ago
 
 ---
 
@@ -133,13 +133,13 @@ Got in the BTC game until now, hasn’t been at 63ish for a while now, what do y
 
 BITCOIN ATH RECOVERY TIME Cycle Time to surpass previous ATH 2011–2013 20 months 2013–2017 37 months 2017–2020 36 months 2021–2024 28 months 2024–2025 19 months HISTORICAL AVERAGE: 28 months CURRENT CYCLE (2025–2026) Previous ATH: October 2025 Current date: November 2026 Time elapsed: 13 MONTHS Time remaining to historical average: 15 MONTHS Estimated reference: February 2028
 
-8h ago
+15h ago
 
 ---
 
 **[Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill](https://www.reddit.com/r/Bitcoin/comments/1xwb8vo/britain_could_turn_wasted_scottish_wind_power/)**
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill) • 4h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill) • 11h ago
 
 ---
 
@@ -147,41 +147,53 @@ BITCOIN ATH RECOVERY TIME Cycle Time to surpass previous ATH 2011–2013 20 mont
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'](https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst)**
+**[Bitcoin market outlook: extreme fear, oversold signals, and key support levels](https://finance.yahoo.com/markets/crypto/articles/bitcoin-market-outlook-extreme-fear-205644886.html)**
 
-CoinDesk • 1h ago
+Investing.com -- Bitcoin (BTC/USD) sits at the intersection of extreme fear and heavy technical damage. Spot demand has weakened, but the market is statistically stretched to the downside.
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Trump Media group stares down $1bn debt crunch as bitcoin bet fades](https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1)**
 
-Financial Times • 11h ago
+Financial Times • 17h ago
 
 ---
 
-**[Most Investors Are Wrong About Who Owns the Most Bitcoin. That Misunderstanding Is a Buying Opportunity.](https://www.fool.com/investing/2026/11/14/most-investors-are-wrong-about-who-owns-the-most-b/)**
+**[Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify](https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-toward-60-000-061035049.html)**
 
-The largest Bitcoin holder is likely a surprise to most investors.
+Investing.com -- Bitcoin fell to a four-month low over the weekend, approaching a major liquidation zone near $60,000 as institutional outflows, leveraged selling and expectations of higher U.S. interest rates pressured cryptocurrency markets.
+
+Yahoo Finance • 48m ago
+
+---
+
+**[Bitcoin Is Slumping, but Michael Saylor Says Strategy Can Create $10 Billion to $30 Billion in "Digital Credit"](https://www.fool.com/investing/2026/11/14/michael-saylor-says-strategy-can-generate-10-billi/)**
+
+Michael Saylor just floated up to $30 billion in new financing for Strategy. Here's what that number does and doesn't mean.
 
 The Motley Fool • 13h ago
 
 ---
 
+**[Meet ‘Captain Keel,’ the 37-year-old steering a Bitcoin miner into the AI data center gold rush](https://fortune.com/2026/11/14/ben-gagnon-keel-infrastructure-ai-data-center-gold-rush/)**
+
+Ben Gagnon is turning Bitfarms into Keel Infrastructure, swapping crypto for the one thing AI giants can’t get enough of: power.
+
+Fortune • 20h ago
+
+---
+
 **[‘Don't Wait’—Bitcoin Suddenly In Free Fall As Price ‘Collapse’ Fears Trigger Surprise $2 Trillion Crypto Crash](https://www.forbes.com/sites/digital-assets/2026/11/14/bitcoin-collapse-fears-suddenly-surge-after-2-trillion-crypto-crash/)**
 
-Forbes • 11h ago
+Forbes • 18h ago
 
 ---
 
-**[Bitcoin is now below $68,000 and could fall even further if investors cash out to buy into the Anthropic IPO](https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a)**
+**[Ray Dalio Says Mistakes Teach Life’s ‘Best Lessons’: Bitcoin Advocate Explains Why ‘Struggling Well’ Keep](https://www.benzinga.com/crypto/cryptocurrency/26/11/63274039/ray-dalio-once-said-lifes-best-lessons-come-from-mistakes-and-reflecting-on-them)**
 
-MarketWatch • 1d ago
-
----
-
-**[Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day](https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106)**
-
-Investing.com • 9h ago
+Benzinga • 12h ago
 
 ---
 
@@ -189,7 +201,7 @@ Investing.com • 9h ago
 
 NVDA has fallen nearly 33% in a month, while hotter CPI pushed December Fed hike expectations higher.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -197,21 +209,15 @@ Seeking Alpha • 16h ago
 
 Bitcoin needs a 21% rally to climb back to $80,000. Here are the low, middle, and high scenarios for where it might finish 2026.
 
-24/7 Wall St. • 2h ago
+24/7 Wall St. • 8h ago
 
 ---
 
-**[AI Agents Pay With Bitcoin: Lightning Labs Launches pi402](https://bravenewcoin.com/insights/ai-agents-bitcoin-lightning-labs-pi402-inference)**
+**[Bitcoin ETFs Shed $2.35 Billion in Two Weeks as BlackRock’s Outflow Streak Hits 11](https://bravenewcoin.com/insights/bitcoin-etf-outflows-2-35-billion-blackrock-ibit-11-days)**
 
-AI agents can pay for inference with Bitcoin through Lightning Labs’ pi402. We explain the launch, spending controls and the adoption test ahead.
+Bitcoin ETF outflows total $2.347B across two November weeks. BlackRock’s IBIT has 11 straight outflow sessions. We examine the data and its limits.
 
-Brave New Coin • 8h ago
-
----
-
-**[Crypto Market Crashes as Bitcoin and Altcoins Slide, Fear and Greed Index Sinks to 17 and Liquidations Surge](https://www.benzinga.com/crypto/26/11/63273824/crypto-market-crashes-as-bitcoin-and-altcoins-slide-fear-and-greed-index-sinks-to-17-and-liquidations-surge)**
-
-Benzinga • 9h ago
+Brave New Coin • 5h ago
 
 ---
 
@@ -223,7 +229,15 @@ Benzinga • 9h ago
 
 Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bottom suggest the first flush rarely ends the pain. Three catalysts and two price lines will decide whether the old highs come back or the floor drops again.
 
-⬆️ 3 • 💬 0 • 2h ago • [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/)
+⬆️ 4 • 💬 0 • 9h ago • [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/)
+
+---
+
+**[A minimal Bitcoin-inspired implementation (2022)](https://news.ycombinator.com/item?id=50503776)**
+
+I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of buzzwords was long and unending - proof-of-work, Merkle trees, elliptic curves, smart contracts, DeF
+
+⬆️ 2 • 💬 0 • 3h ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
 
 ---
 
@@ -243,7 +257,7 @@ A deep dive into Starlight — the decentralized AI app store where wishes are s
 
 **[Ask HN: What use are the non-major cryptocurrencies?](https://news.ycombinator.com/item?id=50493695)**
 
-⬆️ 4 • 💬 4 • 20h ago
+⬆️ 4 • 💬 4 • 1d ago
 
 ---
 
@@ -271,7 +285,7 @@ Git for Postgres data, built for agents. Branch, diff, merge and undo inside Pos
 
 Worried that you're losing your edge to AI? Well, worry no more! Our puzzles test commonly automated skills, keeping you sharp with just 5 minutes a day.
 
-⬆️ 2 • 💬 0 • 52m ago • [brainsaver.app](https://brainsaver.app)
+⬆️ 2 • 💬 0 • 7h ago • [brainsaver.app](https://brainsaver.app)
 
 ---
 
@@ -285,17 +299,17 @@ Bitcoin is crashing again. Learn how to analyze the latest cryptocurrency charts
 
 📺 Ricky Gutierrez
 
-👁️ 15K • 👍 388 • 💬 274 • ⏱️ 14:24 • 6h ago
+👁️ 28K • 👍 481 • 💬 283 • ⏱️ 14:24 • 13h ago
 
 ---
 
-**[My MASSIVE Warning to Crypto Holders](https://www.youtube.com/watch?v=fDRNT6oslvE)**
+**[Bitcoin Just Hit $62K.  Here&#39;s What I&#39;m Doing.](https://www.youtube.com/watch?v=AZv72cW-LpY)**
 
-The crypto market is facing a do or die moment. I'm analyzing the critical pressure on Bitcoin and altcoins, and what a potential ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
 
-📺 EllioTrades
+📺 Aaron Bennett
 
-👁️ 22K • 👍 796 • 💬 116 • ⏱️ 11:37 • 4h ago
+👁️ 18K • 👍 709 • 💬 103 • ⏱️ 18:09 • 4h ago
 
 ---
 
@@ -305,7 +319,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 63K • 👍 4K • 💬 350 • ⏱️ 19:34 • 3h ago
+👁️ 180K • 👍 6K • 💬 503 • ⏱️ 19:34 • 10h ago
+
+---
+
+**[My MASSIVE Warning to Crypto Holders](https://www.youtube.com/watch?v=fDRNT6oslvE)**
+
+The crypto market is facing a do or die moment. I'm analyzing the critical pressure on Bitcoin and altcoins, and what a potential ...
+
+📺 EllioTrades
+
+👁️ 53K • 👍 1K • 💬 164 • ⏱️ 11:37 • 11h ago
 
 ---
 
@@ -315,7 +339,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 311 • 💬 187 • ⏱️ 23:27 • 5h ago
+👁️ 15K • 👍 385 • 💬 166 • ⏱️ 23:27 • 12h ago
+
+---
+
+**[Bitcoin FREEFALL! $64K Broken as Billions Exit Bitcoin ETFs | LIVE | EP2183](https://www.youtube.com/watch?v=trCSUJclmtE)**
+
+BlackFriday earlybird VIP signup: https://vip.cryptolifer.com/ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: ...
+
+📺 Crypto Lifer
+
+👁️ 12K • 👍 461 • 💬 51 • ⏱️ 1:50:11 • 3h ago
 
 ---
 
@@ -325,7 +359,17 @@ Bitcoin just slid to $65K and the Fear & Greed index hit Extreme Fear at 13. Bef
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 414 • 💬 84 • ⏱️ 28:34 • 4h ago
+👁️ 18K • 👍 539 • 💬 123 • ⏱️ 28:34 • 11h ago
+
+---
+
+**[Bitcoin Crash: What Really Happened on Saturday](https://www.youtube.com/watch?v=Z3TQXXMvVrg)**
+
+We analyse Bitcoin on 15 November 2026 using Elliott Wave, market data and indicators, with a five-wave move above around ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 437 • 💬 33 • ⏱️ 20:42 • 2h ago
 
 ---
 
@@ -335,47 +379,17 @@ No B.S. Just Charts. Bitcoin and the crypto market are in collapse mode after Bi
 
 📺 Gareth Soloway
 
-👁️ 121K • 👍 3K • 💬 330 • ⏱️ 11:18 • 1d ago
+👁️ 132K • 👍 4K • 💬 384 • ⏱️ 11:18 • 1d ago
 
 ---
 
-**[The Crypto Market Is Completely F*d? (nvidia latest)](https://www.youtube.com/watch?v=WJL2Ta9ZNDg)**
+**[LEAKED: White House INSIDER Admits The Truth About The Strategic Bitcoin Reserve DUMPING Bitcoin!](https://www.youtube.com/watch?v=5MHxqZjKDrM)**
 
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
+Did America use its strategic Bitcoin reserve to send Bitcoins price into a death spiral. Learn how to make money online with ...
 
-📺 Altcoin Daily
+📺 Luke Mikic
 
-👁️ 69K • 👍 1K • 💬 133 • ⏱️ 9:17 • 23h ago
-
----
-
-**[Cyberattacks Are Starting. The AI Bubble is Bursting. Will Bitcoin Survive What&#39;s Next?](https://www.youtube.com/watch?v=L6H7538ogGs)**
-
-Bitcoin is being pitched as the escape hatch from the AI trade after Nvidia CEO Jensen Huang's reported exit, a Microsoft outage ...
-
-📺 Simply Bitcoin
-
-👁️ 34K • 👍 1K • 💬 129 • ⏱️ 16:55 • 1d ago
-
----
-
-**[Fresh Signs of DANGER for Bitcoin (here’s why)](https://www.youtube.com/watch?v=1VnFv-48pSo)**
-
-Fresh signs of danger for bitcoin have reappeared. Benjamin Cowen and Alessio Rastani discuss the chart of bitcoin and the ...
-
-📺 Alessio Rastani
-
-👁️ 61K • 👍 2K • 💬 198 • ⏱️ 12:28 • 2d ago
-
----
-
-**[WARNING: Is It OVER For Bitcoin Bulls OR Can They Still SAVE It Here?](https://www.youtube.com/watch?v=nqrEpukO71E)**
-
-Today, we cut through the noise on Bitcoin's recent price action. Is this the end for crypto bulls, or can they engineer a monumental ...
-
-📺 Crypto Banter
-
-👁️ 28K • 👍 1K • 💬 36 • ⏱️ 50:14 • 1d ago
+👁️ 12K • 👍 380 • 💬 68 • ⏱️ 49:36 • 8h ago
 
 ---
 

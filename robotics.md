@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-15T00:08:29.184266+00:00'
+updated: '2026-11-15T06:58:25.768712+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 15, 2026 at 00:08 UTC  
+**Last Updated:** November 15, 2026 at 06:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,83 +32,77 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Cubic Doggo test: Wouf walks along, wholly unbothered by the SO-101 snake taped to its back](https://www.reddit.com/r/robotics/comments/1xoc79f/cubic_doggo_test_wouf_walks_along_wholly/)**
+**[Day 382 of building Asimov 1, an open-source humanoid robot. Testing the new walking gait outdoors](https://www.reddit.com/r/robotics/comments/1xwl3oi/day_382_of_building_asimov_1_an_opensource/)**
 
-Sorry to spam this sub with CD-07B Woulf payload tests; I promise this will be the last of these tests. This time it is carrying an SO-101 arm follower just taped to the body. The arm flaps like a sleeping snake because it is unpowered Still, I am super excited to find out that Wouf is able to walk around just fine while carrying the default SO-101 arm. Not only that, but with the arm fully extended (by hand for now), it still doesn't tip over (I thought it at least needed to be seated). I would say, despite my ahh gait programming, the Wouf's hardware is incredibly robust. I think this is a prelude to a potential open-source challenge to test our robotic skill. Tag of Flag: arm-carrying legged robots compete to steal the flag loosely attached to each other's backs. Let's go! :D
+We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-9d ago
-
----
-
-**[After 20 years in software, I'm finally building my own robot dog. Here's my first leg hopping.](https://www.reddit.com/r/robotics/comments/1xnt4zb/after_20_years_in_software_im_finally_building_my/)**
-
-Hello everyone, I’m new to the group. I’ve been interested in robotics from several decades ago when I took a college class in Robotics, and had dreams of making it a career. Some of this was because of seeing Sony’s Aibo, which I absolutely adored. Fast forward 20+ years and I ended up doing purely software, and I while I do enjoy things I found something lacking. While I loved Aibo, after finding out how slow it moved (and limitations with developing it), I decided it was not for me. I discovered the UniTree Go2 and thought it was the ideal robot dog for me, but then after learning about the price and development limitations I lost interest. I researched other robots, but really couldn’t find a great quadruped in the $3k-$4k range that was big enough and had low-level development available. So I decided to make my own robot dog: LocksleyFox While I have a background in electrical and computer engineering, my knowledge of mechanical stuff is quite weak, so I decided to employ Claude to help fill in the gaps. It’s only been a few weeks but I managed to get a single leg built and even jumping, and am working on the 2nd version of the leg. I hope to have a walking quadruped in a month or two. I’m trying to do a detailed writeup of all my progress, and provide videos on live tests as well as simulations, so please check out my site if interested. https://dreamingofrobots.com/locksleyfox
-
-10d ago
+3h ago
 
 ---
 
-**[Humanoid robot from scratch](https://www.reddit.com/r/robotics/comments/1xnpvjn/humanoid_robot_from_scratch/)**
+**[My animal deterrent turret! Iron dome for your backyard](https://www.reddit.com/r/robotics/comments/1xw7vze/my_animal_deterrent_turret_iron_dome_for_your/)**
 
-I just finished testing the legs, i had to swap the modules i used to control the actuators because they were too weak. The test went smoothly, no burning just a little code adjustments and the legs move as they should. Next step it to figure out the necessary movements for it to walk.
+Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-10d ago
-
----
-
-**[I built this quadruped robot model, from individual parts to the full assembly!](https://www.reddit.com/r/robotics/comments/1xnw27u/i_built_this_quadruped_robot_model_from/)**
-
-I modeled the individual parts and built the full assembly using SolidCraft and HappyCAD, then made this animation to show how everything fits together. The main body housing took the longest, especially getting the mounting points and clearances around the leg joints right. What would you like to see in more detail, the part modeling or the assembly setup?
-
-10d ago
+13h ago
 
 ---
 
-**[Solo jugando](https://www.reddit.com/r/robotics/comments/1xnwej0/solo_jugando/)**
+**[Im creating a robot thingy!](https://www.reddit.com/r/robotics/comments/1xwktwb/im_creating_a_robot_thingy/)**
 
-Después de un accidente se han vuelto a construir las piernas. Está vez con encoder y un par de servoblocks en las caderas. Encoders magnéticos en las ruedas y una interfaz de pruebas. Que opinan de probar LQR ? Saludos comunidad .
+Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-10d ago
-
----
-
-**[Autonomous robot difficulty](https://www.reddit.com/r/robotics/comments/1xo5v8u/autonomous_robot_difficulty/)**
-
-I’m working on a robot stack for a large 4wd robot. Two nvidia Orin agx dev kits, lidar, depth cam, respeaker microphone array and then some output speakers. What’re the odds that codex programs the whole thing properly with an LLM, ROS, vision model and everything in between so it can communicate with my teensy 4.1 that controls my motors? I have used a couple billion tokens on the project already. My hesitation is the robot is 450lbs and has about an 80kw drivetrain and it’s going to be real tricky to find a place to safely test it 🤦‍♂️ The idea is the robot will be voice commanded and have all the compute locally run without any wireless connectivity. There will be lots of calibration stuff to figure out but we shall see. I had to build a much larger enclosure than what’s in the picture for the electronics, I used a 12”x4” aluminum rectangular tube 18” long. Maybe it’ll all fit in there with power supplies. Cooling will be the issue. One Orin for vision and one for the LLM.
-
-9d ago
+3h ago
 
 ---
 
-**[automatic barrier gate](https://www.reddit.com/r/robotics/comments/1xo9km0/automatic_barrier_gate/)**
+**[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-guys, need help asap, how can i connect the sg90 servo motor and 10k potentiometer mechanically? im trying to create an automatic barrier and i want the angle of the sg90 servo motor to be correct so i used 10k potentiometer, however i can’t find any reference videos online on how to couple them mechanically. saw servo horn method being the easiest but i cant find a reference vid online
-
-9d ago
+1d ago
 
 ---
 
-**[Need guidance on developing a vector-based algorithm for robotic surface-adaptive toolpath generation](https://www.reddit.com/r/robotics/comments/1xobgge/need_guidance_on_developing_a_vectorbased/)**
+**[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-Hi everyone, I am developing a project called SmartGrid, an offline robotic toolpath planner for automated spray-coating operations on 3D mesh surfaces. GitHub Repository: https://github.com/sakrish205/SmartGrid Current Development Branch: https://github.com/sakrish205/SmartGrid/tree/feature/review-olp I am currently working on a feature called Mesh Flow, where the objective is to generate robotic paths over different 3D mesh geometries while maintaining a consistent path pattern. I have two existing reference examples, each containing a 3D mesh and its corresponding toolpath. I want to understand the underlying geometric and mathematical rules behind these paths and develop a generalised algorithm that can reproduce the same type of pattern on different mesh geometries. I am not looking to copy existing path coordinates or simply fit curves. I want to derive the mathematical logic for generating the paths. What I need help with Path direction: How can vector fields be used to determine and maintain a consistent direction of travel over a 3D mesh? Path spacing: Would geodesic distance fields or surface offsets be suitable for generating neighbouring paths with consistent spacing? Surface adaptation: How should local surface normals, tangent vectors and curvature influence the generated path? Pattern preservation: How can the same underlying path pattern be maintained when the mesh geometry changes? Mesh irregularities: How can the algorithm avoid unnecessarily following every small variation in an uneven or irregular mesh? Mathematical approach: Would vector-field integration, differential geometry, geodesic offsets, surface parameterisation or a hybrid approach be most suitable? Expected outcome I want to develop a mathematically grounded algorithm that: Preserves the reference path pattern. Adapts to different 3D surface geometries. Maintains appropriate path direction and spacing. Handles curved and uneven surfaces. Avoids unnecessary path distortion. The current focus is on deriving the mathematical algorithm, not programming or implementation. I cannot share the reference mesh and toolpath files, but the project repository is available for anyone interested in understanding the overall project. If anyone has experience with robotic spray painting, surface-following trajectories, computational geometry or vector-field-based path planning, I would really appreciate your suggestions. Thanks!
-
-9d ago
+15h ago
 
 ---
 
-**[Single channel motor encoder for SLAM based AMR](https://www.reddit.com/r/robotics/comments/1xobf8u/single_channel_motor_encoder_for_slam_based_amr/)**
+**[My son’s school got him interested in robotics with Vex](https://www.reddit.com/r/robotics/comments/1xvqvvx/my_sons_school_got_him_interested_in_robotics/)**
 
-Hi guys, I need help. I'm trying to make my first autonomous navigating robot with SLAM and ROS. However, my motor encoders for the motors only have 1 channel. I know it needs 2 for speed and direction but channel 2 is consistently dead from the only available shop here. Do you suggest I keep finding another shop with 2 channels for motor encoders or do you suggest I keep this single channel motor encoder and then just fuse it with an IMU sensor? Would the learning curve be a lot harder?
+He looked up some of the kits so that he can start building more on his own at home. They are $2000+. He is a young high schooler. Any alternatives to Vex that we can use to indulge his curiosity?
 
-9d ago
+1d ago
 
 ---
 
-**[Hardware-in-the-loop for Claude: AI builds the PCB, firmware, picks the sensors, SoCs; designs the CAD, and then iterates the designs against a virtual twin (Isaac Sim / Unreal)](https://www.reddit.com/r/robotics/comments/1xn8dl9/hardwareintheloop_for_claude_ai_builds_the_pcb/)**
+**[News: Google Intrinsic Community Platform for Physical AI / Edge / Robotics](https://www.reddit.com/r/robotics/comments/1xw40re/news_google_intrinsic_community_platform_for/)**
 
-Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
+16h ago
 
-11d ago
+---
+
+**[Apple built its humanoid brain on an off-the-shelf Unitree body - what am I missing about why the body still matters?](https://www.reddit.com/r/robotics/comments/1xvwngp/apple_built_its_humanoid_brain_on_an_offtheshelf/)**
+
+Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
+
+23h ago
+
+---
+
+**[ROS and Open Source Robotics News for the Week of November 9th, 2026](https://www.reddit.com/r/robotics/comments/1xvhiqd/ros_and_open_source_robotics_news_for_the_week_of/)**
+
+Get all of your ROS and Open Source Robotics News on Open Robotics Discourse
+
+1d ago
+
+---
+
+**[Day 382 of building Asimov, an open-source humanoid robot. Prepping it for humans and AI agents to see the world through its eyes](https://www.reddit.com/r/robotics/comments/1xuybbi/day_382_of_building_asimov_an_opensource_humanoid/)**
+
+This is a quick test of head teleoperation on Asimov 1. The operator’s head movements drive the robot’s neck (2 DoF), and the camera feed streams back, so you see what the robot sees. We're setting this up so both people and AI agents can use the robot’s view, whether that's for teleop, data collection or an agent deciding where to look.
+
+2d ago
 
 ---
 
@@ -124,9 +118,25 @@ Fortune • 1d ago
 
 ---
 
+**[A SoMa startup is building humanoid robots for war](https://sfstandard.com/2026/11/14/humanoid-war-robots-soma-startup/)**
+
+While rivals chase factory and household work, Foundation is courting the Pentagon.
+
+The San Francisco Standard • 16h ago
+
+---
+
+**[Inside Tesla’s 2027 plan to put its humanoid robot Optimus to work](https://interestingengineering.com/ai-robotics/what-could-teslas-optimus-humanoid-robot-actually-do-in-2027)**
+
+What will Tesla’s Optimus be able to do? Watch what the humanoid robot has demonstrated. Will it be able to do laundry next?
+
+Interesting Engineering • 17h ago
+
+---
+
 **[Robots recognize the shape of an arena by messaging each other](https://techxplore.com/news/2026-11-robots-arena-messaging.html)**
 
-Tech Xplore • 10h ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -138,59 +148,43 @@ WIRED • 3d ago
 
 ---
 
-**[German Gereon ground robots equipped with Ukrainian Saber combat modules enter production and delivery](https://www.ukrinform.net/rubric-defense/4184531-german-gereon-ground-robots-equipped-with-ukrainian-saber-combat-modules-enter-production-and-delivery.html)**
+**[OpenAi shuts down robot unit second time in six years, but wants everyone to know that the company is com](https://timesofindia.indiatimes.com/technology/tech-news/openai-shuts-down-robot-unit-second-time-in-six-years-but-wants-everyone-to-know-that-the-company-is-committed-to-/articleshow/135846511.cms)**
 
-German defense company ARX Robotics has begun producing and delivering Gereon unmanned ground vehicles equipped with Ukrainian-made Saber combat modules. — Ukrinform.
+OpenAI has disbanded its standalone robotics team for the second time in six years, folding the group into its broader research and applied organisations. While the move echoes the company's decision to wind down its original robotics division in 2020, OpenAI insists the latest reorganisation is not a retreat from robotics but rather a sign of its commitment to bringing general-purpose robots into the world, according to a Fortune report.
 
-Ukrinform • 1d ago
-
----
-
-**[Google's Antigravity agents formalise major mathematical proofs](https://interestingengineering.com/ai-robotics/google-antigravity-multi-agent-research)**
-
-Google's Antigravity agents formalise major mathematical proofs and speed up software engineering.
-
-Interesting Engineering • 21h ago
+The Times of India • 3h ago
 
 ---
 
-**[Shape-Shifting Robotic "Slugs" Could One Day Crawl Across Alien Worlds](https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds)**
+**[Serve Robotics wants to democratize sidewalk delivery robots](https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery)**
 
-Robots have been a mainstay of our early space exploration efforts. But they normally have wheels. Or in some cases, rotors. While those solutions are great on flat ground, they struggle with jagged boulders or tight crevices. So engineers have been working on alternative robotic form factors, and a recent paper in Nature Machine Intelligence from researchers at Colorado State University’s Adaptive Robotics Lab, describes a unique morphology using a design principle typically seen in architecture rather than robotics - tensegrity.
+Serve Robotics is breaking away from delivery app lock-in.
 
-Universe Today • 1d ago
-
----
-
-**[The PLA’s Push for Military Robotics](https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/)**
-
-Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People’s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing’s military robotics ambitions.
-
-CSET | Center for Security and Emerging Technology • 3d ago
+The Verge • 3d ago
 
 ---
 
-**[Humble Robotics: $51M Fuels Autonomous Electric Freight Future](https://www.freightwaves.com/news/humble-robotics-51m-fuels-autonomous-electric-freight-future)**
+**[Gemini Robotics 2.5: Accelerating Physical Intelligence](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)**
 
-Humble Robotics is shaking up short-haul logistics with a massive $51 million Series A funding round. Founder & CEO Eyal Cohen unveils the vision
+Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.
 
-FreightWaves • 1d ago
-
----
-
-**[2 AI Robotics Stocks That Could Help Set You Up for Life](https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/)**
-
-While AI models and chips take center stage, the AI robotics boom is silently building.
-
-The Motley Fool • 2d ago
+Google DeepMind • 4d ago
 
 ---
 
-**[Narwal builds robot vacuums to serve regional needs](https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/)**
+**[Can we predict the jobs robots will do?](https://www.anthropic.com/research/what-work-can-robots-do)**
 
-Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets.
+What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.
 
-The Robot Report • 1d ago
+Anthropic • 1mo ago
+
+---
+
+**[Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)**
+
+Feather is betting on a customizable, $30,000 platform built for software developers.
+
+TechCrunch • 1mo ago
 
 ---
 
@@ -204,17 +198,7 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 227K • 👍 3K • 💬 143 • ⏱️ 8:25 • 5d ago
-
----
-
-**[Can America Close the Robotics Gap With China? | Physical AI](https://www.youtube.com/watch?v=QbE1gUlSeSQ)**
-
-Can America turn its robotics research into the industrial capacity to compete with China? MIT's Elisabeth Reynolds and Harry ...
-
-📺 Imagination in Action
-
-👁️ 400 • 👍 7 • 💬 1 • ⏱️ 31:35 • 4h ago
+👁️ 229K • 👍 3K • 💬 143 • ⏱️ 8:25 • 5d ago
 
 ---
 
@@ -224,67 +208,17 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The AI Nexus
 
-👁️ 41K • 👍 471 • 💬 63 • ⏱️ 15:41 • 4d ago
+👁️ 42K • 👍 472 • 💬 63 • ⏱️ 15:41 • 5d ago
 
 ---
 
-**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
 
-A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
 
-📺 NBC News
+📺 Dorian Todd
 
-👁️ 33K • 👍 94 • 💬 38 • ⏱️ 1:56 • 3d ago
-
----
-
-**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
-
-Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
-
-📺 Nexio Core
-
-👁️ 58K • 💬 17 • ⏱️ 0:06 • 4d ago
-
----
-
-**[Tesla&#39;s Robot School Is Real: 20,000 Robots Teach Themselves](https://www.youtube.com/watch?v=-YQc4rveiSk)**
-
-Tesla plans an Optimus Academy with between 10000 and 20000 robots practicing tasks all day. I see it as Tesla's answer to the ...
-
-📺 The Electric Viking
-
-👁️ 16K • 👍 295 • 💬 59 • ⏱️ 4:25 • 1d ago
-
----
-
-**[I Built An Automated High Speed Camera Robot](https://www.youtube.com/watch?v=enNRvZ5BhjM)**
-
-This work was supported by the Alfred P. Sloan Foundation, enhancing public understanding of science and technology in the ...
-
-📺 Jeremy Fielding
-
-👁️ 123K • 👍 3K • 💬 297 • ⏱️ 53:28 • 1d ago
-
----
-
-**[Ultimate Transforming Guide! Unboxing Robot Toy: OPTIMUS PRIME, BUMBLEBEE, ELITA-1, MIRAGE, MEGATRON](https://www.youtube.com/watch?v=AhTyYS8wDEk)**
-
-Welcome to the Ultimate Transforming Guide! In today's video, we are unboxing an epic collection of Transformers robot toys ...
-
-📺 Bob ToysReview
-
-👁️ 11K • 👍 25 • ⏱️ 34:11 • 15h ago
-
----
-
-**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
-
-Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
-
-📺 Imagination in Action
-
-👁️ 15K • 👍 126 • 💬 24 • ⏱️ 37:09 • 4d ago
+👁️ 65K • 👍 1K • 💬 63 • ⏱️ 14:42 • 6d ago
 
 ---
 
@@ -294,7 +228,67 @@ The first humanoid robot capable of doing real human jobs is closer than ever. A
 
 📺 The AI Nexus
 
-👁️ 11K • 👍 122 • 💬 21 • ⏱️ 18:30 • 6d ago
+👁️ 11K • 👍 123 • 💬 21 • ⏱️ 18:30 • 6d ago
+
+---
+
+**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
+
+Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
+
+📺 Imagination in Action
+
+👁️ 15K • 👍 127 • 💬 24 • ⏱️ 37:09 • 4d ago
+
+---
+
+**[This $3,000 Robot Just Hit 10,000 Built! 🤖🎒](https://www.youtube.com/watch?v=dw_WVpqeb2o)**
+
+Chinese robotics maker PrimeBOT just produced its 10000th personal robot, doubling cumulative factory output in just 14 days!
+
+📺 CodeToCarbon
+
+👁️ 918 • 👍 24 • 💬 3 • ⏱️ 0:32 • 2h ago
+
+---
+
+**[I Built An Automated High Speed Camera Robot](https://www.youtube.com/watch?v=enNRvZ5BhjM)**
+
+This work was supported by the Alfred P. Sloan Foundation, enhancing public understanding of science and technology in the ...
+
+📺 Jeremy Fielding
+
+👁️ 131K • 👍 3K • 💬 311 • ⏱️ 53:28 • 2d ago
+
+---
+
+**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+
+A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+
+📺 NBC News
+
+👁️ 33K • 👍 96 • 💬 38 • ⏱️ 1:56 • 4d ago
+
+---
+
+**[Ultimate Transforming Guide! Unboxing Robot Toy: OPTIMUS PRIME, BUMBLEBEE, ELITA-1, MIRAGE, MEGATRON](https://www.youtube.com/watch?v=AhTyYS8wDEk)**
+
+Welcome to the Ultimate Transforming Guide! In today's video, we are unboxing an epic collection of Transformers robot toys ...
+
+📺 Bob ToysReview
+
+👁️ 15K • 👍 35 • ⏱️ 34:11 • 22h ago
+
+---
+
+**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
+
+Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
+
+📺 Nexio Core
+
+👁️ 58K • 💬 17 • ⏱️ 0:06 • 5d ago
 
 ---
 
