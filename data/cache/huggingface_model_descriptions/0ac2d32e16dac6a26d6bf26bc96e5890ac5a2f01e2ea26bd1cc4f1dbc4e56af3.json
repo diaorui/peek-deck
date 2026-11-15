@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-13T17:43:47.422072+00:00",
+  "data": "MiniCPM-V 4.7 35B-A3B is the first open-source MoE multimodal model with lossless on-device inference, achieving 13+ tokens/s on mobile with 3GB RAM. It excels in visual understanding and efficient encoding, supporting broad platform and chip compatibility for diverse deployment scenarios.",
+  "model_id": "openbmb/MiniCPM-V-4.7-35B-A3B"
+}

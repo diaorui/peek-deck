@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-21T17:32:11.385970+00:00",
+  "data": {
+    "url": "https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966",
+    "title": "Cost-Bounded Transaction Filtering Language",
+    "description": "I designed a transaction filtering policy DSL and implemented it in satd, a full Bitcoin node implementation in Rust. This allows node runners to decide the exact transaction shapes they want their nodes to relay or include in block templates while not affecting consensus correctness.  The language is cost-bounded and intentionally not Turing-complete. Each rule either allows or quarantines a matching transaction, optionally preventing relay or inclusion in template construction. The rules are d...",
+    "image": "https://delvingbitcoin.org/uploads/default/optimized/2X/d/d7b00ce8ea71abd2430c0c7ebef164165a514e17_2_1024x512.png",
+    "favicon": "https://delvingbitcoin.org/uploads/default/optimized/1X/863d31b22a9d4d4072777bffb9b9ded86a1638bc_2_180x180.svg",
+    "site_name": "Delving Bitcoin",
+    "author": null,
+    "keywords": null
+  }
+}

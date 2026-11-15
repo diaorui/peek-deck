@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "robotics",
+  "site": null,
+  "search_query": "robotics",
+  "articles": [
+    {
+      "headline": "Researchers open autonomous robotics learning to the world",
+      "source": "Stanford Report",
+      "source_url": "https://news.stanford.edu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHRuekZtaEVYZnp6VndkZTZLN1RKT25jNTgweG80UWR5ZjlmUlFGc3FtZWI2SXFYZUkzQTUybldDLVkwVm1qSVhuSVVRSUl4My1VZGxmaV8ybnpMVU5STWxLbWYyd3VYQkJwY3JvSmgtSmpjc1Y5TWVmVERBV0lyY203SGZXZEJkTUFGSjBzOGpDR2V2dWc?oc=5",
+      "pub_date": 1792673724.0,
+      "article_url": "https://news.stanford.edu/stories/2026/10/autonomous-robotics-education-curriculum-textbook",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Exclusive: Formic raises fresh funding to put more robots on factory floors",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3UxRmgwU3N1RnJDaFExYWNwcHRJYWpRcVBhTkpwQ29QMUo2SHFqSGZFMGNWbUxyRC1lWXFJQzRoOGtmU0FVbjBVUGpzLXY5QWduUWdrUmVzVW5hSTN3akFFRXFsVWZqeXB4YjBFQ3VMS0tHTWx4bXJ5eTdxSWZWVGFldFg?oc=5",
+      "pub_date": 1792681462.0,
+      "article_url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The Robot I Didn\u2019t Expect to Build",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Y19oRWRwaE5wbmd2OFhPZUsxdUVyLU9yTm9lUDJLdEZkT1U5NWdjdWdYRG9oWF9TRVpHT1N3TzZQbjI3cDBIYjdBcXdlTWNLckkwYndTbkdLblpLN2xNNG80V01MaDBGVHhz?oc=5",
+      "pub_date": 1792566000.0,
+      "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68441166&width=1200&height=600&coordinates=0%2C1537%2C0%2C1538",
+      "description": "Agility Robotics\u2019 first practical robotic worker is nothing like I dreamed"
+    },
+    {
+      "headline": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2hUYVoxVEgxUmdpSW1qZ0ZlcTJnRUJPLVhjUS12cExoTDBZbFlfNHVmejZoVFhBZ3VxNTc1NThRVkZnVTNvVUJXYThLcTduSjlGVkVlX0xiTDhNSkNjN09lblZJeVZEWW9BZXRqS05PY2tBRUxzU3NaSFlxdDY2V1JGMHBpbFdzRlIwTlRXQ2twVHN5MEhIQjVIMXJQVzlzWHo5aFo2alM4X1hjSlBEcGVlZ0V3WHhrN2cybWxKTU5Edw?oc=5",
+      "pub_date": 1792676853.0,
+      "article_url": "https://www.reuters.com/business/autos-transportation/tesla-drops-spending-pullback-clouds-ai-robotics-ambitions-2026-10-22/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Busy Station Day with Bioprinting, Spacesuit Check, Robotics, and Photography",
+      "source": "NASA (.gov)",
+      "source_url": "https://www.nasa.gov",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmJkX0hkUF9kVmtVS0VhQXpLV0JFN3BrUFRLcjI3R1ItajhpRS03cm5yamlzVW1lQ2RJUWNabGlLVE5jb2stSmJma1lYaFVoWWxfM3ZnQ3M0eXp6N1NYdWwtRU1QcWhvZm80bEExdHV4S3J6V0hmYlgyLUhqb3BycUtaZVRkY0JFOWFLX2dDckVOMkhxVXZWcnRSVGU4Mk0wTHJUZ3ZYRlhyNUt3bHFDeEpMM0U3bEVEQ0U5Qzlsc0t3OC1j?oc=5",
+      "pub_date": 1792690723.0,
+      "article_url": "https://www.nasa.gov/blogs/spacestation/2026/10/22/busy-station-day-with-bioprinting-spacesuit-check-robotics-and-photography/",
+      "image": "https://images-assets.nasa.gov/image/jsc2026e037789/jsc2026e037789~large.jpg",
+      "description": "The Expedition 75 crew had a busy day on Thursday bioprinting blood vessels and trying on a spacesuit aboard the International Space Station. The orbital residents also trained to use a pair of robotic arms and set up Earth photography sessions to round out the day in low Earth orbit."
+    },
+    {
+      "headline": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSWlrTXdiY0hPLXRzcTlxMWNtdDhWa3h1Q1o1MXA5eV9wRXhXMEFKTUFDdTdwdzlnSHRGT1o5RC15ME5LSGVxbWRoTDVHYTlmLVdVaFF0alhTakVCUWF1cTVrSlRuXzJ4bF9HM25MdEVnTTZMZER1UmNKOFBvYkhOcTRuSVFlN3dMUVRxaDJoWW8tT3NVNWVfQVc0TnRpT0EwOTk3OVowWGg5clQ3QV9BMGl5VVY2elVtc19QY1RrazE1aG56S2NCbFhGU2lnWjNydmlmOFZPX21FR3VqNVAzcEwwOVBnM2lEMGphckZSSVY5RVNnWHc?oc=5",
+      "pub_date": 1792578539.0,
+      "article_url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+      "image": "https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8",
+      "description": "NVIDIA today announced a major expansion of the NVIDIA Isaac\u2122 open robotics development platform, adding a reference humanoid, datasets and runtime, along with updates to its robot learning framework."
+    },
+    {
+      "headline": "Unitree Robotics unveils a bodyguard robot capable of lifting the front of a car",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVpVSHVtUVBwWDFQT1F5RXhSXzdjTGV1bk91OVVDRHJadV82bnd1bnBQcWE1UEdqbmJ3TERyMGJVTkN1Zks3cFpuYlhlRWpFdk9yODNueWtBMzhiNmJOUWlyLVAweDFJWXFQQ2VyQk1KcW5WdUt4REdUWldnTzMtdGt4dmZnaklBc0NRME5vVFFuS3FUbTNfcmJ4WUtLenlGd3VQYVpZbXNYWmM?oc=5",
+      "pub_date": 1792589967.0,
+      "article_url": "https://www.scmp.com/video/china/3371678/unitree-robotics-unveils-bodyguard-robot-capable-lifting-front-car",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/images/canvas/2026/10/21/6a7901ae-0a4c-48de-88f3-19713feb0909_3d2fa0d3.jpg?itok=7GFFMruN",
+      "description": "Footage showed the H2-X model performing a variety of stunts, but Unitree did not confirm whether the robot performed autonomously."
+    },
+    {
+      "headline": "Tesla fires up Optimus robot production with Musk eyeing 20,000 units per week by 2027",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3Atc1dERGs2OFNTVTNlNUtGSlBvRS1KTkNyQ082SzR3bG5Ra3FmNng2bUhaOGhfT0d2a2JSU2lhM0ZfT3V3YXBfREdhVnl2aGluU0VOa1FjUF9ZVHJOVVBnczVkMkFlclhhVUxDaUxQV3pLRWFvZERQZWl6TUZOZFF0RjFzaE5zUWJjNw?oc=5",
+      "pub_date": 1792630620.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/tesla-optimus-robot-enters-production",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-10-1.jpg",
+      "description": "Tesla has started Optimus robot production in Fremont as Elon Musk targets 20,000 humanoid robots per week by the end of 2027."
+    },
+    {
+      "headline": "Robotics firm buys Lawrenceville headquarters property from RIDC",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2o2cU9XRzFRQUk4Z19qWTd4TmFkV21BS1o2dzBqdTB5NnlZTVZlc2NrRllVT3ByRHZtRzgyMmtxbWZMOTRMcXVNNHliR0hnQ1pBT3RZcG5qbkEyMVgzVmhteUptcTd2QURkSWdEcl9zVVMtd1NfcGlGdVdadGRiY2tUUXZNWEZsVGJBYjRrc3F2VXFySElwQ1dVUTBzb2ZyS0M5X1l3WQ?oc=5",
+      "pub_date": 1792685520.0,
+      "article_url": "https://www.bizjournals.com/pittsburgh/news/2026/10/22/robotics-row-carnegie-robotics-lawrenceville.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tesla must scale FSD, energy and robotics to justify $1.6 trillion valuation: ex-board member",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHl5UWJyTS1GSFgzQTktdDQ1ZE5meXBnWlFUTF9XLUdZUnpzUHBlcFN5Q0pENWZXYXdOVWI0WF9QOUR4TVZqNlI0alVqNDRIVlN2b3JDQlBab0Z1N1VCNkIyaklyWE90cWtfM1Mxamk2TmdxcEQzVXAzUWtaZTFBS280cUdEX2NEM2dHUkt0UXE3Mlk0WC1pTkpHYk52NDRlTVF4TlplbzBhdVllM0lCdmE5WDY2MlZUVV9iVFVMeXZYaUNLQ294dzQ5aw?oc=5",
+      "pub_date": 1792631700.0,
+      "article_url": "https://www.cnbc.com/video/2026/10/22/tesla-must-scale-fsd-energy-and-robotics-to-justify-1-point-6t-valuation-ex-board-member.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108444433-17926308311792630828-49151646061-1080pnbcnews.jpg?v=1792630830&w=1920&h=1080",
+      "description": "The Westly Group's Steve Westly, a former Tesla board member, says the SpaceX and Tesla merger is likely given the synergies between the two firms. The key question is potential regulatory hurdles."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-10-23T06:19:33.293563+00:00"
+}

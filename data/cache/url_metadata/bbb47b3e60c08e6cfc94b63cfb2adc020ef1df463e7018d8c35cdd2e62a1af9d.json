@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-27T17:09:32.739989+00:00",
+  "data": {
+    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+    "title": "The Provenance Tax: Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+    "description": "Lasso Research tested SynthID-Text watermarking across six models and found it changes tool-call correctness and weakens refusal under prompt injection. On some models, watermark-induced behavioral churn exceeds what a temperature change produces.",
+    "image": "https://cdn.prod.website-files.com/677e57d57f0aaef07252db12/6aab8f3234c02c13abcd8f76_The%20Impact%20of%20%20LLM%20Watermarking%20%20on%20Agent%20Security%20%26%20Safety%20-%20744.png",
+    "favicon": "https://cdn.prod.website-files.com/677e57d57f0aaef07252dadc/679266a08803c74a25b7b460_256_256.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

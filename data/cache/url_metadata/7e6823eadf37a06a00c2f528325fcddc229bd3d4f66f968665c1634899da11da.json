@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-12T21:35:03.562507+00:00",
+  "data": {
+    "url": "https://www.linkedin.com/posts/francisdesouza_recognizing-a-mental-health-crisis-isnt-share-7514334685217579008-RR38/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
+    "title": "AI Models Fail to Help in Mental Health Crises Despite Recognizing Danger | Francis deSouza posted on the topic | LinkedIn",
+    "description": "Recognizing a mental health crisis isn\u2019t the same as helping someone through it.\n\nNEWS: Today, Scale AI is introducing DistressBench, a clinician-authored benchmark that tests whether AI models provide the help called for when someone is facing a suicide or self-harm crisis.\n\nWe evaluated 25 frontier models using 718 clinician-written conversations, each with specific criteria for what a helpful response needs to include. The findings show a gap between recognizing danger and responding appropriately:\n\n\u2022 In more than a third of conversations where models recognized a crisis, they still failed to provide help or resources.\n\u2022 On average, models left out nearly 3 in 10 required response steps.\n\u2022 When shown their own failed response alongside a better one, most models identified the better response but still declined to provide it.\n\nThat last finding is especially striking. A model can recognize a more helpful answer and still fail to deliver it.\n\nOur hope is that benchmarks like this give researchers concrete evidence of where responses fall short and what needs to improve. People will increasingly turn to AI in their hardest moments - we need safety testing that keeps up with what people are asking of these systems.\u00a0\n\nhttps://lnkd.in/gSRNJFQ2 | 16 comments on LinkedIn",
+    "image": "https://media.licdn.com/dms/image/v2/D5622AQF2WpNIgZBSVQ/feedshare-shrink_800/B56aEhHlAhKYAk-/0/1791556997491?e=2147483647&v=beta&t=XcpW81IFnQuZlWfo6LtBLXNoS10DFRxcEkSlAod0JMo",
+    "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+    "site_name": "LinkedIn",
+    "author": null,
+    "keywords": null
+  }
+}

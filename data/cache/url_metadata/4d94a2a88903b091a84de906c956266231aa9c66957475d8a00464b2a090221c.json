@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-01T19:42:30.093241+00:00",
+  "data": {
+    "url": "https://blog.ethereum.org/2026/10/01/introducing-zkapi",
+    "title": "Introducing zkAPI: private usage credits for any API | Ethereum Foundation Blog",
+    "description": "tl;dr: zkAPI lets you pay for a metered API without being known. Deposit credits into an Ethereum vault once, then authorize bounded usage with zero-knowledge...",
+    "image": "https://blog.ethereum.org/images/posts/2026/accesslayer.png",
+    "favicon": "https://blog.ethereum.org/images/favicon.png",
+    "site_name": "Ethereum Foundation Blog",
+    "author": null,
+    "keywords": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-01T14:16:10.377315+00:00",
+  "data": {
+    "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+    "title": "MetaMask exits Ethereum validators after attacker diverts staking rewards",
+    "description": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "favicon": "https://www.coindesk.com/favicons/production/apple-touch-icon-60x60.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

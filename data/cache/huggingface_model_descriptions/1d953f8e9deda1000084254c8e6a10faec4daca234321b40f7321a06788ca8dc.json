@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-10-12T12:48:36.177521+00:00",
+  "data": "This is a quantized, uncensored text-to-image diffusion model based on Qwen-Image-2.1, optimized for local inference via GGUF and MLX formats. It supports various quantization levels (e.g., FP8, INT8, MLX 4-bit) for efficient use with tools like ComfyUI, balancing performance and VRAM usage.",
+  "model_id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized"
+}

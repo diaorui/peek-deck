@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-21T17:32:09.295986+00:00",
+  "data": {
+    "url": "https://www.wiz.io/blog/php2shell-php-rce",
+    "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog",
+    "description": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.",
+    "image": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
+    "favicon": "https://www.wiz.io/favicon.png",
+    "site_name": "wiz.io",
+    "author": null,
+    "keywords": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-26T07:08:16.074491+00:00",
+  "data": {
+    "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+    "title": "Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech",
+    "description": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb91f522b50463896027288e6037d9a39f937ae2-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "favicon": "https://www.coindesk.com/favicons/production/apple-touch-icon-60x60.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}
