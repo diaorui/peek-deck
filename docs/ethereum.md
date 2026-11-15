@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-15T14:39:23.227584+00:00'
+updated: '2026-11-15T20:11:25.402828+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 15, 2026 at 14:39 UTC  
+**Last Updated:** November 15, 2026 at 20:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,737.58
+### $1,819.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -15.3%  
-**30d:** -24.7%  
-**90d:** -5.7%  
-**1y:** -41.6%  
+**24h:** +2.4%  
+**7d:** -14.9%  
+**30d:** -24.4%  
+**90d:** -5.2%  
+**1y:** -41.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $221.63B
+**Market Cap:** $222.32B
 Rank #2
 
 **Circulating Supply:** 122,221,531 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.4%
+-63.2%
 
 **All-Time Low:** $0.43
-+418532.3%
++420008.1%
 
 ---
 
@@ -120,7 +120,7 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 i’ve finally switched from rabby wallet to ambire after a long while been a big fan of rabby, but ever since they start to collect too many datas from the users i’ve wanted to try a new wallet on EVM which gives the same vibes like rabby and i finally ended up using ambire wallet it’s actually an underrated wallet, even vitalik showed the demo of ambire wallet privacy features on devcon 8 in mumbai what im impressed about > privacy > clear signing > their new hardware wallet > txn batching > security try it out if you wanna explore a good wallet: https://www.ambire.com/download also available on mobile for both android and iOS
 
-3d ago
+4d ago
 
 ---
 
@@ -156,19 +156,19 @@ Hello all, We are building a tool for interfacing between wallets and users as a
 
 Both coins sit far below their peaks, and an AI model thinks one of them has a much better shot at reclaiming its crown. Which one needs the Fed's help, and which one depends entirely on the other?
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business](https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business)**
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
 
 ---
 
 **[Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives](https://www.benzinga.com/crypto/26/11/63274152/ethereum-flashes-death-cross-as-etf-outflows-surge-futures-open-interest-dives)**
 
-Benzinga • 19h ago
+Benzinga • 1d ago
 
 ---
 
@@ -176,7 +176,7 @@ Benzinga • 19h ago
 
 BitMine Immersion Technologies (BMNR) and Ethereum (ETH) exchange-traded funds (ETFs) may experience a "Black Monday" if the token breaks a significant support level over the weekend, Peter Schiff said on Saturday.Schiff made the call in a post on X, after an earlier warning on Ethereum. He said th…
 
-TradingView • 4h ago
+TradingView • 9h ago
 
 ---
 
@@ -188,13 +188,7 @@ Asia Times • 1d ago
 
 **[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613)**
 
-Investing.com • 13h ago
-
----
-
-**[Sharplink Gaming’s Earnings Call Signals Ethereum Strategy Momentum](https://www.tipranks.com/news/company-announcements/sharplink-gamings-earnings-call-signals-ethereum-strategy-momentum)**
-
-TipRanks • 11h ago
+Investing.com • 18h ago
 
 ---
 
@@ -210,7 +204,7 @@ Crypto Briefing • 2d ago
 
 BitMine’s loss estimate combines November Ethereum holdings with an August average cost. See what the dashboard and company filings actually show.
 
-CryptoSlate • 2h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -220,9 +214,27 @@ CoinDesk • 2d ago
 
 ---
 
+**[Should Ethereum Tax Its Apps to Prove Its Security Is Worth It?](https://finance.yahoo.com/video/ethereum-tax-apps-prove-security-040026031.html)**
+
+Jeff Dorman, Chief Investment Officer and co-founder of Arca, says Vitalik Buterin’s push to treat ETH as a store of value is misguided and argues Ethereum must build its own stablecoin and DEX or tax its apps.
+
+Yahoo Finance • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[URGENT 🚨 CRYPTO IS DONE ‼️ XRP ETH BTC](https://www.youtube.com/watch?v=Dkz3pnyQnLs)**
+
+1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
+
+📺 Stock Moe
+
+👁️ 28K • 👍 910 • 💬 177 • ⏱️ 12:45 • 6h ago
+
+---
 
 **[Cathie Wood :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=-E7mPU6BqgA)**
 
@@ -230,27 +242,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 249 • 💬 39 • ⏱️ 21:54 • 10h ago
-
----
-
-**[ETHEREUM EMERGENCY UPDATE! (ETH Price Prediction)](https://www.youtube.com/watch?v=5fyG9eIUa9w)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 286 • 👍 12 • 💬 18 • ⏱️ 4:14 • 4h ago
-
----
-
-**[Ethereum: Watch These Levels This Weekend](https://www.youtube.com/watch?v=yfjnLETBjdY)**
-
-We analyse Ethereum on 14 November 2026 using Elliott Wave, with the adjusted resistance zone at $1903.75 to $2016.51 as ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 168 • 💬 12 • ⏱️ 6:26 • 15h ago
+👁️ 27K • 👍 287 • 💬 40 • ⏱️ 21:54 • 15h ago
 
 ---
 
@@ -260,7 +252,37 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 165 • 👍 19 • ⏱️ 11:46 • 39m ago
+👁️ 5K • 👍 92 • 💬 31 • ⏱️ 11:46 • 6h ago
+
+---
+
+**[ETHEREUM EMERGENCY UPDATE! (ETH Price Prediction)](https://www.youtube.com/watch?v=5fyG9eIUa9w)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 1K • 👍 17 • 💬 15 • ⏱️ 4:14 • 9h ago
+
+---
+
+**[BITCOIN CRASH OVER, But There&#39;s a Catch (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bUq8o0A_VEo)**
+
+BITCOIN CRASH OVER, But There's a Catch (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 237 • 💬 32 • ⏱️ 22:10 • 3h ago
+
+---
+
+**[Ethereum: Watch These Levels This Weekend](https://www.youtube.com/watch?v=yfjnLETBjdY)**
+
+We analyse Ethereum on 14 November 2026 using Elliott Wave, with the adjusted resistance zone at $1903.75 to $2016.51 as ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 177 • 💬 15 • ⏱️ 6:26 • 21h ago
 
 ---
 
@@ -270,17 +292,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 30K • 👍 329 • 💬 116 • ⏱️ 22:21 • 22h ago
-
----
-
-**[The Crypto Market Is Completely F*d? (nvidia latest)](https://www.youtube.com/watch?v=WJL2Ta9ZNDg)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 79K • 👍 2K • 💬 151 • ⏱️ 9:17 • 1d ago
+👁️ 32K • 👍 344 • 💬 116 • ⏱️ 22:21 • 1d ago
 
 ---
 
@@ -290,7 +302,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 152 • 💬 19 • ⏱️ 10:15 • 1d ago
+👁️ 2K • 👍 153 • 💬 19 • ⏱️ 10:15 • 1d ago
 
 ---
 
@@ -300,27 +312,17 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 13K • 👍 139 • 💬 32 • ⏱️ 12:35 • 2d ago
+👁️ 13K • 👍 139 • 💬 33 • ⏱️ 12:35 • 2d ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS CONFIRMED (Emergency Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zOEXY96bxVo)**
+**[The Crypto Market Is Completely F*d? (nvidia latest)](https://www.youtube.com/watch?v=WJL2Ta9ZNDg)**
 
-BITCOIN LIQUIDATIONS CONFIRMED (Emergency Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
-📺 Crypto World
+📺 Altcoin Daily
 
-👁️ 25K • 👍 438 • 💬 78 • ⏱️ 27:23 • 18h ago
-
----
-
-**[Ethereum Crashed to $1,896.. and My Long FILLED!!](https://www.youtube.com/watch?v=Q7VnoRZ0CjU)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v114 Ethereum (ETH) just crashed to its ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 15 • 💬 5 • ⏱️ 3:11 • 2d ago
+👁️ 82K • 👍 2K • 💬 155 • ⏱️ 9:17 • 1d ago
 
 ---
 

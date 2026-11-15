@@ -5,14 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUm5KWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5",
-      "pub_date": 1794715260.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-14/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin\u2019s Fall to $62,000 Sparks Market Manipulation Claims",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEg1QmxvektXaDI3N2J6NXFzS1pqNXJjRDNqWHRKU2RYT3owbWg5V2NGRm5aSmpBZFFWU19yM0JKNzdEY095NUFIQ3h2LXpJZEhmaGJ4YzNhU181MGVIcUtRR3hVa3htWjlnQ2lfVmxTQld2QzlIS3RRQ1FYZGdpUG1lUXBuZWIyZDNzMTRQV1FFVHlZSXc?oc=5",
+      "pub_date": 1794734669.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-fall-62-000-sparks-092429244.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8c1576f9227851cd50559fa3c68c74fe50056c902c42c2d1fbc13903fa693614/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fc7d468b80a582d706030723ac5b2c620.jpg",
+      "description": "Bitcoin crashed to $62,000 as liquidations topped $2 billion. Analysts claim manipulation, but others blame leverage."
+    },
+    {
+      "headline": "What's Behind Bitcoin's Drop? CZ Points to 6 Possible Reasons",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnpINGJ3OEJqY3Y5RDU4eF8zWkF0SUN5QTl2c3ExdlNrZ0ZxbFY1MUNWRk5GSkkyOFN6a2FWckR3SXQ5NHp1NWYzYzFpNU1NOU1kZ0FvbHpTRC0zdENFUjZXcnFqeGQ1blAzWm5OcDMzX29mbDJsMTE1Q2VDR1daaXZ1SEVpZTlVcXdFdlhjT21DRzhpUHMzVDNR?oc=5",
+      "pub_date": 1794769186.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/whats-behind-bitcoins-drop-cz-185946117.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/67c7ec4148b4a8d1b6dab1bcfe9f55892e3bb71f329626083eff616ac380bc53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2aeefbd4bbbdaa6501c2d83db54afbeb.png",
+      "description": "Bitcoin hit $62,006 as US funds lost $1.91 billion in seven days. Binance's CZ lists six possible reasons why."
     },
     {
       "headline": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
@@ -23,36 +33,6 @@
       "article_url": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin\u2019s four-year cycle is about to turn bullish \u2014 if history repeats: Chart of the Day",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZnJscnVUWk1EM255N01qYlh4M2xtWkFTV0VXdDRZcU9RbWFlOWZ0ekN6MlZESUxjRlUyRUxVQ09UWWVrcTRkZDM2Ykg3d0lueTNXQ0tBOFVEekxpazZ2OVlqVGdyb2xxYnAzSGs2OFF5WXN4Qk0wdDMxNDBnejd6ZmZjOFAyNHZkY0NmS25KcWMzcXlOYTRPRFcwSGw5aTc1NmFwdVQtMDI2ZFcxdFdTZlN6aVcxb2c4azZMQkNhWklNbXZQY2xYNFI2SlowVi0tVUJVNnFNRWdONDhfSjl4UGRFa0M?oc=5",
-      "pub_date": 1794752264.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/article/bitcoins-four-year-cycle-is-about-to-turn-bullish--if-history-repeats-chart-of-the-day-141744431.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cf8d750d0fee5fc785602e4abdb7239f91b504498527ceafc5c90e3656752baa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F8a01537c-507b-4664-a67e-1d05d6431309",
-      "description": "Bitcoin\u2019s slide has hit the window where past bear markets bottomed."
-    },
-    {
-      "headline": "Bitcoin ETF Flows Can Whipsaw: How to Know If You Should Ride It Out",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWF9kc2lPZXBrZ19UQmlpMk5aWGU3RS1nenI2V3ZCWU5lZ3JNZklKT3JyVFBpY2ZoNEVfQW9mckRZSFhOcTVNOFNGYXZhZFhmOTdBblgtRnQtWGItU2VXaW5xREltd0VUSU9tZkxsOHU4U1M4MmJlc3RmSXhWS25YTzU5eEtBZDFIdUQ0TjhZN0dRb3NiemdCeFNWTQ?oc=5",
-      "pub_date": 1794749702.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-flows-whipsaw-know-133502665.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/76f7fd2eec58120517f8823e36560dd84e557f5ac9e7cfeaaa62818aeb341f0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F64cc6a1d126ec4b90e7489e400970896.jpg",
-      "description": "Like the assets it holds, an ETF can take you on a wild ride. Here\u2019s how to decide whether to hold on."
-    },
-    {
-      "headline": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0lob0RkMHZrTFVUdEkwb1RHcUFHeGRTX1NoWC1OWGpwbC1FbVdWOFZ5TXduZURLZ3QzSlhMekxkdm50Z2xQUzdwbVJHdkJWRFRJRE0wTkhxcy1WSXd5OTVfdUFuRFNfMVVoMm1VSkl2MVBmaDhRTVNqWlphREh0NDcyQjdEckQzX1Bmb1dqOA?oc=5",
-      "pub_date": 1794751262.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-lose-2-1-140102292.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b1e56c3d9d7a2fe4ace3fb7f252d7127b7a51bb603c31578950d8a82d45b7fe1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fbd62cb690faede61f94b1ae366157e35.jpg",
-      "description": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000."
     },
     {
       "headline": "Bitcoin Is Slumping, but Michael Saylor Says Strategy Can Create $10 Billion to $30 Billion in \"Digital Credit\"",
@@ -85,6 +65,26 @@
       "description": null
     },
     {
+      "headline": "Bitcoin hovers near $65,000 after weekend selloff to lowest since July",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXpXdC1Qeng0eEJORnVwaDlIbURad0NMazJVaEtsckhTVWhfemdUdTJ4bzdOQmVhQXNodXlicnJpTVNFQll6TmlVSnNXdmRfTUlCX3JTNllGZ1JqOFQtbU1fSjBsUzVHY2tROUFkOC1UM0JCYTJLOUNwckVNald1VjRxV0ZZeC04cDgyMm1lam1GY1pqTTFjVDRxVFgxQzljMjRUUTNxcnFhbTZxTE5yaG9mR0ctNVpndnBRVnhERG5SQ0E0LWhuTQ?oc=5",
+      "pub_date": 1794756842.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nic Carter says most Bitcoin treasury firms offer little beyond ETF exposure",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qVDBVUXphYUI2MllNSHNtY2kxSDlyUzBvT1VfTnRyYmlfWGlzYl9XV04wS2VBNHVkUjFLNVotZ2owa3ZMYXYwcVRCSkdDNDlfV2E4M2NVeGdYZXQtMXFyQk5laE1ZRmdqVm5LcVpvdmtqSHFnU2ViRVdEQ3k2clE?oc=5",
+      "pub_date": 1794765979.0,
+      "article_url": "https://cryptobriefing.com/nic-carter-bitcoin-treasury-firms-etf-critique/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/15130608/library-nic-carter-says-most-bitcoin-treasury-firms-offer-little-800x450.png",
+      "description": "Castle Island Ventures' Nic Carter says most Bitcoin treasury firms offer little beyond spot ETF exposure as NAV discounts weigh on the sector."
+    },
+    {
       "headline": "Bitcoin Price Prediction: Where Could Bitcoin Be by Year-End?",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -95,16 +95,16 @@
       "description": "Bitcoin needs a 21% rally to climb back to $80,000. Here are the low, middle, and high scenarios for where it might finish 2026."
     },
     {
-      "headline": "iShares Bitcoin Trust weathers $2.35B in outflows but stays positive for 2026",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51UmRCU1JZeVFKaEpmLUZ1NGx6aW9HZUJTdHVKaXp2QklXTlQ1WG9fb25laVdBSWNORWRMM1g4a0NiZ2lEQWhmeVl4SjBiZ2FZUUNnTFE0aVNIRVdEcmRTRFBpZWtLYUU0cWg0ZUc0Tkp3RHEzTkUzcQ?oc=5",
-      "pub_date": 1794748889.0,
-      "article_url": "https://cryptobriefing.com/ishares-bitcoin-trust-2026-flows-reversal/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/15082119/library-ishares-bitcoin-trust-weathers-2-35b-in-outflows-but-sta-800x450.png",
-      "description": "BlackRock's iShares Bitcoin Trust swung from deep 2026 outflows back to positive year-to-date flows in a single week. Here's what it signals."
+      "headline": "ARKF: Tech Trouble Via Microsoft & The FAA - Bitcoin's Plunge Adds Pressure (BATS:ARKF)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkZZd2FBcW9maTlBQ3lrNHBnX3A0VEVubWp1dm5yNXhCVGd2T0xjandzMEtjTnJVS2FYaWtleWphbnBqdkJIaW15MFBGaFp6aGE5RUhaSDJxai1adnZqWEVoSFM2ejRyR2UyTGlPeGFqZVM5ZHpyUmQ3a0ZkQjd3akxuU2FSXzVqNmRDY05VSHlHMC03TGhRRl9HUWpnNWxxYk9QVUJxQ3dDSkVfM18zVTEtLXE?oc=5",
+      "pub_date": 1794769326.0,
+      "article_url": "https://seekingalpha.com/article/4968404-arkf-tech-trouble-via-microsoft-and-the-faa-bitcoins-plunge-adds-pressure",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2229982740/image_2229982740.jpg?io=getty-c-og",
+      "description": "ARKF is rated a Hold: weak technicals leave shares at risk of testing $36 support, while crypto risks and valuation balance the bull and bear cases."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-15T14:39:19.306975+00:00"
+  "fetched_at": "2026-11-15T20:11:12.872016+00:00"
 }

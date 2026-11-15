@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-15T20:11:13.914956+00:00",
+  "data": {
+    "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/",
+    "title": "Uber's Secure AI Framework Governs Autonomous AI Agents Across Their Lifecycle",
+    "description": "In a recent article, Uber Engineering highlights the limitations of traditional identity and API controls in securing AI agents that dynamically reason over external content and take real-world actions. Uber developed a framework to determine whether an agent's action is appropriate given the user's request, the agent's intended purpose, its permissions, and the context of the interaction.",
+    "image": "https://res.infoq.com/news/2026/11/uber-secure-ai-framework/en/headerimage/uber-open-search-semantic-1794769460527.jpeg",
+    "favicon": "https://cdn.infoq.com/statics_s2_20261112091223/apple-touch-icon.png",
+    "site_name": "InfoQ",
+    "author": null,
+    "keywords": "uber secure ai framework,Development,Architecture & Design,AI, ML & Data Engineering,Security,Agents,AI Security,Uber,"
+  }
+}

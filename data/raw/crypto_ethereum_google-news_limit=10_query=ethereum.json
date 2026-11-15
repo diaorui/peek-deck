@@ -65,16 +65,6 @@
       "description": null
     },
     {
-      "headline": "Sharplink Gaming\u2019s Earnings Call Signals Ethereum Strategy Momentum",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEFPU05zMFp4ZFBleGtlY0FZOHRxUkQ4b3pSSDZxU1YwekJUX1ZWdmFJNXQxbEpCdm9JUHNKU2w2MklzNzJaa0JMb3VNemtwWHZWNkNCX3pPZlVaUFZIZjRyMExGRFRlSFFQWFZZcjNENDh4dE1OR216Y1FNVlVOaC14REpuaW1mU1ROM1prQkh0Uk9uaFUyT0p1TkxyRFF2YUxHdm10eFktaHE5bV9QMGJVemFrQ3pQRlE?oc=5",
-      "pub_date": 1794712223.0,
-      "article_url": "https://www.tipranks.com/news/company-announcements/sharplink-gamings-earnings-call-signals-ethereum-strategy-momentum",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Ethereum Foundation sells 2,000 ETH as price hovers near $2,000",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Should Ethereum Tax Its Apps to Prove Its Security Is Worth It?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbG1zUE9fYmZyM0dFZ0Y1cWIwX0xzQ0h5VWVSVVJoQl9LVnVIUDdyd1JETnBVdnFMVGY5R0lVcnF6cVNxcUp4Y1hDd3RkU3I3R2NsNGdnZ1FDcGhibEhKNlBHdFk0dUZmajVBTTNSMWRrSUVCMUViN21VZEl3UzRSUkdNTWpNUQ?oc=5",
+      "pub_date": 1794628800.0,
+      "article_url": "https://finance.yahoo.com/video/ethereum-tax-apps-prove-security-040026031.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d17a03ca501ca49568f66d10dea0771f2f9df0c40e880e1cca0792c18a1ca8bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F86741a7fb27c68a74e8e7be44c04afdd.png",
+      "description": "Jeff Dorman, Chief Investment Officer and co-founder of Arca, says Vitalik Buterin\u2019s push to treat ETH as a store of value is misguided and argues Ethereum must build its own stablecoin and DEX or tax its apps."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-15T14:39:11.374355+00:00"
+  "fetched_at": "2026-11-15T20:11:08.701206+00:00"
 }
