@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-15T00:08:29.182061+00:00'
+updated: '2026-11-15T06:58:25.766730+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 15, 2026 at 00:08 UTC  
+**Last Updated:** November 15, 2026 at 06:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,768.46
+### $1,737.58
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -8.5%  
-**7d:** -17.4%  
-**30d:** -26.6%  
-**90d:** -8.1%  
-**1y:** -43.1%  
+**24h:** -5.6%  
+**7d:** -16.0%  
+**30d:** -25.4%  
+**90d:** -6.5%  
+**1y:** -42.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.12B
+**Market Cap:** $218.85B
 Rank #2
 
-**Circulating Supply:** 122,218,624 ETH
+**Circulating Supply:** 122,221,531 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.3%
+-63.8%
 
 **All-Time Low:** $0.43
-+408250.1%
++413439.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -128,7 +128,7 @@ i’ve finally switched from rabby wallet to ambire after a long while been a bi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -156,7 +156,7 @@ Hello all, We are building a tool for interfacing between wallets and users as a
 
 Bitcoin's selloff accelerates alongside Ethereum as $1.46B in weekly ETF outflows, shrinking stablecoin liquidity and Fed rate fears pressure crypto.
 
-Coinpaper • 2h ago
+Coinpaper • 9h ago
 
 ---
 
@@ -170,19 +170,25 @@ Yahoo Finance • 1d ago
 
 **[Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business](https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business)**
 
-CoinDesk • 7h ago
+CoinDesk • 14h ago
 
 ---
 
 **[Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives](https://www.benzinga.com/crypto/26/11/63274152/ethereum-flashes-death-cross-as-etf-outflows-surge-futures-open-interest-dives)**
 
-Benzinga • 4h ago
+Benzinga • 11h ago
+
+---
+
+**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613)**
+
+Investing.com • 5h ago
 
 ---
 
 **[Ethereum’s ERC-8415 tests tokenization’s ownership gap](https://asiatimes.com/2026/11/ethereums-erc-8415-tests-tokenizations-ownership-gap/)**
 
-Asia Times • 19h ago
+Asia Times • 1d ago
 
 ---
 
@@ -190,7 +196,7 @@ Asia Times • 19h ago
 
 A hardware malfunction at an unnamed cloud provider is disrupting Ethereum access while consensus keeps running. Here's what users should know.
 
-Crypto Briefing • 11h ago
+Crypto Briefing • 18h ago
 
 ---
 
@@ -202,23 +208,15 @@ TradingView • 1d ago
 
 ---
 
+**[Sharplink Gaming’s Earnings Call Signals Ethereum Strategy Momentum](https://www.tipranks.com/news/company-announcements/sharplink-gamings-earnings-call-signals-ethereum-strategy-momentum)**
+
+TipRanks • 3h ago
+
+---
+
 **[Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy](https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy)**
 
 CoinDesk • 1d ago
-
----
-
-**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html)**
-
-Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum researchers drop faster blocks to race toward quantum defenses in 2027](https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027)**
-
-CoinDesk • 2d ago
 
 ---
 
@@ -226,23 +224,23 @@ CoinDesk • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin &amp; Ethereum PLUNGE! Trezor Tampering Confirmed &amp; Binance Hack Update | CryptoDad LIVE Q&amp;A](https://www.youtube.com/watch?v=RLvN2c1OjZ4)**
+**[Cathie Wood :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=-E7mPU6BqgA)**
 
-Bitcoin and Ethereum are taking a beating!* It's been a brutal week for the crypto markets, with Bitcoin plunging below ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 The CryptoDad
+📺 Crypto Nutshell
 
-👁️ 1K • 👍 89 • 7h ago
+👁️ 3K • 👍 91 • 💬 47 • ⏱️ 21:54 • 2h ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS CONFIRMED (Emergency Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zOEXY96bxVo)**
+**[Ethereum: Watch These Levels This Weekend](https://www.youtube.com/watch?v=yfjnLETBjdY)**
 
-BITCOIN LIQUIDATIONS CONFIRMED (Emergency Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+We analyse Ethereum on 14 November 2026 using Elliott Wave, with the adjusted resistance zone at $1903.75 to $2016.51 as ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 10K • 👍 310 • 💬 58 • ⏱️ 27:23 • 4h ago
+👁️ 5K • 👍 143 • 💬 12 • ⏱️ 6:26 • 7h ago
 
 ---
 
@@ -252,27 +250,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 263 • 💬 110 • ⏱️ 22:21 • 7h ago
+👁️ 26K • 👍 313 • 💬 113 • ⏱️ 22:21 • 14h ago
 
 ---
 
-**[Why Ethereum Maxi&#39;s Quit](https://www.youtube.com/watch?v=xCTjmpAptrw)**
+**[BITCOIN LIQUIDATIONS CONFIRMED (Emergency Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zOEXY96bxVo)**
 
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
+BITCOIN LIQUIDATIONS CONFIRMED (Emergency Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 🌟yourfriendsommi
+📺 Crypto World
 
-👁️ 2K • 👍 139 • 💬 19 • ⏱️ 10:15 • 13h ago
-
----
-
-**[The Crypto Market Is Completely F*d? (nvidia latest)](https://www.youtube.com/watch?v=WJL2Ta9ZNDg)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 69K • 👍 1K • 💬 133 • ⏱️ 9:17 • 23h ago
+👁️ 21K • 👍 407 • 💬 72 • ⏱️ 27:23 • 11h ago
 
 ---
 
@@ -282,37 +270,17 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 12K • 👍 138 • 💬 30 • ⏱️ 12:35 • 2d ago
+👁️ 12K • 👍 139 • 💬 31 • ⏱️ 12:35 • 2d ago
 
 ---
 
-**[The Rich Are Preparing While Everyone Else Is Afraid Ethereum &amp; Bitcoin Hype During Bank Collapses](https://www.youtube.com/watch?v=ozyjlqoHf08)**
+**[Why Ethereum Maxi&#39;s Quit](https://www.youtube.com/watch?v=xCTjmpAptrw)**
 
-Banks are collapsing, debt levels are higher than ever and it looks like we might actually see a total economic collapse on the ...
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
 
-📺 The Modern Investor
+📺 🌟yourfriendsommi
 
-👁️ 10K • 👍 726 • 💬 204 • ⏱️ 30:47 • 2d ago
-
----
-
-**[BITCOIN, ETHEREUM, XRP &amp; CRYPTO CRASHING NOW!!!🚨📉#bitcoin #btc #ethereum #xrp #crypto](https://www.youtube.com/watch?v=PItwhdtL62U)**
-
-BITCOIN, ETHEREUM, XRP & CRYPTO CRASHING NOW!!!    #bitcoin #btc #ethereum #xrp #crypto.
-
-📺 Crypto AiMan
-
-👁️ 255 • 👍 5 • ⏱️ 0:49 • 1h ago
-
----
-
-**[BUYING NOW LIVE 🚨 BITCOIN XRP ETHEREUM ‼️](https://www.youtube.com/watch?v=uMi7unJD7go)**
-
-1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
-
-📺 Crypto Moe
-
-👁️ 4K • 👍 138 • 💬 4 • ⏱️ 11:27 • 1d ago
+👁️ 2K • 👍 148 • 💬 19 • ⏱️ 10:15 • 19h ago
 
 ---
 
@@ -322,7 +290,37 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 14 • 💬 5 • ⏱️ 3:11 • 1d ago
+👁️ 1K • 👍 15 • 💬 5 • ⏱️ 3:11 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum PLUNGE! Trezor Tampering Confirmed &amp; Binance Hack Update | CryptoDad LIVE Q&amp;A](https://www.youtube.com/watch?v=RLvN2c1OjZ4)**
+
+Bitcoin and Ethereum are taking a beating!* It's been a brutal week for the crypto markets, with Bitcoin plunging below ...
+
+📺 The CryptoDad
+
+👁️ 9K • 👍 141 • 💬 50 • ⏱️ 1:17:14 • 6h ago
+
+---
+
+**[Altcoin TA: XRP, SOL, ETH/BTC, ADA, NIGHT, ZAMA | Elite Picks](https://www.youtube.com/watch?v=OKl6z4RSuNQ)**
+
+XRP, Solana, NIGHT, ETH/BTC, ZAMA, Backpack and Cardano get full technical analysis in this Elite Picks altcoin TA, covering ...
+
+📺 The Trading Parrot
+
+👁️ 3K • 👍 77 • 💬 19 • ⏱️ 20:47 • 16h ago
+
+---
+
+**[The Rich Are Preparing While Everyone Else Is Afraid Ethereum &amp; Bitcoin Hype During Bank Collapses](https://www.youtube.com/watch?v=ozyjlqoHf08)**
+
+Banks are collapsing, debt levels are higher than ever and it looks like we might actually see a total economic collapse on the ...
+
+📺 The Modern Investor
+
+👁️ 10K • 👍 727 • 💬 201 • ⏱️ 30:47 • 2d ago
 
 ---
 

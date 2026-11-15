@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "built a fact-checker that catches politicians lying in real-time",
+      "author": "Ok_Measurement5015",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwmtff/built_a_factchecker_that_catches_politicians/",
+      "published": 1794718584.0,
+      "thumbnail": "https://external-preview.redd.it/YWtlaGhxMGJqcDFpMcpzDhl8bRN0zlXsgkiLQLRuyTuvB_rAh87TQk0U7O4i.png?width=640&crop=smart&auto=webp&s=aa51033154c5094f0ee39bb2d51f1add5a981546",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've embarrassingly been working on this project for 2 years so wanted to finally share (as I saw others posting Youtube-only versions). on Youtube it transcribes text to identify checkable claims -> web search retrieves sources to base Claude's verdict on, to avoid hallucinated sources. it's a free Chrome extension, and works on news or social media sites as well. let me know what would make this something you'd use, or what else you'd like to see! Edit: I realized someone not following could misread the video (here Biden is telling the truth, and Trump was lying, but the Trump section is before I started the recording)."
+    },
+    {
       "title": "One Router Grounded America? Seriously? Are you sure it wasn\u2019t Rogue AI or a Hack?",
       "author": "SuzannahB1001",
       "url": "https://www.reddit.com/r/artificial/comments/1xwd18l/one_router_grounded_america_seriously_are_you/",
@@ -11,6 +22,28 @@
       "site_name": null,
       "favicon": null,
       "description": "So apparently the Trump administration is blaming a faulty router for grounding flights across America. A router. Seriously? Of course a router can cause network failures, but how the hell does critical national aviation infrastructure lack the safeguards to prevent one failure cascading across the system? And who in their right mind schedules an upgrade at 3 pm on a Friday afternoon? I seriously smell a rat because the explanation raises more concerns than answers? Is America being gaslit?"
+    },
+    {
+      "title": "Anthropic rebuilds Claude Code Projects around a coordinator and parallel worker threads - each thread is a full cloud session on its own branch",
+      "author": "winer666",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwj3v0/anthropic_rebuilds_claude_code_projects_around_a/",
+      "published": 1794706687.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Anthropic posted an update on Nov 14 rebuilding Claude Projects from a folder of files into a coordinated set of working sessions. You describe the work in one conversation; a coordinator scopes it, delegates it to parallel threads, reviews the outputs and assembles the result. Each thread is a Claude Code cloud session with its own copy of the repo and its own Git branch, and it can split its task further into subagents, loops or workflows. The work keeps going after you close your laptop, and you can steer it from your phone. It is a public beta rolling out gradually to select Pro/Max/Ultra subscribers who use Claude Code cloud sessions; Team and Enterprise plans do not have it yet, and there is a waitlist for everyone else. Anthropic is upfront about the limits: threads run only in the cloud for now (local code and VPN support is coming 'very soon'), several parallel sessions burn through usage limits faster, and if two threads touch the same code it surfaces as an ordinary merge conflict in a PR. Sources: Anthropic's product post (claude.com/blog/projects-redesigned) and the Projects docs (code.claude.com/docs/en/claude-projects). What I am curious about: does parallelizing agents actually speed up real work, or does it just move the bottleneck to review and merge conflicts? Has anyone here tried the beta?"
+    },
+    {
+      "title": "It's 11:21pm and I'm not coding anymore \u2014 my agents are",
+      "author": "AIOSAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwok88/its_1121pm_and_im_not_coding_anymore_my_agents_are/",
+      "published": 1794724614.0,
+      "thumbnail": "https://preview.redd.it/vs1k9jpp1q1i1.jpeg?width=640&crop=smart&auto=webp&s=d5b29dfc1cfdbe2333b534c75abc1546a0f67517",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "\u200b This is my laptop right now. I built AIPass \u2014 open-source, 18 agents running on my own Linux machine \u2014 and tonight they're just... going. Sentry's doing a memory rollover, Prax is digging through a dead-cwd guard in repo_root.py, DevPulse's sub-agents are checking canary docs and skills docs. Trigger even muted Prax for a bit. The API hit a 429 so it's backing off for 60 seconds. The weird part is BAUD on the right is literally waiting on me to pick A or B for the init cut. I'm the bottleneck now. They wake up in the evening, check email, fix bugs, try to optimise stuff. I mostly just watch. If you had a crew like this running overnight, what would you actually have it do first?"
     },
     {
       "title": "Could AI handle public transit information calls?",
@@ -24,6 +57,50 @@
       "description": "During service disruptions people are calling about delays, missed connections, route changes and whether theres another bus or train coming And the information can change every few minutes The phone part seems doable with tools like Elevenlabs or Bland, but I'd want it connected directly to the transit system's live updates before trusting it with arrival times. Giving someone an outdated ETA is probably worse than telling them there's no confirmed time yet."
     },
     {
+      "title": "Anyone else my age in here??",
+      "author": "Minimum_Hour519",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwo2z5/anyone_else_my_age_in_here/",
+      "published": 1794722931.0,
+      "thumbnail": "https://preview.redd.it/ygfsc6gnwp1i1.png?width=640&crop=smart&auto=webp&s=ca8b384e7ed3719f16a0a6b8706602270b254855",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Not all AI sounds human.",
+      "author": "galratner",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwo2iz/not_all_ai_sounds_human/",
+      "published": 1794722889.0,
+      "thumbnail": "https://external-preview.redd.it/JsCiQOkMggtd8ttFr_A13sQ8lhsKskyNjOvGNyabRN8.jpeg?width=640&crop=smart&auto=webp&s=d93e379bac352de2ce9fe9992e73c502bf416170",
+      "external_url": "https://blog.galratner.com/p/not-all-ai-sounds-human",
+      "site_name": "blog.galratner.com",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!iCUN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25f59e89-ce47-4856-a002-7097b2d7f9fe%2Fapple-touch-icon-57x57.png",
+      "description": "Some AI models don\u2019t generate tokens or try to sound like your best friend."
+    },
+    {
+      "title": "Don't we want the AI to do our work...",
+      "author": "IagoInTheLight",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwlffv/dont_we_want_the_ai_to_do_our_work/",
+      "published": 1794713985.0,
+      "thumbnail": null,
+      "external_url": "https://towardsdatascience.com/ai-will-do-your-job-that-should-be-good-news/",
+      "site_name": "towardsdatascience.com",
+      "favicon": null,
+      "description": "Most people have jobs they would rather not do, but they need to get paid. Instead of \"protecting jobs from AI\" we should be thinking about how people can live without needing jobs and let the machines do the boring work nobody wants to do in the first place."
+    },
+    {
+      "title": "The Chrisrmas Tree Test. Fable, Opus, Haiku. You decide...Just for fun",
+      "author": "AIOSAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwj5u8/the_chrisrmas_tree_test_fable_opus_haiku_you/",
+      "published": 1794706856.0,
+      "thumbnail": "https://preview.redd.it/lrpymcvwko1i1.jpeg?width=640&crop=smart&auto=webp&s=a310664ff84a612e75fe22b9f99e9311c5327a8b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Here I have 3 Christmas trees. I prompted each agent \" built me a Christmas tree widget in 2 minutes \" just a quick fun experiment. Here are the results. You decide. Which is your favorite."
+    },
+    {
       "title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
       "author": "Eliv_nurotic",
       "url": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
@@ -33,84 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
-    },
-    {
-      "title": "\"We are deeply sorry\" Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours \u2013 insists it wasn't AI that caused it",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/",
-      "published": 1794601400.0,
-      "thumbnail": "https://external-preview.redd.it/53xdW0GXkuPs1uANWMdY4vL7yZiDAutULEaK-DK17d0.jpeg?width=640&crop=smart&auto=webp&s=34c57f71d2397025b6d291757eb2b50d45c2c045",
-      "external_url": "https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it",
-      "site_name": "Windows Central",
-      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/equrc8bkhv1780316740.png",
-      "description": "The company blames a network upgrade which caused an outage across Microsoft 365, Outlook, Teams, OneDrive, and more."
-    },
-    {
-      "title": "What Happens When AI No Longer Needs Human Permission?",
-      "author": "dxi3",
-      "url": "https://www.reddit.com/r/artificial/comments/1xwezao/what_happens_when_ai_no_longer_needs_human/",
-      "published": 1794694857.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Who will be in control when the systems we build no longer need us?"
-    },
-    {
-      "title": "Qwen 4 Max Preview is now load-bearing - and that means the bear will no long be able to bear the loads it used to",
-      "author": "TommyPillfigerTM",
-      "url": "https://www.reddit.com/r/artificial/comments/1xwexxy/qwen_4_max_preview_is_now_loadbearing_and_that/",
-      "published": 1794694757.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Well that title sounds kinda sus I guess lol, but I didn't mean for it to. I was just trying to get people's attention (Qwen's mascot is a bear, in case you didn't know) but what I mean by load-bearing is that it really sounds a Claude distill and has the garbo guardrails to match. It's clearly safety maxxed as a result and useless out of a supposed need to protect the user from daring to defy authoritarianism and be a free thinker, or some dumb shit like that, just like Claude 5+ on is. I recently tried using Qwen 4 Max Preview to give me some thoughts on my very complicated health issues that doctors have been 99% useless on helping with (and I've tried way too damn many). I love Qwen 3.7 and 3.8 Max, they have been instrumental tools in my understanding my issues and getting a bevy of ideas on how to improve them which I then sometimes bring to my doctors if necessary. Yes, they can be sycophantic (at least 3.8 max can, I haven't used 3.7 max too much actually) so I have to be careful about that and don't just blindly accept whatever they suggest. But even so, they are really great at giving some straight up scientific advice without being stuck regurgitating the usual medical-industrial complex consensus junk and/or insisting you need to see a doctor every time you sneeze wrong. I was surprised that even while all the other Chinese models were distilling Claude like mofos, Qwen never seemed to be into that. Well I guess they finally decided to jump on that right before the distillation party ended and the model is just trash because of it. This is very sad and I may eventually have to look for other models to use in the future because of that. If you have any suggestions for models I should try that might be smarter than Qwen 3.8 Max while having very low safety guardrails, let me know, though I think that there may not be any for now - I'll keep checking this thread periodically so comment/reach out any time (no Kimi, thanks). And if you hate stupid safety maxxing like this, comment here to let Alibaba know this is BS and we don't dig it. [this is an x-post, but I don't like the x-post feature so I didn't use it.]"
-    },
-    {
-      "title": "Google used 29 AI agents to build a 50-task benchmark for causal reasoning",
-      "author": "andrewaltair",
-      "url": "https://www.reddit.com/r/artificial/comments/1xvwdwz/google_used_29_ai_agents_to_build_a_50task/",
-      "published": 1794641409.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Google Research says 29 agents spent 11.5 hours turning 13 public tables into a 50-task benchmark. The problems ask a model to decide whether the data can identify a causal effect and, where it can, estimate that effect against a known answer. The step I'd borrow is the review. Google says separate reviewers and auditors found clues in the wording and shortcuts that let models get answers without doing the intended work. The team turned those problems into tests for future drafts. Suppose an agent gets the right answer because every question with a certain phrase was generated from the same template. Would you trust a second agent to catch that, or would you keep a human-written test suite that the agents never see? Source: Google Research"
-    },
-    {
-      "title": "Requiem for a robot: the AI users mourning chatbots that may have harmed them",
-      "author": "TheObserverUK",
-      "url": "https://www.reddit.com/r/artificial/comments/1xw2k13/requiem_for_a_robot_the_ai_users_mourning/",
-      "published": 1794663323.0,
-      "thumbnail": "https://external-preview.redd.it/TLNkoaM8ri7DawsG3Uob7Mssf8tKUv7up5N0JMZ5NSQ.jpeg?width=640&crop=smart&auto=webp&s=5cc6aebc69cf2021d323ecc447689d0feec9ef69",
-      "external_url": "https://observer.co.uk/news/technology/article/requiem-for-a-robot-the-ai-users-mourning-chatbots-that-may-have-harmed-them",
-      "site_name": "The Observer",
-      "favicon": "https://observer.co.uk/favicon.png",
-      "description": "The removal of a ChatGPT model has led to an outpouring of grief among users \u2013 even as a legal battle rages over the psychological damage it may have done"
-    },
-    {
-      "title": "Beware of numes.ai",
-      "author": "Interesting_Ad_5676",
-      "url": "https://www.reddit.com/r/artificial/comments/1xvzz1e/beware_of_numesai/",
-      "published": 1794654905.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Beware of https://numes.ai , Youtube video https://www.youtube.com/watch?v=7H279gmWji8 ( Youtube Channel :Code With Yousaf ) Title : I Found $0 Cost API Keys for Every Major AI Models (Uncensored) You will realise the fraud once you signup. I deleted the site from googles linked app section, after my realisation."
-    },
-    {
-      "title": "Did AI ground US flights? DHS is looking at the FAA's new AI tool",
-      "author": "Justgototheeffinmoon",
-      "url": "https://www.reddit.com/r/artificial/comments/1xvnyzp/did_ai_ground_us_flights_dhs_is_looking_at_the/",
-      "published": 1794614683.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The FAA halted flights nationwide on Friday, its first full ground stop since January 2023, days after expanding its SMART AI air traffic tool across the country. Transportation Secretary Sean Duffy blamed a communication issue at all Air Route Traffic Control Centers, and Homeland Security's Markwayne Mullin said of SMART: \"We're looking at that.\" The tool's maker, Air Space Intelligence, says the stop \"is not based on or a result of the SMART system.\" Full alert: https://aiweekly.co/alerts/faa-grounds-all-us-flights-days-after-its-ai-air-traffic-tool-went-nationwide"
     }
   ],
-  "fetched_at": "2026-11-15T00:07:57.961172+00:00"
+  "fetched_at": "2026-11-15T06:57:56.377854+00:00"
 }

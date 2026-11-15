@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "\u2018Jensen Huang lost his mind\u2019: how AI\u2019s smartest man fell for the world\u2019s oldest trick",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDk2Z1htajVLenRVR2tqcWdOaHVDQ3JpeEgwOWx2THpNU3pwRGFrblRsVnJvVWoyZ21lbHY0WXlabFI2cm1ENWRwcXQ2anQ1akpMdkM0V0Y5Mkw1U1VHdkJwMjRkSGllV2xhcGNjODRZQ05HOFJsMnExZmx6QmJXemZrTW4tNENNUzVzRHFzb3M?oc=5",
+      "pub_date": 1794722400.0,
+      "article_url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+      "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea93f60f04e098da99d11b60a2005e68",
+      "description": "Jensen Huang\u2019s affair with a suspected spy is Silicon Valley\u2019s worst nightmare come true"
+    },
+    {
+      "headline": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRVRId0ZUcVRGRlNaOFhjRE5vUUVQWnZ6OElxc0llcUVsaXAxbDFxdXJocTh6UTc2OGN6VnZuN2sxMnZROVhnaU1aTWVVUlZLbU1KRzFYT2ljczNYTV9FTVQxWnFrS2xNdDdZQ2FHejNDUjh2d29PbHRROA?oc=5",
+      "pub_date": 1794708000.0,
+      "article_url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
+      "source": "Dallas News",
+      "source_url": "https://www.dallasnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbE10WVFud3piVllpeDVpYlI1X3JRVjRTNlliUTRKMU9IdjNqbjRXYTB5ci1XTGVsb2V4eVpMZW9MY2FHNTFnWGlsbkRCNmd2RTY1QXVnc0ROTVFiaDFLTWVyTlhmVloxVmFlUlZfTkFaamZNT0NSMjVoWVZ4NG1xeXpiRTlPc3BUNXhfeFNfbGVERXdRY21vYmo4ZThKbmVkOE1lM2kzLUxPVEZl?oc=5",
+      "pub_date": 1794725153.0,
+      "article_url": "https://www.dallasnews.com/news/politics/article/the-nvidia-scandal-is-heightening-america-s-ai-22530398.php",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "AI's four colliding crises",
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XVUFuNWM2NU96OGFfYk9lQThTUDBPZmpPV2NuYVlKVk5oSk84Wkpfdi15cjdGT2pTQzVJUVVqMTg3YXhpN1VHN0czeVhuQnMtbURJTFV1X05udEVOT05HWDVuVGZoa0xsbVlHUw?oc=5",
-      "pub_date": 1794660034.0,
+      "pub_date": 1794664109.0,
       "article_url": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
       "image": null,
       "description": null
     },
     {
-      "headline": "\u2018It\u2019s like the wild west\u2019: how AI has rocked the literary world",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmdRYmNReGlVTmdJam9WZGFxcUgxMVVMcnZQOFhrNTBVS3pWRG9qTFhWQ2ZsR3ZQSnNXZ0M0bXFxY043ZV9VN2ozaHd6RlMzVl9GLW1NU3IyRld2WDktZEZ3T095aHFBT21JT2xPUF9ha0J1a19YU2pXUGY1V2xaUTliZXpjZkFHNmJHUFBUMUFnaFJuR2RwSWZFYUozUWhTNkRuUXNVVVRIamFidG1xVjgySjRfZWZjeHdWTg?oc=5",
-      "pub_date": 1794646920.0,
-      "article_url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
-      "image": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/725_1297_5935_4748/master/5935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=117c27a2f9da3e1c4f06abfc82b06ffb",
-      "description": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?"
-    },
-    {
-      "headline": "Artificial Intelligence: Why are traditional industries adopting it?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5",
-      "pub_date": 1794700855.0,
-      "article_url": "https://www.bbc.com/news/articles/c6zjr7e2wk3xo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/56a8/live/1fb57ff0-e050-11f1-8d5a-49633fbae59d.jpg",
-      "description": "Some traditional businesses say adopting Artificial Intelligence has helped them increase their profits and workforces."
-    },
-    {
-      "headline": "The Nvidia scandal is heightening America\u2019s AI rivalry with China ahead of Trump\u2019s visit",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalY0LVRKSlZQVVJQeGZidU1VWFo0VXpuaGNQVTdST1Bfa3B0YXUyc1NjVVprRVlhTlhMZFlidzhkQ3pqbnFJRDc1aDhpYm5rRFkycV9vMzU3ckhlSTBIVXRSb2VoOVc4SVJjYjNFVlRrQ01UQmM4Sk9WcGFFUEdvbElmc1lWZlZ5UlhvQUNQV1paNWhsc2Fv?oc=5",
-      "pub_date": 1794633420.0,
-      "article_url": "https://apnews.com/article/nvidia-trump-xi-huang-ai-rivalry-aba7f92a1ec2f0f9e4b4da206d640d61",
+      "headline": "Top scorer on South Korean tax exam confesses to cheating with AI",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5",
+      "pub_date": 1794716940.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/",
       "image": null,
       "description": null
     },
     {
-      "headline": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUTd1amNDQzhvSy1kWGcwdk1CZjRGZG9rTFc4VEFRX3p2Y3VTdzd6dDRkSnJnR21nUkt1OVVlajV4R3VJTElDYUpJQlBfbzhKRFB5RUdWdEJWLVotUVJQS2hqZFpJZGpERlJFWUNJb2ZZbUtNYWVtN2pNb3liSGvSAYQBQVVfeXFMTVZlLXNUMVl0Qkc4M2ZKWGFwNnB6U05GSEw5LXlXQlNKN2MwMUg1by1Pb3pyd3JoWHRzQkcxRFJmOG45RzlzcVNybHJ0Q3VyZEtfdlctNDdZSGpYU2NlaUpIUFFrdkE2akpLdFdBRkppeFBWYk1qT0gyd3ByLXhaVmdySDYy?oc=5",
-      "pub_date": 1794671443.0,
-      "article_url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108180544-1754063406073-IMG_8872.jpg?v=1754063887&w=1920&h=1080",
-      "description": "ETF experts say Nvidia\u2019s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers."
+      "headline": "AI Cheating Scandal Prompts Blue House Policy Meeting",
+      "source": "\uc870\uc120\uc77c\ubcf4",
+      "source_url": "https://www.chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWVMVE1mLWhfY2ZfOU1oNk9rLWxBUzlWWFNmakFpUDJOYzEtc1JvNkVRN00wZGhLMGZrX0hWdXhJNThYLWRRQ1BDdTVSQ29zcFlkdXZnY2Z1c3l5aVo3M3h4LVJiWVRNd2lCWVQ1ZHBhUjZmS0ZZbEYyZHNsWXpHSW1qbnR6ODlP?oc=5",
+      "pub_date": 1794725100.0,
+      "article_url": "https://www.chosun.com/english/national-en/2026/11/15/6CR57BZO7BATDCLRAQEF2INZQ4/",
+      "image": "https://www.chosun.com/resizer/v2/TDVQNKRI4BOPDBKTKF3CTFNOIQ.jpg?auth=054bdfbfe791766ce128f6ba5ed4cc3670d60bac889f6b4e64a5ff56cc829cb1&width=1200&height=630&smart=true",
+      "description": "AI Cheating Scandal Prompts Blue House Policy Meeting Top tax accountants AI-assisted cheating confession triggers urgent CSAT countermeasures"
     },
     {
-      "headline": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
+      "headline": "Tax accountant exam's top scorer admits to AI-assisted cheating",
+      "source": "The Korea Herald",
+      "source_url": "https://www.koreaherald.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIRHVGQ0ZnU0VBUkN4eWY1bWRTUjFyTGNzeFJSVTN0bDB5Smw4Vy0yd25jYmsxWmx3Vk43RDhoR1F3aDhVOXBRcTB5U0lSZE9OenRFZWhxdw?oc=5",
+      "pub_date": 1794706816.0,
+      "article_url": "https://www.koreaherald.com/article/10937374",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/15/news-p.v1.20261115.9f3b979846644567a2bd6a5194bd0826_P1.png",
+      "description": "The top scorer in this year's tax accountant qualification exam in South Korea has turned himself in to the police and admitted to using AI to cheat. Han Won-se"
+    },
+    {
+      "headline": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
+      "pub_date": 1794721080.0,
+      "article_url": "https://apnews.com/article/flights-grounded-microsoft-ai-chaos-ea5f7a1f95a38f65dd57e58cfc17672b",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic IPO to test Wall Street\u2019s faith in AI as skepticism mounts",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa19ydHFJQ0lZZGxvWDBUbXNoakFwYUtVa0w5UXBJeHJIejFXcXlWbFJ5ajg1Y29kMnUyWjJERllXY2p2M2c1ZUhyQzVNS0xKVkQ2UDYxZ2JPRGlYWS1hdWh4MWMyVURueXV0U3BNRXV6TjZCUGtDclRnQUFrWUgtMWQtZk5LSjhnR3I5RHZCeTZUVXNTSmpFV3BsVzVuS1kw?oc=5",
-      "pub_date": 1794693600.0,
-      "article_url": "https://finance.yahoo.com/markets/commodities/articles/nvidia-without-huang-pause-ai-220000617.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7db1ed3581f96eb140601369a27f45b1a56656c428f7b6010b7b70583abf930e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F42ff60bc69cf96b5396ee57eaf883a35.jpg",
-      "description": "Copper hit a four-month low as Nvidia\u2019s Jensen Huang quit, but the bigger risk to data center metals demand may be AI financing, not chip orders."
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
+      "pub_date": 1794682579.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6087f3a33618cc9364ec82277902605bc96aab9cd3c7ceb935a01e13522c9330/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fc901758b-302c-42f6-b62a-10ece96bdfae",
+      "description": "Anthropic seeks a valuation of approximately $1.3 trillion to $1.4 trillion."
     },
     {
-      "headline": "Wealthy parents pay $75,000 for Alpha\u2019s two-hour AI school day. Half of its K-8 students missed the math target",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWVPbTBORW1yd0lRZEdVUXB4QkFVeTVZTGVWaFlqUGg5OGxtQnpucXhmdDhnSG41NkN4Y0FNenJHZHJ5SHoyYzAycThMWlVPZWNOTkliVG4wak1KZ0MxdUg2cEQ1WU1RMUloSzVreENvQ0hxZTZVREttOG5RLXpsM3ZRVjRhdw?oc=5",
-      "pub_date": 1794658200.0,
-      "article_url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2262902677.jpg?resize=1200,600",
-      "description": "Only 42% of Alpha students hit its 2x learning goal in math and reading, internal data show, as 2,600 public school students now use its software."
-    },
-    {
-      "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1JlVVdFenkyRlRoSGVaTW0zdEVYelMtMF9McU8ycFRVMzl1VDJETzRRR2RJZG1wRmhDakRZemRidkZ3akgyVkZzcDZoaGVIOG9sRkJrdmJRRUdFNDRxelgwSmRIQWFxZkowdjlBVlFWS1FFZGpYMWNWVmx5WHdzQi1KODRER2Q5RkZTcVJZaU5rZWlVUXVfV3RPTDBFQ2l3ejMyMkw0b1ZvVVl1Q0lSaU9va0ZsQ05tUmR6S251Zw?oc=5",
-      "pub_date": 1794297600.0,
-      "article_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-2560x1440.jpg",
-      "description": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved."
-    },
-    {
-      "headline": "Maricopa County judge dismisses DUI case after trooper uses AI",
-      "source": "AZ Family",
-      "source_url": "https://www.azfamily.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmZKNzJ4T3N3UlY0elhhU2hmUUhTTGlUZlZhbkhjRUcxeFNXQzBaMjdGNkpwTGRjLVR0SnpxMFc1bVFwOU1TcXJMUWVNVXJIX0FtcEZ1RTgxeDZHcF9CanhmQ1A5Nkl4N1VQOGlacE5FczJTMU5XeEVQb0pDc1Z4UVNoOXdZbS1xekxKSU1YVGNrbEZLaHJWOUdWOThhaGZn0gG0AUFVX3lxTE1JckFQazBiSkMzc1hCSVUyZ1hvQ096WmtaMW02MVhVYlRUNnNoaktteEhjaVlnU3dIRkVlandKcVdnYXhvcV9PSF9ydWZYbUhvdzlpZVhabTJPT3N2WHBYUDlkODVjbmEwWFdZakdfUm52ODR6NEJXQTJra0s1Z2tHTmhkaDVDVVVHa3lqbXljMGF0MFBhQzBJYVVPZDdxYlVad0NReTFDb1VCVlgzTF9wd19uUg?oc=5",
-      "pub_date": 1794628680.0,
-      "article_url": "https://www.azfamily.com/2026/11/14/maricopa-county-judge-dismisses-dui-case-after-trooper-uses-ai/",
-      "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/FVYIC3BXZBA3JD4T24SRKCHLU4.png?auth=54cf95b39e4a55c274f3da004ec00c85e48dbb2d5e3e20416ecac4b76d3aed07&width=1200&height=600&smart=false&focal=643%2C596",
-      "description": "More police departments across the Valley are using AI, which raises questions about what that could mean going forward."
-    },
-    {
-      "headline": "The AI boom has some parents rethinking how to save for college, or if degrees will even be worth it",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFZVVjEzZWptZ3k5V0NtUFJBUTFpV05CanBMcDd4cmtXTFhsSS1hNVczRnZrallmenkxY1YxQVpsNXk5cXVrMTV4T3hDb1ZfdU9KMkhBUGdQa1poRUFsa1ZHczJfZl9Ieml5bUNDdFN5SE55Yjd5WjEyQzRCSzdDaQ?oc=5",
-      "pub_date": 1794654000.0,
-      "article_url": "https://www.businessinsider.com/ai-kids-college-529-savings-rethink-2026-11",
-      "image": "https://i.insider.com/6af742920cc3ffba8779cdfd?width=1200&format=jpeg",
-      "description": "As AI shakes up the job market and higher education, some parents are rethinking how to save for college."
+      "headline": "Thousands turn out in Edinburgh to protest against AI data centres",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GWGc5Vk9UV0Jtd0RoQndRYnc3bWEzWks2U2ZFczBGZHdDYW5UN19XcTFKVWl2RlJuM1Y4T09DdVNlM3I0WTlWeVd4ejRJXzZTc25PVHZSYzBRVms?oc=5",
+      "pub_date": 1794676833.0,
+      "article_url": "https://www.bbc.com/news/articles/c8n50w445zgpo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a19c/live/42893b00-e03e-11f1-88e1-eb4e155225b3.jpg",
+      "description": "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-15T00:08:24.645487+00:00"
+  "fetched_at": "2026-11-15T06:58:23.753350+00:00"
 }

@@ -15,6 +15,26 @@
       "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
     },
     {
+      "headline": "A SoMa startup is building humanoid robots for war",
+      "source": "The San Francisco Standard",
+      "source_url": "https://sfstandard.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BUC1NcXR1NkxLYWhmQUhjUnZtc1lrbzhJZFZwS2J3bnB6ZjJEZU5tb2hzLXZPVkVnamZLZENLRDdhTkY4NXFRT2hVOEZGbmIzZG9PWTEwVHlxSmhXWTFEWG9aanBWZ25pMklDWFEzZlNXcDBIU3c?oc=5",
+      "pub_date": 1794664800.0,
+      "article_url": "https://sfstandard.com/2026/11/14/humanoid-war-robots-soma-startup/",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_5uac7ejb2d0e9a5tv8qnfaut0j/-C100.00%25x78.99%25%2C0.00%25%2C10.51%25-S1200x630-FPNG",
+      "description": "While rivals chase factory and household work, Foundation is courting the Pentagon."
+    },
+    {
+      "headline": "Inside Tesla\u2019s 2027 plan to put its humanoid robot Optimus to work",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR19ua1I3V1NjTXhTSW5MY2pVS0RnQk9VaGdxc2hSZVN4VTQ3UzB5TldWd21ZaUwtaVF4Mm92c29aUFQtWUd5dC1oUXctTWxOcmVNSUItX0JPSkhRZEFDTHhWRl9YVzdUVnRpaVhsVENzeUpKY2JqaWhJWUp1S21BZnQ2TkR6Mkprc2FJMVJqYzRCb0tEMy1jYWFSVGQtMWV6YzliQnRadHUzaTg?oc=5",
+      "pub_date": 1794663540.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/what-could-teslas-optimus-humanoid-robot-actually-do-in-2027",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/tesla_robot_1920x1080.jpg",
+      "description": "What will Tesla\u2019s Optimus be able to do? Watch what the humanoid robot has demonstrated. Will it be able to do laundry next?"
+    },
+    {
       "headline": "Robots recognize the shape of an arena by messaging each other",
       "source": "Tech Xplore",
       "source_url": "https://techxplore.com",
@@ -35,76 +55,56 @@
       "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
     },
     {
-      "headline": "German Gereon ground robots equipped with Ukrainian Saber combat modules enter production and delivery",
-      "source": "Ukrinform",
-      "source_url": "https://www.ukrinform.net",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLVdZdHY4Rnh0ZlBDU3lJb3RBV0FJUnR5Z05qUlE0a2RTaXFWQXB5b1Fwa0VaSDNJS2FFdDEtUjdsRUNiVm4tR09jOEMzRkVldGRlMTlkS1FwSEpFbHBORHBSRXpSeHNlYnN3NUFYb1ljUHJPa1R2NWx5clYyRGN6cWFKRjFkcG5HRzVMRjIwa3l4ajV2VDlvTW1zX0d1TWZDX29NS24weFFmQTlMVkhQVVF1YjZoQ1NsaGxkMy1yRjhOWE94U3VBVG12MlVYOXJkdnk2dHczeUYzS3NTazQycmVSZm83M0tDNlNQWtIB8gFBVV95cUxPakFSODhpcWJ1dVFVa0wtX1gxV2h1eGZFOVRVYkc4eEUzckVrUko3bU1xNGlWcS11RWxkTVdDd1BNOEJJUU54aTdzbUJNRzlqbTJObHBiUFRsUkZxbE9WMHZ5RXlBTTdhNHRoc0FpbDkzNWxMcU5XSFU3eWlQY0dvTTAwdnppMmJwVjA1NGpPbXM2b2k2WXlZUk1lUkQ3RTVxVVgzMjhWeGx2M1JocHdqb2NKdEtEeF9iY1NoaGtUQXhsRmE2eG9VN25yX3ZLMjNXT2ZGWGZKRWVtdk8xOW9BYzJ3U1l0MXhZU2VvYW5TSXQwQQ?oc=5",
-      "pub_date": 1794602400.0,
-      "article_url": "https://www.ukrinform.net/rubric-defense/4184531-german-gereon-ground-robots-equipped-with-ukrainian-saber-combat-modules-enter-production-and-delivery.html",
-      "image": "https://static.ukrinform.com/photos/2026_11/thumb_files/630_360_1794561312-852.jpg",
-      "description": "German defense company ARX Robotics has begun producing and delivering Gereon unmanned ground vehicles equipped with Ukrainian-made Saber combat modules. \u2014 Ukrinform."
+      "headline": "OpenAi shuts down robot unit second time in six years, but wants everyone to know that the company is com",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNc1lDVnNWVEVUdC1zcjJLNkFWX3lTb3U0a3ZFVVFrQmI5SldvWFZvX2xJUElKMnRaUWpHenU0UnBsSmRyQlIzVGRQVmY5UDRjVmx1RFNMa0lldGUtTERick1IS09hMjJDVVJ6TGNwRjRPaEFyMHoxVi1DaFZKSGpTUm1QSm01d3JmcFpvd3AxUnUzN1JwdmJZOWdOTkt6M0dPM0VxNkt3em13SDl1QzZST0ltWEhHU2plb29uLUVMWFZ3RDFaN092NURRRFZEZEJfSU8yTGJJTWZsc1NYNnJPMlZBR2tJSF90NVRzTEt6VGlwZGI2NVlrNHZRazdRTllmem9Wdm1SWk8xbjI1UmRLaE9sRDV0TE5kOWJ4MzhSVUpsakXSAagCQVVfeXFMT1NlQXNza0pyMlJGSE9maUFOUnR0Yy14ZlNwU0ZCMjhKTUpERVo3ZGxyNUxEbGJtYm1nR0pyUGZyVWVWT3ZKdnM1LWxpcGVRMUFfVHRhM1VQd01jN1VObjV1dmc5MFoxV202SVVrZGRkTnJWbnZxUHBUdXMxRGhxdHplSTRwM3l1M3psVjVJVERfN01MUEdUcHpsZGxIVUZPbWlKbUtEaWs0QXNjakdfcHA1clZYZUpXRi1QZmpMcTFMeWoyaWctRF9yd2M2RERaMjBfaV9tQWFQVzhMUXByRUFIVHBraTdQVHRIdncyRGRvS3hibjFMVDZwM2F4Q1RXd2hWODhlSk94RWJ4eHp3SWs3enVIM2lIRFhhejZxSEdYX1dTRHRxRlk?oc=5",
+      "pub_date": 1794713820.0,
+      "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-shuts-down-robot-unit-second-time-in-six-years-but-wants-everyone-to-know-that-the-company-is-committed-to-/articleshow/135846511.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135846539,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "description": "OpenAI has disbanded its standalone robotics team for the second time in six years, folding the group into its broader research and applied organisations. While the move echoes the company's decision to wind down its original robotics division in 2020, OpenAI insists the latest reorganisation is not a retreat from robotics but rather a sign of its commitment to bringing general-purpose robots into the world, according to a Fortune report."
     },
     {
-      "headline": "Google's Antigravity agents formalise major mathematical proofs",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWc5UVpSMFRXLVB2bUVuRjlScmpWWHdvcUJLMFVZRVVoc0hoVE50dWxWUWRtUzhESGY0SlJOdlZlV2RJR1R4N3dRcG5oTS1hRTNQRmpuT0JFcEtRVWNrQW9iY2J5cU8wUEIxTEVhRnM2dE1nR3g1RkdpN2pfRGMxRHpIM3ZMY0pwZnNYdHlNQQ?oc=5",
-      "pub_date": 1794623640.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/google-antigravity-multi-agent-research",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-14T080127524-Picsart-AiImageEnhancer.jpg",
-      "description": "Google's Antigravity agents formalise major mathematical proofs and speed up software engineering."
+      "headline": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3YyTEx1S0Zlem1UbUJWeTZncjBxdDdoQ2JhWHdjU0xXN2dpV3RkX1AwM2JqaFRWSVZVR1JFbVpsUUlRWTN0TnN2TUl5OXJQTjYtTFYteHVtQzFLNkdJcnpTZHlaVnNEbjJTZWVtaDBvNFNlY1AwcVctXzBDeFNEdndlUU5aUXdoMHIzLU50MG9IN1pzamVoZHlRUE5HTzJ4?oc=5",
+      "pub_date": 1794400200.0,
+      "article_url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200",
+      "description": "Serve Robotics is breaking away from delivery app lock-in."
     },
     {
-      "headline": "Shape-Shifting Robotic \"Slugs\" Could One Day Crawl Across Alien Worlds",
-      "source": "Universe Today",
-      "source_url": "https://www.universetoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeC1iQU9MYVdEUmxuRjhvSEt2SlpmRWtxcWZwQ3dFQ2YxZWZYSGFtMFNvZFhkRDgzZVlRSU1vUFBjcGlXNndMdThlTHdCbUNZbTdnVHExTlA2X21VbkZSNXppaWZEc2ZleUZ5amZqVEdHb3hQWGpqRENVOUFabWZmWjNmc05NN2FhV3I3ZS1yc0hMdXIwblAzb0ZZNnBWRExRcXMzc3cxYW0tNlU?oc=5",
-      "pub_date": 1794589800.0,
-      "article_url": "https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds",
-      "image": "https://www.universetoday.com/article_images/videoframe_126007_20261113_170944.png",
-      "description": "Robots have been a mainstay of our early space exploration efforts. But they normally have wheels. Or in some cases, rotors. While those solutions are great on flat ground, they struggle with jagged boulders or tight crevices. So engineers have been working on alternative robotic form factors, and a recent paper in Nature Machine Intelligence from researchers at Colorado State University\u2019s Adaptive Robotics Lab, describes a unique morphology using a design principle typically seen in architecture rather than robotics - tensegrity."
+      "headline": "Gemini Robotics 2.5: Accelerating Physical Intelligence",
+      "source": "Google DeepMind",
+      "source_url": "https://deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnFDRm1lR21jZXRpR2JUak1nSUpZeU9jSXkzRFVfanhaVll4clRtdWUyZzZFeXcwb2ZiS0NsUmoxaFZkcDlGbnJqa2lIM2hBdmNqb0hPTWl4UWc2LXFXcmRPbHF4Q2VzZWQ2UG96Y1FrUzE3dkVUT0dvNHkzLWN0Y25ZR3V1SVE0TGxxb1U5YVNfRUJxc25iaVZR?oc=5",
+      "pub_date": 1794322835.0,
+      "article_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w1200-h630-n-nu-rw",
+      "description": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments."
     },
     {
-      "headline": "The PLA\u2019s Push for Military Robotics",
-      "source": "CSET | Center for Security and Emerging Technology",
-      "source_url": "https://cset.georgetown.edu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0dZWGFERUoyOWZOSnd3TzZhRVdnbW1UZzVkSENCalVNUEk1UjlQUW0xTGtGTjJnVE1mMThtX1NCeFFVZEpDYWhmT1ZUNXc2eWtJZUNCOGZHR19QY01QeG0xc1V4N0VNM1lfd0ZlQ3d5TFlXdnduUU9NN1RxNVlGQWF3?oc=5",
-      "pub_date": 1794400804.0,
-      "article_url": "https://cset.georgetown.edu/publication/the-plas-push-for-military-robotics/",
-      "image": "https://cset.georgetown.edu/wp-content/uploads/The-PLAs-Push-for-Military-Robotics_Social-Media-Card-700x366.png",
-      "description": "Drawing on over 2,000 open-source procurement documents published between October 2022 and December 2025, this report examines how the People\u2019s Liberation Army is pursuing robotics across the ground, maritime, and space domains. These include quadruped renaissance robots and ordnance disposal systems, as well as undersea platforms and satellite manipulation devices. The data reveals a military experimenting with still maturing, mostly human-controlled systems. Sensors, navigation, and software will likely matter as much as hardware for Beijing\u2019s military robotics ambitions."
+      "headline": "Can we predict the jobs robots will do?",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
+      "pub_date": 1790751600.0,
+      "article_url": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "image": "https://assets.claude.com/e8b4129cd355d3af158f0052ff602e5b0a9c603c.jpg",
+      "description": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%."
     },
     {
-      "headline": "Humble Robotics: $51M Fuels Autonomous Electric Freight Future",
-      "source": "FreightWaves",
-      "source_url": "https://www.freightwaves.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVVOWXVXcUNUVmtTYTF2bmlPTGNMcFE2dGpxdnkyZVlBUjRxR193Z1JJdDQ5QXU1SmhoeHhrRFBJR0pHcFFKdHhueUxaRGNLbEFROU5xOEw4M01Ydlc5M2hoVTE4UXg2d0EwRi1fMlJkMlZ2aEkzY0p2czgxQUY1YlN0UVFnNGpidlR0RV9KaEhORTh1MmdhYlNn?oc=5",
-      "pub_date": 1794599123.0,
-      "article_url": "https://www.freightwaves.com/news/humble-robotics-51m-fuels-autonomous-electric-freight-future",
-      "image": "https://www.freightwaves.com/wp-content/uploads/2026/11/13/fwtv-Z6Z9OBNMBIw.jpg",
-      "description": "Humble Robotics is shaking up short-haul logistics with a massive $51 million Series A funding round. Founder & CEO Eyal Cohen unveils the vision"
-    },
-    {
-      "headline": "2 AI Robotics Stocks That Could Help Set You Up for Life",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE4xSVpReDNHbWNmSUZjVXNSWjZjekpsdnd6WVBQWW1mc19majZvWHBFVXFYaC1pQWY4bVVoVzZlZXNyN1JfQ3pXcnhqUGkwQzFNc3RVbkVDZ2lmSjd5YVNxVnhhMFZlUEp1eEJIb19wb3hsc3FLSVFjNGJsSlAteGY3NXFGNmJkUHNfU3F6LUhMNFlSc1hQTQ?oc=5",
-      "pub_date": 1794484500.0,
-      "article_url": "https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892868%2Fgettyimages-1515913422-1200x800-5b2df79.jpg&w=1200&op=resize",
-      "description": "While AI models and chips take center stage, the AI robotics boom is silently building."
-    },
-    {
-      "headline": "Narwal builds robot vacuums to serve regional needs",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalVyRmJEZ196QVZ1Vm1CZjFCc2FFbDkySEl5SWF3QURWSGhNY3Q0ZGItUHM4MVpFZzZfMGs0ZmlaUk9fa2JBX2xXUlRxc2NuWlNHSFc0bUhyek1uSDk2MXVVb01DSVQwMldja2Y0dHNJc1M2b3ZobGZ2MGcwcTJYRWJWZHpXeG1DNDlJ?oc=5",
-      "pub_date": 1794594069.0,
-      "article_url": "https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/Narwal_robot_mop.jpg",
-      "description": "Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets."
+      "headline": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3MyTFROblZMTFFXWGdlN0ZSY2ZZdVBWX2UySVBTRU5JbUNEZHpHcXRXYlBHMHV0czg4ODVvZm4tZ0pjdTFZNGJmalBYR3VZQjJlWVRINS1HRF9HRHdEQUlXTGJvS2NsNDJQZW1teVFDQTgyUnk1dTVkd080VDZoMFc2RmJiTEcxMXJBYTZnajBnajB0VWs0OW9EWExuZm01VWtfR3dWWUMzNk0?oc=5",
+      "pub_date": 1790233200.0,
+      "article_url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
+      "description": "Feather is betting on a customizable, $30,000 platform built for software developers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-15T00:08:23.668344+00:00"
+  "fetched_at": "2026-11-15T06:58:17.112942+00:00"
 }
