@@ -16,7 +16,7 @@
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 11407,
+      "github_stars": 11633,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 23876,
+      "github_stars": 23904,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 6105,
+      "github_stars": 6121,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
@@ -88,12 +88,31 @@
       "hf_url": "https://huggingface.co/papers/2611.12806",
       "arxiv_url": "https://arxiv.org/abs/2611.12806",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12806.png",
-      "upvotes": 102,
+      "upvotes": 103,
       "num_comments": 2,
       "published_at": "2026-11-08T19:00:00.000Z",
       "github_repo": "https://github.com/Robbyant/lingbot-touch",
       "github_stars": 533,
       "project_page": "https://technology.robbyant.com/lingbot-touch"
+    },
+    {
+      "id": "2604.05018",
+      "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
+      "authors": "Yiwen Song, Yale Song, Tomas Pfister et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Synthesizing unstructured research materials into manuscripts is an essential yet under-explored challenge in AI-driven scientific discovery. Existing autonomous writers are rigidly coupled to specific experimental pipelines, and produce superficial literature reviews. We introduce PaperOrchestra, a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials into submission-ready LaTeX manuscripts, including comprehensive literature synthesis and generated visuals, such as plots and conceptual diagrams. To evaluate performance, we present PaperWritingBench, the first standardized benchmark of reverse-engineered raw materials from 200 top-tier AI conference papers, alongside a comprehensive suite of automated evaluators. In side-by-side human evaluations, PaperOrchestra significantly outperforms autonomous baselines, achieving an absolute win rate margin of 50%-68% in literature review quality, and 14%-38% in overall manuscript quality.",
+      "ai_summary": "PaperOrchestra is a multi-agent framework that converts unstructured research materials into complete LaTeX manuscripts with literature synthesis and visual elements, outperforming existing autonomous writing systems in human evaluations.",
+      "hf_url": "https://huggingface.co/papers/2604.05018",
+      "arxiv_url": "https://arxiv.org/abs/2604.05018",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.05018.png",
+      "upvotes": 3,
+      "num_comments": 0,
+      "published_at": "2026-04-05T20:00:00.000Z",
+      "github_repo": "https://github.com/google-research/paper-orchestra",
+      "github_stars": 516,
+      "project_page": "https://yiwen-song.github.io/paper_orchestra/"
     },
     {
       "id": "2611.10649",
@@ -111,8 +130,27 @@
       "num_comments": 2,
       "published_at": "2026-11-06T19:00:00.000Z",
       "github_repo": "https://github.com/huawei-csl/MACaQ",
-      "github_stars": 237,
+      "github_stars": 264,
       "project_page": "https://huawei-csl.com/blog/macaq/"
+    },
+    {
+      "id": "2611.09501",
+      "title": "e-means: outperforming k-means (in one-tenth the epochs)",
+      "authors": "Swann Bessa, Pierre-Emmanuel Mazar\u00e9, Gergely Szilvasy et al. (7 authors)",
+      "organization_name": "meta",
+      "organization_fullname": "Meta",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Yq_gbM7i78tR3nfEvcwSA.png",
+      "summary": "Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving average optimization procedure for k-means with mini-batch updates, powered by modern deep learning machinery and new insights. We also establish scaling laws on how decay rate and batch size impact final performance. This gives us a formulaic rule to fix them for multiple problem sizes and embedding datasets, without the need for any hyperparameter sweep. The resulting clustering algorithm, coined e-means, is much faster than Lloyd k-means and converges to lower losses, frequently even beating k-means++. On a wide array of embeddings datasets, it beats the loss of Lloyd k-means at 25 epochs in 1.4 to 2.6 epochs, which translates to 10-45x GPU wall-clock speedups compared to state-of-the-art k-means implementations. As an example, e-means partitions DINO10B, a dataset of 10 billion DINO embeddings, into 16 million clusters in only 2.5 epochs, reaching a loss below Lloyd's at 25 epochs.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2611.09501",
+      "arxiv_url": "https://arxiv.org/abs/2611.09501",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.09501.png",
+      "upvotes": 12,
+      "num_comments": 3,
+      "published_at": "2026-11-05T19:00:00.000Z",
+      "github_repo": "https://github.com/facebookresearch/faiss",
+      "github_stars": 41668,
+      "project_page": "https://e-means.github.io/"
     },
     {
       "id": "2508.02739",
@@ -130,46 +168,8 @@
       "num_comments": 5,
       "published_at": "2025-08-02T09:15:59.000Z",
       "github_repo": "https://github.com/shiyu-coder/Kronos",
-      "github_stars": 47785,
+      "github_stars": 47814,
       "project_page": null
-    },
-    {
-      "id": "2611.09501",
-      "title": "e-means: outperforming k-means (in one-tenth the epochs)",
-      "authors": "Swann Bessa, Pierre-Emmanuel Mazar\u00e9, Gergely Szilvasy et al. (7 authors)",
-      "organization_name": "meta",
-      "organization_fullname": "Meta",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Yq_gbM7i78tR3nfEvcwSA.png",
-      "summary": "Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving average optimization procedure for k-means with mini-batch updates, powered by modern deep learning machinery and new insights. We also establish scaling laws on how decay rate and batch size impact final performance. This gives us a formulaic rule to fix them for multiple problem sizes and embedding datasets, without the need for any hyperparameter sweep. The resulting clustering algorithm, coined e-means, is much faster than Lloyd k-means and converges to lower losses, frequently even beating k-means++. On a wide array of embeddings datasets, it beats the loss of Lloyd k-means at 25 epochs in 1.4 to 2.6 epochs, which translates to 10-45x GPU wall-clock speedups compared to state-of-the-art k-means implementations. As an example, e-means partitions DINO10B, a dataset of 10 billion DINO embeddings, into 16 million clusters in only 2.5 epochs, reaching a loss below Lloyd's at 25 epochs.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2611.09501",
-      "arxiv_url": "https://arxiv.org/abs/2611.09501",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.09501.png",
-      "upvotes": 11,
-      "num_comments": 3,
-      "published_at": "2026-11-05T19:00:00.000Z",
-      "github_repo": "https://github.com/facebookresearch/faiss",
-      "github_stars": 41668,
-      "project_page": "https://e-means.github.io/"
-    },
-    {
-      "id": "2508.19205",
-      "title": "VibeVoice Technical Report",
-      "authors": "Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)",
-      "organization_name": "MicrosoftResearch",
-      "organization_fullname": "Microsoft Research",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
-      "summary": "This report presents VibeVoice, a novel model designed to synthesize\nlong-form speech with multiple speakers by employing next-token diffusion,\nwhich is a unified method for modeling continuous data by autoregressively\ngenerating latent vectors via diffusion. To enable this, we introduce a novel\ncontinuous speech tokenizer that, when compared to the popular Encodec model,\nimproves data compression by 80 times while maintaining comparable performance.\nThe tokenizer effectively preserves audio fidelity while significantly boosting\ncomputational efficiency for processing long sequences. Thus, VibeVoice can\nsynthesize long-form speech for up to 90 minutes (in a 64K context window\nlength) with a maximum of 4 speakers, capturing the authentic conversational\n``vibe'' and surpassing open-source and proprietary dialogue models.",
-      "ai_summary": "VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.",
-      "hf_url": "https://huggingface.co/papers/2508.19205",
-      "arxiv_url": "https://arxiv.org/abs/2508.19205",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.19205.png",
-      "upvotes": 186,
-      "num_comments": 10,
-      "published_at": "2025-08-26T13:09:12.000Z",
-      "github_repo": "https://github.com/microsoft/VibeVoice",
-      "github_stars": 57174,
-      "project_page": "https://microsoft.github.io/VibeVoice/"
     },
     {
       "id": "2309.06180",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-15T00:08:09.559509+00:00"
+  "fetched_at": "2026-11-15T06:58:02.248127+00:00"
 }
