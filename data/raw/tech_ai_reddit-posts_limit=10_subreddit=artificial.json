@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "One Router Grounded America? Seriously? Are you sure it wasn\u2019t Rogue AI or a Hack?",
+      "author": "SuzannahB1001",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwd18l/one_router_grounded_america_seriously_are_you/",
+      "published": 1794689649.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So apparently the Trump administration is blaming a faulty router for grounding flights across America. A router. Seriously? Of course a router can cause network failures, but how the hell does critical national aviation infrastructure lack the safeguards to prevent one failure cascading across the system? And who in their right mind schedules an upgrade at 3 pm on a Friday afternoon? I seriously smell a rat because the explanation raises more concerns than answers? Is America being gaslit?"
+    },
+    {
       "title": "Could AI handle public transit information calls?",
       "author": "MortallyConvincing",
       "url": "https://www.reddit.com/r/artificial/comments/1xw6eqj/could_ai_handle_public_transit_information_calls/",
@@ -33,6 +44,28 @@
       "site_name": "Windows Central",
       "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/equrc8bkhv1780316740.png",
       "description": "The company blames a network upgrade which caused an outage across Microsoft 365, Outlook, Teams, OneDrive, and more."
+    },
+    {
+      "title": "What Happens When AI No Longer Needs Human Permission?",
+      "author": "dxi3",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwezao/what_happens_when_ai_no_longer_needs_human/",
+      "published": 1794694857.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Who will be in control when the systems we build no longer need us?"
+    },
+    {
+      "title": "Qwen 4 Max Preview is now load-bearing - and that means the bear will no long be able to bear the loads it used to",
+      "author": "TommyPillfigerTM",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwexxy/qwen_4_max_preview_is_now_loadbearing_and_that/",
+      "published": 1794694757.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Well that title sounds kinda sus I guess lol, but I didn't mean for it to. I was just trying to get people's attention (Qwen's mascot is a bear, in case you didn't know) but what I mean by load-bearing is that it really sounds a Claude distill and has the garbo guardrails to match. It's clearly safety maxxed as a result and useless out of a supposed need to protect the user from daring to defy authoritarianism and be a free thinker, or some dumb shit like that, just like Claude 5+ on is. I recently tried using Qwen 4 Max Preview to give me some thoughts on my very complicated health issues that doctors have been 99% useless on helping with (and I've tried way too damn many). I love Qwen 3.7 and 3.8 Max, they have been instrumental tools in my understanding my issues and getting a bevy of ideas on how to improve them which I then sometimes bring to my doctors if necessary. Yes, they can be sycophantic (at least 3.8 max can, I haven't used 3.7 max too much actually) so I have to be careful about that and don't just blindly accept whatever they suggest. But even so, they are really great at giving some straight up scientific advice without being stuck regurgitating the usual medical-industrial complex consensus junk and/or insisting you need to see a doctor every time you sneeze wrong. I was surprised that even while all the other Chinese models were distilling Claude like mofos, Qwen never seemed to be into that. Well I guess they finally decided to jump on that right before the distillation party ended and the model is just trash because of it. This is very sad and I may eventually have to look for other models to use in the future because of that. If you have any suggestions for models I should try that might be smarter than Qwen 3.8 Max while having very low safety guardrails, let me know, though I think that there may not be any for now - I'll keep checking this thread periodically so comment/reach out any time (no Kimi, thanks). And if you hate stupid safety maxxing like this, comment here to let Alibaba know this is BS and we don't dig it. [this is an x-post, but I don't like the x-post feature so I didn't use it.]"
     },
     {
       "title": "Google used 29 AI agents to build a 50-task benchmark for causal reasoning",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "The FAA halted flights nationwide on Friday, its first full ground stop since January 2023, days after expanding its SMART AI air traffic tool across the country. Transportation Secretary Sean Duffy blamed a communication issue at all Air Route Traffic Control Centers, and Homeland Security's Markwayne Mullin said of SMART: \"We're looking at that.\" The tool's maker, Air Space Intelligence, says the stop \"is not based on or a result of the SMART system.\" Full alert: https://aiweekly.co/alerts/faa-grounds-all-us-flights-days-after-its-ai-air-traffic-tool-went-nationwide"
-    },
-    {
-      "title": "This AI finds patterns in visual brain activity and turns them into pictures",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1xvissf/this_ai_finds_patterns_in_visual_brain_activity/",
-      "published": 1794601773.0,
-      "thumbnail": "https://external-preview.redd.it/1OUP9IvnXtCshk_NTBs5YpLHyn6l2sKbVqfo_Mmm2bY.jpeg?width=640&crop=smart&auto=webp&s=97a471c58e210c4362dc7774de9df1e9ddda0ae6",
-      "external_url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=app.dashsocial.com/live-science/library/media/746552371",
-      "site_name": "Live Science",
-      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/ze6kddeaxb1774625505.png",
-      "description": "\"An artificial intelligence (AI) tool can use brain scans to recreate the images people looked at with eerie accuracy. The system, called Brain-IT, uses data from functional magnetic resonance imaging (fMRI) to measure activity in the visual cortex, the part of the brain that processes visual input. A computer model then predicts both the broad layout of an image and high-level information about its content. It then passes those predictions to an AI image generator, researchers explained in a study uploaded to the preprint database arXiv. The research was presented at the ICLR 2026 conference, held April 23-25, and publicized by its authors in September.\" - Live Science"
-    },
-    {
-      "title": "Former US AI Czar David Sacks says there\u2019s no evidence that Alice Huang was a Chinese Spy",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/",
-      "published": 1794543440.0,
-      "thumbnail": "https://preview.redd.it/bco2r5cx2b1i1.jpeg?width=640&crop=smart&auto=webp&s=ecdbab60cc76a27a32246f5a3b254b9ac47faf9b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://fixupx.com/DavidSacks/status/2121070881258504395 CNN article making the same argument https://fixupx.com/NatashaBertrand/status/2121009555303759969"
-    },
-    {
-      "title": "What's the most boring task you'd hand to an agent if it actually worked?",
-      "author": "Input-X",
-      "url": "https://www.reddit.com/r/artificial/comments/1xvqnst/whats_the_most_boring_task_youd_hand_to_an_agent/",
-      "published": 1794622547.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm building AIPass, an open-source multi-agent system that runs on your own Linux machine \u2014 18 agents, they wake up in the evening, check email, fix bugs, optimise stuff, all from your phone with no cloud account. But I'm curious what you'd actually use it for. Not the sexy demo stuff. The boring, repetitive, \"I hate doing this every week\" stuff. For me it was: triaging email, keeping docs honest when the code changes, and running the same checks over and over without me having to remember. What would you hand off first if you trusted it to just work?"
     }
   ],
-  "fetched_at": "2026-11-14T20:27:42.370135+00:00"
+  "fetched_at": "2026-11-15T00:07:57.961172+00:00"
 }

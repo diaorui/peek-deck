@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-11-08T19:00:00.000Z",
       "github_repo": "https://github.com/Robbyant/lingbot-touch",
-      "github_stars": 507,
+      "github_stars": 533,
       "project_page": "https://technology.robbyant.com/lingbot-touch"
     },
     {
@@ -115,25 +115,6 @@
       "project_page": "https://huawei-csl.com/blog/macaq/"
     },
     {
-      "id": "2611.09501",
-      "title": "e-means: outperforming k-means (in one-tenth the epochs)",
-      "authors": "Swann Bessa, Pierre-Emmanuel Mazar\u00e9, Gergely Szilvasy et al. (7 authors)",
-      "organization_name": "meta",
-      "organization_fullname": "Meta",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Yq_gbM7i78tR3nfEvcwSA.png",
-      "summary": "Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving average optimization procedure for k-means with mini-batch updates, powered by modern deep learning machinery and new insights. We also establish scaling laws on how decay rate and batch size impact final performance. This gives us a formulaic rule to fix them for multiple problem sizes and embedding datasets, without the need for any hyperparameter sweep. The resulting clustering algorithm, coined e-means, is much faster than Lloyd k-means and converges to lower losses, frequently even beating k-means++. On a wide array of embeddings datasets, it beats the loss of Lloyd k-means at 25 epochs in 1.4 to 2.6 epochs, which translates to 10-45x GPU wall-clock speedups compared to state-of-the-art k-means implementations. As an example, e-means partitions DINO10B, a dataset of 10 billion DINO embeddings, into 16 million clusters in only 2.5 epochs, reaching a loss below Lloyd's at 25 epochs.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2611.09501",
-      "arxiv_url": "https://arxiv.org/abs/2611.09501",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.09501.png",
-      "upvotes": 11,
-      "num_comments": 3,
-      "published_at": "2026-11-05T19:00:00.000Z",
-      "github_repo": "https://github.com/facebookresearch/faiss",
-      "github_stars": 41638,
-      "project_page": "https://e-means.github.io/"
-    },
-    {
       "id": "2508.02739",
       "title": "Kronos: A Foundation Model for the Language of Financial Markets",
       "authors": "Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)",
@@ -151,6 +132,25 @@
       "github_repo": "https://github.com/shiyu-coder/Kronos",
       "github_stars": 47785,
       "project_page": null
+    },
+    {
+      "id": "2611.09501",
+      "title": "e-means: outperforming k-means (in one-tenth the epochs)",
+      "authors": "Swann Bessa, Pierre-Emmanuel Mazar\u00e9, Gergely Szilvasy et al. (7 authors)",
+      "organization_name": "meta",
+      "organization_fullname": "Meta",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Yq_gbM7i78tR3nfEvcwSA.png",
+      "summary": "Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving average optimization procedure for k-means with mini-batch updates, powered by modern deep learning machinery and new insights. We also establish scaling laws on how decay rate and batch size impact final performance. This gives us a formulaic rule to fix them for multiple problem sizes and embedding datasets, without the need for any hyperparameter sweep. The resulting clustering algorithm, coined e-means, is much faster than Lloyd k-means and converges to lower losses, frequently even beating k-means++. On a wide array of embeddings datasets, it beats the loss of Lloyd k-means at 25 epochs in 1.4 to 2.6 epochs, which translates to 10-45x GPU wall-clock speedups compared to state-of-the-art k-means implementations. As an example, e-means partitions DINO10B, a dataset of 10 billion DINO embeddings, into 16 million clusters in only 2.5 epochs, reaching a loss below Lloyd's at 25 epochs.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2611.09501",
+      "arxiv_url": "https://arxiv.org/abs/2611.09501",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.09501.png",
+      "upvotes": 11,
+      "num_comments": 3,
+      "published_at": "2026-11-05T19:00:00.000Z",
+      "github_repo": "https://github.com/facebookresearch/faiss",
+      "github_stars": 41668,
+      "project_page": "https://e-means.github.io/"
     },
     {
       "id": "2508.19205",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-14T20:27:53.917933+00:00"
+  "fetched_at": "2026-11-15T00:08:09.559509+00:00"
 }

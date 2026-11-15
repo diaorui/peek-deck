@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
+      "pub_date": 1794696414.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -15,56 +25,6 @@
       "description": null
     },
     {
-      "headline": "Meet \u2018Captain Keel,\u2019 the 37-year-old steering a Bitcoin miner into the AI data center gold rush",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWN4LUNvR3dwMFktYVFpRmZuM3MyLWhCakVVQUJjbkIwTzI3Qk1qa2Njd2lPYU1pYVdHVGRSbmdnZjBMZkZVbkt5ZHAxLXBYdVZmcXVMakxtTnRjRFFPRmgyUDNzWS1oQnI2dFN2cm9FaF9IczdjZ1dMTlhJbF9DRkt4RlpFVGkxVk1xUGYtRFk?oc=5",
-      "pub_date": 1794650400.0,
-      "article_url": "https://fortune.com/2026/11/14/ben-gagnon-keel-infrastructure-ai-data-center-gold-rush/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/7D0A7613-horizontal-crop.jpg?resize=1200,600",
-      "description": "Ben Gagnon is turning Bitfarms into Keel Infrastructure, swapping crypto for the one thing AI giants can\u2019t get enough of: power."
-    },
-    {
-      "headline": "Which Crypto Use Cases Are Actually Growing? Jeff Dorman Says Bitcoin Isn\u2019t One",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3BGOGFqeUZRZ3NqR09qcXVjNGdwT3V6YWFLd0h1TlppV01wOUxhRFZCckdCYUtWMjByQjV5eWFfVkJGbkEtV3VkS2tSandNWlNrN0VKdU00czcxbEJlS2k2S2pyX2RSb0l1YnU0SHdNN05XMjQ2X2VZR2ZGY29GWFhjTzVQb0Fn?oc=5",
-      "pub_date": 1794686427.0,
-      "article_url": "https://finance.yahoo.com/video/crypto-cases-actually-growing-jeff-200027013.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5585a5ecbad05e4b0c78a4237df7da04a21754f1ea820de5bc3f79391812320d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F83ba55ca3aca78f80b441a3a80abdc1d.png",
-      "description": "Jeff Dorman, Chief Investment Officer and co-founder of Arca, says stablecoins, tokenization and DeFi are the only crypto use cases clearly growing, and that Bitcoin offers exposure to none of them."
-    },
-    {
-      "headline": "What Happens if Bitcoin Falls Below $65,000?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU5FLVVqc3hPOGpWOFBKZjNqSDlKZ0dUMFJseXR1X2twNXpHdjlFa1lQc25mRjJaU0dGUmpEMVBKVDlIYVlFSVRvNkRnRVRkRWNMaGJGQjUzQlRQUlZFdGw3QXo5V3RQV25tOTZ6aDktdVM0S1ZhRGQxQnJWSFhnOUJ5alNnNHlRdDhDMmhlV3Z0cWd4MnREU0lscw?oc=5",
-      "pub_date": 1794686824.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/happens-bitcoin-falls-below-65-200704677.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7d342377785e4da48a6cdeffcdfad1e7e88a75bc42a77d47c3f7c282017fbc05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F909991c829a93477ef4a8a8b666e6cdd.jpg",
-      "description": "Bitcoin is hovering just above a line that miners, ETF investors, and the world's biggest corporate holder all watch closely. Three support levels stand between a bounce and a deeper slide, and analysts disagree sharply on where the floor sits."
-    },
-    {
-      "headline": "UK pays wind farms to switch off. Crypto advocates say bitcoin miners can fix it.",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2dSTVgteC1yX2VlNTZtTVNGSDBmZGIxQjhKN3VZclU2UDh2NEpBak40REhBcm41REFGaHBKQ3pZcnlyaWZPc2FJVnJiZ3pZWFUtSHM3ZG0wbnJDNEg2a1hoTkkwOXJfVUl6aWdKRm1pVGVHVHBlOGpMYWhKaExDeW9rdi1DRWp5OEhQS3pZWEExSVJsZkpxUmtEb0VVY3dtcDJlTGphNlBnNmFWSTNEUko5cWgtcUdWTkM3REU2ZUVrMEsxdlFhM0k1aHI0OFNvV2hR?oc=5",
-      "pub_date": 1794661200.0,
-      "article_url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenp5c0wxeVNoM3R5Vk5KZERkZVJ1NjhqUllaM3lzUW52c3BVRzRMc0xMbTRIeV9XWGRXc0VfT0szOE1FbkxSOE5wMXJwTlVNQTBxbUQ5aEliQWZqTVJpVXdFc01XRWhWTC1zVHlLRngyUGpUZVQ2REs4U19INFp4ZF9Cd0tEazN4b3dKd2d5ekZtQ2Y4ekZkOU96WQ?oc=5",
-      "pub_date": 1794672647.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-crashed-toward-66-161047479.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1bfcf6108ab519957793987129f474bb9159c8cc986e40c5cd8d9c2f75e1c302/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8f0c481fcbf5e68bad448d0b2ac15356.jpg",
-      "description": "Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bottom suggest the first flush rarely ends the pain. Three catalysts and two price lines will decide whether the old highs come back or the floor drops again."
-    },
-    {
       "headline": "Most Investors Are Wrong About Who Owns the Most Bitcoin. That Misunderstanding Is a Buying Opportunity.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -73,16 +33,6 @@
       "article_url": "https://www.fool.com/investing/2026/11/14/most-investors-are-wrong-about-who-owns-the-most-b/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889598%2Fgettyimages-1214175996-1200x800-5b2df79.jpg&w=1200&op=resize",
       "description": "The largest Bitcoin holder is likely a surprise to most investors."
-    },
-    {
-      "headline": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkZIQTA4ZnRvTHpyc1RTMUp3RWw2aDNBNXNXdnJRRmlqMmxIekNVWmpPN2pOallua2JpNDZQcFZ6QlZKbWlMVjdFMXJIblowclhFdFRBMno3Wld0RUFuT1FhMDhCQ3l0SmF1OV9ZUTdVdWozY0pyYnFLdmNGSWY0WGVCQjRndHlXdXJhb0txcWN6QmV6V0gyUVZxd1Eyb0JqaWNqS2RkdFV5MmNwZEtQR0hEOU5CMzFZTnRHNDh2MVF3SlVQejQzVlpnQzdNZw?oc=5",
-      "pub_date": 1794668429.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
-      "image": null,
-      "description": null
     },
     {
       "headline": "\u2018Don't Wait\u2019\u2014Bitcoin Suddenly In Free Fall As Price \u2018Collapse\u2019 Fears Trigger Surprise $2 Trillion Crypto Crash",
@@ -103,8 +53,58 @@
       "article_url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkZIQTA4ZnRvTHpyc1RTMUp3RWw2aDNBNXNXdnJRRmlqMmxIekNVWmpPN2pOallua2JpNDZQcFZ6QlZKbWlMVjdFMXJIblowclhFdFRBMno3Wld0RUFuT1FhMDhCQ3l0SmF1OV9ZUTdVdWozY0pyYnFLdmNGSWY0WGVCQjRndHlXdXJhb0txcWN6QmV6V0gyUVZxd1Eyb0JqaWNqS2RkdFV5MmNwZEtQR0hEOU5CMzFZTnRHNDh2MVF3SlVQejQzVlpnQzdNZw?oc=5",
+      "pub_date": 1794668429.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Whale's Insight: Bitcoin, Nvidia, And Strategy, What\u2019s Changing In Crypto? (BTC-USD)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQnJsWVQxMkFqOGdHNG5VVy02Y2VKbnIyZEVzanBnX2VEeDVUSjN0SkdVODJ3MWp2d0Z2eXVRQ1B0RXU2b3BHcW81NHBWbEdZZWFRVVNhVTctZlRGLXgzc2ZuU2p2RTRYcmZuazFKYVZIY2VzLUNJcTI3NHRiY25uQ281WktmZGU2cl9SOHhja1AweGNmUVhKS3hyNHo5V1NoSTV3OThndlc?oc=5",
+      "pub_date": 1794642300.0,
+      "article_url": "https://seekingalpha.com/article/4968161-whale-insight-bitcoin-nvidia-strategy-what-is-changing-in-crypto",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194779803/image_2194779803.jpg?io=getty-c-og",
+      "description": "NVDA has fallen nearly 33% in a month, while hotter CPI pushed December Fed hike expectations higher."
+    },
+    {
+      "headline": "Bitcoin Price Prediction: Where Could Bitcoin Be by Year-End?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUctQi1aNE1BYWZpSk5FS0dxd0FSY2Rmb1ZWZ2JOMk1QLVJNR2Y2QUdjLUtpeEpfTDJ4WWxrYlMzT2t3MUFaQlFNR2Z0UnVKY3YyODdoODRndXRadFZhSUc2NjlnLVBtTV9teU02Q0h3RTdNVjJBU2NDSzlTQmc1UWN5UnF3V0R0YUhsMU9FaUliTjJZMFlsSXNIc3pMZHdFOXc1RnFta2VYdV94YUtmUXBSN3AyNGF5RkE?oc=5",
+      "pub_date": 1794693780.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-price-prediction-where-could-bitcoin-be-by-year-end/",
+      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-2259415929-huge-licensed-scaled.jpg",
+      "description": "Bitcoin needs a 21% rally to climb back to $80,000. Here are the low, middle, and high scenarios for where it might finish 2026."
+    },
+    {
+      "headline": "AI Agents Pay With Bitcoin: Lightning Labs Launches pi402",
+      "source": "Brave New Coin",
+      "source_url": "https://bravenewcoin.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc21yeTJ0b0ZvckhzRU5RSWFjX2ZBUzhWR1VtVTJ1dV94XzkwSW0taU9aOUxmOEtuMWhlaVpzTldVRmtSTnJIbmRTVW1iOWhJNG5ZT3Z3T2tIcWhjUFZ5aFBSdXVJMmViemowVF94QWZ3aDZPZmNoQjJwdjhhOTBuc0R4SUc1clFVdFE?oc=5",
+      "pub_date": 1794672039.0,
+      "article_url": "https://bravenewcoin.com/insights/ai-agents-bitcoin-lightning-labs-pi402-inference",
+      "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/lightning-ai-featured.jpg",
+      "description": "AI agents can pay for inference with Bitcoin through Lightning Labs\u2019 pi402. We explain the launch, spending controls and the adoption test ahead."
+    },
+    {
+      "headline": "Crypto Market Crashes as Bitcoin and Altcoins Slide, Fear and Greed Index Sinks to 17 and Liquidations Surge",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTG56RENCMERuRWRkLVR3a2RwdV9ubTV5X3N4RThjWTQtX3hNZ0stQ2k1WGRaMmF6TU9WTk1qQWpzdlFCTEFWUzZyU3VzOV9leHlNWklFRVNvNDFSSVdYWUFQMTlKRkxubFpvVWpBcHAxNHludnRSRlhIVHk0M2xHSnBsWU5vcTF1ZzRPQXdONnBOTnhiZmc1ajdZbUxUZUp1cFc1ZWVySWhQZlRuU0RmNE5ZUUZyNWd1WlA3bUhTX2pHSWxDd256XzlzbEJOaGhMRXMyUnpSc2JDLWdHWkxlUkxZT1BxQU5ualE?oc=5",
+      "pub_date": 1794666607.0,
+      "article_url": "https://www.benzinga.com/crypto/26/11/63273824/crypto-market-crashes-as-bitcoin-and-altcoins-slide-fear-and-greed-index-sinks-to-17-and-liquidations-surge",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-14T20:28:03.297397+00:00"
+  "fetched_at": "2026-11-15T00:08:26.687005+00:00"
 }
