@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-14T20:28:15.093214+00:00'
+updated: '2026-11-15T00:08:29.182061+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 14, 2026 at 20:28 UTC  
+**Last Updated:** November 15, 2026 at 00:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,838.99
+### $1,768.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.3%  
-**7d:** -14.1%  
-**30d:** -24.6%  
-**90d:** -4.6%  
-**1y:** -42.4%  
+**24h:** -8.5%  
+**7d:** -17.4%  
+**30d:** -26.6%  
+**90d:** -8.1%  
+**1y:** -43.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.90B
+**Market Cap:** $216.12B
 Rank #2
 
 **Circulating Supply:** 122,218,624 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.1%
+-64.3%
 
 **All-Time Low:** $0.43
-+421114.4%
++408250.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+18h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 2d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 3d ago
 
 ---
 
@@ -152,6 +152,14 @@ Hello all, We are building a tool for interfacing between wallets and users as a
 
 ## Google News: "ethereum"
 
+**[Why Is Bitcoin Crashing? BTC Breaks Below $64K as Ethereum Falls Toward $1,800](https://coinpaper.com/38863/why-is-bitcoin-crashing-btc-breaks-below-64-k-as-ethereum-falls-toward-1-800)**
+
+Bitcoin's selloff accelerates alongside Ethereum as $1.46B in weekly ETF outflows, shrinking stablecoin liquidity and Fed rate fears pressure crypto.
+
+Coinpaper • 2h ago
+
+---
+
 **[Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030](https://finance.yahoo.com/markets/crypto/articles/claude-ai-predicts-bitcoin-ethereum-184326413.html)**
 
 Both coins sit far below their peaks, and an AI model thinks one of them has a much better shot at reclaiming its crown. Which one needs the Fed's help, and which one depends entirely on the other?
@@ -162,27 +170,19 @@ Yahoo Finance • 1d ago
 
 **[Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business](https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business)**
 
-CoinDesk • 3h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree](https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/)**
+**[Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives](https://www.benzinga.com/crypto/26/11/63274152/ethereum-flashes-death-cross-as-etf-outflows-surge-futures-open-interest-dives)**
 
-Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move ‘Pure Manipulation’Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever…
-
-TradingView • 22h ago
-
----
-
-**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/)**
-
-BeInCrypto • 1d ago
+Benzinga • 4h ago
 
 ---
 
 **[Ethereum’s ERC-8415 tests tokenization’s ownership gap](https://asiatimes.com/2026/11/ethereums-erc-8415-tests-tokenizations-ownership-gap/)**
 
-Asia Times • 15h ago
+Asia Times • 19h ago
 
 ---
 
@@ -190,7 +190,15 @@ Asia Times • 15h ago
 
 A hardware malfunction at an unnamed cloud provider is disrupting Ethereum access while consensus keeps running. Here's what users should know.
 
-Crypto Briefing • 8h ago
+Crypto Briefing • 11h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree](https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/)**
+
+Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move ‘Pure Manipulation’Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever…
+
+TradingView • 1d ago
 
 ---
 
@@ -200,11 +208,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Should Ethereum Tax Its Apps Like a Nation? Arca’s Jeff Dorman Says It Has To](https://finance.yahoo.com/video/ethereum-tax-apps-nation-arca-120027725.html)**
+**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html)**
 
-Jeff Dorman, Chief Investment Officer and co-founder of Arca, agrees with Vitalik Buterin that chasing fee burn would turn Ethereum into a stock, but argues a chain that never taxes its apps can’t give its currency much value.
+Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -214,35 +222,17 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin ETFs Face $1B Exodus As Ethereum, Solana Funds Bleed: Is Institutional Crypto Demand Cracking?](https://www.tradingview.com/news/benzinga:5528d17bc094b:0-bitcoin-etfs-face-1b-exodus-as-ethereum-solana-funds-bleed-is-institutional-crypto-demand-cracking/)**
-
-U.S. spot crypto ETFs suffered a broad-based exodus in the five trading days ended Nov. 10, with all six tracked asset groups recording net outflows totaling $1.48 billion, raising fresh questions about investor confidence amid a sharp cryptocurrency market downturn.Bitcoin CRYPTO:BTCUSD ETFs bore…
-
-TradingView • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=nG5nnYwseIo)**
+**[Bitcoin &amp; Ethereum PLUNGE! Trezor Tampering Confirmed &amp; Binance Hack Update | CryptoDad LIVE Q&amp;A](https://www.youtube.com/watch?v=RLvN2c1OjZ4)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Bitcoin and Ethereum are taking a beating!* It's been a brutal week for the crypto markets, with Bitcoin plunging below ...
 
-📺 Crypto Nutshell
+📺 The CryptoDad
 
-👁️ 7K • 👍 191 • 💬 88 • ⏱️ 22:21 • 4h ago
-
----
-
-**[Ethereum’s Use Case Is Fading (Coinbase Analyst)](https://www.youtube.com/watch?v=udWRxduO4vc)**
-
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Coinbase quant ...
-
-📺 Lark Davis
-
-👁️ 11K • 👍 138 • 💬 30 • ⏱️ 12:35 • 1d ago
+👁️ 1K • 👍 89 • 7h ago
 
 ---
 
@@ -252,7 +242,17 @@ BITCOIN LIQUIDATIONS CONFIRMED (Emergency Update)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 956 • 👍 98 • 💬 22 • ⏱️ 27:23 • 44m ago
+👁️ 10K • 👍 310 • 💬 58 • ⏱️ 27:23 • 4h ago
+
+---
+
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=nG5nnYwseIo)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 17K • 👍 263 • 💬 110 • ⏱️ 22:21 • 7h ago
 
 ---
 
@@ -262,27 +262,47 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 127 • 💬 18 • ⏱️ 10:15 • 9h ago
+👁️ 2K • 👍 139 • 💬 19 • ⏱️ 10:15 • 13h ago
 
 ---
 
-**[🚀 Ethereum Gets A New Story - ETH Crypto Analysis](https://www.youtube.com/watch?v=gxlBCJK4LKE)**
+**[The Crypto Market Is Completely F*d? (nvidia latest)](https://www.youtube.com/watch?v=WJL2Ta9ZNDg)**
 
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/bCR7dFhS My Chart Software: ...
+Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
 
-📺 Bitcoin Strategy
+📺 Altcoin Daily
 
-👁️ 5K • 👍 32 • 💬 15 • ⏱️ 8:43 • 2d ago
+👁️ 69K • 👍 1K • 💬 133 • ⏱️ 9:17 • 23h ago
 
 ---
 
-**[Ethereum Is Collapsing: Is $1,910 the Bottom?](https://www.youtube.com/watch?v=atgrpjS90xQ)**
+**[Ethereum’s Use Case Is Fading (Coinbase Analyst)](https://www.youtube.com/watch?v=udWRxduO4vc)**
 
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Coinbase quant ...
 
-📺 More Crypto Online
+📺 Lark Davis
 
-👁️ 10K • 👍 205 • 💬 19 • ⏱️ 10:03 • 1d ago
+👁️ 12K • 👍 138 • 💬 30 • ⏱️ 12:35 • 2d ago
+
+---
+
+**[The Rich Are Preparing While Everyone Else Is Afraid Ethereum &amp; Bitcoin Hype During Bank Collapses](https://www.youtube.com/watch?v=ozyjlqoHf08)**
+
+Banks are collapsing, debt levels are higher than ever and it looks like we might actually see a total economic collapse on the ...
+
+📺 The Modern Investor
+
+👁️ 10K • 👍 726 • 💬 204 • ⏱️ 30:47 • 2d ago
+
+---
+
+**[BITCOIN, ETHEREUM, XRP &amp; CRYPTO CRASHING NOW!!!🚨📉#bitcoin #btc #ethereum #xrp #crypto](https://www.youtube.com/watch?v=PItwhdtL62U)**
+
+BITCOIN, ETHEREUM, XRP & CRYPTO CRASHING NOW!!!    #bitcoin #btc #ethereum #xrp #crypto.
+
+📺 Crypto AiMan
+
+👁️ 255 • 👍 5 • ⏱️ 0:49 • 1h ago
 
 ---
 
@@ -292,37 +312,17 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 Crypto Moe
 
-👁️ 4K • 👍 130 • 💬 4 • ⏱️ 11:27 • 21h ago
+👁️ 4K • 👍 138 • 💬 4 • ⏱️ 11:27 • 1d ago
 
 ---
 
-**[Crypto Collapse: Why I’m Buying $67,000 Bitcoin - Technical Analysis (BTC, ETH, ZEC, SOL, HYPE)](https://www.youtube.com/watch?v=fUZh_SYMpjA)**
+**[Ethereum Crashed to $1,896.. and My Long FILLED!!](https://www.youtube.com/watch?v=Q7VnoRZ0CjU)**
 
-No B.S. Just Charts. Bitcoin and the crypto market are in collapse mode after Bitcoin broke $75500, and Gareth Soloway shows ...
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v114 Ethereum (ETH) just crashed to its ...
 
-📺 Gareth Soloway
+📺 Marzell Crypto
 
-👁️ 111K • 👍 3K • 💬 278 • ⏱️ 11:18 • 1d ago
-
----
-
-**[Bitwise: The NYSE Just Picked Avalanche. Is Ethereum in Trouble?](https://www.youtube.com/watch?v=k7bVZQk_n9k)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 22K • 👍 384 • 💬 151 • ⏱️ 43:51 • 1d ago
-
----
-
-**[It’s Over: Nvidia CEO ‘Purposely’ Crashing The Crypto Market?](https://www.youtube.com/watch?v=WJL2Ta9ZNDg)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 63K • 👍 1K • 💬 122 • ⏱️ 9:17 • 19h ago
+👁️ 1K • 👍 14 • 💬 5 • ⏱️ 3:11 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-14T20:28:15.095707+00:00'
+updated: '2026-11-15T00:08:29.184266+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 14, 2026 at 20:28 UTC  
+**Last Updated:** November 15, 2026 at 00:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,7 +108,7 @@ Hi guys, I need help. I'm trying to make my first autonomous navigating robot wi
 
 Spent the last few weeks letting Claude Code do actual high-level hardware work: boards, enclosures, firmware, wiring harnesses, sensors, motors, etc. Boards are Python scripts that go all the way to fab files, but only if ERC/DRC come back clean and every part checks out live against LCSC. Firmware runs against a virtual twin on the PC before you ever need to spend any dollars on components. In my own project—a multi-board project with motors, dozens of sensors and a custom enclosure—it ran for weeks across several iterations, including the PCB(s), the mechanical assemblies, the control firmware, tooling, and more—with weight and balance checked on every CAD change. Since you can make decisions based on a simulation that closely simulates the physics of reality (I would say within one order of magnitude of deviation), it can easily hyper optimize for specific use cases, such as weight, power saving, functionality or precision, all at your direction. You can have it generate hundreds of different variations for a part, run them all (sometimes overnight) to get the data you need, and make the decision based on that. In my personal project I currently have around 800GB of simulation data archived after only a few weeks, but a lot of work to show for it. Stripped out my project stuff and open sourced the method + a Claude Code skill that sets it up for you. You do not need to keep using the skill, it simply is a good starting point. https://github.com/Kemerd/claude-hardware-in-the-loop With this, you can essentially create anything you'd like, test it in a virtual world, then order the parts, CNC what you need to, print what you need to, assemble it, and have it closely resemble the simulation results. Fair warning, this process can use a LOT of tokens. Make those projects you've wanted to create but haven't had the time real!
 
-10d ago
+11d ago
 
 ---
 
@@ -124,25 +124,9 @@ Fortune • 1d ago
 
 ---
 
-**[Eric Trump-partnered Robotics CEO addresses 'Terminator' fears as he sends combat humanoids into warzones](https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones)**
-
-Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone.
-
-Fox News • 1d ago
-
----
-
 **[Robots recognize the shape of an arena by messaging each other](https://techxplore.com/news/2026-11-robots-arena-messaging.html)**
 
-Tech Xplore • 6h ago
-
----
-
-**[Humanoid Robots Could Outnumber Humans by 2083 as Long as They Start Building Each Other](https://www.zmescience.com/future/humanoid-robot-population-projection/)**
-
-Robot-assisted manufacturing could trigger a population boom putting humanoid numbers on par with humanity.
-
-ZME Science • 1d ago
+Tech Xplore • 10h ago
 
 ---
 
@@ -154,25 +138,19 @@ WIRED • 3d ago
 
 ---
 
-**[$500M for Torus and Agile, $300M for Path Robotics, $130M for Mavria](https://www.axios.com/pro/climate-deals/2026/11/14/climate-deals-week-torus-path-robotics-mavria)**
+**[German Gereon ground robots equipped with Ukrainian Saber combat modules enter production and delivery](https://www.ukrinform.net/rubric-defense/4184531-german-gereon-ground-robots-equipped-with-ukrainian-saber-combat-modules-enter-production-and-delivery.html)**
 
-Axios • 7h ago
-
----
-
-**[ARX Robotics and Roboneers deliver first batch of jointly produced Rys Pro ground robots to Ukraine](https://www.ukrinform.net/rubric-defense/4184521-arx-robotics-and-roboneers-deliver-first-batch-of-jointly-produced-rys-pro-ground-robots-to-ukraine.html)**
-
-German defense company ARX Robotics and Ukrainian company Roboneers have delivered the first batch of jointly manufactured Rys Pro unmanned ground vehicles to Ukraine, even before the official establishment of their joint venture, ARX Industries. — Ukrinform.
+German defense company ARX Robotics has begun producing and delivering Gereon unmanned ground vehicles equipped with Ukrainian-made Saber combat modules. — Ukrinform.
 
 Ukrinform • 1d ago
 
 ---
 
-**[How Do I Teach My Daughter That Robots Are Not Her Friends?](https://www.thecut.com/article/teaching-daughter-robots-not-friends.html)**
+**[Google's Antigravity agents formalise major mathematical proofs](https://interestingengineering.com/ai-robotics/google-antigravity-multi-agent-research)**
 
-She treats chatbots and humanoid machines with so much kindness. I’m trying to make her stop.
+Google's Antigravity agents formalise major mathematical proofs and speed up software engineering.
 
-The Cut • 1d ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -192,6 +170,30 @@ CSET | Center for Security and Emerging Technology • 3d ago
 
 ---
 
+**[Humble Robotics: $51M Fuels Autonomous Electric Freight Future](https://www.freightwaves.com/news/humble-robotics-51m-fuels-autonomous-electric-freight-future)**
+
+Humble Robotics is shaking up short-haul logistics with a massive $51 million Series A funding round. Founder & CEO Eyal Cohen unveils the vision
+
+FreightWaves • 1d ago
+
+---
+
+**[2 AI Robotics Stocks That Could Help Set You Up for Life](https://www.fool.com/investing/2026/11/12/2-ai-robotics-stocks-that-could-help-set-you-up-fo/)**
+
+While AI models and chips take center stage, the AI robotics boom is silently building.
+
+The Motley Fool • 2d ago
+
+---
+
+**[Narwal builds robot vacuums to serve regional needs](https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/)**
+
+Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets.
+
+The Robot Report • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -202,7 +204,77 @@ Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor c
 
 📺 Arctos Robotics
 
-👁️ 225K • 👍 3K • 💬 143 • ⏱️ 8:25 • 5d ago
+👁️ 227K • 👍 3K • 💬 143 • ⏱️ 8:25 • 5d ago
+
+---
+
+**[Can America Close the Robotics Gap With China? | Physical AI](https://www.youtube.com/watch?v=QbE1gUlSeSQ)**
+
+Can America turn its robotics research into the industrial capacity to compete with China? MIT's Elisabeth Reynolds and Harry ...
+
+📺 Imagination in Action
+
+👁️ 400 • 👍 7 • 💬 1 • ⏱️ 31:35 • 4h ago
+
+---
+
+**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
+
+China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
+
+📺 The AI Nexus
+
+👁️ 41K • 👍 471 • 💬 63 • ⏱️ 15:41 • 4d ago
+
+---
+
+**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+
+A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+
+📺 NBC News
+
+👁️ 33K • 👍 94 • 💬 38 • ⏱️ 1:56 • 3d ago
+
+---
+
+**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
+
+Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
+
+📺 Nexio Core
+
+👁️ 58K • 💬 17 • ⏱️ 0:06 • 4d ago
+
+---
+
+**[Tesla&#39;s Robot School Is Real: 20,000 Robots Teach Themselves](https://www.youtube.com/watch?v=-YQc4rveiSk)**
+
+Tesla plans an Optimus Academy with between 10000 and 20000 robots practicing tasks all day. I see it as Tesla's answer to the ...
+
+📺 The Electric Viking
+
+👁️ 16K • 👍 295 • 💬 59 • ⏱️ 4:25 • 1d ago
+
+---
+
+**[I Built An Automated High Speed Camera Robot](https://www.youtube.com/watch?v=enNRvZ5BhjM)**
+
+This work was supported by the Alfred P. Sloan Foundation, enhancing public understanding of science and technology in the ...
+
+📺 Jeremy Fielding
+
+👁️ 123K • 👍 3K • 💬 297 • ⏱️ 53:28 • 1d ago
+
+---
+
+**[Ultimate Transforming Guide! Unboxing Robot Toy: OPTIMUS PRIME, BUMBLEBEE, ELITA-1, MIRAGE, MEGATRON](https://www.youtube.com/watch?v=AhTyYS8wDEk)**
+
+Welcome to the Ultimate Transforming Guide! In today's video, we are unboxing an epic collection of Transformers robot toys ...
+
+📺 Bob ToysReview
+
+👁️ 11K • 👍 25 • ⏱️ 34:11 • 15h ago
 
 ---
 
@@ -216,46 +288,6 @@ Humanoid robots are attracting big valuations. What do they need to prove before
 
 ---
 
-**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
-
-What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
-
-📺 Dorian Todd
-
-👁️ 63K • 👍 1K • 💬 61 • ⏱️ 14:42 • 5d ago
-
----
-
-**[El Salvador&#39;s Bukele Unleashes Gun-Wielding Robot Dogs, Haiti Gangs &#39;Surrender&#39; | Vantage](https://www.youtube.com/watch?v=bFX4DdkJFBI)**
-
-El Salvador's President Nayib Bukele has shared footage of his troops carrying out anti-gang operations in Haiti. Salvadoran ...
-
-📺 Firstpost
-
-👁️ 458K • 👍 5K • 💬 1K • ⏱️ 5:30 • 1d ago
-
----
-
-**[Ultimate Transforming Guide! Unboxing Robot Toy: OPTIMUS PRIME, BUMBLEBEE, ELITA-1, MIRAGE, MEGATRON](https://www.youtube.com/watch?v=AhTyYS8wDEk)**
-
-Welcome to the Ultimate Transforming Guide! In today's video, we are unboxing an epic collection of Transformers robot toys ...
-
-📺 Bob ToysReview
-
-👁️ 9K • 👍 21 • ⏱️ 34:11 • 11h ago
-
----
-
-**[Xiaomi Humanoid Robots Just Worked an 8 Hour Shift at a Car Factory](https://www.youtube.com/watch?v=RgJhL6_f1mE)**
-
-Xiaomi humanoid robots have completed their first reported 8-hour shift at an electric car factory. The 2 robots were tested on ...
-
-📺 DPCcars
-
-👁️ 26K • 👍 146 • 💬 35 • ⏱️ 5:46 • 6d ago
-
----
-
 **[The First Robot That Can Actually Do a Human Job Is Almost Here…](https://www.youtube.com/watch?v=z3ZqF2NThuM)**
 
 The first humanoid robot capable of doing real human jobs is closer than ever. AI robots are entering warehouses, factories, and ...
@@ -263,36 +295,6 @@ The first humanoid robot capable of doing real human jobs is closer than ever. A
 📺 The AI Nexus
 
 👁️ 11K • 👍 122 • 💬 21 • ⏱️ 18:30 • 6d ago
-
----
-
-**[Cascade explanation #override #vex #robotics #engineering #build #building #vexv5 #stem #robot](https://www.youtube.com/watch?v=9YY-g3zGSlg)**
-
-Explaining our cascade for v5rc override.
-
-📺 Dynamo Robotics
-
-👁️ 2K • 👍 77 • 💬 9 • ⏱️ 2:47 • 18h ago
-
----
-
-**[I Built An Automated High Speed Camera Robot](https://www.youtube.com/watch?v=enNRvZ5BhjM)**
-
-This work was supported by the Alfred P. Sloan Foundation, enhancing public understanding of science and technology in the ...
-
-📺 Jeremy Fielding
-
-👁️ 117K • 👍 3K • 💬 288 • ⏱️ 53:28 • 1d ago
-
----
-
-**[Best Robot Vacuums and Mops of 2026 – After Testing 200+ Robots](https://www.youtube.com/watch?v=9A8zcyk2UVU)**
-
-Roborock Qrevo Edge 3 Pro at Amazon: https://geni.us/X2j3 Narwal Freo 20 at Amazon: https://geni.us/cAWOxEI Dreame L60 Pro ...
-
-📺 Vacuum Wars
-
-👁️ 20K • 👍 347 • 💬 92 • ⏱️ 9:09 • 23h ago
 
 ---
 

@@ -5,6 +5,20 @@
   "days": 7,
   "posts": [
     {
+      "title": "Bitcoin Just Crashed Toward $64,000. History Says the Worst May Not Be Over",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/",
+      "hn_url": "https://news.ycombinator.com/item?id=50501201",
+      "author": "ivewonyoung",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-11-14T21:41:37Z",
+      "object_id": "50501201",
+      "image": "https://247wallst.com/wp-content/uploads/2024/04/shutterstock-1717743028-huge-licensed-scaled.jpg",
+      "description": "Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bottom suggest the first flush rarely ends the pain. Three catalysts and two price lines will decide whether the old highs come back or the floor drops again.",
+      "favicon": "https://247wallst.com/favicon.ico",
+      "site_name": "24/7 Wall St."
+    },
+    {
       "title": "The Wish Economy: Inside Starlight, the Bitcoin-Native AI App Store",
       "url": "https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/",
       "hn_url": "https://news.ycombinator.com/item?id=50457760",
@@ -37,7 +51,7 @@
       "url": "https://news.ycombinator.com/item?id=50493695",
       "hn_url": "https://news.ycombinator.com/item?id=50493695",
       "author": "otohp",
-      "points": 3,
+      "points": 4,
       "num_comments": 4,
       "created_at": "2026-11-14T03:53:13Z",
       "object_id": "50493695",
@@ -87,9 +101,23 @@
       "description": "Git for Postgres data, built for agents. Branch, diff, merge and undo inside PostgreSQL. - bitsinfra/gnomon",
       "favicon": "https://github.githubassets.com/favicons/favicon.png",
       "site_name": "GitHub"
+    },
+    {
+      "title": "Show HN: Daily puzzles to keep AI users sharp",
+      "url": "https://brainsaver.app",
+      "hn_url": "https://news.ycombinator.com/item?id=50502073",
+      "author": "bigboingy",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-11-14T23:15:33Z",
+      "object_id": "50502073",
+      "image": null,
+      "description": "Worried that you're losing your edge to AI? Well, worry no more! Our puzzles test commonly automated skills, keeping you sharp with just 5 minutes a day.",
+      "favicon": "https://brainsaver.app/brain.svg",
+      "site_name": "brainsaver.app"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-11-14T20:27:43.416974+00:00"
+  "fetched_at": "2026-11-15T00:08:01.921391+00:00"
 }

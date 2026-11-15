@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Why Is Bitcoin Crashing? BTC Breaks Below $64K as Ethereum Falls Toward $1,800",
+      "source": "Coinpaper",
+      "source_url": "https://coinpaper.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1FSYWxTZjRMX0R2LW1HdXFoXzFSendaMlYtZ0JWRXhybWZ6dnp6bm1ZTWJMSjlGYTdkQ1AyRkxQOENPeTZvckI3ZElIY19uMzF6VUNlVzV1LS05NFlnR2MtRVdRNHoyMTNmRnkyRy1OeTZjTndTU0lMM25Pc3p0c01WX1I3TDFjR0ZNV2llOGJCeEQ4VFU1WmxTeVN1U0o0dlVxY1pMMA?oc=5",
+      "pub_date": 1794691723.0,
+      "article_url": "https://coinpaper.com/38863/why-is-bitcoin-crashing-btc-breaks-below-64-k-as-ethereum-falls-toward-1-800",
+      "image": "https://imagecodex.com/v1/coinpaper/media/3d7a76be-ff6d-460d-abcd-0ab65a6e7920.png",
+      "description": "Bitcoin's selloff accelerates alongside Ethereum as $1.46B in weekly ETF outflows, shrinking stablecoin liquidity and Fed rate fears pressure crypto."
+    },
+    {
       "headline": "Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,22 +35,12 @@
       "description": null
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa2VmSUtpVkxWU1lnZWh2eW1LQTNzSjk5WkZqN2VaZ01ETHotVzRWY3QyeklsbFpOLXRmTjdhVTVqNU5PYXduYmw1cldtMGZvSFdYWkZDc0Z0RU5SazA0dVh1YmJyaFBXSV9fRVYzbHB5MThNb0NCQ0VfYm9BT1FHXzBCOHFTR3ZXNWROV0RTX00wNzhfVDVSQ1JXRkZ6QjZ0aE12a0xzM3doTHZGanhkbV9ISmQ1TE5wZ0pJQm1iMVY0QkY3bjJXTGZ3Sk5DME1v?oc=5",
-      "pub_date": 1794607208.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move \u2018Pure Manipulation\u2019Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever\u2026"
-    },
-    {
-      "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jSkxvVlFEZXVFVnk0cUhsN2JXNnFQaUplOFFGOWNhbHZESGVZZllWc1VfS0VKc1JvUlpwQW9kYmtjcmIyUVFienRkWk81V2lYaXlDV25qN0JzRnkwRVlXWDR5YWtCeXR1RGlTYnFqUlhqNzFDVUNndEhkb0g?oc=5",
-      "pub_date": 1794575786.0,
-      "article_url": "https://beincrypto.com/crypto-liquidations-bitcoin-ethereum-3-month-low/",
+      "headline": "Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXJfZUgxeXcwejNwdUJLRFBMc2xsOC1oUkFoVFREY19CZC1KaHRXRUtsQm1SVXJEd2RhNzEyVTBCcUx2WTR1LWtXcmx3TjBzNlltdkNQV3owNE5GMGdUQTEwUXVvaEhxREo3QlZrY2pZNXp5S2FUT1FpQ0NNX0l1RnVfbUNwWnI1LW5IbDlDbU5TeV9oeDNrQmJOZHo2QnpHNEZNMFR3UUtLNkh4bF9JZkJCRHR2dEJBbUtWV1lwdHI1d1U?oc=5",
+      "pub_date": 1794684605.0,
+      "article_url": "https://www.benzinga.com/crypto/26/11/63274152/ethereum-flashes-death-cross-as-etf-outflows-surge-futures-open-interest-dives",
       "image": null,
       "description": null
     },
@@ -65,6 +65,16 @@
       "description": "A hardware malfunction at an unnamed cloud provider is disrupting Ethereum access while consensus keeps running. Here's what users should know."
     },
     {
+      "headline": "Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa2VmSUtpVkxWU1lnZWh2eW1LQTNzSjk5WkZqN2VaZ01ETHotVzRWY3QyeklsbFpOLXRmTjdhVTVqNU5PYXduYmw1cldtMGZvSFdYWkZDc0Z0RU5SazA0dVh1YmJyaFBXSV9fRVYzbHB5MThNb0NCQ0VfYm9BT1FHXzBCOHFTR3ZXNWROV0RTX00wNzhfVDVSQ1JXRkZ6QjZ0aE12a0xzM3doTHZGanhkbV9ISmQ1TE5wZ0pJQm1iMVY0QkY3bjJXTGZ3Sk5DME1v?oc=5",
+      "pub_date": 1794607208.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move \u2018Pure Manipulation\u2019Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever\u2026"
+    },
+    {
       "headline": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -75,14 +85,14 @@
       "description": null
     },
     {
-      "headline": "Should Ethereum Tax Its Apps Like a Nation? Arca\u2019s Jeff Dorman Says It Has To",
+      "headline": "Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3ktRUcxaEFPTUNEczZONFhLUER2OTRwM2RTLTF4cVlBNDdITkVRblBUMThGUHRuQW5qX2hZNHJYVTBQUUJlQlZIMF9wcjBSSUR6NHNoNnZKdHROTnlpN3pOM09CRkVnZ0ZyZWhsbmczTEpqUmpNSDJ3OENXM2lHeXhB?oc=5",
-      "pub_date": 1794657627.0,
-      "article_url": "https://finance.yahoo.com/video/ethereum-tax-apps-nation-arca-120027725.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/440ad1a0569313d7b58a8f1908623a75ae0fbd283653d4f698a6f5b28d06ed0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2Faef515fc773ec5ee5a689250f6deb7fd.png",
-      "description": "Jeff Dorman, Chief Investment Officer and co-founder of Arca, agrees with Vitalik Buterin that chasing fee burn would turn Ethereum into a stock, but argues a chain that never taxes its apps can\u2019t give its currency much value."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1FfMXF3WEE5NkV0aF9WYzBYb3BFTXRMMlktTWZmRUZrUGp0cHBhQ1VJOE5nUmN1dGJMOURzMWVLVFhkSGtOTGd1R3JZa3RFdmdqTnhVZUtzU09wLVhFUS1KeVNhekRlT2s4NkVfSjdyZ2xRTE1HcVJiNnROXzRGNl83UzY1MXRIQUl3NnhzbUo1MXVnTnQ3UDVvWG0?oc=5",
+      "pub_date": 1794534840.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0bf64da86efd78bf135b7d6c45ece42f9836b58e3ccfbbfe6ce2c568fbe12fef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fcd95f6d21e25ae21a72b8d220024753f.jpg",
+      "description": "Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data."
     },
     {
       "headline": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
@@ -93,18 +103,8 @@
       "article_url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin ETFs Face $1B Exodus As Ethereum, Solana Funds Bleed: Is Institutional Crypto Demand Cracking?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcnNMWW1ERE9rVkR1R0pMNGEzdndtYUtoRlU4QkxuQm9LM3BjUHRZclcwSnVuYUF5dXJYT0hXd3Brem9DMUZISl9UV2wzSXk5LXZTS0VaYldabkV1UmJnSWt3SkloVXVGVW9qRU52SHVaQnZoeFZta0xmeGZzdXB1RldYZ0s2QlNqRXFBNGJXREVNRzlOengyZXk4dm1EX1ZNaUtfb2loQUxWMi1mNDk1dFIwOGlMd2tUUUExaGVFNklaXzhfWVRzMF9janVtX3l4TXlDRmNMYUZsUW9CQi1UV056Ym01cENOenI3cm9R?oc=5",
-      "pub_date": 1794591608.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:5528d17bc094b:0-bitcoin-etfs-face-1b-exodus-as-ethereum-solana-funds-bleed-is-institutional-crypto-demand-cracking/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "U.S. spot crypto ETFs suffered a broad-based exodus in the five trading days ended Nov. 10, with all six tracked asset groups recording net outflows totaling $1.48 billion, raising fresh questions about investor confidence amid a sharp cryptocurrency market downturn.Bitcoin CRYPTO:BTCUSD ETFs bore\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-14T20:28:03.901890+00:00"
+  "fetched_at": "2026-11-15T00:08:21.752006+00:00"
 }

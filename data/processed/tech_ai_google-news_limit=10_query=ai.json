@@ -5,74 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1JlVVdFenkyRlRoSGVaTW0zdEVYelMtMF9McU8ycFRVMzl1VDJETzRRR2RJZG1wRmhDakRZemRidkZ3akgyVkZzcDZoaGVIOG9sRkJrdmJRRUdFNDRxelgwSmRIQWFxZkowdjlBVlFWS1FFZGpYMWNWVmx5WHdzQi1KODRER2Q5RkZTcVJZaU5rZWlVUXVfV3RPTDBFQ2l3ejMyMkw0b1ZvVVl1Q0lSaU9va0ZsQ05tUmR6S251Zw?oc=5",
-      "pub_date": 1794297600.0,
-      "article_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-2560x1440.jpg",
-      "description": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved."
-    },
-    {
-      "headline": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
-      "pub_date": 1794668912.0,
-      "article_url": "https://www.reuters.com/business/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-2026-11-14/",
+      "headline": "AI's four colliding crises",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XVUFuNWM2NU96OGFfYk9lQThTUDBPZmpPV2NuYVlKVk5oSk84Wkpfdi15cjdGT2pTQzVJUVVqMTg3YXhpN1VHN0czeVhuQnMtbURJTFV1X05udEVOT05HWDVuVGZoa0xsbVlHUw?oc=5",
+      "pub_date": 1794660034.0,
+      "article_url": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
       "image": null,
       "description": null
     },
     {
-      "headline": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-      "source": "TechPowerUp",
-      "source_url": "https://www.techpowerup.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUFpREJuUk5RTzk1YWVQSGlwVDl5bmFlMC0ydXBRbmhGeGdmMGlfc1FRRzI2NlVuNEhxZU9tZkR6Qld3RnRCdGdza3l0LTh2OHZndWVTbGYtTDRyS3ZpRHBmQWpKS1BoS09SRWxqNWlPUWlDTGk4QWtUeGlaTEREV01BcVVFOTNPVUdIZDgydXNYejdQVUNEcGRBSEhlbVRybmFNMXVTZHo0MzNwb1NV0gG0AUFVX3lxTFBJVS12T1hxME9ZUUZCd2UtdkRMSGxzZlQyYjZaRTJ1M184ejdUb1lIT05haTNOOGUxMnd5ZlFvTHYxQ1JMX0VXUXNMZ05VZXJHYl9CalNJVDBoRVlFODg0RU1KRkY3OFNOdmc5Z0pNUlhmcXRfcTg0UDJGTHlQRW1kQjNxNXpsRU9mN1hMYURoQjN3em1mTUV0eEFCQXhZb3JyWUZ0cTJEU3NVcGZwMmxqYi1Vdw?oc=5",
-      "pub_date": 1794609073.0,
-      "article_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "image": "https://www.techpowerup.com/img/ooCln2q3jkKNGHen.jpg",
-      "description": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers...."
-    },
-    {
-      "headline": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlZuRGNwODhyT3Npb1V3dDVFSnQ3OFZ2eDY1VUk0WDdLUWktdVNrSnQwQzhhZDJWcFdCeWtwd0plOG41bEdYSk9PZmFrQ1JlUjJqb3RKWXVzOWZCOHRrU3BoWlluOU5kczhwVldlZElqa0pyUHJ5M2tNYWZFVkF3T3hvTWc1YXdCTzdOVFdOTnRGREFJSHlvbFVsanFQWlNLczZUak1ZWlNoT0EyT1R2NGNhaUtJZw?oc=5",
-      "pub_date": 1794682119.0,
-      "article_url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108549797-1794473558680-gettyimages-2300707653-261019_KBMW_PHT102.jpeg?v=1794473568&w=1920&h=1080",
-      "description": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%."
-    },
-    {
-      "headline": "Micron Technology (MU): Does a Low Earnings Multiple Understate Its AI Opportunity?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmFxb0NFNGNaVzBRdzExcGJ6a2Jremg4N1JFQk1lRHlQME04V3NnQ2ZocVlBR2RkeVpVWmwzQ3BaVmZSZjhrTFZZTndQSTJNR2hieUtXSzdaNUdraVFlU3ZUNllBRFpNTUtTZUFJeTg3TTdIWGtib0ZKZmROZGk1NHVSeERfLXZoOHNGNmY1TTlqZGpVWjl2Sg?oc=5",
-      "pub_date": 1794684608.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-does-low-193008035.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c403b448937446026cc0426d25d7d622c4470a5f153d2b77344078cfac0ae3fb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc2c07d29dd5f33604c6d09b563d78d57.jpg",
-      "description": "We just published the list of the 10 AI Infrastructure Stocks to Watch After CoreWeave\u2019s Earnings and Micron Technology, Inc. (NASDAQ:MU) ranked 7th on this list. Why Are AI Infrastructure Stocks Under Pressure? AI infrastructure stocks have faced considerable selling pressure in recent weeks, as concerns over data center expansion, rising borrowing costs, and regulatory uncertainty [\u2026]"
-    },
-    {
-      "headline": "Art \u2018must not be sacrificed on the altar of corporate profit\u2019 Liberal senator says as AI policy debate rages",
+      "headline": "\u2018It\u2019s like the wild west\u2019: how AI has rocked the literary world",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUF2TjYyb1R6ZEJRSVB2UmdQM2d5TEdYenBEWm1LMWVNUHdzcnRkY250c3lwTXd0WW1TNWJETGoyZEdkQ3dHaS1KVUF6QzNpZ3FtWUpNcDg2UU9OWV9kenUxNjBvd19OdFpJM0lLQ0sySUwwRXhleXVVdDNteTB3VzBKclFSZmYweWNUYmFSVTAtMTFBQ2pJbTNNQmhvMWhwV0x5QmRqQQ?oc=5",
-      "pub_date": 1794682920.0,
-      "article_url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-      "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc8c16eac1f5108a0736b290b0363b0",
-      "description": "Andrew McLachlan says he chooses \u2018real forests over virtual ones\u2019 as he urges Labor government to consider AI\u2019s impact on artists and environment"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmdRYmNReGlVTmdJam9WZGFxcUgxMVVMcnZQOFhrNTBVS3pWRG9qTFhWQ2ZsR3ZQSnNXZ0M0bXFxY043ZV9VN2ozaHd6RlMzVl9GLW1NU3IyRld2WDktZEZ3T095aHFBT21JT2xPUF9ha0J1a19YU2pXUGY1V2xaUTliZXpjZkFHNmJHUFBUMUFnaFJuR2RwSWZFYUozUWhTNkRuUXNVVVRIamFidG1xVjgySjRfZWZjeHdWTg?oc=5",
+      "pub_date": 1794646920.0,
+      "article_url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "image": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/725_1297_5935_4748/master/5935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=117c27a2f9da3e1c4f06abfc82b06ffb",
+      "description": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?"
     },
     {
-      "headline": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
-      "pub_date": 1794582544.0,
-      "article_url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-      "image": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-facebookJumbo.jpg",
-      "description": "Dario Amodei, the company\u2019s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
+      "headline": "Artificial Intelligence: Why are traditional industries adopting it?",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5",
+      "pub_date": 1794700855.0,
+      "article_url": "https://www.bbc.com/news/articles/c6zjr7e2wk3xo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/56a8/live/1fb57ff0-e050-11f1-8d5a-49633fbae59d.jpg",
+      "description": "Some traditional businesses say adopting Artificial Intelligence has helped them increase their profits and workforces."
+    },
+    {
+      "headline": "The Nvidia scandal is heightening America\u2019s AI rivalry with China ahead of Trump\u2019s visit",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalY0LVRKSlZQVVJQeGZidU1VWFo0VXpuaGNQVTdST1Bfa3B0YXUyc1NjVVprRVlhTlhMZFlidzhkQ3pqbnFJRDc1aDhpYm5rRFkycV9vMzU3ckhlSTBIVXRSb2VoOVc4SVJjYjNFVlRrQ01UQmM4Sk9WcGFFUEdvbElmc1lWZlZ5UlhvQUNQV1paNWhsc2Fv?oc=5",
+      "pub_date": 1794633420.0,
+      "article_url": "https://apnews.com/article/nvidia-trump-xi-huang-ai-rivalry-aba7f92a1ec2f0f9e4b4da206d640d61",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUTd1amNDQzhvSy1kWGcwdk1CZjRGZG9rTFc4VEFRX3p2Y3VTdzd6dDRkSnJnR21nUkt1OVVlajV4R3VJTElDYUpJQlBfbzhKRFB5RUdWdEJWLVotUVJQS2hqZFpJZGpERlJFWUNJb2ZZbUtNYWVtN2pNb3liSGvSAYQBQVVfeXFMTVZlLXNUMVl0Qkc4M2ZKWGFwNnB6U05GSEw5LXlXQlNKN2MwMUg1by1Pb3pyd3JoWHRzQkcxRFJmOG45RzlzcVNybHJ0Q3VyZEtfdlctNDdZSGpYU2NlaUpIUFFrdkE2akpLdFdBRkppeFBWYk1qT0gyd3ByLXhaVmdySDYy?oc=5",
+      "pub_date": 1794671443.0,
+      "article_url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108180544-1754063406073-IMG_8872.jpg?v=1754063887&w=1920&h=1080",
+      "description": "ETF experts say Nvidia\u2019s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers."
+    },
+    {
+      "headline": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa19ydHFJQ0lZZGxvWDBUbXNoakFwYUtVa0w5UXBJeHJIejFXcXlWbFJ5ajg1Y29kMnUyWjJERllXY2p2M2c1ZUhyQzVNS0xKVkQ2UDYxZ2JPRGlYWS1hdWh4MWMyVURueXV0U3BNRXV6TjZCUGtDclRnQUFrWUgtMWQtZk5LSjhnR3I5RHZCeTZUVXNTSmpFV3BsVzVuS1kw?oc=5",
+      "pub_date": 1794693600.0,
+      "article_url": "https://finance.yahoo.com/markets/commodities/articles/nvidia-without-huang-pause-ai-220000617.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7db1ed3581f96eb140601369a27f45b1a56656c428f7b6010b7b70583abf930e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F42ff60bc69cf96b5396ee57eaf883a35.jpg",
+      "description": "Copper hit a four-month low as Nvidia\u2019s Jensen Huang quit, but the bigger risk to data center metals demand may be AI financing, not chip orders."
     },
     {
       "headline": "Wealthy parents pay $75,000 for Alpha\u2019s two-hour AI school day. Half of its K-8 students missed the math target",
@@ -85,6 +75,16 @@
       "description": "Only 42% of Alpha students hit its 2x learning goal in math and reading, internal data show, as 2,600 public school students now use its software."
     },
     {
+      "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1JlVVdFenkyRlRoSGVaTW0zdEVYelMtMF9McU8ycFRVMzl1VDJETzRRR2RJZG1wRmhDakRZemRidkZ3akgyVkZzcDZoaGVIOG9sRkJrdmJRRUdFNDRxelgwSmRIQWFxZkowdjlBVlFWS1FFZGpYMWNWVmx5WHdzQi1KODRER2Q5RkZTcVJZaU5rZWlVUXVfV3RPTDBFQ2l3ejMyMkw0b1ZvVVl1Q0lSaU9va0ZsQ05tUmR6S251Zw?oc=5",
+      "pub_date": 1794297600.0,
+      "article_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-2560x1440.jpg",
+      "description": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved."
+    },
+    {
       "headline": "Maricopa County judge dismisses DUI case after trooper uses AI",
       "source": "AZ Family",
       "source_url": "https://www.azfamily.com",
@@ -95,16 +95,16 @@
       "description": "More police departments across the Valley are using AI, which raises questions about what that could mean going forward."
     },
     {
-      "headline": "How I Used AI to Make My Grandson a Children\u2019s Book for Less Than $200",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsdTVxVkFTTElnc05DR3JrTGN2SURqa3lfT1Q4RXBvTmJQdjkxOVRrTjA0eHpWcVNfVTBZSFVRV1pMR2Q5UElvYm1WbU9SbXhMcGxuSU13Y2ZyaWVGdzItZWhiOXRiVmc0d0E?oc=5",
-      "pub_date": 1794672000.0,
-      "article_url": "https://www.wsj.com/tech/ai/how-ai-childrens-book-aa480255",
-      "image": null,
-      "description": null
+      "headline": "The AI boom has some parents rethinking how to save for college, or if degrees will even be worth it",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFZVVjEzZWptZ3k5V0NtUFJBUTFpV05CanBMcDd4cmtXTFhsSS1hNVczRnZrallmenkxY1YxQVpsNXk5cXVrMTV4T3hDb1ZfdU9KMkhBUGdQa1poRUFsa1ZHczJfZl9Ieml5bUNDdFN5SE55Yjd5WjEyQzRCSzdDaQ?oc=5",
+      "pub_date": 1794654000.0,
+      "article_url": "https://www.businessinsider.com/ai-kids-college-529-savings-rethink-2026-11",
+      "image": "https://i.insider.com/6af742920cc3ffba8779cdfd?width=1200&format=jpeg",
+      "description": "As AI shakes up the job market and higher education, some parents are rethinking how to save for college."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-14T20:28:12.790923+00:00"
+  "fetched_at": "2026-11-15T00:08:24.645487+00:00"
 }
