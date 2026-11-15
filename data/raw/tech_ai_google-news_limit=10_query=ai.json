@@ -5,44 +5,34 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "\u2018Jensen Huang lost his mind\u2019: how AI\u2019s smartest man fell for the world\u2019s oldest trick",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDk2Z1htajVLenRVR2tqcWdOaHVDQ3JpeEgwOWx2THpNU3pwRGFrblRsVnJvVWoyZ21lbHY0WXlabFI2cm1ENWRwcXQ2anQ1akpMdkM0V0Y5Mkw1U1VHdkJwMjRkSGllV2xhcGNjODRZQ05HOFJsMnExZmx6QmJXemZrTW4tNENNUzVzRHFzb3M?oc=5",
-      "pub_date": 1794722400.0,
-      "article_url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
-      "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea93f60f04e098da99d11b60a2005e68",
-      "description": "Jensen Huang\u2019s affair with a suspected spy is Silicon Valley\u2019s worst nightmare come true"
-    },
-    {
       "headline": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRVRId0ZUcVRGRlNaOFhjRE5vUUVQWnZ6OElxc0llcUVsaXAxbDFxdXJocTh6UTc2OGN6VnZuN2sxMnZROVhnaU1aTWVVUlZLbU1KRzFYT2ljczNYTV9FTVQxWnFrS2xNdDdZQ2FHejNDUjh2d29PbHRROA?oc=5",
-      "pub_date": 1794708000.0,
+      "pub_date": 1794736080.0,
       "article_url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
       "image": null,
       "description": null
     },
     {
-      "headline": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
-      "source": "Dallas News",
-      "source_url": "https://www.dallasnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbE10WVFud3piVllpeDVpYlI1X3JRVjRTNlliUTRKMU9IdjNqbjRXYTB5ci1XTGVsb2V4eVpMZW9MY2FHNTFnWGlsbkRCNmd2RTY1QXVnc0ROTVFiaDFLTWVyTlhmVloxVmFlUlZfTkFaamZNT0NSMjVoWVZ4NG1xeXpiRTlPc3BUNXhfeFNfbGVERXdRY21vYmo4ZThKbmVkOE1lM2kzLUxPVEZl?oc=5",
-      "pub_date": 1794725153.0,
-      "article_url": "https://www.dallasnews.com/news/politics/article/the-nvidia-scandal-is-heightening-america-s-ai-22530398.php",
-      "image": null,
-      "description": null
+      "headline": "\u2018Jensen Huang lost his mind\u2019: how AI\u2019s smartest man fell for the world\u2019s oldest trick",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDk2Z1htajVLenRVR2tqcWdOaHVDQ3JpeEgwOWx2THpNU3pwRGFrblRsVnJvVWoyZ21lbHY0WXlabFI2cm1ENWRwcXQ2anQ1akpMdkM0V0Y5Mkw1U1VHdkJwMjRkSGllV2xhcGNjODRZQ05HOFJsMnExZmx6QmJXemZrTW4tNENNUzVzRHFzb3M?oc=5",
+      "pub_date": 1794747360.0,
+      "article_url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+      "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea93f60f04e098da99d11b60a2005e68",
+      "description": "Jensen Huang\u2019s affair with a suspected spy is Silicon Valley\u2019s worst nightmare come true"
     },
     {
-      "headline": "AI's four colliding crises",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XVUFuNWM2NU96OGFfYk9lQThTUDBPZmpPV2NuYVlKVk5oSk84Wkpfdi15cjdGT2pTQzVJUVVqMTg3YXhpN1VHN0czeVhuQnMtbURJTFV1X05udEVOT05HWDVuVGZoa0xsbVlHUw?oc=5",
-      "pub_date": 1794664109.0,
-      "article_url": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
-      "image": null,
-      "description": null
+      "headline": "Bipartisan Efforts To Restrict Chinese Access To Advanced AI Tech In Wake Of Nvidia Scandal Are Growing: Report",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObS1IcUNOV2N1SXpkbmxrWGx0RUw1NHBQbENJWDhVNXk5dUdkZ2cwNm9PVlB6NFNhMFBpX2xPT292U25YT004dUpjMnRJWHFUaFdaQkNzakhCV0tVUlp1NUhqdV94cFctWUhJYlIxQ3RlZngzNGQ3aU9BWFotNk82MmVKeUg1Sk04cFF5bWNfU2hBbm0za2ptNFRkYU1fWGJCdFVheA?oc=5",
+      "pub_date": 1794752016.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/bipartisan-efforts-restrict-chinese-access-141336975.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4fa7a158e4df69123c93bd8a39d4c102e852d357ed13183fbd46b18c3b1afb70/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finternational_business_times_990%2Fa405e98580045fc935a4692c8650fce3.jpg",
+      "description": "Republican and Democratic lawmakers are backing legislation to tighten restrictions on China's access to advanced AI chips, following scrutiny of former Nvidia CEO Jensen Huang's relationship with an ..."
     },
     {
       "headline": "Top scorer on South Korean tax exam confesses to cheating with AI",
@@ -55,24 +45,54 @@
       "description": null
     },
     {
-      "headline": "AI Cheating Scandal Prompts Blue House Policy Meeting",
-      "source": "\uc870\uc120\uc77c\ubcf4",
-      "source_url": "https://www.chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWVMVE1mLWhfY2ZfOU1oNk9rLWxBUzlWWFNmakFpUDJOYzEtc1JvNkVRN00wZGhLMGZrX0hWdXhJNThYLWRRQ1BDdTVSQ29zcFlkdXZnY2Z1c3l5aVo3M3h4LVJiWVRNd2lCWVQ1ZHBhUjZmS0ZZbEYyZHNsWXpHSW1qbnR6ODlP?oc=5",
-      "pub_date": 1794725100.0,
-      "article_url": "https://www.chosun.com/english/national-en/2026/11/15/6CR57BZO7BATDCLRAQEF2INZQ4/",
-      "image": "https://www.chosun.com/resizer/v2/TDVQNKRI4BOPDBKTKF3CTFNOIQ.jpg?auth=054bdfbfe791766ce128f6ba5ed4cc3670d60bac889f6b4e64a5ff56cc829cb1&width=1200&height=630&smart=true",
-      "description": "AI Cheating Scandal Prompts Blue House Policy Meeting Top tax accountants AI-assisted cheating confession triggers urgent CSAT countermeasures"
+      "headline": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo?oc=5",
+      "pub_date": 1794743280.0,
+      "article_url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69",
+      "description": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool"
     },
     {
-      "headline": "Tax accountant exam's top scorer admits to AI-assisted cheating",
-      "source": "The Korea Herald",
-      "source_url": "https://www.koreaherald.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIRHVGQ0ZnU0VBUkN4eWY1bWRTUjFyTGNzeFJSVTN0bDB5Smw4Vy0yd25jYmsxWmx3Vk43RDhoR1F3aDhVOXBRcTB5U0lSZE9OenRFZWhxdw?oc=5",
-      "pub_date": 1794706816.0,
-      "article_url": "https://www.koreaherald.com/article/10937374",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/15/news-p.v1.20261115.9f3b979846644567a2bd6a5194bd0826_P1.png",
-      "description": "The top scorer in this year's tax accountant qualification exam in South Korea has turned himself in to the police and admitted to using AI to cheat. Han Won-se"
+      "headline": "Korea\u2019s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTBkMHVFbnVDOWNRajdDT204QVNpM1h5aWJaNEdINjl5OWMyOWY4WVZVRUwxbC12RUlXUmltSFRsZzZ5Qnc5N2kyX1M1RXdiS1h5eHVIS2Nnam93Sk5laE5BUGdWTEtTYnljM192WjdWUU4ya3gzajVMTnJMZV9USk1oRmFUUUhfS09wN2JFNW5ZRkk3SHdXLUh1Z2Y3bnByd05CRnlWVGlkdlAwaVZoN254dE8?oc=5",
+      "pub_date": 1794732558.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "CoreWeave\u2019s Results Foretell Impending Consolidation In AI Neocloud Sector",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTTAycm95cDQxYXBCYmM3RTFLUkI0c3BCVk85V19uNUEzNzBFTjktYVJsQm9SM0lmcU4tOTVJenVUa3l3LW9UVWkzOXl1YlJfaEpqVjhzMUFRWGwwNzc2YURtcDNuXzZUNVEtYTdmTWd0dFBkVkV5UlN1Qk1EeVpnM043ZnpIblhwNUthLTRxODVHVy1vSlZvelZZYXREQVhHTEN6MlFNT2VCbjRwVmExLUxoel9RSGtfS1ZucGVwSmg0TTQ0OFhDRDVB?oc=5",
+      "pub_date": 1794751200.0,
+      "article_url": "https://www.forbes.com/sites/sanjitsinghdang/2026/11/15/coreweaves-results-foretell-impending-consolidation-in-ai-neocloud-sector/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Self-learning AI releases NFL picks, score predictions for every Week 10 game",
+      "source": "CBS Sports",
+      "source_url": "https://www.cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalU5ZDJncHJPSWhJX0dNS0JUVlZ5Y0l3ZUo2NWZWNC1iWldUakFLTmh3U2UtQjlBd0U3MEU5Ymx0TDljVVhWOU0wdVhNNUVQMHEzb0c3dHhjSVNLdnI5ZUg5Q1JodTA2ZzFnbjlLWkZCTFVpMEtNV0oxY3dsaHdkZi1COU0yQm9qSi1URDNmRXV1aXJGMzRqbDNsMFJRV0RuMzZCOWp3M2E5QTR0SWwyQQ?oc=5",
+      "pub_date": 1794751109.0,
+      "article_url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-spread-best-bets-advice-for-week-10-2026/",
+      "image": "https://sportshub.cbsistatic.com/i/r/2026/06/17/733995ed-5b9f-4548-8615-fa38f34047c4/thumbnail/1200x675/54bcf37abab48df4fba5119f5fe161a1/josh-allen-bills-copy.jpg",
+      "description": "SportsLine's self-learning AI reveals top betting picks and exact score projections for the Week 10 NFL schedule"
+    },
+    {
+      "headline": "Obscurify.ai Implements Unlinkable Inference and Blind Signatures for Private AI Access",
+      "source": "Detroit Free Press",
+      "source_url": "https://www.freep.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVcwSlZXTk5nMWRhUTB6d2pUN09GWGRPVXdIeGVqTzAyWGVrRzcxWlhFZzlxOWlzUV8wc2c2cS10eGdnMFJGRlctVkw0VHh1WFUxN1UzZnJodFQxOFVKZmE2Q0ltOUpkNDJGXzV0T2tTS1pQNlotX3ZacDM2cm44b25QRnpuNEZjLTdGUXdUbmFIWWhranp4YUloWGxKMHplc21JNFMtRjdxNktRRW9JOG5OaXdGTzZ6aFBnemR6Umh0VDVzdE53M2FKYU00d3JEVDlR?oc=5",
+      "pub_date": 1794751250.0,
+      "article_url": "https://www.freep.com/press-release/story/272880/obscurify-ai-implements-unlinkable-inference-and-blind-signatures-for-private-ai-access/",
+      "image": "https://pix.xpr.media/p/eyJzIjoiNDJmZGRmZTItZjYyMS00MDRmLWJmNTItNjg3MjM3OTgwYWU0IiwiYyI6ImEwNmQzYjMyLTA2ZDUtNDgxYS05ZTNiLWVkMmZmZjI0MTExZCIsInYiOjF9.YVBhbeWxNLv5LCx1KbBpGdN7Ow0ooCLEqAam99wT3WQ.gif",
+      "description": "The anonymous AI chat now pays for each conversation with blind-signed digital cash, so it can\u2019t tell whose chat it is"
     },
     {
       "headline": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
@@ -83,28 +103,8 @@
       "article_url": "https://apnews.com/article/flights-grounded-microsoft-ai-chaos-ea5f7a1f95a38f65dd57e58cfc17672b",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Anthropic IPO to test Wall Street\u2019s faith in AI as skepticism mounts",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
-      "pub_date": 1794682579.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6087f3a33618cc9364ec82277902605bc96aab9cd3c7ceb935a01e13522c9330/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fc901758b-302c-42f6-b62a-10ece96bdfae",
-      "description": "Anthropic seeks a valuation of approximately $1.3 trillion to $1.4 trillion."
-    },
-    {
-      "headline": "Thousands turn out in Edinburgh to protest against AI data centres",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GWGc5Vk9UV0Jtd0RoQndRYnc3bWEzWks2U2ZFczBGZHdDYW5UN19XcTFKVWl2RlJuM1Y4T09DdVNlM3I0WTlWeVd4ejRJXzZTc25PVHZSYzBRVms?oc=5",
-      "pub_date": 1794676833.0,
-      "article_url": "https://www.bbc.com/news/articles/c8n50w445zgpo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a19c/live/42893b00-e03e-11f1-88e1-eb4e155225b3.jpg",
-      "description": "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-15T06:58:23.753350+00:00"
+  "fetched_at": "2026-11-15T14:39:20.588590+00:00"
 }

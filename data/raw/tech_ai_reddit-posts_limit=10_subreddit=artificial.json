@@ -10,18 +10,18 @@
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've embarrassingly been working on this project for 2 years so wanted to finally share (as I saw others posting Youtube-only versions). on Youtube it transcribes text to identify checkable claims -> web search retrieves sources to base Claude's verdict on, to avoid hallucinated sources. it's a free Chrome extension, and works on news or social media sites as well. let me know what would make this something you'd use, or what else you'd like to see! Edit: I realized someone not following could misread the video (here Biden is telling the truth, and Trump was lying, but the Trump section is before I started the recording)."
+      "description": "I've embarrassingly been working on this project for 2 years so wanted to finally share (as I saw others posting Youtube-only versions). on Youtube it transcribes text to identify checkable claims -> web search retrieves sources to base Claude's verdict on, to avoid hallucinated sources. it's a free Chrome extension, and works on news or social media sites as well. let me know what would make this something you'd use, or what else you'd like to see! Edit 2: LogicLens - Chrome Webstore Or iOS if you don't use Chrome (Google = :/). Edit: I realized someone not following could misread the video (here Biden is telling the truth, and Trump was lying, but the Trump section is before I started the recording)."
     },
     {
-      "title": "One Router Grounded America? Seriously? Are you sure it wasn\u2019t Rogue AI or a Hack?",
-      "author": "SuzannahB1001",
-      "url": "https://www.reddit.com/r/artificial/comments/1xwd18l/one_router_grounded_america_seriously_are_you/",
-      "published": 1794689649.0,
+      "title": "Are AI leaderboards even worth taking seriously anymore?",
+      "author": "Snappy-Domino4017",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwwdhv/are_ai_leaderboards_even_worth_taking_seriously/",
+      "published": 1794751678.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "So apparently the Trump administration is blaming a faulty router for grounding flights across America. A router. Seriously? Of course a router can cause network failures, but how the hell does critical national aviation infrastructure lack the safeguards to prevent one failure cascading across the system? And who in their right mind schedules an upgrade at 3 pm on a Friday afternoon? I seriously smell a rat because the explanation raises more concerns than answers? Is America being gaslit?"
+      "description": "Every time a new AI leaderboard drops theres suddenly a different model being called the best in the world and then you check another benchmark and the rankings are completely different. Gemini has been doing well in general chat rankings while Claude has been strong in coding, so apparently the best AI depends on which website you happen to open that morning. Kalshi even has a market on which AI model finishes November at number one and it got me thinking about how much these rankings actually reflect what people use every day. I mean a model can score high on some benchmark and still give you a garbage answer to a basic question. At this point I\u2019d rather hear from people who use these tools for actual work instead of another company announcing it beat everyone by three points on some test. Has anyone here switched their main AI because of these rankings or are we just watching companies fight over numbers that barely change the experience?"
     },
     {
       "title": "Anthropic rebuilds Claude Code Projects around a coordinator and parallel worker threads - each thread is a full cloud session on its own branch",
@@ -35,37 +35,48 @@
       "description": "Anthropic posted an update on Nov 14 rebuilding Claude Projects from a folder of files into a coordinated set of working sessions. You describe the work in one conversation; a coordinator scopes it, delegates it to parallel threads, reviews the outputs and assembles the result. Each thread is a Claude Code cloud session with its own copy of the repo and its own Git branch, and it can split its task further into subagents, loops or workflows. The work keeps going after you close your laptop, and you can steer it from your phone. It is a public beta rolling out gradually to select Pro/Max/Ultra subscribers who use Claude Code cloud sessions; Team and Enterprise plans do not have it yet, and there is a waitlist for everyone else. Anthropic is upfront about the limits: threads run only in the cloud for now (local code and VPN support is coming 'very soon'), several parallel sessions burn through usage limits faster, and if two threads touch the same code it surfaces as an ordinary merge conflict in a PR. Sources: Anthropic's product post (claude.com/blog/projects-redesigned) and the Projects docs (code.claude.com/docs/en/claude-projects). What I am curious about: does parallelizing agents actually speed up real work, or does it just move the bottleneck to review and merge conflicts? Has anyone here tried the beta?"
     },
     {
-      "title": "It's 11:21pm and I'm not coding anymore \u2014 my agents are",
-      "author": "AIOSAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xwok88/its_1121pm_and_im_not_coding_anymore_my_agents_are/",
-      "published": 1794724614.0,
-      "thumbnail": "https://preview.redd.it/vs1k9jpp1q1i1.jpeg?width=640&crop=smart&auto=webp&s=d5b29dfc1cfdbe2333b534c75abc1546a0f67517",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "\u200b This is my laptop right now. I built AIPass \u2014 open-source, 18 agents running on my own Linux machine \u2014 and tonight they're just... going. Sentry's doing a memory rollover, Prax is digging through a dead-cwd guard in repo_root.py, DevPulse's sub-agents are checking canary docs and skills docs. Trigger even muted Prax for a bit. The API hit a 429 so it's backing off for 60 seconds. The weird part is BAUD on the right is literally waiting on me to pick A or B for the init cut. I'm the bottleneck now. They wake up in the evening, check email, fix bugs, try to optimise stuff. I mostly just watch. If you had a crew like this running overnight, what would you actually have it do first?"
-    },
-    {
-      "title": "Could AI handle public transit information calls?",
-      "author": "MortallyConvincing",
-      "url": "https://www.reddit.com/r/artificial/comments/1xw6eqj/could_ai_handle_public_transit_information_calls/",
-      "published": 1794673357.0,
+      "title": "One Router Grounded America? Seriously? Are you sure it wasn\u2019t Rogue AI or a Hack?",
+      "author": "SuzannahB1001",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwd18l/one_router_grounded_america_seriously_are_you/",
+      "published": 1794689649.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "During service disruptions people are calling about delays, missed connections, route changes and whether theres another bus or train coming And the information can change every few minutes The phone part seems doable with tools like Elevenlabs or Bland, but I'd want it connected directly to the transit system's live updates before trusting it with arrival times. Giving someone an outdated ETA is probably worse than telling them there's no confirmed time yet."
+      "description": "So apparently the Trump administration is blaming a faulty router for grounding flights across America. A router. Seriously? Of course a router can cause network failures, but how the hell does critical national aviation infrastructure lack the safeguards to prevent one failure cascading across the system? And who in their right mind schedules an upgrade at 3 pm on a Friday afternoon? I seriously smell a rat because the explanation raises more concerns than answers? Is America being gaslit?"
     },
     {
-      "title": "Anyone else my age in here??",
-      "author": "Minimum_Hour519",
-      "url": "https://www.reddit.com/r/artificial/comments/1xwo2z5/anyone_else_my_age_in_here/",
-      "published": 1794722931.0,
-      "thumbnail": "https://preview.redd.it/ygfsc6gnwp1i1.png?width=640&crop=smart&auto=webp&s=ca8b384e7ed3719f16a0a6b8706602270b254855",
+      "title": "Meituan open-sourced LongCat-2.5, a 1.6T agent model, and the only deploy guide is for Huawei NPUs, not Nvidia",
+      "author": "javimbuilds",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwx2hc/meituan_opensourced_longcat25_a_16t_agent_model/",
+      "published": 1794753477.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "Meituan just released the LongCat-2.5 weights under MIT: 1.6T total parameters, about 48B active per token, with text, image and video input. On their own table it scores 88.4 on Terminal Bench v2.1, right next to Claude Opus 5 at 89.1. On the harder Terminal Bench v4.0 the gap opens up: 38.5 vs 53.9 for Opus 5. The catch if you want to self-host is that the model card only documents NPU deployment, with no Nvidia path yet. As someone who builds small web projects, what I care about is that the API speaks both OpenAI and Anthropic formats, so testing it inside an existing agent setup is cheap. Has anyone run it in a real coding agent loop yet, and does it hold up outside the benchmarks? Source: https://huggingface.co/meituan-longcat/LongCat-2.5"
+    },
+    {
+      "title": "Building with AI is now easier but trust takes further testing.",
+      "author": "CrashTestingAI",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwwrm0/building_with_ai_is_now_easier_but_trust_takes/",
+      "published": 1794752694.0,
+      "thumbnail": "https://external-preview.redd.it/CSYO4wr5dX-i8lBlHFmu1dDy2O49rTE_GmtXHyg_P2Y.png?width=640&crop=smart&auto=webp&s=22247d26eac58391ed43c768b082d3bf3f331963",
+      "external_url": "https://crashtestingai.com/lab-notes/building-is-easier-trust-is-harder/",
+      "site_name": "CrashTest AI",
+      "favicon": "https://crashtestingai.com/images/apple-touch-icon-mark.png?v=21",
+      "description": "I think this is a subject that should be discussed in detail, with more and more builders shipping products with AI who\u2019s is actually testing them?"
+    },
+    {
+      "title": "Local Computer use with Row-Bot",
+      "author": "Acceptable-Object390",
+      "url": "https://www.reddit.com/r/artificial/comments/1xwswp5/local_computer_use_with_rowbot/",
+      "published": 1794740973.0,
+      "thumbnail": "https://preview.redd.it/xp49yfxcer1i1.png?width=640&crop=smart&auto=webp&s=082b3d2b4ab26564cc2eaaace8a40f890cf98ed5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Row-Bot can drive your computer. Mouse, keyboard, real apps. Windows and Mac. Handing an AI your desktop is a dumb idea unless you lock it down hard. So: - driver is Cua 0.20.0, pinned to an exact commit, SHA-256 checked. Turning the feature on downloads nothing. You click Install - Cua's own update checks are off, and it runs in a stripped-down environment - before it runs even once, you're told exactly what Cua's telemetry sends. Continue or Cancel - it never types into password, 2FA or card fields, never touches your password manager, never controls itself - pay, book, send, post, delete files, change settings: it asks first, unless you put it on hands-off - it judges every click by what's actually under the pointer. Enter in a chat app means send, so that asks too"
     },
     {
       "title": "Not all AI sounds human.",
@@ -79,6 +90,17 @@
       "description": "Some AI models don\u2019t generate tokens or try to sound like your best friend."
     },
     {
+      "title": "Could AI handle public transit information calls?",
+      "author": "MortallyConvincing",
+      "url": "https://www.reddit.com/r/artificial/comments/1xw6eqj/could_ai_handle_public_transit_information_calls/",
+      "published": 1794673357.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "During service disruptions people are calling about delays, missed connections, route changes and whether theres another bus or train coming And the information can change every few minutes The phone part seems doable with tools like Elevenlabs or Bland, but I'd want it connected directly to the transit system's live updates before trusting it with arrival times. Giving someone an outdated ETA is probably worse than telling them there's no confirmed time yet."
+    },
+    {
       "title": "Don't we want the AI to do our work...",
       "author": "IagoInTheLight",
       "url": "https://www.reddit.com/r/artificial/comments/1xwlffv/dont_we_want_the_ai_to_do_our_work/",
@@ -88,29 +110,7 @@
       "site_name": "towardsdatascience.com",
       "favicon": null,
       "description": "Most people have jobs they would rather not do, but they need to get paid. Instead of \"protecting jobs from AI\" we should be thinking about how people can live without needing jobs and let the machines do the boring work nobody wants to do in the first place."
-    },
-    {
-      "title": "The Chrisrmas Tree Test. Fable, Opus, Haiku. You decide...Just for fun",
-      "author": "AIOSAI",
-      "url": "https://www.reddit.com/r/artificial/comments/1xwj5u8/the_chrisrmas_tree_test_fable_opus_haiku_you/",
-      "published": 1794706856.0,
-      "thumbnail": "https://preview.redd.it/lrpymcvwko1i1.jpeg?width=640&crop=smart&auto=webp&s=a310664ff84a612e75fe22b9f99e9311c5327a8b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Here I have 3 Christmas trees. I prompted each agent \" built me a Christmas tree widget in 2 minutes \" just a quick fun experiment. Here are the results. You decide. Which is your favorite."
-    },
-    {
-      "title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
-      "author": "Eliv_nurotic",
-      "url": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
-      "published": 1794601947.0,
-      "thumbnail": "https://preview.redd.it/ydrml86wwf1i1.png?width=640&crop=smart&auto=webp&s=c25712a47ee08a94858a1edd31d06ea9f3281b78",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
     }
   ],
-  "fetched_at": "2026-11-15T06:57:56.377854+00:00"
+  "fetched_at": "2026-11-15T14:38:50.216453+00:00"
 }
