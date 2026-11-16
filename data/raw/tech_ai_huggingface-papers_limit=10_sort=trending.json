@@ -107,11 +107,11 @@
       "hf_url": "https://huggingface.co/papers/2611.12806",
       "arxiv_url": "https://arxiv.org/abs/2611.12806",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12806.png",
-      "upvotes": 103,
+      "upvotes": 104,
       "num_comments": 2,
       "published_at": "2026-11-08T19:00:00.000Z",
       "github_repo": "https://github.com/Robbyant/lingbot-touch",
-      "github_stars": 563,
+      "github_stars": 605,
       "project_page": "https://technology.robbyant.com/lingbot-touch"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 3,
       "published_at": "2026-11-05T19:00:00.000Z",
       "github_repo": "https://github.com/facebookresearch/faiss",
-      "github_stars": 41686,
+      "github_stars": 41706,
       "project_page": "https://e-means.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-15T20:11:01.506562+00:00"
+  "fetched_at": "2026-11-16T00:11:18.834105+00:00"
 }
