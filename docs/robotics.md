@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-16T07:05:12.370202+00:00'
+updated: '2026-11-16T17:18:17.466254+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 16, 2026 at 07:05 UTC  
+**Last Updated:** November 16, 2026 at 17:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-22h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-16h ago
+1d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-22h ago
+1d ago
 
 ---
 
@@ -82,7 +82,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-1d ago
+2d ago
 
 ---
 
@@ -114,15 +114,29 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
 
-Fortune • 2d ago
+Fortune • 3d ago
 
 ---
 
-**[Nvidia engineer leaves company over lack of transparency around Jensen Huang’s exit, details decision — joins chorus of disgruntled staff as petition to reinstate former CEO passes 150,000 signatures](https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures)**
+**[Can Robots Bring Stroke Surgery to Remote Hospitals?](https://spectrum.ieee.org/telesurgery-stroke)**
 
-Dai's post shows how much Nvidia employees looked up to the former CEO.
+Remedy Robotics is testing whether surgeons can operate from afar
 
-Tom's Hardware • 13h ago
+IEEE Spectrum • 3h ago
+
+---
+
+**[A robotics- and machine learning-integrated workflow for discovering all-natural plastic substitutes](https://www.nature.com/articles/s41596-026-01449-4)**
+
+Nature • 3h ago
+
+---
+
+**[US: Robots play piano and mimic movements of human eyes with artificial muscles](https://interestingengineering.com/ai-robotics/us-robots-play-piano-mimic-human-eye)**
+
+Penn Engineering researchers develop artificial muscles that give soft robots precise movement and fine motor control.
+
+Interesting Engineering • 7h ago
 
 ---
 
@@ -134,55 +148,41 @@ MIT News • 3d ago
 
 ---
 
+**[Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins](https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/)**
+
+If you've ever visited Japan, you too may have been left confused and frustrated by what appears to be a total absence of public waste bins.
+
+Good News Network • 3h ago
+
+---
+
+**[Food robotics 2.0: why this time could be different](https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/)**
+
+Food robotics is entering a new era as companies shift from consumer-facing robot restaurants to B2B automation that help food manufacturers, restaurants, and grocery retailers improve productivity, reduce labor costs, and scale operations.
+
+The Robot Report • 2d ago
+
+---
+
 **[153-Year-Old Builder Taisei Sets Up Fund to Invest in AI and Robotics](https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[Scientists created artificial, life-like muscles for humanoid robots](https://www.popsci.com/technology/artificial-muscles-humanoid-robot-play-piano/)**
+**[Israel ranks second globally in physical AI](https://www.calcalistech.com/ctechnews/article/7cg3rfv6z)**
 
-The components help robots play piano and dart detached eyeballs.
+One in five Israeli startups is building technology that brings AI into the physical world, putting the country behind only Germany. But an AWS study warns that slow customer adoption is holding back the sector's growth worldwide.
 
-Popular Science • 14h ago
-
----
-
-**[FF EAI Robotics Ecosystem Inc. (FFR) CEO YT Jia Shares Weekly Updates on Robots Delivery to Central Michigan University, Brain Blocks AI Module, and Industrial Scenario Validation](https://www.morningstar.com/news/pr-newswire/20261115cn98191/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery-to-central-michigan-university-brain-blocks-ai-module-and-industrial-scenario-validation)**
-
-Morningstar • 3h ago
+CTech • 5h ago
 
 ---
 
-**[Hawaii students put robotics skills to the test in Oahu competition](https://www.hawaiinewsnow.com/2026/11/15/hawaii-students-put-robotics-skills-test-oahu-competition/)**
+**[FF EAI Robotics Ecosystem Inc. (FFR) CEO YT Jia Shares Weekly Updates on Robots Delivery to Central Michigan University, Brain Blocks AI Module, and Industrial Scenario Validation](https://www.wyomingnews.com/online_features/press_releases/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery/article_1487ef29-ebb0-5340-a692-98ad1909f4c8.html)**
 
-Hawaii FIRST Robotics brought students in grades 7-12 together to design, build and program robots for a series of challenges.
+FFR has delivered two Aegis Ultra robots to Central Michigan University, the first customer for FFR in Michigan. This marks the first sale and delivery to a university lab in
 
-Hawaii News Now • 1d ago
-
----
-
-**[Spaghetti Dinner, Saline Robotics Fundraiser](https://thesalinepost.com/g/saline-mi/e/398299/spaghetti-dinner-saline-robotics-fundraiser)**
-
-Come support the robotics team. Mark your calendars and get ready for spaghetti!
-
-The Saline Post • 11h ago
-
----
-
-**[Embodied AI robots take over night-shift parcel sorting in China’s tech hub Shenzhen](https://www.bastillepost.com/global/article/6361563-embodied-ai-robots-take-over-night-shift-parcel-sorting-in-chinas-tech-hub-shenzhen)**
-
-Three embodied AI robots have become star performers at a postal center, joining the night-shift par
-
-巴士的報 • 21h ago
-
----
-
-**[Nvidia Robotics Engineer Quits Over Jensen Huang's Exit: "I Leave With Sadness And Gratitude"](https://www.ndtv.com/world-news/nvidia-robotics-engineer-quits-over-jensen-huangs-exit-i-leave-with-sadness-and-gratitude-12331940)**
-
-The employee praised the workplace environment Huang had built over the years.
-
-NDTV • 2h ago
+WyomingNews.com • 14h ago
 
 ---
 
@@ -190,101 +190,99 @@ NDTV • 2h ago
 
 ## YouTube Videos: "robotics"
 
-**[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
+**[the SECRET behind how robots move](https://www.youtube.com/watch?v=l1g9t9-RFL4)**
 
-Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
+servo #arduino #electronics #education #robot.
 
-📺 Arctos Robotics
+📺 Ethan Fang
 
-👁️ 237K • 👍 3K • 💬 147 • ⏱️ 8:25 • 6d ago
-
----
-
-**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
-
-China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
-
-📺 The AI Nexus
-
-👁️ 43K • 👍 489 • 💬 64 • ⏱️ 15:41 • 6d ago
+👁️ 29K • 👍 977 • 💬 22 • ⏱️ 0:54 • 2d ago
 
 ---
 
-**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
+**[Elon Is Building a Factory for 10 Million Robots a Year](https://www.youtube.com/watch?v=wRihsGZntFA)**
 
-Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
+Tesla is building a dedicated factory for its humanoid robot, Optimus, at Giga Texas. At Tesla's 2025 shareholder meeting Elon ...
 
-📺 CNET
+📺 Megascale
 
-👁️ 25K • 👍 267 • 💬 25 • ⏱️ 4:02 • 18h ago
-
----
-
-**[This real-life Terminator robot is terrifyingly capable#HumanoidRobot #Terminator #Robotics](https://www.youtube.com/watch?v=tbT4Qf-Z82A)**
-
-📺 KnowNibble
-
-👁️ 1K • 👍 34 • 💬 7 • ⏱️ 0:32 • 4h ago
+👁️ 100K • 👍 2K • 💬 228 • ⏱️ 0:54 • 6d ago
 
 ---
 
-**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+**[Kawasaki Built a Robot You Can Ride Like a Horse!#Kawasaki #CORLEO #FutureTech #Robotics #FYP](https://www.youtube.com/watch?v=TQCRgKQWJ-s)**
 
-A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+📺 yukiii
 
-📺 NBC News
-
-👁️ 33K • 👍 98 • 💬 42 • ⏱️ 1:56 • 5d ago
+👁️ 187K • 👍 3K • 💬 216 • ⏱️ 0:29 • 5d ago
 
 ---
 
-**[El Salvador&#39;s Bukele Unleashes Gun-Wielding Robot Dogs, Haiti Gangs &#39;Surrender&#39; | Vantage](https://www.youtube.com/watch?v=bFX4DdkJFBI)**
+**[🚨 Scientists Just Created a Real-Life Terminator Robot? #robotics #robot #airevolution](https://www.youtube.com/watch?v=GW4AJ9TcqnE)**
 
-El Salvador's President Nayib Bukele has shared footage of his troops carrying out anti-gang operations in Haiti. Salvadoran ...
+South Korean researchers have developed a shape-shifting liquid robot that can switch between solid and liquid forms using ...
 
-📺 Firstpost
+📺 AI Robotics Madness
 
-👁️ 1.1M • 👍 11K • 💬 3K • ⏱️ 5:30 • 2d ago
-
----
-
-**[Humanoid robots are getting more lifelike](https://www.youtube.com/watch?v=qIhP7wBIolM)**
-
-CNBC's Arjun Kharpal checks out the latest humanoid robots at Web Summit in Lisbon, including a lifelike model from Chinese ...
-
-📺 CNBC Television
-
-👁️ 5K • 👍 32 • 💬 7 • ⏱️ 1:26 • 5d ago
+👁️ 47K • 👍 943 • 💬 39 • ⏱️ 0:28 • 4d ago
 
 ---
 
-**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
+**[MRBEAST&#39;S NEO ROBOT MIGHT REPLACE HOUSEHOLD HELP #mrbeast #shorts #foryou #fyp #robot](https://www.youtube.com/watch?v=FDdwKqG40wc)**
 
-Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
+What if a robot could handle all your household chores? MrBeast's new NEO robot hints at a future where humanoid robots could ...
 
-📺 Imagination in Action
+📺 Founders Club (Unofficial)
 
-👁️ 15K • 👍 134 • 💬 24 • ⏱️ 37:09 • 5d ago
-
----
-
-**[Built by Chinese college students. How far can these robots go?](https://www.youtube.com/watch?v=U10sAh-4ZZk)**
-
-Zak Dychtwald, author of Young China, goes behind the scenes at the RoboMaster competition in Shenzhen, where he meets ...
-
-📺 CGTN
-
-👁️ 71K • 👍 77 • 💬 3 • ⏱️ 2:01 • 1d ago
+👁️ 30K • 👍 598 • 💬 3 • ⏱️ 0:29 • 1d ago
 
 ---
 
-**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
+**[1500 Mile Door Baithkar Doctor Ne Kiya Operation! #robot #operation #innovation #medicalrobotics](https://www.youtube.com/watch?v=PDZGVnqEdqc)**
 
-Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
+1500 Mile Door Baithkar Doctor Ne Kiya Operation! #robot #operation #innovation #medicalrobotics #viral #shortsfeed ...
 
-📺 Nexio Core
+📺 Taraj
 
-👁️ 60K • 💬 18 • ⏱️ 0:06 • 6d ago
+👁️ 243K • 👍 5K • 💬 26 • ⏱️ 0:52 • 1d ago
+
+---
+
+**[R1 Robot Dog Is My Kind of Surprise Gift🎁#robot #robotics #R1RobotDog #unboxing #ruko #shorts](https://www.youtube.com/watch?v=oS3DU1bPHmo)**
+
+📺 Ruko Toy
+
+👁️ 50K • 👍 241 • 💬 2 • ⏱️ 0:25 • 5d ago
+
+---
+
+**[Robot Training: Target Practice 🎯🤖](https://www.youtube.com/watch?v=A4-orxxtMkI)**
+
+Training day 2. Ten target drones. Five robot creatures. Archerfish: real ones spit water to knock insects off leaves. Spitting cobra: ...
+
+📺 Mecha Creatures
+
+👁️ 458K • 👍 3K • 💬 6 • ⏱️ 0:18 • 5d ago
+
+---
+
+**[Anthropic just dropped Claude Fable 5.2 and its robotics results are getting serious](https://www.youtube.com/watch?v=uPOvpt1-DLU)**
+
+Anthropic just dropped Claude Fable 5.2 and its robotics results are getting serious. The new AI model can control physical robots ...
+
+📺 techniahqrobot
+
+👁️ 32K • 👍 355 • 💬 23 • ⏱️ 2:14 • 6d ago
+
+---
+
+**[Stringman: A Cable-Driven Robot That Picks Up Clutter](https://www.youtube.com/watch?v=X5TJaswUIBw)**
+
+How can a robot move objects around a room without wheels or legs? Stringman, developed by Neufangled Robotics, uses four ...
+
+📺 Mecharithm - Robotics and Mechatronics
+
+👁️ 2K • 👍 50 • 💬 1 • ⏱️ 0:51 • 3d ago
 
 ---
 

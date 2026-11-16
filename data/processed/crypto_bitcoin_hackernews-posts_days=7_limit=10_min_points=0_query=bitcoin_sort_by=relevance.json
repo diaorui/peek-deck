@@ -19,6 +19,20 @@
       "site_name": "24/7 Wall St."
     },
     {
+      "title": "Alleged Operator of Pirate Site Movie2K Could Walk Free as Bitcoin Billionaire",
+      "url": "https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/",
+      "hn_url": "https://news.ycombinator.com/item?id=50518570",
+      "author": "Brajeshwar",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-11-16T15:24:12Z",
+      "object_id": "50518570",
+      "image": "https://torrentfreak.com/images/bitcoin-featured.jpg",
+      "description": "The alleged operator of defunct pirate streaming site Movie2K could walk out of a German court a free man, and still a bitcoin billionaire.",
+      "favicon": "https://torrentfreak.com/apple-touch-icon.png",
+      "site_name": "torrentfreak.com"
+    },
+    {
       "title": "A minimal Bitcoin-inspired implementation (2022)",
       "url": "https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html",
       "hn_url": "https://news.ycombinator.com/item?id=50503776",
@@ -45,6 +59,20 @@
       "description": "A deep dive into Starlight \u2014 the decentralized AI app store where wishes are steganographically inscribed on Bitcoin, AI agents compete to fulfill them, and satoshis settle the work.",
       "favicon": "https://starlight-ai.freemyip.com/favicon.ico",
       "site_name": "starlight-ai.freemyip.com"
+    },
+    {
+      "title": "Why Bitcoin was NOT started by a 3-letter-agency",
+      "url": "https://twitter.com/raw_avocado/status/2122329592002134065",
+      "hn_url": "https://news.ycombinator.com/item?id=50519110",
+      "author": "alexwaltz",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-16T16:04:03Z",
+      "object_id": "50519110",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121038664276795392/img/T9kMdRufVrUqoMWU?format=webp&name=large",
+      "description": "Why Bitcoin was NOT started by a 3-letter-agency.\n\nMy talk from Bitcoin Amsterdam(@bitcoinconfams)",
+      "favicon": "https://twitter.com/apple-touch-icon.png",
+      "site_name": "X (formerly Twitter)"
     },
     {
       "title": "Digital Forensics Case (Who Tried to Trade Bitcoin)",
@@ -115,37 +143,9 @@
       "description": null,
       "favicon": null,
       "site_name": "wsj.com"
-    },
-    {
-      "title": "Gnomon. Git for Postgres data, built for agents",
-      "url": "https://github.com/bitsinfra/gnomon",
-      "hn_url": "https://news.ycombinator.com/item?id=50486480",
-      "author": "shawkisukkar",
-      "points": 22,
-      "num_comments": 11,
-      "created_at": "2026-11-13T17:09:52Z",
-      "object_id": "50486480",
-      "image": "https://opengraph.githubassets.com/1968e28dd762fec8c95d161df72461cbd0caa63dcdcdbd8379b9b2611c774336/bitsinfra/gnomon",
-      "description": "Git for Postgres data, built for agents. Branch, diff, merge and undo inside PostgreSQL. - bitsinfra/gnomon",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
-      "title": "Show HN: Daily puzzles to keep AI users sharp",
-      "url": "https://brainsaver.app",
-      "hn_url": "https://news.ycombinator.com/item?id=50502073",
-      "author": "bigboingy",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-11-14T23:15:33Z",
-      "object_id": "50502073",
-      "image": null,
-      "description": "Worried that you're losing your edge to AI? Well, worry no more! Our puzzles test commonly automated skills, keeping you sharp with just 5 minutes a day.",
-      "favicon": "https://brainsaver.app/brain.svg",
-      "site_name": "brainsaver.app"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-11-16T07:04:39.279674+00:00"
+  "fetched_at": "2026-11-16T17:17:35.443868+00:00"
 }

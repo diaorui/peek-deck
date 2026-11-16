@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjB4X1BOTnFyWEdidVZIbzZnUjJqSFJvUjFUZkJ3TDFoZm9KNnViV3BKR0tvbTRwTFZWUUVsSHFfdjVzZVVCdEFuUkd5N3A1ZENveEMxYnlkTVNDRGdFakswTmhLX2h4MTdvcU5iaEVxSUFfZEE2Qi1UX1JfX1g1VWpUTWw5dTB4UTdud3BTUlFLblFaenlUb1QwN2F1cUhYaHFrT2JFUXRSUy1iSUZucGJxZ0FSSTI2?oc=5",
-      "pub_date": 1794796200.0,
-      "article_url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
-      "image": "https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2409218b017c527425255b8d0940d9d",
-      "description": "Calls for governments to recognise sexual exploitation of children as preventable public health emergency"
-    },
-    {
-      "headline": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRVRId0ZUcVRGRlNaOFhjRE5vUUVQWnZ6OElxc0llcUVsaXAxbDFxdXJocTh6UTc2OGN6VnZuN2sxMnZROVhnaU1aTWVVUlZLbU1KRzFYT2ljczNYTV9FTVQxWnFrS2xNdDdZQ2FHejNDUjh2d29PbHRROA?oc=5",
-      "pub_date": 1794736080.0,
-      "article_url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+      "headline": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5",
+      "pub_date": 1794846900.0,
+      "article_url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk?oc=5",
-      "pub_date": 1794802620.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/trump-administration-name-nvidia-other-ai-firms-us-national-champions-wsj-2026-11-16/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "U.S. plans to name Nvidia among AI \u2018national champions\u2019, WSJ reports",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUlyVXF4VGRYZk5aS2ItdkUxcFFTZVc0WUxLMTRBQkozNDBoS1J2VUtZbjdkX0FLRnpqUWdjV1VhMEpiLTFfR01WdjE2dHFQOWFJcDhwSU54U2lzNXhUeDc3NWZ1S1JWU2JWbmtHWG4teUkzWGhadFdJY1FiajlBSlBQa0R2SUk2RnRHTFBzN3FQcVE?oc=5",
-      "pub_date": 1794807853.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/u-plans-name-nvidia-among-053052700.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
-      "description": "Investing.com-- The Trump administration plans to designate more than two dozen companies, including Nvidia (NASDAQ:NVDA), Amazon (NASDAQ:AMZN), Microsoft (NASDAQ:MSFT), OpenAI and Anthropic, as artificial intelligence \"national champions\" to help them expand overseas and compete with Chinese technology firms, the Wall Street Journal reported on Sunday."
-    },
-    {
-      "headline": "McDonald's AI-generated mural of Blackburn riddled with errors",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMTN5Q29yMDNsQW5DdWgxS1ppbWVXSDJYTWNzQlQ0bEVIMDlPNFBtRmJ4Nmg3UFRhdnZYaVRMS0NJM1VjVXY5Qk5SLTRjWDdVNWZSeUJhUXBVQXFBcktrMUxvdkFDejJlMGFTdVJIMTc4N2VRcG5wbkpHZEQ0NXcySktKYWwteE0wWXFUdzRHSWxSeXVJaS1wTEctUUltZjV5NlVvU1puUDdhTk1Eb0RZUm80WUZIQkpNaGtBbVNyX1pMcGRUU3Y2VXZXZ3pvbmxkelA3NlVrbUdVSzJNLUt4b0F4aw?oc=5",
-      "pub_date": 1794810127.0,
-      "article_url": "https://www.bbc.com/news/articles/cqp86e116ek3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/54fd/live/22ecec30-dfab-11f1-be1f-9dae57fabf82.png",
-      "description": "The fast food outlet says a replacement mural will now be created with the help of a local artist."
-    },
-    {
-      "headline": "Watch Global Investors Return to Indian Stocks After AI Trade Woes",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDdSUDQ2ZGxQS3c0M3pfV0dmOHlpSDlLcjhQMjJOYjY2OTB6d2pXdXduUGs3bG5zQWFqWjRlLWViVjBXUGJPVTF2NnFIM2tuZUlEQWt6TTJXSWFaRXFWVEotczdNMVd3c3RMNnI4bEdVcHhVYWxHMlZNOVhtRDczQ1I3TU5oR2h3WEVOQmsycUpCeGhGTFdyTTNjUGV5U0J0SE9qcjJMemxLeGxaeXc?oc=5",
-      "pub_date": 1794810683.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-11-16/global-investors-return-to-indian-stocks-after-ai-trade-woes",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
-      "pub_date": 1794769800.0,
-      "article_url": "https://apnews.com/article/flights-grounded-microsoft-ai-chaos-ea5f7a1f95a38f65dd57e58cfc17672b",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "headline": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5",
-      "pub_date": 1794744001.0,
-      "article_url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551525-1794626973698-gettyimages-2297195304-AFP_C9PF6JT.jpeg?v=1794627031&w=1920&h=1080",
-      "description": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum."
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ldVNDZVFSVmJ6dW1CSnZPQlJwZlhwVWNUTmhCMG9zNDFtTXFrcDBMOFA2ZkhOT0MySTFzbWdqYzhkajhNdHRPWlBTQ2J2MWRBekpUa0tSX0d6bHpnM3QzVG9oVzgxT0lMX1Vxc240cWcwbkhOd2fSAXtBVV95cUxQYzFJYk80R1pCSk5OZ0tnc2lEb2VSenNhcTN0OTNrRGs4LU5wcUdCNS1PVjZkQXc2UzhjXzltM09BdXF4T2Y4VDFZcUZUSW4zNjFORW1JMWNEYVRFM25LZC1yQVhpYmllQkVJWEVTdGpJMTY0cjFpZGhnR3M?oc=5",
+      "pub_date": 1794823201.0,
+      "article_url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108212478-17605442322025-06-03t191307z_31999241_rc26vea8kaq9_rtrmadp_0_usa-congress-tax.jpeg?v=1794797171&w=1920&h=1080",
+      "description": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company."
     },
     {
-      "headline": "As students rely on AI in college applications, admissions offices scramble to keep up",
+      "headline": "\"One wants to be friendly with China, and one wants to have a blow up with China.\"",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjFXd25aLUk4Vm5MYzJDbW4xbUFZX0tOZU1zY3NXaFlBR0hjcVVud002RDVWSFBFNXcweWxzQ0M2YTFUcm5ZZ3NOVE0ydHp6d2NjWWt6M19QMGtRbHV1cjF3NkVfaGVESXkxenpHT2s2dkVMd05VMDZVbUJnRVRfWXdMUGxnUkwwS3c?oc=5",
+      "pub_date": 1794847387.0,
+      "article_url": "https://www.axios.com/2026/11/16/trump-admin-moves-to-close-china-ai-chip-loophole",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Standing on one leg\u2019: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2Y4OFJIb3ZGWnNHQmZicjBxSlV3cmRoVmppVm01OXJFM2FrUFltdjR5bkVpRjkyRVdQUE5WcXRQdFViSnh2VWFLbm83YlM4ck1NRWFIc2R2bE9WZjQ4bzBGVll0MG8ySXdwSnRLTE4ta21yVWYwTGJOYmdfNFhtVU5fRnNWbWvSAYwBQVVfeXFMTVJ3aHB1VkxySHItTS1FeWJjbWE1VmlQWElKb0xjRDJBbzFnX0UtTk1PV1JKVklpdVpsU2Q0SHd6XzJwYTVMVWw5bExaMk41V2JFcjZQeVowdWh3Q254QjRwb2lacmxMeGRLc04wcnpYenlmODJhTGt5Z3c3OUpUcW5fOGRQRjY1VnNILWE?oc=5",
+      "pub_date": 1794820214.0,
+      "article_url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108533958-1793988889190-gettyimages-2303346838-UEDA_IMF.jpeg?v=1793988928&w=1920&h=1080",
+      "description": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools"
+    },
+    {
+      "headline": "New litmus test for 2028 Dems: Refuse AI campaign cash and pass regulations in year one.",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tTml4amY4MVZVR3Y3TUFzOG1Yd25zbTRrM3RneC1LeHhVSXRGSnZoSThFY3NraXpJdDdSaDhSZkZqeEI3cEhyX29FUDFyZmdvcnFvUjI1d0MzcVpNWjd5XzhDYnVZMHVjdWdhbmJoS094U3B1?oc=5",
+      "pub_date": 1794847315.0,
+      "article_url": "https://www.axios.com/2026/11/16/2028-democrats-ai-regulation-poll",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI will embed Apollo researchers to investigate AI subversion",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGwxMmpFWW1rLXdmMmZSeG9faHNxQjQzNmVZN1k0ZXVMY0wxQXhtRWNrNjFhOW9kRlp4M0RvVy0tczdJQ0k1TFZXa2xRTTNfSlJVMlViRXVQajZTRDhyMldKQ3hTVmIwT0FuVlBMcnJBeDlVNGxla2Z5TWR3MlBNTVh3N201c3N1bnQ4a3l6NV82cTg3ZzNYTjlVMmVHcVl4TUE?oc=5",
+      "pub_date": 1794848563.0,
+      "article_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
+    },
+    {
+      "headline": "AI-assisted imaging method advances 150-year-old technique for studying tissue",
+      "source": "Medical Xpress",
+      "source_url": "https://medicalxpress.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXBxdkJhY3M3dldNY19RNEQ1blQxR1I5X0NLbnoxMUhNaFczZTcxWF9DM3hHUnRjc1lOaVd6NTBfRFBfUnY5TVJ4UHN4blRRaXQzTEZ4bFJYRjRnZUpxZjl5YWhBZENnNS1qRXRRbHlLWkQzazk3Ym0zdk1DbnVVQQ?oc=5",
+      "pub_date": 1794848430.0,
+      "article_url": "https://medicalxpress.com/news/2026-11-ai-imaging-method-advances-year.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI bubble will likely burst and cause a recession by 2028 election, Wall Street\u2019s former top cop says",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CZ2NpMEVVUjdBWWRaRURkRjVJRjRRUEswZXNTT3RWUjlxNzNkRV9yaXRCajVCS1VYQWFOR1p3RkVmbkFuR2s4SUVKbklfNUxvcUxVRWlQWkFoYlFrTUlhNktfcU0xNDBEeDNXSFNPTUFnckJl?oc=5",
-      "pub_date": 1794742216.0,
-      "article_url": "https://www.cnn.com/2026/11/15/tech/ai-students-college-admissions",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2227536341.jpg?c=16x9&q=w_800,c_fill",
-      "description": "The college admissions essay is in a very weird place. It\u2019s impossible to say just how many of them are now written by AI, but at this point, experts agree that it\u2019s a lot of them. And while colleges generally frown upon that practice, they\u2019re using AI to evaluate the essays, too."
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ISTFFbzctbFN5S3RraVZnbzBORlh6VHFWYS1rOTQxU2tiVDhkNDlGVS15R1UzMnVXUXQ1T1FKeWNYNmktNXozd3RnUXNGUjdNcDdqUUFxaTR0QU1PMGVCVHZkZWYyYlIwWjZUeXNUekNwVEE0cV9wcjVqWTE?oc=5",
+      "pub_date": 1794823215.0,
+      "article_url": "https://www.cnn.com/2026/11/16/economy/ai-bubble-anthropic-ipo-recession",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2303375833.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The artificial intelligence boom is a bubble that will likely burst and cause a recession prior to the 2028 presidential election, Gary Gensler, the former top cop on Wall Street, told CNN."
     },
     {
-      "headline": "Accounting student\u2019s AI cheating sparks South Korean exam furore",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWpRX0ZtbmdtRXVWTG1IaXlkS21ZLVA5VUlmdV9faENwVWFIcVpOb0ZLVzMyUWZTUUxYdkZVelpEaGM0bmFVSWNIUlpzbklwcWV2M0Foa2tqVlQ1T1NFaEl1Q0JzcUNUYjRiZ0tlVWFPZ0lJc0ZyMHFuRUIzdUtCSjA0UTg?oc=5",
-      "pub_date": 1794803890.0,
-      "article_url": "https://www.ft.com/content/5cf11f3d-0d22-4eb5-8279-7533e161e4d0?syn-25a6b1a6=1",
+      "headline": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUENIeGFqX0FwQk9Vcm5VekZSY0xES05yc3k2bHFqY1JDZ0Y2cG0wWTl0QXNqZ1lJR3N0VUZYM0hGR3R5NVR4dGlXZ0JzMGFESDdVZi1hR3dBREM2SmsxODAwQmItd2xtS2RFdkVvZjQ1LUNWOV9OZkdTSVJfQ3piTkVZYlVMdw?oc=5",
+      "pub_date": 1794827940.0,
+      "article_url": "https://apnews.com/article/faa-smart-ai-outage-08af345749c81fd8364299cd75275fa6",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "BlackRock Shifts AI Bets, Adds Equity Risk in New Model Shakeup",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGZ4V3B6NFVBWmRlYXl1Q0pUc2IySFdrb1hIcUxGcnNvZHVndW0tZEJUQXVKNEdvWTJwaUctNThfUFBxbzNjUEptRHVZeGVLWHVMTDc1TUNua1BwWjJTaWYwbW5rN1hOU09LY1FsRmhrb3ROdUJQSnZMelh2ZUcyel9ZZ1pCazlxaW9sbWdjVjZLcmRwUUdKZHNrbjVKRDRHem9rU0hCV1B1b0hvaVRfWFllUQ?oc=5",
+      "pub_date": 1794837359.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-16/blackrock-shifts-ai-bets-adds-equity-risk-in-new-model-shakeup",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-16T07:05:10.527454+00:00"
+  "fetched_at": "2026-11-16T17:18:14.603924+00:00"
 }
