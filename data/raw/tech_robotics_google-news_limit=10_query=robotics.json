@@ -15,14 +15,34 @@
       "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
     },
     {
-      "headline": "Nvidia engineer leaves company over lack of transparency around Jensen Huang\u2019s exit, details decision \u2014 joins chorus of disgruntled staff as petition to reinstate former CEO passes 150,000 signatures",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPdHBnRXRod2llUXMwdlVEVnZHQVlSOTdxYU4zcGdSa05aYkFpdFhsdng0cm9oeHhNVmoyTE1xVFBQTl9qVk5jV0liN3h2SlZXcGJPQVRyWldYcXRUYlVfSnhydjc5a3JtYXJRTjNqc3F1ZGI2dS1MUjYwRmFLTHhKRW1Vb0FCNWllb2pQYzJZbFFPQW16N3g3X2hmZURnMHMtNUJOYURJUkpVTjhtWU9zT29XcjFwS0paWFdFQlZwXzFXclZuWXZxc0FybzNyYmxXX3N3czdyNlZrcTRKMkpNSElBYlpuUUs2eVBndlRqZ0U0ZlFhdlY5cGRsc2dfVlZyeWZuQTgtcG9BUzFpWDVkQUpGM3RyU2ttSzFxQmU3Zy11N3BKcnJvdFMwVy1GX3hPRUZoaFFTVkxWWGkyM21HTE15MnVhRmZrY0s1TkR0OF9tcmVyUmdJRTZkdw?oc=5",
-      "pub_date": 1794765375.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures",
-      "image": "https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-2560-80.jpg",
-      "description": "Dai's post shows how much Nvidia employees looked up to the former CEO."
+      "headline": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbHI3YmFGMURtSnRoeEVQNjdReXoyOGpsT19aSVFUQVRNOEsxMXVIcWltWC1EMEdpZDk5LWR0VGhmTGhSb3NHSG9pVzdrQzNwdm1qcHhBdw?oc=5",
+      "pub_date": 1794838090.0,
+      "article_url": "https://spectrum.ieee.org/telesurgery-stroke",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68667045&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+      "description": "Remedy Robotics is testing whether surgeons can operate from afar"
+    },
+    {
+      "headline": "A robotics- and machine learning-integrated workflow for discovering all-natural plastic substitutes",
+      "source": "Nature",
+      "source_url": "https://www.nature.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6UW1IdVZSTnNieTl5UTMxd0p4eVFDWXNsTXlTdzVMSmVYX1htQmd1R3lFdlNQeHpxQU1XZFJqbVdXZWFjNk1jWXdYTDhWYlRXZlQtSXZ1bEhOWVVfeGJF?oc=5",
+      "pub_date": 1794836986.0,
+      "article_url": "https://www.nature.com/articles/s41596-026-01449-4",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "US: Robots play piano and mimic movements of human eyes with artificial muscles",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXpyYjYxT0V6VVJzNG9oektsZEVOTVBHOTE0b1dZUktqNDluYWFkZWxZV3J2QVROWjRRdHNYVmNJS2xraHhrNS1YM2dMN1VMeHZ6X1VmRUVYRW0zM0xZeEwyRnFLNkhBc2ZmWFFUeWRYd25CaERVQUlubjh1bHhOWWQyR0ctZkVtZmR3?oc=5",
+      "pub_date": 1794823620.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/us-robots-play-piano-mimic-human-eye",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-2-7.jpg",
+      "description": "Penn Engineering researchers develop artificial muscles that give soft robots precise movement and fine motor control."
     },
     {
       "headline": "Helping robots fit into the human workplace",
@@ -35,6 +55,26 @@
       "description": "Robust AI\u2019s robots collaborate with humans in logistics warehouses and on factory floors. The startup was founded by MIT alumnus Anthony Jules and Professor Emeritus Rodney Brooks."
     },
     {
+      "headline": "Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins",
+      "source": "Good News Network",
+      "source_url": "https://www.goodnewsnetwork.org",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWVMMU1tSzVmTktxX1gzYmpaMWVnUmhuS0l1eGpMaDJCZGxJZDJ0QndlQ1lLM0FHTEpvbUU2WkIzZ3ZLS1RLdHBKLUIzMk9kZElMcWVybzFVWHVZNVMySHpJREtDMjlXQ1JBRmNnX3VDWEh6Q3hmaG5EdkNGU0dVUFR3RFJvblhQMVhTUEtDelJrTzZReVJadG5uYnBPeUw2alc2aGQ4MW4tYm9kdG93?oc=5",
+      "pub_date": 1794837603.0,
+      "article_url": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Smart-solar-powered-trash-compacters-credit-Forectec.jpg",
+      "description": "If you've ever visited Japan, you too may have been left confused and frustrated by what appears to be a total absence of public waste bins."
+    },
+    {
+      "headline": "Food robotics 2.0: why this time could be different",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmJqYy12NXVJVUJRa056OEphWTlUcTY2X3hCdlpUMVVGMHJ4Vk16Zm5QRU81djkxeHhNM0ljUnRtVUJ3VnBEQkNidmRLdWVZX2Z3ckxJVDZBeFhsbS0tcEg4OGFmTG1PaXlHQmJFWlNPQkVBbl9RX19NTFVtdmhvaHcwMWE0Q29jY1E?oc=5",
+      "pub_date": 1794643200.0,
+      "article_url": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/image1.jpg",
+      "description": "Food robotics is entering a new era as companies shift from consumer-facing robot restaurants to B2B automation that help food manufacturers, restaurants, and grocery retailers improve productivity, reduce labor costs, and scale operations."
+    },
+    {
       "headline": "153-Year-Old Builder Taisei Sets Up Fund to Invest in AI and Robotics",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -45,66 +85,26 @@
       "description": null
     },
     {
-      "headline": "Scientists created artificial, life-like muscles for humanoid robots",
-      "source": "Popular Science",
-      "source_url": "https://www.popsci.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNTU0YXZzcm1rSmZTdnB4dVROb0w3Zi1SblY1aWMybnVzc1poLThxcGUwNlFxTExWa0VIMXJBTE50QTBNM1pyQkFQRGlnX3hoaW9kT2tSRTRQYlRSbVZHd1hBX2U1M1hPZm4zMGxnYkVlWXkyc3otNnZ6dVJIVFoyRHJDRHJBdw?oc=5",
-      "pub_date": 1794759300.0,
-      "article_url": "https://www.popsci.com/technology/artificial-muscles-humanoid-robot-play-piano/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/11/robot-eyes-muscle-lead.png?quality=85&w=1200",
-      "description": "The components help robots play piano and dart detached eyeballs."
+      "headline": "Israel ranks second globally in physical AI",
+      "source": "CTech",
+      "source_url": "https://www.calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOUFsNVlVRXh5cHU3NGhySkhkOTlGM3RJRm1KUDBVSmFJVmVQRVdaOGhTbXZBS3ZtVkVmY2pfRjk4eWJMdHNDS2ZXQlYzeXNOeFNFcTl5TU1VbTRhQkFBZ2dIRE5ja1U?oc=5",
+      "pub_date": 1794831480.0,
+      "article_url": "https://www.calcalistech.com/ctechnews/article/7cg3rfv6z",
+      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/06/HkdzcyoVWe/HkdzcyoVWe_1_39_1601_901_0_large.jpg",
+      "description": "One in five Israeli startups is building technology that brings AI into the physical world, putting the country behind only Germany. But an AWS study warns that slow customer adoption is holding back the sector's growth worldwide."
     },
     {
       "headline": "FF EAI Robotics Ecosystem Inc. (FFR) CEO YT Jia Shares Weekly Updates on Robots Delivery to Central Michigan University, Brain Blocks AI Module, and Industrial Scenario Validation",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPVmJMeHdXV0l5X1NKOUcyT3RDaWtmejJqdTdLQWhtZEtFZ2dzRmdqZGc4cnhSc1FmUEJxR1R3NERlZTBPUVMwWUw2RE5sZjJoNkd5NDF3VWVxcGZHQlJvNFl2NDJkRkJkeGpORFFMbWZ4RnN1WWtsOVhqd3VuVTlVazVHSWVVUF9qVFRiWVFYZUlObGZ5bURhWTZwZnlTalM5SVpqUUx6THRyVnJnazQ1SjRsYmFZcHFKMzZSVHdCeEdzUmFTTzR0RWxrLXhYZU1ZUFR4MHdLR2RmcGI2OXFGTW1ZNjR5VEhZZ2tpcUJZSDNHVWZUaTRBMTBaRUNmdFJnREpEUENGaEgtdTBnam9DM21mbXdFT0toWld4WExaT0plZ1QzeV9kVHQ2Q2V1RlNaZlpHMDdKdW1JNlMwZU5WWnN1emJ4c29IZDl3aGoyS3VJa0pHbnc?oc=5",
-      "pub_date": 1794800035.0,
-      "article_url": "https://www.morningstar.com/news/pr-newswire/20261115cn98191/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery-to-central-michigan-university-brain-blocks-ai-module-and-industrial-scenario-validation",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "description": null
-    },
-    {
-      "headline": "Hawaii students put robotics skills to the test in Oahu competition",
-      "source": "Hawaii News Now",
-      "source_url": "https://www.hawaiinewsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0F4R2RpV1c5M0E4SmFuQWtZU1VJek9oWmRyX3JHNEY5VVZDMXM2ajd4cHFQakhOMzVKbFpwbjJuTVZ4ODBZOWJneE9PQkYtM3k2blM3ZTc1NFVGRjdtU3AtcFR3TkthRmZ3MnQ1WUpOb0ZMZmdVNlk5RGJScHYyeWE1NTR6VmU2RFdNcnFSTDdERmtDdnp4M1dsbVhOM1Ff0gG0AUFVX3lxTFB3cEFxbjlXMkJ6bWZBaXE3X0Z5SDRVdFdETXN4ZTE4LTN3ZWlxZUtCdWVYakc4M1AyLWNhRW5WMi1EbWtxRjJBN2dYOXFDc01FUFIxV291MWdVOFlCTmlBSnVWaVBJRmdVWlRCSWFiYmgzN1MxeVhhSjFaXzBEeFY4eG0yOXh5eFBOTEFuRWZtdmpHUGJLYTh0cFA1XzNQelh3b0oxazVYVzZvSFo3Vl9kQ041NQ?oc=5",
-      "pub_date": 1794715320.0,
-      "article_url": "https://www.hawaiinewsnow.com/2026/11/15/hawaii-students-put-robotics-skills-test-oahu-competition/",
-      "image": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/JMYBJNOYSBERNBMERWBWIJAEU4.png?auth=3cd914147bd6386578d10abee540efe8a6e7a34d9821e21180ada385f23c3b90&width=1200&height=600&smart=true",
-      "description": "Hawaii FIRST Robotics brought students in grades 7-12 together to design, build and program robots for a series of challenges."
-    },
-    {
-      "headline": "Spaghetti Dinner, Saline Robotics Fundraiser",
-      "source": "The Saline Post",
-      "source_url": "https://thesalinepost.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUVxZmowamJoWXBKdWFIUGljUkFtNUZHZy1adVNOWkU3WEF2Z1BRVjdXRHZyNmJvRlNEMkxvODcweENkQ2c0a055T3oydWxPLXhZWE9YMDlDd1FmeGc0QmtubTB2Mjd4a0czaldlbXYyRHJSWnB4eWxsemdmWmh2dktrdGFCdVIyRjEtcEwxVklEREMy?oc=5",
-      "pub_date": 1794769564.0,
-      "article_url": "https://thesalinepost.com/g/saline-mi/e/398299/spaghetti-dinner-saline-robotics-fundraiser",
-      "image": "https://thesalinepost.com/sites/default/files/styles/extra_large/public/event_images/73/15-11-26/event_image_91036.jpg?itok=dJlJ9Sdr",
-      "description": "Come support the robotics team. Mark your calendars and get ready for spaghetti!"
-    },
-    {
-      "headline": "Embodied AI robots take over night-shift parcel sorting in China\u2019s tech hub Shenzhen",
-      "source": "\u5df4\u58eb\u7684\u5831",
-      "source_url": "https://www.bastillepost.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcVBwN002RU9YakRqS0ViMU14WWZMNHhjbmk2WUxEOGc4ZEFUcWh4MnFRaVA1V0RxdjE1UVd1YmFMQ3pCUDYzeU9BU2NmY1k1ekc5SkdVZGhTR2YtMjVOa2s2U2l0a0E4TUp1bFZndEVIUDlrdW1uQ2VYOEFwNUxlV0s4bWpJTTkyRHNsbjVSR3RhZnNmbHlMbEc1M3FBdHZCRnc5TnJnZ3NDUGpJd0JOWlhYVWM3VjJOZXlvOEItX1RESjQ2bS1rLTdWNVp6SnQ0?oc=5",
-      "pub_date": 1794734040.0,
-      "article_url": "https://www.bastillepost.com/global/article/6361563-embodied-ai-robots-take-over-night-shift-parcel-sorting-in-chinas-tech-hub-shenzhen",
-      "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/11/8508421_1794741768002_a_FB.jpg",
-      "description": "Three embodied AI robots have become star performers at a postal center, joining the night-shift par"
-    },
-    {
-      "headline": "Nvidia Robotics Engineer Quits Over Jensen Huang's Exit: \"I Leave With Sadness And Gratitude\"",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzkwVXMtalpiRVNZM0pDeWJlR1EwUUhMVFVIZmRWUzBMR05nVDRZb2tWeHp5emFuRHJMRldVY01pX0VDQnU5anFMWUhON1NuTkk4UlRTY2JDMGpnUVJqRVB4T2tXbzhvWV9DdklsSnlXQ3lKUFpxa3dMTVZaVWQwLTZXQ0xReHZiSWNCSHZLcWMyUlo5UDJ3R3NheVJlbm5wT2dVN09tdWRnMmRlTy15djlNaDhrN244RDByOTYwNUtXWnZ4Y0FZYmpn0gHSAUFVX3lxTE9WbE1vY3pXRkZmcGNIOHhzeURrN0FrTEVLOC04SW9ZYzNKbzc5YXJIOUJNYXFIaWpFLTV4VGpOMF82V1JVSmpjbXI2Rk5kTmVuVkhhdWxJd2MzQ29aMkIzVWVrYVlPZHlwckYxM1Ntb1JuSGRSRDhXMUxfd0p3LVFZSGhKOUhra2R2SlIwWXhTODNnR09YSm9uTWVXekl2MWp5TXRYOUoxNHRRdDNyZ0VSSGZqR1JRaGc1TWhyZDRGZ3pBTUQtMkphQXBfc28wNHBKdw?oc=5",
-      "pub_date": 1794804424.0,
-      "article_url": "https://www.ndtv.com/world-news/nvidia-robotics-engineer-quits-over-jensen-huangs-exit-i-leave-with-sadness-and-gratitude-12331940",
-      "image": "https://c.ndtvimg.com/2026-11/2patg6mo_nvidia-_625x300_16_November_26.jpeg",
-      "description": "The employee praised the workplace environment Huang had built over the years."
+      "source": "WyomingNews.com",
+      "source_url": "https://www.wyomingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNUUZHdzBVYUEzMG1ja21LajVMcmRmS0xzZTNBNlFGcGNnZDlNdGhzQXdNaENSejdqaU95VVNDZTVXU1N6QXNOSUlXblo2cWsyMjFvT2h4ZllzdEhvZVgyY2Z0MUpmQjlKUUFYMVI1MG9jZlJXM3BETjFDSlQ2LXN6dkJtOEZMeUk4MG44MkJmc1liUVhBeUFrcWxRZTQtbzE1SEtiZmlpaE8tUV8xMGJuQlp4cUs4VERYV21sNjV4eDJfTVkyV1RwYnc1Z1FJc3VCaWZNY1BVa1hlV2prTDMxVWJncXd3U3dkQ2RtT1RwMjUtdW9JS1pVNHRhdUlia1Zpdk1sQW0yTWd2SDIxYnJfRGw3VEdNdXBOSndzZ3lEMA?oc=5",
+      "pub_date": 1794795720.0,
+      "article_url": "https://www.wyomingnews.com/online_features/press_releases/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery/article_1487ef29-ebb0-5340-a692-98ad1909f4c8.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/b/17/b177bc2e-61b9-53eb-a4ba-fc0d2cf56865/6afaced4032d9.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "description": "FFR has delivered two Aegis Ultra robots to Central Michigan University, the first customer for FFR in Michigan. This marks the first sale and delivery to a university lab in"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-16T07:05:00.951446+00:00"
+  "fetched_at": "2026-11-16T17:18:02.510574+00:00"
 }
