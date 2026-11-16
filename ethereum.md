@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-16T07:05:12.368608+00:00'
+updated: '2026-11-16T17:18:17.463044+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 16, 2026 at 07:05 UTC  
+**Last Updated:** November 16, 2026 at 17:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,826.31
+### $1,821.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -11.4%  
-**30d:** -24.6%  
-**90d:** -19.3%  
-**1y:** -40.0%  
+**24h:** +0.8%  
+**7d:** -10.9%  
+**30d:** -24.1%  
+**90d:** -18.7%  
+**1y:** -39.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.01B
+**Market Cap:** $223.06B
 Rank #2
 
 **Circulating Supply:** 122,224,476 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.3%
+-63.1%
 
 **All-Time Low:** $0.43
-+419410.0%
++421391.6%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew quick slots from Hegotá upgrade, Glamsterdam gas repricing findings due November 16
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 3d ago
 
 ---
 
@@ -96,7 +96,7 @@ Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-3d ago
+4d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello all, We are building a tool for interfacing between wallets and users as a fun learning project. I wanted to know what are the most operations used within wallets? Are smart contracts common for the average user? How about cross-chain swapping? Please list out more operations if they come to your mind.
 
-5d ago
+6d ago
 
 ---
 
@@ -152,17 +152,49 @@ Hello all, We are building a tool for interfacing between wallets and users as a
 
 ## Google News: "ethereum"
 
-**[Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-black-monday-102605004.html)**
+**[Tom Lee Says Ethereum’s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-slide-145345476.html)**
 
-Peter Schiff said Ethereum would drop below $1,000 in April 2025 but the token didn't drop that low. On Aug. 24, 2025, the token reached a record $4,954.
+Lee suggested that investors may be selling ETH to raise cash ahead of Anthropic’s planned IPO and amid market developments involving Nvidia.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business](https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business)**
+**[Is another crypto winter upon us? Why Bitcoin, XRP, and Ethereum fell more than 20% in a month](https://www.fastcompany.com/91642991/crypto-winter-2026-bitcoin-xrp-price-falling-why-down)**
 
-CoinDesk • 1d ago
+Bitcoin's value has roughly halved since its peak in late 2025. As popular tokens continue their slide, investors are heading into the 'extreme fear' stage.
+
+Fast Company • 3h ago
+
+---
+
+**[Bitmine Adds 7,653 ETH as Tom Lee Defends Ethereum Fundamentals](https://finance.yahoo.com/markets/crypto/articles/bitmine-adds-7-653-eth-152700846.html)**
+
+Ethereum treasury company Bitmine Immersion Technologies (NYSE: $BMNR) said Monday it acquired 7,653 ETH over the p...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[ETH news: Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum](https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum)**
+
+CoinDesk • 9h ago
+
+---
+
+**[Current price of Ethereum for November 16, 2026](https://fortune.com/article/price-of-ethereum-11-16-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
+**[Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support](https://www.tradingview.com/news/stocktwits:1bf49b784094b:0-peter-schiff-warns-of-a-black-monday-for-bitmine-and-ethereum-etfs-if-eth-loses-key-support/)**
+
+BitMine Immersion Technologies (BMNR) and Ethereum (ETH) exchange-traded funds (ETFs) may experience a "Black Monday" if the token breaks a significant support level over the weekend, Peter Schiff said on Saturday.Schiff made the call in a post on X, after an earlier warning on Ethereum. He said th…
+
+TradingView • 1d ago
 
 ---
 
@@ -172,59 +204,25 @@ Benzinga • 1d ago
 
 ---
 
-**[Solana co-founder responds to Ethereum critics as full node runs on tablet](https://crypto.news/solana-co-founder-tablet-node-firedancer/)**
+**[Why are Bitcoin, Ethereum and XRP still falling?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-face-increasing-selling-pressure-etf-outflows-202611161030)**
 
-Solana co-founder Anatoly Yakovenko says a Firedancer node ran on a tablet using one CPU core, reviving a 2023 debate over blockchain hardware demands.
-
-Crypto News • 16h ago
+FXStreet • 6h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree](https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/)**
+**[Vitalik Buterin backs leanPCS for scaling Ethereum’s cryptographic proofs](https://cryptobriefing.com/vitalik-buterin-backs-leanpcs-for-scaling-ethereums-cryptographic-proofs/)**
 
-Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move ‘Pure Manipulation’Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever…
+Vitalik Buterin supports leanPCS for Ethereum's scaling. Ethereum reaching $6,500 by December 31, 2026 at 0.8% YES.
 
-TradingView • 2d ago
-
----
-
-**[Is Ethereum the "worst asset of all time," amid estimated $8.83 billion BitMine loss ?](https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/)**
-
-BitMine’s loss estimate combines November Ethereum holdings with an August average cost. See what the dashboard and company filings actually show.
-
-CryptoSlate • 19h ago
+Crypto Briefing • 7h ago
 
 ---
 
-**[Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030](https://finance.yahoo.com/markets/crypto/articles/claude-ai-predicts-bitcoin-ethereum-184326413.html)**
+**[Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030](https://247wallst.com/investing/cryptocurrency/2026/11/13/claude-ai-predicts-what-bitcoin-and-ethereum-could-be-worth-by-2030/)**
 
-Both coins sit far below their peaks, and an AI model thinks one of them has a much better shot at reclaiming its crown. Which one needs the Fed's help, and which one depends entirely on the other?
+Claude AI projects Bitcoin at $165,000 and Ethereum at $5,200 by 2030 in its base case. Here's what each coin needs.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Should Ethereum Tax Its Apps Like a Nation? Arca’s Jeff Dorman Says It Has To](https://finance.yahoo.com/video/ethereum-tax-apps-nation-arca-120027725.html)**
-
-Jeff Dorman, Chief Investment Officer and co-founder of Arca, agrees with Vitalik Buterin that chasing fee burn would turn Ethereum into a stock, but argues a chain that never taxes its apps can’t give its currency much value.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Should Ethereum Tax Its Apps to Prove Its Security Is Worth It?](https://finance.yahoo.com/video/ethereum-tax-apps-prove-security-040026031.html)**
-
-Jeff Dorman, Chief Investment Officer and co-founder of Arca, says Vitalik Buterin’s push to treat ETH as a store of value is misguided and argues Ethereum must build its own stablecoin and DEX or tax its apps.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html)**
-
-Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data.
-
-Yahoo Finance • 3d ago
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -232,33 +230,33 @@ Yahoo Finance • 3d ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚀 Ethereum Has A 2027 Plan - ETH Crypto Analysis](https://www.youtube.com/watch?v=EYE58NWz3hU)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/czPNWoFJ My Chart Software: ...
+
+📺 Bitcoin Strategy
+
+👁️ 998 • 👍 19 • 💬 2 • ⏱️ 9:28 • 4h ago
+
+---
+
 **[Cathie Wood :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=-E7mPU6BqgA)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 32K • 👍 324 • 💬 36 • ⏱️ 21:54 • 1d ago
+👁️ 40K • 👍 373 • 💬 38 • ⏱️ 21:54 • 1d ago
 
 ---
 
-**[URGENT 🚨 CRYPTO IS DONE ‼️ XRP ETH BTC](https://www.youtube.com/watch?v=Dkz3pnyQnLs)**
+**[Bitcoin Just Got The Biggest News Of The Year Almost No Ethereum Left 2029 Digital Euro Project](https://www.youtube.com/watch?v=ey4HAfsXJtw)**
 
-1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
+We just got some news that has the cryptocurrency market buzzing. Bitcoin is back in the headlines heavily again with its best ...
 
-📺 Stock Moe
+📺 The Modern Investor
 
-👁️ 39K • 👍 1K • 💬 215 • ⏱️ 12:45 • 17h ago
-
----
-
-**[🚨 XRP IS COOKED ‼️ XRP ETH BTC Know This BEFORE Tomorrow](https://www.youtube.com/watch?v=ajv96B2fAvc)**
-
-1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
-
-📺 Stock Moe
-
-👁️ 15K • 👍 495 • 💬 38 • ⏱️ 13:12 • 6h ago
+👁️ 7K • 👍 613 • 💬 168 • ⏱️ 31:04 • 6h ago
 
 ---
 
@@ -268,27 +266,17 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 8K • 👍 105 • 💬 34 • ⏱️ 11:46 • 17h ago
+👁️ 9K • 👍 118 • 💬 51 • ⏱️ 11:46 • 1d ago
 
 ---
 
-**[Crypto Collapse: Why I’m Buying $67,000 Bitcoin - Technical Analysis (BTC, ETH, ZEC, SOL, HYPE)](https://www.youtube.com/watch?v=fUZh_SYMpjA)**
+**[URGENT 🚨 CRYPTO IS DONE ‼️ XRP ETH BTC](https://www.youtube.com/watch?v=Dkz3pnyQnLs)**
 
-No B.S. Just Charts. Bitcoin and the crypto market are in collapse mode after Bitcoin broke $75500, and Gareth Soloway shows ...
+1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
 
-📺 Gareth Soloway
+📺 Stock Moe
 
-👁️ 151K • 👍 4K • 💬 384 • ⏱️ 11:18 • 2d ago
-
----
-
-**[ETHEREUM EMERGENCY UPDATE! (ETH Price Prediction)](https://www.youtube.com/watch?v=5fyG9eIUa9w)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 2K • 👍 19 • 💬 16 • ⏱️ 4:14 • 20h ago
+👁️ 43K • 👍 1K • 💬 235 • ⏱️ 12:45 • 1d ago
 
 ---
 
@@ -298,7 +286,37 @@ Ethereum's monthly chart reveals a shift: huge rallies followed by long stretche
 
 📺 Crypto Y'all
 
-👁️ 649 • 👍 7 • ⏱️ 2:01 • 1d ago
+👁️ 860 • 👍 8 • ⏱️ 2:01 • 1d ago
+
+---
+
+**[🚨 XRP IS COOKED ‼️ XRP ETH BTC Know This BEFORE Tomorrow](https://www.youtube.com/watch?v=ajv96B2fAvc)**
+
+1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
+
+📺 Stock Moe
+
+👁️ 21K • 👍 619 • 💬 47 • ⏱️ 13:12 • 16h ago
+
+---
+
+**[¿Por qué las ballenas compran ahora Ethereum a escondidas?](https://www.youtube.com/watch?v=UJQSZBxdnzo)**
+
+Evento presencial 21 de Noviembre: https://evento.valentinsantamaria.es/ Fidelity y JPMorgan aumentan significativamente sus ...
+
+📺 Valentín Santamaría
+
+👁️ 349 • 👍 82 • 💬 8 • ⏱️ 14:33 • 2h ago
+
+---
+
+**[Tom Lee&#39;s Bitmine is down $9.3B on Ethereum: done buying? #ethereum](https://www.youtube.com/watch?v=UgpaeAUQWB8)**
+
+Tom Lee's Bitmine is down $9.3 billion on Ethereum: it paid about $3335 a coin. It doesn't have to sell, but it has almost stopped ...
+
+📺 CryptoKeyhole
+
+👁️ 6 • ⏱️ 0:32 • 27m ago
 
 ---
 
@@ -308,27 +326,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 34K • 👍 353 • 💬 106 • ⏱️ 22:21 • 1d ago
-
----
-
-**[Ethereum: Watch These Levels This Weekend](https://www.youtube.com/watch?v=yfjnLETBjdY)**
-
-We analyse Ethereum on 14 November 2026 using Elliott Wave, with the adjusted resistance zone at $1903.75 to $2016.51 as ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 179 • 💬 15 • ⏱️ 6:26 • 1d ago
-
----
-
-**[BITCOIN CRASH OVER, But There&#39;s a Catch (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bUq8o0A_VEo)**
-
-BITCOIN CRASH OVER, But There's a Catch (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 15K • 👍 396 • 💬 98 • ⏱️ 22:10 • 14h ago
+👁️ 35K • 👍 368 • 💬 106 • ⏱️ 22:21 • 2d ago
 
 ---
 
