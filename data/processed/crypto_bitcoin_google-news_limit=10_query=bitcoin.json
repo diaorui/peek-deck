@@ -5,24 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin\u2019s Fall to $62,000 Sparks Market Manipulation Claims",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEg1QmxvektXaDI3N2J6NXFzS1pqNXJjRDNqWHRKU2RYT3owbWg5V2NGRm5aSmpBZFFWU19yM0JKNzdEY095NUFIQ3h2LXpJZEhmaGJ4YzNhU181MGVIcUtRR3hVa3htWjlnQ2lfVmxTQld2QzlIS3RRQ1FYZGdpUG1lUXBuZWIyZDNzMTRQV1FFVHlZSXc?oc=5",
-      "pub_date": 1794734669.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-fall-62-000-sparks-092429244.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8c1576f9227851cd50559fa3c68c74fe50056c902c42c2d1fbc13903fa693614/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fc7d468b80a582d706030723ac5b2c620.jpg",
-      "description": "Bitcoin crashed to $62,000 as liquidations topped $2 billion. Analysts claim manipulation, but others blame leverage."
-    },
-    {
-      "headline": "What's Behind Bitcoin's Drop? CZ Points to 6 Possible Reasons",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnpINGJ3OEJqY3Y5RDU4eF8zWkF0SUN5QTl2c3ExdlNrZ0ZxbFY1MUNWRk5GSkkyOFN6a2FWckR3SXQ5NHp1NWYzYzFpNU1NOU1kZ0FvbHpTRC0zdENFUjZXcnFqeGQ1blAzWm5OcDMzX29mbDJsMTE1Q2VDR1daaXZ1SEVpZTlVcXdFdlhjT21DRzhpUHMzVDNR?oc=5",
-      "pub_date": 1794769186.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/whats-behind-bitcoins-drop-cz-185946117.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/67c7ec4148b4a8d1b6dab1bcfe9f55892e3bb71f329626083eff616ac380bc53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2aeefbd4bbbdaa6501c2d83db54afbeb.png",
-      "description": "Bitcoin hit $62,006 as US funds lost $1.91 billion in seven days. Binance's CZ lists six possible reasons why."
+      "headline": "Bitcoin Tumbles to Four-Month Low as Liquidations Accelerate",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUm5KWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5",
+      "pub_date": 1794715260.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-14/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
@@ -33,6 +23,26 @@
       "article_url": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "How Much Bitcoin Do You Need to Be a Millionaire by 2030?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREg4VEx3R2NPNU54elZmOVo4UWxFZ1J3ZTVPS2tmUEdIM2daWUdUanB2cnRDQ05SUzRjSTUxcDhwY3MtSm4wNk03aUY0SlBaaW11Y3BxVHFkVmZ4MXJKM1B3R195THZ1TV83R09YSVlYRWlVMXFYZkh2NUEtUS15NHBIM2ZhRnFCUThoRFh5WEZZLWZlOHRlRG5n?oc=5",
+      "pub_date": 1794781390.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/much-bitcoin-millionaire-2030-222310246.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3c2e1075029c922222095133b1d806f7245f8f868ff1fcd42095c0dffe1f66a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F74af18c0fc0dbe40a286a9f7e4c510a1.jpg",
+      "description": "Bitcoin sits nearly half off its peak, yet Wall Street's boldest forecasters still see seven figures per coin by 2030. Before you chase their math, check which stack size survives a stubborn bear market and a stalled ETF flow."
+    },
+    {
+      "headline": "Saylor Highlights 4 Rare and Extreme Metrics Bitcoin Has Just Hit to Explain Price",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1VxY1IxYnQ4aHpZMGxxVC1sUHZXXzNBUEM4YXdzLTF1cFVRSjY2Q3RIN042S0c3VkNvNHV1WkVjbG1jZUZXamZlSlJ2UUt2aVJiVTZ1ZWwyTnByTGtZT3pBc2Vzblp5ck9jdUV4MUtqRXdkOW5PRVJDN1FSQWZDS3c1dnBSdXlGeVJrNTVoeDg3b2l0dVBnRHMzNFB4Zw?oc=5",
+      "pub_date": 1794784058.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/saylor-highlights-4-rare-extreme-230738467.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/caa4ff619491dc68bcc0ef51d8dd4f6de37deaba667ee06b3a10b2c11d7d6648/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fed0e4c5f4cb3cc4f82e87476f87e7701.png",
+      "description": "Saylor spotlights four Bitcoin metrics to frame the price drop, but Binance co-founder CZ says correlation is not causation."
     },
     {
       "headline": "Bitcoin Is Slumping, but Michael Saylor Says Strategy Can Create $10 Billion to $30 Billion in \"Digital Credit\"",
@@ -55,6 +65,16 @@
       "description": null
     },
     {
+      "headline": "Attackers hijack about 64,000 Bitcoin miners and point 13 EH/s at OCEAN",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXJVOVlDQmZFV2xNRnJqSHFSWGpRYlBjdldzTmJiRGFYb1RFY0o0SnR5Tk91Z0JZM0pMTF9sc1E3b3htOXhJcVc2NVJRZnhtdDhqbERHQUtncUhObFYzbUJBRDE4RlV0ZURxTlZHQ3FQMVlzQUFxNmZxUV9IcnBES3h3UU5sQXU4d2RUREVSVHk0bThpNkREQ21McUI5cFhoUkZkNGxtRUtMdFdDMWxTQUltTTVKQmdMRzhQWVppeEJLcDZBYk5wQ185RDIxMDMyYWc?oc=5",
+      "pub_date": 1794753353.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:9f02f8869094b:0-attackers-hijack-about-64-000-bitcoin-miners-and-point-13-eh-s-at-ocean/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Someone took control of approximately 64,000 Bitcoin mining machines on November 14, 2026. They redirected roughly 13 EH/s of hashing power to the OCEAN mining pool.The attackers didn't earn anything for their trouble. No blocks were mined, and their payout address received no payments. The miners\u2026"
+    },
+    {
       "headline": "Bitcoin Faces Final Capitulation Risk: Could $40,000 Be Next?",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
@@ -65,46 +85,26 @@
       "description": null
     },
     {
-      "headline": "Bitcoin hovers near $65,000 after weekend selloff to lowest since July",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXpXdC1Qeng0eEJORnVwaDlIbURad0NMazJVaEtsckhTVWhfemdUdTJ4bzdOQmVhQXNodXlicnJpTVNFQll6TmlVSnNXdmRfTUlCX3JTNllGZ1JqOFQtbU1fSjBsUzVHY2tROUFkOC1UM0JCYTJLOUNwckVNald1VjRxV0ZZeC04cDgyMm1lam1GY1pqTTFjVDRxVFgxQzljMjRUUTNxcnFhbTZxTE5yaG9mR0ctNVpndnBRVnhERG5SQ0E0LWhuTQ?oc=5",
-      "pub_date": 1794756842.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nic Carter says most Bitcoin treasury firms offer little beyond ETF exposure",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qVDBVUXphYUI2MllNSHNtY2kxSDlyUzBvT1VfTnRyYmlfWGlzYl9XV04wS2VBNHVkUjFLNVotZ2owa3ZMYXYwcVRCSkdDNDlfV2E4M2NVeGdYZXQtMXFyQk5laE1ZRmdqVm5LcVpvdmtqSHFnU2ViRVdEQ3k2clE?oc=5",
-      "pub_date": 1794765979.0,
-      "article_url": "https://cryptobriefing.com/nic-carter-bitcoin-treasury-firms-etf-critique/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/15130608/library-nic-carter-says-most-bitcoin-treasury-firms-offer-little-800x450.png",
-      "description": "Castle Island Ventures' Nic Carter says most Bitcoin treasury firms offer little beyond spot ETF exposure as NAV discounts weigh on the sector."
-    },
-    {
-      "headline": "Bitcoin Price Prediction: Where Could Bitcoin Be by Year-End?",
+      "headline": "Michael Saylor's Strategy Just Lost Its MSCI Index Spot as Bitcoin Plunges. Is MSTR Stock a Sell?",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUctQi1aNE1BYWZpSk5FS0dxd0FSY2Rmb1ZWZ2JOMk1QLVJNR2Y2QUdjLUtpeEpfTDJ4WWxrYlMzT2t3MUFaQlFNR2Z0UnVKY3YyODdoODRndXRadFZhSUc2NjlnLVBtTV9teU02Q0h3RTdNVjJBU2NDSzlTQmc1UWN5UnF3V0R0YUhsMU9FaUliTjJZMFlsSXNIc3pMZHdFOXc1RnFta2VYdV94YUtmUXBSN3AyNGF5RkE?oc=5",
-      "pub_date": 1794693780.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-price-prediction-where-could-bitcoin-be-by-year-end/",
-      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-2259415929-huge-licensed-scaled.jpg",
-      "description": "Bitcoin needs a 21% rally to climb back to $80,000. Here are the low, middle, and high scenarios for where it might finish 2026."
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeG5YODNPT0hRNW5INmM3MXVUc3B6SU5Uakg0V3RXVG9HTnUwZWFjaVY0MkpxWllhMFo1dVFiMWl6SVl2TURHcm9tX1l6SVNpYmJ4cENxcHpTLU5wRndwN21Ha3pZNXJfTWpBa2t5VUtLeTFZV0Vrc3NUTkJoYTVnMjRfMEdKOHM0ZXBINVRhWGVwaWNxQlBxSGlNd1dmaFV0S3VSc2R2SGhuZ1EycnRJVGVKTmFsRWJTRUlGWEt4T0ZfUnFjQ2tYa0dKTmxqbXZmSnJBeg?oc=5",
+      "pub_date": 1794763680.0,
+      "article_url": "https://247wallst.com/investing/2026/11/15/michael-saylors-strategy-just-lost-its-msci-index-spot-as-bitcoin-plunges-is-mstr-stock-a-sell/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/01/GettyImages-1321733357-scaled.jpg",
+      "description": "With an index provider cutting it loose and bitcoin sitting below its purchase price, Saylor's funding machine faces its toughest test yet. A cash cushion buys time, but one signal could decide whether patience pays off."
     },
     {
-      "headline": "ARKF: Tech Trouble Via Microsoft & The FAA - Bitcoin's Plunge Adds Pressure (BATS:ARKF)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkZZd2FBcW9maTlBQ3lrNHBnX3A0VEVubWp1dm5yNXhCVGd2T0xjandzMEtjTnJVS2FYaWtleWphbnBqdkJIaW15MFBGaFp6aGE5RUhaSDJxai1adnZqWEVoSFM2ejRyR2UyTGlPeGFqZVM5ZHpyUmQ3a0ZkQjd3akxuU2FSXzVqNmRDY05VSHlHMC03TGhRRl9HUWpnNWxxYk9QVUJxQ3dDSkVfM18zVTEtLXE?oc=5",
-      "pub_date": 1794769326.0,
-      "article_url": "https://seekingalpha.com/article/4968404-arkf-tech-trouble-via-microsoft-and-the-faa-bitcoins-plunge-adds-pressure",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2229982740/image_2229982740.jpg?io=getty-c-og",
-      "description": "ARKF is rated a Hold: weak technicals leave shares at risk of testing $36 support, while crypto risks and valuation balance the bull and bear cases."
+      "headline": "South Florida Dirt: You can now pay your property taxes with Bitcoin",
+      "source": "The Real Deal",
+      "source_url": "https://therealdeal.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYk5XX0oxTHlBNFRXc3NkZ0cwMXdTNnlxdV9YYlVydUJrV0FOT3Z1X0tNWWtweTY3Z2hycDYyQUlTaVh1SVMyMjJHUWNwZURycmFaVjJqTlA2bk5lS1E0ZXNCWjdBcmlrT1FEemMtd2FfeURVMnJwNHBhYWlsZHNzM1VBbGkxWFNWMDhqV1Frc0NUdURHWkRYMnRJQ2NsV0pZQzQ4?oc=5",
+      "pub_date": 1794766015.0,
+      "article_url": "https://therealdeal.com/miami/2026/11/15/south-florida-dirt-miami-dade-accepts-crypto-for-prop-taxes/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-15T20:11:12.872016+00:00"
+  "fetched_at": "2026-11-16T00:11:28.743753+00:00"
 }

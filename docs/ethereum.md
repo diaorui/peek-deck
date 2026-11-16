@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-15T20:11:25.402828+00:00'
+updated: '2026-11-16T00:11:40.035995+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 15, 2026 at 20:11 UTC  
+**Last Updated:** November 16, 2026 at 00:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,819.00
+### $1,823.22
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** -14.9%  
-**30d:** -24.4%  
-**90d:** -5.2%  
-**1y:** -41.4%  
+**24h:** +5.8%  
+**7d:** -10.9%  
+**30d:** -24.2%  
+**90d:** -18.8%  
+**1y:** -39.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.32B
+**Market Cap:** $223.84B
 Rank #2
 
 **Circulating Supply:** 122,221,531 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.2%
+-63.0%
 
 **All-Time Low:** $0.43
-+420008.1%
++422906.7%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 3d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 4d ago
 
 ---
 
@@ -166,37 +166,23 @@ CoinDesk • 1d ago
 
 ---
 
+**[Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support](https://www.tradingview.com/news/stocktwits:1bf49b784094b:0-peter-schiff-warns-of-a-black-monday-for-bitmine-and-ethereum-etfs-if-eth-loses-key-support/)**
+
+BitMine Immersion Technologies (BMNR) and Ethereum (ETH) exchange-traded funds (ETFs) may experience a "Black Monday" if the token breaks a significant support level over the weekend, Peter Schiff said on Saturday.Schiff made the call in a post on X, after an earlier warning on Ethereum. He said th…
+
+TradingView • 13h ago
+
+---
+
 **[Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives](https://www.benzinga.com/crypto/26/11/63274152/ethereum-flashes-death-cross-as-etf-outflows-surge-futures-open-interest-dives)**
 
 Benzinga • 1d ago
 
 ---
 
-**[Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support](https://www.tradingview.com/news/stocktwits:1bf49b784094b:0-peter-schiff-warns-of-a-black-monday-for-bitmine-and-ethereum-etfs-if-eth-loses-key-support/)**
-
-BitMine Immersion Technologies (BMNR) and Ethereum (ETH) exchange-traded funds (ETFs) may experience a "Black Monday" if the token breaks a significant support level over the weekend, Peter Schiff said on Saturday.Schiff made the call in a post on X, after an earlier warning on Ethereum. He said th…
-
-TradingView • 9h ago
-
----
-
-**[Ethereum’s ERC-8415 tests tokenization’s ownership gap](https://asiatimes.com/2026/11/ethereums-erc-8415-tests-tokenizations-ownership-gap/)**
-
-Asia Times • 1d ago
-
----
-
 **[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613)**
 
-Investing.com • 18h ago
-
----
-
-**[Ethereum Foundation sells 2,000 ETH as price hovers near $2,000](https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/)**
-
-An Ethereum Foundation-linked wallet sold 2,000 ETH over two days via CoW Protocol, swapping into USDS as ETH hovered near the $2,000 level.
-
-Crypto Briefing • 2d ago
+Investing.com • 22h ago
 
 ---
 
@@ -204,13 +190,7 @@ Crypto Briefing • 2d ago
 
 BitMine’s loss estimate combines November Ethereum holdings with an August average cost. See what the dashboard and company filings actually show.
 
-CryptoSlate • 8h ago
-
----
-
-**[Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy](https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy)**
-
-CoinDesk • 2d ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -222,19 +202,33 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html)**
+
+Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Binance Holds the Least Ethereum Since 2021](https://finance.yahoo.com/markets/crypto/articles/binance-holds-least-ethereum-since-154628604.html)**
+
+Ethereum price fell to its lowest since early July as Binance ETH reserves hit a five-year low while whales kept buying.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree](https://www.tradingview.com/news/benzinga:abd11654a094b:0-bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree/)**
+
+Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move ‘Pure Manipulation’Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever…
+
+TradingView • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[URGENT 🚨 CRYPTO IS DONE ‼️ XRP ETH BTC](https://www.youtube.com/watch?v=Dkz3pnyQnLs)**
-
-1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
-
-📺 Stock Moe
-
-👁️ 28K • 👍 910 • 💬 177 • ⏱️ 12:45 • 6h ago
-
----
 
 **[Cathie Wood :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=-E7mPU6BqgA)**
 
@@ -242,7 +236,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 27K • 👍 287 • 💬 40 • ⏱️ 21:54 • 15h ago
+👁️ 29K • 👍 304 • 💬 34 • ⏱️ 21:54 • 19h ago
+
+---
+
+**[URGENT 🚨 CRYPTO IS DONE ‼️ XRP ETH BTC](https://www.youtube.com/watch?v=Dkz3pnyQnLs)**
+
+1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
+
+📺 Stock Moe
+
+👁️ 35K • 👍 1K • 💬 211 • ⏱️ 12:45 • 10h ago
 
 ---
 
@@ -252,27 +256,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 5K • 👍 92 • 💬 31 • ⏱️ 11:46 • 6h ago
-
----
-
-**[ETHEREUM EMERGENCY UPDATE! (ETH Price Prediction)](https://www.youtube.com/watch?v=5fyG9eIUa9w)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 1K • 👍 17 • 💬 15 • ⏱️ 4:14 • 9h ago
-
----
-
-**[BITCOIN CRASH OVER, But There&#39;s a Catch (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bUq8o0A_VEo)**
-
-BITCOIN CRASH OVER, But There's a Catch (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 237 • 💬 32 • ⏱️ 22:10 • 3h ago
+👁️ 7K • 👍 98 • 💬 33 • ⏱️ 11:46 • 10h ago
 
 ---
 
@@ -282,37 +266,27 @@ We analyse Ethereum on 14 November 2026 using Elliott Wave, with the adjusted re
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 177 • 💬 15 • ⏱️ 6:26 • 21h ago
+👁️ 7K • 👍 179 • 💬 15 • ⏱️ 6:26 • 1d ago
 
 ---
 
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=nG5nnYwseIo)**
+**[ETHEREUM EMERGENCY UPDATE! (ETH Price Prediction)](https://www.youtube.com/watch?v=5fyG9eIUa9w)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
 
-📺 Crypto Nutshell
+📺 Cilinix Crypto
 
-👁️ 32K • 👍 344 • 💬 116 • ⏱️ 22:21 • 1d ago
-
----
-
-**[Why Ethereum Maxi&#39;s Quit](https://www.youtube.com/watch?v=xCTjmpAptrw)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls LiveStream Tips: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 2K • 👍 153 • 💬 19 • ⏱️ 10:15 • 1d ago
+👁️ 1K • 👍 18 • 💬 16 • ⏱️ 4:14 • 13h ago
 
 ---
 
-**[Ethereum’s Use Case Is Fading (Coinbase Analyst)](https://www.youtube.com/watch?v=udWRxduO4vc)**
+**[BITCOIN CRASH OVER, But There&#39;s a Catch (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bUq8o0A_VEo)**
 
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Coinbase quant ...
+BITCOIN CRASH OVER, But There's a Catch (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Lark Davis
+📺 Crypto World
 
-👁️ 13K • 👍 139 • 💬 33 • ⏱️ 12:35 • 2d ago
+👁️ 11K • 👍 344 • 💬 95 • ⏱️ 22:10 • 7h ago
 
 ---
 
@@ -322,7 +296,37 @@ Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewa
 
 📺 Altcoin Daily
 
-👁️ 82K • 👍 2K • 💬 155 • ⏱️ 9:17 • 1d ago
+👁️ 84K • 👍 2K • 💬 156 • ⏱️ 9:17 • 1d ago
+
+---
+
+**[Why Ethereum Buy and Hold Stalled #shorts](https://www.youtube.com/watch?v=U2_i1Y-a4J4)**
+
+Ethereum's monthly chart reveals a shift: huge rallies followed by long stretches without comparable momentum. That pattern ...
+
+📺 Crypto Y'all
+
+👁️ 560 • 👍 6 • ⏱️ 2:01 • 1d ago
+
+---
+
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=nG5nnYwseIo)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 33K • 👍 347 • 💬 107 • ⏱️ 22:21 • 1d ago
+
+---
+
+**[🚨AAKHIR HONE KYA WALA HAI CRYPTO MEIN? 😱 BTC &amp; ETH update | Crypto Market Update Hindi](https://www.youtube.com/watch?v=FJl4MBgmukk)**
+
+LWT AIRDROP: https://lfwallet.app/?ref=TTEXVPFX MY TELEGRAM : https://t.me/cryptonianhimanshuofficial ...
+
+📺 Cryptonian Himanshu
+
+👁️ 3K • 👍 80 • 💬 11 • ⏱️ 26:00 • 10h ago
 
 ---
 
