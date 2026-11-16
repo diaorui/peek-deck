@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50501201",
       "author": "ivewonyoung",
       "points": 5,
-      "num_comments": 0,
+      "num_comments": 1,
       "created_at": "2026-11-14T21:41:37Z",
       "object_id": "50501201",
       "image": "https://247wallst.com/wp-content/uploads/2024/04/shutterstock-1717743028-huge-licensed-scaled.jpg",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-16T00:11:09.749407+00:00"
+  "fetched_at": "2026-11-16T07:04:39.279674+00:00"
 }
