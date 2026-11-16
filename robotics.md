@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-15T20:11:25.404830+00:00'
+updated: '2026-11-16T00:11:40.037836+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 15, 2026 at 20:11 UTC  
+**Last Updated:** November 16, 2026 at 00:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-11h ago
+15h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-16h ago
+20h ago
 
 ---
 
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-5h ago
+9h ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-11h ago
+15h ago
 
 ---
 
@@ -76,19 +76,19 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-17h ago
+21h ago
 
 ---
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-9h ago
+13h ago
 
 ---
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -118,6 +118,12 @@ Fortune • 2d ago
 
 ---
 
+**[153-Year-Old Builder Taisei Sets Up Fund to Invest in AI and Robotics](https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures)**
+
+Bloomberg.com • 1h ago
+
+---
+
 **[Helping robots fit into the human workplace](https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113)**
 
 Robust AI’s robots collaborate with humans in logistics warehouses and on factory floors. The startup was founded by MIT alumnus Anthony Jules and Professor Emeritus Rodney Brooks.
@@ -126,27 +132,35 @@ MIT News • 2d ago
 
 ---
 
-**[Robotics engineer leaves Nvidia over lack of transparency around Jensen Huang’s exit, details decision — joins chorus of disgruntled staff as petition to reinstate former CEO passes 150,000 signatures](https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures)**
-
-Dai's post shows how much Nvidia employees looked up to the former CEO.
-
-Tom's Hardware • 2h ago
-
----
-
-**[A SoMa startup is building humanoid robots for war](https://sfstandard.com/2026/11/14/humanoid-war-robots-soma-startup/)**
-
-While rivals chase factory and household work, Foundation is courting the Pentagon.
-
-The San Francisco Standard • 1d ago
-
----
-
 **[Scientists created artificial, life-like muscles for humanoid robots](https://www.popsci.com/technology/artificial-muscles-humanoid-robot-play-piano/)**
 
 The components help robots play piano and dart detached eyeballs.
 
-Popular Science • 3h ago
+Popular Science • 7h ago
+
+---
+
+**[Embodied AI robots take over night-shift parcel sorting in China’s tech hub Shenzhen](https://www.bastillepost.com/global/article/6361563-embodied-ai-robots-take-over-night-shift-parcel-sorting-in-chinas-tech-hub-shenzhen)**
+
+Three embodied AI robots have become star performers at a postal center, joining the night-shift par
+
+巴士的報 • 14h ago
+
+---
+
+**[Southwest Virginia LEGO League robotics competition brings 24 student teams together](https://wcyb.com/news/local/southwest-virginia-lego-league-robotics-competition-brings-24-student-teams-together)**
+
+WCYB NBC 5 Bristol and WEMT Fox 39 Greeneville offer local and national news reporting, sports, and weather forecasts to viewers in the Tennessee, Virginia Tri-Cities area including Bristol, Kingsport and Johnson City.
+
+WCYB • 3h ago
+
+---
+
+**[Inside the Chinese factory building humanoid robots for the world](https://www.clickorlando.com/news/2026/11/15/inside-the-chinese-factory-building-humanoid-robots-for-the-world/)**
+
+Humanoid robots are breaking marathon records, performing backflips before crowds, and squaring off in MMA-style bouts. Now, CNN is getting a rare look at where some of them are made.
+
+WKMG • 2h ago
 
 ---
 
@@ -154,37 +168,23 @@ Popular Science • 3h ago
 
 Hawaii FIRST Robotics brought students in grades 7-12 together to design, build and program robots for a series of challenges.
 
-Hawaii News Now • 16h ago
+Hawaii News Now • 20h ago
 
 ---
 
-**[Tesla, HICAM team up on AI for manufacturing, robotics training](https://www.bizjournals.com/austin/news/2026/11/15/tesla-hicam-ai-robots-training-texas-tech.html)**
+**[DEEP Robotics Robot Dog Takes on Lighthouse Inspection and Island Logistics](https://www.mycarrollcountynews.com/online_features/press_releases/article_cfbca8f9-3f40-5c9e-b515-abf13e013f81.html)**
 
-The Business Journals • 3h ago
+LYNX M20 wheel-legged robot carries 15 kg up 145 steps and supports equipment monitoring and night patrols in remote
 
----
-
-**[Sussex Academy launches robotics club, prepares for competition](http://wrde.com/news/sussex-academy-launches-robotics-club-prepares-for-competition/article_dafe2cf2-8d40-407a-b605-7d4b90eaee83.html)**
-
-Sussex Academy has launched a new robotics club, with students preparing to compete in this year's FIRST Tech Challenge.
-
-CoastTV • 4h ago
+Carroll County Mirror-Democrat • 19h ago
 
 ---
 
-**[Inside Tesla’s 2027 plan to put its humanoid robot Optimus to work](https://interestingengineering.com/ai-robotics/what-could-teslas-optimus-humanoid-robot-actually-do-in-2027)**
+**[Here’s What a $1,000 Investment in Kraken Robotics Will Be Worth by the End of 2027 if Undersea Drone Orders Keep Doubling](https://www.fool.com/investing/2026/11/13/here-s-what-a-usd1-000-investment-in-kraken-robotics-will-be-worth-by-the-end-of-2027-if-undersea-drone-orders-keep-doubling/)**
 
-What will Tesla’s Optimus be able to do? Watch what the humanoid robot has demonstrated. Will it be able to do laundry next?
+The future of defense is autonomous, and Kraken Robotics is helping fill this demand.
 
-Interesting Engineering • 1d ago
-
----
-
-**[OpenAi shuts down robot unit second time in six years, but wants everyone to know that the company is com](https://timesofindia.indiatimes.com/technology/tech-news/openai-shuts-down-robot-unit-second-time-in-six-years-but-wants-everyone-to-know-that-the-company-is-committed-to-/articleshow/135846511.cms)**
-
-OpenAI has disbanded its standalone robotics team for the second time in six years, folding the group into its broader research and applied organisations. While the move echoes the company's decision to wind down its original robotics division in 2020, OpenAI insists the latest reorganisation is not a retreat from robotics but rather a sign of its commitment to bringing general-purpose robots into the world, according to a Fortune report.
-
-The Times of India • 16h ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -192,33 +192,23 @@ The Times of India • 16h ago
 
 ## YouTube Videos: "robotics"
 
+**[Humanoid Robot With Living Human Brain Is Walking Around San Francisco.](https://www.youtube.com/watch?v=L5q2Gg-8too)**
+
+Further Reading Lab-Grown Human Neurons Power a Humanoid Robot ...
+
+📺 Gabriel Torch
+
+👁️ 17K • 👍 955 • 💬 504 • ⏱️ 7:13 • 14h ago
+
+---
+
 **[Why this open-source PCB is a game-changer for DIY robots?](https://www.youtube.com/watch?v=bU5T8Q9DDiY)**
 
 Get your next board made with PCBWay at http://www.pcbway.com/ A stepper motor can hit its target while the robot joint is still in ...
 
 📺 Arctos Robotics
 
-👁️ 234K • 👍 3K • 💬 145 • ⏱️ 8:25 • 6d ago
-
----
-
-**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
-
-Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
-
-📺 CNET
-
-👁️ 14K • 👍 175 • 💬 18 • ⏱️ 4:02 • 7h ago
-
----
-
-**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
-
-Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
-
-📺 Imagination in Action
-
-👁️ 15K • 👍 129 • 💬 24 • ⏱️ 37:09 • 5d ago
+👁️ 236K • 👍 3K • 💬 146 • ⏱️ 8:25 • 6d ago
 
 ---
 
@@ -228,7 +218,27 @@ China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robo
 
 📺 The AI Nexus
 
-👁️ 42K • 👍 482 • 💬 64 • ⏱️ 15:41 • 5d ago
+👁️ 43K • 👍 485 • 💬 64 • ⏱️ 15:41 • 5d ago
+
+---
+
+**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
+
+Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
+
+📺 Imagination in Action
+
+👁️ 15K • 👍 130 • 💬 24 • ⏱️ 37:09 • 5d ago
+
+---
+
+**[I Built a Drone That Can Transform into a Walking Robot](https://www.youtube.com/watch?v=9K6GmO5QFN4)**
+
+What if my tiny walking robot could transform into a fully functioning drone? Well, I tried just that, and I converted Sesame into a ...
+
+📺 Dorian Todd
+
+👁️ 67K • 👍 1K • 💬 64 • ⏱️ 14:42 • 6d ago
 
 ---
 
@@ -238,7 +248,27 @@ A humanoid goes head-to-head with human runners in an ultra-marathon with sub-fr
 
 📺 NBC News
 
-👁️ 33K • 👍 98 • 💬 38 • ⏱️ 1:56 • 4d ago
+👁️ 33K • 👍 98 • 💬 42 • ⏱️ 1:56 • 4d ago
+
+---
+
+**[Humanoid robots are getting more lifelike](https://www.youtube.com/watch?v=qIhP7wBIolM)**
+
+CNBC's Arjun Kharpal checks out the latest humanoid robots at Web Summit in Lisbon, including a lifelike model from Chinese ...
+
+📺 CNBC Television
+
+👁️ 5K • 👍 31 • 💬 7 • ⏱️ 1:26 • 5d ago
+
+---
+
+**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
+
+Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
+
+📺 CNET
+
+👁️ 20K • 👍 215 • 💬 21 • ⏱️ 4:02 • 11h ago
 
 ---
 
@@ -248,45 +278,17 @@ War Robots Gameplay: AMMIT Speed nerf hits hard! The hardest nerf aside maybe fr
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 305 • 💬 98 • ⏱️ 15:04 • 7h ago
+👁️ 11K • 👍 361 • 💬 107 • ⏱️ 15:04 • 11h ago
 
 ---
 
-**[El Salvador deploys deadly armed robot dogs in Haiti to help troops in military operation](https://www.youtube.com/watch?v=bn2MmJKorhc)**
+**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
 
-News24 host James Morrow comments on a video of deadly armed robot dogs who appeared alongside Salvadoran troops ...
+Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
 
-📺 News24
+📺 Nexio Core
 
-👁️ 55K • 👍 759 • 💬 158 • ⏱️ 3:26 • 18h ago
-
----
-
-**[Emo Robot from AliExpress: SCAM or REAL?](https://www.youtube.com/watch?v=s4VJZYpoO6I)**
-
-I bought a fake EMO robot from AliExpress for just $61.78! But is this cheap AI robot actually worth buying, or did I just get ...
-
-📺 Eric’s Tech World
-
-👁️ 6K • 👍 109 • 💬 28 • ⏱️ 17:02 • 1d ago
-
----
-
-**[24/7 Auto PP Granule Feeding Solution😎 #depalletizing #depalletizer #PPgranule #robotics #plastic](https://www.youtube.com/watch?v=bAe-dPAFoeQ)**
-
-📺 Beiyuan DePalletizing Robot
-
-👁️ 1K • 👍 5 • ⏱️ 0:15 • 2h ago
-
----
-
-**[China’s New Bionic AI Robots Look Too Human With Artificial Skin](https://www.youtube.com/watch?v=WPc-_6ToOqE)**
-
-China's new bionic AI robots read the news with artificial skin, camera eyes, and faces designed by Zhang Yimou. UBTech and ...
-
-📺 AI Revolution
-
-👁️ 19K • 👍 274 • 💬 22 • ⏱️ 14:05 • 5d ago
+👁️ 59K • 💬 17 • ⏱️ 0:06 • 5d ago
 
 ---
 

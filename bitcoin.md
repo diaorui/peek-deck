@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-15T20:11:25.399012+00:00'
+updated: '2026-11-16T00:11:40.032408+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 15, 2026 at 20:11 UTC  
+**Last Updated:** November 16, 2026 at 00:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,967.60
+### $65,342.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -14.1%  
-**30d:** -20.5%  
-**90d:** +0.0%  
-**1y:** -31.3%  
+**24h:** +4.0%  
+**7d:** -11.7%  
+**30d:** -20.6%  
+**90d:** -6.0%  
+**1y:** -29.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1303.55B
+**Market Cap:** $1311.16B
 Rank #1
 
-**Circulating Supply:** 20,112,500 BTC
+**Circulating Supply:** 20,112,546 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--48.6%
+-48.3%
 
 **All-Time Low:** $67.81
-+95487.7%
++96036.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hit my goal of a quarter of a bitcoin, feels good
 
-4h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hit my goal of a quarter of a bitcoin, feels good
 
 We’re so back! /s
 
-6h ago
+10h ago
 
 ---
 
@@ -97,13 +97,13 @@ We’re so back! /s
 
 Congrats everyone.
 
-18h ago
+22h ago
 
 ---
 
 **[bitcoin will be 170k-200k in sep 2029](https://www.reddit.com/r/Bitcoin/comments/1xx3wds/bitcoin_will_be_170k200k_in_sep_2029/)**
 
-1h ago
+5h ago
 
 ---
 
@@ -111,13 +111,13 @@ Congrats everyone.
 
 Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian reseller CryptoBilis contained unauthorized circuit boards designed to capture recovery phrases and transmit them through cellular networks. The affected purchases occurred between August 20 and September 23. Trezor released firmware 2.13.1 on November 11 to block the identified implant behavior. No affected customers had reported losing funds at the time of the disclosure. Hardware wallets are not automatically trustworthy if their physical supply chain is compromised. Firmware updates cannot undo recovery phrases already stolen.
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 4h ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 8h ago
 
 ---
 
 **[It's so over guys!!!](https://www.reddit.com/r/Bitcoin/comments/1xwnz3q/its_so_over_guys/)**
 
-14h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 62 > 64.5
 
-17h ago
+21h ago
 
 ---
 
@@ -133,13 +133,13 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 I really have no words of hope. But I am holding on.
 
-20h ago
+1d ago
 
 ---
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1xwizma/hodl/)**
 
-18h ago
+22h ago
 
 ---
 
@@ -147,7 +147,7 @@ I really have no words of hope. But I am holding on.
 
 What is going on with Bitcoin today?
 
-17h ago
+21h ago
 
 ---
 
@@ -155,25 +155,31 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Fall to $62,000 Sparks Market Manipulation Claims](https://finance.yahoo.com/markets/crypto/articles/bitcoin-fall-62-000-sparks-092429244.html)**
+**[Bitcoin Tumbles to Four-Month Low as Liquidations Accelerate](https://www.bloomberg.com/news/articles/2026-11-14/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate)**
 
-Bitcoin crashed to $62,000 as liquidations topped $2 billion. Analysts claim manipulation, but others blame leverage.
-
-Yahoo Finance • 10h ago
-
----
-
-**[What's Behind Bitcoin's Drop? CZ Points to 6 Possible Reasons](https://finance.yahoo.com/markets/crypto/articles/whats-behind-bitcoins-drop-cz-185946117.html)**
-
-Bitcoin hit $62,006 as US funds lost $1.91 billion in seven days. Binance's CZ lists six possible reasons why.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 20h ago
 
 ---
 
 **[Trump Media group stares down $1bn debt crunch as bitcoin bet fades](https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1)**
 
 Financial Times • 1d ago
+
+---
+
+**[How Much Bitcoin Do You Need to Be a Millionaire by 2030?](https://finance.yahoo.com/markets/crypto/articles/much-bitcoin-millionaire-2030-222310246.html)**
+
+Bitcoin sits nearly half off its peak, yet Wall Street's boldest forecasters still see seven figures per coin by 2030. Before you chase their math, check which stack size survives a stubborn bear market and a stalled ETF flow.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Saylor Highlights 4 Rare and Extreme Metrics Bitcoin Has Just Hit to Explain Price](https://finance.yahoo.com/markets/crypto/articles/saylor-highlights-4-rare-extreme-230738467.html)**
+
+Saylor spotlights four Bitcoin metrics to frame the price drop, but Binance co-founder CZ says correlation is not causation.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,39 +197,31 @@ Forbes • 1d ago
 
 ---
 
+**[Attackers hijack about 64,000 Bitcoin miners and point 13 EH/s at OCEAN](https://www.tradingview.com/news/cryptobriefing:9f02f8869094b:0-attackers-hijack-about-64-000-bitcoin-miners-and-point-13-eh-s-at-ocean/)**
+
+Someone took control of approximately 64,000 Bitcoin mining machines on November 14, 2026. They redirected roughly 13 EH/s of hashing power to the OCEAN mining pool.The attackers didn't earn anything for their trouble. No blocks were mined, and their payout address received no payments. The miners…
+
+TradingView • 9h ago
+
+---
+
 **[Bitcoin Faces Final Capitulation Risk: Could $40,000 Be Next?](https://www.benzinga.com/crypto/cryptocurrency/26/11/63276093/bitcoin-faces-final-capitulation-ris-could-40000-be-next)**
 
-Benzinga • 16h ago
+Benzinga • 20h ago
 
 ---
 
-**[Bitcoin hovers near $65,000 after weekend selloff to lowest since July](https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667)**
+**[Michael Saylor's Strategy Just Lost Its MSCI Index Spot as Bitcoin Plunges. Is MSTR Stock a Sell?](https://247wallst.com/investing/2026/11/15/michael-saylors-strategy-just-lost-its-msci-index-spot-as-bitcoin-plunges-is-mstr-stock-a-sell/)**
 
-Investing.com • 4h ago
+With an index provider cutting it loose and bitcoin sitting below its purchase price, Saylor's funding machine faces its toughest test yet. A cash cushion buys time, but one signal could decide whether patience pays off.
 
----
-
-**[Nic Carter says most Bitcoin treasury firms offer little beyond ETF exposure](https://cryptobriefing.com/nic-carter-bitcoin-treasury-firms-etf-critique/)**
-
-Castle Island Ventures' Nic Carter says most Bitcoin treasury firms offer little beyond spot ETF exposure as NAV discounts weigh on the sector.
-
-Crypto Briefing • 2h ago
+24/7 Wall St. • 6h ago
 
 ---
 
-**[Bitcoin Price Prediction: Where Could Bitcoin Be by Year-End?](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-price-prediction-where-could-bitcoin-be-by-year-end/)**
+**[South Florida Dirt: You can now pay your property taxes with Bitcoin](https://therealdeal.com/miami/2026/11/15/south-florida-dirt-miami-dade-accepts-crypto-for-prop-taxes/)**
 
-Bitcoin needs a 21% rally to climb back to $80,000. Here are the low, middle, and high scenarios for where it might finish 2026.
-
-24/7 Wall St. • 22h ago
-
----
-
-**[ARKF: Tech Trouble Via Microsoft & The FAA - Bitcoin's Plunge Adds Pressure (BATS:ARKF)](https://seekingalpha.com/article/4968404-arkf-tech-trouble-via-microsoft-and-the-faa-bitcoins-plunge-adds-pressure)**
-
-ARKF is rated a Hold: weak technicals leave shares at risk of testing $36 support, while crypto risks and valuation balance the bull and bear cases.
-
-Seeking Alpha • 1h ago
+The Real Deal • 6h ago
 
 ---
 
@@ -235,7 +233,7 @@ Seeking Alpha • 1h ago
 
 Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bottom suggest the first flush rarely ends the pain. Three catalysts and two price lines will decide whether the old highs come back or the floor drops again.
 
-⬆️ 5 • 💬 0 • 22h ago • [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/)
+⬆️ 5 • 💬 0 • 1d ago • [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/)
 
 ---
 
@@ -243,7 +241,7 @@ Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bot
 
 I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of buzzwords was long and unending - proof-of-work, Merkle trees, elliptic curves, smart contracts, DeF
 
-⬆️ 2 • 💬 0 • 16h ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
+⬆️ 2 • 💬 0 • 20h ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
 
 ---
 
@@ -257,7 +255,7 @@ A deep dive into Starlight — the decentralized AI app store where wishes are s
 
 **[Digital Forensics Case (Who Tried to Trade Bitcoin)](https://news.ycombinator.com/item?id=50447845)**
 
-⬆️ 1 • 💬 0 • 4d ago • [luthmann.substack.com](https://luthmann.substack.com/p/rape-or-setup)
+⬆️ 1 • 💬 0 • 5d ago • [luthmann.substack.com](https://luthmann.substack.com/p/rape-or-setup)
 
 ---
 
@@ -269,7 +267,7 @@ A deep dive into Starlight — the decentralized AI app store where wishes are s
 
 **[Show HN: New In browser URL verification tool](https://news.ycombinator.com/item?id=50505178)**
 
-⬆️ 4 • 💬 2 • 11h ago
+⬆️ 4 • 💬 2 • 15h ago
 
 ---
 
@@ -297,7 +295,7 @@ Git for Postgres data, built for agents. Branch, diff, merge and undo inside Pos
 
 Worried that you're losing your edge to AI? Well, worry no more! Our puzzles test commonly automated skills, keeping you sharp with just 5 minutes a day.
 
-⬆️ 2 • 💬 0 • 20h ago • [brainsaver.app](https://brainsaver.app)
+⬆️ 2 • 💬 0 • 1d ago • [brainsaver.app](https://brainsaver.app)
 
 ---
 
@@ -311,17 +309,7 @@ No B.S. Just Charts. Bitcoin crashed to about $62000 as a weekend crypto flush a
 
 📺 Gareth Soloway
 
-👁️ 15K • 👍 2K • 💬 209 • ⏱️ 17:41 • 2h ago
-
----
-
-**[Bitcoin Just Hit $62K.  Here&#39;s What I&#39;m Doing.](https://www.youtube.com/watch?v=AZv72cW-LpY)**
-
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
-
-📺 Aaron Bennett
-
-👁️ 96K • 👍 2K • 💬 294 • ⏱️ 18:09 • 17h ago
+👁️ 72K • 👍 3K • 💬 384 • ⏱️ 17:41 • 6h ago
 
 ---
 
@@ -331,27 +319,7 @@ Opening Statement & Video Context 0:00-3:50 BTC Edging Towards Cycle Low 3:50-6:
 
 📺 Wolves of Crypto
 
-👁️ 2K • 👍 190 • 💬 36 • ⏱️ 13:40 • 2h ago
-
----
-
-**[ETFs Are Selling. Retail Is Gone. Who’s Left to Buy Bitcoin?](https://www.youtube.com/watch?v=0IAsdRykY_g)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 26K • 👍 438 • 💬 87 • ⏱️ 11:06 • 8h ago
-
----
-
-**[You Might Have Missed Your Chance Bitcoin Whales Are Doing The Unthinkable In The Crypto Market](https://www.youtube.com/watch?v=LJ_OVGAbiow)**
-
-We are currently witnessing something quite spectacular in the cryptocurrency market and its not what other investors might think.
-
-📺 The Modern Investor
-
-👁️ 10K • 👍 717 • 💬 234 • ⏱️ 33:09 • 9h ago
+👁️ 6K • 👍 294 • 💬 40 • ⏱️ 13:40 • 6h ago
 
 ---
 
@@ -361,47 +329,77 @@ Bitcoin what now.
 
 📺 MMCrypto
 
-👁️ 61K • 👍 2K • 💬 658 • ⏱️ 9:10 • 13h ago
+👁️ 68K • 👍 3K • 💬 729 • ⏱️ 9:10 • 17h ago
 
 ---
 
-**[BITCOIN: THIS TIME IS DIFFERENT...](https://www.youtube.com/watch?v=Xqk9Q-wNSwI)**
+**[Bitcoin CRASHES Below $70K! Who’s Really Selling?](https://www.youtube.com/watch?v=4eEZCJVl83w)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-8?vipCode=00dt&qrType=activity Instant VIP6 (44% fee ...
+Bitcoin has crashed below $70000, ETF outflows are accelerating, and Wall Street's latest moves against Strategy are raising ...
 
-📺 Crypto Rover
+📺 Simply Bitcoin
 
-👁️ 37K • 👍 1K • 💬 124 • ⏱️ 10:02 • 11h ago
-
----
-
-**[Bitcoin: The Capitulation Spiral](https://www.youtube.com/watch?v=hj5ySVDYASI)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 282K • 👍 8K • 💬 610 • ⏱️ 19:34 • 23h ago
+👁️ 14K • 👍 754 • 💬 112 • ⏱️ 55:47 • 7h ago
 
 ---
 
-**[BITCOIN: THE LOW IS IN !!!? (LIQUIDATION HEATMAP ANALYSIS)](https://www.youtube.com/watch?v=IJx5Fa48rQ8)**
+**[ETFs Are Selling. Retail Is Gone. Who’s Left to Buy Bitcoin?](https://www.youtube.com/watch?v=0IAsdRykY_g)**
 
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
-📺 Crypto Kid
+📺 Lark Davis
 
-👁️ 11K • 👍 356 • 💬 35 • ⏱️ 8:36 • 7h ago
+👁️ 32K • 👍 481 • 💬 107 • ⏱️ 11:06 • 12h ago
 
 ---
 
-**[BITCOIN: WTF IS HAPPENING?!!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sSDec7C-12E)**
+**[Bitcoin BLOODBATH - Michael Saylor Just Sent a MESSAGE to Every BTC Bear](https://www.youtube.com/watch?v=JzPmDd1gCk8)**
 
-Free Trading Course https://rt1m.com/free Lowest Trading Fees on BloFin (15%): https://partner.blofin.com/d/RT1M Get ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Bitcoin just ...
 
-📺 Road To $1 Million USD
+📺 Bitcoin News Alerts
 
-👁️ 11K • 👍 299 • 💬 69 • ⏱️ 5:13 • 21h ago
+👁️ 1K • 👍 135 • 💬 108 • ⏱️ 15:11 • 2h ago
+
+---
+
+**[Bitcoin Just Hit $62K.  Here&#39;s What I&#39;m Doing.](https://www.youtube.com/watch?v=AZv72cW-LpY)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 ...
+
+📺 Aaron Bennett
+
+👁️ 104K • 👍 2K • 💬 347 • ⏱️ 18:09 • 21h ago
+
+---
+
+**[LEAKED: White House INSIDER Admits The Truth About The Strategic Bitcoin Reserve DUMPING Bitcoin!](https://www.youtube.com/watch?v=5MHxqZjKDrM)**
+
+Did America use its strategic Bitcoin reserve to send Bitcoins price into a death spiral. Learn how to make money online with ...
+
+📺 Luke Mikic
+
+👁️ 19K • 👍 489 • 💬 111 • ⏱️ 49:36 • 1d ago
+
+---
+
+**[Crypto Crashed Before The Biggest IPO Ever... Now It&#39;s Happening AGAIN (What Came Next Was WILD)](https://www.youtube.com/watch?v=793Bjsg-onQ)**
+
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ Bitcoin crashed into the biggest ...
+
+📺 Crypto Capital Venture
+
+👁️ 24K • 👍 668 • 💬 72 • ⏱️ 8:41 • 8h ago
+
+---
+
+**[History Repeats: This Predicted Every Bitcoin Bottom](https://www.youtube.com/watch?v=0STdfxtVfr8)**
+
+Claim today's indicator for FREE in telegram: https://t.me/+5BwIdSayaEtmMmVk Discord (Trading Community) ...
+
+📺 Crypto Goos
+
+👁️ 12K • 👍 167 • 💬 19 • ⏱️ 7:34 • 16h ago
 
 ---
 
