@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-16T00:11:40.035995+00:00'
+updated: '2026-11-16T07:05:12.368608+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 16, 2026 at 00:11 UTC  
+**Last Updated:** November 16, 2026 at 07:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,823.22
+### $1,826.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.8%  
-**7d:** -10.9%  
-**30d:** -24.2%  
-**90d:** -18.8%  
-**1y:** -39.7%  
+**24h:** +0.4%  
+**7d:** -11.4%  
+**30d:** -24.6%  
+**90d:** -19.3%  
+**1y:** -40.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $223.84B
+**Market Cap:** $222.01B
 Rank #2
 
-**Circulating Supply:** 122,221,531 ETH
+**Circulating Supply:** 122,224,476 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.0%
+-63.3%
 
 **All-Time Low:** $0.43
-+422906.7%
++419410.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -128,7 +128,7 @@ i’ve finally switched from rabby wallet to ambire after a long while been a bi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -152,11 +152,11 @@ Hello all, We are building a tool for interfacing between wallets and users as a
 
 ## Google News: "ethereum"
 
-**[Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030](https://finance.yahoo.com/markets/crypto/articles/claude-ai-predicts-bitcoin-ethereum-184326413.html)**
+**[Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-black-monday-102605004.html)**
 
-Both coins sit far below their peaks, and an AI model thinks one of them has a much better shot at reclaiming its crown. Which one needs the Fed's help, and which one depends entirely on the other?
+Peter Schiff said Ethereum would drop below $1,000 in April 2025 but the token didn't drop that low. On Aug. 24, 2025, the token reached a record $4,954.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -166,55 +166,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support](https://www.tradingview.com/news/stocktwits:1bf49b784094b:0-peter-schiff-warns-of-a-black-monday-for-bitmine-and-ethereum-etfs-if-eth-loses-key-support/)**
-
-BitMine Immersion Technologies (BMNR) and Ethereum (ETH) exchange-traded funds (ETFs) may experience a "Black Monday" if the token breaks a significant support level over the weekend, Peter Schiff said on Saturday.Schiff made the call in a post on X, after an earlier warning on Ethereum. He said th…
-
-TradingView • 13h ago
-
----
-
 **[Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives](https://www.benzinga.com/crypto/26/11/63274152/ethereum-flashes-death-cross-as-etf-outflows-surge-futures-open-interest-dives)**
 
 Benzinga • 1d ago
 
 ---
 
-**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613)**
+**[Solana co-founder responds to Ethereum critics as full node runs on tablet](https://crypto.news/solana-co-founder-tablet-node-firedancer/)**
 
-Investing.com • 22h ago
+Solana co-founder Anatoly Yakovenko says a Firedancer node ran on a tablet using one CPU core, reviving a 2023 debate over blockchain hardware demands.
 
----
-
-**[Is Ethereum the "worst asset of all time," amid estimated $8.83 billion BitMine loss ?](https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/)**
-
-BitMine’s loss estimate combines November Ethereum holdings with an August average cost. See what the dashboard and company filings actually show.
-
-CryptoSlate • 12h ago
-
----
-
-**[Should Ethereum Tax Its Apps to Prove Its Security Is Worth It?](https://finance.yahoo.com/video/ethereum-tax-apps-prove-security-040026031.html)**
-
-Jeff Dorman, Chief Investment Officer and co-founder of Arca, says Vitalik Buterin’s push to treat ETH as a store of value is misguided and argues Ethereum must build its own stablecoin and DEX or tax its apps.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html)**
-
-Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Binance Holds the Least Ethereum Since 2021](https://finance.yahoo.com/markets/crypto/articles/binance-holds-least-ethereum-since-154628604.html)**
-
-Ethereum price fell to its lowest since early July as Binance ETH reserves hit a five-year low while whales kept buying.
-
-Yahoo Finance • 8h ago
+Crypto News • 16h ago
 
 ---
 
@@ -223,6 +185,46 @@ Yahoo Finance • 8h ago
 Bitcoin CRYPTO:BTCUSD, Ethereum CRYPTO:ETHUSD and XRP CRYPTO:XRPUSD all dropped sharply Friday, with some traders calling the selloff overdone even as Polymarket bettors bet on more downside.Analyst Calls This Move ‘Pure Manipulation’Crypto commentator Ash Crypto laid out the case: Bitcoin hit ever…
 
 TradingView • 2d ago
+
+---
+
+**[Is Ethereum the "worst asset of all time," amid estimated $8.83 billion BitMine loss ?](https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/)**
+
+BitMine’s loss estimate combines November Ethereum holdings with an August average cost. See what the dashboard and company filings actually show.
+
+CryptoSlate • 19h ago
+
+---
+
+**[Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030](https://finance.yahoo.com/markets/crypto/articles/claude-ai-predicts-bitcoin-ethereum-184326413.html)**
+
+Both coins sit far below their peaks, and an AI model thinks one of them has a much better shot at reclaiming its crown. Which one needs the Fed's help, and which one depends entirely on the other?
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Should Ethereum Tax Its Apps Like a Nation? Arca’s Jeff Dorman Says It Has To](https://finance.yahoo.com/video/ethereum-tax-apps-nation-arca-120027725.html)**
+
+Jeff Dorman, Chief Investment Officer and co-founder of Arca, agrees with Vitalik Buterin that chasing fee burn would turn Ethereum into a stock, but argues a chain that never taxes its apps can’t give its currency much value.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Should Ethereum Tax Its Apps to Prove Its Security Is Worth It?](https://finance.yahoo.com/video/ethereum-tax-apps-prove-security-040026031.html)**
+
+Jeff Dorman, Chief Investment Officer and co-founder of Arca, says Vitalik Buterin’s push to treat ETH as a store of value is misguided and argues Ethereum must build its own stablecoin and DEX or tax its apps.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Nearly $600 Million in Crypto Longs Liquidated as Bitcoin and Ethereum Fall to August Lows](https://finance.yahoo.com/markets/crypto/articles/nearly-600-million-crypto-longs-015429440.html)**
+
+Crypto liquidations reached $680.81 million as Bitcoin and Ethereum fell to 3-month lows ahead of Friday's PPI data.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -236,7 +238,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 29K • 👍 304 • 💬 34 • ⏱️ 21:54 • 19h ago
+👁️ 32K • 👍 324 • 💬 36 • ⏱️ 21:54 • 1d ago
 
 ---
 
@@ -246,7 +248,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Stock Moe
 
-👁️ 35K • 👍 1K • 💬 211 • ⏱️ 12:45 • 10h ago
+👁️ 39K • 👍 1K • 💬 215 • ⏱️ 12:45 • 17h ago
+
+---
+
+**[🚨 XRP IS COOKED ‼️ XRP ETH BTC Know This BEFORE Tomorrow](https://www.youtube.com/watch?v=ajv96B2fAvc)**
+
+1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
+
+📺 Stock Moe
+
+👁️ 15K • 👍 495 • 💬 38 • ⏱️ 13:12 • 6h ago
 
 ---
 
@@ -256,7 +268,47 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 7K • 👍 98 • 💬 33 • ⏱️ 11:46 • 10h ago
+👁️ 8K • 👍 105 • 💬 34 • ⏱️ 11:46 • 17h ago
+
+---
+
+**[Crypto Collapse: Why I’m Buying $67,000 Bitcoin - Technical Analysis (BTC, ETH, ZEC, SOL, HYPE)](https://www.youtube.com/watch?v=fUZh_SYMpjA)**
+
+No B.S. Just Charts. Bitcoin and the crypto market are in collapse mode after Bitcoin broke $75500, and Gareth Soloway shows ...
+
+📺 Gareth Soloway
+
+👁️ 151K • 👍 4K • 💬 384 • ⏱️ 11:18 • 2d ago
+
+---
+
+**[ETHEREUM EMERGENCY UPDATE! (ETH Price Prediction)](https://www.youtube.com/watch?v=5fyG9eIUa9w)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 2K • 👍 19 • 💬 16 • ⏱️ 4:14 • 20h ago
+
+---
+
+**[Why Ethereum Buy and Hold Stalled #shorts](https://www.youtube.com/watch?v=U2_i1Y-a4J4)**
+
+Ethereum's monthly chart reveals a shift: huge rallies followed by long stretches without comparable momentum. That pattern ...
+
+📺 Crypto Y'all
+
+👁️ 649 • 👍 7 • ⏱️ 2:01 • 1d ago
+
+---
+
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=nG5nnYwseIo)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 34K • 👍 353 • 💬 106 • ⏱️ 22:21 • 1d ago
 
 ---
 
@@ -270,63 +322,13 @@ We analyse Ethereum on 14 November 2026 using Elliott Wave, with the adjusted re
 
 ---
 
-**[ETHEREUM EMERGENCY UPDATE! (ETH Price Prediction)](https://www.youtube.com/watch?v=5fyG9eIUa9w)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 1K • 👍 18 • 💬 16 • ⏱️ 4:14 • 13h ago
-
----
-
 **[BITCOIN CRASH OVER, But There&#39;s a Catch (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bUq8o0A_VEo)**
 
 BITCOIN CRASH OVER, But There's a Catch (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 11K • 👍 344 • 💬 95 • ⏱️ 22:10 • 7h ago
-
----
-
-**[The Crypto Market Is Completely F*d? (nvidia latest)](https://www.youtube.com/watch?v=WJL2Ta9ZNDg)**
-
-Unlock a $25 Deposit Bonus + 10% Trading Fee Reduction! Sign up to Activate Rewards: ...
-
-📺 Altcoin Daily
-
-👁️ 84K • 👍 2K • 💬 156 • ⏱️ 9:17 • 1d ago
-
----
-
-**[Why Ethereum Buy and Hold Stalled #shorts](https://www.youtube.com/watch?v=U2_i1Y-a4J4)**
-
-Ethereum's monthly chart reveals a shift: huge rallies followed by long stretches without comparable momentum. That pattern ...
-
-📺 Crypto Y'all
-
-👁️ 560 • 👍 6 • ⏱️ 2:01 • 1d ago
-
----
-
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=nG5nnYwseIo)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 33K • 👍 347 • 💬 107 • ⏱️ 22:21 • 1d ago
-
----
-
-**[🚨AAKHIR HONE KYA WALA HAI CRYPTO MEIN? 😱 BTC &amp; ETH update | Crypto Market Update Hindi](https://www.youtube.com/watch?v=FJl4MBgmukk)**
-
-LWT AIRDROP: https://lfwallet.app/?ref=TTEXVPFX MY TELEGRAM : https://t.me/cryptonianhimanshuofficial ...
-
-📺 Cryptonian Himanshu
-
-👁️ 3K • 👍 80 • 💬 11 • ⏱️ 26:00 • 10h ago
+👁️ 15K • 👍 396 • 💬 98 • ⏱️ 22:10 • 14h ago
 
 ---
 
