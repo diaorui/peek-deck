@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-17T00:58:27.450434+00:00'
+updated: '2026-11-17T08:58:55.685367+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 17, 2026 at 00:58 UTC  
+**Last Updated:** November 17, 2026 at 08:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,824.43
+### $1,830.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -11.7%  
-**30d:** -24.6%  
-**90d:** -22.0%  
-**1y:** -41.9%  
+**24h:** +1.2%  
+**7d:** -11.5%  
+**30d:** -24.4%  
+**90d:** -21.8%  
+**1y:** -41.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $221.56B
+**Market Cap:** $222.47B
 Rank #2
 
-**Circulating Supply:** 122,224,476 ETH
+**Circulating Supply:** 122,227,436 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.3%
+-63.2%
 
 **All-Time Low:** $0.43
-+418567.0%
++420220.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-4h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Does anybody know of any good decentralized email services?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear tec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -152,21 +152,25 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[MIT Brothers Cleared of Charges in $25 Million Crypto Case](https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial)**
+**[Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip](https://finance.yahoo.com/markets/crypto/articles/tom-lee-blames-nvidia-anthropic-203603583.html)**
 
-Bloomberg.com • 2h ago
+The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.
 
----
-
-**[Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5)**
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[ETH news: Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnJxbGU3aHBacW0yTE5mYTM1VVBLQUNOeHZqV3cwNWI5VjByTHdDWExXbkdIT0M2QnVOX285NWlxY3pPTnZTbFBsZVhSX002RXNNaHBDcTN4TjBxWU42QVBld2Vua3RULWR0NHVyQXBCMzdxbGtkR19ELURXRklxdDR3MFE3cnhfSHJadXNIZnVmYWYtemN4ZUtlQmZjcHZtVWYyZVZoX3UxckM3M2ZIY0ZmZWpnSlkwU0tr?oc=5)**
+**[Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)**
 
-CoinDesk • 16h ago
+In April 2023, a group of MEV bots lost over $25 million in seconds during a sophisticated attack on the Ethereum blockchain.
+
+The Block • 12h ago
+
+---
+
+**[ETH news: Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum](https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum)**
+
+CoinDesk • 1d ago
 
 ---
 
@@ -174,7 +178,21 @@ CoinDesk • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 20h ago
+
+---
+
+**[Bitwise: Look Out Ethereum, Avalanche May Eat Your Tokenization Lunch](https://www.benzinga.com/crypto/cryptocurrency/26/11/63308020/bitwise-look-out-ethereum-avalanche-may-eat-your-tokenization-lunch)**
+
+Benzinga • 15h ago
+
+---
+
+**[Ethereum test exposes flaw that lets transactions skip payments](https://cryptoslate.com/ethereum-test-exposes-flaw-that-lets-transactions-skip-payments/)**
+
+Ethereum’s Glamsterdam tests expose skipped project payments and forgiven cash-out fees, raising concerns over smart contract reliability.
+
+CryptoSlate • 6h ago
 
 ---
 
@@ -190,13 +208,7 @@ TradingView • 1d ago
 
 Vitalik Buterin supports leanPCS for Ethereum's scaling. Ethereum reaching $6,500 by December 31, 2026 at 0.8% YES.
 
-Crypto Briefing • 14h ago
-
----
-
-**[Is another crypto winter upon us? Why Bitcoin, XRP, and Ethereum fell more than 20% in a month](https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVVMbnFXclBkM0Y2ZFBJbUdtWWcySXBWaGNyb2NGZERiNWRlXy1uOEk4eGJuSmxsNk1CS0diVE16V3pjSGZncXV2VThDUDFWYVhtWTZGY2F3NHgzUnE5SU1heGwtZC00LXlXc1FYVHF2NU5KM2cyallFUmJ2dDlGSmpRSVZmYS16MDhIb3A1MXNxWXM2?oc=5)**
-
-Fast Company • 11h ago
+Crypto Briefing • 22h ago
 
 ---
 
@@ -204,19 +216,15 @@ Fast Company • 11h ago
 
 Buterin backs EIP-8037: new storage-slot gas jumps from 22,100 to 110,020. What it means for airdrops, bridges and Glamsterdam ahead of the Nov 19 call.
 
-FinanceFeeds • 13h ago
+FinanceFeeds • 21h ago
 
 ---
 
-**[Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXRfWndNQ1JKVGE4MWt4dS1NTVNSRmhkZWhNZlpVbkp3UXBoNmp1S1VzVUZvSy1aM2EyQ19Tak9DZVVOWEc4VEJFWUVIMnU5b3g0Y0s3QnNIMUI0UjdRc2dNNEFrTUN2RUYtdURuaFR1SGNxTWdBbHF3dDlKZEpzV0E1aGdHMXNSYXhJcTN4TzlUNTc1eHlld1Y3b0dUQXdDcExYRjJ6THBCSkEwbnpqeWRkZUpBaDZidk55ZHNSbS1NN2Q1?oc=5)**
+**[Tom Lee Says Ethereum’s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-slide-145345476.html)**
 
-24/7 Wall St. • 3d ago
+Lee suggested that investors may be selling ETH to raise cash ahead of Anthropic’s planned IPO and amid market developments involving Nvidia.
 
----
-
-**[Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree](https://www.benzinga.com/crypto/cryptocurrency/26/11/63271367/bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree)**
-
-Benzinga • 3d ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -230,67 +238,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/czPNWoFJ My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 3K • 👍 28 • 💬 3 • ⏱️ 9:28 • 12h ago
-
----
-
-**[Ethereum at Critical Support: Is the Bottom In?](https://www.youtube.com/watch?v=xHijY6NkGtk)**
-
-Ethereum has reached the 78.6% retracement at $1724 on the daily chart, but there is still no sign of a low. We analyse Ethereum ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 127 • 💬 10 • ⏱️ 7:31 • 4h ago
-
----
-
-**[Ripple XRP Investors Have Been Urged To Do This Ethereum &amp; Crypto Are About To Change Course](https://www.youtube.com/watch?v=FtocW0bAmtE)**
-
-Well, this is going to come as a surprise to many of you if not every single person. The last 2 weeks have been a bit weird in the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 38K • 👍 2K • 💬 445 • ⏱️ 21:29 • 12h ago
-
----
-
-**[ETH Crash: 2022 All Over Again? Remember what comes next..](https://www.youtube.com/watch?v=HvR-NwyiLLQ)**
-
-WEEX - where my trades go ($200 bonus when you sign up and deposit $50 or more, T&Cs apply) https://marzell.org/wx-v115 ...
-
-📺 Marzell Crypto
-
-👁️ 511 • 👍 16 • 💬 1 • ⏱️ 4:21 • 11h ago
-
----
-
-**[BITCOIN LOW CONFIRMED, BUT BE WARNED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WSh3FACFo2Y)**
-
-BITCOIN LOW CONFIRMED, BUT BE WARNED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 219 • 💬 78 • ⏱️ 21:52 • 5h ago
-
----
-
-**[Cathie Wood :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=-E7mPU6BqgA)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 44K • 👍 393 • 💬 38 • ⏱️ 21:54 • 1d ago
-
----
-
-**[Ethereum Could Win the Tokenization Race. But Will ETH Benefit?](https://www.youtube.com/watch?v=qbaJ9wSLtoE)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 10K • 👍 124 • 💬 51 • ⏱️ 11:46 • 1d ago
+👁️ 4K • 👍 30 • 💬 4 • ⏱️ 9:28 • 20h ago
 
 ---
 
@@ -300,7 +248,7 @@ We just got some news that has the cryptocurrency market buzzing. Bitcoin is bac
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 716 • 💬 149 • ⏱️ 31:04 • 14h ago
+👁️ 10K • 👍 740 • 💬 122 • ⏱️ 31:04 • 22h ago
 
 ---
 
@@ -310,17 +258,77 @@ We just got some news that has the cryptocurrency market buzzing. Bitcoin is bac
 
 📺 Stock Moe
 
-👁️ 46K • 👍 1K • 💬 238 • ⏱️ 12:45 • 1d ago
+👁️ 47K • 👍 1K • 💬 241 • ⏱️ 12:45 • 1d ago
 
 ---
 
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=nG5nnYwseIo)**
+**[Ripple XRP Investors Have Been Urged To Do This Ethereum &amp; Crypto Are About To Change Course](https://www.youtube.com/watch?v=FtocW0bAmtE)**
+
+Well, this is going to come as a surprise to many of you if not every single person. The last 2 weeks have been a bit weird in the ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 45K • 👍 3K • 💬 463 • ⏱️ 21:29 • 20h ago
+
+---
+
+**[Cathie Wood :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=-E7mPU6BqgA)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 36K • 👍 368 • 💬 108 • ⏱️ 22:21 • 2d ago
+👁️ 47K • 👍 418 • 💬 37 • ⏱️ 21:54 • 2d ago
+
+---
+
+**[ETH Crash: 2022 All Over Again? Remember what comes next..](https://www.youtube.com/watch?v=HvR-NwyiLLQ)**
+
+WEEX - where my trades go ($200 bonus when you sign up and deposit $50 or more, T&Cs apply) https://marzell.org/wx-v115 ...
+
+📺 Marzell Crypto
+
+👁️ 752 • 👍 17 • 💬 1 • ⏱️ 4:21 • 19h ago
+
+---
+
+**[Ethereum at Critical Support: Is the Bottom In?](https://www.youtube.com/watch?v=xHijY6NkGtk)**
+
+Ethereum has reached the 78.6% retracement at $1724 on the daily chart, but there is still no sign of a low. We analyse Ethereum ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 163 • 💬 13 • ⏱️ 7:31 • 12h ago
+
+---
+
+**[Why Ethereum Buy and Hold Stalled #shorts](https://www.youtube.com/watch?v=U2_i1Y-a4J4)**
+
+Ethereum's monthly chart reveals a shift: huge rallies followed by long stretches without comparable momentum. That pattern ...
+
+📺 Crypto Y'all
+
+👁️ 942 • 👍 9 • ⏱️ 2:01 • 2d ago
+
+---
+
+**[Ethereum Could Win the Tokenization Race. But Will ETH Benefit?](https://www.youtube.com/watch?v=qbaJ9wSLtoE)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 10K • 👍 126 • 💬 51 • ⏱️ 11:46 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=qCXXDi_KNXM)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 972 • 👍 72 • ⏱️ 5:37 • 5h ago
 
 ---
 
