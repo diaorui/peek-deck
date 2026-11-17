@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 168,
+      "upvotes": 169,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 122766,
+      "github_stars": 122831,
       "project_page": null
     },
     {
@@ -107,8 +107,8 @@
       "hf_url": "https://huggingface.co/papers/2611.18397",
       "arxiv_url": "https://arxiv.org/abs/2611.18397",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18397.png",
-      "upvotes": 86,
-      "num_comments": 2,
+      "upvotes": 88,
+      "num_comments": 3,
       "published_at": "2026-11-12T19:00:00.000Z",
       "github_repo": "https://github.com/RainBowLuoCS/Gamer",
       "github_stars": 176,
@@ -130,7 +130,7 @@
       "num_comments": 2,
       "published_at": "2026-11-08T19:00:00.000Z",
       "github_repo": "https://github.com/Robbyant/lingbot-touch",
-      "github_stars": 642,
+      "github_stars": 692,
       "project_page": "https://technology.robbyant.com/lingbot-touch"
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 93573,
+      "github_stars": 93606,
       "project_page": null
     },
     {
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2611.10649",
       "arxiv_url": "https://arxiv.org/abs/2611.10649",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.10649.png",
-      "upvotes": 31,
+      "upvotes": 32,
       "num_comments": 2,
       "published_at": "2026-11-06T19:00:00.000Z",
       "github_repo": "https://github.com/huawei-csl/MACaQ",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-16T17:17:41.490312+00:00"
+  "fetched_at": "2026-11-17T00:58:05.595536+00:00"
 }

@@ -5,54 +5,44 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
-      "pub_date": 1794589500.0,
-      "article_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
-      "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
-    },
-    {
-      "headline": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+      "headline": "AI Finds 28 Zero-Day Flaws In Physical Robotics Software",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbHI3YmFGMURtSnRoeEVQNjdReXoyOGpsT19aSVFUQVRNOEsxMXVIcWltWC1EMEdpZDk5LWR0VGhmTGhSb3NHSG9pVzdrQzNwdm1qcHhBdw?oc=5",
-      "pub_date": 1794838090.0,
-      "article_url": "https://spectrum.ieee.org/telesurgery-stroke",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68667045&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
-      "description": "Remedy Robotics is testing whether surgeons can operate from afar"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2tpMGdtXzNMRndYX3lGRHBmOUV5ZFVwdUJnYlVvY1lIQi16MFM2dlRRS2JMRS1vVHJCeWRpQ1RKSG80dnBrM2ktUU01S2I1RU9CWVNGN2JLek9VbklReWlhZFM0UTFmSDZKd1dYdW85dmpmWFlaZ2ZrNWl4Q3BEYQ?oc=5",
+      "pub_date": 1794823356.0,
+      "article_url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+      "image": "https://spectrum.ieee.org/media-library/humanoid-and-dog-robots-watch-a-massive-swirling-storm-over-a-modern-city-walkway.jpg?id=68562173&width=1200&height=600&coordinates=0%2C224%2C0%2C225",
+      "description": "VicOne\u2019s AI-assisted research reveals what faster zero-day discovery means for robot safety"
     },
     {
-      "headline": "A robotics- and machine learning-integrated workflow for discovering all-natural plastic substitutes",
-      "source": "Nature",
-      "source_url": "https://www.nature.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6UW1IdVZSTnNieTl5UTMxd0p4eVFDWXNsTXlTdzVMSmVYX1htQmd1R3lFdlNQeHpxQU1XZFJqbVdXZWFjNk1jWXdYTDhWYlRXZlQtSXZ1bEhOWVVfeGJF?oc=5",
-      "pub_date": 1794836986.0,
-      "article_url": "https://www.nature.com/articles/s41596-026-01449-4",
+      "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEF0S2EzRXozeVdvVHdyTkVCRDF2Z0ZhenNTb09xM3BKU0VVYWFvNXRpa3lEbTlxbTNqTFU2amtzdm9oSzZBRExBNFQxZEVPM0hNNHRrdXFsRGl6cnlkSktyZllqaUtxdkl2LVVQaUtXcWpyUEhKMHZuX2dfVTY0V256Wm80dTU0RkFTQkVIdWxBVGxJWHJHemdrYnRWa2M3bHhxVG9ORC0?oc=5",
+      "pub_date": 1794869907.0,
+      "article_url": null,
       "image": null,
       "description": null
     },
     {
-      "headline": "US: Robots play piano and mimic movements of human eyes with artificial muscles",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXpyYjYxT0V6VVJzNG9oektsZEVOTVBHOTE0b1dZUktqNDluYWFkZWxZV3J2QVROWjRRdHNYVmNJS2xraHhrNS1YM2dMN1VMeHZ6X1VmRUVYRW0zM0xZeEwyRnFLNkhBc2ZmWFFUeWRYd25CaERVQUlubjh1bHhOWWQyR0ctZkVtZmR3?oc=5",
-      "pub_date": 1794823620.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/us-robots-play-piano-mimic-human-eye",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-2-7.jpg",
-      "description": "Penn Engineering researchers develop artificial muscles that give soft robots precise movement and fine motor control."
+      "headline": "Israel ranks second globally in physical AI",
+      "source": "CTech",
+      "source_url": "https://www.calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOUFsNVlVRXh5cHU3NGhySkhkOTlGM3RJRm1KUDBVSmFJVmVQRVdaOGhTbXZBS3ZtVkVmY2pfRjk4eWJMdHNDS2ZXQlYzeXNOeFNFcTl5TU1VbTRhQkFBZ2dIRE5ja1U?oc=5",
+      "pub_date": 1794831480.0,
+      "article_url": null,
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Helping robots fit into the human workplace",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40Z1dvcEpVRVZCQkVZYnRNV1ViM0ZaaHVGZkNBTDd2RXpHQXdxMXRmcDY5T3labDZBUER6TFg4N25xNjFlYVVPdFlsUGNQQ1dmRkV1M0drazJUVDV6Q01ENzZJU1BHZC1DWnloeEFtU2xoZ3NvVzYwSVp3?oc=5",
-      "pub_date": 1794546000.0,
-      "article_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-      "image": "https://news.mit.edu/sites/default/files/images/202611/MIT-Robust-AI-01-press.jpg",
-      "description": "Robust AI\u2019s robots collaborate with humans in logistics warehouses and on factory floors. The startup was founded by MIT alumnus Anthony Jules and Professor Emeritus Rodney Brooks."
+      "headline": "Humanoid Robots: This Company Sells The Body, You Supply A Brain",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUFZdmxneTJ5c2VwTGowM1RGSnFsRnBMUVM3Sl9uMTNfdUUzYmVnWV9wTXhMMFlOakx5UW16bjJWdk9LN3BWMFVDUVZTY01xU1NSbGxmalY3SDJNVFMzc3NhX19KdE44Y0JNb3R5MVdlZU5vUVEtaGxNZVctMEYzVEJtMC1iQk5PVU5POE9VazA5Q1c3bnhUNUVVYTJjQnc0Qy1VaUVzQlNXd3I0X21MSElzU0hXRGM?oc=5",
+      "pub_date": 1794868783.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/16/humanoid-robots-this-company-sells-the-body-you-supply-a-brain/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins",
@@ -65,14 +55,34 @@
       "description": "If you've ever visited Japan, you too may have been left confused and frustrated by what appears to be a total absence of public waste bins."
     },
     {
-      "headline": "Food robotics 2.0: why this time could be different",
+      "headline": "Agile Robots raises $500M to increase production capacity",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmJqYy12NXVJVUJRa056OEphWTlUcTY2X3hCdlpUMVVGMHJ4Vk16Zm5QRU81djkxeHhNM0ljUnRtVUJ3VnBEQkNidmRLdWVZX2Z3ckxJVDZBeFhsbS0tcEg4OGFmTG1PaXlHQmJFWlNPQkVBbl9RX19NTFVtdmhvaHcwMWE0Q29jY1E?oc=5",
-      "pub_date": 1794643200.0,
-      "article_url": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/image1.jpg",
-      "description": "Food robotics is entering a new era as companies shift from consumer-facing robot restaurants to B2B automation that help food manufacturers, restaurants, and grocery retailers improve productivity, reduce labor costs, and scale operations."
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2ZGVXRkWV9RZG9oVVQtbHBtdWppVG56THdnVDFDSF9xWkI3ZzlENzFSYVgxWFVrRFJmOXVvRnBlLUNqUE5PSkttWEJTcTl4VTVCNlBrc0VrektZc01JN3hMNVE5WmlSVmE5ZFRsai02UDQ5SXc0NWhUelBpWUdYcGZWcjhtQXgybVh3NHRIaTB6Zw?oc=5",
+      "pub_date": 1794872105.0,
+      "article_url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilerobots-featured.jpg",
+      "description": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands."
+    },
+    {
+      "headline": "US: Robots play piano and mimic movements of human eyes with artificial muscles",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXpyYjYxT0V6VVJzNG9oektsZEVOTVBHOTE0b1dZUktqNDluYWFkZWxZV3J2QVROWjRRdHNYVmNJS2xraHhrNS1YM2dMN1VMeHZ6X1VmRUVYRW0zM0xZeEwyRnFLNkhBc2ZmWFFUeWRYd25CaERVQUlubjh1bHhOWWQyR0ctZkVtZmR3?oc=5",
+      "pub_date": 1794823620.0,
+      "article_url": null,
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
+      "pub_date": 1794589500.0,
+      "article_url": null,
+      "image": null,
+      "description": null
     },
     {
       "headline": "153-Year-Old Builder Taisei Sets Up Fund to Invest in AI and Robotics",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "Israel ranks second globally in physical AI",
-      "source": "CTech",
-      "source_url": "https://www.calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOUFsNVlVRXh5cHU3NGhySkhkOTlGM3RJRm1KUDBVSmFJVmVQRVdaOGhTbXZBS3ZtVkVmY2pfRjk4eWJMdHNDS2ZXQlYzeXNOeFNFcTl5TU1VbTRhQkFBZ2dIRE5ja1U?oc=5",
-      "pub_date": 1794831480.0,
-      "article_url": "https://www.calcalistech.com/ctechnews/article/7cg3rfv6z",
-      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/06/HkdzcyoVWe/HkdzcyoVWe_1_39_1601_901_0_large.jpg",
-      "description": "One in five Israeli startups is building technology that brings AI into the physical world, putting the country behind only Germany. But an AWS study warns that slow customer adoption is holding back the sector's growth worldwide."
-    },
-    {
       "headline": "FF EAI Robotics Ecosystem Inc. (FFR) CEO YT Jia Shares Weekly Updates on Robots Delivery to Central Michigan University, Brain Blocks AI Module, and Industrial Scenario Validation",
-      "source": "WyomingNews.com",
-      "source_url": "https://www.wyomingnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNUUZHdzBVYUEzMG1ja21LajVMcmRmS0xzZTNBNlFGcGNnZDlNdGhzQXdNaENSejdqaU95VVNDZTVXU1N6QXNOSUlXblo2cWsyMjFvT2h4ZllzdEhvZVgyY2Z0MUpmQjlKUUFYMVI1MG9jZlJXM3BETjFDSlQ2LXN6dkJtOEZMeUk4MG44MkJmc1liUVhBeUFrcWxRZTQtbzE1SEtiZmlpaE8tUV8xMGJuQlp4cUs4VERYV21sNjV4eDJfTVkyV1RwYnc1Z1FJc3VCaWZNY1BVa1hlV2prTDMxVWJncXd3U3dkQ2RtT1RwMjUtdW9JS1pVNHRhdUlia1Zpdk1sQW0yTWd2SDIxYnJfRGw3VEdNdXBOSndzZ3lEMA?oc=5",
-      "pub_date": 1794795720.0,
-      "article_url": "https://www.wyomingnews.com/online_features/press_releases/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery/article_1487ef29-ebb0-5340-a692-98ad1909f4c8.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/b/17/b177bc2e-61b9-53eb-a4ba-fc0d2cf56865/6afaced4032d9.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-      "description": "FFR has delivered two Aegis Ultra robots to Central Michigan University, the first customer for FFR in Michigan. This marks the first sale and delivery to a university lab in"
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPVmJMeHdXV0l5X1NKOUcyT3RDaWtmejJqdTdLQWhtZEtFZ2dzRmdqZGc4cnhSc1FmUEJxR1R3NERlZTBPUVMwWUw2RE5sZjJoNkd5NDF3VWVxcGZHQlJvNFl2NDJkRkJkeGpORFFMbWZ4RnN1WWtsOVhqd3VuVTlVazVHSWVVUF9qVFRiWVFYZUlObGZ5bURhWTZwZnlTalM5SVpqUUx6THRyVnJnazQ1SjRsYmFZcHFKMzZSVHdCeEdzUmFTTzR0RWxrLXhYZU1ZUFR4MHdLR2RmcGI2OXFGTW1ZNjR5VEhZZ2tpcUJZSDNHVWZUaTRBMTBaRUNmdFJnREpEUENGaEgtdTBnam9DM21mbXdFT0toWld4WExaT0plZ1QzeV9kVHQ2Q2V1RlNaZlpHMDdKdW1JNlMwZU5WWnN1emJ4c29IZDl3aGoyS3VJa0pHbnc?oc=5",
+      "pub_date": 1794800035.0,
+      "article_url": "https://www.morningstar.com/news/pr-newswire/20261115cn98191/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery-to-central-michigan-university-brain-blocks-ai-module-and-industrial-scenario-validation",
+      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-16T17:18:02.510574+00:00"
+  "fetched_at": "2026-11-17T00:58:24.878068+00:00"
 }

@@ -5,6 +5,20 @@
   "days": 7,
   "posts": [
     {
+      "title": "Alleged Operator of Pirate Site Movie2K Could Walk Free as Bitcoin Billionaire",
+      "url": "https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/",
+      "hn_url": "https://news.ycombinator.com/item?id=50518570",
+      "author": "Brajeshwar",
+      "points": 7,
+      "num_comments": 0,
+      "created_at": "2026-11-16T15:24:12Z",
+      "object_id": "50518570",
+      "image": "https://torrentfreak.com/images/bitcoin-featured.jpg",
+      "description": "The alleged operator of defunct pirate streaming site Movie2K could walk out of a German court a free man, and still a bitcoin billionaire.",
+      "favicon": "https://torrentfreak.com/apple-touch-icon.png",
+      "site_name": "torrentfreak.com"
+    },
+    {
       "title": "Bitcoin Just Crashed Toward $64,000. History Says the Worst May Not Be Over",
       "url": "https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/",
       "hn_url": "https://news.ycombinator.com/item?id=50501201",
@@ -17,20 +31,6 @@
       "description": "Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bottom suggest the first flush rarely ends the pain. Three catalysts and two price lines will decide whether the old highs come back or the floor drops again.",
       "favicon": "https://247wallst.com/favicon.ico",
       "site_name": "24/7 Wall St."
-    },
-    {
-      "title": "Alleged Operator of Pirate Site Movie2K Could Walk Free as Bitcoin Billionaire",
-      "url": "https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/",
-      "hn_url": "https://news.ycombinator.com/item?id=50518570",
-      "author": "Brajeshwar",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-11-16T15:24:12Z",
-      "object_id": "50518570",
-      "image": "https://torrentfreak.com/images/bitcoin-featured.jpg",
-      "description": "The alleged operator of defunct pirate streaming site Movie2K could walk out of a German court a free man, and still a bitcoin billionaire.",
-      "favicon": "https://torrentfreak.com/apple-touch-icon.png",
-      "site_name": "torrentfreak.com"
     },
     {
       "title": "A minimal Bitcoin-inspired implementation (2022)",
@@ -117,20 +117,6 @@
       "site_name": null
     },
     {
-      "title": "Why Gmx.com?",
-      "url": "https://news.ycombinator.com/item?id=50429813",
-      "hn_url": "https://news.ycombinator.com/item?id=50429813",
-      "author": "nitishxbt",
-      "points": 2,
-      "num_comments": 1,
-      "created_at": "2026-11-09T18:51:03Z",
-      "object_id": "50429813",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
-    },
-    {
       "title": "Strategy to Be Dropped from MSCI Indexes After New Eligibility Rules",
       "url": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4",
       "hn_url": "https://news.ycombinator.com/item?id=50469437",
@@ -143,9 +129,23 @@
       "description": null,
       "favicon": null,
       "site_name": "wsj.com"
+    },
+    {
+      "title": "My nail biting has been cured \u2013. By manicure?",
+      "url": "https://devz.cl/posts/my-nail-biting-has-been-cured-by-manicure/",
+      "hn_url": "https://news.ycombinator.com/item?id=50518150",
+      "author": "DanielVZ",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-11-16T14:47:13Z",
+      "object_id": "50518150",
+      "image": null,
+      "description": "This will be a short post but I can\u2019t not share it. I\u2019ve been biting my nails for as long as I can remember. It\u2019s never been a big issue besides the obvious occasional nuisance of not having nails long enough for mechanisms that require fingernails to be operated.\n\nNote: Here\u2019s a list of stuff I had to operate with help of a knife or spoon, or find a workaround:\n\nNintendo Switch: Kickstand & MicroSD Slot\nSoda & Sparkling Water Can Tabs (the workaround is to slightly raise it by pressing my thumb on the opposite end of the tab)\nPlastic Film Seals, Stickers, Scotch tape, etc\nTiny Necklace Clasps\nI always had trouble lifting thin card-like objects from a flat surface",
+      "favicon": "https://devz.cl/images/stille.webp",
+      "site_name": "devz.cl"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-16T17:17:35.443868+00:00"
+  "fetched_at": "2026-11-17T00:57:57.046194+00:00"
 }

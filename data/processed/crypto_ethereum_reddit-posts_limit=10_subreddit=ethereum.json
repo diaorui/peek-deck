@@ -2,6 +2,50 @@
   "subreddit": "ethereum",
   "posts": [
     {
+      "title": "Daily General Discussion November 16, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xxhslk/daily_general_discussion_november_16_2026/",
+      "published": 1794808886.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Does anybody know of any good decentralized email services?",
+      "author": "ChASScaAbsLicker",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xxztr9/does_anybody_know_of_any_good_decentralized_email/",
+      "published": 1794859894.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Does anybody know of any good decentralized email services?"
+    },
+    {
+      "title": "Daily General Discussion November 15, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xwnymk/daily_general_discussion_november_15_2026/",
+      "published": 1794722496.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Why 0x01 validator withdrawal credentials and immutable vesting contracts are the hardest bottlenecks for Ethereum's 2029 post-quantum roadmap",
+      "author": "shegeshe",
+      "url": "https://www.reddit.com/r/ethereum/comments/1xwgn1g/why_0x01_validator_withdrawal_credentials_and/",
+      "published": 1794699428.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?"
+    },
+    {
       "title": "Daily General Discussion November 14, 2026",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1xvuvh0/daily_general_discussion_november_14_2026/",
@@ -66,51 +110,7 @@
       "site_name": "Ethlabs",
       "favicon": "https://ethlabs.org/icon-180.png",
       "description": "Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegot\u00e1 and quick slots"
-    },
-    {
-      "title": "have you tried using ambire wallet?",
-      "author": "ADABOY707",
-      "url": "https://www.reddit.com/r/ethereum/comments/1xtqqq6/have_you_tried_using_ambire_wallet/",
-      "published": 1794424400.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "i\u2019ve finally switched from rabby wallet to ambire after a long while been a big fan of rabby, but ever since they start to collect too many datas from the users i\u2019ve wanted to try a new wallet on EVM which gives the same vibes like rabby and i finally ended up using ambire wallet it\u2019s actually an underrated wallet, even vitalik showed the demo of ambire wallet privacy features on devcon 8 in mumbai what im impressed about > privacy > clear signing > their new hardware wallet > txn batching > security try it out if you wanna explore a good wallet: https://www.ambire.com/download also available on mobile for both android and iOS"
-    },
-    {
-      "title": "Daily General Discussion November 11, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1xta412/daily_general_discussion_november_11_2026/",
-      "published": 1794376882.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Daily General Discussion November 10, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1xsfar1/daily_general_discussion_november_10_2026/",
-      "published": 1794290473.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Survey for common operations on crypto wallets",
-      "author": "hi-brawlstars",
-      "url": "https://www.reddit.com/r/ethereum/comments/1xsndcu/survey_for_common_operations_on_crypto_wallets/",
-      "published": 1794318569.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hello all, We are building a tool for interfacing between wallets and users as a fun learning project. I wanted to know what are the most operations used within wallets? Are smart contracts common for the average user? How about cross-chain swapping? Please list out more operations if they come to your mind."
     }
   ],
-  "fetched_at": "2026-11-14T15:37:08.637844+00:00"
+  "fetched_at": "2026-11-17T00:58:01.600311+00:00"
 }

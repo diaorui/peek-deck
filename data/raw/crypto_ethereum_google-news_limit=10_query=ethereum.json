@@ -5,34 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Tom Lee Says Ethereum\u2019s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3RvMTFyNE9QY0FtOE5oTncwdzhwYnhxZ1ZYdndOTDl6ZnBCR1F1T2lGYVVfcWpYV2ZDc01GUHJrX3prOVV0OE53Tm54aHhNUUNmY1RFLXJRS09YNUstcUlsbE1KNV9paWlHaHdhaHZ1MUhZZnFVTFEtOHdTUTc4Qmg1VGcyNTFVbjZ2WEFFMUQ0N2Y1NWhF?oc=5",
-      "pub_date": 1794840825.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-slide-145345476.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b98c848ec43de20b260c642ea10ce3516a0512aa674804411e04dea93dcac3d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fd570ad51e629013469ef47c158a04951",
-      "description": "Lee suggested that investors may be selling ETH to raise cash ahead of Anthropic\u2019s planned IPO and amid market developments involving Nvidia."
+      "headline": "MIT Brothers Cleared of Charges in $25 Million Crypto Case",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckIwQjFMRmlqWlZFcmx5WDBDRVVvai1rVEZRZjd1eE1ja3NjTHZ6M20wUU1Md1Y4SUpJbFVVTkJDSVhETnFSZ1pnMEx0S18tWEpMOHQ3Y1hKN0UtcW1GalROMFAtYzlUUy1iVUdISWxUY0ptRGhqYl9KdDZNMWVCMXV4THpFSGwwQnpBLUxnMmlJUFVPeDZ1a2lsQXBaZUhfLWRMUWJ5M1lGd2JaTXpKbGxBZw?oc=5",
+      "pub_date": 1794866997.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Is another crypto winter upon us? Why Bitcoin, XRP, and Ethereum fell more than 20% in a month",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVVMbnFXclBkM0Y2ZFBJbUdtWWcySXBWaGNyb2NGZERiNWRlXy1uOEk4eGJuSmxsNk1CS0diVE16V3pjSGZncXV2VThDUDFWYVhtWTZGY2F3NHgzUnE5SU1heGwtZC00LXlXc1FYVHF2NU5KM2cyallFUmJ2dDlGSmpRSVZmYS16MDhIb3A1MXNxWXM2?oc=5",
-      "pub_date": 1794835267.0,
-      "article_url": "https://www.fastcompany.com/91642991/crypto-winter-2026-bitcoin-xrp-price-falling-why-down",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91642991-crypto-winter-bitcoin-ethereum-xrp.jpg",
-      "description": "Bitcoin's value has roughly halved since its peak in late 2025. As popular tokens continue their slide, investors are heading into the 'extreme fear' stage."
-    },
-    {
-      "headline": "Bitmine Adds 7,653 ETH as Tom Lee Defends Ethereum Fundamentals",
+      "headline": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2hhZ0YxeS1uZkE1RUxEcndVSDFPWkw4OXk0VENsbV9vZHo1Q2tRdmtRTUdYbUFvWjloRzVXUTUwaVFsdGZWME8wZGdFd2dmQWxPZzRGaERjVERtYTcwUWNXTTVYZkFNREh4ZjJsSV9rbEFINVNxZGhrTVBnTWM4aWJpZ2dQUDR1eEV6S1hTdTM?oc=5",
-      "pub_date": 1794842820.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-adds-7-653-eth-152700846.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ffe3a4b28274b0f6e8ed7659997a5c7f0ca488aea2d6c5dee07ea6e81ee7157b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fccc7ac2b86d3d4d74c1a97ff08c5f70c.jpg",
-      "description": "Ethereum treasury company Bitmine Immersion Technologies (NYSE: $BMNR) said Monday it acquired 7,653 ETH over the p..."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
+      "pub_date": 1794861363.0,
+      "article_url": null,
+      "image": null,
+      "description": null
     },
     {
       "headline": "ETH news: Vitalik Buterin flips to \u2018total bull\u2019 on a faster route to quantum-safe Ethereum",
@@ -40,7 +30,7 @@
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnJxbGU3aHBacW0yTE5mYTM1VVBLQUNOeHZqV3cwNWI5VjByTHdDWExXbkdIT0M2QnVOX285NWlxY3pPTnZTbFBsZVhSX002RXNNaHBDcTN4TjBxWU42QVBld2Vua3RULWR0NHVyQXBCMzdxbGtkR19ELURXRklxdDR3MFE3cnhfSHJadXNIZnVmYWYtemN4ZUtlQmZjcHZtVWYyZVZoX3UxckM3M2ZIY0ZmZWpnSlkwU0tr?oc=5",
       "pub_date": 1794817083.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
+      "article_url": null,
       "image": null,
       "description": null
     },
@@ -65,26 +55,6 @@
       "description": "BitMine Immersion Technologies (BMNR) and Ethereum (ETH) exchange-traded funds (ETFs) may experience a \"Black Monday\" if the token breaks a significant support level over the weekend, Peter Schiff said on Saturday.Schiff made the call in a\u00a0post on X, after an earlier warning on Ethereum. He said th\u2026"
     },
     {
-      "headline": "Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXJfZUgxeXcwejNwdUJLRFBMc2xsOC1oUkFoVFREY19CZC1KaHRXRUtsQm1SVXJEd2RhNzEyVTBCcUx2WTR1LWtXcmx3TjBzNlltdkNQV3owNE5GMGdUQTEwUXVvaEhxREo3QlZrY2pZNXp5S2FUT1FpQ0NNX0l1RnVfbUNwWnI1LW5IbDlDbU5TeV9oeDNrQmJOZHo2QnpHNEZNMFR3UUtLNkh4bF9JZkJCRHR2dEJBbUtWV1lwdHI1d1U?oc=5",
-      "pub_date": 1794684605.0,
-      "article_url": "https://www.benzinga.com/crypto/26/11/63274152/ethereum-flashes-death-cross-as-etf-outflows-surge-futures-open-interest-dives",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why are Bitcoin, Ethereum and XRP still falling?",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTFZRT05kRkgxNzM2ZGsyZkxBNFFpVEtxMDIxRXhVZ1BDZnd2M01TcXRXMVVvRm1HV01fSDBzU01nYTZWckhMVUtWU1ZDMkFQVkt4SWhPb0dxcWNabzRZaC0zTVFsQnVlbXJyYUM2ZUZLN3VrMWdPWGRtRk9IY0F4aEgtNm4wSVFRYlQ2ZVlPRVl2WEUxX1hUd3pFZHQ3NkdDdTRHUU5zSU1nWUdMQktibFJWOEdqXzFUdWktOWN4R3ZzM3dCaElwaGhPRDF0bWV1Y3FtOTV3?oc=5",
-      "pub_date": 1794825039.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-face-increasing-selling-pressure-etf-outflows-202611161030",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Vitalik Buterin backs leanPCS for scaling Ethereum\u2019s cryptographic proofs",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -95,16 +65,46 @@
       "description": "Vitalik Buterin supports leanPCS for Ethereum's scaling. Ethereum reaching $6,500 by December 31, 2026 at 0.8% YES."
     },
     {
+      "headline": "Is another crypto winter upon us? Why Bitcoin, XRP, and Ethereum fell more than 20% in a month",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVVMbnFXclBkM0Y2ZFBJbUdtWWcySXBWaGNyb2NGZERiNWRlXy1uOEk4eGJuSmxsNk1CS0diVE16V3pjSGZncXV2VThDUDFWYVhtWTZGY2F3NHgzUnE5SU1heGwtZC00LXlXc1FYVHF2NU5KM2cyallFUmJ2dDlGSmpRSVZmYS16MDhIb3A1MXNxWXM2?oc=5",
+      "pub_date": 1794835267.0,
+      "article_url": null,
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "EIP-8037: Vitalik Buterin Defends 5x Gas Hike on New Ethereum State",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nbUpTQ3pqQkVNUENKZk9GRFRueXczWi1hcmpxYmIxbzNCSWh4TURjWVpUakpkXy1SZ1k4ck9UMHJXQmxuV0RsQXNlWE55bDNBaVZRSDVCVmRzRkI2bmJyeU1ib0ZpcHZ6MUE?oc=5",
+      "pub_date": 1794829457.0,
+      "article_url": "https://financefeeds.com/vitalik-buterin-defends-ethereum/",
+      "image": "https://financefeeds.com/wp-content/uploads/2026/11/vitalik-Buterin.jpg",
+      "description": "Buterin backs EIP-8037: new storage-slot gas jumps from 22,100 to 110,020. What it means for airdrops, bridges and Glamsterdam ahead of the Nov 19 call."
+    },
+    {
       "headline": "Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXRfWndNQ1JKVGE4MWt4dS1NTVNSRmhkZWhNZlpVbkp3UXBoNmp1S1VzVUZvSy1aM2EyQ19Tak9DZVVOWEc4VEJFWUVIMnU5b3g0Y0s3QnNIMUI0UjdRc2dNNEFrTUN2RUYtdURuaFR1SGNxTWdBbHF3dDlKZEpzV0E1aGdHMXNSYXhJcTN4TzlUNTc1eHlld1Y3b0dUQXdDcExYRjJ6THBCSkEwbnpqeWRkZUpBaDZidk55ZHNSbS1NN2Q1?oc=5",
       "pub_date": 1794595380.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/13/claude-ai-predicts-what-bitcoin-and-ethereum-could-be-worth-by-2030/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/06/shutterstock-2676939269-huge-licensed-scaled.jpg",
-      "description": "Claude AI projects Bitcoin at $165,000 and Ethereum at $5,200 by 2030 in its base case. Here's what each coin needs."
+      "article_url": null,
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVNLMHRMMDlHS09qbHNLTjIyRnFxaWlfS0xOOHJOQ3VTSDJUOVA0RGhHX09RRWZBNktQeEh2R0ZiZktGQWlLZDh6S0d1aGc4cFZOcG44ei02YlpWYVh2Q0FmcjFrbldudWpueWNqcXFqRmN2WGN6Qzktald6ODlvWkFyanYyQmViYjA2MWQ2b2NfaW5NaFJkd0dKMVl1dXVfY290WGIyaHkxanFiaFY4VnJMQ2Q2dHFydVlpUXBqbS14NWpRV3JGUlBLajRGeXIwWjBCdw?oc=5",
+      "pub_date": 1794607208.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63271367/bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-16T17:18:07.585086+00:00"
+  "fetched_at": "2026-11-17T00:58:22.649348+00:00"
 }
