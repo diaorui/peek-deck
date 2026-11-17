@@ -5,6 +5,46 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5",
+      "pub_date": 1794924000.0,
+      "article_url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxwR0lDSTlWVnhqS0FvQXY0VUllMGZ4MWdtZ0lQVXNTaVNzSlluaFlQV05zcHNDVGpSTFdFM09PZXRXTWZMLTZiYjVIZUFSQm5rejh6SmxOTndicUphR3FrWGR1cER5ODNERFNJbEJtVGxvYnhqT2tZdlhrV3ktdGotQ3VyVmMydG5CN1ZST2l0bVprMHgxN3JFdGNCX1lRMW15OUk1YXRhYmVtS1RCaw?oc=5",
+      "pub_date": 1794935864.0,
+      "article_url": "https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "General Motors is planning a 20% boost in factory robotics by 2028",
+      "source": "Quartz",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5Wkg0QUxnTHl4dkpkb0s3QXl5WUtUbHpWcGFQLTZxT3lUTlo5Smo2WURMZE5JNTJMaWFlLTh0dlUza0ZUYU1wQUdneE5VclhrME1CSGY2QUF6NG9jOUxwUERpLTBWMnUyTThldWxMNUhKT0VmNlRn?oc=5",
+      "pub_date": 1794936241.0,
+      "article_url": "https://qz.com/gm-factory-robotics-automation-20-percent-2028-111726",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1236631802-300x200.jpg",
+      "description": "The automaker is building its own robots at its Kokomo, Indiana, plant and weighing suppliers' automation plans in contract decisions"
+    },
+    {
+      "headline": "General Motors plans 20% boost in robotics to cut costs",
+      "source": "The Detroit News",
+      "source_url": "https://www.detroitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZFFxNzRCUV9yZ0V2N0N4TGx6dWw1MUgzcnFjeFJEdllTS3oxcmNjb3l3OVZhV0pTTmhGRF9MWXloSjFCRVhuWWR2WGZjdTk4b0hRdE1sRzFoNXJHdU5LV0NiUURpNjZaMjh4c0NydUlOdTRHdjZRUlBySmpEampTMEVJQUh0MVRUZG5qdG5YdUJ1UTdwTTdHek1GRzJFVnVkeVZOa2d4c0JwYVU1U3RadVRYUlJDaWdUQjRKSmdXeDR0ZWVQeUhzQUR3TDRrYk9JWjJ2X2Q4YU5haVlKQnppNg?oc=5",
+      "pub_date": 1794926520.0,
+      "article_url": "https://www.detroitnews.com/story/business/autos/general-motors/2026/11/17/gm-plans-20-percent-boost-in-robotics-as-factory-costs-rise/92823834007/",
+      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/11/17/PDTN/92823930007-20261117-t-110046-z-1739984241-rc-2-xziaqbtqa-rtrmadp-3-gmrobots.JPG?crop=4676,2631,x0,y269&width=3200&height=1801&format=pjpg&auto=webp",
+      "description": "General Motors Co. is aiming to increase use of robots and other automation by 20% at its North American factories by 2028."
+    },
+    {
       "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
       "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
@@ -25,16 +65,6 @@
       "description": "When OpenAI released its Astra model in September, users quickly found that it excelled at tasks that require understanding the physical world. One of those most impressed by its performance was Nvidia\u2019s robotics chief Deepu Talla, who told The Information it is a breakthrough in efforts to ..."
     },
     {
-      "headline": "AI Finds 28 Zero-Day Flaws In Physical Robotics Software",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2tpMGdtXzNMRndYX3lGRHBmOUV5ZFVwdUJnYlVvY1lIQi16MFM2dlRRS2JMRS1vVHJCeWRpQ1RKSG80dnBrM2ktUU01S2I1RU9CWVNGN2JLek9VbklReWlhZFM0UTFmSDZKd1dYdW85dmpmWFlaZ2ZrNWl4Q3BEYQ?oc=5",
-      "pub_date": 1794823356.0,
-      "article_url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
-      "image": "https://spectrum.ieee.org/media-library/humanoid-and-dog-robots-watch-a-massive-swirling-storm-over-a-modern-city-walkway.jpg?id=68562173&width=1200&height=600&coordinates=0%2C224%2C0%2C225",
-      "description": "VicOne\u2019s AI-assisted research reveals what faster zero-day discovery means for robot safety"
-    },
-    {
       "headline": "Israel ranks second globally in physical AI",
       "source": "CTech",
       "source_url": "https://www.calcalistech.com",
@@ -45,66 +75,36 @@
       "description": "One in five Israeli startups is building technology that brings AI into the physical world, putting the country behind only Germany. But an AWS study warns that slow customer adoption is holding back the sector's growth worldwide."
     },
     {
-      "headline": "Watch China's AI\u00b2 Robotics On Business Strategy",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjN1b1BaRjRCQk5lRU8xYmZzZHY1VGVPeWtVcEFrQzh4cWlQZ0pDY3ViVEthWTQ0aXdTUExoSVpHa1h0TVdEZlJ2OHlMNjJpZ0dxWld6dUY5VVByS3pULVJudHlVUlJpcy1MTjBiOWpqNjA1UmhFNzlna25OM3RNMTVBNl9IQ1c5OFFHX1pCbTJKcXVTV0RSV25scw?oc=5",
-      "pub_date": 1794873600.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video",
+      "headline": "Robot Makers Sell the Work Instead of the Machine",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmJERVYwb20yYnRWcTN1d29OSk9XendXRTdaYTBDMWpXWXZPM1NrYkJHMkNzVjBWT20wZTRnRDhKQ1lPbG9SdzBZbWw4VUxhb1ROeXZhOHhSNWJmMjg4aDFXY1hfS0Jxb1VkaVkzSEZRN2xpbTVZZ0NxejBHdTRzY3ZUMG9FTkd3S2tVektoQXBici1oOUNaUjN0N09iSllIQUE?oc=5",
+      "pub_date": 1794938400.0,
+      "article_url": "https://www.pymnts.com/news/artificial-intelligence/2026/robot-makers-sell-work-rather-than-machine/",
+      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Tutor-Intellilgence-robots-AI.jpg",
+      "description": "A warehouse that wants to use a robot usually must buy one. The purchase ties up capital before the machine moves a box, and the cost stays the same"
+    },
+    {
+      "headline": "Genesis AI raises $500M to deploy glove-wearing robots",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHhyRC1XRF9xXzdGcUtGZWtOVDdnT01na21ranFlSE1LcnNCVU9PZWltd21oaVpmblZ2djduZzdDNlJIeG93U2ZaM0xmYWd1TkhPRXplek0zRHdOM3BhclhLdXlkVzJGclZ6UmdqYmJKU1Q5aU5ZOXA1c3ZwSktERGlIQW1BNGR0aXE4Nzh6SkdWcEswUVQzOUtPdi04Njg2VHY4ZmswNA?oc=5",
+      "pub_date": 1794924000.0,
+      "article_url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_1826.jpg?resize=862,1200",
+      "description": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding."
+    },
+    {
+      "headline": "Scout Robotics launches next-gen railroad technology",
+      "source": "Trains Magazine",
+      "source_url": "https://www.trains.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDVtOWVibVJ1ZWVQaWVocjJPemtnRC1EVXRUQWtzclk4NHRMOE04cjVIaWlCWVlTOWpvYzhFSFFQUWphdzE5MUlQMk44RXNnT190cmhfV0YwN3pNMDF1TktVWWRiT3J5QlJKbzdCNVVzRHRhTDNLSHVFc3FPVWZEYjh6SHhpclNONXRDTjUzQUoxQQ?oc=5",
+      "pub_date": 1794903342.0,
+      "article_url": "https://www.trains.com/pro/freight/scout-robotics-launches-next-gen-railroad-technology/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins",
-      "source": "Good News Network",
-      "source_url": "https://www.goodnewsnetwork.org",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWVMMU1tSzVmTktxX1gzYmpaMWVnUmhuS0l1eGpMaDJCZGxJZDJ0QndlQ1lLM0FHTEpvbUU2WkIzZ3ZLS1RLdHBKLUIzMk9kZElMcWVybzFVWHVZNVMySHpJREtDMjlXQ1JBRmNnX3VDWEh6Q3hmaG5EdkNGU0dVUFR3RFJvblhQMVhTUEtDelJrTzZReVJadG5uYnBPeUw2alc2aGQ4MW4tYm9kdG93?oc=5",
-      "pub_date": 1794837603.0,
-      "article_url": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Smart-solar-powered-trash-compacters-credit-Forectec.jpg",
-      "description": "If you've ever visited Japan, you too may have been left confused and frustrated by what appears to be a total absence of public waste bins."
-    },
-    {
-      "headline": "US\u2019 uncrewed warfare capabilities to get boost with robotic vehicle that offers 5,000-lb payload capacity",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOE5ienFsa3prMjQ0eVRVU1RDRFROSzBtbHlTTmotbnBjRDJoSFZJclQ4eVRzbmtWNHdkdlNZSEh4Nlh5S21NX2RkekFfOGpqWUZQdFNqSmk1ZkRjVlREZnBlOXVyb2o4a0g3aW5oNHFUUHFENE9CNFgzcENtYnFma0kwOEhfUQ?oc=5",
-      "pub_date": 1794875700.0,
-      "article_url": "https://interestingengineering.com/military/us-uncrewed-warfare-robotic-vehicle",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/battle-vehicle.jpg",
-      "description": "Rather than serving as conventional operational vehicles, the robotic ground vehicles will initially function as experimentation and integration testbeds, allowing Marines to evaluate different payloads, sensors and mission configurations."
-    },
-    {
-      "headline": "China\u2019s robot makers have more to offer than viral backflip videos",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBNdW5UN3BOQ3FDdjVhdm5EbWFUaUFBWjdQSEhiYml2TWl1Uk01Yy1jdlVqbmF6WEdMejFvWWhEOXByZ09ic0hXLVFLMjdyQkxrQnBWclNPZHhwNFhaLW9EZGttcjEwRHQ2VjdBcGVVWHhXVjZzWVVoZHcxT0FaVS1sN2o?oc=5",
-      "pub_date": 1794891614.0,
-      "article_url": "https://www.ft.com/content/13fb1482-46d8-46a8-9163-f2391204319d?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Agile Robots raises $500M to increase production capacity",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2ZGVXRkWV9RZG9oVVQtbHBtdWppVG56THdnVDFDSF9xWkI3ZzlENzFSYVgxWFVrRFJmOXVvRnBlLUNqUE5PSkttWEJTcTl4VTVCNlBrc0VrektZc01JN3hMNVE5WmlSVmE5ZFRsai02UDQ5SXc0NWhUelBpWUdYcGZWcjhtQXgybVh3NHRIaTB6Zw?oc=5",
-      "pub_date": 1794872105.0,
-      "article_url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilerobots-featured.jpg",
-      "description": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands."
-    },
-    {
-      "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
-      "pub_date": 1794589500.0,
-      "article_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
-      "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-17T08:58:49.152277+00:00"
+  "fetched_at": "2026-11-17T18:24:11.588728+00:00"
 }
