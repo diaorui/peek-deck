@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-17T08:58:55.685367+00:00'
+updated: '2026-11-17T18:24:13.722736+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 17, 2026 at 08:58 UTC  
+**Last Updated:** November 17, 2026 at 18:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,830.82
+### $1,786.76
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -11.5%  
-**30d:** -24.4%  
-**90d:** -21.8%  
-**1y:** -41.8%  
+**24h:** -1.6%  
+**7d:** -12.7%  
+**30d:** -25.5%  
+**90d:** -22.9%  
+**1y:** -42.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.47B
+**Market Cap:** $218.89B
 Rank #2
 
 **Circulating Supply:** 122,227,436 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.2%
+-63.8%
 
 **All-Time Low:** $0.43
-+420220.6%
++413661.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-12h ago
+22h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew quick slots from Hegotá upgrade, Glamsterdam gas repricing findings due November 16
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 4d ago
 
 ---
 
@@ -128,7 +128,7 @@ Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-4d ago
+5d ago
 
 ---
 
@@ -152,11 +152,17 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip](https://finance.yahoo.com/markets/crypto/articles/tom-lee-blames-nvidia-anthropic-203603583.html)**
+**[Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence](https://finance.yahoo.com/markets/crypto/articles/binance-hack-wallets-move-137-171841253.html)**
 
-The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.
+A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[ETH news: Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps](https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts)**
+
+CoinDesk • 5h ago
 
 ---
 
@@ -164,27 +170,55 @@ Yahoo Finance • 12h ago
 
 In April 2023, a group of MEV bots lost over $25 million in seconds during a sophisticated attack on the Ethereum blockchain.
 
-The Block • 12h ago
+The Block • 21h ago
 
 ---
 
-**[ETH news: Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum](https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum)**
+**[Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution](https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution)**
 
-CoinDesk • 1d ago
+A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.
+
+Decrypt • 8h ago
 
 ---
 
-**[Current price of Ethereum for November 16, 2026](https://fortune.com/article/price-of-ethereum-11-16-2026/)**
+**[Judge Acquits ‘MEV Brothers’ in $25 Million Ethereum Case, Finding No Misrepresentation](https://www.yahoo.com/news/us/articles/judge-acquits-mev-brothers-25-104549130.html)**
+
+A federal judge ruled prosecutors never showed that Anton and James Peraire-Bueno lied when they drained Ethereum trading bots in 2023, a year after their trial ended with a deadlocked jury.
+
+Yahoo • 7h ago
+
+---
+
+**[Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip](https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys)**
+
+Ethereum has experienced a “waterfall” drop that Bitmine Chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.
+
+Decrypt • 21h ago
+
+---
+
+**[Current price of Ethereum for November 17, 2026](https://fortune.com/article/price-of-ethereum-11-17-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 5h ago
 
 ---
 
-**[Bitwise: Look Out Ethereum, Avalanche May Eat Your Tokenization Lunch](https://www.benzinga.com/crypto/cryptocurrency/26/11/63308020/bitwise-look-out-ethereum-avalanche-may-eat-your-tokenization-lunch)**
+**[Did Ethereum’s Co-Founder Just Set the Coin on a Collision Course With Bitcoin?](https://www.fool.com/investing/2026/11/17/did-ethereum-s-co-founder-just-set-the-coin-on-a-collision-course-with-bitcoin/)**
 
-Benzinga • 15h ago
+Vitalik Buterin's new take is that Ethereum should be considered as a store of value, and that position pits it against Bitcoin.
+
+The Motley Fool • 7h ago
+
+---
+
+**[Bitcoin, XRP, Dogecoin Slide, Ethereum Steady as ‘Extreme Fear’ Persists: Analyst Says ‘Selling Hasn’t Stopped Yet’ as Whales Offload BTC](https://www.tradingview.com/news/benzinga:f12b5b448094b:0-bitcoin-xrp-dogecoin-slide-ethereum-steady-as-extreme-fear-persists-analyst-says-selling-hasn-t-stopped-yet-as-whales-offload-btc/)**
+
+Leading cryptocurrencies held steady on Monday as investors remained risk-averse after a sharp sell-off.Crypto Market Awaits Relief RallyBitcoin oscillated between $63,800 and $65,500 as traders awaited a rebound that could revive upward momentum. Ethereum failed to break above $1,900, down more th…
+
+TradingView • 16h ago
 
 ---
 
@@ -192,39 +226,7 @@ Benzinga • 15h ago
 
 Ethereum’s Glamsterdam tests expose skipped project payments and forgiven cash-out fees, raising concerns over smart contract reliability.
 
-CryptoSlate • 6h ago
-
----
-
-**[Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support](https://www.tradingview.com/news/stocktwits:1bf49b784094b:0-peter-schiff-warns-of-a-black-monday-for-bitmine-and-ethereum-etfs-if-eth-loses-key-support/)**
-
-BitMine Immersion Technologies (BMNR) and Ethereum (ETH) exchange-traded funds (ETFs) may experience a "Black Monday" if the token breaks a significant support level over the weekend, Peter Schiff said on Saturday.Schiff made the call in a post on X, after an earlier warning on Ethereum. He said th…
-
-TradingView • 1d ago
-
----
-
-**[Vitalik Buterin backs leanPCS for scaling Ethereum’s cryptographic proofs](https://cryptobriefing.com/vitalik-buterin-backs-leanpcs-for-scaling-ethereums-cryptographic-proofs/)**
-
-Vitalik Buterin supports leanPCS for Ethereum's scaling. Ethereum reaching $6,500 by December 31, 2026 at 0.8% YES.
-
-Crypto Briefing • 22h ago
-
----
-
-**[EIP-8037: Vitalik Buterin Defends 5x Gas Hike on New Ethereum State](https://financefeeds.com/vitalik-buterin-defends-ethereum/)**
-
-Buterin backs EIP-8037: new storage-slot gas jumps from 22,100 to 110,020. What it means for airdrops, bridges and Glamsterdam ahead of the Nov 19 call.
-
-FinanceFeeds • 21h ago
-
----
-
-**[Tom Lee Says Ethereum’s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-slide-145345476.html)**
-
-Lee suggested that investors may be selling ETH to raise cash ahead of Anthropic’s planned IPO and amid market developments involving Nvidia.
-
-Yahoo Finance • 18h ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -232,13 +234,53 @@ Yahoo Finance • 18h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Crypto Ripped Us Off... Now Look What Ethereum Did The Last 10 Times It Got Here](https://www.youtube.com/watch?v=zxu3Nbo9OK4)**
+
+Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my affiliate link for 80% off spot trading fees.
+
+📺 Crypto Capital Venture
+
+👁️ 1K • 👍 151 • 💬 23 • ⏱️ 13:24 • 1h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL CONFIRMED (Don&#39;t be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=lz0qkhI_Ot0)**
+
+BITCOIN WARNING SIGNAL CONFIRMED (Don't be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 127 • 💬 55 • ⏱️ 20:17 • 2h ago
+
+---
+
 **[🚀 Ethereum Has A 2027 Plan - ETH Crypto Analysis](https://www.youtube.com/watch?v=EYE58NWz3hU)**
 
 Automatic Copy Trading: https://the-bitcoin-strategy.com/r/czPNWoFJ My Chart Software: ...
 
 📺 Bitcoin Strategy
 
-👁️ 4K • 👍 30 • 💬 4 • ⏱️ 9:28 • 20h ago
+👁️ 5K • 👍 41 • 💬 4 • ⏱️ 9:28 • 1d ago
+
+---
+
+**[LAST CHANCE FOR ETH RECOVERY (Ethereum Price Prediction)](https://www.youtube.com/watch?v=GGmE7tfKeA4)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 381 • 👍 13 • ⏱️ 4:49 • 8h ago
+
+---
+
+**[URGENT 🚨 CRYPTO IS COOKED ‼️ XRP ETH BTC](https://www.youtube.com/watch?v=jbb7g_EcDOA)**
+
+1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
+
+📺 Crypto Moe
+
+👁️ 5K • 👍 173 • 💬 46 • ⏱️ 14:19 • 20h ago
 
 ---
 
@@ -248,47 +290,7 @@ We just got some news that has the cryptocurrency market buzzing. Bitcoin is bac
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 740 • 💬 122 • ⏱️ 31:04 • 22h ago
-
----
-
-**[URGENT 🚨 CRYPTO IS DONE ‼️ XRP ETH BTC](https://www.youtube.com/watch?v=Dkz3pnyQnLs)**
-
-1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
-
-📺 Stock Moe
-
-👁️ 47K • 👍 1K • 💬 241 • ⏱️ 12:45 • 1d ago
-
----
-
-**[Ripple XRP Investors Have Been Urged To Do This Ethereum &amp; Crypto Are About To Change Course](https://www.youtube.com/watch?v=FtocW0bAmtE)**
-
-Well, this is going to come as a surprise to many of you if not every single person. The last 2 weeks have been a bit weird in the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 45K • 👍 3K • 💬 463 • ⏱️ 21:29 • 20h ago
-
----
-
-**[Cathie Wood :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=-E7mPU6BqgA)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 47K • 👍 418 • 💬 37 • ⏱️ 21:54 • 2d ago
-
----
-
-**[ETH Crash: 2022 All Over Again? Remember what comes next..](https://www.youtube.com/watch?v=HvR-NwyiLLQ)**
-
-WEEX - where my trades go ($200 bonus when you sign up and deposit $50 or more, T&Cs apply) https://marzell.org/wx-v115 ...
-
-📺 Marzell Crypto
-
-👁️ 752 • 👍 17 • 💬 1 • ⏱️ 4:21 • 19h ago
+👁️ 12K • 👍 781 • 💬 123 • ⏱️ 31:04 • 1d ago
 
 ---
 
@@ -298,17 +300,27 @@ Ethereum has reached the 78.6% retracement at $1724 on the daily chart, but ther
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 163 • 💬 13 • ⏱️ 7:31 • 12h ago
+👁️ 7K • 👍 186 • 💬 19 • ⏱️ 7:31 • 21h ago
 
 ---
 
-**[Why Ethereum Buy and Hold Stalled #shorts](https://www.youtube.com/watch?v=U2_i1Y-a4J4)**
+**[BMNR Holders: ETH and Bitcoin Just Flashed a MASSIVE Buy Signal!](https://www.youtube.com/watch?v=Y0OmRHnjhs8)**
 
-Ethereum's monthly chart reveals a shift: huge rallies followed by long stretches without comparable momentum. That pattern ...
+BMNR HOLDERS - Tom Lees Thoughts on NVIDIA stock, NVDA news, Jensen Huang, Banks outage good for ETH and BTC?
 
-📺 Crypto Y'all
+📺 Big Time Trades
 
-👁️ 942 • 👍 9 • ⏱️ 2:01 • 2d ago
+👁️ 3K • 👍 71 • 💬 29 • ⏱️ 22:45 • 18h ago
+
+---
+
+**[Cathie Wood :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=-E7mPU6BqgA)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 57K • 👍 468 • 💬 38 • ⏱️ 21:54 • 2d ago
 
 ---
 
@@ -318,17 +330,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 10K • 👍 126 • 💬 51 • ⏱️ 11:46 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=qCXXDi_KNXM)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 972 • 👍 72 • ⏱️ 5:37 • 5h ago
+👁️ 11K • 👍 134 • 💬 51 • ⏱️ 11:46 • 2d ago
 
 ---
 
