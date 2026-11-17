@@ -9,102 +9,102 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5",
-      "pub_date": 1794846900.0,
+      "pub_date": 1794863243.0,
       "article_url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
+      "headline": "AI could help speed up research ethics approvals",
+      "source": "Phys.org",
+      "source_url": "https://phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzbzVvaFVpOTBidThrcFhJb1hUdlBEMW15U3ZfalZSdVl2ekVfNGkzcUh6Tk9sR0IwdDFweVJJbDROMnp0UWRsS3NHOUpOWWlVZFN5QTJZTQ?oc=5",
+      "pub_date": 1794876004.0,
+      "article_url": "https://phys.org/news/2026-11-ai-ethics.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Warsh Says Fed Is Gaming Out How AI Could Reshape Economy",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjdTNjl1UUgxQjFiMEFHRXl6UHlheGRXQ1NkTXJRbnlSaWxIdElaeGh4cjUtYzVEdXM2NlZUdEoyTjhWcXFiMGxtUFIydjhHcF80bmhqb1lpY01ReEF3bTdUV1hNSi1QTVJiUnRYeWl0NHRhMWVWdW9vWFk0aFA3Z082b2htY29zM0ZKMHVKd2JmNnM5U1NBS1owVXlKcy1wZzREazFJSjJzQVIzQlZJ?oc=5",
+      "pub_date": 1794852540.0,
+      "article_url": "https://www.wsj.com/economy/central-banking/warsh-says-fed-is-gaming-out-how-ai-could-reshape-economy-ab296fc9",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ldVNDZVFSVmJ6dW1CSnZPQlJwZlhwVWNUTmhCMG9zNDFtTXFrcDBMOFA2ZkhOT0MySTFzbWdqYzhkajhNdHRPWlBTQ2J2MWRBekpUa0tSX0d6bHpnM3QzVG9oVzgxT0lMX1Vxc240cWcwbkhOd2fSAXtBVV95cUxQYzFJYk80R1pCSk5OZ0tnc2lEb2VSenNhcTN0OTNrRGs4LU5wcUdCNS1PVjZkQXc2UzhjXzltM09BdXF4T2Y4VDFZcUZUSW4zNjFORW1JMWNEYVRFM25LZC1yQVhpYmllQkVJWEVTdGpJMTY0cjFpZGhnR3M?oc=5",
-      "pub_date": 1794823201.0,
-      "article_url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108212478-17605442322025-06-03t191307z_31999241_rc26vea8kaq9_rtrmadp_0_usa-congress-tax.jpeg?v=1794797171&w=1920&h=1080",
-      "description": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company."
-    },
-    {
-      "headline": "\"One wants to be friendly with China, and one wants to have a blow up with China.\"",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjFXd25aLUk4Vm5MYzJDbW4xbUFZX0tOZU1zY3NXaFlBR0hjcVVud002RDVWSFBFNXcweWxzQ0M2YTFUcm5ZZ3NOVE0ydHp6d2NjWWt6M19QMGtRbHV1cjF3NkVfaGVESXkxenpHT2s2dkVMd05VMDZVbUJnRVRfWXdMUGxnUkwwS3c?oc=5",
-      "pub_date": 1794847387.0,
-      "article_url": "https://www.axios.com/2026/11/16/trump-admin-moves-to-close-china-ai-chip-loophole",
-      "image": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1seHNLTEVjRmlFTzQyYmpBZVNCaXd3a1dnTEkyNFV3VkZmSGk5WHQyUEhjSHZLTXRJYnVxZkF5ZkRvclZsbXAybGRtUTFIMmpUNDNwN2stUzdoVmNEVEJaY0F2YXVwMUtXbFlKc0xkX21SZ3JO0gF6QVVfeXFMT0MyNFFrVnJmcGxqcUluVV9LTUgyeVo2MDVlNUpNQW03cXd0U1l0a0FxSmhKUFRCNTJIM3B5WklRbDEzZFplRGlDOGYxempYY1h6czlobFdWaXE5ZHY2YVdSdmxadHozNC13VFFCOWJBZ0p2dVFyemlqRHc?oc=5",
+      "pub_date": 1794848404.0,
+      "article_url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108552259-1794854720467-gettyimages-2304953963-FEDERAL_RESERVE_CONFERENCE.jpeg?v=1794854743&w=1920&h=1080",
       "description": null
     },
     {
-      "headline": "\u2018Standing on one leg\u2019: IMF chief warns about global economy as AI circular financing hits $1 trillion",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2Y4OFJIb3ZGWnNHQmZicjBxSlV3cmRoVmppVm01OXJFM2FrUFltdjR5bkVpRjkyRVdQUE5WcXRQdFViSnh2VWFLbm83YlM4ck1NRWFIc2R2bE9WZjQ4bzBGVll0MG8ySXdwSnRLTE4ta21yVWYwTGJOYmdfNFhtVU5fRnNWbWvSAYwBQVVfeXFMTVJ3aHB1VkxySHItTS1FeWJjbWE1VmlQWElKb0xjRDJBbzFnX0UtTk1PV1JKVklpdVpsU2Q0SHd6XzJwYTVMVWw5bExaMk41V2JFcjZQeVowdWh3Q254QjRwb2lacmxMeGRLc04wcnpYenlmODJhTGt5Z3c3OUpUcW5fOGRQRjY1VnNILWE?oc=5",
-      "pub_date": 1794820214.0,
-      "article_url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108533958-1793988889190-gettyimages-2303346838-UEDA_IMF.jpeg?v=1793988928&w=1920&h=1080",
-      "description": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools"
+      "headline": "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUxPWEx6bTgybDRia0V5WE9naVZBNmtCUTRkUlhkbUdZRGEzSzF5bDVKeE1xNlBmRHRzMlRQTmlfN2c4dGt6Wk5OOElaUUVfNklRSFA3OGVRWnBKMmYyQUNXMk9HNTEyWTNGMS00WnlrNHpZZ2pSYWJ3QTFxN1VjOFBfVzBSdGFpZFJFV1RUcUFsWFVZWTY1WnA1cE5NdzQyMTdweVJ0X2JVYnBjdG9jWVY5N25UVXU3X01wNGt3?oc=5",
+      "pub_date": 1794873148.0,
+      "article_url": "https://www.pymnts.com/news/artificial-intelligence/2026/fed-builds-plans-for-best-and-worst-ai-driven-economic-outcomes/",
+      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Federal-Reserve.jpeg",
+      "description": "Federal Reserve staff are using model-based frameworks to generate scenarios of outcomes that could result from the progress of artificial intelligence"
     },
     {
-      "headline": "New litmus test for 2028 Dems: Refuse AI campaign cash and pass regulations in year one.",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tTml4amY4MVZVR3Y3TUFzOG1Yd25zbTRrM3RneC1LeHhVSXRGSnZoSThFY3NraXpJdDdSaDhSZkZqeEI3cEhyX29FUDFyZmdvcnFvUjI1d0MzcVpNWjd5XzhDYnVZMHVjdWdhbmJoS094U3B1?oc=5",
-      "pub_date": 1794847315.0,
-      "article_url": "https://www.axios.com/2026/11/16/2028-democrats-ai-regulation-poll",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI will embed Apollo researchers to investigate AI subversion",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGwxMmpFWW1rLXdmMmZSeG9faHNxQjQzNmVZN1k0ZXVMY0wxQXhtRWNrNjFhOW9kRlp4M0RvVy0tczdJQ0k1TFZXa2xRTTNfSlJVMlViRXVQajZTRDhyMldKQ3hTVmIwT0FuVlBMcnJBeDlVNGxla2Z5TWR3MlBNTVh3N201c3N1bnQ4a3l6NV82cTg3ZzNYTjlVMmVHcVl4TUE?oc=5",
-      "pub_date": 1794848563.0,
-      "article_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
-    },
-    {
-      "headline": "AI-assisted imaging method advances 150-year-old technique for studying tissue",
-      "source": "Medical Xpress",
-      "source_url": "https://medicalxpress.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXBxdkJhY3M3dldNY19RNEQ1blQxR1I5X0NLbnoxMUhNaFczZTcxWF9DM3hHUnRjc1lOaVd6NTBfRFBfUnY5TVJ4UHN4blRRaXQzTEZ4bFJYRjRnZUpxZjl5YWhBZENnNS1qRXRRbHlLWkQzazk3Ym0zdk1DbnVVQQ?oc=5",
-      "pub_date": 1794848430.0,
-      "article_url": "https://medicalxpress.com/news/2026-11-ai-imaging-method-advances-year.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI bubble will likely burst and cause a recession by 2028 election, Wall Street\u2019s former top cop says",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ISTFFbzctbFN5S3RraVZnbzBORlh6VHFWYS1rOTQxU2tiVDhkNDlGVS15R1UzMnVXUXQ1T1FKeWNYNmktNXozd3RnUXNGUjdNcDdqUUFxaTR0QU1PMGVCVHZkZWYyYlIwWjZUeXNUekNwVEE0cV9wcjVqWTE?oc=5",
-      "pub_date": 1794823215.0,
-      "article_url": "https://www.cnn.com/2026/11/16/economy/ai-bubble-anthropic-ipo-recession",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2303375833.jpg?c=16x9&q=w_800,c_fill",
-      "description": "The artificial intelligence boom is a bubble that will likely burst and cause a recession prior to the 2028 presidential election, Gary Gensler, the former top cop on Wall Street, told CNN."
-    },
-    {
-      "headline": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop",
+      "headline": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
       "source": "AP News",
       "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUENIeGFqX0FwQk9Vcm5VekZSY0xES05yc3k2bHFqY1JDZ0Y2cG0wWTl0QXNqZ1lJR3N0VUZYM0hGR3R5NVR4dGlXZ0JzMGFESDdVZi1hR3dBREM2SmsxODAwQmItd2xtS2RFdkVvZjQ1LUNWOV9OZkdTSVJfQ3piTkVZYlVMdw?oc=5",
-      "pub_date": 1794827940.0,
-      "article_url": "https://apnews.com/article/faa-smart-ai-outage-08af345749c81fd8364299cd75275fa6",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
+      "pub_date": 1794871080.0,
+      "article_url": "https://apnews.com/article/flights-grounded-microsoft-ai-chaos-ea5f7a1f95a38f65dd57e58cfc17672b",
       "image": null,
       "description": null
     },
     {
-      "headline": "BlackRock Shifts AI Bets, Adds Equity Risk in New Model Shakeup",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGZ4V3B6NFVBWmRlYXl1Q0pUc2IySFdrb1hIcUxGcnNvZHVndW0tZEJUQXVKNEdvWTJwaUctNThfUFBxbzNjUEptRHVZeGVLWHVMTDc1TUNua1BwWjJTaWYwbW5rN1hOU09LY1FsRmhrb3ROdUJQSnZMelh2ZUcyel9ZZ1pCazlxaW9sbWdjVjZLcmRwUUdKZHNrbjVKRDRHem9rU0hCV1B1b0hvaVRfWFllUQ?oc=5",
-      "pub_date": 1794837359.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-16/blackrock-shifts-ai-bets-adds-equity-risk-in-new-model-shakeup",
+      "headline": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjVjenZkdk1vNVNjSTR1UklRSHZCMGllZVR5N2lfRXo2MXg0MzBnQjBxekctUk5RZWJQaGRxYTRyekJvSzAzM0piT0I2dVhlcmVUalpyV2FxQVQtMVNLdGZpWjFBUUY4bGVBbldicWVnZ0MtWnNoQmhMYmVYWllHY3pHcUc4Zw?oc=5",
+      "pub_date": 1794852290.0,
+      "article_url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
+      "description": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing."
+    },
+    {
+      "headline": "Broadening access to AI for scientists",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
+      "pub_date": 1794849316.0,
+      "article_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/793p1h1iUmksoWkDep5NRR/580e87d687cea7ef8e8288bef51c7bd4/academic-researchers-seo-card.png?w=1600&h=900&fit=fill",
+      "description": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+    },
+    {
+      "headline": "California sues OpenAI, alleges it endangered the public by building AI without safeguards",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2RqVDFjU0Vpb19pQVM4c0ZmZ192dllKQlY3VXk5dnkyc3AyWFNWbjJFdUNsSlhKbm1fRG9acUpmdTBXTDcyMDJROHlldVRDektkdWZvd3VPOFN1S0VyMTVabzNPcl9JWHRxTE9NWVJodUh2WlNncnk0ckctZWxaV1FyWG9adXlvTUdwZ0pWM0pNMjdxRTZjWkx0T1lkcWZlXy0wLQ?oc=5",
+      "pub_date": 1794854569.0,
+      "article_url": null,
       "image": null,
       "description": null
+    },
+    {
+      "headline": "California sues OpenAI over Hugging Face, other AI model loss of control",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3M3plemQ2SHBfdWZaTERYakxMNURwT3d0YjVJWFU3TVl1NTQyQjhZbEpDRFJvNGc2ZFNtVjBmbk1nR0p5a2d2UHhJelJPSXg5ZlpKY1dKODUtUWF2UkNZNlhRTUxub0dWek8zRk5WenBDcW9EaDZWeHFHUdIBgAFBVV95cUxOMlcxTkRKLXpNZTlBMW01ZHFVWmoxX1c1TWY4Wk15VmhkRTlzTkVnMlI2R1NUSzNwb0xnZUtHNGVTRlRWWFRoNndaekJMbjNhTmtVeldYMEJuLXVBUTdib3JOUHhmOGJ5MDlHbllhU0F6MUdQMGxmdzR6RE1SX19OMA?oc=5",
+      "pub_date": 1794854931.0,
+      "article_url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369602-17907017172026-09-29t170751z_2048932804_rc25tna9ogf6_rtrmadp_0_ai-openai.jpeg?v=1790701743&w=1920&h=1080",
+      "description": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-16T17:18:14.603924+00:00"
+  "fetched_at": "2026-11-17T00:58:19.942917+00:00"
 }

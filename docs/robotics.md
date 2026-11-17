@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-16T17:18:17.466254+00:00'
+updated: '2026-11-17T00:58:27.452377+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 16, 2026 at 17:18 UTC  
+**Last Updated:** November 17, 2026 at 00:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -110,41 +110,29 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)**
+**[AI Finds 28 Zero-Day Flaws In Physical Robotics Software](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security)**
 
-OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
+VicOne’s AI-assisted research reveals what faster zero-day discovery means for robot safety
 
-Fortune • 3d ago
-
----
-
-**[Can Robots Bring Stroke Surgery to Remote Hospitals?](https://spectrum.ieee.org/telesurgery-stroke)**
-
-Remedy Robotics is testing whether surgeons can operate from afar
-
-IEEE Spectrum • 3h ago
+IEEE Spectrum • 14h ago
 
 ---
 
-**[A robotics- and machine learning-integrated workflow for discovering all-natural plastic substitutes](https://www.nature.com/articles/s41596-026-01449-4)**
+**[Robo-soldier startup backed by Eric Trump misses payroll, may collapse](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEF0S2EzRXozeVdvVHdyTkVCRDF2Z0ZhenNTb09xM3BKU0VVYWFvNXRpa3lEbTlxbTNqTFU2amtzdm9oSzZBRExBNFQxZEVPM0hNNHRrdXFsRGl6cnlkSktyZllqaUtxdkl2LVVQaUtXcWpyUEhKMHZuX2dfVTY0V256Wm80dTU0RkFTQkVIdWxBVGxJWHJHemdrYnRWa2M3bHhxVG9ORC0?oc=5)**
 
-Nature • 3h ago
-
----
-
-**[US: Robots play piano and mimic movements of human eyes with artificial muscles](https://interestingengineering.com/ai-robotics/us-robots-play-piano-mimic-human-eye)**
-
-Penn Engineering researchers develop artificial muscles that give soft robots precise movement and fine motor control.
-
-Interesting Engineering • 7h ago
+Ars Technica • 2h ago
 
 ---
 
-**[Helping robots fit into the human workplace](https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113)**
+**[Israel ranks second globally in physical AI](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOUFsNVlVRXh5cHU3NGhySkhkOTlGM3RJRm1KUDBVSmFJVmVQRVdaOGhTbXZBS3ZtVkVmY2pfRjk4eWJMdHNDS2ZXQlYzeXNOeFNFcTl5TU1VbTRhQkFBZ2dIRE5ja1U?oc=5)**
 
-Robust AI’s robots collaborate with humans in logistics warehouses and on factory floors. The startup was founded by MIT alumnus Anthony Jules and Professor Emeritus Rodney Brooks.
+CTech • 12h ago
 
-MIT News • 3d ago
+---
+
+**[Humanoid Robots: This Company Sells The Body, You Supply A Brain](https://www.forbes.com/sites/johnkoetsier/2026/11/16/humanoid-robots-this-company-sells-the-body-you-supply-a-brain/)**
+
+Forbes • 2h ago
 
 ---
 
@@ -152,37 +140,39 @@ MIT News • 3d ago
 
 If you've ever visited Japan, you too may have been left confused and frustrated by what appears to be a total absence of public waste bins.
 
-Good News Network • 3h ago
+Good News Network • 10h ago
 
 ---
 
-**[Food robotics 2.0: why this time could be different](https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/)**
+**[Agile Robots raises $500M to increase production capacity](https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/)**
 
-Food robotics is entering a new era as companies shift from consumer-facing robot restaurants to B2B automation that help food manufacturers, restaurants, and grocery retailers improve productivity, reduce labor costs, and scale operations.
+Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands.
 
-The Robot Report • 2d ago
+The Robot Report • 1h ago
+
+---
+
+**[US: Robots play piano and mimic movements of human eyes with artificial muscles](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXpyYjYxT0V6VVJzNG9oektsZEVOTVBHOTE0b1dZUktqNDluYWFkZWxZV3J2QVROWjRRdHNYVmNJS2xraHhrNS1YM2dMN1VMeHZ6X1VmRUVYRW0zM0xZeEwyRnFLNkhBc2ZmWFFUeWRYd25CaERVQUlubjh1bHhOWWQyR0ctZkVtZmR3?oc=5)**
+
+Interesting Engineering • 14h ago
+
+---
+
+**[Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5)**
+
+Fortune • 3d ago
 
 ---
 
 **[153-Year-Old Builder Taisei Sets Up Fund to Invest in AI and Robotics](https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Israel ranks second globally in physical AI](https://www.calcalistech.com/ctechnews/article/7cg3rfv6z)**
+**[FF EAI Robotics Ecosystem Inc. (FFR) CEO YT Jia Shares Weekly Updates on Robots Delivery to Central Michigan University, Brain Blocks AI Module, and Industrial Scenario Validation](https://www.morningstar.com/news/pr-newswire/20261115cn98191/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery-to-central-michigan-university-brain-blocks-ai-module-and-industrial-scenario-validation)**
 
-One in five Israeli startups is building technology that brings AI into the physical world, putting the country behind only Germany. But an AWS study warns that slow customer adoption is holding back the sector's growth worldwide.
-
-CTech • 5h ago
-
----
-
-**[FF EAI Robotics Ecosystem Inc. (FFR) CEO YT Jia Shares Weekly Updates on Robots Delivery to Central Michigan University, Brain Blocks AI Module, and Industrial Scenario Validation](https://www.wyomingnews.com/online_features/press_releases/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery/article_1487ef29-ebb0-5340-a692-98ad1909f4c8.html)**
-
-FFR has delivered two Aegis Ultra robots to Central Michigan University, the first customer for FFR in Michigan. This marks the first sale and delivery to a university lab in
-
-WyomingNews.com • 14h ago
+Morningstar • 21h ago
 
 ---
 
@@ -190,99 +180,101 @@ WyomingNews.com • 14h ago
 
 ## YouTube Videos: "robotics"
 
-**[the SECRET behind how robots move](https://www.youtube.com/watch?v=l1g9t9-RFL4)**
+**[Why America Funded a $66 Billion Chinese Robot Company](https://www.youtube.com/watch?v=DEIEYZqRAxo)**
 
-servo #arduino #electronics #education #robot.
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots How did the US military help China build a $66 ...
 
-📺 Ethan Fang
+📺 PRO ROBOTS
 
-👁️ 29K • 👍 977 • 💬 22 • ⏱️ 0:54 • 2d ago
-
----
-
-**[Elon Is Building a Factory for 10 Million Robots a Year](https://www.youtube.com/watch?v=wRihsGZntFA)**
-
-Tesla is building a dedicated factory for its humanoid robot, Optimus, at Giga Texas. At Tesla's 2025 shareholder meeting Elon ...
-
-📺 Megascale
-
-👁️ 100K • 👍 2K • 💬 228 • ⏱️ 0:54 • 6d ago
+👁️ 6K • 👍 104 • 💬 18 • ⏱️ 22:59 • 5d ago
 
 ---
 
-**[Kawasaki Built a Robot You Can Ride Like a Horse!#Kawasaki #CORLEO #FutureTech #Robotics #FYP](https://www.youtube.com/watch?v=TQCRgKQWJ-s)**
+**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
 
-📺 yukiii
+A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
 
-👁️ 187K • 👍 3K • 💬 216 • ⏱️ 0:29 • 5d ago
+📺 NBC News
 
----
-
-**[🚨 Scientists Just Created a Real-Life Terminator Robot? #robotics #robot #airevolution](https://www.youtube.com/watch?v=GW4AJ9TcqnE)**
-
-South Korean researchers have developed a shape-shifting liquid robot that can switch between solid and liquid forms using ...
-
-📺 AI Robotics Madness
-
-👁️ 47K • 👍 943 • 💬 39 • ⏱️ 0:28 • 4d ago
+👁️ 33K • 👍 98 • 💬 42 • ⏱️ 1:56 • 6d ago
 
 ---
 
-**[MRBEAST&#39;S NEO ROBOT MIGHT REPLACE HOUSEHOLD HELP #mrbeast #shorts #foryou #fyp #robot](https://www.youtube.com/watch?v=FDdwKqG40wc)**
+**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
 
-What if a robot could handle all your household chores? MrBeast's new NEO robot hints at a future where humanoid robots could ...
+China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
 
-📺 Founders Club (Unofficial)
+📺 The AI Nexus
 
-👁️ 30K • 👍 598 • 💬 3 • ⏱️ 0:29 • 1d ago
-
----
-
-**[1500 Mile Door Baithkar Doctor Ne Kiya Operation! #robot #operation #innovation #medicalrobotics](https://www.youtube.com/watch?v=PDZGVnqEdqc)**
-
-1500 Mile Door Baithkar Doctor Ne Kiya Operation! #robot #operation #innovation #medicalrobotics #viral #shortsfeed ...
-
-📺 Taraj
-
-👁️ 243K • 👍 5K • 💬 26 • ⏱️ 0:52 • 1d ago
+👁️ 44K • 👍 496 • 💬 64 • ⏱️ 15:41 • 6d ago
 
 ---
 
-**[R1 Robot Dog Is My Kind of Surprise Gift🎁#robot #robotics #R1RobotDog #unboxing #ruko #shorts](https://www.youtube.com/watch?v=oS3DU1bPHmo)**
+**[Emo Robot from AliExpress: SCAM or REAL?](https://www.youtube.com/watch?v=s4VJZYpoO6I)**
 
-📺 Ruko Toy
+I bought a fake EMO robot from AliExpress for just $61.78! But is this cheap AI robot actually worth buying, or did I just get ...
 
-👁️ 50K • 👍 241 • 💬 2 • ⏱️ 0:25 • 5d ago
+📺 Eric’s Tech World
 
----
-
-**[Robot Training: Target Practice 🎯🤖](https://www.youtube.com/watch?v=A4-orxxtMkI)**
-
-Training day 2. Ten target drones. Five robot creatures. Archerfish: real ones spit water to knock insects off leaves. Spitting cobra: ...
-
-📺 Mecha Creatures
-
-👁️ 458K • 👍 3K • 💬 6 • ⏱️ 0:18 • 5d ago
+👁️ 9K • 👍 153 • 💬 33 • ⏱️ 17:02 • 2d ago
 
 ---
 
-**[Anthropic just dropped Claude Fable 5.2 and its robotics results are getting serious](https://www.youtube.com/watch?v=uPOvpt1-DLU)**
+**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
 
-Anthropic just dropped Claude Fable 5.2 and its robotics results are getting serious. The new AI model can control physical robots ...
+Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
 
-📺 techniahqrobot
+📺 CNET
 
-👁️ 32K • 👍 355 • 💬 23 • ⏱️ 2:14 • 6d ago
+👁️ 34K • 👍 332 • 💬 34 • ⏱️ 4:02 • 1d ago
 
 ---
 
-**[Stringman: A Cable-Driven Robot That Picks Up Clutter](https://www.youtube.com/watch?v=X5TJaswUIBw)**
+**[Humanoid robots are getting more lifelike](https://www.youtube.com/watch?v=qIhP7wBIolM)**
 
-How can a robot move objects around a room without wheels or legs? Stringman, developed by Neufangled Robotics, uses four ...
+CNBC's Arjun Kharpal checks out the latest humanoid robots at Web Summit in Lisbon, including a lifelike model from Chinese ...
 
-📺 Mecharithm - Robotics and Mechatronics
+📺 CNBC Television
 
-👁️ 2K • 👍 50 • 💬 1 • ⏱️ 0:51 • 3d ago
+👁️ 5K • 👍 33 • 💬 7 • ⏱️ 1:26 • 6d ago
+
+---
+
+**[Ring Drone Cam &amp; Rover Cam - HANDS-ON!](https://www.youtube.com/watch?v=1NARFzFzZdo)**
+
+(AD) Ring just unveiled Ring Robotics Drone Cam & Rover Cam - for your home and business! • Ring Drone Cam: ...
+
+📺 The Tech Chap
+
+👁️ 95K • 👍 1K • 💬 204 • ⏱️ 5:28 • 6d ago
+
+---
+
+**[This real-life Terminator robot is terrifyingly capable#HumanoidRobot #Terminator #Robotics](https://www.youtube.com/watch?v=tbT4Qf-Z82A)**
+
+📺 KnowNibble
+
+👁️ 4K • 👍 68 • 💬 7 • ⏱️ 0:32 • 22h ago
+
+---
+
+**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
+
+Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
+
+📺 Nexio Core
+
+👁️ 60K • 💬 18 • ⏱️ 0:06 • 6d ago
+
+---
+
+**[THEY BUILT ROBOTS FOR WAR… BUT WHAT HAPPENS WHEN THEY STOP OBEYING HUMANS? 💀](https://www.youtube.com/watch?v=lTLV7N3ydnM)**
+
+THEY BUILT ROBOTS FOR WAR… BUT WHAT HAPPENS WHEN THEY STOP OBEYING HUMANS? Imagine a battlefield ...
+
+📺 ejunky66
+
+👁️ 90K • 👍 1K • 💬 78 • ⏱️ 0:59 • 6d ago
 
 ---
 
