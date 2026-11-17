@@ -5,6 +5,36 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Nvidia\u2019s Days as an Open Checkbook for the AI Economy Are Numbered",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg?oc=5",
+      "pub_date": 1794905103.0,
+      "article_url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ldVNDZVFSVmJ6dW1CSnZPQlJwZlhwVWNUTmhCMG9zNDFtTXFrcDBMOFA2ZkhOT0MySTFzbWdqYzhkajhNdHRPWlBTQ2J2MWRBekpUa0tSX0d6bHpnM3QzVG9oVzgxT0lMX1Vxc240cWcwbkhOd2fSAXtBVV95cUxQYzFJYk80R1pCSk5OZ0tnc2lEb2VSenNhcTN0OTNrRGs4LU5wcUdCNS1PVjZkQXc2UzhjXzltM09BdXF4T2Y4VDFZcUZUSW4zNjFORW1JMWNEYVRFM25LZC1yQVhpYmllQkVJWEVTdGpJMTY0cjFpZGhnR3M?oc=5",
+      "pub_date": 1794823201.0,
+      "article_url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108212478-17605442322025-06-03t191307z_31999241_rc26vea8kaq9_rtrmadp_0_usa-congress-tax.jpeg?v=1794797171&w=1920&h=1080",
+      "description": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company."
+    },
+    {
+      "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNjZSeXBveGFTaEJEM1lROVBGeWI3TEpuWWcyblp2RGZxeXAtVVZhdWRyUlZISHNFNTgtUEZNUWt0TWVIY3B1T3pZR0hjQmNDUXV0NFdlUHUzMEU?oc=5",
+      "pub_date": 1794883073.0,
+      "article_url": "https://www.bbc.com/news/articles/cry49plv8v3go",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+    },
+    {
       "headline": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -15,96 +45,66 @@
       "description": null
     },
     {
-      "headline": "AI could help speed up research ethics approvals",
-      "source": "Phys.org",
-      "source_url": "https://phys.org",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzbzVvaFVpOTBidThrcFhJb1hUdlBEMW15U3ZfalZSdVl2ekVfNGkzcUh6Tk9sR0IwdDFweVJJbDROMnp0UWRsS3NHOUpOWWlVZFN5QTJZTQ?oc=5",
-      "pub_date": 1794876004.0,
-      "article_url": "https://phys.org/news/2026-11-ai-ethics.html",
+      "headline": "US to curb China's access to AI chips as Trump heads to Asia",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
+      "pub_date": 1794836760.0,
+      "article_url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Warsh Says Fed Is Gaming Out How AI Could Reshape Economy",
+      "headline": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvLUltN01zNnhQWHVEUWlEbWJoUXcyVjFlRUF0SU90cXZwU2FoT1J2NnNZTGthUjZOX1ozbHBaUnB3QVc2bl9LNHFEMDRiUXZJVEktNjRBUG81M0dpSzRKbFl5cjdNaXhGeHVIVDNDV2dITFVhZlBpME1n0gF_QVVfeXFMT3ZEaUU4Z1VBUm44S2Y3MmwyRlpsUjYyejJRTFlyMnU5aklRa3pGQW41MkRHb3RqTzh5a0l0dE9MbzdSeFpTRWlBajFvRllpa0VnX3RXUDJIR0tjUE1NOGsyazJRbEc1RGcyZmt5cGdwUUxjZXFYb252N2dUU1VWRQ?oc=5",
+      "pub_date": 1794899255.0,
+      "article_url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551696-1794795719884-gettyimages-2304259055-nokings-sf1017.jpeg?v=1794840889&w=1920&h=1080",
+      "description": "The U.S. Commerce Department is making moves to tighten export controls."
+    },
+    {
+      "headline": "AI models abandon climate facts to please users, UNESCO report finds",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkhuNDdiRks0ZjhPMXJGZWlYUlljSDBBVmN2QWxfNkl2M0owZE5iNlJRcFB1US1yWEVPMnRFbzRTT3BWVFZXOXBtUlRFM1V0dXRsU1c3Mk1aSEF2ZDV6N1pENmVZWUk3dEJQMHh2Vmtmc1BKd0tmVGJPNHBwZGEtZHlscDVVeTcwSnhtUWVPUlh6elI5b3VKZDNmQTJPNC0zOFV4OXdhWHBjbGF6NkNRT3NBNVVHLVhIdWJn0gHAAUFVX3lxTFBqR0h1UkZyNVFaZENCTVJjNTVtY05wd1Qyd2FXd0tiemh4MV9qc1lGOWJqVWdBTkNoZl80NUpMblRLNXVfM0FfVE45Xzh5Y0NhcGR6RTA3NVEtOVNNZF9sVEl6N1FLb29JRlRCSUNsZ29vbG5qNm8teUR5SnVPWEEzanZtTk1zTE1oSm13cEM1OEIwOVNCeXRadXctejdrRVF3UHR3ZzhyUFkxOVlSWGU1dG1kMFRzNmNkVWRNd0RQMA?oc=5",
+      "pub_date": 1794903049.0,
+      "article_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-08.02.11-1794902665.png?resize=1200%2C675",
+      "description": "AI models abandon climate facts to agree with users in eight out of 10 tests."
+    },
+    {
+      "headline": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXZPRTU5LTJocnZPTmhDNld2WHZiZ0lMdWRWRDhhTU9wcllTaTdnekJKUGlUUkFOdjBlQmFxRldKVTktYjZES0dNUVgzT082YjVycWVPbVFTODRORXpNTkZFRk5LXzBudDVmbzZscW4yUmVkczRuOWdORllwRXhGSE1UVm9veEFuVmlrVFBrVFY5NG9tRDRDLWxXUVRwWFhfYUwwSlRYdUg1YmtBYXI2b0xwc25QMnJDRXc?oc=5",
+      "pub_date": 1794904140.0,
+      "article_url": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
+      "image": "https://i.guim.co.uk/img/media/ad8030abd56aff89b15a66a8d8337a3319ddada7/46_0_3455_2765/master/3455.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=69939381eab1aab821ac8bb874655949",
+      "description": "A meaningful treaty on AI weapons must prioritise human control \u2013 and accountability, says Helen Clark, former head of the UN Development Programme and former prime minister of New Zealand"
+    },
+    {
+      "headline": "If the AI bubble is popping, history shows these stocks could boom",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXNvazJoNU9pTHZXNkp0YXRRc2pqbjFRRXNRYV9UX19wWWlndzlOUEJBakduandDVG9uN3lHMUhtQWVmdmlUQ25xLUR0cVk5Nm1SYkQ2anY0ODNMVzRGLWlDR1BnZ1ozUVQ1RncweEliMDBtNWVBT0x3ZWZPMWl6Sl9adzNxR011TEd3TGlsYVZQTDlBTlBKSFpGcUJ6UjFpOThjag?oc=5",
+      "pub_date": 1794852240.0,
+      "article_url": "https://www.cnbc.com/2026/11/16/if-the-ai-bubble-is-popping-history-shows-these-stocks-could-boom.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108530214-1793936515931-gettyimages-2282619452-miniseries20260315__n8a9107.jpeg?v=1793936910&w=1920&h=1080",
+      "description": "Consumer staples could have more room to rally as tech weakens, BTIG says, pointing to the sector\u2019s surge after the dot-com peak."
+    },
+    {
+      "headline": "AI Stocks Resume Their Slide",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjdTNjl1UUgxQjFiMEFHRXl6UHlheGRXQ1NkTXJRbnlSaWxIdElaeGh4cjUtYzVEdXM2NlZUdEoyTjhWcXFiMGxtUFIydjhHcF80bmhqb1lpY01ReEF3bTdUV1hNSi1QTVJiUnRYeWl0NHRhMWVWdW9vWFk0aFA3Z082b2htY29zM0ZKMHVKd2JmNnM5U1NBS1owVXlKcy1wZzREazFJSjJzQVIzQlZJ?oc=5",
-      "pub_date": 1794852540.0,
-      "article_url": "https://www.wsj.com/economy/central-banking/warsh-says-fed-is-gaming-out-how-ai-could-reshape-economy-ab296fc9",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jMVRGNmM2LXVUalRrSEREd3VLUDl4alRBLTZDaEhhWjdCbXZJQlNxZnBhQWdvS2lrLVRESjg3LUZLRkpEQ0wtUFZVLWcwNllRX190Vm5PcHlEcndfODBubE9HZDVHVkMyYWFiMlo0YkpkVWpCdXhLaGhHZG8?oc=5",
+      "pub_date": 1794865080.0,
+      "article_url": "https://www.wsj.com/finance/stocks/ai-stocks-resume-their-slide-1094403c",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1seHNLTEVjRmlFTzQyYmpBZVNCaXd3a1dnTEkyNFV3VkZmSGk5WHQyUEhjSHZLTXRJYnVxZkF5ZkRvclZsbXAybGRtUTFIMmpUNDNwN2stUzdoVmNEVEJaY0F2YXVwMUtXbFlKc0xkX21SZ3JO0gF6QVVfeXFMT0MyNFFrVnJmcGxqcUluVV9LTUgyeVo2MDVlNUpNQW03cXd0U1l0a0FxSmhKUFRCNTJIM3B5WklRbDEzZFplRGlDOGYxempYY1h6czlobFdWaXE5ZHY2YVdSdmxadHozNC13VFFCOWJBZ0p2dVFyemlqRHc?oc=5",
-      "pub_date": 1794848404.0,
-      "article_url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108552259-1794854720467-gettyimages-2304953963-FEDERAL_RESERVE_CONFERENCE.jpeg?v=1794854743&w=1920&h=1080",
-      "description": null
-    },
-    {
-      "headline": "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
-      "source": "PYMNTS.com",
-      "source_url": "https://www.pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUxPWEx6bTgybDRia0V5WE9naVZBNmtCUTRkUlhkbUdZRGEzSzF5bDVKeE1xNlBmRHRzMlRQTmlfN2c4dGt6Wk5OOElaUUVfNklRSFA3OGVRWnBKMmYyQUNXMk9HNTEyWTNGMS00WnlrNHpZZ2pSYWJ3QTFxN1VjOFBfVzBSdGFpZFJFV1RUcUFsWFVZWTY1WnA1cE5NdzQyMTdweVJ0X2JVYnBjdG9jWVY5N25UVXU3X01wNGt3?oc=5",
-      "pub_date": 1794873148.0,
-      "article_url": "https://www.pymnts.com/news/artificial-intelligence/2026/fed-builds-plans-for-best-and-worst-ai-driven-economic-outcomes/",
-      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Federal-Reserve.jpeg",
-      "description": "Federal Reserve staff are using model-based frameworks to generate scenarios of outcomes that could result from the progress of artificial intelligence"
-    },
-    {
-      "headline": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
-      "pub_date": 1794871080.0,
-      "article_url": "https://apnews.com/article/flights-grounded-microsoft-ai-chaos-ea5f7a1f95a38f65dd57e58cfc17672b",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjVjenZkdk1vNVNjSTR1UklRSHZCMGllZVR5N2lfRXo2MXg0MzBnQjBxekctUk5RZWJQaGRxYTRyekJvSzAzM0piT0I2dVhlcmVUalpyV2FxQVQtMVNLdGZpWjFBUUY4bGVBbldicWVnZ0MtWnNoQmhMYmVYWllHY3pHcUc4Zw?oc=5",
-      "pub_date": 1794852290.0,
-      "article_url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
-      "description": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing."
-    },
-    {
-      "headline": "Broadening access to AI for scientists",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
-      "pub_date": 1794849316.0,
-      "article_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/793p1h1iUmksoWkDep5NRR/580e87d687cea7ef8e8288bef51c7bd4/academic-researchers-seo-card.png?w=1600&h=900&fit=fill",
-      "description": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
-    },
-    {
-      "headline": "California sues OpenAI, alleges it endangered the public by building AI without safeguards",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2RqVDFjU0Vpb19pQVM4c0ZmZ192dllKQlY3VXk5dnkyc3AyWFNWbjJFdUNsSlhKbm1fRG9acUpmdTBXTDcyMDJROHlldVRDektkdWZvd3VPOFN1S0VyMTVabzNPcl9JWHRxTE9NWVJodUh2WlNncnk0ckctZWxaV1FyWG9adXlvTUdwZ0pWM0pNMjdxRTZjWkx0T1lkcWZlXy0wLQ?oc=5",
-      "pub_date": 1794854569.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "California sues OpenAI over Hugging Face, other AI model loss of control",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3M3plemQ2SHBfdWZaTERYakxMNURwT3d0YjVJWFU3TVl1NTQyQjhZbEpDRFJvNGc2ZFNtVjBmbk1nR0p5a2d2UHhJelJPSXg5ZlpKY1dKODUtUWF2UkNZNlhRTUxub0dWek8zRk5WenBDcW9EaDZWeHFHUdIBgAFBVV95cUxOMlcxTkRKLXpNZTlBMW01ZHFVWmoxX1c1TWY4Wk15VmhkRTlzTkVnMlI2R1NUSzNwb0xnZUtHNGVTRlRWWFRoNndaekJMbjNhTmtVeldYMEJuLXVBUTdib3JOUHhmOGJ5MDlHbllhU0F6MUdQMGxmdzR6RE1SX19OMA?oc=5",
-      "pub_date": 1794854931.0,
-      "article_url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108369602-17907017172026-09-29t170751z_2048932804_rc25tna9ogf6_rtrmadp_0_ai-openai.jpeg?v=1790701743&w=1920&h=1080",
-      "description": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-17T00:58:19.942917+00:00"
+  "fetched_at": "2026-11-17T08:58:48.379857+00:00"
 }

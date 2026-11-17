@@ -5,26 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin\u2019s four-year cycle is about to turn bullish \u2014 if history repeats: Chart of the Day",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZnJscnVUWk1EM255N01qYlh4M2xtWkFTV0VXdDRZcU9RbWFlOWZ0ekN6MlZESUxjRlUyRUxVQ09UWWVrcTRkZDM2Ykg3d0lueTNXQ0tBOFVEekxpazZ2OVlqVGdyb2xxYnAzSGs2OFF5WXN4Qk0wdDMxNDBnejd6ZmZjOFAyNHZkY0NmS25KcWMzcXlOYTRPRFcwSGw5aTc1NmFwdVQtMDI2ZFcxdFdTZlN6aVcxb2c4azZMQkNhWklNbXZQY2xYNFI2SlowVi0tVUJVNnFNRWdONDhfSjl4UGRFa0M?oc=5",
-      "pub_date": 1794752264.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin's November rout echoes past crypto downturns",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFM1RFZURXdyZUlzalo1dW1CcWhaWjJFTEFxVk9EUDFoYjhKS3ZPdlFxMDRWRHZIVy12SExteV9NZ2RiZThpZ0RNdDNCNlJZSGpFZFdLV1JONlBETkhNUXhSWTRCNHY2V05zUVBHVVl5X1ZfZnJpZW41OFdVTmlDRmlLakVTZGhqSlVFWWhLV2FLUjN2WnBzSjNFandleW8wTHlXQnBLUG9rRHZD?oc=5",
-      "pub_date": 1794839366.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -39,38 +19,68 @@
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd1JhVHhmRklzUDBnSFNsMktFYkdycHlVQ0UtQmtST1VvLV8xUGtpblFUSktSVzhIQVFwbHhZZHlfNVpVZmFsb3VhUG5fMzZnSHp3cHotZVFrbnB6WDcwLWVpeEhnTXVqTjV6Y2FhNzV3dDM3bnFidG1sMjF3YjZCZkFNSjJscHgwN25ORWlraEFSeDhQei1wUmM1Z3NPdXgybi05am52bXhOOEF4RnhSRHJOMklZQ2phM2VpdE9RZDBwT2xWMS1TWE1YVnEtZEExTTV1SHMtNHloQWpQOUZfcXNVTEZnZEk4ZlUxMA?oc=5",
-      "pub_date": 1794826020.0,
-      "article_url": null,
+      "pub_date": 1794876381.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/three-reasons-behind-bitcoin-s-selloff-this-month-1qzg2ANrWXBDc0k5HBY0",
       "image": null,
       "description": null
     },
     {
-      "headline": "Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings and Bitcoin Slides",
+      "headline": "Is Anthropic IPO Really Hurting Bitcoin? Analyst Points To A Bigger Problem Behind BTC\u2019s Slide",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVNlc3FyY2w0TUVtTDRsVF9HUUMyc2JPU3JQZUJvYW5SZll1SUExRXNkXy15amJWNEJTUVdndFNPVEZZUzBzUl8xWFpWTTZkNEg2UzJ3MWpLcHQxRWM1VmFsNENQX2Q2U0hxb3VzRWI2RDU5bklWYWdTSlVsTlRHOW9WSmpFR19rWTFOSmZMd0F5QzVCUWc?oc=5",
-      "pub_date": 1794851102.0,
-      "article_url": null,
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYmFKbUVqVFZZTVBKdHpCcThhNnpjLXhxVjJRaFUtVTdlUGdMYXNjcUFwbzZmNUJ4aFJUM3F1dkhidENCLVk2UTFmck5YcWR3ZzhYMENJU2xLS000djlHMENuNXBSdXNkbzd1NkJ4RlB4MlZBOHdGWGx6dk96SkdoM0VWN2tnZGkxQmJKeS1WS3hFWHlmSmYtNk9LS2xmbGZGREdz?oc=5",
+      "pub_date": 1794808740.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/anthropic-ipo-really-hurting-bitcoin-055904429.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2f840e50b939f684e0c2f29e3dc9902736885793d3b76acf40ac89392b972011/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F0170810c73b40f150ef4cf29ccace612.jpg",
+      "description": "Pillows said that the leverage in the market was \"probably the most important part\" of the sell-off."
     },
     {
-      "headline": "Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNThySnlmVmxRUV9JUHByYm1fbUo4UzdYQUd1bXQ5U0NhbjBIOTR1OVpXUUFpSGtFa2NDOHR2YkFaWS04dWRKdGJkVkZNMHd5Zm5PLUJZdUFmZjJKOVJVNzA2cEl1N3RJMXVlbkM0N1RkSjZZcUEyal9hUHNZS21ILThUWHNrSzB1WjhfbDlhR09jRW93b2NXamNDTGJUOVlfOU1KQ2xna3dLdEh6S1pKSE1VWDY?oc=5",
-      "pub_date": 1794866615.0,
-      "article_url": null,
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Tumbles Ahead Of Anthropic IPO. Is It Paralleling Its SpaceX Sell Off?",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEVodHE0bjlsNW9qcmxpcDQzYXoyb0FZcjF5cm94b242TV9aOFRjUkMwRXI0LUhpRl8ta0xPSTN3SVA2VG9tcE5Yd1FZMFhfcldCVm5HSmJyMjNVZVhYZm5fX2c4V2hZRTNka1AyX3JtNFJxS0tOQXRaWnA5Y3FOUm1ScUVNTElZMjRVVk10V1RXRmpqLTBSZHZ2dDlzekg0cGZYTS1ra2w0R3VyQi10a0lwdkxTYTk4MHpWUw?oc=5",
+      "pub_date": 1794864480.0,
+      "article_url": "https://www.investors.com/news/bitcoin-price-unravels-bitcoin-liquidations-etf-flows-anthropic-ipo-spacex-crypto-stocks/",
+      "image": "https://www.investors.com/wp-content/uploads/2025/01/Stock-bitcoinarrowdown-01-adobe.jpg",
+      "description": "Bitcoin price undercuts $65K during weekend liquidation wave. Anthropic IPO may be pulling bitcoin ETF demand, industry expert says."
     },
     {
-      "headline": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "headline": "Gary Gensler\u2019s AI Bubble Timeline Puts Bitcoin\u2019s 2028 Halving in the Blast Zone",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0RJQmpRWkIzLXM0MlB1QXJMSWpQdkJ0Q2RPZktVczBqYjFxb3A5Y011dkRpQl9SN3VOQ1dCWkFRUkRnd1RXclM3UDJENE1jT2ZrVUFaeXRkVVZMMVpvX0w4SVlQWHF1R3lIeHJ4RHRSNlI4RmRqcUhLelUyVUxCYmVqbExDSk1teG0tRVVYWGwxaXI0eWxxTWZKZ2k?oc=5",
+      "pub_date": 1794899040.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/gary-gensler-ai-bubble-timeline-070448806.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/99061bb9d385b8bc3c9f0e75748b40a3a0ec514c62009800f3e1c22ad1dc7f75/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fbe2144115dd412ad4f30ead0e5ac1378.jpg",
+      "description": "Gary Gensler sees an AI bubble recession before November 2028. The Bitcoin halving lands that April. Here is the overlap."
+    },
+    {
+      "headline": "Bitcoin pinned below $65k amid rate hike fears; Strategy buys more coins",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVI3WnMzNkIyWnFvODkxU2JxOW52eEpqWl94V2JZTWRubzVYMDBBdWR3X0JGSWNTbGo5NFlKOHFZTk1oaER6Vm4tV0Rkdy1LM2VUU1FlNk9pMTZSZVNaYUUzR2l3QkdxRjZPMklnQ1R6ZHdHVE9GaGtRU0h3Ql8xeU5FcmZkLXNuVkt1SnFRX2o5Q2V3RE9RYkRn?oc=5",
+      "pub_date": 1794899090.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-pinned-below-65k-amid-070450882.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
+      "description": "Investing.com-- Bitcoin rose slightly on Tuesday, but remained close to recent lows as fears of rising U.S. interest rates and an unclear regulatory outlook weighed on appetite for cryptocurrencies."
+    },
+    {
+      "headline": "Sterling Digital sees significant milestone as West Texas ramps up",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVldGMmUwWUJBNFZLY0tFNVZSYXFSSk9tZjEzYXQ0Ym5nT0tuYm9IVk1pODZZZXprZGJRSXRic0wxaVJ2VVFKTERRRWtGeWhtRHJSYXhjTUY2SVlPb0hzZ3NPTklXcU01WVl4WHhHME1XSTYxYnBSRXpkZ3p6bEhFNmg1V1JpaTRBYThvU04tTXZmY2RzWERV?oc=5",
+      "pub_date": 1794901920.0,
+      "article_url": "https://uk.finance.yahoo.com/news/sterling-digital-sees-significant-milestone-075200292.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2b0839d8e5c4f0cfec705482462189b60a8b24ef27ae7752316ab071e45a30b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_uk_164%2Faac65e5f443b4f8cd39cdae6b4b94728.jpg",
+      "description": "Sterling Digital Plc (AQSE:ASIC) told investors it estimates it spent about US$19,400 on energy for each Bitcoin it mined during the initial operating period at its West Texas site. It comes after the startup of the site and the successfull mining of two Bitcoins. The site began full operations..."
+    },
+    {
+      "headline": "Wells Fargo's bitcoin ETF holdings now rival Tesla and SpaceX's combined $2 billion",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTgyYXRGdWRSOEtFSW5ycThhNWdOSDRaR3UxOVdJRDk0X19SNGNoMVF6WDJfMVE1Q0xkX2ZNdXJVYkZPdGkzcU1kc3d0LWRDWkQ5SWhnSVRvQWtyV3FtUTkwU1U0dHBveWQ3TjhJemFYUk4td2JOd095dVh6eVJzLXp2a3NqTEM3ZVRxR25LZ01XaElwR0pWU29SMG1FSEs3QzdlOVcyQloxQ1BGQ3RkM3J5d0o3a2hSNTdRLVRJWFNzNjB1Nm51UGhKTGRBMk40?oc=5",
-      "pub_date": 1794861321.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOV9DMlQ3cFdDYVI5Wm9sUFk5ZHRjV0pVQXNEWUR1aWN0S2t2Ml8wV1NYSHg3bGx5R3U4dHYyN3N5ZmcxTEdWRmdOWnJiQm85QjExQUNFd1dNbFd1SVFLT2lHRUZ4clZZcll1UUQxdzk0UDFXZXI2Q0wxWmFncG9tYXloVEFwN1dtb3VLY2VxaHRhZzJZZWZZLVpRT012b1ppUEp6SGZUT0NQMXpOeDJQR1RhdVdJRm5jNV9EUWNXSzk?oc=5",
+      "pub_date": 1794893843.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
       "image": null,
       "description": null
     },
@@ -80,31 +90,21 @@
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWdwVWxaMG5xZ2JlN1c1dURPTENWQjBQa2R0TC1PMUNybXczejBzSTMxWXg5NVhkUTBBTmRrVUozZ2M3bGdYNDVNd3Z0eTVIUlNpb0JCel9LbW8wM0dfZUhfWEh3MTdOUzV5MzgyVHNyWXhWd1Y3N3IwV25DUjQ2X0J2Z1h2VWxWWFhVTlJ4Y2tLX3ZaU1lSLWFMTEF5N0ZWaVF1ZkN5bE4?oc=5",
       "pub_date": 1794858581.0,
-      "article_url": null,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-16/bitcoin-btc-options-traders-brace-slide-60-000-selloff",
       "image": null,
       "description": null
     },
     {
-      "headline": "Strategy Stock Today: How To Make A Bear Put Spread Profit From Further Potential Downside",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUU85cFZ5NFpjbWs4ek91Y0l4MjEtYlRBX0JrY01GaGN0TTVBV1RXeUstV1RVQnN4dHU3ZjgzNVU0Ylhtd2lweEJKMVR5RHNKUzE1ZVVHOVpLTlRWZWxuenJWdlpJYjQyd29YTmdyVF9fSEZzVjNCakV1NDFHZzlYQkhxUjNYUkk3akdNelpsc0lRUjlFVE80ck5maThuRFFRRjg4NU1VMmpNSjN2eGtz?oc=5",
-      "pub_date": 1794847380.0,
-      "article_url": null,
+      "headline": "Did Bitcoin Prices Bottom at $62,000? Strategy Has Bought the Decline.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yS0RmaHF4aWFYdWEwa1Z4TmZ0dzdqM1NPR21vdTZvc3dZNlVDalJHdHROUjJEcm03V0YtdHhEdC01T0tpS0RDLWZNRFpLNWlnZVJPeXlXY3k0Tk1NNW1hUEtrOE9DaWp6OU44VGpQclQtQW9pTF9jazVRNVV2UDA?oc=5",
+      "pub_date": 1794855360.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-prices-strategy-coinbase-f7d3191e",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Michael Saylor\u2019s Strategy Just Lost Its MSCI Index Spot as Bitcoin Plunges. Is MSTR Stock a Sell?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXBIME9PRGtMQi16RUV2Vk5hRVl4YzZVTmpkWTNKR2JRcV9laXM0cl9fN0k4UWNQTXBqLUxVOTlTODlRN0tQMnAxUFR4YVhjWWp3WE0zM250b05QRHJlZVJUbk12X1RPTUtfQWduTFBCZnRJWm10UXowSGFhNkMwNHBCZ0RYYXoxejg4RzY0bHhGeERqUWdHMHpQcUhOR1E?oc=5",
-      "pub_date": 1794763730.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/michael-saylor-strategy-just-lost-172850606.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6a7b5b86dd7903c2980121dcf27e8c827692180ddfacc85080859290ebaeceaa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fb5283065803c869ed4ca303c5725a542.jpg",
-      "description": "With an index provider cutting it loose and bitcoin sitting below its purchase price, Saylor's funding machine faces its toughest test yet. A cash cushion buys time, but one signal could decide whether patience pays off."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-17T00:58:16.207563+00:00"
+  "fetched_at": "2026-11-17T08:58:53.416621+00:00"
 }

@@ -1,23 +1,23 @@
 {
   "papers": [
     {
-      "id": "2609.18063",
-      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
-      "organization_name": "Edge0",
-      "organization_fullname": "Edge0",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
-      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
-      "ai_summary": "Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.",
-      "hf_url": "https://huggingface.co/papers/2609.18063",
-      "arxiv_url": "https://arxiv.org/abs/2609.18063",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 33,
-      "num_comments": 9,
-      "published_at": "2026-09-15T20:00:00.000Z",
-      "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 11937,
-      "project_page": null
+      "id": "2604.05018",
+      "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
+      "authors": "Yiwen Song, Yale Song, Tomas Pfister et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Synthesizing unstructured research materials into manuscripts is an essential yet under-explored challenge in AI-driven scientific discovery. Existing autonomous writers are rigidly coupled to specific experimental pipelines, and produce superficial literature reviews. We introduce PaperOrchestra, a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials into submission-ready LaTeX manuscripts, including comprehensive literature synthesis and generated visuals, such as plots and conceptual diagrams. To evaluate performance, we present PaperWritingBench, the first standardized benchmark of reverse-engineered raw materials from 200 top-tier AI conference papers, alongside a comprehensive suite of automated evaluators. In side-by-side human evaluations, PaperOrchestra significantly outperforms autonomous baselines, achieving an absolute win rate margin of 50%-68% in literature review quality, and 14%-38% in overall manuscript quality.",
+      "ai_summary": "PaperOrchestra is a multi-agent framework that converts unstructured research materials into complete LaTeX manuscripts with literature synthesis and visual elements, outperforming existing autonomous writing systems in human evaluations.",
+      "hf_url": "https://huggingface.co/papers/2604.05018",
+      "arxiv_url": "https://arxiv.org/abs/2604.05018",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.05018.png",
+      "upvotes": 4,
+      "num_comments": 0,
+      "published_at": "2026-04-05T20:00:00.000Z",
+      "github_repo": "https://github.com/google-research/paper-orchestra",
+      "github_stars": 1732,
+      "project_page": "https://yiwen-song.github.io/paper_orchestra/"
     },
     {
       "id": "2610.22732",
@@ -35,27 +35,27 @@
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 7043,
+      "github_stars": 7261,
       "project_page": "https://tokeneconomizer.github.io/"
     },
     {
-      "id": "2604.05018",
-      "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
-      "authors": "Yiwen Song, Yale Song, Tomas Pfister et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Synthesizing unstructured research materials into manuscripts is an essential yet under-explored challenge in AI-driven scientific discovery. Existing autonomous writers are rigidly coupled to specific experimental pipelines, and produce superficial literature reviews. We introduce PaperOrchestra, a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials into submission-ready LaTeX manuscripts, including comprehensive literature synthesis and generated visuals, such as plots and conceptual diagrams. To evaluate performance, we present PaperWritingBench, the first standardized benchmark of reverse-engineered raw materials from 200 top-tier AI conference papers, alongside a comprehensive suite of automated evaluators. In side-by-side human evaluations, PaperOrchestra significantly outperforms autonomous baselines, achieving an absolute win rate margin of 50%-68% in literature review quality, and 14%-38% in overall manuscript quality.",
-      "ai_summary": "PaperOrchestra is a multi-agent framework that converts unstructured research materials into complete LaTeX manuscripts with literature synthesis and visual elements, outperforming existing autonomous writing systems in human evaluations.",
-      "hf_url": "https://huggingface.co/papers/2604.05018",
-      "arxiv_url": "https://arxiv.org/abs/2604.05018",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.05018.png",
-      "upvotes": 4,
-      "num_comments": 0,
-      "published_at": "2026-04-05T20:00:00.000Z",
-      "github_repo": "https://github.com/google-research/paper-orchestra",
-      "github_stars": 1228,
-      "project_page": "https://yiwen-song.github.io/paper_orchestra/"
+      "id": "2609.18063",
+      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+      "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
+      "organization_name": "Edge0",
+      "organization_fullname": "Edge0",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64361bcaf81a16e74367d2e2/D5QI700pnaujz5PeWE6MX.jpeg",
+      "summary": "Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start early enough to hide behind compute. We present Edge0, a streaming MoE inference engine that closes the gap with a prerouter: a per-layer head predicts the next layer's routing one token ahead, and the prediction is consumed as the routing itself, so the staged expert set equals the routed set and nothing is dropped. An unmerged recovery LoRA, trained on the student path, pays back the quality lost to int4 quantization and routing replacement. On a single 24GB machine, Edge0\n  serves a 35B MoE at 20tok/s inside 3GiB of peak active memory, within a few points of its fp16 teacher on average across five public benchmarks. An 8B tier runs on the same framework, and the framework, checkpoints, and adapters are open source.",
+      "ai_summary": "Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.",
+      "hf_url": "https://huggingface.co/papers/2609.18063",
+      "arxiv_url": "https://arxiv.org/abs/2609.18063",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
+      "upvotes": 33,
+      "num_comments": 9,
+      "published_at": "2026-09-15T20:00:00.000Z",
+      "github_repo": "https://github.com/Edge0-AI/edge0",
+      "github_stars": 11961,
+      "project_page": null
     },
     {
       "id": "2412.20138",
@@ -73,7 +73,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 122831,
+      "github_stars": 122889,
       "project_page": null
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 24091,
+      "github_stars": 24151,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -107,11 +107,11 @@
       "hf_url": "https://huggingface.co/papers/2611.18397",
       "arxiv_url": "https://arxiv.org/abs/2611.18397",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18397.png",
-      "upvotes": 88,
-      "num_comments": 3,
+      "upvotes": 103,
+      "num_comments": 4,
       "published_at": "2026-11-12T19:00:00.000Z",
       "github_repo": "https://github.com/RainBowLuoCS/Gamer",
-      "github_stars": 176,
+      "github_stars": 243,
       "project_page": "https://mihoyo-gamer.github.io/"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 2,
       "published_at": "2026-11-06T19:00:00.000Z",
       "github_repo": "https://github.com/huawei-csl/MACaQ",
-      "github_stars": 319,
+      "github_stars": 339,
       "project_page": "https://huawei-csl.com/blog/macaq/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-17T00:58:05.595536+00:00"
+  "fetched_at": "2026-11-17T08:58:27.282985+00:00"
 }
