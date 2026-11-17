@@ -5,14 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+      "headline": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
-      "pub_date": 1794861363.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-blames-nvidia-anthropic-203603583.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1fb36acae099ed19d62dfa7520903a120c364c209f7ead8e53777fbef19ac833/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fa0780072c989e0792375e74c1841ae7f.jpg",
-      "description": "The firm\u2019s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a \u201cwaterfall\u201d drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic\u2019s IPO."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWRKQnVuWHo5bTVLZEZhbmd0Tmo1UVBVb3FPalZTRDhNLTk3VmdGWENleGc1cGVKLXdmeG1KeXAtbmR3STJ4cmdVY0hYQkp0a1AyOEdKV0JvMUtxMHJNT2I4SThxQzFxcUg0LVIwdTh0cEgwNXAxV1BqS01Gc2M5VTl4NGhLcGozMFQtak9iekJmTlBiQjNpQ1VR?oc=5",
+      "pub_date": 1794935921.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/binance-hack-wallets-move-137-171841253.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/af504138f5c6eac88b322e400dc8df2c38e95809f0e2ee955b4f38bff4b54db9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F85d8566571cdef86be97fb0d34c1820e.png",
+      "description": "A wallet linked to October\u2019s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts."
+    },
+    {
+      "headline": "ETH news: Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmRRbDhlT093YUFaUVA5N3gzLTZYQmFZTnFWaWZmTHN4RmFsbGVZYm9NQXhwU21GVXhEbS16RXNqSTFqd3VpemxCVlpMNng4ci1IdW5zenJWbVpsd1Q2dnV3VUhUbVA1WEhidjJjb2pHTktGWmJSaHU0c3FqRGp5VVdzZmNaV0o0NXdCaDZodTFHRmJmVnZtZkpPUVEwTTZyLVhIaUxuYTBpdGdMNEE?oc=5",
+      "pub_date": 1794920576.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
@@ -25,34 +35,64 @@
       "description": "In April 2023, a group of MEV bots lost over $25 million in seconds during a sophisticated attack on the Ethereum blockchain."
     },
     {
-      "headline": "ETH news: Vitalik Buterin flips to \u2018total bull\u2019 on a faster route to quantum-safe Ethereum",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnJxbGU3aHBacW0yTE5mYTM1VVBLQUNOeHZqV3cwNWI5VjByTHdDWExXbkdIT0M2QnVOX285NWlxY3pPTnZTbFBsZVhSX002RXNNaHBDcTN4TjBxWU42QVBld2Vua3RULWR0NHVyQXBCMzdxbGtkR19ELURXRklxdDR3MFE3cnhfSHJadXNIZnVmYWYtemN4ZUtlQmZjcHZtVWYyZVZoX3UxckM3M2ZIY0ZmZWpnSlkwU0tr?oc=5",
-      "pub_date": 1794817083.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-      "image": null,
-      "description": null
+      "headline": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2pTMnBPV21nRDJmM1pRTF9hcWVXR2k4MEJnSjlfY2EzYS1xZmc2TTN4NC1WMHlTblA0aFZJMUtzOHJ4THJPUElmWFp3Q0h0eXZoLTBRbTB6UTFzY3FpVlk4c01ZZGo0c1c0NF94X2V5ZDZ2LW51YW5IZFFKY2dnc3FlUkpPcEJMQTI2UGZjQTRPWlo0WDZlUVpod24?oc=5",
+      "pub_date": 1794907649.0,
+      "article_url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png",
+      "description": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked."
     },
     {
-      "headline": "Current price of Ethereum for November 16, 2026",
+      "headline": "Judge Acquits \u2018MEV Brothers\u2019 in $25 Million Ethereum Case, Finding No Misrepresentation",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0JuWDJxX0RQcGhoV3J4b2xOcG1xWjFsLXNnLVZCSVh0U2E5eXBDYTFGNVdZUDh5emthYjNiYXBaMGZIRF9IUFN2ZlBkWkhtdWxOQ3lPMXR3UU42NWk2MkVXTnZfaERhY1h1dk9YcEZEd09CZk02emFOeHJRdkxqaFNveUtuZHRTejFN?oc=5",
+      "pub_date": 1794912349.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/judge-acquits-mev-brothers-25-104549130.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/604f9614f2996c8804d222f55e6bedd43e9ad1907aa963f558b17280934f4e99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2Fc7b0a2821712abfcf48073a50fb86c0e.png",
+      "description": "A federal judge ruled prosecutors never showed that Anton and James Peraire-Bueno lied when they drained Ethereum trading bots in 2023, a year after their trial ended with a deadlocked jury."
+    },
+    {
+      "headline": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjhBVEJLWENoek1maUFDT194bTY4Q3BZWnZrWDNzdWl5alMzZWpRWEhDZHZfTGFkTVAzNHNnM0xLTTItZzRVS1ZpSjlDaWI3dHMtcXhMVEcxdm1fUzJiLWQyNGI1dWNuZm91aFNURTRTT0FmZndkSklObHF0dzUtakVrSGZmNXVSUmFIcFFpMXA5WlFu?oc=5",
+      "pub_date": 1794861363.0,
+      "article_url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
+      "description": "Ethereum has experienced a \u201cwaterfall\u201d drop that Bitmine Chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic\u2019s IPO."
+    },
+    {
+      "headline": "Current price of Ethereum for November 17, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13UmNHTmlPQlRCMnBtbFVBZUh0WExfYkhvNkR0SEN4Q3l5aEp6d3dzTTB2WnA5M25EeEJRZWxnVEpUa19QUl9lcUkxbzR4bnJtdlVVaW1FbDIyeDdrTno1d0tZRV9ZVE1w?oc=5",
-      "pub_date": 1794833100.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-16-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-16.jpg?resize=1200,600",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GcHE4Sk9hV1czc0lPYjhnSHlmaEJ6bXQ5VXJsOFlMQWhVM1c2QkluWDJsejNsX2oxYlN6M1kzb1RKb0Z1Nml4QkktWTNjWHI0c2E3NS0wTXVQNEd2Z0E5WTAwNzVNQS1E?oc=5",
+      "pub_date": 1794920490.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-17-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-17.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Bitwise: Look Out Ethereum, Avalanche May Eat Your Tokenization Lunch",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRk5rLUk3VEFfWENEMFdMSUxsZENaUWFLX2JxTlVCXy1DWWRFclRiTWdEMHUzSEpZRUJzMGx2SUhsSWhTM3RsOUZWVkhjcjlKVk1WYkl1U1BKS05ZMkdxMVJFeWFzUHVaNzYxS3VlWVZEbUlqdzZyX2RUNDI1MzZkYXNsbUUxb0MyZFAtT29qYlFMTElpZ2lfVm5qM2l1RVZzMlZVb3NXV2JXMlRGRGptS0N1Ynh5cmRZWU8xR1BhLWxJc0ctYmlpRA?oc=5",
-      "pub_date": 1794851107.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63308020/bitwise-look-out-ethereum-avalanche-may-eat-your-tokenization-lunch",
-      "image": null,
-      "description": null
+      "headline": "Did Ethereum\u2019s Co-Founder Just Set the Coin on a Collision Course With Bitcoin?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS29QQnprSThmcVA0SWpQSDVVOE04MjNPaGQzNHQ3MDhuM0ZhenBZcEZqaUlqbUhUbFozX096eTdTVENuS3BKQTl6TmFSMGoyUkpDaXhubnhTcm03VUpfa1dKeXJ6Zk16T1MxVC1nSFdBbE9FUEJnNzRnem5zV0NrMWhnSVZXZTNvRG9nM2dUM1dSOGRRejNxRWFBMEo4cVB5N3ZSZ0E2YXJuMkhITmt4dzJqSHVicV84Rzd5X3dn?oc=5",
+      "pub_date": 1794911400.0,
+      "article_url": "https://www.fool.com/investing/2026/11/17/did-ethereum-s-co-founder-just-set-the-coin-on-a-collision-course-with-bitcoin/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff9f7a2c980b50173aece5edf3c8dcd00bf488619-1290x860.jpg&w=1200&op=resize",
+      "description": "Vitalik Buterin's new take is that Ethereum should be considered as a store of value, and that position pits it against Bitcoin."
+    },
+    {
+      "headline": "Bitcoin, XRP, Dogecoin Slide, Ethereum Steady as \u2018Extreme Fear\u2019 Persists: Analyst Says \u2018Selling Hasn\u2019t Stopped Yet\u2019 as Whales Offload BTC",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPREM2VVVRbXJXT2pEY1NFSDBYbDYwRFQyTzl2WFdmRHVGQ2FobmQ2WVc4aTVibnp4NFJfN2JBTkRWNmdfRUhKQkxCODRHajQtQWdvSE5oQnJTaU1kUXJCLVRNeUdUb3B4TEZ0aVdOZ3BZV3ZBYWpWei1IM0pyMlplRUhoQXZJNDRSUXVzdEpOQlBFLXF0THhUUGx6bDh4WGhlcHZidGNsY3daQng0SlJkVkxZblhwZ1RNZF9IMWx1NDRqYVMxWGRWNVJaRTllMmdHSzZTTU54eV9yT0pLT1poV1dKcGh4OEJQdnB3NkozbExxOWJqME9EYnliQUFXWjBHcVROenM3aVpiOHpwbmdNRXhtS1lsNlE?oc=5",
+      "pub_date": 1794880560.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:f12b5b448094b:0-bitcoin-xrp-dogecoin-slide-ethereum-steady-as-extreme-fear-persists-analyst-says-selling-hasn-t-stopped-yet-as-whales-offload-btc/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies held steady on Monday as investors remained risk-averse after a sharp sell-off.Crypto Market Awaits Relief RallyBitcoin oscillated between $63,800 and $65,500 as traders awaited a rebound that could revive upward momentum. Ethereum failed to break above $1,900, down more th\u2026"
     },
     {
       "headline": "Ethereum test exposes flaw that lets transactions skip payments",
@@ -63,48 +103,8 @@
       "article_url": "https://cryptoslate.com/ethereum-test-exposes-flaw-that-lets-transactions-skip-payments/",
       "image": "https://cryptoslate.com/wp-content/uploads/2026/11/receipt.jpg",
       "description": "Ethereum\u2019s Glamsterdam tests expose skipped project payments and forgiven cash-out fees, raising concerns over smart contract reliability."
-    },
-    {
-      "headline": "Peter Schiff Warns Of \u2018A Black Monday\u2019 For BitMine And Ethereum ETFs If ETH Loses Key Support",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMnlzbUJDczlHUXpvN250TFZDbVp3dkhZUTJMWXhqNmlpdUI4elJnVnAtZFZmOWV2TjlGRXAyc01RMjItQVFCbUthRFpaZFZQWnhNclhTdmR3SkRuSlRCRk1YSlhaQXF4T2tmaFFjdm95aHRpNEEycy10YUhBbTlhRXFxSzZ0aEEyay1XOU1LVnROZndQY0VUZWR1dGhWM1NFN3hIb2dfVzc3cDYxdlR5akpfdl9nMW5McC05aExhSW9xeXlZdGZzd3lZSGMzc1d3bTFQYzJyOWZGd1ViM3RhS1BndWl6Q2c?oc=5",
-      "pub_date": 1794738365.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:1bf49b784094b:0-peter-schiff-warns-of-a-black-monday-for-bitmine-and-ethereum-etfs-if-eth-loses-key-support/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "BitMine Immersion Technologies (BMNR) and Ethereum (ETH) exchange-traded funds (ETFs) may experience a \"Black Monday\" if the token breaks a significant support level over the weekend, Peter Schiff said on Saturday.Schiff made the call in a\u00a0post on X, after an earlier warning on Ethereum. He said th\u2026"
-    },
-    {
-      "headline": "Vitalik Buterin backs leanPCS for scaling Ethereum\u2019s cryptographic proofs",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc05RZE1fOThrekoyVlJVUTJsTmt0YTlkOFlEWjgyNTdrR05HVmVNWWRUeXVfYjUtWnVSc2FXTE8tUmJnYlZjSWlrSzV2QVNuMWp5SG4yYmZSOTN5TzRtSUNxSXdDU0VTUW9TYkF1Q3U1ZXlNcHZrckRyQUdBUEJrS3ZZUEliRmQ0ek96UHRDSWlQVC1aTGlqbmdNWEZDOS1mUVE?oc=5",
-      "pub_date": 1794824190.0,
-      "article_url": "https://cryptobriefing.com/vitalik-buterin-backs-leanpcs-for-scaling-ethereums-cryptographic-proofs/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/16051356/cb-image-IdG5WlNs-800x450.jpg",
-      "description": "Vitalik Buterin supports leanPCS for Ethereum's scaling. Ethereum reaching $6,500 by December 31, 2026 at 0.8% YES."
-    },
-    {
-      "headline": "EIP-8037: Vitalik Buterin Defends 5x Gas Hike on New Ethereum State",
-      "source": "FinanceFeeds",
-      "source_url": "https://financefeeds.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nbUpTQ3pqQkVNUENKZk9GRFRueXczWi1hcmpxYmIxbzNCSWh4TURjWVpUakpkXy1SZ1k4ck9UMHJXQmxuV0RsQXNlWE55bDNBaVZRSDVCVmRzRkI2bmJyeU1ib0ZpcHZ6MUE?oc=5",
-      "pub_date": 1794829457.0,
-      "article_url": "https://financefeeds.com/vitalik-buterin-defends-ethereum/",
-      "image": "https://financefeeds.com/wp-content/uploads/2026/11/vitalik-Buterin.jpg",
-      "description": "Buterin backs EIP-8037: new storage-slot gas jumps from 22,100 to 110,020. What it means for airdrops, bridges and Glamsterdam ahead of the Nov 19 call."
-    },
-    {
-      "headline": "Tom Lee Says Ethereum\u2019s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3RvMTFyNE9QY0FtOE5oTncwdzhwYnhxZ1ZYdndOTDl6ZnBCR1F1T2lGYVVfcWpYV2ZDc01GUHJrX3prOVV0OE53Tm54aHhNUUNmY1RFLXJRS09YNUstcUlsbE1KNV9paWlHaHdhaHZ1MUhZZnFVTFEtOHdTUTc4Qmg1VGcyNTFVbjZ2WEFFMUQ0N2Y1NWhF?oc=5",
-      "pub_date": 1794840825.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-slide-145345476.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b98c848ec43de20b260c642ea10ce3516a0512aa674804411e04dea93dcac3d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fd570ad51e629013469ef47c158a04951",
-      "description": "Lee suggested that investors may be selling ETH to raise cash ahead of Anthropic\u2019s planned IPO and amid market developments involving Nvidia."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-17T08:58:42.125278+00:00"
+  "fetched_at": "2026-11-17T18:24:07.512199+00:00"
 }

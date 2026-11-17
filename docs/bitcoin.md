@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-17T08:58:55.679316+00:00'
+updated: '2026-11-17T18:24:13.719307+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 17, 2026 at 08:58 UTC  
+**Last Updated:** November 17, 2026 at 18:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,574.69
+### $63,909.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -13.1%  
-**30d:** -21.5%  
-**90d:** -11.9%  
-**1y:** -30.8%  
+**24h:** -1.9%  
+**7d:** -13.7%  
+**30d:** -22.1%  
+**90d:** -12.6%  
+**1y:** -31.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1293.74B
+**Market Cap:** $1283.24B
 Rank #1
 
-**Circulating Supply:** 20,113,243 BTC
+**Circulating Supply:** 20,113,378 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-49.4%
 
 **All-Time Low:** $67.81
-+94756.2%
++93986.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hit my goal of a quarter of a bitcoin, feels good
 
-1d ago
+2d ago
 
 ---
 
@@ -89,7 +89,7 @@ Hit my goal of a quarter of a bitcoin, feels good
 
 We’re so back! /s
 
-1d ago
+2d ago
 
 ---
 
@@ -111,7 +111,7 @@ Congrats everyone.
 
 Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian reseller CryptoBilis contained unauthorized circuit boards designed to capture recovery phrases and transmit them through cellular networks. The affected purchases occurred between August 20 and September 23. Trezor released firmware 2.13.1 on November 11 to block the identified implant behavior. No affected customers had reported losing funds at the time of the disclosure. Hardware wallets are not automatically trustworthy if their physical supply chain is compromised. Firmware updates cannot undo recovery phrases already stolen.
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 1d ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 2d ago
 
 ---
 
@@ -159,13 +159,21 @@ What is going on with Bitcoin today?
 
 Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.
 
-CNBC • 18h ago
+CNBC • 1d ago
 
 ---
 
-**[Three Reasons Behind Bitcoin’s Selloff This Month](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/three-reasons-behind-bitcoin-s-selloff-this-month-1qzg2ANrWXBDc0k5HBY0)**
+**[Did Bitcoin Prices Bottom at $62,000? Strategy Has Bought the Decline.](https://www.barrons.com/articles/bitcoin-prices-strategy-coinbase-f7d3191e)**
 
-WSJ • 8h ago
+Barron's • 23h ago
+
+---
+
+**[Why Nvidia earnings and the Anthropic IPO could mean new trouble for bitcoin](https://www.businessinsider.com/nvidia-earnings-anthropic-ipo-bitcoin-price-btc-ant-nvda-2026-11)**
+
+Amid Anthropic IPO hype and Nvidia earnings angst, bitcoin and other cryptos are exposed to new market headwinds this week.
+
+Business Insider • 35m ago
 
 ---
 
@@ -177,53 +185,47 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Tumbles Ahead Of Anthropic IPO. Is It Paralleling Its SpaceX Sell Off?](https://www.investors.com/news/bitcoin-price-unravels-bitcoin-liquidations-etf-flows-anthropic-ipo-spacex-crypto-stocks/)**
+**[Crypto Déjà Vu: Investors Might Be Ditching Bitcoin for Anthropic IPO](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/crypto-d-j-vu-investors-might-be-ditching-bitcoin-for-anthropic-ipo-2qoI9nbPI2FGDDDEbBiR)**
 
-Bitcoin price undercuts $65K during weekend liquidation wave. Anthropic IPO may be pulling bitcoin ETF demand, industry expert says.
-
-Investor's Business Daily • 11h ago
+WSJ • 17h ago
 
 ---
 
-**[Gary Gensler’s AI Bubble Timeline Puts Bitcoin’s 2028 Halving in the Blast Zone](https://finance.yahoo.com/markets/crypto/articles/gary-gensler-ai-bubble-timeline-070448806.html)**
+**[Wells Fargo customers double their BlackRock bitcoin ETF holdings to $2.35B](https://finance.yahoo.com/video/wells-fargo-customers-double-blackrock-170000921.html)**
 
-Gary Gensler sees an AI bubble recession before November 2028. The Bitcoin halving lands that April. Here is the overlap.
+Scott Melker discusses Wells Fargo's (WFC) reported holdings in BlackRock's iShares Bitcoin Trust (IBIT), which doubled quarter over quarter to $2.35 billion as of June 30. With the bank's reported share count climbing 103%, Melker examines what the increase could signal about institutional demand for bitcoin (BTC-USD).
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin pinned below $65k amid rate hike fears; Strategy buys more coins](https://finance.yahoo.com/markets/crypto/articles/bitcoin-pinned-below-65k-amid-070450882.html)**
+**[Wells Fargo doubles down on bitcoin ETF, and Chase goes down, but bitcoin stays](https://finance.yahoo.com/video/wells-fargo-doubles-down-bitcoin-170000996.html)**
 
-Investing.com-- Bitcoin rose slightly on Tuesday, but remained close to recent lows as fears of rising U.S. interest rates and an unclear regulatory outlook weighed on appetite for cryptocurrencies.
+Scott Melker discusses Wells Fargo doubling down on the BlackRock (BLK) bitcoin (BTC-USD) ETF, Chase (JPM) going down while crypto stayed up, and the Supreme Court rejecting a crypto bank's bid for Fed payment access. 
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
 Yahoo Finance • 1h ago
-
----
-
-**[Sterling Digital sees significant milestone as West Texas ramps up](https://uk.finance.yahoo.com/news/sterling-digital-sees-significant-milestone-075200292.html)**
-
-Sterling Digital Plc (AQSE:ASIC) told investors it estimates it spent about US$19,400 on energy for each Bitcoin it mined during the initial operating period at its West Texas site. It comes after the startup of the site and the successfull mining of two Bitcoins. The site began full operations...
-
-Yahoo Finance UK • 1h ago
 
 ---
 
 **[Wells Fargo's bitcoin ETF holdings now rival Tesla and SpaceX's combined $2 billion](https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion)**
 
-CoinDesk • 3h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin Options Traders Brace for Slide to $60,000 After Selloff](https://www.bloomberg.com/news/articles/2026-11-16/bitcoin-btc-options-traders-brace-slide-60-000-selloff)**
+**[Trump Media investors learn the Truth about betting on bitcoin](https://www.ft.com/content/2c686fe5-0a39-45ad-a26e-87c1f813ec7d?syn-25a6b1a6=1)**
 
-Bloomberg.com • 13h ago
+Financial Times • 54m ago
 
 ---
 
-**[Did Bitcoin Prices Bottom at $62,000? Strategy Has Bought the Decline.](https://www.barrons.com/articles/bitcoin-prices-strategy-coinbase-f7d3191e)**
+**[Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia](https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings)**
 
-Barron's • 14h ago
+CoinDesk • 34m ago
 
 ---
 
@@ -235,7 +237,7 @@ Barron's • 14h ago
 
 The alleged operator of defunct pirate streaming site Movie2K could walk out of a German court a free man, and still a bitcoin billionaire.
 
-⬆️ 7 • 💬 0 • 17h ago • [torrentfreak.com](https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/)
+⬆️ 7 • 💬 0 • 1d ago • [torrentfreak.com](https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/)
 
 ---
 
@@ -263,13 +265,19 @@ A deep dive into Starlight — the decentralized AI app store where wishes are s
 
 ---
 
+**[What's New on Bitcoin](https://news.ycombinator.com/item?id=50532614)**
+
+⬆️ 1 • 💬 0 • 3h ago
+
+---
+
 **[Why Bitcoin was NOT started by a 3-letter-agency](https://news.ycombinator.com/item?id=50519110)**
 
 Why Bitcoin was NOT started by a 3-letter-agency.
 
 My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
-⬆️ 1 • 💬 0 • 16h ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2122329592002134065)
+⬆️ 1 • 💬 0 • 1d ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2122329592002134065)
 
 ---
 
@@ -293,23 +301,7 @@ My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
 **[Strategy to Be Dropped from MSCI Indexes After New Eligibility Rules](https://news.ycombinator.com/item?id=50469437)**
 
-⬆️ 1 • 💬 0 • 4d ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
-
----
-
-**[My nail biting has been cured –. By manicure?](https://news.ycombinator.com/item?id=50518150)**
-
-This will be a short post but I can’t not share it. I’ve been biting my nails for as long as I can remember. It’s never been a big issue besides the obvious occasional nuisance of not having nails long enough for mechanisms that require fingernails to be operated.
-
-Note: Here’s a list of stuff I had to operate with help of a knife or spoon, or find a workaround:
-
-Nintendo Switch: Kickstand & MicroSD Slot
-Soda & Sparkling Water Can Tabs (the workaround is to slightly raise it by pressing my thumb on the opposite end of the tab)
-Plastic Film Seals, Stickers, Scotch tape, etc
-Tiny Necklace Clasps
-I always had trouble lifting thin card-like objects from a flat surface
-
-⬆️ 2 • 💬 1 • 18h ago • [devz.cl](https://devz.cl/posts/my-nail-biting-has-been-cured-by-manicure/)
+⬆️ 1 • 💬 0 • 5d ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
 
 ---
 
@@ -317,33 +309,43 @@ I always had trouble lifting thin card-like objects from a flat surface
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Just Puked to $62K. Is a COVID-Level Crash Coming Next?](https://www.youtube.com/watch?v=E91shGV-np4)**
-
-Bitcoin crashed to $62000, breaking key support as fears of a COVID-level market crash grow. Should you sell Bitcoin before it ...
-
-📺 Simply Bitcoin
-
-👁️ 32K • 👍 1K • 💬 147 • ⏱️ 17:08 • 10h ago
-
----
-
 **[&quot;Bitcoin is Over...&quot; Here’s What Comes Next](https://www.youtube.com/watch?v=JZyVfVpbbrE)**
 
 Crypto is over... Bitcoin is done... Or is it? Earn up to $14550 new user bonus on Bitbase: ...
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 110 • ⏱️ 13:02 • 7h ago
+👁️ 76K • 👍 2K • 💬 178 • ⏱️ 13:02 • 17h ago
 
 ---
 
-**[Rough Weekend for Bitcoin. Here&#39;s Why We Still Own It.](https://www.youtube.com/watch?v=r3XQKbqn6S0)**
+**[Bitcoin Just Puked to $62K. Is a COVID-Level Crash Coming Next?](https://www.youtube.com/watch?v=E91shGV-np4)**
 
-Bitcoin is back around $65000 after a weekend drop. On this Outside Money, Cory Klippsten zooms out to why we own Bitcoin in ...
+Bitcoin crashed to $62000, breaking key support as fears of a COVID-level market crash grow. Should you sell Bitcoin before it ...
 
-📺 Swan Bitcoin
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 277 • 💬 18 • ⏱️ 7:16 • 12h ago
+👁️ 42K • 👍 1K • 💬 183 • ⏱️ 17:08 • 20h ago
+
+---
+
+**[Bitcoin&#39;s Worst Selling May Finally Be OVER](https://www.youtube.com/watch?v=ZpI1PYulNdk)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 534 • 💬 76 • ⏱️ 49:13 • 3h ago
+
+---
+
+**[$36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact”](https://www.youtube.com/watch?v=m7ygyYMe3mg)**
+
+James Thorne, Chief Market Strategist at Wellington-Altus, tells BMTV that Bitcoin's super cycle is still intact after the drop from ...
+
+📺 Bitcoin Magazine
+
+👁️ 11K • 👍 231 • 💬 39 • ⏱️ 28:58 • 23h ago
 
 ---
 
@@ -353,7 +355,17 @@ AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/
 
 📺 CryptosRUs
 
-👁️ 49K • 👍 1K • 💬 215 • ⏱️ 13:10 • 1d ago
+👁️ 52K • 👍 1K • 💬 216 • ⏱️ 13:10 • 1d ago
+
+---
+
+**[This Is Going To Be The Craziest Bitcoin News You Hear All Day Things Are About To Get Wild](https://www.youtube.com/watch?v=88vJxQFHF_g)**
+
+This keeps happening over and over and I wonder if people have begun to notice the pattern in all of it. The cryptocurrency market ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 20K • 👍 2K • 💬 170 • ⏱️ 11:50 • 6h ago
 
 ---
 
@@ -363,27 +375,17 @@ Bitcoin has closed red for six weeks running and sits at a three month low. Matt
 
 📺 Yahoo Finance
 
-👁️ 65K • 👍 887 • 💬 183 • ⏱️ 14:49 • 14h ago
+👁️ 74K • 👍 1K • 💬 203 • ⏱️ 14:49 • 1d ago
 
 ---
 
-**[Bitcoin CRASHED Over Weekend: Is There SUPPORT?](https://www.youtube.com/watch?v=HykIaC1c98M)**
+**[CAUTION: Here&#39;s How To Know When The Bitcoin Selling Will Stop!](https://www.youtube.com/watch?v=bA4lYfVb8FQ)**
 
-Bitcoin dumped hard over the weekend. Is there support below, or is it over for the bulls? Nick Valdez, Chief Crypto Strategist for ...
+In today's video Kyledoops shows you the technical set-up for what happens next. Building onto the analysis previously given ...
 
-📺 Verified Investing
+📺 Crypto Banter
 
-👁️ 15K • 👍 515 • 💬 24 • ⏱️ 25:41 • 13h ago
-
----
-
-**[&#39;VERY HOSTILE&#39;: Crypto prepares for &#39;SWEEPING INVESTIGATIONS&#39;](https://www.youtube.com/watch?v=DO6iIRbccIg)**
-
-The Digital Chamber CEO Cody Carbone discusses what Democrat control of Congress means for the crypto industry.
-
-📺 Fox Business
-
-👁️ 66K • 👍 407 • 💬 371 • ⏱️ 3:29 • 19h ago
+👁️ 34K • 👍 1K • 💬 20 • ⏱️ 55:07 • 1d ago
 
 ---
 
@@ -393,27 +395,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 187K • 👍 8K • 💬 440 • ⏱️ 17:36 • 18h ago
+👁️ 214K • 👍 8K • 💬 476 • ⏱️ 17:36 • 1d ago
 
 ---
 
-**[What is Behind the Latest #Bitcoin Selloff?](https://www.youtube.com/watch?v=nlMjgH810RU)**
+**[Bitcoin CRASHED Over Weekend: Is There SUPPORT?](https://www.youtube.com/watch?v=HykIaC1c98M)**
 
-In this update from The News Block, Natalie Brunell breaks down the $2 billion wipeout in borrowed market bets, Strive CEO Matt ...
+Bitcoin dumped hard over the weekend. Is there support below, or is it over for the bulls? Nick Valdez, Chief Crypto Strategist for ...
 
-📺 Natalie Brunell
+📺 Verified Investing
 
-👁️ 16K • 👍 305 • 💬 15 • ⏱️ 1:53 • 13h ago
-
----
-
-**[Raoul Pal: My Final Warning To Crypto Investors in 2027](https://www.youtube.com/watch?v=VQnZuwxci08)**
-
-Raoul Pal reveals his macro outlook for 2027 and best crypto investing strategy (top altcoins) Follow Raoul: ...
-
-📺 Altcoin Daily
-
-👁️ 135K • 👍 3K • 💬 267 • ⏱️ 58:33 • 1d ago
+👁️ 16K • 👍 543 • 💬 45 • ⏱️ 25:41 • 22h ago
 
 ---
 

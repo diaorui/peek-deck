@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-17T08:58:55.688962+00:00'
+updated: '2026-11-17T18:24:13.724598+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 17, 2026 at 08:58 UTC  
+**Last Updated:** November 17, 2026 at 18:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-1d ago
+2d ago
 
 ---
 
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-1d ago
+2d ago
 
 ---
 
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-2d ago
+3d ago
 
 ---
 
@@ -82,7 +82,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -110,11 +110,39 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
+**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
+
+WSJ • 4h ago
+
+---
+
+**[EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise](https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/)**
+
+Reuters • 1h ago
+
+---
+
+**[General Motors is planning a 20% boost in factory robotics by 2028](https://qz.com/gm-factory-robotics-automation-20-percent-2028-111726)**
+
+The automaker is building its own robots at its Kokomo, Indiana, plant and weighing suppliers' automation plans in contract decisions
+
+Quartz • 1h ago
+
+---
+
+**[General Motors plans 20% boost in robotics to cut costs](https://www.detroitnews.com/story/business/autos/general-motors/2026/11/17/gm-plans-20-percent-boost-in-robotics-as-factory-costs-rise/92823834007/)**
+
+General Motors Co. is aiming to increase use of robots and other automation by 20% at its North American factories by 2028.
+
+The Detroit News • 3h ago
+
+---
+
 **[Robo-soldier startup backed by Eric Trump misses payroll, may collapse](https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/)**
 
 Robotics startup misses payroll a year after CEO used funds for luxury home.
 
-Ars Technica • 10h ago
+Ars Technica • 19h ago
 
 ---
 
@@ -122,15 +150,7 @@ Ars Technica • 10h ago
 
 When OpenAI released its Astra model in September, users quickly found that it excelled at tasks that require understanding the physical world. One of those most impressed by its performance was Nvidia’s robotics chief Deepu Talla, who told The Information it is a breakthrough in efforts to ...
 
-The Information • 3h ago
-
----
-
-**[AI Finds 28 Zero-Day Flaws In Physical Robotics Software](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security)**
-
-VicOne’s AI-assisted research reveals what faster zero-day discovery means for robot safety
-
-IEEE Spectrum • 22h ago
+The Information • 13h ago
 
 ---
 
@@ -138,51 +158,29 @@ IEEE Spectrum • 22h ago
 
 One in five Israeli startups is building technology that brings AI into the physical world, putting the country behind only Germany. But an AWS study warns that slow customer adoption is holding back the sector's growth worldwide.
 
-CTech • 20h ago
+CTech • 1d ago
 
 ---
 
-**[Watch China's AI² Robotics On Business Strategy](https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video)**
+**[Robot Makers Sell the Work Instead of the Machine](https://www.pymnts.com/news/artificial-intelligence/2026/robot-makers-sell-work-rather-than-machine/)**
 
-Bloomberg.com • 8h ago
+A warehouse that wants to use a robot usually must buy one. The purchase ties up capital before the machine moves a box, and the cost stays the same
 
----
-
-**[Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins](https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/)**
-
-If you've ever visited Japan, you too may have been left confused and frustrated by what appears to be a total absence of public waste bins.
-
-Good News Network • 18h ago
+PYMNTS.com • 24m ago
 
 ---
 
-**[US’ uncrewed warfare capabilities to get boost with robotic vehicle that offers 5,000-lb payload capacity](https://interestingengineering.com/military/us-uncrewed-warfare-robotic-vehicle)**
+**[Genesis AI raises $500M to deploy glove-wearing robots](https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/)**
 
-Rather than serving as conventional operational vehicles, the robotic ground vehicles will initially function as experimentation and integration testbeds, allowing Marines to evaluate different payloads, sensors and mission configurations.
+Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.
 
-Interesting Engineering • 8h ago
-
----
-
-**[China’s robot makers have more to offer than viral backflip videos](https://www.ft.com/content/13fb1482-46d8-46a8-9163-f2391204319d?syn-25a6b1a6=1)**
-
-Financial Times • 3h ago
+TechCrunch • 4h ago
 
 ---
 
-**[Agile Robots raises $500M to increase production capacity](https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/)**
+**[Scout Robotics launches next-gen railroad technology](https://www.trains.com/pro/freight/scout-robotics-launches-next-gen-railroad-technology/)**
 
-Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands.
-
-The Robot Report • 9h ago
-
----
-
-**[Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)**
-
-OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
-
-Fortune • 3d ago
+Trains Magazine • 10h ago
 
 ---
 
@@ -196,7 +194,7 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 127K • 👍 2K • 💬 459 • ⏱️ 2:12:13 • 15h ago
+👁️ 157K • 👍 2K • 💬 553 • ⏱️ 2:12:13 • 1d ago
 
 ---
 
@@ -206,45 +204,7 @@ Several companies are racing to become dominant forces in humanoid robots, but t
 
 📺 CNET
 
-👁️ 36K • 👍 344 • 💬 35 • ⏱️ 4:02 • 1d ago
-
----
-
-**[El Salvador&#39;s Bukele Unleashes Gun-Wielding Robot Dogs, Haiti Gangs &#39;Surrender&#39; | Vantage](https://www.youtube.com/watch?v=bFX4DdkJFBI)**
-
-El Salvador's President Nayib Bukele has shared footage of his troops carrying out anti-gang operations in Haiti. Salvadoran ...
-
-📺 Firstpost
-
-👁️ 1.5M • 👍 15K • 💬 4K • ⏱️ 5:30 • 3d ago
-
----
-
-**[old intake #vex #vexroboticscompetition #vexrobotics #robot #robotics #robots #override #vexoverride](https://www.youtube.com/watch?v=NykI8pUob78)**
-
-📺 2930B-Blackout 
-
-👁️ 900 • 👍 11 • 💬 1 • ⏱️ 0:15 • 2h ago
-
----
-
-**[The Robot I Found in the Junkyard — He Rebuilt a Broken Machine Into His Best Friend](https://www.youtube.com/watch?v=ClbuMwoJOB8)**
-
-At 25 years old, independent countryside mechanic and engineer Ethan Walker spends his quiet days working in his private rural ...
-
-📺 Technology Next World
-
-👁️ 38K • 👍 97 • 💬 4 • ⏱️ 12:29 • 1d ago
-
----
-
-**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
-
-A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
-
-📺 NBC News
-
-👁️ 33K • 👍 99 • 💬 42 • ⏱️ 1:56 • 6d ago
+👁️ 38K • 👍 359 • 💬 37 • ⏱️ 4:02 • 2d ago
 
 ---
 
@@ -254,7 +214,17 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots How 
 
 📺 PRO ROBOTS
 
-👁️ 6K • 👍 104 • 💬 18 • ⏱️ 22:59 • 5d ago
+👁️ 6K • 👍 105 • 💬 18 • ⏱️ 22:59 • 6d ago
+
+---
+
+**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+
+A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+
+📺 NBC News
+
+👁️ 34K • 👍 99 • 💬 42 • ⏱️ 1:56 • 6d ago
 
 ---
 
@@ -264,27 +234,57 @@ Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid ro
 
 📺 States 2050
 
-👁️ 87K • 👍 1K • 💬 43 • ⏱️ 26:12 • 3d ago
+👁️ 89K • 👍 1K • 💬 45 • ⏱️ 26:12 • 4d ago
 
 ---
 
-**[What Is Holding Back the Future of Medical Robots? | Physical AI](https://www.youtube.com/watch?v=BYH1L7xAGCw)**
+**[The $25,000 Humanoid Robot Is Finally Here! 🤖⚡](https://www.youtube.com/watch?v=7eX1ou9mKEk)**
 
-Which parts of hospital care could robots take on first, and where will human judgment remain essential? Chayan Sarkar of TCS ...
+EngineAI just disrupted the humanoid robotics market with the T-800—a full-sized, 5'8" bipedal robot starting at just $25000!
+
+📺 CodeToCarbon
+
+👁️ 320 • 👍 16 • ⏱️ 0:39 • 38m ago
+
+---
+
+**[Why AI Investors Are Split on the Humanoid Robot Boom | Physical AI](https://www.youtube.com/watch?v=3pwU6XGLk5Q)**
+
+Humanoid robots are attracting big valuations. What do they need to prove before those bets pay off? Nick Grossman of Union ...
 
 📺 Imagination in Action
 
-👁️ 13K • 👍 168 • 💬 60 • ⏱️ 32:11 • 1d ago
+👁️ 16K • 👍 137 • 💬 24 • ⏱️ 37:09 • 6d ago
 
 ---
 
-**[The HARDEST SPEED NERF in War Robots?](https://www.youtube.com/watch?v=xHFod18Fp4g)**
+**[MIT Built a Robot That Folds Itself! 🤯🤖](https://www.youtube.com/watch?v=cgWGoSEyICU)**
 
-War Robots Gameplay: AMMIT Speed nerf hits hard! The hardest nerf aside maybe from the Fafnir flight speed back in the days.
+MIT's tiny robot transforms from a flat sheet into a walking machine using heat! It can move with magnetic control without ...
 
-📺 Manni-Gaming
+📺 Nexio Core
 
-👁️ 18K • 👍 444 • 💬 126 • ⏱️ 15:04 • 1d ago
+👁️ 7K • 💬 2 • ⏱️ 0:07 • 3h ago
+
+---
+
+**[Tesla&#39;s Robot School Is Real: 20,000 Robots Teach Themselves](https://www.youtube.com/watch?v=-YQc4rveiSk)**
+
+Tesla plans an Optimus Academy with between 10000 and 20000 robots practicing tasks all day. I see it as Tesla's answer to the ...
+
+📺 The Electric Viking
+
+👁️ 18K • 👍 309 • 💬 61 • ⏱️ 4:25 • 4d ago
+
+---
+
+**[🚨 Scientists Just Created a Real-Life Terminator Robot? #robotics #robot #airevolution](https://www.youtube.com/watch?v=GW4AJ9TcqnE)**
+
+South Korean researchers have developed a shape-shifting liquid robot that can switch between solid and liquid forms using ...
+
+📺 AI Robotics Madness
+
+👁️ 48K • 👍 946 • 💬 39 • ⏱️ 0:28 • 5d ago
 
 ---
 
