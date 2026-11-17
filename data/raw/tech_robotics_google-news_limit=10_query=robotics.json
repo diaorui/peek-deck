@@ -5,6 +5,26 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEF0S2EzRXozeVdvVHdyTkVCRDF2Z0ZhenNTb09xM3BKU0VVYWFvNXRpa3lEbTlxbTNqTFU2amtzdm9oSzZBRExBNFQxZEVPM0hNNHRrdXFsRGl6cnlkSktyZllqaUtxdkl2LVVQaUtXcWpyUEhKMHZuX2dfVTY0V256Wm80dTU0RkFTQkVIdWxBVGxJWHJHemdrYnRWa2M3bHhxVG9ORC0?oc=5",
+      "pub_date": 1794869907.0,
+      "article_url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+      "description": "Robotics startup misses payroll a year after CEO used funds for luxury home."
+    },
+    {
+      "headline": "OpenAI\u2019s Astra Is a Boon to Robotics, Says Nvidia Robotics Chief Deepu Talla",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGt3bERLTGVHSm5qa3FkaVpYT0lUY0U1SFI5bExEWUY0SW1vNUljcnVtMHZBcHktTjRTTWd1cUtlU1g4UTUtRjJxczJnQ1c0YjBGSnBMSVFEOGE3VXp2czNfVElNSERGdTg3VlFZYTdCUGVic0RNUHN2NGJ5MHJGQm5qTWVZSEpWUnBtNGtLOGtBbHRMU1ZRTUFmNWRkRUk1ODRZS0syQnF5UQ?oc=5",
+      "pub_date": 1794891780.0,
+      "article_url": "https://www.theinformation.com/articles/openais-astra-boon-robotics-says-nvidia-robotics-chief-deepu-talla",
+      "image": "https://tii.imgix.net/production/articles/18187/6c2ef02e-37e8-4afa-bd75-9ebe897ca49a.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "When OpenAI released its Astra model in September, users quickly found that it excelled at tasks that require understanding the physical world. One of those most impressed by its performance was Nvidia\u2019s robotics chief Deepu Talla, who told The Information it is a breakthrough in efforts to ..."
+    },
+    {
       "headline": "AI Finds 28 Zero-Day Flaws In Physical Robotics Software",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -15,32 +35,22 @@
       "description": "VicOne\u2019s AI-assisted research reveals what faster zero-day discovery means for robot safety"
     },
     {
-      "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEF0S2EzRXozeVdvVHdyTkVCRDF2Z0ZhenNTb09xM3BKU0VVYWFvNXRpa3lEbTlxbTNqTFU2amtzdm9oSzZBRExBNFQxZEVPM0hNNHRrdXFsRGl6cnlkSktyZllqaUtxdkl2LVVQaUtXcWpyUEhKMHZuX2dfVTY0V256Wm80dTU0RkFTQkVIdWxBVGxJWHJHemdrYnRWa2M3bHhxVG9ORC0?oc=5",
-      "pub_date": 1794869907.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Israel ranks second globally in physical AI",
       "source": "CTech",
       "source_url": "https://www.calcalistech.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOUFsNVlVRXh5cHU3NGhySkhkOTlGM3RJRm1KUDBVSmFJVmVQRVdaOGhTbXZBS3ZtVkVmY2pfRjk4eWJMdHNDS2ZXQlYzeXNOeFNFcTl5TU1VbTRhQkFBZ2dIRE5ja1U?oc=5",
       "pub_date": 1794831480.0,
-      "article_url": null,
-      "image": null,
-      "description": null
+      "article_url": "https://www.calcalistech.com/ctechnews/article/7cg3rfv6z",
+      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/06/HkdzcyoVWe/HkdzcyoVWe_1_39_1601_901_0_large.jpg",
+      "description": "One in five Israeli startups is building technology that brings AI into the physical world, putting the country behind only Germany. But an AWS study warns that slow customer adoption is holding back the sector's growth worldwide."
     },
     {
-      "headline": "Humanoid Robots: This Company Sells The Body, You Supply A Brain",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUFZdmxneTJ5c2VwTGowM1RGSnFsRnBMUVM3Sl9uMTNfdUUzYmVnWV9wTXhMMFlOakx5UW16bjJWdk9LN3BWMFVDUVZTY01xU1NSbGxmalY3SDJNVFMzc3NhX19KdE44Y0JNb3R5MVdlZU5vUVEtaGxNZVctMEYzVEJtMC1iQk5PVU5POE9VazA5Q1c3bnhUNUVVYTJjQnc0Qy1VaUVzQlNXd3I0X21MSElzU0hXRGM?oc=5",
-      "pub_date": 1794868783.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/16/humanoid-robots-this-company-sells-the-body-you-supply-a-brain/",
+      "headline": "Watch China's AI\u00b2 Robotics On Business Strategy",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjN1b1BaRjRCQk5lRU8xYmZzZHY1VGVPeWtVcEFrQzh4cWlQZ0pDY3ViVEthWTQ0aXdTUExoSVpHa1h0TVdEZlJ2OHlMNjJpZ0dxWld6dUY5VVByS3pULVJudHlVUlJpcy1MTjBiOWpqNjA1UmhFNzlna25OM3RNMTVBNl9IQ1c5OFFHX1pCbTJKcXVTV0RSV25scw?oc=5",
+      "pub_date": 1794873600.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video",
       "image": null,
       "description": null
     },
@@ -55,6 +65,26 @@
       "description": "If you've ever visited Japan, you too may have been left confused and frustrated by what appears to be a total absence of public waste bins."
     },
     {
+      "headline": "US\u2019 uncrewed warfare capabilities to get boost with robotic vehicle that offers 5,000-lb payload capacity",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOE5ienFsa3prMjQ0eVRVU1RDRFROSzBtbHlTTmotbnBjRDJoSFZJclQ4eVRzbmtWNHdkdlNZSEh4Nlh5S21NX2RkekFfOGpqWUZQdFNqSmk1ZkRjVlREZnBlOXVyb2o4a0g3aW5oNHFUUHFENE9CNFgzcENtYnFma0kwOEhfUQ?oc=5",
+      "pub_date": 1794875700.0,
+      "article_url": "https://interestingengineering.com/military/us-uncrewed-warfare-robotic-vehicle",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/battle-vehicle.jpg",
+      "description": "Rather than serving as conventional operational vehicles, the robotic ground vehicles will initially function as experimentation and integration testbeds, allowing Marines to evaluate different payloads, sensors and mission configurations."
+    },
+    {
+      "headline": "China\u2019s robot makers have more to offer than viral backflip videos",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBNdW5UN3BOQ3FDdjVhdm5EbWFUaUFBWjdQSEhiYml2TWl1Uk01Yy1jdlVqbmF6WEdMejFvWWhEOXByZ09ic0hXLVFLMjdyQkxrQnBWclNPZHhwNFhaLW9EZGttcjEwRHQ2VjdBcGVVWHhXVjZzWVVoZHcxT0FaVS1sN2o?oc=5",
+      "pub_date": 1794891614.0,
+      "article_url": "https://www.ft.com/content/13fb1482-46d8-46a8-9163-f2391204319d?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Agile Robots raises $500M to increase production capacity",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -65,46 +95,16 @@
       "description": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands."
     },
     {
-      "headline": "US: Robots play piano and mimic movements of human eyes with artificial muscles",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXpyYjYxT0V6VVJzNG9oektsZEVOTVBHOTE0b1dZUktqNDluYWFkZWxZV3J2QVROWjRRdHNYVmNJS2xraHhrNS1YM2dMN1VMeHZ6X1VmRUVYRW0zM0xZeEwyRnFLNkhBc2ZmWFFUeWRYd25CaERVQUlubjh1bHhOWWQyR0ctZkVtZmR3?oc=5",
-      "pub_date": 1794823620.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
       "pub_date": 1794589500.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "153-Year-Old Builder Taisei Sets Up Fund to Invest in AI and Robotics",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkhIMnBFcURmTmVWczEydEFya09DUE1LTXBXdGNZREk4QXRRQm1UdFVQR3hFVHlObi1ONlRpd3I1bHJvTzRFbWNXMkNkMjhsSy1QRWsxYWl6OTdrb2ttZ01WZHJJRHlZNE5RV0ltbk1wdHRjaHA2UXdQZ1VuRG5qSGtFM3ZQSnlQaUUyUy1Hdjh5WEFDMW1IaDJqOE95dm9DaWdTb2JYSDVXUGpmQVFoTkc2bXdDT0s3UEN4c2lkRQ?oc=5",
-      "pub_date": 1794783715.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "FF EAI Robotics Ecosystem Inc. (FFR) CEO YT Jia Shares Weekly Updates on Robots Delivery to Central Michigan University, Brain Blocks AI Module, and Industrial Scenario Validation",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPVmJMeHdXV0l5X1NKOUcyT3RDaWtmejJqdTdLQWhtZEtFZ2dzRmdqZGc4cnhSc1FmUEJxR1R3NERlZTBPUVMwWUw2RE5sZjJoNkd5NDF3VWVxcGZHQlJvNFl2NDJkRkJkeGpORFFMbWZ4RnN1WWtsOVhqd3VuVTlVazVHSWVVUF9qVFRiWVFYZUlObGZ5bURhWTZwZnlTalM5SVpqUUx6THRyVnJnazQ1SjRsYmFZcHFKMzZSVHdCeEdzUmFTTzR0RWxrLXhYZU1ZUFR4MHdLR2RmcGI2OXFGTW1ZNjR5VEhZZ2tpcUJZSDNHVWZUaTRBMTBaRUNmdFJnREpEUENGaEgtdTBnam9DM21mbXdFT0toWld4WExaT0plZ1QzeV9kVHQ2Q2V1RlNaZlpHMDdKdW1JNlMwZU5WWnN1emJ4c29IZDl3aGoyS3VJa0pHbnc?oc=5",
-      "pub_date": 1794800035.0,
-      "article_url": "https://www.morningstar.com/news/pr-newswire/20261115cn98191/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery-to-central-michigan-university-brain-blocks-ai-module-and-industrial-scenario-validation",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "description": null
+      "article_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
+      "description": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-17T00:58:24.878068+00:00"
+  "fetched_at": "2026-11-17T08:58:49.152277+00:00"
 }

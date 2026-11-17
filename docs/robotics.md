@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-17T00:58:27.452377+00:00'
+updated: '2026-11-17T08:58:55.688962+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 17, 2026 at 00:58 UTC  
+**Last Updated:** November 17, 2026 at 08:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-1d ago
+2d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-1d ago
+2d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-2d ago
+3d ago
 
 ---
 
@@ -110,29 +110,41 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
+**[Robo-soldier startup backed by Eric Trump misses payroll, may collapse](https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/)**
+
+Robotics startup misses payroll a year after CEO used funds for luxury home.
+
+Ars Technica • 10h ago
+
+---
+
+**[OpenAI’s Astra Is a Boon to Robotics, Says Nvidia Robotics Chief Deepu Talla](https://www.theinformation.com/articles/openais-astra-boon-robotics-says-nvidia-robotics-chief-deepu-talla)**
+
+When OpenAI released its Astra model in September, users quickly found that it excelled at tasks that require understanding the physical world. One of those most impressed by its performance was Nvidia’s robotics chief Deepu Talla, who told The Information it is a breakthrough in efforts to ...
+
+The Information • 3h ago
+
+---
+
 **[AI Finds 28 Zero-Day Flaws In Physical Robotics Software](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security)**
 
 VicOne’s AI-assisted research reveals what faster zero-day discovery means for robot safety
 
-IEEE Spectrum • 14h ago
+IEEE Spectrum • 22h ago
 
 ---
 
-**[Robo-soldier startup backed by Eric Trump misses payroll, may collapse](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEF0S2EzRXozeVdvVHdyTkVCRDF2Z0ZhenNTb09xM3BKU0VVYWFvNXRpa3lEbTlxbTNqTFU2amtzdm9oSzZBRExBNFQxZEVPM0hNNHRrdXFsRGl6cnlkSktyZllqaUtxdkl2LVVQaUtXcWpyUEhKMHZuX2dfVTY0V256Wm80dTU0RkFTQkVIdWxBVGxJWHJHemdrYnRWa2M3bHhxVG9ORC0?oc=5)**
+**[Israel ranks second globally in physical AI](https://www.calcalistech.com/ctechnews/article/7cg3rfv6z)**
 
-Ars Technica • 2h ago
+One in five Israeli startups is building technology that brings AI into the physical world, putting the country behind only Germany. But an AWS study warns that slow customer adoption is holding back the sector's growth worldwide.
 
----
-
-**[Israel ranks second globally in physical AI](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOUFsNVlVRXh5cHU3NGhySkhkOTlGM3RJRm1KUDBVSmFJVmVQRVdaOGhTbXZBS3ZtVkVmY2pfRjk4eWJMdHNDS2ZXQlYzeXNOeFNFcTl5TU1VbTRhQkFBZ2dIRE5ja1U?oc=5)**
-
-CTech • 12h ago
+CTech • 20h ago
 
 ---
 
-**[Humanoid Robots: This Company Sells The Body, You Supply A Brain](https://www.forbes.com/sites/johnkoetsier/2026/11/16/humanoid-robots-this-company-sells-the-body-you-supply-a-brain/)**
+**[Watch China's AI² Robotics On Business Strategy](https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video)**
 
-Forbes • 2h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -140,7 +152,21 @@ Forbes • 2h ago
 
 If you've ever visited Japan, you too may have been left confused and frustrated by what appears to be a total absence of public waste bins.
 
-Good News Network • 10h ago
+Good News Network • 18h ago
+
+---
+
+**[US’ uncrewed warfare capabilities to get boost with robotic vehicle that offers 5,000-lb payload capacity](https://interestingengineering.com/military/us-uncrewed-warfare-robotic-vehicle)**
+
+Rather than serving as conventional operational vehicles, the robotic ground vehicles will initially function as experimentation and integration testbeds, allowing Marines to evaluate different payloads, sensors and mission configurations.
+
+Interesting Engineering • 8h ago
+
+---
+
+**[China’s robot makers have more to offer than viral backflip videos](https://www.ft.com/content/13fb1482-46d8-46a8-9163-f2391204319d?syn-25a6b1a6=1)**
+
+Financial Times • 3h ago
 
 ---
 
@@ -148,37 +174,79 @@ Good News Network • 10h ago
 
 Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands.
 
-The Robot Report • 1h ago
+The Robot Report • 9h ago
 
 ---
 
-**[US: Robots play piano and mimic movements of human eyes with artificial muscles](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXpyYjYxT0V6VVJzNG9oektsZEVOTVBHOTE0b1dZUktqNDluYWFkZWxZV3J2QVROWjRRdHNYVmNJS2xraHhrNS1YM2dMN1VMeHZ6X1VmRUVYRW0zM0xZeEwyRnFLNkhBc2ZmWFFUeWRYd25CaERVQUlubjh1bHhOWWQyR0ctZkVtZmR3?oc=5)**
+**[Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)**
 
-Interesting Engineering • 14h ago
-
----
-
-**[Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5)**
+OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.
 
 Fortune • 3d ago
-
----
-
-**[153-Year-Old Builder Taisei Sets Up Fund to Invest in AI and Robotics](https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[FF EAI Robotics Ecosystem Inc. (FFR) CEO YT Jia Shares Weekly Updates on Robots Delivery to Central Michigan University, Brain Blocks AI Module, and Industrial Scenario Validation](https://www.morningstar.com/news/pr-newswire/20261115cn98191/ff-eai-robotics-ecosystem-inc-ffr-ceo-yt-jia-shares-weekly-updates-on-robots-delivery-to-central-michigan-university-brain-blocks-ai-module-and-industrial-scenario-validation)**
-
-Morningstar • 21h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Robotic Deep-Dive: Beating China, the Race Against Tesla, &amp; New Robotics Timeline With Brett Adcock](https://www.youtube.com/watch?v=E864U582FVY)**
+
+The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss the global race in humanoid robotics, how Figure ...
+
+📺 Peter H. Diamandis
+
+👁️ 127K • 👍 2K • 💬 459 • ⏱️ 2:12:13 • 15h ago
+
+---
+
+**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
+
+Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
+
+📺 CNET
+
+👁️ 36K • 👍 344 • 💬 35 • ⏱️ 4:02 • 1d ago
+
+---
+
+**[El Salvador&#39;s Bukele Unleashes Gun-Wielding Robot Dogs, Haiti Gangs &#39;Surrender&#39; | Vantage](https://www.youtube.com/watch?v=bFX4DdkJFBI)**
+
+El Salvador's President Nayib Bukele has shared footage of his troops carrying out anti-gang operations in Haiti. Salvadoran ...
+
+📺 Firstpost
+
+👁️ 1.5M • 👍 15K • 💬 4K • ⏱️ 5:30 • 3d ago
+
+---
+
+**[old intake #vex #vexroboticscompetition #vexrobotics #robot #robotics #robots #override #vexoverride](https://www.youtube.com/watch?v=NykI8pUob78)**
+
+📺 2930B-Blackout 
+
+👁️ 900 • 👍 11 • 💬 1 • ⏱️ 0:15 • 2h ago
+
+---
+
+**[The Robot I Found in the Junkyard — He Rebuilt a Broken Machine Into His Best Friend](https://www.youtube.com/watch?v=ClbuMwoJOB8)**
+
+At 25 years old, independent countryside mechanic and engineer Ethan Walker spends his quiet days working in his private rural ...
+
+📺 Technology Next World
+
+👁️ 38K • 👍 97 • 💬 4 • ⏱️ 12:29 • 1d ago
+
+---
+
+**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+
+A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+
+📺 NBC News
+
+👁️ 33K • 👍 99 • 💬 42 • ⏱️ 1:56 • 6d ago
+
+---
 
 **[Why America Funded a $66 Billion Chinese Robot Company](https://www.youtube.com/watch?v=DEIEYZqRAxo)**
 
@@ -190,91 +258,33 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots How 
 
 ---
 
-**[Humanoid robot competes with humans in Antarctic ultra-marathon](https://www.youtube.com/watch?v=kJawdrOIbyU)**
+**[Tesla’s New Optimus Gen 4 Plan Is Shocking The Entire Robotics Industry!](https://www.youtube.com/watch?v=qBPRmF6QuWs)**
 
-A humanoid goes head-to-head with human runners in an ultra-marathon with sub-freezing temperatures in Antarctica. While its ...
+Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid robots a year—one robot every 3 seconds, day and ...
 
-📺 NBC News
+📺 States 2050
 
-👁️ 33K • 👍 98 • 💬 42 • ⏱️ 1:56 • 6d ago
-
----
-
-**[China Just Revealed What&#39;s INSIDE Its Human-Like Robot…](https://www.youtube.com/watch?v=uutkj8jBnvE)**
-
-China just revealed what is inside XPENG IRON, the ultra-realistic humanoid robot whose human-like walking convinced viewers ...
-
-📺 The AI Nexus
-
-👁️ 44K • 👍 496 • 💬 64 • ⏱️ 15:41 • 6d ago
+👁️ 87K • 👍 1K • 💬 43 • ⏱️ 26:12 • 3d ago
 
 ---
 
-**[Emo Robot from AliExpress: SCAM or REAL?](https://www.youtube.com/watch?v=s4VJZYpoO6I)**
+**[What Is Holding Back the Future of Medical Robots? | Physical AI](https://www.youtube.com/watch?v=BYH1L7xAGCw)**
 
-I bought a fake EMO robot from AliExpress for just $61.78! But is this cheap AI robot actually worth buying, or did I just get ...
+Which parts of hospital care could robots take on first, and where will human judgment remain essential? Chayan Sarkar of TCS ...
 
-📺 Eric’s Tech World
+📺 Imagination in Action
 
-👁️ 9K • 👍 153 • 💬 33 • ⏱️ 17:02 • 2d ago
-
----
-
-**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
-
-Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
-
-📺 CNET
-
-👁️ 34K • 👍 332 • 💬 34 • ⏱️ 4:02 • 1d ago
+👁️ 13K • 👍 168 • 💬 60 • ⏱️ 32:11 • 1d ago
 
 ---
 
-**[Humanoid robots are getting more lifelike](https://www.youtube.com/watch?v=qIhP7wBIolM)**
+**[The HARDEST SPEED NERF in War Robots?](https://www.youtube.com/watch?v=xHFod18Fp4g)**
 
-CNBC's Arjun Kharpal checks out the latest humanoid robots at Web Summit in Lisbon, including a lifelike model from Chinese ...
+War Robots Gameplay: AMMIT Speed nerf hits hard! The hardest nerf aside maybe from the Fafnir flight speed back in the days.
 
-📺 CNBC Television
+📺 Manni-Gaming
 
-👁️ 5K • 👍 33 • 💬 7 • ⏱️ 1:26 • 6d ago
-
----
-
-**[Ring Drone Cam &amp; Rover Cam - HANDS-ON!](https://www.youtube.com/watch?v=1NARFzFzZdo)**
-
-(AD) Ring just unveiled Ring Robotics Drone Cam & Rover Cam - for your home and business! • Ring Drone Cam: ...
-
-📺 The Tech Chap
-
-👁️ 95K • 👍 1K • 💬 204 • ⏱️ 5:28 • 6d ago
-
----
-
-**[This real-life Terminator robot is terrifyingly capable#HumanoidRobot #Terminator #Robotics](https://www.youtube.com/watch?v=tbT4Qf-Z82A)**
-
-📺 KnowNibble
-
-👁️ 4K • 👍 68 • 💬 7 • ⏱️ 0:32 • 22h ago
-
----
-
-**[This Humanoid Robot Just Jumped 7.97 Meters! 🤯🤖](https://www.youtube.com/watch?v=7Zwh23BNcz0)**
-
-Watch Tiangong Ultra perform an incredible running long jump at the 2nd World Humanoid Robot Games in Beijing, China.
-
-📺 Nexio Core
-
-👁️ 60K • 💬 18 • ⏱️ 0:06 • 6d ago
-
----
-
-**[THEY BUILT ROBOTS FOR WAR… BUT WHAT HAPPENS WHEN THEY STOP OBEYING HUMANS? 💀](https://www.youtube.com/watch?v=lTLV7N3ydnM)**
-
-THEY BUILT ROBOTS FOR WAR… BUT WHAT HAPPENS WHEN THEY STOP OBEYING HUMANS? Imagine a battlefield ...
-
-📺 ejunky66
-
-👁️ 90K • 👍 1K • 💬 78 • ⏱️ 0:59 • 6d ago
+👁️ 18K • 👍 444 • 💬 126 • ⏱️ 15:04 • 1d ago
 
 ---
 

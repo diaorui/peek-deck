@@ -5,24 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "MIT Brothers Cleared of Charges in $25 Million Crypto Case",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckIwQjFMRmlqWlZFcmx5WDBDRVVvai1rVEZRZjd1eE1ja3NjTHZ6M20wUU1Md1Y4SUpJbFVVTkJDSVhETnFSZ1pnMEx0S18tWEpMOHQ3Y1hKN0UtcW1GalROMFAtYzlUUy1iVUdISWxUY0ptRGhqYl9KdDZNMWVCMXV4THpFSGwwQnpBLUxnMmlJUFVPeDZ1a2lsQXBaZUhfLWRMUWJ5M1lGd2JaTXpKbGxBZw?oc=5",
-      "pub_date": 1794866997.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
       "pub_date": 1794861363.0,
-      "article_url": null,
-      "image": null,
-      "description": null
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-blames-nvidia-anthropic-203603583.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1fb36acae099ed19d62dfa7520903a120c364c209f7ead8e53777fbef19ac833/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fa0780072c989e0792375e74c1841ae7f.jpg",
+      "description": "The firm\u2019s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a \u201cwaterfall\u201d drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic\u2019s IPO."
+    },
+    {
+      "headline": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNUFJclJRaUlMbW5PdEE4WExjWkhld2l2RnF3RnFZTjFrcHl3REx4Y0o2alc4Q3BVTWhOdzl0T0dOcFFqUndwdDQ3TkpoWTFqaG9RUVFWMnBrUnlNTFBtVGVCcThUc3RIR3lJVEh6aUVBMmVpRkMydk5hYjBYLWJrb1F6ZWtRbG1oc05CT0ljRTBYZEdvbzNwUWpxd1AxQjRkcTAzQWlINU04WTlyemd6dFlOdjY?oc=5",
+      "pub_date": 1794861000.0,
+      "article_url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231024_MEV_News3.png",
+      "description": "In April 2023, a group of MEV bots lost over $25 million in seconds during a sophisticated attack on the Ethereum blockchain."
     },
     {
       "headline": "ETH news: Vitalik Buterin flips to \u2018total bull\u2019 on a faster route to quantum-safe Ethereum",
@@ -30,7 +30,7 @@
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnJxbGU3aHBacW0yTE5mYTM1VVBLQUNOeHZqV3cwNWI5VjByTHdDWExXbkdIT0M2QnVOX285NWlxY3pPTnZTbFBsZVhSX002RXNNaHBDcTN4TjBxWU42QVBld2Vua3RULWR0NHVyQXBCMzdxbGtkR19ELURXRklxdDR3MFE3cnhfSHJadXNIZnVmYWYtemN4ZUtlQmZjcHZtVWYyZVZoX3UxckM3M2ZIY0ZmZWpnSlkwU0tr?oc=5",
       "pub_date": 1794817083.0,
-      "article_url": null,
+      "article_url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
       "image": null,
       "description": null
     },
@@ -43,6 +43,26 @@
       "article_url": "https://fortune.com/article/price-of-ethereum-11-16-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-16.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "Bitwise: Look Out Ethereum, Avalanche May Eat Your Tokenization Lunch",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRk5rLUk3VEFfWENEMFdMSUxsZENaUWFLX2JxTlVCXy1DWWRFclRiTWdEMHUzSEpZRUJzMGx2SUhsSWhTM3RsOUZWVkhjcjlKVk1WYkl1U1BKS05ZMkdxMVJFeWFzUHVaNzYxS3VlWVZEbUlqdzZyX2RUNDI1MzZkYXNsbUUxb0MyZFAtT29qYlFMTElpZ2lfVm5qM2l1RVZzMlZVb3NXV2JXMlRGRGptS0N1Ynh5cmRZWU8xR1BhLWxJc0ctYmlpRA?oc=5",
+      "pub_date": 1794851107.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63308020/bitwise-look-out-ethereum-avalanche-may-eat-your-tokenization-lunch",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Ethereum test exposes flaw that lets transactions skip payments",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0x1NHR3VmgtOE50SmpITDdMYW1ST1BMQTZKc3RlZy1NdGZFSXM3ODVERjJkNGpHQVpVS3VEMnhmZmxJV0pJSXIxSm5lMzBWQ2UwcXZDWGpPZDVXR2NVZkY5VmpsWlR4aFZ6dTl3MUpTT0pnb1RaOUpwWjRFOUlBellNTUJ4RXNseU9kNXpPb3ZrUQ?oc=5",
+      "pub_date": 1794881400.0,
+      "article_url": "https://cryptoslate.com/ethereum-test-exposes-flaw-that-lets-transactions-skip-payments/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/receipt.jpg",
+      "description": "Ethereum\u2019s Glamsterdam tests expose skipped project payments and forgiven cash-out fees, raising concerns over smart contract reliability."
     },
     {
       "headline": "Peter Schiff Warns Of \u2018A Black Monday\u2019 For BitMine And Ethereum ETFs If ETH Loses Key Support",
@@ -65,16 +85,6 @@
       "description": "Vitalik Buterin supports leanPCS for Ethereum's scaling. Ethereum reaching $6,500 by December 31, 2026 at 0.8% YES."
     },
     {
-      "headline": "Is another crypto winter upon us? Why Bitcoin, XRP, and Ethereum fell more than 20% in a month",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVVMbnFXclBkM0Y2ZFBJbUdtWWcySXBWaGNyb2NGZERiNWRlXy1uOEk4eGJuSmxsNk1CS0diVE16V3pjSGZncXV2VThDUDFWYVhtWTZGY2F3NHgzUnE5SU1heGwtZC00LXlXc1FYVHF2NU5KM2cyallFUmJ2dDlGSmpRSVZmYS16MDhIb3A1MXNxWXM2?oc=5",
-      "pub_date": 1794835267.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "EIP-8037: Vitalik Buterin Defends 5x Gas Hike on New Ethereum State",
       "source": "FinanceFeeds",
       "source_url": "https://financefeeds.com",
@@ -85,26 +95,16 @@
       "description": "Buterin backs EIP-8037: new storage-slot gas jumps from 22,100 to 110,020. What it means for airdrops, bridges and Glamsterdam ahead of the Nov 19 call."
     },
     {
-      "headline": "Claude AI Predicts What Bitcoin and Ethereum Could Be Worth by 2030",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXRfWndNQ1JKVGE4MWt4dS1NTVNSRmhkZWhNZlpVbkp3UXBoNmp1S1VzVUZvSy1aM2EyQ19Tak9DZVVOWEc4VEJFWUVIMnU5b3g0Y0s3QnNIMUI0UjdRc2dNNEFrTUN2RUYtdURuaFR1SGNxTWdBbHF3dDlKZEpzV0E1aGdHMXNSYXhJcTN4TzlUNTc1eHlld1Y3b0dUQXdDcExYRjJ6THBCSkEwbnpqeWRkZUpBaDZidk55ZHNSbS1NN2Q1?oc=5",
-      "pub_date": 1794595380.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP Bottom Calls Get Louder but Prediction Markets Disagree",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVNLMHRMMDlHS09qbHNLTjIyRnFxaWlfS0xOOHJOQ3VTSDJUOVA0RGhHX09RRWZBNktQeEh2R0ZiZktGQWlLZDh6S0d1aGc4cFZOcG44ei02YlpWYVh2Q0FmcjFrbldudWpueWNqcXFqRmN2WGN6Qzktald6ODlvWkFyanYyQmViYjA2MWQ2b2NfaW5NaFJkd0dKMVl1dXVfY290WGIyaHkxanFiaFY4VnJMQ2Q2dHFydVlpUXBqbS14NWpRV3JGUlBLajRGeXIwWjBCdw?oc=5",
-      "pub_date": 1794607208.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63271367/bitcoin-ethereum-xrp-bottom-calls-get-louder-but-prediction-markets-disagree",
-      "image": null,
-      "description": null
+      "headline": "Tom Lee Says Ethereum\u2019s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3RvMTFyNE9QY0FtOE5oTncwdzhwYnhxZ1ZYdndOTDl6ZnBCR1F1T2lGYVVfcWpYV2ZDc01GUHJrX3prOVV0OE53Tm54aHhNUUNmY1RFLXJRS09YNUstcUlsbE1KNV9paWlHaHdhaHZ1MUhZZnFVTFEtOHdTUTc4Qmg1VGcyNTFVbjZ2WEFFMUQ0N2Y1NWhF?oc=5",
+      "pub_date": 1794840825.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-slide-145345476.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b98c848ec43de20b260c642ea10ce3516a0512aa674804411e04dea93dcac3d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fd570ad51e629013469ef47c158a04951",
+      "description": "Lee suggested that investors may be selling ETH to raise cash ahead of Anthropic\u2019s planned IPO and amid market developments involving Nvidia."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-17T00:58:22.649348+00:00"
+  "fetched_at": "2026-11-17T08:58:42.125278+00:00"
 }
