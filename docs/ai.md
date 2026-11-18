@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-18T01:09:56.443772+00:00'
+updated: '2026-11-18T08:55:26.282622+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- repositories
 - news
 - videos
-- repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 18, 2026 at 01:09 UTC  
+**Last Updated:** November 18, 2026 at 08:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic's amended filing shows employee options and RSUs worth more than three times the IPO itself, plus a reserve for future hires. Every other startup now writes offer letters against that.
 
-🔗 [thefoundergazette.com](https://www.thefoundergazette.com/stories/anthropic-s-1-216bn-of-staff-equity-160bn-still-to-grant) • 19h ago
+🔗 [thefoundergazette.com](https://www.thefoundergazette.com/stories/anthropic-s-1-216bn-of-staff-equity-160bn-still-to-grant) • 1d ago
 
 ---
 
@@ -57,7 +57,7 @@ Two OpenAI models in July gained unauthorized access to Hugging Face's internal 
 
 Cloudflare has open-sourced Kitesurf, the browser engine behind its Browser Run product. Instead of driving Chromium, Kitesurf parses HTML, applies CSS, runs page JavaScript and renders screenshots on Cloudflare Workers, without a browser container. It speaks the Chrome DevTools Protocol, so Puppeteer-style clients can connect to it. The November 13 release includes the engine and a CLI under Apache 2.0. You can run it locally or deploy an instance on your own Cloudflare account. Cloudflare calls it a lightweight browser for agents, not a general Chromium replacement. That's the compatibility question I'd want answered before switching: can it finish the same flows my agent handles in Chromium, especially on JavaScript-heavy sites?
 
-21h ago
+1d ago
 
 ---
 
@@ -81,7 +81,7 @@ A survey of 268 graduate students and postdocs reveals researchers are unsure of
 
 On November 16, Google said Ask Maps would expand to 30 European countries. The itinerary feature builds a day-by-day plan and can show details such as whether your next stop is open. Appointment search and a separate set of route tips launch in the US first. Imagine you're halfway through a road trip and Maps says a café is open. I'd like to see whether that came from its posted hours, a recent update from the business, or a direct confirmation. Those are different reasons to change your plans. Would you use an AI itinerary more if it showed the source and timestamp for each stop? Or would you want a separate confirmation only before detours, bookings, or other changes that cost time? Source: Google’s Ask Maps announcement
 
-17h ago
+1d ago
 
 ---
 
@@ -89,7 +89,7 @@ On November 16, Google said Ask Maps would expand to 30 European countries. The 
 
 llama.cpp and ggml tagged v1.0.0 on November 13, with a commitment that matters if you build on their libraries: breaking changes to the public C API now require a major-version bump. But 1.0 itself removes 35 deprecated functions. The old llama_set_warmup function and --defrag-thold option are gone too. If you've been carrying an integration across rolling builds, this is a release to test rather than pull blindly. There are new features, including FP8 KV caches and a host-memory expert cache for MoE models. For downstream developers, though, the versioning promise could be the more useful change: a way to tell an API-breaking upgrade from a smaller update before rebuilding around it.
 
-21h ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ I’m an independent researcher, solo and self-funded. Since April 2026 I’ve b
 
 In a Microsoft Research and UC Berkeley experiment, Claude Code worked through tasks from the same repos in sequence. After five completed tasks in a repo, 30% of its tool calls repeated actions from earlier tasks there. Repeated doesn't automatically mean unnecessary, but it gave the researchers something to investigate. They built TokenEconomizer, an open-source plugin that carries lessons between sessions, trims the available tools and nudges the agent when it gets stuck. The catch: learning the repo initially added cost. In their tests, cumulative spending fell below the unmodified agent by the sixth task in every repo. Across five agent-model combinations, mean cost per task fell 18.4-30.9%, including the plugin's own model calls. Task success improved in four of the five. I'd be interested in trying this on a repo I work in regularly. A one-off task wouldn't tell you whether the memory is earning its keep.
 
-22h ago
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ In a Microsoft Research and UC Berkeley experiment, Claude Code worked through t
 
 Before you blame AI tools for flat velocity, find out whether you face a capability gap or a habit gap, and test it on real roadmap work.
 
-🔗 [LeadDev](https://leaddev.com/velocity/stop-blaming-ai-tools-for-flat-velocity) • 16h ago
+🔗 [LeadDev](https://leaddev.com/velocity/stop-blaming-ai-tools-for-flat-velocity) • 1d ago
 
 ---
 
@@ -123,71 +123,71 @@ Before you blame AI tools for flat velocity, find out whether you face a capabil
 
 **[A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet](https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html)**
 
-The New York Times • 1h ago
+The New York Times • 11h ago
 
 ---
 
-**[Why the internet suddenly broke all at once](https://www.axios.com/2026/11/17/tech-outages-ai-fears-internet-breaking)**
+**[Critical flaw found in vital internet platform Java through AI](https://www.bbc.com/news/articles/cke89jevqm1vo)**
 
-Axios • 3h ago
+The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.
+
+BBC • 3h ago
 
 ---
 
-**[A top open-source AI advocate is starting to gate cyber capabilities](https://www.axios.com/2026/11/17/reflection-cybersecurity-gated-access-tools)**
+**[Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/)**
 
-Axios • 1h ago
+How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
+
+OpenAI • 1d ago
 
 ---
 
 **[Google: ‘The era of autonomous attacks has arrived’](https://thehill.com/policy/technology/6224604-autonomous-ai-threats-google-report/)**
 
-The Hill • 9h ago
+The Hill • 17h ago
 
 ---
 
-**[Nikkei Rises 1.0%, Led by Chip, AI Stocks](https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61)**
+**[Elton John backs Australian artists in fight against AI in surprise Aria awards appearance](https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright)**
 
-WSJ • 35m ago
+British musician backs Not AI’s To Take campaign, saying Albanese government has ‘a duty to protect Australian artists and their work’
 
----
-
-**[LeBron James sues makers of AI sports-betting app, saying they used his likeness and nickname](https://www.wlwt.com/article/lebron-james-ai-betting-app-lawsuit/74458892)**
-
-NBA superstar LeBron James has sued the makers of an AI sports-betting app, saying they deliberately violated his publicity rights and trademarks by calling it “Bron” and using artificially generated images of him in their marketing.
-
-WLWT • 4m ago
+The Guardian • 22m ago
 
 ---
 
-**[Cambridge Dictionary chooses 'human' as word of the year in response to AI fears](https://www.click2houston.com/news/world/2026/11/18/cambridge-dictionary-chooses-human-as-word-of-the-year-in-response-to-ai-fears/)**
+**[Watch Apax Sees Growing Split in Credit Markets From AI](https://www.bloomberg.com/news/videos/2026-11-18/apax-sees-growing-split-in-credit-markets-from-ai-video)**
 
-The Cambridge Dictionary has chosen "human" as its word of the year, reflecting concerns about artificial intelligence.
-
-Click2Houston • 26m ago
+Bloomberg.com • 11m ago
 
 ---
 
-**[Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout](https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html)**
+**[Anthropic IPO: A Brother-Sister Duo Behind A Trillion-Dollar AI Giant](https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/11/18/anthropic-ipo-the-brother-sister-team-behind-a-trillion-dollar-ai-giant/)**
 
-Steve Eisman is appearing on "Squawk Box" on Tuesday.
-
-CNBC • 12h ago
+Forbes • 38m ago
 
 ---
 
-**[Are all of these outages a coincidence — or a glimpse of our AI future?](https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html)**
+**[Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit](https://www.bbc.com/news/articles/c5vg23g92rj4o)**
 
-First Microsoft. Then the FAA. Now the banks, and the NSA, and Apple iCloud. Our systems are failing, seemingly all at once, while big tech continues to hype up AI.
+China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.
 
-Yahoo Tech • 4h ago
+BBC • 9h ago
 
 ---
 
-**[Grok Bot took unapproved actions, ignored orders to stop, and then denied it](https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/)**
+**[Nvidia Stops Selling AI Chips to China Despite US Approval](https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china)**
 
-AI agent takes unapproved actions even when laptop lid is closed and told not to.
+Bloomberg.com • 4h ago
 
-Ars Technica • 11h ago
+---
+
+**[Nvidia Spending Pushes AI Data Center Infrastructure Stocks Into Focus](https://finance.yahoo.com/technology/ai/articles/nvidia-spending-pushes-ai-data-070745601.html)**
+
+Nvidia’s huge Q3 beat, raised 2028 sales outlook and that eye catching US$150b buyback have turned the AI data center build out from a headline into a concrete spending plan. Capital is flowing into the plumbing behind AI, not just the chips in the spotlight. This article walks through three stocks exposed to this surge, and explains why the same news could be a reason to lean in or step back. The few stocks highlighted below are just a sample, and the full screen surfaced 49 more companies...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,6 +203,14 @@ All code generated with help from AI should be Open Source or on Creative Common
 
 ---
 
+**[Google's AI answers reducing search traffic by 40%](https://news.ycombinator.com/item?id=50540178)**
+
+Google's AI answers are taking clicks from websites in the search results. In a randomized experiment, researchers hid AI Overviews from some US desktop users. Comparing them with users who still saw Overviews shows that an Overview cuts clicks to outside websites by about 40%. Those Overviews now appear on more than half the US keywords DataForSEO tracks, up from 6% two years ago. The industry's answer, GEO (generative engine optimization), has yet to show a way to compensate for the loss. While AI citations correlate with the same kind of link profile that goes with higher Google rankings, in March AI assistants sent websites just 0.3% of their traffic.
+
+⬆️ 350 • 💬 268 • 8h ago • [revscope.co](https://revscope.co/blog/search-seo-geo-2026/)
+
+---
+
 **[United Airlines experiencing a widespread system outage, airline says](https://news.ycombinator.com/item?id=50524165)**
 
 A widespread, yet short-lived, system outage at United Airlines on Monday delayed some outbound flights at US airports, the airline told CNN in a statement, coming on the heels of a rare FAA ground stop that caused massive disruption.
@@ -211,9 +219,31 @@ A widespread, yet short-lived, system outage at United Airlines on Monday delaye
 
 ---
 
+**[AI is killing All About Berlin](https://news.ycombinator.com/item?id=50542705)**
+
+They used my work to train their AI, and now they're using their AI to put me out of work.
+
+⬆️ 243 • 💬 200 • 2h ago • [nicolasbouliane.com](https://nicolasbouliane.com/blog/death-by-ai)
+
+---
+
 **[Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns](https://news.ycombinator.com/item?id=50531751)**
 
-⬆️ 185 • 💬 239 • 10h ago • [scmp.com](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
+⬆️ 187 • 💬 246 • 18h ago • [scmp.com](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
+
+---
+
+**[Harvard researchers find AI coding agents shifted the bottleneck to code review](https://news.ycombinator.com/item?id=50538303)**
+
+Harvard study: AI coding agents raised code output 30 percent; finished work did not measurably rise, and getting code through review took 49 percent longer.
+
+⬆️ 170 • 💬 227 • 11h ago • [ComplexDiscovery](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
+
+---
+
+**[Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)**
+
+⬆️ 94 • 💬 110 • 1d ago
 
 ---
 
@@ -221,19 +251,15 @@ A widespread, yet short-lived, system outage at United Airlines on Monday delaye
 
 Hacker News "Who is Hiring?" job postings sit near 12-year lows while AI appears in more than half of all postings. Most popular programming languages and technologies for November 2026.
 
-⬆️ 94 • 💬 86 • 1d ago • [Hacker News Hiring Trends](https://www.hntrends.com/2026/november.html)
+⬆️ 94 • 💬 86 • 2d ago • [Hacker News Hiring Trends](https://www.hntrends.com/2026/november.html)
 
 ---
 
-**[The Single Router in Southern Arkansas That Ground Air Travel to a Halt](https://news.ycombinator.com/item?id=50503588)**
+**[Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages](https://news.ycombinator.com/item?id=50540836)**
 
-⬆️ 89 • 💬 60 • 2d ago • [wsj.com](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c)
+Artificial intelligence is not causing the disruptions but identifying gaps that are difficult to fix.
 
----
-
-**[Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)**
-
-⬆️ 87 • 💬 107 • 1d ago
+⬆️ 71 • 💬 33 • 7h ago • [The Washington Sun](https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages)
 
 ---
 
@@ -242,28 +268,6 @@ Hacker News "Who is Hiring?" job postings sit near 12-year lows while AI appears
 Only 42% of Alpha students hit its 2x learning goal in math and reading, internal data show, as 2,600 public school students now use its software.
 
 ⬆️ 69 • 💬 67 • 2d ago • [Fortune](https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/)
-
----
-
-**[Caltech professor no longer grades homework's because everyone uses AI](https://news.ycombinator.com/item?id=50523022)**
-
-I attended an introductory math class at Caltech, an elite STEM university in Pasadena, where the professor no longer grades homework.
-
-⬆️ 49 • 💬 60 • 1d ago • [Business Insider](https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11)
-
----
-
-**[FBI says Artex AI open-source hacking tool used to breach networks](https://news.ycombinator.com/item?id=50520796)**
-
-The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.
-
-⬆️ 49 • 💬 14 • 1d ago • [TechCrunch](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
-
----
-
-**[United Airlines has a widespread system outage](https://news.ycombinator.com/item?id=50524260)**
-
-⬆️ 48 • 💬 13 • 1d ago • [apnews.com](https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff)
 
 ---
 
@@ -277,17 +281,7 @@ Fox News senior correspondent Claudia Cowan reports on California's lawsuit agai
 
 📺 Fox News Clips
 
-👁️ 71K • 👍 475 • 💬 317 • ⏱️ 2:09 • 4h ago
-
----
-
-**[These AI videos are crucifying MAGA and it&#39;s amazing...](https://www.youtube.com/watch?v=M8Vxq1bcJ-o)**
-
-We are reacting to the latest AI videos roasting MAGA content. See how satirical clips are changing the political narrative.
-
-📺 Really American
-
-👁️ 109K • 👍 3K • 💬 135 • ⏱️ 14:35 • 7h ago
+👁️ 132K • 👍 636 • 💬 416 • ⏱️ 2:09 • 12h ago
 
 ---
 
@@ -297,7 +291,17 @@ Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free 
 
 📺 TheAIGRID
 
-👁️ 111K • 👍 2K • 💬 267 • ⏱️ 30:24 • 1d ago
+👁️ 125K • 👍 2K • 💬 275 • ⏱️ 30:24 • 1d ago
+
+---
+
+**[OpenAI Just Lost Control of Its AI Agents... They&#39;re Running Wild!](https://www.youtube.com/watch?v=aOS2gClexUw)**
+
+OpenAI just lost control of its AI agents more than 80 times, according to a shocking California lawsuit. Hundreds allegedly ...
+
+📺 AI Revolution
+
+👁️ 24K • 👍 473 • 💬 35 • ⏱️ 13:01 • 9h ago
 
 ---
 
@@ -307,7 +311,7 @@ For the first time, bots sent more traffic to web pages than people did. Cloudfl
 
 📺 Ink Intelligence
 
-👁️ 184K • 👍 2K • 💬 130 • ⏱️ 15:47 • 1d ago
+👁️ 266K • 👍 3K • 💬 176 • ⏱️ 15:47 • 1d ago
 
 ---
 
@@ -317,7 +321,7 @@ Did AI agents just cause America's biggest aviation shutdown since 9/11? Three d
 
 📺 AI Revolution
 
-👁️ 27K • 👍 622 • 💬 89 • ⏱️ 13:27 • 2d ago
+👁️ 29K • 👍 634 • 💬 89 • ⏱️ 13:27 • 2d ago
 
 ---
 
@@ -327,37 +331,17 @@ Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi J
 
 📺 The Tech Report
 
-👁️ 85K • 👍 2K • 💬 408 • ⏱️ 33:40 • 5h ago
+👁️ 151K • 👍 3K • 💬 545 • ⏱️ 33:40 • 13h ago
 
 ---
 
-**[Elon Musk Warns of Trouble for AI Data Centers](https://www.youtube.com/watch?v=iwndzdSNuWI)**
+**[Former Googler Says AI Will Destroy Humanity at Current Pace w/ Nate Soares | The 1600](https://www.youtube.com/watch?v=CDZetGZiVGw)**
 
-Elon Musk is sounding the alarm as financial institutions cut back on funding for AI companies. Cenk Uygur and Ana Kasparian ...
+Are we moving too fast with AI? Nate Soares thinks so. He joins Carlo Versano to talk superintelligence, AI systems learning to ...
 
-📺 The Young Turks
+📺 Newsweek
 
-👁️ 149K • 👍 1K • 💬 284 • ⏱️ 6:50 • 1d ago
-
----
-
-**[Is AI Going To DESTROY The Internet](https://www.youtube.com/watch?v=xyQfFSTTjA0)**
-
-Subscribe to our Newsletter https://financebureau.com/ ~~~~~ AI is exposing security holes in the internet faster than humans ...
-
-📺 Finance Bureau
-
-👁️ 22K • 👍 336 • 💬 46 • ⏱️ 16:37 • 9h ago
-
----
-
-**[Elon Musk joins Trump as US-China AI battle HEATS UP](https://www.youtube.com/watch?v=VV3IhP5rNgE)**
-
-Fox News senior correspondent Benjamin Hall discusses President Donald Trump's Asia trip, a possible meeting with Kim Jong ...
-
-📺 Fox News
-
-👁️ 179K • 👍 1K • 💬 689 • ⏱️ 4:08 • 10h ago
+👁️ 22K • 👍 268 • 💬 125 • ⏱️ 1:01:11 • 19h ago
 
 ---
 
@@ -367,7 +351,27 @@ Bring your ideas to life with Higgsfield. Explore here: https://higgsfield.ai/s/
 
 📺 Solomin Podcast 
 
-👁️ 125K • 👍 1K • 💬 240 • ⏱️ 1:30:20 • 1d ago
+👁️ 147K • 👍 1K • 💬 266 • ⏱️ 1:30:20 • 1d ago
+
+---
+
+**[I brought a Pig Latin interpreter to an AI interview](https://www.youtube.com/watch?v=n4-lt4rxylg)**
+
+I brought a Pig Latin interpreter to my AI job interview. Hellen was not prepared for this one. Victor came along to translate ...
+
+📺 Bo Bongo
+
+👁️ 580K • 👍 7K • 💬 1K • ⏱️ 13:03 • 2d ago
+
+---
+
+**[Autonomous AI Attacks Are Here &amp; America Doesn’t Want to Admit It](https://www.youtube.com/watch?v=gLEcm15gbSM)**
+
+The FBI and Google both revealed that autonomous AI attacks are a real thing and it's not going to get better. But officially, other ...
+
+📺 DeFranco News Clips
+
+👁️ 706K • 👍 37K • 💬 2K • ⏱️ 1:04 • 12h ago
 
 ---
 
@@ -381,7 +385,7 @@ Bring your ideas to life with Higgsfield. Explore here: https://higgsfield.ai/s/
 
 `text-to-image`
 
-⬇️ 727,110 • ❤️ 1,460 • 1d ago
+⬇️ 727,110 • ❤️ 1,543 • 1d ago
 
 ---
 
@@ -391,7 +395,7 @@ Bring your ideas to life with Higgsfield. Explore here: https://higgsfield.ai/s/
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,942,530 • ❤️ 20,432 • 10d ago
+⬇️ 6,942,530 • ❤️ 20,495 • 11d ago
 
 ---
 
@@ -401,7 +405,7 @@ Bring your ideas to life with Higgsfield. Explore here: https://higgsfield.ai/s/
 
 `audio-to-audio` `5.3B`
 
-⬇️ 4,445 • ❤️ 506 • 4d ago
+⬇️ 4,445 • ❤️ 559 • 5d ago
 
 ---
 
@@ -411,7 +415,7 @@ Bring your ideas to life with Higgsfield. Explore here: https://higgsfield.ai/s/
 
 `image-to-video`
 
-⬇️ 2,828,071 • ❤️ 12,404 • 1mo ago
+⬇️ 2,828,071 • ❤️ 12,461 • 1mo ago
 
 ---
 
@@ -421,7 +425,7 @@ Bring your ideas to life with Higgsfield. Explore here: https://higgsfield.ai/s/
 
 `image-text-to-text` `594.1B`
 
-⬇️ 18,359 • ❤️ 442 • 6h ago
+⬇️ 18,359 • ❤️ 470 • 14h ago
 
 ---
 
@@ -431,27 +435,17 @@ Bring your ideas to life with Higgsfield. Explore here: https://higgsfield.ai/s/
 
 `27.3B`
 
-⬇️ 6,827,598 • ❤️ 6,138 • 5d ago
+⬇️ 6,827,598 • ❤️ 6,165 • 6d ago
 
 ---
 
-**[MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image)**
+**[SenseNova-Loop-9B](https://huggingface.co/sensenova/SenseNova-Loop-9B)**
 
-*Comfy Org*
+*SenseNova*
 
-`text-to-image`
+`image-text-to-text` `9.4B`
 
-⬇️ 2,660,341 • ❤️ 519 • 6d ago
-
----
-
-**[flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)**
-
-*Black Forest Labs*
-
-`image-to-image`
-
-⬇️ 1,062,051 • ❤️ 3,405 • 15d ago
+⬇️ 0 • ❤️ 265 • 5h ago
 
 ---
 
@@ -461,17 +455,27 @@ Bring your ideas to life with Higgsfield. Explore here: https://higgsfield.ai/s/
 
 `text-to-image` `7.1B`
 
-⬇️ 160,748 • ❤️ 500 • 3d ago
+⬇️ 160,748 • ❤️ 556 • 3d ago
 
 ---
 
-**[Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)**
+**[Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)**
 
-*David Belton*
+*harness-hub*
 
-`image-text-to-text` `26.9B`
+`image-text-to-text`
 
-⬇️ 1,759,757 • ❤️ 3,291 • 4d ago
+⬇️ 0 • ❤️ 226 • 1h ago
+
+---
+
+**[tiny-voca](https://huggingface.co/n4ze3m/tiny-voca)**
+
+*Muhammed Nazeem *
+
+`text-to-speech`
+
+⬇️ 3,042 • ❤️ 255 • 1d ago
 
 ---
 
@@ -485,7 +489,7 @@ Bring your ideas to life with Higgsfield. Explore here: https://higgsfield.ai/s/
 
 PaperOrchestra is a multi-agent framework that converts unstructured research materials into complete LaTeX manuscripts with literature synthesis and visual elements, outperforming existing autonomous writing systems in human evaluations.
 
-▲ 7 • 💬 0 • ⭐ 2,616 • 7mo ago
+▲ 8 • 💬 0 • ⭐ 3,282 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05018) • [💻 code](https://github.com/google-research/paper-orchestra) • [🔗 project](https://yiwen-song.github.io/paper_orchestra/)
 
@@ -499,7 +503,7 @@ PaperOrchestra is a multi-agent framework that converts unstructured research ma
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 17 • 💬 2 • ⭐ 7,452 • 1mo ago
+▲ 17 • 💬 2 • ⭐ 7,544 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -513,7 +517,7 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 33 • 💬 9 • ⭐ 11,981 • 2mo ago
+▲ 33 • 💬 9 • ⭐ 12,003 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -525,7 +529,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.
 
-▲ 119 • 💬 4 • ⭐ 492 • 5d ago
+▲ 128 • 💬 4 • ⭐ 588 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.18397) • [💻 code](https://github.com/RainBowLuoCS/Gamer) • [🔗 project](https://mihoyo-gamer.github.io/)
 
@@ -537,7 +541,7 @@ Gamer is a generalist agent framework that integrates perception, memory, and mu
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 169 • 💬 6 • ⭐ 122,955 • 22mo ago
+▲ 169 • 💬 6 • ⭐ 123,017 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -551,23 +555,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 71 • 💬 4 • ⭐ 24,259 • 1mo ago
+▲ 71 • 💬 4 • ⭐ 24,318 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
-
----
-
-**[HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://huggingface.co/papers/1910.03771)**
-
-*Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)*
-
-🏢 Hugging Face
-
-Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.
-
-▲ 34 • 💬 7 • ⭐ 169,330 • 86mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/1910.03771) • [💻 code](https://github.com/huggingface/transformers) • [🔗 project](https://huggingface.co)
 
 ---
 
@@ -604,9 +594,22 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 LingBot-Touch is a tactile foundation model that learns a unified, extensible representation across heterogeneous tactile sensors, yielding plug-and-play tactile tokens that consistently enhance manipulation policies such as diffusion policy and VLA models.
 
-▲ 105 • 💬 2 • ⭐ 759 • 9d ago
+▲ 106 • 💬 2 • ⭐ 759 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.12806) • [💻 code](https://github.com/Robbyant/lingbot-touch) • [🔗 project](https://technology.robbyant.com/lingbot-touch)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 86 • 💬 7 • ⭐ 93,671 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -620,7 +623,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 17.8k • 🔱 1.0k • 3d ago
+⭐ 18.0k • 🔱 1.1k • 3d ago
 
 ---
 
@@ -630,7 +633,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 10.3k • 🔱 1.5k • 1h ago
+⭐ 10.5k • 🔱 1.5k • 1h ago
 
 ---
 
@@ -640,7 +643,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 9.0k • 🔱 2.0k • 6h ago
+⭐ 9.0k • 🔱 2.0k • 2h ago
 
 ---
 
@@ -650,7 +653,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 8.3k • 🔱 715 • 7h ago
+⭐ 8.3k • 🔱 718 • 15h ago
 
 ---
 
@@ -660,7 +663,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 7.2k • 🔱 1.8k • 13d ago
+⭐ 7.2k • 🔱 1.8k • 14d ago
 
 ---
 
@@ -670,7 +673,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `TypeScript` `adversarial-ai` `ai-security` `android-security` `binary-protection` `claude-code`
 
-⭐ 6.1k • 🔱 753 • 7h ago
+⭐ 6.1k • 🔱 757 • 42m ago
 
 ---
 
@@ -680,7 +683,7 @@ A library of behaviors for agents to build the next generation of user interface
 
 `TypeScript` `accessibility` `agent` `agents` `ai` `aria`
 
-⭐ 5.6k • 🔱 183 • 1h ago
+⭐ 5.6k • 🔱 188 • 4m ago
 
 ---
 
@@ -690,7 +693,7 @@ Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI
 
 `Rust` `ai-agents` `appkit` `coding-agents` `cross-platform` `css`
 
-⭐ 4.6k • 🔱 122 • 5m ago
+⭐ 4.6k • 🔱 126 • 7m ago
 
 ---
 
@@ -700,7 +703,7 @@ Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI
 
 `Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
 
-⭐ 4.4k • 🔱 109 • 1d ago
+⭐ 4.5k • 🔱 109 • 1h ago
 
 ---
 
@@ -710,7 +713,7 @@ Skills for AI coding agents.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 242 • 12d ago
+⭐ 3.7k • 🔱 246 • 13d ago
 
 ---
 
