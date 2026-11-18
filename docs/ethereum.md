@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-17T18:24:13.722736+00:00'
+updated: '2026-11-18T01:09:56.453821+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 17, 2026 at 18:24 UTC  
+**Last Updated:** November 18, 2026 at 01:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,786.76
+### $1,826.37
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -12.7%  
-**30d:** -25.5%  
-**90d:** -22.9%  
-**1y:** -42.6%  
+**24h:** +0.2%  
+**7d:** -10.0%  
+**30d:** -25.8%  
+**90d:** -27.8%  
+**1y:** -40.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $218.89B
+**Market Cap:** $221.96B
 Rank #2
 
 **Circulating Supply:** 122,227,436 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.8%
+-63.3%
 
 **All-Time Low:** $0.43
-+413661.4%
++419313.0%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-22h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?
 
-2d ago
+3d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 5d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 6d ago
 
 ---
 
@@ -152,41 +152,19 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence](https://finance.yahoo.com/markets/crypto/articles/binance-hack-wallets-move-137-171841253.html)**
+**[Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip](https://finance.yahoo.com/markets/crypto/articles/tom-lee-blames-nvidia-anthropic-203603583.html)**
 
-A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.
+The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.
 
-Yahoo Finance • 1h ago
-
----
-
-**[ETH news: Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps](https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts)**
-
-CoinDesk • 5h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)**
+**[Tom Lee says Ethereum's 'waterfall decline in price' defies fundamentals as Bitmine adds 7,653 ETH](https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904)**
 
-In April 2023, a group of MEV bots lost over $25 million in seconds during a sophisticated attack on the Ethereum blockchain.
+The Ethereum treasury company added 7,653 ETH last week, bringing its holdings to 6.08 million tokens worth approximately $11.1 billion.
 
-The Block • 21h ago
-
----
-
-**[Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution](https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution)**
-
-A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.
-
-Decrypt • 8h ago
-
----
-
-**[Judge Acquits ‘MEV Brothers’ in $25 Million Ethereum Case, Finding No Misrepresentation](https://www.yahoo.com/news/us/articles/judge-acquits-mev-brothers-25-104549130.html)**
-
-A federal judge ruled prosecutors never showed that Anton and James Peraire-Bueno lied when they drained Ethereum trading bots in 2023, a year after their trial ended with a deadlocked jury.
-
-Yahoo • 7h ago
+The Block • 1d ago
 
 ---
 
@@ -194,7 +172,21 @@ Yahoo • 7h ago
 
 Ethereum has experienced a “waterfall” drop that Bitmine Chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.
 
-Decrypt • 21h ago
+Decrypt • 1d ago
+
+---
+
+**[ETH news: Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps](https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts)**
+
+CoinDesk • 12h ago
+
+---
+
+**[Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)**
+
+In April 2023, a group of MEV bots lost over $25 million in seconds during a sophisticated attack on the Ethereum blockchain.
+
+The Block • 1d ago
 
 ---
 
@@ -202,7 +194,7 @@ Decrypt • 21h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 12h ago
 
 ---
 
@@ -210,7 +202,7 @@ Fortune • 5h ago
 
 Vitalik Buterin's new take is that Ethereum should be considered as a store of value, and that position pits it against Bitcoin.
 
-The Motley Fool • 7h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -218,7 +210,7 @@ The Motley Fool • 7h ago
 
 Leading cryptocurrencies held steady on Monday as investors remained risk-averse after a sharp sell-off.Crypto Market Awaits Relief RallyBitcoin oscillated between $63,800 and $65,500 as traders awaited a rebound that could revive upward momentum. Ethereum failed to break above $1,900, down more th…
 
-TradingView • 16h ago
+TradingView • 23h ago
 
 ---
 
@@ -226,7 +218,15 @@ TradingView • 16h ago
 
 Ethereum’s Glamsterdam tests expose skipped project payments and forgiven cash-out fees, raising concerns over smart contract reliability.
 
-CryptoSlate • 16h ago
+CryptoSlate • 22h ago
+
+---
+
+**[Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps](https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps)**
+
+Ethereum’s upcoming Glamsterdam upgrade threatens to break as many as 15,000 smart contracts, developers warned during a core developer call.
+
+Decrypt • 5h ago
 
 ---
 
@@ -240,7 +240,27 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 📺 Crypto Capital Venture
 
-👁️ 1K • 👍 151 • 💬 23 • ⏱️ 13:24 • 1h ago
+👁️ 11K • 👍 418 • 💬 60 • ⏱️ 13:24 • 8h ago
+
+---
+
+**[Is BMNR &amp; ETH Thesis BROKEN?! (HERE&#39;S WHY)](https://www.youtube.com/watch?v=EdGTjY5UDDM)**
+
+Ethereum has fallen from around $2400 to $1800 in four weeks, Bitmine is at $16.26, and Vitalik Buterin has just said ETH is a ...
+
+📺 Elijah Cheng
+
+👁️ 2K • 👍 33 • 💬 24 • ⏱️ 23:30 • 9h ago
+
+---
+
+**[Can Ethereum Still Outperform Bitcoin?](https://www.youtube.com/watch?v=XDkKT2WhBeo)**
+
+Ethereum is testing the 78.6% retracement at $1724, its last line of defense, and is still following Bitcoin. We analyse Ethereum ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 135 • 💬 7 • ⏱️ 9:37 • 7h ago
 
 ---
 
@@ -250,7 +270,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Don't be Fooled)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 2K • 👍 127 • 💬 55 • ⏱️ 20:17 • 2h ago
+👁️ 9K • 👍 225 • 💬 57 • ⏱️ 20:17 • 9h ago
 
 ---
 
@@ -260,27 +280,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/czPNWoFJ My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 5K • 👍 41 • 💬 4 • ⏱️ 9:28 • 1d ago
-
----
-
-**[LAST CHANCE FOR ETH RECOVERY (Ethereum Price Prediction)](https://www.youtube.com/watch?v=GGmE7tfKeA4)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 381 • 👍 13 • ⏱️ 4:49 • 8h ago
-
----
-
-**[URGENT 🚨 CRYPTO IS COOKED ‼️ XRP ETH BTC](https://www.youtube.com/watch?v=jbb7g_EcDOA)**
-
-1️⃣ *   Trade $25 Get $50!* ➡http://kalshi.com/r/stockmoe 2️⃣ *   Save 40% code MOE is back!
-
-📺 Crypto Moe
-
-👁️ 5K • 👍 173 • 💬 46 • ⏱️ 14:19 • 20h ago
+👁️ 5K • 👍 45 • 💬 4 • ⏱️ 9:28 • 1d ago
 
 ---
 
@@ -290,27 +290,7 @@ We just got some news that has the cryptocurrency market buzzing. Bitcoin is bac
 
 📺 The Modern Investor
 
-👁️ 12K • 👍 781 • 💬 123 • ⏱️ 31:04 • 1d ago
-
----
-
-**[Ethereum at Critical Support: Is the Bottom In?](https://www.youtube.com/watch?v=xHijY6NkGtk)**
-
-Ethereum has reached the 78.6% retracement at $1724 on the daily chart, but there is still no sign of a low. We analyse Ethereum ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 186 • 💬 19 • ⏱️ 7:31 • 21h ago
-
----
-
-**[BMNR Holders: ETH and Bitcoin Just Flashed a MASSIVE Buy Signal!](https://www.youtube.com/watch?v=Y0OmRHnjhs8)**
-
-BMNR HOLDERS - Tom Lees Thoughts on NVIDIA stock, NVDA news, Jensen Huang, Banks outage good for ETH and BTC?
-
-📺 Big Time Trades
-
-👁️ 3K • 👍 71 • 💬 29 • ⏱️ 22:45 • 18h ago
+👁️ 12K • 👍 788 • 💬 121 • ⏱️ 31:04 • 1d ago
 
 ---
 
@@ -320,7 +300,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 57K • 👍 468 • 💬 38 • ⏱️ 21:54 • 2d ago
+👁️ 62K • 👍 494 • 💬 33 • ⏱️ 21:54 • 2d ago
+
+---
+
+**[ETH Crash: 2022 All Over Again? Remember what comes next..](https://www.youtube.com/watch?v=HvR-NwyiLLQ)**
+
+WEEX - where my trades go ($200 bonus when you sign up and deposit $50 or more, T&Cs apply) https://marzell.org/wx-v115 ...
+
+📺 Marzell Crypto
+
+👁️ 1K • 👍 18 • 💬 1 • ⏱️ 4:21 • 1d ago
+
+---
+
+**[LAST CHANCE FOR ETH RECOVERY (Ethereum Price Prediction)](https://www.youtube.com/watch?v=GGmE7tfKeA4)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 605 • 👍 14 • ⏱️ 4:49 • 15h ago
 
 ---
 
@@ -330,7 +330,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 11K • 👍 134 • 💬 51 • ⏱️ 11:46 • 2d ago
+👁️ 11K • 👍 139 • 💬 51 • ⏱️ 11:46 • 2d ago
 
 ---
 

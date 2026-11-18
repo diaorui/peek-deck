@@ -89,20 +89,6 @@
       "site_name": "X (formerly Twitter)"
     },
     {
-      "title": "Digital Forensics Case (Who Tried to Trade Bitcoin)",
-      "url": "https://luthmann.substack.com/p/rape-or-setup",
-      "hn_url": "https://news.ycombinator.com/item?id=50447845",
-      "author": "MrTofErran",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-10T23:35:03Z",
-      "object_id": "50447845",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "luthmann.substack.com"
-    },
-    {
       "title": "Ask HN: What use are the non-major cryptocurrencies?",
       "url": "https://news.ycombinator.com/item?id=50493695",
       "hn_url": "https://news.ycombinator.com/item?id=50493695",
@@ -143,9 +129,23 @@
       "description": null,
       "favicon": null,
       "site_name": "wsj.com"
+    },
+    {
+      "title": "My nail biting has been cured \u2013. By manicure?",
+      "url": "https://devz.cl/posts/my-nail-biting-has-been-cured-by-manicure/",
+      "hn_url": "https://news.ycombinator.com/item?id=50518150",
+      "author": "DanielVZ",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-11-16T14:47:13Z",
+      "object_id": "50518150",
+      "image": null,
+      "description": "This will be a short post but I can\u2019t not share it. I\u2019ve been biting my nails for as long as I can remember. It\u2019s never been a big issue besides the obvious occasional nuisance of not having nails long enough for mechanisms that require fingernails to be operated.\n\nNote: Here\u2019s a list of stuff I had to operate with help of a knife or spoon, or find a workaround:\n\nNintendo Switch: Kickstand & MicroSD Slot\nSoda & Sparkling Water Can Tabs (the workaround is to slightly raise it by pressing my thumb on the opposite end of the tab)\nPlastic Film Seals, Stickers, Scotch tape, etc\nTiny Necklace Clasps\nI always had trouble lifting thin card-like objects from a flat surface",
+      "favicon": "https://devz.cl/images/stille.webp",
+      "site_name": "devz.cl"
     }
   ],
   "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2026-11-17T18:23:33.643508+00:00"
+  "fetched_at": "2026-11-18T01:09:19.622979+00:00"
 }
