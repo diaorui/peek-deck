@@ -5,14 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
+      "headline": "GTA 6 Is Winning Over Gamers: Can Take-Two Stock Beat Bitcoin Next?",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMXh0OWhfcUVvNS1JYTFqVzA5WTJ3THQwUjJtdXNSUTY5cHdHMm9GX1lueGo3NmVCN0FQMVZFM21odE5aaHNUenZlWnp2WUJtaGlGb3VLSV95cHp6MjRaZXlid3Q4R3RabHZQS3RpenktWmFZNUFJQWwzNVBheGxkRWRBRjlzellNeWMyUzV4MzdCbUhGM3ZtOVYxY0ZNNjZVWGRQVE9GdVBza2tiRFhlMkZpc2FpaEZ2RlZ4SUYxeEhYQjF6Y0E?oc=5",
+      "pub_date": 1795028408.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63405917/gta-6-is-winning-over-gamers-can-take-two-stock-beat-bitcoin-next",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "CryptoQuant says bitcoin is back in a bearish phase but has reached a 'value zone'",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBtamhER2IwUk1GU3dDMnh1c1hrQmxDSE1TeVdDYU5YR1M3X3hjOU9FYVhmMUNwUk9sanhSSW1wUmNkYlhVUWNDejlQUkotNmV1cTdXMWo3SWZSLUNCNUl1SWszWUljZFQyTTNmSXlVeldaN19nSGNQbDJ0YUE4R1Y2NkZnMm13MURnUzNNbGJfekZObUxkXw?oc=5",
+      "pub_date": 1795021980.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-12.21.14.png",
+      "description": "Onchain and technical indicators now place bitcoin back in a bearish phase, CryptoQuant said, noting that bitcoin demand growth is contracting at the fastest pace since July."
+    },
+    {
+      "headline": "Analyst warns Anthropic IPO is pulling money out of Bitcoin",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDZKU0tqRWMydE1SWkpCSEVVLWRfTG9Vak00b2s5VElrTjFyVi03SzhSektwRHNGZGIzX2ZHeVNaUU9xQURpZ0NrWmpCeDVKUUtDRlBFU2lid1EtdUkzaEVCT2ZUTEVzb1lWRjkxSU5pNUJMUWZJVWdnSFRXME1LVzA2SnoxUmJqejhR?oc=5",
-      "pub_date": 1794995109.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-erases-bessent-rally-leverage-094509953.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/20489198fdd4b6a706efea7c67c814fe1472083f7cf7549f7847f951dd0e0411/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fc478921ae8adbd22d59f98e001e3fcf7.jpg",
-      "description": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1UxdkVjSHczRk5LdERTTkFWVlVOVGVjUjNqekl4UncxVnBva0k2U0tHQjZ5Q1pCSE53MUVlWVlHaENWNHJwMmNpbGFLLTU2SWlMUy1aNl91SDg0cWlLenU3MFFjTUcyaVNUWm43aDB6T2ZvMzZ6cnBXSWxSMHAxRVVaa212MnpRb1NHNGQ3TnhZbjIwWXFzUkhkR203UDFtT3c?oc=5",
+      "pub_date": 1795041957.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/analyst-warns-anthropic-ipo-pulling-224557665.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b12a526e2ec7761d48240bc08ebc804326c945c1801a86fbb74d42191a8c2614/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fafdf16d3dd1fbfd2a384cb95b56995f4.jpg",
+      "description": "Bitcoin\u2019s two-month slide has one analyst urging patience, while another sees an upcoming market debut as the real test."
+    },
+    {
+      "headline": "Crypto Market Today, Nov. 18: Bitcoin's 12% Weekly Plunge Has Triggered a Rare Signal With a Surprising History",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2FhRzFkREVzd1NQVDdjQ3NmZldlQWJRY1IwQk95VXVWUy0yd2QtaE5vRjZpQjVTNXU2NFV1ckN6NlRBcEY3VDdHaFRQS3F6Rm5PamMwbzI0VXJMZmRmUnpyUWhHZkdmUjVOREhsOWk5VnByVmQyRXhOZUwtMkdUZnZtZ1k3QU5jM0NNM2ZWZDExVTR5b3c?oc=5",
+      "pub_date": 1795041902.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-18-224502946.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0c0183ee1dad1d779ef7ab538ed3157e06c552457ef1a04b8cdb4e5c6340ee2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fba1ae2338d3ef9a5a071fd9ed1fe958d.jpg",
+      "description": "As liquidity continues to evaporate from cryptocurrency markets, Bitcoin is testing a long-term technical benchmark that has historically helped investors identify periods of extreme market weakness."
     },
     {
       "headline": "Trump Media investors learn the Truth about betting on bitcoin",
@@ -25,14 +55,24 @@
       "description": null
     },
     {
-      "headline": "Blaming Anthropic\u2019s IPO for bitcoin\u2019s slide is 'easy to believe,' but flawed, analysts say",
+      "headline": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLWxMY2I3MW5RRWZIYkdBU1RVTlc3aC1IcHRmb2F0cmtGcFo1eUd3NFoxdlFCelJxU3huVG56dDVCZWxRSEJUR1JPM3RvYjRXMWlKc2hxb3pLM0NtVlVreUdqNlhkbmo5TVZxeFR6aDRpTHZlZldTLWtja3Zkb3VpOFdELXNmU3RFbVZYVmxiZkVRTGU1LU5UUmZUbkJJRGlLNHZnVTJGSnViTjFSNjRCOHdpRGlvOG5QTHoxamFZMFZ3V3FUNWRBWGJJZEtYZw?oc=5",
-      "pub_date": 1795004100.0,
-      "article_url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOckM5LVhoT2ZENlJWcDdnSEhEcnExS0ZKLVdMdEhpR3BCS3hseGhQTnZ3TTZ1TDZXLXRwb196X3I3Y3I4bEhtWkpWcEZLSTluLUhnRUxUU2E0X0NacjREOS1FRTZ0NjdpUHpfWkRGbUVocTdsYUtrRWN3UGhlNmw2c1N2UndQOUFPdktfczM2RWpadmQ4YjNaTFlfdFk4OE52THdDZzVYMEo3UVlKVm51V1o0c05aNHZzMlRBQ0gyOER6RGRqMlZyaFBYMXZ3MXpiWnE1aQ?oc=5",
+      "pub_date": 1795016318.0,
+      "article_url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "If You Invested $100 in Bitcoin When Rockstar First Confirmed GTA 6, Here\u2019s How Much You\u2019d Have Today",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHR5MEVwOWZmTkg1WVBoY290U0tyc1VnamV0TkVLbHZwVHNudG5wa0dwWmRoS2F0WUl0RkEwdUdWNVdsRlpGZXR5MUpaZzM2R1pJanJQaENtS2RYbnhMYlpTZ1BiQnBhRFVpOUI3SHhVSWI3YUEyb2dZcTRLME9HRS1jVG9MOHZ0N1V0S2YtT3pESUlPYnRMc1VERW15bEFXbnhydnluOE5xWHhxYUtEMHdiemlFZnhBTlRzaFl3ZjZ3YjYxOFptSzQtaHFDcWkwMkREVFZ4Y2R2MUZibFNXWUtJSlJNZHRSd0R1SHB5aw?oc=5",
+      "pub_date": 1795039210.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:2b373b44c094b:0-if-you-invested-100-in-bitcoin-when-rockstar-first-confirmed-gta-6-here-s-how-much-you-d-have-today/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "$100 in Bitcoin CRYPTO:BTCUSD on the day Rockstar first confirmed GTA 6 would be worth $154.70 now, as the game rolls out worldwide this week.The Wild Ride While Fans WaitedRockstar told fans on Feb. 4, 2022, that \"the next entry in the Grand Theft Auto series is well underway,\" back when Bitcoin t\u2026"
     },
     {
       "headline": "Worker hijacked 100 computers at Upstate NY Bitcoin mine, stole $53K, feds say",
@@ -45,66 +85,26 @@
       "description": null
     },
     {
-      "headline": "As Retail Traders Prep for Anthropic IPO, Crypto Losses Pile Up",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVM1bll1SG1zMDVKa0ZTMzhLY29XYmxwaWFnc0h0aVZ4QXNjREtBd0RDa1BXNENFb21PVkZvUllvalFPNmFHS3BQSm5ZU0JQVGxqamNPLTBuc1E5WWYzVksyOVNCS0hEblpzVVNPdllzU29UUmZZMlBpazNqMk5OLTNHdnF3SkEyaGZBX01DZFBxSHhuYm9ZOHliYVQ3MDRJLVBFZ2pBUUNVa3pRUjh2V2poSQ?oc=5",
-      "pub_date": 1794950177.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-17/as-retail-traders-prep-for-anthropic-ipo-crypto-losses-pile-up",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'Gift from the market': Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd1ZURVhyWTVxWDZGSzJnVkRGeXhveHJyV2FVODhCazBDOWNGOE44ckN6V0p0ZVY0RXlrYWpEVUMxWTN0OG5LazlFOG9sdkJiVmZQdWk4VGtZZjRqZUJnOW9RUjBnQ0xEQTU2VDVPWUZSeUJPQTdmb3hqLUREVU5vUUhQN3lhNUw2cHFLNWVLUW4yM19KTkhBVjNiWmdjR25NbG05bTlOOXBjcTRsUzlqQVgxSWs4dGxIcTIzYnc4NVJyZUFYNFQ5RWJSTjBoYU03SVBEQWxERnBGSmFXWGdMMUR3bG9zeE0?oc=5",
-      "pub_date": 1795010460.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/workflow_Article-cover-image-Free-metaphor-choice_2026-11-18_13-40-40.png",
-      "description": "K33's Vetle Lunde said bitcoin was an attractive buy below $70,000, while Glassnode said buying demand remains thin."
-    },
-    {
-      "headline": "Bitcoin, stocks wobble as Fed\u2019s Waller talks of \u2018shock\u2019 50-point rate hike",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnhNN25WSW5XS3piX2hVa25rbUFvRWdsRUdrS0FIWEdVaHdUV2x5ajNVUS1iTHFfRV9KWFFMMEhOU09IOUluUWJKRzAtM0RVbW1GR1dRRVR3akdpMGtwUTFTTWg1d3EzNVlpNDItUmdoT2tldzJ0YlpSVUgzTnlYRzNwRFJuYmx6cm1Dem5wSVQ2RmVoRFFaeXNzZzZSVHltMjc3NDF5MW1OSXl4TGtmTnAyNkt3MWxRajZaMVRKbW11U3NPckExNTI3akRXazFW?oc=5",
-      "pub_date": 1795019660.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:961304b12094b:0-bitcoin-stocks-wobble-as-fed-s-waller-talks-of-shock-50-point-rate-hike/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin dropped below $63,000 after Wednesday\u2019s Wall Street open as US stocks dipped on inflation concerns.Key points:Waller: Fed may need to perform interest-rate \u201cshock\u201dData from TradingView showed Bitcoin BITSTAMP:BTCUSD trading down 3% on the day, having incrementally sold off in the hours prio\u2026"
-    },
-    {
-      "headline": "Nvidia earnings and the Anthropic IPO could mean new trouble for bitcoin",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHJfOWwzMGRWZ1RIR04yUGU0NnV0ZGhxU0tXb1JzSEh5eGhwNTNIMGV4WngxdmthclVpemxSc0syUjhveDVrQnY5NHcyeUlkbTdFU1FXYjJ2QTRmSTNJdVBTYlhRcjM1M0ZTTV9BcGk0cnJjUWpSU25mX1o3dk53QmgySS1HelhKeFQyY2hzOFJSY2VoVnhMM1BqUkg?oc=5",
-      "pub_date": 1794937740.0,
-      "article_url": "https://www.businessinsider.com/nvidia-earnings-anthropic-ipo-bitcoin-price-btc-ant-nvda-2026-11",
-      "image": "https://i.insider.com/6afc933968dc6b6660b83bf8?width=1200&format=jpeg",
-      "description": "Amid Anthropic IPO hype and Nvidia earnings angst, bitcoin and other cryptos are exposed to new market headwinds this week."
-    },
-    {
       "headline": "Bullish Stock Jumps On Earnings, Revenue Gains. Board Approves $300 Mil Buyback Plan.",
       "source": "Investor's Business Daily",
       "source_url": "https://www.investors.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDU4SHFvMmlwMlhBYWxCTXM4ZF9FQ3NUSG1ZXzZPd3FMLW5sdmY2WXEwQ1RmdU1sUzlwcFpzUU80QXZRLTNGR1ZKV1RkUF91cThNWWRqNnhsdTN4eVBzOTRqQWVBS3FLSzRkSUJCVml6bjdhOTJadEJJbXc4NEdGUnV0VkRWRlh1SEJBMllwck41dWdTbmJiT2dsRmlyTE5tLVVxQ0tDeVNzSm8?oc=5",
-      "pub_date": 1795015020.0,
+      "pub_date": 1795036440.0,
       "article_url": "https://www.investors.com/news/bullish-earnings-q3-2026-blsh-stock-tokenized-stocks-bitcoin-cryptocurrency/",
       "image": "https://www.investors.com/wp-content/uploads/2017/10/Stock-bitcoin-03-Shutter.jpg",
       "description": "Bullish earnings, revenue surge despite falling crypto prices. The exchange approved a $300 million buyback plan. BLSH stock bucks mixed crypto performance."
     },
     {
-      "headline": "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzdTTkZ2VlJjWjhRRHE0aGFVbE1WUzlUSVJpQnB2N3lRZmxaTVQtMk0yRWJWMWJXcWFCR0F5WHFfWDRLV2RlS0tWLW5CeXR1WVRJU3hDeG9iXzFIM1k0dDRldW5UNEY2d1lhaUVMUFBNVlR0XzUybFo3Zk5uWVIyLVhHM1BTWHhYd2gwTEJyS0NOb2xiSmRuOXV2cUV6eGpRdzJmN0tsRW0?oc=5",
-      "pub_date": 1795007400.0,
-      "article_url": "https://www.fool.com/investing/2026/11/18/prediction-this-cryptocurrency-will-outperform-bitcoin-in-2027/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa76bbb62274baa18ef26b6a51e568fb051e6e48a-3840x2160.jpg&w=1200&op=resize",
-      "description": "Solana has a track record of significantly outperforming Bitcoin during bull market cycles."
+      "headline": "Bitcoin sell-off deepens as 51% of supply falls underwater",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRk5md2xOY2lRUFNzVzk4b0MxZGN6Z3p1Tzd3bEFicDlsanVRcTVFVGN4bXp3ZzhUV0NiYzU5XzhaNDhnMWdPU2FzTllfQkUtaDEzYWVWbzRjNmR2VThsLXBnczlVOXVUSnV4UUR0czJCbE1DanpsVkE4LXVJcnM0bTRLSlZKWTc0dFJqWkgyYWVueGg3aWlpbzdjZkoyeTRxei1KeEdMbVJtQ2lXSExTc2F6UkZOOHpm?oc=5",
+      "pub_date": 1794951798.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-sell-off-deepens-as-51-of-supply-falls-underwater-202611172143",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-18T17:50:08.076517+00:00"
+  "fetched_at": "2026-11-18T23:57:29.648648+00:00"
 }

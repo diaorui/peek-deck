@@ -16,7 +16,7 @@
       "num_comments": 0,
       "published_at": "2026-04-05T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/paper-orchestra",
-      "github_stars": 3282,
+      "github_stars": 4063,
       "project_page": "https://yiwen-song.github.io/paper_orchestra/"
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2610.22732",
       "arxiv_url": "https://arxiv.org/abs/2610.22732",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22732.png",
-      "upvotes": 17,
+      "upvotes": 18,
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2611.23144",
       "arxiv_url": "https://arxiv.org/abs/2611.23144",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.23144.png",
-      "upvotes": 12,
+      "upvotes": 13,
       "num_comments": 1,
       "published_at": "2026-11-16T19:00:00.000Z",
       "github_repo": "https://github.com/yyfz/Pi4",
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2609.18063",
       "arxiv_url": "https://arxiv.org/abs/2609.18063",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 33,
+      "upvotes": 34,
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
-      "github_stars": 12003,
+      "github_stars": 12013,
       "project_page": null
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2611.18397",
       "arxiv_url": "https://arxiv.org/abs/2611.18397",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18397.png",
-      "upvotes": 129,
+      "upvotes": 130,
       "num_comments": 4,
       "published_at": "2026-11-12T19:00:00.000Z",
       "github_repo": "https://github.com/RainBowLuoCS/Gamer",
@@ -111,7 +111,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 123017,
+      "github_stars": 123068,
       "project_page": null
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 93723,
+      "github_stars": 93766,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-18T17:49:48.633904+00:00"
+  "fetched_at": "2026-11-18T23:57:12.669155+00:00"
 }
