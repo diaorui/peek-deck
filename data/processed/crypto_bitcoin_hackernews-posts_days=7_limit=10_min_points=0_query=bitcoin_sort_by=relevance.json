@@ -61,6 +61,20 @@
       "site_name": "starlight-ai.freemyip.com"
     },
     {
+      "title": "Show HN: TimestampGit \u2013 1-click GitHub App that anchors commits to Bitcoin",
+      "url": "https://timestampgit.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=50547352",
+      "author": "ruedigerjungbec",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-18T15:18:52Z",
+      "object_id": "50547352",
+      "image": null,
+      "description": "TimestampGit \u2014 OpenTimestamps and blockchain timestamp verification: how to prove code existed at a specific time. Automatically anchors Git commits to Bitcoin.",
+      "favicon": "https://timestampgit.dev/favicon.svg",
+      "site_name": "timestampgit.dev"
+    },
+    {
       "title": "What's New on Bitcoin",
       "url": "https://news.ycombinator.com/item?id=50532614",
       "hn_url": "https://news.ycombinator.com/item?id=50532614",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": null,
       "site_name": "wsj.com"
-    },
-    {
-      "title": "My nail biting has been cured \u2013. By manicure?",
-      "url": "https://devz.cl/posts/my-nail-biting-has-been-cured-by-manicure/",
-      "hn_url": "https://news.ycombinator.com/item?id=50518150",
-      "author": "DanielVZ",
-      "points": 2,
-      "num_comments": 1,
-      "created_at": "2026-11-16T14:47:13Z",
-      "object_id": "50518150",
-      "image": null,
-      "description": "This will be a short post but I can\u2019t not share it. I\u2019ve been biting my nails for as long as I can remember. It\u2019s never been a big issue besides the obvious occasional nuisance of not having nails long enough for mechanisms that require fingernails to be operated.\n\nNote: Here\u2019s a list of stuff I had to operate with help of a knife or spoon, or find a workaround:\n\nNintendo Switch: Kickstand & MicroSD Slot\nSoda & Sparkling Water Can Tabs (the workaround is to slightly raise it by pressing my thumb on the opposite end of the tab)\nPlastic Film Seals, Stickers, Scotch tape, etc\nTiny Necklace Clasps\nI always had trouble lifting thin card-like objects from a flat surface",
-      "favicon": "https://devz.cl/images/stille.webp",
-      "site_name": "devz.cl"
     }
   ],
-  "total_hits": 13,
+  "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-11-18T08:54:44.221386+00:00"
+  "fetched_at": "2026-11-18T17:49:40.299785+00:00"
 }

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-18T08:55:26.294787+00:00'
+updated: '2026-11-18T17:50:15.682981+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 18, 2026 at 08:55 UTC  
+**Last Updated:** November 18, 2026 at 17:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-2d ago
+3d ago
 
 ---
 
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-2d ago
+3d ago
 
 ---
 
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-3d ago
+4d ago
 
 ---
 
@@ -82,7 +82,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -114,33 +114,63 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 Discover Gemini 4 Hydrogen: a fast, cost-effective model for robotics featuring real-time spatial reasoning, agentic control, and seamless integration with the Antigravity Robotics plugin and MuJoCo simulation.
 
-Google for Developers Blog • 15h ago
-
----
-
-**[French robot maker Genesis raises $500 million at $3.5 billion valuation](https://www.reuters.com/business/finance/french-robot-maker-genesis-raises-500-million-35-billion-valuation-2026-11-17/)**
-
-Reuters • 18h ago
+Google for Developers Blog • 1d ago
 
 ---
 
 **[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
 
-WSJ • 18h ago
+WSJ • 1d ago
 
 ---
 
-**[Genesis AI raises $500M to deploy glove-wearing robots](https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/)**
+**[Get ready for humanoid robots, says He Xiaopeng](https://www.economist.com/the-world-ahead/2026/11/18/get-ready-for-humanoid-robots-says-he-xiaopeng)**
 
-Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.
-
-TechCrunch • 18h ago
+The Economist • 7h ago
 
 ---
 
 **[EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise](https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/)**
 
-Reuters • 14h ago
+Reuters • 23h ago
+
+---
+
+**[China Rules the Robots. Here’s What They Can Do](https://www.bloomberg.com/news/articles/2026-11-18/china-robot-advances-offer-more-hardware-forward-path-for-ai)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/?post_type=news&p=11212)**
+
+Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
+
+Boston Dynamics • 1d ago
+
+---
+
+**[Nvidia tells robotics startups they have its support as questions swirl about its investment strategy](https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11)**
+
+After Jensen Huang's exit, Nvidia contacted robotics startups to reassure them of its support amid questions about its investment strategy.
+
+Business Insider • 22h ago
+
+---
+
+**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+
+Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+
+TechCrunch • 6h ago
+
+---
+
+**[Inside China's relentless race to develop humanoid robot helpers and get them into our homes](https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/)**
+
+China is racing to make humanoid robot helpers common home appliances, and one industry insider says they have an "edge globally."
+
+CBS News • 2h ago
 
 ---
 
@@ -148,37 +178,7 @@ Reuters • 14h ago
 
 Boston Dynamics’ Atlas humanoid will start its first trials outside the automotive industry at a semiconductor manufacturer in early 2027.
 
-The Robot Report • 17h ago
-
----
-
-**[OpenAI’s Astra Is a Boon to Robotics, Says Nvidia Robotics Chief Deepu Talla](https://www.theinformation.com/articles/openais-astra-boon-robotics-says-nvidia-robotics-chief-deepu-talla)**
-
-When OpenAI released its Astra model in September, users quickly found that it excelled at tasks that require understanding the physical world. One of those most impressed by its performance was Nvidia’s robotics chief Deepu Talla, who told The Information it is a breakthrough in efforts to ...
-
-The Information • 1d ago
-
----
-
-**[Nvidia tells robotics startups they have its support as questions swirl about its investment strategy](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGRrWnlsOHJUN0xqM2kydkxFQS1qTUY0LWY4Q1VrWl9JOFUtVzhLbHhWXzY3Y1hTOTlGY1ZPM2UxaWhsZlNMOXM4VXJsMms5VzlxUUhwa3BUODBXZFh1cHVuTHJ5YnNVcnIwMHg1eE1VRDREX1kyRDJ5VWt2bWNFNC1ESmtlYjAtWGwxWEE0OHJwb0lVcHhrWlQxenhzWEtjcWtYVkdvcHZLN2pU?oc=5)**
-
-Business Insider • 13h ago
-
----
-
-**[28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security)**
-
-VicOne’s AI-assisted research reveals what faster zero-day discovery means for robot safety
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Four-foot humanoid robot learns to collect floor eggs for cage-free US poultry farms](https://interestingengineering.com/ai-robotics/us-humanoid-robot-collect-floor-eggs)**
-
-Researchers develop a humanoid robot to collect floor eggs in cage-free poultry farms and tackle labor shortages
-
-Interesting Engineering • 22h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -192,47 +192,17 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 189K • 👍 3K • 💬 598 • ⏱️ 2:12:13 • 1d ago
+👁️ 200K • 👍 3K • 💬 611 • ⏱️ 2:12:13 • 2d ago
 
 ---
 
-**[Why America Funded a $66 Billion Chinese Robot Company](https://www.youtube.com/watch?v=DEIEYZqRAxo)**
+**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
 
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots How did the US military help China build a $66 ...
+A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
 
-📺 PRO ROBOTS
+📺 NBC Bay Area
 
-👁️ 6K • 👍 107 • 💬 18 • ⏱️ 22:59 • 6d ago
-
----
-
-**[I&#39;ve Tested 250+ Robot Vacuums — Which Brand Is Actually the BEST?](https://www.youtube.com/watch?v=b-2BvUXH5oQ)**
-
-Which robot vacuum brand is best in 2026? I've purchased and tested over 250 robot vacuum cleaners, and in this honest ...
-
-📺 Just A Dad Approved
-
-👁️ 9K • 👍 153 • 💬 39 • ⏱️ 22:46 • 20h ago
-
----
-
-**[Inside China&#39;s emerging ‘Robot Valley’](https://www.youtube.com/watch?v=6ZKG95kf7g0)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube In the southern Chinese city of Shenzhen, ...
-
-📺 South China Morning Post
-
-👁️ 9K • 👍 66 • 💬 9 • ⏱️ 4:51 • 10h ago
-
----
-
-**[Tesla’s New Optimus Gen 4 Plan Is Shocking The Entire Robotics Industry!](https://www.youtube.com/watch?v=qBPRmF6QuWs)**
-
-Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid robots a year—one robot every 3 seconds, day and ...
-
-📺 States 2050
-
-👁️ 95K • 👍 1K • 💬 49 • ⏱️ 26:12 • 4d ago
+👁️ 107K • 👍 388 • 💬 298 • ⏱️ 2:44 • 1d ago
 
 ---
 
@@ -242,7 +212,27 @@ Several companies are racing to become dominant forces in humanoid robots, but t
 
 📺 CNET
 
-👁️ 40K • 👍 367 • 💬 38 • ⏱️ 4:02 • 2d ago
+👁️ 41K • 👍 377 • 💬 39 • ⏱️ 4:02 • 3d ago
+
+---
+
+**[Inside China&#39;s emerging ‘Robot Valley’](https://www.youtube.com/watch?v=6ZKG95kf7g0)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube In the southern Chinese city of Shenzhen, ...
+
+📺 South China Morning Post
+
+👁️ 12K • 👍 96 • 💬 14 • ⏱️ 4:51 • 19h ago
+
+---
+
+**[China Makes 100 Humanoid Robots Dance Together! 🤯🤖](https://www.youtube.com/watch?v=eRrV4olvTNA)**
+
+China just put around 100 humanoid robots on one dance floor! Led by EngineAI's T800, the robots perform synchronized ...
+
+📺 Nexio Core
+
+👁️ 7K • 💬 2 • ⏱️ 0:06 • 10h ago
 
 ---
 
@@ -252,37 +242,45 @@ The future of warfare is becoming increasingly autonomous! The U.S. Army has dem
 
 📺 Techie Sapien
 
-👁️ 5K • 💬 3 • ⏱️ 0:06 • 1h ago
+👁️ 62K • 💬 20 • ⏱️ 0:06 • 10h ago
 
 ---
 
-**[The Robot I Found in the Junkyard — He Rebuilt a Broken Machine Into His Best Friend](https://www.youtube.com/watch?v=ClbuMwoJOB8)**
+**[I&#39;ve Tested 250+ Robot Vacuums — Which Brand Is Actually the BEST?](https://www.youtube.com/watch?v=b-2BvUXH5oQ)**
 
-At 25 years old, independent countryside mechanic and engineer Ethan Walker spends his quiet days working in his private rural ...
+Which robot vacuum brand is best in 2026? I've purchased and tested over 250 robot vacuum cleaners, and in this honest ...
 
-📺 Technology Next World
+📺 Just A Dad Approved
 
-👁️ 44K • 👍 109 • 💬 5 • ⏱️ 12:29 • 2d ago
-
----
-
-**[🚨 Scientists Just Created a Real-Life Terminator Robot? #robotics #robot #airevolution](https://www.youtube.com/watch?v=GW4AJ9TcqnE)**
-
-South Korean researchers have developed a shape-shifting liquid robot that can switch between solid and liquid forms using ...
-
-📺 AI Robotics Madness
-
-👁️ 48K • 👍 946 • 💬 39 • ⏱️ 0:28 • 6d ago
+👁️ 11K • 👍 163 • 💬 41 • ⏱️ 22:46 • 1d ago
 
 ---
 
-**[Japan&#39;s Humanoid Robot N Can Walk and Lift Boxes! 🤯🤖](https://www.youtube.com/watch?v=XgelnsPo4HQ)**
+**[Tesla’s New Optimus Gen 4 Plan Is Shocking The Entire Robotics Industry!](https://www.youtube.com/watch?v=qBPRmF6QuWs)**
 
-Japan's new humanoid robot "N" is ready for real-world tasks! It can walk, squat, and lift boxes while helping train AI through ...
+Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid robots a year—one robot every 3 seconds, day and ...
 
-📺 Nexio Core
+📺 States 2050
 
-👁️ 4K • 💬 2 • ⏱️ 0:06 • 5h ago
+👁️ 99K • 👍 1K • 💬 49 • ⏱️ 26:12 • 5d ago
+
+---
+
+**[War Robots Wanted $500 FOR THIS???](https://www.youtube.com/watch?v=gSA89JxthoA)**
+
+War Robots Gameplay: ULTIMATE GUST being seemingly one of the most expensive items in the game. WR is asking 500$ for ...
+
+📺 Manni-Gaming
+
+👁️ 22K • 👍 742 • 💬 221 • ⏱️ 17:29 • 1d ago
+
+---
+
+**[IO #robot #robotics #robotdance #transformers #shorts #shortvideo #entertainment](https://www.youtube.com/watch?v=nxAOdF8qIX0)**
+
+📺 SirNex Tv
+
+👁️ 1K • 👍 10 • ⏱️ 0:57 • 6h ago
 
 ---
 

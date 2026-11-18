@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
+      "headline": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5",
+      "pub_date": 1795014954.0,
+      "article_url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1795019793&w=1920&h=1080",
+      "description": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday."
+    },
+    {
+      "headline": "Wall Street braces for Anthropic debut as AI giant eyes record stock offering",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43MndFRktSTDJwYnlrMVkyZFktcW43YXd0Unp2MDZmek1TeFZGMFRuNG41MVdYdHRJTzI1QXBlLVBuaUpXOVhqcTZZVmc5QUJEUjdJaDlOeFJmNEk?oc=5",
+      "pub_date": 1795021999.0,
+      "article_url": "https://www.foxbusiness.com/video/6408554709112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/92b328a9-1866-44ce-8fe6-dbce3f2a0d13/e67ea792-6560-4baa-89d8-fc2bd7138002/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "FOX Business' Madison Alworth reports on Anthropic's anticipated blockbuster IPO, soaring investor demand and a potential $1.4 trillion valuation as Wall Street weighs surging revenue growth against escalating AI costs."
+    },
+    {
+      "headline": "Opinion | I Spent a Year Talking to Anthropic Employees. Here\u2019s What They Believe.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4YlhWNC1xblo0NzdIaWExSVNOSEl6MkpHMjF3ZDV3OENZUnNzVnEwUTR5U29FWUZiLVRnckE1UTV6c0tURDJSWTlIaXc3N19tcUVILUVlZ2NOaU16ZE5aQkE4SlF6eTFERlJEUVh2WW03WnFZbmNhYlhjNHg?oc=5",
-      "pub_date": 1794949554.0,
-      "article_url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hR0p1eTMya0NpcWxrVWhoRFFfQTF4S3pqaWdrc0xNei1rSGdmNFhoSThIaXc4cW1vaW5sTnpGYTlMdGxPeWZIeHBvMGt6TlNLcUQwby1BRDI2Z0JyU2dmZFU5bm9USkVJM1lyQnZjeUFqMndRQVE?oc=5",
+      "pub_date": 1794996311.0,
+      "article_url": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Critical flaw found in vital internet platform Java through AI",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVWlloRk9FYTBOR0NsOG5LbzFhTElVSUFjN1ZHVURxZlVTN1hEbUVGbVdrbEhzOWtySENJdTNvSklIX1NmUFF1TDdfeDh0ZlkxTlowUm1sYmhHalU?oc=5",
-      "pub_date": 1794979993.0,
-      "article_url": "https://www.bbc.com/news/articles/cke89jevqm1vo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg",
-      "description": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
-    },
-    {
-      "headline": "Strengthening NATO and allied cyber defenses with AI",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zYnJ5UUFIVHE4X1N0SS1sMXcxVVIwSEQyWlE3N1ZTb1RleV9MQmZzdnN1Sy1jQXpWd2w4dHJXbEtUMjlDZ1k1RDRMcUlodHZ5alluX3ZIVjZRU3lQZU9OVzBqOXlxeEhQWGt5U0V5T2pOcVZSdTdfQg?oc=5",
-      "pub_date": 1794901838.0,
-      "article_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/4AvTdfi4XgE0hchiQH8UhY/6c9c5278cafc000de19c0892beecbf8c/strengthening-nato-and-allied-cyber-defences-with-ai-seo.png?w=1600&h=900&fit=fill",
-      "description": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
-    },
-    {
-      "headline": "Google: \u2018The era of autonomous attacks has arrived\u2019",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFZDRlBBMFZSaTlBQkwyU2FjcGliMWhDYVlWSnBZZmRTbVg5V3I1QjNfcXpRZzBLNzVRSHdpcXZyRjBGUXFic1JNa0kwQktNNjlZeWw2azNXN09ZV21pZWxiLWIzS1gzZ2Rfa3hBZjA5S0FnaWVJS1UzRVpVZDN1emp6aDQ0Si1vSXfSAY8BQVVfeXFMUE5veEVTeW5waDN5cXc0b1YwWXZ3NG5WeGRhbWk0VlBPSm5yZkFoNXdKd2JfblJRcXo1MHlldjZrSHVSZjJMTi1HUG5kMjBYWDlYOHZiZkljTWFmVF9OWGhLQUY0cl9mcloyLV9xLXItLXJ4VFBVcExvY1E4NW9xOFV6YWtOb1hvZm8yTzktNUk?oc=5",
-      "pub_date": 1794929220.0,
-      "article_url": "https://thehill.com/policy/technology/6224604-autonomous-ai-threats-google-report/",
+      "headline": "American A.I. Models Have Potential to Be Turned Against U.S., Study Finds",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEowWHEtUnNxZ3dvRTY3Y2psTDk4UFdtOEcyLWtxNXlRQmlJZlRtV01EanhMbkJCVEtONl96bGJtQVhkR0VlUDl0Wm1uTkEtSGpyQ2tZS3lUSGNlNm5tOXVvSHRtdjdIX0lMYkRTUDRKOURXczFQNXUzMlJIb0tBZVJJTDBQRHFOT244?oc=5",
+      "pub_date": 1794996230.0,
+      "article_url": "https://www.nytimes.com/2026/11/18/us/politics/audit-ai-terrorist-attack-plans.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Elton John backs Australian artists in fight against AI in surprise Aria awards appearance",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEVuNDFLMlNUU1lfZk1lcUJOc3NFRklrdjhGdzNrYzA4c0FqNGNURkQ0aU10ZjhCRl9sY2JPQ2xtR09lalRXMUFnSW80VG1UenF2blBad090X3p1R3lfQzUwYUdkRHdaNzgyNVZjRTROa3hLUGttbF9LQUtHMDQ2SVNWMkd0eGhEN0F1ZUpQZXRibm5DRzJsVGpOdHBlbllRT2NrTDdyTXROSGFi?oc=5",
-      "pub_date": 1794990780.0,
-      "article_url": "https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright",
-      "image": "https://i.guim.co.uk/img/media/6717b5732293468c3ba09f5cd665c09dc0756308/271_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b0a2e2859a6a4def36a7af50915236d",
-      "description": "British musician backs Not AI\u2019s To Take campaign, saying Albanese government has \u2018a duty to protect Australian artists and their work\u2019"
+      "headline": "Government investigators find AI platforms produce terror plot plans in undercover op",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1Qyb1IwT285MlBBTDhpTzNVZ0FlSmFJcFBJcEFWZ0VVV3Y5dFk1QjlZU3dDSUVvcXQ2djgtQm1GUEt5NFJxSzhVdDlZWlVvenNtLTFxYV9sREZEQWVuLXFvS2duX1J0N29lVFJNdC1jcUR1bnYxbkE0RURJVXY4Mk0ySjZtajNoay1iVGQyOWpNUVgwVzVMdkZqRDV2bUlDenhDUVdERmVUenRna3haTF9hMkZqdw?oc=5",
+      "pub_date": 1795013594.0,
+      "article_url": "https://www.foxnews.com/politics/government-investigators-find-ai-platforms-produce-terror-plot-plans-undercover-op",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/chatgpt-claude-gemini-grok-ai-chatbot-apps-logos.jpg",
+      "description": "GAO investigators bypassed AI safeguards on ChatGPT, Claude, Gemini and Grok, obtaining feasible plans for terrorist attacks in under 12 hours of testing."
     },
     {
-      "headline": "Watch Apax Sees Growing Split in Credit Markets From AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFVLcWctUkdSRlV0cUNiZ2RyeHUwSVRHMDVQRHkyX1F2amk5Wk9FYnc1akRwa3JhTEVSSzUtOVo1ZHppTFk1VlVvbXBFelhMdUVxcFdtYXRRVU9QWC13OW11Wk1rODBFS1JQczhMLWtDeXNrQ1d3MnlIZnA5QV9WY0p2VE1GaTZ0WFpIamhreHdZRVNKem5odzBwZUh3V0VXN01kaFVyTQ?oc=5",
-      "pub_date": 1794991453.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-11-18/apax-sees-growing-split-in-credit-markets-from-ai-video",
+      "headline": "Senate AI hearings in works after platforms planned U.S. terror attack when asked to: \"We need to act now\"",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0FhZXEyaEdJeUZlN2Vndk5ZRnh1N0Z0VlRmMkRHZC01d0VnZm9uWXRyV3BXRUtVSVN5MWF2dWNzUzlPYkVSeWpXcndNOG82N1N4bUVVZGpEWEZYQnhrZ2Z0TzZjZzY3TUdUNE9ON3pvSVRkclZSS0hGWDA5cXl6NC0xZ0NwQThiTEdZM20tamV5dFZhM29yU1hR?oc=5",
+      "pub_date": 1795006620.0,
+      "article_url": "https://www.cbsnews.com/news/ai-platforms-plan-us-terror-attack-when-asked-to-senate-hearings/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/22/a862a484-b6ce-41a2-a174-8ec9ef8a7ac2/thumbnail/1200x630/a40bd10c5da9c71ba7cfbbcc6c9d557d/cbsn-fusion-how-a-swarm-of-ai-agents-hacked-a-company-thumbnail.jpg",
+      "description": "The incoming chair of the Senate Homeland Security Committee is preparing hearings on AI after government watchdogs found the four most-used platforms all created proposals for a U.S. terrorist attack when prompted by investigators."
+    },
+    {
+      "headline": "AI data centers could consume more water than Americans drink in a year by 2030, says CEO working on solution",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2NRbkdwZWE2eGp4NHN1WFNSY3p2MzUyWnlKWWhoR1F2c3dsUjdFNHc2czZIeGhkTjRlUms3X1FTLTFaUGJ2SHJ0eERraEwzMjF5MHdsX3hseEZNVWY4QnhrcGRVZ0ZYSlhkc1dQcmRYSU1oVUxvVDB5LUVzZ1JrTHQtcWVyMlZPS3c5T0s0bjFKcVNvUTVfZDhKZm9iRFJtMUpscktxYV92anRJQlZR0gG0AUFVX3lxTFA2aU8zUlJhSFJjN2NLMDZ3ZEQxbmxVcjhXNFhpN0k0dUUtUEZ2by1FWWtFWW96RzhyRVY0N2wtM1V6aWFoZmFKUWNCVTVPZUN0SzB2VmJBaVBOakxWS21LQXBaVnhLRk5Pc1lMblN1d0M4WHBfMDlyX0I5Y1B3ampCUXZIVXZyZUg3bFdBazVMdUxTYVIzd1I0NkhtS3luSkFFX3NSVmdiM0h6bVBIa1hINUYxRw?oc=5",
+      "pub_date": 1795023445.0,
+      "article_url": "https://www.foxnews.com/tech/ai-data-centers-consume-more-water-americans-drink-year-2030-ceo-working-solution",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/inside-data-center-hall.png",
+      "description": "Ecolab CEO Christophe Beck says AI data centers could drink as much water as Americans by 2030 unless direct chip cooling and water recycling catch on."
+    },
+    {
+      "headline": "Newsom proposes sweeping AI rules as \u2018template\u2019 for Washington",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ga09UMWRreXZqdTZURW9wdmh6UXd3UHp3QXBGbkZIX3o2NjBlWk1JSHkxUUxoTXFINTFHOFUxNnRsRFF3OVZjZERNclBuNjBITUtUaHJtUk84VjViMExWS3hHVzh1WmtkdEtjU0Y3cnJEUQ?oc=5",
+      "pub_date": 1795022100.0,
+      "article_url": "https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic IPO: A Brother-Sister Duo Behind A Trillion-Dollar AI Giant",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOck9BTlIzUUpZSFU0R0pPUl9RS0pncmlLRG1tNTRrdzJrV2ZyWVJQY3hvRXZncXJpMXVnSzhiLWE0SDRLR0hzX0YtNGc1anpHc2psVmFITjV3QS1HdjFMZFVGay1zWHMzT19SVDd2cl8yZGZDcnFPM1dTbXJKRFY5ckFBdTZTdXFNMlpPejdnLXUtZEd6VHJmaHNXYklHMTlHdndkc0ljSjJEcWRMV0hkOFZHLTBrYnpkenRvM0dIeEdNZmR5akZwNVBhVGNFeHRwcm53a3E1Zw?oc=5",
-      "pub_date": 1794989831.0,
-      "article_url": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/11/18/anthropic-ipo-the-brother-sister-team-behind-a-trillion-dollar-ai-giant/",
-      "image": null,
-      "description": null
+      "headline": "Empirical Security Launches Foundation V2 as AI Floods Security Teams With New Vulnerabilities",
+      "source": "The Detroit News",
+      "source_url": "https://www.detroitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYzQwT2VteThTOW1OaFd3Q0lEbGxiTHQ4MXItenJGcUg3TjhmdG0tQkZwUzl0QzdUMUpjaGhWVndKWGFxRlZaMVJrczN3Zm1uN2dEU3JON2dtT2djVUV5ZzJaeV9yRF9RWEpuQUwwVDc0WVlWQUxWbFl3dDBSOXlpU2l0VEIzTjVHR0RPdFEwYnVJS0JEMWxCZUY1a1lBZWJRYXphaXJIWUlGWVoyOXcxcVRraUd6eHgwMGVSRjMtdThWYnNRV1ZCazhPeERQeTVTMDg1dUVSSUxFcWt5MFVaZ3d2RmU?oc=5",
+      "pub_date": 1795022562.0,
+      "article_url": "https://www.detroitnews.com/press-release/story/202409/empirical-security-launches-foundation-v2-as-ai-floods-security-teams-with-new-vulnerabilities/",
+      "image": "https://pix.xpr.media/p/eyJzIjoiYjYzZjdiMGItNGM3ZS00MGRhLWI2YTctY2ViOWYyMzk3NzMxIiwiYyI6IjMwOTM3ZDM0LTAyZjAtNGFkOS04MTUzLWQ3MDZiYWVlYTNjNyIsInYiOjF9.otfhF0ac7WMKxhk0PRYHSdgIzaqnWHE4B5SLR04Rf5s.gif",
+      "description": "New exploit prediction model is 9.5x better at predicting exploitation in a vulnerability's first seven days AI has"
     },
     {
-      "headline": "Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84T0wzOTBNLWRTS2xRZXFFYnl1d3gycUhrSXdkX1ZoRTVtNGRmT3I3RDE0ZHBnRXV2VFVHN1FwQnpadGQ1T3V4eldiVXRINlpHWDFibVFoVi1Ccnc?oc=5",
-      "pub_date": 1794956532.0,
-      "article_url": "https://www.bbc.com/news/articles/c5vg23g92rj4o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
-      "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips."
-    },
-    {
-      "headline": "Nvidia Stops Selling AI Chips to China Despite US Approval",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
-      "pub_date": 1794975000.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia Spending Pushes AI Data Center Infrastructure Stocks Into Focus",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDJKV1RUYlFWazNXQmxPd2NXTXRaQkE0Yk5MbWdIaEc1WmJ2aW1CQ3RJYWNwRnZTSDEwZHVnQmpGZmQxblJQTFZqUms4VlpRVm1FbVczVmFGQWYtSkQzdFBCbFlNNC1tcnFTQVJCeVI1TW1vY3U2SzN4eVdERW9MMV8wMEZNalJHQk9Vd3lTeVRNN3ZxZjJjUXdB?oc=5",
-      "pub_date": 1794985665.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-spending-pushes-ai-data-070745601.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c43725a1b29b15f8a5846a263b96ebf7332db2c153133dcb1741ea6a1c998749/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fb4a2ec0d3162c7e83a170b8dfd094b74.jpg",
-      "description": "Nvidia\u2019s huge Q3 beat, raised 2028 sales outlook and that eye catching US$150b buyback have turned the AI data center build out from a headline into a concrete spending plan. Capital is flowing into the plumbing behind AI, not just the chips in the spotlight. This article walks through three stocks exposed to this surge, and explains why the same news could be a reason to lean in or step back. The few stocks highlighted below are just a sample, and the full screen surfaced 49 more companies..."
+      "headline": "Your love of mermaids, french fries, and Robert Pattinson could land you a job",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVJ4dlJncUZoUl9QYkdhMnhwSHpJRm9Sbi1rM29LQnVQMmlqbWhKbTMyWWEzZUVfX2V2TzZENWRvOVdUdmZ5SUNkRklhTUJ3V0c2QUhzR3MwSEVad3NONklLNWpZcl9Za2UzV3p4bzlsdnVMTW9zOVNRVzhSZjFCNjA1cF9xUHZ4dXVnNDZuVDN1ZG9MQ1hEcDB3UF8?oc=5",
+      "pub_date": 1794992400.0,
+      "article_url": "https://www.businessinsider.com/hobbies-interests-in-job-application-resume-cover-letter-2026-11",
+      "image": "https://i.insider.com/6afce77204834674c81c7067?width=1200&format=jpeg",
+      "description": "Want to stand out in a sea of AI job applications? Talk about your weirdest hobby."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-18T08:55:16.484608+00:00"
+  "fetched_at": "2026-11-18T17:50:12.979409+00:00"
 }
