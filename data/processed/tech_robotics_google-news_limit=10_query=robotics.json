@@ -19,18 +19,38 @@
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5",
-      "pub_date": 1794924132.0,
+      "pub_date": 1794924000.0,
       "article_url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457",
       "image": null,
       "description": null
     },
     {
-      "headline": "Get ready for humanoid robots, says He Xiaopeng",
+      "headline": "Humanoid robots will become a common sight in China",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORFdoX3dJb1NvYXpIc01lQ2xEeTJyM0hqLS1nWVB0N1gzWGNyVUVQbVVQUHc4WnZqZFU0ZlpHVFJURi01UHVyd2VYVzdTUS1NWmpqUGF3RlIxVkMwU080dEx4R3ZyZFU1dEVvUlJRUWxrYTlhT1dDazQyN29LSXF2bWxVai1mZURDVnBEcEx1dXVGRjAwNWVwU1U4WW9pdFRp?oc=5",
-      "pub_date": 1794996859.0,
-      "article_url": "https://www.economist.com/the-world-ahead/2026/11/18/get-ready-for-humanoid-robots-says-he-xiaopeng",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTZYeE42NENweFp3SGdqUXk2am9WY3JiYnlHT0NkTnhJaXRCOXBqdEo3ZV8tNW1wbnRidjg1ekNoTU9qOFpRUVBhbXFCcWRlQy1GSmI2aHFra0dGRlNUTWczSDRCdkwyeXdJYlBqMTJnQlZuX1NXc3pZSXh2U0JsY1RYeHdXS1h6ZEpBcDVRR3l0WUFzbE9McnU2Nm5EdmhUVnVtWWs1Yw?oc=5",
+      "pub_date": 1794996006.0,
+      "article_url": "https://www.economist.com/the-world-ahead/2026/11/18/humanoid-robots-will-become-a-common-sight-in-china",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Inside China's relentless race to develop humanoid robot helpers and get them into our homes",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsbDNBSmdHVW5nSnZoZ1VxNlQzeHlLWi1tN1NST3RNbktzZUdVRURjWVZ4OGZRZkxUTm5mQ2d1c1VpTWU5c3J3VlBJMHZXaFYxVk9vNThlTDFKR2J1eC1KOEpNY2NidVVqVW1EQlUtUUJlMGJBNGhTa0FaamI3N0E?oc=5",
+      "pub_date": 1795016520.0,
+      "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/80bdef2e-1ef7-4e02-9e19-a3ecb6027b21/thumbnail/1200x630/a921765dc734514a09801cd63dd5907d/china-humanoid-robots-training.png",
+      "description": "China is racing to make humanoid robot helpers common home appliances, and one industry insider says they have an \"edge globally.\""
+    },
+    {
+      "headline": "China Rules the Robots. Here\u2019s What They Can Do",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONERRSDMxd2dHS3JtcUYzalQ3T0lsdVkwckI3YzhsTms5ak9hTlkzdzJ0ZWU4bkdWTjN4WmVUdkc3ZTh2b3psTXZ5eFlhZHh5OHlyR0NLdVZsa3hXVTNUVzlzc1F2VGpyWklWME1yNU8wWDBUc2FHY3RxRms2YzVqT1NldnUwZVdZSkQ1bmlLODBfVk1BT1VSY003VnVEQ2VUSmFmWTdxZFR0ZmpQSXlkLQ?oc=5",
+      "pub_date": 1795003211.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-18/china-robot-advances-offer-more-hardware-forward-path-for-ai",
       "image": null,
       "description": null
     },
@@ -45,36 +65,6 @@
       "description": null
     },
     {
-      "headline": "China Rules the Robots. Here\u2019s What They Can Do",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONERRSDMxd2dHS3JtcUYzalQ3T0lsdVkwckI3YzhsTms5ak9hTlkzdzJ0ZWU4bkdWTjN4WmVUdkc3ZTh2b3psTXZ5eFlhZHh5OHlyR0NLdVZsa3hXVTNUVzlzc1F2VGpyWklWME1yNU8wWDBUc2FHY3RxRms2YzVqT1NldnUwZVdZSkQ1bmlLODBfVk1BT1VSY003VnVEQ2VUSmFmWTdxZFR0ZmpQSXlkLQ?oc=5",
-      "pub_date": 1795003211.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-18/china-robot-advances-offer-more-hardware-forward-path-for-ai",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Boston Dynamics & GlobalFoundries Expand Robotics Collaboration",
-      "source": "Boston Dynamics",
-      "source_url": "https://bostondynamics.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xS24zOGkwd0NtX2VnYnZXa2owbXk0Mnl2YXJFcXZab2FIZXc0ZzhPa0c2SkZtVDV3aWgxbXd2MXVJUU1rN2k1RHd6SFExc2FzaDMwVk5nNEhXODgtR0Fj?oc=5",
-      "pub_date": 1794926018.0,
-      "article_url": "https://bostondynamics.com/?post_type=news&p=11212",
-      "image": "https://bostondynamics.com/wp-content/uploads/2026/11/spot-atlas-together.jpg",
-      "description": "Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF\u2019s global fabs."
-    },
-    {
-      "headline": "Nvidia tells robotics startups they have its support as questions swirl about its investment strategy",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGRrWnlsOHJUN0xqM2kydkxFQS1qTUY0LWY4Q1VrWl9JOFUtVzhLbHhWXzY3Y1hTOTlGY1ZPM2UxaWhsZlNMOXM4VXJsMms5VzlxUUhwa3BUODBXZFh1cHVuTHJ5YnNVcnIwMHg1eE1VRDREX1kyRDJ5VWt2bWNFNC1ESmtlYjAtWGwxWEE0OHJwb0lVcHhrWlQxenhzWEtjcWtYVkdvcHZLN2pU?oc=5",
-      "pub_date": 1794942180.0,
-      "article_url": "https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11",
-      "image": "https://i.insider.com/6afc9cf304834674c81c6c37?width=1200&format=jpeg",
-      "description": "After Jensen Huang's exit, Nvidia contacted robotics startups to reassure them of its support amid questions about its investment strategy."
-    },
-    {
       "headline": "India\u2019s Humyn Labs raises $47M to feed US robotics companies the data they need",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -85,26 +75,36 @@
       "description": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
     },
     {
-      "headline": "Inside China's relentless race to develop humanoid robot helpers and get them into our homes",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsbDNBSmdHVW5nSnZoZ1VxNlQzeHlLWi1tN1NST3RNbktzZUdVRURjWVZ4OGZRZkxUTm5mQ2d1c1VpTWU5c3J3VlBJMHZXaFYxVk9vNThlTDFKR2J1eC1KOEpNY2NidVVqVW1EQlUtUUJlMGJBNGhTa0FaamI3N0E?oc=5",
-      "pub_date": 1795016520.0,
-      "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/80bdef2e-1ef7-4e02-9e19-a3ecb6027b21/thumbnail/1200x630/a921765dc734514a09801cd63dd5907d/china-humanoid-robots-training.png",
-      "description": "China is racing to make humanoid robot helpers common home appliances, and one industry insider says they have an \"edge globally.\""
+      "headline": "Reason to Smile: Bonham MS Robotics Team qualifies for state competition",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXAzUEdFZlM2QW8wb2xGTll5Uy12V3J2MmR2WDdtelN3YW11ekhUQmtCYXBIeG9DbnpmLUNhQUNnV3FMOThmNXhwUF9XZG1mZ2FobV92RVdsNHVURWhGX1AwWi1odWRCQUM1aDVXWl9pMjFtbDVVejlIWmFPcFpZTWF3MDdrQXhFM3c?oc=5",
+      "pub_date": 1795029988.0,
+      "article_url": "https://www.yahoo.com/news/articles/reason-smile-bonham-ms-robotics-192628538.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3fdba8c602d9d049078c95c007fa3fd2a6d2074412ef03f55439455fb4098ac0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkwkt_waco_articles_828%2Fd448f4164bf4708cbcb43782d76018eb.png",
+      "description": "TEMPLE, Texas (FOX 44) \u2013 The Bonham Middle School robotics team has programmed itself to a return trip to the Boosting Engineering Science and Technology (BEST) Robotics State Tournament! According to..."
     },
     {
-      "headline": "Boston Dynamics\u2019 Atlas humanoid lands first non-automotive trial",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTRNdjY3dzFkQlVNeXdNSXpjMTM4UGRxYUJWaHN5dng2Qkk1ZHkwZWNVMmhWSlFBVi1HMzdkQ3RYdzlOVVRKRkpqdlZuU1VTWGxVNmlCSHdrWWtHcnRBYVdsTzItYUpSQWQxTGtUTkMweFdUZEJzQUM4LUtXTU1Zd1pXV1RWRXRJMWtRY0wzWlJOQUJaNktKempERQ?oc=5",
-      "pub_date": 1794929553.0,
-      "article_url": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/atlas-globalfoundries.jpg",
-      "description": "Boston Dynamics\u2019 Atlas humanoid will start its first trials outside the automotive industry at a semiconductor manufacturer in early 2027."
+      "headline": "AI Finds 28 Zero-Day Flaws In Physical Robotics Software",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2tpMGdtXzNMRndYX3lGRHBmOUV5ZFVwdUJnYlVvY1lIQi16MFM2dlRRS2JMRS1vVHJCeWRpQ1RKSG80dnBrM2ktUU01S2I1RU9CWVNGN2JLek9VbklReWlhZFM0UTFmSDZKd1dYdW85dmpmWFlaZ2ZrNWl4Q3BEYQ?oc=5",
+      "pub_date": 1794823358.0,
+      "article_url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+      "image": "https://spectrum.ieee.org/media-library/humanoid-and-dog-robots-watch-a-massive-swirling-storm-over-a-modern-city-walkway.jpg?id=68562173&width=1200&height=600&coordinates=0%2C224%2C0%2C225",
+      "description": "VicOne\u2019s AI-assisted research reveals what faster zero-day discovery means for robot safety"
+    },
+    {
+      "headline": "The fastest soft robot ever built doesn't need electronics to function",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9heUNzSEdiajhNTW0yVklwNHJqX2x3V0xwRGRlbS1EOXQyTGhHdzBzRy1nTjRISjI1dGlJNDFBQWc2UVo4UE44YmJrX2dvSWwwcGtjb21saG1SS3FpekFxQjRoeFhzUVliWXRvSUJBUGdGYUJvMlFqY0lQTFE?oc=5",
+      "pub_date": 1795028416.0,
+      "article_url": "https://techxplore.com/news/2026-11-fastest-soft-robot-built-doesnt.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-18T17:50:11.333631+00:00"
+  "fetched_at": "2026-11-18T23:57:32.010068+00:00"
 }

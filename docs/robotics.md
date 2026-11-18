@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-18T17:50:15.682981+00:00'
+updated: '2026-11-18T23:57:37.535096+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 18, 2026 at 17:50 UTC  
+**Last Updated:** November 18, 2026 at 23:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -124,45 +124,9 @@ WSJ • 1d ago
 
 ---
 
-**[Get ready for humanoid robots, says He Xiaopeng](https://www.economist.com/the-world-ahead/2026/11/18/get-ready-for-humanoid-robots-says-he-xiaopeng)**
+**[Humanoid robots will become a common sight in China](https://www.economist.com/the-world-ahead/2026/11/18/humanoid-robots-will-become-a-common-sight-in-china)**
 
-The Economist • 7h ago
-
----
-
-**[EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise](https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/)**
-
-Reuters • 23h ago
-
----
-
-**[China Rules the Robots. Here’s What They Can Do](https://www.bloomberg.com/news/articles/2026-11-18/china-robot-advances-offer-more-hardware-forward-path-for-ai)**
-
-Bloomberg.com • 5h ago
-
----
-
-**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/?post_type=news&p=11212)**
-
-Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
-
-Boston Dynamics • 1d ago
-
----
-
-**[Nvidia tells robotics startups they have its support as questions swirl about its investment strategy](https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11)**
-
-After Jensen Huang's exit, Nvidia contacted robotics startups to reassure them of its support amid questions about its investment strategy.
-
-Business Insider • 22h ago
-
----
-
-**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
-
-Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
-
-TechCrunch • 6h ago
+The Economist • 13h ago
 
 ---
 
@@ -170,15 +134,49 @@ TechCrunch • 6h ago
 
 China is racing to make humanoid robot helpers common home appliances, and one industry insider says they have an "edge globally."
 
-CBS News • 2h ago
+CBS News • 8h ago
 
 ---
 
-**[Boston Dynamics’ Atlas humanoid lands first non-automotive trial](https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/)**
+**[China Rules the Robots. Here’s What They Can Do](https://www.bloomberg.com/news/articles/2026-11-18/china-robot-advances-offer-more-hardware-forward-path-for-ai)**
 
-Boston Dynamics’ Atlas humanoid will start its first trials outside the automotive industry at a semiconductor manufacturer in early 2027.
+Bloomberg.com • 11h ago
 
-The Robot Report • 1d ago
+---
+
+**[EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise](https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/)**
+
+Reuters • 1d ago
+
+---
+
+**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+
+Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+
+TechCrunch • 12h ago
+
+---
+
+**[Reason to Smile: Bonham MS Robotics Team qualifies for state competition](https://www.yahoo.com/news/articles/reason-smile-bonham-ms-robotics-192628538.html)**
+
+TEMPLE, Texas (FOX 44) – The Bonham Middle School robotics team has programmed itself to a return trip to the Boosting Engineering Science and Technology (BEST) Robotics State Tournament! According to...
+
+Yahoo • 4h ago
+
+---
+
+**[AI Finds 28 Zero-Day Flaws In Physical Robotics Software](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security)**
+
+VicOne’s AI-assisted research reveals what faster zero-day discovery means for robot safety
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[The fastest soft robot ever built doesn't need electronics to function](https://techxplore.com/news/2026-11-fastest-soft-robot-built-doesnt.html)**
+
+Tech Xplore • 4h ago
 
 ---
 
@@ -192,7 +190,7 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 200K • 👍 3K • 💬 611 • ⏱️ 2:12:13 • 2d ago
+👁️ 206K • 👍 3K • 💬 620 • ⏱️ 2:12:13 • 2d ago
 
 ---
 
@@ -202,7 +200,7 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 107K • 👍 388 • 💬 298 • ⏱️ 2:44 • 1d ago
+👁️ 122K • 👍 446 • 💬 364 • ⏱️ 2:44 • 1d ago
 
 ---
 
@@ -212,47 +210,7 @@ Several companies are racing to become dominant forces in humanoid robots, but t
 
 📺 CNET
 
-👁️ 41K • 👍 377 • 💬 39 • ⏱️ 4:02 • 3d ago
-
----
-
-**[Inside China&#39;s emerging ‘Robot Valley’](https://www.youtube.com/watch?v=6ZKG95kf7g0)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube In the southern Chinese city of Shenzhen, ...
-
-📺 South China Morning Post
-
-👁️ 12K • 👍 96 • 💬 14 • ⏱️ 4:51 • 19h ago
-
----
-
-**[China Makes 100 Humanoid Robots Dance Together! 🤯🤖](https://www.youtube.com/watch?v=eRrV4olvTNA)**
-
-China just put around 100 humanoid robots on one dance floor! Led by EngineAI's T800, the robots perform synchronized ...
-
-📺 Nexio Core
-
-👁️ 7K • 💬 2 • ⏱️ 0:06 • 10h ago
-
----
-
-**[U S  Army&#39;s New Robot Launches a Swarm of 18 Autonomous Attack Drones! 🤯](https://www.youtube.com/watch?v=cwmp1MpkHWE)**
-
-The future of warfare is becoming increasingly autonomous! The U.S. Army has demonstrated a robotic ground vehicle called ...
-
-📺 Techie Sapien
-
-👁️ 62K • 💬 20 • ⏱️ 0:06 • 10h ago
-
----
-
-**[I&#39;ve Tested 250+ Robot Vacuums — Which Brand Is Actually the BEST?](https://www.youtube.com/watch?v=b-2BvUXH5oQ)**
-
-Which robot vacuum brand is best in 2026? I've purchased and tested over 250 robot vacuum cleaners, and in this honest ...
-
-📺 Just A Dad Approved
-
-👁️ 11K • 👍 163 • 💬 41 • ⏱️ 22:46 • 1d ago
+👁️ 41K • 👍 379 • 💬 39 • ⏱️ 4:02 • 3d ago
 
 ---
 
@@ -262,7 +220,37 @@ Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid ro
 
 📺 States 2050
 
-👁️ 99K • 👍 1K • 💬 49 • ⏱️ 26:12 • 5d ago
+👁️ 102K • 👍 1K • 💬 50 • ⏱️ 26:12 • 5d ago
+
+---
+
+**[I&#39;ve Tested 250+ Robot Vacuums — Which Brand Is Actually the BEST?](https://www.youtube.com/watch?v=b-2BvUXH5oQ)**
+
+Which robot vacuum brand is best in 2026? I've purchased and tested over 250 robot vacuum cleaners, and in this honest ...
+
+📺 Just A Dad Approved
+
+👁️ 12K • 👍 175 • 💬 40 • ⏱️ 22:46 • 1d ago
+
+---
+
+**[Inside China&#39;s emerging ‘Robot Valley’](https://www.youtube.com/watch?v=6ZKG95kf7g0)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube In the southern Chinese city of Shenzhen, ...
+
+📺 South China Morning Post
+
+👁️ 14K • 👍 110 • 💬 20 • ⏱️ 4:51 • 1d ago
+
+---
+
+**[U S  Army&#39;s New Robot Launches a Swarm of 18 Autonomous Attack Drones! 🤯](https://www.youtube.com/watch?v=cwmp1MpkHWE)**
+
+The future of warfare is becoming increasingly autonomous! The U.S. Army has demonstrated a robotic ground vehicle called ...
+
+📺 Techie Sapien
+
+👁️ 100K • 💬 24 • ⏱️ 0:06 • 16h ago
 
 ---
 
@@ -272,15 +260,27 @@ War Robots Gameplay: ULTIMATE GUST being seemingly one of the most expensive ite
 
 📺 Manni-Gaming
 
-👁️ 22K • 👍 742 • 💬 221 • ⏱️ 17:29 • 1d ago
+👁️ 23K • 👍 758 • 💬 230 • ⏱️ 17:29 • 1d ago
 
 ---
 
-**[IO #robot #robotics #robotdance #transformers #shorts #shortvideo #entertainment](https://www.youtube.com/watch?v=nxAOdF8qIX0)**
+**[Self playing electronic chess set](https://www.youtube.com/watch?v=osqq8qtXnGA)**
 
-📺 SirNex Tv
+original credit: @chessnut.official & @alexandra_samaganova on Instagram This automated electronic chessboard uses internal ...
 
-👁️ 1K • 👍 10 • ⏱️ 0:57 • 6h ago
+📺 Retrolix1
+
+👁️ 8K • 👍 152 • 💬 6 • ⏱️ 0:07 • 3h ago
+
+---
+
+**[🚨 Scientists Just Created a Real-Life Terminator Robot? #robotics #robot #airevolution](https://www.youtube.com/watch?v=GW4AJ9TcqnE)**
+
+South Korean researchers have developed a shape-shifting liquid robot that can switch between solid and liquid forms using ...
+
+📺 AI Robotics Madness
+
+👁️ 48K • 👍 946 • 💬 39 • ⏱️ 0:28 • 6d ago
 
 ---
 

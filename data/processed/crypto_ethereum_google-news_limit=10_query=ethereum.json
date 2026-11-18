@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Crypto asset manager's stock jumps 13% after full Ethereum sale",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdE9LZVY4ODliMEtobGRHQ2U2RFlhSDNPMG9VdzVSNGFYeTMyblVsM0k5M1RvN1NkRVpYUUVlRU51ZWlWbHdhVWMxb3pQb3hQYWRxTXF0NzI3M3N5ZHoxaXNabl9LZGtMTXRCRU1Hb2ljZk9USGMwR1BYajB2RVBPdHNwMWs2dkJXdnIzbF9iOGlqWEV6VkFXemRBZDFSeVU?oc=5",
+      "pub_date": 1795045215.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-asset-managers-stock-jumps-234015714.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d7fa5686f981419a12f21c0d75008cb1678078c28722a9c7241b8f94806cfe52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fb4481b5177fa6d4c08519265fb1f8bd8.jpg",
+      "description": "This company raised $19.3 million by selling Ethereum and part of its Solana holdings to support a $40 million share buyback."
+    },
+    {
       "headline": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -15,54 +25,14 @@
       "description": null
     },
     {
-      "headline": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
-      "pub_date": 1794861363.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-blames-nvidia-anthropic-203603583.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1fb36acae099ed19d62dfa7520903a120c364c209f7ead8e53777fbef19ac833/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fa0780072c989e0792375e74c1841ae7f.jpg",
-      "description": "The firm\u2019s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a \u201cwaterfall\u201d drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic\u2019s IPO."
-    },
-    {
-      "headline": "Tom Lee says Ethereum's 'waterfall decline in price' defies fundamentals as Bitmine adds 7,653 ETH",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQUlkNmVmNGo2TnQ4eEZJZmtDa0FnSDVjWnhhSVhtX0ZNWlFBeGIzVmduR01kYV9oVk1LWWF0cFVodUtIM0VfR2w5cHVMZjB5ekNObDRwWVZLSEZ6b1lZWEhuMTdMdHk0Sy1rNkNqY2pLcTM3RVoyelB1TkF1MVg1VHVfYU01WnBBOUZkX05feGhVaHl5czBpcWcySTdWZ1ZPWUxMdzMxcXFodlVPNkJHQndOREFxeDdQcmFBUTdtM2VPb21zMXllY2h2cXBDUk5MX2tQVQ?oc=5",
-      "pub_date": 1794841200.0,
-      "article_url": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2245512230-scaled-e1794903477925.jpg",
-      "description": "The Ethereum treasury company added 7,653 ETH last week, bringing its holdings to 6.08 million tokens worth approximately $11.1 billion."
-    },
-    {
-      "headline": "Ethereum Price Forecast: BitMine sees SpaceX IPO-like trend in ETH ahead of Anthropic IPO",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdzktVF9HelZjOGJXUDdENUxDSWJHNmU1eVA2dHZyajQ2a0hnSTZoaWFQdTQ5dHdFQ2ViWWVqRnZUU3RTSnUzRE02UEZUSjRHcFlIa2JLYWZDVkMyOXppTUItYVR6Wjh6SFc3cVkzQzJfN0pEbi1jMTY3Y01UcHlnTUFyRkFwclNHelBmdkpCN3NMejY4c2R1UGJkM3Q3c0ZNRG5TbTE1eVNial9Pc2FEVnhuclNaSUtWR1JWblhielJGeWNvei1RM09xb2xld2JuRlVSRzhaQWRCNWd3SzctenVB?oc=5",
-      "pub_date": 1794866394.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-sees-spacex-ipo-like-trend-in-eth-ahead-of-anthropic-ipo-202611162159",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+      "headline": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEUtY0JyV25ZczVaX2ZmRzVYakhKdHNUUExxRmt4TlVsREQ5d1Z4V1BPNk85U2otOTd4UmNaLWlFZV9lZnExeGI4NnVOUU9mMGl1dkJPYjhBYklQdnRNWmJRNGl1NlZvWjZlWldQR2NsWEpiQTZUclg0WG01M2s1clR3?oc=5",
-      "pub_date": 1794935921.0,
-      "article_url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/hacker3-gID_7.png",
-      "description": "A wallet linked to October\u2019s record Binance theft moved $63 million in Ethereum, before analysts flagged a larger wave of transfers."
-    },
-    {
-      "headline": "Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here\u2019s Why It Could Be Time to Sell.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeE5GX3RtYXNLUGluNVpta3hfaXhPQV9mdzg1R2ZhRVFPdmdQTXlRUjRfVTZmTGdYX1Y4MHBlXzc1Yzg3RVUzY3dNdHlSUk85Z01sUGhkeF95VXR2U2JrSGdZNUZjWWozWmxLbklNRDB5VFptSmt2SFF1TC1rNVZ0dktYWTFUZldQTUJlVXF2cEc0aHlzTUVMa0I0QUxGVHVjNGtTb1I0SWVqbFlQYjlQcTczRlpIRXk0bEdFdXVDUUN1eFZnVmRkTzJEZk1nZUtEVGhDbg?oc=5",
-      "pub_date": 1795003800.0,
-      "article_url": "https://www.fool.com/investing/2026/11/18/vitalik-buterin-just-gave-ethereum-investors-a-wake-up-call-here-s-why-it-could-be-time-to-sell/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F818599a79429fe3f4e5a6e7d9e463a112e336d7b-1290x860.jpg&w=1200&op=resize",
-      "description": "Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin."
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGJvZk5OazlmdzZtcW5JcEFVM1NPdXRGMW5yaUM4TDVsNUpuTm1VQ3NjMk94TVI2SU96aUlpYUtWZEFhbG9lcEdaWUg2TXhQNjloVGNDd0JFeXpnRlBQUm1OQ0wzUUZ4UWhmLWExVXRfeWU0UGJzWUZiR1hOR0hNUA?oc=5",
+      "pub_date": 1795031162.0,
+      "article_url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-1-gID_7.jpg",
+      "description": "CoinShares, one of Europe\u2019s largest digital-asset managers, has sold its entire treasury holding of Ethereum and half of its Solana."
     },
     {
       "headline": "Current price of Ethereum for November 18, 2026",
@@ -85,14 +55,24 @@
       "description": null
     },
     {
-      "headline": "CoinShares sells all its treasury Ethereum and half its Solana to fund $40M buyback",
+      "headline": "Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here\u2019s Why It Could Be Time to Sell.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeE5GX3RtYXNLUGluNVpta3hfaXhPQV9mdzg1R2ZhRVFPdmdQTXlRUjRfVTZmTGdYX1Y4MHBlXzc1Yzg3RVUzY3dNdHlSUk85Z01sUGhkeF95VXR2U2JrSGdZNUZjWWozWmxLbklNRDB5VFptSmt2SFF1TC1rNVZ0dktYWTFUZldQTUJlVXF2cEc0aHlzTUVMa0I0QUxGVHVjNGtTb1I0SWVqbFlQYjlQcTczRlpIRXk0bEdFdXVDUUN1eFZnVmRkTzJEZk1nZUtEVGhDbg?oc=5",
+      "pub_date": 1795003802.0,
+      "article_url": "https://www.fool.com/investing/2026/11/18/vitalik-buterin-just-gave-ethereum-investors-a-wake-up-call-here-s-why-it-could-be-time-to-sell/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F818599a79429fe3f4e5a6e7d9e463a112e336d7b-1290x860.jpg&w=1200&op=resize",
+      "description": "Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin."
+    },
+    {
+      "headline": "Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNUTBlNVhoZ3FxeFV3YlNjbkdPT25PcU9wcDdwanhIQmZMQk9HRkR1eHVEd2t2VTlIUXJLZ0JZY1B4T3ZENU9kVXNaNndvZ1lMc3pOTF9NLWRvZHluWFh0andXcWdxTFpnQlVxWGxGN2pRQ0V2Z1RMY3JSUkM?oc=5",
-      "pub_date": 1795002757.0,
-      "article_url": "https://cryptobriefing.com/coinshares-sells-ethereum-solana-40m-buyback/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/18065226/library-coinshares-sells-all-its-treasury-ethereum-and-half-its--800x450.jpg",
-      "description": "CoinShares sold all its treasury ETH and half its SOL, raising $19.3 million toward a share buyback of up to $40 million after a strong Q3."
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dl9KNnJ3VXg0N3hFNkdNN0xFMkZXRVYzSmFyNU1oOVFMNXFWYVA5M0RhNzhnZTVrdzFaMHZ5b09zMzYyQWotNWpFaGxUVXBWLVNMcmVnNXlWeEVYaGtaTGZGcnJyakR3d3dCSDRFTFkzZmNUSnAw?oc=5",
+      "pub_date": 1795007902.0,
+      "article_url": "https://cryptobriefing.com/citi-cuts-bitcoin-ethereum-price-targets/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/18081811/library-citi-cuts-bitcoin-price-target-to-99-532-ethereum-to-2-8-800x450.jpg",
+      "description": "Citi lowered its Bitcoin price target to $99,532 and Ethereum to $2,838, down from October levels, as ETF flow assumptions shift again."
     },
     {
       "headline": "Ethereum's Outlook Gets Worse but Sharplink Remains a Buy: TD Cowen",
@@ -103,8 +83,28 @@
       "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63387668/ethereums-outlook-gets-worse-but-sharplink-remains-a-buy-td-cowen",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Tom Lee says Ethereum's 'waterfall decline in price' defies fundamentals as Bitmine adds 7,653 ETH",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQUlkNmVmNGo2TnQ4eEZJZmtDa0FnSDVjWnhhSVhtX0ZNWlFBeGIzVmduR01kYV9oVk1LWWF0cFVodUtIM0VfR2w5cHVMZjB5ekNObDRwWVZLSEZ6b1lZWEhuMTdMdHk0Sy1rNkNqY2pLcTM3RVoyelB1TkF1MVg1VHVfYU01WnBBOUZkX05feGhVaHl5czBpcWcySTdWZ1ZPWUxMdzMxcXFodlVPNkJHQndOREFxeDdQcmFBUTdtM2VPb21zMXllY2h2cXBDUk5MX2tQVQ?oc=5",
+      "pub_date": 1794841200.0,
+      "article_url": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2245512230-scaled-e1794903477925.jpg",
+      "description": "The Ethereum treasury company added 7,653 ETH last week, bringing its holdings to 6.08 million tokens worth approximately $11.1 billion."
+    },
+    {
+      "headline": "Zcash to $1,800, Ethereum to $2,800? Arthur Hayes Sees a Rally Before the AI Bubble Bursts",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekRlMVZsOVFTTURyTWQ3N1VGTTBiVHM0TWJnSjRDTEhFT25ZSEwzaGg3UTFfZ19sU3NYR0w1ZEhnMWtGajdTUVA1TGtueDllc2ZMQzgyWjJ3dlJaQVlNMk5tSWNUcTNMOGFuSXJseC1JT0huek5CdDVfNzlMc1Y3Q2tBb3pMbzlFMVB2REN5SjJvLWxjNklPVmk3bw?oc=5",
+      "pub_date": 1795015963.0,
+      "article_url": "https://www.ccn.com/news/crypto/zcash-1800-arthur-hayes-rally-before-ai-bubble-bursts-ethereum/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-18T17:50:13.664446+00:00"
+  "fetched_at": "2026-11-18T23:57:28.168517+00:00"
 }

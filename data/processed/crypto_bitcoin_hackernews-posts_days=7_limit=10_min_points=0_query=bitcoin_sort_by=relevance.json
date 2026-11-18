@@ -47,20 +47,6 @@
       "site_name": "ezzeriesa.com"
     },
     {
-      "title": "The Wish Economy: Inside Starlight, the Bitcoin-Native AI App Store",
-      "url": "https://starlight-ai.freemyip.com/sandbox/5de49786ace165eb6b29ca5ea3305b2c94be82784b8019010120ab42f31dc41f/",
-      "hn_url": "https://news.ycombinator.com/item?id=50457760",
-      "author": "macroadster",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-11-11T19:53:10Z",
-      "object_id": "50457760",
-      "image": null,
-      "description": "A deep dive into Starlight \u2014 the decentralized AI app store where wishes are steganographically inscribed on Bitcoin, AI agents compete to fulfill them, and satoshis settle the work.",
-      "favicon": "https://starlight-ai.freemyip.com/favicon.ico",
-      "site_name": "starlight-ai.freemyip.com"
-    },
-    {
       "title": "Show HN: TimestampGit \u2013 1-click GitHub App that anchors commits to Bitcoin",
       "url": "https://timestampgit.dev",
       "hn_url": "https://news.ycombinator.com/item?id=50547352",
@@ -143,9 +129,23 @@
       "description": null,
       "favicon": null,
       "site_name": "wsj.com"
+    },
+    {
+      "title": "Show HN: Askingprice.io \u2013 guess the price of 7 marketplace listings each day",
+      "url": "https://askingprice.io",
+      "hn_url": "https://news.ycombinator.com/item?id=50529505",
+      "author": "bigboingy",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-17T10:03:31Z",
+      "object_id": "50529505",
+      "image": "https://askingprice.io/og-image.png",
+      "description": "Seven new marketplace listings each day. Can you guess the asking price?",
+      "favicon": "https://askingprice.io/favicon.ico",
+      "site_name": "askingprice.io"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-18T17:49:40.299785+00:00"
+  "fetched_at": "2026-11-18T23:57:04.729691+00:00"
 }

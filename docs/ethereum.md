@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-18T17:50:15.681095+00:00'
+updated: '2026-11-18T23:57:37.531820+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 18, 2026 at 17:50 UTC  
+**Last Updated:** November 18, 2026 at 23:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,750.00
+### $1,756.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -12.2%  
-**30d:** -27.6%  
-**90d:** -29.6%  
-**1y:** -41.4%  
+**24h:** -2.3%  
+**7d:** -11.9%  
+**30d:** -27.3%  
+**90d:** -29.3%  
+**1y:** -41.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.29B
+**Market Cap:** $217.42B
 Rank #2
 
 **Circulating Supply:** 122,230,379 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.2%
+-64.0%
 
 **All-Time Low:** $0.43
-+408591.9%
++410714.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?
 
-3d ago
+4d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 6d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 7d ago
 
 ---
 
@@ -152,17 +152,61 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
+**[Crypto asset manager's stock jumps 13% after full Ethereum sale](https://finance.yahoo.com/markets/crypto/articles/crypto-asset-managers-stock-jumps-234015714.html)**
 
-CoinDesk • 8h ago
+This company raised $19.3 million by selling Ethereum and part of its Solana holdings to support a $40 million share buyback.
+
+Yahoo Finance • 17m ago
 
 ---
 
-**[Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip](https://finance.yahoo.com/markets/crypto/articles/tom-lee-blames-nvidia-anthropic-203603583.html)**
+**[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
 
-The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.
+CoinDesk • 14h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Why CoinShares Just Sold All Its Ethereum and Half Its Solana](https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana)**
+
+CoinShares, one of Europe’s largest digital-asset managers, has sold its entire treasury holding of Ethereum and half of its Solana.
+
+Decrypt • 4h ago
+
+---
+
+**[Current price of Ethereum for November 18, 2026](https://fortune.com/article/price-of-ethereum-11-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 12h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH and XRP stall](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-eth-and-xrp-stall-202611180256)**
+
+FXStreet • 21h ago
+
+---
+
+**[Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell.](https://www.fool.com/investing/2026/11/18/vitalik-buterin-just-gave-ethereum-investors-a-wake-up-call-here-s-why-it-could-be-time-to-sell/)**
+
+Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin.
+
+The Motley Fool • 11h ago
+
+---
+
+**[Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838](https://cryptobriefing.com/citi-cuts-bitcoin-ethereum-price-targets/)**
+
+Citi lowered its Bitcoin price target to $99,532 and Ethereum to $2,838, down from October levels, as ETF flow assumptions shift again.
+
+Crypto Briefing • 10h ago
+
+---
+
+**[Ethereum's Outlook Gets Worse but Sharplink Remains a Buy: TD Cowen](https://www.benzinga.com/crypto/cryptocurrency/26/11/63387668/ethereums-outlook-gets-worse-but-sharplink-remains-a-buy-td-cowen)**
+
+Benzinga • 9h ago
 
 ---
 
@@ -174,53 +218,9 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Price Forecast: BitMine sees SpaceX IPO-like trend in ETH ahead of Anthropic IPO](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-sees-spacex-ipo-like-trend-in-eth-ahead-of-anthropic-ipo-202611162159)**
+**[Zcash to $1,800, Ethereum to $2,800? Arthur Hayes Sees a Rally Before the AI Bubble Bursts](https://www.ccn.com/news/crypto/zcash-1800-arthur-hayes-rally-before-ai-bubble-bursts-ethereum/)**
 
-FXStreet • 1d ago
-
----
-
-**[Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence](https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks)**
-
-A wallet linked to October’s record Binance theft moved $63 million in Ethereum, before analysts flagged a larger wave of transfers.
-
-Decrypt • 1d ago
-
----
-
-**[Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell.](https://www.fool.com/investing/2026/11/18/vitalik-buterin-just-gave-ethereum-investors-a-wake-up-call-here-s-why-it-could-be-time-to-sell/)**
-
-Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin.
-
-The Motley Fool • 5h ago
-
----
-
-**[Current price of Ethereum for November 18, 2026](https://fortune.com/article/price-of-ethereum-11-18-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH and XRP stall](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-eth-and-xrp-stall-202611180256)**
-
-FXStreet • 14h ago
-
----
-
-**[CoinShares sells all its treasury Ethereum and half its Solana to fund $40M buyback](https://cryptobriefing.com/coinshares-sells-ethereum-solana-40m-buyback/)**
-
-CoinShares sold all its treasury ETH and half its SOL, raising $19.3 million toward a share buyback of up to $40 million after a strong Q3.
-
-Crypto Briefing • 5h ago
-
----
-
-**[Ethereum's Outlook Gets Worse but Sharplink Remains a Buy: TD Cowen](https://www.benzinga.com/crypto/cryptocurrency/26/11/63387668/ethereums-outlook-gets-worse-but-sharplink-remains-a-buy-td-cowen)**
-
-Benzinga • 2h ago
+CCN.com • 8h ago
 
 ---
 
@@ -234,7 +234,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 899 • 👍 62 • 💬 72 • ⏱️ 25:11 • 1h ago
+👁️ 11K • 👍 210 • 💬 45 • ⏱️ 25:11 • 7h ago
+
+---
+
+**[Ethereum Price Prediction: Back on the 5-Year Line!!](https://www.youtube.com/watch?v=NCUOY5zUyEc)**
+
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v117 CoinGPT - the AI Trade Agent I ...
+
+📺 Marzell Crypto
+
+👁️ 567 • 👍 18 • 💬 5 • ⏱️ 3:49 • 9h ago
 
 ---
 
@@ -244,7 +254,7 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 📺 Crypto Capital Venture
 
-👁️ 20K • 👍 535 • 💬 90 • ⏱️ 13:24 • 1d ago
+👁️ 21K • 👍 538 • 💬 91 • ⏱️ 13:24 • 1d ago
 
 ---
 
@@ -254,17 +264,17 @@ BITCOIN HOLDERS ARE NOT READY (New Price Target)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 190 • 💬 67 • ⏱️ 19:42 • 5h ago
+👁️ 8K • 👍 247 • 💬 72 • ⏱️ 19:42 • 11h ago
 
 ---
 
-**[Is BMNR &amp; ETH Thesis BROKEN?! (HERE&#39;S WHY)](https://www.youtube.com/watch?v=EdGTjY5UDDM)**
+**[Can Ethereum Still Outperform Bitcoin?](https://www.youtube.com/watch?v=XDkKT2WhBeo)**
 
-Ethereum has fallen from around $2400 to $1800 in four weeks, Bitmine is at $16.26, and Vitalik Buterin has just said ETH is a ...
+Ethereum is testing the 78.6% retracement at $1724, its last line of defense, and is still following Bitcoin. We analyse Ethereum ...
 
-📺 Elijah Cheng
+📺 More Crypto Online
 
-👁️ 5K • 👍 67 • 💬 39 • ⏱️ 23:30 • 1d ago
+👁️ 8K • 👍 165 • 💬 12 • ⏱️ 9:37 • 1d ago
 
 ---
 
@@ -278,43 +288,33 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/czPNWoFJ My Chart Sof
 
 ---
 
-**[Can Ethereum Still Outperform Bitcoin?](https://www.youtube.com/watch?v=XDkKT2WhBeo)**
+**[Ethereum Is On Sale](https://www.youtube.com/watch?v=lrJcyKsqqN4)**
 
-Ethereum is testing the 78.6% retracement at $1724, its last line of defense, and is still following Bitcoin. We analyse Ethereum ...
+Bored of ETH going nowhere? That's usually where the opportunity is. ETH just filled the $2350 imbalance, same as Bitcoin.
 
-📺 More Crypto Online
+📺 CryptoCharged
 
-👁️ 7K • 👍 159 • 💬 13 • ⏱️ 9:37 • 1d ago
-
----
-
-**[BITCOIN E ETHEREUM: JÁ ESTÃO BARATOS O SUFICIENTE PARA COMPRAR?](https://www.youtube.com/watch?v=7SzC5S18o6w)**
-
-OFERTA BLACK: https://blackfriday.augustobackes.com.br/ MEU PARCEIRO OFICIAL - QUANTFURY A Quantfury é a ...
-
-📺 Augusto Backes
-
-👁️ 5K • 👍 550 • 💬 14 • ⏱️ 12:35 • 2h ago
+👁️ 79 • 👍 1 • 💬 30 • ⏱️ 1:25 • 3h ago
 
 ---
 
-**[Ripple XRP Investors Have Been Urged To Do This Ethereum &amp; Crypto Are About To Change Course](https://www.youtube.com/watch?v=FtocW0bAmtE)**
+**[Is BMNR &amp; ETH Thesis BROKEN?! (HERE&#39;S WHY)](https://www.youtube.com/watch?v=EdGTjY5UDDM)**
 
-Well, this is going to come as a surprise to many of you if not every single person. The last 2 weeks have been a bit weird in the ...
+Ethereum has fallen from around $2400 to $1800 in four weeks, Bitmine is at $16.26, and Vitalik Buterin has just said ETH is a ...
 
-📺 Money Rules - Investing Tips 
+📺 Elijah Cheng
 
-👁️ 54K • 👍 3K • 💬 514 • ⏱️ 21:29 • 2d ago
+👁️ 6K • 👍 85 • 💬 43 • ⏱️ 23:30 • 1d ago
 
 ---
 
-**[Bitcoin Just Got The Biggest News Of The Year Almost No Ethereum Left 2029 Digital Euro Project](https://www.youtube.com/watch?v=ey4HAfsXJtw)**
+**[How I Spotted the Move | Bitcoin &amp; Ethereum Analysis](https://www.youtube.com/watch?v=5EJ8wAhb2XA)**
 
-We just got some news that has the cryptocurrency market buzzing. Bitcoin is back in the headlines heavily again with its best ...
+Open Crypto/Gold Trading Account: https://www.delta.exchange/?code=stockburner Explore Deeepr AI: https://deeepr.ai/ ...
 
-📺 The Modern Investor
+📺 Trade with Burner
 
-👁️ 13K • 👍 799 • 💬 100 • ⏱️ 31:04 • 2d ago
+👁️ 2K • 👍 68 • 💬 15 • ⏱️ 12:13 • 11h ago
 
 ---
 
@@ -324,7 +324,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G
 
 📺 TRADING  NEWS
 
-👁️ 7 • ⏱️ 9:36 • 6h ago
+👁️ 64 • 👍 1 • ⏱️ 9:36 • 12h ago
 
 ---
 
