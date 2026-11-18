@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-18T01:09:56.453821+00:00'
+updated: '2026-11-18T08:55:26.292607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 18, 2026 at 01:09 UTC  
+**Last Updated:** November 18, 2026 at 08:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,826.37
+### $1,803.76
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.2%  
-**7d:** -10.0%  
-**30d:** -25.8%  
-**90d:** -27.8%  
+**7d:** -10.1%  
+**30d:** -25.9%  
+**90d:** -27.9%  
 **1y:** -40.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $221.96B
+**Market Cap:** $221.51B
 Rank #2
 
-**Circulating Supply:** 122,227,436 ETH
+**Circulating Supply:** 122,230,379 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.3%
+-63.4%
 
 **All-Time Low:** $0.43
-+419313.0%
++418419.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ Does anybody know of any good decentralized email services?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear tec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -152,41 +152,63 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip](https://finance.yahoo.com/markets/crypto/articles/tom-lee-blames-nvidia-anthropic-203603583.html)**
+**[Ethereum researchers drop faster blocks to race toward quantum defenses in 2027](https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027)**
 
-The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.
-
-Yahoo Finance • 1d ago
+CoinDesk • 5d ago
 
 ---
 
-**[Tom Lee says Ethereum's 'waterfall decline in price' defies fundamentals as Bitmine adds 7,653 ETH](https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904)**
+**['It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030](https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953)**
 
-The Ethereum treasury company added 7,653 ETH last week, bringing its holdings to 6.08 million tokens worth approximately $11.1 billion.
+The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over.
 
-The Block • 1d ago
-
----
-
-**[Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip](https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys)**
-
-Ethereum has experienced a “waterfall” drop that Bitmine Chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.
-
-Decrypt • 1d ago
+The Block • 1mo ago
 
 ---
 
-**[ETH news: Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps](https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts)**
+**[Cryptocurrency lawsuit: Ethereum Foundation required suicide pledge](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)**
 
-CoinDesk • 12h ago
+On a Friday in March, employees at an international technology foundation received a 38-page document outlining leadership’s vision for the foundation for the next 1,000 years.
+
+The Denver Post • 12d ago
 
 ---
 
-**[Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)**
+**[Why EIP-8037 Is the ‘Least Bad’ Path to Scaling Ethereum Execution: Vitalik Buterin](https://cryptorank.io/news/feed/a0713-why-eip-8037-is-the-least-bad-path-to-scaling-ethereum-execution-vitalik-buterin)**
 
-In April 2023, a group of MEV bots lost over $25 million in seconds during a sophisticated attack on the Ethereum blockchain.
+CryptoRank • 1d ago
 
-The Block • 1d ago
+---
+
+**[ETH Risks Another Drop to $1.71K as This Pattern Signals Trouble (Ethereum Price Analysis)](https://cryptorank.io/news/feed/43fb1-ethereum-price-prediction-eth-risks-another-drop-to-1-71k-as-this-pattern-signals-trouble)**
+
+CryptoRank • 17h ago
+
+---
+
+**[The cryptographic world computer](https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html)**
+
+Vitalik Buterin's website • 1mo ago
+
+---
+
+**[EIP-8037/EIP-8038 Glamsterdam](https://blog.ethereum.org/2026/11/06/glamsterdam-8037-8038)**
+
+In the previous weeks Chainsecurity has found a few projects that would be vulnerable after Glamsterdam since they rely on certain invariants. These invariants...
+
+ethereum.org • 12d ago
+
+---
+
+**[ETH news: Ethereum may not be ‘just a blockchain’ in 2030, Vitalik Buterin says](https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision)**
+
+CoinDesk • 1mo ago
+
+---
+
+**[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
+
+CoinDesk • 3h ago
 
 ---
 
@@ -194,39 +216,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
-
----
-
-**[Did Ethereum’s Co-Founder Just Set the Coin on a Collision Course With Bitcoin?](https://www.fool.com/investing/2026/11/17/did-ethereum-s-co-founder-just-set-the-coin-on-a-collision-course-with-bitcoin/)**
-
-Vitalik Buterin's new take is that Ethereum should be considered as a store of value, and that position pits it against Bitcoin.
-
-The Motley Fool • 14h ago
-
----
-
-**[Bitcoin, XRP, Dogecoin Slide, Ethereum Steady as ‘Extreme Fear’ Persists: Analyst Says ‘Selling Hasn’t Stopped Yet’ as Whales Offload BTC](https://www.tradingview.com/news/benzinga:f12b5b448094b:0-bitcoin-xrp-dogecoin-slide-ethereum-steady-as-extreme-fear-persists-analyst-says-selling-hasn-t-stopped-yet-as-whales-offload-btc/)**
-
-Leading cryptocurrencies held steady on Monday as investors remained risk-averse after a sharp sell-off.Crypto Market Awaits Relief RallyBitcoin oscillated between $63,800 and $65,500 as traders awaited a rebound that could revive upward momentum. Ethereum failed to break above $1,900, down more th…
-
-TradingView • 23h ago
-
----
-
-**[Ethereum test exposes flaw that lets transactions skip payments](https://cryptoslate.com/ethereum-test-exposes-flaw-that-lets-transactions-skip-payments/)**
-
-Ethereum’s Glamsterdam tests expose skipped project payments and forgiven cash-out fees, raising concerns over smart contract reliability.
-
-CryptoSlate • 22h ago
-
----
-
-**[Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps](https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps)**
-
-Ethereum’s upcoming Glamsterdam upgrade threatens to break as many as 15,000 smart contracts, developers warned during a core developer call.
-
-Decrypt • 5h ago
+Fortune • 19h ago
 
 ---
 
@@ -240,7 +230,7 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 418 • 💬 60 • ⏱️ 13:24 • 8h ago
+👁️ 16K • 👍 491 • 💬 81 • ⏱️ 13:24 • 15h ago
 
 ---
 
@@ -250,27 +240,7 @@ Ethereum has fallen from around $2400 to $1800 in four weeks, Bitmine is at $16.
 
 📺 Elijah Cheng
 
-👁️ 2K • 👍 33 • 💬 24 • ⏱️ 23:30 • 9h ago
-
----
-
-**[Can Ethereum Still Outperform Bitcoin?](https://www.youtube.com/watch?v=XDkKT2WhBeo)**
-
-Ethereum is testing the 78.6% retracement at $1724, its last line of defense, and is still following Bitcoin. We analyse Ethereum ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 135 • 💬 7 • ⏱️ 9:37 • 7h ago
-
----
-
-**[BITCOIN WARNING SIGNAL CONFIRMED (Don&#39;t be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=lz0qkhI_Ot0)**
-
-BITCOIN WARNING SIGNAL CONFIRMED (Don't be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 225 • 💬 57 • ⏱️ 20:17 • 9h ago
+👁️ 4K • 👍 53 • 💬 29 • ⏱️ 23:30 • 17h ago
 
 ---
 
@@ -280,7 +250,27 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/czPNWoFJ My Chart Sof
 
 📺 Bitcoin Strategy
 
-👁️ 5K • 👍 45 • 💬 4 • ⏱️ 9:28 • 1d ago
+👁️ 6K • 👍 48 • 💬 4 • ⏱️ 9:28 • 1d ago
+
+---
+
+**[Can Ethereum Still Outperform Bitcoin?](https://www.youtube.com/watch?v=XDkKT2WhBeo)**
+
+Ethereum is testing the 78.6% retracement at $1724, its last line of defense, and is still following Bitcoin. We analyse Ethereum ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 154 • 💬 9 • ⏱️ 9:37 • 15h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL CONFIRMED (Don&#39;t be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=lz0qkhI_Ot0)**
+
+BITCOIN WARNING SIGNAL CONFIRMED (Don't be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 261 • 💬 66 • ⏱️ 20:17 • 17h ago
 
 ---
 
@@ -290,37 +280,17 @@ We just got some news that has the cryptocurrency market buzzing. Bitcoin is bac
 
 📺 The Modern Investor
 
-👁️ 12K • 👍 788 • 💬 121 • ⏱️ 31:04 • 1d ago
+👁️ 12K • 👍 793 • 💬 119 • ⏱️ 31:04 • 1d ago
 
 ---
 
-**[Cathie Wood :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=-E7mPU6BqgA)**
+**[Ripple XRP Investors Have Been Urged To Do This Ethereum &amp; Crypto Are About To Change Course](https://www.youtube.com/watch?v=FtocW0bAmtE)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Well, this is going to come as a surprise to many of you if not every single person. The last 2 weeks have been a bit weird in the ...
 
-📺 Crypto Nutshell
+📺 Money Rules - Investing Tips 
 
-👁️ 62K • 👍 494 • 💬 33 • ⏱️ 21:54 • 2d ago
-
----
-
-**[ETH Crash: 2022 All Over Again? Remember what comes next..](https://www.youtube.com/watch?v=HvR-NwyiLLQ)**
-
-WEEX - where my trades go ($200 bonus when you sign up and deposit $50 or more, T&Cs apply) https://marzell.org/wx-v115 ...
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 18 • 💬 1 • ⏱️ 4:21 • 1d ago
-
----
-
-**[LAST CHANCE FOR ETH RECOVERY (Ethereum Price Prediction)](https://www.youtube.com/watch?v=GGmE7tfKeA4)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 605 • 👍 14 • ⏱️ 4:49 • 15h ago
+👁️ 53K • 👍 3K • 💬 524 • ⏱️ 21:29 • 1d ago
 
 ---
 
@@ -330,7 +300,27 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 11K • 👍 139 • 💬 51 • ⏱️ 11:46 • 2d ago
+👁️ 11K • 👍 141 • 💬 50 • ⏱️ 11:46 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum, Diese beiden Szenarien beobachte ich! Meet me in Köln 27.11.26](https://www.youtube.com/watch?v=XXUqZitMIw8)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 400€ +8% Bonus auf eure Einzahlung + ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 335 • 💬 52 • ⏱️ 8:18 • 3h ago
+
+---
+
+**[LAST CHANCE FOR ETH RECOVERY (Ethereum Price Prediction)](https://www.youtube.com/watch?v=GGmE7tfKeA4)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 746 • 👍 14 • 💬 1 • ⏱️ 4:49 • 22h ago
 
 ---
 

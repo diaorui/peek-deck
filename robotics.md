@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-18T01:09:56.455975+00:00'
+updated: '2026-11-18T08:55:26.294787+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 18, 2026 at 01:09 UTC  
+**Last Updated:** November 18, 2026 at 08:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-2d ago
+3d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-2d ago
+3d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-2d ago
+3d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-3d ago
+4d ago
 
 ---
 
@@ -114,43 +114,19 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 Discover Gemini 4 Hydrogen: a fast, cost-effective model for robotics featuring real-time spatial reasoning, agentic control, and seamless integration with the Antigravity Robotics plugin and MuJoCo simulation.
 
-Google for Developers Blog • 7h ago
+Google for Developers Blog • 15h ago
+
+---
+
+**[French robot maker Genesis raises $500 million at $3.5 billion valuation](https://www.reuters.com/business/finance/french-robot-maker-genesis-raises-500-million-35-billion-valuation-2026-11-17/)**
+
+Reuters • 18h ago
 
 ---
 
 **[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
 
-WSJ • 11h ago
-
----
-
-**[EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise](https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/)**
-
-Reuters • 7h ago
-
----
-
-**[Nvidia tells robotics startups they have its support as questions swirl about its investment strategy](https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11)**
-
-After Jensen Huang's exit, Nvidia contacted robotics startups to reassure them of its support amid questions about its investment strategy.
-
-Business Insider • 6h ago
-
----
-
-**[OpenAI’s Astra Is a Boon to Robotics, Says Nvidia Robotics Chief Deepu Talla](https://www.theinformation.com/articles/openais-astra-boon-robotics-says-nvidia-robotics-chief-deepu-talla)**
-
-When OpenAI released its Astra model in September, users quickly found that it excelled at tasks that require understanding the physical world. One of those most impressed by its performance was Nvidia’s robotics chief Deepu Talla, who told The Information it is a breakthrough in efforts to ...
-
-The Information • 20h ago
-
----
-
-**[Toronto’s Promise Robotics raises $40-million to automate more homebuilding](https://www.theglobeandmail.com/business/technology/article-torontos-promise-robotics-raises-40-million-automate-homebuilding/)**
-
-Startup has already landed Mattamy Homes and D.R. Horton as early customers and set up factories in Calgary and outside Edmonton
-
-The Globe and Mail • 12h ago
+WSJ • 18h ago
 
 ---
 
@@ -158,23 +134,43 @@ The Globe and Mail • 12h ago
 
 Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.
 
-TechCrunch • 11h ago
+TechCrunch • 18h ago
 
 ---
 
-**[Eric Trump’s Robot Soldier Startup Fails to Pay Employees After CEO Bought a $4.6 Mansion With Company Funds](https://futurism.com/future-society/eric-trump-foundation-robotics-soldier-startup-ceo-mansion-payroll)**
+**[EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise](https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/)**
 
-A robotics company with major connects to federal procurement officials is under scrutiny after it failed to pay its employees wages.
-
-Futurism • 11h ago
+Reuters • 14h ago
 
 ---
 
-**[Learn how AI is changing supply chain robotics](https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/)**
+**[Boston Dynamics’ Atlas humanoid lands first non-automotive trial](https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/)**
 
-The live webinar, "Robots in the Supply Chain," will take place Wednesday, November 18, 2026, at 12 P.M. ET.
+Boston Dynamics’ Atlas humanoid will start its first trials outside the automotive industry at a semiconductor manufacturer in early 2027.
 
-The Robot Report • 4h ago
+The Robot Report • 17h ago
+
+---
+
+**[OpenAI’s Astra Is a Boon to Robotics, Says Nvidia Robotics Chief Deepu Talla](https://www.theinformation.com/articles/openais-astra-boon-robotics-says-nvidia-robotics-chief-deepu-talla)**
+
+When OpenAI released its Astra model in September, users quickly found that it excelled at tasks that require understanding the physical world. One of those most impressed by its performance was Nvidia’s robotics chief Deepu Talla, who told The Information it is a breakthrough in efforts to ...
+
+The Information • 1d ago
+
+---
+
+**[Nvidia tells robotics startups they have its support as questions swirl about its investment strategy](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGRrWnlsOHJUN0xqM2kydkxFQS1qTUY0LWY4Q1VrWl9JOFUtVzhLbHhWXzY3Y1hTOTlGY1ZPM2UxaWhsZlNMOXM4VXJsMms5VzlxUUhwa3BUODBXZFh1cHVuTHJ5YnNVcnIwMHg1eE1VRDREX1kyRDJ5VWt2bWNFNC1ESmtlYjAtWGwxWEE0OHJwb0lVcHhrWlQxenhzWEtjcWtYVkdvcHZLN2pU?oc=5)**
+
+Business Insider • 13h ago
+
+---
+
+**[28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security)**
+
+VicOne’s AI-assisted research reveals what faster zero-day discovery means for robot safety
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -182,7 +178,7 @@ The Robot Report • 4h ago
 
 Researchers develop a humanoid robot to collect floor eggs in cage-free poultry farms and tackle labor shortages
 
-Interesting Engineering • 15h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -190,63 +186,13 @@ Interesting Engineering • 15h ago
 
 ## YouTube Videos: "robotics"
 
-**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
-
-A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
-
-📺 NBC Bay Area
-
-👁️ 35K • 👍 206 • 💬 188 • ⏱️ 2:44 • 19h ago
-
----
-
 **[Robotic Deep-Dive: Beating China, the Race Against Tesla, &amp; New Robotics Timeline With Brett Adcock](https://www.youtube.com/watch?v=E864U582FVY)**
 
 The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss the global race in humanoid robotics, how Figure ...
 
 📺 Peter H. Diamandis
 
-👁️ 176K • 👍 2K • 💬 587 • ⏱️ 2:12:13 • 1d ago
-
----
-
-**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
-
-Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
-
-📺 CNET
-
-👁️ 39K • 👍 364 • 💬 37 • ⏱️ 4:02 • 2d ago
-
----
-
-**[El Salvador&#39;s Bukele Unleashes Gun-Wielding Robot Dogs, Haiti Gangs &#39;Surrender&#39; | Vantage](https://www.youtube.com/watch?v=bFX4DdkJFBI)**
-
-El Salvador's President Nayib Bukele has shared footage of his troops carrying out anti-gang operations in Haiti. Salvadoran ...
-
-📺 Firstpost
-
-👁️ 1.6M • 👍 15K • 💬 4K • ⏱️ 5:30 • 4d ago
-
----
-
-**[I&#39;ve Tested 250+ Robot Vacuums — Which Brand Is Actually the BEST?](https://www.youtube.com/watch?v=b-2BvUXH5oQ)**
-
-Which robot vacuum brand is best in 2026? I've purchased and tested over 250 robot vacuum cleaners, and in this honest ...
-
-📺 Just A Dad Approved
-
-👁️ 7K • 👍 126 • 💬 38 • ⏱️ 22:46 • 13h ago
-
----
-
-**[Tesla’s New Optimus Gen 4 Plan Is Shocking The Entire Robotics Industry!](https://www.youtube.com/watch?v=qBPRmF6QuWs)**
-
-Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid robots a year—one robot every 3 seconds, day and ...
-
-📺 States 2050
-
-👁️ 93K • 👍 1K • 💬 45 • ⏱️ 26:12 • 4d ago
+👁️ 189K • 👍 3K • 💬 598 • ⏱️ 2:12:13 • 1d ago
 
 ---
 
@@ -260,13 +206,53 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots How 
 
 ---
 
-**[I Found The DEADLIEST Nekton Setup! 😱 (One-Shot Kill) — War Robots](https://www.youtube.com/watch?v=tqT_yb4E0hk)**
+**[I&#39;ve Tested 250+ Robot Vacuums — Which Brand Is Actually the BEST?](https://www.youtube.com/watch?v=b-2BvUXH5oQ)**
 
-Taking the brand-new Nekton robot out with Iaraghi weapons to test out what is easily the most absurdly powerful setup for it yet!
+Which robot vacuum brand is best in 2026? I've purchased and tested over 250 robot vacuum cleaners, and in this honest ...
 
-📺 Adrian Chong
+📺 Just A Dad Approved
 
-👁️ 4K • 👍 155 • 💬 23 • ⏱️ 21:03 • 11h ago
+👁️ 9K • 👍 153 • 💬 39 • ⏱️ 22:46 • 20h ago
+
+---
+
+**[Inside China&#39;s emerging ‘Robot Valley’](https://www.youtube.com/watch?v=6ZKG95kf7g0)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube In the southern Chinese city of Shenzhen, ...
+
+📺 South China Morning Post
+
+👁️ 9K • 👍 66 • 💬 9 • ⏱️ 4:51 • 10h ago
+
+---
+
+**[Tesla’s New Optimus Gen 4 Plan Is Shocking The Entire Robotics Industry!](https://www.youtube.com/watch?v=qBPRmF6QuWs)**
+
+Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid robots a year—one robot every 3 seconds, day and ...
+
+📺 States 2050
+
+👁️ 95K • 👍 1K • 💬 49 • ⏱️ 26:12 • 4d ago
+
+---
+
+**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
+
+Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
+
+📺 CNET
+
+👁️ 40K • 👍 367 • 💬 38 • ⏱️ 4:02 • 2d ago
+
+---
+
+**[U S  Army&#39;s New Robot Launches a Swarm of 18 Autonomous Attack Drones! 🤯](https://www.youtube.com/watch?v=cwmp1MpkHWE)**
+
+The future of warfare is becoming increasingly autonomous! The U.S. Army has demonstrated a robotic ground vehicle called ...
+
+📺 Techie Sapien
+
+👁️ 5K • 💬 3 • ⏱️ 0:06 • 1h ago
 
 ---
 
@@ -276,17 +262,27 @@ At 25 years old, independent countryside mechanic and engineer Ethan Walker spen
 
 📺 Technology Next World
 
-👁️ 43K • 👍 106 • 💬 5 • ⏱️ 12:29 • 2d ago
+👁️ 44K • 👍 109 • 💬 5 • ⏱️ 12:29 • 2d ago
 
 ---
 
-**[The $25,000 Humanoid Robot Is Finally Here! 🤖⚡](https://www.youtube.com/watch?v=7eX1ou9mKEk)**
+**[🚨 Scientists Just Created a Real-Life Terminator Robot? #robotics #robot #airevolution](https://www.youtube.com/watch?v=GW4AJ9TcqnE)**
 
-EngineAI just disrupted the humanoid robotics market with the T-800—a full-sized, 5'8" bipedal robot starting at just $25000!
+South Korean researchers have developed a shape-shifting liquid robot that can switch between solid and liquid forms using ...
 
-📺 CodeToCarbon
+📺 AI Robotics Madness
 
-👁️ 2K • 👍 55 • 💬 4 • ⏱️ 0:39 • 7h ago
+👁️ 48K • 👍 946 • 💬 39 • ⏱️ 0:28 • 6d ago
+
+---
+
+**[Japan&#39;s Humanoid Robot N Can Walk and Lift Boxes! 🤯🤖](https://www.youtube.com/watch?v=XgelnsPo4HQ)**
+
+Japan's new humanoid robot "N" is ready for real-world tasks! It can walk, squat, and lift boxes while helping train AI through ...
+
+📺 Nexio Core
+
+👁️ 4K • 💬 2 • ⏱️ 0:06 • 5h ago
 
 ---
 
