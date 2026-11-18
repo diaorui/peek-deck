@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-18T01:09:41.282935+00:00",
+  "data": {
+    "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+    "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics- Google Developers Blog",
+    "description": "Discover Gemini 4 Hydrogen: a fast, cost-effective model for robotics featuring real-time spatial reasoning, agentic control, and seamless integration with the Antigravity Robotics plugin and MuJoCo simulation.",
+    "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Robotics_Banner.2e16d0ba.fill-1200x600.jpg",
+    "favicon": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/meta/apple-touch-icon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

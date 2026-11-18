@@ -5,14 +5,34 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+      "headline": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWRKQnVuWHo5bTVLZEZhbmd0Tmo1UVBVb3FPalZTRDhNLTk3VmdGWENleGc1cGVKLXdmeG1KeXAtbmR3STJ4cmdVY0hYQkp0a1AyOEdKV0JvMUtxMHJNT2I4SThxQzFxcUg0LVIwdTh0cEgwNXAxV1BqS01Gc2M5VTl4NGhLcGozMFQtak9iekJmTlBiQjNpQ1VR?oc=5",
-      "pub_date": 1794935921.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/binance-hack-wallets-move-137-171841253.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/af504138f5c6eac88b322e400dc8df2c38e95809f0e2ee955b4f38bff4b54db9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F85d8566571cdef86be97fb0d34c1820e.png",
-      "description": "A wallet linked to October\u2019s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
+      "pub_date": 1794861363.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-blames-nvidia-anthropic-203603583.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1fb36acae099ed19d62dfa7520903a120c364c209f7ead8e53777fbef19ac833/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fa0780072c989e0792375e74c1841ae7f.jpg",
+      "description": "The firm\u2019s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a \u201cwaterfall\u201d drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic\u2019s IPO."
+    },
+    {
+      "headline": "Tom Lee says Ethereum's 'waterfall decline in price' defies fundamentals as Bitmine adds 7,653 ETH",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQUlkNmVmNGo2TnQ4eEZJZmtDa0FnSDVjWnhhSVhtX0ZNWlFBeGIzVmduR01kYV9oVk1LWWF0cFVodUtIM0VfR2w5cHVMZjB5ekNObDRwWVZLSEZ6b1lZWEhuMTdMdHk0Sy1rNkNqY2pLcTM3RVoyelB1TkF1MVg1VHVfYU01WnBBOUZkX05feGhVaHl5czBpcWcySTdWZ1ZPWUxMdzMxcXFodlVPNkJHQndOREFxeDdQcmFBUTdtM2VPb21zMXllY2h2cXBDUk5MX2tQVQ?oc=5",
+      "pub_date": 1794841200.0,
+      "article_url": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2245512230-scaled-e1794903477925.jpg",
+      "description": "The Ethereum treasury company added 7,653 ETH last week, bringing its holdings to 6.08 million tokens worth approximately $11.1 billion."
+    },
+    {
+      "headline": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjhBVEJLWENoek1maUFDT194bTY4Q3BZWnZrWDNzdWl5alMzZWpRWEhDZHZfTGFkTVAzNHNnM0xLTTItZzRVS1ZpSjlDaWI3dHMtcXhMVEcxdm1fUzJiLWQyNGI1dWNuZm91aFNURTRTT0FmZndkSklObHF0dzUtakVrSGZmNXVSUmFIcFFpMXA5WlFu?oc=5",
+      "pub_date": 1794861363.0,
+      "article_url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
+      "description": "Ethereum has experienced a \u201cwaterfall\u201d drop that Bitmine Chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic\u2019s IPO."
     },
     {
       "headline": "ETH news: Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
@@ -33,36 +53,6 @@
       "article_url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
       "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231024_MEV_News3.png",
       "description": "In April 2023, a group of MEV bots lost over $25 million in seconds during a sophisticated attack on the Ethereum blockchain."
-    },
-    {
-      "headline": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2pTMnBPV21nRDJmM1pRTF9hcWVXR2k4MEJnSjlfY2EzYS1xZmc2TTN4NC1WMHlTblA0aFZJMUtzOHJ4THJPUElmWFp3Q0h0eXZoLTBRbTB6UTFzY3FpVlk4c01ZZGo0c1c0NF94X2V5ZDZ2LW51YW5IZFFKY2dnc3FlUkpPcEJMQTI2UGZjQTRPWlo0WDZlUVpod24?oc=5",
-      "pub_date": 1794907649.0,
-      "article_url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png",
-      "description": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked."
-    },
-    {
-      "headline": "Judge Acquits \u2018MEV Brothers\u2019 in $25 Million Ethereum Case, Finding No Misrepresentation",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0JuWDJxX0RQcGhoV3J4b2xOcG1xWjFsLXNnLVZCSVh0U2E5eXBDYTFGNVdZUDh5emthYjNiYXBaMGZIRF9IUFN2ZlBkWkhtdWxOQ3lPMXR3UU42NWk2MkVXTnZfaERhY1h1dk9YcEZEd09CZk02emFOeHJRdkxqaFNveUtuZHRTejFN?oc=5",
-      "pub_date": 1794912349.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/judge-acquits-mev-brothers-25-104549130.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/604f9614f2996c8804d222f55e6bedd43e9ad1907aa963f558b17280934f4e99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2Fc7b0a2821712abfcf48073a50fb86c0e.png",
-      "description": "A federal judge ruled prosecutors never showed that Anton and James Peraire-Bueno lied when they drained Ethereum trading bots in 2023, a year after their trial ended with a deadlocked jury."
-    },
-    {
-      "headline": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjhBVEJLWENoek1maUFDT194bTY4Q3BZWnZrWDNzdWl5alMzZWpRWEhDZHZfTGFkTVAzNHNnM0xLTTItZzRVS1ZpSjlDaWI3dHMtcXhMVEcxdm1fUzJiLWQyNGI1dWNuZm91aFNURTRTT0FmZndkSklObHF0dzUtakVrSGZmNXVSUmFIcFFpMXA5WlFu?oc=5",
-      "pub_date": 1794861363.0,
-      "article_url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-      "description": "Ethereum has experienced a \u201cwaterfall\u201d drop that Bitmine Chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic\u2019s IPO."
     },
     {
       "headline": "Current price of Ethereum for November 17, 2026",
@@ -103,8 +93,18 @@
       "article_url": "https://cryptoslate.com/ethereum-test-exposes-flaw-that-lets-transactions-skip-payments/",
       "image": "https://cryptoslate.com/wp-content/uploads/2026/11/receipt.jpg",
       "description": "Ethereum\u2019s Glamsterdam tests expose skipped project payments and forgiven cash-out fees, raising concerns over smart contract reliability."
+    },
+    {
+      "headline": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNak1ENERnUXRGX3pRLUxIcVM0ZUlyWkxOQ3ZOVHVEc2kzV0xGQkZUOVR0YzFiUUJuT01NVklzbXF2UWpLT0pmYUR4Tkt1N1paNXBRbmhTekp5cmtxd2RYRkRvZ19CbWcxMTJjUERaUEtJMFJzS0RFOVU3a09nQXQ0UHlXeHk?oc=5",
+      "pub_date": 1794943562.0,
+      "article_url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ethereum-decrypt-style-05-gID_7.png",
+      "description": "Ethereum\u2019s upcoming Glamsterdam upgrade threatens to break as many as 15,000 smart contracts, developers warned during a core developer call."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-17T18:24:07.512199+00:00"
+  "fetched_at": "2026-11-18T01:09:38.440656+00:00"
 }

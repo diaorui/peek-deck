@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+      "source": "Google for Developers Blog",
+      "source_url": "https://developers.googleblog.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01dDBZQUpzcHZreTMtTDUxTGhmTkhWVFBMdkNFMFByWTh4aWZ5MXpxMlFqc0JQZVVVdTRURUljaUtZZ0tPYTRUUnFIa0d6ak8tR3FlRndPVGo4TEJOZ0t0Y01LVlJkS3VxUDZpUU1LLTg?oc=5",
+      "pub_date": 1794937405.0,
+      "article_url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+      "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Robotics_Banner.2e16d0ba.fill-1200x600.jpg",
+      "description": "Discover Gemini 4 Hydrogen: a fast, cost-effective model for robotics featuring real-time spatial reasoning, agentic control, and seamless integration with the Antigravity Robotics plugin and MuJoCo simulation."
+    },
+    {
       "headline": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -19,40 +29,20 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkxwR0lDSTlWVnhqS0FvQXY0VUllMGZ4MWdtZ0lQVXNTaVNzSlluaFlQV05zcHNDVGpSTFdFM09PZXRXTWZMLTZiYjVIZUFSQm5rejh6SmxOTndicUphR3FrWGR1cER5ODNERFNJbEJtVGxvYnhqT2tZdlhrV3ktdGotQ3VyVmMydG5CN1ZST2l0bVprMHgxN3JFdGNCX1lRMW15OUk1YXRhYmVtS1RCaw?oc=5",
-      "pub_date": 1794935864.0,
+      "pub_date": 1794938538.0,
       "article_url": "https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/",
       "image": null,
       "description": null
     },
     {
-      "headline": "General Motors is planning a 20% boost in factory robotics by 2028",
-      "source": "Quartz",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5Wkg0QUxnTHl4dkpkb0s3QXl5WUtUbHpWcGFQLTZxT3lUTlo5Smo2WURMZE5JNTJMaWFlLTh0dlUza0ZUYU1wQUdneE5VclhrME1CSGY2QUF6NG9jOUxwUERpLTBWMnUyTThldWxMNUhKT0VmNlRn?oc=5",
-      "pub_date": 1794936241.0,
-      "article_url": "https://qz.com/gm-factory-robotics-automation-20-percent-2028-111726",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1236631802-300x200.jpg",
-      "description": "The automaker is building its own robots at its Kokomo, Indiana, plant and weighing suppliers' automation plans in contract decisions"
-    },
-    {
-      "headline": "General Motors plans 20% boost in robotics to cut costs",
-      "source": "The Detroit News",
-      "source_url": "https://www.detroitnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZFFxNzRCUV9yZ0V2N0N4TGx6dWw1MUgzcnFjeFJEdllTS3oxcmNjb3l3OVZhV0pTTmhGRF9MWXloSjFCRVhuWWR2WGZjdTk4b0hRdE1sRzFoNXJHdU5LV0NiUURpNjZaMjh4c0NydUlOdTRHdjZRUlBySmpEampTMEVJQUh0MVRUZG5qdG5YdUJ1UTdwTTdHek1GRzJFVnVkeVZOa2d4c0JwYVU1U3RadVRYUlJDaWdUQjRKSmdXeDR0ZWVQeUhzQUR3TDRrYk9JWjJ2X2Q4YU5haVlKQnppNg?oc=5",
-      "pub_date": 1794926520.0,
-      "article_url": "https://www.detroitnews.com/story/business/autos/general-motors/2026/11/17/gm-plans-20-percent-boost-in-robotics-as-factory-costs-rise/92823834007/",
-      "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/11/17/PDTN/92823930007-20261117-t-110046-z-1739984241-rc-2-xziaqbtqa-rtrmadp-3-gmrobots.JPG?crop=4676,2631,x0,y269&width=3200&height=1801&format=pjpg&auto=webp",
-      "description": "General Motors Co. is aiming to increase use of robots and other automation by 20% at its North American factories by 2028."
-    },
-    {
-      "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEF0S2EzRXozeVdvVHdyTkVCRDF2Z0ZhenNTb09xM3BKU0VVYWFvNXRpa3lEbTlxbTNqTFU2amtzdm9oSzZBRExBNFQxZEVPM0hNNHRrdXFsRGl6cnlkSktyZllqaUtxdkl2LVVQaUtXcWpyUEhKMHZuX2dfVTY0V256Wm80dTU0RkFTQkVIdWxBVGxJWHJHemdrYnRWa2M3bHhxVG9ORC0?oc=5",
-      "pub_date": 1794869907.0,
-      "article_url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
-      "description": "Robotics startup misses payroll a year after CEO used funds for luxury home."
+      "headline": "Nvidia tells robotics startups they have its support as questions swirl about its investment strategy",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGRrWnlsOHJUN0xqM2kydkxFQS1qTUY0LWY4Q1VrWl9JOFUtVzhLbHhWXzY3Y1hTOTlGY1ZPM2UxaWhsZlNMOXM4VXJsMms5VzlxUUhwa3BUODBXZFh1cHVuTHJ5YnNVcnIwMHg1eE1VRDREX1kyRDJ5VWt2bWNFNC1ESmtlYjAtWGwxWEE0OHJwb0lVcHhrWlQxenhzWEtjcWtYVkdvcHZLN2pU?oc=5",
+      "pub_date": 1794942180.0,
+      "article_url": "https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11",
+      "image": "https://i.insider.com/6afc9cf304834674c81c6c37?width=1200&format=jpeg",
+      "description": "After Jensen Huang's exit, Nvidia contacted robotics startups to reassure them of its support amid questions about its investment strategy."
     },
     {
       "headline": "OpenAI\u2019s Astra Is a Boon to Robotics, Says Nvidia Robotics Chief Deepu Talla",
@@ -65,24 +55,14 @@
       "description": "When OpenAI released its Astra model in September, users quickly found that it excelled at tasks that require understanding the physical world. One of those most impressed by its performance was Nvidia\u2019s robotics chief Deepu Talla, who told The Information it is a breakthrough in efforts to ..."
     },
     {
-      "headline": "Israel ranks second globally in physical AI",
-      "source": "CTech",
-      "source_url": "https://www.calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOUFsNVlVRXh5cHU3NGhySkhkOTlGM3RJRm1KUDBVSmFJVmVQRVdaOGhTbXZBS3ZtVkVmY2pfRjk4eWJMdHNDS2ZXQlYzeXNOeFNFcTl5TU1VbTRhQkFBZ2dIRE5ja1U?oc=5",
-      "pub_date": 1794831480.0,
-      "article_url": "https://www.calcalistech.com/ctechnews/article/7cg3rfv6z",
-      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/06/HkdzcyoVWe/HkdzcyoVWe_1_39_1601_901_0_large.jpg",
-      "description": "One in five Israeli startups is building technology that brings AI into the physical world, putting the country behind only Germany. But an AWS study warns that slow customer adoption is holding back the sector's growth worldwide."
-    },
-    {
-      "headline": "Robot Makers Sell the Work Instead of the Machine",
-      "source": "PYMNTS.com",
-      "source_url": "https://www.pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmJERVYwb20yYnRWcTN1d29OSk9XendXRTdaYTBDMWpXWXZPM1NrYkJHMkNzVjBWT20wZTRnRDhKQ1lPbG9SdzBZbWw4VUxhb1ROeXZhOHhSNWJmMjg4aDFXY1hfS0Jxb1VkaVkzSEZRN2xpbTVZZ0NxejBHdTRzY3ZUMG9FTkd3S2tVektoQXBici1oOUNaUjN0N09iSllIQUE?oc=5",
-      "pub_date": 1794938400.0,
-      "article_url": "https://www.pymnts.com/news/artificial-intelligence/2026/robot-makers-sell-work-rather-than-machine/",
-      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Tutor-Intellilgence-robots-AI.jpg",
-      "description": "A warehouse that wants to use a robot usually must buy one. The purchase ties up capital before the machine moves a box, and the cost stays the same"
+      "headline": "Toronto\u2019s Promise Robotics raises $40-million to automate more homebuilding",
+      "source": "The Globe and Mail",
+      "source_url": "https://www.theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXhzMXczR3hQcFZ2VTZiQVZZRmV3WklsZW5sc0F2enlHdGZveWJjLXcxeWhLOENjS0N2bl9pWGdhLU95ZmlrSjNMaG00M1ctSTUtajhVeWNaODNSMUZxdlRTSmZOcnFiX01hSno4UmZMLWhSMXhza2Q4ZkJTbEhMWTg1cTdfN05qbk9nWkVlQ2hPUllyREVDRldPVnRnSUZRZmY2NmFvc0dOY2pIZVZLTFpzWEJ0cTVwTENtV3pSeVcxRVlL?oc=5",
+      "pub_date": 1794920400.0,
+      "article_url": "https://www.theglobeandmail.com/business/technology/article-torontos-promise-robotics-raises-40-million-automate-homebuilding/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/2A3CIOYBTVBVHOKBFNSOBGUDSQ.jpg?auth=1d9d839e1b8857c5fdfcc8d66e4397ce09d51e67cd6518f0d8a4a264af35d499&width=1200&height=800&quality=80&smart=true",
+      "description": "Startup has already landed Mattamy Homes and D.R. Horton as early customers and set up factories in Calgary and outside Edmonton"
     },
     {
       "headline": "Genesis AI raises $500M to deploy glove-wearing robots",
@@ -95,16 +75,36 @@
       "description": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding."
     },
     {
-      "headline": "Scout Robotics launches next-gen railroad technology",
-      "source": "Trains Magazine",
-      "source_url": "https://www.trains.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDVtOWVibVJ1ZWVQaWVocjJPemtnRC1EVXRUQWtzclk4NHRMOE04cjVIaWlCWVlTOWpvYzhFSFFQUWphdzE5MUlQMk44RXNnT190cmhfV0YwN3pNMDF1TktVWWRiT3J5QlJKbzdCNVVzRHRhTDNLSHVFc3FPVWZEYjh6SHhpclNONXRDTjUzQUoxQQ?oc=5",
-      "pub_date": 1794903342.0,
-      "article_url": "https://www.trains.com/pro/freight/scout-robotics-launches-next-gen-railroad-technology/",
-      "image": null,
-      "description": null
+      "headline": "Eric Trump\u2019s Robot Soldier Startup Fails to Pay Employees After CEO Bought a $4.6 Mansion With Company Funds",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXh6aDc3eWVvMS1yTTItellVTldLOVhYRF9qLXZQelNzZlNxT3ZVQS0yZFlWQ2lOcEhQdjdpZ3FBLVhfa2pxdUt5cHBXemg5RzlBMmVoMVFqVWdDVTJnTFJsRWRaUWtZcl9lLWdQckJyQmFBLW5XRHp2SkFJbjVRS2hoeXNkYWc1SGcwRm9rb1MyZ3lDd0tVdDVHakF4M20ySzg4Yg?oc=5",
+      "pub_date": 1794922161.0,
+      "article_url": "https://futurism.com/future-society/eric-trump-foundation-robotics-soldier-startup-ceo-mansion-payroll",
+      "image": "https://futurism.com/wp-content/uploads/2026/11/eric-trump-robot-ceo-mansion.jpg?w=1200",
+      "description": "A robotics company with major connects to federal procurement officials is under scrutiny after it failed to pay its employees wages."
+    },
+    {
+      "headline": "Learn how AI is changing supply chain robotics",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanRoUy01cWExVzFIdFlXZHVPeVRUN2VYMmhaM0FsdGZsR3R3MjFBSEpmV3B5UWRqbEJSOHdzOENBQkhMYklUQUlCMlpsME5HVHVPbW1TZG4yM096REp5U0lib3lCNmN0LWhWWUtmS3JlM2k3b3diQXZycjdka1Fxb2F1QXA?oc=5",
+      "pub_date": 1794946639.0,
+      "article_url": "https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/robotsinsupplychain-featured.jpg",
+      "description": "The live webinar, \"Robots in the Supply Chain,\" will take place Wednesday, November 18, 2026, at 12 P.M. ET."
+    },
+    {
+      "headline": "Four-foot humanoid robot learns to collect floor eggs for cage-free US poultry farms",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR01ZVXF1V0xuRWpOR0VWS0ZyVDU3bzlnanVobFhXdDNLN3ZPWW9sazRhaU5NVlgtZGNhakNjWFhVNDNEbmgtMDRlVGNqSW1iVWR4NzVGR0xwUFRINk1wZUJDU0dPdHktSUFqRXdqNXZrZ29FQ1l6bDRqM0tvRDBSbjVybnBwN3E1bDRn?oc=5",
+      "pub_date": 1794909720.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/us-humanoid-robot-collect-floor-eggs",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-1-8.jpg",
+      "description": "Researchers develop a humanoid robot to collect floor eggs in cage-free poultry farms and tackle labor shortages"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-17T18:24:11.588728+00:00"
+  "fetched_at": "2026-11-18T01:09:48.932428+00:00"
 }

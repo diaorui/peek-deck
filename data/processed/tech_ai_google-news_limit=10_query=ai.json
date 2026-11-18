@@ -5,24 +5,34 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Aschenbrenner\u2019s Situational Awareness made AI bets again before October rout",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDF4NjMtSmtZNmxYUmVvZXRoMEIyU2VnZlVBcFByN1ZNY29KeEtkd3BDNl95VUstczItTTBfbi01eDk2S0VXV3MxSWM2SlVnMFpGMC12ZzlyRGUwNWZtVVRZM3lFSHZmQ2RJdUR4YV9kSElka0VDbnZ6eFJfZGZlY3pZWHRKTWJHazBnaNIBkgFBVV95cUxNRXVHTnM5dW4xWlpHUEZBMU5ySDVwbjE3cW1pLTRrcGtnVzNOendMcjgwdFhvN1pkQU40RGFYVk9wVzdSR2dZQWFZR3g3U2hhYUlnQ3dadWxiU2RDcnpqMUd6MG5NNkhjQmw4VVFSSnM4ZmI3QWgyTHRTX2lMR1R0YkhoSkZhaWx5Q3ZUSEdQNnk1dw?oc=5",
-      "pub_date": 1794869355.0,
-      "article_url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&w=1920&h=1080",
-      "description": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling."
+      "headline": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4YlhWNC1xblo0NzdIaWExSVNOSEl6MkpHMjF3ZDV3OENZUnNzVnEwUTR5U29FWUZiLVRnckE1UTV6c0tURDJSWTlIaXc3N19tcUVILUVlZ2NOaU16ZE5aQkE4SlF6eTFERlJEUVh2WW03WnFZbmNhYlhjNHg?oc=5",
+      "pub_date": 1794960379.0,
+      "article_url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Can Google win the AI race without killing its cash cow? : Planet Money",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjA3LV9GUV9pYUJHaEo1d3hMMW9wTHBBSkdicXBENlhsNHdhSGtOMlpBNWJQMHNOOEJtd294d3pYZFhSWUlCZGJWOS1IczB4WnJsOTJRNkZuRW02eVgyT1VUX0Yydy0yNnJ5Yl9Za3NmZE9QYllPYlZXMkk0Q3ZXeFlBbFJOMjBjTW9aUUExVnBkQkV1WEpPenNwVXhxY014dXVueEIwX1RVbGdfTmttM0RKN1o2bWVCc3hIbQ?oc=5",
-      "pub_date": 1794915000.0,
-      "article_url": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2Ff4%2F13d6cbbc4841bdd4a3e5318cbb63%2Fgettyimages-460917708-1.jpg",
-      "description": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?"
+      "headline": "Why the internet suddenly broke all at once",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14TC1ENEdybnJSZ3k2NURKX1hiSVBweWtiN3MzajV4aU9RRHZWU3FodGRKZVMyb001aU9sREZLbzJRMDMtVlQ4Zy1pekVNWTFQZmVURWpjYy13QkhSd3E0cG9fUzNUdXFVbEIwbnY3b29Oc3VVNG5kN1BqX2c?oc=5",
+      "pub_date": 1794952087.0,
+      "article_url": "https://www.axios.com/2026/11/17/tech-outages-ai-fears-internet-breaking",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A top open-source AI advocate is starting to gate cyber capabilities",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbVBaOUxubTlXdldENHdnUGJVNUJfMnFldExDUXdMSHZCeHhGaE9YVFVDTXBwVE1Zb3VnNDdSSFN1WW95bHdtQmVTUm5oREFONzBXMi1XQjlmNl9XckJ0S0pUYkJMOVZxT3Jkc3RBdnR1MGp3aVZYa1M0VEdDS2J6Q25n?oc=5",
+      "pub_date": 1794958650.0,
+      "article_url": "https://www.axios.com/2026/11/17/reflection-cybersecurity-gated-access-tools",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Google: \u2018The era of autonomous attacks has arrived\u2019",
@@ -35,76 +45,66 @@
       "description": null
     },
     {
-      "headline": "Google makes it easier to use Gemini without training AI on your data",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb291c3Q3S0JBZVg5R3FWNzB6UG5zS0hzYWVYUDZKMTJhYmNHR0dUVEc2VlNsVUZJRi1TOHFyNDJ0TGF0cjhWekpuRTlVYzlzNTNQaG9CYUhLUFdhUURPUU0tZVhZT3p6MElldGFlWG02UDFwTU5KSkhUeEtISFdsbzBrbkFkQk8zdVlLRzI1Y0RuMGFsOXd6eXh5Zlg3MGNxTHBnNlhjVGJyeDNXelEybm5pRWlBTDA?oc=5",
-      "pub_date": 1794934210.0,
-      "article_url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-      "description": "AI training and chat history will now have separate toggles in the Gemini activity settings."
-    },
-    {
-      "headline": "The Fed seems to be getting worried about AI",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEtvN055RW5SYUVWaUY0ZGFwRUtwZDVBVlV1SG9UTEZFSzZxV3hudzJ2VEdVQmhWMEc0SzJSV3phUVNjcGg1MGg5WUJoYnF4NlF6akVWNTRWaDZWRzJERnhLME9oT1ZibHVDMzZseUJrVktfdVlHQ09xbllJSVpWdU0wY0doVklkZEdlOUJNYXdzcmtHQVg3VkZZS0t1eXdPcmxV?oc=5",
-      "pub_date": 1794913200.0,
-      "article_url": "https://finance.yahoo.com/economy/article/the-fed-seems-to-be-getting-worried-about-ai-110000457.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9932519aac2384f002b68d4c326d03a0271fb86e9fa2d8dbccc74b3b6cb7e169/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ff231dd9c-f37e-4ca1-afaa-ee1e5374079d",
-      "description": "Fed Chairman Kevin Warsh said that the potential for higher unemployment and the dangers of bad actors using AI for nefarious purposes could be \"highly disruptive and economically costly.\""
-    },
-    {
-      "headline": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVnN2cmYyU2xHS0dXNTRtcTBTa2k0Skc5a1lBRnFjZklHdXZRZEdCZHVYZnlibndfTHllRFM1V2R3Ri1mZEZOdDV4LThpS0xhWWFxYjlRQnBhZ0dtcG9SeFJVVjVnX3pxZzJUMEl2bl96eGlx?oc=5",
-      "pub_date": 1794934899.0,
-      "article_url": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
+      "headline": "Nikkei Rises 1.0%, Led by Chip, AI Stocks",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMldXbGg0UF9xaEtzeVRMMEltSExuOWxmT2tkQmptWlRuRFJMbUNvM0pNY1dmcE9ZT21ESUFUTWpvN3I3V2tBZkNmZ0VJc1ROd3RGZC1TSEc2Tlkydk82MTJnRU9PYVZoS1R5WUlyV0xGVDJBd2hXQ1dYVFRINXNYSUtTRzRVQllmTEE?oc=5",
+      "pub_date": 1794962040.0,
+      "article_url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61",
       "image": null,
       "description": null
     },
     {
-      "headline": "Fed\u2019s first close look at AI buildout finds $3 trillion of commitments off Big Tech\u2019s balance sheets",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3JzQnhQZDM0VHUyRUVRd0s1WEJpa2RMN0hleWJ0dE1xVkJxYmZOTHhrQWlMUURuU3lOeW11TVJFVEZxcXhQRTNmcWlaRGdhSjhpWkVyQVZXNHhPUl9VWWZSd3BsTUNJYllSZlh0MV9VRU9qY2lQMkJfYVpkeUFLbHFDZnRNUndYd3V1ZlQ4OHhJekU1YklZSHh2LXZXOVUtaDc1RHpJTUJFS1c2aFZuNXdnQQ?oc=5",
-      "pub_date": 1794938400.0,
-      "article_url": "https://fortune.com/2026/11/17/fed-financial-stability-report-ai-data-center-3-trillion-off-balance-sheet-nvidia/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304963149-e1794930042868.jpg?resize=1200,600",
-      "description": "Seven companies\u2019 leases, contracts, and guarantees have grown faster than their debt. Nvidia reports earnings tonight without Jensen Huang."
+      "headline": "LeBron James sues makers of AI sports-betting app, saying they used his likeness and nickname",
+      "source": "WLWT",
+      "source_url": "https://www.wlwt.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50VThzSndyS3FDREZGYm00Q0V0N0VMalpTdU5IVWI3WVFMUUlLMmx4QkZ2LW5vMWR5Vy02eFRIc1E2V1NiWXV5cHlSQmtjSVJCcGtvRnd3alR0Skw2MmdfV1dLWGtESFJmeVN0TkJBUTViQnBvRm52Ml9ma1J4dw?oc=5",
+      "pub_date": 1794963920.0,
+      "article_url": "https://www.wlwt.com/article/lebron-james-ai-betting-app-lawsuit/74458892",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/13581cec-6a03-468a-988c-bce1fb5e1e41.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0216xh&resize=1200%3A*",
+      "description": "NBA superstar LeBron James has sued the makers of an AI sports-betting app, saying they deliberately violated his publicity rights and trademarks by calling it \u201cBron\u201d and using artificially generated images of him in their marketing."
     },
     {
-      "headline": "AI Is Making Solopreneurship More Accessible Than Ever\u2014Here\u2019s How",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRExWLU9ucDRYNF9Lc1F6ZUxSeE5OeTlGRjhiVzhVODBMbWl3WWNYc1F4OWt1cGlVUG40Qi03bnk0RjU3emFuZ0taMjUwcWs5SDhyT0FhMjZpdjgxT1hiaHR2WEdrcDh1eTdZa0VkdTNnV2xtSzIyUHF3dzlGRHFHb0VwNHVPU0NBQlR5N0t1OWtXNlhMbEdrVWJfaXgyUWsxVG9VbXhaUWVveDMxcGI3dkFuX2JNYjlQ?oc=5",
-      "pub_date": 1794935389.0,
-      "article_url": "https://www.forbes.com/sites/aytekintank/2026/11/17/ai-is-making-solopreneurship-more-accessible-than-ever-heres-how/",
-      "image": null,
-      "description": null
+      "headline": "Cambridge Dictionary chooses 'human' as word of the year in response to AI fears",
+      "source": "Click2Houston",
+      "source_url": "https://www.click2houston.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR0wxVWlOVnRvdkVDdFZzVS1KUU9IOVlIOEVvX2xFX1VWMW9Dajh3UGlPOU1aYzFrZ2NIUnlsX05vWWZndjg5SVlzclNhczNDb1RSaEFVT2tHdGtCNnZOVWh5S292MWJWaU1HS2Z0YjQ1NXNURjNHOXAtZ0txdXp3cDVPREhtdjBUTWZtRkJJQnAtbVZPbFpBa0U4aGIya3VmX25qdzE5NEdFcEQ5R2c0WDRpN0hDS0xyeEJyYmJkaUJydmlWQXRoTVJKZw?oc=5",
+      "pub_date": 1794962616.0,
+      "article_url": "https://www.click2houston.com/news/world/2026/11/18/cambridge-dictionary-chooses-human-as-word-of-the-year-in-response-to-ai-fears/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/LTWOK4YX6JDVZJL7WYJZR4UIMM.jpg?api_key=click2houston_85fdeb57f8cd3635",
+      "description": "The Cambridge Dictionary has chosen \"human\" as its word of the year, reflecting concerns about artificial intelligence."
     },
     {
-      "headline": "Opinion | What if There Is No A.I. Bubble?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EdFZKN05QNXMybTNKZ2laM1dSTjVBbS1RS3lFRDV3Q280a0V0bE0yYjFxRUZJRnJ1ajRUZnpWNFpqVEwxNmNybDY2OWxVbXZETmRNQTA0Y0F4TmdKbzRydXQyYm9CVGllazVBcXVjSVRETm8?oc=5",
-      "pub_date": 1794895206.0,
-      "article_url": "https://www.nytimes.com/2026/11/17/opinion/ai-bubble-workers.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "headline": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvLUltN01zNnhQWHVEUWlEbWJoUXcyVjFlRUF0SU90cXZwU2FoT1J2NnNZTGthUjZOX1ozbHBaUnB3QVc2bl9LNHFEMDRiUXZJVEktNjRBUG81M0dpSzRKbFl5cjdNaXhGeHVIVDNDV2dITFVhZlBpME1n0gF_QVVfeXFMT3ZEaUU4Z1VBUm44S2Y3MmwyRlpsUjYyejJRTFlyMnU5aklRa3pGQW41MkRHb3RqTzh5a0l0dE9MbzdSeFpTRWlBajFvRllpa0VnX3RXUDJIR0tjUE1NOGsyazJRbEc1RGcyZmt5cGdwUUxjZXFYb252N2dUU1VWRQ?oc=5",
-      "pub_date": 1794899255.0,
-      "article_url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551696-1794795719884-gettyimages-2304259055-nokings-sf1017.jpeg?v=1794840889&w=1920&h=1080",
-      "description": "The U.S. Commerce Department is making moves to tighten export controls."
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcmktN0ZoeUdKQ1k0SlpkLU9yV1NCMWRuQmxyZnZYT0ppdDFmcXpWR3pRdHdtVUhDNnVOWWVMbmx0NnZQOVQ2MGc2MWUybFlNMTNEczd2Z2JYQjZ3VGt2ZXpNd3BCVlVLbXVXai02RDJXbkY2TlVjSHBUZEIxZ1BKSG1HU250TVVHeGtRR19JNDdPcXAtdmpNWEdwc2c5aFZmb3hqMjQzNThmZVJhc3RaNjdfd3VqXzDSAbwBQVVfeXFMT1RQb3hnWDRsUDNHdEVKYjZydmdJaEdXemVSUHJaUmJDaWxzTkpSMDFfUDJUY0dDdEdoR0lmVk1OVUI1Mk42NWpUUUxpaFJPVFNRX3hOajhlWngxT3VwcmZGTnNscmRCN3B0eVNGQWZjZXh5ckQ3U2IyLVI4eEF3LUlGWi1ROHBpU19SVlNIZlgwZlFRRE5VdjBzNFd0a2NCRWJRTlJnNGdCWmoxSHUzd250QnFJVjF1ZVNtbEE?oc=5",
+      "pub_date": 1794920852.0,
+      "article_url": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/105221557-IMG_7670.JPG?v=1695322238&w=1920&h=1080",
+      "description": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday."
+    },
+    {
+      "headline": "Are all of these outages a coincidence \u2014 or a glimpse of our AI future?",
+      "source": "Yahoo Tech",
+      "source_url": "https://tech.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV013Z3ZyYm56Q0hVcjdOOEVQbXdRN0RhcW9QRDdUUkRzbkhCR2s5eE90RmcybkVabGhzQ0EzZHhUSzROOXVDWkE4X3B4RTFDRmxBY2dDaGhiLWV5QnEtci1VM3lSMUlaZWplWmtvQ0xiSEF0dmgyM2EtR1JrNi1JcTlyQzRiM2NPcGxDNmlkY0lyT2tuOS1oeVZQNHptaEFTNHAzX1FJa1VTN2Z6OWFRRmw1cGhnSTlHVmhfSDJlX0g?oc=5",
+      "pub_date": 1794949235.0,
+      "article_url": "https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/908bac562b086505ce1d9c17ae55e09cec7bf81cfaa14edc42e448020633776d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-outages_5603.jpg",
+      "description": "First Microsoft. Then the FAA. Now the banks, and the NSA, and Apple iCloud. Our systems are failing, seemingly all at once, while big tech continues to hype up AI."
+    },
+    {
+      "headline": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPajZNUVBuSThVQmNIS1N4THJrUUZ3V3F4Y3lKWHBnSm9XbDB4VVFhYmxaNVRaUXpBVXk4NEd2eTMyTGd4R2UtMU8xc0M4WGZDaWxSMENXUGQ0TFRaYzRDbGxSaGMwbDRJTGRkd3h1WTI2MjdrdHpySG83R0o3ZVBIb056UG1yMTRpQkdPUlM3YkQ0b0V1REJUVFo5RXVLOWRDdEJuX3JkczVoZmVRbG1wdW9ZaGNnemM?oc=5",
+      "pub_date": 1794924029.0,
+      "article_url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
+      "description": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-17T18:24:11.636938+00:00"
+  "fetched_at": "2026-11-18T01:09:53.966185+00:00"
 }
