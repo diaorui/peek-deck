@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-18T23:57:37.531820+00:00'
+updated: '2026-11-19T06:48:55.122526+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 18, 2026 at 23:57 UTC  
+**Last Updated:** November 19, 2026 at 06:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** -11.9%  
-**30d:** -27.3%  
-**90d:** -29.3%  
-**1y:** -41.2%  
+**24h:** -0.7%  
+**7d:** -6.4%  
+**30d:** -27.0%  
+**90d:** -25.5%  
+**1y:** -36.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.42B
+**Market Cap:** $220.51B
 Rank #2
 
-**Circulating Supply:** 122,230,379 ETH
+**Circulating Supply:** 122,233,328 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.0%
+-63.5%
 
 **All-Time Low:** $0.43
-+410714.4%
++416513.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -88,7 +88,7 @@ Does anybody know of any good decentralized email services?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -104,7 +104,7 @@ Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear tec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -152,17 +152,17 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[Crypto asset manager's stock jumps 13% after full Ethereum sale](https://finance.yahoo.com/markets/crypto/articles/crypto-asset-managers-stock-jumps-234015714.html)**
+**[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
 
-This company raised $19.3 million by selling Ethereum and part of its Solana holdings to support a $40 million share buyback.
-
-Yahoo Finance • 17m ago
+CoinDesk • 21h ago
 
 ---
 
-**[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
+**[Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell.](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-just-gave-ethereum-123002657.html)**
 
-CoinDesk • 14h ago
+Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -170,7 +170,13 @@ CoinDesk • 14h ago
 
 CoinShares, one of Europe’s largest digital-asset managers, has sold its entire treasury holding of Ethereum and half of its Solana.
 
-Decrypt • 4h ago
+Decrypt • 11h ago
+
+---
+
+**[Tom Lee: Bitcoin, Ethereum, Solana Are ‘Still at the Beginning’](https://www.benzinga.com/crypto/cryptocurrency/26/11/63414304/tom-lee-bitcoin-ethereum-solana-are-still-at-the-beginning)**
+
+Benzinga • 9h ago
 
 ---
 
@@ -178,35 +184,13 @@ Decrypt • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 19h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH and XRP stall](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-eth-and-xrp-stall-202611180256)**
+**[Zcash to $1,800, Ethereum to $2,800? Arthur Hayes Sees a Rally Before the AI Bubble Bursts](https://www.ccn.com/news/crypto/zcash-1800-arthur-hayes-rally-before-ai-bubble-bursts-ethereum/)**
 
-FXStreet • 21h ago
-
----
-
-**[Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell.](https://www.fool.com/investing/2026/11/18/vitalik-buterin-just-gave-ethereum-investors-a-wake-up-call-here-s-why-it-could-be-time-to-sell/)**
-
-Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin.
-
-The Motley Fool • 11h ago
-
----
-
-**[Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838](https://cryptobriefing.com/citi-cuts-bitcoin-ethereum-price-targets/)**
-
-Citi lowered its Bitcoin price target to $99,532 and Ethereum to $2,838, down from October levels, as ETF flow assumptions shift again.
-
-Crypto Briefing • 10h ago
-
----
-
-**[Ethereum's Outlook Gets Worse but Sharplink Remains a Buy: TD Cowen](https://www.benzinga.com/crypto/cryptocurrency/26/11/63387668/ethereums-outlook-gets-worse-but-sharplink-remains-a-buy-td-cowen)**
-
-Benzinga • 9h ago
+CCN.com • 15h ago
 
 ---
 
@@ -218,9 +202,27 @@ The Block • 2d ago
 
 ---
 
-**[Zcash to $1,800, Ethereum to $2,800? Arthur Hayes Sees a Rally Before the AI Bubble Bursts](https://www.ccn.com/news/crypto/zcash-1800-arthur-hayes-rally-before-ai-bubble-bursts-ethereum/)**
+**[Citi Cuts Bitcoin Price Target to $99,532 and Ethereum to $2,838 With Bitcoin Near $64,000](https://financefeeds.com/citi-bitcoin-price-target-ethereum-cut/)**
 
-CCN.com • 8h ago
+Citi cut its Bitcoin price target to $99,532 from $113,000 and Ethereum to $2,838 as Bitcoin traded at $64,082, leaving a 55.3% gap to the new 12-month target.
+
+FinanceFeeds • 16h ago
+
+---
+
+**[What is Ethereum actually for? A judge and Vitalik Buterin both left it open](https://ambcrypto.com/what-is-ethereum-actually-for-a-judge-and-vitalik-buterin-both-left-it-open/)**
+
+As a judge acquits the Peraire-Bueno brothers, Bitwise's Hunter Horsley and Vitalik Buterin weigh in on what crypto is actually for.
+
+AMBCrypto • 5h ago
+
+---
+
+**[Invesco moves stablecoin reserves on-chain, but hides a liquidity gap](https://cryptoslate.com/invesco-moves-stablecoin-reserves-on-chain-but-hides-a-liquidity-gap/)**
+
+Invesco's new Ethereum-based stablecoin reserve fund requires institutions to follow business-day redemption schedules.
+
+CryptoSlate • 38m ago
 
 ---
 
@@ -234,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 210 • 💬 45 • ⏱️ 25:11 • 7h ago
+👁️ 15K • 👍 245 • 💬 45 • ⏱️ 25:11 • 14h ago
 
 ---
 
@@ -244,7 +246,7 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 567 • 👍 18 • 💬 5 • ⏱️ 3:49 • 9h ago
+👁️ 1K • 👍 24 • 💬 5 • ⏱️ 3:49 • 16h ago
 
 ---
 
@@ -254,37 +256,17 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 📺 Crypto Capital Venture
 
-👁️ 21K • 👍 538 • 💬 91 • ⏱️ 13:24 • 1d ago
+👁️ 22K • 👍 539 • 💬 92 • ⏱️ 13:24 • 1d ago
 
 ---
 
-**[BITCOIN HOLDERS ARE NOT READY (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v1QaPg7OIvk)**
+**[Bitcoin &amp; Ethereum, Wenn das POSITIVSTE Szenario eine Bärenflagge ist^^ Neue LOW incoming!](https://www.youtube.com/watch?v=i1aTe1xQR2Y)**
 
-BITCOIN HOLDERS ARE NOT READY (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 400€ +8% Bonus auf eure Einzahlung + ...
 
-📺 Crypto World
+📺 Krypto Trading & Investing
 
-👁️ 8K • 👍 247 • 💬 72 • ⏱️ 19:42 • 11h ago
-
----
-
-**[Can Ethereum Still Outperform Bitcoin?](https://www.youtube.com/watch?v=XDkKT2WhBeo)**
-
-Ethereum is testing the 78.6% retracement at $1724, its last line of defense, and is still following Bitcoin. We analyse Ethereum ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 165 • 💬 12 • ⏱️ 9:37 • 1d ago
-
----
-
-**[🚀 Ethereum Has A 2027 Plan - ETH Crypto Analysis](https://www.youtube.com/watch?v=EYE58NWz3hU)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/czPNWoFJ My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 6K • 👍 47 • 💬 4 • ⏱️ 9:28 • 2d ago
+👁️ 925 • 👍 233 • 💬 101 • ⏱️ 8:27 • 1h ago
 
 ---
 
@@ -294,7 +276,27 @@ Bored of ETH going nowhere? That's usually where the opportunity is. ETH just fi
 
 📺 CryptoCharged
 
-👁️ 79 • 👍 1 • 💬 30 • ⏱️ 1:25 • 3h ago
+👁️ 153 • 👍 2 • 💬 10 • ⏱️ 1:25 • 9h ago
+
+---
+
+**[Can Ethereum Still Outperform Bitcoin?](https://www.youtube.com/watch?v=XDkKT2WhBeo)**
+
+Ethereum is testing the 78.6% retracement at $1724, its last line of defense, and is still following Bitcoin. We analyse Ethereum ...
+
+📺 More Crypto Online
+
+👁️ 8K • 👍 167 • 💬 12 • ⏱️ 9:37 • 1d ago
+
+---
+
+**[Bitcoin Just Got The Biggest News Of The Year Almost No Ethereum Left 2029 Digital Euro Project](https://www.youtube.com/watch?v=ey4HAfsXJtw)**
+
+We just got some news that has the cryptocurrency market buzzing. Bitcoin is back in the headlines heavily again with its best ...
+
+📺 The Modern Investor
+
+👁️ 13K • 👍 802 • 💬 90 • ⏱️ 31:04 • 2d ago
 
 ---
 
@@ -304,7 +306,7 @@ Ethereum has fallen from around $2400 to $1800 in four weeks, Bitmine is at $16.
 
 📺 Elijah Cheng
 
-👁️ 6K • 👍 85 • 💬 43 • ⏱️ 23:30 • 1d ago
+👁️ 7K • 👍 86 • 💬 45 • ⏱️ 23:30 • 1d ago
 
 ---
 
@@ -314,17 +316,17 @@ Open Crypto/Gold Trading Account: https://www.delta.exchange/?code=stockburner E
 
 📺 Trade with Burner
 
-👁️ 2K • 👍 68 • 💬 15 • ⏱️ 12:13 • 11h ago
+👁️ 2K • 👍 75 • 💬 16 • ⏱️ 12:13 • 18h ago
 
 ---
 
-**[Tom Lee Says Ethereum Could Explode — Here’s the BitMine Strategy? 🚀 #bmnr  #bmnrstock](https://www.youtube.com/watch?v=YN_4NseKOko)**
+**[🚀 Ethereum Has A 2027 Plan - ETH Crypto Analysis](https://www.youtube.com/watch?v=EYE58NWz3hU)**
 
-Join this channel to get access to perks: https://www.youtube.com/channel/UCnh2G2rvrQ5fHrPwOIa47Aw/join Disclaimer This is ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/czPNWoFJ My Chart Software: ...
 
-📺 TRADING  NEWS
+📺 Bitcoin Strategy
 
-👁️ 64 • 👍 1 • ⏱️ 9:36 • 12h ago
+👁️ 6K • 👍 48 • 💬 4 • ⏱️ 9:28 • 2d ago
 
 ---
 

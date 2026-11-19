@@ -5,12 +5,32 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic Sets IPO Price at $83 Per Share in Milestone for the AI Industry",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQ3JieUUxQkdyelMxelhaUUdmaTFlSTFva2pnR2FHY08wbXdmT01JVk56aUVHRGtQRUFhc1J2SFR0cEp4THBGc3M3aGhlalE3MUlEb3dQbElfREZhYlVjemROWDRVRm51QXVIakZKM2pmZi03by1hUi1FN04?oc=5",
-      "pub_date": 1795043366.0,
-      "article_url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+      "headline": "Top Dem senator says AI is contributing to outages as Rubio says incidents not connected",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGxjemU3UXVrS0dvT09OYklKYi02alVDS25UOW91XzBHT2h4YWZPSzlRR0g2MEVFZ1dMNHo2TXo3VzVvNGZmUTB1Ym9oRWNrLVUxN2FCM3dnWlo0TXRyYXpKV0w3bDBpNkFDc045T3Q5Z0hUV2R4MFBtZ3JEdzlvMEJtOHBLMUpjVEZBM3Q0VkxCV1dJ?oc=5",
+      "pub_date": 1795057140.0,
+      "article_url": "https://www.foxnews.com/live-news/tech-outages-us-airlines-faa-microsoft-banks-november-18",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/bff107b2d66bfdc0a10388cc6097eec3.jpg",
+      "description": "Sen. Mark Warner, D-Va., suggested on Tuesday that artificial intelligence is behind a series of outages across U.S. industries this week, but Secretary of State Marco Rubio insists there is \"no evidence\" the incidents are connected."
+    },
+    {
+      "headline": "Hacks, AI or just overdue updates - why have there been so many outages?",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XUVdJMTFGMzgwRkstWHdGZUFyNllaUmRjbnVWalFzN1lyenUyWGZORUEwVkhOX1B1WEFpOU5hc2VXcHhUaHd4MmhYWjNjMDdkSXh0YW9SYW40ZFU?oc=5",
+      "pub_date": 1795007813.0,
+      "article_url": "https://www.bbc.com/news/articles/c6z0kly2lll7o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
+      "description": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving."
+    },
+    {
+      "headline": "Tech outages are piling up, and AI is raising the stakes. Could this be the new normal?",
+      "source": "The Seattle Times",
+      "source_url": "https://www.seattletimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQai1VLVpvQWRfdzZPRUFaS0pnaXY1ZW5sY0FHWWF6QllzSzNicFFaNkFlb3hXQUhERmwzQVdQWWlKekJDWGxqMXI0OVNhdjdtOFU1d2VrRk9kOU5WT25FVnJSQU42UFd0NndSQmhYMkpCdkJYOGFYY3lwNWRBUldqbi0tZktkMXQ2V3VlSE84bWNyQVl0eFgyZHd5RnhzcVUxYkV1ZFBOODRiY044WkxKempzTVVGVGdrakRKN3Jtd1E?oc=5",
+      "pub_date": 1795064526.0,
+      "article_url": "https://www.seattletimes.com/business/tech-outages-are-piling-up-and-ai-is-raising-the-stakes-could-this-be-the-new-normal/",
       "image": null,
       "description": null
     },
@@ -25,27 +45,57 @@
       "description": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday."
     },
     {
-      "headline": "Is the AI party over? Anthropic is about to find out.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWE2Y29QSDhyQUkzalFXMl80bWZ2LTl2YzJ5SDlJYjBYTXRJVmhnc2trOGdXWFNwdHo4MFlWV3RKQWhJaC1DZEwyYmQwSngtcGg3NGU1d2w0TE5veU52UTBncnJ3ak95Rlh2TnNQdzRYRnRONVVRc1ZNbVl2cE83RkNfY0pVSUdQWVhBemlHN2xMSTUxaGdWYl91N0pkWk1vSkE2LUFVUUFwZDZZYVJicA?oc=5",
-      "pub_date": 1795042800.0,
-      "article_url": "https://finance.yahoo.com/technology/article/is-the-ai-party-over-anthropic-is-about-to-find-out-230000591.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d681b7025920621fa86adf228f75b866f11c6f5a37dd7128b6ebdb3c7a8006dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fa0f836fb-6ac1-4950-97a2-2c7b0f105794_67b1071baf53ada8435b74c988e05f4397bfef395ff3db2077470796f0d49e80.jpg",
-      "description": "Bring on the hotly anticipated Anthropic IPO. The tech bulls and bears are ready."
+      "headline": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSF91bW51a2g2SHNIZjBOd0lXSDEzNUtKRVBHNDFGSnZCNjlQWGpBbmZOTkJTcVliamhleExMaWJla1E0dWdMTTBLRmI5Q0NSSmZkU2RVMzlwYmpVd1FNT0ItTnJWbUY0alM2bnlaUVBxUUx5a214ZE44WjZhYkl0UGQ3ZXhGNHhIclFTelphMzJSc2Q5eFRaSkdKX3g?oc=5",
+      "pub_date": 1795045980.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "image": "https://i.guim.co.uk/img/media/55b30b78210b9de9b6079a003a575537c1f083f7/340_0_2178_1744/master/2178.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b3412ac22548202a97007078ed027aa",
+      "description": "Football players say they are \u2018traumatized\u2019 after being handcuffed and detained by police while waiting for rides home"
     },
     {
-      "headline": "Genie 4 is now available",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFJhV3ZyQ05iWllkRDVUaHVjX3RhUGpwUUFnVVVScEpjT0ZSR2VaekRZa2c4ZTNfNkFxNGRaYTdWV2owd1ItRmpkTWllY0hFVjI5XzNTcG1GbUotaV82cHpOMFVNQ193V0JhSndMcGp3RTZWMnUyUFZBMzY4czd2cnZtNFkzRS1sT3VjQkp6ci1rSUk0aGtPcUdMU2F2RHBJTTJQcDk3WFEwTk1lVnU4?oc=5",
-      "pub_date": 1795025958.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
-      "description": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model."
+      "headline": "Baltimore students sue over AI that allegedly mistook Doritos bag for gun",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFlGNVg5NVV0SWVvb1dQOTlha0JSRllLVU9NdnBhOGhvbjZnOU1oMzBCM2o2OWlZdHBtSXZUbFZlUE5mVmRfMjNpSVFGdUhtWF9Vbzg5dC1IV0stOVBSSVF6NEphUGlNYzBBSHlZaTI3YjltdjVybFdTRjYzQWhuS3NEa20xVFhOaTJiOUZVWktGMVg1Z1M3TU8yREh3WXRfdHI4R1FsUUkwNFhhNHFkZ09B?oc=5",
+      "pub_date": 1795068253.0,
+      "article_url": "https://www.usatoday.com/story/news/nation/2026/11/19/baltimore-students-lawsuit-ai-gun-alert-chips/92855684007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/11/USAT/92730338007-getty-images-2240260565.jpg?crop=5941,3342,x0,y309&width=3200&height=1801&format=pjpg&auto=webp",
+      "description": "Four Baltimore students sued after an AI weapon detection system allegedly mistook a Doritos bag of chips for a firearm."
     },
     {
-      "headline": "U.S. School Districts Weigh Breaking Up With Google Search Over A.I.",
+      "headline": "A.I. Mistook a Bag of Chips for a Gun, Teenagers\u2019 Lawsuit Says",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUlPb1V1MVNTNVIyR3NlWmg5QV9qZ1FPbUY1OG9NeUFjcnBVbFpreml6M1VGM2c4OGd0ckkzR2JjSTFsbHM2cDFkRHpEMGx0RzM1dVdjMVZSak8tcXlaVDVCV0hIS1ZQY2xhdjdERnJSQ1lHSHRsc1FmM2VkbWtWNA?oc=5",
+      "pub_date": 1794969455.0,
+      "article_url": "https://www.nytimes.com/2026/11/17/us/baltimore-school-chips-gun-alert.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Watch Inside Google's AI Race with Ruth Porat",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJsbWhjMXppNTZQWTdqM0RrUU1qaWF4dzhKTXBsNlN0a3o5aGM2R09TeXdfOHhGa0ZiaVRkdGU2a0ptaXlsRHUzMzBvSVFmdk9nYmtROVV2aXctLVB2aTRQS2EtNHNLTG1yM3BEWUtJNXJ0cUhQSGtFRlJkeUxhYmJ2OWlwQWM4OTF5d19IcWR4WWRRQm9yVVRESXlYWDdVcWtJcUpxUQ?oc=5",
+      "pub_date": 1795064550.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Morgan Stanley sees AI IPO appetite building amid 'biggest capex cycle in our lifetimes'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmJ1YXBmcG1mQXB4V1dzSmx6YW5SZXNacWxxbDZCdmh6Vm43aloxMGRON1ktM0d1eEJEOFE4ZGZwUmVGaWNXWGM1VXlxOTFORkRWYlQ0WnM0VzdJV3RQRmR1TE90Sm9TeDRXOGk2U2RpUDBBeFFlT3lrY0dIcE02bTVSN2ZGX2NIVU9KbHdMc2xVVWRDVG43bVRmV19aQlc1S3hNRW5xbUNrbkY2X1NXdnhyaw?oc=5",
+      "pub_date": 1795064969.0,
+      "article_url": "https://www.cnbc.com/video/2026/11/19/morgan-stanleys-co-president-on-the-ai-industry-ipo-markets-can-handle.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108554894-17950624101795062407-49725520139-1080pnbcnews.jpg?v=1795062409&w=1920&h=1080",
+      "description": "Morgan Stanley Co-President Dan Simkowitz discusses investor appetite for AI IPOs, the scale of the industry's investment cycle and the importance of financial discipline under Nvidia's new leadership. He also sees a strong outlook for global M&A, supported by abundant credit and a favorable regulatory environment."
+    },
+    {
+      "headline": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZTcW1oQlltWWRFUy1hUzY4ODVqZXFKcl9McGNhUDZqam90WE9YQ3RqclV1czZJOVdKZURXeUxpTkRVM2FONklyQ2ZiS215WTBLTE14RFVZOWY1cnZUQTR5cDVNRlJ3bTVrWkJ5aGdxMG83NURiTjk1V0NLclhVM1NFcWctSVA0bUhad2dMYjg0czFSTk1KVUQyZXZTUQ?oc=5",
@@ -53,58 +103,8 @@
       "article_url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "LAUSD disables Google AI Overviews, reviews Google search",
-      "source": "NBC Los Angeles",
-      "source_url": "https://www.nbclosangeles.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdV95TGR0bUZRZ1BNVUpoMDMyREtlOFJkWllwMU1UdERnMWNSVmlhTHFDLUNweGJUXzg2dEdJVFRsbnRYN1dhWXBJeDZaYzkzekM5cGxZRjVOenRlWGlOTXphTmc1Vlg3dkZ1Z1BGS2hsb190dWVXV1lGZmxnZFlpR09YaWk5RUdyS3NoV056d0lKNV8zMVdvVjJMZ3VYNHV2SnYzUWFCTWwxQdIBsgFBVV95cUxQTFZJeHRrUTFjQ2pndElYWFB5T0ZyaEQwS2E5SWNuNWg4bGpPd05keUZaallsdEFrWHphbWVjWVdUbGkxQXIyZmowZlBjSUdLa0ZHZlhsLWx6ek44WWlIbUdQZ1Z5UVdkVXVKaHZ2bzczMG9UMUtlcVUxMDFvcW1NenF4Sl9pOHRBcndmeTVzNHF4bXViSmxEel9FQUNTQlVZMzRXbHlnLVVxRjBYc2JhNndn?oc=5",
-      "pub_date": 1795042725.0,
-      "article_url": "https://www.nbclosangeles.com/news/local/lausd-disables-google-ai-overviews-reviews-google-search/3972510/",
-      "image": "https://media.nbclosangeles.com/2025/08/GettyImages-2206888090.jpg?quality=85&strip=all&crop=0px%2C543px%2C5196px%2C2923px&resize=1200%2C675",
-      "description": "AI Overviews are AI-generated summaries that can appear above traditional search results, offering a quick response to a query."
-    },
-    {
-      "headline": "Teens say AI surveillance system at Baltimore school mistook Doritos bag for a gun",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjhncHZEanhZT1N3aEtyem4xX0tDMzJOb3d2WUtQcW4wNjlYZUh0ZlRuanJQdDRnMGhTVExHUWtGQWNtZm1xZDhBbFN2SldqVGJULXlDLTJLbUxob1hobmcyZFhtNkJCeHNMbi1ZSllDaDFyVFRhTF81TjJRcDYzSmxOZ0o0VURTWmstc2lhNXBhdzROakZ4S2VVOHU2bGNSLU14U3doOXhBbjdHZGc4R09jOTdSYWt1NHc?oc=5",
-      "pub_date": 1795032298.0,
-      "article_url": "https://www.nbcnews.com/news/us-news/baltimore-police-handcuffed-teens-school-ai-mistook-potato-chips-gun-l-rcna610019",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261118-kenwood-high-school-baltimore-ew-1255p-ac4676.jpg",
-      "description": "The four students were waiting outside the school for a parent to pick them up from football practice when they were surrounded by at least six police officers."
-    },
-    {
-      "headline": "A.I. Mistook a Bag of Chips for a Gun, Teenagers\u2019 Lawsuit Says",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUlPb1V1MVNTNVIyR3NlWmg5QV9qZ1FPbUY1OG9NeUFjcnBVbFpreml6M1VGM2c4OGd0ckkzR2JjSTFsbHM2cDFkRHpEMGx0RzM1dVdjMVZSak8tcXlaVDVCV0hIS1ZQY2xhdjdERnJSQ1lHSHRsc1FmM2VkbWtWNA?oc=5",
-      "pub_date": 1794969956.0,
-      "article_url": "https://www.nytimes.com/2026/11/17/us/baltimore-school-chips-gun-alert.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Students sue Baltimore County Schools after AI detection system mistook chips for gun",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdGU2VG5LTDJMMWJ3QzdFSUNpNnVTMzlIUF9rVEFuTVZHYlpYNjFSYkJZTHhtOWowWk42ZnNZaHplNDhQdW1kTU1MS3IwSXVNLUFpZE5Qd1pPZHQ5ZENQb2FmX19lMk9OM3JPZnkyWHhvZURWNXNucWU4YWpNckhKd09CdjEwSW8wbHJ6MjZmVmxLLTRyeEc1WXQzNVhvRVV3NElsU2R1OW5mZlQ1Y2xSeGlWdE85OTY4MkdXZWJ6dGcxdk9D?oc=5",
-      "pub_date": 1795044000.0,
-      "article_url": "https://www.cbsnews.com/baltimore/video/students-sue-baltimore-county-schools-after-ai-detection-system-mistook-chips-for-gun/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/1825ca9b-3a56-431d-af30-056afbdd8512/thumbnail/1200x630/4bacba8386ddad38c45b9d5c024ff0db/9a171e5a45b4b80e88b3b1cb2c95b2e9.png",
-      "description": "Students sue Baltimore County Schools after AI detection system mistook chips for gun"
-    },
-    {
-      "headline": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable'",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWThMenBpNnExbF9iQjFXT2I5MDNEeFZCNl9pZkp4Z0RiekJ1eHpocW9IdjlYU012V0p5X0lkNHdVM1E3LThsaEZsWmYxTjYzTU1qdWlNSlYwYk1mY2pfRUpKQTByUmJsLVBGNURORm1xLXBoR25vZkJDclNOYlEzWDdROHdZaVM2QWpnRVNDLUNza2hHSHV0cEhaUXhqYjB6YVgyZzkxREVKNDlxa0RZVlJ2SW52YXZPb2hpVXJFVlVuQ29RTUx5Z0NvSmE?oc=5",
-      "pub_date": 1795045500.0,
-      "article_url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200",
-      "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-18T23:57:34.872595+00:00"
+  "fetched_at": "2026-11-19T06:48:49.048725+00:00"
 }
