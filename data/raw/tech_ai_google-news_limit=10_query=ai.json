@@ -5,44 +5,54 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Top Dem senator says AI is contributing to outages as Rubio says incidents not connected",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGxjemU3UXVrS0dvT09OYklKYi02alVDS25UOW91XzBHT2h4YWZPSzlRR0g2MEVFZ1dMNHo2TXo3VzVvNGZmUTB1Ym9oRWNrLVUxN2FCM3dnWlo0TXRyYXpKV0w3bDBpNkFDc045T3Q5Z0hUV2R4MFBtZ3JEdzlvMEJtOHBLMUpjVEZBM3Q0VkxCV1dJ?oc=5",
-      "pub_date": 1795057140.0,
-      "article_url": "https://www.foxnews.com/live-news/tech-outages-us-airlines-faa-microsoft-banks-november-18",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/bff107b2d66bfdc0a10388cc6097eec3.jpg",
-      "description": "Sen. Mark Warner, D-Va., suggested on Tuesday that artificial intelligence is behind a series of outages across U.S. industries this week, but Secretary of State Marco Rubio insists there is \"no evidence\" the incidents are connected."
-    },
-    {
-      "headline": "Hacks, AI or just overdue updates - why have there been so many outages?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XUVdJMTFGMzgwRkstWHdGZUFyNllaUmRjbnVWalFzN1lyenUyWGZORUEwVkhOX1B1WEFpOU5hc2VXcHhUaHd4MmhYWjNjMDdkSXh0YW9SYW40ZFU?oc=5",
-      "pub_date": 1795007813.0,
-      "article_url": "https://www.bbc.com/news/articles/c6z0kly2lll7o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
-      "description": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving."
-    },
-    {
-      "headline": "Tech outages are piling up, and AI is raising the stakes. Could this be the new normal?",
-      "source": "The Seattle Times",
-      "source_url": "https://www.seattletimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQai1VLVpvQWRfdzZPRUFaS0pnaXY1ZW5sY0FHWWF6QllzSzNicFFaNkFlb3hXQUhERmwzQVdQWWlKekJDWGxqMXI0OVNhdjdtOFU1d2VrRk9kOU5WT25FVnJSQU42UFd0NndSQmhYMkpCdkJYOGFYY3lwNWRBUldqbi0tZktkMXQ2V3VlSE84bWNyQVl0eFgyZHd5RnhzcVUxYkV1ZFBOODRiY044WkxKempzTVVGVGdrakRKN3Jtd1E?oc=5",
-      "pub_date": 1795064526.0,
-      "article_url": "https://www.seattletimes.com/business/tech-outages-are-piling-up-and-ai-is-raising-the-stakes-could-this-be-the-new-normal/",
+      "headline": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQ3JieUUxQkdyelMxelhaUUdmaTFlSTFva2pnR2FHY08wbXdmT01JVk56aUVHRGtQRUFhc1J2SFR0cEp4THBGc3M3aGhlalE3MUlEb3dQbElfREZhYlVjemROWDRVRm51QXVIakZKM2pmZi03by1hUi1FN04?oc=5",
+      "pub_date": 1795021999.0,
+      "article_url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5",
-      "pub_date": 1795014954.0,
-      "article_url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1795019793&w=1920&h=1080",
-      "description": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday."
+      "headline": "\u2018Just Ridiculous\u2019: A Famed Philosopher Takes on AI Consciousness",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXR4S2FnZTV2WE8tTVdSY1BKSDlBOHpvWU96UjJwRzktVXZpTUxLcUQyN0h1UGFqWTM3TnpveHZnbHR6V1Q5NmJOOEplUlRUOVNkbUZseG9WNUE1YmN1LVZUTmRydGl6SFhpSFlzTW1vSTRSZmdpbUNpWFRQTXhHM1VORTluek9rVEcza1NpVnhqU1A3?oc=5",
+      "pub_date": 1795014120.0,
+      "article_url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+      "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/191:100/w_1280,c_limit/Thomas-Nagel-QandA-Business.jpg",
+      "description": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI."
+    },
+    {
+      "headline": "Introducing Gemini 4 Neon",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJ2dmlaaUw0Vm9IWnV2N3JiaXg4a3BNcVVqZjEtNnlVTnExYzk0d2tzcEZ4SGhqY1MyQ0c5LVpYN2ZKdGJ6d1FTMmhWZ0J0VVJkcGhqOHk1eHB1SFA3M3NLNEdRZEhhbnNzekhRb2E1RnRVSjJFQmNRWC05ckI1NjlybWpvVzJUeWdwaURROFhOcmoySS03UllmRWJJMUk?oc=5",
+      "pub_date": 1795037721.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+      "description": "Today, we\u2019re introducing Gemini 4 Neon"
+    },
+    {
+      "headline": "Visa Is Building Agentic Commerce. But Will Amazon Let AI Agents Shop?",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1NoVk5haG1jbkZQc0p5eklTTldTRnBaNno4NjdNTnpybWZEVTdMSGYwdzRpQjc0bDk0WEw5X3hIenNZV0tvX2Y5enhPTjdTNmJuVDZMQmktOFkybWRtRE4xamZjM2pma04zcEtBMHdFLTZJeUoySEtTOTNtdko2dFJfMF9CNXg1S00weU9DQXFBb2JoU0EwdnZRQzdLcVROc1BsWXJrNnR2VXVXakgwNDEtRFBGUng3ci15ck4wTQ?oc=5",
+      "pub_date": 1795102972.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Anyone forecasting 2027 is forecasting data centers\u2019: The Fed is about to hike into an AI boom it can\u2019t cool, and Main Street gets the bill",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW0tVzQxXzlMSW5fdDEtdFIwNzh2Qlctak1jZDJRVDVZdGZVbWUzX3FFdWpvRjd2MFE1Tjdld0xGUTlfUkpHU2VJU1RtYThnMTVsRkpobU12TW5DUE9qbmpHbjNYZEEta01kYS1Sc25UR0Q1R2VIZmRERnJHTTE4LUpQYlZyWG8xbVdNcmxOTmUxSlg4Uy1ULQ?oc=5",
+      "pub_date": 1795103040.0,
+      "article_url": "https://fortune.com/2026/11/19/fed-minutes-ai-inflation-data-centers-midterms-2027-rate-hike/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304953963-e1795097687874.jpg?resize=1200,600",
+      "description": "Voters rejected data centers, giving the Fed a problem: \"AI is the number one source of growth for the U.S. economy.\""
     },
     {
       "headline": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
@@ -55,56 +65,46 @@
       "description": "Football players say they are \u2018traumatized\u2019 after being handcuffed and detained by police while waiting for rides home"
     },
     {
-      "headline": "Baltimore students sue over AI that allegedly mistook Doritos bag for gun",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFlGNVg5NVV0SWVvb1dQOTlha0JSRllLVU9NdnBhOGhvbjZnOU1oMzBCM2o2OWlZdHBtSXZUbFZlUE5mVmRfMjNpSVFGdUhtWF9Vbzg5dC1IV0stOVBSSVF6NEphUGlNYzBBSHlZaTI3YjltdjVybFdTRjYzQWhuS3NEa20xVFhOaTJiOUZVWktGMVg1Z1M3TU8yREh3WXRfdHI4R1FsUUkwNFhhNHFkZ09B?oc=5",
-      "pub_date": 1795068253.0,
-      "article_url": "https://www.usatoday.com/story/news/nation/2026/11/19/baltimore-students-lawsuit-ai-gun-alert-chips/92855684007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/11/USAT/92730338007-getty-images-2240260565.jpg?crop=5941,3342,x0,y309&width=3200&height=1801&format=pjpg&auto=webp",
-      "description": "Four Baltimore students sued after an AI weapon detection system allegedly mistook a Doritos bag of chips for a firearm."
+      "headline": "Opinion | Look where the world\u2019s most elite AI talent is going",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUl6LVdmbFEwNno3d1k1NHQ3ZlpMXzNzUGxzemwzTGc5Z3JIVjVtMllNbGdrZEtYdTdpdzBxV3RhUlFBLTdJdkpWTC0zZ0hCcFdWVERxd3hSRkw0WUtIZGcxOERYZV94T1FNVUhDOUdwVnVtenEwRFlMSl8wWkxWdGlGV2pKOG9aVDlHRF9VYjFsUV9UOXVrOGMteFBjZThFM1BHYS1FTDY?oc=5",
+      "pub_date": 1795033800.0,
+      "article_url": "https://www.washingtonpost.com/opinions/interactive/2026/11/18/us-needs-keep-door-open-chinese-ai-talent/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EVEGZTH6UFHTJNN3SSOTVNRBNA.jpg&w=1200",
+      "description": "China has a deep bench. Can America still beat it?"
     },
     {
-      "headline": "A.I. Mistook a Bag of Chips for a Gun, Teenagers\u2019 Lawsuit Says",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUlPb1V1MVNTNVIyR3NlWmg5QV9qZ1FPbUY1OG9NeUFjcnBVbFpreml6M1VGM2c4OGd0ckkzR2JjSTFsbHM2cDFkRHpEMGx0RzM1dVdjMVZSak8tcXlaVDVCV0hIS1ZQY2xhdjdERnJSQ1lHSHRsc1FmM2VkbWtWNA?oc=5",
-      "pub_date": 1794969455.0,
-      "article_url": "https://www.nytimes.com/2026/11/17/us/baltimore-school-chips-gun-alert.html",
+      "headline": "AI is swallowing maths. Is economics next?",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVUtbkVFNUxQZ0pMcVIwVjAwYXhKTW9GOXBfcVdHdVFxSEItd3BGUWdpSm5XbEtUVWdycFdMOEJoZEh1MXpJS3hPUkhXdkN1dm5vZU5ObFdpTTZCRnRENjNFa0JuXzkzNzIwanN3cG50RkwwSXllNVFJM0tkZGJwSkZLRWY5NmpBeHFBbEcxN1BGbDFXN1FuMTYxNE54ZmxL?oc=5",
+      "pub_date": 1795082485.0,
+      "article_url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
       "image": null,
       "description": null
     },
     {
-      "headline": "Watch Inside Google's AI Race with Ruth Porat",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJsbWhjMXppNTZQWTdqM0RrUU1qaWF4dzhKTXBsNlN0a3o5aGM2R09TeXdfOHhGa0ZiaVRkdGU2a0ptaXlsRHUzMzBvSVFmdk9nYmtROVV2aXctLVB2aTRQS2EtNHNLTG1yM3BEWUtJNXJ0cUhQSGtFRlJkeUxhYmJ2OWlwQWM4OTF5d19IcWR4WWRRQm9yVVRESXlYWDdVcWtJcUpxUQ?oc=5",
-      "pub_date": 1795064550.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video",
-      "image": null,
-      "description": null
+      "headline": "Can AI Really Engineer Its Way to Superintelligence?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11VmFUVjZreXdSdVZjZnRmeTA5OWNJeENIVzlqY2hYdFcwTjNZRVZPbkNSSXpRTHJwWUl0bnkxVkg4LW85U0F6cG9FcmtWLUR1U2xSdy10eTdFSzJSYkpzQ0Rodw?oc=5",
+      "pub_date": 1794988800.0,
+      "article_url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=68699683&width=1200&height=600&coordinates=0%2C205%2C0%2C205",
+      "description": "Yet trying for it may still be disastrous"
     },
     {
-      "headline": "Morgan Stanley sees AI IPO appetite building amid 'biggest capex cycle in our lifetimes'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmJ1YXBmcG1mQXB4V1dzSmx6YW5SZXNacWxxbDZCdmh6Vm43aloxMGRON1ktM0d1eEJEOFE4ZGZwUmVGaWNXWGM1VXlxOTFORkRWYlQ0WnM0VzdJV3RQRmR1TE90Sm9TeDRXOGk2U2RpUDBBeFFlT3lrY0dIcE02bTVSN2ZGX2NIVU9KbHdMc2xVVWRDVG43bVRmV19aQlc1S3hNRW5xbUNrbkY2X1NXdnhyaw?oc=5",
-      "pub_date": 1795064969.0,
-      "article_url": "https://www.cnbc.com/video/2026/11/19/morgan-stanleys-co-president-on-the-ai-industry-ipo-markets-can-handle.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554894-17950624101795062407-49725520139-1080pnbcnews.jpg?v=1795062409&w=1920&h=1080",
-      "description": "Morgan Stanley Co-President Dan Simkowitz discusses investor appetite for AI IPOs, the scale of the industry's investment cycle and the importance of financial discipline under Nvidia's new leadership. He also sees a strong outlook for global M&A, supported by abundant credit and a favorable regulatory environment."
-    },
-    {
-      "headline": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZTcW1oQlltWWRFUy1hUzY4ODVqZXFKcl9McGNhUDZqam90WE9YQ3RqclV1czZJOVdKZURXeUxpTkRVM2FONklyQ2ZiS215WTBLTE14RFVZOWY1cnZUQTR5cDVNRlJ3bTVrWkJ5aGdxMG83NURiTjk1V0NLclhVM1NFcWctSVA0bUhad2dMYjg0czFSTk1KVUQyZXZTUQ?oc=5",
-      "pub_date": 1795025487.0,
-      "article_url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
-      "image": null,
-      "description": null
+      "headline": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWVzWkxaaHhSMm1vcFVPSTJ0cUVOQ0pDMmp6ZjVodEJwTjg5Zzl4MXc4XzBMM0VqZ0ViUkd0ZjZJZlRUTjZaSjdmYmVtMzZaNlpWcFhBdV83OElxTUFUQkRkUDdXN3ZhangzOGdXNjh2S3g1bFRhMTROSzZvY2hxVW8tUDhHRGIwNjBXR253Nnd3bmMyM0NuVmJwNnZwN2VrT2liN3BueWpaQQ?oc=5",
+      "pub_date": 1795048976.0,
+      "article_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800",
+      "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-19T06:48:49.048725+00:00"
+  "fetched_at": "2026-11-19T16:22:13.622864+00:00"
 }
