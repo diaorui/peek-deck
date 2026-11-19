@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Crypto asset manager's stock jumps 13% after full Ethereum sale",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdE9LZVY4ODliMEtobGRHQ2U2RFlhSDNPMG9VdzVSNGFYeTMyblVsM0k5M1RvN1NkRVpYUUVlRU51ZWlWbHdhVWMxb3pQb3hQYWRxTXF0NzI3M3N5ZHoxaXNabl9LZGtMTXRCRU1Hb2ljZk9USGMwR1BYajB2RVBPdHNwMWs2dkJXdnIzbF9iOGlqWEV6VkFXemRBZDFSeVU?oc=5",
-      "pub_date": 1795045215.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-asset-managers-stock-jumps-234015714.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d7fa5686f981419a12f21c0d75008cb1678078c28722a9c7241b8f94806cfe52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fb4481b5177fa6d4c08519265fb1f8bd8.jpg",
-      "description": "This company raised $19.3 million by selling Ethereum and part of its Solana holdings to support a $40 million share buyback."
-    },
-    {
       "headline": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here\u2019s Why It Could Be Time to Sell.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3hfQTYwLUN3a0ozck5qNXM0YldBR2hTalJrekhLdkJCY3FxVWFhWVczME12OF9keGpqbGh1b3dYREVPeTEwbVBGVTR1N1RKTFdaS3RvMV9oeXk3T3FtVXRCZ255eFpXZUhfZTMxTXhJRTBSdkZRQkUzLVRrTlBCMDVPWVM5X095MkZRb2JqUWowSkNOWXFqRHR5bERaY1VQ?oc=5",
+      "pub_date": 1795005002.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-just-gave-ethereum-123002657.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0f032a6e3a0e6efffa8c3face5c33dcc60f0adc72a799646a9fbe0be34aae275/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F3ffa5d0da19be421f562409d312b9413.jpg",
+      "description": "Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin."
     },
     {
       "headline": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
@@ -35,6 +35,16 @@
       "description": "CoinShares, one of Europe\u2019s largest digital-asset managers, has sold its entire treasury holding of Ethereum and half of its Solana."
     },
     {
+      "headline": "Tom Lee: Bitcoin, Ethereum, Solana Are \u2018Still at the Beginning\u2019",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZFp2VDdkTlhIc1I1eE9udDZiZUpNR3lGdHFXTmtONXc0RjJfc3JxODR5U2VvSWlHcjdJdWFxbjhkNW8yZVpwQ205dWtaUTNQc1VvNjc2b3JXTURjU0E2VGsxVnh3WXFoVE4wLVpJNnZKUjMtWHV3MGJpbmNTY0E1dzNyd0NaSDROZ2JEYTFGZ25feWNfekFUZ1pCaEx1YWt3QjN4dlVMNDg2ZmVvMElaRkl1ZWRzeEZBRHg2dg?oc=5",
+      "pub_date": 1795037408.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63414304/tom-lee-bitcoin-ethereum-solana-are-still-at-the-beginning",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Current price of Ethereum for November 18, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -45,42 +55,12 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC consolidates, ETH and XRP stall",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3hBTDR5UVhEYkE0M3VMTDJlakJicW5zQ0ttX0tLQ2VHME1yczd3N2hCM2RtdUphUFEwUGxLSm10a3VELXhuVkZpZVlNaFM2Tm9MU2tYNXpCZ2NfNGh3NWNBLUhmZkxTYUw2RE1UMHgxTFFyWkNJbEJzWVNUejBHT2JFSHBGcjJGNEVZcnU1OG0zQm0yUmJiallqNVJXQU44Tlp2SVNueUhDZHB2YVNTTkJmUk5EdjBpalMxckUwRTlvdXlsMGVFUXNrQndkX3p2dFd1T0JsdUo?oc=5",
-      "pub_date": 1794970576.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-eth-and-xrp-stall-202611180256",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here\u2019s Why It Could Be Time to Sell.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeE5GX3RtYXNLUGluNVpta3hfaXhPQV9mdzg1R2ZhRVFPdmdQTXlRUjRfVTZmTGdYX1Y4MHBlXzc1Yzg3RVUzY3dNdHlSUk85Z01sUGhkeF95VXR2U2JrSGdZNUZjWWozWmxLbklNRDB5VFptSmt2SFF1TC1rNVZ0dktYWTFUZldQTUJlVXF2cEc0aHlzTUVMa0I0QUxGVHVjNGtTb1I0SWVqbFlQYjlQcTczRlpIRXk0bEdFdXVDUUN1eFZnVmRkTzJEZk1nZUtEVGhDbg?oc=5",
-      "pub_date": 1795003802.0,
-      "article_url": "https://www.fool.com/investing/2026/11/18/vitalik-buterin-just-gave-ethereum-investors-a-wake-up-call-here-s-why-it-could-be-time-to-sell/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F818599a79429fe3f4e5a6e7d9e463a112e336d7b-1290x860.jpg&w=1200&op=resize",
-      "description": "Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin."
-    },
-    {
-      "headline": "Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dl9KNnJ3VXg0N3hFNkdNN0xFMkZXRVYzSmFyNU1oOVFMNXFWYVA5M0RhNzhnZTVrdzFaMHZ5b09zMzYyQWotNWpFaGxUVXBWLVNMcmVnNXlWeEVYaGtaTGZGcnJyakR3d3dCSDRFTFkzZmNUSnAw?oc=5",
-      "pub_date": 1795007902.0,
-      "article_url": "https://cryptobriefing.com/citi-cuts-bitcoin-ethereum-price-targets/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/18081811/library-citi-cuts-bitcoin-price-target-to-99-532-ethereum-to-2-8-800x450.jpg",
-      "description": "Citi lowered its Bitcoin price target to $99,532 and Ethereum to $2,838, down from October levels, as ETF flow assumptions shift again."
-    },
-    {
-      "headline": "Ethereum's Outlook Gets Worse but Sharplink Remains a Buy: TD Cowen",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdzJ5WWtyNFBBLWhIWUhZcFlCelluM3FTUUVnUEltRERJbzhXMkpYeHJXNTR0NmEySk5yeGRPZ1ptT3ZvYXpFNnBadnBMZUxSZWZTazVfY0Z5alhWNkI0RmRxSWRPVGFhZzNUU2tIRUl5VFpLNjJKOGZ6ZXo5WFJreHpwYU94Z19pRTE3QzZrUm5adWllTU53UkZBaE9PaUoxY25Tam9ScVVaQm04cGhPMUVjaVhfQmlaMl9henJweXQwa0cyRkE?oc=5",
-      "pub_date": 1795013708.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63387668/ethereums-outlook-gets-worse-but-sharplink-remains-a-buy-td-cowen",
+      "headline": "Zcash to $1,800, Ethereum to $2,800? Arthur Hayes Sees a Rally Before the AI Bubble Bursts",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekRlMVZsOVFTTURyTWQ3N1VGTTBiVHM0TWJnSjRDTEhFT25ZSEwzaGg3UTFfZ19sU3NYR0w1ZEhnMWtGajdTUVA1TGtueDllc2ZMQzgyWjJ3dlJaQVlNMk5tSWNUcTNMOGFuSXJseC1JT0huek5CdDVfNzlMc1Y3Q2tBb3pMbzlFMVB2REN5SjJvLWxjNklPVmk3bw?oc=5",
+      "pub_date": 1795015963.0,
+      "article_url": "https://www.ccn.com/news/crypto/zcash-1800-arthur-hayes-rally-before-ai-bubble-bursts-ethereum/",
       "image": null,
       "description": null
     },
@@ -95,16 +75,36 @@
       "description": "The Ethereum treasury company added 7,653 ETH last week, bringing its holdings to 6.08 million tokens worth approximately $11.1 billion."
     },
     {
-      "headline": "Zcash to $1,800, Ethereum to $2,800? Arthur Hayes Sees a Rally Before the AI Bubble Bursts",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekRlMVZsOVFTTURyTWQ3N1VGTTBiVHM0TWJnSjRDTEhFT25ZSEwzaGg3UTFfZ19sU3NYR0w1ZEhnMWtGajdTUVA1TGtueDllc2ZMQzgyWjJ3dlJaQVlNMk5tSWNUcTNMOGFuSXJseC1JT0huek5CdDVfNzlMc1Y3Q2tBb3pMbzlFMVB2REN5SjJvLWxjNklPVmk3bw?oc=5",
-      "pub_date": 1795015963.0,
-      "article_url": "https://www.ccn.com/news/crypto/zcash-1800-arthur-hayes-rally-before-ai-bubble-bursts-ethereum/",
-      "image": null,
-      "description": null
+      "headline": "Citi Cuts Bitcoin Price Target to $99,532 and Ethereum to $2,838 With Bitcoin Near $64,000",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tZ3RGTVg0WVJzZE5YYk10ejlYX2FOYXVfSVl3bmFSbFFvUUhxSFJnYmI1eUdLdTRoNkJGb3dob0U2YkR3MTdaXzRkSjFVenNiS0RLazYxTUcwaXFTNlRHT2txbHFMTDZ0cG1xNi1mZTJlZw?oc=5",
+      "pub_date": 1795010857.0,
+      "article_url": "https://financefeeds.com/citi-bitcoin-price-target-ethereum-cut/",
+      "image": "https://financefeeds.com/wp-content/uploads/2025/10/Citi-Backs-Stablecoin-Startup-BVNK.webp",
+      "description": "Citi cut its Bitcoin price target to $99,532 from $113,000 and Ethereum to $2,838 as Bitcoin traded at $64,082, leaving a 55.3% gap to the new 12-month target."
+    },
+    {
+      "headline": "What is Ethereum actually for? A judge and Vitalik Buterin both left it open",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajBjLVRLcktqRTZxY01DYUVoUkE5ZXVJQ18zWFhOV0czXzVxVlNNeEJONEJLY09oTkFINVVBWkJ1MjNXMXlZYWVLdnBhTU9tLU51Y0NXZGlaZl9CSVlFVEI3ODVKWjBZUDVpcE8tdXFoYk93SS1hWGJXVlRIdnRVcEp4WHBldXlrZjBISlU1dk5zSDE3VFo4NGhIR0FLY0U?oc=5",
+      "pub_date": 1795050004.0,
+      "article_url": "https://ambcrypto.com/what-is-ethereum-actually-for-a-judge-and-vitalik-buterin-both-left-it-open/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/11/Editors-9-e1794985967910.jpg",
+      "description": "As a judge acquits the Peraire-Bueno brothers, Bitwise's Hunter Horsley and Vitalik Buterin weigh in on what crypto is actually for."
+    },
+    {
+      "headline": "Invesco moves stablecoin reserves on-chain, but hides a liquidity gap",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelY5cXdVM3dvSGFXRHlGNVhrc0thc1JRZ2JfZkVDOWVQY19KX0o1ZGxieVhPT3RKNlIzMDQ4aEdzbWhwMGVkQ2ctUTllYzB6bUcyWFc0Ym54cVY5TjdyUGpTNzdaMDZUS1dKX2tOaDdHTGNYc3lmczBZVTVVanJHSlAwaWp5YWZiX2pFTDU4bWptcURqUk1MUw?oc=5",
+      "pub_date": 1795068600.0,
+      "article_url": "https://cryptoslate.com/invesco-moves-stablecoin-reserves-on-chain-but-hides-a-liquidity-gap/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_XLbwnCPGTD.jpg",
+      "description": "Invesco's new Ethereum-based stablecoin reserve fund requires institutions to follow business-day redemption schedules."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-18T23:57:28.168517+00:00"
+  "fetched_at": "2026-11-19T06:48:51.847954+00:00"
 }

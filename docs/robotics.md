@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-18T23:57:37.535096+00:00'
+updated: '2026-11-19T06:48:55.125695+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 18, 2026 at 23:57 UTC  
+**Last Updated:** November 19, 2026 at 06:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-3d ago
+4d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-3d ago
+4d ago
 
 ---
 
@@ -110,6 +110,14 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
+**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+
+Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+
+TechCrunch • 19h ago
+
+---
+
 **[Gemini 4 Hydrogen: a faster model for general purpose robotics](https://developers.googleblog.com/gemini-hydrogen-for-robotics/)**
 
 Discover Gemini 4 Hydrogen: a fast, cost-effective model for robotics featuring real-time spatial reasoning, agentic control, and seamless integration with the Antigravity Robotics plugin and MuJoCo simulation.
@@ -118,29 +126,35 @@ Google for Developers Blog • 1d ago
 
 ---
 
-**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
+**[US companies turn to robots to ease labour shortage crisis](https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1)**
 
-WSJ • 1d ago
-
----
-
-**[Humanoid robots will become a common sight in China](https://www.economist.com/the-world-ahead/2026/11/18/humanoid-robots-will-become-a-common-sight-in-china)**
-
-The Economist • 13h ago
+Financial Times • 1h ago
 
 ---
 
-**[Inside China's relentless race to develop humanoid robot helpers and get them into our homes](https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/)**
+**[The fastest soft robot ever built doesn't need electronics to function](https://techxplore.com/news/2026-11-fastest-soft-robot-built-doesnt.html)**
 
-China is racing to make humanoid robot helpers common home appliances, and one industry insider says they have an "edge globally."
-
-CBS News • 8h ago
+Tech Xplore • 11h ago
 
 ---
 
 **[China Rules the Robots. Here’s What They Can Do](https://www.bloomberg.com/news/articles/2026-11-18/china-robot-advances-offer-more-hardware-forward-path-for-ai)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 18h ago
+
+---
+
+**[Get ready for humanoid robots, says He Xiaopeng](https://www.economist.com/the-world-ahead/2026/11/18/get-ready-for-humanoid-robots-says-he-xiaopeng)**
+
+The Economist • 20h ago
+
+---
+
+**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/?post_type=news&p=11212)**
+
+Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
+
+Boston Dynamics • 1d ago
 
 ---
 
@@ -150,33 +164,17 @@ Reuters • 1d ago
 
 ---
 
-**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+**[Stryker CEO Kevin Lobo says Stryker won’t build its surgical robots in China over IP worries](https://fortune.com/2026/11/17/stryker-ceo-kevin-lobo-china-robots-knockoffs-mako-cmr-surgical/)**
 
-Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+Kevin Lobo told Fortune that Chinese companies are “knocking off a lot of the other robots” as Stryker bets $400 million on a soft-tissue surgical robot.
 
-TechCrunch • 12h ago
-
----
-
-**[Reason to Smile: Bonham MS Robotics Team qualifies for state competition](https://www.yahoo.com/news/articles/reason-smile-bonham-ms-robotics-192628538.html)**
-
-TEMPLE, Texas (FOX 44) – The Bonham Middle School robotics team has programmed itself to a return trip to the Boosting Engineering Science and Technology (BEST) Robotics State Tournament! According to...
-
-Yahoo • 4h ago
+Fortune • 1d ago
 
 ---
 
-**[AI Finds 28 Zero-Day Flaws In Physical Robotics Software](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security)**
+**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
 
-VicOne’s AI-assisted research reveals what faster zero-day discovery means for robot safety
-
-IEEE Spectrum • 2d ago
-
----
-
-**[The fastest soft robot ever built doesn't need electronics to function](https://techxplore.com/news/2026-11-fastest-soft-robot-built-doesnt.html)**
-
-Tech Xplore • 4h ago
+WSJ • 1d ago
 
 ---
 
@@ -190,7 +188,7 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 206K • 👍 3K • 💬 620 • ⏱️ 2:12:13 • 2d ago
+👁️ 210K • 👍 3K • 💬 623 • ⏱️ 2:12:13 • 2d ago
 
 ---
 
@@ -200,17 +198,37 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 122K • 👍 446 • 💬 364 • ⏱️ 2:44 • 1d ago
+👁️ 145K • 👍 495 • 💬 401 • ⏱️ 2:44 • 2d ago
 
 ---
 
-**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
+**[500-Foot Robotic Wolf vs 350-Foot Robotic Lion! 🐺🦁 | Six Sisters Save Their Village](https://www.youtube.com/watch?v=HlspxjX-xE4)**
 
-Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
+500-Foot Robotic Wolf vs 350-Foot Robotic Lion! | Six Sisters Save Their Village One terrifying night, a gigantic 500-foot robotic ...
 
-📺 CNET
+📺 Gramixa
 
-👁️ 41K • 👍 379 • 💬 39 • ⏱️ 4:02 • 3d ago
+👁️ 153K • 💬 10 • ⏱️ 8:11 • 19h ago
+
+---
+
+**[Humanoid Robots take centre stage with special dance performance at APEC Summit](https://www.youtube.com/watch?v=ntFDS5R47zU)**
+
+Humanoid Robots take centre stage with special dance performance at APEC Summit #APECsummit #HumanoidRobots ...
+
+📺 ANI News
+
+👁️ 752 • 👍 10 • ⏱️ 0:30 • 39m ago
+
+---
+
+**[Two Xiaomi Humanoid Robots Worked an 8-Hour Car Factory Shift](https://www.youtube.com/watch?v=NIQnni5l7l0)**
+
+THIS MONTH: Two full-size Xiaomi humanoid robots completed an eight-hour-and-five-minute production shift at Xiaomi's Beijing ...
+
+📺 Bradford Manning
+
+👁️ 16K • 👍 428 • 💬 16 • ⏱️ 1:14 • 1d ago
 
 ---
 
@@ -220,17 +238,7 @@ Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid ro
 
 📺 States 2050
 
-👁️ 102K • 👍 1K • 💬 50 • ⏱️ 26:12 • 5d ago
-
----
-
-**[I&#39;ve Tested 250+ Robot Vacuums — Which Brand Is Actually the BEST?](https://www.youtube.com/watch?v=b-2BvUXH5oQ)**
-
-Which robot vacuum brand is best in 2026? I've purchased and tested over 250 robot vacuum cleaners, and in this honest ...
-
-📺 Just A Dad Approved
-
-👁️ 12K • 👍 175 • 💬 40 • ⏱️ 22:46 • 1d ago
+👁️ 105K • 👍 2K • 💬 54 • ⏱️ 26:12 • 5d ago
 
 ---
 
@@ -240,7 +248,17 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 14K • 👍 110 • 💬 20 • ⏱️ 4:51 • 1d ago
+👁️ 17K • 👍 126 • 💬 20 • ⏱️ 4:51 • 1d ago
+
+---
+
+**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
+
+Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
+
+📺 CNET
+
+👁️ 41K • 👍 381 • 💬 39 • ⏱️ 4:02 • 3d ago
 
 ---
 
@@ -250,17 +268,7 @@ The future of warfare is becoming increasingly autonomous! The U.S. Army has dem
 
 📺 Techie Sapien
 
-👁️ 100K • 💬 24 • ⏱️ 0:06 • 16h ago
-
----
-
-**[War Robots Wanted $500 FOR THIS???](https://www.youtube.com/watch?v=gSA89JxthoA)**
-
-War Robots Gameplay: ULTIMATE GUST being seemingly one of the most expensive items in the game. WR is asking 500$ for ...
-
-📺 Manni-Gaming
-
-👁️ 23K • 👍 758 • 💬 230 • ⏱️ 17:29 • 1d ago
+👁️ 114K • 💬 34 • ⏱️ 0:06 • 23h ago
 
 ---
 
@@ -270,17 +278,7 @@ original credit: @chessnut.official & @alexandra_samaganova on Instagram This au
 
 📺 Retrolix1
 
-👁️ 8K • 👍 152 • 💬 6 • ⏱️ 0:07 • 3h ago
-
----
-
-**[🚨 Scientists Just Created a Real-Life Terminator Robot? #robotics #robot #airevolution](https://www.youtube.com/watch?v=GW4AJ9TcqnE)**
-
-South Korean researchers have developed a shape-shifting liquid robot that can switch between solid and liquid forms using ...
-
-📺 AI Robotics Madness
-
-👁️ 48K • 👍 946 • 💬 39 • ⏱️ 0:28 • 6d ago
+👁️ 18K • 👍 242 • 💬 8 • ⏱️ 0:07 • 10h ago
 
 ---
 

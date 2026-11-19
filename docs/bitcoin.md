@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-18T23:57:37.525852+00:00'
+updated: '2026-11-19T06:48:55.116560+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 18, 2026 at 23:57 UTC  
+**Last Updated:** November 19, 2026 at 06:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,260.26
+### $63,535.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -11.5%  
-**30d:** -23.9%  
-**90d:** -19.3%  
-**1y:** -30.7%  
+**24h:** -2.1%  
+**7d:** -7.0%  
+**30d:** -24.4%  
+**90d:** -17.6%  
+**1y:** -27.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1270.38B
+**Market Cap:** $1277.01B
 Rank #1
 
 **Circulating Supply:** 20,113,584 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--49.9%
+-49.6%
 
 **All-Time Low:** $67.81
-+93042.6%
++93526.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 11
+### 10
 **EXTREME FEAR**
 
 ---
@@ -97,7 +97,7 @@ We’re so back! /s
 
 Congrats everyone.
 
-3d ago
+4d ago
 
 ---
 
@@ -117,7 +117,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 **[It's so over guys!!!](https://www.reddit.com/r/Bitcoin/comments/1xwnz3q/its_so_over_guys/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -125,7 +125,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 62 > 64.5
 
-3d ago
+4d ago
 
 ---
 
@@ -139,7 +139,7 @@ I really have no words of hope. But I am holding on.
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1xwizma/hodl/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -147,7 +147,7 @@ I really have no words of hope. But I am holding on.
 
 What is going on with Bitcoin today?
 
-3d ago
+4d ago
 
 ---
 
@@ -157,31 +157,45 @@ What is going on with Bitcoin today?
 
 **[GTA 6 Is Winning Over Gamers: Can Take-Two Stock Beat Bitcoin Next?](https://www.benzinga.com/crypto/cryptocurrency/26/11/63405917/gta-6-is-winning-over-gamers-can-take-two-stock-beat-bitcoin-next)**
 
-Benzinga • 4h ago
+Benzinga • 11h ago
 
 ---
 
-**[CryptoQuant says bitcoin is back in a bearish phase but has reached a 'value zone'](https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471)**
+**[Wells Fargo doubles down on bitcoin ETF, and Chase goes down, but bitcoin stays](https://finance.yahoo.com/video/wells-fargo-doubles-down-on-bitcoin-etf-and-chase-goes-down-but-bitcoin-stays-194904735.html)**
 
-Onchain and technical indicators now place bitcoin back in a bearish phase, CryptoQuant said, noting that bitcoin demand growth is contracting at the fastest pace since July.
+Scott Melker discusses Wells Fargo doubling down on the BlackRock (BLK) bitcoin (BTC-USD) ETF, Chase (JPM) going down while crypto stayed up, and the Supreme Court rejecting a crypto bank's bid for Fed payment access.
 
-The Block • 6h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
-
-**[Analyst warns Anthropic IPO is pulling money out of Bitcoin](https://finance.yahoo.com/markets/crypto/articles/analyst-warns-anthropic-ipo-pulling-224557665.html)**
-
-Bitcoin’s two-month slide has one analyst urging patience, while another sees an upcoming market debut as the real test.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto Market Today, Nov. 18: Bitcoin's 12% Weekly Plunge Has Triggered a Rare Signal With a Surprising History](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-18-224502946.html)**
+**[Goldman Sachs discloses over $1B in spot Bitcoin ETF holdings](https://www.tradingview.com/news/cryptobriefing:15cf7d58e094b:0-goldman-sachs-discloses-over-1b-in-spot-bitcoin-etf-holdings/)**
 
-As liquidity continues to evaporate from cryptocurrency markets, Bitcoin is testing a long-term technical benchmark that has historically helped investors identify periods of extreme market weakness.
+Goldman Sachs now holds more than $1 billion in Bitcoin exposure. The bank's spot Bitcoin ETF holdings reached approximately $1.283 billion as of September 30, 2026, according to its Form 13F filing with the SEC.That figure represents a 121% jump from around $580 million at the end of the second qu…
 
-Yahoo Finance • 1h ago
+TradingView • 11h ago
+
+---
+
+**[Wells Fargo's bitcoin ETF holdings now rival Tesla and SpaceX's combined $2 billion](https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion)**
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal](https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal)**
+
+CoinDesk • 2h ago
+
+---
+
+**[US Pending Home Sales Hit a Record Low. Why That Could Help Bitcoin and Stocks](https://finance.yahoo.com/real-estate/articles/us-pending-home-sales-hit-055658725.html)**
+
+Pending home sales hit a record low in October. See what the peak-rates signal could mean for US stocks and Bitcoin.
+
+Yahoo Finance • 52m ago
 
 ---
 
@@ -191,37 +205,23 @@ Financial Times • 1d ago
 
 ---
 
-**[German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin](https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin)**
+**[Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike](https://bitbo.io/news/bitcoin-below-63k-waller-hike/)**
 
-CoinDesk • 8h ago
+Bitcoin fell below $63,000 after Fed Governor Christopher Waller said the central bank may need to 'shock people' with a half-point rate hike in December.
+
+Bitbo • 11h ago
 
 ---
 
-**[If You Invested $100 in Bitcoin When Rockstar First Confirmed GTA 6, Here’s How Much You’d Have Today](https://www.tradingview.com/news/benzinga:2b373b44c094b:0-if-you-invested-100-in-bitcoin-when-rockstar-first-confirmed-gta-6-here-s-how-much-you-d-have-today/)**
+**[Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade](https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade)**
 
-$100 in Bitcoin CRYPTO:BTCUSD on the day Rockstar first confirmed GTA 6 would be worth $154.70 now, as the game rolls out worldwide this week.The Wild Ride While Fans WaitedRockstar told fans on Feb. 4, 2022, that "the next entry in the Grand Theft Auto series is well underway," back when Bitcoin t…
-
-TradingView • 1h ago
+Bloomberg.com • 5h ago
 
 ---
 
 **[Worker hijacked 100 computers at Upstate NY Bitcoin mine, stole $53K, feds say](https://www.newyorkupstate.com/news/2026/11/worker-hijacked-100-computers-at-upstate-ny-bitcoin-mine-stole-53k-feds-say.html)**
 
-NewYorkUpstate.com • 9h ago
-
----
-
-**[Bullish Stock Jumps On Earnings, Revenue Gains. Board Approves $300 Mil Buyback Plan.](https://www.investors.com/news/bullish-earnings-q3-2026-blsh-stock-tokenized-stocks-bitcoin-cryptocurrency/)**
-
-Bullish earnings, revenue surge despite falling crypto prices. The exchange approved a $300 million buyback plan. BLSH stock bucks mixed crypto performance.
-
-Investor's Business Daily • 2h ago
-
----
-
-**[Bitcoin sell-off deepens as 51% of supply falls underwater](https://www.fxstreet.com/cryptocurrencies/news/bitcoin-sell-off-deepens-as-51-of-supply-falls-underwater-202611172143)**
-
-FXStreet • 1d ago
+NewYorkUpstate.com • 16h ago
 
 ---
 
@@ -249,7 +249,7 @@ Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bot
 
 I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of buzzwords was long and unending - proof-of-work, Merkle trees, elliptic curves, smart contracts, DeF
 
-⬆️ 2 • 💬 0 • 3d ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
+⬆️ 2 • 💬 0 • 4d ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
 
 ---
 
@@ -257,7 +257,7 @@ I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of 
 
 TimestampGit — OpenTimestamps and blockchain timestamp verification: how to prove code existed at a specific time. Automatically anchors Git commits to Bitcoin.
 
-⬆️ 1 • 💬 0 • 8h ago • [timestampgit.dev](https://timestampgit.dev)
+⬆️ 1 • 💬 0 • 15h ago • [timestampgit.dev](https://timestampgit.dev)
 
 ---
 
@@ -279,7 +279,7 @@ My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
 **[Ask HN: What use are the non-major cryptocurrencies?](https://news.ycombinator.com/item?id=50493695)**
 
-⬆️ 4 • 💬 5 • 4d ago
+⬆️ 4 • 💬 5 • 5d ago
 
 ---
 
@@ -313,37 +313,17 @@ Unlock 15% Deposit Bonus as a new user on on BTCC: ...
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 2K • 💬 76 • ⏱️ 10:02 • 22h ago
+👁️ 74K • 👍 2K • 💬 85 • ⏱️ 10:02 • 1d ago
 
 ---
 
-**[When Will Bitcoin Go Up Again?](https://www.youtube.com/watch?v=Air1P1bKgB0)**
+**[BlackRock’s Bitcoin Bet Is Just Getting Started](https://www.youtube.com/watch?v=g7ceecPoLY4)**
 
-Shehzan Maredia is the founder and CEO of Lava. In this conversation, we break down why bitcoin isn't going up, who has been ...
+Robbie Mitchnick is the Global Head of Digital Assets at BlackRock. In this conversation, we break down the lessons from IBIT's ...
 
 📺 Anthony Pompliano
 
-👁️ 47K • 👍 632 • 💬 48 • ⏱️ 28:46 • 1d ago
-
----
-
-**[Bitcoin at $64K: Why I’m Not Worried](https://www.youtube.com/watch?v=BqGXeW7EYo4)**
-
-Welcome back! ➡️ Trezor Wallets: https://aaronbtc.com/trezor (10% off) iTrust Capital – $100 Bonus (Crypto IRA) ...
-
-📺 Aaron Bennett
-
-👁️ 19K • 👍 452 • 💬 33 • ⏱️ 10:57 • 18h ago
-
----
-
-**[Bitcoin - it&#39;s coming in 3...2...1...](https://www.youtube.com/watch?v=aUYHQ6E0iKA)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
-
-📺 Tyler S
-
-👁️ 8K • 👍 389 • 💬 142 • ⏱️ 7:18 • 4h ago
+👁️ 20K • 👍 327 • 💬 12 • ⏱️ 26:55 • 8h ago
 
 ---
 
@@ -353,7 +333,37 @@ Saifedean Ammous, author of The Bitcoin Standard, joins BMTV to talk about the A
 
 📺 Bitcoin Magazine
 
-👁️ 2K • 👍 81 • 💬 1 • ⏱️ 23:19 • 3h ago
+👁️ 7K • 👍 124 • 💬 10 • ⏱️ 23:19 • 10h ago
+
+---
+
+**[What This Billionaire’s MAJOR Warning Means for Bitcoin](https://www.youtube.com/watch?v=ppGBAsGWgbk)**
+
+A prominent billionaire investor just issued a major warning that could impact the crypto market. Here's what it could mean for ...
+
+📺 EllioTrades
+
+👁️ 15K • 👍 422 • 💬 33 • ⏱️ 13:25 • 9h ago
+
+---
+
+**[Bitcoin - it&#39;s coming in 3...2...1...](https://www.youtube.com/watch?v=aUYHQ6E0iKA)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+
+📺 Tyler S
+
+👁️ 14K • 👍 481 • 💬 161 • ⏱️ 7:18 • 11h ago
+
+---
+
+**[Bitcoin BEAR TRAP - JPMorgan Says Its $266,000 BTC Target Is Still ON](https://www.youtube.com/watch?v=xBfqo93lWEk)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Bitcoin is ...
+
+📺 Bitcoin News Alerts
+
+👁️ 5K • 👍 215 • 💬 89 • ⏱️ 15:39 • 12h ago
 
 ---
 
@@ -363,17 +373,17 @@ Crypto is over... Bitcoin is done... Or is it? Earn up to $14550 new user bonus 
 
 📺 Altcoin Daily
 
-👁️ 104K • 👍 3K • 💬 211 • ⏱️ 13:02 • 1d ago
+👁️ 105K • 👍 3K • 💬 214 • ⏱️ 13:02 • 2d ago
 
 ---
 
-**[Crypto beat Wall Street to the Anthropic IPO.](https://www.youtube.com/watch?v=eOh0X2IkkXo)**
+**[If You&#39;re Scared of Bitcoin Right Now, Watch This](https://www.youtube.com/watch?v=Kx8UAG-GbYA)**
 
-Anthropic prices its IPO tonight and lists on the Nasdaq tomorrow, and crypto traders have been trading it for days. Hyperliquid ...
+Join Learning Crypto: ...
 
-📺 Yahoo Finance
+📺 Crypto Tips
 
-👁️ 14K • 👍 215 • 💬 108 • ⏱️ 14:50 • 5h ago
+👁️ 37K • 👍 922 • 💬 63 • ⏱️ 10:20 • 12h ago
 
 ---
 
@@ -383,27 +393,17 @@ Strive CEO Matt Cole joins me to name the exact Bitcoin price that would prove h
 
 📺 Natalie Brunell
 
-👁️ 56K • 👍 938 • 💬 143 • ⏱️ 58:36 • 1d ago
+👁️ 59K • 👍 968 • 💬 150 • ⏱️ 58:36 • 1d ago
 
 ---
 
-**[This Line Called Every Bitcoin Bottom… Until Now?](https://www.youtube.com/watch?v=Wfyxd-XdV_8)**
+**[Bitcoin Just Puked to $62K. Is a COVID-Level Crash Coming Next?](https://www.youtube.com/watch?v=E91shGV-np4)**
 
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+Bitcoin crashed to $62000, breaking key support as fears of a COVID-level market crash grow. Should you sell Bitcoin before it ...
 
-📺 Lark Davis
+📺 Simply Bitcoin
 
-👁️ 19K • 👍 259 • 💬 33 • ⏱️ 8:03 • 1d ago
-
----
-
-**[Gold or Bitcoin If AI Crashes Everything?](https://www.youtube.com/watch?v=jh5Glu6MLRc)**
-
-AI either fails or works, and both outcomes end in a collapse. The only question is which direction. If the AI debt blows up, we get a ...
-
-📺 Andrei Jikh
-
-👁️ 56K • 👍 1K • 💬 98 • ⏱️ 1:09 • 1d ago
+👁️ 50K • 👍 1K • 💬 156 • ⏱️ 17:08 • 2d ago
 
 ---
 

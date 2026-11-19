@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-18T23:57:37.517241+00:00'
+updated: '2026-11-19T06:48:55.107974+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** November 18, 2026 at 23:57 UTC  
+**Last Updated:** November 19, 2026 at 06:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic's amended filing shows employee options and RSUs worth more than three times the IPO itself, plus a reserve for future hires. Every other startup now writes offer letters against that.
 
-🔗 [thefoundergazette.com](https://www.thefoundergazette.com/stories/anthropic-s-1-216bn-of-staff-equity-160bn-still-to-grant) • 1d ago
+🔗 [thefoundergazette.com](https://www.thefoundergazette.com/stories/anthropic-s-1-216bn-of-staff-equity-160bn-still-to-grant) • 2d ago
 
 ---
 
@@ -57,7 +57,7 @@ Two OpenAI models in July gained unauthorized access to Hugging Face's internal 
 
 Cloudflare has open-sourced Kitesurf, the browser engine behind its Browser Run product. Instead of driving Chromium, Kitesurf parses HTML, applies CSS, runs page JavaScript and renders screenshots on Cloudflare Workers, without a browser container. It speaks the Chrome DevTools Protocol, so Puppeteer-style clients can connect to it. The November 13 release includes the engine and a CLI under Apache 2.0. You can run it locally or deploy an instance on your own Cloudflare account. Cloudflare calls it a lightweight browser for agents, not a general Chromium replacement. That's the compatibility question I'd want answered before switching: can it finish the same flows my agent handles in Chromium, especially on JavaScript-heavy sites?
 
-1d ago
+2d ago
 
 ---
 
@@ -89,7 +89,7 @@ On November 16, Google said Ask Maps would expand to 30 European countries. The 
 
 llama.cpp and ggml tagged v1.0.0 on November 13, with a commitment that matters if you build on their libraries: breaking changes to the public C API now require a major-version bump. But 1.0 itself removes 35 deprecated functions. The old llama_set_warmup function and --defrag-thold option are gone too. If you've been carrying an integration across rolling builds, this is a release to test rather than pull blindly. There are new features, including FP8 KV caches and a host-memory expert cache for MoE models. For downstream developers, though, the versioning promise could be the more useful change: a way to tell an API-breaking upgrade from a smaller update before rebuilding around it.
 
-1d ago
+2d ago
 
 ---
 
@@ -105,7 +105,7 @@ I’m an independent researcher, solo and self-funded. Since April 2026 I’ve b
 
 In a Microsoft Research and UC Berkeley experiment, Claude Code worked through tasks from the same repos in sequence. After five completed tasks in a repo, 30% of its tool calls repeated actions from earlier tasks there. Repeated doesn't automatically mean unnecessary, but it gave the researchers something to investigate. They built TokenEconomizer, an open-source plugin that carries lessons between sessions, trims the available tools and nudges the agent when it gets stuck. The catch: learning the repo initially added cost. In their tests, cumulative spending fell below the unmodified agent by the sixth task in every repo. Across five agent-model combinations, mean cost per task fell 18.4-30.9%, including the plugin's own model calls. Task success improved in four of the five. I'd be interested in trying this on a repo I work in regularly. A one-off task wouldn't tell you whether the memory is earning its keep.
 
-1d ago
+2d ago
 
 ---
 
@@ -121,9 +121,25 @@ Before you blame AI tools for flat velocity, find out whether you face a capabil
 
 ## Google News: "ai"
 
-**[Anthropic Sets IPO Price at $83 Per Share in Milestone for the AI Industry](https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html)**
+**[Top Dem senator says AI is contributing to outages as Rubio says incidents not connected](https://www.foxnews.com/live-news/tech-outages-us-airlines-faa-microsoft-banks-november-18)**
 
-The New York Times • 48m ago
+Sen. Mark Warner, D-Va., suggested on Tuesday that artificial intelligence is behind a series of outages across U.S. industries this week, but Secretary of State Marco Rubio insists there is "no evidence" the incidents are connected.
+
+Fox News • 3h ago
+
+---
+
+**[Hacks, AI or just overdue updates - why have there been so many outages?](https://www.bbc.com/news/articles/c6z0kly2lll7o)**
+
+There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.
+
+BBC • 17h ago
+
+---
+
+**[Tech outages are piling up, and AI is raising the stakes. Could this be the new normal?](https://www.seattletimes.com/business/tech-outages-are-piling-up-and-ai-is-raising-the-stakes-could-this-be-the-new-normal/)**
+
+The Seattle Times • 1h ago
 
 ---
 
@@ -131,67 +147,49 @@ The New York Times • 48m ago
 
 Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.
 
-CNBC • 8h ago
+CNBC • 15h ago
 
 ---
 
-**[Is the AI party over? Anthropic is about to find out.](https://finance.yahoo.com/technology/article/is-the-ai-party-over-anthropic-is-about-to-find-out-230000591.html)**
+**[Four Maryland high school students sue after AI mistakes Doritos bag for gun](https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit)**
 
-Bring on the hotly anticipated Anthropic IPO. The tech bulls and bears are ready.
+Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home
 
-Yahoo Finance • 57m ago
-
----
-
-**[Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)**
-
-We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.
-
-blog.google • 5h ago
+The Guardian • 6h ago
 
 ---
 
-**[U.S. School Districts Weigh Breaking Up With Google Search Over A.I.](https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html)**
+**[Baltimore students sue over AI that allegedly mistook Doritos bag for gun](https://www.usatoday.com/story/news/nation/2026/11/19/baltimore-students-lawsuit-ai-gun-alert-chips/92855684007/)**
 
-The New York Times • 5h ago
+Four Baltimore students sued after an AI weapon detection system allegedly mistook a Doritos bag of chips for a firearm.
 
----
-
-**[LAUSD disables Google AI Overviews, reviews Google search](https://www.nbclosangeles.com/news/local/lausd-disables-google-ai-overviews-reviews-google-search/3972510/)**
-
-AI Overviews are AI-generated summaries that can appear above traditional search results, offering a quick response to a query.
-
-NBC Los Angeles • 58m ago
-
----
-
-**[Teens say AI surveillance system at Baltimore school mistook Doritos bag for a gun](https://www.nbcnews.com/news/us-news/baltimore-police-handcuffed-teens-school-ai-mistook-potato-chips-gun-l-rcna610019)**
-
-The four students were waiting outside the school for a parent to pick them up from football practice when they were surrounded by at least six police officers.
-
-NBC News • 3h ago
+USA Today • 44m ago
 
 ---
 
 **[A.I. Mistook a Bag of Chips for a Gun, Teenagers’ Lawsuit Says](https://www.nytimes.com/2026/11/17/us/baltimore-school-chips-gun-alert.html)**
 
-The New York Times • 21h ago
+The New York Times • 1d ago
 
 ---
 
-**[Students sue Baltimore County Schools after AI detection system mistook chips for gun](https://www.cbsnews.com/baltimore/video/students-sue-baltimore-county-schools-after-ai-detection-system-mistook-chips-for-gun/)**
+**[Watch Inside Google's AI Race with Ruth Porat](https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video)**
 
-Students sue Baltimore County Schools after AI detection system mistook chips for gun
-
-CBS News • 37m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable'](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/)**
+**[Morgan Stanley sees AI IPO appetite building amid 'biggest capex cycle in our lifetimes'](https://www.cnbc.com/video/2026/11/19/morgan-stanleys-co-president-on-the-ai-industry-ipo-markets-can-handle.html)**
 
-The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.
+Morgan Stanley Co-President Dan Simkowitz discusses investor appetite for AI IPOs, the scale of the industry's investment cycle and the importance of financial discipline under Nvidia's new leadership. He also sees a strong outlook for global M&A, supported by abundant credit and a favorable regulatory environment.
 
-TechCrunch • 12m ago
+CNBC • 1h ago
+
+---
+
+**[NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.](https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html)**
+
+The New York Times • 12h ago
 
 ---
 
@@ -203,7 +201,7 @@ TechCrunch • 12m ago
 
 They used my work to train their AI, and now they're using their AI to put me out of work.
 
-⬆️ 750 • 💬 680 • 17h ago • [nicolasbouliane.com](https://nicolasbouliane.com/blog/death-by-ai)
+⬆️ 775 • 💬 691 • 1d ago • [nicolasbouliane.com](https://nicolasbouliane.com/blog/death-by-ai)
 
 ---
 
@@ -211,15 +209,7 @@ They used my work to train their AI, and now they're using their AI to put me ou
 
 Google's AI answers are taking clicks from websites in the search results. In a randomized experiment, researchers hid AI Overviews from some US desktop users. Comparing them with users who still saw Overviews shows that an Overview cuts clicks to outside websites by about 40%. Those Overviews now appear on more than half the US keywords DataForSEO tracks, up from 6% two years ago. The industry's answer, GEO (generative engine optimization), has yet to show a way to compensate for the loss. While AI citations correlate with the same kind of link profile that goes with higher Google rankings, in March AI assistants sent websites just 0.3% of their traffic.
 
-⬆️ 687 • 💬 533 • 23h ago • [revscope.co](https://revscope.co/blog/search-seo-geo-2026/)
-
----
-
-**[Harvard researchers find AI coding agents shifted the bottleneck to code review](https://news.ycombinator.com/item?id=50538303)**
-
-Harvard study: AI coding agents raised code output 30 percent; finished work did not measurably rise, and getting code through review took 49 percent longer.
-
-⬆️ 315 • 💬 432 • 1d ago • [ComplexDiscovery](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
+⬆️ 696 • 💬 544 • 1d ago • [revscope.co](https://revscope.co/blog/search-seo-geo-2026/)
 
 ---
 
@@ -227,7 +217,15 @@ Harvard study: AI coding agents raised code output 30 percent; finished work did
 
 LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI
 
-⬆️ 315 • 💬 144 • 8h ago • [European Business Magazine](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
+⬆️ 438 • 💬 189 • 14h ago • [European Business Magazine](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
+
+---
+
+**[Harvard researchers find AI coding agents shifted the bottleneck to code review](https://news.ycombinator.com/item?id=50538303)**
+
+Harvard study: AI coding agents raised code output 30 percent; finished work did not measurably rise, and getting code through review took 49 percent longer.
+
+⬆️ 320 • 💬 441 • 1d ago • [ComplexDiscovery](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
 
 ---
 
@@ -235,25 +233,25 @@ LONDON, November 18, 2026 — Artificial intelligence has taken another signific
 
 A widespread, yet short-lived, system outage at United Airlines on Monday delayed some outbound flights at US airports, the airline told CNN in a statement, coming on the heels of a rare FAA ground stop that caused massive disruption.
 
-⬆️ 257 • 💬 132 • 2d ago • [CNN](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
+⬆️ 257 • 💬 134 • 2d ago • [CNN](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
 
 ---
 
 **[Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns](https://news.ycombinator.com/item?id=50531751)**
 
-⬆️ 191 • 💬 255 • 1d ago • [scmp.com](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
+⬆️ 191 • 💬 257 • 1d ago • [scmp.com](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
 
 ---
 
 **["Anthropic Is Not a Safe AI Company" – Coalition Challenges Anthropic Safety](https://news.ycombinator.com/item?id=50548485)**
 
-⬆️ 124 • 💬 76 • 7h ago • [businesswire.com](https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO)
+⬆️ 130 • 💬 77 • 14h ago • [businesswire.com](https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO)
 
 ---
 
 **[Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)**
 
-⬆️ 100 • 💬 112 • 2d ago
+⬆️ 101 • 💬 114 • 2d ago
 
 ---
 
@@ -261,15 +259,15 @@ A widespread, yet short-lived, system outage at United Airlines on Monday delaye
 
 Artificial intelligence is not causing the disruptions but identifying gaps that are difficult to fix.
 
-⬆️ 95 • 💬 57 • 22h ago • [The Washington Sun](https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages)
+⬆️ 96 • 💬 57 • 1d ago • [The Washington Sun](https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages)
 
 ---
 
-**["Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs](https://news.ycombinator.com/item?id=50512950)**
+**[AI will not make you rich (2025)](https://news.ycombinator.com/item?id=50555093)**
 
-Hacker News "Who is Hiring?" job postings sit near 12-year lows while AI appears in more than half of all postings. Most popular programming languages and technologies for November 2026.
+The disruption is real. It's also predictable.
 
-⬆️ 94 • 💬 86 • 2d ago • [Hacker News Hiring Trends](https://www.hntrends.com/2026/november.html)
+⬆️ 90 • 💬 53 • 4h ago • [Colossus](https://colossus.com/article/ai-will-not-make-you-rich/)
 
 ---
 
@@ -277,53 +275,33 @@ Hacker News "Who is Hiring?" job postings sit near 12-year lows while AI appears
 
 ## YouTube Videos: "ai"
 
-**[OpenAI’s New AI Just Crossed the Self-Improvement Threshold…](https://www.youtube.com/watch?v=1oIzVB5Ues4)**
-
-OpenAI says GPT-6.2 Astra is its first publicly released model to hit “High” in AI self-improvement. I break down what Astra actually ...
-
-📺 AI Copium
-
-👁️ 33K • 👍 312 • 💬 81 • ⏱️ 9:22 • 8h ago
-
----
-
-**[OpenAI CEO Sam Altman: It&#39;s hard to imagine the AI industry without Jensen Huang](https://www.youtube.com/watch?v=KRjEufK81Ic)**
-
-CNBC's Andrew Ross Sorkin sits down with OpenAI CEO Sam Altman and company president Greg Brockman to discuss Jensen ...
-
-📺 CNBC Television
-
-👁️ 30K • 👍 69 • 💬 40 • ⏱️ 2:52 • 8h ago
-
----
-
-**[AI Just Reached A Tipping Point](https://www.youtube.com/watch?v=6LmezY6_kGY)**
-
-Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free AGI Preparedness Guide ...
-
-📺 TheAIGRID
-
-👁️ 143K • 👍 2K • 💬 287 • ⏱️ 30:24 • 2d ago
-
----
-
 **[California SUES OpenAI after hundreds of AI agents go ROGUE](https://www.youtube.com/watch?v=hMsMkBQRFmo)**
 
 Fox News senior correspondent Claudia Cowan reports on California's lawsuit against OpenAI after hundreds of autonomous AI ...
 
 📺 Fox News Clips
 
-👁️ 253K • 👍 1K • 💬 730 • ⏱️ 2:09 • 1d ago
+👁️ 285K • 👍 1K • 💬 781 • ⏱️ 2:09 • 1d ago
 
 ---
 
-**[How to Build a 1-Person Business with AI Agents](https://www.youtube.com/watch?v=YD8uRumP8cM)**
+**[OpenAI’s New AI Just Crossed the Self-Improvement Threshold…](https://www.youtube.com/watch?v=1oIzVB5Ues4)**
 
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/ai-operating-system-lf-755 Join the waitlist for ...
+OpenAI says GPT-6.2 Astra is its first publicly released model to hit “High” in AI self-improvement. I break down what Astra actually ...
 
-📺 Dan Martell
+📺 AI Copium
 
-👁️ 46K • 👍 1K • 💬 56 • ⏱️ 31:01 • 9h ago
+👁️ 40K • 👍 348 • 💬 89 • ⏱️ 9:22 • 15h ago
+
+---
+
+**[Insane AI Breakthroughs Nobody Is Talking About](https://www.youtube.com/watch?v=-oA6oLxWpJg)**
+
+12 AI breakthroughs you probably missed, from incredibly human AI voices to a walking robot powered by an old phone.
+
+📺 Matt Wolfe
+
+👁️ 76K • 👍 1K • 💬 93 • ⏱️ 29:25 • 8h ago
 
 ---
 
@@ -333,27 +311,7 @@ For the first time, bots sent more traffic to web pages than people did. Cloudfl
 
 📺 Ink Intelligence
 
-👁️ 412K • 👍 5K • 💬 246 • ⏱️ 15:47 • 2d ago
-
----
-
-**[FBI warns hackers are allegedly using AI to target businesses](https://www.youtube.com/watch?v=JHcQWzkAhbc)**
-
-Fox News justice correspondent David Spunt and tech journalist Kurt Knutsson join 'America Reports' to examine the FBI's ...
-
-📺 Fox News
-
-👁️ 135K • 👍 891 • 💬 592 • ⏱️ 8:13 • 1d ago
-
----
-
-**[Elon Musk joins Trump as US-China AI battle HEATS UP](https://www.youtube.com/watch?v=VV3IhP5rNgE)**
-
-Fox News senior correspondent Benjamin Hall discusses President Donald Trump's Asia trip, a possible meeting with Kim Jong ...
-
-📺 Fox News
-
-👁️ 227K • 👍 1K • 💬 736 • ⏱️ 4:08 • 1d ago
+👁️ 448K • 👍 5K • 💬 259 • ⏱️ 15:47 • 2d ago
 
 ---
 
@@ -363,17 +321,57 @@ Are we moving too fast with AI? Nate Soares thinks so. He joins Carlo Versano to
 
 📺 Newsweek
 
-👁️ 38K • 👍 386 • 💬 178 • ⏱️ 1:01:11 • 1d ago
+👁️ 43K • 👍 433 • 💬 232 • ⏱️ 1:01:11 • 1d ago
 
 ---
 
-**[Tech CEO: ‘Most people don’t want AI’ | Jon Von Tetzchner](https://www.youtube.com/watch?v=XDsNVIUQWiw)**
+**[I Tested AI Slop In Real Life](https://www.youtube.com/watch?v=aMdqOvT_AJw)**
 
-Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi Jon Von Tetzchner joins The Tech Report's Isaac ...
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha.
 
-📺 The Tech Report
+📺 Sambucha
 
-👁️ 223K • 👍 3K • 💬 755 • ⏱️ 33:40 • 1d ago
+👁️ 89K • 👍 5K • 💬 129 • ⏱️ 0:59 • 12h ago
+
+---
+
+**[The AI Takeover Has Completely BACKFIRED](https://www.youtube.com/watch?v=OXwwYvoW9H4)**
+
+Replacing Humans With AI Has Been A Total DISASTER. The AI takeover is beginning to backfire during a period defined by ...
+
+📺 Damon Cassidy
+
+👁️ 449K • 👍 11K • 💬 2K • ⏱️ 22:33 • 1d ago
+
+---
+
+**[실직이면 차라리 다행?” 노벨상 경제학자가 경고한 AI 시대의 진짜 재앙](https://www.youtube.com/watch?v=sWJuXdeJB4Q)**
+
+AI가 당신의 일자리를 대체한다면, 그다음엔 무슨 일이 벌어질까요? 전문가들은 단순히 '실업률 증가'를 넘어 자본주의 시스템 자체의 ...
+
+📺 원빅월드쇼 | One Big World Show | 1BWS
+
+👁️ 940K • 👍 8K • 💬 977 • ⏱️ 17:26 • 2d ago
+
+---
+
+**[Autonomous AI Attacks Are Here &amp; America Doesn’t Want to Admit It](https://www.youtube.com/watch?v=gLEcm15gbSM)**
+
+The FBI and Google both revealed that autonomous AI attacks are a real thing and it's not going to get better. But officially, other ...
+
+📺 DeFranco News Clips
+
+👁️ 1.0M • 👍 49K • 💬 2K • ⏱️ 1:04 • 1d ago
+
+---
+
+**[AI Hackers Are Coming for EVERYTHING](https://www.youtube.com/watch?v=xyQfFSTTjA0)**
+
+Subscribe to our Newsletter https://financebureau.com/ ~~~~~ AI is exposing security holes in the internet faster than humans ...
+
+📺 Finance Bureau
+
+👁️ 133K • 👍 1K • 💬 142 • ⏱️ 16:37 • 1d ago
 
 ---
 
@@ -387,37 +385,7 @@ Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi J
 
 `audio-to-audio` `5.3B`
 
-⬇️ 5,314 • ❤️ 670 • 5d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-`image-to-video`
-
-⬇️ 2,871,190 • ❤️ 12,556 • 1mo ago
-
----
-
-**[Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)**
-
-*harness-hub*
-
-`image-text-to-text`
-
-⬇️ 377 • ❤️ 398 • 7h ago
-
----
-
-**[Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small)**
-
-*Thinking Machines Lab*
-
-`image-text-to-text` `594.1B`
-
-⬇️ 30,082 • ❤️ 492 • 1d ago
+⬇️ 5,314 • ❤️ 931 • 6d ago
 
 ---
 
@@ -427,7 +395,7 @@ Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi J
 
 `text-to-image`
 
-⬇️ 759,661 • ❤️ 1,578 • 2d ago
+⬇️ 759,661 • ❤️ 1,597 • 2d ago
 
 ---
 
@@ -437,7 +405,7 @@ Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi J
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,888,351 • ❤️ 20,557 • 11d ago
+⬇️ 6,888,351 • ❤️ 20,580 • 12d ago
 
 ---
 
@@ -447,7 +415,17 @@ Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi J
 
 `image-text-to-text` `220.3B`
 
-⬇️ 159 • ❤️ 233 • 19h ago
+⬇️ 159 • ❤️ 257 • 1d ago
+
+---
+
+**[Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)**
+
+*harness-hub*
+
+`image-text-to-text`
+
+⬇️ 377 • ❤️ 624 • 14h ago
 
 ---
 
@@ -457,7 +435,7 @@ Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi J
 
 `text-to-speech`
 
-⬇️ 4,430 • ❤️ 288 • 10h ago
+⬇️ 4,430 • ❤️ 299 • 17h ago
 
 ---
 
@@ -467,7 +445,7 @@ Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi J
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 207 • 18h ago
+⬇️ 0 • ❤️ 230 • 1d ago
 
 ---
 
@@ -475,7 +453,27 @@ Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi J
 
 *LongCat*
 
-⬇️ 1,226 • ❤️ 259 • 5d ago
+⬇️ 1,226 • ❤️ 275 • 5d ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+`image-to-video`
+
+⬇️ 2,871,190 • ❤️ 12,627 • 1mo ago
+
+---
+
+**[Maxwell-V1-Flash](https://huggingface.co/maxwell-model/Maxwell-V1-Flash)**
+
+*maxwell-model*
+
+`text-generation` `36.8B`
+
+⬇️ 1,052 • ❤️ 239 • 5d ago
 
 ---
 
@@ -489,7 +487,7 @@ Most people don't want AI, they don't want to see it.” Co-founder of Vivaldi J
 
 PaperOrchestra is a multi-agent framework that converts unstructured research materials into complete LaTeX manuscripts with literature synthesis and visual elements, outperforming existing autonomous writing systems in human evaluations.
 
-▲ 8 • 💬 0 • ⭐ 4,063 • 7mo ago
+▲ 8 • 💬 0 • ⭐ 4,521 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05018) • [💻 code](https://github.com/google-research/paper-orchestra) • [🔗 project](https://yiwen-song.github.io/paper_orchestra/)
 
@@ -503,7 +501,7 @@ PaperOrchestra is a multi-agent framework that converts unstructured research ma
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 18 • 💬 2 • ⭐ 7,635 • 1mo ago
+▲ 18 • 💬 2 • ⭐ 7,686 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
 
@@ -517,7 +515,7 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 This unified foundation model enables the recovery of dense geometry, camera poses, and object tracking from diverse, uncalibrated observations in 4D scenes using a shared geometry and motion branch architecture.
 
-▲ 13 • 💬 1 • ⭐ 159 • 2d ago
+▲ 13 • 💬 2 • ⭐ 230 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.23144) • [💻 code](https://github.com/yyfz/Pi4) • [🔗 project](https://yyfz.github.io/pi4)
 
@@ -531,7 +529,7 @@ This unified foundation model enables the recovery of dense geometry, camera pos
 
 Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
 
-▲ 34 • 💬 9 • ⭐ 12,013 • 2mo ago
+▲ 34 • 💬 9 • ⭐ 12,041 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
@@ -543,7 +541,7 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 
 Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.
 
-▲ 130 • 💬 4 • ⭐ 701 • 6d ago
+▲ 132 • 💬 4 • ⭐ 734 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.18397) • [💻 code](https://github.com/RainBowLuoCS/Gamer) • [🔗 project](https://mihoyo-gamer.github.io/)
 
@@ -569,9 +567,21 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 69 • 💬 4 • ⭐ 24,387 • 1mo ago
+▲ 69 • 💬 4 • ⭐ 24,412 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
+
+---
+
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 18 • 💬 0 • ⭐ 42,020 • 21mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -585,18 +595,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 77 • 💬 1 • ⭐ 86,094 • 38mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 18 • 💬 0 • ⭐ 41,877 • 21mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -623,7 +621,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 18.3k • 🔱 1.1k • 3d ago
+⭐ 18.4k • 🔱 1.1k • 4d ago
 
 ---
 
@@ -633,7 +631,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 10.7k • 🔱 1.6k • 16h ago
+⭐ 10.8k • 🔱 1.6k • 4h ago
 
 ---
 
@@ -643,7 +641,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 9.1k • 🔱 2.1k • 5h ago
+⭐ 9.1k • 🔱 2.1k • 2h ago
 
 ---
 
@@ -653,7 +651,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 8.3k • 🔱 720 • 6h ago
+⭐ 8.4k • 🔱 720 • 5h ago
 
 ---
 
@@ -663,7 +661,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `TypeScript` `ai-art` `chinese` `cloudflare-pages` `gallery` `i18n`
 
-⭐ 7.3k • 🔱 1.8k • 13h ago
+⭐ 7.3k • 🔱 1.9k • 20h ago
 
 ---
 
@@ -673,7 +671,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `TypeScript` `adversarial-ai` `ai-security` `android-security` `binary-protection` `claude-code`
 
-⭐ 6.1k • 🔱 767 • 5h ago
+⭐ 6.2k • 🔱 770 • 7m ago
 
 ---
 
@@ -683,7 +681,7 @@ A library of behaviors for agents to build the next generation of user interface
 
 `TypeScript` `accessibility` `agent` `agents` `ai` `aria`
 
-⭐ 5.9k • 🔱 200 • 3h ago
+⭐ 5.9k • 🔱 201 • 1h ago
 
 ---
 
@@ -693,7 +691,7 @@ Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI
 
 `Rust` `ai-agents` `appkit` `coding-agents` `cross-platform` `css`
 
-⭐ 4.7k • 🔱 128 • 6m ago
+⭐ 4.7k • 🔱 129 • 8m ago
 
 ---
 
@@ -703,7 +701,7 @@ Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI
 
 `Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
 
-⭐ 4.6k • 🔱 109 • 16h ago
+⭐ 4.7k • 🔱 110 • 22h ago
 
 ---
 
@@ -713,7 +711,7 @@ Skills for AI coding agents.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 248 • 13d ago
+⭐ 3.8k • 🔱 249 • 14d ago
 
 ---
 
