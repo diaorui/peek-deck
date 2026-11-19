@@ -5,24 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "HSBC Launches Ethereum-Based Money Market Fund",
+      "headline": "Is Ethereum a Buy Right Now?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTBfRmNScE1oVlJZN1hyUjkyMldkYlJ5LUtONVJKOTZtRWs5TkZOY1ZoSlNDbS1iQnU3ckxKNG9SbHRoTzBqRzEyUXZLMm9QYVh3bThzZnVmaW85MzlsTmdua0ladkVuLXBvbFVvOElfNEIwQWh1dEFWdWllR3BOUFBtYXB3Z0FMb3RrTV9ZSzV1MGVHRWMycDQtcjN4UWxY?oc=5",
-      "pub_date": 1795099260.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/hsbc-launches-ethereum-based-money-144100926.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/06ad78dce96ecf6c603995856f653a2e976b468bf734a4c56bea06ff594d6d29/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F5827aa6b551e40ddf5c68d4b2b1e3d2a.jpg",
-      "description": "British bank HSBC (NYSE: $HSBC) has launched an Ethereum-based (CRYPTO: $ETH) money market fund in Hong Kong. ..."
-    },
-    {
-      "headline": "Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJGWjFSRnhqNjhOZTBfQVBLRmFFOWFMYVNLUVRNejcwam1GUmFqUVZvTU8wVTZtM2EybUtDcUhNbkJfRFRBR0g4WW1MRWczN0ItOGpuNE1nRU9FNVhtcTF5QnVYb1BTdmZMTFFEdjZNOFdtY1F5dkk1UVpUSW1IYnVqbTNqVkdBV1VLN2V3TGlzQjFsclR6WFRtY2dWNXlucG9OYjd3Rm5CR2lLUFNrQlNUVkVQbFNkZHBDeGtzaEVsaHdiZG5VX2h3ZUh0RGV3?oc=5",
-      "pub_date": 1795086002.0,
-      "article_url": null,
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZGVEZsR0NoOHFLd3pKQWtyYlpMZ1pPU1R5MEliYURQakR3cHE0ajlDN0JPWURHTW5EeUFVelVlTnZ2MFp0bXdWeFpWN3dBYmxTUVpIdmFsb0VIS0xKNlFpZ05KMXNFQy05T1lqTWpJcFc4ckdsdXlqbE90Z0NNY042WXlIdjlf?oc=5",
+      "pub_date": 1795080002.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-buy-now-092002116.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fa98bb965b7555aceaeae37b77126a448392b36f19c0da40289a36a3c35ee1e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa56f0cd7c1c9a0b0510f5b1c9b22ce8c.jpg",
+      "description": "Ethereum may be down 64% from its 2025 highs, but a turnaround could be right around the corner."
     },
     {
       "headline": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
@@ -31,6 +21,26 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcVg4SHRzNFBGSVlldndQYzdlR0U5cGdnOWgtQmJrRGRpUVVnS1F2ODRkNWNieUVXTDdqMFR4akFwdjA2NV84dzJqelJhbGtIQmIzMnh0ak5iRTd6NTBQRC05NldNZUlRUXItelFCS1pXVTlmT05wdHpiZ0ltR0tUNFI4WjJzckRZMjFyR3Ytb2thMnQ3WXdsaExMMFNMR05KNEZCU0MyZ3lPN20wVUVPdHNQUUx3bVBEQXRITXZSLWRuUGJfamZaaA?oc=5",
       "pub_date": 1794992361.0,
       "article_url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJGWjFSRnhqNjhOZTBfQVBLRmFFOWFMYVNLUVRNejcwam1GUmFqUVZvTU8wVTZtM2EybUtDcUhNbkJfRFRBR0g4WW1MRWczN0ItOGpuNE1nRU9FNVhtcTF5QnVYb1BTdmZMTFFEdjZNOFdtY1F5dkk1UVpUSW1IYnVqbTNqVkdBV1VLN2V3TGlzQjFsclR6WFRtY2dWNXlucG9OYjd3Rm5CR2lLUFNrQlNUVkVQbFNkZHBDeGtzaEVsaHdiZG5VX2h3ZUh0RGV3?oc=5",
+      "pub_date": 1795086002.0,
+      "article_url": "https://www.fool.com/investing/2026/11/19/not-bitcoin-not-ethereum-this-could-be-the-best-cryptocurrency-to-hold-over-the-next-5-years/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa3f885889017d89ccb5e9170d65a7cc17a70d7da-2121x1414.jpg&w=1200&op=resize",
+      "description": "This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close."
+    },
+    {
+      "headline": "What's next Bitcoin, Ethereum and XRP rise?",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2lzbXlnd2x0NTV1RjFrOU5QQWd6WnBqU0lGUDFfRE5nT2V6NTRCSmNIb0xEQ2I5TEdCUzQwN21wY3ctc2dJT0dQMDlKQXpFX3RNZ1ZhWWdJWjlBU25MV3pnemQ3MHJCLUhCZVlqeWw4WWhKS2NyMnVwNjU4RlNpTE02eDhVSy0zdFVkQ1FOOXc4V1VEX3pwYnlhREJkaFVVNFF4X01CVVJaSmNpeldVal9ucXVCQ1gwZVNv?oc=5",
+      "pub_date": 1795087530.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rise-etf-capital-outflows-202611191125",
       "image": null,
       "description": null
     },
@@ -49,7 +59,7 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00bTBpaGNFbmZfSHM2RVlDQXJ6SnBMc2RDMVJYNFJBUnlTRFRHSjlqQjV1bURNb2tuZF9lRlBOTnVwQUhodzNjaEtKdTRIQW5IY2N3WHFPU1dYOEY4aWdnQ2ZrM1hmZHNi?oc=5",
-      "pub_date": 1795089695.0,
+      "pub_date": 1795091495.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-11-19-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-19.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -75,36 +85,26 @@
       "description": "london, United Kingdom, 19th November 2026, Chainwire"
     },
     {
-      "headline": "Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3dPM2FHMUJYMmZac2wydEJiRVd3c3JRbUFScVFHajdza2VkMThGN3BQbV9uMW1nUHpwUmpNLUtGbnZBZ3JGQTNLUlVDZVFwVjE3V0JybnVtYVExcEVsMkRsMWFlT3dUZEc4RnhJc0x0clFKdlNYTXN3VEVOX0JxSw?oc=5",
-      "pub_date": 1795092479.0,
-      "article_url": "https://www.ccn.com/news/crypto/bitcoin-ethereum-solana-open-interest-drop/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC consolidates, ETH and XRP stall",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3hBTDR5UVhEYkE0M3VMTDJlakJicW5zQ0ttX0tLQ2VHME1yczd3N2hCM2RtdUphUFEwUGxLSm10a3VELXhuVkZpZVlNaFM2Tm9MU2tYNXpCZ2NfNGh3NWNBLUhmZkxTYUw2RE1UMHgxTFFyWkNJbEJzWVNUejBHT2JFSHBGcjJGNEVZcnU1OG0zQm0yUmJiallqNVJXQU44Tlp2SVNueUhDZHB2YVNTTkJmUk5EdjBpalMxckUwRTlvdXlsMGVFUXNrQndkX3p2dFd1T0JsdUo?oc=5",
-      "pub_date": 1794970576.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Invesco's Stablecoin Reserve Fund Goes Live on Ethereum",
+      "headline": "Gonka Bridge Exploit Drains Stablecoins, Mints WGNK",
       "source": "The Defiant",
       "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPay1fb2FSUWU0S0NuTWJoN19pR3VZNG5ld2h3WEtMLWpObGg2QUJmcG5PYUpLRm12YXM3SGgzeEFGWVFWNUszcVZEUnBvLXNaOEViNDFZWG5ZTVhhc0xZd1hCZlBMUWhwcEZ6Qm14d3RVVUxlaENkbzNCMGVhdTFTUFRWSWFhR3pRUzVfcWVUNEZqRnVqdU1JWjJ4d3E1RFZjTTVyUEVsbDU?oc=5",
-      "pub_date": 1794878466.0,
-      "article_url": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-s-stablecoin-reserve-fund-goes-live-on-ethereum",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaklGWEV1TGhMbFR3ZFB0aEZ5bElweHZHWHA5aE5vZTRueG1vQmhlWWFZQk1vUm5wUnVkQVZaeXlnclhfd3hkNTctU3p2VmdWNUgtV0RoRjlrcEZBMGE3NlZHWnVBVTNfczd1QTZJOGtmbTlQSk9RX0s2X3dZYjN6Nzl3TnQxZVhXOUlN?oc=5",
+      "pub_date": 1795040943.0,
+      "article_url": "https://thedefiant.io/news/hacks/gonka-bridge-exploit-drains-stablecoins-mints-wgnk",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Why Ethereum faces a liquidity test as Binance reserves drop to annual lows",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVdxc3RuZXhXRUE1TUtDM2huNnNVTWc1T2JjeW5ITzNvTkU2RDBaWTl6b1lyc3BFRGxFZDJQendyVHdyVVNQLXlZQkJHa3d2S2tuLVpWbTR6Ykx5WVlsVldjTjJWZFdwYWlvXzFsSU1XV0xYaURtYlBJUUlsYnNQVDFtcFVPNExmSTBPaUlOaDd1THFLTjFnTFE3aTY1NWM?oc=5",
+      "pub_date": 1795104034.0,
+      "article_url": "https://ambcrypto.com/why-ethereum-faces-a-liquidity-test-as-binance-reserves-drop-to-annual-lows/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/11/FI_METRIC_ETHEREUM_19-11-2026.webp",
+      "description": "The falling stablecoin and ETH reserve were a cautious combination."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-19T16:22:16.425852+00:00"
+  "fetched_at": "2026-11-19T23:09:35.469302+00:00"
 }

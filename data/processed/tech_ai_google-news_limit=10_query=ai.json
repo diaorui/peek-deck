@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+      "headline": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUlCck41bVlFamthWGZnMXNTRG8wSm1KejZibkVvRHk1RWhpRHlMRENjTUVVZXZ1M2ZLdUkzZ3BnczZDY0JRU0t0d1J4LWZ5NndLNDdQX1BmNE1iblFHQkFpSDZlWmpTUVBOZ0t4NVZfYzh2dTduZFBvV1VibTlwNVZaaWg2QVc0MjUtMWpDNXd6OVRuNkg1QnJjSzg0WWFDQnlz0gGoAUFVX3lxTE0yc1BGd2w2T3FZY0owLXVKc1dNdTVCaDFTOGZxeDhuV2RzN0lsZjFBTDN6NThodlZEU2pMcHZZenktUzRLVFVPeDJjRmQyS3dOSy1PTkkwM2xaNVBXSlpGNUN4U0ZOUl85dVUxLXZwWVBDMFBtSE1YOGtwR3dIOENxUDVhRFZTNkJNQjFVUHhsTjh3dC1FZnNsQTR3QTBfd2ZZYVlrenQwRg?oc=5",
+      "pub_date": 1795096801.0,
+      "article_url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108469373-1793113062661-gettyimages-2301777659-boivin-photoill261027_np36o.jpeg?v=1793113123&w=1920&h=1080",
+      "description": "The Anthropic IPO and a flood of AI wealth are spurring the creation of new family offices built for the era of artificial intelligence."
+    },
+    {
+      "headline": "Anthropic becomes most valuable AI firm in first-of-its kind IPO",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zckUxSEg1ZjlDTjU5cUN3cW5Sd1NqaktmSm84eU4ybDRrSHNKbU42SEI0dUZVZmEyVXlVOWVFSGJXMzhCTkRhTHZLME16UEhmbHNkWHVoUEF6U0E?oc=5",
+      "pub_date": 1795124322.0,
+      "article_url": "https://www.bbc.com/news/articles/c3x29ggenz12o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+    },
+    {
+      "headline": "Anthropic IPO Live Updates: Company Value Surges in Stock Market Debut",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQ3JieUUxQkdyelMxelhaUUdmaTFlSTFva2pnR2FHY08wbXdmT01JVk56aUVHRGtQRUFhc1J2SFR0cEp4THBGc3M3aGhlalE3MUlEb3dQbElfREZhYlVjemROWDRVRm51QXVIakZKM2pmZi03by1hUi1FN04?oc=5",
-      "pub_date": 1795021999.0,
-      "article_url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bTR3Zzh2OENUSmxiYWhGSmF6QWh2Q2Jsbm5KZldsY0pEQUkteVNqVTFwSWVreVVwcEZ2bDdjbTRyeXNDNmRVMXF6NDNqckxnMHAyay05Ukh4enRNdG1jOXJoQVF5b01iWG10cWFFOHBsVWlWbVE?oc=5",
+      "pub_date": 1795128317.0,
+      "article_url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai",
       "image": null,
       "description": null
     },
     {
-      "headline": "\u2018Just Ridiculous\u2019: A Famed Philosopher Takes on AI Consciousness",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXR4S2FnZTV2WE8tTVdSY1BKSDlBOHpvWU96UjJwRzktVXZpTUxLcUQyN0h1UGFqWTM3TnpveHZnbHR6V1Q5NmJOOEplUlRUOVNkbUZseG9WNUE1YmN1LVZUTmRydGl6SFhpSFlzTW1vSTRSZmdpbUNpWFRQTXhHM1VORTluek9rVEcza1NpVnhqU1A3?oc=5",
-      "pub_date": 1795014120.0,
-      "article_url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/191:100/w_1280,c_limit/Thomas-Nagel-QandA-Business.jpg",
-      "description": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI."
-    },
-    {
-      "headline": "Introducing Gemini 4 Neon",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJ2dmlaaUw0Vm9IWnV2N3JiaXg4a3BNcVVqZjEtNnlVTnExYzk0d2tzcEZ4SGhqY1MyQ0c5LVpYN2ZKdGJ6d1FTMmhWZ0J0VVJkcGhqOHk1eHB1SFA3M3NLNEdRZEhhbnNzekhRb2E1RnRVSjJFQmNRWC05ckI1NjlybWpvVzJUeWdwaURROFhOcmoySS03UllmRWJJMUk?oc=5",
-      "pub_date": 1795037721.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
-      "description": "Today, we\u2019re introducing Gemini 4 Neon"
-    },
-    {
-      "headline": "Visa Is Building Agentic Commerce. But Will Amazon Let AI Agents Shop?",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1NoVk5haG1jbkZQc0p5eklTTldTRnBaNno4NjdNTnpybWZEVTdMSGYwdzRpQjc0bDk0WEw5X3hIenNZV0tvX2Y5enhPTjdTNmJuVDZMQmktOFkybWRtRE4xamZjM2pma04zcEtBMHdFLTZJeUoySEtTOTNtdko2dFJfMF9CNXg1S00weU9DQXFBb2JoU0EwdnZRQzdLcVROc1BsWXJrNnR2VXVXakgwNDEtRFBGUng3ci15ck4wTQ?oc=5",
-      "pub_date": 1795102972.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop/",
+      "headline": "Google Leaned Into A.I., Hurting Its Core Business",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RUS1XdHlhUUVrZ2VTMWN5VGVEeFRqaEt4TU9VU1NoQ1BobjZtdW1Fc3M4ell2X1Zuc3N2cjAwWndlMXpReWQ2amVZdlVuQ3doZFNLR1RjS3BacmtzQXUtNGdiM2tFR1hpdXBpLVlCYTRIbVI0b3lVbHhzWQ?oc=5",
+      "pub_date": 1795082515.0,
+      "article_url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "\u2018Anyone forecasting 2027 is forecasting data centers\u2019: The Fed is about to hike into an AI boom it can\u2019t cool, and Main Street gets the bill",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW0tVzQxXzlMSW5fdDEtdFIwNzh2Qlctak1jZDJRVDVZdGZVbWUzX3FFdWpvRjd2MFE1Tjdld0xGUTlfUkpHU2VJU1RtYThnMTVsRkpobU12TW5DUE9qbmpHbjNYZEEta01kYS1Sc25UR0Q1R2VIZmRERnJHTTE4LUpQYlZyWG8xbVdNcmxOTmUxSlg4Uy1ULQ?oc=5",
-      "pub_date": 1795103040.0,
-      "article_url": "https://fortune.com/2026/11/19/fed-minutes-ai-inflation-data-centers-midterms-2027-rate-hike/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304953963-e1795097687874.jpg?resize=1200,600",
-      "description": "Voters rejected data centers, giving the Fed a problem: \"AI is the number one source of growth for the U.S. economy.\""
-    },
-    {
-      "headline": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSF91bW51a2g2SHNIZjBOd0lXSDEzNUtKRVBHNDFGSnZCNjlQWGpBbmZOTkJTcVliamhleExMaWJla1E0dWdMTTBLRmI5Q0NSSmZkU2RVMzlwYmpVd1FNT0ItTnJWbUY0alM2bnlaUVBxUUx5a214ZE44WjZhYkl0UGQ3ZXhGNHhIclFTelphMzJSc2Q5eFRaSkdKX3g?oc=5",
-      "pub_date": 1795045980.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
-      "image": "https://i.guim.co.uk/img/media/55b30b78210b9de9b6079a003a575537c1f083f7/340_0_2178_1744/master/2178.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b3412ac22548202a97007078ed027aa",
-      "description": "Football players say they are \u2018traumatized\u2019 after being handcuffed and detained by police while waiting for rides home"
-    },
-    {
-      "headline": "Opinion | Look where the world\u2019s most elite AI talent is going",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUl6LVdmbFEwNno3d1k1NHQ3ZlpMXzNzUGxzemwzTGc5Z3JIVjVtMllNbGdrZEtYdTdpdzBxV3RhUlFBLTdJdkpWTC0zZ0hCcFdWVERxd3hSRkw0WUtIZGcxOERYZV94T1FNVUhDOUdwVnVtenEwRFlMSl8wWkxWdGlGV2pKOG9aVDlHRF9VYjFsUV9UOXVrOGMteFBjZThFM1BHYS1FTDY?oc=5",
-      "pub_date": 1795033800.0,
-      "article_url": "https://www.washingtonpost.com/opinions/interactive/2026/11/18/us-needs-keep-door-open-chinese-ai-talent/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EVEGZTH6UFHTJNN3SSOTVNRBNA.jpg&w=1200",
-      "description": "China has a deep bench. Can America still beat it?"
-    },
-    {
-      "headline": "AI is swallowing maths. Is economics next?",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVUtbkVFNUxQZ0pMcVIwVjAwYXhKTW9GOXBfcVdHdVFxSEItd3BGUWdpSm5XbEtUVWdycFdMOEJoZEh1MXpJS3hPUkhXdkN1dm5vZU5ObFdpTTZCRnRENjNFa0JuXzkzNzIwanN3cG50RkwwSXllNVFJM0tkZGJwSkZLRWY5NmpBeHFBbEcxN1BGbDFXN1FuMTYxNE54ZmxL?oc=5",
-      "pub_date": 1795082485.0,
-      "article_url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+      "headline": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZTcW1oQlltWWRFUy1hUzY4ODVqZXFKcl9McGNhUDZqam90WE9YQ3RqclV1czZJOVdKZURXeUxpTkRVM2FONklyQ2ZiS215WTBLTE14RFVZOWY1cnZUQTR5cDVNRlJ3bTVrWkJ5aGdxMG83NURiTjk1V0NLclhVM1NFcWctSVA0bUhad2dMYjg0czFSTk1KVUQyZXZTUQ?oc=5",
+      "pub_date": 1795044186.0,
+      "article_url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Can AI Really Engineer Its Way to Superintelligence?",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11VmFUVjZreXdSdVZjZnRmeTA5OWNJeENIVzlqY2hYdFcwTjNZRVZPbkNSSXpRTHJwWUl0bnkxVkg4LW85U0F6cG9FcmtWLUR1U2xSdy10eTdFSzJSYkpzQ0Rodw?oc=5",
-      "pub_date": 1794988800.0,
-      "article_url": "https://spectrum.ieee.org/ai-superintelligence-debate",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=68699683&width=1200&height=600&coordinates=0%2C205%2C0%2C205",
-      "description": "Yet trying for it may still be disastrous"
+      "headline": "NYC schools weigh alternatives to Google search amid AI dispute",
+      "source": "ABC7 New York",
+      "source_url": "https://abc7ny.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3J5ejZuQ3lVa0pmdWpoV01hdWcxNWZZRWN5enRfMHIxT1BEZlNVME14blpyU0V2Zy1jUURYamZybXZ3OTc4WllYaUNmQ3JOLTdwbXFNTWhDZGdJNFFucnFsX2kzek5LNW1VcmZ2TkdKNG40Y0QxU09hUWc3XzV1OHA4RkpXMEtSN0ptOTJFU2hnWi05N20yc2hn0gGfAUFVX3lxTE5fWlp0eDV2d3h0a2M1QV9NVkhiR2VqcUJzcTlVdHNlQmg2ZkEwTXNHQXhmaUJVV3RqSzFYLWF4R2JlTUZHQUxYX05lVFNibDNGdEg3NWN4TkxSN25BV3lkUDlZZzFWM3ZDWVBoRjVqVUFxV3UwZ2NWVUo5Q0RUdkd6NWd6WFJORWVmZDctYjU2MURvQWNwTUZHcVREUXZ4OA?oc=5",
+      "pub_date": 1795125064.0,
+      "article_url": "https://abc7ny.com/post/nyc-schools-weigh-alternatives-google-search-amid-ai-dispute/20056140/",
+      "image": "https://cdn.abcotvs.com/dip/images/20056612_111926-schools-google-ai.jpg?w=1600",
+      "description": "The concern, according to school leaders, is that AI-generated answers and chatbots could undermine students' critical thinking and interfere with the learning process."
     },
     {
-      "headline": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWVzWkxaaHhSMm1vcFVPSTJ0cUVOQ0pDMmp6ZjVodEJwTjg5Zzl4MXc4XzBMM0VqZ0ViUkd0ZjZJZlRUTjZaSjdmYmVtMzZaNlpWcFhBdV83OElxTUFUQkRkUDdXN3ZhangzOGdXNjh2S3g1bFRhMTROSzZvY2hxVW8tUDhHRGIwNjBXR253Nnd3bmMyM0NuVmJwNnZwN2VrT2liN3BueWpaQQ?oc=5",
-      "pub_date": 1795048976.0,
-      "article_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800",
-      "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
+      "headline": "Tech outages are a \"taste\" what AI cyberattacks could look like, defense CEO says",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnIxQmJta0tkMURFekJHVnF4SVJiUjNRZ3Z5b25jLTZuYzFjM1owWjdwcHRpSGZDd3NzMVl5UUdheWNSTkI2MkhmWlVjUEt6OTZQSDR3NEFLM0dXN2lrU3VoLVZZaGlkNkJ4aFI3SnVpZXVPWTQxZWxhU2ZnRnVDX3NoNWh6aXhBdmdtNVB3?oc=5",
+      "pub_date": 1795126075.0,
+      "article_url": "https://www.axios.com/2026/11/19/twenty-future-of-defense-axios-cyber-threats-joe-lin",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+      "pub_date": 1795124240.0,
+      "article_url": "https://www.reuters.com/world/license-information-ai-chips-sent-china-released-by-us-house-committee-2026-11-19/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+      "pub_date": 1795118141.0,
+      "article_url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&w=1920&h=1080",
+      "description": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China."
+    },
+    {
+      "headline": "US Approved AI Chip Sales to China\u2019s Tencent, Alibaba, Data Show",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHBwaTNEcUhVcC1PcUJxbFdYVVgwMl8ybHJCWExQOC1iSVBQQUt4dzRwVWRJQUFCQ3BheTFwVzlVS1VXWTF2RUFZd2JqbXlVcnh6VHEwX2l2NVpzdFBOLVdISDBwbm1LdzNMalQ1NkdYZWowYVhjQmQzcW4xcnBTRl9mUUJEUHFVTV92dEtielJjWW9fQnltZElRaEtKM1ZVcG0ySC1iWU9sVHc5ekhmdlF5TQ?oc=5",
+      "pub_date": 1795126914.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-19/us-approved-ai-chip-sales-to-china-s-tencent-alibaba-data-show",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-19T16:22:13.622864+00:00"
+  "fetched_at": "2026-11-19T23:09:43.725536+00:00"
 }
