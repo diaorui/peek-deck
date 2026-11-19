@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-19T06:48:55.116560+00:00'
+updated: '2026-11-19T16:22:27.532738+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 19, 2026 at 06:48 UTC  
+**Last Updated:** November 19, 2026 at 16:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,535.64
+### $63,156.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -7.0%  
-**30d:** -24.4%  
-**90d:** -17.6%  
-**1y:** -27.0%  
+**24h:** -0.0%  
+**7d:** -7.6%  
+**30d:** -24.9%  
+**90d:** -18.1%  
+**1y:** -27.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1277.01B
+**Market Cap:** $1269.26B
 Rank #1
 
 **Circulating Supply:** 20,113,584 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--49.6%
+-49.9%
 
 **All-Time Low:** $67.81
-+93526.3%
++92961.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hit my goal of a quarter of a bitcoin, feels good
 
-3d ago
+4d ago
 
 ---
 
@@ -89,7 +89,7 @@ Hit my goal of a quarter of a bitcoin, feels good
 
 We’re so back! /s
 
-3d ago
+4d ago
 
 ---
 
@@ -111,7 +111,7 @@ Congrats everyone.
 
 Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian reseller CryptoBilis contained unauthorized circuit boards designed to capture recovery phrases and transmit them through cellular networks. The affected purchases occurred between August 20 and September 23. Trezor released firmware 2.13.1 on November 11 to block the identified implant behavior. No affected customers had reported losing funds at the time of the disclosure. Hardware wallets are not automatically trustworthy if their physical supply chain is compromised. Firmware updates cannot undo recovery phrases already stolen.
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 3d ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 4d ago
 
 ---
 
@@ -157,51 +157,53 @@ What is going on with Bitcoin today?
 
 **[GTA 6 Is Winning Over Gamers: Can Take-Two Stock Beat Bitcoin Next?](https://www.benzinga.com/crypto/cryptocurrency/26/11/63405917/gta-6-is-winning-over-gamers-can-take-two-stock-beat-bitcoin-next)**
 
-Benzinga • 11h ago
+Benzinga • 21h ago
 
 ---
 
-**[Wells Fargo doubles down on bitcoin ETF, and Chase goes down, but bitcoin stays](https://finance.yahoo.com/video/wells-fargo-doubles-down-on-bitcoin-etf-and-chase-goes-down-but-bitcoin-stays-194904735.html)**
+**[Trump Media investors learn the Truth about betting on bitcoin](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1kOVhVUG1QN2VIcUxHd1E2bEttV203WmY0U1hXODZrdHFFRnlXWmtka1dLajFpbHUwTzl2SnZpQXlIbjlQcjRaaEZYcE02V0RxWkhtN01ZSTVDNnVRUkoyUGFRM25aLXFRT2daNkZGWm1SZDRvaEE2OER0aUlkdXZZbHA?oc=5)**
 
-Scott Melker discusses Wells Fargo doubling down on the BlackRock (BLK) bitcoin (BTC-USD) ETF, Chase (JPM) going down while crypto stayed up, and the Supreme Court rejecting a crypto bank's bid for Fed payment access.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Yahoo Finance • 1d ago
+Financial Times • 1d ago
 
 ---
 
-**[Goldman Sachs discloses over $1B in spot Bitcoin ETF holdings](https://www.tradingview.com/news/cryptobriefing:15cf7d58e094b:0-goldman-sachs-discloses-over-1b-in-spot-bitcoin-etf-holdings/)**
+**[Live updates: Bitcoin gives up early gains alongside soft action in stocks](https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech)**
 
-Goldman Sachs now holds more than $1 billion in Bitcoin exposure. The bank's spot Bitcoin ETF holdings reached approximately $1.283 billion as of September 30, 2026, according to its Form 13F filing with the SEC.That figure represents a 121% jump from around $580 million at the end of the second qu…
-
-TradingView • 11h ago
+CoinDesk • 30m ago
 
 ---
 
-**[Wells Fargo's bitcoin ETF holdings now rival Tesla and SpaceX's combined $2 billion](https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion)**
+**[Strategy Stock Lives and Dies by Bitcoin. The Crypto’s Slump Takes a Toll.](https://www.barrons.com/articles/strategy-stock-sell-bitcoin-d69e331b)**
 
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal](https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal)**
-
-CoinDesk • 2h ago
+Barron's • 1h ago
 
 ---
 
-**[US Pending Home Sales Hit a Record Low. Why That Could Help Bitcoin and Stocks](https://finance.yahoo.com/real-estate/articles/us-pending-home-sales-hit-055658725.html)**
+**[174-year-old American bank’s Bitcoin exposure nears Tesla and SpaceX](https://finance.yahoo.com/markets/crypto/articles/174-old-american-bank-bitcoin-153000935.html)**
 
-Pending home sales hit a record low in October. See what the peak-rates signal could mean for US stocks and Bitcoin.
+The bank’s fund holdings swell this year, putting its exposure within reach of two Musk companies combined.
 
 Yahoo Finance • 52m ago
 
 ---
 
-**[Trump Media investors learn the Truth about betting on bitcoin](https://www.ft.com/content/2c686fe5-0a39-45ad-a26e-87c1f813ec7d?syn-25a6b1a6=1)**
+**[Bitcoin Bounces Back Into Green Ahead of Anthropic IPO](https://www.bloomberg.com/news/articles/2026-11-19/bitcoin-bounces-back-into-green-ahead-of-anthropic-ipo)**
 
-Financial Times • 1d ago
+Bloomberg.com • 13m ago
+
+---
+
+**[Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.](https://www.fool.com/investing/2026/11/19/not-bitcoin-not-ethereum-this-could-be-the-best-cryptocurrency-to-hold-over-the-next-5-years/)**
+
+This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close.
+
+The Motley Fool • 5h ago
+
+---
+
+**[Bank Collapse In Paraguay Sparks Bitcoin Curiosity](https://www.forbes.com/sites/frankcorva/2026/11/19/bank-collapse-in-paraguay-sparks-bitcoin-curiosity/)**
+
+Forbes • 1h ago
 
 ---
 
@@ -209,19 +211,15 @@ Financial Times • 1d ago
 
 Bitcoin fell below $63,000 after Fed Governor Christopher Waller said the central bank may need to 'shock people' with a half-point rate hike in December.
 
-Bitbo • 11h ago
+Bitbo • 20h ago
 
 ---
 
-**[Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade](https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade)**
+**[Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers](https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547)**
 
-Bloomberg.com • 5h ago
+Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October.
 
----
-
-**[Worker hijacked 100 computers at Upstate NY Bitcoin mine, stole $53K, feds say](https://www.newyorkupstate.com/news/2026/11/worker-hijacked-100-computers-at-upstate-ny-bitcoin-mine-stole-53k-feds-say.html)**
-
-NewYorkUpstate.com • 16h ago
+The Block • 10h ago
 
 ---
 
@@ -233,7 +231,7 @@ NewYorkUpstate.com • 16h ago
 
 The alleged operator of defunct pirate streaming site Movie2K could walk out of a German court a free man, and still a bitcoin billionaire.
 
-⬆️ 7 • 💬 0 • 2d ago • [torrentfreak.com](https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/)
+⬆️ 7 • 💬 0 • 3d ago • [torrentfreak.com](https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/)
 
 ---
 
@@ -257,13 +255,13 @@ I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of 
 
 TimestampGit — OpenTimestamps and blockchain timestamp verification: how to prove code existed at a specific time. Automatically anchors Git commits to Bitcoin.
 
-⬆️ 1 • 💬 0 • 15h ago • [timestampgit.dev](https://timestampgit.dev)
+⬆️ 1 • 💬 0 • 1d ago • [timestampgit.dev](https://timestampgit.dev)
 
 ---
 
 **[What's New on Bitcoin](https://news.ycombinator.com/item?id=50532614)**
 
-⬆️ 1 • 💬 0 • 1d ago
+⬆️ 1 • 💬 0 • 2d ago
 
 ---
 
@@ -273,7 +271,7 @@ Why Bitcoin was NOT started by a 3-letter-agency.
 
 My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
-⬆️ 1 • 💬 0 • 2d ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2122329592002134065)
+⬆️ 1 • 💬 0 • 3d ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2122329592002134065)
 
 ---
 
@@ -285,13 +283,13 @@ My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
 **[Show HN: New In browser URL verification tool](https://news.ycombinator.com/item?id=50505178)**
 
-⬆️ 4 • 💬 2 • 3d ago
+⬆️ 4 • 💬 2 • 4d ago
 
 ---
 
-**[Strategy to Be Dropped from MSCI Indexes After New Eligibility Rules](https://news.ycombinator.com/item?id=50469437)**
+**[Ageing could be switched off by a new gene](https://news.ycombinator.com/item?id=50539381)**
 
-⬆️ 1 • 💬 0 • 6d ago • [wsj.com](https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4)
+⬆️ 1 • 💬 0 • 1d ago
 
 ---
 
@@ -299,7 +297,7 @@ My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
 Seven new marketplace listings each day. Can you guess the asking price?
 
-⬆️ 1 • 💬 0 • 1d ago • [askingprice.io](https://askingprice.io)
+⬆️ 1 • 💬 0 • 2d ago • [askingprice.io](https://askingprice.io)
 
 ---
 
@@ -313,47 +311,37 @@ Unlock 15% Deposit Bonus as a new user on on BTCC: ...
 
 📺 Altcoin Daily
 
-👁️ 74K • 👍 2K • 💬 85 • ⏱️ 10:02 • 1d ago
+👁️ 80K • 👍 2K • 💬 94 • ⏱️ 10:02 • 1d ago
 
 ---
 
-**[BlackRock’s Bitcoin Bet Is Just Getting Started](https://www.youtube.com/watch?v=g7ceecPoLY4)**
+**[CODE ORANGE: DID BANKS GO DARK TO BUY BITCOIN?!](https://www.youtube.com/watch?v=SagE10bsb0k)**
 
-Robbie Mitchnick is the Global Head of Digital Assets at BlackRock. In this conversation, we break down the lessons from IBIT's ...
+Bitcoin is holding while banks go down, Rustin says, and he breaks down what he calls a Code Orange, including the Fed's ...
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 20K • 👍 327 • 💬 12 • ⏱️ 26:55 • 8h ago
-
----
-
-**[Saifedean Ammous: AI Could Be “Massively Overvalued” as Bitcoin Starts “Its Own Run”](https://www.youtube.com/watch?v=QjI5_uWmFCI)**
-
-Saifedean Ammous, author of The Bitcoin Standard, joins BMTV to talk about the AI boom and where Bitcoin goes from here.
-
-📺 Bitcoin Magazine
-
-👁️ 7K • 👍 124 • 💬 10 • ⏱️ 23:19 • 10h ago
+👁️ 27K • 👍 1K • 💬 63 • ⏱️ 11:54 • 17h ago
 
 ---
 
-**[What This Billionaire’s MAJOR Warning Means for Bitcoin](https://www.youtube.com/watch?v=ppGBAsGWgbk)**
+**[Bitcoin Collapses | The Dark Truth We Need To Face](https://www.youtube.com/watch?v=uTBj_35P-3Q)**
 
-A prominent billionaire investor just issued a major warning that could impact the crypto market. Here's what it could mean for ...
+SPONSOR: —————————————————————— Join Market Intel for daily market analysis, key levels, livestreams, ...
 
-📺 EllioTrades
+📺 DataDash
 
-👁️ 15K • 👍 422 • 💬 33 • ⏱️ 13:25 • 9h ago
+👁️ 4K • 👍 216 • 💬 49 • ⏱️ 26:34 • 5h ago
 
 ---
 
-**[Bitcoin - it&#39;s coming in 3...2...1...](https://www.youtube.com/watch?v=aUYHQ6E0iKA)**
+**[Why Bitcoin Miners Are Abandoning Mining for AI and What Happens Next](https://www.youtube.com/watch?v=eXsBP0wWVIY)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+Bitcoin mining is changing fast and AI is reshaping the entire industry. I sat down with Beau Turner, co-founder and CEO of ...
 
-📺 Tyler S
+📺 Natalie Brunell
 
-👁️ 14K • 👍 481 • 💬 161 • ⏱️ 7:18 • 11h ago
+👁️ 3K • 👍 141 • 💬 33 • ⏱️ 44:01 • 2h ago
 
 ---
 
@@ -363,47 +351,57 @@ KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https:/
 
 📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 215 • 💬 89 • ⏱️ 15:39 • 12h ago
+👁️ 6K • 👍 237 • 💬 86 • ⏱️ 15:39 • 21h ago
 
 ---
 
-**[&quot;Bitcoin is Over...&quot; Here’s What Comes Next](https://www.youtube.com/watch?v=JZyVfVpbbrE)**
+**[Bitcoin - it&#39;s coming in 3...2...1...](https://www.youtube.com/watch?v=aUYHQ6E0iKA)**
 
-Crypto is over... Bitcoin is done... Or is it? Earn up to $14550 new user bonus on Bitbase: ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
 
-📺 Altcoin Daily
+📺 Tyler S
 
-👁️ 105K • 👍 3K • 💬 214 • ⏱️ 13:02 • 2d ago
-
----
-
-**[If You&#39;re Scared of Bitcoin Right Now, Watch This](https://www.youtube.com/watch?v=Kx8UAG-GbYA)**
-
-Join Learning Crypto: ...
-
-📺 Crypto Tips
-
-👁️ 37K • 👍 922 • 💬 63 • ⏱️ 10:20 • 12h ago
+👁️ 17K • 👍 531 • 💬 159 • ⏱️ 7:18 • 20h ago
 
 ---
 
-**[If Bitcoin Hits This Price, the Supercycle Is Dead](https://www.youtube.com/watch?v=RsCi56hEriU)**
+**[Bitcoin CLOSES In On $60K As Price Keeps DUMPING! New Low?](https://www.youtube.com/watch?v=Op88m4JbLKE)**
 
-Strive CEO Matt Cole joins me to name the exact Bitcoin price that would prove his own thesis wrong, why he's happy to pay 15% ...
+Bitcoin is closing in on 60K as the selling continues. Where does the pain end? Nick Valdez, Chief Crypto Strategist for Verified ...
 
-📺 Natalie Brunell
+📺 Verified Investing
 
-👁️ 59K • 👍 968 • 💬 150 • ⏱️ 58:36 • 1d ago
+👁️ 19K • 👍 512 • 💬 65 • ⏱️ 26:23 • 20h ago
 
 ---
 
-**[Bitcoin Just Puked to $62K. Is a COVID-Level Crash Coming Next?](https://www.youtube.com/watch?v=E91shGV-np4)**
+**[Why Is Bitcoin Crashing?](https://www.youtube.com/watch?v=w_2coIgJ3s4)**
 
-Bitcoin crashed to $62000, breaking key support as fears of a COVID-level market crash grow. Should you sell Bitcoin before it ...
+Bitcoin is down 27% since September 21 and about 50% from its all-time high. So why is Bitcoin crashing? In this video, I walk ...
 
-📺 Simply Bitcoin
+📺 Joe Burnett
 
-👁️ 50K • 👍 1K • 💬 156 • ⏱️ 17:08 • 2d ago
+👁️ 2K • 👍 135 • 💬 19 • ⏱️ 12:08 • 2h ago
+
+---
+
+**[Important Bitcoin Update:  BTC Information You&#39;re Not Going to get Anywhere Else](https://www.youtube.com/watch?v=VoTTaE7chN8)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 12K • 👍 638 • ⏱️ 28:06 • 1d ago
+
+---
+
+**[Is It TOO Late to Get Rich From Bitcoin? | Anthony Pompliano](https://www.youtube.com/watch?v=edaT3QDvBEg)**
+
+Meet Silvia — the AI agent custom-built for managing your personal finances. Connect your accounts, investments, and assets in ...
+
+📺 The Iced Coffee Hour Clips
+
+👁️ 14K • 👍 100 • 💬 21 • ⏱️ 10:37 • 23h ago
 
 ---
 
