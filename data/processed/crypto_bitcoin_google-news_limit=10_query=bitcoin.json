@@ -5,74 +5,64 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "GTA 6 Is Winning Over Gamers: Can Take-Two Stock Beat Bitcoin Next?",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMXh0OWhfcUVvNS1JYTFqVzA5WTJ3THQwUjJtdXNSUTY5cHdHMm9GX1lueGo3NmVCN0FQMVZFM21odE5aaHNUenZlWnp2WUJtaGlGb3VLSV95cHp6MjRaZXlid3Q4R3RabHZQS3RpenktWmFZNUFJQWwzNVBheGxkRWRBRjlzellNeWMyUzV4MzdCbUhGM3ZtOVYxY0ZNNjZVWGRQVE9GdVBza2tiRFhlMkZpc2FpaEZ2RlZ4SUYxeEhYQjF6Y0E?oc=5",
-      "pub_date": 1795028408.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63405917/gta-6-is-winning-over-gamers-can-take-two-stock-beat-bitcoin-next",
-      "image": null,
-      "description": null
+      "headline": "Strategy Is Worth Less Than Its Bitcoin, Trump Media May Have To Sell",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUtobWkyemxoWkNuRXVocUZuNE51SEN6c2Q5T3UtTl9ZYmotUzB1V0htTlJUSlJ6enNBaGFkeTNxV3Q5aHRPTnhoOHhHeGZuX3VjOFhMN3l3Vy1KdzZhUDZacW5lTHFMSDBjaE90YkpvVGRaWENHR2dKMllPUFhCb2lDSUVobnhzd0lhSHh3RQ?oc=5",
+      "pub_date": 1795119840.0,
+      "article_url": "https://www.investors.com/news/mstr-stock-discount-vs-bitcoin-trump-media-convertible/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/08/Stock-BitcoinGold-stand-shut.jpg",
+      "description": "MSTR stock is now worth less than its bitcoin and cash holdings net of debt, Strategy's website shows. Here's why that matters."
     },
     {
-      "headline": "Trump Media investors learn the Truth about betting on bitcoin",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1kOVhVUG1QN2VIcUxHd1E2bEttV203WmY0U1hXODZrdHFFRnlXWmtka1dLajFpbHUwTzl2SnZpQXlIbjlQcjRaaEZYcE02V0RxWkhtN01ZSTVDNnVRUkoyUGFRM25aLXFRT2daNkZGWm1SZDRvaEE2OER0aUlkdXZZbHA?oc=5",
-      "pub_date": 1794936601.0,
-      "article_url": null,
-      "image": null,
-      "description": null
+      "headline": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQlo2VlBtaV9NV21sUjRUYjVQek5hc0ppTjFySzhnQmxpZzlUcXZOa0wzQlZ3X3FMWkNLTHptMDN0TV9Jd1p4N1V4ZFdvdTUxeDJZY3B4Nm5jRE5TbEw5UER0akkya1lqbGlEeUFFVWhxTS1GakhOX01BaElXQnlEX214S3NGQnRkR1NLMFVhMnBMb285UzJRLTZlMV9PT25janpzSVBYbjR6Vkd6ZjZIMHZZY9IBuAFBVV95cUxOZEZpNy1nOG9RUVVHbFJGaWE4dGpqNDFHSWxLZmJUVXM4WHZRVjFqMmJVUTFyUEhGRkZFY1FuU0dxZ1NUR29MdFUybThHOUNOakdpc2RmN2R1VmdTQkZ4ZFBuVk5hMFp1RDk4VW4wQnl6NkQ4ZU1JbFF6M0RKTVUyWnpOMTVqRjdsX3FRY0VvLXE3VlhsVHowMldpTDNCeTFyODdwQjZqNVl3NWp4eEtYYllpaWM5QjRT?oc=5",
+      "pub_date": 1794839349.0,
+      "article_url": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229961-1763739028691-gettyimages-2247743566-img_6815.jpeg?v=1770802568&w=1920&h=1080",
+      "description": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend."
     },
     {
-      "headline": "Live updates: Bitcoin gives up early gains alongside soft action in stocks",
+      "headline": "Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ2pBR1NKWGNoenZFTHRrTFhQZ3lqbWdWSl9hUmVyR0tYUWxzeFhCVDdrRmhPUXY1eVBDMG9JTEdwYlJUWnhBVlRZa0RITmFSSzVRQnhkcVFPdmZGdE5UTndRd19KaTAyRFNsTTd1VDU1eE9uRUhpV2g5TVNvTldjRkNpWUVMWVB5X2pXNGZKc04wZktVY3c?oc=5",
+      "pub_date": 1795128302.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-19-224502799.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b7b9ed0bb0c05474e6d0eea51f8fa54be41e07da1ab5b0dfbd6d8f470b54b9b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F7110a20d371813ae7bec82a8941ebaf9.jpg",
+      "description": "Investors are continuing to reduce their exposure to digital assets as the cryptocurrency bear market drags on."
+    },
+    {
+      "headline": "Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDdPczEzZlVOWlA2UHRXakg2ei1BRHFCN3J6bmRrcS1qZ0FtNGtKQy1wTUgyV0QzMmRyVDg0OHE4eU9WMmNYX3JaY3NISVViMEdWYmd5Ym5aMW5rdnI0M1ZXS19uZXp3dWUwRTNZVUs1X3ZCbTV6WXJRRVBNMllXNllMZXRZYlhTS29fbjE1Z3k4eVItR3B5UTZsbDlUazFJeHE3OGdkWkNyQ0VpcFptdElUR0I2aVVq?oc=5",
-      "pub_date": 1795103499.0,
+      "pub_date": 1795120675.0,
       "article_url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Strategy Stock Lives and Dies by Bitcoin. The Crypto\u2019s Slump Takes a Toll.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zYzBWb3dMaDFtV2Y3cy1wRHlPeE1VRG8wRVl1LXpSMkg0X1hjRm5LeGlPeWhmVXZBTnNUcW51dEhJV2lDV2d5ZXpUbHhFdEROTHhkclhNQzZzUUdsV3MxNUtiZ1psaDNobVFNRUt0d1FNY20xM1dhUA?oc=5",
-      "pub_date": 1795099860.0,
-      "article_url": "https://www.barrons.com/articles/strategy-stock-sell-bitcoin-d69e331b",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "174-year-old American bank\u2019s Bitcoin exposure nears Tesla and SpaceX",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnpPWFUzWFVMRjF1ZnVBckMyYnYyWU9JQ0F5b2NpeTU5dXQtRUJkSjRRQ1hlNWFYY2RHWjd3M1JhODVRV1pWNkluWV9GNjNTS3RXYmRXbVpSN3dZYlA4eDhKNzdPcjZIQVJzTVNLX0pnVnJrcUFDOF9RYi1vZWxaU2lyWHkxUzFCajBhOVVoX3Z1NE5XYlQyTGtB?oc=5",
-      "pub_date": 1795102200.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/174-old-american-bank-bitcoin-153000935.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d0ca7438608f65e3e94e6db46ad37e601c623958fbc199549218306f2bef2a5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F67299f58e5d0dbf3d43891f2d9797d6c.jpg",
-      "description": "The bank\u2019s fund holdings swell this year, putting its exposure within reach of two Musk companies combined."
     },
     {
       "headline": "Bitcoin Bounces Back Into Green Ahead of Anthropic IPO",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDhpMy1RYjlZSXlPb0M1UEFMWkQtd1o0S2p3cHByejFleGcyRWg4Tl9sZEpzMFNDaVktei02dUFyZ2dhaGNMUGpVYkZDemZ1MFNtdEFra2hMYnpaWjZjYmhSZG1Hb0VyMUpaaGdkR3F5WEd1N0hiTUtIdzFIaFUtOTd2WTBneUhmU3E2R0MyVkpFRko2YXFHRnIzbTFhZjNSNVRrV01PWlc?oc=5",
-      "pub_date": 1795104530.0,
+      "pub_date": 1795120919.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-11-19/bitcoin-bounces-back-into-green-ahead-of-anthropic-ipo",
       "image": null,
       "description": null
     },
     {
-      "headline": "Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJGWjFSRnhqNjhOZTBfQVBLRmFFOWFMYVNLUVRNejcwam1GUmFqUVZvTU8wVTZtM2EybUtDcUhNbkJfRFRBR0g4WW1MRWczN0ItOGpuNE1nRU9FNVhtcTF5QnVYb1BTdmZMTFFEdjZNOFdtY1F5dkk1UVpUSW1IYnVqbTNqVkdBV1VLN2V3TGlzQjFsclR6WFRtY2dWNXlucG9OYjd3Rm5CR2lLUFNrQlNUVkVQbFNkZHBDeGtzaEVsaHdiZG5VX2h3ZUh0RGV3?oc=5",
-      "pub_date": 1795086002.0,
-      "article_url": "https://www.fool.com/investing/2026/11/19/not-bitcoin-not-ethereum-this-could-be-the-best-cryptocurrency-to-hold-over-the-next-5-years/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa3f885889017d89ccb5e9170d65a7cc17a70d7da-2121x1414.jpg&w=1200&op=resize",
-      "description": "This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close."
+      "headline": "Bitcoin, crypto get a modest boost amid Anthropic bullishness",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM2tzbmI1bjlBdDE2UHo2OVI4bXVVUzhjem52Um4zcG16ZlJ3N01ldnA4ZU45MWU0dU0xQlpSaEIwNmNKdEpWTjRzTGRzODBWVnRhNXV0TmZBZmV5cURFTVNVSGhIN2Y3Q1BacnpEUFNFZ0djY3FibDhXOVZOMnE3NmRvdTZZOTBDRGNVMzJIZkVjdGFYWVZwdzdlR0pBZ3dNaEVjWTZHS2ZQNDcxaGdEVlpmbHRlRVdlX05HU1FrMkM?oc=5",
+      "pub_date": 1795098015.0,
+      "article_url": "https://www.tradingview.com/news/seekingalpha:fdca2acf5094b:0-bitcoin-crypto-get-a-modest-boost-amid-anthropic-bullishness/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin BITSTAMP:BTCUSD perked back up toward $64K on Thursday after dipping close to $62K overnight, as spirits brightened with Anthropic's NASDAQ:ANT record-setting $81B IPO.The appetite for the AI giant's IPO indicates there's still investor tolerance for risk after Nvidia's NASDAQ:NVDA travails\u2026"
     },
     {
       "headline": "Bank Collapse In Paraguay Sparks Bitcoin Curiosity",
@@ -85,26 +75,36 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Breaks Below $63K as Waller Calls for 'Shock' Rate Hike",
-      "source": "Bitbo",
-      "source_url": "https://bitbo.io",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oUk5HRUo5amJpTjlwMEY0YWJZWTJ3dzVDY1kyVWpQT21XTXo0di1wNHFDX2hyUjkxWFU3dFZjUURrSmZYRkJHejhZYVFXRWRCd3NzUXcycTJuenJ2cFBQb19R?oc=5",
-      "pub_date": 1795030200.0,
-      "article_url": "https://bitbo.io/news/bitcoin-below-63k-waller-hike/",
-      "image": "https://bitbo.io/news/images/federal-reserve.jpg",
-      "description": "Bitcoin fell below $63,000 after Fed Governor Christopher Waller said the central bank may need to 'shock people' with a half-point rate hike in December."
+      "headline": "Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OSnhEX21LV2pESlVOTjA5WVBhNDh4SW1PQ3BWbHRvUkI2NHVqQUxnVmp3a3dfaGkwSGpRbWE5dWZ0a1RtNXpoMThDVFV0b2hBTGNCWDloV01WTFJOdG4tNVdkb21yVVNjOFBmNE9mN0lzb1J6?oc=5",
+      "pub_date": 1795110300.0,
+      "article_url": "https://bitcoinmagazine.com/markets/sygnum-bitcoin-new-high-128000",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Swiss-Bank-Sygnum-Says-Bitcoin-Could-Reach-New-High-Near-128000.jpg",
+      "description": "Sygnum Bank estimates bitcoin could reach a new high near $128,000 and calls the current drawdown the shallowest bear market to date."
     },
     {
-      "headline": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjdFbVk2Sm9Eenhtb3Q0V0F0bU0xRGpNeE5qMnVwS1dFRGYtcWcwWHlZbDlkYk9vYjJtdkRIUWh2U1o2UGFZOWVTbVBSaTdoTUUxSHVXQlpDdFVSWlp1dldubUxtLWtzTTE5QVhjMllyV1Zodzg0ZW56NGNQNGo3SGF1a25wbVhZU0ducU1ZT3ZpTk03dmFzSV9iNEVnNEpBOHJCYmhTSGR5dXIwYlY0?oc=5",
-      "pub_date": 1795068000.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
-      "description": "Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October."
+      "headline": "'The Bitcoin Standard' Author Says BTC Has Bottomed Around $60,000: 'I Can't See It Dropping Much Below T",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeEFhSVJNcVFjU25VZTFhU05fdHVLcndDZlR1T1RVdWVhQWZ4THJZQnJDTUV6a0EyWlBwb19hLXI4RTIxbFNKQ2dzZWNPUjMtUkphNWh2LTllTlJ2ajl5TEd6bHRsYjJtMFBDQmlFNXFMOV85cDhOa0xMRHJiOGdNUGhfMFNpQzB4MkI0b0plWXZRdk5BY256UldDZGVwMHR0MGd1Tk00SXZNUGwzT2k5b2c1OGd4dldxUWJpWGVyWENTNDZxY0FfNi1mVWVreDRtRWxHSHNud3RSY191UVk3Wk1mZTA1d3FGandidlpiczdiMXd2M2c?oc=5",
+      "pub_date": 1795083632.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63419870/the-bitcoin-standard-author-says-btc-has-bottomed-around-60000-i-cant-see-it-dropping-much-below-this",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJGWjFSRnhqNjhOZTBfQVBLRmFFOWFMYVNLUVRNejcwam1GUmFqUVZvTU8wVTZtM2EybUtDcUhNbkJfRFRBR0g4WW1MRWczN0ItOGpuNE1nRU9FNVhtcTF5QnVYb1BTdmZMTFFEdjZNOFdtY1F5dkk1UVpUSW1IYnVqbTNqVkdBV1VLN2V3TGlzQjFsclR6WFRtY2dWNXlucG9OYjd3Rm5CR2lLUFNrQlNUVkVQbFNkZHBDeGtzaEVsaHdiZG5VX2h3ZUh0RGV3?oc=5",
+      "pub_date": 1795086002.0,
+      "article_url": "https://www.fool.com/investing/2026/11/19/not-bitcoin-not-ethereum-this-could-be-the-best-cryptocurrency-to-hold-over-the-next-5-years/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa3f885889017d89ccb5e9170d65a7cc17a70d7da-2121x1414.jpg&w=1200&op=resize",
+      "description": "This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-19T16:22:23.989394+00:00"
+  "fetched_at": "2026-11-19T23:09:28.090755+00:00"
 }
