@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-19T16:22:27.538046+00:00'
+updated: '2026-11-19T23:09:46.488681+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 19, 2026 at 16:22 UTC  
+**Last Updated:** November 19, 2026 at 23:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,787.27
+### $1,760.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -7.9%  
-**30d:** -28.1%  
-**90d:** -26.6%  
-**1y:** -37.4%  
+**24h:** -1.6%  
+**7d:** -9.0%  
+**30d:** -29.0%  
+**90d:** -27.6%  
+**1y:** -38.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.32B
+**Market Cap:** $214.60B
 Rank #2
 
 **Circulating Supply:** 122,233,328 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.1%
+-64.5%
 
 **All-Time Low:** $0.43
-+410525.0%
++405381.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-2d ago
+3d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 7d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 8d ago
 
 ---
 
@@ -152,17 +152,11 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[HSBC Launches Ethereum-Based Money Market Fund](https://finance.yahoo.com/markets/crypto/articles/hsbc-launches-ethereum-based-money-144100926.html)**
+**[Is Ethereum a Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/ethereum-buy-now-092002116.html)**
 
-British bank HSBC (NYSE: $HSBC) has launched an Ethereum-based (CRYPTO: $ETH) money market fund in Hong Kong. ...
+Ethereum may be down 64% from its 2025 highs, but a turnaround could be right around the corner.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJGWjFSRnhqNjhOZTBfQVBLRmFFOWFMYVNLUVRNejcwam1GUmFqUVZvTU8wVTZtM2EybUtDcUhNbkJfRFRBR0g4WW1MRWczN0ItOGpuNE1nRU9FNVhtcTF5QnVYb1BTdmZMTFFEdjZNOFdtY1F5dkk1UVpUSW1IYnVqbTNqVkdBV1VLN2V3TGlzQjFsclR6WFRtY2dWNXlucG9OYjd3Rm5CR2lLUFNrQlNUVkVQbFNkZHBDeGtzaEVsaHdiZG5VX2h3ZUh0RGV3?oc=5)**
-
-The Motley Fool • 5h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -172,11 +166,25 @@ CoinDesk • 1d ago
 
 ---
 
+**[Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.](https://www.fool.com/investing/2026/11/19/not-bitcoin-not-ethereum-this-could-be-the-best-cryptocurrency-to-hold-over-the-next-5-years/)**
+
+This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close.
+
+The Motley Fool • 12h ago
+
+---
+
+**[What's next Bitcoin, Ethereum and XRP rise?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rise-etf-capital-outflows-202611191125)**
+
+FXStreet • 11h ago
+
+---
+
 **[Why CoinShares Just Sold All Its Ethereum and Half Its Solana](https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana)**
 
 CoinShares, one of Europe’s largest digital-asset managers, has sold its entire treasury holding of Ethereum and half of its Solana.
 
-Decrypt • 20h ago
+Decrypt • 1d ago
 
 ---
 
@@ -184,13 +192,13 @@ Decrypt • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 10h ago
 
 ---
 
 **[Tom Lee: Bitcoin, Ethereum, Solana Are ‘Still at the Beginning’](https://www.benzinga.com/crypto/cryptocurrency/26/11/63414304/tom-lee-bitcoin-ethereum-solana-are-still-at-the-beginning)**
 
-Benzinga • 18h ago
+Benzinga • 1d ago
 
 ---
 
@@ -198,25 +206,21 @@ Benzinga • 18h ago
 
 london, United Kingdom, 19th November 2026, Chainwire
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 9h ago
 
 ---
 
-**[Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further](https://www.ccn.com/news/crypto/bitcoin-ethereum-solana-open-interest-drop/)**
+**[Gonka Bridge Exploit Drains Stablecoins, Mints WGNK](https://thedefiant.io/news/hacks/gonka-bridge-exploit-drains-stablecoins-mints-wgnk)**
 
-CCN.com • 3h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH and XRP stall](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3hBTDR5UVhEYkE0M3VMTDJlakJicW5zQ0ttX0tLQ2VHME1yczd3N2hCM2RtdUphUFEwUGxLSm10a3VELXhuVkZpZVlNaFM2Tm9MU2tYNXpCZ2NfNGh3NWNBLUhmZkxTYUw2RE1UMHgxTFFyWkNJbEJzWVNUejBHT2JFSHBGcjJGNEVZcnU1OG0zQm0yUmJiallqNVJXQU44Tlp2SVNueUhDZHB2YVNTTkJmUk5EdjBpalMxckUwRTlvdXlsMGVFUXNrQndkX3p2dFd1T0JsdUo?oc=5)**
-
-FXStreet • 1d ago
+The Defiant • 1d ago
 
 ---
 
-**[Invesco's Stablecoin Reserve Fund Goes Live on Ethereum](https://thedefiant.io/converge/tradfi-and-fintech/invesco-s-stablecoin-reserve-fund-goes-live-on-ethereum)**
+**[Why Ethereum faces a liquidity test as Binance reserves drop to annual lows](https://ambcrypto.com/why-ethereum-faces-a-liquidity-test-as-binance-reserves-drop-to-annual-lows/)**
 
-The Defiant • 2d ago
+The falling stablecoin and ETH reserve were a cautious combination.
+
+AMBCrypto • 7h ago
 
 ---
 
@@ -224,13 +228,33 @@ The Defiant • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Cathie Wood &amp; Lyn Alden Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=0PRiBVgRXv4)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 9K • 👍 201 • 💬 54 • ⏱️ 24:24 • 5h ago
+
+---
+
 **[How a 19 Year Old Built Ethereum](https://www.youtube.com/watch?v=38Cxn9WpttM)**
 
 Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 132 • 💬 11 • ⏱️ 24:39 • 2h ago
+👁️ 14K • 👍 280 • 💬 22 • ⏱️ 24:39 • 9h ago
+
+---
+
+**[Ethereum Can’t Bounce. Is $1,620 Next?](https://www.youtube.com/watch?v=qECnnAmheNg)**
+
+Ethereum is sitting on its main support at $1724, the 78.6% retracement, but there is still no meaningful upside reaction.
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 118 • 💬 7 • ⏱️ 6:52 • 5h ago
 
 ---
 
@@ -240,7 +264,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 282 • 💬 50 • ⏱️ 25:11 • 1d ago
+👁️ 20K • 👍 289 • 💬 67 • ⏱️ 25:11 • 1d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO EMERGENCY (Liquidations Happening)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iAwwDG_5qVI)**
+
+BITCOIN & CRYPTO EMERGENCY (Liquidations Happening)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 131 • 💬 113 • ⏱️ 20:42 • 2h ago
 
 ---
 
@@ -250,7 +284,7 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 29 • 💬 6 • ⏱️ 3:49 • 1d ago
+👁️ 2K • 👍 32 • 💬 6 • ⏱️ 3:49 • 1d ago
 
 ---
 
@@ -260,7 +294,27 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 📺 Crypto Capital Venture
 
-👁️ 22K • 👍 539 • 💬 92 • ⏱️ 13:24 • 1d ago
+👁️ 23K • 👍 539 • 💬 92 • ⏱️ 13:24 • 2d ago
+
+---
+
+**[🏦⚡ BTC 1.0. ETH 2.0. BTC 3.0? Wall St quietly positioning. It&#39;s not who u think 👇](https://www.youtube.com/watch?v=tkfTnkp9tlc)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 8K • 👍 971 • 💬 60 • ⏱️ 25:44 • 1h ago
+
+---
+
+**[Ethereum Price Prediction: Wall Street&#39;s CUT Is BULLISH!!](https://www.youtube.com/watch?v=N_o7P2kWko8)**
+
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v118 CoinGPT - the AI Trade Agent I ...
+
+📺 Marzell Crypto
+
+👁️ 310 • 👍 7 • 💬 18 • ⏱️ 3:13 • 9h ago
 
 ---
 
@@ -270,57 +324,7 @@ PROTECT YOUR CRYPTO → Limited-edition PulseChain metal seed phrase card: https
 
 📺 Crypto Coffee
 
-👁️ 3K • 👍 156 • 💬 25 • ⏱️ 48:52 • 23h ago
-
----
-
-**[Can Ethereum Still Outperform Bitcoin?](https://www.youtube.com/watch?v=XDkKT2WhBeo)**
-
-Ethereum is testing the 78.6% retracement at $1724, its last line of defense, and is still following Bitcoin. We analyse Ethereum ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 171 • 💬 12 • ⏱️ 9:37 • 1d ago
-
----
-
-**[Ethereum Is On Sale](https://www.youtube.com/watch?v=lrJcyKsqqN4)**
-
-Bored of ETH going nowhere? That's usually where the opportunity is. ETH just filled the $2350 imbalance, same as Bitcoin.
-
-📺 CryptoCharged
-
-👁️ 237 • 👍 3 • 💬 10 • ⏱️ 1:25 • 19h ago
-
----
-
-**[Is BMNR &amp; ETH Thesis BROKEN?! (HERE&#39;S WHY)](https://www.youtube.com/watch?v=EdGTjY5UDDM)**
-
-Ethereum has fallen from around $2400 to $1800 in four weeks, Bitmine is at $16.26, and Vitalik Buterin has just said ETH is a ...
-
-📺 Elijah Cheng
-
-👁️ 8K • 👍 91 • 💬 45 • ⏱️ 23:30 • 2d ago
-
----
-
-**[BITCOIN HOLDERS ARE NOT READY (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v1QaPg7OIvk)**
-
-BITCOIN HOLDERS ARE NOT READY (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 284 • 💬 72 • ⏱️ 19:42 • 1d ago
-
----
-
-**[How I Spotted the Move | Bitcoin &amp; Ethereum Analysis](https://www.youtube.com/watch?v=5EJ8wAhb2XA)**
-
-Open Crypto/Gold Trading Account: https://www.delta.exchange/?code=stockburner Explore Deeepr AI: https://deeepr.ai/ ...
-
-📺 Trade with Burner
-
-👁️ 3K • 👍 88 • 💬 16 • ⏱️ 12:13 • 1d ago
+👁️ 3K • 👍 158 • 💬 24 • ⏱️ 48:52 • 1d ago
 
 ---
 
