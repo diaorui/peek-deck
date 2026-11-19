@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-19T06:48:55.125695+00:00'
+updated: '2026-11-19T16:22:27.540912+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 19, 2026 at 06:48 UTC  
+**Last Updated:** November 19, 2026 at 16:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-3d ago
+4d ago
 
 ---
 
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-3d ago
+4d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-3d ago
+4d ago
 
 ---
 
@@ -82,7 +82,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-4d ago
+5d ago
 
 ---
 
@@ -114,7 +114,7 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
 
-TechCrunch • 19h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -126,35 +126,9 @@ Google for Developers Blog • 1d ago
 
 ---
 
-**[US companies turn to robots to ease labour shortage crisis](https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1)**
+**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
 
-Financial Times • 1h ago
-
----
-
-**[The fastest soft robot ever built doesn't need electronics to function](https://techxplore.com/news/2026-11-fastest-soft-robot-built-doesnt.html)**
-
-Tech Xplore • 11h ago
-
----
-
-**[China Rules the Robots. Here’s What They Can Do](https://www.bloomberg.com/news/articles/2026-11-18/china-robot-advances-offer-more-hardware-forward-path-for-ai)**
-
-Bloomberg.com • 18h ago
-
----
-
-**[Get ready for humanoid robots, says He Xiaopeng](https://www.economist.com/the-world-ahead/2026/11/18/get-ready-for-humanoid-robots-says-he-xiaopeng)**
-
-The Economist • 20h ago
-
----
-
-**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/?post_type=news&p=11212)**
-
-Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
-
-Boston Dynamics • 1d ago
+WSJ • 2d ago
 
 ---
 
@@ -164,17 +138,49 @@ Reuters • 1d ago
 
 ---
 
-**[Stryker CEO Kevin Lobo says Stryker won’t build its surgical robots in China over IP worries](https://fortune.com/2026/11/17/stryker-ceo-kevin-lobo-china-robots-knockoffs-mako-cmr-surgical/)**
+**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/?post_type=news&p=11212)**
 
-Kevin Lobo told Fortune that Chinese companies are “knocking off a lot of the other robots” as Stryker bets $400 million on a soft-tissue surgical robot.
+Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
 
-Fortune • 1d ago
+Boston Dynamics • 2d ago
 
 ---
 
-**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
+**[AI Finds 28 Zero-Day Flaws In Physical Robotics Software](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security)**
 
-WSJ • 1d ago
+VicOne’s AI-assisted research reveals what faster zero-day discovery means for robot safety
+
+IEEE Spectrum • 3d ago
+
+---
+
+**[Chinese robots learn from humans in tech hub Shenzhen](https://japantoday.com/category/tech/chinese-robots-learn-from-humans-in-tech-hub-shenzhen)**
+
+Japan Today • 19h ago
+
+---
+
+**[At Apple, the robots are coming](https://www.computerworld.com/article/4250765/at-apple-the-robots-are-coming.html)**
+
+US companies purchased almost 11,000 robots last year, up 24.8% from the prior 12 months.
+
+Computerworld • 41m ago
+
+---
+
+**[Agility Robotics Opened at $11.26 and Dropped to $6. Here’s the Price Where I’d Buy the First Humanoid Robot Stock.](https://finance.yahoo.com/markets/stocks/articles/agility-robotics-opened-11-26-194002179.html)**
+
+The SPAC-backed robot maker flopped after its market debut.
+
+Yahoo Finance • 20h ago
+
+---
+
+**[151 humanoid robots dance in sync to break Guinness World Record](https://interestingengineering.com/ai-robotics/guinness-record-151-humanoid-robots-dance)**
+
+Shenzhen sets a Guinness World Record as 151 humanoid robots from perform a synchronized dance ahead of the APEC summit.
+
+Interesting Engineering • 6h ago
 
 ---
 
@@ -182,53 +188,43 @@ WSJ • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
+
+On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
+
+📺 FRAME
+
+👁️ 10K • 👍 168 • ⏱️ 21:17 • 1d ago
+
+---
+
+**[Humanoid Robot Show LIVE | Trump, Putin &amp; Xi Jinping Attend APEC 2026 Summit In China](https://www.youtube.com/watch?v=6izp0f3pZXw)**
+
+China's humanoid robots take centre stage at the APEC Summit 2026 in Shenzhen as world leaders Donald Trump, Xi Jinping ...
+
+📺 NDTV Profit
+
+👁️ 148K • 👍 739 • 💬 82 • ⏱️ 20:56 • 11h ago
+
+---
+
+**[China&#39;s Breathtaking APEC Spectacle: 151 Robots Dance In Perfect Sync, Create Guinness World Record](https://www.youtube.com/watch?v=s4FamEpfiAE)**
+
+China pulled off a spectacular robotic showcase as 151 robots danced in perfect synchronisation during the grand welcome ...
+
+📺 Firstpost
+
+👁️ 169K • 👍 665 • 💬 416 • ⏱️ 8:29 • 21h ago
+
+---
+
 **[Robotic Deep-Dive: Beating China, the Race Against Tesla, &amp; New Robotics Timeline With Brett Adcock](https://www.youtube.com/watch?v=E864U582FVY)**
 
 The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss the global race in humanoid robotics, how Figure ...
 
 📺 Peter H. Diamandis
 
-👁️ 210K • 👍 3K • 💬 623 • ⏱️ 2:12:13 • 2d ago
-
----
-
-**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
-
-A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
-
-📺 NBC Bay Area
-
-👁️ 145K • 👍 495 • 💬 401 • ⏱️ 2:44 • 2d ago
-
----
-
-**[500-Foot Robotic Wolf vs 350-Foot Robotic Lion! 🐺🦁 | Six Sisters Save Their Village](https://www.youtube.com/watch?v=HlspxjX-xE4)**
-
-500-Foot Robotic Wolf vs 350-Foot Robotic Lion! | Six Sisters Save Their Village One terrifying night, a gigantic 500-foot robotic ...
-
-📺 Gramixa
-
-👁️ 153K • 💬 10 • ⏱️ 8:11 • 19h ago
-
----
-
-**[Humanoid Robots take centre stage with special dance performance at APEC Summit](https://www.youtube.com/watch?v=ntFDS5R47zU)**
-
-Humanoid Robots take centre stage with special dance performance at APEC Summit #APECsummit #HumanoidRobots ...
-
-📺 ANI News
-
-👁️ 752 • 👍 10 • ⏱️ 0:30 • 39m ago
-
----
-
-**[Two Xiaomi Humanoid Robots Worked an 8-Hour Car Factory Shift](https://www.youtube.com/watch?v=NIQnni5l7l0)**
-
-THIS MONTH: Two full-size Xiaomi humanoid robots completed an eight-hour-and-five-minute production shift at Xiaomi's Beijing ...
-
-📺 Bradford Manning
-
-👁️ 16K • 👍 428 • 💬 16 • ⏱️ 1:14 • 1d ago
+👁️ 213K • 👍 3K • 💬 628 • ⏱️ 2:12:13 • 2d ago
 
 ---
 
@@ -238,17 +234,47 @@ Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid ro
 
 📺 States 2050
 
-👁️ 105K • 👍 2K • 💬 54 • ⏱️ 26:12 • 5d ago
+👁️ 108K • 👍 2K • 💬 58 • ⏱️ 26:12 • 6d ago
 
 ---
 
-**[Inside China&#39;s emerging ‘Robot Valley’](https://www.youtube.com/watch?v=6ZKG95kf7g0)**
+**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube In the southern Chinese city of Shenzhen, ...
+A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
 
-📺 South China Morning Post
+📺 NBC Bay Area
 
-👁️ 17K • 👍 126 • 💬 20 • ⏱️ 4:51 • 1d ago
+👁️ 155K • 👍 518 • 💬 415 • ⏱️ 2:44 • 2d ago
+
+---
+
+**[500-Foot Robotic Wolf vs 350-Foot Robotic Lion! 🐺🦁 | Six Sisters Save Their Village](https://www.youtube.com/watch?v=HlspxjX-xE4)**
+
+500-Foot Robotic Wolf vs 350-Foot Robotic Lion! | Six Sisters Save Their Village One terrifying night, a gigantic 500-foot robotic ...
+
+📺 Gramixa
+
+👁️ 308K • 💬 14 • ⏱️ 8:11 • 1d ago
+
+---
+
+**[Two Xiaomi Humanoid Robots Worked an 8-Hour Car Factory Shift](https://www.youtube.com/watch?v=NIQnni5l7l0)**
+
+THIS MONTH: Two full-size Xiaomi humanoid robots completed an eight-hour-and-five-minute production shift at Xiaomi's Beijing ...
+
+📺 Bradford Manning
+
+👁️ 17K • 👍 445 • 💬 18 • ⏱️ 1:14 • 1d ago
+
+---
+
+**[Is DIY the future of robotics?](https://www.youtube.com/watch?v=uid5Y7gWaOs)**
+
+This humanoid robot arrives as a box of parts that you assemble yourself. Menlo Research says its $20000 Asimov kit takes about ...
+
+📺 The Rundown AI
+
+👁️ 10K • 👍 327 • 💬 10 • ⏱️ 1:11 • 1d ago
 
 ---
 
@@ -258,27 +284,7 @@ Several companies are racing to become dominant forces in humanoid robots, but t
 
 📺 CNET
 
-👁️ 41K • 👍 381 • 💬 39 • ⏱️ 4:02 • 3d ago
-
----
-
-**[U S  Army&#39;s New Robot Launches a Swarm of 18 Autonomous Attack Drones! 🤯](https://www.youtube.com/watch?v=cwmp1MpkHWE)**
-
-The future of warfare is becoming increasingly autonomous! The U.S. Army has demonstrated a robotic ground vehicle called ...
-
-📺 Techie Sapien
-
-👁️ 114K • 💬 34 • ⏱️ 0:06 • 23h ago
-
----
-
-**[Self playing electronic chess set](https://www.youtube.com/watch?v=osqq8qtXnGA)**
-
-original credit: @chessnut.official & @alexandra_samaganova on Instagram This automated electronic chessboard uses internal ...
-
-📺 Retrolix1
-
-👁️ 18K • 👍 242 • 💬 8 • ⏱️ 0:07 • 10h ago
+👁️ 42K • 👍 382 • 💬 40 • ⏱️ 4:02 • 4d ago
 
 ---
 

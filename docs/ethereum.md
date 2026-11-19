@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-19T06:48:55.122526+00:00'
+updated: '2026-11-19T16:22:27.538046+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 19, 2026 at 06:48 UTC  
+**Last Updated:** November 19, 2026 at 16:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,756.43
+### $1,787.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -6.4%  
-**30d:** -27.0%  
-**90d:** -25.5%  
-**1y:** -36.4%  
+**24h:** +0.5%  
+**7d:** -7.9%  
+**30d:** -28.1%  
+**90d:** -26.6%  
+**1y:** -37.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $220.51B
+**Market Cap:** $217.32B
 Rank #2
 
 **Circulating Supply:** 122,233,328 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.5%
+-64.1%
 
 **All-Time Low:** $0.43
-+416513.7%
++410525.0%
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew quick slots from Hegotá upgrade, Glamsterdam gas repricing findings due November 16
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 5d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 6d ago
 
 ---
 
@@ -128,7 +128,7 @@ Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-6d ago
+7d ago
 
 ---
 
@@ -152,17 +152,23 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
+**[HSBC Launches Ethereum-Based Money Market Fund](https://finance.yahoo.com/markets/crypto/articles/hsbc-launches-ethereum-based-money-144100926.html)**
 
-CoinDesk • 21h ago
+British bank HSBC (NYSE: $HSBC) has launched an Ethereum-based (CRYPTO: $ETH) money market fund in Hong Kong. ...
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell.](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-just-gave-ethereum-123002657.html)**
+**[Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJGWjFSRnhqNjhOZTBfQVBLRmFFOWFMYVNLUVRNejcwam1GUmFqUVZvTU8wVTZtM2EybUtDcUhNbkJfRFRBR0g4WW1MRWczN0ItOGpuNE1nRU9FNVhtcTF5QnVYb1BTdmZMTFFEdjZNOFdtY1F5dkk1UVpUSW1IYnVqbTNqVkdBV1VLN2V3TGlzQjFsclR6WFRtY2dWNXlucG9OYjd3Rm5CR2lLUFNrQlNUVkVQbFNkZHBDeGtzaEVsaHdiZG5VX2h3ZUh0RGV3?oc=5)**
 
-Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin.
+The Motley Fool • 5h ago
 
-Yahoo Finance • 18h ago
+---
+
+**[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
+
+CoinDesk • 1d ago
 
 ---
 
@@ -170,59 +176,47 @@ Yahoo Finance • 18h ago
 
 CoinShares, one of Europe’s largest digital-asset managers, has sold its entire treasury holding of Ethereum and half of its Solana.
 
-Decrypt • 11h ago
+Decrypt • 20h ago
+
+---
+
+**[Current price of Ethereum for November 19, 2026](https://fortune.com/article/price-of-ethereum-11-19-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
 
 ---
 
 **[Tom Lee: Bitcoin, Ethereum, Solana Are ‘Still at the Beginning’](https://www.benzinga.com/crypto/cryptocurrency/26/11/63414304/tom-lee-bitcoin-ethereum-solana-are-still-at-the-beginning)**
 
-Benzinga • 9h ago
+Benzinga • 18h ago
 
 ---
 
-**[Current price of Ethereum for November 18, 2026](https://fortune.com/article/price-of-ethereum-11-18-2026/)**
+**[Black Betty Universe announces the launch of Betty Token (BETTY) on Ethereum](https://cryptobriefing.com/black-betty-universe-announces-the-launch-of-betty-token-betty-on-ethereum/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+london, United Kingdom, 19th November 2026, Chainwire
 
-Fortune • 19h ago
-
----
-
-**[Zcash to $1,800, Ethereum to $2,800? Arthur Hayes Sees a Rally Before the AI Bubble Bursts](https://www.ccn.com/news/crypto/zcash-1800-arthur-hayes-rally-before-ai-bubble-bursts-ethereum/)**
-
-CCN.com • 15h ago
+Crypto Briefing • 2h ago
 
 ---
 
-**[Tom Lee says Ethereum's 'waterfall decline in price' defies fundamentals as Bitmine adds 7,653 ETH](https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904)**
+**[Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further](https://www.ccn.com/news/crypto/bitcoin-ethereum-solana-open-interest-drop/)**
 
-The Ethereum treasury company added 7,653 ETH last week, bringing its holdings to 6.08 million tokens worth approximately $11.1 billion.
-
-The Block • 2d ago
+CCN.com • 3h ago
 
 ---
 
-**[Citi Cuts Bitcoin Price Target to $99,532 and Ethereum to $2,838 With Bitcoin Near $64,000](https://financefeeds.com/citi-bitcoin-price-target-ethereum-cut/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH and XRP stall](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3hBTDR5UVhEYkE0M3VMTDJlakJicW5zQ0ttX0tLQ2VHME1yczd3N2hCM2RtdUphUFEwUGxLSm10a3VELXhuVkZpZVlNaFM2Tm9MU2tYNXpCZ2NfNGh3NWNBLUhmZkxTYUw2RE1UMHgxTFFyWkNJbEJzWVNUejBHT2JFSHBGcjJGNEVZcnU1OG0zQm0yUmJiallqNVJXQU44Tlp2SVNueUhDZHB2YVNTTkJmUk5EdjBpalMxckUwRTlvdXlsMGVFUXNrQndkX3p2dFd1T0JsdUo?oc=5)**
 
-Citi cut its Bitcoin price target to $99,532 from $113,000 and Ethereum to $2,838 as Bitcoin traded at $64,082, leaving a 55.3% gap to the new 12-month target.
-
-FinanceFeeds • 16h ago
+FXStreet • 1d ago
 
 ---
 
-**[What is Ethereum actually for? A judge and Vitalik Buterin both left it open](https://ambcrypto.com/what-is-ethereum-actually-for-a-judge-and-vitalik-buterin-both-left-it-open/)**
+**[Invesco's Stablecoin Reserve Fund Goes Live on Ethereum](https://thedefiant.io/converge/tradfi-and-fintech/invesco-s-stablecoin-reserve-fund-goes-live-on-ethereum)**
 
-As a judge acquits the Peraire-Bueno brothers, Bitwise's Hunter Horsley and Vitalik Buterin weigh in on what crypto is actually for.
-
-AMBCrypto • 5h ago
-
----
-
-**[Invesco moves stablecoin reserves on-chain, but hides a liquidity gap](https://cryptoslate.com/invesco-moves-stablecoin-reserves-on-chain-but-hides-a-liquidity-gap/)**
-
-Invesco's new Ethereum-based stablecoin reserve fund requires institutions to follow business-day redemption schedules.
-
-CryptoSlate • 38m ago
+The Defiant • 2d ago
 
 ---
 
@@ -230,13 +224,23 @@ CryptoSlate • 38m ago
 
 ## YouTube Videos: "ethereum"
 
+**[How a 19 Year Old Built Ethereum](https://www.youtube.com/watch?v=38Cxn9WpttM)**
+
+Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 2K • 👍 132 • 💬 11 • ⏱️ 24:39 • 2h ago
+
+---
+
 **[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=vraYA12JsrU)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 245 • 💬 45 • ⏱️ 25:11 • 14h ago
+👁️ 18K • 👍 282 • 💬 50 • ⏱️ 25:11 • 1d ago
 
 ---
 
@@ -246,7 +250,7 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 24 • 💬 5 • ⏱️ 3:49 • 16h ago
+👁️ 2K • 👍 29 • 💬 6 • ⏱️ 3:49 • 1d ago
 
 ---
 
@@ -260,23 +264,13 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 ---
 
-**[Bitcoin &amp; Ethereum, Wenn das POSITIVSTE Szenario eine Bärenflagge ist^^ Neue LOW incoming!](https://www.youtube.com/watch?v=i1aTe1xQR2Y)**
+**[Crypto treasuries are UNDERWATER. Time to go up? Bitcoin Ethereum HEX PulseChain News](https://www.youtube.com/watch?v=p1C6CvWE2eM)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 400€ +8% Bonus auf eure Einzahlung + ...
+PROTECT YOUR CRYPTO → Limited-edition PulseChain metal seed phrase card: https://pulsechaincards.com Store your ...
 
-📺 Krypto Trading & Investing
+📺 Crypto Coffee
 
-👁️ 925 • 👍 233 • 💬 101 • ⏱️ 8:27 • 1h ago
-
----
-
-**[Ethereum Is On Sale](https://www.youtube.com/watch?v=lrJcyKsqqN4)**
-
-Bored of ETH going nowhere? That's usually where the opportunity is. ETH just filled the $2350 imbalance, same as Bitcoin.
-
-📺 CryptoCharged
-
-👁️ 153 • 👍 2 • 💬 10 • ⏱️ 1:25 • 9h ago
+👁️ 3K • 👍 156 • 💬 25 • ⏱️ 48:52 • 23h ago
 
 ---
 
@@ -286,17 +280,17 @@ Ethereum is testing the 78.6% retracement at $1724, its last line of defense, an
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 167 • 💬 12 • ⏱️ 9:37 • 1d ago
+👁️ 8K • 👍 171 • 💬 12 • ⏱️ 9:37 • 1d ago
 
 ---
 
-**[Bitcoin Just Got The Biggest News Of The Year Almost No Ethereum Left 2029 Digital Euro Project](https://www.youtube.com/watch?v=ey4HAfsXJtw)**
+**[Ethereum Is On Sale](https://www.youtube.com/watch?v=lrJcyKsqqN4)**
 
-We just got some news that has the cryptocurrency market buzzing. Bitcoin is back in the headlines heavily again with its best ...
+Bored of ETH going nowhere? That's usually where the opportunity is. ETH just filled the $2350 imbalance, same as Bitcoin.
 
-📺 The Modern Investor
+📺 CryptoCharged
 
-👁️ 13K • 👍 802 • 💬 90 • ⏱️ 31:04 • 2d ago
+👁️ 237 • 👍 3 • 💬 10 • ⏱️ 1:25 • 19h ago
 
 ---
 
@@ -306,7 +300,17 @@ Ethereum has fallen from around $2400 to $1800 in four weeks, Bitmine is at $16.
 
 📺 Elijah Cheng
 
-👁️ 7K • 👍 86 • 💬 45 • ⏱️ 23:30 • 1d ago
+👁️ 8K • 👍 91 • 💬 45 • ⏱️ 23:30 • 2d ago
+
+---
+
+**[BITCOIN HOLDERS ARE NOT READY (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v1QaPg7OIvk)**
+
+BITCOIN HOLDERS ARE NOT READY (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 284 • 💬 72 • ⏱️ 19:42 • 1d ago
 
 ---
 
@@ -316,17 +320,7 @@ Open Crypto/Gold Trading Account: https://www.delta.exchange/?code=stockburner E
 
 📺 Trade with Burner
 
-👁️ 2K • 👍 75 • 💬 16 • ⏱️ 12:13 • 18h ago
-
----
-
-**[🚀 Ethereum Has A 2027 Plan - ETH Crypto Analysis](https://www.youtube.com/watch?v=EYE58NWz3hU)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/czPNWoFJ My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 6K • 👍 48 • 💬 4 • ⏱️ 9:28 • 2d ago
+👁️ 3K • 👍 88 • 💬 16 • ⏱️ 12:13 • 1d ago
 
 ---
 
