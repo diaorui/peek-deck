@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Is Ethereum a Buy Right Now?",
+      "headline": "Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here\u2019s Why It Could Be Time to Sell.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZGVEZsR0NoOHFLd3pKQWtyYlpMZ1pPU1R5MEliYURQakR3cHE0ajlDN0JPWURHTW5EeUFVelVlTnZ2MFp0bXdWeFpWN3dBYmxTUVpIdmFsb0VIS0xKNlFpZ05KMXNFQy05T1lqTWpJcFc4ckdsdXlqbE90Z0NNY042WXlIdjlf?oc=5",
-      "pub_date": 1795080002.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-buy-now-092002116.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fa98bb965b7555aceaeae37b77126a448392b36f19c0da40289a36a3c35ee1e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa56f0cd7c1c9a0b0510f5b1c9b22ce8c.jpg",
-      "description": "Ethereum may be down 64% from its 2025 highs, but a turnaround could be right around the corner."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3hfQTYwLUN3a0ozck5qNXM0YldBR2hTalJrekhLdkJCY3FxVWFhWVczME12OF9keGpqbGh1b3dYREVPeTEwbVBGVTR1N1RKTFdaS3RvMV9oeXk3T3FtVXRCZ255eFpXZUhfZTMxTXhJRTBSdkZRQkUzLVRrTlBCMDVPWVM5X095MkZRb2JqUWowSkNOWXFqRHR5bERaY1VQ?oc=5",
+      "pub_date": 1795005002.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-just-gave-ethereum-123002657.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0f032a6e3a0e6efffa8c3face5c33dcc60f0adc72a799646a9fbe0be34aae275/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F3ffa5d0da19be421f562409d312b9413.jpg",
+      "description": "Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin."
     },
     {
       "headline": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
@@ -59,7 +59,7 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00bTBpaGNFbmZfSHM2RVlDQXJ6SnBMc2RDMVJYNFJBUnlTRFRHSjlqQjV1bURNb2tuZF9lRlBOTnVwQUhodzNjaEtKdTRIQW5IY2N3WHFPU1dYOEY4aWdnQ2ZrM1hmZHNi?oc=5",
-      "pub_date": 1795091495.0,
+      "pub_date": 1795096895.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-11-19-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-19.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -75,6 +75,16 @@
       "description": null
     },
     {
+      "headline": "Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3dPM2FHMUJYMmZac2wydEJiRVd3c3JRbUFScVFHajdza2VkMThGN3BQbV9uMW1nUHpwUmpNLUtGbnZBZ3JGQTNLUlVDZVFwVjE3V0JybnVtYVExcEVsMkRsMWFlT3dUZEc4RnhJc0x0clFKdlNYTXN3VEVOX0JxSw?oc=5",
+      "pub_date": 1795092479.0,
+      "article_url": "https://www.ccn.com/news/crypto/bitcoin-ethereum-solana-open-interest-drop/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Black Betty Universe announces the launch of Betty Token (BETTY) on Ethereum",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -85,26 +95,16 @@
       "description": "london, United Kingdom, 19th November 2026, Chainwire"
     },
     {
-      "headline": "Gonka Bridge Exploit Drains Stablecoins, Mints WGNK",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaklGWEV1TGhMbFR3ZFB0aEZ5bElweHZHWHA5aE5vZTRueG1vQmhlWWFZQk1vUm5wUnVkQVZaeXlnclhfd3hkNTctU3p2VmdWNUgtV0RoRjlrcEZBMGE3NlZHWnVBVTNfczd1QTZJOGtmbTlQSk9RX0s2X3dZYjN6Nzl3TnQxZVhXOUlN?oc=5",
-      "pub_date": 1795040943.0,
-      "article_url": "https://thedefiant.io/news/hacks/gonka-bridge-exploit-drains-stablecoins-mints-wgnk",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why Ethereum faces a liquidity test as Binance reserves drop to annual lows",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVdxc3RuZXhXRUE1TUtDM2huNnNVTWc1T2JjeW5ITzNvTkU2RDBaWTl6b1lyc3BFRGxFZDJQendyVHdyVVNQLXlZQkJHa3d2S2tuLVpWbTR6Ykx5WVlsVldjTjJWZFdwYWlvXzFsSU1XV0xYaURtYlBJUUlsYnNQVDFtcFVPNExmSTBPaUlOaDd1THFLTjFnTFE3aTY1NWM?oc=5",
-      "pub_date": 1795104034.0,
-      "article_url": "https://ambcrypto.com/why-ethereum-faces-a-liquidity-test-as-binance-reserves-drop-to-annual-lows/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/11/FI_METRIC_ETHEREUM_19-11-2026.webp",
-      "description": "The falling stablecoin and ETH reserve were a cautious combination."
+      "headline": "Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMm9iZzhTVGJsZGttSWhHSlBtN2dwc2d2dHZMcy1DaEJaMlZHMnVTOUNDcDRpMWUzbzVyYXNMSDlpNVJ0ejJIMkNDU1hZVjRPZTJHdXAzSnlUbmZHdU1TY2dIbk9vLTZiOXc1VmVwSk8xYmw3ODJ5VTZiMlAydFY4LXA3NEtTM2FPYW1YYzBZeTlXdDJFVUpIZFE0aXlzd05vb0NJdjJ0dk5saXdfeWN1VEFsd1BWQkEyN1JfVmNRa00?oc=5",
+      "pub_date": 1795007902.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:498881deb094b:0-citi-cuts-bitcoin-price-target-to-99-532-ethereum-to-2-838/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Citi has lowered its 12-month price targets for the two largest crypto assets. As of November 18, 2026, the bank's target is $99,532 for Bitcoin and $2,838 for Ethereum.This is a retreat from the more ambitious numbers Citi published just weeks earlier.The cut matters because of where Bitcoin actua\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-19T23:09:35.469302+00:00"
+  "fetched_at": "2026-11-20T04:09:50.790455+00:00"
 }

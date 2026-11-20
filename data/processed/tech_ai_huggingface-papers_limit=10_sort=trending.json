@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2604.05018",
       "arxiv_url": "https://arxiv.org/abs/2604.05018",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.05018.png",
-      "upvotes": 9,
+      "upvotes": 10,
       "num_comments": 0,
       "published_at": "2026-04-05T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/paper-orchestra",
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2610.22732",
       "arxiv_url": "https://arxiv.org/abs/2610.22732",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22732.png",
-      "upvotes": 20,
+      "upvotes": 21,
       "num_comments": 2,
       "published_at": "2026-10-14T20:00:00.000Z",
       "github_repo": "https://github.com/microsoft/TokenEconomizer",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2611.23144",
       "arxiv_url": "https://arxiv.org/abs/2611.23144",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.23144.png",
-      "upvotes": 16,
+      "upvotes": 17,
       "num_comments": 2,
       "published_at": "2026-11-16T19:00:00.000Z",
       "github_repo": "https://github.com/yyfz/Pi4",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2611.18397",
       "arxiv_url": "https://arxiv.org/abs/2611.18397",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18397.png",
-      "upvotes": 136,
+      "upvotes": 138,
       "num_comments": 4,
       "published_at": "2026-11-12T19:00:00.000Z",
       "github_repo": "https://github.com/RainBowLuoCS/Gamer",
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.18063",
       "arxiv_url": "https://arxiv.org/abs/2609.18063",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18063.png",
-      "upvotes": 35,
+      "upvotes": 36,
       "num_comments": 9,
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
@@ -107,11 +107,11 @@
       "hf_url": "https://huggingface.co/papers/2502.11880",
       "arxiv_url": "https://arxiv.org/abs/2502.11880",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.11880.png",
-      "upvotes": 19,
+      "upvotes": 20,
       "num_comments": 0,
       "published_at": "2025-02-17T10:06:28.000Z",
       "github_repo": "https://github.com/microsoft/BitNet",
-      "github_stars": 42152,
+      "github_stars": 42252,
       "project_page": null
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 93818,
+      "github_stars": 93852,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-19T23:09:16.408048+00:00"
+  "fetched_at": "2026-11-20T04:09:43.700632+00:00"
 }
