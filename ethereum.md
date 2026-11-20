@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-20T04:10:09.877850+00:00'
+updated: '2026-11-20T13:26:55.685696+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 20, 2026 at 04:10 UTC  
+**Last Updated:** November 20, 2026 at 13:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,750.20
+### $1,730.00
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $212.08B
+**Market Cap:** $211.69B
 Rank #2
 
 **Circulating Supply:** 122,236,258 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.9%
+-65.0%
 
 **All-Time Low:** $0.43
-+400566.1%
++399813.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -88,7 +88,7 @@ Does anybody know of any good decentralized email services?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -104,7 +104,7 @@ Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear tec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew quick slots from Hegotá upgrade, Glamsterdam gas repricing findings due November 16
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 6d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 7d ago
 
 ---
 
@@ -128,7 +128,7 @@ Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-7d ago
+8d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -152,17 +152,9 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell.](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-just-gave-ethereum-123002657.html)**
-
-Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin.
-
-Yahoo Finance • 1d ago
-
----
-
 **[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -170,57 +162,63 @@ CoinDesk • 1d ago
 
 This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close.
 
-The Motley Fool • 17h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Current price of Ethereum for Nov. 20, 2026](https://fortune.com/article/price-of-ethereum-11-20-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 46m ago
+
+---
+
+**[Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to Know.](https://finance.yahoo.com/markets/crypto/articles/bitmine-just-posted-staggering-6-184502319.html)**
+
+Tom Lee’s Bitmine kept catching a falling knife over the past year.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[VanEck terminates Gemini custody agreements for Bitcoin, Ethereum, Solana ETFs](https://crypto.news/vaneck-drops-gemini-bitcoin-ethereum-solana-custody/)**
+
+VanEck ends Gemini custody and clearing agreements for its Bitcoin, Ethereum and Solana ETFs holding $1.39B in net assets as Coinbase retains its role.
+
+Crypto News • 7h ago
 
 ---
 
 **[What's next Bitcoin, Ethereum and XRP rise?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rise-etf-capital-outflows-202611191125)**
 
-FXStreet • 16h ago
+FXStreet • 1d ago
 
 ---
 
-**[Why CoinShares Just Sold All Its Ethereum and Half Its Solana](https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana)**
+**[Chainlink and UBS Automate Tokenized Structured Notes on Ethereum With CRE, Targeting a $2 Trillion Market](https://genfinity.io/2026/11/19/chainlink-ubs-tokenized-structured-notes-cre-2-trillion-market/)**
 
-CoinShares, one of Europe’s largest digital-asset managers, has sold its entire treasury holding of Ethereum and half of its Solana.
-
-Decrypt • 1d ago
+https://genfinity.io/ • 17h ago
 
 ---
 
-**[Current price of Ethereum for November 19, 2026](https://fortune.com/article/price-of-ethereum-11-19-2026/)**
+**[Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury](https://beincrypto.com/coinshares-sells-entire-eth-treasury-buyback/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 14h ago
-
----
-
-**[Tom Lee: Bitcoin, Ethereum, Solana Are ‘Still at the Beginning’](https://www.benzinga.com/crypto/cryptocurrency/26/11/63414304/tom-lee-bitcoin-ethereum-solana-are-still-at-the-beginning)**
-
-Benzinga • 1d ago
+BeInCrypto • 21h ago
 
 ---
 
 **[Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further](https://www.ccn.com/news/crypto/bitcoin-ethereum-solana-open-interest-drop/)**
 
-CCN.com • 15h ago
+CCN.com • 1d ago
 
 ---
 
-**[Black Betty Universe announces the launch of Betty Token (BETTY) on Ethereum](https://cryptobriefing.com/black-betty-universe-announces-the-launch-of-betty-token-betty-on-ethereum/)**
+**[Why Are Bitcoin, Ethereum and XRP Prices Still Falling and What’s Next?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-still-falling-and-whats-next/)**
 
-london, United Kingdom, 19th November 2026, Chainwire
+Bitcoin fell to $61,496.58, down 0.7% in 24 hours and 11.5% over the past week. Ether dropped 1.3% on the day to $1,724.13 and is down 12.3% for the week.
 
-Crypto Briefing • 14h ago
-
----
-
-**[Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838](https://www.tradingview.com/news/cryptobriefing:498881deb094b:0-citi-cuts-bitcoin-price-target-to-99-532-ethereum-to-2-838/)**
-
-Citi has lowered its 12-month price targets for the two largest crypto assets. As of November 18, 2026, the bank's target is $99,532 for Bitcoin and $2,838 for Ethereum.This is a retreat from the more ambitious numbers Citi published just weeks earlier.The cut matters because of where Bitcoin actua…
-
-TradingView • 1d ago
+Coinpedia • 3h ago
 
 ---
 
@@ -234,7 +232,7 @@ Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest C
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 321 • 💬 27 • ⏱️ 24:39 • 14h ago
+👁️ 21K • 👍 356 • 💬 27 • ⏱️ 24:39 • 23h ago
 
 ---
 
@@ -244,17 +242,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 249 • 💬 36 • ⏱️ 24:24 • 10h ago
-
----
-
-**[Ethereum Can’t Bounce. Is $1,620 Next?](https://www.youtube.com/watch?v=qECnnAmheNg)**
-
-Ethereum is sitting on its main support at $1724, the 78.6% retracement, but there is still no meaningful upside reaction.
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 129 • 💬 7 • ⏱️ 6:52 • 10h ago
+👁️ 21K • 👍 282 • 💬 36 • ⏱️ 24:24 • 20h ago
 
 ---
 
@@ -264,7 +252,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 295 • 💬 68 • ⏱️ 25:11 • 1d ago
+👁️ 23K • 👍 301 • 💬 70 • ⏱️ 25:11 • 1d ago
+
+---
+
+**[Ethereum Can’t Bounce. Is $1,620 Next?](https://www.youtube.com/watch?v=qECnnAmheNg)**
+
+Ethereum is sitting on its main support at $1724, the 78.6% retracement, but there is still no meaningful upside reaction.
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 146 • 💬 8 • ⏱️ 6:52 • 19h ago
 
 ---
 
@@ -274,7 +272,7 @@ BITCOIN & CRYPTO EMERGENCY (Liquidations Happening)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 228 • 💬 63 • ⏱️ 20:42 • 7h ago
+👁️ 14K • 👍 286 • 💬 64 • ⏱️ 20:42 • 16h ago
 
 ---
 
@@ -284,27 +282,7 @@ Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my aff
 
 📺 Crypto Capital Venture
 
-👁️ 23K • 👍 539 • 💬 92 • ⏱️ 13:24 • 2d ago
-
----
-
-**[🏦⚡ BTC 1.0. ETH 2.0. BTC 3.0? Wall St quietly positioning. It&#39;s not who u think 👇](https://www.youtube.com/watch?v=tkfTnkp9tlc)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 32K • 👍 2K • 💬 143 • ⏱️ 25:44 • 6h ago
-
----
-
-**[Ethereum Price Prediction: Back on the 5-Year Line!!](https://www.youtube.com/watch?v=NCUOY5zUyEc)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v117 CoinGPT - the AI Trade Agent I ...
-
-📺 Marzell Crypto
-
-👁️ 3K • 👍 32 • 💬 6 • ⏱️ 3:49 • 1d ago
+👁️ 23K • 👍 540 • 💬 92 • ⏱️ 13:24 • 2d ago
 
 ---
 
@@ -314,17 +292,37 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 426 • 👍 7 • 💬 2 • ⏱️ 3:13 • 14h ago
+👁️ 607 • 👍 9 • 💬 2 • ⏱️ 3:13 • 23h ago
 
 ---
 
-**[Ethereum Is On Sale](https://www.youtube.com/watch?v=lrJcyKsqqN4)**
+**[🏦⚡ BTC 1.0. ETH 2.0. BTC 3.0? Wall St quietly positioning. It&#39;s not who u think 👇](https://www.youtube.com/watch?v=tkfTnkp9tlc)**
 
-Bored of ETH going nowhere? That's usually where the opportunity is. ETH just filled the $2350 imbalance, same as Bitcoin.
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
 
-📺 CryptoCharged
+📺 InvestAnswers
 
-👁️ 303 • 👍 3 • 💬 10 • ⏱️ 1:25 • 1d ago
+👁️ 53K • 👍 3K • 💬 200 • ⏱️ 25:44 • 15h ago
+
+---
+
+**[Ethereum Price Prediction: Back on the 5-Year Line!!](https://www.youtube.com/watch?v=NCUOY5zUyEc)**
+
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v117 CoinGPT - the AI Trade Agent I ...
+
+📺 Marzell Crypto
+
+👁️ 3K • 👍 34 • 💬 6 • ⏱️ 3:49 • 1d ago
+
+---
+
+**[Ethereum’s $2,100 Confirmation Level | Bitcoin &amp; Silver Market Update](https://www.youtube.com/watch?v=JbryN_nt8KE)**
+
+Bitcoin, Ethereum and silver — my November 19 market update. BTC's $72000 reclaim level, ETH's unconfirmed Wyckoff setup ...
+
+📺 YaBoySkey
+
+👁️ 642 • 👍 30 • 💬 2 • ⏱️ 8:01 • 17h ago
 
 ---
 
