@@ -33,6 +33,20 @@
       "site_name": "24/7 Wall St."
     },
     {
+      "title": "Show HN: NostrPulse \u2013 Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
+      "url": "https://github.com/PHONGUIT22/nostrpulse-full",
+      "hn_url": "https://news.ycombinator.com/item?id=50572502",
+      "author": "hacphong",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-11-20T10:01:27Z",
+      "object_id": "50572502",
+      "image": "https://opengraph.githubassets.com/94b1f10e8a9ff4a2334e06d00a522d00e9d77423938cd426c305124110bd31b6/PHONGUIT22/nostrpulse-full",
+      "description": "Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "A minimal Bitcoin-inspired implementation (2022)",
       "url": "https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html",
       "hn_url": "https://news.ycombinator.com/item?id=50503776",
@@ -117,35 +131,21 @@
       "site_name": null
     },
     {
-      "title": "Show HN: Introduction to GPU Inference, a short course with Interactive diagrams",
-      "url": "https://athrael.net/courses/gpu-inference/",
-      "hn_url": "https://news.ycombinator.com/item?id=50534544",
-      "author": "athrael-soju",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-11-17T17:08:08Z",
-      "object_id": "50534544",
-      "image": "https://athrael.net/courses/gpu-inference/og.png",
-      "description": "How language models run on GPUs, explained with interactive diagrams.",
-      "favicon": "https://athrael.net/favicon.png",
-      "site_name": "athrael.net"
-    },
-    {
-      "title": "Ageing could be switched off by a new gene",
-      "url": "https://news.ycombinator.com/item?id=50539381",
-      "hn_url": "https://news.ycombinator.com/item?id=50539381",
-      "author": "denisreshetov",
+      "title": "Show HN: A Claude skill that borrows compression tricks from Finnegans Wake",
+      "url": "https://github.com/bitcoinvsalts/finnegans-wake-skill",
+      "hn_url": "https://news.ycombinator.com/item?id=50574249",
+      "author": "herve76",
       "points": 1,
       "num_comments": 0,
-      "created_at": "2026-11-17T22:50:22Z",
-      "object_id": "50539381",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
+      "created_at": "2026-11-20T13:18:30Z",
+      "object_id": "50574249",
+      "image": "https://opengraph.githubassets.com/ed93ca34feb2d436c0bd413d6e5fb5f1bb7eb466bb6e68ae9aba86b2b17909c7/bitcoinvsalts/finnegans-wake-skill",
+      "description": "A Claude skill that borrows Finnegans Wake's compression devices: same verdict on 'why' questions, about a third fewer output tokens. - bitcoinvsalts/finnegans-wake-skill",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     }
   ],
-  "total_hits": 13,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-20T04:09:32.826170+00:00"
+  "fetched_at": "2026-11-20T13:26:24.658083+00:00"
 }

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-20T13:26:36.599028+00:00",
+  "data": {
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+    "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold | Google Cloud Blog",
+    "description": "This AI threat update provides GTIG\u2019s findings on adversarial misuse of AI including Gemini and other non-Google tools.",
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
+    "favicon": "https://www.gstatic.com/cgc/supercloud_favicon.ico",
+    "site_name": "Google Cloud Blog",
+    "author": null,
+    "keywords": null
+  }
+}
