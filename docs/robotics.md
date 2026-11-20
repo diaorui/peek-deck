@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-20T13:26:55.688515+00:00'
+updated: '2026-11-20T21:26:39.466988+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 20, 2026 at 13:26 UTC  
+**Last Updated:** November 20, 2026 at 21:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-4d ago
+5d ago
 
 ---
 
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-5d ago
+6d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -114,7 +114,7 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 Discover Gemini 4 Hydrogen: a fast, cost-effective model for robotics featuring real-time spatial reasoning, agentic control, and seamless integration with the Antigravity Robotics plugin and MuJoCo simulation.
 
-Google for Developers Blog • 2d ago
+Google for Developers Blog • 3d ago
 
 ---
 
@@ -126,11 +126,9 @@ TechCrunch • 2d ago
 
 ---
 
-**[Why the robots are ditching Uber](https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships)**
+**[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
 
-Can Uber stay the default robot app?
-
-The Verge • 1h ago
+Reuters • 3h ago
 
 ---
 
@@ -140,45 +138,47 @@ Financial Times • 1d ago
 
 ---
 
-**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
+**[Robotics enters its post-Jensen Huang era](https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/)**
 
-WSJ • 2d ago
+Jensen Huang, one of robotics' most influential advocates, has resigned from NVIDIA. Can the industry sustain its momentum without him?
 
----
-
-**[EXCLUSIVE: GM plans 20% boost in robotics as factory costs rise](https://www.reuters.com/business/autos-transportation/gm-plans-20-boost-robotics-factory-costs-rise-2026-11-17/)**
-
-Reuters • 2d ago
+The Robot Report • 18h ago
 
 ---
 
-**[What Could NXP Semiconductors (NXPI) New Robotics Platform Mean For Investors?](https://finance.yahoo.com/technology/ai/articles/could-nxp-semiconductors-nxpi-robotics-121735177.html)**
+**[$90 million robotics startup snaps up space near Oracle Park](https://www.bizjournals.com/sanfrancisco/news/2026/11/20/dream-labs-123-townsend-robotics-lease.html)**
 
-NXP Semiconductors (NasdaqGS:NXPI) has introduced a unified robotics platform based on its Neural Axis Architecture for AI-enabled autonomous systems. The platform offers a validated development environment and modular SDK aimed at secure, real-time use across a range of robotics applications. This launch expands NXP Semiconductors' reach beyond its traditional chip markets into broader autonomous systems and robotics hardware. The Neural Axis based robotics platform is important, but...
-
-Yahoo Finance • 1h ago
+The Business Journals • 1h ago
 
 ---
 
-**[Realbotix launches humanoid robots for education, wellness and companionship](https://roboticsandautomationnews.com/2026/11/19/realbotix-launches-echo-humanoid-robots-for-education-wellness-and-companionship/107339/)**
+**[Bellefontaine Robotics hosts ‘King of the Hill’ competition](https://www.peakofohio.com/local-news/bellefontaine-robotics-hosts-king-of-the-hill-competition/)**
 
-Realbotix has launched a new range of humanoid robots designed for education, wellness and personal companionship, with the first units scheduled for delivery in the second half of 2027. The US-bas…
+Bellefontaine High School hosted 85 middle school and high school robotics teams from across Ohio on Saturday, November 14, for the King of the Hill VEX…
 
-Robotics & Automation News • 22h ago
-
----
-
-**[Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test](https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html)**
-
-Tech Xplore • 26m ago
+Peak of Ohio • 1d ago
 
 ---
 
-**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/)**
+**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5)**
 
-Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
+WSJ • 3d ago
 
-Boston Dynamics • 2d ago
+---
+
+**[It's the Mighty Morphin' Quadrotors?!](https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 3h ago
+
+---
+
+**[Enhancing Fireground Operations with Drones, Robotics and Smart Technology](https://www.firehouse.com/white-papers/whitepaper/55420526/enhancing-fireground-operations-with-drones-robotics-and-smart-technology)**
+
+Fire departments are embracing technology at all levels of emergency response
+
+Firehouse.com • 2h ago
 
 ---
 
@@ -186,23 +186,13 @@ Boston Dynamics • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
+**[How to Build a Self-Balancing Propeller Rod #robotics🌪️⚙️](https://www.youtube.com/watch?v=2xZ1faGBmWo)**
 
-On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
+Original video credit: IG/@pcbaxinxin5637. The video shows a self-balancing inverted pendulum: a vertical rod with a ...
 
-📺 FRAME
+📺 History Seeker
 
-👁️ 14K • 👍 205 • ⏱️ 21:17 • 2d ago
-
----
-
-**[Two Xiaomi Humanoid Robots Worked an 8-Hour Car Factory Shift](https://www.youtube.com/watch?v=NIQnni5l7l0)**
-
-THIS MONTH: Two full-size Xiaomi humanoid robots completed an eight-hour-and-five-minute production shift at Xiaomi's Beijing ...
-
-📺 Bradford Manning
-
-👁️ 18K • 👍 457 • 💬 18 • ⏱️ 1:14 • 2d ago
+👁️ 9K • 👍 137 • 💬 2 • ⏱️ 0:07 • 7h ago
 
 ---
 
@@ -212,7 +202,7 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 173K • 👍 561 • 💬 455 • ⏱️ 2:44 • 3d ago
+👁️ 175K • 👍 570 • 💬 458 • ⏱️ 2:44 • 3d ago
 
 ---
 
@@ -222,7 +212,17 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 Gramixa
 
-👁️ 510K • 💬 17 • ⏱️ 8:11 • 2d ago
+👁️ 550K • 💬 17 • ⏱️ 8:11 • 2d ago
+
+---
+
+**[Two Xiaomi Humanoid Robots Worked an 8-Hour Car Factory Shift](https://www.youtube.com/watch?v=NIQnni5l7l0)**
+
+THIS MONTH: Two full-size Xiaomi humanoid robots completed an eight-hour-and-five-minute production shift at Xiaomi's Beijing ...
+
+📺 Bradford Manning
+
+👁️ 18K • 👍 458 • 💬 18 • ⏱️ 1:14 • 2d ago
 
 ---
 
@@ -232,33 +232,27 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 220K • 👍 3K • 💬 632 • ⏱️ 2:12:13 • 3d ago
+👁️ 222K • 👍 3K • 💬 635 • ⏱️ 2:12:13 • 4d ago
 
 ---
 
-**[IO #robot #robotics #robotdance #transformers #shorts #shortvideo #entertainment](https://www.youtube.com/watch?v=qRNu0bwaVVE)**
+**[Rifle-equipped ROBOT DOGS deployed to reclaim gang-controlled stadium](https://www.youtube.com/watch?v=ard7h54M-qU)**
 
-📺 SirNex Tv
+Salvadoran President Nayib Bukele releases footage showing troops deploying rifle-equipped robotic dogs during an operation to ...
 
-👁️ 1K • 👍 6 • ⏱️ 0:58 • 10h ago
+📺 Fox News
 
----
-
-**[Intake + Claw Cycle #vex #vexrobotics #build #building #v5rc #engineering #robotics #test #intakes](https://www.youtube.com/watch?v=DnU8IpiPTYY)**
-
-📺 Dynamo Robotics
-
-👁️ 60K • 👍 274 • 💬 14 • ⏱️ 0:07 • 1d ago
+👁️ 210K • 👍 3K • 💬 694 • ⏱️ 0:20 • 5d ago
 
 ---
 
-**[ULTIMATE is already OUTDATED! War Robots](https://www.youtube.com/watch?v=Bu8EC6MY-Wc)**
+**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
 
-War Robots Gameplay: Ultimate Ravana with UE Havoc / Tarans - both weapons perform badly despite being highly expensive ...
+Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
 
-📺 Manni-Gaming
+📺 Cleo Abram
 
-👁️ 16K • 👍 502 • 💬 166 • ⏱️ 16:29 • 1d ago
+👁️ 205K • 👍 17K • 💬 222 • ⏱️ 1:05 • 6h ago
 
 ---
 
@@ -268,17 +262,27 @@ Several companies are racing to become dominant forces in humanoid robots, but t
 
 📺 CNET
 
-👁️ 43K • 👍 389 • 💬 41 • ⏱️ 4:02 • 5d ago
+👁️ 43K • 👍 391 • 💬 41 • ⏱️ 4:02 • 5d ago
 
 ---
 
-**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
+**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
 
-ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
+Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
 
-📺 MuffinJuice
+📺 Unbox Therapy
 
-👁️ 570K • 👍 21K • 💬 2K • ⏱️ 15:00 • 14h ago
+👁️ 598K • 👍 29K • 💬 61 • ⏱️ 1:24 • 2d ago
+
+---
+
+**[MORE EXPENSIVE Upgrades with SPARE PARTS in War Robots!](https://www.youtube.com/watch?v=2PuFIDeUBfc)**
+
+War Robots Gameplay: NEW Feature / Currency SPARE PARTS will make upgrading more expensive. My War Robots Creator ...
+
+📺 Manni-Gaming
+
+👁️ 36K • 👍 1K • 💬 584 • ⏱️ 17:12 • 1d ago
 
 ---
 
