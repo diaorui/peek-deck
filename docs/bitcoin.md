@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-19T23:09:46.482712+00:00'
+updated: '2026-11-20T04:10:09.873847+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 19, 2026 at 23:09 UTC  
+**Last Updated:** November 20, 2026 at 04:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,107.50
+### $61,945.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -9.2%  
-**30d:** -26.2%  
-**90d:** -19.5%  
-**1y:** -28.7%  
+**24h:** -2.5%  
+**7d:** -3.8%  
+**30d:** -24.2%  
+**90d:** -20.6%  
+**1y:** -27.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1248.18B
+**Market Cap:** $1243.55B
 Rank #1
 
 **Circulating Supply:** 20,114,434 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--50.8%
+-51.0%
 
 **All-Time Low:** $67.81
-+91411.6%
++91063.5%
 
 ---
 
@@ -97,7 +97,7 @@ We’re so back! /s
 
 Congrats everyone.
 
-4d ago
+5d ago
 
 ---
 
@@ -125,7 +125,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 62 > 64.5
 
-4d ago
+5d ago
 
 ---
 
@@ -133,13 +133,13 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 I really have no words of hope. But I am holding on.
 
-4d ago
+5d ago
 
 ---
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1xwizma/hodl/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -147,7 +147,7 @@ I really have no words of hope. But I am holding on.
 
 What is going on with Bitcoin today?
 
-4d ago
+5d ago
 
 ---
 
@@ -159,63 +159,49 @@ What is going on with Bitcoin today?
 
 MSTR stock is now worth less than its bitcoin and cash holdings net of debt, Strategy's website shows. Here's why that matters.
 
-Investor's Business Daily • 2h ago
-
----
-
-**[Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly](https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html)**
-
-Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.
-
-CNBC • 3d ago
-
----
-
-**[Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-19-224502799.html)**
-
-Investors are continuing to reduce their exposure to digital assets as the cryptocurrency bear market drags on.
-
-Yahoo Finance • 24m ago
-
----
-
-**[Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble](https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech)**
-
-CoinDesk • 2h ago
+Investor's Business Daily • 7h ago
 
 ---
 
 **[Bitcoin Bounces Back Into Green Ahead of Anthropic IPO](https://www.bloomberg.com/news/articles/2026-11-19/bitcoin-bounces-back-into-green-ahead-of-anthropic-ipo)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[Bitcoin, crypto get a modest boost amid Anthropic bullishness](https://www.tradingview.com/news/seekingalpha:fdca2acf5094b:0-bitcoin-crypto-get-a-modest-boost-amid-anthropic-bullishness/)**
+**[Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble](https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech)**
 
-Bitcoin BITSTAMP:BTCUSD perked back up toward $64K on Thursday after dipping close to $62K overnight, as spirits brightened with Anthropic's NASDAQ:ANT record-setting $81B IPO.The appetite for the AI giant's IPO indicates there's still investor tolerance for risk after Nvidia's NASDAQ:NVDA travails…
+CoinDesk • 7h ago
 
-TradingView • 8h ago
+---
+
+**[Is Anthropic the reason for bitcoin's pullback?](https://finance.yahoo.com/video/is-anthropic-the-reason-for-bitcoins-pullback-175639902.html)**
+
+Scott Melker looks at the impact of Anthropic's (ANT) IPO on bitcoin's (BTC-USD) recent pullback. Are investors freeing up funds for the highly anticipated IPO, or are broader market forces driving bitcoin lower?
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month](https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000)**
+
+The bitcoin price fell under $62,000 on Thursday, down about 24% in one month, as Anthropic's Nasdaq debut sparked a tech selloff that hit crypto stocks.
+
+Bitcoin Magazine • 7h ago
 
 ---
 
 **[Bank Collapse In Paraguay Sparks Bitcoin Curiosity](https://www.forbes.com/sites/frankcorva/2026/11/19/bank-collapse-in-paraguay-sparks-bitcoin-curiosity/)**
 
-Forbes • 7h ago
+Forbes • 12h ago
 
 ---
 
-**[Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000](https://bitcoinmagazine.com/markets/sygnum-bitcoin-new-high-128000)**
+**[Trump Media wants to clear $884 million of debt without selling its bitcoin (BTC)](https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin)**
 
-Sygnum Bank estimates bitcoin could reach a new high near $128,000 and calls the current drawdown the shallowest bear market to date.
-
-Bitcoin Magazine • 5h ago
-
----
-
-**['The Bitcoin Standard' Author Says BTC Has Bottomed Around $60,000: 'I Can't See It Dropping Much Below T](https://www.benzinga.com/crypto/cryptocurrency/26/11/63419870/the-bitcoin-standard-author-says-btc-has-bottomed-around-60000-i-cant-see-it-dropping-much-below-this)**
-
-Benzinga • 12h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -223,7 +209,23 @@ Benzinga • 12h ago
 
 This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close.
 
-The Motley Fool • 12h ago
+The Motley Fool • 17h ago
+
+---
+
+**[Bitcoin Price: Heading For The $50,000s?](https://www.trefis.com/stock/btc-usd/articles/626622/bitcoin-price-heading-for-the-50000s/2026-11-19)**
+
+Today's big story: Could Anthropic Stock Fall 25%? Bitcoin (BTC) peaked at $86,603 on September 21 and trades near $63,500 now - a 27% drop in 59 days.
+
+Trefis • 17h ago
+
+---
+
+**[Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature](https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature)**
+
+A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.
+
+Decrypt • 7h ago
 
 ---
 
@@ -251,7 +253,7 @@ Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bot
 
 I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of buzzwords was long and unending - proof-of-work, Merkle trees, elliptic curves, smart contracts, DeF
 
-⬆️ 2 • 💬 0 • 4d ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
+⬆️ 2 • 💬 0 • 5d ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
 
 ---
 
@@ -281,7 +283,7 @@ My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
 **[Ask HN: What use are the non-major cryptocurrencies?](https://news.ycombinator.com/item?id=50493695)**
 
-⬆️ 4 • 💬 5 • 5d ago
+⬆️ 4 • 💬 5 • 6d ago
 
 ---
 
@@ -309,13 +311,23 @@ How language models run on GPUs, explained with interactive diagrams.
 
 ## YouTube Videos: "bitcoin"
 
+**[David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k](https://www.youtube.com/watch?v=fN-U69aCJOY)**
+
+David Lawant, Head of Research at Anchorage Digital, joins BMTV to break down what's really driving Bitcoin's sell-off and who's ...
+
+📺 Bitcoin Magazine
+
+👁️ 14K • 👍 129 • 💬 39 • ⏱️ 19:07 • 6h ago
+
+---
+
 **[Bitcoin just started showing every bottom signal at once](https://www.youtube.com/watch?v=cPsOQL3zSRg)**
 
 Scott Melker gives the Anthropic IPO partial credit for Bitcoin's slide, then names four bigger drivers: where we are in the cycle, the ...
 
 📺 Yahoo Finance
 
-👁️ 28K • 👍 470 • 💬 106 • ⏱️ 14:51 • 5h ago
+👁️ 42K • 👍 585 • 💬 113 • ⏱️ 14:51 • 10h ago
 
 ---
 
@@ -325,17 +337,7 @@ Bitcoin is down 27% since September 21 and about 50% from its all-time high. So 
 
 📺 Joe Burnett
 
-👁️ 30K • 👍 446 • 💬 58 • ⏱️ 12:08 • 9h ago
-
----
-
-**[CODE ORANGE: DID BANKS GO DARK TO BUY BITCOIN?!](https://www.youtube.com/watch?v=SagE10bsb0k)**
-
-Bitcoin is holding while banks go down, Rustin says, and he breaks down what he calls a Code Orange, including the Fed's ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 2K • 💬 67 • ⏱️ 11:54 • 23h ago
+👁️ 41K • 👍 520 • 💬 69 • ⏱️ 12:08 • 14h ago
 
 ---
 
@@ -345,17 +347,7 @@ SPONSOR: —————————————————————— Join
 
 📺 DataDash
 
-👁️ 9K • 👍 285 • 💬 79 • ⏱️ 26:34 • 12h ago
-
----
-
-**[The UNTHINKABLE is About to Happen to Crypto](https://www.youtube.com/watch?v=jk19_P5fWmo)**
-
-All Hell Is Breaking Loose In Crypto (So What Comes Next?) Earn $14550 in 14 days as a new user on Bitbase (sign-up ...
-
-📺 Altcoin Daily
-
-👁️ 65K • 👍 2K • 💬 93 • ⏱️ 9:04 • 23h ago
+👁️ 10K • 👍 307 • 💬 89 • ⏱️ 26:34 • 17h ago
 
 ---
 
@@ -365,7 +357,37 @@ What is the bull's dilemma? Let's discuss! 0:00 - INTRO 0:21 Conference access a
 
 📺 Benjamin Cowen
 
-👁️ 211K • 👍 7K • 💬 510 • ⏱️ 48:00 • 1d ago
+👁️ 215K • 👍 7K • 💬 517 • ⏱️ 48:00 • 1d ago
+
+---
+
+**[⚠️ ये क्या बोल दिया BITCOIN $10K ? WHY BITCOIN GOLD SILVER CRYPTO  CRASHING ? MORE CRASH COMING ?](https://www.youtube.com/watch?v=MBsW_RsDvD8)**
+
+In this video, We will share why bitcoin crypto gold silver market crashing and what are the reasons & more crash coming ?
+
+📺 Bitcoin Expert India
+
+👁️ 18K • 👍 629 • ⏱️ 15:38 • 20h ago
+
+---
+
+**[Bitcoin’s Last Line of Defense Is $58K](https://www.youtube.com/watch?v=sqFLEyEftIQ)**
+
+Katie Stockton, Founder of Fairlead Strategies, joins BMTV as Bitcoin falls below its 200-week moving average, sitting at about ...
+
+📺 Bitcoin Magazine
+
+👁️ 9K • 👍 119 • 💬 22 • ⏱️ 11:53 • 8h ago
+
+---
+
+**[Why Bitcoin and Gold Are Crashing Into the Biggest IPO Ever](https://www.youtube.com/watch?v=c2eQZWCEsWU)**
+
+Bitcoin and gold are crashing as Anthropic launches the biggest IPO in history, raising $81 billion and reaching a $2 trillion ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 974 • 💬 78 • ⏱️ 16:00 • 5h ago
 
 ---
 
@@ -375,37 +397,17 @@ Unlock 15% Deposit Bonus as a new user on on BTCC: ...
 
 📺 Altcoin Daily
 
-👁️ 87K • 👍 2K • 💬 95 • ⏱️ 10:02 • 1d ago
+👁️ 90K • 👍 2K • 💬 99 • ⏱️ 10:02 • 2d ago
 
 ---
 
-**[🚨 Bitcoin&#39;s MASSIVE $48,000 Warning](https://www.youtube.com/watch?v=xNCUPBIQfDs)**
+**[If This Happens, Bitcoin Failed](https://www.youtube.com/watch?v=F3gH_t38ZDY)**
 
-Bitcoin's MASSIVE $48000 Warning Bitcoin is flashing a massive $48000 warning, raising major questions about the next move in ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 134 • 💬 45 • ⏱️ 6:56 • 23h ago
-
----
-
-**[Bitcoin CLOSES In On $60K As Price Keeps DUMPING! New Low?](https://www.youtube.com/watch?v=Op88m4JbLKE)**
-
-Bitcoin is closing in on 60K as the selling continues. Where does the pain end? Nick Valdez, Chief Crypto Strategist for Verified ...
-
-📺 Verified Investing
-
-👁️ 20K • 👍 514 • 💬 67 • ⏱️ 26:23 • 1d ago
-
----
-
-**[If Bitcoin Hits This Price, the Supercycle Is Dead](https://www.youtube.com/watch?v=RsCi56hEriU)**
-
-Strive CEO Matt Cole joins me to name the exact Bitcoin price that would prove his own thesis wrong, why he's happy to pay 15% ...
+Strive CEO Matt Cole on The Natalie Brunell Show shares what price drop would invalidate his super cycle theory, why long ...
 
 📺 Natalie Brunell
 
-👁️ 63K • 👍 1K • 💬 157 • ⏱️ 58:36 • 2d ago
+👁️ 20K • 👍 211 • 💬 33 • ⏱️ 1:00 • 1d ago
 
 ---
 
