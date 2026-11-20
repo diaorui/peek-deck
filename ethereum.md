@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-19T23:09:46.488681+00:00'
+updated: '2026-11-20T04:10:09.877850+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 19, 2026 at 23:09 UTC  
+**Last Updated:** November 20, 2026 at 04:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,760.89
+### $1,750.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -9.0%  
-**30d:** -29.0%  
-**90d:** -27.6%  
-**1y:** -38.2%  
+**24h:** -3.7%  
+**7d:** -2.1%  
+**30d:** -27.5%  
+**90d:** -29.7%  
+**1y:** -37.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $214.60B
+**Market Cap:** $212.08B
 Rank #2
 
-**Circulating Supply:** 122,233,328 ETH
+**Circulating Supply:** 122,236,258 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.5%
+-64.9%
 
 **All-Time Low:** $0.43
-+405381.6%
++400566.1%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?
 
-4d ago
+5d ago
 
 ---
 
@@ -152,11 +152,11 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[Is Ethereum a Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/ethereum-buy-now-092002116.html)**
+**[Vitalik Buterin Just Gave Ethereum Investors a Wake-Up Call. Here’s Why It Could Be Time to Sell.](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-just-gave-ethereum-123002657.html)**
 
-Ethereum may be down 64% from its 2025 highs, but a turnaround could be right around the corner.
+Ethereum's leader is signaling that it won't seek to deliver on one of the main investment theses for buying the coin.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -170,13 +170,13 @@ CoinDesk • 1d ago
 
 This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close.
 
-The Motley Fool • 12h ago
+The Motley Fool • 17h ago
 
 ---
 
 **[What's next Bitcoin, Ethereum and XRP rise?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rise-etf-capital-outflows-202611191125)**
 
-FXStreet • 11h ago
+FXStreet • 16h ago
 
 ---
 
@@ -192,7 +192,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 14h ago
 
 ---
 
@@ -202,25 +202,25 @@ Benzinga • 1d ago
 
 ---
 
+**[Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further](https://www.ccn.com/news/crypto/bitcoin-ethereum-solana-open-interest-drop/)**
+
+CCN.com • 15h ago
+
+---
+
 **[Black Betty Universe announces the launch of Betty Token (BETTY) on Ethereum](https://cryptobriefing.com/black-betty-universe-announces-the-launch-of-betty-token-betty-on-ethereum/)**
 
 london, United Kingdom, 19th November 2026, Chainwire
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 14h ago
 
 ---
 
-**[Gonka Bridge Exploit Drains Stablecoins, Mints WGNK](https://thedefiant.io/news/hacks/gonka-bridge-exploit-drains-stablecoins-mints-wgnk)**
+**[Citi cuts Bitcoin price target to $99,532, Ethereum to $2,838](https://www.tradingview.com/news/cryptobriefing:498881deb094b:0-citi-cuts-bitcoin-price-target-to-99-532-ethereum-to-2-838/)**
 
-The Defiant • 1d ago
+Citi has lowered its 12-month price targets for the two largest crypto assets. As of November 18, 2026, the bank's target is $99,532 for Bitcoin and $2,838 for Ethereum.This is a retreat from the more ambitious numbers Citi published just weeks earlier.The cut matters because of where Bitcoin actua…
 
----
-
-**[Why Ethereum faces a liquidity test as Binance reserves drop to annual lows](https://ambcrypto.com/why-ethereum-faces-a-liquidity-test-as-binance-reserves-drop-to-annual-lows/)**
-
-The falling stablecoin and ETH reserve were a cautious combination.
-
-AMBCrypto • 7h ago
+TradingView • 1d ago
 
 ---
 
@@ -228,23 +228,23 @@ AMBCrypto • 7h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Cathie Wood &amp; Lyn Alden Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=0PRiBVgRXv4)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 201 • 💬 54 • ⏱️ 24:24 • 5h ago
-
----
-
 **[How a 19 Year Old Built Ethereum](https://www.youtube.com/watch?v=38Cxn9WpttM)**
 
 Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 280 • 💬 22 • ⏱️ 24:39 • 9h ago
+👁️ 18K • 👍 321 • 💬 27 • ⏱️ 24:39 • 14h ago
+
+---
+
+**[Cathie Wood &amp; Lyn Alden Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=0PRiBVgRXv4)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 16K • 👍 249 • 💬 36 • ⏱️ 24:24 • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ Ethereum is sitting on its main support at $1724, the 78.6% retracement, but the
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 118 • 💬 7 • ⏱️ 6:52 • 5h ago
+👁️ 6K • 👍 129 • 💬 7 • ⏱️ 6:52 • 10h ago
 
 ---
 
@@ -264,7 +264,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 289 • 💬 67 • ⏱️ 25:11 • 1d ago
+👁️ 21K • 👍 295 • 💬 68 • ⏱️ 25:11 • 1d ago
 
 ---
 
@@ -274,17 +274,7 @@ BITCOIN & CRYPTO EMERGENCY (Liquidations Happening)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 2K • 👍 131 • 💬 113 • ⏱️ 20:42 • 2h ago
-
----
-
-**[Ethereum Price Prediction: Back on the 5-Year Line!!](https://www.youtube.com/watch?v=NCUOY5zUyEc)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v117 CoinGPT - the AI Trade Agent I ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 32 • 💬 6 • ⏱️ 3:49 • 1d ago
+👁️ 8K • 👍 228 • 💬 63 • ⏱️ 20:42 • 7h ago
 
 ---
 
@@ -304,7 +294,17 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 8K • 👍 971 • 💬 60 • ⏱️ 25:44 • 1h ago
+👁️ 32K • 👍 2K • 💬 143 • ⏱️ 25:44 • 6h ago
+
+---
+
+**[Ethereum Price Prediction: Back on the 5-Year Line!!](https://www.youtube.com/watch?v=NCUOY5zUyEc)**
+
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v117 CoinGPT - the AI Trade Agent I ...
+
+📺 Marzell Crypto
+
+👁️ 3K • 👍 32 • 💬 6 • ⏱️ 3:49 • 1d ago
 
 ---
 
@@ -314,17 +314,17 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 310 • 👍 7 • 💬 18 • ⏱️ 3:13 • 9h ago
+👁️ 426 • 👍 7 • 💬 2 • ⏱️ 3:13 • 14h ago
 
 ---
 
-**[Crypto treasuries are UNDERWATER. Time to go up? Bitcoin Ethereum HEX PulseChain News](https://www.youtube.com/watch?v=p1C6CvWE2eM)**
+**[Ethereum Is On Sale](https://www.youtube.com/watch?v=lrJcyKsqqN4)**
 
-PROTECT YOUR CRYPTO → Limited-edition PulseChain metal seed phrase card: https://pulsechaincards.com Store your ...
+Bored of ETH going nowhere? That's usually where the opportunity is. ETH just filled the $2350 imbalance, same as Bitcoin.
 
-📺 Crypto Coffee
+📺 CryptoCharged
 
-👁️ 3K • 👍 158 • 💬 24 • ⏱️ 48:52 • 1d ago
+👁️ 303 • 👍 3 • 💬 10 • ⏱️ 1:25 • 1d ago
 
 ---
 

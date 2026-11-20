@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-19T23:09:46.491836+00:00'
+updated: '2026-11-20T04:10:09.880022+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 19, 2026 at 23:09 UTC  
+**Last Updated:** November 20, 2026 at 04:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-4d ago
+5d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-4d ago
+5d ago
 
 ---
 
@@ -110,31 +110,25 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[Humanoid robots will become a common sight in China](https://www.economist.com/the-world-ahead/2026/11/18/humanoid-robots-will-become-a-common-sight-in-china)**
-
-The Economist • 1d ago
-
----
-
-**[Inside the world of China's humanoid robots](https://www.cbsnews.com/video/inside-the-world-of-chinas-humanoid-robots/)**
-
-CBS News • 20h ago
-
----
-
-**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/)**
-
-Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
-
-Boston Dynamics • 2d ago
-
----
-
 **[Gemini 4 Hydrogen: a faster model for general purpose robotics](https://developers.googleblog.com/gemini-hydrogen-for-robotics/)**
 
 Discover Gemini 4 Hydrogen: a fast, cost-effective model for robotics featuring real-time spatial reasoning, agentic control, and seamless integration with the Antigravity Robotics plugin and MuJoCo simulation.
 
 Google for Developers Blog • 2d ago
+
+---
+
+**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+
+Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+
+TechCrunch • 1d ago
+
+---
+
+**[Get ready for humanoid robots, says He Xiaopeng](https://www.economist.com/the-world-ahead/2026/11/18/get-ready-for-humanoid-robots-says-he-xiaopeng)**
+
+The Economist • 1d ago
 
 ---
 
@@ -146,23 +140,23 @@ Reuters • 2d ago
 
 **[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
 
-WSJ • 1h ago
+WSJ • 2d ago
 
 ---
 
-**[Cornell AgriTech cuts ribbon on Center for Agricultural Robotics in Geneva](https://13wham.com/news/local/cornell-agritech-cuts-ribbon-on-center-for-agricultural-robotics-in-geneva)**
+**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/)**
 
-Cornell AgriTech cut the ribbon Thursday on the new Center for Agricultural Robotics at its Geneva campus.
+Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
 
-13WHAM-TV • 1h ago
+Boston Dynamics • 2d ago
 
 ---
 
-**[U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow](https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones)**
+**[AI-powered delivery robots are ready to take over. They have to navigate rowdy pedestrians and walk signals first.](https://www.businessinsider.com/avride-delivery-robots-face-humans-traffic-urban-rollout-2026-11)**
 
-Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.
+Avride's AI-powered delivery robots expand in Jersey City, Hoboken, Philadelphia and Arlington, navigating sidewalks, traffic and human tampering.
 
-NPR • 3d ago
+Business Insider • 17h ago
 
 ---
 
@@ -170,15 +164,23 @@ NPR • 3d ago
 
 Bellefontaine High School hosted 85 middle school and high school robotics teams from across Ohio on Saturday, November 14, for the King of the Hill VEX…
 
-Peak of Ohio • 7h ago
+Peak of Ohio • 12h ago
 
 ---
 
-**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+**[Anthropic makes historic Wall Street debut at $1.5 trillion valuation](https://interestingengineering.com/ai-robotics/anthropic-ipo-1-5-trillion-valuation)**
 
-Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+Anthropic raises more than $100 billion in a historic IPO, reaching a $1.5 trillion valuation as shares fluctuate during their Nasdaq debut.
 
-TechCrunch • 1d ago
+Interesting Engineering • 9h ago
+
+---
+
+**[Cornell AgriTech cuts ribbon on Center for Agricultural Robotics in Geneva](https://13wham.com/news/local/cornell-agritech-cuts-ribbon-on-center-for-agricultural-robotics-in-geneva)**
+
+Cornell AgriTech cut the ribbon Thursday on the new Center for Agricultural Robotics at its Geneva campus.
+
+13WHAM-TV • 6h ago
 
 ---
 
@@ -192,27 +194,7 @@ On this feature on FRAME, we take you inside the manufacturing process behind At
 
 📺 FRAME
 
-👁️ 12K • 👍 191 • ⏱️ 21:17 • 1d ago
-
----
-
-**[Humanoid Robot Show LIVE | Trump, Putin &amp; Xi Jinping Attend APEC 2026 Summit In China](https://www.youtube.com/watch?v=6izp0f3pZXw)**
-
-China's humanoid robots take centre stage at the APEC Summit 2026 in Shenzhen as world leaders Donald Trump, Xi Jinping ...
-
-📺 NDTV Profit
-
-👁️ 217K • 👍 964 • 💬 118 • ⏱️ 20:56 • 18h ago
-
----
-
-**[Two Xiaomi Humanoid Robots Worked an 8-Hour Car Factory Shift](https://www.youtube.com/watch?v=NIQnni5l7l0)**
-
-THIS MONTH: Two full-size Xiaomi humanoid robots completed an eight-hour-and-five-minute production shift at Xiaomi's Beijing ...
-
-📺 Bradford Manning
-
-👁️ 17K • 👍 454 • 💬 18 • ⏱️ 1:14 • 1d ago
+👁️ 13K • 👍 194 • ⏱️ 21:17 • 1d ago
 
 ---
 
@@ -222,7 +204,35 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 161K • 👍 536 • 💬 435 • ⏱️ 2:44 • 2d ago
+👁️ 165K • 👍 549 • 💬 444 • ⏱️ 2:44 • 2d ago
+
+---
+
+**[Humanoid Robot Show LIVE | Trump, Putin &amp; Xi Jinping Attend APEC 2026 Summit In China](https://www.youtube.com/watch?v=6izp0f3pZXw)**
+
+China's humanoid robots take centre stage at the APEC Summit 2026 in Shenzhen as world leaders Donald Trump, Xi Jinping ...
+
+📺 NDTV Profit
+
+👁️ 243K • 👍 1K • 💬 129 • ⏱️ 20:56 • 23h ago
+
+---
+
+**[Two Xiaomi Humanoid Robots Worked an 8-Hour Car Factory Shift](https://www.youtube.com/watch?v=NIQnni5l7l0)**
+
+THIS MONTH: Two full-size Xiaomi humanoid robots completed an eight-hour-and-five-minute production shift at Xiaomi's Beijing ...
+
+📺 Bradford Manning
+
+👁️ 18K • 👍 456 • 💬 18 • ⏱️ 1:14 • 2d ago
+
+---
+
+**[IO #robot #robotics #robotdance #transformers #shorts #shortvideo #entertainment](https://www.youtube.com/watch?v=qRNu0bwaVVE)**
+
+📺 SirNex Tv
+
+👁️ 835 • 👍 6 • ⏱️ 0:58 • 1h ago
 
 ---
 
@@ -232,7 +242,17 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 Gramixa
 
-👁️ 340K • 💬 14 • ⏱️ 8:11 • 1d ago
+👁️ 373K • 💬 15 • ⏱️ 8:11 • 1d ago
+
+---
+
+**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
+
+ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
+
+📺 MuffinJuice
+
+👁️ 212K • 👍 13K • 💬 2K • ⏱️ 15:00 • 5h ago
 
 ---
 
@@ -242,7 +262,7 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 215K • 👍 3K • 💬 633 • ⏱️ 2:12:13 • 3d ago
+👁️ 216K • 👍 3K • 💬 633 • ⏱️ 2:12:13 • 3d ago
 
 ---
 
@@ -252,37 +272,17 @@ Several companies are racing to become dominant forces in humanoid robots, but t
 
 📺 CNET
 
-👁️ 42K • 👍 384 • 💬 41 • ⏱️ 4:02 • 4d ago
+👁️ 42K • 👍 385 • 💬 41 • ⏱️ 4:02 • 4d ago
 
 ---
 
-**[Tesla’s New Optimus Gen 4 Plan Is Shocking The Entire Robotics Industry!](https://www.youtube.com/watch?v=qBPRmF6QuWs)**
+**[Here&#39;s a look at some of China&#39;s newest humanoid robots](https://www.youtube.com/watch?v=PWNVZLzYdq4)**
 
-Elon Musk says Tesla Bot Gen 4 will be built at a rate of 10 million humanoid robots a year—one robot every 3 seconds, day and ...
+Tony Dokoupil takes a look at China's advanced humanoid robots. Last year, China installed more industrial robots than the rest ...
 
-📺 States 2050
+📺 CBS Evening News
 
-👁️ 111K • 👍 2K • 💬 60 • ⏱️ 26:12 • 6d ago
-
----
-
-**[Inside China&#39;s emerging ‘Robot Valley’](https://www.youtube.com/watch?v=6ZKG95kf7g0)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube In the southern Chinese city of Shenzhen, ...
-
-📺 South China Morning Post
-
-👁️ 21K • 👍 144 • 💬 23 • ⏱️ 4:51 • 2d ago
-
----
-
-**[China&#39;s Breathtaking APEC Spectacle: 151 Robots Dance In Perfect Sync, Create Guinness World Record](https://www.youtube.com/watch?v=s4FamEpfiAE)**
-
-China pulled off a spectacular robotic showcase as 151 robots danced in perfect synchronisation during the grand welcome ...
-
-📺 Firstpost
-
-👁️ 210K • 👍 781 • 💬 484 • ⏱️ 8:29 • 1d ago
+👁️ 26K • 👍 104 • 💬 51 • ⏱️ 2:05 • 1d ago
 
 ---
 
