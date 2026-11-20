@@ -8,9 +8,9 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "preview_image": "https://opengraph.githubassets.com/2e19369f1c616da6622c8b971f339d5febe6ed41b9f04b0c64ca084a6de515b7/heydamir/unslop",
-      "stars": 18739,
-      "stars_display": "18.7k",
-      "forks": 1123,
+      "stars": 18995,
+      "stars_display": "19.0k",
+      "forks": 1143,
       "forks_display": "1.1k",
       "language": "JavaScript",
       "topics": [],
@@ -24,10 +24,10 @@
       "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u4e2a\u955c\u5934\u770b\u662f\u62cd\u7684\u3001AI \u751f\u6210\u7684\u8fd8\u662f\u4ee3\u7801\u505a\u7684\uff0c\u518d\u544a\u8bc9\u4f60\u600e\u4e48\u590d\u523b\uff1b\u62c6\u89e3\u7ed3\u679c\u6309 VIDEO.md \u683c\u5f0f\u8f93\u51fa\u3002",
       "url": "https://github.com/JuneYaooo/rea-video",
       "preview_image": "https://repository-images.githubusercontent.com/1438661890/d788df99-c663-416e-8859-67af82fb3eff",
-      "stars": 11115,
-      "stars_display": "11.1k",
-      "forks": 1649,
-      "forks_display": "1.6k",
+      "stars": 11271,
+      "stars_display": "11.3k",
+      "forks": 1675,
+      "forks_display": "1.7k",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -36,7 +36,7 @@
         "claude-code",
         "codex"
       ],
-      "updated_at": "2026-11-20T02:22:58Z"
+      "updated_at": "2026-11-20T06:30:28Z"
     },
     {
       "full_name": "wangzan101/Mika",
@@ -46,9 +46,9 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "preview_image": "https://opengraph.githubassets.com/4870ca74c240f7e90589b47bd38147c836923264feaea374f51fb823186477f9/wangzan101/Mika",
-      "stars": 9210,
-      "stars_display": "9.2k",
-      "forks": 2075,
+      "stars": 9259,
+      "stars_display": "9.3k",
+      "forks": 2084,
       "forks_display": "2.1k",
       "language": "Kotlin",
       "topics": [
@@ -58,7 +58,7 @@
         "automation",
         "jetpack-compose"
       ],
-      "updated_at": "2026-11-20T03:34:36Z"
+      "updated_at": "2026-11-20T13:19:15Z"
     },
     {
       "full_name": "rddmwmddr/android-ad-cleaner",
@@ -68,10 +68,10 @@
       "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "preview_image": "https://opengraph.githubassets.com/90ae0a75a3e9c38cd8d52a7d12f46bcd5561230371bacc791c758845c57ae397/rddmwmddr/android-ad-cleaner",
-      "stars": 8457,
+      "stars": 8509,
       "stars_display": "8.5k",
-      "forks": 729,
-      "forks_display": "729",
+      "forks": 735,
+      "forks_display": "735",
       "language": "Python",
       "topics": [
         "adb",
@@ -90,9 +90,9 @@
       "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "preview_image": "https://opengraph.githubassets.com/7d409f4bfe0a07d447b000e33967985618a71724e92b313dc5901a0015f05c2e/anhao/ai-pose-gallery-zh",
-      "stars": 7368,
+      "stars": 7427,
       "stars_display": "7.4k",
-      "forks": 1886,
+      "forks": 1908,
       "forks_display": "1.9k",
       "language": "TypeScript",
       "topics": [
@@ -112,10 +112,10 @@
       "description": "\ud83d\udee1\ufe0f BLA (bla-agents / Blind LLM Agents) \u2014 Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).",
       "url": "https://github.com/qybaihe/bla",
       "preview_image": "https://opengraph.githubassets.com/36e2a88431dc9783f891c6e5a6ee8ffb47ba20a21b8072f2f6dc83eb52e2e4b0/qybaihe/bla",
-      "stars": 6225,
-      "stars_display": "6.2k",
-      "forks": 778,
-      "forks_display": "778",
+      "stars": 6287,
+      "stars_display": "6.3k",
+      "forks": 781,
+      "forks_display": "781",
       "language": "TypeScript",
       "topics": [
         "adversarial-ai",
@@ -134,10 +134,10 @@
       "description": "A library of behaviors for agents to build the next generation of user interfaces.",
       "url": "https://github.com/vercel-labs/ui",
       "preview_image": "https://opengraph.githubassets.com/49088c1532d769056868049a88df22cccf5b8ca63fc14524bdc2c4393beb4c42/vercel-labs/ui",
-      "stars": 6157,
+      "stars": 6221,
       "stars_display": "6.2k",
-      "forks": 214,
-      "forks_display": "214",
+      "forks": 216,
+      "forks_display": "216",
       "language": "TypeScript",
       "topics": [
         "accessibility",
@@ -146,29 +146,29 @@
         "ai",
         "aria"
       ],
-      "updated_at": "2026-11-20T04:03:40Z"
+      "updated_at": "2026-11-20T09:15:11Z"
     },
     {
-      "full_name": "expo/exact",
-      "name": "exact",
-      "owner": "expo",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/12504344?v=4",
-      "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-      "url": "https://github.com/expo/exact",
-      "preview_image": "https://repository-images.githubusercontent.com/1442385098/8a1784d6-2b8c-4f0a-9eb3-3a096d15764b",
-      "stars": 4735,
-      "stars_display": "4.7k",
-      "forks": 132,
-      "forks_display": "132",
-      "language": "Rust",
+      "full_name": "mdiri-ai/SoduWork",
+      "name": "SoduWork",
+      "owner": "mdiri-ai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/342439292?v=4",
+      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+      "url": "https://github.com/mdiri-ai/SoduWork",
+      "preview_image": "https://repository-images.githubusercontent.com/1437869585/5541cbb6-36b4-4663-8f15-b1366dbde74b",
+      "stars": 5353,
+      "stars_display": "5.4k",
+      "forks": 420,
+      "forks_display": "420",
+      "language": "JavaScript",
       "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-workflows",
         "ai-agents",
-        "appkit",
-        "coding-agents",
-        "cross-platform",
-        "css"
+        "ai-workflows"
       ],
-      "updated_at": "2026-11-20T04:08:20Z"
+      "updated_at": "2026-11-20T12:28:22Z"
     },
     {
       "full_name": "modelflare-ai/AnyModelBot",
@@ -178,8 +178,8 @@
       "description": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "url": "https://github.com/modelflare-ai/AnyModelBot",
       "preview_image": "https://opengraph.githubassets.com/0b5e30c4e9780f0ee1fa8a3e77dd58793e94c1a81c608d5ff0d7ef0c82711e15/modelflare-ai/AnyModelBot",
-      "stars": 4712,
-      "stars_display": "4.7k",
+      "stars": 4795,
+      "stars_display": "4.8k",
       "forks": 110,
       "forks_display": "110",
       "language": "Python",
@@ -190,35 +190,35 @@
         "claude",
         "computer-use"
       ],
-      "updated_at": "2026-11-19T20:01:26Z"
+      "updated_at": "2026-11-20T05:29:00Z"
     },
     {
-      "full_name": "mdiri-ai/SoduWork",
-      "name": "SoduWork",
-      "owner": "mdiri-ai",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/342439292?v=4",
-      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-      "url": "https://github.com/mdiri-ai/SoduWork",
-      "preview_image": "https://repository-images.githubusercontent.com/1437869585/5541cbb6-36b4-4663-8f15-b1366dbde74b",
-      "stars": 4297,
-      "stars_display": "4.3k",
-      "forks": 375,
-      "forks_display": "375",
-      "language": "JavaScript",
+      "full_name": "expo/exact",
+      "name": "exact",
+      "owner": "expo",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/12504344?v=4",
+      "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
+      "url": "https://github.com/expo/exact",
+      "preview_image": "https://repository-images.githubusercontent.com/1442385098/8a1784d6-2b8c-4f0a-9eb3-3a096d15764b",
+      "stars": 4774,
+      "stars_display": "4.8k",
+      "forks": 135,
+      "forks_display": "135",
+      "language": "Rust",
       "topics": [
-        "agent-harness",
-        "agent-orchestration",
-        "agent-workflows",
         "ai-agents",
-        "ai-workflows"
+        "appkit",
+        "coding-agents",
+        "cross-platform",
+        "css"
       ],
-      "updated_at": "2026-11-20T04:07:47Z"
+      "updated_at": "2026-11-20T13:23:06Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-10-21",
   "days": 30,
   "limit": 10,
-  "total_count": 492621,
-  "fetched_at": "2026-11-20T04:09:31.546311+00:00"
+  "total_count": 501772,
+  "fetched_at": "2026-11-20T13:26:20.324874+00:00"
 }

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-20T13:26:21.144074+00:00",
+  "data": {
+    "url": "https://architectlabs.com/blog/frostbite",
+    "title": "Introducing Frostbite: A new CPU architecture discovered, designed, and verified end-to-end by AI",
+    "description": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order) CPU core.",
+    "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
+    "favicon": "https://architectlabs.com/favicon.ico?favicon.08mdo-hmkdh99.ico",
+    "site_name": "Architect Labs",
+    "author": null,
+    "keywords": null
+  }
+}

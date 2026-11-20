@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zckUxSEg1ZjlDTjU5cUN3cW5Sd1NqaktmSm84eU4ybDRrSHNKbU42SEI0dUZVZmEyVXlVOWVFSGJXMzhCTkRhTHZLME16UEhmbHNkWHVoUEF6U0E?oc=5",
-      "pub_date": 1795131231.0,
-      "article_url": "https://www.bbc.com/news/articles/c3x29ggenz12o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+      "headline": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+      "source": "Google Cloud",
+      "source_url": "https://cloud.google.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEsyMTZIZmRtLWR2emJyWkNVVldUdW9Pay12YUZPRDdJZEtQN3VUWWNnWXVnaVJYUHgzdnM3NXF1Q3RKclp5Rzk4Z2QtVllIMGZCVXlCb3cyQ25sVzJna1RVLThYYXJJYXdURkpBZlRTV0RYaDdhOE9TMjhCYXpjZnNrdlhkYTZYb2psdjhRVUctUG5tVUFSbHdQa2FjVlJTMFBGR3RRaXBaNWZrSGh5NUJ3?oc=5",
+      "pub_date": 1794842949.0,
+      "article_url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
+      "description": "This AI threat update provides GTIG\u2019s findings on adversarial misuse of AI including Gemini and other non-Google tools."
     },
     {
-      "headline": "Asia shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut",
-      "source": "10TV",
-      "source_url": "https://www.10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNYkYtMzhxVUpTY28zUnYxLTYzM2NncVVXNXFXNmZoc2tDY1EwMmtmdDB6Tlp1bnZzMFBzTWdPcF9ROGFWbzVraXpfYzFaTXhQcHBzSVZJYXZvRmlmbGhZckJxak83cTJzUlN1aEoyMTNDeHJJWW92Q1V0V2VSVTgtVlo1Y2NBVml4Rl9YcTFSMmFwZ016ZFU0NXNIUkE2ZlZwNGRmMEpiVzZZc0lKdnRhS25ETHNNVnF0ZG5oRUFDTVBCb0pEemZzQWF0R3NqaEtlT3h0T0ROZEZ5OUxsUlFBX2hjRHBnLTJ2SWlIRGRLTWdpb2RCTk5lMW56ME9oRndVOVM4YjBfbklVMWZNb244UUZGY3JxSEJ5dTdkaA?oc=5",
-      "pub_date": 1795144620.0,
-      "article_url": "https://www.10tv.com/article/syndication/associatedpress/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/616-8a0cdedb-496c-459c-969f-3a19bcc4b51b",
-      "image": null,
-      "description": null
+      "headline": "Sharing AI progress in mathematics",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
+      "pub_date": 1791270000.0,
+      "article_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3430T8Aum4BAOFwLEnHQmC/bbc034e46bc5766dc6569183e87fa6df/ai-progress-in-mathematics-social.png?w=1600&h=900&fit=fill",
+      "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
     },
     {
-      "headline": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-      "pub_date": 1795119060.0,
-      "article_url": "https://www.reuters.com/world/license-information-ai-chips-sent-china-released-by-us-house-committee-2026-11-19/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "headline": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-      "pub_date": 1795118141.0,
-      "article_url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&w=1920&h=1080",
-      "description": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China."
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5",
+      "pub_date": 1791442800.0,
+      "article_url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&w=1920&h=1080",
+      "description": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed."
     },
     {
-      "headline": "China\u2019s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHpsUWpRNHV2N1B5QVI4LUdwb1VMWjB1aXRnV2I0YkowdGZDRnBLeGJWYWx3UERrRXNWWmh4QV9wQkd0UlUydEp6WDVYMVJBMHNSOXJUMHhHUUMtbjUzUFp1aXdlX283dWt1aDlUaWhYQW5oNkozeGY2dUVSbkxiZjQ2Nkd0QjBfVjVLRW44YktRbTMtdEx5ZWZuTGl6LVVvRWpWS1hfZU9pR0RVVkRYUUh3?oc=5",
-      "pub_date": 1795143600.0,
-      "article_url": "https://www.wsj.com/tech/ai/chinas-ai-firms-are-addicted-to-nvidia-chips-now-they-are-facing-withdrawal-ba851ca9",
+      "headline": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "source": "METR",
+      "source_url": "https://metr.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS2w0NHNjZzd4OFBHcklxdzBmYmdnV2hyQ0xKVHA0Tm1ENFY3Z1FsemZNZ2J1eU9Xa2VQSExGTEVmOVpiYkJrZVpjRUlnMVRNUnlxTEdWSWVsZ2JFR0UxU2dKd2FXOXJDN2dTOUZmZk5UdTVJdS1jdEtRM1B6QQ?oc=5",
+      "pub_date": 1793865600.0,
+      "article_url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "image": "https://metr.org/assets/images/ai-rd-acceleration-assessment/home-card.png",
+      "description": "METR's high-access assessment of the degree to which AI is accelerating AI research and development at Anthropic."
+    },
+    {
+      "headline": "Gemini 4 Argon: our next era of frontier intelligence",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
+      "pub_date": 1790751600.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "description": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon."
+    },
+    {
+      "headline": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+      "source": "wiz.io",
+      "source_url": "https://www.wiz.io",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfU2lySGdfMVprRm5nUmxNVVEzYjFPQTRhWV9VNzlJNlVZbWFmMVN4UE1uOFFqbVE4UFBvaWwydHUzT2VhRTVaSWVDeVhGbVpHQnEw?oc=5",
+      "pub_date": 1792566000.0,
+      "article_url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "image": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
+      "description": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web."
+    },
+    {
+      "headline": "In China, the AI bubble has already burst",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
+      "pub_date": 1793084400.0,
+      "article_url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
       "image": null,
       "description": null
     },
     {
-      "headline": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
+      "headline": "Google Will Turn Off Search for Schools That Reject A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjZHZUZJSFQ2V2t1ZFFIVEJ3ZXl5Z09YTjFnR21ZVzRkLUhzVFNpSUxnanMwVm5maEtwODBkLXhtVE9kX0pvQTlUVXBWXy1uUlM4TUJKenFQR0Z6Tm9wNk9haXU5MVlaU1ptN2ZsTEdZZk1jRGdOUlpDN1gyZnhiTWZnenUxdlNZT1dUdmF4Vll2cmstTDV6VzkzZw?oc=5",
-      "pub_date": 1795037048.0,
-      "article_url": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
+      "pub_date": 1793692800.0,
+      "article_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5",
-      "pub_date": 1795124696.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
-      "image": null,
-      "description": null
+      "headline": "The Top 100 Gen AI Consumer Apps \u2014 7th Edition",
+      "source": "Andreessen Horowitz",
+      "source_url": "https://a16z.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OUzc4QXRVTjdmRWNxUmVTZFI0Y1YyR0FqQTZxd0dqWGlKT1dPTVpucUItTXA2OTFjSXdlYTFGOHVYU29EcUpVcDFMSQ?oc=5",
+      "pub_date": 1791183600.0,
+      "article_url": "https://a16z.com/100-gen-ai-apps-7/",
+      "image": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Top-100-Gen-AI-\u2013-Worlds-Fair-OG-Image.png",
+      "description": "Which AI apps are people actively using? What\u2019s actually making money, beyond being popular? We analyzed the data in the seventh edition of our Top 100 AI Consumer Apps report."
     },
     {
-      "headline": "Apple Expands Team Building Privacy-First AI Agent",
-      "source": "PYMNTS.com",
-      "source_url": "https://www.pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckY3dFNxT0w3V250LWIyaU9mUTBzSTV6dnB1WDBiaG5iSEd0a2xGNEVXU0VzUXZ3UVBuRk1UZlZuVUZEaWFYREdyYk9MRU1ROVRTUHUtZ3J0SlpPLUFqcVd4VHRuQktLd3g5SEFrUldQMmVFNWZ3M0tLV2oxUjJpZFVTV2pJUmFMeFFaeUpfNmw4X3ZybWE1M2NrR0hIaHg0bDFNdWtWdjRMUjBO?oc=5",
-      "pub_date": 1795139550.0,
-      "article_url": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-expands-team-building-privacy-first-ai-agent/",
-      "image": "https://www.pymnts.com/wp-content/uploads/2026/05/Apple_b4b55c.jpeg",
-      "description": "Apple is building an artificial intelligence agent, the company said in a job listing for a senior engineering manager, agentic AI - proactive posted on"
-    },
-    {
-      "headline": "Google Built a Giant \u2018Mirror Dimension\u2019 Internet to Test Its Chrome AI Agents",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGJoN2NDT1pLQnRlbzdfV1ZjQlBlV1JxUjZIV1hXYVlTV2FNZWpyYTdTZWpyNXFYdm9UNDF1ZG1MZnUwakVTZmxXelN6QWJ3UGZkZHdiRTBOMUlnQTI5Sng0bC1yRDhNYjFYYmszTExwNDdNdWRBVGd6bUtwTG4wZlAtam5pUEdOU0NScGJfMEUtbHhBeHQ1ajNRQWc2UFhra0plTFFybw?oc=5",
-      "pub_date": 1795107600.0,
-      "article_url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "image": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/191:100/w_1280,c_limit/security_chrome_mirror_browser_ai_agent.jpg",
-      "description": "The company\u2019s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents\u2014without the risk of them going rogue."
-    },
-    {
-      "headline": "New bipartisan AI caucus forms with two dozen House members - Live Updates",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzNrb2RheGVkLWpCN1Z0eGF4dGRlSHF1YmRPNjBNTFJjMUdPQXU5czBzWDdQZzhOeVppelctTmttbktFTDcwVzhXWGlhMmcySklwTEplOXhPc1NOZUl4cjlqdkpnTUNXcFd6SjktUHFQbjl4VVBmdE9lN3l4RFlzdVFvSFdyN3p0dlNDLTV0MUl6NlplQ21XdzVRMDVkY3hhQVp2X2htQXRDbnJBU3ZxajQ1cE9tTHBlQmxOYUZFWHV5ZnJ1?oc=5",
-      "pub_date": 1795106022.0,
-      "article_url": "https://www.politico.com/live-updates/2026/11/19/congress/new-bipartisan-ai-caucus-forms-with-two-dozen-house-members-01174829",
-      "image": null,
-      "description": null
+      "headline": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+      "source": "Microsoft",
+      "source_url": "https://www.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa3J3OXpucXRXM28xZy1CakJNcjh6X0ZWSU1pOHo3cjMwQVpDMkhqUlQyOGQ4b2dDSENEWllIOTNBT2V6RWlnM1M3OUVyRGNXd3pIOFdlaGlFNTJ5a1pWX3pUWnVLNFRsOHdZNzl3WHV3Y1F4aW8wWGthREhGNDlOVHBBOU45NXdjNkcxOFRtOXFlVzFkN1JwSVBlYTZFc1ZBN2NXN0VjREs0YzRaUW5Pek9PMC1xMlIyZWtma0x2TEhSbWpx?oc=5",
+      "pub_date": 1792566000.0,
+      "article_url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_Storm.jpg",
+      "description": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-20T04:10:07.482524+00:00"
+  "fetched_at": "2026-11-20T13:26:44.176641+00:00"
 }
