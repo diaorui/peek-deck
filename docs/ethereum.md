@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-20T13:26:55.685696+00:00'
+updated: '2026-11-20T21:26:39.464196+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 20, 2026 at 13:26 UTC  
+**Last Updated:** November 20, 2026 at 21:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,730.00
+### $1,607.42
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** -2.1%  
-**30d:** -27.5%  
-**90d:** -29.7%  
-**1y:** -37.4%  
+**24h:** -8.4%  
+**7d:** -8.9%  
+**30d:** -32.5%  
+**90d:** -34.6%  
+**1y:** -41.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $211.69B
+**Market Cap:** $196.39B
 Rank #2
 
 **Circulating Supply:** 122,236,258 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.0%
+-67.5%
 
 **All-Time Low:** $0.43
-+399813.2%
++371195.1%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-3d ago
+4d ago
 
 ---
 
@@ -152,6 +152,14 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
+**[Crypto market crash today: Why are Ethereum, ZEC and altcoins down?](https://crypto.news/crypto-market-crash-today-why-are-ethereum-zec-and-altcoins-down/)**
+
+The crypto market crash has pushed Ethereum, ZEC and major altcoins lower as ETF outflows, interest rate concerns and selling pressure weigh on prices.
+
+Crypto News • 15h ago
+
+---
+
 **[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
 
 CoinDesk • 2d ago
@@ -166,27 +174,39 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Current price of Ethereum for Nov. 20, 2026](https://fortune.com/article/price-of-ethereum-11-20-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 46m ago
-
----
-
 **[Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to Know.](https://finance.yahoo.com/markets/crypto/articles/bitmine-just-posted-staggering-6-184502319.html)**
 
 Tom Lee’s Bitmine kept catching a falling knife over the past year.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[VanEck terminates Gemini custody agreements for Bitcoin, Ethereum, Solana ETFs](https://crypto.news/vaneck-drops-gemini-bitcoin-ethereum-solana-custody/)**
+**[Ethereum Price Dips 5% As Binance Hacker Moves ETHs](https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUgxaGRxdW9JS3FQbjhVYXF0OTFsZUpHRmZsTEhHQkh0SkV4a2FRamY2NDNqa3RVUGdTb2J6UFc2MGx6WE1pcTBFTWNZaUZFbUZmYm5qajN2Qm9UbVRrQmlsUEV3QzdoNlVXQlFxaFhXc25MdFJHVmxzb3laRExFZjB3MA?oc=5)**
 
-VanEck ends Gemini custody and clearing agreements for its Bitcoin, Ethereum and Solana ETFs holding $1.39B in net assets as Coinbase retains its role.
+MarketForces Africa • 5h ago
 
-Crypto News • 7h ago
+---
+
+**[Bitcoin, Ethereum, XRP, and Solana slide as $90 billion exits crypto market](https://www.tradingview.com/news/cryptobriefing:3b3820d04094b:0-bitcoin-ethereum-xrp-and-solana-slide-as-90-billion-exits-crypto-market/)**
+
+The crypto market shed more than $90 billion in value over a single 24-hour stretch, as Bitcoin, Ethereum, XRP, and Solana all moved lower together.Bitcoin traded around $61,982 on November 20, 2026. That put it down more than 13% over recent weeks.Ethereum changed hands between $1,700 and $1,800…
+
+TradingView • 5h ago
+
+---
+
+**[Current price of Ethereum for November 20, 2026](https://fortune.com/article/price-of-ethereum-11-20-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 8h ago
+
+---
+
+**[Chainlink and UBS Automate Tokenized Structured Notes on Ethereum With CRE, Targeting a $2 Trillion Market](https://genfinity.io/2026/11/19/chainlink-ubs-tokenized-structured-notes-cre-2-trillion-market/)**
+
+https://genfinity.io/ • 1d ago
 
 ---
 
@@ -196,29 +216,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Chainlink and UBS Automate Tokenized Structured Notes on Ethereum With CRE, Targeting a $2 Trillion Market](https://genfinity.io/2026/11/19/chainlink-ubs-tokenized-structured-notes-cre-2-trillion-market/)**
+**[Coinbase Institutional: US dollar was the lone gainer as Bitcoin and Ethereum led monthly losses](https://cryptobriefing.com/coinbase-institutional-dollar-bitcoin-ethereum-losses/)**
 
-https://genfinity.io/ • 17h ago
+Coinbase Institutional says the US dollar was the only tracked asset to gain last month as Bitcoin and Ethereum posted the steepest losses.
 
----
-
-**[Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury](https://beincrypto.com/coinshares-sells-entire-eth-treasury-buyback/)**
-
-BeInCrypto • 21h ago
-
----
-
-**[Bitcoin Open Interest Drops 20% as Ethereum and Solana Slide Further](https://www.ccn.com/news/crypto/bitcoin-ethereum-solana-open-interest-drop/)**
-
-CCN.com • 1d ago
-
----
-
-**[Why Are Bitcoin, Ethereum and XRP Prices Still Falling and What’s Next?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-still-falling-and-whats-next/)**
-
-Bitcoin fell to $61,496.58, down 0.7% in 24 hours and 11.5% over the past week. Ether dropped 1.3% on the day to $1,724.13 and is down 12.3% for the week.
-
-Coinpedia • 3h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -226,13 +228,43 @@ Coinpedia • 3h ago
 
 ## YouTube Videos: "ethereum"
 
-**[How a 19 Year Old Built Ethereum](https://www.youtube.com/watch?v=38Cxn9WpttM)**
+**[Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up pretty well](https://www.youtube.com/watch?v=5RirIOGyYCw)**
+
+Tom Sosnoff, Co-Founder and CEO of Lossdog, discusses Anthropic's IPO, retail investor selling, AI stock buying opportunities, ...
+
+📺 CNBC Television
+
+👁️ 5K • 👍 28 • 💬 17 • ⏱️ 4:28 • 5h ago
+
+---
+
+**[Anyone Holding Bitcoin, Ethereum Or XRP In The Cryptocurrency Market Here&#39;s An Important Message](https://www.youtube.com/watch?v=HOKcuCVdZKI)**
+
+The cryptocurrency market has gone through a major shift in the last 2 years and it would seem that its causing a cataclysmic shift ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 26K • 👍 2K • 💬 214 • ⏱️ 11:41 • 9h ago
+
+---
+
+**[Since 2019, Every Time ETH Got This Oversold, It Went HIGHER!! Ethereum Price Prediction](https://www.youtube.com/watch?v=igPw9rubOPg)**
+
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v119 CoinGPT - the AI Trade Agent I ...
+
+📺 Marzell Crypto
+
+👁️ 363 • 👍 12 • 💬 9 • ⏱️ 3:06 • 8h ago
+
+---
+
+**[Why Bitcoin Wasn&#39;t ENOUGH For Vitalik Buterin](https://www.youtube.com/watch?v=38Cxn9WpttM)**
 
 Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 356 • 💬 27 • ⏱️ 24:39 • 23h ago
+👁️ 23K • 👍 385 • 💬 31 • ⏱️ 24:39 • 1d ago
 
 ---
 
@@ -242,7 +274,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 282 • 💬 36 • ⏱️ 24:24 • 20h ago
+👁️ 23K • 👍 289 • 💬 37 • ⏱️ 24:24 • 1d ago
+
+---
+
+**[Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up &#39;pretty well&#39;](https://www.youtube.com/watch?v=a2ldTfRrpEI)**
+
+Tom Sosnoff, co-founder and CEO of Lossdog, discusses Bitcoin weakness and liquidity risks at MicroStrategy and Coinbase.
+
+📺 CNBC Television
+
+👁️ 671 • 👍 4 • 💬 3 • ⏱️ 1:16 • 5h ago
 
 ---
 
@@ -252,7 +294,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 301 • 💬 70 • ⏱️ 25:11 • 1d ago
+👁️ 24K • 👍 310 • 💬 70 • ⏱️ 25:11 • 2d ago
 
 ---
 
@@ -262,67 +304,27 @@ Ethereum is sitting on its main support at $1724, the 78.6% retracement, but the
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 146 • 💬 8 • ⏱️ 6:52 • 19h ago
+👁️ 8K • 👍 154 • 💬 13 • ⏱️ 6:52 • 1d ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO EMERGENCY (Liquidations Happening)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iAwwDG_5qVI)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=bLRwQS7v_Ac)**
 
-BITCOIN & CRYPTO EMERGENCY (Liquidations Happening)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto World
+📺 Crypto Gyan
 
-👁️ 14K • 👍 286 • 💬 64 • ⏱️ 20:42 • 16h ago
-
----
-
-**[Crypto Ripped Us Off... Now Look What Ethereum Did The Last 10 Times It Got Here](https://www.youtube.com/watch?v=zxu3Nbo9OK4)**
-
-Thanks Coinbase for sponsoring this crypto video. 1️⃣ Sign up through my affiliate link for 80% off spot trading fees.
-
-📺 Crypto Capital Venture
-
-👁️ 23K • 👍 540 • 💬 92 • ⏱️ 13:24 • 2d ago
+👁️ 2K • 👍 88 • ⏱️ 5:30 • 6h ago
 
 ---
 
-**[Ethereum Price Prediction: Wall Street&#39;s CUT Is BULLISH!!](https://www.youtube.com/watch?v=N_o7P2kWko8)**
+**[ETHEREUM 🚨 NOVEMBER 19](https://www.youtube.com/watch?v=mD00f2S2kSA)**
 
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v118 CoinGPT - the AI Trade Agent I ...
+ETHEREUM NOVEMBER 19.
 
-📺 Marzell Crypto
+📺 Overkill Trading
 
-👁️ 607 • 👍 9 • 💬 2 • ⏱️ 3:13 • 23h ago
-
----
-
-**[🏦⚡ BTC 1.0. ETH 2.0. BTC 3.0? Wall St quietly positioning. It&#39;s not who u think 👇](https://www.youtube.com/watch?v=tkfTnkp9tlc)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 53K • 👍 3K • 💬 200 • ⏱️ 25:44 • 15h ago
-
----
-
-**[Ethereum Price Prediction: Back on the 5-Year Line!!](https://www.youtube.com/watch?v=NCUOY5zUyEc)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v117 CoinGPT - the AI Trade Agent I ...
-
-📺 Marzell Crypto
-
-👁️ 3K • 👍 34 • 💬 6 • ⏱️ 3:49 • 1d ago
-
----
-
-**[Ethereum’s $2,100 Confirmation Level | Bitcoin &amp; Silver Market Update](https://www.youtube.com/watch?v=JbryN_nt8KE)**
-
-Bitcoin, Ethereum and silver — my November 19 market update. BTC's $72000 reclaim level, ETH's unconfirmed Wyckoff setup ...
-
-📺 YaBoySkey
-
-👁️ 642 • 👍 30 • 💬 2 • ⏱️ 8:01 • 17h ago
+👁️ 2K • 👍 47 • 💬 14 • ⏱️ 1:38 • 13h ago
 
 ---
 

@@ -131,21 +131,21 @@
       "site_name": null
     },
     {
-      "title": "Show HN: A Claude skill that borrows compression tricks from Finnegans Wake",
-      "url": "https://github.com/bitcoinvsalts/finnegans-wake-skill",
-      "hn_url": "https://news.ycombinator.com/item?id=50574249",
-      "author": "herve76",
+      "title": "Show HN: Nunya \u2013 A \"digital privacy screen\" that makes text illegible from afar",
+      "url": "https://usenunya.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50576552",
+      "author": "magicmarc",
       "points": 1,
       "num_comments": 0,
-      "created_at": "2026-11-20T13:18:30Z",
-      "object_id": "50574249",
-      "image": "https://opengraph.githubassets.com/ed93ca34feb2d436c0bd413d6e5fb5f1bb7eb466bb6e68ae9aba86b2b17909c7/bitcoinvsalts/finnegans-wake-skill",
-      "description": "A Claude skill that borrows Finnegans Wake's compression devices: same verdict on 'why' questions, about a third fewer output tokens. - bitcoinvsalts/finnegans-wake-skill",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
+      "created_at": "2026-11-20T15:51:12Z",
+      "object_id": "50576552",
+      "image": "https://usenunya.com/assets/social-card.png",
+      "description": "Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.",
+      "favicon": "https://usenunya.com/assets/nunya-icon-180.png",
+      "site_name": "usenunya.com"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-11-20T13:26:24.658083+00:00"
+  "fetched_at": "2026-11-20T21:26:04.059540+00:00"
 }
