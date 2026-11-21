@@ -5,6 +5,20 @@
   "days": 7,
   "posts": [
     {
+      "title": "Bitcoin falls to its lowest in two years",
+      "url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/",
+      "hn_url": "https://news.ycombinator.com/item?id=50588272",
+      "author": "geox",
+      "points": 9,
+      "num_comments": 3,
+      "created_at": "2026-11-21T11:51:42Z",
+      "object_id": "50588272",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "reuters.com"
+    },
+    {
       "title": "Alleged Operator of Pirate Site Movie2K Could Walk Free as Bitcoin Billionaire",
       "url": "https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/",
       "hn_url": "https://news.ycombinator.com/item?id=50518570",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": null,
       "site_name": null
-    },
-    {
-      "title": "Show HN: Nunya \u2013 A \"digital privacy screen\" that makes text illegible from afar",
-      "url": "https://usenunya.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50576552",
-      "author": "magicmarc",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-20T15:51:12Z",
-      "object_id": "50576552",
-      "image": "https://usenunya.com/assets/social-card.png",
-      "description": "Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.",
-      "favicon": "https://usenunya.com/assets/nunya-icon-180.png",
-      "site_name": "usenunya.com"
     }
   ],
-  "total_hits": 13,
+  "total_hits": 14,
   "has_metadata": true,
-  "fetched_at": "2026-11-21T10:42:00.916592+00:00"
+  "fetched_at": "2026-11-21T17:52:58.620135+00:00"
 }
