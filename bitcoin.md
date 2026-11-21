@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-21T10:42:30.278200+00:00'
+updated: '2026-11-21T17:53:33.750181+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 21, 2026 at 10:42 UTC  
+**Last Updated:** November 21, 2026 at 17:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $57,920.05
+### $60,063.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -6.4%  
-**7d:** -11.4%  
-**30d:** -28.7%  
-**90d:** -26.7%  
-**1y:** -31.6%  
+**24h:** +2.8%  
+**7d:** -8.1%  
+**30d:** -26.0%  
+**90d:** -24.0%  
+**1y:** -29.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1163.12B
+**Market Cap:** $1205.03B
 Rank #1
 
-**Circulating Supply:** 20,115,200 BTC
+**Circulating Supply:** 20,115,387 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--54.1%
+-52.5%
 
 **All-Time Low:** $67.81
-+85172.1%
++88243.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hit my goal of a quarter of a bitcoin, feels good
 
-5d ago
+6d ago
 
 ---
 
@@ -89,7 +89,7 @@ Hit my goal of a quarter of a bitcoin, feels good
 
 We’re so back! /s
 
-5d ago
+6d ago
 
 ---
 
@@ -111,7 +111,7 @@ Congrats everyone.
 
 Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian reseller CryptoBilis contained unauthorized circuit boards designed to capture recovery phrases and transmit them through cellular networks. The affected purchases occurred between August 20 and September 23. Trezor released firmware 2.13.1 on November 11 to block the identified implant behavior. No affected customers had reported losing funds at the time of the disclosure. Hardware wallets are not automatically trustworthy if their physical supply chain is compromised. Firmware updates cannot undo recovery phrases already stolen.
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 5d ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 6d ago
 
 ---
 
@@ -157,75 +157,69 @@ What is going on with Bitcoin today?
 
 **[Bitcoin falls to its lowest in two years](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)**
 
-Reuters • 6h ago
+Reuters • 13h ago
 
 ---
 
-**[Strategy Is Worth Less Than Its Bitcoin, Trump Media May Have To Sell](https://www.investors.com/news/mstr-stock-discount-vs-bitcoin-trump-media-convertible/)**
+**[Bitcoin developers fix 'medium' bug that could have delayed transactions](https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug)**
 
-MSTR stock is now worth less than its bitcoin and cash holdings net of debt, Strategy's website shows. Here's why that matters.
-
-Investor's Business Daily • 1d ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin BTC (BTC-USD) Live Price, News, Chart & Price History](https://ca.finance.yahoo.com/quote/BTC-USD/)**
+**[Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets](https://www.bloomberg.com/news/articles/2026-11-21/crypto-crashes-pile-up-as-once-diehard-fans-chase-new-bets)**
 
-Find the live Bitcoin USD (BTC-USD) price, history, news and other vital information to help with your cryptocurrency trading and investing.
-
-Yahoo! Finance Canada • 17h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Bitcoin Price Crashes to $59,000 as Market Selloff Deepens](https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000)**
+**[Block Says Most Bitcoin Payments on Square Are for Coffee and Food](https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report)**
 
-The bitcoin price crashed below $60,000 for the first time since early July as a tech stock selloff, Fed hike bets and record ETF outflows hit crypto.
+Block’s report finds the median bitcoin payment at Square sellers is about $13 and 72% happen at food and drink spots, as it pushes for a tax break.
 
-Bitcoin Magazine • 18h ago
-
----
-
-**[Why Is Bitcoin Dropping? BTC Falls 10% Below $57K](https://bitcoinfoundation.org/news/analysis/bitcoin-falls-10-below-57-000-as-crypto-liquidations-top-2-4b/)**
-
-Why is Bitcoin dropping? BTC fell nearly 10% below $57,000 as $2.4 billion in crypto futures liquidations and higher Treasury yields intensified selling.
-
-Bitcoin Foundation • 4h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[How Low Will Bitcoin Price Drop? Analysts Predict](https://beincrypto.com/how-low-can-bitcoin-price-drop/)**
+**[Bitcoin Falls 8% as Liquidations Reach $2.38 Billion](https://thedefiant.io/news/markets/bitcoin-falls-8-as-liquidations-reach-2-38-billion)**
 
-BeInCrypto • 3h ago
-
----
-
-**[Bitcoin falls below $60,000 level](https://www.reuters.com/technology/bitcoin-falls-below-60000-level-2026-11-20/)**
-
-Reuters • 18h ago
+The Defiant • 12h ago
 
 ---
 
-**[Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward](https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html)**
+**[Nvidia sinks roughly 40% as AI bubble fears drag Bitcoin below $60,000](https://www.tradingview.com/news/cryptobriefing:8b0cda734094b:0-nvidia-sinks-roughly-40-as-ai-bubble-fears-drag-bitcoin-below-60-000/)**
 
-Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September.
+The AI trade is having its worst stretch yet. Nvidia shares have fallen roughly 40% in a matter of weeks, and the damage has spread well past Silicon Valley.Bitcoin has slipped below $60,000. The total crypto market has contracted to approximately $2 trillion. When the poster child of a boom stumbl…
 
-CNBC • 20h ago
-
----
-
-**[Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?](https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html)**
-
-With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.
-
-CNBC • 20h ago
+TradingView • 3h ago
 
 ---
 
-**[Bitcoin Falls Below $60K For First Time Since July, Saylor's MSTR Hits 52-Week Low Amid $14B Paper Loss](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-60k-first-031059875.html)**
+**[Bitcoin and AI Stocks Plunge as Tech Selloff Deepens](https://gizmodo.com/bitcoin-is-back-where-it-was-five-years-ago-ai-stocks-are-crashing-too-2000843154)**
 
-Adam Back, the CEO of Blockstream, said he's buying MSTR and argued the shares are cheap compared with Bitcoin.
+Gizmodo • 23h ago
 
-Yahoo Finance • 7h ago
+---
+
+**[Anthropic and Bitcoin Are Both Falling: Where Is the Money Going?](https://247wallst.com/investing/cryptocurrency/2026/11/21/anthropic-and-bitcoin-are-both-falling-where-is-the-money-going/)**
+
+Anthropic and Bitcoin are falling together, so crypto money isn't just rotating into the IPO. Here's where the cash is going instead.
+
+24/7 Wall St. • 5h ago
+
+---
+
+**[21Shares Forecasts Bitcoin to Hit New Highs in 2027 Predictions List](https://www.benzinga.com/crypto/cryptocurrency/26/11/63515325/21shares-forecasts-bitcoin-to-hit-new-highs-in-2027-predictions-list)**
+
+Benzinga • 53m ago
+
+---
+
+**[Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February](https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest)**
+
+Bitcoin broke below $60,000 Friday, falling to $59,700 as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.
+
+Decrypt • 1d ago
 
 ---
 
@@ -233,11 +227,17 @@ Yahoo Finance • 7h ago
 
 ## HackerNews: "bitcoin"
 
+**[Bitcoin falls to its lowest in two years](https://news.ycombinator.com/item?id=50588272)**
+
+⬆️ 9 • 💬 3 • 6h ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
+
+---
+
 **[Alleged Operator of Pirate Site Movie2K Could Walk Free as Bitcoin Billionaire](https://news.ycombinator.com/item?id=50518570)**
 
 The alleged operator of defunct pirate streaming site Movie2K could walk out of a German court a free man, and still a bitcoin billionaire.
 
-⬆️ 7 • 💬 0 • 4d ago • [torrentfreak.com](https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/)
+⬆️ 7 • 💬 0 • 5d ago • [torrentfreak.com](https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/)
 
 ---
 
@@ -269,7 +269,7 @@ I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of 
 
 The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.
 
-⬆️ 1 • 💬 1 • 1h ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
+⬆️ 1 • 💬 1 • 8h ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
 
 ---
 
@@ -277,13 +277,13 @@ The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound:
 
 TimestampGit — OpenTimestamps and blockchain timestamp verification: how to prove code existed at a specific time. Automatically anchors Git commits to Bitcoin.
 
-⬆️ 1 • 💬 0 • 2d ago • [timestampgit.dev](https://timestampgit.dev)
+⬆️ 1 • 💬 0 • 3d ago • [timestampgit.dev](https://timestampgit.dev)
 
 ---
 
 **[What's New on Bitcoin](https://news.ycombinator.com/item?id=50532614)**
 
-⬆️ 1 • 💬 0 • 3d ago
+⬆️ 1 • 💬 0 • 4d ago
 
 ---
 
@@ -293,7 +293,7 @@ Why Bitcoin was NOT started by a 3-letter-agency.
 
 My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
-⬆️ 1 • 💬 0 • 4d ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2122329592002134065)
+⬆️ 1 • 💬 0 • 5d ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2122329592002134065)
 
 ---
 
@@ -303,17 +303,19 @@ My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
 ---
 
-**[Show HN: Nunya – A "digital privacy screen" that makes text illegible from afar](https://news.ycombinator.com/item?id=50576552)**
-
-Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.
-
-⬆️ 1 • 💬 0 • 18h ago • [usenunya.com](https://usenunya.com/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[Bitcoin Is $54,000.  Here&#39;s Why.](https://www.youtube.com/watch?v=sjPPLxDE3u8)**
+
+Welcome back! ➡️ Trade on BTCC & 10% Deposit Bonus: https://aaronbtc.com/trade Weekly Email Updates: ...
+
+📺 Aaron Bennett
+
+👁️ 45K • 👍 755 • 💬 138 • ⏱️ 13:40 • 7h ago
+
+---
 
 **[Bitcoin: The Lower Low](https://www.youtube.com/watch?v=ZNy4XdW59dc)**
 
@@ -321,37 +323,7 @@ Live stream the conference: https://www.youtube.com/@benjaminjcowen/join Come to
 
 📺 Benjamin Cowen
 
-👁️ 107K • 👍 6K • 💬 522 • ⏱️ 22:02 • 5h ago
-
----
-
-**[Bitcoin DANGER ZONE - Michael Saylor Is Now $15 BILLION Underwater](https://www.youtube.com/watch?v=e-YiGS4Sy54)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Bitcoin has ...
-
-📺 Bitcoin News Alerts
-
-👁️ 9K • 👍 189 • 💬 71 • ⏱️ 13:40 • 12h ago
-
----
-
-**[🚨 BITCOIN BREAKS $56,000!!! [UPDATE WITH BEN COWEN]](https://www.youtube.com/watch?v=AAG0KGgXTOY)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT TRADE PERPS IN THE USA: https://kalshi.com/p/cryptokid $50 ...
-
-📺 Crypto Kid
-
-👁️ 13K • 👍 313 • 💬 52 • ⏱️ 2:25 • 6h ago
-
----
-
-**[BITCOIN: WE HAVE A SERIOUS PROBLEM...](https://www.youtube.com/watch?v=_xx-eVjq1_E)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-8?vipCode=00dt&qrType=activity Instant VIP6 (44% fee ...
-
-📺 Crypto Rover
-
-👁️ 12K • 👍 662 • 💬 96 • ⏱️ 12:41 • 4h ago
+👁️ 220K • 👍 10K • 💬 698 • ⏱️ 22:02 • 12h ago
 
 ---
 
@@ -361,17 +333,17 @@ Bitcoin price crash incoming? A new BTC low could be on the horizon as bearish s
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 300 • 💬 50 • ⏱️ 52:31 • 17h ago
+👁️ 17K • 👍 302 • 💬 50 • ⏱️ 52:31 • 1d ago
 
 ---
 
-**[BITCOIN CRASH TO $55K: This Will Get UGLY (warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zaDmH8bwXQ4)**
+**[Saturday Bitcoin Update: BTC FREEFALL! BILLIONS LIQUIDATED! IS THIS JUST THE BEGINNING?](https://www.youtube.com/watch?v=k9b5HKkvLyM)**
 
-BITCOIN CRASH TO $55K: This Will Get UGLY (warning)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+BlackFriday earlybird VIP signup: https://vip.cryptolifer.com/ BTCC: ...
 
-📺 Crypto World
+📺 Crypto Lifer
 
-👁️ 9K • 👍 241 • 💬 44 • ⏱️ 25:59 • 4h ago
+👁️ 5K • 👍 279 • 💬 40 • ⏱️ 52:30 • 41m ago
 
 ---
 
@@ -381,27 +353,37 @@ RT1M Podcast: https://www.youtube.com/@RT1MPodcast Free Trading Community https:
 
 📺 Road To $1 Million USD
 
-👁️ 14K • 👍 312 • 💬 38 • ⏱️ 8:36 • 12h ago
+👁️ 16K • 👍 325 • 💬 40 • ⏱️ 8:36 • 19h ago
 
 ---
 
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=dXty66Fxs4s)**
+**[🚨 BITCOIN BREAKS $56,000!!! [UPDATE WITH BEN COWEN]](https://www.youtube.com/watch?v=AAG0KGgXTOY)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT TRADE PERPS IN THE USA: https://kalshi.com/p/cryptokid $50 ...
 
-📺 Crypto Nutshell
+📺 Crypto Kid
 
-👁️ 2K • 👍 83 • 💬 37 • ⏱️ 23:09 • 2h ago
+👁️ 18K • 👍 381 • 💬 52 • ⏱️ 2:25 • 13h ago
 
 ---
 
-**[Bitcoin Faces a Global Market Bloodbath](https://www.youtube.com/watch?v=hFYXbnQ070k)**
+**[BITCOIN: Absolute Bloodbath! ($2.5B liquidated) - BTC Price Prediction Today](https://www.youtube.com/watch?v=uP73nALSfWU)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
+Want a free $5040 bonus + $20 just for signing up? Go here: ...
 
-📺 CryptosRUs
+📺 BitcoinHyper
 
-👁️ 43K • 👍 976 • 💬 127 • ⏱️ 48:01 • 19h ago
+👁️ 8K • 👍 378 • 💬 50 • ⏱️ 14:12 • 6h ago
+
+---
+
+**[Bitcoin DANGER ZONE - Michael Saylor Is Now $15 BILLION Underwater](https://www.youtube.com/watch?v=e-YiGS4Sy54)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Bitcoin has ...
+
+📺 Bitcoin News Alerts
+
+👁️ 11K • 👍 211 • 💬 102 • ⏱️ 13:40 • 20h ago
 
 ---
 
@@ -411,7 +393,17 @@ Unlock $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
 
 📺 Altcoin Daily
 
-👁️ 87K • 👍 2K • 💬 176 • ⏱️ 10:24 • 1d ago
+👁️ 91K • 👍 2K • 💬 186 • ⏱️ 10:24 • 1d ago
+
+---
+
+**[BITCOIN CRASH TO $55K: This Will Get UGLY (warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zaDmH8bwXQ4)**
+
+BITCOIN CRASH TO $55K: This Will Get UGLY (warning)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 19K • 👍 367 • 💬 70 • ⏱️ 25:59 • 12h ago
 
 ---
 

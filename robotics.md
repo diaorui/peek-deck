@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-21T10:42:30.287436+00:00'
+updated: '2026-11-21T17:53:33.757772+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 21, 2026 at 10:42 UTC  
+**Last Updated:** November 21, 2026 at 17:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-5d ago
+6d ago
 
 ---
 
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-6d ago
+7d ago
 
 ---
 
@@ -82,7 +82,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-6d ago
+7d ago
 
 ---
 
@@ -110,55 +110,33 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[‘The doom of humanity’: will the quest to make robotic hands render us obsolete?](https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai)**
+**[Robots Still Suck](https://www.chinatalk.media/p/we-went-to-austin-to-see-robots)**
 
-The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that
+A CoRL Trip Report
 
-The Guardian • 2h ago
+ChinaTalk | Jordan Schneider • 1d ago
 
 ---
 
 **[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
 
-Reuters • 16h ago
+Reuters • 23h ago
 
 ---
 
-**[Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test](https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html)**
+**[‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai)**
 
-Tech Xplore • 21h ago
+The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that
 
----
-
-**[Robots Still Suck](https://www.chinatalk.media/p/we-went-to-austin-to-see-robots)**
-
-A CoRL Trip Report
-
-ChinaTalk | Jordan Schneider • 18h ago
+The Guardian • 3h ago
 
 ---
 
-**[John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties](https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/)**
+**[It's the Mighty Morphin' Quadrotors?!](https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor)**
 
-Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed.
+Your weekly selection of awesome robot videos
 
-GeekWire • 18h ago
-
----
-
-**[Robotics enters its post-Jensen Huang era](https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/)**
-
-Jensen Huang, one of robotics' most influential advocates, has resigned from NVIDIA. Can the industry sustain its momentum without him?
-
-The Robot Report • 1d ago
-
----
-
-**[Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028](https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html)**
-
-Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position.
-
-CNBC • 2h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -166,15 +144,15 @@ CNBC • 2h ago
 
 The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech.
 
-Boston.com • 8h ago
+Boston.com • 15h ago
 
 ---
 
-**[US firm unveils Phantom MKII battlefield humanoid robot with bigger payload, tougher build](https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot)**
+**[John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties](https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/)**
 
-Foundation unveils Phantom MKII humanoid robot and Cortex II AI, claiming a 200-pound payload capacity and weatherproofing for harsh terrain
+Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed.
 
-Interesting Engineering • 20h ago
+GeekWire • 1d ago
 
 ---
 
@@ -182,7 +160,31 @@ Interesting Engineering • 20h ago
 
 Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
 
-TechCrunch • 2d ago
+TechCrunch • 3d ago
+
+---
+
+**[The Next Phase of Robotics: From Technological Progress to Real-World Impact](https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu)**
+
+Pudu Robotics moves embodied AI from lab demos to real-world business impact with specialized robots and local hubs.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[MassRobotics launching marine robotics facility on Boston Harbor](https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/)**
+
+MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027.
+
+The Robot Report • 1d ago
+
+---
+
+**[John Deere Orchard Robotics deal signals growing value of actionable farm data, says ag robotics OG](https://agfundernews.com/john-deere-orchard-robotics-deal-signals-growing-value-of-actionable-farm-data-says-ag-robotics-og)**
+
+"Our goal is to bring our industry-leading tech and AI farming capabilities to every farmer out there," says Orchard Robotics CEO Charles Wu.
+
+AgFunderNews • 23h ago
 
 ---
 
@@ -196,7 +198,7 @@ The king oyster mushroom (Pleurotus eryngii) is the fat-stemmed mushroom you fin
 
 📺 Creatures in Motion
 
-👁️ 594 • 👍 34 • 💬 1 • ⏱️ 2:53 • 2h ago
+👁️ 5K • 👍 181 • 💬 15 • ⏱️ 2:53 • 9h ago
 
 ---
 
@@ -206,17 +208,27 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Cleo Abram
 
-👁️ 834K • 👍 54K • 💬 548 • ⏱️ 1:05 • 19h ago
+👁️ 1.4M • 👍 80K • 💬 710 • ⏱️ 1:05 • 1d ago
 
 ---
 
-**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
+**[MIT&#39;s Magnetic Robot Could Navigate Inside the Human Brain! 🤯🧠](https://www.youtube.com/watch?v=83LppGIcKTA)**
 
-ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
+Imagine a tiny robotic thread navigating blood vessels inside the human brain! MIT engineers developed a magnetically ...
 
-📺 MuffinJuice
+📺 Nexio Core
 
-👁️ 983K • 👍 31K • 💬 3K • ⏱️ 15:00 • 1d ago
+👁️ 51K • 💬 2 • ⏱️ 0:05 • 8h ago
+
+---
+
+**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
+
+OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
+
+📺 MACHINEKIND
+
+👁️ 11K • 👍 229 • 💬 37 • ⏱️ 11:51 • 1d ago
 
 ---
 
@@ -226,7 +238,7 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 226K • 👍 3K • 💬 637 • ⏱️ 2:12:13 • 4d ago
+👁️ 228K • 👍 3K • 💬 639 • ⏱️ 2:12:13 • 5d ago
 
 ---
 
@@ -236,37 +248,7 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 184K • 👍 590 • 💬 470 • ⏱️ 2:44 • 4d ago
-
----
-
-**[Let the Humanoid Scan | Skylark Labs CFAM #Shorts](https://www.youtube.com/watch?v=rPKlQ2OZMEY)**
-
-Scanning for explosives should be a machine's job. People should be out of harm's way. Skylark Labs is developing Continual ...
-
-📺 SkyLark Labs
-
-👁️ 221K • 👍 3K • 💬 5 • ⏱️ 0:39 • 2d ago
-
----
-
-**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
-
-Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
-
-📺 CNET
-
-👁️ 43K • 👍 393 • 💬 41 • ⏱️ 4:02 • 5d ago
-
----
-
-**[Rifle-equipped ROBOT DOGS deployed to reclaim gang-controlled stadium](https://www.youtube.com/watch?v=ard7h54M-qU)**
-
-Salvadoran President Nayib Bukele releases footage showing troops deploying rifle-equipped robotic dogs during an operation to ...
-
-📺 Fox News
-
-👁️ 211K • 👍 3K • 💬 693 • ⏱️ 0:20 • 5d ago
+👁️ 185K • 👍 596 • 💬 470 • ⏱️ 2:44 • 4d ago
 
 ---
 
@@ -276,17 +258,37 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 📺 Unbox Therapy
 
-👁️ 833K • 👍 38K • 💬 68 • ⏱️ 1:24 • 2d ago
+👁️ 986K • 👍 47K • 💬 81 • ⏱️ 1:24 • 3d ago
 
 ---
 
-**[How to Build a Self-Balancing Propeller Rod #robotics🌪️⚙️](https://www.youtube.com/watch?v=2xZ1faGBmWo)**
+**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
 
-Original video credit: IG/@pcbaxinxin5637. The video shows a self-balancing inverted pendulum: a vertical rod with a ...
+ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
 
-📺 History Seeker
+📺 MuffinJuice
 
-👁️ 40K • 👍 237 • 💬 6 • ⏱️ 0:07 • 21h ago
+👁️ 1.1M • 👍 32K • 💬 3K • ⏱️ 15:00 • 1d ago
+
+---
+
+**[Rifle-equipped ROBOT DOGS deployed to reclaim gang-controlled stadium](https://www.youtube.com/watch?v=ard7h54M-qU)**
+
+Salvadoran President Nayib Bukele releases footage showing troops deploying rifle-equipped robotic dogs during an operation to ...
+
+📺 Fox News
+
+👁️ 211K • 👍 3K • 💬 693 • ⏱️ 0:20 • 6d ago
+
+---
+
+**[500-Foot Robotic Wolf vs 350-Foot Robotic Lion! 🐺🦁 | Six Sisters Save Their Village](https://www.youtube.com/watch?v=HlspxjX-xE4)**
+
+500-Foot Robotic Wolf vs 350-Foot Robotic Lion! | Six Sisters Save Their Village One terrifying night, a gigantic 500-foot robotic ...
+
+📺 Gramixa
+
+👁️ 568K • 💬 17 • ⏱️ 8:11 • 3d ago
 
 ---
 
