@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin plunges below $59,000, on pace for its worst month since June 2022",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRElXRUZRbXlfNVZIY09CRXlMTDV6a1JZeVpKQV9SYVpqX3F5X2RoYWV4YjNkeUJkX2ZXekpMM3ExRFpJYXRSYkk0cHk1aUk3R0U4ZktpTUI4VTNoUkp0ZEhNM1A0NExvNWhFY2RmVThRY0JuV0JyeUdHdGZEOFE4WE1aTFpxUmZqWnM2dHBaLXNQa1JWN0FGOUdEZzhKeUZPQmlKYmFHZmhNLVFLcUVrc2ZId0k2MjBlSHZ6SFZUT2VsT1FxVU93?oc=5",
-      "pub_date": 1795207449.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-plunges-below-59000-on-pace-for-its-worst-month-since-june-2022-192922111.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5cf15aa2a204c6f9880c5a0e49ae3de7a5b2ce7395d6d99309a07bc02e2c5349/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F06e02e53-0a1e-405f-ae02-b5337a8919e9",
-      "description": "Bitcoin plunged below $60,000 on Friday, deepening a November sell-off that is shaping up to be the cryptocurrency's worst monthly decline in more than four years."
+      "headline": "Bitcoin falls to its lowest in two years",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5",
+      "pub_date": 1795234200.0,
+      "article_url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Strategy Is Worth Less Than Its Bitcoin, Trump Media May Have To Sell",
@@ -25,74 +25,64 @@
       "description": "MSTR stock is now worth less than its bitcoin and cash holdings net of debt, Strategy's website shows. Here's why that matters."
     },
     {
-      "headline": "Strategy (MSTR) On Bitcoin Buying And MSCI Exit Still Looks Undervalued",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYllCUFZ3aG0wSW5LLTVvZ0tSYzREQjk2Z0pLWHVnN1JpR3V2UWdXRGhUclZxZmRwNFZ0VWs2dmtrY0NGS3JUOEQ1QUo0a1I4U29GNlpuYll2VlROOGtEZGVXOHRHUnhwaDkxQWVIUFZtTTRQYjJPTEx4OTJYQTZpN3J1NndhcUpEaWlLbEJUczd3X2ZRTV9rQ0pwS291Vms?oc=5",
-      "pub_date": 1795122864.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-bitcoin-buying-msci-211424742.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
-      "description": "Strategy (MSTR) is back in focus after a special call on November 12, set against fresh disclosures on its Bitcoin buying, preferred share buybacks, and upcoming removal from key MSCI indexes. The recent 1-day share price return of Strategy shows a decline of 6.4%, capping a 7-day fall of 26.2% and a 30-day slide of 33.6%, which lines up with headlines around fresh Bitcoin purchases, MSCI index removal, and preferred share buybacks. Despite this pressure and a year-to-date share price return..."
+      "headline": "Bitcoin BTC (BTC-USD) Live Price, News, Chart & Price History",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HSGlGRjBhSUlQdXZtSXRJWmhTcWlLMmt2WEM2WFk0LV9Bd3BzOGNZQzJmQXJycTBZcmpSNWZiWHMzMDdzY3cyQzlKYXNYSk0tUF9MVzdB?oc=5",
+      "pub_date": 1795193654.0,
+      "article_url": "https://ca.finance.yahoo.com/quote/BTC-USD/",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Find the live Bitcoin USD (BTC-USD) price, history, news and other vital information to help with your cryptocurrency trading and investing."
     },
     {
-      "headline": "MSTR Head Of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
+      "headline": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnFnMzVXaHBCaHhpUzZKOVFTZG9EbFhCOTFpamJBclhwZ3dndlR5WlZZdWVjZ29kYmpiWlRsNnZGYldJaWo4RmhDOXRjRXR5TlpYbHZaQW9tWG5zenJxLXMwa2hEZlZKSUM3OTJOUm1IaGJILWJDbXJtYkpmOUNEYnNsSXFQYUJmbWFySlYtZEVIOVpHWkM3UFBHQ0FuNHhKai1OTUJ5MUluNWFwV3drWTVB?oc=5",
-      "pub_date": 1795205903.0,
-      "article_url": "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance-ctWQsAPySls.jpg",
-      "description": "Chaitanya \"CJ\" Jain, Head of Investor Relations at Strategy, joins Bitcoin Magazine TV as Bitcoin trades below Strategy's average cost."
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QdWtrYk45LWxHandBd1R1LXVYb1VfT19jZlF6ZFFReVhxOFZlb0VfRVJJUTFNRlltbkFIaVB4ZmRVblBWbEJDNHZmejl5MlNCc1VFT3JHeDNlbjNZNWk0SURTOWpqQmdaSzNqNlJHWmpzNnRRZWVVTA?oc=5",
+      "pub_date": 1795190390.0,
+      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Crashes-Below-60000-as-Market-Selloff-Deepens.jpg",
+      "description": "The bitcoin price crashed below $60,000 for the first time since early July as a tech stock selloff, Fed hike bets and record ETF outflows hit crypto."
     },
     {
-      "headline": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSndDVWk0NjdkRDZvb1d2QURSZ1FnOUVVWEpaVWV1Uzg3d2VoWVVOdUtVOGQ3elR3eExRZFdCTUY2XzFOR1Z2Y01rMk9aLUxOQi1adzdlTFVQcnNpWjVFQWotdUhNR3JZZDRSY1BGSTZkbWV0bUNjemxyNFA1Q3I1MElrMVFhdndpUFh2T0I4SEpfdTNkYmlMREVDV0Vrd2M4SHlVWlpXRjBvd29aS1VNNW52bFc4OEpZT2xEYXhobjR3bEt0MU84Ujhhek4?oc=5",
-      "pub_date": 1795198920.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ChatGPT-Image-Nov-1-2026-12_51_51-PM_clean.png",
-      "description": "Attackers moved $860 million in ether from major wallets, swapping some into bitcoin before mixing it within hours."
+      "headline": "Why Is Bitcoin Dropping? BTC Falls 10% Below $57K",
+      "source": "Bitcoin Foundation",
+      "source_url": "https://bitcoinfoundation.org",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU5faWhXRGtfclFmQ1B1Tm5VcEF6QmF2WWo0NTltX2IzWDFodDBibER4dW41alNsRjVVV0Rqa2ZXNm81WjB3NEpMczR6UzRXUXBDaTZnYkxmdWNNYzdNRjc4cUp6S0I0dmxKb3NlZUdwWDRSTldFRFUxREJTVWFyUkJMSFhaRm1OYkZNZmJsczVFQlFfbDgyek1PNVRSVkVRMEZNSDlBZHVmZw?oc=5",
+      "pub_date": 1795242979.0,
+      "article_url": "https://bitcoinfoundation.org/news/analysis/bitcoin-falls-10-below-57-000-as-crypto-liquidations-top-2-4b/",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/bitcoin-falls-10-below-57-000-as-crypto-liquidations-top-2-4b.webp",
+      "description": "Why is Bitcoin dropping? BTC fell nearly 10% below $57,000 as $2.4 billion in crypto futures liquidations and higher Treasury yields intensified selling."
     },
     {
-      "headline": "Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzTmRJTV9CSVVQdVRHU29sTzhROF9oTkVqZm1vQXVOM1otSG9GdXdGTlZBRm9QdUlUZ0FvdkFENXMwT2g5SGwwQ1NvLXR0bmtRRzBTVVRGbENlMzV1S1FIVmU1NDhoaVQ0MXY4RG00NmZEeTV6S3BGTGhB?oc=5",
-      "pub_date": 1795116917.0,
-      "article_url": "https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Institutions-are-Piling-Into-Bitcoin-ETFs-Pushing-Holdings-to-a-Record.jpg",
-      "description": "Galaxy Research says institutions added 49,229 BTC through spot bitcoin ETFs in Q3, lifting 13F holdings to a record 356,491 BTC. Wells Fargo now leads."
-    },
-    {
-      "headline": "Bitcoin and AI Stocks Plunge as Tech Selloff Deepens",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmdPMGJzSnNYaVZuVjVZNmIydE9ocE54am82UGtSZnM2NENhVE1NM0RWLUVmakcwdUNQYzUyUGN2eE1zQWxkUGNnblJZb1d5T0lvUDBqYUhUTUQyaDN3WHdmc3d2WENuUmRXTmJoaGVWN0ozSUcxazRSS2JPTzFpR20tOXR1Zjl5cVlRUHdlZDNkcVowYjRqdlcwenpwamJPSDk0?oc=5",
-      "pub_date": 1795197339.0,
-      "article_url": "https://gizmodo.com/bitcoin-is-back-where-it-was-five-years-ago-ai-stocks-are-crashing-too-2000843154",
+      "headline": "How Low Will Bitcoin Price Drop? Analysts Predict",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fc21YUXdMcGt1OEdCcE90bDAtZkxsWnItQm15RkFfVHJzSmZCa3NCTmZXbU1DT0NGTjJmbU03cVFldk5sc0E0ZmhoalBPS0FOVlo4a3dFanJDZUFzZWpST1psWE4?oc=5",
+      "pub_date": 1795244412.0,
+      "article_url": "https://beincrypto.com/how-low-can-bitcoin-price-drop/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmFiekVkaDRiM0lHVW1tTFhWdTVPM3R2S1VJZmhUNDlHM3pNYkRZZHNzTnh3ZFRBQnlZSXFVblJ6SkYtNUQ4YW1WZ2RoWUxwUTh1bUhQd3hzTWJvYTBSY05fQ1pkeGVQVExwUTFmV1RfTmxfRVhVWGEydnJ3S0lrQXdwTnhGS182?oc=5",
-      "pub_date": 1795192559.0,
-      "article_url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
-      "description": "Bitcoin broke below $60,000 Friday, falling to $59,700 as crypto sentiment collapsed and AI-linked stocks sank after Anthropic\u2019s IPO."
+      "headline": "Bitcoin falls below $60,000 level",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEJfUmdFQ0ZvVC1TbUh4dXZxdzlrTVZYenFybjM0RnpESDZ2aFRsMmRsWHpjbEF4cjlCWWJtQnZiWXhINVZhUng3YW9ILWZXejhNY3BJelJKRWw1TDRzaDRtdU92ZlhRUXRMdVpzYXlWaUQ3MUx2aWtEU2VaVlhLOHlqV2Q?oc=5",
+      "pub_date": 1795191987.0,
+      "article_url": "https://www.reuters.com/technology/bitcoin-falls-below-60000-level-2026-11-20/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Bitcoin Well Reports 2026 Q3 Financial Results",
-      "source": "Investing News Network",
-      "source_url": "https://investingnews.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MX1RYb2xWMFU0Q1N4MWowYjR2SURYQ1hNRUxNMjcwUFU5QTllOEVlaWREazl0dldQRThtQklGSC05ckdsY3Itd2puU2dNN01vMWlyR2h3NmI3ekdsaUpaNHRfUjlQSm83QmtsbEFOM09WLUc3V0FTTFZPZTZ3dw?oc=5",
-      "pub_date": 1795201118.0,
-      "article_url": "https://investingnews.com/bitcoin-well-reports-2026-q3-financial-results/",
-      "image": "https://investingnews.com/media-library/image.png?id=33376751&width=1200&height=600&coordinates=0%2C18%2C0%2C19",
-      "description": "(TheNewswire)           Edmonton, Alberta November 20, 2026 TheNewswire - Bitcoin Well Inc. (\"Bitcoin Well\" or the \"Company\") (TSXV: BTCW,OTC:BCNWF; OTCQB: BCNWF), the non-custodial bitcoin business on a mission to enable independence, today announced financial and operating results for the third q..."
+      "headline": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmZadko1d2NDa3h3cVJUNGZTbHZjcUZGd1ZNYkxOWlBwLWd3Rk9KcHFuVWdVcUVWMUVNQW5iSklCZkEtaC13bGZWZlpKQl9JUmNzSlFBdjViaGZENDBGdWU2Z3FPQk5hZGRNUlVmckQ2aUtOWkIxQlhVa1AwVXFkd2JkYVVva2czQk1NUtIBkgFBVV95cUxPWHg0Ym8yVHNqV2lITW81aDhBSzZyN2M4ekMzelRIQ003YVVGZWkxRjhHMGl1TXBoVWEwUnF0aG9zZ0JFTnFjWWxjQWFnWVhiS2Y3R3ZfallHd2RwczdSQWFoaDYtdmxKSVRiX2ZNeHJqcGVTdldlcjQ3RHpqQWlOVFpjOHU3NHNCWjEzaGZmbFdkdw?oc=5",
+      "pub_date": 1795184985.0,
+      "article_url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
+      "description": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September."
     },
     {
       "headline": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs \u2014 what happens next?",
@@ -103,8 +93,18 @@
       "article_url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108268517-1771860022960-gettyimages-2260490322-AFP_96YR6Q2.jpeg?v=1789476137&w=1920&h=1080",
       "description": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns."
+    },
+    {
+      "headline": "Bitcoin Falls Below $60K For First Time Since July, Saylor's MSTR Hits 52-Week Low Amid $14B Paper Loss",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUJVejY4MUFjdWN0dVNqV0Q0TWU0QlFKR2RKelhnSFdyVUZVMllXNnBnT2NGOUNRZ0QwOGRLRWlEMG5hVnk5LWM3Qm9XZzl0Y3JLT2Q5Q0pRLUZKQVc4OWstZUpvUkNJNnJaVnZaWDFfeVY4V0c2SjB2OFMxUVIxaGtsdjh2Y0ptbVN4d2tDU3k1MEJ2eWVMZUp3?oc=5",
+      "pub_date": 1795230600.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-60k-first-031059875.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/69e1cf538a7dbda54e348f1ca8a87d235781a61d5c15dd7ae931f408ea26ed6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F50f487533e470e7e0c667bf6ccc3b7c5.jpg",
+      "description": "Adam Back, the CEO of Blockstream, said he's buying MSTR and argued the shares are cheap compared with Bitcoin."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-21T02:41:57.881763+00:00"
+  "fetched_at": "2026-11-21T10:42:27.533424+00:00"
 }
