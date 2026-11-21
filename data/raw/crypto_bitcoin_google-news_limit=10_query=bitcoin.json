@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin plunges below $59,000, on pace for its worst month since June 2022",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRElXRUZRbXlfNVZIY09CRXlMTDV6a1JZeVpKQV9SYVpqX3F5X2RoYWV4YjNkeUJkX2ZXekpMM3ExRFpJYXRSYkk0cHk1aUk3R0U4ZktpTUI4VTNoUkp0ZEhNM1A0NExvNWhFY2RmVThRY0JuV0JyeUdHdGZEOFE4WE1aTFpxUmZqWnM2dHBaLXNQa1JWN0FGOUdEZzhKeUZPQmlKYmFHZmhNLVFLcUVrc2ZId0k2MjBlSHZ6SFZUT2VsT1FxVU93?oc=5",
+      "pub_date": 1795207449.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-plunges-below-59000-on-pace-for-its-worst-month-since-june-2022-192922111.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5cf15aa2a204c6f9880c5a0e49ae3de7a5b2ce7395d6d99309a07bc02e2c5349/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F06e02e53-0a1e-405f-ae02-b5337a8919e9",
+      "description": "Bitcoin plunged below $60,000 on Friday, deepening a November sell-off that is shaping up to be the cryptocurrency's worst monthly decline in more than four years."
+    },
+    {
       "headline": "Strategy Is Worth Less Than Its Bitcoin, Trump Media May Have To Sell",
       "source": "Investor's Business Daily",
       "source_url": "https://www.investors.com",
@@ -25,64 +35,34 @@
       "description": "Strategy (MSTR) is back in focus after a special call on November 12, set against fresh disclosures on its Bitcoin buying, preferred share buybacks, and upcoming removal from key MSCI indexes. The recent 1-day share price return of Strategy shows a decline of 6.4%, capping a 7-day fall of 26.2% and a 30-day slide of 33.6%, which lines up with headlines around fresh Bitcoin purchases, MSCI index removal, and preferred share buybacks. Despite this pressure and a year-to-date share price return..."
     },
     {
-      "headline": "Bitcoin Drops Below $59K, Wiping Out $1.5B In Crypto Bets: MSTR, BMNR, ASST Stocks Extend Losses",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1ZpV3RQaDVGN2Y5QmVJR3QxdEtMYlRKekx4VktzSGlsUnh5MWprbzQ2bUZ0SURLV1lPeGNRVUo0SUh3YUVSVjNfdHQ0cmw4SlhmX1BtWWxrME1NLUxVYXJCOGFNdnJiS0ExdVo2LW9jLTJTWnV5bEFhQWM0RDZRUk5yU0hPak1EZUJMeE5Kam8xT0EtNFp3bjFJdjVVZUMyUEwyV1lXdVh3dEtzbXdFNmVIaG1aQWJfODM3d215eUFJUFFOWmc5aTNZN1hVUG9RSWxyRjh6MEtTQ0ZpVmhnSk56VWtXZw?oc=5",
-      "pub_date": 1795199646.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:ca8d525d7094b:0-bitcoin-drops-below-59k-wiping-out-1-5b-in-crypto-bets-mstr-bmnr-asst-stocks-extend-losses/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin (BTC) dropped below $59,000 in afternoon trade on Friday for the first time since July, wiping out over $1.5 billion in cryptocurrency bets, as tech stocks continued to pull down broader markets.Bitcoin\u2019s price fell nearly 6% in the last 24 hours to $58,900. It was among the top trending\u00a0ti\u2026"
-    },
-    {
-      "headline": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs \u2014 what happens next?",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2FuMGhEMVZaUk5BU2VZWFN0MFJ2WjM0anVIUlpyOG5wdjlnQVhJRWdJY1MzZkN6TG5nTnNJemlQNGxSazNQWlZNMk55MkltOHF0WWM5V05ZN0RYMzF6SmZZb0ZzT0Jsc0c4MGQ4WnNmdTJrblE3Wi1JWlFfV2diM21IVGRvTjFiTy1CUGl30gGTAUFVX3lxTE9IeHRGYTVZU3lFdXZOMWQxTVlLU19NU3Q1a29aaVRCTTcwRkpCMm9sYzYwTVlYUmlGYmE3S1MxT3pjYVpINFdmZG5xc0ZIWWp0LXVNcTFwdnQ3MGFmNl82ck1IOHVYMmotYWZwQ2hiZ2VDb0lFRzl4SGx0d2R5WU5pZGRsNl8tSTlQYVVIeG0yZjNxWQ?oc=5",
-      "pub_date": 1795184324.0,
-      "article_url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108268517-1771860022960-gettyimages-2260490322-AFP_96YR6Q2.jpeg?v=1789476137&w=1920&h=1080",
-      "description": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns."
-    },
-    {
-      "headline": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDNLR2g5M3dqRmtrcEpvREdaMVdOUmZkSG96dDV2aUR4YUxfTExXMXpHTzA0ajFSekJ2T2ItQ0dRd1hlWmt3QW5jdWd2UndMTGd5SHBoQ2RqSWU3LWxTaEFySF9JS0tEZ2hUMzZGM0NZQ0FhY1ZTRWdFUHMxaFZKR01VQUxTal9sLUFnNnFyYzJjeTZGQ1JaZEFDY2FRZHUxNllr?oc=5",
-      "pub_date": 1795115304.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-enters-death-cross-anthropic-190824839.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c3b4e26196c46bdfcb48a421fb4c17e2773596363bf7ff1b6e35cc05e2c56a24/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fb5ce5eab0e832f6ec40c05dfb05d1990.jpg",
-      "description": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support."
-    },
-    {
-      "headline": "BTC slides to $61,300 after Anthropic's IPO, triggers $660 million in liquidations",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpQc3lwTkVycDlCTjk1a242TUctbGF1ZWFiY19BUG9MWWZVSG1IUWdXcm44MW03TUg4OE84ejBJZFlZVTRtM0MtR0VIR0dYLVBKcVFYQWl1WmFlZk1mM1hVSHNyMEY1RGFhcnk4Wnk1S3VhdnJYekNlbk9HMDV0RUFNVF9jcmt1dnc1YTZaQ3hBYURnU012R2dsUlZvYUhOeUc1NkFZOUNnSWZNX2E4TzJUaw?oc=5",
-      "pub_date": 1795145520.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin falls below $60,000 level",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEJfUmdFQ0ZvVC1TbUh4dXZxdzlrTVZYenFybjM0RnpESDZ2aFRsMmRsWHpjbEF4cjlCWWJtQnZiWXhINVZhUng3YW9ILWZXejhNY3BJelJKRWw1TDRzaDRtdU92ZlhRUXRMdVpzYXlWaUQ3MUx2aWtEU2VaVlhLOHlqV2Q?oc=5",
-      "pub_date": 1795191987.0,
-      "article_url": "https://www.reuters.com/technology/bitcoin-falls-below-60000-level-2026-11-20/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Hovers Just Above Average Holder\u2019s Cost Basis as Price Keeps Dipping",
+      "headline": "MSTR Head Of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IREdHMkI1ZHA5RndIU1FSQXMyZkpPVWpqXzRyZE1ESXRTWWs1a1BjaXF2dUZDY2VubjhYSXo5S0J2RFNDU1MxcGxabzduNVg2UFBvS01zZ0FCU29HX1NCbC1RMUFkTGhoX2w4TTZfWlNnUHRBT1dMazdYMA?oc=5",
-      "pub_date": 1795184700.0,
-      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/2026-11-12-morning.jpg",
-      "description": "Bitcoin trades just above its realized price. A break below would put the average holder at a loss for the first time since early 2023."
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnFnMzVXaHBCaHhpUzZKOVFTZG9EbFhCOTFpamJBclhwZ3dndlR5WlZZdWVjZ29kYmpiWlRsNnZGYldJaWo4RmhDOXRjRXR5TlpYbHZaQW9tWG5zenJxLXMwa2hEZlZKSUM3OTJOUm1IaGJILWJDbXJtYkpmOUNEYnNsSXFQYUJmbWFySlYtZEVIOVpHWkM3UFBHQ0FuNHhKai1OTUJ5MUluNWFwV3drWTVB?oc=5",
+      "pub_date": 1795205903.0,
+      "article_url": "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance-ctWQsAPySls.jpg",
+      "description": "Chaitanya \"CJ\" Jain, Head of Investor Relations at Strategy, joins Bitcoin Magazine TV as Bitcoin trades below Strategy's average cost."
+    },
+    {
+      "headline": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSndDVWk0NjdkRDZvb1d2QURSZ1FnOUVVWEpaVWV1Uzg3d2VoWVVOdUtVOGQ3elR3eExRZFdCTUY2XzFOR1Z2Y01rMk9aLUxOQi1adzdlTFVQcnNpWjVFQWotdUhNR3JZZDRSY1BGSTZkbWV0bUNjemxyNFA1Q3I1MElrMVFhdndpUFh2T0I4SEpfdTNkYmlMREVDV0Vrd2M4SHlVWlpXRjBvd29aS1VNNW52bFc4OEpZT2xEYXhobjR3bEt0MU84Ujhhek4?oc=5",
+      "pub_date": 1795198920.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ChatGPT-Image-Nov-1-2026-12_51_51-PM_clean.png",
+      "description": "Attackers moved $860 million in ether from major wallets, swapping some into bitcoin before mixing it within hours."
+    },
+    {
+      "headline": "Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzTmRJTV9CSVVQdVRHU29sTzhROF9oTkVqZm1vQXVOM1otSG9GdXdGTlZBRm9QdUlUZ0FvdkFENXMwT2g5SGwwQ1NvLXR0bmtRRzBTVVRGbENlMzV1S1FIVmU1NDhoaVQ0MXY4RG00NmZEeTV6S3BGTGhB?oc=5",
+      "pub_date": 1795116917.0,
+      "article_url": "https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Institutions-are-Piling-Into-Bitcoin-ETFs-Pushing-Holdings-to-a-Record.jpg",
+      "description": "Galaxy Research says institutions added 49,229 BTC through spot bitcoin ETFs in Q3, lifting 13F holdings to a record 356,491 BTC. Wells Fargo now leads."
     },
     {
       "headline": "Bitcoin and AI Stocks Plunge as Tech Selloff Deepens",
@@ -95,16 +75,36 @@
       "description": null
     },
     {
-      "headline": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSndDVWk0NjdkRDZvb1d2QURSZ1FnOUVVWEpaVWV1Uzg3d2VoWVVOdUtVOGQ3elR3eExRZFdCTUY2XzFOR1Z2Y01rMk9aLUxOQi1adzdlTFVQcnNpWjVFQWotdUhNR3JZZDRSY1BGSTZkbWV0bUNjemxyNFA1Q3I1MElrMVFhdndpUFh2T0I4SEpfdTNkYmlMREVDV0Vrd2M4SHlVWlpXRjBvd29aS1VNNW52bFc4OEpZT2xEYXhobjR3bEt0MU84Ujhhek4?oc=5",
-      "pub_date": 1795198920.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ChatGPT-Image-Nov-1-2026-12_51_51-PM_clean.png",
-      "description": "Attackers moved $860 million in ether from major wallets, swapping some into bitcoin before mixing it within hours."
+      "headline": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmFiekVkaDRiM0lHVW1tTFhWdTVPM3R2S1VJZmhUNDlHM3pNYkRZZHNzTnh3ZFRBQnlZSXFVblJ6SkYtNUQ4YW1WZ2RoWUxwUTh1bUhQd3hzTWJvYTBSY05fQ1pkeGVQVExwUTFmV1RfTmxfRVhVWGEydnJ3S0lrQXdwTnhGS182?oc=5",
+      "pub_date": 1795192559.0,
+      "article_url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+      "description": "Bitcoin broke below $60,000 Friday, falling to $59,700 as crypto sentiment collapsed and AI-linked stocks sank after Anthropic\u2019s IPO."
+    },
+    {
+      "headline": "Bitcoin Well Reports 2026 Q3 Financial Results",
+      "source": "Investing News Network",
+      "source_url": "https://investingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MX1RYb2xWMFU0Q1N4MWowYjR2SURYQ1hNRUxNMjcwUFU5QTllOEVlaWREazl0dldQRThtQklGSC05ckdsY3Itd2puU2dNN01vMWlyR2h3NmI3ekdsaUpaNHRfUjlQSm83QmtsbEFOM09WLUc3V0FTTFZPZTZ3dw?oc=5",
+      "pub_date": 1795201118.0,
+      "article_url": "https://investingnews.com/bitcoin-well-reports-2026-q3-financial-results/",
+      "image": "https://investingnews.com/media-library/image.png?id=33376751&width=1200&height=600&coordinates=0%2C18%2C0%2C19",
+      "description": "(TheNewswire)           Edmonton, Alberta November 20, 2026 TheNewswire - Bitcoin Well Inc. (\"Bitcoin Well\" or the \"Company\") (TSXV: BTCW,OTC:BCNWF; OTCQB: BCNWF), the non-custodial bitcoin business on a mission to enable independence, today announced financial and operating results for the third q..."
+    },
+    {
+      "headline": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs \u2014 what happens next?",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2FuMGhEMVZaUk5BU2VZWFN0MFJ2WjM0anVIUlpyOG5wdjlnQVhJRWdJY1MzZkN6TG5nTnNJemlQNGxSazNQWlZNMk55MkltOHF0WWM5V05ZN0RYMzF6SmZZb0ZzT0Jsc0c4MGQ4WnNmdTJrblE3Wi1JWlFfV2diM21IVGRvTjFiTy1CUGl30gGTAUFVX3lxTE9IeHRGYTVZU3lFdXZOMWQxTVlLU19NU3Q1a29aaVRCTTcwRkpCMm9sYzYwTVlYUmlGYmE3S1MxT3pjYVpINFdmZG5xc0ZIWWp0LXVNcTFwdnQ3MGFmNl82ck1IOHVYMmotYWZwQ2hiZ2VDb0lFRzl4SGx0d2R5WU5pZGRsNl8tSTlQYVVIeG0yZjNxWQ?oc=5",
+      "pub_date": 1795184324.0,
+      "article_url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268517-1771860022960-gettyimages-2260490322-AFP_96YR6Q2.jpeg?v=1789476137&w=1920&h=1080",
+      "description": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-20T21:26:36.909774+00:00"
+  "fetched_at": "2026-11-21T02:41:57.881763+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-20T21:26:39.464196+00:00'
+updated: '2026-11-21T02:42:09.570161+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 20, 2026 at 21:26 UTC  
+**Last Updated:** November 21, 2026 at 02:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,607.42
+### $1,628.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -8.4%  
-**7d:** -8.9%  
-**30d:** -32.5%  
-**90d:** -34.6%  
+**24h:** -7.3%  
+**7d:** -11.8%  
+**30d:** -32.2%  
+**90d:** -34.8%  
 **1y:** -41.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $196.39B
+**Market Cap:** $197.70B
 Rank #2
 
 **Circulating Supply:** 122,236,258 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.5%
+-67.3%
 
 **All-Time Low:** $0.43
-+371195.1%
++373451.6%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?
 
-5d ago
+6d ago
 
 ---
 
@@ -144,21 +144,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 8d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 9d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
-
-**[Crypto market crash today: Why are Ethereum, ZEC and altcoins down?](https://crypto.news/crypto-market-crash-today-why-are-ethereum-zec-and-altcoins-down/)**
-
-The crypto market crash has pushed Ethereum, ZEC and major altcoins lower as ETF outflows, interest rate concerns and selling pressure weigh on prices.
-
-Crypto News • 15h ago
-
----
 
 **[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
 
@@ -182,17 +174,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Price Dips 5% As Binance Hacker Moves ETHs](https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUgxaGRxdW9JS3FQbjhVYXF0OTFsZUpHRmZsTEhHQkh0SkV4a2FRamY2NDNqa3RVUGdTb2J6UFc2MGx6WE1pcTBFTWNZaUZFbUZmYm5qajN2Qm9UbVRrQmlsUEV3QzdoNlVXQlFxaFhXc25MdFJHVmxzb3laRExFZjB3MA?oc=5)**
-
-MarketForces Africa • 5h ago
-
----
-
 **[Bitcoin, Ethereum, XRP, and Solana slide as $90 billion exits crypto market](https://www.tradingview.com/news/cryptobriefing:3b3820d04094b:0-bitcoin-ethereum-xrp-and-solana-slide-as-90-billion-exits-crypto-market/)**
 
 The crypto market shed more than $90 billion in value over a single 24-hour stretch, as Bitcoin, Ethereum, XRP, and Solana all moved lower together.Bitcoin traded around $61,982 on November 20, 2026. That put it down more than 13% over recent weeks.Ethereum changed hands between $1,700 and $1,800…
 
-TradingView • 5h ago
+TradingView • 11h ago
+
+---
+
+**[Ethereum Price Dips 5% As Binance Hacker Moves ETHs](https://dmarketforces.com/ethereum-price-dips-5-as-binance-hacker-moves-eths/)**
+
+Ethereum (ETH) price fell about 5% in 24 hours to $1,704.99 on Friday, broadly tracking the crypto selloff but slightly underperforming Bitcoin, driven
+
+MarketForces Africa • 11h ago
 
 ---
 
@@ -200,7 +194,7 @@ TradingView • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 12h ago
 
 ---
 
@@ -210,17 +204,25 @@ https://genfinity.io/ • 1d ago
 
 ---
 
-**[What's next Bitcoin, Ethereum and XRP rise?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rise-etf-capital-outflows-202611191125)**
+**[Why Are Bitcoin, Ethereum and XRP Prices Still Falling and What’s Next?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-still-falling-and-whats-next/)**
 
-FXStreet • 1d ago
+Bitcoin fell to $61,496.58, down 0.7% in 24 hours and 11.5% over the past week. Ether dropped 1.3% on the day to $1,724.13 and is down 12.3% for the week.
+
+Coinpedia • 16h ago
 
 ---
 
-**[Coinbase Institutional: US dollar was the lone gainer as Bitcoin and Ethereum led monthly losses](https://cryptobriefing.com/coinbase-institutional-dollar-bitcoin-ethereum-losses/)**
+**[Ethereum targets December Glamsterdam test despite 200 findings that could delay upgrade](https://cryptoslate.com/ethereum-targets-december-glamsterdam-test-despite-200-findings-that-could-delay-upgrade/)**
 
-Coinbase Institutional says the US dollar was the only tracked asset to gain last month as Bitcoin and Ethereum posted the steepest losses.
+Ethereum is targeting a December Hoodi test for Glamsterdam despite 200 compatibility findings affecting existing smart contracts.
 
-Crypto Briefing • 6h ago
+CryptoSlate • 16h ago
+
+---
+
+**[What's next Bitcoin, Ethereum and XRP rise?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rise-etf-capital-outflows-202611191125)**
+
+FXStreet • 1d ago
 
 ---
 
@@ -228,23 +230,23 @@ Crypto Briefing • 6h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Cathie Wood Sells ETH and Solana 📉 Loads Up on $ANT](https://www.youtube.com/watch?v=XmeVwaOQxNU)**
+
+Bitcoin has dropped below $60000 as crypto and stocks sell off together, while Cathie Wood's ARK sold staked Ether and Solana ...
+
+📺 Paul Barron Network
+
+👁️ 33K • 👍 859 • 💬 112 • ⏱️ 18:51 • 6h ago
+
+---
+
 **[Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up pretty well](https://www.youtube.com/watch?v=5RirIOGyYCw)**
 
 Tom Sosnoff, Co-Founder and CEO of Lossdog, discusses Anthropic's IPO, retail investor selling, AI stock buying opportunities, ...
 
 📺 CNBC Television
 
-👁️ 5K • 👍 28 • 💬 17 • ⏱️ 4:28 • 5h ago
-
----
-
-**[Anyone Holding Bitcoin, Ethereum Or XRP In The Cryptocurrency Market Here&#39;s An Important Message](https://www.youtube.com/watch?v=HOKcuCVdZKI)**
-
-The cryptocurrency market has gone through a major shift in the last 2 years and it would seem that its causing a cataclysmic shift ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 26K • 👍 2K • 💬 214 • ⏱️ 11:41 • 9h ago
+👁️ 7K • 👍 31 • 💬 17 • ⏱️ 4:28 • 11h ago
 
 ---
 
@@ -254,17 +256,7 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 363 • 👍 12 • 💬 9 • ⏱️ 3:06 • 8h ago
-
----
-
-**[Why Bitcoin Wasn&#39;t ENOUGH For Vitalik Buterin](https://www.youtube.com/watch?v=38Cxn9WpttM)**
-
-Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 23K • 👍 385 • 💬 31 • ⏱️ 24:39 • 1d ago
+👁️ 932 • 👍 12 • 💬 9 • ⏱️ 3:06 • 13h ago
 
 ---
 
@@ -274,17 +266,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 289 • 💬 37 • ⏱️ 24:24 • 1d ago
+👁️ 24K • 👍 294 • 💬 37 • ⏱️ 24:24 • 1d ago
 
 ---
 
-**[Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up &#39;pretty well&#39;](https://www.youtube.com/watch?v=a2ldTfRrpEI)**
+**[Why Bitcoin Wasn&#39;t ENOUGH For Vitalik Buterin](https://www.youtube.com/watch?v=38Cxn9WpttM)**
 
-Tom Sosnoff, co-founder and CEO of Lossdog, discusses Bitcoin weakness and liquidity risks at MicroStrategy and Coinbase.
+Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
 
-📺 CNBC Television
+📺 Coin Bureau
 
-👁️ 671 • 👍 4 • 💬 3 • ⏱️ 1:16 • 5h ago
+👁️ 24K • 👍 392 • 💬 31 • ⏱️ 24:39 • 1d ago
+
+---
+
+**[Anyone Holding Bitcoin, Ethereum Or XRP In The Cryptocurrency Market Here&#39;s An Important Message](https://www.youtube.com/watch?v=HOKcuCVdZKI)**
+
+The cryptocurrency market has gone through a major shift in the last 2 years and it would seem that its causing a cataclysmic shift ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 31K • 👍 2K • 💬 227 • ⏱️ 11:41 • 14h ago
+
+---
+
+**[Raoul Pal :&quot;FINALLY The Banana Zone Phase 2 Is HERE!&quot; | Bitcoin &amp; ETH Supercycle!](https://www.youtube.com/watch?v=7lHigi2zWAk)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 1K • 👍 37 • 💬 21 • ⏱️ 22:05 • 7h ago
 
 ---
 
@@ -294,7 +306,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 310 • 💬 70 • ⏱️ 25:11 • 2d ago
+👁️ 24K • 👍 311 • 💬 71 • ⏱️ 25:11 • 2d ago
 
 ---
 
@@ -308,23 +320,13 @@ Ethereum is sitting on its main support at $1724, the 78.6% retracement, but the
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=bLRwQS7v_Ac)**
+**[Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up &#39;pretty well&#39;](https://www.youtube.com/watch?v=a2ldTfRrpEI)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Tom Sosnoff, co-founder and CEO of Lossdog, discusses Bitcoin weakness and liquidity risks at MicroStrategy and Coinbase.
 
-📺 Crypto Gyan
+📺 CNBC Television
 
-👁️ 2K • 👍 88 • ⏱️ 5:30 • 6h ago
-
----
-
-**[ETHEREUM 🚨 NOVEMBER 19](https://www.youtube.com/watch?v=mD00f2S2kSA)**
-
-ETHEREUM NOVEMBER 19.
-
-📺 Overkill Trading
-
-👁️ 2K • 👍 47 • 💬 14 • ⏱️ 1:38 • 13h ago
+👁️ 1K • 👍 6 • 💬 3 • ⏱️ 1:16 • 10h ago
 
 ---
 
