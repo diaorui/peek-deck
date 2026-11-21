@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-21T02:42:09.571907+00:00'
+updated: '2026-11-21T10:42:30.287436+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 21, 2026 at 02:42 UTC  
+**Last Updated:** November 21, 2026 at 10:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-5d ago
+6d ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-5d ago
+6d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-5d ago
+6d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-5d ago
+6d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-6d ago
+7d ago
 
 ---
 
@@ -110,33 +110,23 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[Gemini 4 Hydrogen: a faster model for general purpose robotics](https://developers.googleblog.com/gemini-hydrogen-for-robotics/)**
+**[‘The doom of humanity’: will the quest to make robotic hands render us obsolete?](https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai)**
 
-Discover Gemini 4 Hydrogen: a fast, cost-effective model for robotics featuring real-time spatial reasoning, agentic control, and seamless integration with the Antigravity Robotics plugin and MuJoCo simulation.
+The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that
 
-Google for Developers Blog • 3d ago
-
----
-
-**[Former No Name Restaurant to become marine robotics hub](https://www.boston.com/news/local-news/2026/11/20/former-no-name-restaurant-to-become-marine-robotics-hub/)**
-
-The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech.
-
-Boston.com • 28m ago
+The Guardian • 2h ago
 
 ---
 
 **[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
 
-Reuters • 8h ago
+Reuters • 16h ago
 
 ---
 
-**[It's the Mighty Morphin' Quadrotors?!](https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor)**
+**[Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test](https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html)**
 
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 9h ago
+Tech Xplore • 21h ago
 
 ---
 
@@ -144,13 +134,7 @@ IEEE Spectrum • 9h ago
 
 A CoRL Trip Report
 
-ChinaTalk | Jordan Schneider • 10h ago
-
----
-
-**[US companies turn to robots to ease labour shortage crisis](https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1)**
-
-Financial Times • 1d ago
+ChinaTalk | Jordan Schneider • 18h ago
 
 ---
 
@@ -158,7 +142,7 @@ Financial Times • 1d ago
 
 Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed.
 
-GeekWire • 10h ago
+GeekWire • 18h ago
 
 ---
 
@@ -166,7 +150,31 @@ GeekWire • 10h ago
 
 Jensen Huang, one of robotics' most influential advocates, has resigned from NVIDIA. Can the industry sustain its momentum without him?
 
-The Robot Report • 23h ago
+The Robot Report • 1d ago
+
+---
+
+**[Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028](https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html)**
+
+Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position.
+
+CNBC • 2h ago
+
+---
+
+**[Former No Name Restaurant to become marine robotics hub](https://www.boston.com/news/local-news/2026/11/20/former-no-name-restaurant-to-become-marine-robotics-hub/)**
+
+The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech.
+
+Boston.com • 8h ago
+
+---
+
+**[US firm unveils Phantom MKII battlefield humanoid robot with bigger payload, tougher build](https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot)**
+
+Foundation unveils Phantom MKII humanoid robot and Cortex II AI, claiming a 200-pound payload capacity and weatherproofing for harsh terrain
+
+Interesting Engineering • 20h ago
 
 ---
 
@@ -178,17 +186,19 @@ TechCrunch • 2d ago
 
 ---
 
-**[US firm unveils Phantom MKII battlefield humanoid robot with bigger payload, tougher build](https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot)**
-
-Foundation unveils Phantom MKII humanoid robot and Cortex II AI, claiming a 200-pound payload capacity and weatherproofing for harsh terrain
-
-Interesting Engineering • 12h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Cornell Gave This Mushroom a Robot Body 🍄](https://www.youtube.com/watch?v=tQdznKEpFHI)**
+
+The king oyster mushroom (Pleurotus eryngii) is the fat-stemmed mushroom you find at the shops, but the part we eat is only the ...
+
+📺 Creatures in Motion
+
+👁️ 594 • 👍 34 • 💬 1 • ⏱️ 2:53 • 2h ago
+
+---
 
 **[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
 
@@ -196,37 +206,17 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Cleo Abram
 
-👁️ 384K • 👍 26K • 💬 300 • ⏱️ 1:05 • 11h ago
+👁️ 834K • 👍 54K • 💬 548 • ⏱️ 1:05 • 19h ago
 
 ---
 
-**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
+**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
 
-A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
+ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
 
-📺 NBC Bay Area
+📺 MuffinJuice
 
-👁️ 179K • 👍 580 • 💬 466 • ⏱️ 2:44 • 3d ago
-
----
-
-**[How to Build a Self-Balancing Propeller Rod #robotics🌪️⚙️](https://www.youtube.com/watch?v=2xZ1faGBmWo)**
-
-Original video credit: IG/@pcbaxinxin5637. The video shows a self-balancing inverted pendulum: a vertical rod with a ...
-
-📺 History Seeker
-
-👁️ 28K • 👍 235 • 💬 5 • ⏱️ 0:07 • 13h ago
-
----
-
-**[Two Xiaomi Humanoid Robots Worked an 8-Hour Car Factory Shift](https://www.youtube.com/watch?v=NIQnni5l7l0)**
-
-THIS MONTH: Two full-size Xiaomi humanoid robots completed an eight-hour-and-five-minute production shift at Xiaomi's Beijing ...
-
-📺 Bradford Manning
-
-👁️ 18K • 👍 459 • 💬 19 • ⏱️ 1:14 • 3d ago
+👁️ 983K • 👍 31K • 💬 3K • ⏱️ 15:00 • 1d ago
 
 ---
 
@@ -236,27 +226,17 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 224K • 👍 3K • 💬 635 • ⏱️ 2:12:13 • 4d ago
+👁️ 226K • 👍 3K • 💬 637 • ⏱️ 2:12:13 • 4d ago
 
 ---
 
-**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
+**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
 
-Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
+A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
 
-📺 Unbox Therapy
+📺 NBC Bay Area
 
-👁️ 664K • 👍 33K • 💬 63 • ⏱️ 1:24 • 2d ago
-
----
-
-**[MIT&#39;s Cat-Inspired Robot Can Land on Its Feet With Just 6 Motors! 🤯🐈](https://www.youtube.com/watch?v=qpWAtJ2ky7Y)**
-
-What if a robot could move and land like a cat? MIT CSAIL's Felis robot uses an actuated spine and just six motors to walk, ...
-
-📺 Nexio Core
-
-👁️ 5K • ⏱️ 0:07 • 8h ago
+👁️ 184K • 👍 590 • 💬 470 • ⏱️ 2:44 • 4d ago
 
 ---
 
@@ -266,17 +246,17 @@ Scanning for explosives should be a machine's job. People should be out of harm'
 
 📺 SkyLark Labs
 
-👁️ 210K • 👍 2K • 💬 3 • ⏱️ 0:39 • 2d ago
+👁️ 221K • 👍 3K • 💬 5 • ⏱️ 0:39 • 2d ago
 
 ---
 
-**[500-Foot Robotic Wolf vs 350-Foot Robotic Lion! 🐺🦁 | Six Sisters Save Their Village](https://www.youtube.com/watch?v=HlspxjX-xE4)**
+**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
 
-500-Foot Robotic Wolf vs 350-Foot Robotic Lion! | Six Sisters Save Their Village One terrifying night, a gigantic 500-foot robotic ...
+Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
 
-📺 Gramixa
+📺 CNET
 
-👁️ 551K • 💬 17 • ⏱️ 8:11 • 2d ago
+👁️ 43K • 👍 393 • 💬 41 • ⏱️ 4:02 • 5d ago
 
 ---
 
@@ -286,7 +266,27 @@ Salvadoran President Nayib Bukele releases footage showing troops deploying rifl
 
 📺 Fox News
 
-👁️ 210K • 👍 3K • 💬 693 • ⏱️ 0:20 • 5d ago
+👁️ 211K • 👍 3K • 💬 693 • ⏱️ 0:20 • 5d ago
+
+---
+
+**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
+
+Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
+
+📺 Unbox Therapy
+
+👁️ 833K • 👍 38K • 💬 68 • ⏱️ 1:24 • 2d ago
+
+---
+
+**[How to Build a Self-Balancing Propeller Rod #robotics🌪️⚙️](https://www.youtube.com/watch?v=2xZ1faGBmWo)**
+
+Original video credit: IG/@pcbaxinxin5637. The video shows a self-balancing inverted pendulum: a vertical rod with a ...
+
+📺 History Seeker
+
+👁️ 40K • 👍 237 • 💬 6 • ⏱️ 0:07 • 21h ago
 
 ---
 

@@ -61,6 +61,20 @@
       "site_name": "ezzeriesa.com"
     },
     {
+      "title": "Microtonal BitcoinCash Transaction Sonifier and Visualizer",
+      "url": "https://spiritsofbitcoin.cash/",
+      "hn_url": "https://news.ycombinator.com/item?id=50587507",
+      "author": "jlmoriart",
+      "points": 1,
+      "num_comments": 1,
+      "created_at": "2026-11-21T09:25:06Z",
+      "object_id": "50587507",
+      "image": null,
+      "description": "The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.",
+      "favicon": "https://spiritsofbitcoin.cash/icons/apple-touch-icon.png",
+      "site_name": "spiritsofbitcoin.cash"
+    },
+    {
       "title": "Show HN: TimestampGit \u2013 1-click GitHub App that anchors commits to Bitcoin",
       "url": "https://timestampgit.dev",
       "hn_url": "https://news.ycombinator.com/item?id=50547352",
@@ -103,20 +117,6 @@
       "site_name": "X (formerly Twitter)"
     },
     {
-      "title": "Ask HN: What use are the non-major cryptocurrencies?",
-      "url": "https://news.ycombinator.com/item?id=50493695",
-      "hn_url": "https://news.ycombinator.com/item?id=50493695",
-      "author": "otohp",
-      "points": 4,
-      "num_comments": 5,
-      "created_at": "2026-11-14T03:53:13Z",
-      "object_id": "50493695",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
-    },
-    {
       "title": "Show HN: New In browser URL verification tool",
       "url": "https://news.ycombinator.com/item?id=50505178",
       "hn_url": "https://news.ycombinator.com/item?id=50505178",
@@ -145,7 +145,7 @@
       "site_name": "usenunya.com"
     }
   ],
-  "total_hits": 12,
+  "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2026-11-21T02:41:37.921056+00:00"
+  "fetched_at": "2026-11-21T10:42:00.916592+00:00"
 }

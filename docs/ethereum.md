@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-21T02:42:09.570161+00:00'
+updated: '2026-11-21T10:42:30.284182+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 21, 2026 at 02:42 UTC  
+**Last Updated:** November 21, 2026 at 10:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,628.18
+### $1,633.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -7.3%  
-**7d:** -11.8%  
-**30d:** -32.2%  
-**90d:** -34.8%  
-**1y:** -41.7%  
+**24h:** -6.2%  
+**7d:** -10.6%  
+**30d:** -31.3%  
+**90d:** -33.9%  
+**1y:** -40.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $197.70B
+**Market Cap:** $200.30B
 Rank #2
 
-**Circulating Supply:** 122,236,258 ETH
+**Circulating Supply:** 122,238,992 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.3%
+-66.9%
 
 **All-Time Low:** $0.43
-+373451.6%
++378350.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -88,7 +88,7 @@ Does anybody know of any good decentralized email services?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -104,7 +104,7 @@ Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear tec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+9d ago
 
 ---
 
@@ -152,9 +152,9 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
+**[ETH news: Ethereum’s next big upgrade is pushed into 2027 by apps it would break](https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break)**
 
-CoinDesk • 2d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -174,11 +174,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings](https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226)**
+
+Ark Invest trimmed its Ethereum and Solana staking ETF exposure while buying nearly 1 million shares in Anthropic on Thursday.
+
+The Block • 22h ago
+
+---
+
 **[Bitcoin, Ethereum, XRP, and Solana slide as $90 billion exits crypto market](https://www.tradingview.com/news/cryptobriefing:3b3820d04094b:0-bitcoin-ethereum-xrp-and-solana-slide-as-90-billion-exits-crypto-market/)**
 
 The crypto market shed more than $90 billion in value over a single 24-hour stretch, as Bitcoin, Ethereum, XRP, and Solana all moved lower together.Bitcoin traded around $61,982 on November 20, 2026. That put it down more than 13% over recent weeks.Ethereum changed hands between $1,700 and $1,800…
 
-TradingView • 11h ago
+TradingView • 19h ago
 
 ---
 
@@ -186,7 +194,7 @@ TradingView • 11h ago
 
 Ethereum (ETH) price fell about 5% in 24 hours to $1,704.99 on Friday, broadly tracking the crypto selloff but slightly underperforming Bitcoin, driven
 
-MarketForces Africa • 11h ago
+MarketForces Africa • 19h ago
 
 ---
 
@@ -194,13 +202,7 @@ MarketForces Africa • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
-
----
-
-**[Chainlink and UBS Automate Tokenized Structured Notes on Ethereum With CRE, Targeting a $2 Trillion Market](https://genfinity.io/2026/11/19/chainlink-ubs-tokenized-structured-notes-cre-2-trillion-market/)**
-
-https://genfinity.io/ • 1d ago
+Fortune • 20h ago
 
 ---
 
@@ -208,15 +210,15 @@ https://genfinity.io/ • 1d ago
 
 Bitcoin fell to $61,496.58, down 0.7% in 24 hours and 11.5% over the past week. Ether dropped 1.3% on the day to $1,724.13 and is down 12.3% for the week.
 
-Coinpedia • 16h ago
+Coinpedia • 1d ago
 
 ---
 
-**[Ethereum targets December Glamsterdam test despite 200 findings that could delay upgrade](https://cryptoslate.com/ethereum-targets-december-glamsterdam-test-despite-200-findings-that-could-delay-upgrade/)**
+**[Coinbase Institutional: US dollar was the lone gainer as Bitcoin and Ethereum led monthly losses](https://cryptobriefing.com/coinbase-institutional-dollar-bitcoin-ethereum-losses/)**
 
-Ethereum is targeting a December Hoodi test for Glamsterdam despite 200 compatibility findings affecting existing smart contracts.
+Coinbase Institutional says the US dollar was the only tracked asset to gain last month as Bitcoin and Ethereum posted the steepest losses.
 
-CryptoSlate • 16h ago
+Crypto Briefing • 19h ago
 
 ---
 
@@ -230,13 +232,23 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=dXty66Fxs4s)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 2K • 👍 83 • 💬 37 • ⏱️ 23:09 • 2h ago
+
+---
+
 **[Cathie Wood Sells ETH and Solana 📉 Loads Up on $ANT](https://www.youtube.com/watch?v=XmeVwaOQxNU)**
 
 Bitcoin has dropped below $60000 as crypto and stocks sell off together, while Cathie Wood's ARK sold staked Ether and Solana ...
 
 📺 Paul Barron Network
 
-👁️ 33K • 👍 859 • 💬 112 • ⏱️ 18:51 • 6h ago
+👁️ 57K • 👍 1K • 💬 143 • ⏱️ 18:51 • 14h ago
 
 ---
 
@@ -246,47 +258,7 @@ Tom Sosnoff, Co-Founder and CEO of Lossdog, discusses Anthropic's IPO, retail in
 
 📺 CNBC Television
 
-👁️ 7K • 👍 31 • 💬 17 • ⏱️ 4:28 • 11h ago
-
----
-
-**[Since 2019, Every Time ETH Got This Oversold, It Went HIGHER!! Ethereum Price Prediction](https://www.youtube.com/watch?v=igPw9rubOPg)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v119 CoinGPT - the AI Trade Agent I ...
-
-📺 Marzell Crypto
-
-👁️ 932 • 👍 12 • 💬 9 • ⏱️ 3:06 • 13h ago
-
----
-
-**[Cathie Wood &amp; Lyn Alden Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=0PRiBVgRXv4)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 24K • 👍 294 • 💬 37 • ⏱️ 24:24 • 1d ago
-
----
-
-**[Why Bitcoin Wasn&#39;t ENOUGH For Vitalik Buterin](https://www.youtube.com/watch?v=38Cxn9WpttM)**
-
-Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 24K • 👍 392 • 💬 31 • ⏱️ 24:39 • 1d ago
-
----
-
-**[Anyone Holding Bitcoin, Ethereum Or XRP In The Cryptocurrency Market Here&#39;s An Important Message](https://www.youtube.com/watch?v=HOKcuCVdZKI)**
-
-The cryptocurrency market has gone through a major shift in the last 2 years and it would seem that its causing a cataclysmic shift ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 31K • 👍 2K • 💬 227 • ⏱️ 11:41 • 14h ago
+👁️ 8K • 👍 34 • 💬 18 • ⏱️ 4:28 • 19h ago
 
 ---
 
@@ -296,17 +268,57 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 37 • 💬 21 • ⏱️ 22:05 • 7h ago
+👁️ 3K • 👍 47 • 💬 10 • ⏱️ 22:05 • 15h ago
 
 ---
 
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=vraYA12JsrU)**
+**[Anyone Holding Bitcoin, Ethereum Or XRP In The Cryptocurrency Market Here&#39;s An Important Message](https://www.youtube.com/watch?v=HOKcuCVdZKI)**
+
+The cryptocurrency market has gone through a major shift in the last 2 years and it would seem that its causing a cataclysmic shift ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 35K • 👍 2K • 💬 268 • ⏱️ 11:41 • 22h ago
+
+---
+
+**[Cathie Wood &amp; Lyn Alden Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=0PRiBVgRXv4)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 311 • 💬 71 • ⏱️ 25:11 • 2d ago
+👁️ 25K • 👍 297 • 💬 39 • ⏱️ 24:24 • 1d ago
+
+---
+
+**[Since 2019, Every Time ETH Got This Oversold, It Went HIGHER!! Ethereum Price Prediction](https://www.youtube.com/watch?v=igPw9rubOPg)**
+
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v119 CoinGPT - the AI Trade Agent I ...
+
+📺 Marzell Crypto
+
+👁️ 2K • 👍 16 • 💬 9 • ⏱️ 3:06 • 21h ago
+
+---
+
+**[Why Bitcoin Wasn&#39;t ENOUGH For Vitalik Buterin](https://www.youtube.com/watch?v=38Cxn9WpttM)**
+
+Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 25K • 👍 400 • 💬 31 • ⏱️ 24:39 • 1d ago
+
+---
+
+**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=Mm5rRRBFavU)**
+
+BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 5K • 👍 129 • 💬 2 • ⏱️ 7:12 • 6h ago
 
 ---
 
@@ -316,17 +328,7 @@ Ethereum is sitting on its main support at $1724, the 78.6% retracement, but the
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 154 • 💬 13 • ⏱️ 6:52 • 1d ago
-
----
-
-**[Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up &#39;pretty well&#39;](https://www.youtube.com/watch?v=a2ldTfRrpEI)**
-
-Tom Sosnoff, co-founder and CEO of Lossdog, discusses Bitcoin weakness and liquidity risks at MicroStrategy and Coinbase.
-
-📺 CNBC Television
-
-👁️ 1K • 👍 6 • 💬 3 • ⏱️ 1:16 • 10h ago
+👁️ 9K • 👍 157 • 💬 13 • ⏱️ 6:52 • 1d ago
 
 ---
 
