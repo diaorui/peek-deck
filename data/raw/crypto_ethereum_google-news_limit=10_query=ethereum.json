@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Crypto market crash today: Why are Ethereum, ZEC and altcoins down?",
-      "source": "Crypto News",
-      "source_url": "https://crypto.news",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcXlzVk40X1p3RTNEenFfcHJfbW9IbHJ3aFQzclpYenUweDF0clh1TmM0ZVFBZU5tY1ExSHk1WmFvVjlJaGloS3d1LXBaNHFZR3FRbWl4SU0zNEs0T0lCalVhb05neWFoMklwVk1lZjlpVVcxT3ZtczVKaUxSSmxYRC16eVktRDgwcTJEV0x3?oc=5",
-      "pub_date": 1795155420.0,
-      "article_url": "https://crypto.news/crypto-market-crash-today-why-are-ethereum-zec-and-altcoins-down/",
-      "image": "https://media.crypto.news/2025/03/crypto-news-bear-trading-chart-option03-1380x820-1.webp",
-      "description": "The crypto market crash has pushed Ethereum, ZEC and major altcoins lower as ETF outflows, interest rate concerns and selling pressure weigh on prices."
-    },
-    {
       "headline": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -45,16 +35,6 @@
       "description": "Tom Lee\u2019s Bitmine kept catching a falling knife over the past year."
     },
     {
-      "headline": "Ethereum Price Dips 5% As Binance Hacker Moves ETHs",
-      "source": "MarketForces Africa",
-      "source_url": "https://dmarketforces.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUgxaGRxdW9JS3FQbjhVYXF0OTFsZUpHRmZsTEhHQkh0SkV4a2FRamY2NDNqa3RVUGdTb2J6UFc2MGx6WE1pcTBFTWNZaUZFbUZmYm5qajN2Qm9UbVRrQmlsUEV3QzdoNlVXQlFxaFhXc25MdFJHVmxzb3laRExFZjB3MA?oc=5",
-      "pub_date": 1795189051.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin, Ethereum, XRP, and Solana slide as $90 billion exits crypto market",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -65,11 +45,21 @@
       "description": "The crypto market shed more than $90 billion in value over a single 24-hour stretch, as Bitcoin, Ethereum, XRP, and Solana all moved lower together.Bitcoin traded around $61,982 on November 20, 2026. That put it down more than 13% over recent weeks.Ethereum changed hands between $1,700 and $1,800\u2026"
     },
     {
+      "headline": "Ethereum Price Dips 5% As Binance Hacker Moves ETHs",
+      "source": "MarketForces Africa",
+      "source_url": "https://dmarketforces.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUgxaGRxdW9JS3FQbjhVYXF0OTFsZUpHRmZsTEhHQkh0SkV4a2FRamY2NDNqa3RVUGdTb2J6UFc2MGx6WE1pcTBFTWNZaUZFbUZmYm5qajN2Qm9UbVRrQmlsUEV3QzdoNlVXQlFxaFhXc25MdFJHVmxzb3laRExFZjB3MA?oc=5",
+      "pub_date": 1795189051.0,
+      "article_url": "https://dmarketforces.com/ethereum-price-dips-5-as-binance-hacker-moves-eths/",
+      "image": "https://dmarketforces.com/wp-content/uploads/2026/11/Ethereum-Price-Dips-5-as-Binance-Hacker-Moves-ETHs.jpg",
+      "description": "Ethereum (ETH) price fell about 5% in 24 hours to $1,704.99 on Friday, broadly tracking the crypto selloff but slightly underperforming Bitcoin, driven"
+    },
+    {
       "headline": "Current price of Ethereum for November 20, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PWFE5SVRQOWdndU5sODFoUGNHeXM3emRZeGdOQUE5WGVsVDBSNDFuMTNhR3FkcE5zR3F0THNfTlJZNzJuRlE4NE9RVFFpbTVycUpEMlFkelFkV1daNEVIbUpVdlc4R3E3?oc=5",
-      "pub_date": 1795178400.0,
+      "pub_date": 1795185701.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-11-20-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-20.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -85,6 +75,26 @@
       "description": null
     },
     {
+      "headline": "Why Are Bitcoin, Ethereum and XRP Prices Still Falling and What\u2019s Next?",
+      "source": "Coinpedia",
+      "source_url": "https://coinpedia.org",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWZId2RUY2NxYUZHQVUwZFJqb19JcUlnVDhiSzg4U2R6cTg5M3M4NGsybDNoemV5X25LR1p3ckRtMFVsMFFPVEl0STdNLU1SN0FhaXhNY3lDTmR6M19yMnpZMUNfM2lFOHk3bVRFTTRRd3l4bEUwSUJuTXJRci14a3JCNGwyNGJpMVhhYlFoNUk0NU9hX3RzN2YzeEbSAaIBQVVfeXFMT3BRajVUZkFDaXVVSGI1cUVBSnVPYXp0MHZTSWhuejVITHA4eXg4S3pKYW1DNFh2NXZnWDFZZVZpYno2YzE4SjZQUndQdXAwZ3FRWW1aNFJZWU04LS1USzlrcWdQeE54UUh1dzF1Njh1ZDNNanVlMHBTLTNUYjFsSTJROGtMTEhTYjBNTi0xcm5jQ3pseUttbGJxWkUxMTRxaUR3?oc=5",
+      "pub_date": 1795170141.0,
+      "article_url": "https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-still-falling-and-whats-next/",
+      "image": "https://image.coinpedia.org/wp-content/uploads/2026/11/20155251/Why-Are-Bitcoin-Ethereum-and-XRP-Prices-Still-Falling-and-Whats-Next.jpg",
+      "description": "Bitcoin fell to $61,496.58, down 0.7% in 24 hours and 11.5% over the past week. Ether dropped 1.3% on the day to $1,724.13 and is down 12.3% for the week."
+    },
+    {
+      "headline": "Ethereum targets December Glamsterdam test despite 200 findings that could delay upgrade",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmtHYmpFZ3JoU1JvSnY2ZDd4c25LdlUzX3dnMDdnQXNHeGtqci1kUVJUNVk5X1o1OGpDZnFWSnlBUEVoaHQ1aVBpRGJTajhfeEhGLWUtR0N2N01VSnJ5aHBxRzRnd3Azc0daNHQ5MHZKMlBEeGd3RkFIRkF2Uko2aHdjQ2U5OUN1d0REeldleERGREw2YkpnS3VZS3FQcE5ROUxYa0NuZUQ4UDYybUVmdGx1WQ?oc=5",
+      "pub_date": 1795170641.0,
+      "article_url": "https://cryptoslate.com/ethereum-targets-december-glamsterdam-test-despite-200-findings-that-could-delay-upgrade/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-upgrade-review-jig.webp",
+      "description": "Ethereum is targeting a December Hoodi test for Glamsterdam despite 200 compatibility findings affecting existing smart contracts."
+    },
+    {
       "headline": "What's next Bitcoin, Ethereum and XRP rise?",
       "source": "FXStreet",
       "source_url": "https://www.fxstreet.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rise-etf-capital-outflows-202611191125",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Coinbase Institutional: US dollar was the lone gainer as Bitcoin and Ethereum led monthly losses",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNndSOEtkeS1ZeXlQN2swNm4yQzZtLUdzdC1xc3hfcURBNzdOUGpZc1gzR2FJZTNyQzZBMWliWDU4UEoxNDVoZVphRkQ2XzhNa085YmJzUWdzTDNPRTA3QWwwTzNmajlfNnJ5ekI2R25JZFJEYmlLaXpvQUplc2pBWHRZMnkxQ1NV?oc=5",
-      "pub_date": 1795186095.0,
-      "article_url": "https://cryptobriefing.com/coinbase-institutional-dollar-bitcoin-ethereum-losses/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/20094805/library-coinbase-institutional-us-dollar-was-the-lone-gainer-as--800x450.jpg",
-      "description": "Coinbase Institutional says the US dollar was the only tracked asset to gain last month as Bitcoin and Ethereum posted the steepest losses."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-20T21:26:24.183941+00:00"
+  "fetched_at": "2026-11-21T02:41:57.918762+00:00"
 }

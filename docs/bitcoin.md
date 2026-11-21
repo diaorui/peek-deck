@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-20T21:26:39.458977+00:00'
+updated: '2026-11-21T02:42:09.566996+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 20, 2026 at 21:26 UTC  
+**Last Updated:** November 21, 2026 at 02:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $58,614.97
+### $59,030.25
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -5.6%  
-**7d:** -8.5%  
-**30d:** -27.9%  
-**90d:** -24.5%  
-**1y:** -30.9%  
+**7d:** -10.2%  
+**30d:** -27.7%  
+**90d:** -25.7%  
+**1y:** -30.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1173.93B
+**Market Cap:** $1179.57B
 Rank #1
 
-**Circulating Supply:** 20,114,890 BTC
+**Circulating Supply:** 20,114,981 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--53.7%
+-53.5%
 
 **All-Time Low:** $67.81
-+85965.5%
++86378.4%
 
 ---
 
@@ -97,7 +97,7 @@ We’re so back! /s
 
 Congrats everyone.
 
-5d ago
+6d ago
 
 ---
 
@@ -125,7 +125,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 62 > 64.5
 
-5d ago
+6d ago
 
 ---
 
@@ -133,13 +133,13 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 I really have no words of hope. But I am holding on.
 
-5d ago
+6d ago
 
 ---
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1xwizma/hodl/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -147,13 +147,21 @@ I really have no words of hope. But I am holding on.
 
 What is going on with Bitcoin today?
 
-5d ago
+6d ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin plunges below $59,000, on pace for its worst month since June 2022](https://finance.yahoo.com/markets/article/bitcoin-plunges-below-59000-on-pace-for-its-worst-month-since-june-2022-192922111.html)**
+
+Bitcoin plunged below $60,000 on Friday, deepening a November sell-off that is shaping up to be the cryptocurrency's worst monthly decline in more than four years.
+
+Yahoo Finance • 5h ago
+
+---
 
 **[Strategy Is Worth Less Than Its Bitcoin, Trump Media May Have To Sell](https://www.investors.com/news/mstr-stock-discount-vs-bitcoin-trump-media-convertible/)**
 
@@ -171,53 +179,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Drops Below $59K, Wiping Out $1.5B In Crypto Bets: MSTR, BMNR, ASST Stocks Extend Losses](https://www.tradingview.com/news/stocktwits:ca8d525d7094b:0-bitcoin-drops-below-59k-wiping-out-1-5b-in-crypto-bets-mstr-bmnr-asst-stocks-extend-losses/)**
+**[MSTR Head Of Investor Relations Addresses Bitcoin Pullback, Equity Performance](https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance)**
 
-Bitcoin (BTC) dropped below $59,000 in afternoon trade on Friday for the first time since July, wiping out over $1.5 billion in cryptocurrency bets, as tech stocks continued to pull down broader markets.Bitcoin’s price fell nearly 6% in the last 24 hours to $58,900. It was among the top trending ti…
+Chaitanya "CJ" Jain, Head of Investor Relations at Strategy, joins Bitcoin Magazine TV as Bitcoin trades below Strategy's average cost.
 
-TradingView • 2h ago
-
----
-
-**[Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?](https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html)**
-
-With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.
-
-CNBC • 7h ago
-
----
-
-**[Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street](https://finance.yahoo.com/markets/crypto/articles/bitcoin-enters-death-cross-anthropic-190824839.html)**
-
-Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.
-
-Yahoo Finance • 1d ago
-
----
-
-**[BTC slides to $61,300 after Anthropic's IPO, triggers $660 million in liquidations](https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt)**
-
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin falls below $60,000 level](https://www.reuters.com/technology/bitcoin-falls-below-60000-level-2026-11-20/)**
-
-Reuters • 5h ago
-
----
-
-**[Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping](https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price)**
-
-Bitcoin trades just above its realized price. A break below would put the average holder at a loss for the first time since early 2023.
-
-Bitcoin Magazine • 7h ago
-
----
-
-**[Bitcoin and AI Stocks Plunge as Tech Selloff Deepens](https://gizmodo.com/bitcoin-is-back-where-it-was-five-years-ago-ai-stocks-are-crashing-too-2000843154)**
-
-Gizmodo • 3h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -225,7 +191,45 @@ Gizmodo • 3h ago
 
 Attackers moved $860 million in ether from major wallets, swapping some into bitcoin before mixing it within hours.
 
-The Block • 3h ago
+The Block • 8h ago
+
+---
+
+**[Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record](https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings)**
+
+Galaxy Research says institutions added 49,229 BTC through spot bitcoin ETFs in Q3, lifting 13F holdings to a record 356,491 BTC. Wells Fargo now leads.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin and AI Stocks Plunge as Tech Selloff Deepens](https://gizmodo.com/bitcoin-is-back-where-it-was-five-years-ago-ai-stocks-are-crashing-too-2000843154)**
+
+Gizmodo • 8h ago
+
+---
+
+**[Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February](https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest)**
+
+Bitcoin broke below $60,000 Friday, falling to $59,700 as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.
+
+Decrypt • 10h ago
+
+---
+
+**[Bitcoin Well Reports 2026 Q3 Financial Results](https://investingnews.com/bitcoin-well-reports-2026-q3-financial-results/)**
+
+(TheNewswire)           Edmonton, Alberta November 20, 2026 TheNewswire - Bitcoin Well Inc. ("Bitcoin Well" or the "Company") (TSXV: BTCW,OTC:BCNWF; OTCQB: BCNWF), the non-custodial bitcoin business on a mission to enable independence, today announced financial and operating results for the third q...
+
+Investing News Network • 7h ago
+
+---
+
+**[Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?](https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html)**
+
+With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.
+
+CNBC • 12h ago
 
 ---
 
@@ -245,7 +249,7 @@ The alleged operator of defunct pirate streaming site Movie2K could walk out of 
 
 Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bottom suggest the first flush rarely ends the pain. Three catalysts and two price lines will decide whether the old highs come back or the floor drops again.
 
-⬆️ 5 • 💬 1 • 5d ago • [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/)
+⬆️ 5 • 💬 1 • 6d ago • [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/)
 
 ---
 
@@ -253,7 +257,7 @@ Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bot
 
 Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...
 
-⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
+⬆️ 2 • 💬 0 • 16h ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
 
 ---
 
@@ -305,7 +309,7 @@ My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
 Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.
 
-⬆️ 1 • 💬 0 • 5h ago • [usenunya.com](https://usenunya.com/)
+⬆️ 1 • 💬 0 • 10h ago • [usenunya.com](https://usenunya.com/)
 
 ---
 
@@ -313,23 +317,23 @@ Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Pot
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Drops Below $60k](https://www.youtube.com/watch?v=6EpZVnKKrOE)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 111K • 👍 5K • 💬 436 • ⏱️ 25:28 • 5h ago
-
----
-
 **[Bitcoin just got singled out again](https://www.youtube.com/watch?v=-uTAENzYuS8)**
 
 Oracle is down 68% from its record high, Intel 61%, Robinhood 55%, Nvidia 39%. Scott Melker's chart puts Bitcoin in the middle of ...
 
 📺 Yahoo Finance
 
-👁️ 11K • 👍 281 • 💬 81 • ⏱️ 14:52 • 3h ago
+👁️ 27K • 👍 406 • 💬 102 • ⏱️ 14:52 • 8h ago
+
+---
+
+**[Bitcoin Drops Below $60k](https://www.youtube.com/watch?v=6EpZVnKKrOE)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 192K • 👍 6K • 💬 552 • ⏱️ 25:28 • 10h ago
 
 ---
 
@@ -339,7 +343,57 @@ AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 812 • 💬 84 • ⏱️ 48:01 • 6h ago
+👁️ 37K • 👍 909 • 💬 109 • ⏱️ 48:01 • 11h ago
+
+---
+
+**[Bitcoin $58K. Treasury Panic? First Since 2008](https://www.youtube.com/watch?v=tyZhNdp6hzI)**
+
+Bitcoin just fell to $58K and people are flipping out - and I understand why. The U.S. Treasury just did something it hasn't done ...
+
+📺 Digital Asset News
+
+👁️ 22K • 👍 723 • 💬 99 • ⏱️ 28:16 • 9h ago
+
+---
+
+**[Bitcoin DANGER ZONE - Michael Saylor Is Now $15 BILLION Underwater](https://www.youtube.com/watch?v=e-YiGS4Sy54)**
+
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Bitcoin has ...
+
+📺 Bitcoin News Alerts
+
+👁️ 2K • 👍 135 • 💬 38 • ⏱️ 13:40 • 4h ago
+
+---
+
+**[I’m Seriously Worried About Crypto…](https://www.youtube.com/watch?v=H3LiPfcXww4)**
+
+Bitcoin and altcoins have me seriously concerned. Here's what's worrying me about the crypto market, the key levels I'm watching, ...
+
+📺 EllioTrades
+
+👁️ 16K • 👍 350 • 💬 31 • ⏱️ 1:56:10 • 5h ago
+
+---
+
+**[BITCOIN: LONGEST BEAR MARKET EVER!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=t8VFalzoCPk)**
+
+RT1M Podcast: https://www.youtube.com/@RT1MPodcast Free Trading Community https://discord.com/invite/jRAnCV9CTB [I ...
+
+📺 Road To $1 Million USD
+
+👁️ 4K • 👍 234 • 💬 28 • ⏱️ 8:36 • 4h ago
+
+---
+
+**[Bitcoin Below $60,000: Is A Bailout Coming?](https://www.youtube.com/watch?v=a8YME8PgOlo)**
+
+CHECK OUT TBL PULSE: https://thebitcoinlayer.com/ In this episode, Nik covers a punishing week across markets, with bitcoin ...
+
+📺 The Bitcoin Layer
+
+👁️ 1K • 👍 98 • 💬 15 • ⏱️ 13:28 • 2h ago
 
 ---
 
@@ -349,67 +403,17 @@ Bitcoin and gold are crashing as Anthropic launches the biggest IPO in history, 
 
 📺 Simply Bitcoin
 
-👁️ 47K • 👍 1K • 💬 109 • ⏱️ 16:00 • 23h ago
+👁️ 51K • 👍 2K • 💬 115 • ⏱️ 16:00 • 1d ago
 
 ---
 
-**[BITCOIN COLLAPSES BELOW $60K! (Major Flush Lower?)](https://www.youtube.com/watch?v=XkIcgZVzTxc)**
+**[Bitcoin Miners Are Mining at a Loss — The Line BTC Needs to Reclaim](https://www.youtube.com/watch?v=1zR1y3YBVxo)**
 
-Bitcoin just broke below $60K as the crypto selloff deepens. Is a bigger flush coming? Nick Valdez, Chief Crypto Strategist for ...
+It costs listed miners about $75500 to mine one Bitcoin, but BTC closed Q2 at $58500, and price has now spent 280 straight days ...
 
-📺 Verified Investing
+📺 Bitcoin Magazine
 
-👁️ 11K • 👍 358 • 💬 13 • ⏱️ 29:31 • 2h ago
-
----
-
-**[Bitcoin at $61K: Everything Is Selling Off and Why I’m Not Panicking](https://www.youtube.com/watch?v=l33LVHK9qFI)**
-
-Welcome back! ➡️ Trade on BTCC & 10% Deposit Bonus: https://aaronbtc.com/trade ➡️ Kalshi Perps: ...
-
-📺 Aaron Bennett
-
-👁️ 26K • 👍 517 • 💬 101 • ⏱️ 11:40 • 14h ago
-
----
-
-**[Bitcoin Going To $1 Million (Adam Back)](https://www.youtube.com/watch?v=Vn5ZtabcTE0)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss Adam Back and Samson Mow's BTC ...
-
-📺 Bitcoin University
-
-👁️ 10K • 👍 482 • 💬 130 • ⏱️ 5:58 • 7h ago
-
----
-
-**[Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up pretty well](https://www.youtube.com/watch?v=5RirIOGyYCw)**
-
-Tom Sosnoff, Co-Founder and CEO of Lossdog, discusses Anthropic's IPO, retail investor selling, AI stock buying opportunities, ...
-
-📺 CNBC Television
-
-👁️ 5K • 👍 28 • 💬 17 • ⏱️ 4:28 • 5h ago
-
----
-
-**[“I Just Sold Everything” - WTF Happened To Crypto?!](https://www.youtube.com/watch?v=4bwpYsV9z1E)**
-
-Unlock $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
-
-📺 Altcoin Daily
-
-👁️ 72K • 👍 2K • 💬 122 • ⏱️ 10:24 • 19h ago
-
----
-
-**[Bitcoin just started showing every bottom signal at once](https://www.youtube.com/watch?v=cPsOQL3zSRg)**
-
-Scott Melker gives the Anthropic IPO partial credit for Bitcoin's slide, then names four bigger drivers: where we are in the cycle, the ...
-
-📺 Yahoo Finance
-
-👁️ 63K • 👍 734 • 💬 173 • ⏱️ 14:51 • 1d ago
+👁️ 776 • 👍 9 • 💬 1 • ⏱️ 0:53 • 5h ago
 
 ---
 

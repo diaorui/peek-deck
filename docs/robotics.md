@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-20T21:26:39.466988+00:00'
+updated: '2026-11-21T02:42:09.571907+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 20, 2026 at 21:26 UTC  
+**Last Updated:** November 21, 2026 at 02:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-6d ago
+7d ago
 
 ---
 
@@ -118,17 +118,33 @@ Google for Developers Blog • 3d ago
 
 ---
 
-**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+**[Former No Name Restaurant to become marine robotics hub](https://www.boston.com/news/local-news/2026/11/20/former-no-name-restaurant-to-become-marine-robotics-hub/)**
 
-Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech.
 
-TechCrunch • 2d ago
+Boston.com • 28m ago
 
 ---
 
 **[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
 
-Reuters • 3h ago
+Reuters • 8h ago
+
+---
+
+**[It's the Mighty Morphin' Quadrotors?!](https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 9h ago
+
+---
+
+**[Robots Still Suck](https://www.chinatalk.media/p/we-went-to-austin-to-see-robots)**
+
+A CoRL Trip Report
+
+ChinaTalk | Jordan Schneider • 10h ago
 
 ---
 
@@ -138,47 +154,35 @@ Financial Times • 1d ago
 
 ---
 
+**[John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties](https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/)**
+
+Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed.
+
+GeekWire • 10h ago
+
+---
+
 **[Robotics enters its post-Jensen Huang era](https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/)**
 
 Jensen Huang, one of robotics' most influential advocates, has resigned from NVIDIA. Can the industry sustain its momentum without him?
 
-The Robot Report • 18h ago
+The Robot Report • 23h ago
 
 ---
 
-**[$90 million robotics startup snaps up space near Oracle Park](https://www.bizjournals.com/sanfrancisco/news/2026/11/20/dream-labs-123-townsend-robotics-lease.html)**
+**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
 
-The Business Journals • 1h ago
+Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
 
----
-
-**[Bellefontaine Robotics hosts ‘King of the Hill’ competition](https://www.peakofohio.com/local-news/bellefontaine-robotics-hosts-king-of-the-hill-competition/)**
-
-Bellefontaine High School hosted 85 middle school and high school robotics teams from across Ohio on Saturday, November 14, for the King of the Hill VEX…
-
-Peak of Ohio • 1d ago
+TechCrunch • 2d ago
 
 ---
 
-**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5)**
+**[US firm unveils Phantom MKII battlefield humanoid robot with bigger payload, tougher build](https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot)**
 
-WSJ • 3d ago
+Foundation unveils Phantom MKII humanoid robot and Cortex II AI, claiming a 200-pound payload capacity and weatherproofing for harsh terrain
 
----
-
-**[It's the Mighty Morphin' Quadrotors?!](https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 3h ago
-
----
-
-**[Enhancing Fireground Operations with Drones, Robotics and Smart Technology](https://www.firehouse.com/white-papers/whitepaper/55420526/enhancing-fireground-operations-with-drones-robotics-and-smart-technology)**
-
-Fire departments are embracing technology at all levels of emergency response
-
-Firehouse.com • 2h ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -186,13 +190,13 @@ Firehouse.com • 2h ago
 
 ## YouTube Videos: "robotics"
 
-**[How to Build a Self-Balancing Propeller Rod #robotics🌪️⚙️](https://www.youtube.com/watch?v=2xZ1faGBmWo)**
+**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
 
-Original video credit: IG/@pcbaxinxin5637. The video shows a self-balancing inverted pendulum: a vertical rod with a ...
+Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
 
-📺 History Seeker
+📺 Cleo Abram
 
-👁️ 9K • 👍 137 • 💬 2 • ⏱️ 0:07 • 7h ago
+👁️ 384K • 👍 26K • 💬 300 • ⏱️ 1:05 • 11h ago
 
 ---
 
@@ -202,17 +206,17 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 175K • 👍 570 • 💬 458 • ⏱️ 2:44 • 3d ago
+👁️ 179K • 👍 580 • 💬 466 • ⏱️ 2:44 • 3d ago
 
 ---
 
-**[500-Foot Robotic Wolf vs 350-Foot Robotic Lion! 🐺🦁 | Six Sisters Save Their Village](https://www.youtube.com/watch?v=HlspxjX-xE4)**
+**[How to Build a Self-Balancing Propeller Rod #robotics🌪️⚙️](https://www.youtube.com/watch?v=2xZ1faGBmWo)**
 
-500-Foot Robotic Wolf vs 350-Foot Robotic Lion! | Six Sisters Save Their Village One terrifying night, a gigantic 500-foot robotic ...
+Original video credit: IG/@pcbaxinxin5637. The video shows a self-balancing inverted pendulum: a vertical rod with a ...
 
-📺 Gramixa
+📺 History Seeker
 
-👁️ 550K • 💬 17 • ⏱️ 8:11 • 2d ago
+👁️ 28K • 👍 235 • 💬 5 • ⏱️ 0:07 • 13h ago
 
 ---
 
@@ -222,7 +226,7 @@ THIS MONTH: Two full-size Xiaomi humanoid robots completed an eight-hour-and-fiv
 
 📺 Bradford Manning
 
-👁️ 18K • 👍 458 • 💬 18 • ⏱️ 1:14 • 2d ago
+👁️ 18K • 👍 459 • 💬 19 • ⏱️ 1:14 • 3d ago
 
 ---
 
@@ -232,37 +236,7 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 222K • 👍 3K • 💬 635 • ⏱️ 2:12:13 • 4d ago
-
----
-
-**[Rifle-equipped ROBOT DOGS deployed to reclaim gang-controlled stadium](https://www.youtube.com/watch?v=ard7h54M-qU)**
-
-Salvadoran President Nayib Bukele releases footage showing troops deploying rifle-equipped robotic dogs during an operation to ...
-
-📺 Fox News
-
-👁️ 210K • 👍 3K • 💬 694 • ⏱️ 0:20 • 5d ago
-
----
-
-**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
-
-Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
-
-📺 Cleo Abram
-
-👁️ 205K • 👍 17K • 💬 222 • ⏱️ 1:05 • 6h ago
-
----
-
-**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
-
-Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
-
-📺 CNET
-
-👁️ 43K • 👍 391 • 💬 41 • ⏱️ 4:02 • 5d ago
+👁️ 224K • 👍 3K • 💬 635 • ⏱️ 2:12:13 • 4d ago
 
 ---
 
@@ -272,17 +246,47 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 📺 Unbox Therapy
 
-👁️ 598K • 👍 29K • 💬 61 • ⏱️ 1:24 • 2d ago
+👁️ 664K • 👍 33K • 💬 63 • ⏱️ 1:24 • 2d ago
 
 ---
 
-**[MORE EXPENSIVE Upgrades with SPARE PARTS in War Robots!](https://www.youtube.com/watch?v=2PuFIDeUBfc)**
+**[MIT&#39;s Cat-Inspired Robot Can Land on Its Feet With Just 6 Motors! 🤯🐈](https://www.youtube.com/watch?v=qpWAtJ2ky7Y)**
 
-War Robots Gameplay: NEW Feature / Currency SPARE PARTS will make upgrading more expensive. My War Robots Creator ...
+What if a robot could move and land like a cat? MIT CSAIL's Felis robot uses an actuated spine and just six motors to walk, ...
 
-📺 Manni-Gaming
+📺 Nexio Core
 
-👁️ 36K • 👍 1K • 💬 584 • ⏱️ 17:12 • 1d ago
+👁️ 5K • ⏱️ 0:07 • 8h ago
+
+---
+
+**[Let the Humanoid Scan | Skylark Labs CFAM #Shorts](https://www.youtube.com/watch?v=rPKlQ2OZMEY)**
+
+Scanning for explosives should be a machine's job. People should be out of harm's way. Skylark Labs is developing Continual ...
+
+📺 SkyLark Labs
+
+👁️ 210K • 👍 2K • 💬 3 • ⏱️ 0:39 • 2d ago
+
+---
+
+**[500-Foot Robotic Wolf vs 350-Foot Robotic Lion! 🐺🦁 | Six Sisters Save Their Village](https://www.youtube.com/watch?v=HlspxjX-xE4)**
+
+500-Foot Robotic Wolf vs 350-Foot Robotic Lion! | Six Sisters Save Their Village One terrifying night, a gigantic 500-foot robotic ...
+
+📺 Gramixa
+
+👁️ 551K • 💬 17 • ⏱️ 8:11 • 2d ago
+
+---
+
+**[Rifle-equipped ROBOT DOGS deployed to reclaim gang-controlled stadium](https://www.youtube.com/watch?v=ard7h54M-qU)**
+
+Salvadoran President Nayib Bukele releases footage showing troops deploying rifle-equipped robotic dogs during an operation to ...
+
+📺 Fox News
+
+👁️ 210K • 👍 3K • 💬 693 • ⏱️ 0:20 • 5d ago
 
 ---
 
