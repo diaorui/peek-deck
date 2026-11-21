@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "\u2018The doom of humanity\u2019: will the quest to make robotic hands render us obsolete?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
-      "pub_date": 1795248000.0,
-      "article_url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-      "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f9cd76eb9786a54c4e51cf0997b3812",
-      "description": "The one thing stopping AI taking over the world \u2013 or at least everyone\u2019s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that"
+      "headline": "Robots Still Suck",
+      "source": "ChinaTalk | Jordan Schneider",
+      "source_url": "https://www.chinatalk.media",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZNTg1NU0tTXVxYUdNZGlyandLVWxMSzBEU04tbXQ0aFhlcXNZbkxPUHd4X0VZYk44eUxZY1ZUSkU4X1lZQkx4b1ZQZTFpMEExVlFOTXhyZHVZbWRrNFJUTm1KcmVoRG4wREVVWW9n?oc=5",
+      "pub_date": 1795191715.0,
+      "article_url": "https://www.chinatalk.media/p/we-went-to-austin-to-see-robots",
+      "image": "https://substackcdn.com/image/fetch/$s_!yu45!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2119902503613440000.jpg",
+      "description": "A CoRL Trip Report"
     },
     {
       "headline": "EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say",
@@ -25,54 +25,24 @@
       "description": null
     },
     {
-      "headline": "Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUhOWGh5SHZQSUdFemktVFlWS2xQWlU4cnJsNDh1UnFvRTczZEV1NkV1UVVwc0x6Ti1mdTlYRlVYbThidmJwWmdsVTJXQVdCcWJvZTBza1B0MlJPWDg4NURCMGpobzBQRXB1VXJZUnQ1bkZBQko5MWIycjhWNlNOUkVZTjh5dU03?oc=5",
-      "pub_date": 1795179608.0,
-      "article_url": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
-      "image": null,
-      "description": null
+      "headline": "\u2018The doom of humanity\u2019: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
+      "pub_date": 1795272420.0,
+      "article_url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+      "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f9cd76eb9786a54c4e51cf0997b3812",
+      "description": "The one thing stopping AI taking over the world \u2013 or at least everyone\u2019s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that"
     },
     {
-      "headline": "Robots Still Suck",
-      "source": "ChinaTalk | Jordan Schneider",
-      "source_url": "https://www.chinatalk.media",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZNTg1NU0tTXVxYUdNZGlyandLVWxMSzBEU04tbXQ0aFhlcXNZbkxPUHd4X0VZYk44eUxZY1ZUSkU4X1lZQkx4b1ZQZTFpMEExVlFOTXhyZHVZbWRrNFJUTm1KcmVoRG4wREVVWW9n?oc=5",
-      "pub_date": 1795191715.0,
-      "article_url": "https://www.chinatalk.media/p/we-went-to-austin-to-see-robots",
-      "image": "https://substackcdn.com/image/fetch/$s_!yu45!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2119902503613440000.jpg",
-      "description": "A CoRL Trip Report"
-    },
-    {
-      "headline": "John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX21ZVkJuSmlhbmxlUnQ4NTFIeEFYQl9DdlRzdTEzVjBwZGhOV3hvbVJWd2RVVmJYaEtUYk11WHFFZ25VbG5FM3YwODVRcGk5TEI2aWd5RkN0NkJZN21fZ0l4aDFPcnRpX1ZOVjVsZkJjRFZhSFozYTdCelAyU0ZQalB5bTZGenphazh3YXplRFhIX0xqdkg2di1lUlZsRnFEd0ZXelNnbzFyRjg?oc=5",
-      "pub_date": 1795189923.0,
-      "article_url": "https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Orchard-Robotics-camera-system.jpg",
-      "description": "Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed."
-    },
-    {
-      "headline": "Robotics enters its post-Jensen Huang era",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yQ3pBbjB3M0xCNHh0Tm5Zd3NJQmlPRVA4ZEdiaXFLcmJ6Z2lwZTBmZERJXzdTZld2YmFBZWtaMHR3UUtNWmk0WFdOWXI2c3hPM3VEdTBVUEIyYTV2TU9EUVhfUjN3UC1DR1dSSmhBSnJ6bG1yWWk5RTFaQm9RUQ?oc=5",
-      "pub_date": 1795144996.0,
-      "article_url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/jensen-huang-robots.png",
-      "description": "Jensen Huang, one of robotics' most influential advocates, has resigned from NVIDIA. Can the industry sustain its momentum without him?"
-    },
-    {
-      "headline": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVVlTGNHV2NqYjM0TGdpMF9rQzZ1ZmJka2RnRTZHanlpZzlMQVBickF2ZVpPeVV4SVRJanlWZWlhRjF6TkxfZFlVRHZqdXpGeG5WdXZNandpRXo4LWw0TmEyQ2MwUDNrSHgtR1dEQ2dwaVJQNFBaTzN1YkZtM0lDZE5ibXV0dk9Nb0FwRFBFbzc3V1ItSmJDRXdmUlgwdjdhZkpxSGczZDnSAa4BQVVfeXFMUFBvWXBuVG5Fc2xzeEp3T1BrczE5OG52SXV4VFdLTjdZMW1nVU9nNUJSTHl5bHZGejRQTFYxYjRsT043elJWcUhENEV3MUQ2bzNfRUZKZlE1eERtWERtanpQaUllUVNlY2JVNE41a3BQZUlYcUZPUW1lVkJPdTJHNTVFRFlTQWxTWmRXU3NPNGoyalliUnR0MllacGdWR2FSdXI1VDFmZWpNazkyLTN3?oc=5",
-      "pub_date": 1795248133.0,
-      "article_url": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556987-1795246565449-gettyimages-2304350810-ukrinform-ukrainia261110_npEfg.jpeg?v=1795246600&w=1920&h=1080",
-      "description": "Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position."
+      "headline": "It's the Mighty Morphin' Quadrotors?!",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJajJhRkgxUkxSZnVabWxESU9lUjhmQVBEWXJVcXh4NUNSaFVlc0phZXpJaTE0OHpHWG1Wak9rSGRZUWU5dTJWSW5JcVpoeVZGbURuUHcyX1ROdmFIekRkbkhQb0R6Szh6cHFqVWtYSEpIZw?oc=5",
+      "pub_date": 1795196019.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+      "image": "https://spectrum.ieee.org/media-library/image.gif?id=68705683&width=1200&height=600&coordinates=0%2C105%2C0%2C105",
+      "description": "Your weekly selection of awesome robot videos"
     },
     {
       "headline": "Former No Name Restaurant to become marine robotics hub",
@@ -85,14 +55,14 @@
       "description": "The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech."
     },
     {
-      "headline": "US firm unveils Phantom MKII battlefield humanoid robot with bigger payload, tougher build",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWVSZDRIZ2dJdnJISi1SOV9oeGU5ODc4RXpTNmVoRUFfUVBlRGk5UWVkLUE3ajVjdGk5VkpLYXNjNmlfV2J5QzdwaE8wOHRWRUVwVk5iY1pqOUdndURNNk0wLW5DM1JUWmxtdnVvY3ViSmUwMlZUMmZldXRXcGdHSThKT0lUaTNpNzE3dGg0RFExZw?oc=5",
-      "pub_date": 1795182360.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Thumbnails-for-IE-Foundation-phantom-mk2-2.jpg",
-      "description": "Foundation unveils Phantom MKII humanoid robot and Cortex II AI, claiming a 200-pound payload capacity and weatherproofing for harsh terrain"
+      "headline": "John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX21ZVkJuSmlhbmxlUnQ4NTFIeEFYQl9DdlRzdTEzVjBwZGhOV3hvbVJWd2RVVmJYaEtUYk11WHFFZ25VbG5FM3YwODVRcGk5TEI2aWd5RkN0NkJZN21fZ0l4aDFPcnRpX1ZOVjVsZkJjRFZhSFozYTdCelAyU0ZQalB5bTZGenphazh3YXplRFhIX0xqdkg2di1lUlZsRnFEd0ZXelNnbzFyRjg?oc=5",
+      "pub_date": 1795189923.0,
+      "article_url": "https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Orchard-Robotics-camera-system.jpg",
+      "description": "Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed."
     },
     {
       "headline": "India\u2019s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -103,8 +73,38 @@
       "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/humyn-labs-co-founders_164602.jpg?resize=1200,800",
       "description": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+    },
+    {
+      "headline": "The Next Phase of Robotics: From Technological Progress to Real-World Impact",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0x1TFM0ajc0bWQ5TmFxWGdPZW9FckNxOWVfZ2UwR1dLOWxMbEltWjZWTUlfSkMxTjFHTTVMOEdGRGlCUWhzS3l4V0Y3TFVCWmFuU0ZoZmJMSjItU2FJQjcxelhiVlBHa2JIV3U4MVoxdUE4bWR3cnVNQzFMdC10LW1hLS0?oc=5",
+      "pub_date": 1795187040.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Pudu.jpg",
+      "description": "Pudu Robotics moves embodied AI from lab demos to real-world business impact with specialized robots and local hubs."
+    },
+    {
+      "headline": "MassRobotics launching marine robotics facility on Boston Harbor",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHRtTmZERUlOTmdid3dkVzBoRUhnY21obkdRdGpaSlBRQWdUUl9xY1dDV1dJcnBZcTAtWkJRSFlNd1VpLXVDLVhmdGdZZkpaSzBqa0t6V09jM185WmxkNXZDaDhhVmJRZjJjWEhqMWVXeUFqZWk4QmdCR1RsU1F3a0xLWjFHVWpoTXZ6eEhFcDN3dDN3eElJQmlnNnA?oc=5",
+      "pub_date": 1795194838.0,
+      "article_url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/crabi-on-ship-featured.jpg",
+      "description": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027."
+    },
+    {
+      "headline": "John Deere Orchard Robotics deal signals growing value of actionable farm data, says ag robotics OG",
+      "source": "AgFunderNews",
+      "source_url": "https://agfundernews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWl3U0JPVDRBVUtCbl9vUTRLaEdjX3RoU2VkS204Vm95RVBjR0tXenFpdDFsUlk2VmNCdTl6RF85cnBQaUt4Z2Q3ZUs0bDY5OEFUUE55UzBIYVpqT2paQ2F4UEJQNUE0V19HeldkTHg4V3ZFRkFHMVhyYnNxd2hwZGYwanQ3ZzlNV3VGZktDXzI4bGZRSW1ZWWg3aGltVzJ3NWlobGo5SVBpSFV4eWxRV0RGOGlBQ0FhcGt0dGVQaGg?oc=5",
+      "pub_date": 1795198554.0,
+      "article_url": "https://agfundernews.com/john-deere-orchard-robotics-deal-signals-growing-value-of-actionable-farm-data-says-ag-robotics-og",
+      "image": "https://agfundernews.com/wp-content/uploads/2026/08/Charlie-Wu-founder-CEO-Orchard-Robotics-Image-credit-Elaine-Watson.jpg",
+      "description": "\"Our goal is to bring our industry-leading tech and AI farming capabilities to every farmer out there,\" says Orchard Robotics CEO Charles Wu."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-21T10:42:20.600040+00:00"
+  "fetched_at": "2026-11-21T17:53:21.418080+00:00"
 }

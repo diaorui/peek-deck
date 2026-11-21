@@ -5,6 +5,26 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Peter Schiff Doubles Down On His \u2018Black Monday\u2019 Call Again: Ethereum Could Hit $1,000 In Two Days",
+      "source": "Stocktwits",
+      "source_url": "https://stocktwits.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUzVLWU9BUU1vRUE2eTFqdWtKOWZLbmRvWmNIWlZIMUxlT1N3RmxEVEp6TmJFazdpMWNzV3RGWTZza2VjOXlPdFNJVm1zNUpfUEU1bl9uRk9fdk5NQTA3cUNiMW02dENJTVg2SWVLWnBuMzFYcHA1MEx4eWxiTlZGUDB2UTlzOGJZN2VmaDA0Q3pSUDk2QzBPRVVOVEtoQWFwT2dwMDZldVRUclFZWVo0WGZTQXQxUUh5TDdjX0hpUGFzbXJRemF4RGNvcmZ4NUFGTXRiM2NPUzdRTjZqTWtPMUdHMFRRSnBQeUtPbmdqTld0TGk3by11ZA?oc=5",
+      "pub_date": 1795257600.0,
+      "article_url": "https://stocktwits.com/news-articles/markets/cryptocurrency/peter-schiff-doubles-down-on-his-black-monday-call-again-ethereum-could-hit-1-000-in-two-days/cNbmkZ2R91V",
+      "image": "https://news.stocktwits-cdn.com/large_Getty_Images_2158420092_f09c708027.jpg",
+      "description": "Peter Schiff warned late Friday that Ethereum (ETH) could plunge to $1,000 by Monday after the token fell below the key support level of $1600."
+    },
+    {
+      "headline": "Ethereum founder takes aim at keeping homes expensive",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzlac0NQLWpEUDJFR3Y5TFFRM0FwRS1RVklUVTVEd3pZT3BEYnJxR0VKTzVqeEpXSV9nTXBueFR4RFJIRThaVDhpZ3pidm12LWJQLTBDWmlYMXMyd3JyUUVfeS1QUmtzaWJ1ZzBwLURCWmlqajRXekFFRDBvZm5fWUpMcVcwOHZ3WkZ3cmxOTEd1NzhRTGw0QWo0Tlc?oc=5",
+      "pub_date": 1795213800.0,
+      "article_url": "https://finance.yahoo.com/real-estate/articles/ethereum-founder-takes-aim-keeping-223000009.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/edf5690bb3aaca9b681fc28cee53d7d27820327b9bfbeed5f69fa12e8a665908/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F2459a07766e34a9968b100d90442f290.jpg",
+      "description": "Vitalik Buterin says where young people put savings shapes who wants home prices high."
+    },
+    {
       "headline": "ETH news: Ethereum\u2019s next big upgrade is pushed into 2027 by apps it would break",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -23,16 +43,6 @@
       "article_url": "https://www.fool.com/investing/2026/11/19/not-bitcoin-not-ethereum-this-could-be-the-best-cryptocurrency-to-hold-over-the-next-5-years/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa3f885889017d89ccb5e9170d65a7cc17a70d7da-2121x1414.jpg&w=1200&op=resize",
       "description": "This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close."
-    },
-    {
-      "headline": "Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to Know.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVQzY2hub2Z3QVhZdDVMZDhBRGF4cGNkTzdsS09TUjFoVnFkcW5waW1KWFRjSVY5R2ZyWkZOT0RNRDR4TXRxWmtWR24yWXpFMWVtSzdlYlBXWlNrWE8xSTNzbTFlbTlvQzBZdWhzMnFZTVY5QVNDSmJYWktPOFlmZUF2OFBnaDJ2YVZBSDVGLXhNeUVPT3RiY0VSOEpFdw?oc=5",
-      "pub_date": 1795113902.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-just-posted-staggering-6-184502319.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f1121e86d3f3cdf4a23eb3a6ec4f45953ec718d1d367364eb8a16991fac4e072/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F4979b48ba4846963d2d42f6c6fa90528.jpg",
-      "description": "Tom Lee\u2019s Bitmine kept catching a falling knife over the past year."
     },
     {
       "headline": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
@@ -55,6 +65,26 @@
       "description": "The crypto market shed more than $90 billion in value over a single 24-hour stretch, as Bitcoin, Ethereum, XRP, and Solana all moved lower together.Bitcoin traded around $61,982 on November 20, 2026. That put it down more than 13% over recent weeks.Ethereum changed hands between $1,700 and $1,800\u2026"
     },
     {
+      "headline": "Crypto Market Bloodbath: Bitcoin, Ethereum and XRP Crash Up to 10% as Bear Market Fears Grow",
+      "source": "Coinpedia",
+      "source_url": "https://coinpedia.org",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRQRnZMY3VFb1NzWnF1T2o3OGlYMFZBREZFTEc0Ui1lRGZieFRmZWpWakU2UlIwVTY3c015NUlLWWh5N1AzRTJHRlFUdmNMVmV3cDYzWjB0dW1TRzUyOXN1SEIzWWdydTc0WGhIeDdwVzdkdkpfV21IN1JRdGZlaW1JV0ZaVmt2QVFvM2lJY2JvYm1yY0xfdWo2cXd3ZVdlLWhmUU9qZzQtSXFOa0xpZFJucnIxOGNX0gG-AUFVX3lxTFBUZEk2eGFrN0lCRFptSjFVLXlfSUNkMUdwUGhORE5PTkZCTUg5dXNsMDY3TE9RTWxKdEFDbDlPMlJrSV9OQUdsQnUzdnJjUHk0SjE5bjB6VG13ZkUwM2hpajUtTXVyVHZBWVMwY2dma0xPaVFwMlZPMkFfSUl4UWtnYlp4aXJLNWR2X2dxOWgzaHdXeDVRTkhnZEFDb1N3bVl0eVIwVGhGbGRXSS1oLTEyNmVwR2FjRjY4TlZjZ2c?oc=5",
+      "pub_date": 1795249744.0,
+      "article_url": "https://coinpedia.org/news/crypto-market-bloodbath-bitcoin-ethereum-and-xrp-crash-up-to-10-as-bear-market-fears-grow/",
+      "image": "https://image.coinpedia.org/wp-content/uploads/2026/08/28190609/Will-Bitcoin-Ethereum-and-XRP-Prices-Pump-or-Dump-After-Kevin-Warshs-Jackson-Hole-Speech.jpg",
+      "description": "Bitcoin dropped below $56,000 on Saturday, and Ethereum and XRP fell with it. BTC is trading at $55,693, down 8.9% in a day and 16.2% in a week. Ethereum"
+    },
+    {
+      "headline": "Crypto News Today: Bitcoin Price Nears $55K as Ethereum Plunges 10% and XRP Tests $0.87 Support",
+      "source": "Brave New Coin",
+      "source_url": "https://bravenewcoin.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0h3ZWxxOVhqUkhmb250bmItdklPNzJVR09id05ORWROUnN5N1FpS3E0b0RUNEk2dUE0aXE2YllBbjlOTmdKUXdMWmpfaHNOanlEMHdCN21tOXNaRGxkWHNudUtvYk9vVGxRZWFYalpFWVpzTGZoNkFkb3QzdDhZN2haRFVydmduZHNHWkJEOUZheGxFaGpGR3VhV1AzVEs2VWRsWmpieDZPSmQ0blA0djV4bDFSQ0JqV1VBelRiVkdzN3M?oc=5",
+      "pub_date": 1795237429.0,
+      "article_url": "https://bravenewcoin.com/insights/crypto-news-today-bitcoin-price-nears-55k-as-ethereum-plunges-10-and-xrp-tests-0-87-support",
+      "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/crypto-news-today-image3-1.jpg",
+      "description": "Bitcoin fell to $56,813.68 in a late-Friday snapshot, while Ethereum dropped nearly 10% and XRP traded just above its $0.87 technical support level."
+    },
+    {
       "headline": "Ethereum Price Dips 5% As Binance Hacker Moves ETHs",
       "source": "MarketForces Africa",
       "source_url": "https://dmarketforces.com",
@@ -65,46 +95,16 @@
       "description": "Ethereum (ETH) price fell about 5% in 24 hours to $1,704.99 on Friday, broadly tracking the crypto selloff but slightly underperforming Bitcoin, driven"
     },
     {
-      "headline": "Current price of Ethereum for November 20, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PWFE5SVRQOWdndU5sODFoUGNHeXM3emRZeGdOQUE5WGVsVDBSNDFuMTNhR3FkcE5zR3F0THNfTlJZNzJuRlE4NE9RVFFpbTVycUpEMlFkelFkV1daNEVIbUpVdlc4R3E3?oc=5",
-      "pub_date": 1795185701.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-20-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-20.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Why Are Bitcoin, Ethereum and XRP Prices Still Falling and What\u2019s Next?",
-      "source": "Coinpedia",
-      "source_url": "https://coinpedia.org",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWZId2RUY2NxYUZHQVUwZFJqb19JcUlnVDhiSzg4U2R6cTg5M3M4NGsybDNoemV5X25LR1p3ckRtMFVsMFFPVEl0STdNLU1SN0FhaXhNY3lDTmR6M19yMnpZMUNfM2lFOHk3bVRFTTRRd3l4bEUwSUJuTXJRci14a3JCNGwyNGJpMVhhYlFoNUk0NU9hX3RzN2YzeEbSAaIBQVVfeXFMT3BRajVUZkFDaXVVSGI1cUVBSnVPYXp0MHZTSWhuejVITHA4eXg4S3pKYW1DNFh2NXZnWDFZZVZpYno2YzE4SjZQUndQdXAwZ3FRWW1aNFJZWU04LS1USzlrcWdQeE54UUh1dzF1Njh1ZDNNanVlMHBTLTNUYjFsSTJROGtMTEhTYjBNTi0xcm5jQ3pseUttbGJxWkUxMTRxaUR3?oc=5",
-      "pub_date": 1795170141.0,
-      "article_url": "https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-still-falling-and-whats-next/",
-      "image": "https://image.coinpedia.org/wp-content/uploads/2026/11/20155251/Why-Are-Bitcoin-Ethereum-and-XRP-Prices-Still-Falling-and-Whats-Next.jpg",
-      "description": "Bitcoin fell to $61,496.58, down 0.7% in 24 hours and 11.5% over the past week. Ether dropped 1.3% on the day to $1,724.13 and is down 12.3% for the week."
-    },
-    {
-      "headline": "Coinbase Institutional: US dollar was the lone gainer as Bitcoin and Ethereum led monthly losses",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNndSOEtkeS1ZeXlQN2swNm4yQzZtLUdzdC1xc3hfcURBNzdOUGpZc1gzR2FJZTNyQzZBMWliWDU4UEoxNDVoZVphRkQ2XzhNa085YmJzUWdzTDNPRTA3QWwwTzNmajlfNnJ5ekI2R25JZFJEYmlLaXpvQUplc2pBWHRZMnkxQ1NV?oc=5",
-      "pub_date": 1795186095.0,
-      "article_url": "https://cryptobriefing.com/coinbase-institutional-dollar-bitcoin-ethereum-losses/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/20094805/library-coinbase-institutional-us-dollar-was-the-lone-gainer-as--800x450.jpg",
-      "description": "Coinbase Institutional says the US dollar was the only tracked asset to gain last month as Bitcoin and Ethereum posted the steepest losses."
-    },
-    {
-      "headline": "What's next Bitcoin, Ethereum and XRP rise?",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2lzbXlnd2x0NTV1RjFrOU5QQWd6WnBqU0lGUDFfRE5nT2V6NTRCSmNIb0xEQ2I5TEdCUzQwN21wY3ctc2dJT0dQMDlKQXpFX3RNZ1ZhWWdJWjlBU25MV3pnemQ3MHJCLUhCZVlqeWw4WWhKS2NyMnVwNjU4RlNpTE02eDhVSy0zdFVkQ1FOOXc4V1VEX3pwYnlhREJkaFVVNFF4X01CVVJaSmNpeldVal9ucXVCQ1gwZVNv?oc=5",
-      "pub_date": 1795087530.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rise-etf-capital-outflows-202611191125",
+      "headline": "Why is Ethereum price down 9% today?",
+      "source": "Traders Union",
+      "source_url": "https://tradersunion.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDkxU2RpRzdkWnFhVnJiUFpJZVBNWllqYThlM0FXZjFXYVlRaFQwR3BuR0x5OU91X251TmEtU2dLR2RQbFNxOUpVQk5fc0lWc084ZWhVRWVBSEtZZVdVem4yandYNDRWT2tPb0JURG5RbGpsSnFCTjFXam93Sl9MMHNMQXdkT3EzNzhFOE9idjdseXdqWk4wQml4Qzh4NHhzNXBoV2h0VQ?oc=5",
+      "pub_date": 1795204953.0,
+      "article_url": "https://tradersunion.com/news/cryptocurrency-news/show/4349573-ethereum-slides-9-03percent-to-usd1606-9/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-21T10:42:20.600692+00:00"
+  "fetched_at": "2026-11-21T17:53:23.330169+00:00"
 }

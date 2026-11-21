@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-21T10:42:30.269594+00:00'
+updated: '2026-11-21T17:53:33.742862+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 21, 2026 at 10:42 UTC  
+**Last Updated:** November 21, 2026 at 17:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ wsj says commerce is about to name 20+ ai companies (nvidia, openai, anthropic, 
 
 A survey of 268 graduate students and postdocs reveals researchers are unsure of their future in mathematics and uneasy about using AI—the very technology they fear
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/) • 4d ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/) • 5d ago
 
 ---
 
@@ -121,77 +121,77 @@ Before you blame AI tools for flat velocity, find out whether you face a capabil
 
 ## Google News: "ai"
 
-**[Stocks Skid Into a Correction, as A.I. Worries Intensify](https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html)**
+**[Anthropic engineer's warning about Claude Code explains why tech outages could get much worse](https://finance.yahoo.com/technology/article/anthropic-engineers-warning-about-claude-code-explains-why-tech-outages-could-get-much-worse-110000573.html)**
 
-The New York Times • 11h ago
+AI can write code faster than we can review it, which is a great benefit and a huge risk.
 
----
-
-**[Anthropic shares slide as AI sell-off hits global markets - as it happened](https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news)**
-
-Rolling coverage of the latest economic and financial news
-
-The Guardian • 1d ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[The AI boom had a really bad week — and it's raising loud alarms](https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia)**
+**[My A.I. Hack Emergency Plan](https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html)**
 
-AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.
-
-NPR • 42m ago
+The New York Times • 7h ago
 
 ---
 
-**[Anthropic may have solved major maths problem Reimann hypothesis](https://www.bbc.com/news/articles/c6pqr2g7w059o)**
+**[Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.](https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html)**
 
-A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.
-
-BBC • 11h ago
+The New York Times • 12m ago
 
 ---
 
-**[The AI Riemann hypothesis proof is almost certainly true, independent mathematicians attest](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/)**
+**[Analysis | Entitled and out of touch, AI CEOs are heading for a fall](https://www.washingtonpost.com/business/2026/11/21/history-lesson-ai-ceos-alienate-americans-your-own-peril/)**
 
-Researchers are near to completing their verification of a claimed solution to the most important unsolved problem in math
+Americans tend to turn against out-of-touch CEOs, and a public reckoning on the tech industry could already be underway.
 
-Scientific American • 13h ago
-
----
-
-**[Anthropic researcher says he used AI to solve math's greatest riddle](https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-maths-greatest-riddle/a-80008428)**
-
-The proposed breakthrough could reshape mathematical research, but still needs independent verification. It's the latest in a string of cases where AI has outpaced humans in solving famous maths problems.
-
-DW.com • 11m ago
+The Washington Post • 20m ago
 
 ---
 
-**[Your baby's name, brought to you by AI](https://www.axios.com/2026/11/21/baby-name-chatgpt-ai-popular)**
+**["Psychologically, it is a mountain to climb." How AI fixes the fear of fundraising.](https://www.axios.com/2026/11/21/tim-cadogan-gofundme-ai-strategy)**
 
-Axios • 11m ago
-
----
-
-**[Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in](https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in)**
-
-Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.
-
-NPR • 2h ago
+Axios • 33m ago
 
 ---
 
-**[Watch How AI Is Reshaping China's Industrial Policy](https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video)**
+**[Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)**
 
-Bloomberg.com • 1h ago
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+
+TechCrunch • 53m ago
 
 ---
 
-**[AI may eliminate jobs, but today’s children can still thrive in an uncertain future](https://www.cnn.com/2026/11/20/health/what-should-children-study-ai-wellness)**
+**['This seems like an extreme privacy violation.' Surprising messages from the Muse AI agent are unnerving Meta's own employees, report says](https://fortune.com/2026/11/21/meta-employees-muse-ai-agent-extreme-privacy-violation-encrypted-signal-messages/)**
 
-Artificial intelligence will likely eliminate many jobs, so what will kids do in the future? It turns out some skills are useful no matter how technology evolves.
+In one example, a Meta staffer reported that Muse sent her a reminder on her personal phone to respond to a message from her sister on the encrypted messaging service Signal.
 
-CNN • 19h ago
+Fortune • 25m ago
+
+---
+
+**[U.S. stocks slump into correction territory amid tech and AI worries](https://www.washingtonpost.com/business/2026/11/20/us-stock-market-slumps-amid-rising-tech-ai-worries/)**
+
+Markets on Friday posted their worst week since worries about President Donald Trump’s tariffs caused a global sell-off in April 2025.
+
+The Washington Post • 11h ago
+
+---
+
+**[From trash to treasure: Most hated stocks are winning as AI bull market rolls over](https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html)**
+
+Several stocks that are unpopular on Wall Street, including Clorox, Boston Beer and Campbell's, are poised to be winners as the AI trade loses steam.
+
+CNBC • 4h ago
+
+---
+
+**[Your 401(k) is full of AI. How to deal with the volatility](https://www.cnn.com/2026/11/21/business/ai-stocks-volatility-investing)**
+
+Indices like the S&P 500 have become heavily concentrated in tech stocks in recent years, due to to the AI boom.
+
+CNN • 6h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNN • 19h ago
 
 Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order) CPU core.
 
-⬆️ 648 • 💬 333 • 1d ago • [Architect Labs](https://architectlabs.com/blog/frostbite)
+⬆️ 662 • 💬 349 • 1d ago • [Architect Labs](https://architectlabs.com/blog/frostbite)
 
 ---
 
@@ -211,7 +211,7 @@ Frostbite is a general-purpose CPU built around interaction nets, discovered, de
 
 You can't tell me that you found a security issue in my product and then refuse to fix it.
 
-⬆️ 609 • 💬 248 • 1d ago • [./techtipsy](https://ounapuu.ee/posts/2026/11/19/unsafeguards/)
+⬆️ 614 • 💬 249 • 2d ago • [./techtipsy](https://ounapuu.ee/posts/2026/11/19/unsafeguards/)
 
 ---
 
@@ -219,15 +219,7 @@ You can't tell me that you found a security issue in my product and then refuse 
 
 Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data.
 
-⬆️ 555 • 💬 323 • 1d ago • [Signal Messenger](https://signal.org/blog/protecting-your-privacy/)
-
----
-
-**[AI agents ask better questions than KPMG accountants in audit trial](https://news.ycombinator.com/item?id=50547777)**
-
-LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI
-
-⬆️ 497 • 💬 262 • 2d ago • [European Business Magazine](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
+⬆️ 562 • 💬 331 • 1d ago • [Signal Messenger](https://signal.org/blog/protecting-your-privacy/)
 
 ---
 
@@ -235,7 +227,7 @@ LONDON, November 18, 2026 — Artificial intelligence has taken another signific
 
 Asian markets record worst week since 2020 as investors question huge sums being poured into AI buildout
 
-⬆️ 322 • 💬 594 • 21h ago • [the Guardian](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
+⬆️ 444 • 💬 785 • 1d ago • [the Guardian](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
 
 ---
 
@@ -243,25 +235,19 @@ Asian markets record worst week since 2020 as investors question huge sums being
 
 Executives are “convinced that resistance to AI" just means schools "don’t see the vision,” a Google staffer said.
 
-⬆️ 276 • 💬 214 • 17h ago • [Mother Jones](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
+⬆️ 278 • 💬 222 • 1d ago • [Mother Jones](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
 
 ---
 
 **[Pete Warden on local AI, open models, voice interfaces, the future of hardware](https://news.ycombinator.com/item?id=50561508)**
 
-⬆️ 270 • 💬 247 • 1d ago • [thedataexchange.media](https://thedataexchange.media/pete-warden-moonshine/)
-
----
-
-**["Anthropic Is Not a Safe AI Company" – Coalition Challenges Anthropic Safety](https://news.ycombinator.com/item?id=50548485)**
-
-⬆️ 148 • 💬 79 • 2d ago • [businesswire.com](https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO)
+⬆️ 270 • 💬 248 • 2d ago • [thedataexchange.media](https://thedataexchange.media/pete-warden-moonshine/)
 
 ---
 
 **[AI isn't replacing your job. It's turning it into low-paid gig work](https://news.ycombinator.com/item?id=50562500)**
 
-⬆️ 146 • 💬 82 • 1d ago • [restofworld.org](https://restofworld.org/2026/ai-jobs-skills-gig-work/)
+⬆️ 147 • 💬 82 • 2d ago • [restofworld.org](https://restofworld.org/2026/ai-jobs-skills-gig-work/)
 
 ---
 
@@ -269,7 +255,23 @@ Executives are “convinced that resistance to AI" just means schools "don’t s
 
 🔎 Finally solved the mystery. At some point this year (around a few months ago), my bandwidth/data usage went thru the roof. Figured out it was Chrome's...
 
-⬆️ 133 • 💬 51 • 1d ago • [perishablepress.com](https://perishablepress.com/chrome-ai-wasting-much-bandwidth/)
+⬆️ 133 • 💬 51 • 2d ago • [perishablepress.com](https://perishablepress.com/chrome-ai-wasting-much-bandwidth/)
+
+---
+
+**[ClawDOS – An AI coding agent for DOS](https://news.ycombinator.com/item?id=50586292)**
+
+An AI chat and coding harness for DOS, on a real IBM PC 5160 (8088 at 4.77 MHz)
+
+⬆️ 132 • 💬 42 • 12h ago • [ClawDOS](http://ricapar.net/ClawDOS/)
+
+---
+
+**[Black high school students sue after AI mistakes Doritos bag for gun](https://news.ycombinator.com/item?id=50554641)**
+
+Case focuses on alleged failures surrounding AI systems and impact on students BALTIMORE COUNTY, MD – Today, the Lawyers’ Committee for Civil Rights Under Law filed a lawsuit on behalf of four Black current and former students against Omnilert, LLC, Baltimore County Public Schools (BCPS) and personnel, the Baltimore County Police Department, and individual officers […]
+
+⬆️ 119 • 💬 92 • 2d ago • [Lawyers' Committee for Civil Rights Under Law](https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/)
 
 ---
 
@@ -277,23 +279,73 @@ Executives are “convinced that resistance to AI" just means schools "don’t s
 
 ## YouTube Videos: "ai"
 
+**[AI Genius Predicts the Exact Month Superintelligence Arrives](https://www.youtube.com/watch?v=rOXnBQrxGqs)**
+
+Ryan Christian of Vals.ai and Joe Lonsdale discuss the Vals RSI index, which projects Anthropic reaching full recursive ...
+
+📺 Joe Lonsdale
+
+👁️ 20K • 👍 245 • 💬 43 • ⏱️ 7:00 • 1d ago
+
+---
+
 **[AI Insiders Risk Everything to Reveal What Happens to Us in 90 Days](https://www.youtube.com/watch?v=Ettph184FS8)**
 
 Thirty-three messages reached a mailbox on the open internet, and no person wrote a single one of them. Researchers hid one ...
 
 📺 Spacialize
 
-👁️ 19K • 👍 190 • 💬 22 • ⏱️ 12:49 • 12h ago
+👁️ 23K • 👍 209 • 💬 24 • ⏱️ 12:49 • 20h ago
 
 ---
 
-**[How to Run the BEST Uncensored AI on Literally Any Device](https://www.youtube.com/watch?v=pEVgl0M3b-E)**
+**[AI News: This Is The Make or Break Week!!](https://www.youtube.com/watch?v=wqNIzUmNt9M)**
 
-In this video I breakdown the very best uncensored models for EVERY device and GPU category. This is very comprehensive ...
+Hire your own team of agents with Hyperagent for free here: ...
 
-📺 Mark Gadala-Maria
+📺 Matt Wolfe
 
-👁️ 14K • 👍 357 • 💬 44 • ⏱️ 28:20 • 1d ago
+👁️ 89K • 👍 1K • 💬 128 • ⏱️ 33:01 • 22h ago
+
+---
+
+**[Is the AI Trade Headed for a Dot-Com Crash? Dan Niles Weighs In](https://www.youtube.com/watch?v=RT1x8q8ma7I)**
+
+Tech stocks got crushed as the AI trade unraveled, and Dan Niles of Niles Investment Management tells Deirdre Bosa whether ...
+
+📺 Yahoo Finance
+
+👁️ 273K • 👍 2K • 💬 484 • ⏱️ 14:33 • 17h ago
+
+---
+
+**[MARKET FALLS, ANTHROPIC DOWN, AI BUBBLE POP?](https://www.youtube.com/watch?v=P0R2K4-6Wgo)**
+
+The Friday crew is joined by Gary Marcus to breakdown the AI market tumbling. Gary Marcus: https://x.com/GaryMarcus ...
+
+📺 Breaking Points
+
+👁️ 446K • 👍 6K • 💬 1K • ⏱️ 22:12 • 22h ago
+
+---
+
+**[AI Just Made Itself Smarter By Changing Its Own Weights!  #ai #research #tech](https://www.youtube.com/watch?v=VyzoltTI_NA)**
+
+Source: https://arxiv.org/abs/2611.21885.
+
+📺 Better Stack
+
+👁️ 72K • 👍 4K • 💬 220 • ⏱️ 3:00 • 13h ago
+
+---
+
+**[3 AI Video Generators for 100% FREE &amp; UNLIMITED Videos](https://www.youtube.com/watch?v=6_Z5cX1iwug)**
+
+Turn your clips into cinematic 4K scenes with Higgsfield → https://higgsfield.ai/s/malvaai-NdigAx Free Prompt PDFs + AI ...
+
+📺 Malva AI
+
+👁️ 2K • 👍 82 • 💬 14 • ⏱️ 9:46 • 3h ago
 
 ---
 
@@ -303,77 +355,27 @@ Try Cardboard, today's sponsor: ...
 
 📺 AI Copium
 
-👁️ 22K • 👍 209 • 💬 46 • ⏱️ 12:57 • 19h ago
+👁️ 25K • 👍 231 • 💬 58 • ⏱️ 12:57 • 1d ago
 
 ---
 
-**[NASDAQ wipes out 2026’s gains in AI correction](https://www.youtube.com/watch?v=FPBSiIqQweo)**
+**[How an AI Makes Images From Pure Static: The Diffusion Model](https://www.youtube.com/watch?v=dOJYDPabyUk)**
 
-A punishing sell-off in technology stocks intensified Friday, wiping out the Nasdaq Composite's gains for the year, as investors ...
+There is no cat in the static an AI starts from, so how does it know which static to wipe away to make one? Change one word of the ...
 
-📺 CNN
+📺 Ordinary Machines
 
-👁️ 472K • 👍 2K • 💬 659 • ⏱️ 11:31 • 12h ago
-
----
-
-**[NO ONE is Talking About How to Solve the AI Crisis](https://www.youtube.com/watch?v=snG9AzyN_U8)**
-
-Megyn Kelly is joined by Bret Weinstein, co-host of "The DarkHorse Podcast," to discuss the growing concerns surrounding AI, ...
-
-📺 Megyn Kelly
-
-👁️ 35K • 👍 396 • 💬 173 • ⏱️ 12:42 • 21h ago
+👁️ 3K • ⏱️ 0:54 • 8h ago
 
 ---
 
-**[AI scientist: ‘We haven’t had Chernobyl yet. We will get Chernobyl’](https://www.youtube.com/watch?v=1pQ-HPRo3ZU)**
+**[Anthropic Slides as AI Selloff Deepens](https://www.youtube.com/watch?v=euXj_4vMSo8)**
 
-We haven't had Chernobyl yet. We will get Chernobyl.” Geoffrey Hinton, the so-called 'Godfather of AI', has told Channel 4 News' ...
+Bloomberg's Ed Ludlow takes a look at Anthropic shares falling after its blockbuster stock market debut, as part of a wider global ...
 
-📺 Channel 4 News
+📺 Bloomberg Tech
 
-👁️ 139K • 👍 786 • 💬 438 • ⏱️ 6:30 • 1d ago
-
----
-
-**[Inside China’s AI-powered Silicon Valley](https://www.youtube.com/watch?v=jfNZHzGaPqU)**
-
-NBC Nightly News anchor Tom Llamas reports from China's version of Silicon Valley in Shenzhen, where a fierce race for AI ...
-
-📺 NBC News
-
-👁️ 279K • 👍 1K • 💬 332 • ⏱️ 2:44 • 2d ago
-
----
-
-**[Has AI Solved Math&#39;s Pinnacle Problem? | World Science Festival](https://www.youtube.com/watch?v=GXTC-G_oOtQ)**
-
-In partnership with human mathematician Levent Alpöge, Anthropic's Claude may have solved a nearly two-century-old problem ...
-
-📺 World Science Festival
-
-👁️ 176K • 👍 3K • 💬 599 • ⏱️ 3:01 • 12h ago
-
----
-
-**[&#39;We&#39;re seeing in real time the effects that AI is going to have on cybersecurity&#39;, expert says](https://www.youtube.com/watch?v=x70CiWBG_Ps)**
-
-FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the Brookings Institution, also former Director for ...
-
-📺 FRANCE 24 English
-
-👁️ 67K • 👍 219 • 💬 50 • ⏱️ 9:17 • 1d ago
-
----
-
-**[John Stewart ROASTS Sam Altman Over AI 💀😂 #Shorts](https://www.youtube.com/watch?v=LWqvmTgMEbw)**
-
-John Stewart has something to say about AI and Sam Altman! When AI becomes the topic of discussion, things get ...
-
-📺 Coding.cherry
-
-👁️ 11K • 👍 215 • 💬 6 • ⏱️ 1:07 • 20h ago
+👁️ 14K • 👍 124 • 💬 23 • ⏱️ 44:06 • 23h ago
 
 ---
 
@@ -387,55 +389,7 @@ John Stewart has something to say about AI and Sam Altman! When AI becomes the t
 
 `image-text-to-text` `26.4B`
 
-⬇️ 7,944 • ❤️ 1,133 • 11h ago
-
----
-
-**[Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)**
-
-*higurashi*
-
-`audio-to-audio` `5.3B`
-
-⬇️ 8,120 • ❤️ 5,717 • 8d ago
-
----
-
-**[Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)**
-
-*harness-hub*
-
-`image-text-to-text`
-
-⬇️ 2,383 • ❤️ 842 • 6h ago
-
----
-
-**[h3](https://huggingface.co/Sentinel7/h3)**
-
-*Sentinel*
-
-⬇️ 0 • ❤️ 583 • 2d ago
-
----
-
-**[Hy4-flash](https://huggingface.co/tencent/Hy4-flash)**
-
-*Tencent*
-
-`image-text-to-text` `220.3B`
-
-⬇️ 5,588 • ❤️ 558 • 1d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-`image-to-video`
-
-⬇️ 3,000,544 • ❤️ 12,846 • 1mo ago
+⬇️ 7,944 • ❤️ 1,744 • 18h ago
 
 ---
 
@@ -445,7 +399,27 @@ John Stewart has something to say about AI and Sam Altman! When AI becomes the t
 
 `image-text-to-text` `26.1B`
 
-⬇️ 238,152 • ❤️ 367 • 2h ago
+⬇️ 238,152 • ❤️ 502 • 9h ago
+
+---
+
+**[Hy4-flash](https://huggingface.co/tencent/Hy4-flash)**
+
+*Tencent*
+
+`image-text-to-text` `220.3B`
+
+⬇️ 5,588 • ❤️ 510 • 2d ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+`image-to-video`
+
+⬇️ 3,000,544 • ❤️ 12,896 • 1mo ago
 
 ---
 
@@ -455,7 +429,37 @@ John Stewart has something to say about AI and Sam Altman! When AI becomes the t
 
 `audio-to-audio`
 
-⬇️ 0 • ❤️ 516 • 7d ago
+⬇️ 0 • ❤️ 473 • 7d ago
+
+---
+
+**[FastFrames-L](https://huggingface.co/apple/FastFrames-L)**
+
+*Apple*
+
+`text-to-video`
+
+⬇️ 0 • ❤️ 465 • 1d ago
+
+---
+
+**[Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)**
+
+*harness-hub*
+
+`image-text-to-text`
+
+⬇️ 2,383 • ❤️ 911 • 13h ago
+
+---
+
+**[Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)**
+
+*higurashi*
+
+`audio-to-audio` `5.3B`
+
+⬇️ 8,120 • ❤️ 819 • 8d ago
 
 ---
 
@@ -463,7 +467,7 @@ John Stewart has something to say about AI and Sam Altman! When AI becomes the t
 
 *LongCat*
 
-⬇️ 3,031 • ❤️ 399 • 7d ago
+⬇️ 3,031 • ❤️ 359 • 8d ago
 
 ---
 
@@ -473,7 +477,7 @@ John Stewart has something to say about AI and Sam Altman! When AI becomes the t
 
 `text-to-speech`
 
-⬇️ 9,323 • ❤️ 391 • 18h ago
+⬇️ 9,323 • ❤️ 348 • 1d ago
 
 ---
 
@@ -501,7 +505,7 @@ PaperOrchestra is a multi-agent framework that converts unstructured research ma
 
 A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.
 
-▲ 28 • 💬 2 • ⭐ 205 • 2d ago
+▲ 29 • 💬 2 • ⭐ 284 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.26603) • [💻 code](https://github.com/apple-aiml-research/ml-depth-pro-2) • [🔗 project](https://apple-aiml-research.github.io/ml-depth-pro-2/)
 
@@ -513,7 +517,7 @@ A single scalable network estimates dense metric depth for images and video at n
 
 Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.
 
-▲ 145 • 💬 4 • ⭐ 1,152 • 8d ago
+▲ 146 • 💬 4 • ⭐ 1,152 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.18397) • [💻 code](https://github.com/RainBowLuoCS/Gamer) • [🔗 project](https://mihoyo-gamer.github.io/)
 
@@ -547,18 +551,6 @@ This unified foundation model enables the recovery of dense geometry, camera pos
 
 ---
 
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 22 • 💬 0 • ⭐ 42,345 • 21mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -582,6 +574,18 @@ Edge0 enables efficient mixture-of-experts inference on consumer hardware by pre
 ▲ 37 • 💬 9 • ⭐ 12,160 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
+
+---
+
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 22 • 💬 0 • ⭐ 42,358 • 21mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -622,7 +626,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 19.5k • 🔱 1.2k • 6d ago
+⭐ 19.7k • 🔱 1.2k • 6d ago
 
 ---
 
@@ -632,7 +636,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 11.5k • 🔱 1.7k • 8h ago
+⭐ 11.7k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -642,7 +646,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 9.3k • 🔱 2.1k • 2h ago
+⭐ 9.4k • 🔱 2.1k • 2h ago
 
 ---
 
@@ -652,7 +656,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Python` `adb` `ai-agent` `android` `coloros` `debloat`
 
-⭐ 8.6k • 🔱 751 • 3h ago
+⭐ 8.6k • 🔱 751 • 2h ago
 
 ---
 
@@ -666,23 +670,13 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 ---
 
-**[qybaihe/bla](https://github.com/qybaihe/bla)**
-
-🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).
-
-`TypeScript` `adversarial-ai` `ai-security` `android-security` `binary-protection` `claude-code`
-
-⭐ 6.4k • 🔱 787 • 3h ago
-
----
-
 **[vercel-labs/ui](https://github.com/vercel-labs/ui)**
 
 A library of behaviors for agents to build the next generation of user interfaces.
 
 `TypeScript` `accessibility` `agent` `agents` `ai` `aria`
 
-⭐ 6.3k • 🔱 220 • 5h ago
+⭐ 6.4k • 🔱 222 • 45m ago
 
 ---
 
@@ -692,7 +686,17 @@ The AI-native engine for teams and their agents. Multi-harness, multi-agent, sel
 
 `JavaScript` `agent-harness` `agent-orchestration` `agent-workflows` `ai-agents` `ai-workflows`
 
-⭐ 6.2k • 🔱 472 • 12m ago
+⭐ 6.4k • 🔱 500 • 39m ago
+
+---
+
+**[qybaihe/bla](https://github.com/qybaihe/bla)**
+
+🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).
+
+`TypeScript` `adversarial-ai` `ai-security` `android-security` `binary-protection` `claude-code`
+
+⭐ 6.4k • 🔱 789 • 6h ago
 
 ---
 
@@ -702,7 +706,7 @@ The AI-native engine for teams and their agents. Multi-harness, multi-agent, sel
 
 `Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
 
-⭐ 5.0k • 🔱 111 • 1d ago
+⭐ 5.0k • 🔱 113 • 1d ago
 
 ---
 
@@ -712,7 +716,7 @@ Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI
 
 `Rust` `ai-agents` `appkit` `coding-agents` `cross-platform` `css`
 
-⭐ 4.9k • 🔱 139 • 4m ago
+⭐ 4.9k • 🔱 139 • 2m ago
 
 ---
 
