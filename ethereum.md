@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-21T17:53:33.755150+00:00'
+updated: '2026-11-21T22:50:35.333041+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 21, 2026 at 17:53 UTC  
+**Last Updated:** November 21, 2026 at 22:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,633.93
+### $1,686.29
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.0%  
+**24h:** +3.6%  
 **7d:** -8.4%  
 **30d:** -29.6%  
-**90d:** -32.3%  
+**90d:** -32.2%  
 **1y:** -39.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $205.05B
+**Market Cap:** $205.18B
 Rank #2
 
 **Circulating Supply:** 122,238,992 ETH
@@ -62,7 +62,7 @@ No max supply
 -66.1%
 
 **All-Time Low:** $0.43
-+387327.6%
++387595.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-4d ago
+5d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 9d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 10d ago
 
 ---
 
@@ -156,29 +156,21 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 Peter Schiff warned late Friday that Ethereum (ETH) could plunge to $1,000 by Monday after the token fell below the key support level of $1600.
 
-Stocktwits • 7h ago
+Stocktwits • 21h ago
 
 ---
 
-**[Ethereum founder takes aim at keeping homes expensive](https://finance.yahoo.com/real-estate/articles/ethereum-founder-takes-aim-keeping-223000009.html)**
+**[Elon Musk’s Grok AI Predicts ETH Vs SOL For 2027: Who Wins?](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-200700590.html)**
 
-Vitalik Buterin says where young people put savings shapes who wants home prices high.
+Ethereum vs. Solana in 2027: Elon Musk’s Grok AI predicts which is positioned for bigger gains at the end of this article. As of mid-November 2026, Ethereum (ETH) trades near $1,780–$1,880 with a market cap of about $210–$230Bn, while Solana (SOL) trades near $65–$80 with a market cap of roughly ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[ETH news: Ethereum’s next big upgrade is pushed into 2027 by apps it would break](https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break)**
 
 CoinDesk • 1d ago
-
----
-
-**[Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.](https://www.fool.com/investing/2026/11/19/not-bitcoin-not-ethereum-this-could-be-the-best-cryptocurrency-to-hold-over-the-next-5-years/)**
-
-This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -198,11 +190,9 @@ TradingView • 1d ago
 
 ---
 
-**[Crypto Market Bloodbath: Bitcoin, Ethereum and XRP Crash Up to 10% as Bear Market Fears Grow](https://coinpedia.org/news/crypto-market-bloodbath-bitcoin-ethereum-and-xrp-crash-up-to-10-as-bear-market-fears-grow/)**
+**[Bitcoin Crashes to $59,000 as Ethereum, XRP Dump 8%: What Is Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/11/63486782/bitcoin-crashes-to-59000-as-ethereum-xrp-dump-8-what-is-going-on)**
 
-Bitcoin dropped below $56,000 on Saturday, and Ethereum and XRP fell with it. BTC is trading at $55,693, down 8.9% in a day and 16.2% in a week. Ethereum
-
-Coinpedia • 9h ago
+Benzinga • 1d ago
 
 ---
 
@@ -210,7 +200,7 @@ Coinpedia • 9h ago
 
 Bitcoin fell to $56,813.68 in a late-Friday snapshot, while Ethereum dropped nearly 10% and XRP traded just above its $0.87 technical support level.
 
-Brave New Coin • 12h ago
+Brave New Coin • 17h ago
 
 ---
 
@@ -222,9 +212,15 @@ MarketForces Africa • 1d ago
 
 ---
 
+**[Aave Raises Ethereum USDC Borrow Cap to $4 Billion](https://thedefiant.io/news/defi/aave-raises-ethereum-usdc-borrow-cap-to-4-billion)**
+
+The Defiant • 3h ago
+
+---
+
 **[Why is Ethereum price down 9% today?](https://tradersunion.com/news/cryptocurrency-news/show/4349573-ethereum-slides-9-03percent-to-usd1606-9/)**
 
-Traders Union • 21h ago
+Traders Union • 1d ago
 
 ---
 
@@ -238,17 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 266 • 💬 78 • ⏱️ 23:09 • 9h ago
-
----
-
-**[Cathie Wood Sells ETH and Solana 📉 Loads Up on $ANT](https://www.youtube.com/watch?v=XmeVwaOQxNU)**
-
-Bitcoin has dropped below $60000 as crypto and stocks sell off together, while Cathie Wood's ARK sold staked Ether and Solana ...
-
-📺 Paul Barron Network
-
-👁️ 70K • 👍 1K • 💬 165 • ⏱️ 18:51 • 21h ago
+👁️ 23K • 👍 312 • 💬 80 • ⏱️ 23:09 • 14h ago
 
 ---
 
@@ -258,37 +244,17 @@ Tom Sosnoff, Co-Founder and CEO of Lossdog, discusses Anthropic's IPO, retail in
 
 📺 CNBC Television
 
-👁️ 8K • 👍 36 • 💬 19 • ⏱️ 4:28 • 1d ago
+👁️ 9K • 👍 36 • 💬 18 • ⏱️ 4:28 • 1d ago
 
 ---
 
-**[Raoul Pal :&quot;FINALLY The Banana Zone Phase 2 Is HERE!&quot; | Bitcoin &amp; ETH Supercycle!](https://www.youtube.com/watch?v=7lHigi2zWAk)**
+**[Cathie Wood Sells ETH and Solana 📉 Loads Up on $ANT](https://www.youtube.com/watch?v=XmeVwaOQxNU)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Bitcoin has dropped below $60000 as crypto and stocks sell off together, while Cathie Wood's ARK sold staked Ether and Solana ...
 
-📺 Crypto Nutshell
+📺 Paul Barron Network
 
-👁️ 4K • 👍 60 • 💬 10 • ⏱️ 22:05 • 22h ago
-
----
-
-**[Cathie Wood &amp; Lyn Alden Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=0PRiBVgRXv4)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 25K • 👍 305 • 💬 39 • ⏱️ 24:24 • 2d ago
-
----
-
-**[Since 2019, Every Time ETH Got This Oversold, It Went HIGHER!! Ethereum Price Prediction](https://www.youtube.com/watch?v=igPw9rubOPg)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v119 CoinGPT - the AI Trade Agent I ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 18 • 💬 9 • ⏱️ 3:06 • 1d ago
+👁️ 79K • 👍 1K • 💬 172 • ⏱️ 18:51 • 1d ago
 
 ---
 
@@ -298,17 +264,17 @@ The cryptocurrency market has gone through a major shift in the last 2 years and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 37K • 👍 2K • 💬 269 • ⏱️ 11:41 • 1d ago
+👁️ 38K • 👍 2K • 💬 265 • ⏱️ 11:41 • 1d ago
 
 ---
 
-**[Why Bitcoin Wasn&#39;t ENOUGH For Vitalik Buterin](https://www.youtube.com/watch?v=38Cxn9WpttM)**
+**[Raoul Pal :&quot;FINALLY The Banana Zone Phase 2 Is HERE!&quot; | Bitcoin &amp; ETH Supercycle!](https://www.youtube.com/watch?v=7lHigi2zWAk)**
 
-Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Coin Bureau
+📺 Crypto Nutshell
 
-👁️ 26K • 👍 412 • 💬 30 • ⏱️ 24:39 • 2d ago
+👁️ 4K • 👍 66 • 💬 12 • ⏱️ 22:05 • 1d ago
 
 ---
 
@@ -318,17 +284,47 @@ BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Ana
 
 📺 Profit First
 
-👁️ 6K • 👍 137 • 💬 2 • ⏱️ 7:12 • 14h ago
+👁️ 7K • 👍 138 • 💬 2 • ⏱️ 7:12 • 19h ago
 
 ---
 
-**[KRYPTO: Worst-Case-Szenario aktiv? Das kann jetzt passieren! 😱 Bitcoin Ethereum Solana Analyse](https://www.youtube.com/watch?v=snnQAfglhnE)**
+**[Why Bitcoin Wasn&#39;t ENOUGH For Vitalik Buterin](https://www.youtube.com/watch?v=38Cxn9WpttM)**
 
-Werde Teil unserer Community & bring dein Trading auf das nächste Level!* https://trading-kompass.de Kostenlos ...
+Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
 
-📺 TradingKompass
+📺 Coin Bureau
 
-👁️ 1K • 👍 182 • 💬 27 • ⏱️ 13:47 • 2h ago
+👁️ 27K • 👍 417 • 💬 30 • ⏱️ 24:39 • 2d ago
+
+---
+
+**[Ethereum Can’t Bounce. Is $1,620 Next?](https://www.youtube.com/watch?v=qECnnAmheNg)**
+
+Ethereum is sitting on its main support at $1724, the 78.6% retracement, but there is still no meaningful upside reaction.
+
+📺 More Crypto Online
+
+👁️ 9K • 👍 160 • 💬 13 • ⏱️ 6:52 • 2d ago
+
+---
+
+**[Ethereum Oversold! Can ETH Recover $1,700? | Swing Trade #Shorts](https://www.youtube.com/watch?v=cG60dj4nN24)**
+
+Ethereum has seen a sharp fall. Does an oversold RSI mean it is ready to bounce? See the ETH daily candles, MACD and volume ...
+
+📺 Swing Profit
+
+👁️ 70 • ⏱️ 0:33 • 9h ago
+
+---
+
+**[What Is Ethereum? Smart Contracts Explained](https://www.youtube.com/watch?v=RLPjOCbd-ok)**
+
+What makes Ethereum different from Bitcoin? See how smart contracts let many computers run the same program and agree on its ...
+
+📺 Simply Tech
+
+👁️ 73 • 👍 1 • ⏱️ 0:55 • 1d ago
 
 ---
 
