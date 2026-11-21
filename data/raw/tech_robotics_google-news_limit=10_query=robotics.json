@@ -29,20 +29,10 @@
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
-      "pub_date": 1795272420.0,
+      "pub_date": 1795288500.0,
       "article_url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
       "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f9cd76eb9786a54c4e51cf0997b3812",
       "description": "The one thing stopping AI taking over the world \u2013 or at least everyone\u2019s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that"
-    },
-    {
-      "headline": "It's the Mighty Morphin' Quadrotors?!",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJajJhRkgxUkxSZnVabWxESU9lUjhmQVBEWXJVcXh4NUNSaFVlc0phZXpJaTE0OHpHWG1Wak9rSGRZUWU5dTJWSW5JcVpoeVZGbURuUHcyX1ROdmFIekRkbkhQb0R6Szh6cHFqVWtYSEpIZw?oc=5",
-      "pub_date": 1795196019.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
-      "image": "https://spectrum.ieee.org/media-library/image.gif?id=68705683&width=1200&height=600&coordinates=0%2C105%2C0%2C105",
-      "description": "Your weekly selection of awesome robot videos"
     },
     {
       "headline": "Former No Name Restaurant to become marine robotics hub",
@@ -55,6 +45,16 @@
       "description": "The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech."
     },
     {
+      "headline": "UN talks on 'killer robots' end with no legally binding ban, further talks pledged",
+      "source": "DW.com",
+      "source_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGtPeXdhb0k5Y3NkRjItWmk4bUt4cVUtbDlsMmlpTnVNeFJnaGFweGYtRjRZVGwzSjlDN2Q5Yk9YdnFvS2VneXhjZnZGdlNMempGS18yanRTVzNOaDQ5b0F5Zl9BbXRLZGs5V1pJd1RQWTQ1bE8xZjBwcGE4N1NPM1FpVk0xM19Rc0MyQXVGWmpwOWNH0gGUAUFVX3lxTFA2WGpiTVNQXzJiRnpZTWtNV3k4bzZHbThTMjROT0tXUi1ScmhXNC0yaHJPQ1VHNlpCWjVxU0hCRjNLYUlxRmx6TmhMTjF4aVI5dFBTeVR2OElTby1lODZ5cWotYVd4Z1NTM2h4X1BVRzVLemVUaC1XRXJIVXQ0OE5ha1JRN3JMLXpLbE1idnppR18zVlY?oc=5",
+      "pub_date": 1795252810.0,
+      "article_url": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584",
+      "image": "https://static.dw.com/image/60180776_6.jpg",
+      "description": "Countries have agreed to extend discussions over controls on lethal autonomous weapons systems for two years."
+    },
+    {
       "headline": "John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties",
       "source": "GeekWire",
       "source_url": "https://www.geekwire.com",
@@ -65,46 +65,46 @@
       "description": "Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed."
     },
     {
-      "headline": "India\u2019s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzBfSHFXbmNhSlhJUVNRcUdnQV91UWR1aXl0eEp4UktiVnU2SGluYzBIcW5kNTlRNlhaUDB6TmhlQ01kYVVPcnZoR0VwRTJWdEtmTFN6UVVFRjBjd1hMRnhISF8xR2l3TlR6NTRTTmhqbUt3OTdmSWdOb0k4Z2d4NktKY0FlTlVRUTV3T3pUSThIalJWX1htRGw5Y2VCc1dTU1V1czNVUXJ0S2hDVzM1VGk2R0t5SU5NWFlCa29ZUjNZMDg?oc=5",
-      "pub_date": 1795001400.0,
-      "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/humyn-labs-co-founders_164602.jpg?resize=1200,800",
-      "description": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+      "headline": "Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUhOWGh5SHZQSUdFemktVFlWS2xQWlU4cnJsNDh1UnFvRTczZEV1NkV1UVVwc0x6Ti1mdTlYRlVYbThidmJwWmdsVTJXQVdCcWJvZTBza1B0MlJPWDg4NURCMGpobzBQRXB1VXJZUnQ1bkZBQko5MWIycjhWNlNOUkVZTjh5dU03?oc=5",
+      "pub_date": 1795179608.0,
+      "article_url": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "The Next Phase of Robotics: From Technological Progress to Real-World Impact",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0x1TFM0ajc0bWQ5TmFxWGdPZW9FckNxOWVfZ2UwR1dLOWxMbEltWjZWTUlfSkMxTjFHTTVMOEdGRGlCUWhzS3l4V0Y3TFVCWmFuU0ZoZmJMSjItU2FJQjcxelhiVlBHa2JIV3U4MVoxdUE4bWR3cnVNQzFMdC10LW1hLS0?oc=5",
-      "pub_date": 1795187040.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Pudu.jpg",
-      "description": "Pudu Robotics moves embodied AI from lab demos to real-world business impact with specialized robots and local hubs."
+      "headline": "$500M investment could bring AI robots to your workplace",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11SVFDZS11d2ViV2t0XzhYNXVDMC1ZSk8xbFNQTWFjbXY1TmwtODhqVTM1Umw4amVHOE45Y3NaRXE0aFBzR2h5R0N5aHRiLTlqZHlrdEJFdW5PYTBaQjFfc3MxZEZ6ZDFRdEpaQVVoV040RDJhS3JGM01n0gF_QVVfeXFMT2QtRGRjQXd4MDZ1aTJKdHk5c09FeWZHNTlOVTFacHVJLU5wWmctWWxhU0JRRmtlZHFMeWtSVUdhaDB6dGFVc0tKbndYWGxUNmJ1T3hiNGdSYzlKeUIwWjhvcThMUWZ1aUVyd1dBNDdVVnFvSHMwa3lLbzVQN1lFNA?oc=5",
+      "pub_date": 1795261672.0,
+      "article_url": "https://www.foxnews.com/tech/500m-investment-bring-ai-robots-workplace",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/2-_500M-AI-robot-could-change-the-way-we-work.jpg",
+      "description": "Genesis AI raised $500 million to expand its general-purpose robot Eno, which learns physical skills from workers wearing special electronic gloves."
     },
     {
-      "headline": "MassRobotics launching marine robotics facility on Boston Harbor",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHRtTmZERUlOTmdid3dkVzBoRUhnY21obkdRdGpaSlBRQWdUUl9xY1dDV1dJcnBZcTAtWkJRSFlNd1VpLXVDLVhmdGdZZkpaSzBqa0t6V09jM185WmxkNXZDaDhhVmJRZjJjWEhqMWVXeUFqZWk4QmdCR1RsU1F3a0xLWjFHVWpoTXZ6eEhFcDN3dDN3eElJQmlnNnA?oc=5",
-      "pub_date": 1795194838.0,
-      "article_url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/crabi-on-ship-featured.jpg",
-      "description": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027."
+      "headline": "University of Illinois helping bring robotics to rural Illinois classrooms",
+      "source": "WAND",
+      "source_url": "https://www.wandtv.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanpadm9scnpiTnhxaEQtRnJjRC1qbHllWFRqVDk0aU9UVV9tT0pfc29lN1dWRWItSGV2dHh0elBsWVBmV2U3M2JDWDE5VGFvVU52aGJ2d2pKcnhZU09VSVZ2TTF6WXVWRURvbVQxTXZmdk5idktGVHpTT3NHLXg1QTVoNXZPTVptcWFobDRCOWhKZExSZUhucjdzMElDc2xvekNOTER30gG6AUFVX3lxTE9DVk9WU1g0ekJhYTdUVnBKNER6TEcybFphSXB5dnhXUGZSbWxLQnJwbm9pSVRlVXpBYmRRTE5qcVJoMDBkcXhXcDZmRzd3OGhFVXNIdzk0VkxMMTNJcnc1UzNETGNqQ2R4S2tTWHRLTFRsYkQ5cE9QaG96ckcxdTREWVQ1Qm9zTUJyN0daUWdGY3hxeWJfYnVCaDNuZGpFZG50a3JCNmVyWFYyRTBra3BsT1BqMUZiaFVyQQ?oc=5",
+      "pub_date": 1795213800.0,
+      "article_url": "https://www.wandtv.com/2026/11/20/university-illinois-helping-bring-robotics-rural-illinois-classrooms/",
+      "image": "https://gray-wand-prod.gtv-cdn.com/resizer/v2/A3ART5DSPRBJ5INDXYYQVHALCY.jpg?auth=b01c77f10d6238096f722c368cbc972c6d35d19dbba1e0f83b3c9ce7147b03b6&width=1200&height=600&smart=true",
+      "description": "From building robots to learning computer programming, students in rural Illinois schools are getting hands-on experience with science, technology, engineering and math thanks to a partnership with the University of Illinois."
     },
     {
-      "headline": "John Deere Orchard Robotics deal signals growing value of actionable farm data, says ag robotics OG",
-      "source": "AgFunderNews",
-      "source_url": "https://agfundernews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWl3U0JPVDRBVUtCbl9vUTRLaEdjX3RoU2VkS204Vm95RVBjR0tXenFpdDFsUlk2VmNCdTl6RF85cnBQaUt4Z2Q3ZUs0bDY5OEFUUE55UzBIYVpqT2paQ2F4UEJQNUE0V19HeldkTHg4V3ZFRkFHMVhyYnNxd2hwZGYwanQ3ZzlNV3VGZktDXzI4bGZRSW1ZWWg3aGltVzJ3NWlobGo5SVBpSFV4eWxRV0RGOGlBQ0FhcGt0dGVQaGg?oc=5",
-      "pub_date": 1795198554.0,
-      "article_url": "https://agfundernews.com/john-deere-orchard-robotics-deal-signals-growing-value-of-actionable-farm-data-says-ag-robotics-og",
-      "image": "https://agfundernews.com/wp-content/uploads/2026/08/Charlie-Wu-founder-CEO-Orchard-Robotics-Image-credit-Elaine-Watson.jpg",
-      "description": "\"Our goal is to bring our industry-leading tech and AI farming capabilities to every farmer out there,\" says Orchard Robotics CEO Charles Wu."
+      "headline": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVVlTGNHV2NqYjM0TGdpMF9rQzZ1ZmJka2RnRTZHanlpZzlMQVBickF2ZVpPeVV4SVRJanlWZWlhRjF6TkxfZFlVRHZqdXpGeG5WdXZNandpRXo4LWw0TmEyQ2MwUDNrSHgtR1dEQ2dwaVJQNFBaTzN1YkZtM0lDZE5ibXV0dk9Nb0FwRFBFbzc3V1ItSmJDRXdmUlgwdjdhZkpxSGczZDnSAa4BQVVfeXFMUFBvWXBuVG5Fc2xzeEp3T1BrczE5OG52SXV4VFdLTjdZMW1nVU9nNUJSTHl5bHZGejRQTFYxYjRsT043elJWcUhENEV3MUQ2bzNfRUZKZlE1eERtWERtanpQaUllUVNlY2JVNE41a3BQZUlYcUZPUW1lVkJPdTJHNTVFRFlTQWxTWmRXU3NPNGoyalliUnR0MllacGdWR2FSdXI1VDFmZWpNazkyLTN3?oc=5",
+      "pub_date": 1795248133.0,
+      "article_url": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556987-1795246565449-gettyimages-2304350810-ukrinform-ukrainia261110_npEfg.jpeg?v=1795246600&w=1920&h=1080",
+      "description": "Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-21T17:53:21.418080+00:00"
+  "fetched_at": "2026-11-21T22:50:22.996996+00:00"
 }

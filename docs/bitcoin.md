@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-21T17:53:33.750181+00:00'
+updated: '2026-11-21T22:50:35.327153+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 21, 2026 at 17:53 UTC  
+**Last Updated:** November 21, 2026 at 22:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,063.35
+### $60,233.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** -8.1%  
-**30d:** -26.0%  
-**90d:** -24.0%  
-**1y:** -29.1%  
+**24h:** +2.1%  
+**7d:** -8.0%  
+**30d:** -25.9%  
+**90d:** -23.8%  
+**1y:** -28.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1205.03B
+**Market Cap:** $1209.11B
 Rank #1
 
-**Circulating Supply:** 20,115,387 BTC
+**Circulating Supply:** 20,115,446 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--52.5%
+-52.3%
 
 **All-Time Low:** $67.81
-+88243.9%
++88547.7%
 
 ---
 
@@ -103,7 +103,7 @@ Congrats everyone.
 
 **[bitcoin will be 170k-200k in sep 2029](https://www.reddit.com/r/Bitcoin/comments/1xx3wds/bitcoin_will_be_170k200k_in_sep_2029/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -155,35 +155,63 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin falls to its lowest in two years](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)**
+**[Bitcoin rises after falling to two-year low](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)**
 
-Reuters • 13h ago
+Reuters • 18h ago
 
 ---
 
-**[Bitcoin developers fix 'medium' bug that could have delayed transactions](https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug)**
+**[Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?](https://www.barrons.com/articles/bitcoin-price-today-news-2098674f)**
 
-CoinDesk • 11h ago
+Barron's • 1h ago
+
+---
+
+**[Anthropic and Bitcoin Are Both Falling: Where Is the Money Going?](https://finance.yahoo.com/markets/crypto/articles/anthropic-bitcoin-both-falling-where-123100764.html)**
+
+Anthropic's blockbuster IPO stumbled on day two just as Bitcoin cracked below $60,000. The popular theory says crypto holders cashed out to buy the new stock, but the real money trail points somewhere far less exciting.
+
+Yahoo Finance • 10h ago
 
 ---
 
 **[Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets](https://www.bloomberg.com/news/articles/2026-11-21/crypto-crashes-pile-up-as-once-diehard-fans-chase-new-bets)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Block Says Most Bitcoin Payments on Square Are for Coffee and Food](https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report)**
+**[Bitcoin Falls to More Than Two-Year Low as Global Markets Sink](https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink)**
 
-Block’s report finds the median bitcoin payment at Square sellers is about $13 and 72% happen at food and drink spots, as it pushes for a tax break.
+Bloomberg.com • 18h ago
+
+---
+
+**[After the Midterm Elections, VanEck's Matthew Sigel Is Still Bullish on Bitcoin. Here's Why He's Right.](https://www.fool.com/investing/2026/11/21/after-the-midterm-elections-vanecks-matthew-sigel-is-still-bullish-on-bitcoin-heres-why-hes-rightwrong/)**
+
+If history is any guide, Bitcoin could be ready to rebound in 2027.
+
+The Motley Fool • 7h ago
+
+---
+
+**[Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open](https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open)**
+
+CoinDesk • 4h ago
+
+---
+
+**[‘Dump It Now’—Panic Suddenly Sweeps Bitcoin As Crypto Braces For Massive $2 Trillion Weekend Price Crash](https://www.forbes.com/sites/digital-assets/2026/11/21/we-have-a-real-issue-sudden-bitcoin-plunge-leaves-crypto-braced-for-a-massive-price-crash/)**
+
+Forbes • 10h ago
+
+---
+
+**[Tracy Schuchart: Bitcoin Trading “Like A Risk Asset” As Fed Hikes Loom](https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom)**
+
+Tracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today.
 
 Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin Falls 8% as Liquidations Reach $2.38 Billion](https://thedefiant.io/news/markets/bitcoin-falls-8-as-liquidations-reach-2-38-billion)**
-
-The Defiant • 12h ago
 
 ---
 
@@ -191,35 +219,7 @@ The Defiant • 12h ago
 
 The AI trade is having its worst stretch yet. Nvidia shares have fallen roughly 40% in a matter of weeks, and the damage has spread well past Silicon Valley.Bitcoin has slipped below $60,000. The total crypto market has contracted to approximately $2 trillion. When the poster child of a boom stumbl…
 
-TradingView • 3h ago
-
----
-
-**[Bitcoin and AI Stocks Plunge as Tech Selloff Deepens](https://gizmodo.com/bitcoin-is-back-where-it-was-five-years-ago-ai-stocks-are-crashing-too-2000843154)**
-
-Gizmodo • 23h ago
-
----
-
-**[Anthropic and Bitcoin Are Both Falling: Where Is the Money Going?](https://247wallst.com/investing/cryptocurrency/2026/11/21/anthropic-and-bitcoin-are-both-falling-where-is-the-money-going/)**
-
-Anthropic and Bitcoin are falling together, so crypto money isn't just rotating into the IPO. Here's where the cash is going instead.
-
-24/7 Wall St. • 5h ago
-
----
-
-**[21Shares Forecasts Bitcoin to Hit New Highs in 2027 Predictions List](https://www.benzinga.com/crypto/cryptocurrency/26/11/63515325/21shares-forecasts-bitcoin-to-hit-new-highs-in-2027-predictions-list)**
-
-Benzinga • 53m ago
-
----
-
-**[Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February](https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest)**
-
-Bitcoin broke below $60,000 Friday, falling to $59,700 as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.
-
-Decrypt • 1d ago
+TradingView • 8h ago
 
 ---
 
@@ -229,7 +229,7 @@ Decrypt • 1d ago
 
 **[Bitcoin falls to its lowest in two years](https://news.ycombinator.com/item?id=50588272)**
 
-⬆️ 9 • 💬 3 • 6h ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
+⬆️ 12 • 💬 4 • 10h ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
 
 ---
 
@@ -241,11 +241,11 @@ The alleged operator of defunct pirate streaming site Movie2K could walk out of 
 
 ---
 
-**[Bitcoin Just Crashed Toward $64,000. History Says the Worst May Not Be Over](https://news.ycombinator.com/item?id=50501201)**
+**[Gemini 4 Neon solves Bitcoin puzzle from 2024](https://news.ycombinator.com/item?id=50592648)**
 
-Bitcoin's slide has bruised holders, but three past cycles and a 2022 double bottom suggest the first flush rarely ends the pain. Three catalysts and two price lines will decide whether the old highs come back or the floor drops again.
+Notes on mathematics and puzzles.
 
-⬆️ 5 • 💬 1 • 6d ago • [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/11/14/bitcoin-just-crashed-toward-66000-history-says-the-worst-may-not-be-over/)
+⬆️ 6 • 💬 0 • 3h ago • [echo.ls](https://echo.ls/zden-level-halv/)
 
 ---
 
@@ -269,7 +269,7 @@ I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of 
 
 The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.
 
-⬆️ 1 • 💬 1 • 8h ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
+⬆️ 1 • 💬 1 • 13h ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
 
 ---
 
@@ -313,7 +313,7 @@ Welcome back! ➡️ Trade on BTCC & 10% Deposit Bonus: https://aaronbtc.com/tra
 
 📺 Aaron Bennett
 
-👁️ 45K • 👍 755 • 💬 138 • ⏱️ 13:40 • 7h ago
+👁️ 54K • 👍 849 • 💬 148 • ⏱️ 13:40 • 12h ago
 
 ---
 
@@ -323,67 +323,17 @@ Live stream the conference: https://www.youtube.com/@benjaminjcowen/join Come to
 
 📺 Benjamin Cowen
 
-👁️ 220K • 👍 10K • 💬 698 • ⏱️ 22:02 • 12h ago
+👁️ 264K • 👍 11K • 💬 738 • ⏱️ 22:02 • 17h ago
 
 ---
 
-**[🚨Bitcoin: TOTAL MELTDOWN! Altcoins About To Make NEW LOWS?!](https://www.youtube.com/watch?v=73fRZwU0Qas)**
+**[Bitcoin $58K. Treasury Panic? First Since 2008](https://www.youtube.com/watch?v=tyZhNdp6hzI)**
 
-Bitcoin price crash incoming? A new BTC low could be on the horizon as bearish signals raise fears of a major crypto market ...
+Bitcoin just fell to $58K and people are flipping out - and I understand why. The U.S. Treasury just did something it hasn't done ...
 
-📺 Discover Crypto
+📺 Digital Asset News
 
-👁️ 17K • 👍 302 • 💬 50 • ⏱️ 52:31 • 1d ago
-
----
-
-**[Saturday Bitcoin Update: BTC FREEFALL! BILLIONS LIQUIDATED! IS THIS JUST THE BEGINNING?](https://www.youtube.com/watch?v=k9b5HKkvLyM)**
-
-BlackFriday earlybird VIP signup: https://vip.cryptolifer.com/ BTCC: ...
-
-📺 Crypto Lifer
-
-👁️ 5K • 👍 279 • 💬 40 • ⏱️ 52:30 • 41m ago
-
----
-
-**[BITCOIN: LONGEST BEAR MARKET EVER!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=t8VFalzoCPk)**
-
-RT1M Podcast: https://www.youtube.com/@RT1MPodcast Free Trading Community https://discord.com/invite/jRAnCV9CTB [I ...
-
-📺 Road To $1 Million USD
-
-👁️ 16K • 👍 325 • 💬 40 • ⏱️ 8:36 • 19h ago
-
----
-
-**[🚨 BITCOIN BREAKS $56,000!!! [UPDATE WITH BEN COWEN]](https://www.youtube.com/watch?v=AAG0KGgXTOY)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT TRADE PERPS IN THE USA: https://kalshi.com/p/cryptokid $50 ...
-
-📺 Crypto Kid
-
-👁️ 18K • 👍 381 • 💬 52 • ⏱️ 2:25 • 13h ago
-
----
-
-**[BITCOIN: Absolute Bloodbath! ($2.5B liquidated) - BTC Price Prediction Today](https://www.youtube.com/watch?v=uP73nALSfWU)**
-
-Want a free $5040 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 8K • 👍 378 • 💬 50 • ⏱️ 14:12 • 6h ago
-
----
-
-**[Bitcoin DANGER ZONE - Michael Saylor Is Now $15 BILLION Underwater](https://www.youtube.com/watch?v=e-YiGS4Sy54)**
-
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Bitcoin has ...
-
-📺 Bitcoin News Alerts
-
-👁️ 11K • 👍 211 • 💬 102 • ⏱️ 13:40 • 20h ago
+👁️ 31K • 👍 857 • 💬 159 • ⏱️ 28:16 • 1d ago
 
 ---
 
@@ -393,17 +343,67 @@ Unlock $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
 
 📺 Altcoin Daily
 
-👁️ 91K • 👍 2K • 💬 186 • ⏱️ 10:24 • 1d ago
+👁️ 93K • 👍 2K • 💬 175 • ⏱️ 10:24 • 1d ago
 
 ---
 
-**[BITCOIN CRASH TO $55K: This Will Get UGLY (warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zaDmH8bwXQ4)**
+**[Bitcoin DANGER ZONE - Michael Saylor Is Now $15 BILLION Underwater](https://www.youtube.com/watch?v=e-YiGS4Sy54)**
 
-BITCOIN CRASH TO $55K: This Will Get UGLY (warning)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Bitcoin has ...
 
-📺 Crypto World
+📺 Bitcoin News Alerts
 
-👁️ 19K • 👍 367 • 💬 70 • ⏱️ 25:59 • 12h ago
+👁️ 11K • 👍 221 • 💬 104 • ⏱️ 13:40 • 1d ago
+
+---
+
+**[What Would It Take for Bitcoin to Hit $1 MILLION? | Anthony Pompliano](https://www.youtube.com/watch?v=7I0JqX0vkyo)**
+
+Meet Silvia — the AI agent custom-built for managing your personal finances. Connect your accounts, investments, and assets in ...
+
+📺 The Iced Coffee Hour Clips
+
+👁️ 77K • 👍 271 • 💬 116 • ⏱️ 8:55 • 1d ago
+
+---
+
+**[Bitcoin Drops Below $60k](https://www.youtube.com/watch?v=6EpZVnKKrOE)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 235K • 👍 7K • 💬 672 • ⏱️ 25:28 • 1d ago
+
+---
+
+**[5 MINS AGO! Cathie Wood Shared Terrifying Predictions | Bitcoin Price 2026](https://www.youtube.com/watch?v=99T9LQSeN0E)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 160 • 💬 19 • ⏱️ 23:12 • 4h ago
+
+---
+
+**[Bitcoin: It’s So Over](https://www.youtube.com/watch?v=sFN2dXEVQW0)**
+
+How does today's Bitcoin bear market compare with the ones before it? Sean Hagan and Grace Remington walk through the 2018 ...
+
+📺 Bitcoin Magazine
+
+👁️ 40K • 👍 386 • 💬 117 • ⏱️ 16:59 • 2d ago
+
+---
+
+**[🚨Bitcoin: TOTAL MELTDOWN! Altcoins About To Make NEW LOWS?!](https://www.youtube.com/watch?v=73fRZwU0Qas)**
+
+Bitcoin price crash incoming? A new BTC low could be on the horizon as bearish signals raise fears of a major crypto market ...
+
+📺 Discover Crypto
+
+👁️ 17K • 👍 302 • 💬 44 • ⏱️ 52:31 • 1d ago
 
 ---
 

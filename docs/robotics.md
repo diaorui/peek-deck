@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-21T17:53:33.757772+00:00'
+updated: '2026-11-21T22:50:35.336217+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 21, 2026 at 17:53 UTC  
+**Last Updated:** November 21, 2026 at 22:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-7d ago
+8d ago
 
 ---
 
@@ -120,7 +120,7 @@ ChinaTalk | Jordan Schneider • 1d ago
 
 **[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -132,19 +132,19 @@ The Guardian • 3h ago
 
 ---
 
-**[It's the Mighty Morphin' Quadrotors?!](https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1d ago
-
----
-
 **[Former No Name Restaurant to become marine robotics hub](https://www.boston.com/news/local-news/2026/11/20/former-no-name-restaurant-to-become-marine-robotics-hub/)**
 
 The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech.
 
-Boston.com • 15h ago
+Boston.com • 20h ago
+
+---
+
+**[UN talks on 'killer robots' end with no legally binding ban, further talks pledged](https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584)**
+
+Countries have agreed to extend discussions over controls on lethal autonomous weapons systems for two years.
+
+DW.com • 13h ago
 
 ---
 
@@ -156,35 +156,33 @@ GeekWire • 1d ago
 
 ---
 
-**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+**[Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test](https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html)**
 
-Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
-
-TechCrunch • 3d ago
+Tech Xplore • 1d ago
 
 ---
 
-**[The Next Phase of Robotics: From Technological Progress to Real-World Impact](https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu)**
+**[$500M investment could bring AI robots to your workplace](https://www.foxnews.com/tech/500m-investment-bring-ai-robots-workplace)**
 
-Pudu Robotics moves embodied AI from lab demos to real-world business impact with specialized robots and local hubs.
+Genesis AI raised $500 million to expand its general-purpose robot Eno, which learns physical skills from workers wearing special electronic gloves.
 
-Interesting Engineering • 1d ago
-
----
-
-**[MassRobotics launching marine robotics facility on Boston Harbor](https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/)**
-
-MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027.
-
-The Robot Report • 1d ago
+Fox News • 11h ago
 
 ---
 
-**[John Deere Orchard Robotics deal signals growing value of actionable farm data, says ag robotics OG](https://agfundernews.com/john-deere-orchard-robotics-deal-signals-growing-value-of-actionable-farm-data-says-ag-robotics-og)**
+**[University of Illinois helping bring robotics to rural Illinois classrooms](https://www.wandtv.com/2026/11/20/university-illinois-helping-bring-robotics-rural-illinois-classrooms/)**
 
-"Our goal is to bring our industry-leading tech and AI farming capabilities to every farmer out there," says Orchard Robotics CEO Charles Wu.
+From building robots to learning computer programming, students in rural Illinois schools are getting hands-on experience with science, technology, engineering and math thanks to a partnership with the University of Illinois.
 
-AgFunderNews • 23h ago
+WAND • 1d ago
+
+---
+
+**[Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028](https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html)**
+
+Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position.
+
+CNBC • 14h ago
 
 ---
 
@@ -198,37 +196,17 @@ The king oyster mushroom (Pleurotus eryngii) is the fat-stemmed mushroom you fin
 
 📺 Creatures in Motion
 
-👁️ 5K • 👍 181 • 💬 15 • ⏱️ 2:53 • 9h ago
+👁️ 10K • 👍 256 • 💬 22 • ⏱️ 2:53 • 14h ago
 
 ---
 
-**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
+**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
 
-Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
+On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
 
-📺 Cleo Abram
+📺 FRAME
 
-👁️ 1.4M • 👍 80K • 💬 710 • ⏱️ 1:05 • 1d ago
-
----
-
-**[MIT&#39;s Magnetic Robot Could Navigate Inside the Human Brain! 🤯🧠](https://www.youtube.com/watch?v=83LppGIcKTA)**
-
-Imagine a tiny robotic thread navigating blood vessels inside the human brain! MIT engineers developed a magnetically ...
-
-📺 Nexio Core
-
-👁️ 51K • 💬 2 • ⏱️ 0:05 • 8h ago
-
----
-
-**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
-
-OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
-
-📺 MACHINEKIND
-
-👁️ 11K • 👍 229 • 💬 37 • ⏱️ 11:51 • 1d ago
+👁️ 20K • 👍 272 • ⏱️ 21:17 • 3d ago
 
 ---
 
@@ -238,7 +216,17 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 228K • 👍 3K • 💬 639 • ⏱️ 2:12:13 • 5d ago
+👁️ 229K • 👍 3K • 💬 641 • ⏱️ 2:12:13 • 5d ago
+
+---
+
+**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
+
+Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
+
+📺 Cleo Abram
+
+👁️ 1.6M • 👍 88K • 💬 753 • ⏱️ 1:05 • 1d ago
 
 ---
 
@@ -248,17 +236,7 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 185K • 👍 596 • 💬 470 • ⏱️ 2:44 • 4d ago
-
----
-
-**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
-
-Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
-
-📺 Unbox Therapy
-
-👁️ 986K • 👍 47K • 💬 81 • ⏱️ 1:24 • 3d ago
+👁️ 189K • 👍 605 • 💬 479 • ⏱️ 2:44 • 4d ago
 
 ---
 
@@ -268,27 +246,47 @@ ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinj
 
 📺 MuffinJuice
 
-👁️ 1.1M • 👍 32K • 💬 3K • ⏱️ 15:00 • 1d ago
+👁️ 1.1M • 👍 33K • 💬 3K • ⏱️ 15:00 • 1d ago
 
 ---
 
-**[Rifle-equipped ROBOT DOGS deployed to reclaim gang-controlled stadium](https://www.youtube.com/watch?v=ard7h54M-qU)**
+**[I Built My Own Voice Control AI Robot – Personal Assistant 🤯| Award Winning Science Project 🏆](https://www.youtube.com/watch?v=v49Bn1yITUg)**
 
-Salvadoran President Nayib Bukele releases footage showing troops deploying rifle-equipped robotic dogs during an operation to ...
+I Built My Own Voice Control AI Robot – Personal Assistant | Award Winning Science Project Kya aap apna khud ka Personal ...
 
-📺 Fox News
+📺 Amol Kolte DIY
 
-👁️ 211K • 👍 3K • 💬 693 • ⏱️ 0:20 • 6d ago
+👁️ 5K • 👍 174 • 💬 66 • ⏱️ 11:06 • 19h ago
 
 ---
 
-**[500-Foot Robotic Wolf vs 350-Foot Robotic Lion! 🐺🦁 | Six Sisters Save Their Village](https://www.youtube.com/watch?v=HlspxjX-xE4)**
+**[Humanoid Robot Show LIVE | Trump, Putin &amp; Xi Jinping Attend APEC 2026 Summit In China](https://www.youtube.com/watch?v=6izp0f3pZXw)**
 
-500-Foot Robotic Wolf vs 350-Foot Robotic Lion! | Six Sisters Save Their Village One terrifying night, a gigantic 500-foot robotic ...
+China's humanoid robots take centre stage at the APEC Summit 2026 in Shenzhen as world leaders Donald Trump, Xi Jinping ...
 
-📺 Gramixa
+📺 NDTV Profit
 
-👁️ 568K • 💬 17 • ⏱️ 8:11 • 3d ago
+👁️ 347K • 👍 1K • 💬 169 • ⏱️ 20:56 • 2d ago
+
+---
+
+**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
+
+Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
+
+📺 Unbox Therapy
+
+👁️ 1.0M • 👍 47K • 💬 83 • ⏱️ 1:24 • 3d ago
+
+---
+
+**[MIT&#39;s Cat-Inspired Robot Can Land on Its Feet With Just 6 Motors! 🤯🐈](https://www.youtube.com/watch?v=qpWAtJ2ky7Y)**
+
+What if a robot could move and land like a cat? MIT CSAIL's Felis robot uses an actuated spine and just six motors to walk, ...
+
+📺 Nexio Core
+
+👁️ 13K • 💬 1 • ⏱️ 0:07 • 1d ago
 
 ---
 

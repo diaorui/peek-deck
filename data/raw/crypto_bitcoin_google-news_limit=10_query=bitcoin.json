@@ -5,7 +5,7 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin falls to its lowest in two years",
+      "headline": "Bitcoin rises after falling to two-year low",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5",
@@ -15,14 +15,24 @@
       "description": null
     },
     {
-      "headline": "Bitcoin developers fix 'medium' bug that could have delayed transactions",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0lrTkM1WlVfcXVJVDB3VlUwMlh3cWVKNGJ5S0JTUWVqRmNtWVhhT3VfTG91X2xWWEFMWXlVT2o3SFFiNWpvNjFwLXBldGlJVkdJRFc2R3dzNWJwSEpxY0c3NXNBLVFTYkVnMnViLVk1Ny1SQjhlNUF2M2hDWDRUNGxweXJhT1czZmpFNFlFVDRLejJEMmpwOXhYbnRyU0JFcGdWM1JpczJfWGdyRGJjNkxrSnpwcjVnMURVcm0xQU5LUQ?oc=5",
-      "pub_date": 1795241802.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "headline": "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdEVWQ1doTGNKcmpDTV83S2lzNi00SUxwcC1VNVVMM091dkJSY2RyZzQxUHB2RmV6US1jSGdUR2JWR1lrb3NsQjc5UEE2V2FtRVVzZHprVm8wNkdsTUQxOTVZRVoxcndRQ2Q5cXlxS3ctQ05R?oc=5",
+      "pub_date": 1795294680.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-today-news-2098674f",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Anthropic and Bitcoin Are Both Falling: Where Is the Money Going?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnl4QTdoM1dwRGNxeG5kcWRQb1p5R2JXNVMxQThUZW01WDU2N24ybTFUS0RMV0JSSExNR210R19rRkJBSy1qTnZnQkxLai1lbS05VldGT25rcjliV1VrRHd2bjdiU1doMzVoSXpWZEpJNm5HRTJjSjdJdjZ6clRFbFM2TFlkcEIzQ0pyZHNndzY0TzBxYi13Ymh5T2NmQml2Nldz?oc=5",
+      "pub_date": 1795264260.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/anthropic-bitcoin-both-falling-where-123100764.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/443c09de8046c6ca1081f32ee88862d4b1b01c60ff693e88a574c660e2098b18/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9438acfb2cfb30ca262ff4c78299f900.jpg",
+      "description": "Anthropic's blockbuster IPO stumbled on day two just as Bitcoin cracked below $60,000. The popular theory says crypto holders cashed out to buy the new stock, but the real money trail points somewhere far less exciting."
     },
     {
       "headline": "Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets",
@@ -35,24 +45,54 @@
       "description": null
     },
     {
-      "headline": "Block Says Most Bitcoin Payments on Square Are for Coffee and Food",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41Y000dndPcnQyZ1ZhVkVxeTNfWmtBOXFGMDRiN3BiUEJHTDRsX0UzejU2NDFPY0d0Ynk4V0poZlF3dFU0YnJuRE5wdExsa2hpaEY2VTY0d0FXaWRPaFlMbWRoWHlaS1dRaE9UQXBvc3FDUE8yWXE5ZA?oc=5",
-      "pub_date": 1795185900.0,
-      "article_url": "https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Block-Says-Most-Bitcoin-Payments-on-Square-Are-for-Coffee-and-Food.jpg",
-      "description": "Block\u2019s report finds the median bitcoin payment at Square sellers is about $13 and 72% happen at food and drink spots, as it pushes for a tax break."
-    },
-    {
-      "headline": "Bitcoin Falls 8% as Liquidations Reach $2.38 Billion",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWxydXRrX3VUN1Y5UUJYaWg2bkxMWC00T0ZVb0ViQmpSdklpNHN1UFVqcW41eHlNLVJEaHl6Sk43cUlzTjZ5eDZLLWYtdFpOZ0J1OWhIUUlmOEdSNmJRNGJpNmxEZlBHMEY5anFTMlRwQnZmZnRkYlV2UkttcnRWQlVWcGxUZTNmU0swNmVR?oc=5",
-      "pub_date": 1795238105.0,
-      "article_url": "https://thedefiant.io/news/markets/bitcoin-falls-8-as-liquidations-reach-2-38-billion",
+      "headline": "Bitcoin Falls to More Than Two-Year Low as Global Markets Sink",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3l4RFFsS191QTB1b2VicGdIRlZESmozTURmT2NKbUFiMU5qVUZIcDdFM0ctV3p6Vmgwc2JoYi16WFh2dGxkTERLTHE5aW9jcmRHaF9uVGd4QXJFcHUyVzRndVRQTmZwcFZZbV9pWlFlNGZVNVNhWWp5MmQ3ckh0ZF8wTGRxeHZ0dUs0ZDN4SktpRVBCc1JqWEZsQVVJOXgzbFdBOUx1V011TEJGNENwbDIxNA?oc=5",
+      "pub_date": 1795235640.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "After the Midterm Elections, VanEck's Matthew Sigel Is Still Bullish on Bitcoin. Here's Why He's Right.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd0JXSU5POEJKTFVQdTlnN2R0Z1FpdEd3NHo2TXlCUWI1TkgtM1ZRbGM0WkhnZ01QYUpRY3BrbUlBeGhTWENac3kwMmJWVmJJeF9vTlZoN3hyQ0lhdHBmTFhkMEI2Q2xxcWJoeHUwZGNJSERXa2tRMEJhV2hIbmpOOTBKM2Q1RW1EbXQxTmdRQ0R0WllleERXQ19WR2o0NEpOd0F4dUxSdGZlOGlKdlIzNGdJVjFibTlZWV93RFFhc0tETGVKM2FfQ1ZaSnY5M2pwVnp5cWdiQTdyc0VNS0E?oc=5",
+      "pub_date": 1795273202.0,
+      "article_url": "https://www.fool.com/investing/2026/11/21/after-the-midterm-elections-vanecks-matthew-sigel-is-still-bullish-on-bitcoin-heres-why-hes-rightwrong/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc1c1b171578713f3619bde9579b57b1944f4086e-2236x1341.jpg&w=1200&op=resize",
+      "description": "If history is any guide, Bitcoin could be ready to rebound in 2027."
+    },
+    {
+      "headline": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday\u2019s stock open",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazQwdWlpUGFEeW94QjNwc09ZYzFHblczcTFvUEI3SzdwMTE4cWw4T0RlcFhJcE50cWhhcWVaWnVxekgzVWJDWjNpWTJoZnEwcDBmVHA4NUZyVi1rNUU0dkRFZkpOMkZrYlBseEN4WWFFenlSbFJZVXp3REFlaUZ1UjNGTjdELVhDalhvd1lFNGJMUHktUlpDOWtCajF3TmZKYy1XOURObVAySU9yRS1Oclc2QTZaR2J5WGhpcXpoRWowaFJEUnpwUEFXYXNtYWs?oc=5",
+      "pub_date": 1795283466.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Dump It Now\u2019\u2014Panic Suddenly Sweeps Bitcoin As Crypto Braces For Massive $2 Trillion Weekend Price Crash",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdlBmNjFNYjY0WjVVQXFWb2p3OU1TRHZMSkhaU1gxdVc4eDVJcUpqc293UWU1YnZfRlNtYWwzOTZTa2tiQTg3Y3p1b3RnRzBmZ3ZpYlNBZG1vMzhqOC13UzVhZXROTUhlSnVmQnFPNUVCazAzSUI1TGhCWlhTZ245cnV3MFJ0Y3hNSEo3blVrdTVCRDQyeEtSbzRZd0k1SWNvaUpOS3Mxc1ZmM3ZoWFpMdG4yeXNpa1lnMGU3bzI5YzJZOE4zUGhMMXlZOTlBY3plcXh6Ni16dUZrb3B2RGc?oc=5",
+      "pub_date": 1795263000.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/21/we-have-a-real-issue-sudden-bitcoin-plunge-leaves-crypto-braced-for-a-massive-price-crash/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tracy Schuchart: Bitcoin Trading \u201cLike A Risk Asset\u201d As Fed Hikes Loom",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2x2RlpKUmtoX2xCYzlkck5iLWZ0X0w3bWJNeXU1b1RQTmF6TWsxbUFyc1RNLUVlUG1KY3FRZ3RWOXBJYWxyRk13d2h3WUdxVWdVdWlpdFMyR3k1cElOZXhES20yNzZyX1Z4ZnlMZXNVSVBNZS1ZUlNnZ3RaS2VSdDFSRERMZmNONXpmazB3ZEt2U0NCcWdfMmlSNEhtaVVrOG9jRQ?oc=5",
+      "pub_date": 1795212611.0,
+      "article_url": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom-8ZLlc6cnmDs.jpg",
+      "description": "Tracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today."
     },
     {
       "headline": "Nvidia sinks roughly 40% as AI bubble fears drag Bitcoin below $60,000",
@@ -63,48 +103,8 @@
       "article_url": "https://www.tradingview.com/news/cryptobriefing:8b0cda734094b:0-nvidia-sinks-roughly-40-as-ai-bubble-fears-drag-bitcoin-below-60-000/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "The AI trade is having its worst stretch yet. Nvidia shares have fallen roughly 40% in a matter of weeks, and the damage has spread well past Silicon Valley.Bitcoin has slipped below $60,000. The total crypto market has contracted to approximately $2 trillion. When the poster child of a boom stumbl\u2026"
-    },
-    {
-      "headline": "Bitcoin and AI Stocks Plunge as Tech Selloff Deepens",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmdPMGJzSnNYaVZuVjVZNmIydE9ocE54am82UGtSZnM2NENhVE1NM0RWLUVmakcwdUNQYzUyUGN2eE1zQWxkUGNnblJZb1d5T0lvUDBqYUhUTUQyaDN3WHdmc3d2WENuUmRXTmJoaGVWN0ozSUcxazRSS2JPTzFpR20tOXR1Zjl5cVlRUHdlZDNkcVowYjRqdlcwenpwamJPSDk0?oc=5",
-      "pub_date": 1795197339.0,
-      "article_url": "https://gizmodo.com/bitcoin-is-back-where-it-was-five-years-ago-ai-stocks-are-crashing-too-2000843154",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic and Bitcoin Are Both Falling: Where Is the Money Going?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdE9IOG1zX3JxLUZLb3FoV2hPYWtMRmNtVlc0VWYtQWthYWctR25wVmdJaXAyMmZycUxVdHhZOHY5alRyQ3NsZkZnSzVXZHVodDN5clM1dG5UVXlCU1I4QWRGSEcwLVYtUWl2ZGM4V3VqZkRwbEhtLXZndHQ4UndwbVNuSFN6QnF3UVZYSlYwNC0yenI2NGQxbGJjTENUVmdBd0VmR25ER1JDRm1HUWQwTm50YnQ1dEIzVU9xZmN2OA?oc=5",
-      "pub_date": 1795264260.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/21/anthropic-and-bitcoin-are-both-falling-where-is-the-money-going/",
-      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-2259415929-huge-licensed-scaled.jpg",
-      "description": "Anthropic and Bitcoin are falling together, so crypto money isn't just rotating into the IPO. Here's where the cash is going instead."
-    },
-    {
-      "headline": "21Shares Forecasts Bitcoin to Hit New Highs in 2027 Predictions List",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXA0VHkzWjBDdnlKTWNGaURjYlB5NzQxa1RGcUdTUFlrUzFkVnBmZW1HTWE0VUk1a1h5eVVtTXNqb3p0a3RQYjlTY2MtanplV1BVTnFLVVlwYjhYWjVJUTMwMWRtMU5VQS1kTTRpZ1BtYm9MaWdIT3Z4UWRKVVVtb184S0d1NTd1N1VxVENRbFk4OWgwbG15X1BodmF6M2QwbUlKeC14NFlvd1poRkx5Y3cyNGdwcW00UnZHaFdXTkFKRzlxX2ZPZzln?oc=5",
-      "pub_date": 1795280407.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63515325/21shares-forecasts-bitcoin-to-hit-new-highs-in-2027-predictions-list",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmFiekVkaDRiM0lHVW1tTFhWdTVPM3R2S1VJZmhUNDlHM3pNYkRZZHNzTnh3ZFRBQnlZSXFVblJ6SkYtNUQ4YW1WZ2RoWUxwUTh1bUhQd3hzTWJvYTBSY05fQ1pkeGVQVExwUTFmV1RfTmxfRVhVWGEydnJ3S0lrQXdwTnhGS182?oc=5",
-      "pub_date": 1795192559.0,
-      "article_url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
-      "description": "Bitcoin broke below $60,000 Friday, falling to $59,700 as crypto sentiment collapsed and AI-linked stocks sank after Anthropic\u2019s IPO."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-21T17:53:30.997168+00:00"
+  "fetched_at": "2026-11-21T22:50:32.917862+00:00"
 }
