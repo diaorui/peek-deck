@@ -6,13 +6,23 @@
   "articles": [
     {
       "headline": "Better Buy: Bitcoin vs. Ethereum",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYU9FQnZ4bmhIdG83OWFETmpnQngtbmZZVWxTU2VfTzBiYW9vRFVnOC16Rmd5VmtOLXZzN0lWaXk1ZkdTSnZCQ19EdV9YdlY0a05EZ2ZWbUdId09XNjVjZWhrZUhYU0ZVTTk2QkRpOGRhWU5tSnJoZ3Z3eEs2QQ?oc=5",
+      "pub_date": 1795287302.0,
+      "article_url": "https://www.fool.com/investing/2026/11/21/better-buy-bitcoin-vs-ethereum/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F81c310820b44fb404c65a98415219bcc788a664e-3900x2000.jpg&w=1200&op=resize",
+      "description": "Which one of the world\u2019s top cryptocurrencies is a better investment today?"
+    },
+    {
+      "headline": "Peter Schiff Doubles Down On His \u2018Black Monday\u2019 Call Again: Ethereum Could Hit $1,000 In Two Days",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmNoNXhJYjFPODFMLS1iMF96VjVINXB0ZV9pWjh5OHRJSE5KUWY0VUR3NlBNcEM3ZUs3MTVIRlhid0doVVozMEdvdzBfaEdSNHNibVJaWGJBcXU2eE10WGlHOFhwb1BLZEt0TFVxVTE3WXBPVDFuUDlwVVdnQTZkWVp2aGY5NnB0eURyWHZYYmFkXzBlTE8xZ3JxOA?oc=5",
-      "pub_date": 1795288502.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/better-buy-bitcoin-vs-ethereum-191502692.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f611c137e69de08f7ce5ed93fc9a3df0f5f781480f83bf284624f4adb3177053/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F9923f9614c44378d141ab1985b0269c4.jpg_up.jpg",
-      "description": "Which one of the world\u2019s top cryptocurrencies is a better investment today?"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUdkTG1jT09CaFhNcmhOUnhGWlBGbzNsZGcxdXBOTHhWVDQ0c3haS19Ccm5LWFdtWlp5RzFzekdHR2pJY1BBQlJ0eVhPLW54aDhfYjJjcDc3cnM2bTNDR3pmLTBvYVhMTDA4WHVab2IwaWZZWGpXaXRMUTNFb3h4SHVZYlRMaWZJVFdMam1WX1JjS2J4aTNDQVFuYS0?oc=5",
+      "pub_date": 1795257625.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-doubles-down-black-104025859.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b48567a48b8c09f050ceebab0f92dfae9dd54a65069ad4d1aadbb7112cda356f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F36fec884e48dd1e3c1d13ae8b5c79430.jpg",
+      "description": "Retail traders on Stocktwits turned bullish on Ethereum even as Schiff doubled down on his bearish call."
     },
     {
       "headline": "ETH news: Ethereum\u2019s next big upgrade is pushed into 2027 by apps it would break",
@@ -25,14 +35,14 @@
       "description": null
     },
     {
-      "headline": "Ethereum Price Dips 5% As Binance Hacker Moves ETHs",
-      "source": "MarketForces Africa",
-      "source_url": "https://dmarketforces.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUgxaGRxdW9JS3FQbjhVYXF0OTFsZUpHRmZsTEhHQkh0SkV4a2FRamY2NDNqa3RVUGdTb2J6UFc2MGx6WE1pcTBFTWNZaUZFbUZmYm5qajN2Qm9UbVRrQmlsUEV3QzdoNlVXQlFxaFhXc25MdFJHVmxzb3laRExFZjB3MA?oc=5",
-      "pub_date": 1795189051.0,
-      "article_url": "https://dmarketforces.com/ethereum-price-dips-5-as-binance-hacker-moves-eths/",
-      "image": "https://dmarketforces.com/wp-content/uploads/2026/11/Ethereum-Price-Dips-5-as-Binance-Hacker-Moves-ETHs.jpg",
-      "description": "Ethereum (ETH) price fell about 5% in 24 hours to $1,704.99 on Friday, broadly tracking the crypto selloff but slightly underperforming Bitcoin, driven"
+      "headline": "ETH Is One Small Dip Away From Trouble, But Analyst Calls Ethereum\u2019s Strength Against Bitcoin \u2018Incredibly Positive\u2019",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaXN2MTgyVnk2dzY4Z1lTdlppNjlWYjdJZ3hEWGo2ektmeVd4a3p4VklUQ1h3a0xHYk1HMFFIVE9iOHB5RWt6b2hrWGpmQ0E3a194NUlGSjg0MV9zYTRaSTlWd0FEc3MyOXBHemNSTVJxZmVEc29kZWg4TjlfbmVRSDFla1dwc3R2QWtwZUd6OEwwRkJ3dURsdHhkQ2NocUw5b1M4ZUVsa1g3LW5LNzlRb0tBcVpHdWtiM2o5M2RMRElGdnMyTXMwNFJDMEdxLWxNSmpTZElId19Dd09fdmtOeUhEMDUzV0VacGlPWUVDdU1TTkJIWTh1bDFFWmVORk95aXln?oc=5",
+      "pub_date": 1795334040.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:fce4b1839094b:0-eth-is-one-small-dip-away-from-trouble-but-analyst-calls-ethereum-s-strength-against-bitcoin-incredibly-positive/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum (ETH) traders are under pressure as leveraged positions on the asset are at risk of being liquidated by small price swings. Bears may be forced to cover their shorts if Ethereum pumps up, but bulls could be exposed to further declines. The pressure arrives at a time when macro analyst Mich\u2026"
     },
     {
       "headline": "Aave Raises Ethereum USDC Borrow Cap to $4 Billion",
@@ -45,66 +55,56 @@
       "description": null
     },
     {
-      "headline": "Not Bitcoin. Not Ethereum. This Could Be the Best Cryptocurrency to Hold During the Next 5 Years.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJGWjFSRnhqNjhOZTBfQVBLRmFFOWFMYVNLUVRNejcwam1GUmFqUVZvTU8wVTZtM2EybUtDcUhNbkJfRFRBR0g4WW1MRWczN0ItOGpuNE1nRU9FNVhtcTF5QnVYb1BTdmZMTFFEdjZNOFdtY1F5dkk1UVpUSW1IYnVqbTNqVkdBV1VLN2V3TGlzQjFsclR6WFRtY2dWNXlucG9OYjd3Rm5CR2lLUFNrQlNUVkVQbFNkZHBDeGtzaEVsaHdiZG5VX2h3ZUh0RGV3?oc=5",
-      "pub_date": 1795086002.0,
-      "article_url": "https://www.fool.com/investing/2026/11/19/not-bitcoin-not-ethereum-this-could-be-the-best-cryptocurrency-to-hold-over-the-next-5-years/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa3f885889017d89ccb5e9170d65a7cc17a70d7da-2121x1414.jpg&w=1200&op=resize",
-      "description": "This popular cryptocurrency has outperformed both Bitcoin and Ethereum since late 2021, and it's not even close."
-    },
-    {
-      "headline": "Top 4 Reasons Why BTC, ETH and XRP Price Are Crashing Today",
-      "source": "CoinGape",
-      "source_url": "https://coingape.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnBRalIwLUtsS3N1Y3JPLXZlS0xoUlBLQnd0YWFFSFRaaEdER2ZJOFRSMkhnVkV5Y3pnb2ZfTDd5c0d2Tng4WnE3cEtHaE9sdDl5Y1pMQzk1a2pjY0l6cFc4RXFKc0pMYXBrNkdRekJZQVdCWEJRZ2EyUzBvWWgzMTZLUTlsVXhJSkR4ZW1Bbkszdw?oc=5",
-      "pub_date": 1795183809.0,
-      "article_url": "https://coingape.com/markets/top-4-reasons-why-btc-eth-and-xrp-price-are-crashing-today/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum\u2019s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades",
+      "headline": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS25uOTYzQzN3cUpNLWhnWDk5WlBRbjBYZHBrYXBRX0JVUUVBclZGWmJGREFjejV1dzMtbGtBMDZRWWp6b0dwVUhXZnRRN1Y0RENCS2VCYlRwa2E5SWlYT1BGNUk3Vk9Pd2xOLXpHdGRMT1AxOW90Q285QlNTZGhfWXY3M1lyNDhnTE9qWEZVc2h4LTZXN2hQeS0wbmhaa0UyTC13MU9BUjN2OW9va21ka09UOTN0amM?oc=5",
-      "pub_date": 1795262431.0,
-      "article_url": "https://cryptoslate.com/ethereums-glamsterdam-delay-reveals-a-troubling-pattern-behind-its-biggest-network-upgrades/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-testing-return-loop.webp",
-      "description": "Ethereum\u2019s Glamsterdam upgrade ran 12 devnets in 160 days. The earliest mainnet window is mid-January 2027 if the spec holds."
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnF0SUVJb29vQU5FU3lzS0UzazllelUxZkpxUkFZeDlfcjJxenJnNHlGVDQzUXlaSWFiVWx0Y1JGYkFqNEdBRVdHc1ZLMWR6TmFFaHpRQS14YUVnZ0UtTXpYNHB4STdLVUQwU3RyTWNhLVExd051RDk1WWk2N0ZMSGJqSy14alQ5X0dMdHktZHp3ZWxJYS1RUFdGWFFhRWFmbVZ3aEhHZzdZMXpIaVBMd253?oc=5",
+      "pub_date": 1795363555.0,
+      "article_url": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-vault-shutter.webp",
+      "description": "Chainflip halted swaps, deposits, withdrawals and quotes after nearly $5 million left its Ethereum vault. See what Safe Mode means for pending swaps."
     },
     {
-      "headline": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTzVOYnV2eHV1Q3lzNVp3Mmh1aFlpOTBlQ2xFTUgzUDBrZUJCXzhEdGQzaU9ueDdUaWJXNnEwbWxfVjZ6NmpyTmRCZzNpS0JfSWlKREdBaGNxZkZOVzNRdEJ2T185MzB2YVNNX1R1Z2xkUjJtalFSVXFUZ0ZrM2RCR0RzTDRLSGpUc2ZhM0M1emdDM0VRb2pBenJWXzhvOEl0OUtEN2tXSktJVjI0a3RjZU9xUF9Uby1RNmdPTENid2FkcUdxcjFqZWZDZHdLU0pkRmEzUGFsMA?oc=5",
-      "pub_date": 1795287060.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/04/20210402_Cybercrime_Generic_G.jpg",
-      "description": "Upbit and Bithumb froze CYBER deposits and withdrawals as tokens pulled from the Ethereum bridge for Binance Labs-backed firm Cyber, formerly CyberConnect, were sold for about $968,000 in ETH."
+      "headline": "Cyber Investigates $1 Million Bridge Exploit as Upbit and Bithumb Freeze Transfers",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZlpXRmZzb05fQjQxd1BUNVBhSlpVYWl2UkhuQndhMDNrYU5WZjd2ZEJxUVFZSUFZQ05hRi0tYjB6RnpwTEd1b0FybDdkQUw0dnhCeENEUEFwMWNfUWQtWFlQeGc0Qk9ZamRHT0NIb0Q4eXBOMHFCTFFjZWI0SWxjREc4TXV1bW9WSlFwa1oxLUNONXdreXoxcW8wQmdGYUJZMzFCTFBFV1FZUkU?oc=5",
+      "pub_date": 1795349716.0,
+      "article_url": "https://financefeeds.com/cyber-investigates-1-million-bridge-exploit-as-upbit-and-bithumb-freeze-transfers/",
+      "image": "https://financefeeds.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-125207.png",
+      "description": "Cyber is probing a LayerZero bridge exploit after 5.21M CYBER were minted on Solana and ~$968K swapped to ETH; Upbit and Bithumb halted transfers."
     },
     {
-      "headline": "Ethereum ETF Draws Fresh Capital as ETH Struggles to Find Its Footing",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGlzdlZZMzQxUjJGUi1pMjNMYTlrNjEyNlh3V3JJSUo3NTZvT096c3lrak1CY0Z0WHJmeWFaU28waUxoV0dFcjByRkFuOXlrWE5uaXNyblZqLTdOSWgzUTAwU1FDbEI3QnRJZzdfcWxvWXhrMUJTaUtha19wV2FPNnptVU02NzFzaFAwN1JjS0dsSW9sdTFCbklpR1loLTBoQ2JEZkJJdlRZQkk2N1VCVkFybVRXdGc?oc=5",
-      "pub_date": 1795082838.0,
-      "article_url": "https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-draws-fresh-capital-as-eth-struggles-to-find-its-footing",
+      "headline": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUhyWUN3TEJabThlb0QzVHpFMWZxN0gtbWpDU2xLSlk1cWVGSkV0UU9ha0NMRUo2eHhxMFhlbFJ5cWJtSVZ6RmlBSnpwdlFoWE4zdmt5ZlI5bnBTYXdFTUc5OW5xb0RDVGZoSU0zOENfSTJYcTZIbWZFTzJMWDl1ZlN5dm43dzYxdHJ5LU11eGdCMzVwU3JOdHpCMmdzdlZtMDlRRnlicFhHQjFROHpwaERjNExiSkVzbFJWd2VB?oc=5",
+      "pub_date": 1795212331.0,
+      "article_url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
       "image": null,
       "description": null
     },
     {
-      "headline": "Why is Ethereum price down 9% today?",
-      "source": "Traders Union",
-      "source_url": "https://tradersunion.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDkxU2RpRzdkWnFhVnJiUFpJZVBNWllqYThlM0FXZjFXYVlRaFQwR3BuR0x5OU91X251TmEtU2dLR2RQbFNxOUpVQk5fc0lWc084ZWhVRWVBSEtZZVdVem4yandYNDRWT2tPb0JURG5RbGpsSnFCTjFXam93Sl9MMHNMQXdkT3EzNzhFOE9idjdseXdqWk4wQml4Qzh4NHhzNXBoV2h0VQ?oc=5",
-      "pub_date": 1795204953.0,
-      "article_url": "https://tradersunion.com/news/cryptocurrency-news/show/4349573-ethereum-slides-9-03percent-to-usd1606-9/",
-      "image": null,
-      "description": null
+      "headline": "Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to Know.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVQzY2hub2Z3QVhZdDVMZDhBRGF4cGNkTzdsS09TUjFoVnFkcW5waW1KWFRjSVY5R2ZyWkZOT0RNRDR4TXRxWmtWR24yWXpFMWVtSzdlYlBXWlNrWE8xSTNzbTFlbTlvQzBZdWhzMnFZTVY5QVNDSmJYWktPOFlmZUF2OFBnaDJ2YVZBSDVGLXhNeUVPT3RiY0VSOEpFdw?oc=5",
+      "pub_date": 1795113902.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-just-posted-staggering-6-184502319.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f1121e86d3f3cdf4a23eb3a6ec4f45953ec718d1d367364eb8a16991fac4e072/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F4979b48ba4846963d2d42f6c6fa90528.jpg",
+      "description": "Tom Lee\u2019s Bitmine kept catching a falling knife over the past year."
+    },
+    {
+      "headline": "Is Ethereum a Buy Right Now?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZGVEZsR0NoOHFLd3pKQWtyYlpMZ1pPU1R5MEliYURQakR3cHE0ajlDN0JPWURHTW5EeUFVelVlTnZ2MFp0bXdWeFpWN3dBYmxTUVpIdmFsb0VIS0xKNlFpZ05KMXNFQy05T1lqTWpJcFc4ckdsdXlqbE90Z0NNY042WXlIdjlf?oc=5",
+      "pub_date": 1795080002.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-buy-now-092002116.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fa98bb965b7555aceaeae37b77126a448392b36f19c0da40289a36a3c35ee1e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa56f0cd7c1c9a0b0510f5b1c9b22ce8c.jpg",
+      "description": "Ethereum may be down 64% from its 2025 highs, but a turnaround could be right around the corner."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-22T10:47:38.345799+00:00"
+  "fetched_at": "2026-11-22T18:15:38.420405+00:00"
 }

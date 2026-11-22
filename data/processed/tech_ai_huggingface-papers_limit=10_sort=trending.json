@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2604.05018",
       "arxiv_url": "https://arxiv.org/abs/2604.05018",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.05018.png",
-      "upvotes": 11,
+      "upvotes": 12,
       "num_comments": 0,
       "published_at": "2026-04-05T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/paper-orchestra",
@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2611.26603",
       "arxiv_url": "https://arxiv.org/abs/2611.26603",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26603.png",
-      "upvotes": 31,
+      "upvotes": 33,
       "num_comments": 3,
       "published_at": "2026-11-18T19:00:00.000Z",
       "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
-      "github_stars": 354,
+      "github_stars": 444,
       "project_page": "https://apple-aiml-research.github.io/ml-depth-pro-2/"
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2611.18397",
       "arxiv_url": "https://arxiv.org/abs/2611.18397",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18397.png",
-      "upvotes": 148,
+      "upvotes": 150,
       "num_comments": 4,
       "published_at": "2026-11-12T19:00:00.000Z",
       "github_repo": "https://github.com/RainBowLuoCS/Gamer",
@@ -134,25 +134,6 @@
       "project_page": "https://harness2.github.io/"
     },
     {
-      "id": "2502.11880",
-      "title": "Bitnet.cpp: Efficient Edge Inference for Ternary LLMs",
-      "authors": "Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The advent of 1-bit large language models (LLMs), led by BitNet b1.58, has\nspurred interest in ternary LLMs. Despite this, research and practical\napplications focusing on efficient edge inference for ternary LLMs remain\nscarce. To bridge this gap, we introduce Bitnet.cpp, an inference system\noptimized for BitNet b1.58 and ternary LLMs. Given that mixed-precision matrix\nmultiplication (mpGEMM) constitutes the bulk of inference time in ternary LLMs,\nBitnet.cpp incorporates a novel mpGEMM library to facilitate\nsub-2-bits-per-weight, efficient and lossless inference. The library features\ntwo core solutions: Ternary Lookup Table (TL), which addresses spatial\ninefficiencies of previous bit-wise methods, and Int2 with a Scale (I2_S),\nwhich ensures lossless edge inference, both enabling high-speed inference. Our\nexperiments show that Bitnet.cpp achieves up to a 6.25x increase in speed over\nfull-precision baselines and up to 2.32x over low-bit baselines, setting new\nbenchmarks in the field. Additionally, we expand TL to element-wise lookup\ntable (ELUT) for low-bit LLMs in the appendix, presenting both theoretical and\nempirical evidence of its considerable potential. Bitnet.cpp is publicly\navailable at https://github.com/microsoft/BitNet/tree/paper , offering a\nsophisticated solution for the efficient and practical deployment of edge LLMs.",
-      "ai_summary": "Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.",
-      "hf_url": "https://huggingface.co/papers/2502.11880",
-      "arxiv_url": "https://arxiv.org/abs/2502.11880",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.11880.png",
-      "upvotes": 22,
-      "num_comments": 0,
-      "published_at": "2025-02-17T10:06:28.000Z",
-      "github_repo": "https://github.com/microsoft/BitNet",
-      "github_stars": 42373,
-      "project_page": null
-    },
-    {
       "id": "2609.18063",
       "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
       "authors": "Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)",
@@ -169,6 +150,25 @@
       "published_at": "2026-09-15T20:00:00.000Z",
       "github_repo": "https://github.com/Edge0-AI/edge0",
       "github_stars": 12196,
+      "project_page": null
+    },
+    {
+      "id": "2502.11880",
+      "title": "Bitnet.cpp: Efficient Edge Inference for Ternary LLMs",
+      "authors": "Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The advent of 1-bit large language models (LLMs), led by BitNet b1.58, has\nspurred interest in ternary LLMs. Despite this, research and practical\napplications focusing on efficient edge inference for ternary LLMs remain\nscarce. To bridge this gap, we introduce Bitnet.cpp, an inference system\noptimized for BitNet b1.58 and ternary LLMs. Given that mixed-precision matrix\nmultiplication (mpGEMM) constitutes the bulk of inference time in ternary LLMs,\nBitnet.cpp incorporates a novel mpGEMM library to facilitate\nsub-2-bits-per-weight, efficient and lossless inference. The library features\ntwo core solutions: Ternary Lookup Table (TL), which addresses spatial\ninefficiencies of previous bit-wise methods, and Int2 with a Scale (I2_S),\nwhich ensures lossless edge inference, both enabling high-speed inference. Our\nexperiments show that Bitnet.cpp achieves up to a 6.25x increase in speed over\nfull-precision baselines and up to 2.32x over low-bit baselines, setting new\nbenchmarks in the field. Additionally, we expand TL to element-wise lookup\ntable (ELUT) for low-bit LLMs in the appendix, presenting both theoretical and\nempirical evidence of its considerable potential. Bitnet.cpp is publicly\navailable at https://github.com/microsoft/BitNet/tree/paper , offering a\nsophisticated solution for the efficient and practical deployment of edge LLMs.",
+      "ai_summary": "Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.",
+      "hf_url": "https://huggingface.co/papers/2502.11880",
+      "arxiv_url": "https://arxiv.org/abs/2502.11880",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.11880.png",
+      "upvotes": 22,
+      "num_comments": 0,
+      "published_at": "2025-02-17T10:06:28.000Z",
+      "github_repo": "https://github.com/microsoft/BitNet",
+      "github_stars": 42402,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-22T10:47:14.723773+00:00"
+  "fetched_at": "2026-11-22T18:15:18.429563+00:00"
 }

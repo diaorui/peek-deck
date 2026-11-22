@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-22T18:15:14.816148+00:00",
+  "data": {
+    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+    "description": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
+    "image": "https://dragos.brightspotcdn.com/dims4/default/41c5c4a/2147483647/strip/true/crop/1307x735+309+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fdragos-production-dragos.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fd4%2Fb6%2Fb4dbcbe348a8b3506fb99c5419e7%2Fxot-hero.webp",
+    "favicon": "https://www.dragos.com/favicon.ico",
+    "site_name": "Dragos",
+    "author": null,
+    "keywords": null
+  }
+}

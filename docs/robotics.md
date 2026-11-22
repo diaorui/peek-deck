@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-22T10:47:45.993111+00:00'
+updated: '2026-11-22T18:15:41.280227+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 22, 2026 at 10:47 UTC  
+**Last Updated:** November 22, 2026 at 18:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-6d ago
+7d ago
 
 ---
 
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-7d ago
+8d ago
 
 ---
 
@@ -82,7 +82,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-6d ago
+7d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-7d ago
+8d ago
 
 ---
 
@@ -114,69 +114,29 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 A CoRL Trip Report
 
-ChinaTalk | Jordan Schneider • 1d ago
+ChinaTalk | Jordan Schneider • 2d ago
 
 ---
 
 **[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
-**[$500M investment could bring AI robots to your workplace](https://www.foxnews.com/tech/500m-investment-bring-ai-robots-workplace)**
+**[Young engineers take on robotics at FIRST LEGO League tournament in South Bend](https://www.wndu.com/2026/11/21/young-engineers-take-robotics-first-lego-league-tournament-south-bend/)**
 
-Genesis AI raised $500 million to expand its general-purpose robot Eno, which learns physical skills from workers wearing special electronic gloves.
+17 FIRST LEGO League teams compete at Success Academy, tackling ecosystem challenges for a chance to advance to semi-state.
 
-Fox News • 22h ago
-
----
-
-**[Effort to regulate ‘killer robots’ delayed to 2028](https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/)**
-
-Russia blocked the talks, but other countries were also opposed.
-
-POLITICO.eu • 18h ago
+WNDU • 18h ago
 
 ---
 
-**[John Deere Orchard Robotics deal signals growing value of actionable farm data, says ag robotics OG](https://agfundernews.com/john-deere-orchard-robotics-deal-signals-growing-value-of-actionable-farm-data-says-ag-robotics-og)**
+**[AI agents vs physical AI: How software automation differs from embodied robotics](https://interestingengineering.com/ai-robotics/ai-agents-vs-physical-ai-difference-between-two-technologies)**
 
-"Our goal is to bring our industry-leading tech and AI farming capabilities to every farmer out there," says Orchard Robotics CEO Charles Wu.
+AI agents automate digital workflows, while physical AI powers robots in the real world. Learn key engineering differences between the two.
 
-AgFunderNews • 1d ago
-
----
-
-**[US team builds 23-inch flexible robot that links up for bigger tasks](https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer)**
-
-CSU engineers have created flexible robots, called TeCoBots, that can combine to form entirely new forms, just like Big Hero Six Microbots.
-
-Interesting Engineering • 8m ago
-
----
-
-**[The manufacturing data gap holding back physical AI](https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/)**
-
-Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback.
-
-The Robot Report • 12h ago
-
----
-
-**[Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in](https://www.wfmj.com/news/international/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm/article_40390c3f-16dc-53ac-9e62-0da0ca1bc728.html)**
-
-GENEVA (AP) — Efforts to set firm rules on AI-powered killer robots and drones ran aground Saturday as U.N.-backed talks in Geneva produced a softened agreement to extend discussions for
-
-WFMJ • 1d ago
-
----
-
-**[Nations agree to extend talks on AI killer robots but no firm commitment to rein them in](https://www.wfmz.com/news/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in/article_460beb97-bbdf-5ab5-ac48-89961ed308e9.html)**
-
-GENEVA (AP) — Efforts to set firm rules on AI-powered killer robots and drones ran aground Saturday as U.N.-backed talks in Geneva produced a softened agreement to extend discussions for
-
-WFMZ.com • 18h ago
+Interesting Engineering • 2h ago
 
 ---
 
@@ -188,17 +148,55 @@ Google for Developers Blog • 1mo ago
 
 ---
 
+**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+
+Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+
+TechCrunch • 4d ago
+
+---
+
+**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
+
+The second-largest corporate employer has bet big on robot workers to scale.
+
+Ars Technica • 1mo ago
+
+---
+
+**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
+
+WSJ • 5d ago
+
+---
+
+**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/)**
+
+Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
+
+Boston Dynamics • 5d ago
+
+---
+
+**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
+
+Agility Robotics’ first practical robotic worker is nothing like I dreamed
+
+IEEE Spectrum • 1mo ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
+**[Robots With Incredible Superhuman Abilities! #shorts #viralvideo #robot](https://www.youtube.com/watch?v=B2fV3qYIfTg)**
 
-Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
+What if robots could do things that humans can only dream of? From incredible backflips and superhuman balance to impressive ...
 
-📺 Unbox Therapy
+📺 Ranked & Ready
 
-👁️ 1.2M • 👍 50K • 💬 91 • ⏱️ 1:24 • 3d ago
+👁️ 1K • 👍 23 • ⏱️ 0:33 • 5h ago
 
 ---
 
@@ -208,37 +206,37 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 232K • 👍 3K • 💬 642 • ⏱️ 2:12:13 • 5d ago
+👁️ 234K • 👍 3K • 💬 643 • ⏱️ 2:12:13 • 6d ago
 
 ---
 
-**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
+**[Cornell Gave This Mushroom a Robot Body 🍄](https://www.youtube.com/watch?v=tQdznKEpFHI)**
 
-ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
+The king oyster mushroom (Pleurotus eryngii) is the fat-stemmed mushroom you find at the shops, but the part we eat is only the ...
 
-📺 MuffinJuice
+📺 Creatures in Motion
 
-👁️ 1.2M • 👍 35K • 💬 3K • ⏱️ 15:00 • 2d ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
-
-Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
-
-📺 Tesla Insider Economics
-
-👁️ 125K • 👍 1K • 💬 81 • ⏱️ 22:13 • 3d ago
+👁️ 15K • 👍 355 • 💬 27 • ⏱️ 2:53 • 1d ago
 
 ---
 
-**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
+**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
 
-OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
+Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
 
-📺 MACHINEKIND
+📺 Unbox Therapy
 
-👁️ 19K • 👍 332 • 💬 48 • ⏱️ 11:51 • 1d ago
+👁️ 1.2M • 👍 50K • 💬 91 • ⏱️ 1:24 • 4d ago
+
+---
+
+**[The $13,500 Robot Is Getting Out of Control](https://www.youtube.com/watch?v=fqN7JOA58hQ)**
+
+The $13500 Unitree G1 humanoid robot is becoming one of the most capable AI robots in the world. From basketball and soccer ...
+
+📺 NextGen Humanoids
+
+👁️ 29K • 👍 197 • 💬 20 • ⏱️ 12:23 • 4d ago
 
 ---
 
@@ -248,17 +246,17 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Cleo Abram
 
-👁️ 1.7M • 👍 95K • 💬 790 • ⏱️ 1:05 • 1d ago
+👁️ 1.8M • 👍 99K • 💬 819 • ⏱️ 1:05 • 2d ago
 
 ---
 
-**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
+**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
 
-On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
+Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
 
-📺 FRAME
+📺 Tesla Insider Economics
 
-👁️ 22K • 👍 293 • ⏱️ 21:17 • 3d ago
+👁️ 126K • 👍 1K • 💬 81 • ⏱️ 22:13 • 4d ago
 
 ---
 
@@ -268,27 +266,27 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 201K • 👍 623 • 💬 489 • ⏱️ 2:44 • 5d ago
+👁️ 203K • 👍 628 • 💬 494 • ⏱️ 2:44 • 5d ago
 
 ---
 
-**[Humanoid Robot Show LIVE | Trump, Putin &amp; Xi Jinping Attend APEC 2026 Summit In China](https://www.youtube.com/watch?v=6izp0f3pZXw)**
+**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
 
-China's humanoid robots take centre stage at the APEC Summit 2026 in Shenzhen as world leaders Donald Trump, Xi Jinping ...
+OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
 
-📺 NDTV Profit
+📺 MACHINEKIND
 
-👁️ 357K • 👍 1K • 💬 172 • ⏱️ 20:56 • 3d ago
+👁️ 20K • 👍 352 • 💬 50 • ⏱️ 11:51 • 2d ago
 
 ---
 
-**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
+**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
 
-Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
+ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
 
-📺 CNET
+📺 MuffinJuice
 
-👁️ 44K • 👍 395 • 💬 41 • ⏱️ 4:02 • 6d ago
+👁️ 1.2M • 👍 36K • 💬 3K • ⏱️ 15:00 • 2d ago
 
 ---
 

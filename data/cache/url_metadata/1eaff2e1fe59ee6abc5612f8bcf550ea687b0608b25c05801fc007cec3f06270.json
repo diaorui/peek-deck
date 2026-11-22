@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-22T18:15:11.708249+00:00",
+  "data": {
+    "url": "https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/",
+    "title": "CVE-2026-117348 - Node stall through duplicate orphan announcements",
+    "description": "CVE-2026-117348 - Node stall through duplicate orphan announcements",
+    "image": "https://bitcoincore.org/assets/images/default-thumb.png",
+    "favicon": "https://bitcoincore.org/assets/images/favicon.ico",
+    "site_name": "Bitcoin Core",
+    "author": null,
+    "keywords": null
+  }
+}
