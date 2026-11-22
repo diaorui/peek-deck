@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-22T18:15:41.280227+00:00'
+updated: '2026-11-22T23:44:33.210380+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 22, 2026 at 18:15 UTC  
+**Last Updated:** November 22, 2026 at 23:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-8d ago
+9d ago
 
 ---
 
@@ -118,9 +118,41 @@ ChinaTalk | Jordan Schneider • 2d ago
 
 ---
 
+**[Soft Robot Made For The Races](https://hackaday.com/2026/11/22/soft-robot-made-for-the-races/)**
+
+Soft robotics is a relatively untapped field of robotics. However, that doesn’t mean there aren’t some good examples of what it could do in the near future. Speed is a metric that has been lacking …
+
+Hackaday • 8h ago
+
+---
+
 **[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
 
 Reuters • 2d ago
+
+---
+
+**[Greece could become a laboratory for drones](https://www.ekathimerini.com/economy/1321896/greece-could-become-a-laboratory-for-drones/)**
+
+He returned from the US to lead the first Institute of Robotics in Greece, a constituent entity of the Athena Research Center (Athena RC).
+
+eKathimerini.com • 4h ago
+
+---
+
+**[John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties](https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/)**
+
+Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed.
+
+GeekWire • 2d ago
+
+---
+
+**[US team builds 23-inch flexible robot that links up for bigger tasks](https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer)**
+
+CSU engineers have created flexible robots, called TeCoBots, that can combine to form entirely new forms, just like Big Hero Six Microbots.
+
+Interesting Engineering • 13h ago
 
 ---
 
@@ -128,15 +160,21 @@ Reuters • 2d ago
 
 17 FIRST LEGO League teams compete at Success Academy, tackling ecosystem challenges for a chance to advance to semi-state.
 
-WNDU • 18h ago
+WNDU • 1d ago
 
 ---
 
-**[AI agents vs physical AI: How software automation differs from embodied robotics](https://interestingengineering.com/ai-robotics/ai-agents-vs-physical-ai-difference-between-two-technologies)**
+**[The manufacturing data gap holding back physical AI](https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/)**
 
-AI agents automate digital workflows, while physical AI powers robots in the real world. Learn key engineering differences between the two.
+Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback.
 
-Interesting Engineering • 2h ago
+The Robot Report • 1d ago
+
+---
+
+**[Nestlé deploys AI, sensors and robotics across the company to boost growth](https://www.nestle.com/media/news/deep-tech-center-orbe-ai-robotics)**
+
+Nestlé Global • 2d ago
 
 ---
 
@@ -148,57 +186,9 @@ Google for Developers Blog • 1mo ago
 
 ---
 
-**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
-
-Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
-
-TechCrunch • 4d ago
-
----
-
-**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
-
-The second-largest corporate employer has bet big on robot workers to scale.
-
-Ars Technica • 1mo ago
-
----
-
-**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
-
-WSJ • 5d ago
-
----
-
-**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/)**
-
-Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
-
-Boston Dynamics • 5d ago
-
----
-
-**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
-
-Agility Robotics’ first practical robotic worker is nothing like I dreamed
-
-IEEE Spectrum • 1mo ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Robots With Incredible Superhuman Abilities! #shorts #viralvideo #robot](https://www.youtube.com/watch?v=B2fV3qYIfTg)**
-
-What if robots could do things that humans can only dream of? From incredible backflips and superhuman balance to impressive ...
-
-📺 Ranked & Ready
-
-👁️ 1K • 👍 23 • ⏱️ 0:33 • 5h ago
-
----
 
 **[Robotic Deep-Dive: Beating China, the Race Against Tesla, &amp; New Robotics Timeline With Brett Adcock](https://www.youtube.com/watch?v=E864U582FVY)**
 
@@ -206,17 +196,17 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 234K • 👍 3K • 💬 643 • ⏱️ 2:12:13 • 6d ago
+👁️ 236K • 👍 3K • 💬 642 • ⏱️ 2:12:13 • 6d ago
 
 ---
 
-**[Cornell Gave This Mushroom a Robot Body 🍄](https://www.youtube.com/watch?v=tQdznKEpFHI)**
+**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
 
-The king oyster mushroom (Pleurotus eryngii) is the fat-stemmed mushroom you find at the shops, but the part we eat is only the ...
+Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
 
-📺 Creatures in Motion
+📺 Cleo Abram
 
-👁️ 15K • 👍 355 • 💬 27 • ⏱️ 2:53 • 1d ago
+👁️ 1.9M • 👍 102K • 💬 840 • ⏱️ 1:05 • 2d ago
 
 ---
 
@@ -230,33 +220,23 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 ---
 
+**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
+
+On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
+
+📺 FRAME
+
+👁️ 24K • 👍 313 • ⏱️ 21:17 • 4d ago
+
+---
+
 **[The $13,500 Robot Is Getting Out of Control](https://www.youtube.com/watch?v=fqN7JOA58hQ)**
 
 The $13500 Unitree G1 humanoid robot is becoming one of the most capable AI robots in the world. From basketball and soccer ...
 
 📺 NextGen Humanoids
 
-👁️ 29K • 👍 197 • 💬 20 • ⏱️ 12:23 • 4d ago
-
----
-
-**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
-
-Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
-
-📺 Cleo Abram
-
-👁️ 1.8M • 👍 99K • 💬 819 • ⏱️ 1:05 • 2d ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
-
-Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
-
-📺 Tesla Insider Economics
-
-👁️ 126K • 👍 1K • 💬 81 • ⏱️ 22:13 • 4d ago
+👁️ 29K • 👍 198 • 💬 21 • ⏱️ 12:23 • 4d ago
 
 ---
 
@@ -266,17 +246,27 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 203K • 👍 628 • 💬 494 • ⏱️ 2:44 • 5d ago
+👁️ 206K • 👍 640 • 💬 502 • ⏱️ 2:44 • 5d ago
 
 ---
 
-**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
+**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
 
-OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
+Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
 
-📺 MACHINEKIND
+📺 Tesla Insider Economics
 
-👁️ 20K • 👍 352 • 💬 50 • ⏱️ 11:51 • 2d ago
+👁️ 127K • 👍 1K • 💬 82 • ⏱️ 22:13 • 4d ago
+
+---
+
+**[Robots With Incredible Superhuman Abilities! #shorts #viralvideo #robot](https://www.youtube.com/watch?v=B2fV3qYIfTg)**
+
+What if robots could do things that humans can only dream of? From incredible backflips and superhuman balance to impressive ...
+
+📺 Ranked & Ready
+
+👁️ 2K • 👍 23 • ⏱️ 0:33 • 11h ago
 
 ---
 
@@ -286,7 +276,17 @@ ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinj
 
 📺 MuffinJuice
 
-👁️ 1.2M • 👍 36K • 💬 3K • ⏱️ 15:00 • 2d ago
+👁️ 1.3M • 👍 36K • 💬 3K • ⏱️ 15:00 • 3d ago
+
+---
+
+**[Inside China&#39;s emerging ‘Robot Valley’](https://www.youtube.com/watch?v=6ZKG95kf7g0)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube In the southern Chinese city of Shenzhen, ...
+
+📺 South China Morning Post
+
+👁️ 31K • 👍 181 • 💬 33 • ⏱️ 4:51 • 5d ago
 
 ---
 
