@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "\u2018The doom of humanity\u2019: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
-      "pub_date": 1795288500.0,
-      "article_url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-      "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f9cd76eb9786a54c4e51cf0997b3812",
-      "description": "The one thing stopping AI taking over the world \u2013 or at least everyone\u2019s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that"
-    },
-    {
       "headline": "Robots Still Suck",
       "source": "ChinaTalk | Jordan Schneider",
       "source_url": "https://www.chinatalk.media",
@@ -35,46 +25,6 @@
       "description": null
     },
     {
-      "headline": "Former No Name Restaurant to become marine robotics hub",
-      "source": "Boston.com",
-      "source_url": "https://www.boston.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3JQZEdaT3otZjliVlQ2Ym5uX0tLRy04dEZJQVpNTFB4SUowOFFzeFF1LS1ha1Q5S0tPZ2RKUjdfb2Z4aUxuZHgzdmFfNDFfVF9tZEt4QmRYbVhaTXp1bC1aYUs2Wk9NbW05NXhvUzRwc2g2M3hnVnRxX1ZGYVUzcDdqMnd4cjBpSmpBanVDLWpRaGdiUlVibUlwVWVTYm5zOXlFTmNZUHZuZw?oc=5",
-      "pub_date": 1795227278.0,
-      "article_url": "https://www.boston.com/news/local-news/2026/11/20/former-no-name-restaurant-to-become-marine-robotics-hub/",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/08/KRADEB3YWO5JDV5422UM5YGEZA-6a70b9b8e92c4-768x432.jpg",
-      "description": "The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech."
-    },
-    {
-      "headline": "UN talks on 'killer robots' end with no legally binding ban, further talks pledged",
-      "source": "DW.com",
-      "source_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGtPeXdhb0k5Y3NkRjItWmk4bUt4cVUtbDlsMmlpTnVNeFJnaGFweGYtRjRZVGwzSjlDN2Q5Yk9YdnFvS2VneXhjZnZGdlNMempGS18yanRTVzNOaDQ5b0F5Zl9BbXRLZGs5V1pJd1RQWTQ1bE8xZjBwcGE4N1NPM1FpVk0xM19Rc0MyQXVGWmpwOWNH0gGUAUFVX3lxTFA2WGpiTVNQXzJiRnpZTWtNV3k4bzZHbThTMjROT0tXUi1ScmhXNC0yaHJPQ1VHNlpCWjVxU0hCRjNLYUlxRmx6TmhMTjF4aVI5dFBTeVR2OElTby1lODZ5cWotYVd4Z1NTM2h4X1BVRzVLemVUaC1XRXJIVXQ0OE5ha1JRN3JMLXpLbE1idnppR18zVlY?oc=5",
-      "pub_date": 1795252810.0,
-      "article_url": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584",
-      "image": "https://static.dw.com/image/60180776_6.jpg",
-      "description": "Countries have agreed to extend discussions over controls on lethal autonomous weapons systems for two years."
-    },
-    {
-      "headline": "John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX21ZVkJuSmlhbmxlUnQ4NTFIeEFYQl9DdlRzdTEzVjBwZGhOV3hvbVJWd2RVVmJYaEtUYk11WHFFZ25VbG5FM3YwODVRcGk5TEI2aWd5RkN0NkJZN21fZ0l4aDFPcnRpX1ZOVjVsZkJjRFZhSFozYTdCelAyU0ZQalB5bTZGenphazh3YXplRFhIX0xqdkg2di1lUlZsRnFEd0ZXelNnbzFyRjg?oc=5",
-      "pub_date": 1795189923.0,
-      "article_url": "https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Orchard-Robotics-camera-system.jpg",
-      "description": "Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed."
-    },
-    {
-      "headline": "Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUhOWGh5SHZQSUdFemktVFlWS2xQWlU4cnJsNDh1UnFvRTczZEV1NkV1UVVwc0x6Ti1mdTlYRlVYbThidmJwWmdsVTJXQVdCcWJvZTBza1B0MlJPWDg4NURCMGpobzBQRXB1VXJZUnQ1bkZBQko5MWIycjhWNlNOUkVZTjh5dU03?oc=5",
-      "pub_date": 1795179608.0,
-      "article_url": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "$500M investment could bring AI robots to your workplace",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -85,26 +35,76 @@
       "description": "Genesis AI raised $500 million to expand its general-purpose robot Eno, which learns physical skills from workers wearing special electronic gloves."
     },
     {
-      "headline": "The Next Phase of Robotics: From Technological Progress to Real-World Impact",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0x1TFM0ajc0bWQ5TmFxWGdPZW9FckNxOWVfZ2UwR1dLOWxMbEltWjZWTUlfSkMxTjFHTTVMOEdGRGlCUWhzS3l4V0Y3TFVCWmFuU0ZoZmJMSjItU2FJQjcxelhiVlBHa2JIV3U4MVoxdUE4bWR3cnVNQzFMdC10LW1hLS0?oc=5",
-      "pub_date": 1795187040.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Pudu.jpg",
-      "description": "Pudu Robotics moves embodied AI from lab demos to real-world business impact with specialized robots and local hubs."
+      "headline": "Effort to regulate \u2018killer robots\u2019 delayed to 2028",
+      "source": "POLITICO.eu",
+      "source_url": "https://www.politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVF9OX2t3ZlJ2VzhyYkd5bUV2Nnl4UEdfX2xSZ0VTQUV4MWVFZ3RWdFJRT1pyN1FoSmFFWExSZWRPY0l4aGtlLXJOVWYwRVRUdER1SFp4MzBLTzBjQ3lJUTRMMGhBLXVkaFg3YXZOdlkwdTVjRjhGdHZ5dFdCem1hSmpKb293cXF6dUZFWlZXamk?oc=5",
+      "pub_date": 1795279380.0,
+      "article_url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/",
+      "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/21/GettyImages-2304868307-scaled.jpg",
+      "description": "Russia blocked the talks, but other countries were also opposed."
     },
     {
-      "headline": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVVlTGNHV2NqYjM0TGdpMF9rQzZ1ZmJka2RnRTZHanlpZzlMQVBickF2ZVpPeVV4SVRJanlWZWlhRjF6TkxfZFlVRHZqdXpGeG5WdXZNandpRXo4LWw0TmEyQ2MwUDNrSHgtR1dEQ2dwaVJQNFBaTzN1YkZtM0lDZE5ibXV0dk9Nb0FwRFBFbzc3V1ItSmJDRXdmUlgwdjdhZkpxSGczZDnSAa4BQVVfeXFMUFBvWXBuVG5Fc2xzeEp3T1BrczE5OG52SXV4VFdLTjdZMW1nVU9nNUJSTHl5bHZGejRQTFYxYjRsT043elJWcUhENEV3MUQ2bzNfRUZKZlE1eERtWERtanpQaUllUVNlY2JVNE41a3BQZUlYcUZPUW1lVkJPdTJHNTVFRFlTQWxTWmRXU3NPNGoyalliUnR0MllacGdWR2FSdXI1VDFmZWpNazkyLTN3?oc=5",
-      "pub_date": 1795248133.0,
-      "article_url": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556987-1795246565449-gettyimages-2304350810-ukrinform-ukrainia261110_npEfg.jpeg?v=1795246600&w=1920&h=1080",
-      "description": "Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position."
+      "headline": "John Deere Orchard Robotics deal signals growing value of actionable farm data, says ag robotics OG",
+      "source": "AgFunderNews",
+      "source_url": "https://agfundernews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWl3U0JPVDRBVUtCbl9vUTRLaEdjX3RoU2VkS204Vm95RVBjR0tXenFpdDFsUlk2VmNCdTl6RF85cnBQaUt4Z2Q3ZUs0bDY5OEFUUE55UzBIYVpqT2paQ2F4UEJQNUE0V19HeldkTHg4V3ZFRkFHMVhyYnNxd2hwZGYwanQ3ZzlNV3VGZktDXzI4bGZRSW1ZWWg3aGltVzJ3NWlobGo5SVBpSFV4eWxRV0RGOGlBQ0FhcGt0dGVQaGg?oc=5",
+      "pub_date": 1795198554.0,
+      "article_url": "https://agfundernews.com/john-deere-orchard-robotics-deal-signals-growing-value-of-actionable-farm-data-says-ag-robotics-og",
+      "image": "https://agfundernews.com/wp-content/uploads/2026/08/Charlie-Wu-founder-CEO-Orchard-Robotics-Image-credit-Elaine-Watson.jpg",
+      "description": "\"Our goal is to bring our industry-leading tech and AI farming capabilities to every farmer out there,\" says Orchard Robotics CEO Charles Wu."
+    },
+    {
+      "headline": "US team builds 23-inch flexible robot that links up for bigger tasks",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVRWMTRPTzYzQk9XV0oxNnRzdUVkV2NVdnR5U0NzLXJjYWZvWlkxYWJta2EyZERaUFRDQU1scnRkZmp4eUZUT0Q2YjRycHNCLTk4UDFWZTlDWlY1X3FyMGFLeHRrYzhud21OU1JqZ1RBUjVqNjJybnU0MjVpQ2xSekstSldmTVVMTWw1S0hVTHRMd192M0syRUEzUQ?oc=5",
+      "pub_date": 1795343940.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/TeCoBot.jpg",
+      "description": "CSU engineers have created flexible robots, called TeCoBots, that can combine to form entirely new forms, just like Big Hero Six Microbots."
+    },
+    {
+      "headline": "The manufacturing data gap holding back physical AI",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlNaM3pha2IzZVE3b1VReTNIaE52YjdRblM5N212V2FJY3JRUTkxazdzTGlBOTRvX25YWW55OGdrZHJTZFBVaXRKRFE3bVdPenNVczhiaHplejFMcFh4eWZBYWhaeFFMRjZCajI1b3RYVkhYaVdDVW1RRERsM2FkNTRVNGI3bjI5TXhz?oc=5",
+      "pub_date": 1795300247.0,
+      "article_url": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/IMG_6760-e1795299517703.jpeg",
+      "description": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback."
+    },
+    {
+      "headline": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+      "source": "WFMJ",
+      "source_url": "https://www.wfmj.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc3RPNnVoN2hSQUtMZlR2clJZZ0lvcWdTWFpJNjFGMUZRQ2RrZGtNRndnZnhKajNXN2UtTWRqeEJMV2poQnN4Zm5pZHJRb3BWUWpQYlduRk8zRjY5UUljdTJaNW5wSFlKY29nSU82V29ndVR3OVNodDJtWXVjUnNlZnZuRHd6NjdmRzlrN2ZvUlBpU3Nkc3EzcExDUVM5Uk9RVzFoYUdKMkNER1hNQUgwUEVHU1NSYW5HVGxtQW1uUWo3bWlqb1c5elFGX1R0TnJlOXRUQ3U2WGIxNXI1dFRVWmpiZXRnbEtHVDhpS1d4Q3JldXc?oc=5",
+      "pub_date": 1795257838.0,
+      "article_url": "https://www.wfmj.com/news/international/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm/article_40390c3f-16dc-53ac-9e62-0da0ca1bc728.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wfmj.com/content/tncms/assets/v3/editorial/2/9c/29cd7fe3-700a-5b8c-838e-46623033355d/6b01874c91fc2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "description": "GENEVA (AP) \u2014 Efforts to set firm rules on AI-powered killer robots and drones ran aground Saturday as U.N.-backed talks in Geneva produced a softened agreement to extend discussions for"
+    },
+    {
+      "headline": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in",
+      "source": "WFMZ.com",
+      "source_url": "https://www.wfmz.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaTk4VXNGeTg2aVIzRFB0Z3p4bFRNVE53WERjaFZxRGl3TDJlTG1HNFRyb0ZiRXRKRE1Vb0JVd1VDT053VFpBeXhKbk1xc0FENDZabWR3YkQ0Yko3b3Z5OC1RRHAwdzVuRjVCNTFiMkVwRVhwTTI2SmdKbG0xVndNU1lzeURmZUF5VEdRUktTX1J0SFczN0RfMUNoT0ZQM0FCSGlLMWpXU2R3R1ItRTl0cFNwTk5rN255VFplNFhJODFiRlJnLWxGRm5aSVRIVzlxQzlublhRSGV4bGI0Qkl5dGwxMGNGUjRPaEtsYTlObnIxQmxjVWhuWGR6VDExTEJ2YkhtZA?oc=5",
+      "pub_date": 1795278837.0,
+      "article_url": "https://www.wfmz.com/news/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in/article_460beb97-bbdf-5ab5-ac48-89961ed308e9.html",
+      "image": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/76/e764cb18-1a90-52e1-b546-ef0e1754304f/6afac4eec828d.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "description": "GENEVA (AP) \u2014 Efforts to set firm rules on AI-powered killer robots and drones ran aground Saturday as U.N.-backed talks in Geneva produced a softened agreement to extend discussions for"
+    },
+    {
+      "headline": "Gemini 4 Argon for Robotics",
+      "source": "Google for Developers Blog",
+      "source_url": "https://developers.googleblog.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
+      "pub_date": 1791874800.0,
+      "article_url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
+      "description": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-22T02:51:04.578723+00:00"
+  "fetched_at": "2026-11-22T10:47:43.493140+00:00"
 }

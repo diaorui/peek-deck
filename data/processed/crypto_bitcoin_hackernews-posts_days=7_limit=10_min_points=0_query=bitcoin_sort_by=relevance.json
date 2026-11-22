@@ -9,7 +9,7 @@
       "url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/",
       "hn_url": "https://news.ycombinator.com/item?id=50588272",
       "author": "geox",
-      "points": 14,
+      "points": 16,
       "num_comments": 4,
       "created_at": "2026-11-21T11:51:42Z",
       "object_id": "50588272",
@@ -59,20 +59,6 @@
       "description": "Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...",
       "favicon": "https://github.githubassets.com/favicons/favicon.png",
       "site_name": "GitHub"
-    },
-    {
-      "title": "A minimal Bitcoin-inspired implementation (2022)",
-      "url": "https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50503776",
-      "author": "kurinikku",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-11-15T03:42:33Z",
-      "object_id": "50503776",
-      "image": null,
-      "description": "I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of buzzwords was long and unending - proof-of-work, Merkle trees, elliptic curves, smart contracts, DeF",
-      "favicon": "https://www.ezzeriesa.com/favicon.ico",
-      "site_name": "ezzeriesa.com"
     },
     {
       "title": "Microtonal BitcoinCash Transaction Sonifier and Visualizer",
@@ -131,21 +117,35 @@
       "site_name": "X (formerly Twitter)"
     },
     {
-      "title": "Show HN: New In browser URL verification tool",
-      "url": "https://news.ycombinator.com/item?id=50505178",
-      "hn_url": "https://news.ycombinator.com/item?id=50505178",
-      "author": "integrity_softw",
-      "points": 4,
-      "num_comments": 2,
-      "created_at": "2026-11-15T08:45:19Z",
-      "object_id": "50505178",
+      "title": "Show HN: Nunya \u2013 A \"digital privacy screen\" that makes text illegible from afar",
+      "url": "https://usenunya.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50576552",
+      "author": "magicmarc",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-20T15:51:12Z",
+      "object_id": "50576552",
+      "image": "https://usenunya.com/assets/social-card.png",
+      "description": "Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.",
+      "favicon": "https://usenunya.com/assets/nunya-icon-180.png",
+      "site_name": "usenunya.com"
+    },
+    {
+      "title": "Gemini 4 Neon used 64,067 exclamation marks on Terminal-Bench",
+      "url": "https://bitbin.de/neon-trajectories/",
+      "hn_url": "https://news.ycombinator.com/item?id=50594818",
+      "author": "stbenjam",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-11-21T23:51:50Z",
+      "object_id": "50594818",
       "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
+      "description": "35 verbatim moments of unbridled excitement from Gemini 4 Neon trajectories on Terminal-Bench 4.1.",
+      "favicon": "https://bitbin.de/favicon.ico",
+      "site_name": "bitbin.de"
     }
   ],
-  "total_hits": 15,
+  "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2026-11-22T02:50:44.653692+00:00"
+  "fetched_at": "2026-11-22T10:47:18.342909+00:00"
 }

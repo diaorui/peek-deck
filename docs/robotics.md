@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-22T02:51:12.456705+00:00'
+updated: '2026-11-22T10:47:45.993111+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 22, 2026 at 02:51 UTC  
+**Last Updated:** November 22, 2026 at 10:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-6d ago
+7d ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-6d ago
+7d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-6d ago
+7d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-6d ago
+7d ago
 
 ---
 
@@ -102,21 +102,13 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-7d ago
+8d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai)**
-
-The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that
-
-The Guardian • 7h ago
-
----
 
 **[Robots Still Suck](https://www.chinatalk.media/p/we-went-to-austin-to-see-robots)**
 
@@ -132,57 +124,67 @@ Reuters • 1d ago
 
 ---
 
-**[Former No Name Restaurant to become marine robotics hub](https://www.boston.com/news/local-news/2026/11/20/former-no-name-restaurant-to-become-marine-robotics-hub/)**
-
-The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech.
-
-Boston.com • 1d ago
-
----
-
-**[UN talks on 'killer robots' end with no legally binding ban, further talks pledged](https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584)**
-
-Countries have agreed to extend discussions over controls on lethal autonomous weapons systems for two years.
-
-DW.com • 17h ago
-
----
-
-**[John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties](https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/)**
-
-Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed.
-
-GeekWire • 1d ago
-
----
-
-**[Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test](https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html)**
-
-Tech Xplore • 1d ago
-
----
-
 **[$500M investment could bring AI robots to your workplace](https://www.foxnews.com/tech/500m-investment-bring-ai-robots-workplace)**
 
 Genesis AI raised $500 million to expand its general-purpose robot Eno, which learns physical skills from workers wearing special electronic gloves.
 
-Fox News • 15h ago
+Fox News • 22h ago
 
 ---
 
-**[The Next Phase of Robotics: From Technological Progress to Real-World Impact](https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu)**
+**[Effort to regulate ‘killer robots’ delayed to 2028](https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/)**
 
-Pudu Robotics moves embodied AI from lab demos to real-world business impact with specialized robots and local hubs.
+Russia blocked the talks, but other countries were also opposed.
 
-Interesting Engineering • 1d ago
+POLITICO.eu • 18h ago
 
 ---
 
-**[Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028](https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html)**
+**[John Deere Orchard Robotics deal signals growing value of actionable farm data, says ag robotics OG](https://agfundernews.com/john-deere-orchard-robotics-deal-signals-growing-value-of-actionable-farm-data-says-ag-robotics-og)**
 
-Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position.
+"Our goal is to bring our industry-leading tech and AI farming capabilities to every farmer out there," says Orchard Robotics CEO Charles Wu.
 
-CNBC • 18h ago
+AgFunderNews • 1d ago
+
+---
+
+**[US team builds 23-inch flexible robot that links up for bigger tasks](https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer)**
+
+CSU engineers have created flexible robots, called TeCoBots, that can combine to form entirely new forms, just like Big Hero Six Microbots.
+
+Interesting Engineering • 8m ago
+
+---
+
+**[The manufacturing data gap holding back physical AI](https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/)**
+
+Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback.
+
+The Robot Report • 12h ago
+
+---
+
+**[Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in](https://www.wfmj.com/news/international/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm/article_40390c3f-16dc-53ac-9e62-0da0ca1bc728.html)**
+
+GENEVA (AP) — Efforts to set firm rules on AI-powered killer robots and drones ran aground Saturday as U.N.-backed talks in Geneva produced a softened agreement to extend discussions for
+
+WFMJ • 1d ago
+
+---
+
+**[Nations agree to extend talks on AI killer robots but no firm commitment to rein them in](https://www.wfmz.com/news/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in/article_460beb97-bbdf-5ab5-ac48-89961ed308e9.html)**
+
+GENEVA (AP) — Efforts to set firm rules on AI-powered killer robots and drones ran aground Saturday as U.N.-backed talks in Geneva produced a softened agreement to extend discussions for
+
+WFMZ.com • 18h ago
+
+---
+
+**[Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)**
+
+Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.
+
+Google for Developers Blog • 1mo ago
 
 ---
 
@@ -190,13 +192,13 @@ CNBC • 18h ago
 
 ## YouTube Videos: "robotics"
 
-**[Cornell Gave This Mushroom a Robot Body 🍄](https://www.youtube.com/watch?v=tQdznKEpFHI)**
+**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
 
-The king oyster mushroom (Pleurotus eryngii) is the fat-stemmed mushroom you find at the shops, but the part we eat is only the ...
+Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
 
-📺 Creatures in Motion
+📺 Unbox Therapy
 
-👁️ 12K • 👍 303 • 💬 25 • ⏱️ 2:53 • 18h ago
+👁️ 1.2M • 👍 50K • 💬 91 • ⏱️ 1:24 • 3d ago
 
 ---
 
@@ -206,65 +208,7 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 230K • 👍 3K • 💬 641 • ⏱️ 2:12:13 • 5d ago
-
----
-
-**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
-
-A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
-
-📺 NBC Bay Area
-
-👁️ 194K • 👍 616 • 💬 482 • ⏱️ 2:44 • 4d ago
-
----
-
-**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
-
-On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
-
-📺 FRAME
-
-👁️ 21K • 👍 278 • ⏱️ 21:17 • 3d ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
-
-Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
-
-📺 Tesla Insider Economics
-
-👁️ 123K • 👍 1K • 💬 80 • ⏱️ 22:13 • 3d ago
-
----
-
-**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
-
-Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
-
-📺 Cleo Abram
-
-👁️ 1.6M • 👍 91K • 💬 772 • ⏱️ 1:05 • 1d ago
-
----
-
-**[Unboxed a Robot Dinosaur.Set up the Target 🎯 #robot #robotics #dinosaur #toys #rc #shorts](https://www.youtube.com/watch?v=5-NyeurddFk)**
-
-📺 Smarttoy Ruko
-
-👁️ 7K • 👍 176 • ⏱️ 0:23 • 2h ago
-
----
-
-**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
-
-OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
-
-📺 MACHINEKIND
-
-👁️ 16K • 👍 315 • 💬 48 • ⏱️ 11:51 • 1d ago
+👁️ 232K • 👍 3K • 💬 642 • ⏱️ 2:12:13 • 5d ago
 
 ---
 
@@ -274,7 +218,67 @@ ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinj
 
 📺 MuffinJuice
 
-👁️ 1.2M • 👍 34K • 💬 3K • ⏱️ 15:00 • 2d ago
+👁️ 1.2M • 👍 35K • 💬 3K • ⏱️ 15:00 • 2d ago
+
+---
+
+**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
+
+Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
+
+📺 Tesla Insider Economics
+
+👁️ 125K • 👍 1K • 💬 81 • ⏱️ 22:13 • 3d ago
+
+---
+
+**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
+
+OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
+
+📺 MACHINEKIND
+
+👁️ 19K • 👍 332 • 💬 48 • ⏱️ 11:51 • 1d ago
+
+---
+
+**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
+
+Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
+
+📺 Cleo Abram
+
+👁️ 1.7M • 👍 95K • 💬 790 • ⏱️ 1:05 • 1d ago
+
+---
+
+**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
+
+On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
+
+📺 FRAME
+
+👁️ 22K • 👍 293 • ⏱️ 21:17 • 3d ago
+
+---
+
+**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
+
+A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
+
+📺 NBC Bay Area
+
+👁️ 201K • 👍 623 • 💬 489 • ⏱️ 2:44 • 5d ago
+
+---
+
+**[Humanoid Robot Show LIVE | Trump, Putin &amp; Xi Jinping Attend APEC 2026 Summit In China](https://www.youtube.com/watch?v=6izp0f3pZXw)**
+
+China's humanoid robots take centre stage at the APEC Summit 2026 in Shenzhen as world leaders Donald Trump, Xi Jinping ...
+
+📺 NDTV Profit
+
+👁️ 357K • 👍 1K • 💬 172 • ⏱️ 20:56 • 3d ago
 
 ---
 
