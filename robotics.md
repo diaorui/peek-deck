@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-21T22:50:35.336217+00:00'
+updated: '2026-11-22T02:51:12.456705+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 21, 2026 at 22:50 UTC  
+**Last Updated:** November 22, 2026 at 02:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,6 +110,14 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
+**[‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai)**
+
+The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that
+
+The Guardian • 7h ago
+
+---
+
 **[Robots Still Suck](https://www.chinatalk.media/p/we-went-to-austin-to-see-robots)**
 
 A CoRL Trip Report
@@ -124,19 +132,11 @@ Reuters • 1d ago
 
 ---
 
-**[‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai)**
-
-The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that
-
-The Guardian • 3h ago
-
----
-
 **[Former No Name Restaurant to become marine robotics hub](https://www.boston.com/news/local-news/2026/11/20/former-no-name-restaurant-to-become-marine-robotics-hub/)**
 
 The new facility will give startups direct access to Boston Harbor to test underwater robots and other marine tech.
 
-Boston.com • 20h ago
+Boston.com • 1d ago
 
 ---
 
@@ -144,7 +144,7 @@ Boston.com • 20h ago
 
 Countries have agreed to extend discussions over controls on lethal autonomous weapons systems for two years.
 
-DW.com • 13h ago
+DW.com • 17h ago
 
 ---
 
@@ -166,15 +166,15 @@ Tech Xplore • 1d ago
 
 Genesis AI raised $500 million to expand its general-purpose robot Eno, which learns physical skills from workers wearing special electronic gloves.
 
-Fox News • 11h ago
+Fox News • 15h ago
 
 ---
 
-**[University of Illinois helping bring robotics to rural Illinois classrooms](https://www.wandtv.com/2026/11/20/university-illinois-helping-bring-robotics-rural-illinois-classrooms/)**
+**[The Next Phase of Robotics: From Technological Progress to Real-World Impact](https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu)**
 
-From building robots to learning computer programming, students in rural Illinois schools are getting hands-on experience with science, technology, engineering and math thanks to a partnership with the University of Illinois.
+Pudu Robotics moves embodied AI from lab demos to real-world business impact with specialized robots and local hubs.
 
-WAND • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ WAND • 1d ago
 
 Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position.
 
-CNBC • 14h ago
+CNBC • 18h ago
 
 ---
 
@@ -196,17 +196,7 @@ The king oyster mushroom (Pleurotus eryngii) is the fat-stemmed mushroom you fin
 
 📺 Creatures in Motion
 
-👁️ 10K • 👍 256 • 💬 22 • ⏱️ 2:53 • 14h ago
-
----
-
-**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
-
-On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
-
-📺 FRAME
-
-👁️ 20K • 👍 272 • ⏱️ 21:17 • 3d ago
+👁️ 12K • 👍 303 • 💬 25 • ⏱️ 2:53 • 18h ago
 
 ---
 
@@ -216,17 +206,7 @@ The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss t
 
 📺 Peter H. Diamandis
 
-👁️ 229K • 👍 3K • 💬 641 • ⏱️ 2:12:13 • 5d ago
-
----
-
-**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
-
-Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
-
-📺 Cleo Abram
-
-👁️ 1.6M • 👍 88K • 💬 753 • ⏱️ 1:05 • 1d ago
+👁️ 230K • 👍 3K • 💬 641 • ⏱️ 2:12:13 • 5d ago
 
 ---
 
@@ -236,7 +216,55 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 189K • 👍 605 • 💬 479 • ⏱️ 2:44 • 4d ago
+👁️ 194K • 👍 616 • 💬 482 • ⏱️ 2:44 • 4d ago
+
+---
+
+**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
+
+On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
+
+📺 FRAME
+
+👁️ 21K • 👍 278 • ⏱️ 21:17 • 3d ago
+
+---
+
+**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
+
+Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
+
+📺 Tesla Insider Economics
+
+👁️ 123K • 👍 1K • 💬 80 • ⏱️ 22:13 • 3d ago
+
+---
+
+**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
+
+Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
+
+📺 Cleo Abram
+
+👁️ 1.6M • 👍 91K • 💬 772 • ⏱️ 1:05 • 1d ago
+
+---
+
+**[Unboxed a Robot Dinosaur.Set up the Target 🎯 #robot #robotics #dinosaur #toys #rc #shorts](https://www.youtube.com/watch?v=5-NyeurddFk)**
+
+📺 Smarttoy Ruko
+
+👁️ 7K • 👍 176 • ⏱️ 0:23 • 2h ago
+
+---
+
+**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
+
+OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
+
+📺 MACHINEKIND
+
+👁️ 16K • 👍 315 • 💬 48 • ⏱️ 11:51 • 1d ago
 
 ---
 
@@ -246,47 +274,17 @@ ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinj
 
 📺 MuffinJuice
 
-👁️ 1.1M • 👍 33K • 💬 3K • ⏱️ 15:00 • 1d ago
+👁️ 1.2M • 👍 34K • 💬 3K • ⏱️ 15:00 • 2d ago
 
 ---
 
-**[I Built My Own Voice Control AI Robot – Personal Assistant 🤯| Award Winning Science Project 🏆](https://www.youtube.com/watch?v=v49Bn1yITUg)**
+**[The Best Humanoid Robot (Advertising) on Earth or Unitree&#39;s Secret Weapon in the Humanoid Robot Race](https://www.youtube.com/watch?v=HDnOs3FqDMs)**
 
-I Built My Own Voice Control AI Robot – Personal Assistant | Award Winning Science Project Kya aap apna khud ka Personal ...
+Several companies are racing to become dominant forces in humanoid robots, but there's one company that seems to be ...
 
-📺 Amol Kolte DIY
+📺 CNET
 
-👁️ 5K • 👍 174 • 💬 66 • ⏱️ 11:06 • 19h ago
-
----
-
-**[Humanoid Robot Show LIVE | Trump, Putin &amp; Xi Jinping Attend APEC 2026 Summit In China](https://www.youtube.com/watch?v=6izp0f3pZXw)**
-
-China's humanoid robots take centre stage at the APEC Summit 2026 in Shenzhen as world leaders Donald Trump, Xi Jinping ...
-
-📺 NDTV Profit
-
-👁️ 347K • 👍 1K • 💬 169 • ⏱️ 20:56 • 2d ago
-
----
-
-**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
-
-Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
-
-📺 Unbox Therapy
-
-👁️ 1.0M • 👍 47K • 💬 83 • ⏱️ 1:24 • 3d ago
-
----
-
-**[MIT&#39;s Cat-Inspired Robot Can Land on Its Feet With Just 6 Motors! 🤯🐈](https://www.youtube.com/watch?v=qpWAtJ2ky7Y)**
-
-What if a robot could move and land like a cat? MIT CSAIL's Felis robot uses an actuated spine and just six motors to walk, ...
-
-📺 Nexio Core
-
-👁️ 13K • 💬 1 • ⏱️ 0:07 • 1d ago
+👁️ 44K • 👍 395 • 💬 41 • ⏱️ 4:02 • 6d ago
 
 ---
 
