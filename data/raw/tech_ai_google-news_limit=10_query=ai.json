@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
-      "pub_date": 1795282846.0,
-      "article_url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,14 +15,24 @@
       "description": "AI can write code faster than we can review it, which is a great benefit and a huge risk."
     },
     {
-      "headline": "Will AI break the internet? | Garrison Lovely",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORk1nWEJkTEhSeWhYWXVpWFUtWmZIMmZRZmlmQzZkcTNFWDltVmhuaVdUbzU1R1pmUHNYVTB6dXlDVkZBUXR2TS1IdmhrWTk0RmZKUTNJQWU0bXR4enViNXhaV2dpRVVQWE1iY3o4alBCc2ZRVlBmcFRKaEVXZVVFZF9TSmxjUTBFeDlpeg?oc=5",
-      "pub_date": 1795190880.0,
-      "article_url": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
-      "image": "https://i.guim.co.uk/img/media/d0d3e01dd99c16399c8dbc88cf6f6b915811600d/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=14805c38b046ae51b0e40e89e9b20e15",
-      "description": "Frontier models can exploit software flaws faster than the world can fix them. And the risks extend far beyond the cyber realm"
+      "headline": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
+      "pub_date": 1795288311.0,
+      "article_url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The AI race to fix security flaws could be making tech outages more common",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEV1UkZkWUk1UlpPVENabkhza2YzcVJEMmFTNk50anhtdnd3S21EWlJxa1EzYUw4R2NrOUtxdGhHUXF0RHo1S3VSazQ5a2Uwb0JxemF4MV9IdVd2WmVnd2g0ZFBBck5yQ2lNeVFtV2tROHBsU1U5R3hoS3htekhtWmM1LTdlN0tPVVRrYzYtUFJOMHVKRGtWS29BNXIzVzhuWlBHRk1PZndneEVIX29xSzIxTkZHV0lOTmc?oc=5",
+      "pub_date": 1795269641.0,
+      "article_url": "https://www.nbcnews.com/tech/security/microsoft-outage-ai-race-fix-security-flaws-cyber-tech-outages-common-rcna610143",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261118-cybersecurity-vsb-2314-263fc7.jpg",
+      "description": "Microsoft patched more security flaws in roughly 10 weeks than in the previous two years combined. Experts say AI is accelerating the process."
     },
     {
       "headline": "Analysis | Entitled and out of touch, AI CEOs are heading for a fall",
@@ -45,34 +45,54 @@
       "description": "Americans tend to turn against out-of-touch CEOs, and a public reckoning on the tech industry could already be underway."
     },
     {
-      "headline": "Google employees protest AI in schools policy",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGtQWTJuRnF5bjhxcVFiQzJVaE9fSGtFTktHYzVDOTQ4Rkljem5XYklPdlR6cHdOeXMxd1BPNUhBXzlrWm1BcFBJdVFiMl9vYkRIVTNlTjVnTWhQOUwwTWI0X2pUSVRxenpYZUhkV1dobVhwRHJLVGFtVUdISURFNTNycFd0MmZnZllWcXZQNlpQeGlv?oc=5",
-      "pub_date": 1795298500.0,
-      "article_url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "description": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask."
+      "headline": "ServiceNow (NOW) Launches Autonomous CRM Engine And Expands AI Risk Monitoring",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZOEhobGhKMHNXUS1CVVBDQ05ZLUlYdURTbXZYNHRJaUswOEtqMWpaVjMxckNpQ01sYlA3Y0JLekdZVEdKRUlCcTdzVDNWczJxdTFFdjZLSXA4bHdNXzRLVGxkT1FOVGpCR3hKM0RLNEROWV9Ld2FqT0xlQWp3RlBhNDVpWkhlVEZkeWZMaEQ2NzEtcVpFQ0R0V2ZSUi1QMkVveA?oc=5",
+      "pub_date": 1795309860.0,
+      "article_url": null,
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AI Cameras Have Captured Drunk Driving, Even Someone Holding a Bottle of Wine, in New Trial",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkdkR1ljcDhBMjJ4MVBXUjE0d3hLUGN3M0lqV1A4MjM5NlZDbGZOSDFYYUkxN1o5elBlTU5FZHRnQl85UDNOX2g3cDh4TmFGTTBLZG9LZVp3UkZjWjlmZTlxb194dUcwMEJ6a2gyN2JIX1FXSkIyVXFZMzBtdnFZd1lCdDRHbDFGajNWbS1VeEpRQUpR?oc=5",
-      "pub_date": 1795300386.0,
-      "article_url": "https://www.yahoo.com/news/world/articles/ai-cameras-captured-drunk-driving-223306262.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b64ed0261a95578c6584475eb7da6ecc636ce0830ef30debefd3bbbb990d05f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2Fea6b6aad9132c9c644d32b3d9fab52a9.jpg",
-      "description": "Many have reservations about AI. Some worry it could take their jobs, while some even think it could take over the world. While AI has some bad points, it also has its uses. And in ... Read more"
+      "headline": "Tom Lee Says AI Sell-Off Is \u2018Max Pain\u2019 Before A \u2018Big Payoff\u2019 For Patient Investors",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXVJaGp2Y3F3RTBCM2lRV0hrdUlFTThBcVU2NGRwcWp0UlQxLWZDWUZWMjdMTHdBVGFtT1RLQXlkVDNYZDZsbl9xTTJLeWpFUGxQRFo4dlM0bkp6SGZjenh2MGJQdnhqSHlDRFVOZThXTzNEbXJOTEVCYlhiVnhvWUpHYmNmNFFNZnowUQ?oc=5",
+      "pub_date": 1795313940.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/tom-lee-says-ai-sell-021956203.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/aa6b76299ec5144a7dd1bc097f39b49a0fb81c34d5db71a7c7ae8e983326217f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F68f68a04be80f7f93a2d1f621664be85",
+      "description": "During an interview with CNBC, Lee pointed to historical parallels, continued infrastructure demand and the economic importance of data centers as reasons investors shouldn't abandon the trade just yet."
     },
     {
-      "headline": "Your 401(k) is full of AI. How to deal with the volatility",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQNUpLbERtV0lEQTJqc0NmWG9mY3FiYUZrRDlGOV92QU1WcWFjYjZtZDFnU1dUazZwRUlKa0t0M2M5Y0l2Q1RuSGVaYkVMNVJBZjB4cXpud3V6dGRFRWs1bkhMR0VUMkwtc3pzOEk5eUtGdjhTcFlKTlFR?oc=5",
-      "pub_date": 1795258815.0,
-      "article_url": "https://www.cnn.com/2026/11/21/business/ai-stocks-volatility-investing",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1990386440.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Indices like the S&P 500 have become heavily concentrated in tech stocks in recent years, due to to the AI boom."
+      "headline": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
+      "pub_date": 1795236900.0,
+      "article_url": "https://apnews.com/article/anthropic-claude-math-solution-ai-4fe8b69a891f160f9e7f0c85af8c55c8",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
+      "pub_date": 1795279920.0,
+      "article_url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
+      "pub_date": 1795279140.0,
+      "article_url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a",
+      "description": "Anthropic\u2019s Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis"
     },
     {
       "headline": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
@@ -83,28 +103,8 @@
       "article_url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "The AI bust is a growing threat to China's economy and a 'moment of real danger' for President Xi Jinping, analyst warns",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZG5tbmx0N1dqVUw3NEtYNF9DU21hdXZNMlIzX21VV1ZrTG5wNWNlT0V2VVhhOFBsUjdHMFFaZW1sQVg1b2xZeWlodm1tREVoWTluTHhZWnMzVUl6a2JqcE5nblpZS1hlSjZRS2ZqNV95OFBTa05wUlpWMWJrUmlnTDhHazRXWEpHZW5yV1hPWGx4a21XYnZV?oc=5",
-      "pub_date": 1795297500.0,
-      "article_url": "https://fortune.com/2026/11/21/ai-bust-china-economy-xi-jinping-property-crash-stock-market/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2305267967-e1795290326772.jpg?resize=1200,600",
-      "description": "\"To keep AI funding flowing, Xi needs a buoyant stock market.\""
-    },
-    {
-      "headline": "Anthropic mathematician proves Riemann hypothesis, most famous problem in all of math",
-      "source": "Scientific American",
-      "source_url": "https://www.scientificamerican.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcl9DRERIZlViX1BNaFBRYU1WbjI4ejNhb2x6b2d1aXJRenVWQ3NtUUttb1VvTnRYUWNvUE5pQy1vbkpvcEpXeHU4bldwVXpfM3pwdzVtMjJyT3BvcTdyU0lZQUdtdzJEN2xoa1AtR1prQkd3Q1FDakxiZi1XRWVnSmt5aHNYTzlvRDhWcXl3emNNd2NNTTNESWF5bnFiWk5kYWZVQkdiSHFtX2RVYjlrNElMOV9lQ1c5R0dLQnN5RlRqemlIR0huTGhzMjZMb1ZRNU5r?oc=5",
-      "pub_date": 1795183200.0,
-      "article_url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-      "image": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&w=1200",
-      "description": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology\u2019s year-long conquest of math in spectacular fashion"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-21T22:50:15.658857+00:00"
+  "fetched_at": "2026-11-22T02:51:10.085404+00:00"
 }

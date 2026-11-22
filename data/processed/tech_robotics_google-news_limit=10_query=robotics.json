@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "\u2018The doom of humanity\u2019: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
+      "pub_date": 1795288500.0,
+      "article_url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+      "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f9cd76eb9786a54c4e51cf0997b3812",
+      "description": "The one thing stopping AI taking over the world \u2013 or at least everyone\u2019s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that"
+    },
+    {
       "headline": "Robots Still Suck",
       "source": "ChinaTalk | Jordan Schneider",
       "source_url": "https://www.chinatalk.media",
@@ -23,16 +33,6 @@
       "article_url": "https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "\u2018The doom of humanity\u2019: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
-      "pub_date": 1795288500.0,
-      "article_url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-      "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f9cd76eb9786a54c4e51cf0997b3812",
-      "description": "The one thing stopping AI taking over the world \u2013 or at least everyone\u2019s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that"
     },
     {
       "headline": "Former No Name Restaurant to become marine robotics hub",
@@ -85,14 +85,14 @@
       "description": "Genesis AI raised $500 million to expand its general-purpose robot Eno, which learns physical skills from workers wearing special electronic gloves."
     },
     {
-      "headline": "University of Illinois helping bring robotics to rural Illinois classrooms",
-      "source": "WAND",
-      "source_url": "https://www.wandtv.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanpadm9scnpiTnhxaEQtRnJjRC1qbHllWFRqVDk0aU9UVV9tT0pfc29lN1dWRWItSGV2dHh0elBsWVBmV2U3M2JDWDE5VGFvVU52aGJ2d2pKcnhZU09VSVZ2TTF6WXVWRURvbVQxTXZmdk5idktGVHpTT3NHLXg1QTVoNXZPTVptcWFobDRCOWhKZExSZUhucjdzMElDc2xvekNOTER30gG6AUFVX3lxTE9DVk9WU1g0ekJhYTdUVnBKNER6TEcybFphSXB5dnhXUGZSbWxLQnJwbm9pSVRlVXpBYmRRTE5qcVJoMDBkcXhXcDZmRzd3OGhFVXNIdzk0VkxMMTNJcnc1UzNETGNqQ2R4S2tTWHRLTFRsYkQ5cE9QaG96ckcxdTREWVQ1Qm9zTUJyN0daUWdGY3hxeWJfYnVCaDNuZGpFZG50a3JCNmVyWFYyRTBra3BsT1BqMUZiaFVyQQ?oc=5",
-      "pub_date": 1795213800.0,
-      "article_url": "https://www.wandtv.com/2026/11/20/university-illinois-helping-bring-robotics-rural-illinois-classrooms/",
-      "image": "https://gray-wand-prod.gtv-cdn.com/resizer/v2/A3ART5DSPRBJ5INDXYYQVHALCY.jpg?auth=b01c77f10d6238096f722c368cbc972c6d35d19dbba1e0f83b3c9ce7147b03b6&width=1200&height=600&smart=true",
-      "description": "From building robots to learning computer programming, students in rural Illinois schools are getting hands-on experience with science, technology, engineering and math thanks to a partnership with the University of Illinois."
+      "headline": "The Next Phase of Robotics: From Technological Progress to Real-World Impact",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0x1TFM0ajc0bWQ5TmFxWGdPZW9FckNxOWVfZ2UwR1dLOWxMbEltWjZWTUlfSkMxTjFHTTVMOEdGRGlCUWhzS3l4V0Y3TFVCWmFuU0ZoZmJMSjItU2FJQjcxelhiVlBHa2JIV3U4MVoxdUE4bWR3cnVNQzFMdC10LW1hLS0?oc=5",
+      "pub_date": 1795187040.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Pudu.jpg",
+      "description": "Pudu Robotics moves embodied AI from lab demos to real-world business impact with specialized robots and local hubs."
     },
     {
       "headline": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-21T22:50:22.996996+00:00"
+  "fetched_at": "2026-11-22T02:51:04.578723+00:00"
 }

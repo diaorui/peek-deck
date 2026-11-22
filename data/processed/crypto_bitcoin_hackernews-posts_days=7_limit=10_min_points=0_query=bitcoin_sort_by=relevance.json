@@ -9,7 +9,7 @@
       "url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/",
       "hn_url": "https://news.ycombinator.com/item?id=50588272",
       "author": "geox",
-      "points": 12,
+      "points": 14,
       "num_comments": 4,
       "created_at": "2026-11-21T11:51:42Z",
       "object_id": "50588272",
@@ -17,6 +17,20 @@
       "description": null,
       "favicon": null,
       "site_name": "reuters.com"
+    },
+    {
+      "title": "Gemini 4 Neon solves Bitcoin puzzle from 2024",
+      "url": "https://echo.ls/zden-level-halv/",
+      "hn_url": "https://news.ycombinator.com/item?id=50592648",
+      "author": "maplet",
+      "points": 7,
+      "num_comments": 0,
+      "created_at": "2026-11-21T19:19:03Z",
+      "object_id": "50592648",
+      "image": null,
+      "description": "Notes on mathematics and puzzles.",
+      "favicon": "https://echo.ls/favicon.svg",
+      "site_name": "echo.ls"
     },
     {
       "title": "Alleged Operator of Pirate Site Movie2K Could Walk Free as Bitcoin Billionaire",
@@ -31,20 +45,6 @@
       "description": "The alleged operator of defunct pirate streaming site Movie2K could walk out of a German court a free man, and still a bitcoin billionaire.",
       "favicon": "https://torrentfreak.com/apple-touch-icon.png",
       "site_name": "torrentfreak.com"
-    },
-    {
-      "title": "Gemini 4 Neon solves Bitcoin puzzle from 2024",
-      "url": "https://echo.ls/zden-level-halv/",
-      "hn_url": "https://news.ycombinator.com/item?id=50592648",
-      "author": "maplet",
-      "points": 6,
-      "num_comments": 0,
-      "created_at": "2026-11-21T19:19:03Z",
-      "object_id": "50592648",
-      "image": null,
-      "description": "Notes on mathematics and puzzles.",
-      "favicon": "https://echo.ls/favicon.svg",
-      "site_name": "echo.ls"
     },
     {
       "title": "Show HN: NostrPulse \u2013 Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
@@ -145,7 +145,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 14,
+  "total_hits": 15,
   "has_metadata": true,
-  "fetched_at": "2026-11-21T22:50:00.769821+00:00"
+  "fetched_at": "2026-11-22T02:50:44.653692+00:00"
 }

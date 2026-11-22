@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-21T22:50:35.333041+00:00'
+updated: '2026-11-22T02:51:12.454179+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 21, 2026 at 22:50 UTC  
+**Last Updated:** November 22, 2026 at 02:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.6%  
-**7d:** -8.4%  
-**30d:** -29.6%  
-**90d:** -32.2%  
-**1y:** -39.4%  
+**24h:** +6.2%  
+**7d:** -8.3%  
+**30d:** -29.2%  
+**90d:** -31.6%  
+**1y:** -40.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $205.18B
+**Market Cap:** $203.63B
 Rank #2
 
-**Circulating Supply:** 122,238,992 ETH
+**Circulating Supply:** 122,241,915 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.1%
+-66.3%
 
 **All-Time Low:** $0.43
-+387595.5%
++384627.7%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?
 
-6d ago
+7d ago
 
 ---
 
@@ -152,19 +152,11 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[Peter Schiff Doubles Down On His ‘Black Monday’ Call Again: Ethereum Could Hit $1,000 In Two Days](https://stocktwits.com/news-articles/markets/cryptocurrency/peter-schiff-doubles-down-on-his-black-monday-call-again-ethereum-could-hit-1-000-in-two-days/cNbmkZ2R91V)**
+**[Ethereum founder takes aim at keeping homes expensive](https://finance.yahoo.com/real-estate/articles/ethereum-founder-takes-aim-keeping-223000009.html)**
 
-Peter Schiff warned late Friday that Ethereum (ETH) could plunge to $1,000 by Monday after the token fell below the key support level of $1600.
+Vitalik Buterin says where young people put savings shapes who wants home prices high.
 
-Stocktwits • 21h ago
-
----
-
-**[Elon Musk’s Grok AI Predicts ETH Vs SOL For 2027: Who Wins?](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-200700590.html)**
-
-Ethereum vs. Solana in 2027: Elon Musk’s Grok AI predicts which is positioned for bigger gains at the end of this article. As of mid-November 2026, Ethereum (ETH) trades near $1,780–$1,880 with a market cap of about $210–$230Bn, while Solana (SOL) trades near $65–$80 with a market cap of roughly ...
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -174,11 +166,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings](https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226)**
+**[Peter Schiff Doubles Down On His ‘Black Monday’ Call Again: Ethereum Could Hit $1,000 In Two Days](https://www.tradingview.com/news/stocktwits:67b1fcc7a094b:0-peter-schiff-doubles-down-on-his-black-monday-call-again-ethereum-could-hit-1-000-in-two-days/)**
 
-Ark Invest trimmed its Ethereum and Solana staking ETF exposure while buying nearly 1 million shares in Anthropic on Thursday.
+Peter Schiff warned late Friday that Ethereum (ETH) could plunge to $1,000 by Monday after the token fell below the key support level of $1600.Schiff said that there is a real risk of a crypto crash over the weekend that could send Ethereum to $1,000 by Monday. Ethereum was trading below $1,580, do…
 
-The Block • 1d ago
+TradingView • 16h ago
+
+---
+
+**[Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers](https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810)**
+
+Upbit and Bithumb froze CYBER deposits and withdrawals as tokens pulled from the Ethereum bridge for Binance Labs-backed firm Cyber, formerly CyberConnect, were sold for about $968,000 in ETH.
+
+The Block • 8h ago
 
 ---
 
@@ -190,17 +190,17 @@ TradingView • 1d ago
 
 ---
 
-**[Bitcoin Crashes to $59,000 as Ethereum, XRP Dump 8%: What Is Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/11/63486782/bitcoin-crashes-to-59000-as-ethereum-xrp-dump-8-what-is-going-on)**
-
-Benzinga • 1d ago
-
----
-
 **[Crypto News Today: Bitcoin Price Nears $55K as Ethereum Plunges 10% and XRP Tests $0.87 Support](https://bravenewcoin.com/insights/crypto-news-today-bitcoin-price-nears-55k-as-ethereum-plunges-10-and-xrp-tests-0-87-support)**
 
 Bitcoin fell to $56,813.68 in a late-Friday snapshot, while Ethereum dropped nearly 10% and XRP traded just above its $0.87 technical support level.
 
-Brave New Coin • 17h ago
+Brave New Coin • 21h ago
+
+---
+
+**[Top 4 Reasons Why BTC, ETH and XRP Price Are Crashing Today](https://coingape.com/markets/top-4-reasons-why-btc-eth-and-xrp-price-are-crashing-today/)**
+
+CoinGape • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ MarketForces Africa • 1d ago
 
 **[Aave Raises Ethereum USDC Borrow Cap to $4 Billion](https://thedefiant.io/news/defi/aave-raises-ethereum-usdc-borrow-cap-to-4-billion)**
 
-The Defiant • 3h ago
+The Defiant • 7h ago
 
 ---
 
@@ -234,7 +234,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 312 • 💬 80 • ⏱️ 23:09 • 14h ago
+👁️ 26K • 👍 334 • 💬 80 • ⏱️ 23:09 • 18h ago
+
+---
+
+**[Cathie Wood Sells ETH and Solana 📉 Loads Up on $ANT](https://www.youtube.com/watch?v=XmeVwaOQxNU)**
+
+Bitcoin has dropped below $60000 as crypto and stocks sell off together, while Cathie Wood's ARK sold staked Ether and Solana ...
+
+📺 Paul Barron Network
+
+👁️ 85K • 👍 1K • 💬 176 • ⏱️ 18:51 • 1d ago
+
+---
+
+**[BITCOIN BOUNCE: My Strategy Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oSnsoiysQEM)**
+
+BITCOIN BOUNCE: My Strategy Revealed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 616 • 👍 69 • 💬 8 • ⏱️ 21:13 • 46m ago
 
 ---
 
@@ -248,23 +268,13 @@ Tom Sosnoff, Co-Founder and CEO of Lossdog, discusses Anthropic's IPO, retail in
 
 ---
 
-**[Cathie Wood Sells ETH and Solana 📉 Loads Up on $ANT](https://www.youtube.com/watch?v=XmeVwaOQxNU)**
-
-Bitcoin has dropped below $60000 as crypto and stocks sell off together, while Cathie Wood's ARK sold staked Ether and Solana ...
-
-📺 Paul Barron Network
-
-👁️ 79K • 👍 1K • 💬 172 • ⏱️ 18:51 • 1d ago
-
----
-
 **[Anyone Holding Bitcoin, Ethereum Or XRP In The Cryptocurrency Market Here&#39;s An Important Message](https://www.youtube.com/watch?v=HOKcuCVdZKI)**
 
 The cryptocurrency market has gone through a major shift in the last 2 years and it would seem that its causing a cataclysmic shift ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 38K • 👍 2K • 💬 265 • ⏱️ 11:41 • 1d ago
+👁️ 38K • 👍 2K • 💬 268 • ⏱️ 11:41 • 1d ago
 
 ---
 
@@ -278,53 +288,43 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 ---
 
-**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=Mm5rRRBFavU)**
-
-BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 7K • 👍 138 • 💬 2 • ⏱️ 7:12 • 19h ago
-
----
-
 **[Why Bitcoin Wasn&#39;t ENOUGH For Vitalik Buterin](https://www.youtube.com/watch?v=38Cxn9WpttM)**
 
 Join the Coin Bureau Club https://go.coinbureau.com/cbc-cb-des Get The Hottest Crypto Deals ...
 
 📺 Coin Bureau
 
-👁️ 27K • 👍 417 • 💬 30 • ⏱️ 24:39 • 2d ago
+👁️ 27K • 👍 421 • 💬 30 • ⏱️ 24:39 • 2d ago
 
 ---
 
-**[Ethereum Can’t Bounce. Is $1,620 Next?](https://www.youtube.com/watch?v=qECnnAmheNg)**
+**[Cathie Wood &amp; Lyn Alden Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=0PRiBVgRXv4)**
 
-Ethereum is sitting on its main support at $1724, the 78.6% retracement, but there is still no meaningful upside reaction.
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 9K • 👍 160 • 💬 13 • ⏱️ 6:52 • 2d ago
-
----
-
-**[Ethereum Oversold! Can ETH Recover $1,700? | Swing Trade #Shorts](https://www.youtube.com/watch?v=cG60dj4nN24)**
-
-Ethereum has seen a sharp fall. Does an oversold RSI mean it is ready to bounce? See the ETH daily candles, MACD and volume ...
-
-📺 Swing Profit
-
-👁️ 70 • ⏱️ 0:33 • 9h ago
+👁️ 26K • 👍 307 • 💬 27 • ⏱️ 24:24 • 2d ago
 
 ---
 
-**[What Is Ethereum? Smart Contracts Explained](https://www.youtube.com/watch?v=RLPjOCbd-ok)**
+**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=Mm5rRRBFavU)**
 
-What makes Ethereum different from Bitcoin? See how smart contracts let many computers run the same program and agree on its ...
+BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
 
-📺 Simply Tech
+📺 Profit First
 
-👁️ 73 • 👍 1 • ⏱️ 0:55 • 1d ago
+👁️ 7K • 👍 138 • 💬 2 • ⏱️ 7:12 • 23h ago
+
+---
+
+**[How Low Can Bitcoin and Ethereum Go Before the Next Leg Up?](https://www.youtube.com/watch?v=9rNbP7MS0po)**
+
+With the market looking deep in the red, the big question is how low Bitcoin and Ethereum can really go before the next leg up, ...
+
+📺 Crypto Banter
+
+👁️ 12K • 👍 243 • 💬 3 • ⏱️ 41:51 • 5h ago
 
 ---
 
