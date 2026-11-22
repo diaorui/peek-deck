@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ai",
+  "site": null,
+  "search_query": "ai",
+  "articles": [
+    {
+      "headline": "Can Marissa Mayer, Yahoo\u2019s Former CEO, Help Fix A.I.\u2019s Gender Problem?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5KSFZOcEVLQzZ6OTNXOWJENzBVZEpaWFdtcnd0NXZlRS10VEdmcnRMODJ0Y3ZWX2ZfME1PdU41M2RrM2pwb25ZT2FpWTlvTFpQbVRHSXFFM0hsNlNlS1REQk5hdjlOSG5aeGNtSnlBQWt3MThtUFhNakt5TzRKU0E3MkZ5Zw?oc=5",
+      "pub_date": 1793087945.0,
+      "article_url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "In China, the AI bubble has already burst",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
+      "pub_date": 1793016120.0,
+      "article_url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meet Anthropic\u2019s Seven Founders as the A.I. Firm Prepares for an IPO",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg?oc=5",
+      "pub_date": 1793028296.0,
+      "article_url": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNklNQlZSV0JkMk95ODdwQ3Fac1ZNbHJWMUFsMjIwbFB1UndnS29RNFNNcXN6X3FGVEx4dEFYWWtnQkhwMU5SQ1NHa2ZmVDZlMmZfT0F4VHRfelNCOWFvYnBwMV9SWkVMZ1pRTTNwNTh2NzNTWXlwVdIBfkFVX3lxTE5LZTNUMTJWT0hXQ2xBU2otcjZSWUQ5YkVrY1NJSkQxZ01BNHBrMnlSOEpIQ0tuVTZmb0dJZFA4MUluS3BHeUR3cVQxS3Q5VVVXN3hpWnVZMExOUDBiUHZra2tWM3VhWVBJVXBudEVXdDRCcC1iMk9hY2ZaM0FBZw?oc=5",
+      "pub_date": 1793029930.0,
+      "article_url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
+      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency."
+    },
+    {
+      "headline": "\"Hire The Robot, Fire The Human\": Gates' Warning, Then Microsoft Buyouts",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQW9OMV9pZjdYcjRIRTNJczd0QkFsd0E5MnB6TGVLaU5FRkFrOTNGYVVvS3ZHbzUycTZBVDJVZmZEaUNvSFctVEpsalUtaUxXLWtWcDdUU0V4Unk2MHVGelNfeTUtNHhveTlvZDZfT1l3TzhrRWpZa0xrMG4wSmV2TWtiX3JzWDBmYmhfbkVZcGdPUGZ2ZEl5VjNhbXIweVY2VGNwSUllTHN3MmFQSmF2WlQ2UThDa1k2Sjh0bmZRYi1mczDSAcsBQVVfeXFMTmtNTENLQ2Vvb21fUXRuOWRVMU1OeFdNQWpjdFFJWGg0R3V1bzBFVTJvMnMxdGVlUWIxTTRDNzJTUEtsVzh0VHhoNWJoR0l0M055dG5vUlhaMHU4a09RUG1KbmxkOHhTRW9wZDF5ODZHQmttMXF0TEVJRDcwbGhhZHU2RDhvTVY3R0s4MmZnSHVhdzVEd2ZPMEs3OWRJbWJRZmtKSDdqZ2dFTDNjb0RnWVRuanpSMnZibHdsYmtBX2hMQlVQX0s3ZHhhOWc?oc=5",
+      "pub_date": 1793084172.0,
+      "article_url": "https://www.ndtv.com/artificial-intelligence/hire-the-robot-fire-the-human-bill-gates-warning-then-microsoft-buyouts-12241459",
+      "image": "https://c.ndtvimg.com/2026-10/fj9ei89o_bill-gates-_650x400_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "description": "Microsoft co-founder Bill Gates says companies are being pushed to replace workers with AI. A day after his statement Microsoft offers buyout to 60,000 employees"
+    },
+    {
+      "headline": "Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGVaVGpaNnhKVm1GV0UwbUdnQmRtQmFFVmNDQlRMWkRzNWlfYXJvZUp4aGtGS1FYVll5YWtMS2Zad3pyOFBFUTZLOTNDNGxuRmt5ME1lUExyWXFlUDhsTGVKSlZLRXNmOVBTOXVUdkk5MlhwOGtpVldrVW5xV3E5VEstYVdSS1k?oc=5",
+      "pub_date": 1793045739.0,
+      "article_url": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "South Korea\u2019s GDP growth beats forecasts amid AI boom",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkhSendFOTJpVXVneXVaSFVfdWNoY0swai14U0NiU1dCU0xmbE5Wd25Dak9DUkpEOEl1ZDd5Um1NQkg5c2V2SU9JVm1KaTgxbXNwVGRwS2ZQNlRmTm9Ea2JDS1N3VG5jWkFCbERCRjFlNjgtZmkzU0Q3cU16dnYyUXJRaG14ZEJOT1RTTGV0bzRPV3YxTC1qV2hST19DUdIBowFBVV95cUxPRl9KQ1REU214M3NQRHpBaGI5LW5QZXc5bHkwNDRDTk5NZUxtbV9zeVN5SWo1UG1fdHF6dS1PWWV4V2w1ZXRJdi1DNjIwWEJXRGJFOTM3V0hMTUp1LXFEcTB5cGx2QTlrUm14SGNYeUg4UXZNUkl2andsNXZyMW1KblFmbk5zbjFHMFloZkh4ckhkVXJiaDJoU0hTRHF5RUl6LXU0?oc=5",
+      "pub_date": 1793084197.0,
+      "article_url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260811__C4DU6ZR__v1__MidRes__SkoreaEconomy-1-1793075271_957b25-1793075829.jpg?resize=1200%2C630&quality=80",
+      "description": "Asia's fourth-largest economy grows\u00a03.4 percent year-on-year amid strong semiconductor demand."
+    },
+    {
+      "headline": "Working with academic communities to build scientific understanding",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
+      "pub_date": 1793050970.0,
+      "article_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&h=900&fit=fill",
+      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
+    },
+    {
+      "headline": "\u2018Digital hostile environment\u2019: AI secretly being embedded across Home Office, report claims",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0xOOG0wZVF2UzIwalRZSk1SUXhzRHBOeUJ5UmxlSzA1NDY4MDFTU3NXcXRlNTczek9vU0JCcU5fYm1IZTNUVUNnTTFsTzJfWEE0MGlUaVdsZl9ld3VKU1E1MDhzejNNS2gyT2trRGRveU1FQXRkaGtoV3NjN25PbmNnT0p1V1JEcUFQS0xyZWZMVTBkWmtUajBzRFV3Yk9xSmlFd0hYQ0pKejROdElhTGU3ckRSdms?oc=5",
+      "pub_date": 1793059380.0,
+      "article_url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+      "image": "https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06dde09a5285a3bd45a1f6d46d9c0390",
+      "description": "Tasks from determining asylum seekers\u2019 ages to border surveillance now involve AI, says Open Rights Group"
+    },
+    {
+      "headline": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+      "source": "Cloudflare Blog",
+      "source_url": "https://blog.cloudflare.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfQXpCbEt5VnltbU56MjU0SHdvdm1uQmphTjJjSC1KLUNCdGZhUzBEZTJMT09uN0otanVZSURQblJ3TTZpRDFWbG8wSTNPQVBSWXNBMWMxNE5OTDVMUDd5NTFxZEUzWTZCcnc?oc=5",
+      "pub_date": 1793052128.0,
+      "article_url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2YJT16K16BFFJGEMCAXRS.01M5X2YM62P3YQRBGRP96FS4P6.png",
+      "description": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-10-27T08:13:33.044428+00:00"
+}

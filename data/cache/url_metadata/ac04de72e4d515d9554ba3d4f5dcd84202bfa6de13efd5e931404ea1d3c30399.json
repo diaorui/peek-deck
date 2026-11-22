@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-21T17:32:11.963483+00:00",
+  "data": {
+    "url": "https://layerfs.ai/",
+    "title": "LayerFS: the filesystem for AI coding agents",
+    "description": "LayerFS is an open-source (MIT) filesystem for AI coding agents: each tool call gets a complete, writable Workspace over shared history.",
+    "image": "https://layerfs.ai/github-preview.png",
+    "favicon": "https://layerfs.ai/favicon.svg",
+    "site_name": "LayerFS",
+    "author": null,
+    "keywords": null
+  }
+}

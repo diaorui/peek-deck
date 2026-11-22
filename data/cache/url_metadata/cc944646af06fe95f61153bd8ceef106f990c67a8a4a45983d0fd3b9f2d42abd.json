@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-18T23:31:14.617108+00:00",
+  "data": {
+    "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+    "title": "AI Can Write the Code. Who Verifies It? - Mihai Avram",
+    "description": "AI coding agents write code faster than teams can review it. Here are the automated checks to run at each stage, from pre-commit to production, and the multi-agent review workflow I use.",
+    "image": "https://mihaisplace.com/_astro/cover.CoH0kvhv_1uQrz2.jpg",
+    "favicon": "https://mihaisplace.com/apple-touch-icon.png",
+    "site_name": "Mihai Avram",
+    "author": null,
+    "keywords": null
+  }
+}

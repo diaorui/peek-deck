@@ -1,0 +1,116 @@
+{
+  "subreddit": "robotics",
+  "posts": [
+    {
+      "title": "CBR-II update (V3): smoother gait + trying to stand on one leg",
+      "author": "jekjukich",
+      "url": "https://www.reddit.com/r/robotics/comments/1xf3s92/cbrii_update_v3_smoother_gait_trying_to_stand_on/",
+      "published": 1792938474.0,
+      "thumbnail": "https://external-preview.redd.it/M2F5b2pjamtpbXhoMYwkL7AgW7j4pzOBHiUc5LvsvKrT06ZVeuhiV1bkroz0.png?width=640&crop=smart&auto=webp&s=fcc7106073968646c36761513e7950e47bcfecad",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey all, here's a small update on CBR-II, my DIY biped. This is the third iteration. Clip 1 (V3): It walks a lot more confidently now, with much less jitter. The only harsh moment left is when a \"stop\" comes right after \"forward\". It plants its front foot and slams it into the floor pretty loudly. Clip 2 (V1): The original version, for comparison. Clip 3 (V3): Attempting to balance on one leg :) In sim it nails this every time. In real life it's far from perfect, but you can definitely tell what it's trying to do. I think this is the end of the road for this project (at least for this year). I was thinking about jumps (and secretly dreaming of a backflip), but the hardware is just too fragile. Today alone it broke a joint three times and snapped a GT2 belt. And not where it bends around the pulley, it just snapped from tension in the middle of a straight run. Thanks to everyone who followed along and gave feedback on the previous posts!"
+    },
+    {
+      "title": "Meet the star of #NVIDIAGTC Berlin ... Microduck.",
+      "author": "KODonovan06",
+      "url": "https://www.reddit.com/r/robotics/comments/1xfagiq/meet_the_star_of_nvidiagtc_berlin_microduck/",
+      "published": 1792954326.0,
+      "thumbnail": "https://external-preview.redd.it/cjNlYjlxdDN0bnhoMWV9UZTcWm7_eg9xkdFrWRfdLJDxWAgm0Hsj1td2_2hd.png?width=640&crop=smart&auto=webp&s=35f58240c558d0a744f63265d90321e9aacec052",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Microduck from Pollen Robotics. I had the opportunity to meet up with the team here to learn about this, and it's not only a cute little robot, it's one very impressive development tool \ud83d\udc4f \"A tiny biped for reinforcement learning\" I attended NVIDIA GTC Berlin as a guest of NVIDIA EMEA."
+    },
+    {
+      "title": "Used an Octopus Pro + 6x TMC2209 to drive a 6-axis 3D-printed robot arm (not a 3D printer!)",
+      "author": "Sasquatch_0321",
+      "url": "https://www.reddit.com/r/robotics/comments/1xfbmjt/used_an_octopus_pro_6x_tmc2209_to_drive_a_6axis/",
+      "published": 1792957099.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Two months to prepare for humanoid robotics research .. your feedback matters :)",
+      "author": "mosaad40",
+      "url": "https://www.reddit.com/r/robotics/comments/1xf5mww/two_months_to_prepare_for_humanoid_robotics/",
+      "published": 1792942983.0,
+      "thumbnail": "https://preview.redd.it/qlprru6zvmxh1.png?width=640&crop=smart&auto=webp&s=79ef91edcf8128ce41cfec9f23f9420b6f2ad287",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m starting a master\u2019s in two months, working on vision-guided grasping and end-effector integration for humanoid robots. I have experience in Mechanical Design mainly .. have worked with ROS, and computer vision in college but want a better understanding of humanoids as a complete system. My rough plan is below: start with anatomy and hardware, then arm movement and control, then some simulation. I learn best through practical examples rather than heavy maths. Any recommendations for accessible resources, or changes you\u2019d make to the plan? Also happy to connect with anyone interested in studying together."
+    },
+    {
+      "title": "Cubic Doggo update: Wouf's first steps",
+      "author": "SphericalCowww",
+      "url": "https://www.reddit.com/r/robotics/comments/1xey15u/cubic_doggo_update_woufs_first_steps/",
+      "published": 1792920943.0,
+      "thumbnail": "https://external-preview.redd.it/a2R6Y2Z4MWV4a3hoMaOekN0UENSoi144S3K9IqhCKdPrDhjTzrMUCKoh7j9N.png?width=640&crop=smart&auto=webp&s=42893e11759dff87fccb67913a18fae56e5c2e3c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Took me a while to work up the nerve to dig into the sloth-speed-servo bug since my last post. Firmware debugging never fails to scare the heck out of me, phew... Turns out the culprit was the latency from reading servo position/velocity/effort values, technically the trademark of smart servos like ST3215. Each read took like 3\u20135 ms for three servos, and it looks like synchronous read isn't supported yet in the ST3215 C++ SMS_STS library. Does anyone know if it already exists somewhere? For now, feedback reading is disabled on Wouf. With ST3215 servos, although the servo speed is still lower than the Dynamixels used in Doggo, Wouf is walking much faster than expected! And yeah, I think I messed up the turning algorithm again somehow, lol Still, I think this is a good sign that the ST3215-based design can work for a walking robot, and I really like their mechanical sound. Will work on summarizing the build in the next few days. May not have the read function (basically input for reinforcement learning) at the moment though, depending on how difficult it is to develop the sync read firmware. GitHub: https://github.com/SphericalCowww/CubicDoggo_07B"
+    },
+    {
+      "title": "Raspberry Pi Pico Driving a robot arm",
+      "author": "funpicoprojects1",
+      "url": "https://www.reddit.com/r/robotics/comments/1xfa5qz/raspberry_pi_pico_driving_a_robot_arm/",
+      "published": 1792953620.0,
+      "thumbnail": "https://external-preview.redd.it/ZW9udmF6c2pybnhoMWkms7H8Dk9WU1gJ4sK3EWa4NFkojDXyOHuS7m4_bVib.png?width=640&crop=smart&auto=webp&s=8e0622ae5255c30bf1e1e0a812b2a0a9529879cb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Source code and more info here: https://github.com/AdrianCX/picohive-robotarm Controlled via internal web page (gamepad, keyboard), LLMs, MQTT, with an openGL visualizer"
+    },
+    {
+      "title": "RealMan ECO65 bring-up: a shared MCP backend, MuJoCo twin, and a 5\u00b0 hardware test",
+      "author": "No_Quail6685",
+      "url": "https://www.reddit.com/r/robotics/comments/1xf9oo0/realman_eco65_bringup_a_shared_mcp_backend_mujoco/",
+      "published": 1792952493.0,
+      "thumbnail": "https://preview.redd.it/9p5lhje4onxh1.jpeg?width=640&crop=smart&auto=webp&s=0947c8d2978388e99d1abfd32d341eb0c70939c3",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m building a robot lab in a Gaussian-splat reconstruction of my office. Today the RealMan ECO65 (on loan) finally moved: J1 +5\u00b0 at 5% speed and back. Then I switched its Wi-Fi to client mode, lost access, and discovered I had no Ethernet cable. The software side has one shared backend for Codex and Claude, revision-checked edits, a MuJoCo twin and link/desk collision checks. The MCP motion interface is still simulation-only; the physical move was a separate controller session. The twin is a nominal model, not validated hardware behaviour. EP19 shows the build and the failures. The J1 visual is a labelled replay of the logged command. https://www.youtube.com/watch?v=1ZrYGwZJQto For those running an arm in a home lab: what was the first mismatch you found between your twin and the hardware?"
+    },
+    {
+      "title": "Four-legged robot solves giant Rubik's Cube without using hands",
+      "author": "Spirited-Sir-3034",
+      "url": "https://www.reddit.com/r/robotics/comments/1xf218z/fourlegged_robot_solves_giant_rubiks_cube_without/",
+      "published": 1792933943.0,
+      "thumbnail": "https://external-preview.redd.it/n8SHwPuJB1QYQn-H480ZisAhEetneB36DE7Kq7Fbx2w.jpeg?width=640&crop=smart&auto=webp&s=09da60a9a932799c7fca1d55a91e99096fb31699",
+      "external_url": "https://interestingengineering.com/ai-robotics/four-legged-robot-solves-rubik-cube",
+      "site_name": "Interesting Engineering",
+      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+      "description": "ETH Zurich\u2019s ANYmal solved a 10-pound Rubik\u2019s Cube three times using only its feet, taking around eight to nine minutes per attempt. The trick combined computer vision and a traditional cube-solving algorithm with reinforcement learning that taught the robot how to balance, apply force, and correct mistakes. Beyond the fun demo, could \u201cpedipulation\u201d make future robots more useful by letting them open doors, turn valves, or move obstacles without needing hands?"
+    },
+    {
+      "title": "Day 363 of building Asimov 1. Testing new grippers so it can pick things up and work with them!",
+      "author": "eck72",
+      "url": "https://www.reddit.com/r/robotics/comments/1xeabg7/day_363_of_building_asimov_1_testing_new_grippers/",
+      "published": 1792852673.0,
+      "thumbnail": "https://external-preview.redd.it/aHFkampkMHNlZnhoMcBYjqC1KWEyO3y_yoSAw99XgYu7B4fpHhdnVD-MgsBg.png?width=640&crop=smart&auto=webp&s=6d71805518abe19faf06aaa07221478cd2f1f928",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Adding grippers to Asimov 1. The arms have been strong enough for a while. Now it\u2019s time to use them for manipulation! Quick note, if you\u2019re seeing Asimov 1 for the first time, it's a fully open-source humanoid robot built from off-the-shelf parts, so you can build one yourself. https://github.com/menloresearch/asimov-1/"
+    },
+    {
+      "title": "Cycloidal Drive Help",
+      "author": "Appropriate-Help-602",
+      "url": "https://www.reddit.com/r/robotics/comments/1xf4aqe/cycloidal_drive_help/",
+      "published": 1792939742.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hello everyone, I would like to know some good sites and guides on how to design cycloidal drives for stepper motors (NEMA 17). I have been looking on YouTube and some sites but mostly i didn't learn anything about what is needed from my side and what I need to calculate. I have made few attempts at printing these drives and all of them are off by some millimeters, and they are getting stuck after few turns."
+    }
+  ],
+  "fetched_at": "2026-10-25T19:53:02.983870+00:00"
+}

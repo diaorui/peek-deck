@@ -1,0 +1,116 @@
+{
+  "subreddit": "artificial",
+  "posts": [
+    {
+      "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
+      "author": "Environmental_Mix22",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
+      "published": 1793054688.0,
+      "thumbnail": "https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&crop=smart&auto=webp&s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727",
+      "external_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "site_name": "OpenAI",
+      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
+      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
+    },
+    {
+      "title": "Johns Hopkins alerts 3,000+ patients after data sent to AI tool",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1xg34zr/johns_hopkins_alerts_3000_patients_after_data/",
+      "published": 1793035257.0,
+      "thumbnail": "https://external-preview.redd.it/lHsAk40fy10v7egNnz7Oaq7H-7iqqnCz4VLNsvOKOs8.jpeg?width=640&crop=smart&auto=webp&s=3c96abc29de927e8a219cd40cb0bc827992d487e",
+      "external_url": "https://www.wmar2news.com/local/patients-data-sent-to-ai-tool-johns-hopkins-bayview-medical-center-oct-23-2026",
+      "site_name": "WMAR 2 News Baltimore",
+      "favicon": "https://www.wmar2news.com/apple-touch-icon.png",
+      "description": "Johns Hopkins Bayview is alerting about 3,182 patients after a worker uploaded their data to an unapproved AI tool. Free credit monitoring offered."
+    },
+    {
+      "title": "An LLM is basically just a massive and extremely sophisticated mathematical function?",
+      "author": "DoublePassRadiator",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfw15p/an_llm_is_basically_just_a_massive_and_extremely/",
+      "published": 1793019346.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An LLM is basically just a massive and extremely sophisticated input/output mathematical function?"
+    },
+    {
+      "title": "Are we actually any closer to reliable agents, or is it still mostly demos?",
+      "author": "Usual_Difficulty_126",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgji5i/are_we_actually_any_closer_to_reliable_agents_or/",
+      "published": 1793076718.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I keep seeing claims about agents that can book things, manage inboxes, run multi step tasks on their own. Every demo looks great but every time I try to use one for something real it falls apart at step four and I end up babysitting it. I am not trying to be cynical, I genuinely want to know if anyone here has an agent setup that reliably does useful work without you watching it. What actually works for you day to day versus what is still a party trick?"
+    },
+    {
+      "title": "Dutch Government Plans to Cut 25,000 Jobs (16%) in AI-Led Overhaul",
+      "author": "fuchsiarush",
+      "url": "https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/",
+      "published": 1793030793.0,
+      "thumbnail": "https://external-preview.redd.it/SuL-_OSaSL_CoEDrPnpuGzpcNXhFI81MBmiRcaxKswM.jpeg?width=640&crop=smart&auto=webp&s=986281c77074b15f0fa240848e1eadd9c88ced6a",
+      "external_url": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul?taid=6adf68a2320643000121fd64&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+      "site_name": "bloomberg.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "What's the most underrated use of AI that has nothing to do with writing or making images?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1xghbet/whats_the_most_underrated_use_of_ai_that_has/",
+      "published": 1793069871.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "What's your example?"
+    },
+    {
+      "title": "thought i could spot ai video easily. 40 people and one dinner argument later, nope",
+      "author": "Resident-Anxiety6427",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgmatc/thought_i_could_spot_ai_video_easily_40_people/",
+      "published": 1793087196.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "short version: a coin flip would have done about as well as we did. ran a little test with friends, coworkers and my moms book club, mostly because we kept arguing about it at dinner. the setup: - 10 clips, 5 to 8 seconds each - 5 real (filmed on my iphone: a dog on a beach, coffee pouring, a street at night, hands kneading dough, a kids bike in the rain) - 5 ai versions of the same 5 scenes, made on dreamina with prompts written in chatgpt - same color grade on all of them, no sound results from 40 people: - average accuracy: 52%, basically a coin flip - the dough was the easiest to spot (86% caught it, the hands gave it away) - the street at night fooled almost everyone, 74% said the ai one was real - people under 30 did slightly worse than people over 50, wich surprised me honestly the most interesting part was how sure people were. lots of \"obviously that one\", wrong. not a scientific study, just a dinner argument that got out of hand. would anyone want to see a bigger version?"
+    },
+    {
+      "title": "AI labs need new high-value workloads to justify the next phase of infrastructure spending",
+      "author": "yi111",
+      "url": "https://www.reddit.com/r/artificial/comments/1xgh518/ai_labs_need_new_highvalue_workloads_to_justify/",
+      "published": 1793069344.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "My prediction for the next six months: AI labs will face more pressure to explain which new workloads justify continued infrastructure expansion. Better email drafts and meeting summaries are useful. But there is a limit to what a customer will pay to improve a task that was already cheap. The stronger case would be work with a larger economic payoff: resolving difficult software problems, conducting valuable research, or reliably handling operations that currently require substantial human effort. Those possibilities also push development in different directions. A model optimized for research may need deeper reasoning and verification. An operational agent may need reliable tool use, recovery, and low latency. A mass-market assistant may need a much lower cost per interaction. My guess is that commercial pressure will make those priorities diverge more visibly. Labs can still pursue several goals, but they may have to make harder tradeoffs about where the next unit of compute delivers value. The counterargument is that one broadly capable model could improve all of these tasks at once. Which new workload do you think could generate enough sustained paid demand to justify the next round of AI infrastructure spending?"
+    },
+    {
+      "title": "OpenAI starts training its most powerful systems again \u2013 but keeps them off the internet out of fear they would go rogue",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1xfybgm/openai_starts_training_its_most_powerful_systems/",
+      "published": 1793024785.0,
+      "thumbnail": "https://external-preview.redd.it/bXPrfvx89Lhu7aMlXtdcoVR1lKLOwWH7n6qdTimb7Gs.jpeg?width=640&crop=smart&auto=webp&s=e7973ed96550663192a57d5bc5c97e017fb26059",
+      "external_url": "https://www.independent.co.uk/tech/security/openai-chatgpt-training-models-internet-b3073513.html?reloaded=1",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "Company had previously been forced to take its advanced models offline to develop new restrictions"
+    },
+    {
+      "title": "Thoughts on privacy issues with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.?",
+      "author": "Neat-Flight8381",
+      "url": "https://www.reddit.com/r/artificial/comments/1xg5ibn/thoughts_on_privacy_issues_with_the_likes_of_meta/",
+      "published": 1793040446.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Are we handing over our privacy into safe hands with the likes of Meta Muse, Grok Bot, OpenAI Dots, etc.? Or are all these talks of privacy safety protocols just the tip of the iceberg, and are we once again being played into the hands of these companies?"
+    }
+  ],
+  "fetched_at": "2026-10-27T08:13:09.033759+00:00"
+}

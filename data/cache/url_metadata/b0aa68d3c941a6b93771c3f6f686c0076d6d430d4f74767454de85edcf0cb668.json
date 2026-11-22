@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-10-10T15:32:58.392722+00:00",
+  "data": {
+    "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
+    "title": "Boro: NVIDIA's Open-Source Effort For AI-Assisted Linux Kernel Development",
+    "description": "Over the past few months NVIDIA has been developing Boro as a new AI-assisted kernel development CLI written in Rust and focused on local AI for enhancing efficiency for kernel development.",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=nvidia_boro_1",
+    "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+    "site_name": null,
+    "author": null,
+    "keywords": "Phoronix, Linux Hardware Reviews, Linux hardware benchmarks, Linux server benchmarks, Linux benchmarking, Desktop Linux, Linux performance, Open Source graphics, Linux How To, Ubuntu benchmarks, Ubuntu hardware, Phoronix Test Suite"
+  }
+}
