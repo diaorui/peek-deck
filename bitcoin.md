@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-22T02:51:12.449298+00:00'
+updated: '2026-11-22T10:47:45.984133+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 22, 2026 at 02:51 UTC  
+**Last Updated:** November 22, 2026 at 10:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,619.42
+### $60,641.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.9%  
-**7d:** -8.3%  
-**30d:** -26.4%  
-**90d:** -24.2%  
-**1y:** -31.5%  
+**24h:** +4.4%  
+**7d:** -6.3%  
+**30d:** -24.9%  
+**90d:** -22.6%  
+**1y:** -30.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1195.46B
+**Market Cap:** $1220.54B
 Rank #1
 
-**Circulating Supply:** 20,115,531 BTC
+**Circulating Supply:** 20,115,659 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--52.9%
+-51.9%
 
 **All-Time Low:** $67.81
-+87528.7%
++89392.7%
 
 ---
 
@@ -117,7 +117,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 **[It's so over guys!!!](https://www.reddit.com/r/Bitcoin/comments/1xwnz3q/its_so_over_guys/)**
 
-6d ago
+7d ago
 
 ---
 
@@ -157,71 +157,73 @@ What is going on with Bitcoin today?
 
 **[Bitcoin rises after falling to two-year low](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)**
 
-Reuters • 22h ago
+Reuters • 1d ago
 
 ---
 
-**[Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?](https://www.barrons.com/articles/bitcoin-price-today-news-2098674f)**
+**[The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over](https://finance.yahoo.com/markets/commodities/articles/great-cash-grab-crashing-gold-094952865.html)**
 
-Barron's • 5h ago
+The CME Group's FedWatch tool showed traders are pricing in an 88.6% chance of a Fed rate hike at its upcoming December meeting, making liquidity tighter.
 
----
-
-**[Bitcoin rises 9% from two-year low, reclaiming $60,000 as forced selling eases](https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open)**
-
-CoinDesk • 6h ago
+Yahoo Finance • 57m ago
 
 ---
 
-**[Bitcoin Drops Below $60,000 for First Time Since July](https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-60-000-154537756.html)**
+**[After the Midterm Elections, VanEck's Matthew Sigel Is Still Bullish on Bitcoin. Here's Why He's Right.](https://www.fool.com/investing/2026/11/21/after-the-midterm-elections-vanecks-matthew-sigel-is-still-bullish-on-bitcoin-heres-why-hes-rightwrong/)**
 
-Bitcoin fell below $60,000 for the first time since July, even as US inflation expectations dropped to 3.7%. Here's why.
+If history is any guide, Bitcoin could be ready to rebound in 2027.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Has Traded Below Its 200-Week Average Only 8.4% of the Time. History Says This Is When Patient Investors Get Paid.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-traded-below-200-week-133941953.html)**
-
-Past trends show that bearish moments are usually the best times to buy this cryptocurrency.
-
-Yahoo Finance • 13h ago
-
----
-
-**[After the Midterm Elections, VanEck's Matthew Sigel Is Still Bullish on Bitcoin. Here's Why He's Right.](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd0JXSU5POEJKTFVQdTlnN2R0Z1FpdEd3NHo2TXlCUWI1TkgtM1ZRbGM0WkhnZ01QYUpRY3BrbUlBeGhTWENac3kwMmJWVmJJeF9vTlZoN3hyQ0lhdHBmTFhkMEI2Q2xxcWJoeHUwZGNJSERXa2tRMEJhV2hIbmpOOTBKM2Q1RW1EbXQxTmdRQ0R0WllleERXQ19WR2o0NEpOd0F4dUxSdGZlOGlKdlIzNGdJVjFibTlZWV93RFFhc0tETGVKM2FfQ1ZaSnY5M2pwVnp5cWdiQTdyc0VNS0E?oc=5)**
-
-The Motley Fool • 11h ago
+The Motley Fool • 19h ago
 
 ---
 
 **[‘Dump It Now’—Panic Suddenly Sweeps Bitcoin As Crypto Braces For Massive $2 Trillion Weekend Price Crash](https://www.forbes.com/sites/digital-assets/2026/11/21/we-have-a-real-issue-sudden-bitcoin-plunge-leaves-crypto-braced-for-a-massive-price-crash/)**
 
-Forbes • 14h ago
+Forbes • 22h ago
 
 ---
 
-**[Tracy Schuchart: Bitcoin Trading “Like A Risk Asset” As Fed Hikes Loom](https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom)**
+**[Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch](https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/)**
 
-Tracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today.
+Russia allows approved exchanges to trade Bitcoin from Nov. 22, with a 300,000-ruble retail cap and a December Moscow Exchange pilot.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Nvidia sinks roughly 40% as AI bubble fears drag Bitcoin below $60,000](https://www.tradingview.com/news/cryptobriefing:8b0cda734094b:0-nvidia-sinks-roughly-40-as-ai-bubble-fears-drag-bitcoin-below-60-000/)**
-
-The AI trade is having its worst stretch yet. Nvidia shares have fallen roughly 40% in a matter of weeks, and the damage has spread well past Silicon Valley.Bitcoin has slipped below $60,000. The total crypto market has contracted to approximately $2 trillion. When the poster child of a boom stumbl…
-
-TradingView • 12h ago
+CryptoSlate • 15h ago
 
 ---
 
-**[Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030?](https://247wallst.com/investing/cryptocurrency/2026/11/21/anthropic-is-now-worth-more-than-bitcoin-could-bitcoin-pass-it-by-2030/)**
+**[Binance Bitcoin funding turns negative, and one analyst sees a possible reversal](https://www.tradingview.com/news/cryptobriefing:3844a8027094b:0-binance-bitcoin-funding-turns-negative-and-one-analyst-sees-a-possible-reversal/)**
 
-Anthropic's IPO made it worth more than Bitcoin. Could Bitcoin pass it by 2030? Here's what each side needs to happen.
+Traders on Binance are now paying to bet against Bitcoin. That rarely happens, and the last time it did was in June 2026.CryptoQuant analyst Darkfost flagged the shift. He says negative Bitcoin funding on the world's largest crypto exchange may signal an early market reversal.On or around October 1…
 
-24/7 Wall St. • 11h ago
+TradingView • 3h ago
+
+---
+
+**[At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It's Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5½ Months Sooner](https://247wallst.com/personal-finance/2026/11/21/at-74-a-machinist-planned-to-pay-for-his-nursing-home-with-150000-in-bitcoin-after-the-crash-its-worth-about-90000-and-the-loss-will-get-him-onto-medicaid-about-5%C2%BD-months-sooner/)**
+
+A market crash can erase a retiree's nest egg, yet Medicaid's strict look-back rules treat that loss very differently from a gift. One wrong move by his family could turn a bad break into a penalty period with no coverage.
+
+24/7 Wall St. • 12h ago
+
+---
+
+**[3 Altcoins Defy the Market Crash as Bitcoin Hits a Two-Year Low](https://beincrypto.com/top-3-altcoins-defy-crypto-market-crash/)**
+
+BeInCrypto • 21h ago
+
+---
+
+**[Anthony Scaramucci Recommends 1%-2% Bitcoin Allocation for Investors](https://www.benzinga.com/crypto/26/11/63516530/scaramucci-recommends-1-2-percent-bitcoin-allocation)**
+
+Benzinga • 7h ago
+
+---
+
+**[Robert Kiyosaki Urges Buyers to Wait Out the Crash as Bitcoin Plummets](https://news.bitcoin.com/featured/robert-kiyosaki-urges-buyers-to-wait-out-the-crash-as-bitcoin-plummets/)**
+
+Robert Kiyosaki urged bitcoin buyers to wait until the crash ends as falling prices renewed his interest in buying more. He recalled buying bitcoin at
+
+Bitcoin News • 10h ago
 
 ---
 
@@ -231,7 +233,7 @@ Anthropic's IPO made it worth more than Bitcoin. Could Bitcoin pass it by 2030? 
 
 **[Bitcoin falls to its lowest in two years](https://news.ycombinator.com/item?id=50588272)**
 
-⬆️ 14 • 💬 4 • 14h ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
+⬆️ 16 • 💬 4 • 22h ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
 
 ---
 
@@ -239,7 +241,7 @@ Anthropic's IPO made it worth more than Bitcoin. Could Bitcoin pass it by 2030? 
 
 Notes on mathematics and puzzles.
 
-⬆️ 7 • 💬 0 • 7h ago • [echo.ls](https://echo.ls/zden-level-halv/)
+⬆️ 7 • 💬 0 • 15h ago • [echo.ls](https://echo.ls/zden-level-halv/)
 
 ---
 
@@ -255,15 +257,7 @@ The alleged operator of defunct pirate streaming site Movie2K could walk out of 
 
 Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...
 
-⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
-
----
-
-**[A minimal Bitcoin-inspired implementation (2022)](https://news.ycombinator.com/item?id=50503776)**
-
-I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of buzzwords was long and unending - proof-of-work, Merkle trees, elliptic curves, smart contracts, DeF
-
-⬆️ 2 • 💬 0 • 6d ago • [ezzeriesa.com](https://www.ezzeriesa.com/index/Writing/A%20minimal%20Bitcoin-inspired%20implementation%209559908f03ad4cb7a09ee60a457198e2.html)
+⬆️ 2 • 💬 0 • 2d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
 
 ---
 
@@ -271,7 +265,7 @@ I wanted to learn crypto. I read a lot of posts. I got overwhelmed. The list of 
 
 The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.
 
-⬆️ 1 • 💬 1 • 17h ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
+⬆️ 1 • 💬 1 • 1d ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
 
 ---
 
@@ -299,9 +293,19 @@ My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
 ---
 
-**[Show HN: New In browser URL verification tool](https://news.ycombinator.com/item?id=50505178)**
+**[Show HN: Nunya – A "digital privacy screen" that makes text illegible from afar](https://news.ycombinator.com/item?id=50576552)**
 
-⬆️ 4 • 💬 2 • 6d ago
+Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.
+
+⬆️ 1 • 💬 0 • 1d ago • [usenunya.com](https://usenunya.com/)
+
+---
+
+**[Gemini 4 Neon used 64,067 exclamation marks on Terminal-Bench](https://news.ycombinator.com/item?id=50594818)**
+
+35 verbatim moments of unbridled excitement from Gemini 4 Neon trajectories on Terminal-Bench 4.1.
+
+⬆️ 2 • 💬 0 • 10h ago • [bitbin.de](https://bitbin.de/neon-trajectories/)
 
 ---
 
@@ -309,33 +313,23 @@ My talk from Bitcoin Amsterdam(@bitcoinconfams)
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is $54,000.  Here&#39;s Why.](https://www.youtube.com/watch?v=sjPPLxDE3u8)**
-
-Welcome back! ➡️ Trade on BTCC & 10% Deposit Bonus: https://aaronbtc.com/trade Weekly Email Updates: ...
-
-📺 Aaron Bennett
-
-👁️ 57K • 👍 892 • 💬 160 • ⏱️ 13:40 • 16h ago
-
----
-
 **[Bitcoin Just Bounced and Surged $5,500 to $60K! Is the Bottom In?](https://www.youtube.com/watch?v=X3OD9kYutCA)**
 
 Bitcoin plunged to $55000 before staging a violent reversal above $60000, triggering a wave of short liquidations and raising one ...
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 571 • 💬 49 • ⏱️ 10:09 • 2h ago
+👁️ 21K • 👍 1K • 💬 122 • ⏱️ 10:09 • 10h ago
 
 ---
 
-**[Bitcoin: The Lower Low](https://www.youtube.com/watch?v=ZNy4XdW59dc)**
+**[Bitcoin Is $54,000.  Here&#39;s Why.](https://www.youtube.com/watch?v=sjPPLxDE3u8)**
 
-Live stream the conference: https://www.youtube.com/@benjaminjcowen/join Come to the conference: ...
+Welcome back! ➡️ Trade on BTCC & 10% Deposit Bonus: https://aaronbtc.com/trade Weekly Email Updates: ...
 
-📺 Benjamin Cowen
+📺 Aaron Bennett
 
-👁️ 286K • 👍 11K • 💬 762 • ⏱️ 22:02 • 21h ago
+👁️ 62K • 👍 955 • 💬 170 • ⏱️ 13:40 • 1d ago
 
 ---
 
@@ -345,57 +339,57 @@ Unlock $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 981 • 💬 121 • ⏱️ 11:38 • 2h ago
+👁️ 64K • 👍 2K • 💬 237 • ⏱️ 11:38 • 10h ago
 
 ---
 
-**[Bitcoin DANGER ZONE - Michael Saylor Is Now $15 BILLION Underwater](https://www.youtube.com/watch?v=e-YiGS4Sy54)**
+**[Bitcoin: The Lower Low](https://www.youtube.com/watch?v=ZNy4XdW59dc)**
 
-KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Bitcoin has ...
+Live stream the conference: https://www.youtube.com/@benjaminjcowen/join Come to the conference: ...
 
-📺 Bitcoin News Alerts
+📺 Benjamin Cowen
 
-👁️ 12K • 👍 222 • 💬 106 • ⏱️ 13:40 • 1d ago
-
----
-
-**[It&#39;s Finally Done.... [Crypto, Stocks, Bitcoin]](https://www.youtube.com/watch?v=QYeGLh7M9Uw)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
-
-📺 Tyler S
-
-👁️ 19K • 👍 623 • 💬 148 • ⏱️ 16:27 • 10h ago
+👁️ 313K • 👍 12K • 💬 803 • ⏱️ 22:02 • 1d ago
 
 ---
 
-**[5 MINS AGO! Cathie Wood Shared Terrifying Predictions | Bitcoin Price 2026](https://www.youtube.com/watch?v=99T9LQSeN0E)**
+**[Bitcoin Drops Below $60k](https://www.youtube.com/watch?v=6EpZVnKKrOE)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Crypto Nutshell
+📺 Benjamin Cowen
 
-👁️ 14K • 👍 266 • 💬 24 • ⏱️ 23:12 • 8h ago
-
----
-
-**[Every Bitcoin Crash Headline Is the Same. Here&#39;s What It Can&#39;t Tell You.](https://www.youtube.com/watch?v=h4hLOPN57Yg)**
-
-Question of the day: what did the news say on Bitcoin's five worst days, and what happened next? Every headline verbatim, every ...
-
-📺 Krown
-
-👁️ 7K • 👍 298 • 💬 61 • ⏱️ 37:46 • 8h ago
+👁️ 239K • 👍 7K • 💬 689 • ⏱️ 25:28 • 1d ago
 
 ---
 
-**[What Would It Take for Bitcoin to Hit $1 MILLION? | Anthony Pompliano](https://www.youtube.com/watch?v=7I0JqX0vkyo)**
+**[THE BEGINNING OF THE FINAL LOW? Bitcoin Breaks $60K &amp; Spot Buy Zones! (CRYPTO TRADING)](https://www.youtube.com/watch?v=GWA3Suic0S0)**
 
-Meet Silvia — the AI agent custom-built for managing your personal finances. Connect your accounts, investments, and assets in ...
+Aggressive derisking across global markets just triggered a sharp sell-off, pushing Bitcoin below $60000 as BTC and major ...
 
-📺 The Iced Coffee Hour Clips
+📺 Chart Hackers
 
-👁️ 78K • 👍 279 • 💬 116 • ⏱️ 8:55 • 2d ago
+👁️ 14K • 👍 288 • 💬 8 • ⏱️ 1:19:56 • 19h ago
+
+---
+
+**[Bitcoin Isn&#39;t Anonymous. Here&#39;s How Your Wallet Gets a Name.](https://www.youtube.com/watch?v=EnuVVCgsw34)**
+
+See if your SSN is for sale right now: https://cloaked.com/danalove My sponsor Cloaked will tell you for free in 2 seconds.
+
+📺 Dana Love, PhD
+
+👁️ 18K • 👍 317 • 💬 25 • ⏱️ 18:38 • 19h ago
+
+---
+
+**[BITCOIN COLLAPSES BELOW $60K! (Major Flush Lower?)](https://www.youtube.com/watch?v=XkIcgZVzTxc)**
+
+Bitcoin just broke below $60K as the crypto selloff deepens. Is a bigger flush coming? Nick Valdez, Chief Crypto Strategist for ...
+
+📺 Verified Investing
+
+👁️ 28K • 👍 511 • 💬 27 • ⏱️ 29:31 • 1d ago
 
 ---
 
@@ -405,7 +399,17 @@ Unlock $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
 
 📺 Altcoin Daily
 
-👁️ 95K • 👍 2K • 💬 175 • ⏱️ 10:24 • 2d ago
+👁️ 97K • 👍 2K • 💬 175 • ⏱️ 10:24 • 2d ago
+
+---
+
+**[MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance](https://www.youtube.com/watch?v=ctWQsAPySls)**
+
+Chaitanya "CJ" Jain, Head of Investor Relations at Strategy, joins Bitcoin Magazine TV as Bitcoin trades below Strategy's average ...
+
+📺 Bitcoin Magazine
+
+👁️ 24K • 👍 224 • 💬 41 • ⏱️ 24:30 • 1d ago
 
 ---
 
