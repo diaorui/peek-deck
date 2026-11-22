@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-22T23:43:54.678706+00:00",
+  "data": {
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "title": "A beginner's guide to Local AI with Inkling, Qwen, and Unsloth",
+    "description": "We have AI at home! Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it.",
+    "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
+    "favicon": "https://www.gpupartner.com/apple-icon?7dadfa4265c0ee6c",
+    "site_name": null,
+    "author": null,
+    "keywords": "local LLM,local AI,self-hosted LLM,Unsloth Desktop,Unsloth Studio,LM Studio,Qwen3.8-27B,Inkling 2 Mini,Inkling-2-Mini,Inkling 2 Small,Thinking Machines Lab,GGUF,UD-Q4_K_XL,quantization,VRAM,context window,RTX 5090,LAN access,Windows,MLX,Apple Silicon,unified memory,Gemma 4,gpt-oss-20b,Qwen3-Coder-30B,Qwen3.6-35B,RTX PRO 4500 Blackwell,Mac Studio,DGX Spark,VRAM calculator,personal ChatGPT,private ChatGPT,ChatGPT alternative,Claude alternative"
+  }
+}

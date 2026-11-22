@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-22T18:15:41.262766+00:00'
+updated: '2026-11-22T23:44:33.199167+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 22, 2026 at 18:15 UTC  
+**Last Updated:** November 22, 2026 at 23:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Anthropic's amended filing shows employee options and RSUs worth more than three
 
 Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.
 
-🔗 [CNBC](https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html) • 5d ago
+🔗 [CNBC](https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html) • 6d ago
 
 ---
 
@@ -65,7 +65,7 @@ Cloudflare has open-sourced Kitesurf, the browser engine behind its Browser Run 
 
 wsj says commerce is about to name 20+ ai companies (nvidia, openai, anthropic, microsoft, amazon) as "national champions": faster export licenses, government backing abroad, federal financing. that's straight up industrial policy. meanwhile china, as apec chair, is calling for free trade and a wto-centered system, and its foreign ministry says export controls "serve no party's interests". capitalist us doing state champions, socialist china defending free trade. world's gone a bit mad. https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump https://www.straitstimes.com/asia/east-asia/apec-chair-china-calls-for-upholding-free-trade-at-online-ministerial-meet
 
-5d ago
+6d ago
 
 ---
 
@@ -121,17 +121,51 @@ Before you blame AI tools for flat velocity, find out whether you face a capabil
 
 ## Google News: "ai"
 
-**[Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.](https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html)**
+**[Looking for the Formula to Stop an Apocalypse](https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html)**
 
-The New York Times • 23h ago
+The New York Times • 11h ago
 
 ---
 
-**[Hacks, AI and conspiracy theories: why are we having so many outages? | Technology](https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple)**
+**[Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem](https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html)**
 
-After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack
+The New York Times • 2d ago
+
+---
+
+**[Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono](https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems)**
+
+I believe human judgment remains essential
 
 The Guardian • 12h ago
+
+---
+
+**[Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters](https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html)**
+
+Anthropic's public debut did little to calm the stock market as the AI trade unravels.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Investors Brave Stock Market ‘Fragility’ as AI Trade Falters](https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters)**
+
+Bloomberg.com • 8h ago
+
+---
+
+**[3 AI Hardware Stocks Down More Than 30% From Their Records to Buy Now and Hold Through 2030](https://finance.yahoo.com/technology/ai/articles/3-ai-hardware-stocks-down-220302382.html)**
+
+Each of these AI suppliers sits well below its record close. Has data center demand actually cooled that much?
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Trump’s AI Chip Crackdown Inflicts Collateral Damage Across Asia](https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -139,61 +173,19 @@ The Guardian • 12h ago
 
 How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.
 
-OpenAI • 1h ago
+OpenAI • 4h ago
 
 ---
 
-**[Elon Musk warns data center delays could leave AI companies short on cash: 'Going to be nuts'](https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11)**
+**[OpenAI Chief Scientist Urges Industry Limits on AI Development](https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development)**
 
-Elon Musk's warning of a "cash shortage" comes on the heels of an intense market sell-off in AI and tech.
-
-Business Insider • 26m ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[As AI detects flaws in computer systems, is it causing more tech outages and disruptions?](https://www.pbs.org/newshour/nation/as-ai-detects-flaws-in-computer-systems-is-it-causing-more-tech-outages-and-disruptions)**
+**[OpenAI scientist proposes industry AI limits tied to model intelligence metric](https://www.reuters.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-2026-11-22/)**
 
-PBS • 1h ago
-
----
-
-**[In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality](https://www.cnn.com/2026/11/22/business/trump-xi-apec-tech-rivalry-intl-hnk)**
-
-Neither Xi or Trump was keen to dredge up the Nvidia scandal threatening a delicate detente between the world’s two largest economies.
-
-CNN • 13h ago
-
----
-
-**[AI is being used to clone real people's videos](https://www.bbc.com/news/articles/cm7527kp4qrpo)**
-
-Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.
-
-BBC • 13h ago
-
----
-
-**[John Kennedy: If Howard Lutnick is giving AI chips away to China, ‘he needs to stop’](https://www.nbcnews.com/meet-the-press/video/john-kennedy-if-howard-lutnick-is-giving-ai-chips-away-to-china-he-needs-to-stop-273979973777)**
-
-Sen. John Kennedy (R-La.) says on Meet the Press he wants answers from Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick amid national security concerns and scandals involving Nvidia’s former CEO Jensen Huang.
-
-NBC News • 1h ago
-
----
-
-**[Michael Burry warns AI stocks mirror 1929 and 2000 crashes — and singles out Nvidia's risky deals](https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-ai-stocks-223000286.html)**
-
-Was Burry right about the “AI bubble?” Find out what “The Big Short” superinvestor is saying about the AI trade and why he thinks the tech wreck isn’t over.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Analysis | Entitled and out of touch, AI CEOs are heading for a fall](https://www.washingtonpost.com/business/2026/11/21/history-lesson-ai-ceos-alienate-americans-your-own-peril/)**
-
-Americans tend to turn against out-of-touch CEOs, and a public reckoning on the tech industry could already be underway.
-
-The Washington Post • 1d ago
+Reuters • 34m ago
 
 ---
 
@@ -205,7 +197,7 @@ The Washington Post • 1d ago
 
 Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order) CPU core.
 
-⬆️ 675 • 💬 362 • 2d ago • [Architect Labs](https://architectlabs.com/blog/frostbite)
+⬆️ 678 • 💬 362 • 2d ago • [Architect Labs](https://architectlabs.com/blog/frostbite)
 
 ---
 
@@ -213,7 +205,7 @@ Frostbite is a general-purpose CPU built around interaction nets, discovered, de
 
 Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data.
 
-⬆️ 577 • 💬 345 • 2d ago • [Signal Messenger](https://signal.org/blog/protecting-your-privacy/)
+⬆️ 577 • 💬 346 • 2d ago • [Signal Messenger](https://signal.org/blog/protecting-your-privacy/)
 
 ---
 
@@ -221,7 +213,7 @@ Privacy is our mission; it’s why we exist, and we do everything we can to prot
 
 Asian markets record worst week since 2020 as investors question huge sums being poured into AI buildout
 
-⬆️ 523 • 💬 915 • 2d ago • [the Guardian](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
+⬆️ 527 • 💬 919 • 2d ago • [the Guardian](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
 
 ---
 
@@ -237,7 +229,7 @@ Executives are “convinced that resistance to AI" just means schools "don’t s
 
 An AI chat and coding harness for DOS, on a real IBM PC 5160 (8088 at 4.77 MHz)
 
-⬆️ 167 • 💬 52 • 1d ago • [ClawDOS](http://ricapar.net/ClawDOS/)
+⬆️ 172 • 💬 52 • 1d ago • [ClawDOS](http://ricapar.net/ClawDOS/)
 
 ---
 
@@ -245,7 +237,7 @@ An AI chat and coding harness for DOS, on a real IBM PC 5160 (8088 at 4.77 MHz)
 
 Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea.
 
-⬆️ 134 • 💬 367 • 16h ago • [NOEMA](https://www.noemamag.com/the-mythology-of-conscious-ai/)
+⬆️ 164 • 💬 456 • 21h ago • [NOEMA](https://www.noemamag.com/the-mythology-of-conscious-ai/)
 
 ---
 
@@ -253,7 +245,7 @@ Why consciousness is more likely a property of life than of computation and why 
 
 Legislation and highest-court decisions of the EU, seven European countries and the European Court of Human Rights, from the institutions that publish them, in one API and MCP server built for search and AI.
 
-⬆️ 132 • 💬 31 • 21h ago • [Pandex](https://www.pandex.io)
+⬆️ 139 • 💬 33 • 1d ago • [Pandex](https://www.pandex.io)
 
 ---
 
@@ -265,19 +257,19 @@ I asked 65 AIs from 30 companies the questions people ask them every day, 127,91
 
 ---
 
-**[Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://news.ycombinator.com/item?id=50564366)**
+**[A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://news.ycombinator.com/item?id=50603845)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+We have AI at home! Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it.
 
-⬆️ 115 • 💬 258 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=lwfewYL7X0o)
+⬆️ 122 • 💬 39 • 2h ago • [gpupartner.com](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 
 ---
 
-**[AI Supply Chain Security: What Canary Tokens Found](https://news.ycombinator.com/item?id=50596511)**
+**[AI is becoming a disaster for the climate](https://news.ycombinator.com/item?id=50598961)**
 
-We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.
+Two new studies reveal the exploding carbon emissions of the AI industry, while Silicon Valley pushes to kill communities’ means of protesting data centers and the impacts on human health mount.
 
-⬆️ 91 • 💬 21 • 13h ago • [Dragos](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
+⬆️ 97 • 💬 42 • 11h ago • [bloodinthemachine.com](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the)
 
 ---
 
@@ -285,23 +277,33 @@ We seeded two million AI prompts with canary tokens and found three provider bre
 
 ## YouTube Videos: "ai"
 
+**[It Happened... The AI Bubble Just Cracked (Worst Week For AI Ever)](https://www.youtube.com/watch?v=_4NZedIB55o)**
+
+AI just had its best week and its worst week at the same time. Anthropic went public at nearly $2 trillion while protesters chanted ...
+
+📺 AI Revolution
+
+👁️ 41K • 👍 656 • 💬 88 • ⏱️ 14:05 • 22h ago
+
+---
+
+**[OpenAI Warns AI Could Take Over Within 12 Months](https://www.youtube.com/watch?v=Dx_oAiLIK1E)**
+
+Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Learn AI With Me For Free ...
+
+📺 TheAIGRID
+
+👁️ 63K • 👍 853 • 💬 264 • ⏱️ 29:39 • 16h ago
+
+---
+
 **[Since last year, we asked: “What if AI solved the Riemann Hypothesis?”](https://www.youtube.com/watch?v=zqzk43bSdDI)**
 
 Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement by Alessandro Masullo on his ...
 
 📺 3Blue1Brown
 
-👁️ 1.6M • 👍 30K • 💬 3K • ⏱️ 13:39 • 16h ago
-
----
-
-**[How to Make AI Short Films Better than 99% of People](https://www.youtube.com/watch?v=siZcUPnoRE4)**
-
-Create Your Own AI Short Films https://tolt.link/robo-shortfilms Sign up to OpenArt & Get my VIP Package for FREE ...
-
-📺 Roboverse
-
-👁️ 4K • 💬 1 • ⏱️ 19:27 • 2h ago
+👁️ 2.0M • 👍 34K • 💬 4K • ⏱️ 13:39 • 21h ago
 
 ---
 
@@ -311,57 +313,37 @@ Ryan Christian of Vals.ai and Joe Lonsdale discuss the Vals RSI index, which pro
 
 📺 Joe Lonsdale
 
-👁️ 49K • 👍 489 • 💬 93 • ⏱️ 7:00 • 2d ago
+👁️ 58K • 👍 537 • 💬 103 • ⏱️ 7:00 • 2d ago
 
 ---
 
-**[AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary](https://www.youtube.com/watch?v=2I4qMBiK6hg)**
+**[Jan Local AI in Linux &amp; Windows](https://www.youtube.com/watch?v=mzrrVhgWTq4)**
 
-Artificial Intelligence is permeating our everyday lives at breathtaking speed. It is taking on more tasks that were previously the ...
+Jan local AI installation and demos. Video mainly runs the Jan Desktop client in Linux (Ubuntu), but also includes installation and ...
 
-📺 DW Documentary
+📺 ExplainingComputers
 
-👁️ 404K • 👍 4K • 💬 599 • ⏱️ 1:28:52 • 1d ago
-
----
-
-**[AI Is Getting Intelligent. But Not How You Think](https://www.youtube.com/watch?v=-MiM5xfAe2c)**
-
-Thanks to Mammouth AI for sponsoring this video: https://mammouth.ai No one really knows how AI works. Scientists are figuring it ...
-
-📺 Sabine Hossenfelder
-
-👁️ 332K • 👍 7K • 💬 990 • ⏱️ 6:51 • 1d ago
+👁️ 54K • 👍 3K • 💬 248 • ⏱️ 24:16 • 9h ago
 
 ---
 
-**[AI Job Interviewer vs. Santa (Full Version)](https://www.youtube.com/watch?v=uXrxSu-sJG0)**
+**[How to Make Long AI Videos with Consistent Characters (2026)](https://www.youtube.com/watch?v=dx05ivXQ4Ko)**
 
-Santa has a job interview with AI Karen… and she's definitely putting him on the naughty list Watch Santa try to convince ...
+Create Your Own 2D Cartoon Animations https://higgsfield.ai?fpr=ai&fp_sid=isa Sign Up to Higgsfield & Get My AI Kit for ...
 
-📺 Nick Reid
+📺 Isa does AI
 
-👁️ 94K • 👍 2K • 💬 393 • ⏱️ 8:25 • 2d ago
-
----
-
-**[Big Short Investor: Is the AI Bubble About to Burst? - Steve Eisman](https://www.youtube.com/watch?v=hkdcESS5uMw)**
-
-Triggernometry is proudly independent. Thanks to the sponsors below for making that possible: - Venice gives you the best AI ...
-
-📺 Triggernometry
-
-👁️ 302K • 👍 4K • 💬 2K • ⏱️ 1:26:10 • 23h ago
+👁️ 7K • 💬 1 • ⏱️ 10:10 • 8h ago
 
 ---
 
-**[How the U.S. Economy Is Tied to A.I.](https://www.youtube.com/watch?v=ZEYtG84Sf1w)**
+**[GTA 6 Needed 1,000 Devs... One 20-Year-Old Used 250 AI Agents Instead! 🤯](https://www.youtube.com/watch?v=H8cdQs6GGBs)**
 
-Ben Casselman, our chief economics correspondent, explains how A.I. has become a huge piece of the U.S. economy and how it ...
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://join.switchit.app/YT ...
 
-📺 The New York Times
+📺 Vaibhav Sisinty
 
-👁️ 726 • 👍 56 • 💬 2 • ⏱️ 3:00 • 30m ago
+👁️ 30K • 👍 937 • 💬 11 • ⏱️ 1:37 • 12h ago
 
 ---
 
@@ -371,17 +353,27 @@ Get $50 in free credits with AssemblyAI https://www.assembly.ai/mo (no credit ca
 
 📺 Mo Bitar
 
-👁️ 97K • 👍 4K • 💬 652 • ⏱️ 12:23 • 7h ago
+👁️ 177K • 👍 5K • 💬 846 • ⏱️ 12:23 • 12h ago
 
 ---
 
-**[&#39;We&#39;re seeing in real time the effects that AI is going to have on cybersecurity&#39;, expert says](https://www.youtube.com/watch?v=x70CiWBG_Ps)**
+**[AI Is Getting Intelligent. But Not How You Think](https://www.youtube.com/watch?v=-MiM5xfAe2c)**
 
-FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the Brookings Institution, also former Director for ...
+Thanks to Mammouth AI for sponsoring this video: https://mammouth.ai No one really knows how AI works. Scientists are figuring it ...
+
+📺 Sabine Hossenfelder
+
+👁️ 373K • 👍 8K • 💬 1K • ⏱️ 6:51 • 1d ago
+
+---
+
+**[&quot;Where do we go next?&quot; Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English](https://www.youtube.com/watch?v=fvN_vCRuBec)**
+
+Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, one of maths' $1 million ...
 
 📺 FRANCE 24 English
 
-👁️ 78K • 👍 243 • 💬 57 • ⏱️ 9:17 • 2d ago
+👁️ 307K • 👍 2K • 💬 492 • ⏱️ 6:17 • 9h ago
 
 ---
 
@@ -395,7 +387,7 @@ FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the
 
 `image-text-to-text` `26.4B`
 
-⬇️ 23,543 • ❤️ 4,550 • 19h ago
+⬇️ 23,543 • ❤️ 4,948 • 1d ago
 
 ---
 
@@ -405,7 +397,7 @@ FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the
 
 `image-text-to-text` `26.1B`
 
-⬇️ 805,993 • ❤️ 818 • 13h ago
+⬇️ 805,993 • ❤️ 873 • 19h ago
 
 ---
 
@@ -415,7 +407,7 @@ FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the
 
 `audio-to-audio`
 
-⬇️ 0 • ❤️ 598 • 8d ago
+⬇️ 0 • ❤️ 632 • 8d ago
 
 ---
 
@@ -425,17 +417,7 @@ FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the
 
 `image-text-to-text` `220.3B`
 
-⬇️ 6,617 • ❤️ 596 • 3d ago
-
----
-
-**[FastFrames-L](https://huggingface.co/apple/FastFrames-L)**
-
-*Apple*
-
-`text-to-video`
-
-⬇️ 0 • ❤️ 520 • 2d ago
+⬇️ 6,617 • ❤️ 620 • 3d ago
 
 ---
 
@@ -445,17 +427,7 @@ FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the
 
 `image-text-to-text`
 
-⬇️ 2,831 • ❤️ 970 • 1d ago
-
----
-
-**[Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)**
-
-*higurashi*
-
-`audio-to-audio` `5.3B`
-
-⬇️ 8,608 • ❤️ 865 • 9d ago
+⬇️ 2,831 • ❤️ 991 • 1d ago
 
 ---
 
@@ -465,7 +437,17 @@ FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the
 
 `image-text-to-text` `26.1B`
 
-⬇️ 129,693 • ❤️ 426 • 1d ago
+⬇️ 129,693 • ❤️ 476 • 1d ago
+
+---
+
+**[Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)**
+
+*higurashi*
+
+`audio-to-audio` `5.3B`
+
+⬇️ 8,608 • ❤️ 892 • 9d ago
 
 ---
 
@@ -475,7 +457,7 @@ FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the
 
 `depth-estimation`
 
-⬇️ 0 • ❤️ 252 • 2d ago
+⬇️ 0 • ❤️ 281 • 2d ago
 
 ---
 
@@ -485,7 +467,17 @@ FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,297,396 • ❤️ 20,857 • 15d ago
+⬇️ 6,297,396 • ❤️ 20,884 • 15d ago
+
+---
+
+**[SenseNova-Loop-9B](https://huggingface.co/sensenova/SenseNova-Loop-9B)**
+
+*SenseNova*
+
+`image-text-to-text` `9.7B`
+
+⬇️ 1,863 • ❤️ 533 • 2d ago
 
 ---
 
@@ -499,9 +491,23 @@ FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the
 
 PaperOrchestra is a multi-agent framework that converts unstructured research materials into complete LaTeX manuscripts with literature synthesis and visual elements, outperforming existing autonomous writing systems in human evaluations.
 
-▲ 12 • 💬 0 • ⭐ 5,792 • 7mo ago
+▲ 12 • 💬 0 • ⭐ 5,916 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05018) • [💻 code](https://github.com/google-research/paper-orchestra) • [🔗 project](https://yiwen-song.github.io/paper_orchestra/)
+
+---
+
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+
+🏢 BAIDU
+
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+
+▲ 106 • 💬 7 • ⭐ 32,005 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -513,7 +519,7 @@ PaperOrchestra is a multi-agent framework that converts unstructured research ma
 
 A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.
 
-▲ 33 • 💬 3 • ⭐ 444 • 3d ago
+▲ 34 • 💬 3 • ⭐ 444 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.26603) • [💻 code](https://github.com/apple-aiml-research/ml-depth-pro-2) • [🔗 project](https://apple-aiml-research.github.io/ml-depth-pro-2/)
 
@@ -525,7 +531,7 @@ A single scalable network estimates dense metric depth for images and video at n
 
 Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.
 
-▲ 150 • 💬 4 • ⭐ 1,237 • 9d ago
+▲ 150 • 💬 4 • ⭐ 1,299 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.18397) • [💻 code](https://github.com/RainBowLuoCS/Gamer) • [🔗 project](https://mihoyo-gamer.github.io/)
 
@@ -539,9 +545,21 @@ Gamer is a generalist agent framework that integrates perception, memory, and mu
 
 TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.
 
-▲ 21 • 💬 2 • ⭐ 7,926 • 1mo ago
+▲ 21 • 💬 2 • ⭐ 7,948 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.22732) • [💻 code](https://github.com/microsoft/TokenEconomizer) • [🔗 project](https://tokeneconomizer.github.io/)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 169 • 💬 6 • ⭐ 123,502 • 23mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -553,21 +571,9 @@ TokenEconomizer reduces recurring token costs of coding agents across sequential
 
 This unified foundation model enables the recovery of dense geometry, camera poses, and object tracking from diverse, uncalibrated observations in 4D scenes using a shared geometry and motion branch architecture.
 
-▲ 18 • 💬 2 • ⭐ 415 • 5d ago
+▲ 20 • 💬 2 • ⭐ 429 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.23144) • [💻 code](https://github.com/yyfz/Pi4) • [🔗 project](https://yyfz.github.io/pi4)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 169 • 💬 6 • ⭐ 123,423 • 23mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -579,23 +585,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.
 
-▲ 70 • 💬 4 • ⭐ 24,703 • 1mo ago
+▲ 71 • 💬 4 • ⭐ 24,775 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2610.14224) • [💻 code](https://github.com/google-research/harness2) • [🔗 project](https://harness2.github.io/)
-
----
-
-**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)**
-
-*Yu Lin, Yiming Wang, Runyuan Cai et al. (5 authors)*
-
-🏢 Edge0
-
-Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.
-
-▲ 37 • 💬 9 • ⭐ 12,196 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.18063) • [💻 code](https://github.com/Edge0-AI/edge0)
 
 ---
 
@@ -634,7 +626,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 20.1k • 🔱 1.2k • 7d ago
+⭐ 20.3k • 🔱 1.2k • 7d ago
 
 ---
 
@@ -644,7 +636,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 12.1k • 🔱 1.8k • 3h ago
+⭐ 12.2k • 🔱 1.8k • 8h ago
 
 ---
 
@@ -654,7 +646,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 9.6k • 🔱 2.2k • 1h ago
+⭐ 9.6k • 🔱 2.2k • 5h ago
 
 ---
 
@@ -684,7 +676,7 @@ The AI-native engine for teams and their agents. Multi-harness, multi-agent, sel
 
 `JavaScript` `agent-harness` `agent-orchestration` `agent-workflows` `ai-agents` `ai-workflows`
 
-⭐ 6.8k • 🔱 539 • 2h ago
+⭐ 6.8k • 🔱 541 • 10m ago
 
 ---
 
@@ -694,7 +686,7 @@ A library of behaviors for agents to build the next generation of user interface
 
 `TypeScript` `accessibility` `agent` `agents` `ai` `aria`
 
-⭐ 6.5k • 🔱 233 • 5h ago
+⭐ 6.5k • 🔱 235 • 4h ago
 
 ---
 
@@ -704,17 +696,7 @@ A library of behaviors for agents to build the next generation of user interface
 
 `TypeScript` `adversarial-ai` `ai-security` `android-security` `binary-protection` `claude-code`
 
-⭐ 6.4k • 🔱 796 • 13h ago
-
----
-
-**[modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)**
-
-🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.
-
-`Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
-
-⭐ 5.0k • 🔱 112 • 10h ago
+⭐ 6.4k • 🔱 796 • 18h ago
 
 ---
 
@@ -724,7 +706,17 @@ Turn an old Android phone into a customizable desk panel and touch control deck 
 
 `JavaScript` `android` `claude-code` `codex` `dashboard` `desk-panel`
 
-⭐ 4.9k • 🔱 616 • 2m ago
+⭐ 5.0k • 🔱 629 • 47m ago
+
+---
+
+**[modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)**
+
+🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.
+
+`Python` `ai-agent` `ai-assistant` `chatbot` `claude` `computer-use`
+
+⭐ 5.0k • 🔱 112 • 4h ago
 
 ---
 

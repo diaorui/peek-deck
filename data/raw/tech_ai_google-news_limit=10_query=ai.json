@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "headline": "Looking for the Formula to Stop an Apocalypse",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
-      "pub_date": 1795288311.0,
-      "article_url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVdPMjdyb0d3TFdwd1Z3UFpTclNLd2ZBTG85dndEU0JFTk95UHNnNlM3ZHZkajZ3MUh2dFdlR0pDYkF5QkpLLXhsSnFPTzAxbTg1NDk4a21kUzRMWC01YWpjbFlMeURCQXh5Ym1LOXBqRlNsX2JfWjluQW0zNEJKVDlUM2VfSmVrUVVWWm1uRlN4VW8tSzB3c3dR?oc=5",
+      "pub_date": 1795350466.0,
+      "article_url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Hacks, AI and conspiracy theories: why are we having so many outages? | Technology",
+      "headline": "Anthropic Mathematician Claims to Have Solved Math\u2019s Most Famous Problem",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
+      "pub_date": 1795211193.0,
+      "article_url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why I won\u2019t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnpqZEFCdFN6ajFQM0JERXJuOE12Yk5TZ29QTlRLdWVnNzRRRE9ZQmlWWXh5dE1fcGhKS2J4VWhSTlBjRUVweTJrVkI0SWZCeGltUFF6UzN5bDJOWlkzb1B5eUhrSnJEUUxaNXdwTDZvUGZLNm8zbnNLSDAtb3FFNGkzNjRPTVF6VXlSMlB2eFJqeWszRFNuSGJFSUVrMjlEQ0gwdW5wX1lQMHM?oc=5",
-      "pub_date": 1795327200.0,
-      "article_url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-      "image": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cc4a06a36f029168cf89081de8277a0",
-      "description": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world\u2019s systems are under attack"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHkwWmNJVlBPbUQ1aHlSaHRPUnZMLXMybmh5YUJmR202YXN4anREcC1DNk8tdklNMXFPRXZSZ0JPSzBROGtna0VVNWVwX0ZVakY2RGZDNXFsN0RGQlUtemVaekM1VE1pOVE4bmtaWjBlVGZwQUt6SmNDV3luRzdiX3Q4WmFwOHZyeUhvM3JBU0xnSXU5S2Y5SlFmZ0ZWQ3owd3V0TkdMSWEzd1Bhck50T1RlMEJrR3NLX0FpTm9pbU9vZw?oc=5",
+      "pub_date": 1795345200.0,
+      "article_url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+      "image": "https://i.guim.co.uk/img/media/df6c16bf913288657abe83afff8969abdd383bad/581_0_4307_3445/master/4307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=91ea4a4ff3ca2da76a016f63e3049ab6",
+      "description": "I believe human judgment remains essential"
+    },
+    {
+      "headline": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5",
+      "pub_date": 1795374051.0,
+      "article_url": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/878a87ac32dd49f71b772a375cb32854e70f9088bcf0e2e9ad923b794041a1a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F9bc81fa1-603d-4a4e-8b90-9ce220d997f5",
+      "description": "Anthropic's public debut did little to calm the stock market as the AI trade unravels."
+    },
+    {
+      "headline": "Investors Brave Stock Market \u2018Fragility\u2019 as AI Trade Falters",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnVJSXZOc19yY1dPSG12MGpNT29BU3g1X1c2TjliWWE4V0tGejk1cWdlRUJaZUI5bmhyT0RFTVZlWDNidmEwX01XYU1kT3ZVdFlVX2YzTGZqQnJEdlBVeEhZQTJXT2JmNkdWZ1J3b3FQeTh2N3VvWmJQNFMweEJpV3NhbEkxWGVQWUN4NmZsOXNHOHJWZE1VUUFXNHlRUHliakRwakRKbTl4ZDZYUUE?oc=5",
+      "pub_date": 1795359600.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "3 AI Hardware Stocks Down More Than 30% From Their Records to Buy Now and Hold Through 2030",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY0V1aHFOOFY0TlZaZXJIZGxBdkhEMnVpcmpBd2dXdklYTnlGRnZUbjFWZFVRaURhTGltek1aeUg4Rk56OFZVNHJjZk9PeFpfcGhEeU9zV285Nm1TM2ZCaW11OFZYbXgwWnVRYzNSQzdmcGIyR1hIWkNrYUZ4ektfYXJPa2tYcUMzSGtpZ2NBaEZxX1k?oc=5",
+      "pub_date": 1795384982.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/3-ai-hardware-stocks-down-220302382.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e99574e363b225b98388226a0a76db2b3e75b25889f9475aeb52d97adf80e831/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F87a8082dd39920f48392b0c6f8db5727.jpg",
+      "description": "Each of these AI suppliers sits well below its record close. Has data center demand actually cooled that much?"
+    },
+    {
+      "headline": "Trump\u2019s AI Chip Crackdown Inflicts Collateral Damage Across Asia",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXp0ODZqcDNzanpGNkNMTmsxMk93OXpvU2IzU1NKcFkteXdZcXdSM3dKM0lZc3Z0T3lSMXR4UGJ3enY5LWZVdnR6NlBGZENCcDNJYngxMkxKdFVzajN4VlZvMTg3X09vUHlNSFZEZEJ0M0NvSngxdlVjNDQ2OEhyaXYtenB5SVJ3T2tjemlPZjI0WjBTVC1RR0tRY0t3cDZuUDlZal85OVQxRjhiUlg2LV9uZV9yZWN1cng4dkZxNWxkM2F3ZlhpbA?oc=5",
+      "pub_date": 1795384813.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Perplexity and Intelligence",
       "source": "OpenAI",
       "source_url": "https://openai.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5",
-      "pub_date": 1795367535.0,
+      "pub_date": 1795374761.0,
       "article_url": "https://openai.com/index/perplexity-and-intelligence/",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
       "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
     },
     {
-      "headline": "Elon Musk warns data center delays could leave AI companies short on cash: 'Going to be nuts'",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHlWLTdIcTV3OGZTb1Bpb1phbGJwXzdGQmRtc2MxSnZPaEgyN3ZaZmt2OHIxQ3k4OUdCQU1DLUhQTnRmNGxkVWJSU0hWdWVvSWF6R21ZbTh4Q1owZC1USFhiTlFMLVBZN2Z6Y3g5WXdxRHZuYkViRlFsVENOZzZMdTNMVTdiSjdkUDI1QTFnNVJBR213Qml6OUMzME53YkRo?oc=5",
-      "pub_date": 1795369740.0,
-      "article_url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
-      "image": "https://i.insider.com/6b031a02d6c5d341c9b4c053?width=1200&format=jpeg",
-      "description": "Elon Musk's warning of a \"cash shortage\" comes on the heels of an intense market sell-off in AI and tech."
-    },
-    {
-      "headline": "As AI detects flaws in computer systems, is it causing more tech outages and disruptions?",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3V6c1ZoWkw5RzJuZEFSdHJkby1RMnVtc29rMjZxcDRxV0Q1YVRLX0VZY1lLN1hJclpneEp5NlA1amZuWUNQVkVEWUo0cmtfU3g0LVNkSV9FYU9TQlEycU5LdWFRVXpSbnlEd1JTTGlZbnBOdDNhSDlHTFZhcUdxSFRpakZpYWRjY1M0RGc1X1hiR1ZtZldHN1NYOEtLSTNpVkphbF9fdmFYa1RUU3V1ak5sWm0wZ19XT0tES0EzOWw?oc=5",
-      "pub_date": 1795367618.0,
-      "article_url": "https://www.pbs.org/newshour/nation/as-ai-detects-flaws-in-computer-systems-is-it-causing-more-tech-outages-and-disruptions",
+      "headline": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5",
+      "pub_date": 1795376454.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
       "image": null,
       "description": null
     },
     {
-      "headline": "In China\u2019s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXQ2YmRXMWcxSG5FQ0s4LXBFNnZwb3A2ZVVXQkFsLUFKcXI3RjJDSnRsakI5V3JzcXNFMFhac2x0d1M4S1BfOUxhT2hHN293aXlNd3RHSTUyYTZCVzRPV0V0eUdtS05TaUhVUV9VSTlhN0lXTkd4ZEYxNGI3d2llTg?oc=5",
-      "pub_date": 1795323675.0,
-      "article_url": "https://www.cnn.com/2026/11/22/business/trump-xi-apec-tech-rivalry-intl-hnk",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2305282267.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Neither Xi or Trump was keen to dredge up the Nvidia scandal threatening a delicate detente between the world\u2019s two largest economies."
-    },
-    {
-      "headline": "AI is being used to clone real people's videos",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wUlBsck41bHU0NllubURTYThWQmRwOXdtaWxXMjBTRHBrUFlOaDFpcWUyaWtxT1Z5emVEekJnbnVJMmF4NHpXWF9uVmVaUVFQc1ZBQTBHWlZSQ2s?oc=5",
-      "pub_date": 1795323638.0,
-      "article_url": "https://www.bbc.com/news/articles/cm7527kp4qrpo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ddf0/live/25e92f10-e4f7-11f1-99a1-253766e7ad8b.jpg",
-      "description": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters."
-    },
-    {
-      "headline": "John Kennedy: If Howard Lutnick is giving AI chips away to China, \u2018he needs to stop\u2019",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd3RQWDVDYWtxQmpmRVZXR1BEcll3SzJ3SkxDdENvTHdncGozUlFWcGxKQ3l5eFlSTjE3dVdId1h5WGJDejVWdkh3c2lDSks0dDlHSFhUb0pXd201ekFycVRIQlVSOHhGa1N5R0tJQ3ZxQ3RRTEw4QVV4TFZucFg3UU9wcU1KSUdNc3JiUWt2WGRoNTBvOWg0el8zTFdOT0c5UFZLN2RFUWNrTDJKX3JaN1BzSzV0NzVIZG0wakluR2dnbEhYT2JmV3N2VER5UE96dTFpMQ?oc=5",
-      "pub_date": 1795366639.0,
-      "article_url": "https://www.nbcnews.com/meet-the-press/video/john-kennedy-if-howard-lutnick-is-giving-ai-chips-away-to-china-he-needs-to-stop-273979973777",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1795358542795_mtp_clip_kennedylutnick_261122_S3_1920x1080-xv7t64.jpg",
-      "description": "Sen. John Kennedy (R-La.) says on Meet the Press he wants answers from Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick amid national security concerns and scandals involving Nvidia\u2019s former CEO Jensen Huang."
-    },
-    {
-      "headline": "Michael Burry warns AI stocks mirror 1929 and 2000 crashes \u2014 and singles out Nvidia's risky deals",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUppLWR4d2dnRV9rVHBJVTRhWlpVSjBWUWM2T2ZfeFZOeGVHYk13LUY0T1ZNX1M1VTMxUWlkV0s3ZGhScHhJZ2ZaTUVCSm9kZEd2Qm9Bb3BxczJmVW5mQng2eGZOUll6T0xQb2VVQlhDdTRqT3Z2SzlRR3R2R0lUdFFIVDVFR0kzSnhoaWxQMEZobERjN3JiZzVR?oc=5",
-      "pub_date": 1795213800.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-ai-stocks-223000286.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/588e3012a5ae4782e545e41ea3a0e2c3526f3f2ebdce8a1f838510dd367b1a91/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F6574fc4bd73083463c8be2aec2c32e12.jpg",
-      "description": "Was Burry right about the \u201cAI bubble?\u201d Find out what \u201cThe Big Short\u201d superinvestor is saying about the AI trade and why he thinks the tech wreck isn\u2019t over."
-    },
-    {
-      "headline": "Analysis | Entitled and out of touch, AI CEOs are heading for a fall",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVE04c2JFeVQtdll3WmNoaW1ES3dYTzI2eFBXNEs1V2tjOE1pVlE1Tk1vRWl2WnkwY2dVYmxDbzJNaXVRWWs1OTZsRGJ5RGYxNktjZW43UThxUnNsOG5pamR2RjdVaUo3ajMwZDlYbWFXcnZjUzJ6VXJSekhmSnh0RWJqXzhfVXFyVC1kSVhMc0RBVlp3OUJXWS1CWW9OOGttSnRoSkxoWG5uemRi?oc=5",
-      "pub_date": 1795284000.0,
-      "article_url": "https://www.washingtonpost.com/business/2026/11/21/history-lesson-ai-ceos-alienate-americans-your-own-peril/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VL7X6E2RYHKLQXV7MJJ3RC5X6A_size-normalized.jpg&w=1440",
-      "description": "Americans tend to turn against out-of-touch CEOs, and a public reckoning on the tech industry could already be underway."
+      "headline": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+      "pub_date": 1795388999.0,
+      "article_url": "https://www.reuters.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-2026-11-22/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-22T18:15:29.319972+00:00"
+  "fetched_at": "2026-11-22T23:44:31.063075+00:00"
 }

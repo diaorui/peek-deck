@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-22T18:15:41.271136+00:00'
+updated: '2026-11-22T23:44:33.204635+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 22, 2026 at 18:15 UTC  
+**Last Updated:** November 22, 2026 at 23:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,566.13
+### $61,289.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -6.4%  
-**30d:** -25.0%  
-**90d:** -22.7%  
-**1y:** -30.2%  
+**24h:** +1.7%  
+**7d:** -5.6%  
+**30d:** -24.3%  
+**90d:** -22.0%  
+**1y:** -29.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1219.64B
+**Market Cap:** $1231.49B
 Rank #1
 
-**Circulating Supply:** 20,115,825 BTC
+**Circulating Supply:** 20,115,946 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--51.9%
+-51.4%
 
 **All-Time Low:** $67.81
-+89323.4%
++90180.2%
 
 ---
 
@@ -103,7 +103,7 @@ Congrats everyone.
 
 **[bitcoin will be 170k-200k in sep 2029](https://www.reddit.com/r/Bitcoin/comments/1xx3wds/bitcoin_will_be_170k200k_in_sep_2029/)**
 
-6d ago
+7d ago
 
 ---
 
@@ -155,23 +155,37 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
+**[The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over](https://finance.yahoo.com/markets/commodities/articles/great-cash-grab-crashing-gold-094952865.html)**
+
+The CME Group's FedWatch tool showed traders are pricing in an 88.6% chance of a Fed rate hike at its upcoming December meeting, making liquidity tighter.
+
+Yahoo Finance • 13h ago
+
+---
+
 **[Bitcoin rises after falling to two-year low](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)**
 
 Reuters • 1d ago
 
 ---
 
-**[The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over](https://finance.yahoo.com/markets/commodities/articles/great-cash-grab-crashing-gold-094952865.html)**
+**[Can Bitcoin Still Reach $1 Million by 2035?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-still-reach-1-million-215257041.html)**
 
-The CME Group's FedWatch tool showed traders are pricing in an 88.6% chance of a Fed rate hike at its upcoming December meeting, making liquidity tighter.
+Bitcoin has slid more than half from its peak, ETF money is leaving, and the Fed keeps tightening. Yet bulls still cling to a seven-figure dream, and one checkpoint in 2027 could decide whether it survives.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Trump’s Crypto Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/11/22/trumps-crypto-nightmare-is-suddenly-coming-true/)**
 
-Forbes • 5h ago
+Forbes • 11h ago
+
+---
+
+**[Bitcoin’s quantum threat goes beyond code to custodians, bridges, and 6 million coins](https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins)**
+
+CoinDesk • 9h ago
 
 ---
 
@@ -179,7 +193,7 @@ Forbes • 5h ago
 
 Which one of the world’s top cryptocurrencies is a better investment today?
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -187,13 +201,13 @@ The Motley Fool • 23h ago
 
 Crypto exchange Kraken said it would honor trades executed during a sharp selloff across its Canadian-dollar markets that briefly pushed Bitcoin to the equivalent of about $17,000 on Saturday.In a statement, Kraken said its Canadian-dollar trading pairs experienced heavy selling pressure starting a…
 
-TradingView • 8h ago
+TradingView • 14h ago
 
 ---
 
-**[Bitcoin struggles below $60,000 as mining profits plunge, security risks grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790)**
+**[Rise of scams using bitcoin kiosks prompts Michigan bills to outlaw them](https://www.detroitnews.com/story/news/local/michigan/2026/11/22/michigan-bitcoin-crypto-scam-kiosks-bills-ban/92748599007/)**
 
-Investing.com • 10h ago
+The Detroit News • 5h ago
 
 ---
 
@@ -201,29 +215,13 @@ Investing.com • 10h ago
 
 Bitcoin rebounded 11% from $55,130, but the Bitcoin outlook still depends on how price behaves near $62,000-$62,640. Here's the Bitcoin analysis traders and…
 
-investingLive • 5h ago
+investingLive • 10h ago
 
 ---
 
-**[Bitcoin faces a quantum security challenge with roughly 6 million coins exposed](https://cryptobriefing.com/bitcoin-quantum-security-6-million-coins-exposed/)**
+**[Bitcoin struggles below $60,000 as mining profits plunge, security risks grow](https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790)**
 
-About 6 million BTC sit in quantum-exposed addresses as Bitcoin developers split over forced versus voluntary migration to new signatures.
-
-Crypto Briefing • 4h ago
-
----
-
-**[Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030?](https://247wallst.com/investing/cryptocurrency/2026/11/21/anthropic-is-now-worth-more-than-bitcoin-could-bitcoin-pass-it-by-2030/)**
-
-Anthropic's IPO made it worth more than Bitcoin. Could Bitcoin pass it by 2030? Here's what each side needs to happen.
-
-24/7 Wall St. • 1d ago
-
----
-
-**[Bitcoin's Downside Risk, Dogecoin's Support Level and More: This Week in Crypto](https://www.benzinga.com/crypto/cryptocurrency/26/11/63517033/bitcoin-dogecoin-ethereum-crypto)**
-
-Benzinga • 5h ago
+Investing.com • 16h ago
 
 ---
 
@@ -241,7 +239,7 @@ Benzinga • 5h ago
 
 Notes on mathematics and puzzles.
 
-⬆️ 7 • 💬 0 • 22h ago • [echo.ls](https://echo.ls/zden-level-halv/)
+⬆️ 7 • 💬 0 • 1d ago • [echo.ls](https://echo.ls/zden-level-halv/)
 
 ---
 
@@ -257,7 +255,7 @@ The alleged operator of defunct pirate streaming site Movie2K could walk out of 
 
 CVE-2026-117348 - Node stall through duplicate orphan announcements
 
-⬆️ 2 • 💬 0 • 4h ago • [Bitcoin Core](https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/)
+⬆️ 2 • 💬 0 • 9h ago • [Bitcoin Core](https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/)
 
 ---
 
@@ -313,63 +311,43 @@ Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Pot
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Everyone Is Wrong About Bitcoin](https://www.youtube.com/watch?v=EFOSYsuNTEo)**
-
-Bitcoin just fell as low as about $55600, down roughly 56% from its all-time high. Sentiment is horrendous, and the arguments ...
-
-📺 Joe Burnett
-
-👁️ 5K • 👍 346 • 💬 44 • ⏱️ 18:10 • 4h ago
-
----
-
 **[Bitcoin Crashed: But These 4 Signals Point To Epic Rebound (I Bought!)](https://www.youtube.com/watch?v=RkTY5ODdOfM)**
 
 Bitcoin and the crypto market crashed last week, and Gareth Soloway asks the question every crypto investor is facing right now: ...
 
 📺 Gareth Soloway
 
-👁️ 18K • 👍 3K • 💬 241 • ⏱️ 11:36 • 2h ago
+👁️ 113K • 👍 6K • 💬 469 • ⏱️ 11:36 • 7h ago
 
 ---
 
-**[Bitcoin Just Bounced and Surged Above $60K | Is the Bottom In?!](https://www.youtube.com/watch?v=X3OD9kYutCA)**
+**[Bitcoin SHORT SQUEEZE - Michael Saylor Just Signaled ANOTHER Bitcoin Buy](https://www.youtube.com/watch?v=h-4YRq3sPHg)**
 
-Bitcoin plunged to $55000 before staging a violent reversal above $60000, triggering a wave of short liquidations and raising one ...
+KALSHI: Unlock a $50 BONUS with just $25 in Crypto Perps Trading Volume: https://kalshi.com/p/bitcoinnewsalerts Bitcoin bears ...
 
-📺 Simply Bitcoin
+📺 Bitcoin News Alerts
 
-👁️ 27K • 👍 1K • 💬 133 • ⏱️ 10:09 • 17h ago
-
----
-
-**[WORST Crypto News Ever.... I’m In Trouble](https://www.youtube.com/watch?v=j58R4nsOlmo)**
-
-Unlock $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
-
-📺 Altcoin Daily
-
-👁️ 83K • 👍 3K • 💬 326 • ⏱️ 11:38 • 17h ago
+👁️ 592 • 👍 80 • 💬 5 • ⏱️ 15:51 • 1h ago
 
 ---
 
-**[Bitcoin Reclaims $60K. Bounce Or The BOTTOM?](https://www.youtube.com/watch?v=EfkMVLk0Fws)**
+**[Why Everyone Is Wrong About Bitcoin](https://www.youtube.com/watch?v=EFOSYsuNTEo)**
 
-Bitcoin just reclaimed $60K after hitting a 2-year low. Is this a dead cat bounce, or the start of the slow grind back to a bullish ...
+Bitcoin just fell as low as about $55600, down roughly 56% from its all-time high. Sentiment is horrendous, and the arguments ...
 
-📺 Digital Asset News
+📺 Joe Burnett
 
-👁️ 6K • 👍 335 • 💬 31 • ⏱️ 32:47 • 4h ago
+👁️ 22K • 👍 576 • 💬 65 • ⏱️ 18:10 • 9h ago
 
 ---
 
-**[&quot;If You Own BTC &amp; ETH, This Is Happening Faster Than Expected&quot;: Michael Saylor | BTC Price 2026](https://www.youtube.com/watch?v=WPVzWQc2doI)**
+**[Tom Lee :&quot;Important Warning To All Small Bitcoin &amp; Crypto Investors&quot; | BTC Price Update](https://www.youtube.com/watch?v=MuG-Medgnyk)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 246 • 💬 41 • ⏱️ 21:22 • 10h ago
+👁️ 11K • 👍 186 • 💬 30 • ⏱️ 24:06 • 6h ago
 
 ---
 
@@ -379,7 +357,37 @@ SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WE
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 281 • 💬 25 • ⏱️ 13:48 • 3h ago
+👁️ 10K • 👍 413 • 💬 40 • ⏱️ 13:48 • 9h ago
+
+---
+
+**[WORST Crypto News Ever.... I’m In Trouble](https://www.youtube.com/watch?v=j58R4nsOlmo)**
+
+Unlock $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
+
+📺 Altcoin Daily
+
+👁️ 95K • 👍 3K • 💬 335 • ⏱️ 11:38 • 23h ago
+
+---
+
+**[I CAN’T BELIEVE MY EYES... [bitcoin]](https://www.youtube.com/watch?v=WHSEW_yQ8MQ)**
+
+Is Bitcoin about to pull off the BIGGEST comeback nobody sees coming?! Crypto Twitter has NEVER been this bearish, ...
+
+📺 Crypto Love
+
+👁️ 4K • 👍 242 • 💬 44 • ⏱️ 7:56 • 6h ago
+
+---
+
+**[Bitcoin Just Bounced and Surged Above $60K | Is the Bottom In?!](https://www.youtube.com/watch?v=X3OD9kYutCA)**
+
+Bitcoin plunged to $55000 before staging a violent reversal above $60000, triggering a wave of short liquidations and raising one ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 1K • 💬 135 • ⏱️ 10:09 • 23h ago
 
 ---
 
@@ -389,27 +397,17 @@ Welcome back! ➡️ Trade on BTCC & 10% Deposit Bonus: https://aaronbtc.com/tra
 
 📺 Aaron Bennett
 
-👁️ 65K • 👍 994 • 💬 186 • ⏱️ 13:40 • 1d ago
+👁️ 66K • 👍 999 • 💬 186 • ⏱️ 13:40 • 1d ago
 
 ---
 
-**[Why Bitcoin and Gold Are Crashing Into the Biggest IPO Ever](https://www.youtube.com/watch?v=c2eQZWCEsWU)**
+**[&quot;If You Own BTC &amp; ETH, This Is Happening Faster Than Expected&quot;: Michael Saylor | BTC Price 2026](https://www.youtube.com/watch?v=WPVzWQc2doI)**
 
-Bitcoin and gold are crashing as Anthropic launches the biggest IPO in history, raising $81 billion and reaching a $2 trillion ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Simply Bitcoin
+📺 Crypto Nutshell
 
-👁️ 55K • 👍 2K • 💬 102 • ⏱️ 16:00 • 2d ago
-
----
-
-**[What Would It Take for Bitcoin to Hit $1 MILLION? | Anthony Pompliano](https://www.youtube.com/watch?v=7I0JqX0vkyo)**
-
-Meet Silvia — the AI agent custom-built for managing your personal finances. Connect your accounts, investments, and assets in ...
-
-📺 The Iced Coffee Hour Clips
-
-👁️ 83K • 👍 295 • 💬 117 • ⏱️ 8:55 • 2d ago
+👁️ 27K • 👍 275 • 💬 35 • ⏱️ 21:22 • 16h ago
 
 ---
 

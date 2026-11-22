@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin rises after falling to two-year low",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5",
-      "pub_date": 1795234200.0,
-      "article_url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,12 +15,42 @@
       "description": "The CME Group's FedWatch tool showed traders are pricing in an 88.6% chance of a Fed rate hike at its upcoming December meeting, making liquidity tighter."
     },
     {
+      "headline": "Bitcoin rises after falling to two-year low",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5",
+      "pub_date": 1795234354.0,
+      "article_url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Can Bitcoin Still Reach $1 Million by 2035?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmx3S0dNT1ZLSU1qRk1fVDRLc0xUbW5kVEpHNkRtLU1udkhNMjNMcmJnaDVaNUcxWVhkSUpnZUc4b2taTUU3dFExVDRNYmQtVERZRU5ndi14bklyMFNKaDFnSllEU2dTYkdIbGpQNHNJdVBCaEhVeUhwR3Axa3NEeE1kb3JSQ05lNGJfSm14ZnBTUFItbGJTU253?oc=5",
+      "pub_date": 1795384377.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-still-reach-1-million-215257041.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8bc68d92f79c8fc8eb52d71cbee3b49c8d01e6d9cb276b5a195c4130404566c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F18bfdec798c961fb34c06297ed5a0cd1.jpg",
+      "description": "Bitcoin has slid more than half from its peak, ETF money is leaving, and the Fed keeps tightening. Yet bulls still cling to a seven-figure dream, and one checkpoint in 2027 could decide whether it survives."
+    },
+    {
       "headline": "Trump\u2019s Crypto Nightmare Is Suddenly Coming True",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEdfUVMtY2hLZmlsX19wcTh2Yzdyczh3RDQySGt0T2VwSEZnSlFVZ0Q1U1N3NW5KSkdXenRWVTNYTldabUtmSWJRa2FzME5EZEwwb2NRNlFjTmJOUUlKSTF0S3o1TklCU2xxLWZPU2NXR2Rxbkp3MUctMTNDSG93RUFkNHYyU1R6eTdVWGx6QVJpWVcxU3U5SkZySEZ4Z2E0N3dTZmpB?oc=5",
       "pub_date": 1795351348.0,
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/22/trumps-crypto-nightmare-is-suddenly-coming-true/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin\u2019s quantum threat goes beyond code to custodians, bridges, and 6 million coins",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlBOW1KaWlxWXhWTGUzUWg2LTZiT2lRcU1rM3dFSDVTWVpDdGRLejd6dkhaN1pNY3picUtMUFdpTEhmWnRMZWtDbXpraHcxbi10eHRxdFhGYnhKWGd4bkNOZWNfbnA1WEc4ZXJyLUYwRnQ5NzhIc3Z4TFdsaEhLc09rN0FzODdEQWJseXp1c2pnaU5aQkh6c3liMmt1dTBQcXpqRU9wZzYzMU9fZXRIcDlUcnpFUEdINDJQRERmNVhQZVI0RWhXaA?oc=5",
+      "pub_date": 1795356000.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
       "image": null,
       "description": null
     },
@@ -55,12 +75,12 @@
       "description": "Crypto exchange Kraken said it would honor trades executed during a sharp selloff across its Canadian-dollar markets that briefly pushed Bitcoin to the equivalent of about $17,000 on Saturday.In a statement, Kraken said its Canadian-dollar trading pairs experienced heavy selling pressure starting a\u2026"
     },
     {
-      "headline": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ09fbUxodUkxLXZUNThtSzdZLXRyLUlQbDI3NVI0bzU0NDl0b1VMZWtrczNDMDFaWDZoeWx0QjhLSVh1MlNLdjJsU2QzNkFnZmVHZnpnYzBRVlhJT1Zkc0RzblFCNDUxN1g2a1IxcUxEY2xkWkxhMG1ENzNTeW5jU1hjc0RvV2RNRUFBNjFCQnVPdjN5TlYyUlc3MXc5WERvUnBxU2tROWd2Mlp0dVd6R1lpa0RTakN2YXp1cWx0RVY4QmxjRkdhOG5Sb0tMdw?oc=5",
-      "pub_date": 1795332731.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
+      "headline": "Rise of scams using bitcoin kiosks prompts Michigan bills to outlaw them",
+      "source": "The Detroit News",
+      "source_url": "https://www.detroitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1dDNldfQjYxemo3MGZtVTBBN3FjRGlLdUZOQ2dFei1qTkU0RjRsT3BUNG5nQUdTZFdxOUdDdDFtUEV3VUZ1bnYzZVB5TFBta0JObktoLTU4XzY2eWhGMzVMcnVOTkFCS1VNUXFQX2xQU01yTG9ZejZodnhoeDNSWndjSG1wbU1fSFFVbW5KNnZjcUxsQkVaN3dDQnFON2djZ0hYY3hpcDJhem5lRnZfbElEdEl2LW9hbDdnU1hVQzA?oc=5",
+      "pub_date": 1795372560.0,
+      "article_url": "https://www.detroitnews.com/story/news/local/michigan/2026/11/22/michigan-bitcoin-crypto-scam-kiosks-bills-ban/92748599007/",
       "image": null,
       "description": null
     },
@@ -75,36 +95,16 @@
       "description": "Bitcoin rebounded 11% from $55,130, but the Bitcoin outlook still depends on how price behaves near $62,000-$62,640. Here's the Bitcoin analysis traders and\u2026"
     },
     {
-      "headline": "Bitcoin faces a quantum security challenge with roughly 6 million coins exposed",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaFp4dU5nT3BoWkZJV2M5M1VMQU15cXZzeWVHSzlsWGFSelZmaHFSV3Zpb2tSektQT2xsb0dKS3hVdk84VmdhS3lwaV9Nc01JaFctSk5WYzJHbmFRQklXYWpCNl9OSjlhd1FxakhhX09HOHQ4dEo5ME9IYWhVVWt4ZDBR?oc=5",
-      "pub_date": 1795356290.0,
-      "article_url": "https://cryptobriefing.com/bitcoin-quantum-security-6-million-coins-exposed/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/22090440/library-bitcoin-faces-a-quantum-security-challenge-with-roughly--800x450.jpg",
-      "description": "About 6 million BTC sit in quantum-exposed addresses as Bitcoin developers split over forced versus voluntary migration to new signatures."
-    },
-    {
-      "headline": "Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDg1U09xcTFteUFDMWg5eUVCbUtLUFhmWEYzYnh6MmxWclEtXzFMY3JZLXhKeGYxaGdDNEpBNkRoMk41TmdRX20xdjRMUmZrd3pFTDc2RFZkSFNCcERoX0JtbkdWVjlHVUtRekY1UWhCX3J5M2h3eXdzZXlhdm9MN2h0OGhzWXlqYTBRd3ZrR19vSWhWb1dKaFdrUHY4SkM3QjVHckxBRk1yeW5xSy1meTlRZTVJQnNKMGVqRDFBR1VWQjhRTFZFVg?oc=5",
-      "pub_date": 1795275120.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/21/anthropic-is-now-worth-more-than-bitcoin-could-bitcoin-pass-it-by-2030/",
-      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1927658192-huge-licensed-scaled.jpg",
-      "description": "Anthropic's IPO made it worth more than Bitcoin. Could Bitcoin pass it by 2030? Here's what each side needs to happen."
-    },
-    {
-      "headline": "Bitcoin's Downside Risk, Dogecoin's Support Level and More: This Week in Crypto",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdEwybTdvR0xzOVNSZ0s0RGtha0k3SFpSUlB0LXZtN25pTmgzM0JNaHpnM2ZGQXNtaUlOeERvLVNud01IMXJjRlZmOVlsSHVid3hxd3VLUlBNWjB6OU9RVDBUQnJfeFI4MTNXZE5ZOHh6WnZHOFdzUnEyQUwyRHA0VDF0bmZVODdzd0xiLVRobDYzUi1WcmRJZ2V3?oc=5",
-      "pub_date": 1795352410.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63517033/bitcoin-dogecoin-ethereum-crypto",
+      "headline": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ09fbUxodUkxLXZUNThtSzdZLXRyLUlQbDI3NVI0bzU0NDl0b1VMZWtrczNDMDFaWDZoeWx0QjhLSVh1MlNLdjJsU2QzNkFnZmVHZnpnYzBRVlhJT1Zkc0RzblFCNDUxN1g2a1IxcUxEY2xkWkxhMG1ENzNTeW5jU1hjc0RvV2RNRUFBNjFCQnVPdjN5TlYyUlc3MXc5WERvUnBxU2tROWd2Mlp0dVd6R1lpa0RTakN2YXp1cWx0RVY4QmxjRkdhOG5Sb0tMdw?oc=5",
+      "pub_date": 1795332731.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-22T18:15:38.679999+00:00"
+  "fetched_at": "2026-11-22T23:44:16.244378+00:00"
 }
