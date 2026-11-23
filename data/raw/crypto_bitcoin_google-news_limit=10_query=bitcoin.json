@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin\u2019s quantum threat goes beyond code to custodians, bridges, and 6 million coins",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlBOW1KaWlxWXhWTGUzUWg2LTZiT2lRcU1rM3dFSDVTWVpDdGRLejd6dkhaN1pNY3picUtMUFdpTEhmWnRMZWtDbXpraHcxbi10eHRxdFhGYnhKWGd4bkNOZWNfbnA1WEc4ZXJyLUYwRnQ5NzhIc3Z4TFdsaEhLc09rN0FzODdEQWJseXp1c2pnaU5aQkh6c3liMmt1dTBQcXpqRU9wZzYzMU9fZXRIcDlUcnpFUEdINDJQRERmNVhQZVI0RWhXaA?oc=5",
+      "pub_date": 1795356000.0,
+      "article_url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -13,6 +23,36 @@
       "article_url": "https://finance.yahoo.com/markets/commodities/articles/great-cash-grab-crashing-gold-094952865.html",
       "image": "https://s.yimg.com/lo/mysterio/api/fb59b06d8244d6cb57909ce698b530d1cfdabb4cc9fad3d7d8f1c634be297488/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F7d50697c1d44182fc3dd28a1431192d1.jpg",
       "description": "The CME Group's FedWatch tool showed traders are pricing in an 88.6% chance of a Fed rate hike at its upcoming December meeting, making liquidity tighter."
+    },
+    {
+      "headline": "Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFRHSHp2V2lIcEtIMlBTNVVIM0JyVzNCZmMyV21NdzNVZlBOU3lRRm10TXVEeHZJZ1VzZHdPYlRQTWhwUkZBRTFObmlURmlFT2lFREJxXzVkZE1SWjZjMmpmWUtyRXdqOWs2ZWRBeUJJdkRKcU1UQnQwd3RxY1RKSXd2TDdvN0lJdzB5LUlndFVOSzNlRzgtTDN2cm1ObE96eU5GMXJrOXA0dGhheEI0VVdUZw?oc=5",
+      "pub_date": 1795411440.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-23/bitcoin-etf-exodus-gathers-pace-removing-key-source-of-support",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy's Bitcoin Stack Is 22% Underwater. Peter Schiff Says It's \u2018About to Blow Up'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0Z5ajU4VlR0YjNFRU95RXBObV9mWTcyakNmT2NYMEx4NkpJR0QxaXliMW1LakFsMmpfWHM2XzZjTF9RMm5xN0w2SEt4alJ2WEh5d3d0NzUwVWszZm9yXzZUa2RDcmZPOU1LbTBMWU5Ob210Rk5KeldXQ3JGbUU1clV1elpSbDBrZDVlakp5OTUzRXZVWEF1T3RCOFU5RjNQbFNJMA?oc=5",
+      "pub_date": 1795410360.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategys-bitcoin-stack-22-underwater-050628958.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d44723ffaf70fd422b237545f265ce0aa20218d30a3da117f4c6eb55eab96a96/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F5172c895efd5216fc9a9e791329d9daa.png",
+      "description": "Strategy says its net reserve is $35 billion with no Bitcoin pledged, as Bitcoin trades below the firm's average cost."
+    },
+    {
+      "headline": "Bitcoin Heads For Worst November Since 2018 As ETF Outflows Top $4 Billion",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWlOUXZUbU53Z2ZvZUhmWHpPWnotZjE5dG9ydzNCVkRkSS1KM3FXZlpxU19RVEg4MUU4d2tlQmwxTWdkWmcxNzVab3N0RjBGUkt4NW9SQlVMXzR3MEFjVGNPTTZnbFlEYVFLejZPWTJWa1FnbmpnYWF1ekdJRWFielZIZ0ZmaS1mZ1Bvb3cwV3RRYlBCaWd1RXlXT0RENFBX?oc=5",
+      "pub_date": 1795407960.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-heads-worst-november-since-042648269.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/81b67cd125d084cc20c1a764e6476663b13ad8e90a45ed489aa64384385a7dd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fef26ccb84512c3f2db8a9096ae06a5ad.jpg",
+      "description": "Peter Brandt flagged a possible short-term setup on Bitcoin's daily chart."
     },
     {
       "headline": "Bitcoin rises after falling to two-year low",
@@ -25,16 +65,6 @@
       "description": null
     },
     {
-      "headline": "Can Bitcoin Still Reach $1 Million by 2035?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmx3S0dNT1ZLSU1qRk1fVDRLc0xUbW5kVEpHNkRtLU1udkhNMjNMcmJnaDVaNUcxWVhkSUpnZUc4b2taTUU3dFExVDRNYmQtVERZRU5ndi14bklyMFNKaDFnSllEU2dTYkdIbGpQNHNJdVBCaEhVeUhwR3Axa3NEeE1kb3JSQ05lNGJfSm14ZnBTUFItbGJTU253?oc=5",
-      "pub_date": 1795384377.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-still-reach-1-million-215257041.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8bc68d92f79c8fc8eb52d71cbee3b49c8d01e6d9cb276b5a195c4130404566c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F18bfdec798c961fb34c06297ed5a0cd1.jpg",
-      "description": "Bitcoin has slid more than half from its peak, ETF money is leaving, and the Fed keeps tightening. Yet bulls still cling to a seven-figure dream, and one checkpoint in 2027 could decide whether it survives."
-    },
-    {
       "headline": "Trump\u2019s Crypto Nightmare Is Suddenly Coming True",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -43,26 +73,6 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/22/trumps-crypto-nightmare-is-suddenly-coming-true/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin\u2019s quantum threat goes beyond code to custodians, bridges, and 6 million coins",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlBOW1KaWlxWXhWTGUzUWg2LTZiT2lRcU1rM3dFSDVTWVpDdGRLejd6dkhaN1pNY3picUtMUFdpTEhmWnRMZWtDbXpraHcxbi10eHRxdFhGYnhKWGd4bkNOZWNfbnA1WEc4ZXJyLUYwRnQ5NzhIc3Z4TFdsaEhLc09rN0FzODdEQWJseXp1c2pnaU5aQkh6c3liMmt1dTBQcXpqRU9wZzYzMU9fZXRIcDlUcnpFUEdINDJQRERmNVhQZVI0RWhXaA?oc=5",
-      "pub_date": 1795356000.0,
-      "article_url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Better Buy: Bitcoin vs. Ethereum",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYU9FQnZ4bmhIdG83OWFETmpnQngtbmZZVWxTU2VfTzBiYW9vRFVnOC16Rmd5VmtOLXZzN0lWaXk1ZkdTSnZCQ19EdV9YdlY0a05EZ2ZWbUdId09XNjVjZWhrZUhYU0ZVTTk2QkRpOGRhWU5tSnJoZ3Z3eEs2QQ?oc=5",
-      "pub_date": 1795287302.0,
-      "article_url": "https://www.fool.com/investing/2026/11/21/better-buy-bitcoin-vs-ethereum/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F81c310820b44fb404c65a98415219bcc788a664e-3900x2000.jpg&w=1200&op=resize",
-      "description": "Which one of the world\u2019s top cryptocurrencies is a better investment today?"
     },
     {
       "headline": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
@@ -75,6 +85,16 @@
       "description": "Crypto exchange Kraken said it would honor trades executed during a sharp selloff across its Canadian-dollar markets that briefly pushed Bitcoin to the equivalent of about $17,000 on Saturday.In a statement, Kraken said its Canadian-dollar trading pairs experienced heavy selling pressure starting a\u2026"
     },
     {
+      "headline": "Better Buy: Bitcoin vs. Ethereum",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYU9FQnZ4bmhIdG83OWFETmpnQngtbmZZVWxTU2VfTzBiYW9vRFVnOC16Rmd5VmtOLXZzN0lWaXk1ZkdTSnZCQ19EdV9YdlY0a05EZ2ZWbUdId09XNjVjZWhrZUhYU0ZVTTk2QkRpOGRhWU5tSnJoZ3Z3eEs2QQ?oc=5",
+      "pub_date": 1795287302.0,
+      "article_url": "https://www.fool.com/investing/2026/11/21/better-buy-bitcoin-vs-ethereum/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F81c310820b44fb404c65a98415219bcc788a664e-3900x2000.jpg&w=1200&op=resize",
+      "description": "Which one of the world\u2019s top cryptocurrencies is a better investment today?"
+    },
+    {
       "headline": "Rise of scams using bitcoin kiosks prompts Michigan bills to outlaw them",
       "source": "The Detroit News",
       "source_url": "https://www.detroitnews.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.detroitnews.com/story/news/local/michigan/2026/11/22/michigan-bitcoin-crypto-scam-kiosks-bills-ban/92748599007/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin analysis: More volume, but less downside damage (possible dip?)",
-      "source": "investingLive",
-      "source_url": "https://investinglive.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkM5dlhxVzRpYndMNlBMT2g3Y2JVZGZmZjFMdHh3MjRfcHVHWVdkOVdmMkV1SzQ4RFJkaF9USE5FTlpEZEg2YS1tU3R4Y3Z4VVk4TU8yaW9WLUFrNEVvazBKa1NyOXdQZWRVRWFGeUkzeDhXRnowRjB6T21JcWhVY3BJWEY0LXY0RHVvTDE5NzhOVzRNWE5acG9oRkFTbTlmeFlKV2xHMjZlemtv?oc=5",
-      "pub_date": 1795352024.0,
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-analysis-more-volume-but-less-downside-damage-possible-dip/",
-      "image": "https://investinglive.com/cms/media/Processed/Categories/featured/bitcoin-analysis-more-volume-less-downside-featured-featured-1795351824.jpg?width=960&format=webp",
-      "description": "Bitcoin rebounded 11% from $55,130, but the Bitcoin outlook still depends on how price behaves near $62,000-$62,640. Here's the Bitcoin analysis traders and\u2026"
-    },
-    {
-      "headline": "Bitcoin struggles below $60,000 as mining profits plunge, security risks grow",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ09fbUxodUkxLXZUNThtSzdZLXRyLUlQbDI3NVI0bzU0NDl0b1VMZWtrczNDMDFaWDZoeWx0QjhLSVh1MlNLdjJsU2QzNkFnZmVHZnpnYzBRVlhJT1Zkc0RzblFCNDUxN1g2a1IxcUxEY2xkWkxhMG1ENzNTeW5jU1hjc0RvV2RNRUFBNjFCQnVPdjN5TlYyUlc3MXc5WERvUnBxU2tROWd2Mlp0dVd6R1lpa0RTakN2YXp1cWx0RVY4QmxjRkdhOG5Sb0tMdw?oc=5",
-      "pub_date": 1795332731.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-22T23:44:16.244378+00:00"
+  "fetched_at": "2026-11-23T06:05:43.964882+00:00"
 }

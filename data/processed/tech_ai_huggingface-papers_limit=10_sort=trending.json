@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2611.26603",
       "arxiv_url": "https://arxiv.org/abs/2611.26603",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26603.png",
-      "upvotes": 34,
+      "upvotes": 35,
       "num_comments": 3,
       "published_at": "2026-11-18T19:00:00.000Z",
       "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2611.18397",
       "arxiv_url": "https://arxiv.org/abs/2611.18397",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18397.png",
-      "upvotes": 150,
+      "upvotes": 157,
       "num_comments": 4,
       "published_at": "2026-11-12T19:00:00.000Z",
       "github_repo": "https://github.com/RainBowLuoCS/Gamer",
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2611.23144",
       "arxiv_url": "https://arxiv.org/abs/2611.23144",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.23144.png",
-      "upvotes": 20,
+      "upvotes": 21,
       "num_comments": 2,
       "published_at": "2026-11-16T19:00:00.000Z",
       "github_repo": "https://github.com/yyfz/Pi4",
@@ -168,7 +168,7 @@
       "num_comments": 0,
       "published_at": "2025-02-17T10:06:28.000Z",
       "github_repo": "https://github.com/microsoft/BitNet",
-      "github_stars": 42402,
+      "github_stars": 42425,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-22T23:44:05.659860+00:00"
+  "fetched_at": "2026-11-23T06:05:32.754145+00:00"
 }

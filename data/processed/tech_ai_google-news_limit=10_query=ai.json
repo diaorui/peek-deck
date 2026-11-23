@@ -5,76 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Looking for the Formula to Stop an Apocalypse",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVdPMjdyb0d3TFdwd1Z3UFpTclNLd2ZBTG85dndEU0JFTk95UHNnNlM3ZHZkajZ3MUh2dFdlR0pDYkF5QkpLLXhsSnFPTzAxbTg1NDk4a21kUzRMWC01YWpjbFlMeURCQXh5Ym1LOXBqRlNsX2JfWjluQW0zNEJKVDlUM2VfSmVrUVVWWm1uRlN4VW8tSzB3c3dR?oc=5",
-      "pub_date": 1795350466.0,
-      "article_url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic Mathematician Claims to Have Solved Math\u2019s Most Famous Problem",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
-      "pub_date": 1795211193.0,
-      "article_url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why I won\u2019t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHkwWmNJVlBPbUQ1aHlSaHRPUnZMLXMybmh5YUJmR202YXN4anREcC1DNk8tdklNMXFPRXZSZ0JPSzBROGtna0VVNWVwX0ZVakY2RGZDNXFsN0RGQlUtemVaekM1VE1pOVE4bmtaWjBlVGZwQUt6SmNDV3luRzdiX3Q4WmFwOHZyeUhvM3JBU0xnSXU5S2Y5SlFmZ0ZWQ3owd3V0TkdMSWEzd1Bhck50T1RlMEJrR3NLX0FpTm9pbU9vZw?oc=5",
-      "pub_date": 1795345200.0,
-      "article_url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
-      "image": "https://i.guim.co.uk/img/media/df6c16bf913288657abe83afff8969abdd383bad/581_0_4307_3445/master/4307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=91ea4a4ff3ca2da76a016f63e3049ab6",
-      "description": "I believe human judgment remains essential"
-    },
-    {
-      "headline": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5",
-      "pub_date": 1795374051.0,
-      "article_url": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/878a87ac32dd49f71b772a375cb32854e70f9088bcf0e2e9ad923b794041a1a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F9bc81fa1-603d-4a4e-8b90-9ce220d997f5",
-      "description": "Anthropic's public debut did little to calm the stock market as the AI trade unravels."
-    },
-    {
-      "headline": "Investors Brave Stock Market \u2018Fragility\u2019 as AI Trade Falters",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnVJSXZOc19yY1dPSG12MGpNT29BU3g1X1c2TjliWWE4V0tGejk1cWdlRUJaZUI5bmhyT0RFTVZlWDNidmEwX01XYU1kT3ZVdFlVX2YzTGZqQnJEdlBVeEhZQTJXT2JmNkdWZ1J3b3FQeTh2N3VvWmJQNFMweEJpV3NhbEkxWGVQWUN4NmZsOXNHOHJWZE1VUUFXNHlRUHliakRwakRKbTl4ZDZYUUE?oc=5",
-      "pub_date": 1795359600.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "3 AI Hardware Stocks Down More Than 30% From Their Records to Buy Now and Hold Through 2030",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY0V1aHFOOFY0TlZaZXJIZGxBdkhEMnVpcmpBd2dXdklYTnlGRnZUbjFWZFVRaURhTGltek1aeUg4Rk56OFZVNHJjZk9PeFpfcGhEeU9zV285Nm1TM2ZCaW11OFZYbXgwWnVRYzNSQzdmcGIyR1hIWkNrYUZ4ektfYXJPa2tYcUMzSGtpZ2NBaEZxX1k?oc=5",
-      "pub_date": 1795384982.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/3-ai-hardware-stocks-down-220302382.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e99574e363b225b98388226a0a76db2b3e75b25889f9475aeb52d97adf80e831/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F87a8082dd39920f48392b0c6f8db5727.jpg",
-      "description": "Each of these AI suppliers sits well below its record close. Has data center demand actually cooled that much?"
-    },
-    {
-      "headline": "Trump\u2019s AI Chip Crackdown Inflicts Collateral Damage Across Asia",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXp0ODZqcDNzanpGNkNMTmsxMk93OXpvU2IzU1NKcFkteXdZcXdSM3dKM0lZc3Z0T3lSMXR4UGJ3enY5LWZVdnR6NlBGZENCcDNJYngxMkxKdFVzajN4VlZvMTg3X09vUHlNSFZEZEJ0M0NvSngxdlVjNDQ2OEhyaXYtenB5SVJ3T2tjemlPZjI0WjBTVC1RR0tRY0t3cDZuUDlZal85OVQxRjhiUlg2LV9uZV9yZWN1cng4dkZxNWxkM2F3ZlhpbA?oc=5",
-      "pub_date": 1795384813.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Perplexity and Intelligence",
       "source": "OpenAI",
       "source_url": "https://openai.com",
@@ -83,6 +13,16 @@
       "article_url": "https://openai.com/index/perplexity-and-intelligence/",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
       "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+    },
+    {
+      "headline": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+      "pub_date": 1795388940.0,
+      "article_url": "https://www.reuters.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-2026-11-22/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
@@ -95,16 +35,76 @@
       "description": null
     },
     {
-      "headline": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+      "headline": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uX24yRlJuUGQzV2xNVzd4Rmt3b0oxbl8zajhpSEUzdUczX1JZSXNrVHNXOVBGT1ZGVnROODJITUZoMUxMNDk1MmVPQWtzaGVja0dXQjRoTU9HTFE?oc=5",
+      "pub_date": 1795392480.0,
+      "article_url": "https://www.bbc.com/news/articles/cqe9k09j9jv4o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
+      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
+    },
+    {
+      "headline": "Why Nvidia's Grip On AI Is So Hard To Break",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUtWcjY0V0RJY282SmRFUmFfelc4ZXJHeTV1N1o1RVhsaE1TNzgzTXN0V0t0QlBkc3B2dDk5UzBRLTF4Q1kwMk5WMWw4Vk1zeE5wN1FEZWtUT0RQeUVnQVQ3YXgyNDBQWVc1SlRvLWlIN2xlUTM5eVVOZDloNnQzWXRCTDRpaFJjRm4tRGZlN1dFbWpIQjI2VXhCd3Y?oc=5",
+      "pub_date": 1795409170.0,
+      "article_url": "https://www.forbes.com/sites/janakirammsv/2026/11/22/why-nvidias-grip-on-ai-is-so-hard-to-break/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Novartis rejects AI industry hopes to cure cancer in 5 to 10 years",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hFaFNQWmEtS0djdVRPcms0UTZsMi05T19lOEhMN3haeWdVa2p1VFM4bUhHWHFGMEpUcEc1Q0pnRW9lZkhiRzJoMGp4YzdlWXJpcHNyUVl2NmJTM184dC1iaXdxT2lod0diajEyNUFwMXRyZDZzaWV4UmY0OEx0TEhkbXA?oc=5",
+      "pub_date": 1795410022.0,
+      "article_url": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China Fears A.I. Could Give the U.S. an Edge in Nuclear Rivalry",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UdVJiSjVhbXM4RHZ6RlNPelVObTdHMWk3VmwtX1NvR19YRkZsdlh3NUNvNnF4SHlNYlBQeFJtT0p1dE9uU0xLRzc5NFBUS2ZiUDVYckZaQ25rejY2NmhTSlB2ZWgyenpiLU5OeXJDajhpVXprU2hCVzZn?oc=5",
+      "pub_date": 1795410007.0,
+      "article_url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "US futures bounce as Asia scrambles to shore up stocks after AI-driven rout",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
-      "pub_date": 1795388999.0,
-      "article_url": "https://www.reuters.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-2026-11-22/",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5",
+      "pub_date": 1795391040.0,
+      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0lsWGMtQzFaN3pHeFA3ZFVNLWdHN0lDcVZESDA4UFZUVlVpXzhTdllpOHhTZDBzX2pvT3dEdDNZS1laUnh0bzVWZS16WXZyYlVvTW5qU3VVOXVzSzFVTlRWbzB2eFhoS0VVVk14WGU0aGQxLUxaOG1Gb01lTURmMERJaDhEVkVoNXdxdFNLTVZLdXFGWjZ4WWJWajV4NmZaTEhuUmFLY1BzVHQxQTRoZ1l4WQ?oc=5",
+      "pub_date": 1795409100.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWwwVkFzZGc1OHVKeHlYQk9la3VVenZPeElyOHcxZ1dQZjJsZl95Q1ZaMG5rYnh2YnM1QlcxSDlES1FxQS12ZXN2UWFkbUtJeWNXemk3WXdLblVGTVdNc3ZuakN5ZTY4eXV3WFo4M0l5V19peEZjejN4X2lLYjcwbjFMeHl3dmg5SU94UV8wOUtyV2hpb1luWWtTN05Wc3dVSEhMZ3BaQ1ZieGZUakE?oc=5",
+      "pub_date": 1795409700.0,
+      "article_url": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-22T23:44:31.063075+00:00"
+  "fetched_at": "2026-11-23T06:06:01.944545+00:00"
 }
