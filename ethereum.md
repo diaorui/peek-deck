@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-23T06:06:05.544003+00:00'
+updated: '2026-11-23T18:37:41.813200+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 23, 2026 at 06:06 UTC  
+**Last Updated:** November 23, 2026 at 18:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,702.19
+### $1,742.05
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.8%  
-**7d:** -5.2%  
-**30d:** -25.8%  
-**90d:** -31.0%  
-**1y:** -41.5%  
+**24h:** +1.7%  
+**7d:** -4.4%  
+**30d:** -25.2%  
+**90d:** -30.4%  
+**1y:** -41.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $211.45B
+**Market Cap:** $213.19B
 Rank #2
 
 **Circulating Supply:** 122,244,885 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.0%
+-64.7%
 
 **All-Time Low:** $0.43
-+399152.6%
++402677.0%
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew quick slots from Hegotá upgrade, Glamsterdam gas repricing findings due November 16
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 9d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 10d ago
 
 ---
 
@@ -128,7 +128,7 @@ Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-10d ago
+11d ago
 
 ---
 
@@ -152,6 +152,50 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
+**[Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-scarce-164603138.html)**
+
+Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitmine On Verge Of Owning 5% Of Ethereum After Latest Purchase](https://finance.yahoo.com/markets/crypto/articles/bitmine-verge-owning-5-ethereum-143800705.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) is on the verge of reaching its stated goal of owning 5% of Ethereum&r...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack](https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack)**
+
+CoinDesk • 5h ago
+
+---
+
+**[Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings](https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866)**
+
+Ark purchased a combined 1.64 million Anthropic shares, worth $145.9 million, on Thursday and Friday across its exchange-traded funds, according to the firm's trading disclosures.
+
+The Block • 11h ago
+
+---
+
+**[Current price of Ethereum for November 23, 2026](https://fortune.com/article/price-of-ethereum-11-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices toward yearly lows](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-remain-vulnerable-as-bears-drive-prices-toward-yearly-lows-202611230352)**
+
+FXStreet • 14h ago
+
+---
+
 **[Better Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/11/21/better-buy-bitcoin-vs-ethereum/)**
 
 Which one of the world’s top cryptocurrencies is a better investment today?
@@ -160,65 +204,27 @@ The Motley Fool • 1d ago
 
 ---
 
-**[ETH Is One Small Dip Away From Trouble, But Analyst Calls Ethereum’s Strength Against Bitcoin ‘Incredibly Positive’](https://finance.yahoo.com/markets/crypto/articles/eth-one-small-dip-away-075450439.html)**
+**[Ethereum outflows from Binance fall to an all-time low](https://cryptobriefing.com/ethereum-outflows-binance-all-time-low/)**
 
-Both short and long clusters are within 3% of Ethereum’s current price, so a small move either way could decide which side gets squeezed first.
+Ethereum outflows from Binance hit an all-time low near 3.58 million ETH over 30 days as exchange ETH reserves slide to roughly 2.9 million.
 
-Yahoo Finance • 22h ago
-
----
-
-**[ETH news: Ethereum’s next big upgrade is pushed into 2027 by apps it would break](https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break)**
-
-CoinDesk • 3d ago
+Crypto Briefing • 4h ago
 
 ---
 
-**[Bitcoin Crashes to $59,000 as Ethereum, XRP Dump 8%: What Is Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/11/63486782/bitcoin-crashes-to-59000-as-ethereum-xrp-dump-8-what-is-going-on)**
+**[Robinhood Chain pays Ethereum 70% more than Base despite collecting 64% less in fees](https://cryptoslate.com/robinhood-chain-pays-ethereum-70-more-than-base-despite-collecting-64-less-in-fees/)**
 
-Benzinga • 2d ago
+Robinhood Chain and Base illustrate how Ethereum's scaling networks retain nearly all their user fees while paying little for settlement.
 
----
-
-**[Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault](https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/)**
-
-Chainflip halted swaps, deposits, withdrawals and quotes after nearly $5 million left its Ethereum vault. See what Safe Mode means for pending swaps.
-
-CryptoSlate • 14h ago
+CryptoSlate • 37m ago
 
 ---
 
-**[5 zkEVM Projects to Watch: ZKsync, Scroll, Linea, Taiko](https://financefeeds.com/5-zkevm-projects-to-watch-now/)**
+**[Bitcoin ETFs Lose $1.25B in a Week as BTC Drops Below $60K](https://financefeeds.com/us-crypto-etfs-extend-weekly-selloff-as-bitcoin-and-ethereum-funds-face-continued-withdrawals/)**
 
-ZKsync, Scroll, Linea, Taiko and Immutable take different routes to cheaper Ethereum scaling, from 15,000 TPS sequencing to a planned OP Stack switch.
+US spot crypto ETFs shed $148.6M on Nov 20 as Bitcoin funds lost $124.5M, taking weekly Bitcoin ETF outflows to about $1.25B with IBIT still unreported.
 
-FinanceFeeds • 10h ago
-
----
-
-**[Peter Schiff Doubles Down On His ‘Black Monday’ Call Again: Ethereum Could Hit $1,000 In Two Days](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-doubles-down-black-104025859.html)**
-
-Retail traders on Stocktwits turned bullish on Ethereum even as Schiff doubled down on his bearish call.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment](https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment)**
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin, XRP, and Ethereum Drop as Cryptos Face Perfect Storm. Coinbase Falls.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-coinbase-stock-2c0c0616)**
-
-Barron's • 1mo ago
-
----
-
-**[An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)**
-
-CoinDesk • 1mo ago
+FinanceFeeds • 8h ago
 
 ---
 
@@ -226,23 +232,33 @@ CoinDesk • 1mo ago
 
 ## YouTube Videos: "ethereum"
 
+**[None Of You Will Believe This Bitcoin Price Reversal News And Ethereum Just Hit A New Record](https://www.youtube.com/watch?v=fb3UwJWtp-k)**
+
+Inflation. Skyrocketing cost of living. Interest rates going higher. NVIDIA and all things AI related crashing in price. And yet...
+
+📺 The Modern Investor
+
+👁️ 8K • 👍 644 • 💬 235 • ⏱️ 32:50 • 7h ago
+
+---
+
 **[&quot;If You Own BTC &amp; ETH, This Is Happening Faster Than Expected&quot;: Michael Saylor | BTC Price 2026](https://www.youtube.com/watch?v=WPVzWQc2doI)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 30K • 👍 299 • 💬 36 • ⏱️ 21:22 • 22h ago
+👁️ 36K • 👍 338 • 💬 21 • ⏱️ 21:22 • 1d ago
 
 ---
 
-**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=dXty66Fxs4s)**
+**[BITCOIN FLIPPED: New Price Targets Confirmed (Soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=nuow4m_r64s)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+BITCOIN FLIPPED: New Price Targets Confirmed (Soon)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 38K • 👍 427 • 💬 68 • ⏱️ 23:09 • 1d ago
+👁️ 12K • 👍 266 • 💬 195 • ⏱️ 22:55 • 12h ago
 
 ---
 
@@ -252,47 +268,7 @@ Ethereum is testing the 2026 lows around $1500 to $1600, a support zone that has
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 102 • 💬 3 • ⏱️ 8:06 • 9h ago
-
----
-
-**[Ethereum Could Drop to $1,000. Here&#39;s What I&#39;m Watching](https://www.youtube.com/watch?v=-Np_lqXAWnA)**
-
-Ethereum is at risk of dropping to $1000 or lower, with almost every market in sell-off mode. We analyse Ethereum on 22 ...
-
-📺 More Crypto Online
-
-👁️ 12K • 👍 282 • 💬 18 • ⏱️ 9:02 • 1d ago
-
----
-
-**[Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up pretty well](https://www.youtube.com/watch?v=5RirIOGyYCw)**
-
-Tom Sosnoff, Co-Founder and CEO of Lossdog, discusses Anthropic's IPO, retail investor selling, AI stock buying opportunities, ...
-
-📺 CNBC Television
-
-👁️ 10K • 👍 37 • 💬 18 • ⏱️ 4:28 • 2d ago
-
----
-
-**[Massive Bitcoin, XRP And Ethereum Warning For All Cryptocurrency Market Investors](https://www.youtube.com/watch?v=9A2tWMOaLbc)**
-
-I mean, it was bound to happen eventually, right? The cryptocurrency market is in the middle of a very large transformation... one ...
-
-📺 The Modern Investor
-
-👁️ 14K • 👍 800 • 💬 85 • ⏱️ 30:21 • 1d ago
-
----
-
-**[Anyone Holding Bitcoin, Ethereum Or XRP In The Cryptocurrency Market Here&#39;s An Important Message](https://www.youtube.com/watch?v=HOKcuCVdZKI)**
-
-The cryptocurrency market has gone through a major shift in the last 2 years and it would seem that its causing a cataclysmic shift ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 40K • 👍 2K • 💬 264 • ⏱️ 11:41 • 2d ago
+👁️ 7K • 👍 153 • 💬 4 • ⏱️ 8:06 • 22h ago
 
 ---
 
@@ -302,27 +278,57 @@ Bitcoin has dropped below $60000 as crypto and stocks sell off together, while C
 
 📺 Paul Barron Network
 
-👁️ 102K • 👍 1K • 💬 192 • ⏱️ 18:51 • 2d ago
+👁️ 108K • 👍 2K • 💬 196 • ⏱️ 18:51 • 2d ago
 
 ---
 
-**[Since 2019, Every Time ETH Got This Oversold, It Went HIGHER!! Ethereum Price Prediction](https://www.youtube.com/watch?v=igPw9rubOPg)**
+**[Massive Bitcoin, XRP And Ethereum Warning For All Cryptocurrency Market Investors](https://www.youtube.com/watch?v=9A2tWMOaLbc)**
 
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v119 CoinGPT - the AI Trade Agent I ...
+I mean, it was bound to happen eventually, right? The cryptocurrency market is in the middle of a very large transformation... one ...
 
-📺 Marzell Crypto
+📺 The Modern Investor
 
-👁️ 3K • 👍 22 • 💬 9 • ⏱️ 3:06 • 2d ago
+👁️ 15K • 👍 824 • 💬 81 • ⏱️ 30:21 • 2d ago
 
 ---
 
-**[THIS IS THE MOMENT! - I&#39;M ALL IN! Bitcoin, XRP &amp; Ethereum](https://www.youtube.com/watch?v=j1m_I3KOCnM)**
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=dXty66Fxs4s)**
 
-Crypto Wolf Pack 75% OFF! WOLF75 ➡️ https://whop.com/crypto-wolf-pack/cryptowolfpack/ FREE Crypto Lift Off Course ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Milkshake Matty
+📺 Crypto Nutshell
 
-👁️ 447 • 👍 28 • 💬 4 • ⏱️ 13:17 • 14h ago
+👁️ 40K • 👍 443 • 💬 68 • ⏱️ 23:09 • 2d ago
+
+---
+
+**[Crypto Gold Live Trading 🔴 Bitcoin, Ethereum &amp; XAUUSD | #goldtrading #goldtrading](https://www.youtube.com/watch?v=XufpVi43fvI)**
+
+NEW YOUTUBE CHANNEL LINK https://www.youtube.com/@tradewithpawanlive Live Crypto and Gold Analysis | Trade like ...
+
+📺 Wealth By Trading
+
+👁️ 14K • 👍 413 • ⏱️ 3:02:57 • 9h ago
+
+---
+
+**[Live Crypto Trading Today | Bitcoin &amp; Altcoin Market Analysis | Live Trading Session](https://www.youtube.com/watch?v=GZlFgxmpG78)**
+
+Open Crypto/Gold Trading Account: https://india.delta.exchange/?code=stockburner Explore Deeepr AI: https://deeepr.ai/ Join ...
+
+📺 Stock Burner
+
+👁️ 26K • 👍 4K • 2h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=42MmePM_1CE)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 4K • 👍 93 • 💬 1 • ⏱️ 6:48 • 14h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-23T06:06:05.547106+00:00'
+updated: '2026-11-23T18:37:41.816415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 23, 2026 at 06:06 UTC  
+**Last Updated:** November 23, 2026 at 18:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-7d ago
+8d ago
 
 ---
 
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-7d ago
+8d ago
 
 ---
 
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-8d ago
+9d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-7d ago
+8d ago
 
 ---
 
@@ -82,7 +82,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-7d ago
+8d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-8d ago
+9d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-8d ago
+9d ago
 
 ---
 
@@ -114,73 +114,73 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 A CoRL Trip Report
 
-ChinaTalk | Jordan Schneider • 2d ago
+ChinaTalk | Jordan Schneider • 3d ago
+
+---
+
+**[Louis Dreyfus Tests Out Robotic Hull Cleaning at Scale](https://maritime-executive.com/article/neptune-secures-partnerships-to-advance-robotic-hull-cleaning)**
+
+Neptune Robotics is making a strong statement in its determination to advance the adoption of its robotic hull cleaning technology after securing a se...
+
+The Maritime Executive • 17h ago
+
+---
+
+**[These Humanoid Robots Will Bring Clarity to All the Hype](https://www.bloomberg.com/opinion/articles/2026-11-23/agility-s-humanoid-robots-will-bring-clarity-to-industry-hype)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[I searched for an automated utopia. All I got was roboslop.](https://www.businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11)**
+
+Business Insider's Lloyd Lee tried out all of San Francisco's robot services, from Waymo robotaxis to humanoid cleaners that left his home messier.
+
+Business Insider • 9h ago
+
+---
+
+**[Artificial muscles sense their own motion to give robots precise control](https://techxplore.com/news/2026-11-artificial-muscles-motion-robots-precise.html)**
+
+Tech Xplore • 1h ago
 
 ---
 
 **[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
 
-Reuters • 2d ago
+Reuters • 3d ago
 
 ---
 
-**[Oshkosh students put robotics skills to the test at FIRST LEGO League tournament](https://fox11online.com/news/local/oshkosh-students-put-robotics-skills-to-the-test-at-first-lego-league-tournament)**
+**[AI agents vs physical AI: How software automation differs from embodied robotics](https://interestingengineering.com/ai-robotics/ai-agents-vs-physical-ai-difference-between-two-technologies)**
 
-WLUK FOX 11 is your source for Balanced News and Severe Weather Coverage for Appleton, Shawano, Sturgeon Bay, Kewaunee, Two Rivers, New London, Bonduel, Pulaski, Suamico, Menasha, Neenah, Shiocton, Ashwaubenon, Algoma, Mishicot and Wrightstown.
+AI agents automate digital workflows, while physical AI powers robots in the real world. Learn key engineering differences between the two.
 
-WLUK • 1h ago
-
----
-
-**[AI agents vs physical AI: How software automation differs from embodied robotics](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnVLUWl2Q2VORFhtS29pOU5IM3lnTW1jV1RfTGJvQmFrbkNLRDMtajgwVnNkQ0VJUk9CVkNNQjJaZGxrQWR1cjBCSy05TnJ1amlqVkY2VEFjc1ZscUZDVTAwS2t4LVhXZE8tczBXWm9FYy05Ui1wQXJTWHJkSW9HYlRpZ19TTHVnVUxRNUlsT2tPeGxzcVdqbHdrVGtOMEJ0emhORV9vZmZaMkk?oc=5)**
-
-Interesting Engineering • 14h ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)**
+**[Robotics component maker coprod raises $6M to take on robotics ‘integration hell’](https://siliconangle.com/2026/11/23/robotics-component-maker-coprod-raises-6m-to-take-on-robotics-integration-hell/)**
 
-Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.
+Robotics component maker coprod raises $6M to take on robotics 'integration hell' - SiliconANGLE
 
-Google for Developers Blog • 1mo ago
-
----
-
-**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
-
-Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
-
-TechCrunch • 4d ago
+SiliconANGLE • 9h ago
 
 ---
 
-**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
+**[The jagged frontier gets a body](https://fortune.com/2026/11/23/physical-ai-humanoid-robots-jagged-frontier-china-candelon-asseo/)**
 
-The second-largest corporate employer has bet big on robot workers to scale.
+Physical AI will spread task by task
 
-Ars Technica • 1mo ago
-
----
-
-**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
-
-WSJ • 5d ago
+Fortune • 5h ago
 
 ---
 
-**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/)**
+**[Moog: Not Robotics, Missiles Are The Driver (Rating Upgrade) (NYSE:MOG.A)](https://seekingalpha.com/article/4971022-moog-stock-not-robotics-missiles-driver-rating-upgrade)**
 
-Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
+Analyst rates Moog a Hold: the $364 target assumes 25x earnings; defense beats could lift shares in 2027, while tariffs and inflation threaten margins.
 
-Boston Dynamics • 5d ago
-
----
-
-**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
-
-Agility Robotics’ first practical robotic worker is nothing like I dreamed
-
-IEEE Spectrum • 1mo ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -188,93 +188,21 @@ IEEE Spectrum • 1mo ago
 
 ## YouTube Videos: "robotics"
 
-**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
+**[I Blamed the Wrong Robot Dinosaur🦖 #robot #robotics #dinosaur #rc #ruko #shorts](https://www.youtube.com/watch?v=hQKVF3PvY0s)**
 
-Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
+📺 Smarttoy Ruko
 
-📺 Cleo Abram
-
-👁️ 1.9M • 👍 105K • 💬 850 • ⏱️ 1:05 • 2d ago
+👁️ 883K • 👍 3K • 💬 2 • ⏱️ 0:16 • 3d ago
 
 ---
 
-**[Robotic Deep-Dive: Beating China, the Race Against Tesla, &amp; New Robotics Timeline With Brett Adcock](https://www.youtube.com/watch?v=E864U582FVY)**
+**[Vir The Robot Boy : Vir Ne Liya Naya Avtar | Best Scenes Robot Cartoon for kids](https://www.youtube.com/watch?v=jJ-r6fE_3NU)**
 
-The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss the global race in humanoid robotics, how Figure ...
+Vir The Robot Boy : Vir Ne Liya Naya Avtar | Best Scenes Robot Cartoon for kids #VirTheRobotBoy #HindiCartoon ...
 
-📺 Peter H. Diamandis
+📺 Vir - The Robot Boy
 
-👁️ 237K • 👍 3K • 💬 641 • ⏱️ 2:12:13 • 6d ago
-
----
-
-**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
-
-Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
-
-📺 Unbox Therapy
-
-👁️ 1.2M • 👍 50K • 💬 91 • ⏱️ 1:24 • 4d ago
-
----
-
-**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
-
-On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
-
-📺 FRAME
-
-👁️ 25K • 👍 325 • ⏱️ 21:17 • 4d ago
-
----
-
-**[The $13,500 Robot Is Getting Out of Control](https://www.youtube.com/watch?v=fqN7JOA58hQ)**
-
-The $13500 Unitree G1 humanoid robot is becoming one of the most capable AI robots in the world. From basketball and soccer ...
-
-📺 NextGen Humanoids
-
-👁️ 30K • 👍 199 • 💬 21 • ⏱️ 12:23 • 4d ago
-
----
-
-**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
-
-A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
-
-📺 NBC Bay Area
-
-👁️ 214K • 👍 650 • 💬 513 • ⏱️ 2:44 • 6d ago
-
----
-
-**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
-
-Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
-
-📺 Tesla Insider Economics
-
-👁️ 128K • 👍 1K • 💬 84 • ⏱️ 22:13 • 4d ago
-
----
-
-**[Here&#39;s a look at some of China&#39;s newest humanoid robots](https://www.youtube.com/watch?v=PWNVZLzYdq4)**
-
-Tony Dokoupil takes a look at China's advanced humanoid robots. Last year, China installed more industrial robots than the rest ...
-
-📺 CBS Evening News
-
-👁️ 36K • 👍 143 • 💬 75 • ⏱️ 2:05 • 4d ago
-
----
-
-**[Chinese humanoid robots on display at the RoboExpo in Shenzhen #shorts](https://www.youtube.com/watch?v=DhBzSrMExMY)**
-
-"CBS Evening News" delivers the day's most important stories, delivering context and depth to bring greater understanding to your ...
-
-📺 CBS Evening News
-
-👁️ 181K • 👍 791 • 💬 123 • ⏱️ 1:56 • 4d ago
+👁️ 93K • 👍 329 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -285,6 +213,76 @@ ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinj
 📺 MuffinJuice
 
 👁️ 1.3M • 👍 37K • 💬 3K • ⏱️ 15:00 • 3d ago
+
+---
+
+**[Guardian or Threat? Unitree’s H2-X Kung Fu Robot 🤖 #unitree #robot #humanoidrobot](https://www.youtube.com/watch?v=X6T91Pqa8gQ)**
+
+Unitree's H2-X "Kung Fu Legend Guardian" is a humanoid robot pitched for security and rescue. In its launch video, it flips off cars, ...
+
+📺 Undercover Panda
+
+👁️ 88K • 👍 1K • 💬 56 • ⏱️ 0:35 • 5d ago
+
+---
+
+**[The $13,500 Robot Is Getting Out of Control](https://www.youtube.com/watch?v=fqN7JOA58hQ)**
+
+The $13500 Unitree G1 humanoid robot is becoming one of the most capable AI robots in the world. From basketball and soccer ...
+
+📺 NextGen Humanoids
+
+👁️ 30K • 👍 202 • 💬 21 • ⏱️ 12:23 • 5d ago
+
+---
+
+**[Tesla&#39;s New Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=2FZhl5oo27o)**
+
+Tesla's new Optimus robot upgrade is much bigger than the viral robot clips suggest. Hidden images inside Tesla's own Android ...
+
+📺 Tyrone
+
+👁️ 58K • 👍 345 • 💬 9 • ⏱️ 27:54 • 23h ago
+
+---
+
+**[Top 10 Arduino Projects #arduinoproject #arduino #top10 #top10ardujnoprojects #iot #robot](https://www.youtube.com/watch?v=n7-HMajSMI4)**
+
+Top 10 Arduino Projects #arduinoproject #arduino #top10 #top10ardujnoprojects #iot #robot.
+
+📺 Robotos
+
+👁️ 143K • 👍 3K • 💬 11 • ⏱️ 0:53 • 4d ago
+
+---
+
+**[Elon Musk&#39;s Robot Bodyguard Is Next Level! 🤖🔥 #ElonMusk #Robot #Shorts](https://www.youtube.com/watch?v=4VXUAd3PM78)**
+
+Elon Musk's Robot Bodyguard Is Next Level! #ElonMusk #Robot #Shorts Description Elon Musk walking with a robot ...
+
+📺 Reset Life
+
+👁️ 5K • 👍 230 • 💬 10 • ⏱️ 0:15 • 3h ago
+
+---
+
+**[This Squishy Robot Runs 10 MPH With No Wires or Motors Inside](https://www.youtube.com/watch?v=_Gd3RZddw4Q)**
+
+This squishy robot runs over 10 miles an hour, and there isn't a single wire or motor inside it. The robot • Engineers at UC San ...
+
+📺 Carly AI
+
+👁️ 16K • 👍 196 • 💬 11 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[🤖 How Custom Selfie Sticks Are Made #factoryprocess  #sealingmachines #selfimprovement  #indianflag](https://www.youtube.com/watch?v=I9Hp2iqZPmc)**
+
+Step inside a high-tech manufacturing facility to witness the precision assembly of a custom edition selfie stick.
+
+📺 SHAAN _E_TIRANGA
+
+👁️ 123K • 👍 838 • ⏱️ 0:10 • 14h ago
 
 ---
 
