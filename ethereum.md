@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-22T23:44:33.208393+00:00'
+updated: '2026-11-23T06:06:05.544003+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 22, 2026 at 23:44 UTC  
+**Last Updated:** November 23, 2026 at 06:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,718.69
+### $1,702.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** -5.5%  
-**30d:** -27.0%  
-**90d:** -29.5%  
-**1y:** -38.6%  
+**24h:** +3.8%  
+**7d:** -5.2%  
+**30d:** -25.8%  
+**90d:** -31.0%  
+**1y:** -41.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $210.51B
+**Market Cap:** $211.45B
 Rank #2
 
-**Circulating Supply:** 122,241,915 ETH
+**Circulating Supply:** 122,244,885 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.2%
+-65.0%
 
 **All-Time Low:** $0.43
-+397630.6%
++399152.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -88,7 +88,7 @@ Does anybody know of any good decentralized email services?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -104,7 +104,7 @@ Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear tec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+9d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9d ago
+10d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10d ago
+11d ago
 
 ---
 
@@ -160,25 +160,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Peter Schiff Doubles Down On His ‘Black Monday’ Call Again: Ethereum Could Hit $1,000 In Two Days](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-doubles-down-black-104025859.html)**
+**[ETH Is One Small Dip Away From Trouble, But Analyst Calls Ethereum’s Strength Against Bitcoin ‘Incredibly Positive’](https://finance.yahoo.com/markets/crypto/articles/eth-one-small-dip-away-075450439.html)**
 
-Retail traders on Stocktwits turned bullish on Ethereum even as Schiff doubled down on his bearish call.
+Both short and long clusters are within 3% of Ethereum’s current price, so a small move either way could decide which side gets squeezed first.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[ETH news: Ethereum’s next big upgrade is pushed into 2027 by apps it would break](https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break)**
 
-CoinDesk • 2d ago
-
----
-
-**[ETH Is One Small Dip Away From Trouble, But Analyst Calls Ethereum’s Strength Against Bitcoin ‘Incredibly Positive’](https://www.tradingview.com/news/stocktwits:fce4b1839094b:0-eth-is-one-small-dip-away-from-trouble-but-analyst-calls-ethereum-s-strength-against-bitcoin-incredibly-positive/)**
-
-Ethereum (ETH) traders are under pressure as leveraged positions on the asset are at risk of being liquidated by small price swings. Bears may be forced to cover their shorts if Ethereum pumps up, but bulls could be exposed to further declines. The pressure arrives at a time when macro analyst Mich…
-
-TradingView • 15h ago
+CoinDesk • 3d ago
 
 ---
 
@@ -192,23 +184,29 @@ Benzinga • 2d ago
 
 Chainflip halted swaps, deposits, withdrawals and quotes after nearly $5 million left its Ethereum vault. See what Safe Mode means for pending swaps.
 
-CryptoSlate • 7h ago
+CryptoSlate • 14h ago
 
 ---
 
-**[5 zkEVM Projects to Watch Now](https://financefeeds.com/5-zkevm-projects-to-watch-now/)**
+**[5 zkEVM Projects to Watch: ZKsync, Scroll, Linea, Taiko](https://financefeeds.com/5-zkevm-projects-to-watch-now/)**
 
 ZKsync, Scroll, Linea, Taiko and Immutable take different routes to cheaper Ethereum scaling, from 15,000 TPS sequencing to a planned OP Stack switch.
 
-FinanceFeeds • 3h ago
+FinanceFeeds • 10h ago
 
 ---
 
-**[Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to Know.](https://finance.yahoo.com/markets/crypto/articles/bitmine-just-posted-staggering-6-184502319.html)**
+**[Peter Schiff Doubles Down On His ‘Black Monday’ Call Again: Ethereum Could Hit $1,000 In Two Days](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-doubles-down-black-104025859.html)**
 
-Tom Lee’s Bitmine kept catching a falling knife over the past year.
+Retail traders on Stocktwits turned bullish on Ethereum even as Schiff doubled down on his bearish call.
 
-Yahoo Finance • 3d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment](https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment)**
+
+CoinDesk • 2d ago
 
 ---
 
@@ -218,9 +216,9 @@ Barron's • 1mo ago
 
 ---
 
-**[U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud](https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud)**
+**[An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)**
 
-CoinDesk • 4d ago
+CoinDesk • 1mo ago
 
 ---
 
@@ -234,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 27K • 👍 275 • 💬 35 • ⏱️ 21:22 • 16h ago
+👁️ 30K • 👍 299 • 💬 36 • ⏱️ 21:22 • 22h ago
 
 ---
 
@@ -244,7 +242,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 37K • 👍 420 • 💬 65 • ⏱️ 23:09 • 1d ago
+👁️ 38K • 👍 427 • 💬 68 • ⏱️ 23:09 • 1d ago
 
 ---
 
@@ -254,7 +252,7 @@ Ethereum is testing the 2026 lows around $1500 to $1600, a support zone that has
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 62 • 💬 1 • ⏱️ 8:06 • 3h ago
+👁️ 4K • 👍 102 • 💬 3 • ⏱️ 8:06 • 9h ago
 
 ---
 
@@ -264,17 +262,7 @@ Ethereum is at risk of dropping to $1000 or lower, with almost every market in s
 
 📺 More Crypto Online
 
-👁️ 12K • 👍 276 • 💬 18 • ⏱️ 9:02 • 20h ago
-
----
-
-**[WILL ETH CRASH TO $1200 NOW? (Ethereum Price Prediction)](https://www.youtube.com/watch?v=11JPnCmMrdc)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 624 • 👍 12 • 💬 1 • ⏱️ 4:26 • 14h ago
+👁️ 12K • 👍 282 • 💬 18 • ⏱️ 9:02 • 1d ago
 
 ---
 
@@ -288,13 +276,13 @@ Tom Sosnoff, Co-Founder and CEO of Lossdog, discusses Anthropic's IPO, retail in
 
 ---
 
-**[Cathie Wood Sells ETH and Solana 📉 Loads Up on $ANT](https://www.youtube.com/watch?v=XmeVwaOQxNU)**
+**[Massive Bitcoin, XRP And Ethereum Warning For All Cryptocurrency Market Investors](https://www.youtube.com/watch?v=9A2tWMOaLbc)**
 
-Bitcoin has dropped below $60000 as crypto and stocks sell off together, while Cathie Wood's ARK sold staked Ether and Solana ...
+I mean, it was bound to happen eventually, right? The cryptocurrency market is in the middle of a very large transformation... one ...
 
-📺 Paul Barron Network
+📺 The Modern Investor
 
-👁️ 99K • 👍 1K • 💬 191 • ⏱️ 18:51 • 2d ago
+👁️ 14K • 👍 800 • 💬 85 • ⏱️ 30:21 • 1d ago
 
 ---
 
@@ -304,7 +292,17 @@ The cryptocurrency market has gone through a major shift in the last 2 years and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 39K • 👍 2K • 💬 264 • ⏱️ 11:41 • 2d ago
+👁️ 40K • 👍 2K • 💬 264 • ⏱️ 11:41 • 2d ago
+
+---
+
+**[Cathie Wood Sells ETH and Solana 📉 Loads Up on $ANT](https://www.youtube.com/watch?v=XmeVwaOQxNU)**
+
+Bitcoin has dropped below $60000 as crypto and stocks sell off together, while Cathie Wood's ARK sold staked Ether and Solana ...
+
+📺 Paul Barron Network
+
+👁️ 102K • 👍 1K • 💬 192 • ⏱️ 18:51 • 2d ago
 
 ---
 
@@ -318,13 +316,13 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 ---
 
-**[Anthropic IPO, Tom Lee Ethereum Store of Value, ETH Amazon connection &amp; more!](https://www.youtube.com/watch?v=Q84JA_En7fs)**
+**[THIS IS THE MOMENT! - I&#39;M ALL IN! Bitcoin, XRP &amp; Ethereum](https://www.youtube.com/watch?v=j1m_I3KOCnM)**
 
-Buy your Ethereum, Bitcoin and other crypto currency on the best exchanges: Coinbase: Bitcoin, Ethereum ...
+Crypto Wolf Pack 75% OFF! WOLF75 ➡️ https://whop.com/crypto-wolf-pack/cryptowolfpack/ FREE Crypto Lift Off Course ...
 
-📺 Bitmine & ETH are friends
+📺 Milkshake Matty
 
-👁️ 204 • 👍 4 • 💬 4 • ⏱️ 28:59 • 1d ago
+👁️ 447 • 👍 28 • 💬 4 • ⏱️ 13:17 • 14h ago
 
 ---
 

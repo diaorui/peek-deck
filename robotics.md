@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-22T23:44:33.210380+00:00'
+updated: '2026-11-23T06:06:05.547106+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 22, 2026 at 23:44 UTC  
+**Last Updated:** November 23, 2026 at 06:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-7d ago
+8d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-7d ago
+8d ago
 
 ---
 
@@ -118,63 +118,23 @@ ChinaTalk | Jordan Schneider • 2d ago
 
 ---
 
-**[Soft Robot Made For The Races](https://hackaday.com/2026/11/22/soft-robot-made-for-the-races/)**
-
-Soft robotics is a relatively untapped field of robotics. However, that doesn’t mean there aren’t some good examples of what it could do in the near future. Speed is a metric that has been lacking …
-
-Hackaday • 8h ago
-
----
-
 **[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
 
 Reuters • 2d ago
 
 ---
 
-**[Greece could become a laboratory for drones](https://www.ekathimerini.com/economy/1321896/greece-could-become-a-laboratory-for-drones/)**
+**[Oshkosh students put robotics skills to the test at FIRST LEGO League tournament](https://fox11online.com/news/local/oshkosh-students-put-robotics-skills-to-the-test-at-first-lego-league-tournament)**
 
-He returned from the US to lead the first Institute of Robotics in Greece, a constituent entity of the Athena Research Center (Athena RC).
+WLUK FOX 11 is your source for Balanced News and Severe Weather Coverage for Appleton, Shawano, Sturgeon Bay, Kewaunee, Two Rivers, New London, Bonduel, Pulaski, Suamico, Menasha, Neenah, Shiocton, Ashwaubenon, Algoma, Mishicot and Wrightstown.
 
-eKathimerini.com • 4h ago
-
----
-
-**[John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties](https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/)**
-
-Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed.
-
-GeekWire • 2d ago
+WLUK • 1h ago
 
 ---
 
-**[US team builds 23-inch flexible robot that links up for bigger tasks](https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer)**
+**[AI agents vs physical AI: How software automation differs from embodied robotics](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnVLUWl2Q2VORFhtS29pOU5IM3lnTW1jV1RfTGJvQmFrbkNLRDMtajgwVnNkQ0VJUk9CVkNNQjJaZGxrQWR1cjBCSy05TnJ1amlqVkY2VEFjc1ZscUZDVTAwS2t4LVhXZE8tczBXWm9FYy05Ui1wQXJTWHJkSW9HYlRpZ19TTHVnVUxRNUlsT2tPeGxzcVdqbHdrVGtOMEJ0emhORV9vZmZaMkk?oc=5)**
 
-CSU engineers have created flexible robots, called TeCoBots, that can combine to form entirely new forms, just like Big Hero Six Microbots.
-
-Interesting Engineering • 13h ago
-
----
-
-**[Young engineers take on robotics at FIRST LEGO League tournament in South Bend](https://www.wndu.com/2026/11/21/young-engineers-take-robotics-first-lego-league-tournament-south-bend/)**
-
-17 FIRST LEGO League teams compete at Success Academy, tackling ecosystem challenges for a chance to advance to semi-state.
-
-WNDU • 1d ago
-
----
-
-**[The manufacturing data gap holding back physical AI](https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/)**
-
-Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback.
-
-The Robot Report • 1d ago
-
----
-
-**[Nestlé deploys AI, sensors and robotics across the company to boost growth](https://www.nestle.com/media/news/deep-tech-center-orbe-ai-robotics)**
-
-Nestlé Global • 2d ago
+Interesting Engineering • 14h ago
 
 ---
 
@@ -186,19 +146,47 @@ Google for Developers Blog • 1mo ago
 
 ---
 
+**[India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)**
+
+Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+
+TechCrunch • 4d ago
+
+---
+
+**[Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)**
+
+The second-largest corporate employer has bet big on robot workers to scale.
+
+Ars Technica • 1mo ago
+
+---
+
+**[Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million](https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457)**
+
+WSJ • 5d ago
+
+---
+
+**[Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/)**
+
+Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries, a leading semiconductor manufacturer, announced plans to deploy Spot across GF’s global fabs.
+
+Boston Dynamics • 5d ago
+
+---
+
+**[The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)**
+
+Agility Robotics’ first practical robotic worker is nothing like I dreamed
+
+IEEE Spectrum • 1mo ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Robotic Deep-Dive: Beating China, the Race Against Tesla, &amp; New Robotics Timeline With Brett Adcock](https://www.youtube.com/watch?v=E864U582FVY)**
-
-The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss the global race in humanoid robotics, how Figure ...
-
-📺 Peter H. Diamandis
-
-👁️ 236K • 👍 3K • 💬 642 • ⏱️ 2:12:13 • 6d ago
-
----
 
 **[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
 
@@ -206,7 +194,17 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Cleo Abram
 
-👁️ 1.9M • 👍 102K • 💬 840 • ⏱️ 1:05 • 2d ago
+👁️ 1.9M • 👍 105K • 💬 850 • ⏱️ 1:05 • 2d ago
+
+---
+
+**[Robotic Deep-Dive: Beating China, the Race Against Tesla, &amp; New Robotics Timeline With Brett Adcock](https://www.youtube.com/watch?v=E864U582FVY)**
+
+The Mates sit down with Brett Adcock, founder and CEO of Figure AI, to discuss the global race in humanoid robotics, how Figure ...
+
+📺 Peter H. Diamandis
+
+👁️ 237K • 👍 3K • 💬 641 • ⏱️ 2:12:13 • 6d ago
 
 ---
 
@@ -226,7 +224,7 @@ On this feature on FRAME, we take you inside the manufacturing process behind At
 
 📺 FRAME
 
-👁️ 24K • 👍 313 • ⏱️ 21:17 • 4d ago
+👁️ 25K • 👍 325 • ⏱️ 21:17 • 4d ago
 
 ---
 
@@ -236,7 +234,7 @@ The $13500 Unitree G1 humanoid robot is becoming one of the most capable AI robo
 
 📺 NextGen Humanoids
 
-👁️ 29K • 👍 198 • 💬 21 • ⏱️ 12:23 • 4d ago
+👁️ 30K • 👍 199 • 💬 21 • ⏱️ 12:23 • 4d ago
 
 ---
 
@@ -246,7 +244,7 @@ A high-profile tech company in San Francisco can make humanoid robots -- so why 
 
 📺 NBC Bay Area
 
-👁️ 206K • 👍 640 • 💬 502 • ⏱️ 2:44 • 5d ago
+👁️ 214K • 👍 650 • 💬 513 • ⏱️ 2:44 • 6d ago
 
 ---
 
@@ -256,17 +254,27 @@ Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is a
 
 📺 Tesla Insider Economics
 
-👁️ 127K • 👍 1K • 💬 82 • ⏱️ 22:13 • 4d ago
+👁️ 128K • 👍 1K • 💬 84 • ⏱️ 22:13 • 4d ago
 
 ---
 
-**[Robots With Incredible Superhuman Abilities! #shorts #viralvideo #robot](https://www.youtube.com/watch?v=B2fV3qYIfTg)**
+**[Here&#39;s a look at some of China&#39;s newest humanoid robots](https://www.youtube.com/watch?v=PWNVZLzYdq4)**
 
-What if robots could do things that humans can only dream of? From incredible backflips and superhuman balance to impressive ...
+Tony Dokoupil takes a look at China's advanced humanoid robots. Last year, China installed more industrial robots than the rest ...
 
-📺 Ranked & Ready
+📺 CBS Evening News
 
-👁️ 2K • 👍 23 • ⏱️ 0:33 • 11h ago
+👁️ 36K • 👍 143 • 💬 75 • ⏱️ 2:05 • 4d ago
+
+---
+
+**[Chinese humanoid robots on display at the RoboExpo in Shenzhen #shorts](https://www.youtube.com/watch?v=DhBzSrMExMY)**
+
+"CBS Evening News" delivers the day's most important stories, delivering context and depth to bring greater understanding to your ...
+
+📺 CBS Evening News
+
+👁️ 181K • 👍 791 • 💬 123 • ⏱️ 1:56 • 4d ago
 
 ---
 
@@ -276,17 +284,7 @@ ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinj
 
 📺 MuffinJuice
 
-👁️ 1.3M • 👍 36K • 💬 3K • ⏱️ 15:00 • 3d ago
-
----
-
-**[Inside China&#39;s emerging ‘Robot Valley’](https://www.youtube.com/watch?v=6ZKG95kf7g0)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube In the southern Chinese city of Shenzhen, ...
-
-📺 South China Morning Post
-
-👁️ 31K • 👍 181 • 💬 33 • ⏱️ 4:51 • 5d ago
+👁️ 1.3M • 👍 37K • 💬 3K • ⏱️ 15:00 • 3d ago
 
 ---
 
