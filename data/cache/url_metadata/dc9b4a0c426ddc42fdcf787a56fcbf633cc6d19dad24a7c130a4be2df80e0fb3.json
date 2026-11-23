@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-23T18:37:00.194674+00:00",
+  "data": {
+    "url": "https://simonwillison.net/2026/Nov/21/muru/",
+    "title": "Muru",
+    "description": "Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust \u2026",
+    "image": null,
+    "favicon": "https://simonwillison.net/favicon.ico",
+    "site_name": "Simon Willison\u2019s Weblog",
+    "author": "Simon Willison",
+    "keywords": null
+  }
+}

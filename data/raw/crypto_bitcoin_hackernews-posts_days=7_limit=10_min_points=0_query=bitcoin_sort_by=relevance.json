@@ -33,20 +33,6 @@
       "site_name": "echo.ls"
     },
     {
-      "title": "Alleged Operator of Pirate Site Movie2K Could Walk Free as Bitcoin Billionaire",
-      "url": "https://torrentfreak.com/alleged-operator-of-pirate-site-movie2k-could-walk-free-as-bitcoin-billionaire/",
-      "hn_url": "https://news.ycombinator.com/item?id=50518570",
-      "author": "Brajeshwar",
-      "points": 7,
-      "num_comments": 0,
-      "created_at": "2026-11-16T15:24:12Z",
-      "object_id": "50518570",
-      "image": "https://torrentfreak.com/images/bitcoin-featured.jpg",
-      "description": "The alleged operator of defunct pirate streaming site Movie2K could walk out of a German court a free man, and still a bitcoin billionaire.",
-      "favicon": "https://torrentfreak.com/apple-touch-icon.png",
-      "site_name": "torrentfreak.com"
-    },
-    {
       "title": "Bitcoin Core CVE-2026-117348: Node stall through duplicate orphan announcements",
       "url": "https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/",
       "hn_url": "https://news.ycombinator.com/item?id=50599741",
@@ -117,20 +103,6 @@
       "site_name": null
     },
     {
-      "title": "Why Bitcoin was NOT started by a 3-letter-agency",
-      "url": "https://twitter.com/raw_avocado/status/2122329592002134065",
-      "hn_url": "https://news.ycombinator.com/item?id=50519110",
-      "author": "alexwaltz",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-16T16:04:03Z",
-      "object_id": "50519110",
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2121038664276795392/img/T9kMdRufVrUqoMWU?format=webp&name=large",
-      "description": "Why Bitcoin was NOT started by a 3-letter-agency.\n\nMy talk from Bitcoin Amsterdam(@bitcoinconfams)",
-      "favicon": "https://twitter.com/apple-touch-icon.png",
-      "site_name": "X (formerly Twitter)"
-    },
-    {
       "title": "Show HN: Nunya \u2013 A \"digital privacy screen\" that makes text illegible from afar",
       "url": "https://usenunya.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50576552",
@@ -143,9 +115,37 @@
       "description": "Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.",
       "favicon": "https://usenunya.com/assets/nunya-icon-180.png",
       "site_name": "usenunya.com"
+    },
+    {
+      "title": "LLPE: A partial evaluator for LLVM bitcode",
+      "url": "http://www.llpe.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50614262",
+      "author": "gurjeet",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-11-23T16:13:53Z",
+      "object_id": "50614262",
+      "image": null,
+      "description": "A highly accurate partial evaluator for LLVM bitcode",
+      "favicon": "http://www.llpe.org/favicon.ico",
+      "site_name": "LLPE"
+    },
+    {
+      "title": "Gnomon: Git for Postgres Data",
+      "url": "https://gnomon.bitsinfra.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50611613",
+      "author": "lucasluitjes",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-11-23T14:03:38Z",
+      "object_id": "50611613",
+      "image": null,
+      "description": "Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.",
+      "favicon": "https://gnomon.bitsinfra.com/gnomon.svg",
+      "site_name": "gnomon.bitsinfra.com"
     }
   ],
   "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-11-23T06:05:22.361354+00:00"
+  "fetched_at": "2026-11-23T18:37:03.607213+00:00"
 }
