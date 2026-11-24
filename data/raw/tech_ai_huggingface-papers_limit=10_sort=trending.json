@@ -16,7 +16,7 @@
       "num_comments": 0,
       "published_at": "2026-04-05T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/paper-orchestra",
-      "github_stars": 6128,
+      "github_stars": 6197,
       "project_page": "https://yiwen-song.github.io/paper_orchestra/"
     },
     {
@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2606.23050",
       "arxiv_url": "https://arxiv.org/abs/2606.23050",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.23050.png",
-      "upvotes": 110,
+      "upvotes": 111,
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 32515,
+      "github_stars": 32591,
       "project_page": null
     },
     {
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2611.26603",
       "arxiv_url": "https://arxiv.org/abs/2611.26603",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26603.png",
-      "upvotes": 37,
+      "upvotes": 38,
       "num_comments": 3,
       "published_at": "2026-11-18T19:00:00.000Z",
       "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
-      "github_stars": 590,
+      "github_stars": 632,
       "project_page": "https://apple-aiml-research.github.io/ml-depth-pro-2/"
     },
     {
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2611.18397",
       "arxiv_url": "https://arxiv.org/abs/2611.18397",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18397.png",
-      "upvotes": 156,
+      "upvotes": 161,
       "num_comments": 4,
       "published_at": "2026-11-12T19:00:00.000Z",
       "github_repo": "https://github.com/RainBowLuoCS/Gamer",
-      "github_stars": 1412,
+      "github_stars": 1459,
       "project_page": "https://mihoyo-gamer.github.io/"
     },
     {
@@ -92,27 +92,8 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 24931,
+      "github_stars": 24994,
       "project_page": "https://harness2.github.io/"
-    },
-    {
-      "id": "2610.22732",
-      "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
-      "authors": "Aaron J. Li, Weijia Xu, Chandan Singh et al. (11 authors)",
-      "organization_name": "MicrosoftResearch",
-      "organization_fullname": "Microsoft Research",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
-      "summary": "Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas real-world developers use them to continuously build, update, and maintain large-scale projects. This mismatch motivates us to evaluate agents over sequences of realistic coding tasks, where we find that agents exhibit recurring environment-dependent token costs that existing methods struggle to reduce. To minimize these costs, we introduce TokenEconomizer, an external controller that cuts environment-specific token costs over a sequence of tasks. These cuts come from determining (i) which operational micro-skills to inject, (ii) which persistently irrelevant tools to prune, and (iii) when to intervene in unproductive failure loops. Across Claude Code, Codex, and GitHub Copilot CLI paired with frontier models, TokenEconomizer reduces the average token cost by 18.4-30.9% with comparable task success. Savings hold in every repository under every tested agent-model setting and generalize to diverse domains such as sequential web development and security auditing, where costs fall by 6.4-21.2% depending on task structure. Our work establishes adaptive black-box cost control as a promising direction for reducing token costs of coding agents in realistic settings.",
-      "ai_summary": "TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.",
-      "hf_url": "https://huggingface.co/papers/2610.22732",
-      "arxiv_url": "https://arxiv.org/abs/2610.22732",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22732.png",
-      "upvotes": 21,
-      "num_comments": 2,
-      "published_at": "2026-10-14T20:00:00.000Z",
-      "github_repo": "https://github.com/microsoft/TokenEconomizer",
-      "github_stars": 8014,
-      "project_page": "https://tokeneconomizer.github.io/"
     },
     {
       "id": "2412.20138",
@@ -130,27 +111,27 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 123598,
+      "github_stars": 123653,
       "project_page": null
     },
     {
-      "id": "2611.23144",
-      "title": "\u03c0^4: A Foundation Model for 4D Scene Geometry and Motion",
-      "authors": "Yifan Wang, Weiguang Zhao, Ni Yang et al. (7 authors)",
-      "organization_name": "Shanghai-AI-Laboratory",
-      "organization_fullname": "Shanghai AI Laboratory",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65cd955637be1841d0b75397/Rao_Kq6NMtTVfSqLUIR4k.webp",
-      "summary": "\u03c0^4 is a unified foundation model for 4D scene perception. From diverse, uncalibrated RGB observations in the wild---a single image, an unordered collection, or a video sequence---it recovers dense geometry, camera poses, and metric scale, together with 2D/3D point tracks and moving-object masks for multi-image inputs. It couples a geometry branch with a geometry-conditioned motion branch, which predicts image-space correspondences that are lifted into 3D using reconstructed target-view geometry. Across diverse benchmarks, \u03c0^4 achieves the best overall average rank in geometry evaluation, alongside competitive performance in single- and multiview 2D/3D point tracking and moving-object segmentation. With a shared backbone, the full geometry-and-motion system contains approximately 0.5B parameters---less than half the size of most baselines. It produces joint reconstructions and tracks in one forward pass, including large-scale scenes with thousands of input images despite training with contexts of at most 64 views. We further present the data and training recipe underlying these capabilities, together with empirical studies of key design choices. Code and models are available at https://github.com/yyfz/Pi4.",
-      "ai_summary": "This unified foundation model enables the recovery of dense geometry, camera poses, and object tracking from diverse, uncalibrated observations in 4D scenes using a shared geometry and motion branch architecture.",
-      "hf_url": "https://huggingface.co/papers/2611.23144",
-      "arxiv_url": "https://arxiv.org/abs/2611.23144",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.23144.png",
+      "id": "2610.22732",
+      "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
+      "authors": "Aaron J. Li, Weijia Xu, Chandan Singh et al. (11 authors)",
+      "organization_name": "MicrosoftResearch",
+      "organization_fullname": "Microsoft Research",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png",
+      "summary": "Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas real-world developers use them to continuously build, update, and maintain large-scale projects. This mismatch motivates us to evaluate agents over sequences of realistic coding tasks, where we find that agents exhibit recurring environment-dependent token costs that existing methods struggle to reduce. To minimize these costs, we introduce TokenEconomizer, an external controller that cuts environment-specific token costs over a sequence of tasks. These cuts come from determining (i) which operational micro-skills to inject, (ii) which persistently irrelevant tools to prune, and (iii) when to intervene in unproductive failure loops. Across Claude Code, Codex, and GitHub Copilot CLI paired with frontier models, TokenEconomizer reduces the average token cost by 18.4-30.9% with comparable task success. Savings hold in every repository under every tested agent-model setting and generalize to diverse domains such as sequential web development and security auditing, where costs fall by 6.4-21.2% depending on task structure. Our work establishes adaptive black-box cost control as a promising direction for reducing token costs of coding agents in realistic settings.",
+      "ai_summary": "TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.",
+      "hf_url": "https://huggingface.co/papers/2610.22732",
+      "arxiv_url": "https://arxiv.org/abs/2610.22732",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2610.22732.png",
       "upvotes": 21,
       "num_comments": 2,
-      "published_at": "2026-11-16T19:00:00.000Z",
-      "github_repo": "https://github.com/yyfz/Pi4",
-      "github_stars": 465,
-      "project_page": "https://yyfz.github.io/pi4"
+      "published_at": "2026-10-14T20:00:00.000Z",
+      "github_repo": "https://github.com/microsoft/TokenEconomizer",
+      "github_stars": 8045,
+      "project_page": "https://tokeneconomizer.github.io/"
     },
     {
       "id": "2309.06180",
@@ -187,11 +168,30 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 94169,
+      "github_stars": 94221,
       "project_page": null
+    },
+    {
+      "id": "2611.23144",
+      "title": "\u03c0^4: A Foundation Model for 4D Scene Geometry and Motion",
+      "authors": "Yifan Wang, Weiguang Zhao, Ni Yang et al. (7 authors)",
+      "organization_name": "Shanghai-AI-Laboratory",
+      "organization_fullname": "Shanghai AI Laboratory",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65cd955637be1841d0b75397/Rao_Kq6NMtTVfSqLUIR4k.webp",
+      "summary": "\u03c0^4 is a unified foundation model for 4D scene perception. From diverse, uncalibrated RGB observations in the wild---a single image, an unordered collection, or a video sequence---it recovers dense geometry, camera poses, and metric scale, together with 2D/3D point tracks and moving-object masks for multi-image inputs. It couples a geometry branch with a geometry-conditioned motion branch, which predicts image-space correspondences that are lifted into 3D using reconstructed target-view geometry. Across diverse benchmarks, \u03c0^4 achieves the best overall average rank in geometry evaluation, alongside competitive performance in single- and multiview 2D/3D point tracking and moving-object segmentation. With a shared backbone, the full geometry-and-motion system contains approximately 0.5B parameters---less than half the size of most baselines. It produces joint reconstructions and tracks in one forward pass, including large-scale scenes with thousands of input images despite training with contexts of at most 64 views. We further present the data and training recipe underlying these capabilities, together with empirical studies of key design choices. Code and models are available at https://github.com/yyfz/Pi4.",
+      "ai_summary": "This unified foundation model enables the recovery of dense geometry, camera poses, and object tracking from diverse, uncalibrated observations in 4D scenes using a shared geometry and motion branch architecture.",
+      "hf_url": "https://huggingface.co/papers/2611.23144",
+      "arxiv_url": "https://arxiv.org/abs/2611.23144",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.23144.png",
+      "upvotes": 21,
+      "num_comments": 2,
+      "published_at": "2026-11-16T19:00:00.000Z",
+      "github_repo": "https://github.com/yyfz/Pi4",
+      "github_stars": 475,
+      "project_page": "https://yyfz.github.io/pi4"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-24T04:11:39.380809+00:00"
+  "fetched_at": "2026-11-24T15:07:34.121751+00:00"
 }

@@ -9,8 +9,8 @@
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "hn_url": "https://news.ycombinator.com/item?id=50603845",
       "author": "Retell15",
-      "points": 747,
-      "num_comments": 302,
+      "points": 766,
+      "num_comments": 312,
       "created_at": "2026-11-22T21:01:16Z",
       "object_id": "50603845",
       "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
@@ -23,8 +23,8 @@
       "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=50595537",
       "author": "Anon84",
-      "points": 180,
-      "num_comments": 547,
+      "points": 181,
+      "num_comments": 555,
       "created_at": "2026-11-22T02:10:02Z",
       "object_id": "50595537",
       "image": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
@@ -33,26 +33,12 @@
       "site_name": "NOEMA"
     },
     {
-      "title": "ClawDOS \u2013 An AI coding agent for DOS",
-      "url": "http://ricapar.net/ClawDOS/",
-      "hn_url": "https://news.ycombinator.com/item?id=50586292",
-      "author": "Ricapar",
-      "points": 175,
-      "num_comments": 52,
-      "created_at": "2026-11-21T05:38:01Z",
-      "object_id": "50586292",
-      "image": null,
-      "description": "An AI chat and coding harness for DOS, on a real IBM PC 5160 (8088 at 4.77 MHz)",
-      "favicon": "http://ricapar.net/favicon.ico",
-      "site_name": "ClawDOS"
-    },
-    {
       "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
       "url": "https://www.pandex.io",
       "hn_url": "https://news.ycombinator.com/item?id=50593481",
       "author": "vasie",
       "points": 140,
-      "num_comments": 36,
+      "num_comments": 37,
       "created_at": "2026-11-21T20:47:41Z",
       "object_id": "50593481",
       "image": "https://www.pandex.io/opengraph-image?6367cd8c0b666bc6",
@@ -93,7 +79,7 @@
       "url": "https://boazbk.github.io/mltheoryseminar/",
       "hn_url": "https://news.ycombinator.com/item?id=50602153",
       "author": "enjoyyourlife",
-      "points": 79,
+      "points": 80,
       "num_comments": 8,
       "created_at": "2026-11-22T18:01:54Z",
       "object_id": "50602153",
@@ -101,6 +87,20 @@
       "description": "Harvard CS 2881R",
       "favicon": "https://boazbk.github.io/favicon.ico",
       "site_name": "CS 2881 AI Safety"
+    },
+    {
+      "title": "Declare is a UI language for you and your AI",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "hn_url": "https://news.ycombinator.com/item?id=50622854",
+      "author": "ilamont",
+      "points": 79,
+      "num_comments": 56,
+      "created_at": "2026-11-24T02:36:56Z",
+      "object_id": "50622854",
+      "image": "https://davidtemkin.github.io/declarelang/assets/og-image.png",
+      "description": "Designed from the ground up for interfaces that act and move like the best native apps, in a few hundred lines your AI can write and its compiler can check.",
+      "favicon": "https://davidtemkin.github.io/declarelang/assets/apple-touch-icon.png",
+      "site_name": "Declare"
     },
     {
       "title": "Muru \u2013 AI-assisted Rust server for Python apps by mod_WSGI's creator",
@@ -121,7 +121,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
       "hn_url": "https://news.ycombinator.com/item?id=50610830",
       "author": "teekert",
-      "points": 74,
+      "points": 76,
       "num_comments": 82,
       "created_at": "2026-11-23T12:41:14Z",
       "object_id": "50610830",
@@ -135,7 +135,7 @@
       "url": "https://0rwx.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50605445",
       "author": "misswaterfairy",
-      "points": 69,
+      "points": 71,
       "num_comments": 17,
       "created_at": "2026-11-22T23:53:00Z",
       "object_id": "50605445",
@@ -145,7 +145,7 @@
       "site_name": "0rwx.com"
     }
   ],
-  "total_hits": 490,
+  "total_hits": 514,
   "has_metadata": true,
-  "fetched_at": "2026-11-24T04:11:28.789966+00:00"
+  "fetched_at": "2026-11-24T15:07:23.598699+00:00"
 }

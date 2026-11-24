@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Jensen Huang\u2019s Return Shows the Lengths Trump Will Go to Keep A.I. Booming",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWFBzU1YweGFUcWx4ZGQwNG8wRmxRdkdpdEkxR0JLUkNvMWNGWGZJZGdjeExBZmc4TGRJeTNoT094MDl1Vy1HYnhxS1doMUFSdy1RUkoxRUQxc21wejJCS2RxMjQzLVNfTmFsSmU2R2NaVW5NQW5iSWpuckRIYjA?oc=5",
-      "pub_date": 1795472387.0,
-      "article_url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+      "headline": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5",
+      "pub_date": 1795517366.0,
+      "article_url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
       "image": null,
       "description": null
     },
     {
-      "headline": "Meta\u2019s AI Chief Alexandr Wang Warns Against \u2018Handover Of Society To AI\u2019 In Viral Post",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVg2N1RwM0I1eXctaFNvNE1QRUpnVHlTUVVfSW5DYXlSMzRqcHN5eUhkZXBhN0Z0WDZvMWNRbF9NTkU3UGd2MEd6SnpnbHM2VDcyN3VfZEpEWEZnNy1sdFlXanZKbTFhc3puUUhURS1SdFp1Q2lrMkU2X3ZJUFJLSXk0SW1rV3Z0MGluTko3REM1U2ZqaWpyTDIwRkt4TmphVEEtRDZ3Qk5YeHJOVTFDUkJMbkNQd1VmQ2NNMTZDaXQwX3J1anZaYkdoMDhDVkx1VUZ3blRyUjNRYVVfd3RkV0NsZllwYUNfRDltUXhn?oc=5",
-      "pub_date": 1795447816.0,
-      "article_url": "https://www.forbes.com/sites/conormurray/2026/11/23/metas-ai-chief-warns-against-handover-of-society-to-ai-frustrating-social-media-users-who-want-solutions/",
-      "image": null,
-      "description": null
+      "headline": "Working with AI",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
+      "pub_date": 1795468328.0,
+      "article_url": "https://www.anthropic.com/research/working-with-ai",
+      "image": "https://assets.claude.com/cd30ce2e82eb423476801098073b39e025839018.jpg",
+      "description": "We interviewed people at 58 companies that use Claude about how AI is changing their work. They described few layoffs but reduced hiring, and said the most valuable uses of AI often involved reorganizing roles and workplaces around it."
     },
     {
-      "headline": "\u2018Superintelligence is arriving\u2019: Mark Zuckerberg\u2019s AI chief warns humanity may lose control as the AI bubble refuses to pop",
-      "source": "Yahoo Tech",
-      "source_url": "https://tech.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTldELXZsTWxFVDV1R2ZCUEJlQjN2SFVza2tfN2tueWxFR0JOSTB4R3l5ekJsQ2MzVFJoZHhSQWxOVzNaU1BXSG81N0ZFM0J2clp4MnFIYzhRUkh1ejZQZ2RSTjJiZkRkZVRqY1FsenRIcnVmWHpqRDNqelc5TnVESWt1Q2U4NzBKUkVEWGtaVGtsNmlUd0p1czFYdUw3ZkhsRVNDbGZB?oc=5",
-      "pub_date": 1795469716.0,
-      "article_url": "https://tech.yahoo.com/ai/meta-ai/articles/superintelligence-arriving-mark-zuckerberg-ai-213516936.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d9b634c5b71e8ffe3f76898343bdddcba7343edb9c3eeadbb61015d4c0cbb745/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F655f452e194537ddd8083d4abde75f35.jpg",
-      "description": "Meta\u2019s AI chief says the atomic bomb was \u201ca homework problem\u201d compared with the Riemann hypothesis, which an Anthropic mathematician says he cracked with Claude."
+      "headline": "49ers and Meta Announce Multi-Year Partnership Centered Around Meta AI Glasses",
+      "source": "49ers.com",
+      "source_url": "https://www.49ers.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFNnZU9ROUZHV1ZRbnd1ei1QaDN3amZ6YnBFLXhCcUJHTnc4YmNsTXkyTlNWeWt0WVlGaFFMT3RFQlFzT0xxeHdybGplY1pka1plSWtoZFdCWmlpV2RDQm1ITkJ2cmY2ZENnU3Nzb3luUzJOMHdtYnpHYjVNNEljbi1ZWEpCNTZhMTN4aS1qZXRQQzBYQ3didjJZWTRGQ1U0X0RXWjlYVGY?oc=5",
+      "pub_date": 1795528884.0,
+      "article_url": "https://www.49ers.com/news/49ers-and-meta-announce-multi-year-partnership-centered-around-meta-ai-glasses",
+      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/49ers/v6tfsfem7pgwo2os5rpx",
+      "description": "Together, the two Bay Area brands plan to gift Oakley Meta HSTN AI glasses to thousands of 49ers season ticket members"
     },
     {
-      "headline": "Meta\u2019s chief AI officer issues warning after Claude solves legendary math problem: \u2018Implications are enormous\u2019",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORUFjVm51ZExVVkZaaDNHZFB1NzR5QWxBRENWVURDRVN0YVpPVi1VOU5XM3hZQmROYlRUWlBXZ2xhcktxeWM3a3d6blVQa2hOSHdDSldvMUQ1NE9uUDI2d1RiVmRvdTZWX3hjNUlhMXFIMXNFM1FROUJLQVg3NkRJQ0dHY3JCb1hvazNpdFV1ZWRXdk9YeTdvVkV1RXpDWDVxUzZzZkZvUDNjM0xKR0tZRlI0OWZzYmFoSlBHY1ZIREgtQ2lMbVdFYkEySFQtSW9zZHdTNHZn?oc=5",
-      "pub_date": 1795456020.0,
-      "article_url": "https://nypost.com/2026/11/23/business/metas-chief-ai-officer-issues-warning-after-claude-solves-legendary-math-problem-riemann-hypothesis/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149819632.jpg?quality=75&strip=all&w=1200",
-      "description": "Meta\u2019s chief AI officer is heralding a new era of superintelligence \u2014 one where humanity may no longer be in control \u2014 after an Anthropic researcher used Claude to crack a notoriously difficu\u2026"
+      "headline": "\"We're racing towards huge dangers,\" AI pioneer Yoshua Bengio says",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHppUHFENjRTVWpQN2ZSR2dKbmdHQ2hhaXBuWC1FU05rRkxYSzR1ZXpYZDR5aTJvc0pEUTZDdFBuWkZvR3dUaERXNFZSWV9JTkE5WkJqR2lGaGhqRDY3VjY4d002dFZNV3BaRVVKN2JvSVluVUdGV1FWY0Z1ajVVS292SncyeHVGaExpQQ?oc=5",
+      "pub_date": 1795531833.0,
+      "article_url": "https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/aa5b81df-bd6d-44df-be35-e2a23b98b8b9/thumbnail/1200x630/cd9521ea8672fbb6f1eebf8cefcd7e2c/yoshua-bengio-headshot-2026-1.jpg",
+      "description": "As one of the \"godfathers\" of artificial intelligence, Yoshua Bengio helped bring generative AI into the world. Now he worries society isn't ready for what's coming."
     },
     {
-      "headline": "Man arrested after posting fake AI videos of San Jacinto County Sheriff Sam Houston, officials say",
-      "source": "ABC13 Houston",
-      "source_url": "https://abc13.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaDNFYzZaZDl5R3d3UjVwanJuOHRCRWRKaGZhZ1dSZTBzUERYOXR5U1YwS3d5QnpLMGQ3OUo1ODk3TnRtVTd2blVaNVREZ0wwTWo4VFRtbnQzLXBXZkdVbWJSZWw0NnVhMGxHYUp5M0ZDVGF5dVhBN2M4Yk5UN2NHdm03OXNGSk1pYU9uem5UdDhBcG9XMzdpR0U2NXFmN1M4d2JvX0stMEFtZzc2SG1YV0RYX1YteE1ZV0sweEt30gHDAUFVX3lxTFBGak11Vm1pNWZ1S0xld2pCLXIxakc1Z05YbUZkZTZUdFliTk9Pd3dJLTluT01adldwWmkxUXRES3gwb19LLS16UEZ3Yklta1NHYWVIWjhSYU5obkg0cUVSQUZCOWd2emZhUVdsX1RhMjJBR3l0WU9PSE03bUNUamZMcTNnRlpCdHVDMnZZc2xKTDFCZ3dqVnJyYjZhbi1mZm4wWkp4aENrLUhOU0ZTdVdnMXJVcVpERHRpQ0ZnUjQ2R1NXZw?oc=5",
-      "pub_date": 1795490658.0,
-      "article_url": "https://abc13.com/post/man-arrested-posting-fake-ai-videos-san-jacinto-county-sheriff-sam-houston-officials-say/20072503/",
-      "image": "https://cdn.abcotvs.com/dip/images/20072506_112326-ktrk-san-jacinto-county-sheriff-img.png?w=1600",
-      "description": "A Coldspring man says he was surprised when his AI-generated videos of San Jacinto County Sheriff Sam Houston landed him behind bars."
-    },
-    {
-      "headline": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0N6eHducGhQY2ZyMTlRNjZOZHhoSnp0aGdkVTJsU2t0TnVhTGwtU0RVTVFFbXh1T0E1Z3BIWXJBdXgzbG1hQ2k0Znl2RFJLOUdLUGh2RjJSVHBidkdycXFzRDR3dzlyd0hXcHE3RmNSYnNRaEdQNWIyMHpYZzU0R0VTM0JKcVVpQTVz0gGQAUFVX3lxTE9rVEo0OGV5SWVvM3VzRHUtUEZKUkZVNjlxcWdyTGZKZDVlZ1M5QTNhbWszQ0hxOGhTXzh1MXVycXI0WVBoVHpBUHNhN0h2YXBYVVk2WFBSdFBXUWdPSS1qNUc1dk5obHpjSDNZdUFfamM1bFA3RV9fdm5jM1FoUFlGLVVOQjN4WjR3ZXNUR0M0MQ?oc=5",
-      "pub_date": 1795444725.0,
-      "article_url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108557320-1795437543594-gettyimages-2306451809-vcg111684299096.jpeg?v=1795437565&w=1920&h=1080",
-      "description": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks."
-    },
-    {
-      "headline": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
-      "pub_date": 1795282846.0,
-      "article_url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How freaked out should we be? After mass outages, experts tell us how close we are to \u2018doomsday\u2019",
+      "headline": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekdwekpVYy1FOGdpeENiMi1LY1NpUDgtYWhVdV9KZGVjVk1Rb0lCMVJKUDZra05VV0wydE1kc0JvaVRrRHJSREZBTFBTT1V0cUpmZFNIdGlDeExPSGpMRkJVSjB4ai1TOTZqQ2U3eTdGUWJ6TGd3REpiT2xBT1ZWZnc2ZUdaakk?oc=5",
-      "pub_date": 1795453080.0,
-      "article_url": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
-      "image": "https://i.guim.co.uk/img/media/9d85845928e02b3a6eff671b4454f59dd4937dfb/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a4c5cd9f67018c9f41674609cc7df94",
-      "description": "As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHJrOW9PVjh5OFBNZG9oUDBwS1gxUG1aSm5DZGFHMVJCa1V0azZpWTFtX2xkTm9HYXBLbjJuSmktX0hTV3BwUVlVODVSdFNTYlU0VVB4OERRS3F0a1VOQlIySFRmMjhKek52cmd2WWNnOFQtejN2bUlNTXlSWkowR2d1eGg?oc=5",
+      "pub_date": 1795530120.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
+      "image": "https://i.guim.co.uk/img/media/2af8dc339680254d727ae111d98215911e512776/312_0_2916_2333/master/2916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e39dffc5641134909935e68de4bb2d3f",
+      "description": "New York City mayor notes \u2018massive impact\u2019 on working Americans\u2019 lives when Jensen Huang stepped down as CEO"
     },
     {
-      "headline": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGl5dzhJZEtScFQxVzh3VVUzM1RpcXhMd1lFd1A4WkpVbGNhNmxQMEt1cDJZbG1mX20yLTk4Rnd4UW9UX244YThfOGptdThRNjhxcklRdnNwOExyellLU3ZKYzdtbXQyN1BSajNqcEFpTjFBalhRV2ZpaF8xejYxcFp3bWQ?oc=5",
-      "pub_date": 1795450412.0,
-      "article_url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+      "headline": "Nasdaq Futures Fall as Questions Linger Over AI Trade",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5",
+      "pub_date": 1795526880.0,
+      "article_url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71",
       "image": null,
       "description": null
     },
     {
-      "headline": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "headline": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5",
+      "pub_date": 1795529795.0,
+      "article_url": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d520914a559c3a320491294c5119b3cdaf6f2c568ec1dafbb8afe923277c9c00/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fb3f6c15b-9a31-459a-8adb-dc55613d3709",
+      "description": "Chip giant Nvidia led semiconductor stocks lower on Tuesday."
+    },
+    {
+      "headline": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday\u2019s Rally",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNzAwNUxMLVhwWjVNV0FCN3VrS0ZaMy1DS1Q3Q1dzOVVPM19LRXNhN3djeWpQMlg4dUR1enNmaHNQV1duekxwZ1lSLVpTT3lMN281cE80VHlja0NuSG1SXzdDdU1SbWEzRWhuQmR1NzM5d0FvaE9qazJVUFJTT2M?oc=5",
+      "pub_date": 1795526093.0,
+      "article_url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia surge: What investors should do with the stock and the AI trade now",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHNWNVZoWUNJLXJxQl9wTkZnTFdZNkVTZXllR2pxSlFMeWxnS0xENDRnUXZBSENCV3lybG1tSXFfWF9xdWJiMHVxYlhWSXVkMU9lTFlFR200Qkg2eVpOR2NzRE55RXhudHRnb1QzTEZIdXFQUWl2bDRVMDVxT2FqbkNnTXJVS1J5bGfSAY8BQVVfeXFMTzdXQVNETlE0OGxPY0FSejh4THJESzBWQ0ZnV1NXRWtwUEE5T0hpbGs2SmpYMXVTdThMa1BqR2xQTTN2ZWZQb1JkZ0RfOC1KZm0yRldLX19pWWZpZUpBVGxpTXRyWF9KTW1hSUdHcENaVDlQN0QtcFdnSTJyMEl3ejNGNHRYc093blFaakhHS0k?oc=5",
-      "pub_date": 1795437637.0,
-      "article_url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108282790-1774443628624-gettyimages-2265843824-raa-grokaieu260313_np8wx.jpeg?v=1774443657&w=1920&h=1080",
-      "description": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images."
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZWtBWk05Z2I0ZmRRLTdjRDYyTHJURXdFWTlSOHZ6aDR2R2xDeDk1S2xOUGJmYXdFbDg2dG5oVDJYN1h1VjhncmZIY0xWZGxhMlFlNms1TGFsRlQ0Z0pHZm5hSjFESnAzaXBRcDc2ZHlnVVJWRFJwNi1IY9IBgAFBVV95cUxNd19EVE9ZXzlHUDZUc3hSX1I5SnVEODhhT0Noa29RTHBhV0l2RnlheXhCRWdqRW5BbTc0SGxLblYwZTBfQVVub1d4eGdaWjZKM1BhRlUwTk43RnFpUWdEWTU5VzM2d1J0ODdHeGRGdlkyMW8xYlNJbG5MWUZRU003aA?oc=5",
+      "pub_date": 1795463541.0,
+      "article_url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108279135-17737747902026-03-17t190331z_1569419364_rc2i6kamf29y_rtrmadp_0_nvidia-gtc.jpeg?v=1794956662&w=1920&h=1080",
+      "description": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up."
+    },
+    {
+      "headline": "Amazon says hackers\u2019 AI agents found and exploited 0-day with little human input",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEl5b3ZJMXBEYm5sS0J6cWR4WUhtUnYzaXV1emJQSFFDdERIVTMyVmdPVnpHaV9ubVJDUTVBa3NQOVFlcXBDQjJiWkQyVmJ0X3hxamd1MEFfWC1sZHE4RmVIRy1tUnBMMHBrdXpOMnVoX1JEXzRrVGthRkQtRlI0dFh0VHBSX0t3STlmRFRGbGd2azlMSjlxbnA3Y3lhbWNBWFRwSHN0NjVfbHBPSEVsdWRtNUR5Y1ZtcGJkRHF3?oc=5",
+      "pub_date": 1795523405.0,
+      "article_url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+      "description": "The Cairn AI framework is proving to be a boon for defenders and attackers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-24T04:11:56.340869+00:00"
+  "fetched_at": "2026-11-24T15:07:57.992730+00:00"
 }
