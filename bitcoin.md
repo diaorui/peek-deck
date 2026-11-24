@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-23T18:37:41.807227+00:00'
+updated: '2026-11-24T04:12:02.470952+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 23, 2026 at 18:37 UTC  
+**Last Updated:** November 24, 2026 at 04:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,577.94
+### $60,338.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -5.3%  
-**30d:** -23.3%  
-**90d:** -22.2%  
-**1y:** -30.6%  
+**24h:** -1.9%  
+**7d:** -4.0%  
+**30d:** -24.5%  
+**90d:** -24.6%  
+**1y:** -30.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1236.54B
+**Market Cap:** $1213.30B
 Rank #1
 
-**Circulating Supply:** 20,116,290 BTC
+**Circulating Supply:** 20,116,587 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--51.2%
+-52.2%
 
 **All-Time Low:** $67.81
-+90548.9%
++88844.1%
 
 ---
 
@@ -97,13 +97,13 @@ We’re so back! /s
 
 Congrats everyone.
 
-8d ago
+9d ago
 
 ---
 
 **[bitcoin will be 170k-200k in sep 2029](https://www.reddit.com/r/Bitcoin/comments/1xx3wds/bitcoin_will_be_170k200k_in_sep_2029/)**
 
-7d ago
+8d ago
 
 ---
 
@@ -125,7 +125,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 62 > 64.5
 
-8d ago
+9d ago
 
 ---
 
@@ -133,13 +133,13 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 I really have no words of hope. But I am holding on.
 
-8d ago
+9d ago
 
 ---
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1xwizma/hodl/)**
 
-8d ago
+9d ago
 
 ---
 
@@ -147,7 +147,7 @@ I really have no words of hope. But I am holding on.
 
 What is going on with Bitcoin today?
 
-8d ago
+9d ago
 
 ---
 
@@ -155,37 +155,59 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
-**[Serious U.S. Treasury Secretary Warning To The Fed Puts Bitcoin And Crypto On The Brink Of A Surprise Price Shock](https://www.forbes.com/sites/digital-assets/2026/11/23/serious-us-treasury-secretary-warning-to-the-fed-puts-bitcoin-and-crypto-on-the-brink-of-a-surprise-price-shock/)**
-
-Forbes • 5h ago
-
----
-
-**[Bitcoin Just Did Something It Has Only Done Twice Before, and Traders Are Uneasy](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-did-something-only-103100328.html)**
-
-Bitcoin closed seven straight red weekly candles, a rare streak seen only in 2015 and 2022. Here is what may come next.
-
-Yahoo Finance • 8h ago
-
----
-
-**[Bitcoin rises after falling to two-year low](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)**
+**[Bitcoin rises after falling to two-year low](https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5)**
 
 Reuters • 2d ago
 
 ---
 
-**[Strategy and Crypto Stocks Rally as Bitcoin Rebounds Past $63,000. Is the Jump Temporary?](https://www.barrons.com/articles/bitcoin-prices-crypto-stock-strategy-robinhood-e5388148)**
+**[Bitcoin, XRP plunged more than 70% on Kraken, and buyers get to keep cheap coins](https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand)**
 
-Barron's • 3h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Bitcoin Futures](https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin)**
+**[Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEJWNUpxV1pydU9OT3Z4VnpWc2Q3dThJb1pwZXg5RjlBeGZBRE9SaDdqYmlMS3ZIWlBBNFdDckp0bTZRT1FDajNVV0dGZ1pRLTdFdi1mbjJxUG9PVGlWUXJxOEpqWWpaMkhadUJTVFVLRDBBOGFwWHJCQmYxaGtfSDJqUlpjWFRQN1dUakdjNEhaM2g3amVXZ05kVU9IbmMzNVJsNVNEb2M2Ul9Cd3ZybHRJbTdzZw?oc=5)**
 
-Find information for Bitcoin Overview provided by CME Group. View Overview
+Bloomberg.com • 19m ago
 
-CME Group • 4d ago
+---
+
+**[Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-bigger-role-us-025108257.html)**
+
+The advisory is a staff opinion that does not create new rules, and crypto still can't meet a separate rule that requires cash or highly liquid securities.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Dow, Nasdaq and Bitcoin Jump on Huang's Return, but Why Did Bitcoin Reverse?](https://finance.yahoo.com/markets/crypto/articles/dow-nasdaq-bitcoin-jump-huangs-020000334.html)**
+
+Nasdaq held a 6.5% gain on Huang's return, but a Bitcoin reversal faded the spike. Here is what likely drove it.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Trump Issues Serious China Warning As Crypto Nightmare Comes True](https://www.forbes.com/sites/digital-assets/2026/11/23/trumps-crypto-nightmare-is-suddenly-coming-true/)**
+
+Forbes • 15h ago
+
+---
+
+**[Grayscale says bitcoin and major altcoins look 'oversold' as AI risks cloud near-term outlook](https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418)**
+
+Grayscale's Zach Pandl said the near-term outlook for crypto depends more on AI-related risks than on blockchain fundamentals.
+
+The Block • 5h ago
+
+---
+
+**[North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers](https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers)**
+
+North Korea’s hackers have now funneled at least $247 million from the record $6.4 billion Binance theft through Bitcoin coinjoins.
+
+Decrypt • 7h ago
 
 ---
 
@@ -193,35 +215,15 @@ CME Group • 4d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 5h ago
+Fortune • 12h ago
 
 ---
 
-**[Bitcoin ETF Exodus Gathers Pace, Removing Key Source of Support](https://www.bloomberg.com/news/articles/2026-11-23/bitcoin-etf-exodus-gathers-pace-removing-key-source-of-support)**
+**[Bitcoin faces resistance as short-term holder cost basis fails](https://www.tradingview.com/news/cryptobriefing:baf6eda18094b:0-bitcoin-faces-resistance-as-short-term-holder-cost-basis-fails/)**
 
-Bloomberg.com • 4h ago
+Bitcoin has run into a wall, and the wall used to be a floor.On-chain analytics from Glassnode show that the cost basis cluster for short-term holders, sitting between $62,000 and $65,000, failed to hold as support in mid-to-late November. After price broke below that band, recent buyers started se…
 
----
-
-**[Bitcoin (BTC) price rebounds from 2-year low as Wall Street futures recover: Crypto Markets Today](https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover)**
-
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks](https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html)**
-
-Bitcoin’s sell-off is tracking risk assets again as experts weigh rates, ETF flows, politics and whether the crypto can function as a market hedge.
-
-CNBC • 3d ago
-
----
-
-**[Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO](https://bitcoinmagazine.com/markets/bitcoin-price-surges-64000-nvidia)**
-
-Bitcoin surged near $63,700 after Nvidia reinstated Jensen Huang as CEO. Stocks, COIN, MSTR and miners jump after a weekend low near $55,100.
-
-Bitcoin Magazine • 4h ago
+TradingView • 7h ago
 
 ---
 
@@ -239,7 +241,15 @@ Bitcoin Magazine • 4h ago
 
 Notes on mathematics and puzzles.
 
-⬆️ 7 • 💬 0 • 1d ago • [echo.ls](https://echo.ls/zden-level-halv/)
+⬆️ 7 • 💬 0 • 2d ago • [echo.ls](https://echo.ls/zden-level-halv/)
+
+---
+
+**[Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents](https://news.ycombinator.com/item?id=50572502)**
+
+Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...
+
+⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
 
 ---
 
@@ -248,14 +258,6 @@ Notes on mathematics and puzzles.
 CVE-2026-117348 - Node stall through duplicate orphan announcements
 
 ⬆️ 2 • 💬 0 • 1d ago • [Bitcoin Core](https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/)
-
----
-
-**[Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents](https://news.ycombinator.com/item?id=50572502)**
-
-Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...
-
-⬆️ 2 • 💬 0 • 3d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
 
 ---
 
@@ -293,7 +295,7 @@ Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Pot
 
 A highly accurate partial evaluator for LLVM bitcode
 
-⬆️ 2 • 💬 0 • 2h ago • [LLPE](http://www.llpe.org/)
+⬆️ 2 • 💬 0 • 11h ago • [LLPE](http://www.llpe.org/)
 
 ---
 
@@ -301,7 +303,7 @@ A highly accurate partial evaluator for LLVM bitcode
 
 Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.
 
-⬆️ 3 • 💬 0 • 4h ago • [gnomon.bitsinfra.com](https://gnomon.bitsinfra.com/)
+⬆️ 3 • 💬 0 • 14h ago • [gnomon.bitsinfra.com](https://gnomon.bitsinfra.com/)
 
 ---
 
@@ -309,33 +311,13 @@ Git for Postgres data, built for agents: branches, history, merges and undo insi
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Rebounds w/ Jensen Reinstated as Nvidia CEO](https://www.youtube.com/watch?v=mkeNSOYiHqs)**
+**[The Crash Was a LIE! Why Bitcoin&#39;s Bottom Is Finally In](https://www.youtube.com/watch?v=0shaXx_n870)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Play *Frontline Season 2* - https://frontlinefps.com/ ...
-
-📺 CryptosRUs
-
-👁️ 16K • 👍 681 • 💬 177 • ⏱️ 44:49 • 3h ago
-
----
-
-**[Bitcoin&#39;s $11.3B CAPITULATION. Was That The Bottom?](https://www.youtube.com/watch?v=DVKuBD7WB6Y)**
-
-Macro Monday: Bitcoin's capitulation weekend and rebound, Wall Street's worst week since 2020, and what the Fed and the stock ...
-
-📺 The Wolf Of All Streets
-
-👁️ 18K • 👍 560 • 💬 51 • ⏱️ 1:03:39 • 3h ago
-
----
-
-**[The $55k Bitcoin Crash Explained: What Happened Every Other Time Bitcoin Did This?](https://www.youtube.com/watch?v=Q2JbbQEzuhk)**
-
-Banking outages, leaked customer data, and growing cyber threats are exposing just how fragile our financial infrastructure can ...
+Bitcoin crashed to $55000, NVIDIA CEO Jensen Huang was suddenly reinstated, and the stock market staged a historic reversal.
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 1K • 💬 113 • ⏱️ 11:53 • 19h ago
+👁️ 19K • 👍 1K • 💬 94 • ⏱️ 18:41 • 5h ago
 
 ---
 
@@ -345,17 +327,17 @@ Join Learning Crypto: ...
 
 📺 Crypto Tips
 
-👁️ 981 • 👍 138 • 💬 106 • ⏱️ 6:21 • 1h ago
+👁️ 13K • 👍 428 • 💬 80 • ⏱️ 6:21 • 11h ago
 
 ---
 
-**[BITCOIN BOTTOM CONFIRMED!!!? [BREAKING FROM BEN COWEN]](https://www.youtube.com/watch?v=q5YbqGpuPBg)**
+**[Bitcoin (BTC): The Bottom Could Be In... But There&#39;s One BIG Risk! (WATCH ASAP)](https://www.youtube.com/watch?v=yhvH6H8xxsU)**
 
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Excluding Australian Viewers) 15% off ...
 
-📺 Crypto Kid
+📺 MegaWhale Crypto
 
-👁️ 4K • 👍 233 • 💬 24 • ⏱️ 1:05 • 3h ago
+👁️ 3K • 👍 289 • 💬 35 • ⏱️ 21:31 • 3h ago
 
 ---
 
@@ -365,17 +347,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 215 • 💬 52 • ⏱️ 25:02 • 13h ago
-
----
-
-**[🚨 BTC &amp; Crypto: Bottom is in???](https://www.youtube.com/watch?v=Fj7Fjo71wlg)**
-
-Bitcoin, ethereum and the rest of the crypto market have dropped a lot. But is the bottom in or not yet? Here are all the latest news ...
-
-📺 Thomas Kralow
-
-👁️ 9K • 👍 1K • 💬 20 • ⏱️ 18:43 • 7h ago
+👁️ 21K • 👍 239 • 💬 62 • ⏱️ 25:02 • 23h ago
 
 ---
 
@@ -385,27 +357,57 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 7K • 👍 329 • 💬 103 • ⏱️ 4:14 • 4h ago
+👁️ 15K • 👍 467 • 💬 123 • ⏱️ 4:14 • 14h ago
 
 ---
 
-**[Why Everyone Is Wrong About Bitcoin](https://www.youtube.com/watch?v=EFOSYsuNTEo)**
+**[Bitcoin, Stocks, Gold: Which Bottoms First? | Ben Cowen](https://www.youtube.com/watch?v=4eAopdYBvts)**
 
-Bitcoin just fell as low as about $55600, down roughly 56% from its all-time high. Sentiment is horrendous, and the arguments ...
+Start earning interest in gold: https://Monetary-Metals.com/Lin Recorded at "Investing Through The Cycles" Conference Miami, ...
 
-📺 Joe Burnett
+📺 David Lin 
 
-👁️ 36K • 👍 838 • 💬 111 • ⏱️ 18:10 • 1d ago
+👁️ 58K • 👍 996 • 💬 143 • ⏱️ 43:20 • 9h ago
 
 ---
 
-**[Michael Saylor: &quot;History is Repeating for Bitcoin&quot;](https://www.youtube.com/watch?v=Ybs3g0hu-CY)**
+**[They&#39;re Hiding Something About Bitcoin And They Know Something About Crypto They Just Said It Again](https://www.youtube.com/watch?v=OVe5Q2AUEnA)**
 
-Michael Saylor: “An Urgent Message To All Bitcoin Holders!” Earn $14550 as a new user on Bitbase (sign-up & trading ...
+Alright everyone. Something is up, and I think we dont have much longer before we all figure out what it is. The richest people on ...
 
-📺 Altcoin Daily
+📺 Money Rules - Investing Tips 
 
-👁️ 65K • 👍 2K • 💬 181 • ⏱️ 12:10 • 20h ago
+👁️ 27K • 👍 2K • 💬 396 • ⏱️ 17:32 • 15h ago
+
+---
+
+**[NEW SECRET BATTLE OVER BITCOIN ACCELERATES!!! | EP 1640](https://www.youtube.com/watch?v=pd73WyS0_Jc)**
+
+While everyone is focused on the price breakdown, a new attack on bitcoin perception is building in the political sphere, involving ...
+
+📺 Simply Bitcoin
+
+👁️ 12K • 👍 282 • 💬 24 • ⏱️ 1:16:34 • 9h ago
+
+---
+
+**[Bitcoin Dropped to $55,000: Is the Bottom Finally In?](https://www.youtube.com/watch?v=egtuhOSq-10)**
+
+In this update from The News Block, Natalie Brunell breaks down record BlackRock fund outflows, why analysts are split between ...
+
+📺 Natalie Brunell
+
+👁️ 16K • 👍 274 • 💬 22 • ⏱️ 2:30 • 6h ago
+
+---
+
+**[They’re About To Reset The Price Of Gold, Silver, And Bitcoin](https://www.youtube.com/watch?v=ZFeXrGgUXx8)**
+
+Gusto: Get 3-months FREE when you run your first payroll at http://gusto.com/MINDSET *This is an advertiser. Minority Mindset is ...
+
+📺 Minority Mindset
+
+👁️ 278K • 👍 5K • 💬 431 • ⏱️ 23:29 • 15h ago
 
 ---
 
