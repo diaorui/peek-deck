@@ -5,24 +5,84 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Perplexity and Intelligence",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5",
-      "pub_date": 1795374761.0,
-      "article_url": "https://openai.com/index/perplexity-and-intelligence/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
-      "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+      "headline": "Jensen Huang\u2019s Return Shows the Lengths Trump Will Go to Keep A.I. Booming",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWFBzU1YweGFUcWx4ZGQwNG8wRmxRdkdpdEkxR0JLUkNvMWNGWGZJZGdjeExBZmc4TGRJeTNoT094MDl1Vy1HYnhxS1doMUFSdy1RUkoxRUQxc21wejJCS2RxMjQzLVNfTmFsSmU2R2NaVW5NQW5iSWpuckRIYjA?oc=5",
+      "pub_date": 1795472387.0,
+      "article_url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Virginia, Oregon sue Musk\u2019s SpaceX over Grok AI\u2019s creation of child sexual abuse images",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEkwSmdCU093RXhPV3NmV3ZHYWhIeXVkYWxKZl9TQ2JUbnR4SGUwRFNlaVRLS3YtRGhpM0s0WmF3bjZXTWQ5RFcwdW9USkhRdkdvY0VVZFkwblNwRUNNV1BIejRIYXhQcG5Hd0xmX2tiVzlLdEFiOFctX0h4ZFJLWHA1MWFRUkxEQ3hmalNDd05wVFl2Y194ekY3MjNaUWNwb3RiX09MY3l1cENlRUwyLXVxd0FyZ1hsVWpj?oc=5",
-      "pub_date": 1795454581.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/virginia-oregon-sue-musks-spacex-grok-ais-creation-child-sexual-abuse-rcna610923",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-elon-musk-ew-1205p-ec2af5.jpg",
-      "description": "Investigators from the attorney general\u2019s office in Virginia found that Grok\u2019s image moderation was inconsistent, and that the bot would advise users on how to circumvent the moderation measures by avoiding words that triggered it."
+      "headline": "Meta\u2019s AI Chief Alexandr Wang Warns Against \u2018Handover Of Society To AI\u2019 In Viral Post",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVg2N1RwM0I1eXctaFNvNE1QRUpnVHlTUVVfSW5DYXlSMzRqcHN5eUhkZXBhN0Z0WDZvMWNRbF9NTkU3UGd2MEd6SnpnbHM2VDcyN3VfZEpEWEZnNy1sdFlXanZKbTFhc3puUUhURS1SdFp1Q2lrMkU2X3ZJUFJLSXk0SW1rV3Z0MGluTko3REM1U2ZqaWpyTDIwRkt4TmphVEEtRDZ3Qk5YeHJOVTFDUkJMbkNQd1VmQ2NNMTZDaXQwX3J1anZaYkdoMDhDVkx1VUZ3blRyUjNRYVVfd3RkV0NsZllwYUNfRDltUXhn?oc=5",
+      "pub_date": 1795447816.0,
+      "article_url": "https://www.forbes.com/sites/conormurray/2026/11/23/metas-ai-chief-warns-against-handover-of-society-to-ai-frustrating-social-media-users-who-want-solutions/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Superintelligence is arriving\u2019: Mark Zuckerberg\u2019s AI chief warns humanity may lose control as the AI bubble refuses to pop",
+      "source": "Yahoo Tech",
+      "source_url": "https://tech.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTldELXZsTWxFVDV1R2ZCUEJlQjN2SFVza2tfN2tueWxFR0JOSTB4R3l5ekJsQ2MzVFJoZHhSQWxOVzNaU1BXSG81N0ZFM0J2clp4MnFIYzhRUkh1ejZQZ2RSTjJiZkRkZVRqY1FsenRIcnVmWHpqRDNqelc5TnVESWt1Q2U4NzBKUkVEWGtaVGtsNmlUd0p1czFYdUw3ZkhsRVNDbGZB?oc=5",
+      "pub_date": 1795469716.0,
+      "article_url": "https://tech.yahoo.com/ai/meta-ai/articles/superintelligence-arriving-mark-zuckerberg-ai-213516936.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d9b634c5b71e8ffe3f76898343bdddcba7343edb9c3eeadbb61015d4c0cbb745/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F655f452e194537ddd8083d4abde75f35.jpg",
+      "description": "Meta\u2019s AI chief says the atomic bomb was \u201ca homework problem\u201d compared with the Riemann hypothesis, which an Anthropic mathematician says he cracked with Claude."
+    },
+    {
+      "headline": "Meta\u2019s chief AI officer issues warning after Claude solves legendary math problem: \u2018Implications are enormous\u2019",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORUFjVm51ZExVVkZaaDNHZFB1NzR5QWxBRENWVURDRVN0YVpPVi1VOU5XM3hZQmROYlRUWlBXZ2xhcktxeWM3a3d6blVQa2hOSHdDSldvMUQ1NE9uUDI2d1RiVmRvdTZWX3hjNUlhMXFIMXNFM1FROUJLQVg3NkRJQ0dHY3JCb1hvazNpdFV1ZWRXdk9YeTdvVkV1RXpDWDVxUzZzZkZvUDNjM0xKR0tZRlI0OWZzYmFoSlBHY1ZIREgtQ2lMbVdFYkEySFQtSW9zZHdTNHZn?oc=5",
+      "pub_date": 1795456020.0,
+      "article_url": "https://nypost.com/2026/11/23/business/metas-chief-ai-officer-issues-warning-after-claude-solves-legendary-math-problem-riemann-hypothesis/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149819632.jpg?quality=75&strip=all&w=1200",
+      "description": "Meta\u2019s chief AI officer is heralding a new era of superintelligence \u2014 one where humanity may no longer be in control \u2014 after an Anthropic researcher used Claude to crack a notoriously difficu\u2026"
+    },
+    {
+      "headline": "Man arrested after posting fake AI videos of San Jacinto County Sheriff Sam Houston, officials say",
+      "source": "ABC13 Houston",
+      "source_url": "https://abc13.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaDNFYzZaZDl5R3d3UjVwanJuOHRCRWRKaGZhZ1dSZTBzUERYOXR5U1YwS3d5QnpLMGQ3OUo1ODk3TnRtVTd2blVaNVREZ0wwTWo4VFRtbnQzLXBXZkdVbWJSZWw0NnVhMGxHYUp5M0ZDVGF5dVhBN2M4Yk5UN2NHdm03OXNGSk1pYU9uem5UdDhBcG9XMzdpR0U2NXFmN1M4d2JvX0stMEFtZzc2SG1YV0RYX1YteE1ZV0sweEt30gHDAUFVX3lxTFBGak11Vm1pNWZ1S0xld2pCLXIxakc1Z05YbUZkZTZUdFliTk9Pd3dJLTluT01adldwWmkxUXRES3gwb19LLS16UEZ3Yklta1NHYWVIWjhSYU5obkg0cUVSQUZCOWd2emZhUVdsX1RhMjJBR3l0WU9PSE03bUNUamZMcTNnRlpCdHVDMnZZc2xKTDFCZ3dqVnJyYjZhbi1mZm4wWkp4aENrLUhOU0ZTdVdnMXJVcVpERHRpQ0ZnUjQ2R1NXZw?oc=5",
+      "pub_date": 1795490658.0,
+      "article_url": "https://abc13.com/post/man-arrested-posting-fake-ai-videos-san-jacinto-county-sheriff-sam-houston-officials-say/20072503/",
+      "image": "https://cdn.abcotvs.com/dip/images/20072506_112326-ktrk-san-jacinto-county-sheriff-img.png?w=1600",
+      "description": "A Coldspring man says he was surprised when his AI-generated videos of San Jacinto County Sheriff Sam Houston landed him behind bars."
+    },
+    {
+      "headline": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0N6eHducGhQY2ZyMTlRNjZOZHhoSnp0aGdkVTJsU2t0TnVhTGwtU0RVTVFFbXh1T0E1Z3BIWXJBdXgzbG1hQ2k0Znl2RFJLOUdLUGh2RjJSVHBidkdycXFzRDR3dzlyd0hXcHE3RmNSYnNRaEdQNWIyMHpYZzU0R0VTM0JKcVVpQTVz0gGQAUFVX3lxTE9rVEo0OGV5SWVvM3VzRHUtUEZKUkZVNjlxcWdyTGZKZDVlZ1M5QTNhbWszQ0hxOGhTXzh1MXVycXI0WVBoVHpBUHNhN0h2YXBYVVk2WFBSdFBXUWdPSS1qNUc1dk5obHpjSDNZdUFfamM1bFA3RV9fdm5jM1FoUFlGLVVOQjN4WjR3ZXNUR0M0MQ?oc=5",
+      "pub_date": 1795444725.0,
+      "article_url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108557320-1795437543594-gettyimages-2306451809-vcg111684299096.jpeg?v=1795437565&w=1920&h=1080",
+      "description": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks."
+    },
+    {
+      "headline": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
+      "pub_date": 1795282846.0,
+      "article_url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How freaked out should we be? After mass outages, experts tell us how close we are to \u2018doomsday\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekdwekpVYy1FOGdpeENiMi1LY1NpUDgtYWhVdV9KZGVjVk1Rb0lCMVJKUDZra05VV0wydE1kc0JvaVRrRHJSREZBTFBTT1V0cUpmZFNIdGlDeExPSGpMRkJVSjB4ai1TOTZqQ2U3eTdGUWJ6TGd3REpiT2xBT1ZWZnc2ZUdaakk?oc=5",
+      "pub_date": 1795453080.0,
+      "article_url": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
+      "image": "https://i.guim.co.uk/img/media/9d85845928e02b3a6eff671b4454f59dd4937dfb/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a4c5cd9f67018c9f41674609cc7df94",
+      "description": "As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night"
     },
     {
       "headline": "Elon Musk Faces an A.I. Dilemma at SpaceX",
@@ -43,68 +103,8 @@
       "article_url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108282790-1774443628624-gettyimages-2265843824-raa-grokaieu260313_np8wx.jpeg?v=1774443657&w=1920&h=1080",
       "description": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images."
-    },
-    {
-      "headline": "Jim Cramer: Jensen Huang\u2019s return is 'so huge' for Nvidia and the AI trade",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaW1ETUVpc19hYXZJR3dMcVoxLTBJSU0zR3BINGNxWGVBYTRmMGFBdy1DU0ZYbTB2blI0NzhudVZjUUN1c3A3QTRlRzlZSGgtWEJBTHJ5eFlpbFkwbEJ3bktPQzI1STNxdXZZWUNBdXdJblJURDhabDRMc250Z3o4X3laTEJnLWM4UXE4VlVrVDlrYUxVaFpCcXFsS19tZlJaTGhEM0VhcktjREVaOVo1RFNRUmNqdHZq?oc=5",
-      "pub_date": 1795449227.0,
-      "article_url": "https://www.cnbc.com/investingclub/2026/11/23/cramer-jensen-huangs-return-is-so-huge-for-nvidia-and-the-ai-trade.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108370443-1790789143593-gettyimages-2285694161-AFP_C2CF2CR.jpeg?v=1795450583&w=1920&h=1080",
-      "description": "Nvidia shares are soaring more than 30% on news of Jensen Huang's return as CEO."
-    },
-    {
-      "headline": "Jensen Huang Upends AI Outlook Once Again | The Morning Download for Nov. 23",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDVFeDNBZEhMNTBHcU9XQW9hT0RBQklFSFJweER4ZHlEQnlQLXN2ajhYVlUyU1dIR1dPZENoYV9aMnhmUTBKLXo2b1RnV05TaVd1WlRUOG9YZkh5TzBqSmhjMVJCQ2FLUEp3T081MFZ0UG1FR3FpNlh1dWNmcWdiTWNxRkg3aDN4Vnc?oc=5",
-      "pub_date": 1795450140.0,
-      "article_url": "https://www.wsj.com/cio-journal/jensen-huang-upends-ai-outlook-once-again-b2bdb17d",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trump posts AI image of Jensen Huang after news of reinstatement",
-      "source": "FOX 4 News Dallas-Fort Worth",
-      "source_url": "https://www.fox4news.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTmRZUFBtSEdPUGFvd1dkU2hyNnVzckZUQWRsb2dfcTFoaDh1UE9JUWNUcnUxTUROUGtyejQ1MnZRcERzNTRROE40Z1FvSHVQOWJWTlplWDV1dF9BVnM0N2dfODRyUWo3Yl9BQTZ1cm9MaGxBMzExa2ZMX2NnUEEtRkdiU1NTRHU2TGZTbWt6MEM1QQ?oc=5",
-      "pub_date": 1795454950.0,
-      "article_url": "https://www.fox4news.com/news/trump-posts-ai-image-jensen-huang-after-news-reinstatement",
-      "image": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2026/11/1200/630/image-2026-11-23t111421.304.jpg?ve=1&tl=1",
-      "description": "Nvidia's board of directors voted to reinstate Jensen Huang as president, CEO and board director. President Trump posted an AI-generated image of Huang holding up a red bra following the news."
-    },
-    {
-      "headline": "Amazon Is Said to Pay $7.5 Billion For AI Startup Decart\u2019s Tech",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEtGbThuSmc5SGd2SmJVQjZDSTFPNVVpMjJ5TG10OTA5dWlTNUFnRUtSbTBxOW1WYUtOdGZoWGxySDNHb1BYVjQ0SVhxQlBfYTB4aFhCWFRHSVBnS21XQ1FpS1dYb2p4cGxzb2k4VjJzU1JmVnB1MzktempwZXRyYWw0VFpyR3gtOFFVaVhPdWszS3A1THNRV2RPS3hFNXJ3ZXlkMEY4Um1CZjQ1VmxUNDN3RQ?oc=5",
-      "pub_date": 1795441731.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORW5Dd2o3Ty1RU2Rmbl9tMi1pcS1DUTlFY0x0c1d5czk4R2Z0YXZObUJyRkFTYk1yMlhyYk5YUGIwOFg0dUotVGR1cU15VjhOVVNzYmVxQlVQN1hPeDBPOHdGZ1FjS21BRVdWYkF5azRKdzBWLVh2WnV4YWp5dlFtRFpPSHdZNkx4V2syeHpOOXV0RHBSUnFjRkZEc3RHR2gtUFZuNVVPWm9YOW84VmM5dnpXMGt6OHpNalpiTlBpM1ZIcE1JSlE?oc=5",
-      "pub_date": 1795452784.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/amazon-buy-decarts-ai-chip-optimization-tech-latest-ai-talent-grab-2026-11-23/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Amazon to acquire AI startup Decart's chip software, hire founders",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hSmFaemUzUldRaWhTb3diNE4wU2dQb29ab2FXLS16UzcwdFU1a2tjUVh5Y2t0WEJweGREQ1JIMVczYXhmZGRQT3pXa0FUU0xFZWEzVGpnT2Q4MUdhWEVFMWhmRkNyZXVNbkdqa2xpdW03QWFT0gF6QVVfeXFMTjg2VVVOYlVHWHJaNUhWUHZMNjFQQ2Q5MmptU1JiektEbXNWMUN4SzR6OWxRSjVUTFZuakcwSEtHUjU4MUluQi1QUXQtc2xvWnhSY0NXNm9SUXZraElHZ290VTlUMlloSXhBSVRGbEhBcmVRYXZreFdjc2c?oc=5",
-      "pub_date": 1795458235.0,
-      "article_url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1773149071&w=1920&h=1080",
-      "description": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-23T18:37:38.235589+00:00"
+  "fetched_at": "2026-11-24T04:11:56.340869+00:00"
 }

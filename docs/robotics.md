@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-23T18:37:41.816415+00:00'
+updated: '2026-11-24T04:12:02.477238+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 23, 2026 at 18:37 UTC  
+**Last Updated:** November 24, 2026 at 04:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-8d ago
+9d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-8d ago
+9d ago
 
 ---
 
@@ -88,7 +88,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-9d ago
+10d ago
 
 ---
 
@@ -110,6 +110,28 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
+**[Killer robots: U.N. talks fall short of hopes for legally binding rules](https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones)**
+
+U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.
+
+NPR • 2d ago
+
+---
+
+**[‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai)**
+
+The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that
+
+The Guardian • 2d ago
+
+---
+
+**[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
+
+Reuters • 3d ago
+
+---
+
 **[Robots Still Suck](https://www.chinatalk.media/p/we-went-to-austin-to-see-robots)**
 
 A CoRL Trip Report
@@ -122,33 +144,15 @@ ChinaTalk | Jordan Schneider • 3d ago
 
 Neptune Robotics is making a strong statement in its determination to advance the adoption of its robotic hull cleaning technology after securing a se...
 
-The Maritime Executive • 17h ago
+The Maritime Executive • 1d ago
 
 ---
 
-**[These Humanoid Robots Will Bring Clarity to All the Hype](https://www.bloomberg.com/opinion/articles/2026-11-23/agility-s-humanoid-robots-will-bring-clarity-to-industry-hype)**
+**[John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties](https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/)**
 
-Bloomberg.com • 6h ago
+Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed.
 
----
-
-**[I searched for an automated utopia. All I got was roboslop.](https://www.businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11)**
-
-Business Insider's Lloyd Lee tried out all of San Francisco's robot services, from Waymo robotaxis to humanoid cleaners that left his home messier.
-
-Business Insider • 9h ago
-
----
-
-**[Artificial muscles sense their own motion to give robots precise control](https://techxplore.com/news/2026-11-artificial-muscles-motion-robots-precise.html)**
-
-Tech Xplore • 1h ago
-
----
-
-**[EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say](https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/)**
-
-Reuters • 3d ago
+GeekWire • 3d ago
 
 ---
 
@@ -160,27 +164,25 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[Young engineers take on robotics at FIRST LEGO League tournament in South Bend](https://www.wndu.com/2026/11/21/young-engineers-take-robotics-first-lego-league-tournament-south-bend/)**
+
+17 FIRST LEGO League teams compete at Success Academy, tackling ecosystem challenges for a chance to advance to semi-state.
+
+WNDU • 2d ago
+
+---
+
+**[Meet the front-runners driving China’s humanoid robot boom](https://www.scmp.com/tech/article/3375497/meet-robots-chinas-six-top-humanoid-developers-vie-market-share)**
+
+South China Morning Post • 3h ago
+
+---
+
 **[Robotics component maker coprod raises $6M to take on robotics ‘integration hell’](https://siliconangle.com/2026/11/23/robotics-component-maker-coprod-raises-6m-to-take-on-robotics-integration-hell/)**
 
 Robotics component maker coprod raises $6M to take on robotics 'integration hell' - SiliconANGLE
 
-SiliconANGLE • 9h ago
-
----
-
-**[The jagged frontier gets a body](https://fortune.com/2026/11/23/physical-ai-humanoid-robots-jagged-frontier-china-candelon-asseo/)**
-
-Physical AI will spread task by task
-
-Fortune • 5h ago
-
----
-
-**[Moog: Not Robotics, Missiles Are The Driver (Rating Upgrade) (NYSE:MOG.A)](https://seekingalpha.com/article/4971022-moog-stock-not-robotics-missiles-driver-rating-upgrade)**
-
-Analyst rates Moog a Hold: the $364 target assumes 25x earnings; defense beats could lift shares in 2027, while tariffs and inflation threaten margins.
-
-Seeking Alpha • 7h ago
+SiliconANGLE • 19h ago
 
 ---
 
@@ -188,41 +190,53 @@ Seeking Alpha • 7h ago
 
 ## YouTube Videos: "robotics"
 
-**[I Blamed the Wrong Robot Dinosaur🦖 #robot #robotics #dinosaur #rc #ruko #shorts](https://www.youtube.com/watch?v=hQKVF3PvY0s)**
+**[My FIRST Programmable Humanoid Robot! | Noetix Boomy Full Test](https://www.youtube.com/watch?v=6cbdl5iDC1U)**
 
-📺 Smarttoy Ruko
+I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot from @NoetixRobotics that walks on two legs and ...
 
-👁️ 883K • 👍 3K • 💬 2 • ⏱️ 0:16 • 3d ago
+📺 Eric’s Tech World
 
----
-
-**[Vir The Robot Boy : Vir Ne Liya Naya Avtar | Best Scenes Robot Cartoon for kids](https://www.youtube.com/watch?v=jJ-r6fE_3NU)**
-
-Vir The Robot Boy : Vir Ne Liya Naya Avtar | Best Scenes Robot Cartoon for kids #VirTheRobotBoy #HindiCartoon ...
-
-📺 Vir - The Robot Boy
-
-👁️ 93K • 👍 329 • ⏱️ 17:39 • 1d ago
+👁️ 10K • 👍 185 • 💬 32 • ⏱️ 13:13 • 1d ago
 
 ---
 
-**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
+**[Unboxing a 100K Agibot Robot #agibot #agibotanz](https://www.youtube.com/watch?v=0dQUVUhq90w)**
 
-ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
+Unboxing a 100k Robot from Agibot so it can do my job.
 
-📺 MuffinJuice
+📺 Insert Richie
 
-👁️ 1.3M • 👍 37K • 💬 3K • ⏱️ 15:00 • 3d ago
+👁️ 408K • 👍 18K • 💬 341 • ⏱️ 2:04 • 21h ago
 
 ---
 
-**[Guardian or Threat? Unitree’s H2-X Kung Fu Robot 🤖 #unitree #robot #humanoidrobot](https://www.youtube.com/watch?v=X6T91Pqa8gQ)**
+**[Meet Beni: Your Camera Robot](https://www.youtube.com/watch?v=yX9opMmNLnE)**
 
-Unitree's H2-X "Kung Fu Legend Guardian" is a humanoid robot pitched for security and rescue. In its launch video, it flips off cars, ...
+Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out ...
 
-📺 Undercover Panda
+📺 Unbox Therapy
 
-👁️ 88K • 👍 1K • 💬 56 • ⏱️ 0:35 • 5d ago
+👁️ 1.2M • 👍 50K • 💬 92 • ⏱️ 1:24 • 5d ago
+
+---
+
+**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
+
+On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
+
+📺 FRAME
+
+👁️ 29K • 👍 356 • ⏱️ 21:17 • 5d ago
+
+---
+
+**[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
+
+Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
+
+📺 Cleo Abram
+
+👁️ 2.1M • 👍 116K • 💬 931 • ⏱️ 1:05 • 3d ago
 
 ---
 
@@ -232,57 +246,47 @@ The $13500 Unitree G1 humanoid robot is becoming one of the most capable AI robo
 
 📺 NextGen Humanoids
 
-👁️ 30K • 👍 202 • 💬 21 • ⏱️ 12:23 • 5d ago
+👁️ 31K • 👍 206 • 💬 21 • ⏱️ 12:23 • 5d ago
 
 ---
 
-**[Tesla&#39;s New Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=2FZhl5oo27o)**
+**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
 
-Tesla's new Optimus robot upgrade is much bigger than the viral robot clips suggest. Hidden images inside Tesla's own Android ...
+Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
 
-📺 Tyrone
+📺 Tesla Insider Economics
 
-👁️ 58K • 👍 345 • 💬 9 • ⏱️ 27:54 • 23h ago
-
----
-
-**[Top 10 Arduino Projects #arduinoproject #arduino #top10 #top10ardujnoprojects #iot #robot](https://www.youtube.com/watch?v=n7-HMajSMI4)**
-
-Top 10 Arduino Projects #arduinoproject #arduino #top10 #top10ardujnoprojects #iot #robot.
-
-📺 Robotos
-
-👁️ 143K • 👍 3K • 💬 11 • ⏱️ 0:53 • 4d ago
+👁️ 130K • 👍 1K • 💬 84 • ⏱️ 22:13 • 5d ago
 
 ---
 
-**[Elon Musk&#39;s Robot Bodyguard Is Next Level! 🤖🔥 #ElonMusk #Robot #Shorts](https://www.youtube.com/watch?v=4VXUAd3PM78)**
+**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
 
-Elon Musk's Robot Bodyguard Is Next Level! #ElonMusk #Robot #Shorts Description Elon Musk walking with a robot ...
+ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
 
-📺 Reset Life
+📺 MuffinJuice
 
-👁️ 5K • 👍 230 • 💬 10 • ⏱️ 0:15 • 3h ago
-
----
-
-**[This Squishy Robot Runs 10 MPH With No Wires or Motors Inside](https://www.youtube.com/watch?v=_Gd3RZddw4Q)**
-
-This squishy robot runs over 10 miles an hour, and there isn't a single wire or motor inside it. The robot • Engineers at UC San ...
-
-📺 Carly AI
-
-👁️ 16K • 👍 196 • 💬 11 • ⏱️ 0:34 • 1d ago
+👁️ 1.4M • 👍 38K • 💬 3K • ⏱️ 15:00 • 4d ago
 
 ---
 
-**[🤖 How Custom Selfie Sticks Are Made #factoryprocess  #sealingmachines #selfimprovement  #indianflag](https://www.youtube.com/watch?v=I9Hp2iqZPmc)**
+**[MIT&#39;s Magnetic Robot Could Navigate Inside the Human Brain! 🤯🧠](https://www.youtube.com/watch?v=83LppGIcKTA)**
 
-Step inside a high-tech manufacturing facility to witness the precision assembly of a custom edition selfie stick.
+Imagine a tiny robotic thread navigating blood vessels inside the human brain! MIT engineers developed a magnetically ...
 
-📺 SHAAN _E_TIRANGA
+📺 Nexio Core
 
-👁️ 123K • 👍 838 • ⏱️ 0:10 • 14h ago
+👁️ 146K • 💬 3 • ⏱️ 0:05 • 2d ago
+
+---
+
+**[SF robotics company runs out of funding, unable to pay employees](https://www.youtube.com/watch?v=kgOdA5pblC4)**
+
+A high-profile tech company in San Francisco can make humanoid robots -- so why can't it make its own payroll? Senior ...
+
+📺 NBC Bay Area
+
+👁️ 225K • 👍 669 • 💬 527 • ⏱️ 2:44 • 6d ago
 
 ---
 

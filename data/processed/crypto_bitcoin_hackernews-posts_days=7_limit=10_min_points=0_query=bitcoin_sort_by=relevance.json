@@ -33,6 +33,20 @@
       "site_name": "echo.ls"
     },
     {
+      "title": "Show HN: NostrPulse \u2013 Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
+      "url": "https://github.com/PHONGUIT22/nostrpulse-full",
+      "hn_url": "https://news.ycombinator.com/item?id=50572502",
+      "author": "hacphong",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-11-20T10:01:27Z",
+      "object_id": "50572502",
+      "image": "https://opengraph.githubassets.com/94b1f10e8a9ff4a2334e06d00a522d00e9d77423938cd426c305124110bd31b6/PHONGUIT22/nostrpulse-full",
+      "description": "Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Bitcoin Core CVE-2026-117348: Node stall through duplicate orphan announcements",
       "url": "https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/",
       "hn_url": "https://news.ycombinator.com/item?id=50599741",
@@ -45,20 +59,6 @@
       "description": "CVE-2026-117348 - Node stall through duplicate orphan announcements",
       "favicon": "https://bitcoincore.org/assets/images/favicon.ico",
       "site_name": "Bitcoin Core"
-    },
-    {
-      "title": "Show HN: NostrPulse \u2013 Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
-      "url": "https://github.com/PHONGUIT22/nostrpulse-full",
-      "hn_url": "https://news.ycombinator.com/item?id=50572502",
-      "author": "hacphong",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-11-20T10:01:27Z",
-      "object_id": "50572502",
-      "image": "https://opengraph.githubassets.com/94b1f10e8a9ff4a2334e06d00a522d00e9d77423938cd426c305124110bd31b6/PHONGUIT22/nostrpulse-full",
-      "description": "Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
     },
     {
       "title": "Microtonal BitcoinCash Transaction Sonifier and Visualizer",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-11-23T18:37:03.607213+00:00"
+  "fetched_at": "2026-11-24T04:11:30.007478+00:00"
 }

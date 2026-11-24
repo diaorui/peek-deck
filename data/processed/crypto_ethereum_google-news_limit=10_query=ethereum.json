@@ -5,24 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3JuUmVqSWdPOWJvb0UyZUpFbmczMEdpaWdXSHY4ZngwSEo5WGc5VU0tSTJ1NkJFWUJXS2ZYNFRIckNlaDVOeHl1ZmRfekVLdWtvYWdUVWJRSzFVT1E3THNFMkd1bm04XzBvMUhfaEJubVZHaFlOY1RBcVU5ZWZZR2VQYU9hTURtNk1XdW84MzhPUDFuTnZQNQ?oc=5",
-      "pub_date": 1795452363.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-scarce-164603138.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0c2d2241b63c48fbd55a055ae7e22c384d2c07c31832d0263207ad428b921631/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F26f266e3213a240ff5bd5eed30fafd7e.jpg",
-      "description": "Chairman Tom Lee argued ETH\u2019s supply has grown just 0.90% annually since mid-2025\u2014roughly matching Bitcoin\u2019s 0.82% and far below Solana, XRP and Cardano."
+      "headline": "PQAI #0: Preparing Ethereum for a post-quantum, post-AI world",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yTm5WenFYZld0MUQ4c0pZV1lReDZURzVWbEs4aFpUcWg4Z0ZTbGNnOGxVMTJQd3o4RmVwTk05MkJFeUp6MVVQX09MQUdIRFpzT2VOY1Fn?oc=5",
+      "pub_date": 1795475282.0,
+      "article_url": "https://blog.ethereum.org/2026/11/23/pqai-0",
+      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
+      "description": "Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on..."
     },
     {
-      "headline": "Bitmine On Verge Of Owning 5% Of Ethereum After Latest Purchase",
+      "headline": "Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here\u2019s What The CFTC Changed",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmpsSzV6S0dSSkl2UHd1aFNkbmktb2pjbXNrSjVYTlVRYWhHTjdSaXhHVzdHSGdMTUlNazFmdl9MVFVneS1wVk9HU1pQZnJrUUFpel9GTi1ZLU5uNjVPOGJaeEJGNW5RcDlpN2VSaG9OQzc4TURyV0lxUF9ST29JS3dzSjRkblFleHZTZmg5aWJsa0NPZG5tT3E3dlg?oc=5",
-      "pub_date": 1795444680.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-verge-owning-5-ethereum-143800705.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ab7300be707b3f57cb71f7ea2ab5b68d6f339c0a9d738ca548542f7e28d7f758/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fccc7ac2b86d3d4d74c1a97ff08c5f70c.jpg_up.jpg",
-      "description": "Bitmine Immersion Technologies (NYSE: $BMNR) is on the verge of reaching its stated goal of owning 5% of Ethereum&r..."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUIyeGhJSlhzM2t4TmdMeUZvM1hoeEh5WmE4a1R5RDRUX1FCeW9EQW81UG9LS3Z4Wk1PNFNva056QkRRaDh4bFowX2tRcGVSQ2R6bFkwTWVqTno1N0VBbjVGXzBGSl9xR2U4NUpWOFdGQnh5WjdqUlljUl80QzdoRVVFWE42YjJhcUtBMGY2eGFJUWE3UEFmajczS04?oc=5",
+      "pub_date": 1795488660.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-bigger-role-us-025108257.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4f756157cdd886e5cdb2c61ee374b8aad63c8a08becff71f405e69e98f5104bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F111dac3df2287c0f60e024d8ec3624b9",
+      "description": "The advisory is a staff opinion that does not create new rules, and crypto still can't meet a separate rule that requires cash or highly liquid securities."
     },
     {
       "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
@@ -35,6 +35,16 @@
       "description": null
     },
     {
+      "headline": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDY1NVRWUjEzTUZLN3Bpc3BzVWFFUWwySFIyV3dOT2MtcEQzbmdmeGZEV1doRjdCUWdxOG9SQnhmTVhKekFSeDRJSEtibi1kbFR1SFVnRmJWOXpyZWZMdmx3YWY3eUtDcVpUYk9odjBkTVJyT0FUbjNzUnFKb3ZnRA?oc=5",
+      "pub_date": 1795452363.0,
+      "article_url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg",
+      "description": "Bitmine Chairman Tom Lee argued the Ethereum supply has grown just 0.90% annually since mid-2025\u2014roughly matching Bitcoin\u2019s 0.82%."
+    },
+    {
       "headline": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -43,16 +53,6 @@
       "article_url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
       "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cathie-wood-scaled.jpg",
       "description": "Ark purchased a combined 1.64 million Anthropic shares, worth $145.9 million, on Thursday and Friday across its exchange-traded funds, according to the firm's trading disclosures."
-    },
-    {
-      "headline": "Current price of Ethereum for November 23, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FUGRQWGtmRUlSNWpTZUdvQkFhdFkybzIzVU9CT2JyVnB0QlRfYVpydEtHY3BLY2VzTGQ1WnFqWmJFN2NxdkRtY1JCYlBIUnpLN2xlV2xwWldHbFRBdm9aQXI0YWJTX3da?oc=5",
-      "pub_date": 1795440173.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-23-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-23.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP remain vulnerable as bears drive prices toward yearly lows",
@@ -65,6 +65,36 @@
       "description": null
     },
     {
+      "headline": "Current price of Ethereum for November 23, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FUGRQWGtmRUlSNWpTZUdvQkFhdFkybzIzVU9CT2JyVnB0QlRfYVpydEtHY3BLY2VzTGQ1WnFqWmJFN2NxdkRtY1JCYlBIUnpLN2xlV2xwWldHbFRBdm9aQXI0YWJTX3da?oc=5",
+      "pub_date": 1795442531.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-23-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-23.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "BTCS sold more Ethereum than it has left to repay $43.8 million in debt",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTctbW8wc1BPcUwtSlBRM2Q3dzI0UlhZU1lEdVFoTkREVkRjZXNERXdQU2lLVXl3Z2ZtMVFNNE41WWJRTk1vcnpiV1FrWVFUTThUMl9aUW8zbGswUUJXQ1JiMms5Nk55bFdKa0RyZkJsb2Y0dld2eUxocVN4NE1VSkxjdVB3Q2NJdWVSZnR2b3VqbmNnUHpjWXRnTQ?oc=5",
+      "pub_date": 1795491600.0,
+      "article_url": "https://cryptoslate.com/btcs-sold-more-ethereum-than-it-has-left-to-repay-43-8-million-in-debt/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/btcs-ether-debt-repayment.webp",
+      "description": "BTCS sells 27,300 Ethereum to repay $43.8 million in Aave debt, halting liquidity pool fees from its largest revenue business."
+    },
+    {
+      "headline": "Quant Fusion Mainnet Public Access Opens With KYC-Gated uUSDC Across Ethereum, Polygon and Besu",
+      "source": "https://genfinity.io/",
+      "source_url": "https://genfinity.io",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXE5UmlSUkxfdmhYaEY5VXFtOGR1WHFYWmVZLWN3NXBuX092Szh2dnhzQ3Q3bHU5dEVtSXBZUDFXa2hkY3B5dDFnbG5pLVRBYVAzNWp4LWl3LTlYS25mNnc4MndCUEhlVGkyLUxPZXVHVGJjdGo2SElBZU0xcFE0NXdSQjh3YU9VVjNfRFFJTHdnVGdubWc?oc=5",
+      "pub_date": 1795454932.0,
+      "article_url": "https://genfinity.io/2026/11/23/quant-fusion-mainnet-public-access-quant-connect-kyc-uusdc/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Better Buy: Bitcoin vs. Ethereum",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -73,38 +103,8 @@
       "article_url": "https://www.fool.com/investing/2026/11/21/better-buy-bitcoin-vs-ethereum/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F81c310820b44fb404c65a98415219bcc788a664e-3900x2000.jpg&w=1200&op=resize",
       "description": "Which one of the world\u2019s top cryptocurrencies is a better investment today?"
-    },
-    {
-      "headline": "Ethereum outflows from Binance fall to an all-time low",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5a3ZnQ2o5Z2lEbE1RZ3BuZEYxS2lEd0tEWXpZbzctMjNMWkZaLUdIWGtGTjF6cFJ1UV9IVW8wa0hSSVhrUGF4d1pNUDdDN1NqTTJPQmNLY0Fxdy14OG82Rk5wdFNLcEdabWk0a19FNlZlQ0tj?oc=5",
-      "pub_date": 1795441310.0,
-      "article_url": "https://cryptobriefing.com/ethereum-outflows-binance-all-time-low/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/23084142/library-ethereum-outflows-from-binance-fall-to-an-all-time-low-800x450.jpg",
-      "description": "Ethereum outflows from Binance hit an all-time low near 3.58 million ETH over 30 days as exchange ETH reserves slide to roughly 2.9 million."
-    },
-    {
-      "headline": "Robinhood Chain pays Ethereum 70% more than Base despite collecting 64% less in fees",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3ZSLUtJd1IzbzgyaTF3MEFwUzN5aTU3QzZEZGdwNGRXQWswdWh6Z2dBMU0wb0s2N1ZNX0ttRC16cm1uWjJhNkdGaWJBUS1TWXZwbmJKUkZPZmlDeEt2Zm81SVJ2QWRCa3VLYXhtS3JCaVpfZjZ0YnY3a3FsSmMtRkZfZ2pQckotMDdsSDdkLXhJcEU5cXE2OXZpWGVYa2FVN0h3RHFZdXVnUms?oc=5",
-      "pub_date": 1795456837.0,
-      "article_url": "https://cryptoslate.com/robinhood-chain-pays-ethereum-70-more-than-base-despite-collecting-64-less-in-fees/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-settlement-split-valves.webp",
-      "description": "Robinhood Chain and Base illustrate how Ethereum's scaling networks retain nearly all their user fees while paying little for settlement."
-    },
-    {
-      "headline": "Bitcoin ETFs Lose $1.25B in a Week as BTC Drops Below $60K",
-      "source": "FinanceFeeds",
-      "source_url": "https://financefeeds.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazJ3UlVab3hDRllpQXppamZ4WnFBclQyREZmNzBaY3cxTzQ3c3V3TW9iSTcwMFU0a2hzNHpSaDJuamFhN1BlMjVaajd2eTF4WXRGR2JoaXFadnNWSXB0elJoYUFuUTlhR2s4NnhpMUR0SDNnRlplSFNLbGN0cVd4NlZQX0NsX0RXd3BSTnRXMVZWZnpiV0xXamMzQzhyYktoc3RnM0Izc1NzNXY1UG9LbmxJYzg0N2J5bm5z?oc=5",
-      "pub_date": 1795429774.0,
-      "article_url": "https://financefeeds.com/us-crypto-etfs-extend-weekly-selloff-as-bitcoin-and-ethereum-funds-face-continued-withdrawals/",
-      "image": "https://financefeeds.com/wp-content/uploads/2026/10/Bitcoin-ETFs-Streak-Four-Inflow-Days-Into-the-Binance-Hack.jpg",
-      "description": "US spot crypto ETFs shed $148.6M on Nov 20 as Bitcoin funds lost $124.5M, taking weekly Bitcoin ETF outflows to about $1.25B with IBIT still unreported."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-23T18:37:37.918479+00:00"
+  "fetched_at": "2026-11-24T04:11:57.181714+00:00"
 }

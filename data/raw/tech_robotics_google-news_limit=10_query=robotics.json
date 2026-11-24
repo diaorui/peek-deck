@@ -5,6 +5,36 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yS2ZzRlFmaTlWY082V1hMc0VGNHVBWkUzWW53eVhnaEp6SnVic0RPdloxY1EtN2xnY0xXVzlQbkZVWjdONmlHaFh1MVRjTWNGbFhJU3ZiRGEwMlVwQmpfbTRVNXhoT214THotUTNyWlFPRFFTTmZz?oc=5",
+      "pub_date": 1795270697.0,
+      "article_url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4146x2332+0+216/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F65%2Fec3be56f4a8caadcaf913863094e%2Fap26320313350560.jpg",
+      "description": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
+    },
+    {
+      "headline": "\u2018The doom of humanity\u2019: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
+      "pub_date": 1795288500.0,
+      "article_url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+      "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f9cd76eb9786a54c4e51cf0997b3812",
+      "description": "The one thing stopping AI taking over the world \u2013 or at least everyone\u2019s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that"
+    },
+    {
+      "headline": "EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmFTbW95TklxQWFndG5mcGRTNEd2U3d1cnJIUWU2VGpUZjVLRTlrb2V0T3FUeTdwQ3VYbXRVQmtlRXY0bUpHeEJLTE5BanpCUV9sS3p2VkVXenVvejVzczROSXJiVjVnVjBQb0dEYUFVbXBOcUc0Vks2aGZvTTBuakc2LVdyZTNSMktUalhHbFFNWXFmT1UzTy03c195M0VlUWwzV1RUUXF4RmhJSmozYjRnaUtCTm1LWWlYVFRyQnJXZw?oc=5",
+      "pub_date": 1795198380.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Robots Still Suck",
       "source": "ChinaTalk | Jordan Schneider",
       "source_url": "https://www.chinatalk.media",
@@ -25,44 +55,14 @@
       "description": "Neptune Robotics is making a strong statement in its determination to advance the adoption of its robotic hull cleaning technology after securing a se..."
     },
     {
-      "headline": "These Humanoid Robots Will Bring Clarity to All the Hype",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVdhMFgyeXVBTS1iazh4d3NHLTZOOTliRTUxQmJSOV9oWVlWNmpOMndYcE5raFZ6WGg3MTloUHJFSTBOSDE4MnhkbmU2RTdEQmJpVFNRYUttUkcxTUd0TFhxbTJPSHpYazlQa0oyeFdlWHJkQUsyWkcwWHQ4a3hKWTJ0eU80c0N6YXRSUUVKX1U5Xzh2UHUxc1oyME5UYjN4cVBQSVluenRvQkRuT3hzMTZacjdPdw?oc=5",
-      "pub_date": 1795437010.0,
-      "article_url": "https://www.bloomberg.com/opinion/articles/2026-11-23/agility-s-humanoid-robots-will-bring-clarity-to-industry-hype",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "I searched for an automated utopia. All I got was roboslop.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmRJb1pwZ1Z4T0prWlo4VzVMbm9TT3Fsakl6cjJyM0lBRDBmY0JMVzFPVFR0LTEzTjhSdm9uOVhEYjhEZlJndkNLMGxhUEVwWFJKUnNxcXlsOWlTQWt3eHVkN1FObXdoa1ZQM2paQnp0LVBCOGhGQ1dxSDRTYkdfeHVCOXZibURUWGJwaQ?oc=5",
-      "pub_date": 1795425060.0,
-      "article_url": "https://www.businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11",
-      "image": "https://i.insider.com/6afc95e0bcc92b799fa7ebe2?width=1200&format=jpeg",
-      "description": "Business Insider's Lloyd Lee tried out all of San Francisco's robot services, from Waymo robotaxis to humanoid cleaners that left his home messier."
-    },
-    {
-      "headline": "Artificial muscles sense their own motion to give robots precise control",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalBmTmdlb1Z4X09RMGJkYVFaTkVQRU1OZXk4RXJiZHIxdEtOOFhaWlBmQzhUbVlYQ1MxYklkamhBSjQ0NkJtNGZNQzFCNEJEdUlHdjhBZXRLeXAxMTBvaVhIMTc3cGltdTE5NENQRDhDQkh6UUNJLWdlN0lSeHBMQlFtdnpqT2Fz?oc=5",
-      "pub_date": 1795454402.0,
-      "article_url": "https://techxplore.com/news/2026-11-artificial-muscles-motion-robots-precise.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmFTbW95TklxQWFndG5mcGRTNEd2U3d1cnJIUWU2VGpUZjVLRTlrb2V0T3FUeTdwQ3VYbXRVQmtlRXY0bUpHeEJLTE5BanpCUV9sS3p2VkVXenVvejVzczROSXJiVjVnVjBQb0dEYUFVbXBOcUc0Vks2aGZvTTBuakc2LVdyZTNSMktUalhHbFFNWXFmT1UzTy03c195M0VlUWwzV1RUUXF4RmhJSmozYjRnaUtCTm1LWWlYVFRyQnJXZw?oc=5",
-      "pub_date": 1795198380.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/",
-      "image": null,
-      "description": null
+      "headline": "John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX21ZVkJuSmlhbmxlUnQ4NTFIeEFYQl9DdlRzdTEzVjBwZGhOV3hvbVJWd2RVVmJYaEtUYk11WHFFZ25VbG5FM3YwODVRcGk5TEI2aWd5RkN0NkJZN21fZ0l4aDFPcnRpX1ZOVjVsZkJjRFZhSFozYTdCelAyU0ZQalB5bTZGenphazh3YXplRFhIX0xqdkg2di1lUlZsRnFEd0ZXelNnbzFyRjg?oc=5",
+      "pub_date": 1795189923.0,
+      "article_url": "https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Orchard-Robotics-camera-system.jpg",
+      "description": "Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed."
     },
     {
       "headline": "AI agents vs physical AI: How software automation differs from embodied robotics",
@@ -75,6 +75,26 @@
       "description": "AI agents automate digital workflows, while physical AI powers robots in the real world. Learn key engineering differences between the two."
     },
     {
+      "headline": "Young engineers take on robotics at FIRST LEGO League tournament in South Bend",
+      "source": "WNDU",
+      "source_url": "https://www.wndu.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXNlZVRMeTFFNFhUT3hsb3Fzb0ZxbHA0UWlOX0pxdjN2eWozZnRMMkQzMkZ4bTRIRGFxUkxSSG0td0JsaUxzSDA4UngzNGRKZnJyajhabGdPYk5sZy15bndXMjdGbjdWbE5ROXFwQll6MTRLQWxrWVMyelNrVUZ1bWhQVE5hMmdJOHByc2I0MERRczlvZmQybjAtWGZkUzhWRng2dtIBuAFBVV95cUxOQXg0MVVlMFM5WUlTMTYwSTI1UjlPS1VvQWl1eEJwWEkxMGpSRzJVS19tNDVPMnpRdWdPd2NmWV91R3Y1dHlsM3pRYmVvckFzcmwySFQxUXlXODluendRXzd0MTJ4S3ZyQ2lLanlZb3gxcmVfMVJtOTlSTU1VbF9TNlBObFZqeVRYcGpXWVZvYWVkOHB3STQyZzVPc0NzV1ZVdllIYk42QzJVZDVhREZvcjlCYnhKaklz?oc=5",
+      "pub_date": 1795303560.0,
+      "article_url": "https://www.wndu.com/2026/11/21/young-engineers-take-robotics-first-lego-league-tournament-south-bend/",
+      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/Y4S2T2WD2JFA7LJPGYFU52KOJE.png?auth=c4f764a7abf5b3179d33b8c0e9b21ca4eab8b690a42af6df0d4a2cd99b57620e&width=1200&height=600&smart=true",
+      "description": "17 FIRST LEGO League teams compete at Success Academy, tackling ecosystem challenges for a chance to advance to semi-state."
+    },
+    {
+      "headline": "Meet the front-runners driving China\u2019s humanoid robot boom",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGctNW9tTG5naEdldGdOZXY5MmQwcTJNUG9welZvWmg2dlJ2bms2bTRLTmJESk9nRVdHdmNVWEx3UDJhM2Y0bUw4WGQ1ZkxtZ3ItZVpWN2JZelVDX25IdlpvOGJKZi1MTlA1MEdJUWt4YTItNUVTSUhzakpYVU5VZHpudVM4OVo3TUJMdmpvajRQbjNoU01oUFhkU0dpaDhXNXUxOXpKSFM?oc=5",
+      "pub_date": 1795480205.0,
+      "article_url": "https://www.scmp.com/tech/article/3375497/meet-robots-chinas-six-top-humanoid-developers-vie-market-share",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Robotics component maker coprod raises $6M to take on robotics \u2018integration hell\u2019",
       "source": "SiliconANGLE",
       "source_url": "https://siliconangle.com",
@@ -83,28 +103,8 @@
       "article_url": "https://siliconangle.com/2026/11/23/robotics-component-maker-coprod-raises-6m-to-take-on-robotics-integration-hell/",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Coprod-scaled.jpg",
       "description": "Robotics component maker coprod raises $6M to take on robotics 'integration hell' - SiliconANGLE"
-    },
-    {
-      "headline": "The jagged frontier gets a body",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHloQWlNODlsR3dpZ3FWb2l4SzRfWEhHVVhSV2p5MjJrZWV5WE42dXp1U19IVlVjdFdCYWZBbWVqUW5tU2RGMVB2VXd2X2JzanJ0ZEoyT0dWcnlmNHp5YTlId0M4VnFpOVF5QTZoRmoxZEVadDR5aXNORGhxNjE2ZlM4VjMyTDh3TEZNeHpYQUk3ZEVzQmlWejZqNFI?oc=5",
-      "pub_date": 1795440600.0,
-      "article_url": "https://fortune.com/2026/11/23/physical-ai-humanoid-robots-jagged-frontier-china-candelon-asseo/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300943669-e1792761282735.jpg?resize=1200,600",
-      "description": "Physical AI will spread task by task"
-    },
-    {
-      "headline": "Moog: Not Robotics, Missiles Are The Driver (Rating Upgrade) (NYSE:MOG.A)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEI1ZmRMZk05Y1Fta0E0R1Y3OXFUN0JkU3d1RzZEemxPU2ZpNE1Eb3JmTlcxWTJCMGVOU0Z5Tk0xcElJaHJPaFA5SnN5a3BsSWI5NENFbXlCMG5kRG5iRUVHOHlJUzFfZHprRmpQM09LVW9aSlhaQW9aajByTVUzN0JSYm90enhueElfVTBHUHU0X3BEVE5Pc2s3TQ?oc=5",
-      "pub_date": 1795432102.0,
-      "article_url": "https://seekingalpha.com/article/4971022-moog-stock-not-robotics-missiles-driver-rating-upgrade",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2281938821/image_2281938821.jpg?io=getty-c-og",
-      "description": "Analyst rates Moog a Hold: the $364 target assumes 25x earnings; defense beats could lift shares in 2027, while tariffs and inflation threaten margins."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-23T18:37:36.620185+00:00"
+  "fetched_at": "2026-11-24T04:11:55.509809+00:00"
 }
