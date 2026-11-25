@@ -15,34 +15,14 @@
       "description": null
     },
     {
-      "headline": "GMEX Robotics Officially Launches 247meta.ai, Sets Next Focus on Financial AI Agents",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONVBnMVdZN3NWelVFVE1mQTZRYWV3bzRGSThBQW43eHVCTV94TnBSbnZ5c3NKa3VoRFZwbTQ3dW1CSkcwMkp3WG5LVi0zYjEzY19LbVBLbHhGMjZpcmQySmRsZTN5YkxDNHQ4QnM0aDV3SC1zM0lsSEQ4Z1FXbEJqXzBWM1VXVFVYaWx1RmdwcHhmY0dJZGI2UVItUzBTWG05ZlBEdmlYSXV1SjZQNEdmdG4xaTJPUThfbE1BMHJvRVpBMGhQZ1JKZWNEbEdyMm5rYnQ0X0FoUGhBdw?oc=5",
-      "pub_date": 1795529581.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Eric Trump-backed robotics startup told all workers their health insurance is gone \u2014 \u2018extremely unfortunate\u2019 situation",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk1iQ1BCdE5PZkdEaTZnY21qRjlXNTc4TTQya2lXdmJ6c2lpa1Z5ZUNBTWNpT1VhbEtmTnZEUUVEMnZnT1Vpc1FHa3dPSERYck9zWXJPQ3pQRHRXTlBhNUNBQ3hDM3hBNmJsUHl2MVN2VnZyTmVfdHAtTHg3d3FTR0FpSGhEdVZnblFaTTVza0pUZlBxSUUxck1zbw?oc=5",
-      "pub_date": 1795471200.0,
-      "article_url": "https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1580707415cfa5c225861ca8a53101fec81d7ae378329b6d53a27e9515fa830c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F855c03300694cb48ac4a0abf4910d148.jpg",
-      "description": "This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025."
-    },
-    {
-      "headline": "Terran Robotics is using robots to build adobe homes in Central Texas",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnFzMlg0aHAzbTJpMEY3QkNwNGlka0hBM3pNTHc0T051VmNMZVppNEh2V0RRaEI4M3Jub3lsZDlFUjdoLWZ0N3NCZ3lpNWZMR1RqRE84VTZHcXpGM2lIak5iOHI1dFAtZmVtaC1xckdhVUZxV1lfdmNGeDlycEJLbEFsVG9QY2hxYlE?oc=5",
-      "pub_date": 1795523397.0,
-      "article_url": "https://www.axios.com/local/austin/2026/11/24/terran-robotics-adobe-homes-lockhart",
-      "image": null,
-      "description": null
+      "headline": "Medtronic CEO Geoff Martha: AI and robotics have been force multipliers for us",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3pydlREbHlUOU5KMTdKYlRyN3MxcTRlRkxwaEZlMnU3NldQWTFvM2oxN1c5VGNCV05CZFNpSERQUnRKV0xBS2ZjWWVyd1pabEYzLTdlUzE5dkV1Y2tkU2dKalZGVTNta3FyLXM0aUtyT3JrZlM5UldFRTlMWC1DMlNSSS1QZ01zbS03cmRYeTVOOV9RZHpnQVJPaXdta1J0amY3UmVDejRvUnFaNzNYUEpJMVJJRFREd0lObw?oc=5",
+      "pub_date": 1795540261.0,
+      "article_url": "https://www.cnbc.com/video/2026/11/24/medtronic-ceo-geoff-martha-ai-and-robotics-have-been-force-multipliers-for-us.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558539-17955395191795539516-49835863148-1080pnbcnews.jpg?v=1795539518&w=1920&h=1080",
+      "description": "Medtronic CEO Geoff Martha joins 'Squawk on the Street' to discuss the company's latest earnings report, demand for robot-assisted surgery, and more."
     },
     {
       "headline": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -55,12 +35,62 @@
       "description": "RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks."
     },
     {
+      "headline": "I searched for an automated utopia. All I got was roboslop.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmRJb1pwZ1Z4T0prWlo4VzVMbm9TT3Fsakl6cjJyM0lBRDBmY0JMVzFPVFR0LTEzTjhSdm9uOVhEYjhEZlJndkNLMGxhUEVwWFJKUnNxcXlsOWlTQWt3eHVkN1FObXdoa1ZQM2paQnp0LVBCOGhGQ1dxSDRTYkdfeHVCOXZibURUWGJwaQ?oc=5",
+      "pub_date": 1795425060.0,
+      "article_url": "https://www.businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11",
+      "image": "https://i.insider.com/6afc95e0bcc92b799fa7ebe2?width=1200&format=jpeg",
+      "description": "Business Insider's Lloyd Lee tried out all of San Francisco's robot services, from Waymo robotaxis to humanoid cleaners that left his home messier."
+    },
+    {
+      "headline": "Novanta Shares Just Jumped And We\u2019re Buying This Robotics Play",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUZzQmphRHJxZlVobWczY1l6RzZxb1U5X1VaX19wUnVWcEt2UGh0UFBrMVk2Q1F6RnBuTTU1bmRrcHJRZ1NKRGFUeTZXZW02WlpyQ1lubVV5aWFoelIwTzVVT1pzQ0pGd2RQMWl1aGozQUdrUlU5RW15bnRBUmZ3ZXZOb0UwUUU?oc=5",
+      "pub_date": 1795561162.0,
+      "article_url": "https://finance.yahoo.com/video/novanta-shares-just-jumped-buying-225922952.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/afecb29ad372f9f399519e545837408c1f52a88a4f5c7a8701e18c8723e52915/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st_video_956%2Fe063c01c000e44828f0ca126263f4a92.jpg",
+      "description": "Just as early investors targeted foundational chipmakers like Taiwan Semiconductor (TSM), Nvidia (NVDA), and Broadcom (AVGO) at the start of the AI computing wave, investors are currently examining diversified industrial and sensor plays such as Regal Rexnord (RRX), Timken (TKR), Allegro MicroSystems (ALGM), Ouster (OUST), and STMicroelectronics (STM). During a recent episode of The AI Investor Podcast, hosts Eric Bleeker and Austin Smith took a closer look at Novanta, and shared why they are optimistic about the robotics manufacturer as an AI investment play to target in 2027."
+    },
+    {
+      "headline": "Realbotix Putting Realistic Humanoid Robots At The Front Desk",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3BlQVVIcnRvYU9sd3g3Q05PNFQ0N0QzUzl6Z3dKSksxUXROUnJpZUtCNjREZjQtVjZ6bHNHSzVUclJ1d3dCVE9MdFhtNGVrb2gwcHFaYXVQWklhVnpsb3BNY3ZrTUtsWUE1MHFscU5QYlZ1QVZ0bzcybHRGaFJvRW1YdEZnN0ZoR3BIYVlnbTJiZlBoR1pBMHpiaDFmcTRNRmdONnRoS0VEbnNVY2NEY1A3dE5hQQ?oc=5",
+      "pub_date": 1795555537.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/24/realbotix-putting-realistic-humanoid-robots-at-the-front-desk/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How to Invest in Humanoid Robots: 3 Stocks to Watch",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3BneExEU1d4Vy1qQTN3SERSdUxtOEduVGhIaE5QRHJLQTBLa25uNkFCbWVGVFh3aUliWGFmWW1CeEpUTm9DT0ZDUDdOS215X0Y0eUpBSnppd1RHdmo1WjVmajZfb0dFcmZzRS1HYk4zZEd4MzBWWHhtaGh4R0s2VGtWLUNtYWgySWNxQWVSMDQwdldRSVlLRA?oc=5",
+      "pub_date": 1795487460.0,
+      "article_url": "https://www.fool.com/investing/2026/11/23/how-to-invest-in-humanoid-robots-3-stocks-to-watch/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F558f5d05d9d859f4d93d20f6267ddca5774f44db-3000x1999.jpg&w=1200&op=resize",
+      "description": "Humanoid robots are on the verge of becoming mainstream, and these three stocks are positioned to benefit."
+    },
+    {
       "headline": "These Humanoid Robots Will Bring Clarity to All the Hype",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVdhMFgyeXVBTS1iazh4d3NHLTZOOTliRTUxQmJSOV9oWVlWNmpOMndYcE5raFZ6WGg3MTloUHJFSTBOSDE4MnhkbmU2RTdEQmJpVFNRYUttUkcxTUd0TFhxbTJPSHpYazlQa0oyeFdlWHJkQUsyWkcwWHQ4a3hKWTJ0eU80c0N6YXRSUUVKX1U5Xzh2UHUxc1oyME5UYjN4cVBQSVluenRvQkRuT3hzMTZacjdPdw?oc=5",
       "pub_date": 1795437010.0,
       "article_url": "https://www.bloomberg.com/opinion/articles/2026-11-23/agility-s-humanoid-robots-will-bring-clarity-to-industry-hype",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "MIT researchers use robotic motion to weave clothing directly around the human body",
+      "source": "Adafruit",
+      "source_url": "https://blog.adafruit.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdndqZTd6QzE0S3pDTkI3aHVtUmlNU0NvNjFWazUzeHNEU2JNY0MyUU5TNWRNamdmMFotWEd3V2tCTjczWVhWNHpsbGEyeV95akszYmZyVDhxMUVsaktFSThEeHJBbXJ4UGI3VHI3NUpkS2VMQTcwYkp2WVJicV9uX1l1cUdmSFZyYVdFdGxpaW9UMmM3Y0c3OXVteGtjQWZrWGZ0R1dmV0FJT1R4UFg0LTRxSEg3STN0VHZVUHVR?oc=5",
+      "pub_date": 1795528406.0,
+      "article_url": "https://blog.adafruit.com/2026/11/24/mit-researchers-use-robotic-motion-to-weave-clothing-directly-around-the-human-body/",
       "image": null,
       "description": null
     },
@@ -73,38 +103,8 @@
       "article_url": "https://www.scmp.com/opinion/world-opinion/article/3375269/us-banning-robots-it-needs-reclaim-manufacturing",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yS2ZzRlFmaTlWY082V1hMc0VGNHVBWkUzWW53eVhnaEp6SnVic0RPdloxY1EtN2xnY0xXVzlQbkZVWjdONmlHaFh1MVRjTWNGbFhJU3ZiRGEwMlVwQmpfbTRVNXhoT214THotUTNyWlFPRFFTTmZz?oc=5",
-      "pub_date": 1795270697.0,
-      "article_url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4146x2332+0+216/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F65%2Fec3be56f4a8caadcaf913863094e%2Fap26320313350560.jpg",
-      "description": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
-    },
-    {
-      "headline": "Louis Dreyfus Tests Out Robotic Hull Cleaning at Scale",
-      "source": "The Maritime Executive",
-      "source_url": "https://maritime-executive.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZjg1NDU2MV9WNlRYTHJvTUs5UWF3VXJwMjZVZzV2d1JuUXowUHpvVzRtbmZhU194S3ZDcTBCR2NRWVFoeUo0ZUdKUHhYNzNLb09Ca1FiWHZOb25uS3NoTUZBSDVEX3cxZ1RtRDh6d3JLbkRRQmFPdDZCUE9MNGxmd3ZpclVMb1l5NXFmeE50bk5HUW5DRkxTcEMzR1JCTERnRUE?oc=5",
-      "pub_date": 1795397340.0,
-      "article_url": "https://maritime-executive.com/article/neptune-secures-partnerships-to-advance-robotic-hull-cleaning",
-      "image": "https://maritime-executive.com/media/images/article/H_Neptune-Robotics_neptune_ship83_0_v1-2048x1536.fb41d2.jpg",
-      "description": "Neptune Robotics is making a strong statement in its determination to advance the adoption of its robotic hull cleaning technology after securing a se..."
-    },
-    {
-      "headline": "How to Invest in Humanoid Robots: 3 Stocks to Watch",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3BneExEU1d4Vy1qQTN3SERSdUxtOEduVGhIaE5QRHJLQTBLa25uNkFCbWVGVFh3aUliWGFmWW1CeEpUTm9DT0ZDUDdOS215X0Y0eUpBSnppd1RHdmo1WjVmajZfb0dFcmZzRS1HYk4zZEd4MzBWWHhtaGh4R0s2VGtWLUNtYWgySWNxQWVSMDQwdldRSVlLRA?oc=5",
-      "pub_date": 1795487460.0,
-      "article_url": "https://www.fool.com/investing/2026/11/23/how-to-invest-in-humanoid-robots-3-stocks-to-watch/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F558f5d05d9d859f4d93d20f6267ddca5774f44db-3000x1999.jpg&w=1200&op=resize",
-      "description": "Humanoid robots are on the verge of becoming mainstream, and these three stocks are positioned to benefit."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-24T15:08:03.776301+00:00"
+  "fetched_at": "2026-11-25T00:00:30.506256+00:00"
 }

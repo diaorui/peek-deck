@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-25T00:00:17.764361+00:00",
+  "data": {
+    "url": "https://blog.ethereum.org/2026/11/24/pqai-1",
+    "title": "PQAI #1: One hash to rule them all \u2014 Keccak-256 for Ethereum's post-quantum, post-AI era | Ethereum Foundation Blog",
+    "description": "We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography.",
+    "image": "https://blog.ethereum.org/images/eth-org.jpeg",
+    "favicon": "https://blog.ethereum.org/images/favicon.png",
+    "site_name": "Ethereum Foundation Blog",
+    "author": null,
+    "keywords": null
+  }
+}

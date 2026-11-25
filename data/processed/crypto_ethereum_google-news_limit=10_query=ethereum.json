@@ -5,44 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "PQAI #0: Preparing Ethereum for a post-quantum, post-AI world",
+      "headline": "Tom Lee Says Ethereum Is as Scarce as Bitcoin: Do the Supply Numbers Agree?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHdmV0pZVXlIQ0JzZzIxbTNBZXZFQXYtMzh3cjUtRTVTZzdLWXRpWmZoQ1o1MUh6S2Qxa1FrVFdIalQxeS0tNFlNbUJLOWF5MGNJSWJmUGF6ME1KcEUwa295Z2dZX3JqOG1XS29HX2N5a25rUmp2bzJ5WTJvRzFjRjNxaDRlMjY5UjBJa2lvMGxrcWp5QnZDcg?oc=5",
+      "pub_date": 1795558389.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-scarce-221309296.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/98132150fd1114f6617bfeccd20be8c587cae48f17639beb7793fb6c659f36a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fdd6b786353974b719a2326378f8acb23.jpg",
+      "description": "Tom Lee says the gap between Ethereum's and Bitcoin's supply growth is too small to matter, and his firm holds billions in ETH. A closer look at how each coin actually gets created and destroyed shows where his comparison starts to strain."
+    },
+    {
+      "headline": "PQAI #1: One Hash to Rule Them All \u2014 Keccak-256 for Ethereum's Post-Quantum, Post-AI Era",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yTm5WenFYZld0MUQ4c0pZV1lReDZURzVWbEs4aFpUcWg4Z0ZTbGNnOGxVMTJQd3o4RmVwTk05MkJFeUp6MVVQX09MQUdIRFpzT2VOY1Fn?oc=5",
-      "pub_date": 1795475282.0,
-      "article_url": "https://blog.ethereum.org/2026/11/23/pqai-0",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZVGsxYXo3dm5uRG5xQktOcmNmak5pby1OU01WVm9reXZob09RQXhTdjBvTWpDWU1SenN4T1VlV2c0bmdkNFZUNEpsUnNLWjNiWXdVOXdB?oc=5",
+      "pub_date": 1795556349.0,
+      "article_url": "https://blog.ethereum.org/2026/11/24/pqai-1",
       "image": "https://blog.ethereum.org/images/eth-org.jpeg",
-      "description": "Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on..."
-    },
-    {
-      "headline": "Tom Lee Slams XRP as \u2018Far More Inflationary\u2019 Than Ethereum as Bulls Eye $30",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1V6ZnNIeXEzZVhRVmE3TnI4Wk8wSVJCa3JBWndGZWNUa3ZNbGNFR1AtX0RkS3lROTZKNTNPSkJpelRheEo2V285V0xTV0R4ajJYdGVvSzRVdmh1ejNNcU04aUlHNkw4Nmp0d0pKTVZLd1Z0b25Vdm52aFZBTHdaM3pBQktidGh4cEM4aFd2VQ?oc=5",
-      "pub_date": 1795523535.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-slams-xrp-far-123215431.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c6a967897e207c1b0587282f75fc12eefaf2a577fe93650f7cfb6606d16df6e4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F63424381e3b64299e16ef8cf724ee2ca",
-      "description": "Bitmine\u2019s Tom Lee put XRP\u2019s annualized supply growth at 5.4%, compared with 0.90% for Ethereum and 0.82% for Bitcoin. XRP\u2019s circulating supply can grow as\u2026"
-    },
-    {
-      "headline": "What Bitmine\u2019s Ethereum Buying Cap Could Mean For BMNR Stock",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdW16V1hEYzEwS09tblktWDRsN2tzc0IyRzYzMDEwUVdLbFUzNlUxUXdfMmxBbHhFcHJYdGVlMFRVcFVFSS1yc28zV3dxVW5weTZhVkJkQUNRZVZkTF9xWkVabnBVSDdrbjd3WGhzWU12T0Fnbm1pOEFlOGE2Wk9wWWF6R29ta3B1VEdVR3U0Unh5akdLME9ra1VYZzhmTmc?oc=5",
-      "pub_date": 1795522576.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-buying-cap-could-121616580.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/92b869571ca5b7ab086f3ea98c1d96ba3f25cf704f8d08d3e44d25e323a8f1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
-      "description": "Bitmine Immersion Technologies reported full year 2026 revenue of US$124.81 million and a net loss of US$6,313.39 million, while continuing to accumulate Ethereum to nearly 5% of the token's total supply and staking most of these holdings through its MAVAN validator network. Management has flagged an end to Ethereum purchases once the 5% ownership cap is reached. This shift could free future cash and equity issuance capacity for uses such as potential share buybacks and may raise sharper..."
-    },
-    {
-      "headline": "Ethereum Foundation Doubles Security Team And Calls A.I. \u2018Urgent Risk\u2019",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlFiMTJHQW5jb19PQmh6YjFPUm5BazNWNVdHN3VPanJMb0h5YUxSQ3M0T1NzVFZ4V3Z5UWZoZ0xLZHBkbkZIOWRoZllYcjBqYUpYdk5OZ29KTDFhVTEybXd2bEhnb1pxRncta3pwcFFEUjdIdmIxdjdkdUFITXZKZVhDTHRDUm0wRWpWSlpHUXpGY2JvU09wSWJGWm1GNjJxTVhmZU1MbEQ2Zw?oc=5",
-      "pub_date": 1795531320.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-doubles-security-team-144200880.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/138ffe1ecaa98188813d69cd4aa1293f36ae48f13eb061c165e53e3bff9167d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Ff009b896d9fafbebbe91bd81c2288a5a.jpg_up.jpg",
-      "description": "The Ethereum Foundation (CRYPTO: $ETH) has doubled its security protocol team and called artificial intelligence (A..."
+      "description": "We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography."
     },
     {
       "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
@@ -55,34 +35,24 @@
       "description": null
     },
     {
-      "headline": "Current price of Ethereum for November 24, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZWIwWWNFV2FMY1dQUE5YN1M4cldkSGRGcHA4T0U5Zzh5TDRVSEJYM2JUR0JGR3J4dldhTy1hYU5wS3NxaTRxRlp2WFpYdk96Q2xNdFhiVGZsTEo5S1h5cDU3ZU9mMDIt?oc=5",
-      "pub_date": 1795525200.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-24-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-24.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "0xAC33...531B4d",
+      "source": "Arkham",
+      "source_url": "https://arkm.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdThXLTQtbjRSRTdGMnZ4UVZoY1RFM0dxNUQ0Wk1IR0w1OEM0MFBpU0xlMnpLYlRWQmJMcmlLZmlHQ2gtZVhPZGs1R2FVVTNvTjE3SEVMcmkxLXNleFVPODBVdWJOYVlIZU9BSVBTOS1uVW9yajhhRnRpWDQ2eTB4TURR?oc=5",
+      "pub_date": 1795518633.0,
+      "article_url": "https://arkm.com/explorer/address/0xac33748aad09cea8e50484cc0fa168dc23531b4d",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here\u2019s What The CFTC Changed",
+      "headline": "LIVE Crypto News \u2013 Bitcoin and Ethereum Bounce Back: Market Finally Turning?",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSlkxZGRfMWpNc3VWamlUc3JoYkc4MkhWeFVfb0g5eWU4R0pYYWxVR0NfSEpUYVhkSkZVV0RMWlBvYWU0M0Z2OWNSc0ZKR0tNQndpcEpoczR3ZE9xV0taM0xHcG9NTFVpaTdZdmloWEc5MjFPbW1yejlxNGVyNENVLXZVMnhfRmRtNlhLRUtWa3lYQUJ3WmpfNnJDblFmR1AxZE9NZGU0bFZOS1lfdUk3bVhNeElNNEJPaGUwMVZjeS1FMlB5SDkxVHNJWEV4ajZkblVwa2p1UWJxLUNTNzRxd3k1Z3Y4ZlBtZUE?oc=5",
-      "pub_date": 1795488660.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:42afaa361094b:0-bitcoin-and-ethereum-get-a-bigger-role-in-us-derivatives-markets-here-s-what-the-cftc-changed/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Regulated crypto exchanges and derivatives platforms are getting an easier path to using digital assets in their operations, as the Commodity Futures Trading Commission (CFTC) is allowing them to count Bitcoin (BTC), Ethereum (ETH) and payment stablecoins toward reserves needed to cover a year of o\u2026"
-    },
-    {
-      "headline": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2FFc2tTNVUzSzg2R19hOXVxOUo2VnQ2c3UzZWw1U2JpelZNdkxPa3dOY1NtRER3ejVJcS1LUG0yR1RxYTg4U1o5RmdvNU4zNDNyUW9udDljcnlkN1hGVGN2ZUJBcEJTa2IwWWxlSXZCR1Q2N29yNVNnWDUyaHVsc051N3o3YnBUMWZMcTlsYklUM1VjZHptUGYzU2tSb3Z1RGM1UmQ5bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmM3bFdGUzB1TjdadVo1dUVRQWNpdnpHTUtzU0UwQ2lDUFVQYnJsVjZzNk4zb1BvRjlvQktMUld1NW5LdWQ1Vkp6YThrTjFnbWs3SGwzckRJaWdlNzVKanJITHFON2w1MHhhVjhMR25MSXFuT1UtU1l6MjNKLVFKMzRyY1ZXUjlFaXNzWGNvRncwNkYyamZGTHp0U21tQXFCUFJwa1BYbS1lYlhJVF9vYUFScFdoZFJaZkZkMjVDcmtVQTZ3V1pya1N0TlphUQ?oc=5",
       "pub_date": 1795417920.0,
-      "article_url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cathie-wood-scaled.jpg",
-      "description": "Ark purchased a combined 1.64 million Anthropic shares, worth $145.9 million, on Thursday and Friday across its exchange-traded funds, according to the firm's trading disclosures."
+      "article_url": "https://www.tradingview.com/news/cryptonews:16fa04b0d094b:0-live-crypto-news-bitcoin-and-ethereum-bounce-back-market-finally-turning/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin and Ethereum are bouncing back after a brutal selloff, but the recovery is running into a market that still looks far from healthy. Bitcoin climbed back above $60,000 over the weekend after touching a low near $55,250. Ethereum also gained ground, its first breath of air after several days\u2026"
     },
     {
       "headline": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
@@ -95,16 +65,46 @@
       "description": "Bitmine Chairman Tom Lee argued the Ethereum supply has grown just 0.90% annually since mid-2025\u2014roughly matching Bitcoin\u2019s 0.82%."
     },
     {
-      "headline": "Crypto News Today: AlphaPepe Presale Crosses 13,500 Holders as Ethereum Price Prediction Targets $10,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNFNyMS01VndaYVN6XzhzVGVBTUstaXpxNDRiTl9OU1VDelBjU0VneUpSRlB3RFFDdmw1ZWFMeHhIRFN5N3RVVENBYm1DdXFCZ3pESFJuc2lKRkFiRmtTZXhYTFdTakdHSHl5Um9tTHJtbk5nQWdDbl94bVc2UkFLOGd0RDBPelA2WVNrdUZmYW5RZ3pCT0FRUW5xcHpCNWxoWVhCOTJqb283SVNQX2NRTjg0cE1rMzF1SThwU0F6dVl3M3BybGc1VmZwWmlwRGgyUGZTSDBPdTJEY3JPUHdPMEdFV0lTcWFhVWVRdS1fN2FMX1k?oc=5",
-      "pub_date": 1795496660.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-crosses-13-500-holders-as-ethereum-price-prediction-targets-10-000-1036794120",
-      "image": "https://ml.globenewswire.com/Resource/Download/3695223c-c81e-4e56-83cd-da47dd5e61f4/alphapepe.jpg",
-      "description": "MONACO, Nov.  23, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale crossed 13,500 holders ahead of its Q1..."
+      "headline": "Ethereum Foundation doubles protocol security team, calls AI a 'more urgent risk' than quantum",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3RpaGN3a05OM0lfY3dVdDNQTHdGM1Y2NktmWHRhVmFOQmJOR2t3WlhFU0kwcUlrZkJsS0ZkaGR1alRrRkliTTZncEVCaEI5RzBYc2dnWGdoM2ZyeTkxV3RLWHZzZW90R0xKam9aSEYydWRZZjJ0R3FvbmdZdE1uVl9QWE9UNEM1YU4zMGJtTFZvaWIwY3J5Y2s3aXRZZHhHUWh1VHc5QVpkVVIzUm1LQWJJd001N0VpaDhSLVRaTm9XWmszR0Y0b3NQS19NUmRpZFRRYmpfVURzY09NVlgwVWtGWQ?oc=5",
+      "pub_date": 1795521180.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1238606759-1-scaled.jpg",
+      "description": "Ethereum developers face deadlines for a post-quantum transition as the Foundation raises security staffing and AI advances reshape its threat assessment."
+    },
+    {
+      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP remain vulnerable as bears drive prices toward yearly lows",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWUFldDVIcjR5bEUyaEI5MHU4eG10cE5idmFZdXpud08wTzhLVW51aTZRT2ZEOG1hcGI4dXVYRHlmWUpTa3JxbnZ6enBFRjR2LUJLTGdISm1HWVluWHJhcFMtcTBfRUQyaG1fbGpnX0pqMFhSNGVocllwYTlRUGRhZDRmNGFtMXU0ejd4cHBwLUlZNkM3cm5uRU1UbGg1aG9GM1RYRWpDNVRJZ3RzWFpHaFpyNllrSUZ0VlpQdHNld3NWcFpJOVNVcXlCY0kxM0dvRjFSSUQ1Vm1vR20zN29Tb1l1TENXd1I5WEJsWmE5UEFqaDVRODZiWGU3MmVZdWVzTngxZkYteGE3R1VPOFE?oc=5",
+      "pub_date": 1795405964.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-remain-vulnerable-as-bears-drive-prices-toward-yearly-lows-202611230352",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "BitMine Stock Falls to Key Support as Ethereum Crash Tests Tom Lee\u2019s Bull Run Thesis",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeWFXejdMalpBLUN4b2JrdmZKQ3RNU2VGLWZDY1Rxd1VYZmxsZ0Z3QUZTaGl4NDhJUXNsREd4WnluSTF6SjA3VThWQnV2aEF2REd2cklRbFdTMFhEVzlha01OaE1MZTFyQkJsbGVTa2E3c1ljdEFqZkJidGZnSjlXaXo4M1FFakRub3pZb1o3cXB3bHM0U2ZhWVdMS3Q3M0VkXzlxRnNBUDU4eUFReVpIV0hOMVM1MVQ2b1c1dTdzYUdZRF92djRiUzh6Y0h5Ti1BbjZyUVdSYw?oc=5",
+      "pub_date": 1794836538.0,
+      "article_url": "https://www.benzinga.com/markets/equities/26/11/63517294/bitmine-stock-falls-to-key-support-as-ethereum-crash-tests-tom-lees-bull-run-thesis",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Current price of Ethereum for November 24, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZWIwWWNFV2FMY1dQUE5YN1M4cldkSGRGcHA4T0U5Zzh5TDRVSEJYM2JUR0JGR3J4dldhTy1hYU5wS3NxaTRxRlp2WFpYdk96Q2xNdFhiVGZsTEo5S1h5cDU3ZU9mMDIt?oc=5",
+      "pub_date": 1795537899.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-24-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-24.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-24T15:07:50.577182+00:00"
+  "fetched_at": "2026-11-25T00:00:28.627703+00:00"
 }

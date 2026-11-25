@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-24T15:08:06.798638+00:00'
+updated: '2026-11-25T00:00:33.205481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 24, 2026 at 15:08 UTC  
+**Last Updated:** November 25, 2026 at 00:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,304.71
+### $59,850.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.7%  
-**7d:** -5.0%  
-**30d:** -25.2%  
-**90d:** -25.3%  
-**1y:** -31.6%  
+**24h:** -2.4%  
+**7d:** -5.1%  
+**30d:** -25.3%  
+**90d:** -25.4%  
+**1y:** -31.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1212.22B
+**Market Cap:** $1202.20B
 Rank #1
 
-**Circulating Supply:** 20,116,753 BTC
+**Circulating Supply:** 20,116,918 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--52.2%
+-52.6%
 
 **All-Time Low:** $67.81
-+88782.2%
++88025.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hit my goal of a quarter of a bitcoin, feels good
 
-8d ago
+9d ago
 
 ---
 
@@ -103,7 +103,7 @@ Congrats everyone.
 
 **[bitcoin will be 170k-200k in sep 2029](https://www.reddit.com/r/Bitcoin/comments/1xx3wds/bitcoin_will_be_170k200k_in_sep_2029/)**
 
-8d ago
+9d ago
 
 ---
 
@@ -111,7 +111,7 @@ Congrats everyone.
 
 Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian reseller CryptoBilis contained unauthorized circuit boards designed to capture recovery phrases and transmit them through cellular networks. The affected purchases occurred between August 20 and September 23. Trezor released firmware 2.13.1 on November 11 to block the identified implant behavior. No affected customers had reported losing funds at the time of the disclosure. Hardware wallets are not automatically trustworthy if their physical supply chain is compromised. Firmware updates cannot undo recovery phrases already stolen.
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 8d ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 9d ago
 
 ---
 
@@ -133,7 +133,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 I really have no words of hope. But I am holding on.
 
-9d ago
+10d ago
 
 ---
 
@@ -155,77 +155,75 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin rises after falling to two-year low](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)**
+**[Bitcoin Price Drops Below $60,000 As Crypto Market Erases Gains From Nvidia Rally](https://www.forbes.com/sites/siladityaray/2026/11/24/bitcoin-slips-below-60000-again-after-short-lived-nvidia-fueled-rally/)**
 
-Reuters • 3d ago
-
----
-
-**[Serious U.S. Treasury Secretary Warning To The Fed Puts Bitcoin And Crypto On The Brink Of A Surprise Price Shock](https://www.forbes.com/sites/digital-assets/2026/11/23/serious-us-treasury-secretary-warning-to-the-fed-puts-bitcoin-and-crypto-on-the-brink-of-a-surprise-price-shock/)**
-
-Forbes • 1d ago
+Forbes • 12h ago
 
 ---
 
-**[Can Bitcoin Regain the $90,000 Price Level by Year End? Galaxy Digital CEO Mike Novogratz Says It's Unlikely.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-regain-90-000-price-125002644.html)**
+**[Nvidia (NVDA) comeback sparks AI trade rebound, but bitcoin (BTC) price struggles to keep up](https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank)**
 
-New macroeconomic headwinds could delay a much-anticipated Bitcoin rally.
-
-Yahoo Finance • 2h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin ETF Outflows Hit A Record $4.71 Billion](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-hit-record-142400753.html)**
+**[Bitcoin Price Nears $60K Despite Saylor’s BTC Buy: Is the Bottom In?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-nears-60k-despite-145714968.html)**
 
-Outflows from Bitcoin (CRYPTO: $BTC) exchange-traded funds (ETFs) have reached a record $4.71 billion U.S. during t...
+In Bitcoin News today, BTC USD price is trading at around $60,200, down a further -1.5% on the day after a brief but sharp rally faded, with price action, institutional flows, and derivatives data pointing to continued market caution. Saylor is back buying Bitcoin, Jensen Huang is back as Nvidia’s ...
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[America Readies New Tariffs on China. Will Bitcoin and Stocks Sink Again?](https://finance.yahoo.com/economy/policy/articles/america-readies-tariffs-china-bitcoin-131955031.html)**
+**[Bitcoin, XRP plunged more than 70% on Kraken, and buyers get to keep cheap coins](https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand)**
 
-The US readies new tariffs on China and 15 other economies. See how stocks reacted the last 2 times tariffs hit China.
+CoinDesk • 1d ago
+
+---
+
+**[How Much Bitcoin Could Elon Musk Control if Tesla and SpaceX Merge?](https://finance.yahoo.com/markets/crypto/articles/much-bitcoin-could-elon-musk-221239907.html)**
+
+Tesla and SpaceX have both formed special committees to weigh a merger, and both sit on Bitcoin bought at very different times. Combine the stashes and a single board could hold a decision that rattles a market already under pressure.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus](https://www.bloomberg.com/news/articles/2026-11-24/bitcoin-fails-to-hold-nvidia-bump-with-crypto-headwinds-in-focus)**
+**[Watch Bitcoin Sinks Below $60,000 Amid ETF Outflows](https://www.bloomberg.com/news/videos/2026-11-24/bitcoin-sinks-below-60-000-amid-etf-outflows-video)**
 
-Bloomberg • 4h ago
-
----
-
-**[Grayscale says bitcoin and major altcoins look 'oversold' as AI risks cloud near-term outlook](https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418)**
-
-Grayscale's Zach Pandl said the near-term outlook for crypto depends more on AI-related risks than on blockchain fundamentals.
-
-The Block • 16h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Current price of Bitcoin for Nov. 23, 2026](https://fortune.com/article/price-of-bitcoin-11-23-2026/)**
+**[Tom Lee Says Ethereum Is as Scarce as Bitcoin: Do the Supply Numbers Agree?](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-scarce-221309296.html)**
+
+Tom Lee says the gap between Ethereum's and Bitcoin's supply growth is too small to matter, and his firm holds billions in ETH. A closer look at how each coin actually gets created and destroyed shows where his comparison starts to strain.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Kraken's Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC](https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498)**
+
+Two Visa Signature cards, managed by Cardless, are expected to ship in early 2027 and offer up to 4% cashback.
+
+The Block • 5h ago
+
+---
+
+**[Current price of Bitcoin for November 23, 2026](https://fortune.com/article/price-of-bitcoin-11-23-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 17h ago
+Fortune • 1d ago
 
 ---
 
-**[“This Is An Excellent Entry Point” – UTXO’s Loren Asmus Gives Bitcoin Outlook](https://bitcoinmagazine.com/videos/this-is-an-excellent-entry-point-utxos-loren-asmus-gives-bitcoin-outlook)**
+**[Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?](https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near)**
 
-Loren Asmus of UTXO Management says Bitcoin's long-term case is intact after a brutal year for price.
+Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms.
 
-Bitcoin Magazine • 16h ago
-
----
-
-**[Why 42 Macro says it’s waiting to buy the Bitcoin dip](https://www.tradingview.com/news/cointelegraph:559e7aff3094b:0-why-42-macro-says-it-s-waiting-to-buy-the-bitcoin-dip/)**
-
-Darius Dale, founder and CEO of 42 Macro, says his firm has trimmed its Bitcoin exposure and is waiting for signs that the sell-off has run its course before it considers buying again.“We’ve already de-risked out of Bitcoin,” Dale said in an interview with Cointelegraph last week. “Our stress level…
-
-TradingView • 10h ago
+Decrypt • 4h ago
 
 ---
 
@@ -243,7 +241,7 @@ TradingView • 10h ago
 
 Notes on mathematics and puzzles.
 
-⬆️ 7 • 💬 0 • 2d ago • [echo.ls](https://echo.ls/zden-level-halv/)
+⬆️ 7 • 💬 0 • 3d ago • [echo.ls](https://echo.ls/zden-level-halv/)
 
 ---
 
@@ -252,6 +250,14 @@ Notes on mathematics and puzzles.
 Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...
 
 ⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
+
+---
+
+**[Show HN: The all-in cost of buying $1k of Bitcoin in 58 countries, updated daily](https://news.ycombinator.com/item?id=50635343)**
+
+The all-in cost of buying $1,000 of Bitcoin in 58 countries: exchange fee, spread, deposit, currency conversion and withdrawal, at the cheapest exchange in each.
+
+⬆️ 2 • 💬 1 • 2h ago • [CryptoTrueCost](https://www.cryptotruecost.com/en/bitcoin-cost-map/)
 
 ---
 
@@ -271,17 +277,19 @@ The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound:
 
 ---
 
+**[Bitcoin mining is costing more than it's price](https://news.ycombinator.com/item?id=50632603)**
+
+bitcoin is currently trading at less than $60,000 JPMorgan estimates it costs about $86,000 to mine one
+
+⬆️ 1 • 💬 0 • 5h ago • [Molly White](https://www.mollywhite.net/micro/entry/202611212317)
+
+---
+
 **[Show HN: TimestampGit – 1-click GitHub App that anchors commits to Bitcoin](https://news.ycombinator.com/item?id=50547352)**
 
 TimestampGit — OpenTimestamps and blockchain timestamp verification: how to prove code existed at a specific time. Automatically anchors Git commits to Bitcoin.
 
-⬆️ 1 • 💬 0 • 5d ago • [timestampgit.dev](https://timestampgit.dev)
-
----
-
-**[What's New on Bitcoin](https://news.ycombinator.com/item?id=50532614)**
-
-⬆️ 1 • 💬 0 • 6d ago
+⬆️ 1 • 💬 0 • 6d ago • [timestampgit.dev](https://timestampgit.dev)
 
 ---
 
@@ -289,15 +297,15 @@ TimestampGit — OpenTimestamps and blockchain timestamp verification: how to pr
 
 Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.
 
-⬆️ 1 • 💬 0 • 3d ago • [usenunya.com](https://usenunya.com/)
+⬆️ 1 • 💬 0 • 4d ago • [usenunya.com](https://usenunya.com/)
 
 ---
 
-**[Show HN: Ditching Markdown for an interactive AI Agent guide in pure HTML](https://news.ycombinator.com/item?id=50628070)**
+**[Gnomon: Git for Postgres Data](https://news.ycombinator.com/item?id=50611613)**
 
-An interactive engineering guide to LLMs, Agents, and RAG
+Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.
 
-⬆️ 1 • 💬 0 • 1h ago • [qufei1993.github.io](https://qufei1993.github.io/ai-agent-guide/en/index.html)
+⬆️ 38 • 💬 6 • 1d ago • [gnomon.bitsinfra.com](https://gnomon.bitsinfra.com/)
 
 ---
 
@@ -305,93 +313,53 @@ An interactive engineering guide to LLMs, Agents, and RAG
 
 ## YouTube Videos: "bitcoin"
 
+**[Everybody just started taking Bitcoin as collateral.](https://www.youtube.com/watch?v=yJE-mU3kur8)**
+
+Three institutions changed what Bitcoin can be used for, and two of them did it on the same day. CFTC staff said exchanges and ...
+
+📺 Yahoo Finance
+
+👁️ 30K • 👍 452 • 💬 51 • ⏱️ 14:52 • 6h ago
+
+---
+
+**[Extreme Fear Is Back. Last Time, Bitcoin Did This](https://www.youtube.com/watch?v=1cjakTojKqU)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 3K • 👍 136 • 💬 15 • ⏱️ 10:19 • 3h ago
+
+---
+
+**[Bitcoin a ‘Struggle’ Right Now: Kiani](https://www.youtube.com/watch?v=9Kt8aDDyAKE)**
+
+Ayesha Kiani, COO of Monarq Asset Management, joins Scarlet Fu and Tim Stenovec on “Bloomberg Crypto.” Bitcoin is set to ...
+
+📺 Bloomberg Television
+
+👁️ 2K • 👍 14 • 💬 6 • ⏱️ 3:44 • 3h ago
+
+---
+
+**[Why 42 MACRO Thinks Bitcoin Could Still Crash to $38,400](https://www.youtube.com/watch?v=iQoaNL2CqWw)**
+
+Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals https://www.coinbureau.com/deals/ ...
+
+📺 Coin Bureau
+
+👁️ 6K • 👍 153 • 💬 14 • ⏱️ 1:28 • 8h ago
+
+---
+
 **[The Crash Was a LIE! Why Bitcoin&#39;s Bottom Is Finally In](https://www.youtube.com/watch?v=0shaXx_n870)**
 
 Bitcoin crashed to $55000, NVIDIA CEO Jensen Huang was suddenly reinstated, and the stock market staged a historic reversal.
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 2K • 💬 139 • ⏱️ 18:41 • 16h ago
-
----
-
-**[They’re About To Reset The Price Of Gold, Silver, And Bitcoin](https://www.youtube.com/watch?v=ZFeXrGgUXx8)**
-
-Gusto: Get 3-months FREE when you run your first payroll at http://gusto.com/MINDSET *This is an advertiser. Minority Mindset is ...
-
-📺 Minority Mindset
-
-👁️ 419K • 👍 6K • 💬 571 • ⏱️ 23:29 • 1d ago
-
----
-
-**[Grant Cardone: Bitcoin to 5x - MSTR So Cheap “You Have to Buy it”](https://www.youtube.com/watch?v=6VpzmMy5Jv8)**
-
-Grant Cardone says Michael Saylor "is hated, frankly, by the Bitcoin community that needs him," and predicts Saylor will be proven ...
-
-📺 Bitcoin Magazine
-
-👁️ 28K • 👍 385 • 💬 75 • ⏱️ 25:11 • 19h ago
-
----
-
-**[The $55k Bitcoin Crash Explained: What Happened Every Other Time Bitcoin Did This?](https://www.youtube.com/watch?v=Q2JbbQEzuhk)**
-
-Banking outages, leaked customer data, and growing cyber threats are exposing just how fragile our financial infrastructure can ...
-
-📺 Simply Bitcoin
-
-👁️ 37K • 👍 1K • 💬 112 • ⏱️ 11:53 • 1d ago
-
----
-
-**[Fear Sweeps Back Into The Markets As Tech Sells, Bitcoin Silver Retrace, Here Are The Trades](https://www.youtube.com/watch?v=rhXH2Y6uMlc)**
-
-"No BS. Just Charts." Watch My Trading Game Plan on weekdays at 9:00 am ET! In each episode, Gareth Soloway breaks down ...
-
-📺 Verified Investing
-
-👁️ 6K • 👍 2K • 💬 47 • ⏱️ 19:52 • 46m ago
-
----
-
-**[BITCOIN IS ABOUT TO MAKE A HUGE MOVE!!!!](https://www.youtube.com/watch?v=7mLjVwS741M)**
-
-YUBIT hhttps://ckenny.com/YBN $500 Nvidia Postion MY FREE TRADE ALERTS https://ckenny.com/YBTM FREE 1000 ...
-
-📺 Conor Kenny
-
-👁️ 10K • 👍 425 • 💬 53 • ⏱️ 15:58 • 5h ago
-
----
-
-**[Bitcoin Crashed: But These 4 Signals Point To Epic Rebound (I Bought!)](https://www.youtube.com/watch?v=RkTY5ODdOfM)**
-
-Bitcoin and the crypto market crashed last week, and Gareth Soloway asks the question every crypto investor is facing right now: ...
-
-📺 Gareth Soloway
-
-👁️ 200K • 👍 8K • 💬 896 • ⏱️ 11:36 • 1d ago
-
----
-
-**[GOLD Trading LIVE: BTC Live Trading Bitcoin Analysis | 24 NOV #crypto #btc](https://www.youtube.com/watch?v=3zit1vdXxRc)**
-
-Telegram- https://t.me/+AjKytu9tGz1iMjU1 ✓BEST CFD BROKER(FOREX+CRYPTO) -PRIMEXBT- ...
-
-📺 Trade For Profit
-
-👁️ 6K • 👍 553 • 14h ago
-
----
-
-**[BITCOIN: The Answer To The Question You&#39;ve All Been Waiting For! [Is The Bottom In?]](https://www.youtube.com/watch?v=XRUCa6snYE4)**
-
-In today's video we explore whether or not the bottom is in. It all comes down to probabilities and sadly there just aren't certainties.
-
-📺 Crypto Banter
-
-👁️ 26K • 👍 1K • 💬 22 • ⏱️ 48:10 • 1d ago
+👁️ 41K • 👍 2K • 💬 151 • ⏱️ 18:41 • 1d ago
 
 ---
 
@@ -401,7 +369,47 @@ SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WE
 
 📺 Crypto Kid
 
-👁️ 7K • 👍 305 • 💬 32 • ⏱️ 6:56 • 11h ago
+👁️ 10K • 👍 348 • 💬 26 • ⏱️ 6:56 • 19h ago
+
+---
+
+**[They’re About To Reset The Price Of Gold, Silver, And Bitcoin](https://www.youtube.com/watch?v=ZFeXrGgUXx8)**
+
+Gusto: Get 3-months FREE when you run your first payroll at http://gusto.com/MINDSET *This is an advertiser. Minority Mindset is ...
+
+📺 Minority Mindset
+
+👁️ 477K • 👍 7K • 💬 625 • ⏱️ 23:29 • 1d ago
+
+---
+
+**[Will Bitcoin DUMP EVEN LOWER? (The Halving Says THIS)](https://www.youtube.com/watch?v=kll-YLeEHNU)**
+
+Will Bitcoin dump even lower? Nick Valdez, Chief Crypto Strategist for Verified Investing, looks at one of the most important ...
+
+📺 Verified Investing
+
+👁️ 15K • 👍 556 • 💬 13 • ⏱️ 24:52 • 5h ago
+
+---
+
+**[I’m Worried about Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=LAhg30XpToY)**
+
+Stocks are recovering, but Bitcoin is struggling to follow, exposing a deeper weakness in the crypto market. In today's show, Ran ...
+
+📺 Crypto Banter
+
+👁️ 33K • 👍 963 • 💬 28 • ⏱️ 46:10 • 8h ago
+
+---
+
+**[BITCOIN IS ABOUT TO MAKE A HUGE MOVE!!!!](https://www.youtube.com/watch?v=7mLjVwS741M)**
+
+YUBIT hhttps://ckenny.com/YBN $500 Nvidia Postion MY FREE TRADE ALERTS https://ckenny.com/YBTM FREE 1000 ...
+
+📺 Conor Kenny
+
+👁️ 21K • 👍 568 • 💬 76 • ⏱️ 15:58 • 14h ago
 
 ---
 

@@ -47,6 +47,20 @@
       "site_name": "GitHub"
     },
     {
+      "title": "Show HN: The all-in cost of buying $1k of Bitcoin in 58 countries, updated daily",
+      "url": "https://www.cryptotruecost.com/en/bitcoin-cost-map/",
+      "hn_url": "https://news.ycombinator.com/item?id=50635343",
+      "author": "erez_leviim",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-11-24T21:56:37Z",
+      "object_id": "50635343",
+      "image": "https://www.cryptotruecost.com/bitcoin-cost-map-share.png",
+      "description": "The all-in cost of buying $1,000 of Bitcoin in 58 countries: exchange fee, spread, deposit, currency conversion and withdrawal, at the cheapest exchange in each.",
+      "favicon": "https://www.cryptotruecost.com/apple-touch-icon.png",
+      "site_name": "CryptoTrueCost"
+    },
+    {
       "title": "Bitcoin Core CVE-2026-117348: Node stall through duplicate orphan announcements",
       "url": "https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/",
       "hn_url": "https://news.ycombinator.com/item?id=50599741",
@@ -75,6 +89,20 @@
       "site_name": "spiritsofbitcoin.cash"
     },
     {
+      "title": "Bitcoin mining is costing more than it's price",
+      "url": "https://www.mollywhite.net/micro/entry/202611212317",
+      "hn_url": "https://news.ycombinator.com/item?id=50632603",
+      "author": "DeepLogin",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-24T18:45:39Z",
+      "object_id": "50632603",
+      "image": "https://www.mollywhite.net/assets/images/molly_illustration.png",
+      "description": "bitcoin is currently trading at less than $60,000 JPMorgan estimates it costs about $86,000 to mine one",
+      "favicon": "https://www.mollywhite.net/assets/images/icons/apple-touch-icon.png",
+      "site_name": "Molly White"
+    },
+    {
       "title": "Show HN: TimestampGit \u2013 1-click GitHub App that anchors commits to Bitcoin",
       "url": "https://timestampgit.dev",
       "hn_url": "https://news.ycombinator.com/item?id=50547352",
@@ -87,20 +115,6 @@
       "description": "TimestampGit \u2014 OpenTimestamps and blockchain timestamp verification: how to prove code existed at a specific time. Automatically anchors Git commits to Bitcoin.",
       "favicon": "https://timestampgit.dev/favicon.svg",
       "site_name": "timestampgit.dev"
-    },
-    {
-      "title": "What's New on Bitcoin",
-      "url": "https://news.ycombinator.com/item?id=50532614",
-      "hn_url": "https://news.ycombinator.com/item?id=50532614",
-      "author": "codeswithrocky",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-17T15:23:01Z",
-      "object_id": "50532614",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
     },
     {
       "title": "Show HN: Nunya \u2013 A \"digital privacy screen\" that makes text illegible from afar",
@@ -117,21 +131,21 @@
       "site_name": "usenunya.com"
     },
     {
-      "title": "Show HN: Ditching Markdown for an interactive AI Agent guide in pure HTML",
-      "url": "https://qufei1993.github.io/ai-agent-guide/en/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50628070",
-      "author": "qufei1993",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-24T13:42:27Z",
-      "object_id": "50628070",
+      "title": "Gnomon: Git for Postgres Data",
+      "url": "https://gnomon.bitsinfra.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50611613",
+      "author": "lucasluitjes",
+      "points": 38,
+      "num_comments": 6,
+      "created_at": "2026-11-23T14:03:38Z",
+      "object_id": "50611613",
       "image": null,
-      "description": "An interactive engineering guide to LLMs, Agents, and RAG",
-      "favicon": "https://qufei1993.github.io/favicon.ico",
-      "site_name": "qufei1993.github.io"
+      "description": "Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.",
+      "favicon": "https://gnomon.bitsinfra.com/gnomon.svg",
+      "site_name": "gnomon.bitsinfra.com"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-11-24T15:07:25.759018+00:00"
+  "fetched_at": "2026-11-25T00:00:00.172637+00:00"
 }
