@@ -9,60 +9,80 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5",
-      "pub_date": 1795521141.0,
+      "pub_date": 1795518601.0,
       "article_url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "AI debt markets shudder as Nvidia's top 'banker' returns",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nS1FDUS1xNTd6cWFBUE9JbUxkUnZUSnJFck82RHlqeEZOVTBUenpqYWJHbjd0VldkNEI4b3NFalZXTXhRTVFpQ042V2FVQ0g2SXNHeUlYOU1yQnVDWE5FaDFFUWNIUXB3UFpzbm9PcDNNb0Vrc19wV0RKZ2ZwWjjSAYQBQVVfeXFMUERIbXJUSm81dUY0YV9wRlo2YkpfNTBtY3JCOGFsSFM1ODBzU1ltLVFnaHZyRkhmZURkY3dCX1RKVjc3MUd0RVZGR0dtZFZFZjc0LTczZmIwVm1sTjBsaUNZSEo5MEhTWXdMcXU2aHVXTHNRWXJLZnd6VUU0cmxEUHdHZGRp?oc=5",
+      "pub_date": 1795556283.0,
+      "article_url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550383-17945082062026-11-12t182457z_38244363_rc2imoa59cm1_rtrmadp_0_nvidia-ceo.jpeg?v=1794508225&w=1920&h=1080",
+      "description": "Fears about some companies' AI debt ramped higher Tuesday, a day after Jensen Huang's return as Nvidia CEO."
+    },
+    {
+      "headline": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE80eU84aDZfY24tLUhfMURrVFZHdkt3UHZuNjcxOXA3MUdWU0ZXUV9Od0d2QUJUWVFtZEN4X19BekxhdUFzcUNlVFYtZVdiMHgtTEFPQWtxU2xIS2NwUW1HVzJkUjNRS2tiMkJEa1ltcG42enk0czYyQXNjN0xibUd1SFNGU3pzd1diLWxDcFlmUVVqUmRoNVJ5VzVDNUVmMDJNRmxTY2dJSjJ3MGk4UUNhTk9DaGNLQ1E?oc=5",
+      "pub_date": 1795559340.0,
+      "article_url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56eC1rNEgtamFWQ0kzWWw0bVZObjZqMDdkZE9XOU91aVdST0RtYk91U0EtNEFYWEo0RWFDVklpaTUtZjFVc2FyM2paTk5nMWhDOHFBRkNHOWdVdmpiZTBKVkJoWFlSN1NWTUVPeEhQcm1wbXdveGtrWNIBfkFVX3lxTE9DVkFsbFdUOEk3YmRtWHR2bmJYRXFCbXNpMHZBeHd2X21MRFFBRGxXdXdOT05wRm9ISWhkRzZSVDI4Q0pSWEJ3MlZDTS1saXNpVm8tU3NIVnIzWkRxcWdGZE5SbGdOVEVaZURnNnRIcGRKTERfMllaaW9xQTBxUQ?oc=5",
+      "pub_date": 1795588186.0,
+      "article_url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107417946-1716311561256-gettyimages-2131329168-April_3_2024_Krakow_AI_logoes-9.jpeg?v=1727274261&w=1920&h=1080",
+      "description": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds."
+    },
+    {
+      "headline": "\u2018It\u2019s been really a mess\u2019: Meta insiders concerned over push to AI content moderation",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2R1YjJLbjBjWVNaaGdKVUlXLW1xLXRNczUzanM4US1aNU9RT0dHbkNpMXBsaV9nZWVieHlfeWc4TnZGUmlDRHBfNXFLbDc5eENVUVgzZnk4N3psdERKbmFUT0NUYUxHUjZITEZobDVJc1JjYkxLZzJlelRVb3Npd3h1VGZ1b2hkQmd1TDZwdkotMFdic25VZll1ZkdfVlB5ZFlSV0lCMA?oc=5",
+      "pub_date": 1795590000.0,
+      "article_url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+      "image": "https://i.guim.co.uk/img/media/87e75a9e8fcfa797fd2a9d4b195d62ca54837f53/375_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04356bf86688d99aa30cc4f969b270dc",
+      "description": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale"
+    },
+    {
+      "headline": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+      "pub_date": 1795589880.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ajhjZ1lxSmdUb3VfYkxTNllRMWxCSWc0dS10YzBsakFnaEowS1ZDWVh1UGdveG05NlpvYUpoUkRURFVyaGtlWGpQUEcwSDBsV3o0X2V5ZDE4MUNBcU93eG9YYmNpcERvWGJZSTRTX2VlZ296dklsS1ZkV28?oc=5",
+      "pub_date": 1795589400.0,
+      "article_url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzxhgIKTt8K5ep8a4qHW9dDpkSYcBC5D1CWgkvvh9Ee5DRlNRSg-2UcZZVNoXrHXVTeIcdzj47FFcSz6gAssLknSDf6f0JDyQCoH51D4GYLSju_wh4smA6-2yE3Z7I30SPeuY8LOKA__Y9xPiU66t1aPsHTzuRnX0QUq2iadcKXFfv7ZhAhcXti_BDnrmu/s1700-nu-rw-lo-l85-e365/code.jpg",
+      "description": "GreyNoise links a campaign affecting 22 organizations and targeting Check Point Management servers to suspected AI-driven offensive tooling."
     },
     {
       "headline": "House duo wants oversight for self-improving AI models",
       "source": "Politico",
       "source_url": "https://www.politico.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHVsTTZmb0tCUUwxN0FadE9BUkVtdkp2WFpPM0JMSm94Z1U2dVB2NjRiWmE5TGJLMFBLTHkyLU81WmFyYkFJRzBCTkJUN1NTT3VNSXpfQkp2SkdxazZ3X0VaU25zci15dzRYUVYxY1NDbWx0VHBjdGM3QlMtWHFqdW83QUhyUkxwZ2F0RE1Cemp6bzRkX0hBZEVRTFhYb3NIWlE?oc=5",
-      "pub_date": 1795542548.0,
+      "pub_date": 1795542369.0,
       "article_url": "https://www.politico.com/live-updates/2026/11/24/congress/house-oversight-self-improving-ai-01181751",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Watch Fighting About AI At Thanksgiving Is the \u2018Latest Generational Beef\u2019",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGczZWJHQ0hDV0thcUxNN0QySHpWZmpqQmF0XzB3UWQyVUVLNXRrVk5Wdm1DbVBwQVlFNFNpdjFRZjhhOWhNOVBjbnZDY2hneHB2OUVONkNfWXNOektMZUl4bWhCckxHZFNQSFNnbkFqaUswSmZkdzl1TDRPT1dwTEF5cDhjU1NvdlRrRDBPc3JZaGJwQ2NjVHlUU0R5UTRo?oc=5",
-      "pub_date": 1795564037.0,
-      "article_url": "https://www.wired.com/video/watch/fighting-about-ai-at-thanksgiving-is-the-latest-generational-beef",
-      "image": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1795563595/wired_fighting-about-ai-at-thanksgiving-is-the-latest-generational-beef.jpg?_a=BACCg Ev",
-      "description": "This Thanksgiving, it\u2019s probably best to leave AI conversations off the table. Over the past decade, the US\u2019s chaotic, increasingly polarized political climate has put American families to the test. With AI now entering the mix, psychologist Matt Lundquist calls it the \u201cIt's the latest generational beef.\u201d He\u2019s found that arguments over AI are on the rise\u2014especially among families."
-    },
-    {
-      "headline": "Some AI toys may not be safe for kids. Here's what experts want parents to know.",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTIxejY1UGxJMTlWc0YtaHA2RDJDVGdUZDROcm5nT2xyaEVwV2gtWmJncEYtbjYwVS0zWlpJS1A4Z2dNMERwdXo3NGhURW1rdXJEaDcxWDNCd05KTE14R1pJNU9ndlNpdWo3YnZ3dWF0N3J5R3BVVkxEWXl6azJQNjBMd2Z4SzNvY1RiRnotMUVWS0tKZk0zdzNpeHFjZw?oc=5",
-      "pub_date": 1795537260.0,
-      "article_url": "https://www.cbsnews.com/news/some-ai-toys-may-not-be-safe-kids-what-experts-want-parents-to-know/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/45d076a3-8693-4411-9678-627592796f5c/thumbnail/1200x630/87e32bc50a790aa20664af74d57d1a3e/1795528195922.png",
-      "description": "New AI toys, which use generative technology similar to that of chatbots like ChatGPT, have raised concerns among parents of the young kids to whom they're marketed."
-    },
-    {
-      "headline": "New York pauses AI chatbot toy sales, citing child safety concerns",
-      "source": "ABC7 New York",
-      "source_url": "https://abc7ny.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzV6WWJrNlA0UmhrRVNzdGFaTzF6S2dXRWZIZ3ZCdWdKYXNOOVA2N25GOXpRX1FZQUxZdzUxbXhVd2EyLTRQcXJPYWJ6NWpWY0ZtaDJZTWVRTEwwVUJSNzJSYVdDM0lONVVISU1EdFlfbi1xazluOTZHODNYZmtXeF9pR0ZFbzhkaVVTdEZOcGcyYnJueXppUGJuOGl6M1dt0gGmAUFVX3lxTE9OMWlkRkZkNHBBSDNid3RyWFdkLXNNV1RPZ2JoNDVTSXJvSUI4cW45V3VRR1o4MGo5TEpSdEpaUlhTb2V2Um95YkJ2TUJucXBKVDJOSHV1LUlaR2NaLUNZblZWQkxWT0lJbDF4dGxIaVE3Ymo2c3NlVS1HR0FTelZDcmw0SkdLbmIwdUVocUwyT25MTERsaUZDWTJsR0tiR05ETGJUNXc?oc=5",
-      "pub_date": 1795562100.0,
-      "article_url": "https://abc7ny.com/post/new-york-pauses-ai-chatbot-toy-sales-citing-child-safety-concerns/20076376/",
-      "image": "https://cdn.abcotvs.com/dip/images/20076648_112426-wabc-ai-chatbot-toys-img.jpg?w=1600",
-      "description": "Gov. Kathy Hochul signed legislation imposing a five-year pause on the manufacturing, distribution and sale of AI chatbot toys in New York over concerns about potential risks to children."
-    },
-    {
-      "headline": "NY bans AI toys for 5 years as lawmakers evoke creepy \u2018Twilight Zone\u2019 Talky Tina doll",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNEgxVC1qMUs2ZldpSDVabWdvRXB2V0UxdDI2VlplRzVXNjd1eGRQT0NnUVV1c3doclJiS01CSnVKNm5TUUphbjMyeXBLQmhmV3p3bGxTRWRVX2Y1QmJ6aERpa2kxeldUY2Fydmd5Sy0wajFrSV9xa1lHSHh0QjhZU2R1VQ?oc=5",
-      "pub_date": 1795558821.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/ny-bans-ai-toys-5-222021092.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e38ea04b2867ec69cd20578529c1edf72d7ad1686d541ef44ed940c2126f0ec4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_metro_articles_178%2Fa207461799b8e19abe6e644c736f2dab.jpg",
-      "description": "The ban will begin in mid-February, and bars businesses from selling, distributing or manufacturing the techie toys to anyone statewide -- with a $15,000 per-day fine for violations, Hochul said."
     },
     {
       "headline": "Working with AI",
@@ -75,36 +95,16 @@
       "description": "We interviewed people at 58 companies that use Claude about how AI is changing their work. They described few layoffs but reduced hiring, and said the most valuable uses of AI often involved reorganizing roles and workplaces around it."
     },
     {
-      "headline": "Drops for Nvidia, Anthropic and other AI stocks drag the US market back down",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEdHU1ZWMjgzb1lYODBaTEJpdWNXUXVpUmlDTmVxSTBjUVlOYlBBWmZXSzVrMWR3SE9NYTg5cVNuemZFZHlJdU1PdGdybnh1NUFQVTVINkJUUk1Sb0hmNnI5YS1LQTl5SUJibWpWekVQU1BqR3NuQWhVeHZlUVJ3bDEtRmZZNmVHWVFFRTA2RUhFcTQ?oc=5",
-      "pub_date": 1795554960.0,
-      "article_url": "https://apnews.com/article/stock-markets-ai-earnings-oil-feec0e25b9994b1c86b16329cf770192",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Best Buy also among companies benefiting from AI boom",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTNUbTBaUmZkUUNvRWZ6bVoyMEc1UnFzV002ODgzaWJkZmpzR3RiQks1UTI2eEFBS2VqZEFwRFoxWjBOb053UmROU1lBT0ZhUFk5b2NGZ3Y5VGVYazB5dVl0VlQ2V2JqckpSczBVTzM1OTAzUHR4ZkRFOGx3MGNfeF9fTlV4RHpQbGg1TU93Nld2bHB6TFhMQVNuNjBOR3NhLWc?oc=5",
-      "pub_date": 1795556696.0,
-      "article_url": "https://finance.yahoo.com/video/best-buy-also-among-companies-benefiting-from-ai-boom-214456029.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/69f62dbd35fbf947efde8a41870ffc6a3ff378e4c4275ceebec76a8bf3c4143f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ff6afbbb1-1cb0-49ad-a0dc-d46dc9b1b299_4ae59e2288b21e982f19f0cc69de8e46d76bfd87b864ad8cd844a562fd24bee3.jpg",
-      "description": "Yahoo Finance Executive Editor Brian Sozzi  looks at Best Buy's (BBY) strongest comparable sales growth in five years as a sign that AI demand is reaching consumers' wallets through device upgrades, and not showing up through data-center spending on Nvidia (NVDA), Microsoft (MSFT), and Amazon (AMZN)."
-    },
-    {
-      "headline": "Jensen Huang Isn\u2019t Worried. But You Should Be.",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFlvR2k2X0JCbUtGazJuVTFCekNTU3p5OEdndnNmOEVCREozaGZ5NFAyc1lBeU41ZFBHTThHdGpnUXdBRkhQeExaaFF0ZTRPUUNZZzhYLWg4Ym41UzVmVGt4eWFfbmNnak9sdnI2Z3FyZ3lsVmZheEJLaGhob2VaZUV3?oc=5",
-      "pub_date": 1795559073.0,
-      "article_url": "https://www.theatlantic.com/ideas/2026/11/nvidia-stock-market-crisis/689557/",
+      "headline": "Copper shows how AI is messing with markets",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkNJR0dsTmd6dEd5S0RHa01YZVpFV3EzcXA5d1V0MGJFOWJRSVpQeVZncWVTRmJ1VjBSTFRCeEgybFMzS3JZcHhVZUo3NFVxTUxfV2NvNnEwR1ZIQXI3dXc1eWs1Y0Z0VGpETE9OTkM4T2Z6b2pURGhYWF9ud1pTMGhtRjFaR0NjMXNoV01kOVlYazg3bVJ2N3V3aXdtbTZUbUtoLQ?oc=5",
+      "pub_date": 1795543958.0,
+      "article_url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-25T00:00:29.392416+00:00"
+  "fetched_at": "2026-11-25T08:14:46.577087+00:00"
 }

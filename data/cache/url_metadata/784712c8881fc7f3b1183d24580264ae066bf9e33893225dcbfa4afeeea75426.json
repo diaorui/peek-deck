@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-25T08:14:15.440911+00:00",
+  "data": {
+    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+    "description": "Title possibly signs checks the article doesn\u2019t have backing for. This is just a brief pro forma project update.\nNot much new functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most big parts of the search engine are in place, and while there are many things that could be better, we\u2019re less likely to straight up see massive new features, at least in the immediate future. Per familiar intuition from binary searches, the closer you get to your goal the smaller and more deliberate steps you need to take in order to get even closer.",
+    "image": null,
+    "favicon": "https://www.marginalia.nu/favicon.ico",
+    "site_name": "marginalia.nu",
+    "author": null,
+    "keywords": null
+  }
+}

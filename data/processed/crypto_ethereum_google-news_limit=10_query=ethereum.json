@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Tom Lee Says Ethereum Is as Scarce as Bitcoin: Do the Supply Numbers Agree?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHdmV0pZVXlIQ0JzZzIxbTNBZXZFQXYtMzh3cjUtRTVTZzdLWXRpWmZoQ1o1MUh6S2Qxa1FrVFdIalQxeS0tNFlNbUJLOWF5MGNJSWJmUGF6ME1KcEUwa295Z2dZX3JqOG1XS29HX2N5a25rUmp2bzJ5WTJvRzFjRjNxaDRlMjY5UjBJa2lvMGxrcWp5QnZDcg?oc=5",
-      "pub_date": 1795558389.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-scarce-221309296.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/98132150fd1114f6617bfeccd20be8c587cae48f17639beb7793fb6c659f36a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fdd6b786353974b719a2326378f8acb23.jpg",
-      "description": "Tom Lee says the gap between Ethereum's and Bitcoin's supply growth is too small to matter, and his firm holds billions in ETH. A closer look at how each coin actually gets created and destroyed shows where his comparison starts to strain."
-    },
-    {
       "headline": "PQAI #1: One Hash to Rule Them All \u2014 Keccak-256 for Ethereum's Post-Quantum, Post-AI Era",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -25,34 +15,24 @@
       "description": "We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography."
     },
     {
-      "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENDazYzcl9MR1ZMYklmOXNqRGdnN2ozVHhuVUZnTkg5RmR1YXRUc0xJNUlSSzJYNUstaUFYUnZlQ1lkYkRPenJKakR6X0RDaFFnLVdJMTdzc3dsV2NFNFZqZDdVU09xZVpoUTdfZlRTSXhObDZZZmh1cVA0bUdadkpJZ3JndkR1MU9PMjRZYWh0VHN4bEdVZFgtVXc2Q0RoQVVFMUFuX2RkbDlLcmRFdFJLLXVYcXhkS3NDZERUc3dYMTVBb2k4TWNn?oc=5",
-      "pub_date": 1795438173.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-      "image": null,
-      "description": null
+      "headline": "PQAI #0: Preparing Ethereum for a post-quantum, post-AI world",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yTm5WenFYZld0MUQ4c0pZV1lReDZURzVWbEs4aFpUcWg4Z0ZTbGNnOGxVMTJQd3o4RmVwTk05MkJFeUp6MVVQX09MQUdIRFpzT2VOY1Fn?oc=5",
+      "pub_date": 1795475282.0,
+      "article_url": "https://blog.ethereum.org/2026/11/23/pqai-0",
+      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
+      "description": "Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on..."
     },
     {
-      "headline": "0xAC33...531B4d",
-      "source": "Arkham",
-      "source_url": "https://arkm.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdThXLTQtbjRSRTdGMnZ4UVZoY1RFM0dxNUQ0Wk1IR0w1OEM0MFBpU0xlMnpLYlRWQmJMcmlLZmlHQ2gtZVhPZGs1R2FVVTNvTjE3SEVMcmkxLXNleFVPODBVdWJOYVlIZU9BSVBTOS1uVW9yajhhRnRpWDQ2eTB4TURR?oc=5",
-      "pub_date": 1795518633.0,
-      "article_url": "https://arkm.com/explorer/address/0xac33748aad09cea8e50484cc0fa168dc23531b4d",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "LIVE Crypto News \u2013 Bitcoin and Ethereum Bounce Back: Market Finally Turning?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmM3bFdGUzB1TjdadVo1dUVRQWNpdnpHTUtzU0UwQ2lDUFVQYnJsVjZzNk4zb1BvRjlvQktMUld1NW5LdWQ1Vkp6YThrTjFnbWs3SGwzckRJaWdlNzVKanJITHFON2w1MHhhVjhMR25MSXFuT1UtU1l6MjNKLVFKMzRyY1ZXUjlFaXNzWGNvRncwNkYyamZGTHp0U21tQXFCUFJwa1BYbS1lYlhJVF9vYUFScFdoZFJaZkZkMjVDcmtVQTZ3V1pya1N0TlphUQ?oc=5",
-      "pub_date": 1795417920.0,
-      "article_url": "https://www.tradingview.com/news/cryptonews:16fa04b0d094b:0-live-crypto-news-bitcoin-and-ethereum-bounce-back-market-finally-turning/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin and Ethereum are bouncing back after a brutal selloff, but the recovery is running into a market that still looks far from healthy. Bitcoin climbed back above $60,000 over the weekend after touching a low near $55,250. Ethereum also gained ground, its first breath of air after several days\u2026"
+      "headline": "Bitmine's Ethereum Purchases Slip Into The Red Again, But Retail Traders Are Questioning \u2018Transparency\u2019 On Capital Allocation",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMS16elVObjNrd21pVlU1YXM0aWg3bWx1OFVVZ2lDcGhQenBGWVNxSkZCTzFFdU1ZS2FuRTBNZU00ZE52YjdNUXBBR3M2Wm45eEdoZ0k5RzJJTU9Xc1R5WVhCanktblJ2SjdjaGctVUI5bml3bTFXMmVsSWxGY2NJTmY4dVlDQU5ZeF93RVFzLXpLYWRXMnh6bkFGd09IUDFkWXRB?oc=5",
+      "pub_date": 1795499340.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmines-ethereum-purchases-slip-red-054937498.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9a2c9ae3ba8cf6461f0c1bb336f1681cacfbc0e748e969c78fd91d621ff8e864/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Ff8ba88ccd3ea8ec827c557522f3a385d",
+      "description": "Bitmine's latest update said the company has \u201cother moonshots at a cost of $50 million,\u201d but did not name them."
     },
     {
       "headline": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
@@ -65,32 +45,52 @@
       "description": "Bitmine Chairman Tom Lee argued the Ethereum supply has grown just 0.90% annually since mid-2025\u2014roughly matching Bitcoin\u2019s 0.82%."
     },
     {
-      "headline": "Ethereum Foundation doubles protocol security team, calls AI a 'more urgent risk' than quantum",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3RpaGN3a05OM0lfY3dVdDNQTHdGM1Y2NktmWHRhVmFOQmJOR2t3WlhFU0kwcUlrZkJsS0ZkaGR1alRrRkliTTZncEVCaEI5RzBYc2dnWGdoM2ZyeTkxV3RLWHZzZW90R0xKam9aSEYydWRZZjJ0R3FvbmdZdE1uVl9QWE9UNEM1YU4zMGJtTFZvaWIwY3J5Y2s3aXRZZHhHUWh1VHc5QVpkVVIzUm1LQWJJd001N0VpaDhSLVRaTm9XWmszR0Y0b3NQS19NUmRpZFRRYmpfVURzY09NVlgwVWtGWQ?oc=5",
-      "pub_date": 1795521180.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1238606759-1-scaled.jpg",
-      "description": "Ethereum developers face deadlines for a post-quantum transition as the Foundation raises security staffing and AI advances reshape its threat assessment."
+      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.09 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $11.1 Billion",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNX3o4Z3RNVVN3cEM0TkVIXzd4VkNNSElnZWkxV0tpZFlILXZWUl9oU2F2aHlNeG9nNUpEazkwZXhGOGwzQmg2OHAyT1hKYnVzcWJKYkFYSXBNWFdyNENINFpTSTQzSzJhR19NQ1N6UUtNMGlGcXk5VkJ0ZksyRVN5THpvUzVzb0RNX0cxcktaMDB3MDF1NmoyZUpnZXVWT2JfV0tjYTV0OHcyMU1ub0V0TGpQc2Jvd2xEUk5YWmJzVW1fc0RkMFJ3bEQwUUhDTEVUd2VTbGw4dkVYWDI2SXRmUmQ5STJNSDVtMEdJa1JrQmQ4cjFwR3pkMGVJUS0zaUhWaGNnM0VhbW9NYnU1bFh1dUJ5Q1JISkVqb2U5V1d0S1RaMFdoZGw3aXQyRW5CNG5WS1p6N1FXR2F4V1ppZDJzcU13?oc=5",
+      "pub_date": 1795440600.0,
+      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-09-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-11-1-billion-302947714.html",
+      "image": "https://mmx.prnewswire.com/media/MS2041112/ETH-Store-of-Value.jpg?id=OA3095396&p=facebook",
+      "description": "Bitmine owns 4.98% of the total ETH coin supply of 122.2 million Bitmine is 99% of the way to the 'Alchemy of 5%' in just 17 months Bitmine released its..."
     },
     {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP remain vulnerable as bears drive prices toward yearly lows",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWUFldDVIcjR5bEUyaEI5MHU4eG10cE5idmFZdXpud08wTzhLVW51aTZRT2ZEOG1hcGI4dXVYRHlmWUpTa3JxbnZ6enBFRjR2LUJLTGdISm1HWVluWHJhcFMtcTBfRUQyaG1fbGpnX0pqMFhSNGVocllwYTlRUGRhZDRmNGFtMXU0ejd4cHBwLUlZNkM3cm5uRU1UbGg1aG9GM1RYRWpDNVRJZ3RzWFpHaFpyNllrSUZ0VlpQdHNld3NWcFpJOVNVcXlCY0kxM0dvRjFSSUQ1Vm1vR20zN29Tb1l1TENXd1I5WEJsWmE5UEFqaDVRODZiWGU3MmVZdWVzTngxZkYteGE3R1VPOFE?oc=5",
-      "pub_date": 1795405964.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-remain-vulnerable-as-bears-drive-prices-toward-yearly-lows-202611230352",
+      "headline": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says 'we do not take this lightly'",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZzM5RDcxTE9xaml6X2RsLVUzcVF5ZVpvT0QzT09Wb0V4QUJ0blJtQWhCeDdkYThCYW85bDFaTkNWYmhERmtpNW1LQnBWSWVLODBhUW9MbjBtVlpTcTVudDhqZWh6RDZYS1RnR3VSaEpkR1VsRFVYbGxJWU85cURGQmVreUlSczR4SkhSLWxkOU9iMWNoM3ZNeHlMTmJNamV1TVZfWEhDcTdlTjVjWFc1M3VGcGU4OUJmLVk0NDlRNDRuVTkwVU5lRklaMHExY2M5QlRYUEdiZTVmT01hRDI1NnplZWE2NnYxTzRpRWtR?oc=5",
+      "pub_date": 1795534020.0,
+      "article_url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-4.png",
+      "description": "The repayment leaves the company holding about 24,245 ETH, alongside $17.9 million in convertible notes due in 2027."
+    },
+    {
+      "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENDazYzcl9MR1ZMYklmOXNqRGdnN2ozVHhuVUZnTkg5RmR1YXRUc0xJNUlSSzJYNUstaUFYUnZlQ1lkYkRPenJKakR6X0RDaFFnLVdJMTdzc3dsV2NFNFZqZDdVU09xZVpoUTdfZlRTSXhObDZZZmh1cVA0bUdadkpJZ3JndkR1MU9PMjRZYWh0VHN4bEdVZFgtVXc2Q0RoQVVFMUFuX2RkbDlLcmRFdFJLLXVYcXhkS3NDZERUc3dYMTVBb2k4TWNn?oc=5",
+      "pub_date": 1795438173.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
       "image": null,
       "description": null
     },
     {
-      "headline": "BitMine Stock Falls to Key Support as Ethereum Crash Tests Tom Lee\u2019s Bull Run Thesis",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeWFXejdMalpBLUN4b2JrdmZKQ3RNU2VGLWZDY1Rxd1VYZmxsZ0Z3QUZTaGl4NDhJUXNsREd4WnluSTF6SjA3VThWQnV2aEF2REd2cklRbFdTMFhEVzlha01OaE1MZTFyQkJsbGVTa2E3c1ljdEFqZkJidGZnSjlXaXo4M1FFakRub3pZb1o3cXB3bHM0U2ZhWVdMS3Q3M0VkXzlxRnNBUDU4eUFReVpIV0hOMVM1MVQ2b1c1dTdzYUdZRF92djRiUzh6Y0h5Ti1BbjZyUVdSYw?oc=5",
-      "pub_date": 1794836538.0,
-      "article_url": "https://www.benzinga.com/markets/equities/26/11/63517294/bitmine-stock-falls-to-key-support-as-ethereum-crash-tests-tom-lees-bull-run-thesis",
+      "headline": "Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here\u2019s What The CFTC Changed",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSlkxZGRfMWpNc3VWamlUc3JoYkc4MkhWeFVfb0g5eWU4R0pYYWxVR0NfSEpUYVhkSkZVV0RMWlBvYWU0M0Z2OWNSc0ZKR0tNQndpcEpoczR3ZE9xV0taM0xHcG9NTFVpaTdZdmloWEc5MjFPbW1yejlxNGVyNENVLXZVMnhfRmRtNlhLRUtWa3lYQUJ3WmpfNnJDblFmR1AxZE9NZGU0bFZOS1lfdUk3bVhNeElNNEJPaGUwMVZjeS1FMlB5SDkxVHNJWEV4ajZkblVwa2p1UWJxLUNTNzRxd3k1Z3Y4ZlBtZUE?oc=5",
+      "pub_date": 1795488660.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:42afaa361094b:0-bitcoin-and-ethereum-get-a-bigger-role-in-us-derivatives-markets-here-s-what-the-cftc-changed/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Regulated crypto exchanges and derivatives platforms are getting an easier path to using digital assets in their operations, as the Commodity Futures Trading Commission (CFTC) is allowing them to count Bitcoin (BTC), Ethereum (ETH) and payment stablecoins toward reserves needed to cover a year of o\u2026"
+    },
+    {
+      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP extend losses as oversold crypto market eyes yearly lows",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWkYzSE9Mb0p2NXA2OXdCb1U3UzF5cFdlT2dZZFJpd3B3NUtwWDZtX2tJTHdMbng3SmFIWEJ6S0lRTUptbjhvNDU4VVpIc1NITXVNMFladHpkUXRmUHVoT0FoSDZlOUxoWHRVVmVfZWlPb3dwSTB5cE0zQ2dmUkdRMWlJVDVkSDROOTlwNktzckdLektyNE5RY3N3RnVtUVNxanEwZG5WM1dSSHc1VFQyQ0xLU29WbzJSOFo4OVJjWXdQZ0VrcnVjNWRIV1luNnF6QXY2SjR0MTVCUnlRbEpiaG1fakNYZDlweU8zSmRBcXZfQ0IweWtRdGlYMlhuUHllUG5wbnZTUE5PS00?oc=5",
+      "pub_date": 1795579003.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-losses-as-oversold-crypto-market-eyes-yearly-lows-202611250356",
       "image": null,
       "description": null
     },
@@ -99,12 +99,12 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZWIwWWNFV2FMY1dQUE5YN1M4cldkSGRGcHA4T0U5Zzh5TDRVSEJYM2JUR0JGR3J4dldhTy1hYU5wS3NxaTRxRlp2WFpYdk96Q2xNdFhiVGZsTEo5S1h5cDU3ZU9mMDIt?oc=5",
-      "pub_date": 1795537899.0,
+      "pub_date": 1795525200.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-11-24-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-24.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-25T00:00:28.627703+00:00"
+  "fetched_at": "2026-11-25T08:14:42.020576+00:00"
 }

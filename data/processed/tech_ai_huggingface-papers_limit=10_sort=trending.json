@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2611.26603",
       "arxiv_url": "https://arxiv.org/abs/2611.26603",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26603.png",
-      "upvotes": 38,
+      "upvotes": 39,
       "num_comments": 3,
       "published_at": "2026-11-18T19:00:00.000Z",
       "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
-      "github_stars": 684,
+      "github_stars": 723,
       "project_page": "https://apple-aiml-research.github.io/ml-depth-pro-2/"
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 25054,
+      "github_stars": 25118,
       "project_page": "https://harness2.github.io/"
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2611.18397",
       "arxiv_url": "https://arxiv.org/abs/2611.18397",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18397.png",
-      "upvotes": 161,
+      "upvotes": 164,
       "num_comments": 4,
       "published_at": "2026-11-12T19:00:00.000Z",
       "github_repo": "https://github.com/RainBowLuoCS/Gamer",
@@ -126,8 +126,8 @@
       "hf_url": "https://huggingface.co/papers/2611.31201",
       "arxiv_url": "https://arxiv.org/abs/2611.31201",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.31201.png",
-      "upvotes": 90,
-      "num_comments": 1,
+      "upvotes": 98,
+      "num_comments": 2,
       "published_at": "2026-11-22T19:00:00.000Z",
       "github_repo": "https://github.com/DravenALG/Embo-Harness",
       "github_stars": 59,
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 94221,
+      "github_stars": 94256,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-25T00:00:07.095422+00:00"
+  "fetched_at": "2026-11-25T08:14:25.863679+00:00"
 }

@@ -61,6 +61,20 @@
       "site_name": "CryptoTrueCost"
     },
     {
+      "title": "Bitcoin mining is costing more than it's price",
+      "url": "https://www.mollywhite.net/micro/entry/202611212317",
+      "hn_url": "https://news.ycombinator.com/item?id=50632603",
+      "author": "DeepLogin",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-11-24T18:45:39Z",
+      "object_id": "50632603",
+      "image": "https://www.mollywhite.net/assets/images/molly_illustration.png",
+      "description": "bitcoin is currently trading at less than $60,000 JPMorgan estimates it costs about $86,000 to mine one",
+      "favicon": "https://www.mollywhite.net/assets/images/icons/apple-touch-icon.png",
+      "site_name": "Molly White"
+    },
+    {
       "title": "Bitcoin Core CVE-2026-117348: Node stall through duplicate orphan announcements",
       "url": "https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/",
       "hn_url": "https://news.ycombinator.com/item?id=50599741",
@@ -87,20 +101,6 @@
       "description": "The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.",
       "favicon": "https://spiritsofbitcoin.cash/icons/apple-touch-icon.png",
       "site_name": "spiritsofbitcoin.cash"
-    },
-    {
-      "title": "Bitcoin mining is costing more than it's price",
-      "url": "https://www.mollywhite.net/micro/entry/202611212317",
-      "hn_url": "https://news.ycombinator.com/item?id=50632603",
-      "author": "DeepLogin",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-24T18:45:39Z",
-      "object_id": "50632603",
-      "image": "https://www.mollywhite.net/assets/images/molly_illustration.png",
-      "description": "bitcoin is currently trading at less than $60,000 JPMorgan estimates it costs about $86,000 to mine one",
-      "favicon": "https://www.mollywhite.net/assets/images/icons/apple-touch-icon.png",
-      "site_name": "Molly White"
     },
     {
       "title": "Show HN: TimestampGit \u2013 1-click GitHub App that anchors commits to Bitcoin",
@@ -135,7 +135,7 @@
       "url": "https://gnomon.bitsinfra.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50611613",
       "author": "lucasluitjes",
-      "points": 38,
+      "points": 40,
       "num_comments": 6,
       "created_at": "2026-11-23T14:03:38Z",
       "object_id": "50611613",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-11-25T00:00:00.172637+00:00"
+  "fetched_at": "2026-11-25T08:14:17.189672+00:00"
 }

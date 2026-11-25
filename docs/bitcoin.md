@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-25T00:00:33.205481+00:00'
+updated: '2026-11-25T08:14:49.578360+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 25, 2026 at 00:00 UTC  
+**Last Updated:** November 25, 2026 at 08:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,850.28
+### $58,913.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** -5.1%  
-**30d:** -25.3%  
-**90d:** -25.4%  
-**1y:** -31.7%  
+**24h:** -1.8%  
+**7d:** -4.9%  
+**30d:** -27.2%  
+**90d:** -24.3%  
+**1y:** -35.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1202.20B
+**Market Cap:** $1183.04B
 Rank #1
 
-**Circulating Supply:** 20,116,918 BTC
+**Circulating Supply:** 20,117,071 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--52.6%
+-53.4%
 
 **All-Time Low:** $67.81
-+88025.6%
++86624.7%
 
 ---
 
 ## Fear & Greed Index
 
-### 11
+### 13
 **EXTREME FEAR**
 
 ---
@@ -97,7 +97,7 @@ We’re so back! /s
 
 Congrats everyone.
 
-9d ago
+10d ago
 
 ---
 
@@ -117,7 +117,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 **[It's so over guys!!!](https://www.reddit.com/r/Bitcoin/comments/1xwnz3q/its_so_over_guys/)**
 
-9d ago
+10d ago
 
 ---
 
@@ -125,7 +125,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 62 > 64.5
 
-9d ago
+10d ago
 
 ---
 
@@ -139,7 +139,7 @@ I really have no words of hope. But I am holding on.
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1xwizma/hodl/)**
 
-9d ago
+10d ago
 
 ---
 
@@ -147,7 +147,7 @@ I really have no words of hope. But I am holding on.
 
 What is going on with Bitcoin today?
 
-9d ago
+10d ago
 
 ---
 
@@ -155,9 +155,9 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Drops Below $60,000 As Crypto Market Erases Gains From Nvidia Rally](https://www.forbes.com/sites/siladityaray/2026/11/24/bitcoin-slips-below-60000-again-after-short-lived-nvidia-fueled-rally/)**
+**[Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus](https://www.bloomberg.com/news/articles/2026-11-24/bitcoin-fails-to-hold-nvidia-bump-with-crypto-headwinds-in-focus)**
 
-Forbes • 12h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -171,43 +171,45 @@ CoinDesk • 1d ago
 
 In Bitcoin News today, BTC USD price is trading at around $60,200, down a further -1.5% on the day after a brief but sharp rally faded, with price action, institutional flows, and derivatives data pointing to continued market caution. Saylor is back buying Bitcoin, Jensen Huang is back as Nvidia’s ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Bitcoin, XRP plunged more than 70% on Kraken, and buyers get to keep cheap coins](https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand)**
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[How Much Bitcoin Could Elon Musk Control if Tesla and SpaceX Merge?](https://finance.yahoo.com/markets/crypto/articles/much-bitcoin-could-elon-musk-221239907.html)**
+**[Is Michael Saylor's bitcoin strategy losing its appeal?](https://finance.yahoo.com/video/is-michael-saylors-bitcoin-strategy-losing-its-appeal-151603542.html)**
 
-Tesla and SpaceX have both formed special committees to weigh a merger, and both sit on Bitcoin bought at very different times. Combine the stashes and a single board could hold a decision that rattles a market already under pressure.
+As Strategy (MSTR) valuation reportedly dips below the value of its bitcoin (BTC-USD) holdings. "The 8:30" hosts Julie Hyman and Jake Conley welcome Barron's reporter Jacob Sonenshine to discuss Michael Saylor's strategy. Raising a bigger question: Are investors buying into the bitcoin play or betting on Saylor himself?
 
-Yahoo Finance • 1h ago
-
----
-
-**[Watch Bitcoin Sinks Below $60,000 Amid ETF Outflows](https://www.bloomberg.com/news/videos/2026-11-24/bitcoin-sinks-below-60-000-amid-etf-outflows-video)**
-
-Bloomberg.com • 3h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Tom Lee Says Ethereum Is as Scarce as Bitcoin: Do the Supply Numbers Agree?](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-scarce-221309296.html)**
+**[Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines](https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061)**
 
-Tom Lee says the gap between Ethereum's and Bitcoin's supply growth is too small to matter, and his firm holds billions in ETH. A closer look at how each coin actually gets created and destroyed shows where his comparison starts to strain.
+CleanSpark ended its fiscal year with $1.1 billion in bitcoin as it presses forward with AI data center development.
 
-Yahoo Finance • 1h ago
+The Block • 10h ago
 
 ---
 
-**[Kraken's Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC](https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498)**
+**[Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?](https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near)**
 
-Two Visa Signature cards, managed by Cardless, are expected to ship in early 2027 and offer up to 4% cashback.
+Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms.
 
-The Block • 5h ago
+Decrypt • 12h ago
+
+---
+
+**[Can Bitcoin Regain the $90,000 Price Level by Year End? Galaxy Digital CEO Mike Novogratz Says It's Unlikely.](https://www.fool.com/investing/2026/11/24/can-bitcoin-regain-the-90000-price-level-by-year-end-galaxy-digital-ceo-mike-novogratz-says-its-unlikely/)**
+
+New macroeconomic headwinds could delay a much-anticipated Bitcoin rally.
+
+The Motley Fool • 19h ago
 
 ---
 
@@ -219,11 +221,9 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?](https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near)**
+**[Bitcoin Leads Crypto Holdings for High Net Worth Investors](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/bitcoin-leads-crypto-holdings-high-net-worth-investors/)**
 
-Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms.
-
-Decrypt • 4h ago
+ETF Database • 13h ago
 
 ---
 
@@ -257,7 +257,15 @@ Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Li
 
 The all-in cost of buying $1,000 of Bitcoin in 58 countries: exchange fee, spread, deposit, currency conversion and withdrawal, at the cheapest exchange in each.
 
-⬆️ 2 • 💬 1 • 2h ago • [CryptoTrueCost](https://www.cryptotruecost.com/en/bitcoin-cost-map/)
+⬆️ 2 • 💬 1 • 10h ago • [CryptoTrueCost](https://www.cryptotruecost.com/en/bitcoin-cost-map/)
+
+---
+
+**[Bitcoin mining is costing more than it's price](https://news.ycombinator.com/item?id=50632603)**
+
+bitcoin is currently trading at less than $60,000 JPMorgan estimates it costs about $86,000 to mine one
+
+⬆️ 2 • 💬 0 • 13h ago • [Molly White](https://www.mollywhite.net/micro/entry/202611212317)
 
 ---
 
@@ -274,14 +282,6 @@ CVE-2026-117348 - Node stall through duplicate orphan announcements
 The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.
 
 ⬆️ 1 • 💬 1 • 3d ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
-
----
-
-**[Bitcoin mining is costing more than it's price](https://news.ycombinator.com/item?id=50632603)**
-
-bitcoin is currently trading at less than $60,000 JPMorgan estimates it costs about $86,000 to mine one
-
-⬆️ 1 • 💬 0 • 5h ago • [Molly White](https://www.mollywhite.net/micro/entry/202611212317)
 
 ---
 
@@ -305,7 +305,7 @@ Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Pot
 
 Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.
 
-⬆️ 38 • 💬 6 • 1d ago • [gnomon.bitsinfra.com](https://gnomon.bitsinfra.com/)
+⬆️ 40 • 💬 6 • 1d ago • [gnomon.bitsinfra.com](https://gnomon.bitsinfra.com/)
 
 ---
 
@@ -319,87 +319,17 @@ Three institutions changed what Bitcoin can be used for, and two of them did it 
 
 📺 Yahoo Finance
 
-👁️ 30K • 👍 452 • 💬 51 • ⏱️ 14:52 • 6h ago
+👁️ 48K • 👍 566 • 💬 63 • ⏱️ 14:52 • 14h ago
 
 ---
 
-**[Extreme Fear Is Back. Last Time, Bitcoin Did This](https://www.youtube.com/watch?v=1cjakTojKqU)**
+**[BITCOIN WARNING: REJECTION CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=lEGKCzc8mXk)**
 
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+BITCOIN WARNING: REJECTION CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Lark Davis
+📺 Crypto World
 
-👁️ 3K • 👍 136 • 💬 15 • ⏱️ 10:19 • 3h ago
-
----
-
-**[Bitcoin a ‘Struggle’ Right Now: Kiani](https://www.youtube.com/watch?v=9Kt8aDDyAKE)**
-
-Ayesha Kiani, COO of Monarq Asset Management, joins Scarlet Fu and Tim Stenovec on “Bloomberg Crypto.” Bitcoin is set to ...
-
-📺 Bloomberg Television
-
-👁️ 2K • 👍 14 • 💬 6 • ⏱️ 3:44 • 3h ago
-
----
-
-**[Why 42 MACRO Thinks Bitcoin Could Still Crash to $38,400](https://www.youtube.com/watch?v=iQoaNL2CqWw)**
-
-Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals https://www.coinbureau.com/deals/ ...
-
-📺 Coin Bureau
-
-👁️ 6K • 👍 153 • 💬 14 • ⏱️ 1:28 • 8h ago
-
----
-
-**[The Crash Was a LIE! Why Bitcoin&#39;s Bottom Is Finally In](https://www.youtube.com/watch?v=0shaXx_n870)**
-
-Bitcoin crashed to $55000, NVIDIA CEO Jensen Huang was suddenly reinstated, and the stock market staged a historic reversal.
-
-📺 Simply Bitcoin
-
-👁️ 41K • 👍 2K • 💬 151 • ⏱️ 18:41 • 1d ago
-
----
-
-**[Bitcoin: It’s Playing Out, Lower Prices Ahead](https://www.youtube.com/watch?v=KkcW1KhBXY4)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
-
-📺 Crypto Kid
-
-👁️ 10K • 👍 348 • 💬 26 • ⏱️ 6:56 • 19h ago
-
----
-
-**[They’re About To Reset The Price Of Gold, Silver, And Bitcoin](https://www.youtube.com/watch?v=ZFeXrGgUXx8)**
-
-Gusto: Get 3-months FREE when you run your first payroll at http://gusto.com/MINDSET *This is an advertiser. Minority Mindset is ...
-
-📺 Minority Mindset
-
-👁️ 477K • 👍 7K • 💬 625 • ⏱️ 23:29 • 1d ago
-
----
-
-**[Will Bitcoin DUMP EVEN LOWER? (The Halving Says THIS)](https://www.youtube.com/watch?v=kll-YLeEHNU)**
-
-Will Bitcoin dump even lower? Nick Valdez, Chief Crypto Strategist for Verified Investing, looks at one of the most important ...
-
-📺 Verified Investing
-
-👁️ 15K • 👍 556 • 💬 13 • ⏱️ 24:52 • 5h ago
-
----
-
-**[I’m Worried about Bitcoin &amp; Crypto](https://www.youtube.com/watch?v=LAhg30XpToY)**
-
-Stocks are recovering, but Bitcoin is struggling to follow, exposing a deeper weakness in the crypto market. In today's show, Ran ...
-
-📺 Crypto Banter
-
-👁️ 33K • 👍 963 • 💬 28 • ⏱️ 46:10 • 8h ago
+👁️ 6K • 👍 187 • 💬 60 • ⏱️ 17:22 • 5h ago
 
 ---
 
@@ -409,7 +339,77 @@ YUBIT hhttps://ckenny.com/YBN $500 Nvidia Postion MY FREE TRADE ALERTS https://c
 
 📺 Conor Kenny
 
-👁️ 21K • 👍 568 • 💬 76 • ⏱️ 15:58 • 14h ago
+👁️ 23K • 👍 593 • 💬 77 • ⏱️ 15:58 • 22h ago
+
+---
+
+**[Bitcoin a ‘Struggle’ Right Now: Kiani](https://www.youtube.com/watch?v=9Kt8aDDyAKE)**
+
+Ayesha Kiani, COO of Monarq Asset Management, joins Scarlet Fu and Tim Stenovec on “Bloomberg Crypto.” Bitcoin is set to ...
+
+📺 Bloomberg Television
+
+👁️ 4K • 👍 17 • 💬 8 • ⏱️ 3:44 • 12h ago
+
+---
+
+**[Will Bitcoin DUMP EVEN LOWER? (The Halving Says THIS)](https://www.youtube.com/watch?v=kll-YLeEHNU)**
+
+Will Bitcoin dump even lower? Nick Valdez, Chief Crypto Strategist for Verified Investing, looks at one of the most important ...
+
+📺 Verified Investing
+
+👁️ 23K • 👍 685 • 💬 20 • ⏱️ 24:52 • 13h ago
+
+---
+
+**[Roaul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=ceEI_dm2b8k)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 49K • 👍 610 • 💬 88 • ⏱️ 28:19 • 14h ago
+
+---
+
+**[Why 42 MACRO Thinks Bitcoin Could Still Crash to $38,400](https://www.youtube.com/watch?v=iQoaNL2CqWw)**
+
+Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals https://www.coinbureau.com/deals/ ...
+
+📺 Coin Bureau
+
+👁️ 9K • 👍 188 • 💬 17 • ⏱️ 1:28 • 16h ago
+
+---
+
+**[Extreme Fear Is Back. Last Time, Bitcoin Did This](https://www.youtube.com/watch?v=1cjakTojKqU)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 12K • 👍 249 • 💬 26 • ⏱️ 10:19 • 11h ago
+
+---
+
+**[PREPARE $30,000 BITCOIN IS COMING BTC MINERS ARE IN TROUBLE?!](https://www.youtube.com/watch?v=Jr3aG_gboT8)**
+
+PREPARE $30000 BITCOIN IS COMING BTC MINERS ARE IN TROUBLE?! Hey babes, Bitcoin mining is facing a major shake-up ...
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 286 • 💬 14 • ⏱️ 6:17 • 10h ago
+
+---
+
+**[They’re About To Reset The Price Of Gold, Silver, And Bitcoin](https://www.youtube.com/watch?v=ZFeXrGgUXx8)**
+
+Gusto: Get 3-months FREE when you run your first payroll at http://gusto.com/MINDSET *This is an advertiser. Minority Mindset is ...
+
+📺 Minority Mindset
+
+👁️ 509K • 👍 7K • 💬 656 • ⏱️ 23:29 • 1d ago
 
 ---
 
