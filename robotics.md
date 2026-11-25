@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-25T00:00:33.215276+00:00'
+updated: '2026-11-25T08:14:49.587401+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 25, 2026 at 00:00 UTC  
+**Last Updated:** November 25, 2026 at 08:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-9d ago
+10d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-9d ago
+10d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-10d ago
+11d ago
 
 ---
 
@@ -110,25 +110,27 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[A LEASH for AI-controlled robots: New system could reduce harmful actions](https://techxplore.com/news/2026-11-leash-ai-robots-actions.html)**
-
-Tech Xplore • 1d ago
-
----
-
 **[Medtronic CEO Geoff Martha: AI and robotics have been force multipliers for us](https://www.cnbc.com/video/2026/11/24/medtronic-ceo-geoff-martha-ai-and-robotics-have-been-force-multipliers-for-us.html)**
 
 Medtronic CEO Geoff Martha joins 'Squawk on the Street' to discuss the company's latest earnings report, demand for robot-assisted surgery, and more.
 
-CNBC • 6h ago
+CNBC • 15h ago
 
 ---
 
-**[RoboTrack: Point tracking for real-world robotic manipulation](https://allenai.org/blog/robotrack)**
+**[SoftBank acquires Marc Raibert’s Robotics and AI Institute](https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/)**
 
-RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks.
+SoftBank acquired the Robotics and AI Institute from Hyundai Motor Group, reuniting with Boston Dynamics founder Marc Raibert.
 
-Allen Institute for Artificial Intelligence • 1d ago
+The Robot Report • 17h ago
+
+---
+
+**[Eric Trump-backed robotics startup told all workers their health insurance is gone — ‘extremely unfortunate’ situation](https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html)**
+
+This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -140,17 +142,23 @@ Business Insider • 1d ago
 
 ---
 
-**[Novanta Shares Just Jumped And We’re Buying This Robotics Play](https://finance.yahoo.com/video/novanta-shares-just-jumped-buying-225922952.html)**
+**[MIT researchers use robotic motion to weave clothing directly around the human body](https://blog.adafruit.com/2026/11/24/mit-researchers-use-robotic-motion-to-weave-clothing-directly-around-the-human-body/)**
 
-Just as early investors targeted foundational chipmakers like Taiwan Semiconductor (TSM), Nvidia (NVDA), and Broadcom (AVGO) at the start of the AI computing wave, investors are currently examining diversified industrial and sensor plays such as Regal Rexnord (RRX), Timken (TKR), Allegro MicroSystems (ALGM), Ouster (OUST), and STMicroelectronics (STM). During a recent episode of The AI Investor Podcast, hosts Eric Bleeker and Austin Smith took a closer look at Novanta, and shared why they are optimistic about the robotics manufacturer as an AI investment play to target in 2027.
-
-Yahoo Finance • 1h ago
+Adafruit • 18h ago
 
 ---
 
-**[Realbotix Putting Realistic Humanoid Robots At The Front Desk](https://www.forbes.com/sites/johnkoetsier/2026/11/24/realbotix-putting-realistic-humanoid-robots-at-the-front-desk/)**
+**[ASRock Industrial Unveils Robotics-in-a-Box to Democratize Physical AI Development](https://www.techpowerup.com/355151/asrock-industrial-unveils-robotics-in-a-box-to-democratize-physical-ai-development)**
 
-Forbes • 2h ago
+ASRock Industrial, a global provider of industrial computing and edge AI solutions, today announced the launch of RBK-100 Robotics-in-a-Box. Designed to simplify robotic AI development and make hands-on experimentation more accessible to researchers, educators, and developers, RBK-100 is an...
+
+TechPowerUp • 23h ago
+
+---
+
+**[Platform Robotics Unveils New Softrim™ Craft Product at MJBizCon 2026](https://www.morningstar.com/news/pr-newswire/20261124ph05261/platform-robotics-unveils-new-softrim-craft-product-at-mjbizcon-2026)**
+
+Morningstar • 18h ago
 
 ---
 
@@ -158,25 +166,23 @@ Forbes • 2h ago
 
 Humanoid robots are on the verge of becoming mainstream, and these three stocks are positioned to benefit.
 
-The Motley Fool • 21h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[These Humanoid Robots Will Bring Clarity to All the Hype](https://www.bloomberg.com/opinion/articles/2026-11-23/agility-s-humanoid-robots-will-bring-clarity-to-industry-hype)**
+**[The 2027 Tipping Point: Humanoid Robots on Campus](https://www.insidehighered.com/opinion/columns/online-trending-now/2026/11/25/2027-tipping-point-humanoid-robots-campus)**
 
-Bloomberg.com • 1d ago
+A very visible turning point is approaching in 2027, when we will see autonomous humanoid robots working with and engaging people on campus. They will have left the engineering research and development labs to begin making actual contributions “in person.”
 
----
-
-**[MIT researchers use robotic motion to weave clothing directly around the human body](https://blog.adafruit.com/2026/11/24/mit-researchers-use-robotic-motion-to-weave-clothing-directly-around-the-human-body/)**
-
-Adafruit • 10h ago
+Inside Higher Ed • 14m ago
 
 ---
 
-**[Opinion | How can America bring factories back without Chinese robots?](https://www.scmp.com/opinion/world-opinion/article/3375269/us-banning-robots-it-needs-reclaim-manufacturing)**
+**[This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)**
 
-South China Morning Post • 1d ago
+Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.
+
+TechCrunch • 1mo ago
 
 ---
 
@@ -184,23 +190,23 @@ South China Morning Post • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s T800 AI Robot Just CROSSED Another Line…](https://www.youtube.com/watch?v=nJQpwy2aEnY)**
-
-AI robots are advancing on four fronts, from smarter vision systems to factory automation and robot cops. This roundup explores ...
-
-📺 NextGen Humanoids
-
-👁️ 6K • 👍 53 • 💬 7 • ⏱️ 10:29 • 1d ago
-
----
-
 **[Everyone is Getting Humanoids Wrong](https://www.youtube.com/watch?v=ai1Gg0oeVTk)**
 
 Roomba brought robots into millions of homes, but never delivered the iPhone moment for home robotics. Matic thinks it can.
 
 📺 MTS 
 
-👁️ 14K • 👍 32 • 💬 7 • ⏱️ 16:20 • 1d ago
+👁️ 18K • 👍 35 • 💬 9 • ⏱️ 16:20 • 1d ago
+
+---
+
+**[China’s New AI Robot Army Is Terrifying...](https://www.youtube.com/watch?v=bOOf9boeiKE)**
+
+China just turned Shenzhen into a giant robot show during APEC week, and 151 humanoids set a Guinness World Record for the ...
+
+📺 MACHINEKIND
+
+👁️ 11K • 👍 186 • 💬 26 • ⏱️ 13:00 • 1d ago
 
 ---
 
@@ -214,73 +220,73 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 ---
 
-**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
-
-On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
-
-📺 FRAME
-
-👁️ 32K • 👍 375 • ⏱️ 21:17 • 6d ago
-
----
-
-**[Unboxing a 100K Agibot Robot #agibot #agibotanz](https://www.youtube.com/watch?v=0dQUVUhq90w)**
-
-Unboxing a 100k Robot from Agibot so it can do my job.
-
-📺 Insert Richie
-
-👁️ 668K • 👍 26K • 💬 460 • ⏱️ 2:04 • 1d ago
-
----
-
-**[Robots OR Humans. What’s Even REAL Anymore? 🤯](https://www.youtube.com/watch?v=RigsWn8tN0g)**
-
-Robots vs HUMANS. Were these auditions even real?? FIND OUT! 00:00 - Boston Dynamics - AGT 2025 06:02 - Mastermind ...
-
-📺 Top Talent
-
-👁️ 180K • 👍 712 • 💬 46 • ⏱️ 49:21 • 1d ago
-
----
-
-**[The $13,500 Robot Is Getting Out of Control](https://www.youtube.com/watch?v=fqN7JOA58hQ)**
-
-The $13500 Unitree G1 humanoid robot is becoming one of the most capable AI robots in the world. From basketball and soccer ...
-
-📺 NextGen Humanoids
-
-👁️ 31K • 👍 207 • 💬 21 • ⏱️ 12:23 • 6d ago
-
----
-
 **[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
 
 Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
 
 📺 Cleo Abram
 
-👁️ 2.2M • 👍 121K • 💬 979 • ⏱️ 1:05 • 4d ago
+👁️ 2.2M • 👍 122K • 💬 979 • ⏱️ 1:05 • 4d ago
 
 ---
 
-**[My FIRST Programmable Humanoid Robot! | Noetix Boomy Full Test](https://www.youtube.com/watch?v=6cbdl5iDC1U)**
+**[The 2026 Robotics Revolution happened faster than we thought 🤖 #robotics #innovation #shorts](https://www.youtube.com/watch?v=7S7KUR6W_wk)**
 
-I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot from @NoetixRobotics that walks on two legs and ...
+Twenty-twenty-six was a crazy year for robotics. The year kicked off with Chinese humanoids dominating CES in Las Vegas.
 
-📺 Eric’s Tech World
+📺 Kalil 4.0
 
-👁️ 15K • 👍 223 • 💬 34 • ⏱️ 13:13 • 2d ago
+👁️ 828 • 👍 46 • 💬 5 • ⏱️ 2:59 • 3h ago
 
 ---
 
-**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
+**[Inside Super-Advanced US Factory Building the Most Powerful Robots of the Future](https://www.youtube.com/watch?v=Aacvj9E-uAk)**
 
-ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
+On this feature on FRAME, we take you inside the manufacturing process behind Atlas, Boston Dynamics' advanced humanoid ...
 
-📺 MuffinJuice
+📺 FRAME
 
-👁️ 1.4M • 👍 39K • 💬 3K • ⏱️ 15:00 • 5d ago
+👁️ 33K • 👍 379 • ⏱️ 21:17 • 6d ago
+
+---
+
+**[MIT&#39;s Magnetic Robot Could Navigate Inside the Human Brain! 🤯🧠](https://www.youtube.com/watch?v=83LppGIcKTA)**
+
+Imagine a tiny robotic thread navigating blood vessels inside the human brain! MIT engineers developed a magnetically ...
+
+📺 Nexio Core
+
+👁️ 147K • 💬 3 • ⏱️ 0:05 • 3d ago
+
+---
+
+**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
+
+Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
+
+📺 Tesla Insider Economics
+
+👁️ 131K • 👍 1K • 💬 84 • ⏱️ 22:13 • 6d ago
+
+---
+
+**[Here&#39;s a look at some of China&#39;s newest humanoid robots](https://www.youtube.com/watch?v=PWNVZLzYdq4)**
+
+Tony Dokoupil takes a look at China's advanced humanoid robots. Last year, China installed more industrial robots than the rest ...
+
+📺 CBS Evening News
+
+👁️ 37K • 👍 147 • 💬 78 • ⏱️ 2:05 • 6d ago
+
+---
+
+**[Chinese humanoid robots on display at the RoboExpo in Shenzhen #shorts](https://www.youtube.com/watch?v=DhBzSrMExMY)**
+
+"CBS Evening News" delivers the day's most important stories, delivering context and depth to bring greater understanding to your ...
+
+📺 CBS Evening News
+
+👁️ 185K • 👍 824 • 💬 125 • ⏱️ 1:56 • 6d ago
 
 ---
 
