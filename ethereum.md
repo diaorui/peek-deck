@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-24T15:08:06.804479+00:00'
+updated: '2026-11-25T00:00:33.211870+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 24, 2026 at 15:08 UTC  
+**Last Updated:** November 25, 2026 at 00:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.1%  
-**7d:** -5.5%  
-**30d:** -27.7%  
-**90d:** -33.1%  
-**1y:** -43.3%  
+**24h:** -1.8%  
+**7d:** -4.4%  
+**30d:** -28.6%  
+**90d:** -31.2%  
+**1y:** -44.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $206.57B
+**Market Cap:** $205.13B
 Rank #2
 
 **Circulating Supply:** 122,247,780 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.8%
+-66.1%
 
 **All-Time Low:** $0.43
-+390263.0%
++387419.9%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-7d ago
+8d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?
 
-9d ago
+10d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 12d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 13d ago
 
 ---
 
@@ -152,35 +152,19 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[PQAI #0: Preparing Ethereum for a post-quantum, post-AI world](https://blog.ethereum.org/2026/11/23/pqai-0)**
+**[Tom Lee Says Ethereum Is as Scarce as Bitcoin: Do the Supply Numbers Agree?](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-scarce-221309296.html)**
 
-Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on...
+Tom Lee says the gap between Ethereum's and Bitcoin's supply growth is too small to matter, and his firm holds billions in ETH. A closer look at how each coin actually gets created and destroyed shows where his comparison starts to strain.
 
-ethereum.org • 16h ago
-
----
-
-**[Tom Lee Slams XRP as ‘Far More Inflationary’ Than Ethereum as Bulls Eye $30](https://finance.yahoo.com/markets/crypto/articles/tom-lee-slams-xrp-far-123215431.html)**
-
-Bitmine’s Tom Lee put XRP’s annualized supply growth at 5.4%, compared with 0.90% for Ethereum and 0.82% for Bitcoin. XRP’s circulating supply can grow as…
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[What Bitmine’s Ethereum Buying Cap Could Mean For BMNR Stock](https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-buying-cap-could-121616580.html)**
+**[PQAI #1: One Hash to Rule Them All — Keccak-256 for Ethereum's Post-Quantum, Post-AI Era](https://blog.ethereum.org/2026/11/24/pqai-1)**
 
-Bitmine Immersion Technologies reported full year 2026 revenue of US$124.81 million and a net loss of US$6,313.39 million, while continuing to accumulate Ethereum to nearly 5% of the token's total supply and staking most of these holdings through its MAVAN validator network. Management has flagged an end to Ethereum purchases once the 5% ownership cap is reached. This shift could free future cash and equity issuance capacity for uses such as potential share buybacks and may raise sharper...
+We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Foundation Doubles Security Team And Calls A.I. ‘Urgent Risk’](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-doubles-security-team-144200880.html)**
-
-The Ethereum Foundation (CRYPTO: $ETH) has doubled its security protocol team and called artificial intelligence (A...
-
-Yahoo Finance • 26m ago
+ethereum.org • 2h ago
 
 ---
 
@@ -190,27 +174,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for November 24, 2026](https://fortune.com/article/price-of-ethereum-11-24-2026/)**
+**[0xAC33...531B4d](https://arkm.com/explorer/address/0xac33748aad09cea8e50484cc0fa168dc23531b4d)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
+Arkham • 12h ago
 
 ---
 
-**[Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed](https://www.tradingview.com/news/stocktwits:42afaa361094b:0-bitcoin-and-ethereum-get-a-bigger-role-in-us-derivatives-markets-here-s-what-the-cftc-changed/)**
+**[LIVE Crypto News – Bitcoin and Ethereum Bounce Back: Market Finally Turning?](https://www.tradingview.com/news/cryptonews:16fa04b0d094b:0-live-crypto-news-bitcoin-and-ethereum-bounce-back-market-finally-turning/)**
 
-Regulated crypto exchanges and derivatives platforms are getting an easier path to using digital assets in their operations, as the Commodity Futures Trading Commission (CFTC) is allowing them to count Bitcoin (BTC), Ethereum (ETH) and payment stablecoins toward reserves needed to cover a year of o…
+Bitcoin and Ethereum are bouncing back after a brutal selloff, but the recovery is running into a market that still looks far from healthy. Bitcoin climbed back above $60,000 over the weekend after touching a low near $55,250. Ethereum also gained ground, its first breath of air after several days…
 
-TradingView • 12h ago
-
----
-
-**[Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings](https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866)**
-
-Ark purchased a combined 1.64 million Anthropic shares, worth $145.9 million, on Thursday and Friday across its exchange-traded funds, according to the firm's trading disclosures.
-
-The Block • 1d ago
+TradingView • 1d ago
 
 ---
 
@@ -218,15 +192,35 @@ The Block • 1d ago
 
 Bitmine Chairman Tom Lee argued the Ethereum supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82%.
 
-Decrypt • 22h ago
+Decrypt • 1d ago
 
 ---
 
-**[Crypto News Today: AlphaPepe Presale Crosses 13,500 Holders as Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-crosses-13-500-holders-as-ethereum-price-prediction-targets-10-000-1036794120)**
+**[Ethereum Foundation doubles protocol security team, calls AI a 'more urgent risk' than quantum](https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497)**
 
-MONACO, Nov.  23, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale crossed 13,500 holders ahead of its Q1...
+Ethereum developers face deadlines for a post-quantum transition as the Foundation raises security staffing and AI advances reshape its threat assessment.
 
-markets.businessinsider.com • 10h ago
+The Block • 12h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices toward yearly lows](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-remain-vulnerable-as-bears-drive-prices-toward-yearly-lows-202611230352)**
+
+FXStreet • 1d ago
+
+---
+
+**[BitMine Stock Falls to Key Support as Ethereum Crash Tests Tom Lee’s Bull Run Thesis](https://www.benzinga.com/markets/equities/26/11/63517294/bitmine-stock-falls-to-key-support-as-ethereum-crash-tests-tom-lees-bull-run-thesis)**
+
+Benzinga • 8d ago
+
+---
+
+**[Current price of Ethereum for November 24, 2026](https://fortune.com/article/price-of-ethereum-11-24-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 7h ago
 
 ---
 
@@ -240,7 +234,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 206 • 💬 28 • ⏱️ 21:42 • 8h ago
+👁️ 16K • 👍 264 • 💬 33 • ⏱️ 21:42 • 17h ago
+
+---
+
+**[Roaul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=ceEI_dm2b8k)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 24K • 👍 426 • 💬 55 • ⏱️ 28:19 • 6h ago
+
+---
+
+**[Jensen Huang Just Set Off Ethereum&#39;s RAREST Bottom Signal!!](https://www.youtube.com/watch?v=Mo_414PzNXc)**
+
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v122 CoinGPT - the AI Trade Agent I ...
+
+📺 Marzell Crypto
+
+👁️ 313 • 👍 13 • 💬 3 • ⏱️ 3:06 • 13h ago
 
 ---
 
@@ -250,37 +264,7 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 680 • 👍 11 • 💬 2 • ⏱️ 3:05 • 1d ago
-
----
-
-**[BMNR Holders: How NVIDIA Impacted ETH + HUGE BUY SIGNAL!](https://www.youtube.com/watch?v=VkpqqHp7leU)**
-
-BMNR, ETH, MSTR & NVIDIA — HUGE BUY SIGNALS? Is the Crypto Bottom Finally In? Earn on Stocks with MaxFi: https://www ...
-
-📺 Big Time Trades
-
-👁️ 3K • 👍 58 • 💬 16 • ⏱️ 32:02 • 15h ago
-
----
-
-**[BITCOIN PRICE TARGET HIT (New Prediction Revealed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=u4RltNhkc5A)**
-
-BITCOIN PRICE TARGET HIT (New Prediction Revealed)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 303 • 💬 50 • ⏱️ 19:19 • 14h ago
-
----
-
-**[Dan Doney: DTCC Is Building The Future Of Capital Markets On Ethereum (Ethereum Rails)](https://www.youtube.com/watch?v=SBXbWatmbtk)**
-
-Dan Doney says tokenized rails can finally give investors around the world the same access to sophisticated finance that has long ...
-
-📺 The Rollup
-
-👁️ 4K • 👍 82 • 💬 1 • ⏱️ 35:23 • 15h ago
+👁️ 1K • 👍 14 • 💬 2 • ⏱️ 3:05 • 1d ago
 
 ---
 
@@ -290,7 +274,17 @@ Inflation. Skyrocketing cost of living. Interest rates going higher. NVIDIA and 
 
 📺 The Modern Investor
 
-👁️ 11K • 👍 768 • 💬 202 • ⏱️ 32:50 • 1d ago
+👁️ 11K • 👍 773 • 💬 168 • ⏱️ 32:50 • 1d ago
+
+---
+
+**[Dan Doney: DTCC Is Building The Future Of Capital Markets On Ethereum (Ethereum Rails)](https://www.youtube.com/watch?v=SBXbWatmbtk)**
+
+Dan Doney says tokenized rails can finally give investors around the world the same access to sophisticated finance that has long ...
+
+📺 The Rollup
+
+👁️ 5K • 👍 108 • 💬 16 • ⏱️ 35:23 • 23h ago
 
 ---
 
@@ -300,7 +294,7 @@ Ethereum bounced from the support region around $1500 to $1600 but was rejected 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 154 • 💬 6 • ⏱️ 8:28 • 19h ago
+👁️ 6K • 👍 160 • 💬 7 • ⏱️ 8:28 • 1d ago
 
 ---
 
@@ -310,27 +304,27 @@ Join Learning Crypto: ...
 
 📺 Crypto Tips
 
-👁️ 26K • 👍 579 • 💬 104 • ⏱️ 11:32 • 1d ago
+👁️ 26K • 👍 588 • 💬 87 • ⏱️ 11:32 • 2d ago
 
 ---
 
-**[&quot;If You Own BTC &amp; ETH, This Is Happening Faster Than Expected&quot;: Michael Saylor | BTC Price 2026](https://www.youtube.com/watch?v=WPVzWQc2doI)**
+**[BMNR Holders: How NVIDIA Impacted ETH + HUGE BUY SIGNAL!](https://www.youtube.com/watch?v=VkpqqHp7leU)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+BMNR, ETH, MSTR & NVIDIA — HUGE BUY SIGNALS? Is the Crypto Bottom Finally In? Earn on Stocks with MaxFi: https://www ...
 
-📺 Crypto Nutshell
+📺 Big Time Trades
 
-👁️ 39K • 👍 354 • 💬 21 • ⏱️ 21:22 • 2d ago
+👁️ 4K • 👍 65 • 💬 21 • ⏱️ 32:02 • 1d ago
 
 ---
 
-**[BITCOIN FLIPPED: New Price Targets Confirmed (Soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=nuow4m_r64s)**
+**[Why Robinhood Chose Arbitrum &amp; Ethereum&#39;s Future Revealed! | Steven Goldfeder](https://www.youtube.com/watch?v=3dNCX_8Q9d4)**
 
-BITCOIN FLIPPED: New Price Targets Confirmed (Soon)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Steven Goldfeder, CEO and Co-Founder of Offchain Labs, the company behind Arbitrum, joined me to discuss Arbitrum's growth ...
 
-📺 Crypto World
+📺 Thinking Crypto
 
-👁️ 16K • 👍 299 • 💬 193 • ⏱️ 22:55 • 1d ago
+👁️ 2K • 👍 65 • 💬 5 • ⏱️ 51:28 • 11h ago
 
 ---
 

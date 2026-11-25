@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-24T15:08:06.807620+00:00'
+updated: '2026-11-25T00:00:33.215276+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 24, 2026 at 15:08 UTC  
+**Last Updated:** November 25, 2026 at 00:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-9d ago
+10d ago
 
 ---
 
@@ -88,13 +88,13 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-10d ago
+11d ago
 
 ---
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-9d ago
+10d ago
 
 ---
 
@@ -116,23 +116,11 @@ Tech Xplore • 1d ago
 
 ---
 
-**[GMEX Robotics Officially Launches 247meta.ai, Sets Next Focus on Financial AI Agents](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONVBnMVdZN3NWelVFVE1mQTZRYWV3bzRGSThBQW43eHVCTV94TnBSbnZ5c3NKa3VoRFZwbTQ3dW1CSkcwMkp3WG5LVi0zYjEzY19LbVBLbHhGMjZpcmQySmRsZTN5YkxDNHQ4QnM0aDV3SC1zM0lsSEQ4Z1FXbEJqXzBWM1VXVFVYaWx1RmdwcHhmY0dJZGI2UVItUzBTWG05ZlBEdmlYSXV1SjZQNEdmdG4xaTJPUThfbE1BMHJvRVpBMGhQZ1JKZWNEbEdyMm5rYnQ0X0FoUGhBdw?oc=5)**
+**[Medtronic CEO Geoff Martha: AI and robotics have been force multipliers for us](https://www.cnbc.com/video/2026/11/24/medtronic-ceo-geoff-martha-ai-and-robotics-have-been-force-multipliers-for-us.html)**
 
-markets.businessinsider.com • 55m ago
+Medtronic CEO Geoff Martha joins 'Squawk on the Street' to discuss the company's latest earnings report, demand for robot-assisted surgery, and more.
 
----
-
-**[Eric Trump-backed robotics startup told all workers their health insurance is gone — ‘extremely unfortunate’ situation](https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html)**
-
-This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025.
-
-Yahoo Finance • 17h ago
-
----
-
-**[Terran Robotics is using robots to build adobe homes in Central Texas](https://www.axios.com/local/austin/2026/11/24/terran-robotics-adobe-homes-lockhart)**
-
-Axios • 2h ago
+CNBC • 6h ago
 
 ---
 
@@ -140,7 +128,37 @@ Axios • 2h ago
 
 RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks.
 
-Allen Institute for Artificial Intelligence • 21h ago
+Allen Institute for Artificial Intelligence • 1d ago
+
+---
+
+**[I searched for an automated utopia. All I got was roboslop.](https://www.businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11)**
+
+Business Insider's Lloyd Lee tried out all of San Francisco's robot services, from Waymo robotaxis to humanoid cleaners that left his home messier.
+
+Business Insider • 1d ago
+
+---
+
+**[Novanta Shares Just Jumped And We’re Buying This Robotics Play](https://finance.yahoo.com/video/novanta-shares-just-jumped-buying-225922952.html)**
+
+Just as early investors targeted foundational chipmakers like Taiwan Semiconductor (TSM), Nvidia (NVDA), and Broadcom (AVGO) at the start of the AI computing wave, investors are currently examining diversified industrial and sensor plays such as Regal Rexnord (RRX), Timken (TKR), Allegro MicroSystems (ALGM), Ouster (OUST), and STMicroelectronics (STM). During a recent episode of The AI Investor Podcast, hosts Eric Bleeker and Austin Smith took a closer look at Novanta, and shared why they are optimistic about the robotics manufacturer as an AI investment play to target in 2027.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Realbotix Putting Realistic Humanoid Robots At The Front Desk](https://www.forbes.com/sites/johnkoetsier/2026/11/24/realbotix-putting-realistic-humanoid-robots-at-the-front-desk/)**
+
+Forbes • 2h ago
+
+---
+
+**[How to Invest in Humanoid Robots: 3 Stocks to Watch](https://www.fool.com/investing/2026/11/23/how-to-invest-in-humanoid-robots-3-stocks-to-watch/)**
+
+Humanoid robots are on the verge of becoming mainstream, and these three stocks are positioned to benefit.
+
+The Motley Fool • 21h ago
 
 ---
 
@@ -150,33 +168,15 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[MIT researchers use robotic motion to weave clothing directly around the human body](https://blog.adafruit.com/2026/11/24/mit-researchers-use-robotic-motion-to-weave-clothing-directly-around-the-human-body/)**
+
+Adafruit • 10h ago
+
+---
+
 **[Opinion | How can America bring factories back without Chinese robots?](https://www.scmp.com/opinion/world-opinion/article/3375269/us-banning-robots-it-needs-reclaim-manufacturing)**
 
 South China Morning Post • 1d ago
-
----
-
-**[Killer robots: U.N. talks fall short of hopes for legally binding rules](https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones)**
-
-U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.
-
-NPR • 3d ago
-
----
-
-**[Louis Dreyfus Tests Out Robotic Hull Cleaning at Scale](https://maritime-executive.com/article/neptune-secures-partnerships-to-advance-robotic-hull-cleaning)**
-
-Neptune Robotics is making a strong statement in its determination to advance the adoption of its robotic hull cleaning technology after securing a se...
-
-The Maritime Executive • 1d ago
-
----
-
-**[How to Invest in Humanoid Robots: 3 Stocks to Watch](https://www.fool.com/investing/2026/11/23/how-to-invest-in-humanoid-robots-3-stocks-to-watch/)**
-
-Humanoid robots are on the verge of becoming mainstream, and these three stocks are positioned to benefit.
-
-The Motley Fool • 12h ago
 
 ---
 
@@ -184,13 +184,13 @@ The Motley Fool • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[My FIRST Programmable Humanoid Robot! | Noetix Boomy Full Test](https://www.youtube.com/watch?v=6cbdl5iDC1U)**
+**[China&#39;s T800 AI Robot Just CROSSED Another Line…](https://www.youtube.com/watch?v=nJQpwy2aEnY)**
 
-I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot from @NoetixRobotics that walks on two legs and ...
+AI robots are advancing on four fronts, from smarter vision systems to factory automation and robot cops. This roundup explores ...
 
-📺 Eric’s Tech World
+📺 NextGen Humanoids
 
-👁️ 11K • 👍 205 • 💬 33 • ⏱️ 13:13 • 2d ago
+👁️ 6K • 👍 53 • 💬 7 • ⏱️ 10:29 • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Roomba brought robots into millions of homes, but never delivered the iPhone mom
 
 📺 MTS 
 
-👁️ 10K • 👍 27 • 💬 6 • ⏱️ 16:20 • 21h ago
+👁️ 14K • 👍 32 • 💬 7 • ⏱️ 16:20 • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 📺 Unbox Therapy
 
-👁️ 1.2M • 👍 50K • 💬 92 • ⏱️ 1:24 • 5d ago
+👁️ 1.2M • 👍 50K • 💬 92 • ⏱️ 1:24 • 6d ago
 
 ---
 
@@ -220,7 +220,7 @@ On this feature on FRAME, we take you inside the manufacturing process behind At
 
 📺 FRAME
 
-👁️ 31K • 👍 371 • ⏱️ 21:17 • 6d ago
+👁️ 32K • 👍 375 • ⏱️ 21:17 • 6d ago
 
 ---
 
@@ -230,17 +230,7 @@ Unboxing a 100k Robot from Agibot so it can do my job.
 
 📺 Insert Richie
 
-👁️ 584K • 👍 24K • 💬 422 • ⏱️ 2:04 • 1d ago
-
----
-
-**[The $13,500 Robot Is Getting Out of Control](https://www.youtube.com/watch?v=fqN7JOA58hQ)**
-
-The $13500 Unitree G1 humanoid robot is becoming one of the most capable AI robots in the world. From basketball and soccer ...
-
-📺 NextGen Humanoids
-
-👁️ 31K • 👍 206 • 💬 21 • ⏱️ 12:23 • 6d ago
+👁️ 668K • 👍 26K • 💬 460 • ⏱️ 2:04 • 1d ago
 
 ---
 
@@ -250,17 +240,17 @@ Robots vs HUMANS. Were these auditions even real?? FIND OUT! 00:00 - Boston Dyna
 
 📺 Top Talent
 
-👁️ 129K • 👍 524 • 💬 38 • ⏱️ 49:21 • 1d ago
+👁️ 180K • 👍 712 • 💬 46 • ⏱️ 49:21 • 1d ago
 
 ---
 
-**[These “companions” are part art project, part robot. #trendingshorts #robot #technology #robotics](https://www.youtube.com/watch?v=xG7x7iMYyZo)**
+**[The $13,500 Robot Is Getting Out of Control](https://www.youtube.com/watch?v=fqN7JOA58hQ)**
 
-This creature made of yarn “breathes” when you touch it. Created by designer @KatrijnWestland Soft Companion is part textile art ...
+The $13500 Unitree G1 humanoid robot is becoming one of the most capable AI robots in the world. From basketball and soccer ...
 
-📺 The Rundown AI
+📺 NextGen Humanoids
 
-👁️ 4K • 👍 175 • 💬 3 • ⏱️ 1:02 • 18h ago
+👁️ 31K • 👍 207 • 💬 21 • ⏱️ 12:23 • 6d ago
 
 ---
 
@@ -270,17 +260,27 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Cleo Abram
 
-👁️ 2.2M • 👍 119K • 💬 957 • ⏱️ 1:05 • 4d ago
+👁️ 2.2M • 👍 121K • 💬 979 • ⏱️ 1:05 • 4d ago
 
 ---
 
-**[Tesla&#39;s New Optimus Gen 4 Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=RfaoPiHtqbM)**
+**[My FIRST Programmable Humanoid Robot! | Noetix Boomy Full Test](https://www.youtube.com/watch?v=6cbdl5iDC1U)**
 
-Elon Musk has put a number on Optimus Gen 4: 10 million robots a year. That is about one robot every three seconds, and ...
+I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot from @NoetixRobotics that walks on two legs and ...
 
-📺 Tesla Insider Economics
+📺 Eric’s Tech World
 
-👁️ 130K • 👍 1K • 💬 84 • ⏱️ 22:13 • 5d ago
+👁️ 15K • 👍 223 • 💬 34 • ⏱️ 13:13 • 2d ago
+
+---
+
+**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
+
+ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
+
+📺 MuffinJuice
+
+👁️ 1.4M • 👍 39K • 💬 3K • ⏱️ 15:00 • 5d ago
 
 ---
 
