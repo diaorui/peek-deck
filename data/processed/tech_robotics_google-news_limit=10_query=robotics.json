@@ -5,24 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Medtronic CEO Geoff Martha: AI and robotics have been force multipliers for us",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3pydlREbHlUOU5KMTdKYlRyN3MxcTRlRkxwaEZlMnU3NldQWTFvM2oxN1c5VGNCV05CZFNpSERQUnRKV0xBS2ZjWWVyd1pabEYzLTdlUzE5dkV1Y2tkU2dKalZGVTNta3FyLXM0aUtyT3JrZlM5UldFRTlMWC1DMlNSSS1QZ01zbS03cmRYeTVOOV9RZHpnQVJPaXdta1J0amY3UmVDejRvUnFaNzNYUEpJMVJJRFREd0lObw?oc=5",
-      "pub_date": 1795540261.0,
-      "article_url": "https://www.cnbc.com/video/2026/11/24/medtronic-ceo-geoff-martha-ai-and-robotics-have-been-force-multipliers-for-us.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558539-17955395191795539516-49835863148-1080pnbcnews.jpg?v=1795539518&w=1920&h=1080",
-      "description": "Medtronic CEO Geoff Martha joins 'Squawk on the Street' to discuss the company's latest earnings report, demand for robot-assisted surgery, and more."
+      "headline": "A LEASH for AI-controlled robots: New system could reduce harmful actions",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TRVMxaHEyOThRTl83emFvaWMxdVBkSUNiRWZ2V285cXpHejlpTlFjRjUxRVBwcXJfM1N6cTVlcjF0UHJHTDVmbFJwbkQ4c3E4Z1B5dEttQzJrRTBCY1A2OVRwdWxXT3E1Tm11bFVGZmZPQQ?oc=5",
+      "pub_date": 1795437601.0,
+      "article_url": "https://techxplore.com/news/2026-11-leash-ai-robots-actions.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "SoftBank acquires Marc Raibert\u2019s Robotics and AI Institute",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFVpMkxPaEw4NVUzdTZmNHM3amdYLVRJc0tfcWdlSWpUR1hrczBVNTVXMC1PVWY1X2tQeWRHNldFOWxKN3NmajU1QTduMG1NOG45OVlncm44VnVuOWZhUlNZd08xclRoTFdkN1huSWtjN1lfb241Q0JXOXk2b2VKYkc2SFNxdHc4Si1rX3RrRU1mdnM?oc=5",
-      "pub_date": 1795532160.0,
-      "article_url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/softbank-acquires-rai.jpg",
-      "description": "SoftBank acquired the Robotics and AI Institute from Hyundai Motor Group, reuniting with Boston Dynamics founder Marc Raibert."
+      "headline": "Humble Robotics wants to reinvent trucking",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1V0SHNpSVRDcmh6WFd0LVdtVTd4YWlqZEtVcTNfdVJwX2VTOTFXWlRjX0VVYU90cl82dWNjUVNaQUtOX1ExdXFzUmhabjF0bmN6blNkT3JMcGxGLTE4S1R5dVNtOW83S053UjIxQ1ByZXQxRzZqVFJJTVNXRWZ0UHo5NTFPSHlrdV9jM0NB?oc=5",
+      "pub_date": 1795626035.0,
+      "article_url": "https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "This robotics stock lost half its value. Here's why Citi says it's a buy",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWR6d2VBak1TQWFRUnVfeE5qbjdZQWFHcmg0UEU2Z3VwbjJEZV9fUGhtSVphaHdDMGdlN2FRUUxQeVNiMGRPT1ExYjRKWVk2YXYtZFp6WEprQ2FxWkdWVkNETXk0dzBSRmMwVHlJS1lfOU05SDBVYkN4TElvQnJtQlc3YldHb0Ribks0LUVQeGloV3FEYnFEN1BQcTJmLXVOUkMxUkFHUQ?oc=5",
+      "pub_date": 1795616823.0,
+      "article_url": "https://www.cnbc.com/2026/11/25/a-robotics-stock-lost-half-its-value-heres-why-citi-says-its-a-buy-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107302331-1695049060845-Agility_Robotics_-_DIGIT_-_3.jpeg?v=1695050859&w=1920&h=1080",
+      "description": "Agility Robotics has lost more than half of its value since its IPO, but it is positioned to see a lot of upside if the humanoid robot market expands, per Citi."
     },
     {
       "headline": "Eric Trump-backed robotics startup told all workers their health insurance is gone \u2014 \u2018extremely unfortunate\u2019 situation",
@@ -35,6 +45,26 @@
       "description": "This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025."
     },
     {
+      "headline": "SoftBank acquires Marc Raibert\u2019s Robotics and AI Institute",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFVpMkxPaEw4NVUzdTZmNHM3amdYLVRJc0tfcWdlSWpUR1hrczBVNTVXMC1PVWY1X2tQeWRHNldFOWxKN3NmajU1QTduMG1NOG45OVlncm44VnVuOWZhUlNZd08xclRoTFdkN1huSWtjN1lfb241Q0JXOXk2b2VKYkc2SFNxdHc4Si1rX3RrRU1mdnM?oc=5",
+      "pub_date": 1795532160.0,
+      "article_url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/softbank-acquires-rai.jpg",
+      "description": "SoftBank acquired the Robotics and AI Institute from Hyundai Motor Group, reuniting with Boston Dynamics founder Marc Raibert."
+    },
+    {
+      "headline": "Meet the front-runners driving China\u2019s humanoid robot boom",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGctNW9tTG5naEdldGdOZXY5MmQwcTJNUG9welZvWmg2dlJ2bms2bTRLTmJESk9nRVdHdmNVWEx3UDJhM2Y0bUw4WGQ1ZkxtZ3ItZVpWN2JZelVDX25IdlpvOGJKZi1MTlA1MEdJUWt4YTItNUVTSUhzakpYVU5VZHpudVM4OVo3TUJMdmpvajRQbjNoU01oUFhkU0dpaDhXNXUxOXpKSFM?oc=5",
+      "pub_date": 1795480205.0,
+      "article_url": "https://www.scmp.com/tech/article/3375497/meet-robots-chinas-six-top-humanoid-developers-vie-market-share",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "I searched for an automated utopia. All I got was roboslop.",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -45,66 +75,36 @@
       "description": "Business Insider's Lloyd Lee tried out all of San Francisco's robot services, from Waymo robotaxis to humanoid cleaners that left his home messier."
     },
     {
-      "headline": "MIT researchers use robotic motion to weave clothing directly around the human body",
-      "source": "Adafruit",
-      "source_url": "https://blog.adafruit.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdndqZTd6QzE0S3pDTkI3aHVtUmlNU0NvNjFWazUzeHNEU2JNY0MyUU5TNWRNamdmMFotWEd3V2tCTjczWVhWNHpsbGEyeV95akszYmZyVDhxMUVsaktFSThEeHJBbXJ4UGI3VHI3NUpkS2VMQTcwYkp2WVJicV9uX1l1cUdmSFZyYVdFdGxpaW9UMmM3Y0c3OXVteGtjQWZrWGZ0R1dmV0FJT1R4UFg0LTRxSEg3STN0VHZVUHVR?oc=5",
-      "pub_date": 1795528406.0,
-      "article_url": "https://blog.adafruit.com/2026/11/24/mit-researchers-use-robotic-motion-to-weave-clothing-directly-around-the-human-body/",
+      "headline": "Inside DARPA's Challenge Where Robots Searched for Disaster Victims",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pVTFwOHpqcEZGcUNTMW1KVEpTRVhzZDFDWkNiMG04enlwZ0lvTDc5d3lyblQtNEwtd21vdGIxc1BhbkxVcGNqTnMtWWsySndkS2xMcWpzb2RCN0tMSjRjVmdpTWp5VE1MMTJ0M3Jn?oc=5",
+      "pub_date": 1795507200.0,
+      "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+      "image": "https://spectrum.ieee.org/media-library/a-helmeted-woman-calling-out-to-a-quadruped-robot-during-a-simulated-field-disaster.jpg?id=68752154&width=1200&height=600&coordinates=0%2C339%2C0%2C141",
+      "description": "The defense agency\u2019s latest grand challenge aimed to prove robots could save lives in emergencies"
+    },
+    {
+      "headline": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "source": "Allen Institute for Artificial Intelligence",
+      "source_url": "https://allenai.org",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fRzBMSHFUMkI1OHJGNjdfeThCTlBtdDVRWUZTYVVFSW1ZdXI3aldNVmxud0MtQmEwTTNLR0NWOHRjZ09IOXdwRXN3?oc=5",
+      "pub_date": 1795457007.0,
+      "article_url": "https://allenai.org/blog/robotrack",
+      "image": "https://www.datocms-assets.com/64837/1795407244-robotrack-blog-draft-google-docs-image-1.png",
+      "description": "RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks."
+    },
+    {
+      "headline": "High school robotics teams launch season with four victories: Talk of the Towns",
+      "source": "Cleveland.com",
+      "source_url": "https://www.cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVNUM014c1BrYUs4VTRidVdjZFVIRm1JYXpmZktTOVJXZ3VmeHVyWXdXRktJTHFBa2FJV2NIWk9UU0ExNG1TNmJhSUY5VUE0bWdJRTJ1NmhXYVNiQ3FyNWQwR3dQU0h1bmVkWWdzQmxjeXpfN3Q1My1KQnhCZEhKWFZQUThLNm5WemZ3TEJBSk1zbmYySHVKRjRjMG9sQkRUWmN3Qno1SlRpUlpaN280N040Q0txelN3a1dqM1hZa04wTXF5TWc?oc=5",
+      "pub_date": 1795618020.0,
+      "article_url": "https://www.cleveland.com/community/2026/11/high-school-robotics-teams-launch-season-with-four-victories-talk-of-the-towns.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "ASRock Industrial Unveils Robotics-in-a-Box to Democratize Physical AI Development",
-      "source": "TechPowerUp",
-      "source_url": "https://www.techpowerup.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd01iblR6U1BxdDRlQUdFWUY1U2ZIcElscXFuZzlEdmtYeFd6WkN2R3FOMmZsQWswZ2lkOUJLSm03RTZZM2Vyd1ltRDFxemNkbXFMNEFVbnhUempVV3NJQ0Itc2Y1Tmp5UUhHbHdId2hZTkVWWHp4MmgyZ1VWWi1Da0FvZ3ZUclNFWW40MlZURk9XYWJNVDZ0cUdRZk5ZdjdkZDRISGNIcUQ2VTBEYmN1QXMtVzJFUERR0gG-AUFVX3lxTFByZ21YTV9OVXlOZXoxTnU5NFBHRkp3WlB1ZlFtbXU5b0JxZjFVWklEdVdWcHgzYWhaOWFkY3MwcUdXenNsRGZlRHZQYWlVYmJTRndVTVBrYW9WelZtYmdQTDNOVHkwUGFwbm1PRnZ0NndRWm92NmlNcmZHdzJTZkxNdUkteWNSTkw0VjFLMGdmeWtUSGYxWkZ4NGxERmlUbmhQTmlrYkJNQU1xdzRsTXhSN0t4d1kzNkxGeDJmOGc?oc=5",
-      "pub_date": 1795509129.0,
-      "article_url": "https://www.techpowerup.com/355151/asrock-industrial-unveils-robotics-in-a-box-to-democratize-physical-ai-development",
-      "image": "https://www.techpowerup.com/img/a1pTav63rGUcHsMo.jpg",
-      "description": "ASRock Industrial, a global provider of industrial computing and edge AI solutions, today announced the launch of RBK-100 Robotics-in-a-Box. Designed to simplify robotic AI development and make hands-on experimentation more accessible to researchers, educators, and developers, RBK-100 is an..."
-    },
-    {
-      "headline": "Platform Robotics Unveils New Softrim\u2122 Craft Product at MJBizCon 2026",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaExQUlppNmc1SGUzVjlRMld4TFk3N3RuWnJvbWx0WldReEdRZzEzcXpmc0pWcnFXWFRqU2VGRnhKQ0NKNUgzeURVMFozaTI2ZXBXRnh1LWx1eVgtS1g3VGdkRHlnZkxVZmlsbzVpcXdzWW1ycUxXbURHVG9oYTlRQTUyY2tyRlJRNzJuTlBFQmpLN2hjN2hJUzRIRVNwRTZac3RoazIwT0pLMi1uTUtWbUxmYWpETENFaWdWXzVIc1dWTXNsVjJCQg?oc=5",
-      "pub_date": 1795527960.0,
-      "article_url": "https://www.morningstar.com/news/pr-newswire/20261124ph05261/platform-robotics-unveils-new-softrim-craft-product-at-mjbizcon-2026",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "description": null
-    },
-    {
-      "headline": "How to Invest in Humanoid Robots: 3 Stocks to Watch",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3BneExEU1d4Vy1qQTN3SERSdUxtOEduVGhIaE5QRHJLQTBLa25uNkFCbWVGVFh3aUliWGFmWW1CeEpUTm9DT0ZDUDdOS215X0Y0eUpBSnppd1RHdmo1WjVmajZfb0dFcmZzRS1HYk4zZEd4MzBWWHhtaGh4R0s2VGtWLUNtYWgySWNxQWVSMDQwdldRSVlLRA?oc=5",
-      "pub_date": 1795487460.0,
-      "article_url": "https://www.fool.com/investing/2026/11/23/how-to-invest-in-humanoid-robots-3-stocks-to-watch/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F558f5d05d9d859f4d93d20f6267ddca5774f44db-3000x1999.jpg&w=1200&op=resize",
-      "description": "Humanoid robots are on the verge of becoming mainstream, and these three stocks are positioned to benefit."
-    },
-    {
-      "headline": "The 2027 Tipping Point: Humanoid Robots on Campus",
-      "source": "Inside Higher Ed",
-      "source_url": "https://www.insidehighered.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWlqRXhmRnFfUGxzVmlma3lXTmxMRnRsY05VMkw0eGg5blV1NDNmSkhJTG9WamhlVEJWZHA5S2thTGd6a1Q5dzVVZUs4NnJhN01zQkozeFUyWllBc2lHUVFpMEE4UEhDQVk2cTJMQ2E3Z2JMVEloYTJ4QU9PekhuYmtaMzc4aTY5Vzlyb3hRNmwwcjlCM0VmWHJYOE1KbFNPQWZVTC1WVVBSN0RGN3Izd2gydVc0VmM2bF93?oc=5",
-      "pub_date": 1795593600.0,
-      "article_url": "https://www.insidehighered.com/opinion/columns/online-trending-now/2026/11/25/2027-tipping-point-humanoid-robots-campus",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-04/Blog-Logo-Online%20Trending%20Now_0.png?itok=ZIBrioV1",
-      "description": "A very visible turning point is approaching in 2027, when we will see autonomous humanoid robots working with and engaging people on campus. They will have left the engineering research and development labs to begin making actual contributions \u201cin person.\u201d"
-    },
-    {
-      "headline": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmpvY1pGQzRtcWpnV1JBQXNwUGowRmNUcEFfV3NBX3BFR3ptTjl1UUpDZm5ackljOE1Kb1FrOWtKdEk0V1FzVE5VNUdUc01rQkgtcGFuQkltZThqMTM5NGpQc2lJeW5MYnRsY041dzMySzdONWJGRWYwV2ZqRE9CTDlrZnd5WFFSMl9FdUliTEZzQUJXZk5paExQZEQzSVVOLV84alNFdw?oc=5",
-      "pub_date": 1792998000.0,
-      "article_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
-      "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-25T08:14:42.617187+00:00"
+  "fetched_at": "2026-11-25T18:46:06.764424+00:00"
 }

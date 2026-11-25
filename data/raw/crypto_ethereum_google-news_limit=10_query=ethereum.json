@@ -5,7 +5,7 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "PQAI #1: One Hash to Rule Them All \u2014 Keccak-256 for Ethereum's Post-Quantum, Post-AI Era",
+      "headline": "PQAI #1: One hash to rule them all \u2014 Keccak-256 for Ethereum's post-quantum, post-AI era",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZVGsxYXo3dm5uRG5xQktOcmNmak5pby1OU01WVm9reXZob09RQXhTdjBvTWpDWU1SenN4T1VlV2c0bmdkNFZUNEpsUnNLWjNiWXdVOXdB?oc=5",
@@ -15,44 +15,34 @@
       "description": "We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography."
     },
     {
-      "headline": "PQAI #0: Preparing Ethereum for a post-quantum, post-AI world",
+      "headline": "Devcon 8 India Recap: Four Days in Mumbai, and What's Next",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yTm5WenFYZld0MUQ4c0pZV1lReDZURzVWbEs4aFpUcWg4Z0ZTbGNnOGxVMTJQd3o4RmVwTk05MkJFeUp6MVVQX09MQUdIRFpzT2VOY1Fn?oc=5",
-      "pub_date": 1795475282.0,
-      "article_url": "https://blog.ethereum.org/2026/11/23/pqai-0",
-      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
-      "description": "Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on..."
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GSlluNnVSWmdudnprSVdoZnRvYWdXYmZ1U0hScTRJSllNckswNEZKOHNOcWZBX0M1UGppSFQ2enhjQmF5Yk9hRVN2SmZjQUNvYkVRLWJBM0JFdDFFRktkb2RiQi1aZw?oc=5",
+      "pub_date": 1795627450.0,
+      "article_url": "https://blog.ethereum.org/2026/11/25/devcon-mumbai-wrap",
+      "image": "https://storage.googleapis.com/ethereum-hackmd/upload_8ecdef046d526e026f90ca3c38b34c2c.png",
+      "description": "*Thousands of builders at a global gathering of Ethereum communities and allies building open, secure and verifiable technology.* From November 3\u20136, the..."
     },
     {
-      "headline": "Bitmine's Ethereum Purchases Slip Into The Red Again, But Retail Traders Are Questioning \u2018Transparency\u2019 On Capital Allocation",
+      "headline": "Bitcoin, ethereum gain ground under new CFTC rules",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMS16elVObjNrd21pVlU1YXM0aWg3bWx1OFVVZ2lDcGhQenBGWVNxSkZCTzFFdU1ZS2FuRTBNZU00ZE52YjdNUXBBR3M2Wm45eEdoZ0k5RzJJTU9Xc1R5WVhCanktblJ2SjdjaGctVUI5bml3bTFXMmVsSWxGY2NJTmY4dVlDQU5ZeF93RVFzLXpLYWRXMnh6bkFGd09IUDFkWXRB?oc=5",
-      "pub_date": 1795499340.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmines-ethereum-purchases-slip-red-054937498.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9a2c9ae3ba8cf6461f0c1bb336f1681cacfbc0e748e969c78fd91d621ff8e864/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Ff8ba88ccd3ea8ec827c557522f3a385d",
-      "description": "Bitmine's latest update said the company has \u201cother moonshots at a cost of $50 million,\u201d but did not name them."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWi1IVERtcWROck82RHpmQmt5bWszWXBTUTVVaktIaExydmZUZEd2d1AxNjRRTnN4dmFLU0xvNlFmRm90bC10ZmZjc2dqTHhDei1rTHVlM2Q3bFkzVEN3dzhReklYWTdwUGtuTktPclZUQ0Ffb1hrLW94SjBnaEdaVUdrREw4MWRMeGdhb2lhcUZfc01vbGhWLWVjZUg?oc=5",
+      "pub_date": 1795538517.0,
+      "article_url": "https://finance.yahoo.com/video/bitcoin-ethereum-gain-ground-under-new-cftc-rules-164157249.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/dd2624cdeb44cbedbfd6052c8a1d0ac6f352fb24b1ead205d4ab2603557829ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1795538294369_9048.jpg",
+      "description": "Scott Melker discusses the changes to Commodity Futures Trading Commission (CFTC) regulations that allow bitcoin (BTC-USD), ethereum (ETH-USD), and stablecoins to count toward qualifying financial resource requirements for eligible exchanges and trading platforms. Melker examines what the regulatory shift could mean for institutional crypto adoption\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
     },
     {
-      "headline": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
+      "headline": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDY1NVRWUjEzTUZLN3Bpc3BzVWFFUWwySFIyV3dOT2MtcEQzbmdmeGZEV1doRjdCUWdxOG9SQnhmTVhKekFSeDRJSEtibi1kbFR1SFVnRmJWOXpyZWZMdmx3YWY3eUtDcVpUYk9odjBkTVJyT0FUbjNzUnFKb3ZnRA?oc=5",
-      "pub_date": 1795452363.0,
-      "article_url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg",
-      "description": "Bitmine Chairman Tom Lee argued the Ethereum supply has grown just 0.90% annually since mid-2025\u2014roughly matching Bitcoin\u2019s 0.82%."
-    },
-    {
-      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.09 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $11.1 Billion",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNX3o4Z3RNVVN3cEM0TkVIXzd4VkNNSElnZWkxV0tpZFlILXZWUl9oU2F2aHlNeG9nNUpEazkwZXhGOGwzQmg2OHAyT1hKYnVzcWJKYkFYSXBNWFdyNENINFpTSTQzSzJhR19NQ1N6UUtNMGlGcXk5VkJ0ZksyRVN5THpvUzVzb0RNX0cxcktaMDB3MDF1NmoyZUpnZXVWT2JfV0tjYTV0OHcyMU1ub0V0TGpQc2Jvd2xEUk5YWmJzVW1fc0RkMFJ3bEQwUUhDTEVUd2VTbGw4dkVYWDI2SXRmUmQ5STJNSDVtMEdJa1JrQmQ4cjFwR3pkMGVJUS0zaUhWaGNnM0VhbW9NYnU1bFh1dUJ5Q1JISkVqb2U5V1d0S1RaMFdoZGw3aXQyRW5CNG5WS1p6N1FXR2F4V1ppZDJzcU13?oc=5",
-      "pub_date": 1795440600.0,
-      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-09-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-11-1-billion-302947714.html",
-      "image": "https://mmx.prnewswire.com/media/MS2041112/ETH-Store-of-Value.jpg?id=OA3095396&p=facebook",
-      "description": "Bitmine owns 4.98% of the total ETH coin supply of 122.2 million Bitmine is 99% of the way to the 'Alchemy of 5%' in just 17 months Bitmine released its..."
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3ZjR2lMSmpZNjN1eXFyUWJRZHBleHZRWUQ5MEcxSzEzM0wwZmNGMm1lMjU2VEpFbUpkNENQVUdCMGNMY0hXcjFXZnBEWWlWTXltU2Q2REJmdWRBeXNVdldZMDBsc293aXRYSUJaQ3NWR29NYk9rUmlOcjJwRndSMzNpQkRWQzdLWElDa3p3?oc=5",
+      "pub_date": 1795552562.0,
+      "article_url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png",
+      "description": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats."
     },
     {
       "headline": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says 'we do not take this lightly'",
@@ -65,6 +55,16 @@
       "description": "The repayment leaves the company holding about 24,245 ETH, alongside $17.9 million in convertible notes due in 2027."
     },
     {
+      "headline": "Current price of Ethereum for November 25, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMFpySzBUbDZUVTZJaV9lMlhKMUFBNVN0LTBGNEVpZ3ZTSUJhQnNNQjNyRmc0bkVFR08zMW8yd2l1QWJKcW9Yc1F3djhEb29iY1ZHdFR2X0VjQ2ROSlZjSmZ4SF9Cdl8x?oc=5",
+      "pub_date": 1795613174.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-11-25-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-25.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
       "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -75,36 +75,36 @@
       "description": null
     },
     {
-      "headline": "Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here\u2019s What The CFTC Changed",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSlkxZGRfMWpNc3VWamlUc3JoYkc4MkhWeFVfb0g5eWU4R0pYYWxVR0NfSEpUYVhkSkZVV0RMWlBvYWU0M0Z2OWNSc0ZKR0tNQndpcEpoczR3ZE9xV0taM0xHcG9NTFVpaTdZdmloWEc5MjFPbW1yejlxNGVyNENVLXZVMnhfRmRtNlhLRUtWa3lYQUJ3WmpfNnJDblFmR1AxZE9NZGU0bFZOS1lfdUk3bVhNeElNNEJPaGUwMVZjeS1FMlB5SDkxVHNJWEV4ajZkblVwa2p1UWJxLUNTNzRxd3k1Z3Y4ZlBtZUE?oc=5",
-      "pub_date": 1795488660.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:42afaa361094b:0-bitcoin-and-ethereum-get-a-bigger-role-in-us-derivatives-markets-here-s-what-the-cftc-changed/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Regulated crypto exchanges and derivatives platforms are getting an easier path to using digital assets in their operations, as the Commodity Futures Trading Commission (CFTC) is allowing them to count Bitcoin (BTC), Ethereum (ETH) and payment stablecoins toward reserves needed to cover a year of o\u2026"
+      "headline": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYXdiUUxxdkpkdVhvSk5jZHNWTlZXR1ZiYktZTUhpTWdvRDM2WnN0S2NwajRnek9PMFR3amlRTjNRTm1MbUpsaUowR1lFTVl6TTJGTmotaWJJa1dtS1VXLWNfRXZ1eDBJMGI1UFFsZ3JNMzMwWEJXSUlrX2VCNTdwRk5JSFpBVnZNSTVxY1ItRXZ3SjVNck5pb0wwc0V2MGFyVFZLSzFQMjAxTmtQ?oc=5",
+      "pub_date": 1795608024.0,
+      "article_url": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/vaneck-gemini-settlement-junction.webp",
+      "description": "VanEck is terminating Gemini's custody and clearing agreements across three spot crypto ETFs managing $934.2 million in net assets."
     },
     {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP extend losses as oversold crypto market eyes yearly lows",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWkYzSE9Mb0p2NXA2OXdCb1U3UzF5cFdlT2dZZFJpd3B3NUtwWDZtX2tJTHdMbng3SmFIWEJ6S0lRTUptbjhvNDU4VVpIc1NITXVNMFladHpkUXRmUHVoT0FoSDZlOUxoWHRVVmVfZWlPb3dwSTB5cE0zQ2dmUkdRMWlJVDVkSDROOTlwNktzckdLektyNE5RY3N3RnVtUVNxanEwZG5WM1dSSHc1VFQyQ0xLU29WbzJSOFo4OVJjWXdQZ0VrcnVjNWRIV1luNnF6QXY2SjR0MTVCUnlRbEpiaG1fakNYZDlweU8zSmRBcXZfQ0IweWtRdGlYMlhuUHllUG5wbnZTUE5PS00?oc=5",
-      "pub_date": 1795579003.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-extend-losses-as-oversold-crypto-market-eyes-yearly-lows-202611250356",
+      "headline": "Ethereum Institutional readies new platform to bring big finance onchain",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDdpXzIxU1ZIbGlNLVBWRXdLc1dPUzRCYTBoVHQxRjlPMEQ2RVY1NjYwUUhvR2Y5bFZQVGNTLWlORDlFQVdfb0lrdDFqOGhrb19lbFZaVWxQTVQwYnlNeVhaMG1pVUJXeHUwbjhtc0RCcDU1YU9tOVpDZ1hiNkQzeg?oc=5",
+      "pub_date": 1795621628.0,
+      "article_url": "https://cryptobriefing.com/ethereum-institutional-platform-onchain-finance/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/25104700/library-ethereum-institutional-readies-new-platform-to-bring-big-800x450.jpg",
+      "description": "Ethereum Institutional opens a waitlist for a platform offering research and blueprints to help institutions build tokenized onchain products."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Pull Back Amid Trump Tariff Jitters: Analyst Charts 'Phenomenal' BTC Buy",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWliNHRxN3dvNHVhZUpQYjBlNTNDSlp1dER2WlJ2QlZaSERReUNKRnJjN2Z5VTM5UWtFV0I0TlZMV1F6dlBnUVFvWVByNzZzcV9uV0Z0VVJYcG1DQnZxN2RlaFJhLTFDZjRqWkpOa0N5a0kyeUJTSXd6ZlpGZ2hVaUcxaFB4OEtSMzRnYzVNbVRON3BWcEY1RHRlWUMwM3NNNEdzTzZCUnZFWlpwTHlvR1FB?oc=5",
+      "pub_date": 1795571062.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63613214/bitcoin-ethereum-xrp-dogecoin-crypto-trump-tariffs",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Current price of Ethereum for November 24, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZWIwWWNFV2FMY1dQUE5YN1M4cldkSGRGcHA4T0U5Zzh5TDRVSEJYM2JUR0JGR3J4dldhTy1hYU5wS3NxaTRxRlp2WFpYdk96Q2xNdFhiVGZsTEo5S1h5cDU3ZU9mMDIt?oc=5",
-      "pub_date": 1795525200.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-24-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-24.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-25T08:14:42.020576+00:00"
+  "fetched_at": "2026-11-25T18:46:03.722991+00:00"
 }
