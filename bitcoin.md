@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-25T08:14:49.578360+00:00'
+updated: '2026-11-25T18:46:09.121018+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 25, 2026 at 08:14 UTC  
+**Last Updated:** November 25, 2026 at 18:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $58,913.81
+### $59,615.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -4.9%  
-**30d:** -27.2%  
-**90d:** -24.3%  
-**1y:** -35.0%  
+**24h:** -0.0%  
+**7d:** -3.7%  
+**30d:** -26.3%  
+**90d:** -23.3%  
+**1y:** -34.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1183.04B
+**Market Cap:** $1198.58B
 Rank #1
 
-**Circulating Supply:** 20,117,071 BTC
+**Circulating Supply:** 20,117,275 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--53.4%
+-52.7%
 
 **All-Time Low:** $67.81
-+86624.7%
++87791.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hit my goal of a quarter of a bitcoin, feels good
 
-9d ago
+10d ago
 
 ---
 
@@ -89,7 +89,7 @@ Hit my goal of a quarter of a bitcoin, feels good
 
 We’re so back! /s
 
-9d ago
+10d ago
 
 ---
 
@@ -111,7 +111,7 @@ Congrats everyone.
 
 Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian reseller CryptoBilis contained unauthorized circuit boards designed to capture recovery phrases and transmit them through cellular networks. The affected purchases occurred between August 20 and September 23. Trezor released firmware 2.13.1 on November 11 to block the identified implant behavior. No affected customers had reported losing funds at the time of the disclosure. Hardware wallets are not automatically trustworthy if their physical supply chain is compromised. Firmware updates cannot undo recovery phrases already stolen.
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 9d ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/) • 10d ago
 
 ---
 
@@ -155,23 +155,9 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus](https://www.bloomberg.com/news/articles/2026-11-24/bitcoin-fails-to-hold-nvidia-bump-with-crypto-headwinds-in-focus)**
+**[Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion](https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-funds-head-for-worst-month-as-outflows-near-5-billion)**
 
-Bloomberg.com • 10h ago
-
----
-
-**[Nvidia (NVDA) comeback sparks AI trade rebound, but bitcoin (BTC) price struggles to keep up](https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank)**
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Price Nears $60K Despite Saylor’s BTC Buy: Is the Bottom In?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-nears-60k-despite-145714968.html)**
-
-In Bitcoin News today, BTC USD price is trading at around $60,200, down a further -1.5% on the day after a brief but sharp rally faded, with price action, institutional flows, and derivatives data pointing to continued market caution. Saylor is back buying Bitcoin, Jensen Huang is back as Nvidia’s ...
-
-Yahoo Finance • 17h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -181,49 +167,63 @@ CoinDesk • 2d ago
 
 ---
 
-**[Is Michael Saylor's bitcoin strategy losing its appeal?](https://finance.yahoo.com/video/is-michael-saylors-bitcoin-strategy-losing-its-appeal-151603542.html)**
+**[Elon Musk Sends Warning to Bitcoin Creators After $271,000 Fraud Case](https://finance.yahoo.com/markets/crypto/articles/elon-musk-sends-warning-bitcoin-171831267.html)**
 
-As Strategy (MSTR) valuation reportedly dips below the value of its bitcoin (BTC-USD) holdings. "The 8:30" hosts Julie Hyman and Jake Conley welcome Barron's reporter Jacob Sonenshine to discuss Michael Saylor's strategy. Raising a bigger question: Are investors buying into the bitcoin play or betting on Saylor himself?
+Elon Musk warns 'Don't mess with X' after a UK court rules against Bitcoin accounts X says gamed its creator payouts.
 
-Yahoo Finance • 16h ago
-
----
-
-**[Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines](https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061)**
-
-CleanSpark ended its fiscal year with $1.1 billion in bitcoin as it presses forward with AI data center development.
-
-The Block • 10h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?](https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near)**
+**[Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators](https://finance.yahoo.com/markets/crypto/articles/elon-musk-x-wins-court-171602717.html)**
 
-Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms.
+London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing.
 
-Decrypt • 12h ago
-
----
-
-**[Can Bitcoin Regain the $90,000 Price Level by Year End? Galaxy Digital CEO Mike Novogratz Says It's Unlikely.](https://www.fool.com/investing/2026/11/24/can-bitcoin-regain-the-90000-price-level-by-year-end-galaxy-digital-ceo-mike-novogratz-says-its-unlikely/)**
-
-New macroeconomic headwinds could delay a much-anticipated Bitcoin rally.
-
-The Motley Fool • 19h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Current price of Bitcoin for November 23, 2026](https://fortune.com/article/price-of-bitcoin-11-23-2026/)**
+**[In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?](https://www.fool.com/investing/2026/11/24/in-response-to-the-turmoil-at-nvidia-bitcoin-drops-below-usd70-000-is-this-a-buy-the-dip-opportunity/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bitcoin's mediocre response to Jensen Huang returning to Nvidia is a bit concerning for the coin's potential buyers.
 
-Fortune • 1d ago
+The Motley Fool • 20h ago
 
 ---
 
-**[Bitcoin Leads Crypto Holdings for High Net Worth Investors](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/bitcoin-leads-crypto-holdings-high-net-worth-investors/)**
+**[Bitcoin Price Drops Below $60,000 As Crypto Market Erases Gains From Nvidia Rally](https://www.forbes.com/sites/siladityaray/2026/11/24/bitcoin-slips-below-60000-again-after-short-lived-nvidia-fueled-rally/)**
 
-ETF Database • 13h ago
+Forbes • 1d ago
+
+---
+
+**[Bitcoin And Stocks Are Moving In Different Directions: Arthur Hayes Says Nvidia's Rally Is The 'Worst Thing' For Crypto](https://finance.yahoo.com/markets/crypto/articles/bitcoin-stocks-moving-different-directions-064525257.html)**
+
+Hayes said Anthropic's failure to close higher on the same day showed buyers fading rallies.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy Is Worth $4 Billion Less Than Its Bitcoin Amid Liquidity Squeeze](https://www.investors.com/news/mstr-stock-worth-5-billion-less-than-bitcoin-value-liquidity-squeeze-gld-ibit/)**
+
+MSTR stock is now worth over $4 billion less than the value of its bitcoin and cash holdings. The market's harsh critique comes amid a liquidity squeeze.
+
+Investor's Business Daily • 1h ago
+
+---
+
+**[It’s ‘Coming’—Massive AI Crash Predicted To Trigger $25 Trillion Bitcoin Price Boom](https://www.forbes.com/sites/digital-assets/2026/11/25/its-coming-massive-ai-crash-predicted-to-trigger-25-trillion-bitcoin-price-boom/)**
+
+Forbes • 6h ago
+
+---
+
+**[Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000](https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109)**
+
+Cathie Wood's Ark Invest sold $6.81 million worth of shares in its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn.
+
+The Block • 11h ago
 
 ---
 
@@ -233,7 +233,7 @@ ETF Database • 13h ago
 
 **[Bitcoin falls to its lowest in two years](https://news.ycombinator.com/item?id=50588272)**
 
-⬆️ 16 • 💬 4 • 3d ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
+⬆️ 16 • 💬 4 • 4d ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
 
 ---
 
@@ -249,7 +249,7 @@ Notes on mathematics and puzzles.
 
 Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...
 
-⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
+⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
 
 ---
 
@@ -257,7 +257,7 @@ Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Li
 
 The all-in cost of buying $1,000 of Bitcoin in 58 countries: exchange fee, spread, deposit, currency conversion and withdrawal, at the cheapest exchange in each.
 
-⬆️ 2 • 💬 1 • 10h ago • [CryptoTrueCost](https://www.cryptotruecost.com/en/bitcoin-cost-map/)
+⬆️ 2 • 💬 1 • 20h ago • [CryptoTrueCost](https://www.cryptotruecost.com/en/bitcoin-cost-map/)
 
 ---
 
@@ -265,7 +265,7 @@ The all-in cost of buying $1,000 of Bitcoin in 58 countries: exchange fee, sprea
 
 bitcoin is currently trading at less than $60,000 JPMorgan estimates it costs about $86,000 to mine one
 
-⬆️ 2 • 💬 0 • 13h ago • [Molly White](https://www.mollywhite.net/micro/entry/202611212317)
+⬆️ 2 • 💬 0 • 1d ago • [Molly White](https://www.mollywhite.net/micro/entry/202611212317)
 
 ---
 
@@ -273,7 +273,7 @@ bitcoin is currently trading at less than $60,000 JPMorgan estimates it costs ab
 
 CVE-2026-117348 - Node stall through duplicate orphan announcements
 
-⬆️ 2 • 💬 0 • 2d ago • [Bitcoin Core](https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/)
+⬆️ 2 • 💬 0 • 3d ago • [Bitcoin Core](https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/)
 
 ---
 
@@ -281,15 +281,7 @@ CVE-2026-117348 - Node stall through duplicate orphan announcements
 
 The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.
 
-⬆️ 1 • 💬 1 • 3d ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
-
----
-
-**[Show HN: TimestampGit – 1-click GitHub App that anchors commits to Bitcoin](https://news.ycombinator.com/item?id=50547352)**
-
-TimestampGit — OpenTimestamps and blockchain timestamp verification: how to prove code existed at a specific time. Automatically anchors Git commits to Bitcoin.
-
-⬆️ 1 • 💬 0 • 6d ago • [timestampgit.dev](https://timestampgit.dev)
+⬆️ 1 • 💬 1 • 4d ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
 
 ---
 
@@ -297,7 +289,7 @@ TimestampGit — OpenTimestamps and blockchain timestamp verification: how to pr
 
 Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.
 
-⬆️ 1 • 💬 0 • 4d ago • [usenunya.com](https://usenunya.com/)
+⬆️ 1 • 💬 0 • 5d ago • [usenunya.com](https://usenunya.com/)
 
 ---
 
@@ -305,7 +297,15 @@ Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Pot
 
 Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.
 
-⬆️ 40 • 💬 6 • 1d ago • [gnomon.bitsinfra.com](https://gnomon.bitsinfra.com/)
+⬆️ 40 • 💬 6 • 2d ago • [gnomon.bitsinfra.com](https://gnomon.bitsinfra.com/)
+
+---
+
+**[Show HN: Ditching Markdown for an interactive AI Agent guide in pure HTML](https://news.ycombinator.com/item?id=50628070)**
+
+An interactive engineering guide to LLMs, Agents, and RAG
+
+⬆️ 3 • 💬 0 • 1d ago • [qufei1993.github.io](https://qufei1993.github.io/ai-agent-guide/en/index.html)
 
 ---
 
@@ -313,83 +313,23 @@ Git for Postgres data, built for agents: branches, history, merges and undo insi
 
 ## YouTube Videos: "bitcoin"
 
-**[Everybody just started taking Bitcoin as collateral.](https://www.youtube.com/watch?v=yJE-mU3kur8)**
+**[Bitcoin Dumps as Tech Panic Spreads](https://www.youtube.com/watch?v=sx-ga5mWvJI)**
 
-Three institutions changed what Bitcoin can be used for, and two of them did it on the same day. CFTC staff said exchanges and ...
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Clashpad.Fun - *Launch a Token. Reward the ...
 
-📺 Yahoo Finance
+📺 CryptosRUs
 
-👁️ 48K • 👍 566 • 💬 63 • ⏱️ 14:52 • 14h ago
-
----
-
-**[BITCOIN WARNING: REJECTION CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=lEGKCzc8mXk)**
-
-BITCOIN WARNING: REJECTION CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 187 • 💬 60 • ⏱️ 17:22 • 5h ago
+👁️ 18K • 👍 602 • 💬 79 • ⏱️ 46:11 • 3h ago
 
 ---
 
-**[BITCOIN IS ABOUT TO MAKE A HUGE MOVE!!!!](https://www.youtube.com/watch?v=7mLjVwS741M)**
+**[Bitcoin Drops Below $60k Again. My Plan.](https://www.youtube.com/watch?v=xK1w_jTExKs)**
 
-YUBIT hhttps://ckenny.com/YBN $500 Nvidia Postion MY FREE TRADE ALERTS https://ckenny.com/YBTM FREE 1000 ...
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trade on BTCC & 10% ...
 
-📺 Conor Kenny
+📺 Aaron Bennett
 
-👁️ 23K • 👍 593 • 💬 77 • ⏱️ 15:58 • 22h ago
-
----
-
-**[Bitcoin a ‘Struggle’ Right Now: Kiani](https://www.youtube.com/watch?v=9Kt8aDDyAKE)**
-
-Ayesha Kiani, COO of Monarq Asset Management, joins Scarlet Fu and Tim Stenovec on “Bloomberg Crypto.” Bitcoin is set to ...
-
-📺 Bloomberg Television
-
-👁️ 4K • 👍 17 • 💬 8 • ⏱️ 3:44 • 12h ago
-
----
-
-**[Will Bitcoin DUMP EVEN LOWER? (The Halving Says THIS)](https://www.youtube.com/watch?v=kll-YLeEHNU)**
-
-Will Bitcoin dump even lower? Nick Valdez, Chief Crypto Strategist for Verified Investing, looks at one of the most important ...
-
-📺 Verified Investing
-
-👁️ 23K • 👍 685 • 💬 20 • ⏱️ 24:52 • 13h ago
-
----
-
-**[Roaul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=ceEI_dm2b8k)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 49K • 👍 610 • 💬 88 • ⏱️ 28:19 • 14h ago
-
----
-
-**[Why 42 MACRO Thinks Bitcoin Could Still Crash to $38,400](https://www.youtube.com/watch?v=iQoaNL2CqWw)**
-
-Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals https://www.coinbureau.com/deals/ ...
-
-📺 Coin Bureau
-
-👁️ 9K • 👍 188 • 💬 17 • ⏱️ 1:28 • 16h ago
-
----
-
-**[Extreme Fear Is Back. Last Time, Bitcoin Did This](https://www.youtube.com/watch?v=1cjakTojKqU)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 249 • 💬 26 • ⏱️ 10:19 • 11h ago
+👁️ 17K • 👍 439 • 💬 95 • ⏱️ 14:53 • 9h ago
 
 ---
 
@@ -399,17 +339,77 @@ PREPARE $30000 BITCOIN IS COMING BTC MINERS ARE IN TROUBLE?! Hey babes, Bitcoin 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 286 • 💬 14 • ⏱️ 6:17 • 10h ago
+👁️ 11K • 👍 320 • 💬 53 • ⏱️ 6:17 • 20h ago
 
 ---
 
-**[They’re About To Reset The Price Of Gold, Silver, And Bitcoin](https://www.youtube.com/watch?v=ZFeXrGgUXx8)**
+**[Is It Safe To BUY Bitcoin &amp; Stocks At These Prices? [The Truth]](https://www.youtube.com/watch?v=MLRV6kYoX5U)**
 
-Gusto: Get 3-months FREE when you run your first payroll at http://gusto.com/MINDSET *This is an advertiser. Minority Mindset is ...
+In today's video we outline whether or not it's safe to be a buyer of risk on assets at these prices. This is after significant ...
 
-📺 Minority Mindset
+📺 Crypto Banter
 
-👁️ 509K • 👍 7K • 💬 656 • ⏱️ 23:29 • 1d ago
+👁️ 22K • 👍 920 • 💬 18 • ⏱️ 43:45 • 10h ago
+
+---
+
+**[Everybody just started taking Bitcoin as collateral.](https://www.youtube.com/watch?v=yJE-mU3kur8)**
+
+Three institutions changed what Bitcoin can be used for, and two of them did it on the same day. CFTC staff said exchanges and ...
+
+📺 Yahoo Finance
+
+👁️ 53K • 👍 627 • 💬 111 • ⏱️ 14:52 • 1d ago
+
+---
+
+**[Wie tief wird Bitcoin noch fallen?](https://www.youtube.com/watch?v=S-STz2Vab4E)**
+
+Nach über vier Jahren wurde erstmals wieder eine Bitcoin-Zielzone der HKCM invalidiert – doch an unserer langfristig bärischen ...
+
+📺 HKCM
+
+👁️ 10K • 👍 1K • 💬 88 • ⏱️ 15:41 • 1h ago
+
+---
+
+**[Michael Saylor: &quot;History is Repeating for Bitcoin&quot;](https://www.youtube.com/watch?v=Ybs3g0hu-CY)**
+
+Michael Saylor: “An Urgent Message To All Bitcoin Holders!” Earn $14550 as a new user on Bitbase (sign-up & trading ...
+
+📺 Altcoin Daily
+
+👁️ 76K • 👍 2K • 💬 191 • ⏱️ 12:10 • 2d ago
+
+---
+
+**[Live Crypto Trading Today | Bitcoin &amp; Altcoin Market Analysis | Live Trading Session](https://www.youtube.com/watch?v=kIOegtbN8Q4)**
+
+Open Crypto/Gold Trading Account: https://india.delta.exchange/?code=stockburner Explore Deeepr AI: https://deeepr.ai/ Join ...
+
+📺 Stock Burner
+
+👁️ 21K • 👍 4K • 1h ago
+
+---
+
+**[The $55k Bitcoin Crash Explained: What Happened Every Other Time Bitcoin Did This?](https://www.youtube.com/watch?v=Q2JbbQEzuhk)**
+
+Banking outages, leaked customer data, and growing cyber threats are exposing just how fragile our financial infrastructure can ...
+
+📺 Simply Bitcoin
+
+👁️ 38K • 👍 1K • 💬 112 • ⏱️ 11:53 • 2d ago
+
+---
+
+**[Something Weird Is Happening In Bitcoin](https://www.youtube.com/watch?v=vmAsVpZFXmw)**
+
+Bitcoin was built for a world of failing banks, inflation, political instability, and unreliable financial systems. Yet in 2026, while many ...
+
+📺 BTCPrague
+
+👁️ 43K • 👍 711 • 💬 137 • ⏱️ 15:48 • 10h ago
 
 ---
 
