@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-25T18:46:09.121018+00:00'
+updated: '2026-11-26T02:03:22.661116+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 25, 2026 at 18:46 UTC  
+**Last Updated:** November 26, 2026 at 02:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,615.90
+### $60,789.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -3.7%  
-**30d:** -26.3%  
-**90d:** -23.3%  
-**1y:** -34.1%  
+**24h:** +2.2%  
+**7d:** +3.1%  
+**30d:** -25.3%  
+**90d:** -22.3%  
+**1y:** -33.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1198.58B
+**Market Cap:** $1222.30B
 Rank #1
 
-**Circulating Supply:** 20,117,275 BTC
+**Circulating Supply:** 20,117,487 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--52.7%
+-51.8%
 
 **All-Time Low:** $67.81
-+87791.2%
++89475.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 13
+### 11
 **EXTREME FEAR**
 
 ---
@@ -97,13 +97,13 @@ We’re so back! /s
 
 Congrats everyone.
 
-10d ago
+11d ago
 
 ---
 
 **[bitcoin will be 170k-200k in sep 2029](https://www.reddit.com/r/Bitcoin/comments/1xx3wds/bitcoin_will_be_170k200k_in_sep_2029/)**
 
-9d ago
+10d ago
 
 ---
 
@@ -133,13 +133,13 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 I really have no words of hope. But I am holding on.
 
-10d ago
+11d ago
 
 ---
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1xwizma/hodl/)**
 
-10d ago
+11d ago
 
 ---
 
@@ -155,75 +155,73 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion](https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-funds-head-for-worst-month-as-outflows-near-5-billion)**
+**[Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor](https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor)**
 
-Bloomberg.com • 3h ago
+Rep. Nick Begich's Strategic Bitcoin Reserve bill, with a 20-year ban on selling reserve bitcoin, cleared the House Financial Services Committee.
 
----
-
-**[Bitcoin, XRP plunged more than 70% on Kraken, and buyers get to keep cheap coins](https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand)**
-
-CoinDesk • 2d ago
-
----
-
-**[Elon Musk Sends Warning to Bitcoin Creators After $271,000 Fraud Case](https://finance.yahoo.com/markets/crypto/articles/elon-musk-sends-warning-bitcoin-171831267.html)**
-
-Elon Musk warns 'Don't mess with X' after a UK court rules against Bitcoin accounts X says gamed its creator payouts.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators](https://finance.yahoo.com/markets/crypto/articles/elon-musk-x-wins-court-171602717.html)**
-
-London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing.
-
-Yahoo Finance • 1h ago
-
----
-
-**[In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?](https://www.fool.com/investing/2026/11/24/in-response-to-the-turmoil-at-nvidia-bitcoin-drops-below-usd70-000-is-this-a-buy-the-dip-opportunity/)**
-
-Bitcoin's mediocre response to Jensen Huang returning to Nvidia is a bit concerning for the coin's potential buyers.
-
-The Motley Fool • 20h ago
-
----
-
-**[Bitcoin Price Drops Below $60,000 As Crypto Market Erases Gains From Nvidia Rally](https://www.forbes.com/sites/siladityaray/2026/11/24/bitcoin-slips-below-60000-again-after-short-lived-nvidia-fueled-rally/)**
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin And Stocks Are Moving In Different Directions: Arthur Hayes Says Nvidia's Rally Is The 'Worst Thing' For Crypto](https://finance.yahoo.com/markets/crypto/articles/bitcoin-stocks-moving-different-directions-064525257.html)**
-
-Hayes said Anthropic's failure to close higher on the same day showed buyers fading rallies.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy Is Worth $4 Billion Less Than Its Bitcoin Amid Liquidity Squeeze](https://www.investors.com/news/mstr-stock-worth-5-billion-less-than-bitcoin-value-liquidity-squeeze-gld-ibit/)**
-
-MSTR stock is now worth over $4 billion less than the value of its bitcoin and cash holdings. The market's harsh critique comes amid a liquidity squeeze.
-
-Investor's Business Daily • 1h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
 **[It’s ‘Coming’—Massive AI Crash Predicted To Trigger $25 Trillion Bitcoin Price Boom](https://www.forbes.com/sites/digital-assets/2026/11/25/its-coming-massive-ai-crash-predicted-to-trigger-25-trillion-bitcoin-price-boom/)**
 
-Forbes • 6h ago
+Forbes • 13h ago
 
 ---
 
-**[Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000](https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109)**
+**[One Big Difference Between Bitcoin and Pearl: There’s ‘No True Fair Launch Anymore’](https://finance.yahoo.com/video/one-big-difference-between-bitcoin-010045398.html)**
 
-Cathie Wood's Ark Invest sold $6.81 million worth of shares in its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn.
+Ryan Watkins, Co-Founder of Syncracy Capital, responds to criticism of Pearl’s $55 million raise and concentrated mining, saying insiders hold about 5% of supply and no launch since Bitcoin can be truly fair. From Unchained, the no-hype resource for all things crypto.
 
-The Block • 11h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin’s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries](https://www.forbes.com/sites/digital-assets/2026/11/25/bitcoins-slide-below-60000-is-a-stress-test-for-corporate-crypto-treasuries/)**
+
+Forbes • 1h ago
+
+---
+
+**[Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tokenized-gold-trading-euros-000200659.html)**
+
+Chainalysis data links euro trading in Bitcoin and tokenized gold to eurozone yields, but the signal has clear limits.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Miners Hammered Again as Price Rout Squeezes Margins](https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins)**
+
+Bloomberg • 6h ago
+
+---
+
+**[Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan](https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan)**
+
+CoinDesk • 10h ago
+
+---
+
+**[Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion](https://www.fool.com/coverage/stock-market-today/2026/11/24/crypto-market-today-nov-24-bitcoin-falls-below-usd60-000-as-etf-outflows-hit-a-record-usd4-7-billion/)**
+
+Record withdrawals from Bitcoin investment funds are adding to selling pressure across cryptocurrencies, raising concerns about whether the market can withstand another downturn in technology stocks.
+
+The Motley Fool • 1d ago
+
+---
+
+**['Don't mess with X,' Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case](https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151)**
+
+The two defendants did not respond to X's claim, leaving damages and interest to be determined at a later disposal hearing.
+
+The Block • 13h ago
+
+---
+
+**[Liquidity peaked. First bitcoin fell, then gold and now stocks. Here’s how long the downturn will last, according to this veteran strategist.](https://www.marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4)**
+
+MarketWatch • 12h ago
 
 ---
 
@@ -241,7 +239,7 @@ The Block • 11h ago
 
 Notes on mathematics and puzzles.
 
-⬆️ 7 • 💬 0 • 3d ago • [echo.ls](https://echo.ls/zden-level-halv/)
+⬆️ 7 • 💬 0 • 4d ago • [echo.ls](https://echo.ls/zden-level-halv/)
 
 ---
 
@@ -257,7 +255,7 @@ Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Li
 
 The all-in cost of buying $1,000 of Bitcoin in 58 countries: exchange fee, spread, deposit, currency conversion and withdrawal, at the cheapest exchange in each.
 
-⬆️ 2 • 💬 1 • 20h ago • [CryptoTrueCost](https://www.cryptotruecost.com/en/bitcoin-cost-map/)
+⬆️ 2 • 💬 1 • 1d ago • [CryptoTrueCost](https://www.cryptotruecost.com/en/bitcoin-cost-map/)
 
 ---
 
@@ -313,33 +311,83 @@ An interactive engineering guide to LLMs, Agents, and RAG
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin and the Realized Price](https://www.youtube.com/watch?v=mPDwkBYWJo8)**
+
+Into The Cryptoverse Premium BLACK Friday Sale (use discount code blackfriday for 50% off your 1st invoice): ...
+
+📺 Benjamin Cowen
+
+👁️ 90K • 👍 4K • 💬 158 • ⏱️ 11:05 • 7h ago
+
+---
+
+**[$3.6 TRILLION GONE | Why This Crash Is Hiding a Bullish Bitcoin Signal?!](https://www.youtube.com/watch?v=Z-hKP_6_lg4)**
+
+Bitcoin fell to about $57400 as markets sold off into Thanksgiving, and Rustin argues a hidden bullish signal is building ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 734 • 💬 81 • ⏱️ 16:52 • 3h ago
+
+---
+
+**[Before You Panic About Bitcoin, Watch This](https://www.youtube.com/watch?v=HU-UacPsJ7E)**
+
+For long-term holders who want a clear head through the cycles, Learning Crypto membership: ...
+
+📺 Crypto Tips
+
+👁️ 21K • 👍 628 • 💬 99 • ⏱️ 12:12 • 9h ago
+
+---
+
+**[11.6M Bitcoin Underwater. Do Too Much &amp; Lose BILLIONS](https://www.youtube.com/watch?v=eGiLzqQJRr0)**
+
+A record 11.6 million Bitcoin are underwater, and this is when people do too much. Carl Icahn's fortune fell by an estimated $25 ...
+
+📺 Digital Asset News
+
+👁️ 5K • 👍 237 • 💬 25 • ⏱️ 19:04 • 4h ago
+
+---
+
+**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=LYuwvF0CzOc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 54 • 💬 17 • ⏱️ 25:35 • 6h ago
+
+---
+
 **[Bitcoin Dumps as Tech Panic Spreads](https://www.youtube.com/watch?v=sx-ga5mWvJI)**
 
 AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Clashpad.Fun - *Launch a Token. Reward the ...
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 602 • 💬 79 • ⏱️ 46:11 • 3h ago
+👁️ 28K • 👍 784 • 💬 251 • ⏱️ 46:11 • 10h ago
 
 ---
 
-**[Bitcoin Drops Below $60k Again. My Plan.](https://www.youtube.com/watch?v=xK1w_jTExKs)**
+**[Stanford Professor Makes the Bitcoin Bull Case](https://www.youtube.com/watch?v=oi_Lez1UfWc)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Trade on BTCC & 10% ...
+Bitcoin is "really very underutilized as a productive asset," and new #cryptography like witness encryption could put idle #Bitcoin ...
 
-📺 Aaron Bennett
+📺 Bitcoin Magazine
 
-👁️ 17K • 👍 439 • 💬 95 • ⏱️ 14:53 • 9h ago
+👁️ 741 • 👍 24 • 💬 1 • ⏱️ 0:53 • 3h ago
 
 ---
 
-**[PREPARE $30,000 BITCOIN IS COMING BTC MINERS ARE IN TROUBLE?!](https://www.youtube.com/watch?v=Jr3aG_gboT8)**
+**[The Crash Was a LIE! Why Bitcoin&#39;s Bottom Is Finally In](https://www.youtube.com/watch?v=0shaXx_n870)**
 
-PREPARE $30000 BITCOIN IS COMING BTC MINERS ARE IN TROUBLE?! Hey babes, Bitcoin mining is facing a major shake-up ...
+Bitcoin crashed to $55000, NVIDIA CEO Jensen Huang was suddenly reinstated, and the stock market staged a historic reversal.
 
-📺 CryptoWendyO
+📺 Simply Bitcoin
 
-👁️ 11K • 👍 320 • 💬 53 • ⏱️ 6:17 • 20h ago
+👁️ 46K • 👍 2K • 💬 165 • ⏱️ 18:41 • 2d ago
 
 ---
 
@@ -349,67 +397,17 @@ In today's video we outline whether or not it's safe to be a buyer of risk on as
 
 📺 Crypto Banter
 
-👁️ 22K • 👍 920 • 💬 18 • ⏱️ 43:45 • 10h ago
+👁️ 23K • 👍 946 • 💬 18 • ⏱️ 43:45 • 18h ago
 
 ---
 
-**[Everybody just started taking Bitcoin as collateral.](https://www.youtube.com/watch?v=yJE-mU3kur8)**
+**[The Bitcoin Bottom](https://www.youtube.com/watch?v=Nk9U3kcq8pE)**
 
-Three institutions changed what Bitcoin can be used for, and two of them did it on the same day. CFTC staff said exchanges and ...
+Become an Enjoyer: https://www.skool.com/marketenjoyers/about Get the FREE Weekly Report: ...
 
-📺 Yahoo Finance
+📺 Crypto Currently
 
-👁️ 53K • 👍 627 • 💬 111 • ⏱️ 14:52 • 1d ago
-
----
-
-**[Wie tief wird Bitcoin noch fallen?](https://www.youtube.com/watch?v=S-STz2Vab4E)**
-
-Nach über vier Jahren wurde erstmals wieder eine Bitcoin-Zielzone der HKCM invalidiert – doch an unserer langfristig bärischen ...
-
-📺 HKCM
-
-👁️ 10K • 👍 1K • 💬 88 • ⏱️ 15:41 • 1h ago
-
----
-
-**[Michael Saylor: &quot;History is Repeating for Bitcoin&quot;](https://www.youtube.com/watch?v=Ybs3g0hu-CY)**
-
-Michael Saylor: “An Urgent Message To All Bitcoin Holders!” Earn $14550 as a new user on Bitbase (sign-up & trading ...
-
-📺 Altcoin Daily
-
-👁️ 76K • 👍 2K • 💬 191 • ⏱️ 12:10 • 2d ago
-
----
-
-**[Live Crypto Trading Today | Bitcoin &amp; Altcoin Market Analysis | Live Trading Session](https://www.youtube.com/watch?v=kIOegtbN8Q4)**
-
-Open Crypto/Gold Trading Account: https://india.delta.exchange/?code=stockburner Explore Deeepr AI: https://deeepr.ai/ Join ...
-
-📺 Stock Burner
-
-👁️ 21K • 👍 4K • 1h ago
-
----
-
-**[The $55k Bitcoin Crash Explained: What Happened Every Other Time Bitcoin Did This?](https://www.youtube.com/watch?v=Q2JbbQEzuhk)**
-
-Banking outages, leaked customer data, and growing cyber threats are exposing just how fragile our financial infrastructure can ...
-
-📺 Simply Bitcoin
-
-👁️ 38K • 👍 1K • 💬 112 • ⏱️ 11:53 • 2d ago
-
----
-
-**[Something Weird Is Happening In Bitcoin](https://www.youtube.com/watch?v=vmAsVpZFXmw)**
-
-Bitcoin was built for a world of failing banks, inflation, political instability, and unreliable financial systems. Yet in 2026, while many ...
-
-📺 BTCPrague
-
-👁️ 43K • 👍 711 • 💬 137 • ⏱️ 15:48 • 10h ago
+👁️ 24K • 👍 824 • 💬 266 • ⏱️ 1:00:24 • 6h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-25T18:46:09.130029+00:00'
+updated: '2026-11-26T02:03:22.667417+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 25, 2026 at 18:46 UTC  
+**Last Updated:** November 26, 2026 at 02:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-11d ago
+12d ago
 
 ---
 
@@ -116,25 +116,19 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Humble Robotics wants to reinvent trucking](https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports)**
-
-Axios • 1h ago
-
----
-
 **[This robotics stock lost half its value. Here's why Citi says it's a buy](https://www.cnbc.com/2026/11/25/a-robotics-stock-lost-half-its-value-heres-why-citi-says-its-a-buy-.html)**
 
 Agility Robotics has lost more than half of its value since its IPO, but it is positioned to see a lot of upside if the humanoid robot market expands, per Citi.
 
-CNBC • 4h ago
+CNBC • 11h ago
 
 ---
 
-**[Eric Trump-backed robotics startup told all workers their health insurance is gone — ‘extremely unfortunate’ situation](https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html)**
+**[Nestlé turns to AI and robotics to stoke growth](https://www.fooddive.com/news/nestle-grows-artificial-intelligence-robotics-innovation/875604/)**
 
-This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025.
+The world’s largest food company said a deep tech center will help it develop and test ideas faster, maintain consistent quality and improve efficiency.
 
-Yahoo Finance • 1d ago
+Food Dive • 1d ago
 
 ---
 
@@ -146,25 +140,37 @@ The Robot Report • 1d ago
 
 ---
 
+**[Light-activated nano-robots bring more drugs to the brain](https://www.ft.com/content/95b7e73d-a884-42bb-9845-f0e305699664?syn-25a6b1a6=1)**
+
+Financial Times • 7h ago
+
+---
+
+**[Eric Trump-backed robotics startup told all workers their health insurance is gone — ‘extremely unfortunate’ situation](https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html)**
+
+This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Humble Robotics wants to reinvent trucking](https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports)**
+
+Axios • 8h ago
+
+---
+
 **[Meet the front-runners driving China’s humanoid robot boom](https://www.scmp.com/tech/article/3375497/meet-robots-chinas-six-top-humanoid-developers-vie-market-share)**
 
-South China Morning Post • 1d ago
+South China Morning Post • 2d ago
 
 ---
 
-**[I searched for an automated utopia. All I got was roboslop.](https://www.businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11)**
+**[Robots that clean toilets, deliver pastries: Resorts World Sentosa trials AI solutions for tourism sector](https://www.channelnewsasia.com/singapore/ai-robotics-tourism-hotel-attractions-rws-6577641)**
 
-Business Insider's Lloyd Lee tried out all of San Francisco's robot services, from Waymo robotaxis to humanoid cleaners that left his home messier.
+The initiative will use Resorts World Sentosa's integrated resort environment to develop and trial physical and digital AI solutions.
 
-Business Insider • 2d ago
-
----
-
-**[Inside DARPA's Challenge Where Robots Searched for Disaster Victims](https://spectrum.ieee.org/darpa-triage-challenge-final-robots)**
-
-The defense agency’s latest grand challenge aimed to prove robots could save lives in emergencies
-
-IEEE Spectrum • 1d ago
+CNA • 15h ago
 
 ---
 
@@ -176,23 +182,17 @@ Allen Institute for Artificial Intelligence • 2d ago
 
 ---
 
-**[High school robotics teams launch season with four victories: Talk of the Towns](https://www.cleveland.com/community/2026/11/high-school-robotics-teams-launch-season-with-four-victories-talk-of-the-towns.html)**
-
-Cleveland.com • 3h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Everyone is Getting Humanoids Wrong](https://www.youtube.com/watch?v=ai1Gg0oeVTk)**
+**[China’s New AI Robot Army Is Terrifying...](https://www.youtube.com/watch?v=bOOf9boeiKE)**
 
-Roomba brought robots into millions of homes, but never delivered the iPhone moment for home robotics. Matic thinks it can.
+China just turned Shenzhen into a giant robot show during APEC week, and 151 humanoids set a Guinness World Record for the ...
 
-📺 MTS 
+📺 MACHINEKIND
 
-👁️ 22K • 👍 48 • 💬 11 • ⏱️ 16:20 • 2d ago
+👁️ 14K • 👍 217 • 💬 29 • ⏱️ 13:00 • 2d ago
 
 ---
 
@@ -202,15 +202,7 @@ Tesla's new Optimus robot upgrade is much bigger than the viral robot clips sugg
 
 📺 Tyrone
 
-👁️ 70K • 👍 420 • 💬 11 • ⏱️ 27:54 • 2d ago
-
----
-
-**[He Built a Secret Robot Inside His Weakest Fighter and Shocked Everyone!](https://www.youtube.com/watch?v=2zQX8tU2hU4)**
-
-📺 Lazy Kitten
-
-👁️ 9K • 👍 536 • 💬 14 • ⏱️ 2:14 • 6h ago
+👁️ 70K • 👍 420 • 💬 11 • ⏱️ 27:54 • 3d ago
 
 ---
 
@@ -220,17 +212,15 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Cleo Abram
 
-👁️ 2.3M • 👍 124K • 💬 995 • ⏱️ 1:05 • 5d ago
+👁️ 2.3M • 👍 125K • 💬 1K • ⏱️ 1:05 • 5d ago
 
 ---
 
-**[China’s New AI Robot Army Is Terrifying...](https://www.youtube.com/watch?v=bOOf9boeiKE)**
+**[He Built a Secret Robot Inside His Weakest Fighter and Shocked Everyone!](https://www.youtube.com/watch?v=2zQX8tU2hU4)**
 
-China just turned Shenzhen into a giant robot show during APEC week, and 151 humanoids set a Guinness World Record for the ...
+📺 Lazy Kitten
 
-📺 MACHINEKIND
-
-👁️ 12K • 👍 200 • 💬 28 • ⏱️ 13:00 • 1d ago
+👁️ 29K • 👍 845 • 💬 24 • ⏱️ 2:14 • 13h ago
 
 ---
 
@@ -240,27 +230,7 @@ Robots vs HUMANS. Were these auditions even real?? FIND OUT! 00:00 - Boston Dyna
 
 📺 Top Talent
 
-👁️ 269K • 👍 1K • 💬 56 • ⏱️ 49:21 • 2d ago
-
----
-
-**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
-
-ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
-
-📺 MuffinJuice
-
-👁️ 1.5M • 👍 39K • 💬 3K • ⏱️ 15:00 • 5d ago
-
----
-
-**[Chinese humanoid robots on display at the RoboExpo in Shenzhen #shorts](https://www.youtube.com/watch?v=DhBzSrMExMY)**
-
-"CBS Evening News" delivers the day's most important stories, delivering context and depth to bring greater understanding to your ...
-
-📺 CBS Evening News
-
-👁️ 186K • 👍 835 • 💬 125 • ⏱️ 1:56 • 6d ago
+👁️ 293K • 👍 1K • 💬 56 • ⏱️ 49:21 • 2d ago
 
 ---
 
@@ -270,17 +240,47 @@ Tony Dokoupil takes a look at China's advanced humanoid robots. Last year, China
 
 📺 CBS Evening News
 
-👁️ 37K • 👍 147 • 💬 78 • ⏱️ 2:05 • 6d ago
+👁️ 38K • 👍 148 • 💬 78 • ⏱️ 2:05 • 6d ago
 
 ---
 
-**[Elon Just Gave A Huge Optimus Update | It&#39;s Not Good News](https://www.youtube.com/watch?v=PcIUEgNQyXM)**
+**[Chinese humanoid robots on display at the RoboExpo in Shenzhen #shorts](https://www.youtube.com/watch?v=DhBzSrMExMY)**
 
-Thanks to Albert for sponsoring this video. Genius is an AI-powered financial assistant. Genius can make mistakes. Albert Genius ...
+"CBS Evening News" delivers the day's most important stories, delivering context and depth to bring greater understanding to your ...
 
-📺 Ryan Shaw
+📺 CBS Evening News
 
-👁️ 119K • 👍 2K • 💬 264 • ⏱️ 16:03 • 2d ago
+👁️ 186K • 👍 840 • 💬 125 • ⏱️ 1:56 • 6d ago
+
+---
+
+**[This Chinese Humanoid Robot Is Dancing Better Than Humans! 🤯🤖](https://www.youtube.com/watch?v=UAUUU2gZ6fY)**
+
+A humanoid robot taking on human dancers! AiMOGA's full-sized robot performs synchronized dance and martial arts moves ...
+
+📺 Nexio Core
+
+👁️ 38K • 💬 3 • ⏱️ 0:06 • 2d ago
+
+---
+
+**[China&#39;s New IRON Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=SOitmi6Pmmg)**
+
+China's new IRON humanoid robot from Xpeng just got its biggest upgrade yet, and the factory that builds it is already running in ...
+
+📺 Work Time
+
+👁️ 51K • 👍 310 • 💬 22 • ⏱️ 17:28 • 4d ago
+
+---
+
+**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
+
+OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
+
+📺 MACHINEKIND
+
+👁️ 38K • 👍 561 • 💬 73 • ⏱️ 11:51 • 5d ago
 
 ---
 
