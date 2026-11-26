@@ -15,34 +15,14 @@
       "description": "We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography."
     },
     {
-      "headline": "Devcon 8 India Recap: Four Days in Mumbai, and What's Next",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GSlluNnVSWmdudnprSVdoZnRvYWdXYmZ1U0hScTRJSllNckswNEZKOHNOcWZBX0M1UGppSFQ2enhjQmF5Yk9hRVN2SmZjQUNvYkVRLWJBM0JFdDFFRktkb2RiQi1aZw?oc=5",
-      "pub_date": 1795627450.0,
-      "article_url": "https://blog.ethereum.org/2026/11/25/devcon-mumbai-wrap",
-      "image": "https://storage.googleapis.com/ethereum-hackmd/upload_8ecdef046d526e026f90ca3c38b34c2c.png",
-      "description": "*Thousands of builders at a global gathering of Ethereum communities and allies building open, secure and verifiable technology.* From November 3\u20136, the..."
-    },
-    {
-      "headline": "Bitcoin, ethereum gain ground under new CFTC rules",
+      "headline": "Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWi1IVERtcWROck82RHpmQmt5bWszWXBTUTVVaktIaExydmZUZEd2d1AxNjRRTnN4dmFLU0xvNlFmRm90bC10ZmZjc2dqTHhDei1rTHVlM2Q3bFkzVEN3dzhReklYWTdwUGtuTktPclZUQ0Ffb1hrLW94SjBnaEdaVUdrREw4MWRMeGdhb2lhcUZfc01vbGhWLWVjZUg?oc=5",
-      "pub_date": 1795538517.0,
-      "article_url": "https://finance.yahoo.com/video/bitcoin-ethereum-gain-ground-under-new-cftc-rules-164157249.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/dd2624cdeb44cbedbfd6052c8a1d0ac6f352fb24b1ead205d4ab2603557829ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1795538294369_9048.jpg",
-      "description": "Scott Melker discusses the changes to Commodity Futures Trading Commission (CFTC) regulations that allow bitcoin (BTC-USD), ethereum (ETH-USD), and stablecoins to count toward qualifying financial resource requirements for eligible exchanges and trading platforms. Melker examines what the regulatory shift could mean for institutional crypto adoption\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
-    },
-    {
-      "headline": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3ZjR2lMSmpZNjN1eXFyUWJRZHBleHZRWUQ5MEcxSzEzM0wwZmNGMm1lMjU2VEpFbUpkNENQVUdCMGNMY0hXcjFXZnBEWWlWTXltU2Q2REJmdWRBeXNVdldZMDBsc293aXRYSUJaQ3NWR29NYk9rUmlOcjJwRndSMzNpQkRWQzdLWElDa3p3?oc=5",
-      "pub_date": 1795552562.0,
-      "article_url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png",
-      "description": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats."
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUJPRkhPQ09wcEFCcjEwTTkyV05Rcmk4aV9uZF9HcFpORjRXQzhJQm51ckk3T1NBYlNneE9xeC1aTTdiX1JwTkhSRTU3Smt2ZDhmVWRZTkxHRUxDWUwtV2dNNmxHckhqLXVVeXNwUGNhdHYxNnRKNTF2UmcxdzNqa1dJa3BoTG5rcW5XV1BrOHJ3YTBYN3c?oc=5",
+      "pub_date": 1795645579.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-25-222619217.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0957894453443142c714f824551f9d75536510725169531a741d04bf7232b509/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fbaf22de5907b2fa57bad4047676595bb.jpg",
+      "description": "Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last."
     },
     {
       "headline": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says 'we do not take this lightly'",
@@ -55,24 +35,24 @@
       "description": "The repayment leaves the company holding about 24,245 ETH, alongside $17.9 million in convertible notes due in 2027."
     },
     {
+      "headline": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3ZjR2lMSmpZNjN1eXFyUWJRZHBleHZRWUQ5MEcxSzEzM0wwZmNGMm1lMjU2VEpFbUpkNENQVUdCMGNMY0hXcjFXZnBEWWlWTXltU2Q2REJmdWRBeXNVdldZMDBsc293aXRYSUJaQ3NWR29NYk9rUmlOcjJwRndSMzNpQkRWQzdLWElDa3p3?oc=5",
+      "pub_date": 1795552562.0,
+      "article_url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png",
+      "description": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats."
+    },
+    {
       "headline": "Current price of Ethereum for November 25, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMFpySzBUbDZUVTZJaV9lMlhKMUFBNVN0LTBGNEVpZ3ZTSUJhQnNNQjNyRmc0bkVFR08zMW8yd2l1QWJKcW9Yc1F3djhEb29iY1ZHdFR2X0VjQ2ROSlZjSmZ4SF9Cdl8x?oc=5",
-      "pub_date": 1795613174.0,
+      "pub_date": 1795633351.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-11-25-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-25.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENDazYzcl9MR1ZMYklmOXNqRGdnN2ozVHhuVUZnTkg5RmR1YXRUc0xJNUlSSzJYNUstaUFYUnZlQ1lkYkRPenJKakR6X0RDaFFnLVdJMTdzc3dsV2NFNFZqZDdVU09xZVpoUTdfZlRTSXhObDZZZmh1cVA0bUdadkpJZ3JndkR1MU9PMjRZYWh0VHN4bEdVZFgtVXc2Q0RoQVVFMUFuX2RkbDlLcmRFdFJLLXVYcXhkS3NDZERUc3dYMTVBb2k4TWNn?oc=5",
-      "pub_date": 1795438173.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-      "image": null,
-      "description": null
     },
     {
       "headline": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
@@ -95,16 +75,36 @@
       "description": "Ethereum Institutional opens a waitlist for a platform offering research and blueprints to help institutions build tokenized onchain products."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Pull Back Amid Trump Tariff Jitters: Analyst Charts 'Phenomenal' BTC Buy",
+      "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENDazYzcl9MR1ZMYklmOXNqRGdnN2ozVHhuVUZnTkg5RmR1YXRUc0xJNUlSSzJYNUstaUFYUnZlQ1lkYkRPenJKakR6X0RDaFFnLVdJMTdzc3dsV2NFNFZqZDdVU09xZVpoUTdfZlRTSXhObDZZZmh1cVA0bUdadkpJZ3JndkR1MU9PMjRZYWh0VHN4bEdVZFgtVXc2Q0RoQVVFMUFuX2RkbDlLcmRFdFJLLXVYcXhkS3NDZERUc3dYMTVBb2k4TWNn?oc=5",
+      "pub_date": 1795438173.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Drops to $58,000, Ethereum, XRP Slide Down 4% as ANT Loses IPO Price Floor",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWliNHRxN3dvNHVhZUpQYjBlNTNDSlp1dER2WlJ2QlZaSERReUNKRnJjN2Z5VTM5UWtFV0I0TlZMV1F6dlBnUVFvWVByNzZzcV9uV0Z0VVJYcG1DQnZxN2RlaFJhLTFDZjRqWkpOa0N5a0kyeUJTSXd6ZlpGZ2hVaUcxaFB4OEtSMzRnYzVNbVRON3BWcEY1RHRlWUMwM3NNNEdzTzZCUnZFWlpwTHlvR1FB?oc=5",
-      "pub_date": 1795571062.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63613214/bitcoin-ethereum-xrp-dogecoin-crypto-trump-tariffs",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3V0cVJRWWQwTXg4N1Z2M2tEYzVkdGpwMWJsZDN1UjdmZExKbHA0YkZOcWpHalF5LUdjeXNNamQ4T1RrdGFSY2pMYlVyRlhXRDBYTTVWT3ZkTVo5blIzS2lGN25sM1VVeFlJdUVPMlAwZ1FFMFNjVXpIR2hKcndTUXpJWjZiZ3ZMbjQwa2twbnRXYXFiNWtmeXpuWWZ6elpFRDNQS3luVUNXMHJCRWNQNElzV3p5dzByVEdrYjlUMWpnOTFPR1RzUFd4THUzc0diTW94OWhB?oc=5",
+      "pub_date": 1795617585.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63622497/bitcoin-drops-to-58000-ethereum-xrp-slide-down-4-as-ant-loses-ipo-price-floor",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tom Lee Explains Why He\u2019s Bullish on Ethereum, Shares the \u201cHard Money\u201d Case",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jOGEyUnV6cGRURENoRFR2MWhUeENFdEZMbTNBRi0yNkRCeXpsdHd2X0FBbmhxbi1yMHg5QzU3MVVrQWhZcXB4U0d3UDh5eTdWQ0pZY3pBNUg3TFhZRDREaV9fUjFLMzhuN2VDZVI2N0wxVGF6Vmc?oc=5",
+      "pub_date": 1795598856.0,
+      "article_url": "https://beincrypto.com/tom-lee-hard-money-bitcoin-ethereum-bitmine/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-25T18:46:03.722991+00:00"
+  "fetched_at": "2026-11-26T02:03:10.802731+00:00"
 }

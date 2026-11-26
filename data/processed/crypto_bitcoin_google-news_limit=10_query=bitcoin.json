@@ -5,84 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlZrR3hSRnRhN2p1U3ktUnBnZnc2LWJ4Zk1GdWdCaFpsY3Z5emp6LWJ4bXVEZVl6UVVRN1VZcm90cWQ3Vlo2SkthYTZGT3NxbEJ6ZlJSWWFpNFRvcGgyZ1hNYzhQQkV0UFdnUXhkUy1tZ1QwemJfUjVGbmVqQUZtTnRmaU5HY1JWXzZVY0JJeXdWRFRYNnRfVGRQLVV1QmRIMC15aW5ZWGhXM2pjUE80Mjhn?oc=5",
-      "pub_date": 1795619247.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-funds-head-for-worst-month-as-outflows-near-5-billion",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin, XRP plunged more than 70% on Kraken, and buyers get to keep cheap coins",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONFlvOWxMWFAzZVZJVGNYazEyUlVWdzJ3V21hd1lpdnkxSXB5YkN1NXViSlJSNWwyM1BhWUg2bjc0WGRPUHhJWUw2dHh0XzJER1U4amtTS0RyVGNkdmJ6am5NWlp0QlRWdldtSGUzdWVVVDIxMDRXdnlTSmZlaTd1VW9wOFBVaFRCVXNqa0hOSXd0S2pyVUlaZGtUR3FjQ2xRd094VFF1QjlCRjE1NDhwVllydGpUd0FtWmg3ZEpLcFdpNHNj?oc=5",
-      "pub_date": 1795412542.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Elon Musk Sends Warning to Bitcoin Creators After $271,000 Fraud Case",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmR3T2E5RnRvXzNLX1hGdWs1WF9vVFhhVmdpNmx0M21mVkFUN2I3OHVveWowcTZQVGhyY1o1TmtXNGM4T3drei1WTG8wV2xaclBZdUtXX3ljNzR5SVphakUxeTdJbDhxMjFyYllBeGt0a3RjR0pyZE1jMUJHSXp0enJUR3NQQnpBMDlEblgyMGt3RXlFSUl2MHhSWDQ?oc=5",
-      "pub_date": 1795627111.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-sends-warning-bitcoin-171831267.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0699cb4fe260941b0ba2eb8621d287a41ac4d2e3920f87a906f13424d65d8af2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F8ddb944dbb30fefe9ea312213ec1bd37.jpg",
-      "description": "Elon Musk warns 'Don't mess with X' after a UK court rules against Bitcoin accounts X says gamed its creator payouts."
-    },
-    {
-      "headline": "Elon Musk\u2019s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZE1QN1dtcUxRYXRldHF0TFotYzRHMVNFWF9FTW1RcVZmU2pvLXZNMEVzOTRhRlJfY2NvaGJBcHlDRFZQb2JnYmlmdkhDaUZkajZoUzJJV3hSWHZtR0I3Q3g3Zm5ZdV9zd0YtUG1FQlhrcVNiNGZqWlZqMTJIVk9XRkM1UTdhVkRxSWdOV2FPVGo?oc=5",
-      "pub_date": 1795626962.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-x-wins-court-171602717.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/dd05e6d6dbf4bac44f24fb943f17a41423b23c1c575c8392fb24161fba29ab9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F1d98793e79b92fa0d2ac8215089eaf88.png",
-      "description": "London\u2019s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over \u00a3207,000, won\u2019t be set until a later hearing."
-    },
-    {
-      "headline": "In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVzNLZHpKVTFkWklyZUpKeDFHdWF3RUFMS3U2RUQxYnVOUWdVeWFrbERGOXlxQXpDcklBeUc2UDBlcTllc25ZWVFTX29OSF80bzRUYWpiSzlHTnkza19tOEhSYlE1Z2tHT2xoQ2tIUU1oNTVFR0oyUHJFQkpMdFB5eWUwREtBU1JYeWUteEtEZWdrWnhnSHlvOG9QQmNqMzZZU2VaTmZyTjBORGJDdjVrbjczeWp4Z0prTkpWSGJkMFBLQ3VyMzhBRzRBUGx1RVNmczcxdGNQZXlyaXM?oc=5",
-      "pub_date": 1795560062.0,
-      "article_url": "https://www.fool.com/investing/2026/11/24/in-response-to-the-turmoil-at-nvidia-bitcoin-drops-below-usd70-000-is-this-a-buy-the-dip-opportunity/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7ece26a0a149d5f029c45b39d3d0413b52ca569a-5472x3648.jpg&w=1200&op=resize",
-      "description": "Bitcoin's mediocre response to Jensen Huang returning to Nvidia is a bit concerning for the coin's potential buyers."
-    },
-    {
-      "headline": "Bitcoin Price Drops Below $60,000 As Crypto Market Erases Gains From Nvidia Rally",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclJfX1V6cWRLc1lEUnlzSXZYaUp6Wk54Tlp3MXhVQzRMVlllT1B5dExIclAwSkktQ05zS0Ixd0ZKSnhPbUd0REtPLTFfb3YyVUV5QmRBZmgzZ2R2UTI2aXlaMk82TWU0RHZ3ZlVnZ2RySGFEMVM0em04TWFxaExETFhqSF84VF92YlJYUER6QTlyUFRwRE9yd2RtRUd6UEJFeVNTZkpyRDZUeXM2NG0tUG9EdUNNYy1RRUFJVXNlV0w?oc=5",
-      "pub_date": 1795518707.0,
-      "article_url": "https://www.forbes.com/sites/siladityaray/2026/11/24/bitcoin-slips-below-60000-again-after-short-lived-nvidia-fueled-rally/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin And Stocks Are Moving In Different Directions: Arthur Hayes Says Nvidia's Rally Is The 'Worst Thing' For Crypto",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYjEzbXNVZTQ5UWEyOUNUemdiaGF3YnprMkV4QW5KVXBOQjR2WnhOemZ0UXNDcmdZN2lJYk1SWWlOaTNsbmRHRWMtZXpBNFJjXzgxcmllX0RpaDBHbmRibEtHNG5ueFZrQkhwZldyVkpGSVRsVEdSR2g4WndMYW45UWc2MlNwUW5oUGdHbTlyZkg0U2plZWVHWXJGMkEyMzZURTE1M05aRXdLcnM?oc=5",
-      "pub_date": 1795502700.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-stocks-moving-different-directions-064525257.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bb61cc3d39a12a99ef9120999caf913a6b704cb59b510f682660db24cf582a56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fc34d7abda539def2a466c40f5e27e886",
-      "description": "Hayes said Anthropic's failure to close higher on the same day showed buyers fading rallies."
-    },
-    {
-      "headline": "Strategy Is Worth $4 Billion Less Than Its Bitcoin Amid Liquidity Squeeze",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2o1aTNiZi1kNjNoVWR1aUxtQTNBQWpZcWdYR1kydFVXQlBzZmdMVHgtMFpHcVNFZmNjOFZXYXBrM2E4djJJUG9SdXVZSk1NS0hvVy1LUkd0RUFqbGlWeTNEaGc1ZDBvXzJnckVpY3pBYWNWeTdjRTdVTEhReGJRYTRINy1uLTVuS3NSbDd5SGNVczRnT2RnN09qOGxiMzlCYk1mVDQ2TlU0dkIyZkE?oc=5",
-      "pub_date": 1795628160.0,
-      "article_url": "https://www.investors.com/news/mstr-stock-worth-5-billion-less-than-bitcoin-value-liquidity-squeeze-gld-ibit/",
-      "image": "https://www.investors.com/wp-content/uploads/2026/11/stock_bitcoin_stack.jpg",
-      "description": "MSTR stock is now worth over $4 billion less than the value of its bitcoin and cash holdings. The market's harsh critique comes amid a liquidity squeeze."
+      "headline": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWxleFpSeVk1OE9WUTRPOEd5YTNxMG5BeHBNVlpiblVxNHRGcG5tRlpuUzlJaDdYWkhCZ0s5ZzBtOU5qMENSdWFGU2pwYVZjZ1lnajY4TS0tQ0VZTDlPQTBwREg0TlpYYXRILUJxelVXVHNNQXMxdmtJaDIzY1pRNA?oc=5",
+      "pub_date": 1795636428.0,
+      "article_url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Strategic-Bitcoin-Reserve-Bill-Clears-House-Committee-Heads-to-Floor.jpg",
+      "description": "Rep. Nick Begich's Strategic Bitcoin Reserve bill, with a 20-year ban on selling reserve bitcoin, cleared the House Financial Services Committee."
     },
     {
       "headline": "It\u2019s \u2018Coming\u2019\u2014Massive AI Crash Predicted To Trigger $25 Trillion Bitcoin Price Boom",
@@ -95,16 +25,86 @@
       "description": null
     },
     {
-      "headline": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+      "headline": "One Big Difference Between Bitcoin and Pearl: There\u2019s \u2018No True Fair Launch Anymore\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnlDLXNLazJuU0RTRzY2TjY4ZnlmbE1HbDJ5TzMzTndiZjF5eUIzYTNkcVZTVXM4UTRVVVp3Y1BZNktwa0NrcUVvN1hpekpQSW11VGl3QlhDSzZwcDFyOHhXSm1YSl9ORWZFUWNGTUVCUEw4WUlfRWF1YVVwWjdsbUdMZTNBT1I3?oc=5",
+      "pub_date": 1795654800.0,
+      "article_url": "https://finance.yahoo.com/video/one-big-difference-between-bitcoin-010045398.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d85684bd2de753ba35fae561ce00aba68f285f4c88528d05c2ed46492a9753bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2Fa464dcce81ecf724f2c0e5fa4ab26690.png",
+      "description": "Ryan Watkins, Co-Founder of Syncracy Capital, responds to criticism of Pearl\u2019s $55 million raise and concentrated mining, saying insiders hold about 5% of supply and no launch since Bitcoin can be truly fair. From Unchained, the no-hype resource for all things crypto."
+    },
+    {
+      "headline": "Bitcoin\u2019s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdTBPZEgtQ1pOYjFVU3FNUUZhalBDTXNSdkpOeXVDdUZSZzg3YkluV0xtRU5takhRT1hmVnI5RkJsdHUzU1ltRnFmZDJuc2tPYmM5REdDeU41V2laTjhNMWpfWjVaR2VVYmxBUGJuTDd5elVvUi0yb3R2YW45cnF3eEV1LWZLVW5rTHFTdjBaQjB0aVY3bEdqYjRWZ2ZKU1RfUXZsbTFDZUNFSkw3SXRWSlpZNWFaSHliNmtWNW1uaW5PS2R6VnBNODQyVQ?oc=5",
+      "pub_date": 1795654388.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/11/25/bitcoins-slide-below-60000-is-a-stress-test-for-corporate-crypto-treasuries/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ19DWGtxTUdKTjhfQjhvUWVuVDlPdzhRNDlSMm0tMlJBeWoySUxaYmk4ZWJpRXlPaDE2dTRDa0drcjRQOXoxRnpEeDNKQUYzUExGU0ZiYW1la1hwZzhnaS1UX3VuNEVXd0VScWNHWDRZTjRQTi0yYmloR1NXOEc0b21MRVVyYzctdnVmSHlOZTAwUzRvUUFJbU55eTU5QkdFSkdF?oc=5",
+      "pub_date": 1795651320.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-tokenized-gold-trading-euros-000200659.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9ae097d6b53c5f79d416a48ace7679e9b94330045b30781eab684658970384f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F3770005a41bcab9f9ba67a377cad2a45.png",
+      "description": "Chainalysis data links euro trading in Bitcoin and tokenized gold to eurozone yields, but the signal has clear limits."
+    },
+    {
+      "headline": "Bitcoin Miners Hammered Again as Price Rout Squeezes Margins",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmk3azVqYnFjM2hqMV95SkptWkNCWGpIaTQ1dmpvM3lXNFlxV3BYZ2VNdHEtanVEVmhvemZjbXJadllhd0txR0RPdk9pQmdNbzBJcWhXekJ0dDRHTXZ4c1c5LUE1U00welAxNU5GbDJSQ1RLYUFoaTVEYllUSU5vc29kTzZ1dldlWHhIVzVzamEwRk5lMXpYbjNpdHBEWWpDdVF4NDZpRmk2RC1LOUZVNA?oc=5",
+      "pub_date": 1795636135.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Crypto Long & Short: Bitcoin investors can\u2019t keep ignoring Japan",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWZ5VGd4dHJxTFdpcWxFb2ZHSk1Zc2w4WEpsb3NCcXduRVp1RkZPMDdrd3E5YUtJX3MyTmxhdE9MNWhYdVZFeXRHQmlmSFcxZThoS2hSNmg3VUFYN2NSUXd6RGp1WUE4X2Jtell6MW4wbXg0cUo4a0VoRFVFbjAzM2VXVnllT0N6dXFCTDFiWl9tNFBTb2lsMGgyR3RvMzRSTjVBSmh4YTZkdG84c1c4M201LUpuS255UkE?oc=5",
+      "pub_date": 1795622384.0,
+      "article_url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLTNtZEtTS2JrekFZdEt1TTVjWEJIMG5zOUVRdUpVYTFfblo4MkhMNlRxbzRINzVXU3doTi0yNkM5amZKQnpva3VObXBNdFVsWGR0T3lYNy02ZjlVWk41VEE5Wnh0MU5qeHh5MzlZVFJUUWg4cmNXcHFZVXE5dGtoR0VHRTlGTGtKWFNVVFB4OFdNdlA0TTVhc2JGTTBma2RXR0JlMEhLOS1pcFlOQldpcmVlRkNWLXF2Rmx1UDA0LVdLY19pdjhSTHNrX0U1bHNLTjhwQ2FiU05KZ2tVVXRUUVJhY3lGazEyTU01bXNOclg4d2s?oc=5",
+      "pub_date": 1795559200.0,
+      "article_url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/crypto-market-today-nov-24-bitcoin-falls-below-usd60-000-as-etf-outflows-hit-a-record-usd4-7-billion/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F234dd9149c90fc2659ec76758aa93e687b9d451f-8192x5464.jpg&w=1200&op=resize",
+      "description": "Record withdrawals from Bitcoin investment funds are adding to selling pressure across cryptocurrencies, raising concerns about whether the market can withstand another downturn in technology stocks."
+    },
+    {
+      "headline": "'Don't mess with X,' Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWY2SFNHX2lVamVTTUI0N2lkeUMxZklNdFFaQVZvbW1MTGc5aGszMEZ0YVhpYXJncTdhVFJxakk4MjRDR2RDVDN5QXdrM2FWa3BUZ1VuU0s2cmtTTm80VTdPSkFsRE1fa3ZyckE5LVFFLTYwOHVmajR6R1pwQnhIZUQ5UkU5NDFaR1lRb25qQQ?oc=5",
-      "pub_date": 1795591560.0,
-      "article_url": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cathy-wood-getty-1crop-scaled.jpg",
-      "description": "Cathie Wood's Ark Invest sold $6.81 million worth of shares in its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn."
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZzBIM1pYZmc3enBfd1czc2k2WEUza2hsWU1wb05aWUFtX08xV003bHZYSmVRQmhuZjZZckZuekkwRE9Ca3hCNkVuVUNiYW50OFZ0WHlUSGQ5V25MNFFtZ1I0aUlYLS00MmxwdHM0ZU44c0JQOUd3LXo2U0ZURXFWR0FicVZWQTkzb3hMT3VvUFZvaG5Dd1pmMDNVWWUtajFZX2JPOFpqR2pzcGI1ZUluRWh1dklOYzRIQVhrbGN2RXFhd3d1RERiczdxeWt5NHlUdjZ6YWFxbk1kdjRvS0haek5FeE1Ra3VxR1BxVTdRRWw5VElQRkVXUU5R?oc=5",
+      "pub_date": 1795608840.0,
+      "article_url": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2297775036-scaled.jpg",
+      "description": "The two defendants did not respond to X's claim, leaving damages and interest to be determined at a later disposal hearing."
+    },
+    {
+      "headline": "Liquidity peaked. First bitcoin fell, then gold and now stocks. Here\u2019s how long the downturn will last, according to this veteran strategist.",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdmFUMWZSUHozellFcXo5cUJ3SWV3dzlqRU85XzVSV3RTM1c5RmowWHBlOU5HVjgtTzZYeF9qN3k4c1A0QjFTOTZrd0w3ZDVKLUlGcVlaNVM5Zkl5MmFrLWl3ZUVFUk92ODRBbjFEZzBlN0h6WkZqMDlSbmVLMVVySjdNX0JwLVhLeFFlb1g2Nm1XZWlnRkMyVTBGREw1SHNDS1BHNHh1cjQxeGlQNzdJUTNJb1g3WWtELVN0VkxfcF95ZjlEZFQteE8xeVBDN01qODBYWklsT2xmVThmZXBBUW1QWFZJNmg4TDhtZk9yN194dWNNU3RWY3g0XzhFTGk5VkE?oc=5",
+      "pub_date": 1795611900.0,
+      "article_url": "https://www.marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-25T18:46:02.799277+00:00"
+  "fetched_at": "2026-11-26T02:03:20.642213+00:00"
 }

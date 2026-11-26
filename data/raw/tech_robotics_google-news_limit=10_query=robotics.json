@@ -15,16 +15,6 @@
       "description": null
     },
     {
-      "headline": "Humble Robotics wants to reinvent trucking",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1V0SHNpSVRDcmh6WFd0LVdtVTd4YWlqZEtVcTNfdVJwX2VTOTFXWlRjX0VVYU90cl82dWNjUVNaQUtOX1ExdXFzUmhabjF0bmN6blNkT3JMcGxGLTE4S1R5dVNtOW83S053UjIxQ1ByZXQxRzZqVFJJTVNXRWZ0UHo5NTFPSHlrdV9jM0NB?oc=5",
-      "pub_date": 1795626035.0,
-      "article_url": "https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "This robotics stock lost half its value. Here's why Citi says it's a buy",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,14 +25,14 @@
       "description": "Agility Robotics has lost more than half of its value since its IPO, but it is positioned to see a lot of upside if the humanoid robot market expands, per Citi."
     },
     {
-      "headline": "Eric Trump-backed robotics startup told all workers their health insurance is gone \u2014 \u2018extremely unfortunate\u2019 situation",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk1iQ1BCdE5PZkdEaTZnY21qRjlXNTc4TTQya2lXdmJ6c2lpa1Z5ZUNBTWNpT1VhbEtmTnZEUUVEMnZnT1Vpc1FHa3dPSERYck9zWXJPQ3pQRHRXTlBhNUNBQ3hDM3hBNmJsUHl2MVN2VnZyTmVfdHAtTHg3d3FTR0FpSGhEdVZnblFaTTVza0pUZlBxSUUxck1zbw?oc=5",
-      "pub_date": 1795471200.0,
-      "article_url": "https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1580707415cfa5c225861ca8a53101fec81d7ae378329b6d53a27e9515fa830c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F855c03300694cb48ac4a0abf4910d148.jpg",
-      "description": "This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025."
+      "headline": "Nestl\u00e9 turns to AI and robotics to stoke growth",
+      "source": "Food Dive",
+      "source_url": "https://www.fooddive.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUJQdndKaWRTTThJclNudkt5MXc3QjQzWGtYTHFRUl90UERKbU9ENHFlSWcxdWZ2S3BBLVUxMFpoRzNNZGlGS2d4aFUtUktrVVMzNms2eHpyU3lUQmZJMEhockV5Y2w1S3pNZVJTOG9SWFYyZVFSV3B6UTBKTGxqR3dURXBzUTlUdWExMWJSaUF6eHRLTkttLTJ3?oc=5",
+      "pub_date": 1795536438.0,
+      "article_url": "https://www.fooddive.com/news/nestle-grows-artificial-intelligence-robotics-innovation/875604/",
+      "image": "https://imgproxy.divecdn.com/jug0x8w3V5OfTyTq9R71BpyVfhPnFgS_UdBvmwJGRCo/g:nowe:0:0/c:850:480/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjQtMDMtMTNfMTI1MjQwLmpwZw==.webp",
+      "description": "The world\u2019s largest food company said a deep tech center will help it develop and test ideas faster, maintain consistent quality and improve efficiency."
     },
     {
       "headline": "SoftBank acquires Marc Raibert\u2019s Robotics and AI Institute",
@@ -55,6 +45,36 @@
       "description": "SoftBank acquired the Robotics and AI Institute from Hyundai Motor Group, reuniting with Boston Dynamics founder Marc Raibert."
     },
     {
+      "headline": "Light-activated nano-robots bring more drugs to the brain",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVVBR2lOd1Rzd0RMWlh0ODBWbUFKMFpJR2daTDFxWm44eWk2TkU5LTVhVGRmUEN0eFRIamhsT0hJT3NYZExPZ1lhc0I3OUtXWWIxZng2RjB6ZG1sUjlEOG1qX2ZrMXJjVG9fLXRsR3FZajlXVEZoTkhqT3Izb2NocVRGQUc?oc=5",
+      "pub_date": 1795633204.0,
+      "article_url": "https://www.ft.com/content/95b7e73d-a884-42bb-9845-f0e305699664?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Eric Trump-backed robotics startup told all workers their health insurance is gone \u2014 \u2018extremely unfortunate\u2019 situation",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk1iQ1BCdE5PZkdEaTZnY21qRjlXNTc4TTQya2lXdmJ6c2lpa1Z5ZUNBTWNpT1VhbEtmTnZEUUVEMnZnT1Vpc1FHa3dPSERYck9zWXJPQ3pQRHRXTlBhNUNBQ3hDM3hBNmJsUHl2MVN2VnZyTmVfdHAtTHg3d3FTR0FpSGhEdVZnblFaTTVza0pUZlBxSUUxck1zbw?oc=5",
+      "pub_date": 1795471200.0,
+      "article_url": "https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1580707415cfa5c225861ca8a53101fec81d7ae378329b6d53a27e9515fa830c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F855c03300694cb48ac4a0abf4910d148.jpg",
+      "description": "This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025."
+    },
+    {
+      "headline": "Humble Robotics wants to reinvent trucking",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1V0SHNpSVRDcmh6WFd0LVdtVTd4YWlqZEtVcTNfdVJwX2VTOTFXWlRjX0VVYU90cl82dWNjUVNaQUtOX1ExdXFzUmhabjF0bmN6blNkT3JMcGxGLTE4S1R5dVNtOW83S053UjIxQ1ByZXQxRzZqVFJJTVNXRWZ0UHo5NTFPSHlrdV9jM0NB?oc=5",
+      "pub_date": 1795626324.0,
+      "article_url": "https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Meet the front-runners driving China\u2019s humanoid robot boom",
       "source": "South China Morning Post",
       "source_url": "https://www.scmp.com",
@@ -65,24 +85,14 @@
       "description": null
     },
     {
-      "headline": "I searched for an automated utopia. All I got was roboslop.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmRJb1pwZ1Z4T0prWlo4VzVMbm9TT3Fsakl6cjJyM0lBRDBmY0JMVzFPVFR0LTEzTjhSdm9uOVhEYjhEZlJndkNLMGxhUEVwWFJKUnNxcXlsOWlTQWt3eHVkN1FObXdoa1ZQM2paQnp0LVBCOGhGQ1dxSDRTYkdfeHVCOXZibURUWGJwaQ?oc=5",
-      "pub_date": 1795425060.0,
-      "article_url": "https://www.businessinsider.com/san-francisco-robot-services-humanoids-waymo-2026-11",
-      "image": "https://i.insider.com/6afc95e0bcc92b799fa7ebe2?width=1200&format=jpeg",
-      "description": "Business Insider's Lloyd Lee tried out all of San Francisco's robot services, from Waymo robotaxis to humanoid cleaners that left his home messier."
-    },
-    {
-      "headline": "Inside DARPA's Challenge Where Robots Searched for Disaster Victims",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pVTFwOHpqcEZGcUNTMW1KVEpTRVhzZDFDWkNiMG04enlwZ0lvTDc5d3lyblQtNEwtd21vdGIxc1BhbkxVcGNqTnMtWWsySndkS2xMcWpzb2RCN0tMSjRjVmdpTWp5VE1MMTJ0M3Jn?oc=5",
-      "pub_date": 1795507200.0,
-      "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
-      "image": "https://spectrum.ieee.org/media-library/a-helmeted-woman-calling-out-to-a-quadruped-robot-during-a-simulated-field-disaster.jpg?id=68752154&width=1200&height=600&coordinates=0%2C339%2C0%2C141",
-      "description": "The defense agency\u2019s latest grand challenge aimed to prove robots could save lives in emergencies"
+      "headline": "Robots that clean toilets, deliver pastries: Resorts World Sentosa trials AI solutions for tourism sector",
+      "source": "CNA",
+      "source_url": "https://www.channelnewsasia.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3NEN3VOLXA4WHBoRVFncmJKOHJkb0hlTU53dl9takVpVWxOWmdncnhOcEdGTzh5ZGNmc0JvLTRjYU9NTHNZMkFkR1F1OV84UGZKMjVOcHRVdDNKQUtMV1dMdXJhRktqdDNkcjZoZERDb3ItNGgzUVdpRGw4VldXWnpTOFYtczJHWGtHWmoyQTlZbzJKd1E?oc=5",
+      "pub_date": 1795601646.0,
+      "article_url": "https://www.channelnewsasia.com/singapore/ai-robotics-tourism-hotel-attractions-rws-6577641",
+      "image": "https://dam.mediacorp.sg/image/upload/s--nWGHjBEM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/25/img_6736.jpg?itok=ComqvnUd",
+      "description": "The initiative will use Resorts World Sentosa's integrated resort environment to develop and trial physical and digital AI solutions."
     },
     {
       "headline": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -93,18 +103,8 @@
       "article_url": "https://allenai.org/blog/robotrack",
       "image": "https://www.datocms-assets.com/64837/1795407244-robotrack-blog-draft-google-docs-image-1.png",
       "description": "RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks."
-    },
-    {
-      "headline": "High school robotics teams launch season with four victories: Talk of the Towns",
-      "source": "Cleveland.com",
-      "source_url": "https://www.cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVNUM014c1BrYUs4VTRidVdjZFVIRm1JYXpmZktTOVJXZ3VmeHVyWXdXRktJTHFBa2FJV2NIWk9UU0ExNG1TNmJhSUY5VUE0bWdJRTJ1NmhXYVNiQ3FyNWQwR3dQU0h1bmVkWWdzQmxjeXpfN3Q1My1KQnhCZEhKWFZQUThLNm5WemZ3TEJBSk1zbmYySHVKRjRjMG9sQkRUWmN3Qno1SlRpUlpaN280N040Q0txelN3a1dqM1hZa04wTXF5TWc?oc=5",
-      "pub_date": 1795618020.0,
-      "article_url": "https://www.cleveland.com/community/2026/11/high-school-robotics-teams-launch-season-with-four-victories-talk-of-the-towns.html",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-25T18:46:06.764424+00:00"
+  "fetched_at": "2026-11-26T02:03:11.673082+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-25T18:46:09.126890+00:00'
+updated: '2026-11-26T02:03:22.665172+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 25, 2026 at 18:46 UTC  
+**Last Updated:** November 26, 2026 at 02:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,632.67
+### $1,696.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -4.3%  
-**30d:** -28.5%  
-**90d:** -31.1%  
-**1y:** -44.3%  
+**24h:** +2.1%  
+**7d:** +4.7%  
+**30d:** -28.0%  
+**90d:** -30.9%  
+**1y:** -43.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $205.21B
+**Market Cap:** $207.84B
 Rank #2
 
-**Circulating Supply:** 122,250,721 ETH
+**Circulating Supply:** 122,253,672 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.0%
+-65.6%
 
 **All-Time Low:** $0.43
-+387759.5%
++392547.2%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-8d ago
+9d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?
 
-10d ago
+11d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 13d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 14d ago
 
 ---
 
@@ -156,33 +156,15 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography.
 
-ethereum.org • 21h ago
+ethereum.org • 1d ago
 
 ---
 
-**[Devcon 8 India Recap: Four Days in Mumbai, and What's Next](https://blog.ethereum.org/2026/11/25/devcon-mumbai-wrap)**
+**[Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-25-222619217.html)**
 
-*Thousands of builders at a global gathering of Ethereum communities and allies building open, secure and verifiable technology.* From November 3–6, the...
+Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last.
 
-ethereum.org • 1h ago
-
----
-
-**[Bitcoin, ethereum gain ground under new CFTC rules](https://finance.yahoo.com/video/bitcoin-ethereum-gain-ground-under-new-cftc-rules-164157249.html)**
-
-Scott Melker discusses the changes to Commodity Futures Trading Commission (CFTC) regulations that allow bitcoin (BTC-USD), ethereum (ETH-USD), and stablecoins to count toward qualifying financial resource requirements for eligible exchanges and trading platforms. Melker examines what the regulatory shift could mean for institutional crypto adoption
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing](https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing)**
-
-The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats.
-
-Decrypt • 22h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -194,11 +176,35 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing](https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing)**
+
+The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats.
+
+Decrypt • 1d ago
+
+---
+
 **[Current price of Ethereum for November 25, 2026](https://fortune.com/article/price-of-ethereum-11-25-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 7h ago
+
+---
+
+**[VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs](https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/)**
+
+VanEck is terminating Gemini's custody and clearing agreements across three spot crypto ETFs managing $934.2 million in net assets.
+
+CryptoSlate • 14h ago
+
+---
+
+**[Ethereum Institutional readies new platform to bring big finance onchain](https://cryptobriefing.com/ethereum-institutional-platform-onchain-finance/)**
+
+Ethereum Institutional opens a waitlist for a platform offering research and blueprints to help institutions build tokenized onchain products.
+
+Crypto Briefing • 10h ago
 
 ---
 
@@ -208,25 +214,15 @@ CoinDesk • 2d ago
 
 ---
 
-**[VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs](https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/)**
+**[Bitcoin Drops to $58,000, Ethereum, XRP Slide Down 4% as ANT Loses IPO Price Floor](https://www.benzinga.com/crypto/cryptocurrency/26/11/63622497/bitcoin-drops-to-58000-ethereum-xrp-slide-down-4-as-ant-loses-ipo-price-floor)**
 
-VanEck is terminating Gemini's custody and clearing agreements across three spot crypto ETFs managing $934.2 million in net assets.
-
-CryptoSlate • 6h ago
+Benzinga • 11h ago
 
 ---
 
-**[Ethereum Institutional readies new platform to bring big finance onchain](https://cryptobriefing.com/ethereum-institutional-platform-onchain-finance/)**
+**[Tom Lee Explains Why He’s Bullish on Ethereum, Shares the “Hard Money” Case](https://beincrypto.com/tom-lee-hard-money-bitcoin-ethereum-bitmine/)**
 
-Ethereum Institutional opens a waitlist for a platform offering research and blueprints to help institutions build tokenized onchain products.
-
-Crypto Briefing • 2h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Pull Back Amid Trump Tariff Jitters: Analyst Charts 'Phenomenal' BTC Buy](https://www.benzinga.com/crypto/cryptocurrency/26/11/63613214/bitcoin-ethereum-xrp-dogecoin-crypto-trump-tariffs)**
-
-Benzinga • 17h ago
+BeInCrypto • 16h ago
 
 ---
 
@@ -234,13 +230,33 @@ Benzinga • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Critical Warning From Santiment Regarding XRP, Bitcoin And Ethereum](https://www.youtube.com/watch?v=9gi_gAZwIuw)**
+**[Wall Street KEEPS Building on Ethereum Despite the Crypto Crash](https://www.youtube.com/watch?v=o4znluIPtsA)**
 
-Well everyone, its that time of the four year crypto cycle again, and I think that most people, similiar to the last 3 times this has ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Money Rules - Investing Tips 
+📺 Milk Road
 
-👁️ 22K • 👍 2K • 💬 272 • ⏱️ 17:03 • 7h ago
+👁️ 5K • 👍 125 • 💬 48 • ⏱️ 38:29 • 6h ago
+
+---
+
+**[Ethereum Under Pressure: Bull Trap or Bottom?](https://www.youtube.com/watch?v=8x9a1vXlEOY)**
+
+Ethereum is bouncing from Fibonacci support at $1595 to $1718, but so far it is only a three-wave move and a low is not confirmed ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 71 • 💬 3 • ⏱️ 7:05 • 4h ago
+
+---
+
+**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=LYuwvF0CzOc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 54 • 💬 17 • ⏱️ 25:35 • 6h ago
 
 ---
 
@@ -250,47 +266,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 61K • 👍 718 • 💬 123 • ⏱️ 28:19 • 1d ago
+👁️ 67K • 👍 760 • 💬 120 • ⏱️ 28:19 • 1d ago
 
 ---
 
-**[IS THE NEXT ETH CRASH COMING SOON?🚨 (Ethereum Price Prediction)](https://www.youtube.com/watch?v=nZ4apZ0g4KM)**
+**[Ethereum to $500?! The ONE Level That Decides It!!](https://www.youtube.com/watch?v=pEooBTKPges)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v124 CoinGPT - the AI Trade Agent I ...
 
-📺 Cilinix Crypto
+📺 Marzell Crypto
 
-👁️ 495 • 👍 18 • 💬 1 • ⏱️ 4:55 • 9h ago
-
----
-
-**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Lyn Alden](https://www.youtube.com/watch?v=4UoSV7gvCWM)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 21K • 👍 322 • 💬 15 • ⏱️ 21:42 • 1d ago
-
----
-
-**[ICP Called It: Ethereum Says AI Is the Bigger Threat | Internet Computer](https://www.youtube.com/watch?v=wvLUXvMDMdY)**
-
-The Ethereum Foundation now says AI is a more urgent risk to Ethereum than quantum computers, and it has doubled its protocol ...
-
-📺 BasedGiant
-
-👁️ 557 • 👍 93 • 💬 4 • ⏱️ 8:52 • 4h ago
-
----
-
-**[Ethereum Under Pressure: Bull Trap or Bottom?](https://www.youtube.com/watch?v=qBJQQXYNzzc)**
-
-Ethereum was rejected after yesterday's rally and the bounce is not a clear five-wave move. The outlook improves above the initial ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 120 • 💬 14 • ⏱️ 6:03 • 18h ago
+👁️ 363 • 👍 11 • 💬 1 • ⏱️ 2:59 • 11h ago
 
 ---
 
@@ -300,17 +286,37 @@ BITCOIN WARNING: REJECTION CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 14K • 👍 280 • 💬 75 • ⏱️ 17:22 • 16h ago
+👁️ 16K • 👍 297 • 💬 247 • ⏱️ 17:22 • 23h ago
 
 ---
 
-**[Jensen Huang Just Set Off Ethereum&#39;s RAREST Bottom Signal!!](https://www.youtube.com/watch?v=Mo_414PzNXc)**
+**[Critical Warning From Santiment Regarding XRP, Bitcoin And Ethereum](https://www.youtube.com/watch?v=9gi_gAZwIuw)**
 
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v122 CoinGPT - the AI Trade Agent I ...
+Well everyone, its that time of the four year crypto cycle again, and I think that most people, similiar to the last 3 times this has ...
 
-📺 Marzell Crypto
+📺 Money Rules - Investing Tips 
 
-👁️ 800 • 👍 16 • 💬 3 • ⏱️ 3:06 • 1d ago
+👁️ 33K • 👍 2K • 💬 475 • ⏱️ 17:03 • 14h ago
+
+---
+
+**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Lyn Alden](https://www.youtube.com/watch?v=4UoSV7gvCWM)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 22K • 👍 331 • 💬 17 • ⏱️ 21:42 • 1d ago
+
+---
+
+**[IS THE NEXT ETH CRASH COMING SOON?🚨 (Ethereum Price Prediction)](https://www.youtube.com/watch?v=nZ4apZ0g4KM)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 695 • 👍 18 • 💬 1 • ⏱️ 4:55 • 16h ago
 
 ---
 
@@ -320,17 +326,7 @@ Tom Lee's BitMine bought billions in ETH. Could your entry be better? In this br
 
 📺 Crypto Hustle
 
-👁️ 84 • 👍 4 • ⏱️ 1:24 • 1h ago
-
----
-
-**[Ethereum Just Closed 7 Red Weeks in a Row.. Only 3 Times EVER!! Ethereum Price Prediction](https://www.youtube.com/watch?v=NsXS2Qi1MpA)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v121 CoinGPT - the AI Trade Agent I ...
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 16 • 💬 2 • ⏱️ 3:05 • 2d ago
+👁️ 792 • 👍 22 • 💬 1 • ⏱️ 1:24 • 8h ago
 
 ---
 

@@ -5,12 +5,32 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Stock Sell-Off Continues as Investors Fret About A.I., Tariffs and Inflation",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
-      "pub_date": 1795610167.0,
-      "article_url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+      "headline": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52c3JDajhQZ1R2d0RKejhxZDhrZ0QyXzBvWDVNSHFaMzFiV2dGZGZKbjdvZHNUZ3N2U3RGOVV3NHg2bm1CZUpkaEgwUkI4cHlhNmMwa3VDV0liSVluaVZZMnNpbnFRQTNaenc?oc=5",
+      "pub_date": 1795600815.0,
+      "article_url": "https://www.cnn.com/2026/11/25/economy/stock-market-ai-gdp",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2305959488-20261122185043230.jpg?c=16x9&q=w_800,c_fill",
+      "description": "In the two weeks without Jensen Huang at the helm of Nvidia, Wall Street turned its back on AI. A deep and prolonged stock market sell-off exposed risks to an economy that is increasingly reliant on AI and the wealth it has generated."
+    },
+    {
+      "headline": "US stocks fall further as fears over AI intensify",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
+      "pub_date": 1795642998.0,
+      "article_url": "https://www.bbc.com/news/articles/cq0md8g14zryo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
+    },
+    {
+      "headline": "Stocks advance in Asia after volatile US trading over AI risks",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hZVpFMXJpQTlBUWJZZ05JNkpETGYzOS1xVHBVYm42MVFBSU5MVFJ1NXI4UEliOVNpSC1YM25QNkZvUGJnbEpYY2lSaGNmdUQ0WUhYMmFZM0N2MjBPc0hYdzBkVjFDdXpmMXRHMWpTNXE?oc=5",
+      "pub_date": 1795654693.0,
+      "article_url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
       "image": null,
       "description": null
     },
@@ -25,86 +45,66 @@
       "description": "Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers"
     },
     {
-      "headline": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56eC1rNEgtamFWQ0kzWWw0bVZObjZqMDdkZE9XOU91aVdST0RtYk91U0EtNEFYWEo0RWFDVklpaTUtZjFVc2FyM2paTk5nMWhDOHFBRkNHOWdVdmpiZTBKVkJoWFlSN1NWTUVPeEhQcm1wbXdveGtrWNIBfkFVX3lxTE9DVkFsbFdUOEk3YmRtWHR2bmJYRXFCbXNpMHZBeHd2X21MRFFBRGxXdXdOT05wRm9ISWhkRzZSVDI4Q0pSWEJ3MlZDTS1saXNpVm8tU3NIVnIzWkRxcWdGZE5SbGdOVEVaZURnNnRIcGRKTERfMllaaW9xQTBxUQ?oc=5",
-      "pub_date": 1795588186.0,
-      "article_url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107417946-1716311561256-gettyimages-2131329168-April_3_2024_Krakow_AI_logoes-9.jpeg?v=1727274261&w=1920&h=1080",
-      "description": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds."
+      "headline": "AI spending needs a smarter model strategy",
+      "source": "IBM",
+      "source_url": "https://www.ibm.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGIzbW83dk5zSnJhWms1bWNwdFFlRl9naHkyVG1feGhjMjFwcHNTVGZZbmpnYW5INTRucjB4d2JwcVRhem9pS0ZRMTFIdF95Ny14a3RCa21nX0JlZS1lZkNuX29KT29Fc0lSMi1tbUkwaG05SlpGNkt3QnhkN0xTdGF2aEhzZnFLRlo3Wnk1NWlPVmh6N3FRTXY5U2xMdVNIcFVZ?oc=5",
+      "pub_date": 1795656805.0,
+      "article_url": "https://www.ibm.com/think/leadership/the-multiplier-effect/ai-spending-needs-a-smarter-model-strategy",
+      "image": "https://www.ibm.com/content/dam/worldwide-content/creative-assets/ibs/ul/image/blue-studio-produced/2026-nov/ibm-thinkhub-spiral-connect-05.png/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "description": "Model arbitrage helps enterprises route AI workloads across models while balancing cost, performance, governance and sovereignty."
     },
     {
-      "headline": "This Is When AI\u2019s Circular Deals Bite Back",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazBUcktOb0ZhZW9nOGpPM2FVdEFreHJpWjFCS2JSU1c3WWFxZ2t0VXVOcDV1Z3BzNlJlY2R5a0c5SHBKMHg5cWw3M3k1UGJBcEg0SS16SGdXUWEzLWFjQTBhS2JFSTFnQkJJa2c2UjB6OUVaSjVVWTJiRGhaQjM4dTh5ZHZSemNSZ0R4VklyNUpnNTlhb1hBa0hXT1ZNQm1mOTgtRDIwQy11Y0pzRTkyMktRZnNjbXdjOWE4?oc=5",
-      "pub_date": 1795628100.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-11-25/the-us-stock-selloff-is-unravelling-the-ai-trade-s-circular-deals",
-      "image": null,
-      "description": null
+      "headline": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHg1UVdrWGFYNVhhZ01fMmN6aWhqWWdHYUVKYXJKUUtnUU5TN0FYamxFbHJyTllzM0FRN0NGMGVoQVR3UGhMdDAxYV9zMU9QSUF5cXlFNURuZURXTldBZWFMOF8xeUhrNkFfVy0zY0ZJeXFkYXVWZTNXZXNWeFFQWjNOX095X1HSAYwBQVVfeXFMTW9UbkFlUXFkZjc1eE5LREVGQlhHeDZuQWVJYlh4V2QxRi1qMDVwMEY4YUdXOEpvVDFibGlMaUFRenExZ2xrVGF1dEY1Qjl6UzItM29VNHBCQlI4VS1HMV9SVjhBaTNnT01CLVdxVVhUWUdnX3ZjeGdFa2hyTGV4SHdEV1A5QWxSbUFVMGE?oc=5",
+      "pub_date": 1795656840.0,
+      "article_url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268316-1771829545481-gettyimages-2201260900-omarques_24022025_phone_tech-4.jpeg?v=1771829556&w=1920&h=1080",
+      "description": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said."
     },
     {
       "headline": "Iran War Updates: Tehran denounces U.S. for using AI in strikes it claims violate international law",
       "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
-      "pub_date": 1795630020.0,
+      "pub_date": 1795644180.0,
       "article_url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
       "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
       "description": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days."
     },
     {
-      "headline": "AI agents promise to transform work. Big Tech wants to collect the tolls.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVliT05sekNtYS1adENYOHZ2N0ctVFdDV3FSRGpfZl8ySUJXQnJnVHRuUjd3dXl0ZkZ1bDF0dVp1anlwc2JRSmo1Smo4U1hGNXFFcm1GY3FQYnV0QmxkekY4UDBfbmVTU0dGaTg5NWp2ZE5LR216TXYycnNmTlQzVDE4NGJXQzh5dlVRRmdZLTQzZy1tbHRPOTk2cU44MVVCdl9JRWlpVQ?oc=5",
-      "pub_date": 1795630380.0,
-      "article_url": "https://www.businessinsider.com/google-ai-agent-access-limits-fees-gmail-drive-microsoft-copilot-2026-11",
-      "image": "https://i.insider.com/6b071fb30b69407d788a69ea?width=1200&format=jpeg",
-      "description": "Google's new AI agent access limits could raise costs for OpenAI, Anthropic, and other companies building workplace agents."
-    },
-    {
-      "headline": "Are you getting \u2018housefished\u2019 by AI in real estate listings?",
-      "source": "Boston.com",
-      "source_url": "https://www.boston.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUc1bXA2ZHl3RXQ0azk3c0VaNGhMRW05a3hnc2tqY0otRlVUZHZwckxuWlBiREtmc0RhUElQNlQ5Q1dRb2hNeHBSQUdIYm55NjQ3QmJhbkJOSENSNFFXdFlyNWxIbEVDakpOYTUxYl9xSm9TbktSdmROSHBIczVzMTJZR0xNazIzYUFwZW9rSEVjTXJaaUNSNXFNV1hDWjFxZERyVm54UDJreTFWU2RKUGxkVDhMd2FKdXc?oc=5",
-      "pub_date": 1795629600.0,
-      "article_url": "https://www.boston.com/real-estate/home-buying/2026/11/25/ai-real-estate-listings-massachusetts-new-york-housefishing/",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/11/5ZWISZ2XE5BZBE7WZCOU7XZHAE-6b06bbde4ee9a-768x432.jpg",
-      "description": "New York is considering legally requiring AI disclosures in real estate listings. Should Massachusetts do the same?"
-    },
-    {
-      "headline": "What to know before using AI agents for Black Friday shopping",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDlWaVNLMGhDTHpmeHc1MmJNNDVIcVZ0WVNDUnhyYlZlS3BGR1lGdThQYWppcW5NSkxpbXhscG4tZkttMUJqZmhRNmI2OHNYbjBJSnRjdG1fNXpxelg0dm5kTFJjOVhCQ255VWhNYmkydHpmRnlaRnh0aWFvZHhLVmVfSVBMLVh4Q2tPVUNJUjloT3NJLXFsTExDcGUzbF9TeXRxMDg0dFJJUQ?oc=5",
-      "pub_date": 1795614716.0,
-      "article_url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3733x2100+0+390/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2F3a%2F99324afc42febd0bdf8ef965b3a1%2Fgettyimages-2297767958.jpg",
-      "description": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation"
-    },
-    {
-      "headline": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release",
+      "headline": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5",
-      "pub_date": 1795517366.0,
-      "article_url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXpKRVJxZXhKY0lFc2JUUVhrNUZhek5tVVQxUmxlS2oyTUFvOTUxWWhJeF9XSmVlTkg0S3U0NDFUbDBfODF6MWlWUFZtY051eE1uNS02SjEyMTZBa2pXUWdoNkZMZi1wa1E0bTVob0dUTDN5SHZRbU9wQnd5MUVFaTkyZ296TXFBakR3VklFaVFlQQ?oc=5",
+      "pub_date": 1795637387.0,
+      "article_url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
       "image": null,
       "description": null
     },
     {
-      "headline": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2ZpZ1lfYVVFa1p5SXJCUU8xUlMxZmdqRXNxcEY3ZEFEckRmU2NjTDJFdjI5N0VfTmlkQnNTYklkMnU2OTAtLTRiRUszN3Fzcjk4UGd6T2hjZmRWQUYwLV9qRVBMMVUwVVhaMkUxTXE0eDhBZkdxOGg0RElZRHBWRHlQdTlUQWgyQ0p4dDFlNEZwQXpNQzBGSg?oc=5",
-      "pub_date": 1795572720.0,
-      "article_url": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
-      "image": "https://i.guim.co.uk/img/media/b8638ee431643455ce8b3251c145e5241b067c0a/1120_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d95adb467d6eeb1927e10790e030e54",
-      "description": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligence"
+      "headline": "David Fincher Explains AI Use in \u2018Cliff Booth\u2019 and How AI Can Be Used on Film Sets to Reduce The Amount of Takes but Still Have \u2018Real Human Beings\u2019",
+      "source": "Variety",
+      "source_url": "https://variety.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGRYd3p4QkFvUEl0d2hXR3ctWkkyQzBYVzdTUjF0aTdnWGs5ZVpBS04tempucnVRejRvRU51Z0pOcWV1d01WUWMtNUd0b2xBQTh4UGUzVUlWWEFtaEJXS2RINjdKa0lYMWotSGVIUHEtUzdWaGNnUVR2emdQQmp3ejVROUtHMm94R2tETERxVXdfZw?oc=5",
+      "pub_date": 1795632900.0,
+      "article_url": "https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022/",
+      "image": "https://variety.com/wp-content/uploads/2023/09/david-fincher.jpg?w=1000&h=562&crop=1",
+      "description": "David Fincher admitted in an interview that there was some AI used in the post-production of \u201cThe Further Mis-Adventures of Cliff Booth.\u201d"
+    },
+    {
+      "headline": "David Fincher says AI is great for fixing all the imperfect humans in his movies",
+      "source": "A.V. Club",
+      "source_url": "https://www.avclub.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DY1JDZldtNmF3NFFoa2RaejNiMURVcF9OS2FOS0hCMkhCTHBxQW5xWFJvb3RTSmJuTVdfWUhoLVZyTFJ5bUhCa1Jpakw1aEh2WW1HRmlnOFk1Y1I4bXY0WnloZkZWNzJJTWN4SXRTcEUzb2dYWFpPNENJQlhKRlU?oc=5",
+      "pub_date": 1795642260.0,
+      "article_url": "https://www.avclub.com/david-fincher-ai-use-cases-lip-sync-hair-in-corneas",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/david-fincher-feature.jpg",
+      "description": "David Fincher says AI is great for fixing all the imperfect humans in his movies"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-25T18:46:01.003811+00:00"
+  "fetched_at": "2026-11-26T02:03:10.370900+00:00"
 }
