@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "PQAI #0: Preparing Ethereum for a post-quantum, post-AI world",
+      "source": "ethereum.org",
+      "source_url": "https://blog.ethereum.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yTm5WenFYZld0MUQ4c0pZV1lReDZURzVWbEs4aFpUcWg4Z0ZTbGNnOGxVMTJQd3o4RmVwTk05MkJFeUp6MVVQX09MQUdIRFpzT2VOY1Fn?oc=5",
+      "pub_date": 1795475282.0,
+      "article_url": "https://blog.ethereum.org/2026/11/23/pqai-0",
+      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
+      "description": "Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on..."
+    },
+    {
       "headline": "PQAI #1: One hash to rule them all \u2014 Keccak-256 for Ethereum's post-quantum, post-AI era",
       "source": "ethereum.org",
       "source_url": "https://blog.ethereum.org",
@@ -15,34 +25,44 @@
       "description": "We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography."
     },
     {
-      "headline": "Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUJPRkhPQ09wcEFCcjEwTTkyV05Rcmk4aV9uZF9HcFpORjRXQzhJQm51ckk3T1NBYlNneE9xeC1aTTdiX1JwTkhSRTU3Smt2ZDhmVWRZTkxHRUxDWUwtV2dNNmxHckhqLXVVeXNwUGNhdHYxNnRKNTF2UmcxdzNqa1dJa3BoTG5rcW5XV1BrOHJ3YTBYN3c?oc=5",
-      "pub_date": 1795645579.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-25-222619217.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0957894453443142c714f824551f9d75536510725169531a741d04bf7232b509/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fbaf22de5907b2fa57bad4047676595bb.jpg",
-      "description": "Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last."
-    },
-    {
-      "headline": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says 'we do not take this lightly'",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZzM5RDcxTE9xaml6X2RsLVUzcVF5ZVpvT0QzT09Wb0V4QUJ0blJtQWhCeDdkYThCYW85bDFaTkNWYmhERmtpNW1LQnBWSWVLODBhUW9MbjBtVlpTcTVudDhqZWh6RDZYS1RnR3VSaEpkR1VsRFVYbGxJWU85cURGQmVreUlSczR4SkhSLWxkOU9iMWNoM3ZNeHlMTmJNamV1TVZfWEhDcTdlTjVjWFc1M3VGcGU4OUJmLVk0NDlRNDRuVTkwVU5lRklaMHExY2M5QlRYUEdiZTVmT01hRDI1NnplZWE2NnYxTzRpRWtR?oc=5",
-      "pub_date": 1795534020.0,
-      "article_url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-4.png",
-      "description": "The repayment leaves the company holding about 24,245 ETH, alongside $17.9 million in convertible notes due in 2027."
-    },
-    {
-      "headline": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "headline": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3ZjR2lMSmpZNjN1eXFyUWJRZHBleHZRWUQ5MEcxSzEzM0wwZmNGMm1lMjU2VEpFbUpkNENQVUdCMGNMY0hXcjFXZnBEWWlWTXltU2Q2REJmdWRBeXNVdldZMDBsc293aXRYSUJaQ3NWR29NYk9rUmlOcjJwRndSMzNpQkRWQzdLWElDa3p3?oc=5",
-      "pub_date": 1795552562.0,
-      "article_url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png",
-      "description": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats."
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFo3YnMyS29fazdEVS1RUlllN1pza2NmYkMySkhwbVdZSEZ3RzNsbkQ2RHhQNUUwdjdnWC03RVJZZzZ3bWN0S3lqdHBsQklHb3VmV1J4SkZyQXd1SXh1YVE1OFA5dUVQVjdlS0RPNUl0NTFlR1FNaDVkTGRBNENHYTBiczZnSXFPRmpPeTMzRVpPZw?oc=5",
+      "pub_date": 1795614098.0,
+      "article_url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg",
+      "description": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous."
+    },
+    {
+      "headline": "Bit Digital, Inc. Reduces Secured Borrowings from Galaxy Through Partial Sale of ETH Holdings",
+      "source": "Bit Digital",
+      "source_url": "https://bit-digital.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUNUZW5Zbm9pWVE1LXdYalBVMWppbWxGWWlqcFJnd0puenc1QTJYV2k3eGp3RjdlODJvcnRKeWM0OVJqcmZ5SmNuZzFsS2JEd2J3ZzBmRW9wcnh1VE1ocHBWeWswZTVwcWNzUzYtRjV5TXVZVE9FbGw3eEdrSHBIaHFaVTJaRHZ1cllXZFNHNDhaWklRblFYRVVzN3BmTXhodnJzTFlPN1ItZWFMWnJiMU5Wc2ZRQnlCaktqRWtR?oc=5",
+      "pub_date": 1795652417.0,
+      "article_url": "https://bit-digital.com/news/bit-digital-inc-reduces-secured-borrowings-from-galaxy-through-partial-sale-of-eth-holdings/",
+      "image": "https://bit-digital.com/wp-content/uploads/2026/11/Bit-Digital-Reduces-Secured-Borrowings-Through-Partial-Sale-of-Ethereum-Holdings_November-2026.jpg",
+      "description": "Bit Digital, Inc. (Nasdaq: BTBT), today announced that it has repaid $50 million of principal under its secured borrowing arrangement with Galaxy Digital. The repayment, funded through a partial sale of the Company\u2019s ETH holdings, lowered outstanding Galaxy borrowings from $100.0 million to $50 million, a reduction of 50%."
+    },
+    {
+      "headline": "Bitcoin, ethereum gain ground under new CFTC rules",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWi1IVERtcWROck82RHpmQmt5bWszWXBTUTVVaktIaExydmZUZEd2d1AxNjRRTnN4dmFLU0xvNlFmRm90bC10ZmZjc2dqTHhDei1rTHVlM2Q3bFkzVEN3dzhReklYWTdwUGtuTktPclZUQ0Ffb1hrLW94SjBnaEdaVUdrREw4MWRMeGdhb2lhcUZfc01vbGhWLWVjZUg?oc=5",
+      "pub_date": 1795538517.0,
+      "article_url": "https://finance.yahoo.com/video/bitcoin-ethereum-gain-ground-under-new-cftc-rules-164157249.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/dd2624cdeb44cbedbfd6052c8a1d0ac6f352fb24b1ead205d4ab2603557829ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1795538294369_9048.jpg",
+      "description": "Scott Melker discusses the changes to Commodity Futures Trading Commission (CFTC) regulations that allow bitcoin (BTC-USD), ethereum (ETH-USD), and stablecoins to count toward qualifying financial resource requirements for eligible exchanges and trading platforms. Melker examines what the regulatory shift could mean for institutional crypto adoption\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Climb Even as Core Inflation Stays Hot: Analyst Warns Investors to 'Prep",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWV9EX1FFWC15LUxRcy03VEJHVU8zMGFmc2J6d0VSR2tubzBDMVF1cm1qUGc5TmZzLUFRWTdwc2pqRG8wVEJob1EwYzZNejc2ejlOS2VNeFM5Q2g3Q3Q4c1FCTnRaZTQ4TEp5cy16bFROU2twcHRTNG5YTW5RTWJTU1RJVzNkUmdpTWVWSnFKNWU5bTBxU2g0OVRablI0RU1HNVc4cEd3LXhndTAzR3VmNTZB?oc=5",
+      "pub_date": 1795657408.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63659254/bitcoin-ethereum-xrp-dogecoin-crypto-inflation-pce",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Current price of Ethereum for November 25, 2026",
@@ -55,56 +75,36 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYXdiUUxxdkpkdVhvSk5jZHNWTlZXR1ZiYktZTUhpTWdvRDM2WnN0S2NwajRnek9PMFR3amlRTjNRTm1MbUpsaUowR1lFTVl6TTJGTmotaWJJa1dtS1VXLWNfRXZ1eDBJMGI1UFFsZ3JNMzMwWEJXSUlrX2VCNTdwRk5JSFpBVnZNSTVxY1ItRXZ3SjVNck5pb0wwc0V2MGFyVFZLSzFQMjAxTmtQ?oc=5",
-      "pub_date": 1795608024.0,
-      "article_url": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/vaneck-gemini-settlement-junction.webp",
-      "description": "VanEck is terminating Gemini's custody and clearing agreements across three spot crypto ETFs managing $934.2 million in net assets."
-    },
-    {
-      "headline": "Ethereum Institutional readies new platform to bring big finance onchain",
+      "headline": "Ethlabs backs Ethereum\u2019s Glamsterdam upgrade unchanged amid gas concerns",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDdpXzIxU1ZIbGlNLVBWRXdLc1dPUzRCYTBoVHQxRjlPMEQ2RVY1NjYwUUhvR2Y5bFZQVGNTLWlORDlFQVdfb0lrdDFqOGhrb19lbFZaVWxQTVQwYnlNeVhaMG1pVUJXeHUwbjhtc0RCcDU1YU9tOVpDZ1hiNkQzeg?oc=5",
-      "pub_date": 1795621628.0,
-      "article_url": "https://cryptobriefing.com/ethereum-institutional-platform-onchain-finance/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/25104700/library-ethereum-institutional-readies-new-platform-to-bring-big-800x450.jpg",
-      "description": "Ethereum Institutional opens a waitlist for a platform offering research and blueprints to help institutions build tokenized onchain products."
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lSUdDbHFuMGtVVUZQMGNiNVRlOVh2dDZkd2xGclU5TXp3UUpQLXRHYjR1QjExdFhoOUdJREhWQnBYcy1oQTFBSE1RZkd6cGRnTUZxcVNyX0ZrbVZxbkNoMld3VVZIai1YRGdEbnRpRFB3TXhJU2V3dGp5OA?oc=5",
+      "pub_date": 1795690869.0,
+      "article_url": "https://cryptobriefing.com/ethlabs-backs-glamsterdam-upgrade-unchanged/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/26060101/library-ethlabs-backs-ethereum-s-glamsterdam-upgrade-unchanged-a-800x450.jpg",
+      "description": "Ethlabs urges Ethereum to ship Glamsterdam as is, warning EIP-8037 changes would delay the upgrade by months and cut planned gas capacity."
     },
     {
-      "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENDazYzcl9MR1ZMYklmOXNqRGdnN2ozVHhuVUZnTkg5RmR1YXRUc0xJNUlSSzJYNUstaUFYUnZlQ1lkYkRPenJKakR6X0RDaFFnLVdJMTdzc3dsV2NFNFZqZDdVU09xZVpoUTdfZlRTSXhObDZZZmh1cVA0bUdadkpJZ3JndkR1MU9PMjRZYWh0VHN4bEdVZFgtVXc2Q0RoQVVFMUFuX2RkbDlLcmRFdFJLLXVYcXhkS3NDZERUc3dYMTVBb2k4TWNn?oc=5",
-      "pub_date": 1795438173.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-      "image": null,
-      "description": null
+      "headline": "Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMTE1Zzh0cHZjMjR6YlBJSHJ0U0tPa0xKSWVtdWNCSHVsblNKU3RhTFgzQy1hVjBFNkxySTdiaE9GMThZdm1aemVXNjBTU3V1cWxMamlRMTFhenlxN05wd25xZHUzSjN4ZU9Femxfd3BXNkVyLXBZS0xJVW9aNjU5TDBRUWRvVUVYeGt5cWZFVzBWZnR0N2VoekVqQXFYQWxKQzUwN3lnRGhlanpmODdFcURDcmt0Q1ctajdWWUwxV2xrcWdqczlhVUJGdWp0MWt6R293R1lxLWwzdGRIQzBRNmRwUXFnazhFYm5jNlpDQQ?oc=5",
+      "pub_date": 1795644379.0,
+      "article_url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/crypto-market-today-nov-25-bitcoin-ethereum-and-solana-as-short-liquidations-fuel-fragile-rebound/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc1c1b171578713f3619bde9579b57b1944f4086e-2236x1341.jpg&w=1200&op=resize",
+      "description": "Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last."
     },
     {
-      "headline": "Bitcoin Drops to $58,000, Ethereum, XRP Slide Down 4% as ANT Loses IPO Price Floor",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3V0cVJRWWQwTXg4N1Z2M2tEYzVkdGpwMWJsZDN1UjdmZExKbHA0YkZOcWpHalF5LUdjeXNNamQ4T1RrdGFSY2pMYlVyRlhXRDBYTTVWT3ZkTVo5blIzS2lGN25sM1VVeFlJdUVPMlAwZ1FFMFNjVXpIR2hKcndTUXpJWjZiZ3ZMbjQwa2twbnRXYXFiNWtmeXpuWWZ6elpFRDNQS3luVUNXMHJCRWNQNElzV3p5dzByVEdrYjlUMWpnOTFPR1RzUFd4THUzc0diTW94OWhB?oc=5",
-      "pub_date": 1795617585.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63622497/bitcoin-drops-to-58000-ethereum-xrp-slide-down-4-as-ant-loses-ipo-price-floor",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tom Lee Explains Why He\u2019s Bullish on Ethereum, Shares the \u201cHard Money\u201d Case",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jOGEyUnV6cGRURENoRFR2MWhUeENFdEZMbTNBRi0yNkRCeXpsdHd2X0FBbmhxbi1yMHg5QzU3MVVrQWhZcXB4U0d3UDh5eTdWQ0pZY3pBNUg3TFhZRDREaV9fUjFLMzhuN2VDZVI2N0wxVGF6Vmc?oc=5",
-      "pub_date": 1795598856.0,
-      "article_url": "https://beincrypto.com/tom-lee-hard-money-bitcoin-ethereum-bitmine/",
-      "image": null,
-      "description": null
+      "headline": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says 'we do not take this lightly'",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZzM5RDcxTE9xaml6X2RsLVUzcVF5ZVpvT0QzT09Wb0V4QUJ0blJtQWhCeDdkYThCYW85bDFaTkNWYmhERmtpNW1LQnBWSWVLODBhUW9MbjBtVlpTcTVudDhqZWh6RDZYS1RnR3VSaEpkR1VsRFVYbGxJWU85cURGQmVreUlSczR4SkhSLWxkOU9iMWNoM3ZNeHlMTmJNamV1TVZfWEhDcTdlTjVjWFc1M3VGcGU4OUJmLVk0NDlRNDRuVTkwVU5lRklaMHExY2M5QlRYUEdiZTVmT01hRDI1NnplZWE2NnYxTzRpRWtR?oc=5",
+      "pub_date": 1795534020.0,
+      "article_url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/image-4.png",
+      "description": "The repayment leaves the company holding about 24,245 ETH, alongside $17.9 million in convertible notes due in 2027."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-26T02:03:10.802731+00:00"
+  "fetched_at": "2026-11-26T11:18:45.694473+00:00"
 }

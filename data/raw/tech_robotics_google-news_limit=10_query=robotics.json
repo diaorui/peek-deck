@@ -5,64 +5,44 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "A LEASH for AI-controlled robots: New system could reduce harmful actions",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TRVMxaHEyOThRTl83emFvaWMxdVBkSUNiRWZ2V285cXpHejlpTlFjRjUxRVBwcXJfM1N6cTVlcjF0UHJHTDVmbFJwbkQ4c3E4Z1B5dEttQzJrRTBCY1A2OVRwdWxXT3E1Tm11bFVGZmZPQQ?oc=5",
-      "pub_date": 1795437601.0,
-      "article_url": "https://techxplore.com/news/2026-11-leash-ai-robots-actions.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "This robotics stock lost half its value. Here's why Citi says it's a buy",
+      "headline": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWR6d2VBak1TQWFRUnVfeE5qbjdZQWFHcmg0UEU2Z3VwbjJEZV9fUGhtSVphaHdDMGdlN2FRUUxQeVNiMGRPT1ExYjRKWVk2YXYtZFp6WEprQ2FxWkdWVkNETXk0dzBSRmMwVHlJS1lfOU05SDBVYkN4TElvQnJtQlc3YldHb0Ribks0LUVQeGloV3FEYnFEN1BQcTJmLXVOUkMxUkFHUQ?oc=5",
-      "pub_date": 1795616823.0,
-      "article_url": "https://www.cnbc.com/2026/11/25/a-robotics-stock-lost-half-its-value-heres-why-citi-says-its-a-buy-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107302331-1695049060845-Agility_Robotics_-_DIGIT_-_3.jpeg?v=1695050859&w=1920&h=1080",
-      "description": "Agility Robotics has lost more than half of its value since its IPO, but it is positioned to see a lot of upside if the humanoid robot market expands, per Citi."
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1BINks3MVZUQ1BqeGk5azVmcm9QaFpCY001LVlOVVpvRW1SdG9xNlBENG5hLXFRamhpS0o0anNBZWU5ZzJaR2k5b0JFc2FRQ3djY3A2LTlaOW5sSFhWdGEzdHRyQzg0S2h2aVJMNWlzZE40UUp4RV9yTzN0RmdoaFpQVnJBRHZDOVNLadIBkgFBVV95cUxObzFMRk80QVkxUUIxdDFGSXdab01lX2xZTjhab0pRUXpzbTA3XzNJQXhYVjdJZVhIQU01a3lJNjdVeFcwTko1MC1Cak43aEtZakI3bVpOVjB5Q2JqTXVQRGo4NmtYX3QzVGNDczJHT09lRC16R0dOTTNUUDRWUGl2LVhZeHNtVHppemJlNjJuWVd6UQ?oc=5",
+      "pub_date": 1795678211.0,
+      "article_url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
+      "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday."
     },
     {
-      "headline": "Nestl\u00e9 turns to AI and robotics to stoke growth",
-      "source": "Food Dive",
-      "source_url": "https://www.fooddive.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUJQdndKaWRTTThJclNudkt5MXc3QjQzWGtYTHFRUl90UERKbU9ENHFlSWcxdWZ2S3BBLVUxMFpoRzNNZGlGS2d4aFUtUktrVVMzNms2eHpyU3lUQmZJMEhockV5Y2w1S3pNZVJTOG9SWFYyZVFSV3B6UTBKTGxqR3dURXBzUTlUdWExMWJSaUF6eHRLTkttLTJ3?oc=5",
-      "pub_date": 1795536438.0,
-      "article_url": "https://www.fooddive.com/news/nestle-grows-artificial-intelligence-robotics-innovation/875604/",
-      "image": "https://imgproxy.divecdn.com/jug0x8w3V5OfTyTq9R71BpyVfhPnFgS_UdBvmwJGRCo/g:nowe:0:0/c:850:480/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjQtMDMtMTNfMTI1MjQwLmpwZw==.webp",
-      "description": "The world\u2019s largest food company said a deep tech center will help it develop and test ideas faster, maintain consistent quality and improve efficiency."
-    },
-    {
-      "headline": "SoftBank acquires Marc Raibert\u2019s Robotics and AI Institute",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFVpMkxPaEw4NVUzdTZmNHM3amdYLVRJc0tfcWdlSWpUR1hrczBVNTVXMC1PVWY1X2tQeWRHNldFOWxKN3NmajU1QTduMG1NOG45OVlncm44VnVuOWZhUlNZd08xclRoTFdkN1huSWtjN1lfb241Q0JXOXk2b2VKYkc2SFNxdHc4Si1rX3RrRU1mdnM?oc=5",
-      "pub_date": 1795532160.0,
-      "article_url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/softbank-acquires-rai.jpg",
-      "description": "SoftBank acquired the Robotics and AI Institute from Hyundai Motor Group, reuniting with Boston Dynamics founder Marc Raibert."
-    },
-    {
-      "headline": "Light-activated nano-robots bring more drugs to the brain",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVVBR2lOd1Rzd0RMWlh0ODBWbUFKMFpJR2daTDFxWm44eWk2TkU5LTVhVGRmUEN0eFRIamhsT0hJT3NYZExPZ1lhc0I3OUtXWWIxZng2RjB6ZG1sUjlEOG1qX2ZrMXJjVG9fLXRsR3FZajlXVEZoTkhqT3Izb2NocVRGQUc?oc=5",
-      "pub_date": 1795633204.0,
-      "article_url": "https://www.ft.com/content/95b7e73d-a884-42bb-9845-f0e305699664?syn-25a6b1a6=1",
+      "headline": "Humanoid robots are coming\u2014sooner than you think",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVcwd25vNlVhVThFSlJUVHRacFpnZzgtbElYaExPOGt4cHA3SEFCWE9XcmZMVUJCWDNhNi0ycDdOWTV5ajU4N0J3akZzTGVqR3NDZmQyQ1h5UGptRnItcGxWOXdNQ3o2eHEzRzVBc2QxREdPV3Yxclc3Qkt0MXVEc1MyUk9GSzY2U25GSU0xcmhuZy1XWEx2Znpn?oc=5",
+      "pub_date": 1795690118.0,
+      "article_url": "https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think",
       "image": null,
       "description": null
     },
     {
-      "headline": "Eric Trump-backed robotics startup told all workers their health insurance is gone \u2014 \u2018extremely unfortunate\u2019 situation",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk1iQ1BCdE5PZkdEaTZnY21qRjlXNTc4TTQya2lXdmJ6c2lpa1Z5ZUNBTWNpT1VhbEtmTnZEUUVEMnZnT1Vpc1FHa3dPSERYck9zWXJPQ3pQRHRXTlBhNUNBQ3hDM3hBNmJsUHl2MVN2VnZyTmVfdHAtTHg3d3FTR0FpSGhEdVZnblFaTTVza0pUZlBxSUUxck1zbw?oc=5",
-      "pub_date": 1795471200.0,
-      "article_url": "https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1580707415cfa5c225861ca8a53101fec81d7ae378329b6d53a27e9515fa830c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F855c03300694cb48ac4a0abf4910d148.jpg",
-      "description": "This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025."
+      "headline": "Volvo Is Bringing Humanoid Robots Into Its Factories. Here's When They'll Start Working",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTU05aENBbHI3RTBRVFl6QWFILV9Vdzk1UWc0SHRoLXFrR3lybVhsdzZCbXZwaWhkZ29TcFJLTkxUSERBMWREYXpYQlhLZkV6OHlEbm9MMjRFMjdFY2paSFltN2ZBSW80Y3hhTnFMZVlDUWFjbm1jN3ZpZG1PRmJJQTM1ajE?oc=5",
+      "pub_date": 1795681980.0,
+      "article_url": "https://insideevs.com/news/816850/volvo-cars-humanoid-robots-training-factory/",
+      "image": "https://cdn.motor1.com/images/mgl/0epk9j/s1/volvo-cars-is-training-aeon-humanoid-robots-for-future-work-in-factories.jpg",
+      "description": "The first Aeon units are already being trained at Volvo\u2019s factory in Ghent, Belgium. The next step is giving them real work."
+    },
+    {
+      "headline": "Robots will have a staggering economic impact",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXVGRjE5dERHSklyWnlwcGlXQzhHMHp4aUFrWlE2UFE2OTBrczh1WlE4b1pzRUdjVngyeTZEc3FYVXV3eVBsSF9VRW8yVG5rNm9QZlN6Zk44ZTFTMU1mV3hLaTR5WGszcGM4Q0YteTdWNWhuLTJSM1FSYUI2YVdlZGlJVmpJOWV3YVRteTZuZHhJUGZT?oc=5",
+      "pub_date": 1795690173.0,
+      "article_url": "https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Humble Robotics wants to reinvent trucking",
@@ -75,36 +55,56 @@
       "description": null
     },
     {
-      "headline": "Meet the front-runners driving China\u2019s humanoid robot boom",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGctNW9tTG5naEdldGdOZXY5MmQwcTJNUG9welZvWmg2dlJ2bms2bTRLTmJESk9nRVdHdmNVWEx3UDJhM2Y0bUw4WGQ1ZkxtZ3ItZVpWN2JZelVDX25IdlpvOGJKZi1MTlA1MEdJUWt4YTItNUVTSUhzakpYVU5VZHpudVM4OVo3TUJMdmpvajRQbjNoU01oUFhkU0dpaDhXNXUxOXpKSFM?oc=5",
-      "pub_date": 1795480205.0,
-      "article_url": "https://www.scmp.com/tech/article/3375497/meet-robots-chinas-six-top-humanoid-developers-vie-market-share",
+      "headline": "Inside DARPA's Challenge Where Robots Searched for Disaster Victims",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pVTFwOHpqcEZGcUNTMW1KVEpTRVhzZDFDWkNiMG04enlwZ0lvTDc5d3lyblQtNEwtd21vdGIxc1BhbkxVcGNqTnMtWWsySndkS2xMcWpzb2RCN0tMSjRjVmdpTWp5VE1MMTJ0M3Jn?oc=5",
+      "pub_date": 1795507200.0,
+      "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+      "image": "https://spectrum.ieee.org/media-library/a-helmeted-woman-calling-out-to-a-quadruped-robot-during-a-simulated-field-disaster.jpg?id=68752154&width=1200&height=600&coordinates=0%2C339%2C0%2C141",
+      "description": "The defense agency\u2019s latest grand challenge aimed to prove robots could save lives in emergencies"
+    },
+    {
+      "headline": "Novanta Shares Just Jumped And We\u2019re Buying This Robotics Play",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUZzQmphRHJxZlVobWczY1l6RzZxb1U5X1VaX19wUnVWcEt2UGh0UFBrMVk2Q1F6RnBuTTU1bmRrcHJRZ1NKRGFUeTZXZW02WlpyQ1lubVV5aWFoelIwTzVVT1pzQ0pGd2RQMWl1aGozQUdrUlU5RW15bnRBUmZ3ZXZOb0UwUUU?oc=5",
+      "pub_date": 1795561162.0,
+      "article_url": "https://finance.yahoo.com/video/novanta-shares-just-jumped-buying-225922952.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/afecb29ad372f9f399519e545837408c1f52a88a4f5c7a8701e18c8723e52915/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st_video_956%2Fe063c01c000e44828f0ca126263f4a92.jpg",
+      "description": "Just as early investors targeted foundational chipmakers like Taiwan Semiconductor (TSM), Nvidia (NVDA), and Broadcom (AVGO) at the start of the AI computing wave, investors are currently examining diversified industrial and sensor plays such as Regal Rexnord (RRX), Timken (TKR), Allegro MicroSystems (ALGM), Ouster (OUST), and STMicroelectronics (STM). During a recent episode of The AI Investor Podcast, hosts Eric Bleeker and Austin Smith took a closer look at Novanta, and shared why they are optimistic about the robotics manufacturer as an AI investment play to target in 2027."
+    },
+    {
+      "headline": "Robots roam Singapore's urban AI testing ground",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbkNYbjBkTUlXMS1ablJQdGFxZDg3ek16YktNRVRidTA2SG5GZUhNR0FRSHRCR3JjM0p3N0tTRzlVQmdMbDM2aVhKVDN2eTNPdTNxRFZYYV8xM0psWWZhTHA1b0JwNkZpRFFJYkRBd2VzYlJBUlVEYlJGaw?oc=5",
+      "pub_date": 1795686088.0,
+      "article_url": "https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Robots that clean toilets, deliver pastries: Resorts World Sentosa trials AI solutions for tourism sector",
-      "source": "CNA",
-      "source_url": "https://www.channelnewsasia.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3NEN3VOLXA4WHBoRVFncmJKOHJkb0hlTU53dl9takVpVWxOWmdncnhOcEdGTzh5ZGNmc0JvLTRjYU9NTHNZMkFkR1F1OV84UGZKMjVOcHRVdDNKQUtMV1dMdXJhRktqdDNkcjZoZERDb3ItNGgzUVdpRGw4VldXWnpTOFYtczJHWGtHWmoyQTlZbzJKd1E?oc=5",
-      "pub_date": 1795601646.0,
-      "article_url": "https://www.channelnewsasia.com/singapore/ai-robotics-tourism-hotel-attractions-rws-6577641",
-      "image": "https://dam.mediacorp.sg/image/upload/s--nWGHjBEM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/25/img_6736.jpg?itok=ComqvnUd",
-      "description": "The initiative will use Resorts World Sentosa's integrated resort environment to develop and trial physical and digital AI solutions."
+      "headline": "Light-powered 250-nm nanobots boost brain drug delivery fivefold",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmdqTWVtbU9IZU9pYVF2aVNvejBZRzBLN1JWX29aczdFdDR0ZWVFQ3Z3Zmg4Q0hONWhJbUdTQWpwTEpVM2JaWHY0TXhONWtRQjdGU3V5bkNCcWcxbXU2em1ycXlzTjRvb1FLSlY0YnZubTEyU2RvRWdUMk5maHd2c2xKLW1vVGdyRHlBaTdHQ1BZdnFVbkV3ZnB4OFJiTUE?oc=5",
+      "pub_date": 1795664400.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/caltech-brainbots-drug-delivery-blood-brain-barrier",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-31.jpg",
+      "description": "Caltech's 250-nm biodegradable nanorobots use near-infrared light to improve drug delivery across the blood\u2013brain barrier in mice."
     },
     {
-      "headline": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "source": "Allen Institute for Artificial Intelligence",
-      "source_url": "https://allenai.org",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fRzBMSHFUMkI1OHJGNjdfeThCTlBtdDVRWUZTYVVFSW1ZdXI3aldNVmxud0MtQmEwTTNLR0NWOHRjZ09IOXdwRXN3?oc=5",
-      "pub_date": 1795457007.0,
-      "article_url": "https://allenai.org/blog/robotrack",
-      "image": "https://www.datocms-assets.com/64837/1795407244-robotrack-blog-draft-google-docs-image-1.png",
-      "description": "RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks."
+      "headline": "RoboSense Reports Third Quarter 2026 Unaudited Financial Results, with Robotics LiDAR Sales Volume Ranking No. 1 Globally",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWGVaeXZ6ay1TN18xTF9VdDYtWDFRa1F5R0V4X1llVC01ZDNqWGNOSlRDc3NQRDVNYVo3M0JVR0JXS2pHdnR3OFNKQ3ZERDJPRzZmUDN2cUMtRm11b1ljVGRRZTllV2xpeTZjaFpYS0hRMm5IMFdBUHRweGcyN1JJUTBLcHlmQ3JySVhrdXY4ZEJTQjZpQU9CNzRxdVA2bTdSdlJ3QlBsWlA2a2VTaE5WS1E4RHU5QmRHbGlPeGk4SGJkbWRsMTBNSE4xaE5SekNLQ0p5SXpJSUVURVRULXIwQVFaWGJLcDhWV1pKQTdHT29xdkY3ZlRUMTlTV0dxWkt3dG1NbnFWbGhaZklv?oc=5",
+      "pub_date": 1795667086.0,
+      "article_url": "https://www.morningstar.com/news/pr-newswire/20261125cn06851/robosense-reports-third-quarter-2026-unaudited-financial-results-with-robotics-lidar-sales-volume-ranking-no-1-globally",
+      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-26T02:03:11.673082+00:00"
+  "fetched_at": "2026-11-26T11:18:58.037900+00:00"
 }

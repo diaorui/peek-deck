@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
+      "headline": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
+      "pub_date": 1795677540.0,
+      "article_url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tech stocks are volatile as AI fears overshadow Huang\u2019s Nvidia return",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52c3JDajhQZ1R2d0RKejhxZDhrZ0QyXzBvWDVNSHFaMzFiV2dGZGZKbjdvZHNUZ3N2U3RGOVV3NHg2bm1CZUpkaEgwUkI4cHlhNmMwa3VDV0liSVluaVZZMnNpbnFRQTNaenc?oc=5",
-      "pub_date": 1795600815.0,
-      "article_url": "https://www.cnn.com/2026/11/25/economy/stock-market-ai-gdp",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2305959488-20261122185043230.jpg?c=16x9&q=w_800,c_fill",
-      "description": "In the two weeks without Jensen Huang at the helm of Nvidia, Wall Street turned its back on AI. A deep and prolonged stock market sell-off exposed risks to an economy that is increasingly reliant on AI and the wealth it has generated."
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1FuS01WaVlhenhqc2I2M2hUckJlTm9fUjZ3N2ZjSmtTM3pCSkktYzlUM094TkV2NFROMjBseXlla2R3US1xRjh1QktLalI3dmVHZ2dpWGY4UEVXa2lKemFvX2doTXZ3d0FOTkV3NW5aYlZBWk9HZzhUa19aZW1GbWVmWFlvQQ?oc=5",
+      "pub_date": 1795615334.0,
+      "article_url": "https://www.cnn.com/2026/11/25/business/ai-sell-off-despite-huang-nvidia-return",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2306838289.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Wall Street staged a dramatic comeback Wednesday, clawing back steep morning losses as investors looked for safety in non-AI corners of the market."
     },
     {
-      "headline": "US stocks fall further as fears over AI intensify",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENVVNamVYdzF3V0tzVDBVWlVHWEV3WE9Wem5kMVgxRkNOQjI3Y0Nla0YzOFczWk5QbmhnSjk0LU5xTXUzeGdOY05IOVQ2ZE9YY3ExdG9WdE1NME0?oc=5",
-      "pub_date": 1795642998.0,
-      "article_url": "https://www.bbc.com/news/articles/cq0md8g14zryo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
-      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
-    },
-    {
-      "headline": "Stocks advance in Asia after volatile US trading over AI risks",
+      "headline": "Software stocks spared in tech rout as AI narrative shifts",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hZVpFMXJpQTlBUWJZZ05JNkpETGYzOS1xVHBVYm42MVFBSU5MVFJ1NXI4UEliOVNpSC1YM25QNkZvUGJnbEpYY2lSaGNmdUQ0WUhYMmFZM0N2MjBPc0hYdzBkVjFDdXpmMXRHMWpTNXE?oc=5",
-      "pub_date": 1795654693.0,
-      "article_url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlNBRzZwM0JRbmtZTlRlWHFud2NKRmJtNEFtOXpCVWNBcDUyUUtPRWRWakxEOEFSNDA2WEVhdkp5N19VQ2MybTRzYUZwMXByU0JnZ05tbE92b1I0VnZjT0pGdTZuQ3Ryb2JiM0Q4R01henJDaTNHM2ZHUHpjbk5FX3gxMHc?oc=5",
+      "pub_date": 1795669288.0,
+      "article_url": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IN1pwRHJFN1ZiXzJpeXpsLWI5RGJNMTNUU3VSNFY5Q21iUkVkNDhneFg2VFg4TTI3R3k5RXUtb0hBRGRhYkVXdXZablA3dG4zSF9yc3Q5YmVDTjBBZjAxMXJFWUdCUFFwZHQ3dm9QWG5uSWhXdS1KRGRVY9IBgAFBVV95cUxPYW9MbXdwMWFTZFd6dmhZLVNGYzdHUmNDaF9VQk5jN2lMdDFfU010WUdOX2t1ai1qNXYtZi1TbnVTbEt6b0pvejRsdjJoYmZuWXJwZjl4TkpuZHNpeHNIbEpFZkxuc3RnNExQZGRWZ0ZQTy0xYU9wYnhCT3k5a2tBUA?oc=5",
-      "pub_date": 1795627704.0,
-      "article_url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558280-1795524153938-gettyimages-2306090565-NVIDIA_HQ.jpeg?v=1795524192&w=1920&h=1080",
-      "description": "Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers"
+      "headline": "Wall Street Flips From AI Euphoria to Gloom",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5",
+      "pub_date": 1795690612.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AI spending needs a smarter model strategy",
-      "source": "IBM",
-      "source_url": "https://www.ibm.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGIzbW83dk5zSnJhWms1bWNwdFFlRl9naHkyVG1feGhjMjFwcHNTVGZZbmpnYW5INTRucjB4d2JwcVRhem9pS0ZRMTFIdF95Ny14a3RCa21nX0JlZS1lZkNuX29KT29Fc0lSMi1tbUkwaG05SlpGNkt3QnhkN0xTdGF2aEhzZnFLRlo3Wnk1NWlPVmh6N3FRTXY5U2xMdVNIcFVZ?oc=5",
-      "pub_date": 1795656805.0,
-      "article_url": "https://www.ibm.com/think/leadership/the-multiplier-effect/ai-spending-needs-a-smarter-model-strategy",
-      "image": "https://www.ibm.com/content/dam/worldwide-content/creative-assets/ibs/ul/image/blue-studio-produced/2026-nov/ibm-thinkhub-spiral-connect-05.png/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
-      "description": "Model arbitrage helps enterprises route AI workloads across models while balancing cost, performance, governance and sovereignty."
-    },
-    {
-      "headline": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHg1UVdrWGFYNVhhZ01fMmN6aWhqWWdHYUVKYXJKUUtnUU5TN0FYamxFbHJyTllzM0FRN0NGMGVoQVR3UGhMdDAxYV9zMU9QSUF5cXlFNURuZURXTldBZWFMOF8xeUhrNkFfVy0zY0ZJeXFkYXVWZTNXZXNWeFFQWjNOX095X1HSAYwBQVVfeXFMTW9UbkFlUXFkZjc1eE5LREVGQlhHeDZuQWVJYlh4V2QxRi1qMDVwMEY4YUdXOEpvVDFibGlMaUFRenExZ2xrVGF1dEY1Qjl6UzItM29VNHBCQlI4VS1HMV9SVjhBaTNnT01CLVdxVVhUWUdnX3ZjeGdFa2hyTGV4SHdEV1A5QWxSbUFVMGE?oc=5",
-      "pub_date": 1795656840.0,
-      "article_url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108268316-1771829545481-gettyimages-2201260900-omarques_24022025_phone_tech-4.jpeg?v=1771829556&w=1920&h=1080",
-      "description": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said."
-    },
-    {
-      "headline": "Iran War Updates: Tehran denounces U.S. for using AI in strikes it claims violate international law",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
-      "pub_date": 1795644180.0,
-      "article_url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
-      "description": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days."
-    },
-    {
-      "headline": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI",
+      "headline": "Cookbook GPT: When AI becomes a Thanksgiving sous-chef",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXpKRVJxZXhKY0lFc2JUUVhrNUZhek5tVVQxUmxlS2oyTUFvOTUxWWhJeF9XSmVlTkg0S3U0NDFUbDBfODF6MWlWUFZtY051eE1uNS02SjEyMTZBa2pXUWdoNkZMZi1wa1E0bTVob0dUTDN5SHZRbU9wQnd5MUVFaTkyZ296TXFBakR3VklFaVFlQQ?oc=5",
-      "pub_date": 1795637387.0,
-      "article_url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qUWl1ZDJKUFNCRTdQY0V6RWZab1ZGejhPSlhhTGlyRTdlaV9OeVdTc2JRZ2ZTMEtlSjFOeFhjUzVJQWg4bHlyN1RDOWNXRWNha1FQeVBoVm8xcUYzdVdrQ1hvYV9pSDlPRFpEeA?oc=5",
+      "pub_date": 1795691025.0,
+      "article_url": "https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs",
       "image": null,
       "description": null
     },
     {
-      "headline": "David Fincher Explains AI Use in \u2018Cliff Booth\u2019 and How AI Can Be Used on Film Sets to Reduce The Amount of Takes but Still Have \u2018Real Human Beings\u2019",
-      "source": "Variety",
-      "source_url": "https://variety.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGRYd3p4QkFvUEl0d2hXR3ctWkkyQzBYVzdTUjF0aTdnWGs5ZVpBS04tempucnVRejRvRU51Z0pOcWV1d01WUWMtNUd0b2xBQTh4UGUzVUlWWEFtaEJXS2RINjdKa0lYMWotSGVIUHEtUzdWaGNnUVR2emdQQmp3ejVROUtHMm94R2tETERxVXdfZw?oc=5",
-      "pub_date": 1795632900.0,
-      "article_url": "https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022/",
-      "image": "https://variety.com/wp-content/uploads/2023/09/david-fincher.jpg?w=1000&h=562&crop=1",
-      "description": "David Fincher admitted in an interview that there was some AI used in the post-production of \u201cThe Further Mis-Adventures of Cliff Booth.\u201d"
+      "headline": "Artists are quitting Instagram and Facebook over fears AI will steal their work",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXNFeVY3UFR6eFlYQ0xBc21CSGs3S25xN21IYUxSbzZrdF9rMGV2WXRGMG9GeUIzSmUwTFp0VVl3bmxEa01lZXM3TXdSM0lEdnhKd0RRM0VzS0FmZk1ZWWtzaTBNQndRdkxyaDUxVlZ0Q1pqMk9NVVVLekkycTNGUg?oc=5",
+      "pub_date": 1795687215.0,
+      "article_url": "https://www.cnn.com/2026/11/26/tech/artists-meta-ai-slop-instagram-facebook",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150546094.jpg?c=16x9&q=w_800,c_fill",
+      "description": "A wave of AI-generated artwork is taking business away from creators and is especially prevalent on Meta-owned Instagram and Facebook."
     },
     {
-      "headline": "David Fincher says AI is great for fixing all the imperfect humans in his movies",
-      "source": "A.V. Club",
-      "source_url": "https://www.avclub.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DY1JDZldtNmF3NFFoa2RaejNiMURVcF9OS2FOS0hCMkhCTHBxQW5xWFJvb3RTSmJuTVdfWUhoLVZyTFJ5bUhCa1Jpakw1aEh2WW1HRmlnOFk1Y1I4bXY0WnloZkZWNzJJTWN4SXRTcEUzb2dYWFpPNENJQlhKRlU?oc=5",
-      "pub_date": 1795642260.0,
-      "article_url": "https://www.avclub.com/david-fincher-ai-use-cases-lip-sync-hair-in-corneas",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/david-fincher-feature.jpg",
-      "description": "David Fincher says AI is great for fixing all the imperfect humans in his movies"
+      "headline": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5",
+      "pub_date": 1795687427.0,
+      "article_url": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "US approves SpaceX plan to send a million data satellites to space",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
+      "pub_date": 1795685264.0,
+      "article_url": "https://www.bbc.com/news/articles/cwp836l8n1jgo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+      "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
+    },
+    {
+      "headline": "Jensen Huang\u2019s bail-out will not be the AI boom\u2019s last",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeElya0VfWUVyUlEzMjdVQUFzNFRNN21vRnBuU1o2SzFVZktrSFpYWENaSTNLc19vdWl5cXBoTG5HVXNkd0xVVEQxQXB0UDJzYnhZQWFIY0ktS1NzS2RSMGtJUXl2WUptUFgtTUU2ZkR1bUxGcWhXMVpkaW81ZWU1dDNSMGxPclRKRWFYNFhCbmhhbU9DSTlHaFdkMWw2b0U?oc=5",
+      "pub_date": 1795640968.0,
+      "article_url": "https://www.economist.com/business/2026/11/25/jensen-huangs-bail-out-will-not-be-the-ai-booms-last",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+      "source": "Microsoft",
+      "source_url": "https://www.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVzh4enZzVDh3MXNzbnkzNUxyYWZTUkItNmtxbS0xQlNqNERIYVNvYlU5U2ViSmgza2JIbXJDclBWamczdDVNNnBuc25NMWVhQUNNMUFYbFhNTTFiVy1DcTl4X2M0dnJvbE8xajQ5bld5VjF2UTRqcDZxQUFyWEcyZW9TQmhsSi1naDBlU3doX2l6dEpuSGV1Q0lFSEVucEY2RFlHdVhKcnZsd0NPaWo0S1pBeW5NQk56bFFxWHVGbFU3ZlQ5QWoyLUZjT2I?oc=5",
+      "pub_date": 1795630146.0,
+      "article_url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/ARTEX-featured.png",
+      "description": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-26T02:03:10.370900+00:00"
+  "fetched_at": "2026-11-26T11:19:03.039786+00:00"
 }
