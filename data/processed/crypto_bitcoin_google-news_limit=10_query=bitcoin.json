@@ -5,36 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaDBVUUgxQjlSVjEyWmxPcFctNmluc0FSUmVfVk5SZS1NUnp3OEFpMzJ4WG1YaGJuSjlMUmVNR0lPSlZqWTNSNndPVmQydVd3S19CZjZ0SDVldXlmZzRHOUJZc3h1SF9nTF9JdUdTOGlfWWhieEZpR2pQakZVcElZbm9WdURrVkw3Z093NHNuVmlBVjBBbFFsU1hIU1NLaUZFWldYdmVvZ0t3V1N0OC1xajBHakp0bl9naTR4dHEtaXBHMTJROWFmT0hTc1p1VklZa3hXVmRFSjA5MmlY?oc=5",
-      "pub_date": 1795668360.0,
-      "article_url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVVNTElJZm9mZnBXejBIaHNBLU1WNF9Vd2ozVm1faDhkYUx1QmhuM21FWVBYcXJLSFVPQ0RhYThOWFFBcnctMUFBSHlrT0NrRmh5d21iYnBISXNFcTRMZ2RfbVQtTkNzZkkwNHBrV1hFMGxrc0dZQ3VvZ3B2cTJzUjJxdWdzWWVDbnhVT1pwR3RSaTJwancyYXBLdEhTNjFxcHN6SnV2Y3hOenVqNDlnZDhQRQ?oc=5",
-      "pub_date": 1795662180.0,
-      "article_url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/darren-halstead-sT50jo9LCH0-unsplash-scaled-e1795660899257.jpg",
-      "description": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for a House floor vote, Senate consideration, and final passage before the session ends."
-    },
-    {
-      "headline": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWxleFpSeVk1OE9WUTRPOEd5YTNxMG5BeHBNVlpiblVxNHRGcG5tRlpuUzlJaDdYWkhCZ0s5ZzBtOU5qMENSdWFGU2pwYVZjZ1lnajY4TS0tQ0VZTDlPQTBwREg0TlpYYXRILUJxelVXVHNNQXMxdmtJaDIzY1pRNA?oc=5",
-      "pub_date": 1795636428.0,
-      "article_url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Strategic-Bitcoin-Reserve-Bill-Clears-House-Committee-Heads-to-Floor.jpg",
-      "description": "Rep. Nick Begich's Strategic Bitcoin Reserve bill, with a 20-year ban on selling reserve bitcoin, cleared the House Financial Services Committee."
-    },
-    {
       "headline": "It\u2019s \u2018Coming\u2019\u2014Massive AI Crash Predicted To Trigger $25 Trillion Bitcoin Price Boom",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -45,34 +15,34 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHp3TUk5RzlaYnd4NWJVek95LXprcjBaOFJXMVFUbWVQSEh0a0pXdWt0UU5qY1FERzZFWUk4dFZ3WGZBVkpHUXphZjlBZDc1a2I0Vk0wNWtBWk01UFRlem9uVjdiLWJrS284ZUxwZ1pwY3U5M0lrOGxrOUpJT0lhVWg0azFFM2xyUUNRSkFlZDdoQWx3X09QTjUyRE5BSGNzQVBXUjA5ZWs2V2xybkE?oc=5",
-      "pub_date": 1795690568.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-26/bitcoin-tops-60-000-as-risk-assets-rise-in-holiday-trading",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONk8zWlpmWUpHcDZ4MEU0dHJsMHRRZUJzTms2QnRhMU0yemQxRUpnUk9kZldNOUdFNmZHcTNTT3NGeHFBQkRJVkdLV2tOVVkzaXFUNkU5ZUJFTGhjUmtlTFNWSnhtWVpoQXo4R2hoR09NOWI1MTZHSVdzSERaUUQxR3dxWkprY1RiWUdMbnpXQzdVbWNMRWpmXzRmcS1MY29RSV9qYkxsM1BkYUNGOXpRcFNCVVVYT3k2c1JIRUlYbHB5eEtxN0hhMTc0WXFDdFdI?oc=5",
+      "pub_date": 1795558200.0,
+      "article_url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1371159075-scaled.jpg",
+      "description": "CleanSpark ended its fiscal year with $1.1 billion in bitcoin as it presses forward with AI data center development."
     },
     {
-      "headline": "Can a 17-Year Track Record Protect Bitcoin? Ryan Watkins Weighs In",
+      "headline": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFRjNWJtczFmRmJrajR1cDhqcTJaaVNlUmNraHBTQmlqOE44ZVlVd1RmaW0zdzZTdC1ITmd0cmpHemRlRHRxU0ZXYWh5SnJSRExpR29UX1FTSlBlUFUxS1pvYU9QaTRrZUo3LV9vR1UzMlFLWWNZb2ZsS3ZuV3dnR2x0VlU?oc=5",
-      "pub_date": 1795690845.0,
-      "article_url": "https://finance.yahoo.com/video/17-track-record-protect-bitcoin-110045688.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1500e5cc304bfd6309ecde740056a7be5b2030f34c3e12f667dbf069a2f349c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2Fc23472db73dd19ddb6d288148d66ff69.png",
-      "description": "Ryan Watkins, Co-Founder of Syncracy Capital, says he\u2019s unsure what happens to Bitcoin if Pearl\u2019s compute footprint passes it, but argues a sudden flip would hurt trust in crypto while a slow one wouldn\u2019t zero out Bitcoin. From Unchained, the no-hype resource for all things crypto."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3lXN3V1ZDlVako3SUpucHB5ZUlCTWFYUmpxdG9kMTdmb2J3RUZnUGVDSWpuMGxfRGhibTJtclFNMmdfNVhyWFp1S2RBbWY0VjVPaVNnX3ZwbzcxbWxmVExPUHB5Rjk1ZU9nU3ppVEF4cFZnazRJV2hTRTZwbmRnZndXbXJsV2ROd041aXlZMXd5TlRTZDMxQUFB?oc=5",
+      "pub_date": 1795716929.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-60k-death-181529981.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/111e114c673c09d1880b1bf159895d23aa6f018b8a1b21760edd5bc0c7aae867/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F5ee7c1c3c9c0ad4d3a4d940edd5b0165.jpg_up.jpg",
+      "description": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks."
     },
     {
-      "headline": "$7B Bitcoin Options Expire Friday on Deribit",
-      "source": "shattered.io",
-      "source_url": "https://shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3VnZmV2a2xjTUtyZUkzeTdjMmhTR3pPd29GTFM3dDd6eG85VkpkYl9yVHppeUxMRUxCZkJsaG1BY051QXJqSFdPX1o5Y3VsalEyUVFReWpzRGNKbm0zdzRzaVp3MmJZbGpON1Uxdk9BbmdydGNrMl9CMHBfR1dxZ0M2Sms?oc=5",
-      "pub_date": 1795690430.0,
-      "article_url": "https://shattered.io/bitcoin-options-expiry-7-billion-deribit-puts-60k-nov-26/",
-      "image": "https://shattered.io/wp-content/uploads/2026/11/bitcoin-options-expiry-7-billion-deribit-puts-60k-nov-26-img13.webp",
-      "description": "About $7B in bitcoin options expire Friday on Deribit, down from $10.8B in October, with put bets clustered at $60,000 and below."
+      "headline": "Why Strategy Can Rebound to $175 in 2027 Even If Bitcoin Stays Below Peak",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0ZLbzBnVHVLaWpCMTZsOW9MSmVNejJaM2tpc09FTXZVVE9tSUMzSDBFZE0xVWhOaHJkclc4bTRmMUlEdHNPTEtKakZPYV85WHpkU0x0ZTlGNTNvNEhOWFlkOG5hWV9RS212WGl2amxXZXNadUV5T1daclIzNHc3c0tQd285NERxY1pmald3YmxaNV9jRWI5SHN3?oc=5",
+      "pub_date": 1795715154.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-rebound-175-2027-174554314.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5045d6b0aa7906167bedb6cf9afb474adcfa690c1c4f275f29186b3c094877b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fa3c8a50bf67051b339b825131a5cc228",
+      "description": "Strategy Inc. holds roughly 4% of all Bitcoin that will ever exist, yet its stock has fallen harder than the coin itself. Three levers, a hidden premium, and heavy dilution decide whether a rebound can happen without a new Bitcoin record."
     },
     {
       "headline": "Bitcoin Miners Hammered Again as Price Rout Squeezes Margins",
@@ -85,26 +55,56 @@
       "description": null
     },
     {
-      "headline": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+      "headline": "BTC Looks Directionless After 7 Weeks of Losses",
+      "source": "Galaxy",
+      "source_url": "https://www.galaxy.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWpZVjhjYWFucFdnOVRqa3U1QVdnay1XZ3RVR0JDclRWMWNpUU1UOGdrMUhiVUFIS0ZjeExsYUNJSDA1MjNMODNDNFNDREhVMUF6UTFwLUxBVTB2N0h6aFc5b3EzeFZQSUdTWG02WFNxRWR0cGR3QmJiS0hXVEFraWp0VkQzb1lTV0syR0NadlExRVFpQjFyZHlWN3BqazIyTEMwZmV5U2piN3RSZFlv?oc=5",
+      "pub_date": 1795612206.0,
+      "article_url": "https://www.galaxy.com/insights/research/bitcoin-bear-market-7-weekly-losses-50-week-moving-average-break-2026",
+      "image": "https://images.ctfassets.net/h62aj7eo1csj/6G3Oeawe664NJH3nD3juV7/bfcc63f548c2ebe4b7ce96744db64124/CubFinal_Thumbnail_2400x1350.jpg?w=1200&h=675&fit=fill&q=60&fm=jpg&fl=progressive",
+      "description": "In October we argued bitcoin's bear market ended in June. BTC has since lost its 50-week average and traded below the June low, an outcome that had never followed a  comparable reclaim of the average. We withdraw our call and set out what may come next."
+    },
+    {
+      "headline": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSG9zZGdYOVJDVHhEd0RJTUNuY2N4U2d2QTBRVkZRY2ZjbjRKLVBkY21aa1UxcmhfNFdUYmlSVlBDWndGd1UzOHJROC1oeTBBSDkzeWtMRE9DMVBrS0JVLVh5WlZBZDFiRWZnR3ZBekNCNE9Vc2QxVEItNjNvdzYtNGE2TFZCVHBNU3VEX01TQ25fallCbDVrRklZdXRSUW91aUdhX1dUbEQ5Nk1HR21qOGF4TUJHUV9NbUI0MmJkXy1oR2s?oc=5",
-      "pub_date": 1795678115.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaDBVUUgxQjlSVjEyWmxPcFctNmluc0FSUmVfVk5SZS1NUnp3OEFpMzJ4WG1YaGJuSjlMUmVNR0lPSlZqWTNSNndPVmQydVd3S19CZjZ0SDVldXlmZzRHOUJZc3h1SF9nTF9JdUdTOGlfWWhieEZpR2pQakZVcElZbm9WdURrVkw3Z093NHNuVmlBVjBBbFFsU1hIU1NLaUZFWldYdmVvZ0t3V1N0OC1xajBHakp0bl9naTR4dHEtaXBHMTJROWFmT0hTc1p1VklZa3hXVmRFSjA5MmlY?oc=5",
+      "pub_date": 1795668360.0,
+      "article_url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRmdjMHoxUHhoUGR2c2x5YnlhSTYwWmFodVk2dWNzYkFJS25zYlM2d24zZ2xkbVFvMFl3RHJWWVJ3MTRDUmRsZVRuVk5qRmJHOFJZVFIzUjlQZUtZM0FfVnRLbjFaQ2tfdzhpa3pOazB2aG5WTXVUb0VfU1dORkJucUVLU3lobUcyVzhxZVlfbzhmc0w3aTdGNnloQ25BUFUydF9TbnctQjN5ZkZqSTM5bGFwX3p5QzRhWl9ZV29NT09wWmc0eXhfakk3RlBFNEt3aHIw?oc=5",
-      "pub_date": 1795635420.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1371375644-scaled.jpg",
-      "description": "Braiins is urging miners to upgrade to Stratum V2 to encrypt their connections."
+      "headline": "Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFdQeEIzbGNuTG9KY1AxMDI4cTdjWGs2NzdCeXBxTkk0clk3NkFVYWhXbEp0ZEkyR1c1UVBJdjRMZk5LR0VNVy1ObklBTkxWZEkxYktZNjZvSlRTSUZJbFV5TS1BZVY1ZjVsWHMwQy1GdnF5cmJfQUpQQ0JTTHczNTFIV2pMVDRNZW9LVUlubTczeWw5emlB?oc=5",
+      "pub_date": 1795641744.0,
+      "article_url": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/matt-hougan-1-6-million-bitcoin-price-target-conservative-l4GRgbXyQJU.jpg",
+      "description": "Bitwise just raised its 10-year Bitcoin forecast from $1."
+    },
+    {
+      "headline": "Braiins Warns Attacker Hijacked 1.9 EH/s of Bitcoin Hashrate",
+      "source": "Bitbo",
+      "source_url": "https://bitbo.io",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wY1RtQ05KTW95eGw2VHJ1NUpMVmxfYTVuWFFPR2JES0ltZ1NLOGNQMmtvZnZZMGRiR2RiRXdnMUdKU2VncjB1aFZEMjhmcm9qQ0JTR0tuWFZkd29rVElwem0xTE9WT0xZ?oc=5",
+      "pub_date": 1795667700.0,
+      "article_url": "https://bitbo.io/news/braiins-hashrate-hijacking-warning/",
+      "image": "https://bitbo.io/news/images/hacking.jpg",
+      "description": "Braiins said an attacker rerouted internet traffic to steal hashrate from more than 1,000 bitcoin mining sites using unencrypted Stratum V1 connections."
+    },
+    {
+      "headline": "Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMTE1Zzh0cHZjMjR6YlBJSHJ0U0tPa0xKSWVtdWNCSHVsblNKU3RhTFgzQy1hVjBFNkxySTdiaE9GMThZdm1aemVXNjBTU3V1cWxMamlRMTFhenlxN05wd25xZHUzSjN4ZU9Femxfd3BXNkVyLXBZS0xJVW9aNjU5TDBRUWRvVUVYeGt5cWZFVzBWZnR0N2VoekVqQXFYQWxKQzUwN3lnRGhlanpmODdFcURDcmt0Q1ctajdWWUwxV2xrcWdqczlhVUJGdWp0MWt6R293R1lxLWwzdGRIQzBRNmRwUXFnazhFYm5jNlpDQQ?oc=5",
+      "pub_date": 1795644379.0,
+      "article_url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/crypto-market-today-nov-25-bitcoin-ethereum-and-solana-as-short-liquidations-fuel-fragile-rebound/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc1c1b171578713f3619bde9579b57b1944f4086e-2236x1341.jpg&w=1200&op=resize",
+      "description": "Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-26T11:18:52.022000+00:00"
+  "fetched_at": "2026-11-26T20:24:02.586519+00:00"
 }

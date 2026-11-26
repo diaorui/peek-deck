@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-26T20:23:44.038776+00:00",
+  "data": {
+    "url": "https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1",
+    "title": "SECURITY ALERT: Bitcoin Hashrate Hijacking Detected on Stratum V1 | Braiins",
+    "description": "In November, an attacker rerouted internet traffic to redirect bitcoin miners on unencrypted Stratum V1 connections to an imposter pool. The attack didn\u2019t breach Braiins Pool or the miners\u2019 infrastructure. It didn\u2019t need to. Here is the data, what it means for mining, and how to secure your miners today.",
+    "image": "https://cdn.prod.website-files.com/5e5fcd39a7ed2643c8f70a6a/6b06d2583e4ad7bec18af292_v1-farm-top.png",
+    "favicon": "https://cdn.prod.website-files.com/5e5ee6f9b325a6509259421f/5f8438e2c6be0ee267da273e_II%20logo%402x.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

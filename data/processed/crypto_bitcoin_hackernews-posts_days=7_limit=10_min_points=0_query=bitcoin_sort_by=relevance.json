@@ -103,6 +103,20 @@
       "site_name": "spiritsofbitcoin.cash"
     },
     {
+      "title": "Bitcoin Hashrate Hijacking Detected on Stratum V1",
+      "url": "https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1",
+      "hn_url": "https://news.ycombinator.com/item?id=50655352",
+      "author": "torutofu",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-11-26T13:57:01Z",
+      "object_id": "50655352",
+      "image": "https://cdn.prod.website-files.com/5e5fcd39a7ed2643c8f70a6a/6b06d2583e4ad7bec18af292_v1-farm-top.png",
+      "description": "In November, an attacker rerouted internet traffic to redirect bitcoin miners on unencrypted Stratum V1 connections to an imposter pool. The attack didn\u2019t breach Braiins Pool or the miners\u2019 infrastructure. It didn\u2019t need to. Here is the data, what it means for mining, and how to secure your miners today.",
+      "favicon": "https://cdn.prod.website-files.com/5e5ee6f9b325a6509259421f/5f8438e2c6be0ee267da273e_II%20logo%402x.png",
+      "site_name": "braiins.com"
+    },
+    {
       "title": "Show HN: Nunya \u2013 A \"digital privacy screen\" that makes text illegible from afar",
       "url": "https://usenunya.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50576552",
@@ -115,37 +129,9 @@
       "description": "Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.",
       "favicon": "https://usenunya.com/assets/nunya-icon-180.png",
       "site_name": "usenunya.com"
-    },
-    {
-      "title": "Gnomon: Git for Postgres Data",
-      "url": "https://gnomon.bitsinfra.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50611613",
-      "author": "lucasluitjes",
-      "points": 40,
-      "num_comments": 6,
-      "created_at": "2026-11-23T14:03:38Z",
-      "object_id": "50611613",
-      "image": null,
-      "description": "Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.",
-      "favicon": "https://gnomon.bitsinfra.com/gnomon.svg",
-      "site_name": "gnomon.bitsinfra.com"
-    },
-    {
-      "title": "Show HN: Ditching Markdown for an interactive AI Agent guide in pure HTML",
-      "url": "https://qufei1993.github.io/ai-agent-guide/en/index.html",
-      "hn_url": "https://news.ycombinator.com/item?id=50628070",
-      "author": "qufei1993",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-11-24T13:42:27Z",
-      "object_id": "50628070",
-      "image": null,
-      "description": "An interactive engineering guide to LLMs, Agents, and RAG",
-      "favicon": "https://qufei1993.github.io/favicon.ico",
-      "site_name": "qufei1993.github.io"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2026-11-26T11:18:21.187262+00:00"
+  "fetched_at": "2026-11-26T20:23:44.038991+00:00"
 }

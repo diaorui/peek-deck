@@ -5,74 +5,34 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
-      "pub_date": 1795677540.0,
-      "article_url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
-      "image": null,
-      "description": null
+      "headline": "I\u2019m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5",
+      "pub_date": 1795702140.0,
+      "article_url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+      "image": "https://i.guim.co.uk/img/media/8cc6bbd0024f4ba8485616485bd55f9c34d98452/458_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=017e2e1788767d4c160ed57310d8c804",
+      "description": "We\u2019re developing the most powerful tech in history \u2013 but trust, safeguarding and privacy are being sidelined in favour of huge profit, says an anonymous AI expert"
     },
     {
-      "headline": "Tech stocks are volatile as AI fears overshadow Huang\u2019s Nvidia return",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1FuS01WaVlhenhqc2I2M2hUckJlTm9fUjZ3N2ZjSmtTM3pCSkktYzlUM094TkV2NFROMjBseXlla2R3US1xRjh1QktLalI3dmVHZ2dpWGY4UEVXa2lKemFvX2doTXZ3d0FOTkV3NW5aYlZBWk9HZzhUa19aZW1GbWVmWFlvQQ?oc=5",
-      "pub_date": 1795615334.0,
-      "article_url": "https://www.cnn.com/2026/11/25/business/ai-sell-off-despite-huang-nvidia-return",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2306838289.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Wall Street staged a dramatic comeback Wednesday, clawing back steep morning losses as investors looked for safety in non-AI corners of the market."
-    },
-    {
-      "headline": "Software stocks spared in tech rout as AI narrative shifts",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlNBRzZwM0JRbmtZTlRlWHFud2NKRmJtNEFtOXpCVWNBcDUyUUtPRWRWakxEOEFSNDA2WEVhdkp5N19VQ2MybTRzYUZwMXByU0JnZ05tbE92b1I0VnZjT0pGdTZuQ3Ryb2JiM0Q4R01henJDaTNHM2ZHUHpjbk5FX3gxMHc?oc=5",
-      "pub_date": 1795669288.0,
-      "article_url": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Wall Street Flips From AI Euphoria to Gloom",
+      "headline": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5",
-      "pub_date": 1795690612.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5",
+      "pub_date": 1795709748.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
       "image": null,
       "description": null
     },
     {
-      "headline": "Cookbook GPT: When AI becomes a Thanksgiving sous-chef",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qUWl1ZDJKUFNCRTdQY0V6RWZab1ZGejhPSlhhTGlyRTdlaV9OeVdTc2JRZ2ZTMEtlSjFOeFhjUzVJQWg4bHlyN1RDOWNXRWNha1FQeVBoVm8xcUYzdVdrQ1hvYV9pSDlPRFpEeA?oc=5",
-      "pub_date": 1795691025.0,
-      "article_url": "https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Artists are quitting Instagram and Facebook over fears AI will steal their work",
+      "headline": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXNFeVY3UFR6eFlYQ0xBc21CSGs3S25xN21IYUxSbzZrdF9rMGV2WXRGMG9GeUIzSmUwTFp0VVl3bmxEa01lZXM3TXdSM0lEdnhKd0RRM0VzS0FmZk1ZWWtzaTBNQndRdkxyaDUxVlZ0Q1pqMk9NVVVLekkycTNGUg?oc=5",
-      "pub_date": 1795687215.0,
-      "article_url": "https://www.cnn.com/2026/11/26/tech/artists-meta-ai-slop-instagram-facebook",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150546094.jpg?c=16x9&q=w_800,c_fill",
-      "description": "A wave of AI-generated artwork is taking business away from creators and is especially prevalent on Meta-owned Instagram and Facebook."
-    },
-    {
-      "headline": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5",
-      "pub_date": 1795687427.0,
-      "article_url": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0x2cTY1eldxQW5lTHFueTItMEJDQXlWYXJSLWQzWVdKV3Y5UVNSd2dwMUNCcVNtTTZWLVBZSklFcm11X0JtczRyQzJzV0huclBsZzdKQWJTLUxlOEhxU0tlUndoTFlyWkxIVTF4bGxwM1FWbTBEWjlpTk9oZ1RIaGtmdXVUbjFG?oc=5",
+      "pub_date": 1795695655.0,
+      "article_url": "https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2158701295-20261126101911165.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The technology is central to SpaceX\u2019s growth ambitions, though the company warned earlier this year that it relied on \u201cunproven\u201d technologies."
     },
     {
       "headline": "US approves SpaceX plan to send a million data satellites to space",
@@ -85,26 +45,66 @@
       "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
     },
     {
-      "headline": "Jensen Huang\u2019s bail-out will not be the AI boom\u2019s last",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeElya0VfWUVyUlEzMjdVQUFzNFRNN21vRnBuU1o2SzFVZktrSFpYWENaSTNLc19vdWl5cXBoTG5HVXNkd0xVVEQxQXB0UDJzYnhZQWFIY0ktS1NzS2RSMGtJUXl2WUptUFgtTUU2ZkR1bUxGcWhXMVpkaW81ZWU1dDNSMGxPclRKRWFYNFhCbmhhbU9DSTlHaFdkMWw2b0U?oc=5",
-      "pub_date": 1795640968.0,
-      "article_url": "https://www.economist.com/business/2026/11/25/jensen-huangs-bail-out-will-not-be-the-ai-booms-last",
+      "headline": "Can Elon Musk really put AI datacentres in space? - The Latest",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTk5xVGhiS1JwU3E5a2ptd0hOY1BGdEJWQUdjWVhEZlh1UmZHNXpTNUhsYlFhOE80MHA2RmwtTmc5X1FwYzlkRnVyZEFLMC14SmtlOHcxTy1ib0c5UFowUDY2TEUtV0JGcGVGYzBucTg5amRpVjZfZ3V4OG0yTnE5S1JnbU5ZTFdzN1FJZHR3VDlCOHFydXFxQ2I1UlgtZTlRb3FVLTBSYVJ6NlNod0xn?oc=5",
+      "pub_date": 1795718100.0,
+      "article_url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
+      "image": "https://i.guim.co.uk/img/media/7da230064c1eaf9ac951b3f7766a1a4a840051b7/933_0_4663_3731/master/4663.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08d90a74bbddee9aea167a5ffa7fefc8",
+      "description": "The Trump administration has approved Elon Musk\u2019s plan to launch one million satellites into orbit to create datacentres in space. SpaceX argues the project could reduce the impact of datacentres on Earth as the AI industry grows. But how realistic is the plan and what could the consequences be? Michael Safi speaks to Guardian global technology editor Dan Milmo"
+    },
+    {
+      "headline": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdFlPeWc1LW1ZQjR0SE5YTU9DSXZ6Qlkxa1RkUGJkX3lkbGl2aDd4MmlUc2k1Z1QtNFBjWDlyMUNGRS16MzVoeGFLYmRXQW5vNFM0aURPbHdtcUxETm5zNUllcnFfY29W0gFuQVVfeXFMTXhrRXByTEZhMDA5REEzbmF2X1RBTTZhNU13bzhRaEV4d2E1MUFGaWw0MHhtem9YbVVDTVZyRHhDRlNXSDhBRmk1eURWdjBlVDJjTnpNSkJzbGJ0N29jXzNZc1RBbC1tTktqc1JxZHc?oc=5",
+      "pub_date": 1795650531.0,
+      "article_url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "description": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners."
+    },
+    {
+      "headline": "How to Talk With Your Family About A.I. Doom at Thanksgiving",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVB5UW1nMDFoeWRNR2lPS0gwRVl4NkJlNEd3UmY0MFMyWUc4VzhtZTd0VERQV0sydHJVMjdEN3BMbjdMN3BkeGQzOVNNRFJLUFZNVFYtVTJUaDhuYzk2ZWVkTlg0MlotazhpTHpiRkdpNE5oQm5POHg1ZGFKVUtnY0NnMlc?oc=5",
+      "pub_date": 1795601060.0,
+      "article_url": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
-      "source": "Microsoft",
-      "source_url": "https://www.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVzh4enZzVDh3MXNzbnkzNUxyYWZTUkItNmtxbS0xQlNqNERIYVNvYlU5U2ViSmgza2JIbXJDclBWamczdDVNNnBuc25NMWVhQUNNMUFYbFhNTTFiVy1DcTl4X2M0dnJvbE8xajQ5bld5VjF2UTRqcDZxQUFyWEcyZW9TQmhsSi1naDBlU3doX2l6dEpuSGV1Q0lFSEVucEY2RFlHdVhKcnZsd0NPaWo0S1pBeW5NQk56bFFxWHVGbFU3ZlQ5QWoyLUZjT2I?oc=5",
-      "pub_date": 1795630146.0,
-      "article_url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/ARTEX-featured.png",
-      "description": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation."
+      "headline": "Sam Altman needs a physical AI device because Apple won't give OpenAI data for ChatGPT\u2014Tony Fadell",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5",
+      "pub_date": 1795687380.0,
+      "article_url": "https://fortune.com/2026/11/26/sam-altman-needs-jony-ive-to-create-a-physical-ai-device-because-apple-will-never-give-openai-the-real-world-data-chatgpt-needs-tony-fadell-says/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Tony-Fadell-Chairman-e1795687088757.jpeg?resize=1200,600",
+      "description": "Former Apple executive Tony Fadell says privacy rules stop OpenAI from reading context data on the iPhone. A companion gadget would let it collect that data itself."
+    },
+    {
+      "headline": "Explainer-How China got access to Nvidia's AI chips despite rules to stop them",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1d0RXVDVW1QOFVEQ3hPd0pUcnFtU3hmMDU5OS10YktpZ0RCNVoycUFvMjAtQ3BhV2FENlktcWVVX0U2dFNGaTRqNnlrQ0ZPYlAzUEZJOElGenNPZEJJa1B1SFBLSVg1UkxyTUFPaDJBWl80bTg5SWdBN083anNJOEV2ZWpiYVk?oc=5",
+      "pub_date": 1795635541.0,
+      "article_url": "https://finance.yahoo.com/news/explainer-china-got-access-nvidias-193901126.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1e164b735711ce58075f5be2b7c8ba2cf36c705d0201e88b4fe73afb712c1aef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9d409aff635c15368ab4417e475776fc.jpg_up.jpg",
+      "description": "Nov 25 (Reuters) - AI chips are a central battleground in the US-China technology race."
+    },
+    {
+      "headline": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWxtSWdkclhVM25LM250eXk0V3AyWHl5VU82OHdETGpVOHBNeHVwR0tKM1JiVUlmNnpRZHZuX2o5bFctVU16OVctaDVFM0RUTWxLZXladmFDSjdjMUpkLVhiX3dRYVhrTVRDTUpud0R6RU1NYWx3TElCWmlkSndmTjdwTEQ?oc=5",
+      "pub_date": 1795713220.0,
+      "article_url": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-26T11:19:03.039786+00:00"
+  "fetched_at": "2026-11-26T20:24:14.980741+00:00"
 }

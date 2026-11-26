@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-26T11:19:05.074277+00:00'
+updated: '2026-11-26T20:24:16.824298+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 26, 2026 at 11:19 UTC  
+**Last Updated:** November 26, 2026 at 20:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-10d ago
+11d ago
 
 ---
 
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-11d ago
+12d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-11d ago
+12d ago
 
 ---
 
@@ -110,17 +110,39 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[Robots could be doing household chores in just 1-2 years, Chinese EV firm says](https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html)**
+**[Robots will have a staggering economic impact](https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact)**
 
-Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.
-
-CNBC • 3h ago
+The Economist • 9h ago
 
 ---
 
 **[Humanoid robots are coming—sooner than you think](https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think)**
 
-The Economist • 30m ago
+The Economist • 9h ago
+
+---
+
+**[Robots could be doing household chores in just 1-2 years, Chinese EV firm says](https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html)**
+
+Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.
+
+CNBC • 12h ago
+
+---
+
+**[New 3D-printed robotic hand uses simple parts to replicate human-like movements](https://interestingengineering.com/ai-robotics/njit-phd-hand-low-cost-robotic-hand)**
+
+NJIT researchers have developed a 3D-printed robotic hand that aims to deliver dexterity without the cost of commercial models.
+
+Interesting Engineering • 16h ago
+
+---
+
+**[Humanoid robots meet factory reality on Toyota's home turf](https://asia.nikkei.com/business/automobiles/humanoid-robots-meet-factory-reality-on-toyota-s-home-turf)**
+
+Automaker prioritizes practical applications in physical AI over hype, suppliers say
+
+Nikkei Asia • 16h ago
 
 ---
 
@@ -128,55 +150,35 @@ The Economist • 30m ago
 
 The first Aeon units are already being trained at Volvo’s factory in Ghent, Belgium. The next step is giving them real work.
 
-InsideEVs • 2h ago
+InsideEVs • 11h ago
 
 ---
 
-**[Robots will have a staggering economic impact](https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact)**
+**[Volvo starts training humanoid robots for its Belgian car factory](https://thenextweb.com/news/volvo-humanoid-robots-hexagon-aeon-ghent)**
 
-The Economist • 29m ago
+Volvo Cars is training Hexagon's AEON humanoid robots at its Ghent plant and plans to put them into production from mid-2027, starting with part handling.
 
----
-
-**[Humble Robotics wants to reinvent trucking](https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports)**
-
-Axios • 18h ago
+The Next Web • 2h ago
 
 ---
 
-**[Inside DARPA's Challenge Where Robots Searched for Disaster Victims](https://spectrum.ieee.org/darpa-triage-challenge-final-robots)**
+**[Parent donates $25,000 to Iron Mosquitoes robotics team at Northeast Range](https://www.wdio.com/top-stories/parent-donates-25000-to-iron-mosquitos-robotics-team-at-northeast-range/)**
 
-The defense agency’s latest grand challenge aimed to prove robots could save lives in emergencies
+A parent of a robotics team member donated $25,000 to the Iron Mosquitos out of Northeast Range.
 
-IEEE Spectrum • 2d ago
-
----
-
-**[Novanta Shares Just Jumped And We’re Buying This Robotics Play](https://finance.yahoo.com/video/novanta-shares-just-jumped-buying-225922952.html)**
-
-Just as early investors targeted foundational chipmakers like Taiwan Semiconductor (TSM), Nvidia (NVDA), and Broadcom (AVGO) at the start of the AI computing wave, investors are currently examining diversified industrial and sensor plays such as Regal Rexnord (RRX), Timken (TKR), Allegro MicroSystems (ALGM), Ouster (OUST), and STMicroelectronics (STM). During a recent episode of The AI Investor Podcast, hosts Eric Bleeker and Austin Smith took a closer look at Novanta, and shared why they are optimistic about the robotics manufacturer as an AI investment play to target in 2027.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Robots roam Singapore's urban AI testing ground](https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html)**
-
-Tech Xplore • 1h ago
-
----
-
-**[Light-powered 250-nm nanobots boost brain drug delivery fivefold](https://interestingengineering.com/ai-robotics/caltech-brainbots-drug-delivery-blood-brain-barrier)**
-
-Caltech's 250-nm biodegradable nanorobots use near-infrared light to improve drug delivery across the blood–brain barrier in mice.
-
-Interesting Engineering • 7h ago
+WDIO.com • 23h ago
 
 ---
 
 **[RoboSense Reports Third Quarter 2026 Unaudited Financial Results, with Robotics LiDAR Sales Volume Ranking No. 1 Globally](https://www.morningstar.com/news/pr-newswire/20261125cn06851/robosense-reports-third-quarter-2026-unaudited-financial-results-with-robotics-lidar-sales-volume-ranking-no-1-globally)**
 
-Morningstar • 6h ago
+Morningstar • 15h ago
+
+---
+
+**[Bumblebee-Sized Robot Uses Its Own "Brain" to Fly, Opening the Door to Advanced Robotics](https://www.discovermagazine.com/bumblebee-sized-robot-uses-its-own-brain-to-fly-opening-the-door-to-advanced-robotics-50003)**
+
+Discover Magazine • 4h ago
 
 ---
 
@@ -184,23 +186,13 @@ Morningstar • 6h ago
 
 ## YouTube Videos: "robotics"
 
-**[Everyone is Getting Humanoids Wrong](https://www.youtube.com/watch?v=ai1Gg0oeVTk)**
+**[Lab says humanoid robot uses living human neurons to help think](https://www.youtube.com/watch?v=Y2jvWKAXhDg)**
 
-Roomba brought robots into millions of homes, but never delivered the iPhone moment for home robotics. Matic thinks it can.
+A San Francisco lab is showing off Iris, a humanoid robot with a mood informed by real, living human cells. The lab says the robot ...
 
-📺 MTS 
+📺 NBC News
 
-👁️ 26K • 👍 55 • 💬 11 • ⏱️ 16:20 • 2d ago
-
----
-
-**[Tesla&#39;s New Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=2FZhl5oo27o)**
-
-Tesla's new Optimus robot upgrade is much bigger than the viral robot clips suggest. Hidden images inside Tesla's own Android ...
-
-📺 Tyrone
-
-👁️ 70K • 👍 422 • 💬 11 • ⏱️ 27:54 • 3d ago
+👁️ 40K • 👍 295 • 💬 115 • ⏱️ 3:53 • 1d ago
 
 ---
 
@@ -210,7 +202,15 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Cleo Abram
 
-👁️ 2.3M • 👍 126K • 💬 1K • ⏱️ 1:05 • 5d ago
+👁️ 2.4M • 👍 128K • 💬 1K • ⏱️ 1:05 • 6d ago
+
+---
+
+**[He Built a Secret Robot Inside His Weakest Fighter and Shocked Everyone!](https://www.youtube.com/watch?v=2zQX8tU2hU4)**
+
+📺 Lazy Kitten
+
+👁️ 66K • 👍 1K • 💬 39 • ⏱️ 2:14 • 1d ago
 
 ---
 
@@ -220,27 +220,7 @@ A 48-pound agricultural robot is taking over grain leveling inside China's wheat
 
 📺 CDC: Creators ́ Club
 
-👁️ 91K • 👍 1K • 💬 24 • ⏱️ 1:15 • 1d ago
-
----
-
-**[Robots OR Humans. What’s Even REAL Anymore? 🤯](https://www.youtube.com/watch?v=RigsWn8tN0g)**
-
-Robots vs HUMANS. Were these auditions even real?? FIND OUT! 00:00 - Boston Dynamics - AGT 2025 06:02 - Mastermind ...
-
-📺 Top Talent
-
-👁️ 310K • 👍 1K • 💬 64 • ⏱️ 49:21 • 2d ago
-
----
-
-**[Unboxing a 100K Agibot Robot #agibot #agibotanz #agibotsea](https://www.youtube.com/watch?v=0dQUVUhq90w)**
-
-Unboxing a 100k Robot from Agibot so it can do my job.
-
-📺 Insert Richie
-
-👁️ 783K • 👍 30K • 💬 519 • ⏱️ 2:04 • 3d ago
+👁️ 105K • 👍 1K • 💬 25 • ⏱️ 1:15 • 1d ago
 
 ---
 
@@ -250,17 +230,47 @@ I sit down with Adrien Gaidon, Co-founder and Chief Strategy Officer of Walden R
 
 📺 Greg Isenberg
 
-👁️ 25K • 👍 271 • 💬 23 • ⏱️ 49:07 • 2d ago
+👁️ 26K • 👍 287 • 💬 23 • ⏱️ 49:07 • 3d ago
 
 ---
 
-**[XPeng IRON Humanoid Robot Can Now Do Household Tasks](https://www.youtube.com/watch?v=b4xGY3jDGDc)**
+**[Unboxing a 100K Agibot Robot #agibot #agibotanz #agibotsea](https://www.youtube.com/watch?v=0dQUVUhq90w)**
 
-XPeng's IRON humanoid robot can navigate rooms, grab books, pour drinks, and charge itself autonomously. The latest teaser ...
+Unboxing a 100k Robot from Agibot so it can do my job.
+
+📺 Insert Richie
+
+👁️ 832K • 👍 32K • 💬 539 • ⏱️ 2:04 • 3d ago
+
+---
+
+**[XPENG IRON Robot LIVE at AI Day 2026 – No Remote Control](https://www.youtube.com/watch?v=xooUABY15EU)**
+
+The next-generation XPENG IRON humanoid robot takes the stage at XPENG AI Day 2026, speaking English and interacting with ...
 
 📺 DPCcars
 
-👁️ 2K • 👍 27 • 💬 6 • ⏱️ 1:41 • 1d ago
+👁️ 8K • 👍 61 • 💬 5 • ⏱️ 53:33 • 1d ago
+
+---
+
+**[This Chinese Humanoid Robot Is Dancing Better Than Humans! 🤯🤖](https://www.youtube.com/watch?v=UAUUU2gZ6fY)**
+
+A humanoid robot taking on human dancers! AiMOGA's full-sized robot performs synchronized dance and martial arts moves ...
+
+📺 Nexio Core
+
+👁️ 39K • 💬 3 • ⏱️ 0:06 • 3d ago
+
+---
+
+**[Everyone is Getting Humanoids Wrong](https://www.youtube.com/watch?v=ai1Gg0oeVTk)**
+
+Roomba brought robots into millions of homes, but never delivered the iPhone moment for home robotics. Matic thinks it can.
+
+📺 MTS 
+
+👁️ 29K • 👍 74 • 💬 12 • ⏱️ 16:20 • 3d ago
 
 ---
 
@@ -271,16 +281,6 @@ ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinj
 📺 MuffinJuice
 
 👁️ 1.5M • 👍 40K • 💬 3K • ⏱️ 15:00 • 6d ago
-
----
-
-**[This Sloth Taught Georgia Tech to Build a Robot That Never Rushes 🦥](https://www.youtube.com/watch?v=MSN8LDzJDbc)**
-
-The brown-throated three-toed sloth lives in the rainforests of Central and South America, hanging upside down by three long ...
-
-📺 Creatures in Motion
-
-👁️ 986 • 👍 46 • 💬 2 • ⏱️ 2:45 • 3h ago
 
 ---
 

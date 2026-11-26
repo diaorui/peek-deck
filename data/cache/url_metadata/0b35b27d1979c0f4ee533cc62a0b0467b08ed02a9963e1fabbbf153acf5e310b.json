@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-26T20:23:43.187226+00:00",
+  "data": {
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "title": "Google Will Make AI Agents Use Its Workspace MCP Servers. The Gmail One Can't Send Email | Tech Stackups",
+    "description": "From February 2027, Google's terms require AI agents to reach Gmail, Drive and the rest of Workspace through Google's own MCP servers. What the rule says, what the servers can and can't do, and what to change before the deadline.",
+    "image": "https://techstackups.com/img/articles/google-workspace-agent-api/cover.jpg",
+    "favicon": "https://techstackups.com/img/apple-touch-icon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": "Google Workspace MCP,Gmail MCP,Drive MCP,Workspace AI Tools Addendum,Gmail API,AI agents,MCP,gwscli,agentic OAuth client,Google API terms"
+  }
+}

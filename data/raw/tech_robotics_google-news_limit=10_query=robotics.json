@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1BINks3MVZUQ1BqeGk5azVmcm9QaFpCY001LVlOVVpvRW1SdG9xNlBENG5hLXFRamhpS0o0anNBZWU5ZzJaR2k5b0JFc2FRQ3djY3A2LTlaOW5sSFhWdGEzdHRyQzg0S2h2aVJMNWlzZE40UUp4RV9yTzN0RmdoaFpQVnJBRHZDOVNLadIBkgFBVV95cUxObzFMRk80QVkxUUIxdDFGSXdab01lX2xZTjhab0pRUXpzbTA3XzNJQXhYVjdJZVhIQU01a3lJNjdVeFcwTko1MC1Cak43aEtZakI3bVpOVjB5Q2JqTXVQRGo4NmtYX3QzVGNDczJHT09lRC16R0dOTTNUUDRWUGl2LVhZeHNtVHppemJlNjJuWVd6UQ?oc=5",
-      "pub_date": 1795678211.0,
-      "article_url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
-      "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday."
+      "headline": "Robots will have a staggering economic impact",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXVGRjE5dERHSklyWnlwcGlXQzhHMHp4aUFrWlE2UFE2OTBrczh1WlE4b1pzRUdjVngyeTZEc3FYVXV3eVBsSF9VRW8yVG5rNm9QZlN6Zk44ZTFTMU1mV3hLaTR5WGszcGM4Q0YteTdWNWhuLTJSM1FSYUI2YVdlZGlJVmpJOWV3YVRteTZuZHhJUGZT?oc=5",
+      "pub_date": 1795690173.0,
+      "article_url": "https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Humanoid robots are coming\u2014sooner than you think",
@@ -25,6 +25,36 @@
       "description": null
     },
     {
+      "headline": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1BINks3MVZUQ1BqeGk5azVmcm9QaFpCY001LVlOVVpvRW1SdG9xNlBENG5hLXFRamhpS0o0anNBZWU5ZzJaR2k5b0JFc2FRQ3djY3A2LTlaOW5sSFhWdGEzdHRyQzg0S2h2aVJMNWlzZE40UUp4RV9yTzN0RmdoaFpQVnJBRHZDOVNLadIBkgFBVV95cUxObzFMRk80QVkxUUIxdDFGSXdab01lX2xZTjhab0pRUXpzbTA3XzNJQXhYVjdJZVhIQU01a3lJNjdVeFcwTko1MC1Cak43aEtZakI3bVpOVjB5Q2JqTXVQRGo4NmtYX3QzVGNDczJHT09lRC16R0dOTTNUUDRWUGl2LVhZeHNtVHppemJlNjJuWVd6UQ?oc=5",
+      "pub_date": 1795678211.0,
+      "article_url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
+      "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday."
+    },
+    {
+      "headline": "New 3D-printed robotic hand uses simple parts to replicate human-like movements",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkJTZWZvbTZPVDQzZ0NjMUl2azYyeXF3RlNqZ1A2Nk5VZHBDcjNfLXQ4VENxQ1c2U19tWFF6c0ZEZEQ0T3Fwek9OX250QzlBNHJDWF9BWDYwLTRTSGRxMHZpbTZVX1VXbnlMWUlpSG1Yc25iQ2RPWlFmVFQwSU9MMjNQazRsekR1R3c?oc=5",
+      "pub_date": 1795663680.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/njit-phd-hand-low-cost-robotic-hand",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-30.jpg",
+      "description": "NJIT researchers have developed a 3D-printed robotic hand that aims to deliver dexterity without the cost of commercial models."
+    },
+    {
+      "headline": "Humanoid robots meet factory reality on Toyota's home turf",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRkNydHYzUGtQY1NiNDZ3OVpxblkyNlZGRU5fUFAzUy1neDRZdk5Lc0J6LXloMVFSVXN6ZG4wbzFHTy1KanFVcXdWOTVYQWZjVVhQU0tLRVFSaHVnWGhUU2lScWdaam1paHB6cGdaSWZTZjgtbXVFRnRJZXdISzRhUGJJNEtNU3NfcVRUdzlWc2ZrWWJrMnpubjY2cTRadkxWOTJBMHBB?oc=5",
+      "pub_date": 1795666200.0,
+      "article_url": "https://asia.nikkei.com/business/automobiles/humanoid-robots-meet-factory-reality-on-toyota-s-home-turf",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F3%2F1%2F13491347-6-eng-GB%2F9e828937a523-IMG_2672.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "description": "Automaker prioritizes practical applications in physical AI over hype, suppliers say"
+    },
+    {
       "headline": "Volvo Is Bringing Humanoid Robots Into Its Factories. Here's When They'll Start Working",
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
@@ -35,64 +65,24 @@
       "description": "The first Aeon units are already being trained at Volvo\u2019s factory in Ghent, Belgium. The next step is giving them real work."
     },
     {
-      "headline": "Robots will have a staggering economic impact",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXVGRjE5dERHSklyWnlwcGlXQzhHMHp4aUFrWlE2UFE2OTBrczh1WlE4b1pzRUdjVngyeTZEc3FYVXV3eVBsSF9VRW8yVG5rNm9QZlN6Zk44ZTFTMU1mV3hLaTR5WGszcGM4Q0YteTdWNWhuLTJSM1FSYUI2YVdlZGlJVmpJOWV3YVRteTZuZHhJUGZT?oc=5",
-      "pub_date": 1795690173.0,
-      "article_url": "https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact",
-      "image": null,
-      "description": null
+      "headline": "Volvo starts training humanoid robots for its Belgian car factory",
+      "source": "The Next Web",
+      "source_url": "https://thenextweb.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1NUlFTHhWc3o3bEZZakx6SC1ld1F1bmZhcHVmMmFObkRUNVpwM2JnSnJzU2Vxa1plaXJ3bWRtUVhnZXMyaU9xWC1NT3RDTE4xVXhfd2NEaFJXTjlramVQYm14d0I2QTNBdlJuOVVJM3VYRHdvUm9V?oc=5",
+      "pub_date": 1795716167.0,
+      "article_url": "https://thenextweb.com/news/volvo-humanoid-robots-hexagon-aeon-ghent",
+      "image": "https://media.thenextweb.com/2026/11/volvo-aeon-humanoid-robot-ghent-training.jpg",
+      "description": "Volvo Cars is training Hexagon's AEON humanoid robots at its Ghent plant and plans to put them into production from mid-2027, starting with part handling."
     },
     {
-      "headline": "Humble Robotics wants to reinvent trucking",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1V0SHNpSVRDcmh6WFd0LVdtVTd4YWlqZEtVcTNfdVJwX2VTOTFXWlRjX0VVYU90cl82dWNjUVNaQUtOX1ExdXFzUmhabjF0bmN6blNkT3JMcGxGLTE4S1R5dVNtOW83S053UjIxQ1ByZXQxRzZqVFJJTVNXRWZ0UHo5NTFPSHlrdV9jM0NB?oc=5",
-      "pub_date": 1795626324.0,
-      "article_url": "https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Inside DARPA's Challenge Where Robots Searched for Disaster Victims",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pVTFwOHpqcEZGcUNTMW1KVEpTRVhzZDFDWkNiMG04enlwZ0lvTDc5d3lyblQtNEwtd21vdGIxc1BhbkxVcGNqTnMtWWsySndkS2xMcWpzb2RCN0tMSjRjVmdpTWp5VE1MMTJ0M3Jn?oc=5",
-      "pub_date": 1795507200.0,
-      "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
-      "image": "https://spectrum.ieee.org/media-library/a-helmeted-woman-calling-out-to-a-quadruped-robot-during-a-simulated-field-disaster.jpg?id=68752154&width=1200&height=600&coordinates=0%2C339%2C0%2C141",
-      "description": "The defense agency\u2019s latest grand challenge aimed to prove robots could save lives in emergencies"
-    },
-    {
-      "headline": "Novanta Shares Just Jumped And We\u2019re Buying This Robotics Play",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUZzQmphRHJxZlVobWczY1l6RzZxb1U5X1VaX19wUnVWcEt2UGh0UFBrMVk2Q1F6RnBuTTU1bmRrcHJRZ1NKRGFUeTZXZW02WlpyQ1lubVV5aWFoelIwTzVVT1pzQ0pGd2RQMWl1aGozQUdrUlU5RW15bnRBUmZ3ZXZOb0UwUUU?oc=5",
-      "pub_date": 1795561162.0,
-      "article_url": "https://finance.yahoo.com/video/novanta-shares-just-jumped-buying-225922952.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/afecb29ad372f9f399519e545837408c1f52a88a4f5c7a8701e18c8723e52915/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st_video_956%2Fe063c01c000e44828f0ca126263f4a92.jpg",
-      "description": "Just as early investors targeted foundational chipmakers like Taiwan Semiconductor (TSM), Nvidia (NVDA), and Broadcom (AVGO) at the start of the AI computing wave, investors are currently examining diversified industrial and sensor plays such as Regal Rexnord (RRX), Timken (TKR), Allegro MicroSystems (ALGM), Ouster (OUST), and STMicroelectronics (STM). During a recent episode of The AI Investor Podcast, hosts Eric Bleeker and Austin Smith took a closer look at Novanta, and shared why they are optimistic about the robotics manufacturer as an AI investment play to target in 2027."
-    },
-    {
-      "headline": "Robots roam Singapore's urban AI testing ground",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbkNYbjBkTUlXMS1ablJQdGFxZDg3ek16YktNRVRidTA2SG5GZUhNR0FRSHRCR3JjM0p3N0tTRzlVQmdMbDM2aVhKVDN2eTNPdTNxRFZYYV8xM0psWWZhTHA1b0JwNkZpRFFJYkRBd2VzYlJBUlVEYlJGaw?oc=5",
-      "pub_date": 1795686088.0,
-      "article_url": "https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Light-powered 250-nm nanobots boost brain drug delivery fivefold",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmdqTWVtbU9IZU9pYVF2aVNvejBZRzBLN1JWX29aczdFdDR0ZWVFQ3Z3Zmg4Q0hONWhJbUdTQWpwTEpVM2JaWHY0TXhONWtRQjdGU3V5bkNCcWcxbXU2em1ycXlzTjRvb1FLSlY0YnZubTEyU2RvRWdUMk5maHd2c2xKLW1vVGdyRHlBaTdHQ1BZdnFVbkV3ZnB4OFJiTUE?oc=5",
-      "pub_date": 1795664400.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/caltech-brainbots-drug-delivery-blood-brain-barrier",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-31.jpg",
-      "description": "Caltech's 250-nm biodegradable nanorobots use near-infrared light to improve drug delivery across the blood\u2013brain barrier in mice."
+      "headline": "Parent donates $25,000 to Iron Mosquitoes robotics team at Northeast Range",
+      "source": "WDIO.com",
+      "source_url": "https://www.wdio.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVk1aHZXTWRZUUxRbEgxc2JFMDloUHN5SVJxQUc4Y0VDbmdlNmxOdnFjc0dPN0l3SDFOcVVhV3NOUG9xR2RjblBxODRLaTJCX3UtRnQyQUhwcjVnTFRGdTV0d25LT05McnoxWHYwV3NTQjBRX0ZDODNPN2hwbWFVUFh5UV9TRFJBclV0X1pId200N2hmYnlmM0JjZ0Y1RVVZMkQ3Qy1RX1E?oc=5",
+      "pub_date": 1795640229.0,
+      "article_url": "https://www.wdio.com/top-stories/parent-donates-25000-to-iron-mosquitos-robotics-team-at-northeast-range/",
+      "image": "https://www.wdio.com/wp-content/uploads/2026/11/25000-DONATION-TO-ROBOTICS-scaled-e1795640046332.jpg",
+      "description": "A parent of a robotics team member donated $25,000 to the Iron Mosquitos out of Northeast Range."
     },
     {
       "headline": "RoboSense Reports Third Quarter 2026 Unaudited Financial Results, with Robotics LiDAR Sales Volume Ranking No. 1 Globally",
@@ -103,8 +93,18 @@
       "article_url": "https://www.morningstar.com/news/pr-newswire/20261125cn06851/robosense-reports-third-quarter-2026-unaudited-financial-results-with-robotics-lidar-sales-volume-ranking-no-1-globally",
       "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
       "description": null
+    },
+    {
+      "headline": "Bumblebee-Sized Robot Uses Its Own \"Brain\" to Fly, Opening the Door to Advanced Robotics",
+      "source": "Discover Magazine",
+      "source_url": "https://www.discovermagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX0ZmaWhOTzBrRVd1TUI0bm1sNzRjZjVnSGhSQ1ZveVYwa2pfSWU3SklVRXoyWWdRVnlxVDFfYWlIbzN1Z2kxRGsySXA1ekplaDhORWJCak5lSXRiajMxTG9pVUF2NV9kV3VkRDc3VTk4Zkg5Zk5EdHJXMDZiamxzWmJ6NjFGMmlzRFVpMmpUc1M0enV0SXJ4NFhCc2xrQWI5bUd0eGVIVkozX2lLU1hLV29sVVVEd0RNY2JDWHllbktyUQ?oc=5",
+      "pub_date": 1795709056.0,
+      "article_url": "https://www.discovermagazine.com/bumblebee-sized-robot-uses-its-own-brain-to-fly-opening-the-door-to-advanced-robotics-50003",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-26T11:18:58.037900+00:00"
+  "fetched_at": "2026-11-26T20:24:09.544574+00:00"
 }

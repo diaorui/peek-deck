@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-26T20:24:02.586369+00:00",
+  "data": {
+    "url": "https://bitbo.io/news/braiins-hashrate-hijacking-warning/",
+    "title": "Braiins Warns Attacker Hijacked 1.9 EH/s of Bitcoin Hashrate \u2013 Bitbo",
+    "description": "Braiins said an attacker rerouted internet traffic to steal hashrate from more than 1,000 bitcoin mining sites using unencrypted Stratum V1 connections.",
+    "image": "https://bitbo.io/news/images/hacking.jpg",
+    "favicon": "https://bitbonews.pages.dev/favicon.ico",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

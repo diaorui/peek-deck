@@ -8,9 +8,9 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "preview_image": "https://opengraph.githubassets.com/2e19369f1c616da6622c8b971f339d5febe6ed41b9f04b0c64ca084a6de515b7/heydamir/unslop",
-      "stars": 21932,
-      "stars_display": "21.9k",
-      "forks": 1364,
+      "stars": 22164,
+      "stars_display": "22.2k",
+      "forks": 1384,
       "forks_display": "1.4k",
       "language": "JavaScript",
       "topics": [],
@@ -24,9 +24,9 @@
       "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u4e2a\u955c\u5934\u770b\u662f\u62cd\u7684\u3001AI \u751f\u6210\u7684\u8fd8\u662f\u4ee3\u7801\u505a\u7684\uff0c\u518d\u544a\u8bc9\u4f60\u600e\u4e48\u590d\u523b\uff1b\u62c6\u89e3\u7ed3\u679c\u6309 VIDEO.md \u683c\u5f0f\u8f93\u51fa\u3002",
       "url": "https://github.com/JuneYaooo/rea-video",
       "preview_image": "https://repository-images.githubusercontent.com/1438661890/d788df99-c663-416e-8859-67af82fb3eff",
-      "stars": 13553,
+      "stars": 13646,
       "stars_display": "13.6k",
-      "forks": 1973,
+      "forks": 1983,
       "forks_display": "2.0k",
       "language": "Python",
       "topics": [
@@ -36,7 +36,7 @@
         "claude-code",
         "codex"
       ],
-      "updated_at": "2026-11-25T09:34:34Z"
+      "updated_at": "2026-11-26T12:39:13Z"
     },
     {
       "full_name": "wangzan101/Mika",
@@ -46,10 +46,10 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "preview_image": "https://opengraph.githubassets.com/4870ca74c240f7e90589b47bd38147c836923264feaea374f51fb823186477f9/wangzan101/Mika",
-      "stars": 10051,
+      "stars": 10070,
       "stars_display": "10.1k",
-      "forks": 2245,
-      "forks_display": "2.2k",
+      "forks": 2251,
+      "forks_display": "2.3k",
       "language": "Kotlin",
       "topics": [
         "accessibility",
@@ -58,7 +58,7 @@
         "automation",
         "jetpack-compose"
       ],
-      "updated_at": "2026-11-26T06:05:52Z"
+      "updated_at": "2026-11-26T19:51:56Z"
     },
     {
       "full_name": "mdiri-ai/SoduWork",
@@ -68,10 +68,10 @@
       "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
       "url": "https://github.com/mdiri-ai/SoduWork",
       "preview_image": "https://repository-images.githubusercontent.com/1437869585/5541cbb6-36b4-4663-8f15-b1366dbde74b",
-      "stars": 8237,
+      "stars": 8215,
       "stars_display": "8.2k",
-      "forks": 791,
-      "forks_display": "791",
+      "forks": 793,
+      "forks_display": "793",
       "language": "JavaScript",
       "topics": [
         "agent-harness",
@@ -80,7 +80,7 @@
         "ai-agents",
         "ai-workflows"
       ],
-      "updated_at": "2026-11-26T10:52:14Z"
+      "updated_at": "2026-11-26T17:28:04Z"
     },
     {
       "full_name": "ersinkoc/phonebox",
@@ -90,10 +90,10 @@
       "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
       "url": "https://github.com/ersinkoc/phonebox",
       "preview_image": "https://opengraph.githubassets.com/8293c03a897c0b972e3ba3238895d6adceaece41e3cd8b5e6b53d228df8ff124/ersinkoc/phonebox",
-      "stars": 6730,
-      "stars_display": "6.7k",
-      "forks": 789,
-      "forks_display": "789",
+      "stars": 7115,
+      "stars_display": "7.1k",
+      "forks": 819,
+      "forks_display": "819",
       "language": "JavaScript",
       "topics": [
         "android",
@@ -102,7 +102,7 @@
         "dashboard",
         "desk-panel"
       ],
-      "updated_at": "2026-11-26T11:12:57Z"
+      "updated_at": "2026-11-26T20:09:40Z"
     },
     {
       "full_name": "expo/exact",
@@ -112,10 +112,10 @@
       "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
       "url": "https://github.com/expo/exact",
       "preview_image": "https://repository-images.githubusercontent.com/1442385098/8a1784d6-2b8c-4f0a-9eb3-3a096d15764b",
-      "stars": 5144,
-      "stars_display": "5.1k",
-      "forks": 162,
-      "forks_display": "162",
+      "stars": 5177,
+      "stars_display": "5.2k",
+      "forks": 164,
+      "forks_display": "164",
       "language": "Rust",
       "topics": [
         "ai-agents",
@@ -124,29 +124,7 @@
         "cross-platform",
         "css"
       ],
-      "updated_at": "2026-11-26T11:16:47Z"
-    },
-    {
-      "full_name": "XinaTian/MROffice",
-      "name": "MROffice",
-      "owner": "XinaTian",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/225383926?v=4",
-      "description": "MR Office \u2014 the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
-      "url": "https://github.com/XinaTian/MROffice",
-      "preview_image": "https://repository-images.githubusercontent.com/1453006141/75f31f17-76f4-4edb-90b9-240933a16c0b",
-      "stars": 5140,
-      "stars_display": "5.1k",
-      "forks": 506,
-      "forks_display": "506",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agent",
-        "claude-code",
-        "codex",
-        "copilot"
-      ],
-      "updated_at": "2026-11-24T15:50:44Z"
+      "updated_at": "2026-11-26T20:19:47Z"
     },
     {
       "full_name": "simplexai-labs/linger",
@@ -156,10 +134,10 @@
       "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-design, so everyone can run their own.",
       "url": "https://github.com/simplexai-labs/linger",
       "preview_image": "https://repository-images.githubusercontent.com/1452175380/82670003-b765-410c-8566-9c1675720087",
-      "stars": 4774,
+      "stars": 4837,
       "stars_display": "4.8k",
-      "forks": 452,
-      "forks_display": "452",
+      "forks": 457,
+      "forks_display": "457",
       "language": "TypeScript",
       "topics": [
         "agent-teams",
@@ -168,7 +146,29 @@
         "personal-agent",
         "proactive-agent"
       ],
-      "updated_at": "2026-11-26T11:18:04Z"
+      "updated_at": "2026-11-26T19:48:59Z"
+    },
+    {
+      "full_name": "XinaTian/MROffice",
+      "name": "MROffice",
+      "owner": "XinaTian",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/225383926?v=4",
+      "description": "MR Office \u2014 the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "url": "https://github.com/XinaTian/MROffice",
+      "preview_image": "https://repository-images.githubusercontent.com/1453006141/75f31f17-76f4-4edb-90b9-240933a16c0b",
+      "stars": 4407,
+      "stars_display": "4.4k",
+      "forks": 414,
+      "forks_display": "414",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "copilot"
+      ],
+      "updated_at": "2026-11-26T19:59:36Z"
     },
     {
       "full_name": "FrigadeHQ/yogurt",
@@ -178,10 +178,10 @@
       "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "preview_image": "https://repository-images.githubusercontent.com/1453132706/97e29410-2cc5-4b5b-9223-bcec6ec9ca4a",
-      "stars": 3608,
-      "stars_display": "3.6k",
-      "forks": 313,
-      "forks_display": "313",
+      "stars": 3671,
+      "stars_display": "3.7k",
+      "forks": 324,
+      "forks_display": "324",
       "language": "TypeScript",
       "topics": [
         "ai-meeting-assistant",
@@ -190,7 +190,7 @@
         "granola-alternative",
         "linux"
       ],
-      "updated_at": "2026-11-26T06:17:01Z"
+      "updated_at": "2026-11-26T19:30:26Z"
     },
     {
       "full_name": "wquguru/cicada",
@@ -200,10 +200,10 @@
       "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
       "url": "https://github.com/wquguru/cicada",
       "preview_image": "https://opengraph.githubassets.com/2c1c30693cc1a765689b06dfcf05299341657f09b750e3456ecc67fdb79b4147/wquguru/cicada",
-      "stars": 3383,
-      "stars_display": "3.4k",
-      "forks": 540,
-      "forks_display": "540",
+      "stars": 3458,
+      "stars_display": "3.5k",
+      "forks": 553,
+      "forks_display": "553",
       "language": "Swift",
       "topics": [
         "android",
@@ -219,6 +219,6 @@
   "search_query": "ai created:>2026-10-27",
   "days": 30,
   "limit": 10,
-  "total_count": 594998,
-  "fetched_at": "2026-11-26T11:18:19.935690+00:00"
+  "total_count": 607512,
+  "fetched_at": "2026-11-26T20:23:40.901001+00:00"
 }

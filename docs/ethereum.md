@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-26T11:19:05.072114+00:00'
+updated: '2026-11-26T20:24:16.822639+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 26, 2026 at 11:19 UTC  
+**Last Updated:** November 26, 2026 at 20:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** +4.7%  
-**30d:** -28.0%  
-**90d:** -30.9%  
-**1y:** -43.6%  
+**24h:** +1.0%  
+**7d:** +4.9%  
+**30d:** -27.8%  
+**90d:** -30.7%  
+**1y:** -43.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $207.21B
+**Market Cap:** $208.12B
 Rank #2
 
 **Circulating Supply:** 122,253,672 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.7%
+-65.6%
 
 **All-Time Low:** $0.43
-+391355.5%
++393046.1%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-9d ago
+10d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew quick slots from Hegotá upgrade, Glamsterdam gas repricing findings due November 16
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 12d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 13d ago
 
 ---
 
@@ -128,7 +128,7 @@ Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-13d ago
+14d ago
 
 ---
 
@@ -152,14 +152,6 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
-**[PQAI #0: Preparing Ethereum for a post-quantum, post-AI world](https://blog.ethereum.org/2026/11/23/pqai-0)**
-
-Coming away from Devcon in Mumbai, one thing was clear across client teams, researchers, and the wider Ethereum community: people are ready to take on...
-
-ethereum.org • 2d ago
-
----
-
 **[PQAI #1: One hash to rule them all — Keccak-256 for Ethereum's post-quantum, post-AI era](https://blog.ethereum.org/2026/11/24/pqai-1)**
 
 We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography.
@@ -168,43 +160,35 @@ ethereum.org • 1d ago
 
 ---
 
-**[Morning Minute: Ethereum Focuses on Security As AI Threats Rise](https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise)**
+**[Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-25-222619217.html)**
 
-The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous.
+Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last.
 
-Decrypt • 21h ago
-
----
-
-**[Bit Digital, Inc. Reduces Secured Borrowings from Galaxy Through Partial Sale of ETH Holdings](https://bit-digital.com/news/bit-digital-inc-reduces-secured-borrowings-from-galaxy-through-partial-sale-of-eth-holdings/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced that it has repaid $50 million of principal under its secured borrowing arrangement with Galaxy Digital. The repayment, funded through a partial sale of the Company’s ETH holdings, lowered outstanding Galaxy borrowings from $100.0 million to $50 million, a reduction of 50%.
-
-Bit Digital • 10h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin, ethereum gain ground under new CFTC rules](https://finance.yahoo.com/video/bitcoin-ethereum-gain-ground-under-new-cftc-rules-164157249.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Climb Even as Core Inflation Stays Hot: Analyst Warns Investors to 'Prepare for the Worst'](https://www.tradingview.com/news/benzinga:16bcecbbb094b:0-bitcoin-ethereum-xrp-dogecoin-climb-even-as-core-inflation-stays-hot-analyst-warns-investors-to-prepare-for-the-worst/)**
 
-Scott Melker discusses the changes to Commodity Futures Trading Commission (CFTC) regulations that allow bitcoin (BTC-USD), ethereum (ETH-USD), and stablecoins to count toward qualifying financial resource requirements for eligible exchanges and trading platforms. Melker examines what the regulatory shift could mean for institutional crypto adoption
+Leading cryptocurrencies gained on Wednesday as investors assessed core inflation readings and broader U.S. economic conditions.Crypto Market ReboundsBitcoin rebounded from an intraday low of $57,307.69 to climb above $60,000, while Ethereum also rose above $1,700Cryptocurrency-related stocks gaine…
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Yahoo Finance • 1d ago
+TradingView • 18h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Climb Even as Core Inflation Stays Hot: Analyst Warns Investors to 'Prep](https://www.benzinga.com/crypto/cryptocurrency/26/11/63659254/bitcoin-ethereum-xrp-dogecoin-crypto-inflation-pce)**
+**[Not A Bitcoin Believer? Bitmine Sells Ethereum At ~0.84X NAV (NYSE:BMNR)](https://seekingalpha.com/article/4972194-not-a-bitcoin-believer-bitmine-sells-ethereum-at-0-84x-nav)**
 
-Benzinga • 9h ago
+Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked.
+
+Seeking Alpha • 8h ago
 
 ---
 
-**[Current price of Ethereum for November 25, 2026](https://fortune.com/article/price-of-ethereum-11-25-2026/)**
+**[Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing](https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats.
 
-Fortune • 16h ago
+Decrypt • 1d ago
 
 ---
 
@@ -212,23 +196,35 @@ Fortune • 16h ago
 
 Ethlabs urges Ethereum to ship Glamsterdam as is, warning EIP-8037 changes would delay the upgrade by months and cut planned gas capacity.
 
-Crypto Briefing • 17m ago
+Crypto Briefing • 9h ago
 
 ---
 
-**[Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound](https://www.fool.com/coverage/stock-market-today/2026/11/25/crypto-market-today-nov-25-bitcoin-ethereum-and-solana-as-short-liquidations-fuel-fragile-rebound/)**
+**[Current price of Ethereum for November 25, 2026](https://fortune.com/article/price-of-ethereum-11-25-2026/)**
 
-Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Motley Fool • 13h ago
+Fortune • 1d ago
 
 ---
 
-**[Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says 'we do not take this lightly'](https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562)**
+**[Lido tightens Ethereum staking penalties as operators gain access to larger validators](https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/)**
 
-The repayment leaves the company holding about 24,245 ETH, alongside $17.9 million in convertible notes due in 2027.
+Lido voters approved broader penalties to recover missed Ethereum staking rewards and other losses from operators’ collateral.
 
-The Block • 1d ago
+CryptoSlate • 18h ago
+
+---
+
+**[Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack](https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack)**
+
+CoinDesk • 3d ago
+
+---
+
+**[Trader who nailed 2018 Bitcoin crash now sounds Ethereum alarm](https://www.thestreet.com/crypto/markets/trader-who-nailed-2018-bitcoin-crash-now-sounds-ethereum-alarm)**
+
+www.thestreet.com • 20h ago
 
 ---
 
@@ -242,7 +238,17 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 9K • 👍 197 • 💬 87 • ⏱️ 38:29 • 15h ago
+👁️ 12K • 👍 233 • 💬 95 • ⏱️ 38:29 • 1d ago
+
+---
+
+**[Ethereum’s First Big CRISIS and the ICO Explosion](https://www.youtube.com/watch?v=fA_Hoz40Kmo)**
+
+Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals https://www.coinbureau.com/deals/ ...
+
+📺 Coin Bureau
+
+👁️ 25K • 👍 421 • 💬 23 • ⏱️ 24:26 • 6h ago
 
 ---
 
@@ -252,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 71 • 💬 27 • ⏱️ 25:35 • 15h ago
+👁️ 9K • 👍 86 • 💬 18 • ⏱️ 25:35 • 1d ago
 
 ---
 
@@ -262,7 +268,7 @@ BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 166 • 💬 34 • ⏱️ 18:25 • 5h ago
+👁️ 10K • 👍 248 • 💬 193 • ⏱️ 18:25 • 15h ago
 
 ---
 
@@ -272,7 +278,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 70K • 👍 784 • 💬 86 • ⏱️ 28:19 • 1d ago
+👁️ 73K • 👍 795 • 💬 88 • ⏱️ 28:19 • 2d ago
 
 ---
 
@@ -282,7 +288,7 @@ Well everyone, its that time of the four year crypto cycle again, and I think th
 
 📺 Money Rules - Investing Tips 
 
-👁️ 38K • 👍 3K • 💬 365 • ⏱️ 17:03 • 23h ago
+👁️ 40K • 👍 3K • 💬 375 • ⏱️ 17:03 • 1d ago
 
 ---
 
@@ -292,7 +298,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 337 • 💬 15 • ⏱️ 21:42 • 2d ago
+👁️ 22K • 👍 339 • 💬 15 • ⏱️ 21:42 • 2d ago
 
 ---
 
@@ -302,17 +308,7 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 540 • 👍 11 • 💬 1 • ⏱️ 2:59 • 21h ago
-
----
-
-**[Ethereum Under Pressure: Bull Trap or Bottom?](https://www.youtube.com/watch?v=8x9a1vXlEOY)**
-
-Ethereum is bouncing from Fibonacci support at $1595 to $1718, but so far it is only a three-wave move and a low is not confirmed ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 110 • 💬 5 • ⏱️ 7:05 • 13h ago
+👁️ 723 • 👍 11 • 💬 1 • ⏱️ 2:59 • 1d ago
 
 ---
 
@@ -322,7 +318,7 @@ The Ethereum Foundation now says AI is a more urgent risk to Ethereum than quant
 
 📺 BasedGiant
 
-👁️ 2K • 👍 148 • 💬 8 • ⏱️ 8:52 • 20h ago
+👁️ 3K • 👍 159 • 💬 15 • ⏱️ 8:52 • 1d ago
 
 ---
 
@@ -332,7 +328,7 @@ BITCOIN WARNING: REJECTION CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 17K • 👍 300 • 💬 162 • ⏱️ 17:22 • 1d ago
+👁️ 17K • 👍 300 • 💬 159 • ⏱️ 17:22 • 1d ago
 
 ---
 
