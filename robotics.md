@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-26T02:03:22.667417+00:00'
+updated: '2026-11-26T11:19:05.074277+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 26, 2026 at 02:03 UTC  
+**Last Updated:** November 26, 2026 at 11:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-10d ago
+11d ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-10d ago
+11d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-10d ago
+11d ago
 
 ---
 
@@ -76,13 +76,13 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-10d ago
+11d ago
 
 ---
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-10d ago
+11d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-11d ago
+12d ago
 
 ---
 
@@ -110,75 +110,73 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[A LEASH for AI-controlled robots: New system could reduce harmful actions](https://techxplore.com/news/2026-11-leash-ai-robots-actions.html)**
+**[Robots could be doing household chores in just 1-2 years, Chinese EV firm says](https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html)**
 
-Tech Xplore • 2d ago
+Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.
 
----
-
-**[This robotics stock lost half its value. Here's why Citi says it's a buy](https://www.cnbc.com/2026/11/25/a-robotics-stock-lost-half-its-value-heres-why-citi-says-its-a-buy-.html)**
-
-Agility Robotics has lost more than half of its value since its IPO, but it is positioned to see a lot of upside if the humanoid robot market expands, per Citi.
-
-CNBC • 11h ago
+CNBC • 3h ago
 
 ---
 
-**[Nestlé turns to AI and robotics to stoke growth](https://www.fooddive.com/news/nestle-grows-artificial-intelligence-robotics-innovation/875604/)**
+**[Humanoid robots are coming—sooner than you think](https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think)**
 
-The world’s largest food company said a deep tech center will help it develop and test ideas faster, maintain consistent quality and improve efficiency.
-
-Food Dive • 1d ago
+The Economist • 30m ago
 
 ---
 
-**[SoftBank acquires Marc Raibert’s Robotics and AI Institute](https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/)**
+**[Volvo Is Bringing Humanoid Robots Into Its Factories. Here's When They'll Start Working](https://insideevs.com/news/816850/volvo-cars-humanoid-robots-training-factory/)**
 
-SoftBank acquired the Robotics and AI Institute from Hyundai Motor Group, reuniting with Boston Dynamics founder Marc Raibert.
+The first Aeon units are already being trained at Volvo’s factory in Ghent, Belgium. The next step is giving them real work.
 
-The Robot Report • 1d ago
-
----
-
-**[Light-activated nano-robots bring more drugs to the brain](https://www.ft.com/content/95b7e73d-a884-42bb-9845-f0e305699664?syn-25a6b1a6=1)**
-
-Financial Times • 7h ago
+InsideEVs • 2h ago
 
 ---
 
-**[Eric Trump-backed robotics startup told all workers their health insurance is gone — ‘extremely unfortunate’ situation](https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html)**
+**[Robots will have a staggering economic impact](https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact)**
 
-This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025.
-
-Yahoo Finance • 2d ago
+The Economist • 29m ago
 
 ---
 
 **[Humble Robotics wants to reinvent trucking](https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports)**
 
-Axios • 8h ago
+Axios • 18h ago
 
 ---
 
-**[Meet the front-runners driving China’s humanoid robot boom](https://www.scmp.com/tech/article/3375497/meet-robots-chinas-six-top-humanoid-developers-vie-market-share)**
+**[Inside DARPA's Challenge Where Robots Searched for Disaster Victims](https://spectrum.ieee.org/darpa-triage-challenge-final-robots)**
 
-South China Morning Post • 2d ago
+The defense agency’s latest grand challenge aimed to prove robots could save lives in emergencies
 
----
-
-**[Robots that clean toilets, deliver pastries: Resorts World Sentosa trials AI solutions for tourism sector](https://www.channelnewsasia.com/singapore/ai-robotics-tourism-hotel-attractions-rws-6577641)**
-
-The initiative will use Resorts World Sentosa's integrated resort environment to develop and trial physical and digital AI solutions.
-
-CNA • 15h ago
+IEEE Spectrum • 2d ago
 
 ---
 
-**[RoboTrack: Point tracking for real-world robotic manipulation](https://allenai.org/blog/robotrack)**
+**[Novanta Shares Just Jumped And We’re Buying This Robotics Play](https://finance.yahoo.com/video/novanta-shares-just-jumped-buying-225922952.html)**
 
-RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks.
+Just as early investors targeted foundational chipmakers like Taiwan Semiconductor (TSM), Nvidia (NVDA), and Broadcom (AVGO) at the start of the AI computing wave, investors are currently examining diversified industrial and sensor plays such as Regal Rexnord (RRX), Timken (TKR), Allegro MicroSystems (ALGM), Ouster (OUST), and STMicroelectronics (STM). During a recent episode of The AI Investor Podcast, hosts Eric Bleeker and Austin Smith took a closer look at Novanta, and shared why they are optimistic about the robotics manufacturer as an AI investment play to target in 2027.
 
-Allen Institute for Artificial Intelligence • 2d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Robots roam Singapore's urban AI testing ground](https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html)**
+
+Tech Xplore • 1h ago
+
+---
+
+**[Light-powered 250-nm nanobots boost brain drug delivery fivefold](https://interestingengineering.com/ai-robotics/caltech-brainbots-drug-delivery-blood-brain-barrier)**
+
+Caltech's 250-nm biodegradable nanorobots use near-infrared light to improve drug delivery across the blood–brain barrier in mice.
+
+Interesting Engineering • 7h ago
+
+---
+
+**[RoboSense Reports Third Quarter 2026 Unaudited Financial Results, with Robotics LiDAR Sales Volume Ranking No. 1 Globally](https://www.morningstar.com/news/pr-newswire/20261125cn06851/robosense-reports-third-quarter-2026-unaudited-financial-results-with-robotics-lidar-sales-volume-ranking-no-1-globally)**
+
+Morningstar • 6h ago
 
 ---
 
@@ -186,13 +184,13 @@ Allen Institute for Artificial Intelligence • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[China’s New AI Robot Army Is Terrifying...](https://www.youtube.com/watch?v=bOOf9boeiKE)**
+**[Everyone is Getting Humanoids Wrong](https://www.youtube.com/watch?v=ai1Gg0oeVTk)**
 
-China just turned Shenzhen into a giant robot show during APEC week, and 151 humanoids set a Guinness World Record for the ...
+Roomba brought robots into millions of homes, but never delivered the iPhone moment for home robotics. Matic thinks it can.
 
-📺 MACHINEKIND
+📺 MTS 
 
-👁️ 14K • 👍 217 • 💬 29 • ⏱️ 13:00 • 2d ago
+👁️ 26K • 👍 55 • 💬 11 • ⏱️ 16:20 • 2d ago
 
 ---
 
@@ -202,7 +200,7 @@ Tesla's new Optimus robot upgrade is much bigger than the viral robot clips sugg
 
 📺 Tyrone
 
-👁️ 70K • 👍 420 • 💬 11 • ⏱️ 27:54 • 3d ago
+👁️ 70K • 👍 422 • 💬 11 • ⏱️ 27:54 • 3d ago
 
 ---
 
@@ -212,15 +210,17 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Cleo Abram
 
-👁️ 2.3M • 👍 125K • 💬 1K • ⏱️ 1:05 • 5d ago
+👁️ 2.3M • 👍 126K • 💬 1K • ⏱️ 1:05 • 5d ago
 
 ---
 
-**[He Built a Secret Robot Inside His Weakest Fighter and Shocked Everyone!](https://www.youtube.com/watch?v=2zQX8tU2hU4)**
+**[Wheat Can Bury You in 20 Seconds. So China Sent This #Robotics #AgTech #Automation #GrainStorage](https://www.youtube.com/watch?v=180eFaox9TA)**
 
-📺 Lazy Kitten
+A 48-pound agricultural robot is taking over grain leveling inside China's wheat warehouses, one of the most dangerous jobs in ...
 
-👁️ 29K • 👍 845 • 💬 24 • ⏱️ 2:14 • 13h ago
+📺 CDC: Creators ́ Club
+
+👁️ 91K • 👍 1K • 💬 24 • ⏱️ 1:15 • 1d ago
 
 ---
 
@@ -230,57 +230,57 @@ Robots vs HUMANS. Were these auditions even real?? FIND OUT! 00:00 - Boston Dyna
 
 📺 Top Talent
 
-👁️ 293K • 👍 1K • 💬 56 • ⏱️ 49:21 • 2d ago
+👁️ 310K • 👍 1K • 💬 64 • ⏱️ 49:21 • 2d ago
 
 ---
 
-**[Here&#39;s a look at some of China&#39;s newest humanoid robots](https://www.youtube.com/watch?v=PWNVZLzYdq4)**
+**[Unboxing a 100K Agibot Robot #agibot #agibotanz #agibotsea](https://www.youtube.com/watch?v=0dQUVUhq90w)**
 
-Tony Dokoupil takes a look at China's advanced humanoid robots. Last year, China installed more industrial robots than the rest ...
+Unboxing a 100k Robot from Agibot so it can do my job.
 
-📺 CBS Evening News
+📺 Insert Richie
 
-👁️ 38K • 👍 148 • 💬 78 • ⏱️ 2:05 • 6d ago
-
----
-
-**[Chinese humanoid robots on display at the RoboExpo in Shenzhen #shorts](https://www.youtube.com/watch?v=DhBzSrMExMY)**
-
-"CBS Evening News" delivers the day's most important stories, delivering context and depth to bring greater understanding to your ...
-
-📺 CBS Evening News
-
-👁️ 186K • 👍 840 • 💬 125 • ⏱️ 1:56 • 6d ago
+👁️ 783K • 👍 30K • 💬 519 • ⏱️ 2:04 • 3d ago
 
 ---
 
-**[This Chinese Humanoid Robot Is Dancing Better Than Humans! 🤯🤖](https://www.youtube.com/watch?v=UAUUU2gZ6fY)**
+**[Robots are the new apps (and you’re early)](https://www.youtube.com/watch?v=TXzJ4pGW59o)**
 
-A humanoid robot taking on human dancers! AiMOGA's full-sized robot performs synchronized dance and martial arts moves ...
+I sit down with Adrien Gaidon, Co-founder and Chief Strategy Officer of Walden Robotics, to map out where the openings sit in ...
 
-📺 Nexio Core
+📺 Greg Isenberg
 
-👁️ 38K • 💬 3 • ⏱️ 0:06 • 2d ago
-
----
-
-**[China&#39;s New IRON Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=SOitmi6Pmmg)**
-
-China's new IRON humanoid robot from Xpeng just got its biggest upgrade yet, and the factory that builds it is already running in ...
-
-📺 Work Time
-
-👁️ 51K • 👍 310 • 💬 22 • ⏱️ 17:28 • 4d ago
+👁️ 25K • 👍 271 • 💬 23 • ⏱️ 49:07 • 2d ago
 
 ---
 
-**[First Partly ALIVE AI Robot Iris Shocks the World](https://www.youtube.com/watch?v=cMCjqhL0-Vk)**
+**[XPeng IRON Humanoid Robot Can Now Do Household Tasks](https://www.youtube.com/watch?v=b4xGY3jDGDc)**
 
-OpenMind's humanoid robot Iris is partly alive. Stanford bioengineer Jan Liphardt has connected her to living human brain cells in ...
+XPeng's IRON humanoid robot can navigate rooms, grab books, pour drinks, and charge itself autonomously. The latest teaser ...
 
-📺 MACHINEKIND
+📺 DPCcars
 
-👁️ 38K • 👍 561 • 💬 73 • ⏱️ 11:51 • 5d ago
+👁️ 2K • 👍 27 • 💬 6 • ⏱️ 1:41 • 1d ago
+
+---
+
+**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
+
+ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
+
+📺 MuffinJuice
+
+👁️ 1.5M • 👍 40K • 💬 3K • ⏱️ 15:00 • 6d ago
+
+---
+
+**[This Sloth Taught Georgia Tech to Build a Robot That Never Rushes 🦥](https://www.youtube.com/watch?v=MSN8LDzJDbc)**
+
+The brown-throated three-toed sloth lives in the rainforests of Central and South America, hanging upside down by three long ...
+
+📺 Creatures in Motion
+
+👁️ 986 • 👍 46 • 💬 2 • ⏱️ 2:45 • 3h ago
 
 ---
 

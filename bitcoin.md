@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-26T02:03:22.661116+00:00'
+updated: '2026-11-26T11:19:05.068113+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 26, 2026 at 02:03 UTC  
+**Last Updated:** November 26, 2026 at 11:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,789.44
+### $60,558.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** +3.1%  
-**30d:** -25.3%  
-**90d:** -22.3%  
-**1y:** -33.6%  
+**24h:** +3.2%  
+**7d:** +2.9%  
+**30d:** -25.5%  
+**90d:** -22.5%  
+**1y:** -33.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1222.30B
+**Market Cap:** $1217.94B
 Rank #1
 
-**Circulating Supply:** 20,117,487 BTC
+**Circulating Supply:** 20,117,596 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--51.8%
+-52.0%
 
 **All-Time Low:** $67.81
-+89475.3%
++89180.3%
 
 ---
 
@@ -117,7 +117,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 **[It's so over guys!!!](https://www.reddit.com/r/Bitcoin/comments/1xwnz3q/its_so_over_guys/)**
 
-10d ago
+11d ago
 
 ---
 
@@ -125,7 +125,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 62 > 64.5
 
-10d ago
+11d ago
 
 ---
 
@@ -147,7 +147,7 @@ I really have no words of hope. But I am holding on.
 
 What is going on with Bitcoin today?
 
-10d ago
+11d ago
 
 ---
 
@@ -155,73 +155,73 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
+**[Bill to lock up U.S. government bitcoin for 20 years advances to full House](https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house)**
+
+CoinDesk • 6h ago
+
+---
+
+**[House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage](https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778)**
+
+The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for a House floor vote, Senate consideration, and final passage before the session ends.
+
+The Block • 8h ago
+
+---
+
 **[Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor](https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor)**
 
 Rep. Nick Begich's Strategic Bitcoin Reserve bill, with a 20-year ban on selling reserve bitcoin, cleared the House Financial Services Committee.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
 **[It’s ‘Coming’—Massive AI Crash Predicted To Trigger $25 Trillion Bitcoin Price Boom](https://www.forbes.com/sites/digital-assets/2026/11/25/its-coming-massive-ai-crash-predicted-to-trigger-25-trillion-bitcoin-price-boom/)**
 
-Forbes • 13h ago
+Forbes • 22h ago
 
 ---
 
-**[One Big Difference Between Bitcoin and Pearl: There’s ‘No True Fair Launch Anymore’](https://finance.yahoo.com/video/one-big-difference-between-bitcoin-010045398.html)**
+**[Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading](https://www.bloomberg.com/news/articles/2026-11-26/bitcoin-tops-60-000-as-risk-assets-rise-in-holiday-trading)**
 
-Ryan Watkins, Co-Founder of Syncracy Capital, responds to criticism of Pearl’s $55 million raise and concentrated mining, saying insiders hold about 5% of supply and no launch since Bitcoin can be truly fair. From Unchained, the no-hype resource for all things crypto.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 22m ago
 
 ---
 
-**[Bitcoin’s Slide Below $60,000 Is A Stress Test For Corporate Crypto Treasuries](https://www.forbes.com/sites/digital-assets/2026/11/25/bitcoins-slide-below-60000-is-a-stress-test-for-corporate-crypto-treasuries/)**
+**[Can a 17-Year Track Record Protect Bitcoin? Ryan Watkins Weighs In](https://finance.yahoo.com/video/17-track-record-protect-bitcoin-110045688.html)**
 
-Forbes • 1h ago
+Ryan Watkins, Co-Founder of Syncracy Capital, says he’s unsure what happens to Bitcoin if Pearl’s compute footprint passes it, but argues a sudden flip would hurt trust in crypto while a slow one wouldn’t zero out Bitcoin. From Unchained, the no-hype resource for all things crypto.
+
+Yahoo Finance • 18m ago
 
 ---
 
-**[Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tokenized-gold-trading-euros-000200659.html)**
+**[$7B Bitcoin Options Expire Friday on Deribit](https://shattered.io/bitcoin-options-expiry-7-billion-deribit-puts-60k-nov-26/)**
 
-Chainalysis data links euro trading in Bitcoin and tokenized gold to eurozone yields, but the signal has clear limits.
+About $7B in bitcoin options expire Friday on Deribit, down from $10.8B in October, with put bets clustered at $60,000 and below.
 
-Yahoo Finance • 2h ago
+shattered.io • 25m ago
 
 ---
 
 **[Bitcoin Miners Hammered Again as Price Rout Squeezes Margins](https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins)**
 
-Bloomberg • 6h ago
+Bloomberg.com • 15h ago
 
 ---
 
-**[Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan](https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan)**
+**[Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route](https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes)**
 
-CoinDesk • 10h ago
-
----
-
-**[Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion](https://www.fool.com/coverage/stock-market-today/2026/11/24/crypto-market-today-nov-24-bitcoin-falls-below-usd60-000-as-etf-outflows-hit-a-record-usd4-7-billion/)**
-
-Record withdrawals from Bitcoin investment funds are adding to selling pressure across cryptocurrencies, raising concerns about whether the market can withstand another downturn in technology stocks.
-
-The Motley Fool • 1d ago
+CoinDesk • 3h ago
 
 ---
 
-**['Don't mess with X,' Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case](https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151)**
+**[Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections](https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723)**
 
-The two defendants did not respond to X's claim, leaving damages and interest to be determined at a later disposal hearing.
+Braiins is urging miners to upgrade to Stratum V2 to encrypt their connections.
 
-The Block • 13h ago
-
----
-
-**[Liquidity peaked. First bitcoin fell, then gold and now stocks. Here’s how long the downturn will last, according to this veteran strategist.](https://www.marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4)**
-
-MarketWatch • 12h ago
+The Block • 15h ago
 
 ---
 
@@ -247,7 +247,7 @@ Notes on mathematics and puzzles.
 
 Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...
 
-⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
+⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
 
 ---
 
@@ -279,7 +279,7 @@ CVE-2026-117348 - Node stall through duplicate orphan announcements
 
 The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.
 
-⬆️ 1 • 💬 1 • 4d ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
+⬆️ 1 • 💬 1 • 5d ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
 
 ---
 
@@ -311,23 +311,43 @@ An interactive engineering guide to LLMs, Agents, and RAG
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin and the Realized Price](https://www.youtube.com/watch?v=mPDwkBYWJo8)**
-
-Into The Cryptoverse Premium BLACK Friday Sale (use discount code blackfriday for 50% off your 1st invoice): ...
-
-📺 Benjamin Cowen
-
-👁️ 90K • 👍 4K • 💬 158 • ⏱️ 11:05 • 7h ago
-
----
-
 **[$3.6 TRILLION GONE | Why This Crash Is Hiding a Bullish Bitcoin Signal?!](https://www.youtube.com/watch?v=Z-hKP_6_lg4)**
 
 Bitcoin fell to about $57400 as markets sold off into Thanksgiving, and Rustin argues a hidden bullish signal is building ...
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 734 • 💬 81 • ⏱️ 16:52 • 3h ago
+👁️ 22K • 👍 1K • 💬 87 • ⏱️ 16:52 • 12h ago
+
+---
+
+**[BOMBSHELL: I Just Discovered What’s REALLY Going On With Crypto Crash (Trump, Tariffs, Nvidia)](https://www.youtube.com/watch?v=0EemGc9ml5o)**
+
+Unlock $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 1K • 💬 58 • ⏱️ 12:45 • 9h ago
+
+---
+
+**[THIS COULD CHANGE THE BITCOIN STORY FAST!!!!](https://www.youtube.com/watch?v=-aVQ_iH5ZnM)**
+
+YUBIT hhttps://ckenny.com/YBN $500 Nvidia Postion MY FREE TRADE ALERTS https://ckenny.com/YBTM FREE 1000 ...
+
+📺 Conor Kenny
+
+👁️ 8K • 👍 348 • 💬 44 • ⏱️ 15:49 • 5h ago
+
+---
+
+**[Bitcoin and the Realized Price](https://www.youtube.com/watch?v=mPDwkBYWJo8)**
+
+Into The Cryptoverse Premium BLACK Friday Sale (use discount code blackfriday for 50% off your 1st invoice): ...
+
+📺 Benjamin Cowen
+
+👁️ 139K • 👍 5K • 💬 190 • ⏱️ 11:05 • 16h ago
 
 ---
 
@@ -337,47 +357,37 @@ For long-term holders who want a clear head through the cycles, Learning Crypto 
 
 📺 Crypto Tips
 
-👁️ 21K • 👍 628 • 💬 99 • ⏱️ 12:12 • 9h ago
+👁️ 27K • 👍 749 • 💬 102 • ⏱️ 12:12 • 18h ago
 
 ---
 
-**[11.6M Bitcoin Underwater. Do Too Much &amp; Lose BILLIONS](https://www.youtube.com/watch?v=eGiLzqQJRr0)**
+**[BITCOIN: This Is The FINAL HURDLE (Do NOT Ignore It!)](https://www.youtube.com/watch?v=y5OkT8hiwvg)**
 
-A record 11.6 million Bitcoin are underwater, and this is when people do too much. Carl Icahn's fortune fell by an estimated $25 ...
+Opening Statement & Video Context 0:00-2:46 4 Year Cycle Recap & Current Status 2:46-4:53 Was $55k The Bottom, $48k ...
 
-📺 Digital Asset News
+📺 Wolves of Crypto
 
-👁️ 5K • 👍 237 • 💬 25 • ⏱️ 19:04 • 4h ago
-
----
-
-**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=LYuwvF0CzOc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 3K • 👍 54 • 💬 17 • ⏱️ 25:35 • 6h ago
+👁️ 5K • 👍 212 • 💬 26 • ⏱️ 15:36 • 7h ago
 
 ---
 
-**[Bitcoin Dumps as Tech Panic Spreads](https://www.youtube.com/watch?v=sx-ga5mWvJI)**
+**[Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It](https://www.youtube.com/watch?v=rWfTVQTY8vU)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Clashpad.Fun - *Launch a Token. Reward the ...
-
-📺 CryptosRUs
-
-👁️ 28K • 👍 784 • 💬 251 • ⏱️ 46:11 • 10h ago
-
----
-
-**[Stanford Professor Makes the Bitcoin Bull Case](https://www.youtube.com/watch?v=oi_Lez1UfWc)**
-
-Bitcoin is "really very underutilized as a productive asset," and new #cryptography like witness encryption could put idle #Bitcoin ...
+Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years.
 
 📺 Bitcoin Magazine
 
-👁️ 741 • 👍 24 • 💬 1 • ⏱️ 0:53 • 3h ago
+👁️ 7K • 👍 68 • 💬 7 • ⏱️ 6:42 • 11h ago
+
+---
+
+**[EVERYBODY IS CALLING FOR A $40K BOTTOM... I CHECKED THE DATA!](https://www.youtube.com/watch?v=EkG_4udWOyY)**
+
+APPLY TO JOIN MY COMMUNITY. https://go.didi-freedom-academy.com/yt-EkG_4udWOyY Free 1-on-1 call with my team.
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 7K • 👍 430 • 💬 83 • ⏱️ 29:11 • 5h ago
 
 ---
 
@@ -387,27 +397,17 @@ Bitcoin crashed to $55000, NVIDIA CEO Jensen Huang was suddenly reinstated, and 
 
 📺 Simply Bitcoin
 
-👁️ 46K • 👍 2K • 💬 165 • ⏱️ 18:41 • 2d ago
+👁️ 46K • 👍 2K • 💬 166 • ⏱️ 18:41 • 2d ago
 
 ---
 
-**[Is It Safe To BUY Bitcoin &amp; Stocks At These Prices? [The Truth]](https://www.youtube.com/watch?v=MLRV6kYoX5U)**
+**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=LYuwvF0CzOc)**
 
-In today's video we outline whether or not it's safe to be a buyer of risk on assets at these prices. This is after significant ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Crypto Banter
+📺 Crypto Nutshell
 
-👁️ 23K • 👍 946 • 💬 18 • ⏱️ 43:45 • 18h ago
-
----
-
-**[The Bitcoin Bottom](https://www.youtube.com/watch?v=Nk9U3kcq8pE)**
-
-Become an Enjoyer: https://www.skool.com/marketenjoyers/about Get the FREE Weekly Report: ...
-
-📺 Crypto Currently
-
-👁️ 24K • 👍 824 • 💬 266 • ⏱️ 1:00:24 • 6h ago
+👁️ 7K • 👍 71 • 💬 27 • ⏱️ 25:35 • 15h ago
 
 ---
 
