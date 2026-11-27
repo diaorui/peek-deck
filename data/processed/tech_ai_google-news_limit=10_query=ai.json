@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "I\u2019m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5",
-      "pub_date": 1795702140.0,
-      "article_url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
-      "image": "https://i.guim.co.uk/img/media/8cc6bbd0024f4ba8485616485bd55f9c34d98452/458_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=017e2e1788767d4c160ed57310d8c804",
-      "description": "We\u2019re developing the most powerful tech in history \u2013 but trust, safeguarding and privacy are being sidelined in favour of huge profit, says an anonymous AI expert"
-    },
-    {
       "headline": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -23,6 +13,66 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5",
+      "pub_date": 1795712205.0,
+      "article_url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "SAP looks to cut another 10,000 jobs in new AI-driven restructuring",
+      "source": "CTech",
+      "source_url": "https://www.calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hY1RyX3gzcm81blBzbnY2M3YyOTNmd00zcmZKemdGN3dvU3g4UGZVbDR0U0l2aHJoOG5tX0xLMVFhcGk1cFAyNmRhc2dHd2JFWUZBX0VyRWxvQW9zdklVVXNyZHBiM0k?oc=5",
+      "pub_date": 1795718880.0,
+      "article_url": "https://www.calcalistech.com/ctechnews/article/al8iwkfjx",
+      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2020/01/01/958469/958469_0_0_1024_576_0_large.jpg",
+      "description": "The reported layoffs would mark a second major workforce overhaul in less than three years. SAP is seeking to reorganize product development and sales around AI while protecting its growth in cloud software."
+    },
+    {
+      "headline": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
+      "pub_date": 1795677540.0,
+      "article_url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI boom fuels demand for commercial and industrial space: JLL",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1d6TzRhT3Y1VXowcm1QLV93a2FzNWdEcnpHcXdlQjAtY0otZVB4cFVUa0VERWJGc2drSm4wNEZfLUs5ZThuSm5lV3gyUlctVHg4eS1TdTMtbzVJVE5TanJQeFo0MmM0WVF3Qy1SYUVlbUxYaUpmdnk2cF9IYVF0MWJBTnZ4ZF96WVJQM2FfaWszejk5dFNnVjJ6TEJVM21NSmc?oc=5",
+      "pub_date": 1795745176.0,
+      "article_url": "https://www.cnbc.com/video/2026/11/27/industrial-remains-the-worldas-top-performing-asset-class.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559733-17956597121795659709-49864403688-1080pnbcnews.jpg?v=1795659711&w=1920&h=1080",
+      "description": "JLL's Christian Ulbrich says commercial real estate demand is robust, with office leasing rising on steady GDP growth and AI companies among the strongest drivers. He says industrial space is also in strong demand, driven by data center buildout, but access to grid power is the main constraint on new data centers."
+    },
+    {
+      "headline": "The AI Boom Looks Alive and Well in Asia",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMzcxanlfNkJiU3dmTFRfQnJvQmZZb3dHYUpzWFdfZUs4SGNMN2x4TzJCYzRHYV9sN1JaMmw0SHptNzdQUWZsWUdzWldLTmZCZ0l2TUdUUXdoMFNDSVlLYUZNOUlnQUtYM3FJNWtRdHNWX19rbFI1YjA0NDZEQlJKLWNSUQ?oc=5",
+      "pub_date": 1795748400.0,
+      "article_url": "https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "New book warns leadership crisis grows as AI changes offices",
+      "source": "WBFF",
+      "source_url": "https://foxbaltimore.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWRmQTVjSlBaZmttNWVia3hWcXRYbE9Ga29hRE13MTlwQmlwOGpRcFp4ODAtTVMwdXdrZnRhNjVlZlFNMzgxNFViWUp2cVdTcXBVeHdETGhuX2pPWWJESlU2amxPR0JfcUN1WkZoME9COXVLVmtHTi1zQktWVTRCR2RyTHpxWWtmMnJHRWtBcktKWU5NRTZsX0FOUHg?oc=5",
+      "pub_date": 1795746286.0,
+      "article_url": "https://foxbaltimore.com/news/local/new-book-warns-leadership-crisis-grows-as-ai-changes-offices",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/1919/1320/0x1/90/51273b5c-4f9a-4f5a-a363-44e7d52abaac-0_29PTHANKSGIVINGHFR112626LEADERSHIPBOOK1126_.png",
+      "description": "Artificial intelligence is quickly changing how people work in all kinds of businesses, but two leadership experts, Christian Anschuetz and Luis Serpa, believe there's a bigger issue than just keeping up with technology."
     },
     {
       "headline": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space",
@@ -35,14 +85,14 @@
       "description": "The technology is central to SpaceX\u2019s growth ambitions, though the company warned earlier this year that it relied on \u201cunproven\u201d technologies."
     },
     {
-      "headline": "US approves SpaceX plan to send a million data satellites to space",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
-      "pub_date": 1795685264.0,
-      "article_url": "https://www.bbc.com/news/articles/cwp836l8n1jgo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
-      "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
+      "headline": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
+      "pub_date": 1795666500.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Can Elon Musk really put AI datacentres in space? - The Latest",
@@ -53,58 +103,8 @@
       "article_url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
       "image": "https://i.guim.co.uk/img/media/7da230064c1eaf9ac951b3f7766a1a4a840051b7/933_0_4663_3731/master/4663.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08d90a74bbddee9aea167a5ffa7fefc8",
       "description": "The Trump administration has approved Elon Musk\u2019s plan to launch one million satellites into orbit to create datacentres in space. SpaceX argues the project could reduce the impact of datacentres on Earth as the AI industry grows. But how realistic is the plan and what could the consequences be? Michael Safi speaks to Guardian global technology editor Dan Milmo"
-    },
-    {
-      "headline": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdFlPeWc1LW1ZQjR0SE5YTU9DSXZ6Qlkxa1RkUGJkX3lkbGl2aDd4MmlUc2k1Z1QtNFBjWDlyMUNGRS16MzVoeGFLYmRXQW5vNFM0aURPbHdtcUxETm5zNUllcnFfY29W0gFuQVVfeXFMTXhrRXByTEZhMDA5REEzbmF2X1RBTTZhNU13bzhRaEV4d2E1MUFGaWw0MHhtem9YbVVDTVZyRHhDRlNXSDhBRmk1eURWdjBlVDJjTnpNSkJzbGJ0N29jXzNZc1RBbC1tTktqc1JxZHc?oc=5",
-      "pub_date": 1795650531.0,
-      "article_url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "description": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners."
-    },
-    {
-      "headline": "How to Talk With Your Family About A.I. Doom at Thanksgiving",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVB5UW1nMDFoeWRNR2lPS0gwRVl4NkJlNEd3UmY0MFMyWUc4VzhtZTd0VERQV0sydHJVMjdEN3BMbjdMN3BkeGQzOVNNRFJLUFZNVFYtVTJUaDhuYzk2ZWVkTlg0MlotazhpTHpiRkdpNE5oQm5POHg1ZGFKVUtnY0NnMlc?oc=5",
-      "pub_date": 1795601060.0,
-      "article_url": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Sam Altman needs a physical AI device because Apple won't give OpenAI data for ChatGPT\u2014Tony Fadell",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5",
-      "pub_date": 1795687380.0,
-      "article_url": "https://fortune.com/2026/11/26/sam-altman-needs-jony-ive-to-create-a-physical-ai-device-because-apple-will-never-give-openai-the-real-world-data-chatgpt-needs-tony-fadell-says/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Tony-Fadell-Chairman-e1795687088757.jpeg?resize=1200,600",
-      "description": "Former Apple executive Tony Fadell says privacy rules stop OpenAI from reading context data on the iPhone. A companion gadget would let it collect that data itself."
-    },
-    {
-      "headline": "Explainer-How China got access to Nvidia's AI chips despite rules to stop them",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1d0RXVDVW1QOFVEQ3hPd0pUcnFtU3hmMDU5OS10YktpZ0RCNVoycUFvMjAtQ3BhV2FENlktcWVVX0U2dFNGaTRqNnlrQ0ZPYlAzUEZJOElGenNPZEJJa1B1SFBLSVg1UkxyTUFPaDJBWl80bTg5SWdBN083anNJOEV2ZWpiYVk?oc=5",
-      "pub_date": 1795635541.0,
-      "article_url": "https://finance.yahoo.com/news/explainer-china-got-access-nvidias-193901126.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1e164b735711ce58075f5be2b7c8ba2cf36c705d0201e88b4fe73afb712c1aef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9d409aff635c15368ab4417e475776fc.jpg_up.jpg",
-      "description": "Nov 25 (Reuters) - AI chips are a central battleground in the US-China technology race."
-    },
-    {
-      "headline": "Andrew Bailey says unreleased AI models have raised encryption concerns",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWxtSWdkclhVM25LM250eXk0V3AyWHl5VU82OHdETGpVOHBNeHVwR0tKM1JiVUlmNnpRZHZuX2o5bFctVU16OVctaDVFM0RUTWxLZXladmFDSjdjMUpkLVhiX3dRYVhrTVRDTUpud0R6RU1NYWx3TElCWmlkSndmTjdwTEQ?oc=5",
-      "pub_date": 1795713220.0,
-      "article_url": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-26T20:24:14.980741+00:00"
+  "fetched_at": "2026-11-27T03:05:17.697679+00:00"
 }

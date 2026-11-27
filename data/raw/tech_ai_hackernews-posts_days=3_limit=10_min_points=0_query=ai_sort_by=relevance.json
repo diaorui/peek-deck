@@ -9,8 +9,8 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "hn_url": "https://news.ycombinator.com/item?id=50647673",
       "author": "rmason",
-      "points": 626,
-      "num_comments": 495,
+      "points": 656,
+      "num_comments": 522,
       "created_at": "2026-11-25T21:18:02Z",
       "object_id": "50647673",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
@@ -19,12 +19,26 @@
       "site_name": "The Verge"
     },
     {
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "hn_url": "https://news.ycombinator.com/item?id=50660180",
+      "author": "jlelse",
+      "points": 368,
+      "num_comments": 205,
+      "created_at": "2026-11-26T21:47:45Z",
+      "object_id": "50660180",
+      "image": null,
+      "description": "I\u2019ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit.",
+      "favicon": "https://janlukas.blog/profile.png?s=180&v=f619bca187429a0d5eb2596013df9bc92473cf9915ea22217d5efd65c85712c0",
+      "site_name": "Jan-Lukas Else"
+    },
+    {
       "title": "Tidal bans AI-generated music",
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
       "hn_url": "https://news.ycombinator.com/item?id=50630309",
       "author": "theanonymousone",
       "points": 337,
-      "num_comments": 342,
+      "num_comments": 344,
       "created_at": "2026-11-24T16:12:38Z",
       "object_id": "50630309",
       "image": "https://variety.com/wp-content/uploads/2023/12/Tidal.png?w=679&h=382&crop=1",
@@ -37,8 +51,8 @@
       "url": "https://diseasescuredbyai.com/",
       "hn_url": "https://news.ycombinator.com/item?id=50657307",
       "author": "spoofyroot",
-      "points": 280,
-      "num_comments": 166,
+      "points": 305,
+      "num_comments": 182,
       "created_at": "2026-11-26T17:16:41Z",
       "object_id": "50657307",
       "image": null,
@@ -47,26 +61,12 @@
       "site_name": "diseasescuredbyai.com"
     },
     {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "hn_url": "https://news.ycombinator.com/item?id=50638220",
-      "author": "Curiositry",
-      "points": 222,
-      "num_comments": 85,
-      "created_at": "2026-11-25T03:47:42Z",
-      "object_id": "50638220",
-      "image": null,
-      "description": "Title possibly signs checks the article doesn\u2019t have backing for. This is just a brief pro forma project update.\nNot much new functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most big parts of the search engine are in place, and while there are many things that could be better, we\u2019re less likely to straight up see massive new features, at least in the immediate future. Per familiar intuition from binary searches, the closer you get to your goal the smaller and more deliberate steps you need to take in order to get even closer.",
-      "favicon": "https://www.marginalia.nu/favicon.ico",
-      "site_name": "marginalia.nu"
-    },
-    {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "hn_url": "https://news.ycombinator.com/item?id=50653477",
       "author": "ritzaco",
-      "points": 122,
-      "num_comments": 141,
+      "points": 260,
+      "num_comments": 220,
       "created_at": "2026-11-26T09:44:23Z",
       "object_id": "50653477",
       "image": "https://techstackups.com/img/articles/google-workspace-agent-api/cover.jpg",
@@ -75,18 +75,18 @@
       "site_name": "techstackups.com"
     },
     {
-      "title": "Declare is a UI language for you and your AI",
-      "url": "https://davidtemkin.github.io/declarelang/",
-      "hn_url": "https://news.ycombinator.com/item?id=50622854",
-      "author": "ilamont",
-      "points": 120,
-      "num_comments": 96,
-      "created_at": "2026-11-24T02:36:56Z",
-      "object_id": "50622854",
-      "image": "https://davidtemkin.github.io/declarelang/assets/og-image.png",
-      "description": "Designed from the ground up for interfaces that act and move like the best native apps, in a few hundred lines your AI can write and its compiler can check.",
-      "favicon": "https://davidtemkin.github.io/declarelang/assets/apple-touch-icon.png",
-      "site_name": "Declare"
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "hn_url": "https://news.ycombinator.com/item?id=50638220",
+      "author": "Curiositry",
+      "points": 223,
+      "num_comments": 85,
+      "created_at": "2026-11-25T03:47:42Z",
+      "object_id": "50638220",
+      "image": null,
+      "description": "Title possibly signs checks the article doesn\u2019t have backing for. This is just a brief pro forma project update.\nNot much new functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most big parts of the search engine are in place, and while there are many things that could be better, we\u2019re less likely to straight up see massive new features, at least in the immediate future. Per familiar intuition from binary searches, the closer you get to your goal the smaller and more deliberate steps you need to take in order to get even closer.",
+      "favicon": "https://www.marginalia.nu/favicon.ico",
+      "site_name": "marginalia.nu"
     },
     {
       "title": "Working with AI",
@@ -122,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=50644909",
       "author": "nephihaha",
       "points": 55,
-      "num_comments": 13,
+      "num_comments": 14,
       "created_at": "2026-11-25T17:27:05Z",
       "object_id": "50644909",
       "image": "https://i.guim.co.uk/img/media/c63cd1b6d68275d8461c1bc612aa99fff6a89fc6/344_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e3c98370ea0441e4255f17e16b95c54",
@@ -145,7 +145,7 @@
       "site_name": "nomagicpill.substack.com"
     }
   ],
-  "total_hits": 588,
+  "total_hits": 556,
   "has_metadata": true,
-  "fetched_at": "2026-11-26T20:23:43.187485+00:00"
+  "fetched_at": "2026-11-27T03:04:49.506802+00:00"
 }

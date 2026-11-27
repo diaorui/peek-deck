@@ -129,9 +129,23 @@
       "description": "Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.",
       "favicon": "https://usenunya.com/assets/nunya-icon-180.png",
       "site_name": "usenunya.com"
+    },
+    {
+      "title": "Buster the hamster home safe after hitching ride in Halloween pumpkin",
+      "url": "https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959",
+      "hn_url": "https://news.ycombinator.com/item?id=50660542",
+      "author": "madihaa",
+      "points": 5,
+      "num_comments": 0,
+      "created_at": "2026-11-26T22:30:06Z",
+      "object_id": "50660542",
+      "image": "https://i.cbc.ca/ais/71842113-5276-4f71-b45f-9614d71a77ce,1795634942425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C306%2C684%2C384%29%3BResize%3D620",
+      "description": "An adventurous hamster named Buster is back home in Arnprior, Ont., three weeks after hitching a ride inside a discarded Halloween pumpkin and ending up on a farm about 20 kilometres away.",
+      "favicon": "https://www.cbc.ca/a/apple-touch-icon.png",
+      "site_name": "CBC"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-26T20:23:44.038991+00:00"
+  "fetched_at": "2026-11-27T03:04:52.390570+00:00"
 }

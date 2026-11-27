@@ -45,16 +45,6 @@
       "description": "Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked."
     },
     {
-      "headline": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3ZjR2lMSmpZNjN1eXFyUWJRZHBleHZRWUQ5MEcxSzEzM0wwZmNGMm1lMjU2VEpFbUpkNENQVUdCMGNMY0hXcjFXZnBEWWlWTXltU2Q2REJmdWRBeXNVdldZMDBsc293aXRYSUJaQ3NWR29NYk9rUmlOcjJwRndSMzNpQkRWQzdLWElDa3p3?oc=5",
-      "pub_date": 1795552562.0,
-      "article_url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png",
-      "description": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats."
-    },
-    {
       "headline": "Ethlabs backs Ethereum\u2019s Glamsterdam upgrade unchanged amid gas concerns",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -65,14 +55,24 @@
       "description": "Ethlabs urges Ethereum to ship Glamsterdam as is, warning EIP-8037 changes would delay the upgrade by months and cut planned gas capacity."
     },
     {
-      "headline": "Current price of Ethereum for November 25, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMFpySzBUbDZUVTZJaV9lMlhKMUFBNVN0LTBGNEVpZ3ZTSUJhQnNNQjNyRmc0bkVFR08zMW8yd2l1QWJKcW9Yc1F3djhEb29iY1ZHdFR2X0VjQ2ROSlZjSmZ4SF9Cdl8x?oc=5",
-      "pub_date": 1795633351.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-11-25-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-25.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3ZjR2lMSmpZNjN1eXFyUWJRZHBleHZRWUQ5MEcxSzEzM0wwZmNGMm1lMjU2VEpFbUpkNENQVUdCMGNMY0hXcjFXZnBEWWlWTXltU2Q2REJmdWRBeXNVdldZMDBsc293aXRYSUJaQ3NWR29NYk9rUmlOcjJwRndSMzNpQkRWQzdLWElDa3p3?oc=5",
+      "pub_date": 1795552562.0,
+      "article_url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png",
+      "description": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats."
+    },
+    {
+      "headline": "Ethereum ETF Feels the Chill as $8.7 Million Exits Grayscale\u2019s Mini Trust",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTJiX3hYSlg0YnhiQzJWdE1kRXBDeU84Q0UtNjdSeXNaZmRSdE1BSW8wVUxIMWE3czFhcnFtVWNsQ244amxZS2xaeUhCMDlZTWliNVBQMDFJdlFoSm94MzdhUGtWdjMwa3FXbWFGWVowV3ZEajU3OUdJWklWQksxdk5zNlAxTTQ4Nk9wU3owV2xyQWhiZl8tY04yMC1ieWZrQ2dNSzNMS1daU04yUE9kamZpdFNDQjhMcnc?oc=5",
+      "pub_date": 1795687460.0,
+      "article_url": "https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-feels-the-chill-as-8-7-million-exits-grayscales-mini-trust",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Lido tightens Ethereum staking penalties as operators gain access to larger validators",
@@ -85,26 +85,26 @@
       "description": "Lido voters approved broader penalties to recover missed Ethereum staking rewards and other losses from operators\u2019 collateral."
     },
     {
-      "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENDazYzcl9MR1ZMYklmOXNqRGdnN2ozVHhuVUZnTkg5RmR1YXRUc0xJNUlSSzJYNUstaUFYUnZlQ1lkYkRPenJKakR6X0RDaFFnLVdJMTdzc3dsV2NFNFZqZDdVU09xZVpoUTdfZlRTSXhObDZZZmh1cVA0bUdadkpJZ3JndkR1MU9PMjRZYWh0VHN4bEdVZFgtVXc2Q0RoQVVFMUFuX2RkbDlLcmRFdFJLLXVYcXhkS3NDZERUc3dYMTVBb2k4TWNn?oc=5",
-      "pub_date": 1795438173.0,
-      "article_url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+      "headline": "Bitcoin, XRP, Ethereum face brutal crash risk as key levels crack",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa19SeWZ3Z3JuaVFJaElZMVZCNVRseHhrNWFDTllCRVRYaXE0eDg5cU1ZVW1UNWlfTkFsZTNZT1NyMllLSUJkTE5tMlY4ZWtLSFlzbnBIcjZTUHNmZFdwWnFpMVJ6R2RqbUp0eF9XZWdkbjdVZHdia2hZSXc3NjFSWEhpZUM0OVBHVEtURy05bE9KMl8zalR1T2tqOXBoa3Q2Rnp2YjIwSQ?oc=5",
+      "pub_date": 1795716000.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/bitcoin-xrp-ethereum-face-brutal-crash-risk-as-key-levels-crack",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trader who nailed 2018 Bitcoin crash now sounds Ethereum alarm",
-      "source": "www.thestreet.com",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWkZTdEkxRGY2TlU4ZEJRUjViRUI2WFZXeXRFY2dMeFRjQWpzTDhqTnRkbEY1MDNrcEdqR3JqVTA4RzExa0RFLXhkVmRRMjgwLTlKa1BES3oza0J4enQ3bzdBSzNoY3JzOF9sc1ZWMWtLRWdBMjdjMmF0RS11SF9lVmY1QW1HRWx4cDE0d3FRRUViSFdUNkFkTDEzR2dBM2JIcUs2ZHV3?oc=5",
-      "pub_date": 1795651200.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/trader-who-nailed-2018-bitcoin-crash-now-sounds-ethereum-alarm",
-      "image": null,
-      "description": null
+      "headline": "Crypto ETFs Lose $521.5M as BlackRock IBIT Sheds $329.7M",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUY2dnBXeEZfTF9xemkxM05lVlMwSXhDYjhsT1NGRXFhSTV6NmxoTUotWTFydHR3dGZyYXlVQVBiTl9JZzcyazhTWlhOdjJqbDh1cy02Z185YWFwemNySlNwX095UlFKMmtxT0Q5QUhEaVE3Q3NFdTNoY1BVcEJvR19zYkppV3pJaGh6TFc1YzBhc18xSnRfY0tNV2s5WU54WWVVb0ZyNTRQUQ?oc=5",
+      "pub_date": 1795685881.0,
+      "article_url": "https://financefeeds.com/us-crypto-etfs-lose-521-5-million-as-bitcoin-and-ethereum-withdrawals-accelerate/",
+      "image": "https://financefeeds.com/wp-content/uploads/2026/10/Bitcoin-ETFs-Streak-Four-Inflow-Days-Into-the-Binance-Hack.jpg",
+      "description": "US spot Bitcoin ETFs saw $453M in net outflows on Nov 25 and Ethereum funds $68.5M, with BlackRock's IBIT and ETHA behind most of the $521.5M exit."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-26T20:24:07.725100+00:00"
+  "fetched_at": "2026-11-27T03:05:15.762875+00:00"
 }

@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "JPMorgan says bitcoin 'capitulation' signaled by Strategy's record-low NAV multiple",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9YcXVlMHB3anNpdko5ejdnNWdHTGZZRm54MGxDbnFORUY5dEVobDZKMUdnZUhiaURNRnl0SElmc2wzbU9aR2sxNlM3YUJobDBxWU5ZRngtNjBSenR0NVEwS0dNSDJIWHhfd2xnaUlOXzgxb3dNU2NLbEVyTmEyR29EM0I2Z0ZZY002VEFVcmQ0VVEzcXlJdEJrNmd6QkZIZ2EwZEZnN2NCcnpLVkpj?oc=5",
+      "pub_date": 1795709880.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1395728828.jpg",
+      "description": "JPMorgan said Strategy's NAV multiple has fallen to around 0.88x, below the previous low seen in late June."
+    },
+    {
       "headline": "It\u2019s \u2018Coming\u2019\u2014Massive AI Crash Predicted To Trigger $25 Trillion Bitcoin Price Boom",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -15,62 +25,22 @@
       "description": null
     },
     {
-      "headline": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONk8zWlpmWUpHcDZ4MEU0dHJsMHRRZUJzTms2QnRhMU0yemQxRUpnUk9kZldNOUdFNmZHcTNTT3NGeHFBQkRJVkdLV2tOVVkzaXFUNkU5ZUJFTGhjUmtlTFNWSnhtWVpoQXo4R2hoR09NOWI1MTZHSVdzSERaUUQxR3dxWkprY1RiWUdMbnpXQzdVbWNMRWpmXzRmcS1MY29RSV9qYkxsM1BkYUNGOXpRcFNCVVVYT3k2c1JIRUlYbHB5eEtxN0hhMTc0WXFDdFdI?oc=5",
-      "pub_date": 1795558200.0,
-      "article_url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1371159075-scaled.jpg",
-      "description": "CleanSpark ended its fiscal year with $1.1 billion in bitcoin as it presses forward with AI data center development."
-    },
-    {
-      "headline": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "headline": "Is Bitcoin a \u201cSuper Cockroach\u201d?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3lXN3V1ZDlVako3SUpucHB5ZUlCTWFYUmpxdG9kMTdmb2J3RUZnUGVDSWpuMGxfRGhibTJtclFNMmdfNVhyWFp1S2RBbWY0VjVPaVNnX3ZwbzcxbWxmVExPUHB5Rjk1ZU9nU3ppVEF4cFZnazRJV2hTRTZwbmRnZndXbXJsV2ROd041aXlZMXd5TlRTZDMxQUFB?oc=5",
-      "pub_date": 1795716929.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-60k-death-181529981.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/111e114c673c09d1880b1bf159895d23aa6f018b8a1b21760edd5bc0c7aae867/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F5ee7c1c3c9c0ad4d3a4d940edd5b0165.jpg_up.jpg",
-      "description": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks."
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YQ3NMcTFlU2FLQ0FndkZmU2gwSV9rQVhYb0Z3bFlXS0tRWTE4dVNJZVg2aFQzTmZNaUVyMExTbGhSdXdQRl84UFYtSWxxUGFlamZ2QVp0dFRMZDZaQkNMeTVLam9SNWtSRWZNMDNtcEloa3hSZFlFNFdR?oc=5",
+      "pub_date": 1795739700.0,
+      "article_url": "https://finance.yahoo.com/video/bitcoin-super-cockroach-003548663.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cae9bb58b01a805309080c967e5bf1a0be492eedd528e29903ba853f65e12ea8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fjit%2F6415665815001%2F18c6746c-3da1-41d1-acfc-c16927de4785%2Fmain%2F1280x720%2F18s53ms%2Fmatch%2Fimage.jpg",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life."
     },
     {
-      "headline": "Why Strategy Can Rebound to $175 in 2027 Even If Bitcoin Stays Below Peak",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0ZLbzBnVHVLaWpCMTZsOW9MSmVNejJaM2tpc09FTXZVVE9tSUMzSDBFZE0xVWhOaHJkclc4bTRmMUlEdHNPTEtKakZPYV85WHpkU0x0ZTlGNTNvNEhOWFlkOG5hWV9RS212WGl2amxXZXNadUV5T1daclIzNHc3c0tQd285NERxY1pmald3YmxaNV9jRWI5SHN3?oc=5",
-      "pub_date": 1795715154.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-rebound-175-2027-174554314.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5045d6b0aa7906167bedb6cf9afb474adcfa690c1c4f275f29186b3c094877b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fa3c8a50bf67051b339b825131a5cc228",
-      "description": "Strategy Inc. holds roughly 4% of all Bitcoin that will ever exist, yet its stock has fallen harder than the coin itself. Three levers, a hidden premium, and heavy dilution decide whether a rebound can happen without a new Bitcoin record."
-    },
-    {
-      "headline": "Bitcoin Miners Hammered Again as Price Rout Squeezes Margins",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmk3azVqYnFjM2hqMV95SkptWkNCWGpIaTQ1dmpvM3lXNFlxV3BYZ2VNdHEtanVEVmhvemZjbXJadllhd0txR0RPdk9pQmdNbzBJcWhXekJ0dDRHTXZ4c1c5LUE1U00welAxNU5GbDJSQ1RLYUFoaTVEYllUSU5vc29kTzZ1dldlWHhIVzVzamEwRk5lMXpYbjNpdHBEWWpDdVF4NDZpRmk2RC1LOUZVNA?oc=5",
-      "pub_date": 1795636135.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "BTC Looks Directionless After 7 Weeks of Losses",
-      "source": "Galaxy",
-      "source_url": "https://www.galaxy.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWpZVjhjYWFucFdnOVRqa3U1QVdnay1XZ3RVR0JDclRWMWNpUU1UOGdrMUhiVUFIS0ZjeExsYUNJSDA1MjNMODNDNFNDREhVMUF6UTFwLUxBVTB2N0h6aFc5b3EzeFZQSUdTWG02WFNxRWR0cGR3QmJiS0hXVEFraWp0VkQzb1lTV0syR0NadlExRVFpQjFyZHlWN3BqazIyTEMwZmV5U2piN3RSZFlv?oc=5",
-      "pub_date": 1795612206.0,
-      "article_url": "https://www.galaxy.com/insights/research/bitcoin-bear-market-7-weekly-losses-50-week-moving-average-break-2026",
-      "image": "https://images.ctfassets.net/h62aj7eo1csj/6G3Oeawe664NJH3nD3juV7/bfcc63f548c2ebe4b7ce96744db64124/CubFinal_Thumbnail_2400x1350.jpg?w=1200&h=675&fit=fill&q=60&fm=jpg&fl=progressive",
-      "description": "In October we argued bitcoin's bear market ended in June. BTC has since lost its 50-week average and traded below the June low, an outcome that had never followed a  comparable reclaim of the average. We withdraw our call and set out what may come next."
-    },
-    {
-      "headline": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+      "headline": "Bitcoin (BTC) supply dormant for at least a year rises to 68.5%",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaDBVUUgxQjlSVjEyWmxPcFctNmluc0FSUmVfVk5SZS1NUnp3OEFpMzJ4WG1YaGJuSjlMUmVNR0lPSlZqWTNSNndPVmQydVd3S19CZjZ0SDVldXlmZzRHOUJZc3h1SF9nTF9JdUdTOGlfWWhieEZpR2pQakZVcElZbm9WdURrVkw3Z093NHNuVmlBVjBBbFFsU1hIU1NLaUZFWldYdmVvZ0t3V1N0OC1xajBHakp0bl9naTR4dHEtaXBHMTJROWFmT0hTc1p1VklZa3hXVmRFSjA5MmlY?oc=5",
-      "pub_date": 1795668360.0,
-      "article_url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEYwdXdRc3ctQTZhdzRVamdhcU5YMlpLYWZueW5hMjI4SmFqSEFjSHYzV25xZk00TG1BUlJ2M08teHNPM0RhMUdVTjg3eU5tZVFhNnpBYmY4QlNXcS1YV3Nldmk0TjZmMTRYWTFISXVvNjdOOWNvcXNFVkJFZ1JXR1dBMU50WTE4T1VLcTVxOEFSU2JDakpjMGdpTDUxRms4REVsTFE5MjhDRHRIRXVsTUN6SjRVYXlEZ0QwcTQ0WUQwVW9HRXlRV0RDc0dTWHNP?oc=5",
+      "pub_date": 1795711823.0,
+      "article_url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
       "image": null,
       "description": null
     },
@@ -85,6 +55,16 @@
       "description": "Bitwise just raised its 10-year Bitcoin forecast from $1."
     },
     {
+      "headline": "BTC Looks Directionless After 7 Weeks of Losses",
+      "source": "Galaxy",
+      "source_url": "https://www.galaxy.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWpZVjhjYWFucFdnOVRqa3U1QVdnay1XZ3RVR0JDclRWMWNpUU1UOGdrMUhiVUFIS0ZjeExsYUNJSDA1MjNMODNDNFNDREhVMUF6UTFwLUxBVTB2N0h6aFc5b3EzeFZQSUdTWG02WFNxRWR0cGR3QmJiS0hXVEFraWp0VkQzb1lTV0syR0NadlExRVFpQjFyZHlWN3BqazIyTEMwZmV5U2piN3RSZFlv?oc=5",
+      "pub_date": 1795612206.0,
+      "article_url": "https://www.galaxy.com/insights/research/bitcoin-bear-market-7-weekly-losses-50-week-moving-average-break-2026",
+      "image": "https://images.ctfassets.net/h62aj7eo1csj/6G3Oeawe664NJH3nD3juV7/bfcc63f548c2ebe4b7ce96744db64124/CubFinal_Thumbnail_2400x1350.jpg?w=1200&h=675&fit=fill&q=60&fm=jpg&fl=progressive",
+      "description": "In October we argued bitcoin's bear market ended in June. BTC has since lost its 50-week average and traded below the June low, an outcome that had never followed a  comparable reclaim of the average. We withdraw our call and set out what may come next."
+    },
+    {
       "headline": "Braiins Warns Attacker Hijacked 1.9 EH/s of Bitcoin Hashrate",
       "source": "Bitbo",
       "source_url": "https://bitbo.io",
@@ -95,16 +75,36 @@
       "description": "Braiins said an attacker rerouted internet traffic to steal hashrate from more than 1,000 bitcoin mining sites using unencrypted Stratum V1 connections."
     },
     {
-      "headline": "Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMTE1Zzh0cHZjMjR6YlBJSHJ0U0tPa0xKSWVtdWNCSHVsblNKU3RhTFgzQy1hVjBFNkxySTdiaE9GMThZdm1aemVXNjBTU3V1cWxMamlRMTFhenlxN05wd25xZHUzSjN4ZU9Femxfd3BXNkVyLXBZS0xJVW9aNjU5TDBRUWRvVUVYeGt5cWZFVzBWZnR0N2VoekVqQXFYQWxKQzUwN3lnRGhlanpmODdFcURDcmt0Q1ctajdWWUwxV2xrcWdqczlhVUJGdWp0MWt6R293R1lxLWwzdGRIQzBRNmRwUXFnazhFYm5jNlpDQQ?oc=5",
-      "pub_date": 1795644379.0,
-      "article_url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/crypto-market-today-nov-25-bitcoin-ethereum-and-solana-as-short-liquidations-fuel-fragile-rebound/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc1c1b171578713f3619bde9579b57b1944f4086e-2236x1341.jpg&w=1200&op=resize",
-      "description": "Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last."
+      "headline": "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcU5tcGVVeDkteWdHQldVV3JwUF9ZVWlUNVBYRER2NlNHVHlLYkJoX1BfdFVqSVREV2tpMG9nMW44VnV5SS1mcS1zbXQ2UUtVdW5nQk05bDNZOTBUbU44eklRYUZlYVNjSkZFcmNjMEdmTElDdFllU2QwSzVFLWlRYVZTYXV6U0tpQ01LTi1nMjZ5QTA?oc=5",
+      "pub_date": 1795710503.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-60-000-risk-162823539.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8bc82829a4cb6cd7e38844dfcf27670b2e3f9d0b9d75077206a714f8b205cb3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F917175c8b4c84df63381a50662b9a04b.jpg",
+      "description": "Bitcoin rose above the $60,000 mark on Thursday as risky assets tracked a rebound in tech equities, pushing crypto markets higher as they head into a period of thin holiday trading."
+    },
+    {
+      "headline": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWRUVGRzeGNIMXlEUUlvUTIwd01GSE41eXdfN3pPUFJ4Ym9fVWxYZHpyeC1kYlpZbkpBY3RsVkhHdEViWFFLVGtrYnVKN0t4dW1sR0l0N2M1bW53SkdVUFcyTHJZMEhJZFBzWWdlTVVSaHFvTXhkUmV0OVVSdWE0VFNOWFZJaWhzeDVuSEZBV1hiaHJyejlhRg?oc=5",
+      "pub_date": 1795719764.0,
+      "article_url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
+      "description": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks."
+    },
+    {
+      "headline": "Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uMjBqV2tHTngxdEtnVGl4TWNSX2d3NXBtU3dMdU9ZMjl5ZFg5UF9DVnJxTkpRNmxfb25temlQNFY4cGNYZEJqTS1Rb09zenRzZEV3M0ZUZkE0MEFQMGI1WGYzSGtZYmQxT0hibkpTdndMdS1zeUlV?oc=5",
+      "pub_date": 1795618441.0,
+      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Falls-Below-72000-as-Nvidia-CEO-Jensen-Huang-Steps-Down-and-Strategy-MSTR-Slides.jpg",
+      "description": "The bitcoin price fell to near $57,500 as the Nasdaq sank 4% at the open on a tech selloff, hot core PCE inflation and new U.S. tariff proposals."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-26T20:24:02.586519+00:00"
+  "fetched_at": "2026-11-27T03:05:12.728565+00:00"
 }
