@@ -9,10 +9,20 @@
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5",
-      "pub_date": 1795709748.0,
+      "pub_date": 1795773111.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lTGV4dzdlZWk5ZWE2am5QZkwxS3VDNW9ROHVRZ3hXQnd0VXlPR3FTRlg5R2RILVRhbE9iZWt6OTluU1Z3ZEpMa2xabXktU3UzN3FMZWpIVnVwd1FwVWMzSmZWYVFlOENLbzNJbWphMW5PLXJJ0gF6QVVfeXFMT3A5UHI3V21UaUdSbFhxV0s1Y2RCWk84cmhSaHlES3ZuUFZNdHN6cTJZQXRtbUZmR3NlN0RYS3hRZnVmSUhzYk1xTTN1MmpCMFVQRkV0SzR0NkQxck9xWE51VnJNcUJla1JHNFVmdFdPazEwQ3dpRXAxWmc?oc=5",
+      "pub_date": 1795761390.0,
+      "article_url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108120789-1742904573651-gettyimages-159129388-72801932.jpeg?v=1758797166&w=1920&h=1080",
+      "description": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI."
     },
     {
       "headline": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
@@ -25,86 +35,76 @@
       "description": null
     },
     {
-      "headline": "SAP looks to cut another 10,000 jobs in new AI-driven restructuring",
-      "source": "CTech",
-      "source_url": "https://www.calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hY1RyX3gzcm81blBzbnY2M3YyOTNmd00zcmZKemdGN3dvU3g4UGZVbDR0U0l2aHJoOG5tX0xLMVFhcGk1cFAyNmRhc2dHd2JFWUZBX0VyRWxvQW9zdklVVXNyZHBiM0k?oc=5",
-      "pub_date": 1795718880.0,
-      "article_url": "https://www.calcalistech.com/ctechnews/article/al8iwkfjx",
-      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2020/01/01/958469/958469_0_0_1024_576_0_large.jpg",
-      "description": "The reported layoffs would mark a second major workforce overhaul in less than three years. SAP is seeking to reorganize product development and sales around AI while protecting its growth in cloud software."
-    },
-    {
-      "headline": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
-      "pub_date": 1795677540.0,
-      "article_url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI boom fuels demand for commercial and industrial space: JLL",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1d6TzRhT3Y1VXowcm1QLV93a2FzNWdEcnpHcXdlQjAtY0otZVB4cFVUa0VERWJGc2drSm4wNEZfLUs5ZThuSm5lV3gyUlctVHg4eS1TdTMtbzVJVE5TanJQeFo0MmM0WVF3Qy1SYUVlbUxYaUpmdnk2cF9IYVF0MWJBTnZ4ZF96WVJQM2FfaWszejk5dFNnVjJ6TEJVM21NSmc?oc=5",
-      "pub_date": 1795745176.0,
-      "article_url": "https://www.cnbc.com/video/2026/11/27/industrial-remains-the-worldas-top-performing-asset-class.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559733-17956597121795659709-49864403688-1080pnbcnews.jpg?v=1795659711&w=1920&h=1080",
-      "description": "JLL's Christian Ulbrich says commercial real estate demand is robust, with office leasing rising on steady GDP growth and AI companies among the strongest drivers. He says industrial space is also in strong demand, driven by data center buildout, but access to grid power is the main constraint on new data centers."
-    },
-    {
-      "headline": "The AI Boom Looks Alive and Well in Asia",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMzcxanlfNkJiU3dmTFRfQnJvQmZZb3dHYUpzWFdfZUs4SGNMN2x4TzJCYzRHYV9sN1JaMmw0SHptNzdQUWZsWUdzWldLTmZCZ0l2TUdUUXdoMFNDSVlLYUZNOUlnQUtYM3FJNWtRdHNWX19rbFI1YjA0NDZEQlJKLWNSUQ?oc=5",
-      "pub_date": 1795748400.0,
-      "article_url": "https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "New book warns leadership crisis grows as AI changes offices",
-      "source": "WBFF",
-      "source_url": "https://foxbaltimore.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWRmQTVjSlBaZmttNWVia3hWcXRYbE9Ga29hRE13MTlwQmlwOGpRcFp4ODAtTVMwdXdrZnRhNjVlZlFNMzgxNFViWUp2cVdTcXBVeHdETGhuX2pPWWJESlU2amxPR0JfcUN1WkZoME9COXVLVmtHTi1zQktWVTRCR2RyTHpxWWtmMnJHRWtBcktKWU5NRTZsX0FOUHg?oc=5",
-      "pub_date": 1795746286.0,
-      "article_url": "https://foxbaltimore.com/news/local/new-book-warns-leadership-crisis-grows-as-ai-changes-offices",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/1919/1320/0x1/90/51273b5c-4f9a-4f5a-a363-44e7d52abaac-0_29PTHANKSGIVINGHFR112626LEADERSHIPBOOK1126_.png",
-      "description": "Artificial intelligence is quickly changing how people work in all kinds of businesses, but two leadership experts, Christian Anschuetz and Luis Serpa, believe there's a bigger issue than just keeping up with technology."
-    },
-    {
-      "headline": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0x2cTY1eldxQW5lTHFueTItMEJDQXlWYXJSLWQzWVdKV3Y5UVNSd2dwMUNCcVNtTTZWLVBZSklFcm11X0JtczRyQzJzV0huclBsZzdKQWJTLUxlOEhxU0tlUndoTFlyWkxIVTF4bGxwM1FWbTBEWjlpTk9oZ1RIaGtmdXVUbjFG?oc=5",
-      "pub_date": 1795695655.0,
-      "article_url": "https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2158701295-20261126101911165.jpg?c=16x9&q=w_800,c_fill",
-      "description": "The technology is central to SpaceX\u2019s growth ambitions, though the company warned earlier this year that it relied on \u201cunproven\u201d technologies."
-    },
-    {
-      "headline": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
-      "pub_date": 1795666500.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Can Elon Musk really put AI datacentres in space? - The Latest",
+      "headline": "Pizza history: AI agent\u2019s cardless purchase is a first for UK",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTk5xVGhiS1JwU3E5a2ptd0hOY1BGdEJWQUdjWVhEZlh1UmZHNXpTNUhsYlFhOE80MHA2RmwtTmc5X1FwYzlkRnVyZEFLMC14SmtlOHcxTy1ib0c5UFowUDY2TEUtV0JGcGVGYzBucTg5amRpVjZfZ3V4OG0yTnE5S1JnbU5ZTFdzN1FJZHR3VDlCOHFydXFxQ2I1UlgtZTlRb3FVLTBSYVJ6NlNod0xn?oc=5",
-      "pub_date": 1795718100.0,
-      "article_url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
-      "image": "https://i.guim.co.uk/img/media/7da230064c1eaf9ac951b3f7766a1a4a840051b7/933_0_4663_3731/master/4663.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08d90a74bbddee9aea167a5ffa7fefc8",
-      "description": "The Trump administration has approved Elon Musk\u2019s plan to launch one million satellites into orbit to create datacentres in space. SpaceX argues the project could reduce the impact of datacentres on Earth as the AI industry grows. But how realistic is the plan and what could the consequences be? Michael Safi speaks to Guardian global technology editor Dan Milmo"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeG05enNvR29yXzZYN1FpcEZ3a0sxZFlvSTdieDA3cjE2Vm80TjJDcGVDdVRnYkp6RHN1a2N0N3ByaDRjb3ZoNHh0cUJHRHlKRTZRVVY4dVM3OGRWMjRjaUtSV1NwQ2h0UVZsNVBqZTlENV9xckpJLVdGbE1seVJadE8wR1lnZUxGUkd3RDhqeDBoX2FNY281cmJydmxPU0MtZFRNMzZGVmRIMTVHODh2OQ?oc=5",
+      "pub_date": 1795773300.0,
+      "article_url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "image": "https://i.guim.co.uk/img/media/bf6bce003fbe74cd0f36f89414dd7b2fb6f3888f/996_0_5020_4016/master/5020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e41aab7f165bd34c72c23b2fdf8e018",
+      "description": "Papa John\u2019s order was made without sharing bank security details \u2013 tech that could revolutionise shopping"
+    },
+    {
+      "headline": "FCC approves SpaceX orbital data center plans as AI leaders clash over free will",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSlF5Xy1qYWNXLThHYkJuQ1hVNDVFYy1MVUV5UDl4ZUIzbXdVYmxZc3d5dGkyaW1KRHZHc2V2bk4wSXNvS3lxck1oeWFZbzdYMC1OWDF2MEduWEk?oc=5",
+      "pub_date": 1795782725.0,
+      "article_url": "https://www.foxbusiness.com/video/6408948365112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/1964baa2-9303-43be-8b7d-53ca8c06b43e/60e26e0c-a8f9-4703-ade7-4383a65efa3d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "'Big Money in the Morning' talks with Claremont Institute American Military project director Will Thibeau about the FCC approving SpaceX orbital data center plans and the ongoing AI free will debate."
+    },
+    {
+      "headline": "Poland Signs $300 Million Palantir Deal to Use AI for Defense",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHNjNXhjcl81Z3N5aTFkZV9HcXgtcEZkclJXUXRoNE0tSFNEWjJ6TXFEVnFWWExOTDExUURUajlPUmxGN2dNeWlYVnBRcFVTSE0wYUxzWlg5S040alZSZ3dqOXlETDR0dG96VDljQndPWGNEXzUtS1Q2SHgzRklwbXEwN2dSQm9mY1NoYldyVWgxUTUyYlpfSno3YzN4T0RhWkFvR29yU1dsQjVUTWRrNw?oc=5",
+      "pub_date": 1795782604.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google and Los Angeles schools are in an AI standoff. Here's why.",
+      "source": "WFAA",
+      "source_url": "https://www.wfaa.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRzhSQmlPU2NLTUtzd3FkRGhpTENzSlkxek5MT3gxdWhTRlBvalhfMTVteEdmc1pYYzhZVmxwRm04YnZJNzktbFFXdXJVWWowNjFLYThkcFR5THpkM0FiWFRnenR2WmlmUGlaT2FGM1lJbV90VHZ1N1hKcEhNVkh2MVUyNXVjR3JfalJGSlJVazhWdnFENFJuUDhJd2laUHMtc1ZOeHAydUpkS0tJWHFXUkRnUFZGSmdVQ1A3U2Z1WHFPdG9H?oc=5",
+      "pub_date": 1795784130.0,
+      "article_url": null,
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "What Jensen Huang does next could shape the global race for AI dominance",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVId25KSXJqbHR2LXZBTmhILXQzU1RYQnFfSjVaWDE5ODROSGFLN295dHRlNEJUeHNIaUlxSzktR2hzZzVWcGVKaE5Kb2tObGFXUzlJb25BY1M3MXpoTjJtWTUzZnZMSVNPa2NNNS15UzcxOWppNFVWZU00WWdudDA5aXMzLXdoRVBTMzUtaXZVcVV3amlRcm5BSUVMUUxJZ2xBdGZxR3diNWhnT2MyVC16b1J0bDl5Rmc?oc=5",
+      "pub_date": 1795781700.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/11/27/what-jensen-huang-does-next-could-shape-global-race-ai-dominance/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVXKIE7XGSP2SJKIIF7Z3FN7RM_size-normalized.jpg&w=1440",
+      "description": "Nvidia\u2019s CEO is back in charge. But the company and the world it operates in has changed."
+    },
+    {
+      "headline": "Opinion | Jobs Are Too Messy for A.I. to Take Them All",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BeURqenNzVkNtMmhRMDVaQmJrY1l6UEM0eDU0V3FxdUtnc2ZBVVdkQm9TLWlaclQ2TjVkWThBdC1MYS1XVFMwVFo5c1ZIeThFcnFHV2h0RWdKUFZSNGg3d050b3dSUQ?oc=5",
+      "pub_date": 1795773654.0,
+      "article_url": "https://www.nytimes.com/2026/11/27/opinion/ai-jobs.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Global stocks rally on AI rebound after bruising month, while Treasuries dip",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDB1T1E2SVA0LVpuZFR6d2d5dWFobkEwdkN5aFVmZUZKN1pSVWExbEJzWlZhV0tKcklRQ09yZlFTZklkLTBNSGFwbHBfbHR2SWZoQTdXcWtFdEViWGdQamN2a0JjWjZ4M0Mydmlpc1lrQUdYaFBNVkFBdTQ4djVpbjZrRQ?oc=5",
+      "pub_date": 1795744860.0,
+      "article_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-27/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-27T03:05:17.697679+00:00"
+  "fetched_at": "2026-11-27T12:57:22.926809+00:00"
 }

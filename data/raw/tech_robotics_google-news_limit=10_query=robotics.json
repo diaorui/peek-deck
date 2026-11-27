@@ -5,32 +5,12 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "RoboTrack: Point tracking for real-world robotic manipulation | Ai2",
-      "source": "Allen Institute for Artificial Intelligence",
-      "source_url": "https://allenai.org",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fRzBMSHFUMkI1OHJGNjdfeThCTlBtdDVRWUZTYVVFSW1ZdXI3aldNVmxud0MtQmEwTTNLR0NWOHRjZ09IOXdwRXN3?oc=5",
-      "pub_date": 1795457007.0,
-      "article_url": "https://allenai.org/blog/robotrack",
-      "image": "https://www.datocms-assets.com/64837/1795407244-robotrack-blog-draft-google-docs-image-1.png",
-      "description": "RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks."
-    },
-    {
       "headline": "Robots will have a staggering economic impact",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXVGRjE5dERHSklyWnlwcGlXQzhHMHp4aUFrWlE2UFE2OTBrczh1WlE4b1pzRUdjVngyeTZEc3FYVXV3eVBsSF9VRW8yVG5rNm9QZlN6Zk44ZTFTMU1mV3hLaTR5WGszcGM4Q0YteTdWNWhuLTJSM1FSYUI2YVdlZGlJVmpJOWV3YVRteTZuZHhJUGZT?oc=5",
       "pub_date": 1795690173.0,
       "article_url": "https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Humanoid robots are coming\u2014sooner than you think",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVcwd25vNlVhVThFSlJUVHRacFpnZzgtbElYaExPOGt4cHA3SEFCWE9XcmZMVUJCWDNhNi0ycDdOWTV5ajU4N0J3akZzTGVqR3NDZmQyQ1h5UGptRnItcGxWOXdNQ3o2eHEzRzVBc2QxREdPV3Yxclc3Qkt0MXVEc1MyUk9GSzY2U25GSU0xcmhuZy1XWEx2Znpn?oc=5",
-      "pub_date": 1795690118.0,
-      "article_url": "https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think",
       "image": null,
       "description": null
     },
@@ -45,66 +25,86 @@
       "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday."
     },
     {
+      "headline": "I spent a day only using robot services. Here's how I'd rank them.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2V3aTFOZFRFM0RPbnE5MGJndGlaUml4NThOU09xMk11OVFiZXV1eGVwd3hBcWRPX2t3bTFJdnZfZy1CaXp4dXoxeHZDMWhVX3JpMmF3YmFHY0t3aXVlbWlTNWZtTm5NallDTTBjalpSRnJMU3VnVWxNeHluejlMZXRQWnVmOVMwVlgyNHRtcTJiTWhqRzEyag?oc=5",
+      "pub_date": 1795780800.0,
+      "article_url": "https://www.businessinsider.com/robot-services-ranking-list-costs-humanoids-robotaxis-2026-11",
+      "image": "https://i.insider.com/6b0715a473f126f9eccba818?width=1200&format=jpeg",
+      "description": "Business Insider's Lloyd Lee used every robot service he could find in San Francisco, from robotaxis to humanoid cleaning services."
+    },
+    {
+      "headline": "From Cassette Tapes to Humanoids: TDK Chases Demand for Sensors in Data Centers, Robots",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUx0VnQtMktySjRnREJFSjhwSjl0Mk9kNXVFQ1FqV1hwZmM5WUJwdmNITDZpaHU1WER2akJ3b1FWbVRtSnpqQTU0MGRpQWNYMTl0aW54YlpQdl9NcVEzR19Fc1cxLXlQamJ6VFBzNVY2Mnozd29JRDQwX1pna25XREFMa25YSHNyTHNVVjlBZk5IcUd3LUo4dnRRWlVIcXNnOEpONzc3dlBzdlBSTWZGcA?oc=5",
+      "pub_date": 1795726800.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Humble Robotics wants to reinvent trucking",
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1V0SHNpSVRDcmh6WFd0LVdtVTd4YWlqZEtVcTNfdVJwX2VTOTFXWlRjX0VVYU90cl82dWNjUVNaQUtOX1ExdXFzUmhabjF0bmN6blNkT3JMcGxGLTE4S1R5dVNtOW83S053UjIxQ1ByZXQxRzZqVFJJTVNXRWZ0UHo5NTFPSHlrdV9jM0NB?oc=5",
-      "pub_date": 1795709124.0,
+      "pub_date": 1795626306.0,
       "article_url": "https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports",
       "image": null,
       "description": null
     },
     {
-      "headline": "Meet Mirumi, the Furry, Robotic Bag Charm Flying Off Shelves",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wSnhaTVp4eVZEWk44bWNvT19FLVhxcGV5WWJuN0t1Nmo3R185ZUxnblBqcmZHYXAwVUFfOXQtMkdyQnFSUkZZek56MjB5N2E0MU9wVzU1UVNzMFpuNlpBa050YlpBbXlhMTd5Tk9zdHFHZ2tVb0w4?oc=5",
-      "pub_date": 1795514539.0,
-      "article_url": "https://www.nytimes.com/2026/11/24/style/mirumi-robot-bag-charm.html",
+      "headline": "Robotic exoskeleton helps boy, 7, take first steps",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa05DaEx2UnhGMjlRS1FsdVVtU2lYLW9Gcm1zQTVudFh2ZXZZbnFoYVQ3T3psNk40bnVBcmNRTlJLQ3U0dm1jWW5aVjlVTU91aFFtWHlPRDBzUzl4V0ZxS0tjRjFVVUp4YUhJbVFwRi14UXdsbnJ4dGxJYjNwRGlYY3Q0eW12MHBHaW9TeFFFUVkyWnJy?oc=5",
+      "pub_date": 1795781373.0,
+      "article_url": "https://www.yahoo.com/news/science/articles/robotic-exoskeleton-helps-boy-7-120933594.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2afcefaa447c37c214854d8bb7ecd3ab151101db722fdf2130cb2f6a8a4b3d94/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png_up.jpg",
+      "description": "Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says."
+    },
+    {
+      "headline": "Samsung Roadmap Reportedly Puts Unmanned Vehicles, Self-Driving Robots And Robotic Arms Inside Its Chip Fabs By 2028, Covering Equipment Maintenance And Production Line Work",
+      "source": "Wccftech",
+      "source_url": "https://wccftech.com",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxORUUxZDRyMlhvT2ZIZjJ0MmtDTFV4TzZTT1U4TGhreE80N1dfVndyODVGd0U3NDRhTEpoRUFBZkt0akVLWE1aSHFyUEgweFhiQjZKUDFaM3RXUDAzOUx1UUw1Mmt1MTVIX0g1Y0Z6SUlmdHZJem9hYzVvMmZBMk9iaTJHMzFwY1JPNTh0bEpETlFDa2N4RjJxWHV6Q2pNOXEzd3RmUDJ2NWEzRkpyRkxiSHBWbnVuMHJzSldEWDBIZzdrekhuMkxNNE00MkxwSGhvVUlHQ2pwTjJkNElBeHJVYjVvMDRLY2VfTk1nRXREVG4wNTdHY1lXNC1RRjM0ZlhINTkwOThBdU5JOWhqSnUycDdhYzRmSmhFekg1OC1n0gGjAkFVX3lxTE5BV29ObmRfWGxMODJtajNXRVIzQkQyclNZMlpsRkQzTFppejQ0QmE1XzA1UEtHMFpFcUt3ZzJxWDRCVHFMeW1iYTJaVnhsSXV6cko0cmxyOFpVdVhlZTFoNm1XS2wybTA3Q2RPaUVFM3pKVEJMUHkyeVlZV0ptRFEyWWlFSkN0ODJ6N2ZkMUZyRzBtampmWmd1TXpvWWZBZlB3aE1WNFZDVEVwSHZCTmkycDBVV1ROcFFWdW5meUdLUDFBb1Bqa1FzaVNnZmZfa2ctVEFyeDlUb2JxSzBqOFFQaHF5aDJGN2p3SEFrR0JkNEwwQno4dzRfVm00WlJWMFp4YmFJczFqS3RmUTFfSlUyM29uTFg2UEVpQXk4SFA2WngtMA?oc=5",
+      "pub_date": 1795716518.0,
+      "article_url": null,
       "image": null,
       "description": null
     },
     {
-      "headline": "Inside DARPA's Challenge Where Robots Searched for Disaster Victims",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pVTFwOHpqcEZGcUNTMW1KVEpTRVhzZDFDWkNiMG04enlwZ0lvTDc5d3lyblQtNEwtd21vdGIxc1BhbkxVcGNqTnMtWWsySndkS2xMcWpzb2RCN0tMSjRjVmdpTWp5VE1MMTJ0M3Jn?oc=5",
-      "pub_date": 1795619161.0,
-      "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
-      "image": "https://spectrum.ieee.org/media-library/a-helmeted-woman-calling-out-to-a-quadruped-robot-during-a-simulated-field-disaster.jpg?id=68752154&width=1200&height=600&coordinates=0%2C339%2C0%2C141",
-      "description": "The defense agency\u2019s latest grand challenge aimed to prove robots could save lives in emergencies"
+      "headline": "China debuts autonomous excavator robot with 540-degree 3D vision, centimeter precision",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGZFZ1ZjaDdTQlcyWDhrbnpkN2JmNTZaaEVTbW5BY0IyODQ5VENoX3B3aHh0UkEtUkhRRldmZnJhYWJrY0dWeUsxTW1UQ0xYSDhsenNtOVNqTjRqXzlhOWROdUlsS1FuNWVPYy1hUUNka2FqS2tpcDk0QUlYQ2ZKQkd2Snd6ZGVTcGh1OWJfWkkxUQ?oc=5",
+      "pub_date": 1795751400.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/china-autonomous-excavator-robot-zoomlion",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-37.jpg",
+      "description": "Zoomlion unveils an autonomous excavator that uses embodied intelligence to align pipes, automate loading, and perform construction tasks."
     },
     {
-      "headline": "SoftBank acquires Marc Raibert\u2019s Robotics and AI Institute",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFVpMkxPaEw4NVUzdTZmNHM3amdYLVRJc0tfcWdlSWpUR1hrczBVNTVXMC1PVWY1X2tQeWRHNldFOWxKN3NmajU1QTduMG1NOG45OVlncm44VnVuOWZhUlNZd08xclRoTFdkN1huSWtjN1lfb241Q0JXOXk2b2VKYkc2SFNxdHc4Si1rX3RrRU1mdnM?oc=5",
-      "pub_date": 1795532160.0,
-      "article_url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/softbank-acquires-rai.jpg",
-      "description": "SoftBank acquired the Robotics and AI Institute from Hyundai Motor Group, reuniting with Boston Dynamics founder Marc Raibert."
+      "headline": "DPVR Introduces EduRobo VR Kit for Classroom Robotics",
+      "source": "The Des Moines Register",
+      "source_url": "https://www.desmoinesregister.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZvRmFxMGE1bnRfNVpRSDZiLUotQlhPanNYcTM2TzBwZllXaXJaaG9teHFRa0Z5SHBTd1lZN1d2SXYwdTl6aHlrMnRKRHZpMU9OY3c0dGQ0RXp3anY3NEY2d1g2M0ZJVmQzUnc5bnB4emNNR0tnUW45aHZremE5cWxNVzl2clg0MVBrWVN4NnZuTWFjQndyNHhqVzh3UGFWUnh2M1RyajFDeGtIX2VYd0x2eWZQdw?oc=5",
+      "pub_date": 1795766763.0,
+      "article_url": "https://www.desmoinesregister.com/press-release/story/158655/dpvr-introduces-edurobo-vr-kit-for-classroom-robotics/",
+      "image": "https://pix.xpr.media/p/eyJzIjoiZjk4ZTU3NDUtMDJiYi00NWM2LTk4M2MtNzMzM2E2YjI2NTkyIiwiYyI6IjFjODFlN2M1LWNhNzgtNDI0ZS04YmYyLTI2MGI5MDY0MzAzOSIsInYiOjF9.HoTWTuUWHPavZQl8-EtQ73gSMGtXoZensd27RaJIojo.gif",
+      "description": "The single-arm kit connects E4 motion tracking with a real robotic arm, supporting teacher-designed lessons and"
     },
     {
-      "headline": "Eric Trump-backed robotics startup told all workers their health insurance is gone \u2014 \u2018extremely unfortunate\u2019 situation",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk1iQ1BCdE5PZkdEaTZnY21qRjlXNTc4TTQya2lXdmJ6c2lpa1Z5ZUNBTWNpT1VhbEtmTnZEUUVEMnZnT1Vpc1FHa3dPSERYck9zWXJPQ3pQRHRXTlBhNUNBQ3hDM3hBNmJsUHl2MVN2VnZyTmVfdHAtTHg3d3FTR0FpSGhEdVZnblFaTTVza0pUZlBxSUUxck1zbw?oc=5",
-      "pub_date": 1795471200.0,
-      "article_url": "https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1580707415cfa5c225861ca8a53101fec81d7ae378329b6d53a27e9515fa830c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F855c03300694cb48ac4a0abf4910d148.jpg",
-      "description": "This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025."
-    },
-    {
-      "headline": "The 9 absolute weirdest robots on planet Earth right now",
-      "source": "BBC Science Focus Magazine",
-      "source_url": "https://www.sciencefocus.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS1VYYk0xbFVTNmR4VUMtZWxEYVc3dzkyeERJZElYRmQ0NmNJejVEa0IwOWlDcVYtZUItWjdyMzdEMFFXUXJZbzM1OFJmdGxweHU0c3hyaDdDS1g4MGhGNTEzdGFyeHlGcnFMT0tMOGF2M3lrQVQ5M0pjR3hGTi1mdQ?oc=5",
-      "pub_date": 1795462200.0,
-      "article_url": "https://www.sciencefocus.com/future-technology/weirdest-robots-in-the-world",
-      "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/5ad1e5c4-c4cd-4f28-9c10-8e7f4ed077b2/thumbnails/b2504356-1c32-43f2-b372-8ec8fa1153c3.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
-      "description": "From underwater explorers to a demonic quadruped, our mechanical helpers are getting stranger"
+      "headline": "Bumblebee-Sized Robot Uses Its Own \"Brain\" to Fly, Opening the Door to Advanced Robotics",
+      "source": "Discover Magazine",
+      "source_url": "https://www.discovermagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX0ZmaWhOTzBrRVd1TUI0bm1sNzRjZjVnSGhSQ1ZveVYwa2pfSWU3SklVRXoyWWdRVnlxVDFfYWlIbzN1Z2kxRGsySXA1ekplaDhORWJCak5lSXRiajMxTG9pVUF2NV9kV3VkRDc3VTk4Zkg5Zk5EdHJXMDZiamxzWmJ6NjFGMmlzRFVpMmpUc1M0enV0SXJ4NFhCc2xrQWI5bUd0eGVIVkozX2lLU1hLV29sVVVEd0RNY2JDWHllbktyUQ?oc=5",
+      "pub_date": 1795709056.0,
+      "article_url": "https://www.discovermagazine.com/bumblebee-sized-robot-uses-its-own-brain-to-fly-opening-the-door-to-advanced-robotics-50003",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-27T03:05:14.030223+00:00"
+  "fetched_at": "2026-11-27T12:57:23.923439+00:00"
 }

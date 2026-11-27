@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-27T03:05:20.111674+00:00'
+updated: '2026-11-27T12:57:26.259545+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 27, 2026 at 03:05 UTC  
+**Last Updated:** November 27, 2026 at 12:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,689.03
+### $1,719.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +2.6%  
-**30d:** -23.3%  
-**90d:** -28.5%  
-**1y:** -43.0%  
+**24h:** +1.1%  
+**7d:** +2.2%  
+**30d:** -23.5%  
+**90d:** -28.7%  
+**1y:** -43.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $210.59B
+**Market Cap:** $210.04B
 Rank #2
 
-**Circulating Supply:** 122,253,672 ETH
+**Circulating Supply:** 122,256,647 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.2%
+-65.3%
 
 **All-Time Low:** $0.43
-+397822.3%
++396649.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10d ago
+11d ago
 
 ---
 
@@ -88,7 +88,7 @@ Does anybody know of any good decentralized email services?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11d ago
+12d ago
 
 ---
 
@@ -104,7 +104,7 @@ Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear tec
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12d ago
+13d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13d ago
+14d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew quick slots from Hegotá upgrade, Glamsterdam gas repricing findings due November 16
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 13d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 14d ago
 
 ---
 
@@ -128,7 +128,7 @@ Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-14d ago
+15d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi all, I’ve been using Ledger for years but lately I’ve started rethinking 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14d ago
+15d ago
 
 ---
 
@@ -160,6 +160,12 @@ ethereum.org • 2d ago
 
 ---
 
+**[Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know](https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know)**
+
+CoinDesk • 7h ago
+
+---
+
 **[Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-25-222619217.html)**
 
 Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last.
@@ -168,11 +174,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Climb Even as Core Inflation Stays Hot: Analyst Warns Investors to 'Prepare for the Worst'](https://www.tradingview.com/news/benzinga:16bcecbbb094b:0-bitcoin-ethereum-xrp-dogecoin-climb-even-as-core-inflation-stays-hot-analyst-warns-investors-to-prepare-for-the-worst/)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Steady on Thanksgiving: Top Analyst Says BTC Rebound to $100,000 Will Re](https://www.benzinga.com/crypto/cryptocurrency/26/11/63664704/bitcoin-ethereum-xrp-dogecoin-crypto-thanksgiving)**
 
-Leading cryptocurrencies gained on Wednesday as investors assessed core inflation readings and broader U.S. economic conditions.Crypto Market ReboundsBitcoin rebounded from an intraday low of $57,307.69 to climb above $60,000, while Ethereum also rose above $1,700Cryptocurrency-related stocks gaine…
-
-TradingView • 1d ago
+Benzinga • 10h ago
 
 ---
 
@@ -180,51 +184,41 @@ TradingView • 1d ago
 
 Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked.
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 1d ago
 
 ---
 
-**[Ethlabs backs Ethereum’s Glamsterdam upgrade unchanged amid gas concerns](https://cryptobriefing.com/ethlabs-backs-glamsterdam-upgrade-unchanged/)**
+**[Ethereum’s quantum defense plans could delay a major upgrade to stop transaction censorship](https://cryptoslate.com/ethereums-quantum-defense-plans-could-delay-a-major-upgrade-to-stop-transaction-censorship/)**
 
-Ethlabs urges Ethereum to ship Glamsterdam as is, warning EIP-8037 changes would delay the upgrade by months and cut planned gas capacity.
+Ethereum developers weigh how to deliver transaction censorship protections alongside work on quantum-resistant consensus.
 
-Crypto Briefing • 16h ago
+CryptoSlate • 6h ago
 
 ---
 
-**[Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing](https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing)**
+**[Ethereum’s Glamsterdam upgrade set for December 15 test on Hoodi](https://cryptobriefing.com/ethereum-glamsterdam-hoodi-testnet-december-15/)**
 
-The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats.
+Ethereum's Glamsterdam upgrade hits the Hoodi testnet on December 15, with mainnet possible in January 2027 and Hegota quantum debate underway.
 
-Decrypt • 2d ago
+Crypto Briefing • 8h ago
 
 ---
 
 **[Ethereum ETF Feels the Chill as $8.7 Million Exits Grayscale’s Mini Trust](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-feels-the-chill-as-8-7-million-exits-grayscales-mini-trust)**
 
-TipRanks • 17h ago
-
----
-
-**[Lido tightens Ethereum staking penalties as operators gain access to larger validators](https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/)**
-
-Lido voters approved broader penalties to recover missed Ethereum staking rewards and other losses from operators’ collateral.
-
-CryptoSlate • 1d ago
+TipRanks • 1d ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum face brutal crash risk as key levels crack](https://www.thestreet.com/crypto/markets/bitcoin-xrp-ethereum-face-brutal-crash-risk-as-key-levels-crack)**
 
-TheStreet • 9h ago
+TheStreet • 18h ago
 
 ---
 
-**[Crypto ETFs Lose $521.5M as BlackRock IBIT Sheds $329.7M](https://financefeeds.com/us-crypto-etfs-lose-521-5-million-as-bitcoin-and-ethereum-withdrawals-accelerate/)**
+**[Bitcoin ETF Outflows Hit $453M Before Thanksgiving Pause](https://financefeeds.com/us-crypto-etf-trading-pauses-for-thanksgiving-after-521-5-million-in-bitcoin-and-ethereum-outflows/)**
 
-US spot Bitcoin ETFs saw $453M in net outflows on Nov 25 and Ethereum funds $68.5M, with BlackRock's IBIT and ETHA behind most of the $521.5M exit.
-
-FinanceFeeds • 17h ago
+FinanceFeeds • 3h ago
 
 ---
 
@@ -232,13 +226,33 @@ FinanceFeeds • 17h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Finally Turns Green: Is the Bounce Starting?](https://www.youtube.com/watch?v=-EPk04pdOrM)**
+
+Ethereum is showing green candles and the plan is unchanged: a wave 2 bounce in three waves toward the resistance at $1937 ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 117 • 💬 12 • ⏱️ 6:38 • 8h ago
+
+---
+
 **[Wall Street KEEPS Building on Ethereum Despite the Crypto Crash](https://www.youtube.com/watch?v=o4znluIPtsA)**
 
 Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
 📺 Milk Road
 
-👁️ 14K • 👍 254 • 💬 101 • ⏱️ 38:29 • 1d ago
+👁️ 15K • 👍 269 • 💬 88 • ⏱️ 38:29 • 1d ago
+
+---
+
+**[SHORT SQUEEZE SIGNALS FOR ETH! (Ethereum Price Prediction)](https://www.youtube.com/watch?v=HCm13o4FUMw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 141 • 👍 7 • ⏱️ 5:04 • 3h ago
 
 ---
 
@@ -248,7 +262,7 @@ Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals
 
 📺 Coin Bureau
 
-👁️ 39K • 👍 535 • 💬 35 • ⏱️ 24:26 • 13h ago
+👁️ 47K • 👍 604 • 💬 29 • ⏱️ 24:26 • 22h ago
 
 ---
 
@@ -258,17 +272,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 93 • 💬 18 • ⏱️ 25:35 • 1d ago
-
----
-
-**[BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BPhrnH2sTWM)**
-
-BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum & Altcoins *NEW* YouTube ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 272 • 💬 178 • ⏱️ 18:25 • 21h ago
+👁️ 10K • 👍 97 • 💬 8 • ⏱️ 25:35 • 1d ago
 
 ---
 
@@ -278,7 +282,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 169 • 💬 26 • ⏱️ 25:12 • 10h ago
+👁️ 11K • 👍 186 • 💬 22 • ⏱️ 25:12 • 20h ago
 
 ---
 
@@ -288,47 +292,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 74K • 👍 798 • 💬 89 • ⏱️ 28:19 • 2d ago
+👁️ 75K • 👍 806 • 💬 89 • ⏱️ 28:19 • 2d ago
 
 ---
 
-**[&quot;If You Own ETH or BTC, You Have Just Weeks to Prepare for What&#39;s Coming&quot;: Tom Lee &amp; Lyn Alden](https://www.youtube.com/watch?v=4UoSV7gvCWM)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=eZ2HgKBfKcE)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 get 10% discount on ...
 
-📺 Crypto Nutshell
+📺 Profit First
 
-👁️ 23K • 👍 340 • 💬 15 • ⏱️ 21:42 • 2d ago
-
----
-
-**[Ethereum to $500?! The ONE Level That Decides It!!](https://www.youtube.com/watch?v=pEooBTKPges)**
-
-WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org/wx-v124 CoinGPT - the AI Trade Agent I ...
-
-📺 Marzell Crypto
-
-👁️ 801 • 👍 12 • 💬 1 • ⏱️ 2:59 • 1d ago
+👁️ 2K • 👍 81 • ⏱️ 6:11 • 9h ago
 
 ---
 
-**[BITCOIN WARNING: REJECTION CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=lEGKCzc8mXk)**
+**[Critical Warning From Santiment Regarding XRP, Bitcoin And Ethereum](https://www.youtube.com/watch?v=9gi_gAZwIuw)**
 
-BITCOIN WARNING: REJECTION CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Well everyone, its that time of the four year crypto cycle again, and I think that most people, similiar to the last 3 times this has ...
 
-📺 Crypto World
+📺 Money Rules - Investing Tips 
 
-👁️ 17K • 👍 301 • 💬 161 • ⏱️ 17:22 • 2d ago
+👁️ 41K • 👍 3K • 💬 410 • ⏱️ 17:03 • 2d ago
 
 ---
 
-**[U.S. Inflation Is Out: Bitcoin, Ethereum&#39;s Quantum Defense &amp; Sky&#39;s Emergency Credit | Crypto Talk](https://www.youtube.com/watch?v=3St2Op1qTpg)**
+**[XRP and Ethereum Are Getting Crushed Because of Bitcoin. Why?](https://www.youtube.com/watch?v=1OGPpEy8gqE)**
 
-U.S. inflation numbers are out. PCE core inflation came in at 3.8%, exactly as expected, while third-quarter growth was a strong ...
+Why is XRP crashing? Why is Ethereum crashing? Why is Solana crashing? In the Bitcoin crash from October 23 to November 23, ...
 
-📺 Swissquote (in English)
+📺 Dana Love, PhD
 
-👁️ 98 • 👍 2 • ⏱️ 7:01 • 11h ago
+👁️ 15K • 👍 290 • 💬 31 • ⏱️ 20:50 • 2d ago
 
 ---
 

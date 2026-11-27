@@ -13,10 +13,10 @@
       "arxiv_url": "https://arxiv.org/abs/2604.05018",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.05018.png",
       "upvotes": 19,
-      "num_comments": 0,
+      "num_comments": 2,
       "published_at": "2026-04-05T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/paper-orchestra",
-      "github_stars": 6502,
+      "github_stars": 6555,
       "project_page": "https://yiwen-song.github.io/paper_orchestra/"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 7,
       "published_at": "2026-06-21T20:00:00.000Z",
       "github_repo": "https://github.com/baidu/Unlimited-OCR",
-      "github_stars": 32845,
+      "github_stars": 32870,
       "project_page": null
     },
     {
@@ -54,27 +54,27 @@
       "num_comments": 4,
       "published_at": "2026-10-08T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/harness2",
-      "github_stars": 25320,
+      "github_stars": 25407,
       "project_page": "https://harness2.github.io/"
     },
     {
-      "id": "2611.26603",
-      "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
-      "authors": "Peiyun Hu, Marko Mihajlovic, Lyndon Duong et al. (8 authors)",
-      "organization_name": "apple",
-      "organization_fullname": "Apple",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1653390727490-5dd96eb166059660ed1ee413.jpeg",
-      "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that processes both images and video and predicts depth maps at native resolution. Depth Pro 2 produces depth maps that are metrically accurate, sharp, and temporally consistent all at once, outperforming prior work in all of these dimensions. We release a family of models that define a new Pareto frontier in terms of metric accuracy, sharpness, temporal consistency, and runtime. We release code and weights at https://apple-aiml-research.github.io/ml-depth-pro-2/",
-      "ai_summary": "A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.",
-      "hf_url": "https://huggingface.co/papers/2611.26603",
-      "arxiv_url": "https://arxiv.org/abs/2611.26603",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26603.png",
-      "upvotes": 41,
-      "num_comments": 3,
-      "published_at": "2026-11-18T19:00:00.000Z",
-      "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
-      "github_stars": 771,
-      "project_page": "https://apple-aiml-research.github.io/ml-depth-pro-2/"
+      "id": "2603.16790",
+      "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
+      "authors": "Jian Yang, Wei Zhang, Jiajun Wu et al. (28 authors)",
+      "organization_name": "Beihang",
+      "organization_fullname": "Beihang University",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63ba7666c138c8f2b7844b58/n98lZU9VWxYgWIkzE_6o4.jpeg",
+      "summary": "Recent code large language models have achieved remarkable progress on general programming tasks. Nevertheless, their performance degrades significantly in industrial scenarios that require reasoning about hardware semantics, specialized language constructs, and strict resource constraints. To address these challenges, we introduce InCoder-32B (Industrial-Coder-32B), the first 32B-parameter code foundation model unifying code intelligence across chip design, GPU kernel optimization, embedded systems, compiler optimization, and 3D modeling. By adopting an efficient architecture, we train InCoder-32B from scratch with general code pre-training, curated industrial code annealing, mid-training that progressively extends context from 8K to 128K tokens with synthetic industrial reasoning data, and post-training with execution-grounded verification. We conduct extensive evaluation on 14 mainstream general code benchmarks and 9 industrial benchmarks spanning 4 specialized domains. Results show InCoder-32B achieves highly competitive performance on general tasks while establishing strong open-source baselines across industrial domains.",
+      "ai_summary": "InCoder-32B is a 32-billion-parameter code model trained on industrial datasets with extended context length and execution verification to improve performance in hardware-aware programming tasks.",
+      "hf_url": "https://huggingface.co/papers/2603.16790",
+      "arxiv_url": "https://arxiv.org/abs/2603.16790",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2603.16790.png",
+      "upvotes": 169,
+      "num_comments": 6,
+      "published_at": "2026-03-17T13:01:35.000Z",
+      "github_repo": "https://github.com/CSJianYang/Industrial-Coder",
+      "github_stars": 721,
+      "project_page": "https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder"
     },
     {
       "id": "2412.20138",
@@ -92,7 +92,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 123844,
+      "github_stars": 123892,
       "project_page": null
     },
     {
@@ -115,6 +115,25 @@
       "project_page": null
     },
     {
+      "id": "2611.26603",
+      "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+      "authors": "Peiyun Hu, Marko Mihajlovic, Lyndon Duong et al. (8 authors)",
+      "organization_name": "apple",
+      "organization_fullname": "Apple",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1653390727490-5dd96eb166059660ed1ee413.jpeg",
+      "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that processes both images and video and predicts depth maps at native resolution. Depth Pro 2 produces depth maps that are metrically accurate, sharp, and temporally consistent all at once, outperforming prior work in all of these dimensions. We release a family of models that define a new Pareto frontier in terms of metric accuracy, sharpness, temporal consistency, and runtime. We release code and weights at https://apple-aiml-research.github.io/ml-depth-pro-2/",
+      "ai_summary": "A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.",
+      "hf_url": "https://huggingface.co/papers/2611.26603",
+      "arxiv_url": "https://arxiv.org/abs/2611.26603",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26603.png",
+      "upvotes": 41,
+      "num_comments": 3,
+      "published_at": "2026-11-18T19:00:00.000Z",
+      "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
+      "github_stars": 779,
+      "project_page": "https://apple-aiml-research.github.io/ml-depth-pro-2/"
+    },
+    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -130,7 +149,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 94398,
+      "github_stars": 94427,
       "project_page": null
     },
     {
@@ -145,11 +164,11 @@
       "hf_url": "https://huggingface.co/papers/2611.18397",
       "arxiv_url": "https://arxiv.org/abs/2611.18397",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.18397.png",
-      "upvotes": 166,
+      "upvotes": 168,
       "num_comments": 4,
       "published_at": "2026-11-12T19:00:00.000Z",
       "github_repo": "https://github.com/RainBowLuoCS/Gamer",
-      "github_stars": 1584,
+      "github_stars": 1603,
       "project_page": "https://mihoyo-gamer.github.io/"
     },
     {
@@ -168,30 +187,11 @@
       "num_comments": 10,
       "published_at": "2026-05-03T20:00:00.000Z",
       "github_repo": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "github_stars": 19950,
+      "github_stars": 19984,
       "project_page": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
-    },
-    {
-      "id": "2603.16790",
-      "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
-      "authors": "Jian Yang, Wei Zhang, Jiajun Wu et al. (28 authors)",
-      "organization_name": "Beihang",
-      "organization_fullname": "Beihang University",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63ba7666c138c8f2b7844b58/n98lZU9VWxYgWIkzE_6o4.jpeg",
-      "summary": "Recent code large language models have achieved remarkable progress on general programming tasks. Nevertheless, their performance degrades significantly in industrial scenarios that require reasoning about hardware semantics, specialized language constructs, and strict resource constraints. To address these challenges, we introduce InCoder-32B (Industrial-Coder-32B), the first 32B-parameter code foundation model unifying code intelligence across chip design, GPU kernel optimization, embedded systems, compiler optimization, and 3D modeling. By adopting an efficient architecture, we train InCoder-32B from scratch with general code pre-training, curated industrial code annealing, mid-training that progressively extends context from 8K to 128K tokens with synthetic industrial reasoning data, and post-training with execution-grounded verification. We conduct extensive evaluation on 14 mainstream general code benchmarks and 9 industrial benchmarks spanning 4 specialized domains. Results show InCoder-32B achieves highly competitive performance on general tasks while establishing strong open-source baselines across industrial domains.",
-      "ai_summary": "InCoder-32B is a 32-billion-parameter code model trained on industrial datasets with extended context length and execution verification to improve performance in hardware-aware programming tasks.",
-      "hf_url": "https://huggingface.co/papers/2603.16790",
-      "arxiv_url": "https://arxiv.org/abs/2603.16790",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2603.16790.png",
-      "upvotes": 169,
-      "num_comments": 6,
-      "published_at": "2026-03-17T13:01:35.000Z",
-      "github_repo": "https://github.com/CSJianYang/Industrial-Coder",
-      "github_stars": 621,
-      "project_page": "https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-11-27T03:04:59.142450+00:00"
+  "fetched_at": "2026-11-27T12:57:04.915719+00:00"
 }

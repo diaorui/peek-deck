@@ -33,20 +33,6 @@
       "site_name": "echo.ls"
     },
     {
-      "title": "Show HN: NostrPulse \u2013 Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
-      "url": "https://github.com/PHONGUIT22/nostrpulse-full",
-      "hn_url": "https://news.ycombinator.com/item?id=50572502",
-      "author": "hacphong",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-11-20T10:01:27Z",
-      "object_id": "50572502",
-      "image": "https://opengraph.githubassets.com/94b1f10e8a9ff4a2334e06d00a522d00e9d77423938cd426c305124110bd31b6/PHONGUIT22/nostrpulse-full",
-      "description": "Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Show HN: The all-in cost of buying $1k of Bitcoin in 58 countries, updated daily",
       "url": "https://www.cryptotruecost.com/en/bitcoin-cost-map/",
       "hn_url": "https://news.ycombinator.com/item?id=50635343",
@@ -131,12 +117,26 @@
       "site_name": "usenunya.com"
     },
     {
+      "title": "Gnomon: Git for Postgres Data",
+      "url": "https://gnomon.bitsinfra.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50611613",
+      "author": "lucasluitjes",
+      "points": 40,
+      "num_comments": 6,
+      "created_at": "2026-11-23T14:03:38Z",
+      "object_id": "50611613",
+      "image": null,
+      "description": "Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.",
+      "favicon": "https://gnomon.bitsinfra.com/gnomon.svg",
+      "site_name": "gnomon.bitsinfra.com"
+    },
+    {
       "title": "Buster the hamster home safe after hitching ride in Halloween pumpkin",
       "url": "https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959",
       "hn_url": "https://news.ycombinator.com/item?id=50660542",
       "author": "madihaa",
-      "points": 5,
-      "num_comments": 0,
+      "points": 6,
+      "num_comments": 1,
       "created_at": "2026-11-26T22:30:06Z",
       "object_id": "50660542",
       "image": "https://i.cbc.ca/ais/71842113-5276-4f71-b45f-9614d71a77ce,1795634942425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C306%2C684%2C384%29%3BResize%3D620",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-27T03:04:52.390570+00:00"
+  "fetched_at": "2026-11-27T12:56:55.958411+00:00"
 }
