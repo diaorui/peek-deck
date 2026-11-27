@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-27T03:05:20.114870+00:00'
+updated: '2026-11-27T12:57:26.262697+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 27, 2026 at 03:05 UTC  
+**Last Updated:** November 27, 2026 at 12:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-11d ago
+12d ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-11d ago
+12d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-11d ago
+12d ago
 
 ---
 
@@ -76,13 +76,13 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-11d ago
+12d ago
 
 ---
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-11d ago
+12d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-12d ago
+13d ago
 
 ---
 
@@ -110,23 +110,9 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[RoboTrack: Point tracking for real-world robotic manipulation | Ai2](https://allenai.org/blog/robotrack)**
-
-RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks.
-
-Allen Institute for Artificial Intelligence • 3d ago
-
----
-
 **[Robots will have a staggering economic impact](https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact)**
 
-The Economist • 16h ago
-
----
-
-**[Humanoid robots are coming—sooner than you think](https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think)**
-
-The Economist • 16h ago
+The Economist • 1d ago
 
 ---
 
@@ -134,51 +120,63 @@ The Economist • 16h ago
 
 Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.
 
-CNBC • 19h ago
+CNBC • 1d ago
+
+---
+
+**[I spent a day only using robot services. Here's how I'd rank them.](https://www.businessinsider.com/robot-services-ranking-list-costs-humanoids-robotaxis-2026-11)**
+
+Business Insider's Lloyd Lee used every robot service he could find in San Francisco, from robotaxis to humanoid cleaning services.
+
+Business Insider • 57m ago
+
+---
+
+**[From Cassette Tapes to Humanoids: TDK Chases Demand for Sensors in Data Centers, Robots](https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth)**
+
+Bloomberg.com • 15h ago
 
 ---
 
 **[Humble Robotics wants to reinvent trucking](https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports)**
 
-Axios • 10h ago
+Axios • 1d ago
 
 ---
 
-**[Meet Mirumi, the Furry, Robotic Bag Charm Flying Off Shelves](https://www.nytimes.com/2026/11/24/style/mirumi-robot-bag-charm.html)**
+**[Robotic exoskeleton helps boy, 7, take first steps](https://www.yahoo.com/news/science/articles/robotic-exoskeleton-helps-boy-7-120933594.html)**
 
-The New York Times • 2d ago
+Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says.
 
----
-
-**[Inside DARPA's Challenge Where Robots Searched for Disaster Victims](https://spectrum.ieee.org/darpa-triage-challenge-final-robots)**
-
-The defense agency’s latest grand challenge aimed to prove robots could save lives in emergencies
-
-IEEE Spectrum • 1d ago
+Yahoo • 47m ago
 
 ---
 
-**[SoftBank acquires Marc Raibert’s Robotics and AI Institute](https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/)**
+**[Samsung Roadmap Reportedly Puts Unmanned Vehicles, Self-Driving Robots And Robotic Arms Inside Its Chip Fabs By 2028, Covering Equipment Maintenance And Production Line Work](https://news.google.com/rss/articles/CBMingJBVV95cUxORUUxZDRyMlhvT2ZIZjJ0MmtDTFV4TzZTT1U4TGhreE80N1dfVndyODVGd0U3NDRhTEpoRUFBZkt0akVLWE1aSHFyUEgweFhiQjZKUDFaM3RXUDAzOUx1UUw1Mmt1MTVIX0g1Y0Z6SUlmdHZJem9hYzVvMmZBMk9iaTJHMzFwY1JPNTh0bEpETlFDa2N4RjJxWHV6Q2pNOXEzd3RmUDJ2NWEzRkpyRkxiSHBWbnVuMHJzSldEWDBIZzdrekhuMkxNNE00MkxwSGhvVUlHQ2pwTjJkNElBeHJVYjVvMDRLY2VfTk1nRXREVG4wNTdHY1lXNC1RRjM0ZlhINTkwOThBdU5JOWhqSnUycDdhYzRmSmhFekg1OC1n0gGjAkFVX3lxTE5BV29ObmRfWGxMODJtajNXRVIzQkQyclNZMlpsRkQzTFppejQ0QmE1XzA1UEtHMFpFcUt3ZzJxWDRCVHFMeW1iYTJaVnhsSXV6cko0cmxyOFpVdVhlZTFoNm1XS2wybTA3Q2RPaUVFM3pKVEJMUHkyeVlZV0ptRFEyWWlFSkN0ODJ6N2ZkMUZyRzBtampmWmd1TXpvWWZBZlB3aE1WNFZDVEVwSHZCTmkycDBVV1ROcFFWdW5meUdLUDFBb1Bqa1FzaVNnZmZfa2ctVEFyeDlUb2JxSzBqOFFQaHF5aDJGN2p3SEFrR0JkNEwwQno4dzRfVm00WlJWMFp4YmFJczFqS3RmUTFfSlUyM29uTFg2UEVpQXk4SFA2WngtMA?oc=5)**
 
-SoftBank acquired the Robotics and AI Institute from Hyundai Motor Group, reuniting with Boston Dynamics founder Marc Raibert.
-
-The Robot Report • 2d ago
+Wccftech • 18h ago
 
 ---
 
-**[Eric Trump-backed robotics startup told all workers their health insurance is gone — ‘extremely unfortunate’ situation](https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html)**
+**[China debuts autonomous excavator robot with 540-degree 3D vision, centimeter precision](https://interestingengineering.com/ai-robotics/china-autonomous-excavator-robot-zoomlion)**
 
-This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025.
+Zoomlion unveils an autonomous excavator that uses embodied intelligence to align pipes, automate loading, and perform construction tasks.
 
-Yahoo Finance • 3d ago
+Interesting Engineering • 9h ago
 
 ---
 
-**[The 9 absolute weirdest robots on planet Earth right now](https://www.sciencefocus.com/future-technology/weirdest-robots-in-the-world)**
+**[DPVR Introduces EduRobo VR Kit for Classroom Robotics](https://www.desmoinesregister.com/press-release/story/158655/dpvr-introduces-edurobo-vr-kit-for-classroom-robotics/)**
 
-From underwater explorers to a demonic quadruped, our mechanical helpers are getting stranger
+The single-arm kit connects E4 motion tracking with a real robotic arm, supporting teacher-designed lessons and
 
-BBC Science Focus Magazine • 3d ago
+The Des Moines Register • 4h ago
+
+---
+
+**[Bumblebee-Sized Robot Uses Its Own "Brain" to Fly, Opening the Door to Advanced Robotics](https://www.discovermagazine.com/bumblebee-sized-robot-uses-its-own-brain-to-fly-opening-the-door-to-advanced-robotics-50003)**
+
+Discover Magazine • 20h ago
 
 ---
 
@@ -192,35 +190,17 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Cleo Abram
 
-👁️ 2.4M • 👍 129K • 💬 1K • ⏱️ 1:05 • 6d ago
+👁️ 2.5M • 👍 131K • 💬 1K • ⏱️ 1:05 • 6d ago
 
 ---
 
-**[Meet Walker S3 — UBTECH’s new-generation humanoid robot.](https://www.youtube.com/watch?v=H_Wx7mvK_LM)**
+**[Putin Raises His Eyebrows As Humanoid Robots Put On A Spectacular Dance Show](https://www.youtube.com/watch?v=95TM0MbfP6g)**
 
-The world's first humanoid robot to rappel. Rappel. Sprint. Crawl. Vault. Move as one. Trained to take on new challenges, Walker ...
+Russian President Vladimir Putin witnesses a spectacular dance performance by AI-powered humanoid robots at the AI Journey ...
 
-📺 UBTECH Robotics
+📺 NDTV Profit
 
-👁️ 15K • 👍 245 • 💬 50 • ⏱️ 0:57 • 17h ago
-
----
-
-**[Tesla&#39;s New Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=2FZhl5oo27o)**
-
-Tesla's new Optimus robot upgrade is much bigger than the viral robot clips suggest. Hidden images inside Tesla's own Android ...
-
-📺 Tyrone
-
-👁️ 71K • 👍 427 • 💬 12 • ⏱️ 27:54 • 4d ago
-
----
-
-**[He Built a Secret Robot Inside His Weakest Fighter and Shocked Everyone!](https://www.youtube.com/watch?v=2zQX8tU2hU4)**
-
-📺 Lazy Kitten
-
-👁️ 67K • 👍 1K • 💬 39 • ⏱️ 2:14 • 1d ago
+👁️ 73K • 👍 339 • 💬 65 • ⏱️ 3:28 • 20h ago
 
 ---
 
@@ -230,47 +210,15 @@ Unboxing a 100k Robot from Agibot so it can do my job.
 
 📺 Insert Richie
 
-👁️ 858K • 👍 32K • 💬 548 • ⏱️ 2:04 • 3d ago
+👁️ 888K • 👍 33K • 💬 551 • ⏱️ 2:04 • 4d ago
 
 ---
 
-**[This British Robotic Snake Can Cut Through Steel With a Laser! 🤯🐍](https://www.youtube.com/watch?v=kfKrZybYQHU)**
+**[He Built a Secret Robot Inside His Weakest Fighter and Shocked Everyone!](https://www.youtube.com/watch?v=2zQX8tU2hU4)**
 
-Scientists developed an incredible snake-like robot that can navigate tight spaces and cut through thick steel using a powerful ...
+📺 Lazy Kitten
 
-📺 Techie Sapien
-
-👁️ 5K • 💬 2 • ⏱️ 0:07 • 1h ago
-
----
-
-**[This Chinese Humanoid Robot Is Dancing Better Than Humans! 🤯🤖](https://www.youtube.com/watch?v=UAUUU2gZ6fY)**
-
-A humanoid robot taking on human dancers! AiMOGA's full-sized robot performs synchronized dance and martial arts moves ...
-
-📺 Nexio Core
-
-👁️ 39K • 💬 3 • ⏱️ 0:06 • 3d ago
-
----
-
-**[My FIRST Programmable Humanoid Robot! | Noetix Boomy Full Test](https://www.youtube.com/watch?v=6cbdl5iDC1U)**
-
-I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot from @NoetixRobotics that walks on two legs and ...
-
-📺 Eric’s Tech World
-
-👁️ 26K • 👍 278 • 💬 42 • ⏱️ 13:13 • 4d ago
-
----
-
-**[3D-Printed Robot Muscles?! The Wild Rise of Bionic Bots #technology #futuretech #robotics](https://www.youtube.com/watch?v=QMSpwvOttIc)**
-
-Robots are ditching metal joints and growing muscles instead. The 3D-printed legs at the start are wild enough, but the second ...
-
-📺 Digital Species
-
-👁️ 26K • 👍 745 • 💬 40 • ⏱️ 1:23 • 4d ago
+👁️ 68K • 👍 1K • 💬 40 • ⏱️ 2:14 • 2d ago
 
 ---
 
@@ -280,7 +228,57 @@ A San Francisco lab is showing off Iris, a humanoid robot with a mood informed b
 
 📺 NBC News
 
-👁️ 42K • 👍 307 • 💬 116 • ⏱️ 3:53 • 2d ago
+👁️ 43K • 👍 315 • 💬 117 • ⏱️ 3:53 • 2d ago
+
+---
+
+**[3D-Printed Robot Muscles?! The Wild Rise of Bionic Bots #technology #futuretech #robotics](https://www.youtube.com/watch?v=QMSpwvOttIc)**
+
+Robots are ditching metal joints and growing muscles instead. The 3D-printed legs at the start are wild enough, but the second ...
+
+📺 Digital Species
+
+👁️ 27K • 👍 768 • 💬 40 • ⏱️ 1:23 • 4d ago
+
+---
+
+**[China Is Using Robots to Clean Polluted Waterways](https://www.youtube.com/watch?v=wofcMQNIlC0)**
+
+These tiny robotic boats are cleaning up China's dirtiest waterways, and the craziest part is, they don't even need a driver. Instead ...
+
+📺 Fact Drift
+
+👁️ 1K • ⏱️ 0:40 • 56m ago
+
+---
+
+**[China’s New AI Robot Army Is Terrifying...](https://www.youtube.com/watch?v=bOOf9boeiKE)**
+
+China just turned Shenzhen into a giant robot show during APEC week, and 151 humanoids set a Guinness World Record for the ...
+
+📺 MACHINEKIND
+
+👁️ 18K • 👍 257 • 💬 30 • ⏱️ 13:00 • 3d ago
+
+---
+
+**[My FIRST Programmable Humanoid Robot! | Noetix Boomy Full Test](https://www.youtube.com/watch?v=6cbdl5iDC1U)**
+
+I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot from @NoetixRobotics that walks on two legs and ...
+
+📺 Eric’s Tech World
+
+👁️ 27K • 👍 281 • 💬 43 • ⏱️ 13:13 • 4d ago
+
+---
+
+**[Elon Just Gave A Huge Optimus Update | It&#39;s Not Good News](https://www.youtube.com/watch?v=PcIUEgNQyXM)**
+
+Thanks to Albert for sponsoring this video. Genius is an AI-powered financial assistant. Genius can make mistakes. Albert Genius ...
+
+📺 Ryan Shaw
+
+👁️ 135K • 👍 2K • 💬 292 • ⏱️ 16:03 • 3d ago
 
 ---
 

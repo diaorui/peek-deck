@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-27T03:05:20.105691+00:00'
+updated: '2026-11-27T12:57:26.253548+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 27, 2026 at 03:05 UTC  
+**Last Updated:** November 27, 2026 at 12:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,395.07
+### $61,508.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +2.2%  
-**30d:** -21.1%  
+**24h:** +1.1%  
+**7d:** +2.3%  
+**30d:** -21.0%  
 **90d:** -20.8%  
 **1y:** -32.3%  
 
@@ -57,14 +57,14 @@ Live Bitcoin monitoring dashboard
 **Market Cap:** $1235.43B
 Rank #1
 
-**Circulating Supply:** 20,117,865 BTC
+**Circulating Supply:** 20,117,925 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
 -51.3%
 
 **All-Time Low:** $67.81
-+90460.4%
++90457.4%
 
 ---
 
@@ -117,7 +117,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 **[It's so over guys!!!](https://www.reddit.com/r/Bitcoin/comments/1xwnz3q/its_so_over_guys/)**
 
-11d ago
+12d ago
 
 ---
 
@@ -159,75 +159,69 @@ What is going on with Bitcoin today?
 
 JPMorgan said Strategy's NAV multiple has fallen to around 0.88x, below the previous low seen in late June.
 
-The Block • 10h ago
+The Block • 20h ago
 
 ---
 
-**[It’s ‘Coming’—Massive AI Crash Predicted To Trigger $25 Trillion Bitcoin Price Boom](https://www.forbes.com/sites/digital-assets/2026/11/25/its-coming-massive-ai-crash-predicted-to-trigger-25-trillion-bitcoin-price-boom/)**
+**[Bitcoin rises 2% as tech futures gain 3% and silver jumps 7%](https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound)**
 
-Forbes • 1d ago
-
----
-
-**[Is Bitcoin a “Super Cockroach”?](https://finance.yahoo.com/video/bitcoin-super-cockroach-003548663.html)**
-
-At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.
-
-Yahoo Finance • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin (BTC) supply dormant for at least a year rises to 68.5%](https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases)**
+**[BTC News: $7B Bitcoin Options Expiry Aftermath – What Happens Next?](https://finance.yahoo.com/markets/options/articles/btc-news-7b-bitcoin-options-105901149.html)**
 
-CoinDesk • 10h ago
+Bitcoin barely reacted after $7 billion in Deribit options expired; in contrast, BTC is now trading at $61,700 with a modest daily recovery following the news. The market had spent days bracing for the settlement, but the biggest derivatives event of the week came and went without a major price ...
 
----
-
-**[Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”](https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative)**
-
-Bitwise just raised its 10-year Bitcoin forecast from $1.
-
-Bitcoin Magazine • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[BTC Looks Directionless After 7 Weeks of Losses](https://www.galaxy.com/insights/research/bitcoin-bear-market-7-weekly-losses-50-week-moving-average-break-2026)**
+**[Crypto Stocks Gain After Bitcoin Tops $61K In Tech Rebound, But Analysts Want A Move Above $62K](https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-gain-bitcoin-tops-120337366.html)**
 
-In October we argued bitcoin's bear market ended in June. BTC has since lost its 50-week average and traded below the June low, an outcome that had never followed a  comparable reclaim of the average. We withdraw our call and set out what may come next.
+Hyperliquid led gains among the top 10 cryptocurrencies by market capitalization.
 
-Galaxy • 1d ago
-
----
-
-**[Braiins Warns Attacker Hijacked 1.9 EH/s of Bitcoin Hashrate](https://bitbo.io/news/braiins-hashrate-hijacking-warning/)**
-
-Braiins said an attacker rerouted internet traffic to steal hashrate from more than 1,000 bitcoin mining sites using unencrypted Stratum V1 connections.
-
-Bitbo • 22h ago
+Yahoo Finance • 53m ago
 
 ---
 
-**[Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-60-000-risk-162823539.html)**
+**[A tiny payment can expose the IP address behind a bitcoin wallet, developer finds](https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds)**
 
-Bitcoin rose above the $60,000 mark on Thursday as risky assets tracked a rebound in tech equities, pushing crypto markets higher as they head into a period of thin holiday trading.
-
-Yahoo Finance • 10h ago
+CoinDesk • 19h ago
 
 ---
 
-**[Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery](https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery)**
+**[Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor](https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor)**
 
-Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.
+Rep. Nick Begich's Strategic Bitcoin Reserve bill, with a 20-year ban on selling reserve bitcoin, cleared the House Financial Services Committee.
 
-Decrypt • 8h ago
+Bitcoin Magazine • 3d ago
 
 ---
 
-**[Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open](https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Steady on Thanksgiving: Top Analyst Says BTC Rebound to $100,000 Will Re](https://www.benzinga.com/crypto/cryptocurrency/26/11/63664704/bitcoin-ethereum-xrp-dogecoin-crypto-thanksgiving)**
 
-The bitcoin price fell to near $57,500 as the Nasdaq sank 4% at the open on a tech selloff, hot core PCE inflation and new U.S. tariff proposals.
+Benzinga • 10h ago
 
-Bitcoin Magazine • 1d ago
+---
+
+**[BIT Asset Management Introduces Switzerland's First Spot Bitcoin ETF on SIX Swiss Exchange](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT0E1ZmdSdzFYVTJyQWdUQXhyN2dxaFhmYlEtQW8tX1BBSU9Xa3pBUlFSOGprZld1Nm9qX2UxOTFRSXpWck1BUTR6Rm5ybDlOMld4Wk1WemowMk96cHM5aXVYOFNxVHoyYkgxd0NtU2lQTlRRdFhtRlVFLUtnQlUyZ0gwZmZsZnFOQVFnQThkTDI5T3cteUJ4a2FCcC1yN0tVUkJvS2ZvNEVqTWdpenpGamdNeUoxdVp0bndoMWpOamtjT1pzQ0M1eGM5ZDU1eFJBZy1oMENaaUhmNk5pSTRxX01hTQ?oc=5)**
+
+markets.businessinsider.com • 1h ago
+
+---
+
+**[Zcash Developers Race to Secure Crypto. Can Quantum Computing Break Bitcoin?](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXkzeUNCdGRUa01sbEpOZFpHVlpCdzFSQVBzVS1tZ1J3bjF2b05aX2lpbDZkdzIzS0RxaGZvNGszdFNhaHItX0plS3YyTnpsZ09pWXNlRGVsYnNRaDJFS1RMZkVHUFh1ZUl0c2U2UGtIc1g4RDFVblFzU2o2cjFqck5aNHROM3BjWXlOUjhONE9EbmtlWGY4QkFIb0M2MXpEcEpycFZLUWlUeUJ4UzBKUjRHUkpDSUdXeG93Ym56QjMycUIwVWNIVC1fU3E?oc=5)**
+
+TradingView • 4h ago
+
+---
+
+**[From Cuts To Hikes: How 2026 Rewrote Bitcoin’s Macro Outlook](https://seekingalpha.com/article/4972434-from-cuts-to-hikes-how-2026-rewrote-bitcoin-macro-outlook)**
+
+The year started with expectations for rate cuts, which gradually shifted toward hikes due to elevated inflation and surprisingly strong employment.
+
+Seeking Alpha • 6h ago
 
 ---
 
@@ -237,7 +231,7 @@ Bitcoin Magazine • 1d ago
 
 **[Bitcoin falls to its lowest in two years](https://news.ycombinator.com/item?id=50588272)**
 
-⬆️ 16 • 💬 4 • 5d ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
+⬆️ 16 • 💬 4 • 6d ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
 
 ---
 
@@ -246,14 +240,6 @@ Bitcoin Magazine • 1d ago
 Notes on mathematics and puzzles.
 
 ⬆️ 7 • 💬 0 • 5d ago • [echo.ls](https://echo.ls/zden-level-halv/)
-
----
-
-**[Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents](https://news.ycombinator.com/item?id=50572502)**
-
-Production MCP Server for AI Agents: Chaumian eCash (Cashu NutZaps / NIP-61), Lightning NWC, Web-of-Trust Sybil Resistance &amp; SQLite Budget Guardrails. Edge-ready with zero-dep CBOR. - PHONGUIT2...
-
-⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/PHONGUIT22/nostrpulse-full)
 
 ---
 
@@ -285,7 +271,7 @@ CVE-2026-117348 - Node stall through duplicate orphan announcements
 
 The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.
 
-⬆️ 1 • 💬 1 • 5d ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
+⬆️ 1 • 💬 1 • 6d ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
 
 ---
 
@@ -293,7 +279,7 @@ The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound:
 
 In November, an attacker rerouted internet traffic to redirect bitcoin miners on unencrypted Stratum V1 connections to an imposter pool. The attack didn’t breach Braiins Pool or the miners’ infrastructure. It didn’t need to. Here is the data, what it means for mining, and how to secure your miners today.
 
-⬆️ 1 • 💬 0 • 13h ago • [braiins.com](https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1)
+⬆️ 1 • 💬 0 • 23h ago • [braiins.com](https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1)
 
 ---
 
@@ -305,11 +291,19 @@ Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Pot
 
 ---
 
+**[Gnomon: Git for Postgres Data](https://news.ycombinator.com/item?id=50611613)**
+
+Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.
+
+⬆️ 40 • 💬 6 • 3d ago • [gnomon.bitsinfra.com](https://gnomon.bitsinfra.com/)
+
+---
+
 **[Buster the hamster home safe after hitching ride in Halloween pumpkin](https://news.ycombinator.com/item?id=50660542)**
 
 An adventurous hamster named Buster is back home in Arnprior, Ont., three weeks after hitching a ride inside a discarded Halloween pumpkin and ending up on a farm about 20 kilometres away.
 
-⬆️ 5 • 💬 0 • 4h ago • [CBC](https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959)
+⬆️ 6 • 💬 1 • 14h ago • [CBC](https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959)
 
 ---
 
@@ -317,23 +311,33 @@ An adventurous hamster named Buster is back home in Arnprior, Ont., three weeks 
 
 ## YouTube Videos: "bitcoin"
 
+**[The Worst Bitcoin Bear Market Ever? Here&#39;s What Actually Broke](https://www.youtube.com/watch?v=tv97TrDGk3I)**
+
+Is this the worst Bitcoin bear market ever, or has something deeper than the Bitcoin price broken? As BTC crashes below its ...
+
+📺 Simply Bitcoin
+
+👁️ 48K • 👍 1K • 💬 203 • ⏱️ 15:29 • 15h ago
+
+---
+
 **[This Is When I Sell ALL My Bitcoin. | Simon Dixon](https://www.youtube.com/watch?v=pmxsQXU5HDA)**
 
 Watch the full episode: youtu.be/Fln3_Jtdl8A Simon Dixon names the exact conditions that would make him walk away from ...
 
 📺 Rob Wallace | Bitcoin News
 
-👁️ 27K • 👍 550 • 💬 96 • ⏱️ 23:12 • 15h ago
+👁️ 41K • 👍 719 • 💬 132 • ⏱️ 23:12 • 1d ago
 
 ---
 
-**[The Real Reason Bitcoin Is Crashing Now](https://www.youtube.com/watch?v=saHOLvPB3iQ)**
+**[Bitcoin: This Is Why Price ISN&#39;T Going Up (Double Bluff Low)](https://www.youtube.com/watch?v=mwXkMRTdd9k)**
 
-What's the crypto market sentiment on Thanksgiving? Bitcoin crash, Bitcoin price, Bitcoin ETF outflows, and the clock that connects ...
+TIA PRO Membership, HUGE BLACK FRIDAY SALE → https://tiainvestor.com/black-friday/ ------------- Are you trading like smart ...
 
-📺 Dana Love, PhD
+📺 Jason Pizzino
 
-👁️ 29K • 👍 719 • 💬 106 • ⏱️ 20:01 • 12h ago
+👁️ 29K • 👍 732 • 💬 63 • ⏱️ 25:34 • 11h ago
 
 ---
 
@@ -343,67 +347,37 @@ For long-term holders who want a clear head through the cycles, Learning Crypto 
 
 📺 Crypto Tips
 
-👁️ 33K • 👍 848 • 💬 110 • ⏱️ 12:12 • 1d ago
+👁️ 35K • 👍 877 • 💬 89 • ⏱️ 12:12 • 1d ago
 
 ---
 
-**[$3.6 TRILLION GONE | Why This Crash Is Hiding a Bullish Bitcoin Signal?!](https://www.youtube.com/watch?v=Z-hKP_6_lg4)**
+**[The Real Reason Bitcoin Is Crashing Now](https://www.youtube.com/watch?v=saHOLvPB3iQ)**
 
-Bitcoin fell to about $57400 as markets sold off into Thanksgiving, and Rustin argues a hidden bullish signal is building ...
+What's the crypto market sentiment on Thanksgiving? Bitcoin crash, Bitcoin price, Bitcoin ETF outflows, and the clock that connects ...
 
-📺 Simply Bitcoin
+📺 Dana Love, PhD
 
-👁️ 29K • 👍 1K • 💬 83 • ⏱️ 16:52 • 1d ago
-
----
-
-**[BITCOIN: THE LONGEST BEAR MARKET IN HISTORY...](https://www.youtube.com/watch?v=Eb9nRzatq0c)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-8?vipCode=00dt&qrType=activity Instant VIP6 (44% fee ...
-
-📺 Crypto Rover
-
-👁️ 18K • 👍 668 • 💬 29 • ⏱️ 9:28 • 20h ago
+👁️ 34K • 👍 801 • 💬 157 • ⏱️ 20:01 • 21h ago
 
 ---
 
-**[The Worst Bitcoin Bear Market Ever? Here&#39;s What Actually Broke](https://www.youtube.com/watch?v=tv97TrDGk3I)**
+**[Bitcoin and the Realized Price](https://www.youtube.com/watch?v=mPDwkBYWJo8)**
 
-Is this the worst Bitcoin bear market ever, or has something deeper than the Bitcoin price broken? As BTC crashes below its ...
+Into The Cryptoverse Premium BLACK Friday Sale (use discount code blackfriday for 50% off your 1st invoice): ...
 
-📺 Simply Bitcoin
+📺 Benjamin Cowen
 
-👁️ 22K • 👍 912 • 💬 151 • ⏱️ 15:29 • 5h ago
-
----
-
-**[BOMBSHELL: I Just Discovered What’s REALLY Going On With Crypto Crash (Trump, Tariffs, Nvidia)](https://www.youtube.com/watch?v=0EemGc9ml5o)**
-
-Unlock $14550 as a new user on Bitbase (sign-up & trading bonuses): ...
-
-📺 Altcoin Daily
-
-👁️ 63K • 👍 2K • 💬 64 • ⏱️ 12:45 • 1d ago
+👁️ 176K • 👍 6K • 💬 214 • ⏱️ 11:05 • 1d ago
 
 ---
 
-**[The Bitcoin Bottom](https://www.youtube.com/watch?v=Nk9U3kcq8pE)**
+**[A Bitcoin Thanksgiving](https://www.youtube.com/watch?v=q0KSyXCVBr8)**
 
-Become an Enjoyer: https://www.skool.com/marketenjoyers/about Get the FREE Weekly Report: ...
+Into The Cryptoverse Premium BLACK Friday Sale (use discount code blackfriday for 50% off your 1st invoice): ...
 
-📺 Crypto Currently
+📺 Benjamin Cowen
 
-👁️ 49K • 👍 1K • 💬 374 • ⏱️ 1:00:24 • 1d ago
-
----
-
-**[THIS COULD CHANGE THE BITCOIN STORY FAST!!!!](https://www.youtube.com/watch?v=-aVQ_iH5ZnM)**
-
-YUBIT hhttps://ckenny.com/YBN $500 Nvidia Postion MY FREE TRADE ALERTS https://ckenny.com/YBTM FREE 1000 ...
-
-📺 Conor Kenny
-
-👁️ 17K • 👍 514 • 💬 78 • ⏱️ 15:49 • 21h ago
+👁️ 123K • 👍 4K • 💬 130 • ⏱️ 12:13 • 17h ago
 
 ---
 
@@ -413,7 +387,27 @@ APPLY TO JOIN MY COMMUNITY. https://go.didi-freedom-academy.com/yt-EkG_4udWOyY F
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 19K • 👍 770 • 💬 150 • ⏱️ 29:11 • 21h ago
+👁️ 21K • 👍 801 • 💬 128 • ⏱️ 29:11 • 1d ago
+
+---
+
+**[Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”](https://www.youtube.com/watch?v=l4GRgbXyQJU)**
+
+Bitwise just raised its 10-year Bitcoin forecast from $1.3 million to $1.6 million by 2036, and Chief Investment Officer Matt Hougan ...
+
+📺 Bitcoin Magazine
+
+👁️ 28K • 👍 382 • 💬 77 • ⏱️ 12:03 • 1d ago
+
+---
+
+**[BITCOIN: HISTORY IS REPEATING AGAIN...](https://www.youtube.com/watch?v=TskSLZ_wi5A)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-8?vipCode=00dt&qrType=activity Instant VIP6 (44% fee ...
+
+📺 Crypto Rover
+
+👁️ 10K • 👍 549 • 💬 61 • ⏱️ 10:31 • 5h ago
 
 ---
 
