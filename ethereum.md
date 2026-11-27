@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-26T20:24:16.822639+00:00'
+updated: '2026-11-27T03:05:20.111674+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 26, 2026 at 20:24 UTC  
+**Last Updated:** November 27, 2026 at 03:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,687.49
+### $1,689.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +4.9%  
-**30d:** -27.8%  
-**90d:** -30.7%  
-**1y:** -43.5%  
+**24h:** +1.6%  
+**7d:** +2.6%  
+**30d:** -23.3%  
+**90d:** -28.5%  
+**1y:** -43.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $208.12B
+**Market Cap:** $210.59B
 Rank #2
 
 **Circulating Supply:** 122,253,672 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.6%
+-65.2%
 
 **All-Time Low:** $0.43
-+393046.1%
++397822.3%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?
 
-11d ago
+12d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 14d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 15d ago
 
 ---
 
@@ -156,7 +156,7 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography.
 
-ethereum.org • 1d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -164,7 +164,7 @@ ethereum.org • 1d ago
 
 Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 21h ago
 
 Leading cryptocurrencies gained on Wednesday as investors assessed core inflation readings and broader U.S. economic conditions.Crypto Market ReboundsBitcoin rebounded from an intraday low of $57,307.69 to climb above $60,000, while Ethereum also rose above $1,700Cryptocurrency-related stocks gaine…
 
-TradingView • 18h ago
+TradingView • 1d ago
 
 ---
 
@@ -180,15 +180,7 @@ TradingView • 18h ago
 
 Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked.
 
-Seeking Alpha • 8h ago
-
----
-
-**[Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing](https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing)**
-
-The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats.
-
-Decrypt • 1d ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -196,15 +188,21 @@ Decrypt • 1d ago
 
 Ethlabs urges Ethereum to ship Glamsterdam as is, warning EIP-8037 changes would delay the upgrade by months and cut planned gas capacity.
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 16h ago
 
 ---
 
-**[Current price of Ethereum for November 25, 2026](https://fortune.com/article/price-of-ethereum-11-25-2026/)**
+**[Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing](https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats.
 
-Fortune • 1d ago
+Decrypt • 2d ago
+
+---
+
+**[Ethereum ETF Feels the Chill as $8.7 Million Exits Grayscale’s Mini Trust](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-feels-the-chill-as-8-7-million-exits-grayscales-mini-trust)**
+
+TipRanks • 17h ago
 
 ---
 
@@ -212,19 +210,21 @@ Fortune • 1d ago
 
 Lido voters approved broader penalties to recover missed Ethereum staking rewards and other losses from operators’ collateral.
 
-CryptoSlate • 18h ago
+CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack](https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack)**
+**[Bitcoin, XRP, Ethereum face brutal crash risk as key levels crack](https://www.thestreet.com/crypto/markets/bitcoin-xrp-ethereum-face-brutal-crash-risk-as-key-levels-crack)**
 
-CoinDesk • 3d ago
+TheStreet • 9h ago
 
 ---
 
-**[Trader who nailed 2018 Bitcoin crash now sounds Ethereum alarm](https://www.thestreet.com/crypto/markets/trader-who-nailed-2018-bitcoin-crash-now-sounds-ethereum-alarm)**
+**[Crypto ETFs Lose $521.5M as BlackRock IBIT Sheds $329.7M](https://financefeeds.com/us-crypto-etfs-lose-521-5-million-as-bitcoin-and-ethereum-withdrawals-accelerate/)**
 
-www.thestreet.com • 20h ago
+US spot Bitcoin ETFs saw $453M in net outflows on Nov 25 and Ethereum funds $68.5M, with BlackRock's IBIT and ETHA behind most of the $521.5M exit.
+
+FinanceFeeds • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 12K • 👍 233 • 💬 95 • ⏱️ 38:29 • 1d ago
+👁️ 14K • 👍 254 • 💬 101 • ⏱️ 38:29 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 421 • 💬 23 • ⏱️ 24:26 • 6h ago
+👁️ 39K • 👍 535 • 💬 35 • ⏱️ 24:26 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 86 • 💬 18 • ⏱️ 25:35 • 1d ago
+👁️ 9K • 👍 93 • 💬 18 • ⏱️ 25:35 • 1d ago
 
 ---
 
@@ -268,7 +268,17 @@ BITCOIN LIQUIDATIONS REVEAL NEXT PRICE TARGET!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 10K • 👍 248 • 💬 193 • ⏱️ 18:25 • 15h ago
+👁️ 12K • 👍 272 • 💬 178 • ⏱️ 18:25 • 21h ago
+
+---
+
+**[Michael Saylor :“This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=AbAnTcrp8ic)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 9K • 👍 169 • 💬 26 • ⏱️ 25:12 • 10h ago
 
 ---
 
@@ -278,17 +288,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 73K • 👍 795 • 💬 88 • ⏱️ 28:19 • 2d ago
-
----
-
-**[Critical Warning From Santiment Regarding XRP, Bitcoin And Ethereum](https://www.youtube.com/watch?v=9gi_gAZwIuw)**
-
-Well everyone, its that time of the four year crypto cycle again, and I think that most people, similiar to the last 3 times this has ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 40K • 👍 3K • 💬 375 • ⏱️ 17:03 • 1d ago
+👁️ 74K • 👍 798 • 💬 89 • ⏱️ 28:19 • 2d ago
 
 ---
 
@@ -298,7 +298,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 339 • 💬 15 • ⏱️ 21:42 • 2d ago
+👁️ 23K • 👍 340 • 💬 15 • ⏱️ 21:42 • 2d ago
 
 ---
 
@@ -308,17 +308,7 @@ WEEX - where my trades go (up to $10000+ in sign-up rewards) https://marzell.org
 
 📺 Marzell Crypto
 
-👁️ 723 • 👍 11 • 💬 1 • ⏱️ 2:59 • 1d ago
-
----
-
-**[ICP Called It: Ethereum Says AI Is the Bigger Threat | Internet Computer](https://www.youtube.com/watch?v=wvLUXvMDMdY)**
-
-The Ethereum Foundation now says AI is a more urgent risk to Ethereum than quantum computers, and it has doubled its protocol ...
-
-📺 BasedGiant
-
-👁️ 3K • 👍 159 • 💬 15 • ⏱️ 8:52 • 1d ago
+👁️ 801 • 👍 12 • 💬 1 • ⏱️ 2:59 • 1d ago
 
 ---
 
@@ -328,7 +318,17 @@ BITCOIN WARNING: REJECTION CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 17K • 👍 300 • 💬 159 • ⏱️ 17:22 • 1d ago
+👁️ 17K • 👍 301 • 💬 161 • ⏱️ 17:22 • 2d ago
+
+---
+
+**[U.S. Inflation Is Out: Bitcoin, Ethereum&#39;s Quantum Defense &amp; Sky&#39;s Emergency Credit | Crypto Talk](https://www.youtube.com/watch?v=3St2Op1qTpg)**
+
+U.S. inflation numbers are out. PCE core inflation came in at 3.8%, exactly as expected, while third-quarter growth was a strong ...
+
+📺 Swissquote (in English)
+
+👁️ 98 • 👍 2 • ⏱️ 7:01 • 11h ago
 
 ---
 

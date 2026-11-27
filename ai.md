@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-26T20:24:16.814938+00:00'
+updated: '2026-11-27T03:05:20.097159+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 26, 2026 at 20:24 UTC  
+**Last Updated:** November 27, 2026 at 03:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -105,7 +105,7 @@ I’m an independent researcher, solo and self-funded. Since April 2026 I’ve b
 
 In a Microsoft Research and UC Berkeley experiment, Claude Code worked through tasks from the same repos in sequence. After five completed tasks in a repo, 30% of its tool calls repeated actions from earlier tasks there. Repeated doesn't automatically mean unnecessary, but it gave the researchers something to investigate. They built TokenEconomizer, an open-source plugin that carries lessons between sessions, trims the available tools and nudges the agent when it gets stuck. The catch: learning the repo initially added cost. In their tests, cumulative spending fell below the unmodified agent by the sixth task in every repo. Across five agent-model combinations, mean cost per task fell 18.4-30.9%, including the plugin's own model calls. Task success improved in four of the five. I'd be interested in trying this on a repo I work in regularly. A one-off task wouldn't tell you whether the memory is earning its keep.
 
-9d ago
+10d ago
 
 ---
 
@@ -121,17 +121,51 @@ Before you blame AI tools for flat velocity, find out whether you face a capabil
 
 ## Google News: "ai"
 
-**[I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous](https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit)**
+**[SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring)**
 
-We’re developing the most powerful tech in history – but trust, safeguarding and privacy are being sidelined in favour of huge profit, says an anonymous AI expert
-
-The Guardian • 6h ago
+Bloomberg.com • 10h ago
 
 ---
 
-**[SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring)**
+**[SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports](https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/)**
 
-Bloomberg.com • 4h ago
+Reuters • 10h ago
+
+---
+
+**[SAP looks to cut another 10,000 jobs in new AI-driven restructuring](https://www.calcalistech.com/ctechnews/article/al8iwkfjx)**
+
+The reported layoffs would mark a second major workforce overhaul in less than three years. SAP is seeking to reorganize product development and sales around AI while protecting its growth in cloud software.
+
+CTech • 8h ago
+
+---
+
+**[EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say](https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/)**
+
+Reuters • 19h ago
+
+---
+
+**[AI boom fuels demand for commercial and industrial space: JLL](https://www.cnbc.com/video/2026/11/27/industrial-remains-the-worldas-top-performing-asset-class.html)**
+
+JLL's Christian Ulbrich says commercial real estate demand is robust, with office leasing rising on steady GDP growth and AI companies among the strongest drivers. He says industrial space is also in strong demand, driven by data center buildout, but access to grid power is the main constraint on new data centers.
+
+CNBC • 59m ago
+
+---
+
+**[The AI Boom Looks Alive and Well in Asia](https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697)**
+
+WSJ • 5m ago
+
+---
+
+**[New book warns leadership crisis grows as AI changes offices](https://foxbaltimore.com/news/local/new-book-warns-leadership-crisis-grows-as-ai-changes-offices)**
+
+Artificial intelligence is quickly changing how people work in all kinds of businesses, but two leadership experts, Christian Anschuetz and Luis Serpa, believe there's a bigger issue than just keeping up with technology.
+
+WBFF • 40m ago
 
 ---
 
@@ -139,15 +173,13 @@ Bloomberg.com • 4h ago
 
 The technology is central to SpaceX’s growth ambitions, though the company warned earlier this year that it relied on “unproven” technologies.
 
-CNN • 8h ago
+CNN • 14h ago
 
 ---
 
-**[US approves SpaceX plan to send a million data satellites to space](https://www.bbc.com/news/articles/cwp836l8n1jgo)**
+**[Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive](https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/)**
 
-The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.
-
-BBC • 10h ago
+Reuters • 22h ago
 
 ---
 
@@ -155,43 +187,7 @@ BBC • 10h ago
 
 The Trump administration has approved Elon Musk’s plan to launch one million satellites into orbit to create datacentres in space. SpaceX argues the project could reduce the impact of datacentres on Earth as the AI industry grows. But how realistic is the plan and what could the consequences be? Michael Safi speaks to Guardian global technology editor Dan Milmo
 
-The Guardian • 1h ago
-
----
-
-**[Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'](https://www.cnbc.com/2026/11/26/stock-markets-today-.html)**
-
-Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.
-
-CNBC • 20h ago
-
----
-
-**[How to Talk With Your Family About A.I. Doom at Thanksgiving](https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Sam Altman needs a physical AI device because Apple won't give OpenAI data for ChatGPT—Tony Fadell](https://fortune.com/2026/11/26/sam-altman-needs-jony-ive-to-create-a-physical-ai-device-because-apple-will-never-give-openai-the-real-world-data-chatgpt-needs-tony-fadell-says/)**
-
-Former Apple executive Tony Fadell says privacy rules stop OpenAI from reading context data on the iPhone. A companion gadget would let it collect that data itself.
-
-Fortune • 10h ago
-
----
-
-**[Explainer-How China got access to Nvidia's AI chips despite rules to stop them](https://finance.yahoo.com/news/explainer-china-got-access-nvidias-193901126.html)**
-
-Nov 25 (Reuters) - AI chips are a central battleground in the US-China technology race.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Andrew Bailey says unreleased AI models have raised encryption concerns](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1)**
-
-Financial Times • 3h ago
+The Guardian • 8h ago
 
 ---
 
@@ -203,7 +199,15 @@ Financial Times • 3h ago
 
 The NYT doesn’t want AI metadata inadvertently added to its photos.
 
-⬆️ 626 • 💬 495 • 23h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+⬆️ 656 • 💬 522 • 1d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+
+---
+
+**[AI made self-hosting fun again](https://news.ycombinator.com/item?id=50660180)**
+
+I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit.
+
+⬆️ 368 • 💬 205 • 5h ago • [Jan-Lukas Else](https://janlukas.blog/posts/ai-self-hosting)
 
 ---
 
@@ -211,13 +215,21 @@ The NYT doesn’t want AI metadata inadvertently added to its photos.
 
 The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month,
 
-⬆️ 337 • 💬 342 • 2d ago • [Variety](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
+⬆️ 337 • 💬 344 • 2d ago • [Variety](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
 
 ---
 
 **[Tracking Diseases Cured by AI](https://news.ycombinator.com/item?id=50657307)**
 
-⬆️ 280 • 💬 166 • 3h ago • [diseasescuredbyai.com](https://diseasescuredbyai.com/)
+⬆️ 305 • 💬 182 • 9h ago • [diseasescuredbyai.com](https://diseasescuredbyai.com/)
+
+---
+
+**[Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://news.ycombinator.com/item?id=50653477)**
+
+From February 2027, Google's terms require AI agents to reach Gmail, Drive and the rest of Workspace through Google's own MCP servers. What the rule says, what the servers can and can't do, and what to change before the deadline.
+
+⬆️ 260 • 💬 220 • 17h ago • [techstackups.com](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
 
 ---
 
@@ -226,23 +238,7 @@ The music streaming service Tidal said Tuesday that it would ban tracks it belie
 Title possibly signs checks the article doesn’t have backing for. This is just a brief pro forma project update.
 Not much new functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most big parts of the search engine are in place, and while there are many things that could be better, we’re less likely to straight up see massive new features, at least in the immediate future. Per familiar intuition from binary searches, the closer you get to your goal the smaller and more deliberate steps you need to take in order to get even closer.
 
-⬆️ 222 • 💬 85 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_141_marginalia_update/)
-
----
-
-**[Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://news.ycombinator.com/item?id=50653477)**
-
-From February 2027, Google's terms require AI agents to reach Gmail, Drive and the rest of Workspace through Google's own MCP servers. What the rule says, what the servers can and can't do, and what to change before the deadline.
-
-⬆️ 122 • 💬 141 • 10h ago • [techstackups.com](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
-
----
-
-**[Declare is a UI language for you and your AI](https://news.ycombinator.com/item?id=50622854)**
-
-Designed from the ground up for interfaces that act and move like the best native apps, in a few hundred lines your AI can write and its compiler can check.
-
-⬆️ 120 • 💬 96 • 2d ago • [Declare](https://davidtemkin.github.io/declarelang/)
+⬆️ 223 • 💬 85 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_141_marginalia_update/)
 
 ---
 
@@ -250,7 +246,7 @@ Designed from the ground up for interfaces that act and move like the best nativ
 
 We interviewed people at 58 companies that use Claude about how AI is changing their work. They described few layoffs but reduced hiring, and said the most valuable uses of AI often involved reorganizing roles and workplaces around it.
 
-⬆️ 89 • 💬 77 • 1d ago • [anthropic.com](https://www.anthropic.com/research/working-with-ai)
+⬆️ 89 • 💬 77 • 2d ago • [anthropic.com](https://www.anthropic.com/research/working-with-ai)
 
 ---
 
@@ -266,7 +262,7 @@ Google processes 330 times more tokens than two years ago, yet prices fall almos
 
 The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul
 
-⬆️ 55 • 💬 13 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys)
+⬆️ 55 • 💬 14 • 1d ago • [the Guardian](https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys)
 
 ---
 
@@ -280,93 +276,43 @@ The state attorney general says she would ‘not hesitate to enforce’ the five
 
 ## YouTube Videos: "ai"
 
-**[OpenAI insider: An AI accident is the most likely way people will die](https://www.youtube.com/watch?v=qgL_IbP2qKg)**
-
-OpenAI Board Member Paul Christiano details a warning: within the next one to three years, there is a high risk of an artificial ...
-
-📺 CNN
-
-👁️ 1.4M • 👍 7K • 💬 4K • ⏱️ 21:55 • 2d ago
-
----
-
-**[The State Of AI Memes - PART 1](https://www.youtube.com/watch?v=mJjPmKRyX2s)**
-
-in this town, we look at the state of AI memes HUSS HUSS HUSS Please comment if you know more about this meme's origins.
-
-📺 Lessons in Meme Culture
-
-👁️ 310K • 👍 8K • 💬 662 • ⏱️ 8:50 • 8h ago
-
----
-
 **[Anthropic’s AI Is Starting to Scare Its Own Researchers…](https://www.youtube.com/watch?v=r1aEPmGqQrs)**
 
 While the top AI employees are sounding the alarm... Anthropic releases a new "Siren" report that tests whether Claude will ...
 
 📺 AI Copium
 
-👁️ 15K • 👍 205 • 💬 143 • ⏱️ 9:05 • 5h ago
+👁️ 25K • 👍 288 • 💬 182 • ⏱️ 9:05 • 12h ago
 
 ---
 
-**[AI Design Tools Ranked from Worst to Best (2026)](https://www.youtube.com/watch?v=gUNi7pNi9dM)**
+**[China&#39;s Fall In The AI Race Is Worse Than We Thought | VisualEconomik EN](https://www.youtube.com/watch?v=it6DM4-vZQw)**
 
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 In ...
+Get an early access to Proton's Black Friday sale at https://protonvpn.com/visualeconomik and get up to 75% off on their VPN ...
 
-📺 Mikey Website
+📺 VisualEconomik EN
 
-👁️ 10K • 💬 7 • ⏱️ 25:54 • 6h ago
-
----
-
-**[AI Is Speedrunning India&#39;s Economic Demise](https://www.youtube.com/watch?v=4hPRHFTY08I)**
-
-Position yourself for the AI revolution, for free: https://80000hours.org/economicsexplained 95000+ read our free newsletter that ...
-
-📺 Economics Explained
-
-👁️ 1.4M • 👍 14K • 💬 2K • ⏱️ 17:36 • 1d ago
+👁️ 56K • 👍 1K • 💬 174 • ⏱️ 14:19 • 14h ago
 
 ---
 
-**[Trump Administration announces new tariffs &amp; disturbing warning about AI](https://www.youtube.com/watch?v=4P1lSMu32jA)**
+**[The Most Productive Hour You’ll Spend on AI, Its Dangers, and Potential Solutions | Geoffrey Hinton](https://www.youtube.com/watch?v=KPELRl6y7vY)**
 
-The Trump Administration announces new tariffs against several different countries. Oakland University Associate Professor of ...
+Known as the “Godfather of AI,” Professor Geoffrey Hinton won a Nobel Prize for work that helped lay the foundation for the AI ...
 
-📺 FOX 2 Detroit
+📺 Sinead Bovell
 
-👁️ 25K • 👍 116 • 💬 48 • ⏱️ 24:00 • 19h ago
-
----
-
-**[I Found an AI Video Generator That&#39;s ACTUALLY FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=uIcXoBl-gPg)**
-
-Get up to 70% OFF Higgsfield this Black Friday — create stunning AI videos with Magi 2 for just $0.08/sec ...
-
-📺 Malva AI
-
-👁️ 24K • 👍 362 • 💬 58 • ⏱️ 8:16 • 1d ago
+👁️ 62K • 👍 1K • 💬 209 • ⏱️ 1:00:15 • 2d ago
 
 ---
 
-**[My Updated Thoughts on AI](https://www.youtube.com/watch?v=gNPH2axWjF8)**
+**[AI Is Changing FAST (15 Wild New Breakthroughs)](https://www.youtube.com/watch?v=PsKKvsnvN-o)**
 
-I wanted to shared my updated thoughts on AI, where I think software engineering is headed, and my thoughts on the job market.
+15 AI breakthroughs this week: Genie 4, Kling Image 4.0, Pika Enact and more. Try HeyGen: ...
 
-📺 SuperSimpleDev
+📺 AI Samson
 
-👁️ 91K • 👍 1K • 💬 309 • ⏱️ 9:53 • 15h ago
-
----
-
-**[‘A TERRIFYING picture’: AI employees warn some advanced models are NOT SAFE to release, AXIOS](https://www.youtube.com/watch?v=ak5kr5yM7aI)**
-
-AXIOS senior AI reporter Madison Mills joins Way Too Early to discuss her latest piece titled, 'AI employees sound alarm: models ...
-
-📺 MS NOW
-
-👁️ 187K • 👍 1K • 💬 571 • ⏱️ 6:01 • 2d ago
+👁️ 32K • 👍 526 • 💬 36 • ⏱️ 20:36 • 1d ago
 
 ---
 
@@ -376,7 +322,57 @@ Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.pr
 
 📺 Mo Bitar
 
-👁️ 920K • 👍 23K • 💬 3K • ⏱️ 9:54 • 1d ago
+👁️ 996K • 👍 25K • 💬 4K • ⏱️ 9:54 • 1d ago
+
+---
+
+**[How a new generation of AI agents could change holiday shopping](https://www.youtube.com/watch?v=Nl13uO4xOdM)**
+
+The internet revolutionized holiday shopping by allowing people to make purchases without leaving their homes. Now, a new ...
+
+📺 CBS News
+
+👁️ 6K • 👍 11 • 💬 4 • ⏱️ 3:35 • 1d ago
+
+---
+
+**[The “Godfather of AI” on the Risks That Worry Him Most | Geoffrey Hinton | TED](https://www.youtube.com/watch?v=L8HdlknRkA4)**
+
+Geoffrey Hinton helped create the neural networks behind today's AI, won a Nobel Prize for it — and has spent the years since ...
+
+📺 TED
+
+👁️ 569K • 👍 5K • 💬 559 • ⏱️ 25:55 • 2d ago
+
+---
+
+**[OpenAI insider: An AI accident is the most likely way people will die](https://www.youtube.com/watch?v=qgL_IbP2qKg)**
+
+OpenAI Board Member Paul Christiano details a warning: within the next one to three years, there is a high risk of an artificial ...
+
+📺 CNN
+
+👁️ 1.5M • 👍 7K • 💬 4K • ⏱️ 21:55 • 2d ago
+
+---
+
+**[‘A TERRIFYING picture’: AI employees warn some advanced models are NOT SAFE to release, AXIOS](https://www.youtube.com/watch?v=ak5kr5yM7aI)**
+
+AXIOS senior AI reporter Madison Mills joins Way Too Early to discuss her latest piece titled, 'AI employees sound alarm: models ...
+
+📺 MS NOW
+
+👁️ 190K • 👍 1K • 💬 581 • ⏱️ 6:01 • 2d ago
+
+---
+
+**[Big &amp; Tiny AI Fruit Babies Sharing Fruits 🍓👶 | Oddly Satisfying ASMR](https://www.youtube.com/watch?v=mNWtSRaFRSI)**
+
+Big & Tiny AI Fruit Babies share colorful fruits in a cozy kitchen! Enjoy adorable fruit baby duos, tiny companions, and playful ...
+
+📺 Oddly Satisfying AI ASMR
+
+👁️ 33K • 👍 74 • 💬 2 • ⏱️ 6:11 • 1d ago
 
 ---
 
@@ -390,7 +386,7 @@ Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.pr
 
 `image-text-to-text` `26.4B`
 
-⬇️ 96,527 • ❤️ 6,218 • 2d ago
+⬇️ 96,527 • ❤️ 6,275 • 2d ago
 
 ---
 
@@ -400,17 +396,7 @@ Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.pr
 
 `image-text-to-text` `26.1B`
 
-⬇️ 2,445,633 • ❤️ 1,483 • 3d ago
-
----
-
-**[voice-isolator](https://huggingface.co/inworld/voice-isolator)**
-
-*Inworld*
-
-`audio-to-audio`
-
-⬇️ 15,244 • ❤️ 956 • 12d ago
+⬇️ 2,445,633 • ❤️ 1,503 • 3d ago
 
 ---
 
@@ -420,7 +406,7 @@ Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.pr
 
 `image-text-to-text` `26.1B`
 
-⬇️ 762,491 • ❤️ 920 • 22m ago
+⬇️ 762,491 • ❤️ 940 • 4h ago
 
 ---
 
@@ -428,7 +414,17 @@ Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.pr
 
 *Sulphur*
 
-⬇️ 189,735 • ❤️ 1,203 • 5d ago
+⬇️ 189,735 • ❤️ 1,221 • 5d ago
+
+---
+
+**[voice-isolator](https://huggingface.co/inworld/voice-isolator)**
+
+*Inworld*
+
+`audio-to-audio`
+
+⬇️ 15,244 • ❤️ 968 • 13d ago
 
 ---
 
@@ -438,7 +434,7 @@ Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.pr
 
 `text-generation` `26.9B`
 
-⬇️ 59,366 • ❤️ 504 • 1d ago
+⬇️ 59,366 • ❤️ 531 • 2d ago
 
 ---
 
@@ -448,27 +444,7 @@ Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.pr
 
 `image-to-video`
 
-⬇️ 3,041,405 • ❤️ 13,566 • 9h ago
-
----
-
-**[DepthPro2](https://huggingface.co/apple/DepthPro2)**
-
-*Apple*
-
-`depth-estimation`
-
-⬇️ 0 • ❤️ 1,309 • 6d ago
-
----
-
-**[OCRia-nano-1](https://huggingface.co/llamaindex/OCRia-nano-1)**
-
-*LlamaIndex*
-
-`image-to-text`
-
-⬇️ 126 • ❤️ 278 • 2d ago
+⬇️ 3,041,405 • ❤️ 13,600 • 16h ago
 
 ---
 
@@ -478,7 +454,27 @@ Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.pr
 
 `text-to-image` `32.6B`
 
-⬇️ 218 • ❤️ 267 • 1d ago
+⬇️ 218 • ❤️ 284 • 1d ago
+
+---
+
+**[OCRia-nano-1](https://huggingface.co/llamaindex/OCRia-nano-1)**
+
+*LlamaIndex*
+
+`image-to-text`
+
+⬇️ 126 • ❤️ 285 • 2d ago
+
+---
+
+**[DepthPro2](https://huggingface.co/apple/DepthPro2)**
+
+*Apple*
+
+`depth-estimation`
+
+⬇️ 0 • ❤️ 1,322 • 6d ago
 
 ---
 
@@ -492,7 +488,7 @@ Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.pr
 
 PaperOrchestra is a multi-agent framework that converts unstructured research materials into complete LaTeX manuscripts with literature synthesis and visual elements, outperforming existing autonomous writing systems in human evaluations.
 
-▲ 19 • 💬 0 • ⭐ 6,462 • 7mo ago
+▲ 19 • 💬 0 • ⭐ 6,502 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05018) • [💻 code](https://github.com/google-research/paper-orchestra) • [🔗 project](https://yiwen-song.github.io/paper_orchestra/)
 
@@ -506,7 +502,7 @@ PaperOrchestra is a multi-agent framework that converts unstructured research ma
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 112 • 💬 7 • ⭐ 32,824 • 5mo ago
+▲ 112 • 💬 7 • ⭐ 32,845 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -526,18 +522,6 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 168 • 💬 6 • ⭐ 123,813 • 23mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
 **[Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://huggingface.co/papers/2611.26603)**
 
 *Peiyun Hu, Marko Mihajlovic, Lyndon Duong et al. (8 authors)*
@@ -552,15 +536,15 @@ A single scalable network estimates dense metric depth for images and video at n
 
 ---
 
-**[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)**
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
-*Run Luo, Kuan Zhang, Qi Deng et al. (27 authors)*
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
-Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 166 • 💬 4 • ⭐ 1,562 • 14d ago
+▲ 168 • 💬 6 • ⭐ 123,844 • 23mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2611.18397) • [💻 code](https://github.com/RainBowLuoCS/Gamer) • [🔗 project](https://mihoyo-gamer.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -587,6 +571,18 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 87 • 💬 7 • ⭐ 94,398 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)**
+
+*Run Luo, Kuan Zhang, Qi Deng et al. (27 authors)*
+
+Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.
+
+▲ 166 • 💬 4 • ⭐ 1,584 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2611.18397) • [💻 code](https://github.com/RainBowLuoCS/Gamer) • [🔗 project](https://mihoyo-gamer.github.io/)
 
 ---
 
@@ -628,7 +624,7 @@ A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 `JavaScript`
 
-⭐ 22.2k • 🔱 1.4k • 11d ago
+⭐ 22.3k • 🔱 1.4k • 12d ago
 
 ---
 
@@ -638,7 +634,7 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 `Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
 
-⭐ 13.6k • 🔱 2.0k • 7h ago
+⭐ 13.7k • 🔱 2.0k • 14h ago
 
 ---
 
@@ -648,7 +644,7 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 `Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
 
-⭐ 10.1k • 🔱 2.3k • 32m ago
+⭐ 10.1k • 🔱 2.3k • 1h ago
 
 ---
 
@@ -658,7 +654,7 @@ The AI-native engine for teams and their agents. Multi-harness, multi-agent, sel
 
 `JavaScript` `agent-harness` `agent-orchestration` `agent-workflows` `ai-agents` `ai-workflows`
 
-⭐ 8.2k • 🔱 793 • 2h ago
+⭐ 8.3k • 🔱 797 • 17m ago
 
 ---
 
@@ -668,17 +664,7 @@ Turn an old Android phone into a customizable desk panel and touch control deck 
 
 `JavaScript` `android` `claude-code` `codex` `dashboard` `desk-panel`
 
-⭐ 7.1k • 🔱 819 • 14m ago
-
----
-
-**[expo/exact](https://github.com/expo/exact)**
-
-Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
-
-`Rust` `ai-agents` `appkit` `coding-agents` `cross-platform` `css`
-
-⭐ 5.2k • 🔱 164 • 4m ago
+⭐ 7.3k • 🔱 837 • 2h ago
 
 ---
 
@@ -688,7 +674,7 @@ Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to b
 
 `TypeScript` `agent-teams` `local-llm` `memory` `personal-agent` `proactive-agent`
 
-⭐ 4.8k • 🔱 457 • 35m ago
+⭐ 4.9k • 🔱 461 • 2m ago
 
 ---
 
@@ -698,7 +684,7 @@ MR Office — the open-source editors of the AI office suite closest to Microsof
 
 `TypeScript` `ai` `ai-agent` `claude-code` `codex` `copilot`
 
-⭐ 4.4k • 🔱 414 • 24m ago
+⭐ 4.5k • 🔱 418 • 3h ago
 
 ---
 
@@ -708,7 +694,7 @@ Private AI meeting notes that stay on your computer. No meeting bot. Free and op
 
 `TypeScript` `ai-meeting-assistant` `ai-notetaker` `electron` `granola-alternative` `linux`
 
-⭐ 3.7k • 🔱 324 • 53m ago
+⭐ 3.7k • 🔱 327 • 7h ago
 
 ---
 
@@ -718,7 +704,17 @@ Private AI meeting notes that stay on your computer. No meeting bot. Free and op
 
 `Swift` `android` `linux` `live-captions` `macos` `meeting-notes`
 
-⭐ 3.5k • 🔱 553 • 1d ago
+⭐ 3.5k • 🔱 557 • 1d ago
+
+---
+
+**[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)**
+
+Offline knowledge AI, maps and videos for survival and rebuilding
+
+`Python`
+
+⭐ 3.1k • 🔱 387 • 1d ago
 
 ---
 

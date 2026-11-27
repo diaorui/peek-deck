@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-26T20:24:16.824298+00:00'
+updated: '2026-11-27T03:05:20.114870+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 26, 2026 at 20:24 UTC  
+**Last Updated:** November 27, 2026 at 03:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[Meet WAAAGH-E!!!](https://www.reddit.com/r/robotics/comments/1xvkqbd/meet_waaaghe/)**
 
-12d ago
+13d ago
 
 ---
 
@@ -110,15 +110,23 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
+**[RoboTrack: Point tracking for real-world robotic manipulation | Ai2](https://allenai.org/blog/robotrack)**
+
+RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks.
+
+Allen Institute for Artificial Intelligence • 3d ago
+
+---
+
 **[Robots will have a staggering economic impact](https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact)**
 
-The Economist • 9h ago
+The Economist • 16h ago
 
 ---
 
 **[Humanoid robots are coming—sooner than you think](https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think)**
 
-The Economist • 9h ago
+The Economist • 16h ago
 
 ---
 
@@ -126,59 +134,51 @@ The Economist • 9h ago
 
 Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.
 
-CNBC • 12h ago
+CNBC • 19h ago
 
 ---
 
-**[New 3D-printed robotic hand uses simple parts to replicate human-like movements](https://interestingengineering.com/ai-robotics/njit-phd-hand-low-cost-robotic-hand)**
+**[Humble Robotics wants to reinvent trucking](https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports)**
 
-NJIT researchers have developed a 3D-printed robotic hand that aims to deliver dexterity without the cost of commercial models.
-
-Interesting Engineering • 16h ago
+Axios • 10h ago
 
 ---
 
-**[Humanoid robots meet factory reality on Toyota's home turf](https://asia.nikkei.com/business/automobiles/humanoid-robots-meet-factory-reality-on-toyota-s-home-turf)**
+**[Meet Mirumi, the Furry, Robotic Bag Charm Flying Off Shelves](https://www.nytimes.com/2026/11/24/style/mirumi-robot-bag-charm.html)**
 
-Automaker prioritizes practical applications in physical AI over hype, suppliers say
-
-Nikkei Asia • 16h ago
+The New York Times • 2d ago
 
 ---
 
-**[Volvo Is Bringing Humanoid Robots Into Its Factories. Here's When They'll Start Working](https://insideevs.com/news/816850/volvo-cars-humanoid-robots-training-factory/)**
+**[Inside DARPA's Challenge Where Robots Searched for Disaster Victims](https://spectrum.ieee.org/darpa-triage-challenge-final-robots)**
 
-The first Aeon units are already being trained at Volvo’s factory in Ghent, Belgium. The next step is giving them real work.
+The defense agency’s latest grand challenge aimed to prove robots could save lives in emergencies
 
-InsideEVs • 11h ago
-
----
-
-**[Volvo starts training humanoid robots for its Belgian car factory](https://thenextweb.com/news/volvo-humanoid-robots-hexagon-aeon-ghent)**
-
-Volvo Cars is training Hexagon's AEON humanoid robots at its Ghent plant and plans to put them into production from mid-2027, starting with part handling.
-
-The Next Web • 2h ago
+IEEE Spectrum • 1d ago
 
 ---
 
-**[Parent donates $25,000 to Iron Mosquitoes robotics team at Northeast Range](https://www.wdio.com/top-stories/parent-donates-25000-to-iron-mosquitos-robotics-team-at-northeast-range/)**
+**[SoftBank acquires Marc Raibert’s Robotics and AI Institute](https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/)**
 
-A parent of a robotics team member donated $25,000 to the Iron Mosquitos out of Northeast Range.
+SoftBank acquired the Robotics and AI Institute from Hyundai Motor Group, reuniting with Boston Dynamics founder Marc Raibert.
 
-WDIO.com • 23h ago
-
----
-
-**[RoboSense Reports Third Quarter 2026 Unaudited Financial Results, with Robotics LiDAR Sales Volume Ranking No. 1 Globally](https://www.morningstar.com/news/pr-newswire/20261125cn06851/robosense-reports-third-quarter-2026-unaudited-financial-results-with-robotics-lidar-sales-volume-ranking-no-1-globally)**
-
-Morningstar • 15h ago
+The Robot Report • 2d ago
 
 ---
 
-**[Bumblebee-Sized Robot Uses Its Own "Brain" to Fly, Opening the Door to Advanced Robotics](https://www.discovermagazine.com/bumblebee-sized-robot-uses-its-own-brain-to-fly-opening-the-door-to-advanced-robotics-50003)**
+**[Eric Trump-backed robotics startup told all workers their health insurance is gone — ‘extremely unfortunate’ situation](https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robotics-startup-220000278.html)**
 
-Discover Magazine • 4h ago
+This news comes after CEO Sankaet Pathak reportedly borrowed $4.6 million from the company to buy a home in 2025.
+
+Yahoo Finance • 3d ago
+
+---
+
+**[The 9 absolute weirdest robots on planet Earth right now](https://www.sciencefocus.com/future-technology/weirdest-robots-in-the-world)**
+
+From underwater explorers to a demonic quadruped, our mechanical helpers are getting stranger
+
+BBC Science Focus Magazine • 3d ago
 
 ---
 
@@ -186,23 +186,33 @@ Discover Magazine • 4h ago
 
 ## YouTube Videos: "robotics"
 
-**[Lab says humanoid robot uses living human neurons to help think](https://www.youtube.com/watch?v=Y2jvWKAXhDg)**
-
-A San Francisco lab is showing off Iris, a humanoid robot with a mood informed by real, living human cells. The lab says the robot ...
-
-📺 NBC News
-
-👁️ 40K • 👍 295 • 💬 115 • ⏱️ 3:53 • 1d ago
-
----
-
 **[Why Robots Suck At Hands](https://www.youtube.com/watch?v=UlBFeDhGzx0)**
 
 Why do robots suck at using their hands? Humanoid robots have come really far over the past decade. They're doing backflips, ...
 
 📺 Cleo Abram
 
-👁️ 2.4M • 👍 128K • 💬 1K • ⏱️ 1:05 • 6d ago
+👁️ 2.4M • 👍 129K • 💬 1K • ⏱️ 1:05 • 6d ago
+
+---
+
+**[Meet Walker S3 — UBTECH’s new-generation humanoid robot.](https://www.youtube.com/watch?v=H_Wx7mvK_LM)**
+
+The world's first humanoid robot to rappel. Rappel. Sprint. Crawl. Vault. Move as one. Trained to take on new challenges, Walker ...
+
+📺 UBTECH Robotics
+
+👁️ 15K • 👍 245 • 💬 50 • ⏱️ 0:57 • 17h ago
+
+---
+
+**[Tesla&#39;s New Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=2FZhl5oo27o)**
+
+Tesla's new Optimus robot upgrade is much bigger than the viral robot clips suggest. Hidden images inside Tesla's own Android ...
+
+📺 Tyrone
+
+👁️ 71K • 👍 427 • 💬 12 • ⏱️ 27:54 • 4d ago
 
 ---
 
@@ -210,27 +220,7 @@ Why do robots suck at using their hands? Humanoid robots have come really far ov
 
 📺 Lazy Kitten
 
-👁️ 66K • 👍 1K • 💬 39 • ⏱️ 2:14 • 1d ago
-
----
-
-**[Wheat Can Bury You in 20 Seconds. So China Sent This #Robotics #AgTech #Automation #GrainStorage](https://www.youtube.com/watch?v=180eFaox9TA)**
-
-A 48-pound agricultural robot is taking over grain leveling inside China's wheat warehouses, one of the most dangerous jobs in ...
-
-📺 CDC: Creators ́ Club
-
-👁️ 105K • 👍 1K • 💬 25 • ⏱️ 1:15 • 1d ago
-
----
-
-**[Robots are the new apps (and you’re early)](https://www.youtube.com/watch?v=TXzJ4pGW59o)**
-
-I sit down with Adrien Gaidon, Co-founder and Chief Strategy Officer of Walden Robotics, to map out where the openings sit in ...
-
-📺 Greg Isenberg
-
-👁️ 26K • 👍 287 • 💬 23 • ⏱️ 49:07 • 3d ago
+👁️ 67K • 👍 1K • 💬 39 • ⏱️ 2:14 • 1d ago
 
 ---
 
@@ -240,17 +230,17 @@ Unboxing a 100k Robot from Agibot so it can do my job.
 
 📺 Insert Richie
 
-👁️ 832K • 👍 32K • 💬 539 • ⏱️ 2:04 • 3d ago
+👁️ 858K • 👍 32K • 💬 548 • ⏱️ 2:04 • 3d ago
 
 ---
 
-**[XPENG IRON Robot LIVE at AI Day 2026 – No Remote Control](https://www.youtube.com/watch?v=xooUABY15EU)**
+**[This British Robotic Snake Can Cut Through Steel With a Laser! 🤯🐍](https://www.youtube.com/watch?v=kfKrZybYQHU)**
 
-The next-generation XPENG IRON humanoid robot takes the stage at XPENG AI Day 2026, speaking English and interacting with ...
+Scientists developed an incredible snake-like robot that can navigate tight spaces and cut through thick steel using a powerful ...
 
-📺 DPCcars
+📺 Techie Sapien
 
-👁️ 8K • 👍 61 • 💬 5 • ⏱️ 53:33 • 1d ago
+👁️ 5K • 💬 2 • ⏱️ 0:07 • 1h ago
 
 ---
 
@@ -264,23 +254,33 @@ A humanoid robot taking on human dancers! AiMOGA's full-sized robot performs syn
 
 ---
 
-**[Everyone is Getting Humanoids Wrong](https://www.youtube.com/watch?v=ai1Gg0oeVTk)**
+**[My FIRST Programmable Humanoid Robot! | Noetix Boomy Full Test](https://www.youtube.com/watch?v=6cbdl5iDC1U)**
 
-Roomba brought robots into millions of homes, but never delivered the iPhone moment for home robotics. Matic thinks it can.
+I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot from @NoetixRobotics that walks on two legs and ...
 
-📺 MTS 
+📺 Eric’s Tech World
 
-👁️ 29K • 👍 74 • 💬 12 • ⏱️ 16:20 • 3d ago
+👁️ 26K • 👍 278 • 💬 42 • ⏱️ 13:13 • 4d ago
 
 ---
 
-**[weaponizing my robots for the apocalypse](https://www.youtube.com/watch?v=pTBe4_rMENo)**
+**[3D-Printed Robot Muscles?! The Wild Rise of Bionic Bots #technology #futuretech #robotics](https://www.youtube.com/watch?v=QMSpwvOttIc)**
 
-ai might takeover so I'm preparing instagram - https://www.instagram.com/muffinjuic/ 00:00 intro 01:02 assembling the army 10:42 ...
+Robots are ditching metal joints and growing muscles instead. The 3D-printed legs at the start are wild enough, but the second ...
 
-📺 MuffinJuice
+📺 Digital Species
 
-👁️ 1.5M • 👍 40K • 💬 3K • ⏱️ 15:00 • 6d ago
+👁️ 26K • 👍 745 • 💬 40 • ⏱️ 1:23 • 4d ago
+
+---
+
+**[Lab says humanoid robot uses living human neurons to help think](https://www.youtube.com/watch?v=Y2jvWKAXhDg)**
+
+A San Francisco lab is showing off Iris, a humanoid robot with a mood informed by real, living human cells. The lab says the robot ...
+
+📺 NBC News
+
+👁️ 42K • 👍 307 • 💬 116 • ⏱️ 3:53 • 2d ago
 
 ---
 
