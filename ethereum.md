@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-27T12:57:26.259545+00:00'
+updated: '2026-11-27T21:51:51.984804+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 27, 2026 at 12:57 UTC  
+**Last Updated:** November 27, 2026 at 21:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,719.49
+### $1,664.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +2.2%  
-**30d:** -23.5%  
-**90d:** -28.7%  
-**1y:** -43.1%  
+**24h:** -1.7%  
+**7d:** -1.2%  
+**30d:** -26.1%  
+**90d:** -31.2%  
+**1y:** -45.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $210.04B
+**Market Cap:** $203.50B
 Rank #2
 
 **Circulating Supply:** 122,256,647 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.3%
+-66.3%
 
 **All-Time Low:** $0.43
-+396649.0%
++384336.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-10d ago
+11d ago
 
 ---
 
@@ -156,13 +156,21 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography.
 
-ethereum.org • 2d ago
+ethereum.org • 3d ago
 
 ---
 
 **[Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know](https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know)**
 
-CoinDesk • 7h ago
+CoinDesk • 16h ago
+
+---
+
+**[Not A Bitcoin Believer? Bitmine Sells Ethereum At ~0.84X NAV (NYSE:BMNR)](https://seekingalpha.com/article/4972194-not-a-bitcoin-believer-bitmine-sells-ethereum-at-0-84x-nav)**
+
+Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -176,15 +184,23 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin, Ethereum, XRP, Dogecoin Steady on Thanksgiving: Top Analyst Says BTC Rebound to $100,000 Will Re](https://www.benzinga.com/crypto/cryptocurrency/26/11/63664704/bitcoin-ethereum-xrp-dogecoin-crypto-thanksgiving)**
 
-Benzinga • 10h ago
+Benzinga • 19h ago
 
 ---
 
-**[Not A Bitcoin Believer? Bitmine Sells Ethereum At ~0.84X NAV (NYSE:BMNR)](https://seekingalpha.com/article/4972194-not-a-bitcoin-believer-bitmine-sells-ethereum-at-0-84x-nav)**
+**[Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15](https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051)**
 
-Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked.
+Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegotá.
 
-Seeking Alpha • 1d ago
+The Block • 14h ago
+
+---
+
+**[Ethereum’s walkaway test: What is it and what does it mean for the long-term health of the network?](https://cryptobriefing.com/ethereums-walkaway-test-what-is-it-and-what-does-it-mean-for-the-long-term-health-of-the-network/)**
+
+Ethereum's walkaway test aims to ensure the network can remain secure, scalable and decentralized without ongoing intervention from devs.
+
+Crypto Briefing • 9h ago
 
 ---
 
@@ -192,33 +208,21 @@ Seeking Alpha • 1d ago
 
 Ethereum developers weigh how to deliver transaction censorship protections alongside work on quantum-resistant consensus.
 
-CryptoSlate • 6h ago
+CryptoSlate • 15h ago
 
 ---
 
-**[Ethereum’s Glamsterdam upgrade set for December 15 test on Hoodi](https://cryptobriefing.com/ethereum-glamsterdam-hoodi-testnet-december-15/)**
+**[Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing](https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing)**
 
-Ethereum's Glamsterdam upgrade hits the Hoodi testnet on December 15, with mainnet possible in January 2027 and Hegota quantum debate underway.
+The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats.
 
-Crypto Briefing • 8h ago
-
----
-
-**[Ethereum ETF Feels the Chill as $8.7 Million Exits Grayscale’s Mini Trust](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-feels-the-chill-as-8-7-million-exits-grayscales-mini-trust)**
-
-TipRanks • 1d ago
+Decrypt • 3d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum face brutal crash risk as key levels crack](https://www.thestreet.com/crypto/markets/bitcoin-xrp-ethereum-face-brutal-crash-risk-as-key-levels-crack)**
+**[0xAC33...531B4d](https://arkm.com/explorer/address/0xac33748aad09cea8e50484cc0fa168dc23531b4d)**
 
-TheStreet • 18h ago
-
----
-
-**[Bitcoin ETF Outflows Hit $453M Before Thanksgiving Pause](https://financefeeds.com/us-crypto-etf-trading-pauses-for-thanksgiving-after-521-5-million-in-bitcoin-and-ethereum-outflows/)**
-
-FinanceFeeds • 3h ago
+Arkham • 3d ago
 
 ---
 
@@ -226,13 +230,53 @@ FinanceFeeds • 3h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum to $40,000? Standard Chartered Reveals Its Bold Crypto Predictions for 2030](https://www.youtube.com/watch?v=FRT2PV_JZRg)**
+
+Standard Chartered's Geoffrey Kendrick explains why he believes Ethereum could reach $40000 by 2030 and outperform Bitcoin ...
+
+📺 Cointelegraph
+
+👁️ 7K • 👍 114 • 💬 34 • ⏱️ 5:13 • 6h ago
+
+---
+
+**[Raoul Pal Just Said The UNTHINKABLE About Ethereum &amp; Bitcoin! [Load Up Before December]](https://www.youtube.com/watch?v=Z8ISTt2Sul4)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 89 • 💬 41 • ⏱️ 25:02 • 5h ago
+
+---
+
+**[Ethereum: Last Line of Defense for the Bulls](https://www.youtube.com/watch?v=WwqTG5ydlek)**
+
+Ethereum is trying to bounce just above the important support from June. One more low in wave 1 cannot be ruled out, but the ...
+
+📺 More Crypto Online
+
+👁️ 468 • 👍 41 • 💬 1 • ⏱️ 6:42 • 2h ago
+
+---
+
 **[Ethereum Finally Turns Green: Is the Bounce Starting?](https://www.youtube.com/watch?v=-EPk04pdOrM)**
 
 Ethereum is showing green candles and the plan is unchanged: a wave 2 bounce in three waves toward the resistance at $1937 ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 117 • 💬 12 • ⏱️ 6:38 • 8h ago
+👁️ 5K • 👍 147 • 💬 14 • ⏱️ 6:38 • 17h ago
+
+---
+
+**[BITCOIN BREAKOUT PENDING: Time is Running Out!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MKIevaD1CMc)**
+
+BITCOIN BREAKOUT PENDING: Time is Running Out!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 285 • 💬 52 • ⏱️ 16:20 • 18h ago
 
 ---
 
@@ -242,17 +286,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 15K • 👍 269 • 💬 88 • ⏱️ 38:29 • 1d ago
-
----
-
-**[SHORT SQUEEZE SIGNALS FOR ETH! (Ethereum Price Prediction)](https://www.youtube.com/watch?v=HCm13o4FUMw)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 141 • 👍 7 • ⏱️ 5:04 • 3h ago
+👁️ 17K • 👍 288 • 💬 88 • ⏱️ 38:29 • 2d ago
 
 ---
 
@@ -262,7 +296,7 @@ Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals
 
 📺 Coin Bureau
 
-👁️ 47K • 👍 604 • 💬 29 • ⏱️ 24:26 • 22h ago
+👁️ 53K • 👍 662 • 💬 31 • ⏱️ 24:26 • 1d ago
 
 ---
 
@@ -272,7 +306,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 97 • 💬 8 • ⏱️ 25:35 • 1d ago
+👁️ 10K • 👍 98 • 💬 8 • ⏱️ 25:35 • 2d ago
+
+---
+
+**[SHORT SQUEEZE SIGNALS FOR ETH! (Ethereum Price Prediction)](https://www.youtube.com/watch?v=HCm13o4FUMw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
+
+📺 Cilinix Crypto
+
+👁️ 386 • 👍 10 • ⏱️ 5:04 • 12h ago
 
 ---
 
@@ -282,47 +326,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 186 • 💬 22 • ⏱️ 25:12 • 20h ago
-
----
-
-**[Roaul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=ceEI_dm2b8k)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 75K • 👍 806 • 💬 89 • ⏱️ 28:19 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=eZ2HgKBfKcE)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 get 10% discount on ...
-
-📺 Profit First
-
-👁️ 2K • 👍 81 • ⏱️ 6:11 • 9h ago
-
----
-
-**[Critical Warning From Santiment Regarding XRP, Bitcoin And Ethereum](https://www.youtube.com/watch?v=9gi_gAZwIuw)**
-
-Well everyone, its that time of the four year crypto cycle again, and I think that most people, similiar to the last 3 times this has ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 41K • 👍 3K • 💬 410 • ⏱️ 17:03 • 2d ago
-
----
-
-**[XRP and Ethereum Are Getting Crushed Because of Bitcoin. Why?](https://www.youtube.com/watch?v=1OGPpEy8gqE)**
-
-Why is XRP crashing? Why is Ethereum crashing? Why is Solana crashing? In the Bitcoin crash from October 23 to November 23, ...
-
-📺 Dana Love, PhD
-
-👁️ 15K • 👍 290 • 💬 31 • ⏱️ 20:50 • 2d ago
+👁️ 14K • 👍 209 • 💬 22 • ⏱️ 25:12 • 1d ago
 
 ---
 
