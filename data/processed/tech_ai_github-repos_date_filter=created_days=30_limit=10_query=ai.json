@@ -8,9 +8,9 @@
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "url": "https://github.com/heydamir/unslop",
       "preview_image": "https://opengraph.githubassets.com/2e19369f1c616da6622c8b971f339d5febe6ed41b9f04b0c64ca084a6de515b7/heydamir/unslop",
-      "stars": 22435,
-      "stars_display": "22.4k",
-      "forks": 1406,
+      "stars": 22621,
+      "stars_display": "22.6k",
+      "forks": 1422,
       "forks_display": "1.4k",
       "language": "JavaScript",
       "topics": [],
@@ -24,9 +24,9 @@
       "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u4e2a\u955c\u5934\u770b\u662f\u62cd\u7684\u3001AI \u751f\u6210\u7684\u8fd8\u662f\u4ee3\u7801\u505a\u7684\uff0c\u518d\u544a\u8bc9\u4f60\u600e\u4e48\u590d\u523b\uff1b\u62c6\u89e3\u7ed3\u679c\u6309 VIDEO.md \u683c\u5f0f\u8f93\u51fa\u3002",
       "url": "https://github.com/JuneYaooo/rea-video",
       "preview_image": "https://repository-images.githubusercontent.com/1438661890/d788df99-c663-416e-8859-67af82fb3eff",
-      "stars": 13856,
-      "stars_display": "13.9k",
-      "forks": 2009,
+      "stars": 13952,
+      "stars_display": "14.0k",
+      "forks": 2027,
       "forks_display": "2.0k",
       "language": "Python",
       "topics": [
@@ -46,9 +46,9 @@
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "url": "https://github.com/wangzan101/Mika",
       "preview_image": "https://opengraph.githubassets.com/4870ca74c240f7e90589b47bd38147c836923264feaea374f51fb823186477f9/wangzan101/Mika",
-      "stars": 10115,
+      "stars": 10134,
       "stars_display": "10.1k",
-      "forks": 2256,
+      "forks": 2258,
       "forks_display": "2.3k",
       "language": "Kotlin",
       "topics": [
@@ -58,7 +58,7 @@
         "automation",
         "jetpack-compose"
       ],
-      "updated_at": "2026-11-27T05:07:49Z"
+      "updated_at": "2026-11-27T18:34:33Z"
     },
     {
       "full_name": "mdiri-ai/SoduWork",
@@ -68,10 +68,10 @@
       "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
       "url": "https://github.com/mdiri-ai/SoduWork",
       "preview_image": "https://repository-images.githubusercontent.com/1437869585/5541cbb6-36b4-4663-8f15-b1366dbde74b",
-      "stars": 8558,
-      "stars_display": "8.6k",
-      "forks": 854,
-      "forks_display": "854",
+      "stars": 8745,
+      "stars_display": "8.7k",
+      "forks": 863,
+      "forks_display": "863",
       "language": "JavaScript",
       "topics": [
         "agent-harness",
@@ -90,10 +90,10 @@
       "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
       "url": "https://github.com/ersinkoc/phonebox",
       "preview_image": "https://opengraph.githubassets.com/8293c03a897c0b972e3ba3238895d6adceaece41e3cd8b5e6b53d228df8ff124/ersinkoc/phonebox",
-      "stars": 7499,
-      "stars_display": "7.5k",
-      "forks": 850,
-      "forks_display": "850",
+      "stars": 7647,
+      "stars_display": "7.6k",
+      "forks": 865,
+      "forks_display": "865",
       "language": "JavaScript",
       "topics": [
         "android",
@@ -102,7 +102,7 @@
         "dashboard",
         "desk-panel"
       ],
-      "updated_at": "2026-11-27T12:55:32Z"
+      "updated_at": "2026-11-27T21:46:50Z"
     },
     {
       "full_name": "simplexai-labs/linger",
@@ -112,10 +112,10 @@
       "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-design, so everyone can run their own.",
       "url": "https://github.com/simplexai-labs/linger",
       "preview_image": "https://repository-images.githubusercontent.com/1452175380/82670003-b765-410c-8566-9c1675720087",
-      "stars": 5023,
-      "stars_display": "5.0k",
-      "forks": 473,
-      "forks_display": "473",
+      "stars": 5098,
+      "stars_display": "5.1k",
+      "forks": 477,
+      "forks_display": "477",
       "language": "TypeScript",
       "topics": [
         "agent-teams",
@@ -124,7 +124,7 @@
         "personal-agent",
         "proactive-agent"
       ],
-      "updated_at": "2026-11-27T12:53:54Z"
+      "updated_at": "2026-11-27T20:19:02Z"
     },
     {
       "full_name": "XinaTian/MROffice",
@@ -134,10 +134,10 @@
       "description": "MR Office \u2014 the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
       "url": "https://github.com/XinaTian/MROffice",
       "preview_image": "https://repository-images.githubusercontent.com/1453006141/75f31f17-76f4-4edb-90b9-240933a16c0b",
-      "stars": 4851,
-      "stars_display": "4.9k",
-      "forks": 421,
-      "forks_display": "421",
+      "stars": 4997,
+      "stars_display": "5.0k",
+      "forks": 423,
+      "forks_display": "423",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -156,10 +156,10 @@
       "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "preview_image": "https://repository-images.githubusercontent.com/1453132706/97e29410-2cc5-4b5b-9223-bcec6ec9ca4a",
-      "stars": 3720,
+      "stars": 3746,
       "stars_display": "3.7k",
-      "forks": 331,
-      "forks_display": "331",
+      "forks": 332,
+      "forks_display": "332",
       "language": "TypeScript",
       "topics": [
         "ai-meeting-assistant",
@@ -168,7 +168,7 @@
         "granola-alternative",
         "linux"
       ],
-      "updated_at": "2026-11-27T04:08:01Z"
+      "updated_at": "2026-11-27T21:15:54Z"
     },
     {
       "full_name": "wquguru/cicada",
@@ -178,10 +178,10 @@
       "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
       "url": "https://github.com/wquguru/cicada",
       "preview_image": "https://opengraph.githubassets.com/2c1c30693cc1a765689b06dfcf05299341657f09b750e3456ecc67fdb79b4147/wquguru/cicada",
-      "stars": 3566,
+      "stars": 3607,
       "stars_display": "3.6k",
-      "forks": 567,
-      "forks_display": "567",
+      "forks": 571,
+      "forks_display": "571",
       "language": "Swift",
       "topics": [
         "android",
@@ -200,10 +200,10 @@
       "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
       "url": "https://github.com/sarpstar/cinecode",
       "preview_image": "https://opengraph.githubassets.com/c36fa3040a67b6bfae051c53f7a45d2e25bedcf3b33a3728b5683041a3af8ba9/sarpstar/cinecode",
-      "stars": 3102,
+      "stars": 3128,
       "stars_display": "3.1k",
-      "forks": 519,
-      "forks_display": "519",
+      "forks": 521,
+      "forks_display": "521",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-11-12T21:40:34Z"
@@ -213,6 +213,6 @@
   "search_query": "ai created:>2026-10-28",
   "days": 30,
   "limit": 10,
-  "total_count": 607374,
-  "fetched_at": "2026-11-27T12:56:54.698811+00:00"
+  "total_count": 615668,
+  "fetched_at": "2026-11-27T21:51:16.106344+00:00"
 }

@@ -103,18 +103,18 @@
       "site_name": "braiins.com"
     },
     {
-      "title": "Show HN: Nunya \u2013 A \"digital privacy screen\" that makes text illegible from afar",
-      "url": "https://usenunya.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50576552",
-      "author": "magicmarc",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-11-20T15:51:12Z",
-      "object_id": "50576552",
-      "image": "https://usenunya.com/assets/social-card.png",
-      "description": "Readable by you. Illegible over your shoulder. In Messages, in Chrome and in Potfolio.",
-      "favicon": "https://usenunya.com/assets/nunya-icon-180.png",
-      "site_name": "usenunya.com"
+      "title": "Carpool \u2013 cut LLM costs by batching tasks and compiling repeated calls into code",
+      "url": "https://github.com/nmayp/carpool",
+      "hn_url": "https://news.ycombinator.com/item?id=50666941",
+      "author": "nmayp",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-11-27T13:52:18Z",
+      "object_id": "50666941",
+      "image": "https://repository-images.githubusercontent.com/1474296393/20761fc6-f017-4140-88fa-17646e37879c",
+      "description": "About 80% cheaper per accepted answer than one call per task, zero regressions (measured). Claude Code skill, MCP server, Python library. - nmayp/carpool",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     },
     {
       "title": "Gnomon: Git for Postgres Data",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-11-27T12:56:55.958411+00:00"
+  "fetched_at": "2026-11-27T21:51:20.030169+00:00"
 }

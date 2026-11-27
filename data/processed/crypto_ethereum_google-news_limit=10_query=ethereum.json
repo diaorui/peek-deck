@@ -25,6 +25,16 @@
       "description": null
     },
     {
+      "headline": "Not A Bitcoin Believer? Bitmine Sells Ethereum At ~0.84X NAV (NYSE:BMNR)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDRZNHRJU2djY3dLVm1TYjdrZEtDZ0k1YkRhd1NQUDlwWGFWNjRFWFNGalMxeXRwUl9ZR0toc2FuUC1TTVZkNFRYbTNLbkJ0ci1LbWkyRFU5b3BWR3JQcXBBSlcxYktpYzBwdFRQM1hEYmxSSThwRnVKYkp3RWx0emVESzdEbVVOYTlvRzJvTlR2UDU4YTAtZ2swVzVUQ0l1?oc=5",
+      "pub_date": 1795694400.0,
+      "article_url": "https://seekingalpha.com/article/4972194-not-a-bitcoin-believer-bitmine-sells-ethereum-at-0-84x-nav",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/908436480/image_908436480.jpg?io=getty-c-og",
+      "description": "Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked."
+    },
+    {
       "headline": "Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -45,14 +55,24 @@
       "description": null
     },
     {
-      "headline": "Not A Bitcoin Believer? Bitmine Sells Ethereum At ~0.84X NAV (NYSE:BMNR)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDRZNHRJU2djY3dLVm1TYjdrZEtDZ0k1YkRhd1NQUDlwWGFWNjRFWFNGalMxeXRwUl9ZR0toc2FuUC1TTVZkNFRYbTNLbkJ0ci1LbWkyRFU5b3BWR3JQcXBBSlcxYktpYzBwdFRQM1hEYmxSSThwRnVKYkp3RWx0emVESzdEbVVOYTlvRzJvTlR2UDU4YTAtZ2swVzVUQ0l1?oc=5",
-      "pub_date": 1795694400.0,
-      "article_url": "https://seekingalpha.com/article/4972194-not-a-bitcoin-believer-bitmine-sells-ethereum-at-0-84x-nav",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/908436480/image_908436480.jpg?io=getty-c-og",
-      "description": "Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked."
+      "headline": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXAyVzlGczQydm1aZlZ0UEFrZndNeEdCYjA0aDRLUGVvck84T3hndmMwNGFVMnREZ2dZOU16NG5wdTczem0tVllaa1ZVdVFEbEJkMGJxdndSQWV5TlpTMmM3aE1DVGdQal92VHoyanlDS0w1LXBmMmxQWTlaaWZpclEwYVlpSDVnUW5vdk9IYXJ1Y2ZQXy1xRUZIREtDM0JrMDlCaVhPbTlnUQ?oc=5",
+      "pub_date": 1795765860.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ethereum-2-scaled-e1795764449268.jpg",
+      "description": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegot\u00e1."
+    },
+    {
+      "headline": "Ethereum\u2019s walkaway test: What is it and what does it mean for the long-term health of the network?",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkhUOWNNRVBieDk2VnZ5WmhFN3JtM2xhNTY0UERsc2Z4YllLVjZoa2tHaWFVMkxjRjZSOWdXMWZCUDNadWp1YkFvV2dRN1dJM1BEQWt3SV9DSmlzRTQyMzg1VzdVRmFkaFhpVXBwTkxySkh0T1lEOFc0Snl3SHhmTDBNWVhiNnJNRjJBWnNwZ1phQ0JiTTAzQmd4dnRFYWNuNHhOMlZrVmVVZ042TEJPcGxCRVpTelV4cmdienVjZGtQUQ?oc=5",
+      "pub_date": 1795782392.0,
+      "article_url": "https://cryptobriefing.com/ethereums-walkaway-test-what-is-it-and-what-does-it-mean-for-the-long-term-health-of-the-network/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/27072515/Ethereums-walkaway-test-686x457.png",
+      "description": "Ethereum's walkaway test aims to ensure the network can remain secure, scalable and decentralized without ongoing intervention from devs."
     },
     {
       "headline": "Ethereum\u2019s quantum defense plans could delay a major upgrade to stop transaction censorship",
@@ -65,46 +85,26 @@
       "description": "Ethereum developers weigh how to deliver transaction censorship protections alongside work on quantum-resistant consensus."
     },
     {
-      "headline": "Ethereum\u2019s Glamsterdam upgrade set for December 15 test on Hoodi",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NNm9QU25EY2d0eWlOVXAydmZkNzI5T1d1b2pFb25QNW1zTTFGbENyeHVIS2VCVHItNkExMFZsSnpNTWlvaDROUTBtdG9ya2RCVnpEaV9qbmtoUGJKLVk2OEFSeDg2c2xpdlQ1eTBsX2dvcU1JM21WTGpfR0ZBS3c?oc=5",
-      "pub_date": 1795753991.0,
-      "article_url": "https://cryptobriefing.com/ethereum-glamsterdam-hoodi-testnet-december-15/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/26233304/library-ethereum-s-glamsterdam-upgrade-set-for-december-15-test--800x450.jpg",
-      "description": "Ethereum's Glamsterdam upgrade hits the Hoodi testnet on December 15, with mainnet possible in January 2027 and Hegota quantum debate underway."
+      "headline": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3ZjR2lMSmpZNjN1eXFyUWJRZHBleHZRWUQ5MEcxSzEzM0wwZmNGMm1lMjU2VEpFbUpkNENQVUdCMGNMY0hXcjFXZnBEWWlWTXltU2Q2REJmdWRBeXNVdldZMDBsc293aXRYSUJaQ3NWR29NYk9rUmlOcjJwRndSMzNpQkRWQzdLWElDa3p3?oc=5",
+      "pub_date": 1795552562.0,
+      "article_url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png",
+      "description": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats."
     },
     {
-      "headline": "Ethereum ETF Feels the Chill as $8.7 Million Exits Grayscale\u2019s Mini Trust",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTJiX3hYSlg0YnhiQzJWdE1kRXBDeU84Q0UtNjdSeXNaZmRSdE1BSW8wVUxIMWE3czFhcnFtVWNsQ244amxZS2xaeUhCMDlZTWliNVBQMDFJdlFoSm94MzdhUGtWdjMwa3FXbWFGWVowV3ZEajU3OUdJWklWQksxdk5zNlAxTTQ4Nk9wU3owV2xyQWhiZl8tY04yMC1ieWZrQ2dNSzNMS1daU04yUE9kamZpdFNDQjhMcnc?oc=5",
-      "pub_date": 1795687460.0,
-      "article_url": "https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-feels-the-chill-as-8-7-million-exits-grayscales-mini-trust",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin, XRP, Ethereum face brutal crash risk as key levels crack",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa19SeWZ3Z3JuaVFJaElZMVZCNVRseHhrNWFDTllCRVRYaXE0eDg5cU1ZVW1UNWlfTkFsZTNZT1NyMllLSUJkTE5tMlY4ZWtLSFlzbnBIcjZTUHNmZFdwWnFpMVJ6R2RqbUp0eF9XZWdkbjdVZHdia2hZSXc3NjFSWEhpZUM0OVBHVEtURy05bE9KMl8zalR1T2tqOXBoa3Q2Rnp2YjIwSQ?oc=5",
-      "pub_date": 1795716000.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/bitcoin-xrp-ethereum-face-brutal-crash-risk-as-key-levels-crack",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin ETF Outflows Hit $453M Before Thanksgiving Pause",
-      "source": "FinanceFeeds",
-      "source_url": "https://financefeeds.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVC1ZbW8yOHdiSmpfQl9DWVRCTnlfUVpMME9sLUM2eENEaXdBdFV3T1Ruc3c0c3VtT0lyWVFEdmlhSGRhNFVGc0tJSFd6OWhSd2dDVXZ4bW4zeUViWlJVeGJTOVlLNmVFakhCTWN0MndUSGlBZW9DZmE0bGtHRW04MHJQTlFhalU2UGowRmM2a1RzY2RCdTdaSTBSVVMxcmJERGM4UEFjR1d5WWhnOUNlYkdZS0NyLWc1MXdybnFqVkMtZw?oc=5",
-      "pub_date": 1795770127.0,
-      "article_url": "https://financefeeds.com/us-crypto-etf-trading-pauses-for-thanksgiving-after-521-5-million-in-bitcoin-and-ethereum-outflows/",
+      "headline": "0xAC33...531B4d",
+      "source": "Arkham",
+      "source_url": "https://arkm.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdThXLTQtbjRSRTdGMnZ4UVZoY1RFM0dxNUQ0Wk1IR0w1OEM0MFBpU0xlMnpLYlRWQmJMcmlLZmlHQ2gtZVhPZGs1R2FVVTNvTjE3SEVMcmkxLXNleFVPODBVdWJOYVlIZU9BSVBTOS1uVW9yajhhRnRpWDQ2eTB4TURR?oc=5",
+      "pub_date": 1795518633.0,
+      "article_url": "https://arkm.com/explorer/address/0xac33748aad09cea8e50484cc0fa168dc23531b4d",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-27T12:57:23.430942+00:00"
+  "fetched_at": "2026-11-27T21:51:37.916574+00:00"
 }

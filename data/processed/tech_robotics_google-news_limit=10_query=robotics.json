@@ -15,6 +15,16 @@
       "description": null
     },
     {
+      "headline": "Humanoid robots are coming\u2014sooner than you think",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVcwd25vNlVhVThFSlJUVHRacFpnZzgtbElYaExPOGt4cHA3SEFCWE9XcmZMVUJCWDNhNi0ycDdOWTV5ajU4N0J3akZzTGVqR3NDZmQyQ1h5UGptRnItcGxWOXdNQ3o2eHEzRzVBc2QxREdPV3Yxclc3Qkt0MXVEc1MyUk9GSzY2U25GSU0xcmhuZy1XWEx2Znpn?oc=5",
+      "pub_date": 1795690118.0,
+      "article_url": "https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -45,66 +55,56 @@
       "description": null
     },
     {
-      "headline": "Humble Robotics wants to reinvent trucking",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1V0SHNpSVRDcmh6WFd0LVdtVTd4YWlqZEtVcTNfdVJwX2VTOTFXWlRjX0VVYU90cl82dWNjUVNaQUtOX1ExdXFzUmhabjF0bmN6blNkT3JMcGxGLTE4S1R5dVNtOW83S053UjIxQ1ByZXQxRzZqVFJJTVNXRWZ0UHo5NTFPSHlrdV9jM0NB?oc=5",
-      "pub_date": 1795626306.0,
-      "article_url": "https://www.axios.com/2026/11/25/humble-robotics-autonomous-trucking-containers-ports",
+      "headline": "Volvo tests humanoid robots at Belgium plant ahead of 2027 rollout",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNi1NQzhlT0lqZ1ZFZHhYRFd3bmZRQ1UxS0tFNmRxQ19pU1UzTEpiR1ZFTW81cGU4U0Y5Q3JVc1lKLXdsd0Y0Mk1XY1Y4RWdvazJuc0o2RWxFT1Z1YXZySHA4YjdFamRTMGpoeEhCTXB5dDlPTzNJbFkwd3JDaENlbFlwaEEzMnR0cm5nOHV1eDFfX3BZVFczbHN4d0gzZFNIRGdmdXNqaUtjT3dtYU12MW5LN1l2UG1BNFRGRzUzV3Y3THRn?oc=5",
+      "pub_date": 1795749060.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/volvo-trains-humanoid-robots-to-handle-factory-tasks-targets-production-in-2027",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-38.jpg",
+      "description": "Volvo is training Hexagon's AEON humanoid robots at its Ghent factory, with a production rollout targeted for mid-2027."
+    },
+    {
+      "headline": "45 humanoid robots process up to 1,200 parcels an hour in postal logistics trial",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmFlYXBMUnNxX1ZycThnWkxpXzJnMlBaWHpmc0UtTTEzS3pPU1AzUXQ3SklPOEJRNWx5MThhUWxxZDF1SHB2MFRzRTZLeXpmY2thWWN1ODdNUmlmM1V3bUNNTDlVY0N5Tldja2JoVWwzS2EtSzFWblFkSUt1NkozSEtUeGVPMWFubWVN?oc=5",
+      "pub_date": 1795771920.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-postal-trial",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-4-8.jpg",
+      "description": "China Post deploys 45 ROBOTERA humanoids to automate parcel handling in a large-scale logistics trial."
+    },
+    {
+      "headline": "With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORi1McEY4Z0s0WFpoM1JMenFlX1hiejdjbExuMkwyNlI4cWljR0V2V2pkcEV0NDRZYXM4Rzd2TFJjRnBJLW8tcWI5S0ZSX3lUcEpkaWs3X2J0MFpCd3BXZ2FZSm03WGV0WVlOdE8xSDhhR3R1Wk4ySGhaRkRPMk9mdm5XSV85QklC?oc=5",
+      "pub_date": 1795802479.0,
+      "article_url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Robotic exoskeleton helps boy, 7, take first steps",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa05DaEx2UnhGMjlRS1FsdVVtU2lYLW9Gcm1zQTVudFh2ZXZZbnFoYVQ3T3psNk40bnVBcmNRTlJLQ3U0dm1jWW5aVjlVTU91aFFtWHlPRDBzUzl4V0ZxS0tjRjFVVUp4YUhJbVFwRi14UXdsbnJ4dGxJYjNwRGlYY3Q0eW12MHBHaW9TeFFFUVkyWnJy?oc=5",
-      "pub_date": 1795781373.0,
-      "article_url": "https://www.yahoo.com/news/science/articles/robotic-exoskeleton-helps-boy-7-120933594.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2afcefaa447c37c214854d8bb7ecd3ab151101db722fdf2130cb2f6a8a4b3d94/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png_up.jpg",
+      "headline": "Robotic exoskeleton helps Shrewsbury seven-year-old take first steps",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WMDB2dExfbTEyUzNaMlc1dE1lWGhJT0lwS1M3ZXNzVTQtcm5fMzFaZEdubUVHSDc2UXc4cFhiMUpnMkI1cExJNG82eHo5eEtnZGJKLVVEOE1jZUU?oc=5",
+      "pub_date": 1795781367.0,
+      "article_url": "https://www.bbc.com/news/articles/c6m2517m8804o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ef8e/live/f0735810-e9a6-11f1-b880-15b494ba858d.jpg",
       "description": "Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says."
     },
     {
-      "headline": "Samsung Roadmap Reportedly Puts Unmanned Vehicles, Self-Driving Robots And Robotic Arms Inside Its Chip Fabs By 2028, Covering Equipment Maintenance And Production Line Work",
-      "source": "Wccftech",
-      "source_url": "https://wccftech.com",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxORUUxZDRyMlhvT2ZIZjJ0MmtDTFV4TzZTT1U4TGhreE80N1dfVndyODVGd0U3NDRhTEpoRUFBZkt0akVLWE1aSHFyUEgweFhiQjZKUDFaM3RXUDAzOUx1UUw1Mmt1MTVIX0g1Y0Z6SUlmdHZJem9hYzVvMmZBMk9iaTJHMzFwY1JPNTh0bEpETlFDa2N4RjJxWHV6Q2pNOXEzd3RmUDJ2NWEzRkpyRkxiSHBWbnVuMHJzSldEWDBIZzdrekhuMkxNNE00MkxwSGhvVUlHQ2pwTjJkNElBeHJVYjVvMDRLY2VfTk1nRXREVG4wNTdHY1lXNC1RRjM0ZlhINTkwOThBdU5JOWhqSnUycDdhYzRmSmhFekg1OC1n0gGjAkFVX3lxTE5BV29ObmRfWGxMODJtajNXRVIzQkQyclNZMlpsRkQzTFppejQ0QmE1XzA1UEtHMFpFcUt3ZzJxWDRCVHFMeW1iYTJaVnhsSXV6cko0cmxyOFpVdVhlZTFoNm1XS2wybTA3Q2RPaUVFM3pKVEJMUHkyeVlZV0ptRFEyWWlFSkN0ODJ6N2ZkMUZyRzBtampmWmd1TXpvWWZBZlB3aE1WNFZDVEVwSHZCTmkycDBVV1ROcFFWdW5meUdLUDFBb1Bqa1FzaVNnZmZfa2ctVEFyeDlUb2JxSzBqOFFQaHF5aDJGN2p3SEFrR0JkNEwwQno4dzRfVm00WlJWMFp4YmFJczFqS3RmUTFfSlUyM29uTFg2UEVpQXk4SFA2WngtMA?oc=5",
-      "pub_date": 1795716518.0,
-      "article_url": null,
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China debuts autonomous excavator robot with 540-degree 3D vision, centimeter precision",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGZFZ1ZjaDdTQlcyWDhrbnpkN2JmNTZaaEVTbW5BY0IyODQ5VENoX3B3aHh0UkEtUkhRRldmZnJhYWJrY0dWeUsxTW1UQ0xYSDhsenNtOVNqTjRqXzlhOWROdUlsS1FuNWVPYy1hUUNka2FqS2tpcDk0QUlYQ2ZKQkd2Snd6ZGVTcGh1OWJfWkkxUQ?oc=5",
-      "pub_date": 1795751400.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/china-autonomous-excavator-robot-zoomlion",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-37.jpg",
-      "description": "Zoomlion unveils an autonomous excavator that uses embodied intelligence to align pipes, automate loading, and perform construction tasks."
-    },
-    {
-      "headline": "DPVR Introduces EduRobo VR Kit for Classroom Robotics",
-      "source": "The Des Moines Register",
-      "source_url": "https://www.desmoinesregister.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZvRmFxMGE1bnRfNVpRSDZiLUotQlhPanNYcTM2TzBwZllXaXJaaG9teHFRa0Z5SHBTd1lZN1d2SXYwdTl6aHlrMnRKRHZpMU9OY3c0dGQ0RXp3anY3NEY2d1g2M0ZJVmQzUnc5bnB4emNNR0tnUW45aHZremE5cWxNVzl2clg0MVBrWVN4NnZuTWFjQndyNHhqVzh3UGFWUnh2M1RyajFDeGtIX2VYd0x2eWZQdw?oc=5",
-      "pub_date": 1795766763.0,
-      "article_url": "https://www.desmoinesregister.com/press-release/story/158655/dpvr-introduces-edurobo-vr-kit-for-classroom-robotics/",
-      "image": "https://pix.xpr.media/p/eyJzIjoiZjk4ZTU3NDUtMDJiYi00NWM2LTk4M2MtNzMzM2E2YjI2NTkyIiwiYyI6IjFjODFlN2M1LWNhNzgtNDI0ZS04YmYyLTI2MGI5MDY0MzAzOSIsInYiOjF9.HoTWTuUWHPavZQl8-EtQ73gSMGtXoZensd27RaJIojo.gif",
-      "description": "The single-arm kit connects E4 motion tracking with a real robotic arm, supporting teacher-designed lessons and"
-    },
-    {
-      "headline": "Bumblebee-Sized Robot Uses Its Own \"Brain\" to Fly, Opening the Door to Advanced Robotics",
-      "source": "Discover Magazine",
-      "source_url": "https://www.discovermagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX0ZmaWhOTzBrRVd1TUI0bm1sNzRjZjVnSGhSQ1ZveVYwa2pfSWU3SklVRXoyWWdRVnlxVDFfYWlIbzN1Z2kxRGsySXA1ekplaDhORWJCak5lSXRiajMxTG9pVUF2NV9kV3VkRDc3VTk4Zkg5Zk5EdHJXMDZiamxzWmJ6NjFGMmlzRFVpMmpUc1M0enV0SXJ4NFhCc2xrQWI5bUd0eGVIVkozX2lLU1hLV29sVVVEd0RNY2JDWHllbktyUQ?oc=5",
-      "pub_date": 1795709056.0,
-      "article_url": "https://www.discovermagazine.com/bumblebee-sized-robot-uses-its-own-brain-to-fly-opening-the-door-to-advanced-robotics-50003",
-      "image": null,
-      "description": null
+      "headline": "Qualcomm, Cava, and Dutch Bros Earnings and a Robotics IPO",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVlJaVZ1VVlld0t4bEs2djlsSUItWlVYTktEcVRqWnFneml2OEx4YkQ4ZHR6OGlFZWlsX09zSTRMRUVSVnhXUGZteHRqNHk1cUVDN0h6dm42WlZGM0Y2NTJaOU1LRVh1bW51YWRCeVNTU3lmdVpQUERHd2ZIQWlYdXVGVmZNaS1TdGFHMXRzVlY0Yk1SMk9xTnN3UHYxcldJ?oc=5",
+      "pub_date": 1795801562.0,
+      "article_url": "https://www.fool.com/investing/2026/11/27/qualcomm-cava-and-dutch-bros-earnings-and-a-robotics-ipo/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fca6c7b42ba9b6aa04e214b2c0bb65625ef990afd-1280x720.jpg&w=1200&op=resize",
+      "description": "Knowing how to control one\u2019s emotions can be just as important as picking the right stocks. Plus, Qualcomm, Cava, and Dutch Bros earnings and a first look at robotics stock Agility Robotics."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-27T12:57:23.923439+00:00"
+  "fetched_at": "2026-11-27T21:51:48.246870+00:00"
 }

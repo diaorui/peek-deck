@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-11-27T21:51:23.060433+00:00",
+  "data": {
+    "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+    "description": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks.",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+    "favicon": "https://the-decoder.com/resources/favicons/apple-touch-icon-60x60.png?v=3",
+    "site_name": "The Decoder",
+    "author": "Maximilian Schreiner",
+    "keywords": null
+  }
+}
