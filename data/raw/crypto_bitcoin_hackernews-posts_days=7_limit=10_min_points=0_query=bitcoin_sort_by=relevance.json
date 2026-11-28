@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "Bitcoin falls to its lowest in two years",
-      "url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/",
-      "hn_url": "https://news.ycombinator.com/item?id=50588272",
-      "author": "geox",
-      "points": 16,
-      "num_comments": 4,
-      "created_at": "2026-11-21T11:51:42Z",
-      "object_id": "50588272",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "reuters.com"
-    },
-    {
       "title": "Gemini 4 Neon solves Bitcoin puzzle from 2024",
       "url": "https://echo.ls/zden-level-halv/",
       "hn_url": "https://news.ycombinator.com/item?id=50592648",
@@ -75,20 +61,6 @@
       "site_name": "Bitcoin Core"
     },
     {
-      "title": "Microtonal BitcoinCash Transaction Sonifier and Visualizer",
-      "url": "https://spiritsofbitcoin.cash/",
-      "hn_url": "https://news.ycombinator.com/item?id=50587507",
-      "author": "jlmoriart",
-      "points": 1,
-      "num_comments": 1,
-      "created_at": "2026-11-21T09:25:06Z",
-      "object_id": "50587507",
-      "image": null,
-      "description": "The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.",
-      "favicon": "https://spiritsofbitcoin.cash/icons/apple-touch-icon.png",
-      "site_name": "spiritsofbitcoin.cash"
-    },
-    {
       "title": "Bitcoin Hashrate Hijacking Detected on Stratum V1",
       "url": "https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1",
       "hn_url": "https://news.ycombinator.com/item?id=50655352",
@@ -101,51 +73,9 @@
       "description": "In November, an attacker rerouted internet traffic to redirect bitcoin miners on unencrypted Stratum V1 connections to an imposter pool. The attack didn\u2019t breach Braiins Pool or the miners\u2019 infrastructure. It didn\u2019t need to. Here is the data, what it means for mining, and how to secure your miners today.",
       "favicon": "https://cdn.prod.website-files.com/5e5ee6f9b325a6509259421f/5f8438e2c6be0ee267da273e_II%20logo%402x.png",
       "site_name": "braiins.com"
-    },
-    {
-      "title": "Carpool \u2013 cut LLM costs by batching tasks and compiling repeated calls into code",
-      "url": "https://github.com/nmayp/carpool",
-      "hn_url": "https://news.ycombinator.com/item?id=50666941",
-      "author": "nmayp",
-      "points": 2,
-      "num_comments": 1,
-      "created_at": "2026-11-27T13:52:18Z",
-      "object_id": "50666941",
-      "image": "https://repository-images.githubusercontent.com/1474296393/20761fc6-f017-4140-88fa-17646e37879c",
-      "description": "About 80% cheaper per accepted answer than one call per task, zero regressions (measured). Claude Code skill, MCP server, Python library. - nmayp/carpool",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
-      "title": "Gnomon: Git for Postgres Data",
-      "url": "https://gnomon.bitsinfra.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=50611613",
-      "author": "lucasluitjes",
-      "points": 40,
-      "num_comments": 6,
-      "created_at": "2026-11-23T14:03:38Z",
-      "object_id": "50611613",
-      "image": null,
-      "description": "Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.",
-      "favicon": "https://gnomon.bitsinfra.com/gnomon.svg",
-      "site_name": "gnomon.bitsinfra.com"
-    },
-    {
-      "title": "Buster the hamster home safe after hitching ride in Halloween pumpkin",
-      "url": "https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959",
-      "hn_url": "https://news.ycombinator.com/item?id=50660542",
-      "author": "madihaa",
-      "points": 6,
-      "num_comments": 1,
-      "created_at": "2026-11-26T22:30:06Z",
-      "object_id": "50660542",
-      "image": "https://i.cbc.ca/ais/71842113-5276-4f71-b45f-9614d71a77ce,1795634942425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C306%2C684%2C384%29%3BResize%3D620",
-      "description": "An adventurous hamster named Buster is back home in Arnprior, Ont., three weeks after hitching a ride inside a discarded Halloween pumpkin and ending up on a farm about 20 kilometres away.",
-      "favicon": "https://www.cbc.ca/a/apple-touch-icon.png",
-      "site_name": "CBC"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-11-28T03:44:05.262277+00:00"
+  "fetched_at": "2026-11-28T12:44:42.477480+00:00"
 }

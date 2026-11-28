@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-28T03:44:58.936860+00:00'
+updated: '2026-11-28T12:45:18.110870+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 28, 2026 at 03:44 UTC  
+**Last Updated:** November 28, 2026 at 12:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,950.37
+### $59,208.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** -2.1%  
-**30d:** -22.5%  
-**90d:** -23.7%  
-**1y:** -34.0%  
+**24h:** -3.7%  
+**7d:** -3.3%  
+**30d:** -23.5%  
+**90d:** -24.6%  
+**1y:** -34.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1205.29B
+**Market Cap:** $1190.53B
 Rank #1
 
 **Circulating Supply:** 20,117,925 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--52.5%
+-53.1%
 
 **All-Time Low:** $67.81
-+88251.3%
++87170.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 12
+### 10
 **EXTREME FEAR**
 
 ---
@@ -117,7 +117,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 **[It's so over guys!!!](https://www.reddit.com/r/Bitcoin/comments/1xwnz3q/its_so_over_guys/)**
 
-12d ago
+13d ago
 
 ---
 
@@ -155,33 +155,23 @@ What is going on with Bitcoin today?
 
 ## Google News: "bitcoin"
 
-**[A 'death cross' in the bitcoin (BTC) price is coming: Crypto Daily](https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13)**
-
-CoinDesk • 15h ago
-
----
-
 **[4 Scary Bitcoin Charts That Suggest This Bear Market Is Different](https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market)**
 
 Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels. Here's what it means.
 
-Decrypt • 7h ago
+Decrypt • 16h ago
 
 ---
 
-**[Veteran economist says Bitcoin holders have little to brag about this Thanksgiving](https://finance.yahoo.com/markets/crypto/articles/veteran-economist-says-bitcoin-holders-003000524.html)**
+**[A 'death cross' in the bitcoin (BTC) price is coming: Crypto Daily](https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13)**
 
-Peter Schiff pokes at HODLers as Bitcoin trades about a third lower than a year ago.
-
-Yahoo Finance • 3h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Home Bitcoin miner turns $299 machine into $187,000 jackpot](https://finance.yahoo.com/markets/crypto/articles/home-bitcoin-miner-turns-299-230000624.html)**
+**[Bitcoin Bounces as Optimism Returns to Markets After Holiday](https://www.bloomberg.com/news/articles/2026-11-27/bitcoin-bounces-as-optimism-returns-to-markets-after-holiday)**
 
-A solo Bitcoin miner wins a $187,000 reward in a rare instance.
-
-Yahoo Finance • 4h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -189,57 +179,59 @@ Yahoo Finance • 4h ago
 
 Wallets linked to Abraxas Capital withdrew 21,520 bitcoin worth about $1.285 billion from exchanges over the past week, according to Lookonchain.
 
-Bitbo • 14h ago
+Bitbo • 23h ago
 
 ---
 
-**[Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock?](https://www.fool.com/investing/2026/11/27/strategy-just-bought-bitcoin-for-the-4th-straight-week-so-why-aren-t-crypto-investors-bullish-on-mstr-stock/)**
+**[Bitcoin Reserve bill advances; ETF outflows top $5.3B](https://finance.yahoo.com/video/bitcoin-reserve-bill-advances-etf-outflows-top-53b-151524584.html)**
 
-Strategy's latest buying streak might not be enough to turn things around for its stock.
+The Strategic Bitcoin Reserve bill is finally headed to the House floor. On this episode of The Daily Wolf, host Scott Melker breaks down the odds of new U.S. crypto legislation passing.
 
-The Motley Fool • 14h ago
-
----
-
-**[JPMorgan says bitcoin 'capitulation' signaled by Strategy's record-low NAV multiple](https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007)**
-
-JPMorgan said Strategy's NAV multiple has fallen to around 0.88x, below the previous low seen in late June.
-
-The Block • 1d ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock?](https://finance.yahoo.com/markets/crypto/articles/strategy-just-bought-bitcoin-4th-140312177.html)**
+**[Bill to lock up U.S. government bitcoin for 20 years advances to full House](https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house)**
 
-Strategy's latest buying streak might not be enough to turn things around for its stock.
-
-Yahoo Finance • 13h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Miners Hammered Again as Price Rout Squeezes Margins](https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins)**
+**[House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage](https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778)**
 
-Bloomberg.com • 2d ago
+The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for a House floor vote, Senate consideration, and final passage before the session ends.
+
+The Block • 2d ago
 
 ---
 
-**[AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33](https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549)**
+**[CryptoQuant says bitcoin price recovery needs USDT supply growth](https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560)**
 
-K33 analysts said even a mathematically efficient algorithm might take too long to recover a Bitcoin private key in practice.
+Bitcoin's price can recover briefly even when USDT supply is falling, but a lasting recovery needs supply to grow again, CryptoQuant said.
 
-The Block • 13h ago
+The Block • 18h ago
+
+---
+
+**[BlackRock Bitcoin ETF Loses $2.8 Billion in Eight Consecutive Trading Sessions](https://www.tradingview.com/news/newsbtc:cf85ea93c094b:0-blackrock-bitcoin-etf-loses-2-8-billion-in-eight-consecutive-trading-sessions/)**
+
+Key takeawaysThe BlackRock Bitcoin ETF has recorded nearly $2.8 billion in net withdrawals across eight consecutive trading sessions, accounting for approximately 81% of the capital leaving US spot Bitcoin ETFs over the period.The latest figures from Farside Investors show that US spot Bitcoin ETFs…
+
+TradingView • 3h ago
+
+---
+
+**[Silver’s hammer catches my eye as Bitcoin approaches $61,600](https://www.kitco.com/opinion/2026-11-27/silvers-hammer-catches-my-eye-bitcoin-approaches-61600)**
+
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position:…
+
+Kitco • 21h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Bitcoin falls to its lowest in two years](https://news.ycombinator.com/item?id=50588272)**
-
-⬆️ 16 • 💬 4 • 6d ago • [reuters.com](https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/)
-
----
 
 **[Gemini 4 Neon solves Bitcoin puzzle from 2024](https://news.ycombinator.com/item?id=50592648)**
 
@@ -273,43 +265,11 @@ CVE-2026-117348 - Node stall through duplicate orphan announcements
 
 ---
 
-**[Microtonal BitcoinCash Transaction Sonifier and Visualizer](https://news.ycombinator.com/item?id=50587507)**
-
-The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.
-
-⬆️ 1 • 💬 1 • 6d ago • [spiritsofbitcoin.cash](https://spiritsofbitcoin.cash/)
-
----
-
 **[Bitcoin Hashrate Hijacking Detected on Stratum V1](https://news.ycombinator.com/item?id=50655352)**
 
 In November, an attacker rerouted internet traffic to redirect bitcoin miners on unencrypted Stratum V1 connections to an imposter pool. The attack didn’t breach Braiins Pool or the miners’ infrastructure. It didn’t need to. Here is the data, what it means for mining, and how to secure your miners today.
 
 ⬆️ 1 • 💬 0 • 1d ago • [braiins.com](https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1)
-
----
-
-**[Carpool – cut LLM costs by batching tasks and compiling repeated calls into code](https://news.ycombinator.com/item?id=50666941)**
-
-About 80% cheaper per accepted answer than one call per task, zero regressions (measured). Claude Code skill, MCP server, Python library. - nmayp/carpool
-
-⬆️ 2 • 💬 1 • 13h ago • [GitHub](https://github.com/nmayp/carpool)
-
----
-
-**[Gnomon: Git for Postgres Data](https://news.ycombinator.com/item?id=50611613)**
-
-Git for Postgres data, built for agents: branches, history, merges and undo inside PostgreSQL.
-
-⬆️ 40 • 💬 6 • 4d ago • [gnomon.bitsinfra.com](https://gnomon.bitsinfra.com/)
-
----
-
-**[Buster the hamster home safe after hitching ride in Halloween pumpkin](https://news.ycombinator.com/item?id=50660542)**
-
-An adventurous hamster named Buster is back home in Arnprior, Ont., three weeks after hitching a ride inside a discarded Halloween pumpkin and ending up on a farm about 20 kilometres away.
-
-⬆️ 6 • 💬 1 • 1d ago • [CBC](https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959)
 
 ---
 
@@ -323,7 +283,7 @@ Bitcoin ETFs just set a record for money pulled out in a single month, and Novem
 
 📺 Yahoo Finance
 
-👁️ 16K • 👍 285 • 💬 88 • ⏱️ 14:53 • 9h ago
+👁️ 20K • 👍 327 • 💬 108 • ⏱️ 14:53 • 18h ago
 
 ---
 
@@ -333,17 +293,7 @@ Is this the worst Bitcoin bear market ever, or has something deeper than the Bit
 
 📺 Simply Bitcoin
 
-👁️ 68K • 👍 2K • 💬 254 • ⏱️ 15:29 • 1d ago
-
----
-
-**[The Truth About Bitcoins Crash No One Wants To Admit....](https://www.youtube.com/watch?v=cDxCpPoOH4Q)**
-
-Bitcoin bounced at $55k. But this is why that bounce may not hold. Sign up for Market Cipher & Level Up Your Trading!
-
-📺 Crypto Jebb
-
-👁️ 7K • 👍 197 • 💬 43 • ⏱️ 11:33 • 8h ago
+👁️ 73K • 👍 2K • 💬 263 • ⏱️ 15:29 • 1d ago
 
 ---
 
@@ -353,7 +303,7 @@ Into The Cryptoverse Premium BLACK Friday Sale (use discount code blackfriday fo
 
 📺 Benjamin Cowen
 
-👁️ 117K • 👍 4K • 💬 161 • ⏱️ 18:43 • 10h ago
+👁️ 155K • 👍 5K • 💬 190 • ⏱️ 18:43 • 19h ago
 
 ---
 
@@ -363,35 +313,17 @@ Unlock 15% Deposit Bonus (plus VIP 5 for 3 months) as a new user on BTCC: ...
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 523 • 💬 28 • ⏱️ 9:40 • 3h ago
+👁️ 37K • 👍 1K • 💬 40 • ⏱️ 9:40 • 12h ago
 
 ---
 
-**[BITCOIN: NOOOOOW !!!!!!](https://www.youtube.com/watch?v=4fUdZ3xZlJI)**
+**[I&#39;ve Studied Bitcoin for 5 Years. This Is the Moment I Wait For](https://www.youtube.com/watch?v=3kw8R_AmD1g)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXanthropic Deposit ...
+When Bitcoin broke below $60K and fear took over the timeline, George "Jethro" Bodine did what he's done in every bear market: ...
 
-📺 The Moon Show
+📺 BTCPrague
 
-👁️ 13K • 👍 420 • 💬 98 • ⏱️ 4:48 • 17h ago
-
----
-
-**[BITCOIN: I JUST LOST $10 MILLION [but here is my new Trade]](https://www.youtube.com/watch?v=370LfsGPJyI)**
-
-📺 MMCrypto
-
-👁️ 43K • 👍 2K • 💬 290 • ⏱️ 4:03 • 19h ago
-
----
-
-**[Bitcoin Just Passed Its BIGGEST Test In Months](https://www.youtube.com/watch?v=4AvI_X2TZ6s)**
-
-Bitcoin is testing a level that could decide whether the bear market ends or gets worse, as record ETF outflows split Wall Street on ...
-
-📺 The Wolf Of All Streets
-
-👁️ 19K • 👍 528 • 💬 40 • ⏱️ 39:03 • 13h ago
+👁️ 2K • 👍 109 • 💬 36 • ⏱️ 17:05 • 3h ago
 
 ---
 
@@ -401,17 +333,47 @@ APPLY TO JOIN MY COMMUNITY. https://go.didi-freedom-academy.com/yt-ng1ZiAMLuIY F
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 17K • 👍 724 • 💬 74 • ⏱️ 16:11 • 21h ago
+👁️ 18K • 👍 759 • 💬 21 • ⏱️ 16:11 • 1d ago
 
 ---
 
-**[Should You Buy Bitcoin Now?](https://www.youtube.com/watch?v=-df41qOdGK4)**
+**[🚨THIS IS DANGEROUS FOR BITCOIN](https://www.youtube.com/watch?v=AfRV6JqKt-Y)**
 
-Should you buy Bitcoin, sell it or wait? Three days after the Bitcoin crash took the price as low as $55081, I laid out the three ways ...
+Sign Up & Get Benefits : https://www.coinbase.com/aff/cryptoindia Learn about Crypto Basics for Free ...
 
-📺 Frank Hepworth
+📺 Crypto India I क्रिप्टो इंडिया
 
-👁️ 2K • 👍 13 • 💬 3 • ⏱️ 0:49 • 9h ago
+👁️ 2K • 👍 299 • 💬 56 • ⏱️ 8:21 • 2h ago
+
+---
+
+**[BITCOIN: NOOOOOW !!!!!!](https://www.youtube.com/watch?v=4fUdZ3xZlJI)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXanthropic Deposit ...
+
+📺 The Moon Show
+
+👁️ 14K • 👍 448 • 💬 98 • ⏱️ 4:48 • 1d ago
+
+---
+
+**[A Bitcoin Thanksgiving](https://www.youtube.com/watch?v=q0KSyXCVBr8)**
+
+Into The Cryptoverse Premium BLACK Friday Sale (use discount code blackfriday for 50% off your 1st invoice): ...
+
+📺 Benjamin Cowen
+
+👁️ 147K • 👍 4K • 💬 145 • ⏱️ 12:13 • 1d ago
+
+---
+
+**[Bitcoin GREEN LIGHT - Congress Advances Bill to Lock Up US Bitcoin for 20 Years](https://www.youtube.com/watch?v=ruMzx4SHdhU)**
+
+KALSHI: Get a $50 BONUS! Unlock with just $25 in Crypto Perps trading volume. https://kalshi.com/p/bitcoinnewsalerts The US ...
+
+📺 Bitcoin News Alerts
+
+👁️ 6K • 👍 200 • 💬 73 • ⏱️ 15:36 • 1d ago
 
 ---
 

@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Exploring an AI reboot and the ethics that surround it",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZzUyQkxTczhwaDhBYmhYaFhuNHhLUktJTGNRMS1XTDdGLXR0aWl5Z0RxTHRKcUJ0NURTSXJCZXNIMXhwSDB1NHhJeEEzR1pIMUxUR1VseXRwVlhxekhBNHB2bmRTa0ZGWGZtYWUyQ1pJLVpFLUxaNzJHaHg0UnBWWW9zeXFUMDVCRkFEbDJfY3NjQQ?oc=5",
-      "pub_date": 1795822530.0,
-      "article_url": "https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Robots will have a staggering economic impact",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
@@ -25,22 +15,22 @@
       "description": null
     },
     {
-      "headline": "Robotic exoskeleton helps Shrewsbury seven-year-old take first steps",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WMDB2dExfbTEyUzNaMlc1dE1lWGhJT0lwS1M3ZXNzVTQtcm5fMzFaZEdubUVHSDc2UXc4cFhiMUpnMkI1cExJNG82eHo5eEtnZGJKLVVEOE1jZUU?oc=5",
-      "pub_date": 1795781367.0,
-      "article_url": "https://www.bbc.com/news/articles/c6m2517m8804o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ef8e/live/f0735810-e9a6-11f1-b880-15b494ba858d.jpg",
-      "description": "Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says."
+      "headline": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1BINks3MVZUQ1BqeGk5azVmcm9QaFpCY001LVlOVVpvRW1SdG9xNlBENG5hLXFRamhpS0o0anNBZWU5ZzJaR2k5b0JFc2FRQ3djY3A2LTlaOW5sSFhWdGEzdHRyQzg0S2h2aVJMNWlzZE40UUp4RV9yTzN0RmdoaFpQVnJBRHZDOVNLadIBkgFBVV95cUxObzFMRk80QVkxUUIxdDFGSXdab01lX2xZTjhab0pRUXpzbTA3XzNJQXhYVjdJZVhIQU01a3lJNjdVeFcwTko1MC1Cak43aEtZakI3bVpOVjB5Q2JqTXVQRGo4NmtYX3QzVGNDczJHT09lRC16R0dOTTNUUDRWUGl2LVhZeHNtVHppemJlNjJuWVd6UQ?oc=5",
+      "pub_date": 1795678211.0,
+      "article_url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
+      "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday."
     },
     {
-      "headline": "Sony\u2019s dog robot can\u2019t do chores but offers companionship",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGRkalFuT1U2bUNNbDRsQUxlTmhaYUZycVY1elJ5MEE5Q3h3SU1PSUNRSExrRkd5Tm1hdWFFMGppNDZkdjV2NjZfU3YwWVJTYTFSMk1kNlhkVFpodkRZWHJCazlsQWRRUWwtU0k2VnRIRzRYTG5rOUlaSnB2OFRPd2d4LUlRRVhHTlU1dWNlbjl0bGlBNWp0bjlzTUVtVFVWekNR?oc=5",
-      "pub_date": 1795759896.0,
-      "article_url": "https://apnews.com/article/robots-aibo-sony-japan-dogs-companionship-ee0dbf69988f0c6c18ccda4756db66f9",
+      "headline": "2026 in photos: AI, robots and new technology",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZV9Ca3Y4eFZtMFRLejYzWUZoTG9NaENDWFRoTXZmSmtsZXF4WDlBSk04MDBUNFJGVHU0N3hLVzZRVFV6WmRMTlFaZmZwUTV4ajJkNnpoSk5RMTdBV29NZUp3TkF3R21vUGdTU2stbFlROWk0Z01RYll6RzI0REJHYm9n?oc=5",
+      "pub_date": 1795530321.0,
+      "article_url": "https://www.reuters.com/investigates/special-report/year-end-2026-photos-ai/",
       "image": null,
       "description": null
     },
@@ -55,22 +45,12 @@
       "description": "Business Insider's Lloyd Lee used every robot service he could find in San Francisco, from robotaxis to humanoid cleaning services."
     },
     {
-      "headline": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1BINks3MVZUQ1BqeGk5azVmcm9QaFpCY001LVlOVVpvRW1SdG9xNlBENG5hLXFRamhpS0o0anNBZWU5ZzJaR2k5b0JFc2FRQ3djY3A2LTlaOW5sSFhWdGEzdHRyQzg0S2h2aVJMNWlzZE40UUp4RV9yTzN0RmdoaFpQVnJBRHZDOVNLadIBkgFBVV95cUxObzFMRk80QVkxUUIxdDFGSXdab01lX2xZTjhab0pRUXpzbTA3XzNJQXhYVjdJZVhIQU01a3lJNjdVeFcwTko1MC1Cak43aEtZakI3bVpOVjB5Q2JqTXVQRGo4NmtYX3QzVGNDczJHT09lRC16R0dOTTNUUDRWUGl2LVhZeHNtVHppemJlNjJuWVd6UQ?oc=5",
-      "pub_date": 1795678211.0,
-      "article_url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
-      "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday."
-    },
-    {
-      "headline": "Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48%",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3I5SlFuRUYzOVBZV05BajZadDgxMXJaZ2dsZnhTdGw5T09jNjJfV3hlRm02NXNrcDM1b3FHV3h4ZXFBMm5FeGZzR1AyYWxGOEtwbTA2UTdhN1JLcGZQV2FzUksxVjlNU3VtdUVhQkI2aWppZW50SFhkWWZfSmZ3bDdpRW1BdU9aYWwxck5iZEszcDhXMDBvTGtaN1RDcUlHbmcwSjhKQzZtbTkxVGVteHZ6YkFOY0FtYW95S3FpYjFGZ9IBwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Zw?oc=5",
-      "pub_date": 1795788958.0,
-      "article_url": "https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside",
+      "headline": "From Cassette Tapes to Humanoids: TDK Chases Demand for Sensors in Data Centers, Robots",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUx0VnQtMktySjRnREJFSjhwSjl0Mk9kNXVFQ1FqV1hwZmM5WUJwdmNITDZpaHU1WER2akJ3b1FWbVRtSnpqQTU0MGRpQWNYMTl0aW54YlpQdl9NcVEzR19Fc1cxLXlQamJ6VFBzNVY2Mnozd29JRDQwX1pna25XREFMa25YSHNyTHNVVjlBZk5IcUd3LUo4dnRRWlVIcXNnOEpONzc3dlBzdlBSTWZGcA?oc=5",
+      "pub_date": 1795726800.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth",
       "image": null,
       "description": null
     },
@@ -85,26 +65,46 @@
       "description": "An android that takes the housework off your hands is easy to cast as a force for good. One that takes your job is an obvious villain."
     },
     {
-      "headline": "GXO doubling down on robotics in 2027",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYSWh1TzQ3OGVJM1R6YWc4MDZadkw5QTUteWdQVDRWUlRBUDdIbDdnbHFpQUNGTEcxSFptdjRJdlMxZS1YUmdyaXJ5WHVYUl9PNXplSU9ZWTFMWktrLXl2SkQyT3UxbG00ZW1PNDlnYnBLTEJoelpvdA?oc=5",
-      "pub_date": 1795788077.0,
-      "article_url": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/GXO-robots-featured.jpg",
-      "description": "GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio."
+      "headline": "Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48%",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3I5SlFuRUYzOVBZV05BajZadDgxMXJaZ2dsZnhTdGw5T09jNjJfV3hlRm02NXNrcDM1b3FHV3h4ZXFBMm5FeGZzR1AyYWxGOEtwbTA2UTdhN1JLcGZQV2FzUksxVjlNU3VtdUVhQkI2aWppZW50SFhkWWZfSmZ3bDdpRW1BdU9aYWwxck5iZEszcDhXMDBvTGtaN1RDcUlHbmcwSjhKQzZtbTkxVGVteHZ6YkFOY0FtYW95S3FpYjFGZ9IBwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Zw?oc=5",
+      "pub_date": 1795788958.0,
+      "article_url": "https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWkVOWi14OExQWGs2aXlrcTEzbGlGSGVNanNZRkZYMVU0aEtQN09UUGdxVTNPb2Vod2RhVGlRZVlqb1JtcXhxR3BnWGRPeGdqbzl6ZnozZU1MNE82MXlDTFhUMHQ2dFpJZWtQcDhEYjhTM3B5clFfTHo1S0ZaS25QVmk3UTRyUmItZFBGNjRrdU95aTFGcmo0ZjlwbS03OHpyZDY2azJYNE1sUGRVd2ZKYkJrQWlBeWE4OHl3X05EbHhTZERJcERwRVRYNDAwaGxFQldLVklQMEtvbmVUT2o3S28xZXEwTGNCVVlzZXQ2ZVp4NzRrbmhIS0V6VXJfWkZMbU4xOUNvMUl3Q1hVbWVxbVBraGUwdw?oc=5",
-      "pub_date": 1795786200.0,
-      "article_url": "https://www.morningstar.com/news/pr-newswire/20261127cn07270/ff-eai-robotics-ecosystem-ffr-announces-parent-company-faraday-future-ffai-ownership-of-approximately-41-million-in-ffr-equity",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "description": null
+      "headline": "45 humanoid robots process up to 1,200 parcels an hour in postal logistics trial",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmFlYXBMUnNxX1ZycThnWkxpXzJnMlBaWHpmc0UtTTEzS3pPU1AzUXQ3SklPOEJRNWx5MThhUWxxZDF1SHB2MFRzRTZLeXpmY2thWWN1ODdNUmlmM1V3bUNNTDlVY0N5Tldja2JoVWwzS2EtSzFWblFkSUt1NkozSEtUeGVPMWFubWVN?oc=5",
+      "pub_date": 1795771920.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-postal-trial",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-4-8.jpg",
+      "description": "China Post deploys 45 ROBOTERA humanoids to automate parcel handling in a large-scale logistics trial."
+    },
+    {
+      "headline": "Volvo Is Bringing Humanoid Robots Into Its Factories. Here's When They'll Start Working",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTU05aENBbHI3RTBRVFl6QWFILV9Vdzk1UWc0SHRoLXFrR3lybVhsdzZCbXZwaWhkZ29TcFJLTkxUSERBMWREYXpYQlhLZkV6OHlEbm9MMjRFMjdFY2paSFltN2ZBSW80Y3hhTnFMZVlDUWFjbm1jN3ZpZG1PRmJJQTM1ajE?oc=5",
+      "pub_date": 1795681980.0,
+      "article_url": "https://insideevs.com/news/816850/volvo-cars-humanoid-robots-training-factory/",
+      "image": "https://cdn.motor1.com/images/mgl/0epk9j/s1/volvo-cars-is-training-aeon-humanoid-robots-for-future-work-in-factories.jpg",
+      "description": "The first Aeon units are already being trained at Volvo\u2019s factory in Ghent, Belgium. The next step is giving them real work."
+    },
+    {
+      "headline": "How an army of rolling robots acts as Santa\u2019s little helpers in Los Angeles County",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDdFWkVSWXNZcTJPNTYxbTJ3LTlHUjFGdG5vTWJ4cTNVMy1NQ2pOY25UTnNfQ2hPbTRzUGpvcnlIYURyQ0lkSlBOeXJIejFJX2hWRnR6bkx6ZVRBWFNoTi0yR1FNSXREdm0zaGE0dXlqY3VtS3pUMzBCMXlFOVdJOThna0pNWTNjQ0hrMA?oc=5",
+      "pub_date": 1795863600.0,
+      "article_url": "https://www.latimes.com/business/story/2026-11-28/puma-autonomous-robots-los-angeles",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/ebe5f40/2147483647/strip/true/crop/4788x2514+0+339/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F98%2F40%2F88a1148548848a036f51216cb805%2F1577027-fi-autonomous-retail-robots-puma-0091-rb.jpg",
+      "description": "Autonomous robots in Los Angeles are organizing millions of items for the sportswear maker Puma ahead of the holiday season."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-28T03:44:38.671778+00:00"
+  "fetched_at": "2026-11-28T12:45:05.455301+00:00"
 }

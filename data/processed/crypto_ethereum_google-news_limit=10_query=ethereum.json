@@ -5,22 +5,22 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "PQAI #1: One hash to rule them all \u2014 Keccak-256 for Ethereum's post-quantum, post-AI era",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZVGsxYXo3dm5uRG5xQktOcmNmak5pby1OU01WVm9reXZob09RQXhTdjBvTWpDWU1SenN4T1VlV2c0bmdkNFZUNEpsUnNLWjNiWXdVOXdB?oc=5",
-      "pub_date": 1795556349.0,
-      "article_url": "https://blog.ethereum.org/2026/11/24/pqai-1",
-      "image": "https://blog.ethereum.org/images/eth-org.jpeg",
-      "description": "We recommend Keccak-256 as the hash function for Ethereum's hash-based cryptography."
-    },
-    {
       "headline": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZUZ1eWg1OWUyaVpRRjQ3ZDBuTkNRQ3R0Ty0yc3R3WkJNZ0x4cmw2eW5WX1daX0l3Nk92aVZsUFpkMHI0YlI3OWJmTmU3c1JsYU40UGdsVzhVT3J0cjNlRVpBQmw4MHNLS0R1NnNKYkhLRE9fVDdLRWQ1YkpycXFBZXdESUhyS3plcmNrUGZDVE1QRk5vV3YwVUNaTmdxT2ZsNTNFTGJKM0ZBaFctdGgtTXFPYnVtd1p6Zk5OcDMtVDNWU0dxNndIV1dn?oc=5",
       "pub_date": 1795756113.0,
       "article_url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump-Backed WLFI Falls 50% as World Liberty Dumps Ethereum at a $19M Loss",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45ZkY3emZYUDVQdVI3dEFUZzFNWm5HMXhTUE0tNmVQTFFvd2owM3kzRDd4RDByYTF1UWpIbXdOazRBcUtldUk1UTZwR2RhQ2VEVWI5eXhtdnJSc3RTSXotOHFyWjZCUl9NY1dsX0lHU3dQamM?oc=5",
+      "pub_date": 1795865854.0,
+      "article_url": "https://beincrypto.com/wlfi-crashes-world-liberty-sells-ethereum/",
       "image": null,
       "description": null
     },
@@ -45,6 +45,36 @@
       "description": null
     },
     {
+      "headline": "\u2018Not your Silicon, not your keys\u2019 \u2014 Ethereum\u2019s Buterin calls for open-source chip design",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkZVMkNVU2VJcDdDeTZfdWxiWDdIU25zX0NHR0tDTWFaV2lsbGRpcWtUdFYwZVNzVXdQNGRVakVUWGFycThKQkpfVUtLWEVxRDBGcm0zY1FxLVkwNXBkeHBIME1fQzd5elpXTFJWWXpUY1dTekhESkxMTEZpc1Vvd09DaHl2SDRCeldISlVoR2wyV0lsRWRJUnh0QzJIUkpwVWtqa2k3RWs?oc=5",
+      "pub_date": 1795831235.0,
+      "article_url": "https://ambcrypto.com/not-your-silicon-not-your-keys-ethereums-buterin-calls-for-open-source-chip-design/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/11/FI_QB.CN_VITALIK_BUTERIN_27-11-2026.webp",
+      "description": "Why does he think hardware security is a growing concern for crypto users?"
+    },
+    {
+      "headline": "BlackRock leads $389M Bitcoin ETF exodus as November outflows hit a record",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQnIwSUNlY0hzOXpGbnFJendwZUxWZjRBV2tPc1V0VkZRemZxYmxPZ01Kek5DUnlSMDdsMjlIRFpOUDNQX2hSR3haaGVUOFExNmtJcWJWX0c4NlYzUUNWMV9kMHJFTloybjZESFpKb25DQ25OZUt0V0FLdDU4RUdEbVB4UEpDUy1jV0pfcTZwWmg5bDRTc2lnY0h4OE1VQzcxZXJLQjdZRTRkaVB5YVkwQ0xsd28xQ2xOZHV0WGRGRWx0eW9Sd29qTFdlU0xxUVpjLXVtbw?oc=5",
+      "pub_date": 1795843620.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:34bd919ba094b:0-blackrock-leads-389m-bitcoin-etf-exodus-as-november-outflows-hit-a-record/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "US spot Bitcoin ETFs had $389 million in net outflows on November 27. Spot Ethereum ETFs lost another $69.27 million to redemptions the same day.Most of that money came out of BlackRock's products. It also puts November on track to be the worst month on record for Bitcoin ETF flows.BlackRock's iSha\u2026"
+    },
+    {
+      "headline": "Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSms4a1c5NUc4Q3VzSF90T0lRenJMNzI3TUxHTVgxVG5NUTZHanFEemtQVWRPaVVYYm54aFZDMnVVUmNUUUJDWHRoMWtERHJ4aHJ6WGtXUDVwdlAzaFI5TWZ6X0pxbHJjeF93RlFzNmVLd2gzZWdlMmw5cUJMR3FyVEwzRVg0RWdaOWtoc3lIampRR2d1REp4Tm5aYmNoNWNsWUQ3VUlMVDc2ZlRHZEZ6b0RTdm0?oc=5",
+      "pub_date": 1795863635.0,
+      "article_url": "https://cryptoslate.com/vitalik-buterin-warns-against-rushing-ethereum-gas-change-that-could-break-some-contracts/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/glamsterdam-01-meter-bypass.jpg",
+      "description": "Vitalik Buterin warned that Glamsterdam\u2019s gas changes could break some Ethereum smart contracts. Developers are targeting Dec. 15 for the Hoodi test."
+    },
+    {
       "headline": "Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -65,46 +95,16 @@
       "description": "Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked."
     },
     {
-      "headline": "\u2018Not your Silicon, not your keys\u2019 \u2014 Ethereum\u2019s Buterin calls for open-source chip design",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkZVMkNVU2VJcDdDeTZfdWxiWDdIU25zX0NHR0tDTWFaV2lsbGRpcWtUdFYwZVNzVXdQNGRVakVUWGFycThKQkpfVUtLWEVxRDBGcm0zY1FxLVkwNXBkeHBIME1fQzd5elpXTFJWWXpUY1dTekhESkxMTEZpc1Vvd09DaHl2SDRCeldISlVoR2wyV0lsRWRJUnh0QzJIUkpwVWtqa2k3RWs?oc=5",
-      "pub_date": 1795831235.0,
-      "article_url": "https://ambcrypto.com/not-your-silicon-not-your-keys-ethereums-buterin-calls-for-open-source-chip-design/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/11/FI_QB.CN_VITALIK_BUTERIN_27-11-2026.webp",
-      "description": "Why does he think hardware security is a growing concern for crypto users?"
-    },
-    {
-      "headline": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXAyVzlGczQydm1aZlZ0UEFrZndNeEdCYjA0aDRLUGVvck84T3hndmMwNGFVMnREZ2dZOU16NG5wdTczem0tVllaa1ZVdVFEbEJkMGJxdndSQWV5TlpTMmM3aE1DVGdQal92VHoyanlDS0w1LXBmMmxQWTlaaWZpclEwYVlpSDVnUW5vdk9IYXJ1Y2ZQXy1xRUZIREtDM0JrMDlCaVhPbTlnUQ?oc=5",
-      "pub_date": 1795765860.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ethereum-2-scaled-e1795764449268.jpg",
-      "description": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegot\u00e1."
-    },
-    {
-      "headline": "Ethereum\u2019s quantum defense plans could delay a major upgrade to stop transaction censorship",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHl5RDBzNFprSGVHQnZBVjhfRzY5UVdfVk1JQWlxTFF0bzRrTXh4d3VRbjZraUg1UGd4TEdUVm9rQWg2a0E3OE5IczdHUDVIUWw0Y041c2t5MTEwdGFzeXNzU2hSUXYyY2hYeE1DekJ0Sks4OG1qQm9pZGJsd1g0M0x6anMxWlpxRnpfYlg0cGthTnBHZEJKZlBIdTZta2V4TzI2OVZ5aXA1aHdsYnhRRFNoejJWZw?oc=5",
-      "pub_date": 1795761600.0,
-      "article_url": "https://cryptoslate.com/ethereums-quantum-defense-plans-could-delay-a-major-upgrade-to-stop-transaction-censorship/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ethereum-upgrade-shared-workbench.webp",
-      "description": "Ethereum developers weigh how to deliver transaction censorship protections alongside work on quantum-resistant consensus."
-    },
-    {
-      "headline": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3ZjR2lMSmpZNjN1eXFyUWJRZHBleHZRWUQ5MEcxSzEzM0wwZmNGMm1lMjU2VEpFbUpkNENQVUdCMGNMY0hXcjFXZnBEWWlWTXltU2Q2REJmdWRBeXNVdldZMDBsc293aXRYSUJaQ3NWR29NYk9rUmlOcjJwRndSMzNpQkRWQzdLWElDa3p3?oc=5",
-      "pub_date": 1795552562.0,
-      "article_url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png",
-      "description": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats."
+      "headline": "Tether\u2019s USDT Unfreezing Rate Falls to 1.2% on Ethereum as Recovery Risks Grow",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWlMVXNVU2FpWGs5Ynd4b0FEcDRWLWZ0WF9YcXFKQlRSZ2hGY0d2RVpWUVNoZHVjY0ZDNjQ4d1RfR212S2ZUbVg5MFd2T2ZKVnJkRkhXbElsUU95VDRNbE1JSHhCcVdnVHhvTnNQSGdnYWRpYVBMWlM1cG1kSm54dWxMTFh5LUtwN0dzREk2eHM1NDZoZGZJZ203eXB2Zl8xLW5Vaw?oc=5",
+      "pub_date": 1795814886.0,
+      "article_url": "https://financefeeds.com/tethers-usdt-unfreezing-rate-falls-to-1-2-on-ethereum-as-recovery-risks-grow/",
+      "image": "https://financefeeds.com/wp-content/uploads/2026/11/Tether-Charged-Hack-Victims-20-To-Return-Frozen-USDT.jpeg",
+      "description": "BitOK data: just 1.2% of USDT Tether targeted on Ethereum was later unfrozen, down from nearly one in five a year earlier, as Binance hack recovery drags on."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-28T03:44:26.159275+00:00"
+  "fetched_at": "2026-11-28T12:45:05.387205+00:00"
 }
