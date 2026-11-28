@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-28T12:45:18.102385+00:00'
+updated: '2026-11-28T20:46:01.193386+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** November 28, 2026 at 12:45 UTC  
+**Last Updated:** November 28, 2026 at 20:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Anthropic's amended filing shows employee options and RSUs worth more than three
 
 Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.
 
-🔗 [CNBC](https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html) • 11d ago
+🔗 [CNBC](https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html) • 12d ago
 
 ---
 
@@ -65,7 +65,7 @@ Cloudflare has open-sourced Kitesurf, the browser engine behind its Browser Run 
 
 wsj says commerce is about to name 20+ ai companies (nvidia, openai, anthropic, microsoft, amazon) as "national champions": faster export licenses, government backing abroad, federal financing. that's straight up industrial policy. meanwhile china, as apec chair, is calling for free trade and a wto-centered system, and its foreign ministry says export controls "serve no party's interests". capitalist us doing state champions, socialist china defending free trade. world's gone a bit mad. https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump https://www.straitstimes.com/asia/east-asia/apec-chair-china-calls-for-upholding-free-trade-at-online-ministerial-meet
 
-11d ago
+12d ago
 
 ---
 
@@ -73,7 +73,7 @@ wsj says commerce is about to name 20+ ai companies (nvidia, openai, anthropic, 
 
 A survey of 268 graduate students and postdocs reveals researchers are unsure of their future in mathematics and uneasy about using AI—the very technology they fear
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/) • 11d ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/math-students-fear-ai-will-take-their-jobs-theyre-using-it-anyway/) • 12d ago
 
 ---
 
@@ -121,75 +121,75 @@ Before you blame AI tools for flat velocity, find out whether you face a capabil
 
 ## Google News: "ai"
 
-**[AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn](https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos)**
+**[AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts believe](https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos)**
 
 Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies
 
-The Guardian • 7h ago
-
----
-
-**[Could AI break encryption? What mathematical breakthroughs mean for cybersecurity](https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity)**
-
-Experts suggest AI companies may be sitting on ‘bombshell’ that could have severe consequences for secret information
-
-The Guardian • 7h ago
+The Guardian • 15h ago
 
 ---
 
 **[Can AI crack encryption?](https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1)**
 
-Financial Times • 18h ago
+Financial Times • 1d ago
 
 ---
 
-**[GTA 6: The AI race to clone the world's biggest video game for PC](https://www.bbc.com/news/articles/c64gn8pe5eeqo)**
+**[AI's Capacity To Achieve Mathematical Breakthroughs Could Endanger Financial And Governmental Security, Experts Warn](https://www.yahoo.com/news/science/articles/ais-capacity-achieve-mathematical-breakthroughs-152139957.html)**
 
-With an official PC version potentially still months away, fans are getting impatient.
+Rumors of AI breakthroughs on difficult mathematical problems have raised concerns that future systems could weaken RSA encryption, potentially threatening banking transactions, as well as private per...
 
-BBC • 11h ago
+Yahoo • 5h ago
 
 ---
 
-**[‘You are the dumbest AI’: Why people are bullying their chatbots](https://www.nbcnews.com/tech/internet/being-mean-ai-chat-gpt-bully-prompt-claude-rcna610404)**
+**[Rumors swirl that AI models have already cracked math secrets too dangerous to publish](https://www.axios.com/2026/11/28/ai-math-breakthroughs-encryption-p-vs-np)**
 
-From turning on caps lock to curse at AI chatbots to yelling harsh demands at voice-based AI agents, bullying AI tools has become a popular habit. It poses an ethical dilemma.
+Axios • 7h ago
 
-NBC News • 45m ago
+---
+
+**[College Board says it is investigating possible AI hack](https://www.washingtonpost.com/nation/2026/11/28/college-board-says-it-is-investigating-possible-ai-hack/)**
+
+The board said it “took immediate action” to protect its users and systems.
+
+The Washington Post • 1h ago
+
+---
+
+**[Musk says Google has ‘expressed interest’ in renting more AI computing power from SpaceX](https://thehill.com/business/6246205-musk-google-spacex-ai-compute/)**
+
+The Hill • 1h ago
 
 ---
 
 **[Opinion | Wasting Money Is Exactly What A.I. Companies Should Be Doing](https://www.nytimes.com/2026/11/28/opinion/ai-boom-companies-investments-tech.html)**
 
-The New York Times • 45m ago
+The New York Times • 8h ago
 
 ---
 
-**[Jensen Huang is back, but his departure exposed something about the AI trade](https://fortune.com/2026/11/28/jensen-huang-nvidia-circular-financing-ai-boom-who-keeps-gains/)**
+**[AI meme complaint upheld against Leicestershire PCC](https://www.bbc.com/news/articles/ckjwj6gd7903o)**
 
-The AI boom doesn't depend on who's the CEO of Nvidia, but on who keeps the gains.
+It is reported to have an association with material containing discriminatory and abusive language.
 
-Fortune • 45m ago
-
----
-
-**[How Israel is fast-tracking data centres in bid to become ‘AI superpower’](https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower)**
-
-Israel is looking to data centres to boost its data processing, military strength and global clout.
-
-Al Jazeera • 5h ago
+BBC • 1d ago
 
 ---
 
-**[AI agents are coming for big business](https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1)**
+**[AI data center boom strains construction labor across the U.S.](https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html)**
 
-Financial Times • 4h ago
+CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways.
+
+CNBC • 6h ago
 
 ---
 
-**[As Google threatens to cut schools’ search access, Los Angeles blocks AI features](https://www.politico.com/news/2026/11/27/schools-ai-google-los-angeles-01184368)**
+**[Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market](https://finance.yahoo.com/technology/articles/jim-cramer-still-bullish-5-184921596.html)**
 
-Politico • 20h ago
+The Nasdaq-100 briefly fell 20% below its October 6 record closing high on November 25 before recovering much of the day’s loss. The sell-off had picked up weeks earlier. On November 5, the Nasdaq Composite fell 5.5% as investors reconsidered how quickly the U.S. could build out AI infrastructure after the midterm elections. By late […]
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ Politico • 20h ago
 
 I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit.
 
-⬆️ 1122 • 💬 523 • 1d ago • [Jan-Lukas Else](https://janlukas.blog/posts/ai-self-hosting)
+⬆️ 1143 • 💬 535 • 1d ago • [Jan-Lukas Else](https://janlukas.blog/posts/ai-self-hosting)
 
 ---
 
@@ -209,7 +209,7 @@ I’ve been self-hosting things for many years. There were times when I was quit
 
 Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you.
 
-⬆️ 714 • 💬 291 • 1d ago • [construct22.com](https://construct22.com/)
+⬆️ 727 • 💬 292 • 1d ago • [construct22.com](https://construct22.com/)
 
 ---
 
@@ -217,7 +217,7 @@ Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you
 
 The NYT doesn’t want AI metadata inadvertently added to its photos.
 
-⬆️ 685 • 💬 547 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+⬆️ 686 • 💬 548 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
 
 ---
 
@@ -225,19 +225,25 @@ The NYT doesn’t want AI metadata inadvertently added to its photos.
 
 From February 2027, Google's terms require AI agents to reach Gmail, Drive and the rest of Workspace through Google's own MCP servers. What the rule says, what the servers can and can't do, and what to change before the deadline.
 
-⬆️ 421 • 💬 333 • 2d ago • [techstackups.com](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
+⬆️ 422 • 💬 333 • 2d ago • [techstackups.com](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
 
 ---
 
 **[US Air Force's cloud computing platform hacked](https://news.ycombinator.com/item?id=50666375)**
 
-⬆️ 346 • 💬 213 • 23h ago • [news.sky.com](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
+⬆️ 356 • 💬 215 • 1d ago • [news.sky.com](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
+
+---
+
+**[Donald Knuth suspends error bounties due to an influx of AI-generated reports](https://news.ycombinator.com/item?id=50680168)**
+
+⬆️ 343 • 💬 76 • 2h ago • [cs.stanford.edu](https://cs.stanford.edu/~knuth/moratorium.html)
 
 ---
 
 **[Tracking Diseases Cured by AI](https://news.ycombinator.com/item?id=50657307)**
 
-⬆️ 323 • 💬 198 • 1d ago • [diseasescuredbyai.com](https://diseasescuredbyai.com/)
+⬆️ 325 • 💬 199 • 2d ago • [diseasescuredbyai.com](https://diseasescuredbyai.com/)
 
 ---
 
@@ -245,27 +251,19 @@ From February 2027, Google's terms require AI agents to reach Gmail, Drive and t
 
 A stranger writes to the whole list every morning. Nobody picks them for being interesting. Tomorrow it could be you.
 
-⬆️ 215 • 💬 247 • 18h ago • [thesoapbox.email](https://thesoapbox.email/archive/3)
+⬆️ 218 • 💬 251 • 1d ago • [thesoapbox.email](https://thesoapbox.email/archive/3)
 
 ---
 
 **[Woman evicted after landlord's AI assistant told her she could delay rent](https://news.ycombinator.com/item?id=50673521)**
 
-⬆️ 188 • 💬 135 • 11h ago • [drmahfouz.substack.com](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
+⬆️ 212 • 💬 176 • 19h ago • [drmahfouz.substack.com](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
 
 ---
 
 **[AI on brink of making online security useless, mathematicians fear](https://news.ycombinator.com/item?id=50665488)**
 
-⬆️ 119 • 💬 162 • 1d ago • [thetimes.com](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
-
----
-
-**[Prospero: Bloat-free, native AI coding harness with ImGui](https://news.ycombinator.com/item?id=50671275)**
-
-Prospero coding harness. Contribute to skeeto/prospero development by creating an account on GitHub.
-
-⬆️ 81 • 💬 33 • 16h ago • [GitHub](https://github.com/skeeto/prospero)
+⬆️ 119 • 💬 164 • 1d ago • [thetimes.com](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
 
 ---
 
@@ -273,13 +271,33 @@ Prospero coding harness. Contribute to skeeto/prospero development by creating a
 
 ## YouTube Videos: "ai"
 
-**[The AI Singularity May Have Already Started…](https://www.youtube.com/watch?v=5PBGnASz_DQ)**
+**[Can Humanity Survive What Just Happened In AI Without Immediate Action?](https://www.youtube.com/watch?v=6esLwYuP-3Y)**
 
-AI is tackling decades-old math problems, and physics could be next. This week's recap covers breakthroughs from OpenAI, ...
+iRESTORE: Unlock your best hair & skin with @iRestorelaser and HUGE savings on iRESTORE with code THEORY at ...
 
-📺 AI Copium
+📺 Tom Bilyeu
 
-👁️ 74K • 👍 563 • 💬 289 • ⏱️ 10:12 • 21h ago
+👁️ 89K • 👍 1K • 💬 721 • ⏱️ 51:57 • 6h ago
+
+---
+
+**[Anthropic Just Killed AI Agents - EVERYTHING You Need to Know](https://www.youtube.com/watch?v=fBSI3HLoxWc)**
+
+FREE Skills: https://www.skool.com/wearenocode TOOLS AI Coding: Claude Code: https://claude.ai/referral/hNMjMWDmiA ...
+
+📺 Christian Peverelli
+
+👁️ 185K • 👍 3K • 💬 223 • ⏱️ 7:39 • 17h ago
+
+---
+
+**[Nvidia Chips Flood the Resale Market -AI Financing Crisis Deepens as Banks Freeze Billions in Loans ](https://www.youtube.com/watch?v=Dy5kDK4_RwI)**
+
+BLACK FRIDAY BUNDLE SPECIAL for Trust and Will Courses https://theoxacademy.com/trusts-wills/ Disclaimer: The views and ...
+
+📺 Ox Talks
+
+👁️ 54K • 👍 3K • 💬 407 • ⏱️ 8:44 • 1d ago
 
 ---
 
@@ -289,17 +307,47 @@ The CapCut plugin is now officially available in ChatGPT! With a simple conversa
 
 📺 House of El: AI
 
-👁️ 476K • 👍 18K • 💬 3K • ⏱️ 20:13 • 21h ago
+👁️ 534K • 👍 19K • 💬 3K • ⏱️ 20:13 • 1d ago
 
 ---
 
-**[The AI Black Box: It Solved the Riemann Hypothesis and We Don&#39;t Know How](https://www.youtube.com/watch?v=qmvPcVi9m8M)**
+**[AI Agents Explained for Beginners (And How to Build One)](https://www.youtube.com/watch?v=YwST-4bQzGk)**
 
-The black Friday sale is here! https://ninjablackfridaydeals.com/black-friday/ An AI has reportedly solved the Riemann hypothesis, ...
+Use code YOURI to get an extra 10% off your Hostinger plan https://www.hostg.xyz/SHJiC In this video, I explain what AI agents ...
 
-📺 Real Estate Ninja
+📺 Roboverse
 
-👁️ 146K • 👍 1K • 💬 237 • ⏱️ 7:00 • 2d ago
+👁️ 8K • 💬 1 • ⏱️ 9:57 • 5h ago
+
+---
+
+**[The AI Singularity May Have Already Started…](https://www.youtube.com/watch?v=5PBGnASz_DQ)**
+
+AI is tackling decades-old math problems, and physics could be next. This week's recap covers breakthroughs from OpenAI, ...
+
+📺 AI Copium
+
+👁️ 87K • 👍 623 • 💬 311 • ⏱️ 10:12 • 1d ago
+
+---
+
+**[MIT Physicist on what the United States can do to stop AI from ending humanity](https://www.youtube.com/watch?v=3MH7cywBUJk)**
+
+Lovett sits down with Max Tegmark, a leading expert and thinker on AI and the human response to it, to talk about the latest wave ...
+
+📺 Pod Save America
+
+👁️ 65K • 👍 2K • 💬 291 • ⏱️ 1:29:58 • 6h ago
+
+---
+
+**[This AI Kept Mistaking Him for a Sleeping Driver! 🚗🤖🎥video credit : @zackdfilms](https://www.youtube.com/watch?v=py_NT8xjnPA)**
+
+An AI driver-monitoring system kept warning this man that he was falling asleep, even when he was fully awake. The system ...
+
+📺 বিনোদন টিভি 25
+
+👁️ 247K • 👍 5K • 💬 1 • ⏱️ 0:30 • 13h ago
 
 ---
 
@@ -309,67 +357,17 @@ The black Friday sale is here! https://ninjablackfridaydeals.com/black-friday/ A
 
 📺 MS NOW
 
-👁️ 85K • 👍 4K • 💬 268 • ⏱️ 1:32 • 1d ago
+👁️ 89K • 👍 4K • 💬 276 • ⏱️ 1:32 • 1d ago
 
 ---
 
-**[Anthropic’s AI Is Starting to Scare Its Own Researchers…](https://www.youtube.com/watch?v=r1aEPmGqQrs)**
+**[Iran Releases AI Attack Video Targeting Amazon, Microsoft and SpaceX as Trump Warns Tehran](https://www.youtube.com/watch?v=eYPvhmSWkh4)**
 
-While the top AI employees are sounding the alarm... Anthropic releases a new "Siren" report that tests whether Claude will ...
+Iranian state media has released an AI-generated video depicting fictional attacks on the headquarters of Amazon, Microsoft and ...
 
-📺 AI Copium
+📺 WJACTV
 
-👁️ 34K • 👍 362 • 💬 179 • ⏱️ 9:05 • 1d ago
-
----
-
-**[An honest conversation about what&#39;s happening in AI](https://www.youtube.com/watch?v=TbKkN1cesTo)**
-
-New podcast episode between Ege Erdil and Daniel Kokotajlo. I thought this was going to be a debate, but they ended up ...
-
-📺 Dwarkesh Patel
-
-👁️ 304K • 👍 3K • 💬 1K • ⏱️ 1:36:02 • 18h ago
-
----
-
-**[This AI Just Convinced Everyone It&#39;s Too Late](https://www.youtube.com/watch?v=E_M2ZOL9qO8)**
-
-Tech company Nuance Labs recently unveiled Emma, a lifelike conversational AI built using a real actress's face and voice.
-
-📺 The Truth IS
-
-👁️ 417K • 👍 8K • 💬 3K • ⏱️ 13:18 • 1d ago
-
----
-
-**[DeepMind’s New AI Just Changed The AI Race](https://www.youtube.com/watch?v=u6UYsl-KEoc)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers The security report is available here: ...
-
-📺 Two Minute Papers
-
-👁️ 187K • 👍 4K • 💬 234 • ⏱️ 7:58 • 1d ago
-
----
-
-**[Build your FIRST AI Agent with Claude (in 5 mins)](https://www.youtube.com/watch?v=7cX9Jqgi7_I)**
-
-Get the First AI Agent PDF guide for free ...
-
-📺 Jay E | RoboNuggets
-
-👁️ 71K • 👍 984 • 💬 36 • ⏱️ 5:47 • 2d ago
-
----
-
-**[Complete AI System Design And Infrastructure Bootcamp- Learn AI The Right Way in 2027](https://www.youtube.com/watch?v=L21L4ugR23M)**
-
-Building an AI demo is exciting. But how do you turn it into a reliable, secure, scalable, and affordable application? In this video, I ...
-
-📺 Krish Naik
-
-👁️ 8K • 👍 124 • 💬 19 • ⏱️ 14:27 • 5h ago
+👁️ 56K • 👍 145 • 💬 67 • ⏱️ 2:28 • 21h ago
 
 ---
 
@@ -383,7 +381,7 @@ Building an AI demo is exciting. But how do you turn it into a reliable, secure,
 
 `image-text-to-text` `26.4B`
 
-⬇️ 177,012 • ❤️ 6,531 • 3d ago
+⬇️ 177,012 • ❤️ 6,592 • 4d ago
 
 ---
 
@@ -393,15 +391,7 @@ Building an AI demo is exciting. But how do you turn it into a reliable, secure,
 
 `image-text-to-text` `26.1B`
 
-⬇️ 3,621,301 • ❤️ 1,635 • 4d ago
-
----
-
-**[Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3)**
-
-*Sulphur*
-
-⬇️ 759,937 • ❤️ 1,402 • 7d ago
+⬇️ 3,621,301 • ❤️ 1,680 • 5d ago
 
 ---
 
@@ -411,7 +401,15 @@ Building an AI demo is exciting. But how do you turn it into a reliable, secure,
 
 `text-generation` `26.9B`
 
-⬇️ 473,980 • ❤️ 671 • 3d ago
+⬇️ 473,980 • ❤️ 726 • 3d ago
+
+---
+
+**[Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3)**
+
+*Sulphur*
+
+⬇️ 759,937 • ❤️ 1,447 • 7d ago
 
 ---
 
@@ -421,7 +419,7 @@ Building an AI demo is exciting. But how do you turn it into a reliable, secure,
 
 `image-text-to-text` `26.1B`
 
-⬇️ 1,297,386 • ❤️ 1,055 • 18h ago
+⬇️ 1,297,386 • ❤️ 1,094 • 1d ago
 
 ---
 
@@ -431,7 +429,7 @@ Building an AI demo is exciting. But how do you turn it into a reliable, secure,
 
 `audio-to-audio`
 
-⬇️ 22,810 • ❤️ 1,021 • 14d ago
+⬇️ 22,810 • ❤️ 1,053 • 14d ago
 
 ---
 
@@ -441,7 +439,7 @@ Building an AI demo is exciting. But how do you turn it into a reliable, secure,
 
 `image-to-video`
 
-⬇️ 3,088,512 • ❤️ 13,775 • 2d ago
+⬇️ 3,088,512 • ❤️ 13,831 • 2d ago
 
 ---
 
@@ -451,17 +449,7 @@ Building an AI demo is exciting. But how do you turn it into a reliable, secure,
 
 `image-to-text`
 
-⬇️ 9,982 • ❤️ 374 • 16h ago
-
----
-
-**[Nemotron-Labs-Image-30B-A3B](https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B)**
-
-*NVIDIA*
-
-`text-to-image` `32.6B`
-
-⬇️ 2,042 • ❤️ 353 • 2d ago
+⬇️ 9,982 • ❤️ 403 • 1d ago
 
 ---
 
@@ -471,7 +459,17 @@ Building an AI demo is exciting. But how do you turn it into a reliable, secure,
 
 `text-generation` `26.1B`
 
-⬇️ 97,896 • ❤️ 310 • 1d ago
+⬇️ 97,896 • ❤️ 356 • 1d ago
+
+---
+
+**[Nemotron-Labs-Image-30B-A3B](https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B)**
+
+*NVIDIA*
+
+`text-to-image` `32.6B`
+
+⬇️ 2,042 • ❤️ 383 • 3d ago
 
 ---
 
@@ -488,20 +486,6 @@ PaperOrchestra is a multi-agent framework that converts unstructured research ma
 ▲ 21 • 💬 2 • ⭐ 6,703 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05018) • [💻 code](https://github.com/google-research/paper-orchestra) • [🔗 project](https://yiwen-song.github.io/paper_orchestra/)
-
----
-
-**[OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://huggingface.co/papers/2611.34232)**
-
-*Hui Shen, Yunta Hsieh, Jianing Ma et al. (76 authors)*
-
-🏢 Touchstone AI
-
-A live cross-platform benchmark evaluates computer-using agents on long-horizon workflows across Windows, Ubuntu, macOS, iOS, Android, and Web, showing that current agents remain far from platform-robust computer use and trail humans on iOS and macOS.
-
-▲ 111 • 💬 3 • ⭐ 106 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2611.34232) • [💻 code](https://github.com/OS-Copilot/OS-Omni) • [🔗 project](https://os-copilot.github.io/OS-Omni-Home/)
 
 ---
 
@@ -533,17 +517,17 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
-**[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://huggingface.co/papers/2603.16790)**
+**[OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://huggingface.co/papers/2611.34232)**
 
-*Jian Yang, Wei Zhang, Jiajun Wu et al. (28 authors)*
+*Hui Shen, Yunta Hsieh, Jianing Ma et al. (76 authors)*
 
-🏢 Beihang University
+🏢 Touchstone AI
 
-InCoder-32B is a 32-billion-parameter code model trained on industrial datasets with extended context length and execution verification to improve performance in hardware-aware programming tasks.
+A live cross-platform benchmark evaluates computer-using agents on long-horizon workflows across Windows, Ubuntu, macOS, iOS, Android, and Web, showing that current agents remain far from platform-robust computer use and trail humans on iOS and macOS.
 
-▲ 171 • 💬 6 • ⭐ 822 • 8mo ago
+▲ 114 • 💬 4 • ⭐ 108 • 4d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2603.16790) • [💻 code](https://github.com/CSJianYang/Industrial-Coder) • [🔗 project](https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder)
+[🎓 arXiv](https://arxiv.org/abs/2611.34232) • [💻 code](https://github.com/OS-Copilot/OS-Omni) • [🔗 project](https://os-copilot.github.io/OS-Omni-Home/)
 
 ---
 
@@ -572,30 +556,17 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://huggingface.co/papers/2603.16790)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Jian Yang, Wei Zhang, Jiajun Wu et al. (28 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+🏢 Beihang University
 
-▲ 87 • 💬 7 • ⭐ 94,473 • 28mo ago
+InCoder-32B is a 32-billion-parameter code model trained on industrial datasets with extended context length and execution verification to improve performance in hardware-aware programming tasks.
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+▲ 171 • 💬 6 • ⭐ 824 • 8mo ago
 
----
-
-**[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264)**
-
-*Zelun Zhang, Hongen Liu, Suyin Liang et al. (15 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
-
-▲ 28 • 💬 1 • ⭐ 93,400 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
+[🎓 arXiv](https://arxiv.org/abs/2603.16790) • [💻 code](https://github.com/CSJianYang/Industrial-Coder) • [🔗 project](https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder)
 
 ---
 
@@ -607,9 +578,34 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.
 
-▲ 41 • 💬 3 • ⭐ 807 • 9d ago
+▲ 41 • 💬 3 • ⭐ 807 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.26603) • [💻 code](https://github.com/apple-aiml-research/ml-depth-pro-2) • [🔗 project](https://apple-aiml-research.github.io/ml-depth-pro-2/)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 87 • 💬 7 • ⭐ 94,494 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)**
+
+*Run Luo, Kuan Zhang, Qi Deng et al. (27 authors)*
+
+Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.
+
+▲ 171 • 💬 4 • ⭐ 1,641 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2611.18397) • [💻 code](https://github.com/RainBowLuoCS/Gamer) • [🔗 project](https://mihoyo-gamer.github.io/)
 
 ---
 
@@ -623,7 +619,7 @@ Turn an old Android phone into a customizable desk panel and touch control deck 
 
 `JavaScript` `android` `claude-code` `codex` `dashboard` `desk-panel`
 
-⭐ 8.0k • 🔱 890 • 3m ago
+⭐ 8.2k • 🔱 912 • 6m ago
 
 ---
 
@@ -633,7 +629,7 @@ MR Office — the open-source editors of the AI office suite closest to Microsof
 
 `TypeScript` `ai` `ai-agent` `claude-code` `codex` `copilot`
 
-⭐ 5.3k • 🔱 437 • 1d ago
+⭐ 5.5k • 🔱 437 • 1d ago
 
 ---
 
@@ -643,7 +639,7 @@ Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to b
 
 `TypeScript` `agent-teams` `local-llm` `memory` `personal-agent` `proactive-agent`
 
-⭐ 5.2k • 🔱 481 • 3m ago
+⭐ 5.2k • 🔱 487 • 3m ago
 
 ---
 
@@ -653,7 +649,7 @@ Private AI meeting notes that stay on your computer. No meeting bot. Free and op
 
 `TypeScript` `ai-meeting-assistant` `ai-notetaker` `electron` `granola-alternative` `linux`
 
-⭐ 3.8k • 🔱 337 • 3h ago
+⭐ 3.8k • 🔱 339 • 49m ago
 
 ---
 
@@ -663,7 +659,7 @@ Private AI meeting notes that stay on your computer. No meeting bot. Free and op
 
 `Swift` `android` `linux` `live-captions` `macos` `meeting-notes`
 
-⭐ 3.7k • 🔱 583 • 1h ago
+⭐ 3.7k • 🔱 595 • 2h ago
 
 ---
 
@@ -673,17 +669,7 @@ Films made with code. Short films, long YouTube videos, ads, explainers and musi
 
 `Python`
 
-⭐ 3.2k • 🔱 522 • 15d ago
-
----
-
-**[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)**
-
-Offline knowledge AI, maps and videos for survival and rebuilding
-
-`Python`
-
-⭐ 3.1k • 🔱 388 • 8h ago
+⭐ 3.2k • 🔱 527 • 15d ago
 
 ---
 
@@ -693,17 +679,17 @@ Offline knowledge AI, maps and videos for survival and rebuilding
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 498 • 1d ago
+⭐ 3.2k • 🔱 504 • 1d ago
 
 ---
 
-**[DIYgod/pinky](https://github.com/DIYgod/pinky)**
+**[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)**
 
-Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
+Offline knowledge AI, maps and videos for survival and rebuilding
 
-`Go` `ai-agent` `android` `claude-code` `ios` `iphone`
+`Python`
 
-⭐ 2.9k • 🔱 303 • 8h ago
+⭐ 3.1k • 🔱 390 • 17h ago
 
 ---
 
@@ -713,7 +699,17 @@ The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games
 
 `TypeScript` `agent-skills` `ai-agents` `ai-game-generator` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 415 • 38m ago
+⭐ 2.9k • 🔱 446 • 47m ago
+
+---
+
+**[DIYgod/pinky](https://github.com/DIYgod/pinky)**
+
+Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
+
+`Go` `ai-agent` `android` `claude-code` `ios` `iphone`
+
+⭐ 2.9k • 🔱 306 • 4h ago
 
 ---
 

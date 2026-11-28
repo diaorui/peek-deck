@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-28T12:45:18.119984+00:00'
+updated: '2026-11-28T20:46:01.205644+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 28, 2026 at 12:45 UTC  
+**Last Updated:** November 28, 2026 at 20:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ We're now testing Asimov 1 outdoors, starting with the new walking gait. We're w
 
 I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging Face/Pollen. I already made video on how to build one if you are interested: https://youtu.be/J6ybTv8J3jY The cost is around 200-300$ if you use more expensive servos and 100$ if you use cheaper ones. Next step is to integrate it with SO101 arms and do "full body" teleop. Here's this video on YT: https://youtu.be/z-As3tA0Qe4 Amazing Hand repo: https://github.com/pollen-robotics/AmazingHand
 
-12d ago
+13d ago
 
 ---
 
@@ -60,7 +60,7 @@ I made teleop demo of the open source Enhanced Amazing Hand by Lerobot/Hugging F
 
 Next robot will be a rover with the turret on top of it. Since it’s fixed the rover will let me learn gazebo or Isaac. Getting into the simulation next! The turret thought me so much!
 
-13d ago
+14d ago
 
 ---
 
@@ -94,7 +94,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[I built ROS 2 natively on Android. What do you think?](https://www.reddit.com/r/robotics/comments/1xw5ks2/i_built_ros_2_natively_on_android_what_do_you/)**
 
-13d ago
+14d ago
 
 ---
 
@@ -110,12 +110,6 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[Robots will have a staggering economic impact](https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact)**
-
-The Economist • 2d ago
-
----
-
 **[Robots could be doing household chores in just 1-2 years, Chinese EV firm says](https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html)**
 
 Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.
@@ -124,9 +118,9 @@ CNBC • 2d ago
 
 ---
 
-**[2026 in photos: AI, robots and new technology](https://www.reuters.com/investigates/special-report/year-end-2026-photos-ai/)**
+**[Robots will have a staggering economic impact](https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact)**
 
-Reuters • 3d ago
+The Economist • 2d ago
 
 ---
 
@@ -144,25 +138,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Humanoid robots are coming – sooner than you think](https://www.afr.com/technology/humanoid-robots-are-coming-sooner-than-you-think-20261127-p61hwo)**
-
-An android that takes the housework off your hands is easy to cast as a force for good. One that takes your job is an obvious villain.
-
-AFR • 1d ago
-
----
-
 **[Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48%](https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside)**
 
-South China Morning Post • 22h ago
-
----
-
-**[45 humanoid robots process up to 1,200 parcels an hour in postal logistics trial](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-postal-trial)**
-
-China Post deploys 45 ROBOTERA humanoids to automate parcel handling in a large-scale logistics trial.
-
-Interesting Engineering • 1d ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -174,11 +152,33 @@ InsideEVs • 2d ago
 
 ---
 
-**[How an army of rolling robots acts as Santa’s little helpers in Los Angeles County](https://www.latimes.com/business/story/2026-11-28/puma-autonomous-robots-los-angeles)**
+**[Video: AGIBOT shows multiple X2 humanoid robots dancing as one team](https://interestingengineering.com/ai-robotics/agibot-x2-humanoids-dance-as-team)**
+
+AGIBOT's X2 humanoids use swarm intelligence and perception to coordinate dance routines, avoid obstacles, and reposition autonomously.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[Humanoid robots are coming—sooner than you think](https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think)**
+
+The Economist • 2d ago
+
+---
+
+**[How an army of rolling robots acts as Santa’s little helpers in Los Angeles](https://www.latimes.com/business/story/2026-11-28/puma-autonomous-robots-los-angeles)**
 
 Autonomous robots in Los Angeles are organizing millions of items for the sportswear maker Puma ahead of the holiday season.
 
-Los Angeles Times • 1h ago
+Los Angeles Times • 5h ago
+
+---
+
+**[Robotic exoskeleton helps Shrewsbury seven-year-old take first steps](https://www.bbc.com/news/articles/c6m2517m8804o)**
+
+Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says.
+
+BBC • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ Tesla Optimus is moving closer to becoming a real household assistant. Elon Musk
 
 📺 Fresh Discovery
 
-👁️ 16K • 👍 144 • 💬 42 • ⏱️ 21:24 • 1d ago
+👁️ 18K • 👍 159 • 💬 42 • ⏱️ 21:24 • 1d ago
 
 ---
 
@@ -202,7 +202,15 @@ Roomba brought robots into millions of homes, but never delivered the iPhone mom
 
 📺 MTS 
 
-👁️ 37K • 👍 104 • 💬 12 • ⏱️ 16:20 • 4d ago
+👁️ 37K • 👍 110 • 💬 13 • ⏱️ 16:20 • 5d ago
+
+---
+
+**[He Built a Secret Robot Inside His Weakest Fighter and Shocked Everyone!](https://www.youtube.com/watch?v=2zQX8tU2hU4)**
+
+📺 Lazy Kitten
+
+👁️ 71K • 👍 1K • 💬 42 • ⏱️ 2:14 • 3d ago
 
 ---
 
@@ -212,37 +220,17 @@ Unboxing a 100k Robot from Agibot so it can do my job.
 
 📺 Insert Richie
 
-👁️ 960K • 👍 35K • 💬 575 • ⏱️ 2:04 • 5d ago
+👁️ 984K • 👍 36K • 💬 581 • ⏱️ 2:04 • 5d ago
 
 ---
 
-**[Lab says humanoid robot uses living human neurons to help think](https://www.youtube.com/watch?v=Y2jvWKAXhDg)**
+**[China&#39;s New Humanoid Robot Is Shocking The Entire World!](https://www.youtube.com/watch?v=5iFsRHIfTUQ)**
 
-A San Francisco lab is showing off Iris, a humanoid robot with a mood informed by real, living human cells. The lab says the robot ...
+China is rolling out new humanoid robots at a pace the rest of the world can barely keep up with, and ten of them are genuinely ...
 
-📺 NBC News
+📺 Prime Insights
 
-👁️ 44K • 👍 326 • 💬 122 • ⏱️ 3:53 • 3d ago
-
----
-
-**[Putin Raises His Eyebrows As Humanoid Robots Put On A Spectacular Dance Show](https://www.youtube.com/watch?v=95TM0MbfP6g)**
-
-Russian President Vladimir Putin witnesses a spectacular dance performance by AI-powered humanoid robots at the AI Journey ...
-
-📺 NDTV Profit
-
-👁️ 124K • 👍 590 • 💬 121 • ⏱️ 3:28 • 1d ago
-
----
-
-**[This Humanoid Robot Copies Human Movements in Real Time! 🤯🤖](https://www.youtube.com/watch?v=FPREOnJAR0k)**
-
-Unitree's Embodied Avatar V3.0 Guardian mirrors human movements with incredible precision! With a reported 99.8% ...
-
-📺 Nexio Core
-
-👁️ 11K • 💬 3 • ⏱️ 0:06 • 4h ago
+👁️ 508K • 👍 5K • 💬 74 • ⏱️ 29:03 • 4d ago
 
 ---
 
@@ -252,27 +240,17 @@ Robots are ditching metal joints and growing muscles instead. The 3D-printed leg
 
 📺 Digital Species
 
-👁️ 29K • 👍 786 • 💬 41 • ⏱️ 1:23 • 5d ago
+👁️ 29K • 👍 793 • 💬 42 • ⏱️ 1:23 • 5d ago
 
 ---
 
-**[China’s New AI Robot Army Is Terrifying...](https://www.youtube.com/watch?v=bOOf9boeiKE)**
+**[Lab says humanoid robot uses living human neurons to help think](https://www.youtube.com/watch?v=Y2jvWKAXhDg)**
 
-China just turned Shenzhen into a giant robot show during APEC week, and 151 humanoids set a Guinness World Record for the ...
+A San Francisco lab is showing off Iris, a humanoid robot with a mood informed by real, living human cells. The lab says the robot ...
 
-📺 MACHINEKIND
+📺 NBC News
 
-👁️ 20K • 👍 275 • 💬 30 • ⏱️ 13:00 • 4d ago
-
----
-
-**[Elon Just Gave A Huge Optimus Update | It&#39;s Not Good News](https://www.youtube.com/watch?v=PcIUEgNQyXM)**
-
-Thanks to Albert for sponsoring this video. Genius is an AI-powered financial assistant. Genius can make mistakes. Albert Genius ...
-
-📺 Ryan Shaw
-
-👁️ 138K • 👍 2K • 💬 295 • ⏱️ 16:03 • 4d ago
+👁️ 45K • 👍 328 • 💬 122 • ⏱️ 3:53 • 3d ago
 
 ---
 
@@ -282,7 +260,27 @@ I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot f
 
 📺 Eric’s Tech World
 
-👁️ 29K • 👍 304 • 💬 44 • ⏱️ 13:13 • 5d ago
+👁️ 30K • 👍 313 • 💬 45 • ⏱️ 13:13 • 6d ago
+
+---
+
+**[Elon Just Gave A Huge Optimus Update | It&#39;s Not Good News](https://www.youtube.com/watch?v=PcIUEgNQyXM)**
+
+Thanks to Albert for sponsoring this video. Genius is an AI-powered financial assistant. Genius can make mistakes. Albert Genius ...
+
+📺 Ryan Shaw
+
+👁️ 140K • 👍 2K • 💬 298 • ⏱️ 16:03 • 5d ago
+
+---
+
+**[This indigenous Indian robot is a game changer](https://www.youtube.com/watch?v=AdZ03ntczI4)**
+
+XMachines is a Hyderabad-based robotics and AI company founded in 2017 to bridge the technology gap in Indian agriculture.
+
+📺 RuntimeBRT
+
+👁️ 74K • 👍 3K • 💬 59 • ⏱️ 2:22 • 5d ago
 
 ---
 
