@@ -5,32 +5,22 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Trump-Backed WLFI Falls 50% as World Liberty Dumps Ethereum at a $19M Loss",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45ZkY3emZYUDVQdVI3dEFUZzFNWm5HMXhTUE0tNmVQTFFvd2owM3kzRDd4RDByYTF1UWpIbXdOazRBcUtldUk1UTZwR2RhQ2VEVWI5eXhtdnJSc3RTSXotOHFyWjZCUl9NY1dsX0lHU3dQamM?oc=5",
+      "pub_date": 1795878653.0,
+      "article_url": "https://beincrypto.com/wlfi-crashes-world-liberty-sells-ethereum/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZUZ1eWg1OWUyaVpRRjQ3ZDBuTkNRQ3R0Ty0yc3R3WkJNZ0x4cmw2eW5WX1daX0l3Nk92aVZsUFpkMHI0YlI3OWJmTmU3c1JsYU40UGdsVzhVT3J0cjNlRVpBQmw4MHNLS0R1NnNKYkhLRE9fVDdLRWQ1YkpycXFBZXdESUhyS3plcmNrUGZDVE1QRk5vV3YwVUNaTmdxT2ZsNTNFTGJKM0ZBaFctdGgtTXFPYnVtd1p6Zk5OcDMtVDNWU0dxNndIV1dn?oc=5",
       "pub_date": 1795756113.0,
       "article_url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trump-Backed WLFI Falls 50% as World Liberty Dumps Ethereum at a $19M Loss",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45ZkY3emZYUDVQdVI3dEFUZzFNWm5HMXhTUE0tNmVQTFFvd2owM3kzRDd4RDByYTF1UWpIbXdOazRBcUtldUk1UTZwR2RhQ2VEVWI5eXhtdnJSc3RTSXotOHFyWjZCUl9NY1dsX0lHU3dQamM?oc=5",
-      "pub_date": 1795865854.0,
-      "article_url": "https://beincrypto.com/wlfi-crashes-world-liberty-sells-ethereum/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Steady on Thanksgiving: Top Analyst Says BTC Rebound to $100,000 Will Re",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlZmMjVWdkZOS2gzcmw1NFc5OEJUbTY2cXNZakhndkpLTnRLcUM0Y2JuVTRfUXFQdGU0WGNfV1o4U0hTVDBrakRjaXJQdVBOVVR0TDZCUUo3clNEQzk3X2dOd3VmRWhvbW1hV0c2dDNKWlBpSWVxMU9XU0E1ZDVvbVE5OGlFbXVwVnNXU2FRVENhRTdtOUFMVEpTWGF2c1ZvQ21WYWp2THBVUmw0aDhOdw?oc=5",
-      "pub_date": 1795745760.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63664704/bitcoin-ethereum-xrp-dogecoin-crypto-thanksgiving",
       "image": null,
       "description": null
     },
@@ -45,6 +35,16 @@
       "description": null
     },
     {
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Steady on Thanksgiving: Top Analyst Says BTC Rebound to $100,000 Will Re",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlZmMjVWdkZOS2gzcmw1NFc5OEJUbTY2cXNZakhndkpLTnRLcUM0Y2JuVTRfUXFQdGU0WGNfV1o4U0hTVDBrakRjaXJQdVBOVVR0TDZCUUo3clNEQzk3X2dOd3VmRWhvbW1hV0c2dDNKWlBpSWVxMU9XU0E1ZDVvbVE5OGlFbXVwVnNXU2FRVENhRTdtOUFMVEpTWGF2c1ZvQ21WYWp2THBVUmw0aDhOdw?oc=5",
+      "pub_date": 1795745760.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63664704/bitcoin-ethereum-xrp-dogecoin-crypto-thanksgiving",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "\u2018Not your Silicon, not your keys\u2019 \u2014 Ethereum\u2019s Buterin calls for open-source chip design",
       "source": "AMBCrypto",
       "source_url": "https://ambcrypto.com",
@@ -55,14 +55,14 @@
       "description": "Why does he think hardware security is a growing concern for crypto users?"
     },
     {
-      "headline": "BlackRock leads $389M Bitcoin ETF exodus as November outflows hit a record",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQnIwSUNlY0hzOXpGbnFJendwZUxWZjRBV2tPc1V0VkZRemZxYmxPZ01Kek5DUnlSMDdsMjlIRFpOUDNQX2hSR3haaGVUOFExNmtJcWJWX0c4NlYzUUNWMV9kMHJFTloybjZESFpKb25DQ25OZUt0V0FLdDU4RUdEbVB4UEpDUy1jV0pfcTZwWmg5bDRTc2lnY0h4OE1VQzcxZXJLQjdZRTRkaVB5YVkwQ0xsd28xQ2xOZHV0WGRGRWx0eW9Sd29qTFdlU0xxUVpjLXVtbw?oc=5",
-      "pub_date": 1795843620.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:34bd919ba094b:0-blackrock-leads-389m-bitcoin-etf-exodus-as-november-outflows-hit-a-record/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "US spot Bitcoin ETFs had $389 million in net outflows on November 27. Spot Ethereum ETFs lost another $69.27 million to redemptions the same day.Most of that money came out of BlackRock's products. It also puts November on track to be the worst month on record for Bitcoin ETF flows.BlackRock's iSha\u2026"
+      "headline": "Not A Bitcoin Believer? Bitmine Sells Ethereum At ~0.84X NAV (NYSE:BMNR)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDRZNHRJU2djY3dLVm1TYjdrZEtDZ0k1YkRhd1NQUDlwWGFWNjRFWFNGalMxeXRwUl9ZR0toc2FuUC1TTVZkNFRYbTNLbkJ0ci1LbWkyRFU5b3BWR3JQcXBBSlcxYktpYzBwdFRQM1hEYmxSSThwRnVKYkp3RWx0emVESzdEbVVOYTlvRzJvTlR2UDU4YTAtZ2swVzVUQ0l1?oc=5",
+      "pub_date": 1795694400.0,
+      "article_url": "https://seekingalpha.com/article/4972194-not-a-bitcoin-believer-bitmine-sells-ethereum-at-0-84x-nav",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/908436480/image_908436480.jpg?io=getty-c-og",
+      "description": "Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked."
     },
     {
       "headline": "Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts",
@@ -85,14 +85,14 @@
       "description": "Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last."
     },
     {
-      "headline": "Not A Bitcoin Believer? Bitmine Sells Ethereum At ~0.84X NAV (NYSE:BMNR)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDRZNHRJU2djY3dLVm1TYjdrZEtDZ0k1YkRhd1NQUDlwWGFWNjRFWFNGalMxeXRwUl9ZR0toc2FuUC1TTVZkNFRYbTNLbkJ0ci1LbWkyRFU5b3BWR3JQcXBBSlcxYktpYzBwdFRQM1hEYmxSSThwRnVKYkp3RWx0emVESzdEbVVOYTlvRzJvTlR2UDU4YTAtZ2swVzVUQ0l1?oc=5",
-      "pub_date": 1795694400.0,
-      "article_url": "https://seekingalpha.com/article/4972194-not-a-bitcoin-believer-bitmine-sells-ethereum-at-0-84x-nav",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/908436480/image_908436480.jpg?io=getty-c-og",
-      "description": "Analyst rates Bitmine a Buy: shares could reach ~$21 in the base case or ~$42 in the bull case, as it trades below NAV and 86% of ETH is staked."
+      "headline": "How Much Ethereum Does Trump\u2019s World Liberty Hold After Its $19 Million Loss?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUNNeUFXMDdQbXVMSTNTVGFfQi1SYlZwSm1pdmM3WVpWcGFLUHY1VVluYUIwUFVUdlBzYUhIcXdLaHJFNDhuR1hBS1Jrc1R1S1NNZWdVc1BnY1NKOTRoenpfOEVmMFVhYWVBQ2IyZWVtM253YU5sUU84MDhrX2pKVno4Uldta0V3d0xnMlpSMDZHN1g1RURGZl9sNU9zdFBLcV83MDBZTlllWmJISUtxcEtrdmhxaVVNWUp2eDZlc1dVcXBvcmZESDhFX3lYdw?oc=5",
+      "pub_date": 1795874580.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/11/28/how-much-ethereum-does-trumps-world-liberty-hold-after-its-19-million-loss/",
+      "image": "https://247wallst.com/wp-content/uploads/2018/07/imageforentry1004.jpg",
+      "description": "World Liberty's Ethereum reserve wallet sold at a $19 million loss. Here's what's left and whether another sale could move Ethereum."
     },
     {
       "headline": "Tether\u2019s USDT Unfreezing Rate Falls to 1.2% on Ethereum as Recovery Risks Grow",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-28T12:45:05.387205+00:00"
+  "fetched_at": "2026-11-28T20:45:50.029854+00:00"
 }

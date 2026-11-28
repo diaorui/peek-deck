@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "Gemini 4 Neon solves Bitcoin puzzle from 2024",
-      "url": "https://echo.ls/zden-level-halv/",
-      "hn_url": "https://news.ycombinator.com/item?id=50592648",
-      "author": "maplet",
-      "points": 7,
-      "num_comments": 0,
-      "created_at": "2026-11-21T19:19:03Z",
-      "object_id": "50592648",
-      "image": null,
-      "description": "Notes on mathematics and puzzles.",
-      "favicon": "https://echo.ls/favicon.svg",
-      "site_name": "echo.ls"
-    },
-    {
       "title": "Show HN: The all-in cost of buying $1k of Bitcoin in 58 countries, updated daily",
       "url": "https://www.cryptotruecost.com/en/bitcoin-cost-map/",
       "hn_url": "https://news.ycombinator.com/item?id=50635343",
@@ -75,7 +61,7 @@
       "site_name": "braiins.com"
     }
   ],
-  "total_hits": 5,
+  "total_hits": 4,
   "has_metadata": true,
-  "fetched_at": "2026-11-28T12:44:42.477480+00:00"
+  "fetched_at": "2026-11-28T20:45:32.165110+00:00"
 }

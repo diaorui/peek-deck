@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-28T12:45:18.116799+00:00'
+updated: '2026-11-28T20:46:01.203444+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 28, 2026 at 12:45 UTC  
+**Last Updated:** November 28, 2026 at 20:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.4%  
-**7d:** -4.4%  
-**30d:** -26.6%  
-**90d:** -33.2%  
-**1y:** -44.8%  
+**24h:** -1.2%  
+**7d:** -4.7%  
+**30d:** -26.8%  
+**90d:** -33.4%  
+**1y:** -45.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $201.45B
+**Market Cap:** $200.92B
 Rank #2
 
 **Circulating Supply:** 122,259,585 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.7%
+-66.8%
 
 **All-Time Low:** $0.43
-+380463.5%
++379338.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Does anybody know of any good decentralized email services?
 
-11d ago
+12d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew quick slots from Hegotá upgrade, Glamsterdam gas repricing findings due November 16
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 14d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-47/) • 15d ago
 
 ---
 
@@ -128,7 +128,7 @@ Post quantum & post AI urgency at DEFCON 2-3, Ethlabs proposed pqai27 & withdrew
 
 Hi all, I’ve been using Ledger for years but lately I’ve started rethinking about keeping my funds there. Between all the data leaks, security incidents and stories about wallets getting compromised and even regulated sellers selling compromised Ledgers. I'm honestly becoming more paranoid about where I store my crypto and I've also never been particularly happy with the Ledger experience. As ZachXBT recommended I am thinking to store my crypto into a blank laptop or something, so for you, what's the current best wallet to store crypto? Thanks
 
-15d ago
+16d ago
 
 ---
 
@@ -152,15 +152,21 @@ Why Ethereum should become post-quantum and post-AI in 2027, and what that means
 
 ## Google News: "ethereum"
 
+**[Trump-Backed WLFI Falls 50% as World Liberty Dumps Ethereum at a $19M Loss](https://beincrypto.com/wlfi-crashes-world-liberty-sells-ethereum/)**
+
+BeInCrypto • 5h ago
+
+---
+
 **[Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know](https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know)**
 
 CoinDesk • 1d ago
 
 ---
 
-**[Trump-Backed WLFI Falls 50% as World Liberty Dumps Ethereum at a $19M Loss](https://beincrypto.com/wlfi-crashes-world-liberty-sells-ethereum/)**
+**[Ethereum leads way as large cryptocurrencies fall](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-fall-fa5b1e2a-e2e963f90acf)**
 
-BeInCrypto • 1h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -170,41 +176,11 @@ Benzinga • 1d ago
 
 ---
 
-**[Ethereum leads way as large cryptocurrencies fall](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-fall-fa5b1e2a-e2e963f90acf)**
-
-MarketWatch • 21h ago
-
----
-
 **[‘Not your Silicon, not your keys’ — Ethereum’s Buterin calls for open-source chip design](https://ambcrypto.com/not-your-silicon-not-your-keys-ethereums-buterin-calls-for-open-source-chip-design/)**
 
 Why does he think hardware security is a growing concern for crypto users?
 
-AMBCrypto • 10h ago
-
----
-
-**[BlackRock leads $389M Bitcoin ETF exodus as November outflows hit a record](https://www.tradingview.com/news/cryptobriefing:34bd919ba094b:0-blackrock-leads-389m-bitcoin-etf-exodus-as-november-outflows-hit-a-record/)**
-
-US spot Bitcoin ETFs had $389 million in net outflows on November 27. Spot Ethereum ETFs lost another $69.27 million to redemptions the same day.Most of that money came out of BlackRock's products. It also puts November on track to be the worst month on record for Bitcoin ETF flows.BlackRock's iSha…
-
-TradingView • 7h ago
-
----
-
-**[Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts](https://cryptoslate.com/vitalik-buterin-warns-against-rushing-ethereum-gas-change-that-could-break-some-contracts/)**
-
-Vitalik Buterin warned that Glamsterdam’s gas changes could break some Ethereum smart contracts. Developers are targeting Dec. 15 for the Hoodi test.
-
-CryptoSlate • 1h ago
-
----
-
-**[Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-25-222619217.html)**
-
-Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last.
-
-Yahoo Finance • 2d ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -216,11 +192,35 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts](https://cryptoslate.com/vitalik-buterin-warns-against-rushing-ethereum-gas-change-that-could-break-some-contracts/)**
+
+Vitalik Buterin warned that Glamsterdam’s gas changes could break some Ethereum smart contracts. Developers are targeting Dec. 15 for the Hoodi test.
+
+CryptoSlate • 9h ago
+
+---
+
+**[Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-25-222619217.html)**
+
+Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[How Much Ethereum Does Trump’s World Liberty Hold After Its $19 Million Loss?](https://247wallst.com/investing/cryptocurrency/2026/11/28/how-much-ethereum-does-trumps-world-liberty-hold-after-its-19-million-loss/)**
+
+World Liberty's Ethereum reserve wallet sold at a $19 million loss. Here's what's left and whether another sale could move Ethereum.
+
+24/7 Wall St. • 6h ago
+
+---
+
 **[Tether’s USDT Unfreezing Rate Falls to 1.2% on Ethereum as Recovery Risks Grow](https://financefeeds.com/tethers-usdt-unfreezing-rate-falls-to-1-2-on-ethereum-as-recovery-risks-grow/)**
 
 BitOK data: just 1.2% of USDT Tether targeted on Ethereum was later unfrozen, down from nearly one in five a year earlier, as Binance hack recovery drags on.
 
-FinanceFeeds • 15h ago
+FinanceFeeds • 23h ago
 
 ---
 
@@ -228,13 +228,33 @@ FinanceFeeds • 15h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=MNuNpDbFXjI)**
+
+Into The Cryptoverse Premium BLACK Friday Sale (use discount code blackfriday for 50% off your 1st invoice): ...
+
+📺 Benjamin Cowen
+
+👁️ 36K • 👍 2K • 💬 93 • ⏱️ 15:16 • 4h ago
+
+---
+
 **[Ethereum to $40,000? Standard Chartered Reveals Its Bold Crypto Predictions for 2030](https://www.youtube.com/watch?v=FRT2PV_JZRg)**
 
 Standard Chartered's Geoffrey Kendrick explains why he believes Ethereum could reach $40000 by 2030 and outperform Bitcoin ...
 
 📺 Cointelegraph
 
-👁️ 20K • 👍 204 • 💬 56 • ⏱️ 5:13 • 21h ago
+👁️ 26K • 👍 237 • 💬 57 • ⏱️ 5:13 • 1d ago
+
+---
+
+**[Joseph Chalom: Is Ethereum’s Price Missing the Bigger Picture?](https://www.youtube.com/watch?v=-AvmjHkFtIs)**
+
+Is the market overlooking Ethereum's role in the future of finance? Joseph Chalom joins Tai Wong on Global Money Talk to ...
+
+📺 Global Money Talk
+
+👁️ 487 • 👍 14 • 💬 17 • ⏱️ 34:29 • 9h ago
 
 ---
 
@@ -244,17 +264,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 134 • 💬 61 • ⏱️ 25:02 • 20h ago
-
----
-
-**[Ethereum: Last Line of Defense for the Bulls](https://www.youtube.com/watch?v=WwqTG5ydlek)**
-
-Ethereum is trying to bounce just above the important support from June. One more low in wave 1 cannot be ruled out, but the ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 87 • 💬 2 • ⏱️ 6:42 • 17h ago
+👁️ 9K • 👍 146 • 💬 93 • ⏱️ 25:02 • 1d ago
 
 ---
 
@@ -264,7 +274,17 @@ Get Our Top Altcoin Picks Early: https://altcoinpro.com/altcoinpicks?el=yr2y&ts=
 
 📺 BULLRUNNERS
 
-👁️ 1K • 👍 16 • 💬 16 • ⏱️ 15:35 • 13h ago
+👁️ 2K • 👍 17 • 💬 16 • ⏱️ 15:35 • 21h ago
+
+---
+
+**[Ethereum: Last Line of Defense for the Bulls](https://www.youtube.com/watch?v=WwqTG5ydlek)**
+
+Ethereum is trying to bounce just above the important support from June. One more low in wave 1 cannot be ruled out, but the ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 94 • 💬 4 • ⏱️ 6:42 • 1d ago
 
 ---
 
@@ -274,7 +294,17 @@ Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals
 
 📺 Coin Bureau
 
-👁️ 57K • 👍 699 • 💬 32 • ⏱️ 24:26 • 1d ago
+👁️ 59K • 👍 709 • 💬 34 • ⏱️ 24:26 • 2d ago
+
+---
+
+**[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=k450XlTsdoU)**
+
+Tom Lee believes the crypto market is still in the early stages of a major bull cycle. He argues that people often call a bubble too ...
+
+📺 Daily Crypto Update
+
+👁️ 82 • 👍 1 • ⏱️ 14:27 • 1d ago
 
 ---
 
@@ -284,7 +314,7 @@ Ethereum is showing green candles and the plan is unchanged: a wave 2 bounce in 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 149 • 💬 10 • ⏱️ 6:38 • 1d ago
+👁️ 6K • 👍 150 • 💬 13 • ⏱️ 6:38 • 1d ago
 
 ---
 
@@ -294,37 +324,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 2K • 👍 77 • ⏱️ 6:32 • 9h ago
-
----
-
-**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=LYuwvF0CzOc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 99 • 💬 4 • ⏱️ 25:35 • 2d ago
-
----
-
-**[Wall Street KEEPS Building on Ethereum Despite the Crypto Crash](https://www.youtube.com/watch?v=o4znluIPtsA)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 19K • 👍 305 • 💬 86 • ⏱️ 38:29 • 2d ago
-
----
-
-**[💥LO TIENES QUE VER... ¿Esta SOLANA y ETHEREUM Preparando el PUMP de BITCOIN? 😱](https://www.youtube.com/watch?v=bwR2wJbGIGQ)**
-
-Patrocinado por BetFury: crypto, casino y apuestas deportivas en una sola plataforma. Usa el código [ANALISIS] al registrarte: ...
-
-📺 CryptoAnálisis
-
-👁️ 4K • 👍 338 • 💬 35 • ⏱️ 14:52 • 21h ago
+👁️ 3K • 👍 86 • ⏱️ 6:32 • 17h ago
 
 ---
 
