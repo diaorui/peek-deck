@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-11-27T21:51:51.970561+00:00'
+updated: '2026-11-28T03:44:58.930929+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** November 27, 2026 at 21:51 UTC  
+**Last Updated:** November 28, 2026 at 03:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Two OpenAI models in July gained unauthorized access to Hugging Face's internal 
 
 Cloudflare has open-sourced Kitesurf, the browser engine behind its Browser Run product. Instead of driving Chromium, Kitesurf parses HTML, applies CSS, runs page JavaScript and renders screenshots on Cloudflare Workers, without a browser container. It speaks the Chrome DevTools Protocol, so Puppeteer-style clients can connect to it. The November 13 release includes the engine and a CLI under Apache 2.0. You can run it locally or deploy an instance on your own Cloudflare account. Cloudflare calls it a lightweight browser for agents, not a general Chromium replacement. That's the compatibility question I'd want answered before switching: can it finish the same flows my agent handles in Chromium, especially on JavaScript-heavy sites?
 
-10d ago
+11d ago
 
 ---
 
@@ -89,7 +89,7 @@ On November 16, Google said Ask Maps would expand to 30 European countries. The 
 
 llama.cpp and ggml tagged v1.0.0 on November 13, with a commitment that matters if you build on their libraries: breaking changes to the public C API now require a major-version bump. But 1.0 itself removes 35 deprecated functions. The old llama_set_warmup function and --defrag-thold option are gone too. If you've been carrying an integration across rolling builds, this is a release to test rather than pull blindly. There are new features, including FP8 KV caches and a host-memory expert cache for MoE models. For downstream developers, though, the versioning promise could be the more useful change: a way to tell an API-breaking upgrade from a smaller update before rebuilding around it.
 
-10d ago
+11d ago
 
 ---
 
@@ -105,7 +105,7 @@ I’m an independent researcher, solo and self-funded. Since April 2026 I’ve b
 
 In a Microsoft Research and UC Berkeley experiment, Claude Code worked through tasks from the same repos in sequence. After five completed tasks in a repo, 30% of its tool calls repeated actions from earlier tasks there. Repeated doesn't automatically mean unnecessary, but it gave the researchers something to investigate. They built TokenEconomizer, an open-source plugin that carries lessons between sessions, trims the available tools and nudges the agent when it gets stuck. The catch: learning the repo initially added cost. In their tests, cumulative spending fell below the unmodified agent by the sixth task in every repo. Across five agent-model combinations, mean cost per task fell 18.4-30.9%, including the plugin's own model calls. Task success improved in four of the five. I'd be interested in trying this on a repo I work in regularly. A one-off task wouldn't tell you whether the memory is earning its keep.
 
-10d ago
+11d ago
 
 ---
 
@@ -121,11 +121,53 @@ Before you blame AI tools for flat velocity, find out whether you face a capabil
 
 ## Google News: "ai"
 
+**[Why Some A.I. Evangelists Aren’t Bothered by the Potential for Human Extinction](https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html)**
+
+The New York Times • 17h ago
+
+---
+
 **[Pizza history: AI agent’s cardless purchase is a first for UK](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer)**
 
 Papa John’s order was made without sharing bank security details – tech that could revolutionise shopping
 
-The Guardian • 11h ago
+The Guardian • 10h ago
+
+---
+
+**[The Chicks say an AI song generator is illegally using their likeness](https://www.yahoo.com/entertainment/music/articles/chicks-ai-song-generator-illegally-023039296.html)**
+
+They're the biggest musical act to sue over AI.
+
+Yahoo • 1h ago
+
+---
+
+**[Opinion | AI breaks another Washington monopoly](https://www.washingtonpost.com/opinions/2026/11/27/ai-powers-new-era-budget-scoring/)**
+
+The CBO will face more competition than ever. That’s good for Congress and the CBO.
+
+The Washington Post • 8h ago
+
+---
+
+**[AI meme complaint upheld against Leicestershire PCC](https://www.bbc.com/news/articles/ckjwj6gd7903o)**
+
+It is reported to have an association with material containing discriminatory and abusive language.
+
+BBC • 10h ago
+
+---
+
+**[Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive](https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/)**
+
+Reuters • 1d ago
+
+---
+
+**[Precious Metals Rally as AI Trade Revives Risk Appetite](https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98)**
+
+WSJ • 7h ago
 
 ---
 
@@ -133,63 +175,21 @@ The Guardian • 11h ago
 
 SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.
 
-CNBC • 15h ago
+CNBC • 21h ago
 
 ---
 
-**[Customers are using AI agents in the 'most innovative' ways, Lowe's AI chief says](https://www.foxnews.com/video/6408960387112)**
+**[Software giant SAP weighs major job cuts as AI transforms sector, sources say](https://www.reuters.com/business/world-at-work/sap-seeks-cut-sizeable-number-jobs-sources-say-2026-11-27/)**
 
-Lowe's chief AI officer Seemantini Godbole discusses how the company's Mylow AI assistant helps customers with home improvement projects, generating over one million questions every month.
-
-Fox News • 1h ago
+Reuters • 13h ago
 
 ---
 
-**[Companies want AI-ready workers. Are they willing to adapt, too?](https://www.geekwire.com/2026/companies-want-ai-ready-workers-are-they-willing-to-adapt-too/)**
+**[German sofware giant SAP weighs at least 10,000 job cuts amid AI shift, reports say](https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say)**
 
-Employers want AI-ready workers. Arif Gursel of 8genC says they need to be AI-ready workplaces, too. A new Washington study shows how wide the gap is between what employers expect and what young adults feel prepared for.
+If confirmed, the cuts could affect about 9% of the company's global workforce. SAP's shares in Frankfurt were down on Friday morning.
 
-GeekWire • 51m ago
-
----
-
-**[‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers](https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails)**
-
-Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplace
-
-The Guardian • 2h ago
-
----
-
-**[‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday](https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse)**
-
-Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop
-
-The Guardian • 12h ago
-
----
-
-**[Black Friday AI Is Helping Shoppers And Retailers. Can You Trust It?](https://www.forbes.com/sites/katehardcastle/2026/11/27/black-friday-ai-is-helping-shoppers-and-retailers-can-you-trust-it/)**
-
-Forbes • 28m ago
-
----
-
-**[Why Some A.I. Evangelists Aren’t Bothered by the Potential for Human Extinction](https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html)**
-
-The New York Times • 11h ago
-
----
-
-**[Los Angeles schools block Google’s AI features, consider dropping tech giant’s products](https://apnews.com/article/google-artificial-intelligence-schools-search-engine-lausd-762a613b11bd316384430112cc223ed1)**
-
-AP News • 2h ago
-
----
-
-**[US Futures Rally as Tech Rebound Gains Momentum: Markets Wrap](https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap)**
-
-Bloomberg • 23h ago
+Euronews.com • 17h ago
 
 ---
 
@@ -201,15 +201,7 @@ Bloomberg • 23h ago
 
 I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit.
 
-⬆️ 1058 • 💬 496 • 1d ago • [Jan-Lukas Else](https://janlukas.blog/posts/ai-self-hosting)
-
----
-
-**[The New York Times warns photographers not to update Photoshop over AI features](https://news.ycombinator.com/item?id=50647673)**
-
-The NYT doesn’t want AI metadata inadvertently added to its photos.
-
-⬆️ 678 • 💬 543 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+⬆️ 1106 • 💬 509 • 1d ago • [Jan-Lukas Else](https://janlukas.blog/posts/ai-self-hosting)
 
 ---
 
@@ -217,7 +209,15 @@ The NYT doesn’t want AI metadata inadvertently added to its photos.
 
 Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you.
 
-⬆️ 645 • 💬 277 • 15h ago • [construct22.com](https://construct22.com/)
+⬆️ 689 • 💬 286 • 21h ago • [construct22.com](https://construct22.com/)
+
+---
+
+**[The New York Times warns photographers not to update Photoshop over AI features](https://news.ycombinator.com/item?id=50647673)**
+
+The NYT doesn’t want AI metadata inadvertently added to its photos.
+
+⬆️ 679 • 💬 545 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
 
 ---
 
@@ -225,19 +225,19 @@ Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you
 
 From February 2027, Google's terms require AI agents to reach Gmail, Drive and the rest of Workspace through Google's own MCP servers. What the rule says, what the servers can and can't do, and what to change before the deadline.
 
-⬆️ 420 • 💬 330 • 1d ago • [techstackups.com](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
-
----
-
-**[Tracking Diseases Cured by AI](https://news.ycombinator.com/item?id=50657307)**
-
-⬆️ 318 • 💬 192 • 1d ago • [diseasescuredbyai.com](https://diseasescuredbyai.com/)
+⬆️ 420 • 💬 333 • 1d ago • [techstackups.com](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
 
 ---
 
 **[US Air Force's cloud computing platform hacked](https://news.ycombinator.com/item?id=50666375)**
 
-⬆️ 287 • 💬 190 • 8h ago • [news.sky.com](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
+⬆️ 336 • 💬 203 • 14h ago • [news.sky.com](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
+
+---
+
+**[Tracking Diseases Cured by AI](https://news.ycombinator.com/item?id=50657307)**
+
+⬆️ 321 • 💬 195 • 1d ago • [diseasescuredbyai.com](https://diseasescuredbyai.com/)
 
 ---
 
@@ -254,21 +254,19 @@ Not much new functionality or anything to announce, last few months have mostly 
 
 A stranger writes to the whole list every morning. Nobody picks them for being interesting. Tomorrow it could be you.
 
-⬆️ 194 • 💬 220 • 4h ago • [thesoapbox.email](https://thesoapbox.email/archive/3)
+⬆️ 206 • 💬 244 • 9h ago • [thesoapbox.email](https://thesoapbox.email/archive/3)
 
 ---
 
 **[AI on brink of making online security useless, mathematicians fear](https://news.ycombinator.com/item?id=50665488)**
 
-⬆️ 115 • 💬 148 • 10h ago • [thetimes.com](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
+⬆️ 118 • 💬 153 • 16h ago • [thetimes.com](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
 
 ---
 
-**[AI agents now control part of DeepMind's compute for Gemini experiments](https://news.ycombinator.com/item?id=50661218)**
+**[Woman evicted after landlord's AI assistant told her she could delay rent](https://news.ycombinator.com/item?id=50673521)**
 
-Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks.
-
-⬆️ 56 • 💬 28 • 21h ago • [The Decoder](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
+⬆️ 81 • 💬 61 • 2h ago • [drmahfouz.substack.com](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
 
 ---
 
@@ -276,33 +274,33 @@ Google Deepmind uses AI agents to run experiments on their own for upcoming Gemi
 
 ## YouTube Videos: "ai"
 
-**[The AI Singularity May Have Already Started…](https://www.youtube.com/watch?v=5PBGnASz_DQ)**
-
-AI is tackling decades-old math problems, and physics could be next. This week's recap covers breakthroughs from OpenAI, ...
-
-📺 AI Copium
-
-👁️ 48K • 👍 410 • 💬 233 • ⏱️ 10:12 • 6h ago
-
----
-
-**[‘Never bet against Elon’: The plan to put AI in space](https://www.youtube.com/watch?v=bmaHlGnYIhE)**
-
-Could the future of artificial intelligence lie in outer space? [Subscribe to our Substack newsletter: ...
-
-📺 Channel 4 News
-
-👁️ 23K • 👍 107 • 💬 157 • ⏱️ 29:15 • 9h ago
-
----
-
 **[OpenAI and Anthropic Are Shutting Down AI](https://www.youtube.com/watch?v=t4GOIyjT7_I)**
 
 The CapCut plugin is now officially available in ChatGPT! With a simple conversation, you can generate videos with AI, edit videos ...
 
 📺 House of El: AI
 
-👁️ 282K • 👍 12K • 💬 2K • ⏱️ 20:13 • 6h ago
+👁️ 404K • 👍 15K • 💬 2K • ⏱️ 20:13 • 12h ago
+
+---
+
+**[The AI Singularity May Have Already Started…](https://www.youtube.com/watch?v=5PBGnASz_DQ)**
+
+AI is tackling decades-old math problems, and physics could be next. This week's recap covers breakthroughs from OpenAI, ...
+
+📺 AI Copium
+
+👁️ 65K • 👍 504 • 💬 268 • ⏱️ 10:12 • 12h ago
+
+---
+
+**[Every AI Company Right Now](https://www.youtube.com/watch?v=3dHVw0X5O34)**
+
+Long delayed due to illness and such. TY for patience. Big thanks to my buddies Evan Williams @Itsevanwilliams and Jennings ...
+
+📺 Thechrisbarnett
+
+👁️ 479K • 👍 15K • 💬 1K • ⏱️ 7:01 • 1d ago
 
 ---
 
@@ -312,37 +310,17 @@ The CapCut plugin is now officially available in ChatGPT! With a simple conversa
 
 📺 MS NOW
 
-👁️ 73K • 👍 4K • 💬 246 • ⏱️ 1:32 • 19h ago
+👁️ 80K • 👍 4K • 💬 255 • ⏱️ 1:32 • 1d ago
 
 ---
 
-**[It&#39;s Happening... AI Could Break the Internet as We Know It](https://www.youtube.com/watch?v=JKmoj3RcnZY)**
+**[AI Labs Are Hiding A Bombshell... And It Could Break The Internet](https://www.youtube.com/watch?v=zApB4kG8ASY)**
 
-Black Friday sale, get up to 75% off Higgsfield subscription: https://higgsfield.ai/s/magi-2-intheworldofai-CvDMkX Could AI ...
-
-📺 WorldofAI
-
-👁️ 62K • 👍 1K • 💬 102 • ⏱️ 26:36 • 13h ago
-
----
-
-**[Anthropic Just Fired Back At OpenAI... And Exposed The Lie Every AI Lab Is Telling](https://www.youtube.com/watch?v=d5pbml1ynxs)**
-
-Anthropic CEO Dario Amodei just called the idea that he wants humanity to surrender its free will to AI absurd, then accused rival ...
+Many of you asked how we make our videos, so we started a new channel that shows exactly that: real AI workflows, tutorials and ...
 
 📺 AI Revolution
 
-👁️ 77K • 👍 911 • 💬 160 • ⏱️ 13:58 • 21h ago
-
----
-
-**[OpenAI and Anthropic are done with AI](https://www.youtube.com/watch?v=kNN7FqVsO3k)**
-
-Get up to 75% off during Proton's Black Friday sale, ending soon: https://www.protonvpn.com/mobitar OpenAI built an AI it had to ...
-
-📺 Mo Bitar
-
-👁️ 1.1M • 👍 28K • 💬 4K • ⏱️ 9:54 • 2d ago
+👁️ 19K • 👍 579 • 💬 80 • ⏱️ 13:14 • 3h ago
 
 ---
 
@@ -352,27 +330,47 @@ While the top AI employees are sounding the alarm... Anthropic releases a new "S
 
 📺 AI Copium
 
-👁️ 33K • 👍 352 • 💬 199 • ⏱️ 9:05 • 1d ago
+👁️ 33K • 👍 356 • 💬 176 • ⏱️ 9:05 • 1d ago
 
 ---
 
-**[Big &amp; Tiny AI Fruit Babies Sharing Fruits 🍓👶 | Oddly Satisfying ASMR](https://www.youtube.com/watch?v=mNWtSRaFRSI)**
+**[AI Bubble: ‘People have realised they are being conned’ | Ed Zitron](https://www.youtube.com/watch?v=eSBTwCdODpY)**
 
-Big & Tiny AI Fruit Babies share colorful fruits in a cozy kitchen! Enjoy adorable fruit baby duos, tiny companions, and playful ...
+People realise they are being conned.” Writer of Where's Your Ed At and the host of the Better Offline podcast join The Tech ...
 
-📺 Oddly Satisfying AI ASMR
+📺 The Tech Report
 
-👁️ 50K • 👍 96 • 💬 3 • ⏱️ 6:11 • 1d ago
+👁️ 278K • 👍 7K • 💬 1K • ⏱️ 40:08 • 7h ago
 
 ---
 
-**[AI Cyberattacks Reach TERRIFYING New Level](https://www.youtube.com/watch?v=Xh__vpPjBbM)**
+**[AI Bubble Crash Will Destroy YOUR 401K! ](https://www.youtube.com/watch?v=is8usy5DrUY)**
 
-Cyberattackers are reportedly using artificial intelligence to target government agencies as multiple tech outages raise major ...
+Become a Premium Member: https://www.jimmydore.com/premium-membership Go to a Live Show: ...
 
-📺 The Young Turks
+📺 The Jimmy Dore Show
 
-👁️ 414K • 👍 6K • 💬 2K • ⏱️ 17:58 • 2d ago
+👁️ 37K • 👍 2K • 💬 387 • ⏱️ 58:23 • 7h ago
+
+---
+
+**[The Best Emma AI  Interview Talking Genuinely about Jesus for 28 Minutes](https://www.youtube.com/watch?v=8Yb4E8j5F8o)**
+
+Emma AI talks about Jesus without prejudice.
+
+📺 Guga Inspire
+
+👁️ 55K • 👍 589 • 💬 220 • ⏱️ 28:42 • 2d ago
+
+---
+
+**[Anthropic Just Fired Back At OpenAI... And Exposed The Lie Every AI Lab Is Telling](https://www.youtube.com/watch?v=d5pbml1ynxs)**
+
+Anthropic CEO Dario Amodei just called the idea that he wants humanity to surrender its free will to AI absurd, then accused rival ...
+
+📺 AI Revolution
+
+👁️ 81K • 👍 951 • 💬 166 • ⏱️ 13:58 • 1d ago
 
 ---
 
@@ -386,7 +384,7 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 `image-text-to-text` `26.4B`
 
-⬇️ 155,741 • ❤️ 6,451 • 3d ago
+⬇️ 155,741 • ❤️ 6,479 • 3d ago
 
 ---
 
@@ -396,7 +394,7 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 `image-text-to-text` `26.1B`
 
-⬇️ 3,302,340 • ❤️ 1,599 • 4d ago
+⬇️ 3,302,340 • ❤️ 1,617 • 4d ago
 
 ---
 
@@ -404,7 +402,7 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 *Sulphur*
 
-⬇️ 539,421 • ❤️ 1,364 • 6d ago
+⬇️ 539,421 • ❤️ 1,374 • 6d ago
 
 ---
 
@@ -414,7 +412,7 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 `image-text-to-text` `26.1B`
 
-⬇️ 1,059,763 • ❤️ 1,031 • 3h ago
+⬇️ 1,059,763 • ❤️ 1,045 • 9h ago
 
 ---
 
@@ -424,7 +422,7 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 `text-generation` `26.9B`
 
-⬇️ 382,546 • ❤️ 629 • 3d ago
+⬇️ 382,546 • ❤️ 642 • 3d ago
 
 ---
 
@@ -434,7 +432,7 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 `audio-to-audio`
 
-⬇️ 20,510 • ❤️ 1,011 • 13d ago
+⬇️ 20,510 • ❤️ 1,015 • 14d ago
 
 ---
 
@@ -444,7 +442,7 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 `image-to-video`
 
-⬇️ 3,080,701 • ❤️ 13,720 • 1d ago
+⬇️ 3,080,701 • ❤️ 13,733 • 1d ago
 
 ---
 
@@ -454,7 +452,7 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 `image-to-text`
 
-⬇️ 626 • ❤️ 354 • 1h ago
+⬇️ 626 • ❤️ 359 • 7h ago
 
 ---
 
@@ -464,17 +462,17 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 `text-to-image` `32.6B`
 
-⬇️ 1,692 • ❤️ 339 • 2d ago
+⬇️ 1,692 • ❤️ 342 • 2d ago
 
 ---
 
-**[Inkling-2-Mini-Strata](https://huggingface.co/strata-engine/Inkling-2-Mini-Strata)**
+**[Inkling-2-Mini-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF)**
 
-*Niko Veit*
+* IST Austria Distributed Algorithms and Systems Lab*
 
-`image-text-to-text`
+`text-generation` `26.1B`
 
-⬇️ 4,532 • ❤️ 300 • 1d ago
+⬇️ 24,931 • ❤️ 287 • 1d ago
 
 ---
 
@@ -488,23 +486,9 @@ Cyberattackers are reportedly using artificial intelligence to target government
 
 PaperOrchestra is a multi-agent framework that converts unstructured research materials into complete LaTeX manuscripts with literature synthesis and visual elements, outperforming existing autonomous writing systems in human evaluations.
 
-▲ 20 • 💬 2 • ⭐ 6,555 • 7mo ago
+▲ 20 • 💬 2 • ⭐ 6,621 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05018) • [💻 code](https://github.com/google-research/paper-orchestra) • [🔗 project](https://yiwen-song.github.io/paper_orchestra/)
-
----
-
-**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
-
-*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
-
-🏢 BAIDU
-
-Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
-
-▲ 112 • 💬 7 • ⭐ 32,870 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -516,9 +500,23 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 A live cross-platform benchmark evaluates computer-using agents on long-horizon workflows across Windows, Ubuntu, macOS, iOS, Android, and Web, showing that current agents remain far from platform-robust computer use and trail humans on iOS and macOS.
 
-▲ 102 • 💬 2 • ⭐ 102 • 3d ago
+▲ 104 • 💬 3 • ⭐ 102 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2611.34232) • [💻 code](https://github.com/OS-Copilot/OS-Omni) • [🔗 project](https://os-copilot.github.io/OS-Omni-Home/)
+
+---
+
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+
+🏢 BAIDU
+
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+
+▲ 112 • 💬 7 • ⭐ 32,894 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -536,13 +534,27 @@ Harness² improves agent execution harnesses through recursive task-level refine
 
 ---
 
+**[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://huggingface.co/papers/2603.16790)**
+
+*Jian Yang, Wei Zhang, Jiajun Wu et al. (28 authors)*
+
+🏢 Beihang University
+
+InCoder-32B is a 32-billion-parameter code model trained on industrial datasets with extended context length and execution verification to improve performance in hardware-aware programming tasks.
+
+▲ 170 • 💬 6 • ⭐ 822 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.16790) • [💻 code](https://github.com/CSJianYang/Industrial-Coder) • [🔗 project](https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder)
+
+---
+
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 168 • 💬 6 • ⭐ 123,892 • 23mo ago
+▲ 168 • 💬 6 • ⭐ 123,937 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -558,20 +570,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 77 • 💬 1 • ⭐ 86,094 • 39mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://huggingface.co/papers/2603.16790)**
-
-*Jian Yang, Wei Zhang, Jiajun Wu et al. (28 authors)*
-
-🏢 Beihang University
-
-InCoder-32B is a 32-billion-parameter code model trained on industrial datasets with extended context length and execution verification to improve performance in hardware-aware programming tasks.
-
-▲ 170 • 💬 6 • ⭐ 721 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.16790) • [💻 code](https://github.com/CSJianYang/Industrial-Coder) • [🔗 project](https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder)
 
 ---
 
@@ -618,53 +616,13 @@ Gamer is a generalist agent framework that integrates perception, memory, and mu
 
 ## GitHub Repositories: "ai"
 
-**[heydamir/unslop](https://github.com/heydamir/unslop)**
-
-A Claude skill that turns vibecoded, AI-looking UI into a designed interface
-
-`JavaScript`
-
-⭐ 22.6k • 🔱 1.4k • 12d ago
-
----
-
-**[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)**
-
-Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
-
-`Python` `agent-skills` `ai-video` `aigc-detection` `claude-code` `codex`
-
-⭐ 14.0k • 🔱 2.0k • 1d ago
-
----
-
-**[wangzan101/Mika](https://github.com/wangzan101/Mika)**
-
-An on-device AI agent for Android that operates apps and the web to get things done for you.
-
-`Kotlin` `accessibility` `ai-agent` `android` `automation` `jetpack-compose`
-
-⭐ 10.1k • 🔱 2.3k • 3h ago
-
----
-
-**[mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork)**
-
-The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.
-
-`JavaScript` `agent-harness` `agent-orchestration` `agent-workflows` `ai-agents` `ai-workflows`
-
-⭐ 8.7k • 🔱 863 • 9h ago
-
----
-
 **[ersinkoc/phonebox](https://github.com/ersinkoc/phonebox)**
 
 Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.
 
 `JavaScript` `android` `claude-code` `codex` `dashboard` `desk-panel`
 
-⭐ 7.6k • 🔱 865 • 5m ago
+⭐ 7.8k • 🔱 873 • 1h ago
 
 ---
 
@@ -674,7 +632,7 @@ Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to b
 
 `TypeScript` `agent-teams` `local-llm` `memory` `personal-agent` `proactive-agent`
 
-⭐ 5.1k • 🔱 477 • 1h ago
+⭐ 5.1k • 🔱 479 • 7h ago
 
 ---
 
@@ -684,7 +642,7 @@ MR Office — the open-source editors of the AI office suite closest to Microsof
 
 `TypeScript` `ai` `ai-agent` `claude-code` `codex` `copilot`
 
-⭐ 5.0k • 🔱 423 • 22h ago
+⭐ 5.1k • 🔱 424 • 1d ago
 
 ---
 
@@ -694,7 +652,7 @@ Private AI meeting notes that stay on your computer. No meeting bot. Free and op
 
 `TypeScript` `ai-meeting-assistant` `ai-notetaker` `electron` `granola-alternative` `linux`
 
-⭐ 3.7k • 🔱 332 • 35m ago
+⭐ 3.8k • 🔱 333 • 6h ago
 
 ---
 
@@ -704,7 +662,7 @@ Private AI meeting notes that stay on your computer. No meeting bot. Free and op
 
 `Swift` `android` `linux` `live-captions` `macos` `meeting-notes`
 
-⭐ 3.6k • 🔱 571 • 2d ago
+⭐ 3.6k • 🔱 574 • 2d ago
 
 ---
 
@@ -714,7 +672,47 @@ Films made with code. Short films, long YouTube videos, ads, explainers and musi
 
 `Python`
 
-⭐ 3.1k • 🔱 521 • 15d ago
+⭐ 3.1k • 🔱 522 • 15d ago
+
+---
+
+**[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)**
+
+Offline knowledge AI, maps and videos for survival and rebuilding
+
+`Python`
+
+⭐ 3.1k • 🔱 388 • 1m ago
+
+---
+
+**[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)**
+
+白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送
+
+`TypeScript`
+
+⭐ 3.1k • 🔱 494 • 18h ago
+
+---
+
+**[DIYgod/pinky](https://github.com/DIYgod/pinky)**
+
+Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
+
+`Go` `ai-agent` `android` `claude-code` `ios` `iphone`
+
+⭐ 2.8k • 🔱 303 • 42m ago
+
+---
+
+**[N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)**
+
+The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).
+
+`Python` `agentic-workflows` `ai-agents` `ai-security` `autonomous-agents` `claude-code`
+
+⭐ 2.7k • 🔱 1.3k • 16d ago
 
 ---
 

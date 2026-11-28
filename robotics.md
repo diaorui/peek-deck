@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-27T21:51:51.987957+00:00'
+updated: '2026-11-28T03:44:58.943006+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** November 27, 2026 at 21:51 UTC  
+**Last Updated:** November 28, 2026 at 03:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! I’ve been exploring robot learning, world models, and physical A
 
 We're now testing Asimov 1 outdoors, starting with the new walking gait. We're writing a paper on it and plan to open-source it.
 
-12d ago
+13d ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I want to participate in th genius robotics olympiad. The allowed kits ar
 
 Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie chassis and an accelerometer and gyroscope sensor,all of which wirelessly controlled Im trying to make the wires look better cuz rn its just wire hell... Im tryna use single core wire so any advice?
 
-12d ago
+13d ago
 
 ---
 
@@ -110,15 +110,37 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
+**[Exploring an AI reboot and the ethics that surround it](https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it)**
+
+PBS • 4h ago
+
+---
+
 **[Robots will have a staggering economic impact](https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact)**
 
 The Economist • 1d ago
 
 ---
 
-**[Humanoid robots are coming—sooner than you think](https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think)**
+**[Robotic exoskeleton helps Shrewsbury seven-year-old take first steps](https://www.bbc.com/news/articles/c6m2517m8804o)**
 
-The Economist • 1d ago
+Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says.
+
+BBC • 15h ago
+
+---
+
+**[Sony’s dog robot can’t do chores but offers companionship](https://apnews.com/article/robots-aibo-sony-japan-dogs-companionship-ee0dbf69988f0c6c18ccda4756db66f9)**
+
+AP News • 21h ago
+
+---
+
+**[I spent a day only using robot services. Here's how I'd rank them.](https://www.businessinsider.com/robot-services-ranking-list-costs-humanoids-robotaxis-2026-11)**
+
+Business Insider's Lloyd Lee used every robot service he could find in San Francisco, from robotaxis to humanoid cleaning services.
+
+Business Insider • 15h ago
 
 ---
 
@@ -130,55 +152,31 @@ CNBC • 1d ago
 
 ---
 
-**[I spent a day only using robot services. Here's how I'd rank them.](https://www.businessinsider.com/robot-services-ranking-list-costs-humanoids-robotaxis-2026-11)**
+**[Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48%](https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside)**
 
-Business Insider's Lloyd Lee used every robot service he could find in San Francisco, from robotaxis to humanoid cleaning services.
-
-Business Insider • 9h ago
+South China Morning Post • 13h ago
 
 ---
 
-**[From Cassette Tapes to Humanoids: TDK Chases Demand for Sensors in Data Centers, Robots](https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth)**
+**[Humanoid robots are coming – sooner than you think](https://www.afr.com/technology/humanoid-robots-are-coming-sooner-than-you-think-20261127-p61hwo)**
 
-Bloomberg.com • 1d ago
+An android that takes the housework off your hands is easy to cast as a force for good. One that takes your job is an obvious villain.
 
----
-
-**[Volvo tests humanoid robots at Belgium plant ahead of 2027 rollout](https://interestingengineering.com/ai-robotics/volvo-trains-humanoid-robots-to-handle-factory-tasks-targets-production-in-2027)**
-
-Volvo is training Hexagon's AEON humanoid robots at its Ghent factory, with a production rollout targeted for mid-2027.
-
-Interesting Engineering • 18h ago
+AFR • 22h ago
 
 ---
 
-**[45 humanoid robots process up to 1,200 parcels an hour in postal logistics trial](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-postal-trial)**
+**[GXO doubling down on robotics in 2027](https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/)**
 
-China Post deploys 45 ROBOTERA humanoids to automate parcel handling in a large-scale logistics trial.
+GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio.
 
-Interesting Engineering • 12h ago
-
----
-
-**[With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War](https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html)**
-
-The New York Times • 3h ago
+The Robot Report • 13h ago
 
 ---
 
-**[Robotic exoskeleton helps Shrewsbury seven-year-old take first steps](https://www.bbc.com/news/articles/c6m2517m8804o)**
+**[FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity](https://www.morningstar.com/news/pr-newswire/20261127cn07270/ff-eai-robotics-ecosystem-ffr-announces-parent-company-faraday-future-ffai-ownership-of-approximately-41-million-in-ffr-equity)**
 
-Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says.
-
-BBC • 9h ago
-
----
-
-**[Qualcomm, Cava, and Dutch Bros Earnings and a Robotics IPO](https://www.fool.com/investing/2026/11/27/qualcomm-cava-and-dutch-bros-earnings-and-a-robotics-ipo/)**
-
-Knowing how to control one’s emotions can be just as important as picking the right stocks. Plus, Qualcomm, Cava, and Dutch Bros earnings and a first look at robotics stock Agility Robotics.
-
-The Motley Fool • 4h ago
+Morningstar • 14h ago
 
 ---
 
@@ -192,7 +190,7 @@ Tesla Optimus is moving closer to becoming a real household assistant. Elon Musk
 
 📺 Fresh Discovery
 
-👁️ 14K • 👍 127 • 💬 34 • ⏱️ 21:24 • 16h ago
+👁️ 15K • 👍 132 • 💬 36 • ⏱️ 21:24 • 22h ago
 
 ---
 
@@ -202,17 +200,7 @@ Roomba brought robots into millions of homes, but never delivered the iPhone mom
 
 📺 MTS 
 
-👁️ 34K • 👍 99 • 💬 12 • ⏱️ 16:20 • 4d ago
-
----
-
-**[Unboxing a 100K Agibot Robot #agibot #agibotanz #agibotsea](https://www.youtube.com/watch?v=0dQUVUhq90w)**
-
-Unboxing a 100k Robot from Agibot so it can do my job.
-
-📺 Insert Richie
-
-👁️ 921K • 👍 34K • 💬 561 • ⏱️ 2:04 • 4d ago
+👁️ 36K • 👍 102 • 💬 12 • ⏱️ 16:20 • 4d ago
 
 ---
 
@@ -222,7 +210,7 @@ A San Francisco lab is showing off Iris, a humanoid robot with a mood informed b
 
 📺 NBC News
 
-👁️ 43K • 👍 319 • 💬 118 • ⏱️ 3:53 • 2d ago
+👁️ 44K • 👍 322 • 💬 119 • ⏱️ 3:53 • 3d ago
 
 ---
 
@@ -232,17 +220,17 @@ Russian President Vladimir Putin witnesses a spectacular dance performance by AI
 
 📺 NDTV Profit
 
-👁️ 95K • 👍 438 • 💬 100 • ⏱️ 3:28 • 1d ago
+👁️ 104K • 👍 492 • 💬 106 • ⏱️ 3:28 • 1d ago
 
 ---
 
-**[XPENG IRON Robot LIVE at AI Day 2026 – No Remote Control](https://www.youtube.com/watch?v=xooUABY15EU)**
+**[Unboxing a 100K Agibot Robot #agibot #agibotanz #agibotsea](https://www.youtube.com/watch?v=0dQUVUhq90w)**
 
-The next-generation XPENG IRON humanoid robot takes the stage at XPENG AI Day 2026, speaking English and interacting with ...
+Unboxing a 100k Robot from Agibot so it can do my job.
 
-📺 DPCcars
+📺 Insert Richie
 
-👁️ 15K • 👍 83 • 💬 17 • ⏱️ 53:33 • 2d ago
+👁️ 937K • 👍 35K • 💬 567 • ⏱️ 2:04 • 4d ago
 
 ---
 
@@ -252,7 +240,17 @@ Robots are ditching metal joints and growing muscles instead. The 3D-printed leg
 
 📺 Digital Species
 
-👁️ 28K • 👍 780 • 💬 41 • ⏱️ 1:23 • 4d ago
+👁️ 29K • 👍 782 • 💬 41 • ⏱️ 1:23 • 5d ago
+
+---
+
+**[China’s New AI Robot Army Is Terrifying...](https://www.youtube.com/watch?v=bOOf9boeiKE)**
+
+China just turned Shenzhen into a giant robot show during APEC week, and 151 humanoids set a Guinness World Record for the ...
+
+📺 MACHINEKIND
+
+👁️ 19K • 👍 270 • 💬 30 • ⏱️ 13:00 • 4d ago
 
 ---
 
@@ -272,17 +270,17 @@ I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot f
 
 📺 Eric’s Tech World
 
-👁️ 28K • 👍 291 • 💬 43 • ⏱️ 13:13 • 5d ago
+👁️ 28K • 👍 295 • 💬 43 • ⏱️ 13:13 • 5d ago
 
 ---
 
-**[China’s New AI Robot Army Is Terrifying...](https://www.youtube.com/watch?v=bOOf9boeiKE)**
+**[Elon Just Gave A Huge Optimus Update | It&#39;s Not Good News](https://www.youtube.com/watch?v=PcIUEgNQyXM)**
 
-China just turned Shenzhen into a giant robot show during APEC week, and 151 humanoids set a Guinness World Record for the ...
+Thanks to Albert for sponsoring this video. Genius is an AI-powered financial assistant. Genius can make mistakes. Albert Genius ...
 
-📺 MACHINEKIND
+📺 Ryan Shaw
 
-👁️ 19K • 👍 264 • 💬 30 • ⏱️ 13:00 • 3d ago
+👁️ 137K • 👍 2K • 💬 295 • ⏱️ 16:03 • 4d ago
 
 ---
 
