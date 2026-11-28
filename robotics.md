@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-11-28T03:44:58.943006+00:00'
+updated: '2026-11-28T12:45:18.119984+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** November 28, 2026 at 03:44 UTC  
+**Last Updated:** November 28, 2026 at 12:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I’ve been exploring robot learning, world models, and physical AI lately, and I’m looking to connect with people who share similar interests. I feel like there’s a lot of interesting stuff to build in this space right now, and I’d love to meet researchers, engineers, or anyone interested in exploring ideas and potentially building something together. If this sounds like you, feel free to comment or DM me. Would love to chat!
 
-12d ago
+13d ago
 
 ---
 
@@ -68,7 +68,7 @@ Next robot will be a rover with the turret on top of it. Since it’s fixed the 
 
 Hello, I want to participate in th genius robotics olympiad. The allowed kits are REV, TETRIX, VEX-EXP, VEX-V5, VEX-Pro, goBilda, other comparable robotics kits, or student-developed robots using similar motor power and operating at 12 V or less. The issue is that I don't have access to any of those. The best motors and hubs I can use are mbot and Lego mindstorm, which are both pretty weak. Are there any cheap motors and a hub? They must be controlled remotely.
 
-12d ago
+13d ago
 
 ---
 
@@ -82,7 +82,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 **[VICON VERO 2.2 MOTION CAPTURE CAMERA SYSTEM FOR SALE](https://www.reddit.com/r/robotics/comments/1xwsrgh/vicon_vero_22_motion_capture_camera_system_for/)**
 
-12d ago
+13d ago
 
 ---
 
@@ -102,7 +102,7 @@ Its not completely ready,but uts gonna have a robotic arm,camera,rocker bogie ch
 
 Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom legs, hands or actuators, with a Mac mini M4 Pro strapped to its back running an open language model entirely offline. That seems backwards from how people usually talk about humanoid hardware, where the hard part is supposed to be the actuators and the dexterous hand, the stuff that takes years to engineer. Apple apparently skipped all of that and just bought the body. Same week, Unitree itself had a supplier deliver it a bolt-on "brain backpack" for extra compute, treating its own compute stack as a separate module you can plug onto the body after the fact. If the maker of the body thinks of the brain as removable, and an outside company can drop its own brain onto that body and get a 91 percent hit rate in unfamiliar rooms, the chassis starts to look like something you buy off a shelf rather than something you have to own end to end. Is there an engineering reason the body stays hard to copy even once this happens, or is the leg-and-hand work already commoditizing faster than the training-and-software side?
 
-13d ago
+14d ago
 
 ---
 
@@ -110,37 +110,9 @@ Apple's HALO system, reported this week, runs on a stock Unitree G1, no custom l
 
 ## Google News: "robotics"
 
-**[Exploring an AI reboot and the ethics that surround it](https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it)**
-
-PBS • 4h ago
-
----
-
 **[Robots will have a staggering economic impact](https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact)**
 
-The Economist • 1d ago
-
----
-
-**[Robotic exoskeleton helps Shrewsbury seven-year-old take first steps](https://www.bbc.com/news/articles/c6m2517m8804o)**
-
-Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says.
-
-BBC • 15h ago
-
----
-
-**[Sony’s dog robot can’t do chores but offers companionship](https://apnews.com/article/robots-aibo-sony-japan-dogs-companionship-ee0dbf69988f0c6c18ccda4756db66f9)**
-
-AP News • 21h ago
-
----
-
-**[I spent a day only using robot services. Here's how I'd rank them.](https://www.businessinsider.com/robot-services-ranking-list-costs-humanoids-robotaxis-2026-11)**
-
-Business Insider's Lloyd Lee used every robot service he could find in San Francisco, from robotaxis to humanoid cleaning services.
-
-Business Insider • 15h ago
+The Economist • 2d ago
 
 ---
 
@@ -148,13 +120,27 @@ Business Insider • 15h ago
 
 Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
-**[Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48%](https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside)**
+**[2026 in photos: AI, robots and new technology](https://www.reuters.com/investigates/special-report/year-end-2026-photos-ai/)**
 
-South China Morning Post • 13h ago
+Reuters • 3d ago
+
+---
+
+**[I spent a day only using robot services. Here's how I'd rank them.](https://www.businessinsider.com/robot-services-ranking-list-costs-humanoids-robotaxis-2026-11)**
+
+Business Insider's Lloyd Lee used every robot service he could find in San Francisco, from robotaxis to humanoid cleaning services.
+
+Business Insider • 1d ago
+
+---
+
+**[From Cassette Tapes to Humanoids: TDK Chases Demand for Sensors in Data Centers, Robots](https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -162,21 +148,37 @@ South China Morning Post • 13h ago
 
 An android that takes the housework off your hands is easy to cast as a force for good. One that takes your job is an obvious villain.
 
-AFR • 22h ago
+AFR • 1d ago
 
 ---
 
-**[GXO doubling down on robotics in 2027](https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/)**
+**[Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48%](https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside)**
 
-GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio.
-
-The Robot Report • 13h ago
+South China Morning Post • 22h ago
 
 ---
 
-**[FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity](https://www.morningstar.com/news/pr-newswire/20261127cn07270/ff-eai-robotics-ecosystem-ffr-announces-parent-company-faraday-future-ffai-ownership-of-approximately-41-million-in-ffr-equity)**
+**[45 humanoid robots process up to 1,200 parcels an hour in postal logistics trial](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-postal-trial)**
 
-Morningstar • 14h ago
+China Post deploys 45 ROBOTERA humanoids to automate parcel handling in a large-scale logistics trial.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Volvo Is Bringing Humanoid Robots Into Its Factories. Here's When They'll Start Working](https://insideevs.com/news/816850/volvo-cars-humanoid-robots-training-factory/)**
+
+The first Aeon units are already being trained at Volvo’s factory in Ghent, Belgium. The next step is giving them real work.
+
+InsideEVs • 2d ago
+
+---
+
+**[How an army of rolling robots acts as Santa’s little helpers in Los Angeles County](https://www.latimes.com/business/story/2026-11-28/puma-autonomous-robots-los-angeles)**
+
+Autonomous robots in Los Angeles are organizing millions of items for the sportswear maker Puma ahead of the holiday season.
+
+Los Angeles Times • 1h ago
 
 ---
 
@@ -190,7 +192,7 @@ Tesla Optimus is moving closer to becoming a real household assistant. Elon Musk
 
 📺 Fresh Discovery
 
-👁️ 15K • 👍 132 • 💬 36 • ⏱️ 21:24 • 22h ago
+👁️ 16K • 👍 144 • 💬 42 • ⏱️ 21:24 • 1d ago
 
 ---
 
@@ -200,27 +202,7 @@ Roomba brought robots into millions of homes, but never delivered the iPhone mom
 
 📺 MTS 
 
-👁️ 36K • 👍 102 • 💬 12 • ⏱️ 16:20 • 4d ago
-
----
-
-**[Lab says humanoid robot uses living human neurons to help think](https://www.youtube.com/watch?v=Y2jvWKAXhDg)**
-
-A San Francisco lab is showing off Iris, a humanoid robot with a mood informed by real, living human cells. The lab says the robot ...
-
-📺 NBC News
-
-👁️ 44K • 👍 322 • 💬 119 • ⏱️ 3:53 • 3d ago
-
----
-
-**[Putin Raises His Eyebrows As Humanoid Robots Put On A Spectacular Dance Show](https://www.youtube.com/watch?v=95TM0MbfP6g)**
-
-Russian President Vladimir Putin witnesses a spectacular dance performance by AI-powered humanoid robots at the AI Journey ...
-
-📺 NDTV Profit
-
-👁️ 104K • 👍 492 • 💬 106 • ⏱️ 3:28 • 1d ago
+👁️ 37K • 👍 104 • 💬 12 • ⏱️ 16:20 • 4d ago
 
 ---
 
@@ -230,7 +212,37 @@ Unboxing a 100k Robot from Agibot so it can do my job.
 
 📺 Insert Richie
 
-👁️ 937K • 👍 35K • 💬 567 • ⏱️ 2:04 • 4d ago
+👁️ 960K • 👍 35K • 💬 575 • ⏱️ 2:04 • 5d ago
+
+---
+
+**[Lab says humanoid robot uses living human neurons to help think](https://www.youtube.com/watch?v=Y2jvWKAXhDg)**
+
+A San Francisco lab is showing off Iris, a humanoid robot with a mood informed by real, living human cells. The lab says the robot ...
+
+📺 NBC News
+
+👁️ 44K • 👍 326 • 💬 122 • ⏱️ 3:53 • 3d ago
+
+---
+
+**[Putin Raises His Eyebrows As Humanoid Robots Put On A Spectacular Dance Show](https://www.youtube.com/watch?v=95TM0MbfP6g)**
+
+Russian President Vladimir Putin witnesses a spectacular dance performance by AI-powered humanoid robots at the AI Journey ...
+
+📺 NDTV Profit
+
+👁️ 124K • 👍 590 • 💬 121 • ⏱️ 3:28 • 1d ago
+
+---
+
+**[This Humanoid Robot Copies Human Movements in Real Time! 🤯🤖](https://www.youtube.com/watch?v=FPREOnJAR0k)**
+
+Unitree's Embodied Avatar V3.0 Guardian mirrors human movements with incredible precision! With a reported 99.8% ...
+
+📺 Nexio Core
+
+👁️ 11K • 💬 3 • ⏱️ 0:06 • 4h ago
 
 ---
 
@@ -240,7 +252,7 @@ Robots are ditching metal joints and growing muscles instead. The 3D-printed leg
 
 📺 Digital Species
 
-👁️ 29K • 👍 782 • 💬 41 • ⏱️ 1:23 • 5d ago
+👁️ 29K • 👍 786 • 💬 41 • ⏱️ 1:23 • 5d ago
 
 ---
 
@@ -250,27 +262,7 @@ China just turned Shenzhen into a giant robot show during APEC week, and 151 hum
 
 📺 MACHINEKIND
 
-👁️ 19K • 👍 270 • 💬 30 • ⏱️ 13:00 • 4d ago
-
----
-
-**[Tesla&#39;s New Robot UPGRADE Is Shocking the Entire World!](https://www.youtube.com/watch?v=2FZhl5oo27o)**
-
-Tesla's new Optimus robot upgrade is much bigger than the viral robot clips suggest. Hidden images inside Tesla's own Android ...
-
-📺 Tyrone
-
-👁️ 71K • 👍 426 • 💬 12 • ⏱️ 27:54 • 5d ago
-
----
-
-**[My FIRST Programmable Humanoid Robot! | Noetix Boomy Full Test](https://www.youtube.com/watch?v=6cbdl5iDC1U)**
-
-I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot from @NoetixRobotics that walks on two legs and ...
-
-📺 Eric’s Tech World
-
-👁️ 28K • 👍 295 • 💬 43 • ⏱️ 13:13 • 5d ago
+👁️ 20K • 👍 275 • 💬 30 • ⏱️ 13:00 • 4d ago
 
 ---
 
@@ -280,7 +272,17 @@ Thanks to Albert for sponsoring this video. Genius is an AI-powered financial as
 
 📺 Ryan Shaw
 
-👁️ 137K • 👍 2K • 💬 295 • ⏱️ 16:03 • 4d ago
+👁️ 138K • 👍 2K • 💬 295 • ⏱️ 16:03 • 4d ago
+
+---
+
+**[My FIRST Programmable Humanoid Robot! | Noetix Boomy Full Test](https://www.youtube.com/watch?v=6cbdl5iDC1U)**
+
+I finally got my first humanoid robot! Meet Boomy, a bipedal AI humanoid robot from @NoetixRobotics that walks on two legs and ...
+
+📺 Eric’s Tech World
+
+👁️ 29K • 👍 304 • 💬 44 • ⏱️ 13:13 • 5d ago
 
 ---
 
