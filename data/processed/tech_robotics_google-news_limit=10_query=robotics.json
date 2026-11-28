@@ -5,82 +5,22 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Exploring an AI reboot and the ethics that surround it",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZzUyQkxTczhwaDhBYmhYaFhuNHhLUktJTGNRMS1XTDdGLXR0aWl5Z0RxTHRKcUJ0NURTSXJCZXNIMXhwSDB1NHhJeEEzR1pIMUxUR1VseXRwVlhxekhBNHB2bmRTa0ZGWGZtYWUyQ1pJLVpFLUxaNzJHaHg0UnBWWW9zeXFUMDVCRkFEbDJfY3NjQQ?oc=5",
+      "pub_date": 1795822530.0,
+      "article_url": "https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Robots will have a staggering economic impact",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXVGRjE5dERHSklyWnlwcGlXQzhHMHp4aUFrWlE2UFE2OTBrczh1WlE4b1pzRUdjVngyeTZEc3FYVXV3eVBsSF9VRW8yVG5rNm9QZlN6Zk44ZTFTMU1mV3hLaTR5WGszcGM4Q0YteTdWNWhuLTJSM1FSYUI2YVdlZGlJVmpJOWV3YVRteTZuZHhJUGZT?oc=5",
       "pub_date": 1795690173.0,
       "article_url": "https://www.economist.com/leaders/2026/11/26/robots-will-have-a-staggering-economic-impact",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Humanoid robots are coming\u2014sooner than you think",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVcwd25vNlVhVThFSlJUVHRacFpnZzgtbElYaExPOGt4cHA3SEFCWE9XcmZMVUJCWDNhNi0ycDdOWTV5ajU4N0J3akZzTGVqR3NDZmQyQ1h5UGptRnItcGxWOXdNQ3o2eHEzRzVBc2QxREdPV3Yxclc3Qkt0MXVEc1MyUk9GSzY2U25GSU0xcmhuZy1XWEx2Znpn?oc=5",
-      "pub_date": 1795690118.0,
-      "article_url": "https://www.economist.com/briefing/2026/11/26/humanoid-robots-are-coming-sooner-than-you-think",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1BINks3MVZUQ1BqeGk5azVmcm9QaFpCY001LVlOVVpvRW1SdG9xNlBENG5hLXFRamhpS0o0anNBZWU5ZzJaR2k5b0JFc2FRQ3djY3A2LTlaOW5sSFhWdGEzdHRyQzg0S2h2aVJMNWlzZE40UUp4RV9yTzN0RmdoaFpQVnJBRHZDOVNLadIBkgFBVV95cUxObzFMRk80QVkxUUIxdDFGSXdab01lX2xZTjhab0pRUXpzbTA3XzNJQXhYVjdJZVhIQU01a3lJNjdVeFcwTko1MC1Cak43aEtZakI3bVpOVjB5Q2JqTXVQRGo4NmtYX3QzVGNDczJHT09lRC16R0dOTTNUUDRWUGl2LVhZeHNtVHppemJlNjJuWVd6UQ?oc=5",
-      "pub_date": 1795678211.0,
-      "article_url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
-      "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday."
-    },
-    {
-      "headline": "I spent a day only using robot services. Here's how I'd rank them.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2V3aTFOZFRFM0RPbnE5MGJndGlaUml4NThOU09xMk11OVFiZXV1eGVwd3hBcWRPX2t3bTFJdnZfZy1CaXp4dXoxeHZDMWhVX3JpMmF3YmFHY0t3aXVlbWlTNWZtTm5NallDTTBjalpSRnJMU3VnVWxNeHluejlMZXRQWnVmOVMwVlgyNHRtcTJiTWhqRzEyag?oc=5",
-      "pub_date": 1795780800.0,
-      "article_url": "https://www.businessinsider.com/robot-services-ranking-list-costs-humanoids-robotaxis-2026-11",
-      "image": "https://i.insider.com/6b0715a473f126f9eccba818?width=1200&format=jpeg",
-      "description": "Business Insider's Lloyd Lee used every robot service he could find in San Francisco, from robotaxis to humanoid cleaning services."
-    },
-    {
-      "headline": "From Cassette Tapes to Humanoids: TDK Chases Demand for Sensors in Data Centers, Robots",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUx0VnQtMktySjRnREJFSjhwSjl0Mk9kNXVFQ1FqV1hwZmM5WUJwdmNITDZpaHU1WER2akJ3b1FWbVRtSnpqQTU0MGRpQWNYMTl0aW54YlpQdl9NcVEzR19Fc1cxLXlQamJ6VFBzNVY2Mnozd29JRDQwX1pna25XREFMa25YSHNyTHNVVjlBZk5IcUd3LUo4dnRRWlVIcXNnOEpONzc3dlBzdlBSTWZGcA?oc=5",
-      "pub_date": 1795726800.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Volvo tests humanoid robots at Belgium plant ahead of 2027 rollout",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNi1NQzhlT0lqZ1ZFZHhYRFd3bmZRQ1UxS0tFNmRxQ19pU1UzTEpiR1ZFTW81cGU4U0Y5Q3JVc1lKLXdsd0Y0Mk1XY1Y4RWdvazJuc0o2RWxFT1Z1YXZySHA4YjdFamRTMGpoeEhCTXB5dDlPTzNJbFkwd3JDaENlbFlwaEEzMnR0cm5nOHV1eDFfX3BZVFczbHN4d0gzZFNIRGdmdXNqaUtjT3dtYU12MW5LN1l2UG1BNFRGRzUzV3Y3THRn?oc=5",
-      "pub_date": 1795749060.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/volvo-trains-humanoid-robots-to-handle-factory-tasks-targets-production-in-2027",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-38.jpg",
-      "description": "Volvo is training Hexagon's AEON humanoid robots at its Ghent factory, with a production rollout targeted for mid-2027."
-    },
-    {
-      "headline": "45 humanoid robots process up to 1,200 parcels an hour in postal logistics trial",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmFlYXBMUnNxX1ZycThnWkxpXzJnMlBaWHpmc0UtTTEzS3pPU1AzUXQ3SklPOEJRNWx5MThhUWxxZDF1SHB2MFRzRTZLeXpmY2thWWN1ODdNUmlmM1V3bUNNTDlVY0N5Tldja2JoVWwzS2EtSzFWblFkSUt1NkozSEtUeGVPMWFubWVN?oc=5",
-      "pub_date": 1795771920.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-postal-trial",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-Design-4-8.jpg",
-      "description": "China Post deploys 45 ROBOTERA humanoids to automate parcel handling in a large-scale logistics trial."
-    },
-    {
-      "headline": "With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORi1McEY4Z0s0WFpoM1JMenFlX1hiejdjbExuMkwyNlI4cWljR0V2V2pkcEV0NDRZYXM4Rzd2TFJjRnBJLW8tcWI5S0ZSX3lUcEpkaWs3X2J0MFpCd3BXZ2FZSm03WGV0WVlOdE8xSDhhR3R1Wk4ySGhaRkRPMk9mdm5XSV85QklC?oc=5",
-      "pub_date": 1795802479.0,
-      "article_url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
       "image": null,
       "description": null
     },
@@ -95,16 +35,76 @@
       "description": "Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says."
     },
     {
-      "headline": "Qualcomm, Cava, and Dutch Bros Earnings and a Robotics IPO",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVlJaVZ1VVlld0t4bEs2djlsSUItWlVYTktEcVRqWnFneml2OEx4YkQ4ZHR6OGlFZWlsX09zSTRMRUVSVnhXUGZteHRqNHk1cUVDN0h6dm42WlZGM0Y2NTJaOU1LRVh1bW51YWRCeVNTU3lmdVpQUERHd2ZIQWlYdXVGVmZNaS1TdGFHMXRzVlY0Yk1SMk9xTnN3UHYxcldJ?oc=5",
-      "pub_date": 1795801562.0,
-      "article_url": "https://www.fool.com/investing/2026/11/27/qualcomm-cava-and-dutch-bros-earnings-and-a-robotics-ipo/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fca6c7b42ba9b6aa04e214b2c0bb65625ef990afd-1280x720.jpg&w=1200&op=resize",
-      "description": "Knowing how to control one\u2019s emotions can be just as important as picking the right stocks. Plus, Qualcomm, Cava, and Dutch Bros earnings and a first look at robotics stock Agility Robotics."
+      "headline": "Sony\u2019s dog robot can\u2019t do chores but offers companionship",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGRkalFuT1U2bUNNbDRsQUxlTmhaYUZycVY1elJ5MEE5Q3h3SU1PSUNRSExrRkd5Tm1hdWFFMGppNDZkdjV2NjZfU3YwWVJTYTFSMk1kNlhkVFpodkRZWHJCazlsQWRRUWwtU0k2VnRIRzRYTG5rOUlaSnB2OFRPd2d4LUlRRVhHTlU1dWNlbjl0bGlBNWp0bjlzTUVtVFVWekNR?oc=5",
+      "pub_date": 1795759896.0,
+      "article_url": "https://apnews.com/article/robots-aibo-sony-japan-dogs-companionship-ee0dbf69988f0c6c18ccda4756db66f9",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "I spent a day only using robot services. Here's how I'd rank them.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2V3aTFOZFRFM0RPbnE5MGJndGlaUml4NThOU09xMk11OVFiZXV1eGVwd3hBcWRPX2t3bTFJdnZfZy1CaXp4dXoxeHZDMWhVX3JpMmF3YmFHY0t3aXVlbWlTNWZtTm5NallDTTBjalpSRnJMU3VnVWxNeHluejlMZXRQWnVmOVMwVlgyNHRtcTJiTWhqRzEyag?oc=5",
+      "pub_date": 1795780800.0,
+      "article_url": "https://www.businessinsider.com/robot-services-ranking-list-costs-humanoids-robotaxis-2026-11",
+      "image": "https://i.insider.com/6b0715a473f126f9eccba818?width=1200&format=jpeg",
+      "description": "Business Insider's Lloyd Lee used every robot service he could find in San Francisco, from robotaxis to humanoid cleaning services."
+    },
+    {
+      "headline": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1BINks3MVZUQ1BqeGk5azVmcm9QaFpCY001LVlOVVpvRW1SdG9xNlBENG5hLXFRamhpS0o0anNBZWU5ZzJaR2k5b0JFc2FRQ3djY3A2LTlaOW5sSFhWdGEzdHRyQzg0S2h2aVJMNWlzZE40UUp4RV9yTzN0RmdoaFpQVnJBRHZDOVNLadIBkgFBVV95cUxObzFMRk80QVkxUUIxdDFGSXdab01lX2xZTjhab0pRUXpzbTA3XzNJQXhYVjdJZVhIQU01a3lJNjdVeFcwTko1MC1Cak43aEtZakI3bVpOVjB5Q2JqTXVQRGo4NmtYX3QzVGNDczJHT09lRC16R0dOTTNUUDRWUGl2LVhZeHNtVHppemJlNjJuWVd6UQ?oc=5",
+      "pub_date": 1795678211.0,
+      "article_url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
+      "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday."
+    },
+    {
+      "headline": "Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48%",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3I5SlFuRUYzOVBZV05BajZadDgxMXJaZ2dsZnhTdGw5T09jNjJfV3hlRm02NXNrcDM1b3FHV3h4ZXFBMm5FeGZzR1AyYWxGOEtwbTA2UTdhN1JLcGZQV2FzUksxVjlNU3VtdUVhQkI2aWppZW50SFhkWWZfSmZ3bDdpRW1BdU9aYWwxck5iZEszcDhXMDBvTGtaN1RDcUlHbmcwSjhKQzZtbTkxVGVteHZ6YkFOY0FtYW95S3FpYjFGZ9IBwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Zw?oc=5",
+      "pub_date": 1795788958.0,
+      "article_url": "https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Humanoid robots are coming \u2013 sooner than you think",
+      "source": "AFR",
+      "source_url": "https://www.afr.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXJLVXVZSkxpaXFDTUpTdDRxb0RuY09SSmdBYnNqaXExVkxFcmVPVGRWblV6V1llbnpNbGJ0eGp6dWJEdC1iUkJRdUoxZmVpN3NlV1BldWJscTBLLUdHUzZpREZzNFh4di1GQTNPWEw5djV3d0tteWQtTnlYZk9talg0eTdfMnExNE9LRm5NeGZpNTBKMXVPWFA1WQ?oc=5",
+      "pub_date": 1795755600.0,
+      "article_url": "https://www.afr.com/technology/humanoid-robots-are-coming-sooner-than-you-think-20261127-p61hwo",
+      "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_auto%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6f0d1b8230532157c04b8752f76ce75c48c9aaff",
+      "description": "An android that takes the housework off your hands is easy to cast as a force for good. One that takes your job is an obvious villain."
+    },
+    {
+      "headline": "GXO doubling down on robotics in 2027",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYSWh1TzQ3OGVJM1R6YWc4MDZadkw5QTUteWdQVDRWUlRBUDdIbDdnbHFpQUNGTEcxSFptdjRJdlMxZS1YUmdyaXJ5WHVYUl9PNXplSU9ZWTFMWktrLXl2SkQyT3UxbG00ZW1PNDlnYnBLTEJoelpvdA?oc=5",
+      "pub_date": 1795788077.0,
+      "article_url": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/GXO-robots-featured.jpg",
+      "description": "GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio."
+    },
+    {
+      "headline": "FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWkVOWi14OExQWGs2aXlrcTEzbGlGSGVNanNZRkZYMVU0aEtQN09UUGdxVTNPb2Vod2RhVGlRZVlqb1JtcXhxR3BnWGRPeGdqbzl6ZnozZU1MNE82MXlDTFhUMHQ2dFpJZWtQcDhEYjhTM3B5clFfTHo1S0ZaS25QVmk3UTRyUmItZFBGNjRrdU95aTFGcmo0ZjlwbS03OHpyZDY2azJYNE1sUGRVd2ZKYkJrQWlBeWE4OHl3X05EbHhTZERJcERwRVRYNDAwaGxFQldLVklQMEtvbmVUT2o3S28xZXEwTGNCVVlzZXQ2ZVp4NzRrbmhIS0V6VXJfWkZMbU4xOUNvMUl3Q1hVbWVxbVBraGUwdw?oc=5",
+      "pub_date": 1795786200.0,
+      "article_url": "https://www.morningstar.com/news/pr-newswire/20261127cn07270/ff-eai-robotics-ecosystem-ffr-announces-parent-company-faraday-future-ffai-ownership-of-approximately-41-million-in-ffr-equity",
+      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-11-27T21:51:48.246870+00:00"
+  "fetched_at": "2026-11-28T03:44:38.671778+00:00"
 }

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-11-27T21:51:51.978922+00:00'
+updated: '2026-11-28T03:44:58.936860+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** November 27, 2026 at 21:51 UTC  
+**Last Updated:** November 28, 2026 at 03:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,809.99
+### $59,950.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -0.7%  
-**30d:** -23.3%  
-**90d:** -23.1%  
-**1y:** -34.3%  
+**24h:** -2.4%  
+**7d:** -2.1%  
+**30d:** -22.5%  
+**90d:** -23.7%  
+**1y:** -34.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1202.35B
+**Market Cap:** $1205.29B
 Rank #1
 
 **Circulating Supply:** 20,117,925 BTC
 95.8% of max
 
 **All-Time High:** $126,080.00
--52.6%
+-52.5%
 
 **All-Time Low:** $67.81
-+88037.4%
++88251.3%
 
 ---
 
@@ -97,7 +97,7 @@ We’re so back! /s
 
 Congrats everyone.
 
-12d ago
+13d ago
 
 ---
 
@@ -125,7 +125,7 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 62 > 64.5
 
-12d ago
+13d ago
 
 ---
 
@@ -133,13 +133,13 @@ Trezor confirmed three Safe 5 hardware wallets sold through Southeast Asian rese
 
 I really have no words of hope. But I am holding on.
 
-12d ago
+13d ago
 
 ---
 
 **[HODL](https://www.reddit.com/r/Bitcoin/comments/1xwizma/hodl/)**
 
-12d ago
+13d ago
 
 ---
 
@@ -147,7 +147,7 @@ I really have no words of hope. But I am holding on.
 
 What is going on with Bitcoin today?
 
-12d ago
+13d ago
 
 ---
 
@@ -157,15 +157,39 @@ What is going on with Bitcoin today?
 
 **[A 'death cross' in the bitcoin (BTC) price is coming: Crypto Daily](https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13)**
 
-CoinDesk • 9h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Why Strategy Can Rebound to $175 in 2027 Even If Bitcoin Stays Below Peak](https://finance.yahoo.com/markets/stocks/articles/why-strategy-rebound-175-2027-174554314.html)**
+**[4 Scary Bitcoin Charts That Suggest This Bear Market Is Different](https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market)**
 
-Strategy Inc. holds roughly 4% of all Bitcoin that will ever exist, yet its stock has fallen harder than the coin itself. Three levers, a hidden premium, and heavy dilution decide whether a rebound can happen without a new Bitcoin record.
+Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels. Here's what it means.
 
-Yahoo Finance • 1d ago
+Decrypt • 7h ago
+
+---
+
+**[Veteran economist says Bitcoin holders have little to brag about this Thanksgiving](https://finance.yahoo.com/markets/crypto/articles/veteran-economist-says-bitcoin-holders-003000524.html)**
+
+Peter Schiff pokes at HODLers as Bitcoin trades about a third lower than a year ago.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Home Bitcoin miner turns $299 machine into $187,000 jackpot](https://finance.yahoo.com/markets/crypto/articles/home-bitcoin-miner-turns-299-230000624.html)**
+
+A solo Bitcoin miner wins a $187,000 reward in a rare instance.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Abraxas Capital Grabs 21,520 Bitcoin as BTC Hovers Near $60K](https://bitbo.io/news/abraxas-capital-grabs-bitcoin/)**
+
+Wallets linked to Abraxas Capital withdrew 21,520 bitcoin worth about $1.285 billion from exchanges over the past week, according to Lookonchain.
+
+Bitbo • 14h ago
 
 ---
 
@@ -173,7 +197,7 @@ Yahoo Finance • 1d ago
 
 Strategy's latest buying streak might not be enough to turn things around for its stock.
 
-The Motley Fool • 8h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -185,45 +209,25 @@ The Block • 1d ago
 
 ---
 
-**[$7 Billion in Bitcoin Options Just Expired: Here’s What It Means](https://finance.yahoo.com/markets/options/articles/7-billion-bitcoin-options-just-181603422.html)**
+**[Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock?](https://finance.yahoo.com/markets/crypto/articles/strategy-just-bought-bitcoin-4th-140312177.html)**
 
-Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.
+Strategy's latest buying streak might not be enough to turn things around for its stock.
 
-Yahoo Finance • 3h ago
-
----
-
-**[IREN Is Transitioning From Bitcoin Mining to AI Cloud](https://ca.finance.yahoo.com/news/iren-transitioning-bitcoin-mining-ai-202843357.html)**
-
-We just published the list of the 10 Best Up and Coming Data Center Stocks to Buy for 2027, and IREN Limited ranked 6th on this list Few corners of the market have been as volatile as data centers. Between October 6 and November 6, debt-heavy data center operators and GPU cloud providers declined 47% as […]
-
-Yahoo! Finance Canada • 1h ago
-
----
-
-**[Abraxas Capital Grabs 21,520 Bitcoin as BTC Hovers Near $60K](https://bitbo.io/news/abraxas-capital-grabs-bitcoin/)**
-
-Wallets linked to Abraxas Capital withdrew 21,520 bitcoin worth about $1.285 billion from exchanges over the past week, according to Lookonchain.
-
-Bitbo • 8h ago
+Yahoo Finance • 13h ago
 
 ---
 
 **[Bitcoin Miners Hammered Again as Price Rout Squeezes Margins](https://www.bloomberg.com/news/articles/2026-11-25/bitcoin-miners-hammered-again-as-price-rout-squeezes-margins)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Live updates: Bitcoin slips below $60,000 as Nvidia falls more than 2%](https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains)**
+**[AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33](https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549)**
 
-CoinDesk • 5h ago
+K33 analysts said even a mathematically efficient algorithm might take too long to recover a Bitcoin private key in practice.
 
----
-
-**[Bitcoin rises 2% as tech futures gain 3% and silver jumps 7%](https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound)**
-
-CoinDesk • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -249,7 +253,7 @@ Notes on mathematics and puzzles.
 
 The all-in cost of buying $1,000 of Bitcoin in 58 countries: exchange fee, spread, deposit, currency conversion and withdrawal, at the cheapest exchange in each.
 
-⬆️ 2 • 💬 1 • 2d ago • [CryptoTrueCost](https://www.cryptotruecost.com/en/bitcoin-cost-map/)
+⬆️ 2 • 💬 1 • 3d ago • [CryptoTrueCost](https://www.cryptotruecost.com/en/bitcoin-cost-map/)
 
 ---
 
@@ -289,7 +293,7 @@ In November, an attacker rerouted internet traffic to redirect bitcoin miners on
 
 About 80% cheaper per accepted answer than one call per task, zero regressions (measured). Claude Code skill, MCP server, Python library. - nmayp/carpool
 
-⬆️ 2 • 💬 1 • 7h ago • [GitHub](https://github.com/nmayp/carpool)
+⬆️ 2 • 💬 1 • 13h ago • [GitHub](https://github.com/nmayp/carpool)
 
 ---
 
@@ -305,7 +309,7 @@ Git for Postgres data, built for agents: branches, history, merges and undo insi
 
 An adventurous hamster named Buster is back home in Arnprior, Ont., three weeks after hitching a ride inside a discarded Halloween pumpkin and ending up on a farm about 20 kilometres away.
 
-⬆️ 6 • 💬 1 • 23h ago • [CBC](https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959)
+⬆️ 6 • 💬 1 • 1d ago • [CBC](https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959)
 
 ---
 
@@ -313,43 +317,33 @@ An adventurous hamster named Buster is back home in Arnprior, Ont., three weeks 
 
 ## YouTube Videos: "bitcoin"
 
-**[The Worst Bitcoin Bear Market Ever? Here&#39;s What Actually Broke](https://www.youtube.com/watch?v=tv97TrDGk3I)**
-
-Is this the worst Bitcoin bear market ever, or has something deeper than the Bitcoin price broken? As BTC crashes below its ...
-
-📺 Simply Bitcoin
-
-👁️ 60K • 👍 2K • 💬 231 • ⏱️ 15:29 • 1d ago
-
----
-
 **[Bitcoin ETFs just set a record nobody wanted.](https://www.youtube.com/watch?v=mlam9ihnbGw)**
 
 Bitcoin ETFs just set a record for money pulled out in a single month, and November isn't over. Scott Melker walks through $453 ...
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 196 • 💬 51 • ⏱️ 14:53 • 3h ago
+👁️ 16K • 👍 285 • 💬 88 • ⏱️ 14:53 • 9h ago
 
 ---
 
-**[BITCOIN: THIS HAS ONLY HAPPENED 5 TIMES SINCE 2011!](https://www.youtube.com/watch?v=ng1ZiAMLuIY)**
+**[The Worst Bitcoin Bear Market Ever? Here&#39;s What Actually Broke](https://www.youtube.com/watch?v=tv97TrDGk3I)**
 
-APPLY TO JOIN MY COMMUNITY. https://go.didi-freedom-academy.com/yt-ng1ZiAMLuIY Free 1-on-1 call with my team.
+Is this the worst Bitcoin bear market ever, or has something deeper than the Bitcoin price broken? As BTC crashes below its ...
 
-📺 THE BITCOIN FAMILY Didi Taihuttu
+📺 Simply Bitcoin
 
-👁️ 15K • 👍 688 • 💬 69 • ⏱️ 16:11 • 15h ago
+👁️ 68K • 👍 2K • 💬 254 • ⏱️ 15:29 • 1d ago
 
 ---
 
-**[Bitcoin: This Is My Worst Case Scenario (Prepare)](https://www.youtube.com/watch?v=XWrZH56Bqd0)**
+**[The Truth About Bitcoins Crash No One Wants To Admit....](https://www.youtube.com/watch?v=cDxCpPoOH4Q)**
 
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+Bitcoin bounced at $55k. But this is why that bounce may not hold. Sign up for Market Cipher & Level Up Your Trading!
 
-📺 Crypto Kid
+📺 Crypto Jebb
 
-👁️ 2K • 👍 131 • 💬 22 • ⏱️ 6:34 • 5h ago
+👁️ 7K • 👍 197 • 💬 43 • ⏱️ 11:33 • 8h ago
 
 ---
 
@@ -359,17 +353,55 @@ Into The Cryptoverse Premium BLACK Friday Sale (use discount code blackfriday fo
 
 📺 Benjamin Cowen
 
-👁️ 64K • 👍 3K • 💬 121 • ⏱️ 18:43 • 4h ago
+👁️ 117K • 👍 4K • 💬 161 • ⏱️ 18:43 • 10h ago
 
 ---
 
-**[Crypto Is About To Bounce On This Commodities SIGNAL!](https://www.youtube.com/watch?v=83raR1-QHMY)**
+**[Bitcoin: The Death Cross Is COMING (do this now)](https://www.youtube.com/watch?v=7ToXCJGpmQ0)**
 
-Markets are showing signs of recovery after a brutal period of capitulation, but is this the beginning of a sustained reversal or just a ...
+Unlock 15% Deposit Bonus (plus VIP 5 for 3 months) as a new user on BTCC: ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 25K • 👍 669 • 💬 32 • ⏱️ 35:08 • 8h ago
+👁️ 11K • 👍 523 • 💬 28 • ⏱️ 9:40 • 3h ago
+
+---
+
+**[BITCOIN: NOOOOOW !!!!!!](https://www.youtube.com/watch?v=4fUdZ3xZlJI)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXanthropic Deposit ...
+
+📺 The Moon Show
+
+👁️ 13K • 👍 420 • 💬 98 • ⏱️ 4:48 • 17h ago
+
+---
+
+**[BITCOIN: I JUST LOST $10 MILLION [but here is my new Trade]](https://www.youtube.com/watch?v=370LfsGPJyI)**
+
+📺 MMCrypto
+
+👁️ 43K • 👍 2K • 💬 290 • ⏱️ 4:03 • 19h ago
+
+---
+
+**[Bitcoin Just Passed Its BIGGEST Test In Months](https://www.youtube.com/watch?v=4AvI_X2TZ6s)**
+
+Bitcoin is testing a level that could decide whether the bear market ends or gets worse, as record ETF outflows split Wall Street on ...
+
+📺 The Wolf Of All Streets
+
+👁️ 19K • 👍 528 • 💬 40 • ⏱️ 39:03 • 13h ago
+
+---
+
+**[BITCOIN: THIS HAS ONLY HAPPENED 5 TIMES SINCE 2011!](https://www.youtube.com/watch?v=ng1ZiAMLuIY)**
+
+APPLY TO JOIN MY COMMUNITY. https://go.didi-freedom-academy.com/yt-ng1ZiAMLuIY Free 1-on-1 call with my team.
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 17K • 👍 724 • 💬 74 • ⏱️ 16:11 • 21h ago
 
 ---
 
@@ -379,37 +411,7 @@ Should you buy Bitcoin, sell it or wait? Three days after the Bitcoin crash took
 
 📺 Frank Hepworth
 
-👁️ 587 • 👍 6 • 💬 2 • ⏱️ 0:49 • 3h ago
-
----
-
-**[This Is When I Sell ALL My Bitcoin. | Simon Dixon](https://www.youtube.com/watch?v=pmxsQXU5HDA)**
-
-Watch the full episode: youtu.be/Fln3_Jtdl8A Simon Dixon names the exact conditions that would make him walk away from ...
-
-📺 Rob Wallace | Bitcoin News
-
-👁️ 52K • 👍 898 • 💬 161 • ⏱️ 23:12 • 1d ago
-
----
-
-**[Bitcoin: This Is Why Price ISN&#39;T Going Up (Double Bluff Low)](https://www.youtube.com/watch?v=mwXkMRTdd9k)**
-
-TIA PRO Membership, HUGE BLACK FRIDAY SALE → https://tiainvestor.com/black-friday/ ------------- Are you trading like smart ...
-
-📺 Jason Pizzino
-
-👁️ 37K • 👍 854 • 💬 75 • ⏱️ 25:34 • 20h ago
-
----
-
-**[BITCOIN: HISTORY IS REPEATING AGAIN...](https://www.youtube.com/watch?v=TskSLZ_wi5A)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-8?vipCode=00dt&qrType=activity Instant VIP6 (44% fee ...
-
-📺 Crypto Rover
-
-👁️ 17K • 👍 681 • 💬 32 • ⏱️ 10:31 • 14h ago
+👁️ 2K • 👍 13 • 💬 3 • ⏱️ 0:49 • 9h ago
 
 ---
 

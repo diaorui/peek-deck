@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-11-27T21:51:51.984804+00:00'
+updated: '2026-11-28T03:44:58.940845+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** November 27, 2026 at 21:51 UTC  
+**Last Updated:** November 28, 2026 at 03:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,664.82
+### $1,668.42
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -1.2%  
-**30d:** -26.1%  
-**90d:** -31.2%  
-**1y:** -45.1%  
+**24h:** -3.9%  
+**7d:** -3.5%  
+**30d:** -25.9%  
+**90d:** -32.5%  
+**1y:** -44.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $203.50B
+**Market Cap:** $203.32B
 Rank #2
 
 **Circulating Supply:** 122,256,647 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.3%
+-66.4%
 
 **All-Time Low:** $0.43
-+384336.7%
++384004.1%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's Lean Ethereum and post-quantum roadmap targeting 2029 has a clear technical direction for consensus and execution: replacing BLS attestations with hash-based leanXMSS aggregated via leanVM, and giving user accounts flexible post-quantum authentication paths. While active EOA users and smart accounts can gradually migrate to post-quantum signature verification once native account abstraction and precompiles ship, two legacy state bottlenecks on mainnet are much harder to untangle cleanly: First, 0x01 and 0x02 validator withdrawal credentials. Setting a withdrawal credential is a one-time, irreversible operation tied to a 20-byte execution-layer address. If that execution-layer withdrawal address is a standard EOA whose public key has already been exposed on-chain by a prior transaction, a validator operator cannot simply rotate the withdrawal credential to a new post-quantum smart account in place without fully exiting the validator and re-depositing. Second, immutable vesting contracts, multi-sigs, and cross-chain bridges with hardcoded 20-byte beneficiary addresses. Thousands of deployed contracts store recipient addresses in immutable storage slots with no admin setter. Even if Ethereum introduces protocol-level EOA deactivation or forced migration rules later this decade, funds locked inside immutable contracts pointing to legacy elliptic curve addresses cannot be redirected without custom wrapper standards or social-layer recovery rules. For stakers and protocol developers following the Lean Ethereum and Glamsterdam/Hegota milestones, how do you see validator operators handling existing 0x01/0x02 withdrawal credentials when execution-layer PQ migration opens up?
 
-12d ago
+13d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why Ethereum should become post-quantum and post-AI in 2027, and what that means for Hegotá and quick slots
 
-🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 15d ago
+🔗 [Ethlabs](https://ethlabs.org/writings/pqai27.html) • 16d ago
 
 ---
 
@@ -162,7 +162,27 @@ ethereum.org • 3d ago
 
 **[Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know](https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know)**
 
-CoinDesk • 16h ago
+CoinDesk • 22h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Steady on Thanksgiving: Top Analyst Says BTC Rebound to $100,000 Will Re](https://www.benzinga.com/crypto/cryptocurrency/26/11/63664704/bitcoin-ethereum-xrp-dogecoin-crypto-thanksgiving)**
+
+Benzinga • 1d ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies fall](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-fall-fa5b1e2a-e2e963f90acf)**
+
+MarketWatch • 12h ago
+
+---
+
+**[Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-25-222619217.html)**
+
+Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -174,17 +194,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-25-222619217.html)**
+**[‘Not your Silicon, not your keys’ — Ethereum’s Buterin calls for open-source chip design](https://ambcrypto.com/not-your-silicon-not-your-keys-ethereums-buterin-calls-for-open-source-chip-design/)**
 
-Cryptocurrencies edged higher as short covering provided temporary relief, but major ETF withdrawals raise questions about whether the rebound can last.
+Why does he think hardware security is a growing concern for crypto users?
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Steady on Thanksgiving: Top Analyst Says BTC Rebound to $100,000 Will Re](https://www.benzinga.com/crypto/cryptocurrency/26/11/63664704/bitcoin-ethereum-xrp-dogecoin-crypto-thanksgiving)**
-
-Benzinga • 19h ago
+AMBCrypto • 1h ago
 
 ---
 
@@ -192,15 +206,7 @@ Benzinga • 19h ago
 
 Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegotá.
 
-The Block • 14h ago
-
----
-
-**[Ethereum’s walkaway test: What is it and what does it mean for the long-term health of the network?](https://cryptobriefing.com/ethereums-walkaway-test-what-is-it-and-what-does-it-mean-for-the-long-term-health-of-the-network/)**
-
-Ethereum's walkaway test aims to ensure the network can remain secure, scalable and decentralized without ongoing intervention from devs.
-
-Crypto Briefing • 9h ago
+The Block • 19h ago
 
 ---
 
@@ -208,7 +214,7 @@ Crypto Briefing • 9h ago
 
 Ethereum developers weigh how to deliver transaction censorship protections alongside work on quantum-resistant consensus.
 
-CryptoSlate • 15h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -217,12 +223,6 @@ CryptoSlate • 15h ago
 The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI pose threats.
 
 Decrypt • 3d ago
-
----
-
-**[0xAC33...531B4d](https://arkm.com/explorer/address/0xac33748aad09cea8e50484cc0fa168dc23531b4d)**
-
-Arkham • 3d ago
 
 ---
 
@@ -236,7 +236,7 @@ Standard Chartered's Geoffrey Kendrick explains why he believes Ethereum could r
 
 📺 Cointelegraph
 
-👁️ 7K • 👍 114 • 💬 34 • ⏱️ 5:13 • 6h ago
+👁️ 14K • 👍 171 • 💬 34 • ⏱️ 5:13 • 12h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 89 • 💬 41 • ⏱️ 25:02 • 5h ago
+👁️ 6K • 👍 118 • 💬 69 • ⏱️ 25:02 • 11h ago
 
 ---
 
@@ -256,27 +256,17 @@ Ethereum is trying to bounce just above the important support from June. One mor
 
 📺 More Crypto Online
 
-👁️ 468 • 👍 41 • 💬 1 • ⏱️ 6:42 • 2h ago
+👁️ 2K • 👍 67 • 💬 1 • ⏱️ 6:42 • 8h ago
 
 ---
 
-**[Ethereum Finally Turns Green: Is the Bounce Starting?](https://www.youtube.com/watch?v=-EPk04pdOrM)**
+**[Jamie Dimon Fought The CLARITY Act. Then JPMorgan Went LIVE On Ethereum!](https://www.youtube.com/watch?v=nHbYn-6zcNY)**
 
-Ethereum is showing green candles and the plan is unchanged: a wave 2 bounce in three waves toward the resistance at $1937 ...
+Get Our Top Altcoin Picks Early: https://altcoinpro.com/altcoinpicks?el=yr2y&ts=yt Connect With Us: Email: ...
 
-📺 More Crypto Online
+📺 BULLRUNNERS
 
-👁️ 5K • 👍 147 • 💬 14 • ⏱️ 6:38 • 17h ago
-
----
-
-**[BITCOIN BREAKOUT PENDING: Time is Running Out!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MKIevaD1CMc)**
-
-BITCOIN BREAKOUT PENDING: Time is Running Out!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 285 • 💬 52 • ⏱️ 16:20 • 18h ago
+👁️ 690 • 👍 12 • 💬 16 • ⏱️ 15:35 • 4h ago
 
 ---
 
@@ -286,7 +276,27 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 17K • 👍 288 • 💬 88 • ⏱️ 38:29 • 2d ago
+👁️ 18K • 👍 295 • 💬 89 • ⏱️ 38:29 • 2d ago
+
+---
+
+**[Ethereum Finally Turns Green: Is the Bounce Starting?](https://www.youtube.com/watch?v=-EPk04pdOrM)**
+
+Ethereum is showing green candles and the plan is unchanged: a wave 2 bounce in three waves toward the resistance at $1937 ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 148 • 💬 14 • ⏱️ 6:38 • 23h ago
+
+---
+
+**[Critical Warning From Santiment Regarding XRP, Bitcoin And Ethereum](https://www.youtube.com/watch?v=9gi_gAZwIuw)**
+
+Well everyone, its that time of the four year crypto cycle again, and I think that most people, similiar to the last 3 times this has ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 41K • 👍 3K • 💬 409 • ⏱️ 17:03 • 2d ago
 
 ---
 
@@ -296,27 +306,7 @@ Coin Bureau Telegram https://t.me/+tqtucAbFjkszNGFh Get The Hottest Crypto Deals
 
 📺 Coin Bureau
 
-👁️ 53K • 👍 662 • 💬 31 • ⏱️ 24:26 • 1d ago
-
----
-
-**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=LYuwvF0CzOc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 98 • 💬 8 • ⏱️ 25:35 • 2d ago
-
----
-
-**[SHORT SQUEEZE SIGNALS FOR ETH! (Ethereum Price Prediction)](https://www.youtube.com/watch?v=HCm13o4FUMw)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join my Premium Trading Group: https://whop.com/cilinix-crypto/cilinixpremium/ ...
-
-📺 Cilinix Crypto
-
-👁️ 386 • 👍 10 • ⏱️ 5:04 • 12h ago
+👁️ 55K • 👍 672 • 💬 31 • ⏱️ 24:26 • 1d ago
 
 ---
 
@@ -326,7 +316,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 209 • 💬 22 • ⏱️ 25:12 • 1d ago
+👁️ 15K • 👍 216 • 💬 22 • ⏱️ 25:12 • 1d ago
+
+---
+
+**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin&quot; [2026]](https://www.youtube.com/watch?v=LYuwvF0CzOc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 10K • 👍 99 • 💬 8 • ⏱️ 25:35 • 2d ago
 
 ---
 
